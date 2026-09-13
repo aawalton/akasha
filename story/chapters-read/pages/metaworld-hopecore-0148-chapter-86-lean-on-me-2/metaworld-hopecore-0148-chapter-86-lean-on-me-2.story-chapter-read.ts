@@ -10,9 +10,13 @@ export const metaworldHopecore0148Chapter86LeanOnMe2 = {
   ownLength: 2797,
   unit: "words",
   publishedAt: "2026-08-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3771923/chapter-86-lean-on-me-2",
-  externalId: "3771923",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3771923",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3771923/chapter-86-lean-on-me-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

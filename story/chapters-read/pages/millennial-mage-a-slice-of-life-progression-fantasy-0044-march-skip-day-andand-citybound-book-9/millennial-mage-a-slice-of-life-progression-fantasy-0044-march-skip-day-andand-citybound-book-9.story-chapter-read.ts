@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0044MarchSkipDayAndandC
   unit: "words",
   completedAt: "2026-06-29T19:36:42.567Z",
   publishedAt: "2025-03-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2163154/march-skip-day-citybound-book-9-cover-reveal",
-  externalId: "2163154",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2163154",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2163154/march-skip-day-citybound-book-9-cover-reveal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

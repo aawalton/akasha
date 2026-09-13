@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0030Chapter420LetSGetTo
   unit: "words",
   completedAt: "2026-06-29T19:36:15.475Z",
   publishedAt: "2024-05-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/1634425/chapter-420-lets-get-to-it",
-  externalId: "1634425",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1634425",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/1634425/chapter-420-lets-get-to-it",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

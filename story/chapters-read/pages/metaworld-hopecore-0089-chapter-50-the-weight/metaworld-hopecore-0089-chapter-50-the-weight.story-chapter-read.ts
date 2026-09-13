@@ -10,9 +10,13 @@ export const metaworldHopecore0089Chapter50TheWeight = {
   ownLength: 4326,
   unit: "words",
   publishedAt: "2026-05-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3458429/chapter-50-the-weight",
-  externalId: "3458429",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3458429",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3458429/chapter-50-the-weight",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

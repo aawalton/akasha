@@ -10,9 +10,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0230Chapter721RaneAndTa
   ownLength: 2578,
   unit: "words",
   publishedAt: "2026-06-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3606857/chapter-721-rane-and-tala",
-  externalId: "3606857",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3606857",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3606857/chapter-721-rane-and-tala",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

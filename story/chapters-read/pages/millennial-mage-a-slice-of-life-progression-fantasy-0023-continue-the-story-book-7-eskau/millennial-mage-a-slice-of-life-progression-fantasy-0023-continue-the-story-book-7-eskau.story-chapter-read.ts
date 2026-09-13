@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0023ContinueTheStoryBoo
   unit: "words",
   completedAt: "2026-06-29T19:36:02.223Z",
   publishedAt: "2024-04-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/1617503/continue-the-story-book-7-eskau",
-  externalId: "1617503",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1617503",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/1617503/continue-the-story-book-7-eskau",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

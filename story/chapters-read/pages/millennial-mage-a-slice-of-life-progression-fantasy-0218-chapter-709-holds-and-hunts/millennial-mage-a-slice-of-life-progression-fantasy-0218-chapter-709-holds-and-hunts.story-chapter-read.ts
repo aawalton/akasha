@@ -10,9 +10,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0218Chapter709HoldsAndH
   ownLength: 2768,
   unit: "words",
   publishedAt: "2026-05-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3464294/chapter-709-holds-and-hunts",
-  externalId: "3464294",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3464294",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3464294/chapter-709-holds-and-hunts",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0171Chapter665FairyGard
   unit: "words",
   completedAt: "2026-06-29T19:40:32.612Z",
   publishedAt: "2026-01-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2994400/chapter-665-fairy-garden",
-  externalId: "2994400",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2994400",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2994400/chapter-665-fairy-garden",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0150Chapter646TheConcep
   unit: "words",
   completedAt: "2026-06-29T19:39:52.351Z",
   publishedAt: "2025-12-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2835501/chapter-646-the-concept-more-than-the-fact",
-  externalId: "2835501",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2835501",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2835501/chapter-646-the-concept-more-than-the-fact",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

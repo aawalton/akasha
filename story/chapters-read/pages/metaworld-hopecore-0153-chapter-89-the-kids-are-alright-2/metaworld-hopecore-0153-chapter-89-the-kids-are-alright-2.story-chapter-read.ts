@@ -10,9 +10,13 @@ export const metaworldHopecore0153Chapter89TheKidsAreAlright2 = {
   ownLength: 2539,
   unit: "words",
   publishedAt: "2026-08-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3798308/chapter-89-the-kids-are-alright-2",
-  externalId: "3798308",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3798308",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3798308/chapter-89-the-kids-are-alright-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0119Chapter617NewCitySi
   unit: "words",
   completedAt: "2026-06-29T19:39:06.495Z",
   publishedAt: "2025-09-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2630188/chapter-617-new-city-site",
-  externalId: "2630188",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2630188",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2630188/chapter-617-new-city-site",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

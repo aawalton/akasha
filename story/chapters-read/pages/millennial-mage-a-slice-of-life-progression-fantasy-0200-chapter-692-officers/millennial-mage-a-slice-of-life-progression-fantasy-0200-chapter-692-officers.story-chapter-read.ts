@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0200Chapter692Officers 
   unit: "words",
   completedAt: "2026-06-29T19:41:28.241Z",
   publishedAt: "2026-04-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3255440/chapter-692-officers",
-  externalId: "3255440",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3255440",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3255440/chapter-692-officers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

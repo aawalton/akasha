@@ -12,9 +12,13 @@ export const motherOfLearning001010OverlookedDetails = {
   unit: "words",
   completedAt: "2026-06-29T22:44:03.658Z",
   publishedAt: "2018-10-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/302241/10-overlooked-details",
-  externalId: "302241",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "302241",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/302241/10-overlooked-details",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

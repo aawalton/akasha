@@ -10,9 +10,13 @@ export const metaworldHopecore0115Chapter67AmIWrong = {
   ownLength: 2967,
   unit: "words",
   publishedAt: "2026-06-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3587122/chapter-67-am-i-wrong",
-  externalId: "3587122",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3587122",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3587122/chapter-67-am-i-wrong",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

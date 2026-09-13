@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0008Chapter42WellThatSN
   unit: "words",
   completedAt: "2026-06-29T19:35:33.004Z",
   publishedAt: "2021-12-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/810503/chapter-42-well-thats-new",
-  externalId: "810503",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "810503",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/810503/chapter-42-well-thats-new",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

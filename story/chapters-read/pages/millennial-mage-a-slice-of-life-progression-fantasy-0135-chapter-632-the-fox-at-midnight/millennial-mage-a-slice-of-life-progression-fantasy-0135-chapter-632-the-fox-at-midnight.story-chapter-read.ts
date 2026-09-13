@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0135Chapter632TheFoxAtM
   unit: "words",
   completedAt: "2026-06-29T19:41:45.344Z",
   publishedAt: "2025-11-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2740117/chapter-632-the-fox-at-midnight",
-  externalId: "2740117",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2740117",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2740117/chapter-632-the-fox-at-midnight",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

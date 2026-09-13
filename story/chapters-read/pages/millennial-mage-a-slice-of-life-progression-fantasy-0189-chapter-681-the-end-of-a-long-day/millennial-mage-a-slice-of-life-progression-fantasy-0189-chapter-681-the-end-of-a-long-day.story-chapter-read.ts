@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0189Chapter681TheEndOfA
   unit: "words",
   completedAt: "2026-06-29T19:41:07.397Z",
   publishedAt: "2026-03-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3139780/chapter-681-the-end-of-a-long-day",
-  externalId: "3139780",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3139780",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3139780/chapter-681-the-end-of-a-long-day",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

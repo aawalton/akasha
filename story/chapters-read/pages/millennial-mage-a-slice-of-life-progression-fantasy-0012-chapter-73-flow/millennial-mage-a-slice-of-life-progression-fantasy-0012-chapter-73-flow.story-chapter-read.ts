@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0012Chapter73Flow = {
   unit: "words",
   completedAt: "2026-06-29T19:35:40.732Z",
   publishedAt: "2022-02-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/842169/chapter-73-flow",
-  externalId: "842169",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "842169",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/842169/chapter-73-flow",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

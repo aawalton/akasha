@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0183Chapter676WakingSpa
   unit: "words",
   completedAt: "2026-06-29T19:40:55.907Z",
   publishedAt: "2026-02-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3090804/chapter-676-waking-sparring-balance",
-  externalId: "3090804",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3090804",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3090804/chapter-676-waking-sparring-balance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

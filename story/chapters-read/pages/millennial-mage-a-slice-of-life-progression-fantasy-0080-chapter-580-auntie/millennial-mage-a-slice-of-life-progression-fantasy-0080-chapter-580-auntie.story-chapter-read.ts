@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0080Chapter580Auntie = 
   unit: "words",
   completedAt: "2026-06-29T19:37:51.473Z",
   publishedAt: "2025-06-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2383895/chapter-580-auntie",
-  externalId: "2383895",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2383895",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2383895/chapter-580-auntie",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

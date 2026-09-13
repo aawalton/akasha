@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0038Chapter540WhatNow =
   unit: "words",
   completedAt: "2026-06-29T19:36:30.961Z",
   publishedAt: "2025-03-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2131802/chapter-540-what-now",
-  externalId: "2131802",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2131802",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2131802/chapter-540-what-now",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

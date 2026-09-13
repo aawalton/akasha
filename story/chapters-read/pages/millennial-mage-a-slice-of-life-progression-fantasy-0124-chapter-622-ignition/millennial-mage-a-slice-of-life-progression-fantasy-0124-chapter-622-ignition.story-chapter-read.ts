@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0124Chapter622Ignition 
   unit: "words",
   completedAt: "2026-06-29T19:39:16.192Z",
   publishedAt: "2025-10-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2678049/chapter-622-ignition",
-  externalId: "2678049",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2678049",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2678049/chapter-622-ignition",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

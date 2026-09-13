@@ -10,9 +10,13 @@ export const metaworldHopecore0143Chapter84Uprising = {
   ownLength: 3043,
   unit: "words",
   publishedAt: "2026-08-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3754491/chapter-84-uprising",
-  externalId: "3754491",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3754491",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3754491/chapter-84-uprising",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const metaworldHopecore0107Chapter61JanuaryFriend = {
   ownLength: 3243,
   unit: "words",
   publishedAt: "2026-06-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3533573/chapter-61-january-friend",
-  externalId: "3533573",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3533573",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3533573/chapter-61-january-friend",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

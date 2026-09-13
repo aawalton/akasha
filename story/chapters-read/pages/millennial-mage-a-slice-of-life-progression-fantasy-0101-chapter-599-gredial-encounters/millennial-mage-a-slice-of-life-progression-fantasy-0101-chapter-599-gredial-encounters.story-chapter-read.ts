@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0101Chapter599GredialEn
   unit: "words",
   completedAt: "2026-06-29T19:38:31.879Z",
   publishedAt: "2025-08-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2519934/chapter-599-gredial-encounters",
-  externalId: "2519934",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2519934",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2519934/chapter-599-gredial-encounters",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

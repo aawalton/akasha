@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0160NoChapterToday = {
   unit: "words",
   completedAt: "2026-06-29T19:40:11.253Z",
   publishedAt: "2026-01-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2913521/no-chapter-today",
-  externalId: "2913521",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2913521",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2913521/no-chapter-today",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

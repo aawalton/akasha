@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0083Chapter583Sweet = {
   unit: "words",
   completedAt: "2026-06-29T19:37:57.356Z",
   publishedAt: "2025-07-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2408259/chapter-583-sweet",
-  externalId: "2408259",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2408259",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2408259/chapter-583-sweet",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

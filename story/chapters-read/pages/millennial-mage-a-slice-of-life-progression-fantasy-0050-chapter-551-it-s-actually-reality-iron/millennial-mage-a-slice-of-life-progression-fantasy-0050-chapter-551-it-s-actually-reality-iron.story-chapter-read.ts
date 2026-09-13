@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0050Chapter551ItSActual
   unit: "words",
   completedAt: "2026-06-29T19:36:54.024Z",
   publishedAt: "2025-04-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2206463/chapter-551-its-actually-reality-iron",
-  externalId: "2206463",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2206463",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2206463/chapter-551-its-actually-reality-iron",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

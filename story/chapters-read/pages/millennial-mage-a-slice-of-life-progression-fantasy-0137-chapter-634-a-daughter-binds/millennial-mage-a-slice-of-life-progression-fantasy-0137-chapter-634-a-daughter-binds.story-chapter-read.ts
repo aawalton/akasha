@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0137Chapter634ADaughter
   unit: "words",
   completedAt: "2026-06-29T19:39:27.511Z",
   publishedAt: "2025-11-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2754361/chapter-634-a-daughter-binds",
-  externalId: "2754361",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2754361",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2754361/chapter-634-a-daughter-binds",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

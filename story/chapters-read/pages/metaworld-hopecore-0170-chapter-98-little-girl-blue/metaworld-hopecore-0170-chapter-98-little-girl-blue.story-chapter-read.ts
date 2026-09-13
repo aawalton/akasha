@@ -10,9 +10,13 @@ export const metaworldHopecore0170Chapter98LittleGirlBlue = {
   ownLength: 2648,
   unit: "words",
   publishedAt: "2026-09-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3898461/chapter-98-little-girl-blue",
-  externalId: "3898461",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3898461",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3898461/chapter-98-little-girl-blue",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

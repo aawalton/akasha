@@ -10,9 +10,13 @@ export const metaworldHopecore0137Chapter81ThatSEntertainment = {
   ownLength: 3056,
   unit: "words",
   publishedAt: "2026-07-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3727181/chapter-81-thats-entertainment",
-  externalId: "3727181",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3727181",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3727181/chapter-81-thats-entertainment",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

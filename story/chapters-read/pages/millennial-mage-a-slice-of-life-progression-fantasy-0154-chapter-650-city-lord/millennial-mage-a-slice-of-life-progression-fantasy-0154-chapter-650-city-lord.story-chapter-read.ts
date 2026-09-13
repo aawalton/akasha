@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0154Chapter650CityLord 
   unit: "words",
   completedAt: "2026-06-29T19:39:59.968Z",
   publishedAt: "2025-12-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2861373/chapter-650-city-lord",
-  externalId: "2861373",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2861373",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2861373/chapter-650-city-lord",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

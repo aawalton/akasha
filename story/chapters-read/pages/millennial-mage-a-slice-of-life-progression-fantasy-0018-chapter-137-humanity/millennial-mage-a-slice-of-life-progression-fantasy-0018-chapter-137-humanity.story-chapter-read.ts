@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0018Chapter137Humanity 
   unit: "words",
   completedAt: "2026-06-29T19:35:52.216Z",
   publishedAt: "2022-06-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/936507/chapter-137-humanity",
-  externalId: "936507",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "936507",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/936507/chapter-137-humanity",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

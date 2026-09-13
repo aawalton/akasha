@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0197Chapter689DelaysAnd
   unit: "words",
   completedAt: "2026-06-29T19:41:22.466Z",
   publishedAt: "2026-04-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3226196/chapter-689-delays-and-timing",
-  externalId: "3226196",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3226196",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3226196/chapter-689-delays-and-timing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0145FlockboundBook11Cov
   unit: "words",
   completedAt: "2026-06-29T19:39:42.874Z",
   publishedAt: "2025-11-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2804589/flockbound-book-11-cover-reveal",
-  externalId: "2804589",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2804589",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2804589/flockbound-book-11-cover-reveal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const motherOfLearning00077OfGapsAndPretending = {
   unit: "words",
   completedAt: "2026-06-29T22:43:55.960Z",
   publishedAt: "2018-10-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/301801/7-of-gaps-and-pretending",
-  externalId: "301801",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "301801",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/301801/7-of-gaps-and-pretending",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

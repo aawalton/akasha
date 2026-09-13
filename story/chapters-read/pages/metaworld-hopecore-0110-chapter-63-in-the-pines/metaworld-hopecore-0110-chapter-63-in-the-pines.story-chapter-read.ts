@@ -10,9 +10,13 @@ export const metaworldHopecore0110Chapter63InThePines = {
   ownLength: 3523,
   unit: "words",
   publishedAt: "2026-06-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3546357/chapter-63-in-the-pines",
-  externalId: "3546357",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3546357",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3546357/chapter-63-in-the-pines",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

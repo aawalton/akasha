@@ -10,9 +10,13 @@ export const metaworldHopecore0082Chapter46TheWrongSteps = {
   ownLength: 4318,
   unit: "words",
   publishedAt: "2026-05-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3430100/chapter-46-the-wrong-steps",
-  externalId: "3430100",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3430100",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3430100/chapter-46-the-wrong-steps",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

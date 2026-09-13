@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0162Chapter656ShadowsAn
   unit: "words",
   completedAt: "2026-06-29T19:40:15.116Z",
   publishedAt: "2026-01-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2926193/chapter-656-shadows-and-void",
-  externalId: "2926193",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2926193",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2926193/chapter-656-shadows-and-void",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

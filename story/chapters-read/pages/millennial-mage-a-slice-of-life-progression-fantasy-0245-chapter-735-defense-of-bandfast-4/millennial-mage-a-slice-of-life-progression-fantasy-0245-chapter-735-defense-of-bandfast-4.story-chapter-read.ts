@@ -10,9 +10,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0245Chapter735DefenseOf
   ownLength: 2823,
   unit: "words",
   publishedAt: "2026-08-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3781373/chapter-735-defense-of-bandfast-4",
-  externalId: "3781373",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3781373",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3781373/chapter-735-defense-of-bandfast-4",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

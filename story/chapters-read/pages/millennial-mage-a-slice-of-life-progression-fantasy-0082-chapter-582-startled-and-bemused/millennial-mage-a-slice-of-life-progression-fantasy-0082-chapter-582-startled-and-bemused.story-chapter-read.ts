@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0082Chapter582StartledA
   unit: "words",
   completedAt: "2026-06-29T19:37:55.425Z",
   publishedAt: "2025-07-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2402787/chapter-582-startled-and-bemused",
-  externalId: "2402787",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2402787",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2402787/chapter-582-startled-and-bemused",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

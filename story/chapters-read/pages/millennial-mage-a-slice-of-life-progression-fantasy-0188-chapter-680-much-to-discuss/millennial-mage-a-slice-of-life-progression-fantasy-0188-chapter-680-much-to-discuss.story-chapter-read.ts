@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0188Chapter680MuchToDis
   unit: "words",
   completedAt: "2026-06-29T19:41:05.475Z",
   publishedAt: "2026-03-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3132558/chapter-680-much-to-discuss",
-  externalId: "3132558",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3132558",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3132558/chapter-680-much-to-discuss",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -7,12 +7,16 @@ export const millennialMageASliceOfLifeProgressionFantasy0191Chapter749WordsMade
   position: 191,
   publishedAt: "2026-09-11",
   unit: "words",
-  externalId: "3943552",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3943552",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3943552/chapter-749-words-made-real-4",
+    },
+  ],
   title: "Chapter: 749 - Words Made Real (4)",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   ownLength: 2532,
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3943552/chapter-749-words-made-real-4",
   prose: "txt",
 } as const satisfies StoryChapterRead

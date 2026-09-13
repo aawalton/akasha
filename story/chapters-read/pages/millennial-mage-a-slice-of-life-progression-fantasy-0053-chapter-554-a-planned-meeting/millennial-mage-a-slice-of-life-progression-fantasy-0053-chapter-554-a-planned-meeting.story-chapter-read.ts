@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0053Chapter554APlannedM
   unit: "words",
   completedAt: "2026-06-29T19:36:59.794Z",
   publishedAt: "2025-04-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2224490/chapter-554-a-planned-meeting",
-  externalId: "2224490",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2224490",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2224490/chapter-554-a-planned-meeting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

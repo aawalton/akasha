@@ -10,9 +10,13 @@ export const metaworldHopecore0099Chapter56Sukiyaki = {
   ownLength: 3918,
   unit: "words",
   publishedAt: "2026-06-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3491089/chapter-56-sukiyaki",
-  externalId: "3491089",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3491089",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3491089/chapter-56-sukiyaki",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

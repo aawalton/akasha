@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0104Chapter602FullDays 
   unit: "words",
   completedAt: "2026-06-29T19:38:37.568Z",
   publishedAt: "2025-08-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2538394/chapter-602-full-days",
-  externalId: "2538394",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2538394",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2538394/chapter-602-full-days",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const metaworldHopecore0060Chapter32AHardDaySNight2 = {
   ownLength: 1875,
   unit: "words",
   publishedAt: "2026-05-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3376772/chapter-32-a-hard-days-night-2",
-  externalId: "3376772",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3376772",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3376772/chapter-32-a-hard-days-night-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

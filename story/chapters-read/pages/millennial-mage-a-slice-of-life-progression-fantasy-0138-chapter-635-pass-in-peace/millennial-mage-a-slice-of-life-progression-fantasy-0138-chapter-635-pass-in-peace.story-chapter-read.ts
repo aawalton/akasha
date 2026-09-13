@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0138Chapter635PassInPea
   unit: "words",
   completedAt: "2026-06-29T19:39:29.310Z",
   publishedAt: "2025-11-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2760061/chapter-635-pass-in-peace",
-  externalId: "2760061",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2760061",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2760061/chapter-635-pass-in-peace",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

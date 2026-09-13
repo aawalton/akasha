@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0108Chapter606SpecificA
   unit: "words",
   completedAt: "2026-06-29T19:38:45.371Z",
   publishedAt: "2025-09-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2565029/chapter-606-specific-advice",
-  externalId: "2565029",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2565029",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2565029/chapter-606-specific-advice",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

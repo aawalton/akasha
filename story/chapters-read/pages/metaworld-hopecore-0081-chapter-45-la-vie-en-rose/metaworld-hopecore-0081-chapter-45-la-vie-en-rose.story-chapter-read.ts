@@ -10,9 +10,13 @@ export const metaworldHopecore0081Chapter45LaVieEnRose = {
   ownLength: 3737,
   unit: "words",
   publishedAt: "2026-05-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3425508/chapter-45-la-vie-en-rose",
-  externalId: "3425508",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3425508",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3425508/chapter-45-la-vie-en-rose",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

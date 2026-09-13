@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0090JulySkipDayAndandVo
   unit: "words",
   completedAt: "2026-06-29T19:38:10.894Z",
   publishedAt: "2025-07-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2453829/july-skip-day-voidbound-book-10-cover-reveal",
-  externalId: "2453829",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2453829",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2453829/july-skip-day-voidbound-book-10-cover-reveal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

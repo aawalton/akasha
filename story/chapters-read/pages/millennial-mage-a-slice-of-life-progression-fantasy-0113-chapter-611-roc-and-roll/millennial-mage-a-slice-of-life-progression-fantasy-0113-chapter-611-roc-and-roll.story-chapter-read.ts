@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0113Chapter611RocAndRol
   unit: "words",
   completedAt: "2026-06-29T19:38:54.802Z",
   publishedAt: "2025-09-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2594671/chapter-611-roc-and-roll",
-  externalId: "2594671",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2594671",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2594671/chapter-611-roc-and-roll",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

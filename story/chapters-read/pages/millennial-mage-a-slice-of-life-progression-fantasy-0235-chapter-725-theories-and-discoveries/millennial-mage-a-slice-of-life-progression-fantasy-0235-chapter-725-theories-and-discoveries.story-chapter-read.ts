@@ -10,9 +10,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0235Chapter725TheoriesA
   ownLength: 2320,
   unit: "words",
   publishedAt: "2026-07-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3648134/chapter-725-theories-and-discoveries",
-  externalId: "3648134",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3648134",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3648134/chapter-725-theories-and-discoveries",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

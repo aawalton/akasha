@@ -10,9 +10,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0236Chapter726ArrivalIm
   ownLength: 2785,
   unit: "words",
   publishedAt: "2026-07-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3679869/chapter-726-arrival-impartment-and-it-begins",
-  externalId: "3679869",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3679869",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3679869/chapter-726-arrival-impartment-and-it-begins",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

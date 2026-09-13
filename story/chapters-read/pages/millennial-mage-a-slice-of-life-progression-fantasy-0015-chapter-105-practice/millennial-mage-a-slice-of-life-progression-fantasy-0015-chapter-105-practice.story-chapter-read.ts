@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0015Chapter105Practice 
   unit: "words",
   completedAt: "2026-06-29T19:35:46.570Z",
   publishedAt: "2022-04-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/884747/chapter-105-practice",
-  externalId: "884747",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "884747",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/884747/chapter-105-practice",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

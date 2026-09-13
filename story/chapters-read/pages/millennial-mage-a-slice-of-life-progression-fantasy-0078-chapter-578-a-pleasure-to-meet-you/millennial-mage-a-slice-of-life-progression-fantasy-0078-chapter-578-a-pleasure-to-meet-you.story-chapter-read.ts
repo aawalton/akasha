@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0078Chapter578APleasure
   unit: "words",
   completedAt: "2026-06-29T19:37:47.552Z",
   publishedAt: "2025-06-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2371118/chapter-578-a-pleasure-to-meet-you",
-  externalId: "2371118",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2371118",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2371118/chapter-578-a-pleasure-to-meet-you",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

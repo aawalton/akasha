@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0203Chapter695Collapse 
   unit: "words",
   completedAt: "2026-06-29T19:41:33.931Z",
   publishedAt: "2026-04-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3284676/chapter-695-collapse",
-  externalId: "3284676",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3284676",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3284676/chapter-695-collapse",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

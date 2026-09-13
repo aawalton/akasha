@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0201Chapter693MoveAndCo
   unit: "words",
   completedAt: "2026-06-29T19:41:30.153Z",
   publishedAt: "2026-04-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3267436/chapter-693-move-and-counter",
-  externalId: "3267436",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3267436",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3267436/chapter-693-move-and-counter",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

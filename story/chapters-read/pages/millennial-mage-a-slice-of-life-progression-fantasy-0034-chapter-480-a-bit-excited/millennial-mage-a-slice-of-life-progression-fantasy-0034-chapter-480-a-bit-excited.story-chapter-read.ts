@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0034Chapter480ABitExcit
   unit: "words",
   completedAt: "2026-06-29T19:36:23.287Z",
   publishedAt: "2024-10-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/1849647/chapter-480-a-bit-excited",
-  externalId: "1849647",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1849647",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/1849647/chapter-480-a-bit-excited",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

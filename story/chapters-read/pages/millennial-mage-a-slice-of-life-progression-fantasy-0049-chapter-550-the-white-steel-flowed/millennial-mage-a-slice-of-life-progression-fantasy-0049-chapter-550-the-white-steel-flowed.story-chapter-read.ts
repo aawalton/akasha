@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0049Chapter550TheWhiteS
   unit: "words",
   completedAt: "2026-06-29T19:36:52.096Z",
   publishedAt: "2025-04-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2200821/chapter-550-the-white-steel-flowed",
-  externalId: "2200821",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2200821",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2200821/chapter-550-the-white-steel-flowed",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

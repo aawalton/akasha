@@ -10,9 +10,13 @@ export const metaworldHopecore0129Chapter77FatherAndSon = {
   ownLength: 3050,
   unit: "words",
   publishedAt: "2026-07-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3683176/chapter-77-father-and-son",
-  externalId: "3683176",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3683176",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3683176/chapter-77-father-and-son",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

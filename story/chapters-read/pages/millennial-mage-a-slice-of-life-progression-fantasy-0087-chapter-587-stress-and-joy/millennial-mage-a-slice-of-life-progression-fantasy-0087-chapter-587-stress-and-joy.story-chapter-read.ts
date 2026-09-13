@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0087Chapter587StressAnd
   unit: "words",
   completedAt: "2026-06-29T19:38:05.170Z",
   publishedAt: "2025-07-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2434028/chapter-587-stress-and-joy",
-  externalId: "2434028",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2434028",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2434028/chapter-587-stress-and-joy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

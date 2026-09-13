@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0086Chapter586ALongAfte
   unit: "words",
   completedAt: "2026-06-29T19:38:03.207Z",
   publishedAt: "2025-07-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2426411/chapter-586-a-long-afternoon",
-  externalId: "2426411",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2426411",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2426411/chapter-586-a-long-afternoon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

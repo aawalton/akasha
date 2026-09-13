@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0092Chapter591TheEndOfT
   unit: "words",
   completedAt: "2026-06-29T19:38:14.581Z",
   publishedAt: "2025-07-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2464858/chapter-591-the-end-of-their-visit",
-  externalId: "2464858",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2464858",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2464858/chapter-591-the-end-of-their-visit",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

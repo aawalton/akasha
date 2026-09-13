@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0094Chapter593ClarityOf
   unit: "words",
   completedAt: "2026-06-29T19:38:18.404Z",
   publishedAt: "2025-07-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2478259/chapter-593-clarity-of-thought",
-  externalId: "2478259",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2478259",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2478259/chapter-593-clarity-of-thought",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

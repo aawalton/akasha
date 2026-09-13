@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0102Chapter600Socializa
   unit: "words",
   completedAt: "2026-06-29T19:38:33.987Z",
   publishedAt: "2025-08-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2527529/chapter-600-socialization",
-  externalId: "2527529",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2527529",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2527529/chapter-600-socialization",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0164Chapter658RebukingT
   unit: "words",
   completedAt: "2026-06-29T19:40:18.841Z",
   publishedAt: "2026-01-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2941839/chapter-658-rebuking-the-house-of-the-frost-lance",
-  externalId: "2941839",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2941839",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2941839/chapter-658-rebuking-the-house-of-the-frost-lance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

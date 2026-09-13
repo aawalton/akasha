@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0170Chapter664LayersUpo
   unit: "words",
   completedAt: "2026-06-29T19:40:30.820Z",
   publishedAt: "2026-01-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2987426/chapter-664-layers-upon-layers",
-  externalId: "2987426",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2987426",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2987426/chapter-664-layers-upon-layers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0219Chapter710StayTheCo
   ownLength: 2587,
   unit: "words",
   publishedAt: "2026-06-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3477573/chapter-710-stay-the-course",
-  externalId: "3477573",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3477573",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3477573/chapter-710-stay-the-course",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

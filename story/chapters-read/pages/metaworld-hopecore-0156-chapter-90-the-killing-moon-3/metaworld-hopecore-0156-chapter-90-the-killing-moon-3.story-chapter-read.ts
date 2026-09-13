@@ -10,9 +10,13 @@ export const metaworldHopecore0156Chapter90TheKillingMoon3 = {
   ownLength: 2638,
   unit: "words",
   publishedAt: "2026-08-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3807453/chapter-90-the-killing-moon-3",
-  externalId: "3807453",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3807453",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3807453/chapter-90-the-killing-moon-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

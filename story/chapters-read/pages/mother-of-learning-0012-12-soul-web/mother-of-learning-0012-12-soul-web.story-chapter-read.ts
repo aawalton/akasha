@@ -12,9 +12,13 @@ export const motherOfLearning001212SoulWeb = {
   unit: "words",
   completedAt: "2026-06-29T22:44:08.807Z",
   publishedAt: "2018-11-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/302854/12-soul-web",
-  externalId: "302854",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "302854",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/302854/12-soul-web",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

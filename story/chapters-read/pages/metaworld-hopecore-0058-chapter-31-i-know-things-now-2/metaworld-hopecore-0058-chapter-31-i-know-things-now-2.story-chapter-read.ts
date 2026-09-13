@@ -10,9 +10,13 @@ export const metaworldHopecore0058Chapter31IKnowThingsNow2 = {
   ownLength: 2513,
   unit: "words",
   publishedAt: "2026-05-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3376618/chapter-31-i-know-things-now-2",
-  externalId: "3376618",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3376618",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3376618/chapter-31-i-know-things-now-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

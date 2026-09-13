@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0067Chapter567Volitiona
   unit: "words",
   completedAt: "2026-06-29T19:37:26.318Z",
   publishedAt: "2025-05-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2306556/chapter-567-volitional-balance",
-  externalId: "2306556",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2306556",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2306556/chapter-567-volitional-balance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

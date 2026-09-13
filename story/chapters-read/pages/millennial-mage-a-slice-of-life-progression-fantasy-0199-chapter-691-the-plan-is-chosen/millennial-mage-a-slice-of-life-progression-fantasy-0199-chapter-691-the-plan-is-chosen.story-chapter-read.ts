@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0199Chapter691ThePlanIs
   unit: "words",
   completedAt: "2026-06-29T19:41:26.341Z",
   publishedAt: "2026-04-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3247339/chapter-691-the-plan-is-chosen",
-  externalId: "3247339",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3247339",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3247339/chapter-691-the-plan-is-chosen",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

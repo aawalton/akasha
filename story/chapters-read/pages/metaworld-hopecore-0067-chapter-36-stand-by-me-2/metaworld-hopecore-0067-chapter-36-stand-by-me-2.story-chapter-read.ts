@@ -10,9 +10,13 @@ export const metaworldHopecore0067Chapter36StandByMe2 = {
   ownLength: 2486,
   unit: "words",
   publishedAt: "2026-05-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3385163/chapter-36-stand-by-me-2",
-  externalId: "3385163",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3385163",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3385163/chapter-36-stand-by-me-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

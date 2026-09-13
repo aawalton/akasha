@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0066Chapter566SoonToBeM
   unit: "words",
   completedAt: "2026-06-29T19:37:24.396Z",
   publishedAt: "2025-05-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2299752/chapter-566-soon-to-be-master",
-  externalId: "2299752",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2299752",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2299752/chapter-566-soon-to-be-master",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

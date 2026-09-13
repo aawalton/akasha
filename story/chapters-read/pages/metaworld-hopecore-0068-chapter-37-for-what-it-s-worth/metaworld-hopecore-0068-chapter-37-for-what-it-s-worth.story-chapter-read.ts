@@ -10,9 +10,13 @@ export const metaworldHopecore0068Chapter37ForWhatItSWorth = {
   ownLength: 2280,
   unit: "words",
   publishedAt: "2026-05-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3388478/chapter-37-for-what-its-worth",
-  externalId: "3388478",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3388478",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3388478/chapter-37-for-what-its-worth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

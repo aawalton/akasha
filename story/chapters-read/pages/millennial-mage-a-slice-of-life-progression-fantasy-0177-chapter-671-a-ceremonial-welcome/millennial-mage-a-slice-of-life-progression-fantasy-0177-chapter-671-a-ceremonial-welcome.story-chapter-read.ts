@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0177Chapter671ACeremoni
   unit: "words",
   completedAt: "2026-06-29T19:40:44.287Z",
   publishedAt: "2026-02-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3049814/chapter-671-a-ceremonial-welcome",
-  externalId: "3049814",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3049814",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3049814/chapter-671-a-ceremonial-welcome",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

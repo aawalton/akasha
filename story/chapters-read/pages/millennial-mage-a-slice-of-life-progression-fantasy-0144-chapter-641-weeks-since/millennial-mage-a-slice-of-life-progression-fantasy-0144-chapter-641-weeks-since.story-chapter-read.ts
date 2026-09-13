@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0144Chapter641WeeksSinc
   unit: "words",
   completedAt: "2026-06-29T19:39:40.839Z",
   publishedAt: "2025-11-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2800235/chapter-641-weeks-since",
-  externalId: "2800235",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2800235",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2800235/chapter-641-weeks-since",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0156Chapter651GiftsAndR
   unit: "words",
   completedAt: "2026-06-29T19:40:03.783Z",
   publishedAt: "2025-12-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2869730/chapter-651-gifts-and-reasons",
-  externalId: "2869730",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2869730",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2869730/chapter-651-gifts-and-reasons",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

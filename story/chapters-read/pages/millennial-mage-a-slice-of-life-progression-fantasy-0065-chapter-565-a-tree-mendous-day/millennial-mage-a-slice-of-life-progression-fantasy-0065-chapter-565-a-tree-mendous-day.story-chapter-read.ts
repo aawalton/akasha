@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0065Chapter565ATreeMend
   unit: "words",
   completedAt: "2026-06-29T19:37:22.489Z",
   publishedAt: "2025-05-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2294858/chapter-565-a-tree-mendous-day",
-  externalId: "2294858",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2294858",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2294858/chapter-565-a-tree-mendous-day",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

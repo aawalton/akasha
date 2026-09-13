@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0114Chapter612Trust = {
   unit: "words",
   completedAt: "2026-06-29T19:38:57.055Z",
   publishedAt: "2025-09-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2601735/chapter-612-trust",
-  externalId: "2601735",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2601735",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2601735/chapter-612-trust",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

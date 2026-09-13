@@ -10,9 +10,13 @@ export const metaworldHopecore0159Chapter92EverybodysTalkin = {
   ownLength: 3403,
   unit: "words",
   publishedAt: "2026-08-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3830065/chapter-92-everybodys-talkin",
-  externalId: "3830065",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3830065",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3830065/chapter-92-everybodys-talkin",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

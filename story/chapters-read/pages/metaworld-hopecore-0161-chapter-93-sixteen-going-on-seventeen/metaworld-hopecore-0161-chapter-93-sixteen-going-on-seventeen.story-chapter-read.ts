@@ -10,9 +10,13 @@ export const metaworldHopecore0161Chapter93SixteenGoingOnSeventeen = {
   ownLength: 4360,
   unit: "words",
   publishedAt: "2026-08-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3841281/chapter-93-sixteen-going-on-seventeen",
-  externalId: "3841281",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3841281",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3841281/chapter-93-sixteen-going-on-seventeen",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

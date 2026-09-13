@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0193Chapter685BloodAndI
   unit: "words",
   completedAt: "2026-06-29T19:41:14.749Z",
   publishedAt: "2026-03-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3172623/chapter-685-blood-and-iron",
-  externalId: "3172623",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3172623",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3172623/chapter-685-blood-and-iron",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

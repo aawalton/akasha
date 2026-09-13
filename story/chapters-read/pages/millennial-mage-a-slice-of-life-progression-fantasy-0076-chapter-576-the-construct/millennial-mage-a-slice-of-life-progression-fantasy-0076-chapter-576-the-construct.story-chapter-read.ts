@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0076Chapter576TheConstr
   unit: "words",
   completedAt: "2026-06-29T19:37:43.665Z",
   publishedAt: "2025-06-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2360473/chapter-576-the-construct",
-  externalId: "2360473",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2360473",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2360473/chapter-576-the-construct",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

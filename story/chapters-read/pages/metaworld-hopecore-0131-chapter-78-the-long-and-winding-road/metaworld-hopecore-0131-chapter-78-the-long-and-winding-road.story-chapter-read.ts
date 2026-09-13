@@ -10,9 +10,13 @@ export const metaworldHopecore0131Chapter78TheLongAndWindingRoad = {
   ownLength: 3359,
   unit: "words",
   publishedAt: "2026-07-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3692017/chapter-78-the-long-and-winding-road",
-  externalId: "3692017",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3692017",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3692017/chapter-78-the-long-and-winding-road",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

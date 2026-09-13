@@ -10,9 +10,13 @@ export const metaworldHopecore0065Chapter35OurHouse2 = {
   ownLength: 2276,
   unit: "words",
   publishedAt: "2026-05-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3381769/chapter-35-our-house-2",
-  externalId: "3381769",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3381769",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3381769/chapter-35-our-house-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

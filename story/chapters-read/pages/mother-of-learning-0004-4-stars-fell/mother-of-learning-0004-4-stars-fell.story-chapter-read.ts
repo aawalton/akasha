@@ -12,9 +12,13 @@ export const motherOfLearning00044StarsFell = {
   unit: "words",
   completedAt: "2026-06-29T22:43:49.322Z",
   publishedAt: "2018-10-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/301788/4-stars-fell",
-  externalId: "301788",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "301788",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/301788/4-stars-fell",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

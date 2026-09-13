@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0003Chapter1NewBeginnin
   unit: "words",
   completedAt: "2026-06-29T19:35:23.511Z",
   publishedAt: "2021-10-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/773515/chapter-1-new-beginnings",
-  externalId: "773515",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "773515",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/773515/chapter-1-new-beginnings",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

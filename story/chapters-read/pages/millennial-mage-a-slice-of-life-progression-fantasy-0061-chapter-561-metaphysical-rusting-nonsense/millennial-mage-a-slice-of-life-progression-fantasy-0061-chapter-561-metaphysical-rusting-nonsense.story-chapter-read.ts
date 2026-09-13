@@ -13,9 +13,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0061Chapter561Metaphysi
     unit: "words",
     completedAt: "2026-06-29T19:37:15.068Z",
     publishedAt: "2025-05-12",
-    externalLink:
-      "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2273381/chapter-561-metaphysical-rusting-nonsense",
-    externalId: "2273381",
-    source: "royal-road",
+    externalIdentity: [
+      {
+        source: "royal-road",
+        externalId: "2273381",
+        externalLink:
+          "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2273381/chapter-561-metaphysical-rusting-nonsense",
+      },
+    ],
     prose: "txt",
   } as const satisfies StoryChapterRead

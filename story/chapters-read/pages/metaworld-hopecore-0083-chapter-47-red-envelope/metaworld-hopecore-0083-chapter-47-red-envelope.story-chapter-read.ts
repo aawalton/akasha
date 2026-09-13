@@ -10,9 +10,13 @@ export const metaworldHopecore0083Chapter47RedEnvelope = {
   ownLength: 2313,
   unit: "words",
   publishedAt: "2026-05-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3437776/chapter-47-red-envelope",
-  externalId: "3437776",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3437776",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3437776/chapter-47-red-envelope",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

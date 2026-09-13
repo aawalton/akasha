@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0001NonMmSillyAndFunCha
   unit: "words",
   completedAt: "2026-06-29T19:35:19.653Z",
   publishedAt: "2023-04-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/1154476/non-mm-silly-and-fun-chapter-tek-and-the-wizards",
-  externalId: "1154476",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1154476",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/1154476/non-mm-silly-and-fun-chapter-tek-and-the-wizards",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

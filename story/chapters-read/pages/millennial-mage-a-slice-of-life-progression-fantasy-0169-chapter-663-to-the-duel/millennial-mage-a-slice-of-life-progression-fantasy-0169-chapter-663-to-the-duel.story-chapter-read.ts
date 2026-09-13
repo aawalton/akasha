@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0169Chapter663ToTheDuel
   unit: "words",
   completedAt: "2026-06-29T19:40:28.888Z",
   publishedAt: "2026-01-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2980421/chapter-663-to-the-duel",
-  externalId: "2980421",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2980421",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2980421/chapter-663-to-the-duel",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

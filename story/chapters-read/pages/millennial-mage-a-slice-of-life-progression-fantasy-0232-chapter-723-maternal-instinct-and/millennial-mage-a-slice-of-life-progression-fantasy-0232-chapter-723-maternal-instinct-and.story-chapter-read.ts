@@ -10,9 +10,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0232Chapter723MaternalI
   ownLength: 3183,
   unit: "words",
   publishedAt: "2026-07-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3626208/chapter-723-maternal-instinct-and-refinement",
-  externalId: "3626208",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3626208",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3626208/chapter-723-maternal-instinct-and-refinement",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

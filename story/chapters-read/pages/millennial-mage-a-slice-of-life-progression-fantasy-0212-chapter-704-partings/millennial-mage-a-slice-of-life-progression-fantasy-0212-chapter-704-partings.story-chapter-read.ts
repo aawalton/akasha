@@ -10,9 +10,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0212Chapter704Partings 
   ownLength: 2793,
   unit: "words",
   publishedAt: "2026-05-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3381669/chapter-704-partings",
-  externalId: "3381669",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3381669",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3381669/chapter-704-partings",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

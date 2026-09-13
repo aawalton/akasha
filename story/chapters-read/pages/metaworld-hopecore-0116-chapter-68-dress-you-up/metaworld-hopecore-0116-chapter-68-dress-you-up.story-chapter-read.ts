@@ -10,9 +10,13 @@ export const metaworldHopecore0116Chapter68DressYouUp = {
   ownLength: 3734,
   unit: "words",
   publishedAt: "2026-06-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3598537/chapter-68-dress-you-up",
-  externalId: "3598537",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3598537",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3598537/chapter-68-dress-you-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

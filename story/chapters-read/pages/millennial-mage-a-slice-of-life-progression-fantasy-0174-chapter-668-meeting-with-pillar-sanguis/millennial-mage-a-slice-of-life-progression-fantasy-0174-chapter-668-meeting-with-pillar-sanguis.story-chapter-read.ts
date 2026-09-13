@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0174Chapter668MeetingWi
   unit: "words",
   completedAt: "2026-06-29T19:40:38.496Z",
   publishedAt: "2026-02-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3018234/chapter-668-meeting-with-pillar-sanguis",
-  externalId: "3018234",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3018234",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3018234/chapter-668-meeting-with-pillar-sanguis",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

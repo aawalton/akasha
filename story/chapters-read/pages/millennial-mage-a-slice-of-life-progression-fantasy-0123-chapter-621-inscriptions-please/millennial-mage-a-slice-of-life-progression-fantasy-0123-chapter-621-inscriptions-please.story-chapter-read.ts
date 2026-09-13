@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0123Chapter621Inscripti
   unit: "words",
   completedAt: "2026-06-29T19:39:14.229Z",
   publishedAt: "2025-10-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2672712/chapter-621-inscriptions-please",
-  externalId: "2672712",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2672712",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2672712/chapter-621-inscriptions-please",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

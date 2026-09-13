@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0127Chapter625Learning 
   unit: "words",
   completedAt: "2026-06-29T19:39:21.985Z",
   publishedAt: "2025-10-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2695900/chapter-625-learning",
-  externalId: "2695900",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2695900",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2695900/chapter-625-learning",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

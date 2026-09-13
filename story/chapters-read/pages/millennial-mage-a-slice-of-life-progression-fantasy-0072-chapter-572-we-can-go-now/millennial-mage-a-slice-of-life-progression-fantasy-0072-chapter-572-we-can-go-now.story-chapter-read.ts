@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0072Chapter572WeCanGoNo
   unit: "words",
   completedAt: "2026-06-29T19:37:36.046Z",
   publishedAt: "2025-06-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2334785/chapter-572-we-can-go-now",
-  externalId: "2334785",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2334785",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2334785/chapter-572-we-can-go-now",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

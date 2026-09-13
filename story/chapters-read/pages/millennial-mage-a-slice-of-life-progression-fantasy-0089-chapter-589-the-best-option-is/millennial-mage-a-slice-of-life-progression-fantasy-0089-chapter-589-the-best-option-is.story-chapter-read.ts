@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0089Chapter589TheBestOp
   unit: "words",
   completedAt: "2026-06-29T19:38:08.987Z",
   publishedAt: "2025-07-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2445453/chapter-589-the-best-option-is",
-  externalId: "2445453",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2445453",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2445453/chapter-589-the-best-option-is",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

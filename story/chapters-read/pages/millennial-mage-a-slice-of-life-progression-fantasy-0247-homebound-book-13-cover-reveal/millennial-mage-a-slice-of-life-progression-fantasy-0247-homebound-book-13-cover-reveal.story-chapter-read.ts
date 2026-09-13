@@ -10,9 +10,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0247HomeboundBook13Cove
   ownLength: 36,
   unit: "words",
   publishedAt: "2026-08-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3800976/homebound-book-13-cover-reveal",
-  externalId: "3800976",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3800976",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3800976/homebound-book-13-cover-reveal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

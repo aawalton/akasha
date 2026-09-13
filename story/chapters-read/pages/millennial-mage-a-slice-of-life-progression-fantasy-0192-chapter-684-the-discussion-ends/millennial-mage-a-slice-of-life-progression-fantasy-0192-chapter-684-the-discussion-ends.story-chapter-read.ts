@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0192Chapter684TheDiscus
   unit: "words",
   completedAt: "2026-06-29T19:41:12.952Z",
   publishedAt: "2026-03-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3165124/chapter-684-the-discussion-ends",
-  externalId: "3165124",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3165124",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3165124/chapter-684-the-discussion-ends",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

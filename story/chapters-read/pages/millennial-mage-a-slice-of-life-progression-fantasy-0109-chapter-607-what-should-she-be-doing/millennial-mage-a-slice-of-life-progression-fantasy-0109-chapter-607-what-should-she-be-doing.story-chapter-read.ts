@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0109Chapter607WhatShoul
   unit: "words",
   completedAt: "2026-06-29T19:38:47.305Z",
   publishedAt: "2025-09-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2570737/chapter-607-what-should-she-be-doing",
-  externalId: "2570737",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2570737",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2570737/chapter-607-what-should-she-be-doing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

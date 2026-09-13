@@ -10,9 +10,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0240Chapter730RealVoid 
   ownLength: 2952,
   unit: "words",
   publishedAt: "2026-07-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3719131/chapter-730-real-void",
-  externalId: "3719131",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3719131",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3719131/chapter-730-real-void",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

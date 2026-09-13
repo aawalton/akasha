@@ -10,9 +10,13 @@ export const metaworldHopecore0087Chapter49BlackGirl = {
   ownLength: 3163,
   unit: "words",
   publishedAt: "2026-05-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3448494/chapter-49-black-girl",
-  externalId: "3448494",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3448494",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3448494/chapter-49-black-girl",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

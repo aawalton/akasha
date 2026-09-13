@@ -10,9 +10,13 @@ export const metaworldHopecore0124Chapter74TheShowMustGoOn2 = {
   ownLength: 2079,
   unit: "words",
   publishedAt: "2026-07-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3642765/chapter-74-the-show-must-go-on-2",
-  externalId: "3642765",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3642765",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3642765/chapter-74-the-show-must-go-on-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

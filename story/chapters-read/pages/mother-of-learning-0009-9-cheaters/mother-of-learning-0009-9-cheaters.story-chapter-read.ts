@@ -12,9 +12,13 @@ export const motherOfLearning00099Cheaters = {
   unit: "words",
   completedAt: "2026-06-29T22:44:01.371Z",
   publishedAt: "2018-10-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/301984/9-cheaters",
-  externalId: "301984",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "301984",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/301984/9-cheaters",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0148Chapter644Heralding
   unit: "words",
   completedAt: "2026-06-29T19:39:48.365Z",
   publishedAt: "2025-12-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2820871/chapter-644-heralding",
-  externalId: "2820871",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2820871",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2820871/chapter-644-heralding",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0022Chapter202Blood = {
   unit: "words",
   completedAt: "2026-06-29T19:36:00.269Z",
   publishedAt: "2022-11-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/1050766/chapter-202-blood",
-  externalId: "1050766",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1050766",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/1050766/chapter-202-blood",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0115Chapter613AtTheSour
   unit: "words",
   completedAt: "2026-06-29T19:38:58.961Z",
   publishedAt: "2025-09-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2607141/chapter-613-at-the-source",
-  externalId: "2607141",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2607141",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2607141/chapter-613-at-the-source",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

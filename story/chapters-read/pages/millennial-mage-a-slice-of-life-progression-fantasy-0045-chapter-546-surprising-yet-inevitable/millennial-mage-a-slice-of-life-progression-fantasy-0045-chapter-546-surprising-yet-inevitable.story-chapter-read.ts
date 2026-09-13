@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0045Chapter546Surprisin
   unit: "words",
   completedAt: "2026-06-29T19:36:44.486Z",
   publishedAt: "2025-04-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2173512/chapter-546-surprising-yet-inevitable",
-  externalId: "2173512",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2173512",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2173512/chapter-546-surprising-yet-inevitable",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

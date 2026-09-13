@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0176Chapter670TravelAnd
   unit: "words",
   completedAt: "2026-06-29T19:40:42.480Z",
   publishedAt: "2026-02-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3036065/chapter-670-travel-and-quickways",
-  externalId: "3036065",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3036065",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3036065/chapter-670-travel-and-quickways",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

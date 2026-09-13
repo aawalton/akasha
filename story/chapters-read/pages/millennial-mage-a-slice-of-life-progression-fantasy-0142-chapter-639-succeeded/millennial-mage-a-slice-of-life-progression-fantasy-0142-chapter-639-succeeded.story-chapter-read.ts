@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0142Chapter639Succeeded
   unit: "words",
   completedAt: "2026-06-29T19:39:36.982Z",
   publishedAt: "2025-11-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2788307/chapter-639-succeeded",
-  externalId: "2788307",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2788307",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2788307/chapter-639-succeeded",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

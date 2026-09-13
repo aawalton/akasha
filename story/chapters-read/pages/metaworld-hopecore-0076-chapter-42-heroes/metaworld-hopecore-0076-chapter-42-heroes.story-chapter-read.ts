@@ -10,9 +10,13 @@ export const metaworldHopecore0076Chapter42Heroes = {
   ownLength: 2267,
   unit: "words",
   publishedAt: "2026-05-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3406245/chapter-42-heroes",
-  externalId: "3406245",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3406245",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3406245/chapter-42-heroes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0063Chapter563DownOnceM
   unit: "words",
   completedAt: "2026-06-29T19:37:18.758Z",
   publishedAt: "2025-05-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2283237/chapter-563-down-once-more",
-  externalId: "2283237",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2283237",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2283237/chapter-563-down-once-more",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

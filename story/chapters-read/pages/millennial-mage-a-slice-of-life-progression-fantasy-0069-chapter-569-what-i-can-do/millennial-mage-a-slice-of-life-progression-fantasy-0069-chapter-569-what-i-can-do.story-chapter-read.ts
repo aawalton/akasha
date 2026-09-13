@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0069Chapter569WhatICanD
   unit: "words",
   completedAt: "2026-06-29T19:37:30.218Z",
   publishedAt: "2025-05-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2316580/chapter-569-what-i-can-do",
-  externalId: "2316580",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2316580",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2316580/chapter-569-what-i-can-do",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

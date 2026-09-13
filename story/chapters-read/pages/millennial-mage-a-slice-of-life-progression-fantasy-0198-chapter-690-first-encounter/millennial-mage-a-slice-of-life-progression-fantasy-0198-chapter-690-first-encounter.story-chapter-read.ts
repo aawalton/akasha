@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0198Chapter690FirstEnco
   unit: "words",
   completedAt: "2026-06-29T19:41:24.390Z",
   publishedAt: "2026-04-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3238336/chapter-690-first-encounter",
-  externalId: "3238336",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3238336",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3238336/chapter-690-first-encounter",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

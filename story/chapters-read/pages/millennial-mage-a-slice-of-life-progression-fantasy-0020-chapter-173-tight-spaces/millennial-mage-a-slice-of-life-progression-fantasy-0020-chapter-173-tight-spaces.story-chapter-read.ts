@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0020Chapter173TightSpac
   unit: "words",
   completedAt: "2026-06-29T19:35:56.085Z",
   publishedAt: "2022-09-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/998700/chapter-173-tight-spaces",
-  externalId: "998700",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "998700",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/998700/chapter-173-tight-spaces",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

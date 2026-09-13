@@ -11,9 +11,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0204Chapter696Ending = 
   ownProgress: 3732,
   unit: "words",
   publishedAt: "2026-04-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3295952/chapter-696-ending",
-  externalId: "3295952",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3295952",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3295952/chapter-696-ending",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

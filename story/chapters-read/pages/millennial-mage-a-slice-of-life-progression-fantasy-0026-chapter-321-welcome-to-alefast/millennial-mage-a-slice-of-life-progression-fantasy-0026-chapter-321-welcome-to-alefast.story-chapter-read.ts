@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0026Chapter321WelcomeTo
   unit: "words",
   completedAt: "2026-06-29T19:36:07.976Z",
   publishedAt: "2023-09-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/1329187/chapter-321-welcome-to-alefast",
-  externalId: "1329187",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1329187",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/1329187/chapter-321-welcome-to-alefast",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

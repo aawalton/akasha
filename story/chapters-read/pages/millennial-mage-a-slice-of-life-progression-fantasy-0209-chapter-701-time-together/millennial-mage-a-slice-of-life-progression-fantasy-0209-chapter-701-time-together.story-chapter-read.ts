@@ -10,9 +10,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0209Chapter701TimeToget
   ownLength: 3062,
   unit: "words",
   publishedAt: "2026-05-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3340478/chapter-701-time-together",
-  externalId: "3340478",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3340478",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3340478/chapter-701-time-together",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0159Chapter654EskauOfWa
   unit: "words",
   completedAt: "2026-06-29T19:40:09.457Z",
   publishedAt: "2026-01-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2904889/chapter-654-eskau-of-war",
-  externalId: "2904889",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2904889",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2904889/chapter-654-eskau-of-war",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

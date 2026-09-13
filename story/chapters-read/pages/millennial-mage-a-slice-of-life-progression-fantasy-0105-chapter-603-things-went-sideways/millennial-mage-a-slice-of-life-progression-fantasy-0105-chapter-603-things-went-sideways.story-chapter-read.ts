@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0105Chapter603ThingsWen
   unit: "words",
   completedAt: "2026-06-29T19:38:39.551Z",
   publishedAt: "2025-08-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2546158/chapter-603-things-went-sideways",
-  externalId: "2546158",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2546158",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2546158/chapter-603-things-went-sideways",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

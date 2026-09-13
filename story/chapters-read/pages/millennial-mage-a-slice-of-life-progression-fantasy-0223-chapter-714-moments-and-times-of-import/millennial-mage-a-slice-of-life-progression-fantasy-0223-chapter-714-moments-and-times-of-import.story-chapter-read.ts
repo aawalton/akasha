@@ -10,9 +10,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0223Chapter714MomentsAn
   ownLength: 2890,
   unit: "words",
   publishedAt: "2026-06-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3518790/chapter-714-moments-and-times-of-import",
-  externalId: "3518790",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3518790",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3518790/chapter-714-moments-and-times-of-import",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

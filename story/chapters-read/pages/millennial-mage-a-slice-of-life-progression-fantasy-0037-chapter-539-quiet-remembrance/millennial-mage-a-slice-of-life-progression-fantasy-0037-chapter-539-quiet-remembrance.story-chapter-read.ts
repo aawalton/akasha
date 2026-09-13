@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0037Chapter539QuietReme
   unit: "words",
   completedAt: "2026-06-29T19:36:29.050Z",
   publishedAt: "2025-03-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2125672/chapter-539-quiet-remembrance",
-  externalId: "2125672",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2125672",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2125672/chapter-539-quiet-remembrance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

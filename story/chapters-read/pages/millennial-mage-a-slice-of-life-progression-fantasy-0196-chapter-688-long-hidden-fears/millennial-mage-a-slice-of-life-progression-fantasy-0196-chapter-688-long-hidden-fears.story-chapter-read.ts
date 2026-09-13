@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0196Chapter688LongHidde
   unit: "words",
   completedAt: "2026-06-29T19:41:20.527Z",
   publishedAt: "2026-03-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3199241/chapter-688-long-hidden-fears",
-  externalId: "3199241",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3199241",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3199241/chapter-688-long-hidden-fears",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

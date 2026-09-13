@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0033IronboundMm8Audiobo
   unit: "words",
   completedAt: "2026-06-29T19:36:21.250Z",
   publishedAt: "2024-10-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/1839219/ironbound-mm-8-audiobook-launch",
-  externalId: "1839219",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1839219",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/1839219/ironbound-mm-8-audiobook-launch",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

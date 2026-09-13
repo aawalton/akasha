@@ -10,9 +10,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0253Chapter742AssaultOn
   ownLength: 2576,
   unit: "words",
   publishedAt: "2026-08-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3857801/chapter-742-assault-on-the-first-factory",
-  externalId: "3857801",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3857801",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3857801/chapter-742-assault-on-the-first-factory",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

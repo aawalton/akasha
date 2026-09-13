@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0132Chapter629Celebrati
   unit: "words",
   completedAt: "2026-06-29T19:41:39.553Z",
   publishedAt: "2025-10-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2719170/chapter-629-celebration-day-three-end",
-  externalId: "2719170",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2719170",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2719170/chapter-629-celebration-day-three-end",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

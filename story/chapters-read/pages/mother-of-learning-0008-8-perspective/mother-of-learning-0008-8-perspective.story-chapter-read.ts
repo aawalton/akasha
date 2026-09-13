@@ -12,9 +12,13 @@ export const motherOfLearning00088Perspective = {
   unit: "words",
   completedAt: "2026-06-29T22:43:58.284Z",
   publishedAt: "2018-10-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/301802/8-perspective",
-  externalId: "301802",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "301802",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/301802/8-perspective",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

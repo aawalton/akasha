@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0126Chapter624LeaSFirst
   unit: "words",
   completedAt: "2026-06-29T19:39:19.943Z",
   publishedAt: "2025-10-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2690643/chapter-624-leas-first-schema",
-  externalId: "2690643",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2690643",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2690643/chapter-624-leas-first-schema",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

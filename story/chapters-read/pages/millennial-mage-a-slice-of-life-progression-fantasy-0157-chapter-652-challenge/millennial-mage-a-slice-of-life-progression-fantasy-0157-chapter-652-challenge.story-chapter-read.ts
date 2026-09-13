@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0157Chapter652Challenge
   unit: "words",
   completedAt: "2026-06-29T19:40:05.577Z",
   publishedAt: "2025-12-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2890040/chapter-652-challenge",
-  externalId: "2890040",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2890040",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2890040/chapter-652-challenge",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

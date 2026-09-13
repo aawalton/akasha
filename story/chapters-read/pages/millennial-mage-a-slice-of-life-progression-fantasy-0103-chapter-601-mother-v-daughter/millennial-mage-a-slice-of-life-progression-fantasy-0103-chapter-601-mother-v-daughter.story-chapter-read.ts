@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0103Chapter601MotherVDa
   unit: "words",
   completedAt: "2026-06-29T19:38:35.783Z",
   publishedAt: "2025-08-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2533019/chapter-601-mother-v-daughter",
-  externalId: "2533019",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2533019",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2533019/chapter-601-mother-v-daughter",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

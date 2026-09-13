@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0064Chapter564AWonderou
   unit: "words",
   completedAt: "2026-06-29T19:37:20.712Z",
   publishedAt: "2025-05-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2290237/chapter-564-a-wonderous-milieu",
-  externalId: "2290237",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2290237",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2290237/chapter-564-a-wonderous-milieu",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const metaworldHopecore0109Chapter62TheCatCameBack2 = {
   ownLength: 2097,
   unit: "words",
   publishedAt: "2026-06-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3540975/chapter-62-the-cat-came-back-2",
-  externalId: "3540975",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3540975",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3540975/chapter-62-the-cat-came-back-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0146Chapter642SomeVisit
   unit: "words",
   completedAt: "2026-06-29T19:39:44.643Z",
   publishedAt: "2025-12-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2808605/chapter-642-some-visits",
-  externalId: "2808605",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2808605",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2808605/chapter-642-some-visits",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

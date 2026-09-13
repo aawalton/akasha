@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0011Chapter72AreYouHeav
   unit: "words",
   completedAt: "2026-06-29T19:35:38.794Z",
   publishedAt: "2022-02-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/841417/chapter-72-are-you-heavier",
-  externalId: "841417",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "841417",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/841417/chapter-72-are-you-heavier",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

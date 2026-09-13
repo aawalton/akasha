@@ -12,9 +12,13 @@ export const motherOfLearning00033TheBitterTruth = {
   unit: "words",
   completedAt: "2026-06-29T22:43:47.259Z",
   publishedAt: "2018-10-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/301784/3-the-bitter-truth",
-  externalId: "301784",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "301784",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/301784/3-the-bitter-truth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

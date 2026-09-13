@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0110Chapter608Preparati
   unit: "words",
   completedAt: "2026-06-29T19:38:49.233Z",
   publishedAt: "2025-09-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2576118/chapter-608-preparations",
-  externalId: "2576118",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2576118",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2576118/chapter-608-preparations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

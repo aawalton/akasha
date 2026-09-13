@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0052Chapter553TalkingAb
   unit: "words",
   completedAt: "2026-06-29T19:36:57.880Z",
   publishedAt: "2025-04-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2219090/chapter-553-talking-about-solid-concepts",
-  externalId: "2219090",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2219090",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2219090/chapter-553-talking-about-solid-concepts",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

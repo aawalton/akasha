@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0098Chapter596InsightsG
   unit: "words",
   completedAt: "2026-06-29T19:38:26.213Z",
   publishedAt: "2025-08-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2501751/chapter-596-insights-gained",
-  externalId: "2501751",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2501751",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2501751/chapter-596-insights-gained",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

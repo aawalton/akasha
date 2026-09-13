@@ -10,9 +10,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0211Chapter703Roughness
   ownLength: 2959,
   unit: "words",
   publishedAt: "2026-05-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3361901/chapter-703-roughness-and-ending",
-  externalId: "3361901",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3361901",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3361901/chapter-703-roughness-and-ending",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

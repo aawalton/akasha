@@ -10,9 +10,13 @@ export const metaworldHopecore0056Chapter30StrangeFruit = {
   ownLength: 3375,
   unit: "words",
   publishedAt: "2026-05-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3374655/chapter-30-strange-fruit",
-  externalId: "3374655",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3374655",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3374655/chapter-30-strange-fruit",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

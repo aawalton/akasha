@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0057Chapter557ADefensiv
   unit: "words",
   completedAt: "2026-06-29T19:37:07.331Z",
   publishedAt: "2025-04-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2243017/chapter-557-a-defensive-response",
-  externalId: "2243017",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2243017",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2243017/chapter-557-a-defensive-response",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

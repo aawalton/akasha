@@ -10,9 +10,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0241Chapter731Slivers =
   ownLength: 2821,
   unit: "words",
   publishedAt: "2026-07-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3732070/chapter-731-slivers",
-  externalId: "3732070",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3732070",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3732070/chapter-731-slivers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

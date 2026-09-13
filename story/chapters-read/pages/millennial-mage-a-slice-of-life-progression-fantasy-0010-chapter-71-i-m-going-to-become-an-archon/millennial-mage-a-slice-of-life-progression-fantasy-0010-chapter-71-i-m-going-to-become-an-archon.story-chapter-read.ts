@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0010Chapter71IMGoingToB
   unit: "words",
   completedAt: "2026-06-29T19:35:36.857Z",
   publishedAt: "2022-02-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/840760/chapter-71-im-going-to-become-an-archon",
-  externalId: "840760",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "840760",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/840760/chapter-71-im-going-to-become-an-archon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

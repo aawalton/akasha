@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0047Chapter548JustForHe
   unit: "words",
   completedAt: "2026-06-29T19:36:48.337Z",
   publishedAt: "2025-04-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2187192/chapter-548-just-for-her-and-rane",
-  externalId: "2187192",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2187192",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2187192/chapter-548-just-for-her-and-rane",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0172Chapter666FightingT
   unit: "words",
   completedAt: "2026-06-29T19:40:34.541Z",
   publishedAt: "2026-02-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3004408/chapter-666-fighting-the-beast",
-  externalId: "3004408",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3004408",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3004408/chapter-666-fighting-the-beast",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

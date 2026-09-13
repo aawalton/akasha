@@ -10,9 +10,13 @@ export const metaworldHopecore0120Chapter72BleedingLove = {
   ownLength: 4024,
   unit: "words",
   publishedAt: "2026-07-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3617135/chapter-72-bleeding-love",
-  externalId: "3617135",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3617135",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3617135/chapter-72-bleeding-love",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

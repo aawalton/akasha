@@ -10,9 +10,13 @@ export const metaworldHopecore0061Chapter33UnderMyThumb = {
   ownLength: 2795,
   unit: "words",
   publishedAt: "2026-05-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3377927/chapter-33-under-my-thumb",
-  externalId: "3377927",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3377927",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3377927/chapter-33-under-my-thumb",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

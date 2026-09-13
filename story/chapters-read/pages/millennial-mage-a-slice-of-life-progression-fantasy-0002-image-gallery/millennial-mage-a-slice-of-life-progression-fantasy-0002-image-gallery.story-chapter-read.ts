@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0002ImageGallery = {
   unit: "words",
   completedAt: "2026-06-29T19:35:21.599Z",
   publishedAt: "2022-06-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/931495/image-gallery",
-  externalId: "931495",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "931495",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/931495/image-gallery",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

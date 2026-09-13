@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0073Chapter573Delayed =
   unit: "words",
   completedAt: "2026-06-29T19:37:38.009Z",
   publishedAt: "2025-06-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2342140/chapter-573-delayed",
-  externalId: "2342140",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2342140",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2342140/chapter-573-delayed",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

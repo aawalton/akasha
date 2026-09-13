@@ -10,9 +10,13 @@ export const metaworldHopecore0075Chapter41BothSidesNow = {
   ownLength: 2415,
   unit: "words",
   publishedAt: "2026-05-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3403139/chapter-41-both-sides-now",
-  externalId: "3403139",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3403139",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3403139/chapter-41-both-sides-now",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

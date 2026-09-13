@@ -10,9 +10,13 @@ export const metaworldHopecore0106Chapter60KaeroKaNa2 = {
   ownLength: 3383,
   unit: "words",
   publishedAt: "2026-06-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3517958/chapter-60-kaero-ka-na-2",
-  externalId: "3517958",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3517958",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3517958/chapter-60-kaero-ka-na-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

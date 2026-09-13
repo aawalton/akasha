@@ -10,9 +10,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0206Chapter698ABreathAP
   ownLength: 3651,
   unit: "words",
   publishedAt: "2026-04-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3312660/chapter-698-a-breath-a-plan",
-  externalId: "3312660",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3312660",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3312660/chapter-698-a-breath-a-plan",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

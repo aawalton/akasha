@@ -10,9 +10,13 @@ export const metaworldHopecore0118Chapter70Crazy = {
   ownLength: 3454,
   unit: "words",
   publishedAt: "2026-06-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3605093/chapter-70-crazy",
-  externalId: "3605093",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3605093",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3605093/chapter-70-crazy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

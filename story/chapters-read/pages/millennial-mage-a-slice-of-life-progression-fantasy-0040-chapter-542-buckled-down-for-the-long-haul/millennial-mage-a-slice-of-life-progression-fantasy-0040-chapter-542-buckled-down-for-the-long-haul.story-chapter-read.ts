@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0040Chapter542BuckledDo
   unit: "words",
   completedAt: "2026-06-29T19:36:34.819Z",
   publishedAt: "2025-03-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2141108/chapter-542-buckled-down-for-the-long-haul",
-  externalId: "2141108",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2141108",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2141108/chapter-542-buckled-down-for-the-long-haul",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

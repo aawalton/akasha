@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0121Chapter619Dangers =
   unit: "words",
   completedAt: "2026-06-29T19:39:10.341Z",
   publishedAt: "2025-10-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2660435/chapter-619-dangers",
-  externalId: "2660435",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2660435",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2660435/chapter-619-dangers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

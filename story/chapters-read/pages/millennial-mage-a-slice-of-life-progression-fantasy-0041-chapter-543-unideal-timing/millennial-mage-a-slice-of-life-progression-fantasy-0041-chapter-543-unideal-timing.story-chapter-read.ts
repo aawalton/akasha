@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0041Chapter543UnidealTi
   unit: "words",
   completedAt: "2026-06-29T19:36:36.759Z",
   publishedAt: "2025-03-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2147359/chapter-543-unideal-timing",
-  externalId: "2147359",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2147359",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2147359/chapter-543-unideal-timing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

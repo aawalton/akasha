@@ -10,9 +10,13 @@ export const metaworldHopecore0054Chapter29Macavity = {
   ownLength: 2912,
   unit: "words",
   publishedAt: "2026-05-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3374427/chapter-29-macavity",
-  externalId: "3374427",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3374427",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3374427/chapter-29-macavity",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0062Chapter562LynTime =
   unit: "words",
   completedAt: "2026-06-29T19:37:16.849Z",
   publishedAt: "2025-05-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2278524/chapter-562-lyn-time",
-  externalId: "2278524",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2278524",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2278524/chapter-562-lyn-time",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

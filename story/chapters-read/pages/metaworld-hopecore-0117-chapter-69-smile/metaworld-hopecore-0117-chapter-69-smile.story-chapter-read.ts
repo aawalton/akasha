@@ -10,9 +10,13 @@ export const metaworldHopecore0117Chapter69Smile = {
   ownLength: 3446,
   unit: "words",
   publishedAt: "2026-06-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3601998/chapter-69-smile",
-  externalId: "3601998",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3601998",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3601998/chapter-69-smile",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

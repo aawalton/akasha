@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0179OutboundBook12Cover
   unit: "words",
   completedAt: "2026-06-29T19:40:48.144Z",
   publishedAt: "2026-02-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3063831/outbound-book-12-cover-reveal",
-  externalId: "3063831",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3063831",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3063831/outbound-book-12-cover-reveal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

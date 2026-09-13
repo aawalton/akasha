@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0077Chapter577FullAutho
   unit: "words",
   completedAt: "2026-06-29T19:37:45.637Z",
   publishedAt: "2025-06-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2365831/chapter-577-full-authority",
-  externalId: "2365831",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2365831",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2365831/chapter-577-full-authority",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

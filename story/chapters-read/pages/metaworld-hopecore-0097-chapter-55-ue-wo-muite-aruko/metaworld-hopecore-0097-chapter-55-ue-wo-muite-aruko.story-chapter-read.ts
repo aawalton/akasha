@@ -10,9 +10,13 @@ export const metaworldHopecore0097Chapter55UeWoMuiteAruko = {
   ownLength: 4085,
   unit: "words",
   publishedAt: "2026-06-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3487263/chapter-55-ue-wo-muite-aruko",
-  externalId: "3487263",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3487263",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3487263/chapter-55-ue-wo-muite-aruko",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

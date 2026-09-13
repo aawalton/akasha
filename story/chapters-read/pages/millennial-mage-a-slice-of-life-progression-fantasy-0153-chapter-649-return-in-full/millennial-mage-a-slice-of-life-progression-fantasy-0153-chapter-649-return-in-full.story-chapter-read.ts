@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0153Chapter649ReturnInF
   unit: "words",
   completedAt: "2026-06-29T19:39:58.112Z",
   publishedAt: "2025-12-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2855673/chapter-649-return-in-full",
-  externalId: "2855673",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2855673",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2855673/chapter-649-return-in-full",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

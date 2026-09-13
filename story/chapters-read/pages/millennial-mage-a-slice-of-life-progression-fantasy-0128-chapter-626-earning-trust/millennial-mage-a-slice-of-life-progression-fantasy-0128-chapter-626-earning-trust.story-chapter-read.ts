@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0128Chapter626EarningTr
   unit: "words",
   completedAt: "2026-06-29T19:39:23.798Z",
   publishedAt: "2025-10-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2700927/chapter-626-earning-trust",
-  externalId: "2700927",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2700927",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2700927/chapter-626-earning-trust",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

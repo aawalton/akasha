@@ -10,9 +10,13 @@ export const metaworldHopecore0112Chapter65TongueTied = {
   ownLength: 3831,
   unit: "words",
   publishedAt: "2026-06-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3569870/chapter-65-tongue-tied",
-  externalId: "3569870",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3569870",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3569870/chapter-65-tongue-tied",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

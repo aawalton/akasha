@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0155FlockboundMm11Audio
   unit: "words",
   completedAt: "2026-06-29T19:40:01.761Z",
   publishedAt: "2025-12-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2863592/flockbound-mm-11-audiobook-launch",
-  externalId: "2863592",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2863592",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2863592/flockbound-mm-11-audiobook-launch",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

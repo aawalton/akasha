@@ -10,9 +10,13 @@ export const metaworldHopecore0053Chapter28BlackCat2 = {
   ownLength: 2256,
   unit: "words",
   publishedAt: "2026-05-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3374353/chapter-28-black-cat-2",
-  externalId: "3374353",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3374353",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3374353/chapter-28-black-cat-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0095FreeGiveawayBook1Au
   unit: "words",
   completedAt: "2026-06-29T19:38:20.390Z",
   publishedAt: "2025-08-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2485064/free-giveaway-book-1-audio-in-celebration-of-book",
-  externalId: "2485064",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2485064",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2485064/free-giveaway-book-1-audio-in-celebration-of-book",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

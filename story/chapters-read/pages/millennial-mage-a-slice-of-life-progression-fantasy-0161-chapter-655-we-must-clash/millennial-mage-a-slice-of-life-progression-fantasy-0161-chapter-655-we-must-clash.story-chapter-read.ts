@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0161Chapter655WeMustCla
   unit: "words",
   completedAt: "2026-06-29T19:40:13.177Z",
   publishedAt: "2026-01-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2919918/chapter-655-we-must-clash",
-  externalId: "2919918",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2919918",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2919918/chapter-655-we-must-clash",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

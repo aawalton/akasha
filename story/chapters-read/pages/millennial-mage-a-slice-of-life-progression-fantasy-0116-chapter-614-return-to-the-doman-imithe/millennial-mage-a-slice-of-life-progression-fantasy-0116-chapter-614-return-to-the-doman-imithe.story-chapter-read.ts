@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0116Chapter614ReturnToT
   unit: "words",
   completedAt: "2026-06-29T19:39:00.888Z",
   publishedAt: "2025-09-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2612325/chapter-614-return-to-the-doman-imithe",
-  externalId: "2612325",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2612325",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2612325/chapter-614-return-to-the-doman-imithe",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

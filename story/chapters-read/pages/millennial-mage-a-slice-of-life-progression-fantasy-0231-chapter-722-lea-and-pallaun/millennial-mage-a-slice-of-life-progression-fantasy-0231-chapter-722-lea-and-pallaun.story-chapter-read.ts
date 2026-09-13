@@ -10,9 +10,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0231Chapter722LeaAndPal
   ownLength: 2609,
   unit: "words",
   publishedAt: "2026-07-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3616504/chapter-722-lea-and-pallaun",
-  externalId: "3616504",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3616504",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3616504/chapter-722-lea-and-pallaun",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

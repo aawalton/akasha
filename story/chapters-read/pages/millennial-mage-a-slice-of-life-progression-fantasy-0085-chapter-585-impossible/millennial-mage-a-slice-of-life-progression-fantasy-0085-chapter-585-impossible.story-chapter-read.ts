@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0085Chapter585Impossibl
   unit: "words",
   completedAt: "2026-06-29T19:38:01.202Z",
   publishedAt: "2025-07-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2421048/chapter-585-impossible",
-  externalId: "2421048",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2421048",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2421048/chapter-585-impossible",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

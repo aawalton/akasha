@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0005Chapter3Dinner = {
   unit: "words",
   completedAt: "2026-06-29T19:35:27.353Z",
   publishedAt: "2021-10-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/774573/chapter-3-dinner",
-  externalId: "774573",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "774573",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/774573/chapter-3-dinner",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

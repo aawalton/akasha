@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0058Chapter558TheirRema
   unit: "words",
   completedAt: "2026-06-29T19:37:09.263Z",
   publishedAt: "2025-05-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2256561/chapter-558-their-remaining-time",
-  externalId: "2256561",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2256561",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2256561/chapter-558-their-remaining-time",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

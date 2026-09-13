@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0178Chapter672WelcomeFe
   unit: "words",
   completedAt: "2026-06-29T19:40:46.206Z",
   publishedAt: "2026-02-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3059141/chapter-672-welcome-feast",
-  externalId: "3059141",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3059141",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3059141/chapter-672-welcome-feast",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

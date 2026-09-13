@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0096Chapter594Therapeut
   unit: "words",
   completedAt: "2026-06-29T19:38:22.292Z",
   publishedAt: "2025-08-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2490928/chapter-594-therapeutic-violence",
-  externalId: "2490928",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2490928",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2490928/chapter-594-therapeutic-violence",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

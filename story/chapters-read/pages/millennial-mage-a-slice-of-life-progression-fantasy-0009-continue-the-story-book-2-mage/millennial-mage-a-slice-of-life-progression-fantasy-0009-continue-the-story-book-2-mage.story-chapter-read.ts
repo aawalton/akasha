@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0009ContinueTheStoryBoo
   unit: "words",
   completedAt: "2026-06-29T19:35:34.937Z",
   publishedAt: "2023-04-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/1166840/continue-the-story-book-2-mage",
-  externalId: "1166840",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1166840",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/1166840/continue-the-story-book-2-mage",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

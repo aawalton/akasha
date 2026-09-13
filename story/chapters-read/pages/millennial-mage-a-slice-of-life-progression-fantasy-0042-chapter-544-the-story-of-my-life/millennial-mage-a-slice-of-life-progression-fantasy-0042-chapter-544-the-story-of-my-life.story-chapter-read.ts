@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0042Chapter544TheStoryO
   unit: "words",
   completedAt: "2026-06-29T19:36:38.695Z",
   publishedAt: "2025-03-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2151952/chapter-544-the-story-of-my-life",
-  externalId: "2151952",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2151952",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2151952/chapter-544-the-story-of-my-life",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const metaworldHopecore0086Chapter48YouAreMyLife2 = {
   ownLength: 2000,
   unit: "words",
   publishedAt: "2026-05-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3442200/chapter-48-you-are-my-life-2",
-  externalId: "3442200",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3442200",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3442200/chapter-48-you-are-my-life-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

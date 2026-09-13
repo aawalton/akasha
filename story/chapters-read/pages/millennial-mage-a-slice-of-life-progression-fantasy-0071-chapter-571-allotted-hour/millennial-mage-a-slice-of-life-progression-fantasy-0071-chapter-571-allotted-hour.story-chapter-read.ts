@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0071Chapter571AllottedH
   unit: "words",
   completedAt: "2026-06-29T19:37:34.061Z",
   publishedAt: "2025-06-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2329483/chapter-571-allotted-hour",
-  externalId: "2329483",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2329483",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2329483/chapter-571-allotted-hour",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

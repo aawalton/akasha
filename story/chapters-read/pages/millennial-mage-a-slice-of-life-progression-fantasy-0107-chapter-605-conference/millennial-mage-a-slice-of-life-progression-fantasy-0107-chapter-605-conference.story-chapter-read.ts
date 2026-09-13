@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0107Chapter605Conferenc
   unit: "words",
   completedAt: "2026-06-29T19:38:43.334Z",
   publishedAt: "2025-08-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2557334/chapter-605-conference",
-  externalId: "2557334",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2557334",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2557334/chapter-605-conference",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

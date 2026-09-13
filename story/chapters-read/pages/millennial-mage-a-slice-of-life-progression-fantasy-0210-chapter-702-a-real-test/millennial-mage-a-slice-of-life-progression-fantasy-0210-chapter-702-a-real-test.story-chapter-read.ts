@@ -10,9 +10,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0210Chapter702ARealTest
   ownLength: 2769,
   unit: "words",
   publishedAt: "2026-05-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3352882/chapter-702-a-real-test",
-  externalId: "3352882",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3352882",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3352882/chapter-702-a-real-test",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

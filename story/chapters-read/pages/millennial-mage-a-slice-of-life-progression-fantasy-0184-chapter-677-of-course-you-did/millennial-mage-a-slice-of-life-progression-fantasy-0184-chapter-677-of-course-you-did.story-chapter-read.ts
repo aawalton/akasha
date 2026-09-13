@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0184Chapter677OfCourseY
   unit: "words",
   completedAt: "2026-06-29T19:40:57.856Z",
   publishedAt: "2026-02-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3097926/chapter-677-of-course-you-did",
-  externalId: "3097926",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3097926",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3097926/chapter-677-of-course-you-did",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0036Chapter538Anniversa
   unit: "words",
   completedAt: "2026-06-29T19:36:27.132Z",
   publishedAt: "2025-03-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2121533/chapter-538-anniversary",
-  externalId: "2121533",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2121533",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2121533/chapter-538-anniversary",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

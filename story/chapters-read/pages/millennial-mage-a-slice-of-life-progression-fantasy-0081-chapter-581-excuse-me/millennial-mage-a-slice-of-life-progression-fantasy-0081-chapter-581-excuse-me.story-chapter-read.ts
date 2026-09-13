@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0081Chapter581ExcuseMe 
   unit: "words",
   completedAt: "2026-06-29T19:37:53.496Z",
   publishedAt: "2025-06-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2389243/chapter-581-excuse-me",
-  externalId: "2389243",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2389243",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2389243/chapter-581-excuse-me",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

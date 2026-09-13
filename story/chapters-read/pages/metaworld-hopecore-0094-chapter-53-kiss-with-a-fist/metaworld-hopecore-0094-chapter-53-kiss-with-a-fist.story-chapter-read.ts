@@ -10,9 +10,13 @@ export const metaworldHopecore0094Chapter53KissWithAFist = {
   ownLength: 3071,
   unit: "words",
   publishedAt: "2026-06-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3475832/chapter-53-kiss-with-a-fist",
-  externalId: "3475832",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3475832",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3475832/chapter-53-kiss-with-a-fist",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

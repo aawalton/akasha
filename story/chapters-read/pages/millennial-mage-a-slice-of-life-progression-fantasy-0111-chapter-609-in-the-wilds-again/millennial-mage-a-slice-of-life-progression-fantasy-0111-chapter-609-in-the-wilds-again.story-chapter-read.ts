@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0111Chapter609InTheWild
   unit: "words",
   completedAt: "2026-06-29T19:38:51.128Z",
   publishedAt: "2025-09-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2584052/chapter-609-in-the-wilds-again",
-  externalId: "2584052",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2584052",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2584052/chapter-609-in-the-wilds-again",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

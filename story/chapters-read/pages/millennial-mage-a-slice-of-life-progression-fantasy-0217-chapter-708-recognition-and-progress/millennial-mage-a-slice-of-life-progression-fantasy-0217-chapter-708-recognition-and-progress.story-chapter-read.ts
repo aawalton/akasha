@@ -10,9 +10,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0217Chapter708Recogniti
   ownLength: 3195,
   unit: "words",
   publishedAt: "2026-05-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3452795/chapter-708-recognition-and-progress",
-  externalId: "3452795",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3452795",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3452795/chapter-708-recognition-and-progress",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0226Chapter717ReachingT
   ownLength: 2934,
   unit: "words",
   publishedAt: "2026-06-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3560724/chapter-717-reaching-the-mountain",
-  externalId: "3560724",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3560724",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3560724/chapter-717-reaching-the-mountain",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

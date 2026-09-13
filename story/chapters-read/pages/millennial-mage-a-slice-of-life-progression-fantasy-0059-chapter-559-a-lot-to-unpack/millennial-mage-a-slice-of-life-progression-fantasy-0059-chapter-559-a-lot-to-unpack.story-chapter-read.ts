@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0059Chapter559ALotToUnp
   unit: "words",
   completedAt: "2026-06-29T19:37:11.197Z",
   publishedAt: "2025-05-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2261926/chapter-559-a-lot-to-unpack",
-  externalId: "2261926",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2261926",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2261926/chapter-559-a-lot-to-unpack",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

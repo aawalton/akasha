@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0048Chapter549ToTheTrai
   unit: "words",
   completedAt: "2026-06-29T19:36:50.260Z",
   publishedAt: "2025-04-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2192512/chapter-549-to-the-training-yard",
-  externalId: "2192512",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2192512",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2192512/chapter-549-to-the-training-yard",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

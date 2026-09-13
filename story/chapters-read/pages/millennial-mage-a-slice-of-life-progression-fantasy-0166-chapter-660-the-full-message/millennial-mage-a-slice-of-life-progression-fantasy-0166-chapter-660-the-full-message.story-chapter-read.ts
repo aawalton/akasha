@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0166Chapter660TheFullMe
   unit: "words",
   completedAt: "2026-06-29T19:40:22.688Z",
   publishedAt: "2026-01-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2957449/chapter-660-the-full-message",
-  externalId: "2957449",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2957449",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2957449/chapter-660-the-full-message",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

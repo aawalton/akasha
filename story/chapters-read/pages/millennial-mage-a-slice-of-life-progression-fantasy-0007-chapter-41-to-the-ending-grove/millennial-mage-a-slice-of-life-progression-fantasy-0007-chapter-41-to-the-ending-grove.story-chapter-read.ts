@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0007Chapter41ToTheEndin
   unit: "words",
   completedAt: "2026-06-29T19:35:31.077Z",
   publishedAt: "2021-12-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/809731/chapter-41-to-the-ending-grove",
-  externalId: "809731",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "809731",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/809731/chapter-41-to-the-ending-grove",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

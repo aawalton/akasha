@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0014Chapter104ThatSeems
   unit: "words",
   completedAt: "2026-06-29T19:35:44.580Z",
   publishedAt: "2022-04-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/882923/chapter-104-that-seems-bad",
-  externalId: "882923",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "882923",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/882923/chapter-104-that-seems-bad",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

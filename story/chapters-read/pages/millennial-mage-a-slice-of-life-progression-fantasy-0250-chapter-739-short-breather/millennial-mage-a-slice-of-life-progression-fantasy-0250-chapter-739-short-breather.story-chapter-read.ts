@@ -10,9 +10,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0250Chapter739ShortBrea
   ownLength: 2934,
   unit: "words",
   publishedAt: "2026-08-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3824968/chapter-739-short-breather",
-  externalId: "3824968",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3824968",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3824968/chapter-739-short-breather",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

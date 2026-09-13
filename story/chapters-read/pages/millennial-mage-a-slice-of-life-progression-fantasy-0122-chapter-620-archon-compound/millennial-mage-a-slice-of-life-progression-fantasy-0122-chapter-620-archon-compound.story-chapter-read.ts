@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0122Chapter620ArchonCom
   unit: "words",
   completedAt: "2026-06-29T19:39:12.157Z",
   publishedAt: "2025-10-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2665540/chapter-620-archon-compound",
-  externalId: "2665540",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2665540",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2665540/chapter-620-archon-compound",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

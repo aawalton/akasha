@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0118Chapter616Abrasion 
   unit: "words",
   completedAt: "2026-06-29T19:39:04.587Z",
   publishedAt: "2025-09-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2624972/chapter-616-abrasion",
-  externalId: "2624972",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2624972",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2624972/chapter-616-abrasion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

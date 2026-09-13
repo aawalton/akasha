@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0088Chapter588TheAssist
   unit: "words",
   completedAt: "2026-06-29T19:38:07.079Z",
   publishedAt: "2025-07-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2439539/chapter-588-the-assistant",
-  externalId: "2439539",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2439539",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2439539/chapter-588-the-assistant",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

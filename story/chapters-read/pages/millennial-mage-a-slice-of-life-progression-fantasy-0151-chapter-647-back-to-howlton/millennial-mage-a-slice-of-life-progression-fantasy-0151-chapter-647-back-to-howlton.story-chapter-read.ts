@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0151Chapter647BackToHow
   unit: "words",
   completedAt: "2026-06-29T19:39:54.236Z",
   publishedAt: "2025-12-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2841257/chapter-647-back-to-howlton",
-  externalId: "2841257",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2841257",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2841257/chapter-647-back-to-howlton",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

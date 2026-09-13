@@ -12,9 +12,13 @@ export const motherOfLearning00066ConcentrateAndTryAgain = {
   unit: "words",
   completedAt: "2026-06-29T22:43:53.862Z",
   publishedAt: "2018-10-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/301799/6-concentrate-and-try-again",
-  externalId: "301799",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "301799",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/301799/6-concentrate-and-try-again",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

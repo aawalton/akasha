@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0139Chapter636EnoughFor
   unit: "words",
   completedAt: "2026-06-29T19:39:31.242Z",
   publishedAt: "2025-11-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2768310/chapter-636-enough-for-me",
-  externalId: "2768310",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2768310",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2768310/chapter-636-enough-for-me",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0147Chapter643MoreVisit
   unit: "words",
   completedAt: "2026-06-29T19:39:46.434Z",
   publishedAt: "2025-12-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2814840/chapter-643-more-visits",
-  externalId: "2814840",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2814840",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2814840/chapter-643-more-visits",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

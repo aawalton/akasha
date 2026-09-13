@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0202Chapter694IntoTheHo
   unit: "words",
   completedAt: "2026-06-29T19:41:31.950Z",
   publishedAt: "2026-04-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3276397/chapter-694-into-the-hold",
-  externalId: "3276397",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3276397",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3276397/chapter-694-into-the-hold",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

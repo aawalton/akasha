@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0017Chapter136Underpinn
   unit: "words",
   completedAt: "2026-06-29T19:35:50.285Z",
   publishedAt: "2022-06-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/934478/chapter-136-underpinning-aura",
-  externalId: "934478",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "934478",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/934478/chapter-136-underpinning-aura",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

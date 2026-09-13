@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0194Chapter686MovingFor
   unit: "words",
   completedAt: "2026-06-29T19:41:16.681Z",
   publishedAt: "2026-03-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3183073/chapter-686-moving-forward",
-  externalId: "3183073",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3183073",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3183073/chapter-686-moving-forward",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0181Chapter674CouldHave
   unit: "words",
   completedAt: "2026-06-29T19:40:51.985Z",
   publishedAt: "2026-02-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3074045/chapter-674-could-have-gone-better",
-  externalId: "3074045",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3074045",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3074045/chapter-674-could-have-gone-better",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

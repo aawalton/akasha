@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0027ContinueTheStoryBoo
   unit: "words",
   completedAt: "2026-06-29T19:36:09.886Z",
   publishedAt: "2025-04-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2199177/continue-the-story-book-9-citybound",
-  externalId: "2199177",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2199177",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2199177/continue-the-story-book-9-citybound",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

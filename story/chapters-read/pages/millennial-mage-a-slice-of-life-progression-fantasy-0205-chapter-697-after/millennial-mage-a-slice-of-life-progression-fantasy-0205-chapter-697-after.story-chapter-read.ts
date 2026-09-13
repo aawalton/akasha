@@ -10,9 +10,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0205Chapter697After = {
   ownLength: 2965,
   unit: "words",
   publishedAt: "2026-04-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3304424/chapter-697-after",
-  externalId: "3304424",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3304424",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3304424/chapter-697-after",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

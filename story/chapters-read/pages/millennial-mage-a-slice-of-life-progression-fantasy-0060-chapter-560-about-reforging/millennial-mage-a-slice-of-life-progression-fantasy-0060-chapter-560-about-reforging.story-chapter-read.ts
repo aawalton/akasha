@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0060Chapter560AboutRefo
   unit: "words",
   completedAt: "2026-06-29T19:37:13.130Z",
   publishedAt: "2025-05-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2266524/chapter-560-about-reforging",
-  externalId: "2266524",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2266524",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2266524/chapter-560-about-reforging",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

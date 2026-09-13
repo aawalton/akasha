@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0180Chapter673AHouseCou
   unit: "words",
   completedAt: "2026-06-29T19:40:50.060Z",
   publishedAt: "2026-02-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3067624/chapter-673-a-house-council",
-  externalId: "3067624",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3067624",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3067624/chapter-673-a-house-council",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

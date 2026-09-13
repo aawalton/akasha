@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0028Chapter372MagicsCon
   unit: "words",
   completedAt: "2026-06-29T19:36:11.797Z",
   publishedAt: "2024-01-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/1474616/chapter-372-magics-consumed",
-  externalId: "1474616",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1474616",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/1474616/chapter-372-magics-consumed",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

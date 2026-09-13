@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0125Chapter623AlwaysOne
   unit: "words",
   completedAt: "2026-06-29T19:39:18.069Z",
   publishedAt: "2025-10-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2683185/chapter-623-always-one-more-secret",
-  externalId: "2683185",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2683185",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2683185/chapter-623-always-one-more-secret",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

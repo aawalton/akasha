@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0182Chapter675PlansAndA
   unit: "words",
   completedAt: "2026-06-29T19:40:53.969Z",
   publishedAt: "2026-02-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3083489/chapter-675-plans-and-authority",
-  externalId: "3083489",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3083489",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3083489/chapter-675-plans-and-authority",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

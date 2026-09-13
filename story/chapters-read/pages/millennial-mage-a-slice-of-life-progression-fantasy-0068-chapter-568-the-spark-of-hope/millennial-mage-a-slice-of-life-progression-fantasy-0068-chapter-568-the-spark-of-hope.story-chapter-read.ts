@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0068Chapter568TheSparkO
   unit: "words",
   completedAt: "2026-06-29T19:37:28.255Z",
   publishedAt: "2025-05-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2311381/chapter-568-the-spark-of-hope",
-  externalId: "2311381",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2311381",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2311381/chapter-568-the-spark-of-hope",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

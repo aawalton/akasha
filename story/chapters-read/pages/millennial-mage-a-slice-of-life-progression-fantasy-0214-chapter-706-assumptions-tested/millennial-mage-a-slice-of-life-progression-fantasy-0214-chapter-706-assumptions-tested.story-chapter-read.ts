@@ -10,9 +10,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0214Chapter706Assumptio
   ownLength: 3345,
   unit: "words",
   publishedAt: "2026-05-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3398775/chapter-706-assumptions-tested",
-  externalId: "3398775",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3398775",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3398775/chapter-706-assumptions-tested",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

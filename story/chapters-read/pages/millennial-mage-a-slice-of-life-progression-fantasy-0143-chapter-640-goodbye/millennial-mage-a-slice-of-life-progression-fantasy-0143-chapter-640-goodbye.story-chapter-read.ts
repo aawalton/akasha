@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0143Chapter640Goodbye =
   unit: "words",
   completedAt: "2026-06-29T19:39:38.906Z",
   publishedAt: "2025-11-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2794435/chapter-640-goodbye",
-  externalId: "2794435",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2794435",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2794435/chapter-640-goodbye",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

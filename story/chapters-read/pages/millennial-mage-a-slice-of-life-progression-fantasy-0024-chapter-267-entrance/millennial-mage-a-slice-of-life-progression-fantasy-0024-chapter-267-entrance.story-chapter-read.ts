@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0024Chapter267Entrance 
   unit: "words",
   completedAt: "2026-06-29T19:36:04.141Z",
   publishedAt: "2023-05-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/1198663/chapter-267-entrance",
-  externalId: "1198663",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1198663",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/1198663/chapter-267-entrance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0099Chapter597FoxKin = 
   unit: "words",
   completedAt: "2026-06-29T19:38:28.198Z",
   publishedAt: "2025-08-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2509079/chapter-597-fox-kin",
-  externalId: "2509079",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2509079",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2509079/chapter-597-fox-kin",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

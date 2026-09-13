@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0152Chapter648PareshAga
   unit: "words",
   completedAt: "2026-06-29T19:39:56.165Z",
   publishedAt: "2025-12-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2849597/chapter-648-paresh-again",
-  externalId: "2849597",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2849597",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2849597/chapter-648-paresh-again",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

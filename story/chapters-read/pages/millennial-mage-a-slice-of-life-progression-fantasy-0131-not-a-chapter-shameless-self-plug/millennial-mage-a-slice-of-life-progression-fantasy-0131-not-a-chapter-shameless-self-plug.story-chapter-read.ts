@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0131NotAChapterShameles
   unit: "words",
   completedAt: "2026-06-29T19:41:37.780Z",
   publishedAt: "2025-10-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2716933/not-a-chapter-shameless-self-plug",
-  externalId: "2716933",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2716933",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2716933/not-a-chapter-shameless-self-plug",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

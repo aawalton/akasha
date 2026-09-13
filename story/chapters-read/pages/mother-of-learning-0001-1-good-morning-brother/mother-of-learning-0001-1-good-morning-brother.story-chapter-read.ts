@@ -12,9 +12,13 @@ export const motherOfLearning00011GoodMorningBrother = {
   unit: "words",
   completedAt: "2026-06-29T22:43:43.131Z",
   publishedAt: "2018-10-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/301778/1-good-morning-brother",
-  externalId: "301778",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "301778",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/301778/1-good-morning-brother",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const metaworldHopecore0142Chapter83EveryBreathYouTake2 = {
   ownLength: 2939,
   unit: "words",
   publishedAt: "2026-07-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3746099/chapter-83-every-breath-you-take-2",
-  externalId: "3746099",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3746099",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3746099/chapter-83-every-breath-you-take-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

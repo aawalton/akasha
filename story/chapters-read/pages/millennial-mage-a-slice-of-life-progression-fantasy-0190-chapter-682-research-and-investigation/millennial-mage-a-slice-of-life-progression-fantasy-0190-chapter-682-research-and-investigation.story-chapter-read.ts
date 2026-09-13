@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0190Chapter682ResearchA
   unit: "words",
   completedAt: "2026-06-29T19:41:09.230Z",
   publishedAt: "2026-03-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3146922/chapter-682-research-and-investigation-begins",
-  externalId: "3146922",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3146922",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3146922/chapter-682-research-and-investigation-begins",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

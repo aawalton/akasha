@@ -12,9 +12,13 @@ export const motherOfLearning001313AnySecondNow = {
   unit: "words",
   completedAt: "2026-06-29T22:44:10.904Z",
   publishedAt: "2018-11-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/303116/13-any-second-now",
-  externalId: "303116",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "303116",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/303116/13-any-second-now",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0195Chapter687ReveredCi
   unit: "words",
   completedAt: "2026-06-29T19:41:18.593Z",
   publishedAt: "2026-03-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3191600/chapter-687-revered-city-lord",
-  externalId: "3191600",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3191600",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3191600/chapter-687-revered-city-lord",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

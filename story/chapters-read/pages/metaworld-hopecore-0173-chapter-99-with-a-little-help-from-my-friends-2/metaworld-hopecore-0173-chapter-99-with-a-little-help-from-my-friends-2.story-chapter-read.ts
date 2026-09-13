@@ -8,11 +8,15 @@ export const metaworldHopecore0173Chapter99WithALittleHelpFromMyFriends2 = {
   position: 173,
   publishedAt: "2026-09-05",
   unit: "words",
-  externalId: "3914478",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3914478",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3914478/chapter-99-with-a-little-help-from-my-friends",
+    },
+  ],
   title: "CHAPTER 99 - With a Little Help from My Friends (2)",
   ownLength: 2382,
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3914478/chapter-99-with-a-little-help-from-my-friends",
   prose: "txt",
 } as const satisfies StoryChapterRead

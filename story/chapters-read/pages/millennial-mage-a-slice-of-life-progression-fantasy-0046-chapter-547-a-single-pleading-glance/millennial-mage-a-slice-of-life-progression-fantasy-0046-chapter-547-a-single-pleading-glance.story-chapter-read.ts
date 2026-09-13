@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0046Chapter547ASinglePl
   unit: "words",
   completedAt: "2026-06-29T19:36:46.407Z",
   publishedAt: "2025-04-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2181432/chapter-547-a-single-pleading-glance",
-  externalId: "2181432",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2181432",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2181432/chapter-547-a-single-pleading-glance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0165Chapter659ToTheCore
   unit: "words",
   completedAt: "2026-06-29T19:40:20.757Z",
   publishedAt: "2026-01-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2948385/chapter-659-to-the-core",
-  externalId: "2948385",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2948385",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2948385/chapter-659-to-the-core",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

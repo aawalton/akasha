@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0191Chapter683WorldKeep
   unit: "words",
   completedAt: "2026-06-29T19:41:11.014Z",
   publishedAt: "2026-03-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3157426/chapter-683-world-keeper-revelations",
-  externalId: "3157426",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3157426",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3157426/chapter-683-world-keeper-revelations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

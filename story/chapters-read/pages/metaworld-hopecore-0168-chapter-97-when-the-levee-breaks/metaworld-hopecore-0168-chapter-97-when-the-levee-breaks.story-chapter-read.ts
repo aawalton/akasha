@@ -10,9 +10,13 @@ export const metaworldHopecore0168Chapter97WhenTheLeveeBreaks = {
   ownLength: 2721,
   unit: "words",
   publishedAt: "2026-08-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3883749/chapter-97-when-the-levee-breaks",
-  externalId: "3883749",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3883749",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3883749/chapter-97-when-the-levee-breaks",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

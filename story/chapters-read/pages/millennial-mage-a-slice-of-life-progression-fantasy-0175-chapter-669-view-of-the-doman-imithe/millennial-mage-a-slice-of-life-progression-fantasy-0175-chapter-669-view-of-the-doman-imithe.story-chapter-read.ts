@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0175Chapter669ViewOfThe
   unit: "words",
   completedAt: "2026-06-29T19:40:40.505Z",
   publishedAt: "2026-02-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3028356/chapter-669-view-of-the-doman-imithe",
-  externalId: "3028356",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3028356",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3028356/chapter-669-view-of-the-doman-imithe",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

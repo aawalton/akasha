@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0075Chapter575RealityRo
   unit: "words",
   completedAt: "2026-06-29T19:37:41.854Z",
   publishedAt: "2025-06-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2353048/chapter-575-reality-rope",
-  externalId: "2353048",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2353048",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2353048/chapter-575-reality-rope",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

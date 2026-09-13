@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0158Chapter653BorrowedA
   unit: "words",
   completedAt: "2026-06-29T19:40:07.518Z",
   publishedAt: "2025-12-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2895311/chapter-653-borrowed-authority",
-  externalId: "2895311",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2895311",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2895311/chapter-653-borrowed-authority",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

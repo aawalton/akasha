@@ -12,9 +12,13 @@ export const motherOfLearning001111Limiters = {
   unit: "words",
   completedAt: "2026-06-29T22:44:06.440Z",
   publishedAt: "2018-10-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/302540/11-limiters",
-  externalId: "302540",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "302540",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/302540/11-limiters",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

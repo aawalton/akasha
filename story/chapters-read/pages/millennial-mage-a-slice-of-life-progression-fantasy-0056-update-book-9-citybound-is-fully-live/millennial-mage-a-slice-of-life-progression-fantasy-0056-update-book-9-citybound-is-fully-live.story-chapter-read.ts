@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0056UpdateBook9Cityboun
   unit: "words",
   completedAt: "2026-06-29T19:37:05.546Z",
   publishedAt: "2025-04-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2238749/update-book-9-citybound-is-fully-live",
-  externalId: "2238749",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2238749",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2238749/update-book-9-citybound-is-fully-live",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

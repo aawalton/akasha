@@ -10,9 +10,13 @@ export const metaworldHopecore0167Chapter96WayfaringStranger2 = {
   ownLength: 2354,
   unit: "words",
   publishedAt: "2026-08-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3871972/chapter-96-wayfaring-stranger-2",
-  externalId: "3871972",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3871972",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3871972/chapter-96-wayfaring-stranger-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

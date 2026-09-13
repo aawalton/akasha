@@ -10,9 +10,13 @@ export const metaworldHopecore0101Chapter57MiageteGoranYoruNoHoshiWo2 = {
   ownLength: 2805,
   unit: "words",
   publishedAt: "2026-06-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3499636/chapter-57-miagete-goran-yoru-no-hoshi-wo-2",
-  externalId: "3499636",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3499636",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3499636/chapter-57-miagete-goran-yoru-no-hoshi-wo-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const metaworldHopecore0090Chapter51Vienna = {
   ownLength: 2628,
   unit: "words",
   publishedAt: "2026-05-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3468973/chapter-51-vienna",
-  externalId: "3468973",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3468973",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3468973/chapter-51-vienna",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

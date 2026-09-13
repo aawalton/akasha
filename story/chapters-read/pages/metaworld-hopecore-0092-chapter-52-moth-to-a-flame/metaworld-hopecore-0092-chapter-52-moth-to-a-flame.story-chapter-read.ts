@@ -10,9 +10,13 @@ export const metaworldHopecore0092Chapter52MothToAFlame = {
   ownLength: 2320,
   unit: "words",
   publishedAt: "2026-05-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3469703/chapter-52-moth-to-a-flame",
-  externalId: "3469703",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3469703",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3469703/chapter-52-moth-to-a-flame",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

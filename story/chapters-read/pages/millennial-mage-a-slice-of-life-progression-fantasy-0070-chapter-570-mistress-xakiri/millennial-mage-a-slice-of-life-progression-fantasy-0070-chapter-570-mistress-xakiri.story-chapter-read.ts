@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0070Chapter570MistressX
   unit: "words",
   completedAt: "2026-06-29T19:37:32.121Z",
   publishedAt: "2025-06-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2324069/chapter-570-mistress-xakiri",
-  externalId: "2324069",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2324069",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2324069/chapter-570-mistress-xakiri",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

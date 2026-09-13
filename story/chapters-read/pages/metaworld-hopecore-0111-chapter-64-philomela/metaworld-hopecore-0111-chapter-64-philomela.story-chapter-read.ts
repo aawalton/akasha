@@ -10,9 +10,13 @@ export const metaworldHopecore0111Chapter64Philomela = {
   ownLength: 4050,
   unit: "words",
   publishedAt: "2026-06-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3564525/chapter-64-philomela",
-  externalId: "3564525",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3564525",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3564525/chapter-64-philomela",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

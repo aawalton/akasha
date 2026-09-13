@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0140Chapter637Reforging
   unit: "words",
   completedAt: "2026-06-29T19:39:33.296Z",
   publishedAt: "2025-11-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2774428/chapter-637-reforging",
-  externalId: "2774428",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2774428",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2774428/chapter-637-reforging",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

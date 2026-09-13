@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0004Chapter2TheCaravann
   unit: "words",
   completedAt: "2026-06-29T19:35:25.433Z",
   publishedAt: "2021-10-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/774056/chapter-2-the-caravanners-guild",
-  externalId: "774056",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "774056",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/774056/chapter-2-the-caravanners-guild",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0091Chapter590ADozenBak
   unit: "words",
   completedAt: "2026-06-29T19:38:12.785Z",
   publishedAt: "2025-07-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2459212/chapter-590-a-dozen-bakers-dozen",
-  externalId: "2459212",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2459212",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2459212/chapter-590-a-dozen-bakers-dozen",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0117Chapter615RightToBu
   unit: "words",
   completedAt: "2026-06-29T19:39:02.686Z",
   publishedAt: "2025-09-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2619578/chapter-615-right-to-business",
-  externalId: "2619578",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2619578",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2619578/chapter-615-right-to-business",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

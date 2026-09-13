@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0173Chapter667FailureIn
   unit: "words",
   completedAt: "2026-06-29T19:40:36.507Z",
   publishedAt: "2026-02-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3011458/chapter-667-failure-in-victory",
-  externalId: "3011458",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3011458",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3011458/chapter-667-failure-in-victory",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

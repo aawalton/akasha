@@ -10,9 +10,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0239Chapter729CriticalI
   ownLength: 3084,
   unit: "words",
   publishedAt: "2026-07-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3710321/chapter-729-critical-information",
-  externalId: "3710321",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3710321",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3710321/chapter-729-critical-information",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

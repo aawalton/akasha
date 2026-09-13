@@ -10,9 +10,13 @@ export const metaworldHopecore0096Chapter54Liability2 = {
   ownLength: 2217,
   unit: "words",
   publishedAt: "2026-06-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3480821/chapter-54-liability-2",
-  externalId: "3480821",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3480821",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3480821/chapter-54-liability-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

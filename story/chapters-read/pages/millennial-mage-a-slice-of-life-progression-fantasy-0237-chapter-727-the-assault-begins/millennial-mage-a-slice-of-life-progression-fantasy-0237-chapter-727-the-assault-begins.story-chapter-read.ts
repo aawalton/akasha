@@ -10,9 +10,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0237Chapter727TheAssaul
   ownLength: 2489,
   unit: "words",
   publishedAt: "2026-07-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3688554/chapter-727-the-assault-begins",
-  externalId: "3688554",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3688554",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3688554/chapter-727-the-assault-begins",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

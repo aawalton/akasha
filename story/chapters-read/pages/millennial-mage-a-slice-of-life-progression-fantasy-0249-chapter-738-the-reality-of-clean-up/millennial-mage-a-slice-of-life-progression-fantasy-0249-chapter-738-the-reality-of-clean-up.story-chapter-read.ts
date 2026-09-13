@@ -10,9 +10,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0249Chapter738TheRealit
   ownLength: 3011,
   unit: "words",
   publishedAt: "2026-08-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3812583/chapter-738-the-reality-of-clean-up",
-  externalId: "3812583",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3812583",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3812583/chapter-738-the-reality-of-clean-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

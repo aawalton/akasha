@@ -10,9 +10,13 @@ export const metaworldHopecore0071Chapter38CarryThatWeight2 = {
   ownLength: 1698,
   unit: "words",
   publishedAt: "2026-05-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3393115/chapter-38-carry-that-weight-2",
-  externalId: "3393115",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3393115",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3393115/chapter-38-carry-that-weight-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

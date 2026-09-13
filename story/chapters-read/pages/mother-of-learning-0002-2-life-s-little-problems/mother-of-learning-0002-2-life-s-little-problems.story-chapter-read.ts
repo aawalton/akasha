@@ -12,9 +12,13 @@ export const motherOfLearning00022LifeSLittleProblems = {
   unit: "words",
   completedAt: "2026-06-29T22:43:45.233Z",
   publishedAt: "2018-10-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/301781/2-lifes-little-problems",
-  externalId: "301781",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "301781",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/301781/2-lifes-little-problems",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

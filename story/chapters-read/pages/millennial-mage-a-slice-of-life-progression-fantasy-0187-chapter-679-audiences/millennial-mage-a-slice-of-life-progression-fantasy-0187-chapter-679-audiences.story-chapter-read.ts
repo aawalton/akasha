@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0187Chapter679Audiences
   unit: "words",
   completedAt: "2026-06-29T19:41:03.545Z",
   publishedAt: "2026-03-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3122620/chapter-679-audiences",
-  externalId: "3122620",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3122620",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3122620/chapter-679-audiences",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

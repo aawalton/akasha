@@ -10,9 +10,13 @@ export const metaworldHopecore0103Chapter58HotaruNoHikari2 = {
   ownLength: 3277,
   unit: "words",
   publishedAt: "2026-06-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3503762/chapter-58-hotaru-no-hikari-2",
-  externalId: "3503762",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3503762",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3503762/chapter-58-hotaru-no-hikari-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

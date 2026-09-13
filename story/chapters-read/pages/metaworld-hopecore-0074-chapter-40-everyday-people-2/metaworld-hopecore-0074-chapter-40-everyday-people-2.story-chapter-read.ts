@@ -10,9 +10,13 @@ export const metaworldHopecore0074Chapter40EverydayPeople2 = {
   ownLength: 2387,
   unit: "words",
   publishedAt: "2026-05-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3398921/chapter-40-everyday-people-2",
-  externalId: "3398921",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3398921",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3398921/chapter-40-everyday-people-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

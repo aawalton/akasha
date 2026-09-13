@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0051Chapter552TheBodyIs
   unit: "words",
   completedAt: "2026-06-29T19:36:55.963Z",
   publishedAt: "2025-04-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2211729/chapter-552-the-body-is-dead",
-  externalId: "2211729",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2211729",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2211729/chapter-552-the-body-is-dead",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

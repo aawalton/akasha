@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0100Chapter598FightView
   unit: "words",
   completedAt: "2026-06-29T19:38:30.109Z",
   publishedAt: "2025-08-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2514663/chapter-598-fight-view-restaurant",
-  externalId: "2514663",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2514663",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2514663/chapter-598-fight-view-restaurant",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

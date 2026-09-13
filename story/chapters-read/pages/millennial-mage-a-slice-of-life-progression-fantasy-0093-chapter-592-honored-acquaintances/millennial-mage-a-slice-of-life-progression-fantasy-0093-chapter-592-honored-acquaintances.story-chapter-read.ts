@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0093Chapter592HonoredAc
   unit: "words",
   completedAt: "2026-06-29T19:38:16.485Z",
   publishedAt: "2025-07-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2472494/chapter-592-honored-acquaintances",
-  externalId: "2472494",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2472494",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2472494/chapter-592-honored-acquaintances",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

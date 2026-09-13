@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0039Chapter541WhoMightY
   unit: "words",
   completedAt: "2026-06-29T19:36:32.892Z",
   publishedAt: "2025-03-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2136462/chapter-541-who-might-you-be",
-  externalId: "2136462",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2136462",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2136462/chapter-541-who-might-you-be",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

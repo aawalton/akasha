@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0079Chapter579IsThatBad
   unit: "words",
   completedAt: "2026-06-29T19:37:49.479Z",
   publishedAt: "2025-06-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2378808/chapter-579-is-that-bad",
-  externalId: "2378808",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2378808",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2378808/chapter-579-is-that-bad",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

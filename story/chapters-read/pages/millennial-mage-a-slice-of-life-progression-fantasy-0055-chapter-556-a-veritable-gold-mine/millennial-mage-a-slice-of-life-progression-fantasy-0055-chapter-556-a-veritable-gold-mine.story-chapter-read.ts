@@ -12,9 +12,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0055Chapter556AVeritabl
   unit: "words",
   completedAt: "2026-06-29T19:37:03.623Z",
   publishedAt: "2025-04-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2237439/chapter-556-a-veritable-gold-mine",
-  externalId: "2237439",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2237439",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2237439/chapter-556-a-veritable-gold-mine",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const millennialMageASliceOfLifeProgressionFantasy0207Chapter699AnchorsFo
   ownLength: 2989,
   unit: "words",
   publishedAt: "2026-04-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3324180/chapter-699-anchors-for-opulence",
-  externalId: "3324180",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3324180",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3324180/chapter-699-anchors-for-opulence",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead
