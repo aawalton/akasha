@@ -32,5 +32,13 @@ export const inventoryDiagnosticsReading = {
       statement:
         "The refusal names the diagnostic looked for and the reader's steps to make that diagnostic exist.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A caller wanting absence as an answer picks rather than reads.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Picking and reading differ in nothing but what an absent diagnostic does.",
+    },
   ],
 } as const satisfies Module

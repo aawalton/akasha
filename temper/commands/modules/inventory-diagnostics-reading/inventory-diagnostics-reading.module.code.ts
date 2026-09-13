@@ -9,12 +9,11 @@ const VARIABLES_NAME = "TemperInventory_SavedVariables"
 
 const ACCOUNT_MARK = "@"
 
-export async function readInventoryDiagnostic<Wide extends z.ZodTypeAny, Found>(
+export async function pickInventoryDiagnostic<Wide extends z.ZodTypeAny, Found>(
   inventoryPath: string,
   wide: Wide,
-  pick: (accountWide: z.infer<Wide>) => Found | undefined,
-  missing: string
-): Promise<Found> {
+  pick: (accountWide: z.infer<Wide>) => Found | undefined
+): Promise<Found | undefined> {
   const file = Bun.file(inventoryPath)
   if (!(await file.exists())) {
     throw new DataError(`${FILE_NAME}: file not found at ${inventoryPath}`)
@@ -50,6 +49,18 @@ export async function readInventoryDiagnostic<Wide extends z.ZodTypeAny, Found>(
     const found = pick(accountWide)
     if (found !== undefined) return found
   }
+
+  return undefined
+}
+
+export async function readInventoryDiagnostic<Wide extends z.ZodTypeAny, Found>(
+  inventoryPath: string,
+  wide: Wide,
+  pick: (accountWide: z.infer<Wide>) => Found | undefined,
+  missing: string
+): Promise<Found> {
+  const found = await pickInventoryDiagnostic(inventoryPath, wide, pick)
+  if (found !== undefined) return found
 
   throw new DataError(
     `${FILE_NAME} at ${inventoryPath}: ${missing} under any ${ACCOUNT_MARK}<account>/$AccountWide`

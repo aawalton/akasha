@@ -1,6 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { join } from "node:path"
-import { readInventoryDiagnostic } from "akasha/temper/commands/modules/inventory-diagnostics-reading/inventory-diagnostics-reading.module.code.ts"
+import {
+  pickInventoryDiagnostic,
+  readInventoryDiagnostic,
+} from "akasha/temper/commands/modules/inventory-diagnostics-reading/inventory-diagnostics-reading.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { z } from "zod"
 
@@ -71,6 +74,19 @@ test("a refusal says what was looked for and what would make it exist", async ()
   await expect(
     readInventoryDiagnostic(path, WIDE, pick, "no lastThing (have you run the keybind?)")
   ).rejects.toThrow(/no lastThing \(have you run the keybind\?\) under any @<account>/)
+})
+
+test("a diagnostic no account carries is picked as nothing rather than refused", async () => {
+  const path = await fileHolding(
+    savedVariables(`    ["@bare"] =\n    {\n      ["$AccountWide"] = { },\n    },`)
+  )
+  expect(await pickInventoryDiagnostic(path, WIDE, pick)).toBeUndefined()
+})
+
+test("a picked diagnostic is the one an account carries", async () => {
+  expect(await pickInventoryDiagnostic(await fileHolding(CARRYING), WIDE, pick)).toEqual({
+    mark: 7,
+  })
 })
 
 test("a file with no account under Default is refused", async () => {
