@@ -1,4 +1,4 @@
-import { shouldWriteTerminalStoppedStatus } from "akasha/agents/seats/supervisors/modules/lifecycle-death-write/supervisor-lifecycle-death-write.module.code.ts"
+import { shouldWriteTerminalStoppedStatus } from "akasha/agents/seats/supervisors/modules/supervisor-lifecycle-death-write/supervisor-lifecycle-death-write.module.code.ts"
 import { teardownProxyVersionSubscription } from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 import { attemptInPlaceReExec } from "akasha/seat-system/self-healing/modules/supervisor-reexec/supervisor-reexec.module.code.ts"
 import { resolveReExecArgv } from "akasha/seat-system/self-healing/modules/supervisor-self-heal/supervisor-self-heal.module.code.ts"
