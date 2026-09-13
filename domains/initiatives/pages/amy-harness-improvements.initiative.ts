@@ -8,10 +8,6 @@ export const amyHarnessImprovements = {
   persona: "amy",
   intents: [
     {
-      statement:
-        "Alan's phone offers an action that takes a picture, which his Action Button runs.",
-    },
-    {
       statement: "A picture taken by that action reaches Alan's handler.",
     },
     {
