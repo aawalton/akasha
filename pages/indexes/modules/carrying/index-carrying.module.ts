@@ -7,6 +7,7 @@ export const indexCarrying = {
   definition: "the index files a change carries among its own file changes",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
