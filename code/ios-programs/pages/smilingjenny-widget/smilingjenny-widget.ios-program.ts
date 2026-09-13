@@ -11,6 +11,7 @@ export const smilingjennyWidget = {
     "ios-component/alanwalton-stoplight-ring",
     "ios-component/categorize-ring",
     "ios-component/cost-ring",
+    "ios-component/freshness-widget",
     "ios-component/ring",
     "ios-component/safety-ring",
     "ios-component/smilingjenny-categorize-view",
