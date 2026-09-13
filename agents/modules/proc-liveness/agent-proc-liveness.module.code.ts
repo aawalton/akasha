@@ -50,16 +50,8 @@ function agentIdsWhere(
   return live
 }
 
-export function liveAgentIdsFromProc(entries: readonly ProcLivenessEntry[]): Set<string> {
-  return agentIdsWhere(entries, isAgentProcessCmdline)
-}
-
 export function liveClaudeChildIdsFromProc(entries: readonly ProcLivenessEntry[]): Set<string> {
   return agentIdsWhere(entries, isClaudeChildCmdline)
-}
-
-export function liveSupervisorIdsFromProc(entries: readonly ProcLivenessEntry[]): Set<string> {
-  return agentIdsWhere(entries, isSupervisorCmdline)
 }
 
 export function backgroundTaskCmdlinesByAgent(
@@ -78,12 +70,6 @@ export function backgroundTaskCmdlinesByAgent(
     else prev.push(cmdline)
   }
   return out
-}
-
-export function agentsWithInFlightBackgroundTask(
-  entries: readonly ProcLivenessEntry[]
-): Set<string> {
-  return new Set(backgroundTaskCmdlinesByAgent(entries).keys())
 }
 
 export function liveAgentPidsFromProc(
