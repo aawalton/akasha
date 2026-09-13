@@ -16,7 +16,7 @@ import {
   TARGET_QUANTITY_ARB,
   TIER_DESTINATION_ARB,
 } from "akasha/temper/items-rules-routing/modules/inventory-management-plan-chain-property-fixtures/inventory-management-plan-chain-property-fixtures.module.code.ts"
-import { sumPlanStackCount } from "akasha/temper/items-rules-routing/modules/inventory-management-plan-property-fixtures/inventory-management-plan-property-fixtures.module.code.ts"
+import { sumPlanStackCount } from "akasha/temper/items-rules-routing/test-fixtures/inventory-management-plan-property-fixtures/inventory-management-plan-property-fixtures.test-fixture.code.ts"
 import fc from "fast-check"
 
 function planned(rules: readonly CategoryRule[], built: ReturnType<typeof buildChainScenario>) {

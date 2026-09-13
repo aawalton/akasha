@@ -10,7 +10,7 @@ import {
   ordered,
   STACK_COUNT_ARB,
   sumPlanStackCount,
-} from "akasha/temper/items-rules-routing/modules/inventory-management-plan-property-fixtures/inventory-management-plan-property-fixtures.module.code.ts"
+} from "akasha/temper/items-rules-routing/test-fixtures/inventory-management-plan-property-fixtures/inventory-management-plan-property-fixtures.test-fixture.code.ts"
 import fc from "fast-check"
 
 describe("An item dropped for want of room is recorded against the rule sending the item.", () => {

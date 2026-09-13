@@ -14,7 +14,7 @@ import {
   STOCK_STACK_COUNT_ARB,
   STOCK_TARGET_ARB,
   sumPlanStackCount,
-} from "akasha/temper/items-rules-routing/modules/inventory-management-plan-property-fixtures/inventory-management-plan-property-fixtures.module.code.ts"
+} from "akasha/temper/items-rules-routing/test-fixtures/inventory-management-plan-property-fixtures/inventory-management-plan-property-fixtures.test-fixture.code.ts"
 import fc from "fast-check"
 
 function charactersFor(priorityNumbers: readonly number[]): readonly string[] {

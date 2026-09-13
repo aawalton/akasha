@@ -14,11 +14,12 @@ export const temperItemsRulesRouting = {
     "module/inventory-management-plan-chain-property-fixtures",
     "module/inventory-management-plan-collect",
     "module/inventory-management-plan-grouping",
-    "module/inventory-management-plan-property-fixtures",
+
     "module/inventory-management-plan-simulation",
     "module/inventory-management-plan-test-utils",
     "module/inventory-management-plan-use-destinations",
     "module/inventory-plan-checklist",
+    "test-fixture/inventory-management-plan-property-fixtures",
   ],
   invariants: [
     {

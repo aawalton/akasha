@@ -1,8 +1,8 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { TestFixture } from "akasha/testing-system/test-fixture/test-fixture.page-type.types.ts"
 
 export const inventoryManagementPlanPropertyFixtures = {
   id: "01a06289-2676-74b4-91ec-0643ccf4bba1",
-  type: "module",
+  type: "test-fixture",
   slug: "inventory-management-plan-property-fixtures",
   definition: "the generated holdings and rules the plan's property tests are built from",
   code: "ts",
@@ -16,4 +16,4 @@ export const inventoryManagementPlanPropertyFixtures = {
       statement: "A capacity scenario fills the bank to a stated number of free slots.",
     },
   ],
-} as const satisfies Module
+} as const satisfies TestFixture
