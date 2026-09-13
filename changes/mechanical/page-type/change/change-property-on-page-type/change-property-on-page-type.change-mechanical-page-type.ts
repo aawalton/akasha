@@ -10,6 +10,7 @@ export const changePropertyOnPageType = {
   definition:
     "a page type's declaration of one property stated anew, with its pages carried to match",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
