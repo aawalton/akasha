@@ -5,7 +5,7 @@ export const lindseyStirling2InnerGoldFeatRoyalTheSerpent = {
   type: "release",
   slug: "lindsey-stirling-2-inner-gold-feat-royal-the-serpent",
   title: "Inner Gold [Feat. Royal & the Serpent]",
-  partOfCollections: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling"],
   position: 0,
   ownLength: 7.621317,
   ownProgress: 7.621317,

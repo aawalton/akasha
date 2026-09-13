@@ -5,7 +5,7 @@ export const lindseyStirling2LoveSJustAFeelingFeatRooty = {
   type: "release",
   slug: "lindsey-stirling-2-love-s-just-a-feeling-feat-rooty",
   title: "Love's Just a Feeling (feat. Rooty)",
-  partOfCollections: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling"],
   position: 0,
   ownLength: 6.8419,
   ownProgress: 6.8419,

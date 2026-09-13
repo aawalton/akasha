@@ -5,7 +5,7 @@ export const lindseyStirling2ByNoMeans = {
   type: "release",
   slug: "lindsey-stirling-2-by-no-means",
   title: "By No Means",
-  partOfCollections: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling"],
   position: 0,
   ownLength: 3.530167,
   ownProgress: 3.530167,

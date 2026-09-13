@@ -5,7 +5,7 @@ export const lindseyStirling2LoseYouNowAcoustic = {
   type: "release",
   slug: "lindsey-stirling-2-lose-you-now-acoustic",
   title: "Lose You Now (Acoustic)",
-  partOfCollections: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling"],
   position: 0,
   ownLength: 3.151433,
   ownProgress: 3.151433,

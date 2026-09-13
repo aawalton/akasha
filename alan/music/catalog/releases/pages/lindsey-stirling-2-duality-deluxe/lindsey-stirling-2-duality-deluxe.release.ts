@@ -5,7 +5,7 @@ export const lindseyStirling2DualityDeluxe = {
   type: "release",
   slug: "lindsey-stirling-2-duality-deluxe",
   title: "Duality (Deluxe)",
-  partOfCollections: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling"],
   position: 0,
   ownLength: 62.316767,
   ownProgress: 62.316767,

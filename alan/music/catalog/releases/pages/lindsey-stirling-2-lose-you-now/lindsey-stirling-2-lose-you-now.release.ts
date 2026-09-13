@@ -5,7 +5,7 @@ export const lindseyStirling2LoseYouNow = {
   type: "release",
   slug: "lindsey-stirling-2-lose-you-now",
   title: "Lose You Now",
-  partOfCollections: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling"],
   position: 0,
   ownLength: 3.223233,
   ownProgress: 3.223233,

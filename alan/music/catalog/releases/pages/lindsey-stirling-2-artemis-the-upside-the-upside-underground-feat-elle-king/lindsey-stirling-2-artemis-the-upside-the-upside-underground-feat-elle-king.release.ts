@@ -5,7 +5,7 @@ export const lindseyStirling2ArtemisTheUpsideTheUpsideUndergroundFeatElleKing = 
   type: "release",
   slug: "lindsey-stirling-2-artemis-the-upside-the-upside-underground-feat-elle-king",
   title: "Artemis / The Upside / The Upside / Underground (feat. Elle King)",
-  partOfCollections: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling"],
   position: 0,
   ownLength: 15.890467,
   ownProgress: 15.890467,

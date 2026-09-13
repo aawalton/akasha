@@ -5,7 +5,7 @@ export const lindseyStirling2PhantomOfTheOperaMedley = {
   type: "release",
   slug: "lindsey-stirling-2-phantom-of-the-opera-medley",
   title: "Phantom of the Opera Medley",
-  partOfCollections: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling"],
   position: 0,
   ownLength: 6.46505,
   ownProgress: 6.46505,

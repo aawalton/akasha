@@ -5,7 +5,7 @@ export const lindseyStirling2HeavyWeight = {
   type: "release",
   slug: "lindsey-stirling-2-heavy-weight",
   title: "Heavy Weight",
-  partOfCollections: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling"],
   position: 0,
   ownLength: 4.370783,
   ownProgress: 4.370783,

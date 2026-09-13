@@ -5,7 +5,7 @@ export const lindseyStirling2EvilTwin = {
   type: "release",
   slug: "lindsey-stirling-2-evil-twin",
   title: "Evil Twin",
-  partOfCollections: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling"],
   position: 0,
   ownLength: 11.416867,
   ownProgress: 11.416867,

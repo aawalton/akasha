@@ -5,7 +5,7 @@ export const lindseyStirling2EyeOfTheUntoldHer = {
   type: "release",
   slug: "lindsey-stirling-2-eye-of-the-untold-her",
   title: "Eye Of The Untold Her",
-  partOfCollections: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling"],
   position: 0,
   ownLength: 3.67955,
   ownProgress: 3.67955,

@@ -5,7 +5,7 @@ export const lindseyStirling2BeyondTheVeil = {
   type: "release",
   slug: "lindsey-stirling-2-beyond-the-veil",
   title: "Beyond the Veil",
-  partOfCollections: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling"],
   position: 0,
   ownLength: 4.25125,
   ownProgress: 4.25125,

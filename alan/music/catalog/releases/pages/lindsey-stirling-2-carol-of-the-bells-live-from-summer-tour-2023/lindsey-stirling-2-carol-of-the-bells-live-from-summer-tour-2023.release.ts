@@ -5,7 +5,7 @@ export const lindseyStirling2CarolOfTheBellsLiveFromSummerTour2023 = {
   type: "release",
   slug: "lindsey-stirling-2-carol-of-the-bells-live-from-summer-tour-2023",
   title: "Carol Of The Bells (Live from Summer Tour 2023)",
-  partOfCollections: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling"],
   position: 0,
   ownLength: 8.611217,
   ownProgress: 8.611217,
