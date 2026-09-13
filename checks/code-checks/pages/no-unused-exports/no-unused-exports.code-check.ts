@@ -116,6 +116,11 @@ export const noUnusedExports = {
       statement:
         "The name made from a command's slug is reached by the runner calling that command.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The `work` a computed property's code exports is reached by the engine working it.",
+    },
   ],
   check: { maxCpuSeconds: 30 },
   audit: { maxCpuSeconds: 120 },

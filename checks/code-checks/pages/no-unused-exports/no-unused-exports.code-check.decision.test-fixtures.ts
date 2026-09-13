@@ -37,6 +37,10 @@ export const COMMAND_AT = "akasha/held-thing.command.code.ts"
 export const COMMAND_TEXT =
   "export function heldThing(): number {\n  return 1\n}\n\nexport const spare = 2\n"
 
+export const WORK_AT = "akasha/held.computed-property.code.ts"
+
+export const WORK_TEXT = "export const work = (): number => 1\n\nexport const spare = 2\n"
+
 export const LUA_AT = "akasha/held.lualib.code.ts"
 
 const LUA_PAGE_AT = "akasha/held.lualib.ts"
@@ -61,6 +65,7 @@ export function rooted(): string {
   typed(root, "domain", "page")
   typed(root, "lualib", "domain")
   typed(root, "command", "domain")
+  typed(root, "computed-property", "domain")
   noImportersFiled(root)
   return root
 }

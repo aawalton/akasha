@@ -28,6 +28,8 @@ import {
   rooted,
   SPELLED,
   scratch,
+  WORK_AT,
+  WORK_TEXT,
 } from "akasha/checks/code-checks/pages/no-unused-exports/no-unused-exports.code-check.decision.test-fixtures.ts"
 import { judgingBy, landing } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
@@ -127,6 +129,15 @@ test("the export a page file is named for is spared and another beside it is jud
 
 test("the value a page's uncommitted body holds is spared and another beside it is judged", () => {
   const said = judging(landing(rooted(), { [BESIDE_AT]: bytesOf(BESIDE_TEXT) })).map(
+    (one) => one.reason
+  )
+
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`spare`")
+})
+
+test("the `work` a computed property's code exports is spared", () => {
+  const said = judging(landing(rooted(), { [WORK_AT]: bytesOf(WORK_TEXT) })).map(
     (one) => one.reason
   )
 

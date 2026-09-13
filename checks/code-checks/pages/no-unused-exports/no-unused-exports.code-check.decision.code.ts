@@ -45,6 +45,10 @@ const LUA_EXPORT = "luaExport"
 
 const COMMAND = "command"
 
+const COMPUTED = "computed-property"
+
+const WORK = "work"
+
 function toldApart(name: string): boolean {
   return name !== ANYTHING && name !== DEFAULT
 }
@@ -131,9 +135,13 @@ function reasonFor(name: string, named: boolean): string {
   return `exports \`${name}\`, which nothing names — ${REACHED}`
 }
 
+function besideCode(said: Parted, pageType: string): boolean {
+  return said.pageType === pageType && said.sections.length > 0
+}
+
 export function routeCode(path: string): boolean {
   const said = partedIn(path)
-  return said !== null && said.pageType === ROUTE && said.sections.length > 0
+  return said !== null && besideCode(said, ROUTE)
 }
 
 type Bodied = (at: string) => string | null
@@ -146,10 +154,6 @@ function luaNamed(path: string, said: Parted, bodyOf: Bodied): string | null {
   return held === null ? null : textAt(held, LUA_EXPORT)
 }
 
-function commandCode(said: Parted): boolean {
-  return said.pageType === COMMAND && said.sections.length > 0
-}
-
 export function sparedIn(
   path: string,
   pageTypes: ReadonlySet<string>,
@@ -160,7 +164,8 @@ export function sparedIn(
   if (uncommittedNamed(path)) return nameFor(`${pageOf(said)}.${HELD}`)
   const lua = luaNamed(path, said, bodyOf)
   if (lua !== null) return lua
-  if (!commandCode(said) && !pageNamed(path, pageTypes)) return null
+  if (besideCode(said, COMPUTED)) return WORK
+  if (!besideCode(said, COMMAND) && !pageNamed(path, pageTypes)) return null
   return exportedAs(said.slug)
 }
 
