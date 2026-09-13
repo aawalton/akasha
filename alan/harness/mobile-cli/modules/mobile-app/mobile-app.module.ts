@@ -50,6 +50,11 @@ export const mobileApp = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A page naming two ring credential scripts is refused rather than answered by the first.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The page carrying a script's slug is asked of the index rather than swept for.",
     },
     {

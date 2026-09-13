@@ -5,6 +5,7 @@ import {
   macWwwStagingDir,
   mobileApps,
   resolveApp,
+  ringCredentialPartIn,
   splitRepoPath,
   stagedWwwRepoPath,
 } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
@@ -136,5 +137,26 @@ describe("splitRepoPath", () => {
 
   test("only the first colon splits, so the path may carry others", () => {
     expect(splitRepoPath("akasha:a/b:c")).toEqual({ repo: "akasha", path: "a/b:c" })
+  })
+})
+
+describe("ringCredentialPartIn", () => {
+  const AT = "one.ios-app.ts"
+  const RING = "shell-script/one-ring-credential"
+  const OTHER = "shell-script/one-widget-target"
+
+  test("the ring credential a page names is answered whatever place it is written in", () => {
+    expect(ringCredentialPartIn([RING, OTHER], AT)).toBe(RING)
+    expect(ringCredentialPartIn([OTHER, RING], AT)).toBe(RING)
+  })
+
+  test("a page naming two ring credential scripts is refused rather than answered by the first", () => {
+    const two = [RING, "shell-script/two-ring-credential"]
+    expect(() => ringCredentialPartIn(two, AT)).toThrow(InputError)
+    expect(() => ringCredentialPartIn([...two].reverse(), AT)).toThrow(InputError)
+  })
+
+  test("a page naming no ring credential script is answered as none", () => {
+    expect(ringCredentialPartIn([OTHER], AT)).toBeNull()
   })
 })

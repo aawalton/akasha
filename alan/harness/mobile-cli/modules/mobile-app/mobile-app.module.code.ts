@@ -172,15 +172,26 @@ const SHELL_SCRIPT_PART_PREFIX = `${SHELL_SCRIPT_PAGE_TYPE_SLUG}/`
 
 const RING_CREDENTIAL_SCRIPT_SUFFIX = "-ring-credential"
 
+export function ringCredentialPartIn(parts: readonly string[], at: string): string | null {
+  const named = parts.filter(
+    (one) => one.startsWith(SHELL_SCRIPT_PART_PREFIX) && one.endsWith(RING_CREDENTIAL_SCRIPT_SUFFIX)
+  )
+  const [first, second] = named
+  if (second !== undefined) {
+    throw new InputError(
+      `${at} names \`${first}\` and \`${second}\` among its parts, and an app bakes one`
+    )
+  }
+  return first ?? null
+}
+
 export function ringCredentialScriptFor(app: MobileApp): string | null {
   const value = valueAt(app.pagePath, akashaRoot())
   if (value === null) {
     throw new InputError(`${app.pagePath} declares no page value`)
   }
-  const named = (textsAt(value, "parts") ?? []).find(
-    (one) => one.startsWith(SHELL_SCRIPT_PART_PREFIX) && one.endsWith(RING_CREDENTIAL_SCRIPT_SUFFIX)
-  )
-  if (named === undefined) return null
+  const named = ringCredentialPartIn(textsAt(value, "parts") ?? [], app.pagePath)
+  if (named === null) return null
   return scriptNamed(named.slice(SHELL_SCRIPT_PART_PREFIX.length), app.pagePath, "among its parts")
 }
 
