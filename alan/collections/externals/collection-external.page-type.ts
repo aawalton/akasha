@@ -16,7 +16,6 @@ export const collectionExternal = {
   ],
   extends: ["page-type/collection"],
   properties: [
-    { pageProperty: "url-property/external-link", required: false, many: false },
     {
       pageProperty: "record-property/external-identity",
       required: false,
