@@ -24,5 +24,7 @@ export const olwenPagesSystemDisplay = {
     { statement: "No registry keyed by a rendered type picks the component drawing a badge." },
     { statement: "No page type states a display for a screen to resolve to a component." },
     { statement: "No page property names the type a screen draws that property's value as." },
+    { statement: "A page type states the component drawing a page of that page type as a chip." },
+    { statement: "A page type states the component drawing a page of that page type as a row." },
   ],
 } as const satisfies Initiative
