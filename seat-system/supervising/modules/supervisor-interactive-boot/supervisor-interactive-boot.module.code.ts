@@ -1,5 +1,6 @@
 import { computeModelGatewayTreeVersion } from "akasha/agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
 import { toolRestrictions } from "akasha/agents/modules/tool-access/tool-access.module.code.ts"
+import { claimSeatSupervision } from "akasha/agents/seats/supervisors/modules/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
 import { installProxyVersionSubsystem } from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 import { buildCredentialSubsystem } from "akasha/seat-system/seat-credential/modules/supervisor-credentials/supervisor-credentials.module.code.ts"
 import {
@@ -8,7 +9,6 @@ import {
   SUPERVISOR_HANDOFF_ENV_KEYS,
 } from "akasha/seat-system/self-healing/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
 import { setProxyOwnerAgentIdForSelfHeal } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import { claimSeatSupervision } from "akasha/seat-system/supervising/modules/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
 import {
   reconcileAgentBootFiles,
   resolveClaudeHandoff,

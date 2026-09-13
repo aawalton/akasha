@@ -1,6 +1,5 @@
 import { buildInteractiveCLIArgs } from "akasha/agents/claude-code/modules/claude-launch-args/claude-launch-args.module.code.ts"
 import { seatNameForAgent } from "akasha/agents/seats/modules/presence-read/seat-presence-read.module.code.ts"
-import { isPendingReExec } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import {
   resolveAgentEffortLevel,
   resolveAutoCompactWindow,
@@ -10,7 +9,8 @@ import {
   resolveSubagentSpawnDepth,
   resolveToolTimeout,
   resolveWorkerModel,
-} from "akasha/seat-system/supervising/modules/supervisor-account-config/supervisor-account-config.module.code.ts"
+} from "akasha/agents/seats/supervisors/modules/supervisor-account-config/supervisor-account-config.module.code.ts"
+import { isPendingReExec } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import type { spawnClaudeChild } from "akasha/seat-system/supervising/modules/supervisor-adopt/supervisor-adopt.module.code.ts"
 import { processCleanup } from "akasha/seat-system/supervising/modules/supervisor-agent-cleanup/supervisor-agent-cleanup.module.code.ts"
 import type { SeatResume } from "akasha/seat-system/supervising/modules/supervisor-args/supervisor-args.module.code.ts"

@@ -10,17 +10,17 @@ import {
   computeMcpConfigContent,
   type McpServerConfig,
 } from "akasha/agents/claude-code/modules/claude-launch-args/claude-launch-args.module.code.ts"
+import { planDisableReconcile } from "akasha/agents/seats/supervisors/modules/mcp-disable-reconcile/mcp-disable-reconcile.module.code.ts"
+import {
+  getMcpServerRegistry,
+  playwrightStorageStatePath,
+} from "akasha/agents/seats/supervisors/modules/mcp-registry/mcp-registry.module.code.ts"
 import {
   type AuthSession,
   applyRefreshedSessionToStorageState,
   classifyPlaywrightStorageState,
   RefreshedTokensSchema,
 } from "akasha/code/browser/test-harness/modules/storage-state-reading/storage-state-reading.module.code.ts"
-import { planDisableReconcile } from "akasha/seat-system/supervising/modules/mcp-disable-reconcile/mcp-disable-reconcile.module.code.ts"
-import {
-  getMcpServerRegistry,
-  playwrightStorageStatePath,
-} from "akasha/seat-system/supervising/modules/mcp-registry/mcp-registry.module.code.ts"
 import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 const LOG = "[supervisor-mcp]"

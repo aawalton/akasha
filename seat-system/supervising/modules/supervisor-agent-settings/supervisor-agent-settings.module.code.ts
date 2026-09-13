@@ -2,6 +2,11 @@ import { existsSync, readFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { basename, join, relative } from "node:path"
 import { fileURLToPath } from "node:url"
+import {
+  type HookRegistration,
+  hooksFrom,
+  hooksMerged,
+} from "akasha/agents/seats/supervisors/modules/agent-hook-registration/agent-hook-registration.module.code.ts"
 import { harnessSettingsAt } from "akasha/agents/settings/modules/harness-settings-reading/harness-settings-reading.module.code.ts"
 import {
   askedAt,
@@ -10,11 +15,6 @@ import {
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { ownRepoRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import {
-  type HookRegistration,
-  hooksFrom,
-  hooksMerged,
-} from "akasha/seat-system/supervising/modules/agent-hook-registration/agent-hook-registration.module.code.ts"
 
 const AGENTS = "agents"
 
