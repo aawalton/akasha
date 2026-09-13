@@ -3,7 +3,6 @@ import {
   runChange,
   sortPropertyValuesOnEveryPage,
 } from "akasha/changes/agent/page-type/sort-property-values-on-every-page/sort-property-values-on-every-page.change-agent.code.ts"
-import { runChange as sorting } from "akasha/changes/mechanical/page-type/move/sort-property-values-on-every-page/sort-property-values-on-every-page.change-mechanical-page-type.code.ts"
 import {
   BODIES,
   DECLARED,
@@ -18,26 +17,18 @@ import {
   VALUES,
   valued,
 } from "akasha/changes/mechanical/page-type/move/sort-property-values-on-every-page/sort-property-values-on-every-page.change-mechanical-page-type.test-fixtures.ts"
-import { pathsIn, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
-import {
-  bodiesIn,
-  type Reaching,
-  type World,
-} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { pathsIn } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import { bodiesIn, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import type { Carried as Declared } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
-
-const REACHES: Reaching = (world, at, given) => {
-  if (at === SORTING) return Promise.resolve(sorting(world, given as Parameters<typeof sorting>[1]))
-  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
-}
 
 function worldFor(
   bodies: Files,
   values: ReadonlyMap<string, Value>,
   carried: readonly Declared[] | null = [DECLARED]
 ): World {
-  return sectionsWorld(bodies, values, REACHES, carried)
+  return sectionsWorld(bodies, values, running, carried)
 }
 
 test("every page holding the key out of order has those values put in order", async () => {

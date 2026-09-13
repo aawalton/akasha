@@ -3,20 +3,11 @@ import {
   addPropertyToEveryPage,
   runChange,
 } from "akasha/changes/agent/page-type/add-property-to-every-page/add-property-to-every-page.change-agent.code.ts"
-import { runChange as addKey } from "akasha/changes/mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.code.ts"
-import {
-  bodiesIn,
-  type Reaching,
-  type World,
-} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import {
-  relaying,
-  worldOf,
-} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { bodiesIn, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { worldOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
-
-const RUNS: Reaching = relaying("change-mechanical-file-content/add-page-property", addKey)
 
 const ONE_AT = "alan/books/one.book-section.ts"
 
@@ -62,7 +53,7 @@ function pagesIn(
       propertiesIfNamed: () => carried,
       valuesByPath: () => valued,
     } as never,
-    reaching: RUNS,
+    reaching: running,
   }
 }
 

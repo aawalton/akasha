@@ -3,19 +3,10 @@ import {
   copyPropertyOnEveryPage,
   runChange,
 } from "akasha/changes/agent/page-type/copy-property-on-every-page/copy-property-on-every-page.change-agent.code.ts"
-import { runChange as addKey } from "akasha/changes/mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.code.ts"
-import {
-  bodiesIn,
-  type Reaching,
-  type World,
-} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import {
-  relaying,
-  worldOfType,
-} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { bodiesIn, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { worldOfType } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
-
-const RUNS: Reaching = relaying("change-mechanical-file-content/add-page-property", addKey)
 
 const ONE_AT = "thrumming/chapters/pages/one.story-chapter-read.ts"
 
@@ -87,7 +78,7 @@ function pagesIn(
   carried: readonly Carried[] | null,
   values: Values = VALUES
 ): World {
-  return worldOfType(COPYING.pageType, bodies, carried, values, RUNS)
+  return worldOfType(COPYING.pageType, bodies, carried, values, running)
 }
 
 const COPYING = {
