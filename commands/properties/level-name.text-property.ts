@@ -22,6 +22,11 @@ export const levelName = {
       statement:
         "A command named `list` answers many, and a command named `show` answers one the caller names.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A command is named `list` where answering many is its act and named for its own act elsewhere.",
+    },
   ],
   types: "ts",
 } as const satisfies TextProperty
