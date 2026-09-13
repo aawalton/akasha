@@ -5,6 +5,6 @@ export const unmapped = {
   type: "argument",
   slug: "unmapped",
   said: "--unmapped",
-  takes: "name the items no rule reaches rather than the plan the addon shows",
+  takes: "name the items no rule reaches and the items left undecided rather than the plan",
   value: "none",
 } as const satisfies Argument
