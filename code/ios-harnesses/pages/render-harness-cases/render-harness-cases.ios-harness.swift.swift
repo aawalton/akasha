@@ -18,6 +18,18 @@ struct RenderCase {
 func cases(now: Date) -> [RenderCase] {
     var all: [RenderCase] = categorizeCases()
 
+    // BOTH BUNDLES SHIP THE FRESHNESS TILE, SO ITS CASES ARE OUTSIDE EITHER APP'S GATE.
+    all.append(
+        contentsOf: [
+            RenderCase(
+                name: "freshness-small", widget: "FreshnessWidget", familySource: "systemSmall",
+                body: #"{"stalestSecondsAgo":2730,"tiles":8,"reloads":46,"fewest":4,"most":9}"#),
+            RenderCase(
+                name: "freshness-small-never-read", widget: "FreshnessWidget",
+                familySource: "systemSmall",
+                body: #"{"stalestSecondsAgo":null,"tiles":0,"reloads":0,"fewest":0,"most":0}"#),
+        ])
+
     #if !HARNESS_ALANWALTON
     all.append(contentsOf: jennySafetyCases())
     #endif

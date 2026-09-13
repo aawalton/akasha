@@ -22,5 +22,6 @@ struct SmilingJennyWidgets: WidgetBundle {
         SurplusWidget()
         CostWidget()
         UpkeepStoplightsWidget()
+        FreshnessWidget()
     }
 }

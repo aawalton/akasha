@@ -41,5 +41,6 @@ struct AlanWaltonWidgets: WidgetBundle {
         SafetyLevelWidget()
         SurplusWidget()
         CostWidget()
+        FreshnessWidget()
     }
 }

@@ -91,6 +91,13 @@ func makeView(
     case "CategorizeWidget":
         let state = try feedState(Categorization.self, body: body, unreadable: unreadable, refused: refused)
         return AnyView(CategorizeHomeView(entry: FeedEntry(date: date, state: state)))
+    // THE FRESHNESS TILE READS THE PHONE'S OWN STORE, SO A CASE HANDS IT ONE IN A BODY.
+    //
+    // Nothing it draws comes off a feed, so it has no refused and no never-loaded state to
+    // render and the body is read straight rather than through `feedState`.
+    case "FreshnessWidget":
+        let readout = try JSONDecoder().decode(FreshnessReadout.self, from: body)
+        return AnyView(FreshnessHomeView(entry: FreshnessReading.made(readout, at: date)))
     default:
         throw Harness.unreachable("no renderer is registered for \(widget)")
     }
