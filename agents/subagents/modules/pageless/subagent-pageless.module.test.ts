@@ -12,7 +12,7 @@ const ANOTHER = "a1a6dc5c18c0a72c8"
 
 function paged(own: string): SubagentPage {
   return {
-    path: `seat-system/subagents/pages/akasha-${own}/akasha-${own}.subagent.ts`,
+    path: `agents/subagents/pages/akasha-${own}/akasha-${own}.subagent.ts`,
     slug: `akasha-${own}`,
     seatName: "akasha",
     seatId: "01a05844-6e60-7000-b54c-4b14559df70b",
