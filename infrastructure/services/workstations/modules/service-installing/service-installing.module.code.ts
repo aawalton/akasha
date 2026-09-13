@@ -3,7 +3,6 @@ import {
   lstatSync,
   mkdirSync,
   readdirSync,
-  readFileSync,
   realpathSync,
   rmSync,
   symlinkSync,
@@ -100,21 +99,6 @@ export function strandedAmong(
   const accounted = new Set(plan.write.keys())
   const installed = new Set(owned)
   return staged.filter((one) => !accounted.has(one) && !installed.has(one)).sort()
-}
-
-export function ownedByService(owned: readonly string[], slug: string): readonly string[] {
-  const mine = new Set([`${slug}${SERVICE_SUFFIX}`, `${slug}${TIMER_SUFFIX}`])
-  return owned.filter((one) => mine.has(one))
-}
-
-export function unitChanged(home: string, name: string, text: string): boolean {
-  const at = join(stagingDir(home), name)
-  if (!existsSync(at)) return true
-  try {
-    return readFileSync(at, "utf8") !== text
-  } catch {
-    return true
-  }
 }
 
 export function textFor(given: Service): ReadonlyMap<string, string> {

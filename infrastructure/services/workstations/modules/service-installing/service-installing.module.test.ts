@@ -6,14 +6,12 @@ import {
   linkUnit,
   ourInstalled,
   ourStaged,
-  ownedByService,
   planFor,
   type Ran,
   stagingDir,
   strandedAmong,
   systemdDir,
   textFor,
-  unitChanged,
   unlinkUnit,
   writeUnit,
 } from "akasha/infrastructure/services/workstations/modules/service-installing/service-installing.module.code.ts"
@@ -72,19 +70,6 @@ test("a unit there that no service accounts for is removed", () => {
 
 test("a unit a service does account for is not removed", () => {
   expect(planFor([pageOf({})], ["held-service.service"]).remove).toEqual([])
-})
-
-test("what one service owns is its own two names and no others", () => {
-  const owned = ["a.service", "a.timer", "b.service", "held-service.service"]
-  expect(ownedByService(owned, "a")).toEqual(["a.service", "a.timer"])
-  expect(ownedByService(owned, "never")).toEqual([])
-})
-
-test("a unit that is not there has changed, and one written the same has not", () => {
-  expect(unitChanged(HOME, "x.service", "body")).toBe(true)
-  writeUnit(HOME, "x.service", "body")
-  expect(unitChanged(HOME, "x.service", "body")).toBe(false)
-  expect(unitChanged(HOME, "x.service", "other")).toBe(true)
 })
 
 test("a unit is written to the staging folder and reached by a link systemd reads", () => {
