@@ -6,4 +6,14 @@ export const inventoryRulesDispatchBankWithdrawals = {
   slug: "inventory-rules-dispatch-bank-withdrawals",
   definition: "withdrawing items from the bank by rule, for this character and for others",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "Every slot of one storage sweep shares the claims, as the panel's sweep does.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A second copy of a claimable item goes to a second character.",
+    },
+  ],
 } as const satisfies Module

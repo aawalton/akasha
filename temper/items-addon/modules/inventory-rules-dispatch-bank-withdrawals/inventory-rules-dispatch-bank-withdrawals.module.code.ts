@@ -31,6 +31,7 @@ import { slotKey } from "akasha/temper/items-addon/modules/inventory-slot-key/in
 import { getTemperCharactersData } from "akasha/temper/items-addon/modules/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
 import { isBackpackRequiredAction } from "akasha/temper/items-rules-core/modules/action-storage-capability/action-storage-capability.module.code.ts"
 import { planStockReconcile } from "akasha/temper/items-rules-core/modules/stock-reconcile-plan/stock-reconcile-plan.module.code.ts"
+import type { CharacterId } from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
 import { isConsolidateDest } from "akasha/temper/items-rules-routing-core/modules/inventory-consolidate-dest/inventory-consolidate-dest.module.code.ts"
 import { isObjectRecord } from "akasha/utils/narrow/modules/is-object-record/is-object-record.module.code.ts"
 
@@ -89,23 +90,25 @@ function collectBankWithdrawals(
     }
   }
 
+  const claims = new Map<CharacterId, Set<string>>()
+
   if (ctx.isBank) {
     const bankSize = GetBagSize(BAG_BANK)
     for (let slot = 0; slot < bankSize; slot++) {
-      evaluateRules(BAG_BANK, slot)
+      evaluateRules(BAG_BANK, slot, claims)
       collectBackpackRequired(BAG_BANK, slot)
     }
     if (IsESOPlusSubscriber()) {
       const subBankSize = GetBagSize(BAG_SUBSCRIBER_BANK)
       for (let slot = 0; slot < subBankSize; slot++) {
-        evaluateRules(BAG_SUBSCRIBER_BANK, slot)
+        evaluateRules(BAG_SUBSCRIBER_BANK, slot, claims)
         collectBackpackRequired(BAG_SUBSCRIBER_BANK, slot)
       }
     }
   } else if (ctx.isHouseStorage) {
     const storageSize = GetBagSize(ctx.bankingBag)
     for (let slot = 0; slot < storageSize; slot++) {
-      evaluateRules(ctx.bankingBag, slot)
+      evaluateRules(ctx.bankingBag, slot, claims)
       collectBackpackRequired(ctx.bankingBag, slot)
     }
   }
