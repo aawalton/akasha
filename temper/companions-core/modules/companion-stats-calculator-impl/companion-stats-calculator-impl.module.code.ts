@@ -30,7 +30,7 @@ import type { CompanionState } from "akasha/temper/companions-core/modules/compa
 import { DEFAULT_COMPANION_ROTATION_CONFIG } from "akasha/temper/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { companionBase } from "akasha/temper/companions-core/modules/companions-base-source/companions-base-source.module.code.ts"
 import { calculateRatingSurplus } from "akasha/temper/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
-import { topologicalSort } from "akasha/temper/formula-framework/topological-sort/topological-sort.module.code.ts"
+import { topologicalSort } from "akasha/temper/formula-framework/modules/topological-sort/topological-sort.module.code.ts"
 
 export function calculateCompanionStatsWithBaseline(
   build: CompanionState,

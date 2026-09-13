@@ -7,7 +7,7 @@ import { buildNodePath } from "akasha/design/interfaces/patterns/modules/path/pa
 import { useSetToggle } from "akasha/design/interfaces/patterns/use-set-toggle/use-set-toggle.module.code.ts"
 import { CardTitleBadges } from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
 import { formatGold } from "akasha/design/interfaces/primitives/modules/format-gold/format-gold.module.code.ts"
-import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
+import { Text } from "akasha/design/interfaces/primitives/modules/text-body/text-body.module.code.tsx"
 import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/characters-equipment-ui/modules/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
 import type {
   ActionGroup,

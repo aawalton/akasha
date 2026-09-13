@@ -6,7 +6,7 @@ import {
 import { wholeValue } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import { asInstant } from "akasha/utils/narrow/modules/as-instant/as-instant.module.code.ts"
-import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
+import { textAt } from "akasha/utils/narrow/modules/text-at/text-at.module.code.ts"
 
 const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
 

@@ -8,7 +8,7 @@ import { entriesAt } from "akasha/pages/modules/entries/page-entries.module.code
 import { ENTRY_CEILING } from "akasha/pages/modules/entry-ceiling/entry-ceiling.module.code.ts"
 import { queueAt } from "akasha/pages/modules/entry-queue/page-entry-queue.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
+import { textAt } from "akasha/utils/narrow/modules/text-at/text-at.module.code.ts"
 
 export const NOTIFICATION_FEED_PAGE_TYPE_SLUG = "notification-feed"
 

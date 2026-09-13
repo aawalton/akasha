@@ -11,7 +11,7 @@ import {
   type Sleeper,
   sleep,
 } from "akasha/pages/query/modules/store-reaching/store-reaching.module.code.ts"
-import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
+import { textAt } from "akasha/utils/narrow/modules/text-at/text-at.module.code.ts"
 
 export async function askComposed(
   query: ComposedQuery,

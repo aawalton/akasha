@@ -1,8 +1,8 @@
-import type { ResolvedTrack } from "akasha/alan/music/choosing/track-resolving/track-resolving.module.code.ts"
+import type { ResolvedTrack } from "akasha/alan/music/choosing/modules/track-resolving/track-resolving.module.code.ts"
 import {
   resolveDeviceId,
   resolveQueryToTrack,
-} from "akasha/alan/music/choosing/track-resolving/track-resolving.module.code.ts"
+} from "akasha/alan/music/choosing/modules/track-resolving/track-resolving.module.code.ts"
 import {
   addToQueue,
   startResumePlayback,

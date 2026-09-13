@@ -9,7 +9,7 @@ import {
 import {
   sleptUntilStopped,
   stopsOnSignal,
-} from "akasha/infrastructure/services/workstations/tick-sleeping/tick-sleeping.module.code.ts"
+} from "akasha/infrastructure/services/workstations/modules/tick-sleeping/tick-sleeping.module.code.ts"
 
 export async function runMemoryReaper(): Promise<void> {
   const ac = stopsOnSignal()

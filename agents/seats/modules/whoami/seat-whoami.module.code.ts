@@ -17,7 +17,7 @@ import {
   principalSeatIdOf,
 } from "akasha/agents/seats/modules/principal/seat-principal.module.code.ts"
 import { resolveRoots } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
+import { textAt } from "akasha/utils/narrow/modules/text-at/text-at.module.code.ts"
 
 export interface SeatWhoami {
   readonly id: string

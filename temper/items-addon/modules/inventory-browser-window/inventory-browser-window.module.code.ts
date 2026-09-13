@@ -1,4 +1,4 @@
-import { TEXT_PRIMARY } from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
+import { TEXT_PRIMARY } from "akasha/design/interfaces/tokens/modules/text-color/text-color.module.code.ts"
 import { createMovableWindow } from "akasha/temper/hud-window/modules/movable-window/movable-window.module.code.ts"
 import { quantityInView } from "akasha/temper/items-addon/modules/inventory-browser-locations/inventory-browser-locations.module.code.ts"
 import type {

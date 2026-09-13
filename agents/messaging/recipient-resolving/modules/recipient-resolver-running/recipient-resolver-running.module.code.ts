@@ -9,7 +9,7 @@ import { runRecipientResolverTick } from "akasha/agents/messaging/recipient-reso
 import {
   sleptUntilStopped,
   stopsOnSignal,
-} from "akasha/infrastructure/services/workstations/tick-sleeping/tick-sleeping.module.code.ts"
+} from "akasha/infrastructure/services/workstations/modules/tick-sleeping/tick-sleeping.module.code.ts"
 import {
   listPersonaSlugs,
   listPersonaWakeSources,

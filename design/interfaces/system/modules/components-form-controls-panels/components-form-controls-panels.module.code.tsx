@@ -10,11 +10,11 @@ import {
 } from "akasha/design/interfaces/primitives/modules/radio-group/radio-group.module.code.tsx"
 import { Slider } from "akasha/design/interfaces/primitives/modules/slider/slider.module.code.tsx"
 import { Switch } from "akasha/design/interfaces/primitives/modules/switch-control/switch-control.module.code.tsx"
-import { Toggle } from "akasha/design/interfaces/primitives/toggle/toggle.module.code.tsx"
+import { Toggle } from "akasha/design/interfaces/primitives/modules/toggle/toggle.module.code.tsx"
 import {
   ToggleGroup,
   ToggleGroupItem,
-} from "akasha/design/interfaces/primitives/toggle-group/toggle-group.module.code.tsx"
+} from "akasha/design/interfaces/primitives/modules/toggle-group/toggle-group.module.code.tsx"
 import { useState } from "react"
 
 export function ComponentsFormControlsPanels() {

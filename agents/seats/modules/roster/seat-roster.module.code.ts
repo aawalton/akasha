@@ -9,7 +9,7 @@ import {
   rootFor,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { akashaSeatsStated } from "akasha/seat-system/modules/seat-akasha-read/seat-akasha-read.module.code.ts"
-import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
+import { textAt } from "akasha/utils/narrow/modules/text-at/text-at.module.code.ts"
 
 const SESSION_KEY = "claude-code-session-uuid"
 

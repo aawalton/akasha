@@ -1,7 +1,7 @@
 import {
   TEXT_PRIMARY,
   TEXT_SECONDARY,
-} from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
+} from "akasha/design/interfaces/tokens/modules/text-color/text-color.module.code.ts"
 import {
   createMovableWindow,
   type MovableWindowHandle,

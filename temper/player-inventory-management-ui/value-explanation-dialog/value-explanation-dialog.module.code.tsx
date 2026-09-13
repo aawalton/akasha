@@ -10,7 +10,7 @@ import {
 import { formatGold } from "akasha/design/interfaces/primitives/modules/format-gold/format-gold.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
-import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
+import { Text } from "akasha/design/interfaces/primitives/modules/text-body/text-body.module.code.tsx"
 import type { InventoryLeafNode } from "akasha/temper/items-core/modules/inventory-node-types/inventory-node-types.module.code.ts"
 
 export interface ValueExplanationData {

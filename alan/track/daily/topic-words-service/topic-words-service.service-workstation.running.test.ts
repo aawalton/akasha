@@ -5,9 +5,11 @@ const NOTHING = "neither the wisdom words nor the intelligence topics landed"
 let LANDED: readonly string[] = []
 let TURNS = 0
 
-const topicWords = await import("akasha/alan/track/daily/topic-words/topic-words.module.code.ts")
+const topicWords = await import(
+  "akasha/alan/track/daily/modules/topic-words/topic-words.module.code.ts"
+)
 
-mock.module("akasha/alan/track/daily/topic-words/topic-words.module.code.ts", () => ({
+mock.module("akasha/alan/track/daily/modules/topic-words/topic-words.module.code.ts", () => ({
   ...topicWords,
   runTopicWords: () => {
     TURNS += 1

@@ -16,7 +16,7 @@ import * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua
 import { transformLuaLibFunction } from "akasha/design/language/lua-compiler/modules/lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "akasha/design/language/lua-compiler/modules/lualib-features/lualib-features.module.code.ts"
 import { isOptionalContinuation } from "akasha/design/language/lua-compiler/modules/optional-chain-data/optional-chain-data.module.code.ts"
-import { maybeWrapThisVoidAsAdapter } from "akasha/design/language/lua-compiler/this-void-adapter/this-void-adapter.module.code.ts"
+import { maybeWrapThisVoidAsAdapter } from "akasha/design/language/lua-compiler/modules/this-void-adapter/this-void-adapter.module.code.ts"
 import {
   invalidCallExtensionUse,
   invalidMultiReturnAccess,

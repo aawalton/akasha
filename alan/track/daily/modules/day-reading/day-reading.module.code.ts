@@ -8,7 +8,7 @@ import {
   checkoutRoot,
   DAY_PAGE_TYPE,
 } from "akasha/alan/track/daily/modules/day-place/day-place.module.code.ts"
-import { pageOf } from "akasha/alan/track/daily/track-pages/track-pages.module.code.ts"
+import { pageOf } from "akasha/alan/track/daily/modules/track-pages/track-pages.module.code.ts"
 import { kebabisedRow } from "akasha/pages/modules/akasha-page-values/akasha-page-values.module.code.ts"
 import { asking } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
 import { camelizeKey } from "akasha/utils/slug/modules/camelize-key/camelize-key.module.code.ts"

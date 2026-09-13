@@ -18,7 +18,7 @@ import {
 } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
 import { composedFor } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
 import { shortenedToWords } from "akasha/utils/narrow/modules/shortened-to-words/shortened-to-words.module.code.ts"
-import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
+import { textAt } from "akasha/utils/narrow/modules/text-at/text-at.module.code.ts"
 
 const ROOT = akashaRoot()
 const STORY_PAGE_TYPE = "story-read"

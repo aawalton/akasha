@@ -2,7 +2,7 @@ import {
   controlOf,
   setControl,
 } from "akasha/agents/seats/modules/control/seat-control.module.code.ts"
-import { textIn } from "akasha/utils/narrow/text-in/text-in.module.code.ts"
+import { textIn } from "akasha/utils/narrow/modules/text-in/text-in.module.code.ts"
 
 const DEFAULT_TIMEOUT_MS = 30_000
 

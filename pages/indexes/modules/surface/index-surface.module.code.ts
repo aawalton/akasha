@@ -6,7 +6,7 @@ import type {
   Filing,
   Reading,
 } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
-import { textThere } from "akasha/utils/fs/text-there/text-there.module.code.ts"
+import { textThere } from "akasha/utils/fs/modules/text-there/text-there.module.code.ts"
 
 const ROOT = ""
 

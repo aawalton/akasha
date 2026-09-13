@@ -2,7 +2,7 @@ import {
   landingTracked,
   outsideTracked,
   trackedIn,
-} from "akasha/alan/track/landing/track-landing.module.code.ts"
+} from "akasha/alan/track/modules/landing/track-landing.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { MECHANICAL_KIND } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { answering } from "akasha/commands/modules/answering/command-answering.module.code.ts"

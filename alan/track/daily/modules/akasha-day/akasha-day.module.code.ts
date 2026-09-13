@@ -6,8 +6,8 @@ import {
   COMPLETED_TASKS_SLUG,
   ENTRY_EXTENSION,
   SESSIONS_SLUG,
-} from "akasha/alan/track/daily/track-shape/track-shape.module.code.ts"
-import { landTracking } from "akasha/alan/track/landing/track-landing.module.code.ts"
+} from "akasha/alan/track/daily/modules/track-shape/track-shape.module.code.ts"
+import { landTracking } from "akasha/alan/track/modules/landing/track-landing.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { resolveRoots } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { entriesIn } from "akasha/pages/modules/entries/page-entries.module.code.ts"

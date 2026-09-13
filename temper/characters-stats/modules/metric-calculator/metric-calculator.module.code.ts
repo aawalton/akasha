@@ -17,7 +17,7 @@ import {
 } from "akasha/temper/characters-stats/modules/metrics/metrics.module.code.ts"
 import type { EffectSource } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"
 import type { MetricId } from "akasha/temper/formula-framework/modules/metric-id/metric-id.module.code.ts"
-import { topologicalSort } from "akasha/temper/formula-framework/topological-sort/topological-sort.module.code.ts"
+import { topologicalSort } from "akasha/temper/formula-framework/modules/topological-sort/topological-sort.module.code.ts"
 
 export interface CalculationResult {
   sources: readonly EffectSource[]

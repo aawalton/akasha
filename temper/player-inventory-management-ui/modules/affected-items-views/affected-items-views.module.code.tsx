@@ -14,7 +14,7 @@ import { formatGold } from "akasha/design/interfaces/primitives/modules/format-g
 import { ScrollArea } from "akasha/design/interfaces/primitives/modules/scroll-area/scroll-area.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
-import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
+import { Text } from "akasha/design/interfaces/primitives/modules/text-body/text-body.module.code.tsx"
 import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/characters-equipment-ui/modules/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
 import {
   hasAnyValue,

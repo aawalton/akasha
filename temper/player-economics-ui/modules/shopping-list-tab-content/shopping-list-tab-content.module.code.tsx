@@ -29,7 +29,7 @@ import {
   CardTitleBadges,
 } from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
 import { Progress } from "akasha/design/interfaces/primitives/modules/progress-bar/progress-bar.module.code.tsx"
-import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
+import { Text } from "akasha/design/interfaces/primitives/modules/text-body/text-body.module.code.tsx"
 import { formatGold } from "akasha/temper/player-economics-ui/modules/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
 import {
   buildCategoryGroups,

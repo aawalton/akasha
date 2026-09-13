@@ -17,7 +17,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interfaces/primitives/modules/select-control/select-control.module.code.tsx"
-import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
+import { Text } from "akasha/design/interfaces/primitives/modules/text-body/text-body.module.code.tsx"
 import type { RequiredSkillLinesCondition } from "akasha/temper/items-rules-core/modules/required-skill-lines-filter-types/required-skill-lines-filter-types.module.code.ts"
 import type { useRuleCard } from "akasha/temper/player-inventory-management-ui/use-rule-card/use-rule-card.module.code.ts"
 import { skillLines } from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"

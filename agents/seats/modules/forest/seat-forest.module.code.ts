@@ -11,7 +11,7 @@ import {
   akashaSeatsStated,
   akashaSeatValuesOf,
 } from "akasha/seat-system/modules/seat-akasha-read/seat-akasha-read.module.code.ts"
-import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
+import { textAt } from "akasha/utils/narrow/modules/text-at/text-at.module.code.ts"
 
 const MAX_ANCESTOR_GENERATIONS = 10
 

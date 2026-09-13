@@ -4,7 +4,7 @@ import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.modul
 import { PanelCard } from "akasha/design/interfaces/layout/modules/panel-card/panel-card.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import { TabsContent } from "akasha/design/interfaces/patterns/modules/tabs/tabs.module.code.tsx"
-import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
+import { Text } from "akasha/design/interfaces/primitives/modules/text-body/text-body.module.code.tsx"
 import {
   TEMPER_DUNGEONS,
   TEMPER_QUEST_GIVERS,

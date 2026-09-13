@@ -9,7 +9,7 @@ import { createClient } from "akasha/alan/harness/supabase-client/user-client/us
 import {
   DEFAULT_THROWAWAY_EMAIL,
   ensureThrowawayUser,
-} from "akasha/alan/harness/supabase-server/throwaway-user/throwaway-user.module.code.ts"
+} from "akasha/alan/harness/supabase-server/modules/throwaway-user/throwaway-user.module.code.ts"
 import { readBrowserTestEnv } from "akasha/code/browser/test-harness/modules/browser-test-env/browser-test-env.module.code.ts"
 import { launchAndSignIn } from "akasha/code/browser/test-harness/modules/harness-launch/harness-launch.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"

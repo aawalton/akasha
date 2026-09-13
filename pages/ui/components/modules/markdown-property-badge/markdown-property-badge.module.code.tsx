@@ -3,7 +3,7 @@
 import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
 import { ButtonBadge } from "akasha/design/interfaces/badges/modules/button-badge/button-badge.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
-import { Textarea } from "akasha/design/interfaces/primitives/textarea/textarea.module.code.tsx"
+import { Textarea } from "akasha/design/interfaces/primitives/modules/textarea/textarea.module.code.tsx"
 import type { PropertyBadgeProps } from "akasha/pages/ui/components/modules/property-badge/property-badge.module.code.tsx"
 import { MarkdownRenderer } from "akasha/pages/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx"
 import { useEffect, useRef, useState } from "react"

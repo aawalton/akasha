@@ -16,7 +16,7 @@ import {
 } from "akasha/design/interfaces/primitives/modules/select-control/select-control.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
-import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
+import { Text } from "akasha/design/interfaces/primitives/modules/text-body/text-body.module.code.tsx"
 import type { ScribedSkill } from "akasha/temper/character-skills/modules/scribed-skill-types/scribed-skill-types.module.code.ts"
 import {
   getGrimoireCompatibleScripts,

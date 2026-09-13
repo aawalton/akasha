@@ -2,7 +2,7 @@ import { chapterWords } from "akasha/story/engine/core/modules/chapter-words/cha
 import type {
   Beat,
   ChapterEntry,
-} from "akasha/story/tower/core/tower-state/tower-state.module.code.ts"
+} from "akasha/story/tower/core/modules/tower-state/tower-state.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 export type RenderedChapter = {

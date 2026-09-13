@@ -5,7 +5,7 @@ import {
   markIn,
   startedAt,
 } from "akasha/files/modules/lock-holder/lock-holder.module.code.ts"
-import { pause } from "akasha/utils/waiting/thread-pause/thread-pause.module.code.ts"
+import { pause } from "akasha/utils/waiting/modules/thread-pause/thread-pause.module.code.ts"
 
 const SPIN_MS = 5
 

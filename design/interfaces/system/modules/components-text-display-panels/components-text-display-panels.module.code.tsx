@@ -22,7 +22,7 @@ import {
 } from "akasha/design/interfaces/primitives/modules/breadcrumb/breadcrumb.module.code.tsx"
 import { Heading } from "akasha/design/interfaces/primitives/modules/heading/heading.module.code.tsx"
 import { Separator } from "akasha/design/interfaces/primitives/modules/separator/separator.module.code.tsx"
-import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
+import { Text } from "akasha/design/interfaces/primitives/modules/text-body/text-body.module.code.tsx"
 
 const TEXT_VARIANTS = ["description", "hint", "caption", "prose"] as const
 

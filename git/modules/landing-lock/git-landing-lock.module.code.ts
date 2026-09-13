@@ -3,7 +3,7 @@ import { join } from "node:path"
 import { HARNESS_LANDING_LOCK } from "akasha/files/modules/git-place/git-place.module.code.ts"
 import { holderProcessRuns } from "akasha/files/modules/lock-holder-runs/lock-holder-runs.module.code.ts"
 import { gitDirIn } from "akasha/git/modules/dir/git-dir.module.code.ts"
-import { pause } from "akasha/utils/waiting/thread-pause/thread-pause.module.code.ts"
+import { pause } from "akasha/utils/waiting/modules/thread-pause/thread-pause.module.code.ts"
 
 const LANDING_CEILING_MS = 120_000
 const LANDING_POLL_MS = 250

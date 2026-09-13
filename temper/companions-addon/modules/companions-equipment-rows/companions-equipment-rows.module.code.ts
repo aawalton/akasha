@@ -9,7 +9,7 @@ import { GREEN } from "akasha/design/interfaces/tokens/modules/semantic-color/se
 import {
   TEXT_PRIMARY,
   TEXT_SECONDARY,
-} from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
+} from "akasha/design/interfaces/tokens/modules/text-color/text-color.module.code.ts"
 
 export const TWO_HANDED_TYPES: Record<number, boolean> = {
   [WEAPONTYPE_TWO_HANDED_SWORD]: true,

@@ -12,7 +12,7 @@ import {
 import { CardDescription } from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
-import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
+import { Text } from "akasha/design/interfaces/primitives/modules/text-body/text-body.module.code.tsx"
 import { PagesUILink as Link } from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { characterUrl } from "akasha/temper/build-support/modules/build-url/build-url.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"

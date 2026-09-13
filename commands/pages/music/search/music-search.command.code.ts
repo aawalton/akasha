@@ -1,5 +1,5 @@
-import type { TrackCandidate } from "akasha/alan/music/choosing/track-candidate/track-candidate.module.code.ts"
-import { selectCandidates } from "akasha/alan/music/choosing/track-candidate/track-candidate.module.code.ts"
+import type { TrackCandidate } from "akasha/alan/music/choosing/modules/track-candidate/track-candidate.module.code.ts"
+import { selectCandidates } from "akasha/alan/music/choosing/modules/track-candidate/track-candidate.module.code.ts"
 import type {
   SearchParams,
   SearchResponse,

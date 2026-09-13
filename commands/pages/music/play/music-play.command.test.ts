@@ -6,7 +6,7 @@ import {
 import type {
   ResolvableTrack,
   ResolvedTrack,
-} from "akasha/alan/music/choosing/track-resolving/track-resolving.module.code.ts"
+} from "akasha/alan/music/choosing/modules/track-resolving/track-resolving.module.code.ts"
 import type {
   Playing,
   StartResumeOptions,

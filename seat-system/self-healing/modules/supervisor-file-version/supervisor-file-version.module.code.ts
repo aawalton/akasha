@@ -6,7 +6,7 @@ import {
 } from "akasha/code/modules/package-manifest/package-manifest.module.code.ts"
 import type { Naming } from "akasha/code/modules/specifier/code-specifier.module.code.ts"
 import { AGENT_SETTINGS_PATH } from "akasha/seat-system/supervising/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
-import { textThere } from "akasha/utils/fs/text-there/text-there.module.code.ts"
+import { textThere } from "akasha/utils/fs/modules/text-there/text-there.module.code.ts"
 
 const SPECIFIER = /from\s+"([^"]*)"/g
 

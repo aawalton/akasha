@@ -5,7 +5,7 @@ import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.cod
 import { Input } from "akasha/design/interfaces/primitives/modules/input/input.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
-import { Textarea } from "akasha/design/interfaces/primitives/textarea/textarea.module.code.tsx"
+import { Textarea } from "akasha/design/interfaces/primitives/modules/textarea/textarea.module.code.tsx"
 import { cva, type VariantProps } from "class-variance-authority"
 
 function InputGroup({ className, ...props }: React.ComponentProps<"div">) {

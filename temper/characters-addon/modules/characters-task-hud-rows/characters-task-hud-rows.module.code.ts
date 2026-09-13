@@ -3,7 +3,7 @@ import {
   PURPLE,
   YELLOW,
 } from "akasha/design/interfaces/tokens/modules/semantic-color/semantic-color.module.code.ts"
-import { TEXT_SECONDARY } from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
+import { TEXT_SECONDARY } from "akasha/design/interfaces/tokens/modules/text-color/text-color.module.code.ts"
 import type { ActiveQuest } from "akasha/temper/characters-addon/modules/characters-active-quests/characters-active-quests.module.code.ts"
 import {
   countSuffix,

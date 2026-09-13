@@ -2,13 +2,13 @@ import { isCliError } from "akasha/alan/harness/errors-core/modules/exit-code/ex
 import type {
   ResolvableTrack,
   ResolvedTrack,
-} from "akasha/alan/music/choosing/track-resolving/track-resolving.module.code.ts"
+} from "akasha/alan/music/choosing/modules/track-resolving/track-resolving.module.code.ts"
 import {
   parseTrackId,
   resolveDeviceId,
   resolveQueryToTrack,
   trackToResolved,
-} from "akasha/alan/music/choosing/track-resolving/track-resolving.module.code.ts"
+} from "akasha/alan/music/choosing/modules/track-resolving/track-resolving.module.code.ts"
 import { startResumePlayback } from "akasha/alan/music/spotify/modules/player/spotify-player.module.code.ts"
 import { getTrack } from "akasha/alan/music/spotify/modules/tracks/spotify-tracks.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"

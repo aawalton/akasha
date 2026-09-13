@@ -1,4 +1,4 @@
-import { runTopicWords } from "akasha/alan/track/daily/topic-words/topic-words.module.code.ts"
+import { runTopicWords } from "akasha/alan/track/daily/modules/topic-words/topic-words.module.code.ts"
 
 const NOTHING = "neither the wisdom words nor the intelligence topics landed"
 

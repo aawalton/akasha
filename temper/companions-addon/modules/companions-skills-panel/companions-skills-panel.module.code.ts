@@ -15,7 +15,7 @@ import {
   TEXT_PRIMARY,
   TEXT_SECONDARY,
   TEXT_TERTIARY,
-} from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
+} from "akasha/design/interfaces/tokens/modules/text-color/text-color.module.code.ts"
 import {
   type CompanionBuildData,
   SKILL_SLOT_INDICES,

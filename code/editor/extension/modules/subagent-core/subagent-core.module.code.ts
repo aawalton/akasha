@@ -1,5 +1,5 @@
 import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
-import { textIn } from "akasha/utils/narrow/text-in/text-in.module.code.ts"
+import { textIn } from "akasha/utils/narrow/modules/text-in/text-in.module.code.ts"
 import { z } from "zod"
 
 export interface RunningSubagent {

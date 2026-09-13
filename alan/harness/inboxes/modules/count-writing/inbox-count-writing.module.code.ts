@@ -11,7 +11,7 @@ import {
   landDayPage,
 } from "akasha/alan/track/daily/modules/day-place/day-place.module.code.ts"
 import { askDayByDate } from "akasha/alan/track/daily/modules/day-reading/day-reading.module.code.ts"
-import { resolveOrCreateDaily } from "akasha/alan/track/daily/track-resolve/track-resolve.module.code.ts"
+import { resolveOrCreateDaily } from "akasha/alan/track/daily/modules/track-resolve/track-resolve.module.code.ts"
 import { resolveRoots } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 
 const INBOX_WRITER = "inbox-tracking"

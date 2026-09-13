@@ -6,7 +6,7 @@ import {
   DAYS_AT,
   FOOD_ENTRIES_AT,
   outsideTracked,
-} from "akasha/alan/track/landing/track-landing.module.code.ts"
+} from "akasha/alan/track/modules/landing/track-landing.module.code.ts"
 import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"

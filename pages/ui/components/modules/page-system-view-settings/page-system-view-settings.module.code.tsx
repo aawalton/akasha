@@ -18,7 +18,7 @@ import { GroupByPicker } from "akasha/pages/ui/components/modules/group-by-picke
 import { NotesOptionsPicker } from "akasha/pages/ui/components/modules/notes-options-picker/notes-options-picker.module.code.tsx"
 import { PageSizePicker } from "akasha/pages/ui/components/modules/page-size-picker/page-size-picker.module.code.tsx"
 import { PropertyVisibilityPicker } from "akasha/pages/ui/components/modules/property-visibility-picker/property-visibility-picker.module.code.tsx"
-import { TimelinePicker } from "akasha/pages/ui/components/timeline-picker/timeline-picker.module.code.tsx"
+import { TimelinePicker } from "akasha/pages/ui/components/modules/timeline-picker/timeline-picker.module.code.tsx"
 import {
   DEFAULT_LAYOUT,
   LAYOUT_OPTIONS,

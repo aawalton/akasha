@@ -32,7 +32,7 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { textIn } from "akasha/utils/narrow/text-in/text-in.module.code.ts"
+import { textIn } from "akasha/utils/narrow/modules/text-in/text-in.module.code.ts"
 
 interface Kept {
   readonly persona: string | null

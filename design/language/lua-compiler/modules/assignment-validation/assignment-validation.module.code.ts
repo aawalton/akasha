@@ -3,7 +3,7 @@ import {
   ContextType,
   getFunctionContextType,
 } from "akasha/design/language/lua-compiler/modules/function-context/function-context.module.code.ts"
-import { willWrapThisVoidAdapter } from "akasha/design/language/lua-compiler/this-void-adapter/this-void-adapter.module.code.ts"
+import { willWrapThisVoidAdapter } from "akasha/design/language/lua-compiler/modules/this-void-adapter/this-void-adapter.module.code.ts"
 import {
   unsupportedNoSelfFunctionConversion,
   unsupportedOverloadAssignment,

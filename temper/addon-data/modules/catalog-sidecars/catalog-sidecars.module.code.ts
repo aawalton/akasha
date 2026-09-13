@@ -2,7 +2,7 @@ import {
   asPage,
   type Page,
 } from "akasha/temper/addon-generators/modules/addon-data-page/addon-data-page.module.code.ts"
-import { textIn } from "akasha/utils/narrow/text-in/text-in.module.code.ts"
+import { textIn } from "akasha/utils/narrow/modules/text-in/text-in.module.code.ts"
 
 type Values = Readonly<Record<string, unknown>>
 
