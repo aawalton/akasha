@@ -7,11 +7,5 @@ export const athenaCommandTree = {
   domain: "page-type/command",
   persona: "athena",
   parent: "athena-commands-cleanup",
-  intents: [
-    {
-      statement: "A command answering many is `list`, and a command answering one is `show`.",
-      workingMemory:
-        "The split is exceptionless where the tree uses the words: all 25 `list` names answer many, all 8 `show` answer one the caller names, and `change show` names it by its required `at`. It landed as a departure on `level-name` at `920335d8c2c`; nothing had said it. The act-less rest is five classes, not one. Alan's, in three: `inventory snapshot` is an unnamed show, `dev-server status` answers one or many by call, and `rule list` beside `rule show` differ only in a count.\n",
-    },
-  ],
+  intents: [],
 } as const satisfies Initiative
