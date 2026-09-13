@@ -15,6 +15,7 @@ export const spotify = {
     "module/spotify-personalization",
     "module/spotify-pkce-store",
     "module/spotify-player",
+    "module/spotify-releases",
     "module/spotify-scopes",
     "module/spotify-search",
     "module/spotify-token-store",
