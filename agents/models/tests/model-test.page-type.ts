@@ -96,6 +96,11 @@ export const modelTest = {
       statement:
         "A turn can fail Alan outside all five rules, and no case here names such a failure.",
     },
+    {
+      invariantKind: "constraint",
+      statement:
+        "A phrase on a closed list is matched by its opening words unless the prompt bars that.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType
