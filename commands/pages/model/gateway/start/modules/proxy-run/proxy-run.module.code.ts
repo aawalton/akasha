@@ -6,7 +6,7 @@ import { seatNameForAgent } from "akasha/agents/seats/observation/modules/seat-p
 import {
   agentRuntimeDir,
   supervisorSocketPath,
-} from "akasha/agents/seats/supervisors/modules/supervisor-log-path/supervisor-log-path.module.code.ts"
+} from "akasha/agents/seats/supervisors/supervisor-log/modules/supervisor-log-path/supervisor-log-path.module.code.ts"
 
 export const STDERR_LOG = "oauth-proxy.stderr.log"
 

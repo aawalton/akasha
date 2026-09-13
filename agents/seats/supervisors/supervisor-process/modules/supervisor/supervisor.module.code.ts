@@ -1,5 +1,5 @@
-import { buildAgentLogRedirect } from "akasha/agents/seats/supervisors/modules/supervisor-console/supervisor-console.module.code.ts"
 import { LIVE_CHILD_EXIT_RULE } from "akasha/agents/seats/supervisors/supervisor-child/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
+import { buildAgentLogRedirect } from "akasha/agents/seats/supervisors/supervisor-log/modules/supervisor-console/supervisor-console.module.code.ts"
 import { runInteractive } from "akasha/agents/seats/supervisors/supervisor-loop/modules/supervisor-interactive/supervisor-interactive.module.code.ts"
 import type { RunInteractiveSeams } from "akasha/agents/seats/supervisors/supervisor-loop/modules/supervisor-interactive-seams/supervisor-interactive-seams.module.code.ts"
 import { parseArgs } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-args/supervisor-args.module.code.ts"

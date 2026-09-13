@@ -3,8 +3,8 @@ import {
   setCurrentSessionIdForSelfHeal,
 } from "akasha/agents/seats/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import { rotatedOf } from "akasha/agents/seats/session/modules/seat-rotated-session/seat-rotated-session.module.code.ts"
-import type { buildAgentLogRedirect } from "akasha/agents/seats/supervisors/modules/supervisor-console/supervisor-console.module.code.ts"
 import { claimSeatSupervision } from "akasha/agents/seats/supervisors/supervisor-boot/modules/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
+import type { buildAgentLogRedirect } from "akasha/agents/seats/supervisors/supervisor-log/modules/supervisor-console/supervisor-console.module.code.ts"
 import type { AgentIdHandle } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-self-identity/supervisor-self-identity.module.code.ts"
 import { setRestoreConsoleHandle } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"
 import type { AgentProcess } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-types/supervisor-types.module.code.ts"

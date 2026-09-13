@@ -2,10 +2,10 @@ import { askProxyAdoption } from "akasha/agents/seats/oauth-proxy/modules/superv
 import { askProxyLiveness } from "akasha/agents/seats/oauth-proxy/modules/supervisor-proxy-liveness-rule/supervisor-proxy-liveness-rule.module.code.ts"
 import { askReExecJitterMs } from "akasha/agents/seats/self-healing/modules/supervisor-self-heal-jitter-rule/supervisor-self-heal-jitter-rule.module.code.ts"
 import { setSelfHealIdleProbe } from "akasha/agents/seats/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import type { buildAgentLogRedirect } from "akasha/agents/seats/supervisors/modules/supervisor-console/supervisor-console.module.code.ts"
 import { bootInteractiveSession } from "akasha/agents/seats/supervisors/supervisor-boot/modules/supervisor-interactive-boot/supervisor-interactive-boot.module.code.ts"
 import type { InteractiveOpts } from "akasha/agents/seats/supervisors/supervisor-boot/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
 import { finalizeInteractiveExit } from "akasha/agents/seats/supervisors/supervisor-child/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"
+import type { buildAgentLogRedirect } from "akasha/agents/seats/supervisors/supervisor-log/modules/supervisor-console/supervisor-console.module.code.ts"
 import {
   acquireIterationChild,
   assembleIterationProcess,

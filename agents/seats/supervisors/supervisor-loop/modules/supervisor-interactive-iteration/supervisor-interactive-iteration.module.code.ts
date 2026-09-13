@@ -9,7 +9,6 @@ import {
   setCurrentAgentIdForSelfHeal,
   setCurrentSessionIdForSelfHeal,
 } from "akasha/agents/seats/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import type { buildAgentLogRedirect } from "akasha/agents/seats/supervisors/modules/supervisor-console/supervisor-console.module.code.ts"
 import { claimSeatSupervision } from "akasha/agents/seats/supervisors/supervisor-boot/modules/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
 import type {
   InteractiveOpts,
@@ -23,6 +22,7 @@ import {
   buildIterationSpawnOpts,
   type SeatSpawnDecider,
 } from "akasha/agents/seats/supervisors/supervisor-child/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"
+import type { buildAgentLogRedirect } from "akasha/agents/seats/supervisors/supervisor-log/modules/supervisor-console/supervisor-console.module.code.ts"
 import type { SeatResume } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-args/supervisor-args.module.code.ts"
 import { LOG } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import type { AgentIdHandle } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-self-identity/supervisor-self-identity.module.code.ts"
