@@ -10,6 +10,7 @@ export const movePropertyOnEveryPage = {
   definition: "one key's value written under another key on every page of one page type",
   takesAtMost: true,
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
