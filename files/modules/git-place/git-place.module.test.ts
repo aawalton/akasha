@@ -8,7 +8,6 @@ import {
   HANDOFF,
   HARNESS_LANDING_LOCK,
   INDEXES,
-  KEPT,
   keptAt,
   LANDING_LOCK,
   LEFT,
@@ -41,10 +40,6 @@ test("a subtree is answered under a store, so what owns it never spells the stor
   expect(storeIn("/repo", CACHE, "held")).toBe(`/repo/${storeAt(CACHE, "held")}`)
 })
 
-test("what akasha keeps is every store and every hold a landing takes", () => {
-  expect([...KEPT].sort()).toEqual([...STORES, LANDING_LOCK, HARNESS_LANDING_LOCK].sort())
-})
-
 test("the akasha landing and the harness landing take holds of their own", () => {
   expect(HARNESS_LANDING_LOCK).not.toBe(LANDING_LOCK)
 })
@@ -58,12 +53,6 @@ test("a path akasha keeps no longer is read against that folder rather than agai
   for (const one of LEFT) {
     expect(one.startsWith(".git/")).toBe(false)
     expect(one.startsWith("/")).toBe(false)
-  }
-})
-
-test("a path akasha keeps no longer is no name akasha keeps", () => {
-  for (const one of LEFT) {
-    expect(KEPT).not.toContain(one)
   }
 })
 

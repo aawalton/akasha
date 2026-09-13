@@ -34,10 +34,6 @@ export const gitPlace = {
     },
     {
       invariantKind: "departure",
-      statement: "The names are answered as one list, which is what a sweep reads.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A path akasha kept before and keeps no longer is named here as well.",
     },
     {

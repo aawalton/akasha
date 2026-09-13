@@ -20,8 +20,6 @@ export const HARNESS_LANDING_LOCK = "harness-landing.lock"
 
 export const STORES: readonly string[] = [CACHE, DEPLOYS, TREES]
 
-export const KEPT: readonly string[] = [...STORES, LANDING_LOCK, HARNESS_LANDING_LOCK]
-
 export const LEFT: readonly string[] = [DATA, HANDOFF, INDEXES]
 
 export function keptAt(name: string): string {
