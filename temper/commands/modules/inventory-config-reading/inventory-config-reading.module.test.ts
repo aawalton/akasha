@@ -173,6 +173,56 @@ test("a path with no file at it is refused as data, naming the path", async () =
   expect(loadTemperInventoryConfigFromPath(at)).rejects.toThrow(DataError)
 })
 
+const AN_ITEM_RULE = savedVariables(
+  `    ["@one"] =
+    {
+      ["$AccountWide"] =
+      {
+        ["sellCompiled"] =
+        {
+          ["orderedRules"] = { [1] = { ["categoryId"] = "drink", ["action"] = "move-to" } },
+          ["itemRules"] =
+          {
+            [120763] =
+            {
+              ["action"] = "stock",
+              ["destination"] = "character:by-priority",
+              ["targetQuantity"] = 100,
+              ["stockScope"] = "any-character",
+            },
+            [87697] = { ["action"] = "nothing" },
+          },
+        },
+      },
+    },`
+)
+
+test("an item rule the compiled config keys by item id reads back as a rule", () => {
+  const held = parseTemperInventoryConfig(AN_ITEM_RULE)
+  expect(held.itemRules.map((one) => one.itemId)).toEqual([87697, 120763])
+})
+
+test("an item rule is named for the item it is written against", () => {
+  expect(parseTemperInventoryConfig(AN_ITEM_RULE).itemRules[1]?.id).toBe("item:120763")
+})
+
+test("the quantity the compiled config calls a target reads back as the stock quantity", () => {
+  const rule = parseTemperInventoryConfig(AN_ITEM_RULE).itemRules[1]
+  expect(rule?.stockQuantity).toBe(100)
+  expect(rule?.stockScope).toBe("any-character")
+  expect(rule?.destination).toBe("character:by-priority")
+})
+
+test("an item rule carrying only an action carries no destination of its own", () => {
+  const rule = parseTemperInventoryConfig(AN_ITEM_RULE).itemRules[0]
+  expect(rule?.action).toBe("nothing")
+  expect(Object.hasOwn(rule ?? {}, "destination")).toBe(false)
+})
+
+test("a config holding no item rules reads as none rather than as missing", () => {
+  expect(parseTemperInventoryConfig(TWO_RULES).itemRules).toEqual([])
+})
+
 test("a config read off a path reads the same as one read off its content", async () => {
   const at = join(SCRATCH.rootFor("temper-inventory-config-"), "TemperInventory.lua")
   await Bun.write(at, TWO_RULES)

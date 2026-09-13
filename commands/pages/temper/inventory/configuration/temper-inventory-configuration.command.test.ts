@@ -49,7 +49,8 @@ test("naming no section reads as every section", () => {
 test("a section the configuration does not hold is refused", () => {
   const said = sectionIn("bogus")
   expect(typeof said === "string" ? [] : said.refused).toEqual([
-    "`--section` takes `rules`, `consumables`, `priority`, `divergence`, `all`, and `bogus` is none of them",
+    "`--section` takes `rules`, `item-rules`, `consumables`, `priority`, `divergence`, `all`, " +
+      "and `bogus` is none of them",
   ])
 })
 
@@ -59,4 +60,8 @@ test("a section the configuration holds is read as that section", () => {
 
 test("the section setting the records against the configuration is read as that section", () => {
   expect(sectionIn("divergence")).toBe("divergence")
+})
+
+test("the section naming the rules written against one item is read as that section", () => {
+  expect(sectionIn("item-rules")).toBe("item-rules")
 })

@@ -18,6 +18,11 @@ export const temperInventoryConfiguration = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The item rules are a section of their own rather than rows among the ordered rules.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A section the configuration does not hold refuses the call.",
     },
     {

@@ -21,12 +21,13 @@ import {
 import { loadTemperInventoryConfigFromPath } from "akasha/temper/commands/modules/inventory-config-reading/inventory-config-reading.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+import type { ItemRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const TAKES = [json, inventoryPathArgument, sectionArgument]
 
 const INVENTORY_LUA = "TemperInventory.lua"
 
-const SECTIONS = ["rules", "consumables", "priority", "divergence", "all"] as const
+const SECTIONS = ["rules", "item-rules", "consumables", "priority", "divergence", "all"] as const
 
 const NAMED_KEYS = 3
 
@@ -43,6 +44,7 @@ type CompiledRule = {
 type CompiledInventoryConfig = {
   readonly rules: ReadonlyArray<CompiledRule>
   readonly orderedRules: ReadonlyArray<CompiledOrderedRule>
+  readonly itemRules: ReadonlyArray<ItemRule>
   readonly wantedConsumables: Record<string, unknown>
   readonly characterPriority: ReadonlyArray<string>
 }
@@ -105,6 +107,31 @@ function rulesSaid(rules: ReadonlyArray<CompiledRule>): readonly string[] {
   return lines
 }
 
+function itemRulesSaid(rules: ReadonlyArray<ItemRule>): readonly string[] {
+  if (rules.length === 0) return ["(no compiled item rules)"]
+  return rules.map((one) =>
+    [
+      one.itemId,
+      one.action,
+      one.destination ?? "",
+      one.stockQuantity === undefined ? "" : one.stockQuantity,
+      one.stockScope ?? "",
+      one.destinationChain === undefined ? "" : `chain:${String(one.destinationChain.length)}`,
+    ].join("\t")
+  )
+}
+
+function itemRuleShape(rule: ItemRule): Record<string, unknown> {
+  return {
+    itemId: rule.itemId,
+    action: rule.action,
+    destination: rule.destination ?? "",
+    stockQuantity: rule.stockQuantity ?? null,
+    stockScope: rule.stockScope ?? "",
+    destinationChain: rule.destinationChain ?? null,
+  }
+}
+
 function consumablesSaid(wanted: Record<string, unknown>): readonly string[] {
   const keys = Object.keys(wanted)
   if (keys.length === 0) return ["(no wanted consumables)"]
@@ -149,12 +176,15 @@ function jsonShape(
   weighing: Weighed | null
 ): Record<string, unknown> {
   const rules = config.rules.map(ruleShape)
+  const itemRules = config.itemRules.map(itemRuleShape)
   if (section === "rules") return { rules }
+  if (section === "item-rules") return { itemRules }
   if (section === "consumables") return { wantedConsumables: config.wantedConsumables }
   if (section === "priority") return { characterPriority: config.characterPriority }
   if (section === "divergence") return divergenceShape(weighing)
   return {
     rules,
+    itemRules,
     wantedConsumables: config.wantedConsumables,
     characterPriority: config.characterPriority,
     ...divergenceShape(weighing),
@@ -167,12 +197,16 @@ function textOf(
   weighing: Weighed | null
 ): readonly string[] {
   if (section === "rules") return rulesSaid(config.rules)
+  if (section === "item-rules") return itemRulesSaid(config.itemRules)
   if (section === "consumables") return consumablesSaid(config.wantedConsumables)
   if (section === "priority") return prioritySaid(config.characterPriority)
   if (section === "divergence") return divergenceSaid(weighing)
   return [
     `# rules (${config.rules.length})`,
     ...rulesSaid(config.rules),
+    "",
+    `# item rules (${config.itemRules.length})`,
+    ...itemRulesSaid(config.itemRules),
     "",
     `# consumables (${Object.keys(config.wantedConsumables).length})`,
     ...consumablesSaid(config.wantedConsumables),

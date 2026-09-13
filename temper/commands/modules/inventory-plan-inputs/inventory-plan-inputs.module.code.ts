@@ -50,7 +50,7 @@ export async function loadInventoryPlanInputs(
     id: config.rules[i]?.id ?? `rule#${i}`,
   }))
 
-  return { db, orderedRules, itemRules: [], context, classifiedItems }
+  return { db, orderedRules, itemRules: config.itemRules, context, classifiedItems }
 }
 
 export function buildMatcherContext(

@@ -22,6 +22,10 @@ export const temperInventoryRuleTakes = {
     },
     {
       invariantKind: "departure",
+      statement: "Every item rule is above every ordered rule when the shadow is worked out.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The items are gathered by the item they are, rather than by the stack.",
     },
     {

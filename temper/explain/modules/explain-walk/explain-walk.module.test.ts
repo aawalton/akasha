@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   formatExplainWalk,
+  ITEM_RULE_TRACE_INDEX,
   type JsonOutput,
   type RuleTraceRow,
   type TtcBreakdown,
@@ -258,4 +259,18 @@ test("nothing is named at the foot where the rules resolve the item to something
 
 test("the walk ends in a newline", () => {
   expect(formatExplainWalk(output()).endsWith("\n")).toBe(true)
+})
+
+test("an item rule answering before the ordered rules is named at the foot", () => {
+  const text = formatExplainWalk(
+    output({ perRule: [row({ index: ITEM_RULE_TRACE_INDEX, ruleId: "item:42" })] })
+  )
+
+  expect(text).toContain("the addon answers before the ordered")
+})
+
+test("nothing is named at the foot where every row is an ordered rule", () => {
+  const text = formatExplainWalk(output({ perRule: [row()] }))
+
+  expect(text).not.toContain("the addon answers before the ordered")
 })

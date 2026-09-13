@@ -32,8 +32,8 @@ export const inventoryPlanInputs = {
       statement: "A location whose key is not a number is no character.",
     },
     {
-      invariantKind: "absence",
-      statement: "No item rule is gathered here.",
+      invariantKind: "departure",
+      statement: "The item rules the addon compiled are gathered beside the ordered rules.",
     },
   ],
 } as const satisfies Module

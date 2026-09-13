@@ -54,6 +54,15 @@ export const explainWalk = {
       statement: "A rule whose outcome could still turn is named again at the foot.",
     },
     {
+      invariantKind: "departure",
+      statement: "An item rule answering before the ordered rules is the row at index -1.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A walk holding that row is named at the foot as one no category rule was read for.",
+    },
+    {
       invariantKind: "absence",
       statement: "No rule is weighed here.",
     },

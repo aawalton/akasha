@@ -29,12 +29,14 @@ import {
 import { savedVarsFile } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import {
   formatExplainWalk,
+  ITEM_RULE_TRACE_INDEX,
   type JsonOutput,
   type OutcomeJson,
   type RuleTraceRow,
   type TtcBreakdown,
 } from "akasha/temper/explain/modules/explain-walk/explain-walk.module.code.ts"
 import type { InventoryItemData } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
+import type { ItemRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {
   IndeterminateReason,
   RejectionReason,
@@ -59,6 +61,10 @@ const INVENTORY_LUA = "TemperInventory.lua"
 const CHARACTERS_LUA = "TemperCharacters.lua"
 
 const MASTER = "master"
+
+const ITEM_RULE_CATEGORY_SAID = "(item rule)"
+
+const ITEM_RULE_DETAIL_SAID = "item-rule short-circuit (the ordered rules are not read)"
 
 function rejectionSaid(reason: RejectionReason): string {
   if (reason.kind === "category-mismatch") {
@@ -165,6 +171,36 @@ function itemKeySaid(facts: ItemFacts): string | null {
   return `consumable:${String(key.itemId)}`
 }
 
+function itemRuleShortCircuit(
+  itemRules: ReadonlyArray<ItemRule>,
+  facts: ItemFacts
+): Pick<JsonOutput, "perRule" | "outcome"> | null {
+  if (facts.isLocked === true) return null
+  const rule = itemRules.find((one) => one.itemId === facts.itemId)
+  if (rule === undefined) return null
+  const destination = rule.destination ?? null
+  const row: RuleTraceRow = {
+    index: ITEM_RULE_TRACE_INDEX,
+    ruleId: rule.id,
+    categoryId: ITEM_RULE_CATEGORY_SAID,
+    action: rule.action,
+    destination,
+    verdict: "matched",
+    verdictDetail: ITEM_RULE_DETAIL_SAID,
+    resolvedDestination: destination,
+  }
+  return {
+    perRule: [row],
+    outcome: {
+      kind: "matched",
+      action: rule.action,
+      destination,
+      label: rule.id,
+      indeterminateRules: [],
+    },
+  }
+}
+
 async function walkedFor(
   caps: ExplainCapabilities,
   resolved: ResolvedInventoryItem,
@@ -183,6 +219,18 @@ async function walkedFor(
   const { item, location } = resolved
   const nodeIds = caps.classifyItemToNodeIds(item)
   const facts = caps.cliItemFactsFromInventoryItem(item, nodeIds, location)
+  const head = {
+    itemId: item.itemId,
+    itemName: item.itemName,
+    itemLink: item.itemLink,
+    categoryNodeIds: facts.categoryNodeIds ?? null,
+    itemKey: itemKeySaid(facts),
+    junk: item.junk ?? null,
+    junkable: item.junkable ?? null,
+    ttc: ttcOf(item),
+  }
+  const shortCircuit = itemRuleShortCircuit(config.itemRules, facts)
+  if (shortCircuit !== null) return { ...head, ...shortCircuit }
   const stockGroupByRuleId = caps.computeStockGroups(
     config.orderedRules,
     allBagItems(caps, db),
@@ -195,18 +243,7 @@ async function walkedFor(
     env
   )
   const trace = caps.walkRules(config.orderedRules, facts, { env, stockGroupByRuleId })
-  return {
-    itemId: item.itemId,
-    itemName: item.itemName,
-    itemLink: item.itemLink,
-    categoryNodeIds: facts.categoryNodeIds ?? null,
-    itemKey: itemKeySaid(facts),
-    junk: item.junk ?? null,
-    junkable: item.junkable ?? null,
-    ttc: ttcOf(item),
-    perRule: trace.perRule.map(rowOf),
-    outcome: outcomeOf(trace.outcome),
-  }
+  return { ...head, perRule: trace.perRule.map(rowOf), outcome: outcomeOf(trace.outcome) }
 }
 
 export async function temperInventoryExplain(

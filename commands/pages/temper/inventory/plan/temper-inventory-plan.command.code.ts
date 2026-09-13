@@ -245,7 +245,7 @@ export async function temperInventoryPlan(argv: readonly string[], given: Given)
       ...rule,
       id: config.rules[at]?.id ?? `rule#${at}`,
     }))
-    const itemRules = [] as const
+    const itemRules = config.itemRules
     const [matcher, filter, builder] = await Promise.all([
       ruleMatcher(),
       capacityFilter(),

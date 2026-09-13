@@ -41,5 +41,18 @@ export const inventoryConfigReading = {
       invariantKind: "departure",
       statement: "A list left unnamed reaches a reader as a record, and every reader takes a list.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "An item rule the compiled config keys by item id is read back as a rule of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An item rule read back is named for the item it is written against.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "The compiled config carries no name for the item an item rule names.",
+    },
   ],
 } as const satisfies Module

@@ -146,7 +146,10 @@ async function answered(
   const alone = matcher.computeAllRuleAffectedItems([wanted], classifiedItems, context)
   const mine = gatheredByItem(whole.ruleMap.get(taken.categoryRuleId) ?? [])
   const solo = gatheredByItem(alone.ruleMap.get(taken.categoryRuleId) ?? [])
-  const order = orderedRules.map((one, at) => one.id ?? `rule#${String(at)}`)
+  const order = [
+    ...itemRules.map((one) => one.id),
+    ...orderedRules.map((one, at) => one.id ?? `rule#${String(at)}`),
+  ]
   const above = order.slice(0, order.indexOf(taken.categoryRuleId))
   const shadowed: ShadowedStack[] = []
   for (const [itemId, stack] of solo) {

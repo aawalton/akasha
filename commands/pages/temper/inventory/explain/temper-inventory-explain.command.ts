@@ -18,6 +18,15 @@ export const temperInventoryExplain = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "An item rule written against the item decides the action before any ordered rule.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An item the player locked in game is decided by the ordered rules alone.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Naming no character lets the freshest scan win.",
     },
     {

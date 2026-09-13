@@ -2,6 +2,7 @@ import { DataError } from "akasha/alan/harness/errors-core/modules/exit-code/exi
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type {
   CharEligibility,
+  ItemRule,
   MoveToDestination,
   Tier,
 } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
@@ -23,8 +24,15 @@ export interface CompiledRule {
 export interface CompiledInventoryConfig {
   readonly rules: ReadonlyArray<CompiledRule>
   readonly orderedRules: ReadonlyArray<CompiledOrderedRule>
+  readonly itemRules: ReadonlyArray<ItemRule>
   readonly wantedConsumables: Record<string, unknown>
   readonly characterPriority: ReadonlyArray<string>
+}
+
+export const ITEM_RULE_ID_PREFIX = "item:"
+
+export function itemRuleIdFor(itemId: number): string {
+  return `${ITEM_RULE_ID_PREFIX}${String(itemId)}`
 }
 
 const FILE_NAME = "TemperInventory.lua"
@@ -173,11 +181,24 @@ const COMPILED_ORDERED_RULE_SCHEMA = z
   })
   .passthrough()
 
+const COMPILED_ITEM_RULE_SCHEMA = z
+  .object({
+    action: ITEM_ACTION_SCHEMA,
+    destination: z
+      .custom<MoveToDestination>((one) => typeof one === "string" && one.length > 0)
+      .optional(),
+    targetQuantity: z.number().optional(),
+    stockScope: STOCK_SCOPE_SCHEMA.optional(),
+    destinationChain: luaArrayOrEmpty(DESTINATION_TIER_SCHEMA).readonly().optional(),
+  })
+  .passthrough()
+
 const WANTED_CONSUMABLES_SCHEMA = z.record(z.string(), z.unknown())
 
 const COMPILED_BLOCK_SCHEMA = z
   .object({
     orderedRules: luaArrayOrEmpty(COMPILED_ORDERED_RULE_SCHEMA).default([]),
+    itemRules: z.record(z.string(), COMPILED_ITEM_RULE_SCHEMA).default({}),
     wantedConsumables: WANTED_CONSUMABLES_SCHEMA.default({}),
     characterPriority: luaArrayOrEmpty(z.string()).default([]),
   })
@@ -237,9 +258,32 @@ export function parseTemperInventoryConfig(content: string): CompiledInventoryCo
   return {
     rules,
     orderedRules,
+    itemRules: itemRulesFrom(compiled.itemRules),
     wantedConsumables: compiled.wantedConsumables,
     characterPriority: compiled.characterPriority,
   }
+}
+
+function itemRulesFrom(
+  keyed: Record<string, z.infer<typeof COMPILED_ITEM_RULE_SCHEMA>>
+): ReadonlyArray<ItemRule> {
+  const out: ItemRule[] = []
+  for (const [itemIdKey, entry] of Object.entries(keyed)) {
+    const itemId = Number(itemIdKey)
+    if (!Number.isInteger(itemId)) continue
+    const rule: ItemRule = {
+      id: itemRuleIdFor(itemId),
+      itemId,
+      itemName: "",
+      action: entry.action,
+    }
+    if (entry.destination !== undefined) rule.destination = entry.destination
+    if (entry.targetQuantity !== undefined) rule.stockQuantity = entry.targetQuantity
+    if (entry.stockScope !== undefined) rule.stockScope = entry.stockScope
+    if (entry.destinationChain !== undefined) rule.destinationChain = entry.destinationChain
+    out.push(rule)
+  }
+  return out.sort((one, two) => one.itemId - two.itemId)
 }
 
 export async function loadTemperInventoryConfigFromPath(

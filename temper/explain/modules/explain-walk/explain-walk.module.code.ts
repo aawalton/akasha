@@ -1,3 +1,5 @@
+export const ITEM_RULE_TRACE_INDEX = -1
+
 export interface RuleTraceRow {
   readonly index: number
   readonly ruleId: string | null
@@ -106,6 +108,13 @@ export function formatExplainWalk(out: JsonOutput): string {
         r.verdictDetail ?? "",
         r.resolvedDestination ?? "",
       ].join("\t")
+    )
+  }
+  if (out.perRule.some((one) => one.index === ITEM_RULE_TRACE_INDEX)) {
+    lines.push("")
+    lines.push(
+      "# an item rule is written against this item id, so the addon answers before the ordered " +
+        "walk begins and no category rule is consulted"
     )
   }
   lines.push("")
