@@ -92,6 +92,7 @@ const GATHERING = {
   keys: ["source", "externalId"],
   needs: ["source", "externalId"],
   also: {},
+  where: {},
   to: "externalIdentity",
 }
 
@@ -151,6 +152,34 @@ test("the record spells its fields in the order the keys are handed in", () => {
 
 test("a key the page states no value under is left out of the record", () => {
   expect(recordSpelledAs({ source: "spotify" }, ["source"])).toBe(`{ source: "spotify" }`)
+})
+
+test("only the pages stating what the where names are gathered", async () => {
+  const values: Values = new Map([
+    [ONE_AT, { slug: "one", externalId: "a1", source: "spotify" }],
+    [TWO_AT, { slug: "two", externalId: "b2", source: "musicbrainz" }],
+  ])
+  const world = pagesIn(BODIES, DECLARED, values)
+
+  const said = await movePropertiesIntoARecordOnEveryPage(world, {
+    ...GATHERING,
+    where: { source: "spotify" },
+  })
+
+  expect(said.refused).toBeNull()
+  const bodies = bodiesIn(said, world.base)
+  expect(bodies.get(ONE_AT) ?? "").toContain(RECORD)
+  expect(bodies.has(TWO_AT)).toBe(false)
+})
+
+test("a key the where names under no property of that page type is refused", async () => {
+  const said = await movePropertiesIntoARecordOnEveryPage(pagesIn(BODIES, DECLARED), {
+    ...GATHERING,
+    where: { story: "one" },
+  })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toContain("has no property under `story`")
 })
 
 test("a field handed in is written into the record before the keys gathered", async () => {

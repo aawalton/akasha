@@ -60,6 +60,14 @@ export const movePropertiesIntoARecordOnEveryPage = {
     },
     {
       invariantKind: "departure",
+      statement: "A page stating anything but what the where names is passed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A where is handed in written `key=value`, as a field handed in is.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page missing a key named as needed is passed over rather than refused.",
     },
     {

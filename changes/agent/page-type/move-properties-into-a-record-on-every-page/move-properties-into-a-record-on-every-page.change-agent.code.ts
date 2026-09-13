@@ -19,6 +19,8 @@ const AT_MOST = "at-most"
 
 const ALSO = "also"
 
+const WHERE = "where"
+
 const ADD_PROPERTY_RECORD = "change-mechanical-file-content/add-property-record"
 
 const REMOVE_PAGE_PROPERTY = "change-mechanical-file-content/remove-page-property"
@@ -28,6 +30,7 @@ export type RecordGatheringAsked = {
   readonly keys: readonly string[]
   readonly needs: readonly string[]
   readonly also: Readonly<Record<string, string>>
+  readonly where: Readonly<Record<string, string>>
   readonly to: string
   readonly atMost?: number | null
 }
@@ -79,7 +82,7 @@ export function gatheringIn(
   if (!into.many) {
     return `a \`${given.pageType}\` holds one \`${given.to}\`, and a record is one of many`
   }
-  const stated = [...given.keys, ...Object.keys(given.also)]
+  const stated = [...given.keys, ...Object.keys(given.also), ...Object.keys(given.where)]
   const unknown = stated.find((key) => !carried.some((one) => one.key === key))
   if (unknown !== undefined) {
     return `a \`${given.pageType}\` has no property under \`${unknown}\``
@@ -90,6 +93,7 @@ export function gatheringIn(
     for (const [path, value] of world.index.valuesByPath(kind)) {
       if (atMost !== null && found.length >= atMost) return found
       if (value[given.to] !== undefined) continue
+      if (Object.entries(given.where).some(([key, said]) => value[key] !== said)) continue
       if (given.needs.some((key) => value[key] === undefined)) continue
       if (Object.keys(given.also).some((key) => value[key] !== undefined)) continue
       const keys = given.keys.filter((key) => value[key] !== undefined)
@@ -124,7 +128,7 @@ export async function movePropertiesIntoARecordOnEveryPage(
   return carrier.gatheredIn()
 }
 
-export const takes: readonly string[] = [PAGE_TYPE, KEYS, NEEDS, ALSO, TO, AT_MOST]
+export const takes: readonly string[] = [PAGE_TYPE, KEYS, NEEDS, ALSO, WHERE, TO, AT_MOST]
 
 export function recordAskedIn(given: Asked): RecordGatheringAsked | string {
   const pageType = given[PAGE_TYPE]
@@ -140,9 +144,11 @@ export function recordAskedIn(given: Asked): RecordGatheringAsked | string {
   if (outside !== undefined) return `\`${outside}\` is needed and is no key gathered here`
   const also = fieldsIn(given[ALSO] ?? "")
   if (typeof also === "string") return also
+  const where = fieldsIn(given[WHERE] ?? "")
+  if (typeof where === "string") return where
   const atMost = atMostIn(given[AT_MOST])
   if (typeof atMost === "string") return atMost
-  return { pageType, keys, needs, also, to, atMost }
+  return { pageType, keys, needs, also, where, to, atMost }
 }
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
