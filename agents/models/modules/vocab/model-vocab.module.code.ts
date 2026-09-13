@@ -49,10 +49,6 @@ export function parseModel(raw: string): ModelSpec | null {
   return null
 }
 
-export function toDisplay(spec: ModelSpec): string {
-  return spec.extended ? `${spec.logical} ${EXTENDED_SUFFIX}` : spec.logical
-}
-
 export function toWireId(logical: LogicalModel): string {
   return WIRE_BY_LOGICAL[logical]
 }
@@ -60,12 +56,4 @@ export function toWireId(logical: LogicalModel): string {
 export function toCliAlias(spec: ModelSpec, opts: { readonly extendedAvailable: boolean }): string {
   const extended = opts.extendedAvailable && EXTENDED_CAPABLE_BY_LOGICAL[spec.logical]
   return `${spec.logical}${extended ? EXTENDED_SUFFIX : ""}`
-}
-
-export function isExtendedWire(wireId: string): boolean {
-  return wireId.endsWith(EXTENDED_SUFFIX)
-}
-
-export function stripExtendedWire(wireId: string): string {
-  return splitExtended(wireId)[0]
 }
