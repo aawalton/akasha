@@ -8,7 +8,7 @@ export const inventoryConstants = {
   icon: "file-text",
   apiVersion: "eso.live.12.0.8.3288357",
   manifestApiVersion: 101050,
-  capturedAt: "2026-09-13T19:14:32.040Z",
+  capturedAt: "2026-09-13T19:25:07.783Z",
   generatorRanForVersion: "eso.live.11.3.6.3240040",
   generatorRanForManifestApiVersion: 101049,
   dormant: true,
