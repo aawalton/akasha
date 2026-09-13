@@ -11,6 +11,11 @@ export const theWanderingInn0392MiniStoriesCrabsAndDrinks = {
   ownProgress: 5264,
   unit: "words",
   publishedAt: "2020-01-30",
-  externalLink: "https://wanderinginn.com/2020/01/30/mini-stories-crabs-and-drinks/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2020/01/30/mini-stories-crabs-and-drinks/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

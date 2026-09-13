@@ -11,6 +11,11 @@ export const theWanderingInn0234InterludeTheAntiniumWarsPt3 = {
   ownProgress: 12816,
   unit: "words",
   publishedAt: "2018-06-23",
-  externalLink: "https://wanderinginn.com/2018/06/23/s02-the-antinium-wars-pt-3/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2018/06/23/s02-the-antinium-wars-pt-3/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

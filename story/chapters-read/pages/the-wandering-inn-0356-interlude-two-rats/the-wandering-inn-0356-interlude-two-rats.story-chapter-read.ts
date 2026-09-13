@@ -11,6 +11,11 @@ export const theWanderingInn0356InterludeTwoRats = {
   ownProgress: 24071,
   unit: "words",
   publishedAt: "2019-08-31",
-  externalLink: "https://wanderinginn.com/2019/08/31/interlude-two-rats/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2019/08/31/interlude-two-rats/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -11,6 +11,11 @@ export const theWanderingInn0012InterludeTheGreatRitual = {
   ownProgress: 2738,
   unit: "words",
   publishedAt: "2017-03-03",
-  externalLink: "https://wanderinginn.com/2017/03/03/rwinterlude-the-great-ritual/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2017/03/03/rwinterlude-the-great-ritual/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

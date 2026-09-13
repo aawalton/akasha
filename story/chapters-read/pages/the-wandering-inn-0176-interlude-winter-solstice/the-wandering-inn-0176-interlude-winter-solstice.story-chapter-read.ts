@@ -11,6 +11,11 @@ export const theWanderingInn0176InterludeWinterSolstice = {
   ownProgress: 13010,
   unit: "words",
   publishedAt: "2017-12-30",
-  externalLink: "https://wanderinginn.com/2017/12/30/interlude-4/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2017/12/30/interlude-4/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

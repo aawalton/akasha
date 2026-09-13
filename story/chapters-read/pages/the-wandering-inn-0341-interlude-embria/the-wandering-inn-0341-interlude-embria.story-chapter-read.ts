@@ -11,6 +11,11 @@ export const theWanderingInn0341InterludeEmbria = {
   ownProgress: 22424,
   unit: "words",
   publishedAt: "2019-07-02",
-  externalLink: "https://wanderinginn.com/2019/07/02/interlude-embria/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2019/07/02/interlude-embria/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

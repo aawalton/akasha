@@ -11,6 +11,11 @@ export const theWanderingInn0158InterludeWistramDaysPt1 = {
   ownProgress: 10854,
   unit: "words",
   publishedAt: "2017-11-09",
-  externalLink: "https://wanderinginn.com/2017/11/09/s03-wistram-days-pt-1/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2017/11/09/s03-wistram-days-pt-1/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

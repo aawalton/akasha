@@ -11,6 +11,11 @@ export const theWanderingInn0372InterludeTheTitanSQuestion = {
   ownProgress: 23293,
   unit: "words",
   publishedAt: "2019-11-09",
-  externalLink: "https://wanderinginn.com/2019/11/09/interlude-the-titans-question/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2019/11/09/interlude-the-titans-question/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

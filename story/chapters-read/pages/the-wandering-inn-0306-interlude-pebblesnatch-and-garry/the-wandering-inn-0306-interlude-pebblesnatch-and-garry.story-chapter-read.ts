@@ -11,6 +11,11 @@ export const theWanderingInn0306InterludePebblesnatchAndGarry = {
   ownProgress: 6842,
   unit: "words",
   publishedAt: "2019-02-16",
-  externalLink: "https://wanderinginn.com/2019/02/16/interlude-pebblesnatch-and-garry/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2019/02/16/interlude-pebblesnatch-and-garry/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

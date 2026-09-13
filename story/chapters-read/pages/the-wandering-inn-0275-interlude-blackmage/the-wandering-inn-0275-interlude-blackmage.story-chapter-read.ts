@@ -11,6 +11,11 @@ export const theWanderingInn0275InterludeBlackmage = {
   ownProgress: 12524,
   unit: "words",
   publishedAt: "2018-11-01",
-  externalLink: "https://wanderinginn.com/2018/11/01/interlude-blackmage/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2018/11/01/interlude-blackmage/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

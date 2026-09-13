@@ -11,6 +11,11 @@ export const theWanderingInn0348InterludeNumbtonguePt2 = {
   ownProgress: 28699,
   unit: "words",
   publishedAt: "2019-08-03",
-  externalLink: "https://wanderinginn.com/2019/08/03/interlude-numbtongue-pt-2/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2019/08/03/interlude-numbtongue-pt-2/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

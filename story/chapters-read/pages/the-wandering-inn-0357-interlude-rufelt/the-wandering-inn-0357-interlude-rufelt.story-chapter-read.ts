@@ -11,6 +11,11 @@ export const theWanderingInn0357InterludeRufelt = {
   ownProgress: 9880,
   unit: "words",
   publishedAt: "2019-09-03",
-  externalLink: "https://wanderinginn.com/2019/09/03/interlude-rufelt/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2019/09/03/interlude-rufelt/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -11,6 +11,8 @@ export const theWanderingInn0155329G = {
   ownProgress: 10943,
   unit: "words",
   publishedAt: "2017-10-31",
-  externalLink: "https://wanderinginn.com/2017/10/31/3-29-g/",
+  externalIdentity: [
+    { source: "the-wandering-inn", externalLink: "https://wanderinginn.com/2017/10/31/3-29-g/" },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

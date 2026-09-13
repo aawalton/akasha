@@ -11,6 +11,11 @@ export const theWanderingInn0239TheDepthlessDoctor = {
   ownProgress: 4880,
   unit: "words",
   publishedAt: "2018-07-09",
-  externalLink: "https://wanderinginn.com/2018/07/09/the-depthless-doctor/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2018/07/09/the-depthless-doctor/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead
