@@ -13,7 +13,7 @@ export type Naming = {
   readonly shorthand: boolean
 }
 
-function keyOf(name: ts.Node): string | null {
+export function keyOf(name: ts.Node): string | null {
   return ts.isIdentifier(name) || ts.isStringLiteral(name) ? name.text : null
 }
 
@@ -66,59 +66,6 @@ function declaring(symbol: ts.Symbol | undefined, declared: ReadonlySet<ts.Node>
     if (declared.has(one)) return true
   }
   return false
-}
-
-export function declarationsNamed(typing: Typing, path: string, key: string): readonly ts.Node[] {
-  const source = typing.sourceAt(path)
-  if (source === null) return []
-  const found: ts.Node[] = []
-  const walk = (node: ts.Node): undefined => {
-    if (ts.isPropertySignature(node) && keyOf(node.name) === key) found.push(node)
-    ts.forEachChild(node, walk)
-  }
-  ts.forEachChild(source, walk)
-  return found
-}
-
-export type Keying = {
-  readonly node: ts.Node
-  readonly declares: boolean
-  readonly shorthand: boolean
-  readonly names: readonly ts.Node[]
-  readonly keys: readonly ts.Node[]
-}
-
-function namesOf(typing: Typing, node: ts.Node): readonly ts.Node[] {
-  if (!ts.isShorthandPropertyAssignment(node)) return []
-  return typing.checker.getShorthandAssignmentValueSymbol(node)?.declarations ?? []
-}
-
-function keysOf(typing: Typing, node: ts.Node, name: ts.Node): readonly ts.Node[] {
-  const found = new Set<ts.Node>()
-  for (const one of typing.checker.getSymbolAtLocation(name)?.declarations ?? []) found.add(one)
-  for (const one of contextualIn(typing, node, name)?.declarations ?? []) found.add(one)
-  return [...found]
-}
-
-export function keyingsIn(typing: Typing, path: string, key: string): readonly Keying[] {
-  const source = typing.sourceAt(path)
-  if (source === null) return []
-  const found: Keying[] = []
-  const walk = (node: ts.Node): undefined => {
-    const name = namedIn(node)
-    if (name !== null && keyOf(name) === key) {
-      found.push({
-        node,
-        declares: ts.isPropertySignature(node),
-        shorthand: shorthandIn(node),
-        names: namesOf(typing, node),
-        keys: keysOf(typing, node, name),
-      })
-    }
-    ts.forEachChild(node, walk)
-  }
-  ts.forEachChild(source, walk)
-  return found
 }
 
 export function declaredNamed(typing: Typing, path: string, name: string): readonly ts.Node[] {

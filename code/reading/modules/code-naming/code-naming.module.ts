@@ -37,23 +37,6 @@ export const codeNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "Where a key one file spells resolves is answered beside a shorthand's names.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A shorthand names the key and the value.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A file is read for every place the file spells one key.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A shorthand's names are answered as the declarations the checker resolves that shorthand to.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Respelling a shorthand states the value that shorthand represented.",
     },
     {
