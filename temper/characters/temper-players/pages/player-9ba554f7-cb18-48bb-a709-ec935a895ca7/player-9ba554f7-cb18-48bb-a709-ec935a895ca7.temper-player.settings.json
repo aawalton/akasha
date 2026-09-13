@@ -1198,6 +1198,13 @@
     ],
     "itemRules": [
       {
+        "id": "020e7e28-4807-4dca-b75e-fe8acfd47dfb",
+        "itemId": 999000111,
+        "itemName": "Landing Probe Ember",
+        "action": "nothing",
+        "updatedAt": 1789316679795
+      },
+      {
         "id": "32c22942-9127-47a9-9754-f877b356132b",
         "itemId": 87697,
         "itemName": "Witchmother's Potent Brew",
