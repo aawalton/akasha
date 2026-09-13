@@ -13,6 +13,10 @@ export const renamePageAddress = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "The module restating addresses is called with the one address handed in.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body spelling the address is restated whether or not that body is a page.",
     },
     {

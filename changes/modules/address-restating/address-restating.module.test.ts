@@ -1,8 +1,11 @@
 import { expect, test } from "bun:test"
 import {
   openingsIn,
+  restatedIn,
   restatedOver,
 } from "akasha/changes/modules/address-restating/address-restating.module.code.ts"
+import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import { worldOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const ONE_WAS = ["held-kind", "held-one"].join("/")
 
@@ -69,4 +72,29 @@ test("a path holding no body at all is left alone", () => {
 
 test("the page type of each address is what a body is parsed for", () => {
   expect(openingsIn(MOVED)).toEqual(["held-kind/"])
+})
+
+test("the bodies read are the paths the world holds", () => {
+  const said = restatedIn(worldOf({ [PAGE_AT]: PAGE_BODY, [OTHER_AT]: OTHER_BODY }), MOVED)
+
+  expect(said.refused).toBe(null)
+  expect(said.edits.flatMap(pathsOf)).toEqual([PAGE_AT])
+})
+
+test("an address handed in that is no address refuses the whole answer", () => {
+  const said = restatedIn(worldOf({}), new Map([["held-one", ONE_NOW]]))
+
+  expect(said.refused).toContain("is no address")
+})
+
+test("an address handed in as its own new address refuses the whole answer", () => {
+  const said = restatedIn(worldOf({}), new Map([[ONE_WAS, ONE_WAS]]))
+
+  expect(said.refused).toContain("already carries")
+})
+
+test("a call handing in no address at all is refused", () => {
+  const said = restatedIn(worldOf({}), new Map())
+
+  expect(said.refused).toContain("no address was handed in")
 })

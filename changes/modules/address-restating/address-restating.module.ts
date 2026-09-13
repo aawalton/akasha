@@ -25,12 +25,36 @@ export const addressRestating = {
       statement: "A body spelling no address handed in is read and left alone.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing here says which bodies are read.",
+      invariantKind: "departure",
+      statement: "The bodies read are the paths the world holds once the edits so far have landed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the answer writes is read beside the paths the index lists.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the answer carries away is left out of the bodies read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An address is a page type and a slug parted by `/`, with a scope between them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An address handed in that is no address refuses the whole answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An address handed in as its own new address refuses the whole answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call handing in no address at all is refused.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here judges whether an address is an address.",
+      statement: "A slug naming a page without its page type is left as that slug is.",
     },
     {
       invariantKind: "absence",

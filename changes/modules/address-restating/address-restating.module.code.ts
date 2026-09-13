@@ -1,14 +1,26 @@
-import { splicing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import {
+  refusing,
+  splicing,
+  stating,
+} from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type {
   FileChange,
+  Said,
   Splice,
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { pathsThere, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import ts from "typescript"
 
 const TYPED = /\.tsx?$/
 
 const PARTED_BY = "/"
+
+const ADDRESS =
+  /^[a-z][a-z0-9]*(-[a-z0-9]+)*\/[a-z][a-z0-9]*(-[a-z0-9]+)*(\/[a-z][a-z0-9]*(-[a-z0-9]+)*)?$/
+
+const NO_ADDRESS =
+  "is no address, an address being a page type and a slug parted by `/`, with the scope between them where a page type scopes its slug"
 
 function spellingsOver(
   path: string,
@@ -57,4 +69,27 @@ export function restatedOver(
     edits.push(...splicing(path, text, spots))
   }
   return edits
+}
+
+function refusalIn(moved: ReadonlyMap<string, string>): string | null {
+  if (moved.size === 0) return "no address was handed in, so no address is restated"
+  for (const [was, now] of moved) {
+    if (!ADDRESS.test(was)) return `\`${was}\` ${NO_ADDRESS}`
+    if (!ADDRESS.test(now)) return `\`${now}\` ${NO_ADDRESS}`
+    if (was === now) return `\`${now}\` is the address that page already carries`
+  }
+  return null
+}
+
+export function restatedIn(world: World, moved: ReadonlyMap<string, string>): Said {
+  const why = refusalIn(moved)
+  if (why !== null) return refusing(why)
+  let paths: readonly string[]
+  try {
+    paths = pathsThere(world)
+  } catch (cause) {
+    const held = cause instanceof Error ? cause.message : String(cause)
+    return refusing(`${held}, so no address was restated`)
+  }
+  return stating(restatedOver(paths, world.textOf, moved))
 }
