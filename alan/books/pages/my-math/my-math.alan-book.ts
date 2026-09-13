@@ -4,6 +4,7 @@ export const myMath = {
   id: "01a0659d-311d-7003-87a9-e1b37ba025d3",
   type: "alan-book",
   slug: "my-math",
+  definition: "the mathematics Alan writes down",
   title: "My Math",
   unit: "words",
 } as const satisfies AlanBook

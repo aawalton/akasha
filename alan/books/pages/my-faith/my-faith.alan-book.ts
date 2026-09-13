@@ -4,6 +4,7 @@ export const myFaith = {
   id: "01a0659d-311d-7002-8e73-a2838c9cbd47",
   type: "alan-book",
   slug: "my-faith",
+  definition: "what Alan believes",
   title: "My Faith",
   description: "This is the orientation the `/talia`",
   unit: "words",
