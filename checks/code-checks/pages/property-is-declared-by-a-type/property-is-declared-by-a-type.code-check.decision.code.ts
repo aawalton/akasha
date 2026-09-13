@@ -14,6 +14,8 @@ import {
 
 const PAGE_PROPERTY = "page-property"
 
+const ID = "id"
+
 const DECLARES = ["page-property", "members"] as const
 
 const DECLARED = "properties"
@@ -76,9 +78,10 @@ export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] 
     if (change.after(path) === null) continue
     const held = namedUnder(path, under)
     if (held === null) continue
-    const one = shadow.index.listedByPath(path).find((filed) => filed.path === path)
-    if (one === undefined) continue
-    judge(path, one.id, `${held.pageTypeSlug}/${held.slug}`)
+    const page = shadow.pageOf(path)
+    const id = page === null ? null : textAt(page, ID)
+    if (id === null) continue
+    judge(path, id, `${held.pageTypeSlug}/${held.slug}`)
   }
   return said
 }
