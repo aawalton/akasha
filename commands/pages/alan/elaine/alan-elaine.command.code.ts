@@ -4,7 +4,7 @@ import {
   SNAPSHOT_METRICS,
   summarizeSnapshot,
 } from "akasha/alan/harness/health-samples-import/modules/health-snapshot/health-snapshot.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import { days as daysArgument } from "akasha/commands/arguments/pages/days.argument.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import { macbookFile } from "akasha/commands/arguments/pages/macbook-file.argument.ts"

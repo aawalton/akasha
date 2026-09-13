@@ -1,7 +1,7 @@
 import {
   type TakenFor,
   takenFor,
-} from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
+} from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import type { Read } from "akasha/commands/arguments/modules/word-reading/argument-word-reading.module.code.ts"
 import { clipFrames } from "akasha/commands/arguments/pages/clip-frames.argument.ts"
 import { endImage } from "akasha/commands/arguments/pages/end-image.argument.ts"

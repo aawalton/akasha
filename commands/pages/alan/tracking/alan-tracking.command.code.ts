@@ -5,7 +5,7 @@ import {
 } from "akasha/alan/track/modules/landing/track-landing.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { MECHANICAL_KIND } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import { commitMessage } from "akasha/commands/arguments/pages/commit-message.argument.ts"
 import { contentFile } from "akasha/commands/arguments/pages/content-file.argument.ts"
 import { filePath } from "akasha/commands/arguments/pages/file-path.argument.ts"

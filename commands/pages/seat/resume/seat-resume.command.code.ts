@@ -1,5 +1,5 @@
 import { notices } from "akasha/agents/messaging/notices/modules/compose-notices/compose-notices.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import { force } from "akasha/commands/arguments/pages/force.argument.ts"
 import { notice } from "akasha/commands/arguments/pages/notice.argument.ts"
 import { now } from "akasha/commands/arguments/pages/now.argument.ts"

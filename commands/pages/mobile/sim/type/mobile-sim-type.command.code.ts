@@ -6,7 +6,7 @@ import {
 } from "akasha/alan/harness/mobile-cli/modules/appium-client/appium-client.module.code.ts"
 import { driving } from "akasha/alan/harness/mobile-cli/modules/sim-driver/sim-driver.module.code.ts"
 import type { SimSessionState } from "akasha/alan/harness/mobile-cli/modules/sim-session/sim-session.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import { selector as selectorArgument } from "akasha/commands/arguments/pages/selector.argument.ts"
 import { typedText } from "akasha/commands/arguments/pages/typed-text.argument.ts"
 import {

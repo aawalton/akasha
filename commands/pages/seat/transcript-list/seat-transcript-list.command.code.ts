@@ -1,6 +1,6 @@
 import { akashaSeatsThatExist } from "akasha/agents/seats/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import { akashaSeatRecordOf } from "akasha/agents/seats/modules/akasha-read/seat-akasha-read.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import {
   DATA,
   refusedBy,

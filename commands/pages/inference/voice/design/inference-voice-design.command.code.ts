@@ -3,7 +3,7 @@ import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-c
 import {
   type TakenFor,
   takenFor,
-} from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
+} from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import { instruct as instructArgument } from "akasha/commands/arguments/pages/instruct.argument.ts"
 import { instructFile } from "akasha/commands/arguments/pages/instruct-file.argument.ts"
 import { lang as langArgument } from "akasha/commands/arguments/pages/lang.argument.ts"

@@ -1,6 +1,6 @@
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { loadedAt } from "akasha/changes/runners/modules/change-loading/change-loading.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import { change as changeArgument } from "akasha/commands/arguments/pages/change.argument.ts"
 import {
   applyingKept,

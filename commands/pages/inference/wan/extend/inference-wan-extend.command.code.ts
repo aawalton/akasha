@@ -1,7 +1,7 @@
 import {
   type TakenFor,
   takenFor,
-} from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
+} from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import type { Read } from "akasha/commands/arguments/modules/word-reading/argument-word-reading.module.code.ts"
 import { context } from "akasha/commands/arguments/pages/context.argument.ts"
 import { contextFrames } from "akasha/commands/arguments/pages/context-frames.argument.ts"

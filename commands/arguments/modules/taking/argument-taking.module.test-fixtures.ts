@@ -1,6 +1,6 @@
 import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
-import type { Commanding } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
+import type { Commanding } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import type { Taken } from "akasha/commands/arguments/modules/word-reading/argument-word-reading.module.code.ts"
 
 export const CALLED_AS = "akasha thing"

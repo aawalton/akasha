@@ -11,7 +11,7 @@ import {
 } from "akasha/alan/music/choosing/modules/track-resolving/track-resolving.module.code.ts"
 import { startResumePlayback } from "akasha/alan/music/spotify/modules/player/spotify-player.module.code.ts"
 import { getTrack } from "akasha/alan/music/spotify/modules/tracks/spotify-tracks.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import { artist as artistArgument } from "akasha/commands/arguments/pages/artist.argument.ts"
 import { deviceId as deviceIdArgument } from "akasha/commands/arguments/pages/device-id.argument.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"

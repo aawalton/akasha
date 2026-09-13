@@ -1,5 +1,5 @@
 import { emailGoogle } from "akasha/alan/google/email/modules/email-operations/email-operations.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import { addLabel } from "akasha/commands/arguments/pages/add-label.argument.ts"
 import { message } from "akasha/commands/arguments/pages/message.argument.ts"
 import { removeLabel } from "akasha/commands/arguments/pages/remove-label.argument.ts"

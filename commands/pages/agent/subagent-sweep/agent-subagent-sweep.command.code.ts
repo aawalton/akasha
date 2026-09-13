@@ -43,7 +43,7 @@ import {
   createSubagentReader,
   type SubagentNode,
 } from "akasha/code/editor/extension/modules/subagent-reading/subagent-reading.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import { remove } from "akasha/commands/arguments/pages/remove.argument.ts"
 import {
   answeredWith,
