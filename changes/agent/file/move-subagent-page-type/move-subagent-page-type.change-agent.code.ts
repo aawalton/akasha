@@ -23,17 +23,26 @@ export type MoveSubagentPageTypeAsked = {
   readonly gone: string
 }
 
+type Swept = {
+  readonly said: Answer
+  readonly world: World
+}
+
+async function sweep(world: World, at: string): Promise<Swept> {
+  const said = await reach(world, REMOVE_FOLDER, { at })
+  if (said.said.refused !== null) return { said: gathered([]), world }
+  return said
+}
+
 export async function moveSubagentPageType(
   world: World,
   given: MoveSubagentPageTypeAsked
 ): Promise<Answer> {
-  const swept = await reach(world, REMOVE_FOLDER, { at: given.gone })
-  if (swept.said.refused !== null) return swept.said
+  const swept = await sweep(world, given.gone)
   const to = join(given.to, basename(given.at))
   const moved = await reach(swept.world, MOVE_FILE, { from: given.at, to })
   if (moved.said.refused !== null) return moved.said
-  const born = await reach(moved.world, REMOVE_FOLDER, { at: given.gone })
-  if (born.said.refused !== null) return born.said
+  const born = await sweep(moved.world, given.gone)
   return gathered([swept.said, moved.said, born.said])
 }
 
