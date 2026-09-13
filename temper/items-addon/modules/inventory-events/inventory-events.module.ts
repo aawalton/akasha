@@ -6,4 +6,18 @@ export const inventoryEvents = {
   slug: "inventory-events",
   definition: "the game events the add-on listens to, and what each one refreshes",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A slot the add-on changed at a bank is judged again as any other slot is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Nothing is used or opened while a bank visit still has moves in flight.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A closing bank is what dispatches the uses a visit's withdrawals earned.",
+    },
+  ],
 } as const satisfies Module

@@ -57,6 +57,7 @@ import {
   isDispatchingBank,
   onOpenBank,
 } from "akasha/temper/items-addon/modules/inventory-rules-dispatch-bank/inventory-rules-dispatch-bank.module.code.ts"
+import { isPacedBankRunning } from "akasha/temper/items-addon/modules/inventory-rules-dispatch-bank-paced/inventory-rules-dispatch-bank-paced.module.code.ts"
 import { dispatchEquipActions } from "akasha/temper/items-addon/modules/inventory-rules-dispatch-equip/inventory-rules-dispatch-equip.module.code.ts"
 import { onOpenGuildBank } from "akasha/temper/items-addon/modules/inventory-rules-dispatch-guild-crafting/inventory-rules-dispatch-guild-crafting.module.code.ts"
 import { dispatchGuildBankCurrency } from "akasha/temper/items-addon/modules/inventory-rules-dispatch-guild-currency/inventory-rules-dispatch-guild-currency.module.code.ts"
@@ -296,9 +297,9 @@ export function registerInventoryEvents(): undefined {
         evaluateRules(bagId, slotIndex)
         fireInventoryActionsChanged()
         const action = getPendingAction(bagId, slotIndex)
-        if ((action === "use" || action === "open") && !isOpenQueueActive()) {
-          dispatchUseActions()
-        }
+        if (action !== "use" && action !== "open") return
+        if (isOpenQueueActive() || isPacedBankRunning()) return
+        dispatchUseActions()
       }, 0)
     }
   )
