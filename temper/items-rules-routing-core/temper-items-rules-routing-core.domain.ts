@@ -8,7 +8,7 @@ export const temperItemsRulesRoutingCore = {
   parts: [
     "module/inventory-consolidate-dest",
     "module/inventory-management-plan-route",
-    "module/inventory-management-plan-route-actor",
+
     "module/inventory-management-plan-route-helpers",
     "module/inventory-management-plan-route-steps",
     "module/inventory-management-plan-route-venue",
