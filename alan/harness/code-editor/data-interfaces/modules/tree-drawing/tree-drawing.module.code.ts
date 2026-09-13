@@ -9,6 +9,10 @@ import { colorOfState } from "akasha/agents/seats/modules/turn-color/seat-turn-c
 import { assembleCommandTree } from "akasha/alan/harness/code-editor/data-interfaces/modules/command-tree-assemble/command-tree-assemble.module.code.ts"
 import { assemblePageTree } from "akasha/alan/harness/code-editor/data-interfaces/modules/page-tree-assemble/page-tree-assemble.module.code.ts"
 import {
+  assembleServiceTree,
+  type ServiceNode,
+} from "akasha/alan/harness/code-editor/data-interfaces/modules/service-tree-assemble/service-tree-assemble.module.code.ts"
+import {
   ALAN,
   assembleForest,
   countRunning,
@@ -219,4 +223,21 @@ export function commandTreeLine(root: string): string {
     roots: built.roots.map((node) => commandRow(root, node)),
     unreached: built.unreached,
   } satisfies CommandTreeState)
+}
+
+function serviceRow(root: string, node: ServiceNode): ServiceTreeRow {
+  return {
+    key: node.key,
+    label: node.label,
+    at: wholePath(root, node.at),
+    color: node.color,
+    kind: node.kind,
+    detail: node.detail,
+    children: node.children.map((child) => serviceRow(root, child)),
+  }
+}
+
+export function serviceTreeLine(root: string): string {
+  const roots = assembleServiceTree(root).map((node) => serviceRow(root, node))
+  return JSON.stringify({ roots } satisfies ServiceTreeState)
 }

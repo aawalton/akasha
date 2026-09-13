@@ -23,6 +23,7 @@ import {
   commandTreeLine,
   domainTreeLine,
   pageTreeLine,
+  serviceTreeLine,
   workTreeLine,
 } from "akasha/alan/harness/code-editor/data-interfaces/modules/tree-drawing/tree-drawing.module.code.ts"
 import {
@@ -36,6 +37,7 @@ import {
   typeSlugOf,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
+import { kindsUnder } from "akasha/pages/types/modules/descent/page-type-descent.module.code.ts"
 import {
   MARK_TAIL,
   marksIn,
@@ -49,6 +51,7 @@ const SEAT_TYPE = "01a05035-2609-7463-ba49-ccaf20f5c337"
 const SUBAGENT_TYPE = "01a05978-f2e1-78e7-9017-ab14c5c1d79b"
 const TURN_STATE_TYPE = "01a06924-e882-736f-8cac-465ef2b5d799"
 const INITIATIVE_TYPE = "01a04e58-5735-72b4-b945-56366461c776"
+const SERVICE = "service"
 const SIDECAR = ".uncommitted.ts"
 const STATE_TAIL = ".code-editor-data-interface.state.uncommitted.json"
 const SETTLE_MS = 25
@@ -80,6 +83,15 @@ function within(folder: string, ...endings: readonly string[]): (at: string) => 
 
 function pagesOfType(root: string, pageType: string): readonly string[] {
   return everyOfType(root, typeSlugOf(root, pageType)).map((one) => join(root, one.path))
+}
+
+function servicePages(root: string): readonly string[] {
+  const found: string[] = []
+  for (const kind of kindsUnder(SERVICE, root)) {
+    if (kind === SERVICE) continue
+    for (const one of everyOfType(root, kind)) found.push(join(root, one.path))
+  }
+  return found
 }
 
 function foldersOf(pages: readonly string[]): readonly string[] {
@@ -129,6 +141,7 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
   const subagentFolders = foldersOf(subagentPages)
   const initiativePages = pagesOfType(root, INITIATIVE_TYPE)
   const initiativeFolders = foldersOf(initiativePages)
+  const serviceFolders = foldersOf(servicePages(root))
   const terminals = seatMarksAt(root)
   const readings = watchedFoldersIn(root)
   return new Map<string, Picture>([
@@ -199,6 +212,18 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
         holds: () => false,
         movesWithIndex: true,
         line: () => commandTreeLine(root),
+        held: NOTHING_WRITTEN,
+        waking: null,
+      },
+    ],
+    [
+      "service-tree",
+      {
+        cooldownMs: 1_000,
+        folders: serviceFolders,
+        holds: endingWithin(serviceFolders, SIDECAR),
+        movesWithIndex: true,
+        line: () => serviceTreeLine(root),
         held: NOTHING_WRITTEN,
         waking: null,
       },
