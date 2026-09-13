@@ -27,7 +27,7 @@ afterAll(scratch.sweep)
 
 const SEAT = "agents/seats/pages/tester/tester.seat.ts"
 
-const UNDER = "seat-system/subagents/pages/tester-abc/tester-abc.subagent.ts"
+const UNDER = "agents/subagents/pages/tester-abc/tester-abc.subagent.ts"
 
 const ROW: FileChange = { kind: "remove", path: "one.md" }
 
