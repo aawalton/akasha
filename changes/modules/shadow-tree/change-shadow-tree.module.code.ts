@@ -3,15 +3,35 @@ import { join, relative } from "node:path"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { trackedUnder } from "akasha/git/modules/pathspec/git-pathspec.module.code.ts"
 import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
-import { walkedUnder } from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
+import {
+  claimantOf,
+  type Listing,
+} from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
+import {
+  filesIn,
+  walkedUnder,
+} from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
 
 const OUTSIDE = ".."
+
+function claimingIn(root: string, index: Answering): (path: string) => boolean {
+  const listing: Listing = (folder) => filesIn(root, folder)
+  const pageTypes = index.pageTypesIn()
+  const fileProperties = index.filePropertiesAt()
+  const folders = index.folderPropertiesAt()
+  return (path) =>
+    claimantOf(listing, relative(root, path), pageTypes, fileProperties, folders) !== null
+}
 
 export function treeUnder(root: string, folder: string, index: Answering): readonly string[] {
   const at = join(root, folder)
   if (!existsSync(at)) return []
-  const entering = (path: string): boolean => index.listedByPath(relative(root, path)).length === 0
-  return walkedUnder(at, () => true, entering)
+  const claimed = claimingIn(root, index)
+  return walkedUnder(
+    at,
+    () => true,
+    (path) => !claimed(path)
+  )
     .map((one) => relative(root, one))
     .sort()
 }
@@ -19,9 +39,10 @@ export function treeUnder(root: string, folder: string, index: Answering): reado
 export function treeUnentered(root: string, folder: string, index: Answering): readonly string[] {
   const at = join(root, folder)
   if (!existsSync(at)) return []
+  const claimed = claimingIn(root, index)
   const found: string[] = []
   const entering = (path: string): boolean => {
-    if (index.listedByPath(relative(root, path)).length === 0) return true
+    if (!claimed(path)) return true
     if (walkedUnder(path, () => true).length > 0) found.push(relative(root, path))
     return false
   }

@@ -22,8 +22,7 @@ export const changeShadowTree = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A folder the index files as a page's own is left out of the paths a folder answers.",
+      statement: "A folder a page claims is left out of the paths a folder answers.",
     },
     {
       invariantKind: "departure",
