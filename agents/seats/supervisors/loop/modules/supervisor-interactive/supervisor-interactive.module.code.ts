@@ -4,21 +4,21 @@ import { askReExecJitterMs } from "akasha/agents/seats/self-healing/modules/supe
 import { setSelfHealIdleProbe } from "akasha/agents/seats/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import { bootInteractiveSession } from "akasha/agents/seats/supervisors/boot/modules/supervisor-interactive-boot/supervisor-interactive-boot.module.code.ts"
 import type { InteractiveOpts } from "akasha/agents/seats/supervisors/boot/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
-import type { buildAgentLogRedirect } from "akasha/agents/seats/supervisors/modules/supervisor-console/supervisor-console.module.code.ts"
-import { LIVE_DEFERRED_RESTART_RULE } from "akasha/agents/seats/supervisors/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
 import {
   acquireIterationChild,
   assembleIterationProcess,
   openIteration,
-} from "akasha/agents/seats/supervisors/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"
-import type { RunInteractiveSeams } from "akasha/agents/seats/supervisors/modules/supervisor-interactive-seams/supervisor-interactive-seams.module.code.ts"
-import { finalizeInteractiveExit } from "akasha/agents/seats/supervisors/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"
+} from "akasha/agents/seats/supervisors/loop/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"
+import type { RunInteractiveSeams } from "akasha/agents/seats/supervisors/loop/modules/supervisor-interactive-seams/supervisor-interactive-seams.module.code.ts"
 import {
   settleIterationExit,
   wireIteration,
-} from "akasha/agents/seats/supervisors/modules/supervisor-interactive-wire/supervisor-interactive-wire.module.code.ts"
-import { dispatchPostExitOutcome } from "akasha/agents/seats/supervisors/modules/supervisor-iteration-outcome/supervisor-iteration-outcome.module.code.ts"
-import { buildLoopState } from "akasha/agents/seats/supervisors/modules/supervisor-loop-state/supervisor-loop-state.module.code.ts"
+} from "akasha/agents/seats/supervisors/loop/modules/supervisor-interactive-wire/supervisor-interactive-wire.module.code.ts"
+import { dispatchPostExitOutcome } from "akasha/agents/seats/supervisors/loop/modules/supervisor-iteration-outcome/supervisor-iteration-outcome.module.code.ts"
+import { buildLoopState } from "akasha/agents/seats/supervisors/loop/modules/supervisor-loop-state/supervisor-loop-state.module.code.ts"
+import type { buildAgentLogRedirect } from "akasha/agents/seats/supervisors/modules/supervisor-console/supervisor-console.module.code.ts"
+import { LIVE_DEFERRED_RESTART_RULE } from "akasha/agents/seats/supervisors/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
+import { finalizeInteractiveExit } from "akasha/agents/seats/supervisors/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"
 import type { CarriedAgentName } from "akasha/agents/seats/supervisors/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"
 import type { SeatResume } from "akasha/agents/seats/supervisors/process/modules/supervisor-args/supervisor-args.module.code.ts"
 import { decideBootResume } from "akasha/agents/seats/supervisors/process/modules/supervisor-args/supervisor-args.module.code.ts"
