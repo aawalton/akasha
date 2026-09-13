@@ -35,10 +35,6 @@ export const chapterFiling = {
     },
     {
       invariantKind: "departure",
-      statement: "A chapter stating no such record is known by the flat link it states instead.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A chapter filed here states its link as one record of the wandering inn.",
     },
     {

@@ -15,7 +15,6 @@ import {
   STORY_PAGE_TYPE,
   STORY_SLUG,
 } from "akasha/story/wandering-inn/modules/chapter/chapter.module.code.ts"
-import { textIn } from "akasha/utils/narrow/modules/text-in/text-in.module.code.ts"
 
 const PUT = "change-mechanical/add-file-of-any-kind"
 const PROSE = "prose"
@@ -55,7 +54,7 @@ export function filedChapterLinks(): ReadonlySet<string> {
     const asked = asking(akashaRoot(), {
       pageTypeSlug: CHAPTER_PAGE_TYPE,
       where: { [key]: { is: STORY_ADDRESS } },
-      keys: ["externalLink", IDENTITY],
+      keys: [IDENTITY],
     })
     if ("refused" in asked) {
       throw new FilingRefused(
@@ -64,7 +63,7 @@ export function filedChapterLinks(): ReadonlySet<string> {
       )
     }
     for (const row of asked.rows) {
-      const link = linkFrom(row[IDENTITY], SOURCE) ?? textIn(row["externalLink"])
+      const link = linkFrom(row[IDENTITY], SOURCE)
       if (link !== null) links.add(link)
     }
   }
