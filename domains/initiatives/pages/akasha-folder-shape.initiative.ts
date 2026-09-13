@@ -20,7 +20,7 @@ export const akashaFolderShape = {
     {
       statement: "Every shape allowed by folder-matches-a-shape is clean and approved by Alan.",
       workingMemory:
-        "The check refuses 31 folders at `82554578600`, and none is under `code`, `commands`, `design` or `temper`. Twenty-three are modules under `agents/seats/supervisors` and `agents/subagents` wanting the module's whole slug, since the domain above does not open it. Seven hold no page of their own or hold subfolders no part declares, `agents/seats/modules` alone holding 103. The root is Alan's with ryn. Alan has refused enabling `pages-of-one-type`.\n",
+        "The root matches `a-domain-with-its-parts` since `60b68ecf008`, and `the-workspace-root` is gone. At `1caacb64e06` the check refuses 67 module folders under `agents/seats/*/modules`, each named against the `seat-*` domain above rather than `seat` two levels up, and four of them share their domain's slug. `seat-system` drains as eppie's subagents return. Alan is reorganizing `agents/seats` himself, and the check goes on for change once the root is clean.\n",
     },
     {
       statement: "A check determines whether a folder should be a workspace package.",
