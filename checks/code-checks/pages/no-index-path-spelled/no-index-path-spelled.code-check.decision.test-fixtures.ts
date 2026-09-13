@@ -2,7 +2,7 @@ import { reasonsOver } from "akasha/checks/code-checks/pages/no-index-path-spell
 import {
   founded,
   typed,
-} from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
+} from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import { indexNamed } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { bodiesIn } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"

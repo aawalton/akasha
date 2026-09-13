@@ -12,7 +12,7 @@ import {
   judgingBy,
   landing,
   shadowed,
-} from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
+} from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 
 afterAll(scratch.sweep)

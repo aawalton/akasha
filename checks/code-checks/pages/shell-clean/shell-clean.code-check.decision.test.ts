@@ -24,7 +24,7 @@ import {
   gone,
   landing,
   proposing,
-} from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
+} from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { pathFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"

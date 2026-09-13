@@ -8,7 +8,7 @@ import {
   founded,
   pathFor,
   typed,
-} from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
+} from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const ONE = "01a04d5f-c731-7001-8000-000000000001"

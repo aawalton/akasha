@@ -10,7 +10,7 @@ import {
   withoutGuard,
 } from "akasha/checks/code-checks/pages/tests-pass/tests-pass.code-check.decision.test-fixtures.ts"
 import { onDisk } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
-import { change } from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
+import { change } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 

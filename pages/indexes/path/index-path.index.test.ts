@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { claiming } from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
+import { claiming } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import type { FilePropertiesBy } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import { A } from "akasha/pages/indexes/modules/entries/index-entries.module.test-fixtures.ts"
 import { scratch } from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"

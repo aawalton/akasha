@@ -1,4 +1,4 @@
-import { founded } from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
+import { founded } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { bodiesAt } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"

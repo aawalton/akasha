@@ -7,7 +7,7 @@ import {
   rooted,
   scratch,
 } from "akasha/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.decision.test-fixtures.ts"
-import { change } from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
+import { change } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)

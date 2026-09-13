@@ -7,7 +7,7 @@ import {
   scratch,
   WRITES,
 } from "akasha/checks/code-checks/pages/repository-is-written-by-a-change/repository-is-written-by-a-change.code-check.decision.test-fixtures.ts"
-import { tracked } from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
+import { tracked } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
 

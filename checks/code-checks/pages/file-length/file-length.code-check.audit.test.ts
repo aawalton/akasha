@@ -9,7 +9,7 @@ import {
   letOff,
   scratch,
 } from "akasha/checks/code-checks/pages/file-length/file-length.code-check.decision.test-fixtures.ts"
-import { treed } from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
+import { treed } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 const STRAY = "akasha/stray.ts"

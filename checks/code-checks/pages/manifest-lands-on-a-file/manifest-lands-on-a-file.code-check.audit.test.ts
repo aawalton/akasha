@@ -12,7 +12,7 @@ import {
   rooted,
   scratch,
 } from "akasha/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.decision.test-fixtures.ts"
-import { wrote } from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
+import { wrote } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 
 const UNDER = "akasha-manifest-audit-"
 

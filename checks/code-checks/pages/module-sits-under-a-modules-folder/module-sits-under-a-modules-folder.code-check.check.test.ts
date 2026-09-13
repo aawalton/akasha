@@ -8,7 +8,7 @@ import {
   scratch,
 } from "akasha/checks/code-checks/pages/module-sits-under-a-modules-folder/module-sits-under-a-modules-folder.code-check.decision.test-fixtures.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { landing } from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
+import { landing } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { shadowFor } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 

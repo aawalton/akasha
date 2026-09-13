@@ -12,7 +12,7 @@ import type { Judged } from "akasha/checks/modules/judging/judging.module.code.t
 import {
   change,
   wrote,
-} from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
+} from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { shadowFor } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 

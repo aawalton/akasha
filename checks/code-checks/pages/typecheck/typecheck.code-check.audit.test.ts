@@ -5,7 +5,7 @@ import {
   numbered,
 } from "akasha/checks/code-checks/pages/typecheck/typecheck.code-check.decision.test-fixtures.ts"
 import { scratch } from "akasha/checks/modules/staging/check-staging.module.code.ts"
-import { tracked } from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
+import { tracked } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
 

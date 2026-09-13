@@ -6,7 +6,7 @@ import {
   UNCLAIMED,
   unclaimedAt,
 } from "akasha/checks/code-checks/pages/file-has-its-page/file-has-its-page.code-check.decision.code.ts"
-import { claiming } from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
+import { claiming } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { noPathsFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"

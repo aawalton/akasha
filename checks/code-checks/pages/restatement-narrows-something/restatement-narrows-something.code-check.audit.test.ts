@@ -13,7 +13,7 @@ import {
 import {
   pathFor,
   tracked,
-} from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
+} from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
 

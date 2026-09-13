@@ -1,4 +1,4 @@
-import { founded } from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
+import { founded } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 export const LOOSE_AT = "akasha/one/answering/answering.module.ts"

@@ -8,7 +8,7 @@ import {
   founded,
   typed,
   wrote,
-} from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
+} from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import {
   listedFiled,
   valueAlsoFiled,

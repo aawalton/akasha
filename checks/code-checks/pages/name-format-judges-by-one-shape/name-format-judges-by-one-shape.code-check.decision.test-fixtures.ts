@@ -5,7 +5,7 @@ import {
   refusalsOver,
 } from "akasha/checks/code-checks/pages/name-format-judges-by-one-shape/name-format-judges-by-one-shape.code-check.decision.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { change } from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
+import { change } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import {
   idFiled,
   listedFiled,
