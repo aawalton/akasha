@@ -3,6 +3,7 @@ import {
   bodyOf,
   overEachFile,
   overEachText,
+  pageTypesFor,
   textIn,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
@@ -15,7 +16,11 @@ import {
   objectIn,
 } from "akasha/code/workspaces/modules/package-manifest/package-manifest.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
-import { pageOf, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import {
+  pageNamed,
+  pageOf,
+  partedIn,
+} from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { matchingIn } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"
 import type { Matching } from "akasha/pages/name-formats/modules/name-matching/name-matching.module.code.ts"
@@ -169,14 +174,14 @@ export function holdingIn(packages: readonly Package[], path: string): Package |
 }
 
 export function pageIn(shadow: Shadow): (at: string) => boolean {
-  const listed = (at: string): boolean =>
-    shadow.index.listedByPath(at).some((one) => one.path === at)
+  const kinds = pageTypesFor(shadow)
+  const named = (at: string): boolean => pageNamed(at, kinds)
   return (at) => {
-    if (listed(at)) return true
+    if (named(at)) return true
     const said = partedIn(at)
     if (said === null || said.sections.length !== 1) return false
     if (said.sections[0] !== types.propertySlug) return false
-    return listed(join(dirname(at), `${pageOf(said)}${TS}`))
+    return named(join(dirname(at), `${pageOf(said)}${TS}`))
   }
 }
 

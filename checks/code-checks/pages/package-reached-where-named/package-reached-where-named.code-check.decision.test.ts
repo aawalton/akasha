@@ -237,23 +237,22 @@ test("a scope carrying nothing past the at sign is refused", () => {
 
 const WRITTEN = `${FOLDER}/index/index-import/index-import.index.types.ts`
 
-function filed(paths: readonly string[]) {
-  const listed = (at: string) => (paths.includes(at) ? [{ path: at }] : [])
-  return pageIn({ index: { listedByPath: listed } } as never)
+function paged(kinds: readonly string[]) {
+  return pageIn({ index: { pageTypesIn: () => new Set(kinds) } } as never)
 }
 
-test("a page the index files under its own path is reached from anywhere", () => {
-  expect(filed([PAGE])(PAGE)).toBe(true)
+test("a file named as a page of a page type there is reached from anywhere", () => {
+  expect(paged(["index"])(PAGE)).toBe(true)
 })
 
 test("the written type beside a page is reached wherever that page is", () => {
-  expect(filed([PAGE])(WRITTEN)).toBe(true)
+  expect(paged(["index"])(WRITTEN)).toBe(true)
 })
 
-test("a written type beside no page the index files is reached only where a manifest names it", () => {
-  expect(filed([])(WRITTEN)).toBe(false)
+test("a written type beside a name of no page type is reached only where a manifest names it", () => {
+  expect(paged([])(WRITTEN)).toBe(false)
 })
 
 test("a file beside a page under another section is reached only where a manifest names it", () => {
-  expect(filed([SHAPE.replace(".module.code.ts", ".module.ts")])(SHAPE)).toBe(false)
+  expect(paged(["module"])(SHAPE)).toBe(false)
 })
