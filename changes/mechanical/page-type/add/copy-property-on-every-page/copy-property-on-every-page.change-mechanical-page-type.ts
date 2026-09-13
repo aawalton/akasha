@@ -11,6 +11,8 @@ export const copyPropertyOnEveryPage = {
     "one key's value written under another key on every page of one page type, the first key staying",
   takesAtMost: true,
   code: "ts",
+  test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
