@@ -7,8 +7,14 @@ import type {
 import {
   placingOver,
   readingOf,
+  SETTINGS,
 } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import type ts from "typescript"
+
+export const NOWHERE: Placing = new Map()
+
+export const WITHOUT_BROWSER: ts.CompilerOptions = { ...SETTINGS, lib: ["lib.esnext.d.ts"] }
 
 export const PACKAGED = "node_modules/@akasha"
 

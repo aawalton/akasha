@@ -13,7 +13,7 @@ const PACKAGES = "node_modules"
 
 const MANIFEST = "package.json"
 
-const SETTINGS: ts.CompilerOptions = {
+export const SETTINGS: ts.CompilerOptions = {
   noEmit: true,
   strict: true,
   noUncheckedIndexedAccess: true,
@@ -24,8 +24,6 @@ const SETTINGS: ts.CompilerOptions = {
   skipLibCheck: true,
   jsx: ts.JsxEmit.ReactJSX,
 }
-
-export const WITHOUT_BROWSER: ts.CompilerOptions = { ...SETTINGS, lib: ["lib.esnext.d.ts"] }
 
 export type Reading = (at: string) => string | undefined
 
@@ -61,8 +59,6 @@ export function insideOf(root: string, at: string): string | null {
 export type Bodies = (path: string) => string | null
 
 export type Placing = ReadonlyMap<string, string>
-
-export const NOWHERE: Placing = new Map()
 
 export function placingOver(every: readonly string[], textOf: Bodies): Placing {
   const found = new Map<string, string>()

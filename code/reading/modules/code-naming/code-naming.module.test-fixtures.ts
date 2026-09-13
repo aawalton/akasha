@@ -4,9 +4,11 @@ import {
   insideOf,
   placingOver,
   typingOver,
-  WITHOUT_BROWSER,
 } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
-import { wrote } from "akasha/code/reading/modules/code-typing/code-typing.module.test-fixtures.ts"
+import {
+  WITHOUT_BROWSER,
+  wrote,
+} from "akasha/code/reading/modules/code-typing/code-typing.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 export const KEYS_SAID =
