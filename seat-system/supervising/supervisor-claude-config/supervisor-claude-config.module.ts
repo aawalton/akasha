@@ -22,5 +22,13 @@ export const supervisorClaudeConfig = {
       invariantKind: "departure",
       statement: "A declaration that cannot be read leaves the account's own file untouched.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The declaration sits inside the akasha folder rather than beside an account.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That folder is found by walking up rather than by folders counted up.",
+    },
   ],
 } as const satisfies Module
