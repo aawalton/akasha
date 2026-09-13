@@ -106,13 +106,6 @@ function seatStating(handle: string, root: string = seatRoot()): Record<string, 
   return values
 }
 
-export function seatSaying(handle: string, key: string, root: string = seatRoot()): string {
-  const held = seatStating(handle, root)?.[key]
-  if (typeof held === "string") return held
-  if (typeof held === "number" && Number.isFinite(held)) return String(held)
-  return ""
-}
-
 function said(argv: readonly string[]): string {
   const [handle, ...keys] = argv
   if (handle === undefined || keys.length === 0) return ""
