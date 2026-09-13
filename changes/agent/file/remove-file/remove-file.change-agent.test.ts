@@ -1,12 +1,10 @@
 import { expect, test } from "bun:test"
 import { removeFile } from "akasha/changes/agent/file/remove-file/remove-file.change-agent.code.ts"
-import { runChange as removeFileMechanical } from "akasha/changes/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.code.ts"
-import { refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import {
   NOTHING_OVER,
-  type Reaching,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 
 const ASKED = "the world was asked"
 
@@ -46,17 +44,9 @@ const UNASKED: World = {
   over: NOTHING_OVER,
 }
 
-const RUNS: Reaching = (world, at, given) => {
-  if (at !== REMOVE_FILE) {
-    return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
-  }
-  const asked = given as Parameters<typeof removeFileMechanical>[1]
-  return Promise.resolve(removeFileMechanical(world, asked))
-}
-
 function worldOf(held: Readonly<Record<string, string>>): World {
   const textOf = (path: string): string | null => held[path] ?? null
-  return { ...UNASKED, textOf, bodyOf: textOf, base: textOf, reaching: RUNS }
+  return { ...UNASKED, textOf, bodyOf: textOf, base: textOf, reaching: running }
 }
 
 test("a path the tree holds a body for is answered as one edit taking that path away", async () => {

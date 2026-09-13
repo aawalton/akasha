@@ -1,13 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
 import { renameCodeToken } from "akasha/changes/agent/file-content/rename-code-token/rename-code-token.change-agent.code.ts"
-import { runChange as renameExport } from "akasha/changes/mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
-import { runChange as renameLocalVariable } from "akasha/changes/mechanical/file-content/rename/rename-local-variable/rename-local-variable.change-mechanical-file-content.code.ts"
-import { pathsIn, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import { pathsIn } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,
   type World,
   worldAt,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
   HELD_CODE,
   HELD_EXPORT,
@@ -50,15 +49,7 @@ export const held: Kept = { one: 1 }
 `
 
 function worldIn(root: string, textOf: (path: string) => string | null): World {
-  return worldAt(root, textOf, async (world, at, given) => {
-    if (at === "change-mechanical-file-content/rename-export") {
-      return renameExport(world, given as Parameters<typeof renameExport>[1])
-    }
-    if (at === "change-mechanical-file-content/rename-local-variable") {
-      return renameLocalVariable(world, given as Parameters<typeof renameLocalVariable>[1])
-    }
-    return refusing(`\`${at}\` is reached by nothing here`)
-  })
+  return worldAt(root, textOf, running)
 }
 
 function heldIn(root: string, at: string, body: string): World {

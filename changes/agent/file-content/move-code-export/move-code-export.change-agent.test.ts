@@ -1,14 +1,12 @@
 import { expect, test } from "bun:test"
 import { moveCodeExportCommand } from "akasha/changes/agent/file-content/move-code-export/move-code-export.change-agent.code.ts"
-import { runChange as changeFileContent } from "akasha/changes/mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.code.ts"
-import { runChange as moveCodeExport } from "akasha/changes/mechanical/file-content/move/move-code-export/move-code-export.change-mechanical.code.ts"
 import { addedAt } from "akasha/changes/mechanical/file-content/move/move-code-export/move-code-export.change-mechanical.test-fixtures.ts"
-import { refusing, stating } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import {
+  ledgerAt,
   NOTHING_OVER,
-  type Reaching,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 
 const MOVED = "change-mechanical/move-code-export"
 
@@ -36,39 +34,15 @@ export type Wraps = {
 }
 `
 
-type Passage = { at: string; old: string; new: string }
-
-type Adding = { at: string; body: string }
-
-type Moving = { from: string; to: string; of: string }
-
-const RUNS: Reaching = (world, at, given) => {
-  if (at === MOVED) return moveCodeExport(world, given as Moving)
-  if (at === "change-mechanical-file-content/change-file-content") {
-    return Promise.resolve(changeFileContent(world, given as Passage))
-  }
-  if (at === "change-mechanical/add-file-code") {
-    const asked = given as Adding
-    return Promise.resolve(stating([{ kind: "add", path: asked.at, content: asked.body }]))
-  }
-  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
-}
-
 function worldOf(held: Readonly<Record<string, string>>, importers: readonly string[] = []): World {
-  return {
-    root: "/nowhere",
-    index: {
-      importersOf: () => importers,
-      fileKeysAt: () => new Map(),
-      manifestsBeside: () => [],
-    } as never,
-    textOf: (path) => held[path] ?? null,
-    bodyOf: (path) => held[path] ?? null,
-    under: () => [],
-    base: (path) => held[path] ?? null,
-    over: NOTHING_OVER,
-    reaching: RUNS,
-  }
+  const index = {
+    importersOf: () => importers,
+    fileKeysAt: () => new Map(),
+    manifestsBeside: () => [],
+    entryShapesAt: () => new Set<string>(),
+  } as never
+  const ledger = ledgerAt("/nowhere", (path) => held[path] ?? null, running)
+  return Object.defineProperty(ledger, "index", { value: index, enumerable: true })
 }
 
 test("the three arguments are answered as the edits the move leaves", async () => {

@@ -1,17 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
 import { changePagePageType } from "akasha/changes/agent/file/change-page-page-type/change-page-page-type.change-agent.code.ts"
-import { runChange as moveFile } from "akasha/changes/mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
-import { runChange as changeFile } from "akasha/changes/mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.code.ts"
-import { runChange as restatePageType } from "akasha/changes/mechanical/file-content/change/change-page-page-type/change-page-page-type.change-mechanical-file-content.code.ts"
-import { runChange as changeImports } from "akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
-import { runChange as renamePageAddress } from "akasha/changes/mechanical/file-content/rename/rename-page-address/rename-page-address.change-mechanical-file-content.code.ts"
-import { pathsIn, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import { pathsIn } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,
-  type Reaching,
   type World,
   worldAt,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
   bodyOf,
   idOf,
@@ -89,29 +84,8 @@ function repoIn(): string {
   })
 }
 
-const RUNS: Reaching = (world, at, given) => {
-  if (at === "change-mechanical-file/move-file") {
-    return Promise.resolve(moveFile(world, given as Parameters<typeof moveFile>[1]))
-  }
-  if (at === "change-mechanical-file-content/change-file-content") {
-    return Promise.resolve(changeFile(world, given as Parameters<typeof changeFile>[1]))
-  }
-  if (at === "change-mechanical-file-content/change-page-page-type") {
-    return restatePageType(world, given as Parameters<typeof restatePageType>[1])
-  }
-  if (at === "change-mechanical-file-content/change-imports") {
-    return Promise.resolve(changeImports(world, given as Parameters<typeof changeImports>[1]))
-  }
-  if (at === "change-mechanical-file-content/rename-page-address") {
-    return Promise.resolve(
-      renamePageAddress(world, given as Parameters<typeof renamePageAddress>[1])
-    )
-  }
-  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
-}
-
 function worldIn(root: string): World {
-  return worldAt(root, textIn(root), RUNS)
+  return worldAt(root, textIn(root), running)
 }
 
 test("a page stated as another page type is carried to the name that type spells", async () => {
@@ -178,7 +152,7 @@ test("each part of the retype is reached at the address that part names", async 
   const root = repoIn()
   const world = worldAt(root, textIn(root), (over, at, given) => {
     reached.push(at)
-    return RUNS(over, at, given)
+    return running(over, at, given)
   })
 
   const said = await changePagePageType(world, { at: ONE_PAGE, to: SPARE_TYPE })
