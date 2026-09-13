@@ -10,7 +10,7 @@ export const sophiaAgentStopHook = {
     {
       statement: "No clean turn Alan has labelled draws a refusal from the live judge.",
       workingMemory:
-        "`no-commentary-kept` and `subagent-brief-kept` refuse none of the 214 over two runs each, and four more runs over the clean cases alone are measuring, which would bound them under one in 430. `directive-kept` and `one-at-a-time-kept` each refuse one or two, and no wording mends it: three clock wordings refused three different clean turns. Zero over two runs only bounds the rate under one in 140. One turn the key calls clean sizes unfinished work twice, so a correct judge is forced to look wrong.",
+        "Met at the rate Alan accepts. Against the mended key `no-commentary-kept` refuses none of 832 clean judgements over four runs, `subagent-brief-kept` one, `directive-kept` none over two runs, `one-at-a-time-kept` none and then one. Six labels were wrong and are mended: most of what read as a judge refusing a clean turn was the key naming a breach clean. Four hard cases wait on Alan, the largest being ten turns that name their next action and are called clean while their twins are breaches.",
     },
     {
       statement:
