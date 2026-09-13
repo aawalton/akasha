@@ -2,6 +2,7 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Reading } from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import { blobIdOf, readingIn } from "akasha/agents/modules/read-record/read-record.module.code.ts"
+import { agentPaged } from "akasha/agents/modules/read-record/read-record.module.test-fixtures.ts"
 import { filePath } from "akasha/commands/arguments/pages/file-path.argument.ts"
 import { full as fullArgument } from "akasha/commands/arguments/pages/full.argument.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -54,6 +55,7 @@ export function rootWith(
   named: readonly { readonly at: string; readonly body: string | Uint8Array }[]
 ): string {
   const root = scratch.rootFor("akasha-read-")
+  agentPaged(root, AGENT)
   for (const one of named) {
     const at = join(root, one.at)
     mkdirSync(at.slice(0, at.lastIndexOf("/")), { recursive: true })
