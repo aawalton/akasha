@@ -11,7 +11,7 @@ export const athenaCommandFolders = {
     {
       statement: "A parts list is sorted, and no reader depends on the order it is written in.",
       workingMemory:
-        "`parts-list-is-sorted` measures 0 refusals: `parts` says it is sorted on its property page and `add-property-value` reads that off the shape. `calling`'s `heldUnder` sorts by name at `1fb02ba85cf`, so a suggestion no longer depends on where a name was typed. Two readers are left, both carrying the Domains panel's number: `domain-rows` into the extension, and `tree-drawing`. A rename can still unsort a list. Alan's: `record`, `number`, or `none`?\n",
+        "The panel no longer takes the written order: `ordered()` reads `sequence` as a membership set, ranking against kin sorted by slug, tested at `f1991bc10c0`. Two order-dependent readers are left, neither the panel: `command-leveling:66` lifts `parts` verbatim and `command-walking:84` takes `found[0]`, so written order settles which command an ambiguous word reaches. `mobile-app:180` first-wins. Sortedness is open too: `command.page-type.ts` is 1 of 750 unsorted and its check is `experimental`.\n",
     },
   ],
 } as const satisfies Initiative
