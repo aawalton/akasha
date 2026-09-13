@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { existsSync, mkdirSync, mkdtempSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { readBack } from "akasha/pages/modules/entries/page-entries.module.test-fixtures.ts"
-import { landedAt } from "akasha/pages/modules/entry-landing/page-entry-landing.module.code.ts"
+import { landedAt } from "akasha/pages/modules/entry-landing/page-entry-landing.module.test-fixtures.ts"
 import {
   type Queue,
   queueAt,

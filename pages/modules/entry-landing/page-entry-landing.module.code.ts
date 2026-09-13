@@ -1,11 +1,7 @@
 import { Buffer } from "node:buffer"
-import { appendFileSync, readFileSync, rmSync, statSync, writeFileSync } from "node:fs"
+import { readFileSync, rmSync, statSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import {
-  lineFor,
-  linesOver,
-  partsOverLines,
-} from "akasha/pages/modules/entry-writing/page-entry-writing.module.code.ts"
+import { partsOverLines } from "akasha/pages/modules/entry-writing/page-entry-writing.module.code.ts"
 import { FIRST_PART } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import {
   partAt,
@@ -13,7 +9,6 @@ import {
   uncommittedPartAt,
   uncommittedPartsOf,
 } from "akasha/pages/modules/file-parts/page-file-parts.module.code.ts"
-import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const NO_NAME = "is no page file, so the files beside that page have no name"
 
@@ -29,8 +24,6 @@ export type Filling = {
 export type Filled = { readonly filling: Filling } | { readonly refused: string }
 
 export type Landed = { readonly paths: readonly string[] } | { readonly refused: string }
-
-type Chunk = { path: string; text: string }
 
 export function bytesIn(text: string): number {
   return Buffer.byteLength(text, "utf8")
@@ -93,35 +86,6 @@ export function rolledInto(
   return { filling: { path: next, part, filled: size, uncommitted: filling.uncommitted } }
 }
 
-function chunked(into: Chunk[], path: string, text: string): undefined {
-  const last = into.at(-1)
-  if (last !== undefined && last.path === path) last.text += text
-  else into.push({ path, text })
-}
-
-export function appendedAt(
-  root: string,
-  page: string,
-  propertySlug: string,
-  held: string,
-  values: Iterable<Value>,
-  ceiling: number
-): Landed {
-  const opened = openedAt(root, page, propertySlug, held)
-  if ("refused" in opened) return opened
-  let filling = opened.filling
-  const chunks: Chunk[] = []
-  for (const one of values) {
-    const line = lineFor(one)
-    const rolled = rolledInto(page, propertySlug, held, filling, bytesIn(line), ceiling)
-    if ("refused" in rolled) return rolled
-    filling = rolled.filling
-    chunked(chunks, filling.path, line)
-  }
-  for (const one of chunks) appendFileSync(join(root, one.path), one.text)
-  return { paths: chunks.map((one) => one.path) }
-}
-
 function pastAt(
   root: string,
   page: string,
@@ -167,16 +131,4 @@ export function landedLinesAt(
     paths.push(gone)
   }
   return { paths }
-}
-
-export function landedAt(
-  root: string,
-  page: string,
-  propertySlug: string,
-  held: string,
-  values: Iterable<Value>,
-  ceiling: number,
-  uncommitted = false
-): Landed {
-  return landedLinesAt(root, page, propertySlug, held, linesOver(values), ceiling, uncommitted)
 }

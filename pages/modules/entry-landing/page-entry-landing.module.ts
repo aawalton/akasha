@@ -7,6 +7,7 @@ export const pageEntryLanding = {
   definition: "a page's entry values put on the disk beside that page",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -31,10 +32,6 @@ export const pageEntryLanding = {
     {
       invariantKind: "departure",
       statement: "A file numbered past the last file written is taken away.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Appending adds to the last numbered file rather than rewriting that file.",
     },
     {
       invariantKind: "departure",
@@ -65,12 +62,6 @@ export const pageEntryLanding = {
     {
       invariantKind: "departure",
       statement: "A value rolls into a file named as the file that value rolled out of is named.",
-    },
-
-    {
-      invariantKind: "departure",
-      statement:
-        "Appending one value at a time divides the files as writing every value at once does.",
     },
     {
       invariantKind: "departure",

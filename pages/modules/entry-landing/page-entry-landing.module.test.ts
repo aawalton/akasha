@@ -10,12 +10,12 @@ import {
 import { join } from "node:path"
 import { readBack } from "akasha/pages/modules/entries/page-entries.module.test-fixtures.ts"
 import {
-  appendedAt,
-  landedAt,
+  type Filling,
   landedLinesAt,
   openedAt,
   rolledInto,
 } from "akasha/pages/modules/entry-landing/page-entry-landing.module.code.ts"
+import { landedAt } from "akasha/pages/modules/entry-landing/page-entry-landing.module.test-fixtures.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const SCRATCH_AT = "/var/tmp"
@@ -57,10 +57,10 @@ function landed(root: string, values: readonly Value[], ceiling: number): readon
   return made.paths
 }
 
-function appended(root: string, values: readonly Value[], ceiling: number): readonly string[] {
-  const made = appendedAt(root, PAGE, SLUG, HELD, values, ceiling)
+function fillingOf(root: string): Filling {
+  const made = openedAt(root, PAGE, SLUG, HELD)
   if ("refused" in made) throw new Error(made.refused)
-  return made.paths
+  return made.filling
 }
 
 test("a property's values land in the files page-entry-writing names, made where absent", () => {
@@ -102,59 +102,37 @@ test("a property carrying no value is written as one file holding nothing", () =
   expect(readBack(root, PAGE, SLUG, HELD)).toEqual([])
 })
 
-test("appending adds to the last numbered file rather than rewriting that file", () => {
-  const root = rooted()
-  landed(root, [{ at: 1 }, { at: 2 }], WIDE)
-
-  expect(appended(root, [{ at: 3 }], WIDE)).toEqual([FIRST])
-  expect(readFileSync(join(root, FIRST), "utf8")).toBe('{"at":1}\n{"at":2}\n{"at":3}\n')
-  expect(existsSync(join(root, SECOND))).toBe(false)
-})
-
 test("the bytes already in a file count toward the ceiling and a value rolls on", () => {
   const root = rooted()
   landed(root, [{ at: 1 }], WIDE)
+  const filling = fillingOf(root)
+  const rolled = rolledInto(PAGE, SLUG, HELD, filling, 9, 12)
 
-  expect(appended(root, [{ at: 2 }], 12)).toEqual([SECOND])
-  expect(readBack(root, PAGE, SLUG, HELD)).toEqual([{ at: 1 }, { at: 2 }])
+  expect(filling.filled).toBe(9)
+  expect("refused" in rolled ? rolled.refused : rolled.filling.path).toBe(SECOND)
 })
 
 test("a file's fill is read from that file's size rather than from that file's text", () => {
   const root = rooted()
   writeFileSync(join(root, FIRST), "x".repeat(20))
 
-  expect(appended(root, [{ at: 2 }], 25)).toEqual([SECOND])
-})
-
-test("appending one value at a time divides the files as writing every value at once does", () => {
-  const at = rooted()
-  const over = rooted()
-  landed(at, THREE, NARROW)
-  for (const one of THREE) appended(over, [one], NARROW)
-
-  expect(readdirSync(join(over, DIR)).sort()).toEqual(readdirSync(join(at, DIR)).sort())
-  expect(readFileSync(join(over, FIRST), "utf8")).toBe(readFileSync(join(at, FIRST), "utf8"))
-  expect(readFileSync(join(over, SECOND), "utf8")).toBe(readFileSync(join(at, SECOND), "utf8"))
+  expect(fillingOf(root).filled).toBe(20)
 })
 
 test("one value running past the ceiling alone is refused rather than divided", () => {
   const root = rooted()
-  const over = appendedAt(root, PAGE, SLUG, HELD, [{ at: 1 }], 4)
   const whole = landedAt(root, PAGE, SLUG, HELD, [{ at: 1 }], 4)
 
-  expect("refused" in over && over.refused).toContain("no value is divided")
   expect("refused" in whole && whole.refused).toContain("no value is divided")
 })
 
 test("writing beside a page that is not there is refused, naming that page", () => {
   const root = mkdtempSync(join(SCRATCH_AT, "akasha-page-entry-landing-bare-"))
   const whole = landedAt(root, PAGE, SLUG, HELD, THREE, WIDE)
-  const more = appendedAt(root, PAGE, SLUG, HELD, THREE, WIDE)
-  const opened = openedAt(root, PAGE, SLUG, HELD)
+  const held = openedAt(root, PAGE, SLUG, HELD)
 
   expect("refused" in whole && whole.refused).toContain(PAGE)
-  expect("refused" in more && more.refused).toContain(PAGE)
-  expect("refused" in opened && opened.refused).toContain(PAGE)
+  expect("refused" in held && held.refused).toContain(PAGE)
   expect(existsSync(join(root, DIR))).toBe(false)
 })
 
@@ -162,7 +140,7 @@ test("a path that is no page file is refused rather than named", () => {
   const root = rooted()
   const stray = `${DIR}/held.jsonl`
   writeFileSync(join(root, stray), "")
-  const made = appendedAt(root, stray, SLUG, HELD, THREE, WIDE)
+  const made = landedAt(root, stray, SLUG, HELD, THREE, WIDE)
 
   expect("refused" in made && made.refused).toContain("no page file")
 })
@@ -222,12 +200,13 @@ test("a landing divides a line handed over already formed rather than making it 
   expect(readFileSync(join(root, FIRST), "utf8")).toBe(said)
 })
 
-test("appending leaves a file already past the ceiling past it", () => {
+test("a file already past the ceiling is left past it, and a value rolls on from it", () => {
   const root = rooted()
   const over = "x".repeat(NARROW * 2)
   writeFileSync(join(root, FIRST), over)
+  const rolled = rolledInto(PAGE, SLUG, HELD, fillingOf(root), 9, NARROW)
 
-  expect(appended(root, [{ at: 1 }], NARROW)).toEqual([SECOND])
+  expect("refused" in rolled ? rolled.refused : rolled.filling.path).toBe(SECOND)
   expect(readFileSync(join(root, FIRST), "utf8")).toBe(over)
 })
 
