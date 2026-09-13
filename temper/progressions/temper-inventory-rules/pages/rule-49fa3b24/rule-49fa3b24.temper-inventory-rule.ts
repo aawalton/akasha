@@ -7,7 +7,7 @@ export const rule49fa3b24 = {
   title: "Toys → destroy",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "trophy-toys",
-  displayOrder: 61,
+  displayOrder: 62,
   action: "destroy",
   active: true,
   updatedAt: "2026-05-07T15:58:15.050Z",
