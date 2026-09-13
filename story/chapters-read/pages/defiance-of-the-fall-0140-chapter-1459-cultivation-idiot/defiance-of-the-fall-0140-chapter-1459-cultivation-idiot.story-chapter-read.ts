@@ -1,0 +1,18 @@
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
+
+export const defianceOfTheFall0140Chapter1459CultivationIdiot = {
+  id: "01a09bf2-0227-7112-85ab-b0d3c497bfb4",
+  type: "story-chapter-read",
+  slug: "defiance-of-the-fall-0140-chapter-1459-cultivation-idiot",
+  position: 140,
+  publishedAt: "2026-09-13",
+  unit: "words",
+  externalId: "3953620",
+  source: "royal-road",
+  title: "Chapter 1,459 - Cultivation Idiot",
+  story: "story-read/defiance-of-the-fall",
+  ownLength: 2907,
+  externalLink:
+    "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3953620/chapter-1459-cultivation-idiot",
+  prose: "txt",
+} as const satisfies StoryChapterRead
