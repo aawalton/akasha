@@ -34,6 +34,10 @@ export const pagesOfTheTypeAbove = {
       statement: "The folder has no file beside a page file.",
     },
     {
+      invariantKind: "absence",
+      statement: "A file held uncommitted beside a page is no file beside that page here.",
+    },
+    {
       invariantKind: "departure",
       statement:
         "Each subfolder has one page of that page type or one page that page type declares a part.",

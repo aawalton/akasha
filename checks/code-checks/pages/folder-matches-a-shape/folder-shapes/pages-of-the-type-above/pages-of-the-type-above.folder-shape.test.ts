@@ -95,6 +95,11 @@ test("a page carrying a file beside it is refused, and the reason names that pag
   expect(said[0]).toContain("a folder of its own")
 })
 
+test("a file held uncommitted beside a page leaves that page taking the shape", () => {
+  const names = ["one.code-check.ts", "one.code-check.test.uncommitted.jsonl"]
+  expect(pagesOfTheTypeAbove(folder(names))).toEqual([])
+})
+
 test("a page file beside a page folder is refused, and the reason names the file", () => {
   const held = over(["two/two.code-check.ts"])
   const said = pagesOfTheTypeAbove(held(["one.code-check.ts"]))

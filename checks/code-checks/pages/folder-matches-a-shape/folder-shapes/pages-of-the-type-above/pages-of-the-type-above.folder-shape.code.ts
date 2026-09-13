@@ -31,7 +31,8 @@ export function pagesOfTheTypeAbove(standing: Standing): readonly string[] {
       `${standing.strays.length} files are neither a page nor a file beside one: ${saidInside(standing.folder, standing.strays)}`
     )
   }
-  const carrying = [...new Set(standing.properties.map((one) => one.page ?? one.path))]
+  const beside = standing.properties.filter((one) => !one.uncommitted)
+  const carrying = [...new Set(beside.map((one) => one.page ?? one.path))]
   if (carrying.length > 0) {
     said.push(
       `${carrying.length} pages carry a file beside them, and each belongs in a folder of its own: ${carrying.join(", ")}`
