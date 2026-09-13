@@ -63,6 +63,12 @@ const PERFORMANCE = "performance"
 
 const MEASURED = "measured"
 
+const MODEL_TEST = "model-test"
+
+const ASKING = "asking"
+
+const KEEPING = "keeping"
+
 const ROOT_ROUTE = "root.tsx"
 
 const APP_LAYOUT = "_app-layout.tsx"
@@ -199,12 +205,13 @@ function luaNamed(path: string, said: Parted, bodyOf: Bodied): string | null {
   return held === null ? null : textAt(held, LUA_EXPORT)
 }
 
-function reachedBeside(said: Parted): string | null {
-  if (besideCode(said, COMPUTED)) return WORK
-  if (besideCode(said, GUARD)) return RUN_GUARD
-  if (besideCode(said, MANIFEST)) return BUILD_ENV
-  if (besideCode(said, PERFORMANCE)) return MEASURED
-  if (besideCode(said, COMMAND) || besideCode(said, CHECK)) return exportedAs(said.slug)
+function reachedBeside(said: Parted): ReadonlySet<string> | null {
+  if (besideCode(said, COMPUTED)) return new Set([WORK])
+  if (besideCode(said, GUARD)) return new Set([RUN_GUARD])
+  if (besideCode(said, MANIFEST)) return new Set([BUILD_ENV])
+  if (besideCode(said, PERFORMANCE)) return new Set([MEASURED])
+  if (besideCode(said, MODEL_TEST)) return new Set([ASKING, KEEPING, exportedAs(said.slug)])
+  if (besideCode(said, COMMAND) || besideCode(said, CHECK)) return new Set([exportedAs(said.slug)])
   return null
 }
 
@@ -221,7 +228,7 @@ export function sparedIn(
   const lua = luaNamed(path, said, bodyOf)
   if (lua !== null) return new Set([lua])
   const beside = reachedBeside(said)
-  if (beside !== null) return new Set([beside])
+  if (beside !== null) return beside
   return pageNamed(path, pageTypes) ? new Set([exportedAs(said.slug)]) : NOTHING
 }
 

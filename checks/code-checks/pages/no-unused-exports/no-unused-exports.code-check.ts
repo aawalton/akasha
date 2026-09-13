@@ -155,6 +155,16 @@ export const noUnusedExports = {
       statement:
         "The `measured` a performance's code exports is reached by the command measuring it.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The `asking` and `keeping` a model test's code exports are reached by its runner.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The name made from a model test's slug is reached by the model check compiling it.",
+    },
   ],
   check: { maxCpuSeconds: 30 },
   audit: { maxCpuSeconds: 120 },

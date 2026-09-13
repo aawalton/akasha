@@ -24,6 +24,8 @@ import {
   lualibPaged,
   MANIFEST_AT,
   MANIFEST_TEXT,
+  MODEL_TEST_AT,
+  MODEL_TEST_TEXT,
   PAGE_AT,
   PAGE_TEXT,
   PERFORMANCE_AT,
@@ -232,6 +234,15 @@ test("the `BUILD_ENV` a manifest's code exports is spared and another beside it 
 
 test("the `measured` a performance's code exports is spared and another beside it is judged", () => {
   const said = judging(landing(rooted(), { [PERFORMANCE_AT]: bytesOf(PERFORMANCE_TEXT) })).map(
+    (one) => one.reason
+  )
+
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`spare`")
+})
+
+test("the three names a model test's code is reached by are spared and another is judged", () => {
+  const said = judging(landing(rooted(), { [MODEL_TEST_AT]: bytesOf(MODEL_TEST_TEXT) })).map(
     (one) => one.reason
   )
 
