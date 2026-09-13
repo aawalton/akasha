@@ -6,7 +6,12 @@ export const inventoryManagementPlanChain = {
   slug: "inventory-management-plan-chain",
   definition: "one rule's items spread down a chain of destinations, tier by tier",
   code: "ts",
+  test: "ts",
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A tier a character is not eligible for gives that character nothing.",
+    },
     {
       invariantKind: "departure",
       statement: "A tier takes up to the count the tier names.",
