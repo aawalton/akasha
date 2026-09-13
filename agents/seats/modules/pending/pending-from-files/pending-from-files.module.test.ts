@@ -8,7 +8,7 @@ const THEA = "01a06c31-1b01-7000-b602-fc1a3f96f3a4"
 
 function pageFor(seatId: string, own: string): SubagentPage {
   return {
-    path: `seat-system/subagents/pages/${own}.subagent.ts`,
+    path: `agents/subagents/pages/${own}.subagent.ts`,
     slug: own,
     seatName: "",
     agentId: seatId === "" ? own : `${seatId}--${own}`,
