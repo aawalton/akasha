@@ -1,4 +1,4 @@
-{"id":"01a09640-c3ac-77c6-8756-f45f834226eb","conditionField":"max-quality","conditionValue":"4"}
-{"id":"01a09640-c3ac-79e3-83de-b1168013d762","conditionField":"can-sell","conditionValue":"can-sell"}
-{"id":"01a09640-c3ac-7f46-ad05-136fc5095965","conditionField":"market-value","conditionValue":"MIN_LISTING_VALUE"}
-{"id":"01a09640-c3ac-7e4b-a66c-01fe983cb431","conditionField":"market-value-op","conditionValue":"<"}
+{"id":"01a09b3d-7f02-7776-a517-d16ecb705ec0","conditionField":"max-quality","conditionValue":"4"}
+{"id":"01a09b3d-7f02-7b5a-b27a-8c5f6f92ae60","conditionField":"can-sell","conditionValue":"can-sell"}
+{"id":"01a09b3d-7f02-73ed-8319-e481539e7f95","conditionField":"market-value","conditionValue":"MIN_LISTING_VALUE"}
+{"id":"01a09b3d-7f02-7f0f-b492-71e746bd85bb","conditionField":"market-value-op","conditionValue":"<"}
