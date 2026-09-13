@@ -54,8 +54,8 @@ export const importNotLeftHanging = {
       statement: "An index a guard cannot read refuses the answer.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing here reads the working tree.",
+      invariantKind: "departure",
+      statement: "Whether a generator owns an importer's body is read from the working tree.",
     },
     {
       invariantKind: "departure",

@@ -48,7 +48,7 @@ function facingSaying(value: Value, seen: { reads: number }): Facing {
     },
     valueAt: () => value,
     carryingOf: carryingAt,
-    filesIn: () => [],
+    root: "/nowhere",
   }
 }
 

@@ -7,7 +7,6 @@ import {
   sectionHeld,
   slugsWhere,
 } from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const APPEND_ONLY = "appendOnly"
@@ -32,9 +31,9 @@ export function appendOnlyIn(given: Facing, path: string): boolean {
   return heldBeside(path, namingFor(given), appendsOnly, carrying)
 }
 
-export function appendOnlyAt(given: string | Reading, path: string): boolean {
+export function appendOnlyAt(root: string, path: string): boolean {
   try {
-    return appendOnlyIn(facingOn(given), path)
+    return appendOnlyIn(facingOn(root), path)
   } catch {
     return false
   }

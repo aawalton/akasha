@@ -272,23 +272,25 @@ const SAYING: ReadonlyMap<string, Value> = new Map([
   [GROUP_PAGE, { slug: "scripting", propertySlug: "scripting" }],
 ])
 
-const GROUPS: Facing = {
-  kindsUnder: (of) => (of === "file-property" ? ["file-property"] : []),
-  everyOfType: (kind) => {
-    if (kind === "file-property") return [{ path: SHELL_AT }]
-    if (kind === "module-property-group") return [{ path: GROUP_PAGE }]
-    return []
-  },
-  valueAt: (path) => SAYING.get(path) ?? null,
-  carryingOf: (named) =>
-    named === "file-property/shell"
-      ? {
-          carrying: [
-            { pageTypeSlug: "thing", path: "akasha/one.thing.ts", id: "held", within: null },
-          ],
-        }
-      : { refused: "no page property carries that slug" },
-  filesIn: () => [GROUP_CODE],
+function groupsAt(root: string): Facing {
+  return {
+    kindsUnder: (of) => (of === "file-property" ? ["file-property"] : []),
+    everyOfType: (kind) => {
+      if (kind === "file-property") return [{ path: SHELL_AT }]
+      if (kind === "module-property-group") return [{ path: GROUP_PAGE }]
+      return []
+    },
+    valueAt: (path) => SAYING.get(path) ?? null,
+    carryingOf: (named) =>
+      named === "file-property/shell"
+        ? {
+            carrying: [
+              { pageTypeSlug: "thing", path: "akasha/one.thing.ts", id: "held", within: null },
+            ],
+          }
+        : { refused: "no page property carries that slug" },
+    root,
+  }
 }
 
 function repoWithGroup(): string {
@@ -301,7 +303,15 @@ test("a path a group writes is held to no commit, and the code that group runs i
   writeFileSync(join(root, GROUP_AT), "two\n")
   writeFileSync(join(root, GROUP_CODE), "other\n")
   git(root, ["commit", "--quiet", "-a", "-m", "meanwhile"])
-  const said = unfreshOver(GROUPS, root, read, headOf(root), [GROUP_AT, GROUP_CODE], [], "tail")
+  const said = unfreshOver(
+    groupsAt(root),
+    root,
+    read,
+    headOf(root),
+    [GROUP_AT, GROUP_CODE],
+    [],
+    "tail"
+  )
   expect(said?.join("\n") ?? "").toContain(GROUP_CODE)
   expect(said?.join("\n") ?? "").not.toContain(GROUP_AT)
 })
@@ -315,11 +325,13 @@ test("a reading of a path a group writes is held to nothing, and one of that gro
     asRead(GROUP_AT, blobIdOf(bytes("one\n"))),
     asRead(GROUP_CODE, blobIdOf(bytes("code\n"))),
   ]
-  const said = unfreshOver(GROUPS, root, null, base, [], held, "tail")
+  const said = unfreshOver(groupsAt(root), root, null, base, [], held, "tail")
   expect(said?.join("\n") ?? "").toContain(GROUP_CODE)
   expect(said?.join("\n") ?? "").not.toContain(GROUP_AT)
 })
 
 test("the file a group writes is the only path of the three a machine wrote", () => {
-  expect([...machineWrote(GROUPS, [GROUP_AT, GROUP_CODE, AT])]).toEqual([GROUP_AT])
+  const root = repoWithGroup()
+
+  expect([...machineWrote(groupsAt(root), [GROUP_AT, GROUP_CODE, AT])]).toEqual([GROUP_AT])
 })

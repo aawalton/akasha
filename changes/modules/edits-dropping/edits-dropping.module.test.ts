@@ -28,7 +28,7 @@ const FACING: Facing = {
   everyOfType: () => [{ path: AT }],
   valueAt: () => SAYS,
   carryingOf: carryingAt,
-  filesIn: () => [],
+  root: "/nowhere",
 }
 
 test("a body replaced at a path only added to at its end is dropped from the answer", () => {

@@ -33,7 +33,7 @@ function generatedBeside(facing: Facing, path: string): boolean {
 
 function readByGenerated(root: string, paths: readonly string[]): boolean {
   const reading = readingIn(root)
-  const facing = facingOn(reading)
+  const facing = facingOn(root)
   for (const path of paths) {
     if (generatedBeside(facing, path)) return true
     if (generatedReader(facing, reading, path)) return true

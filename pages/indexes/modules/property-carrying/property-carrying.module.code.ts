@@ -1,8 +1,8 @@
+import { existsSync } from "node:fs"
 import { basename, dirname, join } from "node:path"
 import { shapeOf } from "akasha/pages/indexes/modules/property-shaping/property-shaping.module.code.ts"
 import {
   everyOfType,
-  filesIn,
   idsNaming,
   listedAt,
   listedById,
@@ -251,17 +251,17 @@ function kindedIn(given: string | Reading): Kinded {
   }
 }
 
-export function facingOn(given: string | Reading): Facing {
+export function facingOn(root: string): Facing {
   return {
-    ...kindedIn(given),
-    carryingOf: (named) => carryingOf(given, named),
-    filesIn: (folder) => filesIn(given, folder),
+    ...kindedIn(root),
+    carryingOf: (named) => carryingOf(root, named),
+    root,
   }
 }
 
-export function generatedAt(given: string | Reading, path: string): boolean {
+export function generatedAt(root: string, path: string): boolean {
   try {
-    return generatedIn(facingOn(given), path)
+    return generatedIn(facingOn(root), path)
   } catch {
     return false
   }
@@ -269,7 +269,7 @@ export function generatedAt(given: string | Reading, path: string): boolean {
 
 export type Facing = Kinded & {
   readonly carryingOf: (named: string) => Carried
-  readonly filesIn: (folder: string) => Iterable<string>
+  readonly root: string
 }
 
 export type Derived = {
@@ -401,10 +401,7 @@ function writerIn(given: Facing, path: string, held: Derived): string | null {
     HELD_TS
   )
   if (beside === null) return null
-  for (const one of given.filesIn(folder)) {
-    if (one === beside) return beside
-  }
-  return null
+  return existsSync(join(given.root, beside)) ? beside : null
 }
 
 export function writerAt(given: Facing, path: string): string | null {

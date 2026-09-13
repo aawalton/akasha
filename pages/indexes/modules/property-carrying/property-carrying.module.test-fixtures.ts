@@ -51,6 +51,8 @@ export const OWN: Naming = {
 
 const ADDON = "one/two.eso-addon.ts"
 
+const NOWHERE = "/nowhere"
+
 export function saidTrue(value: Value): boolean {
   return value.said === true
 }
@@ -82,7 +84,7 @@ export function facingSaying(value: Value | null): Facing {
     everyOfType: () => [{ path: NAMING.path }],
     valueAt: () => value,
     carryingOf: carryingAt(OWNER),
-    filesIn: () => [],
+    root: NOWHERE,
   }
 }
 
@@ -95,6 +97,6 @@ export function counting(seen: { reads: number }): Facing {
     },
     valueAt: () => null,
     carryingOf: refusing,
-    filesIn: () => [],
+    root: NOWHERE,
   }
 }

@@ -191,7 +191,7 @@ export const propertyCarrying = {
     {
       invariantKind: "departure",
       statement:
-        "Whether that code sits beside a page is read from the index rather than from the tree.",
+        "Whether that code sits beside a page is read from the tree rather than from the index.",
     },
     {
       invariantKind: "departure",
