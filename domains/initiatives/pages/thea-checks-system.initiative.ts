@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "The check passes over a value a runner reaches by path rather than by import.",
       workingMemory:
-        "111 refusals sit in page code a runner loads by path, so the import index sees no importer: commands 35, computed properties 34, change guards 11, check modules 11, manifests 6, type generators 6, readouts 5, model tests 3. Two are settled: a route's code is judged by nothing, and the name a lualib page states as its `lua-export` is spared, since the compiler emits that name.",
+        "77 refusals sit in page code a runner loads by path, so the import index sees no importer: computed properties 34, change guards 11, check modules 11, manifests 6, type generators 6, readouts 5, model tests 3, one command. Three are settled: a route's code is judged by nothing, a lualib page's `lua-export` is spared, and a command's code keeps the name made from its slug.",
     },
     {
       statement: "No module exports a value nothing names.",
@@ -20,7 +20,7 @@ export const theaChecksSystem = {
     {
       statement: "No file the broad unexport run left alone still publishes a value only it names.",
       workingMemory:
-        "8 refusals over 5 files the run skipped. `introduced-property-is-a-part`'s decision has a test red at HEAD from a regression in `pages/types/modules/declared-properties`. `check-cost`, `code-tests`, `temper-inventory-plan` and `subagent-page-naming` came later. The five lualib shims and the two atlas route files fell away once a lua export and a route's code stopped being judged.",
+        "7 refusals over 5 files. `introduced-property-is-a-part`'s decision has a test red at HEAD from a regression in `pages/types/modules/declared-properties`, and holds three. `check-cost`, `code-tests`, `temper-inventory-plan` and `subagent-page-naming` hold one each and came after the run. The lualib shims and the atlas route files fell away once a lua export and a route's code stopped being judged.",
     },
     {
       statement: "Every uncommitted body beside a page exports the name that page's writer makes.",
