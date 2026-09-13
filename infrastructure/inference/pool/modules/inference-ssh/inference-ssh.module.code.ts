@@ -97,14 +97,6 @@ export async function scpUpload(
   await runScp(localPath, `${target.user}@${target.host}:${remotePath}`, scpOpts(target))
 }
 
-export async function scpDownload(
-  target: SshTarget,
-  remotePath: string,
-  localPath: string
-): Promise<void> {
-  await runScp(`${target.user}@${target.host}:${remotePath}`, localPath, scpOpts(target))
-}
-
 export async function syncDir(args: {
   target: SshTarget
   localDir: string
