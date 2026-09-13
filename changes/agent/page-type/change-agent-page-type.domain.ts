@@ -11,6 +11,7 @@ export const changeAgentPageType = {
     "change-agent/add-page-type-types",
     "change-agent/add-property-to-every-page",
     "change-agent/add-property-to-page-type",
+    "change-agent/change-calculation-held-type",
     "change-agent/change-property-on-page-type",
     "change-agent/copy-property-on-every-page",
     "change-agent/move-property-on-every-page",

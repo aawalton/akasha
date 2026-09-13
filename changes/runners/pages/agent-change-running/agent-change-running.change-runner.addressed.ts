@@ -36,7 +36,7 @@ export type Changes = {
     typeof import("akasha/changes/agent/file-content/append-lines-from/append-lines-from.change-agent.code.ts")["runChange"]
   >[1]
   "change-agent/change-calculation-held-type": Parameters<
-    typeof import("akasha/changes/agent/page-property/change-calculation-held-type/change-calculation-held-type.change-agent.code.ts")["runChange"]
+    typeof import("akasha/changes/agent/page-type/change-calculation-held-type/change-calculation-held-type.change-agent.code.ts")["runChange"]
   >[1]
   "change-agent/change-domain-parent": Parameters<
     typeof import("akasha/changes/agent/file-content/change-domain-parent/change-domain-parent.change-agent.code.ts")["runChange"]

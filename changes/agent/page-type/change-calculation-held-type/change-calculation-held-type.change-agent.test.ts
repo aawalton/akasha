@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   changeCalculationHeldType,
   runChange,
-} from "akasha/changes/agent/page-property/change-calculation-held-type/change-calculation-held-type.change-agent.code.ts"
+} from "akasha/changes/agent/page-type/change-calculation-held-type/change-calculation-held-type.change-agent.code.ts"
 import { ledgerAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   type Caught,
