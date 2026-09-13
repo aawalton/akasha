@@ -19,7 +19,6 @@ import {
 import {
   dropUncommitted as dropAkasha,
   mergeUncommitted,
-  removeUncommitted as removeAkasha,
 } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 
 export function bare(held: unknown): unknown {
@@ -124,15 +123,4 @@ export function dropBeside(page: string, keys: readonly string[]): undefined {
   const at = akashaPageOf(page)
   if (at === null) return
   dropAkasha(rootFor(resolveRoots(), AKASHA), at, gone)
-}
-
-export function removeBeside(page: string): undefined {
-  try {
-    removeAkasha(rootFor(resolveRoots(), AKASHA), akashaSeatRelPath(seatNamed(page)))
-  } catch (thrown) {
-    process.stderr.write(
-      `what was observed of ${seatNamed(page)} is gone, and what was observed of it in akasha remains: ` +
-        `${thrown instanceof Error ? thrown.message : String(thrown)}\n`
-    )
-  }
 }
