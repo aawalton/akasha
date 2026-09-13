@@ -4,7 +4,8 @@ export const seatUsage = {
   id: "01a0687b-3c96-7000-be32-deed725bb134",
   type: "module",
   slug: "seat-usage",
-  definition: "the model a seat is on and how much of its context window is spent",
+  definition: "what a seat spends while an agent works in it",
+  parts: ["module/seat-usage-keep", "module/seat-usage-show", "module/typing-minutes"],
   code: "ts",
   test: "ts",
   invariants: [

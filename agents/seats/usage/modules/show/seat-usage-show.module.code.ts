@@ -1,7 +1,4 @@
-import {
-  contextTokensOf,
-  modelOf,
-} from "akasha/agents/seats/usage/modules/usage/seat-usage.module.code.ts"
+import { contextTokensOf, modelOf } from "akasha/agents/seats/usage/seat-usage.module.code.ts"
 
 function usageLineFor(agent: string): string {
   const model = agent === "" ? null : modelOf(agent)
