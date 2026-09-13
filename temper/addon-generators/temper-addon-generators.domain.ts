@@ -20,7 +20,6 @@ export const temperAddonGenerators = {
     "module/temper-armor-trait",
     "module/temper-armor-weight",
     "module/temper-character-skill-activation",
-    "module/temper-companion-activation-buff",
     "module/temper-companion-armor-slot",
     "module/temper-companion-base-role",
     "module/temper-companion-equipment-quality",
