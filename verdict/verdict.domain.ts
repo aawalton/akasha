@@ -6,7 +6,6 @@ export const verdict = {
   slug: "verdict",
   definition: "a judgement on something measured, with what it covered and what it found",
   parts: [
-    "module/outcome",
     "module/reading-channel",
     "module/verdict-exit",
     "module/verdict-shape",
