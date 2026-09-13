@@ -27,7 +27,7 @@ export const externalIdentity = {
     },
     {
       invariantKind: "departure",
-      statement: "Every one of these states an id or a link, a link being a name as well.",
+      statement: "Every one of these states an id or a link.",
     },
     {
       invariantKind: "departure",

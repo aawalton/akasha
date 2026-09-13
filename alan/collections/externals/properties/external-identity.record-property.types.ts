@@ -6,7 +6,7 @@ import type { List } from "akasha/pages/types/page-properties/page-property.page
 
 export type ExternalIdentity = List<{
   source: Source
-  externalId: ExternalId
+  externalId?: ExternalId
   externalLink?: ExternalLink
   lastSyncedAt?: LastSyncedAt
 }>
