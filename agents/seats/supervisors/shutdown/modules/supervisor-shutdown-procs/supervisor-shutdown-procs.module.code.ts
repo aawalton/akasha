@@ -3,11 +3,11 @@ import {
   getShutdownSinkGetter,
   processes,
   setOAuthProxyHandle,
-} from "akasha/agents/seats/supervisors/modules/supervisor-state/supervisor-state.module.code.ts"
+} from "akasha/agents/seats/supervisors/process/modules/supervisor-state/supervisor-state.module.code.ts"
 import type {
   InheritedProc,
   PipedProc,
-} from "akasha/agents/seats/supervisors/modules/supervisor-types/supervisor-types.module.code.ts"
+} from "akasha/agents/seats/supervisors/process/modules/supervisor-types/supervisor-types.module.code.ts"
 
 const CHILD_SIGTERM_WAIT_MS = 2_000
 const CHILD_SIGKILL_WAIT_MS = 1_000

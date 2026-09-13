@@ -12,9 +12,9 @@ import {
 } from "akasha/agents/seats/supervisors/modules/supervisor-rebind/supervisor-rebind.module.code.ts"
 import type { ClearRebindDeps } from "akasha/agents/seats/supervisors/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
 import { watchSeatRotation } from "akasha/agents/seats/supervisors/modules/supervisor-rotation-watch/supervisor-rotation-watch.module.code.ts"
-import type { AgentIdHandle } from "akasha/agents/seats/supervisors/modules/supervisor-self-identity/supervisor-self-identity.module.code.ts"
-import { setRestoreConsoleHandle } from "akasha/agents/seats/supervisors/modules/supervisor-state/supervisor-state.module.code.ts"
-import type { AgentProcess } from "akasha/agents/seats/supervisors/modules/supervisor-types/supervisor-types.module.code.ts"
+import type { AgentIdHandle } from "akasha/agents/seats/supervisors/process/modules/supervisor-self-identity/supervisor-self-identity.module.code.ts"
+import { setRestoreConsoleHandle } from "akasha/agents/seats/supervisors/process/modules/supervisor-state/supervisor-state.module.code.ts"
+import type { AgentProcess } from "akasha/agents/seats/supervisors/process/modules/supervisor-types/supervisor-types.module.code.ts"
 
 export function wireSessionRotatedWatcher(args: {
   selectedAccount: string

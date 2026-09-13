@@ -1,4 +1,3 @@
-import { LOG } from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   askSupervisorDecide,
   SUPERVISOR_DECIDE_COMMAND,
@@ -10,6 +9,7 @@ import {
   remoteControlFallback,
   seatLabel,
 } from "akasha/agents/seats/supervisors/modules/supervisor-remote-control-default/supervisor-remote-control-default.module.code.ts"
+import { LOG } from "akasha/agents/seats/supervisors/process/modules/supervisor-config/supervisor-config.module.code.ts"
 import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 const SeatSpawnAnswerShape = shape.object({

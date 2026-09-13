@@ -13,10 +13,8 @@ import {
 } from "akasha/agents/seats/supervisors/modules/supervisor-account-config/supervisor-account-config.module.code.ts"
 import type { spawnClaudeChild } from "akasha/agents/seats/supervisors/modules/supervisor-adopt/supervisor-adopt.module.code.ts"
 import { processCleanup } from "akasha/agents/seats/supervisors/modules/supervisor-agent-cleanup/supervisor-agent-cleanup.module.code.ts"
-import type { SeatResume } from "akasha/agents/seats/supervisors/modules/supervisor-args/supervisor-args.module.code.ts"
 import { materializeBootPrompt } from "akasha/agents/seats/supervisors/modules/supervisor-boot-prompt/supervisor-boot-prompt.module.code.ts"
 import { stage } from "akasha/agents/seats/supervisors/modules/supervisor-boot-stage/supervisor-boot-stage.module.code.ts"
-import { LOG } from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
 import type {
   InteractiveOpts,
   InteractiveSessionBoot,
@@ -29,8 +27,10 @@ import {
   resolveSubagentDefinitions,
 } from "akasha/agents/seats/supervisors/modules/supervisor-spawn-agents/supervisor-spawn-agents.module.code.ts"
 import { materializeSpawnSettings } from "akasha/agents/seats/supervisors/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
-import { setOAuthProxyHandle } from "akasha/agents/seats/supervisors/modules/supervisor-state/supervisor-state.module.code.ts"
-import type { AgentProcess } from "akasha/agents/seats/supervisors/modules/supervisor-types/supervisor-types.module.code.ts"
+import type { SeatResume } from "akasha/agents/seats/supervisors/process/modules/supervisor-args/supervisor-args.module.code.ts"
+import { LOG } from "akasha/agents/seats/supervisors/process/modules/supervisor-config/supervisor-config.module.code.ts"
+import { setOAuthProxyHandle } from "akasha/agents/seats/supervisors/process/modules/supervisor-state/supervisor-state.module.code.ts"
+import type { AgentProcess } from "akasha/agents/seats/supervisors/process/modules/supervisor-types/supervisor-types.module.code.ts"
 import { armForceExitTimer } from "akasha/agents/seats/supervisors/shutdown/modules/supervisor-lifecycle/supervisor-lifecycle.module.code.ts"
 
 export type SeatSpawnDecider = (

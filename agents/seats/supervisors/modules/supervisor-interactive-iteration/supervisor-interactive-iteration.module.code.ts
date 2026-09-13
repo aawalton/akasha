@@ -11,10 +11,8 @@ import {
 } from "akasha/agents/seats/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import { claimSeatSupervision } from "akasha/agents/seats/supervisors/modules/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
 import { createAgent } from "akasha/agents/seats/supervisors/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"
-import type { SeatResume } from "akasha/agents/seats/supervisors/modules/supervisor-args/supervisor-args.module.code.ts"
 import { LIVE_CHILD_EXIT_RULE } from "akasha/agents/seats/supervisors/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import { spawnOrAdoptChild } from "akasha/agents/seats/supervisors/modules/supervisor-child-spawn/supervisor-child-spawn.module.code.ts"
-import { LOG } from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
 import type { buildAgentLogRedirect } from "akasha/agents/seats/supervisors/modules/supervisor-console/supervisor-console.module.code.ts"
 import { keepSeatTranscript } from "akasha/agents/seats/supervisors/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import type {
@@ -34,16 +32,18 @@ import {
 import type { ClearRebindHooks } from "akasha/agents/seats/supervisors/modules/supervisor-rebind/supervisor-rebind.module.code.ts"
 import type { CarriedAgentName } from "akasha/agents/seats/supervisors/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"
 import type { ClearRebindDeps } from "akasha/agents/seats/supervisors/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
-import type { AgentIdHandle } from "akasha/agents/seats/supervisors/modules/supervisor-self-identity/supervisor-self-identity.module.code.ts"
-import { sessionProjectDir } from "akasha/agents/seats/supervisors/modules/supervisor-session-project-dir/supervisor-session-project-dir.module.code.ts"
+import type { SeatResume } from "akasha/agents/seats/supervisors/process/modules/supervisor-args/supervisor-args.module.code.ts"
+import { LOG } from "akasha/agents/seats/supervisors/process/modules/supervisor-config/supervisor-config.module.code.ts"
+import type { AgentIdHandle } from "akasha/agents/seats/supervisors/process/modules/supervisor-self-identity/supervisor-self-identity.module.code.ts"
+import { sessionProjectDir } from "akasha/agents/seats/supervisors/process/modules/supervisor-session-project-dir/supervisor-session-project-dir.module.code.ts"
 import {
   processes,
   setRestoreConsoleHandle,
-} from "akasha/agents/seats/supervisors/modules/supervisor-state/supervisor-state.module.code.ts"
+} from "akasha/agents/seats/supervisors/process/modules/supervisor-state/supervisor-state.module.code.ts"
 import type {
   AgentProcess,
   InheritedProc,
-} from "akasha/agents/seats/supervisors/modules/supervisor-types/supervisor-types.module.code.ts"
+} from "akasha/agents/seats/supervisors/process/modules/supervisor-types/supervisor-types.module.code.ts"
 import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
 
 export async function openIteration(args: {

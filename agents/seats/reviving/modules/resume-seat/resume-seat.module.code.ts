@@ -20,7 +20,7 @@ import { terminatePriorAgentTree } from "akasha/agents/seats/reviving/modules/re
 import { resolveRelaunchTarget } from "akasha/agents/seats/reviving/modules/relaunch-target/seat-relaunch-target.module.code.ts"
 import { decideReviveLaunch } from "akasha/agents/seats/reviving/modules/revive-launch-decide/seat-revive-launch-decide.module.code.ts"
 import { clearRequestedAction } from "akasha/agents/seats/supervisors/modules/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"
-import { SEAT_START_DIR } from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
+import { SEAT_START_DIR } from "akasha/agents/seats/supervisors/process/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   dataError,
   operationalError,

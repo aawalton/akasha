@@ -16,10 +16,6 @@ import {
 import { selectAccountAndWriteCredential } from "akasha/agents/seats/supervisors/modules/supervisor-agent/supervisor-agent.module.code.ts"
 import { createAgent } from "akasha/agents/seats/supervisors/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"
 import {
-  configDirForAccount,
-  LOG,
-} from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
-import {
   AGENT_LAUNCH_OPENED,
   AGENT_LAUNCH_SPAWNED,
 } from "akasha/agents/seats/supervisors/modules/supervisor-env/supervisor-env.module.code.ts"
@@ -33,12 +29,16 @@ import {
   AGENT_MODE_INTERACTIVE,
   stateSeatDefaults,
 } from "akasha/agents/seats/supervisors/modules/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts"
-import { createAgentIdHandle } from "akasha/agents/seats/supervisors/modules/supervisor-self-identity/supervisor-self-identity.module.code.ts"
+import {
+  configDirForAccount,
+  LOG,
+} from "akasha/agents/seats/supervisors/process/modules/supervisor-config/supervisor-config.module.code.ts"
+import { createAgentIdHandle } from "akasha/agents/seats/supervisors/process/modules/supervisor-self-identity/supervisor-self-identity.module.code.ts"
 import {
   setInheritedClaude,
   setOAuthProxyHandle,
   setRestoreConsoleHandle,
-} from "akasha/agents/seats/supervisors/modules/supervisor-state/supervisor-state.module.code.ts"
+} from "akasha/agents/seats/supervisors/process/modules/supervisor-state/supervisor-state.module.code.ts"
 import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 const ENV_OPTIONAL = shape.string().optional()

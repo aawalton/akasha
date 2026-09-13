@@ -1,19 +1,19 @@
-import { parseArgs } from "akasha/agents/seats/supervisors/modules/supervisor-args/supervisor-args.module.code.ts"
 import { LIVE_CHILD_EXIT_RULE } from "akasha/agents/seats/supervisors/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
+import { buildAgentLogRedirect } from "akasha/agents/seats/supervisors/modules/supervisor-console/supervisor-console.module.code.ts"
+import { runInteractive } from "akasha/agents/seats/supervisors/modules/supervisor-interactive/supervisor-interactive.module.code.ts"
+import type { RunInteractiveSeams } from "akasha/agents/seats/supervisors/modules/supervisor-interactive-seams/supervisor-interactive-seams.module.code.ts"
+import { parseArgs } from "akasha/agents/seats/supervisors/process/modules/supervisor-args/supervisor-args.module.code.ts"
 import {
   assertBootFiles,
   LOG,
   REQUIRED_BOOT_FILES,
-} from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
-import { buildAgentLogRedirect } from "akasha/agents/seats/supervisors/modules/supervisor-console/supervisor-console.module.code.ts"
-import { runInteractive } from "akasha/agents/seats/supervisors/modules/supervisor-interactive/supervisor-interactive.module.code.ts"
-import type { RunInteractiveSeams } from "akasha/agents/seats/supervisors/modules/supervisor-interactive-seams/supervisor-interactive-seams.module.code.ts"
+} from "akasha/agents/seats/supervisors/process/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   getRestoreConsoleHandle,
   processes,
   setRestoreConsoleHandle,
   setShutdownSinkGetter,
-} from "akasha/agents/seats/supervisors/modules/supervisor-state/supervisor-state.module.code.ts"
+} from "akasha/agents/seats/supervisors/process/modules/supervisor-state/supervisor-state.module.code.ts"
 import { shutdown } from "akasha/agents/seats/supervisors/shutdown/modules/supervisor-lifecycle/supervisor-lifecycle.module.code.ts"
 import { installSupervisorTerminalGuard } from "akasha/agents/seats/supervisors/shutdown/modules/supervisor-terminal/supervisor-terminal.module.code.ts"
 

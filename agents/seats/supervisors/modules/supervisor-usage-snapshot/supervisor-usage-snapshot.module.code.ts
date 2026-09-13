@@ -5,7 +5,7 @@ import {
   formatPaceHours,
 } from "akasha/agents/claude-accounts/modules/pacing/claude-account-pacing.module.code.ts"
 import { accountStateIn } from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
-import { LOG } from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
+import { LOG } from "akasha/agents/seats/supervisors/process/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

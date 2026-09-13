@@ -11,18 +11,18 @@ import {
   readClaudeConfigDeclaration,
   reconcileClaudeConfig,
 } from "akasha/agents/seats/supervisors/modules/supervisor-claude-config/supervisor-claude-config.module.code.ts"
+import { buildSupervisorEnv } from "akasha/agents/seats/supervisors/modules/supervisor-env/supervisor-env.module.code.ts"
+import { resolveRemoteControlEnv } from "akasha/agents/seats/supervisors/modules/supervisor-remote-control-env/supervisor-remote-control-env.module.code.ts"
 import {
   HOME_DIR,
   LOG,
-} from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
-import { buildSupervisorEnv } from "akasha/agents/seats/supervisors/modules/supervisor-env/supervisor-env.module.code.ts"
+} from "akasha/agents/seats/supervisors/process/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   isProcessAlive,
   signalPid,
   waitForPidExit,
-} from "akasha/agents/seats/supervisors/modules/supervisor-exec/supervisor-exec.module.code.ts"
-import { resolveRemoteControlEnv } from "akasha/agents/seats/supervisors/modules/supervisor-remote-control-env/supervisor-remote-control-env.module.code.ts"
-import type { InheritedProc } from "akasha/agents/seats/supervisors/modules/supervisor-types/supervisor-types.module.code.ts"
+} from "akasha/agents/seats/supervisors/process/modules/supervisor-exec/supervisor-exec.module.code.ts"
+import type { InheritedProc } from "akasha/agents/seats/supervisors/process/modules/supervisor-types/supervisor-types.module.code.ts"
 import { asRecord } from "akasha/utils/narrow/modules/as-record/as-record.module.code.ts"
 
 export function adoptInheritedProc(pid: number, childExitRule: ChildExitRuleSource): InheritedProc {
