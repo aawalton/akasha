@@ -8,9 +8,6 @@ export const aineChangesCleanup = {
   persona: "aine",
   intents: [
     {
-      statement: "Every change states the target type and the target subtype that change acts on.",
-    },
-    {
       statement: "A change reaches another change only through a runner.",
     },
     {
