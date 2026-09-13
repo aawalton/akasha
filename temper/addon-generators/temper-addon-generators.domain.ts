@@ -5,13 +5,7 @@ export const temperAddonGenerators = {
   type: "domain",
   slug: "temper-addon-generators",
   definition: "the source text of every data file temper renders from its own pages",
-  parts: [
-    "module/addon-data-page",
-    "module/do-not-edit",
-    "module/render-metric-effect",
-    "module/render-quality-values",
-    "module/tree-node-under",
-  ],
+  parts: [],
   invariants: [
     {
       invariantKind: "departure",
