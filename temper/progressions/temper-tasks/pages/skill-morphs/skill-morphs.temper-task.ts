@@ -8,7 +8,7 @@ export const skillMorphs = {
   displayOrder: 0,
   character: "lyonette-du-marquin",
   completionCardId: "skill-morphs",
-  dueDate: "2026-09-13",
+  dueDate: "2026-09-14",
   rruleRule: "FREQ=DAILY",
   rruleAnchorFromCompletion: false,
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
