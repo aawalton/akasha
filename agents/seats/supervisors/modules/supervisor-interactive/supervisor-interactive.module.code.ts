@@ -27,8 +27,8 @@ import { dispatchPostExitOutcome } from "akasha/agents/seats/supervisors/modules
 import { buildLoopState } from "akasha/agents/seats/supervisors/modules/supervisor-loop-state/supervisor-loop-state.module.code.ts"
 import type { CarriedAgentName } from "akasha/agents/seats/supervisors/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"
 import { isShuttingDown } from "akasha/agents/seats/supervisors/modules/supervisor-state/supervisor-state.module.code.ts"
-import { recordTermiosState } from "akasha/agents/seats/supervisors/modules/supervisor-terminal/supervisor-terminal.module.code.ts"
 import type { AgentProcess } from "akasha/agents/seats/supervisors/modules/supervisor-types/supervisor-types.module.code.ts"
+import { recordTermiosState } from "akasha/agents/seats/supervisors/shutdown/modules/supervisor-terminal/supervisor-terminal.module.code.ts"
 
 export async function runInteractive(
   prompt: string,

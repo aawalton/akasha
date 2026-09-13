@@ -10,11 +10,6 @@ import {
 import type { ChildExitRuleSource } from "akasha/agents/seats/supervisors/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import { LOG } from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
 import { takeSeatPage } from "akasha/agents/seats/supervisors/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
-import { shouldWriteTerminalStoppedStatus } from "akasha/agents/seats/supervisors/modules/supervisor-lifecycle-death-write/supervisor-lifecycle-death-write.module.code.ts"
-import {
-  killProcessesForShutdown,
-  recordShutdownEvent,
-} from "akasha/agents/seats/supervisors/modules/supervisor-shutdown-procs/supervisor-shutdown-procs.module.code.ts"
 import {
   activeLifecycles,
   getObservedChildExit,
@@ -22,6 +17,11 @@ import {
   processes,
   setShuttingDown,
 } from "akasha/agents/seats/supervisors/modules/supervisor-state/supervisor-state.module.code.ts"
+import { shouldWriteTerminalStoppedStatus } from "akasha/agents/seats/supervisors/shutdown/modules/supervisor-lifecycle-death-write/supervisor-lifecycle-death-write.module.code.ts"
+import {
+  killProcessesForShutdown,
+  recordShutdownEvent,
+} from "akasha/agents/seats/supervisors/shutdown/modules/supervisor-shutdown-procs/supervisor-shutdown-procs.module.code.ts"
 import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 const SHUTDOWN_FORCE_EXIT_MS = 10_000
