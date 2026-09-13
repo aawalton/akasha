@@ -38,23 +38,9 @@ async function respawnProxy(
 
 let baseline: string | null = null
 let respawnFn: ((newVersion: string) => void) | null = null
-let unsubProxyVersion: (() => void) | null = null
 
 function setProxyRespawnFn(fn: ((newVersion: string) => void) | null): undefined {
   respawnFn = fn
-}
-
-export function setUnsubProxyVersion(unsub: (() => void) | null): undefined {
-  unsubProxyVersion = unsub
-}
-
-export function teardownProxyVersionSubscription(): undefined {
-  if (unsubProxyVersion) {
-    try {
-      unsubProxyVersion()
-    } catch {}
-    unsubProxyVersion = null
-  }
 }
 
 export function triggerProxySwap(): boolean {

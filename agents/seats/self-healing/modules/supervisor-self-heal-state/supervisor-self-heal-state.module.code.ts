@@ -66,7 +66,6 @@ export const SELF_HEAL_STATE: {
   currentAgentIdForSelfHeal: string | null
   currentSessionIdForSelfHeal: string | null
   proxyOwnerAgentIdForSelfHeal: string | null
-  unsubVersion: (() => void) | null
   getClaudePidForSelfHeal: () => number | null
   getProxyPortForSelfHeal: () => number | null
   deferredReExecGate: { cancel: () => void } | null
@@ -85,7 +84,6 @@ export const SELF_HEAL_STATE: {
   currentAgentIdForSelfHeal: null,
   currentSessionIdForSelfHeal: null,
   proxyOwnerAgentIdForSelfHeal: null,
-  unsubVersion: null,
   getClaudePidForSelfHeal: inheritedClaudePid,
   getProxyPortForSelfHeal: () => null,
   deferredReExecGate: null,
@@ -127,10 +125,6 @@ export function getProxyOwnerAgentIdForSelfHeal(): string | null {
   return SELF_HEAL_STATE.proxyOwnerAgentIdForSelfHeal
 }
 
-export function setUnsubVersion(unsub: (() => void) | null): undefined {
-  SELF_HEAL_STATE.unsubVersion = unsub
-}
-
 export function setSelfHealIdleProbe(opts: {
   getClaudePid: () => number | null
   getProxyPort: () => number | null
@@ -141,13 +135,4 @@ export function setSelfHealIdleProbe(opts: {
   SELF_HEAL_STATE.getProxyPortForSelfHeal = opts.getProxyPort
   SELF_HEAL_STATE.selfHealJitterRuleForSelfHeal = opts.selfHealJitterRule
   SELF_HEAL_STATE.deferredRestartRuleForSelfHeal = opts.deferredRestartRule
-}
-
-export function teardownVersionSubscription(): undefined {
-  if (SELF_HEAL_STATE.unsubVersion) {
-    try {
-      SELF_HEAL_STATE.unsubVersion()
-    } catch {}
-    SELF_HEAL_STATE.unsubVersion = null
-  }
 }

@@ -1,11 +1,9 @@
-import { teardownProxyVersionSubscription } from "akasha/agents/seats/oauth-proxy/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 import { attemptInPlaceReExec } from "akasha/agents/seats/self-healing/modules/supervisor-reexec/supervisor-reexec.module.code.ts"
 import { resolveReExecArgv } from "akasha/agents/seats/self-healing/modules/supervisor-self-heal/supervisor-self-heal.module.code.ts"
 import {
   getCurrentAgentIdForSelfHeal,
   isPendingReExec,
   SUPERVISOR_SCRIPT,
-  teardownVersionSubscription,
 } from "akasha/agents/seats/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import type { ChildExitRuleSource } from "akasha/agents/seats/supervisors/supervisor-child/modules/exit-rule/supervisor-child-exit-rule.module.code.ts"
 import { LOG } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
@@ -151,10 +149,6 @@ export async function shutdown(signal: string, childExitRule: ChildExitRuleSourc
   } else {
     recordShutdownEvent("drain-skip-empty")
   }
-
-  teardownVersionSubscription()
-  teardownProxyVersionSubscription()
-  recordShutdownEvent("after-version-teardown")
 
   if (isPendingReExec()) {
     recordShutdownEvent("entering-reexec", { inplace: false })
