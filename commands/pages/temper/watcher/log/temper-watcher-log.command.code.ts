@@ -14,7 +14,7 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { temperWatcherLogList as page } from "akasha/commands/pages/temper/watcher/log-list/temper-watcher-log-list.command.ts"
+import { temperWatcherLog as page } from "akasha/commands/pages/temper/watcher/log/temper-watcher-log.command.ts"
 import type {
   LogSource,
   WatcherLogLine,
@@ -53,7 +53,7 @@ function linesIn(path: string, source: LogSource): readonly WatcherLogLine[] | n
   return read
 }
 
-export function temperWatcherLogList(argv: readonly string[], given: Given): Answer {
+export function temperWatcherLog(argv: readonly string[], given: Given): Answer {
   const read = takenFor(argv, given.calledAs, page, NAMED)
   if ("refused" in read) return mistaking(read.refused)
   const taken = read.taken
