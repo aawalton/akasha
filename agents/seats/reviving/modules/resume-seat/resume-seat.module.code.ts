@@ -7,9 +7,9 @@ import {
   type LaunchSeatResult,
   launchSeatUnderTmux,
   liveSessionHolds,
-} from "akasha/agents/seats/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts"
-import { DEFAULT_ACCOUNT } from "akasha/agents/seats/modules/launching/seat-launching.module.code.ts"
-import { SEAT_MODE_HEADLESS } from "akasha/agents/seats/modules/modes/seat-modes.module.code.ts"
+} from "akasha/agents/seats/launching/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts"
+import { DEFAULT_ACCOUNT } from "akasha/agents/seats/launching/modules/launching/seat-launching.module.code.ts"
+import { SEAT_MODE_HEADLESS } from "akasha/agents/seats/launching/modules/modes/seat-modes.module.code.ts"
 import type { SeatPresence } from "akasha/agents/seats/modules/proc-key/seat-proc-key.module.code.ts"
 import {
   decideSpawnGuard,

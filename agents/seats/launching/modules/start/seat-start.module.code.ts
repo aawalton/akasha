@@ -1,3 +1,15 @@
+import { launchSeatUnderTmux } from "akasha/agents/seats/launching/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts"
+import { DEFAULT_ACCOUNT } from "akasha/agents/seats/launching/modules/launching/seat-launching.module.code.ts"
+import {
+  isSeatMode,
+  SEAT_MODE_HEADLESS,
+  SEAT_MODE_INTERACTIVE,
+  SEAT_MODES,
+} from "akasha/agents/seats/launching/modules/modes/seat-modes.module.code.ts"
+import {
+  type StatedIdentity,
+  spawnSeat,
+} from "akasha/agents/seats/launching/modules/spawn-seat/spawn-seat.module.code.ts"
 import {
   handlerDerives,
   principalIsPerson,
@@ -15,14 +27,6 @@ import {
   isValidSeatName,
   resolveOptionalSeatId,
 } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
-import { launchSeatUnderTmux } from "akasha/agents/seats/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts"
-import { DEFAULT_ACCOUNT } from "akasha/agents/seats/modules/launching/seat-launching.module.code.ts"
-import {
-  isSeatMode,
-  SEAT_MODE_HEADLESS,
-  SEAT_MODE_INTERACTIVE,
-  SEAT_MODES,
-} from "akasha/agents/seats/modules/modes/seat-modes.module.code.ts"
 import { mintNamedAgent } from "akasha/agents/seats/modules/name-bind/seat-name-bind.module.code.ts"
 import { refuseHeldName } from "akasha/agents/seats/modules/name-held-refusal/seat-name-held-refusal.module.code.ts"
 import { refuseParentless } from "akasha/agents/seats/modules/parentless-refusal/seat-parentless-refusal.module.code.ts"
@@ -32,10 +36,6 @@ import {
   compositionOf,
   decideSpawnName,
 } from "akasha/agents/seats/modules/spawn-name-decide/seat-spawn-name-decide.module.code.ts"
-import {
-  type StatedIdentity,
-  spawnSeat,
-} from "akasha/agents/seats/modules/spawn-seat/spawn-seat.module.code.ts"
 import { stateSpawnedSeat } from "akasha/agents/seats/modules/state-spawned-seat/state-spawned-seat.module.code.ts"
 import { resolveStatedIdentity } from "akasha/agents/seats/modules/stated-identity/seat-stated-identity.module.code.ts"
 import type { StatedAgentSlots } from "akasha/agents/seats/supervisors/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"

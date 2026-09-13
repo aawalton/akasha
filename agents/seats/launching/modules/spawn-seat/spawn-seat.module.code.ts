@@ -1,4 +1,9 @@
 import {
+  type LaunchSeatResult,
+  launchSeatUnderTmux,
+} from "akasha/agents/seats/launching/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts"
+import { SEAT_MODE_HEADLESS } from "akasha/agents/seats/launching/modules/modes/seat-modes.module.code.ts"
+import {
   principalIsPerson,
   refuseAnswering,
 } from "akasha/agents/seats/modules/answering/seat-answering.module.code.ts"
@@ -8,11 +13,6 @@ import {
   personaDefaultsOf,
 } from "akasha/agents/seats/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import { isValidSeatName } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
-import {
-  type LaunchSeatResult,
-  launchSeatUnderTmux,
-} from "akasha/agents/seats/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts"
-import { SEAT_MODE_HEADLESS } from "akasha/agents/seats/modules/modes/seat-modes.module.code.ts"
 import { mintNamedAgent } from "akasha/agents/seats/modules/name-bind/seat-name-bind.module.code.ts"
 import { refuseHeldName } from "akasha/agents/seats/modules/name-held-refusal/seat-name-held-refusal.module.code.ts"
 import { refuseParentless } from "akasha/agents/seats/modules/parentless-refusal/seat-parentless-refusal.module.code.ts"

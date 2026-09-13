@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   ptyProxyRel,
   supervisorRel,
-} from "akasha/agents/seats/modules/entry-paths/seat-entry-paths.module.code.ts"
+} from "akasha/agents/seats/launching/modules/entry-paths/seat-entry-paths.module.code.ts"
 import {
   type Answer,
   accountFor,
@@ -29,7 +29,7 @@ import {
   supervisorEntryArgv,
   supervisorEntryShell,
   underScope,
-} from "akasha/agents/seats/modules/launching/seat-launching.module.code.ts"
+} from "akasha/agents/seats/launching/modules/launching/seat-launching.module.code.ts"
 
 const ROOT = "/repos/akasha"
 

@@ -2,7 +2,7 @@ import {
   parseModel,
   toCliAlias,
 } from "akasha/agents/models/modules/vocab/model-vocab.module.code.ts"
-import { readSeatConditions } from "akasha/agents/seats/modules/conditions-reading/seat-conditions-reading.module.code.ts"
+import { readSeatConditions } from "akasha/agents/seats/launching/modules/conditions-reading/seat-conditions-reading.module.code.ts"
 import { LOG } from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
 
 export type WorkerModelDeps = {

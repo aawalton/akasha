@@ -1,5 +1,18 @@
 import { readTranscriptMtimeMs } from "akasha/agents/modules/io-probe/io-probe.module.code.ts"
 import {
+  holdSeatPaneOpen,
+  killSeatSession,
+  launchSeatUnderTmux,
+  respawnSeatUnderTmux,
+} from "akasha/agents/seats/launching/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts"
+import { DEFAULT_ACCOUNT } from "akasha/agents/seats/launching/modules/launching/seat-launching.module.code.ts"
+import {
+  isSeatMode,
+  SEAT_MODE_HEADLESS,
+  SEAT_MODE_INTERACTIVE,
+  SEAT_MODES,
+} from "akasha/agents/seats/launching/modules/modes/seat-modes.module.code.ts"
+import {
   describeAckTimeout,
   setRequestedAction,
   waitForActionCleared,
@@ -10,19 +23,6 @@ import {
   resolveSeatTargetCli,
   resolveSeatTargetFromFlagOrEnv,
 } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
-import {
-  holdSeatPaneOpen,
-  killSeatSession,
-  launchSeatUnderTmux,
-  respawnSeatUnderTmux,
-} from "akasha/agents/seats/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts"
-import { DEFAULT_ACCOUNT } from "akasha/agents/seats/modules/launching/seat-launching.module.code.ts"
-import {
-  isSeatMode,
-  SEAT_MODE_HEADLESS,
-  SEAT_MODE_INTERACTIVE,
-  SEAT_MODES,
-} from "akasha/agents/seats/modules/modes/seat-modes.module.code.ts"
 import { parseWindowDuration } from "akasha/agents/seats/modules/window-duration/window-duration.module.code.ts"
 import { sweepSupersededAgentTrees } from "akasha/agents/seats/reviving/modules/recovery/seat-recovery.module.code.ts"
 import {

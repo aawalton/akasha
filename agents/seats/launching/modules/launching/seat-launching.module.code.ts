@@ -2,7 +2,7 @@ import { resolve } from "node:path"
 import {
   ptyProxyRel,
   supervisorRel,
-} from "akasha/agents/seats/modules/entry-paths/seat-entry-paths.module.code.ts"
+} from "akasha/agents/seats/launching/modules/entry-paths/seat-entry-paths.module.code.ts"
 import { sessionHeld } from "akasha/agents/seats/stopping/modules/stopping/seat-stopping.module.code.ts"
 import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 

@@ -1,6 +1,6 @@
 import { join } from "node:path"
+import { runningModeIn } from "akasha/agents/seats/launching/modules/modes/seat-modes.module.code.ts"
 import { keepBeside } from "akasha/agents/seats/modules/beside/seat-beside.module.code.ts"
-import { runningModeIn } from "akasha/agents/seats/modules/modes/seat-modes.module.code.ts"
 import {
   type BeatReport,
   beat,
