@@ -17,15 +17,23 @@ export const freshnessWidget = {
     },
     {
       invariantKind: "departure",
-      statement: "A feed counts while a tile has asked for it within the day.",
+      statement: "A feed counts while a tile placed on the phone asks for it.",
     },
     {
       invariantKind: "departure",
-      statement: "A feed no tile asked for within the day is left out of the age and the count.",
+      statement: "Which tiles are placed is read off WidgetKit rather than worked out from use.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A feed no placed tile asks for is left out of the age, the count and the band.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tile is set beside its feed through the pairing its own provider wrote.",
     },
     {
       invariantKind: "constraint",
-      statement: "A tile granted no reload for a day reads the same as a tile taken off the phone.",
+      statement: "A tile gone from the phone is asked for a picture, and that picture is fetched.",
     },
     {
       invariantKind: "departure",

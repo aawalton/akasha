@@ -5,7 +5,8 @@ struct CategorizeWidget: Widget {
     let kind = "CategorizeWidget"
 
     var body: some WidgetConfiguration {
-        StaticConfiguration(kind: kind, provider: FeedProvider<CategorizationFeed>()) { entry in
+        StaticConfiguration(kind: kind, provider: FeedProvider<CategorizationFeed>(kind: kind)) {
+            entry in
             CategorizeHomeView(entry: entry)
         }
         .configurationDisplayName("Left to Review")

@@ -110,7 +110,9 @@ struct AttributeStoplightsWidget: Widget {
     let kind = "AttributeStoplightsWidget"
 
     var body: some WidgetConfiguration {
-        StaticConfiguration(kind: kind, provider: FeedProvider<AttributeStoplightsFeed>()) { entry in
+        StaticConfiguration(
+            kind: kind, provider: FeedProvider<AttributeStoplightsFeed>(kind: kind)
+        ) { entry in
             AttributeHomeView(entry: entry)
         }
         .configurationDisplayName("Attributes")

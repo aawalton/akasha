@@ -58,6 +58,14 @@ export const alanwaltonWidgetFeed = {
       statement: "A reload this provider is granted is noted before the fetch is made.",
     },
     {
+      invariantKind: "departure",
+      statement: "A provider states the kind its tile is placed under.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The kind is paired with the feed's path where the freshness tile reads it.",
+    },
+    {
       invariantKind: "constraint",
       statement:
         "A surplus falling thirty-two an hour reaches the rung four under that surplus in seven minutes.",

@@ -112,7 +112,8 @@ struct InboxStoplightsWidget: Widget {
     let kind = "InboxStoplightsWidget"
 
     var body: some WidgetConfiguration {
-        StaticConfiguration(kind: kind, provider: FeedProvider<InboxStoplightsFeed>()) { entry in
+        StaticConfiguration(kind: kind, provider: FeedProvider<InboxStoplightsFeed>(kind: kind)) {
+            entry in
             InboxHomeView(entry: entry)
         }
         .configurationDisplayName("Inboxes")

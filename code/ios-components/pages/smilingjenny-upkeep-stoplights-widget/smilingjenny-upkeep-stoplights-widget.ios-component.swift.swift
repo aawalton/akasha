@@ -120,7 +120,8 @@ struct UpkeepStoplightsWidget: Widget {
     let kind = "HabitStoplightsWidget"
 
     var body: some WidgetConfiguration {
-        StaticConfiguration(kind: kind, provider: FeedProvider<UpkeepStoplightsFeed>()) { entry in
+        StaticConfiguration(kind: kind, provider: FeedProvider<UpkeepStoplightsFeed>(kind: kind)) {
+            entry in
             UpkeepHomeView(entry: entry)
         }
         .configurationDisplayName("Upkeep")

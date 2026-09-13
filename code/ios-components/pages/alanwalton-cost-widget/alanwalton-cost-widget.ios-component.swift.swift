@@ -59,7 +59,7 @@ struct CostWidget: Widget {
     let kind = "CostWidget"
 
     var body: some WidgetConfiguration {
-        StaticConfiguration(kind: kind, provider: FeedProvider<CostFeed>()) { entry in
+        StaticConfiguration(kind: kind, provider: FeedProvider<CostFeed>(kind: kind)) { entry in
             CostHomeView(entry: entry)
         }
         .configurationDisplayName("Cost")

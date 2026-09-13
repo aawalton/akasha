@@ -64,6 +64,31 @@ enum ReloadLog {
     }
 }
 
+// WHICH TILE ASKS FOR A FEED, SO A FEED CAN BE SET BESIDE THE TILES THE PHONE SAYS ARE UP.
+//
+// WidgetKit names the tiles a person has placed by kind, and a reading is held under the path
+// it was fetched from, so the two cannot be set beside each other without a table between
+// them. A provider holds both at once every time it runs, so that is where the pairing is
+// written down.
+enum FeedKinds {
+    static let KEY = "feed-kinds"
+
+    static func pair(kind: String, path: String) {
+        var table = UserDefaults.standard.dictionary(forKey: KEY) as? [String: String] ?? [:]
+        guard table[kind] != path else { return }
+        table[kind] = path
+        UserDefaults.standard.set(table, forKey: KEY)
+    }
+
+    static func table() -> [String: String] {
+        UserDefaults.standard.dictionary(forKey: KEY) as? [String: String] ?? [:]
+    }
+
+    static func asking(placed: [String], table: [String: String]) -> Set<String> {
+        Set(placed.compactMap { table[$0] })
+    }
+}
+
 // THE OLDEST READING ANY TILE IS DRAWING, WHICH IS THE ONE AGE WORTH A GLANCE.
 //
 // A tile writes the moment its own reading was taken, and writes it only where that reading
@@ -125,19 +150,23 @@ struct FreshnessReadout: Decodable {
 enum FreshnessReading {
     static let OVER: TimeInterval = 24 * 60 * 60
     static let OWN_PATH = "/freshness"
+    static let OWN_KIND = "FreshnessWidget"
 
-    // A FEED IS THE APP'S WHILE A TILE IS STILL ASKING FOR IT, AND NOT A MOMENT LONGER.
+    // A FEED IS THE APP'S WHILE A TILE OF THE APP IS PLACED FOR IT, AND NOT A MOMENT LONGER.
     //
     // A moment written for a feed stays written after the tile that wanted it is taken off the
-    // phone, because nothing tells the extension a tile is gone. Counting those left-behind
-    // moments made the oldest of them the answer, and the answer was a feed nobody was looking
-    // at. So a feed is counted only where a tile asked for it inside the day, which the reloads
-    // already noted say and nothing else on the phone does.
-    static func reading(taken: [String: Date], kept: [String], now: Date) -> FreshnessEntry {
+    // phone, and so do the notes of that tile's reloads, because iOS goes on asking a tile that
+    // is gone for a picture and each of those fetches is real. So neither a fresh reading nor a
+    // recent note says a tile is up, and a feed nobody was looking at became the answer under
+    // both. What says a tile is up is the list of kinds WidgetKit answers with, read every time
+    // this tile is worked out and turned into feeds through the table.
+    static func reading(
+        taken: [String: Date], kept: [String], asking: Set<String>, now: Date
+    ) -> FreshnessEntry {
         let noted = ReloadLog.since(kept, now.addingTimeInterval(-OVER))
-        let counted = ReloadLog.perPath(noted)
-        let band = ReloadLog.fewestAndMost(counted)
-        let asked = taken.filter { counted[$0.key] != nil }
+            .filter { asking.contains($0.path) }
+        let band = ReloadLog.fewestAndMost(ReloadLog.perPath(noted))
+        let asked = taken.filter { asking.contains($0.key) }
         let oldest = Freshness.stalest(asked)
         return FreshnessEntry(
             date: now, stalest: oldest?.at, stalestName: oldest.map { Freshness.naming($0.path) },
@@ -181,7 +210,7 @@ struct FreshnessProvider: TimelineProvider {
             completion(placeholder(in: context))
             return
         }
-        completion(made(at: Date()))
+        asking { completion(made(at: Date(), asking: $0)) }
     }
 
     func getTimeline(
@@ -189,11 +218,26 @@ struct FreshnessProvider: TimelineProvider {
     ) {
         let now = Date()
         ReloadLog.note(FreshnessReading.OWN_PATH, at: now)
-        completion(Timeline(entries: [made(at: now)], policy: .after(now.addingTimeInterval(900))))
+        FeedKinds.pair(kind: FreshnessReading.OWN_KIND, path: FreshnessReading.OWN_PATH)
+        asking {
+            completion(
+                Timeline(
+                    entries: [made(at: now, asking: $0)],
+                    policy: .after(now.addingTimeInterval(900))))
+        }
     }
 
-    private func made(at now: Date) -> FreshnessEntry {
-        FreshnessReading.reading(taken: Freshness.nowTaken(), kept: ReloadLog.kept(), now: now)
+    // THE TILES THE PHONE SAYS ARE PLACED, TURNED INTO THE FEEDS THOSE TILES ASK FOR.
+    private func asking(_ then: @escaping (Set<String>) -> Void) {
+        WidgetCenter.shared.getCurrentConfigurations { found in
+            let placed = (try? found.get())?.map(\.kind) ?? []
+            then(FeedKinds.asking(placed: placed, table: FeedKinds.table()))
+        }
+    }
+
+    private func made(at now: Date, asking: Set<String>) -> FreshnessEntry {
+        FreshnessReading.reading(
+            taken: Freshness.nowTaken(), kept: ReloadLog.kept(), asking: asking, now: now)
     }
 }
 
@@ -244,7 +288,7 @@ struct FreshnessHomeView: View {
 }
 
 struct FreshnessWidget: Widget {
-    let kind = "FreshnessWidget"
+    let kind = FreshnessReading.OWN_KIND
 
     var body: some WidgetConfiguration {
         StaticConfiguration(kind: kind, provider: FreshnessProvider()) { entry in

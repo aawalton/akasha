@@ -25,6 +25,10 @@ export const freshnessChecks = {
       statement: "A feed left behind by a tile taken off the phone is asserted to be left out.",
     },
     {
+      invariantKind: "departure",
+      statement: "Turning the placed kinds into the feeds they ask for is asserted here too.",
+    },
+    {
       invariantKind: "gap",
       statement: "The provider's own timeline is compiled here and never run.",
     },

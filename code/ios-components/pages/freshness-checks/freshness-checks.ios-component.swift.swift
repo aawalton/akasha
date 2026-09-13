@@ -7,8 +7,10 @@ import Foundation
 // stores as plain values, and that is what these assertions run. What stays unrun is the
 // wiring that fetches those two values out of `UserDefaults`.
 //
-// The case worth holding is the left-behind moment: a feed whose tile is gone keeps its
-// moment forever, and before this rule that moment was the answer the tile drew.
+// The case worth holding is the tile taken off the phone. iOS goes on asking such a tile for
+// a picture, so its reading stays fresh and its reloads stay noted, and under either of those
+// as the test it was still the answer the tile drew. The list of placed kinds is the only
+// thing that says it is gone, and turning that list into feeds is what these run.
 enum FreshnessChecks {
     static let now = Date(timeIntervalSince1970: 1_760_000_000)
 
@@ -23,25 +25,43 @@ enum FreshnessChecks {
     static func run() -> [(String, Bool, String)] {
         let live = "/api/claude-usage"
         let alsoLive = "/api/surplus"
-        let gone = "/api/taken-off-the-phone"
+        let gone = "/api/categorization"
 
-        let taken = [live: ago(300), alsoLive: ago(900), gone: ago(950_400)]
-        let kept = notes([(live, 100), (live, 3600), (alsoLive, 200)])
-        let read = FreshnessReading.reading(taken: taken, kept: kept, now: now)
+        let table = [
+            "ClaudeUsageWidget": live, "SurplusWidget": alsoLive, "CategorizeWidget": gone,
+        ]
+        let asking = FeedKinds.asking(
+            placed: ["ClaudeUsageWidget", "SurplusWidget"], table: table)
 
-        let onlyGone = FreshnessReading.reading(
-            taken: [gone: ago(950_400)], kept: notes([(live, 100)]), now: now)
-        let nothingNoted = FreshnessReading.reading(taken: taken, kept: [], now: now)
-        let stale = notes([(live, 100_000)])
-        let allStale = FreshnessReading.reading(taken: taken, kept: stale, now: now)
+        let taken = [live: ago(300), alsoLive: ago(900), gone: ago(1_560)]
+        let kept = notes([(live, 100), (live, 3600), (alsoLive, 200), (gone, 150)])
+        let read = FreshnessReading.reading(taken: taken, kept: kept, asking: asking, now: now)
+
+        let noneUp = FreshnessReading.reading(taken: taken, kept: kept, asking: [], now: now)
+        let noMoment = FreshnessReading.reading(taken: [:], kept: kept, asking: asking, now: now)
+        let stale = notes([(live, 100_000), (alsoLive, 100_000)])
+        let allStale = FreshnessReading.reading(
+            taken: taken, kept: stale, asking: asking, now: now)
 
         return [
             (
-                "a feed no tile asked for within the day is left out of the count",
+                "a tile the phone says is placed asks for the feed the table pairs with it",
+                asking == Set([live, alsoLive]), String(describing: asking.sorted())
+            ),
+            (
+                "a tile no longer placed asks for nothing however fresh its reading is",
+                !asking.contains(gone), String(describing: asking.sorted())
+            ),
+            (
+                "a kind the table has never paired asks for nothing rather than refusing",
+                FeedKinds.asking(placed: ["NeverRanWidget"], table: table).isEmpty, "no feed"
+            ),
+            (
+                "a feed no placed tile asks for is left out of the count",
                 read.tiles == 2, String(read.tiles)
             ),
             (
-                "the oldest reading is the oldest of the feeds still asked for",
+                "the oldest reading is the oldest of the feeds a placed tile asks for",
                 read.stalest == ago(900), String(describing: read.stalest)
             ),
             (
@@ -49,11 +69,11 @@ enum FreshnessChecks {
                 read.stalestName == "surplus", String(describing: read.stalestName)
             ),
             (
-                "a feed left behind does not become the oldest however old it is",
-                read.stalest != ago(950_400), String(describing: read.stalest)
+                "a feed left behind does not become the oldest though its moment is older",
+                read.stalestName != "categorization", String(describing: read.stalestName)
             ),
             (
-                "every reload noted within the day is counted whatever feed it was for",
+                "a reload noted for a feed no placed tile asks for is not counted",
                 read.reloads == 3, String(read.reloads)
             ),
             (
@@ -61,22 +81,18 @@ enum FreshnessChecks {
                 read.fewest == 1 && read.most == 2, "\(read.fewest)-\(read.most)"
             ),
             (
-                "a moment held for a feed nothing asked for leaves no age at all",
-                onlyGone.stalest == nil && onlyGone.tiles == 0,
-                String(describing: onlyGone.stalest)
+                "no tile placed leaves no age and no count rather than every feed let in",
+                noneUp.tiles == 0 && noneUp.stalest == nil && noneUp.reloads == 0,
+                String(noneUp.tiles)
             ),
             (
                 "a feed asked for but holding no moment is no age",
-                onlyGone.stalestName == nil, String(describing: onlyGone.stalestName)
-            ),
-            (
-                "nothing noted leaves every moment out rather than letting them all in",
-                nothingNoted.tiles == 0 && nothingNoted.stalest == nil,
-                String(nothingNoted.tiles)
+                noMoment.stalest == nil && noMoment.stalestName == nil,
+                String(describing: noMoment.stalest)
             ),
             (
                 "a note older than the day counts for nothing",
-                allStale.tiles == 0 && allStale.reloads == 0, String(allStale.reloads)
+                allStale.reloads == 0 && allStale.fewest == 0, String(allStale.reloads)
             ),
             (
                 "a feed named by its path is named by the last part of that path",

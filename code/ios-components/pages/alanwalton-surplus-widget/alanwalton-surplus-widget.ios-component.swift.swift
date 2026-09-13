@@ -56,7 +56,7 @@ struct SurplusWidget: Widget {
     let kind = "SurplusWidget"
 
     var body: some WidgetConfiguration {
-        StaticConfiguration(kind: kind, provider: FeedProvider<SurplusFeed>()) { entry in
+        StaticConfiguration(kind: kind, provider: FeedProvider<SurplusFeed>(kind: kind)) { entry in
             SurplusHomeView(entry: entry)
         }
         .configurationDisplayName("Surplus")

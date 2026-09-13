@@ -56,7 +56,8 @@ struct SafetyLevelWidget: Widget {
     let kind = "SafetyLevelWidget"
 
     var body: some WidgetConfiguration {
-        StaticConfiguration(kind: kind, provider: FeedProvider<SafetyLevelFeed>()) { entry in
+        StaticConfiguration(kind: kind, provider: FeedProvider<SafetyLevelFeed>(kind: kind)) {
+            entry in
             SafetyLevelHomeView(entry: entry)
         }
         .configurationDisplayName("Safety")

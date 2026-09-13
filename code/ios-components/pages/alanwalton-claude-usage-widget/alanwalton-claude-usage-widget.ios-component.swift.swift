@@ -21,7 +21,8 @@ struct ClaudeUsageWidget: Widget {
     let kind = "ClaudeUsageWidget"
 
     var body: some WidgetConfiguration {
-        StaticConfiguration(kind: kind, provider: FeedProvider<ClaudeUsageFeed>()) { entry in
+        StaticConfiguration(kind: kind, provider: FeedProvider<ClaudeUsageFeed>(kind: kind)) {
+            entry in
             ClaudeUsageHomeView(entry: entry)
         }
         .configurationDisplayName("Claude Usage")

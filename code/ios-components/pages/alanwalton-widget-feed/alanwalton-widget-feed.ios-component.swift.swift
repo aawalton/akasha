@@ -132,6 +132,9 @@ enum FeedTimeline {
 struct FeedProvider<Feed: WidgetFeed>: TimelineProvider {
     typealias Entry = FeedEntry<Feed.Payload>
 
+    // THE KIND THIS TILE IS PLACED UNDER, WHICH IS ALL WIDGETKIT NAMES A PLACED TILE BY.
+    let kind: String
+
     func placeholder(in context: TimelineProviderContext) -> Entry {
         Entry(date: Date(), state: .loaded(Feed.previewPayload))
     }
@@ -148,6 +151,7 @@ struct FeedProvider<Feed: WidgetFeed>: TimelineProvider {
         Task {
             let now = Date()
             ReloadLog.note(Feed.endpoint.path, at: now)
+            FeedKinds.pair(kind: kind, path: Feed.endpoint.path)
             let state = await currentState()
             let next = Calendar.current.date(byAdding: .minute, value: 15, to: now)
                 ?? now.addingTimeInterval(900)
