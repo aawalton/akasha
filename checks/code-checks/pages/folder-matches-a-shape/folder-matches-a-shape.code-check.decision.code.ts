@@ -329,6 +329,10 @@ export type Judging = {
   readonly refusalsAt: (folders: Iterable<string>) => readonly Judged[]
 }
 
+export function holdsNothing(grouped: Grouped, folder: string): boolean {
+  return grouped.at(folder).length === 0 && grouped.foldersIn(folder).length === 0
+}
+
 export function judgingOver(given: Reading): Judging {
   const index = given.shadow.index
   const grouped = given.grouped
@@ -372,6 +376,7 @@ export function judgingOver(given: Reading): Judging {
   const refusalsAt = (folders: Iterable<string>): readonly Judged[] => {
     const found: Judged[] = []
     for (const folder of [...folders].sort()) {
+      if (holdsNothing(grouped, folder)) continue
       if (segmenting(folder)) continue
       const named = basename(folder)
       const opening = heldFolder(folder, holds, heldNames)

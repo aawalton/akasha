@@ -212,6 +212,10 @@ export const folderMatchesAShape = {
       invariantKind: "departure",
       statement: "An audit pays its reach once a run, so audit is given the longer ceiling.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A folder a change leaves holding no file and no folder is judged by no shape.",
+    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 45 },
