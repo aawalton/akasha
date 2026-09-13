@@ -1,7 +1,6 @@
 #!/usr/bin/env bun
 
 import { writeSync } from "node:fs"
-import { createTypingMinuteRecorder } from "akasha/agents/seats/modules/typing-minutes/typing-minutes.module.code.ts"
 import {
   type BunPtyTerminal,
   spawnPty,
@@ -16,6 +15,7 @@ import {
   applySttySane,
   TERMINAL_MODE_RESET,
 } from "akasha/agents/seats/supervisors/modules/supervisor-terminal/supervisor-terminal.module.code.ts"
+import { createTypingMinuteRecorder } from "akasha/agents/seats/usage/modules/typing-minutes/typing-minutes.module.code.ts"
 
 const TERMINAL_DEATH_GRACE_MS = 15_000
 

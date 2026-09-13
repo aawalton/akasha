@@ -22,4 +22,4 @@ if [ -z "$AGENT_ID" ]; then
   exit 0
 fi
 
-"$BUN_BIN" "$REPO/agents/seats/modules/usage-show/seat-usage-show.module.code.ts" "$AGENT_ID"
+"$BUN_BIN" "$REPO/agents/seats/usage/modules/usage-show/seat-usage-show.module.code.ts" "$AGENT_ID"
