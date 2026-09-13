@@ -4,7 +4,7 @@ import type {
   ChildExitStatus,
 } from "akasha/agents/seats/supervisors/child/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
 import { STOP_REASON } from "akasha/agents/seats/supervisors/child/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
-import type { IdleObservation } from "akasha/agents/seats/supervisors/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
+import type { IdleObservation } from "akasha/agents/seats/supervisors/idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import {
   INITIAL_PROXY_LIVENESS_STATE,
   type ProxyLivenessState,

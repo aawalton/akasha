@@ -1,4 +1,4 @@
-import type { IdleRuleSource } from "akasha/agents/seats/supervisors/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
+import type { IdleRuleSource } from "akasha/agents/seats/supervisors/idleness/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
 import type { armDeferredRestart } from "akasha/agents/seats/supervisors/restarting/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"
 import type {
   DeferredRestartRuleSource,

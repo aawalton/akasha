@@ -3,11 +3,11 @@ import { principalSeatIdOf } from "akasha/agents/seats/declaration/modules/seat-
 import { agentPresence } from "akasha/agents/seats/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import type { SeatPresence } from "akasha/agents/seats/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
 import { akashaSeatsThatExist } from "akasha/agents/seats/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
-import type { IdleObservation } from "akasha/agents/seats/supervisors/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
+import type { IdleObservation } from "akasha/agents/seats/supervisors/idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import type {
   BusyChildDetail,
   IdleRuleSource,
-} from "akasha/agents/seats/supervisors/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
+} from "akasha/agents/seats/supervisors/idleness/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
 import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 const INFLIGHT_FETCH_TIMEOUT_MS = 1_000

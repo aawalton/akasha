@@ -1,8 +1,8 @@
+import type { IdleObservation } from "akasha/agents/seats/supervisors/idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import {
   askRule,
   type RuleAnswer,
 } from "akasha/agents/seats/supervisors/modules/supervisor-ask-rule/supervisor-ask-rule.module.code.ts"
-import type { IdleObservation } from "akasha/agents/seats/supervisors/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import type { AskDecide } from "akasha/agents/seats/supervisors/restarting/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"
 import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 

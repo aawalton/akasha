@@ -10,6 +10,12 @@ import {
   STOP_REASON,
 } from "akasha/agents/seats/supervisors/child/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
 import {
+  isIdleForPreservingRestart,
+  isIdleForPreservingRestartPastCliff,
+  isIgnoredMcpChildCmdline,
+  preservingRestartBusyReason,
+} from "akasha/agents/seats/supervisors/idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
+import {
   childExitClassification,
   childExitObservation,
   childExitStatus,
@@ -20,12 +26,6 @@ import {
   proxyLivenessState,
   rawEnv,
 } from "akasha/agents/seats/supervisors/modules/supervisor-decide-rule-inputs/supervisor-decide-rule-inputs.module.code.ts"
-import {
-  isIdleForPreservingRestart,
-  isIdleForPreservingRestartPastCliff,
-  isIgnoredMcpChildCmdline,
-  preservingRestartBusyReason,
-} from "akasha/agents/seats/supervisors/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import {
   decideProxyAdoption,
   type ProxyAdoptionInput,

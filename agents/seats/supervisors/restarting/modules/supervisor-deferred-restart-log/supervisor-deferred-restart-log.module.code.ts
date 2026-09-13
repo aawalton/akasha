@@ -1,4 +1,4 @@
-import type { BusyChildDetail } from "akasha/agents/seats/supervisors/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
+import type { BusyChildDetail } from "akasha/agents/seats/supervisors/idleness/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
 
 const BUSY_LOG_THROTTLE_MS = 60_000
 

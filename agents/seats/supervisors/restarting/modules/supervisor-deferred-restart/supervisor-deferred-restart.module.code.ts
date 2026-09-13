@@ -1,14 +1,14 @@
 import { readTranscriptMtimeMs } from "akasha/agents/modules/io-probe/io-probe.module.code.ts"
-import { guardTick } from "akasha/agents/seats/supervisors/modules/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
-import type { IdleObservation } from "akasha/agents/seats/supervisors/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
+import type { IdleObservation } from "akasha/agents/seats/supervisors/idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import {
   observeBusyChildDetails,
   observeIdle,
-} from "akasha/agents/seats/supervisors/modules/supervisor-idle-observe/supervisor-idle-observe.module.code.ts"
+} from "akasha/agents/seats/supervisors/idleness/modules/supervisor-idle-observe/supervisor-idle-observe.module.code.ts"
 import type {
   BusyChildDetail,
   IdleRuleSource,
-} from "akasha/agents/seats/supervisors/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
+} from "akasha/agents/seats/supervisors/idleness/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
+import { guardTick } from "akasha/agents/seats/supervisors/modules/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
 import {
   busyTrail,
   logPastCliffOverride,

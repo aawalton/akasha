@@ -7,7 +7,7 @@ import {
   type SelfHealRunInstall,
 } from "akasha/agents/seats/self-healing/modules/supervisor-self-heal-install/supervisor-self-heal-install.module.code.ts"
 import type { SelfHealJitterRuleSource } from "akasha/agents/seats/self-healing/modules/supervisor-self-heal-jitter-rule/supervisor-self-heal-jitter-rule.module.code.ts"
-import { LIVE_IDLE_RULE } from "akasha/agents/seats/supervisors/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
+import { LIVE_IDLE_RULE } from "akasha/agents/seats/supervisors/idleness/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
 import { LOG } from "akasha/agents/seats/supervisors/process/modules/supervisor-config/supervisor-config.module.code.ts"
 import { isProcessAlive } from "akasha/agents/seats/supervisors/process/modules/supervisor-exec/supervisor-exec.module.code.ts"
 import { getInheritedClaude } from "akasha/agents/seats/supervisors/process/modules/supervisor-state/supervisor-state.module.code.ts"
