@@ -243,6 +243,10 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
+      statement: "The index has no test of this repository's.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Color is taken out before the summary is read.",
     },
     {

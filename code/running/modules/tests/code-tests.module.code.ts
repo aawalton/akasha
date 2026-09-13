@@ -6,6 +6,7 @@ import {
   mountedOver,
   type Overlay,
 } from "akasha/code/running/modules/test-overlay/test-overlay.module.code.ts"
+import { INDEX_AT } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import {
   AKASHA,
   repos,
@@ -45,7 +46,7 @@ const MODULES = "node_modules"
 
 const GIT_DIR = ".git"
 
-const SKIPPED: readonly string[] = [MODULES, GIT_DIR]
+const SKIPPED: readonly string[] = [MODULES, GIT_DIR, INDEX_AT]
 
 const CONFIG = "bunfig.toml"
 
