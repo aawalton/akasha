@@ -15,7 +15,7 @@ export const theaChecksSystem = {
     {
       statement: "No module exports a value nothing names.",
       workingMemory:
-        "1134 refusals in all: 773 a value nothing names, 332 only a test names, 29 only its own file names. Eight fixture modules are `test-fixture` pages. The test-only head is flat now: `doctrine` 5, then `store-page-asking`, `lore-schema`, `imessage-command-reading`, `day-place`, `check-measuring`, `agent-proc-tree` at 4. Of the 773, temper holds 301, mostly constants an upstream port carried over with two of eight languages implemented; whether that is ablated or kept waits on Alan.",
+        "1014 refusals: 677 a value nothing names, 286 only a test names, 51 only its own file names. temper 267, alan 152, pages 108, agents 100, story 91, infrastructure 70. The test-only head is flat: `doctrine` 5, `lore-schema` 4, a long tail at 3. temper's refused constants are dead code rather than an unbuilt port: all eight localizations are installed. story's 91 all sit in engine, tower and ui, which nothing outside reaches but `chapterWords` and `selectGameRenderMode`.",
     },
     {
       statement: "No file the broad unexport run left alone still publishes a value only it names.",
