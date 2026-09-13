@@ -9,6 +9,7 @@ export const subagent = {
   extends: ["page-type/agent"],
   mortal: true,
   parts: [
+    "boolean-property/subagent-stopped",
     "module/compose-subagents",
     "module/subagent-body",
     "module/subagent-census",
@@ -40,6 +41,7 @@ export const subagent = {
       many: false,
       uncommitted: true,
     },
+    { pageProperty: "boolean-property/subagent-stopped", required: false, many: false },
   ],
   loadedBy: "module/agent-stated",
   invariants: [
