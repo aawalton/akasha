@@ -132,6 +132,38 @@ export const read = {
     },
     {
       invariantKind: "departure",
+      statement: "A read is recorded beside the calling agent's own page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A read waits for that page rather than answering a body it records nowhere.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A read waits 60 seconds for that page and goes the moment that page lands.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each try of that wait reads the page index again rather than an answer held.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An agent whose page is already there waits not at all.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A read whose wait runs out is refused and answers no body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal tells the agent to change nothing and run the same call again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A read whose wait runs out is an operational fault rather than a fault of input.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A read naming no file reads the calling agent's own seat page.",
     },
     {

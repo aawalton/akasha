@@ -5,6 +5,7 @@ import {
   partly,
   type Reading,
   readingIn,
+  readsFileAt,
   recordRead,
 } from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import { akashaSeatPathForCaller } from "akasha/agents/seats/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
@@ -17,6 +18,7 @@ import {
   INPUT,
   OK,
   OPERATIONAL,
+  refusedBy,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { bytesAt, textOf } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -47,6 +49,12 @@ import { warrantedIn } from "akasha/domains/context/modules/warranting/warrantin
 
 export const ANSWER_CEILING = 28000
 
+export const PAGE_CEILING = 60000
+
+const ASKED_EVERY = 150
+
+const A_SECOND = 1000
+
 const SEAT = "--seat"
 
 const MOVED = "it changed since you read it"
@@ -68,6 +76,30 @@ export const NO_AGENT = [
   "recorded under nobody is work thrown away.",
   "Say that `AGENT_ID` is unset and stop here, rather than finding a way around it.",
 ].join("\n")
+
+export function pagedWithin(root: string, agentId: string, within: number): boolean {
+  const until = Date.now() + within
+  for (;;) {
+    if (readsFileAt(root, agentId) !== null) return true
+    const left = until - Date.now()
+    if (left <= 0) return false
+    Bun.sleepSync(Math.min(ASKED_EVERY, left))
+  }
+}
+
+export function noPageFor(agentId: string, within: number): string {
+  return [
+    `The index named no page under \`${agentId}\` over the ${String(Math.round(within / A_SECOND))}`,
+    "seconds this call waited for one, and your read record sits beside that page, so this read has",
+    "nowhere to be recorded and the whole call is refused. Nothing was read and nothing was printed",
+    "here: a body printed under no record is work thrown away, because a write is refused for a body",
+    "no record shows you read.",
+    "Change nothing and run this same call again. Nothing was recorded and nothing was lost, so a",
+    "try costs only the wait, and the page may land while that try waits.",
+    "Where this refuses again and again, say that you are refused to whoever dispatched you rather",
+    "than working around the refusal.",
+  ].join("\n")
+}
 
 export type SeatAt = (agentId: string) => string | null
 
@@ -232,7 +264,8 @@ export function readWith(
   argv: readonly string[],
   given: Given,
   thrown: Discard | null,
-  seatAt: SeatAt = akashaSeatPathForCaller
+  seatAt: SeatAt = akashaSeatPathForCaller,
+  within: number = PAGE_CEILING
 ): Answer {
   if (thrown !== null) {
     return mistaking([
@@ -243,6 +276,9 @@ export function readWith(
   }
   const agentId = given.agentId
   if (agentId === null) return mistaking([NO_AGENT])
+  if (!pagedWithin(given.root, agentId, within)) {
+    return refusedBy([noPageFor(agentId, within)], OPERATIONAL)
+  }
   const meant = takenFor(argv, given.calledAs, page, [filePath, fullArgument])
   if ("refused" in meant) return mistaking([...wrongIn(meant.refused), ...meant.refused])
   const paths = meant.taken.filePath

@@ -10,6 +10,7 @@ import {
   ANSWER_CEILING,
   costOf,
   linesFor,
+  pagedWithin,
   readWith,
   restCall,
   type SeatAt,
@@ -159,6 +160,53 @@ export function heldRoot(body = "one\n"): string {
 
 export function heldRead(body?: string): Rooted {
   const root = heldRoot(body)
+  return { root, said: read(["--file-path", HELD], givenFor(root)) }
+}
+
+export const PAGELESS = "01a04e96-c80a-79ef-819f-00000000ffff"
+
+export const WAITED = 400
+
+const AT_ONCE = 0
+
+export type Waited = Rooted & { readonly spent: number }
+
+export function waitedOut(): Waited {
+  const root = heldRoot()
+  const given = { ...givenFor(root), agentId: PAGELESS }
+  const at = Date.now()
+  const said = readWith(["--file-path", HELD], given, null, SEATLESS, WAITED)
+  return { root, said, spent: Date.now() - at }
+}
+
+export type Landed = {
+  readonly before: boolean
+  readonly after: boolean
+  readonly spent: number
+}
+
+export function pagedLate(): Landed {
+  const root = heldRoot()
+  const before = pagedWithin(root, PAGELESS, AT_ONCE)
+  agentPaged(root, PAGELESS, "held-late")
+  const after = pagedWithin(root, PAGELESS, AT_ONCE)
+  const at = Date.now()
+  read(["--file-path", HELD], givenFor(root))
+  return { before, after, spent: Date.now() - at }
+}
+
+export function absoluteRead(): readonly number[] {
+  const root = heldRoot()
+  return [
+    read(["--file-path", join(root, HELD)], givenFor(root)).code,
+    read(["--file-path", join(root, "../elsewhere.ts")], givenFor(root)).code,
+  ]
+}
+
+export function movedRead(): Rooted {
+  const root = heldRoot("before\n")
+  read(["--file-path", HELD], givenFor(root))
+  writeFileSync(join(root, HELD), "after\n")
   return { root, said: read(["--file-path", HELD], givenFor(root)) }
 }
 

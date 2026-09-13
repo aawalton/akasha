@@ -1,5 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
   blobIdOf,
@@ -22,12 +21,15 @@ import {
   ANSWER_CEILING,
   costOf,
   NO_AGENT,
+  noPageFor,
   noSeatFor,
+  PAGE_CEILING,
   readWith,
   restCall,
 } from "akasha/commands/pages/read/read.command.code.ts"
 import {
   AGENT,
+  absoluteRead,
   argued,
   BIN,
   bareRead,
@@ -47,8 +49,11 @@ import {
   lettered,
   MANY,
   movedAfterCommit,
+  movedRead,
   namedOnly,
   overMany,
+  PAGELESS,
+  pagedLate,
   priced,
   read,
   restOfMany,
@@ -64,7 +69,9 @@ import {
   THING_TYPE,
   telling,
   thingRoot,
+  WAITED,
   WARRANTED,
+  waitedOut,
   wholeIn,
 } from "akasha/commands/pages/read/read.command.test-fixtures.ts"
 
@@ -117,11 +124,7 @@ test("a path outside the repository is refused rather than read", () => {
 })
 
 test("an absolute path inside the repository is read, and one outside it is not", () => {
-  const root = heldRoot()
-  const inside = read(["--file-path", join(root, HELD)], givenFor(root))
-  expect(inside.code).toBe(0)
-  const outside = read(["--file-path", join(root, "../elsewhere.ts")], givenFor(root))
-  expect(outside.code).toBe(1)
+  expect(absoluteRead()).toEqual([0, 1])
 })
 
 test("a path is read against the repository root, wherever the call was made", () => {
@@ -222,6 +225,20 @@ test("a read for an agent nothing identifies is refused, and nothing is recorded
   expect(NO_AGENT).toContain("should not be possible")
 })
 
+test("a read waits for the agent's own page, refusing with no body where none lands", () => {
+  const { root, said, spent } = waitedOut()
+  const late = pagedLate()
+  expect(said.code).toBe(3)
+  expect(said.report).toEqual([])
+  expect(said.refusals).toEqual([noPageFor(PAGELESS, WAITED)])
+  expect(said.refusals[0]).toContain("run this same call again")
+  expect(spent).toBeGreaterThanOrEqual(WAITED)
+  expect(readingIn(root, PAGELESS, HELD)).toBeNull()
+  expect(PAGE_CEILING).toBe(60000)
+  expect([late.before, late.after]).toEqual([false, true])
+  expect(late.spent).toBeLessThan(WAITED)
+})
+
 test("a read whose output is thrown away returns nothing and records nothing", () => {
   const root = heldRoot()
   const said = readWith(["--file-path", HELD], givenFor(root), "a pipe")
@@ -244,11 +261,7 @@ test("an empty body reached the agent whole, so it is recorded", () => {
 })
 
 test("a second read records the body the file holds now", () => {
-  const root = heldRoot("before\n")
-  read(["--file-path", HELD], givenFor(root))
-  writeFileSync(join(root, HELD), "after\n")
-  read(["--file-path", HELD], givenFor(root))
-  expect(readingIn(root, AGENT, HELD)?.oid).toBe(blobIdOf(bodyOf("after\n")))
+  expect(readingIn(movedRead().root, AGENT, HELD)?.oid).toBe(blobIdOf(bodyOf("after\n")))
 })
 
 test("one agent's read is not another agent's", () => {
@@ -276,10 +289,7 @@ test("--full returns the body whatever the record holds", () => {
 })
 
 test("a body that moved where git holds nothing comes back whole and says why", () => {
-  const root = heldRoot("before\n")
-  read(["--file-path", HELD], givenFor(root))
-  writeFileSync(join(root, HELD), "after\n")
-  const said = read(["--file-path", HELD], givenFor(root))
+  const said = movedRead().said
   expect(said.report[0]).toContain("it changed since you read it")
   expect(said.report[0]).toContain("the body you read is not in git")
   expect(said.report[0]).toContain("the whole file follows, 1 lines")
