@@ -1,6 +1,5 @@
-import { existsSync, mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
-import { dataIn } from "akasha/files/modules/git-place/git-place.module.code.ts"
+import { existsSync, readFileSync } from "node:fs"
+import { join } from "node:path"
 import { secretAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import {
   NO_CODE,
@@ -19,11 +18,13 @@ const SOPS = "sops"
 
 const CONFIG = ".sops.yaml"
 
-const SCRATCH = "sops"
-
 const HELD = "yaml"
 
-const LEFT = new RegExp(`^(\\d+)\\.${HELD}$`)
+const STDIN = "/dev/stdin"
+
+const BYTES = new TextEncoder()
+
+const NOTHING_IN = new Uint8Array()
 
 const CEILING = 10_000
 
@@ -62,10 +63,15 @@ function besideOr(page: string): string {
   return at
 }
 
-function ran(root: string, args: readonly string[], doing: string): Composed {
+function ran(
+  root: string,
+  args: readonly string[],
+  doing: string,
+  stdin: Uint8Array = NOTHING_IN
+): Composed {
   let done: Said
   try {
-    done = running([SOPS, ...args], { cwd: root, timeout: CEILING })
+    done = running([SOPS, ...args], { cwd: root, timeout: CEILING, stdin })
   } catch (thrown) {
     return { text: null, why: `${doing} could not run: ${String(thrown)}` }
   }
@@ -78,34 +84,6 @@ function ran(root: string, args: readonly string[], doing: string): Composed {
   return { text: done.out, why: "" }
 }
 
-function gone(pid: number): boolean {
-  try {
-    process.kill(pid, 0)
-    return false
-  } catch (thrown) {
-    return (thrown as NodeJS.ErrnoException).code === "ESRCH"
-  }
-}
-
-function sweepScratch(folder: string): undefined {
-  for (const name of readdirSync(folder)) {
-    const said = LEFT.exec(name)
-    if (said === null) continue
-    const pid = Number(said[1])
-    if (pid === process.pid || !gone(pid)) continue
-    rmSync(join(folder, name), { force: true })
-  }
-}
-
-function scratchFor(root: string, body: string): string {
-  const at = dataIn(root, SCRATCH, `${process.pid}.${HELD}`)
-  const folder = dirname(at)
-  mkdirSync(folder, { recursive: true })
-  sweepScratch(folder)
-  writeFileSync(at, body, "utf8")
-  return at
-}
-
 export function cipherFor(root: string, page: string, values: Secrets): Composed {
   const sidecar = besideOr(page)
   if (values.size === 0) {
@@ -115,32 +93,28 @@ export function cipherFor(root: string, page: string, values: Secrets): Composed
     const wrong = unfit(key, value)
     if (wrong !== null) return { text: null, why: wrong }
   }
-  const at = scratchFor(root, yamlOf(values))
-  try {
-    const said = ran(
-      root,
-      [
-        "--config",
-        join(root, CONFIG),
-        "encrypt",
-        "--filename-override",
-        sidecar,
-        "--input-type",
-        HELD,
-        "--output-type",
-        HELD,
-        at,
-      ],
-      `encrypting ${sidecar}`
-    )
-    if (said.text === null) return said
-    if (!looksEncrypted(said.text)) {
-      return { text: null, why: `what was composed for ${sidecar} carries no sops mac` }
-    }
-    return said
-  } finally {
-    rmSync(at, { force: true })
+  const said = ran(
+    root,
+    [
+      "--config",
+      join(root, CONFIG),
+      "encrypt",
+      "--filename-override",
+      sidecar,
+      "--input-type",
+      HELD,
+      "--output-type",
+      HELD,
+      STDIN,
+    ],
+    `encrypting ${sidecar}`,
+    BYTES.encode(yamlOf(values))
+  )
+  if (said.text === null) return said
+  if (!looksEncrypted(said.text)) {
+    return { text: null, why: `what was composed for ${sidecar} carries no sops mac` }
   }
+  return said
 }
 
 function valuesFrom(said: string, sidecar: string): Secrets {

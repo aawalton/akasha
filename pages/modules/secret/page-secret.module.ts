@@ -55,24 +55,19 @@ export const pageSecret = {
     },
     {
       invariantKind: "departure",
-      statement: "sops is handed a real file sops can open and seek rather than a pipe.",
+      statement: "sops is handed the plaintext on its input rather than at a path.",
     },
     {
-      invariantKind: "departure",
-      statement: "The plaintext handed to sops sits under the folder git does not track.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The plaintext handed to sops is taken away however the call ends.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Plaintext a process that is gone left behind is taken away before the next is written.",
+      invariantKind: "absence",
+      statement: "No plaintext reaches the disk.",
     },
     {
       invariantKind: "departure",
       statement: "`--filename-override` names the sops file the ciphertext is for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That name settles which rule encrypts, though no file sits at it.",
     },
     {
       invariantKind: "departure",

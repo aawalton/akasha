@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { copyFileSync, existsSync, mkdirSync, readdirSync, writeFileSync } from "node:fs"
+import { copyFileSync, existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { dataIn } from "akasha/files/modules/git-place/git-place.module.code.ts"
@@ -87,21 +87,18 @@ test("what is composed is encrypted, names its keys in the open, and decrypts ba
   expect(keysBeside(root, PAGE)).toEqual(["access-token", "refresh-token"])
 })
 
-test("the plaintext handed to sops does not remain after the call", () => {
+test("no plaintext reaches the disk, so the store the scratch sat in is never made", () => {
   const root = rooted()
-  cipherFor(root, PAGE, held({ "access-token": "one" }))
-  const at = dataIn(root, "sops")
-  expect(existsSync(at) ? readdirSync(at) : []).toEqual([])
+  const said = cipherFor(root, PAGE, held({ "access-token": "one" }))
+  expect(said.text).not.toBeNull()
+  expect(existsSync(dataIn(root, "sops"))).toBe(false)
 })
 
-test("plaintext a process that is gone left behind is taken away, a live one's kept", () => {
+test("the name given for the file settles which rule encrypts, though no file sits there", () => {
   const root = rooted()
-  const at = dataIn(root, "sops")
-  mkdirSync(at, { recursive: true })
-  writeFileSync(join(at, "2147483647.yaml"), 'access-token: "left"\n', "utf8")
-  writeFileSync(join(at, "1.yaml"), 'access-token: "live"\n', "utf8")
-  cipherFor(root, PAGE, held({ "access-token": "one" }))
-  expect(readdirSync(at)).toEqual(["1.yaml"])
+  const said = cipherFor(root, PAGE, held({ "access-token": "one" }))
+  if (said.text === null) throw new Error(said.why)
+  expect(said.text).toContain("access-token: ENC[")
 })
 
 test("a page with no sops file beside it carries no secrets, which is an answer", () => {
