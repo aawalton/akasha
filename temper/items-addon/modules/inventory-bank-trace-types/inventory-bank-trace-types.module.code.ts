@@ -37,9 +37,16 @@ export interface BankTracePacedDispatch {
   abortedEarly: boolean
 }
 
+export interface BankTraceStackingCount {
+  bag: number
+  partialsBefore: number
+  partialsAfter?: number
+}
+
 export interface BankTraceStacking {
   ran: boolean
   bags?: number[]
+  counts?: BankTraceStackingCount[]
   skipped?: string
 }
 

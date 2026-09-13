@@ -37,7 +37,7 @@ export function beginVenueTrace(venue: VenueKind, bankingBag: number): undefined
   visitGeneration += 1
   craftingAtOpen = readCraftingSlotHandlerStats()
   const trace: BankTrace = {
-    schemaVersion: 7,
+    schemaVersion: 8,
     timestamp: GetTimeStamp(),
     venue,
     bankingBag,

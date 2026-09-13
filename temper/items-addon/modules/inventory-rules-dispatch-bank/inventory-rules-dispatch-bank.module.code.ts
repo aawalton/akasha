@@ -3,6 +3,7 @@ import {
   recordBankPhaseMs,
   recordStacking,
 } from "akasha/temper/items-addon/modules/inventory-bank-trace/inventory-bank-trace.module.code.ts"
+import type { BankTraceStackingCount } from "akasha/temper/items-addon/modules/inventory-bank-trace-types/inventory-bank-trace-types.module.code.ts"
 import { getInventoryConfig } from "akasha/temper/items-addon/modules/inventory-config/inventory-config.module.code.ts"
 import { HOUSE_BANK_BAGS } from "akasha/temper/items-addon/modules/inventory-constants/inventory-constants.module.code.ts"
 import { moveItem } from "akasha/temper/items-addon/modules/inventory-move-item/inventory-move-item.module.code.ts"
@@ -28,27 +29,49 @@ export function isDispatchingBank(): boolean {
   return dispatchingBank
 }
 
+const STACK_SETTLE_MS = 2000
+
+function partialStackCount(this: void, bag: number): number {
+  let partials = 0
+  const bagSize = GetBagSize(bag)
+  for (let slot = 0; slot < bagSize; slot++) {
+    const [stack, maxStack] = GetSlotStackSize(bag, slot)
+    if (stack > 0 && maxStack > 1 && stack < maxStack) partials++
+  }
+  return partials
+}
+
+function bagsVisitStacks(this: void, bankingBag: number): number[] {
+  if (bankingBag === BAG_BANK || bankingBag === BAG_SUBSCRIBER_BANK) {
+    if (IsESOPlusSubscriber()) return [BAG_BACKPACK, BAG_BANK, BAG_SUBSCRIBER_BANK]
+    return [BAG_BACKPACK, BAG_BANK]
+  }
+  return [BAG_BACKPACK, bankingBag]
+}
+
 function stackVisitedBags(this: void, bankingBag: number): undefined {
   if (getInventoryConfig().backpack?.autoStack === false) {
     recordStacking({ ran: false, skipped: "the autoStack setting is off" })
     return
   }
-  const bags: number[] = []
-  StackBag(BAG_BACKPACK)
-  bags.push(BAG_BACKPACK)
-  if (bankingBag === BAG_BANK || bankingBag === BAG_SUBSCRIBER_BANK) {
-    StackBag(BAG_BANK)
-    bags.push(BAG_BANK)
-    if (IsESOPlusSubscriber()) {
-      StackBag(BAG_SUBSCRIBER_BANK)
-      bags.push(BAG_SUBSCRIBER_BANK)
-    }
-    recordStacking({ ran: true, bags })
-    return
+  const bags = bagsVisitStacks(bankingBag)
+  const counts: BankTraceStackingCount[] = []
+  for (const bag of bags) {
+    counts.push({ bag, partialsBefore: partialStackCount(bag) })
+    StackBag(bag)
   }
-  StackBag(bankingBag)
-  bags.push(bankingBag)
-  recordStacking({ ran: true, bags })
+  recordStacking({ ran: true, bags, counts })
+  zo_callLater(function (this: void): undefined {
+    const settled: BankTraceStackingCount[] = []
+    for (const one of counts) {
+      settled.push({
+        bag: one.bag,
+        partialsBefore: one.partialsBefore,
+        partialsAfter: partialStackCount(one.bag),
+      })
+    }
+    recordStacking({ ran: true, bags, counts: settled })
+  }, STACK_SETTLE_MS)
 }
 
 export function onOpenBank(): undefined {

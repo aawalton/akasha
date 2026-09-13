@@ -39,10 +39,19 @@ const PACED_DISPATCH_SCHEMA = z
   })
   .strict()
 
+const STACKING_COUNT_SCHEMA = z
+  .object({
+    bag: z.number(),
+    partialsBefore: z.number(),
+    partialsAfter: z.number().optional(),
+  })
+  .strict()
+
 const STACKING_SCHEMA = z
   .object({
     ran: z.boolean(),
     bags: luaArrayOrEmpty(z.number()).optional(),
+    counts: luaArrayOrEmpty(STACKING_COUNT_SCHEMA).optional(),
     skipped: z.string().optional(),
   })
   .strict()

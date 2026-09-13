@@ -51,7 +51,14 @@ export function stackingSaid(stacking: BankTraceStacking | undefined): string {
   }
   const bags = stacking.bags ?? []
   if (bags.length === 0) return "stacking: ran over no bags"
-  return `stacking: ran over bags ${bags.join(", ")}`
+  const counts = stacking.counts ?? []
+  if (counts.length === 0) return `stacking: ran over bags ${bags.join(", ")}`
+  const each = counts.map(
+    (one) =>
+      `${one.bag}: ${one.partialsBefore}→` +
+      `${one.partialsAfter === undefined ? "unsettled" : one.partialsAfter}`
+  )
+  return `stacking: ran over bags ${bags.join(", ")} (partial stacks ${each.join(", ")})`
 }
 
 export function handlerSaid(handler: BankTraceSettling | undefined): readonly string[] {
