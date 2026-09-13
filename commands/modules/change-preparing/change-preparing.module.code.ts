@@ -16,6 +16,7 @@ import type { Refused } from "akasha/commands/modules/landing/landing.module.cod
 import { changeOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import type { FileMove } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
+import { filingsFor } from "akasha/pages/indexes/modules/carrying/index-carrying.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { unexportableIn } from "akasha/pages/modules/export-name/modules/export-naming/export-naming.module.code.ts"
 import { typesFor } from "akasha/pages/types/modules/type-generating/type-generating.module.code.ts"
@@ -147,18 +148,27 @@ export function preparing(
   const globbed = globbedFor(change)
   const typed = typesFor(change)
   const written = bodiesFor(change)
+  const carried = filingsFor(change)
   const added = [
     ...locking.edits,
     ...stepped.edits,
     ...globbed.edits,
     ...typed.edits,
     ...written.edits,
+    ...carried.edits,
   ]
   return {
     formatting,
     authored: rows,
     changes: [...rows, ...added],
-    said: [...locking.said, ...stepped.said, ...globbed.said, ...typed.said, ...written.said],
+    said: [
+      ...locking.said,
+      ...stepped.said,
+      ...globbed.said,
+      ...typed.said,
+      ...written.said,
+      ...carried.said,
+    ],
     over: added.length === 0 ? change : null,
   }
 }

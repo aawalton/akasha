@@ -87,7 +87,7 @@ export const changePreparing = {
     },
     {
       invariantKind: "departure",
-      statement: "Every road that lands works those six out through one step here.",
+      statement: "Every road that lands works those seven out through one step here.",
     },
     {
       invariantKind: "departure",
@@ -179,6 +179,11 @@ export const changePreparing = {
     {
       invariantKind: "absence",
       statement: "Nothing here writes a file or takes the hold.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The index answers the change carries are worked out before the hold is taken alongside those six.",
     },
   ],
 } as const satisfies Module
