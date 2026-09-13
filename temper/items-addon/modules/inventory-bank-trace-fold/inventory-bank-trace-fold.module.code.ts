@@ -35,6 +35,8 @@ export function emptySettlingStats(): BankTraceSettling {
     slotUpdate: emptyBracket(),
     fullUpdate: emptyBracket(),
     scanCraftBag: emptyBracket(),
+    buildFacts: emptyBracket(),
+    walkRules: emptyBracket(),
   }
 }
 

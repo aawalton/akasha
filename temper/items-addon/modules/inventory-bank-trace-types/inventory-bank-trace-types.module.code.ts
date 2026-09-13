@@ -22,6 +22,8 @@ export interface BankTraceSettling {
   slotUpdate: BankTraceBracket
   fullUpdate: BankTraceBracket
   scanCraftBag: BankTraceBracket
+  buildFacts: BankTraceBracket
+  walkRules: BankTraceBracket
   crafting?: BankTraceCraftingStats
   unattributedMs?: number
 }
@@ -52,6 +54,7 @@ export interface BankTrace {
   openHandlerMs?: number
   openToCloseMs?: number
   netWorth: BankTraceNetWorth
+  handler: BankTraceSettling
   settling: BankTraceSettling
   pacedDispatch?: BankTracePacedDispatch
 }

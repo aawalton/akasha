@@ -138,7 +138,9 @@ export function findMatchedRule(
     return undefined
   }
 
+  const walkStart = GetGameTimeMilliseconds()
   const trace = walkRules(compiled.orderedRules, facts, ctx)
+  recordSettlingMs("walkRules", GetGameTimeMilliseconds() - walkStart)
   if (trace.outcome.kind !== "matched") return undefined
 
   const matchedIndex = trace.outcome.rule.index

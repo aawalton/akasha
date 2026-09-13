@@ -1,4 +1,5 @@
 import { parsePotionData } from "akasha/temper/characters-capture-addon/modules/character-capture-potion-map/character-capture-potion-map.module.code.ts"
+import { recordSettlingMs } from "akasha/temper/items-addon/modules/inventory-bank-trace/inventory-bank-trace.module.code.ts"
 import {
   findItemInInventory,
   isItemLinkCraftedSafe,
@@ -22,6 +23,13 @@ import { locationConditionFromKeyAndBag } from "akasha/temper/items-core/modules
 import { resolvePotionRestoreMetricIds } from "akasha/temper/items-rules-core/modules/potion-restore-resolve/potion-restore-resolve.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/modules/item-facts/item-facts.module.code.ts"
 export function buildItemFactsForSlot(bagId: number, slotIndex: number): ItemFacts | undefined {
+  const start = GetGameTimeMilliseconds()
+  const facts = buildItemFactsForSlotInner(bagId, slotIndex)
+  recordSettlingMs("buildFacts", GetGameTimeMilliseconds() - start)
+  return facts
+}
+
+function buildItemFactsForSlotInner(bagId: number, slotIndex: number): ItemFacts | undefined {
   const [stackSize, maxStack] = GetSlotStackSize(bagId, slotIndex)
   if (stackSize === 0) return undefined
 

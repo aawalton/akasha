@@ -31,6 +31,8 @@ type Settling = {
   readonly slotUpdate?: Bracket
   readonly fullUpdate?: Bracket
   readonly scanCraftBag?: Bracket
+  readonly buildFacts?: Bracket
+  readonly walkRules?: Bracket
   readonly crafting?: { readonly count: number; readonly totalMs: number }
   readonly unattributedMs?: number
 }
@@ -61,6 +63,7 @@ type BankTrace = {
     readonly walkTotalMs: number
     readonly walkMaxMs: number
   }
+  readonly handler?: Settling
   readonly settling?: Settling
   readonly pacedDispatch?: PacedDispatch
 }
@@ -93,7 +96,21 @@ function settlingSaid(settling: Settling | undefined): readonly string[] {
       `full-update ${optBracketSaid(settling.fullUpdate)}; ` +
       `scan-craft-bag ${optBracketSaid(settling.scanCraftBag)}`,
     crafting,
+    `  of that judging: build-facts ${optBracketSaid(settling.buildFacts)}; ` +
+      `walk-rules ${optBracketSaid(settling.walkRules)}`,
     `unattributed remainder: ${ms(settling.unattributedMs)}`,
+  ]
+}
+
+function handlerSaid(handler: Settling | undefined): readonly string[] {
+  if (handler === undefined) {
+    return ["in open handler: nil (pre-v6 trace — bank once more to capture it)"]
+  }
+  return [
+    `in open handler: evaluateRules ${bracketSaid(handler.evaluateRules)}; ` +
+      `bank-panel-refresh ${bracketSaid(handler.bankPanelRefresh)}`,
+    `  of that judging: build-facts ${optBracketSaid(handler.buildFacts)}; ` +
+      `walk-rules ${optBracketSaid(handler.walkRules)}`,
   ]
 }
 
@@ -117,6 +134,7 @@ function traceSaid(trace: BankTrace): readonly string[] {
     pacedSaid(trace.pacedDispatch),
     `net-worth walks: ${trace.netWorth.walkCount}, total ${trace.netWorth.walkTotalMs}ms, ` +
       `max ${trace.netWorth.walkMaxMs}ms`,
+    ...handlerSaid(trace.handler),
     ...settlingSaid(trace.settling),
   ]
 }

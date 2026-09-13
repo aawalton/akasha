@@ -44,6 +44,8 @@ const SETTLING_SCHEMA = z
     slotUpdate: BRACKET_SCHEMA.optional(),
     fullUpdate: BRACKET_SCHEMA.optional(),
     scanCraftBag: BRACKET_SCHEMA.optional(),
+    buildFacts: BRACKET_SCHEMA.optional(),
+    walkRules: BRACKET_SCHEMA.optional(),
     crafting: CRAFTING_SCHEMA.optional(),
     unattributedMs: z.number().optional(),
   })
@@ -65,6 +67,7 @@ const TRACE_SCHEMA = z
     openHandlerMs: z.number().optional(),
     openToCloseMs: z.number().optional(),
     netWorth: NET_WORTH_SCHEMA,
+    handler: SETTLING_SCHEMA.optional(),
     settling: SETTLING_SCHEMA.optional(),
     pacedDispatch: PACED_DISPATCH_SCHEMA.optional(),
   })

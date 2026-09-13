@@ -36,11 +36,12 @@ export function beginVenueTrace(venue: VenueKind, bankingBag: number): undefined
   visitGeneration += 1
   craftingAtOpen = readCraftingSlotHandlerStats()
   const trace: BankTrace = {
-    schemaVersion: 5,
+    schemaVersion: 6,
     timestamp: GetTimeStamp(),
     venue,
     bankingBag,
     netWorth: emptyNetWorthStats(),
+    handler: emptySettlingStats(),
     settling: emptySettlingStats(),
   }
   activeTrace = trace
@@ -150,10 +151,15 @@ export type SettlingBracketKey =
   | "slotUpdate"
   | "fullUpdate"
   | "scanCraftBag"
+  | "buildFacts"
+  | "walkRules"
 
 export function recordSettlingMs(key: SettlingBracketKey, ms: number): undefined {
   if (activeTrace === undefined) return
-  if (!openHandlerDone) return
+  if (!openHandlerDone) {
+    activeTrace.handler[key] = foldBracket(activeTrace.handler[key], ms)
+    return
+  }
   if (pastTrailingWindow()) {
     activeTrace = undefined
     return

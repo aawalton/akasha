@@ -39,8 +39,13 @@ export const inventoryBankTrace = {
         "A venue with no instrument ends the traced visit rather than taking its settling.",
     },
     {
-      invariantKind: "gap",
-      statement: "The spend inside a venue's own open handler is attributed.",
+      invariantKind: "departure",
+      statement:
+        "What a venue's open handler spends is bracketed apart from what settles after it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Neither bucket's brackets are subtracted twice from the unattributed remainder.",
     },
   ],
 } as const satisfies Module
