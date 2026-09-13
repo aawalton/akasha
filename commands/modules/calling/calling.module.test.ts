@@ -1,6 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import { rmSync } from "node:fs"
-import { join } from "node:path"
 import { DATA, INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { calling, commandsIn, HELP } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
@@ -23,7 +21,10 @@ import {
   trackSession,
   WILL_NOT_LOAD,
 } from "akasha/commands/modules/calling/calling.module.test-fixtures.ts"
-import { idTakenFrom } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import {
+  idTakenFrom,
+  indexTakenFrom,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 
 afterAll(sweep)
 
@@ -298,7 +299,7 @@ test("a file at the path the bootstrap loaded is listed among no commands", asyn
 test("`index refresh` with no index at all is answered without the index", async () => {
   const root = rootWith([{ slug: "held", body: ANSWERS }])
   bootstrapped(root)
-  rmSync(join(root, ".git"), { recursive: true })
+  indexTakenFrom(root)
   const said = await calling(["index", "refresh"], { ...OUTSIDE, root })
   expect(said.refusals[0]).toContain("so there is no index to build")
   expect(said.refusals.join(" ")).not.toContain("was looked for and not read")
@@ -306,7 +307,7 @@ test("`index refresh` with no index at all is answered without the index", async
 
 test("a name looked for where no index is answers as unread", async () => {
   const root = rootWith([{ slug: "held", body: ANSWERS }])
-  rmSync(join(root, ".git"), { recursive: true })
+  indexTakenFrom(root)
   const said = await calling(["held"], { ...OUTSIDE, root })
   expect(said.code).toBe(DATA)
   expect(said.refusals[0]).toContain("was looked for and not read")
@@ -316,7 +317,7 @@ test("a name looked for where no index is answers as unread", async () => {
 
 test("a name looked for where no index is builds nothing and names the call that would", async () => {
   const root = rootWith([{ slug: "held", body: ANSWERS }])
-  rmSync(join(root, ".git"), { recursive: true })
+  indexTakenFrom(root)
   const said = await calling(["held"], { ...OUTSIDE, root })
   expect(said.refusals[0]).toContain("Say `akasha index refresh`")
   expect(said.refusals[0]).not.toContain("built again")
