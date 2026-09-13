@@ -21,7 +21,7 @@ import {
   type Typing,
   typed,
   typingOver,
-} from "akasha/code/reading/modules/typing/code-typing.module.code.ts"
+} from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import { importingOf } from "akasha/pages/indexes/modules/path-naming/path-naming.module.code.ts"
 import ts from "typescript"
 

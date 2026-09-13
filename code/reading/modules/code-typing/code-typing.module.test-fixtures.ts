@@ -3,11 +3,11 @@ import { dirname, join } from "node:path"
 import type {
   Placing,
   Reading,
-} from "akasha/code/reading/modules/typing/code-typing.module.code.ts"
+} from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import {
   placingOver,
   readingOf,
-} from "akasha/code/reading/modules/typing/code-typing.module.code.ts"
+} from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 export const PACKAGED = "node_modules/@akasha"

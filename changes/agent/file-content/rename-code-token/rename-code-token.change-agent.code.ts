@@ -11,14 +11,14 @@ import {
   declaredOn,
   exportsNamed,
 } from "akasha/code/reading/modules/code-naming/code-naming.module.code.ts"
-import { scoping } from "akasha/code/reading/modules/source/code-source.module.code.ts"
 import {
   placingOver,
   readingOf,
   type Typing,
   typed,
   typingOver,
-} from "akasha/code/reading/modules/typing/code-typing.module.code.ts"
+} from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
+import { scoping } from "akasha/code/reading/modules/source/code-source.module.code.ts"
 import { importingOf } from "akasha/pages/indexes/modules/path-naming/path-naming.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"

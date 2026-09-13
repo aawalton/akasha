@@ -2,7 +2,7 @@ import { resolve } from "node:path"
 import {
   insideOf,
   type Typing,
-} from "akasha/code/reading/modules/typing/code-typing.module.code.ts"
+} from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import ts from "typescript"
 
 export type Naming = {

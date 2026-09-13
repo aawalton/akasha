@@ -11,7 +11,7 @@ import {
   sparedIn,
   unreachedIn,
 } from "akasha/checks/code-checks/pages/no-unused-exports/no-unused-exports.code-check.decision.code.ts"
-import { typed } from "akasha/code/reading/modules/typing/code-typing.module.code.ts"
+import { typed } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 
 const DROP = "change-mechanical-file-content/remove-export-keyword"
 

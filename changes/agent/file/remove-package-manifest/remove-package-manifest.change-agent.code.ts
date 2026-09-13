@@ -19,7 +19,7 @@ import {
   spelledByNaming,
 } from "akasha/changes/modules/package-naming/package-naming.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { typed } from "akasha/code/reading/modules/typing/code-typing.module.code.ts"
+import { typed } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import {
   calledIn,
   objectIn,

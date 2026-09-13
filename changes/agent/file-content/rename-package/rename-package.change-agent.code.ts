@@ -19,7 +19,7 @@ import {
   namingIn,
   refusalOf,
 } from "akasha/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.decision.code.ts"
-import { typed } from "akasha/code/reading/modules/typing/code-typing.module.code.ts"
+import { typed } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import {
   calledIn,
   objectIn,
