@@ -28,14 +28,15 @@ export function carries(holding: ts.TypeLiteralNode, key: string): boolean {
   )
 }
 
-export function imports(source: ts.SourceFile, held: string): boolean {
+export function importedFrom(source: ts.SourceFile, held: string): string | null {
   for (const one of source.statements) {
     if (!ts.isImportDeclaration(one)) continue
     const named = one.importClause?.namedBindings
     if (named === undefined || !ts.isNamedImports(named)) continue
-    if (named.elements.some((each) => each.name.text === held)) return true
+    if (!named.elements.some((each) => each.name.text === held)) continue
+    return ts.isStringLiteral(one.moduleSpecifier) ? one.moduleSpecifier.text : null
   }
-  return false
+  return null
 }
 
 export function withImport(source: ts.SourceFile, line: string): Splice {
@@ -86,9 +87,16 @@ export function addTypeMember(world: World, given: AddTypeMemberAsked): Said {
   if (carries(holding, given.key)) {
     return refusing(`\`${given.type}\` carries \`${given.key}\` already`)
   }
+  const imported = importedFrom(source, given.held)
+  if (imported !== null && imported !== given.from) {
+    return refusing(
+      `\`${given.held}\` is imported from \`${imported}\` rather than from ` +
+        `\`${given.from}\`, so no member is put in`
+    )
+  }
   const put = `${given.key}${given.optional === true ? "?" : ""}: ${given.held}`
   const splices: Splice[] = []
-  if (!imports(source, given.held)) {
+  if (imported === null) {
     const line = `import type { ${given.held} } from ${JSON.stringify(given.from)}`
     splices.push(withImport(source, line))
   }

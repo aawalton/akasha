@@ -26,7 +26,12 @@ export const addTypeMember = {
     },
     {
       invariantKind: "departure",
-      statement: "A name the body imports already is not imported a second time.",
+      statement: "A name the body imports from the path stated is not imported a second time.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A name the body imports from another path is refused rather than bound to that path.",
     },
     {
       invariantKind: "departure",

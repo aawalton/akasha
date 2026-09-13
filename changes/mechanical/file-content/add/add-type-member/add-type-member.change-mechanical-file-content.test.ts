@@ -57,10 +57,22 @@ test("the type a member names is imported in the same answer", () => {
   expect(bodyOf(said, world.base)).toContain(`import type { WebDirectory } from "${FROM}"`)
 })
 
-test("a name the body imports already is not imported a second time", () => {
-  const { world, said } = answering(HOLDING, { held: "Manifest", key: "second" })
+test("a name the body imports from the path stated is not imported a second time", () => {
+  const { world, said } = answering(HOLDING, {
+    held: "Manifest",
+    key: "second",
+    from: MANIFEST_FROM,
+  })
   const left = bodyOf(said, world.base)
   expect(left.split("import type { Manifest }")).toHaveLength(2)
+})
+
+test("a name the body imports from another path is refused rather than bound to that path", () => {
+  const { said } = answering(HOLDING, { held: "Manifest", key: "second" })
+  expect(refusalOf(said)).toBe(
+    `\`Manifest\` is imported from \`${MANIFEST_FROM}\` rather than from \`${FROM}\`, ` +
+      "so no member is put in"
+  )
 })
 
 test("a member is written optional where the change is told the member is optional", () => {
