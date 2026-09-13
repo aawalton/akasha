@@ -1,8 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { runChange as changePageProperty } from "akasha/changes/mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.code.ts"
-import { runChange as renameExport } from "akasha/changes/mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
 import { renameSlug } from "akasha/changes/mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.code.ts"
-import { refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   bodiesIn,
@@ -13,6 +10,10 @@ import {
   bodyAfter,
   bodyAt,
 } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import {
+  listing,
+  running,
+} from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
   aType,
   bodyOf,
@@ -52,17 +53,7 @@ function holding(body: string): (path: string) => string | null {
 }
 
 function worldIn(root: string, textOf: (path: string) => string | null): World {
-  return worldAt(root, textOf, (world, at, given) => {
-    if (at === "change-mechanical-file-content/change-page-page-property") {
-      return Promise.resolve(
-        changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
-      )
-    }
-    if (at === "change-mechanical-file-content/rename-export") {
-      return Promise.resolve(renameExport(world, given as Parameters<typeof renameExport>[1]))
-    }
-    return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
-  })
+  return worldAt(root, textOf, running)
 }
 
 function bodiesOf(said: Answer, world: World): ReadonlyMap<string, string | null> {
@@ -239,14 +230,7 @@ test("the plural and the export rename are reached at their own addresses", asyn
     `"slug": "${HELD_SLUG}",`,
     `"slug": "${HELD_SLUG}",\n  "pluralSlug": "helds",`
   )
-  const world = worldAt(
-    root,
-    (path) => (path === HELD_PAGE ? held : text(path)),
-    (_world, at) => {
-      reached.push(at)
-      return Promise.resolve({ edits: [], refused: null })
-    }
-  )
+  const world = worldAt(root, (path) => (path === HELD_PAGE ? held : text(path)), listing(reached))
 
   await renameSlug(world, { at: HELD_PAGE, to: KEPT, plural: "kepts" })
 

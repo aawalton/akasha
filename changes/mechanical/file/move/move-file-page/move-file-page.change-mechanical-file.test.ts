@@ -1,18 +1,15 @@
 import { afterAll, expect, test } from "bun:test"
-import { runChange as moveFile } from "akasha/changes/mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
-import { runChange as moveFileCode } from "akasha/changes/mechanical/file/move/move-file-code/move-file-code.change-mechanical.code.ts"
 import {
   landingFor,
   runChange,
 } from "akasha/changes/mechanical/file/move/move-file-page/move-file-page.change-mechanical-file.code.ts"
-import { runChange as changeImports } from "akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
-import { refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   bodiesIn,
   type World,
   worldAt,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
   HELD_CODE,
   HELD_PAGE,
@@ -37,18 +34,9 @@ const BARE_PAGE = "akasha/five/bare.module.ts"
 const BARE_INTO = "akasha/carried/bare.module.ts"
 
 function worldIn(root: string, reached: string[] = []): World {
-  return worldAt(root, textIn(root), async (world, at, given) => {
+  return worldAt(root, textIn(root), (world, at, given) => {
     reached.push(at)
-    if (at === "change-mechanical-file/move-file") {
-      return moveFile(world, given as Parameters<typeof moveFile>[1])
-    }
-    if (at === "change-mechanical/move-file-code") {
-      return await moveFileCode(world, given as Parameters<typeof moveFileCode>[1])
-    }
-    if (at === "change-mechanical-file-content/change-imports") {
-      return changeImports(world, given as Parameters<typeof changeImports>[1])
-    }
-    return refusing(`\`${at}\` is reached by nothing here`)
+    return running(world, at, given)
   })
 }
 

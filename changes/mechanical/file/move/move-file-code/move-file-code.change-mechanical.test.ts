@@ -1,12 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
-import { runChange as moveFile } from "akasha/changes/mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
 import { runChange } from "akasha/changes/mechanical/file/move/move-file-code/move-file-code.change-mechanical.code.ts"
-import { runChange as changeImports } from "akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import {
   type BodyOf,
   gathered,
   leftAt,
-  refusing,
 } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer, Moving } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
@@ -15,6 +12,10 @@ import {
   worldAt,
   worldOver,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import {
+  listing,
+  running,
+} from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
   HELD_CODE,
   indexedRepo,
@@ -30,15 +31,7 @@ const KEPT = "akasha/one/kept.module.code.ts"
 const CARRIED = "akasha/one/carried.module.code.ts"
 
 function worldIn(root: string, textOf: (path: string) => string | null): World {
-  return worldAt(root, textOf, (world, at, given) => {
-    if (at === "change-mechanical-file/move-file") {
-      return Promise.resolve(moveFile(world, given as Parameters<typeof moveFile>[1]))
-    }
-    if (at === "change-mechanical-file-content/change-imports") {
-      return Promise.resolve(changeImports(world, given as Parameters<typeof changeImports>[1]))
-    }
-    return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
-  })
+  return worldAt(root, textOf, running)
 }
 
 function pathsOf(said: Answer): readonly string[] {
@@ -129,10 +122,7 @@ test("a move off a path the move before it made reads that path and its importer
 test("the body that moves is repointed by the change reached at its address", async () => {
   const reached: string[] = []
   const root = indexedRepo()
-  const world = worldAt(root, textIn(root), (_world, at) => {
-    reached.push(at)
-    return Promise.resolve({ edits: [], refused: null })
-  })
+  const world = worldAt(root, textIn(root), listing(reached))
 
   await runChange(world, { from: HELD_CODE, to: KEPT })
 
