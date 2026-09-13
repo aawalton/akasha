@@ -18,6 +18,7 @@ import {
   givenIn,
   halfReading,
   keptBySeat,
+  keptRowBy,
   LOCK_HELD,
   landings,
   logPut,
@@ -28,7 +29,6 @@ import {
   oneWaiting,
   pathOf,
   REFUSAL,
-  ROW,
   reading,
   refusalBeside,
   refusedRemoving,
@@ -313,10 +313,9 @@ test("a stale page whose subagent left edits waiting moves them onto its seat an
   const said = await removing(root, base, ALIVE, saying([], [OWN]), held.landing)
   expect(said.code).toBe(0)
   expect(held.asked()).toEqual([[{ at: TAKE, given: { at } }]])
-  expect(keptBySeat(root, seat)).toEqual({
-    edits: ROW,
-    refusals: refusalsSaid(`akasha-${OWN}`, REFUSAL),
-  })
+  const kept = keptBySeat(root, seat)
+  keptRowBy(kept.edits, `akasha-${OWN}`)
+  expect(kept.refusals).toBe(refusalsSaid(`akasha-${OWN}`, REFUSAL))
   expect(said.report.join("\n")).toContain("left 1 edit(s) unlanded")
   world.sweep()
 })
@@ -326,7 +325,7 @@ test("a run the landing refused names what it had already moved onto a seat", as
   const said = await refusedRemoving(root, base, ALIVE, saying([], [OWN]))
   expect(said.code).toBe(3)
   expect(said.refusals.at(-1)).toContain("left 1 edit(s) unlanded")
-  expect(keptBySeat(root, seat).edits).toBe(ROW)
+  keptRowBy(keptBySeat(root, seat).edits, `akasha-${OWN}`)
   world.sweep()
 })
 

@@ -7,22 +7,22 @@ import {
   writeSeatPage,
 } from "akasha/agents/seats/modules/page-writing/seat-page-writing.module.code.ts"
 import { composedNameOf } from "akasha/agents/seats/modules/rename/seat-rename.module.code.ts"
-import { rotatedOf } from "akasha/agents/seats/modules/rotated-session/seat-rotated-session.module.code.ts"
-import {
-  keepSession,
-  sessionRecordOf,
-} from "akasha/agents/seats/modules/session/seat-session.module.code.ts"
 import {
   backfillObserved,
   fallBackToHistory,
   type Stated,
   statedOf,
 } from "akasha/agents/seats/modules/stated/seat-stated.module.code.ts"
+import { rotatedOf } from "akasha/agents/seats/session/modules/rotated-session/seat-rotated-session.module.code.ts"
+import {
+  keepSession,
+  sessionRecordOf,
+} from "akasha/agents/seats/session/modules/session/seat-session.module.code.ts"
 import {
   keepTranscript,
   transcriptRecordOf,
-} from "akasha/agents/seats/modules/transcript-path/seat-transcript-path.module.code.ts"
-import { rotatedTranscriptFor } from "akasha/agents/seats/modules/transcript-rotation/seat-transcript-rotation.module.code.ts"
+} from "akasha/agents/seats/session/modules/transcript-path/seat-transcript-path.module.code.ts"
+import { rotatedTranscriptFor } from "akasha/agents/seats/session/modules/transcript-rotation/seat-transcript-rotation.module.code.ts"
 import type { Outcome } from "akasha/changes/modules/gated-write/gated-write.module.code.ts"
 import { fail } from "akasha/commands/modules/failing/command-failing.module.code.ts"
 import { resolveRoots } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"

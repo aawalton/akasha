@@ -5,7 +5,7 @@ import { akashaObservedOf } from "akasha/agents/seats/modules/akasha-read/seat-a
 import {
   TRANSCRIPT_KEY,
   transcriptOf,
-} from "akasha/agents/seats/modules/transcript-path/seat-transcript-path.module.code.ts"
+} from "akasha/agents/seats/session/modules/transcript-path/seat-transcript-path.module.code.ts"
 
 export const SETTLED_MS = 60_000
 

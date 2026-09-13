@@ -23,17 +23,17 @@ import {
 import {
   ROTATED_KEY,
   rotatedOf,
-} from "akasha/agents/seats/modules/rotated-session/seat-rotated-session.module.code.ts"
+} from "akasha/agents/seats/session/modules/rotated-session/seat-rotated-session.module.code.ts"
 import {
   SESSION_KEY,
   type SessionRecord,
   sessionOf,
-} from "akasha/agents/seats/modules/session/seat-session.module.code.ts"
+} from "akasha/agents/seats/session/modules/session/seat-session.module.code.ts"
 import {
   TRANSCRIPT_KEY,
   type TranscriptRecord,
   transcriptOf,
-} from "akasha/agents/seats/modules/transcript-path/seat-transcript-path.module.code.ts"
+} from "akasha/agents/seats/session/modules/transcript-path/seat-transcript-path.module.code.ts"
 import type { Roots } from "akasha/pages/modules/markdown-page-at/markdown-page-at.module.code.ts"
 
 const OBSERVED = [SESSION_KEY, TRANSCRIPT_KEY, ROTATED_KEY] as const

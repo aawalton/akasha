@@ -5,6 +5,8 @@ import type { ProcLivenessEntry } from "akasha/agents/modules/proc-liveness/agen
 import { entry } from "akasha/agents/modules/proc-liveness/agent-proc-liveness.module.test-fixtures.ts"
 import { refusalsKept } from "akasha/agents/modules/refusals-keeping/refusals-keeping.module.code.ts"
 import {
+  CARRIED_AT,
+  LEFT_BY,
   seatEditsAt,
   seatRefusalsAt,
 } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
@@ -157,6 +159,15 @@ export function seatFiled(root: string, seatName: string, seatId: string): strin
   gitIn(root, ["commit", "--quiet", "-m", `${seatName} sits`])
   listedFiled(root, "seat", seatName, [{ path: at, id: seatId }])
   return at
+}
+
+export function keptRowBy(kept: string, named: string): undefined {
+  expect(JSON.parse(kept)).toEqual({
+    [LEFT_BY]: named,
+    [CARRIED_AT]: expect.any(String),
+    ...KEPT_ROW,
+  })
+  return undefined
 }
 
 export function keptBySeat(

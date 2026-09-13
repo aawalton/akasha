@@ -7,7 +7,7 @@ import {
   akashaSeatsThatExist,
 } from "akasha/agents/seats/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import { parseSeatProcKey } from "akasha/agents/seats/modules/proc-key/seat-proc-key.module.code.ts"
-import { transcriptOf } from "akasha/agents/seats/modules/transcript-path/seat-transcript-path.module.code.ts"
+import { transcriptOf } from "akasha/agents/seats/session/modules/transcript-path/seat-transcript-path.module.code.ts"
 import {
   censusOf,
   type Judged,
