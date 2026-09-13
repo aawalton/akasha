@@ -99,14 +99,6 @@ export function onDuelStart(this: void): undefined {
   return undefined
 }
 
-export function getCurrentFightCopy(): Fight | undefined {
-  const currentfight = getCurrentFight()
-  if (currentfight.dpsstart !== undefined) {
-    return ZO_DeepTableCopy(currentfight)
-  }
-  return undefined
-}
-
 export function onBossesChanged(this: void): undefined {
   DATA.bossInfo = {}
   const bossdata = DATA.bossInfo

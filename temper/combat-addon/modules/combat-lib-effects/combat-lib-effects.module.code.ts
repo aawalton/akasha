@@ -355,7 +355,3 @@ export function onCustomEvent(this: void, ...args: Parameters<CombatEventHandler
   }
   return undefined
 }
-
-export function getCustomAbilityList(): Record<number, number> {
-  return CUSTOM_ABILITY_TYPE_LIST
-}

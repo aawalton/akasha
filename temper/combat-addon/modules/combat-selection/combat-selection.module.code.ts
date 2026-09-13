@@ -72,12 +72,6 @@ export function setShowOverHeal(value: boolean): undefined {
   return undefined
 }
 
-let selectiondata: SelectionData | undefined
-
-export function getSelectionData(): SelectionData | undefined {
-  return selectiondata
-}
-
 const CATEGORY_TOTAL_KEYS = {
   damageOut: "damageOutTotal",
   damageIn: "damageInTotal",
@@ -240,8 +234,6 @@ export function generateSelectionStats(
   }
 
   selection.totalValueSum = totalValueSum
-
-  selectiondata = selection
 
   return selection
 }

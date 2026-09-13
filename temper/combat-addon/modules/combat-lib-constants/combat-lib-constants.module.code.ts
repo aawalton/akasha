@@ -2,18 +2,6 @@ export const LIB_EVENT_NAMESPACE = "TemperCombatLibCombat"
 
 export const LIB_DEBUG: boolean = false
 
-let libCombatLineSizeCache: number | undefined
-
-export function getLibCombatLineSize(): number {
-  if (libCombatLineSizeCache === undefined) {
-    libCombatLineSizeCache =
-      Math.ceil(
-        (GuiRoot.GetWidth() / (tonumber(GetCVar("WindowedWidth")) ?? GuiRoot.GetWidth())) * 1000
-      ) / 1000
-  }
-  return libCombatLineSizeCache
-}
-
 export const ABILITY_RESOURCE_CACHE_SIZE = 20
 
 export const COMBAT_TIMEOUT = 800
@@ -54,12 +42,10 @@ export const LIBCOMBAT_EVENT_BOSSHP = 20
 export const LIBCOMBAT_EVENT_PERFORMANCE = 21
 export const LIBCOMBAT_EVENT_DEATHRECAP = 22
 export const LIBCOMBAT_EVENT_QUICKSLOT = 23
-export const LIBCOMBAT_EVENT_SYNERGY = 24
 export const LIBCOMBAT_EVENT_MAX = 24
 
 export const LIBCOMBAT_STATE_DEAD = 1
 export const LIBCOMBAT_STATE_ALIVE = 2
-export const LIBCOMBAT_STATE_RESURRECTING = 3
 export const LIBCOMBAT_STATE_RESURRECTED = 4
 
 export const LIBCOMBAT_MESSAGE_COMBATSTART = 1
