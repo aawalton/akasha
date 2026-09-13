@@ -1,8 +1,5 @@
 import { expect, test } from "bun:test"
-import {
-  droppableIn,
-  removeExportKeyword,
-} from "akasha/changes/mechanical/file-content/remove/remove-export-keyword/remove-export-keyword.change-mechanical-file-content.code.ts"
+import { removeExportKeyword } from "akasha/changes/mechanical/file-content/remove/remove-export-keyword/remove-export-keyword.change-mechanical-file-content.code.ts"
 
 const AT = "akasha/held.module.code.ts"
 
@@ -47,10 +44,4 @@ test("a class loses its keyword as a function does", () => {
   const text = "export class Held extends Error {}\n"
 
   expect(bodyOf(text, ["Held"])).toBe("class Held extends Error {}\n")
-})
-
-test("a type this change reaches no statement for is named apart from one it does", () => {
-  const text = "export type Held = number\n\nexport const spare = 2\n"
-
-  expect(droppableIn(AT, text, ["Held", "spare"])).toEqual(["spare"])
 })

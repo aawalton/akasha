@@ -17,6 +17,7 @@ export const change = {
     "module/change-shadow-tree",
     "module/edits-dropping",
     "module/edits-keeping",
+    "module/export-keyword",
     "module/file-carrying",
     "module/gated-landing",
     "module/gated-write",
