@@ -168,7 +168,7 @@ export const codeCheck = {
     },
     {
       invariantKind: "departure",
-      statement: "A check listing a folder lists the folder on disk.",
+      statement: "A check listing a folder lists what git carries in the folder on disk.",
     },
     {
       invariantKind: "departure",
