@@ -6,6 +6,14 @@ export const amyHarnessImprovements = {
   slug: "amy-harness-improvements",
   domain: "domain/alan-harness",
   persona: "amy",
+  intents: [
+    {
+      statement: "Every panel in the editor extension has one top-level row.",
+    },
+    {
+      statement: "A panel's top-level row is always expanded rather than collapsible.",
+    },
+  ],
 
   constraints: [
     "This initiative stays when its last intent goes, rather than dying as a finished initiative does.",
