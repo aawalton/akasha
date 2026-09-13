@@ -15,6 +15,10 @@ export const AT = "akasha/held.module.code.ts"
 
 export const READER = "akasha/reader.module.code.ts"
 
+export const PROVER = "akasha/held.module.test.ts"
+
+export const FIXTURES_AT = "akasha/held.module.test-fixtures.ts"
+
 export const HELD_TEXT = "export const held = 1\nexport const spare = 2\n"
 
 export const KEPT_TEXT =
@@ -121,22 +125,34 @@ export function lualibPaged(root: string): undefined {
   put(root, LUA_PAGE_AT, bytesOf(LUA_PAGE_TEXT))
 }
 
-export function importedBy(root: string, paths: readonly string[]): undefined {
+export function importedAt(root: string, at: string, paths: readonly string[]): undefined {
   importFiled(
     root,
-    AT,
+    at,
     paths.map((path) => ({ path }))
   )
+}
+
+export function importedBy(root: string, paths: readonly string[]): undefined {
+  importedAt(root, AT, paths)
 }
 
 export const SPELLED = `akasha/${AT}`
 
 export const EVERY_TEXT = `import * as held from "${SPELLED}"\n\nexport const reader = held\n`
 
+export function takenText(taken: string, from: string): string {
+  return `import { ${taken} } from "akasha/${from}"\n\nexport const reader = 1\n`
+}
+
 export function readerText(taken: string): string {
-  return `import { ${taken} } from "${SPELLED}"\n\nexport const reader = 1\n`
+  return takenText(taken, AT)
 }
 
 export function reading(root: string, text: string): undefined {
   put(root, READER, bytesOf(text))
+}
+
+export function proving(root: string, text: string): undefined {
+  put(root, PROVER, bytesOf(text))
 }

@@ -60,8 +60,16 @@ export const noUnusedExports = {
       statement: "A specifier naming a package rather than a path reads as reaching no file.",
     },
     {
-      invariantKind: "gap",
-      statement: "A value a test alone names reads as reached.",
+      invariantKind: "departure",
+      statement: "A value nothing but a test names is unreached.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value a test names in a test-fixtures file is reached.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal for a value only a test names says so rather than saying nothing does.",
     },
     {
       invariantKind: "gap",

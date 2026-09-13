@@ -23,6 +23,10 @@ export const removeUnusedExportKeywords = {
     },
     {
       invariantKind: "departure",
+      statement: "A value only a test names keeps its `export`.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The whole tree is walked rather than a path handed in.",
     },
     {

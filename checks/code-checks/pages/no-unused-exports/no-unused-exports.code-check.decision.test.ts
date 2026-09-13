@@ -14,11 +14,13 @@ import {
   COMMAND_AT,
   COMMAND_TEXT,
   EVERY_TEXT,
+  FIXTURES_AT,
   GENERATOR_AT,
   GENERATOR_TEXT,
   GUARD_AT,
   GUARD_TEXT,
   HELD_TEXT,
+  importedAt,
   importedBy,
   KEPT_TEXT,
   LUA_AT,
@@ -32,6 +34,8 @@ import {
   PAGE_TEXT,
   PERFORMANCE_AT,
   PERFORMANCE_TEXT,
+  PROVER,
+  proving,
   READER,
   ROOT_AT,
   ROOT_TEXT,
@@ -44,6 +48,7 @@ import {
   scratch,
   TUNNEL_AT,
   TUNNEL_TEXT,
+  takenText,
   WORK_AT,
   WORK_TEXT,
 } from "akasha/checks/code-checks/pages/no-unused-exports/no-unused-exports.code-check.decision.test-fixtures.ts"
@@ -115,6 +120,43 @@ test("a value no other file names is refused and one another file names is not",
   importedBy(root, [READER])
 
   const said = judging(landing(root, { [AT]: bytesOf(HELD_TEXT) })).map((one) => one.reason)
+
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`spare`")
+})
+
+test("a value only a test names is refused for the test rather than for nothing naming it", () => {
+  const root = rooted()
+  proving(root, readerText("held"))
+  importedBy(root, [PROVER])
+
+  const said = judging(landing(root, { [AT]: bytesOf(HELD_TEXT) })).map((one) => one.reason)
+
+  expect(said).toEqual([
+    "exports `held`, which only a test names — a value only a test names is code only the test runs",
+    "exports `spare`, which nothing names — a value nothing names is code nothing runs",
+  ])
+})
+
+test("a test taking every name a file exports leaves each of them refused for the test", () => {
+  const root = rooted()
+  proving(root, EVERY_TEXT)
+  importedBy(root, [PROVER])
+
+  const said = judging(landing(root, { [AT]: bytesOf(HELD_TEXT) })).map((one) => one.reason)
+
+  expect(said).toHaveLength(2)
+  expect(said[0]).toContain("only a test names")
+})
+
+test("a value a test names in a test-fixtures file is reached", () => {
+  const root = rooted()
+  proving(root, takenText("held", FIXTURES_AT))
+  importedAt(root, FIXTURES_AT, [PROVER])
+
+  const said = judging(landing(root, { [FIXTURES_AT]: bytesOf(HELD_TEXT) })).map(
+    (one) => one.reason
+  )
 
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("`spare`")

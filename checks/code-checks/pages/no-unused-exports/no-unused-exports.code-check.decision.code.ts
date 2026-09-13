@@ -27,6 +27,8 @@ const PUBLISHED = "a value only its own file names is published for nothing"
 
 const REACHED = "a value nothing names is code nothing runs"
 
+const PROVED = "a value only a test names is code only the test runs"
+
 const ANYTHING = "*"
 
 const DEFAULT = "default"
@@ -105,6 +107,8 @@ const BY_FILE: ReadonlyMap<string, ReadonlySet<string>> = new Map([
 ])
 
 const NOTHING: ReadonlySet<string> = new Set()
+
+const PROVING: ReadonlySet<string> = new Set(["test", "test-fixtures"])
 
 function toldApart(name: string): boolean {
   return name !== ANYTHING && name !== DEFAULT
@@ -187,9 +191,10 @@ export function namedWithin(path: string, text: string): ReadonlySet<string> {
   return found
 }
 
-function reasonFor(name: string, named: boolean): string {
-  if (named) return `exports \`${name}\`, which no other file names — ${PUBLISHED}`
-  return `exports \`${name}\`, which nothing names — ${REACHED}`
+function reasonFor(one: Unreached): string {
+  if (one.proved) return `exports \`${one.name}\`, which only a test names — ${PROVED}`
+  if (one.named) return `exports \`${one.name}\`, which no other file names — ${PUBLISHED}`
+  return `exports \`${one.name}\`, which nothing names — ${REACHED}`
 }
 
 function besideCode(said: Parted, pageType: string): boolean {
@@ -246,6 +251,14 @@ export function sparedIn(
 export type Unreached = {
   readonly name: string
   readonly named: boolean
+  readonly proved: boolean
+}
+
+function provesOnly(path: string): boolean {
+  const said = partedIn(path)
+  if (said === null) return false
+  const last = said.sections[said.sections.length - 1]
+  return last !== undefined && PROVING.has(last)
 }
 
 export function unreachedIn(
@@ -259,18 +272,33 @@ export function unreachedIn(
   if (told === null) return []
   const wanted = told.filter((one) => !spared.has(one))
   if (wanted.length === 0) return []
+  const proving = provesOnly(path)
   const taken = new Set<string>()
+  const proved = new Set<string>()
+  let everyProved = false
   for (const importer of importers) {
     if (importer === path) continue
     const body = bodyOf(importer)
     if (body === null) continue
+    const only = !proving && provesOnly(importer)
     for (const name of takenFrom(importer, body, path)) {
-      if (name === ANYTHING) return []
-      taken.add(name)
+      if (name === ANYTHING) {
+        if (!only) return []
+        everyProved = true
+        continue
+      }
+      const into = only ? proved : taken
+      into.add(name)
     }
   }
   const here = namedWithin(path, text)
-  return wanted.filter((one) => !taken.has(one)).map((one) => ({ name: one, named: here.has(one) }))
+  return wanted
+    .filter((one) => !taken.has(one))
+    .map((one) => ({
+      name: one,
+      named: here.has(one),
+      proved: everyProved || proved.has(one),
+    }))
 }
 
 function reasonsFor(
@@ -283,7 +311,7 @@ function reasonsFor(
   const found = unreachedIn(path, text, spared, shadow.index.importersOf(path), (at) =>
     textIn(change, at)
   )
-  return found.map((one) => reasonFor(one.name, one.named))
+  return found.map(reasonFor)
 }
 
 export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
