@@ -12,6 +12,11 @@ export const swordArtOnlineShows = {
   unit: "minutes",
   status: "following",
   rank: "A",
-  externalId: "sword-art-online",
-  externalLink: "https://trakt.tv/shows/sword-art-online",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "sword-art-online",
+      externalLink: "https://trakt.tv/shows/sword-art-online",
+    },
+  ],
 } as const satisfies ShowCollection
