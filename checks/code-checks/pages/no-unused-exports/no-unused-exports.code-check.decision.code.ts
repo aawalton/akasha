@@ -5,7 +5,7 @@ import {
   textIn,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { typeScripted } from "akasha/code/modules/file-kind/file-kind.module.code.ts"
+import { typeScripted } from "akasha/code/bodies/modules/file-kind/file-kind.module.code.ts"
 import { parsedAs } from "akasha/code/modules/source/code-source.module.code.ts"
 import { landingOf } from "akasha/code/modules/specifier/code-specifier.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"

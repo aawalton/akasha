@@ -1,7 +1,7 @@
 import {
   classifyExtension,
   type FileKind,
-} from "akasha/code/modules/file-kind/file-kind.module.code.ts"
+} from "akasha/code/bodies/modules/file-kind/file-kind.module.code.ts"
 
 const BYTES: Record<FileKind, boolean> = {
   ts: false,

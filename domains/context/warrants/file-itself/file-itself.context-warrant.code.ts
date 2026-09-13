@@ -1,5 +1,5 @@
 import { blobIdOf } from "akasha/agents/modules/read-record/read-record.module.code.ts"
-import { spellsText } from "akasha/code/modules/utf8-body/utf8-body.module.code.ts"
+import { spellsText } from "akasha/code/bodies/modules/utf8-body/utf8-body.module.code.ts"
 import {
   bytesAt,
   type Warrant,

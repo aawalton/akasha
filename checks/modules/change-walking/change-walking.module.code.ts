@@ -5,7 +5,7 @@ import type {
   Running,
   RunningAsync,
 } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { typeScripted } from "akasha/code/modules/file-kind/file-kind.module.code.ts"
+import { typeScripted } from "akasha/code/bodies/modules/file-kind/file-kind.module.code.ts"
 import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
 import { ENTRY_PROPERTY } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import { everyPath } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
