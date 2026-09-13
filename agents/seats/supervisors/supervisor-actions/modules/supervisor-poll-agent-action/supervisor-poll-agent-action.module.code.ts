@@ -1,5 +1,5 @@
 import { LOG } from "akasha/agents/seats/supervisors/process/modules/supervisor-config/supervisor-config.module.code.ts"
-import { controlOf } from "akasha/agents/seats/supervisors/supervisor-actions/modules/control/seat-control.module.code.ts"
+import { controlOf } from "akasha/agents/seats/supervisors/supervisor-actions/modules/seat-control/seat-control.module.code.ts"
 import type { AgentActionEvent } from "akasha/agents/seats/supervisors/supervisor-actions/modules/supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
 
 const ACTIONS: readonly AgentActionEvent["action"][] = ["restart", "restart-now", "swap-proxy"]
