@@ -62,5 +62,10 @@ export const inventoryEvalEnv = {
       invariantKind: "absence",
       statement: "Nothing here talks to the game.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The characters wanting a consumable come from the compiled config rather than the game.",
+    },
   ],
 } as const satisfies Module

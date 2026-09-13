@@ -201,7 +201,7 @@ test("the characters and their order are answered from what was read", () => {
   expect(env.getCharacterPriority()).toEqual(["111"])
 })
 
-test("the cli env answers no wanters, whatever the wanted consumables hold", () => {
+test("the characters wanting a consumable come from the compiled config", () => {
   const empty = buildCliEvalEnv({
     charactersById: new Map(),
     characterPriority: [],
@@ -214,5 +214,15 @@ test("the cli env answers no wanters, whatever the wanted consumables hold", () 
     characterPriority: [],
     wantedConsumables: { "64509": ["111", "222"] },
   })
-  expect(filled.getConsumableWanters(64509)).toEqual([])
+  expect(filled.getConsumableWanters(64509)).toEqual(["111", "222"])
+  expect(filled.getConsumableWanters(68235)).toEqual([])
+})
+
+test("wanters read the same off a lua table as off an array", () => {
+  const env = buildCliEvalEnv({
+    charactersById: new Map(),
+    characterPriority: [],
+    wantedConsumables: { "64509": { "1": "111", "2": "222" } },
+  })
+  expect(env.getConsumableWanters(64509)).toEqual(["111", "222"])
 })

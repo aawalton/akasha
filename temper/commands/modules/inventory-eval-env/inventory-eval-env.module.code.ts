@@ -24,6 +24,7 @@ const UNKNOWN = "unknown"
 export function buildCliEvalEnv(deps: CliEvalEnvDeps): EvalEnv {
   const { charactersById, characterPriority, wantedConsumables, db } = deps
   const itemIdToCooldownGroup = compileItemIdToCooldownGroup(db)
+  const consumableWanters = compileConsumableWanters(wantedConsumables)
   return {
     isKnownByCharacter: (itemKey, charId) => knowsItemForChar(charactersById, charId, itemKey),
     isKnownByAnyCharacter: (itemKey) => {
@@ -50,15 +51,7 @@ export function buildCliEvalEnv(deps: CliEvalEnvDeps): EvalEnv {
     getCharacterCurseState: (charId) => charactersById.get(charId)?.curseState,
     getCharacterCanLevelMorphs: () => UNKNOWN,
 
-    getConsumableWanters: (itemId) => {
-      if (
-        Object.hasOwn(wantedConsumables, String(itemId)) ||
-        Object.hasOwn(wantedConsumables, itemId.toString())
-      ) {
-        return []
-      }
-      return []
-    },
+    getConsumableWanters: (itemId) => consumableWanters.get(itemId) ?? [],
     getConsumableStock: () => UNKNOWN,
     getBankStock: () => UNKNOWN,
 
@@ -99,6 +92,24 @@ export function buildCliEvalEnv(deps: CliEvalEnvDeps): EvalEnv {
     findCharacterForWantedEquipment: () => UNKNOWN,
     findCompanionForWantedEquipment: () => UNKNOWN,
   }
+}
+
+function compileConsumableWanters(
+  wanted: Record<string, unknown>
+): ReadonlyMap<number, readonly string[]> {
+  const result = new Map<number, readonly string[]>()
+  for (const [itemIdKey, value] of Object.entries(wanted)) {
+    const itemId = Number(itemIdKey)
+    if (!Number.isFinite(itemId)) continue
+    const charIds = Array.isArray(value)
+      ? value
+      : typeof value === "object" && value !== null
+        ? Object.values(value)
+        : []
+    const named = charIds.filter((one): one is string => typeof one === "string")
+    if (named.length > 0) result.set(itemId, named)
+  }
+  return result
 }
 
 function compileItemIdToCooldownGroup(
