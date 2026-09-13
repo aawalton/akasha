@@ -1,5 +1,5 @@
 import { readFileSync } from "node:fs"
-import { join } from "node:path"
+import { dirname, join } from "node:path"
 import type {
   Judged,
   Running,
@@ -14,6 +14,7 @@ import { underIndex } from "akasha/pages/indexes/modules/surface/index-surface.m
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import {
   pageNamed,
+  pageOf,
   partedIn,
   uncommittedHeld,
 } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
@@ -60,6 +61,8 @@ export type BoundedAsync = RunningAsync & Stated
 const CSS = "css"
 
 const CSS_ENDING = `.${CSS}`
+
+const TS = ".ts"
 
 const PAGE_TYPES = new WeakMap<Shadow, ReadonlySet<string>>()
 
@@ -153,11 +156,12 @@ function rowKeysIn(shadow: Shadow): ReadonlySet<string> {
 }
 
 export function pageOfRow(path: string, shadow: Shadow): string | null {
-  const one = shadow.index.listedByPath(path)[0]
-  if (one === undefined || one.path === path) return null
-  const key = partedIn(path)?.sections[0]
+  const said = partedIn(path)
+  if (said === null || said.sections.length === 0) return null
+  const key = said.sections[0]
   if (key === undefined || !rowKeysIn(shadow).has(key)) return null
-  return one.path
+  const at = join(dirname(path), `${pageOf(said)}${TS}`)
+  return shadow.pageOf(at) === null ? null : at
 }
 
 function rowNamed(path: string, shadow: Shadow): boolean {

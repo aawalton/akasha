@@ -60,11 +60,11 @@ export const changeWalking = {
     },
     {
       invariantKind: "departure",
-      statement: "The page an entry file sits beside is the page the index files that file under.",
+      statement: "The page an entry file sits beside is composed out of that file's own name.",
     },
     {
-      invariantKind: "absence",
-      statement: "No page is reached by composing that page's path out of a file's name.",
+      invariantKind: "departure",
+      statement: "A page composed that way is answered only where that page is there to read.",
     },
     {
       invariantKind: "departure",
