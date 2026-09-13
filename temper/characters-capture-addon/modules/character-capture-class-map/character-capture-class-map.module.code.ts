@@ -16,8 +16,10 @@ const CLASS_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
   [6]: "templar",
   [4]: "warden",
 }
+const NO_CLASS_INDEX = 4
+
 export function getClassIndex(esoClassId: number): number {
-  return CLASS_ESO_ID_TO_INDEX[esoClassId] ?? 0
+  return CLASS_ESO_ID_TO_INDEX[esoClassId] ?? NO_CLASS_INDEX
 }
 export function getClassTemperId(esoClassId: number): string {
   return CLASS_ESO_ID_TO_TEMPER_ID[esoClassId] ?? "no-class"

@@ -127,7 +127,16 @@ function indexIn<Id extends string>(ids: readonly Id[]): (id: string) => number 
   for (const [i, id] of ids.entries()) {
     map.set(id, i)
   }
-  return (id) => map.get(id) ?? 0
+  return (id) => {
+    const at = map.get(id)
+    if (at === undefined) {
+      throw new Error(
+        `buildCodecIndices: \`${id}\` is no id these tables carry, and the first place in them ` +
+          `is a real entry rather than a sentinel, so writing it would encode another thing`
+      )
+    }
+    return at
+  }
 }
 
 function idIn<Id extends string>(ids: readonly Id[]): (index: number) => Id {

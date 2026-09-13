@@ -6,4 +6,15 @@ export const classMappings = {
   slug: "class-mappings",
   definition: "the character class index and id tables the capture addon reads",
   code: "ts",
+  test: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A class id these tables do not carry falls back to the place `no-class` has.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No real class is written at the place an unknown class falls back to.",
+    },
+  ],
 } as const satisfies Module
