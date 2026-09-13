@@ -1,4 +1,3 @@
-import { readFileSync } from "node:fs"
 import {
   parseSeatProcKey,
   type SeatPresence,
@@ -11,33 +10,6 @@ import {
   akashaSeatSlugOf,
   akashaSeatsThatExist,
 } from "akasha/agents/seats/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
-import { parse } from "yaml"
-
-const FRONTMATTER_FENCE = "---"
-
-function frontmatterIn(raw: string): Record<string, unknown> | null {
-  if (!raw.startsWith(`${FRONTMATTER_FENCE}\n`)) return null
-  const close = raw.indexOf(`\n${FRONTMATTER_FENCE}`, FRONTMATTER_FENCE.length)
-  if (close === -1) return null
-  let parsed: unknown
-  try {
-    parsed = parse(raw.slice(FRONTMATTER_FENCE.length + 1, close + 1))
-  } catch {
-    return null
-  }
-  return typeof parsed === "object" && parsed !== null && !Array.isArray(parsed)
-    ? (parsed as Record<string, unknown>)
-    : null
-}
-
-export function frontmatterOf(pagePath: string): Record<string, unknown> | null {
-  try {
-    return frontmatterIn(readFileSync(pagePath, "utf8"))
-  } catch {
-    return null
-  }
-}
-
 export function seatPageAgents(): readonly string[] {
   return [...akashaSeatsThatExist().keys()].sort()
 }
@@ -53,10 +25,6 @@ export function agentHolderProcess(agentId: string): string | null {
 export function agentPresence(agentId: string): SeatPresence {
   if (akashaSeatPathForAgent(agentId) === null) return "absent"
   return statedProcessPresence(akashaHolderProcessOf(agentId))
-}
-
-export function agentIsPresent(agentId: string): boolean {
-  return agentPresence(agentId) === "present"
 }
 
 export function seatNameForAgent(agentId: string): string | null {

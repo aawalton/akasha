@@ -27,9 +27,5 @@ export const seatPresenceRead = {
       invariantKind: "departure",
       statement: "The seat a pid has is found by matching the pid in each seat's process key.",
     },
-    {
-      invariantKind: "departure",
-      statement: "Frontmatter that will not parse as a mapping reads as nothing.",
-    },
   ],
 } as const satisfies Module
