@@ -97,6 +97,13 @@ export function resolveItemRoute(
   const sourceCharId = isCharacterSource ? entry.locationKey : null
   const isCrossChar = isCharacterSource && targetCharId != null && targetCharId !== sourceCharId
 
+  const isCharacterBackpackDelivery =
+    (action === "move-to" || action === "stock") &&
+    destination !== undefined &&
+    destination.startsWith("character:")
+
+  if (isCharacterBackpackDelivery && isCharacterSource && targetCharId === sourceCharId) return []
+
   const primaryCharId = targetCharId ?? sourceCharId ?? getFirstCharacterId(inventory)
   if (primaryCharId == null) return []
 

@@ -7,11 +7,13 @@ import {
   BOUNDED_CHAIN_ARB,
   buildChainScenario,
   buildEquivalentMultiRuleScenario,
+  buildHeldStockScenario,
   CHAIN_ARB,
   type DestinationChain,
   dedupePriorityIds,
   PRIORITY_ARB,
   STOCK_STACK_COUNT_ARB,
+  sumPlanByCharacterAndLabel,
   sumPlanByDestination,
   TARGET_QUANTITY_ARB,
   TIER_DESTINATION_ARB,
@@ -202,5 +204,14 @@ describe("A tier a character is not eligible for gives that character nothing.",
       ),
       { numRuns: 40 }
     )
+  })
+})
+
+describe("A stock item already with the character stocking it is left where it is.", () => {
+  test("one character holding their whole target neither deposits nor withdraws", () => {
+    const built = buildHeldStockScenario([["1001", 200]], 200)
+    const plan = planned([built.stockRule, built.sellRule], built)
+    expect(sumPlanByCharacterAndLabel(plan)).toEqual(new Map())
+    expect(plan.sessions).toHaveLength(0)
   })
 })

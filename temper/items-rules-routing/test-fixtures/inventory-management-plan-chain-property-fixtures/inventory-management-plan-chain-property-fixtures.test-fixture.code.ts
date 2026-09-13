@@ -170,6 +170,104 @@ export function buildChainScenario(
   return { stockRule, sellRule, affectedItemsMap, inventory, context }
 }
 
+export function sumPlanByCharacterAndLabel(plan: ManagementPlan): Map<string, number> {
+  const sums = new Map<string, number>()
+  for (const session of plan.sessions) {
+    for (const venue of session.venues) {
+      for (const group of venue.actionGroups) {
+        for (const item of group.items) {
+          const key = `${session.characterName}:${group.label}`
+          sums.set(key, (sums.get(key) ?? 0) + item.stackCount)
+        }
+      }
+    }
+  }
+  return sums
+}
+
+export function buildHeldStockScenario(
+  holdings: readonly (readonly [string, number])[],
+  targetQuantity: number
+): {
+  stockRule: CategoryRule
+  sellRule: CategoryRule
+  affectedItemsMap: Map<string, AffectedItem[]>
+  inventory: ReturnType<typeof makeInventory>
+  context: RuleMatcherContext
+} {
+  const itemId = 70_001
+  const itemName = "Generic Stockable"
+  const stockAffected: AffectedItem[] = []
+  const locations: Record<string, ReturnType<typeof makeLocation>> = {}
+  const characters: Record<string, { displayName: string }> = {}
+
+  holdings.forEach(([charId, held], idx) => {
+    const displayName = `Char${String(idx)}`
+    const bag: Record<number, InventoryItemData> = {}
+    if (held > 0) {
+      const stackItem = makeStackableItem(itemName, itemId, held)
+      bag[0] = stackItem
+      stockAffected.push(makeAffected(stackItem, charId, displayName, ESO_BAG_BACKPACK))
+    }
+    locations[charId] = makeLocation(
+      displayName,
+      { [ESO_BAG_BACKPACK]: bag },
+      { [ESO_BAG_BACKPACK]: 200 }
+    )
+    characters[charId] = { displayName }
+  })
+
+  const chain: DestinationChain = [
+    { destination: "character:by-priority", targetQuantity },
+    { destination: "bank" },
+  ]
+  const stockRule: CategoryRule = {
+    id: "stock",
+    categoryId: "all",
+    action: "stock",
+    destination: chain[0]?.destination,
+    destinationChain: chain,
+    active: true,
+  }
+  const sellRule: CategoryRule = {
+    id: "sell",
+    categoryId: "all",
+    action: "sell",
+    active: true,
+  }
+  const affectedItemsMap = new Map<string, AffectedItem[]>([
+    ["stock", stockAffected],
+    ["sell", []],
+  ])
+
+  const context: RuleMatcherContext = {
+    wantedEquipment: [],
+    wantedCompanionEquipment: [],
+    wantedConsumables: new Map(),
+    consumableStock: new Map(),
+    bankStock: new Map(),
+    characterLevels: new Map(),
+    knownRecipesByCharacter: new Map(),
+    knownMotifsByCharacter: new Map(),
+    knownMotifsByStyleIdByCharacter: new Map(),
+    knownScriptsByCharacter: new Map(),
+    researchedTraitsByCharacter: new Map(),
+    characterPriority: holdings.map(([charId]) => charId),
+    craftingLevels: new Map(),
+    openCooldowns: new Map(),
+    transmuteCrystalCap: undefined,
+    transmuteCrystalAmount: undefined,
+  }
+
+  return {
+    stockRule,
+    sellRule,
+    affectedItemsMap,
+    inventory: makeInventory(locations, characters),
+    context,
+  }
+}
+
 export function buildEquivalentMultiRuleScenario(
   stockCount: number,
   chain: DestinationChain,
