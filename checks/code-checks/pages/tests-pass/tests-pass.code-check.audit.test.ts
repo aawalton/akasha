@@ -9,7 +9,7 @@ import {
   TEST_AT,
   withoutGuard,
 } from "akasha/checks/code-checks/pages/tests-pass/tests-pass.code-check.decision.test-fixtures.ts"
-import { tracked } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { tracked } from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
 

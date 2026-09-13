@@ -1,8 +1,8 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { TestFixture } from "akasha/testing-system/test-fixture/test-fixture.page-type.types.ts"
 
 export const checkScratch = {
   id: "01a04fd0-8a9a-7915-a355-32d5432a7f11",
-  type: "module",
+  type: "test-fixture",
   slug: "check-scratch",
   definition:
     "what a check's test judges: an index set up in a scratch root, and the change read against it",
@@ -92,4 +92,4 @@ export const checkScratch = {
       statement: "A shadow that will not cast throws rather than answering no refusals.",
     },
   ],
-} as const satisfies Module
+} as const satisfies TestFixture

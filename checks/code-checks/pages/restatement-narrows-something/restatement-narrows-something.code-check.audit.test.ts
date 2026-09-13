@@ -10,7 +10,10 @@ import {
   rooted,
   scratch,
 } from "akasha/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.decision.test-fixtures.ts"
-import { pathFor, tracked } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import {
+  pathFor,
+  tracked,
+} from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
 

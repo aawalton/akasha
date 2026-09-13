@@ -4,7 +4,7 @@ import {
   claiming,
   declaring,
   filing,
-} from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+} from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
 import { speltIn } from "akasha/code/reading/modules/code-rule/code-rule.module.code.ts"
 import { entriesFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { readerIn, type Said } from "akasha/pages/indexes/rule/index-rule.index.code.ts"

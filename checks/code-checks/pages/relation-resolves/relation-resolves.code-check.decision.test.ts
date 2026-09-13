@@ -30,7 +30,7 @@ import {
   T_ID,
 } from "akasha/checks/code-checks/pages/relation-resolves/relation-resolves.code-check.decision.test-fixtures.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { shadowed } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { shadowed } from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
 import type { Shaped } from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
 import { pathFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"

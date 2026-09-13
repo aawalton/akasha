@@ -9,7 +9,7 @@ import {
   arriving,
   filing,
   shadowed,
-} from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+} from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
 import { valueAlsoFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import { noPathsFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"

@@ -12,7 +12,7 @@ import {
   pathFor,
   put,
   typed,
-} from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+} from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
 import {
   listedFiled,
   valueAlsoFiled,

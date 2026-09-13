@@ -7,7 +7,7 @@ import {
   scratch,
 } from "akasha/checks/code-checks/pages/no-method-signature/no-method-signature.code-check.decision.test-fixtures.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { change } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { change } from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
 import { shadowFor } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)

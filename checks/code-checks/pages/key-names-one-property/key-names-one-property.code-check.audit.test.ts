@@ -13,7 +13,7 @@ import {
   declaring,
   pathFor,
   typed,
-} from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+} from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
 
 const UNDER = "akasha-keyed-audit-"
 

@@ -10,7 +10,7 @@ import {
   scratch,
   UNUSED,
 } from "akasha/checks/code-checks/pages/lint-clean/lint-clean.code-check.decision.test-fixtures.ts"
-import { tracked } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { tracked } from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { pagesAtFor } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
 

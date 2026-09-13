@@ -18,7 +18,10 @@ import {
   TEXT,
   typed,
 } from "akasha/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.decision.test-fixtures.ts"
-import { landing, shadowed } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import {
+  landing,
+  shadowed,
+} from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
 import { listedTakenFrom } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)

@@ -1,5 +1,8 @@
 import { reasonsOver } from "akasha/checks/code-checks/pages/no-class/no-class.code-check.decision.code.ts"
-import { founded, typed } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import {
+  founded,
+  typed,
+} from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
 import {
   listedFiled,
   valueAlsoFiled,

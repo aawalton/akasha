@@ -9,7 +9,10 @@ import {
   wrote,
 } from "akasha/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.decision.test-fixtures.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { change, claiming } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import {
+  change,
+  claiming,
+} from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
 import { shadowFor } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 const UNDER = "akasha-matches-bound-"

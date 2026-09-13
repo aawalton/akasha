@@ -1,6 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { claiming } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { claiming } from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 export const WRAPPER_AT = "design/primitives/popover/popover.module.code.tsx"

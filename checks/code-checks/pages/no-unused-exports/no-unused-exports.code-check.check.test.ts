@@ -14,7 +14,7 @@ import {
   judgingBy,
   landing,
   shadowed,
-} from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+} from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
 import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 
 afterAll(scratch.sweep)

@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { handWrittenGlobalIsNoMethod } from "akasha/checks/code-checks/pages/hand-written-global-is-no-method/hand-written-global-is-no-method.code-check.audit.code.ts"
 import { DECLARATION } from "akasha/checks/code-checks/pages/hand-written-global-is-no-method/hand-written-global-is-no-method.code-check.decision.code.ts"
-import { filing } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { filing } from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
 import { valueAlsoFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import { noPathsFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"

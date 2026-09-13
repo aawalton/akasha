@@ -9,7 +9,7 @@ import {
   SPELLED,
   scratch,
 } from "akasha/checks/code-checks/pages/require-import-extension/require-import-extension.code-check.decision.test-fixtures.ts"
-import { tracked } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { tracked } from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
 

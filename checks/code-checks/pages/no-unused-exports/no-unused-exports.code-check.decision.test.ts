@@ -55,7 +55,10 @@ import {
   WORK_AT,
   WORK_TEXT,
 } from "akasha/checks/code-checks/pages/no-unused-exports/no-unused-exports.code-check.decision.test-fixtures.ts"
-import { judgingBy, landing } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import {
+  judgingBy,
+  landing,
+} from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
 import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 
 afterAll(scratch.sweep)

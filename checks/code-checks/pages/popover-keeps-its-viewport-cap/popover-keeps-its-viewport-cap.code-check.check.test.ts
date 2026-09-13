@@ -8,7 +8,7 @@ import {
   WRAPPER_AT,
 } from "akasha/checks/code-checks/pages/popover-keeps-its-viewport-cap/popover-keeps-its-viewport-cap.code-check.decision.test-fixtures.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { change } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { change } from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
 import { shadowFor } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)

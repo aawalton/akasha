@@ -24,7 +24,7 @@ import {
 } from "akasha/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.decision.test-fixtures.ts"
 import { onDisk } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { judgingBy } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { judgingBy } from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
 import { nothingFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)

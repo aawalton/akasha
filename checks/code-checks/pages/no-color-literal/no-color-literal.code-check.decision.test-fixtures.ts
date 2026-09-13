@@ -3,7 +3,10 @@ import {
   passingIn,
   reasonsOver,
 } from "akasha/checks/code-checks/pages/no-color-literal/no-color-literal.code-check.decision.code.ts"
-import { founded, typed } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import {
+  founded,
+  typed,
+} from "akasha/checks/test-fixtures/check-scratch/check-scratch.test-fixture.code.ts"
 import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { bodiesAt } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
