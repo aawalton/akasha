@@ -16,5 +16,8 @@ export const aineChangesCleanup = {
     {
       statement: "Every target type, subtype and mode that together make sense has a change.",
     },
+    {
+      statement: "A test reaches a change through a runner rather than by importing that change.",
+    },
   ],
 } as const satisfies Initiative
