@@ -48,7 +48,7 @@ import { buildCompanionSummary } from "akasha/temper/player-completion/modules/c
 import { transformCompletionCharacters } from "akasha/temper/player-completion/modules/completion-transforms/completion-transforms.module.code.ts"
 import { transformTributeProgress } from "akasha/temper/player-completion/modules/completion-tribute-progress/completion-tribute-progress.module.code.ts"
 import { transformZoneCompletionProgress } from "akasha/temper/player-completion/modules/completion-zone-progress/completion-zone-progress.module.code.ts"
-import { transformSubclassingSkillMorphProgress } from "akasha/temper/skill-morphs/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
+import { transformSubclassingSkillMorphProgress } from "akasha/temper/skill-morphs/modules/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
 
 export interface CompletionSummariesInput {
   readonly characterRows: readonly CompletionCharacterRow[]

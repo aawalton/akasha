@@ -3,7 +3,7 @@ import { getProxyOwnerAgentIdForSelfHeal } from "akasha/seat-system/self-healing
 import {
   configDirForAccount,
   LOG,
-} from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
+} from "akasha/seat-system/supervising/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   execvpe,
   isProcessAlive,

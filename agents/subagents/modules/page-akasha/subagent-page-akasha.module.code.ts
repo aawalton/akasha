@@ -12,7 +12,7 @@ import {
 import {
   sweeping,
   tookUnder,
-} from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
+} from "akasha/seat-system/subagents/modules/presence/subagent-presence.module.code.ts"
 
 export function akashaSubagentsDirIn(root: string): string {
   return `${root}/${subagentsAt(root)}`

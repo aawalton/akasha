@@ -1,5 +1,5 @@
-import type { RowAgentLaunch } from "akasha/seat-system/supervising/supervisor-agent-create/supervisor-agent-create.module.code.ts"
-import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
+import type { RowAgentLaunch } from "akasha/seat-system/supervising/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"
+import { LOG } from "akasha/seat-system/supervising/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   AGENT_LAUNCH_OPENED,
   AGENT_LAUNCH_SPAWNED,

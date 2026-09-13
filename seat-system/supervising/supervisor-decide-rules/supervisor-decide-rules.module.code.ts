@@ -32,7 +32,7 @@ import {
   decideShutdownExitWrite,
   decodeWaitStatus,
   STOP_REASON,
-} from "akasha/seat-system/supervising/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
+} from "akasha/seat-system/supervising/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
 import {
   childExitClassification,
   childExitObservation,

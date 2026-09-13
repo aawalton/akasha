@@ -6,7 +6,7 @@ import { akashaSeatIdForName } from "akasha/seat-system/modules/seat-akasha-besi
 import {
   createAgent,
   type RowAgentLaunch,
-} from "akasha/seat-system/supervising/supervisor-agent-create/supervisor-agent-create.module.code.ts"
+} from "akasha/seat-system/supervising/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"
 import {
   keepSeatSession,
   takeSeatPage,

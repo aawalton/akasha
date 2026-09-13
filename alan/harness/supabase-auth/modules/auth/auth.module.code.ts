@@ -4,7 +4,7 @@ import {
   type AuthResult,
   type SupabaseUser,
   toSupabaseUser,
-} from "akasha/alan/harness/supabase-auth/supabase-user/supabase-user.module.code.ts"
+} from "akasha/alan/harness/supabase-auth/modules/supabase-user/supabase-user.module.code.ts"
 
 export function isInvalidCredentialsError(error: unknown): boolean {
   if (typeof error === "string") return /invalid (login )?credentials/i.test(error)

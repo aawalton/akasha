@@ -1,6 +1,6 @@
 import type { SeatRow } from "akasha/code/editor/extension/modules/agent-forest/agent-forest.module.code.ts"
 import type { SeatMode } from "akasha/code/editor/extension/modules/seat-mode/seat-mode.module.code.ts"
-import type { SubagentNode } from "akasha/code/editor/extension/subagent-reading/subagent-reading.module.code.ts"
+import type { SubagentNode } from "akasha/code/editor/extension/modules/subagent-reading/subagent-reading.module.code.ts"
 
 export const NO_SUBAGENTS: ReadonlyMap<string, readonly SubagentNode[]> = new Map()
 

@@ -1,5 +1,5 @@
 import { getClaimsUser } from "akasha/alan/harness/supabase-auth/modules/auth/auth.module.code.ts"
-import type { SupabaseUser } from "akasha/alan/harness/supabase-auth/supabase-user/supabase-user.module.code.ts"
+import type { SupabaseUser } from "akasha/alan/harness/supabase-auth/modules/supabase-user/supabase-user.module.code.ts"
 import { createRequestMemo } from "akasha/alan/harness/supabase-rr/modules/request-memo/request-memo.module.code.ts"
 import {
   createServerClient,

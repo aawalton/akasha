@@ -15,8 +15,8 @@ import type {
   ChildExitClassification,
   ChildExitObservation,
   ChildExitStatus,
-} from "akasha/seat-system/supervising/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
-import { STOP_REASON } from "akasha/seat-system/supervising/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
+} from "akasha/seat-system/supervising/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
+import { STOP_REASON } from "akasha/seat-system/supervising/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
 import {
   type DeferredRestartConfig,
   type DeferredRestartObservation,

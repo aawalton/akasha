@@ -1,6 +1,6 @@
 "use client"
 
-import type { SupabaseUser } from "akasha/alan/harness/supabase-auth/supabase-user/supabase-user.module.code.ts"
+import type { SupabaseUser } from "akasha/alan/harness/supabase-auth/modules/supabase-user/supabase-user.module.code.ts"
 import {
   PageLayout,
   PageTitle,

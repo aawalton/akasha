@@ -8,7 +8,7 @@ import type { MentionResolver } from "akasha/pages/ui/markdown/modules/remark-me
 import { remarkMentions } from "akasha/pages/ui/markdown/modules/remark-mentions/remark-mentions.module.code.ts"
 import { remarkSectionize } from "akasha/pages/ui/markdown/modules/remark-sectionize/remark-sectionize.module.code.ts"
 import { parseString } from "akasha/utils/narrow/modules/parse-string/parse-string.module.code.ts"
-import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
+import { stringIn } from "akasha/utils/narrow/modules/string-in/string-in.module.code.ts"
 import type { ReactNode } from "react"
 import { useMemo } from "react"
 import type { Components } from "react-markdown"

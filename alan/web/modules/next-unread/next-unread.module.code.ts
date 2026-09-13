@@ -1,5 +1,5 @@
 import { selectNextChapter } from "akasha/alan/library/reading/modules/chapter-choosing/chapter-choosing.module.code.ts"
-import { loadStoryCatalog } from "akasha/alan/library/reading/story-catalog/story-catalog.module.code.ts"
+import { loadStoryCatalog } from "akasha/alan/library/reading/modules/story-catalog/story-catalog.module.code.ts"
 import { buildPageHref } from "akasha/pages/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 

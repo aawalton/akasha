@@ -2,7 +2,7 @@ import {
   askSupervisorDecide,
   SUPERVISOR_DECIDE_COMMAND,
 } from "akasha/agents/seats/supervisors/modules/limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
-import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
+import { LOG } from "akasha/seat-system/supervising/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   REMOTE_CONTROL_DECISION,
   RemoteControlVerdictShape,

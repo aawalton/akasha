@@ -5,7 +5,7 @@ import {
   FilterableList,
   FilterableListItem,
 } from "akasha/design/interfaces/primitives/modules/filterable-list/filterable-list.module.code.tsx"
-import { SubView } from "akasha/design/interfaces/primitives/sub-view/sub-view.module.code.tsx"
+import { SubView } from "akasha/design/interfaces/primitives/modules/sub-view/sub-view.module.code.tsx"
 
 interface NotesOptionsPickerProps {
   notesProperty?: string

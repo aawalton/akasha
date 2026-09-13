@@ -34,7 +34,7 @@ import {
 import {
   createSubagentReader,
   type SubagentNode,
-} from "akasha/code/editor/extension/subagent-reading/subagent-reading.module.code.ts"
+} from "akasha/code/editor/extension/modules/subagent-reading/subagent-reading.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { remove } from "akasha/commands/arguments/pages/remove.argument.ts"
 import {
@@ -54,7 +54,7 @@ import {
 import {
   leftWhereItIs,
   seatPageIn,
-} from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
+} from "akasha/seat-system/subagents/modules/presence/subagent-presence.module.code.ts"
 
 export const TAKE = "change-mechanical/remove-file-of-any-kind"
 

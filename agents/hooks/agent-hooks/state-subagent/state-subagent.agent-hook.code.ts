@@ -9,7 +9,7 @@ import {
   puttingUp,
   seatNamedIn,
   takingDown,
-} from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
+} from "akasha/seat-system/subagents/modules/presence/subagent-presence.module.code.ts"
 
 const HOOK = "state-subagent"
 

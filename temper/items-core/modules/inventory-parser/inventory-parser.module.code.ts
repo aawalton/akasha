@@ -25,7 +25,7 @@ import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/module
 import { asRecord } from "akasha/utils/narrow/modules/as-record/as-record.module.code.ts"
 import { parseNumber } from "akasha/utils/narrow/modules/parse-number/parse-number.module.code.ts"
 import { parseString } from "akasha/utils/narrow/modules/parse-string/parse-string.module.code.ts"
-import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
+import { stringIn } from "akasha/utils/narrow/modules/string-in/string-in.module.code.ts"
 
 function asNumber(value: unknown): number {
   return typeof value === "number" ? value : 0

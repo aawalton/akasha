@@ -12,7 +12,7 @@ import type {
   Directive,
   Putting,
 } from "akasha/agents/models/tests/pages/directive-kept/directive-kept.model-test.code.ts"
-import type { SubagentNode } from "akasha/code/editor/extension/subagent-reading/subagent-reading.module.code.ts"
+import type { SubagentNode } from "akasha/code/editor/extension/modules/subagent-reading/subagent-reading.module.code.ts"
 
 const SEATS: readonly Valued[] = [
   { path: "one.seat.ts", value: { id: "a", person: "alan" } },

@@ -1,5 +1,5 @@
 import { upsertPage } from "akasha/pages/access/upsert/upsert.module.code.ts"
-import { askComposed } from "akasha/pages/query/store-spelled-asking/store-spelled-asking.module.code.ts"
+import { askComposed } from "akasha/pages/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
 import { upsertItemRuleByItemId } from "akasha/temper/items-rules-core/modules/inventory-rule-settings/inventory-rule-settings.module.code.ts"
 import type { ItemAction } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { readFirstAccountWide } from "akasha/temper/saved-variables/modules/account-wide/account-wide.module.code.ts"

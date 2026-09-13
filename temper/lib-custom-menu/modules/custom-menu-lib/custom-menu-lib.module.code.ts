@@ -20,7 +20,7 @@ import {
   resetCheckBox,
   resetMenuItem,
 } from "akasha/temper/lib-custom-menu/modules/menu-row-factories/menu-row-factories.module.code.ts"
-import { subMenuItemFactory } from "akasha/temper/lib-custom-menu/submenu-item/submenu-item.module.code.ts"
+import { subMenuItemFactory } from "akasha/temper/lib-custom-menu/modules/submenu-item/submenu-item.module.code.ts"
 
 function addMenuItem(
   this: void,

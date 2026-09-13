@@ -3,7 +3,7 @@ import { Heading } from "akasha/design/interfaces/primitives/modules/heading/hea
 import { Separator } from "akasha/design/interfaces/primitives/modules/separator/separator.module.code.tsx"
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
 import { ResourceList } from "akasha/products/audhdalan/web/modules/resource-list/resource-list.module.code.tsx"
-import { SubscribeForm } from "akasha/products/audhdalan/web/subscribe-form/subscribe-form.module.code.tsx"
+import { SubscribeForm } from "akasha/products/audhdalan/web/modules/subscribe-form/subscribe-form.module.code.tsx"
 
 export function meta() {
   return [{ title: "audhdalan" }]

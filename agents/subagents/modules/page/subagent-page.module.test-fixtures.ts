@@ -11,13 +11,13 @@ import {
   valueTakenFrom,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
-import type { Went } from "akasha/seat-system/subagents/landing-again/subagent-landing-again.module.code.ts"
+import type { Went } from "akasha/seat-system/subagents/modules/landing-again/subagent-landing-again.module.code.ts"
 import { slugOf } from "akasha/seat-system/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
-import { took } from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
+import { took } from "akasha/seat-system/subagents/modules/presence/subagent-presence.module.code.ts"
 import {
   landingNaming,
   RETURNED,
-} from "akasha/seat-system/subagents/presence/subagent-presence.module.test-fixtures.ts"
+} from "akasha/seat-system/subagents/modules/presence/subagent-presence.module.test-fixtures.ts"
 import { declaringUnder } from "akasha/testing-system/modules/declaring/declaring.module.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as outOf } from "akasha/utils/run/modules/running/running.module.code.ts"

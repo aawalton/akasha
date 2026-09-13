@@ -31,7 +31,7 @@ const fakeSupabase = {
 }
 
 mock.module(
-  "akasha/alan/harness/supabase-rr/supabase-provider/supabase-provider.module.code.tsx",
+  "akasha/alan/harness/supabase-rr/modules/supabase-provider/supabase-provider.module.code.tsx",
   () => ({
     useSupabase: () => fakeSupabase,
     SupabaseProvider: ({ children }: { children: unknown }) => children,

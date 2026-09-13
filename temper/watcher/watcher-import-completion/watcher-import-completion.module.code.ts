@@ -9,7 +9,7 @@ import {
   readFiles,
   readPages,
   writeFiles,
-} from "akasha/pages/query/store-writing/store-writing.module.code.ts"
+} from "akasha/pages/query/modules/store-writing/store-writing.module.code.ts"
 import { getCompanionIdByDefId } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
 import type {
   AccountCompletion,

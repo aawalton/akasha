@@ -4,7 +4,7 @@ import {
   flagsPassedWithMcpConfig,
 } from "akasha/agents/modules/launch-flags/launch-flags.module.code.ts"
 import { alwaysAllowedTools } from "akasha/agents/tool-access/tool-access.module.code.ts"
-import type { SeatResume } from "akasha/seat-system/supervising/supervisor-args/supervisor-args.module.code.ts"
+import type { SeatResume } from "akasha/seat-system/supervising/modules/supervisor-args/supervisor-args.module.code.ts"
 
 export type McpServerConfig =
   | { type: "http"; url: string; headers?: Record<string, string> }

@@ -1,5 +1,5 @@
 import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
-import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
+import { stringIn } from "akasha/utils/narrow/modules/string-in/string-in.module.code.ts"
 
 interface BuildIdHolder {
   TemperBuildIds?: Record<string, string>

@@ -31,7 +31,7 @@ import {
 import {
   configDirForAccount,
   LOG,
-} from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
+} from "akasha/seat-system/supervising/modules/supervisor-config/supervisor-config.module.code.ts"
 import { guardTick } from "akasha/seat-system/supervising/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
 import { writePacingSnapshot } from "akasha/seat-system/supervising/supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts"
 

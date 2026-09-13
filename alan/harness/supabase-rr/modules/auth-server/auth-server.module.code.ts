@@ -1,6 +1,6 @@
 import { createClient } from "@supabase/supabase-js"
 import { getUserFromToken as baseGetUserFromToken } from "akasha/alan/harness/supabase-auth/modules/auth/auth.module.code.ts"
-import type { SupabaseUser } from "akasha/alan/harness/supabase-auth/supabase-user/supabase-user.module.code.ts"
+import type { SupabaseUser } from "akasha/alan/harness/supabase-auth/modules/supabase-user/supabase-user.module.code.ts"
 import { resolveRequestSession } from "akasha/alan/harness/supabase-rr/modules/request-session-cache/request-session-cache.module.code.ts"
 import { z } from "zod"
 

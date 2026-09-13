@@ -1,6 +1,6 @@
 "use client"
 
-import { askComposed } from "akasha/pages/query/store-spelled-asking/store-spelled-asking.module.code.ts"
+import { askComposed } from "akasha/pages/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
 import type { AchievementCategoryCatalogEntry } from "akasha/temper/player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"
 import type { AntiquityCatalogCategory } from "akasha/temper/player-completion/modules/completion-antiquity-lore-progress/completion-antiquity-lore-progress.module.code.ts"
 import type { CadwellLevelCatalogEntry } from "akasha/temper/player-completion/modules/completion-cadwell-lookup/completion-cadwell-lookup.module.code.ts"

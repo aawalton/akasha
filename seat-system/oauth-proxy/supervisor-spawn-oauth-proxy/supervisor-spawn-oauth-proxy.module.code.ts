@@ -15,7 +15,7 @@ import {
   PORT_READ_BUDGET_MS,
   readFirstLineAsPort,
 } from "akasha/seat-system/oauth-proxy/supervisor-proxy-port-line/supervisor-proxy-port-line.module.code.ts"
-import { readAdoptedClaudeProxyPort } from "akasha/seat-system/supervising/supervisor-adopted-claude-port/supervisor-adopted-claude-port.module.code.ts"
+import { readAdoptedClaudeProxyPort } from "akasha/seat-system/supervising/modules/supervisor-adopted-claude-port/supervisor-adopted-claude-port.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import { pidAliveOrRefuse } from "akasha/utils/process/modules/pid-signal/pid-signal.module.code.ts"
 import {

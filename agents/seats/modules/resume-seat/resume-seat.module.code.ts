@@ -23,8 +23,8 @@ import {
   dataError,
   operationalError,
 } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { clearRequestedAction } from "akasha/seat-system/supervising/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"
-import { SEAT_START_DIR } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
+import { clearRequestedAction } from "akasha/seat-system/supervising/modules/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"
+import { SEAT_START_DIR } from "akasha/seat-system/supervising/modules/supervisor-config/supervisor-config.module.code.ts"
 
 export interface ResumeTarget {
   readonly name: string | null

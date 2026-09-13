@@ -3,7 +3,7 @@ import { scrollToCard } from "akasha/design/interfaces/layout/modules/scroll-to-
 import type { SortDirection } from "akasha/design/interfaces/patterns/modules/sort-types/sort-types.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import type { AccountSummaryData } from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
-import { SubclassingSkillMorphsPanelCard } from "akasha/temper/player-completion-skills-morphs-ui/subclassing-skill-morphs-panel-card/subclassing-skill-morphs-panel-card.module.code.tsx"
+import { SubclassingSkillMorphsPanelCard } from "akasha/temper/player-completion-skills-morphs-ui/modules/subclassing-skill-morphs-panel-card/subclassing-skill-morphs-panel-card.module.code.tsx"
 import type {
   CompletionFilter,
   CompletionSortMode,
@@ -25,7 +25,7 @@ import { ChampionPointsPanelCard } from "akasha/temper/web/modules/champion-poin
 import { GrandMasterStationsPanelCard } from "akasha/temper/web/modules/grand-master-stations-panel-card/grand-master-stations-panel-card.module.code.tsx"
 import { ItemSetsProgressPanelCard } from "akasha/temper/web/modules/item-sets-progress-panel-card/item-sets-progress-panel-card.module.code.tsx"
 import { LoreLibraryPanelCard } from "akasha/temper/web/modules/lore-library-panel-card/lore-library-panel-card.module.code.tsx"
-import { SubclassingSkillLinesPanelCard } from "akasha/temper/web/subclassing-skill-lines-panel-card/subclassing-skill-lines-panel-card.module.code.tsx"
+import { SubclassingSkillLinesPanelCard } from "akasha/temper/web/modules/subclassing-skill-lines-panel-card/subclassing-skill-lines-panel-card.module.code.tsx"
 
 interface AccountPanelGridProps {
   accountSummary: AccountSummaryData

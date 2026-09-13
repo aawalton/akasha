@@ -20,7 +20,7 @@ import type {
   AccountLoreProgress,
   AccountTributeProgress,
 } from "akasha/temper/player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
-import type { SubclassingSkillMorphProgressResult } from "akasha/temper/skill-morphs/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
+import type { SubclassingSkillMorphProgressResult } from "akasha/temper/skill-morphs/modules/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
 
 export function buildAccountSummary(
   achievementProgress: AccountAchievementOverallProgress,

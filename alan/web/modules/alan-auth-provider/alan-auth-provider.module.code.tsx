@@ -1,7 +1,7 @@
 "use client"
 
 import { refreshBrowserSession } from "akasha/alan/harness/supabase-rr/modules/browser-session-refresh/browser-session-refresh.module.code.ts"
-import { useSupabase } from "akasha/alan/harness/supabase-rr/supabase-provider/supabase-provider.module.code.tsx"
+import { useSupabase } from "akasha/alan/harness/supabase-rr/modules/supabase-provider/supabase-provider.module.code.tsx"
 import { isNativeShell } from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
 import { DeepLinkOpenSync } from "akasha/alan/web/modules/deep-link-open-sync/deep-link-open-sync.module.code.tsx"
 import { DeviceSecretSync } from "akasha/alan/web/modules/device-secret-sync/device-secret-sync.module.code.tsx"

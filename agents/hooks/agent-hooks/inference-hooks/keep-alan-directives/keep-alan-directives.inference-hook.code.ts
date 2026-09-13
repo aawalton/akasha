@@ -31,7 +31,7 @@ import { transcriptOf } from "akasha/agents/seats/modules/transcript-path/seat-t
 import {
   createSubagentReader,
   type SubagentNode,
-} from "akasha/code/editor/extension/subagent-reading/subagent-reading.module.code.ts"
+} from "akasha/code/editor/extension/modules/subagent-reading/subagent-reading.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import {
   valuedAt,

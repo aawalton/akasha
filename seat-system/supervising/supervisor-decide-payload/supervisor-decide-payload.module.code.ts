@@ -1,7 +1,7 @@
 import type {
   ClaimedCandidate,
   ClaimedTranscriptFinding,
-} from "akasha/agents/messaging/supervisor-claimed-redelivery-decide/supervisor-claimed-redelivery-decide.module.code.ts"
+} from "akasha/agents/messaging/modules/supervisor-claimed-redelivery-decide/supervisor-claimed-redelivery-decide.module.code.ts"
 import {
   arr,
   bool,

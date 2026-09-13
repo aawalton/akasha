@@ -2,12 +2,12 @@ import { askProxyAdoption } from "akasha/seat-system/oauth-proxy/supervisor-prox
 import { askProxyLiveness } from "akasha/seat-system/oauth-proxy/supervisor-proxy-liveness-rule/supervisor-proxy-liveness-rule.module.code.ts"
 import { askReExecJitterMs } from "akasha/seat-system/self-healing/supervisor-self-heal-jitter-rule/supervisor-self-heal-jitter-rule.module.code.ts"
 import { setSelfHealIdleProbe } from "akasha/seat-system/self-healing/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import type { SeatResume } from "akasha/seat-system/supervising/supervisor-args/supervisor-args.module.code.ts"
-import { decideBootResume } from "akasha/seat-system/supervising/supervisor-args/supervisor-args.module.code.ts"
+import type { SeatResume } from "akasha/seat-system/supervising/modules/supervisor-args/supervisor-args.module.code.ts"
+import { decideBootResume } from "akasha/seat-system/supervising/modules/supervisor-args/supervisor-args.module.code.ts"
 import {
   LOG,
   SEAT_START_DIR,
-} from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
+} from "akasha/seat-system/supervising/modules/supervisor-config/supervisor-config.module.code.ts"
 import type { buildAgentLogRedirect } from "akasha/seat-system/supervising/supervisor-console/supervisor-console.module.code.ts"
 import { LIVE_DEFERRED_RESTART_RULE } from "akasha/seat-system/supervising/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
 import { bootInteractiveSession } from "akasha/seat-system/supervising/supervisor-interactive-boot/supervisor-interactive-boot.module.code.ts"

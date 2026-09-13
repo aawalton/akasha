@@ -1,13 +1,13 @@
 import { triggerProxySwap } from "akasha/seat-system/oauth-proxy/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
-import { buildAgentActionSubsystem } from "akasha/seat-system/supervising/supervisor-agent-action/supervisor-agent-action.module.code.ts"
+import { buildAgentActionSubsystem } from "akasha/seat-system/supervising/modules/supervisor-agent-action/supervisor-agent-action.module.code.ts"
 import {
   clearRequestedAction,
   consumeThenProxySwap,
-} from "akasha/seat-system/supervising/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"
-import type { PendingAgentAction } from "akasha/seat-system/supervising/supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
-import { LIVE_CHILD_EXIT_RULE } from "akasha/seat-system/supervising/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
-import { wireSessionRotatedWatcher } from "akasha/seat-system/supervising/supervisor-clear-rebind-wire/supervisor-clear-rebind-wire.module.code.ts"
-import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
+} from "akasha/seat-system/supervising/modules/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"
+import type { PendingAgentAction } from "akasha/seat-system/supervising/modules/supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
+import { LIVE_CHILD_EXIT_RULE } from "akasha/seat-system/supervising/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
+import { wireSessionRotatedWatcher } from "akasha/seat-system/supervising/modules/supervisor-clear-rebind-wire/supervisor-clear-rebind-wire.module.code.ts"
+import { LOG } from "akasha/seat-system/supervising/modules/supervisor-config/supervisor-config.module.code.ts"
 import type { buildAgentLogRedirect } from "akasha/seat-system/supervising/supervisor-console/supervisor-console.module.code.ts"
 import { LIVE_DEFERRED_RESTART_RULE } from "akasha/seat-system/supervising/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
 import { LIVE_IDLE_RULE } from "akasha/seat-system/supervising/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"

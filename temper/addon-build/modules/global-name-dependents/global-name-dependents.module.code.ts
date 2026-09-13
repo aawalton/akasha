@@ -1,4 +1,4 @@
-import { stripXmlComments } from "akasha/utils/narrow/strip-xml-comments/strip-xml-comments.module.code.ts"
+import { stripXmlComments } from "akasha/utils/narrow/modules/strip-xml-comments/strip-xml-comments.module.code.ts"
 import ts from "typescript"
 
 const REGISTRATION_FNS: ReadonlySet<string> = new Set([

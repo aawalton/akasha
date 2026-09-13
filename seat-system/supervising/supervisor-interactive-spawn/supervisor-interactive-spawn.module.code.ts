@@ -10,13 +10,13 @@ import {
   resolveSubagentSpawnDepth,
   resolveToolTimeout,
   resolveWorkerModel,
-} from "akasha/seat-system/supervising/supervisor-account-config/supervisor-account-config.module.code.ts"
-import type { spawnClaudeChild } from "akasha/seat-system/supervising/supervisor-adopt/supervisor-adopt.module.code.ts"
-import { processCleanup } from "akasha/seat-system/supervising/supervisor-agent-cleanup/supervisor-agent-cleanup.module.code.ts"
-import type { SeatResume } from "akasha/seat-system/supervising/supervisor-args/supervisor-args.module.code.ts"
-import { materializeBootPrompt } from "akasha/seat-system/supervising/supervisor-boot-prompt/supervisor-boot-prompt.module.code.ts"
-import { stage } from "akasha/seat-system/supervising/supervisor-boot-stage/supervisor-boot-stage.module.code.ts"
-import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
+} from "akasha/seat-system/supervising/modules/supervisor-account-config/supervisor-account-config.module.code.ts"
+import type { spawnClaudeChild } from "akasha/seat-system/supervising/modules/supervisor-adopt/supervisor-adopt.module.code.ts"
+import { processCleanup } from "akasha/seat-system/supervising/modules/supervisor-agent-cleanup/supervisor-agent-cleanup.module.code.ts"
+import type { SeatResume } from "akasha/seat-system/supervising/modules/supervisor-args/supervisor-args.module.code.ts"
+import { materializeBootPrompt } from "akasha/seat-system/supervising/modules/supervisor-boot-prompt/supervisor-boot-prompt.module.code.ts"
+import { stage } from "akasha/seat-system/supervising/modules/supervisor-boot-stage/supervisor-boot-stage.module.code.ts"
+import { LOG } from "akasha/seat-system/supervising/modules/supervisor-config/supervisor-config.module.code.ts"
 import type {
   InteractiveOpts,
   InteractiveSessionBoot,

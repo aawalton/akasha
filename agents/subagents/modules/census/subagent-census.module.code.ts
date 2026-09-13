@@ -10,7 +10,7 @@ import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
-import { LOG_AT } from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
+import { LOG_AT } from "akasha/seat-system/subagents/modules/presence/subagent-presence.module.code.ts"
 
 const SEAT = "principalSeatName"
 

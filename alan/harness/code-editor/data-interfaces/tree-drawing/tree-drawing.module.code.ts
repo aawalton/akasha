@@ -16,7 +16,7 @@ import {
 } from "akasha/code/editor/extension/modules/agent-forest/agent-forest.module.code.ts"
 import { readSeatPlaces } from "akasha/code/editor/extension/modules/agent-tree-lookup/agent-tree-lookup.module.code.ts"
 import { championTree } from "akasha/code/editor/extension/modules/champions-tree/champions-tree.module.code.ts"
-import type { SubagentNode } from "akasha/code/editor/extension/subagent-reading/subagent-reading.module.code.ts"
+import type { SubagentNode } from "akasha/code/editor/extension/modules/subagent-reading/subagent-reading.module.code.ts"
 import { treeIn } from "akasha/commands/pages/initiative/work-tree/initiative-work-tree.command.code.ts"
 import { pageAnswers } from "akasha/commands/pages/page/tree/page-tree.command.code.ts"
 import { domainRowsIn } from "akasha/domains/modules/rows/domain-rows.module.code.ts"

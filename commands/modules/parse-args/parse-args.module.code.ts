@@ -9,7 +9,7 @@ import type {
 } from "akasha/commands/modules/declaring/command-declaring.module.code.ts"
 import { expandTilde } from "akasha/utils/fs/modules/expand-tilde/expand-tilde.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
-import { suggestClosest } from "akasha/utils/text/suggest-closest/suggest-closest.module.code.ts"
+import { suggestClosest } from "akasha/utils/text/modules/suggest-closest/suggest-closest.module.code.ts"
 
 export interface ParsedArgs {
   string: (name: string) => string | undefined

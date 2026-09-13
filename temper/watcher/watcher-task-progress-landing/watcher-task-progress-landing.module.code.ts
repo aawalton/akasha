@@ -2,7 +2,7 @@ import {
   readFiles,
   readPages,
   writeFiles,
-} from "akasha/pages/query/store-writing/store-writing.module.code.ts"
+} from "akasha/pages/query/modules/store-writing/store-writing.module.code.ts"
 import type { Row } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
 import { askingFor } from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
 import type {

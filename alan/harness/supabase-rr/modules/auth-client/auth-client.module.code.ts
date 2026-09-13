@@ -3,7 +3,7 @@ import {
   signOut as baseSignOut,
   signUpWithPassword as baseSignUpWithPassword,
 } from "akasha/alan/harness/supabase-auth/modules/auth/auth.module.code.ts"
-import type { AuthResult } from "akasha/alan/harness/supabase-auth/supabase-user/supabase-user.module.code.ts"
+import type { AuthResult } from "akasha/alan/harness/supabase-auth/modules/supabase-user/supabase-user.module.code.ts"
 import { getBrowserClient } from "akasha/alan/harness/supabase-rr/modules/browser-client/browser-client.module.code.ts"
 
 export function signInWithPassword(email: string, password: string): Promise<AuthResult> {

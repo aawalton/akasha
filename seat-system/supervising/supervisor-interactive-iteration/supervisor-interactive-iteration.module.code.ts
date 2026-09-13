@@ -1,4 +1,4 @@
-import { reconcileClaimedRedelivery } from "akasha/agents/messaging/supervisor-claimed-reconcile/supervisor-claimed-reconcile.module.code.ts"
+import { reconcileClaimedRedelivery } from "akasha/agents/messaging/modules/supervisor-claimed-reconcile/supervisor-claimed-reconcile.module.code.ts"
 import {
   readClaimedBefore,
   releaseMessageClaim,
@@ -11,11 +11,11 @@ import {
   setCurrentSessionIdForSelfHeal,
 } from "akasha/seat-system/self-healing/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import { claimSeatSupervision } from "akasha/seat-system/supervising/modules/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
-import { createAgent } from "akasha/seat-system/supervising/supervisor-agent-create/supervisor-agent-create.module.code.ts"
-import type { SeatResume } from "akasha/seat-system/supervising/supervisor-args/supervisor-args.module.code.ts"
-import { LIVE_CHILD_EXIT_RULE } from "akasha/seat-system/supervising/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
-import { spawnOrAdoptChild } from "akasha/seat-system/supervising/supervisor-child-spawn/supervisor-child-spawn.module.code.ts"
-import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
+import { createAgent } from "akasha/seat-system/supervising/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"
+import type { SeatResume } from "akasha/seat-system/supervising/modules/supervisor-args/supervisor-args.module.code.ts"
+import { LIVE_CHILD_EXIT_RULE } from "akasha/seat-system/supervising/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
+import { spawnOrAdoptChild } from "akasha/seat-system/supervising/modules/supervisor-child-spawn/supervisor-child-spawn.module.code.ts"
+import { LOG } from "akasha/seat-system/supervising/modules/supervisor-config/supervisor-config.module.code.ts"
 import type { buildAgentLogRedirect } from "akasha/seat-system/supervising/supervisor-console/supervisor-console.module.code.ts"
 import { keepSeatTranscript } from "akasha/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import type {

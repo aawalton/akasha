@@ -1,6 +1,6 @@
 import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
 import { createServerClient } from "akasha/alan/harness/supabase-rr/modules/server-client/server-client.module.code.ts"
-import { SupabaseProvider } from "akasha/alan/harness/supabase-rr/supabase-provider/supabase-provider.module.code.tsx"
+import { SupabaseProvider } from "akasha/alan/harness/supabase-rr/modules/supabase-provider/supabase-provider.module.code.tsx"
 import { Toaster } from "akasha/design/interfaces/primitives/modules/sonner/sonner.module.code.tsx"
 import { getPages } from "akasha/pages/access/modules/get/get.module.code.ts"
 import { AuthProvider } from "akasha/pages/ui/components/modules/auth-provider/auth-provider.module.code.tsx"

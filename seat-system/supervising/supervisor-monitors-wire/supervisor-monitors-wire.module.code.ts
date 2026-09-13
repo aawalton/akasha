@@ -5,7 +5,7 @@ import { handleProxyVersionUpdate } from "akasha/seat-system/oauth-proxy/supervi
 import { pollSupervisorFileVersion } from "akasha/seat-system/self-healing/supervisor-file-version/supervisor-file-version.module.code.ts"
 import { handleVersionUpdate } from "akasha/seat-system/self-healing/supervisor-self-heal/supervisor-self-heal.module.code.ts"
 import { SUPERVISOR_SCRIPT } from "akasha/seat-system/self-healing/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
+import { LOG } from "akasha/seat-system/supervising/modules/supervisor-config/supervisor-config.module.code.ts"
 import { buildHeartbeatMonitor } from "akasha/seat-system/supervising/supervisor-heartbeat/supervisor-heartbeat.module.code.ts"
 import { startLimitResumeMonitor } from "akasha/seat-system/supervising/supervisor-limit-resume/supervisor-limit-resume.module.code.ts"
 import { pollAgentAction } from "akasha/seat-system/supervising/supervisor-poll-agent-action/supervisor-poll-agent-action.module.code.ts"

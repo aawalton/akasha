@@ -7,7 +7,7 @@ import type { InventoryDatabase } from "akasha/temper/items-core/modules/invento
 import { chunksStillLoading } from "akasha/temper/player-inventory-management-ui/modules/chunks-loading/chunks-loading.module.code.ts"
 import type { PricingData } from "akasha/temper/trading-pricing/modules/pricing-types/pricing-types.module.code.ts"
 import { parseNumber } from "akasha/utils/narrow/modules/parse-number/parse-number.module.code.ts"
-import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
+import { stringIn } from "akasha/utils/narrow/modules/string-in/string-in.module.code.ts"
 import { useMemo } from "react"
 
 const INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG = "temper-inventory-snapshot"

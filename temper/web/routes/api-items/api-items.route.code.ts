@@ -1,4 +1,4 @@
-import { askComposed } from "akasha/pages/query/store-spelled-asking/store-spelled-asking.module.code.ts"
+import { askComposed } from "akasha/pages/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
 import type { MinedItemData } from "akasha/temper/items-core/modules/item-tooltip-types/item-tooltip-types.module.code.ts"
 import {
   MINED_ITEM_PAGE_TYPE,

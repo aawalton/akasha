@@ -1,6 +1,6 @@
 "use client"
 
-import { useSupabase } from "akasha/alan/harness/supabase-rr/supabase-provider/supabase-provider.module.code.tsx"
+import { useSupabase } from "akasha/alan/harness/supabase-rr/modules/supabase-provider/supabase-provider.module.code.tsx"
 import { createPage } from "akasha/pages/access/modules/create/create.module.code.ts"
 import { getPages } from "akasha/pages/access/modules/get/get.module.code.ts"
 import { patchPage } from "akasha/pages/access/modules/patch/patch.module.code.ts"

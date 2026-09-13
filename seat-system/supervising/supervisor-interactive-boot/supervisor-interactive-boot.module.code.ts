@@ -12,13 +12,13 @@ import { claimSeatSupervision } from "akasha/seat-system/supervising/modules/sea
 import {
   reconcileAgentBootFiles,
   resolveClaudeHandoff,
-} from "akasha/seat-system/supervising/supervisor-adopt/supervisor-adopt.module.code.ts"
-import { selectAccountAndWriteCredential } from "akasha/seat-system/supervising/supervisor-agent/supervisor-agent.module.code.ts"
-import { createAgent } from "akasha/seat-system/supervising/supervisor-agent-create/supervisor-agent-create.module.code.ts"
+} from "akasha/seat-system/supervising/modules/supervisor-adopt/supervisor-adopt.module.code.ts"
+import { selectAccountAndWriteCredential } from "akasha/seat-system/supervising/modules/supervisor-agent/supervisor-agent.module.code.ts"
+import { createAgent } from "akasha/seat-system/supervising/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"
 import {
   configDirForAccount,
   LOG,
-} from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
+} from "akasha/seat-system/supervising/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   AGENT_LAUNCH_OPENED,
   AGENT_LAUNCH_SPAWNED,

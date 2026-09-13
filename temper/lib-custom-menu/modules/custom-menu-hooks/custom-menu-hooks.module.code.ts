@@ -10,7 +10,7 @@ import {
   cleanupEntryHeights,
   runTooltip,
 } from "akasha/temper/lib-custom-menu/modules/menu-row-setup/menu-row-setup.module.code.ts"
-import { clearTimeout } from "akasha/temper/lib-custom-menu/submenu-timeout/submenu-timeout.module.code.ts"
+import { clearTimeout } from "akasha/temper/lib-custom-menu/modules/submenu-timeout/submenu-timeout.module.code.ts"
 
 const everyGlobal: unknown = globalThis
 const glob = everyGlobal as GlobalFnTable

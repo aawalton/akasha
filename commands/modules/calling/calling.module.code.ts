@@ -52,7 +52,7 @@ import {
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
-import { meantSaid } from "akasha/utils/text/suggest-closest/suggest-closest.module.code.ts"
+import { meantSaid } from "akasha/utils/text/modules/suggest-closest/suggest-closest.module.code.ts"
 
 export type Kind = {
   readonly slug: string

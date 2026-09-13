@@ -1,6 +1,6 @@
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import { dashEachCapital } from "akasha/utils/slug/modules/dash-each-capital/dash-each-capital.module.code.ts"
-import { suggestClosest } from "akasha/utils/text/suggest-closest/suggest-closest.module.code.ts"
+import { suggestClosest } from "akasha/utils/text/modules/suggest-closest/suggest-closest.module.code.ts"
 
 export type FlagSpec =
   | { readonly kind: "boolean"; readonly default?: boolean }

@@ -11,7 +11,7 @@ import {
   hookSocialListContextMenu,
 } from "akasha/temper/lib-custom-menu/modules/custom-menu-hooks/custom-menu-hooks.module.code.ts"
 import { LIB } from "akasha/temper/lib-custom-menu/modules/custom-menu-lib/custom-menu-lib.module.code.ts"
-import { createSubmenu } from "akasha/temper/lib-custom-menu/submenu-window/submenu-window.module.code.ts"
+import { createSubmenu } from "akasha/temper/lib-custom-menu/modules/submenu-window/submenu-window.module.code.ts"
 
 const identifier = `${ADDON_NAME}${GetTimeStamp()}`
 

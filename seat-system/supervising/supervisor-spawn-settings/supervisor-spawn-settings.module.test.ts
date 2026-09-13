@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { SettingsDocumentFault } from "akasha/seat-system/supervising/supervisor-agent-settings/supervisor-agent-settings.module.code.ts"
+import { SettingsDocumentFault } from "akasha/seat-system/supervising/modules/supervisor-agent-settings/supervisor-agent-settings.module.code.ts"
 import {
   materializeSpawnSettings,
   readAgentSettingsBase,

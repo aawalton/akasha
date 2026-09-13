@@ -1,5 +1,5 @@
 import { escapeRegExp } from "akasha/utils/narrow/modules/escape-reg-exp/escape-reg-exp.module.code.ts"
-import { stripXmlComments } from "akasha/utils/narrow/strip-xml-comments/strip-xml-comments.module.code.ts"
+import { stripXmlComments } from "akasha/utils/narrow/modules/strip-xml-comments/strip-xml-comments.module.code.ts"
 import ts from "typescript"
 
 export type OrphanReason = "undefined-symbol" | "onupdate-storm-vector"

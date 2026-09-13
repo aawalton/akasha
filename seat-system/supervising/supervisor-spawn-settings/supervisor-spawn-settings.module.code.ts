@@ -6,7 +6,7 @@ import { ownRepoRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.
 import {
   agentSettings,
   isSettingsDocumentFault,
-} from "akasha/seat-system/supervising/supervisor-agent-settings/supervisor-agent-settings.module.code.ts"
+} from "akasha/seat-system/supervising/modules/supervisor-agent-settings/supervisor-agent-settings.module.code.ts"
 import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 const LOG = "[spawn-settings]"
