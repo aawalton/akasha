@@ -5,7 +5,10 @@ import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code
 import { editsIn } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { baseOf as headOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
-import { CHOSEN } from "akasha/commands/pages/change/apply/change-apply.command.code.ts"
+import {
+  CHOSEN,
+  changeApply,
+} from "akasha/commands/pages/change/apply/change-apply.command.code.ts"
 import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { REFUSES_CODE } from "akasha/testing-system/modules/minting/minting.module.code.ts"
 import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
@@ -39,6 +42,13 @@ test("an apply takes the key saying what the commit is for", () => {
 
 test("an apply names itself in the refusal a barred key draws", () => {
   expect(CHOSEN.said).toBe("apply")
+})
+
+test("a flag said on the command line is refused", async () => {
+  const root = repoWith()
+  const said = await changeApply(["remove-page", "--file-path", "akasha/one.ts"], givenIn(root))
+
+  expect(said.refusals[0] ?? "").toContain("`--file-path` is no argument")
 })
 
 const TWO_AT = "akasha/two.ts"

@@ -1,5 +1,7 @@
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { loadedAt } from "akasha/changes/runners/modules/change-loading/change-loading.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
+import { change as changeArgument } from "akasha/commands/arguments/pages/change.argument.ts"
 import {
   applyingKept,
   applyWith,
@@ -11,12 +13,12 @@ import {
   type Chosen,
   changing,
 } from "akasha/commands/modules/change-running/change-running.module.code.ts"
-import { unknownIn } from "akasha/commands/modules/flags/command-flags.module.code.ts"
 import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { changeApply as applyPage } from "akasha/commands/pages/change/apply/change-apply.command.ts"
 import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 
-const NO_FLAG: readonly string[] = []
+const NAMED = [changeArgument]
 
 const APPLIES = "apply"
 
@@ -34,10 +36,10 @@ export const CHOSEN: Omit<Chosen, "calledAs"> = {
 }
 
 export async function changeApply(argv: readonly string[], given: Given): Promise<Answer> {
-  const slug = argv[0]
+  const read = takenFor(argv, given.calledAs, applyPage, NAMED)
+  if ("refused" in read) return mistaking(read.refused)
+  const slug = read.taken.change
   if (slug === undefined) return await applyingKept(given)
-  const unknown = unknownIn(argv.slice(1), NO_FLAG, NO_FLAG, given.calledAs)
-  if (unknown.length > 0) return mistaking(unknown)
   const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
   if (page === null || editsAt(page) === null) {
     return mistaking([noPageSaid(given.root, given.agentId)])
