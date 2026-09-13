@@ -1,15 +1,14 @@
 import { expect, test } from "bun:test"
 import { dirname } from "node:path"
 import { changeFileCommand } from "akasha/changes/agent/file-content/change-file/change-file.change-agent.code.ts"
-import { runChange as changeFile } from "akasha/changes/mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.code.ts"
-import { refusing, replayed } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import { replayed } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   NOTHING_OVER,
-  type Reaching,
   type World,
   worldAt,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
   groupAt,
   groupsIn,
@@ -22,25 +21,16 @@ const ROOT = codeRoot()
 
 const AT = "akasha/one.held.ts"
 
-type Passage = { at: string; old: string; new: string }
-
-const RUNS: Reaching = (world, at, given) => {
-  if (at === "change-mechanical-file-content/change-file-content-of-any-kind") {
-    return Promise.resolve(changeFile(world, given as Passage))
-  }
-  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
-}
-
 function worldOf(held: Readonly<Record<string, string>>): World {
   return {
     root: "/nowhere",
-    index: {} as World["index"],
+    index: { pageTypesIn: () => new Set<string>() } as never,
     textOf: (path) => held[path] ?? null,
     bodyOf: (path) => held[path] ?? null,
     under: () => [],
     base: (path) => held[path] ?? null,
     over: NOTHING_OVER,
-    reaching: RUNS,
+    reaching: running,
   }
 }
 
@@ -137,7 +127,7 @@ function besideThere(folder: Iterable<string>, beside: string): boolean {
   return false
 }
 
-const REPO = worldAt(ROOT, () => null, RUNS)
+const REPO = worldAt(ROOT, () => null, running)
 
 function firstPair(): Pair | null {
   const index = REPO.index

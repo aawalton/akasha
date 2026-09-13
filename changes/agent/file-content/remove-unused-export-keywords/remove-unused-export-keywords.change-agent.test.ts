@@ -1,16 +1,11 @@
 import { expect, test } from "bun:test"
 import { removeUnusedExportKeywords } from "akasha/changes/agent/file-content/remove-unused-export-keywords/remove-unused-export-keywords.change-agent.code.ts"
-import { runChange as dropping } from "akasha/changes/mechanical/file-content/remove/remove-export-keyword/remove-export-keyword.change-mechanical-file-content.code.ts"
 import {
   NOTHING_OVER,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import {
-  bodyAnswered,
-  relaying,
-} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
-
-const DROP = "change-mechanical-file-content/remove-export-keyword"
+import { bodyAnswered } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 
 const NOWHERE = "/nowhere"
 
@@ -27,11 +22,6 @@ const TEXT =
 const READER_TEXT =
   'import { spare } from "akasha/akasha/held.module.code.ts"\n\nexport const reader = spare\n'
 
-type Given = {
-  readonly at: string
-  readonly names: readonly string[]
-}
-
 function worldOver(held: Readonly<Record<string, string>>, importers: readonly string[]): World {
   const index = {
     everyPath: () => Object.keys(held),
@@ -46,7 +36,7 @@ function worldOver(held: Readonly<Record<string, string>>, importers: readonly s
     under: () => [],
     base: (path: string) => held[path] ?? null,
     over: NOTHING_OVER,
-    reaching: relaying<Given>(DROP, dropping),
+    reaching: running,
   }
 }
 
