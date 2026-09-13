@@ -86,11 +86,6 @@ export const aineResourceManagement = {
       workingMemory:
         "The reaper takes whichever subtree is largest at the instant it looks, so a browser, a game and a build all weigh the same, and the largest is often the one doing the most valuable work. Kubernetes settles this in advance by class. Overcommit only works where the rare collision resolves the way Alan would choose, so the order belongs settled while nothing is burning.\n",
     },
-    {
-      statement: "Every record a run appends is kept for a window of its own.",
-      workingMemory:
-        "entries and logs state twenty-four hours on their file property, and sweep-cost-records reads that window nightly: 662 MB fell to 94 MB and holds at a day. Alan keeps Claude's transcripts on purpose. Every other stream states no window: the parse cache holds 162 MB with no ceiling and no sweep, and clearings, the typing spool, the email action log and the committed generation log only grow. 304 sidecars at paths a page left are claimed by no index, so no sweep reaches them.\n",
-    },
   ],
   constraints: [
     "Adding a mechanism requires Alan's approval.",
