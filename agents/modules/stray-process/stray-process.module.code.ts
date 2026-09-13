@@ -1,6 +1,9 @@
 import type { ProcLivenessEntry } from "akasha/agents/modules/proc-liveness/agent-proc-liveness.module.code.ts"
 import { scanProcEntries } from "akasha/agents/modules/proc-scan/proc-scan.module.code.ts"
-import { SUBAGENT_MARK } from "akasha/agents/modules/read-record/read-record.module.code.ts"
+import {
+  ACTING_NAMED,
+  SUBAGENT_MARK,
+} from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import {
   actingIn,
   type Liveness,
@@ -24,13 +27,31 @@ export function namesASubagent(actingAgentId: string): boolean {
   return actingAgentId.indexOf(SUBAGENT_MARK) > 0
 }
 
+const SPELLED = "[A-Za-z0-9_-]+"
+
+const QUOTE = "'"
+
+const REQUOTED = `'"'"'`
+
+const EXPORTED = new RegExp(`export ${ACTING_NAMED}=(${REQUOTED}|${QUOTE})(${SPELLED})\\1\\n`)
+
+export function actingNamedOn(cmdline: string): string | null {
+  return EXPORTED.exec(cmdline)?.[2] ?? null
+}
+
+export function actingOf(entry: ProcLivenessEntry): string | null {
+  const given = entry.actingAgentId
+  if (given !== undefined && given !== "") return given
+  return actingNamedOn(entry.cmdline)
+}
+
 export function underSubagents(
   entries: readonly ProcLivenessEntry[]
 ): ReadonlyMap<string, readonly ProcLivenessEntry[]> {
   const grouped = new Map<string, ProcLivenessEntry[]>()
   for (const one of entries) {
-    const acting = one.actingAgentId
-    if (acting === undefined || acting === "") continue
+    const acting = actingOf(one)
+    if (acting === null) continue
     if (!namesASubagent(acting)) continue
     const held = grouped.get(acting)
     if (held === undefined) grouped.set(acting, [one])

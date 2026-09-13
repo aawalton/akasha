@@ -29,6 +29,28 @@ export const strayProcess = {
       statement: "A process stating an acting agent that names no subagent is passed over.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "The environment a process was started with does not carry a name exported inside that process.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A shell a tool call runs in is therefore named by its command line rather than by its environment.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The command line is read only in the shape the harness composes.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A command line that merely mentions an acting agent names none.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The environment is taken where the two disagree.",
+    },
+    {
       invariantKind: "absence",
       statement: "No page is read to tell whether a subagent has returned.",
     },
