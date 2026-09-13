@@ -1,11 +1,3 @@
-import { buildCompiledCharacterPriority } from "akasha/temper/items-addon/modules/inventory-character-priority/inventory-character-priority.module.code.ts"
-import { getCompiledConfig } from "akasha/temper/items-addon/modules/inventory-rules-core/inventory-rules-core.module.code.ts"
-import {
-  characterNeedsTrait,
-  inferDeconCraftingType,
-  isDeconUsefulForCharacter,
-  isDeconUsefulForCurrent,
-} from "akasha/temper/items-addon/modules/inventory-rules-core-inspire/inventory-rules-core-inspire.module.code.ts"
 import {
   knownChapterCountForStyleByCharData,
   knowsMotifByCharData,
@@ -13,41 +5,12 @@ import {
 import { getTemperCharactersData } from "akasha/temper/items-addon/modules/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
 import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
 import { parseMotifBookName } from "akasha/temper/items-core/modules/motif-name-parser/motif-name-parser.module.code.ts"
-import {
-  claimItemForCharacter,
-  resolveUseDestination,
-} from "akasha/temper/items-rules-core/modules/use-destination-resolver/use-destination-resolver.module.code.ts"
-import {
-  type CharacterId,
-  characterId,
-  type ItemKey,
-  type UseDestinationContext,
+import type {
+  CharacterId,
+  ItemKey,
+  UseDestinationContext,
 } from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
 import { asObjectRecord } from "akasha/utils/narrow/modules/as-object-record/as-object-record.module.code.ts"
-export function findInspireCharacterIdByPriority(itemLink: string): string | undefined {
-  const craftingType = inferDeconCraftingType(itemLink)
-  if (craftingType === CRAFTING_TYPE_INVALID) return undefined
-
-  const compiled = getCompiledConfig()
-  if (!compiled?.characterPriority || compiled.characterPriority.length === 0) {
-    if (isDeconUsefulForCurrent(craftingType)) {
-      return tostring(GetCurrentCharacterId())
-    }
-    return undefined
-  }
-
-  const currentId = tostring(GetCurrentCharacterId())
-
-  for (const charId of compiled.characterPriority) {
-    if (charId === currentId) {
-      if (isDeconUsefulForCurrent(craftingType)) return charId
-    } else {
-      if (isDeconUsefulForCharacter(craftingType, charId)) return charId
-    }
-  }
-
-  return undefined
-}
 
 export function buildUnlockItemKey(itemLink: string, itemType: number): ItemKey | undefined {
   if (itemType === ITEMTYPE_RECIPE) {
@@ -157,135 +120,4 @@ export function buildUnlockContext(
       return knownChapterCountForStyleByCharData(charData, styleId)
     },
   }
-}
-
-export function findUnlockCharacterIdByPriority(
-  itemLink: string,
-  itemType: number,
-  claims?: Map<CharacterId, Set<string>>
-): string | undefined {
-  const useType = GetItemLinkItemUseType(itemLink)
-  if (useType === ITEM_USE_TYPE_COLLECTIBLE_GRANT) {
-    const collectibleId = GetItemLinkItemUseReferenceId(itemLink)
-    if (IsCollectibleUnlocked(collectibleId)) return undefined
-    return tostring(GetCurrentCharacterId())
-  }
-
-  const [, specializedType] = GetItemLinkItemType(itemLink)
-
-  if (
-    specializedType === SPECIALIZED_ITEMTYPE_TROPHY_COLLECTIBLE_FRAGMENT ||
-    specializedType === SPECIALIZED_ITEMTYPE_TROPHY_RUNEBOX_FRAGMENT
-  ) {
-    const grantedCollectibleId = GetItemLinkContainerCollectibleId(itemLink)
-    if (grantedCollectibleId === 0) return undefined
-    if (!CanCombinationFragmentBeUnlocked(grantedCollectibleId)) return undefined
-    return tostring(GetCurrentCharacterId())
-  }
-
-  if (specializedType === SPECIALIZED_ITEMTYPE_COLLECTIBLE_STYLE_PAGE) {
-    const grantedCollectibleId = GetItemLinkContainerCollectibleId(itemLink)
-    if (grantedCollectibleId === 0) return undefined
-    if (IsCollectibleUnlocked(grantedCollectibleId)) return undefined
-    return tostring(GetCurrentCharacterId())
-  }
-
-  const itemKey = buildUnlockItemKey(itemLink, itemType)
-  if (itemKey === undefined) return undefined
-
-  const currentIdStr = tostring(GetCurrentCharacterId())
-  const currentId = characterId(currentIdStr)
-  const priority = buildCompiledCharacterPriority(currentId)
-
-  const ctx = buildUnlockContext(priority, currentId, itemLink)
-  const claimsMap: ReadonlyMap<CharacterId, ReadonlySet<string>> = claims ??
-  new Map<CharacterId, Set<string>>()
-  const resolved = resolveUseDestination(itemKey, ctx, claimsMap)
-  if (resolved === undefined) return undefined
-  if (claims !== undefined) {
-    claimItemForCharacter(claims, resolved, itemKey)
-  }
-  return resolved
-}
-
-export function findResearchCharacterIdByPriority(itemLink: string): string | undefined {
-  const compiled = getCompiledConfig()
-  if (!compiled?.characterPriority || compiled.characterPriority.length === 0) {
-    if (CanItemLinkBeTraitResearched(itemLink)) {
-      return tostring(GetCurrentCharacterId())
-    }
-    return undefined
-  }
-
-  const currentId = tostring(GetCurrentCharacterId())
-  const traitType = GetItemLinkTraitType(itemLink)
-  if (traitType === 0) return undefined
-  const craftingType = GetItemLinkCraftingSkillType(itemLink)
-  if (craftingType === 0) return undefined
-  const traitName = GetString("SI_ITEMTRAITTYPE", traitType)
-
-  const characters = getTemperCharactersData()
-
-  for (const charId of compiled.characterPriority) {
-    if (charId === currentId) {
-      if (CanItemLinkBeTraitResearched(itemLink)) return charId
-    } else {
-      if (!characters) continue
-      const charData = asObjectRecord(characters[charId])
-      if (!charData) continue
-      if (characterNeedsTrait(charData, craftingType, traitName)) return charId
-    }
-  }
-
-  return undefined
-}
-
-export function findConsumableCharacterIdByPriority(
-  itemId: number,
-  claims?: Map<CharacterId, Set<string>>
-): string | undefined {
-  const compiled = getCompiledConfig()
-  if (!compiled) return undefined
-
-  const wantedChars = compiled.wantedConsumables[itemId]
-  if (!wantedChars || wantedChars.length === 0) return undefined
-
-  const priority: ReadonlyArray<CharacterId> = wantedChars.map((id) => characterId(id))
-  const ctx: UseDestinationContext = {
-    characterPriority: priority,
-    knowsItem: () => false,
-    knownChapterCountForStyle: () => 0,
-  }
-  const itemKey: ItemKey = { kind: "consumable", itemId }
-  const claimsMap: ReadonlyMap<CharacterId, ReadonlySet<string>> = claims ??
-  new Map<CharacterId, Set<string>>()
-  const resolved = resolveUseDestination(itemKey, ctx, claimsMap)
-  if (resolved !== undefined && claims !== undefined) {
-    claimItemForCharacter(claims, resolved, itemKey)
-  }
-  return resolved
-}
-
-export function findEquipCharacterIdByPriority(itemLink: string): string | undefined {
-  const compiled = getCompiledConfig()
-  if (!compiled || compiled.wantedEquipment.length === 0) return undefined
-
-  const equipType = GetItemLinkEquipType(itemLink)
-  const traitType = GetItemLinkTraitType(itemLink)
-  if (equipType === 0 || traitType === 0) return undefined
-
-  const armorType = GetItemLinkArmorType(itemLink)
-  const weaponType = GetItemLinkWeaponType(itemLink)
-  const quality = GetItemLinkDisplayQuality(itemLink)
-
-  for (const sig of compiled.wantedEquipment) {
-    if (sig.equipType !== equipType) continue
-    if (sig.traitType !== traitType) continue
-    if (sig.quality !== quality) continue
-    if (sig.armorType !== undefined && sig.armorType !== armorType) continue
-    if (sig.weaponType !== undefined && sig.weaponType !== weaponType) continue
-    return sig.esoCharId
-  }
-
-  return undefined
 }

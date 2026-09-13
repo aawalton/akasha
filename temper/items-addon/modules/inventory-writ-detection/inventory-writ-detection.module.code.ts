@@ -36,11 +36,6 @@ export function scanActiveWrits(): LuaMap<number, number> {
   return writs
 }
 
-export function hasActiveWrit(craftType: number): boolean {
-  const writs = scanActiveWrits()
-  return writs.has(craftType)
-}
-
 export type MasterWritConditionInfo = {
   readonly masterItemId: number | undefined
   readonly craftingType: number | undefined

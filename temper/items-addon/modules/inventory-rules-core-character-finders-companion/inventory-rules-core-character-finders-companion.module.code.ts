@@ -1,5 +1,4 @@
 import { LOC_COMPANION_PREFIX } from "akasha/temper/items-addon/modules/inventory-constants/inventory-constants.module.code.ts"
-import { getCompiledConfig } from "akasha/temper/items-addon/modules/inventory-rules-core/inventory-rules-core.module.code.ts"
 import { getDatabase } from "akasha/temper/items-addon/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import type { ItemData } from "akasha/temper/items-addon/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
 
@@ -132,41 +131,4 @@ export function isCompanionWornSlotFilled(
   }
 
   return false
-}
-
-export function findCompanionEquipNameByPriority(itemLink: string): string | undefined {
-  const compiled = getCompiledConfig()
-  if (!compiled || compiled.wantedCompanionEquipment.length === 0) return undefined
-
-  const equipType = GetItemLinkEquipType(itemLink)
-  const traitType = GetItemLinkTraitType(itemLink)
-  if (equipType === 0 || traitType === 0) return undefined
-
-  if (traitType < 34 || traitType > 60) return undefined
-
-  const armorType = GetItemLinkArmorType(itemLink)
-  const weaponType = GetItemLinkWeaponType(itemLink)
-  const quality = GetItemLinkDisplayQuality(itemLink)
-
-  for (const sig of compiled.wantedCompanionEquipment) {
-    if (sig.equipType !== equipType) continue
-    if (sig.traitType !== traitType) continue
-    if (sig.quality !== quality) continue
-    if (sig.armorType !== undefined && sig.armorType !== armorType) continue
-    if (sig.weaponType !== undefined && sig.weaponType !== weaponType) continue
-    if (
-      isCompanionWornSlotFilled(
-        sig.companionName,
-        sig.equipType,
-        sig.traitType,
-        sig.quality,
-        sig.armorType,
-        sig.weaponType
-      )
-    )
-      continue
-    return sig.companionName
-  }
-
-  return undefined
 }

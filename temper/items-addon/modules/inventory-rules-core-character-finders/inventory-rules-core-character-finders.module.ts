@@ -4,7 +4,6 @@ export const inventoryRulesCoreCharacterFinders = {
   id: "01a06258-b52f-7d79-b6a2-1fdc90565e91",
   type: "module",
   slug: "inventory-rules-core-character-finders",
-  definition:
-    "which character should receive an item to inspire, unlock, research, consume or equip",
+  definition: "the item key and character context an unlock destination is resolved from",
   code: "ts",
 } as const satisfies Module

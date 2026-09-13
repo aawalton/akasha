@@ -1,7 +1,5 @@
 import { getSavedVariables } from "akasha/temper/items-addon/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
-import { getTemperCharactersData } from "akasha/temper/items-addon/modules/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
 import { isCraftingRankBelowCap } from "akasha/temper/items-core/modules/crafting-passive-ranks/crafting-passive-ranks.module.code.ts"
-import type { CharacterScope } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import { asObjectRecord } from "akasha/utils/narrow/modules/as-object-record/as-object-record.module.code.ts"
 
 const KNOWN_DECON_CRAFT_TYPES = new LuaSet<number>()
@@ -88,16 +86,6 @@ export function isDeconUsefulForCurrent(craftingType: number): boolean {
   return isCraftingRankBelowCap(level, craftingType)
 }
 
-export function isDeconUsefulForAny(craftingType: number): boolean {
-  const sv = getSavedVariables()
-  if (!sv.craftingLevels) return false
-  for (const [, levels] of Object.entries(sv.craftingLevels)) {
-    const level = levels[craftingType]
-    if (level !== undefined && isCraftingRankBelowCap(level, craftingType)) return true
-  }
-  return false
-}
-
 export function isDeconUsefulForCharacter(craftingType: number, charId: string): boolean {
   const sv = getSavedVariables()
   if (!sv.craftingLevels) return false
@@ -132,52 +120,6 @@ export function characterNeedsTrait(
       if (typeof held !== "string") continue
       if (held.toLowerCase() === wanted && !trait["known"]) return true
     }
-  }
-  return false
-}
-
-export function isItemResearchable(itemLink: string, scope?: CharacterScope): boolean {
-  if (scope == null || scope === "current-character") {
-    return CanItemLinkBeTraitResearched(itemLink)
-  }
-
-  if (scope.substring(0, 10) === "character:") {
-    const charId = scope.substring(10)
-    const currentId = tostring(GetCurrentCharacterId())
-    if (charId === currentId) return CanItemLinkBeTraitResearched(itemLink)
-
-    const characters = getTemperCharactersData()
-    if (!characters) return CanItemLinkBeTraitResearched(itemLink)
-
-    const charData = asObjectRecord(characters[charId])
-    if (!charData) return false
-
-    const traitType = GetItemLinkTraitType(itemLink)
-    if (traitType === 0) return false
-    const craftingType = GetItemLinkCraftingSkillType(itemLink)
-    if (craftingType === 0) return false
-    const traitName = GetString("SI_ITEMTRAITTYPE", traitType)
-
-    return characterNeedsTrait(charData, craftingType, traitName)
-  }
-
-  const characters = getTemperCharactersData()
-  if (!characters) {
-    return CanItemLinkBeTraitResearched(itemLink)
-  }
-
-  const traitType = GetItemLinkTraitType(itemLink)
-  if (traitType === 0) return false
-
-  const craftingType = GetItemLinkCraftingSkillType(itemLink)
-  if (craftingType === 0) return false
-
-  const traitName = GetString("SI_ITEMTRAITTYPE", traitType)
-
-  for (const charData of Object.values(characters)) {
-    const char = asObjectRecord(charData)
-    if (!char) continue
-    if (characterNeedsTrait(char, craftingType, traitName)) return true
   }
   return false
 }

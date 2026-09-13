@@ -91,10 +91,6 @@ const MAX_VAULT_DEPOSIT_RETRIES = 3
 
 let vaultDepositRunning = false
 
-export function isVaultDepositRunning(): boolean {
-  return vaultDepositRunning
-}
-
 function findNextVaultDepositSlot(): number | undefined {
   let found: number | undefined
   forEachPendingAction(function (this: void, bagId, slotIndex, action, destination): undefined {

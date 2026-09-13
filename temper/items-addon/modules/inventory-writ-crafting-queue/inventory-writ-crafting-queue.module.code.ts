@@ -70,11 +70,3 @@ export function clearWritCraftQueue(): undefined {
   queue = []
   processing = false
 }
-
-export function isWritCraftProcessing(): boolean {
-  return processing
-}
-
-export function getWritCraftQueueLength(): number {
-  return queue.length
-}

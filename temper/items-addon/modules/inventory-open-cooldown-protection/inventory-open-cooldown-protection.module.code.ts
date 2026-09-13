@@ -8,7 +8,6 @@ import {
   COOLDOWN_GROUPS as PURE_COOLDOWN_GROUPS,
   DLC_DAILY_DURATION as PURE_DLC_DAILY_DURATION,
   DLC_DAILY_KEYS as PURE_DLC_DAILY_KEYS,
-  DLC_DAILY_PATTERNS as PURE_DLC_DAILY_PATTERNS,
   RFTW_GROUP as PURE_RFTW_GROUP,
   findCooldownGroup as pureFindCooldownGroup,
   matchesCooldownGroup as pureMatchesCooldownGroup,
@@ -16,7 +15,6 @@ import {
 
 const RFTW_GROUP = PURE_RFTW_GROUP
 const COOLDOWN_GROUPS = PURE_COOLDOWN_GROUPS
-export const DLC_DAILY_PATTERNS = PURE_DLC_DAILY_PATTERNS
 const DLC_DAILY_KEYS = PURE_DLC_DAILY_KEYS
 const DLC_DAILY_DURATION = PURE_DLC_DAILY_DURATION
 
@@ -62,16 +60,6 @@ function isCooldownActiveForGroup(group: CooldownGroup): boolean {
   const sv = getSavedVariables()
   const expiry = sv.openCooldowns?.[group.key]
   return expiry !== undefined && GetTimeStamp() < expiry
-}
-
-export function getActiveCooldownGroup(
-  bagId: number,
-  slotIndex: number
-): CooldownGroup | undefined {
-  const group = findCooldownGroup(bagId, slotIndex)
-  if (!group) return undefined
-  if (isCooldownActiveForGroup(group)) return group
-  return undefined
 }
 
 function shouldBlockOpen(bagId: number, slotIndex: number): boolean {
