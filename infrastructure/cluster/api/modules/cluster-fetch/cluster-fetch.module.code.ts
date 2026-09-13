@@ -37,18 +37,6 @@ export function getConfig(): K8sAdminConfig {
   return cachedConfig
 }
 
-export function forgetConfig(): undefined {
-  cachedConfig = null
-}
-
-export type FetchLike = (...args: Parameters<typeof fetch>) => ReturnType<typeof fetch>
-
-let fetchForTests: FetchLike | null = null
-
-export function setFetchForTests(impl: FetchLike | null): undefined {
-  fetchForTests = impl
-}
-
 export interface K8sFetchInit {
   readonly method: "GET" | "POST" | "DELETE" | "PATCH"
   readonly body?: string
@@ -66,9 +54,8 @@ export async function k8sFetch(
       new Error(`k8sFetch: ${init.method} ${path} gave no answer within ${K8S_FETCH_CEILING_MS}ms`)
     )
   }, K8S_FETCH_CEILING_MS)
-  const fetchImpl: FetchLike = fetchForTests ?? fetch
   try {
-    return await fetchImpl(`${config.apiBase}${path}`, {
+    return await fetch(`${config.apiBase}${path}`, {
       method: init.method,
       ...(init.body === undefined ? {} : { body: init.body }),
       headers: {
