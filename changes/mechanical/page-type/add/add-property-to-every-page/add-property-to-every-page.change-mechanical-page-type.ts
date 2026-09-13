@@ -9,6 +9,7 @@ export const addPropertyToEveryPage = {
   changeTargetSubtype: "change-target-subtype/page-type-page-property",
   definition: "one value put under one key on every page of one page type",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
