@@ -53,6 +53,7 @@ const TRACE_SCHEMA = z
   .object({
     schemaVersion: z.number(),
     timestamp: z.number(),
+    venue: z.enum(["bank", "store", "fence"]).optional(),
     bankingBag: z.number(),
     scanBankBagsMs: z.number().optional(),
     refreshPanelMs: z.number().optional(),
