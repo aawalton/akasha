@@ -5,7 +5,7 @@ export const smilingjennyWeb = {
   type: "web-app",
   slug: "smilingjenny-web",
   definition: "Jenny's command center on the web",
-  sourceDirectory: "smilingjenny/web",
+  sourceDirectory: "products/smilingjenny/web",
   buildCommand: "bun run build",
   secretResource: "smilingjenny-secrets",
   serviceClusters: ["smilingjenny-web"],

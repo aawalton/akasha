@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import "akasha/design/interfaces/system/design-look/design-look.stylesheet.styles.css";
+
+@source "../../../../alan/harness/**/*.{ts,tsx}";
+@source "../../../../code/router-apps/**/*.{ts,tsx}";
+@source "../../../../design/interfaces/**/*.{ts,tsx}";
