@@ -22,10 +22,5 @@ export const astraIndexCleanup = {
       workingMemory:
         "`.git/cache/parse` is 512 files at 150 MB, keyed by a digest, with a second generation beside each under `-shape-2`. `domains/plain-language/modules/parse-cache/parse-cache.module.code.ts` writes it.",
     },
-    {
-      statement: "`.git/data` is gone.",
-      workingMemory:
-        "What is left is `reads/path` and `sops`, both live and together 83 MB. `reads` is what an agent has read, which belongs beside the seat rather than in a store of its own; `sops` holds the age key the secrets are read with.",
-    },
   ],
 } as const satisfies Initiative
