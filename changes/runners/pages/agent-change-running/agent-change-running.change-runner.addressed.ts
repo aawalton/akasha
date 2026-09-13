@@ -53,6 +53,9 @@ export type Changes = {
   "change-agent/change-page-page-type": Parameters<
     typeof import("akasha/changes/agent/file/change-page-page-type/change-page-page-type.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/change-property-on-page-type": Parameters<
+    typeof import("akasha/changes/agent/page-type/change-property-on-page-type/change-property-on-page-type.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/change-property-record-field": Parameters<
     typeof import("akasha/changes/agent/file-content/change-property-record-field/change-property-record-field.change-agent.code.ts")["runChange"]
   >[1]
