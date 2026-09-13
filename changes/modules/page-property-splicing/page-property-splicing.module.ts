@@ -7,6 +7,7 @@ export const pagePropertySplicing = {
   definition:
     "the edits putting a key on a page, taking a key off it and restating one key as another",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
