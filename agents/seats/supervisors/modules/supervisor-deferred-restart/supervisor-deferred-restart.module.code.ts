@@ -9,16 +9,16 @@ import type {
   DeferredRestartRuleSource,
   DeferredRestartState,
 } from "akasha/agents/seats/supervisors/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
+import { guardTick } from "akasha/agents/seats/supervisors/modules/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
 import type { IdleObservation } from "akasha/agents/seats/supervisors/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
-import { guardTick } from "akasha/seat-system/supervising/modules/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
 import {
   observeBusyChildDetails,
   observeIdle,
-} from "akasha/seat-system/supervising/modules/supervisor-idle-observe/supervisor-idle-observe.module.code.ts"
+} from "akasha/agents/seats/supervisors/modules/supervisor-idle-observe/supervisor-idle-observe.module.code.ts"
 import type {
   BusyChildDetail,
   IdleRuleSource,
-} from "akasha/seat-system/supervising/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
+} from "akasha/agents/seats/supervisors/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
 
 const TICK_MS = 10_000
 

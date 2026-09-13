@@ -3,7 +3,7 @@ import type {
   DeferredRestartRuleSource,
   DeferredRestartWindows,
 } from "akasha/agents/seats/supervisors/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
-import type { IdleRuleSource } from "akasha/seat-system/supervising/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
+import type { IdleRuleSource } from "akasha/agents/seats/supervisors/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
 import { readProcessStartMs } from "akasha/seat-system/supervising/modules/supervisor-precliff-restart/supervisor-precliff-restart.module.code.ts"
 import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 

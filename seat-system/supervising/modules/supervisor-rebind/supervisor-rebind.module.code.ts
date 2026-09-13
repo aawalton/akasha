@@ -4,7 +4,7 @@ import {
   AGENT_LAUNCH_OPENED,
   AGENT_LAUNCH_SPAWNED,
 } from "akasha/agents/seats/supervisors/modules/supervisor-env/supervisor-env.module.code.ts"
-import { keepSeatTranscript } from "akasha/seat-system/supervising/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
+import { keepSeatTranscript } from "akasha/agents/seats/supervisors/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import {
   type CarriedAgentName,
   carriedForSeat,

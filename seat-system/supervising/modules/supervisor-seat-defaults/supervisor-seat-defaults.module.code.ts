@@ -9,12 +9,12 @@ import { seatNameForAgent } from "akasha/agents/seats/modules/presence-read/seat
 import { defaultSlots } from "akasha/agents/seats/modules/resolve/seat-resolve.module.code.ts"
 import { run } from "akasha/agents/seats/modules/running/seat-running.module.code.ts"
 import { LOG } from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
+import { keepSeatPage } from "akasha/agents/seats/supervisors/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { keepSeatPage } from "akasha/seat-system/supervising/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 
 export type SeatMode = "interactive" | "headless"
 

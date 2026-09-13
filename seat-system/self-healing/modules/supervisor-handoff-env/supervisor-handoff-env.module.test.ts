@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { asPid } from "akasha/agents/seats/supervisors/modules/supervisor-exec/supervisor-exec.module.code.ts"
 import {
   buildHandoffEnv,
   CLAUDE_ACCOUNT_ENV,
@@ -11,7 +12,6 @@ import {
   parseSupervisorHandoffEnv,
   resolveProxyOwnerAgentId,
 } from "akasha/seat-system/self-healing/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
-import { asPid } from "akasha/seat-system/supervising/modules/supervisor-exec/supervisor-exec.module.code.ts"
 
 const WHOLE = {
   pid: asPid(4242),

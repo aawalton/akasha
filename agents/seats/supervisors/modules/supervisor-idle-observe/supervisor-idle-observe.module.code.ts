@@ -7,7 +7,7 @@ import type { IdleObservation } from "akasha/agents/seats/supervisors/modules/su
 import type {
   BusyChildDetail,
   IdleRuleSource,
-} from "akasha/seat-system/supervising/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
+} from "akasha/agents/seats/supervisors/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
 import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 const INFLIGHT_FETCH_TIMEOUT_MS = 1_000

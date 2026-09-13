@@ -12,6 +12,7 @@ import {
   configDirForAccount,
   LOG,
 } from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
+import { guardTick } from "akasha/agents/seats/supervisors/modules/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
 import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,
@@ -32,7 +33,6 @@ import {
   reportOAuthRecovered,
   reportTerminalOAuthError,
 } from "akasha/seat-system/seat-credential/modules/oauth-health-lines/oauth-health-lines.module.code.ts"
-import { guardTick } from "akasha/seat-system/supervising/modules/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
 import { writePacingSnapshot } from "akasha/seat-system/supervising/modules/supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts"
 
 async function runCredentialPullTick(args: {

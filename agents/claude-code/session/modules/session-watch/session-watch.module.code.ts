@@ -8,8 +8,8 @@ import {
 } from "akasha/agents/claude-code/session/modules/session-stream/session-stream.module.code.ts"
 import { sessionOf } from "akasha/agents/seats/modules/session/seat-session.module.code.ts"
 import { transcriptOf } from "akasha/agents/seats/modules/transcript-path/seat-transcript-path.module.code.ts"
+import { keepSeatTranscript } from "akasha/agents/seats/supervisors/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import type { ObjectStore } from "akasha/infrastructure/storage/object-store/modules/seaweedfs-store/seaweedfs-store.module.code.ts"
-import { keepSeatTranscript } from "akasha/seat-system/supervising/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 
 const FALLBACK_AFTER_MS = 15_000
 
