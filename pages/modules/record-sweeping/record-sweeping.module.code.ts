@@ -58,9 +58,18 @@ export function propertyOf(path: string, windows: ReadonlyMap<string, number>): 
   return windows.has(said) ? said : null
 }
 
+export function sectionOf(page: string, path: string): string | null {
+  const stem = page.slice(0, page.lastIndexOf("."))
+  if (!path.startsWith(`${stem}.`) || !path.endsWith(ENDING)) return null
+  const said = path.slice(stem.length + 1, -ENDING.length)
+  const sections = said.split(".")
+  const last = sections[sections.length - 1] ?? ""
+  return NUMBERED.test(last) ? sections.slice(0, -1).join(".") : said
+}
+
 export type Stream = {
   readonly page: string
-  readonly propertySlug: string
+  readonly section: string
   readonly hours: number
 }
 
@@ -75,8 +84,10 @@ export function streamsIn(given: string | Reading): readonly Stream[] {
     if (hours === undefined) continue
     const page = listedByPath(reading, path)[0]?.path
     if (page === undefined) continue
-    const key = `${page}\t${propertySlug}`
-    if (!found.has(key)) found.set(key, { page, propertySlug, hours })
+    const section = sectionOf(page, path)
+    if (section === null) continue
+    const key = `${page}\t${section}`
+    if (!found.has(key)) found.set(key, { page, section, hours })
   }
   return [...found.values()]
 }
@@ -123,14 +134,14 @@ export function packed(kept: string, ceiling: number): readonly string[] {
 
 export function sweptStream(root: string, one: Stream, nowMs: number): number {
   const existing = (at: string): boolean => existsSync(join(root, at))
-  const parts = uncommittedPartsOf(one.page, one.propertySlug, HELD, existing)
+  const parts = uncommittedPartsOf(one.page, one.section, HELD, existing)
   const first = parts[0]
   if (first === undefined || !existing(first)) return 0
   const cutoff = nowMs - one.hours * HOUR_MS
   return exclusively(
     join(root, first),
     (): number => {
-      const now = uncommittedPartsOf(one.page, one.propertySlug, HELD, existing)
+      const now = uncommittedPartsOf(one.page, one.section, HELD, existing)
       let text = ""
       for (const at of now) {
         try {
@@ -165,7 +176,7 @@ export function sweepRecords(argv: readonly string[]): number {
   const streams = streamsIn(root)
   if (!argv.includes("--remove")) {
     for (const one of streams) {
-      process.stdout.write(`${one.page}\t${one.propertySlug}\t${String(one.hours)}h\n`)
+      process.stdout.write(`${one.page}\t${one.section}\t${String(one.hours)}h\n`)
     }
     process.stderr.write(
       `read ${String(streams.length)} stream(s) stating a window — ` +

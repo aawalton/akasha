@@ -3,7 +3,12 @@ import {
   keptFrom,
   packed,
   propertyOf,
+  sectionOf,
 } from "akasha/pages/modules/record-sweeping/record-sweeping.module.code.ts"
+
+const CHECK = "checks/code-checks/pages/one/one.code-check.ts"
+
+const HOOK = "agents/hooks/agent-hooks/one/one.agent-hook.ts"
 
 const WINDOWS: ReadonlyMap<string, number> = new Map([
   ["entries", 24],
@@ -59,4 +64,21 @@ test("lines past the ceiling pack into a part of their own", () => {
 
 test("lines within the ceiling pack into one part", () => {
   expect(packed("aaaa\nbbbb\n", 10)).toEqual(["aaaa\nbbbb\n"])
+})
+
+test("a file sectioned under a group is answered that whole section", () => {
+  const at = "checks/code-checks/pages/one/one.code-check.check.logs.uncommitted.jsonl"
+  const audit = "checks/code-checks/pages/one/one.code-check.audit.logs.uncommitted.jsonl"
+  expect(sectionOf(CHECK, at)).toBe("check.logs")
+  expect(sectionOf(CHECK, audit)).toBe("audit.logs")
+})
+
+test("a numbered part is answered the section without its number", () => {
+  const at = "agents/hooks/agent-hooks/one/one.agent-hook.entries.part7.uncommitted.jsonl"
+  expect(sectionOf(HOOK, at)).toBe("entries")
+})
+
+test("a file that is beside no such page is answered nothing", () => {
+  const at = "agents/hooks/agent-hooks/two/two.agent-hook.entries.uncommitted.jsonl"
+  expect(sectionOf(HOOK, at)).toBeNull()
 })

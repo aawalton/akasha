@@ -68,5 +68,10 @@ export const recordSweeping = {
       invariantKind: "departure",
       statement: "A stream whose turn does not come is left as that stream is and counted.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file's section is the whole name between its page's stem and the ending rather than one slug.",
+    },
   ],
 } as const satisfies Module
