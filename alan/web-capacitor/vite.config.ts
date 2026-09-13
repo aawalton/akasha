@@ -1,13 +1,14 @@
 import path from "node:path"
 import { supabaseClientEnvGuard } from "akasha/alan/harness/supabase-rr/modules/client-env-guard/client-env-guard.module.code.ts"
 import { buildShaDefine } from "akasha/alan/harness/web-build-version/modules/build-sha-define/build-sha-define.module.code.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { reactRouter } from "@react-router/dev/vite"
 import tailwindcss from "@tailwindcss/vite"
 import { defineConfig, type Plugin } from "vite"
 
 const NODE_IN_CLIENT_IS_FATAL = true
 
-const repoRoot = path.resolve(import.meta.dirname ?? process.cwd(), "../../..")
+const repoRoot = rootOf(import.meta.dirname ?? process.cwd())
 
 const browserExternalPrefix = "__vite-browser-external:"
 
