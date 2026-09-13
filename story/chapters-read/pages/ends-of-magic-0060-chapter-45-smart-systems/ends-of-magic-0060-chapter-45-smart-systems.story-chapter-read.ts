@@ -12,9 +12,13 @@ export const endsOfMagic0060Chapter45SmartSystems = {
   unit: "words",
   completedAt: "2026-06-29T20:09:11.353Z",
   publishedAt: "2026-01-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2913638/chapter-45-smart-systems",
-  externalId: "2913638",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2913638",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2913638/chapter-45-smart-systems",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

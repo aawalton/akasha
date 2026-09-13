@@ -7,12 +7,16 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0106105SovereignOfSou
   position: 106,
   publishedAt: "2026-09-11",
   unit: "words",
-  externalId: "3942311",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3942311",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3942311/105-sovereign-of-souls",
+    },
+  ],
   title: "105 - Sovereign of Souls",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   ownLength: 1411,
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3942311/105-sovereign-of-souls",
   prose: "txt",
 } as const satisfies StoryChapterRead

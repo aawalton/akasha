@@ -12,9 +12,13 @@ export const endsOfMagic0023Chapter8CalmSeas = {
   unit: "words",
   completedAt: "2026-06-29T20:08:00.454Z",
   publishedAt: "2025-07-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2481013/chapter-8-calm-seas",
-  externalId: "2481013",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2481013",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2481013/chapter-8-calm-seas",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

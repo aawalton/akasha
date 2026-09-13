@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0057Ch57Betrayed = {
   ownLength: 1572,
   unit: "words",
   publishedAt: "2026-05-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3420160/ch57-betrayed",
-  externalId: "3420160",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3420160",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3420160/ch57-betrayed",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

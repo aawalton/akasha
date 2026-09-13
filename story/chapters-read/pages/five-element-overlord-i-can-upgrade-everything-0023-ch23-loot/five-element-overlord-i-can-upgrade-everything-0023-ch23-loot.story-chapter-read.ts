@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0023Ch23Loot = {
   ownLength: 1858,
   unit: "words",
   publishedAt: "2026-04-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3220298/ch23-loot",
-  externalId: "3220298",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3220298",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3220298/ch23-loot",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

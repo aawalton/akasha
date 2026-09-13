@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression003131TheCampfireGath
   ownLength: 1766,
   unit: "words",
   publishedAt: "2026-05-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3471646/31-the-campfire-gathering",
-  externalId: "3471646",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3471646",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3471646/31-the-campfire-gathering",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

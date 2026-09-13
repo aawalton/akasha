@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0129Ch129MassDestruction = 
   ownLength: 2631,
   unit: "words",
   publishedAt: "2026-08-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3874266/ch129-mass-destruction",
-  externalId: "3874266",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3874266",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3874266/ch129-mass-destruction",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const endsOfMagic0091Epilogue3EightyOneYearsLater = {
   ownLength: 1543,
   unit: "words",
   publishedAt: "2026-05-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3353079/epilogue-3-eighty-one-years-later",
-  externalId: "3353079",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3353079",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3353079/epilogue-3-eighty-one-years-later",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

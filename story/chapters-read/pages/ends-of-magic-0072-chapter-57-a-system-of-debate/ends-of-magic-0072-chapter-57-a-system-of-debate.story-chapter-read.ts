@@ -12,9 +12,13 @@ export const endsOfMagic0072Chapter57ASystemOfDebate = {
   unit: "words",
   completedAt: "2026-06-29T20:09:34.557Z",
   publishedAt: "2026-02-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3071065/chapter-57-a-system-of-debate",
-  externalId: "3071065",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3071065",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3071065/chapter-57-a-system-of-debate",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

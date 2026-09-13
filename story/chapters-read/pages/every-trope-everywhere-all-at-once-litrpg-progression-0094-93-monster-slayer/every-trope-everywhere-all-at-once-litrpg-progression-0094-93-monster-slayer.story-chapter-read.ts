@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression009493MonsterSlayer =
   ownLength: 1534,
   unit: "words",
   publishedAt: "2026-08-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3852533/93-monster-slayer",
-  externalId: "3852533",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3852533",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3852533/93-monster-slayer",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

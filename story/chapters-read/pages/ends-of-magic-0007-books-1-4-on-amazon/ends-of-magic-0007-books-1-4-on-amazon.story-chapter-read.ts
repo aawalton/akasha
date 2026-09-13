@@ -12,9 +12,13 @@ export const endsOfMagic0007Books14OnAmazon = {
   unit: "words",
   completedAt: "2026-06-29T20:07:29.467Z",
   publishedAt: "2022-08-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/975954/books-1-4-on-amazon",
-  externalId: "975954",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "975954",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/975954/books-1-4-on-amazon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

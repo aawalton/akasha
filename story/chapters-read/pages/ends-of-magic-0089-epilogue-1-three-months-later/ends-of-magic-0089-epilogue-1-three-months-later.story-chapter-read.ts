@@ -10,9 +10,13 @@ export const endsOfMagic0089Epilogue1ThreeMonthsLater = {
   ownLength: 4289,
   unit: "words",
   publishedAt: "2026-04-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3296170/epilogue-1-three-months-later",
-  externalId: "3296170",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3296170",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3296170/epilogue-1-three-months-later",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

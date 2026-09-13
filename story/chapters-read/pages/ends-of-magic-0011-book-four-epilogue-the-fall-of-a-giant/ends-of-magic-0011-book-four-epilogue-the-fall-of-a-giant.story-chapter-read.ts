@@ -12,9 +12,13 @@ export const endsOfMagic0011BookFourEpilogueTheFallOfAGiant = {
   unit: "words",
   completedAt: "2026-06-29T20:07:37.137Z",
   publishedAt: "2024-03-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/1558827/book-four-epilogue-the-fall-of-a-giant",
-  externalId: "1558827",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1558827",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/1558827/book-four-epilogue-the-fall-of-a-giant",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -7,12 +7,16 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0103102SoulsIntent = 
   position: 103,
   publishedAt: "2026-09-09",
   unit: "words",
-  externalId: "3932668",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3932668",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3932668/102-souls-intent",
+    },
+  ],
   title: "102 - Soul's Intent",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   ownLength: 1662,
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3932668/102-souls-intent",
   prose: "txt",
 } as const satisfies StoryChapterRead

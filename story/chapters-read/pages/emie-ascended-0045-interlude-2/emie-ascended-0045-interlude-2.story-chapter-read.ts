@@ -10,9 +10,13 @@ export const emieAscended0045Interlude2 = {
   ownLength: 2580,
   unit: "words",
   publishedAt: "2026-07-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3735485/interlude-2",
-  externalId: "3735485",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3735485",
+      externalLink:
+        "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3735485/interlude-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

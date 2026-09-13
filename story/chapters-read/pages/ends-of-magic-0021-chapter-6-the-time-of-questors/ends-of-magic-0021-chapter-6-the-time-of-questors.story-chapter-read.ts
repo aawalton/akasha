@@ -12,9 +12,13 @@ export const endsOfMagic0021Chapter6TheTimeOfQuestors = {
   unit: "words",
   completedAt: "2026-06-29T20:07:56.534Z",
   publishedAt: "2025-07-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2462254/chapter-6-the-time-of-questors",
-  externalId: "2462254",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2462254",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2462254/chapter-6-the-time-of-questors",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

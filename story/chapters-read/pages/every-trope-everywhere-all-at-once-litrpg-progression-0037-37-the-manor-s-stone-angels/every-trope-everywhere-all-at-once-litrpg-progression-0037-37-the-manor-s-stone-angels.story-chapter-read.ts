@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression003737TheManorSStoneA
   ownLength: 1789,
   unit: "words",
   publishedAt: "2026-06-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3499133/37-the-manors-stone-angels",
-  externalId: "3499133",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3499133",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3499133/37-the-manors-stone-angels",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

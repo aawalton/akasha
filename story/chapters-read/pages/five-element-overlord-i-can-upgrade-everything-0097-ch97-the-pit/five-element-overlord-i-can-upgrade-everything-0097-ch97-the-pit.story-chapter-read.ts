@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0097Ch97ThePit = {
   ownLength: 1646,
   unit: "words",
   publishedAt: "2026-07-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3677787/ch97-the-pit",
-  externalId: "3677787",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3677787",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3677787/ch97-the-pit",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

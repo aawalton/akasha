@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0105Ch105SoulEpiphany = {
   ownLength: 2234,
   unit: "words",
   publishedAt: "2026-07-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3721948/ch105-soul-epiphany",
-  externalId: "3721948",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3721948",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3721948/ch105-soul-epiphany",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

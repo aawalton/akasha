@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0110Ch110Decisions = {
   ownLength: 2971,
   unit: "words",
   publishedAt: "2026-07-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3753091/ch110-decisions",
-  externalId: "3753091",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3753091",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3753091/ch110-decisions",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression001717ThereSOnlyOneBe
   ownLength: 2075,
   unit: "words",
   publishedAt: "2026-05-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3420627/17-theres-only-one-bed",
-  externalId: "3420627",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3420627",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3420627/17-theres-only-one-bed",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

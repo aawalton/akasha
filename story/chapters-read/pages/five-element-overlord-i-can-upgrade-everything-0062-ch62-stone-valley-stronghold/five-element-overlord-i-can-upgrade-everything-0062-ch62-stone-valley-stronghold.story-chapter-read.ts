@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0062Ch62StoneValleyStrongho
   ownLength: 2253,
   unit: "words",
   publishedAt: "2026-05-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3451053/ch62-stone-valley-stronghold",
-  externalId: "3451053",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3451053",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3451053/ch62-stone-valley-stronghold",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

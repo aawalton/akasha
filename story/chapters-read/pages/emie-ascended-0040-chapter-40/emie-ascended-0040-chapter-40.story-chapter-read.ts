@@ -10,8 +10,13 @@ export const emieAscended0040Chapter40 = {
   ownLength: 2289,
   unit: "words",
   publishedAt: "2026-07-10",
-  externalLink: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3655572/chapter-40",
-  externalId: "3655572",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3655572",
+      externalLink:
+        "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3655572/chapter-40",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

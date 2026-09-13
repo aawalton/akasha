@@ -12,9 +12,13 @@ export const endsOfMagic0027Chapter12VerdantPlains = {
   unit: "words",
   completedAt: "2026-06-29T20:08:08.299Z",
   publishedAt: "2025-08-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2517516/chapter-12-verdant-plains",
-  externalId: "2517516",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2517516",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2517516/chapter-12-verdant-plains",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

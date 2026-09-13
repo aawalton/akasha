@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression00066TheSecretDungeon
   ownLength: 1682,
   unit: "words",
   publishedAt: "2026-05-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3388059/6-the-secret-dungeon",
-  externalId: "3388059",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3388059",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3388059/6-the-secret-dungeon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

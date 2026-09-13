@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0098Ch9810thLevelArmoredLiz
   ownLength: 1379,
   unit: "words",
   publishedAt: "2026-07-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3682570/ch98-10th-level-armored-lizards",
-  externalId: "3682570",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3682570",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3682570/ch98-10th-level-armored-lizards",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

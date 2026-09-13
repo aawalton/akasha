@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression008180ItsHaunted = {
   ownLength: 1783,
   unit: "words",
   publishedAt: "2026-07-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3748713/80-its-haunted",
-  externalId: "3748713",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3748713",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3748713/80-its-haunted",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

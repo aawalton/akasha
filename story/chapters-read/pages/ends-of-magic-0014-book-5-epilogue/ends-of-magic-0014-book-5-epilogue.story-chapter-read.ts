@@ -12,9 +12,13 @@ export const endsOfMagic0014Book5Epilogue = {
   unit: "words",
   completedAt: "2026-06-29T20:07:43.100Z",
   publishedAt: "2025-01-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/1986003/book-5-epilogue",
-  externalId: "1986003",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1986003",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/1986003/book-5-epilogue",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

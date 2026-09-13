@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0038Ch38AzureLightning = {
   ownLength: 1330,
   unit: "words",
   publishedAt: "2026-04-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3306952/ch38-azure-lightning",
-  externalId: "3306952",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3306952",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3306952/ch38-azure-lightning",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

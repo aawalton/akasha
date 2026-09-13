@@ -12,9 +12,13 @@ export const endsOfMagic0034Chapter19QuestorTierCombat = {
   unit: "words",
   completedAt: "2026-06-29T20:08:21.791Z",
   publishedAt: "2025-09-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2584186/chapter-19-questor-tier-combat",
-  externalId: "2584186",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2584186",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2584186/chapter-19-questor-tier-combat",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -8,11 +8,15 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0102101Swap = {
   position: 102,
   publishedAt: "2026-09-07",
   unit: "words",
-  externalId: "3922930",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3922930",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3922930/101-swap",
+    },
+  ],
   title: "101 - Swap",
   ownLength: 1536,
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3922930/101-swap",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const endsOfMagic0010BookFourProloguePreparingForConquest = {
   unit: "words",
   completedAt: "2026-06-29T20:07:35.206Z",
   publishedAt: "2024-05-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/1637196/book-four-prologue-preparing-for-conquest",
-  externalId: "1637196",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1637196",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/1637196/book-four-prologue-preparing-for-conquest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

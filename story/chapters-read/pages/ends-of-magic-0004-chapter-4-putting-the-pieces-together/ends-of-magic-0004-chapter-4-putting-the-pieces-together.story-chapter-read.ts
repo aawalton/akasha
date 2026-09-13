@@ -12,9 +12,13 @@ export const endsOfMagic0004Chapter4PuttingThePiecesTogether = {
   unit: "words",
   completedAt: "2026-06-29T20:07:23.781Z",
   publishedAt: "2022-08-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/973952/chapter-4-putting-the-pieces-together",
-  externalId: "973952",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "973952",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/973952/chapter-4-putting-the-pieces-together",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

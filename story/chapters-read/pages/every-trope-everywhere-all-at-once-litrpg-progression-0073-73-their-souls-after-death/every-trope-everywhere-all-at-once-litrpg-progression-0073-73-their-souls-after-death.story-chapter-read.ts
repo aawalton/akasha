@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression007373TheirSoulsAfter
   ownLength: 1609,
   unit: "words",
   publishedAt: "2026-07-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3683105/73-their-souls-after-death",
-  externalId: "3683105",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3683105",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3683105/73-their-souls-after-death",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

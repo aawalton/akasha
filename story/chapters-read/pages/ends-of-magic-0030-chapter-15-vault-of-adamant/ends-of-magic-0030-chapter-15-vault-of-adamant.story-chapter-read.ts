@@ -12,9 +12,13 @@ export const endsOfMagic0030Chapter15VaultOfAdamant = {
   unit: "words",
   completedAt: "2026-06-29T20:08:14.002Z",
   publishedAt: "2025-08-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2546297/chapter-15-vault-of-adamant",
-  externalId: "2546297",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2546297",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2546297/chapter-15-vault-of-adamant",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

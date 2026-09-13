@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression007070DoesNotPermit =
   ownLength: 1915,
   unit: "words",
   publishedAt: "2026-07-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3660058/70-does-not-permit",
-  externalId: "3660058",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3660058",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3660058/70-does-not-permit",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

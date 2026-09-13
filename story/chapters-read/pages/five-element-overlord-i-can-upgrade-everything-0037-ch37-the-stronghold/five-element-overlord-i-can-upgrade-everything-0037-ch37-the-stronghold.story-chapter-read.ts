@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0037Ch37TheStronghold = {
   ownLength: 2115,
   unit: "words",
   publishedAt: "2026-04-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3302568/ch37-the-stronghold",
-  externalId: "3302568",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3302568",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3302568/ch37-the-stronghold",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

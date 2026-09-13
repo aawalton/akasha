@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0044Ch449thGradeTrash = {
   ownLength: 1646,
   unit: "words",
   publishedAt: "2026-04-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3338611/ch44-9th-grade-trash",
-  externalId: "3338611",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3338611",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3338611/ch44-9th-grade-trash",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

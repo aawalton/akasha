@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0076Ch76BeastMasteryPeak = 
   ownLength: 1910,
   unit: "words",
   publishedAt: "2026-06-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3544981/ch76-beast-mastery-peak",
-  externalId: "3544981",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3544981",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3544981/ch76-beast-mastery-peak",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

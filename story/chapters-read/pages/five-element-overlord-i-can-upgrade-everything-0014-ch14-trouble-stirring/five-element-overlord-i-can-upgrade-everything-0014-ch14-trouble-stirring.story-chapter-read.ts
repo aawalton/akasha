@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0014Ch14TroubleStirring = {
   ownLength: 801,
   unit: "words",
   publishedAt: "2026-03-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211874/ch14-trouble-stirring",
-  externalId: "3211874",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3211874",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211874/ch14-trouble-stirring",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

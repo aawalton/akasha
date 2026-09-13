@@ -7,12 +7,16 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0111110Mystery = {
   position: 111,
   publishedAt: "2026-09-11",
   unit: "words",
-  externalId: "3942323",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3942323",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3942323/110-mystery",
+    },
+  ],
   title: "110 - Mystery",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   ownLength: 1863,
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3942323/110-mystery",
   prose: "txt",
 } as const satisfies StoryChapterRead

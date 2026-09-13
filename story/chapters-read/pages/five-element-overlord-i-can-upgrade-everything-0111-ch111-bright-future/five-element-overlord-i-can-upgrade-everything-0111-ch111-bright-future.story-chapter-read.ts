@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0111Ch111BrightFuture = {
   ownLength: 1495,
   unit: "words",
   publishedAt: "2026-08-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3765813/ch111-bright-future",
-  externalId: "3765813",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3765813",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3765813/ch111-bright-future",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

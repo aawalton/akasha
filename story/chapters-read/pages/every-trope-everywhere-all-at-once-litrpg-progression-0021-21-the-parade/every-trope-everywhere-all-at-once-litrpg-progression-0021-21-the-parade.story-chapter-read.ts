@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression002121TheParade = {
   ownLength: 1945,
   unit: "words",
   publishedAt: "2026-05-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3434455/21-the-parade",
-  externalId: "3434455",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3434455",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3434455/21-the-parade",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

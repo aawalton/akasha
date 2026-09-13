@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression002020TheSkySpearToss
   ownLength: 1787,
   unit: "words",
   publishedAt: "2026-05-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3430509/20-the-sky-spear-toss",
-  externalId: "3430509",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3430509",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3430509/20-the-sky-spear-toss",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

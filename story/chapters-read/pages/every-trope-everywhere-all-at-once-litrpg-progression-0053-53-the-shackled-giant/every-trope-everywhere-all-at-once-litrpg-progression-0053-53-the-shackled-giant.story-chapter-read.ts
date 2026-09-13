@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression005353TheShackledGian
   ownLength: 1647,
   unit: "words",
   publishedAt: "2026-06-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3572630/53-the-shackled-giant",
-  externalId: "3572630",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3572630",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3572630/53-the-shackled-giant",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

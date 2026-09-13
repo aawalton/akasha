@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0071Ch71Backlash = {
   ownLength: 1758,
   unit: "words",
   publishedAt: "2026-06-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3511669/ch71-backlash",
-  externalId: "3511669",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3511669",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3511669/ch71-backlash",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression004545AGreatSin = {
   ownLength: 1990,
   unit: "words",
   publishedAt: "2026-06-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3536307/45-a-great-sin",
-  externalId: "3536307",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3536307",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3536307/45-a-great-sin",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

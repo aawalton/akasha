@@ -12,9 +12,13 @@ export const endsOfMagic0008Book2PrologueAMeetingMostMonotonous = {
   unit: "words",
   completedAt: "2026-06-29T20:07:31.379Z",
   publishedAt: "2023-01-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/1076253/book-2-prologue-a-meeting-most-monotonous",
-  externalId: "1076253",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1076253",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/1076253/book-2-prologue-a-meeting-most-monotonous",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

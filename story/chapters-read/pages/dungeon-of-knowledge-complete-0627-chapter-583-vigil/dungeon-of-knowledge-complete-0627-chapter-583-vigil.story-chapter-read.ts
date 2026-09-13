@@ -10,9 +10,13 @@ export const dungeonOfKnowledgeComplete0627Chapter583Vigil = {
   ownLength: 1916,
   unit: "words",
   publishedAt: "2026-03-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3183732/chapter-583-vigil",
-  externalId: "3183732",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3183732",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3183732/chapter-583-vigil",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

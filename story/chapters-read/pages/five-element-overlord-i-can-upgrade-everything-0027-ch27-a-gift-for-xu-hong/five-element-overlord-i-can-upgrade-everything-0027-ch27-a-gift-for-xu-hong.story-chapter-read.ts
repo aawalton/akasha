@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0027Ch27AGiftForXuHong = {
   ownLength: 1374,
   unit: "words",
   publishedAt: "2026-04-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3245523/ch27-a-gift-for-xu-hong",
-  externalId: "3245523",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3245523",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3245523/ch27-a-gift-for-xu-hong",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

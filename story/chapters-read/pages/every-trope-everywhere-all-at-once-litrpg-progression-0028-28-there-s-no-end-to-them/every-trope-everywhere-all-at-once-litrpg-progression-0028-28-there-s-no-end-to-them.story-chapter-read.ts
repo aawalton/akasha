@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression002828ThereSNoEndToTh
   ownLength: 1887,
   unit: "words",
   publishedAt: "2026-05-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3458636/28-theres-no-end-to-them",
-  externalId: "3458636",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3458636",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3458636/28-theres-no-end-to-them",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const endsOfMagic0046Chapter31AShadowUponTheSky = {
   unit: "words",
   completedAt: "2026-06-29T20:08:44.389Z",
   publishedAt: "2025-11-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2768294/chapter-31-a-shadow-upon-the-sky",
-  externalId: "2768294",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2768294",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2768294/chapter-31-a-shadow-upon-the-sky",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

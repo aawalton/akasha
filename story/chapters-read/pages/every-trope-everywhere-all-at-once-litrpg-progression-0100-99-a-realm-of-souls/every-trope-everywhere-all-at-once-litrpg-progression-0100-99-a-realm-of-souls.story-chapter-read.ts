@@ -8,11 +8,15 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression010099ARealmOfSouls =
   position: 100,
   publishedAt: "2026-09-04",
   unit: "words",
-  externalId: "3909635",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3909635",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3909635/99-a-realm-of-souls",
+    },
+  ],
   title: "99 - A Realm of Souls",
   ownLength: 1541,
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3909635/99-a-realm-of-souls",
   prose: "txt",
 } as const satisfies StoryChapterRead

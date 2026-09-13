@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression003535NotJustDecorati
   ownLength: 1790,
   unit: "words",
   publishedAt: "2026-06-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3490099/35-not-just-decorations",
-  externalId: "3490099",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3490099",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3490099/35-not-just-decorations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

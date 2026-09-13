@@ -12,9 +12,13 @@ export const endsOfMagic0048Chapter33SkiesOfDarkness = {
   unit: "words",
   completedAt: "2026-06-29T20:08:48.084Z",
   publishedAt: "2025-11-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2788506/chapter-33-skies-of-darkness",
-  externalId: "2788506",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2788506",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2788506/chapter-33-skies-of-darkness",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

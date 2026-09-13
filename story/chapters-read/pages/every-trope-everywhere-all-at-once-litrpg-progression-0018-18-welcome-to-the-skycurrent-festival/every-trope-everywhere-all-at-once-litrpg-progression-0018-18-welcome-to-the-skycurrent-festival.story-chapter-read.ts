@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression001818WelcomeToTheSky
   ownLength: 1747,
   unit: "words",
   publishedAt: "2026-05-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3425263/18-welcome-to-the-skycurrent-festival",
-  externalId: "3425263",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3425263",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3425263/18-welcome-to-the-skycurrent-festival",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

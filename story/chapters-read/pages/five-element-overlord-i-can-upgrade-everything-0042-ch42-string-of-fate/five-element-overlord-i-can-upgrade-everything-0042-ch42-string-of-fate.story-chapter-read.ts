@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0042Ch42StringOfFate = {
   ownLength: 1692,
   unit: "words",
   publishedAt: "2026-04-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3330780/ch42-string-of-fate",
-  externalId: "3330780",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3330780",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3330780/ch42-string-of-fate",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const endsOfMagic0066Chapter51AMeetingOfPowers = {
   unit: "words",
   completedAt: "2026-06-29T20:09:22.913Z",
   publishedAt: "2026-01-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2980643/chapter-51-a-meeting-of-powers",
-  externalId: "2980643",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2980643",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2980643/chapter-51-a-meeting-of-powers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

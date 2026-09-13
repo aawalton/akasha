@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0099Ch99MartialGrandmaster 
   ownLength: 2322,
   unit: "words",
   publishedAt: "2026-07-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3686585/ch99-martial-grandmaster",
-  externalId: "3686585",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3686585",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3686585/ch99-martial-grandmaster",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

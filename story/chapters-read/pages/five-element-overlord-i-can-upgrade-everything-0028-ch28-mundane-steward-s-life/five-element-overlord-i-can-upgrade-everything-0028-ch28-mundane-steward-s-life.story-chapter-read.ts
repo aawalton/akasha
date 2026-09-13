@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0028Ch28MundaneStewardSLife
   ownLength: 1693,
   unit: "words",
   publishedAt: "2026-04-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3249694/ch28-mundane-stewards-life",
-  externalId: "3249694",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3249694",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3249694/ch28-mundane-stewards-life",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

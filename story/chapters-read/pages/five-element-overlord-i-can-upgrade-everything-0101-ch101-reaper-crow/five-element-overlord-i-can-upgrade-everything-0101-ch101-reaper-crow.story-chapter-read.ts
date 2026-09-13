@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0101Ch101ReaperCrow = {
   ownLength: 1248,
   unit: "words",
   publishedAt: "2026-07-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3704146/ch101-reaper-crow",
-  externalId: "3704146",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3704146",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3704146/ch101-reaper-crow",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

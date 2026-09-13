@@ -10,9 +10,13 @@ export const endsOfMagic0083Chapter68TyrantSFall = {
   ownLength: 3264,
   unit: "words",
   publishedAt: "2026-03-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3210202/chapter-68-tyrants-fall",
-  externalId: "3210202",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3210202",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3210202/chapter-68-tyrants-fall",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

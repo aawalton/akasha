@@ -12,9 +12,13 @@ export const endsOfMagic0070Chapter55CelebrationsOfTriumph = {
   unit: "words",
   completedAt: "2026-06-29T20:09:30.581Z",
   publishedAt: "2026-02-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3028525/chapter-55-celebrations-of-triumph",
-  externalId: "3028525",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3028525",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3028525/chapter-55-celebrations-of-triumph",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

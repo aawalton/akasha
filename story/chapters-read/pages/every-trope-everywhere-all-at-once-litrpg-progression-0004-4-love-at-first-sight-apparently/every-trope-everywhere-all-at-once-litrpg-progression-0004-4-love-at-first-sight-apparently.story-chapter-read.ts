@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression00044LoveAtFirstSight
   ownLength: 1815,
   unit: "words",
   publishedAt: "2026-05-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3387771/4-love-at-first-sight-apparently",
-  externalId: "3387771",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3387771",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3387771/4-love-at-first-sight-apparently",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

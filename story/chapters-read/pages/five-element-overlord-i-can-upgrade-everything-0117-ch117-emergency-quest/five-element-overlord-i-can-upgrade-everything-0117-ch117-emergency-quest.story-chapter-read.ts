@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0117Ch117EmergencyQuest = {
   ownLength: 1978,
   unit: "words",
   publishedAt: "2026-08-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3801800/ch117-emergency-quest",
-  externalId: "3801800",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3801800",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3801800/ch117-emergency-quest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

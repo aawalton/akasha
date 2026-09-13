@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression005050TheHollowBody =
   ownLength: 1912,
   unit: "words",
   publishedAt: "2026-06-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3559014/50-the-hollow-body",
-  externalId: "3559014",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3559014",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3559014/50-the-hollow-body",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

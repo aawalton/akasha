@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0093Ch93Bet = {
   ownLength: 2182,
   unit: "words",
   publishedAt: "2026-07-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3650673/ch93-bet",
-  externalId: "3650673",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3650673",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3650673/ch93-bet",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

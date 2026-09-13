@@ -12,9 +12,13 @@ export const endsOfMagic0024Chapter9DesolateCoasts = {
   unit: "words",
   completedAt: "2026-06-29T20:08:02.372Z",
   publishedAt: "2025-08-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2491071/chapter-9-desolate-coasts",
-  externalId: "2491071",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2491071",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2491071/chapter-9-desolate-coasts",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

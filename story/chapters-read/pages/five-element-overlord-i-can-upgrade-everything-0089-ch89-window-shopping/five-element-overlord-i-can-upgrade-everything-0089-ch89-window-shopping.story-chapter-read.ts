@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0089Ch89WindowShopping = {
   ownLength: 1626,
   unit: "words",
   publishedAt: "2026-07-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3624043/ch89-window-shopping",
-  externalId: "3624043",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3624043",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3624043/ch89-window-shopping",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

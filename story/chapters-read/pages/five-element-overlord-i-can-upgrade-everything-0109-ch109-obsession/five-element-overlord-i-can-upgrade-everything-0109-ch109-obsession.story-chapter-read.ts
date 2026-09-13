@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0109Ch109Obsession = {
   ownLength: 2199,
   unit: "words",
   publishedAt: "2026-07-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3748376/ch109-obsession",
-  externalId: "3748376",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3748376",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3748376/ch109-obsession",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

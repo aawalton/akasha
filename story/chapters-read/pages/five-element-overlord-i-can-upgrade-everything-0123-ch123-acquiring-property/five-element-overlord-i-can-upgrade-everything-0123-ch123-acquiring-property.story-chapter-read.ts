@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0123Ch123AcquiringProperty 
   ownLength: 1849,
   unit: "words",
   publishedAt: "2026-08-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3836557/ch123-acquiring-property",
-  externalId: "3836557",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3836557",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3836557/ch123-acquiring-property",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const endsOfMagic0067Chapter52AShortVictoriousWar = {
   unit: "words",
   completedAt: "2026-06-29T20:09:24.832Z",
   publishedAt: "2026-01-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2990987/chapter-52-a-short-victorious-war",
-  externalId: "2990987",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2990987",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2990987/chapter-52-a-short-victorious-war",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

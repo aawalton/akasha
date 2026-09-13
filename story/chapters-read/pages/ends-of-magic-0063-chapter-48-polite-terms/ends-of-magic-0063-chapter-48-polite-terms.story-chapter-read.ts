@@ -12,9 +12,13 @@ export const endsOfMagic0063Chapter48PoliteTerms = {
   unit: "words",
   completedAt: "2026-06-29T20:09:17.157Z",
   publishedAt: "2026-01-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2945339/chapter-48-polite-terms",
-  externalId: "2945339",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2945339",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2945339/chapter-48-polite-terms",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

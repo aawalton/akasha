@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression005959MissingArm = {
   ownLength: 2105,
   unit: "words",
   publishedAt: "2026-06-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3601210/59-missing-arm",
-  externalId: "3601210",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3601210",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3601210/59-missing-arm",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0012Ch12TheSerpentSPlum = {
   ownLength: 1160,
   unit: "words",
   publishedAt: "2026-03-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211857/ch12-the-serpents-plum",
-  externalId: "3211857",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3211857",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211857/ch12-the-serpents-plum",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression009695DormantSoul = {
   ownLength: 1868,
   unit: "words",
   publishedAt: "2026-08-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3874608/95-dormant-soul",
-  externalId: "3874608",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3874608",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3874608/95-dormant-soul",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

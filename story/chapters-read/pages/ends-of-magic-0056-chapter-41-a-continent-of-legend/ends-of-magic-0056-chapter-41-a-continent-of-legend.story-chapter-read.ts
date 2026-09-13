@@ -12,9 +12,13 @@ export const endsOfMagic0056Chapter41AContinentOfLegend = {
   unit: "words",
   completedAt: "2026-06-29T20:09:03.380Z",
   publishedAt: "2025-12-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2869888/chapter-41-a-continent-of-legend",
-  externalId: "2869888",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2869888",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2869888/chapter-41-a-continent-of-legend",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

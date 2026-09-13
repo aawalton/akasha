@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression005757Salvation = {
   ownLength: 1703,
   unit: "words",
   publishedAt: "2026-06-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3591634/57-salvation",
-  externalId: "3591634",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3591634",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3591634/57-salvation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

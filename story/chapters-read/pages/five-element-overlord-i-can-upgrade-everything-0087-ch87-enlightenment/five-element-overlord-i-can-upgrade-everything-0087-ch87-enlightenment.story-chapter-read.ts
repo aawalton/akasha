@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0087Ch87Enlightenment = {
   ownLength: 1928,
   unit: "words",
   publishedAt: "2026-06-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3614347/ch87-enlightenment",
-  externalId: "3614347",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3614347",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3614347/ch87-enlightenment",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

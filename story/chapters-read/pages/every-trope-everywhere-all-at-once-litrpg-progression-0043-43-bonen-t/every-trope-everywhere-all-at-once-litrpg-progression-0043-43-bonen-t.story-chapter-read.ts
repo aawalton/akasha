@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression004343BonenT = {
   ownLength: 1866,
   unit: "words",
   publishedAt: "2026-06-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3526569/43-bonent",
-  externalId: "3526569",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3526569",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3526569/43-bonent",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

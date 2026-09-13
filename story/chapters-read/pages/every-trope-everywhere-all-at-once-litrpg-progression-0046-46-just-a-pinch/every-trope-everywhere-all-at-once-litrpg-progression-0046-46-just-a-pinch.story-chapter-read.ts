@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression004646JustAPinch = {
   ownLength: 1654,
   unit: "words",
   publishedAt: "2026-06-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3539926/46-just-a-pinch",
-  externalId: "3539926",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3539926",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3539926/46-just-a-pinch",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

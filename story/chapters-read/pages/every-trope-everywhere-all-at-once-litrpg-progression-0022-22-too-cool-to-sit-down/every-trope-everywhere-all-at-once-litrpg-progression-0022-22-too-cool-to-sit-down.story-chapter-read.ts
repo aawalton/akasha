@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression002222TooCoolToSitDow
   ownLength: 1756,
   unit: "words",
   publishedAt: "2026-05-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3438074/22-too-cool-to-sit-down",
-  externalId: "3438074",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3438074",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3438074/22-too-cool-to-sit-down",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

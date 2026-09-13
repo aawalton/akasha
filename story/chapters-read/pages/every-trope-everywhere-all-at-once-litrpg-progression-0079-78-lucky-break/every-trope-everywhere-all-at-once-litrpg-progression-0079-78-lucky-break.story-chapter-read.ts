@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression007978LuckyBreak = {
   ownLength: 1897,
   unit: "words",
   publishedAt: "2026-07-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3734589/78-lucky-break",
-  externalId: "3734589",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3734589",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3734589/78-lucky-break",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

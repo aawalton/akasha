@@ -12,9 +12,13 @@ export const endsOfMagic0075Chapter60PoliticalConfrontations = {
   unit: "words",
   completedAt: "2026-06-29T20:09:40.307Z",
   publishedAt: "2026-03-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3107955/chapter-60-political-confrontations",
-  externalId: "3107955",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3107955",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3107955/chapter-60-political-confrontations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

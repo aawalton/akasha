@@ -12,9 +12,13 @@ export const endsOfMagic0058Chapter43ACulturalExchange = {
   unit: "words",
   completedAt: "2026-06-29T20:09:07.240Z",
   publishedAt: "2025-12-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2889752/chapter-43-a-cultural-exchange",
-  externalId: "2889752",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2889752",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2889752/chapter-43-a-cultural-exchange",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

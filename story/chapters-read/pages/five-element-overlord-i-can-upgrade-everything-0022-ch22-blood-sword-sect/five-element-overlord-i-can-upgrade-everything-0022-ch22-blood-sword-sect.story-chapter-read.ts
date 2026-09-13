@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0022Ch22BloodSwordSect = {
   ownLength: 1490,
   unit: "words",
   publishedAt: "2026-03-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3216129/ch22-blood-sword-sect",
-  externalId: "3216129",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3216129",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3216129/ch22-blood-sword-sect",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

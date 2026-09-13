@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression006161HesAmongUs = {
   ownLength: 1931,
   unit: "words",
   publishedAt: "2026-06-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3610314/61-hes-among-us",
-  externalId: "3610314",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3610314",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3610314/61-hes-among-us",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

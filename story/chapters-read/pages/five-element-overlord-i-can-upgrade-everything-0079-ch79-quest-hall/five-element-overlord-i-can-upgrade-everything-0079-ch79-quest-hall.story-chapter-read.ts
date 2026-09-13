@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0079Ch79QuestHall = {
   ownLength: 1938,
   unit: "words",
   publishedAt: "2026-06-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3558706/ch79-quest-hall",
-  externalId: "3558706",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3558706",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3558706/ch79-quest-hall",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

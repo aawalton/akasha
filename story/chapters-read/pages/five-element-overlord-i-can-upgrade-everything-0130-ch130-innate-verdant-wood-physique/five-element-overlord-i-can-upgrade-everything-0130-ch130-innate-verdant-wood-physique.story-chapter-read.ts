@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0130Ch130InnateVerdantWoodP
   ownLength: 2045,
   unit: "words",
   publishedAt: "2026-08-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3879214/ch130-innate-verdant-wood-physique",
-  externalId: "3879214",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3879214",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3879214/ch130-innate-verdant-wood-physique",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

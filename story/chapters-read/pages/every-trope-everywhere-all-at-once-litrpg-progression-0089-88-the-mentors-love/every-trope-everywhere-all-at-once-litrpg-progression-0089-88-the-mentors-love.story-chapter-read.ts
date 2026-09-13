@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression008988TheMentorsLove 
   ownLength: 1981,
   unit: "words",
   publishedAt: "2026-08-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3810095/88-the-mentors-love",
-  externalId: "3810095",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3810095",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3810095/88-the-mentors-love",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

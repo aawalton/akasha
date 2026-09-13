@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0068Ch6810thLevelBloodDemon
   ownLength: 1868,
   unit: "words",
   publishedAt: "2026-06-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3489814/ch68-10th-level-blood-demon",
-  externalId: "3489814",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3489814",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3489814/ch68-10th-level-blood-demon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

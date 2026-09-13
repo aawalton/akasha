@@ -12,9 +12,13 @@ export const endsOfMagic0029Chapter14ADaylightInfiltration = {
   unit: "words",
   completedAt: "2026-06-29T20:08:12.065Z",
   publishedAt: "2025-08-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2535822/chapter-14-a-daylight-infiltration",
-  externalId: "2535822",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2535822",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2535822/chapter-14-a-daylight-infiltration",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

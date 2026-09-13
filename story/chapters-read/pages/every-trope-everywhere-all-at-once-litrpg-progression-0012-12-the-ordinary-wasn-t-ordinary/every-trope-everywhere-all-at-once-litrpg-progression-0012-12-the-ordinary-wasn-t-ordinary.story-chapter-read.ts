@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression001212TheOrdinaryWasn
   ownLength: 1813,
   unit: "words",
   publishedAt: "2026-05-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3401946/12-the-ordinary-wasnt-ordinary",
-  externalId: "3401946",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3401946",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3401946/12-the-ordinary-wasnt-ordinary",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

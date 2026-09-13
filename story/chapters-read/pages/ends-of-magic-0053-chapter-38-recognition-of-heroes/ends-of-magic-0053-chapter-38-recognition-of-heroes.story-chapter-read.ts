@@ -12,9 +12,13 @@ export const endsOfMagic0053Chapter38RecognitionOfHeroes = {
   unit: "words",
   completedAt: "2026-06-29T20:08:57.718Z",
   publishedAt: "2025-12-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2838620/chapter-38-recognition-of-heroes",
-  externalId: "2838620",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2838620",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2838620/chapter-38-recognition-of-heroes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const endsOfMagic0084Chapter69MortalSRise = {
   ownLength: 3249,
   unit: "words",
   publishedAt: "2026-04-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3222149/chapter-69-mortals-rise",
-  externalId: "3222149",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3222149",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3222149/chapter-69-mortals-rise",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

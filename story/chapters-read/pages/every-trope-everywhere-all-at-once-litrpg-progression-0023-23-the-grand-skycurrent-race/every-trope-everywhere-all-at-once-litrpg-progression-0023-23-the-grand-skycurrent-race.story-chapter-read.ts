@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression002323TheGrandSkycurr
   ownLength: 1697,
   unit: "words",
   publishedAt: "2026-05-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3441752/23-the-grand-skycurrent-race",
-  externalId: "3441752",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3441752",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3441752/23-the-grand-skycurrent-race",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

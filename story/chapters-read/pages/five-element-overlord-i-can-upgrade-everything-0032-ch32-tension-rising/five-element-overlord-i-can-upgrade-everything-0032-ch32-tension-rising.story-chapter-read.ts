@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0032Ch32TensionRising = {
   ownLength: 834,
   unit: "words",
   publishedAt: "2026-04-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3274537/ch32-tension-rising",
-  externalId: "3274537",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3274537",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3274537/ch32-tension-rising",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression006666Hostage = {
   ownLength: 1904,
   unit: "words",
   publishedAt: "2026-07-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3641864/66-hostage",
-  externalId: "3641864",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3641864",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3641864/66-hostage",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

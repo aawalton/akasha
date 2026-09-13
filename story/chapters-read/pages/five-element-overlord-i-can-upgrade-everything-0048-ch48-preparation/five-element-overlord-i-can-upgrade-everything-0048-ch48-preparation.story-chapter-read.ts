@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0048Ch48Preparation = {
   ownLength: 1383,
   unit: "words",
   publishedAt: "2026-05-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3364230/ch48-preparation",
-  externalId: "3364230",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3364230",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3364230/ch48-preparation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

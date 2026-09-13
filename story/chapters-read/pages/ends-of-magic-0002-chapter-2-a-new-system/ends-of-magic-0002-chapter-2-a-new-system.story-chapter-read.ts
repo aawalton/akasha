@@ -12,9 +12,13 @@ export const endsOfMagic0002Chapter2ANewSystem = {
   unit: "words",
   completedAt: "2026-06-29T20:07:19.991Z",
   publishedAt: "2022-08-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/972968/chapter-2-a-new-system",
-  externalId: "972968",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "972968",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/972968/chapter-2-a-new-system",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

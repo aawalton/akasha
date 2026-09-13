@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression003232AttackingTheMen
   ownLength: 1743,
   unit: "words",
   publishedAt: "2026-06-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3475841/32-attacking-the-mentor",
-  externalId: "3475841",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3475841",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3475841/32-attacking-the-mentor",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

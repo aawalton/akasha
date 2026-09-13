@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression008887Bathhouse = {
   ownLength: 1826,
   unit: "words",
   publishedAt: "2026-08-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3805413/87-bathhouse",
-  externalId: "3805413",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3805413",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3805413/87-bathhouse",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

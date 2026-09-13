@@ -10,9 +10,13 @@ export const dungeonOfKnowledgeComplete0631Coda = {
   ownLength: 2092,
   unit: "words",
   publishedAt: "2026-03-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3187790/coda",
-  externalId: "3187790",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3187790",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3187790/coda",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

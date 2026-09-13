@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0082Ch82LanXinSDeal = {
   ownLength: 1977,
   unit: "words",
   publishedAt: "2026-06-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3581712/ch82-lan-xins-deal",
-  externalId: "3581712",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3581712",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3581712/ch82-lan-xins-deal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

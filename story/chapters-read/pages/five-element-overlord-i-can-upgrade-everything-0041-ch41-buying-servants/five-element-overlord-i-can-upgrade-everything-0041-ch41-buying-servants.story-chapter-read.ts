@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0041Ch41BuyingServants = {
   ownLength: 1352,
   unit: "words",
   publishedAt: "2026-04-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3326830/ch41-buying-servants",
-  externalId: "3326830",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3326830",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3326830/ch41-buying-servants",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

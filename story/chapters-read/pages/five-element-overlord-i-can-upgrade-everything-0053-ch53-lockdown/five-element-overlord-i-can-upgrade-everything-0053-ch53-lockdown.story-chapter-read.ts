@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0053Ch53Lockdown = {
   ownLength: 1588,
   unit: "words",
   publishedAt: "2026-05-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3392569/ch53-lockdown",
-  externalId: "3392569",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3392569",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3392569/ch53-lockdown",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

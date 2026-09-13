@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0125Ch125ClashingPowers = {
   ownLength: 2107,
   unit: "words",
   publishedAt: "2026-08-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3845647/ch125-clashing-powers",
-  externalId: "3845647",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3845647",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3845647/ch125-clashing-powers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

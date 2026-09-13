@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression001919DonTLetThemKnow
   ownLength: 1524,
   unit: "words",
   publishedAt: "2026-05-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3429784/19-dont-let-them-know",
-  externalId: "3429784",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3429784",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3429784/19-dont-let-them-know",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0030Ch30RedPineMarket = {
   ownLength: 2098,
   unit: "words",
   publishedAt: "2026-04-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3258307/ch30-red-pine-market",
-  externalId: "3258307",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3258307",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3258307/ch30-red-pine-market",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

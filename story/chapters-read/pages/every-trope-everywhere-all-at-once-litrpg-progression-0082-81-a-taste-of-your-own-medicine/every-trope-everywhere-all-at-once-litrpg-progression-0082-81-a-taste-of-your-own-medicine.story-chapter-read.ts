@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression008281ATasteOfYourOwn
   ownLength: 2032,
   unit: "words",
   publishedAt: "2026-07-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3752940/81-a-taste-of-your-own-medicine",
-  externalId: "3752940",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3752940",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3752940/81-a-taste-of-your-own-medicine",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

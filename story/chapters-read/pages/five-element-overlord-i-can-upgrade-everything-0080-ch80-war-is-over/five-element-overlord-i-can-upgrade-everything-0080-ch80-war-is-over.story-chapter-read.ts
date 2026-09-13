@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0080Ch80WarIsOver = {
   ownLength: 2524,
   unit: "words",
   publishedAt: "2026-06-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3563752/ch80-war-is-over",
-  externalId: "3563752",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3563752",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3563752/ch80-war-is-over",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

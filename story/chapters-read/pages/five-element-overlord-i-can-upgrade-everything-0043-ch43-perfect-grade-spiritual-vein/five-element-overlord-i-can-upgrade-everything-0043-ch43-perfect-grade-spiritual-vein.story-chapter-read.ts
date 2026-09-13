@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0043Ch43PerfectGradeSpiritu
   ownLength: 1628,
   unit: "words",
   publishedAt: "2026-04-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3334914/ch43-perfect-grade-spiritual-vein",
-  externalId: "3334914",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3334914",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3334914/ch43-perfect-grade-spiritual-vein",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

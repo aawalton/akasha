@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0124Ch124Battle = {
   ownLength: 2883,
   unit: "words",
   publishedAt: "2026-08-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3840684/ch124-battle",
-  externalId: "3840684",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3840684",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3840684/ch124-battle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

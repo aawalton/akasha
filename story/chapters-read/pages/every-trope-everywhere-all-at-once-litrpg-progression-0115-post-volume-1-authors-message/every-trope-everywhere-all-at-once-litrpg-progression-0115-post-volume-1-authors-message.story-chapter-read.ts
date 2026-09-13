@@ -7,12 +7,16 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0115PostVolume1Author
   position: 115,
   publishedAt: "2026-09-11",
   unit: "words",
-  externalId: "3942808",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3942808",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3942808/post-volume-1-authors-message",
+    },
+  ],
   title: "Post Volume 1 - Author's Message",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   ownLength: 1868,
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3942808/post-volume-1-authors-message",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression009291TripleThreat = 
   ownLength: 1974,
   unit: "words",
   publishedAt: "2026-08-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3837472/91-triple-threat",
-  externalId: "3837472",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3837472",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3837472/91-triple-threat",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

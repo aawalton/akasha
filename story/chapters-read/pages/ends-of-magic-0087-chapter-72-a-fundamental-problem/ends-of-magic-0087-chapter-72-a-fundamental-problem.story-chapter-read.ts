@@ -10,9 +10,13 @@ export const endsOfMagic0087Chapter72AFundamentalProblem = {
   ownLength: 2863,
   unit: "words",
   publishedAt: "2026-04-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3267703/chapter-72-a-fundamental-problem",
-  externalId: "3267703",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3267703",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3267703/chapter-72-a-fundamental-problem",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

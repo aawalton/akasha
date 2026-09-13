@@ -8,11 +8,15 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0101100TheSoulIsVulne
   position: 101,
   publishedAt: "2026-09-05",
   unit: "words",
-  externalId: "3914178",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3914178",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3914178/100-the-soul-is-vulnerable",
+    },
+  ],
   title: "100 - The Soul is Vulnerable",
   ownLength: 1593,
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3914178/100-the-soul-is-vulnerable",
   prose: "txt",
 } as const satisfies StoryChapterRead

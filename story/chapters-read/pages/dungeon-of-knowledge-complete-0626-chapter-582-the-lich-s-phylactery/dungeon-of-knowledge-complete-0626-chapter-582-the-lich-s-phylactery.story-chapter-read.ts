@@ -10,9 +10,13 @@ export const dungeonOfKnowledgeComplete0626Chapter582TheLichSPhylactery = {
   ownLength: 4803,
   unit: "words",
   publishedAt: "2026-03-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3183712/chapter-582-the-lichs-phylactery",
-  externalId: "3183712",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3183712",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3183712/chapter-582-the-lichs-phylactery",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0007Ch7SpiritStone = {
   ownLength: 971,
   unit: "words",
   publishedAt: "2026-03-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211620/ch7-spirit-stone",
-  externalId: "3211620",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3211620",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211620/ch7-spirit-stone",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

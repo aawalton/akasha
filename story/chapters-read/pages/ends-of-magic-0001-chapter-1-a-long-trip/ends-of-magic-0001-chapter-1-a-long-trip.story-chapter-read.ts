@@ -12,9 +12,13 @@ export const endsOfMagic0001Chapter1ALongTrip = {
   unit: "words",
   completedAt: "2026-06-29T20:07:18.210Z",
   publishedAt: "2022-08-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/972224/chapter-1-a-long-trip",
-  externalId: "972224",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "972224",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/972224/chapter-1-a-long-trip",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression006262TenRings = {
   ownLength: 1689,
   unit: "words",
   publishedAt: "2026-07-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3614614/62-ten-rings",
-  externalId: "3614614",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3614614",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3614614/62-ten-rings",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

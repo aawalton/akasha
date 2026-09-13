@@ -12,9 +12,13 @@ export const endsOfMagic0044Chapter29TerribleNight = {
   unit: "words",
   completedAt: "2026-06-29T20:08:40.599Z",
   publishedAt: "2025-11-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2748448/chapter-29-terrible-night",
-  externalId: "2748448",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2748448",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2748448/chapter-29-terrible-night",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

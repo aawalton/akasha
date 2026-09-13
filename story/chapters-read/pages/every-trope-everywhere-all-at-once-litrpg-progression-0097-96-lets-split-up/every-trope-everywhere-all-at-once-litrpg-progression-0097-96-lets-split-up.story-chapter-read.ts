@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression009796LetsSplitUp = {
   ownLength: 1528,
   unit: "words",
   publishedAt: "2026-08-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3883851/96-lets-split-up",
-  externalId: "3883851",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3883851",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3883851/96-lets-split-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

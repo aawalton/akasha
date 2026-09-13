@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0078Ch78SystemRewards = {
   ownLength: 2092,
   unit: "words",
   publishedAt: "2026-06-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3554383/ch78-system-rewards",
-  externalId: "3554383",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3554383",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3554383/ch78-system-rewards",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

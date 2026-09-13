@@ -12,9 +12,13 @@ export const endsOfMagic0071Chapter56SmallTalks = {
   unit: "words",
   completedAt: "2026-06-29T20:09:32.601Z",
   publishedAt: "2026-02-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3059296/chapter-56-small-talks",
-  externalId: "3059296",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3059296",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3059296/chapter-56-small-talks",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

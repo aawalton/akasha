@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression003939TheFloatingKniv
   ownLength: 1627,
   unit: "words",
   publishedAt: "2026-06-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3507550/39-the-floating-knives-challenge",
-  externalId: "3507550",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3507550",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3507550/39-the-floating-knives-challenge",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

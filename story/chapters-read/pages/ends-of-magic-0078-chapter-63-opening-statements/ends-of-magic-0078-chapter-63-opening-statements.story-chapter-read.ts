@@ -10,9 +10,13 @@ export const endsOfMagic0078Chapter63OpeningStatements = {
   ownLength: 2879,
   unit: "words",
   publishedAt: "2026-03-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3143448/chapter-63-opening-statements",
-  externalId: "3143448",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3143448",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3143448/chapter-63-opening-statements",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

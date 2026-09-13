@@ -7,12 +7,16 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0104103Descendant = {
   position: 104,
   publishedAt: "2026-09-10",
   unit: "words",
-  externalId: "3937825",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3937825",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3937825/103-descendant",
+    },
+  ],
   title: "103 - Descendant",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   ownLength: 1483,
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3937825/103-descendant",
   prose: "txt",
 } as const satisfies StoryChapterRead

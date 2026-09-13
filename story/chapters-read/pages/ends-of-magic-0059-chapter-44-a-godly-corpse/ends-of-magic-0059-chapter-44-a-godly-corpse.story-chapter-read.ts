@@ -12,9 +12,13 @@ export const endsOfMagic0059Chapter44AGodlyCorpse = {
   unit: "words",
   completedAt: "2026-06-29T20:09:09.160Z",
   publishedAt: "2026-01-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2898195/chapter-44-a-godly-corpse",
-  externalId: "2898195",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2898195",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2898195/chapter-44-a-godly-corpse",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

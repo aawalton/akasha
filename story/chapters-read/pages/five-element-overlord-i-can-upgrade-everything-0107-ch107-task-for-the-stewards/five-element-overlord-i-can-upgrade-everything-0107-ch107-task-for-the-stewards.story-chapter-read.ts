@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0107Ch107TaskForTheStewards
   ownLength: 2037,
   unit: "words",
   publishedAt: "2026-07-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3739295/ch107-task-for-the-stewards",
-  externalId: "3739295",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3739295",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3739295/ch107-task-for-the-stewards",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

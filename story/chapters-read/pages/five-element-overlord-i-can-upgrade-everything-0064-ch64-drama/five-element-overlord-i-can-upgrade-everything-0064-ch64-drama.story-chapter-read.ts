@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0064Ch64Drama = {
   ownLength: 1281,
   unit: "words",
   publishedAt: "2026-05-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3462371/ch64-drama",
-  externalId: "3462371",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3462371",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3462371/ch64-drama",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

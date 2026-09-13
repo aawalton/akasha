@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0008Ch8MarrowCleansingPill 
   ownLength: 996,
   unit: "words",
   publishedAt: "2026-03-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211630/ch8-marrow-cleansing-pill",
-  externalId: "3211630",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3211630",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211630/ch8-marrow-cleansing-pill",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

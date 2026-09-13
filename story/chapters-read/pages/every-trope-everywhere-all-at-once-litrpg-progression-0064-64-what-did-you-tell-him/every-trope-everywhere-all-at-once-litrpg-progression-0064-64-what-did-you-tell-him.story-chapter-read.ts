@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression006464WhatDidYouTellH
   ownLength: 1641,
   unit: "words",
   publishedAt: "2026-07-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3628246/64-what-did-you-tell-him",
-  externalId: "3628246",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3628246",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3628246/64-what-did-you-tell-him",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

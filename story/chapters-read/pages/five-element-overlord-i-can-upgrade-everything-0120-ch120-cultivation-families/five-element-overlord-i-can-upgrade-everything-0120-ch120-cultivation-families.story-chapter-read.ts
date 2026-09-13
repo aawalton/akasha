@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0120Ch120CultivationFamilie
   ownLength: 1879,
   unit: "words",
   publishedAt: "2026-08-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3815351/ch120-cultivation-families",
-  externalId: "3815351",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3815351",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3815351/ch120-cultivation-families",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

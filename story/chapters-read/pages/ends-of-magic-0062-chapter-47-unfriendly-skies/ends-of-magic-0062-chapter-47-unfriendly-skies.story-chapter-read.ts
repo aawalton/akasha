@@ -12,9 +12,13 @@ export const endsOfMagic0062Chapter47UnfriendlySkies = {
   unit: "words",
   completedAt: "2026-06-29T20:09:15.244Z",
   publishedAt: "2026-01-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2935314/chapter-47-unfriendly-skies",
-  externalId: "2935314",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2935314",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2935314/chapter-47-unfriendly-skies",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const endsOfMagic0057Chapter42ALandOfLegend = {
   unit: "words",
   completedAt: "2026-06-29T20:09:05.293Z",
   publishedAt: "2025-12-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2879076/chapter-42-a-land-of-legend",
-  externalId: "2879076",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2879076",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2879076/chapter-42-a-land-of-legend",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

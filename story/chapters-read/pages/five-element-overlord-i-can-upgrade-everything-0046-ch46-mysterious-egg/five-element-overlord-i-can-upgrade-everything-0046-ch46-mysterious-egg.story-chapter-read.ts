@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0046Ch46MysteriousEgg = {
   ownLength: 2236,
   unit: "words",
   publishedAt: "2026-05-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3355677/ch46-mysterious-egg",
-  externalId: "3355677",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3355677",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3355677/ch46-mysterious-egg",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

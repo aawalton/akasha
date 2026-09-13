@@ -12,9 +12,13 @@ export const endsOfMagic0031Chapter16SpringingTheTrap = {
   unit: "words",
   completedAt: "2026-06-29T20:08:15.976Z",
   publishedAt: "2025-08-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2554867/chapter-16-springing-the-trap",
-  externalId: "2554867",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2554867",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2554867/chapter-16-springing-the-trap",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

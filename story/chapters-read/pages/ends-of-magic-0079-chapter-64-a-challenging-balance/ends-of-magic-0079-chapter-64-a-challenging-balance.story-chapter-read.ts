@@ -10,9 +10,13 @@ export const endsOfMagic0079Chapter64AChallengingBalance = {
   ownLength: 2922,
   unit: "words",
   publishedAt: "2026-03-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3157654/chapter-64-a-challenging-balance",
-  externalId: "3157654",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3157654",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3157654/chapter-64-a-challenging-balance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -7,12 +7,16 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0112111BlanketsTouch 
   position: 112,
   publishedAt: "2026-09-11",
   unit: "words",
-  externalId: "3942324",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3942324",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3942324/111-blankets-touch",
+    },
+  ],
   title: "111 - Blanket's Touch",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   ownLength: 1913,
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3942324/111-blankets-touch",
   prose: "txt",
 } as const satisfies StoryChapterRead

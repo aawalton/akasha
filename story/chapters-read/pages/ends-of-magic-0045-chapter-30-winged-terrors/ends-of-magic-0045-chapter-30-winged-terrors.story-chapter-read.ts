@@ -12,9 +12,13 @@ export const endsOfMagic0045Chapter30WingedTerrors = {
   unit: "words",
   completedAt: "2026-06-29T20:08:42.532Z",
   publishedAt: "2025-11-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2757423/chapter-30-winged-terrors",
-  externalId: "2757423",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2757423",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2757423/chapter-30-winged-terrors",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

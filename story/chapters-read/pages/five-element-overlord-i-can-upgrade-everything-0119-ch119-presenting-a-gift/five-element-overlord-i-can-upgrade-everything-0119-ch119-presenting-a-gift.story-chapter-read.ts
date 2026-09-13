@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0119Ch119PresentingAGift = 
   ownLength: 3154,
   unit: "words",
   publishedAt: "2026-08-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3810727/ch119-presenting-a-gift",
-  externalId: "3810727",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3810727",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3810727/ch119-presenting-a-gift",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

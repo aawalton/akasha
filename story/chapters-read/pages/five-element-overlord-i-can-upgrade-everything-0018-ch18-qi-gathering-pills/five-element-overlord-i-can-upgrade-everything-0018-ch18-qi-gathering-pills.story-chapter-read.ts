@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0018Ch18QiGatheringPills = 
   ownLength: 1405,
   unit: "words",
   publishedAt: "2026-03-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211920/ch18-qi-gathering-pills",
-  externalId: "3211920",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3211920",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211920/ch18-qi-gathering-pills",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0103Ch103FalseReport = {
   ownLength: 1552,
   unit: "words",
   publishedAt: "2026-07-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3712899/ch103-false-report",
-  externalId: "3712899",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3712899",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3712899/ch103-false-report",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

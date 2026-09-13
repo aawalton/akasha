@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression00011UnfortunatelyIMT
   ownLength: 1900,
   unit: "words",
   publishedAt: "2026-05-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3373465/1-unfortunately-im-the-protagonist",
-  externalId: "3373465",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3373465",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3373465/1-unfortunately-im-the-protagonist",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0070Ch70PhantomLord = {
   ownLength: 1832,
   unit: "words",
   publishedAt: "2026-06-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3498763/ch70-phantom-lord",
-  externalId: "3498763",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3498763",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3498763/ch70-phantom-lord",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

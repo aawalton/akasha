@@ -12,9 +12,13 @@ export const endsOfMagic0064Chapter49StagingForWar = {
   unit: "words",
   completedAt: "2026-06-29T20:09:19.079Z",
   publishedAt: "2026-01-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2957653/chapter-49-staging-for-war",
-  externalId: "2957653",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2957653",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2957653/chapter-49-staging-for-war",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression003333DuelOfTheAspiri
   ownLength: 1840,
   unit: "words",
   publishedAt: "2026-06-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3480904/33-duel-of-the-aspiring-magic-knights",
-  externalId: "3480904",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3480904",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3480904/33-duel-of-the-aspiring-magic-knights",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

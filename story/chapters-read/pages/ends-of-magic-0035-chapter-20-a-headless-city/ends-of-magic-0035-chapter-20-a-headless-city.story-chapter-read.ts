@@ -12,9 +12,13 @@ export const endsOfMagic0035Chapter20AHeadlessCity = {
   unit: "words",
   completedAt: "2026-06-29T20:08:23.716Z",
   publishedAt: "2025-09-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2592354/chapter-20-a-headless-city",
-  externalId: "2592354",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2592354",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2592354/chapter-20-a-headless-city",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

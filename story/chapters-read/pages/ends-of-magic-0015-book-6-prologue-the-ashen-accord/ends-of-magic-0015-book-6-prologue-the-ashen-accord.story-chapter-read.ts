@@ -12,9 +12,13 @@ export const endsOfMagic0015Book6PrologueTheAshenAccord = {
   unit: "words",
   completedAt: "2026-06-29T20:07:44.886Z",
   publishedAt: "2025-05-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2314276/book-6-prologue-the-ashen-accord",
-  externalId: "2314276",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2314276",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2314276/book-6-prologue-the-ashen-accord",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

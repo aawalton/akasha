@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0096Ch96Eggs = {
   ownLength: 1637,
   unit: "words",
   publishedAt: "2026-07-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3673414/ch96-eggs",
-  externalId: "3673414",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3673414",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3673414/ch96-eggs",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

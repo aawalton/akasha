@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0115Ch115SecondEnlightenmen
   ownLength: 2071,
   unit: "words",
   publishedAt: "2026-08-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3784545/ch115-second-enlightenment",
-  externalId: "3784545",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3784545",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3784545/ch115-second-enlightenment",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

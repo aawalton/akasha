@@ -12,9 +12,13 @@ export const endsOfMagic0047Chapter32ThoughtsOfFlight = {
   unit: "words",
   completedAt: "2026-06-29T20:08:46.285Z",
   publishedAt: "2025-11-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2777432/chapter-32-thoughts-of-flight",
-  externalId: "2777432",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2777432",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2777432/chapter-32-thoughts-of-flight",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

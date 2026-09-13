@@ -10,9 +10,13 @@ export const dungeonOfKnowledgeComplete0630Afterword = {
   ownLength: 560,
   unit: "words",
   publishedAt: "2026-03-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3187769/afterword",
-  externalId: "3187769",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3187769",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3187769/afterword",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0045Ch45ReturnToTheMarket =
   ownLength: 1599,
   unit: "words",
   publishedAt: "2026-05-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3343330/ch45-return-to-the-market",
-  externalId: "3343330",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3343330",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3343330/ch45-return-to-the-market",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

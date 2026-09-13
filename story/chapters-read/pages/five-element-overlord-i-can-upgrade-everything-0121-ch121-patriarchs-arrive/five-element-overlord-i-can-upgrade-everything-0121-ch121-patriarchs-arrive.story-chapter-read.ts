@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0121Ch121PatriarchsArrive =
   ownLength: 2034,
   unit: "words",
   publishedAt: "2026-08-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3827695/ch121-patriarchs-arrive",
-  externalId: "3827695",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3827695",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3827695/ch121-patriarchs-arrive",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

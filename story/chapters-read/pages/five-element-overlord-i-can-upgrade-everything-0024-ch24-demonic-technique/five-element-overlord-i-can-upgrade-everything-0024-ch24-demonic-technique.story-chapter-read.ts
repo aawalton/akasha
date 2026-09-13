@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0024Ch24DemonicTechnique = 
   ownLength: 1374,
   unit: "words",
   publishedAt: "2026-04-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3224246/ch24-demonic-technique",
-  externalId: "3224246",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3224246",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3224246/ch24-demonic-technique",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

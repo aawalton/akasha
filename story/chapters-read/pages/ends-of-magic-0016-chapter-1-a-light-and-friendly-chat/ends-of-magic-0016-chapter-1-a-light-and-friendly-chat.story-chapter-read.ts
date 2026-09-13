@@ -12,9 +12,13 @@ export const endsOfMagic0016Chapter1ALightAndFriendlyChat = {
   unit: "words",
   completedAt: "2026-06-29T20:07:46.799Z",
   publishedAt: "2025-07-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2415919/chapter-1-a-light-and-friendly-chat",
-  externalId: "2415919",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2415919",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2415919/chapter-1-a-light-and-friendly-chat",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const endsOfMagic0042Chapter27BesiegedArrival = {
   unit: "words",
   completedAt: "2026-06-29T20:08:36.922Z",
   publishedAt: "2025-11-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2728404/chapter-27-besieged-arrival",
-  externalId: "2728404",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2728404",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2728404/chapter-27-besieged-arrival",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

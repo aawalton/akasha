@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0026Ch26BecomingASteward = 
   ownLength: 1056,
   unit: "words",
   publishedAt: "2026-04-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3241051/ch26-becoming-a-steward",
-  externalId: "3241051",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3241051",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3241051/ch26-becoming-a-steward",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

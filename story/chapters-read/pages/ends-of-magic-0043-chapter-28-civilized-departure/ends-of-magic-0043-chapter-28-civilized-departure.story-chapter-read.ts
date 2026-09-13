@@ -12,9 +12,13 @@ export const endsOfMagic0043Chapter28CivilizedDeparture = {
   unit: "words",
   completedAt: "2026-06-29T20:08:38.708Z",
   publishedAt: "2025-11-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2737446/chapter-28-civilized-departure",
-  externalId: "2737446",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2737446",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2737446/chapter-28-civilized-departure",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

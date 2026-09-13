@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression002626IsThisEvenADung
   ownLength: 1631,
   unit: "words",
   publishedAt: "2026-05-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3450752/26-is-this-even-a-dungeon",
-  externalId: "3450752",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3450752",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3450752/26-is-this-even-a-dungeon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

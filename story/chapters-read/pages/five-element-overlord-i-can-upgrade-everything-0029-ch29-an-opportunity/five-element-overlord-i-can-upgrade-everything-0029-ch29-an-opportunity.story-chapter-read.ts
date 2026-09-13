@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0029Ch29AnOpportunity = {
   ownLength: 1178,
   unit: "words",
   publishedAt: "2026-04-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3253721/ch29-an-opportunity",
-  externalId: "3253721",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3253721",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3253721/ch29-an-opportunity",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

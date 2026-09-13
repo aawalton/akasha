@@ -12,9 +12,13 @@ export const endsOfMagic0076Chapter61TheArenaOfConcord = {
   unit: "words",
   completedAt: "2026-06-29T20:09:42.251Z",
   publishedAt: "2026-03-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3118985/chapter-61-the-arena-of-concord",
-  externalId: "3118985",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3118985",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3118985/chapter-61-the-arena-of-concord",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

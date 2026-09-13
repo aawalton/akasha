@@ -12,9 +12,13 @@ export const endsOfMagic0041Chapter26ALongDistanceChase = {
   unit: "words",
   completedAt: "2026-06-29T20:08:35.126Z",
   publishedAt: "2025-10-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2716612/chapter-26-a-long-distance-chase",
-  externalId: "2716612",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2716612",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2716612/chapter-26-a-long-distance-chase",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

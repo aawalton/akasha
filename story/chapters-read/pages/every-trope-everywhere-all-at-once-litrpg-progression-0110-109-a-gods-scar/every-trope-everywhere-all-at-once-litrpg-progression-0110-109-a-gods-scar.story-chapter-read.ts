@@ -7,12 +7,16 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0110109AGodsScar = {
   position: 110,
   publishedAt: "2026-09-11",
   unit: "words",
-  externalId: "3942318",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3942318",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3942318/109-a-gods-scar",
+    },
+  ],
   title: "109 - A God's Scar",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   ownLength: 1641,
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3942318/109-a-gods-scar",
   prose: "txt",
 } as const satisfies StoryChapterRead

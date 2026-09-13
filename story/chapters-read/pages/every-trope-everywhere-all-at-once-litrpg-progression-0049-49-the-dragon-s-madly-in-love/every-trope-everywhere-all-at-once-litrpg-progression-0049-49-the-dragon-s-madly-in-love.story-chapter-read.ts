@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression004949TheDragonSMadly
   ownLength: 2028,
   unit: "words",
   publishedAt: "2026-06-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3554534/49-the-dragons-madly-in-love",
-  externalId: "3554534",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3554534",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3554534/49-the-dragons-madly-in-love",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

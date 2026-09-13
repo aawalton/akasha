@@ -12,9 +12,13 @@ export const endsOfMagic0065Chapter50AShowOfVanity = {
   unit: "words",
   completedAt: "2026-06-29T20:09:20.990Z",
   publishedAt: "2026-01-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2967787/chapter-50-a-show-of-vanity",
-  externalId: "2967787",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2967787",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2967787/chapter-50-a-show-of-vanity",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

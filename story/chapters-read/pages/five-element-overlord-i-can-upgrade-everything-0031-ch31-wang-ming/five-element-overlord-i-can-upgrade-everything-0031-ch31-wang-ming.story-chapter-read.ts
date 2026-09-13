@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0031Ch31WangMing = {
   ownLength: 1355,
   unit: "words",
   publishedAt: "2026-04-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3270303/ch31-wang-ming",
-  externalId: "3270303",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3270303",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3270303/ch31-wang-ming",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

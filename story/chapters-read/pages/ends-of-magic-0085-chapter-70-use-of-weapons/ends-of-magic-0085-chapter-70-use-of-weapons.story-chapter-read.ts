@@ -10,9 +10,13 @@ export const endsOfMagic0085Chapter70UseOfWeapons = {
   ownLength: 2916,
   unit: "words",
   publishedAt: "2026-04-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3238531/chapter-70-use-of-weapons",
-  externalId: "3238531",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3238531",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3238531/chapter-70-use-of-weapons",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

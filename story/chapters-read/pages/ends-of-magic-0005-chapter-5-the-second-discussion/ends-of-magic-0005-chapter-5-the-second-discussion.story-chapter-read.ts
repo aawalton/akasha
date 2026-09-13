@@ -12,9 +12,13 @@ export const endsOfMagic0005Chapter5TheSecondDiscussion = {
   unit: "words",
   completedAt: "2026-06-29T20:07:25.589Z",
   publishedAt: "2022-08-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/974431/chapter-5-the-second-discussion",
-  externalId: "974431",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "974431",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/974431/chapter-5-the-second-discussion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

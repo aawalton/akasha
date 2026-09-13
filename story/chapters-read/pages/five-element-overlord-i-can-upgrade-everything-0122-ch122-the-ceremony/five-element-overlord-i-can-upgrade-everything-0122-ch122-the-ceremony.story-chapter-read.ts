@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0122Ch122TheCeremony = {
   ownLength: 2072,
   unit: "words",
   publishedAt: "2026-08-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3832023/ch122-the-ceremony",
-  externalId: "3832023",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3832023",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3832023/ch122-the-ceremony",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

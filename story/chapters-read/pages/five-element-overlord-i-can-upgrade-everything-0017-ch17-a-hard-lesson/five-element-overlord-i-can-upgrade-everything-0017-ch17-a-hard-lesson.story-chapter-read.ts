@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0017Ch17AHardLesson = {
   ownLength: 1262,
   unit: "words",
   publishedAt: "2026-03-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211916/ch17-a-hard-lesson",
-  externalId: "3211916",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3211916",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211916/ch17-a-hard-lesson",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

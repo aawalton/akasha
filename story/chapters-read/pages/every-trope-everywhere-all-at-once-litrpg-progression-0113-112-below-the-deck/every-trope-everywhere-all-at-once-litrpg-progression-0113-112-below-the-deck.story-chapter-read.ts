@@ -7,12 +7,16 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0113112BelowTheDeck =
   position: 113,
   publishedAt: "2026-09-11",
   unit: "words",
-  externalId: "3942325",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3942325",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3942325/112-below-the-deck",
+    },
+  ],
   title: "112 - Below the Deck",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   ownLength: 1742,
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3942325/112-below-the-deck",
   prose: "txt",
 } as const satisfies StoryChapterRead

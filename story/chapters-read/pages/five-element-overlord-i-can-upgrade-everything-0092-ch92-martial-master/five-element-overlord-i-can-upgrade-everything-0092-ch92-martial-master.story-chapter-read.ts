@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0092Ch92MartialMaster = {
   ownLength: 1702,
   unit: "words",
   publishedAt: "2026-07-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3646143/ch92-martial-master",
-  externalId: "3646143",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3646143",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3646143/ch92-martial-master",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

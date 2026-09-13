@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression001515TunaAndTheTuna 
   ownLength: 1919,
   unit: "words",
   publishedAt: "2026-05-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3416466/15-tuna-and-the-tuna",
-  externalId: "3416466",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3416466",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3416466/15-tuna-and-the-tuna",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

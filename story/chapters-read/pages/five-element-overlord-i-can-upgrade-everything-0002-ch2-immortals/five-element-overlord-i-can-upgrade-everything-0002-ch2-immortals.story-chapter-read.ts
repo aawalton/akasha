@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0002Ch2Immortals = {
   ownLength: 1741,
   unit: "words",
   publishedAt: "2026-03-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211498/ch2-immortals",
-  externalId: "3211498",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3211498",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211498/ch2-immortals",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

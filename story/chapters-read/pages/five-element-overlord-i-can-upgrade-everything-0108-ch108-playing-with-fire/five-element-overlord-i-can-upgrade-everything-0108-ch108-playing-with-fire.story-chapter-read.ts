@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0108Ch108PlayingWithFire = 
   ownLength: 2107,
   unit: "words",
   publishedAt: "2026-07-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3743872/ch108-playing-with-fire",
-  externalId: "3743872",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3743872",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3743872/ch108-playing-with-fire",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const endsOfMagic0069Chapter54ClaimingGlory = {
   unit: "words",
   completedAt: "2026-06-29T20:09:28.671Z",
   publishedAt: "2026-02-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3014942/chapter-54-claiming-glory",
-  externalId: "3014942",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3014942",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3014942/chapter-54-claiming-glory",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

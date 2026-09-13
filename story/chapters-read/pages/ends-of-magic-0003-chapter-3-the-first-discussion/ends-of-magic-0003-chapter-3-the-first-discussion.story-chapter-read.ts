@@ -12,9 +12,13 @@ export const endsOfMagic0003Chapter3TheFirstDiscussion = {
   unit: "words",
   completedAt: "2026-06-29T20:07:21.904Z",
   publishedAt: "2022-08-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/973735/chapter-3-the-first-discussion",
-  externalId: "973735",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "973735",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/973735/chapter-3-the-first-discussion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

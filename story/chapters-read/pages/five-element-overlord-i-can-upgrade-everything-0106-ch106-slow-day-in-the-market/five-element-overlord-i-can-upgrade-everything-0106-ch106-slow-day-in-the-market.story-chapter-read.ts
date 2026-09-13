@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0106Ch106SlowDayInTheMarket
   ownLength: 2618,
   unit: "words",
   publishedAt: "2026-07-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3734888/ch106-slow-day-in-the-market",
-  externalId: "3734888",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3734888",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3734888/ch106-slow-day-in-the-market",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

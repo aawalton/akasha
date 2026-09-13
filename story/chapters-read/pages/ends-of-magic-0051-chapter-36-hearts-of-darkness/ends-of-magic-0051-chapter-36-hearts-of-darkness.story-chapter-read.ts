@@ -12,9 +12,13 @@ export const endsOfMagic0051Chapter36HeartsOfDarkness = {
   unit: "words",
   completedAt: "2026-06-29T20:08:53.978Z",
   publishedAt: "2025-12-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2817914/chapter-36-hearts-of-darkness",
-  externalId: "2817914",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2817914",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2817914/chapter-36-hearts-of-darkness",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

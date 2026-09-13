@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0040Ch40OverstrainingTheVei
   ownLength: 1318,
   unit: "words",
   publishedAt: "2026-04-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3315212/ch40-overstraining-the-vein",
-  externalId: "3315212",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3315212",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3315212/ch40-overstraining-the-vein",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

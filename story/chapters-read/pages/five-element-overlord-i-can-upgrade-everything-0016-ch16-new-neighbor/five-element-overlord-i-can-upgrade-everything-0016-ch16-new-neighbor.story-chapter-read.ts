@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0016Ch16NewNeighbor = {
   ownLength: 1504,
   unit: "words",
   publishedAt: "2026-03-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211911/ch16-new-neighbor",
-  externalId: "3211911",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3211911",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211911/ch16-new-neighbor",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0049Ch494thLevelQiRefiner =
   ownLength: 1519,
   unit: "words",
   publishedAt: "2026-05-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3368446/ch49-4th-level-qi-refiner",
-  externalId: "3368446",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3368446",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3368446/ch49-4th-level-qi-refiner",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

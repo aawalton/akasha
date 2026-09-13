@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0047Ch47RipFlameToads = {
   ownLength: 1851,
   unit: "words",
   publishedAt: "2026-05-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3359903/ch47-rip-flame-toads",
-  externalId: "3359903",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3359903",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3359903/ch47-rip-flame-toads",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

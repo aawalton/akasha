@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0052Ch52ABigLie = {
   ownLength: 1576,
   unit: "words",
   publishedAt: "2026-05-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3388295/ch52-a-big-lie",
-  externalId: "3388295",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3388295",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3388295/ch52-a-big-lie",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

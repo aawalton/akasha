@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression009392WhaleIslesDunge
   ownLength: 2041,
   unit: "words",
   publishedAt: "2026-08-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3841666/92-whale-isles-dungeon-again",
-  externalId: "3841666",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3841666",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3841666/92-whale-isles-dungeon-again",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

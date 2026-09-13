@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0069Ch69LanXin = {
   ownLength: 1546,
   unit: "words",
   publishedAt: "2026-06-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3493994/ch69-lan-xin",
-  externalId: "3493994",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3493994",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3493994/ch69-lan-xin",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0094Ch94Duel = {
   ownLength: 1736,
   unit: "words",
   publishedAt: "2026-07-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3655115/ch94-duel",
-  externalId: "3655115",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3655115",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3655115/ch94-duel",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

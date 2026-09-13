@@ -11,9 +11,13 @@ export const endsOfMagic0077Chapter62AFullHouse = {
   ownProgress: 302,
   unit: "words",
   publishedAt: "2026-03-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3134265/chapter-62-a-full-house",
-  externalId: "3134265",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3134265",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3134265/chapter-62-a-full-house",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

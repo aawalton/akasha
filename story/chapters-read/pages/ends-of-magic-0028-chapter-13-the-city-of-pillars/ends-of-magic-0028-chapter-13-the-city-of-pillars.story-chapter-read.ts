@@ -12,9 +12,13 @@ export const endsOfMagic0028Chapter13TheCityOfPillars = {
   unit: "words",
   completedAt: "2026-06-29T20:08:10.098Z",
   publishedAt: "2025-08-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2527706/chapter-13-the-city-of-pillars",
-  externalId: "2527706",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2527706",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2527706/chapter-13-the-city-of-pillars",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

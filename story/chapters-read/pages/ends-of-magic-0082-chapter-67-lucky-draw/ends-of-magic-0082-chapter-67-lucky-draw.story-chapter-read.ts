@@ -10,9 +10,13 @@ export const endsOfMagic0082Chapter67LuckyDraw = {
   ownLength: 2881,
   unit: "words",
   publishedAt: "2026-03-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3195598/chapter-67-lucky-draw",
-  externalId: "3195598",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3195598",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3195598/chapter-67-lucky-draw",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0067Ch67DemonSlayer = {
   ownLength: 1569,
   unit: "words",
   publishedAt: "2026-06-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3484927/ch67-demon-slayer",
-  externalId: "3484927",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3484927",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3484927/ch67-demon-slayer",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const endsOfMagic0073Chapter58ConflictingOpinions = {
   unit: "words",
   completedAt: "2026-06-29T20:09:36.356Z",
   publishedAt: "2026-02-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3083720/chapter-58-conflicting-opinions",
-  externalId: "3083720",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3083720",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3083720/chapter-58-conflicting-opinions",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

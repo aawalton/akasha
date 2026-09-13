@@ -12,9 +12,13 @@ export const endsOfMagic0019Chapter4ABraceOfTutors = {
   unit: "words",
   completedAt: "2026-06-29T20:07:52.587Z",
   publishedAt: "2025-07-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2442636/chapter-4-a-brace-of-tutors",
-  externalId: "2442636",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2442636",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2442636/chapter-4-a-brace-of-tutors",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

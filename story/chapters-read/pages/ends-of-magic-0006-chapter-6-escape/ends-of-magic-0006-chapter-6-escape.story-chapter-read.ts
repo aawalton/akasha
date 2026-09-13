@@ -12,9 +12,13 @@ export const endsOfMagic0006Chapter6Escape = {
   unit: "words",
   completedAt: "2026-06-29T20:07:27.534Z",
   publishedAt: "2022-08-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/975186/chapter-6-escape",
-  externalId: "975186",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "975186",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/975186/chapter-6-escape",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

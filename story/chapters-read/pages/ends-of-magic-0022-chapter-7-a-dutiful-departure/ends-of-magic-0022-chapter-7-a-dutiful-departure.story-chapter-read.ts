@@ -12,9 +12,13 @@ export const endsOfMagic0022Chapter7ADutifulDeparture = {
   unit: "words",
   completedAt: "2026-06-29T20:07:58.466Z",
   publishedAt: "2025-07-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2472639/chapter-7-a-dutiful-departure",
-  externalId: "2472639",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2472639",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2472639/chapter-7-a-dutiful-departure",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

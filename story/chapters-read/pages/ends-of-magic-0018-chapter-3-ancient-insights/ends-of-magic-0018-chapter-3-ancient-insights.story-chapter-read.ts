@@ -12,9 +12,13 @@ export const endsOfMagic0018Chapter3AncientInsights = {
   unit: "words",
   completedAt: "2026-06-29T20:07:50.648Z",
   publishedAt: "2025-07-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2434165/chapter-3-ancient-insights",
-  externalId: "2434165",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2434165",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2434165/chapter-3-ancient-insights",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

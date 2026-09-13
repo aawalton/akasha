@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression00022TheBossThatShoul
   ownLength: 2609,
   unit: "words",
   publishedAt: "2026-05-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3387389/2-the-boss-that-shouldve-killed-me",
-  externalId: "3387389",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3387389",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3387389/2-the-boss-that-shouldve-killed-me",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

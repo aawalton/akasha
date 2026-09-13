@@ -12,9 +12,13 @@ export const endsOfMagic0074Chapter59DawnSConcord = {
   unit: "words",
   completedAt: "2026-06-29T20:09:38.260Z",
   publishedAt: "2026-02-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3094598/chapter-59-dawns-concord",
-  externalId: "3094598",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3094598",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3094598/chapter-59-dawns-concord",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

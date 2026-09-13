@@ -10,9 +10,13 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression004848HowToTrainYourD
   ownLength: 1477,
   unit: "words",
   publishedAt: "2026-06-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3549457/48-how-to-train-your-dragon",
-  externalId: "3549457",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3549457",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3549457/48-how-to-train-your-dragon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

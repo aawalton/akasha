@@ -12,9 +12,13 @@ export const endsOfMagic0026Chapter11ABubbleOfFlame = {
   unit: "words",
   completedAt: "2026-06-29T20:08:06.240Z",
   publishedAt: "2025-08-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2509191/chapter-11-a-bubble-of-flame",
-  externalId: "2509191",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2509191",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2509191/chapter-11-a-bubble-of-flame",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0020Ch20SettingATrap = {
   ownLength: 1267,
   unit: "words",
   publishedAt: "2026-03-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211927/ch20-setting-a-trap",
-  externalId: "3211927",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3211927",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211927/ch20-setting-a-trap",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

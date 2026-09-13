@@ -12,9 +12,13 @@ export const endsOfMagic0039Chapter24PlanningForPower = {
   unit: "words",
   completedAt: "2026-06-29T20:08:31.160Z",
   publishedAt: "2025-10-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2698600/chapter-24-planning-for-power",
-  externalId: "2698600",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2698600",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2698600/chapter-24-planning-for-power",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

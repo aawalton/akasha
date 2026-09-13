@@ -7,12 +7,16 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0108107TheProtagonist
   position: 108,
   publishedAt: "2026-09-11",
   unit: "words",
-  externalId: "3942315",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3942315",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3942315/107-the-protagonists-secrets",
+    },
+  ],
   title: "107 - The Protagonist's Secrets",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   ownLength: 1964,
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3942315/107-the-protagonists-secrets",
   prose: "txt",
 } as const satisfies StoryChapterRead

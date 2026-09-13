@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0095Ch95MistyForest = {
   ownLength: 1680,
   unit: "words",
   publishedAt: "2026-07-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3659956/ch95-misty-forest",
-  externalId: "3659956",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3659956",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3659956/ch95-misty-forest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

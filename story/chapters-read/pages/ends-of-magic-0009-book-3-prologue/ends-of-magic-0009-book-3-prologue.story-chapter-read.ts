@@ -12,9 +12,13 @@ export const endsOfMagic0009Book3Prologue = {
   unit: "words",
   completedAt: "2026-06-29T20:07:33.291Z",
   publishedAt: "2023-06-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/1232851/book-3-prologue",
-  externalId: "1232851",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1232851",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/1232851/book-3-prologue",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

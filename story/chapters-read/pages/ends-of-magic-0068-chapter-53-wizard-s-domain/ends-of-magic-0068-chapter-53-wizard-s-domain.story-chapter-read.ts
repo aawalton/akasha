@@ -12,9 +12,13 @@ export const endsOfMagic0068Chapter53WizardSDomain = {
   unit: "words",
   completedAt: "2026-06-29T20:09:26.744Z",
   publishedAt: "2026-02-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3004587/chapter-53-wizards-domain",
-  externalId: "3004587",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3004587",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3004587/chapter-53-wizards-domain",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

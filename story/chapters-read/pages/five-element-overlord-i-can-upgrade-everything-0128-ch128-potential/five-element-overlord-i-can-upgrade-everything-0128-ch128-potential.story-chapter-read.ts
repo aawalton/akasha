@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0128Ch128Potential = {
   ownLength: 1679,
   unit: "words",
   publishedAt: "2026-08-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3869609/ch128-potential",
-  externalId: "3869609",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3869609",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3869609/ch128-potential",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

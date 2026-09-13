@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0025Ch25LawEnforcementHall 
   ownLength: 1174,
   unit: "words",
   publishedAt: "2026-04-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3228918/ch25-law-enforcement-hall",
-  externalId: "3228918",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3228918",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3228918/ch25-law-enforcement-hall",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

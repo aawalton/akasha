@@ -12,9 +12,13 @@ export const endsOfMagic0020Chapter5ACityOfWonder = {
   unit: "words",
   completedAt: "2026-06-29T20:07:54.620Z",
   publishedAt: "2025-07-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2453930/chapter-5-a-city-of-wonder",
-  externalId: "2453930",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2453930",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2453930/chapter-5-a-city-of-wonder",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

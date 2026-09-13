@@ -7,12 +7,16 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0107106TheAncientEras
   position: 107,
   publishedAt: "2026-09-11",
   unit: "words",
-  externalId: "3942314",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3942314",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3942314/106-the-ancient-eras",
+    },
+  ],
   title: "106 - The Ancient Eras",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   ownLength: 1997,
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3942314/106-the-ancient-eras",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const endsOfMagic0040Chapter25BevyOfPower = {
   unit: "words",
   completedAt: "2026-06-29T20:08:33.331Z",
   publishedAt: "2025-10-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2708442/chapter-25-bevy-of-power",
-  externalId: "2708442",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2708442",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2708442/chapter-25-bevy-of-power",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

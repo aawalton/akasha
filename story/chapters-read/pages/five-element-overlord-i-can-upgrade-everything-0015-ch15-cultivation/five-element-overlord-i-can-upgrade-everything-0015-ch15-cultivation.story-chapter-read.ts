@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0015Ch15Cultivation = {
   ownLength: 1086,
   unit: "words",
   publishedAt: "2026-03-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211884/ch15-cultivation",
-  externalId: "3211884",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3211884",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211884/ch15-cultivation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

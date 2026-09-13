@@ -7,12 +7,16 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0114113AgeOf = {
   position: 114,
   publishedAt: "2026-09-11",
   unit: "words",
-  externalId: "3942328",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3942328",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3942328/113-age-of",
+    },
+  ],
   title: "113 - Age of [???]",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   ownLength: 2926,
-  externalLink:
-    "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3942328/113-age-of",
   prose: "txt",
 } as const satisfies StoryChapterRead

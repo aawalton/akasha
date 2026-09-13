@@ -12,9 +12,13 @@ export const endsOfMagic0012BookFivePrologueConsequencesOfAction = {
   unit: "words",
   completedAt: "2026-06-29T20:07:39.224Z",
   publishedAt: "2024-05-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/1647692/book-five-prologue-consequences-of-action",
-  externalId: "1647692",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1647692",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/1647692/book-five-prologue-consequences-of-action",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead
