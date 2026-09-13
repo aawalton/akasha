@@ -28,7 +28,7 @@ type Split = {
 
 const BYTES = new TextEncoder()
 
-function diskAt(root: string, path: string): Uint8Array | null {
+export function diskAt(root: string, path: string): Uint8Array | null {
   const at = join(root, path)
   return existsSync(at) ? readFileSync(at) : null
 }

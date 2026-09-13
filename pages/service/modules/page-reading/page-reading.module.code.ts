@@ -2,11 +2,13 @@ import { textOf } from "akasha/code/bodies/modules/body-text/body-text.module.co
 import {
   baseOf,
   changeOf,
+  diskAt,
 } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { commitThere } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   secretNamed,
+  uncommittedHeld,
   uncommittedNamed,
 } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
@@ -121,7 +123,10 @@ export function reading(given: Reading, asked: Asked, places: Placing = placing)
     }
     const at = named ?? baseOf(given.root)
     const change = changeOf(given.root, at, [])
-    const bodies = placed.paths.map((one) => ({ path: one, content: textOf(change.before(one)) }))
+    const bodies = placed.paths.map((one) => ({
+      path: one,
+      content: textOf(uncommittedHeld(one) ? diskAt(given.root, one) : change.before(one)),
+    }))
     return { at, bodies, unplaced: placed.unplaced }
   } catch (thrown) {
     return { refused: String(thrown) }

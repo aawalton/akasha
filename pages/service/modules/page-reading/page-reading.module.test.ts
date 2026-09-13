@@ -23,6 +23,8 @@ const AN_UNCOMMITTED = "akasha/a-page.module.uncommitted.ts"
 
 const NOT_A_SECRET = "held: a fixture standing where a secret would\n"
 
+const AN_UNCOMMITTED_FILE = "akasha/a-page.module.word-pieces.uncommitted.json"
+
 const nowhere: Placing = () => []
 
 function placedAt(...paths: readonly string[]): Placing {
@@ -175,6 +177,38 @@ test("a read naming a commit the repository does not hold is refused", () => {
   const root = repoWith({ [A_PAGE]: "one" })
   const said = reading({ root }, { paths: [A_PAGE], at: "0".repeat(40) }, nowhere)
   expect("refused" in said && said.refused).toContain("names no commit here")
+})
+
+test("a property held outside the commit is read off the checkout at the commit named", () => {
+  const root = repoWith({ [A_PAGE]: "one" })
+  const first = gitIn(root, ["rev-parse", "HEAD"]).trim()
+  writeFileSync(join(root, AN_UNCOMMITTED_FILE), "the current value")
+  const said = reading({ root }, { paths: [AN_UNCOMMITTED_FILE], at: first }, nowhere)
+  if ("refused" in said) throw new Error(said.refused)
+  expect(said.bodies[0]?.content).toBe("the current value")
+})
+
+test("a property held outside the commit answers what the checkout holds now", () => {
+  const root = repoWith({ [A_PAGE]: "one" })
+  const first = gitIn(root, ["rev-parse", "HEAD"]).trim()
+  writeFileSync(join(root, AN_UNCOMMITTED_FILE), "was")
+  const before = reading({ root }, { paths: [AN_UNCOMMITTED_FILE], at: first }, nowhere)
+  writeFileSync(join(root, AN_UNCOMMITTED_FILE), "now")
+  const after = reading({ root }, { paths: [AN_UNCOMMITTED_FILE], at: first }, nowhere)
+  if ("refused" in before || "refused" in after) throw new Error("both reads were meant to answer")
+  expect(before.bodies[0]?.content).toBe("was")
+  expect(after.bodies[0]?.content).toBe("now")
+})
+
+test("a committed body is read out of the commit though an uncommitted one is not", () => {
+  const root = repoWith({ [A_PAGE]: "committed" })
+  const first = gitIn(root, ["rev-parse", "HEAD"]).trim()
+  writeFileSync(join(root, A_PAGE), "dirty in the worktree")
+  writeFileSync(join(root, AN_UNCOMMITTED_FILE), "current")
+  const asked = { paths: [A_PAGE, AN_UNCOMMITTED_FILE], at: first }
+  const said = reading({ root }, asked, nowhere)
+  if ("refused" in said) throw new Error(said.refused)
+  expect(said.bodies.map((one) => one.content)).toEqual(["committed", "current"])
 })
 
 test("a root that is no repository is refused rather than thrown", () => {

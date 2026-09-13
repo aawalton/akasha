@@ -42,6 +42,18 @@ export const pageReading = {
     },
     {
       invariantKind: "departure",
+      statement: "A property held outside the commit has no commit to be read out of.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a property is read off the checkout the read was handed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a property is read as it is now whatever commit a read names.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A path standing outside `akasha` is refused before anything is read.",
     },
     {
