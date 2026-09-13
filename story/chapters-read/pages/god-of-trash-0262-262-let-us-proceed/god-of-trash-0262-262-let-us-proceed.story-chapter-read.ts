@@ -10,9 +10,13 @@ export const godOfTrash0262262LetUsProceed = {
   ownLength: 2111,
   unit: "words",
   publishedAt: "2026-01-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2950028/262-let-us-proceed",
-  externalId: "2950028",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2950028",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2950028/262-let-us-proceed",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

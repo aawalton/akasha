@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0062Chapter737Investments = {
   ownLength: 2038,
   unit: "words",
   publishedAt: "2026-01-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2982623/chapter-737-investments",
-  externalId: "2982623",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2982623",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2982623/chapter-737-investments",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

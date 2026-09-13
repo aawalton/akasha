@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0023Chapter698SomethingDumb = {
   ownLength: 2202,
   unit: "words",
   publishedAt: "2025-11-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2793153/chapter-698-something-dumb",
-  externalId: "2793153",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2793153",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2793153/chapter-698-something-dumb",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

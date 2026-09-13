@@ -10,9 +10,13 @@ export const godOfTrash0280280ItBegins = {
   ownLength: 2003,
   unit: "words",
   publishedAt: "2026-02-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3099656/280-it-begins",
-  externalId: "3099656",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3099656",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3099656/280-it-begins",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

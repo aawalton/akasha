@@ -7,12 +7,16 @@ export const godOfTrash0362362LookADistraction = {
   position: 362,
   publishedAt: "2026-09-11",
   unit: "words",
-  externalId: "3945700",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3945700",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3945700/362-look-a-distraction",
+    },
+  ],
   title: "362. Look, a Distraction",
   story: "story-read/god-of-trash",
   ownLength: 1758,
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3945700/362-look-a-distraction",
   prose: "txt",
 } as const satisfies StoryChapterRead

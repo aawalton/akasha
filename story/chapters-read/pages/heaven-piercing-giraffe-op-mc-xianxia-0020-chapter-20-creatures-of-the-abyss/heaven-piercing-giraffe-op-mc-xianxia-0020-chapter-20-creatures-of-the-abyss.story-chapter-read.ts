@@ -10,9 +10,13 @@ export const heavenPiercingGiraffeOpMcXianxia0020Chapter20CreaturesOfTheAbyss = 
   ownLength: 1777,
   unit: "words",
   publishedAt: "2026-07-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3716518/chapter-20-creatures-of-the-abyss",
-  externalId: "3716518",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3716518",
+      externalLink:
+        "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3716518/chapter-20-creatures-of-the-abyss",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

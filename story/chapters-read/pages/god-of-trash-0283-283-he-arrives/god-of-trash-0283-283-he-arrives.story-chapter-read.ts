@@ -10,9 +10,13 @@ export const godOfTrash0283283HeArrives = {
   ownLength: 2070,
   unit: "words",
   publishedAt: "2026-03-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3124298/283-he-arrives",
-  externalId: "3124298",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3124298",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3124298/283-he-arrives",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

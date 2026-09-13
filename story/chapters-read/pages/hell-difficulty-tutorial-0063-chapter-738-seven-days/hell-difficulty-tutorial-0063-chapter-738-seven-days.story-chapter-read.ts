@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0063Chapter738SevenDays = {
   ownLength: 2724,
   unit: "words",
   publishedAt: "2026-01-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2985948/chapter-738-seven-days",
-  externalId: "2985948",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2985948",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2985948/chapter-738-seven-days",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

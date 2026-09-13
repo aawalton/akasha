@@ -10,9 +10,13 @@ export const heWhoFightsWithMonsters0069Chapter1001ItSAllQuiteAustralian = {
   ownLength: 3760,
   unit: "words",
   publishedAt: "2026-06-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3480528/chapter-1001-its-all-quite-australian",
-  externalId: "3480528",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3480528",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3480528/chapter-1001-its-all-quite-australian",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

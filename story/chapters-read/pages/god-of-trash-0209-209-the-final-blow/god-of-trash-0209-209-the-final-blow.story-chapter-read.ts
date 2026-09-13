@@ -10,9 +10,13 @@ export const godOfTrash0209209TheFinalBlow = {
   ownLength: 1639,
   unit: "words",
   publishedAt: "2025-10-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2659145/209-the-final-blow",
-  externalId: "2659145",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2659145",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2659145/209-the-final-blow",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash0255255FeedingTime = {
   ownLength: 2154,
   unit: "words",
   publishedAt: "2025-12-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2896661/255-feeding-time",
-  externalId: "2896661",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2896661",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2896661/255-feeding-time",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

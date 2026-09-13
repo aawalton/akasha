@@ -10,9 +10,13 @@ export const godOfTrash0312312NormalPeopleDontSayTheyreNormal = {
   ownLength: 2154,
   unit: "words",
   publishedAt: "2026-05-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3415559/312-normal-people-dont-say-theyre-normal",
-  externalId: "3415559",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3415559",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3415559/312-normal-people-dont-say-theyre-normal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

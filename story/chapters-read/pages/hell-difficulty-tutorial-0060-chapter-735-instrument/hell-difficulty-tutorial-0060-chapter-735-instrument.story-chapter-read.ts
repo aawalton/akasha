@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0060Chapter735Instrument = {
   ownLength: 2154,
   unit: "words",
   publishedAt: "2026-01-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2969389/chapter-735-instrument",
-  externalId: "2969389",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2969389",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2969389/chapter-735-instrument",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

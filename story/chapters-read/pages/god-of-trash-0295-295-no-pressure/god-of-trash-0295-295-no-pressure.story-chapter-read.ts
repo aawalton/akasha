@@ -10,9 +10,13 @@ export const godOfTrash0295295NoPressure = {
   ownLength: 2352,
   unit: "words",
   publishedAt: "2026-04-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3228396/295-no-pressure",
-  externalId: "3228396",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3228396",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3228396/295-no-pressure",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

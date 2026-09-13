@@ -10,9 +10,13 @@ export const godOfTrash0223223MickiesHut = {
   ownLength: 2183,
   unit: "words",
   publishedAt: "2025-10-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2710288/223-mickies-hut",
-  externalId: "2710288",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2710288",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2710288/223-mickies-hut",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

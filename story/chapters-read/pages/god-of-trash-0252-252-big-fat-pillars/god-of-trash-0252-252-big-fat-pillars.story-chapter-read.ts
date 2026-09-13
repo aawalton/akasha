@@ -10,9 +10,13 @@ export const godOfTrash0252252BigFatPillars = {
   ownLength: 2118,
   unit: "words",
   publishedAt: "2025-12-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2877401/252-big-fat-pillars",
-  externalId: "2877401",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2877401",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2877401/252-big-fat-pillars",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

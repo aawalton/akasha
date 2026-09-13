@@ -10,9 +10,13 @@ export const godOfTrash0291291TheManOfTheHour = {
   ownLength: 2683,
   unit: "words",
   publishedAt: "2026-03-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3189198/291-the-man-of-the-hour",
-  externalId: "3189198",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3189198",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3189198/291-the-man-of-the-hour",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

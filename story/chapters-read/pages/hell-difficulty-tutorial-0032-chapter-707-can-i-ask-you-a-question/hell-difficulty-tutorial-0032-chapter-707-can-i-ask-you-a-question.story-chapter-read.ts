@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0032Chapter707CanIAskYouAQuestion = {
   ownLength: 2075,
   unit: "words",
   publishedAt: "2025-12-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2831163/chapter-707-can-i-ask-you-a-question",
-  externalId: "2831163",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2831163",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2831163/chapter-707-can-i-ask-you-a-question",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const heavenPiercingGiraffeOpMcXianxia0007Chapter7HumanDad = {
   ownLength: 1872,
   unit: "words",
   publishedAt: "2026-07-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3620247/chapter-7-human-dad",
-  externalId: "3620247",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3620247",
+      externalLink:
+        "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3620247/chapter-7-human-dad",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

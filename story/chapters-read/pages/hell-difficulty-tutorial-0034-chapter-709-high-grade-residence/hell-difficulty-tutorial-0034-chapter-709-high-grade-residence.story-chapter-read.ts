@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0034Chapter709HighGradeResidence = {
   ownLength: 2519,
   unit: "words",
   publishedAt: "2025-12-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2837184/chapter-709-high-grade-residence",
-  externalId: "2837184",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2837184",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2837184/chapter-709-high-grade-residence",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const heavenPiercingGiraffeOpMcXianxia0015Chapter15CorpseFilledRealityAka
   ownLength: 1782,
   unit: "words",
   publishedAt: "2026-07-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3674315/chapter-15-corpse-filled-reality-akashas-pov",
-  externalId: "3674315",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3674315",
+      externalLink:
+        "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3674315/chapter-15-corpse-filled-reality-akashas-pov",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

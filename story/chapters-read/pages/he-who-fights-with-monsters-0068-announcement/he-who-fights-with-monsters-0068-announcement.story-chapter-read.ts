@@ -10,9 +10,13 @@ export const heWhoFightsWithMonsters0068Announcement = {
   ownLength: 43,
   unit: "words",
   publishedAt: "2026-04-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3270315/announcement",
-  externalId: "3270315",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3270315",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3270315/announcement",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

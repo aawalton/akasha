@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0109Chapter784NeverEnough = {
   ownLength: 2668,
   unit: "words",
   publishedAt: "2026-04-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3220136/chapter-784-never-enough",
-  externalId: "3220136",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3220136",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3220136/chapter-784-never-enough",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

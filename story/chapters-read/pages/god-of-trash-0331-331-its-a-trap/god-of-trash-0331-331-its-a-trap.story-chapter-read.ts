@@ -10,9 +10,13 @@ export const godOfTrash0331331ItsATrap = {
   ownLength: 2075,
   unit: "words",
   publishedAt: "2026-07-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3618697/331-its-a-trap",
-  externalId: "3618697",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3618697",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3618697/331-its-a-trap",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

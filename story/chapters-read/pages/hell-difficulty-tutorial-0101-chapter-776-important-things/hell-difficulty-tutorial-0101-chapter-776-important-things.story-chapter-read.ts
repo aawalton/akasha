@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0101Chapter776ImportantThings = {
   ownLength: 2409,
   unit: "words",
   publishedAt: "2026-03-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3181575/chapter-776-important-things",
-  externalId: "3181575",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3181575",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3181575/chapter-776-important-things",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

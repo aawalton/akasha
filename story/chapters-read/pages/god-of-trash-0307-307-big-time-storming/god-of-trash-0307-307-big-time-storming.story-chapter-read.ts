@@ -10,9 +10,13 @@ export const godOfTrash0307307BigTimeStorming = {
   ownLength: 1958,
   unit: "words",
   publishedAt: "2026-05-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3363744/307-big-time-storming",
-  externalId: "3363744",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3363744",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3363744/307-big-time-storming",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash0256256ACompleteJoke = {
   ownLength: 2033,
   unit: "words",
   publishedAt: "2026-01-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2906379/256-a-complete-joke",
-  externalId: "2906379",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2906379",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2906379/256-a-complete-joke",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

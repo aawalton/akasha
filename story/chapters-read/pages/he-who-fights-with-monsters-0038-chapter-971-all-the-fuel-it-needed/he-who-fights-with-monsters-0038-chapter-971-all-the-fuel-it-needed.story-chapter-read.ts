@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0038Chapter971AllTheFuelItNeeded = {
   unit: "words",
   completedAt: "2026-06-29T19:05:10.707Z",
   publishedAt: "2025-03-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2122700/chapter-971-all-the-fuel-it-needed",
-  externalId: "2122700",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2122700",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2122700/chapter-971-all-the-fuel-it-needed",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

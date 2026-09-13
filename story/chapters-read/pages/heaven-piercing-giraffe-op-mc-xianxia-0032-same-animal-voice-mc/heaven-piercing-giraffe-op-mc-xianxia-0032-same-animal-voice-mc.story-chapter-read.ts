@@ -7,12 +7,16 @@ export const heavenPiercingGiraffeOpMcXianxia0032SameAnimalVoiceMc = {
   position: 32,
   publishedAt: "2026-09-11",
   unit: "words",
-  externalId: "3943025",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3943025",
+      externalLink:
+        "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3943025/same-animal-voice-mc",
+    },
+  ],
   title: "Same Animal Voice MC",
   story: "story-read/heaven-piercing-giraffe-op-mc-xianxia",
   ownLength: 251,
-  externalLink:
-    "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3943025/same-animal-voice-mc",
   prose: "txt",
 } as const satisfies StoryChapterRead

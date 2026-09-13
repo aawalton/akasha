@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0041Chapter974MostPracticalPurposes = {
   unit: "words",
   completedAt: "2026-06-29T19:05:16.830Z",
   publishedAt: "2025-03-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2137689/chapter-974-most-practical-purposes",
-  externalId: "2137689",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2137689",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2137689/chapter-974-most-practical-purposes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

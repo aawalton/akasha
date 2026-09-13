@@ -10,9 +10,13 @@ export const godOfTrash0288288MinglingWithTheUpperCrust = {
   ownLength: 2282,
   unit: "words",
   publishedAt: "2026-03-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3166872/288-mingling-with-the-upper-crust",
-  externalId: "3166872",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3166872",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3166872/288-mingling-with-the-upper-crust",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

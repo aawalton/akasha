@@ -10,9 +10,13 @@ export const godOfTrash0226226WhatLiesBeyondTheLake = {
   ownLength: 2574,
   unit: "words",
   publishedAt: "2025-10-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2717712/226-what-lies-beyond-the-lake",
-  externalId: "2717712",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2717712",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2717712/226-what-lies-beyond-the-lake",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0016Chapter950APersonTheOtherUsedToKnow = {
   unit: "words",
   completedAt: "2026-06-29T19:04:19.653Z",
   publishedAt: "2025-01-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2012160/chapter-950-a-person-the-other-used-to-know",
-  externalId: "2012160",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2012160",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2012160/chapter-950-a-person-the-other-used-to-know",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

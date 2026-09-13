@@ -10,9 +10,13 @@ export const godOfTrash0350350InvestigationStation = {
   ownLength: 1998,
   unit: "words",
   publishedAt: "2026-08-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3814763/350-investigation-station",
-  externalId: "3814763",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3814763",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3814763/350-investigation-station",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

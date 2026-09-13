@@ -10,9 +10,13 @@ export const heWhoFightsWithMonsters0084Chapter1014ASatisfyingDay = {
   ownLength: 2944,
   unit: "words",
   publishedAt: "2026-08-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892843/chapter-1014-a-satisfying-day",
-  externalId: "3892843",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3892843",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892843/chapter-1014-a-satisfying-day",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

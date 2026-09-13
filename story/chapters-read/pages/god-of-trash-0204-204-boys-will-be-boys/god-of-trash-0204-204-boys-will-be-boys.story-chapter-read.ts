@@ -10,9 +10,13 @@ export const godOfTrash0204204BoysWillBeBoys = {
   ownLength: 1930,
   unit: "words",
   publishedAt: "2025-10-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2646638/204-boys-will-be-boys",
-  externalId: "2646638",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2646638",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2646638/204-boys-will-be-boys",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

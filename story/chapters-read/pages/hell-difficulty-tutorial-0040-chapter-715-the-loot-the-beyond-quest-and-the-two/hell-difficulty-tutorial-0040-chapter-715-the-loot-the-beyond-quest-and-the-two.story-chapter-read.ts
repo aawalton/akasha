@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0040Chapter715TheLootTheBeyondQuestAndTheTwo 
   ownLength: 2634,
   unit: "words",
   publishedAt: "2025-12-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2860003/chapter-715-the-loot-the-beyond-quest-and-the",
-  externalId: "2860003",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2860003",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2860003/chapter-715-the-loot-the-beyond-quest-and-the",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash0310310TakeABreak = {
   ownLength: 1670,
   unit: "words",
   publishedAt: "2026-05-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3392009/310-take-a-break",
-  externalId: "3392009",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3392009",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3392009/310-take-a-break",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

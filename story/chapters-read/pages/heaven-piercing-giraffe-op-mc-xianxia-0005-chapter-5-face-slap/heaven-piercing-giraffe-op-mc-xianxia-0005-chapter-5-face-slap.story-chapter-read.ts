@@ -10,9 +10,13 @@ export const heavenPiercingGiraffeOpMcXianxia0005Chapter5FaceSlap = {
   ownLength: 2240,
   unit: "words",
   publishedAt: "2026-06-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3605441/chapter-5-face-slap",
-  externalId: "3605441",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3605441",
+      externalLink:
+        "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3605441/chapter-5-face-slap",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

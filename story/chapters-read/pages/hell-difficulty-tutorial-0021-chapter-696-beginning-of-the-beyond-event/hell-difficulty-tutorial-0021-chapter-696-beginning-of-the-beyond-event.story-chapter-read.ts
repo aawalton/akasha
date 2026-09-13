@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0021Chapter696BeginningOfTheBeyondEvent = {
   ownLength: 2013,
   unit: "words",
   publishedAt: "2025-11-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2787018/chapter-696-beginning-of-the-beyond-event",
-  externalId: "2787018",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2787018",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2787018/chapter-696-beginning-of-the-beyond-event",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

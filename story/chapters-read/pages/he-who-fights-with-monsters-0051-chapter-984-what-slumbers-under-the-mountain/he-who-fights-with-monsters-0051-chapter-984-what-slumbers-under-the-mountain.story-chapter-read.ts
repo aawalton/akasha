@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0051Chapter984WhatSlumbersUnderTheMountain =
   unit: "words",
   completedAt: "2026-06-29T19:05:38.374Z",
   publishedAt: "2026-02-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3075942/chapter-984-what-slumbers-under-the-mountain",
-  externalId: "3075942",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3075942",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3075942/chapter-984-what-slumbers-under-the-mountain",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

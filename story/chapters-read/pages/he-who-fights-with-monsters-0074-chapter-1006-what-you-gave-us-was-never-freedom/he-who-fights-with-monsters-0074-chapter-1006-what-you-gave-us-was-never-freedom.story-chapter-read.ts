@@ -10,9 +10,13 @@ export const heWhoFightsWithMonsters0074Chapter1006WhatYouGaveUsWasNeverFreedom 
   ownLength: 2306,
   unit: "words",
   publishedAt: "2026-06-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3531708/chapter-1006-what-you-gave-us-was-never-freedom",
-  externalId: "3531708",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3531708",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3531708/chapter-1006-what-you-gave-us-was-never-freedom",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

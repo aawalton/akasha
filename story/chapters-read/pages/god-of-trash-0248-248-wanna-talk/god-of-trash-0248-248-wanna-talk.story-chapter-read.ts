@@ -10,9 +10,13 @@ export const godOfTrash0248248WannaTalk = {
   ownLength: 1707,
   unit: "words",
   publishedAt: "2025-12-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2851094/248-wanna-talk",
-  externalId: "2851094",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2851094",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2851094/248-wanna-talk",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0033Chapter966ACulturalExperience = {
   unit: "words",
   completedAt: "2026-06-29T19:04:59.924Z",
   publishedAt: "2025-02-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2081671/chapter-966-a-cultural-experience",
-  externalId: "2081671",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2081671",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2081671/chapter-966-a-cultural-experience",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

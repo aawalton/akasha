@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0031Chapter964ExpandingHisInfluence = {
   unit: "words",
   completedAt: "2026-06-29T19:04:51.719Z",
   publishedAt: "2025-02-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2073269/chapter-964-expanding-his-influence",
-  externalId: "2073269",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2073269",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2073269/chapter-964-expanding-his-influence",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

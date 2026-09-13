@@ -10,9 +10,13 @@ export const godOfTrash0250250ForScience = {
   ownLength: 1993,
   unit: "words",
   publishedAt: "2025-12-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2863001/250-for-science",
-  externalId: "2863001",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2863001",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2863001/250-for-science",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

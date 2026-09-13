@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0020Chapter953PerfectHumanoidSpecimens = {
   unit: "words",
   completedAt: "2026-06-29T19:04:28.419Z",
   publishedAt: "2025-01-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2024617/chapter-953-perfect-humanoid-specimens",
-  externalId: "2024617",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2024617",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2024617/chapter-953-perfect-humanoid-specimens",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0025Chapter958ALotHarderThanAnticipated = {
   unit: "words",
   completedAt: "2026-06-29T19:04:39.180Z",
   publishedAt: "2025-02-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2046231/chapter-958-a-lot-harder-than-anticipated",
-  externalId: "2046231",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2046231",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2046231/chapter-958-a-lot-harder-than-anticipated",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

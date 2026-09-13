@@ -10,9 +10,13 @@ export const godOfTrash0272272HappyWifeHappyLife = {
   ownLength: 1980,
   unit: "words",
   publishedAt: "2026-02-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3030121/272-happy-wife-happy-life",
-  externalId: "3030121",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3030121",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3030121/272-happy-wife-happy-life",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

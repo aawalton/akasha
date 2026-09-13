@@ -10,9 +10,13 @@ export const godOfTrash0349349AcquiringTheBook = {
   ownLength: 2176,
   unit: "words",
   publishedAt: "2026-08-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3805727/349-acquiring-the-book",
-  externalId: "3805727",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3805727",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3805727/349-acquiring-the-book",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash0320320TrainingPicksYou = {
   ownLength: 2032,
   unit: "words",
   publishedAt: "2026-06-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3498191/320-training-picks-you",
-  externalId: "3498191",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3498191",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3498191/320-training-picks-you",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

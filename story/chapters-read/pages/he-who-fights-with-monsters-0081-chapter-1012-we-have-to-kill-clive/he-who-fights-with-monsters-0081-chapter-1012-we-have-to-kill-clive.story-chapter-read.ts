@@ -10,9 +10,13 @@ export const heWhoFightsWithMonsters0081Chapter1012WeHaveToKillClive = {
   ownLength: 2615,
   unit: "words",
   publishedAt: "2026-06-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3609819/chapter-1012-we-have-to-kill-clive",
-  externalId: "3609819",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3609819",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3609819/chapter-1012-we-have-to-kill-clive",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

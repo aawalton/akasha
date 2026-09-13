@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0022Chapter697ManFromTheEarth = {
   ownLength: 2075,
   unit: "words",
   publishedAt: "2025-11-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2790276/chapter-697-man-from-the-earth",
-  externalId: "2790276",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2790276",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2790276/chapter-697-man-from-the-earth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

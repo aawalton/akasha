@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0053Chapter728TheMostBeautifulWomanToEverLive
   ownLength: 2190,
   unit: "words",
   publishedAt: "2026-01-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2940428/chapter-728-the-most-beautiful-woman-to-ever-live",
-  externalId: "2940428",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2940428",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2940428/chapter-728-the-most-beautiful-woman-to-ever-live",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

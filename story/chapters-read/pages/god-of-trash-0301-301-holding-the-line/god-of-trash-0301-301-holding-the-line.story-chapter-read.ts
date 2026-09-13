@@ -10,9 +10,13 @@ export const godOfTrash0301301HoldingTheLine = {
   ownLength: 1703,
   unit: "words",
   publishedAt: "2026-04-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3286806/301-holding-the-line",
-  externalId: "3286806",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3286806",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3286806/301-holding-the-line",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

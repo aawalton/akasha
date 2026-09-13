@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0029Chapter962IKnowWhatYouAre = {
   unit: "words",
   completedAt: "2026-06-29T19:04:47.495Z",
   publishedAt: "2025-02-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2063555/chapter-962-i-know-what-you-are",
-  externalId: "2063555",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2063555",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2063555/chapter-962-i-know-what-you-are",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

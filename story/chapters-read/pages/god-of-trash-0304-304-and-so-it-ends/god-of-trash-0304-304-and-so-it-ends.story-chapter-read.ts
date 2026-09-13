@@ -10,9 +10,13 @@ export const godOfTrash0304304AndSoItEnds = {
   ownLength: 2082,
   unit: "words",
   publishedAt: "2026-04-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3314568/304-and-so-it-ends",
-  externalId: "3314568",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3314568",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3314568/304-and-so-it-ends",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

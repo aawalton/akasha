@@ -7,12 +7,16 @@ export const heavenPiercingGiraffeOpMcXianxia0031Chapter31Deal = {
   position: 31,
   publishedAt: "2026-09-11",
   unit: "words",
-  externalId: "3941681",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3941681",
+      externalLink:
+        "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3941681/chapter-31-deal",
+    },
+  ],
   title: "Chapter 31: Deal",
   story: "story-read/heaven-piercing-giraffe-op-mc-xianxia",
   ownLength: 1577,
-  externalLink:
-    "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3941681/chapter-31-deal",
   prose: "txt",
 } as const satisfies StoryChapterRead

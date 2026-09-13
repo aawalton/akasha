@@ -10,9 +10,13 @@ export const heWhoFightsWithMonsters0094Chapter1024TheNextTimeWeMeet = {
   ownLength: 3961,
   unit: "words",
   publishedAt: "2026-08-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892854/chapter-1024-the-next-time-we-meet",
-  externalId: "3892854",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3892854",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892854/chapter-1024-the-next-time-we-meet",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

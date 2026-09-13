@@ -10,9 +10,13 @@ export const godOfTrash0321321YouThinkYouCanLeave = {
   ownLength: 1929,
   unit: "words",
   publishedAt: "2026-06-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3511614/321-you-think-you-can-leave",
-  externalId: "3511614",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3511614",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3511614/321-you-think-you-can-leave",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

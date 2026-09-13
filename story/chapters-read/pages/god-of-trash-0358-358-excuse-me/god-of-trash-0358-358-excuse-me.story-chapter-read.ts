@@ -10,9 +10,13 @@ export const godOfTrash0358358ExcuseMe = {
   ownLength: 2045,
   unit: "words",
   publishedAt: "2026-09-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3901811/358-excuse-me",
-  externalId: "3901811",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3901811",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3901811/358-excuse-me",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

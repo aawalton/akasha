@@ -10,9 +10,13 @@ export const godOfTrash0231231GoDirectlyToHell = {
   ownLength: 1979,
   unit: "words",
   publishedAt: "2025-11-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2735708/231-go-directly-to-hell",
-  externalId: "2735708",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2735708",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2735708/231-go-directly-to-hell",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

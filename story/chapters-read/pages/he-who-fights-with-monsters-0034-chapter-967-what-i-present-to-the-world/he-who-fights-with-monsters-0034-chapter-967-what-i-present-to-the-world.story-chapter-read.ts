@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0034Chapter967WhatIPresentToTheWorld = {
   unit: "words",
   completedAt: "2026-06-29T19:05:01.975Z",
   publishedAt: "2025-03-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2101943/chapter-967-what-i-present-to-the-world",
-  externalId: "2101943",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2101943",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2101943/chapter-967-what-i-present-to-the-world",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

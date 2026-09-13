@@ -10,9 +10,13 @@ export const heWhoFightsWithMonsters0071Chapter1003StareDownTheDevil = {
   ownLength: 2945,
   unit: "words",
   publishedAt: "2026-06-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3498789/chapter-1003-stare-down-the-devil",
-  externalId: "3498789",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3498789",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3498789/chapter-1003-stare-down-the-devil",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

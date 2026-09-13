@@ -10,9 +10,13 @@ export const godOfTrash0242242GettingAway = {
   ownLength: 1997,
   unit: "words",
   publishedAt: "2025-12-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2810487/242-getting-away",
-  externalId: "2810487",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2810487",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2810487/242-getting-away",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const heWhoFightsWithMonsters0085Chapter1015AFightShesAlreadyWon = {
   ownLength: 2619,
   unit: "words",
   publishedAt: "2026-08-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892844/chapter-1015-a-fight-shes-already-won",
-  externalId: "3892844",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3892844",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892844/chapter-1015-a-fight-shes-already-won",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

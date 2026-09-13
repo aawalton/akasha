@@ -10,9 +10,13 @@ export const godOfTrash0267267HeKnows = {
   ownLength: 2053,
   unit: "words",
   publishedAt: "2026-01-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2989065/267-he-knows",
-  externalId: "2989065",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2989065",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2989065/267-he-knows",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

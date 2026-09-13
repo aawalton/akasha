@@ -10,9 +10,13 @@ export const godOfTrash0314314MenInviteYouToTheirPrivateQuartersFor = {
   ownLength: 1979,
   unit: "words",
   publishedAt: "2026-05-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3433429/314-men-invite-you-to-their-private-quarters-for",
-  externalId: "3433429",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3433429",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3433429/314-men-invite-you-to-their-private-quarters-for",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

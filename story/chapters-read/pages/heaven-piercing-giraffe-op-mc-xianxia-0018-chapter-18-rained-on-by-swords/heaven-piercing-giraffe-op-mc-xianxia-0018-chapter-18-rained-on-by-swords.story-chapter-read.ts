@@ -10,9 +10,13 @@ export const heavenPiercingGiraffeOpMcXianxia0018Chapter18RainedOnBySwords = {
   ownLength: 1739,
   unit: "words",
   publishedAt: "2026-07-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3691679/chapter-18-rained-on-by-swords",
-  externalId: "3691679",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3691679",
+      externalLink:
+        "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3691679/chapter-18-rained-on-by-swords",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

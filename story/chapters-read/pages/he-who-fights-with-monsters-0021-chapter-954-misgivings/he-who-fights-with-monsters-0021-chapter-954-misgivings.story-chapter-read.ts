@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0021Chapter954Misgivings = {
   unit: "words",
   completedAt: "2026-06-29T19:04:30.396Z",
   publishedAt: "2025-01-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2028384/chapter-954-misgivings",
-  externalId: "2028384",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2028384",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2028384/chapter-954-misgivings",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

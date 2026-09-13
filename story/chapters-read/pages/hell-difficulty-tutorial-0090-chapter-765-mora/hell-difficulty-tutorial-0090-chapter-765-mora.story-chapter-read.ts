@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0090Chapter765Mora = {
   ownLength: 2472,
   unit: "words",
   publishedAt: "2026-03-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3120581/chapter-765-mora",
-  externalId: "3120581",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3120581",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3120581/chapter-765-mora",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

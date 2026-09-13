@@ -10,9 +10,13 @@ export const godOfTrash0334334ChannelingAnExpert = {
   ownLength: 2260,
   unit: "words",
   publishedAt: "2026-07-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3650202/334-channeling-an-expert",
-  externalId: "3650202",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3650202",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3650202/334-channeling-an-expert",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

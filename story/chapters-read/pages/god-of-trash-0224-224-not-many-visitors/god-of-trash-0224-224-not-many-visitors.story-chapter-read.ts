@@ -10,9 +10,13 @@ export const godOfTrash0224224NotManyVisitors = {
   ownLength: 1957,
   unit: "words",
   publishedAt: "2025-10-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2712333/224-not-many-visitors",
-  externalId: "2712333",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2712333",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2712333/224-not-many-visitors",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

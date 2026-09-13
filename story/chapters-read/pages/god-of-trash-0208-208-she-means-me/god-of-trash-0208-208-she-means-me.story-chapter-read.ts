@@ -10,9 +10,13 @@ export const godOfTrash0208208SheMeansMe = {
   ownLength: 2660,
   unit: "words",
   publishedAt: "2025-10-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2658954/208-she-means-me",
-  externalId: "2658954",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2658954",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2658954/208-she-means-me",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

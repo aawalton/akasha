@@ -10,9 +10,13 @@ export const godOfTrash0274274CantFindABetterMan = {
   ownLength: 2357,
   unit: "words",
   publishedAt: "2026-02-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3051611/274-cant-find-a-better-man",
-  externalId: "3051611",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3051611",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3051611/274-cant-find-a-better-man",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

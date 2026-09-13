@@ -10,9 +10,13 @@ export const heWhoFightsWithMonsters0087Chapter1017ARoomFullOfHands = {
   ownLength: 3179,
   unit: "words",
   publishedAt: "2026-08-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892846/chapter-1017-a-room-full-of-hands",
-  externalId: "3892846",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3892846",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892846/chapter-1017-a-room-full-of-hands",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

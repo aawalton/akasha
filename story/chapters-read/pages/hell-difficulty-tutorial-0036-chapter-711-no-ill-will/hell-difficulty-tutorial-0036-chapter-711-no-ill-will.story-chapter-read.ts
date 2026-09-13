@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0036Chapter711NoIllWill = {
   ownLength: 2115,
   unit: "words",
   publishedAt: "2025-12-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2848256/chapter-711-no-ill-will",
-  externalId: "2848256",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2848256",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2848256/chapter-711-no-ill-will",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0030Chapter705AMess = {
   ownLength: 2227,
   unit: "words",
   publishedAt: "2025-12-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2819463/chapter-705-a-mess",
-  externalId: "2819463",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2819463",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2819463/chapter-705-a-mess",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

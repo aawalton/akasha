@@ -10,9 +10,13 @@ export const godOfTrash0236236FollowingTheTrails = {
   ownLength: 2298,
   unit: "words",
   publishedAt: "2025-11-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2769966/236-following-the-trails",
-  externalId: "2769966",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2769966",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2769966/236-following-the-trails",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0035Chapter968ABriefButFirmReminder = {
   unit: "words",
   completedAt: "2026-06-29T19:05:04.370Z",
   publishedAt: "2025-03-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2106488/chapter-968-a-brief-but-firm-reminder",
-  externalId: "2106488",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2106488",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2106488/chapter-968-a-brief-but-firm-reminder",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

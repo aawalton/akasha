@@ -10,9 +10,13 @@ export const godOfTrash0329329BreakingThrough = {
   ownLength: 2041,
   unit: "words",
   publishedAt: "2026-06-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3595883/329-breaking-through",
-  externalId: "3595883",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3595883",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3595883/329-breaking-through",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0001Chapter1StrangeBusiness = {
   unit: "words",
   completedAt: "2026-06-29T19:03:48.313Z",
   publishedAt: "2019-07-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/386590/chapter-1-strange-business",
-  externalId: "386590",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "386590",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/386590/chapter-1-strange-business",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

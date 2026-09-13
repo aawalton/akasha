@@ -10,9 +10,13 @@ export const godOfTrash0216216YouveRealized = {
   ownLength: 2043,
   unit: "words",
   publishedAt: "2025-10-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2692010/216-youve-realized",
-  externalId: "2692010",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2692010",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2692010/216-youve-realized",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

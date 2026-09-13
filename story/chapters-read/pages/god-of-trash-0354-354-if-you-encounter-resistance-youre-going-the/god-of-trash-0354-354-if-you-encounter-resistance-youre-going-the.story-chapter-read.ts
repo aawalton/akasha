@@ -10,9 +10,13 @@ export const godOfTrash0354354IfYouEncounterResistanceYoureGoingThe = {
   ownLength: 2180,
   unit: "words",
   publishedAt: "2026-08-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3860447/354-if-you-encounter-resistance-youre-going-the",
-  externalId: "3860447",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3860447",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3860447/354-if-you-encounter-resistance-youre-going-the",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

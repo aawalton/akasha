@@ -10,9 +10,13 @@ export const godOfTrash0347347HiImYourNewGod = {
   ownLength: 1987,
   unit: "words",
   publishedAt: "2026-08-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3783933/347-hi-im-your-new-god",
-  externalId: "3783933",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3783933",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3783933/347-hi-im-your-new-god",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

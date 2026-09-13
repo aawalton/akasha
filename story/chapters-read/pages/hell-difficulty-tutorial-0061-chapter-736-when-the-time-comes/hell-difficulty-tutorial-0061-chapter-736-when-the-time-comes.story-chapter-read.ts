@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0061Chapter736WhenTheTimeComes = {
   ownLength: 2379,
   unit: "words",
   publishedAt: "2026-01-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2978963/chapter-736-when-the-time-comes",
-  externalId: "2978963",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2978963",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2978963/chapter-736-when-the-time-comes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

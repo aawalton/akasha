@@ -10,9 +10,13 @@ export const godOfTrash0232232IntoTheGreatFrozenNorth = {
   ownLength: 1953,
   unit: "words",
   publishedAt: "2025-11-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2741583/232-into-the-great-frozen-north",
-  externalId: "2741583",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2741583",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2741583/232-into-the-great-frozen-north",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0103Chapter778DangerZones = {
   ownLength: 2170,
   unit: "words",
   publishedAt: "2026-03-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3189794/chapter-778-danger-zones",
-  externalId: "3189794",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3189794",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3189794/chapter-778-danger-zones",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

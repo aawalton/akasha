@@ -10,9 +10,13 @@ export const godOfTrash0356356HaltPayForYourCrimes = {
   ownLength: 2096,
   unit: "words",
   publishedAt: "2026-08-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3878559/356-halt-pay-for-your-crimes",
-  externalId: "3878559",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3878559",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3878559/356-halt-pay-for-your-crimes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

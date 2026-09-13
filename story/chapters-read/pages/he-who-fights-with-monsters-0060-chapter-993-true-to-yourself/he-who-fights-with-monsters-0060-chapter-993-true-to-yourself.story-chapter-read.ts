@@ -10,9 +10,13 @@ export const heWhoFightsWithMonsters0060Chapter993TrueToYourself = {
   ownLength: 2325,
   unit: "words",
   publishedAt: "2026-03-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3174959/chapter-993-true-to-yourself",
-  externalId: "3174959",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3174959",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3174959/chapter-993-true-to-yourself",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

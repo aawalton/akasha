@@ -10,9 +10,13 @@ export const heWhoFightsWithMonsters0059Chapter992BattleOfThePlants = {
   ownLength: 2457,
   unit: "words",
   publishedAt: "2026-03-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3167219/chapter-992-battle-of-the-plants",
-  externalId: "3167219",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3167219",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3167219/chapter-992-battle-of-the-plants",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

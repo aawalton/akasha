@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0014NotAChapterAnnouncementAprilFoolsDay = {
   ownLength: 381,
   unit: "words",
   publishedAt: "2024-04-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/1576092/not-a-chapter-announcement-april-fools-day",
-  externalId: "1576092",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1576092",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/1576092/not-a-chapter-announcement-april-fools-day",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0114Chapter789TheNewGuildMasterOfThePrimordia
   ownLength: 2619,
   unit: "words",
   publishedAt: "2026-04-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3249558/chapter-789-the-new-guild-master-of-the-primordial",
-  externalId: "3249558",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3249558",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3249558/chapter-789-the-new-guild-master-of-the-primordial",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0038Chapter713PathfinderThane = {
   ownLength: 2353,
   unit: "words",
   publishedAt: "2025-12-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2854432/chapter-713-pathfinder-thane",
-  externalId: "2854432",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2854432",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2854432/chapter-713-pathfinder-thane",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

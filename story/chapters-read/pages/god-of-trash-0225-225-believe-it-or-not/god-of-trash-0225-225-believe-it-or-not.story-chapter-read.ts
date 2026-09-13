@@ -10,9 +10,13 @@ export const godOfTrash0225225BelieveItOrNot = {
   ownLength: 1879,
   unit: "words",
   publishedAt: "2025-10-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2715156/225-believe-it-or-not",
-  externalId: "2715156",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2715156",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2715156/225-believe-it-or-not",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

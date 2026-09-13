@@ -10,9 +10,13 @@ export const godOfTrash0328328IntoTheHole = {
   ownLength: 2510,
   unit: "words",
   publishedAt: "2026-06-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3586049/328-into-the-hole",
-  externalId: "3586049",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3586049",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3586049/328-into-the-hole",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const heavenPiercingGiraffeOpMcXianxia0013Chapter13Fall = {
   ownLength: 1768,
   unit: "words",
   publishedAt: "2026-07-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3664209/chapter-13-fall",
-  externalId: "3664209",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3664209",
+      externalLink:
+        "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3664209/chapter-13-fall",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0022Chapter955TheUnadulteratedJason = {
   unit: "words",
   completedAt: "2026-06-29T19:04:32.678Z",
   publishedAt: "2025-01-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2033422/chapter-955-the-unadulterated-jason",
-  externalId: "2033422",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2033422",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2033422/chapter-955-the-unadulterated-jason",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

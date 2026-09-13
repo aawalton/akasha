@@ -10,9 +10,13 @@ export const godOfTrash0317317ThingsAtTheBackOfTheRefrigeratorAre = {
   ownLength: 2411,
   unit: "words",
   publishedAt: "2026-05-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3466641/317-things-at-the-back-of-the-refrigerator-are",
-  externalId: "3466641",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3466641",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3466641/317-things-at-the-back-of-the-refrigerator-are",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

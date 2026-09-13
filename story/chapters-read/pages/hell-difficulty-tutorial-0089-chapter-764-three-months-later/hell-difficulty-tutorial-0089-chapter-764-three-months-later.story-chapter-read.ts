@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0089Chapter764ThreeMonthsLater = {
   ownLength: 2306,
   unit: "words",
   publishedAt: "2026-03-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3117379/chapter-764-three-months-later",
-  externalId: "3117379",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3117379",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3117379/chapter-764-three-months-later",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

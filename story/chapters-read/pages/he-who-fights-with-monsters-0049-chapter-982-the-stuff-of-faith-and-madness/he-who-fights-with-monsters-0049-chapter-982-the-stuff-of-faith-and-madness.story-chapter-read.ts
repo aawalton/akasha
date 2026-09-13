@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0049Chapter982TheStuffOfFaithAndMadness = {
   unit: "words",
   completedAt: "2026-06-29T19:05:34.080Z",
   publishedAt: "2026-02-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3061000/chapter-982-the-stuff-of-faith-and-madness",
-  externalId: "3061000",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3061000",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3061000/chapter-982-the-stuff-of-faith-and-madness",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

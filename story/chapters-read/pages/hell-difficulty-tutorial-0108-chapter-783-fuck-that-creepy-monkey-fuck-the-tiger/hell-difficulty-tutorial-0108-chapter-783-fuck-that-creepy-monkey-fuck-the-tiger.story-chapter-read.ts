@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0108Chapter783FuckThatCreepyMonkeyFuckTheTige
   ownLength: 2183,
   unit: "words",
   publishedAt: "2026-03-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3216010/chapter-783-fuck-that-creepy-monkey-fuck-the-tiger",
-  externalId: "3216010",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3216010",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3216010/chapter-783-fuck-that-creepy-monkey-fuck-the-tiger",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

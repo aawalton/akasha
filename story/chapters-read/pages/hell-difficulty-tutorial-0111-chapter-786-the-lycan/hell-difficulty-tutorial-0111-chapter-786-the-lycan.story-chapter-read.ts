@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0111Chapter786TheLycan = {
   ownLength: 2489,
   unit: "words",
   publishedAt: "2026-04-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3236389/chapter-786-the-lycan",
-  externalId: "3236389",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3236389",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3236389/chapter-786-the-lycan",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

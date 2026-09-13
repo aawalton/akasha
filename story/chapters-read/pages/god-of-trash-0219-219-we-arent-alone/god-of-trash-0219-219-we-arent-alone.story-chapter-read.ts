@@ -10,9 +10,13 @@ export const godOfTrash0219219WeArentAlone = {
   ownLength: 2001,
   unit: "words",
   publishedAt: "2025-10-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2699571/219-we-arent-alone",
-  externalId: "2699571",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2699571",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2699571/219-we-arent-alone",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

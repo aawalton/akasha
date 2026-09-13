@@ -10,9 +10,13 @@ export const godOfTrash0264264TheDarkOfTheEarth = {
   ownLength: 1920,
   unit: "words",
   publishedAt: "2026-01-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2965727/264-the-dark-of-the-earth",
-  externalId: "2965727",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2965727",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2965727/264-the-dark-of-the-earth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

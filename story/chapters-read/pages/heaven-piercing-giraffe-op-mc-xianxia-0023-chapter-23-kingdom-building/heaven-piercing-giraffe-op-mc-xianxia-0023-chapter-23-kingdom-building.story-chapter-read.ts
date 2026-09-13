@@ -10,9 +10,13 @@ export const heavenPiercingGiraffeOpMcXianxia0023Chapter23KingdomBuilding = {
   ownLength: 1957,
   unit: "words",
   publishedAt: "2026-08-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3766032/chapter-23-kingdom-building",
-  externalId: "3766032",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3766032",
+      externalLink:
+        "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3766032/chapter-23-kingdom-building",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

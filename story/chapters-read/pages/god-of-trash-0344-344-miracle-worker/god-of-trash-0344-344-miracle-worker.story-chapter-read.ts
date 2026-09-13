@@ -10,9 +10,13 @@ export const godOfTrash0344344MiracleWorker = {
   ownLength: 2393,
   unit: "words",
   publishedAt: "2026-07-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3752489/344-miracle-worker",
-  externalId: "3752489",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3752489",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3752489/344-miracle-worker",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

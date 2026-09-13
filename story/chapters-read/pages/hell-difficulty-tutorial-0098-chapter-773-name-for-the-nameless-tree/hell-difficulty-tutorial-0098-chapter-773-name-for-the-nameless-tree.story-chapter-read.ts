@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0098Chapter773NameForTheNamelessTree = {
   ownLength: 2382,
   unit: "words",
   publishedAt: "2026-03-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3163649/chapter-773-name-for-the-nameless-tree",
-  externalId: "3163649",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3163649",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3163649/chapter-773-name-for-the-nameless-tree",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

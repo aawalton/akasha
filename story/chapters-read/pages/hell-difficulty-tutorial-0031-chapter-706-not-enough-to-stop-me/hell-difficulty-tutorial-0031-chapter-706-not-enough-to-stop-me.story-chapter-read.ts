@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0031Chapter706NotEnoughToStopMe = {
   ownLength: 3145,
   unit: "words",
   publishedAt: "2025-12-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2828164/chapter-706-not-enough-to-stop-me",
-  externalId: "2828164",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2828164",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2828164/chapter-706-not-enough-to-stop-me",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

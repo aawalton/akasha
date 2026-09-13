@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0042Chapter717WhatsThisQuestAbout = {
   ownLength: 2152,
   unit: "words",
   publishedAt: "2025-12-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2871582/chapter-717-whats-this-quest-about",
-  externalId: "2871582",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2871582",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2871582/chapter-717-whats-this-quest-about",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

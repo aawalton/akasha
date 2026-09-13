@@ -10,9 +10,13 @@ export const godOfTrash0357357AnticapitalistsIncorporated = {
   ownLength: 1989,
   unit: "words",
   publishedAt: "2026-08-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3885325/357-anticapitalists-incorporated",
-  externalId: "3885325",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3885325",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3885325/357-anticapitalists-incorporated",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

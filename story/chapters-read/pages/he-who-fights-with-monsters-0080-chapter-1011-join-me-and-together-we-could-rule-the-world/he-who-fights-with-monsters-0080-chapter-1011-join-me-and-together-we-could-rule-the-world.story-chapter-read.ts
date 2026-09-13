@@ -10,9 +10,13 @@ export const heWhoFightsWithMonsters0080Chapter1011JoinMeAndTogetherWeCouldRuleT
   ownLength: 2537,
   unit: "words",
   publishedAt: "2026-06-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3596447/chapter-1011-join-me-and-together-we-could-rule",
-  externalId: "3596447",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3596447",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3596447/chapter-1011-join-me-and-together-we-could-rule",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

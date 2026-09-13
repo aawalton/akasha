@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0044Chapter977GettingComplicatedFast = {
   unit: "words",
   completedAt: "2026-06-29T19:05:23.248Z",
   publishedAt: "2026-02-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3013284/chapter-977-getting-complicated-fast",
-  externalId: "3013284",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3013284",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3013284/chapter-977-getting-complicated-fast",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

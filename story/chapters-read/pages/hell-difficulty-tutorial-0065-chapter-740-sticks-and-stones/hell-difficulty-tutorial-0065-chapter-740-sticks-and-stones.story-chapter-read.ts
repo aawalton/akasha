@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0065Chapter740SticksAndStones = {
   ownLength: 2115,
   unit: "words",
   publishedAt: "2026-01-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2992742/chapter-740-sticks-and-stones",
-  externalId: "2992742",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2992742",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2992742/chapter-740-sticks-and-stones",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

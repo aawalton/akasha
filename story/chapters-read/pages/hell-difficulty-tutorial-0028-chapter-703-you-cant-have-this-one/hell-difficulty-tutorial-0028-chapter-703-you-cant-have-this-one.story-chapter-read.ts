@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0028Chapter703YouCantHaveThisOne = {
   ownLength: 2018,
   unit: "words",
   publishedAt: "2025-12-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2813440/chapter-703-you-cant-have-this-one",
-  externalId: "2813440",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2813440",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2813440/chapter-703-you-cant-have-this-one",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

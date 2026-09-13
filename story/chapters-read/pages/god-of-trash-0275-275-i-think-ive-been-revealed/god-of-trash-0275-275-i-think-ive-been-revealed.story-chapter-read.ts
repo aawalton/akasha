@@ -10,9 +10,13 @@ export const godOfTrash0275275IThinkIveBeenRevealed = {
   ownLength: 2185,
   unit: "words",
   publishedAt: "2026-02-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3060847/275-i-think-ive-been-revealed",
-  externalId: "3060847",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3060847",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3060847/275-i-think-ive-been-revealed",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

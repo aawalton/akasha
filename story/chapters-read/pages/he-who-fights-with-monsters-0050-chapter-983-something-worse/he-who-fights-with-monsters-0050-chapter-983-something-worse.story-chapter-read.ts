@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0050Chapter983SomethingWorse = {
   unit: "words",
   completedAt: "2026-06-29T19:05:36.272Z",
   publishedAt: "2026-02-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3069422/chapter-983-something-worse",
-  externalId: "3069422",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3069422",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3069422/chapter-983-something-worse",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

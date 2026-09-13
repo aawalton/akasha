@@ -10,9 +10,13 @@ export const godOfTrash0338338DisposalSquad = {
   ownLength: 1895,
   unit: "words",
   publishedAt: "2026-07-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3690875/338-disposal-squad",
-  externalId: "3690875",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3690875",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3690875/338-disposal-squad",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

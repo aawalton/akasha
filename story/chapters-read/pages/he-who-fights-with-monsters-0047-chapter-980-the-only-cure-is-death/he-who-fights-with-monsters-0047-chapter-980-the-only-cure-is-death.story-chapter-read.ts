@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0047Chapter980TheOnlyCureIsDeath = {
   unit: "words",
   completedAt: "2026-06-29T19:05:29.843Z",
   publishedAt: "2026-02-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3038100/chapter-980-the-only-cure-is-death",
-  externalId: "3038100",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3038100",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3038100/chapter-980-the-only-cure-is-death",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

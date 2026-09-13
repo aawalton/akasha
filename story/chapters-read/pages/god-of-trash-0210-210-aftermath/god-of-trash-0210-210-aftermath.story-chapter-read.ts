@@ -10,9 +10,13 @@ export const godOfTrash0210210Aftermath = {
   ownLength: 2009,
   unit: "words",
   publishedAt: "2025-10-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2661767/210-aftermath",
-  externalId: "2661767",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2661767",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2661767/210-aftermath",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

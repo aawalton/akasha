@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0027Chapter960WhatItWillDoToItself = {
   unit: "words",
   completedAt: "2026-06-29T19:04:43.475Z",
   publishedAt: "2025-02-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2054099/chapter-960-what-it-will-do-to-itself",
-  externalId: "2054099",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2054099",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2054099/chapter-960-what-it-will-do-to-itself",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

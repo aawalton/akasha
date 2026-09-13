@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0076Chapter751OpenChallengeCircuitBegins = {
   ownLength: 3004,
   unit: "words",
   publishedAt: "2026-02-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3057761/chapter-751-open-challenge-circuit-begins",
-  externalId: "3057761",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3057761",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3057761/chapter-751-open-challenge-circuit-begins",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

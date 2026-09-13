@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0030Chapter963MinimumCollateralDamage = {
   unit: "words",
   completedAt: "2026-06-29T19:04:49.553Z",
   publishedAt: "2025-02-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2067628/chapter-963-minimum-collateral-damage",
-  externalId: "2067628",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2067628",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2067628/chapter-963-minimum-collateral-damage",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

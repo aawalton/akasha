@@ -10,9 +10,13 @@ export const godOfTrash0323323DownInTheDepths = {
   ownLength: 1770,
   unit: "words",
   publishedAt: "2026-06-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3530932/323-down-in-the-depths",
-  externalId: "3530932",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3530932",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3530932/323-down-in-the-depths",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash0258258MakeMistakesGetMessy = {
   ownLength: 2078,
   unit: "words",
   publishedAt: "2026-01-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2921359/258-make-mistakes-get-messy",
-  externalId: "2921359",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2921359",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2921359/258-make-mistakes-get-messy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash0305305ASmallFavor = {
   ownLength: 2676,
   unit: "words",
   publishedAt: "2026-04-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3318548/305-a-small-favor",
-  externalId: "3318548",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3318548",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3318548/305-a-small-favor",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

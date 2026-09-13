@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0073Chapter748HowDoYouBecomeAnAbsolute = {
   ownLength: 2272,
   unit: "words",
   publishedAt: "2026-02-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3034506/chapter-748-how-do-you-become-an-absolute",
-  externalId: "3034506",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3034506",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3034506/chapter-748-how-do-you-become-an-absolute",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash0336336ImTheBaaaaadGuy = {
   ownLength: 2141,
   unit: "words",
   publishedAt: "2026-07-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3673308/336-im-the-baaaaad-guy",
-  externalId: "3673308",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3673308",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3673308/336-im-the-baaaaad-guy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0102Chapter777ASilentAcknowledgment = {
   ownLength: 1941,
   unit: "words",
   publishedAt: "2026-03-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3185738/chapter-777-a-silent-acknowledgment",
-  externalId: "3185738",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3185738",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3185738/chapter-777-a-silent-acknowledgment",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

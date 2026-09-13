@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0026Chapter701HeaveHo = {
   ownLength: 2227,
   unit: "words",
   publishedAt: "2025-11-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2807202/chapter-701-heave-ho",
-  externalId: "2807202",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2807202",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2807202/chapter-701-heave-ho",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

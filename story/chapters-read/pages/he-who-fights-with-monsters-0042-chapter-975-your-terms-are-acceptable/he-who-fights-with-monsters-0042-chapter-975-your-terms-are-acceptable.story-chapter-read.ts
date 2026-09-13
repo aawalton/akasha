@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0042Chapter975YourTermsAreAcceptable = {
   unit: "words",
   completedAt: "2026-06-29T19:05:18.860Z",
   publishedAt: "2025-03-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2142509/chapter-975-your-terms-are-acceptable",
-  externalId: "2142509",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2142509",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2142509/chapter-975-your-terms-are-acceptable",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

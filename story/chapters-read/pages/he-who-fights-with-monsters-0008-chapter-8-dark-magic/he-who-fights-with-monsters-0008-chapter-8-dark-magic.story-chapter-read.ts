@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0008Chapter8DarkMagic = {
   unit: "words",
   completedAt: "2026-06-29T19:04:02.824Z",
   publishedAt: "2019-07-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/387361/chapter-8-dark-magic",
-  externalId: "387361",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "387361",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/387361/chapter-8-dark-magic",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

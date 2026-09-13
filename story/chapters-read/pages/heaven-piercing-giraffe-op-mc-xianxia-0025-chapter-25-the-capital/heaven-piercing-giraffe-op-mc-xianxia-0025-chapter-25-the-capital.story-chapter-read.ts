@@ -10,9 +10,13 @@ export const heavenPiercingGiraffeOpMcXianxia0025Chapter25TheCapital = {
   ownLength: 1756,
   unit: "words",
   publishedAt: "2026-08-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3798585/chapter-25-the-capital",
-  externalId: "3798585",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3798585",
+      externalLink:
+        "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3798585/chapter-25-the-capital",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

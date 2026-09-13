@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0045Chapter720GuessWhosBackIdiot = {
   ownLength: 2159,
   unit: "words",
   publishedAt: "2026-01-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2899747/chapter-720-guess-whos-back-idiot",
-  externalId: "2899747",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2899747",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2899747/chapter-720-guess-whos-back-idiot",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

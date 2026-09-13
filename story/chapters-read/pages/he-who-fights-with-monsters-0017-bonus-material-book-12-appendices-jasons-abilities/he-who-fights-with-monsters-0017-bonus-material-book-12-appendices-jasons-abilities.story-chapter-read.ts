@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0017BonusMaterialBook12AppendicesJasonsAbili
   unit: "words",
   completedAt: "2026-06-29T19:04:21.772Z",
   publishedAt: "2025-01-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2012655/bonus-material-book-12-appendices-jasons-abilities",
-  externalId: "2012655",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2012655",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2012655/bonus-material-book-12-appendices-jasons-abilities",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const heavenPiercingGiraffeOpMcXianxia0021Chapter21TheHeavensDivinePunish
   ownLength: 1865,
   unit: "words",
   publishedAt: "2026-07-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3730757/chapter-21-the-heavens-divine-punishment-god-of",
-  externalId: "3730757",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3730757",
+      externalLink:
+        "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3730757/chapter-21-the-heavens-divine-punishment-god-of",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

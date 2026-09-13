@@ -10,9 +10,13 @@ export const godOfTrash0273273BecomingNortonTunk = {
   ownLength: 2166,
   unit: "words",
   publishedAt: "2026-02-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3037909/273-becoming-norton-tunk",
-  externalId: "3037909",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3037909",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3037909/273-becoming-norton-tunk",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

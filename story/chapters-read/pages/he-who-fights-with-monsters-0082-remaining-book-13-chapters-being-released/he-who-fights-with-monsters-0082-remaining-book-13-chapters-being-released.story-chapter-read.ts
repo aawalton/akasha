@@ -10,9 +10,13 @@ export const heWhoFightsWithMonsters0082RemainingBook13ChaptersBeingReleased = {
   ownLength: 313,
   unit: "words",
   publishedAt: "2026-08-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3861473/remaining-book-13-chapters-being-released-september",
-  externalId: "3861473",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3861473",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3861473/remaining-book-13-chapters-being-released-september",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

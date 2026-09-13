@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0035Chapter710TheParty = {
   ownLength: 2253,
   unit: "words",
   publishedAt: "2025-12-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2839974/chapter-710-the-party",
-  externalId: "2839974",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2839974",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2839974/chapter-710-the-party",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

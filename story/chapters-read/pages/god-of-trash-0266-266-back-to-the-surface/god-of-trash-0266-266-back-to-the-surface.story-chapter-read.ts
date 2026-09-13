@@ -10,9 +10,13 @@ export const godOfTrash0266266BackToTheSurface = {
   ownLength: 2235,
   unit: "words",
   publishedAt: "2026-01-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2982907/266-back-to-the-surface",
-  externalId: "2982907",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2982907",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2982907/266-back-to-the-surface",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

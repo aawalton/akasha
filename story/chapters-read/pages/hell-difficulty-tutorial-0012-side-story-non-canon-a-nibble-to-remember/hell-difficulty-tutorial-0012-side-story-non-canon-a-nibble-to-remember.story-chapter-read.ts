@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0012SideStoryNonCanonANibbleToRemember = {
   ownLength: 1072,
   unit: "words",
   publishedAt: "2023-06-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/1237317/side-story-non-canon-a-nibble-to-remember",
-  externalId: "1237317",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1237317",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/1237317/side-story-non-canon-a-nibble-to-remember",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

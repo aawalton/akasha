@@ -10,9 +10,13 @@ export const heavenPiercingGiraffeOpMcXianxia0003Chapter3BrokenInADifferentWay =
   ownLength: 2622,
   unit: "words",
   publishedAt: "2026-06-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3588154/chapter-3-broken-in-a-different-way",
-  externalId: "3588154",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3588154",
+      externalLink:
+        "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3588154/chapter-3-broken-in-a-different-way",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

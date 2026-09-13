@@ -10,9 +10,13 @@ export const godOfTrash0303303TheFinalBattle = {
   ownLength: 2281,
   unit: "words",
   publishedAt: "2026-04-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3306416/303-the-final-battle",
-  externalId: "3306416",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3306416",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3306416/303-the-final-battle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

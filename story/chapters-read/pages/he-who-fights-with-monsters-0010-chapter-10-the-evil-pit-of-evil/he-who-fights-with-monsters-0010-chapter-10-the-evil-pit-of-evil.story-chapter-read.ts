@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0010Chapter10TheEvilPitOfEvil = {
   unit: "words",
   completedAt: "2026-06-29T19:04:06.783Z",
   publishedAt: "2019-08-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/387634/chapter-10-the-evil-pit-of-evil",
-  externalId: "387634",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "387634",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/387634/chapter-10-the-evil-pit-of-evil",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

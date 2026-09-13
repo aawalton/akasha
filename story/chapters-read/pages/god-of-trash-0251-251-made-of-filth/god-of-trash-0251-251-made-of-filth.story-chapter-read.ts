@@ -10,9 +10,13 @@ export const godOfTrash0251251MadeOfFilth = {
   ownLength: 1958,
   unit: "words",
   publishedAt: "2025-12-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2871268/251-made-of-filth",
-  externalId: "2871268",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2871268",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2871268/251-made-of-filth",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

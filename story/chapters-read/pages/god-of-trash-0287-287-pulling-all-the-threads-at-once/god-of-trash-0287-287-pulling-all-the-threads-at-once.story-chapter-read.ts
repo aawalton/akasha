@@ -10,9 +10,13 @@ export const godOfTrash0287287PullingAllTheThreadsAtOnce = {
   ownLength: 2052,
   unit: "words",
   publishedAt: "2026-03-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3159452/287-pulling-all-the-threads-at-once",
-  externalId: "3159452",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3159452",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3159452/287-pulling-all-the-threads-at-once",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

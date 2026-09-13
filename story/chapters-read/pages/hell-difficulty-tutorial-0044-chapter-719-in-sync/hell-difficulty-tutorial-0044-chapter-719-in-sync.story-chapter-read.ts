@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0044Chapter719InSync = {
   ownLength: 2084,
   unit: "words",
   publishedAt: "2025-12-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2877652/chapter-719-in-sync",
-  externalId: "2877652",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2877652",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2877652/chapter-719-in-sync",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

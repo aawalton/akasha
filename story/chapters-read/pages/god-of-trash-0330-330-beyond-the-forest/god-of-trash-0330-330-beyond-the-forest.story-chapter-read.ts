@@ -10,9 +10,13 @@ export const godOfTrash0330330BeyondTheForest = {
   ownLength: 2185,
   unit: "words",
   publishedAt: "2026-06-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3609130/330-beyond-the-forest",
-  externalId: "3609130",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3609130",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3609130/330-beyond-the-forest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

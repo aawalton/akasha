@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0058Chapter733WhiteLightning = {
   ownLength: 2186,
   unit: "words",
   publishedAt: "2026-01-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2962670/chapter-733-white-lightning",
-  externalId: "2962670",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2962670",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2962670/chapter-733-white-lightning",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

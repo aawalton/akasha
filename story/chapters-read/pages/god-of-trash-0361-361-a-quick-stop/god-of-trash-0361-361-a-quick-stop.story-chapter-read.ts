@@ -7,12 +7,16 @@ export const godOfTrash0361361AQuickStop = {
   position: 361,
   publishedAt: "2026-09-09",
   unit: "words",
-  externalId: "3936264",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3936264",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3936264/361-a-quick-stop",
+    },
+  ],
   title: "361. A Quick Stop",
   story: "story-read/god-of-trash",
   ownLength: 2045,
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3936264/361-a-quick-stop",
   prose: "txt",
 } as const satisfies StoryChapterRead

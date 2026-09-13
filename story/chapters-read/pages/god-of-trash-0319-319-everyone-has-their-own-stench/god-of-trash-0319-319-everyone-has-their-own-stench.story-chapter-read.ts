@@ -10,9 +10,13 @@ export const godOfTrash0319319EveryoneHasTheirOwnStench = {
   ownLength: 3203,
   unit: "words",
   publishedAt: "2026-06-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3489064/319-everyone-has-their-own-stench",
-  externalId: "3489064",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3489064",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3489064/319-everyone-has-their-own-stench",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

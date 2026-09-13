@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0055Chapter988IfYouCanTKeepUp = {
   unit: "words",
   completedAt: "2026-06-29T19:05:47.284Z",
   publishedAt: "2026-03-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3109809/chapter-988-if-you-cant-keep-up",
-  externalId: "3109809",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3109809",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3109809/chapter-988-if-you-cant-keep-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

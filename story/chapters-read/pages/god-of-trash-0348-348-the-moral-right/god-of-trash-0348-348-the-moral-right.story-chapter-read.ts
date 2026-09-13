@@ -10,9 +10,13 @@ export const godOfTrash0348348TheMoralRight = {
   ownLength: 1978,
   unit: "words",
   publishedAt: "2026-08-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3797002/348-the-moral-right",
-  externalId: "3797002",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3797002",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3797002/348-the-moral-right",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0059Chapter734Nora = {
   ownLength: 2246,
   unit: "words",
   publishedAt: "2026-01-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2966076/chapter-734-nora",
-  externalId: "2966076",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2966076",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2966076/chapter-734-nora",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

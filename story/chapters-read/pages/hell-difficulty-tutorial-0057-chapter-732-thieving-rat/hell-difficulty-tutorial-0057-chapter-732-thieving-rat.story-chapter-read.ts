@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0057Chapter732ThievingRat = {
   ownLength: 2219,
   unit: "words",
   publishedAt: "2026-01-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2959530/chapter-732-thieving-rat",
-  externalId: "2959530",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2959530",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2959530/chapter-732-thieving-rat",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash0337337WhatsBehindDoorNumberOne = {
   ownLength: 1858,
   unit: "words",
   publishedAt: "2026-07-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3682043/337-whats-behind-door-number-one",
-  externalId: "3682043",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3682043",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3682043/337-whats-behind-door-number-one",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0028Chapter961TheScaryDemigodSide = {
   unit: "words",
   completedAt: "2026-06-29T19:04:45.546Z",
   publishedAt: "2025-02-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2059766/chapter-961-the-scary-demigod-side",
-  externalId: "2059766",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2059766",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2059766/chapter-961-the-scary-demigod-side",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

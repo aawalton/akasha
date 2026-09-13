@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0006Chapter6PotentPotable = {
   unit: "words",
   completedAt: "2026-06-29T19:03:58.708Z",
   publishedAt: "2019-07-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/387065/chapter-6-potent-potable",
-  externalId: "387065",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "387065",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/387065/chapter-6-potent-potable",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

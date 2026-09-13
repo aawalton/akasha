@@ -10,9 +10,13 @@ export const godOfTrash0326326ExperimentationSensation = {
   ownLength: 1859,
   unit: "words",
   publishedAt: "2026-06-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3563127/326-experimentation-sensation",
-  externalId: "3563127",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3563127",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3563127/326-experimentation-sensation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

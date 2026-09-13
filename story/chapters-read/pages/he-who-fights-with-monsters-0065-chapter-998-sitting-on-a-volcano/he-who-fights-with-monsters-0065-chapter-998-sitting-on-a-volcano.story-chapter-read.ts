@@ -10,9 +10,13 @@ export const heWhoFightsWithMonsters0065Chapter998SittingOnAVolcano = {
   ownLength: 2582,
   unit: "words",
   publishedAt: "2026-04-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3220123/chapter-998-sitting-on-a-volcano",
-  externalId: "3220123",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3220123",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3220123/chapter-998-sitting-on-a-volcano",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

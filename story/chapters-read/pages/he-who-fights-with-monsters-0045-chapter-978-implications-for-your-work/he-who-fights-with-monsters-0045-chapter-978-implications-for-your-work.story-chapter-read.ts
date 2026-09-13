@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0045Chapter978ImplicationsForYourWork = {
   unit: "words",
   completedAt: "2026-06-29T19:05:25.463Z",
   publishedAt: "2026-02-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3020259/chapter-978-implications-for-your-work",
-  externalId: "3020259",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3020259",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3020259/chapter-978-implications-for-your-work",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

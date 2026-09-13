@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0012Chapter12SanguineHorror = {
   unit: "words",
   completedAt: "2026-06-29T19:04:10.947Z",
   publishedAt: "2019-08-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/387706/chapter-12-sanguine-horror",
-  externalId: "387706",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "387706",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/387706/chapter-12-sanguine-horror",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

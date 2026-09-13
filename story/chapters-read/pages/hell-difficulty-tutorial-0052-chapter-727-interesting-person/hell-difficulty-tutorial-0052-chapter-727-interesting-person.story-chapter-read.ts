@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0052Chapter727InterestingPerson = {
   ownLength: 2177,
   unit: "words",
   publishedAt: "2026-01-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2937257/chapter-727-interesting-person",
-  externalId: "2937257",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2937257",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2937257/chapter-727-interesting-person",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

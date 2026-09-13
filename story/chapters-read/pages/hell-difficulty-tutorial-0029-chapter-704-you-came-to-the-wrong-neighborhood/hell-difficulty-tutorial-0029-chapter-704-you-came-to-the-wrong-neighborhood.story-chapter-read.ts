@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0029Chapter704YouCameToTheWrongNeighborhood =
   ownLength: 2624,
   unit: "words",
   publishedAt: "2025-12-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2816527/chapter-704-you-came-to-the-wrong-neighborhood",
-  externalId: "2816527",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2816527",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2816527/chapter-704-you-came-to-the-wrong-neighborhood",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

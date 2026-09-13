@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0013Chapter13ThisIsThePartWhereWeStepBack = 
   unit: "words",
   completedAt: "2026-06-29T19:04:13.167Z",
   publishedAt: "2019-08-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/387953/chapter-13-this-is-the-part-where-we-step-back",
-  externalId: "387953",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "387953",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/387953/chapter-13-this-is-the-part-where-we-step-back",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

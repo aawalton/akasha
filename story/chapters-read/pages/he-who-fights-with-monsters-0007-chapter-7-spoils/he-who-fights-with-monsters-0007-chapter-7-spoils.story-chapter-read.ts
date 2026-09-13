@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0007Chapter7Spoils = {
   unit: "words",
   completedAt: "2026-06-29T19:04:00.623Z",
   publishedAt: "2019-07-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/387329/chapter-7-spoils",
-  externalId: "387329",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "387329",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/387329/chapter-7-spoils",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

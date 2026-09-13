@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0105Chapter780ABitOfAProblem = {
   ownLength: 2615,
   unit: "words",
   publishedAt: "2026-03-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3197528/chapter-780-a-bit-of-a-problem",
-  externalId: "3197528",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3197528",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3197528/chapter-780-a-bit-of-a-problem",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

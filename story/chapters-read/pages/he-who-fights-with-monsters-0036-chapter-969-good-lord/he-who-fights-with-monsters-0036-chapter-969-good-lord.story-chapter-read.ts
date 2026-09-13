@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0036Chapter969GoodLord = {
   unit: "words",
   completedAt: "2026-06-29T19:05:06.509Z",
   publishedAt: "2025-03-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2112128/chapter-969-good-lord",
-  externalId: "2112128",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2112128",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2112128/chapter-969-good-lord",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

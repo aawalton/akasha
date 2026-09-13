@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0046Chapter721FundamentalTheoremOfMinions = {
   ownLength: 2448,
   unit: "words",
   publishedAt: "2026-01-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2911977/chapter-721-fundamental-theorem-of-minions",
-  externalId: "2911977",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2911977",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2911977/chapter-721-fundamental-theorem-of-minions",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

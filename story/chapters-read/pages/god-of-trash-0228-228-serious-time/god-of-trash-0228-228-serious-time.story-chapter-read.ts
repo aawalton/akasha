@@ -10,9 +10,13 @@ export const godOfTrash0228228SeriousTime = {
   ownLength: 1956,
   unit: "words",
   publishedAt: "2025-11-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2723849/228-serious-time",
-  externalId: "2723849",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2723849",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2723849/228-serious-time",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

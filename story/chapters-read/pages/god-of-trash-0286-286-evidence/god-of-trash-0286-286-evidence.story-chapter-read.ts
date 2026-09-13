@@ -10,9 +10,13 @@ export const godOfTrash0286286Evidence = {
   ownLength: 2199,
   unit: "words",
   publishedAt: "2026-03-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3148857/286-evidence",
-  externalId: "3148857",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3148857",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3148857/286-evidence",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

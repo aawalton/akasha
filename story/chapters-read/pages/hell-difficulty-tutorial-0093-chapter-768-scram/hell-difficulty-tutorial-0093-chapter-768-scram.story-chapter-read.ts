@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0093Chapter768Scram = {
   ownLength: 2234,
   unit: "words",
   publishedAt: "2026-03-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3138286/chapter-768-scram",
-  externalId: "3138286",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3138286",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3138286/chapter-768-scram",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

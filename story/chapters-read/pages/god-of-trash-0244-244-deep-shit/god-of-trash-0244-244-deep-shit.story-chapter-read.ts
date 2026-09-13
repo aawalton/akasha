@@ -10,9 +10,13 @@ export const godOfTrash0244244DeepShit = {
   ownLength: 1798,
   unit: "words",
   publishedAt: "2025-12-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2821895/244-deep-shit",
-  externalId: "2821895",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2821895",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2821895/244-deep-shit",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

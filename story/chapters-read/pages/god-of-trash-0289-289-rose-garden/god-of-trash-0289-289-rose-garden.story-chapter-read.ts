@@ -10,9 +10,13 @@ export const godOfTrash0289289RoseGarden = {
   ownLength: 2390,
   unit: "words",
   publishedAt: "2026-03-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3174630/289-rose-garden",
-  externalId: "3174630",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3174630",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3174630/289-rose-garden",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

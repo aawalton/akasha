@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0080Chapter755WhereAreYouHeaded = {
   ownLength: 4049,
   unit: "words",
   publishedAt: "2026-02-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3072472/chapter-755-where-are-you-headed",
-  externalId: "3072472",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3072472",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3072472/chapter-755-where-are-you-headed",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const heavenPiercingGiraffeOpMcXianxia0029Chapter29DeathsBride = {
   ownLength: 1571,
   unit: "words",
   publishedAt: "2026-08-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3886969/chapter-29-deaths-bride",
-  externalId: "3886969",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3886969",
+      externalLink:
+        "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3886969/chapter-29-deaths-bride",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

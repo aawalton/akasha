@@ -10,9 +10,13 @@ export const heavenPiercingGiraffeOpMcXianxia0019Chapter19NewSkillAcquired = {
   ownLength: 2379,
   unit: "words",
   publishedAt: "2026-07-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3713539/chapter-19-new-skill-acquired",
-  externalId: "3713539",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3713539",
+      externalLink:
+        "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3713539/chapter-19-new-skill-acquired",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

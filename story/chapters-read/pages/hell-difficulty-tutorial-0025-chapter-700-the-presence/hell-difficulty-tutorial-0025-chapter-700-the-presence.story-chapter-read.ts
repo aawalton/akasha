@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0025Chapter700ThePresence = {
   ownLength: 2966,
   unit: "words",
   publishedAt: "2025-11-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2798911/chapter-700-the-presence",
-  externalId: "2798911",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2798911",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2798911/chapter-700-the-presence",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

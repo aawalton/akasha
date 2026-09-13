@@ -10,9 +10,13 @@ export const godOfTrash0229229TimeToSeeTheLord = {
   ownLength: 1975,
   unit: "words",
   publishedAt: "2025-11-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2726640/229-time-to-see-the-lord",
-  externalId: "2726640",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2726640",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2726640/229-time-to-see-the-lord",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

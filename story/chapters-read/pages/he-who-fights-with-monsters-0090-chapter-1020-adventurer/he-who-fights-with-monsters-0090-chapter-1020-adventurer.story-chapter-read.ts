@@ -10,9 +10,13 @@ export const heWhoFightsWithMonsters0090Chapter1020Adventurer = {
   ownLength: 2641,
   unit: "words",
   publishedAt: "2026-08-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892849/chapter-1020-adventurer",
-  externalId: "3892849",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3892849",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892849/chapter-1020-adventurer",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash0265265TheBottomOfTheMine = {
   ownLength: 2138,
   unit: "words",
   publishedAt: "2026-01-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2972614/265-the-bottom-of-the-mine",
-  externalId: "2972614",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2972614",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2972614/265-the-bottom-of-the-mine",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

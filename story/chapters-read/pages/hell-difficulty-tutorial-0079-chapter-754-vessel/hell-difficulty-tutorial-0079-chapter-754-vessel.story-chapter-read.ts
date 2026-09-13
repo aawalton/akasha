@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0079Chapter754Vessel = {
   ownLength: 2373,
   unit: "words",
   publishedAt: "2026-02-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3069591/chapter-754-vessel",
-  externalId: "3069591",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3069591",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3069591/chapter-754-vessel",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

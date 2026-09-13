@@ -10,9 +10,13 @@ export const godOfTrash0233233AreYouARetainer = {
   ownLength: 2256,
   unit: "words",
   publishedAt: "2025-11-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2749813/233-are-you-a-retainer",
-  externalId: "2749813",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2749813",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2749813/233-are-you-a-retainer",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

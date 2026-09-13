@@ -10,9 +10,13 @@ export const godOfTrash0249249FourPeaksAreBetterThanTwo = {
   ownLength: 1890,
   unit: "words",
   publishedAt: "2025-12-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2857103/249-four-peaks-are-better-than-two",
-  externalId: "2857103",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2857103",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2857103/249-four-peaks-are-better-than-two",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

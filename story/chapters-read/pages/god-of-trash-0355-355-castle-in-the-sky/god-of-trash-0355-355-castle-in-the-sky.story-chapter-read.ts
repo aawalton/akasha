@@ -10,9 +10,13 @@ export const godOfTrash0355355CastleInTheSky = {
   ownLength: 2263,
   unit: "words",
   publishedAt: "2026-08-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3869030/355-castle-in-the-sky",
-  externalId: "3869030",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3869030",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3869030/355-castle-in-the-sky",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

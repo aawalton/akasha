@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0099Chapter774Vegetarian = {
   ownLength: 2384,
   unit: "words",
   publishedAt: "2026-03-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3167373/chapter-774-vegetarian",
-  externalId: "3167373",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3167373",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3167373/chapter-774-vegetarian",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

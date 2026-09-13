@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0032Chapter965ThisIsKindOfHowTeamBiscuitOper
   unit: "words",
   completedAt: "2026-06-29T19:04:53.783Z",
   publishedAt: "2025-02-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2077434/chapter-965-this-is-kind-of-how-team-biscuit-operates",
-  externalId: "2077434",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2077434",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2077434/chapter-965-this-is-kind-of-how-team-biscuit-operates",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

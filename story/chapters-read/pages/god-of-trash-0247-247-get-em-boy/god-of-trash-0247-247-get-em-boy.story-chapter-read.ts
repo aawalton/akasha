@@ -10,9 +10,13 @@ export const godOfTrash0247247GetEmBoy = {
   ownLength: 2017,
   unit: "words",
   publishedAt: "2025-12-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2842749/247-get-em-boy",
-  externalId: "2842749",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2842749",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2842749/247-get-em-boy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

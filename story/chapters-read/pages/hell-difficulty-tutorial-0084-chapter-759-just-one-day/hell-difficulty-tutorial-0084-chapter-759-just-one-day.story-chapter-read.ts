@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0084Chapter759JustOneDay = {
   ownLength: 2488,
   unit: "words",
   publishedAt: "2026-02-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3092854/chapter-759-just-one-day",
-  externalId: "3092854",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3092854",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3092854/chapter-759-just-one-day",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

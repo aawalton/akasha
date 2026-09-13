@@ -10,9 +10,13 @@ export const godOfTrash0343343OnTheRoadAgain = {
   ownLength: 2297,
   unit: "words",
   publishedAt: "2026-07-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3743372/343-on-the-road-again",
-  externalId: "3743372",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3743372",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3743372/343-on-the-road-again",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

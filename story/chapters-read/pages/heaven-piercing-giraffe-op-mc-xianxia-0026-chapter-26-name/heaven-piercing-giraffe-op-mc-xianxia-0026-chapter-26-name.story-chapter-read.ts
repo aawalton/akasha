@@ -10,9 +10,13 @@ export const heavenPiercingGiraffeOpMcXianxia0026Chapter26Name = {
   ownLength: 1602,
   unit: "words",
   publishedAt: "2026-08-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3817279/chapter-26-name",
-  externalId: "3817279",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3817279",
+      externalLink:
+        "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3817279/chapter-26-name",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

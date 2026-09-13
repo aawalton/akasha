@@ -10,9 +10,13 @@ export const godOfTrash0221221IntoTown = {
   ownLength: 2163,
   unit: "words",
   publishedAt: "2025-10-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2704698/221-into-town",
-  externalId: "2704698",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2704698",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2704698/221-into-town",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

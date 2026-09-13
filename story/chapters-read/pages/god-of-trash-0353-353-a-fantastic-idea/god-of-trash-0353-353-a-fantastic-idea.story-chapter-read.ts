@@ -10,9 +10,13 @@ export const godOfTrash0353353AFantasticIdea = {
   ownLength: 2125,
   unit: "words",
   publishedAt: "2026-08-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3843314/353-a-fantastic-idea",
-  externalId: "3843314",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3843314",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3843314/353-a-fantastic-idea",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

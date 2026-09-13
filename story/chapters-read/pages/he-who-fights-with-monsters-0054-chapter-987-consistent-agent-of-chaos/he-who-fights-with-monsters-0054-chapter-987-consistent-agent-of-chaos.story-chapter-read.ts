@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0054Chapter987ConsistentAgentOfChaos = {
   unit: "words",
   completedAt: "2026-06-29T19:05:45.085Z",
   publishedAt: "2026-02-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3099882/chapter-987-consistent-agent-of-chaos",
-  externalId: "3099882",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3099882",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3099882/chapter-987-consistent-agent-of-chaos",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

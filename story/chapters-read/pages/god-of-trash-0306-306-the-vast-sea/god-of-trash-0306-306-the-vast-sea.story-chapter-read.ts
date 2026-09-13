@@ -10,9 +10,13 @@ export const godOfTrash0306306TheVastSea = {
   ownLength: 2039,
   unit: "words",
   publishedAt: "2026-05-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3355117/306-the-vast-sea",
-  externalId: "3355117",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3355117",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3355117/306-the-vast-sea",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

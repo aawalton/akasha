@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0095Chapter770FightBetweenTwoSRanks = {
   ownLength: 2481,
   unit: "words",
   publishedAt: "2026-03-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3145354/chapter-770-fight-between-two-s-ranks",
-  externalId: "3145354",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3145354",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3145354/chapter-770-fight-between-two-s-ranks",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

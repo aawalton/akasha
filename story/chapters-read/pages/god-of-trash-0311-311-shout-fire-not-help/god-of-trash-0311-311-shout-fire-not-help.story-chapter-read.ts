@@ -10,9 +10,13 @@ export const godOfTrash0311311ShoutFireNotHelp = {
   ownLength: 2070,
   unit: "words",
   publishedAt: "2026-05-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3400908/311-shout-fire-not-help",
-  externalId: "3400908",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3400908",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3400908/311-shout-fire-not-help",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

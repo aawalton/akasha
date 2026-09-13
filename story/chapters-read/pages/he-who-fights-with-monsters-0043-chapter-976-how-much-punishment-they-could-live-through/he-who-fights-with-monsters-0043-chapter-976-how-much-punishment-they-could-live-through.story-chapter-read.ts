@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0043Chapter976HowMuchPunishmentTheyCouldLive
   unit: "words",
   completedAt: "2026-06-29T19:05:20.958Z",
   publishedAt: "2026-02-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3006502/chapter-976-how-much-punishment-they-could-live",
-  externalId: "3006502",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3006502",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3006502/chapter-976-how-much-punishment-they-could-live",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash0340340TakingCareOfBusiness = {
   ownLength: 2022,
   unit: "words",
   publishedAt: "2026-07-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3712374/340-taking-care-of-business",
-  externalId: "3712374",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3712374",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3712374/340-taking-care-of-business",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

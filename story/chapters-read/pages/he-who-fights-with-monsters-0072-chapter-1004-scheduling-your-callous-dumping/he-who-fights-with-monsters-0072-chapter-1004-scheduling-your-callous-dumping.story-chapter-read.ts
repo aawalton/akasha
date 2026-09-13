@@ -10,9 +10,13 @@ export const heWhoFightsWithMonsters0072Chapter1004SchedulingYourCallousDumping 
   ownLength: 2109,
   unit: "words",
   publishedAt: "2026-06-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3511677/chapter-1004-scheduling-your-callous-dumping",
-  externalId: "3511677",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3511677",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3511677/chapter-1004-scheduling-your-callous-dumping",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

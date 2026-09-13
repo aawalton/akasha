@@ -10,9 +10,13 @@ export const godOfTrash0322322AChapterAboutDiggingAHole = {
   ownLength: 2399,
   unit: "words",
   publishedAt: "2026-06-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3521153/322-a-chapter-about-digging-a-hole",
-  externalId: "3521153",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3521153",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3521153/322-a-chapter-about-digging-a-hole",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

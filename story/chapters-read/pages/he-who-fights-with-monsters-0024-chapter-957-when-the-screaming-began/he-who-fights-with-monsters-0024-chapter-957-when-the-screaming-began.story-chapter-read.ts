@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0024Chapter957WhenTheScreamingBegan = {
   unit: "words",
   completedAt: "2026-06-29T19:04:37.140Z",
   publishedAt: "2025-01-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2040952/chapter-957-when-the-screaming-began",
-  externalId: "2040952",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2040952",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2040952/chapter-957-when-the-screaming-began",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

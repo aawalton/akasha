@@ -10,9 +10,13 @@ export const godOfTrash0279279TheJinx = {
   ownLength: 2112,
   unit: "words",
   publishedAt: "2026-02-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3092458/279-the-jinx",
-  externalId: "3092458",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3092458",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3092458/279-the-jinx",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0048Chapter981WhatForeverMeans = {
   unit: "words",
   completedAt: "2026-06-29T19:05:31.955Z",
   publishedAt: "2026-02-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3051763/chapter-981-what-forever-means",
-  externalId: "3051763",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3051763",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3051763/chapter-981-what-forever-means",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

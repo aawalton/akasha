@@ -10,9 +10,13 @@ export const godOfTrash0339339BigBoom = {
   ownLength: 2011,
   unit: "words",
   publishedAt: "2026-07-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3703523/339-big-boom",
-  externalId: "3703523",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3703523",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3703523/339-big-boom",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

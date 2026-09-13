@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0104Chapter779Level1 = {
   ownLength: 2119,
   unit: "words",
   publishedAt: "2026-03-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3193996/chapter-779-level-1",
-  externalId: "3193996",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3193996",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3193996/chapter-779-level-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

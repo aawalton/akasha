@@ -10,9 +10,13 @@ export const godOfTrash0215215TakingOnTheAlliance = {
   ownLength: 1989,
   unit: "words",
   publishedAt: "2025-10-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2689267/215-taking-on-the-alliance",
-  externalId: "2689267",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2689267",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2689267/215-taking-on-the-alliance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

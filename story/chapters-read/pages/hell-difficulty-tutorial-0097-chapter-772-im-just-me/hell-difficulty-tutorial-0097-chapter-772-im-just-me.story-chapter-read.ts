@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0097Chapter772ImJustMe = {
   ownLength: 2095,
   unit: "words",
   publishedAt: "2026-03-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3159973/chapter-772-im-just-me",
-  externalId: "3159973",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3159973",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3159973/chapter-772-im-just-me",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

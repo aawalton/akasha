@@ -11,9 +11,13 @@ export const heWhoFightsWithMonsters0057Chapter990MonstrousOnTheInside = {
   ownProgress: 269,
   unit: "words",
   publishedAt: "2026-03-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3124477/chapter-990-monstrous-on-the-inside",
-  externalId: "3124477",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3124477",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3124477/chapter-990-monstrous-on-the-inside",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

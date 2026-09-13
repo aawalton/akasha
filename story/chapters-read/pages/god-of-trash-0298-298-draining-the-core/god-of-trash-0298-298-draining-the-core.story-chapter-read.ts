@@ -10,9 +10,13 @@ export const godOfTrash0298298DrainingTheCore = {
   ownLength: 1615,
   unit: "words",
   publishedAt: "2026-04-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3257680/298-draining-the-core",
-  externalId: "3257680",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3257680",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3257680/298-draining-the-core",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const heavenPiercingGiraffeOpMcXianxia0006Chapter6TheOneWhoDevouredHalfOf
   ownLength: 1980,
   unit: "words",
   publishedAt: "2026-07-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3615457/chapter-6-the-one-who-devoured-half-of-the-heavens",
-  externalId: "3615457",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3615457",
+      externalLink:
+        "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3615457/chapter-6-the-one-who-devoured-half-of-the-heavens",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

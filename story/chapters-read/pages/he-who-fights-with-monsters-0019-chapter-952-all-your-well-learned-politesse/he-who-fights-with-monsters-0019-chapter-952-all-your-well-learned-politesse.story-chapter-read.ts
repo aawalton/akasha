@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0019Chapter952AllYourWellLearnedPolitesse = 
   unit: "words",
   completedAt: "2026-06-29T19:04:26.320Z",
   publishedAt: "2025-01-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2020955/chapter-952-all-your-well-learned-politesse",
-  externalId: "2020955",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2020955",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2020955/chapter-952-all-your-well-learned-politesse",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

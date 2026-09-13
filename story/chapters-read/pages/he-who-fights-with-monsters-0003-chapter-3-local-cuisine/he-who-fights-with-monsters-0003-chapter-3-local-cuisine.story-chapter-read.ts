@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0003Chapter3LocalCuisine = {
   unit: "words",
   completedAt: "2026-06-29T19:03:52.476Z",
   publishedAt: "2019-07-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/386758/chapter-3-local-cuisine",
-  externalId: "386758",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "386758",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/386758/chapter-3-local-cuisine",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

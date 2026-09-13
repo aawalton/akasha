@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0009Chapter9Escape = {
   unit: "words",
   completedAt: "2026-06-29T19:04:04.723Z",
   publishedAt: "2019-07-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/387399/chapter-9-escape",
-  externalId: "387399",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "387399",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/387399/chapter-9-escape",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0100Chapter775Trade = {
   ownLength: 2252,
   unit: "words",
   publishedAt: "2026-03-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3170879/chapter-775-trade",
-  externalId: "3170879",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3170879",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3170879/chapter-775-trade",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

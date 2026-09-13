@@ -10,9 +10,13 @@ export const heWhoFightsWithMonsters0078MissingUpdate = {
   ownLength: 15,
   unit: "words",
   publishedAt: "2026-06-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3574461/missing-update",
-  externalId: "3574461",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3574461",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3574461/missing-update",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

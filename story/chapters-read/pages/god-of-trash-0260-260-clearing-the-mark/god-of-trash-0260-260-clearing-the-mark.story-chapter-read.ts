@@ -10,9 +10,13 @@ export const godOfTrash0260260ClearingTheMark = {
   ownLength: 1907,
   unit: "words",
   publishedAt: "2026-01-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2937670/260-clearing-the-mark",
-  externalId: "2937670",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2937670",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2937670/260-clearing-the-mark",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

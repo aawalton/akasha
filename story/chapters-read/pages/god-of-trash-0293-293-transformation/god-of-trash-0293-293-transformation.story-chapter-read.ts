@@ -10,9 +10,13 @@ export const godOfTrash0293293Transformation = {
   ownLength: 2249,
   unit: "words",
   publishedAt: "2026-03-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3211932/293-transformation",
-  externalId: "3211932",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3211932",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3211932/293-transformation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

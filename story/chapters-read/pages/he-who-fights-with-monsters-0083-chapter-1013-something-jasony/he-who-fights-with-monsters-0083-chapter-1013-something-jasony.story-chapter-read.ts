@@ -10,9 +10,13 @@ export const heWhoFightsWithMonsters0083Chapter1013SomethingJasony = {
   ownLength: 2571,
   unit: "words",
   publishedAt: "2026-08-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892842/chapter-1013-something-jasony",
-  externalId: "3892842",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3892842",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892842/chapter-1013-something-jasony",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

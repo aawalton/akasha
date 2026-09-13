@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0047Chapter722WhatTheDoctorSaid = {
   ownLength: 2145,
   unit: "words",
   publishedAt: "2026-01-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2915446/chapter-722-what-the-doctor-said",
-  externalId: "2915446",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2915446",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2915446/chapter-722-what-the-doctor-said",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

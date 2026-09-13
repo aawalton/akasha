@@ -10,9 +10,13 @@ export const godOfTrash0351351BabyImAFirework = {
   ownLength: 2177,
   unit: "words",
   publishedAt: "2026-08-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3827112/351-baby-im-a-firework",
-  externalId: "3827112",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3827112",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3827112/351-baby-im-a-firework",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

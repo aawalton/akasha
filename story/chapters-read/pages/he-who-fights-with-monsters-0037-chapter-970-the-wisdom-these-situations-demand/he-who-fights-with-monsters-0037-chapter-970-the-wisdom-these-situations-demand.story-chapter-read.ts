@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0037Chapter970TheWisdomTheseSituationsDemand
   unit: "words",
   completedAt: "2026-06-29T19:05:08.584Z",
   publishedAt: "2025-03-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2118387/chapter-970-the-wisdom-these-situations-demand",
-  externalId: "2118387",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2118387",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2118387/chapter-970-the-wisdom-these-situations-demand",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const heWhoFightsWithMonsters0066Chapter999AnInterestingMessage = {
   ownLength: 2367,
   unit: "words",
   publishedAt: "2026-04-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3228753/chapter-999-an-interesting-message",
-  externalId: "3228753",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3228753",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3228753/chapter-999-an-interesting-message",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

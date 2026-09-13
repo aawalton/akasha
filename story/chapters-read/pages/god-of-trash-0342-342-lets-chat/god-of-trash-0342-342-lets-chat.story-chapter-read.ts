@@ -10,9 +10,13 @@ export const godOfTrash0342342LetsChat = {
   ownLength: 2299,
   unit: "words",
   publishedAt: "2026-07-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3734315/342-lets-chat",
-  externalId: "3734315",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3734315",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3734315/342-lets-chat",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

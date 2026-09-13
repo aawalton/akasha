@@ -10,9 +10,13 @@ export const godOfTrash0246246ToTheSquare = {
   ownLength: 1448,
   unit: "words",
   publishedAt: "2025-12-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2836914/246-to-the-square",
-  externalId: "2836914",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2836914",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2836914/246-to-the-square",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

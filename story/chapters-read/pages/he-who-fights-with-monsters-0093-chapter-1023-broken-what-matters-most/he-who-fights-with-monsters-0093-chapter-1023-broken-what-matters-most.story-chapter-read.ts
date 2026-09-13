@@ -10,9 +10,13 @@ export const heWhoFightsWithMonsters0093Chapter1023BrokenWhatMattersMost = {
   ownLength: 3004,
   unit: "words",
   publishedAt: "2026-08-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892853/chapter-1023-broken-what-matters-most",
-  externalId: "3892853",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3892853",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892853/chapter-1023-broken-what-matters-most",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

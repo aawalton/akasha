@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0002Chapter2OfCourseMagicIsAThing = {
   unit: "words",
   completedAt: "2026-06-29T19:03:50.380Z",
   publishedAt: "2019-07-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/386725/chapter-2-of-course-magic-is-a-thing",
-  externalId: "386725",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "386725",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/386725/chapter-2-of-course-magic-is-a-thing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash0285285Politics = {
   ownLength: 2473,
   unit: "words",
   publishedAt: "2026-03-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3141387/285-politics",
-  externalId: "3141387",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3141387",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3141387/285-politics",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0082Chapter757PartyPooperAndGrumpy = {
   ownLength: 2099,
   unit: "words",
   publishedAt: "2026-02-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3085607/chapter-757-party-pooper-and-grumpy",
-  externalId: "3085607",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3085607",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3085607/chapter-757-party-pooper-and-grumpy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0046Chapter979UnequivocallyMyThing = {
   unit: "words",
   completedAt: "2026-06-29T19:05:27.650Z",
   publishedAt: "2026-02-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3030214/chapter-979-unequivocally-my-thing",
-  externalId: "3030214",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3030214",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3030214/chapter-979-unequivocally-my-thing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

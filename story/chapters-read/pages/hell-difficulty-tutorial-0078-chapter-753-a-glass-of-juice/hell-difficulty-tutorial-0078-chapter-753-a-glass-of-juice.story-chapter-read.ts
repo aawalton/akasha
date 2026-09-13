@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0078Chapter753AGlassOfJuice = {
   ownLength: 3059,
   unit: "words",
   publishedAt: "2026-02-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3066076/chapter-753-a-glass-of-juice",
-  externalId: "3066076",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3066076",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3066076/chapter-753-a-glass-of-juice",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

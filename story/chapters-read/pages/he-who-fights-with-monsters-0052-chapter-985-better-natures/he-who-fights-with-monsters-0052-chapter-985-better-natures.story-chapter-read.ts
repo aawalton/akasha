@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0052Chapter985BetterNatures = {
   unit: "words",
   completedAt: "2026-06-29T19:05:40.501Z",
   publishedAt: "2026-02-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3085438/chapter-985-better-natures",
-  externalId: "3085438",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3085438",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3085438/chapter-985-better-natures",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

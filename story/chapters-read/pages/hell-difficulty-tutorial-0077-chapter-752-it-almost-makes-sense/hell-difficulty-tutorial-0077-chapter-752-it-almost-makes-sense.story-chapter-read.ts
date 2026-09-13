@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0077Chapter752ItAlmostMakesSense = {
   ownLength: 2532,
   unit: "words",
   publishedAt: "2026-02-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3061139/chapter-752-it-almost-makes-sense",
-  externalId: "3061139",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3061139",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3061139/chapter-752-it-almost-makes-sense",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

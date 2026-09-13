@@ -10,9 +10,13 @@ export const heavenPiercingGiraffeOpMcXianxia0024Chapter24InhalerTypePills = {
   ownLength: 1636,
   unit: "words",
   publishedAt: "2026-08-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3786780/chapter-24-inhaler-type-pills",
-  externalId: "3786780",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3786780",
+      externalLink:
+        "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3786780/chapter-24-inhaler-type-pills",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

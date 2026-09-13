@@ -10,9 +10,13 @@ export const heavenPiercingGiraffeOpMcXianxia0016Chapter16LivingWithATribe = {
   ownLength: 1806,
   unit: "words",
   publishedAt: "2026-07-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3674677/chapter-16-living-with-a-tribe",
-  externalId: "3674677",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3674677",
+      externalLink:
+        "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3674677/chapter-16-living-with-a-tribe",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0085Chapter760PretendingToTalk = {
   ownLength: 2727,
   unit: "words",
   publishedAt: "2026-02-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3096236/chapter-760-pretending-to-talk",
-  externalId: "3096236",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3096236",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3096236/chapter-760-pretending-to-talk",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

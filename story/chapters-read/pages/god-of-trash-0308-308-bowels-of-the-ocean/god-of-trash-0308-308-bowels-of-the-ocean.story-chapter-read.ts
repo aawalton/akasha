@@ -10,9 +10,13 @@ export const godOfTrash0308308BowelsOfTheOcean = {
   ownLength: 1526,
   unit: "words",
   publishedAt: "2026-05-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3372198/308-bowels-of-the-ocean",
-  externalId: "3372198",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3372198",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3372198/308-bowels-of-the-ocean",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash0297297TheCoreOfTheProblem = {
   ownLength: 1884,
   unit: "words",
   publishedAt: "2026-04-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3249203/297-the-core-of-the-problem",
-  externalId: "3249203",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3249203",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3249203/297-the-core-of-the-problem",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

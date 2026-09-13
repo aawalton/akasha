@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0056Chapter989AManFoughtMonsters = {
   unit: "words",
   completedAt: "2026-06-29T19:05:49.390Z",
   publishedAt: "2026-03-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3117208/chapter-989-a-man-fought-monsters",
-  externalId: "3117208",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3117208",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3117208/chapter-989-a-man-fought-monsters",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

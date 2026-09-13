@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0037Chapter712WellBehaved = {
   ownLength: 2099,
   unit: "words",
   publishedAt: "2025-12-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2851393/chapter-712-well-behaved",
-  externalId: "2851393",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2851393",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2851393/chapter-712-well-behaved",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

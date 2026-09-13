@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0014BooksAvailableOnKindleKindleUnlimitedAnd
   unit: "words",
   completedAt: "2026-06-29T19:04:15.267Z",
   publishedAt: "2021-02-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/631867/books-available-on-kindle-kindle-unlimited-and",
-  externalId: "631867",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "631867",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/631867/books-available-on-kindle-kindle-unlimited-and",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

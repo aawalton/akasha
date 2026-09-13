@@ -10,9 +10,13 @@ export const godOfTrash0292292LoveRivals = {
   ownLength: 2086,
   unit: "words",
   publishedAt: "2026-03-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3201181/292-love-rivals",
-  externalId: "3201181",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3201181",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3201181/292-love-rivals",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

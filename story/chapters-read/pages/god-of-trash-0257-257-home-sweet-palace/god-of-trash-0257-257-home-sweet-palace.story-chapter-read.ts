@@ -10,9 +10,13 @@ export const godOfTrash0257257HomeSweetPalace = {
   ownLength: 1890,
   unit: "words",
   publishedAt: "2026-01-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2915099/257-home-sweet-palace",
-  externalId: "2915099",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2915099",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2915099/257-home-sweet-palace",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash0238238SoMuchForThat = {
   ownLength: 2004,
   unit: "words",
   publishedAt: "2025-11-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2781554/238-so-much-for-that",
-  externalId: "2781554",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2781554",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2781554/238-so-much-for-that",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash0278278MovingForward = {
   ownLength: 2071,
   unit: "words",
   publishedAt: "2026-02-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3085254/278-moving-forward",
-  externalId: "3085254",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3085254",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3085254/278-moving-forward",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

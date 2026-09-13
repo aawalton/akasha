@@ -8,11 +8,15 @@ export const godOfTrash0359359OnceInACentury = {
   position: 359,
   publishedAt: "2026-09-04",
   unit: "words",
-  externalId: "3912817",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3912817",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3912817/359-once-in-a-century",
+    },
+  ],
   title: "359. Once in a Century",
   ownLength: 2413,
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3912817/359-once-in-a-century",
   prose: "txt",
 } as const satisfies StoryChapterRead

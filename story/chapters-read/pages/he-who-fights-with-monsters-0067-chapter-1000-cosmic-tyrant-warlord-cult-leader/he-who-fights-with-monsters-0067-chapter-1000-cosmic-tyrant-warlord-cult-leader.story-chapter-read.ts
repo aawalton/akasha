@@ -10,9 +10,13 @@ export const heWhoFightsWithMonsters0067Chapter1000CosmicTyrantWarlordCultLeader
   ownLength: 2766,
   unit: "words",
   publishedAt: "2026-04-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3241061/chapter-1000-cosmic-tyrant-warlord-cult-leader",
-  externalId: "3241061",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3241061",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3241061/chapter-1000-cosmic-tyrant-warlord-cult-leader",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

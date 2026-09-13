@@ -10,9 +10,13 @@ export const godOfTrash0227227BigUhOhEnergy = {
   ownLength: 1955,
   unit: "words",
   publishedAt: "2025-10-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2720890/227-big-uh-oh-energy",
-  externalId: "2720890",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2720890",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2720890/227-big-uh-oh-energy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

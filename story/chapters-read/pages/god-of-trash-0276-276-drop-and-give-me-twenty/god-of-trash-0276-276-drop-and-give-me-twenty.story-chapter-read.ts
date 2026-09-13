@@ -10,9 +10,13 @@ export const godOfTrash0276276DropAndGiveMeTwenty = {
   ownLength: 2179,
   unit: "words",
   publishedAt: "2026-02-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3069243/276-drop-and-give-me-twenty",
-  externalId: "3069243",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3069243",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3069243/276-drop-and-give-me-twenty",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash0318318MonsterHunting = {
   ownLength: 2442,
   unit: "words",
   publishedAt: "2026-06-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3480173/318-monster-hunting",
-  externalId: "3480173",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3480173",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3480173/318-monster-hunting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0043Chapter718IntoTheQuarantine = {
   ownLength: 2203,
   unit: "words",
   publishedAt: "2025-12-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2874624/chapter-718-into-the-quarantine",
-  externalId: "2874624",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2874624",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2874624/chapter-718-into-the-quarantine",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0041Chapter716MythicalBeing = {
   ownLength: 2131,
   unit: "words",
   publishedAt: "2025-12-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2868425/chapter-716-mythical-being",
-  externalId: "2868425",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2868425",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2868425/chapter-716-mythical-being",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

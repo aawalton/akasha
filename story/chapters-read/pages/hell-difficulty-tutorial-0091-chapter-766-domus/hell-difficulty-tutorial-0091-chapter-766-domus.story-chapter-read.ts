@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0091Chapter766Domus = {
   ownLength: 2581,
   unit: "words",
   publishedAt: "2026-03-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3131097/chapter-766-domus",
-  externalId: "3131097",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3131097",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3131097/chapter-766-domus",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

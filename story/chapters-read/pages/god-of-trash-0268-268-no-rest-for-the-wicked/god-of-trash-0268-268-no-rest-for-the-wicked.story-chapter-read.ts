@@ -10,9 +10,13 @@ export const godOfTrash0268268NoRestForTheWicked = {
   ownLength: 2061,
   unit: "words",
   publishedAt: "2026-01-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2992356/268-no-rest-for-the-wicked",
-  externalId: "2992356",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2992356",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2992356/268-no-rest-for-the-wicked",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

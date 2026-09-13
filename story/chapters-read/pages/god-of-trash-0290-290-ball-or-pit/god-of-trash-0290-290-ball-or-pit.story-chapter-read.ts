@@ -10,9 +10,13 @@ export const godOfTrash0290290BallOrPit = {
   ownLength: 2260,
   unit: "words",
   publishedAt: "2026-03-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3185647/290-ball-or-pit",
-  externalId: "3185647",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3185647",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3185647/290-ball-or-pit",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

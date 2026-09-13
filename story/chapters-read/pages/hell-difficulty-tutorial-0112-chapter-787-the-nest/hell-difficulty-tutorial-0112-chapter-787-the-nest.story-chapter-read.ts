@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0112Chapter787TheNest = {
   ownLength: 2125,
   unit: "words",
   publishedAt: "2026-04-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3240873/chapter-787-the-nest",
-  externalId: "3240873",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3240873",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3240873/chapter-787-the-nest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

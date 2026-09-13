@@ -10,9 +10,13 @@ export const heavenPiercingGiraffeOpMcXianxia0029Chapter28BreakOut = {
   ownLength: 1587,
   unit: "words",
   publishedAt: "2026-08-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3861038/chapter-28-break-out",
-  externalId: "3861038",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3861038",
+      externalLink:
+        "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3861038/chapter-28-break-out",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

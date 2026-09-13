@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0026Chapter959WithoutConsequences = {
   unit: "words",
   completedAt: "2026-06-29T19:04:41.149Z",
   publishedAt: "2025-02-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2050076/chapter-959-without-consequences",
-  externalId: "2050076",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2050076",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2050076/chapter-959-without-consequences",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

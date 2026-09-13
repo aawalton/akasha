@@ -10,9 +10,13 @@ export const godOfTrash0333333LookingInTheWrongDirection = {
   ownLength: 1848,
   unit: "words",
   publishedAt: "2026-07-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3641617/333-looking-in-the-wrong-direction",
-  externalId: "3641617",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3641617",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3641617/333-looking-in-the-wrong-direction",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

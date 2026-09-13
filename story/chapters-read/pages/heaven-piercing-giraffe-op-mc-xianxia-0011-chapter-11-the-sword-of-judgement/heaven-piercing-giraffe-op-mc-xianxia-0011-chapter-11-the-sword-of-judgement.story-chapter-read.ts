@@ -10,9 +10,13 @@ export const heavenPiercingGiraffeOpMcXianxia0011Chapter11TheSwordOfJudgement = 
   ownLength: 1771,
   unit: "words",
   publishedAt: "2026-07-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3638206/chapter-11-the-sword-of-judgement",
-  externalId: "3638206",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3638206",
+      externalLink:
+        "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3638206/chapter-11-the-sword-of-judgement",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

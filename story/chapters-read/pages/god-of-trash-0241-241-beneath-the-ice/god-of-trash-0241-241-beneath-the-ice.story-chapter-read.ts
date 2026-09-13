@@ -10,9 +10,13 @@ export const godOfTrash0241241BeneathTheIce = {
   ownLength: 2221,
   unit: "words",
   publishedAt: "2025-11-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2801669/241-beneath-the-ice",
-  externalId: "2801669",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2801669",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2801669/241-beneath-the-ice",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

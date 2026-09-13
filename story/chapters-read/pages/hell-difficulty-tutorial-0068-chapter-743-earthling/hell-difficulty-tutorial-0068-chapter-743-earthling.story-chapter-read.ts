@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0068Chapter743Earthling = {
   ownLength: 2388,
   unit: "words",
   publishedAt: "2026-02-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3010083/chapter-743-earthling",
-  externalId: "3010083",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3010083",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3010083/chapter-743-earthling",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

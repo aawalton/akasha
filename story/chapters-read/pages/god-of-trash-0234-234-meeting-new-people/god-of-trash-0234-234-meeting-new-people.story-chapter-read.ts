@@ -10,9 +10,13 @@ export const godOfTrash0234234MeetingNewPeople = {
   ownLength: 1918,
   unit: "words",
   publishedAt: "2025-11-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2755775/234-meeting-new-people",
-  externalId: "2755775",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2755775",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2755775/234-meeting-new-people",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash0352352SomeAloneTime = {
   ownLength: 1833,
   unit: "words",
   publishedAt: "2026-08-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3835977/352-some-alone-time",
-  externalId: "3835977",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3835977",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3835977/352-some-alone-time",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

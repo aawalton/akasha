@@ -10,9 +10,13 @@ export const godOfTrash0218218DungeonDelvingTheBlackPalace = {
   ownLength: 1875,
   unit: "words",
   publishedAt: "2025-10-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2697160/218-dungeon-delving-the-black-palace",
-  externalId: "2697160",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2697160",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2697160/218-dungeon-delving-the-black-palace",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash0271271TheMorningAfter = {
   ownLength: 1951,
   unit: "words",
   publishedAt: "2026-02-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3020130/271-the-morning-after",
-  externalId: "3020130",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3020130",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3020130/271-the-morning-after",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const godOfTrash0205205LastMinutePrep = {
   ownLength: 2409,
   unit: "words",
   publishedAt: "2025-10-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2649509/205-last-minute-prep",
-  externalId: "2649509",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2649509",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2649509/205-last-minute-prep",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

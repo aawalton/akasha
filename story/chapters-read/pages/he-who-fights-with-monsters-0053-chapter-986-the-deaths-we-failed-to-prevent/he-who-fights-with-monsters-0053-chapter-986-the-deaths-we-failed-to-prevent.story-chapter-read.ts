@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0053Chapter986TheDeathsWeFailedToPrevent = {
   unit: "words",
   completedAt: "2026-06-29T19:05:42.909Z",
   publishedAt: "2026-02-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3092662/chapter-986-the-deaths-we-failed-to-prevent",
-  externalId: "3092662",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3092662",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3092662/chapter-986-the-deaths-we-failed-to-prevent",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0113Chapter788Contraband = {
   ownLength: 2939,
   unit: "words",
   publishedAt: "2026-04-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3245393/chapter-788-contraband",
-  externalId: "3245393",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3245393",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3245393/chapter-788-contraband",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

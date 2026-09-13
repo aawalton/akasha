@@ -10,9 +10,13 @@ export const godOfTrash0240240LockIn = {
   ownLength: 2155,
   unit: "words",
   publishedAt: "2025-11-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2795917/240-lock-in",
-  externalId: "2795917",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2795917",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2795917/240-lock-in",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

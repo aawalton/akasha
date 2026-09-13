@@ -10,9 +10,13 @@ export const godOfTrash0212212PlungingTheVault = {
   ownLength: 2946,
   unit: "words",
   publishedAt: "2025-10-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2666772/212-plunging-the-vault",
-  externalId: "2666772",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2666772",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2666772/212-plunging-the-vault",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

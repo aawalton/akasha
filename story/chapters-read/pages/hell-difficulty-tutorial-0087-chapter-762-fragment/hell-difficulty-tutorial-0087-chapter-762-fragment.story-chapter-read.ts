@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0087Chapter762Fragment = {
   ownLength: 2241,
   unit: "words",
   publishedAt: "2026-03-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3110014/chapter-762-fragment",
-  externalId: "3110014",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3110014",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3110014/chapter-762-fragment",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

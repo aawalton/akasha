@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0011Chapter11DashingHeroics = {
   unit: "words",
   completedAt: "2026-06-29T19:04:08.847Z",
   publishedAt: "2019-08-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/387679/chapter-11-dashing-heroics",
-  externalId: "387679",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "387679",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/387679/chapter-11-dashing-heroics",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

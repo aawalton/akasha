@@ -10,9 +10,13 @@ export const godOfTrash0299299TrueAuthority = {
   ownLength: 2392,
   unit: "words",
   publishedAt: "2026-04-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3270265/299-true-authority",
-  externalId: "3270265",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3270265",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3270265/299-true-authority",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const heWhoFightsWithMonsters0088Chapter1018IDontNeedHope = {
   ownLength: 2108,
   unit: "words",
   publishedAt: "2026-08-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892847/chapter-1018-i-dont-need-hope",
-  externalId: "3892847",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3892847",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892847/chapter-1018-i-dont-need-hope",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

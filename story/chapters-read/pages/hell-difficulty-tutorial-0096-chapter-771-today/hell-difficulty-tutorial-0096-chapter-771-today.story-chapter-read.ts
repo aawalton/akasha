@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0096Chapter771Today = {
   ownLength: 2337,
   unit: "words",
   publishedAt: "2026-03-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3155908/chapter-771-today",
-  externalId: "3155908",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3155908",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3155908/chapter-771-today",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

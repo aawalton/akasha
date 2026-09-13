@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0072Chapter747OthersYouShouldBeWaryOf = {
   ownLength: 2484,
   unit: "words",
   publishedAt: "2026-02-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3030384/chapter-747-others-you-should-be-wary-of",
-  externalId: "3030384",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3030384",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3030384/chapter-747-others-you-should-be-wary-of",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

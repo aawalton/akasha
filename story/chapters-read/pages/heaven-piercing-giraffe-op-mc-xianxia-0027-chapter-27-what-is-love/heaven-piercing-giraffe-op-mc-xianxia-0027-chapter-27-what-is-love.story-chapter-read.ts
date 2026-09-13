@@ -10,9 +10,13 @@ export const heavenPiercingGiraffeOpMcXianxia0027Chapter27WhatIsLove = {
   ownLength: 1581,
   unit: "words",
   publishedAt: "2026-08-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3828856/chapter-27-what-is-love",
-  externalId: "3828856",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3828856",
+      externalLink:
+        "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3828856/chapter-27-what-is-love",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

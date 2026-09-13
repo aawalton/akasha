@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0049Chapter724UnderAttack = {
   ownLength: 2346,
   unit: "words",
   publishedAt: "2026-01-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2921676/chapter-724-under-attack",
-  externalId: "2921676",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2921676",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2921676/chapter-724-under-attack",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

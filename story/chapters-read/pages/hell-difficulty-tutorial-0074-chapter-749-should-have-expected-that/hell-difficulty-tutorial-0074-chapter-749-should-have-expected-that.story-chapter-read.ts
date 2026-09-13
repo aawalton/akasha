@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0074Chapter749ShouldHaveExpectedThat = {
   ownLength: 2294,
   unit: "words",
   publishedAt: "2026-02-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3038239/chapter-749-should-have-expected-that",
-  externalId: "3038239",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3038239",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3038239/chapter-749-should-have-expected-that",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

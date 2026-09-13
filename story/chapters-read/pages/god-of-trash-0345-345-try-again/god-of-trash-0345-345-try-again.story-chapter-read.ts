@@ -10,9 +10,13 @@ export const godOfTrash0345345TryAgain = {
   ownLength: 2041,
   unit: "words",
   publishedAt: "2026-08-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3765120/345-try-again",
-  externalId: "3765120",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3765120",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3765120/345-try-again",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

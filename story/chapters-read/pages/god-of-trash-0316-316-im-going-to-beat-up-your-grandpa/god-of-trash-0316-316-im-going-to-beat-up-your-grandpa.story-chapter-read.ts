@@ -10,9 +10,13 @@ export const godOfTrash0316316ImGoingToBeatUpYourGrandpa = {
   ownLength: 1919,
   unit: "words",
   publishedAt: "2026-05-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3454997/316-im-going-to-beat-up-your-grandpa",
-  externalId: "3454997",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3454997",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3454997/316-im-going-to-beat-up-your-grandpa",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

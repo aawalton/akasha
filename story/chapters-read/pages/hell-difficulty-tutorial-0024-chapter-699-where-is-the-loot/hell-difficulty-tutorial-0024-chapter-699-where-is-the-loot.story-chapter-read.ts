@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0024Chapter699WhereIsTheLoot = {
   ownLength: 2472,
   unit: "words",
   publishedAt: "2025-11-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2796180/chapter-699-where-is-the-loot",
-  externalId: "2796180",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2796180",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2796180/chapter-699-where-is-the-loot",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

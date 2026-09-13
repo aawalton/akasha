@@ -10,9 +10,13 @@ export const heavenPiercingGiraffeOpMcXianxia0028Chapter28BreakOutRaidersBossPov
   ownLength: 1687,
   unit: "words",
   publishedAt: "2026-08-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3853988/chapter-28-break-out-raiders-boss-pov",
-  externalId: "3853988",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3853988",
+      externalLink:
+        "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3853988/chapter-28-break-out-raiders-boss-pov",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

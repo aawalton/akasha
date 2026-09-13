@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0088Chapter763JustAsILikeIt = {
   ownLength: 2483,
   unit: "words",
   publishedAt: "2026-03-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3113609/chapter-763-just-as-i-like-it",
-  externalId: "3113609",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3113609",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3113609/chapter-763-just-as-i-like-it",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

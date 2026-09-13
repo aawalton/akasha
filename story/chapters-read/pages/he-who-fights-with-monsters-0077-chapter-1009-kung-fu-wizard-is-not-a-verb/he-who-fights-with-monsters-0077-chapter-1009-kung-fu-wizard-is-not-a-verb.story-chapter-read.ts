@@ -10,9 +10,13 @@ export const heWhoFightsWithMonsters0077Chapter1009KungFuWizardIsNotAVerb = {
   ownLength: 2085,
   unit: "words",
   publishedAt: "2026-06-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3563772/chapter-1009-kung-fu-wizard-is-not-a-verb",
-  externalId: "3563772",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3563772",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3563772/chapter-1009-kung-fu-wizard-is-not-a-verb",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

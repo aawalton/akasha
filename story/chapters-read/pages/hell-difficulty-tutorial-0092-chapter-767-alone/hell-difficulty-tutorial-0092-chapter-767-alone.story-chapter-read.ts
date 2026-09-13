@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0092Chapter767Alone = {
   ownLength: 2591,
   unit: "words",
   publishedAt: "2026-03-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3134823/chapter-767-alone",
-  externalId: "3134823",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3134823",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3134823/chapter-767-alone",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

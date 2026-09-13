@@ -8,11 +8,15 @@ export const heavenPiercingGiraffeOpMcXianxia0030Chapter30AgainstAGod = {
   position: 30,
   publishedAt: "2026-09-05",
   unit: "words",
-  externalId: "3917307",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3917307",
+      externalLink:
+        "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3917307/chapter-30-against-a-god",
+    },
+  ],
   title: "Chapter 30: Against a God",
   ownLength: 1878,
-  externalLink:
-    "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3917307/chapter-30-against-a-god",
   prose: "txt",
 } as const satisfies StoryChapterRead

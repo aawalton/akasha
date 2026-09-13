@@ -10,9 +10,13 @@ export const godOfTrash0302302HereWeCome = {
   ownLength: 1720,
   unit: "words",
   publishedAt: "2026-04-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3298030/302-here-we-come",
-  externalId: "3298030",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3298030",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3298030/302-here-we-come",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

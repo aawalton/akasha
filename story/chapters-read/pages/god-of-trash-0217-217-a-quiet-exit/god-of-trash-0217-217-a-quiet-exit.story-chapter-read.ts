@@ -10,9 +10,13 @@ export const godOfTrash0217217AQuietExit = {
   ownLength: 1988,
   unit: "words",
   publishedAt: "2025-10-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2694564/217-a-quiet-exit",
-  externalId: "2694564",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2694564",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2694564/217-a-quiet-exit",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

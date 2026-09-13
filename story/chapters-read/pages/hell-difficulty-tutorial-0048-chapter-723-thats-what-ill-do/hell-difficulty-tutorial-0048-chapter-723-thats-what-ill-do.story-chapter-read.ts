@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0048Chapter723ThatsWhatIllDo = {
   ownLength: 2054,
   unit: "words",
   publishedAt: "2026-01-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2918637/chapter-723-thats-what-ill-do",
-  externalId: "2918637",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2918637",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2918637/chapter-723-thats-what-ill-do",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

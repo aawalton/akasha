@@ -10,9 +10,13 @@ export const godOfTrash0235235ToTheTavern = {
   ownLength: 2176,
   unit: "words",
   publishedAt: "2025-11-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2761538/235-to-the-tavern",
-  externalId: "2761538",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2761538",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2761538/235-to-the-tavern",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

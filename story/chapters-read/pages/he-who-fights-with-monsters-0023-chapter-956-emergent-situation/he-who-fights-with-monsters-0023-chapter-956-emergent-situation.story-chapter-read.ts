@@ -12,9 +12,13 @@ export const heWhoFightsWithMonsters0023Chapter956EmergentSituation = {
   unit: "words",
   completedAt: "2026-06-29T19:04:35.006Z",
   publishedAt: "2025-01-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2036987/chapter-956-emergent-situation",
-  externalId: "2036987",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2036987",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2036987/chapter-956-emergent-situation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

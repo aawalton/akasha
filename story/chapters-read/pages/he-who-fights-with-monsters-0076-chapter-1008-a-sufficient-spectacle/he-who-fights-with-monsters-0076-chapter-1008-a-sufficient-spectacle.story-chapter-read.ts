@@ -10,9 +10,13 @@ export const heWhoFightsWithMonsters0076Chapter1008ASufficientSpectacle = {
   ownLength: 2976,
   unit: "words",
   publishedAt: "2026-06-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3554406/chapter-1008-a-sufficient-spectacle",
-  externalId: "3554406",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3554406",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3554406/chapter-1008-a-sufficient-spectacle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

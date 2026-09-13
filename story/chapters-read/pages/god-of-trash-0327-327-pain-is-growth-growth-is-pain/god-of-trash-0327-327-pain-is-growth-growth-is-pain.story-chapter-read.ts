@@ -10,9 +10,13 @@ export const godOfTrash0327327PainIsGrowthGrowthIsPain = {
   ownLength: 1851,
   unit: "words",
   publishedAt: "2026-06-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3576626/327-pain-is-growth-growth-is-pain",
-  externalId: "3576626",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3576626",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3576626/327-pain-is-growth-growth-is-pain",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

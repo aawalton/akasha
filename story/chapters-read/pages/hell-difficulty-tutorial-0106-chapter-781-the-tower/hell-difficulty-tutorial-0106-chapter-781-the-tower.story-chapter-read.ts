@@ -10,9 +10,13 @@ export const hellDifficultyTutorial0106Chapter781TheTower = {
   ownLength: 2318,
   unit: "words",
   publishedAt: "2026-03-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3208163/chapter-781-the-tower",
-  externalId: "3208163",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3208163",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3208163/chapter-781-the-tower",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead
