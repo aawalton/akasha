@@ -20,6 +20,9 @@ import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { namedUnder, pageNamed } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { valueIn } from "akasha/pages/modules/value/page-value.module.code.ts"
+import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+
+const ID = "id"
 
 const kindsHeld = new WeakMap<Shadow, ReadonlySet<string>>()
 
@@ -73,9 +76,10 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
     if (change.after(path) === null) continue
     const held = namedUnder(path, under)
     if (held === null || (held.pageTypeSlug === DOMAIN && held.slug === THE_WHOLE)) continue
-    const one = shadow.index.listedByPath(path).find((filed) => filed.path === path)
-    if (one === undefined) continue
-    judge(path, one.id, `${held.pageTypeSlug}/${held.slug}`)
+    const page = shadow.pageOf(path)
+    const id = page === null ? null : textAt(page, ID)
+    if (id === null) continue
+    judge(path, id, `${held.pageTypeSlug}/${held.slug}`)
   }
   return said
 }
