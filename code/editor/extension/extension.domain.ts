@@ -39,6 +39,7 @@ export const extension = {
     "module/newest-wins",
     "module/observation-merging",
     "module/observation-store",
+    "module/opened-line-prefix",
     "module/page-tree-ids",
     "module/page-tree-panel",
     "module/page-tree-reading",
