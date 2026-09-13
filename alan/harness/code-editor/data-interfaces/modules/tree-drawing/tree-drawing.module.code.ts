@@ -231,10 +231,20 @@ function commandRow(root: string, node: CommandNode): CommandTreeRow {
 
 export function commandTreeLine(root: string): string {
   const built = assembleCommandTree(root)
-  return JSON.stringify({
-    roots: built.roots.map((node) => commandRow(root, node)),
-    unreached: built.unreached,
-  } satisfies CommandTreeState)
+  const under = built.roots.map((node) => commandRow(root, node))
+  const roots: readonly CommandTreeRow[] = [
+    {
+      kind: "root",
+      key: "root",
+      label: "commands",
+      called: "akasha",
+      at: null,
+      color: null,
+      detail: null,
+      children: under,
+    },
+  ]
+  return JSON.stringify({ roots, unreached: built.unreached } satisfies CommandTreeState)
 }
 
 function serviceRow(root: string, node: ServiceNode): ServiceTreeRow {

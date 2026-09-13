@@ -29,7 +29,8 @@ export const commandTreeView = {
     },
     {
       invariantKind: "departure",
-      statement: "A row is labelled by the whole call that row is made by.",
+      statement:
+        "A row representing a command is labelled by the whole call that command is made by.",
     },
     {
       invariantKind: "absence",

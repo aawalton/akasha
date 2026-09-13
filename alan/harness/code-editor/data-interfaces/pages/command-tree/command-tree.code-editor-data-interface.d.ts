@@ -1,5 +1,5 @@
 declare type CommandTreeRow = TreeRow & {
-  readonly kind: "namespace" | "command"
+  readonly kind: "root" | "namespace" | "command"
   readonly called: string
   readonly detail: string | null
   readonly children: readonly CommandTreeRow[]
