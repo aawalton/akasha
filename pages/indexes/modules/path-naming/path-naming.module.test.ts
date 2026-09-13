@@ -1,11 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import {
   importingOf,
-  namingOf,
   spellersIn,
-  spellingOf,
 } from "akasha/pages/indexes/modules/path-naming/path-naming.module.code.ts"
-import { heldIndexedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import {
   HELD,
   THREE,
@@ -16,28 +13,13 @@ const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
-const NOWHERE = "akasha/one/nowhere.module.ts"
-
-const AT = "HEAD"
+const TRACKED = "akasha/one/holder/holder.module.code.ts"
 
 const MOVING = new Map([[HELD, THREE]])
 
 function unindexed(): string {
   return scratch.rootFor("path-naming-")
 }
-
-function heldIndexed(): string {
-  return heldIndexedAt(scratch.rootFor("path-naming-"))
-}
-
-test("a path no page owns is answered as owned by no page", () => {
-  expect(namingOf(heldIndexed(), NOWHERE)).toEqual({ held: null })
-})
-
-test("an index that will not answer leaves what owns a path unread", () => {
-  const said = namingOf(unindexed(), HELD)
-  expect("unread" in said).toBe(true)
-})
 
 test("an index that will not answer leaves the importers unread", () => {
   const said = importingOf(unindexed(), MOVING)
@@ -49,18 +31,17 @@ test("a caller naming nothing moved reads no importer at all", () => {
 })
 
 test("a path the caller already knows about is left out of the search", () => {
-  const root = heldIndexed()
-  const every = spellingOf(root, AT, MOVING, new Set())
-  expect(spellingOf(root, AT, MOVING, new Set(every))).toEqual([])
+  const every = spellersIn([TRACKED], () => HELD, MOVING, new Set())
+  expect(every).toEqual([TRACKED])
+  expect(spellersIn([TRACKED], () => HELD, MOVING, new Set(every))).toEqual([])
 })
 
 test("a path that moves is never answered as a body naming what moved", () => {
-  expect(spellingOf(heldIndexed(), AT, MOVING, new Set())).not.toContain(HELD)
+  expect(spellersIn([HELD, TRACKED], () => HELD, MOVING, new Set())).toEqual([TRACKED])
 })
 
 test("a body git does not keep is left out of the search, and a tracked one is not", () => {
-  const tracked = "akasha/one/holder/holder.module.code.ts"
   const withheld = "akasha/one/holder/holder.module.state.uncommitted.json"
-  const said = spellersIn([tracked, withheld], () => HELD, MOVING, new Set())
-  expect(said).toEqual([tracked])
+  const said = spellersIn([TRACKED, withheld], () => HELD, MOVING, new Set())
+  expect(said).toEqual([TRACKED])
 })

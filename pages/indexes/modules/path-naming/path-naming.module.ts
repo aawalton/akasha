@@ -10,18 +10,6 @@ export const pathNaming = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Which page owns a path is answered by the index.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A path the index answers more than one page to is left unread.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A path no page owns is answered as owned by no page.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Which files import a path that moves is answered by the index.",
     },
     {
@@ -39,8 +27,7 @@ export const pathNaming = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The bodies searched are the ones the caller hands in, as paths with a reader or as a commit.",
+      statement: "The bodies searched are the ones the caller hands in, as paths with a reader.",
     },
     {
       invariantKind: "departure",
