@@ -9,10 +9,14 @@ export const salvos0091562NewHorizonsEndOfBook10Tomorrow = {
   position: 91,
   ownLength: 1521,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1219299/562-new-horizons-end-of-book-10-tomorrow",
-  externalId: "1219299",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1219299",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1219299/562-new-horizons-end-of-book-10-tomorrow",
+    },
+  ],
   publishedAt: "2023-05-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

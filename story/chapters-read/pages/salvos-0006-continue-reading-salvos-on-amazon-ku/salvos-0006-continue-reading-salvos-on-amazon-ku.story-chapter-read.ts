@@ -9,10 +9,14 @@ export const salvos0006ContinueReadingSalvosOnAmazonKu = {
   position: 6,
   ownLength: 68,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/593776/continue-reading-salvos-on-amazon-ku",
-  externalId: "593776",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "593776",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/593776/continue-reading-salvos-on-amazon-ku",
+    },
+  ],
   publishedAt: "2020-12-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

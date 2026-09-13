@@ -9,10 +9,14 @@ export const salvos0122716Betrayal = {
   position: 122,
   ownLength: 1780,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1877765/716-betrayal",
-  externalId: "1877765",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1877765",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1877765/716-betrayal",
+    },
+  ],
   publishedAt: "2024-10-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0117Chapter551ExtortionAttempt = {
   position: 117,
   ownLength: 1562,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2991349/chapter-551-extortion-attempt",
-  externalId: "2991349",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2991349",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2991349/chapter-551-extortion-attempt",
+    },
+  ],
   publishedAt: "2026-01-29",
   ownProgress: 1562,
   completedAt: "2026-06-29T20:02:10.606Z",

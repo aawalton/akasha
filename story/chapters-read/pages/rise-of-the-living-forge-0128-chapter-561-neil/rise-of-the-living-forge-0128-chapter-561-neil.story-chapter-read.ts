@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0128Chapter561Neil = {
   position: 128,
   ownLength: 1576,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3068185/chapter-561-neil",
-  externalId: "3068185",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3068185",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3068185/chapter-561-neil",
+    },
+  ],
   publishedAt: "2026-02-18",
   ownProgress: 1576,
   completedAt: "2026-06-29T20:02:32.280Z",

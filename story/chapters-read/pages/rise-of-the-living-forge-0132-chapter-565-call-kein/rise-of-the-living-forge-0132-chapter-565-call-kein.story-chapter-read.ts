@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0132Chapter565CallKein = {
   position: 132,
   ownLength: 1613,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3094992/chapter-565-call-kein",
-  externalId: "3094992",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3094992",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3094992/chapter-565-call-kein",
+    },
+  ],
   publishedAt: "2026-02-26",
   ownProgress: 1613,
   completedAt: "2026-06-29T20:02:39.882Z",

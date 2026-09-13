@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0115Chapter549Man = {
   position: 115,
   ownLength: 1936,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2984672/chapter-549-man",
-  externalId: "2984672",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2984672",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2984672/chapter-549-man",
+    },
+  ],
   publishedAt: "2026-01-27",
   ownProgress: 1936,
   completedAt: "2026-06-29T20:02:06.750Z",

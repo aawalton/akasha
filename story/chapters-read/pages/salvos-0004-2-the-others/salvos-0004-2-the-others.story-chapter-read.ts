@@ -9,10 +9,14 @@ export const salvos00042TheOthers = {
   position: 4,
   ownLength: 3338,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/582222/2-the-others",
-  externalId: "582222",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "582222",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/582222/2-the-others",
+    },
+  ],
   publishedAt: "2020-11-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

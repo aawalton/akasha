@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0189Chapter620War = {
   position: 189,
   ownLength: 2016,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3675192/chapter-620-war",
-  externalId: "3675192",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3675192",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3675192/chapter-620-war",
+    },
+  ],
   publishedAt: "2026-07-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

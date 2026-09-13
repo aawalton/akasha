@@ -9,10 +9,14 @@ export const salvos0017105Heathens = {
   position: 17,
   ownLength: 2174,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/669779/105-heathens",
-  externalId: "669779",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "669779",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/669779/105-heathens",
+    },
+  ],
   publishedAt: "2021-04-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const rockFallsEveryoneDies0005Chapter5StoneColdKiller = {
   position: 5,
   ownLength: 1320,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094419/chapter-5-stone-cold-killer",
-  externalId: "1094419",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1094419",
+      externalLink:
+        "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094419/chapter-5-stone-cold-killer",
+    },
+  ],
   publishedAt: "2023-01-22",
   ownProgress: 1320,
   completedAt: "2026-06-29T22:50:24.186Z",

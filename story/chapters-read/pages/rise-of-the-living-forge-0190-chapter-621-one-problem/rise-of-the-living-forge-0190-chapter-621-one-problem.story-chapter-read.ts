@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0190Chapter621OneProblem = {
   position: 190,
   ownLength: 1902,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3715219/chapter-621-one-problem",
-  externalId: "3715219",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3715219",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3715219/chapter-621-one-problem",
+    },
+  ],
   publishedAt: "2026-07-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

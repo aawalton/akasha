@@ -9,10 +9,14 @@ export const rockFallsEveryoneDies0018Chapter17NumbersGoUp = {
   position: 18,
   ownLength: 829,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1100866/chapter-17-numbers-go-up",
-  externalId: "1100866",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1100866",
+      externalLink:
+        "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1100866/chapter-17-numbers-go-up",
+    },
+  ],
   publishedAt: "2023-01-30",
   ownProgress: 829,
   completedAt: "2026-06-29T22:50:51.485Z",

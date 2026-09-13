@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0159Chapter591Rennovations = {
   position: 159,
   ownLength: 1669,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3395055/chapter-591-rennovations",
-  externalId: "3395055",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3395055",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3395055/chapter-591-rennovations",
+    },
+  ],
   publishedAt: "2026-05-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

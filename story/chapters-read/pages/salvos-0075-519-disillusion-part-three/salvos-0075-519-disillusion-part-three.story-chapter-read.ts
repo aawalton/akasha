@@ -9,10 +9,14 @@ export const salvos0075519DisillusionPartThree = {
   position: 75,
   ownLength: 2051,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1123120/519-disillusion-part-three",
-  externalId: "1123120",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1123120",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1123120/519-disillusion-part-three",
+    },
+  ],
   publishedAt: "2023-02-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

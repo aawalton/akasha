@@ -9,10 +9,14 @@ export const rockFallsEveryoneDies0016Chapter15DoomsdayMeteor = {
   position: 16,
   ownLength: 1566,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1099423/chapter-15-doomsday-meteor",
-  externalId: "1099423",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1099423",
+      externalLink:
+        "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1099423/chapter-15-doomsday-meteor",
+    },
+  ],
   publishedAt: "2023-01-28",
   ownProgress: 1566,
   completedAt: "2026-06-29T22:50:47.093Z",

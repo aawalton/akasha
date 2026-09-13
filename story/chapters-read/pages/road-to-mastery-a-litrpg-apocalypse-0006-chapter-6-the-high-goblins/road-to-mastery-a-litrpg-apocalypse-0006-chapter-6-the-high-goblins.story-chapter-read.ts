@@ -9,10 +9,14 @@ export const roadToMasteryALitrpgApocalypse0006Chapter6TheHighGoblins = {
   position: 6,
   ownLength: 2119,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse/chapter/1042862/chapter-6-the-high-goblins",
-  externalId: "1042862",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1042862",
+      externalLink:
+        "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse/chapter/1042862/chapter-6-the-high-goblins",
+    },
+  ],
   publishedAt: "2022-11-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0141Chapter574Legendary = {
   position: 141,
   ownLength: 1631,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3164044/chapter-574-legendary",
-  externalId: "3164044",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3164044",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3164044/chapter-574-legendary",
+    },
+  ],
   publishedAt: "2026-03-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

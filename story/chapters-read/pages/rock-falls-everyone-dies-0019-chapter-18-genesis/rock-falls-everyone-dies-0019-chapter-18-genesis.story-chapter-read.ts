@@ -9,10 +9,14 @@ export const rockFallsEveryoneDies0019Chapter18Genesis = {
   position: 19,
   ownLength: 2083,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1100867/chapter-18-genesis",
-  externalId: "1100867",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1100867",
+      externalLink:
+        "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1100867/chapter-18-genesis",
+    },
+  ],
   publishedAt: "2023-01-30",
   ownProgress: 2083,
   completedAt: "2026-06-29T22:50:53.725Z",

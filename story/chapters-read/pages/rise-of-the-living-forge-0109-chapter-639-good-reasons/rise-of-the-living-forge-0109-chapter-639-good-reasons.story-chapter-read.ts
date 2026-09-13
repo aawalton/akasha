@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0109Chapter639GoodReasons = {
   position: 109,
   ownLength: 1763,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3867775/chapter-639-good-reasons",
-  externalId: "3867775",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3867775",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3867775/chapter-639-good-reasons",
+    },
+  ],
   publishedAt: "2026-08-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0169Chapter601Dread = {
   position: 169,
   ownLength: 2075,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3483280/chapter-601-dread",
-  externalId: "3483280",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3483280",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3483280/chapter-601-dread",
+    },
+  ],
   publishedAt: "2026-06-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

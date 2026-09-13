@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0110Chapter640Charge = {
   position: 110,
   ownLength: 1827,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3872068/chapter-640-charge",
-  externalId: "3872068",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3872068",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3872068/chapter-640-charge",
+    },
+  ],
   publishedAt: "2026-08-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

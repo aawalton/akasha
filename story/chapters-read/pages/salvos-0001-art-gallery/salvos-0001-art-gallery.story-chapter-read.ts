@@ -9,9 +9,14 @@ export const salvos0001ArtGallery = {
   position: 1,
   ownLength: 285,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/662170/art-gallery",
-  externalId: "662170",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "662170",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/662170/art-gallery",
+    },
+  ],
   publishedAt: "2021-04-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

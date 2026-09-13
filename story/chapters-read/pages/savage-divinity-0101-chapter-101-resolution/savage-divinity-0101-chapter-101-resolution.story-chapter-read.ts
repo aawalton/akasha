@@ -9,10 +9,14 @@ export const savageDivinity0101Chapter101Resolution = {
   position: 101,
   ownLength: 3430,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/84700/chapter-101-resolution",
-  externalId: "84700",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "84700",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/84700/chapter-101-resolution",
+    },
+  ],
   publishedAt: "2016-08-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

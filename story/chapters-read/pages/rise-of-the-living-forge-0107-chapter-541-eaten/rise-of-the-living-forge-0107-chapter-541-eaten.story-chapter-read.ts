@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0107Chapter541Eaten = {
   position: 107,
   ownLength: 1812,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2935873/chapter-541-eaten",
-  externalId: "2935873",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2935873",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2935873/chapter-541-eaten",
+    },
+  ],
   publishedAt: "2026-01-12",
   ownProgress: 1812,
   completedAt: "2026-06-29T20:01:51.345Z",

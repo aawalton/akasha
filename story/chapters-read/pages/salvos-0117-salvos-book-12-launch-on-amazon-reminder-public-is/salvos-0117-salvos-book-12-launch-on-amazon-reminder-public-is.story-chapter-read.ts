@@ -9,10 +9,14 @@ export const salvos0117SalvosBook12LaunchOnAmazonReminderPublicIs = {
   position: 117,
   ownLength: 156,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1578363/salvos-book-12-launch-on-amazon-reminder-public",
-  externalId: "1578363",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1578363",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1578363/salvos-book-12-launch-on-amazon-reminder-public",
+    },
+  ],
   publishedAt: "2024-04-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

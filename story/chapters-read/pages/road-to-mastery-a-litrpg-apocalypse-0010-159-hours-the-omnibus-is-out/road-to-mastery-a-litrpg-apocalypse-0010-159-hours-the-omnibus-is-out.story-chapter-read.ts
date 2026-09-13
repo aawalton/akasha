@@ -9,10 +9,14 @@ export const roadToMasteryALitrpgApocalypse0010159HoursTheOmnibusIsOut = {
   position: 10,
   ownLength: 64,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse/chapter/3866951/159-hours-the-omnibus-is-out",
-  externalId: "3866951",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3866951",
+      externalLink:
+        "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse/chapter/3866951/159-hours-the-omnibus-is-out",
+    },
+  ],
   publishedAt: "2026-08-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

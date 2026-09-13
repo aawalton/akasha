@@ -9,10 +9,14 @@ export const savageDivinity0001Chapter1NewBeginnings = {
   position: 1,
   ownLength: 1478,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/58095/chapter-1-new-beginnings",
-  externalId: "58095",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "58095",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/58095/chapter-1-new-beginnings",
+    },
+  ],
   publishedAt: "2016-03-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0150Chapter583Suitable = {
   position: 150,
   ownLength: 1917,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3305224/chapter-583-suitable",
-  externalId: "3305224",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3305224",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3305224/chapter-583-suitable",
+    },
+  ],
   publishedAt: "2026-04-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

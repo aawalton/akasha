@@ -9,10 +9,14 @@ export const salvos0029173Remembrance = {
   position: 29,
   ownLength: 2100,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/739682/173-remembrance",
-  externalId: "739682",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "739682",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/739682/173-remembrance",
+    },
+  ],
   publishedAt: "2021-08-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

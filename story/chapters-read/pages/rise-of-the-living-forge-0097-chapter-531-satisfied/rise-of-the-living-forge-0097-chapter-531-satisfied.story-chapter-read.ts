@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0097Chapter531Satisfied = {
   position: 97,
   ownLength: 1539,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2873591/chapter-531-satisfied",
-  externalId: "2873591",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2873591",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2873591/chapter-531-satisfied",
+    },
+  ],
   publishedAt: "2025-12-23",
   ownProgress: 1539,
   completedAt: "2026-06-29T20:01:32.623Z",

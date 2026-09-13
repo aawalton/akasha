@@ -9,10 +9,14 @@ export const roadToMasteryALitrpgApocalypse0008CosmicTower = {
   position: 8,
   ownLength: 252,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse/chapter/2678629/cosmic-tower",
-  externalId: "2678629",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2678629",
+      externalLink:
+        "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse/chapter/2678629/cosmic-tower",
+    },
+  ],
   publishedAt: "2025-10-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

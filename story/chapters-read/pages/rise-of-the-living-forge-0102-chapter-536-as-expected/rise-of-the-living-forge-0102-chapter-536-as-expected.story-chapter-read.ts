@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0102Chapter536AsExpected = {
   position: 102,
   ownLength: 1812,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2895812/chapter-536-as-expected",
-  externalId: "2895812",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2895812",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2895812/chapter-536-as-expected",
+    },
+  ],
   publishedAt: "2025-12-31",
   ownProgress: 1812,
   completedAt: "2026-06-29T20:01:41.800Z",

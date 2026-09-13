@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0131Chapter564TemptingOffers = {
   position: 131,
   ownLength: 2016,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3091400/chapter-564-tempting-offers",
-  externalId: "3091400",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3091400",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3091400/chapter-564-tempting-offers",
+    },
+  ],
   publishedAt: "2026-02-25",
   ownProgress: 2016,
   completedAt: "2026-06-29T20:02:38.049Z",

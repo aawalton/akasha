@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0121Chapter554MatterOfTime = {
   position: 121,
   ownLength: 1789,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3015300/chapter-554-matter-of-time",
-  externalId: "3015300",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3015300",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3015300/chapter-554-matter-of-time",
+    },
+  ],
   publishedAt: "2026-02-05",
   ownProgress: 1789,
   completedAt: "2026-06-29T20:02:18.618Z",

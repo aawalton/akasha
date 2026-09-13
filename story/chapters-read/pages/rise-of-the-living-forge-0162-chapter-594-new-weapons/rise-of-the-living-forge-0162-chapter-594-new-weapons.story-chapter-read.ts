@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0162Chapter594NewWeapons = {
   position: 162,
   ownLength: 2334,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3422660/chapter-594-new-weapons",
-  externalId: "3422660",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3422660",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3422660/chapter-594-new-weapons",
+    },
+  ],
   publishedAt: "2026-05-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

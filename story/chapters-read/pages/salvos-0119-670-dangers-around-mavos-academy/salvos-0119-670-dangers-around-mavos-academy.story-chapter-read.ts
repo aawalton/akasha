@@ -9,10 +9,14 @@ export const salvos0119670DangersAroundMavosAcademy = {
   position: 119,
   ownLength: 2076,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1707498/670-dangers-around-mavos-academy",
-  externalId: "1707498",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1707498",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1707498/670-dangers-around-mavos-academy",
+    },
+  ],
   publishedAt: "2024-07-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

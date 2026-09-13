@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0145Chapter578TheAuction = {
   position: 145,
   ownLength: 1819,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3187679/chapter-578-the-auction",
-  externalId: "3187679",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3187679",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3187679/chapter-578-the-auction",
+    },
+  ],
   publishedAt: "2026-03-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

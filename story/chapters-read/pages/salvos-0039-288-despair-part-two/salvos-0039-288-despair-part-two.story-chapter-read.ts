@@ -9,10 +9,14 @@ export const salvos0039288DespairPartTwo = {
   position: 39,
   ownLength: 2143,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/851939/288-despair-part-two",
-  externalId: "851939",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "851939",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/851939/288-despair-part-two",
+    },
+  ],
   publishedAt: "2022-02-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

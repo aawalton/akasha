@@ -9,10 +9,14 @@ export const salvos0048346WillysWillStartOfVolume5Part3 = {
   position: 48,
   ownLength: 2168,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/909778/346-willys-will-start-of-volume-5-part-3",
-  externalId: "909778",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "909778",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/909778/346-willys-will-start-of-volume-5-part-3",
+    },
+  ],
   publishedAt: "2022-05-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

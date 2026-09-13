@@ -9,10 +9,14 @@ export const salvos0098567Recollection = {
   position: 98,
   ownLength: 1522,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1259680/567-recollection",
-  externalId: "1259680",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1259680",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1259680/567-recollection",
+    },
+  ],
   publishedAt: "2023-06-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

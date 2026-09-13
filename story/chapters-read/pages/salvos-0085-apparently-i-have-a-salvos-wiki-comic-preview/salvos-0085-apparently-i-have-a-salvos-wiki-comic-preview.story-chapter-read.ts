@@ -9,10 +9,14 @@ export const salvos0085ApparentlyIHaveASalvosWikiComicPreview = {
   position: 85,
   ownLength: 43,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1211931/apparently-i-have-a-salvos-wiki-comic-preview",
-  externalId: "1211931",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1211931",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1211931/apparently-i-have-a-salvos-wiki-comic-preview",
+    },
+  ],
   publishedAt: "2023-05-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

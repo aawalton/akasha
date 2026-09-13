@@ -9,10 +9,14 @@ export const salvos0014103Compromising = {
   position: 14,
   ownLength: 2240,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/668651/103-compromising",
-  externalId: "668651",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "668651",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/668651/103-compromising",
+    },
+  ],
   publishedAt: "2021-04-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

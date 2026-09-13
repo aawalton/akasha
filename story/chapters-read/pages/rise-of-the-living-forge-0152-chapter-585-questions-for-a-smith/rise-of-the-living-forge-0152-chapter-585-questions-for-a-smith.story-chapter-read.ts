@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0152Chapter585QuestionsForASmith = {
   position: 152,
   ownLength: 2009,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3358229/chapter-585-questions-for-a-smith",
-  externalId: "3358229",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3358229",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3358229/chapter-585-questions-for-a-smith",
+    },
+  ],
   publishedAt: "2026-05-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

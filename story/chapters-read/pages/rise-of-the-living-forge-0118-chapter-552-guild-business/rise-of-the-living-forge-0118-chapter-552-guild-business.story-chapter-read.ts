@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0118Chapter552GuildBusiness = {
   position: 118,
   ownLength: 1708,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3008769/chapter-552-guild-business",
-  externalId: "3008769",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3008769",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3008769/chapter-552-guild-business",
+    },
+  ],
   publishedAt: "2026-02-03",
   ownProgress: 1708,
   completedAt: "2026-06-29T20:02:12.658Z",

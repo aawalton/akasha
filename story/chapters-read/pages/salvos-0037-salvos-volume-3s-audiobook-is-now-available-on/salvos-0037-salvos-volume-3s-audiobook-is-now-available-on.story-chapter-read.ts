@@ -9,10 +9,14 @@ export const salvos0037SalvosVolume3sAudiobookIsNowAvailableOn = {
   position: 37,
   ownLength: 85,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/846299/salvos-volume-3s-audiobook-is-now-available-on",
-  externalId: "846299",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "846299",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/846299/salvos-volume-3s-audiobook-is-now-available-on",
+    },
+  ],
   publishedAt: "2022-02-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0124Chapter557Settingexpectations = {
   position: 124,
   ownLength: 1743,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3036728/chapter-557-settingexpectations",
-  externalId: "3036728",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3036728",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3036728/chapter-557-settingexpectations",
+    },
+  ],
   publishedAt: "2026-02-11",
   ownProgress: 1743,
   completedAt: "2026-06-29T20:02:24.571Z",

@@ -9,10 +9,14 @@ export const salvos0033244NightsveilPart4 = {
   position: 33,
   ownLength: 1971,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/804233/244-nightsveil-part-4",
-  externalId: "804233",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "804233",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/804233/244-nightsveil-part-4",
+    },
+  ],
   publishedAt: "2021-12-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

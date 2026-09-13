@@ -7,12 +7,16 @@ export const riseOfTheLivingForge0117Chapter647TheQuest = {
   position: 117,
   publishedAt: "2026-09-09",
   unit: "words",
-  externalId: "3934849",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3934849",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3934849/chapter-647-the-quest",
+    },
+  ],
   title: "Chapter 647: The Quest",
   story: "story-read/rise-of-the-living-forge",
   ownLength: 3031,
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3934849/chapter-647-the-quest",
   prose: "txt",
 } as const satisfies StoryChapterRead

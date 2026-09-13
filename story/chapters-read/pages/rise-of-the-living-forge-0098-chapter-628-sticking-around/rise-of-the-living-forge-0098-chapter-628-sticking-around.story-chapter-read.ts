@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0098Chapter628StickingAround = {
   position: 98,
   ownLength: 1693,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3777966/chapter-628-sticking-around",
-  externalId: "3777966",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3777966",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3777966/chapter-628-sticking-around",
+    },
+  ],
   publishedAt: "2026-08-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

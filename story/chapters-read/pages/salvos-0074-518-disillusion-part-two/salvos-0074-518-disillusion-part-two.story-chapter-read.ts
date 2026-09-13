@@ -9,10 +9,14 @@ export const salvos0074518DisillusionPartTwo = {
   position: 74,
   ownLength: 2624,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1122584/518-disillusion-part-two",
-  externalId: "1122584",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1122584",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1122584/518-disillusion-part-two",
+    },
+  ],
   publishedAt: "2023-02-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

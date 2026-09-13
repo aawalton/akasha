@@ -9,10 +9,14 @@ export const salvos0054NewFicAnnouncementTheraNotAChapter = {
   position: 54,
   ownLength: 3175,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/955549/new-fic-announcement-thera-not-a-chapter",
-  externalId: "955549",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "955549",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/955549/new-fic-announcement-thera-not-a-chapter",
+    },
+  ],
   publishedAt: "2022-07-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const rockFallsEveryoneDies0014Chapter13LonelyVoyage = {
   position: 14,
   ownLength: 2012,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1097810/chapter-13-lonely-voyage",
-  externalId: "1097810",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1097810",
+      externalLink:
+        "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1097810/chapter-13-lonely-voyage",
+    },
+  ],
   publishedAt: "2023-01-26",
   ownProgress: 2012,
   completedAt: "2026-06-29T22:50:42.970Z",

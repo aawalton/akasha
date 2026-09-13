@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0180Chapter612Miscalculation = {
   position: 180,
   ownLength: 1519,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3574841/chapter-612-miscalculation",
-  externalId: "3574841",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3574841",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3574841/chapter-612-miscalculation",
+    },
+  ],
   publishedAt: "2026-06-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

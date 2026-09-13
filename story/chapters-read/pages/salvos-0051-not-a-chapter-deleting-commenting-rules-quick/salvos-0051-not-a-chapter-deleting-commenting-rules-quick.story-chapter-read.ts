@@ -9,10 +9,14 @@ export const salvos0051NotAChapterDeletingCommentingRulesQuick = {
   position: 51,
   ownLength: 110,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/947959/not-a-chapter-deleting-commenting-rules-quick",
-  externalId: "947959",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "947959",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/947959/not-a-chapter-deleting-commenting-rules-quick",
+    },
+  ],
   publishedAt: "2022-07-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

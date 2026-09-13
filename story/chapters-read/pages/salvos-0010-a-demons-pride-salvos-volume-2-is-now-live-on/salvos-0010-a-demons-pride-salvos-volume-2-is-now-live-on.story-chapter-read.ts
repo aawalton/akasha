@@ -9,10 +9,14 @@ export const salvos0010ADemonsPrideSalvosVolume2IsNowLiveOn = {
   position: 10,
   ownLength: 153,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/663950/a-demons-pride-salvos-volume-2-is-now-live-on",
-  externalId: "663950",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "663950",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/663950/a-demons-pride-salvos-volume-2-is-now-live-on",
+    },
+  ],
   publishedAt: "2021-04-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

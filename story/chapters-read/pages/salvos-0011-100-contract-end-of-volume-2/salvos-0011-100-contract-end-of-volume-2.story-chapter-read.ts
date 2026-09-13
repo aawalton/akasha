@@ -9,10 +9,14 @@ export const salvos0011100ContractEndOfVolume2 = {
   position: 11,
   ownLength: 3627,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/665886/100-contract-end-of-volume-2",
-  externalId: "665886",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "665886",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/665886/100-contract-end-of-volume-2",
+    },
+  ],
   publishedAt: "2021-04-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

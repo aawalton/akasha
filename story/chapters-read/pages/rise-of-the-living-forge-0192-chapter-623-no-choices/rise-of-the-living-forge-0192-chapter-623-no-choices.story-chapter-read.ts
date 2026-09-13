@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0192Chapter623NoChoices = {
   position: 192,
   ownLength: 1919,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3742016/chapter-623-no-choices",
-  externalId: "3742016",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3742016",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3742016/chapter-623-no-choices",
+    },
+  ],
   publishedAt: "2026-07-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const salvos0071SalvosBook9 = {
   position: 71,
   ownLength: 94,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1103275/salvos-book-9-hellprincessesssseessesesssessesesessesesssessssesssesess",
-  externalId: "1103275",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1103275",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1103275/salvos-book-9-hellprincessesssseessesesssessesesessesesssessssesssesess",
+    },
+  ],
   publishedAt: "2023-02-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

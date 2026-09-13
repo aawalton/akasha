@@ -9,10 +9,14 @@ export const salvos0045SalvosGermanTranslationIsOfficiallyAvailable = {
   position: 45,
   ownLength: 97,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/889932/salvos-german-translation-is-officially-available",
-  externalId: "889932",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "889932",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/889932/salvos-german-translation-is-officially-available",
+    },
+  ],
   publishedAt: "2022-04-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

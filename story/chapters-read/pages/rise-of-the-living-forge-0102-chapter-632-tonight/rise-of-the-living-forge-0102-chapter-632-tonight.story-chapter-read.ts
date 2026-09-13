@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0102Chapter632Tonight = {
   position: 102,
   ownLength: 2751,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3808934/chapter-632-tonight",
-  externalId: "3808934",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3808934",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3808934/chapter-632-tonight",
+    },
+  ],
   publishedAt: "2026-08-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0171Chapter603NotQuiteImpossible = {
   position: 171,
   ownLength: 1735,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3491896/chapter-603-not-quite-impossible",
-  externalId: "3491896",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3491896",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3491896/chapter-603-not-quite-impossible",
+    },
+  ],
   publishedAt: "2026-06-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const salvos0092AfterOverTwoYearsTheSalvosWebcomicIs = {
   position: 92,
   ownLength: 1,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1220460/after-over-two-years-the-salvos-webcomic-is-finally",
-  externalId: "1220460",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1220460",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1220460/after-over-two-years-the-salvos-webcomic-is-finally",
+    },
+  ],
   publishedAt: "2023-05-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

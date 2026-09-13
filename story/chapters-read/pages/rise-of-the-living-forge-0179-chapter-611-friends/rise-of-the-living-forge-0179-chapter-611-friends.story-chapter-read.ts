@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0179Chapter611Friends = {
   position: 179,
   ownLength: 2076,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3556779/chapter-611-friends",
-  externalId: "3556779",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3556779",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3556779/chapter-611-friends",
+    },
+  ],
   publishedAt: "2026-06-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

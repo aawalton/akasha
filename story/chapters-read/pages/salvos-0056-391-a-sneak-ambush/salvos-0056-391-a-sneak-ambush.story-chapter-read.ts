@@ -9,10 +9,14 @@ export const salvos0056391ASneakAmbush = {
   position: 56,
   ownLength: 2722,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/956906/391-a-sneak-ambush",
-  externalId: "956906",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "956906",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/956906/391-a-sneak-ambush",
+    },
+  ],
   publishedAt: "2022-07-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

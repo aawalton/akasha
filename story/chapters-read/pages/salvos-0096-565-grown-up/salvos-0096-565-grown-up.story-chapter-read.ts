@@ -9,10 +9,14 @@ export const salvos0096565GrownUp = {
   position: 96,
   ownLength: 2048,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1250975/565-grown-up",
-  externalId: "1250975",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1250975",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1250975/565-grown-up",
+    },
+  ],
   publishedAt: "2023-06-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

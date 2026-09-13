@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0170Chapter602TheTrueCorruption = {
   position: 170,
   ownLength: 1640,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3487453/chapter-602-the-true-corruption",
-  externalId: "3487453",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3487453",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3487453/chapter-602-the-true-corruption",
+    },
+  ],
   publishedAt: "2026-06-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

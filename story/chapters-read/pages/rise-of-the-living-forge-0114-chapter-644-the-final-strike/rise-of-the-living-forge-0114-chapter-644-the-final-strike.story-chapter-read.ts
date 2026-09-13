@@ -8,11 +8,15 @@ export const riseOfTheLivingForge0114Chapter644TheFinalStrike = {
   position: 114,
   publishedAt: "2026-09-03",
   unit: "words",
-  externalId: "3904859",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3904859",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3904859/chapter-644-the-final-strike",
+    },
+  ],
   title: "Chapter 644: The Final Strike",
   ownLength: 2090,
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3904859/chapter-644-the-final-strike",
   prose: "txt",
 } as const satisfies StoryChapterRead

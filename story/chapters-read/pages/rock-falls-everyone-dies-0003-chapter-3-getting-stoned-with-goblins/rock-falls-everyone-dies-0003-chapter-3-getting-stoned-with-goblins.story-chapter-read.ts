@@ -9,10 +9,14 @@ export const rockFallsEveryoneDies0003Chapter3GettingStonedWithGoblins = {
   position: 3,
   ownLength: 1762,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094284/chapter-3-getting-stoned-with-goblins",
-  externalId: "1094284",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1094284",
+      externalLink:
+        "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094284/chapter-3-getting-stoned-with-goblins",
+    },
+  ],
   publishedAt: "2023-01-22",
   ownProgress: 1762,
   completedAt: "2026-06-29T22:50:19.749Z",

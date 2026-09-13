@@ -9,10 +9,14 @@ export const salvos0047345ChampionPartFiveEndOfVolume5PartTwo = {
   position: 47,
   ownLength: 2857,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/908833/345-champion-part-five-end-of-volume-5-part-two",
-  externalId: "908833",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "908833",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/908833/345-champion-part-five-end-of-volume-5-part-two",
+    },
+  ],
   publishedAt: "2022-05-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

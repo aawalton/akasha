@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0106Chapter540Awake = {
   position: 106,
   ownLength: 1672,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2925192/chapter-540-awake",
-  externalId: "2925192",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2925192",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2925192/chapter-540-awake",
+    },
+  ],
   publishedAt: "2026-01-09",
   ownProgress: 1672,
   completedAt: "2026-06-29T20:01:49.423Z",

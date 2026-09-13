@@ -9,10 +9,14 @@ export const salvos0135759EmbracingDeathPartSeven = {
   position: 135,
   ownLength: 1701,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/2691839/759-embracing-death-part-seven",
-  externalId: "2691839",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2691839",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/2691839/759-embracing-death-part-seven",
+    },
+  ],
   publishedAt: "2025-10-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

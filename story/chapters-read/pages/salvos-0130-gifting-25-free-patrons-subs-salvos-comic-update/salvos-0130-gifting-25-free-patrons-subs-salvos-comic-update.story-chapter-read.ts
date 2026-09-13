@@ -10,10 +10,14 @@ export const salvos0130Gifting25FreePatronsSubsSalvosComicUpdate = {
   position: 130,
   ownLength: 179,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1905327/gifting-25-free-patrons-subs-salvos-comic-update",
-  externalId: "1905327",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1905327",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1905327/gifting-25-free-patrons-subs-salvos-comic-update",
+    },
+  ],
   publishedAt: "2024-11-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

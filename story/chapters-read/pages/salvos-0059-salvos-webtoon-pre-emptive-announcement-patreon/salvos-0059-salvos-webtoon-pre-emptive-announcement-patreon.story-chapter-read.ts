@@ -9,10 +9,14 @@ export const salvos0059SalvosWebtoonPreEmptiveAnnouncementPatreon = {
   position: 59,
   ownLength: 1076,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/963346/salvos-webtoon-pre-emptive-announcement-patreon",
-  externalId: "963346",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "963346",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/963346/salvos-webtoon-pre-emptive-announcement-patreon",
+    },
+  ],
   publishedAt: "2022-08-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

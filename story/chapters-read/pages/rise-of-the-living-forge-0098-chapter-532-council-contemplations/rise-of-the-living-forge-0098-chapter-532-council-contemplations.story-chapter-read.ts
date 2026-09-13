@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0098Chapter532CouncilContemplations = {
   position: 98,
   ownLength: 1618,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2876530/chapter-532-council-contemplations",
-  externalId: "2876530",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2876530",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2876530/chapter-532-council-contemplations",
+    },
+  ],
   publishedAt: "2025-12-24",
   ownProgress: 1618,
   completedAt: "2026-06-29T20:01:34.410Z",

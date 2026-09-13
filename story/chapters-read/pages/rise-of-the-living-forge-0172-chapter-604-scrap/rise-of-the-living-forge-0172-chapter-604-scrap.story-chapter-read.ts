@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0172Chapter604Scrap = {
   position: 172,
   ownLength: 1834,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3511980/chapter-604-scrap",
-  externalId: "3511980",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3511980",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3511980/chapter-604-scrap",
+    },
+  ],
   publishedAt: "2026-06-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

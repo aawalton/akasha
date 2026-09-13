@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0123Chapter556Mausoleum = {
   position: 123,
   ownLength: 1962,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3033256/chapter-556-mausoleum",
-  externalId: "3033256",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3033256",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3033256/chapter-556-mausoleum",
+    },
+  ],
   publishedAt: "2026-02-10",
   ownProgress: 1962,
   completedAt: "2026-06-29T20:02:22.628Z",

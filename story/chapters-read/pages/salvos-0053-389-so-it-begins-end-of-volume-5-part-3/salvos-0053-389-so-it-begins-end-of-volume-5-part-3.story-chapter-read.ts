@@ -9,10 +9,14 @@ export const salvos0053389SoItBeginsEndOfVolume5Part3 = {
   position: 53,
   ownLength: 1617,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/953513/389-so-it-begins-end-of-volume-5-part-3",
-  externalId: "953513",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "953513",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/953513/389-so-it-begins-end-of-volume-5-part-3",
+    },
+  ],
   publishedAt: "2022-07-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

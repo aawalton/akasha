@@ -9,10 +9,14 @@ export const roadToMasteryALitrpgApocalypse0009TheWebcomicIsOut = {
   position: 9,
   ownLength: 157,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse/chapter/3740649/the-webcomic-is-out",
-  externalId: "3740649",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3740649",
+      externalLink:
+        "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse/chapter/3740649/the-webcomic-is-out",
+    },
+  ],
   publishedAt: "2026-07-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

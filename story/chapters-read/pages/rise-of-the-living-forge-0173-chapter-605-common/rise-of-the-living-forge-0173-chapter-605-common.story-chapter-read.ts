@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0173Chapter605Common = {
   position: 173,
   ownLength: 1729,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3514855/chapter-605-common",
-  externalId: "3514855",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3514855",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3514855/chapter-605-common",
+    },
+  ],
   publishedAt: "2026-06-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

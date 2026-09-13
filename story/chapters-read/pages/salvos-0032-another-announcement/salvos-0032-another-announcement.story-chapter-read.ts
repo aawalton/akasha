@@ -9,10 +9,14 @@ export const salvos0032AnotherAnnouncement = {
   position: 32,
   ownLength: 70,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/802279/another-announcement",
-  externalId: "802279",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "802279",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/802279/another-announcement",
+    },
+  ],
   publishedAt: "2021-12-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

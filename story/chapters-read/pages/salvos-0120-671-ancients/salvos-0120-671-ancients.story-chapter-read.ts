@@ -9,10 +9,14 @@ export const salvos0120671Ancients = {
   position: 120,
   ownLength: 2192,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1718015/671-ancients",
-  externalId: "1718015",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1718015",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1718015/671-ancients",
+    },
+  ],
   publishedAt: "2024-07-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

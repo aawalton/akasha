@@ -9,10 +9,14 @@ export const salvos0055390LevelDifferenceStartOfVolume5Part4 = {
   position: 55,
   ownLength: 2039,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/955674/390-level-difference-start-of-volume-5-part-4",
-  externalId: "955674",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "955674",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/955674/390-level-difference-start-of-volume-5-part-4",
+    },
+  ],
   publishedAt: "2022-07-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

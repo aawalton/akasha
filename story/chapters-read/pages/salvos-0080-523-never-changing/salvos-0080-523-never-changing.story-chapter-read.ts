@@ -9,10 +9,14 @@ export const salvos0080523NeverChanging = {
   position: 80,
   ownLength: 2050,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1146126/523-never-changing",
-  externalId: "1146126",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1146126",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1146126/523-never-changing",
+    },
+  ],
   publishedAt: "2023-03-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

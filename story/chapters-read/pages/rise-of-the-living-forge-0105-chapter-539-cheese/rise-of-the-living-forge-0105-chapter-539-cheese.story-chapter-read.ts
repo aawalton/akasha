@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0105Chapter539Cheese = {
   position: 105,
   ownLength: 1852,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2920469/chapter-539-cheese",
-  externalId: "2920469",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2920469",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2920469/chapter-539-cheese",
+    },
+  ],
   publishedAt: "2026-01-07",
   ownProgress: 1852,
   completedAt: "2026-06-29T20:01:47.499Z",

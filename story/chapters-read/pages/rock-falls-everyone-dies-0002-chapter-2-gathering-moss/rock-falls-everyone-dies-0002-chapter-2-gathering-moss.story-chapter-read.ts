@@ -9,10 +9,14 @@ export const rockFallsEveryoneDies0002Chapter2GatheringMoss = {
   position: 2,
   ownLength: 1570,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094252/chapter-2-gathering-moss",
-  externalId: "1094252",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1094252",
+      externalLink:
+        "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094252/chapter-2-gathering-moss",
+    },
+  ],
   publishedAt: "2023-01-22",
   ownProgress: 1570,
   completedAt: "2026-06-29T22:50:17.555Z",

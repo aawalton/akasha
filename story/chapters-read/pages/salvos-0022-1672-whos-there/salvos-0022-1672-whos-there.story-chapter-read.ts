@@ -9,10 +9,14 @@ export const salvos00221672WhosThere = {
   position: 22,
   ownLength: 1339,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/735279/1672-whos-there",
-  externalId: "735279",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "735279",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/735279/1672-whos-there",
+    },
+  ],
   publishedAt: "2021-08-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

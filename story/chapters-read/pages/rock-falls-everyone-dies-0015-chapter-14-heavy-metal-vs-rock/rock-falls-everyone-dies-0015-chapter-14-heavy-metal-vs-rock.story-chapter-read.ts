@@ -9,10 +9,14 @@ export const rockFallsEveryoneDies0015Chapter14HeavyMetalVsRock = {
   position: 15,
   ownLength: 2114,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1099389/chapter-14-heavy-metal-vs-rock",
-  externalId: "1099389",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1099389",
+      externalLink:
+        "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1099389/chapter-14-heavy-metal-vs-rock",
+    },
+  ],
   publishedAt: "2023-01-28",
   ownProgress: 2114,
   completedAt: "2026-06-29T22:50:45.069Z",

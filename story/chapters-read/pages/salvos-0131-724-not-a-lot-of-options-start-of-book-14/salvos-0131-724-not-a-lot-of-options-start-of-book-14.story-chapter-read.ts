@@ -9,10 +9,14 @@ export const salvos0131724NotALotOfOptionsStartOfBook14 = {
   position: 131,
   ownLength: 1600,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/2175477/724-not-a-lot-of-options-start-of-book-14",
-  externalId: "2175477",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2175477",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/2175477/724-not-a-lot-of-options-start-of-book-14",
+    },
+  ],
   publishedAt: "2025-04-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

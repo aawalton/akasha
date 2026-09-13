@@ -9,10 +9,14 @@ export const salvos0078521UniqueStartOfVolume6Part1book10 = {
   position: 78,
   ownLength: 1622,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1143780/521-unique-start-of-volume-6-part-1book-10",
-  externalId: "1143780",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1143780",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1143780/521-unique-start-of-volume-6-part-1book-10",
+    },
+  ],
   publishedAt: "2023-03-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const salvos0083526NetherworldDungeon = {
   position: 83,
   ownLength: 1660,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1150293/526-netherworld-dungeon",
-  externalId: "1150293",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1150293",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1150293/526-netherworld-dungeon",
+    },
+  ],
   publishedAt: "2023-03-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

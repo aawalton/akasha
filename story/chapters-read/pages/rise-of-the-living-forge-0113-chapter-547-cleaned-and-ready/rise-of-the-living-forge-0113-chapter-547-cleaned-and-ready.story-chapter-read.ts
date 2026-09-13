@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0113Chapter547CleanedAndReady = {
   position: 113,
   ownLength: 1976,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2968131/chapter-547-cleaned-and-ready",
-  externalId: "2968131",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2968131",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2968131/chapter-547-cleaned-and-ready",
+    },
+  ],
   publishedAt: "2026-01-22",
   ownProgress: 1976,
   completedAt: "2026-06-29T20:02:03.021Z",

@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0126Chapter559Concerns = {
   position: 126,
   ownLength: 1740,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3059747/chapter-559-concerns",
-  externalId: "3059747",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3059747",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3059747/chapter-559-concerns",
+    },
+  ],
   publishedAt: "2026-02-16",
   ownProgress: 1740,
   completedAt: "2026-06-29T20:02:28.420Z",

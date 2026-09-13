@@ -9,10 +9,14 @@ export const salvos0069AnnouncementPatreonNowAt30ChaptersAhead = {
   position: 69,
   ownLength: 186,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1029959/announcement-patreon-now-at-30-chapters-ahead",
-  externalId: "1029959",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1029959",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1029959/announcement-patreon-now-at-30-chapters-ahead",
+    },
+  ],
   publishedAt: "2022-11-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

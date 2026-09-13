@@ -9,10 +9,14 @@ export const salvos0129723ScopeEndOfBook13 = {
   position: 129,
   ownLength: 1350,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1889104/723-scope-end-of-book-13",
-  externalId: "1889104",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1889104",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1889104/723-scope-end-of-book-13",
+    },
+  ],
   publishedAt: "2024-11-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

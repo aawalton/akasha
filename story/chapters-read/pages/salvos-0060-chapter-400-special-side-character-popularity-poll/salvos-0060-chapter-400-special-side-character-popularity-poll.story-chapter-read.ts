@@ -9,10 +9,14 @@ export const salvos0060Chapter400SpecialSideCharacterPopularityPoll = {
   position: 60,
   ownLength: 103,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/968326/chapter-400-special-side-character-popularity",
-  externalId: "968326",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "968326",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/968326/chapter-400-special-side-character-popularity",
+    },
+  ],
   publishedAt: "2022-08-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

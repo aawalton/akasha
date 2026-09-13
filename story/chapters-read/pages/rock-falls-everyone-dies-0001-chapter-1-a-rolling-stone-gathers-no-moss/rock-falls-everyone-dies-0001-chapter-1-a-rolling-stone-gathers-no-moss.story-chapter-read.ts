@@ -9,10 +9,14 @@ export const rockFallsEveryoneDies0001Chapter1ARollingStoneGathersNoMoss = {
   position: 1,
   ownLength: 1365,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1083016/chapter-1-a-rolling-stone-gathers-no-moss",
-  externalId: "1083016",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1083016",
+      externalLink:
+        "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1083016/chapter-1-a-rolling-stone-gathers-no-moss",
+    },
+  ],
   publishedAt: "2023-01-09",
   ownProgress: 1365,
   completedAt: "2026-06-29T22:50:15.675Z",

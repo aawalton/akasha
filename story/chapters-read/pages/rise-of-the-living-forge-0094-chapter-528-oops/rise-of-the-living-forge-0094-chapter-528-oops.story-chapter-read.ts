@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0094Chapter528Oops = {
   position: 94,
   ownLength: 1586,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2833042/chapter-528-oops",
-  externalId: "2833042",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2833042",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2833042/chapter-528-oops",
+    },
+  ],
   publishedAt: "2025-12-09",
   ownProgress: 1586,
   completedAt: "2026-06-29T20:01:26.452Z",

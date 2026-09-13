@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0096Chapter627Faults = {
   position: 96,
   ownLength: 1970,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3773202/chapter-627-faults",
-  externalId: "3773202",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3773202",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3773202/chapter-627-faults",
+    },
+  ],
   publishedAt: "2026-08-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

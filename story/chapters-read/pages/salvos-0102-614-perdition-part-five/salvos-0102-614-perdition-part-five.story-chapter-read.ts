@@ -9,10 +9,14 @@ export const salvos0102614PerditionPartFive = {
   position: 102,
   ownLength: 2591,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1383239/614-perdition-part-five",
-  externalId: "1383239",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1383239",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1383239/614-perdition-part-five",
+    },
+  ],
   publishedAt: "2023-10-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

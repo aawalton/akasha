@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0168Chapter600DeeperTroubles = {
   position: 168,
   ownLength: 1641,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3478272/chapter-600-deeper-troubles",
-  externalId: "3478272",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3478272",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3478272/chapter-600-deeper-troubles",
+    },
+  ],
   publishedAt: "2026-06-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const rockFallsEveryoneDies0020Epilogue1 = {
   position: 20,
   ownLength: 1344,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1101741/epilogue-1",
-  externalId: "1101741",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1101741",
+      externalLink:
+        "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1101741/epilogue-1",
+    },
+  ],
   publishedAt: "2023-01-31",
   ownProgress: 1344,
   completedAt: "2026-06-29T22:50:55.908Z",

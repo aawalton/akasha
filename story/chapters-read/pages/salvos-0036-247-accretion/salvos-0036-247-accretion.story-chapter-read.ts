@@ -9,10 +9,14 @@ export const salvos0036247Accretion = {
   position: 36,
   ownLength: 1992,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/810684/247-accretion",
-  externalId: "810684",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "810684",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/810684/247-accretion",
+    },
+  ],
   publishedAt: "2021-12-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const salvos0072516LordOfLies = {
   position: 72,
   ownLength: 4730,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1120689/516-lord-of-lies",
-  externalId: "1120689",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1120689",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1120689/516-lord-of-lies",
+    },
+  ],
   publishedAt: "2023-02-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

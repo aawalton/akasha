@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0148Chapter581AndAnnouncement = {
   position: 148,
   ownLength: 2078,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3218405/chapter-581-announcement",
-  externalId: "3218405",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3218405",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3218405/chapter-581-announcement",
+    },
+  ],
   publishedAt: "2026-04-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

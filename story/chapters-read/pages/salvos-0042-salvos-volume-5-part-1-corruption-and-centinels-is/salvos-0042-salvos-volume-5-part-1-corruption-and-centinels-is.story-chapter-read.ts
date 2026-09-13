@@ -9,10 +9,14 @@ export const salvos0042SalvosVolume5Part1CorruptionAndCentinelsIs = {
   position: 42,
   ownLength: 115,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/856306/salvos-volume-5-part-1-corruption-and-centinels",
-  externalId: "856306",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "856306",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/856306/salvos-volume-5-part-1-corruption-and-centinels",
+    },
+  ],
   publishedAt: "2022-03-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

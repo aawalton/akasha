@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0155Chapter587AndMajorAnnouncement = {
   position: 155,
   ownLength: 1708,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3366671/chapter-587-major-announcement",
-  externalId: "3366671",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3366671",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3366671/chapter-587-major-announcement",
+    },
+  ],
   publishedAt: "2026-05-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

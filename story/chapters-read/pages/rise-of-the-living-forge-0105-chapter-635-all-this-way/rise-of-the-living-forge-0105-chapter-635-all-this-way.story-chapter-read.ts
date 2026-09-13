@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0105Chapter635AllThisWay = {
   position: 105,
   ownLength: 1680,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3834357/chapter-635-all-this-way",
-  externalId: "3834357",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3834357",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3834357/chapter-635-all-this-way",
+    },
+  ],
   publishedAt: "2026-08-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

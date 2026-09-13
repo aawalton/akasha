@@ -9,10 +9,14 @@ export const salvos0019AnnouncementSalvosVol1NowAvailableAsAn = {
   position: 19,
   ownLength: 153,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/699849/announcement-salvos-vol-1-now-available-as-an",
-  externalId: "699849",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "699849",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/699849/announcement-salvos-vol-1-now-available-as-an",
+    },
+  ],
   publishedAt: "2021-06-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

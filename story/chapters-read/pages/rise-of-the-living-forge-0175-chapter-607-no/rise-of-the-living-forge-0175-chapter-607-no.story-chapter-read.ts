@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0175Chapter607No = {
   position: 175,
   ownLength: 2380,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3524091/chapter-607-no",
-  externalId: "3524091",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3524091",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3524091/chapter-607-no",
+    },
+  ],
   publishedAt: "2026-06-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

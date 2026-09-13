@@ -9,10 +9,14 @@ export const salvos0066SalvosGermanTranslationBook3IsUp = {
   position: 66,
   ownLength: 93,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1016455/salvos-german-translation-book-3-is-up",
-  externalId: "1016455",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1016455",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1016455/salvos-german-translation-book-3-is-up",
+    },
+  ],
   publishedAt: "2022-10-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

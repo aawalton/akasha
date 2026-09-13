@@ -9,10 +9,14 @@ export const salvos0123717Insanity = {
   position: 123,
   ownLength: 1457,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1879449/717-insanity",
-  externalId: "1879449",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1879449",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1879449/717-insanity",
+    },
+  ],
   publishedAt: "2024-11-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

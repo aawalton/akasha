@@ -9,10 +9,14 @@ export const salvos0121672PrisonOfIsolation = {
   position: 121,
   ownLength: 1594,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1719553/672-prison-of-isolation",
-  externalId: "1719553",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1719553",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1719553/672-prison-of-isolation",
+    },
+  ],
   publishedAt: "2024-07-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

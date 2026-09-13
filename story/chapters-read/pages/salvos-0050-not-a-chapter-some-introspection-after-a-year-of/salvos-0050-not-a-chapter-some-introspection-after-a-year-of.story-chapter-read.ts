@@ -9,10 +9,14 @@ export const salvos0050NotAChapterSomeIntrospectionAfterAYearOf = {
   position: 50,
   ownLength: 1357,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/939533/not-a-chapter-some-introspection-after-a-year",
-  externalId: "939533",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "939533",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/939533/not-a-chapter-some-introspection-after-a-year",
+    },
+  ],
   publishedAt: "2022-07-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

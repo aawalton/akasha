@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0186Chapter618DungeonBreaks = {
   position: 186,
   ownLength: 2010,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3617267/chapter-618-dungeon-breaks",
-  externalId: "3617267",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3617267",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3617267/chapter-618-dungeon-breaks",
+    },
+  ],
   publishedAt: "2026-07-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

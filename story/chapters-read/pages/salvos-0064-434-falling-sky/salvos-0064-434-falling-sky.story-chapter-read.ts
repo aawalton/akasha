@@ -9,10 +9,14 @@ export const salvos0064434FallingSky = {
   position: 64,
   ownLength: 3395,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1014752/434-falling-sky",
-  externalId: "1014752",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1014752",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1014752/434-falling-sky",
+    },
+  ],
   publishedAt: "2022-10-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

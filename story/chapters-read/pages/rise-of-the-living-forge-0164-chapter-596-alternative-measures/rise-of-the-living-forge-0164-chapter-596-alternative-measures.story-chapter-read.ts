@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0164Chapter596AlternativeMeasures = {
   position: 164,
   ownLength: 1753,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3444110/chapter-596-alternative-measures",
-  externalId: "3444110",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3444110",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3444110/chapter-596-alternative-measures",
+    },
+  ],
   publishedAt: "2026-05-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0137Chapter570NotNearlyEnough = {
   position: 137,
   ownLength: 1848,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3133038/chapter-570-not-nearly-enough",
-  externalId: "3133038",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3133038",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3133038/chapter-570-not-nearly-enough",
+    },
+  ],
   publishedAt: "2026-03-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const salvos0046344ChampionPartFour = {
   position: 46,
   ownLength: 2950,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/908492/344-champion-part-four",
-  externalId: "908492",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "908492",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/908492/344-champion-part-four",
+    },
+  ],
   publishedAt: "2022-05-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

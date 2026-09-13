@@ -9,10 +9,14 @@ export const salvos0105Book11IsNowUpOnAmazonKuKickstarterEnding = {
   position: 105,
   ownLength: 158,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1394267/book-11-is-now-up-on-amazon-ku-kickstarter-ending",
-  externalId: "1394267",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1394267",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1394267/book-11-is-now-up-on-amazon-ku-kickstarter-ending",
+    },
+  ],
   publishedAt: "2023-11-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

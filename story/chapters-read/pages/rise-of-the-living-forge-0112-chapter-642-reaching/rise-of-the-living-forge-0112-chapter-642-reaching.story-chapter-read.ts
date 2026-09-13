@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0112Chapter642Reaching = {
   position: 112,
   ownLength: 1868,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3895854/chapter-642-reaching",
-  externalId: "3895854",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3895854",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3895854/chapter-642-reaching",
+    },
+  ],
   publishedAt: "2026-09-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

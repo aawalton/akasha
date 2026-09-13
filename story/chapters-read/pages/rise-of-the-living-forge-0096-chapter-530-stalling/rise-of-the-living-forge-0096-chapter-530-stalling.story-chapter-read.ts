@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0096Chapter530Stalling = {
   position: 96,
   ownLength: 1879,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2838970/chapter-530-stalling",
-  externalId: "2838970",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2838970",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2838970/chapter-530-stalling",
+    },
+  ],
   publishedAt: "2025-12-11",
   ownProgress: 1879,
   completedAt: "2026-06-29T20:01:30.695Z",

@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0122Chapter555BigGame = {
   position: 122,
   ownLength: 1677,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3029005/chapter-555-big-game",
-  externalId: "3029005",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3029005",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3029005/chapter-555-big-game",
+    },
+  ],
   publishedAt: "2026-02-09",
   ownProgress: 1677,
   completedAt: "2026-06-29T20:02:20.696Z",

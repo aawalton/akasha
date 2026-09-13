@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0130Chapter563Alliance = {
   position: 130,
   ownLength: 1645,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3087953/chapter-563-alliance",
-  externalId: "3087953",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3087953",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3087953/chapter-563-alliance",
+    },
+  ],
   publishedAt: "2026-02-24",
   ownProgress: 1645,
   completedAt: "2026-06-29T20:02:36.122Z",

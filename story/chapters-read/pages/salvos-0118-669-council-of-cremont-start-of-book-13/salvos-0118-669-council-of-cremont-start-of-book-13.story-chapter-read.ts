@@ -9,10 +9,14 @@ export const salvos0118669CouncilOfCremontStartOfBook13 = {
   position: 118,
   ownLength: 2192,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1705039/669-council-of-cremont-start-of-book-13",
-  externalId: "1705039",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1705039",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1705039/669-council-of-cremont-start-of-book-13",
+    },
+  ],
   publishedAt: "2024-07-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0097Book6IsOutOnAmazon = {
   position: 97,
   ownLength: 96,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3775772/book-6-is-out-on-amazon",
-  externalId: "3775772",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3775772",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3775772/book-6-is-out-on-amazon",
+    },
+  ],
   publishedAt: "2026-08-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

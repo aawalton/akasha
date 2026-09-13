@@ -9,10 +9,14 @@ export const salvos0028172CosmicCompression = {
   position: 28,
   ownLength: 2467,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/739141/172-cosmic-compression",
-  externalId: "739141",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "739141",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/739141/172-cosmic-compression",
+    },
+  ],
   publishedAt: "2021-08-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,9 +9,13 @@ export const salvos00031Rocks = {
   position: 3,
   ownLength: 2058,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/581008/1-rocks",
-  externalId: "581008",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "581008",
+      externalLink: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/581008/1-rocks",
+    },
+  ],
   publishedAt: "2020-11-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

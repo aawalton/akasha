@@ -9,10 +9,14 @@ export const salvos00053LearningExperience = {
   position: 5,
   ownLength: 2100,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/587965/3-learning-experience",
-  externalId: "587965",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "587965",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/587965/3-learning-experience",
+    },
+  ],
   publishedAt: "2020-11-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

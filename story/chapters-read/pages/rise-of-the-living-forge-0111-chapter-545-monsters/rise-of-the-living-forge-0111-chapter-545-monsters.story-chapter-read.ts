@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0111Chapter545Monsters = {
   position: 111,
   ownLength: 1719,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2961413/chapter-545-monsters",
-  externalId: "2961413",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2961413",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2961413/chapter-545-monsters",
+    },
+  ],
   publishedAt: "2026-01-20",
   ownProgress: 1719,
   completedAt: "2026-06-29T20:01:59.091Z",

@@ -9,10 +9,14 @@ export const rockFallsEveryoneDies0006Chapter6OneStoneBreaksBone = {
   position: 6,
   ownLength: 2037,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094460/chapter-6-one-stone-breaks-bone",
-  externalId: "1094460",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1094460",
+      externalLink:
+        "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094460/chapter-6-one-stone-breaks-bone",
+    },
+  ],
   publishedAt: "2023-01-22",
   ownProgress: 2037,
   completedAt: "2026-06-29T22:50:26.204Z",

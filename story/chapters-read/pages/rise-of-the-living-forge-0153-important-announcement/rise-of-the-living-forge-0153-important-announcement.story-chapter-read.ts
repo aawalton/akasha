@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0153ImportantAnnouncement = {
   position: 153,
   ownLength: 327,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3360472/important-announcement",
-  externalId: "3360472",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3360472",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3360472/important-announcement",
+    },
+  ],
   publishedAt: "2026-05-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0093Chapter527Sunsetted = {
   position: 93,
   ownLength: 1539,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2829970/chapter-527-sunsetted",
-  externalId: "2829970",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2829970",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2829970/chapter-527-sunsetted",
+    },
+  ],
   publishedAt: "2025-12-08",
   ownProgress: 1539,
   completedAt: "2026-06-29T20:01:24.485Z",

@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0161Chapter593InTheShadows = {
   position: 161,
   ownLength: 1634,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3418552/chapter-593-in-the-shadows",
-  externalId: "3418552",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3418552",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3418552/chapter-593-in-the-shadows",
+    },
+  ],
   publishedAt: "2026-05-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

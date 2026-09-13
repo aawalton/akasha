@@ -9,10 +9,14 @@ export const salvos0104TheBeastSalvosBook11DownloadAvailableFor5 = {
   position: 104,
   ownLength: 88,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1385256/the-beast-salvos-book-11-download-available-for",
-  externalId: "1385256",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1385256",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1385256/the-beast-salvos-book-11-download-available-for",
+    },
+  ],
   publishedAt: "2023-10-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

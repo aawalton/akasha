@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0185Chapter617HarshRealities = {
   position: 185,
   ownLength: 1933,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3612438/chapter-617-harsh-realities",
-  externalId: "3612438",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3612438",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3612438/chapter-617-harsh-realities",
+    },
+  ],
   publishedAt: "2026-06-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

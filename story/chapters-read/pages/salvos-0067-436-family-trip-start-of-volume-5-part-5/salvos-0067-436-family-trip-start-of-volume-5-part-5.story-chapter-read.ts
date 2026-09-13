@@ -9,10 +9,14 @@ export const salvos0067436FamilyTripStartOfVolume5Part5 = {
   position: 67,
   ownLength: 2441,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1020109/436-family-trip-start-of-volume-5-part-5",
-  externalId: "1020109",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1020109",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1020109/436-family-trip-start-of-volume-5-part-5",
+    },
+  ],
   publishedAt: "2022-10-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

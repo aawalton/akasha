@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0111Chapter641Failiure = {
   position: 111,
   ownLength: 2423,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3890540/chapter-641-failiure",
-  externalId: "3890540",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3890540",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3890540/chapter-641-failiure",
+    },
+  ],
   publishedAt: "2026-08-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

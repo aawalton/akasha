@@ -9,10 +9,14 @@ export const rockFallsEveryoneDies0004Chapter4RockHardHotAndSteamy = {
   position: 4,
   ownLength: 1819,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094374/chapter-4-rock-hard-hot-and-steamy",
-  externalId: "1094374",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1094374",
+      externalLink:
+        "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094374/chapter-4-rock-hard-hot-and-steamy",
+    },
+  ],
   publishedAt: "2023-01-22",
   ownProgress: 1819,
   completedAt: "2026-06-29T22:50:22.084Z",

@@ -9,10 +9,14 @@ export const salvos000841DanielsDilemmaStartOfVolume2 = {
   position: 8,
   ownLength: 1828,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/619938/41-daniels-dilemma-start-of-volume-2",
-  externalId: "619938",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "619938",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/619938/41-daniels-dilemma-start-of-volume-2",
+    },
+  ],
   publishedAt: "2021-01-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

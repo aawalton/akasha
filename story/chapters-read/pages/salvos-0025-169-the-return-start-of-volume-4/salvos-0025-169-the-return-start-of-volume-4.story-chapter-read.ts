@@ -9,10 +9,14 @@ export const salvos0025169TheReturnStartOfVolume4 = {
   position: 25,
   ownLength: 2108,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/736412/169-the-return-start-of-volume-4",
-  externalId: "736412",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "736412",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/736412/169-the-return-start-of-volume-4",
+    },
+  ],
   publishedAt: "2021-08-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

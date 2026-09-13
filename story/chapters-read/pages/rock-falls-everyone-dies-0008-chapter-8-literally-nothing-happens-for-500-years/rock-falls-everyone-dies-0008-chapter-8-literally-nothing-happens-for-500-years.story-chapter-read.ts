@@ -9,10 +9,14 @@ export const rockFallsEveryoneDies0008Chapter8LiterallyNothingHappensFor500Years
   position: 8,
   ownLength: 67,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094608/chapter-8-literally-nothing-happens-for-500-years",
-  externalId: "1094608",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1094608",
+      externalLink:
+        "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094608/chapter-8-literally-nothing-happens-for-500-years",
+    },
+  ],
   publishedAt: "2023-01-23",
   ownProgress: 67,
   completedAt: "2026-06-29T22:50:30.432Z",

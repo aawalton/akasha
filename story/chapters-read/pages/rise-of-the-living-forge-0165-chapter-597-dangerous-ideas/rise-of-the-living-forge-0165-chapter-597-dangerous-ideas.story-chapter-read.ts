@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0165Chapter597DangerousIdeas = {
   position: 165,
   ownLength: 1749,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3448666/chapter-597-dangerous-ideas",
-  externalId: "3448666",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3448666",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3448666/chapter-597-dangerous-ideas",
+    },
+  ],
   publishedAt: "2026-05-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

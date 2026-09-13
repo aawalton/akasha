@@ -9,10 +9,14 @@ export const salvos0116668MysticalAssassinEndOfBook12 = {
   position: 116,
   ownLength: 1324,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1572047/668-mystical-assassin-end-of-book-12",
-  externalId: "1572047",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1572047",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1572047/668-mystical-assassin-end-of-book-12",
+    },
+  ],
   publishedAt: "2024-03-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

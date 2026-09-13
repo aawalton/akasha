@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0113Chapter643EndTheWar = {
   position: 113,
   ownLength: 2027,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3900520/chapter-643-end-the-war",
-  externalId: "3900520",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3900520",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3900520/chapter-643-end-the-war",
+    },
+  ],
   publishedAt: "2026-09-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

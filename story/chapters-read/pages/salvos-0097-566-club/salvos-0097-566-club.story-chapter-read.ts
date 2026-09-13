@@ -9,9 +9,14 @@ export const salvos0097566Club = {
   position: 97,
   ownLength: 2111,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1251931/566-club",
-  externalId: "1251931",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1251931",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1251931/566-club",
+    },
+  ],
   publishedAt: "2023-06-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

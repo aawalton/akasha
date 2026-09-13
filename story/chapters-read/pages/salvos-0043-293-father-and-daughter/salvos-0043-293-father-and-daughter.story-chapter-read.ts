@@ -9,10 +9,14 @@ export const salvos0043293FatherAndDaughter = {
   position: 43,
   ownLength: 2396,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/856916/293-father-and-daughter",
-  externalId: "856916",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "856916",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/856916/293-father-and-daughter",
+    },
+  ],
   publishedAt: "2022-03-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

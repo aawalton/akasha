@@ -9,10 +9,14 @@ export const salvos0035246BeginStartOfVolume5 = {
   position: 35,
   ownLength: 2023,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/808169/246-begin-start-of-volume-5",
-  externalId: "808169",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "808169",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/808169/246-begin-start-of-volume-5",
+    },
+  ],
   publishedAt: "2021-12-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

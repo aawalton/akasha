@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0154Chapter586DreamsOfMidnight = {
   position: 154,
   ownLength: 2010,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3362678/chapter-586-dreams-of-midnight",
-  externalId: "3362678",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3362678",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3362678/chapter-586-dreams-of-midnight",
+    },
+  ],
   publishedAt: "2026-05-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,9 +9,14 @@ export const salvos0115667Stasis = {
   position: 115,
   ownLength: 2046,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1571318/667-stasis",
-  externalId: "1571318",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1571318",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1571318/667-stasis",
+    },
+  ],
   publishedAt: "2024-03-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

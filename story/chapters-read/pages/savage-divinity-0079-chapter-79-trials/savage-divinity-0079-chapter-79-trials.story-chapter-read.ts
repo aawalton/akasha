@@ -9,10 +9,14 @@ export const savageDivinity0079Chapter79Trials = {
   position: 79,
   ownLength: 3647,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/75360/chapter-79-trials",
-  externalId: "75360",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "75360",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/75360/chapter-79-trials",
+    },
+  ],
   publishedAt: "2016-06-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

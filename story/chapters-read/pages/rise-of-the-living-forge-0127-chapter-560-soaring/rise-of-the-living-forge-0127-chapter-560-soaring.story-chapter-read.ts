@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0127Chapter560Soaring = {
   position: 127,
   ownLength: 1864,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3063203/chapter-560-soaring",
-  externalId: "3063203",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3063203",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3063203/chapter-560-soaring",
+    },
+  ],
   publishedAt: "2026-02-17",
   ownProgress: 1864,
   completedAt: "2026-06-29T20:02:30.380Z",

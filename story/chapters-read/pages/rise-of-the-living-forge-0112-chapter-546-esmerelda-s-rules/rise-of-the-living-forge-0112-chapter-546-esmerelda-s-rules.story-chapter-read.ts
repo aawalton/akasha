@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0112Chapter546EsmereldaSRules = {
   position: 112,
   ownLength: 1652,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2964698/chapter-546-esmereldas-rules",
-  externalId: "2964698",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2964698",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2964698/chapter-546-esmereldas-rules",
+    },
+  ],
   publishedAt: "2026-01-21",
   ownProgress: 1652,
   completedAt: "2026-06-29T20:02:01.043Z",

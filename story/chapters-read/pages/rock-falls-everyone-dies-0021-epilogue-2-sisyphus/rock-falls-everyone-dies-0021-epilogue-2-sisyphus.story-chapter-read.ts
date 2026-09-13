@@ -9,10 +9,14 @@ export const rockFallsEveryoneDies0021Epilogue2Sisyphus = {
   position: 21,
   ownLength: 1488,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1101742/epilogue-2-sisyphus",
-  externalId: "1101742",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1101742",
+      externalLink:
+        "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1101742/epilogue-2-sisyphus",
+    },
+  ],
   publishedAt: "2023-01-31",
   ownProgress: 1379,
   prose: "txt",

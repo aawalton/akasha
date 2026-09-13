@@ -9,10 +9,14 @@ export const salvos0113665TheFallOfTheFairiesPartFour = {
   position: 113,
   ownLength: 1783,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1569319/665-the-fall-of-the-fairies-part-four",
-  externalId: "1569319",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1569319",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1569319/665-the-fall-of-the-fairies-part-four",
+    },
+  ],
   publishedAt: "2024-03-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,10 +10,14 @@ export const salvos0101TheSalvosPaperbackHardcoverKickstarterIs = {
   position: 101,
   ownLength: 221,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1377117/the-salvos-paperback-hardcover-kickstarter-is",
-  externalId: "1377117",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1377117",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1377117/the-salvos-paperback-hardcover-kickstarter-is",
+    },
+  ],
   publishedAt: "2023-10-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

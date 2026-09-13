@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0103Chapter537OldFashioned = {
   position: 103,
   ownLength: 2160,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2898513/chapter-537-old-fashioned",
-  externalId: "2898513",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2898513",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2898513/chapter-537-old-fashioned",
+    },
+  ],
   publishedAt: "2026-01-01",
   ownProgress: 2160,
   completedAt: "2026-06-29T20:01:43.733Z",

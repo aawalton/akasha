@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0107Chapter637Anticlimactic = {
   position: 107,
   ownLength: 2177,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3858139/chapter-637-anticlimactic",
-  externalId: "3858139",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3858139",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3858139/chapter-637-anticlimactic",
+    },
+  ],
   publishedAt: "2026-08-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const salvos0012101ConsequencesStartOfVolume3 = {
   position: 12,
   ownLength: 2966,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/667496/101-consequences-start-of-volume-3",
-  externalId: "667496",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "667496",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/667496/101-consequences-start-of-volume-3",
+    },
+  ],
   publishedAt: "2021-04-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

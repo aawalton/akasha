@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0134Chapter567WrongFight = {
   position: 134,
   ownLength: 1817,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3112067/chapter-567-wrong-fight",
-  externalId: "3112067",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3112067",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3112067/chapter-567-wrong-fight",
+    },
+  ],
   publishedAt: "2026-03-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

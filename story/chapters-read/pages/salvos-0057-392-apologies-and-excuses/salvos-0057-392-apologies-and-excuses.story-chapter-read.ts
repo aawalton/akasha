@@ -9,10 +9,14 @@ export const salvos0057392ApologiesAndExcuses = {
   position: 57,
   ownLength: 2685,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/957411/392-apologies-and-excuses",
-  externalId: "957411",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "957411",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/957411/392-apologies-and-excuses",
+    },
+  ],
   publishedAt: "2022-07-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

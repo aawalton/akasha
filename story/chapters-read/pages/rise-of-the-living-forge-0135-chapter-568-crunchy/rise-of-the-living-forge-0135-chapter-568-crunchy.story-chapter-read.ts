@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0135Chapter568Crunchy = {
   position: 135,
   ownLength: 1834,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3115890/chapter-568-crunchy",
-  externalId: "3115890",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3115890",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3115890/chapter-568-crunchy",
+    },
+  ],
   publishedAt: "2026-03-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

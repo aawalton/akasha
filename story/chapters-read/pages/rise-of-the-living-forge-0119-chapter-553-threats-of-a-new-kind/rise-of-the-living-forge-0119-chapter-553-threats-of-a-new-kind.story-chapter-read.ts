@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0119Chapter553ThreatsOfANewKind = {
   position: 119,
   ownLength: 1878,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3012072/chapter-553-threats-of-a-new-kind",
-  externalId: "3012072",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3012072",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3012072/chapter-553-threats-of-a-new-kind",
+    },
+  ],
   publishedAt: "2026-02-04",
   ownProgress: 1878,
   completedAt: "2026-06-29T20:02:14.753Z",

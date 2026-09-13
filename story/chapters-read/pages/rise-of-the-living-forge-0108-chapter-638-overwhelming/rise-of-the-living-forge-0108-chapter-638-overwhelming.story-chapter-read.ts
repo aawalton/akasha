@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0108Chapter638Overwhelming = {
   position: 108,
   ownLength: 1933,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3863530/chapter-638-overwhelming",
-  externalId: "3863530",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3863530",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3863530/chapter-638-overwhelming",
+    },
+  ],
   publishedAt: "2026-08-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

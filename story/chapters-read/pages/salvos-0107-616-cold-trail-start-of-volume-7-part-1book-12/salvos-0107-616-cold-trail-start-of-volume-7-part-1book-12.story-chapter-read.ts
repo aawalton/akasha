@@ -9,10 +9,14 @@ export const salvos0107616ColdTrailStartOfVolume7Part1book12 = {
   position: 107,
   ownLength: 1609,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1410003/616-cold-trail-start-of-volume-7-part-1book-12",
-  externalId: "1410003",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1410003",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1410003/616-cold-trail-start-of-volume-7-part-1book-12",
+    },
+  ],
   publishedAt: "2023-11-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

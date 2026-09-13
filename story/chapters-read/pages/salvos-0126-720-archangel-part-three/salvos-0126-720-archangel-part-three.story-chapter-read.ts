@@ -9,10 +9,14 @@ export const salvos0126720ArchangelPartThree = {
   position: 126,
   ownLength: 1688,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1884722/720-archangel-part-three",
-  externalId: "1884722",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1884722",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1884722/720-archangel-part-three",
+    },
+  ],
   publishedAt: "2024-11-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

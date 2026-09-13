@@ -9,10 +9,14 @@ export const salvos0068437FairAndSquare = {
   position: 68,
   ownLength: 1463,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1020857/437-fair-and-square",
-  externalId: "1020857",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1020857",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1020857/437-fair-and-square",
+    },
+  ],
   publishedAt: "2022-10-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

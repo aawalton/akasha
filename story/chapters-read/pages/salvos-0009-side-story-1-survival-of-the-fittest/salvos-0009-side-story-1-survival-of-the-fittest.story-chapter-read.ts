@@ -9,10 +9,14 @@ export const salvos0009SideStory1SurvivalOfTheFittest = {
   position: 9,
   ownLength: 3470,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/642805/side-story-1-survival-of-the-fittest",
-  externalId: "642805",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "642805",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/642805/side-story-1-survival-of-the-fittest",
+    },
+  ],
   publishedAt: "2021-03-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

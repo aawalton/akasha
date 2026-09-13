@@ -7,12 +7,16 @@ export const riseOfTheLivingForge0118Chapter648Home = {
   position: 118,
   publishedAt: "2026-09-10",
   unit: "words",
-  externalId: "3939481",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3939481",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3939481/chapter-648-home",
+    },
+  ],
   title: "Chapter 648: Home",
   story: "story-read/rise-of-the-living-forge",
   ownLength: 1947,
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3939481/chapter-648-home",
   prose: "txt",
 } as const satisfies StoryChapterRead

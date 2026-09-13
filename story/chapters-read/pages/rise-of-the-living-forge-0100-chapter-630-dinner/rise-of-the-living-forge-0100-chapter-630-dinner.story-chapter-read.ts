@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0100Chapter630Dinner = {
   position: 100,
   ownLength: 1686,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3800026/chapter-630-dinner",
-  externalId: "3800026",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3800026",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3800026/chapter-630-dinner",
+    },
+  ],
   publishedAt: "2026-08-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

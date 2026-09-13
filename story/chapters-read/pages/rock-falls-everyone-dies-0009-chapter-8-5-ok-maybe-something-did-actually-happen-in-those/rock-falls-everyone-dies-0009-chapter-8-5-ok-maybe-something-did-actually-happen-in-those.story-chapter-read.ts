@@ -9,10 +9,14 @@ export const rockFallsEveryoneDies0009Chapter85OkMaybeSomethingDidActuallyHappen
   position: 9,
   ownLength: 1397,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094658/chapter-85-ok-maybe-something-did-actually-happen",
-  externalId: "1094658",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1094658",
+      externalLink:
+        "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094658/chapter-85-ok-maybe-something-did-actually-happen",
+    },
+  ],
   publishedAt: "2023-01-23",
   ownProgress: 1397,
   completedAt: "2026-06-29T22:50:32.556Z",

@@ -9,10 +9,14 @@ export const rockFallsEveryoneDies0010Chapter9CoreStrength = {
   position: 10,
   ownLength: 1909,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094733/chapter-9-core-strength",
-  externalId: "1094733",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1094733",
+      externalLink:
+        "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094733/chapter-9-core-strength",
+    },
+  ],
   publishedAt: "2023-01-23",
   ownProgress: 1909,
   completedAt: "2026-06-29T22:50:34.813Z",

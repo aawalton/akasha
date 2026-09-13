@@ -9,10 +9,14 @@ export const roadToMasteryALitrpgApocalypse0002Chapter2JackVsGoblin = {
   position: 2,
   ownLength: 2433,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse/chapter/1042789/chapter-2-jack-vs-goblin",
-  externalId: "1042789",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1042789",
+      externalLink:
+        "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse/chapter/1042789/chapter-2-jack-vs-goblin",
+    },
+  ],
   publishedAt: "2022-11-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

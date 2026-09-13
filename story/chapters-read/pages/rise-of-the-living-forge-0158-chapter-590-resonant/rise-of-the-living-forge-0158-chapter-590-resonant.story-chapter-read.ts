@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0158Chapter590Resonant = {
   position: 158,
   ownLength: 1657,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3390740/chapter-590-resonant",
-  externalId: "3390740",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3390740",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3390740/chapter-590-resonant",
+    },
+  ],
   publishedAt: "2026-05-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

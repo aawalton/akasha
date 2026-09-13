@@ -9,10 +9,14 @@ export const salvos0086ComicPreviewSixDaysLeft = {
   position: 86,
   ownLength: 115,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1214117/comic-preview-six-days-left",
-  externalId: "1214117",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1214117",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1214117/comic-preview-six-days-left",
+    },
+  ],
   publishedAt: "2023-05-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

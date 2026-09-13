@@ -9,10 +9,14 @@ export const salvos000740SurvivorEndOfVolume1 = {
   position: 7,
   ownLength: 1877,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/618813/40-survivor-end-of-volume-1",
-  externalId: "618813",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "618813",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/618813/40-survivor-end-of-volume-1",
+    },
+  ],
   publishedAt: "2021-01-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

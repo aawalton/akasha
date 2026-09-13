@@ -9,10 +9,14 @@ export const salvos0103615DreadEndOfBook11volume6Part2 = {
   position: 103,
   ownLength: 1380,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1384316/615-dread-end-of-book-11volume-6-part-2",
-  externalId: "1384316",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1384316",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1384316/615-dread-end-of-book-11volume-6-part-2",
+    },
+  ],
   publishedAt: "2023-10-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

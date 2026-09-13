@@ -9,10 +9,14 @@ export const salvos0133726ImprovedWorld = {
   position: 133,
   ownLength: 1531,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/2191434/726-improved-world",
-  externalId: "2191434",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2191434",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/2191434/726-improved-world",
+    },
+  ],
   publishedAt: "2025-04-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

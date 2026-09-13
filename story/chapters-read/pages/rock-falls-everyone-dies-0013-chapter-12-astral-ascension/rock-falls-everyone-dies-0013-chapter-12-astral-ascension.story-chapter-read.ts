@@ -9,10 +9,14 @@ export const rockFallsEveryoneDies0013Chapter12AstralAscension = {
   position: 13,
   ownLength: 1626,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1096831/chapter-12-astral-ascension",
-  externalId: "1096831",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1096831",
+      externalLink:
+        "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1096831/chapter-12-astral-ascension",
+    },
+  ],
   publishedAt: "2023-01-25",
   ownProgress: 1626,
   completedAt: "2026-06-29T22:50:40.970Z",

@@ -9,10 +9,14 @@ export const salvos0132725GrandSkillPoints = {
   position: 132,
   ownLength: 1504,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/2185438/725-grand-skill-points",
-  externalId: "2185438",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2185438",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/2185438/725-grand-skill-points",
+    },
+  ],
   publishedAt: "2025-04-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

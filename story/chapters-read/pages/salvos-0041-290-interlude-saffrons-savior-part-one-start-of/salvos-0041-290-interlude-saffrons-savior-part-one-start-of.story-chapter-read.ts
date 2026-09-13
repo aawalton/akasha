@@ -9,10 +9,14 @@ export const salvos0041290InterludeSaffronsSaviorPartOneStartOf = {
   position: 41,
   ownLength: 2311,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/855015/290-interlude-saffrons-savior-part-one-start-of",
-  externalId: "855015",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "855015",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/855015/290-interlude-saffrons-savior-part-one-start-of",
+    },
+  ],
   publishedAt: "2022-02-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

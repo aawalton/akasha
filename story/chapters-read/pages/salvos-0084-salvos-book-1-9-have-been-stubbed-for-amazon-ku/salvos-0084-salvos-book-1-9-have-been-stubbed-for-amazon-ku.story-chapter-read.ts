@@ -9,10 +9,14 @@ export const salvos0084SalvosBook19HaveBeenStubbedForAmazonKu = {
   position: 84,
   ownLength: 414,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1170010/salvos-book-1-9-have-been-stubbed-for-amazon-ku",
-  externalId: "1170010",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1170010",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1170010/salvos-book-1-9-have-been-stubbed-for-amazon-ku",
+    },
+  ],
   publishedAt: "2023-04-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

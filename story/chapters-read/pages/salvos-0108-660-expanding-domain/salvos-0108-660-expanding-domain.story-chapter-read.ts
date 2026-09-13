@@ -9,10 +9,14 @@ export const salvos0108660ExpandingDomain = {
   position: 108,
   ownLength: 1570,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1563478/660-expanding-domain",
-  externalId: "1563478",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1563478",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1563478/660-expanding-domain",
+    },
+  ],
   publishedAt: "2024-03-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

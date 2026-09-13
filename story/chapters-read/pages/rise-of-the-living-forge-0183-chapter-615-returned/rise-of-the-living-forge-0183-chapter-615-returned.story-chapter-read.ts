@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0183Chapter615Returned = {
   position: 183,
   ownLength: 1629,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3589089/chapter-615-returned",
-  externalId: "3589089",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3589089",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3589089/chapter-615-returned",
+    },
+  ],
   publishedAt: "2026-06-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0116Chapter550VixSFate = {
   position: 116,
   ownLength: 1918,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2988052/chapter-550-vixs-fate",
-  externalId: "2988052",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2988052",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2988052/chapter-550-vixs-fate",
+    },
+  ],
   publishedAt: "2026-01-28",
   ownProgress: 1918,
   completedAt: "2026-06-29T20:02:08.680Z",

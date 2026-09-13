@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0178Chapter610FriendshipBracelets = {
   position: 178,
   ownLength: 1522,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3552095/chapter-610-friendship-bracelets",
-  externalId: "3552095",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3552095",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3552095/chapter-610-friendship-bracelets",
+    },
+  ],
   publishedAt: "2026-06-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

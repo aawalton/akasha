@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0184Chapter616ProbablyFine = {
   position: 184,
   ownLength: 1737,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3607865/chapter-616-probably-fine",
-  externalId: "3607865",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3607865",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3607865/chapter-616-probably-fine",
+    },
+  ],
   publishedAt: "2026-06-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

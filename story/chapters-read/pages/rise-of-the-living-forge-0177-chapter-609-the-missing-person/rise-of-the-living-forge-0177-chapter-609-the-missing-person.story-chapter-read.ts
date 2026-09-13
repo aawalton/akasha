@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0177Chapter609TheMissingPerson = {
   position: 177,
   ownLength: 1717,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3547289/chapter-609-the-missing-person",
-  externalId: "3547289",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3547289",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3547289/chapter-609-the-missing-person",
+    },
+  ],
   publishedAt: "2026-06-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,9 +9,14 @@ export const salvos0099568Claws = {
   position: 99,
   ownLength: 1661,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1261848/568-claws",
-  externalId: "1261848",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1261848",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1261848/568-claws",
+    },
+  ],
   publishedAt: "2023-06-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

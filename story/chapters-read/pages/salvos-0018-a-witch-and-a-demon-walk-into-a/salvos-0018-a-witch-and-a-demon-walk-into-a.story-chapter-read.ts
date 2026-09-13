@@ -9,10 +9,14 @@ export const salvos0018AWitchAndADemonWalkIntoA = {
   position: 18,
   ownLength: 242,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/674514/a-witch-and-a-demon-walk-into-a",
-  externalId: "674514",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "674514",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/674514/a-witch-and-a-demon-walk-into-a",
+    },
+  ],
   publishedAt: "2021-05-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

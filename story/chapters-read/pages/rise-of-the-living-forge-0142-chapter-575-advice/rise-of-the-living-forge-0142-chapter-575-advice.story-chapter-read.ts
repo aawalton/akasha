@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0142Chapter575Advice = {
   position: 142,
   ownLength: 1814,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3165741/chapter-575-advice",
-  externalId: "3165741",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3165741",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3165741/chapter-575-advice",
+    },
+  ],
   publishedAt: "2026-03-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

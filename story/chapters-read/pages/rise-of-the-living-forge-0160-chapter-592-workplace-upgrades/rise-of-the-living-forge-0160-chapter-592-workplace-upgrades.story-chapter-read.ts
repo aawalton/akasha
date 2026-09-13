@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0160Chapter592WorkplaceUpgrades = {
   position: 160,
   ownLength: 1914,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3413913/chapter-592-workplace-upgrades",
-  externalId: "3413913",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3413913",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3413913/chapter-592-workplace-upgrades",
+    },
+  ],
   publishedAt: "2026-05-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

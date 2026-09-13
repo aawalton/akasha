@@ -9,10 +9,14 @@ export const salvos0061SalvosVolume2Part1sGermanEditionIsNow = {
   position: 61,
   ownLength: 160,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/994517/salvos-volume-2-part-1s-german-edition-is-now",
-  externalId: "994517",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "994517",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/994517/salvos-volume-2-part-1s-german-edition-is-now",
+    },
+  ],
   publishedAt: "2022-09-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

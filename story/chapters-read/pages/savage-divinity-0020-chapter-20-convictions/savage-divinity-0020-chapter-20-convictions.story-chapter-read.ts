@@ -9,10 +9,14 @@ export const savageDivinity0020Chapter20Convictions = {
   position: 20,
   ownLength: 2467,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/59375/chapter-20-convictions",
-  externalId: "59375",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "59375",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/59375/chapter-20-convictions",
+    },
+  ],
   publishedAt: "2016-03-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

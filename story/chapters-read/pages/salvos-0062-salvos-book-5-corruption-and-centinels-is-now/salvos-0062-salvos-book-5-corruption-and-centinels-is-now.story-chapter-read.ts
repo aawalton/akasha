@@ -9,10 +9,14 @@ export const salvos0062SalvosBook5CorruptionAndCentinelsIsNow = {
   position: 62,
   ownLength: 93,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1003096/salvos-book-5-corruption-and-centinels-is-now",
-  externalId: "1003096",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1003096",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1003096/salvos-book-5-corruption-and-centinels-is-now",
+    },
+  ],
   publishedAt: "2022-09-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

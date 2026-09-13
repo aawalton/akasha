@@ -9,10 +9,14 @@ export const salvos0128722TheArchangelPartFive = {
   position: 128,
   ownLength: 1934,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1889012/722-the-archangel-part-five",
-  externalId: "1889012",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1889012",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1889012/722-the-archangel-part-five",
+    },
+  ],
   publishedAt: "2024-11-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

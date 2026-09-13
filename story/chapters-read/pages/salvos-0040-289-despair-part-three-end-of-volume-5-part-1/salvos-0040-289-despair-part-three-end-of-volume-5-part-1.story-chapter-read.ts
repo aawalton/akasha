@@ -9,10 +9,14 @@ export const salvos0040289DespairPartThreeEndOfVolume5Part1 = {
   position: 40,
   ownLength: 3094,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/852624/289-despair-part-three-end-of-volume-5-part-1",
-  externalId: "852624",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "852624",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/852624/289-despair-part-three-end-of-volume-5-part-1",
+    },
+  ],
   publishedAt: "2022-02-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

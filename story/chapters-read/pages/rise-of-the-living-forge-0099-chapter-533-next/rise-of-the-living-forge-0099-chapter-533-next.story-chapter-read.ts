@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0099Chapter533Next = {
   position: 99,
   ownLength: 1678,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2879441/chapter-533-next",
-  externalId: "2879441",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2879441",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2879441/chapter-533-next",
+    },
+  ],
   publishedAt: "2025-12-25",
   ownProgress: 1678,
   completedAt: "2026-06-29T20:01:36.202Z",

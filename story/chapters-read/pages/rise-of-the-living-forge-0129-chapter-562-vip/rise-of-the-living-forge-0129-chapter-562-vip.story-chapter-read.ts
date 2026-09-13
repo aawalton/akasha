@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0129Chapter562Vip = {
   position: 129,
   ownLength: 1671,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3071346/chapter-562-vip",
-  externalId: "3071346",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3071346",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3071346/chapter-562-vip",
+    },
+  ],
   publishedAt: "2026-02-19",
   ownProgress: 1671,
   completedAt: "2026-06-29T20:02:34.191Z",

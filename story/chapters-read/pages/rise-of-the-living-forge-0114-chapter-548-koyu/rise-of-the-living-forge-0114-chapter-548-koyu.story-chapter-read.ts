@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0114Chapter548Koyu = {
   position: 114,
   ownLength: 1862,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2981130/chapter-548-koyu",
-  externalId: "2981130",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2981130",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2981130/chapter-548-koyu",
+    },
+  ],
   publishedAt: "2026-01-26",
   ownProgress: 1862,
   completedAt: "2026-06-29T20:02:04.956Z",

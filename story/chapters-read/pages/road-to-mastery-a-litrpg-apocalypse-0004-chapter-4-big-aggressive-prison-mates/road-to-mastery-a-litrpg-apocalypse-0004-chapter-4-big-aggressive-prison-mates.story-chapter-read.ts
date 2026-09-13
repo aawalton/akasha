@@ -9,10 +9,14 @@ export const roadToMasteryALitrpgApocalypse0004Chapter4BigAggressivePrisonMates 
   position: 4,
   ownLength: 1931,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse/chapter/1042815/chapter-4-big-aggressive-prison-mates",
-  externalId: "1042815",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1042815",
+      externalLink:
+        "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse/chapter/1042815/chapter-4-big-aggressive-prison-mates",
+    },
+  ],
   publishedAt: "2022-11-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

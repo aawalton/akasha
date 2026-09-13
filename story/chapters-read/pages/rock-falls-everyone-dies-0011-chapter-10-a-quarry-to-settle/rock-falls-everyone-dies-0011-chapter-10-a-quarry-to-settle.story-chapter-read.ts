@@ -9,10 +9,14 @@ export const rockFallsEveryoneDies0011Chapter10AQuarryToSettle = {
   position: 11,
   ownLength: 2368,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1095849/chapter-10-a-quarry-to-settle",
-  externalId: "1095849",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1095849",
+      externalLink:
+        "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1095849/chapter-10-a-quarry-to-settle",
+    },
+  ],
   publishedAt: "2023-01-24",
   ownProgress: 2368,
   completedAt: "2026-06-29T22:50:36.893Z",

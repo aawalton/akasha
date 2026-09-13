@@ -9,10 +9,14 @@ export const rockFallsEveryoneDies0007Chapter7YesHardFeelings = {
   position: 7,
   ownLength: 1714,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094532/chapter-7-yes-hard-feelings",
-  externalId: "1094532",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1094532",
+      externalLink:
+        "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094532/chapter-7-yes-hard-feelings",
+    },
+  ],
   publishedAt: "2023-01-22",
   ownProgress: 1714,
   completedAt: "2026-06-29T22:50:28.283Z",

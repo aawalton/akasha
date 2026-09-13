@@ -9,10 +9,14 @@ export const salvos0038OfficialSalvosMerchandise = {
   position: 38,
   ownLength: 216,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/847612/official-salvos-merchandise",
-  externalId: "847612",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "847612",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/847612/official-salvos-merchandise",
+    },
+  ],
   publishedAt: "2022-02-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

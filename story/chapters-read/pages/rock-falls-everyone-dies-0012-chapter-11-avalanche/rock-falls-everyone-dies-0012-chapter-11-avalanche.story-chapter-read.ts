@@ -9,10 +9,14 @@ export const rockFallsEveryoneDies0012Chapter11Avalanche = {
   position: 12,
   ownLength: 2236,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1095997/chapter-11-avalanche",
-  externalId: "1095997",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1095997",
+      externalLink:
+        "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1095997/chapter-11-avalanche",
+    },
+  ],
   publishedAt: "2023-01-24",
   ownProgress: 2236,
   completedAt: "2026-06-29T22:50:38.966Z",

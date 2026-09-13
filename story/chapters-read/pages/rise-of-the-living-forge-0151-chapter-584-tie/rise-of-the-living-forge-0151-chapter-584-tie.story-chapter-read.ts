@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0151Chapter584Tie = {
   position: 151,
   ownLength: 2047,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3353745/chapter-584-tie",
-  externalId: "3353745",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3353745",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3353745/chapter-584-tie",
+    },
+  ],
   publishedAt: "2026-05-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

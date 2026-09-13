@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0136Chapter569StreetSweeper = {
   position: 136,
   ownLength: 1618,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3119283/chapter-569-street-sweeper",
-  externalId: "3119283",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3119283",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3119283/chapter-569-street-sweeper",
+    },
+  ],
   publishedAt: "2026-03-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

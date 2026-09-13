@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0104Chapter634IntoTheDark = {
   position: 104,
   ownLength: 2016,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3829725/chapter-634-into-the-dark",
-  externalId: "3829725",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3829725",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3829725/chapter-634-into-the-dark",
+    },
+  ],
   publishedAt: "2026-08-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

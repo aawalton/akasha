@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0143Chapter576PowerfulItems = {
   position: 143,
   ownLength: 1801,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3169408/chapter-576-powerful-items",
-  externalId: "3169408",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3169408",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3169408/chapter-576-powerful-items",
+    },
+  ],
   publishedAt: "2026-03-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

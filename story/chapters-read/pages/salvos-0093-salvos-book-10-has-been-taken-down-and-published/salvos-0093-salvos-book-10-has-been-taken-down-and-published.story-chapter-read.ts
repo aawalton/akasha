@@ -9,10 +9,14 @@ export const salvos0093SalvosBook10HasBeenTakenDownAndPublished = {
   position: 93,
   ownLength: 147,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1226794/salvos-book-10-has-been-taken-down-and-published",
-  externalId: "1226794",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1226794",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1226794/salvos-book-10-has-been-taken-down-and-published",
+    },
+  ],
   publishedAt: "2023-05-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

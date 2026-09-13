@@ -9,10 +9,14 @@ export const salvos0082525RuinsAnnouncement = {
   position: 82,
   ownLength: 2021,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1149037/525-ruins-announcement",
-  externalId: "1149037",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1149037",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1149037/525-ruins-announcement",
+    },
+  ],
   publishedAt: "2023-03-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

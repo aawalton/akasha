@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0187Chapter619Revelations = {
   position: 187,
   ownLength: 1747,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3644817/chapter-619-revelations",
-  externalId: "3644817",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3644817",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3644817/chapter-619-revelations",
+    },
+  ],
   publishedAt: "2026-07-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

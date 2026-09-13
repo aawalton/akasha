@@ -9,10 +9,14 @@ export const salvos0049347EdithesElation = {
   position: 49,
   ownLength: 2755,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/910233/347-edithes-elation",
-  externalId: "910233",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "910233",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/910233/347-edithes-elation",
+    },
+  ],
   publishedAt: "2022-05-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

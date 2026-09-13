@@ -9,10 +9,14 @@ export const rockFallsEveryoneDies0017Chapter16TheWorldEndsWithRock = {
   position: 17,
   ownLength: 2683,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1100076/chapter-16-the-world-ends-with-rock",
-  externalId: "1100076",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1100076",
+      externalLink:
+        "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1100076/chapter-16-the-world-ends-with-rock",
+    },
+  ],
   publishedAt: "2023-01-29",
   ownProgress: 2683,
   completedAt: "2026-06-29T22:50:49.397Z",

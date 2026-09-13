@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0125Chapter558RareItems = {
   position: 125,
   ownLength: 1666,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3040090/chapter-558-rare-items",
-  externalId: "3040090",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3040090",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3040090/chapter-558-rare-items",
+    },
+  ],
   publishedAt: "2026-02-12",
   ownProgress: 1666,
   completedAt: "2026-06-29T20:02:26.502Z",

@@ -9,10 +9,14 @@ export const salvos0020SalvosVolume3NowAvailableOnAmazon = {
   position: 20,
   ownLength: 235,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/726582/salvos-volume-3-now-available-on-amazon",
-  externalId: "726582",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "726582",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/726582/salvos-volume-3-now-available-on-amazon",
+    },
+  ],
   publishedAt: "2021-08-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

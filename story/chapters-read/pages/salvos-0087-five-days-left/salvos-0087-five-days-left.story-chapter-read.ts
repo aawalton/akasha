@@ -9,10 +9,14 @@ export const salvos0087FiveDaysLeft = {
   position: 87,
   ownLength: 40,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1215360/five-days-left",
-  externalId: "1215360",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1215360",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1215360/five-days-left",
+    },
+  ],
   publishedAt: "2023-05-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

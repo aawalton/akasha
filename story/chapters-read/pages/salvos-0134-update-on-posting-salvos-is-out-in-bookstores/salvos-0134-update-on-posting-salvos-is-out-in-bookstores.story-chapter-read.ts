@@ -9,10 +9,14 @@ export const salvos0134UpdateOnPostingSalvosIsOutInBookstores = {
   position: 134,
   ownLength: 204,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/2646882/update-on-posting-salvos-is-out-in-bookstores",
-  externalId: "2646882",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2646882",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/2646882/update-on-posting-salvos-is-out-in-bookstores",
+    },
+  ],
   publishedAt: "2025-10-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

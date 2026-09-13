@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0110Chapter544TheWholePoint = {
   position: 110,
   ownLength: 1537,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2945789/chapter-544-the-whole-point",
-  externalId: "2945789",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2945789",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2945789/chapter-544-the-whole-point",
+    },
+  ],
   publishedAt: "2026-01-15",
   ownProgress: 1537,
   completedAt: "2026-06-29T20:01:57.166Z",

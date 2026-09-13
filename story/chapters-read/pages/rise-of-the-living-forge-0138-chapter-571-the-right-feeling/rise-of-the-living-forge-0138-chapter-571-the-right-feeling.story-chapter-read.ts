@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0138Chapter571TheRightFeeling = {
   position: 138,
   ownLength: 2218,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3136776/chapter-571-the-right-feeling",
-  externalId: "3136776",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3136776",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3136776/chapter-571-the-right-feeling",
+    },
+  ],
   publishedAt: "2026-03-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

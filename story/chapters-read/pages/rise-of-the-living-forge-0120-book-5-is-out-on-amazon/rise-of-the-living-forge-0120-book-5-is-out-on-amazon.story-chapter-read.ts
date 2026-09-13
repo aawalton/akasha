@@ -9,10 +9,14 @@ export const riseOfTheLivingForge0120Book5IsOutOnAmazon = {
   position: 120,
   ownLength: 93,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3012119/book-5-is-out-on-amazon",
-  externalId: "3012119",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3012119",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3012119/book-5-is-out-on-amazon",
+    },
+  ],
   publishedAt: "2026-02-04",
   ownProgress: 93,
   completedAt: "2026-06-29T20:02:16.699Z",

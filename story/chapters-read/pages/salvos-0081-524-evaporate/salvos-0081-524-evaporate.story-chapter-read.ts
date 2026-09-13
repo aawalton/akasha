@@ -9,10 +9,14 @@ export const salvos0081524Evaporate = {
   position: 81,
   ownLength: 2578,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1147386/524-evaporate",
-  externalId: "1147386",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1147386",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1147386/524-evaporate",
+    },
+  ],
   publishedAt: "2023-03-24",
   prose: "txt",
 } as const satisfies StoryChapterRead
