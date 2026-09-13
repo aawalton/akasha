@@ -12,25 +12,8 @@ const GRIMOIRE_NAME_TO_INDEX: Record<string, number> = {
   ["Trample"]: 10,
   ["Banner Bearer"]: 11,
 }
-const GRIMOIRE_NAME_TO_TEMPER_ID: Record<string, string> = {
-  ["Vault"]: "vault",
-  ["Wield Soul"]: "wield-soul",
-  ["Shield Throw"]: "shield-throw",
-  ["Smash"]: "smash",
-  ["Elemental Explosion"]: "elemental-explosion",
-  ["Mender's Bond"]: "menders-bond",
-  ["Traveling Knife"]: "traveling-knife",
-  ["Soul Burst"]: "soul-burst",
-  ["Ulfsild's Contingency"]: "ulfsilds-contingency",
-  ["Torchbearer"]: "torchbearer",
-  ["Trample"]: "trample",
-  ["Banner Bearer"]: "banner-bearer",
-}
 export function getGrimoireIndex(name: string): number {
   return GRIMOIRE_NAME_TO_INDEX[name] ?? 0
-}
-export function getGrimoireTemperId(name: string): string {
-  return GRIMOIRE_NAME_TO_TEMPER_ID[name] ?? "vault"
 }
 const FOCUS_SCRIPT_NAME_TO_INDEX: Record<string, number> = {
   ["Physical Damage"]: 0,
@@ -55,34 +38,8 @@ const FOCUS_SCRIPT_NAME_TO_INDEX: Record<string, number> = {
   ["Generate Ultimate"]: 19,
   ["Mitigation"]: 20,
 }
-const FOCUS_SCRIPT_NAME_TO_TEMPER_ID: Record<string, string> = {
-  ["Physical Damage"]: "physical-damage",
-  ["Poison Damage"]: "poison-damage",
-  ["Disease Damage"]: "disease-damage",
-  ["Bleed Damage"]: "bleed-damage",
-  ["Magic Damage"]: "magic-damage",
-  ["Shock Damage"]: "shock-damage",
-  ["Frost Damage"]: "frost-damage",
-  ["Flame Damage"]: "flame-damage",
-  ["Trauma"]: "trauma",
-  ["Multi-Target"]: "multi-target",
-  ["Taunt"]: "taunt",
-  ["Knockback"]: "knockback",
-  ["Pull"]: "pull",
-  ["Immobilize"]: "immobilize",
-  ["Stun"]: "stun",
-  ["Dispel"]: "dispel",
-  ["Healing"]: "healing",
-  ["Restore Resources"]: "restore-resources",
-  ["Damage Shield"]: "damage-shield",
-  ["Generate Ultimate"]: "generate-ultimate",
-  ["Mitigation"]: "mitigation",
-}
 export function getFocusScriptIndex(name: string): number {
   return FOCUS_SCRIPT_NAME_TO_INDEX[name] ?? 0
-}
-export function getFocusScriptTemperId(name: string): string {
-  return FOCUS_SCRIPT_NAME_TO_TEMPER_ID[name] ?? "physical-damage"
 }
 const SIGNATURE_SCRIPT_NAME_TO_INDEX: Record<string, number> = {
   ["Lingering Torment"]: 1,
@@ -106,33 +63,8 @@ const SIGNATURE_SCRIPT_NAME_TO_INDEX: Record<string, number> = {
   ["Cavalier's Charge"]: 19,
   ["Growing Impact"]: 20,
 }
-const SIGNATURE_SCRIPT_NAME_TO_TEMPER_ID: Record<string, string> = {
-  ["Lingering Torment"]: "lingering-torment",
-  ["Hunter's Snare"]: "hunters-snare",
-  ["Knight's Valor"]: "knights-valor",
-  ["Leeching Thirst"]: "leeching-thirst",
-  ["Immobilizing Strike"]: "immobilizing-strike",
-  ["Assassin's Misery"]: "assassins-misery",
-  ["Anchorite's Cruelty"]: "anchorites-cruelty",
-  ["Class Mastery"]: "class-mastery",
-  ["Sage's Remedy"]: "sages-remedy",
-  ["Warmage's Defense"]: "warmages-defense",
-  ["Druid's Resurgence"]: "druids-resurgence",
-  ["Thief's Swiftness"]: "thiefs-swiftness",
-  ["Crusader's Defiance"]: "crusaders-defiance",
-  ["Fencer's Parry"]: "fencers-parry",
-  ["Gladiator's Tenacity"]: "gladiators-tenacity",
-  ["Anchorite's Potency"]: "anchorites-potency",
-  ["Wayfarer's Mastery"]: "wayfarers-mastery",
-  ["Warrior's Opportunity"]: "warriors-opportunity",
-  ["Cavalier's Charge"]: "cavaliers-charge",
-  ["Growing Impact"]: "growing-impact",
-}
 export function getSignatureScriptIndex(name: string): number {
   return SIGNATURE_SCRIPT_NAME_TO_INDEX[name] ?? 0
-}
-export function getSignatureScriptTemperId(name: string): string {
-  return SIGNATURE_SCRIPT_NAME_TO_TEMPER_ID[name] ?? "no-signature-script"
 }
 const AFFIX_SCRIPT_NAME_TO_INDEX: Record<string, number> = {
   ["Off Balance"]: 1,
@@ -162,37 +94,6 @@ const AFFIX_SCRIPT_NAME_TO_INDEX: Record<string, number> = {
   ["Uncertainty"]: 25,
   ["Magickasteal"]: 26,
 }
-const AFFIX_SCRIPT_NAME_TO_TEMPER_ID: Record<string, string> = {
-  ["Off Balance"]: "off-balance",
-  ["Interrupt"]: "interrupt",
-  ["Savagery and Prophecy"]: "savagery-and-prophecy",
-  ["Expedition"]: "expedition",
-  ["Resolve"]: "resolve",
-  ["Evasion"]: "evasion",
-  ["Vitality"]: "vitality",
-  ["Berserk"]: "berserk",
-  ["Brutality and Sorcery"]: "brutality-and-sorcery",
-  ["Empower"]: "empower",
-  ["Protection"]: "protection",
-  ["Courage"]: "courage",
-  ["Heroism"]: "heroism",
-  ["Intellect and Endurance"]: "intellect-and-endurance",
-  ["Force"]: "force",
-  ["Vulnerability"]: "vulnerability",
-  ["Maim"]: "maim",
-  ["Cowardice"]: "cowardice",
-  ["Enervation"]: "enervation",
-  ["Mangle"]: "mangle",
-  ["Breach"]: "breach",
-  ["Lifesteal"]: "lifesteal",
-  ["Defile"]: "defile",
-  ["Brittle"]: "brittle",
-  ["Uncertainty"]: "uncertainty",
-  ["Magickasteal"]: "magickasteal",
-}
 export function getAffixScriptIndex(name: string): number {
   return AFFIX_SCRIPT_NAME_TO_INDEX[name] ?? 0
-}
-export function getAffixScriptTemperId(name: string): string {
-  return AFFIX_SCRIPT_NAME_TO_TEMPER_ID[name] ?? "no-affix-script"
 }
