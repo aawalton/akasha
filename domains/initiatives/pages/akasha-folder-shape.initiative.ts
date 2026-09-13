@@ -20,7 +20,7 @@ export const akashaFolderShape = {
     {
       statement: "Every shape allowed by folder-matches-a-shape is clean and approved by Alan.",
       workingMemory:
-        "The check refuses 33 folders at `3f421afaf2a`, and none is under `code`, `design` or `temper`. Twenty-three are modules under `agents/seats/supervisors` and `agents/subagents` wanting the module's whole slug, since the domain above does not open it. One wants that opening off. Eight hold no page of their own or hold subfolders no part declares, `agents/seats/modules` alone holding 103. The root is Alan's with ryn. Alan has refused enabling `pages-of-one-type`.\n",
+        "The check refuses 31 folders at `82554578600`, and none is under `code`, `commands`, `design` or `temper`. Twenty-three are modules under `agents/seats/supervisors` and `agents/subagents` wanting the module's whole slug, since the domain above does not open it. Seven hold no page of their own or hold subfolders no part declares, `agents/seats/modules` alone holding 103. The root is Alan's with ryn. Alan has refused enabling `pages-of-one-type`.\n",
     },
     {
       statement: "A check determines whether a folder should be a workspace package.",
