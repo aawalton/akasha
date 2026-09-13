@@ -21,5 +21,17 @@ export const inventoryRulesEval = {
       statement:
         "Judging a slot answers the rule it matched, so a caller wanting that judges once.",
     },
+    {
+      invariantKind: "departure",
+      statement: "An item judged and taken by no rule is recorded as resolved to nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An addon holding no compiled rules judges no item.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Nothing is recorded for an item the addon did not judge.",
+    },
   ],
 } as const satisfies Module

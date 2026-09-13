@@ -27,13 +27,6 @@ export type ResolvedActionSource =
   | "locked-unlock"
   | "no-match"
 
-export interface ResolvedAction {
-  action: string
-  destination?: string
-  ruleSource: ResolvedActionSource
-  ruleIndex?: number
-}
-
 export interface InventoryItemData {
   itemId: number
   itemName: string
@@ -74,7 +67,10 @@ export interface InventoryItemData {
   known?: boolean
   junk?: boolean
   junkable?: boolean
-  resolvedAction?: ResolvedAction
+  resolvedAction?: string
+  resolvedDestination?: string
+  resolvedBy?: ResolvedActionSource
+  resolvedRuleIndex?: number
 }
 
 export interface PlacedFurnishingData {

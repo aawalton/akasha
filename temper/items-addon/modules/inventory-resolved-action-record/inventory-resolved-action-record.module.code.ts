@@ -2,12 +2,20 @@ import { getLocationKeyForBag } from "akasha/temper/items-addon/modules/inventor
 import { getDatabase } from "akasha/temper/items-addon/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import type {
   InventoryItemData,
-  ResolvedAction,
+  ResolvedActionSource,
 } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
+
+interface ResolvedActionValues {
+  action: string
+  destination?: string
+  ruleSource: ResolvedActionSource
+  ruleIndex?: number
+}
+
 export function recordResolvedAction(
   bagId: number,
   slotIndex: number,
-  resolved: ResolvedAction
+  resolved: ResolvedActionValues
 ): undefined {
   const key = getLocationKeyForBag(bagId)
   if (key === undefined) return
@@ -15,7 +23,10 @@ export function recordResolvedAction(
   if (location === undefined) return
   const item = location.bags[bagId]?.[slotIndex]
   if (item === undefined) return
-  item.resolvedAction = resolved
+  item.resolvedAction = resolved.action
+  item.resolvedDestination = resolved.destination
+  item.resolvedBy = resolved.ruleSource
+  item.resolvedRuleIndex = resolved.ruleIndex
 }
 
 export function carryResolvedActionsForward(
@@ -32,5 +43,8 @@ export function carryResolvedActionsForward(
     if (item.itemLink !== priorItem.itemLink) continue
     if (item.stackCount !== priorItem.stackCount) continue
     item.resolvedAction = priorItem.resolvedAction
+    item.resolvedDestination = priorItem.resolvedDestination
+    item.resolvedBy = priorItem.resolvedBy
+    item.resolvedRuleIndex = priorItem.resolvedRuleIndex
   }
 }

@@ -67,6 +67,9 @@ export function updateSlot(bagId: number, slotIndex: number): undefined {
       previousItem.stackCount === item.stackCount
     ) {
       item.resolvedAction = previousItem.resolvedAction
+      item.resolvedDestination = previousItem.resolvedDestination
+      item.resolvedBy = previousItem.resolvedBy
+      item.resolvedRuleIndex = previousItem.resolvedRuleIndex
     }
     location.bags[bagId][slotIndex] = item
   } else {

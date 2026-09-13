@@ -17,16 +17,24 @@ export const inventoryTypes = {
     },
     {
       invariantKind: "departure",
+      statement: "An item carries what the addon last resolved it to as four flat fields.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "An item carries as `resolvedAction` the action and place the addon last resolved it to.",
+        "Those four are `resolvedAction`, `resolvedDestination`, `resolvedBy`, `resolvedRuleIndex`.",
     },
     {
       invariantKind: "departure",
-      statement: "An item the addon's rules have not walked carries no `resolvedAction`.",
+      statement: "An item the addon's rules have not walked carries none of the four.",
     },
     {
       invariantKind: "departure",
-      statement: "A `resolvedAction` names a rule index only where an ordered rule resolved it.",
+      statement: "`resolvedRuleIndex` is there only where `resolvedBy` is `ordered-rule`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`resolvedBy` names the route that resolved the item where no index names a rule.",
     },
   ],
 } as const satisfies Module
