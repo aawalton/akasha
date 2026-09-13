@@ -2,10 +2,6 @@ import { closeSync, existsSync, mkdirSync, openSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { dropReadings } from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import { supervisorsRootDir } from "akasha/agents/seats/supervisors/modules/supervisor-log-path/supervisor-log-path.module.code.ts"
-import {
-  type Reading,
-  readOf,
-} from "akasha/agents/subagents/modules/liveness/subagent-liveness.module.code.ts"
 import { subagentPageInHistory } from "akasha/agents/subagents/modules/page-history/subagent-page-history.module.code.ts"
 import {
   agentIdOf,
@@ -19,6 +15,10 @@ import {
   landingAgain,
   type Went,
 } from "akasha/agents/subagents/modules/subagent-landing-again/subagent-landing-again.module.code.ts"
+import {
+  type Reading,
+  readOf,
+} from "akasha/agents/subagents/modules/subagent-liveness/subagent-liveness.module.code.ts"
 import { subagentStarted } from "akasha/agents/subagents/properties/subagent-started.number-property.ts"
 import { editsWaiting } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
