@@ -113,7 +113,16 @@ export const subagent = {
     {
       invariantKind: "departure",
       statement:
-        "A subagent whose page has gone can read and report and can keep no edit, so it can land nothing.",
+        "A subagent whose page has gone can report and can keep no edit, so it can land nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A read waits for the subagent's page rather than answering a body recorded nowhere.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent whose page never lands within that wait is refused its read as well.",
     },
     {
       invariantKind: "gap",
