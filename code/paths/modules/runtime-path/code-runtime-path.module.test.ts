@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   type Held,
+  type Moved,
   type Patch,
   readsRuntimePaths,
   runtimePatches,
@@ -8,7 +9,7 @@ import {
 
 const ROOT = "/"
 
-const NOTHING_MOVED: ReadonlyMap<string, string> = new Map()
+const NOTHING_MOVED: Moved = () => null
 
 const DASHBOARDS =
   'const at = join(import.meta.dir, "..", "dashboards", "pages", slug, `${slug}.json`)\n'
@@ -30,8 +31,8 @@ function holding(...paths: readonly string[]): Held {
   return (absolute) => held.has(absolute)
 }
 
-function carrying(was: string, now: string): ReadonlyMap<string, string> {
-  return new Map([[`/${was}`, `/${now}`]])
+function carrying(was: string, now: string): Moved {
+  return (absolute) => (absolute === `/${was}` ? `/${now}` : null)
 }
 
 function rewrote(
@@ -39,7 +40,7 @@ function rewrote(
   was: string,
   now: string,
   held: Held,
-  moved: ReadonlyMap<string, string> = carrying(was, now)
+  moved: Moved = carrying(was, now)
 ): string {
   return putOver(body, runtimePatches(body, was, now, moved, held).patches)
 }
@@ -88,16 +89,20 @@ test("the compose-notices test nested under a namespace still reaches the reposi
   ).toBe('const held = resolve(import.meta.dir, "../../../..")\n')
 })
 
-test("the map of what moved is keyed by a path from the root, opening with a separator", () => {
+test("where what moved landed is asked of a lookup, by a path from the root", () => {
   const body = 'const at = join(import.meta.dir, "..", "lualib")\n'
   const host = "a/b/host/host.module.code.ts"
+  const asked: string[] = []
+  const landed: Moved = (absolute) => {
+    asked.push(absolute)
+    return absolute === "/a/b/lualib" ? "/a/b/deep/lualib" : null
+  }
 
-  expect(rewrote(body, host, host, holding(), new Map([["/a/b/lualib", "/a/b/deep/lualib"]]))).toBe(
+  expect(rewrote(body, host, host, holding(), landed)).toBe(
     'const at = join(import.meta.dir, "../deep/lualib")\n'
   )
-  expect(rewrote(body, host, host, holding(), new Map([["a/b/lualib", "a/b/deep/lualib"]]))).toBe(
-    body
-  )
+  expect(asked).toContain("/a/b/lualib")
+  expect(rewrote(body, host, host, holding(), NOTHING_MOVED)).toBe(body)
 })
 
 test("a walk to the top asks whether the root itself is held", () => {

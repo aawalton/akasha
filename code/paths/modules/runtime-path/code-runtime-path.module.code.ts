@@ -38,6 +38,8 @@ export interface Patch {
 
 export type Held = (absolute: string) => boolean
 
+export type Moved = (absolute: string) => string | null
+
 export interface RuntimePaths {
   readonly patches: readonly Patch[]
   readonly read: number
@@ -106,7 +108,7 @@ export function runtimePatches(
   body: string,
   hostBefore: string,
   hostAfter: string,
-  moved: ReadonlyMap<string, string>,
+  moved: Moved,
   held: Held
 ): RuntimePaths {
   if (!body.includes(OWN_URL) && !OWN_DIR.some((one) => body.includes(one))) return NO_RUNTIME_PATHS
@@ -131,8 +133,8 @@ export function runtimePatches(
   const retarget = (segments: readonly string[]): string | null => {
     read += 1
     const absolute = walked(beneath, segments)
-    const target = moved.get(absolute)
-    if (target === undefined && (beneath === lands || !held(absolute))) return null
+    const target = moved(absolute)
+    if (target === null && (beneath === lands || !held(absolute))) return null
     const next = relativeBetween(lands, target ?? absolute)
     return next === segments.join("/") ? null : next
   }
@@ -236,8 +238,7 @@ export function runtimePatches(
     }
   }
 
-  const holding = new Set([...moved.keys()].map((one) => folderOf(one)))
-  const bites = (prefix: string): boolean => beneath !== lands || holding.has(prefix)
+  const bites = (prefix: string): boolean => beneath !== lands || moved(prefix) !== null
   return {
     patches,
     read,
