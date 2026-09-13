@@ -14,16 +14,16 @@ import type {
   InteractiveOpts,
   InteractiveSessionBoot,
 } from "akasha/agents/seats/supervisors/boot/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
-import { createAgent } from "akasha/agents/seats/supervisors/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"
-import { LIVE_CHILD_EXIT_RULE } from "akasha/agents/seats/supervisors/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
-import { spawnOrAdoptChild } from "akasha/agents/seats/supervisors/modules/supervisor-child-spawn/supervisor-child-spawn.module.code.ts"
-import type { buildAgentLogRedirect } from "akasha/agents/seats/supervisors/modules/supervisor-console/supervisor-console.module.code.ts"
-import { keepSeatTranscript } from "akasha/agents/seats/supervisors/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
+import { createAgent } from "akasha/agents/seats/supervisors/child/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"
+import { LIVE_CHILD_EXIT_RULE } from "akasha/agents/seats/supervisors/child/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
+import { spawnOrAdoptChild } from "akasha/agents/seats/supervisors/child/modules/supervisor-child-spawn/supervisor-child-spawn.module.code.ts"
 import {
   applyCarriedName,
   buildIterationSpawnOpts,
   type SeatSpawnDecider,
-} from "akasha/agents/seats/supervisors/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"
+} from "akasha/agents/seats/supervisors/child/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"
+import type { buildAgentLogRedirect } from "akasha/agents/seats/supervisors/modules/supervisor-console/supervisor-console.module.code.ts"
+import { keepSeatTranscript } from "akasha/agents/seats/supervisors/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import {
   ANNOUNCE,
   sendMessage,

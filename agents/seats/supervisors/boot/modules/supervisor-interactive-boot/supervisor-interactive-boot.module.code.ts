@@ -17,18 +17,18 @@ import { startPerAgentMonitors } from "akasha/agents/seats/supervisors/boot/modu
 import {
   reconcileAgentBootFiles,
   resolveClaudeHandoff,
-} from "akasha/agents/seats/supervisors/modules/supervisor-adopt/supervisor-adopt.module.code.ts"
-import { selectAccountAndWriteCredential } from "akasha/agents/seats/supervisors/modules/supervisor-agent/supervisor-agent.module.code.ts"
-import { createAgent } from "akasha/agents/seats/supervisors/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"
+} from "akasha/agents/seats/supervisors/child/modules/supervisor-adopt/supervisor-adopt.module.code.ts"
+import { createAgent } from "akasha/agents/seats/supervisors/child/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"
 import {
   AGENT_LAUNCH_OPENED,
   AGENT_LAUNCH_SPAWNED,
-} from "akasha/agents/seats/supervisors/modules/supervisor-env/supervisor-env.module.code.ts"
+} from "akasha/agents/seats/supervisors/child/modules/supervisor-env/supervisor-env.module.code.ts"
 import {
   AGENT_MODE_HEADLESS,
   AGENT_MODE_INTERACTIVE,
   stateSeatDefaults,
-} from "akasha/agents/seats/supervisors/modules/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts"
+} from "akasha/agents/seats/supervisors/child/modules/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts"
+import { selectAccountAndWriteCredential } from "akasha/agents/seats/supervisors/modules/supervisor-agent/supervisor-agent.module.code.ts"
 import {
   configDirForAccount,
   LOG,

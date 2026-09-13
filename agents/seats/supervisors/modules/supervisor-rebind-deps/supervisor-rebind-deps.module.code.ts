@@ -6,7 +6,7 @@ import { pageValuesOf } from "akasha/agents/seats/page/modules/page-values/seat-
 import {
   createAgent,
   type RowAgentLaunch,
-} from "akasha/agents/seats/supervisors/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"
+} from "akasha/agents/seats/supervisors/child/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"
 import {
   keepSeatSession,
   takeSeatPage,

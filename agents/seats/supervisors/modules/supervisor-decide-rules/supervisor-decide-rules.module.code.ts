@@ -8,7 +8,7 @@ import {
   decideShutdownExitWrite,
   decodeWaitStatus,
   STOP_REASON,
-} from "akasha/agents/seats/supervisors/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
+} from "akasha/agents/seats/supervisors/child/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
 import {
   childExitClassification,
   childExitObservation,

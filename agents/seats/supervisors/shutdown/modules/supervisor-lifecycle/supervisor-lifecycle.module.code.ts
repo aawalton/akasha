@@ -7,7 +7,7 @@ import {
   SUPERVISOR_SCRIPT,
   teardownVersionSubscription,
 } from "akasha/agents/seats/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import type { ChildExitRuleSource } from "akasha/agents/seats/supervisors/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
+import type { ChildExitRuleSource } from "akasha/agents/seats/supervisors/child/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import { takeSeatPage } from "akasha/agents/seats/supervisors/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import { LOG } from "akasha/agents/seats/supervisors/process/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
