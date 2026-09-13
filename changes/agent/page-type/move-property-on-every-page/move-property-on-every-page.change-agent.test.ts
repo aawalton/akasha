@@ -6,7 +6,10 @@ import {
 import { bodiesIn, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { worldOfType } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import { spelledAs } from "akasha/changes/modules/value-carrying/value-carrying.module.code.ts"
-import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
+import {
+  listing,
+  running,
+} from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 
 const ONE_AT = "thrumming/chapters/pages/one.story-chapter-read.ts"
@@ -107,7 +110,7 @@ test("the key read from is taken away", async () => {
   expect(bodiesIn(said, world.base).get(ONE_AT) ?? "").not.toContain("partOfCollectionSlugs")
 })
 
-test("the key written to is put in after the key read from", async () => {
+test("the key written to takes the place the key read from held", async () => {
   const world = pagesIn(BODIES, DECLARED)
 
   const said = await movePropertyOnEveryPage(world, MOVING)
@@ -211,4 +214,13 @@ test("an argument this change was handed no value for is refused by the key", as
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toMatch(/`page-type` names what this change is handed/)
+})
+
+test("the one change reached is the mechanical change acting on a page type", async () => {
+  const seen: string[] = []
+  const world = worldOfType(MOVING.pageType, BODIES, DECLARED, VALUES, listing(seen))
+
+  await movePropertyOnEveryPage(world, MOVING)
+
+  expect(seen).toEqual(["change-mechanical-page-type/move-property-on-every-page"])
 })

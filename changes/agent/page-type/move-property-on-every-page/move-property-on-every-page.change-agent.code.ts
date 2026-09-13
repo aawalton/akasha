@@ -1,38 +1,20 @@
 import { refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   type Asked,
   askedIn,
-  carriedIn,
-  carryingOver,
   type ValueCarryingAsked,
   valueCarryingTakes,
 } from "akasha/changes/modules/value-carrying/value-carrying.module.code.ts"
 
-const ADD_PAGE_PROPERTY = "change-mechanical-file-content/add-page-property"
-
-const REMOVE_PAGE_PROPERTY = "change-mechanical-file-content/remove-page-property"
+const MOVE_PROPERTY = "change-mechanical-page-type/move-property-on-every-page"
 
 export async function movePropertyOnEveryPage(
   world: World,
   given: ValueCarryingAsked
 ): Promise<Answer> {
-  const held = carriedIn(world, given)
-  if (typeof held === "string") return refusing(held)
-  const carrier = carryingOver(world)
-  for (const one of held) {
-    const put = await carrier.reaching(ADD_PAGE_PROPERTY, {
-      at: one.path,
-      key: given.to,
-      value: one.value,
-      after: given.from,
-    })
-    if (put !== null) return refusing(`\`${one.path}\` is refused, and ${put}`)
-    const off = await carrier.reaching(REMOVE_PAGE_PROPERTY, { at: one.path, key: given.from })
-    if (off !== null) return refusing(`\`${one.path}\` is refused, and ${off}`)
-  }
-  return carrier.gatheredIn()
+  return (await reach(world, MOVE_PROPERTY, given)).said
 }
 
 export const takes: readonly string[] = valueCarryingTakes
