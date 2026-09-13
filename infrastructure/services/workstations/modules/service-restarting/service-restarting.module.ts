@@ -4,34 +4,17 @@ export const serviceRestarting = {
   id: "01a09424-ecd8-7c1f-b068-99932a16c139",
   type: "module",
   slug: "service-restarting",
-  definition: "the start a landing asks of a unit whose own text changed how that unit behaves",
+  definition: "a systemctl call made so that what it throws is answered rather than thrown on",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A start asked for is taken at once, nothing here holding one back.",
+      statement: "A call that throws is answered as a code no run of systemctl gives.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A service takes its own start for code that moved, so a landing asks for none of those.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A timer is armed by the same asking, arming ending no work.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A service that is stopped is left stopped, since the start asked for is a try.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A systemctl that refuses is said as wrong rather than thrown.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A start refused names what puts that service right.",
+      statement: "What was thrown is carried back as the words the answer holds.",
     },
     {
       invariantKind: "absence",
@@ -44,10 +27,6 @@ export const serviceRestarting = {
     {
       invariantKind: "absence",
       statement: "Nothing here rules on how long a service has been up.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "Nothing here carries a start from one landing to the next.",
     },
     {
       invariantKind: "absence",
