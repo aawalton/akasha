@@ -6,8 +6,8 @@ export const changeReachesItsOwnTargetType = {
   slug: "change-reaches-its-own-target-type",
   definition: "the check refusing a change that reaches a change acting on another target type",
   runsOnChange: true,
-  runsOnDeploy: false,
-  runsOnAudit: false,
+  runsOnDeploy: true,
+  runsOnAudit: true,
   invariants: [
     {
       invariantKind: "departure",
@@ -88,16 +88,11 @@ export const changeReachesItsOwnTargetType = {
     },
     {
       invariantKind: "departure",
-      statement: "Running at change alone keeps a new reach across target types from landing.",
+      statement: "Running at change keeps a new reach across target types from landing.",
     },
     {
       invariantKind: "absence",
       statement: "Whether an address reaches a page at all is not judged here.",
-    },
-    {
-      invariantKind: "upkeep",
-      statement:
-        "The phases beyond change wait on the reaches across target types the tree still holds.",
     },
   ],
   check: { maxCpuSeconds: 10 },
