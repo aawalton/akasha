@@ -1,50 +1,22 @@
-import {
-  gathered,
-  missing,
-  refusing,
-} from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import { missing, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import {
-  isLedger,
-  ledgerAt,
-  reach,
-  type World,
-} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import {
-  type ProseAt,
-  proseFrom,
-  type Reach,
-} from "akasha/domains/standard-agent-english/modules/prose-reach/prose-reach.module.code.ts"
-import {
-  type Parsing,
-  type Passage,
-  parsingNow,
-  type Restatement,
-  restatedIn,
-} from "akasha/domains/standard-agent-english/modules/prose-restating/prose-restating.module.code.ts"
+import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import type { Pattern } from "akasha/domains/standard-agent-english/modules/prose-rewrite/prose-rewrite.module.code.ts"
 import {
+  recordsIn,
   textAt,
   type Value,
 } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const BANNED_TERM = "banned-term"
 
-const PROSE = "standard-agent-english-property"
-
-const RECORD = "record-property"
-
-const RESTATES = "change-mechanical-file-content/change-page-page-property"
-
-const RESTATES_FIELD = "change-mechanical-file-content/change-property-record-field"
+const RESTATES = "change-mechanical/change-prose-pattern"
 
 const TERM = "term"
 
 const COUNT = "count"
 
 const WHOLE = /^\d+$/
-
-const WORDS = /[A-Za-z']+/g
 
 export type ChangeProsePatternAsked = {
   readonly term: string
@@ -55,17 +27,9 @@ function noCount(said: string): string {
   return `\`${COUNT}\` counts passages to restate, and \`${said}\` is no whole number above nothing`
 }
 
-function recordsIn(value: Value, key: string): readonly Value[] {
-  const held = value[key]
-  if (!Array.isArray(held)) return []
-  return held.filter(
-    (one): one is Value => typeof one === "object" && one !== null && !Array.isArray(one)
-  )
-}
-
 export function patternsIn(value: Value): readonly Pattern[] {
   const found: Pattern[] = []
-  for (const one of recordsIn(value, "replacementPatterns")) {
+  for (const one of recordsIn(value["replacementPatterns"])) {
     const frame = textAt(one, "frame")
     const fromPattern = textAt(one, "fromPattern")
     const toPattern = textAt(one, "toPattern")
@@ -75,7 +39,7 @@ export function patternsIn(value: Value): readonly Pattern[] {
   return found
 }
 
-export function spellingsIn(value: Value): ReadonlySet<string> {
+export function spellingsIn(value: Value): readonly string[] {
   const found = new Set<string>()
   const spelling = textAt(value, "spelling")
   if (spelling !== null) found.add(spelling.toLowerCase())
@@ -83,83 +47,12 @@ export function spellingsIn(value: Value): ReadonlySet<string> {
   for (const one of Array.isArray(held) ? held : []) {
     if (typeof one === "string") found.add(one.toLowerCase())
   }
-  return found
-}
-
-export function spelt(text: string, spellings: ReadonlySet<string>): boolean {
-  for (const match of text.matchAll(WORDS)) {
-    if (spellings.has(match[0].toLowerCase())) return true
-  }
-  return false
-}
-
-export function passagesAt(value: Value, path: string, at: ProseAt): readonly Passage[] {
-  const found: Passage[] = []
-  const field = at.under[at.under.length - 1]
-  if (field === undefined) {
-    const text = textAt(value, at.key)
-    if (text !== null) found.push({ path, key: at.key, under: at.under, text })
-    return found
-  }
-  if (at.under.length > 1) return found
-  for (const record of recordsIn(value, at.key)) {
-    const text = textAt(record, field)
-    if (text !== null) found.push({ path, key: at.key, under: at.under, text })
-  }
-  return found
-}
-
-function reachOf(world: World): Reach {
-  return {
-    prose: world.index.kindsUnder(PROSE),
-    record: world.index.kindsUnder(RECORD),
-    source: world.index.sourceIn(),
-    fieldsOf: (one) => {
-      const value = world.index.pageAt(one.pageTypeSlug, one.pagePropertySlug)
-      return value === null ? [] : world.index.carriedIn(value, one.pagePropertySlug)
-    },
-  }
-}
-
-function everyPassage(world: World, spellings: ReadonlySet<string>): readonly Passage[] {
-  const found: Passage[] = []
-  const held = reachOf(world)
-  for (const pageTypeSlug of [...world.index.pageTypesIn()].sort()) {
-    const at = proseFrom(pageTypeSlug, held)
-    if (at.length === 0) continue
-    for (const listed of world.index.everyOfType(pageTypeSlug)) {
-      const value = world.index.pageByPath(listed.path)
-      if (value === null) continue
-      for (const one of at) {
-        for (const passage of passagesAt(value, listed.path, one)) {
-          if (spelt(passage.text, spellings)) found.push(passage)
-        }
-      }
-    }
-  }
-  return found
-}
-
-async function landed(world: World, one: Restatement) {
-  const { passage, now } = one
-  const field = passage.under[passage.under.length - 1]
-  if (field === undefined) {
-    return await reach(world, RESTATES, { at: passage.path, key: passage.key, to: now })
-  }
-  return await reach(world, RESTATES_FIELD, {
-    at: passage.path,
-    key: passage.key,
-    where: field,
-    is: passage.text,
-    field,
-    to: now,
-  })
+  return [...found]
 }
 
 export async function changeProsePattern(
   world: World,
-  given: ChangeProsePatternAsked,
-  parsing: Parsing
+  given: ChangeProsePatternAsked
 ): Promise<Answer> {
   const count = given.count
   if (count !== undefined && (!Number.isInteger(count) || count < 1)) {
@@ -172,24 +65,10 @@ export async function changeProsePattern(
     return refusing(`\`${given.term}\` names no pair, so nothing says what is written instead`)
   }
   const spellings = spellingsIn(term)
-  const said = await restatedIn(everyPassage(world, spellings), spellings, patterns, parsing)
-  const taken = count === undefined ? said : said.slice(0, count)
-  if (taken.length === 0) {
-    return refusing(`no passage states \`${given.term}\` in a frame a pair names`)
+  if (count === undefined) {
+    return (await reach(world, RESTATES, { spellings, patterns })).said
   }
-  const answers: Answer[] = []
-  let over: World = isLedger(world)
-    ? world
-    : ledgerAt(world.root, world.bodyOf, world.reaching, world.textOf)
-  for (const one of taken) {
-    const reached = await landed(over, one)
-    if (reached.said.refused !== null) {
-      return refusing(`\`${one.passage.path}\` is refused, and ${reached.said.refused}`)
-    }
-    over = reached.world
-    answers.push(reached.said)
-  }
-  return gathered(answers)
+  return (await reach(world, RESTATES, { spellings, patterns, count })).said
 }
 
 export type Asked = Readonly<Record<string, string>>
@@ -201,7 +80,6 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (term === undefined) return refusing(missing(TERM))
   const counted = given[COUNT]
   if (counted !== undefined && !WHOLE.test(counted)) return refusing(noCount(counted))
-  const parsing = await parsingNow()
-  if (counted === undefined) return await changeProsePattern(world, { term }, parsing)
-  return await changeProsePattern(world, { term, count: Number(counted) }, parsing)
+  if (counted === undefined) return await changeProsePattern(world, { term })
+  return await changeProsePattern(world, { term, count: Number(counted) })
 }

@@ -8,6 +8,7 @@ export const changeMechanical = {
   pluralSlug: "change-mechanical",
   extends: ["page-type/change"],
   parts: [
+    "domain/change-mechanical-prose",
     "page-type/change-mechanical-file",
     "page-type/change-mechanical-file-content",
     "page-type/change-mechanical-folder",
@@ -37,7 +38,7 @@ export const changeMechanical = {
     },
     {
       invariantKind: "absence",
-      statement: "No mechanical change acts on a page property or on prose.",
+      statement: "No mechanical change acts on a page property.",
     },
     {
       invariantKind: "departure",

@@ -25,23 +25,7 @@ export const changeProsePattern = {
     },
     {
       invariantKind: "departure",
-      statement: "A passage is reached under the key its page type states prose under.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A field of a record is reached by the words that field states already.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A prose value under more than one record is left alone.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A prose value stating many strings is left alone.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "One passage refused refuses the whole.",
+      statement: "The restatements are worked out by the change reached.",
     },
     {
       invariantKind: "departure",
@@ -56,8 +40,12 @@ export const changeProsePattern = {
       statement: "This runs only where the model the parser reads is.",
     },
     {
-      invariantKind: "departure",
-      statement: "A program composes each restatement.",
+      invariantKind: "absence",
+      statement: "Nothing here reads a page's own body.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here works out a body of its own.",
     },
   ],
   changeKind: "change-checked",

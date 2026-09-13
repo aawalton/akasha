@@ -1,12 +1,14 @@
 import { expect, test } from "bun:test"
 import {
-  passagesAt,
+  changeProsePattern,
   patternsIn,
   runChange,
   spellingsIn,
-  spelt,
 } from "akasha/changes/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.code.ts"
+import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
+  type Caught,
+  catching,
   refusalOf,
   worldOf,
 } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
@@ -37,35 +39,45 @@ test("the spellings are the plainest one and every variant", () => {
   expect([...spellingsIn(TERM)].sort()).toEqual(["held", "hold", "holding", "holds"])
 })
 
-test("a spelling is found as a word rather than inside one", () => {
-  const spellings = new Set(["hold"])
-  expect(spelt("a page hold a value", spellings)).toBe(true)
-  expect(spelt("a threshold is read", spellings)).toBe(false)
+function worldNaming(term: Value | null, seen: Caught[]): World {
+  return { ...worldOf({}), index: { pageAt: () => term } as never, reaching: catching(seen) }
+}
+
+test("a term naming no banned term is refused", async () => {
+  const said = await changeProsePattern(worldNaming(null, []), { term: "hold-inside" })
+
+  expect(refusalOf(said)).toBe("`hold-inside` names no banned term")
 })
 
-test("a prose value states one passage under its own key", () => {
-  const value: Value = { definition: "a page holds a value" }
-  expect(passagesAt(value, "one.ts", { key: "definition", under: [] })).toEqual([
-    { path: "one.ts", key: "definition", under: [], text: "a page holds a value" },
-  ])
+test("a term naming no pair is refused", async () => {
+  const said = await changeProsePattern(worldNaming({ slug: "hold-inside" }, []), {
+    term: "hold-inside",
+  })
+
+  expect(refusalOf(said)).toBe(
+    "`hold-inside` names no pair, so nothing says what is written instead"
+  )
 })
 
-test("a prose field of a record states one passage for each record", () => {
-  const value: Value = {
-    invariants: [{ statement: "a page holds one" }, { statement: "a page holds two" }],
-  }
-  const said = passagesAt(value, "one.ts", { key: "invariants", under: ["statement"] })
-  expect(said.map((one) => one.text)).toEqual(["a page holds one", "a page holds two"])
+test("working the restatements out is left to the change reached at its address", async () => {
+  const seen: Caught[] = []
+
+  await changeProsePattern(worldNaming(TERM, seen), { term: "hold-inside" })
+
+  expect(seen.map((one) => one.at)).toEqual(["change-mechanical/change-prose-pattern"])
+  expect(seen[0]?.given).toEqual({ spellings: [...spellingsIn(TERM)], patterns: patternsIn(TERM) })
 })
 
-test("a prose value stating many strings states no passage", () => {
-  const value: Value = { directives: [{ aids: ["a page holds one", "a page holds two"] }] }
-  expect(passagesAt(value, "one.ts", { key: "directives", under: ["aids"] })).toEqual([])
-})
+test("a count says how many passages are restated, and that count is handed down", async () => {
+  const seen: Caught[] = []
 
-test("a prose value under more than one record states no passage", () => {
-  const value: Value = { held: [{ under: { statement: "a page holds one" } }] }
-  expect(passagesAt(value, "one.ts", { key: "held", under: ["under", "statement"] })).toEqual([])
+  await changeProsePattern(worldNaming(TERM, seen), { term: "hold-inside", count: 2 })
+
+  expect(seen[0]?.given).toEqual({
+    spellings: [...spellingsIn(TERM)],
+    patterns: patternsIn(TERM),
+    count: 2,
+  })
 })
 
 test("a call naming no term is refused by the key naming that argument", async () => {
