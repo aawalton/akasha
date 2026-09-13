@@ -5,11 +5,13 @@ export const zaraLarsson = {
   type: "artist",
   slug: "zara-larsson",
   title: "Zara Larsson",
-  externalId: "134e6410-6954-45d1-bd4a-0f2d2ad5471d",
-  externalLink: "https://musicbrainz.org/artist/134e6410-6954-45d1-bd4a-0f2d2ad5471d",
+  partOfCollections: ["artists"],
+  position: 0,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "minutes",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  status: "following",
+  rank: "A",
   genre: [
     "dance-pop",
     "electropop",
@@ -19,5 +21,19 @@ export const zaraLarsson = {
     "dance",
     "disco",
     "hip hop",
+  ],
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "134e6410-6954-45d1-bd4a-0f2d2ad5471d",
+      externalLink: "https://musicbrainz.org/artist/134e6410-6954-45d1-bd4a-0f2d2ad5471d",
+      lastSyncedAt: "2026-06-08",
+    },
+    {
+      source: "spotify",
+      externalId: "1Xylc3o4UrD53lo9CvFvVg",
+      externalLink: "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg",
+      lastSyncedAt: "2026-02-20",
+    },
   ],
 } as const satisfies Artist
