@@ -14,7 +14,8 @@ export const argumentValue = {
     },
     {
       invariantKind: "departure",
-      statement: "A path is read against the repository root rather than the calling folder.",
+      statement:
+        "A path is read against the repository root and whether it must land inside belongs to the command.",
     },
     { invariantKind: "absence", statement: "No value here is a body piped in." },
   ],
