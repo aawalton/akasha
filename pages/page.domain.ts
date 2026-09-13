@@ -101,6 +101,7 @@ export const page = {
     "page-type/unique-kind",
     "page-type/url-property",
     "page-type/view",
+    "service-workstation/sweep-cost-records",
   ],
   invariants: [
     {
