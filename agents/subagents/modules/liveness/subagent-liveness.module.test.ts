@@ -9,7 +9,7 @@ const OWN = "a38f63805f9b94edf"
 
 const ANOTHER = "01a05844-6e60-7000-b54c-4b14559df70c"
 
-const NOWHERE = "seat-system/subagents/pages/nowhere/nowhere.subagent.ts"
+const NOWHERE = "agents/subagents/pages/nowhere/nowhere.subagent.ts"
 
 test("a subagent the transcript names below another is named as one at the top is", () => {
   const deep = { key: "c", label: "c", agentId: OWN, children: [] }
