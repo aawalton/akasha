@@ -6,7 +6,7 @@ export const ruleWorthlessDestroy = {
   slug: "rule-worthless-destroy",
   title: "Destroy worthless items",
   description:
-    "Destroys normal (white) quality items that have no guild store value and no merchant value. Place at the very bottom — only items not caught by any higher-priority rule are destroyed.",
+    "Destroys normal (white) quality items whose guild store value is at or below zero, which an unknown guild store value satisfies. Merchant value is not consulted. Place at the very bottom — only items not caught by any higher-priority rule are destroyed.",
   goal: "destroy",
   conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
