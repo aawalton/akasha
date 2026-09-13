@@ -3,7 +3,7 @@ import {
   messagesTo,
 } from "akasha/agents/messaging/modules/message-file/message-file.module.code.ts"
 import { seatsPresent } from "akasha/agents/seats/fleet/modules/seat-roster/seat-roster.module.code.ts"
-import type { TurnPendingComponent } from "akasha/agents/seats/observation/seat-turn/modules/turn-pending/seat-turn-pending.module.code.ts"
+import type { TurnPendingComponent } from "akasha/agents/seats/observation/seat-turn/modules/pending/seat-turn-pending.module.code.ts"
 import {
   anyLiveShell,
   workingOf,

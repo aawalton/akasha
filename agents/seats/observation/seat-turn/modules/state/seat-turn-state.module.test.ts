@@ -3,7 +3,7 @@ import type { SeatPresence } from "akasha/agents/seats/observation/modules/seat-
 import {
   readSeatTurn,
   type SeatTurnRecords,
-} from "akasha/agents/seats/observation/seat-turn/modules/turn-state/seat-turn-state.module.code.ts"
+} from "akasha/agents/seats/observation/seat-turn/modules/state/seat-turn-state.module.code.ts"
 
 const AT = Date.parse("2026-09-04T00:00:00.000Z")
 

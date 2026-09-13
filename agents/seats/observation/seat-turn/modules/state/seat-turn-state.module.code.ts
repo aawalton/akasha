@@ -7,7 +7,7 @@ import {
   pendingOf,
   pendingOn,
   type TurnPending,
-} from "akasha/agents/seats/observation/seat-turn/modules/turn-pending/seat-turn-pending.module.code.ts"
+} from "akasha/agents/seats/observation/seat-turn/modules/pending/seat-turn-pending.module.code.ts"
 import {
   anyWorking,
   anyWorkingRead,

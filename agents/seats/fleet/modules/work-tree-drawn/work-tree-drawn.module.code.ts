@@ -1,5 +1,5 @@
 import { seatWorkNow } from "akasha/agents/seats/fleet/modules/seat-work/seat-work.module.code.ts"
-import { colorOfState } from "akasha/agents/seats/observation/seat-turn/modules/turn-color/seat-turn-color.module.code.ts"
+import { colorOfState } from "akasha/agents/seats/observation/seat-turn/modules/color/seat-turn-color.module.code.ts"
 
 export interface Drawn {
   readonly byInitiative: ReadonlyMap<string, string>
