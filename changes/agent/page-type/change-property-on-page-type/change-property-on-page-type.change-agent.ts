@@ -9,6 +9,7 @@ export const changePropertyOnPageType = {
   changeTargetSubtype: "change-target-subtype/page-type-page-property",
   definition: "one property's declaration on a page type stated anew, with its pages carried",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
