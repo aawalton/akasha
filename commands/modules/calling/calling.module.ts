@@ -105,6 +105,14 @@ export const calling = {
     },
     {
       invariantKind: "departure",
+      statement: "A name carried by more than one namespace is refused rather than chosen between.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a refusal names the word the call wrote rather than the slug of any page.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A command is told the call as that call was written on the command line.",
     },
     {

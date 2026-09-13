@@ -9,12 +9,16 @@ import {
   COMMAND,
   COMMAND_TYPE,
   draftUnderChange,
+  heldTwice,
+  namespacedTwice,
   namespacesIn,
   OUTSIDE,
+  pickedTwice,
   rootWith,
   ruledRoot,
   ruleNamed,
   ruleWritten,
+  sessionTwice,
   sweep,
   THROWS_NO_ERROR,
   TYPED,
@@ -89,10 +93,10 @@ test("a name near a namespace's is refused with that namespace pointed at", asyn
 })
 
 test("a name carried by more than one command is refused rather than chosen between", async () => {
-  const root = rootWith([{ slug: "held", body: ANSWERS, also: "akasha/elsewhere/held.command.ts" }])
-  const said = await calling(["held"], { ...OUTSIDE, root })
+  const said = await calling(["held"], { ...OUTSIDE, root: heldTwice() })
   expect(said.code).toBe(DATA)
-  expect(said.refusals[0]).toContain("names more than one")
+  expect(said.refusals[0]).toContain("`held`")
+  expect(said.refusals[0]).toContain("  akasha/elsewhere/held.command.ts")
 })
 
 test("the walk goes as deep as the words offer, through levels carrying no command", async () => {
@@ -153,23 +157,17 @@ test("a command no level above states as a part is reached by no word", async ()
 })
 
 test("a joined name carried by more than one command is refused rather than shortened", async () => {
-  const root = rootWith(
-    [
-      { slug: "track", body: ANSWERS, parts: ["command/track-session"] },
-      {
-        slug: "track-session",
-        body: ANSWERS,
-        name: "session",
-        also: "akasha/elsewhere/track-session.command.ts",
-      },
-    ],
-    COMMAND,
-    ["command/track"]
-  )
-  const said = await calling(["track", "session", "open"], { ...OUTSIDE, root })
+  const said = await calling(["track", "session", "open"], { ...OUTSIDE, root: sessionTwice() })
   expect(said.code).toBe(DATA)
-  expect(said.refusals[0]).toContain("`track-session` is carried by 2 commands")
-  expect(said.refusals[0]).toContain("names more than one")
+  expect(said.refusals[0]).toContain("`session`")
+  expect(said.refusals[0]).not.toContain("`track-session`")
+})
+
+test("a name two commands share is refused by that name rather than by either slug", async () => {
+  const said = await calling(["pick"], { ...OUTSIDE, root: pickedTwice() })
+  expect(said.code).toBe(DATA)
+  expect(said.refusals[0]).toContain("`pick`")
+  expect(said.refusals[0]).not.toContain("`pick-first`")
 })
 
 test("no run of leading words naming a command is refused under the first word", async () => {
@@ -213,6 +211,13 @@ test("a word past a namespace reaching nothing it holds is refused", async () =>
   expect(said.refusals[0]).toContain("Did you mean `draft`?")
   expect(said.refusals).toContain("  akasha change draft")
   expect(said.report).toEqual([])
+})
+
+test("a name carried by more than one namespace is refused, not chosen between", async () => {
+  const said = await calling(["track", "session"], { ...OUTSIDE, root: namespacedTwice() })
+  expect(said.code).toBe(DATA)
+  expect(said.refusals[0]).toContain("`session`")
+  expect(said.refusals[0]).not.toContain("no command akasha carries")
 })
 
 test("a namespace with nothing past it but the help flag is listed", async () => {

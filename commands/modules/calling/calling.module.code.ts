@@ -427,6 +427,16 @@ export async function calling(argv: readonly string[], outside: Outside): Promis
   }
   const reached = walkedIn(root, argv)
   const first = reached === null ? undefined : reached.found[0]
+  if (reached !== null && first !== undefined && reached.found.length > 1) {
+    const among = reached.found.map((one) => `  ${one.path}`).join("\n")
+    return refusedBy(
+      [
+        `\`${first.named}\` names ${reached.found.length} pages, ` +
+          `so it reaches more than one:\n${among}`,
+      ],
+      DATA
+    )
+  }
   if (reached === null || first === undefined || first.type !== commandSlugIn(root)) {
     const answered =
       reached === null || first === undefined || first.type !== namespaceSlugIn(root)
@@ -440,16 +450,6 @@ export async function calling(argv: readonly string[], outside: Outside): Promis
             `\`${named}\` is no command akasha carries.${meantSaid(named, namedIn(root, every))}`
         )
       : carried(DATA, () => `\`${named}\` was looked for and not read.`)
-  }
-  if (reached.found.length > 1) {
-    const among = reached.found.map((one) => `  ${one.path}`).join("\n")
-    return refusedBy(
-      [
-        `\`${first.slug}\` is carried by ${reached.found.length} commands, ` +
-          `so this names more than one:\n${among}`,
-      ],
-      DATA
-    )
   }
   const answer = await calledAt(
     first,

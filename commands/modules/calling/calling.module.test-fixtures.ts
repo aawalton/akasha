@@ -224,6 +224,43 @@ export function trackSession(): string {
   )
 }
 
+export function heldTwice(): string {
+  return rootWith([{ slug: "held", body: ANSWERS, also: "akasha/elsewhere/held.command.ts" }])
+}
+
+export function sessionTwice(): string {
+  return rootWith(
+    [
+      { slug: "track", body: ANSWERS, parts: ["command/track-session"] },
+      {
+        slug: "track-session",
+        body: ANSWERS,
+        name: "session",
+        also: "akasha/elsewhere/track-session.command.ts",
+      },
+    ],
+    COMMAND,
+    ["command/track"]
+  )
+}
+
+export function pickedTwice(): string {
+  return rootWith([
+    { slug: "pick-first", body: ANSWERS, name: "pick" },
+    { slug: "pick-second", body: ANSWERS, name: "pick" },
+  ])
+}
+
+export function namespacedTwice(): string {
+  const root = rootWith([{ slug: "held", body: ANSWERS }], COMMAND, ["namespace/track"])
+  namespacesIn(root, [
+    { slug: "track", name: "track", parts: ["namespace/track-one", "namespace/track-other"] },
+    { slug: "track-one", name: "session", parts: ["command/held"] },
+    { slug: "track-other", name: "session", parts: ["command/held"] },
+  ])
+  return root
+}
+
 const ARGUMENT = "argument"
 
 const ARGUMENT_TYPE = "01a093fd-9102-76e8-958e-03d34cd41e25"
