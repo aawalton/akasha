@@ -139,6 +139,11 @@ export const alanHarness = {
       statement:
         "The code editor panel named Page Types is a tree of page types by what each extends.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The code editor panel named Services is a tree of services by the kind each one is.",
+    },
   ],
   directives: [
     {
