@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0561355CocoonIBook7Beginning = {
   position: 561,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3383871/355-cocoon-i-book-7-beginning",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3383871/355-cocoon-i-book-7-beginning",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

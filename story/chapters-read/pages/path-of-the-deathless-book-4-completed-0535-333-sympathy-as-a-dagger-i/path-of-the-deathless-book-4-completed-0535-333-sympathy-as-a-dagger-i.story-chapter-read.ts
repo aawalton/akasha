@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0535333SympathyAsADaggerI = {
   position: 535,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3261694/333-sympathy-as-a-dagger-i",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3261694/333-sympathy-as-a-dagger-i",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

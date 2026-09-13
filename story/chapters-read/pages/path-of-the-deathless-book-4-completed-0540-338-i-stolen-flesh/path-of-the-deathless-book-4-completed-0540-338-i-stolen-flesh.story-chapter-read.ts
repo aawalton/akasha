@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0540338IStolenFlesh = {
   position: 540,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3286841/338-i-stolen-flesh",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3286841/338-i-stolen-flesh",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

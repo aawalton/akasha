@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0593383NovelFlavor = {
   position: 593,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3549134/383-novel-flavor",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3549134/383-novel-flavor",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

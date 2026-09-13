@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0421265IBeyondIi = {
   position: 421,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2949659/265-i-beyond-ii",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2949659/265-i-beyond-ii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

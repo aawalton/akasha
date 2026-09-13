@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0551346HarbingerIi = {
   position: 551,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3334504/346-harbinger-ii",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3334504/346-harbinger-ii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

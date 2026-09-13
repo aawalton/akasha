@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0549344IiTheWayOfTripartiteRuinV = 
   position: 549,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3326280/344-ii-the-way-of-tripartite-ruin-v",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3326280/344-ii-the-way-of-tripartite-ruin-v",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

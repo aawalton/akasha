@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0537335Vestments = {
   position: 537,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3274022/335-vestments",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3274022/335-vestments",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

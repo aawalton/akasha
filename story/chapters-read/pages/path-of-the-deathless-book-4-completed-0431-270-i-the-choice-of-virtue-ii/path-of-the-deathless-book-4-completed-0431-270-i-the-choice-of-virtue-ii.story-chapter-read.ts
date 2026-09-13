@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0431270ITheChoiceOfVirtueIi = {
   position: 431,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2965363/270-i-the-choice-of-virtue-ii",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2965363/270-i-the-choice-of-virtue-ii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

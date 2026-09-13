@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0456282IiGrieve = {
   position: 456,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3006725/282-ii-grieve",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3006725/282-ii-grieve",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

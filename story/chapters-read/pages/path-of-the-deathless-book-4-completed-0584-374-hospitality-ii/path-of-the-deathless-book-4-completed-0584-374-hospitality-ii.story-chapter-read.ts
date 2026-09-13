@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0584374HospitalityIi = {
   position: 584,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3498203/374-hospitality-ii",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3498203/374-hospitality-ii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

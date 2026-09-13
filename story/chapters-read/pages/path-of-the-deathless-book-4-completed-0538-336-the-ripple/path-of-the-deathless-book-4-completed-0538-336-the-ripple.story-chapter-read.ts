@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0538336TheRipple = {
   position: 538,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3278390/336-the-ripple",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3278390/336-the-ripple",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

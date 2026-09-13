@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0413261IBargain = {
   position: 413,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2936592/261-i-bargain",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2936592/261-i-bargain",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

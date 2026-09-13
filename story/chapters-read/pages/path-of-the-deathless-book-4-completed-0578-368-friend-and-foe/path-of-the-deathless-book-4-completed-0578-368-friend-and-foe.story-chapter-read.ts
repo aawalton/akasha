@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0578368FriendAndFoe = {
   position: 578,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3466717/368-friend-and-foe",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3466717/368-friend-and-foe",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

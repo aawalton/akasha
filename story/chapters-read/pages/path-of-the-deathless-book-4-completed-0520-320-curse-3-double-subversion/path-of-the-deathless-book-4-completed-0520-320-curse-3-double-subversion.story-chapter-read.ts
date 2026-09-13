@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0520320Curse3DoubleSubversion = {
   position: 520,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3201372/320-curse-3-double-subversion",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3201372/320-curse-3-double-subversion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

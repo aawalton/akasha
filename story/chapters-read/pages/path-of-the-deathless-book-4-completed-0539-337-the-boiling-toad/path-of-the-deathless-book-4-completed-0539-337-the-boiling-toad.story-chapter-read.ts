@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0539337TheBoilingToad = {
   position: 539,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3282610/337-the-boiling-toad",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3282610/337-the-boiling-toad",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

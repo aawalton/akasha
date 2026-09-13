@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0426267IFuryAloneIsButImpotence = {
   position: 426,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2956095/267-i-fury-alone-is-but-impotence",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2956095/267-i-fury-alone-is-but-impotence",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

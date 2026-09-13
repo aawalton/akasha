@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0452280IiChrysalisIi = {
   position: 452,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3000121/280-ii-chrysalis-ii",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3000121/280-ii-chrysalis-ii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

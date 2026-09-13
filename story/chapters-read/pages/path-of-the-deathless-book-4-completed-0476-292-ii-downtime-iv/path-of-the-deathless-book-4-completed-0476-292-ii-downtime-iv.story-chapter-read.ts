@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0476292IiDowntimeIv = {
   position: 476,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3041354/292-ii-downtime-iv",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3041354/292-ii-downtime-iv",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

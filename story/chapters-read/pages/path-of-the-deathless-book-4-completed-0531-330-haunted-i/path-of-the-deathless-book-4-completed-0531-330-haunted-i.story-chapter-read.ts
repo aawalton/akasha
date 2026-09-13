@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0531330HauntedI = {
   position: 531,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3244969/330-haunted-i",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3244969/330-haunted-i",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

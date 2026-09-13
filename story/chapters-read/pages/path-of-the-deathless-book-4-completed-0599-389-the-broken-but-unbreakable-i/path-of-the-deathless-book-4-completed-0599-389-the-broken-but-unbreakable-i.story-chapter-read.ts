@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0599389TheBrokenButUnbreakableI = {
   position: 599,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3581308/389-the-broken-but-unbreakable-i",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3581308/389-the-broken-but-unbreakable-i",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

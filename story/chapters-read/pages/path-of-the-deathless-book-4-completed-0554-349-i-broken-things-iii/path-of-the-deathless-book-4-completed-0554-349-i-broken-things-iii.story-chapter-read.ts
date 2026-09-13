@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0554349IBrokenThingsIii = {
   position: 554,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3346923/349-i-broken-things-iii",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3346923/349-i-broken-things-iii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

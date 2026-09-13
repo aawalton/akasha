@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0576366ReconcileI = {
   position: 576,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3455047/366-reconcile-i",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3455047/366-reconcile-i",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

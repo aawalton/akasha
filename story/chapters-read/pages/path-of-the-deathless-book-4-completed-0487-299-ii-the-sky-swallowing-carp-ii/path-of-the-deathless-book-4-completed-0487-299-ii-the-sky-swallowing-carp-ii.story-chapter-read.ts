@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0487299IiTheSkySwallowingCarpIi = {
   position: 487,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3085323/299-ii-the-sky-swallowing-carp-ii",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3085323/299-ii-the-sky-swallowing-carp-ii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

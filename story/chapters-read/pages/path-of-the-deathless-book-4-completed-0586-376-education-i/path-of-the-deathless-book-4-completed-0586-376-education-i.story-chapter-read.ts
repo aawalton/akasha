@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0586376EducationI = {
   position: 586,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3511075/376-education-i",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3511075/376-education-i",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

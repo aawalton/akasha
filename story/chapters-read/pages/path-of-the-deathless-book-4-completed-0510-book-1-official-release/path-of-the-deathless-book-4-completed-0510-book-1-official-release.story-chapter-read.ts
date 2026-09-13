@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0510Book1OfficialRelease = {
   position: 510,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3164764/book-1-official-release",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3164764/book-1-official-release",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0519319Curse2Bear3IfYouCurseMeAgain
   position: 519,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3197243/319-curse-2-bear-3-if-you-curse-me-again",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3197243/319-curse-2-bear-3-if-you-curse-me-again",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

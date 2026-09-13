@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0564357IGlimpse = {
   position: 564,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3396513/357-i-glimpse",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3396513/357-i-glimpse",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

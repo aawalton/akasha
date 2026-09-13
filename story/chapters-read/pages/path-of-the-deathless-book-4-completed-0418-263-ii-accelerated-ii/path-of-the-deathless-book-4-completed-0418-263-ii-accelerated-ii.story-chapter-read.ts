@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0418263IiAcceleratedIi = {
   position: 418,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2943849/263-ii-accelerated-ii",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2943849/263-ii-accelerated-ii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

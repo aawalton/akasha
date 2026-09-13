@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0582372ThievesOfDivinity = {
   position: 582,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3489272/372-thieves-of-divinity",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3489272/372-thieves-of-divinity",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

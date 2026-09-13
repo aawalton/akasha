@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0478294IPathOfTheCheflessI = {
   position: 478,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3054776/294-i-path-of-the-chefless-i",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3054776/294-i-path-of-the-chefless-i",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

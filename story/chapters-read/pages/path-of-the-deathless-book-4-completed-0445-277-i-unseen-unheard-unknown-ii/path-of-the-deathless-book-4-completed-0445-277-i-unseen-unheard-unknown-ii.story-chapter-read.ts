@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0445277IUnseenUnheardUnknownIi = {
   position: 445,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2988677/277-i-unseen-unheard-unknown-ii",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2988677/277-i-unseen-unheard-unknown-ii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

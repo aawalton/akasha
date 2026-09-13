@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0601391TheBrokenButUnbreakableIii =
   position: 601,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3590723/391-the-broken-but-unbreakable-iii",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3590723/391-the-broken-but-unbreakable-iii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

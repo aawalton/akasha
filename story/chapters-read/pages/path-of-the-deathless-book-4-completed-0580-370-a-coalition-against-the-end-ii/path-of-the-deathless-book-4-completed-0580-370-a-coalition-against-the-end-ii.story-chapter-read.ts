@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0580370ACoalitionAgainstTheEndIi = 
   position: 580,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3480052/370-a-coalition-against-the-end-ii",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3480052/370-a-coalition-against-the-end-ii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

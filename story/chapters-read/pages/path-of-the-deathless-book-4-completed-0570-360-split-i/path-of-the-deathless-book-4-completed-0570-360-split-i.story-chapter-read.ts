@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0570360SplitI = {
   position: 570,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3428884/360-split-i",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3428884/360-split-i",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

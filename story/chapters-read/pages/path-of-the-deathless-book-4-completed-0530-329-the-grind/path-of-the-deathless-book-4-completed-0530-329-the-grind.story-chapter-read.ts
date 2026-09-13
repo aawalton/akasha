@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0530329TheGrind = {
   position: 530,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3240443/329-the-grind",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3240443/329-the-grind",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

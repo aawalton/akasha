@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0559353ThreeUponOneIii = {
   position: 559,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3372316/353-three-upon-one-iii",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3372316/353-three-upon-one-iii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

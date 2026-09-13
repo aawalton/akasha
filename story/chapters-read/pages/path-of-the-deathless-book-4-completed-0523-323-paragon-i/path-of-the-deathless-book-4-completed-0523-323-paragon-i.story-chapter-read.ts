@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0523323ParagonI = {
   position: 523,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3211946/323-paragon-i",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3211946/323-paragon-i",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

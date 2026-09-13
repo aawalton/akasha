@@ -9,8 +9,12 @@ export const pathOfTheDeathlessBook4Completed0598388SparringPartnerIi = {
   position: 598,
   ownLength: 0,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3576854/388-sparring-partner-ii",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3576854/388-sparring-partner-ii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead
