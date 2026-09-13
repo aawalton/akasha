@@ -181,6 +181,101 @@ export const seat = {
       invariantKind: "gap",
       statement: "A record a seat keeps that way says which subagent left it and when.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Every reader of a seat reads the seat from akasha.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No writer of a seat writes the seat outside akasha.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No writer of a subagent writes the subagent outside akasha.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat's page remains while an agent is present in the seat.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat's page goes when no agent is present in the seat.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat outlives the initiative the seat was assigned.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat whose initiative is done is assigned again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat on call is not swept.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every value a seat has is either declared of the seat or observed of the seat.",
+    },
+    {
+      invariantKind: "upkeep",
+      statement: "Every value observed of a seat is declared on its page type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat's id is the agent's id.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A value observed of a seat changes every few seconds.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "A write that commits cannot have a value that is observed of a seat and can be observed again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value a seat is bound to cannot be observed again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value a seat is bound to is committed.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Every writer of a seat's uncommitted values takes a lock keyed on the file the writer writes.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A supervisor restarts onto current code without interrupting the session that supervisor has.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat survives its own restart.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A seat outlives the editor showing the seat and the agent sitting in the seat.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat is stopped by ending its processes.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No command sends a message from one seat to another seat.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Nothing outside akasha defines a seat.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A seat at work keeps working while its page moves.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType
