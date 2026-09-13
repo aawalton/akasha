@@ -1198,13 +1198,6 @@
     ],
     "itemRules": [
       {
-        "id": "1fabea21-87f9-412c-b390-443802c845c1",
-        "itemId": 999000111,
-        "itemName": "Landing Two Round Trip Probe",
-        "action": "nothing",
-        "updatedAt": 1789315567118
-      },
-      {
         "id": "32c22942-9127-47a9-9754-f877b356132b",
         "itemId": 87697,
         "itemName": "Witchmother's Potent Brew",
