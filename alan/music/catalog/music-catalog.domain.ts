@@ -20,6 +20,7 @@ export const musicCatalog = {
     "page-type/release",
     "page-type/release-collection",
     "page-type/song",
+    "service-workstation/spotify-sync",
   ],
   invariants: [
     {
@@ -29,6 +30,10 @@ export const musicCatalog = {
     {
       invariantKind: "departure",
       statement: "LRCLIB states the words of a song.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Spotify states the releases an artist put out.",
     },
   ],
 } as const satisfies Domain
