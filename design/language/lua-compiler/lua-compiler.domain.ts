@@ -69,7 +69,6 @@ export const luaCompiler = {
     "module/transform-diagnostics",
     "module/transform-using-transformer",
     "module/transformation",
-    "module/transpilation",
     "module/transpile-bundle",
     "module/transpile-diagnostics",
     "module/transpile-emit-file",
