@@ -2,12 +2,12 @@ import type {
   ClaimedCandidate,
   ClaimedTranscriptFinding,
 } from "akasha/agents/messaging/modules/supervisor-claimed-redelivery-decide/supervisor-claimed-redelivery-decide.module.code.ts"
-import type { LimitResumeInput } from "akasha/agents/seats/supervisors/modules/supervisor-limit-resume-decide/supervisor-limit-resume-decide.module.code.ts"
 import type { RcDegradedSeat } from "akasha/agents/seats/supervisors/modules/supervisor-rc-degraded-decide/supervisor-rc-degraded-decide.module.code.ts"
 import type { RemoteControlSeatQuestion } from "akasha/agents/seats/supervisors/modules/supervisor-remote-control-decide/supervisor-remote-control-decide.module.code.ts"
-import type { UncertainBlockSeat } from "akasha/agents/seats/supervisors/modules/supervisor-uncertain-wait-decide/supervisor-uncertain-wait-decide.module.code.ts"
-import type { WaitResumeInput } from "akasha/agents/seats/supervisors/modules/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts"
 import type { RestartNowEvent } from "akasha/agents/seats/supervisors/restarting/modules/supervisor-restart-notice-decide/supervisor-restart-notice-decide.module.code.ts"
+import type { LimitResumeInput } from "akasha/agents/seats/supervisors/resuming/modules/supervisor-limit-resume-decide/supervisor-limit-resume-decide.module.code.ts"
+import type { UncertainBlockSeat } from "akasha/agents/seats/supervisors/resuming/modules/supervisor-uncertain-wait-decide/supervisor-uncertain-wait-decide.module.code.ts"
+import type { WaitResumeInput } from "akasha/agents/seats/supervisors/resuming/modules/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts"
 import {
   arr,
   bool,

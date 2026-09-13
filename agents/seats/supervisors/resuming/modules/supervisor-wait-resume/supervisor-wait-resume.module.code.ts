@@ -1,25 +1,25 @@
 import { readOwnTranscriptTail } from "akasha/agents/modules/io-probe/io-probe.module.code.ts"
-import { askSupervisorDecide } from "akasha/agents/seats/supervisors/modules/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
+import { tickSaying } from "akasha/agents/seats/supervisors/modules/supervisor-tick-saying/supervisor-tick-saying.module.code.ts"
+import { askSupervisorDecide } from "akasha/agents/seats/supervisors/resuming/modules/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
 import {
   ANNOUNCE,
   hasRecentInboundMessage,
   SYSTEM_SOURCE,
   sendMessage,
-} from "akasha/agents/seats/supervisors/modules/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"
-import { tickSaying } from "akasha/agents/seats/supervisors/modules/supervisor-tick-saying/supervisor-tick-saying.module.code.ts"
+} from "akasha/agents/seats/supervisors/resuming/modules/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"
 import {
   type AskDecide,
   askWaitResume,
   type WaitResumeVerdict,
-} from "akasha/agents/seats/supervisors/modules/supervisor-wait-resume-answer/supervisor-wait-resume-answer.module.code.ts"
+} from "akasha/agents/seats/supervisors/resuming/modules/supervisor-wait-resume-answer/supervisor-wait-resume-answer.module.code.ts"
 import {
   WAIT_MAX_MS,
   waitMs,
-} from "akasha/agents/seats/supervisors/modules/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts"
+} from "akasha/agents/seats/supervisors/resuming/modules/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts"
 import {
   CONNECTION_STATUS,
   classifyTurnEndErrorDeath,
-} from "akasha/agents/seats/supervisors/modules/turn-end-error-death/turn-end-error-death.module.code.ts"
+} from "akasha/agents/seats/supervisors/resuming/modules/turn-end-error-death/turn-end-error-death.module.code.ts"
 import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
 
 const WAIT_RESUME_INTERVAL_MS = 30_000

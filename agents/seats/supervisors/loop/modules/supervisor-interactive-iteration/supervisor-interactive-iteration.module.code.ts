@@ -24,11 +24,6 @@ import {
 } from "akasha/agents/seats/supervisors/child/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"
 import type { buildAgentLogRedirect } from "akasha/agents/seats/supervisors/modules/supervisor-console/supervisor-console.module.code.ts"
 import { keepSeatTranscript } from "akasha/agents/seats/supervisors/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
-import {
-  ANNOUNCE,
-  sendMessage,
-  USER_SOURCE,
-} from "akasha/agents/seats/supervisors/modules/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"
 import type { ClearRebindHooks } from "akasha/agents/seats/supervisors/modules/supervisor-rebind/supervisor-rebind.module.code.ts"
 import type { CarriedAgentName } from "akasha/agents/seats/supervisors/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"
 import type { ClearRebindDeps } from "akasha/agents/seats/supervisors/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
@@ -44,6 +39,11 @@ import type {
   AgentProcess,
   InheritedProc,
 } from "akasha/agents/seats/supervisors/process/modules/supervisor-types/supervisor-types.module.code.ts"
+import {
+  ANNOUNCE,
+  sendMessage,
+  USER_SOURCE,
+} from "akasha/agents/seats/supervisors/resuming/modules/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"
 import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
 
 export async function openIteration(args: {
