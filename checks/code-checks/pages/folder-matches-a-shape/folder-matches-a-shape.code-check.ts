@@ -13,7 +13,7 @@ export const folderMatchesAShape = {
     "module/shape-progress",
     "page-type/folder-shape",
   ],
-  runsOnChange: false,
+  runsOnChange: true,
   runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
@@ -206,14 +206,13 @@ export const folderMatchesAShape = {
     },
     {
       invariantKind: "departure",
-      statement: "Nothing is judged while this page states `experimental`.",
+      statement: "Alan approved this check in the turn asking for it to judge.",
     },
     {
       invariantKind: "departure",
-      statement: "`experimental` comes off this page where Alan has approved this check.",
+      statement: "An audit pays its reach once a run, so audit is given the longer ceiling.",
     },
   ],
   check: { maxCpuSeconds: 10 },
-  audit: { maxCpuSeconds: 15 },
-  experimental: true,
+  audit: { maxCpuSeconds: 45 },
 } as const satisfies CodeCheck
