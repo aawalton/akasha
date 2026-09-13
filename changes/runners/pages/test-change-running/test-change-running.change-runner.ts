@@ -6,6 +6,7 @@ export const testChangeRunning = {
   slug: "test-change-running",
   definition: "the runner a test reaches a change through rather than importing that change",
   code: "ts",
+  test: "ts",
   addressed: "ts",
   reached: "page-type/change",
   invariants: [

@@ -6,7 +6,10 @@ import {
   worldAt,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { loadedAt } from "akasha/changes/runners/modules/change-loading/change-loading.module.code.ts"
+import type { Changes } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.addressed.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+
+export type Address = keyof Changes & string
 
 let filed: World | null = null
 
