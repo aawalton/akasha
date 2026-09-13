@@ -19,9 +19,6 @@ export const git = {
     "module/head-commit",
     "module/holding",
     "module/porcelain-status",
-    "module/porcelain-status-reading",
-    "module/served-tip",
-    "module/tree-sha",
   ],
   invariants: [
     {
