@@ -5,7 +5,7 @@ export const taylorSwift2ChristmasTreeFarmOldTimeyVersion = {
   type: "release",
   slug: "taylor-swift-2-christmas-tree-farm-old-timey-version",
   title: "Christmas Tree Farm (Old Timey Version)",
-  partOfCollections: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift"],
   position: 0,
   ownLength: 3.8776,
   ownProgress: 3.8776,

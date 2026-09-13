@@ -5,7 +5,7 @@ export const taylorSwift2ThisLoveTaylorSVersion = {
   type: "release",
   slug: "taylor-swift-2-this-love-taylor-s-version",
   title: "This Love (Taylor’s Version)",
-  partOfCollections: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift"],
   position: 0,
   ownLength: 7.842217,
   ownProgress: 7.842217,

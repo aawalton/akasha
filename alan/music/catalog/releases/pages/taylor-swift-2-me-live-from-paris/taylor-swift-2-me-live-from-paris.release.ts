@@ -5,7 +5,7 @@ export const taylorSwift2MeLiveFromParis = {
   type: "release",
   slug: "taylor-swift-2-me-live-from-paris",
   title: "ME! (Live From Paris)",
-  partOfCollections: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift"],
   position: 0,
   ownLength: 3.550433,
   ownProgress: 3.550433,

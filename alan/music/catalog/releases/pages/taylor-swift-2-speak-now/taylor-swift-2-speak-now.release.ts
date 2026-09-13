@@ -5,7 +5,7 @@ export const taylorSwift2SpeakNow = {
   type: "release",
   slug: "taylor-swift-2-speak-now",
   title: "Speak Now",
-  partOfCollections: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift"],
   position: 0,
   ownLength: 67.0328,
   ownProgress: 67.0328,

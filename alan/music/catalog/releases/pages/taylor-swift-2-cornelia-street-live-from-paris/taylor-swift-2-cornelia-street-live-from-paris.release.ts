@@ -5,7 +5,7 @@ export const taylorSwift2CorneliaStreetLiveFromParis = {
   type: "release",
   slug: "taylor-swift-2-cornelia-street-live-from-paris",
   title: "Cornelia Street (Live From Paris)",
-  partOfCollections: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift"],
   position: 0,
   ownLength: 4.93355,
   ownProgress: 4.93355,

@@ -5,7 +5,7 @@ export const taylorSwift2TheManLiveFromParis = {
   type: "release",
   slug: "taylor-swift-2-the-man-live-from-paris",
   title: "The Man (Live From Paris)",
-  partOfCollections: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift"],
   position: 0,
   ownLength: 3.656417,
   ownProgress: 3.656417,

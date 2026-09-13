@@ -5,7 +5,7 @@ export const taylorSwift2AntiHeroIlleniumRemix = {
   type: "release",
   slug: "taylor-swift-2-anti-hero-illenium-remix",
   title: "Anti-Hero (ILLENIUM Remix)",
-  partOfCollections: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift"],
   position: 0,
   ownLength: 4.466,
   ownProgress: 4.466,

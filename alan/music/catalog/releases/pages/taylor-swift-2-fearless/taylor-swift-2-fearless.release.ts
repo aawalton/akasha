@@ -5,7 +5,7 @@ export const taylorSwift2Fearless = {
   type: "release",
   slug: "taylor-swift-2-fearless",
   title: "Fearless",
-  partOfCollections: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift"],
   position: 0,
   ownLength: 53.5479,
   ownProgress: 53.5479,

@@ -5,7 +5,7 @@ export const taylorSwift2Midnights = {
   type: "release",
   slug: "taylor-swift-2-midnights",
   title: "Midnights",
-  partOfCollections: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift"],
   position: 0,
   ownLength: 44.138967,
   ownProgress: 44.138967,

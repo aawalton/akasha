@@ -5,7 +5,7 @@ export const taylorSwift2RenegadePopVersion = {
   type: "release",
   slug: "taylor-swift-2-renegade-pop-version",
   title: "Renegade (Pop Version)",
-  partOfCollections: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift"],
   position: 0,
   ownLength: 3.858767,
   ownProgress: 3.858767,

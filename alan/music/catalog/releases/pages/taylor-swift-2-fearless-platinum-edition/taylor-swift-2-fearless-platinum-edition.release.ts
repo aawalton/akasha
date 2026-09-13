@@ -5,7 +5,7 @@ export const taylorSwift2FearlessPlatinumEdition = {
   type: "release",
   slug: "taylor-swift-2-fearless-platinum-edition",
   title: "Fearless Platinum Edition",
-  partOfCollections: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift"],
   position: 0,
   ownLength: 79.443683,
   ownProgress: 79.443683,

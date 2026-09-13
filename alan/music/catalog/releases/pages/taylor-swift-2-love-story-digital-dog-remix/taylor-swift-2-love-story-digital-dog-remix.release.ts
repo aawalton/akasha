@@ -5,7 +5,7 @@ export const taylorSwift2LoveStoryDigitalDogRemix = {
   type: "release",
   slug: "taylor-swift-2-love-story-digital-dog-remix",
   title: "Love Story (Digital Dog Remix)",
-  partOfCollections: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift"],
   position: 0,
   ownLength: 5.976217,
   ownProgress: 5.976217,

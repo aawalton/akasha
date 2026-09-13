@@ -5,7 +5,7 @@ export const taylorSwift2AllTooWellSadGirlAutumnVersionRecordedAtLongPondStudios
   type: "release",
   slug: "taylor-swift-2-all-too-well-sad-girl-autumn-version-recorded-at-long-pond-studios",
   title: "All Too Well (Sad Girl Autumn Version) - Recorded at Long Pond Studios",
-  partOfCollections: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift"],
   position: 0,
   ownLength: 9.969167,
   ownProgress: 9.969167,

@@ -5,7 +5,7 @@ export const taylorSwift2Red = {
   type: "release",
   slug: "taylor-swift-2-red",
   title: "Red",
-  partOfCollections: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift"],
   position: 0,
   ownLength: 64.923233,
   ownProgress: 64.923233,

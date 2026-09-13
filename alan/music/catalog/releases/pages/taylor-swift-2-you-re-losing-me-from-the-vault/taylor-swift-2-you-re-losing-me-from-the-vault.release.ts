@@ -5,7 +5,7 @@ export const taylorSwift2YouReLosingMeFromTheVault = {
   type: "release",
   slug: "taylor-swift-2-you-re-losing-me-from-the-vault",
   title: "You're Losing Me (From The Vault)",
-  partOfCollections: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift"],
   position: 0,
   ownLength: 4.630517,
   ownProgress: 4.630517,

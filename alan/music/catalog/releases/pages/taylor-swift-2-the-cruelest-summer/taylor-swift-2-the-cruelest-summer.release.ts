@@ -5,7 +5,7 @@ export const taylorSwift2TheCruelestSummer = {
   type: "release",
   slug: "taylor-swift-2-the-cruelest-summer",
   title: "The Cruelest Summer",
-  partOfCollections: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift"],
   position: 0,
   ownLength: 14.240583,
   ownProgress: 14.240583,

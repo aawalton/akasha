@@ -5,7 +5,7 @@ export const taylorSwift2YouNeedToCalmDownCleanBanditRemix = {
   type: "release",
   slug: "taylor-swift-2-you-need-to-calm-down-clean-bandit-remix",
   title: "You Need To Calm Down (Clean Bandit Remix)",
-  partOfCollections: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift"],
   position: 0,
   ownLength: 2.546217,
   ownProgress: 2.546217,

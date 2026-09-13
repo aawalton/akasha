@@ -5,7 +5,7 @@ export const taylorSwift2BadBlood = {
   type: "release",
   slug: "taylor-swift-2-bad-blood",
   title: "Bad Blood",
-  partOfCollections: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift"],
   position: 0,
   ownLength: 3.3351,
   ownProgress: 3.3351,
