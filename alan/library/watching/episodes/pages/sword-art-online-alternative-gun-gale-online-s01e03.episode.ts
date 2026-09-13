@@ -15,7 +15,11 @@ export const swordArtOnlineAlternativeGunGaleOnlineS01e03 = {
   episodeType: "standard",
   stillPath: "/22bBrXxRDoK6WsSXc1m8vpjwNqh.jpg",
   voteAverage: 8,
-  source: "tmdb",
-  externalId: "1471599",
-  externalLink: "https://www.themoviedb.org/tv/78204/season/1/episode/3",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "1471599",
+      externalLink: "https://www.themoviedb.org/tv/78204/season/1/episode/3",
+    },
+  ],
 } as const satisfies Episode

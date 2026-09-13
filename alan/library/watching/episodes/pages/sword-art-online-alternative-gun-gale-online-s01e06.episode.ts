@@ -15,7 +15,11 @@ export const swordArtOnlineAlternativeGunGaleOnlineS01e06 = {
   episodeType: "standard",
   stillPath: "/bR6zTOkSIP6UDc74u6lyaAisVg0.jpg",
   voteAverage: 7.7,
-  source: "tmdb",
-  externalId: "1483038",
-  externalLink: "https://www.themoviedb.org/tv/78204/season/1/episode/6",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "1483038",
+      externalLink: "https://www.themoviedb.org/tv/78204/season/1/episode/6",
+    },
+  ],
 } as const satisfies Episode

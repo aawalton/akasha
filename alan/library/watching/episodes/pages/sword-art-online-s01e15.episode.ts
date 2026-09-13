@@ -15,7 +15,11 @@ export const swordArtOnlineS01e15 = {
   episodeType: "standard",
   stillPath: "/sMmzH8KpSNV9dGEQ3LP1Xzeokfo.jpg",
   voteAverage: 7.5,
-  source: "tmdb",
-  externalId: "904449",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/1/episode/15",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "904449",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/1/episode/15",
+    },
+  ],
 } as const satisfies Episode

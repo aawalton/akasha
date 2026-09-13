@@ -15,7 +15,11 @@ export const swordArtOnlineS03e23 = {
   episodeType: "standard",
   stillPath: "/i1umIkndL7ofm6eSMtO0oHJD51u.jpg",
   voteAverage: 7.8,
-  source: "tmdb",
-  externalId: "1661528",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/3/episode/23",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "1661528",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/3/episode/23",
+    },
+  ],
 } as const satisfies Episode

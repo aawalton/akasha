@@ -15,7 +15,11 @@ export const swordArtOnlineS02e23 = {
   episodeType: "standard",
   stillPath: "/elqZmxx3KnUFRvzeXJ1Z1iMeABE.jpg",
   voteAverage: 7.6,
-  source: "tmdb",
-  externalId: "1010811",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/2/episode/23",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "1010811",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/2/episode/23",
+    },
+  ],
 } as const satisfies Episode

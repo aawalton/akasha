@@ -15,7 +15,11 @@ export const swordArtOnlineS04e17 = {
   episodeType: "standard",
   stillPath: "/5xhOYfgLATDxfqnjYZYHg49CQ2w.jpg",
   voteAverage: 8.1,
-  source: "tmdb",
-  externalId: "2373381",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/4/episode/17",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "2373381",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/4/episode/17",
+    },
+  ],
 } as const satisfies Episode

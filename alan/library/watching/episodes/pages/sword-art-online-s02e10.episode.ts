@@ -15,7 +15,11 @@ export const swordArtOnlineS02e10 = {
   episodeType: "standard",
   stillPath: "/vs3DpifrmbTGuEEzLDSXAqlhAtS.jpg",
   voteAverage: 7,
-  source: "tmdb",
-  externalId: "1006878",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/2/episode/10",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "1006878",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/2/episode/10",
+    },
+  ],
 } as const satisfies Episode

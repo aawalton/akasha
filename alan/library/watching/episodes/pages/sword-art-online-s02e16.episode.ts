@@ -15,7 +15,11 @@ export const swordArtOnlineS02e16 = {
   episodeType: "standard",
   stillPath: "/mYSSD9v7EGqPYOapdbIuNSUkcoA.jpg",
   voteAverage: 6.8,
-  source: "tmdb",
-  externalId: "1010804",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/2/episode/16",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "1010804",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/2/episode/16",
+    },
+  ],
 } as const satisfies Episode

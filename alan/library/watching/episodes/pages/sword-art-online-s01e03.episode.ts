@@ -15,7 +15,11 @@ export const swordArtOnlineS01e03 = {
   episodeType: "standard",
   stillPath: "/kxBO1gp72V4uBWLSACzL3RvEjQ9.jpg",
   voteAverage: 7.7,
-  source: "tmdb",
-  externalId: "904437",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/1/episode/3",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "904437",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/1/episode/3",
+    },
+  ],
 } as const satisfies Episode

@@ -15,7 +15,11 @@ export const swordArtOnlineS04e12 = {
   episodeType: "mid-season",
   stillPath: "/Agyt1VH7zVHwklzlb9IwVMSynjf.jpg",
   voteAverage: 8.7,
-  source: "tmdb",
-  externalId: "1979509",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/4/episode/12",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "1979509",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/4/episode/12",
+    },
+  ],
 } as const satisfies Episode

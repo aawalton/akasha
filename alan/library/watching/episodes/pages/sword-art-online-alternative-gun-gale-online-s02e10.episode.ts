@@ -15,7 +15,11 @@ export const swordArtOnlineAlternativeGunGaleOnlineS02e10 = {
   episodeType: "standard",
   stillPath: "/2tIPQzqXKDE6xy7K6kxYp9WCFr4.jpg",
   voteAverage: 7,
-  source: "tmdb",
-  externalId: "5639408",
-  externalLink: "https://www.themoviedb.org/tv/78204/season/2/episode/10",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "5639408",
+      externalLink: "https://www.themoviedb.org/tv/78204/season/2/episode/10",
+    },
+  ],
 } as const satisfies Episode

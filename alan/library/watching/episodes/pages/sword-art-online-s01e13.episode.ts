@@ -15,7 +15,11 @@ export const swordArtOnlineS01e13 = {
   episodeType: "standard",
   stillPath: "/ooI4fJvu4eUZgvRTQx1v3uzUTLU.jpg",
   voteAverage: 7.6,
-  source: "tmdb",
-  externalId: "904447",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/1/episode/13",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "904447",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/1/episode/13",
+    },
+  ],
 } as const satisfies Episode

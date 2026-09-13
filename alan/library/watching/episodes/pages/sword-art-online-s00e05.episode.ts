@@ -15,7 +15,11 @@ export const swordArtOnlineS00e05 = {
   episodeType: "standard",
   stillPath: "/27WwtOX6x3oNbYOjROgtDiEMvhW.jpg",
   voteAverage: 6,
-  source: "tmdb",
-  externalId: "904462",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/0/episode/5",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "904462",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/0/episode/5",
+    },
+  ],
 } as const satisfies Episode

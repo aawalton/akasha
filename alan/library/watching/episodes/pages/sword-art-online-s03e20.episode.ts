@@ -15,7 +15,11 @@ export const swordArtOnlineS03e20 = {
   episodeType: "standard",
   stillPath: "/2PyE8uOVgjBvdp89fbamah6RFIs.jpg",
   voteAverage: 8,
-  source: "tmdb",
-  externalId: "1661525",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/3/episode/20",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "1661525",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/3/episode/20",
+    },
+  ],
 } as const satisfies Episode

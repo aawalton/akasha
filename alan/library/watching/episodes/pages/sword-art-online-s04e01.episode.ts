@@ -15,7 +15,11 @@ export const swordArtOnlineS04e01 = {
   episodeType: "standard",
   stillPath: "/z8cL9agh1EQ91AF03afc1O73zmv.jpg",
   voteAverage: 8.8,
-  source: "tmdb",
-  externalId: "1932707",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/4/episode/1",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "1932707",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/4/episode/1",
+    },
+  ],
 } as const satisfies Episode

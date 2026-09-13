@@ -15,7 +15,11 @@ export const swordArtOnlineAlternativeGunGaleOnlineS01e04 = {
   episodeType: "standard",
   stillPath: "/mjsHzBD7cmxME0p5R0bqCbNlk26.jpg",
   voteAverage: 8,
-  source: "tmdb",
-  externalId: "1476207",
-  externalLink: "https://www.themoviedb.org/tv/78204/season/1/episode/4",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "1476207",
+      externalLink: "https://www.themoviedb.org/tv/78204/season/1/episode/4",
+    },
+  ],
 } as const satisfies Episode

@@ -15,7 +15,11 @@ export const swordArtOnlineS02e04 = {
   episodeType: "standard",
   stillPath: "/eJjflgwMR7kcUTOrolwqAlppb4f.jpg",
   voteAverage: 7.4,
-  source: "tmdb",
-  externalId: "1001231",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/2/episode/4",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "1001231",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/2/episode/4",
+    },
+  ],
 } as const satisfies Episode

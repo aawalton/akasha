@@ -15,7 +15,11 @@ export const swordArtOnlineAlternativeGunGaleOnlineS02e09 = {
   episodeType: "standard",
   stillPath: "/uuvSx2UO9PhcOSBo0svUIhnJ7Ia.jpg",
   voteAverage: 7,
-  source: "tmdb",
-  externalId: "5639407",
-  externalLink: "https://www.themoviedb.org/tv/78204/season/2/episode/9",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "5639407",
+      externalLink: "https://www.themoviedb.org/tv/78204/season/2/episode/9",
+    },
+  ],
 } as const satisfies Episode

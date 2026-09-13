@@ -15,7 +15,11 @@ export const swordArtOnlineS03e24 = {
   episodeType: "finale",
   stillPath: "/3na4mgCr70jClF70lGEaG9xcYZz.jpg",
   voteAverage: 8.9,
-  source: "tmdb",
-  externalId: "1661529",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/3/episode/24",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "1661529",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/3/episode/24",
+    },
+  ],
 } as const satisfies Episode

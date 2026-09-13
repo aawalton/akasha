@@ -15,7 +15,11 @@ export const swordArtOnlineS04e20 = {
   episodeType: "standard",
   stillPath: "/fLiy5OO1Bq6ykose7z4QiNIK1g6.jpg",
   voteAverage: 8.8,
-  source: "tmdb",
-  externalId: "2398942",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/4/episode/20",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "2398942",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/4/episode/20",
+    },
+  ],
 } as const satisfies Episode

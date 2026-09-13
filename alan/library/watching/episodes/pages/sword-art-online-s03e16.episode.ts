@@ -15,7 +15,11 @@ export const swordArtOnlineS03e16 = {
   episodeType: "standard",
   stillPath: "/bjpJIJCdQE5KPUqntpQMaqUWzJ5.jpg",
   voteAverage: 8.5,
-  source: "tmdb",
-  externalId: "1661521",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/3/episode/16",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "1661521",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/3/episode/16",
+    },
+  ],
 } as const satisfies Episode

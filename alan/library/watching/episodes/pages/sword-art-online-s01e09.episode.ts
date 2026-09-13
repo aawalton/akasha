@@ -15,7 +15,11 @@ export const swordArtOnlineS01e09 = {
   episodeType: "standard",
   stillPath: "/t2GBif2MdqYhZvQx755Y9xunQkF.jpg",
   voteAverage: 7.9,
-  source: "tmdb",
-  externalId: "904443",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/1/episode/9",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "904443",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/1/episode/9",
+    },
+  ],
 } as const satisfies Episode

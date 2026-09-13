@@ -15,7 +15,11 @@ export const swordArtOnlineS03e08 = {
   episodeType: "standard",
   stillPath: "/cDMMjmPqU3Bx6CdQLkobJMT1tCJ.jpg",
   voteAverage: 8.8,
-  source: "tmdb",
-  externalId: "1604840",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/3/episode/8",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "1604840",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/3/episode/8",
+    },
+  ],
 } as const satisfies Episode

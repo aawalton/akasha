@@ -15,7 +15,11 @@ export const swordArtOnlineAlternativeGunGaleOnlineS01e12 = {
   episodeType: "finale",
   stillPath: "/64ZzNVQIMmIKAr9OGBgVIOQ4ag.jpg",
   voteAverage: 9,
-  source: "tmdb",
-  externalId: "1507422",
-  externalLink: "https://www.themoviedb.org/tv/78204/season/1/episode/12",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "1507422",
+      externalLink: "https://www.themoviedb.org/tv/78204/season/1/episode/12",
+    },
+  ],
 } as const satisfies Episode

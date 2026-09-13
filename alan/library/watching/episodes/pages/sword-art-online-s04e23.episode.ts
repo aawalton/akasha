@@ -15,7 +15,11 @@ export const swordArtOnlineS04e23 = {
   episodeType: "finale",
   stillPath: "/w0u1bSp9EWatole6ZoRKxGWhqpf.jpg",
   voteAverage: 8.8,
-  source: "tmdb",
-  externalId: "2424288",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/4/episode/23",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "2424288",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/4/episode/23",
+    },
+  ],
 } as const satisfies Episode

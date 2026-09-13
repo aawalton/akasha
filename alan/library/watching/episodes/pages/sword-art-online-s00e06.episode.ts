@@ -15,7 +15,11 @@ export const swordArtOnlineS00e06 = {
   episodeType: "standard",
   stillPath: "/pKFhaFHO1aLDzrStUeQUClitovW.jpg",
   voteAverage: 0,
-  source: "tmdb",
-  externalId: "1029375",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/0/episode/6",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "1029375",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/0/episode/6",
+    },
+  ],
 } as const satisfies Episode

@@ -15,7 +15,11 @@ export const swordArtOnlineS01e17 = {
   episodeType: "standard",
   stillPath: "/b702zYjB82kk0APiyCCYBn7fGJU.jpg",
   voteAverage: 7.5,
-  source: "tmdb",
-  externalId: "904451",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/1/episode/17",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "904451",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/1/episode/17",
+    },
+  ],
 } as const satisfies Episode

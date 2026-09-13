@@ -15,7 +15,11 @@ export const swordArtOnlineS04e19 = {
   episodeType: "standard",
   stillPath: "/yGU5BwtNM1tMLMwZQNStubq5mN0.jpg",
   voteAverage: 9.2,
-  source: "tmdb",
-  externalId: "2390006",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/4/episode/19",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "2390006",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/4/episode/19",
+    },
+  ],
 } as const satisfies Episode

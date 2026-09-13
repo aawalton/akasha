@@ -15,7 +15,11 @@ export const swordArtOnlineS01e08 = {
   episodeType: "standard",
   stillPath: "/cmajeWlA7OCpIT2H6JPXIo9Lwdw.jpg",
   voteAverage: 7.2,
-  source: "tmdb",
-  externalId: "904442",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/1/episode/8",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "904442",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/1/episode/8",
+    },
+  ],
 } as const satisfies Episode

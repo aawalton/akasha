@@ -15,7 +15,11 @@ export const swordArtOnlineAlternativeGunGaleOnlineS01e08 = {
   episodeType: "standard",
   stillPath: "/gmTAZ8PgMwGkKlUjbZ52PfBuvD3.jpg",
   voteAverage: 8,
-  source: "tmdb",
-  externalId: "1483040",
-  externalLink: "https://www.themoviedb.org/tv/78204/season/1/episode/8",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "1483040",
+      externalLink: "https://www.themoviedb.org/tv/78204/season/1/episode/8",
+    },
+  ],
 } as const satisfies Episode

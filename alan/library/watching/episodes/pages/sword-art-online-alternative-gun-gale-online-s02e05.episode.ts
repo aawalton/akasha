@@ -15,7 +15,11 @@ export const swordArtOnlineAlternativeGunGaleOnlineS02e05 = {
   episodeType: "standard",
   stillPath: "/99t2LtVT0ztoEYaaPjsRo948Q8o.jpg",
   voteAverage: 7,
-  source: "tmdb",
-  externalId: "5639403",
-  externalLink: "https://www.themoviedb.org/tv/78204/season/2/episode/5",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "5639403",
+      externalLink: "https://www.themoviedb.org/tv/78204/season/2/episode/5",
+    },
+  ],
 } as const satisfies Episode

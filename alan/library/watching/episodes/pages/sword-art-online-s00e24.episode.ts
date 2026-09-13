@@ -15,7 +15,11 @@ export const swordArtOnlineS00e24 = {
   episodeType: "standard",
   stillPath: "/j586rGvnWjmL44waRljzSlcKppv.jpg",
   voteAverage: 8,
-  source: "tmdb",
-  externalId: "1946491",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/0/episode/24",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "1946491",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/0/episode/24",
+    },
+  ],
 } as const satisfies Episode

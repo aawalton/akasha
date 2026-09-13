@@ -14,7 +14,11 @@ export const swordArtOnlineS00e25 = {
   episodeType: "standard",
   stillPath: "/507rKq2TEdSDTty3J6CuYXmBCT5.jpg",
   voteAverage: 0,
-  source: "tmdb",
-  externalId: "2337134",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/0/episode/25",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "2337134",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/0/episode/25",
+    },
+  ],
 } as const satisfies Episode

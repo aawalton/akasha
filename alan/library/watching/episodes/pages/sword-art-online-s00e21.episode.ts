@@ -14,7 +14,11 @@ export const swordArtOnlineS00e21 = {
   episodeType: "standard",
   stillPath: "/wMyDVH1hrDPOR7qgQVQWAmi65wM.jpg",
   voteAverage: 0,
-  source: "tmdb",
-  externalId: "1193858",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/0/episode/21",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "1193858",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/0/episode/21",
+    },
+  ],
 } as const satisfies Episode

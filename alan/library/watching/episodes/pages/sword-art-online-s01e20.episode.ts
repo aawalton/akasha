@@ -15,7 +15,11 @@ export const swordArtOnlineS01e20 = {
   episodeType: "standard",
   stillPath: "/cOpNhZSFZv2ocUaGfZajDlHz7NK.jpg",
   voteAverage: 7.2,
-  source: "tmdb",
-  externalId: "904454",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/1/episode/20",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "904454",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/1/episode/20",
+    },
+  ],
 } as const satisfies Episode

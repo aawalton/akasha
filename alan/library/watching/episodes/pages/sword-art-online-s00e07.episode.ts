@@ -15,7 +15,11 @@ export const swordArtOnlineS00e07 = {
   episodeType: "standard",
   stillPath: "/viierHyd3OR3rP3FG240eIQL7ZE.jpg",
   voteAverage: 0,
-  source: "tmdb",
-  externalId: "1029376",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/0/episode/7",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "1029376",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/0/episode/7",
+    },
+  ],
 } as const satisfies Episode

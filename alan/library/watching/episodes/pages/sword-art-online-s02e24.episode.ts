@@ -15,7 +15,11 @@ export const swordArtOnlineS02e24 = {
   episodeType: "finale",
   stillPath: "/gt2yB4qmF96FQHSwbBEuYwTUon1.jpg",
   voteAverage: 7.6,
-  source: "tmdb",
-  externalId: "1010812",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/2/episode/24",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "1010812",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/2/episode/24",
+    },
+  ],
 } as const satisfies Episode

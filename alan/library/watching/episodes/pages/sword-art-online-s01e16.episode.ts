@@ -15,7 +15,11 @@ export const swordArtOnlineS01e16 = {
   episodeType: "standard",
   stillPath: "/grHJC5Gk7fuk8jywVhs7UYXLiLG.jpg",
   voteAverage: 7.3,
-  source: "tmdb",
-  externalId: "904450",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/1/episode/16",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "904450",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/1/episode/16",
+    },
+  ],
 } as const satisfies Episode

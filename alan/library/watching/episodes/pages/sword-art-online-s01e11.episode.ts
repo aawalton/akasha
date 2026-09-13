@@ -15,7 +15,11 @@ export const swordArtOnlineS01e11 = {
   episodeType: "standard",
   stillPath: "/tULdNWI4qoToSyO5PUEiwRWncAh.jpg",
   voteAverage: 7.5,
-  source: "tmdb",
-  externalId: "904445",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/1/episode/11",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "904445",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/1/episode/11",
+    },
+  ],
 } as const satisfies Episode

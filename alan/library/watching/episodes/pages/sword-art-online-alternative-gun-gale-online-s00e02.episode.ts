@@ -14,7 +14,11 @@ export const swordArtOnlineAlternativeGunGaleOnlineS00e02 = {
   publishedAt: "2024-09-27",
   episodeType: "standard",
   voteAverage: 0,
-  source: "tmdb",
-  externalId: "5639859",
-  externalLink: "https://www.themoviedb.org/tv/78204/season/0/episode/2",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "5639859",
+      externalLink: "https://www.themoviedb.org/tv/78204/season/0/episode/2",
+    },
+  ],
 } as const satisfies Episode

@@ -15,7 +15,11 @@ export const swordArtOnlineS03e21 = {
   episodeType: "standard",
   stillPath: "/hGFKKtPvmhA9AcPjCF2gsrlj2HV.jpg",
   voteAverage: 8.2,
-  source: "tmdb",
-  externalId: "1661526",
-  externalLink: "https://www.themoviedb.org/tv/45782/season/3/episode/21",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "1661526",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/3/episode/21",
+    },
+  ],
 } as const satisfies Episode
