@@ -23,4 +23,10 @@ export const seatSupervisors = {
     "domain/supervisor-ticking",
     "domain/supervisor-tooling",
   ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "Each thing a supervisor does is a domain naming the modules that do it.",
+    },
+  ],
 } as const satisfies Domain
