@@ -6,7 +6,7 @@ import {
   HOLD,
   insideOf,
   mountedOver,
-} from "akasha/code/modules/test-overlay/test-overlay.module.code.ts"
+} from "akasha/code/running/modules/test-overlay/test-overlay.module.code.ts"
 import type { Said } from "akasha/utils/run/modules/running/running.module.code.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 

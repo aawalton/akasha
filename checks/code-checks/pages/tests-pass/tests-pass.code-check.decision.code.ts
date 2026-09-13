@@ -10,8 +10,8 @@ import type {
   Bodies,
   Body,
   Link,
-} from "akasha/code/modules/test-overlay/test-overlay.module.code.ts"
-import type { Ran, Spent } from "akasha/code/modules/tests/code-tests.module.code.ts"
+} from "akasha/code/running/modules/test-overlay/test-overlay.module.code.ts"
+import type { Ran, Spent } from "akasha/code/running/modules/tests/code-tests.module.code.ts"
 import {
   alreadyRunning,
   CEILING,
@@ -22,7 +22,7 @@ import {
   ranOver,
   spentOver,
   testsBesideOf,
-} from "akasha/code/modules/tests/code-tests.module.code.ts"
+} from "akasha/code/running/modules/tests/code-tests.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { endingOf } from "akasha/utils/run/modules/running/running.module.code.ts"

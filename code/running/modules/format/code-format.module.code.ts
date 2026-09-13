@@ -4,8 +4,8 @@ import {
   classifyExtension,
   type FileKind,
 } from "akasha/code/modules/file-kind/file-kind.module.code.ts"
-import { linterEnv } from "akasha/code/modules/lint/code-lint.module.code.ts"
-import { insideOf } from "akasha/code/modules/test-overlay/test-overlay.module.code.ts"
+import { linterEnv } from "akasha/code/running/modules/lint/code-lint.module.code.ts"
+import { insideOf } from "akasha/code/running/modules/test-overlay/test-overlay.module.code.ts"
 import { bytes } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const BIOME_AT = "node_modules/.bin/biome"

@@ -17,7 +17,7 @@ import {
   testsBesideOf,
   testsUnder,
   verdictOf,
-} from "akasha/code/modules/tests/code-tests.module.code.ts"
+} from "akasha/code/running/modules/tests/code-tests.module.code.ts"
 import {
   BURNS,
   FAILS,
@@ -29,7 +29,7 @@ import {
   SWELLS,
   THROWS,
   WEB_BUNFIG,
-} from "akasha/code/modules/tests/code-tests.module.test-fixtures.ts"
+} from "akasha/code/running/modules/tests/code-tests.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 

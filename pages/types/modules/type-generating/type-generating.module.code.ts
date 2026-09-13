@@ -5,7 +5,7 @@ import {
   heldOver,
 } from "akasha/code/modules/body-loading/body-loading.module.code.ts"
 import { textOf } from "akasha/code/modules/body-text/body-text.module.code.ts"
-import { formattedBody } from "akasha/code/modules/format/code-format.module.code.ts"
+import { formattedBody } from "akasha/code/running/modules/format/code-format.module.code.ts"
 import {
   readingIn,
   valuesOfType,

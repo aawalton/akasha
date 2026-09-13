@@ -5,7 +5,7 @@ import {
   type Formatted,
   formattedBodies,
   formattedBody,
-} from "akasha/code/modules/format/code-format.module.code.ts"
+} from "akasha/code/running/modules/format/code-format.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 

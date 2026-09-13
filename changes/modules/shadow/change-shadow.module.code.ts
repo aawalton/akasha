@@ -22,7 +22,7 @@ import {
 } from "akasha/changes/modules/shadow-tree/change-shadow-tree.module.code.ts"
 import type { Changes as AgentChanges } from "akasha/changes/runners/pages/agent-change-running/agent-change-running.change-runner.addressed.ts"
 import type { Changes as MechanicalChanges } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.addressed.ts"
-import { formattedBody } from "akasha/code/modules/format/code-format.module.code.ts"
+import { formattedBody } from "akasha/code/running/modules/format/code-format.module.code.ts"
 import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
 import {
   type Facing,
