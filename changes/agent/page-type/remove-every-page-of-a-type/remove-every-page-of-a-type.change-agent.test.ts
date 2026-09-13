@@ -3,18 +3,14 @@ import {
   removeEveryPageOfAType,
   runChange,
 } from "akasha/changes/agent/page-type/remove-every-page-of-a-type/remove-every-page-of-a-type.change-agent.code.ts"
-import { runChange as removeFile } from "akasha/changes/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.code.ts"
-import { runChange as removeCodeFile } from "akasha/changes/mechanical/file/remove/remove-file-code/remove-file-code.change-mechanical.code.ts"
-import { runChange as removePage } from "akasha/changes/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.code.ts"
-import { removePropertyValue } from "akasha/changes/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.code.ts"
-import { pathsIn, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import { pathsIn } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,
   ledgerAt,
-  type Reaching,
   type World,
   worldAt,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
   aType,
   bodyOf,
@@ -24,24 +20,6 @@ import {
   scratch,
   textIn,
 } from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
-
-const REMOVE_FILE_PAGE = "change-mechanical-file/remove-file-page"
-
-const REMOVE_FILE_CODE = "change-mechanical/remove-file-code"
-
-const REMOVE_FILE = "change-mechanical-file/remove-file"
-
-const REMOVE_PROPERTY_VALUE = "change-mechanical-file-content/remove-property-value"
-
-type Unnaming = { at: string; key: string; value: string }
-
-const REACHES: Reaching = async (world, at, given) => {
-  if (at === REMOVE_FILE_PAGE) return await removePage(world, given as { at: string })
-  if (at === REMOVE_FILE_CODE) return await removeCodeFile(world, given as { at: string })
-  if (at === REMOVE_FILE) return removeFile(world, given as { at: string })
-  if (at === REMOVE_PROPERTY_VALUE) return removePropertyValue(world, given as Unnaming)
-  return refusing(`\`${at}\` is reached by nothing here`)
-}
 
 afterAll(scratch.sweep)
 
@@ -60,7 +38,7 @@ const LEAVES: Readonly<Record<string, string>> = {
 
 function leafWorld(): World {
   const root = indexedRepo(LEAVES)
-  return worldAt(root, textIn(root), REACHES)
+  return worldAt(root, textIn(root), running)
 }
 
 test("every page of the page type is taken away", async () => {
@@ -84,7 +62,7 @@ test("the page stating the page type is no page of that type and remains", async
 test("every page is taken away over a ledger too", async () => {
   const root = indexedRepo(LEAVES)
 
-  const said = await removeEveryPageOfAType(ledgerAt(root, textIn(root), REACHES), {
+  const said = await removeEveryPageOfAType(ledgerAt(root, textIn(root), running), {
     pageType: "leaf",
   })
 
@@ -111,7 +89,7 @@ test("one page refused refuses the whole change, and the refusal names that page
   const only = textIn(root)
   const gone = (path: string): string | null => (path === TWO_AT ? null : only(path))
 
-  const said = await removeEveryPageOfAType(worldAt(root, gone, REACHES), { pageType: "leaf" })
+  const said = await removeEveryPageOfAType(worldAt(root, gone, running), { pageType: "leaf" })
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toContain(TWO_AT)

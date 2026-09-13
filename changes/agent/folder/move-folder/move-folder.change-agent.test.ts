@@ -5,12 +5,10 @@ import {
   moveFolder,
   runChange,
 } from "akasha/changes/agent/folder/move-folder/move-folder.change-agent.code.ts"
-import { runChange as moveFile } from "akasha/changes/mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
-import { runChange as changeImports } from "akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
-import { runChange as moveFolderMechanical } from "akasha/changes/mechanical/folder/move/move-folder/move-folder.change-mechanical-folder.code.ts"
 import { pathsIn } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import { bodyIn } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { type World, worldAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import { landingFrom } from "akasha/commands/modules/edits-landing/edits-landing.module.code.ts"
 import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { movedOnto } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
@@ -60,20 +58,10 @@ const NOT_TEXT = `${FROM}/deep/held.png`
 
 const PNG = new Uint8Array([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a, 0xff, 0xfe, 0x00, 0x11])
 
-const MOVE_FILE = "change-mechanical-file/move-file"
-
 const MOVE_FOLDER = "change-mechanical-folder/move-folder"
 
 function worldIn(root: string): World {
-  return worldAt(root, bodyIn(root), async (world, at, given) => {
-    if (at === MOVE_FOLDER) {
-      return await moveFolderMechanical(world, given as Parameters<typeof moveFolderMechanical>[1])
-    }
-    if (at === MOVE_FILE) {
-      return moveFile(world, given as Parameters<typeof moveFile>[1])
-    }
-    return changeImports(world, given as Parameters<typeof changeImports>[1])
-  })
+  return worldAt(root, bodyIn(root), running)
 }
 
 test("every file under the folder lands beneath the folder it moved to", async () => {

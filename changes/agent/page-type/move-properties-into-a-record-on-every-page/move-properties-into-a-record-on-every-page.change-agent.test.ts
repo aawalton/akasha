@@ -4,26 +4,10 @@ import {
   recordSpelledAs,
   runChange,
 } from "akasha/changes/agent/page-type/move-properties-into-a-record-on-every-page/move-properties-into-a-record-on-every-page.change-agent.code.ts"
-import { runChange as addRecord } from "akasha/changes/mechanical/file-content/add/add-property-record/add-property-record.change-mechanical-file-content.code.ts"
-import { runChange as removeKey } from "akasha/changes/mechanical/file-content/remove/remove-page-property/remove-page-property.change-mechanical-file-content.code.ts"
-import { refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
-import {
-  bodiesIn,
-  type Reaching,
-  type World,
-} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { bodiesIn, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { worldOfType } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
-
-const RUNS: Reaching = (world, at, given) => {
-  if (at === "change-mechanical-file-content/add-property-record") {
-    return Promise.resolve(addRecord(world, given as Parameters<typeof addRecord>[1]))
-  }
-  if (at === "change-mechanical-file-content/remove-page-property") {
-    return Promise.resolve(removeKey(world, given as Parameters<typeof removeKey>[1]))
-  }
-  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
-}
 
 const ONE_AT = "thrumming/releases/pages/one.release.ts"
 
@@ -110,7 +94,7 @@ function pagesIn(
   carried: readonly Carried[] | null,
   values: Values = VALUES
 ): World {
-  return worldOfType(GATHERING.pageType, bodies, carried, values, RUNS)
+  return worldOfType(GATHERING.pageType, bodies, carried, values, running)
 }
 
 test("the keys are written as one record under the key written to", async () => {
