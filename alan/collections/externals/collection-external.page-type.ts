@@ -8,6 +8,7 @@ export const collectionExternal = {
   pluralSlug: "collection-externals",
   parts: [
     "calendar-date-property/last-synced-at",
+    "record-property/external-identity",
     "select-property/source",
     "text-property/external-id",
     "url-property/external-link",
@@ -18,6 +19,12 @@ export const collectionExternal = {
     { pageProperty: "url-property/external-link", required: false, many: false },
     { pageProperty: "select-property/source", required: false, many: false },
     { pageProperty: "calendar-date-property/last-synced-at", required: false, many: false },
+    {
+      pageProperty: "record-property/external-identity",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   invariants: [
     {
