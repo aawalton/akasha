@@ -34,11 +34,7 @@ export const collectionExternal = {
     },
     {
       invariantKind: "departure",
-      statement: "A provider that answered with no id leaves the collection stating no id.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A collection never synced states no moment that collection was synced at.",
+      statement: "A collection no provider holds a record of states no record.",
     },
   ],
   types: "ts",
