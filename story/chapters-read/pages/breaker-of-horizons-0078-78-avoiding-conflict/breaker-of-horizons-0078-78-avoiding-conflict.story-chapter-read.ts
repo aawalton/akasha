@@ -10,9 +10,13 @@ export const breakerOfHorizons007878AvoidingConflict = {
   ownLength: 2056,
   unit: "words",
   publishedAt: "2021-01-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/621512/78-avoiding-conflict",
-  externalId: "621512",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "621512",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/621512/78-avoiding-conflict",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

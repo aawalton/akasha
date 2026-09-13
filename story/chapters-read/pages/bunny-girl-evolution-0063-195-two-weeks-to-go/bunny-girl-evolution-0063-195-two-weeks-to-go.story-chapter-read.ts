@@ -10,9 +10,13 @@ export const bunnyGirlEvolution0063195TwoWeeksToGo = {
   ownLength: 2736,
   unit: "words",
   publishedAt: "2026-05-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3356858/195-two-weeks-to-go",
-  externalId: "3356858",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3356858",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3356858/195-two-weeks-to-go",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

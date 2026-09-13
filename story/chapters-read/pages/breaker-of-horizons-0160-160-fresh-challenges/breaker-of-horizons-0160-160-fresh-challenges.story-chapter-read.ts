@@ -10,9 +10,13 @@ export const breakerOfHorizons0160160FreshChallenges = {
   ownLength: 2230,
   unit: "words",
   publishedAt: "2021-12-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/805572/160-fresh-challenges",
-  externalId: "805572",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "805572",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/805572/160-fresh-challenges",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

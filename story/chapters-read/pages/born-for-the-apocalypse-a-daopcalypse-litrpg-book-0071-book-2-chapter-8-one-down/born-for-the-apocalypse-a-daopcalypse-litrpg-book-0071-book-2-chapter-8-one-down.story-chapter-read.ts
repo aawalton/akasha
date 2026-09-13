@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook0071Book2Chapter8OneDown 
   ownLength: 1056,
   unit: "words",
   publishedAt: "2025-05-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2288293/book-2-chapter-8--one-down",
-  externalId: "2288293",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2288293",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2288293/book-2-chapter-8--one-down",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

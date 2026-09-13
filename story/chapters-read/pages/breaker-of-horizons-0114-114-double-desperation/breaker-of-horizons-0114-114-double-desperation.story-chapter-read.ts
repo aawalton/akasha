@@ -10,9 +10,13 @@ export const breakerOfHorizons0114114DoubleDesperation = {
   ownLength: 2248,
   unit: "words",
   publishedAt: "2021-06-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/693138/114-double-desperation",
-  externalId: "693138",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "693138",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/693138/114-double-desperation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

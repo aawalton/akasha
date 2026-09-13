@@ -12,9 +12,13 @@ export const bunnyGirlEvolution0014105PosingAsNobilityB3Start = {
   unit: "words",
   completedAt: "2026-06-29T20:03:06.891Z",
   publishedAt: "2025-06-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2343893/105-posing-as-nobility-b3-start",
-  externalId: "2343893",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2343893",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2343893/105-posing-as-nobility-b3-start",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

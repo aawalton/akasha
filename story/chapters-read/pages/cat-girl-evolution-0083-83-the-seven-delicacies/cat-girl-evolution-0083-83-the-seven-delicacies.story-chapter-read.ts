@@ -10,9 +10,13 @@ export const catGirlEvolution008383TheSevenDelicacies = {
   ownLength: 2331,
   unit: "words",
   publishedAt: "2026-02-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3000872/83-the-seven-delicacies",
-  externalId: "3000872",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3000872",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3000872/83-the-seven-delicacies",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const breakerOfHorizons0129129NewHeights = {
   ownLength: 2130,
   unit: "words",
   publishedAt: "2021-07-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/723215/129-new-heights",
-  externalId: "723215",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "723215",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/723215/129-new-heights",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

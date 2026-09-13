@@ -10,9 +10,13 @@ export const breakerOfHorizons004747NewGround = {
   ownLength: 2892,
   unit: "words",
   publishedAt: "2020-10-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/568151/47-new-ground",
-  externalId: "568151",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "568151",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/568151/47-new-ground",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

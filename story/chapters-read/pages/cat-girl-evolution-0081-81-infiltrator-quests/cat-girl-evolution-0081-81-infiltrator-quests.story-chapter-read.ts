@@ -10,9 +10,13 @@ export const catGirlEvolution008181InfiltratorQuests = {
   ownLength: 2641,
   unit: "words",
   publishedAt: "2026-01-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2990015/81-infiltrator-quests",
-  externalId: "2990015",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2990015",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2990015/81-infiltrator-quests",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

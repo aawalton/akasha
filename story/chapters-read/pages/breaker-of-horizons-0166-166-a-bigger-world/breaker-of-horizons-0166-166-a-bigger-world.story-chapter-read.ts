@@ -10,9 +10,13 @@ export const breakerOfHorizons0166166ABiggerWorld = {
   ownLength: 2471,
   unit: "words",
   publishedAt: "2022-01-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/817662/166-a-bigger-world",
-  externalId: "817662",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "817662",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/817662/166-a-bigger-world",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

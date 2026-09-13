@@ -10,9 +10,13 @@ export const breakerOfHorizons001919Herding = {
   ownLength: 2346,
   unit: "words",
   publishedAt: "2020-07-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/520519/19-herding",
-  externalId: "520519",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "520519",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/520519/19-herding",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

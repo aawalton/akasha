@@ -10,9 +10,13 @@ export const breakerOfHorizons001616FreedomOfChoice = {
   ownLength: 2345,
   unit: "words",
   publishedAt: "2020-06-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/515487/16-freedom-of-choice",
-  externalId: "515487",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "515487",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/515487/16-freedom-of-choice",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

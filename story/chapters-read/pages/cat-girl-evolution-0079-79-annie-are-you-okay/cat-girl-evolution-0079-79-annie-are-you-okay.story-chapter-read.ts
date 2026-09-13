@@ -10,9 +10,13 @@ export const catGirlEvolution007979AnnieAreYouOkay = {
   ownLength: 2266,
   unit: "words",
   publishedAt: "2026-01-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2970265/79-annie-are-you-okay",
-  externalId: "2970265",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2970265",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2970265/79-annie-are-you-okay",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

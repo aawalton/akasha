@@ -10,9 +10,13 @@ export const catGirlEvolution008989NamedMonsterEvolutions = {
   ownLength: 2509,
   unit: "words",
   publishedAt: "2026-02-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3055749/89-named-monster-evolutions",
-  externalId: "3055749",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3055749",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3055749/89-named-monster-evolutions",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

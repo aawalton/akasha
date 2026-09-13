@@ -10,9 +10,13 @@ export const catGirlEvolution006464MinionMorning = {
   ownLength: 3462,
   unit: "words",
   publishedAt: "2025-12-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2860774/64-minion-morning",
-  externalId: "2860774",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2860774",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2860774/64-minion-morning",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

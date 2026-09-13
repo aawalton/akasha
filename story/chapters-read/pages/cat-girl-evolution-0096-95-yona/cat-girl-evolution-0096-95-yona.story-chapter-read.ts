@@ -10,9 +10,13 @@ export const catGirlEvolution009695Yona = {
   ownLength: 3053,
   unit: "words",
   publishedAt: "2026-03-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3103818/95-yona",
-  externalId: "3103818",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3103818",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3103818/95-yona",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

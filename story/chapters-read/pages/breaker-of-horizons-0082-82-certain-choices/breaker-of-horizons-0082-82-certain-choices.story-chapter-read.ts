@@ -10,9 +10,13 @@ export const breakerOfHorizons008282CertainChoices = {
   ownLength: 1894,
   unit: "words",
   publishedAt: "2021-02-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/629801/82-certain-choices",
-  externalId: "629801",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "629801",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/629801/82-certain-choices",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

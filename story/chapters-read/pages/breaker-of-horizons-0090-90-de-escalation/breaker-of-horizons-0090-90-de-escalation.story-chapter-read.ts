@@ -10,9 +10,13 @@ export const breakerOfHorizons009090DeEscalation = {
   ownLength: 2081,
   unit: "words",
   publishedAt: "2021-03-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/644997/90-de-escalation",
-  externalId: "644997",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "644997",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/644997/90-de-escalation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

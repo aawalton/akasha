@@ -10,9 +10,13 @@ export const breakerOfHorizons0115115AugericAssistance = {
   ownLength: 2000,
   unit: "words",
   publishedAt: "2021-06-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/695363/115-augeric-assistance",
-  externalId: "695363",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "695363",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/695363/115-augeric-assistance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

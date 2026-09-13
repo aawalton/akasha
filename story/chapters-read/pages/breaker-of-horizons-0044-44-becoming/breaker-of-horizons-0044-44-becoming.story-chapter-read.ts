@@ -10,9 +10,13 @@ export const breakerOfHorizons004444Becoming = {
   ownLength: 2880,
   unit: "words",
   publishedAt: "2020-10-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/562874/44-becoming",
-  externalId: "562874",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "562874",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/562874/44-becoming",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

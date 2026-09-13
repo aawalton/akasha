@@ -10,9 +10,13 @@ export const breakerOfHorizons005555Collapse = {
   ownLength: 1834,
   unit: "words",
   publishedAt: "2020-11-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/581962/55-collapse",
-  externalId: "581962",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "581962",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/581962/55-collapse",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

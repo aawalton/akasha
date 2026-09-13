@@ -10,9 +10,13 @@ export const breakerOfHorizons0147147ANewCompact = {
   ownLength: 2077,
   unit: "words",
   publishedAt: "2021-09-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/757564/147-a-new-compact",
-  externalId: "757564",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "757564",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/757564/147-a-new-compact",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

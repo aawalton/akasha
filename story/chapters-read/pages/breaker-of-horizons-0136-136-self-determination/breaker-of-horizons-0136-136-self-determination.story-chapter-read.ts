@@ -10,9 +10,13 @@ export const breakerOfHorizons0136136SelfDetermination = {
   ownLength: 1873,
   unit: "words",
   publishedAt: "2021-08-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/736464/136-self-determination",
-  externalId: "736464",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "736464",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/736464/136-self-determination",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

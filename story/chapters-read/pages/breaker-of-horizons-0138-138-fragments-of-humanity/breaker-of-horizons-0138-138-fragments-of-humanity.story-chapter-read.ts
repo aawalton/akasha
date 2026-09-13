@@ -10,9 +10,13 @@ export const breakerOfHorizons0138138FragmentsOfHumanity = {
   ownLength: 2031,
   unit: "words",
   publishedAt: "2021-08-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/740278/138-fragments-of-humanity",
-  externalId: "740278",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "740278",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/740278/138-fragments-of-humanity",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

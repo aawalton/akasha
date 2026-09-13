@@ -10,9 +10,13 @@ export const breakerOfHorizons0169169TestingLimits = {
   ownLength: 2213,
   unit: "words",
   publishedAt: "2022-01-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/824320/169-testing-limits",
-  externalId: "824320",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "824320",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/824320/169-testing-limits",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

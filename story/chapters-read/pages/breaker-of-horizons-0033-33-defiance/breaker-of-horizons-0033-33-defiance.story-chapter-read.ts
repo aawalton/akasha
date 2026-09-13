@@ -10,9 +10,13 @@ export const breakerOfHorizons003333Defiance = {
   ownLength: 2344,
   unit: "words",
   publishedAt: "2020-08-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/543761/33-defiance",
-  externalId: "543761",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "543761",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/543761/33-defiance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

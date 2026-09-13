@@ -10,9 +10,13 @@ export const breakerOfHorizons008080InvasionOfPrivacy = {
   ownLength: 2020,
   unit: "words",
   publishedAt: "2021-02-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/625491/80-invasion-of-privacy",
-  externalId: "625491",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "625491",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/625491/80-invasion-of-privacy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

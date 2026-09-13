@@ -10,9 +10,13 @@ export const catGirlEvolution005959RabbitStew = {
   ownLength: 2104,
   unit: "words",
   publishedAt: "2025-12-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2826414/59-rabbit-stew",
-  externalId: "2826414",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2826414",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2826414/59-rabbit-stew",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

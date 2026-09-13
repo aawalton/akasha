@@ -12,9 +12,13 @@ export const bunnyGirlEvolution0027161TheSaintessIsHere = {
   unit: "words",
   completedAt: "2026-06-29T20:03:32.247Z",
   publishedAt: "2026-01-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2916341/161-the-saintess-is-here",
-  externalId: "2916341",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2916341",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2916341/161-the-saintess-is-here",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

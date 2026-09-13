@@ -10,9 +10,13 @@ export const catGirlEvolution0095945ANewLifeSallyInterlude1 = {
   ownLength: 2514,
   unit: "words",
   publishedAt: "2026-02-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3101059/945-a-new-life-sally-interlude-1",
-  externalId: "3101059",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3101059",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3101059/945-a-new-life-sally-interlude-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

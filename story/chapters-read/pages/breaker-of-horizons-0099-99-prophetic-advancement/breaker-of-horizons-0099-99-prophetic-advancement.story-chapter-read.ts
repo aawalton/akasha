@@ -10,9 +10,13 @@ export const breakerOfHorizons009999PropheticAdvancement = {
   ownLength: 2064,
   unit: "words",
   publishedAt: "2021-04-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/663178/99-prophetic-advancement",
-  externalId: "663178",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "663178",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/663178/99-prophetic-advancement",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

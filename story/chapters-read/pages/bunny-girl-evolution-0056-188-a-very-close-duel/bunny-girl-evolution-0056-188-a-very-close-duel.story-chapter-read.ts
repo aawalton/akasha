@@ -10,9 +10,13 @@ export const bunnyGirlEvolution0056188AVeryCloseDuel = {
   ownLength: 3151,
   unit: "words",
   publishedAt: "2026-04-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3259519/188-a-very-close-duel",
-  externalId: "3259519",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3259519",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3259519/188-a-very-close-duel",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

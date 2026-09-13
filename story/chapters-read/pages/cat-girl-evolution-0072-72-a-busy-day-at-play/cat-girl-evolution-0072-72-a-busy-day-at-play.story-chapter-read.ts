@@ -10,9 +10,13 @@ export const catGirlEvolution007272ABusyDayAtPlay = {
   ownLength: 2350,
   unit: "words",
   publishedAt: "2026-01-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2919417/72-a-busy-day-at-play",
-  externalId: "2919417",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2919417",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2919417/72-a-busy-day-at-play",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

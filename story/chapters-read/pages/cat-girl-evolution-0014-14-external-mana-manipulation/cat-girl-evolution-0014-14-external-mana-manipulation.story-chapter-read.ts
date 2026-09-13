@@ -10,9 +10,13 @@ export const catGirlEvolution001414ExternalManaManipulation = {
   ownLength: 2407,
   unit: "words",
   publishedAt: "2025-08-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2540191/14-external-mana-manipulation",
-  externalId: "2540191",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2540191",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2540191/14-external-mana-manipulation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const catGirlEvolution002424Tail = {
   ownLength: 2272,
   unit: "words",
   publishedAt: "2025-09-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2606756/24-tail",
-  externalId: "2606756",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2606756",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2606756/24-tail",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

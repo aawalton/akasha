@@ -10,9 +10,13 @@ export const catGirlEvolution007575QuestsWithFriends = {
   ownLength: 2146,
   unit: "words",
   publishedAt: "2026-01-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2941271/75-quests-with-friends",
-  externalId: "2941271",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2941271",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2941271/75-quests-with-friends",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

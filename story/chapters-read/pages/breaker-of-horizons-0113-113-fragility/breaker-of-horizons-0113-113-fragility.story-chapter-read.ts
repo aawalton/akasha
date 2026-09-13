@@ -10,9 +10,13 @@ export const breakerOfHorizons0113113Fragility = {
   ownLength: 1874,
   unit: "words",
   publishedAt: "2021-05-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/691288/113-fragility",
-  externalId: "691288",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "691288",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/691288/113-fragility",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const catGirlEvolution00033Ichthyoid = {
   ownLength: 1842,
   unit: "words",
   publishedAt: "2025-08-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2525499/3-ichthyoid",
-  externalId: "2525499",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525499",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2525499/3-ichthyoid",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

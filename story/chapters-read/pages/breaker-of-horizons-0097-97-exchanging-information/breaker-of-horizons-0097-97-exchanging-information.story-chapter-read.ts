@@ -10,9 +10,13 @@ export const breakerOfHorizons009797ExchangingInformation = {
   ownLength: 1734,
   unit: "words",
   publishedAt: "2021-04-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/658664/97-exchanging-information",
-  externalId: "658664",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "658664",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/658664/97-exchanging-information",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

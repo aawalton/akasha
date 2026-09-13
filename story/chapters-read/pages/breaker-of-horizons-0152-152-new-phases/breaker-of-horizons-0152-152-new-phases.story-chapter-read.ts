@@ -10,9 +10,13 @@ export const breakerOfHorizons0152152NewPhases = {
   ownLength: 2002,
   unit: "words",
   publishedAt: "2021-11-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/787443/152-new-phases",
-  externalId: "787443",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "787443",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/787443/152-new-phases",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const bunnyGirlEvolution0029217PainIsGoodForYou = {
   ownLength: 2574,
   unit: "words",
   publishedAt: "2026-08-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3846924/217-pain-is-good-for-you",
-  externalId: "3846924",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3846924",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3846924/217-pain-is-good-for-you",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

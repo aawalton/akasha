@@ -10,9 +10,13 @@ export const bunnyGirlEvolution0062194ShirtHurtShirtHealer = {
   ownLength: 4410,
   unit: "words",
   publishedAt: "2026-05-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3344519/194-shirt-hurt-shirt-healer",
-  externalId: "3344519",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3344519",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3344519/194-shirt-hurt-shirt-healer",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

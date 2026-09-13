@@ -10,9 +10,13 @@ export const catGirlEvolution001212HighClassKitty = {
   ownLength: 2807,
   unit: "words",
   publishedAt: "2025-08-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2534518/12-high-class-kitty",
-  externalId: "2534518",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2534518",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2534518/12-high-class-kitty",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const breakerOfHorizons005050TheBeginning = {
   ownLength: 2318,
   unit: "words",
   publishedAt: "2020-10-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/572921/50-the-beginning",
-  externalId: "572921",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "572921",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/572921/50-the-beginning",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

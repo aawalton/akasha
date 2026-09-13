@@ -10,9 +10,13 @@ export const catGirlEvolution004545ANewWayToEat = {
   ownLength: 3030,
   unit: "words",
   publishedAt: "2025-11-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2733747/45-a-new-way-to-eat",
-  externalId: "2733747",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2733747",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2733747/45-a-new-way-to-eat",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

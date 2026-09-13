@@ -10,9 +10,13 @@ export const breakerOfHorizons0100100AngerAndAgency = {
   ownLength: 2184,
   unit: "words",
   publishedAt: "2021-04-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/665107/100-anger-and-agency",
-  externalId: "665107",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "665107",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/665107/100-anger-and-agency",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

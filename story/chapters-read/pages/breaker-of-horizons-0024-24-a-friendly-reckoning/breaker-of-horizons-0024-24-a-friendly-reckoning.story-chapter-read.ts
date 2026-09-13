@@ -10,9 +10,13 @@ export const breakerOfHorizons002424AFriendlyReckoning = {
   ownLength: 2301,
   unit: "words",
   publishedAt: "2020-07-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/528427/24-a-friendly-reckoning",
-  externalId: "528427",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "528427",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/528427/24-a-friendly-reckoning",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

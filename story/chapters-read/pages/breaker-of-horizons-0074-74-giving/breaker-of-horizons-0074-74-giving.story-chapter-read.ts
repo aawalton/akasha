@@ -10,8 +10,13 @@ export const breakerOfHorizons007474Giving = {
   ownLength: 1891,
   unit: "words",
   publishedAt: "2021-01-14",
-  externalLink: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/614577/74-giving",
-  externalId: "614577",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "614577",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/614577/74-giving",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

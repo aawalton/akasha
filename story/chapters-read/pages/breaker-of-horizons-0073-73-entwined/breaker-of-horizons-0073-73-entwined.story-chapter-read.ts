@@ -10,9 +10,13 @@ export const breakerOfHorizons007373Entwined = {
   ownLength: 1945,
   unit: "words",
   publishedAt: "2021-01-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/613014/73-entwined",
-  externalId: "613014",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "613014",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/613014/73-entwined",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

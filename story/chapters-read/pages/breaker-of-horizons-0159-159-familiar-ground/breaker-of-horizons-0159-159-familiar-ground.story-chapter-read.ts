@@ -10,9 +10,13 @@ export const breakerOfHorizons0159159FamiliarGround = {
   ownLength: 2205,
   unit: "words",
   publishedAt: "2021-12-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/803268/159-familiar-ground",
-  externalId: "803268",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "803268",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/803268/159-familiar-ground",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

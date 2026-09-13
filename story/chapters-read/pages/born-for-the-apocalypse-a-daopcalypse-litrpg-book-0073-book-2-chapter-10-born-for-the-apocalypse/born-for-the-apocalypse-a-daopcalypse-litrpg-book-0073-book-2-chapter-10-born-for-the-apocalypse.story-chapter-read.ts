@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook0073Book2Chapter10BornFor
   ownLength: 1570,
   unit: "words",
   publishedAt: "2025-05-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2291431/book-2-chapter-10--born-for-the-apocalypse",
-  externalId: "2291431",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2291431",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2291431/book-2-chapter-10--born-for-the-apocalypse",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

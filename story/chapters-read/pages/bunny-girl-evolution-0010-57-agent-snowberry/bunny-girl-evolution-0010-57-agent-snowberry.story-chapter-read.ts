@@ -12,9 +12,13 @@ export const bunnyGirlEvolution001057AgentSnowberry = {
   unit: "words",
   completedAt: "2026-06-29T20:02:59.152Z",
   publishedAt: "2024-12-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/1971835/57-agent-snowberry",
-  externalId: "1971835",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1971835",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/1971835/57-agent-snowberry",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

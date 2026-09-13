@@ -10,9 +10,13 @@ export const breakerOfHorizons005454DarknessIncarnate = {
   ownLength: 2260,
   unit: "words",
   publishedAt: "2020-11-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/579824/54-darkness-incarnate",
-  externalId: "579824",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "579824",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/579824/54-darkness-incarnate",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const bunnyGirlEvolution0066198SuperSecretSecretParty = {
   ownLength: 3286,
   unit: "words",
   publishedAt: "2026-05-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3402655/198-super-secret-secret-party",
-  externalId: "3402655",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3402655",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3402655/198-super-secret-secret-party",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

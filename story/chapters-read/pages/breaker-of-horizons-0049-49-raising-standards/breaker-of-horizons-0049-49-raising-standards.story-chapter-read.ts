@@ -10,9 +10,13 @@ export const breakerOfHorizons004949RaisingStandards = {
   ownLength: 3222,
   unit: "words",
   publishedAt: "2020-10-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/571487/49-raising-standards",
-  externalId: "571487",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "571487",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/571487/49-raising-standards",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

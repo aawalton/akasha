@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook005151Oath = {
   ownLength: 3375,
   unit: "words",
   publishedAt: "2025-01-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2036056/51-oath",
-  externalId: "2036056",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2036056",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2036056/51-oath",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

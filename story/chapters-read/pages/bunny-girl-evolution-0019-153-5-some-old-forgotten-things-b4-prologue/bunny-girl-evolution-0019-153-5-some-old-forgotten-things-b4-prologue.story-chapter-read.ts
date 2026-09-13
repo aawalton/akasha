@@ -12,9 +12,13 @@ export const bunnyGirlEvolution00191535SomeOldForgottenThingsB4Prologue = {
   unit: "words",
   completedAt: "2026-06-29T20:03:16.619Z",
   publishedAt: "2025-12-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2831958/1535-some-old-forgotten-things-b4-prologue",
-  externalId: "2831958",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2831958",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2831958/1535-some-old-forgotten-things-b4-prologue",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

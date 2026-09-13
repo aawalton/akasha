@@ -10,9 +10,13 @@ export const catGirlEvolution002929PerfectDisguise = {
   ownLength: 2607,
   unit: "words",
   publishedAt: "2025-09-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2634838/29-perfect-disguise",
-  externalId: "2634838",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2634838",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2634838/29-perfect-disguise",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

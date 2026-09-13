@@ -10,8 +10,13 @@ export const breakerOfHorizons009595Faith = {
   ownLength: 2133,
   unit: "words",
   publishedAt: "2021-03-29",
-  externalLink: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/654545/95-faith",
-  externalId: "654545",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "654545",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/654545/95-faith",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

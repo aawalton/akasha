@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook004949RipAndTear = {
   ownLength: 1993,
   unit: "words",
   publishedAt: "2025-01-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2027812/49-rip-and-tear",
-  externalId: "2027812",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2027812",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2027812/49-rip-and-tear",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

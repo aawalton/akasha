@@ -10,9 +10,13 @@ export const breakerOfHorizons005353StreamsAndShadows = {
   ownLength: 2522,
   unit: "words",
   publishedAt: "2020-11-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/578166/53-streams-and-shadows",
-  externalId: "578166",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "578166",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/578166/53-streams-and-shadows",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

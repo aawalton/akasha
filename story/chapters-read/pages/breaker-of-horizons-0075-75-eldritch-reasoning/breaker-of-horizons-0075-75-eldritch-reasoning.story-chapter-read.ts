@@ -10,9 +10,13 @@ export const breakerOfHorizons007575EldritchReasoning = {
   ownLength: 2129,
   unit: "words",
   publishedAt: "2021-01-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/616659/75-eldritch-reasoning",
-  externalId: "616659",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "616659",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/616659/75-eldritch-reasoning",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

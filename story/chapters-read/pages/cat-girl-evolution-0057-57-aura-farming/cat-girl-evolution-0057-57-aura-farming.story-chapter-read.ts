@@ -10,9 +10,13 @@ export const catGirlEvolution005757AuraFarming = {
   ownLength: 2019,
   unit: "words",
   publishedAt: "2025-12-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2814306/57-aura-farming",
-  externalId: "2814306",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2814306",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2814306/57-aura-farming",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const bunnyGirlEvolution0072203MeditationWithSoulFog = {
   ownLength: 3163,
   unit: "words",
   publishedAt: "2026-06-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3610955/203-meditation-with-soul-fog",
-  externalId: "3610955",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3610955",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3610955/203-meditation-with-soul-fog",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

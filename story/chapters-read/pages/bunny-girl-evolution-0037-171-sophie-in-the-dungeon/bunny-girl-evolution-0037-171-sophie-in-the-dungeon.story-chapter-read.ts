@@ -12,9 +12,13 @@ export const bunnyGirlEvolution0037171SophieInTheDungeon = {
   unit: "words",
   completedAt: "2026-06-29T20:03:51.280Z",
   publishedAt: "2026-02-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3032219/171-sophie-in-the-dungeon",
-  externalId: "3032219",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3032219",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3032219/171-sophie-in-the-dungeon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

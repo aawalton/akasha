@@ -10,9 +10,13 @@ export const catGirlEvolution002828YonasName = {
   ownLength: 2348,
   unit: "words",
   publishedAt: "2025-09-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2629718/28-yonas-name",
-  externalId: "2629718",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2629718",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2629718/28-yonas-name",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const bunnyGirlEvolution0048180EliseFindsASpider = {
   ownLength: 4401,
   unit: "words",
   publishedAt: "2026-03-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3174317/180-elise-finds-a-spider",
-  externalId: "3174317",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3174317",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3174317/180-elise-finds-a-spider",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

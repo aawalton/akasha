@@ -10,9 +10,13 @@ export const breakerOfHorizons0103103ChartingACourse = {
   ownLength: 1882,
   unit: "words",
   publishedAt: "2021-04-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/671320/103-charting-a-course",
-  externalId: "671320",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "671320",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/671320/103-charting-a-course",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

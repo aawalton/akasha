@@ -10,9 +10,13 @@ export const breakerOfHorizons0148148SecretsAndLies = {
   ownLength: 1958,
   unit: "words",
   publishedAt: "2021-11-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/776829/148-secrets-and-lies",
-  externalId: "776829",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "776829",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/776829/148-secrets-and-lies",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

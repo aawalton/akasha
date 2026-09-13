@@ -12,9 +12,13 @@ export const bunnyGirlEvolution0032166CaveSpiderKillYourself = {
   unit: "words",
   completedAt: "2026-06-29T20:03:41.648Z",
   publishedAt: "2026-01-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2973855/166-cave-spider-kill-yourself",
-  externalId: "2973855",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2973855",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2973855/166-cave-spider-kill-yourself",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

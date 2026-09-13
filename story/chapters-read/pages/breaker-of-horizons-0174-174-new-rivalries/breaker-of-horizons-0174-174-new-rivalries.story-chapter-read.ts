@@ -10,9 +10,13 @@ export const breakerOfHorizons0174174NewRivalries = {
   ownLength: 2217,
   unit: "words",
   publishedAt: "2022-01-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/835776/174-new-rivalries",
-  externalId: "835776",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "835776",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/835776/174-new-rivalries",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

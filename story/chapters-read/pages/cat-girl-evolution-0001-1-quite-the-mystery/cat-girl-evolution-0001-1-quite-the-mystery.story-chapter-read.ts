@@ -10,9 +10,13 @@ export const catGirlEvolution00011QuiteTheMystery = {
   ownLength: 2036,
   unit: "words",
   publishedAt: "2025-08-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2525425/1-quite-the-mystery",
-  externalId: "2525425",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525425",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2525425/1-quite-the-mystery",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

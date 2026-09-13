@@ -10,9 +10,13 @@ export const breakerOfHorizons004242AWalkInTheDark = {
   ownLength: 2637,
   unit: "words",
   publishedAt: "2020-09-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/559355/42-a-walk-in-the-dark",
-  externalId: "559355",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "559355",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/559355/42-a-walk-in-the-dark",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

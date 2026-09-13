@@ -10,9 +10,13 @@ export const catGirlEvolution002626FlarnTheBubbleWitch = {
   ownLength: 2265,
   unit: "words",
   publishedAt: "2025-09-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2616950/26-flarn-the-bubble-witch",
-  externalId: "2616950",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2616950",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2616950/26-flarn-the-bubble-witch",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

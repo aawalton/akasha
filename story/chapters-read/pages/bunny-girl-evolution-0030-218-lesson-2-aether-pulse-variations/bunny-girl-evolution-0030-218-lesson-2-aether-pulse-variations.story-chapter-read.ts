@@ -10,9 +10,13 @@ export const bunnyGirlEvolution0030218Lesson2AetherPulseVariations = {
   ownLength: 3154,
   unit: "words",
   publishedAt: "2026-08-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3862084/218-lesson-2-aether-pulse-variations",
-  externalId: "3862084",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3862084",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3862084/218-lesson-2-aether-pulse-variations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

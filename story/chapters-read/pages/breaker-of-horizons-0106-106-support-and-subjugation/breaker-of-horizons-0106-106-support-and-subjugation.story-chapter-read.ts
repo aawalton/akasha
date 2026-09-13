@@ -10,9 +10,13 @@ export const breakerOfHorizons0106106SupportAndSubjugation = {
   ownLength: 1961,
   unit: "words",
   publishedAt: "2021-05-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/677616/106-support-and-subjugation",
-  externalId: "677616",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "677616",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/677616/106-support-and-subjugation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

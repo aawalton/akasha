@@ -10,9 +10,13 @@ export const catGirlEvolution008282Cecilia = {
   ownLength: 2987,
   unit: "words",
   publishedAt: "2026-01-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2993689/82-cecilia",
-  externalId: "2993689",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2993689",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2993689/82-cecilia",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

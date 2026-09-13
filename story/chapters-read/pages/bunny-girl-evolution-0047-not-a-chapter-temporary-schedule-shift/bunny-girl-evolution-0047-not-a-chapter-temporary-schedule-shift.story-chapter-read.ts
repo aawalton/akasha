@@ -10,9 +10,13 @@ export const bunnyGirlEvolution0047NotAChapterTemporaryScheduleShift = {
   ownLength: 462,
   unit: "words",
   publishedAt: "2026-03-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3149678/not-a-chapter-temporary-schedule-shift",
-  externalId: "3149678",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3149678",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3149678/not-a-chapter-temporary-schedule-shift",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

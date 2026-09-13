@@ -10,9 +10,13 @@ export const breakerOfHorizons007272Undercurrents = {
   ownLength: 2008,
   unit: "words",
   publishedAt: "2021-01-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/611039/72-undercurrents",
-  externalId: "611039",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "611039",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/611039/72-undercurrents",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const breakerOfHorizons005656UnexplainedIntervention = {
   ownLength: 2143,
   unit: "words",
   publishedAt: "2020-11-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/583599/56-unexplained-intervention",
-  externalId: "583599",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "583599",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/583599/56-unexplained-intervention",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

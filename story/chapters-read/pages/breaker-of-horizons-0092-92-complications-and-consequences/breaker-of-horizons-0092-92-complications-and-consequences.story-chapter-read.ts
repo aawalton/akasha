@@ -10,9 +10,13 @@ export const breakerOfHorizons009292ComplicationsAndConsequences = {
   ownLength: 1657,
   unit: "words",
   publishedAt: "2021-03-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/648877/92-complications-and-consequences",
-  externalId: "648877",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "648877",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/648877/92-complications-and-consequences",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

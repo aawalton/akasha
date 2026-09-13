@@ -10,9 +10,13 @@ export const breakerOfHorizons0135135EldritchReckoning = {
   ownLength: 1666,
   unit: "words",
   publishedAt: "2021-08-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/734798/135-eldritch-reckoning",
-  externalId: "734798",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "734798",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/734798/135-eldritch-reckoning",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

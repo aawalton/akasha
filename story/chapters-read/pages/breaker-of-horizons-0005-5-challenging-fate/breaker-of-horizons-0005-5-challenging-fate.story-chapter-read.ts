@@ -10,9 +10,13 @@ export const breakerOfHorizons00055ChallengingFate = {
   ownLength: 1944,
   unit: "words",
   publishedAt: "2020-05-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/498038/5-challenging-fate",
-  externalId: "498038",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "498038",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/498038/5-challenging-fate",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

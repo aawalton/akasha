@@ -12,9 +12,13 @@ export const bunnyGirlEvolution00033Tunnel = {
   unit: "words",
   completedAt: "2026-06-29T20:02:45.558Z",
   publishedAt: "2024-08-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/1741061/3-tunnel",
-  externalId: "1741061",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1741061",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/1741061/3-tunnel",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

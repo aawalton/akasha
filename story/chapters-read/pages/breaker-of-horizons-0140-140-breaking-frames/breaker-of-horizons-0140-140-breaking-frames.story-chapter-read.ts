@@ -10,9 +10,13 @@ export const breakerOfHorizons0140140BreakingFrames = {
   ownLength: 2041,
   unit: "words",
   publishedAt: "2021-09-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/744040/140-breaking-frames",
-  externalId: "744040",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "744040",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/744040/140-breaking-frames",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

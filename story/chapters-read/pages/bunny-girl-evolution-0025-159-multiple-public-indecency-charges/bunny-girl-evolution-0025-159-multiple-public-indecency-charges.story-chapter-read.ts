@@ -12,9 +12,13 @@ export const bunnyGirlEvolution0025159MultiplePublicIndecencyCharges = {
   unit: "words",
   completedAt: "2026-06-29T20:03:28.241Z",
   publishedAt: "2025-12-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2891927/159-multiple-public-indecency-charges",
-  externalId: "2891927",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2891927",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2891927/159-multiple-public-indecency-charges",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

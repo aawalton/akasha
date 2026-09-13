@@ -10,9 +10,13 @@ export const bunnyGirlEvolution0069NotAChapterScheduleUpdateB4CoverRevealOtherNe
   ownLength: 778,
   unit: "words",
   publishedAt: "2026-06-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3535252/not-a-chapter-schedule-update-b4-cover-reveal",
-  externalId: "3535252",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3535252",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3535252/not-a-chapter-schedule-update-b4-cover-reveal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

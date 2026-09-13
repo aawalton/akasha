@@ -10,9 +10,13 @@ export const bunnyGirlEvolution0031219BunnysFirstSystemFreeSpell = {
   ownLength: 2416,
   unit: "words",
   publishedAt: "2026-08-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3880659/219-bunnys-first-system-free-spell",
-  externalId: "3880659",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3880659",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3880659/219-bunnys-first-system-free-spell",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

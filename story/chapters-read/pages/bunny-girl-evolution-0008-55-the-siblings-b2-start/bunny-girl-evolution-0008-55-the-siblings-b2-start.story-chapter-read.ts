@@ -12,9 +12,13 @@ export const bunnyGirlEvolution000855TheSiblingsB2Start = {
   unit: "words",
   completedAt: "2026-06-29T20:02:55.242Z",
   publishedAt: "2024-12-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/1960203/55-the-siblings-b2-start",
-  externalId: "1960203",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1960203",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/1960203/55-the-siblings-b2-start",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

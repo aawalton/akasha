@@ -10,9 +10,13 @@ export const catGirlEvolution008888GluttonyIsPleased = {
   ownLength: 2785,
   unit: "words",
   publishedAt: "2026-02-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3049198/88-gluttony-is-pleased",
-  externalId: "3049198",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3049198",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3049198/88-gluttony-is-pleased",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

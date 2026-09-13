@@ -10,9 +10,13 @@ export const catGirlEvolution00077Encheloids = {
   ownLength: 2470,
   unit: "words",
   publishedAt: "2025-08-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2525571/7-encheloids",
-  externalId: "2525571",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525571",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2525571/7-encheloids",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const breakerOfHorizons0157157WeightyChoices = {
   ownLength: 2603,
   unit: "words",
   publishedAt: "2021-12-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/798770/157-weighty-choices",
-  externalId: "798770",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "798770",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/798770/157-weighty-choices",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

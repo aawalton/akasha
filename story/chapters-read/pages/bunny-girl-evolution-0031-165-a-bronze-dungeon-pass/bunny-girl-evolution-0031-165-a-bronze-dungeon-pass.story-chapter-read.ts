@@ -12,9 +12,13 @@ export const bunnyGirlEvolution0031165ABronzeDungeonPass = {
   unit: "words",
   completedAt: "2026-06-29T20:03:39.716Z",
   publishedAt: "2026-01-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2960406/165-a-bronze-dungeon-pass",
-  externalId: "2960406",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2960406",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2960406/165-a-bronze-dungeon-pass",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

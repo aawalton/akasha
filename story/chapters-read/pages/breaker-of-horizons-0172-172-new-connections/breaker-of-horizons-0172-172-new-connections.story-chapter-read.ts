@@ -10,9 +10,13 @@ export const breakerOfHorizons0172172NewConnections = {
   ownLength: 2281,
   unit: "words",
   publishedAt: "2022-01-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/831012/172-new-connections",
-  externalId: "831012",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "831012",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/831012/172-new-connections",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

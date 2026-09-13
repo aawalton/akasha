@@ -10,9 +10,13 @@ export const breakerOfHorizons0134134InnerTurmoil = {
   ownLength: 1923,
   unit: "words",
   publishedAt: "2021-08-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/732641/134-inner-turmoil",
-  externalId: "732641",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "732641",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/732641/134-inner-turmoil",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const breakerOfHorizons0165165StrangerStill = {
   ownLength: 2306,
   unit: "words",
   publishedAt: "2021-12-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/815452/165-stranger-still",
-  externalId: "815452",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "815452",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/815452/165-stranger-still",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const breakerOfHorizons006060Beacons = {
   ownLength: 2411,
   unit: "words",
   publishedAt: "2020-11-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/591079/60-beacons",
-  externalId: "591079",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "591079",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/591079/60-beacons",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const breakerOfHorizons009898TheoreticalIssues = {
   ownLength: 1738,
   unit: "words",
   publishedAt: "2021-04-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/660595/98-theoretical-issues",
-  externalId: "660595",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "660595",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/660595/98-theoretical-issues",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

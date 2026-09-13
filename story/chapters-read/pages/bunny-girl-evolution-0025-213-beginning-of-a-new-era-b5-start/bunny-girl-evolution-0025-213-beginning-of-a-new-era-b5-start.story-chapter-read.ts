@@ -10,9 +10,13 @@ export const bunnyGirlEvolution0025213BeginningOfANewEraB5Start = {
   ownLength: 3111,
   unit: "words",
   publishedAt: "2026-08-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3785767/213-beginning-of-a-new-era-b5-start",
-  externalId: "3785767",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3785767",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3785767/213-beginning-of-a-new-era-b5-start",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

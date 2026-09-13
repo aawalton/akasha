@@ -10,9 +10,13 @@ export const breakerOfHorizons007777FindingCommonGround = {
   ownLength: 2187,
   unit: "words",
   publishedAt: "2021-01-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/620046/77-finding-common-ground",
-  externalId: "620046",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "620046",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/620046/77-finding-common-ground",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

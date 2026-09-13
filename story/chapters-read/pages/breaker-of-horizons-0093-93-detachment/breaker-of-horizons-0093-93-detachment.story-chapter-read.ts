@@ -10,9 +10,13 @@ export const breakerOfHorizons009393Detachment = {
   ownLength: 1784,
   unit: "words",
   publishedAt: "2021-03-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/650888/93-detachment",
-  externalId: "650888",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "650888",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/650888/93-detachment",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

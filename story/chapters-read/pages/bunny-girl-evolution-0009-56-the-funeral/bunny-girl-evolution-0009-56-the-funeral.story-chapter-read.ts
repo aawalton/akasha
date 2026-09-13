@@ -12,9 +12,13 @@ export const bunnyGirlEvolution000956TheFuneral = {
   unit: "words",
   completedAt: "2026-06-29T20:02:57.210Z",
   publishedAt: "2024-12-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/1965107/56-the-funeral",
-  externalId: "1965107",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1965107",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/1965107/56-the-funeral",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

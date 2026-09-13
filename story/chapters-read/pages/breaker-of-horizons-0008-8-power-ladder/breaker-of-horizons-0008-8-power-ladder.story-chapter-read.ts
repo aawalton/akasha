@@ -10,9 +10,13 @@ export const breakerOfHorizons00088PowerLadder = {
   ownLength: 1896,
   unit: "words",
   publishedAt: "2020-05-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/502411/8-power-ladder",
-  externalId: "502411",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "502411",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/502411/8-power-ladder",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

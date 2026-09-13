@@ -10,9 +10,13 @@ export const catGirlEvolution003333ClassUpgrade = {
   ownLength: 3488,
   unit: "words",
   publishedAt: "2025-10-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2660089/33-class-upgrade",
-  externalId: "2660089",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2660089",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2660089/33-class-upgrade",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

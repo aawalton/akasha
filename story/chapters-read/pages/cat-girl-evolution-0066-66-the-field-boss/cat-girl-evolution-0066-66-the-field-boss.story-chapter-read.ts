@@ -10,9 +10,13 @@ export const catGirlEvolution006666TheFieldBoss = {
   ownLength: 3060,
   unit: "words",
   publishedAt: "2025-12-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2875445/66-the-field-boss",
-  externalId: "2875445",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2875445",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2875445/66-the-field-boss",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

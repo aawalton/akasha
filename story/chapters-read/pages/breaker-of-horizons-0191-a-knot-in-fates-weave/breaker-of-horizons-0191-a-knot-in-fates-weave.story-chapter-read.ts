@@ -10,9 +10,13 @@ export const breakerOfHorizons0191AKnotInFatesWeave = {
   ownLength: 591,
   unit: "words",
   publishedAt: "2022-12-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/1069128/a-knot-in-fates-weave",
-  externalId: "1069128",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1069128",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/1069128/a-knot-in-fates-weave",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

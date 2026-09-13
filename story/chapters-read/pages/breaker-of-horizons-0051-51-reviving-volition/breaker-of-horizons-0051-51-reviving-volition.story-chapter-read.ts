@@ -10,9 +10,13 @@ export const breakerOfHorizons005151RevivingVolition = {
   ownLength: 2981,
   unit: "words",
   publishedAt: "2020-10-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/574758/51-reviving-volition",
-  externalId: "574758",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "574758",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/574758/51-reviving-volition",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

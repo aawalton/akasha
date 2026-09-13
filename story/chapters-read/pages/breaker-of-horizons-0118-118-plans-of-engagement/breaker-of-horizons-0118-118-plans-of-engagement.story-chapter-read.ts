@@ -10,9 +10,13 @@ export const breakerOfHorizons0118118PlansOfEngagement = {
   ownLength: 2131,
   unit: "words",
   publishedAt: "2021-06-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/700970/118-plans-of-engagement",
-  externalId: "700970",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "700970",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/700970/118-plans-of-engagement",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

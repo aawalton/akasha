@@ -12,9 +12,13 @@ export const bunnyGirlEvolution0039173FeyKingAndQueen = {
   unit: "words",
   completedAt: "2026-06-29T20:03:55.159Z",
   publishedAt: "2026-02-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3062117/173-fey-king-and-queen",
-  externalId: "3062117",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3062117",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3062117/173-fey-king-and-queen",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const catGirlEvolution002020Crabs = {
   ownLength: 2198,
   unit: "words",
   publishedAt: "2025-09-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2581068/20-crabs",
-  externalId: "2581068",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2581068",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2581068/20-crabs",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

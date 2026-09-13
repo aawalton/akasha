@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook004747TrueSight = {
   ownLength: 2214,
   unit: "words",
   publishedAt: "2025-01-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2022299/47-true-sight",
-  externalId: "2022299",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2022299",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2022299/47-true-sight",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

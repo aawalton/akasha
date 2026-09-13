@@ -10,9 +10,13 @@ export const breakerOfHorizons0154154ProgressAndPerception = {
   ownLength: 2119,
   unit: "words",
   publishedAt: "2021-11-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/792238/154-progress-and-perception",
-  externalId: "792238",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "792238",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/792238/154-progress-and-perception",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

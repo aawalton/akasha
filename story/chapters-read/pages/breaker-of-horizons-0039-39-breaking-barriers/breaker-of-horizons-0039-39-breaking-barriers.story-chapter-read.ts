@@ -10,9 +10,13 @@ export const breakerOfHorizons003939BreakingBarriers = {
   ownLength: 2404,
   unit: "words",
   publishedAt: "2020-09-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/554585/39-breaking-barriers",
-  externalId: "554585",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "554585",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/554585/39-breaking-barriers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

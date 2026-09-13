@@ -10,9 +10,13 @@ export const breakerOfHorizons002929FeyAfield = {
   ownLength: 2399,
   unit: "words",
   publishedAt: "2020-08-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/537082/29-fey-afield",
-  externalId: "537082",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "537082",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/537082/29-fey-afield",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

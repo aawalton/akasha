@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook0069Book2Chapter6Assault 
   ownLength: 1079,
   unit: "words",
   publishedAt: "2025-05-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2281074/book-2-chapter-6--assault",
-  externalId: "2281074",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2281074",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2281074/book-2-chapter-6--assault",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

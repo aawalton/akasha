@@ -12,9 +12,13 @@ export const bunnyGirlEvolution0015106LyingVsActing = {
   unit: "words",
   completedAt: "2026-06-29T20:03:08.817Z",
   publishedAt: "2025-06-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2354912/106-lying-vs-acting",
-  externalId: "2354912",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2354912",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2354912/106-lying-vs-acting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

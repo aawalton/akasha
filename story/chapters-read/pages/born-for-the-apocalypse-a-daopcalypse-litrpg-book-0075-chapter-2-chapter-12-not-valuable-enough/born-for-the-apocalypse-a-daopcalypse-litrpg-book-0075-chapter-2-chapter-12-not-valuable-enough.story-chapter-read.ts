@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook0075Chapter2Chapter12NotV
   ownLength: 1720,
   unit: "words",
   publishedAt: "2025-05-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2298346/chapter-2-chapter-12-not-valuable-enough",
-  externalId: "2298346",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2298346",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2298346/chapter-2-chapter-12-not-valuable-enough",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

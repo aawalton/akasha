@@ -10,9 +10,13 @@ export const breakerOfHorizons0124124Transfiguration = {
   ownLength: 1862,
   unit: "words",
   publishedAt: "2021-07-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/712920/124-transfiguration",
-  externalId: "712920",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "712920",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/712920/124-transfiguration",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

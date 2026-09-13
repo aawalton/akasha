@@ -10,9 +10,13 @@ export const breakerOfHorizons0187StatusUpdate = {
   ownLength: 336,
   unit: "words",
   publishedAt: "2022-04-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/890362/status-update",
-  externalId: "890362",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "890362",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/890362/status-update",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

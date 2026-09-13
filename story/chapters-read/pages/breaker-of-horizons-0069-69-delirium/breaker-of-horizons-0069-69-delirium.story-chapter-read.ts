@@ -10,9 +10,13 @@ export const breakerOfHorizons006969Delirium = {
   ownLength: 1990,
   unit: "words",
   publishedAt: "2020-12-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/606250/69-delirium",
-  externalId: "606250",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "606250",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/606250/69-delirium",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

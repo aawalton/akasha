@@ -10,9 +10,13 @@ export const breakerOfHorizons001010ThaumaturgyTrial = {
   ownLength: 2365,
   unit: "words",
   publishedAt: "2020-06-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/505506/10-thaumaturgy-trial",
-  externalId: "505506",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "505506",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/505506/10-thaumaturgy-trial",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

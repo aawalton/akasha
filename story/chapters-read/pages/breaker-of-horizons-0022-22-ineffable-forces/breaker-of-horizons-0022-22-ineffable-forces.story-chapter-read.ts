@@ -10,9 +10,13 @@ export const breakerOfHorizons002222IneffableForces = {
   ownLength: 2462,
   unit: "words",
   publishedAt: "2020-07-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/525181/22-ineffable-forces",
-  externalId: "525181",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "525181",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/525181/22-ineffable-forces",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const bunnyGirlEvolution0042175BargainOfDivineProportions = {
   unit: "words",
   completedAt: "2026-06-29T20:04:00.834Z",
   publishedAt: "2026-02-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3086620/175-bargain-of-divine-proportions",
-  externalId: "3086620",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3086620",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3086620/175-bargain-of-divine-proportions",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

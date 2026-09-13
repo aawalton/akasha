@@ -12,9 +12,13 @@ export const bunnyGirlEvolution001360TheBoss = {
   unit: "words",
   completedAt: "2026-06-29T20:03:04.958Z",
   publishedAt: "2025-01-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/1988731/60-the-boss",
-  externalId: "1988731",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1988731",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/1988731/60-the-boss",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

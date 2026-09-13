@@ -10,9 +10,13 @@ export const breakerOfHorizons0180180DealingSecrets = {
   ownLength: 2239,
   unit: "words",
   publishedAt: "2022-02-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/850258/180-dealing-secrets",
-  externalId: "850258",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "850258",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/850258/180-dealing-secrets",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

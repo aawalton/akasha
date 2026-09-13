@@ -10,9 +10,13 @@ export const breakerOfHorizons0133133ChangedPlans = {
   ownLength: 2096,
   unit: "words",
   publishedAt: "2021-08-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/731509/133-changed-plans",
-  externalId: "731509",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "731509",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/731509/133-changed-plans",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

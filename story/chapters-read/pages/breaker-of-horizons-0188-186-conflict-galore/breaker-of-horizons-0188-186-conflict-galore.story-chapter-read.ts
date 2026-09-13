@@ -10,9 +10,13 @@ export const breakerOfHorizons0188186ConflictGalore = {
   ownLength: 7506,
   unit: "words",
   publishedAt: "2022-05-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/917896/186-conflict-galore",
-  externalId: "917896",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "917896",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/917896/186-conflict-galore",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

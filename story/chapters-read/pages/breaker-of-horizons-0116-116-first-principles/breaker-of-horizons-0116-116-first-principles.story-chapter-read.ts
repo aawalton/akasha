@@ -10,9 +10,13 @@ export const breakerOfHorizons0116116FirstPrinciples = {
   ownLength: 2215,
   unit: "words",
   publishedAt: "2021-06-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/696982/116-first-principles",
-  externalId: "696982",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "696982",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/696982/116-first-principles",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

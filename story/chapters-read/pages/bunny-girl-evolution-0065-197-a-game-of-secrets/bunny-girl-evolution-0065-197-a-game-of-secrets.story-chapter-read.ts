@@ -10,9 +10,13 @@ export const bunnyGirlEvolution0065197AGameOfSecrets = {
   ownLength: 2972,
   unit: "words",
   publishedAt: "2026-05-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3385421/197-a-game-of-secrets",
-  externalId: "3385421",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3385421",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3385421/197-a-game-of-secrets",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

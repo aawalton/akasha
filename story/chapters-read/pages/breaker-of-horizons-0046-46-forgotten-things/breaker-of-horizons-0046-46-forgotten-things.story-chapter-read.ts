@@ -10,9 +10,13 @@ export const breakerOfHorizons004646ForgottenThings = {
   ownLength: 2409,
   unit: "words",
   publishedAt: "2020-10-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/566234/46-forgotten-things",
-  externalId: "566234",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "566234",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/566234/46-forgotten-things",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

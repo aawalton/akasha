@@ -10,9 +10,13 @@ export const breakerOfHorizons002020Ensnared = {
   ownLength: 2134,
   unit: "words",
   publishedAt: "2020-07-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/522036/20-ensnared",
-  externalId: "522036",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "522036",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/522036/20-ensnared",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

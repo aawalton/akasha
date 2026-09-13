@@ -12,9 +12,13 @@ export const bunnyGirlEvolution0038172TalesFromThePast = {
   unit: "words",
   completedAt: "2026-06-29T20:03:53.230Z",
   publishedAt: "2026-02-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3052805/172-tales-from-the-past",
-  externalId: "3052805",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3052805",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3052805/172-tales-from-the-past",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

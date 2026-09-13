@@ -10,9 +10,13 @@ export const catGirlEvolution009292Winter2 = {
   ownLength: 2326,
   unit: "words",
   publishedAt: "2026-02-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3079862/92-winter-2",
-  externalId: "3079862",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3079862",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3079862/92-winter-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

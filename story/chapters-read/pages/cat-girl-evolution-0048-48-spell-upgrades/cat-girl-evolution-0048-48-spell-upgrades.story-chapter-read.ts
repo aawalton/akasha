@@ -10,9 +10,13 @@ export const catGirlEvolution004848SpellUpgrades = {
   ownLength: 1984,
   unit: "words",
   publishedAt: "2025-11-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2753836/48-spell-upgrades",
-  externalId: "2753836",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2753836",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2753836/48-spell-upgrades",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

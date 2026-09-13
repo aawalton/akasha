@@ -10,9 +10,13 @@ export const breakerOfHorizons008383DirePronouncements = {
   ownLength: 2076,
   unit: "words",
   publishedAt: "2021-02-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/632011/83-dire-pronouncements",
-  externalId: "632011",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "632011",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/632011/83-dire-pronouncements",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

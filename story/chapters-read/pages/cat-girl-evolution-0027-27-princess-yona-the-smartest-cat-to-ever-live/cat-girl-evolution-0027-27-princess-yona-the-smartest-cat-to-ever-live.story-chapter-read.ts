@@ -10,9 +10,13 @@ export const catGirlEvolution002727PrincessYonaTheSmartestCatToEverLive = {
   ownLength: 2403,
   unit: "words",
   publishedAt: "2025-09-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2624408/27-princess-yona-the-smartest-cat-to-ever-live",
-  externalId: "2624408",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2624408",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2624408/27-princess-yona-the-smartest-cat-to-ever-live",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

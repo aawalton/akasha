@@ -10,9 +10,13 @@ export const breakerOfHorizons003030ChippingAtTheFetters = {
   ownLength: 2823,
   unit: "words",
   publishedAt: "2020-08-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/538491/30-chipping-at-the-fetters",
-  externalId: "538491",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "538491",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/538491/30-chipping-at-the-fetters",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

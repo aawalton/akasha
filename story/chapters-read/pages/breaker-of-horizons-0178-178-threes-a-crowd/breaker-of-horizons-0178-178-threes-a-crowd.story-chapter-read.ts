@@ -10,9 +10,13 @@ export const breakerOfHorizons0178178ThreesACrowd = {
   ownLength: 2401,
   unit: "words",
   publishedAt: "2022-02-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/845507/178-threes-a-crowd",
-  externalId: "845507",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "845507",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/845507/178-threes-a-crowd",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

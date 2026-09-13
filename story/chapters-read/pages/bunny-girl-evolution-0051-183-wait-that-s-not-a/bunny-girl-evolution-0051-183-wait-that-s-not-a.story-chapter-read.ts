@@ -10,9 +10,13 @@ export const bunnyGirlEvolution0051183WaitThatSNotA = {
   ownLength: 4306,
   unit: "words",
   publishedAt: "2026-03-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3198667/183-wait-thats-not-a",
-  externalId: "3198667",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3198667",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3198667/183-wait-thats-not-a",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

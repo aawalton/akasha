@@ -10,9 +10,13 @@ export const breakerOfHorizons008686ViolentResolutions = {
   ownLength: 1687,
   unit: "words",
   publishedAt: "2021-02-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/637359/86-violent-resolutions",
-  externalId: "637359",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "637359",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/637359/86-violent-resolutions",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

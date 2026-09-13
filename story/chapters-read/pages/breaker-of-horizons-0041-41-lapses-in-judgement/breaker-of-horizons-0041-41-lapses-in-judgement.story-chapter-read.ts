@@ -10,9 +10,13 @@ export const breakerOfHorizons004141LapsesInJudgement = {
   ownLength: 2214,
   unit: "words",
   publishedAt: "2020-09-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/557848/41-lapses-in-judgement",
-  externalId: "557848",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "557848",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/557848/41-lapses-in-judgement",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

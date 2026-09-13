@@ -10,9 +10,13 @@ export const breakerOfHorizons002828Puzzlement = {
   ownLength: 2493,
   unit: "words",
   publishedAt: "2020-08-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/535162/28-puzzlement",
-  externalId: "535162",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "535162",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/535162/28-puzzlement",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

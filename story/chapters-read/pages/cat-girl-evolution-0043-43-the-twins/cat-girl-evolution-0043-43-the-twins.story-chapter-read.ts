@@ -10,9 +10,13 @@ export const catGirlEvolution004343TheTwins = {
   ownLength: 2774,
   unit: "words",
   publishedAt: "2025-10-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2718684/43-the-twins",
-  externalId: "2718684",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2718684",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2718684/43-the-twins",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

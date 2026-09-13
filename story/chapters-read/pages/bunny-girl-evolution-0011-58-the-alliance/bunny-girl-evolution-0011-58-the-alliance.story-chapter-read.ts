@@ -12,9 +12,13 @@ export const bunnyGirlEvolution001158TheAlliance = {
   unit: "words",
   completedAt: "2026-06-29T20:03:01.083Z",
   publishedAt: "2024-12-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/1976695/58-the-alliance",
-  externalId: "1976695",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1976695",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/1976695/58-the-alliance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

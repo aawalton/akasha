@@ -10,9 +10,13 @@ export const breakerOfHorizons005858NewAspects = {
   ownLength: 1835,
   unit: "words",
   publishedAt: "2020-11-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/587225/58-new-aspects",
-  externalId: "587225",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "587225",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/587225/58-new-aspects",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

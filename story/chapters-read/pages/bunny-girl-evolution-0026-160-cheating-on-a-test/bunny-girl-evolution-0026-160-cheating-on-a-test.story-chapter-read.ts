@@ -12,9 +12,13 @@ export const bunnyGirlEvolution0026160CheatingOnATest = {
   unit: "words",
   completedAt: "2026-06-29T20:03:30.177Z",
   publishedAt: "2026-01-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2907410/160-cheating-on-a-test",
-  externalId: "2907410",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2907410",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2907410/160-cheating-on-a-test",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

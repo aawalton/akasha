@@ -10,9 +10,13 @@ export const catGirlEvolution003535PrincessYonaTheSuspiciousOne = {
   ownLength: 2600,
   unit: "words",
   publishedAt: "2025-10-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2670099/35-princess-yona-the-suspicious-one",
-  externalId: "2670099",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2670099",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2670099/35-princess-yona-the-suspicious-one",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

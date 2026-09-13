@@ -10,9 +10,13 @@ export const breakerOfHorizons0144144DemiurgesUrges = {
   ownLength: 2125,
   unit: "words",
   publishedAt: "2021-09-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/751714/144-demiurges-urges",
-  externalId: "751714",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "751714",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/751714/144-demiurges-urges",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

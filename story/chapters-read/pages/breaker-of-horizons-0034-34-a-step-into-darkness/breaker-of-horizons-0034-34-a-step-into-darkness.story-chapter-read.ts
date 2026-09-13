@@ -10,9 +10,13 @@ export const breakerOfHorizons003434AStepIntoDarkness = {
   ownLength: 2642,
   unit: "words",
   publishedAt: "2020-08-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/545263/34-a-step-into-darkness",
-  externalId: "545263",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "545263",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/545263/34-a-step-into-darkness",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

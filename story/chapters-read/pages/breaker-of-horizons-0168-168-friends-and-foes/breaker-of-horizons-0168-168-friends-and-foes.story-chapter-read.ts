@@ -10,9 +10,13 @@ export const breakerOfHorizons0168168FriendsAndFoes = {
   ownLength: 2115,
   unit: "words",
   publishedAt: "2022-01-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/821787/168-friends-and-foes",
-  externalId: "821787",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "821787",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/821787/168-friends-and-foes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

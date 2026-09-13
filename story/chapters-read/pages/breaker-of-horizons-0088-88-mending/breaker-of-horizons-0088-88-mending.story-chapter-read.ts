@@ -10,9 +10,13 @@ export const breakerOfHorizons008888Mending = {
   ownLength: 2066,
   unit: "words",
   publishedAt: "2021-03-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/641231/88-mending",
-  externalId: "641231",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "641231",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/641231/88-mending",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

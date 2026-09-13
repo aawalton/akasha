@@ -10,9 +10,13 @@ export const breakerOfHorizons0122122PropheticDoom = {
   ownLength: 2034,
   unit: "words",
   publishedAt: "2021-07-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/708885/122-prophetic-doom",
-  externalId: "708885",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "708885",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/708885/122-prophetic-doom",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

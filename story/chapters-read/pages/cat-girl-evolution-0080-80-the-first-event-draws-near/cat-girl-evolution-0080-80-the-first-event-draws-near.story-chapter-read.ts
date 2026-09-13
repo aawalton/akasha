@@ -10,9 +10,13 @@ export const catGirlEvolution008080TheFirstEventDrawsNear = {
   ownLength: 2018,
   unit: "words",
   publishedAt: "2026-01-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2976853/80-the-first-event-draws-near",
-  externalId: "2976853",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2976853",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2976853/80-the-first-event-draws-near",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

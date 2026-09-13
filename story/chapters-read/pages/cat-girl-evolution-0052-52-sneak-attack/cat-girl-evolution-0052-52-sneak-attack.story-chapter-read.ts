@@ -10,9 +10,13 @@ export const catGirlEvolution005252SneakAttack = {
   ownLength: 2575,
   unit: "words",
   publishedAt: "2025-11-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2779574/52-sneak-attack",
-  externalId: "2779574",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2779574",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2779574/52-sneak-attack",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

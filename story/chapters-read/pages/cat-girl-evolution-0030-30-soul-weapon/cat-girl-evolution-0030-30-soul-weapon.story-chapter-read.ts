@@ -10,9 +10,13 @@ export const catGirlEvolution003030SoulWeapon = {
   ownLength: 3427,
   unit: "words",
   publishedAt: "2025-10-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2642447/30-soul-weapon",
-  externalId: "2642447",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2642447",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2642447/30-soul-weapon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

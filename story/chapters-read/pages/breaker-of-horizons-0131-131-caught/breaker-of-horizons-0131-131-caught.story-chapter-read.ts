@@ -10,9 +10,13 @@ export const breakerOfHorizons0131131Caught = {
   ownLength: 2012,
   unit: "words",
   publishedAt: "2021-08-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/727133/131-caught",
-  externalId: "727133",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "727133",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/727133/131-caught",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

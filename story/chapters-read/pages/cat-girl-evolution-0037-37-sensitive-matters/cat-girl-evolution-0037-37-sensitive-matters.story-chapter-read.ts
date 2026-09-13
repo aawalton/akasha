@@ -10,9 +10,13 @@ export const catGirlEvolution003737SensitiveMatters = {
   ownLength: 2345,
   unit: "words",
   publishedAt: "2025-10-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2682857/37-sensitive-matters",
-  externalId: "2682857",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2682857",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2682857/37-sensitive-matters",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

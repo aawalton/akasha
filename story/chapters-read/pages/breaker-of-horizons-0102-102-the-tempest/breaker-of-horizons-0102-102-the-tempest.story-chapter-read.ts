@@ -10,9 +10,13 @@ export const breakerOfHorizons0102102TheTempest = {
   ownLength: 1948,
   unit: "words",
   publishedAt: "2021-04-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/669150/102-the-tempest",
-  externalId: "669150",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "669150",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/669150/102-the-tempest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const catGirlEvolution00022ALittleAdventure = {
   ownLength: 2158,
   unit: "words",
   publishedAt: "2025-08-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2525481/2-a-little-adventure",
-  externalId: "2525481",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525481",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2525481/2-a-little-adventure",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

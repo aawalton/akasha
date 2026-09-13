@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook006262Perception = {
   ownLength: 1986,
   unit: "words",
   publishedAt: "2025-02-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2094628/62-perception",
-  externalId: "2094628",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2094628",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2094628/62-perception",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

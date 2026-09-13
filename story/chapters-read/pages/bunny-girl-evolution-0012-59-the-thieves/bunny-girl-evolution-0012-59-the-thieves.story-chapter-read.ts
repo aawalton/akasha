@@ -12,9 +12,13 @@ export const bunnyGirlEvolution001259TheThieves = {
   unit: "words",
   completedAt: "2026-06-29T20:03:03.039Z",
   publishedAt: "2024-12-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/1983194/59-the-thieves",
-  externalId: "1983194",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1983194",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/1983194/59-the-thieves",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

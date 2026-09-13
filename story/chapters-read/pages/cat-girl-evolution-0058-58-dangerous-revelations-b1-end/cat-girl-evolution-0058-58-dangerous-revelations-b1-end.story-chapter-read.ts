@@ -10,9 +10,13 @@ export const catGirlEvolution005858DangerousRevelationsB1End = {
   ownLength: 2593,
   unit: "words",
   publishedAt: "2025-12-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2820331/58-dangerous-revelations-b1-end",
-  externalId: "2820331",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2820331",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2820331/58-dangerous-revelations-b1-end",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

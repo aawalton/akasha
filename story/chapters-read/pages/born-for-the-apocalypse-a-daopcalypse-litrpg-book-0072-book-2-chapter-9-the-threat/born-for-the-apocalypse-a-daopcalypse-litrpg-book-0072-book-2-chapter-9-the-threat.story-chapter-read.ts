@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook0072Book2Chapter9TheThrea
   ownLength: 1071,
   unit: "words",
   publishedAt: "2025-05-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2290013/book-2-chapter-9--the-threat",
-  externalId: "2290013",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2290013",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2290013/book-2-chapter-9--the-threat",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

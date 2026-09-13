@@ -10,9 +10,13 @@ export const bunnyGirlEvolution0026214FirstTimeHomeBuyerElise = {
   ownLength: 3041,
   unit: "words",
   publishedAt: "2026-08-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3798701/214-first-time-home-buyer-elise",
-  externalId: "3798701",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3798701",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3798701/214-first-time-home-buyer-elise",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

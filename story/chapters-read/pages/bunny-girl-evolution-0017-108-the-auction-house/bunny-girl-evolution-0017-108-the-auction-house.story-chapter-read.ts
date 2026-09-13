@@ -12,9 +12,13 @@ export const bunnyGirlEvolution0017108TheAuctionHouse = {
   unit: "words",
   completedAt: "2026-06-29T20:03:12.556Z",
   publishedAt: "2025-06-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2373486/108-the-auction-house",
-  externalId: "2373486",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2373486",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2373486/108-the-auction-house",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

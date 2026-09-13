@@ -12,9 +12,13 @@ export const bunnyGirlEvolution0043176SuperFunTripsBegin = {
   unit: "words",
   completedAt: "2026-06-29T20:04:02.778Z",
   publishedAt: "2026-02-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3101060/176-super-fun-trips-begin",
-  externalId: "3101060",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3101060",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3101060/176-super-fun-trips-begin",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

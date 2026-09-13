@@ -10,9 +10,13 @@ export const breakerOfHorizons0120120MysteryAtDawn = {
   ownLength: 2298,
   unit: "words",
   publishedAt: "2021-06-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/704872/120-mystery-at-dawn",
-  externalId: "704872",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "704872",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/704872/120-mystery-at-dawn",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

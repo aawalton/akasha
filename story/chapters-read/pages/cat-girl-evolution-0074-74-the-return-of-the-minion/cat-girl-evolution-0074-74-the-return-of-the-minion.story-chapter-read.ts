@@ -10,9 +10,13 @@ export const catGirlEvolution007474TheReturnOfTheMinion = {
   ownLength: 2178,
   unit: "words",
   publishedAt: "2026-01-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2931783/74-the-return-of-the-minion",
-  externalId: "2931783",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2931783",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2931783/74-the-return-of-the-minion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

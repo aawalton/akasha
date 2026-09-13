@@ -10,9 +10,13 @@ export const catGirlEvolution006363DreamsOfHome = {
   ownLength: 2147,
   unit: "words",
   publishedAt: "2025-12-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2855220/63-dreams-of-home",
-  externalId: "2855220",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2855220",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2855220/63-dreams-of-home",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const bunnyGirlEvolution0016107GatheringOfInformation = {
   unit: "words",
   completedAt: "2026-06-29T20:03:10.765Z",
   publishedAt: "2025-06-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2362311/107-gathering-of-information",
-  externalId: "2362311",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2362311",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2362311/107-gathering-of-information",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

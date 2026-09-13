@@ -10,9 +10,13 @@ export const breakerOfHorizons0163163CarefulSteps = {
   ownLength: 2142,
   unit: "words",
   publishedAt: "2021-12-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/811811/163-careful-steps",
-  externalId: "811811",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "811811",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/811811/163-careful-steps",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

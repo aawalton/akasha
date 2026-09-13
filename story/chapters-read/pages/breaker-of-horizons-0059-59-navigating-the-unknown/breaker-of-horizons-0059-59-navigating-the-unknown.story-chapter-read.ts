@@ -10,9 +10,13 @@ export const breakerOfHorizons005959NavigatingTheUnknown = {
   ownLength: 2325,
   unit: "words",
   publishedAt: "2020-11-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/589547/59-navigating-the-unknown",
-  externalId: "589547",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "589547",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/589547/59-navigating-the-unknown",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

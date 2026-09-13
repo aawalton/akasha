@@ -10,9 +10,13 @@ export const bunnyGirlEvolution0028216EliseHasAGoodIdea = {
   ownLength: 2284,
   unit: "words",
   publishedAt: "2026-08-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3828925/216-elise-has-a-good-idea",
-  externalId: "3828925",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3828925",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3828925/216-elise-has-a-good-idea",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

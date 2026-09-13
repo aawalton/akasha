@@ -10,9 +10,13 @@ export const breakerOfHorizons0189187aRedrawingLines = {
   ownLength: 3566,
   unit: "words",
   publishedAt: "2022-06-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/938751/187a-redrawing-lines",
-  externalId: "938751",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "938751",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/938751/187a-redrawing-lines",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

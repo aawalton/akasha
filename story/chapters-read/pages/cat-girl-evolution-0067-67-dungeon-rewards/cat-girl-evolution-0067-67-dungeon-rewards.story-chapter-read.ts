@@ -10,9 +10,13 @@ export const catGirlEvolution006767DungeonRewards = {
   ownLength: 2561,
   unit: "words",
   publishedAt: "2025-12-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2881087/67-dungeon-rewards",
-  externalId: "2881087",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2881087",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2881087/67-dungeon-rewards",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

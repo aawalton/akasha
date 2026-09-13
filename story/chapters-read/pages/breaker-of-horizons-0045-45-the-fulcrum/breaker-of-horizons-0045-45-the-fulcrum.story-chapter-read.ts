@@ -10,9 +10,13 @@ export const breakerOfHorizons004545TheFulcrum = {
   ownLength: 2553,
   unit: "words",
   publishedAt: "2020-10-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/564771/45-the-fulcrum",
-  externalId: "564771",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "564771",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/564771/45-the-fulcrum",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

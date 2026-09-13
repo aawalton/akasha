@@ -10,9 +10,13 @@ export const catGirlEvolution003131PrincessYonaTheChosenOne = {
   ownLength: 2414,
   unit: "words",
   publishedAt: "2025-10-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2647650/31-princess-yona-the-chosen-one",
-  externalId: "2647650",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2647650",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2647650/31-princess-yona-the-chosen-one",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

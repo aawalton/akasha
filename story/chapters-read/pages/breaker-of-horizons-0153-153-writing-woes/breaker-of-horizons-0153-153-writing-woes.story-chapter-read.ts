@@ -10,9 +10,13 @@ export const breakerOfHorizons0153153WritingWoes = {
   ownLength: 2129,
   unit: "words",
   publishedAt: "2021-11-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/789526/153-writing-woes",
-  externalId: "789526",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "789526",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/789526/153-writing-woes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

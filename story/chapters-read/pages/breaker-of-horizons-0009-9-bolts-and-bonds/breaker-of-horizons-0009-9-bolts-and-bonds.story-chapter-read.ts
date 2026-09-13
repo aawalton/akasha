@@ -10,9 +10,13 @@ export const breakerOfHorizons00099BoltsAndBonds = {
   ownLength: 2631,
   unit: "words",
   publishedAt: "2020-05-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/503976/9-bolts-and-bonds",
-  externalId: "503976",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "503976",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/503976/9-bolts-and-bonds",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

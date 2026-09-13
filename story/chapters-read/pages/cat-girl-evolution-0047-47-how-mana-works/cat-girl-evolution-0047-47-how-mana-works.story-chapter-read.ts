@@ -10,9 +10,13 @@ export const catGirlEvolution004747HowManaWorks = {
   ownLength: 2878,
   unit: "words",
   publishedAt: "2025-11-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2745177/47-how-mana-works",
-  externalId: "2745177",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2745177",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2745177/47-how-mana-works",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

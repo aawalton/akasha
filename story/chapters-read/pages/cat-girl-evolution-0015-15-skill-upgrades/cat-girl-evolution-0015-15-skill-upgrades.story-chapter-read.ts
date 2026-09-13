@@ -10,9 +10,13 @@ export const catGirlEvolution001515SkillUpgrades = {
   ownLength: 3004,
   unit: "words",
   publishedAt: "2025-08-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2548131/15-skill-upgrades",
-  externalId: "2548131",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2548131",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2548131/15-skill-upgrades",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

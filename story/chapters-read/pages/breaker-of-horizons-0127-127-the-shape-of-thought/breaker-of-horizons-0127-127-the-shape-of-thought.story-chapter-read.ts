@@ -10,9 +10,13 @@ export const breakerOfHorizons0127127TheShapeOfThought = {
   ownLength: 1918,
   unit: "words",
   publishedAt: "2021-07-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/719040/127-the-shape-of-thought",
-  externalId: "719040",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "719040",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/719040/127-the-shape-of-thought",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

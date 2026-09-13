@@ -10,9 +10,13 @@ export const breakerOfHorizons0181181StrangerDanger = {
   ownLength: 2115,
   unit: "words",
   publishedAt: "2022-02-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/852296/181-stranger-danger",
-  externalId: "852296",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "852296",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/852296/181-stranger-danger",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

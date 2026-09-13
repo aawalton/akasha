@@ -10,9 +10,13 @@ export const breakerOfHorizons00033PrecisionMatters = {
   ownLength: 3167,
   unit: "words",
   publishedAt: "2020-05-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/494944/3-precision-matters",
-  externalId: "494944",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "494944",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/494944/3-precision-matters",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

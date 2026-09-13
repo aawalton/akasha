@@ -10,9 +10,13 @@ export const catGirlEvolution003939SuddenQuest = {
   ownLength: 1925,
   unit: "words",
   publishedAt: "2025-10-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2695447/39-sudden-quest",
-  externalId: "2695447",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2695447",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2695447/39-sudden-quest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

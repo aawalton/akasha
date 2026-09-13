@@ -10,9 +10,13 @@ export const catGirlEvolution001919ClassWarfare = {
   ownLength: 1879,
   unit: "words",
   publishedAt: "2025-09-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2575641/19-class-warfare",
-  externalId: "2575641",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2575641",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2575641/19-class-warfare",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

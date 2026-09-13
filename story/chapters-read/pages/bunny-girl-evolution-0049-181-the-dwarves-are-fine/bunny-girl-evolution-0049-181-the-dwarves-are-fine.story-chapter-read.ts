@@ -10,9 +10,13 @@ export const bunnyGirlEvolution0049181TheDwarvesAreFine = {
   ownLength: 4170,
   unit: "words",
   publishedAt: "2026-03-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3179217/181-the-dwarves-are-fine",
-  externalId: "3179217",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3179217",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3179217/181-the-dwarves-are-fine",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

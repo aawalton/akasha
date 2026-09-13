@@ -10,9 +10,13 @@ export const breakerOfHorizons007676MemoriesOfTheAncients = {
   ownLength: 1793,
   unit: "words",
   publishedAt: "2021-01-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/618164/76-memories-of-the-ancients",
-  externalId: "618164",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "618164",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/618164/76-memories-of-the-ancients",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

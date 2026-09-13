@@ -10,9 +10,13 @@ export const breakerOfHorizons0119119SoulSearching = {
   ownLength: 2140,
   unit: "words",
   publishedAt: "2021-06-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/703232/119-soul-searching",
-  externalId: "703232",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "703232",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/703232/119-soul-searching",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

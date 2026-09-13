@@ -10,9 +10,13 @@ export const breakerOfHorizons0108108FlightAndFire = {
   ownLength: 2026,
   unit: "words",
   publishedAt: "2021-05-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/681697/108-flight-and-fire",
-  externalId: "681697",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "681697",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/681697/108-flight-and-fire",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

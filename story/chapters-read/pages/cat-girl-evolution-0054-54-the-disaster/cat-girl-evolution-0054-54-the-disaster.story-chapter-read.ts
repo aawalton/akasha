@@ -10,9 +10,13 @@ export const catGirlEvolution005454TheDisaster = {
   ownLength: 1965,
   unit: "words",
   publishedAt: "2025-11-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2793911/54-the-disaster",
-  externalId: "2793911",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2793911",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2793911/54-the-disaster",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

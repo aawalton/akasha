@@ -10,9 +10,13 @@ export const breakerOfHorizons0167167AGrimBeginning = {
   ownLength: 2102,
   unit: "words",
   publishedAt: "2022-01-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/819405/167-a-grim-beginning",
-  externalId: "819405",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "819405",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/819405/167-a-grim-beginning",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

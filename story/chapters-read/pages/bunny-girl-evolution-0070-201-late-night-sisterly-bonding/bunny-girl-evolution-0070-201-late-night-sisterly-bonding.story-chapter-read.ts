@@ -10,9 +10,13 @@ export const bunnyGirlEvolution0070201LateNightSisterlyBonding = {
   ownLength: 3886,
   unit: "words",
   publishedAt: "2026-06-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3578384/201-late-night-sisterly-bonding",
-  externalId: "3578384",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3578384",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3578384/201-late-night-sisterly-bonding",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

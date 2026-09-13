@@ -12,9 +12,13 @@ export const bunnyGirlEvolution0024158RevealingTheDragonSPower = {
   unit: "words",
   completedAt: "2026-06-29T20:03:26.219Z",
   publishedAt: "2025-12-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2884102/158-revealing-the-dragons-power",
-  externalId: "2884102",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2884102",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2884102/158-revealing-the-dragons-power",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

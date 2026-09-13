@@ -10,9 +10,13 @@ export const catGirlEvolution006868ThePigPalace = {
   ownLength: 2840,
   unit: "words",
   publishedAt: "2025-12-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2886700/68-the-pig-palace",
-  externalId: "2886700",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2886700",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2886700/68-the-pig-palace",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

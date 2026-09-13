@@ -10,9 +10,13 @@ export const breakerOfHorizons0149149TheRoadToMastery = {
   ownLength: 2241,
   unit: "words",
   publishedAt: "2021-11-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/779107/149-the-road-to-mastery",
-  externalId: "779107",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "779107",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/779107/149-the-road-to-mastery",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

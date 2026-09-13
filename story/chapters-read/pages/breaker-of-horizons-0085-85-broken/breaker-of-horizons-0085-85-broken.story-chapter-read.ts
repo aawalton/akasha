@@ -10,8 +10,13 @@ export const breakerOfHorizons008585Broken = {
   ownLength: 2048,
   unit: "words",
   publishedAt: "2021-02-22",
-  externalLink: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/635769/85-broken",
-  externalId: "635769",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "635769",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/635769/85-broken",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const bunnyGirlEvolution0029163ChillingWithTheSaintess = {
   unit: "words",
   completedAt: "2026-06-29T20:03:35.842Z",
   publishedAt: "2026-01-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2938108/163-chilling-with-the-saintess",
-  externalId: "2938108",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2938108",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2938108/163-chilling-with-the-saintess",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

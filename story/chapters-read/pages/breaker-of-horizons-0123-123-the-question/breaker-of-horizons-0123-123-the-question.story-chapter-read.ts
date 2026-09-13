@@ -10,9 +10,13 @@ export const breakerOfHorizons0123123TheQuestion = {
   ownLength: 2345,
   unit: "words",
   publishedAt: "2021-07-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/711121/123-the-question",
-  externalId: "711121",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "711121",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/711121/123-the-question",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

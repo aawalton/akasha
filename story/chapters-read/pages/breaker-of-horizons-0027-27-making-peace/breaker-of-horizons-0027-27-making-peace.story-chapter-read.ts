@@ -10,9 +10,13 @@ export const breakerOfHorizons002727MakingPeace = {
   ownLength: 2585,
   unit: "words",
   publishedAt: "2020-08-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/533703/27-making-peace",
-  externalId: "533703",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "533703",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/533703/27-making-peace",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

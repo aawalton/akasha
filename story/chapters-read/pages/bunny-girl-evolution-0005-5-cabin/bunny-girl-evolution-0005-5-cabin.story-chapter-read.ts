@@ -12,9 +12,13 @@ export const bunnyGirlEvolution00055Cabin = {
   unit: "words",
   completedAt: "2026-06-29T20:02:49.447Z",
   publishedAt: "2024-08-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/1741086/5-cabin",
-  externalId: "1741086",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1741086",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/1741086/5-cabin",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

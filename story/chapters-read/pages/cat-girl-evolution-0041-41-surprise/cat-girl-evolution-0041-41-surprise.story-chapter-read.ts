@@ -10,9 +10,13 @@ export const catGirlEvolution004141Surprise = {
   ownLength: 2115,
   unit: "words",
   publishedAt: "2025-10-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2705498/41-surprise",
-  externalId: "2705498",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2705498",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2705498/41-surprise",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

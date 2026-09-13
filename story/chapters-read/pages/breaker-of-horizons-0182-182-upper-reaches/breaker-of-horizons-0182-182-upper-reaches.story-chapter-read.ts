@@ -10,9 +10,13 @@ export const breakerOfHorizons0182182UpperReaches = {
   ownLength: 2135,
   unit: "words",
   publishedAt: "2022-02-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/855003/182-upper-reaches",
-  externalId: "855003",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "855003",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/855003/182-upper-reaches",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

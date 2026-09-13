@@ -10,9 +10,13 @@ export const catGirlEvolution006262ChaurenTheBackstory = {
   ownLength: 2758,
   unit: "words",
   publishedAt: "2025-12-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2846439/62-chauren-the-backstory",
-  externalId: "2846439",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2846439",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2846439/62-chauren-the-backstory",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

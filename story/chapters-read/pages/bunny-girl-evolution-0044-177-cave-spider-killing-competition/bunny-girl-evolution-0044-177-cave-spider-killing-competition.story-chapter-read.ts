@@ -11,9 +11,13 @@ export const bunnyGirlEvolution0044177CaveSpiderKillingCompetition = {
   ownProgress: 419,
   unit: "words",
   publishedAt: "2026-03-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3110914/177-cave-spider-killing-competition",
-  externalId: "3110914",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3110914",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3110914/177-cave-spider-killing-competition",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

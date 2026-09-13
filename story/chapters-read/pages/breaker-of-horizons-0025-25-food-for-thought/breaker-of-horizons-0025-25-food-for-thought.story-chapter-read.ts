@@ -10,9 +10,13 @@ export const breakerOfHorizons002525FoodForThought = {
   ownLength: 2369,
   unit: "words",
   publishedAt: "2020-07-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/530334/25-food-for-thought",
-  externalId: "530334",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "530334",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/530334/25-food-for-thought",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

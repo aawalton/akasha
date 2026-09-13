@@ -10,9 +10,13 @@ export const breakerOfHorizons006464BuildingBlobs = {
   ownLength: 2212,
   unit: "words",
   publishedAt: "2020-12-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/598000/64-building-blobs",
-  externalId: "598000",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "598000",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/598000/64-building-blobs",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

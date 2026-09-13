@@ -10,9 +10,13 @@ export const breakerOfHorizons001212UnravelingClues = {
   ownLength: 1955,
   unit: "words",
   publishedAt: "2020-06-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/509024/12-unraveling-clues",
-  externalId: "509024",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "509024",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/509024/12-unraveling-clues",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

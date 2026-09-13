@@ -8,11 +8,15 @@ export const bunnyGirlEvolution0033221EliseGetsANewRoommate = {
   position: 33,
   publishedAt: "2026-09-05",
   unit: "words",
-  externalId: "3914677",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3914677",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3914677/221-elise-gets-a-new-roommate",
+    },
+  ],
   title: "221 - Elise Gets a New Roommate",
   ownLength: 3256,
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3914677/221-elise-gets-a-new-roommate",
   prose: "txt",
 } as const satisfies StoryChapterRead

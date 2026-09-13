@@ -10,8 +10,13 @@ export const breakerOfHorizons003535APlea = {
   ownLength: 2144,
   unit: "words",
   publishedAt: "2020-08-31",
-  externalLink: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/547234/35-a-plea",
-  externalId: "547234",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "547234",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/547234/35-a-plea",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

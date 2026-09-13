@@ -10,9 +10,13 @@ export const breakerOfHorizons003131LinksInTheChain = {
   ownLength: 2990,
   unit: "words",
   publishedAt: "2020-08-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/540352/31-links-in-the-chain",
-  externalId: "540352",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "540352",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/540352/31-links-in-the-chain",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

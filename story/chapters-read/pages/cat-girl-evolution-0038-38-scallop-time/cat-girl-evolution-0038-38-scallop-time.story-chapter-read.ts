@@ -10,9 +10,13 @@ export const catGirlEvolution003838ScallopTime = {
   ownLength: 2355,
   unit: "words",
   publishedAt: "2025-10-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2687941/38-scallop-time",
-  externalId: "2687941",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2687941",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2687941/38-scallop-time",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

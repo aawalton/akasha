@@ -10,9 +10,13 @@ export const bunnyGirlEvolution0054186EndOfTheBreak = {
   ownLength: 3543,
   unit: "words",
   publishedAt: "2026-04-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3230126/186-end-of-the-break",
-  externalId: "3230126",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3230126",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3230126/186-end-of-the-break",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

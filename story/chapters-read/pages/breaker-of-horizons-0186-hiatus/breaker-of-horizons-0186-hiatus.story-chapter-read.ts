@@ -10,8 +10,13 @@ export const breakerOfHorizons0186Hiatus = {
   ownLength: 114,
   unit: "words",
   publishedAt: "2022-03-21",
-  externalLink: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/868784/hiatus",
-  externalId: "868784",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "868784",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/868784/hiatus",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

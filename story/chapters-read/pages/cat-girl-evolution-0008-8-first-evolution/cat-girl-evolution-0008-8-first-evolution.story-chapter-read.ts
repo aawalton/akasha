@@ -10,9 +10,13 @@ export const catGirlEvolution00088FirstEvolution = {
   ownLength: 1949,
   unit: "words",
   publishedAt: "2025-08-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2525578/8-first-evolution",
-  externalId: "2525578",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525578",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2525578/8-first-evolution",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

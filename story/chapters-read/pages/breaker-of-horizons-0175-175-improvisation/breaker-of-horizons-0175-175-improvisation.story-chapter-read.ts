@@ -10,9 +10,13 @@ export const breakerOfHorizons0175175Improvisation = {
   ownLength: 2395,
   unit: "words",
   publishedAt: "2022-02-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/837745/175-improvisation",
-  externalId: "837745",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "837745",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/837745/175-improvisation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const bunnyGirlEvolution0035169PreliminaryDungeonCompetitionTeam = {
   unit: "words",
   completedAt: "2026-06-29T20:03:47.425Z",
   publishedAt: "2026-02-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3007667/169-preliminary-dungeon-competition-team",
-  externalId: "3007667",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3007667",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3007667/169-preliminary-dungeon-competition-team",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

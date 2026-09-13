@@ -10,9 +10,13 @@ export const catGirlEvolution004646NewMinionsAcquired = {
   ownLength: 2394,
   unit: "words",
   publishedAt: "2025-11-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2739609/46-new-minions-acquired",
-  externalId: "2739609",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2739609",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2739609/46-new-minions-acquired",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

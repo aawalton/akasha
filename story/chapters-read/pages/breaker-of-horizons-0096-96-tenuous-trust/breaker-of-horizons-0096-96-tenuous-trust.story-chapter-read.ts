@@ -10,9 +10,13 @@ export const breakerOfHorizons009696TenuousTrust = {
   ownLength: 1804,
   unit: "words",
   publishedAt: "2021-04-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/656220/96-tenuous-trust",
-  externalId: "656220",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "656220",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/656220/96-tenuous-trust",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

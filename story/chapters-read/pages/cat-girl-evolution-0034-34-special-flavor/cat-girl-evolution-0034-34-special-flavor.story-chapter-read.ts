@@ -10,9 +10,13 @@ export const catGirlEvolution003434SpecialFlavor = {
   ownLength: 3104,
   unit: "words",
   publishedAt: "2025-10-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2665162/34-special-flavor",
-  externalId: "2665162",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2665162",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2665162/34-special-flavor",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

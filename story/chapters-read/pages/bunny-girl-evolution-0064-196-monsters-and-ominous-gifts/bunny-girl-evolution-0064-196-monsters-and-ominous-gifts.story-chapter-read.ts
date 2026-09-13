@@ -10,9 +10,13 @@ export const bunnyGirlEvolution0064196MonstersAndOminousGifts = {
   ownLength: 2880,
   unit: "words",
   publishedAt: "2026-05-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3373779/196-monsters-and-ominous-gifts",
-  externalId: "3373779",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3373779",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3373779/196-monsters-and-ominous-gifts",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

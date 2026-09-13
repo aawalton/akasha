@@ -10,9 +10,13 @@ export const breakerOfHorizons003232Captained = {
   ownLength: 2485,
   unit: "words",
   publishedAt: "2020-08-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/541821/32-captained",
-  externalId: "541821",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "541821",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/541821/32-captained",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

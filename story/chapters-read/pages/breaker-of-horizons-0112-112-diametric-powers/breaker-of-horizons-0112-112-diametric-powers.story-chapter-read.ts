@@ -10,9 +10,13 @@ export const breakerOfHorizons0112112DiametricPowers = {
   ownLength: 2016,
   unit: "words",
   publishedAt: "2021-05-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/689156/112-diametric-powers",
-  externalId: "689156",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "689156",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/689156/112-diametric-powers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

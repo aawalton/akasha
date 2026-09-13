@@ -10,9 +10,13 @@ export const catGirlEvolution002323SeafoodSquadron = {
   ownLength: 2302,
   unit: "words",
   publishedAt: "2025-09-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2599071/23-seafood-squadron",
-  externalId: "2599071",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2599071",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2599071/23-seafood-squadron",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const bunnyGirlEvolution0057189AdviceFromADragon = {
   ownLength: 3654,
   unit: "words",
   publishedAt: "2026-04-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3271403/189-advice-from-a-dragon",
-  externalId: "3271403",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3271403",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3271403/189-advice-from-a-dragon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

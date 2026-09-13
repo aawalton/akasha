@@ -10,9 +10,13 @@ export const breakerOfHorizons002121ArcanaReframed = {
   ownLength: 2152,
   unit: "words",
   publishedAt: "2020-07-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/523832/21-arcana-reframed",
-  externalId: "523832",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "523832",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/523832/21-arcana-reframed",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

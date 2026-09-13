@@ -10,9 +10,13 @@ export const breakerOfHorizons007070CallToAid = {
   ownLength: 2251,
   unit: "words",
   publishedAt: "2020-12-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/607558/70-call-to-aid",
-  externalId: "607558",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "607558",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/607558/70-call-to-aid",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

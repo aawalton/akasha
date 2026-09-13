@@ -10,9 +10,13 @@ export const catGirlEvolution005151Ryantown = {
   ownLength: 2762,
   unit: "words",
   publishedAt: "2025-11-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2773843/51-ryantown",
-  externalId: "2773843",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2773843",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2773843/51-ryantown",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

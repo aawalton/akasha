@@ -10,9 +10,13 @@ export const breakerOfHorizons009494Consolidation = {
   ownLength: 2013,
   unit: "words",
   publishedAt: "2021-03-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/652415/94-consolidation",
-  externalId: "652415",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "652415",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/652415/94-consolidation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

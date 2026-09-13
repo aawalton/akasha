@@ -12,9 +12,13 @@ export const bunnyGirlEvolution0022156TypesOfNatureMagic = {
   unit: "words",
   completedAt: "2026-06-29T20:03:22.387Z",
   publishedAt: "2025-12-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2864139/156-types-of-nature-magic",
-  externalId: "2864139",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2864139",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2864139/156-types-of-nature-magic",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

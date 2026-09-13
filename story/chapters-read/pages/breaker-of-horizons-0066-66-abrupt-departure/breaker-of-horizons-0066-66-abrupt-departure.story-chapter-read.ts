@@ -10,9 +10,13 @@ export const breakerOfHorizons006666AbruptDeparture = {
   ownLength: 2099,
   unit: "words",
   publishedAt: "2020-12-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/601292/66-abrupt-departure",
-  externalId: "601292",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "601292",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/601292/66-abrupt-departure",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

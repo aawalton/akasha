@@ -12,9 +12,13 @@ export const bunnyGirlEvolution0018109FreedomFunFey = {
   unit: "words",
   completedAt: "2026-06-29T20:03:14.601Z",
   publishedAt: "2025-06-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2381070/109-freedom-fun-fey",
-  externalId: "2381070",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2381070",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2381070/109-freedom-fun-fey",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

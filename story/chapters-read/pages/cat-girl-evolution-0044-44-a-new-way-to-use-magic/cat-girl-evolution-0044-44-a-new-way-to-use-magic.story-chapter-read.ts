@@ -10,9 +10,13 @@ export const catGirlEvolution004444ANewWayToUseMagic = {
   ownLength: 2442,
   unit: "words",
   publishedAt: "2025-11-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2724967/44-a-new-way-to-use-magic",
-  externalId: "2724967",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2724967",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2724967/44-a-new-way-to-use-magic",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

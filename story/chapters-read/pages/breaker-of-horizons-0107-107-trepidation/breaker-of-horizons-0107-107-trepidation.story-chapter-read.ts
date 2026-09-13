@@ -10,9 +10,13 @@ export const breakerOfHorizons0107107Trepidation = {
   ownLength: 2121,
   unit: "words",
   publishedAt: "2021-05-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/679868/107-trepidation",
-  externalId: "679868",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "679868",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/679868/107-trepidation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

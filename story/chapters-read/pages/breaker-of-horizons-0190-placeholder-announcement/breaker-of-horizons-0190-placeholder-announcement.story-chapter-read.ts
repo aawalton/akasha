@@ -10,9 +10,13 @@ export const breakerOfHorizons0190PlaceholderAnnouncement = {
   ownLength: 85,
   unit: "words",
   publishedAt: "2022-08-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/960794/placeholder-announcement",
-  externalId: "960794",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "960794",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/960794/placeholder-announcement",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

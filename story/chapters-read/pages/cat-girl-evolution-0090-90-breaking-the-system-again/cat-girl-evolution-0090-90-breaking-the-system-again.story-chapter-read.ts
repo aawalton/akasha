@@ -10,9 +10,13 @@ export const catGirlEvolution009090BreakingTheSystemAgain = {
   ownLength: 2638,
   unit: "words",
   publishedAt: "2026-02-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3066977/90-breaking-the-system-again",
-  externalId: "3066977",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3066977",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3066977/90-breaking-the-system-again",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

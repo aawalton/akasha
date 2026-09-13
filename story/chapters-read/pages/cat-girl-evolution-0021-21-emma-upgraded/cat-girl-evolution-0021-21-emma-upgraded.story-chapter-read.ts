@@ -10,9 +10,13 @@ export const catGirlEvolution002121EmmaUpgraded = {
   ownLength: 2607,
   unit: "words",
   publishedAt: "2025-09-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2586298/21-emma-upgraded",
-  externalId: "2586298",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2586298",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2586298/21-emma-upgraded",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

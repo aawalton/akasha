@@ -10,9 +10,13 @@ export const breakerOfHorizons005757SketchingFutures = {
   ownLength: 2428,
   unit: "words",
   publishedAt: "2020-11-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/585858/57-sketching-futures",
-  externalId: "585858",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "585858",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/585858/57-sketching-futures",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

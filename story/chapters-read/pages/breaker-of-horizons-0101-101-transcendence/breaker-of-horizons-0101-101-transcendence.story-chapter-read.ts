@@ -10,9 +10,13 @@ export const breakerOfHorizons0101101Transcendence = {
   ownLength: 2238,
   unit: "words",
   publishedAt: "2021-04-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/667374/101-transcendence",
-  externalId: "667374",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "667374",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/667374/101-transcendence",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

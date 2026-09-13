@@ -10,9 +10,13 @@ export const catGirlEvolution00099HouseCat = {
   ownLength: 2448,
   unit: "words",
   publishedAt: "2025-08-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2525593/9-house-cat",
-  externalId: "2525593",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525593",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2525593/9-house-cat",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

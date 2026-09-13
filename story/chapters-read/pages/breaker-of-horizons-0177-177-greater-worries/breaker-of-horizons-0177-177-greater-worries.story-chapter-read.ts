@@ -10,9 +10,13 @@ export const breakerOfHorizons0177177GreaterWorries = {
   ownLength: 2463,
   unit: "words",
   publishedAt: "2022-02-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/842745/177-greater-worries",
-  externalId: "842745",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "842745",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/842745/177-greater-worries",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

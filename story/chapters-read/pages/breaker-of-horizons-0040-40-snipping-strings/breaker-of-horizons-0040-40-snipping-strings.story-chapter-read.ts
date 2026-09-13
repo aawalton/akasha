@@ -10,9 +10,13 @@ export const breakerOfHorizons004040SnippingStrings = {
   ownLength: 2554,
   unit: "words",
   publishedAt: "2020-09-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/556023/40-snipping-strings",
-  externalId: "556023",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "556023",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/556023/40-snipping-strings",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

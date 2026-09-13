@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook006161RunForYourLife = {
   ownLength: 1603,
   unit: "words",
   publishedAt: "2025-02-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2092858/61-run-for-your-life",
-  externalId: "2092858",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2092858",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2092858/61-run-for-your-life",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

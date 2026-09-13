@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook0066Book2Chapter3Scout = 
   ownLength: 1028,
   unit: "words",
   publishedAt: "2025-05-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2264646/book-2-chapter-3--scout",
-  externalId: "2264646",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2264646",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2264646/book-2-chapter-3--scout",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

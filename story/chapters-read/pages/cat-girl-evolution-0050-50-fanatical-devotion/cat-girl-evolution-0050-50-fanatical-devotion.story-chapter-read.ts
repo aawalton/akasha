@@ -10,9 +10,13 @@ export const catGirlEvolution005050FanaticalDevotion = {
   ownLength: 2512,
   unit: "words",
   publishedAt: "2025-11-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2765335/50-fanatical-devotion",
-  externalId: "2765335",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2765335",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2765335/50-fanatical-devotion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

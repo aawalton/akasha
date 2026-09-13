@@ -12,9 +12,13 @@ export const bunnyGirlEvolution0034168SkillsAndSoulMeditation = {
   unit: "words",
   completedAt: "2026-06-29T20:03:45.486Z",
   publishedAt: "2026-01-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2997482/168-skills-and-soul-meditation",
-  externalId: "2997482",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2997482",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2997482/168-skills-and-soul-meditation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

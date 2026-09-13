@@ -10,9 +10,13 @@ export const breakerOfHorizons0137137Monstrous = {
   ownLength: 1811,
   unit: "words",
   publishedAt: "2021-08-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/738555/137-monstrous",
-  externalId: "738555",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "738555",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/738555/137-monstrous",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

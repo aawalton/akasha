@@ -10,9 +10,13 @@ export const breakerOfHorizons005252SeismicShifts = {
   ownLength: 2539,
   unit: "words",
   publishedAt: "2020-10-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/576197/52-seismic-shifts",
-  externalId: "576197",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "576197",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/576197/52-seismic-shifts",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

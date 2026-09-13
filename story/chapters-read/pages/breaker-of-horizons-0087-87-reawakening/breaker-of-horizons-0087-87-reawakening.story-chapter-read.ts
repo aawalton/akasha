@@ -10,9 +10,13 @@ export const breakerOfHorizons008787Reawakening = {
   ownLength: 2107,
   unit: "words",
   publishedAt: "2021-03-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/639581/87-reawakening",
-  externalId: "639581",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "639581",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/639581/87-reawakening",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

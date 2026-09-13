@@ -10,9 +10,13 @@ export const breakerOfHorizons00022AThiefOfMemory = {
   ownLength: 2446,
   unit: "words",
   publishedAt: "2020-05-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/493139/2-a-thief-of-memory",
-  externalId: "493139",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "493139",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/493139/2-a-thief-of-memory",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

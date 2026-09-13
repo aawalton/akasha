@@ -10,9 +10,13 @@ export const breakerOfHorizons0130130TrueSight = {
   ownLength: 2199,
   unit: "words",
   publishedAt: "2021-07-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/724968/130-true-sight",
-  externalId: "724968",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "724968",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/724968/130-true-sight",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

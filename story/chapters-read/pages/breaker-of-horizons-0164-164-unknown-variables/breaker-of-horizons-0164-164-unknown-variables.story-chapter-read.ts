@@ -10,9 +10,13 @@ export const breakerOfHorizons0164164UnknownVariables = {
   ownLength: 2115,
   unit: "words",
   publishedAt: "2021-12-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/813890/164-unknown-variables",
-  externalId: "813890",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "813890",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/813890/164-unknown-variables",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

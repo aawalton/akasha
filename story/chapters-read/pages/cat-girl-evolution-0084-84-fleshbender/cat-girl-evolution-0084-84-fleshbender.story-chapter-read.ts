@@ -10,9 +10,13 @@ export const catGirlEvolution008484Fleshbender = {
   ownLength: 2895,
   unit: "words",
   publishedAt: "2026-02-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3010928/84-fleshbender",
-  externalId: "3010928",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3010928",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3010928/84-fleshbender",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

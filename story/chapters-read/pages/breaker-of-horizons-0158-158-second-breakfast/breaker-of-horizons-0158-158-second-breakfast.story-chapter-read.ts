@@ -10,9 +10,13 @@ export const breakerOfHorizons0158158SecondBreakfast = {
   ownLength: 1963,
   unit: "words",
   publishedAt: "2021-12-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/801635/158-second-breakfast",
-  externalId: "801635",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "801635",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/801635/158-second-breakfast",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

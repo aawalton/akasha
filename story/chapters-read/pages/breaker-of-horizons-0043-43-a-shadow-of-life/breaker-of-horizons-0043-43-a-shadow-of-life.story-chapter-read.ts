@@ -10,9 +10,13 @@ export const breakerOfHorizons004343AShadowOfLife = {
   ownLength: 2508,
   unit: "words",
   publishedAt: "2020-09-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/561299/43-a-shadow-of-life",
-  externalId: "561299",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "561299",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/561299/43-a-shadow-of-life",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

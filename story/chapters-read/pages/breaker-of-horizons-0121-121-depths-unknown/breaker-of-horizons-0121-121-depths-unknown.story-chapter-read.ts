@@ -10,9 +10,13 @@ export const breakerOfHorizons0121121DepthsUnknown = {
   ownLength: 2136,
   unit: "words",
   publishedAt: "2021-06-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/707223/121-depths-unknown",
-  externalId: "707223",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "707223",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/707223/121-depths-unknown",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

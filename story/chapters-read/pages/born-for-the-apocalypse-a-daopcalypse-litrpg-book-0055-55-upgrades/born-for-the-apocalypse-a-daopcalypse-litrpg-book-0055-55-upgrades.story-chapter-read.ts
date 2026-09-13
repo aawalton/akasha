@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook005555Upgrades = {
   ownLength: 2727,
   unit: "words",
   publishedAt: "2025-02-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2059499/55-upgrades",
-  externalId: "2059499",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2059499",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2059499/55-upgrades",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

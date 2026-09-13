@@ -10,9 +10,13 @@ export const catGirlEvolution003636TearfulReunion = {
   ownLength: 2904,
   unit: "words",
   publishedAt: "2025-10-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2677705/36-tearful-reunion",
-  externalId: "2677705",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2677705",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2677705/36-tearful-reunion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const breakerOfHorizons006262DomesticAffairs = {
   ownLength: 2330,
   unit: "words",
   publishedAt: "2020-12-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/594516/62-domestic-affairs",
-  externalId: "594516",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "594516",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/594516/62-domestic-affairs",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

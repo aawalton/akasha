@@ -10,9 +10,13 @@ export const breakerOfHorizons008989Manipulated = {
   ownLength: 2396,
   unit: "words",
   publishedAt: "2021-03-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/643415/89-manipulated",
-  externalId: "643415",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "643415",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/643415/89-manipulated",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

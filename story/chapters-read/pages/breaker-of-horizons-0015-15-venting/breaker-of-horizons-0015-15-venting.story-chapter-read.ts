@@ -10,9 +10,13 @@ export const breakerOfHorizons001515Venting = {
   ownLength: 2456,
   unit: "words",
   publishedAt: "2020-06-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/514176/15-venting",
-  externalId: "514176",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "514176",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/514176/15-venting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

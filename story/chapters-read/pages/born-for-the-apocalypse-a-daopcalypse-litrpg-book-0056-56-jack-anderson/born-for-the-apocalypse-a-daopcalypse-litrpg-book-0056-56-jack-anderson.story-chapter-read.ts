@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook005656JackAnderson = {
   ownLength: 2596,
   unit: "words",
   publishedAt: "2025-02-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2065278/56-jack-anderson",
-  externalId: "2065278",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2065278",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2065278/56-jack-anderson",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

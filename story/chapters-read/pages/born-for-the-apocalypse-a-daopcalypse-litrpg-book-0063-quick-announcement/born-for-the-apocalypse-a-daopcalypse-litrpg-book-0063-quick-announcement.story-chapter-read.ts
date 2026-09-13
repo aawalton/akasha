@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook0063QuickAnnouncement = {
   ownLength: 261,
   unit: "words",
   publishedAt: "2025-03-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2123238/quick-announcement",
-  externalId: "2123238",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2123238",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2123238/quick-announcement",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

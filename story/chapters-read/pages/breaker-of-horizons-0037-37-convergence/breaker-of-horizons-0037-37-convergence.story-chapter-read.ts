@@ -10,9 +10,13 @@ export const breakerOfHorizons003737Convergence = {
   ownLength: 2277,
   unit: "words",
   publishedAt: "2020-09-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/550879/37-convergence",
-  externalId: "550879",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "550879",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/550879/37-convergence",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const catGirlEvolution008686LongTermPreparations = {
   ownLength: 2841,
   unit: "words",
   publishedAt: "2026-02-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3024225/86-long-term-preparations",
-  externalId: "3024225",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3024225",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3024225/86-long-term-preparations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

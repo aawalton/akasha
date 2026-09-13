@@ -10,9 +10,13 @@ export const bunnyGirlEvolution0068200IFeelSoUseless = {
   ownLength: 3920,
   unit: "words",
   publishedAt: "2026-05-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3435155/200-i-feel-so-useless",
-  externalId: "3435155",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3435155",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3435155/200-i-feel-so-useless",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const catGirlEvolution002525NamedTendencies = {
   ownLength: 2185,
   unit: "words",
   publishedAt: "2025-09-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2611933/25-named-tendencies",
-  externalId: "2611933",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2611933",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2611933/25-named-tendencies",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

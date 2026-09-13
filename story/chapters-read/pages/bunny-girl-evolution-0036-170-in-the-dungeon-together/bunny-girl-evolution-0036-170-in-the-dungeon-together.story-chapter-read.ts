@@ -12,9 +12,13 @@ export const bunnyGirlEvolution0036170InTheDungeonTogether = {
   unit: "words",
   completedAt: "2026-06-29T20:03:49.353Z",
   publishedAt: "2026-02-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3021298/170-in-the-dungeon-together",
-  externalId: "3021298",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3021298",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3021298/170-in-the-dungeon-together",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

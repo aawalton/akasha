@@ -10,9 +10,13 @@ export const breakerOfHorizons0109109ForcedViolence = {
   ownLength: 1905,
   unit: "words",
   publishedAt: "2021-05-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/683901/109-forced-violence",
-  externalId: "683901",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "683901",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/683901/109-forced-violence",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

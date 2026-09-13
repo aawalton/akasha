@@ -10,9 +10,13 @@ export const breakerOfHorizons006363ThwartedPlans = {
   ownLength: 1972,
   unit: "words",
   publishedAt: "2020-12-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/596462/63-thwarted-plans",
-  externalId: "596462",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "596462",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/596462/63-thwarted-plans",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

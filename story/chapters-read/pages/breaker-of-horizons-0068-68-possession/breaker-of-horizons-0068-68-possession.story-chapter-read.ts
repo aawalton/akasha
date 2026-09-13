@@ -10,9 +10,13 @@ export const breakerOfHorizons006868Possession = {
   ownLength: 2158,
   unit: "words",
   publishedAt: "2020-12-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/604470/68-possession",
-  externalId: "604470",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "604470",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/604470/68-possession",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

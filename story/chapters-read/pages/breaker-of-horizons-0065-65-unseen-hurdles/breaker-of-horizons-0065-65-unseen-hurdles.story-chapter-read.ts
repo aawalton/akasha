@@ -10,9 +10,13 @@ export const breakerOfHorizons006565UnseenHurdles = {
   ownLength: 2072,
   unit: "words",
   publishedAt: "2020-12-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/599826/65-unseen-hurdles",
-  externalId: "599826",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "599826",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/599826/65-unseen-hurdles",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

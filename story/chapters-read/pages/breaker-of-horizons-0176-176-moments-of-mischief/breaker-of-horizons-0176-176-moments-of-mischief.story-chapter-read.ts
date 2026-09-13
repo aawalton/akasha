@@ -10,9 +10,13 @@ export const breakerOfHorizons0176176MomentsOfMischief = {
   ownLength: 2138,
   unit: "words",
   publishedAt: "2022-02-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/840578/176-moments-of-mischief",
-  externalId: "840578",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "840578",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/840578/176-moments-of-mischief",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

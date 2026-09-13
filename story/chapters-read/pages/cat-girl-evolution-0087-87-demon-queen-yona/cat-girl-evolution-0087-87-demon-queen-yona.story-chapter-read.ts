@@ -10,9 +10,13 @@ export const catGirlEvolution008787DemonQueenYona = {
   ownLength: 2300,
   unit: "words",
   publishedAt: "2026-02-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3035367/87-demon-queen-yona",
-  externalId: "3035367",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3035367",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3035367/87-demon-queen-yona",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

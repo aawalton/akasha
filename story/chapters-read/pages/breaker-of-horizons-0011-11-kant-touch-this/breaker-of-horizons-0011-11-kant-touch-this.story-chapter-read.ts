@@ -10,9 +10,13 @@ export const breakerOfHorizons001111KantTouchThis = {
   ownLength: 2226,
   unit: "words",
   publishedAt: "2020-06-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/507485/11-kant-touch-this",
-  externalId: "507485",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "507485",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/507485/11-kant-touch-this",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

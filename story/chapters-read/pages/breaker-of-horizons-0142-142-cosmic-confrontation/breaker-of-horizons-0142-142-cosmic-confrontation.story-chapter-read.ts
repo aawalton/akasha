@@ -10,9 +10,13 @@ export const breakerOfHorizons0142142CosmicConfrontation = {
   ownLength: 2112,
   unit: "words",
   publishedAt: "2021-09-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/747743/142-cosmic-confrontation",
-  externalId: "747743",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "747743",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/747743/142-cosmic-confrontation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

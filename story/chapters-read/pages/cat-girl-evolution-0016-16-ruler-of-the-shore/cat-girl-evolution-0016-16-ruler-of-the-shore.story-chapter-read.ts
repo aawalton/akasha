@@ -10,9 +10,13 @@ export const catGirlEvolution001616RulerOfTheShore = {
   ownLength: 2211,
   unit: "words",
   publishedAt: "2025-08-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2554304/16-ruler-of-the-shore",
-  externalId: "2554304",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2554304",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2554304/16-ruler-of-the-shore",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

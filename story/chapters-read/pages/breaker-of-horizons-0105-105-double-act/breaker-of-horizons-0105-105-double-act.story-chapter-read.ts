@@ -10,9 +10,13 @@ export const breakerOfHorizons0105105DoubleAct = {
   ownLength: 2358,
   unit: "words",
   publishedAt: "2021-05-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/675676/105-double-act",
-  externalId: "675676",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "675676",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/675676/105-double-act",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

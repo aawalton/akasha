@@ -10,9 +10,13 @@ export const breakerOfHorizons0183183ABusinessArrangement = {
   ownLength: 2016,
   unit: "words",
   publishedAt: "2022-03-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/857077/183-a-business-arrangement",
-  externalId: "857077",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "857077",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/857077/183-a-business-arrangement",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

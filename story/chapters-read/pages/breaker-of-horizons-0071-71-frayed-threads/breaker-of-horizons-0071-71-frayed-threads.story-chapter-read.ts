@@ -10,9 +10,13 @@ export const breakerOfHorizons007171FrayedThreads = {
   ownLength: 1945,
   unit: "words",
   publishedAt: "2021-01-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/609465/71-frayed-threads",
-  externalId: "609465",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "609465",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/609465/71-frayed-threads",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

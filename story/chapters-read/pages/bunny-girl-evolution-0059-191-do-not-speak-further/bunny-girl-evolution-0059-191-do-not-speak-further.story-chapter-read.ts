@@ -10,9 +10,13 @@ export const bunnyGirlEvolution0059191DoNotSpeakFurther = {
   ownLength: 3295,
   unit: "words",
   publishedAt: "2026-04-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3299618/191-do-not-speak-further",
-  externalId: "3299618",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3299618",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3299618/191-do-not-speak-further",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

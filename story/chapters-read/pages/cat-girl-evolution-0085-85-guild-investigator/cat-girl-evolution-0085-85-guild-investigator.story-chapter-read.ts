@@ -10,9 +10,13 @@ export const catGirlEvolution008585GuildInvestigator = {
   ownLength: 3142,
   unit: "words",
   publishedAt: "2026-02-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3017485/85-guild-investigator",
-  externalId: "3017485",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3017485",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3017485/85-guild-investigator",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

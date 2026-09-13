@@ -10,9 +10,13 @@ export const breakerOfHorizons0141141UnveilingHistory = {
   ownLength: 2034,
   unit: "words",
   publishedAt: "2021-09-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/746005/141-unveiling-history",
-  externalId: "746005",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "746005",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/746005/141-unveiling-history",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

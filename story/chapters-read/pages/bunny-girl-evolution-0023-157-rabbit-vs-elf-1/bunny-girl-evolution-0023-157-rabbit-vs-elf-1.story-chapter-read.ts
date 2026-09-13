@@ -12,9 +12,13 @@ export const bunnyGirlEvolution0023157RabbitVsElf1 = {
   unit: "words",
   completedAt: "2026-06-29T20:03:24.305Z",
   publishedAt: "2025-12-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2872411/157-rabbit-vs-elf-1",
-  externalId: "2872411",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2872411",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2872411/157-rabbit-vs-elf-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

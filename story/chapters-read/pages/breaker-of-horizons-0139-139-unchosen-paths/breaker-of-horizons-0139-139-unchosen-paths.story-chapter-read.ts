@@ -10,9 +10,13 @@ export const breakerOfHorizons0139139UnchosenPaths = {
   ownLength: 2105,
   unit: "words",
   publishedAt: "2021-08-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/742394/139-unchosen-paths",
-  externalId: "742394",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "742394",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/742394/139-unchosen-paths",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

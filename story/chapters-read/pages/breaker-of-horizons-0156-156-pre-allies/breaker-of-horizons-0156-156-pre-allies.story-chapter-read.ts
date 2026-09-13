@@ -10,9 +10,13 @@ export const breakerOfHorizons0156156PreAllies = {
   ownLength: 1956,
   unit: "words",
   publishedAt: "2021-11-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/796715/156-pre-allies",
-  externalId: "796715",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "796715",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/796715/156-pre-allies",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

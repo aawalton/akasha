@@ -10,9 +10,13 @@ export const breakerOfHorizons0184184HealingAndHarm = {
   ownLength: 2282,
   unit: "words",
   publishedAt: "2022-03-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/861831/184-healing-and-harm",
-  externalId: "861831",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "861831",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/861831/184-healing-and-harm",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

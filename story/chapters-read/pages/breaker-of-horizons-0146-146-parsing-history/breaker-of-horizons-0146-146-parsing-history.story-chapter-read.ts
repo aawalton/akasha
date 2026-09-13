@@ -10,9 +10,13 @@ export const breakerOfHorizons0146146ParsingHistory = {
   ownLength: 2108,
   unit: "words",
   publishedAt: "2021-09-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/755406/146-parsing-history",
-  externalId: "755406",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "755406",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/755406/146-parsing-history",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

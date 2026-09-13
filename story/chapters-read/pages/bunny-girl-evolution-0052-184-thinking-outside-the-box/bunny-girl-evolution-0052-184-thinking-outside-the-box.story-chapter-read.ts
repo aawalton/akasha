@@ -10,9 +10,13 @@ export const bunnyGirlEvolution0052184ThinkingOutsideTheBox = {
   ownLength: 2978,
   unit: "words",
   publishedAt: "2026-03-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3209352/184-thinking-outside-the-box",
-  externalId: "3209352",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3209352",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3209352/184-thinking-outside-the-box",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const breakerOfHorizons001414Spillage = {
   ownLength: 2371,
   unit: "words",
   publishedAt: "2020-06-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/512345/14-spillage",
-  externalId: "512345",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "512345",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/512345/14-spillage",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const bunnyGirlEvolution0058190SparringWithTheGiantess = {
   ownLength: 3303,
   unit: "words",
   publishedAt: "2026-04-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3288502/190-sparring-with-the-giantess",
-  externalId: "3288502",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3288502",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3288502/190-sparring-with-the-giantess",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

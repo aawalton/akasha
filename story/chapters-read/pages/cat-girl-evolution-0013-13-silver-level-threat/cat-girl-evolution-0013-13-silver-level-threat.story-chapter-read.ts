@@ -10,9 +10,13 @@ export const catGirlEvolution001313SilverLevelThreat = {
   ownLength: 2672,
   unit: "words",
   publishedAt: "2025-08-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2540190/13-silver-level-threat",
-  externalId: "2540190",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2540190",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2540190/13-silver-level-threat",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

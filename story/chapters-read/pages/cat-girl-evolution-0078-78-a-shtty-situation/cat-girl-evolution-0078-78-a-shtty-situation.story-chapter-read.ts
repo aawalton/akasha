@@ -10,9 +10,13 @@ export const catGirlEvolution007878AShttySituation = {
   ownLength: 2890,
   unit: "words",
   publishedAt: "2026-01-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2963512/78-a-shtty-situation",
-  externalId: "2963512",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2963512",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2963512/78-a-shtty-situation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

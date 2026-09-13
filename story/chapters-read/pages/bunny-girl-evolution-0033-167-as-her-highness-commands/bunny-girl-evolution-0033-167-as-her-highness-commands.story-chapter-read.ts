@@ -12,9 +12,13 @@ export const bunnyGirlEvolution0033167AsHerHighnessCommands = {
   unit: "words",
   completedAt: "2026-06-29T20:03:43.586Z",
   publishedAt: "2026-01-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2983504/167-as-her-highness-commands",
-  externalId: "2983504",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2983504",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2983504/167-as-her-highness-commands",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

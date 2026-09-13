@@ -10,9 +10,13 @@ export const bunnyGirlEvolution0046179InTheDungeonSDepths = {
   ownLength: 3754,
   unit: "words",
   publishedAt: "2026-03-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3135822/179-in-the-dungeons-depths",
-  externalId: "3135822",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3135822",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3135822/179-in-the-dungeons-depths",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

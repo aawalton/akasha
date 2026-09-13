@@ -10,9 +10,13 @@ export const breakerOfHorizons001717ABreathOfRelief = {
   ownLength: 2329,
   unit: "words",
   publishedAt: "2020-06-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/517349/17-a-breath-of-relief",
-  externalId: "517349",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "517349",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/517349/17-a-breath-of-relief",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

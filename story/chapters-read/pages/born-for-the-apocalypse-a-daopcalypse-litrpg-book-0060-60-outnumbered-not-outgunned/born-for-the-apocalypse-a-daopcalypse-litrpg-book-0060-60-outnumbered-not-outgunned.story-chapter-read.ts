@@ -10,9 +10,13 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook006060OutnumberedNotOutgu
   ownLength: 1907,
   unit: "words",
   publishedAt: "2025-02-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2090486/60-outnumbered-not-outgunned",
-  externalId: "2090486",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2090486",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2090486/60-outnumbered-not-outgunned",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

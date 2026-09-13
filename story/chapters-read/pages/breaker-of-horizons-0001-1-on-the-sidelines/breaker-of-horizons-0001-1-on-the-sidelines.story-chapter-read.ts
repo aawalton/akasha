@@ -10,9 +10,13 @@ export const breakerOfHorizons00011OnTheSidelines = {
   ownLength: 2062,
   unit: "words",
   publishedAt: "2020-04-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/490185/1-on-the-sidelines",
-  externalId: "490185",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "490185",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/490185/1-on-the-sidelines",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

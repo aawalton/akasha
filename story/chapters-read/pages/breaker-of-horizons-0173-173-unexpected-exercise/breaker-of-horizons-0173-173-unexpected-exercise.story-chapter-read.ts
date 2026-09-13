@@ -10,9 +10,13 @@ export const breakerOfHorizons0173173UnexpectedExercise = {
   ownLength: 2193,
   unit: "words",
   publishedAt: "2022-01-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/832897/173-unexpected-exercise",
-  externalId: "832897",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "832897",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/832897/173-unexpected-exercise",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

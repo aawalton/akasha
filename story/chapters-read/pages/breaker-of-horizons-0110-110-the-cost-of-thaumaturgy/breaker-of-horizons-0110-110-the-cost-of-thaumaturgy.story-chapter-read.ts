@@ -10,9 +10,13 @@ export const breakerOfHorizons0110110TheCostOfThaumaturgy = {
   ownLength: 2170,
   unit: "words",
   publishedAt: "2021-05-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/685594/110-the-cost-of-thaumaturgy",
-  externalId: "685594",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "685594",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/685594/110-the-cost-of-thaumaturgy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

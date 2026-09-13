@@ -10,9 +10,13 @@ export const breakerOfHorizons002323PiercingTheVeil = {
   ownLength: 2585,
   unit: "words",
   publishedAt: "2020-07-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/527163/23-piercing-the-veil",
-  externalId: "527163",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "527163",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/527163/23-piercing-the-veil",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

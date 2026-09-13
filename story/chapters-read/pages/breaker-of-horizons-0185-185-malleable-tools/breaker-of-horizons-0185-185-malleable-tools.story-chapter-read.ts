@@ -10,9 +10,13 @@ export const breakerOfHorizons0185185MalleableTools = {
   ownLength: 2066,
   unit: "words",
   publishedAt: "2022-03-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/864513/185-malleable-tools",
-  externalId: "864513",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "864513",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/864513/185-malleable-tools",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead
