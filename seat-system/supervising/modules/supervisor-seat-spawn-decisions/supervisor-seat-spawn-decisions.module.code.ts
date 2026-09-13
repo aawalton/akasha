@@ -9,7 +9,7 @@ import {
   readRemoteControlQuestion,
   remoteControlFallback,
   seatLabel,
-} from "akasha/seat-system/supervising/modules/supervisor-remote-control-default/supervisor-remote-control-default.module.code.ts"
+} from "akasha/agents/seats/supervisors/modules/supervisor-remote-control-default/supervisor-remote-control-default.module.code.ts"
 import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 const SeatSpawnAnswerShape = shape.object({

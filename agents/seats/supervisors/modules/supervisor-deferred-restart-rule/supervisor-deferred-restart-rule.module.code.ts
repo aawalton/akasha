@@ -2,7 +2,7 @@ import {
   askRule,
   type RuleAnswer,
 } from "akasha/agents/seats/supervisors/modules/supervisor-ask-rule/supervisor-ask-rule.module.code.ts"
-import type { AskDecide } from "akasha/seat-system/supervising/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"
+import type { AskDecide } from "akasha/agents/seats/supervisors/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"
 import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 const RULE = "deferredRestartRule"

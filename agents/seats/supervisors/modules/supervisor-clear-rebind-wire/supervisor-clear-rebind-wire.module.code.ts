@@ -7,11 +7,11 @@ import {
   performClearRebind,
 } from "akasha/agents/seats/supervisors/modules/supervisor-rebind/supervisor-rebind.module.code.ts"
 import type { ClearRebindDeps } from "akasha/agents/seats/supervisors/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
+import { watchSeatRotation } from "akasha/agents/seats/supervisors/modules/supervisor-rotation-watch/supervisor-rotation-watch.module.code.ts"
 import {
   setCurrentAgentIdForSelfHeal,
   setCurrentSessionIdForSelfHeal,
 } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import { watchSeatRotation } from "akasha/seat-system/supervising/modules/supervisor-rotation-watch/supervisor-rotation-watch.module.code.ts"
 import type { AgentIdHandle } from "akasha/seat-system/supervising/modules/supervisor-self-identity/supervisor-self-identity.module.code.ts"
 import { setRestoreConsoleHandle } from "akasha/seat-system/supervising/modules/supervisor-state/supervisor-state.module.code.ts"
 import type { AgentProcess } from "akasha/seat-system/supervising/modules/supervisor-types/supervisor-types.module.code.ts"

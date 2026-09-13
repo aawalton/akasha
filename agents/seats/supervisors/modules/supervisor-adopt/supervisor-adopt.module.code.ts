@@ -20,8 +20,8 @@ import {
   signalPid,
   waitForPidExit,
 } from "akasha/agents/seats/supervisors/modules/supervisor-exec/supervisor-exec.module.code.ts"
+import { resolveRemoteControlEnv } from "akasha/agents/seats/supervisors/modules/supervisor-remote-control-env/supervisor-remote-control-env.module.code.ts"
 import type { SupervisorHandoff } from "akasha/seat-system/self-healing/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
-import { resolveRemoteControlEnv } from "akasha/seat-system/supervising/modules/supervisor-remote-control-env/supervisor-remote-control-env.module.code.ts"
 import type { InheritedProc } from "akasha/seat-system/supervising/modules/supervisor-types/supervisor-types.module.code.ts"
 import { asRecord } from "akasha/utils/narrow/modules/as-record/as-record.module.code.ts"
 
