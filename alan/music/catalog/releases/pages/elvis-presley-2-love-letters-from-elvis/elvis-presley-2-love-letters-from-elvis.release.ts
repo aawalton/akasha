@@ -5,7 +5,7 @@ export const elvisPresley2LoveLettersFromElvis = {
   type: "release",
   slug: "elvis-presley-2-love-letters-from-elvis",
   title: "Love Letters from Elvis",
-  partOfCollections: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley"],
   position: 0,
   ownLength: 40.41415,
   ownProgress: 40.41415,

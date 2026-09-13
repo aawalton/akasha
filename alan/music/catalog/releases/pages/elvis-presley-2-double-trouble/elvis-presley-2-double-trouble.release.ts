@@ -5,7 +5,7 @@ export const elvisPresley2DoubleTrouble = {
   type: "release",
   slug: "elvis-presley-2-double-trouble",
   title: "Double Trouble",
-  partOfCollections: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley"],
   position: 0,
   ownLength: 23.528167,
   ownProgress: 23.528167,

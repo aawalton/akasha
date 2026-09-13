@@ -5,7 +5,7 @@ export const elvisPresley2BossaNovaBabyTheUltimateElvisPresleyPartyAlbum = {
   type: "release",
   slug: "elvis-presley-2-bossa-nova-baby-the-ultimate-elvis-presley-party-album",
   title: "Bossa Nova Baby: The Ultimate Elvis Presley Party Album",
-  partOfCollections: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley"],
   position: 0,
   ownLength: 43.572367,
   ownProgress: 43.572367,

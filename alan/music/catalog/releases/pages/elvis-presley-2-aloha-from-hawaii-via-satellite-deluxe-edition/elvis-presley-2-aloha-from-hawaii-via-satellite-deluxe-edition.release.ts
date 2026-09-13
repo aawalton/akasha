@@ -5,7 +5,7 @@ export const elvisPresley2AlohaFromHawaiiViaSatelliteDeluxeEdition = {
   type: "release",
   slug: "elvis-presley-2-aloha-from-hawaii-via-satellite-deluxe-edition",
   title: "Aloha From Hawaii Via Satellite (Deluxe Edition)",
-  partOfCollections: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley"],
   position: 0,
   ownLength: 171.720233,
   ownProgress: 171.720233,

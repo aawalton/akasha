@@ -5,7 +5,7 @@ export const elvisPresley2ChristmasWithElvisAndTheRoyalPhilharmonicOrchestraDelu
   type: "release",
   slug: "elvis-presley-2-christmas-with-elvis-and-the-royal-philharmonic-orchestra-deluxe",
   title: "Christmas with Elvis and the Royal Philharmonic Orchestra (Deluxe)",
-  partOfCollections: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley"],
   position: 0,
   ownLength: 50.715433,
   ownProgress: 50.715433,

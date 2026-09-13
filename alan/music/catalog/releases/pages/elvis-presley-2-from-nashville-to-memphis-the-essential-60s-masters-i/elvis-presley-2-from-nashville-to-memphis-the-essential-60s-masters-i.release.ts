@@ -5,7 +5,7 @@ export const elvisPresley2FromNashvilleToMemphisTheEssential60sMastersI = {
   type: "release",
   slug: "elvis-presley-2-from-nashville-to-memphis-the-essential-60s-masters-i",
   title: "From Nashville To Memphis - The Essential 60s Masters I",
-  partOfCollections: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley"],
   position: 0,
   ownLength: 347.708983,
   ownProgress: 347.708983,

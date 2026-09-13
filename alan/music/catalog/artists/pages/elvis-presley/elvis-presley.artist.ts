@@ -1,9 +1,9 @@
 import type { Artist } from "akasha/alan/music/catalog/artists/artist.page-type.types.ts"
 
-export const elvisPresley2 = {
+export const elvisPresley = {
   id: "01a06803-676b-700b-be3d-e89a990f229f",
   type: "artist",
-  slug: "elvis-presley-2",
+  slug: "elvis-presley",
   title: "Elvis Presley",
   partOfCollections: ["artists"],
   position: 0,

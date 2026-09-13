@@ -5,7 +5,7 @@ export const elvisPresley2TodayLegacyEdition = {
   type: "release",
   slug: "elvis-presley-2-today-legacy-edition",
   title: "Today (Legacy Edition)",
-  partOfCollections: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley"],
   position: 0,
   ownLength: 132.471067,
   ownProgress: 132.471067,

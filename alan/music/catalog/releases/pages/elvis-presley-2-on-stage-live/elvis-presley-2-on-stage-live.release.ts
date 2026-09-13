@@ -5,7 +5,7 @@ export const elvisPresley2OnStageLive = {
   type: "release",
   slug: "elvis-presley-2-on-stage-live",
   title: "On Stage (Live)",
-  partOfCollections: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley"],
   position: 0,
   ownLength: 31.844183,
   ownProgress: 31.844183,

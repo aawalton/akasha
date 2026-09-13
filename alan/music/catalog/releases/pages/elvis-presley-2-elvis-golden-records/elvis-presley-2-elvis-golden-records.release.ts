@@ -5,7 +5,7 @@ export const elvisPresley2ElvisGoldenRecords = {
   type: "release",
   slug: "elvis-presley-2-elvis-golden-records",
   title: "Elvis' Golden Records",
-  partOfCollections: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley"],
   position: 0,
   ownLength: 33.267283,
   ownProgress: 33.267283,

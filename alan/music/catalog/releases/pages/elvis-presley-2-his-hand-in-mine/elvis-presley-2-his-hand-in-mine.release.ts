@@ -5,7 +5,7 @@ export const elvisPresley2HisHandInMine = {
   type: "release",
   slug: "elvis-presley-2-his-hand-in-mine",
   title: "His Hand in Mine",
-  partOfCollections: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley"],
   position: 0,
   ownLength: 27.925267,
   ownProgress: 27.925267,

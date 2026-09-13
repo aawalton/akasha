@@ -5,7 +5,7 @@ export const elvisPresley2MoodyBlue = {
   type: "release",
   slug: "elvis-presley-2-moody-blue",
   title: "Moody Blue",
-  partOfCollections: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley"],
   position: 0,
   ownLength: 31.105933,
   ownProgress: 31.105933,

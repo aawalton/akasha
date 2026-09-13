@@ -5,7 +5,7 @@ export const elvisPresley2ParadiseHawaiianStyle = {
   type: "release",
   slug: "elvis-presley-2-paradise-hawaiian-style",
   title: "Paradise, Hawaiian Style",
-  partOfCollections: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley"],
   position: 0,
   ownLength: 22.175067,
   ownProgress: 22.175067,

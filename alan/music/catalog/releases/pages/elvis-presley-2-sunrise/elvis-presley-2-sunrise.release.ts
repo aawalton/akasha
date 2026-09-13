@@ -5,7 +5,7 @@ export const elvisPresley2Sunrise = {
   type: "release",
   slug: "elvis-presley-2-sunrise",
   title: "Sunrise",
-  partOfCollections: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley"],
   position: 0,
   ownLength: 92.1447,
   ownProgress: 92.1447,

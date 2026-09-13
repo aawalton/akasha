@@ -5,7 +5,7 @@ export const elvisPresley2PotLuck = {
   type: "release",
   slug: "elvis-presley-2-pot-luck",
   title: "Pot Luck",
-  partOfCollections: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley"],
   position: 0,
   ownLength: 28.4957,
   ownProgress: 28.4957,

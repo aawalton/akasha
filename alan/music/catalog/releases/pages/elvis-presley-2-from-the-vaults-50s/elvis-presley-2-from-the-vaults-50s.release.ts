@@ -5,7 +5,7 @@ export const elvisPresley2FromTheVaults50s = {
   type: "release",
   slug: "elvis-presley-2-from-the-vaults-50s",
   title: "From The Vaults -'50s",
-  partOfCollections: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley"],
   position: 0,
   ownLength: 44.484333,
   ownProgress: 44.484333,

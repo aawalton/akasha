@@ -5,7 +5,7 @@ export const elvisPresley2TheHomeRecordings = {
   type: "release",
   slug: "elvis-presley-2-the-home-recordings",
   title: "The Home Recordings",
-  partOfCollections: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley"],
   position: 0,
   ownLength: 49.382333,
   ownProgress: 49.382333,

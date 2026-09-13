@@ -5,7 +5,7 @@ export const elvisPresley2LovingYou = {
   type: "release",
   slug: "elvis-presley-2-loving-you",
   title: "Loving You",
-  partOfCollections: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley"],
   position: 0,
   ownLength: 28.613233,
   ownProgress: 28.613233,

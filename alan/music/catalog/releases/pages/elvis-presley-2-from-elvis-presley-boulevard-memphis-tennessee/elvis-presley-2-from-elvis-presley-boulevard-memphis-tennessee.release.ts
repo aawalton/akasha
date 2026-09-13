@@ -5,7 +5,7 @@ export const elvisPresley2FromElvisPresleyBoulevardMemphisTennessee = {
   type: "release",
   slug: "elvis-presley-2-from-elvis-presley-boulevard-memphis-tennessee",
   title: "From Elvis Presley Boulevard, Memphis, Tennessee",
-  partOfCollections: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley"],
   position: 0,
   ownLength: 34.854633,
   ownProgress: 34.854633,

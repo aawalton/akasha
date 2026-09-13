@@ -5,7 +5,7 @@ export const elvisPresley2IfICanDreamElvisPresleyWithTheRoyalPhilharmonicOrchest
   type: "release",
   slug: "elvis-presley-2-if-i-can-dream-elvis-presley-with-the-royal-philharmonic-orchestra",
   title: "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
-  partOfCollections: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley"],
   position: 0,
   ownLength: 49.676367,
   ownProgress: 49.676367,

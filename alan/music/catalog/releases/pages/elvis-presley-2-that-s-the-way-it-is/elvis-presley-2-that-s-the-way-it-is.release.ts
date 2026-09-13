@@ -5,7 +5,7 @@ export const elvisPresley2ThatSTheWayItIs = {
   type: "release",
   slug: "elvis-presley-2-that-s-the-way-it-is",
   title: "That's the Way It Is",
-  partOfCollections: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley"],
   position: 0,
   ownLength: 52.880133,
   ownProgress: 52.880133,

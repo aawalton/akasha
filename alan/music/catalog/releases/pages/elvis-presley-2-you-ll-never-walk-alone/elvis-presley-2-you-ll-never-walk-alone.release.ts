@@ -5,7 +5,7 @@ export const elvisPresley2YouLlNeverWalkAlone = {
   type: "release",
   slug: "elvis-presley-2-you-ll-never-walk-alone",
   title: "You'll Never Walk Alone",
-  partOfCollections: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley"],
   position: 0,
   ownLength: 26.378617,
   ownProgress: 26.378617,

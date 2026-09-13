@@ -5,7 +5,7 @@ export const elvisPresley2KissinCousinsOriginalSoundtrack = {
   type: "release",
   slug: "elvis-presley-2-kissin-cousins-original-soundtrack",
   title: "Kissin' Cousins (Original Soundtrack)",
-  partOfCollections: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley"],
   position: 0,
   ownLength: 26.372267,
   ownProgress: 26.372267,

@@ -5,7 +5,7 @@ export const elvisPresley2LetSBeFriendsExpandedEdition = {
   type: "release",
   slug: "elvis-presley-2-let-s-be-friends-expanded-edition",
   title: "Let's Be Friends (Expanded Edition)",
-  partOfCollections: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley"],
   position: 0,
   ownLength: 31.8275,
   ownProgress: 31.8275,
