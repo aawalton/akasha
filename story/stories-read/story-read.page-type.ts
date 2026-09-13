@@ -23,7 +23,6 @@ export const storyRead = {
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/world", required: false, many: false },
-    { pageProperty: "select-property/source", required: true, many: false },
     {
       pageProperty: "text-property/external-tags",
       required: false,

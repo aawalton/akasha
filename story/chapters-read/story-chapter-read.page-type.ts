@@ -59,7 +59,6 @@ export const storyChapterRead = {
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/read-chapter-story", required: true, many: false },
     { pageProperty: "number-property/own-length", required: true, many: false },
-    { pageProperty: "url-property/external-link", required: true, many: false },
     { pageProperty: "file-property/prose", required: true, many: false },
     { pageProperty: "instant-property/removed-at", required: false, many: false },
     { pageProperty: "instant-property/marked-read-at", required: false, many: false },
