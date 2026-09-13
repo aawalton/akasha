@@ -22,12 +22,18 @@ import {
   A,
   AGENT,
   B,
+  claimedAt,
   DAY,
+  HELD_SEAT,
+  HELD_SUB,
   NOBODY,
   OTHER,
   rawAt,
+  readsBeside,
   rooted,
   scratch,
+  seatPageOf,
+  subagentPageOf,
   thinAt,
   UNDER,
 } from "akasha/agents/modules/read-record/read-record.module.test-fixtures.ts"
@@ -46,15 +52,9 @@ test("an empty body still has an id", () => {
 
 test("an agent's readings sit in one file beside that agent's own page", () => {
   const root = rooted()
-  expect(readsFileAt(root, AGENT)).toBe(
-    join(root, "agents/seats/pages/astra/astra.seat.reads.uncommitted.jsonl")
-  )
-  expect(readsFileAt(root, UNDER)).toBe(
-    join(
-      root,
-      "agents/subagents/pages/astra-sub-one/astra-sub-one.subagent.reads.uncommitted.jsonl"
-    )
-  )
+  expect(readsFileAt(root, AGENT)).toBe(join(root, readsBeside(seatPageOf(HELD_SEAT))))
+  expect(readsFileAt(root, UNDER)).toBe(join(root, readsBeside(subagentPageOf(HELD_SUB))))
+  expect(readsFileAt(root, AGENT)).toContain(`${HELD_SEAT}.seat.reads.`)
 })
 
 test("an agent no page names holds no reading, and a read of one records nothing", () => {
@@ -62,6 +62,16 @@ test("an agent no page names holds no reading, and a read of one records nothing
   expect(readsFileAt(root, NOBODY)).toBeNull()
   recordRead(root, NOBODY, { path: A, oid: "one", seenAt: 1, carriedOid: null })
   expect(readingIn(root, NOBODY, A)).toBeNull()
+})
+
+test("a readings file is claimed for its page in the index as that file opens", () => {
+  const root = rooted()
+  const page = seatPageOf(HELD_SEAT)
+  const at = readsBeside(page)
+  expect(claimedAt(root, at)).toEqual([])
+  recordRead(root, AGENT, { path: A, oid: "one", seenAt: 1, carriedOid: null })
+  expect(claimedAt(root, at)).toEqual(claimedAt(root, page))
+  expect(claimedAt(root, at).length).toBe(1)
 })
 
 test("a reading recorded is the reading read back", () => {

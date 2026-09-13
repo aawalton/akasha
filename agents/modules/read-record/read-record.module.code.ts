@@ -1,9 +1,10 @@
 import { createHash } from "node:crypto"
-import { appendFileSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { appendFileSync, existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { reads } from "akasha/agents/properties/reads.file-property.ts"
 import { exclusively } from "akasha/files/modules/exclusive/exclusive.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { partFiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import { uncommittedBesideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
 const SEAT = "seat"
@@ -80,20 +81,27 @@ function pagesOfAgents(root: string): ReadonlyMap<string, string> {
   return found
 }
 
-function besideOf(root: string, page: string): string | null {
+type Beside = {
+  readonly page: string
+  readonly at: string
+}
+
+function besideIn(root: string, agentId: string): Beside | null {
+  const page = pagesOfAgents(root).get(agentId)
+  if (page === undefined) return null
   const at = uncommittedBesideAt(page, reads.propertySlug, HELD)
-  return at === null ? null : join(root, at)
+  return at === null ? null : { page, at }
 }
 
 export function readsFileAt(root: string, agentId: string): string | null {
-  const page = pagesOfAgents(root).get(agentId)
-  return page === undefined ? null : besideOf(root, page)
+  const held = besideIn(root, agentId)
+  return held === null ? null : join(root, held.at)
 }
 
 export function everyOwner(root: string): readonly Owner[] {
   const found: Owner[] = []
-  for (const [agentId, page] of pagesOfAgents(root)) {
-    const at = besideOf(root, page)
+  for (const agentId of pagesOfAgents(root).keys()) {
+    const at = readsFileAt(root, agentId)
     if (at !== null) found.push({ agentId, at })
   }
   return found
@@ -170,13 +178,16 @@ export function readingIn(root: string, agentId: string, path: string): Reading 
 }
 
 export function recordRead(root: string, agentId: string, held: Reading): undefined {
-  const at = readsFileAt(root, agentId)
-  if (at === null) return undefined
+  const beside = besideIn(root, agentId)
+  if (beside === null) return undefined
+  const at = join(root, beside.at)
   mkdirSync(dirname(at), { recursive: true })
+  const opened = !existsSync(at)
   exclusively(at, (): undefined => {
     appendFileSync(at, `${JSON.stringify(held)}\n`)
     return undefined
   })
+  if (opened) partFiled(root, beside.page, beside.at)
   return undefined
 }
 

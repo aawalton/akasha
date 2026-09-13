@@ -1,14 +1,21 @@
 import { mkdirSync, writeFileSync } from "node:fs"
-import { dirname } from "node:path"
+import { dirname, join } from "node:path"
 import {
   readsFileAt,
   SUBAGENT_MARK,
 } from "akasha/agents/modules/read-record/read-record.module.code.ts"
+import { reads } from "akasha/agents/properties/reads.file-property.ts"
 import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
-import { nothingFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import {
+  nothingFiled,
+  pathFiled,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { indexPath } from "akasha/pages/indexes/path/index-path.index.ts"
+import { uncommittedBesideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { mintedId } from "akasha/testing-system/test-fixtures/minting/minting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
@@ -36,20 +43,42 @@ const SEAT = "seat"
 
 const SUBAGENT = "subagent"
 
+const HELD = "jsonl"
+
 const SEAT_SLUG_FROM = 24
 
+export const HELD_SEAT = "held"
+
+export const KEPT_SEAT = "kept"
+
+export const HELD_SUB = `${HELD_SEAT}-sub-one`
+
+export function seatPageOf(slug: string): string {
+  return `agents/seats/pages/${slug}/${slug}.seat.ts`
+}
+
+export function subagentPageOf(slug: string): string {
+  return `agents/subagents/pages/${slug}/${slug}.subagent.ts`
+}
+
+export function readsBeside(page: string): string {
+  return uncommittedBesideAt(page, reads.propertySlug, HELD) ?? ""
+}
+
 export function seatPaged(root: string, id: string, slug: string, at?: string): undefined {
-  const path = at ?? `agents/seats/pages/${slug}/${slug}.seat.ts`
+  const path = at ?? seatPageOf(slug)
   listedFiled(root, SEAT, slug, [{ path, id }])
   valueAlsoFiled(root, SEAT, [{ path, value: { id, pageTypeSlug: SEAT, slug } }])
+  pathFiled(root, path, [{ path, id }])
   return undefined
 }
 
 export function subagentPaged(root: string, agentId: string, slug: string, at?: string): undefined {
-  const path = at ?? `agents/subagents/pages/${slug}/${slug}.subagent.ts`
+  const path = at ?? subagentPageOf(slug)
   const id = mintedId(slug)
   listedFiled(root, SUBAGENT, slug, [{ path, id }])
   valueAlsoFiled(root, SUBAGENT, [{ path, value: { id, pageTypeSlug: SUBAGENT, slug, agentId } }])
+  pathFiled(root, path, [{ path, id }])
   return undefined
 }
 
@@ -63,16 +92,20 @@ export function agentPaged(root: string, agentId: string, slug?: string, at?: st
 export function rootedAs(named: string): string {
   const root = scratch.rootFor(named)
   nothingFiled(root)
-  seatPaged(root, AGENT, "astra")
-  seatPaged(root, OTHER, "nimue")
-  subagentPaged(root, UNDER, "astra-sub-one")
-  subagentPaged(root, UNDER_TOO, "astra-sub-two")
-  subagentPaged(root, UNDER_OTHER, "nimue-sub-three")
+  seatPaged(root, AGENT, HELD_SEAT)
+  seatPaged(root, OTHER, KEPT_SEAT)
+  subagentPaged(root, UNDER, HELD_SUB)
+  subagentPaged(root, UNDER_TOO, `${HELD_SEAT}-sub-two`)
+  subagentPaged(root, UNDER_OTHER, `${KEPT_SEAT}-sub-three`)
   return root
 }
 
 export function rooted(): string {
   return rootedAs("akasha-reading-")
+}
+
+export function claimedAt(root: string, at: string): readonly string[] {
+  return readingIn(root).lines(join(indexPath.name, `${at}.jsonl`))
 }
 
 export function rawAt(root: string, text: string): undefined {
