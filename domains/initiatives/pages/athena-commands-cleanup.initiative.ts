@@ -32,6 +32,5 @@ export const athenaCommandsCleanup = {
     "A check that fell short because a landing moved a path mid-walk still writes a verdict, so nothing re-asks it and the round is lost until the next one.",
     "A heredoc piped to `wc -c` is refused where its body names a guarded command, since the hook measures the call whole, so a long field's length is settled by the landing's own check.",
     "A fault is searched for among the findings before it is theorised about, because a page that already records it reads as nothing at all to an agent who never looked.",
-    "An intent met is often the only place its rule is written, so the rule lands as an invariant before the intent comes off, or taking the intent off deletes the rule.",
   ],
 } as const satisfies Initiative
