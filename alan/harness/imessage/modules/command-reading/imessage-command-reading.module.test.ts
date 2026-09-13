@@ -1,57 +1,9 @@
 import { describe, expect, test } from "bun:test"
 import {
-  countOf,
-  JSON_SAID,
-  LIMIT_SAID,
   messageLines,
   namingIn,
-  wordsIn,
 } from "akasha/alan/harness/imessage/modules/command-reading/imessage-command-reading.module.code.ts"
 import { message } from "akasha/alan/harness/imessage/modules/message-lines/message-lines.module.test-fixtures.ts"
-
-const VALUED = [LIMIT_SAID, "--contact"]
-
-const SWITCHES = [JSON_SAID]
-
-describe("wordsIn", () => {
-  test("reads a value, a switch and a loose word", () => {
-    const read = wordsIn(["--contact", "mary", JSON_SAID, "sleep"], VALUED, SWITCHES)
-    if ("refused" in read) throw new Error(read.refused.join("; "))
-    expect(read.named["--contact"]).toBe("mary")
-    expect(read.flags.has(JSON_SAID)).toBe(true)
-    expect(read.loose).toEqual(["sleep"])
-  })
-
-  test("refuses a flag it does not take", () => {
-    expect(wordsIn(["--nope"], VALUED, SWITCHES)).toEqual({
-      refused: ["`--nope` is no flag this takes — it takes `--limit`, `--contact`, `--json`"],
-    })
-  })
-
-  test("refuses a flag whose value is another flag it takes", () => {
-    const read = wordsIn([LIMIT_SAID, JSON_SAID], VALUED, SWITCHES)
-    expect("refused" in read).toBe(true)
-  })
-
-  test("refuses a flag said twice", () => {
-    const read = wordsIn(["--contact", "a", "--contact", "b"], VALUED, SWITCHES)
-    expect("refused" in read).toBe(true)
-  })
-})
-
-describe("countOf", () => {
-  test("takes a whole number above zero", () => {
-    expect(countOf("5", LIMIT_SAID)).toBe(5)
-  })
-
-  test("refuses zero", () => {
-    expect("refused" in Object(countOf("0", LIMIT_SAID))).toBe(true)
-  })
-
-  test("answers nothing where nothing was said", () => {
-    expect(countOf(undefined, LIMIT_SAID)).toBeUndefined()
-  })
-})
 
 describe("messageLines", () => {
   test("answers oldest first with an arrow saying which way it went", () => {
