@@ -14,11 +14,15 @@ export const removeEveryPageOfAType = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The pages taken away are the pages the index names of that page type.",
+      statement: "A page type is handed to the mechanical change taking every page of one away.",
     },
     {
       invariantKind: "departure",
-      statement: "A count says the most pages one reach of this change takes away.",
+      statement: "Every page of that page type is that change's one answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A count is handed on and bounds how many pages that change takes away.",
     },
     {
       invariantKind: "departure",
@@ -26,15 +30,7 @@ export const removeEveryPageOfAType = {
     },
     {
       invariantKind: "departure",
-      statement: "A count below the pages there are takes the first the index names.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A count above the pages there are takes every page.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A count that is no whole number above nothing is refused.",
+      statement: "A count that is no whole number above nothing is refused here.",
     },
     {
       invariantKind: "departure",
@@ -42,35 +38,7 @@ export const removeEveryPageOfAType = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type the index does not name is refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page type no page is of is refused rather than answered as no edit.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The page stating the page type is no page of that type and remains.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "One page refused refuses the whole change.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A refusal names the page that drew the refusal.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Each page is reached over the edits the pages before it left.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Taking one page away is left to the mechanical change taking a page away.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The order the files of one page go in is left to that mechanical change.",
+      statement: "A refusal from that change is the refusal this act gives.",
     },
     {
       invariantKind: "departure",
@@ -82,7 +50,11 @@ export const removeEveryPageOfAType = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads a page's own body.",
+      statement: "Nothing here reads the index.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No change but that one rung is reached.",
     },
   ],
   changeKind: "change-checked",

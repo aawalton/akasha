@@ -1,140 +1,90 @@
-import { afterAll, expect, test } from "bun:test"
+import { expect, test } from "bun:test"
 import {
   removeEveryPageOfAType,
   runChange,
 } from "akasha/changes/agent/page-type/remove-every-page-of-a-type/remove-every-page-of-a-type.change-agent.code.ts"
-import { pathsIn } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
-  bodiesIn,
-  ledgerAt,
-  type World,
-  worldAt,
-} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
-import {
-  aType,
-  bodyOf,
-  idOf,
-  indexedRepo,
-  pageOf,
-  scratch,
-  textIn,
-} from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+  catching,
+  refusingAt,
+  worldOf,
+} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { listing } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 
-afterAll(scratch.sweep)
+const PAGE_TYPE = "sprig"
 
-const LEAF_TYPE = "akasha/leaf.page-type.ts"
+const RUNG = "change-mechanical-page-type/remove-every-page-of-a-type"
 
-const ONE_AT = "akasha/leaves/one.leaf.ts"
+const REACHED: string[] = []
 
-const TWO_AT = "akasha/leaves/two.leaf.ts"
+const NOWHERE: World = worldOf({})
 
-const LEAVES: Readonly<Record<string, string>> = {
-  [LEAF_TYPE]: bodyOf(aType(idOf("d"), "leaf", ["page-type/page"])[1]),
-  "akasha/twig.page-type.ts": bodyOf(aType(idOf("0"), "twig", ["page-type/page"])[1]),
-  [ONE_AT]: pageOf({ id: idOf("e"), pageTypeSlug: "leaf", slug: "one" }),
-  [TWO_AT]: pageOf({ id: idOf("f"), pageTypeSlug: "leaf", slug: "two" }),
-}
+type Reached = { readonly at: string; readonly given: Record<string, unknown> }
 
-function leafWorld(): World {
-  const root = indexedRepo(LEAVES)
-  return worldAt(root, textIn(root), running)
-}
+test("a page type is handed to the mechanical change taking every page of one away", async () => {
+  const seen: Reached[] = []
 
-test("every page of the page type is taken away", async () => {
-  const world = leafWorld()
+  const said = await removeEveryPageOfAType(
+    { ...NOWHERE, reaching: catching(seen) },
+    { pageType: PAGE_TYPE }
+  )
 
-  const said = await removeEveryPageOfAType(world, { pageType: "leaf" })
-
-  expect(said.refused).toBe(null)
-  expect([...pathsIn(said)].sort()).toEqual([ONE_AT, TWO_AT])
-  const bodies = bodiesIn(said, world.base)
-  expect(bodies.get(ONE_AT)).toBe(null)
-  expect(bodies.get(TWO_AT)).toBe(null)
+  expect(said.refused).toBeNull()
+  expect(seen[0]?.at).toBe(RUNG)
+  expect(seen[0]?.given).toEqual({ pageType: PAGE_TYPE })
 })
 
-test("the page stating the page type is no page of that type and remains", async () => {
-  const said = await removeEveryPageOfAType(leafWorld(), { pageType: "leaf" })
+test("no change but that one rung is reached", async () => {
+  REACHED.length = 0
 
-  expect(pathsIn(said)).not.toContain(LEAF_TYPE)
+  await removeEveryPageOfAType({ ...NOWHERE, reaching: listing(REACHED) }, { pageType: PAGE_TYPE })
+
+  expect(REACHED).toEqual([RUNG])
 })
 
-test("every page is taken away over a ledger too", async () => {
-  const root = indexedRepo(LEAVES)
+test("a count is handed on to that change", async () => {
+  const seen: Reached[] = []
 
-  const said = await removeEveryPageOfAType(ledgerAt(root, textIn(root), running), {
-    pageType: "leaf",
-  })
+  await runChange(
+    { ...NOWHERE, reaching: catching(seen) },
+    { "page-type": PAGE_TYPE, "at-most": "1" }
+  )
 
-  expect(said.refused).toBe(null)
-  expect([...pathsIn(said)].sort()).toEqual([ONE_AT, TWO_AT])
+  expect(seen[0]?.given).toEqual({ pageType: PAGE_TYPE, atMost: 1 })
 })
 
-test("a page type the index does not name is refused", async () => {
-  const said = await removeEveryPageOfAType(leafWorld(), { pageType: "bough" })
+test("a count left out is handed on as no count", async () => {
+  const seen: Reached[] = []
+
+  await runChange({ ...NOWHERE, reaching: catching(seen) }, { "page-type": PAGE_TYPE })
+
+  expect(seen[0]?.given).toEqual({ pageType: PAGE_TYPE })
+})
+
+test("a count that is no whole number above nothing is refused here", async () => {
+  const held = { ...NOWHERE, reaching: catching([]) }
+  const fraction = await removeEveryPageOfAType(held, { pageType: PAGE_TYPE, atMost: 1.5 })
+  const text = await runChange(held, { "page-type": PAGE_TYPE, "at-most": "two" })
+  const nothing = await runChange(held, { "page-type": PAGE_TYPE, "at-most": "0" })
+
+  expect(fraction.refused ?? "").toContain("`1.5` is no count of pages")
+  expect(text.refused ?? "").toContain("`two` is no count of pages")
+  expect(nothing.refused ?? "").toContain("`0` is no count of pages")
+})
+
+test("a refusal from that change is the refusal this act gives", async () => {
+  const said = await removeEveryPageOfAType(
+    { ...NOWHERE, reaching: refusingAt([], RUNG) },
+    { pageType: PAGE_TYPE }
+  )
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe("`bough` names no page type")
-})
-
-test("a page type no page is of is refused rather than answered as no edit", async () => {
-  const said = await removeEveryPageOfAType(leafWorld(), { pageType: "twig" })
-
-  expect(said.edits).toEqual([])
-  expect(said.refused).toBe("no page is a `twig`")
-})
-
-test("one page refused refuses the whole change, and the refusal names that page", async () => {
-  const root = indexedRepo(LEAVES)
-  const only = textIn(root)
-  const gone = (path: string): string | null => (path === TWO_AT ? null : only(path))
-
-  const said = await removeEveryPageOfAType(worldAt(root, gone, running), { pageType: "leaf" })
-
-  expect(said.edits).toEqual([])
-  expect(said.refused ?? "").toContain(TWO_AT)
-  expect(said.refused ?? "").toContain("is refused, and")
+  expect(said.refused ?? "").toContain(RUNG)
 })
 
 test("an argument this change was handed no value for is refused by the key", async () => {
-  const said = await runChange(leafWorld(), {})
+  const said = await runChange({ ...NOWHERE, reaching: catching([]) }, {})
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toMatch(/`page-type` names what this change is handed/)
-})
-
-test("a count below the pages there are takes that many and no more", async () => {
-  const said = await removeEveryPageOfAType(leafWorld(), { pageType: "leaf", atMost: 1 })
-
-  expect(said.refused).toBe(null)
-  const taken = [...pathsIn(said)]
-  expect(taken).toHaveLength(1)
-  expect([ONE_AT, TWO_AT]).toContain(taken[0] ?? "")
-})
-
-test("a count above the pages there are takes every page", async () => {
-  const said = await removeEveryPageOfAType(leafWorld(), { pageType: "leaf", atMost: 5 })
-
-  expect(said.refused).toBe(null)
-  expect([...pathsIn(said)].sort()).toEqual([ONE_AT, TWO_AT])
-})
-
-test("a count handed in as text takes that many pages", async () => {
-  const said = await runChange(leafWorld(), { "page-type": "leaf", "at-most": "1" })
-
-  expect(said.refused).toBe(null)
-  expect([...pathsIn(said)]).toHaveLength(1)
-})
-
-test("a count that is no whole number above nothing is refused", async () => {
-  const fraction = await removeEveryPageOfAType(leafWorld(), { pageType: "leaf", atMost: 1.5 })
-  const text = await runChange(leafWorld(), { "page-type": "leaf", "at-most": "two" })
-  const nothing = await runChange(leafWorld(), { "page-type": "leaf", "at-most": "0" })
-
-  expect(fraction.edits).toEqual([])
-  expect(fraction.refused ?? "").toContain("`1.5` is no count of pages")
-  expect(text.edits).toEqual([])
-  expect(text.refused ?? "").toContain("`two` is no count of pages")
-  expect(nothing.edits).toEqual([])
-  expect(nothing.refused ?? "").toContain("`0` is no count of pages")
 })

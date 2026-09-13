@@ -1,18 +1,9 @@
-import {
-  gathered,
-  missing,
-  refusing,
-} from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import { missing, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import {
-  isLedger,
-  ledgerAt,
-  reach,
-  type World,
-} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { atMostIn } from "akasha/changes/modules/value-carrying/value-carrying.module.code.ts"
 
-const REMOVE_FILE_PAGE = "change-mechanical-file/remove-file-page"
+const REMOVE_EVERY_PAGE = "change-mechanical-page-type/remove-every-page-of-a-type"
 
 const PAGE_TYPE = "page-type"
 
@@ -30,25 +21,7 @@ export async function removeEveryPageOfAType(
   const atMost = given.atMost
   const read = atMost === undefined ? null : atMostIn(String(atMost))
   if (typeof read === "string") return refusing(read)
-  if (world.index.propertiesIfNamed(given.pageType) === null) {
-    return refusing(`\`${given.pageType}\` names no page type`)
-  }
-  const named = world.index.everyOfType(given.pageType)
-  if (named.length === 0) return refusing(`no page is a \`${given.pageType}\``)
-  const listed = atMost === undefined ? named : named.slice(0, atMost)
-  const answers: Answer[] = []
-  let over: World = isLedger(world)
-    ? world
-    : ledgerAt(world.root, world.bodyOf, world.reaching, world.textOf)
-  for (const one of listed) {
-    const reached = await reach(over, REMOVE_FILE_PAGE, { at: one.path })
-    if (reached.said.refused !== null) {
-      return refusing(`\`${one.path}\` is refused, and ${reached.said.refused}`)
-    }
-    over = reached.world
-    answers.push(reached.said)
-  }
-  return gathered(answers)
+  return (await reach(world, REMOVE_EVERY_PAGE, given)).said
 }
 
 export type Asked = Readonly<Record<string, string>>
