@@ -46,7 +46,6 @@ import {
 } from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
 import { underIts } from "akasha/commands/modules/change-ceiling/change-ceiling.module.code.ts"
 import { commandPageAt } from "akasha/commands/modules/change-costing/change-costing.module.code.ts"
-import { unknownIn } from "akasha/commands/modules/flags/command-flags.module.code.ts"
 import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import {
@@ -65,8 +64,6 @@ import {
 } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
 import { meantSaid } from "akasha/utils/text/modules/suggest-closest/suggest-closest.module.code.ts"
-
-const BARE: readonly string[] = []
 
 const AT = "at"
 
@@ -373,7 +370,7 @@ export async function changing(
   root: string,
   page: string,
   agentId: string | null,
-  argv: readonly string[],
+  slug: string | undefined,
   piping: Piping,
   loading: Loading,
   applying: Applying,
@@ -382,12 +379,9 @@ export async function changing(
 ): Promise<Answer> {
   const before = opening()
   const world = worldAt(root, bodyIn(root), runAt, textIn(root))
-  const slug = argv[0]
   if (slug === undefined) {
     return mistaking([`no change is named, and this runs one of ${runsSaid(world)}`])
   }
-  const unknown = unknownIn(argv.slice(1), BARE, BARE, chosen.calledAs)
-  if (unknown.length > 0) return mistaking(unknown)
   const piped = pipedIn(piping)
   if ("why" in piped) return mistaking([piped.why])
   const type = typeOf(world, slug)

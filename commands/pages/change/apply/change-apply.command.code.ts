@@ -11,9 +11,12 @@ import {
   type Chosen,
   changing,
 } from "akasha/commands/modules/change-running/change-running.module.code.ts"
+import { unknownIn } from "akasha/commands/modules/flags/command-flags.module.code.ts"
 import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
+
+const NO_FLAG: readonly string[] = []
 
 const APPLIES = "apply"
 
@@ -31,7 +34,10 @@ export const CHOSEN: Omit<Chosen, "calledAs"> = {
 }
 
 export async function changeApply(argv: readonly string[], given: Given): Promise<Answer> {
-  if (argv[0] === undefined) return await applyingKept(given)
+  const slug = argv[0]
+  if (slug === undefined) return await applyingKept(given)
+  const unknown = unknownIn(argv.slice(1), NO_FLAG, NO_FLAG, given.calledAs)
+  if (unknown.length > 0) return mistaking(unknown)
   const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
   if (page === null || editsAt(page) === null) {
     return mistaking([noPageSaid(given.root, given.agentId)])
@@ -42,7 +48,7 @@ export async function changeApply(argv: readonly string[], given: Given): Promis
     if (measure) taken[MEASURE] = TRUE
     return await applyWith(taken, given)
   }
-  return await changing(given.root, page, given.agentId, argv, inputIn, loadedAt, landing, {
+  return await changing(given.root, page, given.agentId, slug, inputIn, loadedAt, landing, {
     ...CHOSEN,
     calledAs: given.calledAs,
   })

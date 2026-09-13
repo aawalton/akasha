@@ -114,30 +114,19 @@ test("a change that refuses appends nothing and says why that change refused", a
 })
 
 test("a word naming no change is refused by that word rather than by an address", async () => {
-  const said = await acting(repo(), ["remove-file"], piping(taking(NAMER_PAGE)))
+  const said = await acting(repo(), "remove-file", piping(taking(NAMER_PAGE)))
 
   expect(said.refusals[0] ?? "").toContain("`remove-file` names no change")
 })
 
 test("a call naming no change is refused with the changes this runs", async () => {
-  const said = await acting(repo(), [])
+  const said = await acting(repo(), undefined)
 
   expect(said.refusals[0] ?? "").toContain("no change is named")
 })
 
-test("a flag said on the command line is refused", async () => {
-  const argv = ["remove-page", "--file-path", NAMER_PAGE]
-
-  const said = await acting(repo(), argv, piping(taking(NAMER_PAGE)))
-
-  expect(said.refusals).toEqual([
-    "`--file-path` is no flag this takes. `akasha change` takes no flag at all.",
-    `\`${NAMER_PAGE}\` is no flag this takes. \`akasha change\` takes no flag at all.`,
-  ])
-})
-
 test("a call piping nothing in is refused rather than run with no argument", async () => {
-  const said = await acting(repo(), ["remove-page"])
+  const said = await acting(repo(), "remove-page")
 
   expect(said.refusals[0] ?? "").toContain("standard input")
 })
@@ -153,7 +142,7 @@ test("a call piping nothing in is told what the change it named takes", async ()
     repo(),
     PAGE,
     null,
-    ["remove-page"],
+    "remove-page",
     NOTHING,
     TAKES_AT,
     applying,
@@ -171,7 +160,7 @@ test("the help flag piped in is answered with the change and what that change ta
     repo(),
     PAGE,
     null,
-    ["remove-page"],
+    "remove-page",
     piping("--help\n"),
     TAKES_AT,
     applying,
@@ -186,7 +175,7 @@ test("the help flag piped in is answered with the change and what that change ta
 })
 
 test("arguments that read as neither a value nor a body are refused", async () => {
-  const said = await acting(repo(), ["remove-page"], piping("nonsense\n"))
+  const said = await acting(repo(), "remove-page", piping("nonsense\n"))
 
   expect(said.refusals[0] ?? "").toContain("neither")
 })
@@ -211,7 +200,7 @@ test("a path under the folder git does not track is refused, and names the sweep
 test("a path handed through a fence loses the newline that fence ends it with", async () => {
   const root = repo()
 
-  const said = await acting(root, ["remove-page"], piping(`at ~\n${NAMER_PAGE}\n~\n`))
+  const said = await acting(root, "remove-page", piping(`at ~\n${NAMER_PAGE}\n~\n`))
 
   expect(said.refusals).toEqual([])
   expect(keptIn(root)).toEqual(BOTH)
@@ -220,7 +209,7 @@ test("a path handed through a fence loses the newline that fence ends it with", 
 test("a path running over more than one line is refused", async () => {
   const said = `at ~\n${NAMER_PAGE}\n${SPARE_PAGE}\n~\n`
 
-  const answered = await acting(repo(), ["remove-page"], piping(said))
+  const answered = await acting(repo(), "remove-page", piping(said))
 
   expect(answered.refusals[0] ?? "").toContain("`at` names one path")
 })
@@ -230,7 +219,7 @@ test("a path that is no page keeps no edits", async () => {
     repo(),
     "akasha/notes.md",
     null,
-    ["remove-page"],
+    "remove-page",
     piping(taking(NAMER_PAGE)),
     loading,
     applying,

@@ -1,6 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { DATA, OK, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { CHOSEN, drafted } from "akasha/commands/pages/change/draft/change-draft.command.code.ts"
+import {
+  CHOSEN,
+  changeDraft,
+  drafted,
+} from "akasha/commands/pages/change/draft/change-draft.command.code.ts"
 import { REFUSES_CODE } from "akasha/testing-system/modules/minting/minting.module.code.ts"
 import {
   applied,
@@ -43,8 +47,14 @@ const KEPT = "the edits are kept at held.jsonl, and `akasha change apply` lands 
 
 const COSTED = "what the run cost was recorded"
 
+test("a flag said on the command line is refused", async () => {
+  const said = await changeDraft(["remove-page", "--file-path", "akasha/one.ts"], OUTSIDE)
+
+  expect(said.refusals[0] ?? "").toContain("`--file-path` is no argument")
+})
+
 test("a draft that kept its edits before it threw names them in the refusal", async () => {
-  const said = await drafted(AGENT, ["remove-page"], OUTSIDE, async (done) => {
+  const said = await drafted(AGENT, "remove-page", OUTSIDE, async (done) => {
     done.push(KEPT)
     throw new Error("the cost would not be recorded")
   })
@@ -55,7 +65,7 @@ test("a draft that kept its edits before it threw names them in the refusal", as
 })
 
 test("a draft that threw before keeping anything says nothing of what it kept", async () => {
-  const said = await drafted(AGENT, ["remove-page"], OUTSIDE, async () => {
+  const said = await drafted(AGENT, "remove-page", OUTSIDE, async () => {
     throw new Error("the change would not load")
   })
 
@@ -65,7 +75,7 @@ test("a draft that threw before keeping anything says nothing of what it kept", 
 })
 
 test("a draft names each thing it did in the order it did them", async () => {
-  const said = await drafted(AGENT, ["remove-page"], OUTSIDE, async (done) => {
+  const said = await drafted(AGENT, "remove-page", OUTSIDE, async (done) => {
     done.push(KEPT)
     done.push(COSTED)
     throw new Error("the answer would not compose")
@@ -77,7 +87,7 @@ test("a draft names each thing it did in the order it did them", async () => {
 })
 
 test("a draft that threw nothing is answered as that draft answered", async () => {
-  const said = await drafted(AGENT, ["remove-page"], OUTSIDE, async () => told([KEPT]))
+  const said = await drafted(AGENT, "remove-page", OUTSIDE, async () => told([KEPT]))
 
   expect(said.code).toBe(0)
   expect(said.report).toEqual([KEPT])

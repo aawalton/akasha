@@ -1,5 +1,7 @@
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { loadedAt } from "akasha/changes/runners/modules/change-loading/change-loading.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
+import { change as changeArgument } from "akasha/commands/arguments/pages/change.argument.ts"
 import {
   answering,
   OPERATIONAL,
@@ -14,7 +16,10 @@ import {
 } from "akasha/commands/modules/change-running/change-running.module.code.ts"
 import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { changeDraft as draftPage } from "akasha/commands/pages/change/draft/change-draft.command.ts"
 import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
+
+const NAMED = [changeArgument]
 
 const DRAFTS = "draft"
 
@@ -34,21 +39,21 @@ async function nothing(): Promise<Answer> {
 export type Running = (
   done: string[],
   page: string,
-  argv: readonly string[],
+  slug: string | undefined,
   given: Given
 ) => Promise<Answer>
 
 async function ranChange(
   done: string[],
   page: string,
-  argv: readonly string[],
+  slug: string | undefined,
   given: Given
 ): Promise<Answer> {
   return await changing(
     given.root,
     page,
     given.agentId,
-    argv,
+    slug,
     inputIn,
     loadedAt,
     nothing,
@@ -59,17 +64,19 @@ async function ranChange(
 
 export async function drafted(
   page: string,
-  argv: readonly string[],
+  slug: string | undefined,
   given: Given,
   running: Running = ranChange
 ): Promise<Answer> {
-  return await answering(async (done) => await running(done, page, argv, given))
+  return await answering(async (done) => await running(done, page, slug, given))
 }
 
 export async function changeDraft(argv: readonly string[], given: Given): Promise<Answer> {
+  const read = takenFor(argv, given.calledAs, draftPage, NAMED)
+  if ("refused" in read) return mistaking(read.refused)
   const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
   if (page === null || editsAt(page) === null) {
     return mistaking([noPageSaid(given.root, given.agentId)])
   }
-  return await drafted(page, argv, given)
+  return await drafted(page, read.taken.change, given)
 }

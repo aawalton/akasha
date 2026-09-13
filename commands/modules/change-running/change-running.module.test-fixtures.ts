@@ -182,7 +182,7 @@ export async function refusedApply(root: string, at: string): Promise<Answer> {
     root,
     PAGE,
     null,
-    ["remove-page"],
+    "remove-page",
     piping(taking(at)),
     loading,
     refusingApply,
@@ -226,15 +226,15 @@ export function readingNotText(root: string): Over {
 
 export async function acting(
   root: string,
-  argv: readonly string[],
+  slug: string | undefined,
   said: Piping = NOTHING
 ): Promise<Answer> {
-  return await changing(root, PAGE, null, argv, said, loading, applying, CHOSEN)
+  return await changing(root, PAGE, null, slug, said, loading, applying, CHOSEN)
 }
 
 export async function removing(root: string, at: string, message?: string): Promise<Answer> {
   const said = message === undefined ? taking(at) : asking(at, message)
-  return await acting(root, ["remove-page"], piping(said))
+  return await acting(root, "remove-page", piping(said))
 }
 
 export const BOTH: readonly string[] = [NAMER_CODE, NAMER_PAGE]
@@ -253,7 +253,7 @@ export function owedIn(root: string): readonly (boolean | undefined)[] {
 }
 
 export function drafting(root: string, at: string): Promise<Answer> {
-  return acting(root, ["remove-page"], piping(`${taking(at)}draft: true\n`))
+  return acting(root, "remove-page", piping(`${taking(at)}draft: true\n`))
 }
 
 const ANSWERS_NOTHING: Loading = async () => ({
@@ -263,28 +263,28 @@ const ANSWERS_NOTHING: Loading = async () => ({
 
 export async function answeringNothing(root: string, at: string): Promise<Answer> {
   const said = piping(`${taking(at)}draft: true\n`)
-  return await changing(root, PAGE, null, ["remove-page"], said, ANSWERS_NOTHING, applying, CHOSEN)
+  return await changing(root, PAGE, null, "remove-page", said, ANSWERS_NOTHING, applying, CHOSEN)
 }
 
 export async function doneDrafting(root: string, at: string): Promise<readonly string[]> {
   const done: string[] = []
   const said = piping(`${taking(at)}draft: true\n`)
-  await changing(root, PAGE, null, ["remove-page"], said, loading, applying, CHOSEN, done)
+  await changing(root, PAGE, null, "remove-page", said, loading, applying, CHOSEN, done)
   return done
 }
 
 export function draftingAndApplying(root: string, at: string): Promise<Answer> {
-  return acting(root, ["remove-page"], piping(`${taking(at)}draft: true\nmessage: a message\n`))
+  return acting(root, "remove-page", piping(`${taking(at)}draft: true\nmessage: a message\n`))
 }
 
 export function measuring(root: string, at: string): Promise<Answer> {
-  return acting(root, ["remove-page"], piping(`${taking(at)}measure: true\n`))
+  return acting(root, "remove-page", piping(`${taking(at)}measure: true\n`))
 }
 
 export function measuringWrongly(root: string, at: string): Promise<Answer> {
-  return acting(root, ["remove-page"], piping(`${taking(at)}measure: yes\n`))
+  return acting(root, "remove-page", piping(`${taking(at)}measure: yes\n`))
 }
 
 export function draftingAndMeasuring(root: string, at: string): Promise<Answer> {
-  return acting(root, ["remove-page"], piping(`${taking(at)}draft: true\nmeasure: true\n`))
+  return acting(root, "remove-page", piping(`${taking(at)}draft: true\nmeasure: true\n`))
 }

@@ -11,7 +11,7 @@ export const changeRunning = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The change to run is named by the first word of the call.",
+      statement: "The change to run is handed in by the caller rather than read off the call.",
     },
     {
       invariantKind: "departure",
@@ -141,11 +141,7 @@ export const changeRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag said on the command line is refused naming the call as it was made.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That call is handed in by the caller rather than spelled here.",
+      statement: "The call as it was made is handed in by the caller rather than spelled here.",
     },
     {
       invariantKind: "departure",
