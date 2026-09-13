@@ -1,8 +1,5 @@
-export const LOG_LEVEL_VERBOSE = "V"
-export const LOG_LEVEL_DEBUG = "D"
 export const LOG_LEVEL_INFO = "I"
 export const LOG_LEVEL_WARNING = "W"
-export const LOG_LEVEL_ERROR = "E"
 
 export type FightDataLog = (
   this: void,
