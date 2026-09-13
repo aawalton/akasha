@@ -60,7 +60,6 @@ export const DUAL_ZONE_COMPONENTS: Record<number, readonly [number, number]> = {
   [FAKE_ZONE_IDS.GALEN_HIGHISLE]: [ZONE_IDS.GALEN, ZONE_IDS.HIGHISLE],
 }
 
-export const ZONE_TYPE_BASE = 1
 const ZONE_TYPE_DLC = 2
 export const ZONE_TYPE_CHAPTER = 3
 

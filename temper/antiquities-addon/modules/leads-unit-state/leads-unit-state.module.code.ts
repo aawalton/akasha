@@ -9,10 +9,6 @@ export function setUnits(next: Record<number, LeadsUnitData>): undefined {
   units = next
 }
 
-export function getSetsMinFound(): Record<number, number> {
-  return setsMinFound
-}
-
 export function setSetsMinFound(next: Record<number, number>): undefined {
   setsMinFound = next
 }
