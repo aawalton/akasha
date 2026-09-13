@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0036Chapter36SpecialPass = {
   position: 36,
   ownLength: 2430,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2685695/chapter-36-special-pass",
-  externalId: "2685695",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2685695",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2685695/chapter-36-special-pass",
+    },
+  ],
   publishedAt: "2025-10-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

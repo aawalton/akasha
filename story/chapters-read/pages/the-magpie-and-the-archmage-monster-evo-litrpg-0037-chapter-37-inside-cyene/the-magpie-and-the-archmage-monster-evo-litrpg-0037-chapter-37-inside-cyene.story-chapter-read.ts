@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0037Chapter37InsideCyene = {
   position: 37,
   ownLength: 2114,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2690155/chapter-37-inside-cyene",
-  externalId: "2690155",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2690155",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2690155/chapter-37-inside-cyene",
+    },
+  ],
   publishedAt: "2025-10-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

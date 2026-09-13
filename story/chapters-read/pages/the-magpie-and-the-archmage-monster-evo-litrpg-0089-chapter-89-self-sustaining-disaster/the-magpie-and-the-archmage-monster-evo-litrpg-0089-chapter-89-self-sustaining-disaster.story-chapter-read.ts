@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0089Chapter89SelfSustainingD
   position: 89,
   ownLength: 2019,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3090266/chapter-89-self-sustaining-disaster",
-  externalId: "3090266",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3090266",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3090266/chapter-89-self-sustaining-disaster",
+    },
+  ],
   publishedAt: "2026-02-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0125Chapter125TheMagpiesWarn
   position: 125,
   ownLength: 2251,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3421291/chapter-125-the-magpies-warning",
-  externalId: "3421291",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3421291",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3421291/chapter-125-the-magpies-warning",
+    },
+  ],
   publishedAt: "2026-05-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

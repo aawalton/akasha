@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0056Chapter56PaladinWithoutA
   position: 56,
   ownLength: 2070,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2814316/chapter-56-paladin-without-a-party",
-  externalId: "2814316",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2814316",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2814316/chapter-56-paladin-without-a-party",
+    },
+  ],
   publishedAt: "2025-12-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

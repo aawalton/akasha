@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0038Chapter38AdventurersGuil
   position: 38,
   ownLength: 2056,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2695392/chapter-38-adventurers-guild",
-  externalId: "2695392",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2695392",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2695392/chapter-38-adventurers-guild",
+    },
+  ],
   publishedAt: "2025-10-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

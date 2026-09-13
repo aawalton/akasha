@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0019Chapter19Strangers = {
   position: 19,
   ownLength: 2152,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2583307/chapter-19-strangers",
-  externalId: "2583307",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2583307",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2583307/chapter-19-strangers",
+    },
+  ],
   publishedAt: "2025-09-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

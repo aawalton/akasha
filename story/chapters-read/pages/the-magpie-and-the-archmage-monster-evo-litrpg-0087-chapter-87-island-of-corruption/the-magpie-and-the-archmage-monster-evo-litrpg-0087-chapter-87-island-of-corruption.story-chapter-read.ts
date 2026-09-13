@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0087Chapter87IslandOfCorrupt
   position: 87,
   ownLength: 1985,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3073410/chapter-87-island-of-corruption",
-  externalId: "3073410",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3073410",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3073410/chapter-87-island-of-corruption",
+    },
+  ],
   publishedAt: "2026-02-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

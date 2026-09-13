@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0008Chapter8Pigeons = {
   position: 8,
   ownLength: 2127,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2525599/chapter-8-pigeons",
-  externalId: "2525599",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525599",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2525599/chapter-8-pigeons",
+    },
+  ],
   publishedAt: "2025-08-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

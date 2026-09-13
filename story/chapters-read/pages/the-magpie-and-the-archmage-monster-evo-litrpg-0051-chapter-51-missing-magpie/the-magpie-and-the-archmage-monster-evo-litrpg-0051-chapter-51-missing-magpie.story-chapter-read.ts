@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0051Chapter51MissingMagpie =
   position: 51,
   ownLength: 2041,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2782731/chapter-51-missing-magpie",
-  externalId: "2782731",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2782731",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2782731/chapter-51-missing-magpie",
+    },
+  ],
   publishedAt: "2025-11-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

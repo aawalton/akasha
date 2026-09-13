@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0050Chapter50TheWeightOfTheB
   position: 50,
   ownLength: 2054,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2773854/chapter-50-the-weight-of-the-blight",
-  externalId: "2773854",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2773854",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2773854/chapter-50-the-weight-of-the-blight",
+    },
+  ],
   publishedAt: "2025-11-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

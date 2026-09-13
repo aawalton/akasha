@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0076Chapter76TheMarshBitesBa
   position: 76,
   ownLength: 2056,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2979791/chapter-76-the-marsh-bites-back",
-  externalId: "2979791",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2979791",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2979791/chapter-76-the-marsh-bites-back",
+    },
+  ],
   publishedAt: "2026-01-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

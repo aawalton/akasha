@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0053Chapter53PriceOfAdvancem
   position: 53,
   ownLength: 1927,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2793917/chapter-53-price-of-advancement",
-  externalId: "2793917",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2793917",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2793917/chapter-53-price-of-advancement",
+    },
+  ],
   publishedAt: "2025-11-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

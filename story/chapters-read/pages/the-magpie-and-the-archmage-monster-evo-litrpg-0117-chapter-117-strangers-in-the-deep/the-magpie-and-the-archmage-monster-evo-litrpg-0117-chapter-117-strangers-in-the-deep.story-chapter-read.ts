@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0117Chapter117StrangersInThe
   position: 117,
   ownLength: 1973,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3339673/chapter-117-strangers-in-the-deep",
-  externalId: "3339673",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3339673",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3339673/chapter-117-strangers-in-the-deep",
+    },
+  ],
   publishedAt: "2026-05-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

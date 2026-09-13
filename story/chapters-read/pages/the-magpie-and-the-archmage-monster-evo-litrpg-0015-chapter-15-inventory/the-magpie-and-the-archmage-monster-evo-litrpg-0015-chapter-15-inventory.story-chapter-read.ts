@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0015Chapter15Inventory = {
   position: 15,
   ownLength: 2104,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2559760/chapter-15-inventory",
-  externalId: "2559760",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2559760",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2559760/chapter-15-inventory",
+    },
+  ],
   publishedAt: "2025-08-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

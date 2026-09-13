@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0029Chapter29GoodbyeSunvale 
   position: 29,
   ownLength: 2126,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2642413/chapter-29-goodbye-sunvale",
-  externalId: "2642413",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2642413",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2642413/chapter-29-goodbye-sunvale",
+    },
+  ],
   publishedAt: "2025-10-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

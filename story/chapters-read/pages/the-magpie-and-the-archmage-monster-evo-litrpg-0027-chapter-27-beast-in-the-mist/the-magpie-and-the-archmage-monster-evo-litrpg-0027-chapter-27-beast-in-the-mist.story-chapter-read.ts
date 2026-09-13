@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0027Chapter27BeastInTheMist 
   position: 27,
   ownLength: 2083,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2632671/chapter-27-beast-in-the-mist",
-  externalId: "2632671",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2632671",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2632671/chapter-27-beast-in-the-mist",
+    },
+  ],
   publishedAt: "2025-09-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

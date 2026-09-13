@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0068Chapter68AChestFullOfTro
   position: 68,
   ownLength: 2261,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2919428/chapter-68-a-chest-full-of-trouble",
-  externalId: "2919428",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2919428",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2919428/chapter-68-a-chest-full-of-trouble",
+    },
+  ],
   publishedAt: "2026-01-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

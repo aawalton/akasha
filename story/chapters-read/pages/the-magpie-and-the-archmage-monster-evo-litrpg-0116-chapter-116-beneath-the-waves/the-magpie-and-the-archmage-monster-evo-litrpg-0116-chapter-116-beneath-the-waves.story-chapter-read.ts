@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0116Chapter116BeneathTheWave
   position: 116,
   ownLength: 2042,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3331851/chapter-116-beneath-the-waves",
-  externalId: "3331851",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3331851",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3331851/chapter-116-beneath-the-waves",
+    },
+  ],
   publishedAt: "2026-04-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0112Chapter112StaringContest
   position: 112,
   ownLength: 2137,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3295196/chapter-112-staring-contest",
-  externalId: "3295196",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3295196",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3295196/chapter-112-staring-contest",
+    },
+  ],
   publishedAt: "2026-04-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

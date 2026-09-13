@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0035Chapter35BaconBeetlesAnd
   position: 35,
   ownLength: 2146,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2677649/chapter-35-bacon-beetles-and-breakthroughs",
-  externalId: "2677649",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2677649",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2677649/chapter-35-bacon-beetles-and-breakthroughs",
+    },
+  ],
   publishedAt: "2025-10-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

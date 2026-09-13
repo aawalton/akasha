@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0078Chapter78TheBreakingPoin
   position: 78,
   ownLength: 2049,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2993711/chapter-78-the-breaking-point",
-  externalId: "2993711",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2993711",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2993711/chapter-78-the-breaking-point",
+    },
+  ],
   publishedAt: "2026-01-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0001Chapter1MineNow = {
   position: 1,
   ownLength: 2079,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2525427/chapter-1-mine-now",
-  externalId: "2525427",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525427",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2525427/chapter-1-mine-now",
+    },
+  ],
   publishedAt: "2025-08-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

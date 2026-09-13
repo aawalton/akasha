@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0065Chapter65BlessedIncantat
   position: 65,
   ownLength: 2075,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2894751/chapter-65-blessed-incantation",
-  externalId: "2894751",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2894751",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2894751/chapter-65-blessed-incantation",
+    },
+  ],
   publishedAt: "2025-12-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

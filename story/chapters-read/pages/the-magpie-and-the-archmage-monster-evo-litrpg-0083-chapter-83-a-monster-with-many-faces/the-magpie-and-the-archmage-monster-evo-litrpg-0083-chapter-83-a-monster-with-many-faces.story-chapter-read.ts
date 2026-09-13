@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0083Chapter83AMonsterWithMan
   position: 83,
   ownLength: 1909,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3035374/chapter-83-a-monster-with-many-faces",
-  externalId: "3035374",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3035374",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3035374/chapter-83-a-monster-with-many-faces",
+    },
+  ],
   publishedAt: "2026-02-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

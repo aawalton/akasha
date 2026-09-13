@@ -9,10 +9,14 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete00022Artezia = {
   position: 2,
   ownLength: 1176,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/1041091/2-artezia",
-  externalId: "1041091",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1041091",
+      externalLink:
+        "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/1041091/2-artezia",
+    },
+  ],
   publishedAt: "2022-11-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

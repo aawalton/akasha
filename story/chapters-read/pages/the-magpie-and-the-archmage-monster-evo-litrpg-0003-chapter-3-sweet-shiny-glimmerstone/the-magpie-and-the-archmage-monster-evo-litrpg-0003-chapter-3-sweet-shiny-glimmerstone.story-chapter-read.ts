@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0003Chapter3SweetShinyGlimme
   position: 3,
   ownLength: 2234,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2525542/chapter-3-sweet-shiny-glimmerstone",
-  externalId: "2525542",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525542",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2525542/chapter-3-sweet-shiny-glimmerstone",
+    },
+  ],
   publishedAt: "2025-08-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0110Chapter110TheCostOfProte
   position: 110,
   ownLength: 2090,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3275614/chapter-110-the-cost-of-protection",
-  externalId: "3275614",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3275614",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3275614/chapter-110-the-cost-of-protection",
+    },
+  ],
   publishedAt: "2026-04-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

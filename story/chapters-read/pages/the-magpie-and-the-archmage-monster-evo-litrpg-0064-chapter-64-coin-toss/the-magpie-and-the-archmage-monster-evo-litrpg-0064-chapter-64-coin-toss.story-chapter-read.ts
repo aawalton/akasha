@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0064Chapter64CoinToss = {
   position: 64,
   ownLength: 2118,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2889054/chapter-64-coin-toss",
-  externalId: "2889054",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2889054",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2889054/chapter-64-coin-toss",
+    },
+  ],
   publishedAt: "2025-12-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

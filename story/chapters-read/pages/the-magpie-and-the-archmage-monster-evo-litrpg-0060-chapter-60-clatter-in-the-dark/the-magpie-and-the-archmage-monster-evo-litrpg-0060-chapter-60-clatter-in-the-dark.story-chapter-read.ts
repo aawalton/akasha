@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0060Chapter60ClatterInTheDar
   position: 60,
   ownLength: 2007,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2843826/chapter-60-clatter-in-the-dark",
-  externalId: "2843826",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2843826",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2843826/chapter-60-clatter-in-the-dark",
+    },
+  ],
   publishedAt: "2025-12-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

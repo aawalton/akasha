@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0082Chapter82FogOfAbylport =
   position: 82,
   ownLength: 2173,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3027786/chapter-82-fog-of-abylport",
-  externalId: "3027786",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3027786",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3027786/chapter-82-fog-of-abylport",
+    },
+  ],
   publishedAt: "2026-02-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

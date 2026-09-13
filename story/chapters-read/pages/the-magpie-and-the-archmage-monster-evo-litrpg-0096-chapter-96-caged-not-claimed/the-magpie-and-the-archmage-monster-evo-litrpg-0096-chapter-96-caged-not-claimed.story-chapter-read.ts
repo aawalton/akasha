@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0096Chapter96CagedNotClaimed
   position: 96,
   ownLength: 1922,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3146339/chapter-96-caged-not-claimed",
-  externalId: "3146339",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3146339",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3146339/chapter-96-caged-not-claimed",
+    },
+  ],
   publishedAt: "2026-03-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

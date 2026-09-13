@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0040Chapter40CyeneDungeon = 
   position: 40,
   ownLength: 2121,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2707937/chapter-40-cyene-dungeon",
-  externalId: "2707937",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2707937",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2707937/chapter-40-cyene-dungeon",
+    },
+  ],
   publishedAt: "2025-10-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

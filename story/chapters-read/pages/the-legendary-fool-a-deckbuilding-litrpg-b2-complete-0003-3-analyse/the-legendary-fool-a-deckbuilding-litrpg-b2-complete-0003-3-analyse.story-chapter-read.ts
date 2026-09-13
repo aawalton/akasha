@@ -9,10 +9,14 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete00033Analyse = {
   position: 3,
   ownLength: 1051,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/1041967/3-analyse",
-  externalId: "1041967",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1041967",
+      externalLink:
+        "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/1041967/3-analyse",
+    },
+  ],
   publishedAt: "2022-11-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

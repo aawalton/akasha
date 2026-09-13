@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0031Chapter31BeingAMonster =
   position: 31,
   ownLength: 2064,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2654758/chapter-31-being-a-monster",
-  externalId: "2654758",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2654758",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2654758/chapter-31-being-a-monster",
+    },
+  ],
   publishedAt: "2025-10-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

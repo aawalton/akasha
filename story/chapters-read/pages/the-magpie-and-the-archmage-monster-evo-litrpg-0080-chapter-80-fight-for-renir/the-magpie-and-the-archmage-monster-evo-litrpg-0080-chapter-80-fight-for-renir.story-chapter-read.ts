@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0080Chapter80FightForRenir =
   position: 80,
   ownLength: 2105,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3010941/chapter-80-fight-for-renir",
-  externalId: "3010941",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3010941",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3010941/chapter-80-fight-for-renir",
+    },
+  ],
   publishedAt: "2026-02-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

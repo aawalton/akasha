@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0077Chapter77WakeUpDummy = {
   position: 77,
   ownLength: 2044,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2986841/chapter-77-wake-up-dummy",
-  externalId: "2986841",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2986841",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2986841/chapter-77-wake-up-dummy",
+    },
+  ],
   publishedAt: "2026-01-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

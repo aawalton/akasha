@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0075Chapter75FrozenBirds = {
   position: 75,
   ownLength: 2063,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2970286/chapter-75-frozen-birds",
-  externalId: "2970286",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2970286",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2970286/chapter-75-frozen-birds",
+    },
+  ],
   publishedAt: "2026-01-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0063Chapter63Recovery = {
   position: 63,
   ownLength: 2056,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2864149/chapter-63-recovery",
-  externalId: "2864149",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2864149",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2864149/chapter-63-recovery",
+    },
+  ],
   publishedAt: "2025-12-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

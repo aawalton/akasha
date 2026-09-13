@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0061Chapter61TheCorruptedDee
   position: 61,
   ownLength: 2096,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2849010/chapter-61-the-corrupted-deer",
-  externalId: "2849010",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2849010",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2849010/chapter-61-the-corrupted-deer",
+    },
+  ],
   publishedAt: "2025-12-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0097Chapter97PermissionToLea
   position: 97,
   ownLength: 1893,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3156863/chapter-97-permission-to-leave",
-  externalId: "3156863",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3156863",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3156863/chapter-97-permission-to-leave",
+    },
+  ],
   publishedAt: "2026-03-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

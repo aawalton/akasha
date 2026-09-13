@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0127Chapter127EyeOfTheStorm 
   position: 127,
   ownLength: 2002,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3442482/chapter-127-eye-of-the-storm",
-  externalId: "3442482",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3442482",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3442482/chapter-127-eye-of-the-storm",
+    },
+  ],
   publishedAt: "2026-05-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

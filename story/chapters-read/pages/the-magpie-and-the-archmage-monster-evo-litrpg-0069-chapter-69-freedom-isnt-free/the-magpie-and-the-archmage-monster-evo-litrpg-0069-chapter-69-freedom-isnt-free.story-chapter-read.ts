@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0069Chapter69FreedomIsntFree
   position: 69,
   ownLength: 2099,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2925644/chapter-69-freedom-isnt-free",
-  externalId: "2925644",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2925644",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2925644/chapter-69-freedom-isnt-free",
+    },
+  ],
   publishedAt: "2026-01-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

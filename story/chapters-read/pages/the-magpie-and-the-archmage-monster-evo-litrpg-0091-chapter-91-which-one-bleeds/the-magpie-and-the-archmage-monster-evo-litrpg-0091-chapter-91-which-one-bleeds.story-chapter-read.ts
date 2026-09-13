@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0091Chapter91WhichOneBleeds 
   position: 91,
   ownLength: 1943,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3107241/chapter-91-which-one-bleeds",
-  externalId: "3107241",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3107241",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3107241/chapter-91-which-one-bleeds",
+    },
+  ],
   publishedAt: "2026-03-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

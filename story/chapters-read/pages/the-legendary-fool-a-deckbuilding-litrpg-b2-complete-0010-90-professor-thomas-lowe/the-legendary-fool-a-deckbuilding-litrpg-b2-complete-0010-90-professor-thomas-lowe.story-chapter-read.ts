@@ -9,10 +9,14 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete001090ProfessorThomasL
   position: 10,
   ownLength: 1036,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/1640535/90-professor-thomas-lowe",
-  externalId: "1640535",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1640535",
+      externalLink:
+        "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/1640535/90-professor-thomas-lowe",
+    },
+  ],
   publishedAt: "2024-05-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

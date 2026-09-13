@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0042Chapter42MaskSlips = {
   position: 42,
   ownLength: 1910,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2722100/chapter-42-mask-slips",
-  externalId: "2722100",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2722100",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2722100/chapter-42-mask-slips",
+    },
+  ],
   publishedAt: "2025-11-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

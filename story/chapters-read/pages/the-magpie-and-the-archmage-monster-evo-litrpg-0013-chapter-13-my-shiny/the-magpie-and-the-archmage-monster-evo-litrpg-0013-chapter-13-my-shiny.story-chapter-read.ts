@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0013Chapter13MyShiny = {
   position: 13,
   ownLength: 2115,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2545510/chapter-13-my-shiny",
-  externalId: "2545510",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2545510",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2545510/chapter-13-my-shiny",
+    },
+  ],
   publishedAt: "2025-08-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

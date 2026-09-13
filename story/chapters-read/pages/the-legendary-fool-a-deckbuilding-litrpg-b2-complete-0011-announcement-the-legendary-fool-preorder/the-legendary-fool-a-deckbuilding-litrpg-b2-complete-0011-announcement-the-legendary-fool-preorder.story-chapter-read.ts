@@ -10,10 +10,14 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete0011AnnouncementTheLeg
     position: 11,
     ownLength: 470,
     unit: "words",
-    source: "royal-road",
-    externalLink:
-      "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/1996802/announcement-the-legendary-fool-preorder",
-    externalId: "1996802",
+    externalIdentity: [
+      {
+        source: "royal-road",
+        externalId: "1996802",
+        externalLink:
+          "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/1996802/announcement-the-legendary-fool-preorder",
+      },
+    ],
     publishedAt: "2025-01-07",
     prose: "txt",
   } as const satisfies StoryChapterRead

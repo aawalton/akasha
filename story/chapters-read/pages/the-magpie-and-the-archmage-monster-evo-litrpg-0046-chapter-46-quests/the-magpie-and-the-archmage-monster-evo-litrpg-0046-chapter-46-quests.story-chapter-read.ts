@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0046Chapter46Quests = {
   position: 46,
   ownLength: 2322,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2747757/chapter-46-quests",
-  externalId: "2747757",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2747757",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2747757/chapter-46-quests",
+    },
+  ],
   publishedAt: "2025-11-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

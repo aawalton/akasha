@@ -9,10 +9,14 @@ export const theLegendOfRandidlyGhosthound0280Chapter2015 = {
   position: 280,
   ownLength: 2130,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/11209/the-legend-of-randidly-ghosthound/chapter/1024688/chapter-2015",
-  externalId: "1024688",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1024688",
+      externalLink:
+        "https://www.royalroad.com/fiction/11209/the-legend-of-randidly-ghosthound/chapter/1024688/chapter-2015",
+    },
+  ],
   publishedAt: "2022-10-26",
   ownProgress: 2130,
   completedAt: "2026-06-29T21:50:12.485Z",

@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0021Chapter21PeakOfTheMounta
   position: 21,
   ownLength: 2089,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2596798/chapter-21-peak-of-the-mountain",
-  externalId: "2596798",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2596798",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2596798/chapter-21-peak-of-the-mountain",
+    },
+  ],
   publishedAt: "2025-09-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

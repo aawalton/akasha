@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0052Chapter52CostOfRescue = 
   position: 52,
   ownLength: 2219,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2787723/chapter-52-cost-of-rescue",
-  externalId: "2787723",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2787723",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2787723/chapter-52-cost-of-rescue",
+    },
+  ],
   publishedAt: "2025-11-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

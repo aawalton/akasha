@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0099Chapter99TheCorruptionCl
   position: 99,
   ownLength: 2100,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3171897/chapter-99-the-corruption-clinic",
-  externalId: "3171897",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3171897",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3171897/chapter-99-the-corruption-clinic",
+    },
+  ],
   publishedAt: "2026-03-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

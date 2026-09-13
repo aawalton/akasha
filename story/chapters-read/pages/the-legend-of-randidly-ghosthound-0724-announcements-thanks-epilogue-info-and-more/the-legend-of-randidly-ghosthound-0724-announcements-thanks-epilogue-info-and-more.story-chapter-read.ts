@@ -9,10 +9,14 @@ export const theLegendOfRandidlyGhosthound0724AnnouncementsThanksEpilogueInfoAnd
   position: 724,
   ownLength: 679,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/11209/the-legend-of-randidly-ghosthound/chapter/1831720/announcements-thanks-epilogue-info-and-more",
-  externalId: "1831720",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1831720",
+      externalLink:
+        "https://www.royalroad.com/fiction/11209/the-legend-of-randidly-ghosthound/chapter/1831720/announcements-thanks-epilogue-info-and-more",
+    },
+  ],
   publishedAt: "2024-10-02",
   ownProgress: 679,
   completedAt: "2026-06-29T22:06:03.950Z",

@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0054Chapter54ReturnOfNarciss
   position: 54,
   ownLength: 2158,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2802757/chapter-54-return-of-narcissus",
-  externalId: "2802757",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2802757",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2802757/chapter-54-return-of-narcissus",
+    },
+  ],
   publishedAt: "2025-11-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

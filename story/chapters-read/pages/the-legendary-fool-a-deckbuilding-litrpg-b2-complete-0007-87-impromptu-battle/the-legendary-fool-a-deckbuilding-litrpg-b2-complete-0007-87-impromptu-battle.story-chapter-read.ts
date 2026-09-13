@@ -9,10 +9,14 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete000787ImpromptuBattle 
   position: 7,
   ownLength: 1277,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/1635754/87-impromptu-battle",
-  externalId: "1635754",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1635754",
+      externalLink:
+        "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/1635754/87-impromptu-battle",
+    },
+  ],
   publishedAt: "2024-05-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

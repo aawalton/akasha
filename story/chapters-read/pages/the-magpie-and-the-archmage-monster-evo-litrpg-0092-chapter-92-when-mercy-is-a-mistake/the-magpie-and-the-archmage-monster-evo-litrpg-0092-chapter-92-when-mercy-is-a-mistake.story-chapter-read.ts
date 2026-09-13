@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0092Chapter92WhenMercyIsAMis
   position: 92,
   ownLength: 1979,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3114608/chapter-92-when-mercy-is-a-mistake",
-  externalId: "3114608",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3114608",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3114608/chapter-92-when-mercy-is-a-mistake",
+    },
+  ],
   publishedAt: "2026-03-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

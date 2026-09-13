@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0047Chapter47UnauthorizedQue
   position: 47,
   ownLength: 2014,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2753849/chapter-47-unauthorized-questing",
-  externalId: "2753849",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2753849",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2753849/chapter-47-unauthorized-questing",
+    },
+  ],
   publishedAt: "2025-11-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

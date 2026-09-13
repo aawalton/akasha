@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0085Chapter85TheBattleAtSea 
   position: 85,
   ownLength: 2052,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3058588/chapter-85-the-battle-at-sea",
-  externalId: "3058588",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3058588",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3058588/chapter-85-the-battle-at-sea",
+    },
+  ],
   publishedAt: "2026-02-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

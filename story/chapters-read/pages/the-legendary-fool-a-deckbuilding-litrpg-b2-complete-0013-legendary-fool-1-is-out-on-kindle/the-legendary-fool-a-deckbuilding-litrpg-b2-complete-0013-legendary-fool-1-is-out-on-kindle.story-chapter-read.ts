@@ -9,10 +9,14 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete0013LegendaryFool1IsOu
   position: 13,
   ownLength: 302,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/2165405/legendary-fool-1-is-out-on-kindle-unlimited-and",
-  externalId: "2165405",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2165405",
+      externalLink:
+        "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/2165405/legendary-fool-1-is-out-on-kindle-unlimited-and",
+    },
+  ],
   publishedAt: "2025-04-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

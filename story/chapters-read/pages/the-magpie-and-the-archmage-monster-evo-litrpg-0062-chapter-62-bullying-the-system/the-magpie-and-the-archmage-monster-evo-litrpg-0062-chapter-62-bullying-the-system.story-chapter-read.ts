@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0062Chapter62BullyingTheSyst
   position: 62,
   ownLength: 2104,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2855231/chapter-62-bullying-the-system",
-  externalId: "2855231",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2855231",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2855231/chapter-62-bullying-the-system",
+    },
+  ],
   publishedAt: "2025-12-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

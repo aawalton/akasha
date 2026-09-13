@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0004Chapter4BestowingAName =
   position: 4,
   ownLength: 1995,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2525562/chapter-4-bestowing-a-name",
-  externalId: "2525562",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525562",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2525562/chapter-4-bestowing-a-name",
+    },
+  ],
   publishedAt: "2025-08-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

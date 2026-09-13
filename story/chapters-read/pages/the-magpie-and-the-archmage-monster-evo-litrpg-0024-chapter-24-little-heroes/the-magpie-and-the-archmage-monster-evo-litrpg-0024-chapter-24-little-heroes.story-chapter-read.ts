@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0024Chapter24LittleHeroes = 
   position: 24,
   ownLength: 2150,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2614709/chapter-24-little-heroes",
-  externalId: "2614709",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2614709",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2614709/chapter-24-little-heroes",
+    },
+  ],
   publishedAt: "2025-09-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

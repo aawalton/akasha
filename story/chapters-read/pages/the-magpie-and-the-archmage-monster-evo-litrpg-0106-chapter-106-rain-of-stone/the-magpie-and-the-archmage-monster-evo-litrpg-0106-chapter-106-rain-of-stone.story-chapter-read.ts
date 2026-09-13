@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0106Chapter106RainOfStone = 
   position: 106,
   ownLength: 2066,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3237617/chapter-106-rain-of-stone",
-  externalId: "3237617",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3237617",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3237617/chapter-106-rain-of-stone",
+    },
+  ],
   publishedAt: "2026-04-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

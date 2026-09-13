@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0100Chapter100TheLimitsOfHea
   position: 100,
   ownLength: 2105,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3182532/chapter-100-the-limits-of-healing",
-  externalId: "3182532",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3182532",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3182532/chapter-100-the-limits-of-healing",
+    },
+  ],
   publishedAt: "2026-03-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

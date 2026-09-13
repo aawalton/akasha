@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0025Chapter25PeckTherapy = {
   position: 25,
   ownLength: 2088,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2619113/chapter-25-peck-therapy",
-  externalId: "2619113",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2619113",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2619113/chapter-25-peck-therapy",
+    },
+  ],
   publishedAt: "2025-09-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

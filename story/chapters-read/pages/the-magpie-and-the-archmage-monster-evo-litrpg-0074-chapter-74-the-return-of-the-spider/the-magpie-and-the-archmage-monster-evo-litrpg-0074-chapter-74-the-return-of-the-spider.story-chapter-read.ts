@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0074Chapter74TheReturnOfTheS
   position: 74,
   ownLength: 2113,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2963524/chapter-74-the-return-of-the-spider",
-  externalId: "2963524",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2963524",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2963524/chapter-74-the-return-of-the-spider",
+    },
+  ],
   publishedAt: "2026-01-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

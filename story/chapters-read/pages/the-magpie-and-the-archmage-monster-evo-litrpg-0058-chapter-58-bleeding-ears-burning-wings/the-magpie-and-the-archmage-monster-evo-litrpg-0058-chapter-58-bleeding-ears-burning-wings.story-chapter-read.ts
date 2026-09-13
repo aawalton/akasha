@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0058Chapter58BleedingEarsBur
   position: 58,
   ownLength: 2014,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2828870/chapter-58-bleeding-ears-burning-wings",
-  externalId: "2828870",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2828870",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2828870/chapter-58-bleeding-ears-burning-wings",
+    },
+  ],
   publishedAt: "2025-12-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

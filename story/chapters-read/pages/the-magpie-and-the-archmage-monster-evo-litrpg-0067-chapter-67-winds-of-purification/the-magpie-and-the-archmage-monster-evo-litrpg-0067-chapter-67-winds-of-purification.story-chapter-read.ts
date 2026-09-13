@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0067Chapter67WindsOfPurifica
   position: 67,
   ownLength: 2089,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2912877/chapter-67-winds-of-purification",
-  externalId: "2912877",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2912877",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2912877/chapter-67-winds-of-purification",
+    },
+  ],
   publishedAt: "2026-01-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

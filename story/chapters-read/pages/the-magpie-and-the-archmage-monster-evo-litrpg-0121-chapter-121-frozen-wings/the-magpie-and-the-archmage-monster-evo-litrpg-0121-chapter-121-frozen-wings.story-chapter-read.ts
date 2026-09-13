@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0121Chapter121FrozenWings = 
   position: 121,
   ownLength: 2096,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3380979/chapter-121-frozen-wings",
-  externalId: "3380979",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3380979",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3380979/chapter-121-frozen-wings",
+    },
+  ],
   publishedAt: "2026-05-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

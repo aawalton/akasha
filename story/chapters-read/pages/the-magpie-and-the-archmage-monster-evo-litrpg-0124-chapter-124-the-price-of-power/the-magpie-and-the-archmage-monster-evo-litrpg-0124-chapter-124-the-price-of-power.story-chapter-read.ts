@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0124Chapter124ThePriceOfPowe
   position: 124,
   ownLength: 2103,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3412482/chapter-124-the-price-of-power",
-  externalId: "3412482",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3412482",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3412482/chapter-124-the-price-of-power",
+    },
+  ],
   publishedAt: "2026-05-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

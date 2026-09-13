@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0114Chapter114GreatSuccess =
   position: 114,
   ownLength: 2142,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3311970/chapter-114-great-success",
-  externalId: "3311970",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3311970",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3311970/chapter-114-great-success",
+    },
+  ],
   publishedAt: "2026-04-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

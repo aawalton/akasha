@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0101Chapter101BeyondControl 
   position: 101,
   ownLength: 1973,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3191143/chapter-101-beyond-control",
-  externalId: "3191143",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3191143",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3191143/chapter-101-beyond-control",
+    },
+  ],
   publishedAt: "2026-03-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0010Chapter10Corruption = {
   position: 10,
   ownLength: 2104,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2526947/chapter-10-corruption",
-  externalId: "2526947",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2526947",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2526947/chapter-10-corruption",
+    },
+  ],
   publishedAt: "2025-08-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

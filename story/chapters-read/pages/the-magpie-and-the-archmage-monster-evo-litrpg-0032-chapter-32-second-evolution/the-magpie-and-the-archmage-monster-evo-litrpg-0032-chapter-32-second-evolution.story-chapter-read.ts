@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0032Chapter32SecondEvolution
   position: 32,
   ownLength: 2158,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2660036/chapter-32-second-evolution",
-  externalId: "2660036",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2660036",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2660036/chapter-32-second-evolution",
+    },
+  ],
   publishedAt: "2025-10-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

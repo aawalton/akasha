@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0023Chapter23Captured = {
   position: 23,
   ownLength: 2071,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2606690/chapter-23-captured",
-  externalId: "2606690",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2606690",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2606690/chapter-23-captured",
+    },
+  ],
   publishedAt: "2025-09-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

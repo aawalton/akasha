@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0018Chapter18CorruptedHunt =
   position: 18,
   ownLength: 2025,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2578560/chapter-18-corrupted-hunt",
-  externalId: "2578560",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2578560",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2578560/chapter-18-corrupted-hunt",
+    },
+  ],
   publishedAt: "2025-09-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

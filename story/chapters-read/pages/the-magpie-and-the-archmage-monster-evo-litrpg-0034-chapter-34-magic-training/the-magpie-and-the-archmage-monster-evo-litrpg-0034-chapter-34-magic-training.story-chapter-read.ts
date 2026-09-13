@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0034Chapter34MagicTraining =
   position: 34,
   ownLength: 2168,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2672280/chapter-34-magic-training",
-  externalId: "2672280",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2672280",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2672280/chapter-34-magic-training",
+    },
+  ],
   publishedAt: "2025-10-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

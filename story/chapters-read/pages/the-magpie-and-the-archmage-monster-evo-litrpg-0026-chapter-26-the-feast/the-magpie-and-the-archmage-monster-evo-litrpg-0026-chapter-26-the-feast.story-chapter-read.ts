@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0026Chapter26TheFeast = {
   position: 26,
   ownLength: 2121,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2624348/chapter-26-the-feast",
-  externalId: "2624348",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2624348",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2624348/chapter-26-the-feast",
+    },
+  ],
   publishedAt: "2025-09-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

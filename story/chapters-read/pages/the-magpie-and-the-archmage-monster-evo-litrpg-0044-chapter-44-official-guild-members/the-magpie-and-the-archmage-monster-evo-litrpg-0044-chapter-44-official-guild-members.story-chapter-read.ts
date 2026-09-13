@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0044Chapter44OfficialGuildMe
   position: 44,
   ownLength: 2260,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2733758/chapter-44-official-guild-members",
-  externalId: "2733758",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2733758",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2733758/chapter-44-official-guild-members",
+    },
+  ],
   publishedAt: "2025-11-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

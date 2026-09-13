@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0055Chapter55ForestBeneathTh
   position: 55,
   ownLength: 1941,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2808033/chapter-55-forest-beneath-the-stone",
-  externalId: "2808033",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2808033",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2808033/chapter-55-forest-beneath-the-stone",
+    },
+  ],
   publishedAt: "2025-12-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

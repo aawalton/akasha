@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0093Chapter93BloodOnFeathers
   position: 93,
   ownLength: 1842,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3121731/chapter-93-blood-on-feathers",
-  externalId: "3121731",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3121731",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3121731/chapter-93-blood-on-feathers",
+    },
+  ],
   publishedAt: "2026-03-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

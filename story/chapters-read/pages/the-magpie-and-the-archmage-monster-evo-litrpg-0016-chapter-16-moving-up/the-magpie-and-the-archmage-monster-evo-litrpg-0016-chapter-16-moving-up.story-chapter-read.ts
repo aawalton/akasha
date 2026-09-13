@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0016Chapter16MovingUp = {
   position: 16,
   ownLength: 2166,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2564484/chapter-16-moving-up",
-  externalId: "2564484",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2564484",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2564484/chapter-16-moving-up",
+    },
+  ],
   publishedAt: "2025-09-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

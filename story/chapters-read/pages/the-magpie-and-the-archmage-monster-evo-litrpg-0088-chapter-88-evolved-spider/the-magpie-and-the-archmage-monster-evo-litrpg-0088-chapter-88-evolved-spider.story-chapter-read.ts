@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0088Chapter88EvolvedSpider =
   position: 88,
   ownLength: 2199,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3082853/chapter-88-evolved-spider",
-  externalId: "3082853",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3082853",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3082853/chapter-88-evolved-spider",
+    },
+  ],
   publishedAt: "2026-02-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

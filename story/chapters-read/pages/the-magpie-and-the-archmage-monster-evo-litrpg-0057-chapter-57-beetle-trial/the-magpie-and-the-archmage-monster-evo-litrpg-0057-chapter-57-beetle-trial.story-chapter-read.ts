@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0057Chapter57BeetleTrial = {
   position: 57,
   ownLength: 2044,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2823613/chapter-57-beetle-trial",
-  externalId: "2823613",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2823613",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2823613/chapter-57-beetle-trial",
+    },
+  ],
   publishedAt: "2025-12-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

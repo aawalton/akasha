@@ -9,10 +9,14 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete000888Unravelling = {
   position: 8,
   ownLength: 1528,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/1636401/88-unravelling",
-  externalId: "1636401",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1636401",
+      externalLink:
+        "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/1636401/88-unravelling",
+    },
+  ],
   publishedAt: "2024-05-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

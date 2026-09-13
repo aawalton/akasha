@@ -9,10 +9,14 @@ export const theLegendOfRandidlyGhosthound0725EpilogueClarityAndNewProject = {
   position: 725,
   ownLength: 150,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/11209/the-legend-of-randidly-ghosthound/chapter/3769787/epilogue-clarity-and-new-project",
-  externalId: "3769787",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3769787",
+      externalLink:
+        "https://www.royalroad.com/fiction/11209/the-legend-of-randidly-ghosthound/chapter/3769787/epilogue-clarity-and-new-project",
+    },
+  ],
   publishedAt: "2026-08-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

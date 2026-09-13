@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0105Chapter105GiantsDontFall
   position: 105,
   ownLength: 2218,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3225323/chapter-105-giants-dont-fall-quietly",
-  externalId: "3225323",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3225323",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3225323/chapter-105-giants-dont-fall-quietly",
+    },
+  ],
   publishedAt: "2026-04-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

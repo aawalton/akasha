@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0115Chapter115DoNotSpeakOfEa
   position: 115,
   ownLength: 2056,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3323502/chapter-115-do-not-speak-of-earth",
-  externalId: "3323502",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3323502",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3323502/chapter-115-do-not-speak-of-earth",
+    },
+  ],
   publishedAt: "2026-04-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0020Chapter20HolyBird = {
   position: 20,
   ownLength: 2068,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2589099/chapter-20-holy-bird",
-  externalId: "2589099",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2589099",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2589099/chapter-20-holy-bird",
+    },
+  ],
   publishedAt: "2025-09-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0017Chapter17Visitors = {
   position: 17,
   ownLength: 2261,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2570179/chapter-17-visitors",
-  externalId: "2570179",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2570179",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2570179/chapter-17-visitors",
+    },
+  ],
   publishedAt: "2025-09-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0086Chapter86GreedGritAndThe
   position: 86,
   ownLength: 2138,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3066994/chapter-86-greed-grit-and-the-open-sea",
-  externalId: "3066994",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3066994",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3066994/chapter-86-greed-grit-and-the-open-sea",
+    },
+  ],
   publishedAt: "2026-02-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

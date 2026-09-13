@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0113Chapter113TheManWithTheM
   position: 113,
   ownLength: 1958,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3303615/chapter-113-the-man-with-the-manic-glint",
-  externalId: "3303615",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3303615",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3303615/chapter-113-the-man-with-the-manic-glint",
+    },
+  ],
   publishedAt: "2026-04-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

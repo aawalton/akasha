@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0073Chapter73ConqueringTheMa
   position: 73,
   ownLength: 1985,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2956906/chapter-73-conquering-the-marsh",
-  externalId: "2956906",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2956906",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2956906/chapter-73-conquering-the-marsh",
+    },
+  ],
   publishedAt: "2026-01-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

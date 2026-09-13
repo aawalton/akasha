@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0041Chapter41WorkingAsATeam 
   position: 41,
   ownLength: 1817,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2713474/chapter-41-working-as-a-team",
-  externalId: "2713474",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2713474",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2713474/chapter-41-working-as-a-team",
+    },
+  ],
   publishedAt: "2025-10-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

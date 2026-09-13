@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0071Chapter71TheHellMarsh = 
   position: 71,
   ownLength: 2072,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2941282/chapter-71-the-hell-marsh",
-  externalId: "2941282",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2941282",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2941282/chapter-71-the-hell-marsh",
+    },
+  ],
   publishedAt: "2026-01-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

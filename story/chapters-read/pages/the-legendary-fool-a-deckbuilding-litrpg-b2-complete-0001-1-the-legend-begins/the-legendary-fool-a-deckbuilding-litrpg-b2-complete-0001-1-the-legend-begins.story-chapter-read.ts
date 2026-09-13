@@ -9,10 +9,14 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete00011TheLegendBegins =
   position: 1,
   ownLength: 3922,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/1039560/1-the-legend-begins",
-  externalId: "1039560",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1039560",
+      externalLink:
+        "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/1039560/1-the-legend-begins",
+    },
+  ],
   publishedAt: "2022-11-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

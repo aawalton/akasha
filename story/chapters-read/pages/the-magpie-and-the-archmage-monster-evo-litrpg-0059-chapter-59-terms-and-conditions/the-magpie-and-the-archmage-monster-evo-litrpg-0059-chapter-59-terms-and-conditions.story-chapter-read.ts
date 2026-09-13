@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0059Chapter59TermsAndConditi
   position: 59,
   ownLength: 1990,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2834853/chapter-59-terms-and-conditions",
-  externalId: "2834853",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2834853",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2834853/chapter-59-terms-and-conditions",
+    },
+  ],
   publishedAt: "2025-12-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

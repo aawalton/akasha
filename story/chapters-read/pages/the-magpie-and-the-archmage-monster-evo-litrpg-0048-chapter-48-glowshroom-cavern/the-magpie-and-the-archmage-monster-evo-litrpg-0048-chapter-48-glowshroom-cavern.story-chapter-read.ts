@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0048Chapter48GlowshroomCaver
   position: 48,
   ownLength: 2065,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2762692/chapter-48-glowshroom-cavern",
-  externalId: "2762692",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2762692",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2762692/chapter-48-glowshroom-cavern",
+    },
+  ],
   publishedAt: "2025-11-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete00044Gambit1 = {
   position: 4,
   ownLength: 1035,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/1042356/4-gambit-1",
-  externalId: "1042356",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1042356",
+      externalLink:
+        "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/1042356/4-gambit-1",
+    },
+  ],
   publishedAt: "2022-11-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

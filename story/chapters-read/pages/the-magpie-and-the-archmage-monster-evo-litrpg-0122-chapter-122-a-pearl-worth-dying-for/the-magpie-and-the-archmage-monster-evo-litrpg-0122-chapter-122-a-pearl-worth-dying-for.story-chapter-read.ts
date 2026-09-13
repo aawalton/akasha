@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0122Chapter122APearlWorthDyi
   position: 122,
   ownLength: 2223,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3389379/chapter-122-a-pearl-worth-dying-for",
-  externalId: "3389379",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3389379",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3389379/chapter-122-a-pearl-worth-dying-for",
+    },
+  ],
   publishedAt: "2026-05-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

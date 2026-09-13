@@ -9,10 +9,14 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete000989IBelieveIHaveACl
   position: 9,
   ownLength: 1673,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/1638692/89-i-believe-i-have-a-class-to-get-to",
-  externalId: "1638692",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1638692",
+      externalLink:
+        "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/1638692/89-i-believe-i-have-a-class-to-get-to",
+    },
+  ],
   publishedAt: "2024-05-16",
   prose: "txt",
 } as const satisfies StoryChapterRead
