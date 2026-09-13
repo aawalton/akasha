@@ -6,10 +6,14 @@ export const sia85Blocks = {
   slug: "sia-85-blocks",
   title: "85 Blocks",
   artist: "sia",
-  externalId: "96546018-551d-4180-9a92-4f7a42084749",
-  externalLink: "https://musicbrainz.org/work/96546018-551d-4180-9a92-4f7a42084749",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "96546018-551d-4180-9a92-4f7a42084749",
+      externalLink: "https://musicbrainz.org/work/96546018-551d-4180-9a92-4f7a42084749",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

@@ -6,10 +6,14 @@ export const mitskiGoodbyeMyDanishSweetheart = {
   slug: "mitski-goodbye-my-danish-sweetheart",
   title: "Goodbye, My Danish Sweetheart",
   artist: "mitski",
-  externalId: "5b40b41a-b9c4-4ada-97bf-8967047f2b02",
-  externalLink: "https://musicbrainz.org/work/5b40b41a-b9c4-4ada-97bf-8967047f2b02",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5b40b41a-b9c4-4ada-97bf-8967047f2b02",
+      externalLink: "https://musicbrainz.org/work/5b40b41a-b9c4-4ada-97bf-8967047f2b02",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

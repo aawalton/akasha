@@ -6,10 +6,14 @@ export const siaILoveItTrialsRemix = {
   slug: "sia-i-love-it-trials-remix",
   title: "I Love It (Trials remix)",
   artist: "sia",
-  externalId: "756184d3-fba9-4ae2-8ff8-00b60508b753",
-  externalLink: "https://musicbrainz.org/work/756184d3-fba9-4ae2-8ff8-00b60508b753",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "756184d3-fba9-4ae2-8ff8-00b60508b753",
+      externalLink: "https://musicbrainz.org/work/756184d3-fba9-4ae2-8ff8-00b60508b753",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

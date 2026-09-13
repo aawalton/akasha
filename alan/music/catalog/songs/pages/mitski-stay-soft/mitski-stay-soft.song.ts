@@ -6,10 +6,14 @@ export const mitskiStaySoft = {
   slug: "mitski-stay-soft",
   title: "Stay Soft",
   artist: "mitski",
-  externalId: "341751bd-93fd-4d60-a8be-0587a2c5c232",
-  externalLink: "https://musicbrainz.org/work/341751bd-93fd-4d60-a8be-0587a2c5c232",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "341751bd-93fd-4d60-a8be-0587a2c5c232",
+      externalLink: "https://musicbrainz.org/work/341751bd-93fd-4d60-a8be-0587a2c5c232",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

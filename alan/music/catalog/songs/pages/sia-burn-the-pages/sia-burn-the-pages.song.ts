@@ -6,10 +6,14 @@ export const siaBurnThePages = {
   slug: "sia-burn-the-pages",
   title: "Burn the Pages",
   artist: "sia",
-  externalId: "b7da8e9e-b9ee-4391-8063-808a76699aa3",
-  externalLink: "https://musicbrainz.org/work/b7da8e9e-b9ee-4391-8063-808a76699aa3",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b7da8e9e-b9ee-4391-8063-808a76699aa3",
+      externalLink: "https://musicbrainz.org/work/b7da8e9e-b9ee-4391-8063-808a76699aa3",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const lilithMaxStillWithMe = {
   slug: "lilith-max-still-with-me",
   title: "Still with Me",
   artist: "lilith-max",
-  externalId: "1a3f08ab-8bef-458b-a378-40819649afda",
-  externalLink: "https://musicbrainz.org/recording/1a3f08ab-8bef-458b-a378-40819649afda",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1a3f08ab-8bef-458b-a378-40819649afda",
+      externalLink: "https://musicbrainz.org/recording/1a3f08ab-8bef-458b-a378-40819649afda",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

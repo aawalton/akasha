@@ -6,10 +6,14 @@ export const siaLovedMeBackToLife = {
   slug: "sia-loved-me-back-to-life",
   title: "Loved Me Back to Life",
   artist: "sia",
-  externalId: "a9fb8a68-3fb1-4a95-bff5-618ab9a5ca46",
-  externalLink: "https://musicbrainz.org/work/a9fb8a68-3fb1-4a95-bff5-618ab9a5ca46",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a9fb8a68-3fb1-4a95-bff5-618ab9a5ca46",
+      externalLink: "https://musicbrainz.org/work/a9fb8a68-3fb1-4a95-bff5-618ab9a5ca46",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

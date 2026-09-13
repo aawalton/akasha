@@ -6,10 +6,14 @@ export const siaLentil = {
   slug: "sia-lentil",
   title: "Lentil",
   artist: "sia",
-  externalId: "743cd5b5-57b4-418e-b886-163ba9dd36b7",
-  externalLink: "https://musicbrainz.org/work/743cd5b5-57b4-418e-b886-163ba9dd36b7",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "743cd5b5-57b4-418e-b886-163ba9dd36b7",
+      externalLink: "https://musicbrainz.org/work/743cd5b5-57b4-418e-b886-163ba9dd36b7",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const siaTheCoDependent = {
   slug: "sia-the-co-dependent",
   title: "The Co-Dependent",
   artist: "sia",
-  externalId: "816d761b-413b-4211-ab02-03f8d579781c",
-  externalLink: "https://musicbrainz.org/work/816d761b-413b-4211-ab02-03f8d579781c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "816d761b-413b-4211-ab02-03f8d579781c",
+      externalLink: "https://musicbrainz.org/work/816d761b-413b-4211-ab02-03f8d579781c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

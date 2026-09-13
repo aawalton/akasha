@@ -6,10 +6,14 @@ export const siaPlayground = {
   slug: "sia-playground",
   title: "Playground",
   artist: "sia",
-  externalId: "83dd9d8a-240d-4380-b47f-1d6a167533de",
-  externalLink: "https://musicbrainz.org/work/83dd9d8a-240d-4380-b47f-1d6a167533de",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "83dd9d8a-240d-4380-b47f-1d6a167533de",
+      externalLink: "https://musicbrainz.org/work/83dd9d8a-240d-4380-b47f-1d6a167533de",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

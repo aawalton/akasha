@@ -6,10 +6,14 @@ export const siaManchild = {
   slug: "sia-manchild",
   title: "Manchild",
   artist: "sia",
-  externalId: "c4855d7e-0cb3-335b-b483-37422989d585",
-  externalLink: "https://musicbrainz.org/work/c4855d7e-0cb3-335b-b483-37422989d585",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c4855d7e-0cb3-335b-b483-37422989d585",
+      externalLink: "https://musicbrainz.org/work/c4855d7e-0cb3-335b-b483-37422989d585",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

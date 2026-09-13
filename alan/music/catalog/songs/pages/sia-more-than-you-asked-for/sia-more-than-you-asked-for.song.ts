@@ -6,10 +6,14 @@ export const siaMoreThanYouAskedFor = {
   slug: "sia-more-than-you-asked-for",
   title: "More Than You Asked For",
   artist: "sia",
-  externalId: "00ccda45-aa3c-47ff-8f68-971b969b7da1",
-  externalLink: "https://musicbrainz.org/work/00ccda45-aa3c-47ff-8f68-971b969b7da1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "00ccda45-aa3c-47ff-8f68-971b969b7da1",
+      externalLink: "https://musicbrainz.org/work/00ccda45-aa3c-47ff-8f68-971b969b7da1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

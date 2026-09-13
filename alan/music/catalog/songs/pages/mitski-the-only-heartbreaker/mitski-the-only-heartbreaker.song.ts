@@ -6,10 +6,14 @@ export const mitskiTheOnlyHeartbreaker = {
   slug: "mitski-the-only-heartbreaker",
   title: "The Only Heartbreaker",
   artist: "mitski",
-  externalId: "47bb0fd7-308b-4aff-99bb-031d59f867e9",
-  externalLink: "https://musicbrainz.org/work/47bb0fd7-308b-4aff-99bb-031d59f867e9",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "47bb0fd7-308b-4aff-99bb-031d59f867e9",
+      externalLink: "https://musicbrainz.org/work/47bb0fd7-308b-4aff-99bb-031d59f867e9",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

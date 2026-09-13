@@ -6,10 +6,14 @@ export const siaFreezeYouOut = {
   slug: "sia-freeze-you-out",
   title: "Freeze You Out",
   artist: "sia",
-  externalId: "8d803f97-dd75-4ceb-ac37-4d38d0e4ad18",
-  externalLink: "https://musicbrainz.org/work/8d803f97-dd75-4ceb-ac37-4d38d0e4ad18",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8d803f97-dd75-4ceb-ac37-4d38d0e4ad18",
+      externalLink: "https://musicbrainz.org/work/8d803f97-dd75-4ceb-ac37-4d38d0e4ad18",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

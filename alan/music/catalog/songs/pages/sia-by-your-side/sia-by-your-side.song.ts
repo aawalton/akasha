@@ -6,10 +6,14 @@ export const siaByYourSide = {
   slug: "sia-by-your-side",
   title: "By Your Side",
   artist: "sia",
-  externalId: "47ed8879-f008-41f4-9b43-9d0699f9801a",
-  externalLink: "https://musicbrainz.org/work/47ed8879-f008-41f4-9b43-9d0699f9801a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "47ed8879-f008-41f4-9b43-9d0699f9801a",
+      externalLink: "https://musicbrainz.org/work/47ed8879-f008-41f4-9b43-9d0699f9801a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

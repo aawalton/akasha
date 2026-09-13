@@ -6,10 +6,14 @@ export const siaSomersault = {
   slug: "sia-somersault",
   title: "Somersault",
   artist: "sia",
-  externalId: "9505d156-19e7-4e9c-8f7e-24f8a3dc636d",
-  externalLink: "https://musicbrainz.org/work/9505d156-19e7-4e9c-8f7e-24f8a3dc636d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9505d156-19e7-4e9c-8f7e-24f8a3dc636d",
+      externalLink: "https://musicbrainz.org/work/9505d156-19e7-4e9c-8f7e-24f8a3dc636d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

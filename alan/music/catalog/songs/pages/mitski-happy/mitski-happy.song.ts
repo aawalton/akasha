@@ -6,10 +6,14 @@ export const mitskiHappy = {
   slug: "mitski-happy",
   title: "Happy",
   artist: "mitski",
-  externalId: "929b95e8-f06a-4dda-b7ff-0dd854318e30",
-  externalLink: "https://musicbrainz.org/work/929b95e8-f06a-4dda-b7ff-0dd854318e30",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "929b95e8-f06a-4dda-b7ff-0dd854318e30",
+      externalLink: "https://musicbrainz.org/work/929b95e8-f06a-4dda-b7ff-0dd854318e30",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

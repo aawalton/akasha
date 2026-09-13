@@ -6,10 +6,14 @@ export const siaDiamonds = {
   slug: "sia-diamonds",
   title: "Diamonds",
   artist: "sia",
-  externalId: "51ecbcfc-5b83-408e-b8dd-905f842967bf",
-  externalLink: "https://musicbrainz.org/work/51ecbcfc-5b83-408e-b8dd-905f842967bf",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "51ecbcfc-5b83-408e-b8dd-905f842967bf",
+      externalLink: "https://musicbrainz.org/work/51ecbcfc-5b83-408e-b8dd-905f842967bf",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

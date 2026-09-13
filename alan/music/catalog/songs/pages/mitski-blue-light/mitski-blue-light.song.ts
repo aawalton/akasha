@@ -6,10 +6,14 @@ export const mitskiBlueLight = {
   slug: "mitski-blue-light",
   title: "Blue Light",
   artist: "mitski",
-  externalId: "1990a898-c332-485a-a45d-541b54e42f3e",
-  externalLink: "https://musicbrainz.org/work/1990a898-c332-485a-a45d-541b54e42f3e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1990a898-c332-485a-a45d-541b54e42f3e",
+      externalLink: "https://musicbrainz.org/work/1990a898-c332-485a-a45d-541b54e42f3e",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const mitskiTwoSlowDancers = {
   slug: "mitski-two-slow-dancers",
   title: "Two Slow Dancers",
   artist: "mitski",
-  externalId: "08f03981-bc62-4e7f-80e8-1c38d7110d2a",
-  externalLink: "https://musicbrainz.org/work/08f03981-bc62-4e7f-80e8-1c38d7110d2a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "08f03981-bc62-4e7f-80e8-1c38d7110d2a",
+      externalLink: "https://musicbrainz.org/work/08f03981-bc62-4e7f-80e8-1c38d7110d2a",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

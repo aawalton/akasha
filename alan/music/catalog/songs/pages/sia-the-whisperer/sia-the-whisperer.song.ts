@@ -6,10 +6,14 @@ export const siaTheWhisperer = {
   slug: "sia-the-whisperer",
   title: "The Whisperer",
   artist: "sia",
-  externalId: "374ab399-004a-41e1-8d00-502b1f60fab9",
-  externalLink: "https://musicbrainz.org/work/374ab399-004a-41e1-8d00-502b1f60fab9",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "374ab399-004a-41e1-8d00-502b1f60fab9",
+      externalLink: "https://musicbrainz.org/work/374ab399-004a-41e1-8d00-502b1f60fab9",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

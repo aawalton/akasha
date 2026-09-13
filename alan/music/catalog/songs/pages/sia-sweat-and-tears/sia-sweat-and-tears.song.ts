@@ -6,10 +6,14 @@ export const siaSweatAndTears = {
   slug: "sia-sweat-and-tears",
   title: "Sweat and Tears",
   artist: "sia",
-  externalId: "e62b8ceb-e3d9-4913-ac0d-80b6632139d2",
-  externalLink: "https://musicbrainz.org/work/e62b8ceb-e3d9-4913-ac0d-80b6632139d2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e62b8ceb-e3d9-4913-ac0d-80b6632139d2",
+      externalLink: "https://musicbrainz.org/work/e62b8ceb-e3d9-4913-ac0d-80b6632139d2",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

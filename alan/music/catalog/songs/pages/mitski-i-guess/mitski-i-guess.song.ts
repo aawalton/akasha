@@ -6,10 +6,14 @@ export const mitskiIGuess = {
   slug: "mitski-i-guess",
   title: "I Guess",
   artist: "mitski",
-  externalId: "2ff5b840-bb31-4ecc-bf63-0192b6cc58f3",
-  externalLink: "https://musicbrainz.org/work/2ff5b840-bb31-4ecc-bf63-0192b6cc58f3",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2ff5b840-bb31-4ecc-bf63-0192b6cc58f3",
+      externalLink: "https://musicbrainz.org/work/2ff5b840-bb31-4ecc-bf63-0192b6cc58f3",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

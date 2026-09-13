@@ -6,10 +6,14 @@ export const mitskiComeIntoTheWater = {
   slug: "mitski-come-into-the-water",
   title: "Come Into the Water",
   artist: "mitski",
-  externalId: "b1f83feb-5404-4f93-a8ca-6bef3dc7e64d",
-  externalLink: "https://musicbrainz.org/work/b1f83feb-5404-4f93-a8ca-6bef3dc7e64d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b1f83feb-5404-4f93-a8ca-6bef3dc7e64d",
+      externalLink: "https://musicbrainz.org/work/b1f83feb-5404-4f93-a8ca-6bef3dc7e64d",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

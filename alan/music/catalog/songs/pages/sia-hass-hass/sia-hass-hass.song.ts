@@ -6,10 +6,14 @@ export const siaHassHass = {
   slug: "sia-hass-hass",
   title: "Hass Hass",
   artist: "sia",
-  externalId: "36b040c7-290a-4c93-aa82-5829399eff7c",
-  externalLink: "https://musicbrainz.org/work/36b040c7-290a-4c93-aa82-5829399eff7c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "36b040c7-290a-4c93-aa82-5829399eff7c",
+      externalLink: "https://musicbrainz.org/work/36b040c7-290a-4c93-aa82-5829399eff7c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

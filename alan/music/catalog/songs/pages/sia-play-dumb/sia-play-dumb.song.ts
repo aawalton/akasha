@@ -6,10 +6,14 @@ export const siaPlayDumb = {
   slug: "sia-play-dumb",
   title: "Play Dumb",
   artist: "sia",
-  externalId: "c67ac09c-2e93-4c5c-a599-9edb105a7857",
-  externalLink: "https://musicbrainz.org/work/c67ac09c-2e93-4c5c-a599-9edb105a7857",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c67ac09c-2e93-4c5c-a599-9edb105a7857",
+      externalLink: "https://musicbrainz.org/work/c67ac09c-2e93-4c5c-a599-9edb105a7857",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

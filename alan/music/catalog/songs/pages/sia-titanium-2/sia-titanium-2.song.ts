@@ -6,10 +6,14 @@ export const siaTitanium2 = {
   slug: "sia-titanium-2",
   title: "Titanium",
   artist: "sia",
-  externalId: "b1bcb727-5520-4e83-aee3-e182fd6b076d",
-  externalLink: "https://musicbrainz.org/work/b1bcb727-5520-4e83-aee3-e182fd6b076d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b1bcb727-5520-4e83-aee3-e182fd6b076d",
+      externalLink: "https://musicbrainz.org/work/b1bcb727-5520-4e83-aee3-e182fd6b076d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

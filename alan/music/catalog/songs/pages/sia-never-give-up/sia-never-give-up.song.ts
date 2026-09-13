@@ -6,10 +6,14 @@ export const siaNeverGiveUp = {
   slug: "sia-never-give-up",
   title: "Never Give Up",
   artist: "sia",
-  externalId: "79745379-e997-43a0-b649-e81c19b86478",
-  externalLink: "https://musicbrainz.org/work/79745379-e997-43a0-b649-e81c19b86478",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "79745379-e997-43a0-b649-e81c19b86478",
+      externalLink: "https://musicbrainz.org/work/79745379-e997-43a0-b649-e81c19b86478",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

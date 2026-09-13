@@ -6,10 +6,14 @@ export const siaChainedToTheRhythm = {
   slug: "sia-chained-to-the-rhythm",
   title: "Chained to the Rhythm",
   artist: "sia",
-  externalId: "c17f57e5-ece0-4635-b1f2-dbff1ab9c6d1",
-  externalLink: "https://musicbrainz.org/work/c17f57e5-ece0-4635-b1f2-dbff1ab9c6d1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c17f57e5-ece0-4635-b1f2-dbff1ab9c6d1",
+      externalLink: "https://musicbrainz.org/work/c17f57e5-ece0-4635-b1f2-dbff1ab9c6d1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

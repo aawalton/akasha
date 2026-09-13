@@ -6,10 +6,14 @@ export const mitskiLiquidSmooth = {
   slug: "mitski-liquid-smooth",
   title: "Liquid Smooth",
   artist: "mitski",
-  externalId: "6321829c-17b8-440c-90d2-0b0dc37afcc0",
-  externalLink: "https://musicbrainz.org/work/6321829c-17b8-440c-90d2-0b0dc37afcc0",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6321829c-17b8-440c-90d2-0b0dc37afcc0",
+      externalLink: "https://musicbrainz.org/work/6321829c-17b8-440c-90d2-0b0dc37afcc0",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

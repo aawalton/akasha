@@ -6,10 +6,14 @@ export const siaCandyCaneLane = {
   slug: "sia-candy-cane-lane",
   title: "Candy Cane Lane",
   artist: "sia",
-  externalId: "b26b9781-72e2-43c5-bddd-c9bd142f7281",
-  externalLink: "https://musicbrainz.org/work/b26b9781-72e2-43c5-bddd-c9bd142f7281",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b26b9781-72e2-43c5-bddd-c9bd142f7281",
+      externalLink: "https://musicbrainz.org/work/b26b9781-72e2-43c5-bddd-c9bd142f7281",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

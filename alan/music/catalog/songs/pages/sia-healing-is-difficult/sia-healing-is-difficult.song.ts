@@ -6,10 +6,14 @@ export const siaHealingIsDifficult = {
   slug: "sia-healing-is-difficult",
   title: "Healing Is Difficult",
   artist: "sia",
-  externalId: "80c0dee1-33b6-426e-ad96-8391a96aab38",
-  externalLink: "https://musicbrainz.org/work/80c0dee1-33b6-426e-ad96-8391a96aab38",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "80c0dee1-33b6-426e-ad96-8391a96aab38",
+      externalLink: "https://musicbrainz.org/work/80c0dee1-33b6-426e-ad96-8391a96aab38",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

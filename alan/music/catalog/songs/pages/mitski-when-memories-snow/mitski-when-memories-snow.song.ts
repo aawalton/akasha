@@ -6,10 +6,14 @@ export const mitskiWhenMemoriesSnow = {
   slug: "mitski-when-memories-snow",
   title: "When Memories Snow",
   artist: "mitski",
-  externalId: "49bda7f1-52af-47fd-9236-09d16fad6574",
-  externalLink: "https://musicbrainz.org/work/49bda7f1-52af-47fd-9236-09d16fad6574",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "49bda7f1-52af-47fd-9236-09d16fad6574",
+      externalLink: "https://musicbrainz.org/work/49bda7f1-52af-47fd-9236-09d16fad6574",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const siaLetYourTearsFall = {
   slug: "sia-let-your-tears-fall",
   title: "Let Your Tears Fall",
   artist: "sia",
-  externalId: "4a2cd499-933c-4595-9bc5-8f8c6d048bb5",
-  externalLink: "https://musicbrainz.org/work/4a2cd499-933c-4595-9bc5-8f8c6d048bb5",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4a2cd499-933c-4595-9bc5-8f8c6d048bb5",
+      externalLink: "https://musicbrainz.org/work/4a2cd499-933c-4595-9bc5-8f8c6d048bb5",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   lyricsSource: "lrclib",

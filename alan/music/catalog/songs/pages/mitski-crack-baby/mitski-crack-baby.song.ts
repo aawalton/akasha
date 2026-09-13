@@ -6,10 +6,14 @@ export const mitskiCrackBaby = {
   slug: "mitski-crack-baby",
   title: "Crack Baby",
   artist: "mitski",
-  externalId: "0acff653-5352-4264-b53f-35755d47c160",
-  externalLink: "https://musicbrainz.org/work/0acff653-5352-4264-b53f-35755d47c160",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0acff653-5352-4264-b53f-35755d47c160",
+      externalLink: "https://musicbrainz.org/work/0acff653-5352-4264-b53f-35755d47c160",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

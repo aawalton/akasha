@@ -6,10 +6,14 @@ export const siaIfYouSaySo = {
   slug: "sia-if-you-say-so",
   title: "If You Say So",
   artist: "sia",
-  externalId: "97bbae2b-f62b-4280-9dd9-1f948de84e2c",
-  externalLink: "https://musicbrainz.org/work/97bbae2b-f62b-4280-9dd9-1f948de84e2c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "97bbae2b-f62b-4280-9dd9-1f948de84e2c",
+      externalLink: "https://musicbrainz.org/work/97bbae2b-f62b-4280-9dd9-1f948de84e2c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

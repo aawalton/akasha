@@ -6,10 +6,14 @@ export const siaUnderneathTheMistletoe = {
   slug: "sia-underneath-the-mistletoe",
   title: "Underneath the Mistletoe",
   artist: "sia",
-  externalId: "10558dea-0b23-439b-9a30-5ce7a87c585b",
-  externalLink: "https://musicbrainz.org/work/10558dea-0b23-439b-9a30-5ce7a87c585b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "10558dea-0b23-439b-9a30-5ce7a87c585b",
+      externalLink: "https://musicbrainz.org/work/10558dea-0b23-439b-9a30-5ce7a87c585b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const siaBrokenBiscuit = {
   slug: "sia-broken-biscuit",
   title: "Broken Biscuit",
   artist: "sia",
-  externalId: "a2d5df7c-eb6a-4df3-ab52-6ad3c47adf64",
-  externalLink: "https://musicbrainz.org/work/a2d5df7c-eb6a-4df3-ab52-6ad3c47adf64",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a2d5df7c-eb6a-4df3-ab52-6ad3c47adf64",
+      externalLink: "https://musicbrainz.org/work/a2d5df7c-eb6a-4df3-ab52-6ad3c47adf64",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

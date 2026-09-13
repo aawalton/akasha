@@ -6,10 +6,14 @@ export const siaSexercize = {
   slug: "sia-sexercize",
   title: "Sexercize",
   artist: "sia",
-  externalId: "71d7be03-4639-4368-9582-f5741556393e",
-  externalLink: "https://musicbrainz.org/work/71d7be03-4639-4368-9582-f5741556393e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "71d7be03-4639-4368-9582-f5741556393e",
+      externalLink: "https://musicbrainz.org/work/71d7be03-4639-4368-9582-f5741556393e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

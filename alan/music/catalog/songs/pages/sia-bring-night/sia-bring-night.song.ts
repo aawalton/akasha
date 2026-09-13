@@ -6,10 +6,14 @@ export const siaBringNight = {
   slug: "sia-bring-night",
   title: "Bring Night",
   artist: "sia",
-  externalId: "667fda31-9b52-444d-8ead-7f33cc5ff9f5",
-  externalLink: "https://musicbrainz.org/work/667fda31-9b52-444d-8ead-7f33cc5ff9f5",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "667fda31-9b52-444d-8ead-7f33cc5ff9f5",
+      externalLink: "https://musicbrainz.org/work/667fda31-9b52-444d-8ead-7f33cc5ff9f5",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

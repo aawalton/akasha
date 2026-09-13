@@ -6,10 +6,14 @@ export const siaLittleMan = {
   slug: "sia-little-man",
   title: "Little Man",
   artist: "sia",
-  externalId: "6069c651-99e0-411b-85f1-368e51567daa",
-  externalLink: "https://musicbrainz.org/work/6069c651-99e0-411b-85f1-368e51567daa",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6069c651-99e0-411b-85f1-368e51567daa",
+      externalLink: "https://musicbrainz.org/work/6069c651-99e0-411b-85f1-368e51567daa",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

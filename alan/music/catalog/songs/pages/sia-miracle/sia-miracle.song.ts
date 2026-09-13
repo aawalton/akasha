@@ -6,10 +6,14 @@ export const siaMiracle = {
   slug: "sia-miracle",
   title: "Miracle",
   artist: "sia",
-  externalId: "460ec193-9059-42ce-9052-4e04cedf029c",
-  externalLink: "https://musicbrainz.org/work/460ec193-9059-42ce-9052-4e04cedf029c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "460ec193-9059-42ce-9052-4e04cedf029c",
+      externalLink: "https://musicbrainz.org/work/460ec193-9059-42ce-9052-4e04cedf029c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

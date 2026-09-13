@@ -6,10 +6,14 @@ export const siaAsrepOnosim = {
   slug: "sia-asrep-onosim",
   title: "Asrep onosim",
   artist: "sia",
-  externalId: "80e1d06d-8cd7-44fd-b47a-8a74fc8ec58a",
-  externalLink: "https://musicbrainz.org/work/80e1d06d-8cd7-44fd-b47a-8a74fc8ec58a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "80e1d06d-8cd7-44fd-b47a-8a74fc8ec58a",
+      externalLink: "https://musicbrainz.org/work/80e1d06d-8cd7-44fd-b47a-8a74fc8ec58a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

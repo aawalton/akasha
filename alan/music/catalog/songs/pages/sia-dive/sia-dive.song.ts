@@ -6,10 +6,14 @@ export const siaDive = {
   slug: "sia-dive",
   title: "Dive",
   artist: "sia",
-  externalId: "2b873f79-a769-474f-a3ad-f85a4ca26f83",
-  externalLink: "https://musicbrainz.org/work/2b873f79-a769-474f-a3ad-f85a4ca26f83",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2b873f79-a769-474f-a3ad-f85a4ca26f83",
+      externalLink: "https://musicbrainz.org/work/2b873f79-a769-474f-a3ad-f85a4ca26f83",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

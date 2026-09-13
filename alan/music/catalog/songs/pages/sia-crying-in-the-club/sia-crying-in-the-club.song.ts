@@ -6,10 +6,14 @@ export const siaCryingInTheClub = {
   slug: "sia-crying-in-the-club",
   title: "Crying in the Club",
   artist: "sia",
-  externalId: "0c64e949-b470-4304-aa18-1bda9f597cf0",
-  externalLink: "https://musicbrainz.org/work/0c64e949-b470-4304-aa18-1bda9f597cf0",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0c64e949-b470-4304-aa18-1bda9f597cf0",
+      externalLink: "https://musicbrainz.org/work/0c64e949-b470-4304-aa18-1bda9f597cf0",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

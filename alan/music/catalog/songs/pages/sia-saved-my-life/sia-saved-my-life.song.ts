@@ -6,10 +6,14 @@ export const siaSavedMyLife = {
   slug: "sia-saved-my-life",
   title: "Saved My Life",
   artist: "sia",
-  externalId: "c986fab3-d026-4613-8765-62e0fb143065",
-  externalLink: "https://musicbrainz.org/work/c986fab3-d026-4613-8765-62e0fb143065",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c986fab3-d026-4613-8765-62e0fb143065",
+      externalLink: "https://musicbrainz.org/work/c986fab3-d026-4613-8765-62e0fb143065",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

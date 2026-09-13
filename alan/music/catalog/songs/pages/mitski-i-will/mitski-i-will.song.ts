@@ -6,10 +6,14 @@ export const mitskiIWill = {
   slug: "mitski-i-will",
   title: "I Will",
   artist: "mitski",
-  externalId: "b6b123f5-6f7d-4d88-bd90-f4b376f534bf",
-  externalLink: "https://musicbrainz.org/work/b6b123f5-6f7d-4d88-bd90-f4b376f534bf",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b6b123f5-6f7d-4d88-bd90-f4b376f534bf",
+      externalLink: "https://musicbrainz.org/work/b6b123f5-6f7d-4d88-bd90-f4b376f534bf",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const siaFloatingThroughSpace = {
   slug: "sia-floating-through-space",
   title: "Floating Through Space",
   artist: "sia",
-  externalId: "3f5c1f57-75ee-4a55-b2da-65ca64e5b400",
-  externalLink: "https://musicbrainz.org/work/3f5c1f57-75ee-4a55-b2da-65ca64e5b400",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3f5c1f57-75ee-4a55-b2da-65ca64e5b400",
+      externalLink: "https://musicbrainz.org/work/3f5c1f57-75ee-4a55-b2da-65ca64e5b400",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

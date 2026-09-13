@@ -6,10 +6,14 @@ export const siaGenius2 = {
   slug: "sia-genius-2",
   title: "Genius",
   artist: "sia",
-  externalId: "f1adb0b0-ee7d-48e7-9ea7-c76694729584",
-  externalLink: "https://musicbrainz.org/work/f1adb0b0-ee7d-48e7-9ea7-c76694729584",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f1adb0b0-ee7d-48e7-9ea7-c76694729584",
+      externalLink: "https://musicbrainz.org/work/f1adb0b0-ee7d-48e7-9ea7-c76694729584",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   lyricsSource: "lrclib",

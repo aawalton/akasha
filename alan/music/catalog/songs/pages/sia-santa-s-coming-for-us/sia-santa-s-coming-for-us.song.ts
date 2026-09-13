@@ -6,10 +6,14 @@ export const siaSantaSComingForUs = {
   slug: "sia-santa-s-coming-for-us",
   title: "Santa’s Coming for Us",
   artist: "sia",
-  externalId: "478e0bce-252c-4bc7-8c97-1857c505d155",
-  externalLink: "https://musicbrainz.org/work/478e0bce-252c-4bc7-8c97-1857c505d155",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "478e0bce-252c-4bc7-8c97-1857c505d155",
+      externalLink: "https://musicbrainz.org/work/478e0bce-252c-4bc7-8c97-1857c505d155",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

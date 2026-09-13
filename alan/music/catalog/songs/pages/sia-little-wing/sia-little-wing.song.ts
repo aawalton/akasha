@@ -6,10 +6,14 @@ export const siaLittleWing = {
   slug: "sia-little-wing",
   title: "Little Wing",
   artist: "sia",
-  externalId: "361cae0a-6a36-48ad-8052-f36729f188c5",
-  externalLink: "https://musicbrainz.org/work/361cae0a-6a36-48ad-8052-f36729f188c5",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "361cae0a-6a36-48ad-8052-f36729f188c5",
+      externalLink: "https://musicbrainz.org/work/361cae0a-6a36-48ad-8052-f36729f188c5",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

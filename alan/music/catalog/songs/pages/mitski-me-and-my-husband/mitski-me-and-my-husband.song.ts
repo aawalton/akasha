@@ -6,10 +6,14 @@ export const mitskiMeAndMyHusband = {
   slug: "mitski-me-and-my-husband",
   title: "Me and My Husband",
   artist: "mitski",
-  externalId: "b4dd6bd5-c2d6-45c1-ad96-86942897745e",
-  externalLink: "https://musicbrainz.org/work/b4dd6bd5-c2d6-45c1-ad96-86942897745e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b4dd6bd5-c2d6-45c1-ad96-86942897745e",
+      externalLink: "https://musicbrainz.org/work/b4dd6bd5-c2d6-45c1-ad96-86942897745e",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

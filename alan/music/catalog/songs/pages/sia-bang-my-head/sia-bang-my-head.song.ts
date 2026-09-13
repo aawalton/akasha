@@ -6,10 +6,14 @@ export const siaBangMyHead = {
   slug: "sia-bang-my-head",
   title: "Bang My Head",
   artist: "sia",
-  externalId: "86337cb8-0fc7-49d9-930a-cc119ce76b88",
-  externalLink: "https://musicbrainz.org/work/86337cb8-0fc7-49d9-930a-cc119ce76b88",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "86337cb8-0fc7-49d9-930a-cc119ce76b88",
+      externalLink: "https://musicbrainz.org/work/86337cb8-0fc7-49d9-930a-cc119ce76b88",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

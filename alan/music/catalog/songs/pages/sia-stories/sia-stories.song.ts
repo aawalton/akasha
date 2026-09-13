@@ -6,10 +6,14 @@ export const siaStories = {
   slug: "sia-stories",
   title: "Stories",
   artist: "sia",
-  externalId: "4cc29b76-5dbd-4204-83cb-6664f6a3ad62",
-  externalLink: "https://musicbrainz.org/work/4cc29b76-5dbd-4204-83cb-6664f6a3ad62",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4cc29b76-5dbd-4204-83cb-6664f6a3ad62",
+      externalLink: "https://musicbrainz.org/work/4cc29b76-5dbd-4204-83cb-6664f6a3ad62",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

@@ -6,10 +6,14 @@ export const siaDonTBringMeDown = {
   slug: "sia-don-t-bring-me-down",
   title: "Don’t Bring Me Down",
   artist: "sia",
-  externalId: "d40f58c9-f4fa-49df-8dfa-8c37e3b4e240",
-  externalLink: "https://musicbrainz.org/work/d40f58c9-f4fa-49df-8dfa-8c37e3b4e240",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d40f58c9-f4fa-49df-8dfa-8c37e3b4e240",
+      externalLink: "https://musicbrainz.org/work/d40f58c9-f4fa-49df-8dfa-8c37e3b4e240",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

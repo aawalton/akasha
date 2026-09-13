@@ -6,10 +6,14 @@ export const mitskiSquare = {
   slug: "mitski-square",
   title: "Square",
   artist: "mitski",
-  externalId: "2cf20ced-2166-4d1c-ae63-f372da062b73",
-  externalLink: "https://musicbrainz.org/work/2cf20ced-2166-4d1c-ae63-f372da062b73",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2cf20ced-2166-4d1c-ae63-f372da062b73",
+      externalLink: "https://musicbrainz.org/work/2cf20ced-2166-4d1c-ae63-f372da062b73",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

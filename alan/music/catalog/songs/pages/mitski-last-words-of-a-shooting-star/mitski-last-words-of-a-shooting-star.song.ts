@@ -6,10 +6,14 @@ export const mitskiLastWordsOfAShootingStar = {
   slug: "mitski-last-words-of-a-shooting-star",
   title: "Last Words of a Shooting Star",
   artist: "mitski",
-  externalId: "4900677d-81c5-48e2-812c-c738e16e27f9",
-  externalLink: "https://musicbrainz.org/work/4900677d-81c5-48e2-812c-c738e16e27f9",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4900677d-81c5-48e2-812c-c738e16e27f9",
+      externalLink: "https://musicbrainz.org/work/4900677d-81c5-48e2-812c-c738e16e27f9",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

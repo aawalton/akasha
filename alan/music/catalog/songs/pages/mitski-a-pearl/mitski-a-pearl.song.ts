@@ -6,10 +6,14 @@ export const mitskiAPearl = {
   slug: "mitski-a-pearl",
   title: "A Pearl",
   artist: "mitski",
-  externalId: "eb343e84-cdf2-427f-8fd1-8305fadeddb2",
-  externalLink: "https://musicbrainz.org/work/eb343e84-cdf2-427f-8fd1-8305fadeddb2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "eb343e84-cdf2-427f-8fd1-8305fadeddb2",
+      externalLink: "https://musicbrainz.org/work/eb343e84-cdf2-427f-8fd1-8305fadeddb2",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

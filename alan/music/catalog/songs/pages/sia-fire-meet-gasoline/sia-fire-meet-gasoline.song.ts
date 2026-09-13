@@ -6,10 +6,14 @@ export const siaFireMeetGasoline = {
   slug: "sia-fire-meet-gasoline",
   title: "Fire Meet Gasoline",
   artist: "sia",
-  externalId: "095ba755-8be5-47c4-92d0-667a1595c0c0",
-  externalLink: "https://musicbrainz.org/work/095ba755-8be5-47c4-92d0-667a1595c0c0",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "095ba755-8be5-47c4-92d0-667a1595c0c0",
+      externalLink: "https://musicbrainz.org/work/095ba755-8be5-47c4-92d0-667a1595c0c0",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

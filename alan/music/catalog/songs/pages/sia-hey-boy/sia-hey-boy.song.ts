@@ -6,10 +6,14 @@ export const siaHeyBoy = {
   slug: "sia-hey-boy",
   title: "Hey Boy",
   artist: "sia",
-  externalId: "6c6aa30c-3c6d-4861-9f08-26666a610dc7",
-  externalLink: "https://musicbrainz.org/work/6c6aa30c-3c6d-4861-9f08-26666a610dc7",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6c6aa30c-3c6d-4861-9f08-26666a610dc7",
+      externalLink: "https://musicbrainz.org/work/6c6aa30c-3c6d-4861-9f08-26666a610dc7",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

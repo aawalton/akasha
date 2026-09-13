@@ -6,10 +6,14 @@ export const siaSureOfMyself = {
   slug: "sia-sure-of-myself",
   title: "Sure Of Myself",
   artist: "sia",
-  externalId: "1cc8b61e-b590-4263-baf6-6ad35fb310bc",
-  externalLink: "https://musicbrainz.org/work/1cc8b61e-b590-4263-baf6-6ad35fb310bc",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1cc8b61e-b590-4263-baf6-6ad35fb310bc",
+      externalLink: "https://musicbrainz.org/work/1cc8b61e-b590-4263-baf6-6ad35fb310bc",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

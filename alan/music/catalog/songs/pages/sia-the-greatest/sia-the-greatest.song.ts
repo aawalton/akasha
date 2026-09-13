@@ -6,10 +6,14 @@ export const siaTheGreatest = {
   slug: "sia-the-greatest",
   title: "The Greatest",
   artist: "sia",
-  externalId: "620f7a88-b003-4492-9028-89d742fa5d2e",
-  externalLink: "https://musicbrainz.org/work/620f7a88-b003-4492-9028-89d742fa5d2e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "620f7a88-b003-4492-9028-89d742fa5d2e",
+      externalLink: "https://musicbrainz.org/work/620f7a88-b003-4492-9028-89d742fa5d2e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

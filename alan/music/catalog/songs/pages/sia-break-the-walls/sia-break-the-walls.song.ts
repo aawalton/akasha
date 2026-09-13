@@ -6,10 +6,14 @@ export const siaBreakTheWalls = {
   slug: "sia-break-the-walls",
   title: "Break the Walls",
   artist: "sia",
-  externalId: "b6cf3e03-e0e8-4d27-b5b7-909a6262a869",
-  externalLink: "https://musicbrainz.org/work/b6cf3e03-e0e8-4d27-b5b7-909a6262a869",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b6cf3e03-e0e8-4d27-b5b7-909a6262a869",
+      externalLink: "https://musicbrainz.org/work/b6cf3e03-e0e8-4d27-b5b7-909a6262a869",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

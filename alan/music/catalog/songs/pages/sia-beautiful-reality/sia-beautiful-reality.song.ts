@@ -6,10 +6,14 @@ export const siaBeautifulReality = {
   slug: "sia-beautiful-reality",
   title: "Beautiful Reality",
   artist: "sia",
-  externalId: "bd97d3bc-a360-49cb-a665-14ea20e5cfbe",
-  externalLink: "https://musicbrainz.org/work/bd97d3bc-a360-49cb-a665-14ea20e5cfbe",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "bd97d3bc-a360-49cb-a665-14ea20e5cfbe",
+      externalLink: "https://musicbrainz.org/work/bd97d3bc-a360-49cb-a665-14ea20e5cfbe",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

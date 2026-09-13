@@ -6,10 +6,14 @@ export const siaMoon = {
   slug: "sia-moon",
   title: "Moon",
   artist: "sia",
-  externalId: "99ca2f42-d7a1-4ac3-b374-288e67fdba7e",
-  externalLink: "https://musicbrainz.org/work/99ca2f42-d7a1-4ac3-b374-288e67fdba7e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "99ca2f42-d7a1-4ac3-b374-288e67fdba7e",
+      externalLink: "https://musicbrainz.org/work/99ca2f42-d7a1-4ac3-b374-288e67fdba7e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

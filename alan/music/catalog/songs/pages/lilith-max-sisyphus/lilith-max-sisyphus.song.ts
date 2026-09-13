@@ -6,10 +6,14 @@ export const lilithMaxSisyphus = {
   slug: "lilith-max-sisyphus",
   title: "Sisyphus",
   artist: "lilith-max",
-  externalId: "8cd916e7-e439-4e1b-9f38-c990750822e5",
-  externalLink: "https://musicbrainz.org/recording/8cd916e7-e439-4e1b-9f38-c990750822e5",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8cd916e7-e439-4e1b-9f38-c990750822e5",
+      externalLink: "https://musicbrainz.org/recording/8cd916e7-e439-4e1b-9f38-c990750822e5",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

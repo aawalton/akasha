@@ -6,10 +6,14 @@ export const siaBlameItOnTheRadio = {
   slug: "sia-blame-it-on-the-radio",
   title: "Blame It on the Radio",
   artist: "sia",
-  externalId: "4e1e4f1a-8e5f-41fa-b912-74d289912586",
-  externalLink: "https://musicbrainz.org/work/4e1e4f1a-8e5f-41fa-b912-74d289912586",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4e1e4f1a-8e5f-41fa-b912-74d289912586",
+      externalLink: "https://musicbrainz.org/work/4e1e4f1a-8e5f-41fa-b912-74d289912586",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

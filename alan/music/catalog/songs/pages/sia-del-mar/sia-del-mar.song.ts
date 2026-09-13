@@ -6,10 +6,14 @@ export const siaDelMar = {
   slug: "sia-del-mar",
   title: "Del mar",
   artist: "sia",
-  externalId: "2baa81c4-5aff-4ee6-81c6-a7d8bdebfb6c",
-  externalLink: "https://musicbrainz.org/work/2baa81c4-5aff-4ee6-81c6-a7d8bdebfb6c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2baa81c4-5aff-4ee6-81c6-a7d8bdebfb6c",
+      externalLink: "https://musicbrainz.org/work/2baa81c4-5aff-4ee6-81c6-a7d8bdebfb6c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

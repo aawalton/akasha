@@ -6,10 +6,14 @@ export const siaLetSLove = {
   slug: "sia-let-s-love",
   title: "Let’s Love",
   artist: "sia",
-  externalId: "9463a307-24df-44c0-96a5-31fcf8f956bc",
-  externalLink: "https://musicbrainz.org/work/9463a307-24df-44c0-96a5-31fcf8f956bc",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9463a307-24df-44c0-96a5-31fcf8f956bc",
+      externalLink: "https://musicbrainz.org/work/9463a307-24df-44c0-96a5-31fcf8f956bc",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

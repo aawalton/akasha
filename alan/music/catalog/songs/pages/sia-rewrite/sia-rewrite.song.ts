@@ -6,10 +6,14 @@ export const siaRewrite = {
   slug: "sia-rewrite",
   title: "Rewrite",
   artist: "sia",
-  externalId: "2b819c8b-01f5-43de-87a4-b4109b62c304",
-  externalLink: "https://musicbrainz.org/work/2b819c8b-01f5-43de-87a4-b4109b62c304",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2b819c8b-01f5-43de-87a4-b4109b62c304",
+      externalLink: "https://musicbrainz.org/work/2b819c8b-01f5-43de-87a4-b4109b62c304",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

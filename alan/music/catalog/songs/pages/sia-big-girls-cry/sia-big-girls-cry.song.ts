@@ -6,10 +6,14 @@ export const siaBigGirlsCry = {
   slug: "sia-big-girls-cry",
   title: "Big Girls Cry",
   artist: "sia",
-  externalId: "27fb7c8f-6a0f-4974-8350-e9205edcdc86",
-  externalLink: "https://musicbrainz.org/work/27fb7c8f-6a0f-4974-8350-e9205edcdc86",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "27fb7c8f-6a0f-4974-8350-e9205edcdc86",
+      externalLink: "https://musicbrainz.org/work/27fb7c8f-6a0f-4974-8350-e9205edcdc86",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

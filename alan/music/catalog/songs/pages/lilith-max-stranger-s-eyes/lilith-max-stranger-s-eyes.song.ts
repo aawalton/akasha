@@ -6,10 +6,14 @@ export const lilithMaxStrangerSEyes = {
   slug: "lilith-max-stranger-s-eyes",
   title: "Stranger's Eyes",
   artist: "lilith-max",
-  externalId: "cc515c35-cfff-492e-ac58-060a02b7307a",
-  externalLink: "https://musicbrainz.org/recording/cc515c35-cfff-492e-ac58-060a02b7307a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "cc515c35-cfff-492e-ac58-060a02b7307a",
+      externalLink: "https://musicbrainz.org/recording/cc515c35-cfff-492e-ac58-060a02b7307a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

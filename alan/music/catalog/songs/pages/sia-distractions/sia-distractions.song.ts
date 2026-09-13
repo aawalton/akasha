@@ -6,10 +6,14 @@ export const siaDistractions = {
   slug: "sia-distractions",
   title: "Distractions",
   artist: "sia",
-  externalId: "288b866f-74d4-4c6c-82f8-839958570e55",
-  externalLink: "https://musicbrainz.org/work/288b866f-74d4-4c6c-82f8-839958570e55",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "288b866f-74d4-4c6c-82f8-839958570e55",
+      externalLink: "https://musicbrainz.org/work/288b866f-74d4-4c6c-82f8-839958570e55",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

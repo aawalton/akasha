@@ -6,10 +6,14 @@ export const siaElasticHeart2 = {
   slug: "sia-elastic-heart-2",
   title: "Elastic Heart",
   artist: "sia",
-  externalId: "db21aa84-1e29-4d8c-a49e-2ec4328ea4cb",
-  externalLink: "https://musicbrainz.org/work/db21aa84-1e29-4d8c-a49e-2ec4328ea4cb",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "db21aa84-1e29-4d8c-a49e-2ec4328ea4cb",
+      externalLink: "https://musicbrainz.org/work/db21aa84-1e29-4d8c-a49e-2ec4328ea4cb",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

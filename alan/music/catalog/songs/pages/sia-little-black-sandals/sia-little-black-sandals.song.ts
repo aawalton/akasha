@@ -6,10 +6,14 @@ export const siaLittleBlackSandals = {
   slug: "sia-little-black-sandals",
   title: "Little Black Sandals",
   artist: "sia",
-  externalId: "0edd89ff-11ab-4960-965c-08af576d7673",
-  externalLink: "https://musicbrainz.org/work/0edd89ff-11ab-4960-965c-08af576d7673",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0edd89ff-11ab-4960-965c-08af576d7673",
+      externalLink: "https://musicbrainz.org/work/0edd89ff-11ab-4960-965c-08af576d7673",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

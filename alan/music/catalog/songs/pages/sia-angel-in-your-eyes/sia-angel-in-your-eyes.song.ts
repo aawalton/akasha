@@ -6,10 +6,14 @@ export const siaAngelInYourEyes = {
   slug: "sia-angel-in-your-eyes",
   title: "Angel in Your Eyes",
   artist: "sia",
-  externalId: "719ffe01-22cf-403a-99e1-bcd90aad0b40",
-  externalLink: "https://musicbrainz.org/work/719ffe01-22cf-403a-99e1-bcd90aad0b40",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "719ffe01-22cf-403a-99e1-bcd90aad0b40",
+      externalLink: "https://musicbrainz.org/work/719ffe01-22cf-403a-99e1-bcd90aad0b40",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const mitskiAHorseNamedColdAir = {
   slug: "mitski-a-horse-named-cold-air",
   title: "A Horse Named Cold Air",
   artist: "mitski",
-  externalId: "db387bce-b5d2-4f8e-b4c1-8a193235a420",
-  externalLink: "https://musicbrainz.org/work/db387bce-b5d2-4f8e-b4c1-8a193235a420",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "db387bce-b5d2-4f8e-b4c1-8a193235a420",
+      externalLink: "https://musicbrainz.org/work/db387bce-b5d2-4f8e-b4c1-8a193235a420",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

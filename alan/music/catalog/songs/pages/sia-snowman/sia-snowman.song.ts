@@ -6,10 +6,14 @@ export const siaSnowman = {
   slug: "sia-snowman",
   title: "Snowman",
   artist: "sia",
-  externalId: "8bf233e5-34a6-48b1-839b-0766fe32c666",
-  externalLink: "https://musicbrainz.org/work/8bf233e5-34a6-48b1-839b-0766fe32c666",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8bf233e5-34a6-48b1-839b-0766fe32c666",
+      externalLink: "https://musicbrainz.org/work/8bf233e5-34a6-48b1-839b-0766fe32c666",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

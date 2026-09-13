@@ -6,10 +6,14 @@ export const siaDejaVu = {
   slug: "sia-deja-vu",
   title: "Déjà Vu",
   artist: "sia",
-  externalId: "104d2ce5-d9b6-465b-84e9-83b885be71d3",
-  externalLink: "https://musicbrainz.org/work/104d2ce5-d9b6-465b-84e9-83b885be71d3",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "104d2ce5-d9b6-465b-84e9-83b885be71d3",
+      externalLink: "https://musicbrainz.org/work/104d2ce5-d9b6-465b-84e9-83b885be71d3",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

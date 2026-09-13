@@ -6,10 +6,14 @@ export const siaBoyProblems = {
   slug: "sia-boy-problems",
   title: "Boy Problems",
   artist: "sia",
-  externalId: "45943155-7694-4762-bfbf-28a7327a20ce",
-  externalLink: "https://musicbrainz.org/work/45943155-7694-4762-bfbf-28a7327a20ce",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "45943155-7694-4762-bfbf-28a7327a20ce",
+      externalLink: "https://musicbrainz.org/work/45943155-7694-4762-bfbf-28a7327a20ce",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

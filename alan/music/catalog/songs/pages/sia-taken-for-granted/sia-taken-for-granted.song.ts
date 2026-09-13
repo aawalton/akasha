@@ -6,10 +6,14 @@ export const siaTakenForGranted = {
   slug: "sia-taken-for-granted",
   title: "Taken for Granted",
   artist: "sia",
-  externalId: "40cf66d0-8217-4c67-ba9c-8d2d4d7ea92d",
-  externalLink: "https://musicbrainz.org/work/40cf66d0-8217-4c67-ba9c-8d2d4d7ea92d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "40cf66d0-8217-4c67-ba9c-8d2d4d7ea92d",
+      externalLink: "https://musicbrainz.org/work/40cf66d0-8217-4c67-ba9c-8d2d4d7ea92d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

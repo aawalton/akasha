@@ -6,10 +6,14 @@ export const mitskiEverybodyScream = {
   slug: "mitski-everybody-scream",
   title: "Everybody Scream",
   artist: "mitski",
-  externalId: "e04d7dbe-ebe2-4893-adbb-b80a71bc8018",
-  externalLink: "https://musicbrainz.org/work/e04d7dbe-ebe2-4893-adbb-b80a71bc8018",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e04d7dbe-ebe2-4893-adbb-b80a71bc8018",
+      externalLink: "https://musicbrainz.org/work/e04d7dbe-ebe2-4893-adbb-b80a71bc8018",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

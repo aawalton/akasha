@@ -6,10 +6,14 @@ export const siaHoldOn = {
   slug: "sia-hold-on",
   title: "Hold On",
   artist: "sia",
-  externalId: "f6f7accf-4460-4247-b0ee-f4aaa6deef1f",
-  externalLink: "https://musicbrainz.org/work/f6f7accf-4460-4247-b0ee-f4aaa6deef1f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f6f7accf-4460-4247-b0ee-f4aaa6deef1f",
+      externalLink: "https://musicbrainz.org/work/f6f7accf-4460-4247-b0ee-f4aaa6deef1f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

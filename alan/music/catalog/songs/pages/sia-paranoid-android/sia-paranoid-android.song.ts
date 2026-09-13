@@ -6,10 +6,14 @@ export const siaParanoidAndroid = {
   slug: "sia-paranoid-android",
   title: "Paranoid Android",
   artist: "sia",
-  externalId: "1b4ff597-f43f-3dac-9f76-0e7b7f38d0d2",
-  externalLink: "https://musicbrainz.org/work/1b4ff597-f43f-3dac-9f76-0e7b7f38d0d2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1b4ff597-f43f-3dac-9f76-0e7b7f38d0d2",
+      externalLink: "https://musicbrainz.org/work/1b4ff597-f43f-3dac-9f76-0e7b7f38d0d2",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

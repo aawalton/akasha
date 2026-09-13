@@ -6,10 +6,14 @@ export const siaBirdSetFree = {
   slug: "sia-bird-set-free",
   title: "Bird Set Free",
   artist: "sia",
-  externalId: "481211aa-62a4-47c9-bb50-aaf0f607c8d0",
-  externalLink: "https://musicbrainz.org/work/481211aa-62a4-47c9-bb50-aaf0f607c8d0",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "481211aa-62a4-47c9-bb50-aaf0f607c8d0",
+      externalLink: "https://musicbrainz.org/work/481211aa-62a4-47c9-bb50-aaf0f607c8d0",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

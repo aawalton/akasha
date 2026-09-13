@@ -6,10 +6,14 @@ export const siaIWillGetOverYou = {
   slug: "sia-i-will-get-over-you",
   title: "I Will Get Over You",
   artist: "sia",
-  externalId: "7c0e5ccc-f291-40cd-a393-a17446aa2ec0",
-  externalLink: "https://musicbrainz.org/work/7c0e5ccc-f291-40cd-a393-a17446aa2ec0",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7c0e5ccc-f291-40cd-a393-a17446aa2ec0",
+      externalLink: "https://musicbrainz.org/work/7c0e5ccc-f291-40cd-a393-a17446aa2ec0",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

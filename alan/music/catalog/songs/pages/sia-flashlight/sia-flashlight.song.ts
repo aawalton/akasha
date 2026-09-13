@@ -6,10 +6,14 @@ export const siaFlashlight = {
   slug: "sia-flashlight",
   title: "Flashlight",
   artist: "sia",
-  externalId: "6131bd2d-aca6-44fc-bd63-3e73a6ecfcdd",
-  externalLink: "https://musicbrainz.org/work/6131bd2d-aca6-44fc-bd63-3e73a6ecfcdd",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6131bd2d-aca6-44fc-bd63-3e73a6ecfcdd",
+      externalLink: "https://musicbrainz.org/work/6131bd2d-aca6-44fc-bd63-3e73a6ecfcdd",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

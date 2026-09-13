@@ -6,10 +6,14 @@ export const siaWannaBeKnown = {
   slug: "sia-wanna-be-known",
   title: "Wanna Be Known",
   artist: "sia",
-  externalId: "272780a0-72e0-4ba5-a5cd-6df68477e1af",
-  externalLink: "https://musicbrainz.org/work/272780a0-72e0-4ba5-a5cd-6df68477e1af",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "272780a0-72e0-4ba5-a5cd-6df68477e1af",
+      externalLink: "https://musicbrainz.org/work/272780a0-72e0-4ba5-a5cd-6df68477e1af",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

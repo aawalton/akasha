@@ -6,10 +6,14 @@ export const siaMoveYourBody = {
   slug: "sia-move-your-body",
   title: "Move Your Body",
   artist: "sia",
-  externalId: "90278a27-9ba8-46d9-8657-a9dcc49cb241",
-  externalLink: "https://musicbrainz.org/work/90278a27-9ba8-46d9-8657-a9dcc49cb241",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "90278a27-9ba8-46d9-8657-a9dcc49cb241",
+      externalLink: "https://musicbrainz.org/work/90278a27-9ba8-46d9-8657-a9dcc49cb241",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

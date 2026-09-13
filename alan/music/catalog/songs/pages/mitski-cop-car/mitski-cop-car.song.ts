@@ -6,10 +6,14 @@ export const mitskiCopCar = {
   slug: "mitski-cop-car",
   title: "Cop Car",
   artist: "mitski",
-  externalId: "e3ad9a52-ec65-403d-89ce-f92066a91cb9",
-  externalLink: "https://musicbrainz.org/work/e3ad9a52-ec65-403d-89ce-f92066a91cb9",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e3ad9a52-ec65-403d-89ce-f92066a91cb9",
+      externalLink: "https://musicbrainz.org/work/e3ad9a52-ec65-403d-89ce-f92066a91cb9",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const siaEkg = {
   slug: "sia-ekg",
   title: "EKG",
   artist: "sia",
-  externalId: "ba279640-f7c6-426f-8a0c-19b111ff9c2d",
-  externalLink: "https://musicbrainz.org/work/ba279640-f7c6-426f-8a0c-19b111ff9c2d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ba279640-f7c6-426f-8a0c-19b111ff9c2d",
+      externalLink: "https://musicbrainz.org/work/ba279640-f7c6-426f-8a0c-19b111ff9c2d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

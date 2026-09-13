@@ -6,10 +6,14 @@ export const siaTheFight = {
   slug: "sia-the-fight",
   title: "The Fight",
   artist: "sia",
-  externalId: "3c2eef0f-1016-49ca-ab54-ddb4ac282b86",
-  externalLink: "https://musicbrainz.org/work/3c2eef0f-1016-49ca-ab54-ddb4ac282b86",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3c2eef0f-1016-49ca-ab54-ddb4ac282b86",
+      externalLink: "https://musicbrainz.org/work/3c2eef0f-1016-49ca-ab54-ddb4ac282b86",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

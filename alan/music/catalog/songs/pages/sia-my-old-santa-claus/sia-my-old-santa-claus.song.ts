@@ -6,10 +6,14 @@ export const siaMyOldSantaClaus = {
   slug: "sia-my-old-santa-claus",
   title: "My Old Santa Claus",
   artist: "sia",
-  externalId: "8afebdd0-cb7d-495b-af49-54f0cabd09ac",
-  externalLink: "https://musicbrainz.org/work/8afebdd0-cb7d-495b-af49-54f0cabd09ac",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8afebdd0-cb7d-495b-af49-54f0cabd09ac",
+      externalLink: "https://musicbrainz.org/work/8afebdd0-cb7d-495b-af49-54f0cabd09ac",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

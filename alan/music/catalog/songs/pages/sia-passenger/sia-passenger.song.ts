@@ -6,10 +6,14 @@ export const siaPassenger = {
   slug: "sia-passenger",
   title: "Passenger",
   artist: "sia",
-  externalId: "6454f6cc-24e7-4955-9f97-75918fa559ff",
-  externalLink: "https://musicbrainz.org/work/6454f6cc-24e7-4955-9f97-75918fa559ff",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6454f6cc-24e7-4955-9f97-75918fa559ff",
+      externalLink: "https://musicbrainz.org/work/6454f6cc-24e7-4955-9f97-75918fa559ff",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

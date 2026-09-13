@@ -6,10 +6,14 @@ export const mitskiBugLikeAnAngel = {
   slug: "mitski-bug-like-an-angel",
   title: "Bug Like an Angel",
   artist: "mitski",
-  externalId: "52d90143-15d0-4b52-97fa-fe95dad63469",
-  externalLink: "https://musicbrainz.org/work/52d90143-15d0-4b52-97fa-fe95dad63469",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "52d90143-15d0-4b52-97fa-fe95dad63469",
+      externalLink: "https://musicbrainz.org/work/52d90143-15d0-4b52-97fa-fe95dad63469",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

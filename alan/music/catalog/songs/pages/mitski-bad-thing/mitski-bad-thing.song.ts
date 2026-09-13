@@ -6,10 +6,14 @@ export const mitskiBadThing = {
   slug: "mitski-bad-thing",
   title: "Bad Thing",
   artist: "mitski",
-  externalId: "d9c1e89a-2374-47eb-9b1c-8f1b3b57bc54",
-  externalLink: "https://musicbrainz.org/work/d9c1e89a-2374-47eb-9b1c-8f1b3b57bc54",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d9c1e89a-2374-47eb-9b1c-8f1b3b57bc54",
+      externalLink: "https://musicbrainz.org/work/d9c1e89a-2374-47eb-9b1c-8f1b3b57bc54",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

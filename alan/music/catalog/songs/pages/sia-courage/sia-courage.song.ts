@@ -6,10 +6,14 @@ export const siaCourage = {
   slug: "sia-courage",
   title: "Courage",
   artist: "sia",
-  externalId: "188179ca-00b1-4714-a42b-23e0dbcec1bd",
-  externalLink: "https://musicbrainz.org/work/188179ca-00b1-4714-a42b-23e0dbcec1bd",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "188179ca-00b1-4714-a42b-23e0dbcec1bd",
+      externalLink: "https://musicbrainz.org/work/188179ca-00b1-4714-a42b-23e0dbcec1bd",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

@@ -6,10 +6,14 @@ export const siaSnowflake = {
   slug: "sia-snowflake",
   title: "Snowflake",
   artist: "sia",
-  externalId: "e2bf6c43-a9f0-4c39-a01e-16835edf0c32",
-  externalLink: "https://musicbrainz.org/work/e2bf6c43-a9f0-4c39-a01e-16835edf0c32",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e2bf6c43-a9f0-4c39-a01e-16835edf0c32",
+      externalLink: "https://musicbrainz.org/work/e2bf6c43-a9f0-4c39-a01e-16835edf0c32",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

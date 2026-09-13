@@ -6,10 +6,14 @@ export const siaFirecracker = {
   slug: "sia-firecracker",
   title: "Firecracker",
   artist: "sia",
-  externalId: "260c9160-a627-4b18-bd3b-370faeaae967",
-  externalLink: "https://musicbrainz.org/work/260c9160-a627-4b18-bd3b-370faeaae967",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "260c9160-a627-4b18-bd3b-370faeaae967",
+      externalLink: "https://musicbrainz.org/work/260c9160-a627-4b18-bd3b-370faeaae967",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

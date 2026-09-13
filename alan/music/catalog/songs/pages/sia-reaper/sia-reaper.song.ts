@@ -6,10 +6,14 @@ export const siaReaper = {
   slug: "sia-reaper",
   title: "Reaper",
   artist: "sia",
-  externalId: "26a2e610-11e2-4afc-9d82-c6ba55cdcaa4",
-  externalLink: "https://musicbrainz.org/work/26a2e610-11e2-4afc-9d82-c6ba55cdcaa4",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "26a2e610-11e2-4afc-9d82-c6ba55cdcaa4",
+      externalLink: "https://musicbrainz.org/work/26a2e610-11e2-4afc-9d82-c6ba55cdcaa4",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

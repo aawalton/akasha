@@ -6,10 +6,14 @@ export const lilithMaxSetInStone = {
   slug: "lilith-max-set-in-stone",
   title: "Set in Stone",
   artist: "lilith-max",
-  externalId: "f3e3bfaa-8350-47af-8cb7-328e431346f3",
-  externalLink: "https://musicbrainz.org/recording/f3e3bfaa-8350-47af-8cb7-328e431346f3",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f3e3bfaa-8350-47af-8cb7-328e431346f3",
+      externalLink: "https://musicbrainz.org/recording/f3e3bfaa-8350-47af-8cb7-328e431346f3",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

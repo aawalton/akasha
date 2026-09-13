@@ -6,10 +6,14 @@ export const siaLyingDown = {
   slug: "sia-lying-down",
   title: "Lying Down",
   artist: "sia",
-  externalId: "57ee6cbc-2847-4b6c-af15-49c569c12534",
-  externalLink: "https://musicbrainz.org/work/57ee6cbc-2847-4b6c-af15-49c569c12534",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "57ee6cbc-2847-4b6c-af15-49c569c12534",
+      externalLink: "https://musicbrainz.org/work/57ee6cbc-2847-4b6c-af15-49c569c12534",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

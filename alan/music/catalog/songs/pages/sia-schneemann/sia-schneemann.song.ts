@@ -6,10 +6,14 @@ export const siaSchneemann = {
   slug: "sia-schneemann",
   title: "Schneemann",
   artist: "sia",
-  externalId: "01f58a94-41b9-4b51-bd55-50214fbbb566",
-  externalLink: "https://musicbrainz.org/work/01f58a94-41b9-4b51-bd55-50214fbbb566",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "01f58a94-41b9-4b51-bd55-50214fbbb566",
+      externalLink: "https://musicbrainz.org/work/01f58a94-41b9-4b51-bd55-50214fbbb566",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: false,
   written: "collab",

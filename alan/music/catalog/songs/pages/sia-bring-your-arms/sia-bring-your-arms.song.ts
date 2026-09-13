@@ -6,10 +6,14 @@ export const siaBringYourArms = {
   slug: "sia-bring-your-arms",
   title: "Bring Your Arms",
   artist: "sia",
-  externalId: "51147f90-9fd9-4367-bd70-48838361bcb6",
-  externalLink: "https://musicbrainz.org/work/51147f90-9fd9-4367-bd70-48838361bcb6",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "51147f90-9fd9-4367-bd70-48838361bcb6",
+      externalLink: "https://musicbrainz.org/work/51147f90-9fd9-4367-bd70-48838361bcb6",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

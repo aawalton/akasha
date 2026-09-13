@@ -6,10 +6,14 @@ export const lilithMaxTheCautionaryTale = {
   slug: "lilith-max-the-cautionary-tale",
   title: "The Cautionary Tale",
   artist: "lilith-max",
-  externalId: "657f8a0b-ff1b-4af7-96d7-60014f6bf7d6",
-  externalLink: "https://musicbrainz.org/recording/657f8a0b-ff1b-4af7-96d7-60014f6bf7d6",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "657f8a0b-ff1b-4af7-96d7-60014f6bf7d6",
+      externalLink: "https://musicbrainz.org/recording/657f8a0b-ff1b-4af7-96d7-60014f6bf7d6",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const mitskiJoblessMonday = {
   slug: "mitski-jobless-monday",
   title: "Jobless Monday",
   artist: "mitski",
-  externalId: "399ab392-2409-4628-89ef-fa6bb16e4682",
-  externalLink: "https://musicbrainz.org/work/399ab392-2409-4628-89ef-fa6bb16e4682",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "399ab392-2409-4628-89ef-fa6bb16e4682",
+      externalLink: "https://musicbrainz.org/work/399ab392-2409-4628-89ef-fa6bb16e4682",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

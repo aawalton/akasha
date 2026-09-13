@@ -6,10 +6,14 @@ export const siaLookUp = {
   slug: "sia-look-up",
   title: "Look Up",
   artist: "sia",
-  externalId: "eb4a8fad-9745-4f5f-a75a-c20281545edd",
-  externalLink: "https://musicbrainz.org/work/eb4a8fad-9745-4f5f-a75a-c20281545edd",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "eb4a8fad-9745-4f5f-a75a-c20281545edd",
+      externalLink: "https://musicbrainz.org/work/eb4a8fad-9745-4f5f-a75a-c20281545edd",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

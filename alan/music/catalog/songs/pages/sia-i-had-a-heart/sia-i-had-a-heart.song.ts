@@ -6,10 +6,14 @@ export const siaIHadAHeart = {
   slug: "sia-i-had-a-heart",
   title: "I Had a Heart",
   artist: "sia",
-  externalId: "9c89a7a3-a762-4edf-9d21-eba348ee5632",
-  externalLink: "https://musicbrainz.org/work/9c89a7a3-a762-4edf-9d21-eba348ee5632",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9c89a7a3-a762-4edf-9d21-eba348ee5632",
+      externalLink: "https://musicbrainz.org/work/9c89a7a3-a762-4edf-9d21-eba348ee5632",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

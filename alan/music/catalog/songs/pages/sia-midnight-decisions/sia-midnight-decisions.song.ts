@@ -6,10 +6,14 @@ export const siaMidnightDecisions = {
   slug: "sia-midnight-decisions",
   title: "Midnight Decisions",
   artist: "sia",
-  externalId: "8a387078-18da-4379-a562-270696e83e40",
-  externalLink: "https://musicbrainz.org/work/8a387078-18da-4379-a562-270696e83e40",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8a387078-18da-4379-a562-270696e83e40",
+      externalLink: "https://musicbrainz.org/work/8a387078-18da-4379-a562-270696e83e40",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

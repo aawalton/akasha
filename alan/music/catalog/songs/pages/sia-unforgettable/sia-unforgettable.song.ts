@@ -6,10 +6,14 @@ export const siaUnforgettable = {
   slug: "sia-unforgettable",
   title: "Unforgettable",
   artist: "sia",
-  externalId: "3ee29e3d-b17e-38dc-b5ed-47b1a039c1be",
-  externalLink: "https://musicbrainz.org/work/3ee29e3d-b17e-38dc-b5ed-47b1a039c1be",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3ee29e3d-b17e-38dc-b5ed-47b1a039c1be",
+      externalLink: "https://musicbrainz.org/work/3ee29e3d-b17e-38dc-b5ed-47b1a039c1be",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

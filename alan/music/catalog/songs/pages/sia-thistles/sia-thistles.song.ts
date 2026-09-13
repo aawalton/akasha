@@ -6,10 +6,14 @@ export const siaThistles = {
   slug: "sia-thistles",
   title: "Thistles",
   artist: "sia",
-  externalId: "ef2d042c-622b-4cd2-8751-e7abbacc0ac5",
-  externalLink: "https://musicbrainz.org/work/ef2d042c-622b-4cd2-8751-e7abbacc0ac5",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ef2d042c-622b-4cd2-8751-e7abbacc0ac5",
+      externalLink: "https://musicbrainz.org/work/ef2d042c-622b-4cd2-8751-e7abbacc0ac5",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

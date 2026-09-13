@@ -6,10 +6,14 @@ export const siaLullaby = {
   slug: "sia-lullaby",
   title: "Lullaby",
   artist: "sia",
-  externalId: "dbc696dc-09ff-4382-8e69-fec7a967878d",
-  externalLink: "https://musicbrainz.org/work/dbc696dc-09ff-4382-8e69-fec7a967878d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "dbc696dc-09ff-4382-8e69-fec7a967878d",
+      externalLink: "https://musicbrainz.org/work/dbc696dc-09ff-4382-8e69-fec7a967878d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

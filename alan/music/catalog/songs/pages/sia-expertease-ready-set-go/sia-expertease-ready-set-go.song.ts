@@ -6,10 +6,14 @@ export const siaExperteaseReadySetGo = {
   slug: "sia-expertease-ready-set-go",
   title: "Expertease (Ready Set Go)",
   artist: "sia",
-  externalId: "05a21c01-7d0e-4bb5-8386-1e3b63fbfe4a",
-  externalLink: "https://musicbrainz.org/work/05a21c01-7d0e-4bb5-8386-1e3b63fbfe4a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "05a21c01-7d0e-4bb5-8386-1e3b63fbfe4a",
+      externalLink: "https://musicbrainz.org/work/05a21c01-7d0e-4bb5-8386-1e3b63fbfe4a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

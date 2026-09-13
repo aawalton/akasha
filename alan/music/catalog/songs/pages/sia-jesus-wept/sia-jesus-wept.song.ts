@@ -6,10 +6,14 @@ export const siaJesusWept = {
   slug: "sia-jesus-wept",
   title: "Jesus Wept",
   artist: "sia",
-  externalId: "5d21ad95-1655-49f3-aca6-a46a09b85a05",
-  externalLink: "https://musicbrainz.org/work/5d21ad95-1655-49f3-aca6-a46a09b85a05",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5d21ad95-1655-49f3-aca6-a46a09b85a05",
+      externalLink: "https://musicbrainz.org/work/5d21ad95-1655-49f3-aca6-a46a09b85a05",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const siaBeautifulCalmDriving = {
   slug: "sia-beautiful-calm-driving",
   title: "Beautiful Calm Driving",
   artist: "sia",
-  externalId: "8be5e914-8127-4c76-80f5-4c3cd75a4d23",
-  externalLink: "https://musicbrainz.org/work/8be5e914-8127-4c76-80f5-4c3cd75a4d23",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8be5e914-8127-4c76-80f5-4c3cd75a4d23",
+      externalLink: "https://musicbrainz.org/work/8be5e914-8127-4c76-80f5-4c3cd75a4d23",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const siaUnderneathTheChristmasLights = {
   slug: "sia-underneath-the-christmas-lights",
   title: "Underneath the Christmas Lights",
   artist: "sia",
-  externalId: "b2622c6f-3c04-40df-984d-b07531f00783",
-  externalLink: "https://musicbrainz.org/work/b2622c6f-3c04-40df-984d-b07531f00783",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b2622c6f-3c04-40df-984d-b07531f00783",
+      externalLink: "https://musicbrainz.org/work/b2622c6f-3c04-40df-984d-b07531f00783",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

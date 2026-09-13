@@ -6,10 +6,14 @@ export const siaSledgehammer = {
   slug: "sia-sledgehammer",
   title: "Sledgehammer",
   artist: "sia",
-  externalId: "95da91c5-332f-4e2a-881f-51980ba7354d",
-  externalLink: "https://musicbrainz.org/work/95da91c5-332f-4e2a-881f-51980ba7354d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "95da91c5-332f-4e2a-881f-51980ba7354d",
+      externalLink: "https://musicbrainz.org/work/95da91c5-332f-4e2a-881f-51980ba7354d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

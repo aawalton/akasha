@@ -6,10 +6,14 @@ export const siaKissMeOnce = {
   slug: "sia-kiss-me-once",
   title: "Kiss Me Once",
   artist: "sia",
-  externalId: "fba09554-f656-4706-a0b4-441622a819c1",
-  externalLink: "https://musicbrainz.org/work/fba09554-f656-4706-a0b4-441622a819c1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "fba09554-f656-4706-a0b4-441622a819c1",
+      externalLink: "https://musicbrainz.org/work/fba09554-f656-4706-a0b4-441622a819c1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

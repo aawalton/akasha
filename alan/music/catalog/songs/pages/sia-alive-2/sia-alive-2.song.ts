@@ -6,10 +6,14 @@ export const siaAlive2 = {
   slug: "sia-alive-2",
   title: "Alive",
   artist: "sia",
-  externalId: "d952c06d-3066-4997-a62a-9b1469af2581",
-  externalLink: "https://musicbrainz.org/work/d952c06d-3066-4997-a62a-9b1469af2581",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d952c06d-3066-4997-a62a-9b1469af2581",
+      externalLink: "https://musicbrainz.org/work/d952c06d-3066-4997-a62a-9b1469af2581",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   lyricsSource: "lrclib",

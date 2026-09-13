@@ -6,10 +6,14 @@ export const mitskiDeadWomen = {
   slug: "mitski-dead-women",
   title: "Dead Women",
   artist: "mitski",
-  externalId: "af80f7b8-0368-4fa9-a6f7-3091b486ec1d",
-  externalLink: "https://musicbrainz.org/work/af80f7b8-0368-4fa9-a6f7-3091b486ec1d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "af80f7b8-0368-4fa9-a6f7-3091b486ec1d",
+      externalLink: "https://musicbrainz.org/work/af80f7b8-0368-4fa9-a6f7-3091b486ec1d",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

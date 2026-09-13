@@ -6,10 +6,14 @@ export const siaPrivateGirl = {
   slug: "sia-private-girl",
   title: "Private Girl",
   artist: "sia",
-  externalId: "71dd087b-0d04-4288-aed1-d49b823ad4d1",
-  externalLink: "https://musicbrainz.org/work/71dd087b-0d04-4288-aed1-d49b823ad4d1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "71dd087b-0d04-4288-aed1-d49b823ad4d1",
+      externalLink: "https://musicbrainz.org/work/71dd087b-0d04-4288-aed1-d49b823ad4d1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

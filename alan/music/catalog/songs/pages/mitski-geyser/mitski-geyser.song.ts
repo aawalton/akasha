@@ -6,10 +6,14 @@ export const mitskiGeyser = {
   slug: "mitski-geyser",
   title: "Geyser",
   artist: "mitski",
-  externalId: "83913eb5-6889-4d8a-85d8-19dc71f6a0c9",
-  externalLink: "https://musicbrainz.org/work/83913eb5-6889-4d8a-85d8-19dc71f6a0c9",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "83913eb5-6889-4d8a-85d8-19dc71f6a0c9",
+      externalLink: "https://musicbrainz.org/work/83913eb5-6889-4d8a-85d8-19dc71f6a0c9",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

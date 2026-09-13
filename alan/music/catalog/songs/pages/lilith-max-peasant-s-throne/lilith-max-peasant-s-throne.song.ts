@@ -6,10 +6,14 @@ export const lilithMaxPeasantSThrone = {
   slug: "lilith-max-peasant-s-throne",
   title: "Peasant's Throne",
   artist: "lilith-max",
-  externalId: "2fd2fca5-c875-479e-91a3-30ca71ccf7c9",
-  externalLink: "https://musicbrainz.org/recording/2fd2fca5-c875-479e-91a3-30ca71ccf7c9",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2fd2fca5-c875-479e-91a3-30ca71ccf7c9",
+      externalLink: "https://musicbrainz.org/recording/2fd2fca5-c875-479e-91a3-30ca71ccf7c9",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

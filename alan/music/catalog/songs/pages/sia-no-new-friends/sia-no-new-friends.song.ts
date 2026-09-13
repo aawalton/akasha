@@ -6,10 +6,14 @@ export const siaNoNewFriends = {
   slug: "sia-no-new-friends",
   title: "No New Friends",
   artist: "sia",
-  externalId: "0af416fe-6ed4-4779-9b4a-4ac69a222506",
-  externalLink: "https://musicbrainz.org/work/0af416fe-6ed4-4779-9b4a-4ac69a222506",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0af416fe-6ed4-4779-9b4a-4ac69a222506",
+      externalLink: "https://musicbrainz.org/work/0af416fe-6ed4-4779-9b4a-4ac69a222506",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const mitskiALovingFeeling = {
   slug: "mitski-a-loving-feeling",
   title: "A Loving Feeling",
   artist: "mitski",
-  externalId: "a1873efe-3ecc-4100-945b-cbf9bc48979a",
-  externalLink: "https://musicbrainz.org/work/a1873efe-3ecc-4100-945b-cbf9bc48979a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a1873efe-3ecc-4100-945b-cbf9bc48979a",
+      externalLink: "https://musicbrainz.org/work/a1873efe-3ecc-4100-945b-cbf9bc48979a",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const siaBornYesterday = {
   slug: "sia-born-yesterday",
   title: "Born Yesterday",
   artist: "sia",
-  externalId: "171a4b01-e71b-41a7-be86-c966bff6e40c",
-  externalLink: "https://musicbrainz.org/work/171a4b01-e71b-41a7-be86-c966bff6e40c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "171a4b01-e71b-41a7-be86-c966bff6e40c",
+      externalLink: "https://musicbrainz.org/work/171a4b01-e71b-41a7-be86-c966bff6e40c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const mitskiCircle = {
   slug: "mitski-circle",
   title: "Circle",
   artist: "mitski",
-  externalId: "3ed5f457-1d4b-4fc2-beee-11f79f65e2d8",
-  externalLink: "https://musicbrainz.org/work/3ed5f457-1d4b-4fc2-beee-11f79f65e2d8",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3ed5f457-1d4b-4fc2-beee-11f79f65e2d8",
+      externalLink: "https://musicbrainz.org/work/3ed5f457-1d4b-4fc2-beee-11f79f65e2d8",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

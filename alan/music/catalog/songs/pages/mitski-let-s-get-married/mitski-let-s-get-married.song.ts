@@ -6,10 +6,14 @@ export const mitskiLetSGetMarried = {
   slug: "mitski-let-s-get-married",
   title: "Let’s Get Married",
   artist: "mitski",
-  externalId: "24ec7434-78ce-4808-8131-c37778f871a6",
-  externalLink: "https://musicbrainz.org/work/24ec7434-78ce-4808-8131-c37778f871a6",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "24ec7434-78ce-4808-8131-c37778f871a6",
+      externalLink: "https://musicbrainz.org/work/24ec7434-78ce-4808-8131-c37778f871a6",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

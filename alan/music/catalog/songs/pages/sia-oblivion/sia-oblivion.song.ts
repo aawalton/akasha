@@ -6,10 +6,14 @@ export const siaOblivion = {
   slug: "sia-oblivion",
   title: "Oblivion",
   artist: "sia",
-  externalId: "ad083a46-176d-4e07-b8ee-c0592cc43b81",
-  externalLink: "https://musicbrainz.org/work/ad083a46-176d-4e07-b8ee-c0592cc43b81",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ad083a46-176d-4e07-b8ee-c0592cc43b81",
+      externalLink: "https://musicbrainz.org/work/ad083a46-176d-4e07-b8ee-c0592cc43b81",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const mitskiBagOfBones = {
   slug: "mitski-bag-of-bones",
   title: "Bag of Bones",
   artist: "mitski",
-  externalId: "587bc1b8-5d9e-4c83-973f-781791198394",
-  externalLink: "https://musicbrainz.org/work/587bc1b8-5d9e-4c83-973f-781791198394",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "587bc1b8-5d9e-4c83-973f-781791198394",
+      externalLink: "https://musicbrainz.org/work/587bc1b8-5d9e-4c83-973f-781791198394",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

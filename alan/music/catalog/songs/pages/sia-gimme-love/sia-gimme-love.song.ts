@@ -6,10 +6,14 @@ export const siaGimmeLove = {
   slug: "sia-gimme-love",
   title: "Gimme Love",
   artist: "sia",
-  externalId: "7ec2761d-1daf-4f78-a5ae-97c44ca41bf9",
-  externalLink: "https://musicbrainz.org/work/7ec2761d-1daf-4f78-a5ae-97c44ca41bf9",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7ec2761d-1daf-4f78-a5ae-97c44ca41bf9",
+      externalLink: "https://musicbrainz.org/work/7ec2761d-1daf-4f78-a5ae-97c44ca41bf9",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

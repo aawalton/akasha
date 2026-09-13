@@ -6,10 +6,14 @@ export const siaJudgeMe = {
   slug: "sia-judge-me",
   title: "Judge Me",
   artist: "sia",
-  externalId: "566fa28c-02c6-4c9e-8295-94cba28a9fae",
-  externalLink: "https://musicbrainz.org/work/566fa28c-02c6-4c9e-8295-94cba28a9fae",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "566fa28c-02c6-4c9e-8295-94cba28a9fae",
+      externalLink: "https://musicbrainz.org/work/566fa28c-02c6-4c9e-8295-94cba28a9fae",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

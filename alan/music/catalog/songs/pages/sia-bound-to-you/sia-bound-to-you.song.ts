@@ -6,10 +6,14 @@ export const siaBoundToYou = {
   slug: "sia-bound-to-you",
   title: "Bound to You",
   artist: "sia",
-  externalId: "4de1cdd7-7b24-4862-800d-c352b1fe3091",
-  externalLink: "https://musicbrainz.org/work/4de1cdd7-7b24-4862-800d-c352b1fe3091",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4de1cdd7-7b24-4862-800d-c352b1fe3091",
+      externalLink: "https://musicbrainz.org/work/4de1cdd7-7b24-4862-800d-c352b1fe3091",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

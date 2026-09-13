@@ -6,10 +6,14 @@ export const mitskiWashingMachineHeart = {
   slug: "mitski-washing-machine-heart",
   title: "Washing Machine Heart",
   artist: "mitski",
-  externalId: "32b287d7-c063-432c-8d70-96cde7aa4ae9",
-  externalLink: "https://musicbrainz.org/work/32b287d7-c063-432c-8d70-96cde7aa4ae9",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "32b287d7-c063-432c-8d70-96cde7aa4ae9",
+      externalLink: "https://musicbrainz.org/work/32b287d7-c063-432c-8d70-96cde7aa4ae9",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

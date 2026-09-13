@@ -6,10 +6,14 @@ export const siaBreatheMe = {
   slug: "sia-breathe-me",
   title: "Breathe Me",
   artist: "sia",
-  externalId: "e9d630f1-998d-4ec6-86b6-a6b555bd16a7",
-  externalLink: "https://musicbrainz.org/work/e9d630f1-998d-4ec6-86b6-a6b555bd16a7",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e9d630f1-998d-4ec6-86b6-a6b555bd16a7",
+      externalLink: "https://musicbrainz.org/work/e9d630f1-998d-4ec6-86b6-a6b555bd16a7",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

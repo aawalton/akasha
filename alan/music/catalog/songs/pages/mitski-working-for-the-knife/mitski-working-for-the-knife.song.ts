@@ -6,10 +6,14 @@ export const mitskiWorkingForTheKnife = {
   slug: "mitski-working-for-the-knife",
   title: "Working for the Knife",
   artist: "mitski",
-  externalId: "b5d844af-452f-408a-94ac-e824d7ca45c2",
-  externalLink: "https://musicbrainz.org/work/b5d844af-452f-408a-94ac-e824d7ca45c2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b5d844af-452f-408a-94ac-e824d7ca45c2",
+      externalLink: "https://musicbrainz.org/work/b5d844af-452f-408a-94ac-e824d7ca45c2",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

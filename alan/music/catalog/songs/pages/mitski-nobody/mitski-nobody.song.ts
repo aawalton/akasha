@@ -6,10 +6,14 @@ export const mitskiNobody = {
   slug: "mitski-nobody",
   title: "Nobody",
   artist: "mitski",
-  externalId: "dbc6799a-51de-45de-a7a8-c0d18e718881",
-  externalLink: "https://musicbrainz.org/work/dbc6799a-51de-45de-a7a8-c0d18e718881",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "dbc6799a-51de-45de-a7a8-c0d18e718881",
+      externalLink: "https://musicbrainz.org/work/dbc6799a-51de-45de-a7a8-c0d18e718881",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

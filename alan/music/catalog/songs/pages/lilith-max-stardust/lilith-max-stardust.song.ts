@@ -6,10 +6,14 @@ export const lilithMaxStardust = {
   slug: "lilith-max-stardust",
   title: "Stardust",
   artist: "lilith-max",
-  externalId: "3ec785e0-e3f0-4f47-8840-d62de8fd1728",
-  externalLink: "https://musicbrainz.org/recording/3ec785e0-e3f0-4f47-8840-d62de8fd1728",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3ec785e0-e3f0-4f47-8840-d62de8fd1728",
+      externalLink: "https://musicbrainz.org/recording/3ec785e0-e3f0-4f47-8840-d62de8fd1728",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

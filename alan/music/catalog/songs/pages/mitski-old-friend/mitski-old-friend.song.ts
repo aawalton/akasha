@@ -6,10 +6,14 @@ export const mitskiOldFriend = {
   slug: "mitski-old-friend",
   title: "Old Friend",
   artist: "mitski",
-  externalId: "4795e634-8335-4978-948f-ea4dd8f0e520",
-  externalLink: "https://musicbrainz.org/work/4795e634-8335-4978-948f-ea4dd8f0e520",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4795e634-8335-4978-948f-ea4dd8f0e520",
+      externalLink: "https://musicbrainz.org/work/4795e634-8335-4978-948f-ea4dd8f0e520",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

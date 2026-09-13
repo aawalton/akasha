@@ -6,10 +6,14 @@ export const siaCrushMeWithYourLove = {
   slug: "sia-crush-me-with-your-love",
   title: "Crush Me With Your Love",
   artist: "sia",
-  externalId: "8bb4f4c5-cec2-4317-b373-b756408d8266",
-  externalLink: "https://musicbrainz.org/work/8bb4f4c5-cec2-4317-b373-b756408d8266",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8bb4f4c5-cec2-4317-b373-b756408d8266",
+      externalLink: "https://musicbrainz.org/work/8bb4f4c5-cec2-4317-b373-b756408d8266",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

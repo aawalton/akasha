@@ -6,10 +6,14 @@ export const siaIncredible = {
   slug: "sia-incredible",
   title: "Incredible",
   artist: "sia",
-  externalId: "bcb1a0fc-8baa-4c22-b91f-5639627bb72e",
-  externalLink: "https://musicbrainz.org/work/bcb1a0fc-8baa-4c22-b91f-5639627bb72e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "bcb1a0fc-8baa-4c22-b91f-5639627bb72e",
+      externalLink: "https://musicbrainz.org/work/bcb1a0fc-8baa-4c22-b91f-5639627bb72e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

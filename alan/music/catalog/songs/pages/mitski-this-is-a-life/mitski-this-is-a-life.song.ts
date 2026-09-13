@@ -6,10 +6,14 @@ export const mitskiThisIsALife = {
   slug: "mitski-this-is-a-life",
   title: "This Is a Life",
   artist: "mitski",
-  externalId: "c292148d-3381-4a01-a32d-b061397877da",
-  externalLink: "https://musicbrainz.org/work/c292148d-3381-4a01-a32d-b061397877da",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c292148d-3381-4a01-a32d-b061397877da",
+      externalLink: "https://musicbrainz.org/work/c292148d-3381-4a01-a32d-b061397877da",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const mitskiFirstLoveLateSpring = {
   slug: "mitski-first-love-late-spring",
   title: "First Love / Late Spring",
   artist: "mitski",
-  externalId: "8871bc41-a1ef-4682-bab4-b4637931b665",
-  externalLink: "https://musicbrainz.org/work/8871bc41-a1ef-4682-bab4-b4637931b665",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8871bc41-a1ef-4682-bab4-b4637931b665",
+      externalLink: "https://musicbrainz.org/work/8871bc41-a1ef-4682-bab4-b4637931b665",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

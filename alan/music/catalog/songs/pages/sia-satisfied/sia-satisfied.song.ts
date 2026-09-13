@@ -6,10 +6,14 @@ export const siaSatisfied = {
   slug: "sia-satisfied",
   title: "Satisfied",
   artist: "sia",
-  externalId: "3ac3f0d2-8c53-4ee5-87d7-da90fec74458",
-  externalLink: "https://musicbrainz.org/work/3ac3f0d2-8c53-4ee5-87d7-da90fec74458",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3ac3f0d2-8c53-4ee5-87d7-da90fec74458",
+      externalLink: "https://musicbrainz.org/work/3ac3f0d2-8c53-4ee5-87d7-da90fec74458",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

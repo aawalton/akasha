@@ -6,10 +6,14 @@ export const siaHoHoHo = {
   slug: "sia-ho-ho-ho",
   title: "Ho Ho Ho",
   artist: "sia",
-  externalId: "27681051-46b7-4e5f-abe7-0870077b45da",
-  externalLink: "https://musicbrainz.org/work/27681051-46b7-4e5f-abe7-0870077b45da",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "27681051-46b7-4e5f-abe7-0870077b45da",
+      externalLink: "https://musicbrainz.org/work/27681051-46b7-4e5f-abe7-0870077b45da",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

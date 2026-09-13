@@ -6,10 +6,14 @@ export const siaMyLove = {
   slug: "sia-my-love",
   title: "My Love",
   artist: "sia",
-  externalId: "05a9e944-767c-49d7-859c-59f561511ee6",
-  externalLink: "https://musicbrainz.org/work/05a9e944-767c-49d7-859c-59f561511ee6",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "05a9e944-767c-49d7-859c-59f561511ee6",
+      externalLink: "https://musicbrainz.org/work/05a9e944-767c-49d7-859c-59f561511ee6",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

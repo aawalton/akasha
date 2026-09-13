@@ -6,10 +6,14 @@ export const siaTheChurchOfWhatSHappeningNow = {
   slug: "sia-the-church-of-what-s-happening-now",
   title: "The Church of What’s Happening Now",
   artist: "sia",
-  externalId: "62ae0c0b-f047-4bec-ab05-ce19254a4635",
-  externalLink: "https://musicbrainz.org/work/62ae0c0b-f047-4bec-ab05-ce19254a4635",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "62ae0c0b-f047-4bec-ab05-ce19254a4635",
+      externalLink: "https://musicbrainz.org/work/62ae0c0b-f047-4bec-ab05-ce19254a4635",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

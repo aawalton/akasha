@@ -6,10 +6,14 @@ export const siaCasualty = {
   slug: "sia-casualty",
   title: "Casualty",
   artist: "sia",
-  externalId: "f1998339-83b2-4ea3-80ff-a0c361866f04",
-  externalLink: "https://musicbrainz.org/work/f1998339-83b2-4ea3-80ff-a0c361866f04",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f1998339-83b2-4ea3-80ff-a0c361866f04",
+      externalLink: "https://musicbrainz.org/work/f1998339-83b2-4ea3-80ff-a0c361866f04",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

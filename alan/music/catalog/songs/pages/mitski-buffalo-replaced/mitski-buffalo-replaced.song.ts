@@ -6,10 +6,14 @@ export const mitskiBuffaloReplaced = {
   slug: "mitski-buffalo-replaced",
   title: "Buffalo Replaced",
   artist: "mitski",
-  externalId: "253d0143-d90d-4531-9ab8-570df1005d1e",
-  externalLink: "https://musicbrainz.org/work/253d0143-d90d-4531-9ab8-570df1005d1e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "253d0143-d90d-4531-9ab8-570df1005d1e",
+      externalLink: "https://musicbrainz.org/work/253d0143-d90d-4531-9ab8-570df1005d1e",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

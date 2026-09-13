@@ -6,10 +6,14 @@ export const mitskiAbbey = {
   slug: "mitski-abbey",
   title: "Abbey",
   artist: "mitski",
-  externalId: "6a6c7967-2f7b-4a54-878b-bf04e06553e1",
-  externalLink: "https://musicbrainz.org/work/6a6c7967-2f7b-4a54-878b-bf04e06553e1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6a6c7967-2f7b-4a54-878b-bf04e06553e1",
+      externalLink: "https://musicbrainz.org/work/6a6c7967-2f7b-4a54-878b-bf04e06553e1",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

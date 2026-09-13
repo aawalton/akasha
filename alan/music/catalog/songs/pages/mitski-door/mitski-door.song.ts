@@ -6,10 +6,14 @@ export const mitskiDoor = {
   slug: "mitski-door",
   title: "Door",
   artist: "mitski",
-  externalId: "d49e9332-88ce-4bb2-80cb-5a430604ab23",
-  externalLink: "https://musicbrainz.org/work/d49e9332-88ce-4bb2-80cb-5a430604ab23",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d49e9332-88ce-4bb2-80cb-5a430604ab23",
+      externalLink: "https://musicbrainz.org/work/d49e9332-88ce-4bb2-80cb-5a430604ab23",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

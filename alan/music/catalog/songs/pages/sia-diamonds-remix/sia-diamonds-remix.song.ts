@@ -6,10 +6,14 @@ export const siaDiamondsRemix = {
   slug: "sia-diamonds-remix",
   title: "Diamonds (remix)",
   artist: "sia",
-  externalId: "836a306e-73f2-47b1-b6a1-dee05b714a7a",
-  externalLink: "https://musicbrainz.org/work/836a306e-73f2-47b1-b6a1-dee05b714a7a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "836a306e-73f2-47b1-b6a1-dee05b714a7a",
+      externalLink: "https://musicbrainz.org/work/836a306e-73f2-47b1-b6a1-dee05b714a7a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: false,
   written: "collab",

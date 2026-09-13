@@ -6,10 +6,14 @@ export const siaMakingTheMostOfTheNight = {
   slug: "sia-making-the-most-of-the-night",
   title: "Making the Most of the Night",
   artist: "sia",
-  externalId: "8cb4d0bf-a249-4f91-8679-14cf16fe9b56",
-  externalLink: "https://musicbrainz.org/work/8cb4d0bf-a249-4f91-8679-14cf16fe9b56",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8cb4d0bf-a249-4f91-8679-14cf16fe9b56",
+      externalLink: "https://musicbrainz.org/work/8cb4d0bf-a249-4f91-8679-14cf16fe9b56",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

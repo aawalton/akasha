@@ -6,10 +6,14 @@ export const mitskiFrancisForever = {
   slug: "mitski-francis-forever",
   title: "Francis Forever",
   artist: "mitski",
-  externalId: "17e2835b-67e8-41a9-a118-5968268fa04d",
-  externalLink: "https://musicbrainz.org/work/17e2835b-67e8-41a9-a118-5968268fa04d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "17e2835b-67e8-41a9-a118-5968268fa04d",
+      externalLink: "https://musicbrainz.org/work/17e2835b-67e8-41a9-a118-5968268fa04d",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

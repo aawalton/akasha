@@ -6,10 +6,14 @@ export const siaSpaceBetween = {
   slug: "sia-space-between",
   title: "Space Between",
   artist: "sia",
-  externalId: "337b4984-5f07-45ee-a940-1974281ad8e0",
-  externalLink: "https://musicbrainz.org/work/337b4984-5f07-45ee-a940-1974281ad8e0",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "337b4984-5f07-45ee-a940-1974281ad8e0",
+      externalLink: "https://musicbrainz.org/work/337b4984-5f07-45ee-a940-1974281ad8e0",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

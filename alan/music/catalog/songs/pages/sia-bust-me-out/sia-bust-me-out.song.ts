@@ -6,10 +6,14 @@ export const siaBustMeOut = {
   slug: "sia-bust-me-out",
   title: "Bust Me Out",
   artist: "sia",
-  externalId: "afe64e0a-03fe-4df0-b83b-eda053050d9d",
-  externalLink: "https://musicbrainz.org/work/afe64e0a-03fe-4df0-b83b-eda053050d9d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "afe64e0a-03fe-4df0-b83b-eda053050d9d",
+      externalLink: "https://musicbrainz.org/work/afe64e0a-03fe-4df0-b83b-eda053050d9d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

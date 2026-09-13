@@ -6,10 +6,14 @@ export const mitskiThatWhiteCat = {
   slug: "mitski-that-white-cat",
   title: "That White Cat",
   artist: "mitski",
-  externalId: "e02269e0-55fa-4591-9006-231155443fa1",
-  externalLink: "https://musicbrainz.org/work/e02269e0-55fa-4591-9006-231155443fa1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e02269e0-55fa-4591-9006-231155443fa1",
+      externalLink: "https://musicbrainz.org/work/e02269e0-55fa-4591-9006-231155443fa1",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

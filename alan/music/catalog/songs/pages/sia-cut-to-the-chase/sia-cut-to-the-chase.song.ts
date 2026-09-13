@@ -6,10 +6,14 @@ export const siaCutToTheChase = {
   slug: "sia-cut-to-the-chase",
   title: "Cut to the Chase",
   artist: "sia",
-  externalId: "cbfb9f7f-9fd0-4468-a404-53c24e030373",
-  externalLink: "https://musicbrainz.org/work/cbfb9f7f-9fd0-4468-a404-53c24e030373",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "cbfb9f7f-9fd0-4468-a404-53c24e030373",
+      externalLink: "https://musicbrainz.org/work/cbfb9f7f-9fd0-4468-a404-53c24e030373",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

@@ -6,10 +6,14 @@ export const mitskiWife = {
   slug: "mitski-wife",
   title: "Wife",
   artist: "mitski",
-  externalId: "d97c0d4e-c96e-455b-9a51-cd3650ff8272",
-  externalLink: "https://musicbrainz.org/work/d97c0d4e-c96e-455b-9a51-cd3650ff8272",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d97c0d4e-c96e-455b-9a51-cd3650ff8272",
+      externalLink: "https://musicbrainz.org/work/d97c0d4e-c96e-455b-9a51-cd3650ff8272",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

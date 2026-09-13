@@ -6,10 +6,14 @@ export const siaChampion = {
   slug: "sia-champion",
   title: "Champion",
   artist: "sia",
-  externalId: "c043b860-d3fc-4756-aab8-c789fdbdcb84",
-  externalLink: "https://musicbrainz.org/work/c043b860-d3fc-4756-aab8-c789fdbdcb84",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c043b860-d3fc-4756-aab8-c789fdbdcb84",
+      externalLink: "https://musicbrainz.org/work/c043b860-d3fc-4756-aab8-c789fdbdcb84",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

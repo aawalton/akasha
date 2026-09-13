@@ -6,10 +6,14 @@ export const mitskiShame = {
   slug: "mitski-shame",
   title: "Shame",
   artist: "mitski",
-  externalId: "94e6fae5-9a90-4f8a-abe1-a9c5ec8e43f1",
-  externalLink: "https://musicbrainz.org/work/94e6fae5-9a90-4f8a-abe1-a9c5ec8e43f1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "94e6fae5-9a90-4f8a-abe1-a9c5ec8e43f1",
+      externalLink: "https://musicbrainz.org/work/94e6fae5-9a90-4f8a-abe1-a9c5ec8e43f1",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

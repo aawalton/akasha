@@ -6,10 +6,14 @@ export const siaIMNotImportantToYou = {
   slug: "sia-i-m-not-important-to-you",
   title: "I’m Not Important to You",
   artist: "sia",
-  externalId: "f8121fd5-328e-444b-b142-1852885f32c7",
-  externalLink: "https://musicbrainz.org/work/f8121fd5-328e-444b-b142-1852885f32c7",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f8121fd5-328e-444b-b142-1852885f32c7",
+      externalLink: "https://musicbrainz.org/work/f8121fd5-328e-444b-b142-1852885f32c7",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

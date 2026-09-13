@@ -6,10 +6,14 @@ export const siaVictory = {
   slug: "sia-victory",
   title: "Victory",
   artist: "sia",
-  externalId: "cbb1827d-d3c3-4587-918c-bc909dbb561c",
-  externalLink: "https://musicbrainz.org/work/cbb1827d-d3c3-4587-918c-bc909dbb561c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "cbb1827d-d3c3-4587-918c-bc909dbb561c",
+      externalLink: "https://musicbrainz.org/work/cbb1827d-d3c3-4587-918c-bc909dbb561c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

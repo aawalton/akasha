@@ -6,10 +6,14 @@ export const mitskiThursdayGirl = {
   slug: "mitski-thursday-girl",
   title: "Thursday Girl",
   artist: "mitski",
-  externalId: "76cd3d78-2bc5-4e36-9454-0e31e47365d2",
-  externalLink: "https://musicbrainz.org/work/76cd3d78-2bc5-4e36-9454-0e31e47365d2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "76cd3d78-2bc5-4e36-9454-0e31e47365d2",
+      externalLink: "https://musicbrainz.org/work/76cd3d78-2bc5-4e36-9454-0e31e47365d2",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

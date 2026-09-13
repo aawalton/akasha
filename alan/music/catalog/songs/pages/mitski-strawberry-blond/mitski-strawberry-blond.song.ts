@@ -6,10 +6,14 @@ export const mitskiStrawberryBlond = {
   slug: "mitski-strawberry-blond",
   title: "Strawberry Blond",
   artist: "mitski",
-  externalId: "3f4f96c3-4523-4313-8749-f461f802c3cb",
-  externalLink: "https://musicbrainz.org/work/3f4f96c3-4523-4313-8749-f461f802c3cb",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3f4f96c3-4523-4313-8749-f461f802c3cb",
+      externalLink: "https://musicbrainz.org/work/3f4f96c3-4523-4313-8749-f461f802c3cb",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

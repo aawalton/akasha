@@ -6,10 +6,14 @@ export const mitskiLetMyLoveOpenTheDoor = {
   slug: "mitski-let-my-love-open-the-door",
   title: "Let My Love Open the Door",
   artist: "mitski",
-  externalId: "f1a6e60e-1189-40de-9d92-729d19f66cc3",
-  externalLink: "https://musicbrainz.org/work/f1a6e60e-1189-40de-9d92-729d19f66cc3",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f1a6e60e-1189-40de-9d92-729d19f66cc3",
+      externalLink: "https://musicbrainz.org/work/f1a6e60e-1189-40de-9d92-729d19f66cc3",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

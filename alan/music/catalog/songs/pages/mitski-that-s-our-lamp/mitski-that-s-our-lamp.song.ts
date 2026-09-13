@@ -6,10 +6,14 @@ export const mitskiThatSOurLamp = {
   slug: "mitski-that-s-our-lamp",
   title: "That’s Our Lamp",
   artist: "mitski",
-  externalId: "1a4fe9b1-e91d-4ca4-888a-3dea2aede925",
-  externalLink: "https://musicbrainz.org/work/1a4fe9b1-e91d-4ca4-888a-3dea2aede925",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1a4fe9b1-e91d-4ca4-888a-3dea2aede925",
+      externalLink: "https://musicbrainz.org/work/1a4fe9b1-e91d-4ca4-888a-3dea2aede925",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

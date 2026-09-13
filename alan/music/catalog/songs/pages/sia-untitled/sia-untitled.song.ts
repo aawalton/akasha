@@ -6,10 +6,14 @@ export const siaUntitled = {
   slug: "sia-untitled",
   title: "不要不要的",
   artist: "sia",
-  externalId: "4c347449-57d8-4c8d-bae2-8052f6cdcd27",
-  externalLink: "https://musicbrainz.org/work/4c347449-57d8-4c8d-bae2-8052f6cdcd27",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4c347449-57d8-4c8d-bae2-8052f6cdcd27",
+      externalLink: "https://musicbrainz.org/work/4c347449-57d8-4c8d-bae2-8052f6cdcd27",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: false,
   written: "collab",

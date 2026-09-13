@@ -6,10 +6,14 @@ export const lilithMaxMaidenSNight = {
   slug: "lilith-max-maiden-s-night",
   title: "Maiden's Night",
   artist: "lilith-max",
-  externalId: "bfed276a-b12f-49fa-8e37-e745ed0d9dcb",
-  externalLink: "https://musicbrainz.org/recording/bfed276a-b12f-49fa-8e37-e745ed0d9dcb",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "bfed276a-b12f-49fa-8e37-e745ed0d9dcb",
+      externalLink: "https://musicbrainz.org/recording/bfed276a-b12f-49fa-8e37-e745ed0d9dcb",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

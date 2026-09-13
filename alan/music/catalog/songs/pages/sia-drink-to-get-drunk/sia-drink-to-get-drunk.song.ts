@@ -6,10 +6,14 @@ export const siaDrinkToGetDrunk = {
   slug: "sia-drink-to-get-drunk",
   title: "Drink to Get Drunk",
   artist: "sia",
-  externalId: "a0d65d9f-843e-4e75-80ec-e3ca0db5c0e7",
-  externalLink: "https://musicbrainz.org/work/a0d65d9f-843e-4e75-80ec-e3ca0db5c0e7",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a0d65d9f-843e-4e75-80ec-e3ca0db5c0e7",
+      externalLink: "https://musicbrainz.org/work/a0d65d9f-843e-4e75-80ec-e3ca0db5c0e7",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

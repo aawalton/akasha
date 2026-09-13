@@ -6,10 +6,14 @@ export const siaHurtingMeNow = {
   slug: "sia-hurting-me-now",
   title: "Hurting Me Now",
   artist: "sia",
-  externalId: "8a3b24f0-8eac-49e7-96e3-c519cb1a3acd",
-  externalLink: "https://musicbrainz.org/work/8a3b24f0-8eac-49e7-96e3-c519cb1a3acd",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8a3b24f0-8eac-49e7-96e3-c519cb1a3acd",
+      externalLink: "https://musicbrainz.org/work/8a3b24f0-8eac-49e7-96e3-c519cb1a3acd",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

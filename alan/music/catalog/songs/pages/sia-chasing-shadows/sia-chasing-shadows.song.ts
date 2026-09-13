@@ -6,10 +6,14 @@ export const siaChasingShadows = {
   slug: "sia-chasing-shadows",
   title: "Chasing Shadows",
   artist: "sia",
-  externalId: "7425a023-3dbf-4a62-852e-8ceddd2c9422",
-  externalLink: "https://musicbrainz.org/work/7425a023-3dbf-4a62-852e-8ceddd2c9422",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7425a023-3dbf-4a62-852e-8ceddd2c9422",
+      externalLink: "https://musicbrainz.org/work/7425a023-3dbf-4a62-852e-8ceddd2c9422",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

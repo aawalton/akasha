@@ -6,10 +6,14 @@ export const siaDimTheLights = {
   slug: "sia-dim-the-lights",
   title: "Dim the Lights",
   artist: "sia",
-  externalId: "85e67ee4-a08c-4d8f-acf1-2daa5426c246",
-  externalLink: "https://musicbrainz.org/work/85e67ee4-a08c-4d8f-acf1-2daa5426c246",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "85e67ee4-a08c-4d8f-acf1-2daa5426c246",
+      externalLink: "https://musicbrainz.org/work/85e67ee4-a08c-4d8f-acf1-2daa5426c246",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

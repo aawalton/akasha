@@ -6,10 +6,14 @@ export const siaHelium = {
   slug: "sia-helium",
   title: "Helium",
   artist: "sia",
-  externalId: "409a4e77-d377-4b6c-acf8-0c29fcd6e8dc",
-  externalLink: "https://musicbrainz.org/work/409a4e77-d377-4b6c-acf8-0c29fcd6e8dc",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "409a4e77-d377-4b6c-acf8-0c29fcd6e8dc",
+      externalLink: "https://musicbrainz.org/work/409a4e77-d377-4b6c-acf8-0c29fcd6e8dc",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const siaThePageantOfTheBizarre = {
   slug: "sia-the-pageant-of-the-bizarre",
   title: "The Pageant of the Bizarre",
   artist: "sia",
-  externalId: "b60b415d-0f8c-4809-b062-d89d288877c0",
-  externalLink: "https://musicbrainz.org/work/b60b415d-0f8c-4809-b062-d89d288877c0",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b60b415d-0f8c-4809-b062-d89d288877c0",
+      externalLink: "https://musicbrainz.org/work/b60b415d-0f8c-4809-b062-d89d288877c0",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   lyricsSource: "lrclib",

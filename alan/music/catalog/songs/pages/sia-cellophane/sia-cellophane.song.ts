@@ -6,10 +6,14 @@ export const siaCellophane = {
   slug: "sia-cellophane",
   title: "Cellophane",
   artist: "sia",
-  externalId: "6a15767c-fb23-4710-adb3-806796f2f42d",
-  externalLink: "https://musicbrainz.org/work/6a15767c-fb23-4710-adb3-806796f2f42d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6a15767c-fb23-4710-adb3-806796f2f42d",
+      externalLink: "https://musicbrainz.org/work/6a15767c-fb23-4710-adb3-806796f2f42d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const siaIfICanTHaveYou = {
   slug: "sia-if-i-can-t-have-you",
   title: "If I Can’t Have You",
   artist: "sia",
-  externalId: "73724f79-a686-4bea-ac69-5e6028b18d97",
-  externalLink: "https://musicbrainz.org/work/73724f79-a686-4bea-ac69-5e6028b18d97",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "73724f79-a686-4bea-ac69-5e6028b18d97",
+      externalLink: "https://musicbrainz.org/work/73724f79-a686-4bea-ac69-5e6028b18d97",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

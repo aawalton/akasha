@@ -6,10 +6,14 @@ export const siaOasis = {
   slug: "sia-oasis",
   title: "Oasis",
   artist: "sia",
-  externalId: "8e6e3b46-6ce4-4d3d-b47e-f75fd2b9cf8e",
-  externalLink: "https://musicbrainz.org/work/8e6e3b46-6ce4-4d3d-b47e-f75fd2b9cf8e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8e6e3b46-6ce4-4d3d-b47e-f75fd2b9cf8e",
+      externalLink: "https://musicbrainz.org/work/8e6e3b46-6ce4-4d3d-b47e-f75fd2b9cf8e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

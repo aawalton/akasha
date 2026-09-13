@@ -6,10 +6,14 @@ export const siaLikeWater = {
   slug: "sia-like-water",
   title: "Like Water",
   artist: "sia",
-  externalId: "cad88818-826b-4cc2-952e-de2d2bba084e",
-  externalLink: "https://musicbrainz.org/work/cad88818-826b-4cc2-952e-de2d2bba084e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "cad88818-826b-4cc2-952e-de2d2bba084e",
+      externalLink: "https://musicbrainz.org/work/cad88818-826b-4cc2-952e-de2d2bba084e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

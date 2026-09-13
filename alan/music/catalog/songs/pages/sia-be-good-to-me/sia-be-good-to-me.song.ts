@@ -6,10 +6,14 @@ export const siaBeGoodToMe = {
   slug: "sia-be-good-to-me",
   title: "Be Good to Me",
   artist: "sia",
-  externalId: "bc3d1f6c-97f7-48dc-a39a-3483ab55b020",
-  externalLink: "https://musicbrainz.org/work/bc3d1f6c-97f7-48dc-a39a-3483ab55b020",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "bc3d1f6c-97f7-48dc-a39a-3483ab55b020",
+      externalLink: "https://musicbrainz.org/work/bc3d1f6c-97f7-48dc-a39a-3483ab55b020",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

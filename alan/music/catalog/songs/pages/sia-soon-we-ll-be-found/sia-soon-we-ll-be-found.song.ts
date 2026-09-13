@@ -6,10 +6,14 @@ export const siaSoonWeLlBeFound = {
   slug: "sia-soon-we-ll-be-found",
   title: "Soon We’ll Be Found",
   artist: "sia",
-  externalId: "61b7c2be-3708-4ac9-a744-124f9d89fa56",
-  externalLink: "https://musicbrainz.org/work/61b7c2be-3708-4ac9-a744-124f9d89fa56",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "61b7c2be-3708-4ac9-a744-124f9d89fa56",
+      externalLink: "https://musicbrainz.org/work/61b7c2be-3708-4ac9-a744-124f9d89fa56",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

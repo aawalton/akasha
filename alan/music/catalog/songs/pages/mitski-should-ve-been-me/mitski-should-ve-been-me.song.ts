@@ -6,10 +6,14 @@ export const mitskiShouldVeBeenMe = {
   slug: "mitski-should-ve-been-me",
   title: "Should’ve Been Me",
   artist: "mitski",
-  externalId: "6367fd5d-5242-4046-89c2-093dace4b5e1",
-  externalLink: "https://musicbrainz.org/work/6367fd5d-5242-4046-89c2-093dace4b5e1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6367fd5d-5242-4046-89c2-093dace4b5e1",
+      externalLink: "https://musicbrainz.org/work/6367fd5d-5242-4046-89c2-093dace4b5e1",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

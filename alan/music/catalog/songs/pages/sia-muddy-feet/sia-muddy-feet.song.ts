@@ -6,10 +6,14 @@ export const siaMuddyFeet = {
   slug: "sia-muddy-feet",
   title: "Muddy Feet",
   artist: "sia",
-  externalId: "40166857-10a4-4b9b-954e-94a727c5336b",
-  externalLink: "https://musicbrainz.org/work/40166857-10a4-4b9b-954e-94a727c5336b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "40166857-10a4-4b9b-954e-94a727c5336b",
+      externalLink: "https://musicbrainz.org/work/40166857-10a4-4b9b-954e-94a727c5336b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

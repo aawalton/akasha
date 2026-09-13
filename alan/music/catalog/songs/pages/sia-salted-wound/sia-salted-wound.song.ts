@@ -6,10 +6,14 @@ export const siaSaltedWound = {
   slug: "sia-salted-wound",
   title: "Salted Wound",
   artist: "sia",
-  externalId: "6a69e299-d3bf-4054-8f5a-46ceb78ec656",
-  externalLink: "https://musicbrainz.org/work/6a69e299-d3bf-4054-8f5a-46ceb78ec656",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6a69e299-d3bf-4054-8f5a-46ceb78ec656",
+      externalLink: "https://musicbrainz.org/work/6a69e299-d3bf-4054-8f5a-46ceb78ec656",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

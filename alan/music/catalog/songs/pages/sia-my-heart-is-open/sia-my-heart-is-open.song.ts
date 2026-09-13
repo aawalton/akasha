@@ -6,10 +6,14 @@ export const siaMyHeartIsOpen = {
   slug: "sia-my-heart-is-open",
   title: "My Heart Is Open",
   artist: "sia",
-  externalId: "bceb3b0f-aa1a-4532-a3e3-fd0e43472a61",
-  externalLink: "https://musicbrainz.org/work/bceb3b0f-aa1a-4532-a3e3-fd0e43472a61",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "bceb3b0f-aa1a-4532-a3e3-fd0e43472a61",
+      externalLink: "https://musicbrainz.org/work/bceb3b0f-aa1a-4532-a3e3-fd0e43472a61",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

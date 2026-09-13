@@ -6,10 +6,14 @@ export const siaKillAndRun = {
   slug: "sia-kill-and-run",
   title: "Kill and Run",
   artist: "sia",
-  externalId: "8d095a0d-d32a-4e81-bcec-58525d389428",
-  externalLink: "https://musicbrainz.org/work/8d095a0d-d32a-4e81-bcec-58525d389428",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8d095a0d-d32a-4e81-bcec-58525d389428",
+      externalLink: "https://musicbrainz.org/work/8d095a0d-d32a-4e81-bcec-58525d389428",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

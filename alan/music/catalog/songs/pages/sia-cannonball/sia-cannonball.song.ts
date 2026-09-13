@@ -6,10 +6,14 @@ export const siaCannonball = {
   slug: "sia-cannonball",
   title: "Cannonball",
   artist: "sia",
-  externalId: "45c69e18-695d-41fd-ade9-fd1bfd24bed5",
-  externalLink: "https://musicbrainz.org/work/45c69e18-695d-41fd-ade9-fd1bfd24bed5",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "45c69e18-695d-41fd-ade9-fd1bfd24bed5",
+      externalLink: "https://musicbrainz.org/work/45c69e18-695d-41fd-ade9-fd1bfd24bed5",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

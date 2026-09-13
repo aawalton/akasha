@@ -6,10 +6,14 @@ export const mitskiLonesomeLove = {
   slug: "mitski-lonesome-love",
   title: "Lonesome Love",
   artist: "mitski",
-  externalId: "7c8f44ca-e5cf-48a1-a3cc-5e14a7423500",
-  externalLink: "https://musicbrainz.org/work/7c8f44ca-e5cf-48a1-a3cc-5e14a7423500",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7c8f44ca-e5cf-48a1-a3cc-5e14a7423500",
+      externalLink: "https://musicbrainz.org/work/7c8f44ca-e5cf-48a1-a3cc-5e14a7423500",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

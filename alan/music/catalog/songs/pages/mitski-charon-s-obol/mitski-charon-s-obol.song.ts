@@ -6,10 +6,14 @@ export const mitskiCharonSObol = {
   slug: "mitski-charon-s-obol",
   title: "Charon’s Obol",
   artist: "mitski",
-  externalId: "2373c012-fb5c-4d05-a9d5-a97142c53dfa",
-  externalLink: "https://musicbrainz.org/work/2373c012-fb5c-4d05-a9d5-a97142c53dfa",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2373c012-fb5c-4d05-a9d5-a97142c53dfa",
+      externalLink: "https://musicbrainz.org/work/2373c012-fb5c-4d05-a9d5-a97142c53dfa",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

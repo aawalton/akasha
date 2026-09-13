@@ -6,10 +6,14 @@ export const mitskiIMYourMan = {
   slug: "mitski-i-m-your-man",
   title: "I’m Your Man",
   artist: "mitski",
-  externalId: "364b4b62-b815-443f-8ab3-fd72a5c38227",
-  externalLink: "https://musicbrainz.org/work/364b4b62-b815-443f-8ab3-fd72a5c38227",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "364b4b62-b815-443f-8ab3-fd72a5c38227",
+      externalLink: "https://musicbrainz.org/work/364b4b62-b815-443f-8ab3-fd72a5c38227",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const lilithMaxDoYouBelieve = {
   slug: "lilith-max-do-you-believe",
   title: "Do You Believe",
   artist: "lilith-max",
-  externalId: "a434f84b-e3a6-4a81-8bd8-20671c78b5f2",
-  externalLink: "https://musicbrainz.org/recording/a434f84b-e3a6-4a81-8bd8-20671c78b5f2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a434f84b-e3a6-4a81-8bd8-20671c78b5f2",
+      externalLink: "https://musicbrainz.org/recording/a434f84b-e3a6-4a81-8bd8-20671c78b5f2",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

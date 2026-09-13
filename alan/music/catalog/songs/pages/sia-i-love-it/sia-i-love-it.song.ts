@@ -6,10 +6,14 @@ export const siaILoveIt = {
   slug: "sia-i-love-it",
   title: "I Love It",
   artist: "sia",
-  externalId: "12f08b1a-f432-4e6b-85a7-3b0d206fc633",
-  externalLink: "https://musicbrainz.org/work/12f08b1a-f432-4e6b-85a7-3b0d206fc633",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "12f08b1a-f432-4e6b-85a7-3b0d206fc633",
+      externalLink: "https://musicbrainz.org/work/12f08b1a-f432-4e6b-85a7-3b0d206fc633",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

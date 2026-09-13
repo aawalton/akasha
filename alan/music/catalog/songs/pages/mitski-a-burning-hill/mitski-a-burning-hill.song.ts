@@ -6,10 +6,14 @@ export const mitskiABurningHill = {
   slug: "mitski-a-burning-hill",
   title: "A Burning Hill",
   artist: "mitski",
-  externalId: "70aa45fb-3024-42d7-ba46-031a7778d435",
-  externalLink: "https://musicbrainz.org/work/70aa45fb-3024-42d7-ba46-031a7778d435",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "70aa45fb-3024-42d7-ba46-031a7778d435",
+      externalLink: "https://musicbrainz.org/work/70aa45fb-3024-42d7-ba46-031a7778d435",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

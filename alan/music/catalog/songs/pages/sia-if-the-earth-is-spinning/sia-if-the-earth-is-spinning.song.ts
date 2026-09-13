@@ -6,10 +6,14 @@ export const siaIfTheEarthIsSpinning = {
   slug: "sia-if-the-earth-is-spinning",
   title: "If the Earth Is Spinning",
   artist: "sia",
-  externalId: "6e000f3d-3100-4dd2-89b5-59988467cf67",
-  externalLink: "https://musicbrainz.org/work/6e000f3d-3100-4dd2-89b5-59988467cf67",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6e000f3d-3100-4dd2-89b5-59988467cf67",
+      externalLink: "https://musicbrainz.org/work/6e000f3d-3100-4dd2-89b5-59988467cf67",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

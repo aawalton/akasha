@@ -6,10 +6,14 @@ export const mitskiUntitled = {
   slug: "mitski-untitled",
   title: "グライド",
   artist: "mitski",
-  externalId: "202029e0-8dd3-3ddd-8366-dd29dbb2ebef",
-  externalLink: "https://musicbrainz.org/work/202029e0-8dd3-3ddd-8366-dd29dbb2ebef",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "202029e0-8dd3-3ddd-8366-dd29dbb2ebef",
+      externalLink: "https://musicbrainz.org/work/202029e0-8dd3-3ddd-8366-dd29dbb2ebef",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

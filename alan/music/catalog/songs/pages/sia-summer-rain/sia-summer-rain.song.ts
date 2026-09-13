@@ -6,10 +6,14 @@ export const siaSummerRain = {
   slug: "sia-summer-rain",
   title: "Summer Rain",
   artist: "sia",
-  externalId: "255cdb64-7664-4ba1-9faa-33165824c650",
-  externalLink: "https://musicbrainz.org/work/255cdb64-7664-4ba1-9faa-33165824c650",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "255cdb64-7664-4ba1-9faa-33165824c650",
+      externalLink: "https://musicbrainz.org/work/255cdb64-7664-4ba1-9faa-33165824c650",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

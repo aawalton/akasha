@@ -6,10 +6,14 @@ export const siaEyeToEye = {
   slug: "sia-eye-to-eye",
   title: "Eye to Eye",
   artist: "sia",
-  externalId: "c40bc854-6c67-4a75-8ade-e12e35a2aebb",
-  externalLink: "https://musicbrainz.org/work/c40bc854-6c67-4a75-8ade-e12e35a2aebb",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c40bc854-6c67-4a75-8ade-e12e35a2aebb",
+      externalLink: "https://musicbrainz.org/work/c40bc854-6c67-4a75-8ade-e12e35a2aebb",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const siaBrokenGlass = {
   slug: "sia-broken-glass",
   title: "Broken Glass",
   artist: "sia",
-  externalId: "4511fdae-90af-4baf-88ef-00cf102b4a3f",
-  externalLink: "https://musicbrainz.org/work/4511fdae-90af-4baf-88ef-00cf102b4a3f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4511fdae-90af-4baf-88ef-00cf102b4a3f",
+      externalLink: "https://musicbrainz.org/work/4511fdae-90af-4baf-88ef-00cf102b4a3f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

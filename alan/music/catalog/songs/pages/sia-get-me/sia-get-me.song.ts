@@ -6,10 +6,14 @@ export const siaGetMe = {
   slug: "sia-get-me",
   title: "Get Me",
   artist: "sia",
-  externalId: "0e9f4c8e-6054-45c3-8cd4-2928f2ce799d",
-  externalLink: "https://musicbrainz.org/work/0e9f4c8e-6054-45c3-8cd4-2928f2ce799d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0e9f4c8e-6054-45c3-8cd4-2928f2ce799d",
+      externalLink: "https://musicbrainz.org/work/0e9f4c8e-6054-45c3-8cd4-2928f2ce799d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

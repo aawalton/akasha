@@ -6,10 +6,14 @@ export const siaSunday = {
   slug: "sia-sunday",
   title: "Sunday",
   artist: "sia",
-  externalId: "db97b949-0b2a-4811-881c-f70ef71363c6",
-  externalLink: "https://musicbrainz.org/work/db97b949-0b2a-4811-881c-f70ef71363c6",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "db97b949-0b2a-4811-881c-f70ef71363c6",
+      externalLink: "https://musicbrainz.org/work/db97b949-0b2a-4811-881c-f70ef71363c6",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

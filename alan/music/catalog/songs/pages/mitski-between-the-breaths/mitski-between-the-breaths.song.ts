@@ -6,10 +6,14 @@ export const mitskiBetweenTheBreaths = {
   slug: "mitski-between-the-breaths",
   title: "Between the Breaths",
   artist: "mitski",
-  externalId: "318e44e6-3f6c-4e58-a674-ebedc3edd831",
-  externalLink: "https://musicbrainz.org/work/318e44e6-3f6c-4e58-a674-ebedc3edd831",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "318e44e6-3f6c-4e58-a674-ebedc3edd831",
+      externalLink: "https://musicbrainz.org/work/318e44e6-3f6c-4e58-a674-ebedc3edd831",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

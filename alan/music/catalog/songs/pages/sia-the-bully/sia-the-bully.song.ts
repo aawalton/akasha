@@ -6,10 +6,14 @@ export const siaTheBully = {
   slug: "sia-the-bully",
   title: "The Bully",
   artist: "sia",
-  externalId: "05c6307f-e6b2-389b-968e-526777a7fbae",
-  externalLink: "https://musicbrainz.org/work/05c6307f-e6b2-389b-968e-526777a7fbae",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "05c6307f-e6b2-389b-968e-526777a7fbae",
+      externalLink: "https://musicbrainz.org/work/05c6307f-e6b2-389b-968e-526777a7fbae",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

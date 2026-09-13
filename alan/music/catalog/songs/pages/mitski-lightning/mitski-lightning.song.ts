@@ -6,10 +6,14 @@ export const mitskiLightning = {
   slug: "mitski-lightning",
   title: "Lightning",
   artist: "mitski",
-  externalId: "11932468-b3cc-4d58-b3b8-a1aef9600039",
-  externalLink: "https://musicbrainz.org/work/11932468-b3cc-4d58-b3b8-a1aef9600039",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "11932468-b3cc-4d58-b3b8-a1aef9600039",
+      externalLink: "https://musicbrainz.org/work/11932468-b3cc-4d58-b3b8-a1aef9600039",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

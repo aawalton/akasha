@@ -6,10 +6,14 @@ export const mitskiInALake = {
   slug: "mitski-in-a-lake",
   title: "In a Lake",
   artist: "mitski",
-  externalId: "fe2c057d-a5f0-4abc-8fd0-e8796e38e41c",
-  externalLink: "https://musicbrainz.org/work/fe2c057d-a5f0-4abc-8fd0-e8796e38e41c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "fe2c057d-a5f0-4abc-8fd0-e8796e38e41c",
+      externalLink: "https://musicbrainz.org/work/fe2c057d-a5f0-4abc-8fd0-e8796e38e41c",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

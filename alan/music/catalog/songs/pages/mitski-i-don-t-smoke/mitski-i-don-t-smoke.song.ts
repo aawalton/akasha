@@ -6,10 +6,14 @@ export const mitskiIDonTSmoke = {
   slug: "mitski-i-don-t-smoke",
   title: "I Don’t Smoke",
   artist: "mitski",
-  externalId: "eb1c56e2-baed-4aaf-8325-58e75207f414",
-  externalLink: "https://musicbrainz.org/work/eb1c56e2-baed-4aaf-8325-58e75207f414",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "eb1c56e2-baed-4aaf-8325-58e75207f414",
+      externalLink: "https://musicbrainz.org/work/eb1c56e2-baed-4aaf-8325-58e75207f414",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

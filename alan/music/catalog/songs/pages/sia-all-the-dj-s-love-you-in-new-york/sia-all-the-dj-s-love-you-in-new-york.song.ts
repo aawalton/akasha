@@ -6,10 +6,14 @@ export const siaAllTheDjSLoveYouInNewYork = {
   slug: "sia-all-the-dj-s-love-you-in-new-york",
   title: "All the DJ’s Love You In New York",
   artist: "sia",
-  externalId: "067e0333-4cbc-4c2a-bc08-9d254918abc8",
-  externalLink: "https://musicbrainz.org/work/067e0333-4cbc-4c2a-bc08-9d254918abc8",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "067e0333-4cbc-4c2a-bc08-9d254918abc8",
+      externalLink: "https://musicbrainz.org/work/067e0333-4cbc-4c2a-bc08-9d254918abc8",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

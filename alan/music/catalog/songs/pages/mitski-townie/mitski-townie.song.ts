@@ -6,10 +6,14 @@ export const mitskiTownie = {
   slug: "mitski-townie",
   title: "Townie",
   artist: "mitski",
-  externalId: "0ae30448-ac59-4298-ad9f-b128c6ece265",
-  externalLink: "https://musicbrainz.org/work/0ae30448-ac59-4298-ad9f-b128c6ece265",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0ae30448-ac59-4298-ad9f-b128c6ece265",
+      externalLink: "https://musicbrainz.org/work/0ae30448-ac59-4298-ad9f-b128c6ece265",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

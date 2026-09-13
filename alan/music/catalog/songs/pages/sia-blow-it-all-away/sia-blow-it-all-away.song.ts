@@ -6,10 +6,14 @@ export const siaBlowItAllAway = {
   slug: "sia-blow-it-all-away",
   title: "Blow It All Away",
   artist: "sia",
-  externalId: "0ed081f0-e051-40ac-8bde-03fac2a86d07",
-  externalLink: "https://musicbrainz.org/work/0ed081f0-e051-40ac-8bde-03fac2a86d07",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0ed081f0-e051-40ac-8bde-03fac2a86d07",
+      externalLink: "https://musicbrainz.org/work/0ed081f0-e051-40ac-8bde-03fac2a86d07",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

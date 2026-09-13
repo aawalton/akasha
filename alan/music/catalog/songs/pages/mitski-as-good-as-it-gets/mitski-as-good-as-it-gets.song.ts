@@ -6,10 +6,14 @@ export const mitskiAsGoodAsItGets = {
   slug: "mitski-as-good-as-it-gets",
   title: "As Good as It Gets",
   artist: "mitski",
-  externalId: "f94c791a-5f6b-4a81-8a0f-970a318d2f3f",
-  externalLink: "https://musicbrainz.org/work/f94c791a-5f6b-4a81-8a0f-970a318d2f3f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f94c791a-5f6b-4a81-8a0f-970a318d2f3f",
+      externalLink: "https://musicbrainz.org/work/f94c791a-5f6b-4a81-8a0f-970a318d2f3f",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const siaUnstoppable = {
   slug: "sia-unstoppable",
   title: "Unstoppable",
   artist: "sia",
-  externalId: "c663fee4-5807-4887-af18-9678aa14348c",
-  externalLink: "https://musicbrainz.org/work/c663fee4-5807-4887-af18-9678aa14348c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c663fee4-5807-4887-af18-9678aa14348c",
+      externalLink: "https://musicbrainz.org/work/c663fee4-5807-4887-af18-9678aa14348c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

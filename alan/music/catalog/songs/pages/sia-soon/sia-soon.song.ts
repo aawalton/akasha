@@ -6,10 +6,14 @@ export const siaSoon = {
   slug: "sia-soon",
   title: "Soon",
   artist: "sia",
-  externalId: "134d0d04-c77c-4198-b588-7be9eafe9b8c",
-  externalLink: "https://musicbrainz.org/work/134d0d04-c77c-4198-b588-7be9eafe9b8c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "134d0d04-c77c-4198-b588-7be9eafe9b8c",
+      externalLink: "https://musicbrainz.org/work/134d0d04-c77c-4198-b588-7be9eafe9b8c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

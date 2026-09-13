@@ -6,10 +6,14 @@ export const siaEyeOfTheNeedle = {
   slug: "sia-eye-of-the-needle",
   title: "Eye of the Needle",
   artist: "sia",
-  externalId: "ce3a5aa4-11a2-4fa6-b084-268af0d52e97",
-  externalLink: "https://musicbrainz.org/work/ce3a5aa4-11a2-4fa6-b084-268af0d52e97",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ce3a5aa4-11a2-4fa6-b084-268af0d52e97",
+      externalLink: "https://musicbrainz.org/work/ce3a5aa4-11a2-4fa6-b084-268af0d52e97",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

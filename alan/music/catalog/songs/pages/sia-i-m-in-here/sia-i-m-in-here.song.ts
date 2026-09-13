@@ -6,10 +6,14 @@ export const siaIMInHere = {
   slug: "sia-i-m-in-here",
   title: "I’m in Here",
   artist: "sia",
-  externalId: "b79acfb1-22ce-4e8a-ab88-6b864cdbecae",
-  externalLink: "https://musicbrainz.org/work/b79acfb1-22ce-4e8a-ab88-6b864cdbecae",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b79acfb1-22ce-4e8a-ab88-6b864cdbecae",
+      externalLink: "https://musicbrainz.org/work/b79acfb1-22ce-4e8a-ab88-6b864cdbecae",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

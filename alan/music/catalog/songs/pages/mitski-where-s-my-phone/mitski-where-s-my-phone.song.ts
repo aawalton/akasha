@@ -6,10 +6,14 @@ export const mitskiWhereSMyPhone = {
   slug: "mitski-where-s-my-phone",
   title: "Where’s My Phone?",
   artist: "mitski",
-  externalId: "23aa02c5-714a-498f-98df-1b720ecae65c",
-  externalLink: "https://musicbrainz.org/work/23aa02c5-714a-498f-98df-1b720ecae65c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "23aa02c5-714a-498f-98df-1b720ecae65c",
+      externalLink: "https://musicbrainz.org/work/23aa02c5-714a-498f-98df-1b720ecae65c",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

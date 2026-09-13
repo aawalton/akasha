@@ -6,10 +6,14 @@ export const siaHostage = {
   slug: "sia-hostage",
   title: "Hostage",
   artist: "sia",
-  externalId: "17601892-75ca-4da6-9d2e-5fde6751b3fc",
-  externalLink: "https://musicbrainz.org/work/17601892-75ca-4da6-9d2e-5fde6751b3fc",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "17601892-75ca-4da6-9d2e-5fde6751b3fc",
+      externalLink: "https://musicbrainz.org/work/17601892-75ca-4da6-9d2e-5fde6751b3fc",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

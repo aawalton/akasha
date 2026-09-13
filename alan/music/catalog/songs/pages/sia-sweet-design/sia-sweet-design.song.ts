@@ -6,10 +6,14 @@ export const siaSweetDesign = {
   slug: "sia-sweet-design",
   title: "Sweet Design",
   artist: "sia",
-  externalId: "01e91964-98e8-4550-825e-97c9b7598832",
-  externalLink: "https://musicbrainz.org/work/01e91964-98e8-4550-825e-97c9b7598832",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "01e91964-98e8-4550-825e-97c9b7598832",
+      externalLink: "https://musicbrainz.org/work/01e91964-98e8-4550-825e-97c9b7598832",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

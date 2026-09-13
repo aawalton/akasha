@@ -6,10 +6,14 @@ export const siaSweetPotato = {
   slug: "sia-sweet-potato",
   title: "Sweet Potato",
   artist: "sia",
-  externalId: "ac395888-99c7-4572-aa34-f3ca96a29f41",
-  externalLink: "https://musicbrainz.org/work/ac395888-99c7-4572-aa34-f3ca96a29f41",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ac395888-99c7-4572-aa34-f3ca96a29f41",
+      externalLink: "https://musicbrainz.org/work/ac395888-99c7-4572-aa34-f3ca96a29f41",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

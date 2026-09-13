@@ -6,10 +6,14 @@ export const siaTitans = {
   slug: "sia-titans",
   title: "Titans",
   artist: "sia",
-  externalId: "3dc9008a-b2aa-4c6f-b805-f6af8dad118e",
-  externalLink: "https://musicbrainz.org/work/3dc9008a-b2aa-4c6f-b805-f6af8dad118e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3dc9008a-b2aa-4c6f-b805-f6af8dad118e",
+      externalLink: "https://musicbrainz.org/work/3dc9008a-b2aa-4c6f-b805-f6af8dad118e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

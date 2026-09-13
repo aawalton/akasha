@@ -6,10 +6,14 @@ export const siaWarrior = {
   slug: "sia-warrior",
   title: "Warrior",
   artist: "sia",
-  externalId: "aabd7364-1fb4-4606-b274-b23cfb5ee7dd",
-  externalLink: "https://musicbrainz.org/work/aabd7364-1fb4-4606-b274-b23cfb5ee7dd",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "aabd7364-1fb4-4606-b274-b23cfb5ee7dd",
+      externalLink: "https://musicbrainz.org/work/aabd7364-1fb4-4606-b274-b23cfb5ee7dd",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

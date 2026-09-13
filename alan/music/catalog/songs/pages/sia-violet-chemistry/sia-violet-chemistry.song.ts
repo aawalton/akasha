@@ -6,10 +6,14 @@ export const siaVioletChemistry = {
   slug: "sia-violet-chemistry",
   title: "Violet Chemistry",
   artist: "sia",
-  externalId: "80e8b3bc-6aca-448e-a108-ba086d5518e2",
-  externalLink: "https://musicbrainz.org/work/80e8b3bc-6aca-448e-a108-ba086d5518e2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "80e8b3bc-6aca-448e-a108-ba086d5518e2",
+      externalLink: "https://musicbrainz.org/work/80e8b3bc-6aca-448e-a108-ba086d5518e2",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

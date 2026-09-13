@@ -6,10 +6,14 @@ export const siaRainbow = {
   slug: "sia-rainbow",
   title: "Rainbow",
   artist: "sia",
-  externalId: "7b7982cf-d8f0-4cdb-bb56-334c4a753265",
-  externalLink: "https://musicbrainz.org/work/7b7982cf-d8f0-4cdb-bb56-334c4a753265",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7b7982cf-d8f0-4cdb-bb56-334c4a753265",
+      externalLink: "https://musicbrainz.org/work/7b7982cf-d8f0-4cdb-bb56-334c4a753265",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

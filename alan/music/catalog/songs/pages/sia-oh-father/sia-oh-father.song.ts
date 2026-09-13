@@ -6,10 +6,14 @@ export const siaOhFather = {
   slug: "sia-oh-father",
   title: "Oh Father",
   artist: "sia",
-  externalId: "13d6fd5e-86d7-3fd5-93c4-cd4845f3611f",
-  externalLink: "https://musicbrainz.org/work/13d6fd5e-86d7-3fd5-93c4-cd4845f3611f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "13d6fd5e-86d7-3fd5-93c4-cd4845f3611f",
+      externalLink: "https://musicbrainz.org/work/13d6fd5e-86d7-3fd5-93c4-cd4845f3611f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

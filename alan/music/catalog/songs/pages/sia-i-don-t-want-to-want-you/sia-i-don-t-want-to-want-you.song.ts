@@ -6,10 +6,14 @@ export const siaIDonTWantToWantYou = {
   slug: "sia-i-don-t-want-to-want-you",
   title: "I Don’t Want to Want You",
   artist: "sia",
-  externalId: "2b0800de-6bf1-4461-a5fc-c035d463a341",
-  externalLink: "https://musicbrainz.org/work/2b0800de-6bf1-4461-a5fc-c035d463a341",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2b0800de-6bf1-4461-a5fc-c035d463a341",
+      externalLink: "https://musicbrainz.org/work/2b0800de-6bf1-4461-a5fc-c035d463a341",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

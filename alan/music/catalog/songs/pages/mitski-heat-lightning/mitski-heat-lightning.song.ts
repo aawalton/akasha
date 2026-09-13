@@ -6,10 +6,14 @@ export const mitskiHeatLightning = {
   slug: "mitski-heat-lightning",
   title: "Heat Lightning",
   artist: "mitski",
-  externalId: "ba674b24-940d-4674-8eba-3cd1ca645562",
-  externalLink: "https://musicbrainz.org/work/ba674b24-940d-4674-8eba-3cd1ca645562",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ba674b24-940d-4674-8eba-3cd1ca645562",
+      externalLink: "https://musicbrainz.org/work/ba674b24-940d-4674-8eba-3cd1ca645562",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

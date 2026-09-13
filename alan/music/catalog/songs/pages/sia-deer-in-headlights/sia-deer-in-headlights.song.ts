@@ -6,10 +6,14 @@ export const siaDeerInHeadlights = {
   slug: "sia-deer-in-headlights",
   title: "Deer in Headlights",
   artist: "sia",
-  externalId: "80153345-960f-4d66-8775-75abc0cd112c",
-  externalLink: "https://musicbrainz.org/work/80153345-960f-4d66-8775-75abc0cd112c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "80153345-960f-4d66-8775-75abc0cd112c",
+      externalLink: "https://musicbrainz.org/work/80153345-960f-4d66-8775-75abc0cd112c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

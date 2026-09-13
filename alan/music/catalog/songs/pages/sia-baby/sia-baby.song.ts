@@ -6,10 +6,14 @@ export const siaBaby = {
   slug: "sia-baby",
   title: "Baby",
   artist: "sia",
-  externalId: "dca7a6d5-c24d-4206-aab4-24c3569cae98",
-  externalLink: "https://musicbrainz.org/work/dca7a6d5-c24d-4206-aab4-24c3569cae98",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "dca7a6d5-c24d-4206-aab4-24c3569cae98",
+      externalLink: "https://musicbrainz.org/work/dca7a6d5-c24d-4206-aab4-24c3569cae98",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

@@ -6,10 +6,14 @@ export const siaPerfume = {
   slug: "sia-perfume",
   title: "Perfume",
   artist: "sia",
-  externalId: "9b03dfbe-6f11-4d7e-b164-4c8dce78ae62",
-  externalLink: "https://musicbrainz.org/work/9b03dfbe-6f11-4d7e-b164-4c8dce78ae62",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9b03dfbe-6f11-4d7e-b164-4c8dce78ae62",
+      externalLink: "https://musicbrainz.org/work/9b03dfbe-6f11-4d7e-b164-4c8dce78ae62",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

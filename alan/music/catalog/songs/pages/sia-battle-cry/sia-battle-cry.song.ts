@@ -6,10 +6,14 @@ export const siaBattleCry = {
   slug: "sia-battle-cry",
   title: "Battle Cry",
   artist: "sia",
-  externalId: "ca4887b0-37b3-4092-908f-39f42fc6feb8",
-  externalLink: "https://musicbrainz.org/work/ca4887b0-37b3-4092-908f-39f42fc6feb8",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ca4887b0-37b3-4092-908f-39f42fc6feb8",
+      externalLink: "https://musicbrainz.org/work/ca4887b0-37b3-4092-908f-39f42fc6feb8",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

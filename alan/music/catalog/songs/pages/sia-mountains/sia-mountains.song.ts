@@ -6,10 +6,14 @@ export const siaMountains = {
   slug: "sia-mountains",
   title: "Mountains",
   artist: "sia",
-  externalId: "e843b885-43f4-43e7-beae-10aa281ec25e",
-  externalLink: "https://musicbrainz.org/work/e843b885-43f4-43e7-beae-10aa281ec25e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e843b885-43f4-43e7-beae-10aa281ec25e",
+      externalLink: "https://musicbrainz.org/work/e843b885-43f4-43e7-beae-10aa281ec25e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   lyricsSource: "lrclib",

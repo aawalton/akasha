@@ -6,10 +6,14 @@ export const siaHeartOfGlass = {
   slug: "sia-heart-of-glass",
   title: "Heart of Glass",
   artist: "sia",
-  externalId: "57906be4-d4a4-4d17-a44d-e1dd081daafd",
-  externalLink: "https://musicbrainz.org/work/57906be4-d4a4-4d17-a44d-e1dd081daafd",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "57906be4-d4a4-4d17-a44d-e1dd081daafd",
+      externalLink: "https://musicbrainz.org/work/57906be4-d4a4-4d17-a44d-e1dd081daafd",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

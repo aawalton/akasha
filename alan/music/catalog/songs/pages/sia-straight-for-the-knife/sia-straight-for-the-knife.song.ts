@@ -6,10 +6,14 @@ export const siaStraightForTheKnife = {
   slug: "sia-straight-for-the-knife",
   title: "Straight for the Knife",
   artist: "sia",
-  externalId: "434e6c08-3809-4c9b-ab53-745726f140a4",
-  externalLink: "https://musicbrainz.org/work/434e6c08-3809-4c9b-ab53-745726f140a4",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "434e6c08-3809-4c9b-ab53-745726f140a4",
+      externalLink: "https://musicbrainz.org/work/434e6c08-3809-4c9b-ab53-745726f140a4",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

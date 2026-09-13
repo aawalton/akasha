@@ -6,10 +6,14 @@ export const siaTryEverything = {
   slug: "sia-try-everything",
   title: "Try Everything",
   artist: "sia",
-  externalId: "fd98ce8b-a512-45ce-b710-e1dbfce39e91",
-  externalLink: "https://musicbrainz.org/work/fd98ce8b-a512-45ce-b710-e1dbfce39e91",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "fd98ce8b-a512-45ce-b710-e1dbfce39e91",
+      externalLink: "https://musicbrainz.org/work/fd98ce8b-a512-45ce-b710-e1dbfce39e91",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

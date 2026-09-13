@@ -6,10 +6,14 @@ export const siaLikeARiverRuns = {
   slug: "sia-like-a-river-runs",
   title: "Like a River Runs",
   artist: "sia",
-  externalId: "0a79c49c-6a20-4d5f-99bb-7fc123cb7d38",
-  externalLink: "https://musicbrainz.org/work/0a79c49c-6a20-4d5f-99bb-7fc123cb7d38",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0a79c49c-6a20-4d5f-99bb-7fc123cb7d38",
+      externalLink: "https://musicbrainz.org/work/0a79c49c-6a20-4d5f-99bb-7fc123cb7d38",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

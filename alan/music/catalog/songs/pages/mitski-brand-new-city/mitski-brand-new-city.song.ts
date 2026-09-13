@@ -6,10 +6,14 @@ export const mitskiBrandNewCity = {
   slug: "mitski-brand-new-city",
   title: "Brand New City",
   artist: "mitski",
-  externalId: "3e0483f2-fe06-47d0-b526-8618d17e83c5",
-  externalLink: "https://musicbrainz.org/work/3e0483f2-fe06-47d0-b526-8618d17e83c5",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3e0483f2-fe06-47d0-b526-8618d17e83c5",
+      externalLink: "https://musicbrainz.org/work/3e0483f2-fe06-47d0-b526-8618d17e83c5",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

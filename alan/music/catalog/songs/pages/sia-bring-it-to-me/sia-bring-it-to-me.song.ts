@@ -6,10 +6,14 @@ export const siaBringItToMe = {
   slug: "sia-bring-it-to-me",
   title: "Bring It to Me",
   artist: "sia",
-  externalId: "a306a0b6-e360-4a2b-99da-553e04b2bcc4",
-  externalLink: "https://musicbrainz.org/work/a306a0b6-e360-4a2b-99da-553e04b2bcc4",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a306a0b6-e360-4a2b-99da-553e04b2bcc4",
+      externalLink: "https://musicbrainz.org/work/a306a0b6-e360-4a2b-99da-553e04b2bcc4",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "solo",

@@ -6,10 +6,14 @@ export const mitskiILoveMeAfterYou = {
   slug: "mitski-i-love-me-after-you",
   title: "I Love Me After You",
   artist: "mitski",
-  externalId: "4e355d15-fb61-4a77-b5b1-7cf691cafda9",
-  externalLink: "https://musicbrainz.org/work/4e355d15-fb61-4a77-b5b1-7cf691cafda9",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4e355d15-fb61-4a77-b5b1-7cf691cafda9",
+      externalLink: "https://musicbrainz.org/work/4e355d15-fb61-4a77-b5b1-7cf691cafda9",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

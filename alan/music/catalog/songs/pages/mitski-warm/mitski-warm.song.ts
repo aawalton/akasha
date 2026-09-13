@@ -6,10 +6,14 @@ export const mitskiWarm = {
   slug: "mitski-warm",
   title: "Warm",
   artist: "mitski",
-  externalId: "7c0af959-0501-4da4-b318-f9bddd2dabc2",
-  externalLink: "https://musicbrainz.org/work/7c0af959-0501-4da4-b318-f9bddd2dabc2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7c0af959-0501-4da4-b318-f9bddd2dabc2",
+      externalLink: "https://musicbrainz.org/work/7c0af959-0501-4da4-b318-f9bddd2dabc2",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

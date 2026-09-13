@@ -6,10 +6,14 @@ export const mitskiBend = {
   slug: "mitski-bend",
   title: "Bend",
   artist: "mitski",
-  externalId: "b1cc5a54-f449-419b-8bb9-6097b3f7a777",
-  externalLink: "https://musicbrainz.org/work/b1cc5a54-f449-419b-8bb9-6097b3f7a777",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b1cc5a54-f449-419b-8bb9-6097b3f7a777",
+      externalLink: "https://musicbrainz.org/work/b1cc5a54-f449-419b-8bb9-6097b3f7a777",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

@@ -6,10 +6,14 @@ export const siaAllInYourHead = {
   slug: "sia-all-in-your-head",
   title: "All in Your Head",
   artist: "sia",
-  externalId: "7974fdb3-4954-4018-8e62-89c8e3368f04",
-  externalLink: "https://musicbrainz.org/work/7974fdb3-4954-4018-8e62-89c8e3368f04",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7974fdb3-4954-4018-8e62-89c8e3368f04",
+      externalLink: "https://musicbrainz.org/work/7974fdb3-4954-4018-8e62-89c8e3368f04",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

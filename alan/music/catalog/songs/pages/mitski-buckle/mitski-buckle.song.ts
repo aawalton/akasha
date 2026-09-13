@@ -6,10 +6,14 @@ export const mitskiBuckle = {
   slug: "mitski-buckle",
   title: "Buckle",
   artist: "mitski",
-  externalId: "d54c18ba-4a16-4a51-8a30-90269a89dd0a",
-  externalLink: "https://musicbrainz.org/work/d54c18ba-4a16-4a51-8a30-90269a89dd0a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d54c18ba-4a16-4a51-8a30-90269a89dd0a",
+      externalLink: "https://musicbrainz.org/work/d54c18ba-4a16-4a51-8a30-90269a89dd0a",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

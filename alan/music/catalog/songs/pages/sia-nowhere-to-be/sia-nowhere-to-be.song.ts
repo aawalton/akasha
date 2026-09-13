@@ -6,10 +6,14 @@ export const siaNowhereToBe = {
   slug: "sia-nowhere-to-be",
   title: "Nowhere to Be",
   artist: "sia",
-  externalId: "b614601d-16e6-4a36-ad74-5f074da0b8af",
-  externalLink: "https://musicbrainz.org/work/b614601d-16e6-4a36-ad74-5f074da0b8af",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b614601d-16e6-4a36-ad74-5f074da0b8af",
+      externalLink: "https://musicbrainz.org/work/b614601d-16e6-4a36-ad74-5f074da0b8af",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

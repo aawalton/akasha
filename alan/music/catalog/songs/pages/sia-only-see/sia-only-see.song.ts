@@ -6,10 +6,14 @@ export const siaOnlySee = {
   slug: "sia-only-see",
   title: "Only See",
   artist: "sia",
-  externalId: "5eba80c6-fabd-4452-9967-a99f9ac6550e",
-  externalLink: "https://musicbrainz.org/work/5eba80c6-fabd-4452-9967-a99f9ac6550e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5eba80c6-fabd-4452-9967-a99f9ac6550e",
+      externalLink: "https://musicbrainz.org/work/5eba80c6-fabd-4452-9967-a99f9ac6550e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

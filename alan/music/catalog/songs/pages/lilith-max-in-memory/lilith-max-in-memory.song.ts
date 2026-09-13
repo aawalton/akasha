@@ -6,10 +6,14 @@ export const lilithMaxInMemory = {
   slug: "lilith-max-in-memory",
   title: "In Memory",
   artist: "lilith-max",
-  externalId: "c4106824-68ba-4110-9405-de01e2a87ccb",
-  externalLink: "https://musicbrainz.org/recording/c4106824-68ba-4110-9405-de01e2a87ccb",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c4106824-68ba-4110-9405-de01e2a87ccb",
+      externalLink: "https://musicbrainz.org/recording/c4106824-68ba-4110-9405-de01e2a87ccb",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

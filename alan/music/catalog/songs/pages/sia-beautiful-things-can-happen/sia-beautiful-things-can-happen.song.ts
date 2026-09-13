@@ -6,10 +6,14 @@ export const siaBeautifulThingsCanHappen = {
   slug: "sia-beautiful-things-can-happen",
   title: "Beautiful Things Can Happen",
   artist: "sia",
-  externalId: "4b75cd07-277d-45e6-896f-b9ffd3769ad3",
-  externalLink: "https://musicbrainz.org/work/4b75cd07-277d-45e6-896f-b9ffd3769ad3",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4b75cd07-277d-45e6-896f-b9ffd3769ad3",
+      externalLink: "https://musicbrainz.org/work/4b75cd07-277d-45e6-896f-b9ffd3769ad3",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

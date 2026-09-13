@@ -6,10 +6,14 @@ export const siaImmortalQueen = {
   slug: "sia-immortal-queen",
   title: "Immortal Queen",
   artist: "sia",
-  externalId: "b6777bf4-b8fc-40ad-9cc8-63fcf9bad78b",
-  externalLink: "https://musicbrainz.org/work/b6777bf4-b8fc-40ad-9cc8-63fcf9bad78b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b6777bf4-b8fc-40ad-9cc8-63fcf9bad78b",
+      externalLink: "https://musicbrainz.org/work/b6777bf4-b8fc-40ad-9cc8-63fcf9bad78b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

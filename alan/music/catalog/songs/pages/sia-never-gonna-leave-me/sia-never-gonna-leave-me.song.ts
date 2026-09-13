@@ -6,10 +6,14 @@ export const siaNeverGonnaLeaveMe = {
   slug: "sia-never-gonna-leave-me",
   title: "Never Gonna Leave Me",
   artist: "sia",
-  externalId: "35df1771-fe4d-44e9-9580-dc970c6f1814",
-  externalLink: "https://musicbrainz.org/work/35df1771-fe4d-44e9-9580-dc970c6f1814",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "35df1771-fe4d-44e9-9580-dc970c6f1814",
+      externalLink: "https://musicbrainz.org/work/35df1771-fe4d-44e9-9580-dc970c6f1814",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

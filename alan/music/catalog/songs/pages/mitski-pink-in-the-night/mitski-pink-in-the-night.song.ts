@@ -6,10 +6,14 @@ export const mitskiPinkInTheNight = {
   slug: "mitski-pink-in-the-night",
   title: "Pink in the Night",
   artist: "mitski",
-  externalId: "41e141d0-7d35-42f1-b844-7bb45c0948ba",
-  externalLink: "https://musicbrainz.org/work/41e141d0-7d35-42f1-b844-7bb45c0948ba",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "41e141d0-7d35-42f1-b844-7bb45c0948ba",
+      externalLink: "https://musicbrainz.org/work/41e141d0-7d35-42f1-b844-7bb45c0948ba",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

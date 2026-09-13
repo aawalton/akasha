@@ -6,10 +6,14 @@ export const siaFootprints = {
   slug: "sia-footprints",
   title: "Footprints",
   artist: "sia",
-  externalId: "23cf5d48-e097-4c48-91b7-ba7e927df11c",
-  externalLink: "https://musicbrainz.org/work/23cf5d48-e097-4c48-91b7-ba7e927df11c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "23cf5d48-e097-4c48-91b7-ba7e927df11c",
+      externalLink: "https://musicbrainz.org/work/23cf5d48-e097-4c48-91b7-ba7e927df11c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

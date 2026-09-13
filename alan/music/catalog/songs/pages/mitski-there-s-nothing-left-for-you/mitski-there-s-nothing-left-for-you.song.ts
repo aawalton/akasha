@@ -6,10 +6,14 @@ export const mitskiThereSNothingLeftForYou = {
   slug: "mitski-there-s-nothing-left-for-you",
   title: "There’s Nothing Left for You",
   artist: "mitski",
-  externalId: "ab62ec1f-0bc4-486f-bd2a-ee4ee8292981",
-  externalLink: "https://musicbrainz.org/work/ab62ec1f-0bc4-486f-bd2a-ee4ee8292981",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ab62ec1f-0bc4-486f-bd2a-ee4ee8292981",
+      externalLink: "https://musicbrainz.org/work/ab62ec1f-0bc4-486f-bd2a-ee4ee8292981",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

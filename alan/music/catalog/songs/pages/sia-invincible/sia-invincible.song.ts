@@ -6,10 +6,14 @@ export const siaInvincible = {
   slug: "sia-invincible",
   title: "Invincible",
   artist: "sia",
-  externalId: "a5ca49c1-1b32-43e2-9e32-b304550b2961",
-  externalLink: "https://musicbrainz.org/work/a5ca49c1-1b32-43e2-9e32-b304550b2961",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a5ca49c1-1b32-43e2-9e32-b304550b2961",
+      externalLink: "https://musicbrainz.org/work/a5ca49c1-1b32-43e2-9e32-b304550b2961",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   lyricsSource: "lrclib",

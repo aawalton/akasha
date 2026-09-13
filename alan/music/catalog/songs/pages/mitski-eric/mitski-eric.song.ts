@@ -6,10 +6,14 @@ export const mitskiEric = {
   slug: "mitski-eric",
   title: "Eric",
   artist: "mitski",
-  externalId: "861f4289-83ca-4df7-864e-0e9ff47434a0",
-  externalLink: "https://musicbrainz.org/work/861f4289-83ca-4df7-864e-0e9ff47434a0",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "861f4289-83ca-4df7-864e-0e9ff47434a0",
+      externalLink: "https://musicbrainz.org/work/861f4289-83ca-4df7-864e-0e9ff47434a0",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

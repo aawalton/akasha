@@ -6,10 +6,14 @@ export const siaInsidiously = {
   slug: "sia-insidiously",
   title: "Insidiously",
   artist: "sia",
-  externalId: "53d0fe2f-de06-4854-b53c-e50bc54164c8",
-  externalLink: "https://musicbrainz.org/work/53d0fe2f-de06-4854-b53c-e50bc54164c8",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "53d0fe2f-de06-4854-b53c-e50bc54164c8",
+      externalLink: "https://musicbrainz.org/work/53d0fe2f-de06-4854-b53c-e50bc54164c8",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

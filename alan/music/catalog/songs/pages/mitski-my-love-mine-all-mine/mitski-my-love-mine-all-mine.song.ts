@@ -6,10 +6,14 @@ export const mitskiMyLoveMineAllMine = {
   slug: "mitski-my-love-mine-all-mine",
   title: "My Love Mine All Mine",
   artist: "mitski",
-  externalId: "bf93b578-a3cd-4ec0-8900-01f637749d6c",
-  externalLink: "https://musicbrainz.org/work/bf93b578-a3cd-4ec0-8900-01f637749d6c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "bf93b578-a3cd-4ec0-8900-01f637749d6c",
+      externalLink: "https://musicbrainz.org/work/bf93b578-a3cd-4ec0-8900-01f637749d6c",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

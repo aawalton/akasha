@@ -6,10 +6,14 @@ export const mitskiTheDeal = {
   slug: "mitski-the-deal",
   title: "The Deal",
   artist: "mitski",
-  externalId: "12b1bf0f-2e7d-4d73-98e1-bc042a4f51d0",
-  externalLink: "https://musicbrainz.org/work/12b1bf0f-2e7d-4d73-98e1-bc042a4f51d0",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "12b1bf0f-2e7d-4d73-98e1-bc042a4f51d0",
+      externalLink: "https://musicbrainz.org/work/12b1bf0f-2e7d-4d73-98e1-bc042a4f51d0",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

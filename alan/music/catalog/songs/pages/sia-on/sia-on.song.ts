@@ -6,10 +6,14 @@ export const siaOn = {
   slug: "sia-on",
   title: "ON",
   artist: "sia",
-  externalId: "070af130-0f5e-4d64-82ba-68e260887b32",
-  externalLink: "https://musicbrainz.org/work/070af130-0f5e-4d64-82ba-68e260887b32",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "070af130-0f5e-4d64-82ba-68e260887b32",
+      externalLink: "https://musicbrainz.org/work/070af130-0f5e-4d64-82ba-68e260887b32",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

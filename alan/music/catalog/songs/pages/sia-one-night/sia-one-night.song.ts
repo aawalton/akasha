@@ -6,10 +6,14 @@ export const siaOneNight = {
   slug: "sia-one-night",
   title: "One Night",
   artist: "sia",
-  externalId: "6de07a09-f3ba-4331-b11b-ece14c502634",
-  externalLink: "https://musicbrainz.org/work/6de07a09-f3ba-4331-b11b-ece14c502634",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6de07a09-f3ba-4331-b11b-ece14c502634",
+      externalLink: "https://musicbrainz.org/work/6de07a09-f3ba-4331-b11b-ece14c502634",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

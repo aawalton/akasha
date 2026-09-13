@@ -6,10 +6,14 @@ export const siaIAm = {
   slug: "sia-i-am",
   title: "I Am",
   artist: "sia",
-  externalId: "5e293c6c-8167-3717-963c-d4e5353c0107",
-  externalLink: "https://musicbrainz.org/work/5e293c6c-8167-3717-963c-d4e5353c0107",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5e293c6c-8167-3717-963c-d4e5353c0107",
+      externalLink: "https://musicbrainz.org/work/5e293c6c-8167-3717-963c-d4e5353c0107",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

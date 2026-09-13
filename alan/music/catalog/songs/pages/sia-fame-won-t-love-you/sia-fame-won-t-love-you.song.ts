@@ -6,10 +6,14 @@ export const siaFameWonTLoveYou = {
   slug: "sia-fame-won-t-love-you",
   title: "Fame Won’t Love You",
   artist: "sia",
-  externalId: "2a9c6108-239a-4467-851d-d32258110591",
-  externalLink: "https://musicbrainz.org/work/2a9c6108-239a-4467-851d-d32258110591",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2a9c6108-239a-4467-851d-d32258110591",
+      externalLink: "https://musicbrainz.org/work/2a9c6108-239a-4467-851d-d32258110591",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

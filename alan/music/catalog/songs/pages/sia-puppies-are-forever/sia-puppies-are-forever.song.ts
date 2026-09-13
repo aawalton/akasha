@@ -6,10 +6,14 @@ export const siaPuppiesAreForever = {
   slug: "sia-puppies-are-forever",
   title: "Puppies Are Forever",
   artist: "sia",
-  externalId: "dc4fc1ab-06e1-4d0c-88f7-e9b8d4ef2a0e",
-  externalLink: "https://musicbrainz.org/work/dc4fc1ab-06e1-4d0c-88f7-e9b8d4ef2a0e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "dc4fc1ab-06e1-4d0c-88f7-e9b8d4ef2a0e",
+      externalLink: "https://musicbrainz.org/work/dc4fc1ab-06e1-4d0c-88f7-e9b8d4ef2a0e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const siaSoberAndUnkissed = {
   slug: "sia-sober-and-unkissed",
   title: "Sober and Unkissed",
   artist: "sia",
-  externalId: "4c931f3d-6de6-4c7a-a42a-3176004c16d7",
-  externalLink: "https://musicbrainz.org/work/4c931f3d-6de6-4c7a-a42a-3176004c16d7",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4c931f3d-6de6-4c7a-a42a-3176004c16d7",
+      externalLink: "https://musicbrainz.org/work/4c931f3d-6de6-4c7a-a42a-3176004c16d7",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

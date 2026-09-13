@@ -6,10 +6,14 @@ export const siaTowardsTheSun = {
   slug: "sia-towards-the-sun",
   title: "Towards the Sun",
   artist: "sia",
-  externalId: "2e886392-6968-4c66-9aca-a2b921f54698",
-  externalLink: "https://musicbrainz.org/work/2e886392-6968-4c66-9aca-a2b921f54698",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2e886392-6968-4c66-9aca-a2b921f54698",
+      externalLink: "https://musicbrainz.org/work/2e886392-6968-4c66-9aca-a2b921f54698",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

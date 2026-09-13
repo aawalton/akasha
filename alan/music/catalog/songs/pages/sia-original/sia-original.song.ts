@@ -6,10 +6,14 @@ export const siaOriginal = {
   slug: "sia-original",
   title: "Original",
   artist: "sia",
-  externalId: "448bcf04-8514-4c9d-b650-54c4556ba784",
-  externalLink: "https://musicbrainz.org/work/448bcf04-8514-4c9d-b650-54c4556ba784",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "448bcf04-8514-4c9d-b650-54c4556ba784",
+      externalLink: "https://musicbrainz.org/work/448bcf04-8514-4c9d-b650-54c4556ba784",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const mitskiTheFrost = {
   slug: "mitski-the-frost",
   title: "The Frost",
   artist: "mitski",
-  externalId: "7343df08-4abb-49ac-91ab-f9302a34233c",
-  externalLink: "https://musicbrainz.org/work/7343df08-4abb-49ac-91ab-f9302a34233c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7343df08-4abb-49ac-91ab-f9302a34233c",
+      externalLink: "https://musicbrainz.org/work/7343df08-4abb-49ac-91ab-f9302a34233c",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

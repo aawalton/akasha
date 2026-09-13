@@ -6,10 +6,14 @@ export const lilithMaxSiren = {
   slug: "lilith-max-siren",
   title: "Siren",
   artist: "lilith-max",
-  externalId: "fc19063e-070a-4c36-83d8-a4c83e76e827",
-  externalLink: "https://musicbrainz.org/recording/fc19063e-070a-4c36-83d8-a4c83e76e827",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "fc19063e-070a-4c36-83d8-a4c83e76e827",
+      externalLink: "https://musicbrainz.org/recording/fc19063e-070a-4c36-83d8-a4c83e76e827",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

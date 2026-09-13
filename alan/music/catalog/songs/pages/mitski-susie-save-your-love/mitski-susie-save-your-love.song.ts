@@ -6,10 +6,14 @@ export const mitskiSusieSaveYourLove = {
   slug: "mitski-susie-save-your-love",
   title: "Susie Save Your Love",
   artist: "mitski",
-  externalId: "85e16d1e-fc4a-4e77-8583-d167cc28398d",
-  externalLink: "https://musicbrainz.org/work/85e16d1e-fc4a-4e77-8583-d167cc28398d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "85e16d1e-fc4a-4e77-8583-d167cc28398d",
+      externalLink: "https://musicbrainz.org/work/85e16d1e-fc4a-4e77-8583-d167cc28398d",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

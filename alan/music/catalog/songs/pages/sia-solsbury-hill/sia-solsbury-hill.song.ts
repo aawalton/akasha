@@ -6,10 +6,14 @@ export const siaSolsburyHill = {
   slug: "sia-solsbury-hill",
   title: "Solsbury Hill",
   artist: "sia",
-  externalId: "17921999-272a-389b-a2f3-0e9f98924767",
-  externalLink: "https://musicbrainz.org/work/17921999-272a-389b-a2f3-0e9f98924767",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "17921999-272a-389b-a2f3-0e9f98924767",
+      externalLink: "https://musicbrainz.org/work/17921999-272a-389b-a2f3-0e9f98924767",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

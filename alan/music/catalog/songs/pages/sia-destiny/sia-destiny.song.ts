@@ -6,10 +6,14 @@ export const siaDestiny = {
   slug: "sia-destiny",
   title: "Destiny",
   artist: "sia",
-  externalId: "bca7440c-8c45-4c7d-9e44-b7d0e82ddbdc",
-  externalLink: "https://musicbrainz.org/work/bca7440c-8c45-4c7d-9e44-b7d0e82ddbdc",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "bca7440c-8c45-4c7d-9e44-b7d0e82ddbdc",
+      externalLink: "https://musicbrainz.org/work/bca7440c-8c45-4c7d-9e44-b7d0e82ddbdc",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

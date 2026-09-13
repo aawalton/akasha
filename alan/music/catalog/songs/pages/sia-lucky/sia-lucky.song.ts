@@ -6,10 +6,14 @@ export const siaLucky = {
   slug: "sia-lucky",
   title: "Lucky",
   artist: "sia",
-  externalId: "fbc05650-dcc5-4f6a-a3b6-577ce11991c2",
-  externalLink: "https://musicbrainz.org/work/fbc05650-dcc5-4f6a-a3b6-577ce11991c2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "fbc05650-dcc5-4f6a-a3b6-577ce11991c2",
+      externalLink: "https://musicbrainz.org/work/fbc05650-dcc5-4f6a-a3b6-577ce11991c2",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

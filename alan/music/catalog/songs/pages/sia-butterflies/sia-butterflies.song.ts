@@ -6,10 +6,14 @@ export const siaButterflies = {
   slug: "sia-butterflies",
   title: "Butterflies",
   artist: "sia",
-  externalId: "04c0d176-6fe4-4c5c-ae7f-34c41c9499c0",
-  externalLink: "https://musicbrainz.org/work/04c0d176-6fe4-4c5c-ae7f-34c41c9499c0",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "04c0d176-6fe4-4c5c-ae7f-34c41c9499c0",
+      externalLink: "https://musicbrainz.org/work/04c0d176-6fe4-4c5c-ae7f-34c41c9499c0",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const siaDevilInMe = {
   slug: "sia-devil-in-me",
   title: "Devil in Me",
   artist: "sia",
-  externalId: "b2b00522-62c4-43ba-a815-3c443b5d8bce",
-  externalLink: "https://musicbrainz.org/work/b2b00522-62c4-43ba-a815-3c443b5d8bce",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b2b00522-62c4-43ba-a815-3c443b5d8bce",
+      externalLink: "https://musicbrainz.org/work/b2b00522-62c4-43ba-a815-3c443b5d8bce",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

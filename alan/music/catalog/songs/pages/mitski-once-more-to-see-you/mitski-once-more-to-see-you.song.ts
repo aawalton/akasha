@@ -6,10 +6,14 @@ export const mitskiOnceMoreToSeeYou = {
   slug: "mitski-once-more-to-see-you",
   title: "Once More to See You",
   artist: "mitski",
-  externalId: "3c91ab92-85b4-4e21-9f2c-860be1234ce0",
-  externalLink: "https://musicbrainz.org/work/3c91ab92-85b4-4e21-9f2c-860be1234ce0",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3c91ab92-85b4-4e21-9f2c-860be1234ce0",
+      externalLink: "https://musicbrainz.org/work/3c91ab92-85b4-4e21-9f2c-860be1234ce0",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

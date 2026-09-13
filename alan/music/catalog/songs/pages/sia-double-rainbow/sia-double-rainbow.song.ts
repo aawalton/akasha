@@ -6,10 +6,14 @@ export const siaDoubleRainbow = {
   slug: "sia-double-rainbow",
   title: "Double Rainbow",
   artist: "sia",
-  externalId: "8549b012-b041-48b8-9e91-1323def803fa",
-  externalLink: "https://musicbrainz.org/work/8549b012-b041-48b8-9e91-1323def803fa",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8549b012-b041-48b8-9e91-1323def803fa",
+      externalLink: "https://musicbrainz.org/work/8549b012-b041-48b8-9e91-1323def803fa",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

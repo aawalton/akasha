@@ -6,10 +6,14 @@ export const siaDayTooSoon = {
   slug: "sia-day-too-soon",
   title: "Day Too Soon",
   artist: "sia",
-  externalId: "195e5f3f-02ba-4ebb-ad3d-aa4de92cb25e",
-  externalLink: "https://musicbrainz.org/work/195e5f3f-02ba-4ebb-ad3d-aa4de92cb25e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "195e5f3f-02ba-4ebb-ad3d-aa4de92cb25e",
+      externalLink: "https://musicbrainz.org/work/195e5f3f-02ba-4ebb-ad3d-aa4de92cb25e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

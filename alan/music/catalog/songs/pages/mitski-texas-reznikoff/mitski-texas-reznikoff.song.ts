@@ -6,10 +6,14 @@ export const mitskiTexasReznikoff = {
   slug: "mitski-texas-reznikoff",
   title: "Texas Reznikoff",
   artist: "mitski",
-  externalId: "38582220-7eba-48dd-b7ad-6f82b19ae3dd",
-  externalLink: "https://musicbrainz.org/work/38582220-7eba-48dd-b7ad-6f82b19ae3dd",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "38582220-7eba-48dd-b7ad-6f82b19ae3dd",
+      externalLink: "https://musicbrainz.org/work/38582220-7eba-48dd-b7ad-6f82b19ae3dd",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

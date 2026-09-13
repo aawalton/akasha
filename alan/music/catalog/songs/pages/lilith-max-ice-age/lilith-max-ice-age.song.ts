@@ -6,10 +6,14 @@ export const lilithMaxIceAge = {
   slug: "lilith-max-ice-age",
   title: "Ice Age",
   artist: "lilith-max",
-  externalId: "d8597c2c-147a-481d-83af-df75fb70b8bc",
-  externalLink: "https://musicbrainz.org/recording/d8597c2c-147a-481d-83af-df75fb70b8bc",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d8597c2c-147a-481d-83af-df75fb70b8bc",
+      externalLink: "https://musicbrainz.org/recording/d8597c2c-147a-481d-83af-df75fb70b8bc",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

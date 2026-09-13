@@ -6,10 +6,14 @@ export const siaClapYourHands = {
   slug: "sia-clap-your-hands",
   title: "Clap Your Hands",
   artist: "sia",
-  externalId: "5b1d992b-0ddd-41cf-adb0-355046a12086",
-  externalLink: "https://musicbrainz.org/work/5b1d992b-0ddd-41cf-adb0-355046a12086",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5b1d992b-0ddd-41cf-adb0-355046a12086",
+      externalLink: "https://musicbrainz.org/work/5b1d992b-0ddd-41cf-adb0-355046a12086",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

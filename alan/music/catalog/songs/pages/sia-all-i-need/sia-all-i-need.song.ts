@@ -6,10 +6,14 @@ export const siaAllINeed = {
   slug: "sia-all-i-need",
   title: "All I Need",
   artist: "sia",
-  externalId: "4b034e47-7a44-3f17-a209-cc582bdf351b",
-  externalLink: "https://musicbrainz.org/work/4b034e47-7a44-3f17-a209-cc582bdf351b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4b034e47-7a44-3f17-a209-cc582bdf351b",
+      externalLink: "https://musicbrainz.org/work/4b034e47-7a44-3f17-a209-cc582bdf351b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

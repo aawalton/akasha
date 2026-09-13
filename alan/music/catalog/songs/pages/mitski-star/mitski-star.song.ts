@@ -6,10 +6,14 @@ export const mitskiStar = {
   slug: "mitski-star",
   title: "Star",
   artist: "mitski",
-  externalId: "926986af-dc22-432c-8cc6-2323f3d1a83f",
-  externalLink: "https://musicbrainz.org/work/926986af-dc22-432c-8cc6-2323f3d1a83f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "926986af-dc22-432c-8cc6-2323f3d1a83f",
+      externalLink: "https://musicbrainz.org/work/926986af-dc22-432c-8cc6-2323f3d1a83f",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

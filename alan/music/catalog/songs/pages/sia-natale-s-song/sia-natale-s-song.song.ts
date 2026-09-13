@@ -6,10 +6,14 @@ export const siaNataleSSong = {
   slug: "sia-natale-s-song",
   title: "Natale’s Song",
   artist: "sia",
-  externalId: "9d006c43-0ce7-4f87-b35c-0df870ccc950",
-  externalLink: "https://musicbrainz.org/work/9d006c43-0ce7-4f87-b35c-0df870ccc950",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9d006c43-0ce7-4f87-b35c-0df870ccc950",
+      externalLink: "https://musicbrainz.org/work/9d006c43-0ce7-4f87-b35c-0df870ccc950",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

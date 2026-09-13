@@ -6,10 +6,14 @@ export const siaTripoutro = {
   slug: "sia-tripoutro",
   title: "Tripoutro",
   artist: "sia",
-  externalId: "0c8a4339-b759-4319-8d3f-0faae7580253",
-  externalLink: "https://musicbrainz.org/work/0c8a4339-b759-4319-8d3f-0faae7580253",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0c8a4339-b759-4319-8d3f-0faae7580253",
+      externalLink: "https://musicbrainz.org/work/0c8a4339-b759-4319-8d3f-0faae7580253",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "solo",

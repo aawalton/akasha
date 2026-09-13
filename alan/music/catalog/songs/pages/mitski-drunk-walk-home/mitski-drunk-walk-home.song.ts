@@ -6,10 +6,14 @@ export const mitskiDrunkWalkHome = {
   slug: "mitski-drunk-walk-home",
   title: "Drunk Walk Home",
   artist: "mitski",
-  externalId: "97a25344-eccb-4525-b186-b1d2c16e1f78",
-  externalLink: "https://musicbrainz.org/work/97a25344-eccb-4525-b186-b1d2c16e1f78",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "97a25344-eccb-4525-b186-b1d2c16e1f78",
+      externalLink: "https://musicbrainz.org/work/97a25344-eccb-4525-b186-b1d2c16e1f78",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

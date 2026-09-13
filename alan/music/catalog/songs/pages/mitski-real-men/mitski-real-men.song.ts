@@ -6,10 +6,14 @@ export const mitskiRealMen = {
   slug: "mitski-real-men",
   title: "Real Men",
   artist: "mitski",
-  externalId: "cb97ea92-9e06-45dd-90c2-47979a0fa049",
-  externalLink: "https://musicbrainz.org/work/cb97ea92-9e06-45dd-90c2-47979a0fa049",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "cb97ea92-9e06-45dd-90c2-47979a0fa049",
+      externalLink: "https://musicbrainz.org/work/cb97ea92-9e06-45dd-90c2-47979a0fa049",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

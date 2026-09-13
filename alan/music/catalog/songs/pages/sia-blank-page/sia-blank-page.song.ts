@@ -6,10 +6,14 @@ export const siaBlankPage = {
   slug: "sia-blank-page",
   title: "Blank Page",
   artist: "sia",
-  externalId: "a00efe45-367b-4c82-8078-447d2cffb50a",
-  externalLink: "https://musicbrainz.org/work/a00efe45-367b-4c82-8078-447d2cffb50a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a00efe45-367b-4c82-8078-447d2cffb50a",
+      externalLink: "https://musicbrainz.org/work/a00efe45-367b-4c82-8078-447d2cffb50a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

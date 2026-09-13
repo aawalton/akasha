@@ -6,10 +6,14 @@ export const siaTheGirlYouLostToCocaine = {
   slug: "sia-the-girl-you-lost-to-cocaine",
   title: "The Girl You Lost to Cocaine",
   artist: "sia",
-  externalId: "1a90bcfc-0513-4b2b-b6c3-979f2988bdf6",
-  externalLink: "https://musicbrainz.org/work/1a90bcfc-0513-4b2b-b6c3-979f2988bdf6",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1a90bcfc-0513-4b2b-b6c3-979f2988bdf6",
+      externalLink: "https://musicbrainz.org/work/1a90bcfc-0513-4b2b-b6c3-979f2988bdf6",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

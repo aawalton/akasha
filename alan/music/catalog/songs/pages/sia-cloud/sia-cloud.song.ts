@@ -6,10 +6,14 @@ export const siaCloud = {
   slug: "sia-cloud",
   title: "Cloud",
   artist: "sia",
-  externalId: "6179061c-0320-493a-a856-4a6cdb7a45c9",
-  externalLink: "https://musicbrainz.org/work/6179061c-0320-493a-a856-4a6cdb7a45c9",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6179061c-0320-493a-a856-4a6cdb7a45c9",
+      externalLink: "https://musicbrainz.org/work/6179061c-0320-493a-a856-4a6cdb7a45c9",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

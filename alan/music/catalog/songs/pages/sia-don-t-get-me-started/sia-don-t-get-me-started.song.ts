@@ -6,10 +6,14 @@ export const siaDonTGetMeStarted = {
   slug: "sia-don-t-get-me-started",
   title: "Don’t Get Me Started",
   artist: "sia",
-  externalId: "d44384b6-8bdf-44a9-afb2-4a2c0089165f",
-  externalLink: "https://musicbrainz.org/work/d44384b6-8bdf-44a9-afb2-4a2c0089165f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d44384b6-8bdf-44a9-afb2-4a2c0089165f",
+      externalLink: "https://musicbrainz.org/work/d44384b6-8bdf-44a9-afb2-4a2c0089165f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

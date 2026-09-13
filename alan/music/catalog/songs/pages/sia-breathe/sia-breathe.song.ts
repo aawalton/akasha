@@ -6,10 +6,14 @@ export const siaBreathe = {
   slug: "sia-breathe",
   title: "Breathe",
   artist: "sia",
-  externalId: "a6cfc8f1-720c-4298-a6f2-63d7610afec3",
-  externalLink: "https://musicbrainz.org/work/a6cfc8f1-720c-4298-a6f2-63d7610afec3",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a6cfc8f1-720c-4298-a6f2-63d7610afec3",
+      externalLink: "https://musicbrainz.org/work/a6cfc8f1-720c-4298-a6f2-63d7610afec3",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

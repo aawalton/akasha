@@ -6,10 +6,14 @@ export const siaBigGirlLittleGirl = {
   slug: "sia-big-girl-little-girl",
   title: "Big Girl Little Girl",
   artist: "sia",
-  externalId: "7563f7b1-a78a-4e30-94ce-2ee7b31e7d10",
-  externalLink: "https://musicbrainz.org/work/7563f7b1-a78a-4e30-94ce-2ee7b31e7d10",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7563f7b1-a78a-4e30-94ce-2ee7b31e7d10",
+      externalLink: "https://musicbrainz.org/work/7563f7b1-a78a-4e30-94ce-2ee7b31e7d10",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

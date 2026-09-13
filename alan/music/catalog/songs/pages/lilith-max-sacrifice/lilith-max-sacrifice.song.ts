@@ -6,10 +6,14 @@ export const lilithMaxSacrifice = {
   slug: "lilith-max-sacrifice",
   title: "Sacrifice",
   artist: "lilith-max",
-  externalId: "0f83b330-5e1a-436e-a70a-30464cd28f7c",
-  externalLink: "https://musicbrainz.org/recording/0f83b330-5e1a-436e-a70a-30464cd28f7c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0f83b330-5e1a-436e-a70a-30464cd28f7c",
+      externalLink: "https://musicbrainz.org/recording/0f83b330-5e1a-436e-a70a-30464cd28f7c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

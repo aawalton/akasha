@@ -6,10 +6,14 @@ export const siaBlindedByLove = {
   slug: "sia-blinded-by-love",
   title: "Blinded by Love",
   artist: "sia",
-  externalId: "6e361791-34d3-4fcf-a402-896ca600b880",
-  externalLink: "https://musicbrainz.org/work/6e361791-34d3-4fcf-a402-896ca600b880",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6e361791-34d3-4fcf-a402-896ca600b880",
+      externalLink: "https://musicbrainz.org/work/6e361791-34d3-4fcf-a402-896ca600b880",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

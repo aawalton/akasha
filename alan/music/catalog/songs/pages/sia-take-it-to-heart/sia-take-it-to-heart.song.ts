@@ -6,10 +6,14 @@ export const siaTakeItToHeart = {
   slug: "sia-take-it-to-heart",
   title: "Take It to Heart",
   artist: "sia",
-  externalId: "1f44aae0-e66b-468f-a1fd-a2916c585d7e",
-  externalLink: "https://musicbrainz.org/work/1f44aae0-e66b-468f-a1fd-a2916c585d7e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1f44aae0-e66b-468f-a1fd-a2916c585d7e",
+      externalLink: "https://musicbrainz.org/work/1f44aae0-e66b-468f-a1fd-a2916c585d7e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

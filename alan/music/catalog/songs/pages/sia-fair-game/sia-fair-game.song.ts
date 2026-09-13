@@ -6,10 +6,14 @@ export const siaFairGame = {
   slug: "sia-fair-game",
   title: "Fair Game",
   artist: "sia",
-  externalId: "eb8fb54c-23df-4d2a-85ad-895ee8c4d1a6",
-  externalLink: "https://musicbrainz.org/work/eb8fb54c-23df-4d2a-85ad-895ee8c4d1a6",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "eb8fb54c-23df-4d2a-85ad-895ee8c4d1a6",
+      externalLink: "https://musicbrainz.org/work/eb8fb54c-23df-4d2a-85ad-895ee8c4d1a6",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

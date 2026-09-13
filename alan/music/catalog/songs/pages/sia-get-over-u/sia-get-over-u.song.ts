@@ -6,10 +6,14 @@ export const siaGetOverU = {
   slug: "sia-get-over-u",
   title: "Get Over U",
   artist: "sia",
-  externalId: "6a5dfbdd-e449-3830-bb32-5ad97e9fe777",
-  externalLink: "https://musicbrainz.org/work/6a5dfbdd-e449-3830-bb32-5ad97e9fe777",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6a5dfbdd-e449-3830-bb32-5ad97e9fe777",
+      externalLink: "https://musicbrainz.org/work/6a5dfbdd-e449-3830-bb32-5ad97e9fe777",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

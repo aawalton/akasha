@@ -6,10 +6,14 @@ export const siaEverydayIsChristmas = {
   slug: "sia-everyday-is-christmas",
   title: "Everyday Is Christmas",
   artist: "sia",
-  externalId: "b83189f3-20f9-44a1-b87c-24dc658506fb",
-  externalLink: "https://musicbrainz.org/work/b83189f3-20f9-44a1-b87c-24dc658506fb",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b83189f3-20f9-44a1-b87c-24dc658506fb",
+      externalLink: "https://musicbrainz.org/work/b83189f3-20f9-44a1-b87c-24dc658506fb",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

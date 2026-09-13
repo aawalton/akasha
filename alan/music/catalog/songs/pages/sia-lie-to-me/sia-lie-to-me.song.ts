@@ -6,10 +6,14 @@ export const siaLieToMe = {
   slug: "sia-lie-to-me",
   title: "Lie to Me",
   artist: "sia",
-  externalId: "7010ab99-bcb0-48a6-b5c1-54c875a45ae3",
-  externalLink: "https://musicbrainz.org/work/7010ab99-bcb0-48a6-b5c1-54c875a45ae3",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7010ab99-bcb0-48a6-b5c1-54c875a45ae3",
+      externalLink: "https://musicbrainz.org/work/7010ab99-bcb0-48a6-b5c1-54c875a45ae3",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

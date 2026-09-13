@@ -6,10 +6,14 @@ export const siaWaterfall = {
   slug: "sia-waterfall",
   title: "Waterfall",
   artist: "sia",
-  externalId: "b83dcb70-fbd8-4bb9-aefe-a6b25ebf0897",
-  externalLink: "https://musicbrainz.org/work/b83dcb70-fbd8-4bb9-aefe-a6b25ebf0897",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b83dcb70-fbd8-4bb9-aefe-a6b25ebf0897",
+      externalLink: "https://musicbrainz.org/work/b83dcb70-fbd8-4bb9-aefe-a6b25ebf0897",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

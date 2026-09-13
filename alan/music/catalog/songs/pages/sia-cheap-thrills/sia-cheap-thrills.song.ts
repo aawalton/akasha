@@ -6,10 +6,14 @@ export const siaCheapThrills = {
   slug: "sia-cheap-thrills",
   title: "Cheap Thrills",
   artist: "sia",
-  externalId: "7b77da28-cf99-40c9-94a3-16e16363239e",
-  externalLink: "https://musicbrainz.org/work/7b77da28-cf99-40c9-94a3-16e16363239e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7b77da28-cf99-40c9-94a3-16e16363239e",
+      externalLink: "https://musicbrainz.org/work/7b77da28-cf99-40c9-94a3-16e16363239e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

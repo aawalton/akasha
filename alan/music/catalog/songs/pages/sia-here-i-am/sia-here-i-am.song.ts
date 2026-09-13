@@ -6,10 +6,14 @@ export const siaHereIAm = {
   slug: "sia-here-i-am",
   title: "Here I Am",
   artist: "sia",
-  externalId: "6c1abc82-4682-4666-a7fc-3031c76d4113",
-  externalLink: "https://musicbrainz.org/work/6c1abc82-4682-4666-a7fc-3031c76d4113",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6c1abc82-4682-4666-a7fc-3031c76d4113",
+      externalLink: "https://musicbrainz.org/work/6c1abc82-4682-4666-a7fc-3031c76d4113",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

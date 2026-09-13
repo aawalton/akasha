@@ -6,10 +6,14 @@ export const mitskiILlChangeForYou = {
   slug: "mitski-i-ll-change-for-you",
   title: "I’ll Change for You",
   artist: "mitski",
-  externalId: "ca5b97d5-0921-443b-9ab8-9ca01124b685",
-  externalLink: "https://musicbrainz.org/work/ca5b97d5-0921-443b-9ab8-9ca01124b685",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ca5b97d5-0921-443b-9ab8-9ca01124b685",
+      externalLink: "https://musicbrainz.org/work/ca5b97d5-0921-443b-9ab8-9ca01124b685",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

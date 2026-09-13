@@ -6,10 +6,14 @@ export const siaOneMillionBullets = {
   slug: "sia-one-million-bullets",
   title: "One Million Bullets",
   artist: "sia",
-  externalId: "60552962-4585-4a7c-8f50-e5ebf03e7db1",
-  externalLink: "https://musicbrainz.org/work/60552962-4585-4a7c-8f50-e5ebf03e7db1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "60552962-4585-4a7c-8f50-e5ebf03e7db1",
+      externalLink: "https://musicbrainz.org/work/60552962-4585-4a7c-8f50-e5ebf03e7db1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

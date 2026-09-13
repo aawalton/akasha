@@ -6,10 +6,14 @@ export const siaButtons = {
   slug: "sia-buttons",
   title: "Buttons",
   artist: "sia",
-  externalId: "57f3ced5-cb40-4a92-9bca-39b2c1fce206",
-  externalLink: "https://musicbrainz.org/work/57f3ced5-cb40-4a92-9bca-39b2c1fce206",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "57f3ced5-cb40-4a92-9bca-39b2c1fce206",
+      externalLink: "https://musicbrainz.org/work/57f3ced5-cb40-4a92-9bca-39b2c1fce206",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

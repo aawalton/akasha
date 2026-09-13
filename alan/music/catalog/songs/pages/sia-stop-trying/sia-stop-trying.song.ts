@@ -6,10 +6,14 @@ export const siaStopTrying = {
   slug: "sia-stop-trying",
   title: "Stop Trying",
   artist: "sia",
-  externalId: "8f2364cd-a9ef-4045-a936-5aaa763ba29e",
-  externalLink: "https://musicbrainz.org/work/8f2364cd-a9ef-4045-a936-5aaa763ba29e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8f2364cd-a9ef-4045-a936-5aaa763ba29e",
+      externalLink: "https://musicbrainz.org/work/8f2364cd-a9ef-4045-a936-5aaa763ba29e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const mitskiRememberMyName = {
   slug: "mitski-remember-my-name",
   title: "Remember My Name",
   artist: "mitski",
-  externalId: "cc77f879-2c1f-450e-ab95-a7c1726de303",
-  externalLink: "https://musicbrainz.org/work/cc77f879-2c1f-450e-ab95-a7c1726de303",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "cc77f879-2c1f-450e-ab95-a7c1726de303",
+      externalLink: "https://musicbrainz.org/work/cc77f879-2c1f-450e-ab95-a7c1726de303",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

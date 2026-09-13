@@ -6,10 +6,14 @@ export const siaSoBored = {
   slug: "sia-so-bored",
   title: "So Bored",
   artist: "sia",
-  externalId: "76840f00-b43b-4ac5-b582-6dad8cb1b272",
-  externalLink: "https://musicbrainz.org/work/76840f00-b43b-4ac5-b582-6dad8cb1b272",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "76840f00-b43b-4ac5-b582-6dad8cb1b272",
+      externalLink: "https://musicbrainz.org/work/76840f00-b43b-4ac5-b582-6dad8cb1b272",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const siaElectricBird = {
   slug: "sia-electric-bird",
   title: "Electric Bird",
   artist: "sia",
-  externalId: "db2f8b36-b3d4-4d0b-a2e8-97ba1510fa32",
-  externalLink: "https://musicbrainz.org/work/db2f8b36-b3d4-4d0b-a2e8-97ba1510fa32",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "db2f8b36-b3d4-4d0b-a2e8-97ba1510fa32",
+      externalLink: "https://musicbrainz.org/work/db2f8b36-b3d4-4d0b-a2e8-97ba1510fa32",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

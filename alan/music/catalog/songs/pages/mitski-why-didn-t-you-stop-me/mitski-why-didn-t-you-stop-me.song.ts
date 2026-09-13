@@ -6,10 +6,14 @@ export const mitskiWhyDidnTYouStopMe = {
   slug: "mitski-why-didn-t-you-stop-me",
   title: "Why Didn’t You Stop Me?",
   artist: "mitski",
-  externalId: "c2d070f4-ecca-4b67-8299-9785a4562025",
-  externalLink: "https://musicbrainz.org/work/c2d070f4-ecca-4b67-8299-9785a4562025",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c2d070f4-ecca-4b67-8299-9785a4562025",
+      externalLink: "https://musicbrainz.org/work/c2d070f4-ecca-4b67-8299-9785a4562025",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const siaRadioactive = {
   slug: "sia-radioactive",
   title: "Radioactive",
   artist: "sia",
-  externalId: "8d1af9cb-c508-4a6d-bb31-81455a1ed611",
-  externalLink: "https://musicbrainz.org/work/8d1af9cb-c508-4a6d-bb31-81455a1ed611",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8d1af9cb-c508-4a6d-bb31-81455a1ed611",
+      externalLink: "https://musicbrainz.org/work/8d1af9cb-c508-4a6d-bb31-81455a1ed611",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   written: "collab",

@@ -6,10 +6,14 @@ export const lilithMaxSeraph = {
   slug: "lilith-max-seraph",
   title: "Seraph",
   artist: "lilith-max",
-  externalId: "53a923bf-e6c4-4ea0-9663-b5ab29311c97",
-  externalLink: "https://musicbrainz.org/recording/53a923bf-e6c4-4ea0-9663-b5ab29311c97",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "53a923bf-e6c4-4ea0-9663-b5ab29311c97",
+      externalLink: "https://musicbrainz.org/recording/53a923bf-e6c4-4ea0-9663-b5ab29311c97",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

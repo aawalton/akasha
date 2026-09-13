@@ -6,10 +6,14 @@ export const siaLayAllYourLoveOnMe = {
   slug: "sia-lay-all-your-love-on-me",
   title: "Lay All Your Love on Me",
   artist: "sia",
-  externalId: "fc4e60b9-3e7f-3ce4-8e39-08635f98d287",
-  externalLink: "https://musicbrainz.org/work/fc4e60b9-3e7f-3ce4-8e39-08635f98d287",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "fc4e60b9-3e7f-3ce4-8e39-08635f98d287",
+      externalLink: "https://musicbrainz.org/work/fc4e60b9-3e7f-3ce4-8e39-08635f98d287",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

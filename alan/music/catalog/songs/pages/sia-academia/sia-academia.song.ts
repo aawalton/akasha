@@ -6,10 +6,14 @@ export const siaAcademia = {
   slug: "sia-academia",
   title: "Academia",
   artist: "sia",
-  externalId: "513b7082-51f6-49b3-959d-60eaeb8cffdc",
-  externalLink: "https://musicbrainz.org/work/513b7082-51f6-49b3-959d-60eaeb8cffdc",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "513b7082-51f6-49b3-959d-60eaeb8cffdc",
+      externalLink: "https://musicbrainz.org/work/513b7082-51f6-49b3-959d-60eaeb8cffdc",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

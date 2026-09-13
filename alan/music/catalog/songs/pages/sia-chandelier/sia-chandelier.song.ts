@@ -6,10 +6,14 @@ export const siaChandelier = {
   slug: "sia-chandelier",
   title: "Chandelier",
   artist: "sia",
-  externalId: "9ad070d4-83e9-4404-9444-64ad5de092fa",
-  externalLink: "https://musicbrainz.org/work/9ad070d4-83e9-4404-9444-64ad5de092fa",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9ad070d4-83e9-4404-9444-64ad5de092fa",
+      externalLink: "https://musicbrainz.org/work/9ad070d4-83e9-4404-9444-64ad5de092fa",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

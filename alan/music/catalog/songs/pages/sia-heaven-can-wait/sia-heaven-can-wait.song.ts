@@ -6,10 +6,14 @@ export const siaHeavenCanWait = {
   slug: "sia-heaven-can-wait",
   title: "Heaven Can Wait",
   artist: "sia",
-  externalId: "f0af317d-937f-4619-b647-a135c6748c98",
-  externalLink: "https://musicbrainz.org/work/f0af317d-937f-4619-b647-a135c6748c98",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f0af317d-937f-4619-b647-a135c6748c98",
+      externalLink: "https://musicbrainz.org/work/f0af317d-937f-4619-b647-a135c6748c98",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: false,
   lyricsSource: "lrclib",

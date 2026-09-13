@@ -6,10 +6,14 @@ export const siaIGoToSleep = {
   slug: "sia-i-go-to-sleep",
   title: "I Go to Sleep",
   artist: "sia",
-  externalId: "2f843faf-5071-3e80-8d09-9ea38c1c2f39",
-  externalLink: "https://musicbrainz.org/work/2f843faf-5071-3e80-8d09-9ea38c1c2f39",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2f843faf-5071-3e80-8d09-9ea38c1c2f39",
+      externalLink: "https://musicbrainz.org/work/2f843faf-5071-3e80-8d09-9ea38c1c2f39",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

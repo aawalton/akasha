@@ -6,10 +6,14 @@ export const mitskiIfILeave = {
   slug: "mitski-if-i-leave",
   title: "If I Leave",
   artist: "mitski",
-  externalId: "479bf6d6-f135-4b18-a05c-a0fcbe98ca3c",
-  externalLink: "https://musicbrainz.org/work/479bf6d6-f135-4b18-a05c-a0fcbe98ca3c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "479bf6d6-f135-4b18-a05c-a0fcbe98ca3c",
+      externalLink: "https://musicbrainz.org/work/479bf6d6-f135-4b18-a05c-a0fcbe98ca3c",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

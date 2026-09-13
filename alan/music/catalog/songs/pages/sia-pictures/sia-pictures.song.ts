@@ -6,10 +6,14 @@ export const siaPictures = {
   slug: "sia-pictures",
   title: "Pictures",
   artist: "sia",
-  externalId: "1c201249-bdc2-4748-ae82-b038b398ee2b",
-  externalLink: "https://musicbrainz.org/work/1c201249-bdc2-4748-ae82-b038b398ee2b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1c201249-bdc2-4748-ae82-b038b398ee2b",
+      externalLink: "https://musicbrainz.org/work/1c201249-bdc2-4748-ae82-b038b398ee2b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const siaFreeTheAnimal = {
   slug: "sia-free-the-animal",
   title: "Free the Animal",
   artist: "sia",
-  externalId: "0178adc5-8239-415f-92ba-66eafef78199",
-  externalLink: "https://musicbrainz.org/work/0178adc5-8239-415f-92ba-66eafef78199",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0178adc5-8239-415f-92ba-66eafef78199",
+      externalLink: "https://musicbrainz.org/work/0178adc5-8239-415f-92ba-66eafef78199",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

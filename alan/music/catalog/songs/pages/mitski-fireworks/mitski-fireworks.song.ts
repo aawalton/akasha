@@ -6,10 +6,14 @@ export const mitskiFireworks = {
   slug: "mitski-fireworks",
   title: "Fireworks",
   artist: "mitski",
-  externalId: "ae0adb27-8f05-4bbc-b10c-0aa993c7e70d",
-  externalLink: "https://musicbrainz.org/work/ae0adb27-8f05-4bbc-b10c-0aa993c7e70d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ae0adb27-8f05-4bbc-b10c-0aa993c7e70d",
+      externalLink: "https://musicbrainz.org/work/ae0adb27-8f05-4bbc-b10c-0aa993c7e70d",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

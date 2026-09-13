@@ -6,10 +6,14 @@ export const mitskiDanTheDancer = {
   slug: "mitski-dan-the-dancer",
   title: "Dan the Dancer",
   artist: "mitski",
-  externalId: "e9e78e2d-e652-48d4-a387-3f3c96fea6e5",
-  externalLink: "https://musicbrainz.org/work/e9e78e2d-e652-48d4-a387-3f3c96fea6e5",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e9e78e2d-e652-48d4-a387-3f3c96fea6e5",
+      externalLink: "https://musicbrainz.org/work/e9e78e2d-e652-48d4-a387-3f3c96fea6e5",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

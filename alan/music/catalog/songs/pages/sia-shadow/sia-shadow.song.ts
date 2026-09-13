@@ -6,10 +6,14 @@ export const siaShadow = {
   slug: "sia-shadow",
   title: "Shadow",
   artist: "sia",
-  externalId: "09b1da49-762d-4b8d-95d3-4317ed1000fa",
-  externalLink: "https://musicbrainz.org/work/09b1da49-762d-4b8d-95d3-4317ed1000fa",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "09b1da49-762d-4b8d-95d3-4317ed1000fa",
+      externalLink: "https://musicbrainz.org/work/09b1da49-762d-4b8d-95d3-4317ed1000fa",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",
