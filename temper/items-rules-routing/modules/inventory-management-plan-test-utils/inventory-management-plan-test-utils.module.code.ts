@@ -5,10 +5,7 @@ import type {
 } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import { makeItem as makeItemBase } from "akasha/temper/items-rules-core/modules/inventory-rule-test-utils/inventory-rule-test-utils.module.code.ts"
-import type {
-  CategoryRule,
-  ItemRule,
-} from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { CategoryRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 export const ESO_BAG_BACKPACK = 1
 
@@ -69,14 +66,4 @@ export function makeRule(
   destination?: CategoryRule["destination"]
 ): CategoryRule {
   return { id, categoryId: "all", action, destination, active: true }
-}
-
-export function makeItemRule(
-  id: string,
-  itemId: number,
-  itemName: string,
-  action: ItemRule["action"],
-  destination?: ItemRule["destination"]
-): ItemRule {
-  return { id, itemId, itemName, action, destination, active: true }
 }
