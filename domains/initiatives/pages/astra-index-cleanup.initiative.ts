@@ -10,7 +10,7 @@ export const astraIndexCleanup = {
     {
       statement: "A change lands the index entries its own file changes imply, and no others.",
       workingMemory:
-        "`index-answers-are-level-with-the-change` landed at `3d38574db` and judges at no phase, so the rule is stated and binds nobody until Alan turns it on. It reads both ways off `shadow.filed()` against `change.carried`, so nothing is built again. The hazard it does not reach is the one relation carries: a change to a page type turns answers for every page of that type, far outside the files that change has, and those are left out.\n",
+        "`index-answers-are-level-with-the-change` judges at change since `b0bd8841`, both ways, reading `shadow.filed()` against `change.carried`, so nothing is built again. It has refused no landing of mine since. The hazard it does not reach is the one relation carries: a change to a page type turns answers for every page of that type, far outside the files that change has, and those are left out.\n",
     },
     { statement: "Alan holds the value index's structure correct." },
     { statement: "Alan holds the path index's structure correct." },
