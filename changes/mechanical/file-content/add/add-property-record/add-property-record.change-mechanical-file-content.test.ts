@@ -113,6 +113,24 @@ test("a page stating no such key gains that key rather than being refused", () =
   expect(bodyOf(said, world.base)).toContain(`${KEY}: [${NAME}]`)
 })
 
+test("a key the page gains is written after the property `after` names", () => {
+  const world = worldOf({ [AT]: bodied(`  definition: "one",`) })
+  const said = addPropertyRecord(world, { at: AT, key: KEY, record: NAME, after: "slug" })
+  expect(bodyOf(said, world.base)).toContain(`  slug: "one",\n  ${KEY}: [${NAME}],`)
+})
+
+test("an `after` stated where the page states the key already is refused rather than dropped", () => {
+  const said = addPropertyRecord(worldOf({ [AT]: HOLDING }), {
+    at: AT,
+    key: KEY,
+    record: NAME,
+    after: SLUG,
+  })
+  expect(refusalOf(said)).toBe(
+    "`properties` is written already, and `after` places a key rather than a record"
+  )
+})
+
 test("a body exporting no object is refused rather than gaining a key", () => {
   const said = addPropertyRecord(worldOf({ [AT]: "const one = 1\n" }), {
     at: AT,

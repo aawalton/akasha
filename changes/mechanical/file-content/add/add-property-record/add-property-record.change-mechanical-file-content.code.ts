@@ -25,6 +25,8 @@ const NO_RECORD =
   ' `{ argument: "argument/onto", required: true, saidAs: "word" }` is,' +
   " and `key: value` lines are not"
 
+const PLACED = "is written already, and `after` places a key rather than a record"
+
 export type AddPropertyRecordAsked = {
   readonly at: string
   readonly key: string
@@ -85,6 +87,7 @@ export function addPropertyRecord(world: World, given: AddPropertyRecordAsked): 
     const put = `${given.key}: [${record}]`
     return stating(spliced(given.at, text, withProperty(text, source, owner, put, given.after)))
   }
+  if (given.after !== undefined) return refusing(`\`${given.key}\` ${PLACED}`)
   const holding = one.initializer
   if (!ts.isArrayLiteralExpression(holding)) {
     return refusing(`\`${given.key}\` holds one value, so a record is a restatement`)
