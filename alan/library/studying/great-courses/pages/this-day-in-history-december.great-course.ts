@@ -11,7 +11,11 @@ export const thisDayInHistoryDecember = {
   ownLength: 59.4,
   ownProgress: 59.4,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "this-day-in-history-december",
-  externalLink: "https://www.thegreatcoursesplus.com/this-day-in-history-december",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "this-day-in-history-december",
+      externalLink: "https://www.thegreatcoursesplus.com/this-day-in-history-december",
+    },
+  ],
 } as const satisfies GreatCourse

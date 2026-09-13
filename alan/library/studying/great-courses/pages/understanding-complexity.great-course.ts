@@ -10,7 +10,11 @@ export const understandingComplexity = {
   ownLength: 387.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "understanding-complexity",
-  externalLink: "https://www.thegreatcoursesplus.com/understanding-complexity",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-complexity",
+      externalLink: "https://www.thegreatcoursesplus.com/understanding-complexity",
+    },
+  ],
 } as const satisfies GreatCourse

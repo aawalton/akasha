@@ -11,7 +11,11 @@ export const theGeniusOfMichelangelo = {
   ownLength: 1075.8,
   ownProgress: 1075.8,
   partOfCollections: ["all-great-courses", "art-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-genius-of-michelangelo",
-  externalLink: "https://www.thegreatcoursesplus.com/the-genius-of-michelangelo",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-genius-of-michelangelo",
+      externalLink: "https://www.thegreatcoursesplus.com/the-genius-of-michelangelo",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -14,8 +14,12 @@ export const writtenCommunicationsBeingHeardAndUnderstood = {
     "literature-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "written-communications-being-heard-and-understood",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/written-communications-being-heard-and-understood",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "written-communications-being-heard-and-understood",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/written-communications-being-heard-and-understood",
+    },
+  ],
 } as const satisfies GreatCourse

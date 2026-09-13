@@ -11,7 +11,11 @@ export const womenOfHistory = {
   ownLength: 39,
   ownProgress: 39,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "women-of-history",
-  externalLink: "https://www.thegreatcoursesplus.com/women-of-history",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "women-of-history",
+      externalLink: "https://www.thegreatcoursesplus.com/women-of-history",
+    },
+  ],
 } as const satisfies GreatCourse

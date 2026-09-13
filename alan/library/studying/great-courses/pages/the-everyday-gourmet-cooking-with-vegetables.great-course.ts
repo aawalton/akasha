@@ -10,7 +10,12 @@ export const theEverydayGourmetCookingWithVegetables = {
   ownLength: 846.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-everyday-gourmet-cooking-with-vegetables",
-  externalLink: "https://www.thegreatcoursesplus.com/the-everyday-gourmet-cooking-with-vegetables",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-everyday-gourmet-cooking-with-vegetables",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-everyday-gourmet-cooking-with-vegetables",
+    },
+  ],
 } as const satisfies GreatCourse

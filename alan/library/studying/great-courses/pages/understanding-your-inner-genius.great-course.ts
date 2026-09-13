@@ -10,7 +10,11 @@ export const understandingYourInnerGenius = {
   ownLength: 186,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "understanding-your-inner-genius",
-  externalLink: "https://www.thegreatcoursesplus.com/understanding-your-inner-genius",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-your-inner-genius",
+      externalLink: "https://www.thegreatcoursesplus.com/understanding-your-inner-genius",
+    },
+  ],
 } as const satisfies GreatCourse

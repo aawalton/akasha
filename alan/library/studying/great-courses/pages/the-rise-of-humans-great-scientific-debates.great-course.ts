@@ -10,7 +10,12 @@ export const theRiseOfHumansGreatScientificDebates = {
   ownLength: 776.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-rise-of-humans-great-scientific-debates",
-  externalLink: "https://www.thegreatcoursesplus.com/the-rise-of-humans-great-scientific-debates",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-rise-of-humans-great-scientific-debates",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-rise-of-humans-great-scientific-debates",
+    },
+  ],
 } as const satisfies GreatCourse

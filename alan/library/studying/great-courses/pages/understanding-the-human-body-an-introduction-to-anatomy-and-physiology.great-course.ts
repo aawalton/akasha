@@ -14,8 +14,13 @@ export const understandingTheHumanBodyAnIntroductionToAnatomyAndPhysiology = {
     "health-and-mindfulness-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "understanding-the-human-body-an-introduction-to-anatomy-and-physiology-2nd-edition",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/understanding-the-human-body-an-introduction-to-anatomy-and-physiology-2nd-edition",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId:
+        "understanding-the-human-body-an-introduction-to-anatomy-and-physiology-2nd-edition",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/understanding-the-human-body-an-introduction-to-anatomy-and-physiology-2nd-edition",
+    },
+  ],
 } as const satisfies GreatCourse

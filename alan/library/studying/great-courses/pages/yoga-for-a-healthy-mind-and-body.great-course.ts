@@ -14,7 +14,11 @@ export const yogaForAHealthyMindAndBody = {
     "health-and-mindfulness-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "yoga-for-a-healthy-mind-and-body",
-  externalLink: "https://www.thegreatcoursesplus.com/yoga-for-a-healthy-mind-and-body",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "yoga-for-a-healthy-mind-and-body",
+      externalLink: "https://www.thegreatcoursesplus.com/yoga-for-a-healthy-mind-and-body",
+    },
+  ],
 } as const satisfies GreatCourse

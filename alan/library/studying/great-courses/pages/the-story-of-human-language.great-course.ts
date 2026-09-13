@@ -11,7 +11,11 @@ export const theStoryOfHumanLanguage = {
   ownLength: 1086,
   ownProgress: 1086,
   partOfCollections: ["all-great-courses", "history-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-story-of-human-language",
-  externalLink: "https://www.thegreatcoursesplus.com/the-story-of-human-language",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-story-of-human-language",
+      externalLink: "https://www.thegreatcoursesplus.com/the-story-of-human-language",
+    },
+  ],
 } as const satisfies GreatCourse

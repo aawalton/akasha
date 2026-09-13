@@ -11,8 +11,12 @@ export const theSurprisingOriginsOfChristmasTraditions = {
   ownLength: 52.2,
   ownProgress: 52.2,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-surprising-origins-of-christmas-traditions",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-surprising-origins-of-christmas-traditions",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-surprising-origins-of-christmas-traditions",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-surprising-origins-of-christmas-traditions",
+    },
+  ],
 } as const satisfies GreatCourse

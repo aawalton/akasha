@@ -10,8 +10,12 @@ export const theScienceOfInformationFromLanguageToBlackHoles = {
   ownLength: 744.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-science-of-information-from-language-to-black-holes",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-science-of-information-from-language-to-black-holes",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-science-of-information-from-language-to-black-holes",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-science-of-information-from-language-to-black-holes",
+    },
+  ],
 } as const satisfies GreatCourse

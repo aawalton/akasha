@@ -10,8 +10,12 @@ export const whoWroteTheBibleSearchingForItsOriginsAndAuthors = {
   ownLength: 634.033333,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "who-wrote-the-bible-searching-for-its-origins-and-authors",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/who-wrote-the-bible-searching-for-its-origins-and-authors",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "who-wrote-the-bible-searching-for-its-origins-and-authors",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/who-wrote-the-bible-searching-for-its-origins-and-authors",
+    },
+  ],
 } as const satisfies GreatCourse

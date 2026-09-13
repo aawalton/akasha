@@ -11,8 +11,12 @@ export const theGreekWorldAStudyOfHistoryAndCulture = {
   ownLength: 770.4,
   ownProgress: 770.4,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-greek-world-a-study-of-history-and-culture",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-greek-world-a-study-of-history-and-culture",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-greek-world-a-study-of-history-and-culture",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-greek-world-a-study-of-history-and-culture",
+    },
+  ],
 } as const satisfies GreatCourse

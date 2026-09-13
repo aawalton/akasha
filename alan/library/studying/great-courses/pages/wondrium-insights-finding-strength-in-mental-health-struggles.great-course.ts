@@ -11,8 +11,12 @@ export const wondriumInsightsFindingStrengthInMentalHealthStruggles = {
   ownLength: 177.6,
   ownProgress: 177.6,
   partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],
-  source: "the-great-courses",
-  externalId: "wondrium-insights-finding-strength-in-mental-health-struggles",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/wondrium-insights-finding-strength-in-mental-health-struggles",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "wondrium-insights-finding-strength-in-mental-health-struggles",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/wondrium-insights-finding-strength-in-mental-health-struggles",
+    },
+  ],
 } as const satisfies GreatCourse

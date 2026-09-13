@@ -11,7 +11,11 @@ export const theGreatToursCivilWarBattlefields = {
   ownLength: 453,
   ownProgress: 453,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-great-tours-civil-war-battlefields",
-  externalLink: "https://www.thegreatcoursesplus.com/the-great-tours-civil-war-battlefields",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-great-tours-civil-war-battlefields",
+      externalLink: "https://www.thegreatcoursesplus.com/the-great-tours-civil-war-battlefields",
+    },
+  ],
 } as const satisfies GreatCourse

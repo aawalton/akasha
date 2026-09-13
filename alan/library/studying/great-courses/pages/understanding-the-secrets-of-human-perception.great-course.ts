@@ -10,7 +10,12 @@ export const understandingTheSecretsOfHumanPerception = {
   ownLength: 739.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "understanding-the-secrets-of-human-perception",
-  externalLink: "https://www.thegreatcoursesplus.com/understanding-the-secrets-of-human-perception",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-the-secrets-of-human-perception",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/understanding-the-secrets-of-human-perception",
+    },
+  ],
 } as const satisfies GreatCourse

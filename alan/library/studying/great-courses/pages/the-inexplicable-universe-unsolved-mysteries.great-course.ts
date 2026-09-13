@@ -10,7 +10,12 @@ export const theInexplicableUniverseUnsolvedMysteries = {
   ownLength: 193.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-inexplicable-universe-unsolved-mysteries",
-  externalLink: "https://www.thegreatcoursesplus.com/the-inexplicable-universe-unsolved-mysteries",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-inexplicable-universe-unsolved-mysteries",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-inexplicable-universe-unsolved-mysteries",
+    },
+  ],
 } as const satisfies GreatCourse

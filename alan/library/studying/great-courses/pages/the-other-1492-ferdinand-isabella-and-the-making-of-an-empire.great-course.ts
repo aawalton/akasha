@@ -10,8 +10,12 @@ export const theOther1492FerdinandIsabellaAndTheMakingOfAnEmpire = {
   ownLength: 371.583333,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-other-1492-ferdinand-isabella-and-the-making-of-an-empire",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-other-1492-ferdinand-isabella-and-the-making-of-an-empire",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-other-1492-ferdinand-isabella-and-the-making-of-an-empire",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-other-1492-ferdinand-isabella-and-the-making-of-an-empire",
+    },
+  ],
 } as const satisfies GreatCourse

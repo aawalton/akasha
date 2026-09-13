@@ -11,7 +11,11 @@ export const woodturningBasicsTheBowl = {
   ownLength: 157.2,
   ownProgress: 157.2,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "woodturning-basics-the-bowl",
-  externalLink: "https://www.thegreatcoursesplus.com/woodturning-basics-the-bowl",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "woodturning-basics-the-bowl",
+      externalLink: "https://www.thegreatcoursesplus.com/woodturning-basics-the-bowl",
+    },
+  ],
 } as const satisfies GreatCourse

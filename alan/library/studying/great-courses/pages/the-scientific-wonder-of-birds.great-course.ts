@@ -14,7 +14,11 @@ export const theScientificWonderOfBirds = {
     "hobby-and-personal-pursuits-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-scientific-wonder-of-birds",
-  externalLink: "https://www.thegreatcoursesplus.com/the-scientific-wonder-of-birds",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-scientific-wonder-of-birds",
+      externalLink: "https://www.thegreatcoursesplus.com/the-scientific-wonder-of-birds",
+    },
+  ],
 } as const satisfies GreatCourse

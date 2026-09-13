@@ -11,8 +11,12 @@ export const understandingImperialChinaDynastiesLifeAndCulture = {
   ownLength: 753,
   ownProgress: 753,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "understanding-imperial-china-dynasties-life-and-culture",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/understanding-imperial-china-dynasties-life-and-culture",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-imperial-china-dynasties-life-and-culture",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/understanding-imperial-china-dynasties-life-and-culture",
+    },
+  ],
 } as const satisfies GreatCourse

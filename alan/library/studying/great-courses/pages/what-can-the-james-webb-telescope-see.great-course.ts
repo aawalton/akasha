@@ -11,7 +11,11 @@ export const whatCanTheJamesWebbTelescopeSee = {
   ownLength: 47.4,
   ownProgress: 47.4,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "what-can-the-james-webb-telescope-see",
-  externalLink: "https://www.thegreatcoursesplus.com/what-can-the-james-webb-telescope-see",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "what-can-the-james-webb-telescope-see",
+      externalLink: "https://www.thegreatcoursesplus.com/what-can-the-james-webb-telescope-see",
+    },
+  ],
 } as const satisfies GreatCourse

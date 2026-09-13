@@ -14,8 +14,12 @@ export const theoriesOfKnowledgeHowToThinkAboutWhatYouKnow = {
     "philosophy-and-religion-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "theories-of-knowledge-how-to-think-about-what-you-know",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/theories-of-knowledge-how-to-think-about-what-you-know",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "theories-of-knowledge-how-to-think-about-what-you-know",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/theories-of-knowledge-how-to-think-about-what-you-know",
+    },
+  ],
 } as const satisfies GreatCourse

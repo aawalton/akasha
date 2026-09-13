@@ -11,7 +11,11 @@ export const theEverydayGuideToWinesOfFrance = {
   ownLength: 213,
   ownProgress: 213,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-everyday-guide-to-wines-of-france",
-  externalLink: "https://www.thegreatcoursesplus.com/the-everyday-guide-to-wines-of-france",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-everyday-guide-to-wines-of-france",
+      externalLink: "https://www.thegreatcoursesplus.com/the-everyday-guide-to-wines-of-france",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,7 +10,11 @@ export const theLifeAndDeathOfStars = {
   ownLength: 715.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-life-and-death-of-stars",
-  externalLink: "https://www.thegreatcoursesplus.com/the-life-and-death-of-stars",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-life-and-death-of-stars",
+      externalLink: "https://www.thegreatcoursesplus.com/the-life-and-death-of-stars",
+    },
+  ],
 } as const satisfies GreatCourse

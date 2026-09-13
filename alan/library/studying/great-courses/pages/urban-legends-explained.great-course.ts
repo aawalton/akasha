@@ -10,7 +10,11 @@ export const urbanLegendsExplained = {
   ownLength: 322.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "urban-legends-explained",
-  externalLink: "https://www.thegreatcoursesplus.com/urban-legends-explained",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "urban-legends-explained",
+      externalLink: "https://www.thegreatcoursesplus.com/urban-legends-explained",
+    },
+  ],
 } as const satisfies GreatCourse

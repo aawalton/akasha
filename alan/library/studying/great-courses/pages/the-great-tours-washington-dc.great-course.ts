@@ -11,7 +11,11 @@ export const theGreatToursWashingtonDc = {
   ownLength: 994.2,
   ownProgress: 994.2,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-great-tours-washington-dc",
-  externalLink: "https://www.thegreatcoursesplus.com/the-great-tours-washington-dc",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-great-tours-washington-dc",
+      externalLink: "https://www.thegreatcoursesplus.com/the-great-tours-washington-dc",
+    },
+  ],
 } as const satisfies GreatCourse

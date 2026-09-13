@@ -14,8 +14,12 @@ export const theGreatTrialsOfWorldHistoryAndTheLessonsTheyTeachUs = {
     "history-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-great-trials-of-world-history-and-the-lessons-they-teach-us",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-great-trials-of-world-history-and-the-lessons-they-teach-us",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-great-trials-of-world-history-and-the-lessons-they-teach-us",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-great-trials-of-world-history-and-the-lessons-they-teach-us",
+    },
+  ],
 } as const satisfies GreatCourse

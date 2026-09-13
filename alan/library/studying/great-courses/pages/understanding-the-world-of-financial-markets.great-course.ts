@@ -10,7 +10,12 @@ export const understandingTheWorldOfFinancialMarkets = {
   ownLength: 308.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
-  source: "the-great-courses",
-  externalId: "understanding-the-world-of-financial-markets",
-  externalLink: "https://www.thegreatcoursesplus.com/understanding-the-world-of-financial-markets",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-the-world-of-financial-markets",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/understanding-the-world-of-financial-markets",
+    },
+  ],
 } as const satisfies GreatCourse

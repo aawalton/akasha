@@ -10,8 +10,12 @@ export const theTerrorOfHistoryMysticsHereticsAndWitchesInTheWesternTrad = {
   ownLength: 738.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-terror-of-history-mystics-heretics-and-witches-in-the-western-tradition",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-terror-of-history-mystics-heretics-and-witches-in-the-western-tradition",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-terror-of-history-mystics-heretics-and-witches-in-the-western-tradition",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-terror-of-history-mystics-heretics-and-witches-in-the-western-tradition",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,8 +10,12 @@ export const theEverydayGourmetTheJoyOfMediterraneanCooking = {
   ownLength: 559.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-everyday-gourmet-the-joy-of-mediterranean-cooking",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-everyday-gourmet-the-joy-of-mediterranean-cooking",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-everyday-gourmet-the-joy-of-mediterranean-cooking",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-everyday-gourmet-the-joy-of-mediterranean-cooking",
+    },
+  ],
 } as const satisfies GreatCourse

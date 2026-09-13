@@ -10,7 +10,11 @@ export const theFoundationsOfWesternCivilization = {
   ownLength: 1478.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-foundations-of-western-civilization",
-  externalLink: "https://www.thegreatcoursesplus.com/the-foundations-of-western-civilization",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-foundations-of-western-civilization",
+      externalLink: "https://www.thegreatcoursesplus.com/the-foundations-of-western-civilization",
+    },
+  ],
 } as const satisfies GreatCourse

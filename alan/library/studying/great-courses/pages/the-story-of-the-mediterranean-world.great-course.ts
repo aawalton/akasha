@@ -10,7 +10,11 @@ export const theStoryOfTheMediterraneanWorld = {
   ownLength: 24,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-story-of-the-mediterranean-world",
-  externalLink: "https://plus.thegreatcourses.com/the-story-of-the-mediterranean-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-story-of-the-mediterranean-world",
+      externalLink: "https://plus.thegreatcourses.com/the-story-of-the-mediterranean-world",
+    },
+  ],
 } as const satisfies GreatCourse

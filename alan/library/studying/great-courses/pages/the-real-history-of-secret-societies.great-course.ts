@@ -10,7 +10,11 @@ export const theRealHistoryOfSecretSocieties = {
   ownLength: 759,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-real-history-of-secret-societies",
-  externalLink: "https://www.thegreatcoursesplus.com/the-real-history-of-secret-societies",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-real-history-of-secret-societies",
+      externalLink: "https://www.thegreatcoursesplus.com/the-real-history-of-secret-societies",
+    },
+  ],
 } as const satisfies GreatCourse

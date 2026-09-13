@@ -14,7 +14,11 @@ export const whiteCollarCriminalLawExplained = {
     "business-and-finance-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "white-collar-criminal-law-eplained",
-  externalLink: "https://www.thegreatcoursesplus.com/white-collar-criminal-law-eplained",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "white-collar-criminal-law-eplained",
+      externalLink: "https://www.thegreatcoursesplus.com/white-collar-criminal-law-eplained",
+    },
+  ],
 } as const satisfies GreatCourse

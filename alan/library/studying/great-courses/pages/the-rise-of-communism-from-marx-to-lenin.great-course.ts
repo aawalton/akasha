@@ -10,7 +10,11 @@ export const theRiseOfCommunismFromMarxToLenin = {
   ownLength: 335.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-rise-of-communism-from-mar-to-lenin",
-  externalLink: "https://www.thegreatcoursesplus.com/the-rise-of-communism-from-mar-to-lenin",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-rise-of-communism-from-mar-to-lenin",
+      externalLink: "https://www.thegreatcoursesplus.com/the-rise-of-communism-from-mar-to-lenin",
+    },
+  ],
 } as const satisfies GreatCourse

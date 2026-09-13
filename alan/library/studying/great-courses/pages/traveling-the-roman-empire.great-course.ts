@@ -15,7 +15,11 @@ export const travelingTheRomanEmpire = {
     "learning-paths-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "traveling-the-roman-empire",
-  externalLink: "https://www.thegreatcoursesplus.com/traveling-the-roman-empire",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "traveling-the-roman-empire",
+      externalLink: "https://www.thegreatcoursesplus.com/traveling-the-roman-empire",
+    },
+  ],
 } as const satisfies GreatCourse

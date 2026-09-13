@@ -11,8 +11,12 @@ export const worldHeritageSitesExploringTheWorldSGreatestPlaces = {
   ownLength: 714.6,
   ownProgress: 714.6,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
-  source: "the-great-courses",
-  externalId: "world-heritage-sites-exploring-the-world-s-greatest-places",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/world-heritage-sites-exploring-the-world-s-greatest-places",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "world-heritage-sites-exploring-the-world-s-greatest-places",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/world-heritage-sites-exploring-the-world-s-greatest-places",
+    },
+  ],
 } as const satisfies GreatCourse

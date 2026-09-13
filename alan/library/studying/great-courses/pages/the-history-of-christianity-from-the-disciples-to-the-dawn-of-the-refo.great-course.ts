@@ -14,8 +14,12 @@ export const theHistoryOfChristianityFromTheDisciplesToTheDawnOfTheRefo = {
     "history-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-history-of-christianity-from-the-disciples-to-the-dawn-of-the-reformation",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-history-of-christianity-from-the-disciples-to-the-dawn-of-the-reformation",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-history-of-christianity-from-the-disciples-to-the-dawn-of-the-reformation",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-history-of-christianity-from-the-disciples-to-the-dawn-of-the-reformation",
+    },
+  ],
 } as const satisfies GreatCourse

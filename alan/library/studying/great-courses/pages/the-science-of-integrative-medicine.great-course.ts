@@ -14,7 +14,11 @@ export const theScienceOfIntegrativeMedicine = {
     "health-and-mindfulness-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-science-of-integrative-medicine",
-  externalLink: "https://www.thegreatcoursesplus.com/the-science-of-integrative-medicine",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-science-of-integrative-medicine",
+      externalLink: "https://www.thegreatcoursesplus.com/the-science-of-integrative-medicine",
+    },
+  ],
 } as const satisfies GreatCourse

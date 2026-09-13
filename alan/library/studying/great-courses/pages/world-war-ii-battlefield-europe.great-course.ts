@@ -10,7 +10,11 @@ export const worldWarIiBattlefieldEurope = {
   ownLength: 681.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],
-  source: "the-great-courses",
-  externalId: "world-war-ii-battlefield-europe",
-  externalLink: "https://www.thegreatcoursesplus.com/world-war-ii-battlefield-europe",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "world-war-ii-battlefield-europe",
+      externalLink: "https://www.thegreatcoursesplus.com/world-war-ii-battlefield-europe",
+    },
+  ],
 } as const satisfies GreatCourse

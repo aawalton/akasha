@@ -17,7 +17,11 @@ export const theWorldSGreatestChurches = {
     "philosophy-and-religion-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-worlds-greatest-churches",
-  externalLink: "https://www.thegreatcoursesplus.com/the-worlds-greatest-churches",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-worlds-greatest-churches",
+      externalLink: "https://www.thegreatcoursesplus.com/the-worlds-greatest-churches",
+    },
+  ],
 } as const satisfies GreatCourse

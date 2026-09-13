@@ -10,8 +10,12 @@ export const theTheoryOfEverythingTheQuestToExplainAllReality = {
   ownLength: 751.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-theory-of-everything-the-quest-to-explain-all-reality",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-theory-of-everything-the-quest-to-explain-all-reality",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-theory-of-everything-the-quest-to-explain-all-reality",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-theory-of-everything-the-quest-to-explain-all-reality",
+    },
+  ],
 } as const satisfies GreatCourse

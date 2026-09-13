@@ -10,9 +10,13 @@ export const theOriginAndEvolutionOfEarthFromTheBigBangToTheFutureOfH = {
   ownLength: 1521,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId:
-    "the-origin-and-evolution-of-earth-from-the-big-bang-to-the-future-of-human-existence",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-origin-and-evolution-of-earth-from-the-big-bang-to-the-future-of-human-existence",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId:
+        "the-origin-and-evolution-of-earth-from-the-big-bang-to-the-future-of-human-existence",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-origin-and-evolution-of-earth-from-the-big-bang-to-the-future-of-human-existence",
+    },
+  ],
 } as const satisfies GreatCourse

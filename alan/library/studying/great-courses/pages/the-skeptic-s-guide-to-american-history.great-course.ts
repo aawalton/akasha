@@ -10,7 +10,11 @@ export const theSkepticSGuideToAmericanHistory = {
   ownLength: 723.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-skeptics-guide-to-american-history",
-  externalLink: "https://www.thegreatcoursesplus.com/the-skeptics-guide-to-american-history",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-skeptics-guide-to-american-history",
+      externalLink: "https://www.thegreatcoursesplus.com/the-skeptics-guide-to-american-history",
+    },
+  ],
 } as const satisfies GreatCourse

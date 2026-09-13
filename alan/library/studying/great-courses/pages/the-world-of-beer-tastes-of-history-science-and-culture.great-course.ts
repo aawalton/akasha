@@ -10,8 +10,12 @@ export const theWorldOfBeerTastesOfHistoryScienceAndCulture = {
   ownLength: 425.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-world-of-beer-tastes-of-history-science-and-culture",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-world-of-beer-tastes-of-history-science-and-culture",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-world-of-beer-tastes-of-history-science-and-culture",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-world-of-beer-tastes-of-history-science-and-culture",
+    },
+  ],
 } as const satisfies GreatCourse

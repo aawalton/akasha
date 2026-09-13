@@ -10,7 +10,11 @@ export const worldWarIiThePacificTheater = {
   ownLength: 749.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],
-  source: "the-great-courses",
-  externalId: "world-war-ii-the-pacific-theater-8756",
-  externalLink: "https://www.thegreatcoursesplus.com/world-war-ii-the-pacific-theater-8756",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "world-war-ii-the-pacific-theater-8756",
+      externalLink: "https://www.thegreatcoursesplus.com/world-war-ii-the-pacific-theater-8756",
+    },
+  ],
 } as const satisfies GreatCourse

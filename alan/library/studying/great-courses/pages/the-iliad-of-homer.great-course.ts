@@ -10,7 +10,11 @@ export const theIliadOfHomer = {
   ownLength: 365.416667,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-iliad-of-homer",
-  externalLink: "https://www.thegreatcoursesplus.com/the-iliad-of-homer",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-iliad-of-homer",
+      externalLink: "https://www.thegreatcoursesplus.com/the-iliad-of-homer",
+    },
+  ],
 } as const satisfies GreatCourse

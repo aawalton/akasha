@@ -10,7 +10,11 @@ export const whyEconomiesRiseOrFall = {
   ownLength: 727.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
-  source: "the-great-courses",
-  externalId: "why-economies-rise-or-fall",
-  externalLink: "https://www.thegreatcoursesplus.com/why-economies-rise-or-fall",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "why-economies-rise-or-fall",
+      externalLink: "https://www.thegreatcoursesplus.com/why-economies-rise-or-fall",
+    },
+  ],
 } as const satisfies GreatCourse

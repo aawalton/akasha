@@ -14,7 +14,11 @@ export const understandingAndOvercomingFear = {
     "hobby-and-personal-pursuits-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "understanding-and-overcoming-fear",
-  externalLink: "https://www.thegreatcoursesplus.com/understanding-and-overcoming-fear",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-and-overcoming-fear",
+      externalLink: "https://www.thegreatcoursesplus.com/understanding-and-overcoming-fear",
+    },
+  ],
 } as const satisfies GreatCourse

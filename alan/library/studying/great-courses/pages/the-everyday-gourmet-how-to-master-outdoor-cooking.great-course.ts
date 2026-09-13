@@ -11,8 +11,12 @@ export const theEverydayGourmetHowToMasterOutdoorCooking = {
   ownLength: 400.2,
   ownProgress: 400.2,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-everyday-gourmet-how-to-master-outdoor-cooking",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-everyday-gourmet-how-to-master-outdoor-cooking",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-everyday-gourmet-how-to-master-outdoor-cooking",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-everyday-gourmet-how-to-master-outdoor-cooking",
+    },
+  ],
 } as const satisfies GreatCourse

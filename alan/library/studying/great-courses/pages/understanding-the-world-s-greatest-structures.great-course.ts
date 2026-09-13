@@ -16,7 +16,12 @@ export const understandingTheWorldSGreatestStructures = {
     "science-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "understanding-the-worlds-greatest-structures",
-  externalLink: "https://www.thegreatcoursesplus.com/understanding-the-worlds-greatest-structures",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-the-worlds-greatest-structures",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/understanding-the-worlds-greatest-structures",
+    },
+  ],
 } as const satisfies GreatCourse

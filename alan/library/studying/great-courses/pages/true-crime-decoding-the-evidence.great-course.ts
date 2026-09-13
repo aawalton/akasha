@@ -10,7 +10,11 @@ export const trueCrimeDecodingTheEvidence = {
   ownLength: 206.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "true-crime-decoding-the-evidence",
-  externalLink: "https://www.thegreatcoursesplus.com/true-crime-decoding-the-evidence",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "true-crime-decoding-the-evidence",
+      externalLink: "https://www.thegreatcoursesplus.com/true-crime-decoding-the-evidence",
+    },
+  ],
 } as const satisfies GreatCourse

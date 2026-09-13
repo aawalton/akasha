@@ -11,7 +11,11 @@ export const warInTheModernWorld = {
   ownLength: 680.4,
   ownProgress: 680.4,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "war-in-the-modern-world",
-  externalLink: "https://www.thegreatcoursesplus.com/war-in-the-modern-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "war-in-the-modern-world",
+      externalLink: "https://www.thegreatcoursesplus.com/war-in-the-modern-world",
+    },
+  ],
 } as const satisfies GreatCourse

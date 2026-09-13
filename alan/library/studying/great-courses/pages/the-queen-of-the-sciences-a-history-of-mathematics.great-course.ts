@@ -10,8 +10,12 @@ export const theQueenOfTheSciencesAHistoryOfMathematics = {
   ownLength: 736.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "mathematics-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-queen-of-the-sciences-a-history-of-mathematics",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-queen-of-the-sciences-a-history-of-mathematics",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-queen-of-the-sciences-a-history-of-mathematics",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-queen-of-the-sciences-a-history-of-mathematics",
+    },
+  ],
 } as const satisfies GreatCourse

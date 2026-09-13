@@ -14,8 +14,12 @@ export const theHistoryOfChristianityIiFromTheReformationToTheModernMega = {
     "history-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-history-of-christianity-ii-from-the-reformation-to-the-modern-megachurch",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-history-of-christianity-ii-from-the-reformation-to-the-modern-megachurch",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-history-of-christianity-ii-from-the-reformation-to-the-modern-megachurch",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-history-of-christianity-ii-from-the-reformation-to-the-modern-megachurch",
+    },
+  ],
 } as const satisfies GreatCourse

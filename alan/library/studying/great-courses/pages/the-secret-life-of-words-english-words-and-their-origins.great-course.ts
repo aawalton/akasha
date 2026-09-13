@@ -10,8 +10,12 @@ export const theSecretLifeOfWordsEnglishWordsAndTheirOrigins = {
   ownLength: 1101.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-secret-life-of-words-english-words-and-their-origins",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-secret-life-of-words-english-words-and-their-origins",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-secret-life-of-words-english-words-and-their-origins",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-secret-life-of-words-english-words-and-their-origins",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,8 +10,12 @@ export const williamShakespeareComediesHistoriesAndTragedies = {
   ownLength: 1093.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "william-shakespeare-comedies-histories-and-tragedies",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/william-shakespeare-comedies-histories-and-tragedies",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "william-shakespeare-comedies-histories-and-tragedies",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/william-shakespeare-comedies-histories-and-tragedies",
+    },
+  ],
 } as const satisfies GreatCourse

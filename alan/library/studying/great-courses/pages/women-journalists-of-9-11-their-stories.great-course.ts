@@ -10,7 +10,11 @@ export const womenJournalistsOf911TheirStories = {
   ownLength: 325.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "women-journalists-of-9-11-their-stories",
-  externalLink: "https://www.thegreatcoursesplus.com/women-journalists-of-9-11-their-stories",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "women-journalists-of-9-11-their-stories",
+      externalLink: "https://www.thegreatcoursesplus.com/women-journalists-of-9-11-their-stories",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -15,7 +15,11 @@ export const viralIntelligenceWhatIsCoronavirus = {
     "health-and-mindfulness-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "viral-intelligence-whatiscoronavirus",
-  externalLink: "https://www.thegreatcoursesplus.com/viral-intelligence-whatiscoronavirus",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "viral-intelligence-whatiscoronavirus",
+      externalLink: "https://www.thegreatcoursesplus.com/viral-intelligence-whatiscoronavirus",
+    },
+  ],
 } as const satisfies GreatCourse

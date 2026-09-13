@@ -10,7 +10,11 @@ export const theVaticanAndTheWorldOfItalianArt = {
   ownLength: 14,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "art-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-vatican-and-the-world-of-italian-art",
-  externalLink: "https://plus.thegreatcourses.com/the-vatican-and-the-world-of-italian-art",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-vatican-and-the-world-of-italian-art",
+      externalLink: "https://plus.thegreatcourses.com/the-vatican-and-the-world-of-italian-art",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,7 +10,11 @@ export const zeroToInfinityAHistoryOfNumbers = {
   ownLength: 725.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "mathematics-great-courses"],
-  source: "the-great-courses",
-  externalId: "zero-to-infinity-a-history-of-numbers",
-  externalLink: "https://www.thegreatcoursesplus.com/zero-to-infinity-a-history-of-numbers",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "zero-to-infinity-a-history-of-numbers",
+      externalLink: "https://www.thegreatcoursesplus.com/zero-to-infinity-a-history-of-numbers",
+    },
+  ],
 } as const satisfies GreatCourse

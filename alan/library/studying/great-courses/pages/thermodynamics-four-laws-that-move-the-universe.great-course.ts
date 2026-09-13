@@ -10,8 +10,12 @@ export const thermodynamicsFourLawsThatMoveTheUniverse = {
   ownLength: 756,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "thermodynamics-four-laws-that-move-the-universe",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/thermodynamics-four-laws-that-move-the-universe",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "thermodynamics-four-laws-that-move-the-universe",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/thermodynamics-four-laws-that-move-the-universe",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,7 +10,11 @@ export const whatEinsteinGotWrong = {
   ownLength: 345.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "what-einstein-got-wrong",
-  externalLink: "https://www.thegreatcoursesplus.com/what-einstein-got-wrong",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "what-einstein-got-wrong",
+      externalLink: "https://www.thegreatcoursesplus.com/what-einstein-got-wrong",
+    },
+  ],
 } as const satisfies GreatCourse

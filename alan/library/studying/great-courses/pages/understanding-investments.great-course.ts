@@ -15,7 +15,11 @@ export const understandingInvestments = {
     "hobby-and-personal-pursuits-great-courses",
     "mathematics-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "understanding-investments",
-  externalLink: "https://www.thegreatcoursesplus.com/understanding-investments",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-investments",
+      externalLink: "https://www.thegreatcoursesplus.com/understanding-investments",
+    },
+  ],
 } as const satisfies GreatCourse

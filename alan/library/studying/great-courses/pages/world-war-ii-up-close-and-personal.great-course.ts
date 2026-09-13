@@ -10,7 +10,11 @@ export const worldWarIiUpCloseAndPersonal = {
   ownLength: 693,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "world-war-ii-up-close-and-personal",
-  externalLink: "https://www.thegreatcoursesplus.com/world-war-ii-up-close-and-personal",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "world-war-ii-up-close-and-personal",
+      externalLink: "https://www.thegreatcoursesplus.com/world-war-ii-up-close-and-personal",
+    },
+  ],
 } as const satisfies GreatCourse

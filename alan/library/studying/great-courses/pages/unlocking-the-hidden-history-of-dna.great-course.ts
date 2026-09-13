@@ -10,7 +10,11 @@ export const unlockingTheHiddenHistoryOfDna = {
   ownLength: 383.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "unlocking-the-hidden-history-of-dna",
-  externalLink: "https://www.thegreatcoursesplus.com/unlocking-the-hidden-history-of-dna",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "unlocking-the-hidden-history-of-dna",
+      externalLink: "https://www.thegreatcoursesplus.com/unlocking-the-hidden-history-of-dna",
+    },
+  ],
 } as const satisfies GreatCourse

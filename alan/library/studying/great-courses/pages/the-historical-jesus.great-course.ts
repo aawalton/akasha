@@ -10,7 +10,11 @@ export const theHistoricalJesus = {
   ownLength: 733.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-historical-jesus",
-  externalLink: "https://www.thegreatcoursesplus.com/the-historical-jesus",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-historical-jesus",
+      externalLink: "https://www.thegreatcoursesplus.com/the-historical-jesus",
+    },
+  ],
 } as const satisfies GreatCourse

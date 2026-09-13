@@ -14,8 +14,12 @@ export const yourPublicPersonaSelfPresentationInEverydayLife = {
     "hobby-and-personal-pursuits-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "your-public-persona-self-presentation-in-everyday-life",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/your-public-persona-self-presentation-in-everyday-life",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "your-public-persona-self-presentation-in-everyday-life",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/your-public-persona-self-presentation-in-everyday-life",
+    },
+  ],
 } as const satisfies GreatCourse

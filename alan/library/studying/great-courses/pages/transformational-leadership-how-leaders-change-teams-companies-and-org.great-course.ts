@@ -14,8 +14,13 @@ export const transformationalLeadershipHowLeadersChangeTeamsCompaniesAndOrg = {
     "business-and-finance-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "transformational-leadership-how-leaders-change-teams-companies-and-organizations",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/transformational-leadership-how-leaders-change-teams-companies-and-organizations",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId:
+        "transformational-leadership-how-leaders-change-teams-companies-and-organizations",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/transformational-leadership-how-leaders-change-teams-companies-and-organizations",
+    },
+  ],
 } as const satisfies GreatCourse

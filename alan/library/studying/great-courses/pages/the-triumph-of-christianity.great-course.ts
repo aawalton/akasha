@@ -10,7 +10,11 @@ export const theTriumphOfChristianity = {
   ownLength: 681.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-triumph-of-christianity",
-  externalLink: "https://www.thegreatcoursesplus.com/the-triumph-of-christianity",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-triumph-of-christianity",
+      externalLink: "https://www.thegreatcoursesplus.com/the-triumph-of-christianity",
+    },
+  ],
 } as const satisfies GreatCourse

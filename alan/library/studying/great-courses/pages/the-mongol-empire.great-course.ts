@@ -10,7 +10,11 @@ export const theMongolEmpire = {
   ownLength: 693.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-mongol-empire",
-  externalLink: "https://www.thegreatcoursesplus.com/the-mongol-empire",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-mongol-empire",
+      externalLink: "https://www.thegreatcoursesplus.com/the-mongol-empire",
+    },
+  ],
 } as const satisfies GreatCourse

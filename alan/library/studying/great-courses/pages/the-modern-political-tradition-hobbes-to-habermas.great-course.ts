@@ -14,8 +14,12 @@ export const theModernPoliticalTraditionHobbesToHabermas = {
     "learning-paths-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-modern-political-tradition-hobbes-to-habermas",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-modern-political-tradition-hobbes-to-habermas",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-modern-political-tradition-hobbes-to-habermas",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-modern-political-tradition-hobbes-to-habermas",
+    },
+  ],
 } as const satisfies GreatCourse

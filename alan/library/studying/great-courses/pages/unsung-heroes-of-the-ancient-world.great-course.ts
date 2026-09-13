@@ -10,7 +10,11 @@ export const unsungHeroesOfTheAncientWorld = {
   ownLength: 803.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "unsung-heroes-of-the-ancient-world",
-  externalLink: "https://www.thegreatcoursesplus.com/unsung-heroes-of-the-ancient-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "unsung-heroes-of-the-ancient-world",
+      externalLink: "https://www.thegreatcoursesplus.com/unsung-heroes-of-the-ancient-world",
+    },
+  ],
 } as const satisfies GreatCourse

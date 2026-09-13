@@ -10,7 +10,11 @@ export const turningPointsInAmericanHistory = {
   ownLength: 1465.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "turning-points-in-american-history",
-  externalLink: "https://www.thegreatcoursesplus.com/turning-points-in-american-history",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "turning-points-in-american-history",
+      externalLink: "https://www.thegreatcoursesplus.com/turning-points-in-american-history",
+    },
+  ],
 } as const satisfies GreatCourse

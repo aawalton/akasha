@@ -14,7 +14,11 @@ export const theSecretsOfMentalMath = {
     "mathematics-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-secrets-of-mental-math",
-  externalLink: "https://www.thegreatcoursesplus.com/the-secrets-of-mental-math",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-secrets-of-mental-math",
+      externalLink: "https://www.thegreatcoursesplus.com/the-secrets-of-mental-math",
+    },
+  ],
 } as const satisfies GreatCourse

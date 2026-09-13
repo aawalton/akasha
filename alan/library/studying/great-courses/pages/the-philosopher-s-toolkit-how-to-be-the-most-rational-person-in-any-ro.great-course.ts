@@ -15,8 +15,12 @@ export const thePhilosopherSToolkitHowToBeTheMostRationalPersonInAnyRo = {
     "professional-growth-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-philosophers-toolkit-how-to-be-the-most-rational-person-in-any-room",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-philosophers-toolkit-how-to-be-the-most-rational-person-in-any-room",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-philosophers-toolkit-how-to-be-the-most-rational-person-in-any-room",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-philosophers-toolkit-how-to-be-the-most-rational-person-in-any-room",
+    },
+  ],
 } as const satisfies GreatCourse

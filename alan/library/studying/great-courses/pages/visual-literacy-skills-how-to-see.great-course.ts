@@ -10,7 +10,11 @@ export const visualLiteracySkillsHowToSee = {
   ownLength: 589.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "visual-literacy-skills-how-to-see",
-  externalLink: "https://www.thegreatcoursesplus.com/visual-literacy-skills-how-to-see",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "visual-literacy-skills-how-to-see",
+      externalLink: "https://www.thegreatcoursesplus.com/visual-literacy-skills-how-to-see",
+    },
+  ],
 } as const satisfies GreatCourse

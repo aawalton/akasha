@@ -14,7 +14,12 @@ export const theGreatQuestionsOfPhilosophyAndPhysics = {
     "philosophy-and-religion-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-great-questions-of-philosophy-and-physics",
-  externalLink: "https://www.thegreatcoursesplus.com/the-great-questions-of-philosophy-and-physics",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-great-questions-of-philosophy-and-physics",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-great-questions-of-philosophy-and-physics",
+    },
+  ],
 } as const satisfies GreatCourse

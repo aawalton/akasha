@@ -10,7 +10,11 @@ export const victorianBritain = {
   ownLength: 1107,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "victorian-britain",
-  externalLink: "https://www.thegreatcoursesplus.com/victorian-britain",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "victorian-britain",
+      externalLink: "https://www.thegreatcoursesplus.com/victorian-britain",
+    },
+  ],
 } as const satisfies GreatCourse

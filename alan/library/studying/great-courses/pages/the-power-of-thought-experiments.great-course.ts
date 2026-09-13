@@ -10,7 +10,11 @@ export const thePowerOfThoughtExperiments = {
   ownLength: 714,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-power-of-thought-experiments",
-  externalLink: "https://www.thegreatcoursesplus.com/the-power-of-thought-experiments",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-power-of-thought-experiments",
+      externalLink: "https://www.thegreatcoursesplus.com/the-power-of-thought-experiments",
+    },
+  ],
 } as const satisfies GreatCourse

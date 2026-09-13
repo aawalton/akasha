@@ -15,7 +15,11 @@ export const theGreatToursFranceThroughTheAges = {
     "history-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-great-tours-france-through-the-ages",
-  externalLink: "https://www.thegreatcoursesplus.com/the-great-tours-france-through-the-ages",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-great-tours-france-through-the-ages",
+      externalLink: "https://www.thegreatcoursesplus.com/the-great-tours-france-through-the-ages",
+    },
+  ],
 } as const satisfies GreatCourse

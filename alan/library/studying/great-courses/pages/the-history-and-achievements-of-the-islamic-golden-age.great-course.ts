@@ -14,8 +14,12 @@ export const theHistoryAndAchievementsOfTheIslamicGoldenAge = {
     "history-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-history-and-achievements-of-the-islamic-golden-age",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-history-and-achievements-of-the-islamic-golden-age",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-history-and-achievements-of-the-islamic-golden-age",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-history-and-achievements-of-the-islamic-golden-age",
+    },
+  ],
 } as const satisfies GreatCourse

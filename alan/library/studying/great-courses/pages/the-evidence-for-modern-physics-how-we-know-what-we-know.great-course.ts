@@ -10,8 +10,12 @@ export const theEvidenceForModernPhysicsHowWeKnowWhatWeKnow = {
   ownLength: 712.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-evidence-for-modern-physics-how-we-know-what-we-know",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-evidence-for-modern-physics-how-we-know-what-we-know",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-evidence-for-modern-physics-how-we-know-what-we-know",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-evidence-for-modern-physics-how-we-know-what-we-know",
+    },
+  ],
 } as const satisfies GreatCourse

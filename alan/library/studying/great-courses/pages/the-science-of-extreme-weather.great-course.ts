@@ -10,7 +10,11 @@ export const theScienceOfExtremeWeather = {
   ownLength: 778.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-science-of-extreme-weather",
-  externalLink: "https://www.thegreatcoursesplus.com/the-science-of-extreme-weather",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-science-of-extreme-weather",
+      externalLink: "https://www.thegreatcoursesplus.com/the-science-of-extreme-weather",
+    },
+  ],
 } as const satisfies GreatCourse

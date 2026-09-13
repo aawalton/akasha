@@ -10,7 +10,11 @@ export const theSecretWorldOfEspionage = {
   ownLength: 269.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-secret-world-of-espionage",
-  externalLink: "https://www.thegreatcoursesplus.com/the-secret-world-of-espionage",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-secret-world-of-espionage",
+      externalLink: "https://www.thegreatcoursesplus.com/the-secret-world-of-espionage",
+    },
+  ],
 } as const satisfies GreatCourse

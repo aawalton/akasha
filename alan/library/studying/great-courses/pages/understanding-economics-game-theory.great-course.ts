@@ -10,7 +10,11 @@ export const understandingEconomicsGameTheory = {
   ownLength: 360,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
-  source: "the-great-courses",
-  externalId: "understanding-economics-game-theory",
-  externalLink: "https://www.thegreatcoursesplus.com/understanding-economics-game-theory",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-economics-game-theory",
+      externalLink: "https://www.thegreatcoursesplus.com/understanding-economics-game-theory",
+    },
+  ],
 } as const satisfies GreatCourse

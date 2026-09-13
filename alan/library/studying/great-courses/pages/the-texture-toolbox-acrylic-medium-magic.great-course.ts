@@ -15,7 +15,11 @@ export const theTextureToolboxAcrylicMediumMagic = {
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-texture-toolbox-acrylic-medium-magic",
-  externalLink: "https://www.thegreatcoursesplus.com/the-texture-toolbox-acrylic-medium-magic",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-texture-toolbox-acrylic-medium-magic",
+      externalLink: "https://www.thegreatcoursesplus.com/the-texture-toolbox-acrylic-medium-magic",
+    },
+  ],
 } as const satisfies GreatCourse

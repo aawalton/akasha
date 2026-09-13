@@ -10,7 +10,11 @@ export const theItalianRenaissance = {
   ownLength: 1091.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-italian-renaissance",
-  externalLink: "https://www.thegreatcoursesplus.com/the-italian-renaissance",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-italian-renaissance",
+      externalLink: "https://www.thegreatcoursesplus.com/the-italian-renaissance",
+    },
+  ],
 } as const satisfies GreatCourse

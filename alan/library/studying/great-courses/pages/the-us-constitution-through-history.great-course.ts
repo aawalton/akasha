@@ -10,7 +10,11 @@ export const theUsConstitutionThroughHistory = {
   ownLength: 856.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-us-constitution-through-history",
-  externalLink: "https://www.thegreatcoursesplus.com/the-us-constitution-through-history",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-us-constitution-through-history",
+      externalLink: "https://www.thegreatcoursesplus.com/the-us-constitution-through-history",
+    },
+  ],
 } as const satisfies GreatCourse

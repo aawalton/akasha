@@ -10,8 +10,12 @@ export const toolsOfThinkingUnderstandingTheWorldThroughExperienceAndReaso = {
   ownLength: 728.866667,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "tools-of-thinking-understanding-the-world-through-experience-and-reason",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/tools-of-thinking-understanding-the-world-through-experience-and-reason",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "tools-of-thinking-understanding-the-world-through-experience-and-reason",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/tools-of-thinking-understanding-the-world-through-experience-and-reason",
+    },
+  ],
 } as const satisfies GreatCourse

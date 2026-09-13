@@ -10,7 +10,11 @@ export const understandingTheFundamentalsOfMusic = {
   ownLength: 730.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "music-great-courses"],
-  source: "the-great-courses",
-  externalId: "understanding-the-fundamentals-of-music",
-  externalLink: "https://www.thegreatcoursesplus.com/understanding-the-fundamentals-of-music",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-the-fundamentals-of-music",
+      externalLink: "https://www.thegreatcoursesplus.com/understanding-the-fundamentals-of-music",
+    },
+  ],
 } as const satisfies GreatCourse

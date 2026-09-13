@@ -10,7 +10,11 @@ export const theMindBendingPhysicsOfStringTheory = {
   ownLength: 255,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-mind-bending-physics-of-string-theory",
-  externalLink: "https://www.thegreatcoursesplus.com/the-mind-bending-physics-of-string-theory",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-mind-bending-physics-of-string-theory",
+      externalLink: "https://www.thegreatcoursesplus.com/the-mind-bending-physics-of-string-theory",
+    },
+  ],
 } as const satisfies GreatCourse

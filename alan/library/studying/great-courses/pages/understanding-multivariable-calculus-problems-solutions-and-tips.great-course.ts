@@ -10,8 +10,12 @@ export const understandingMultivariableCalculusProblemsSolutionsAndTips = {
   ownLength: 1103.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "mathematics-great-courses"],
-  source: "the-great-courses",
-  externalId: "understanding-multivariable-calculus-problems-solutions-and-tips",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/understanding-multivariable-calculus-problems-solutions-and-tips",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-multivariable-calculus-problems-solutions-and-tips",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/understanding-multivariable-calculus-problems-solutions-and-tips",
+    },
+  ],
 } as const satisfies GreatCourse

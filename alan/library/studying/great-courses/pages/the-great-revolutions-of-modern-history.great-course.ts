@@ -10,7 +10,11 @@ export const theGreatRevolutionsOfModernHistory = {
   ownLength: 768,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-great-revolutions-of-modern-history",
-  externalLink: "https://www.thegreatcoursesplus.com/the-great-revolutions-of-modern-history",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-great-revolutions-of-modern-history",
+      externalLink: "https://www.thegreatcoursesplus.com/the-great-revolutions-of-modern-history",
+    },
+  ],
 } as const satisfies GreatCourse

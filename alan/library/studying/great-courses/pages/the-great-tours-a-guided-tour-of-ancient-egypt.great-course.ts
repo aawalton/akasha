@@ -15,8 +15,12 @@ export const theGreatToursAGuidedTourOfAncientEgypt = {
     "history-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-great-tours-a-guided-tour-of-ancient-egypt",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-great-tours-a-guided-tour-of-ancient-egypt",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-great-tours-a-guided-tour-of-ancient-egypt",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-great-tours-a-guided-tour-of-ancient-egypt",
+    },
+  ],
 } as const satisfies GreatCourse

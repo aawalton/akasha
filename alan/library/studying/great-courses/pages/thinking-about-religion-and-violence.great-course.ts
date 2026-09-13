@@ -14,7 +14,11 @@ export const thinkingAboutReligionAndViolence = {
     "history-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "thinking-about-religion-and-violence",
-  externalLink: "https://www.thegreatcoursesplus.com/thinking-about-religion-and-violence",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "thinking-about-religion-and-violence",
+      externalLink: "https://www.thegreatcoursesplus.com/thinking-about-religion-and-violence",
+    },
+  ],
 } as const satisfies GreatCourse

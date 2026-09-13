@@ -10,8 +10,12 @@ export const theIrishIdentityIndependenceHistoryAndLiterature = {
   ownLength: 1124.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-irish-identity-independence-history-and-literature",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-irish-identity-independence-history-and-literature",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-irish-identity-independence-history-and-literature",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-irish-identity-independence-history-and-literature",
+    },
+  ],
 } as const satisfies GreatCourse

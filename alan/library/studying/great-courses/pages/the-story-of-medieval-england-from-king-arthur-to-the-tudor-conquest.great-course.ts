@@ -10,8 +10,12 @@ export const theStoryOfMedievalEnglandFromKingArthurToTheTudorConquest = {
   ownLength: 1147.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-story-of-medieval-england-from-king-arthur-to-the-tudor-conquest",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-story-of-medieval-england-from-king-arthur-to-the-tudor-conquest",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-story-of-medieval-england-from-king-arthur-to-the-tudor-conquest",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-story-of-medieval-england-from-king-arthur-to-the-tudor-conquest",
+    },
+  ],
 } as const satisfies GreatCourse

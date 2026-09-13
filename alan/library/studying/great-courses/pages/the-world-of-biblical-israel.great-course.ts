@@ -15,7 +15,11 @@ export const theWorldOfBiblicalIsrael = {
     "history-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-world-of-biblical-israel",
-  externalLink: "https://www.thegreatcoursesplus.com/the-world-of-biblical-israel",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-world-of-biblical-israel",
+      externalLink: "https://www.thegreatcoursesplus.com/the-world-of-biblical-israel",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -15,8 +15,12 @@ export const theGreatToursGreeceAndTurkeyFromAthensToIstanbul = {
     "history-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-great-tours-greece-and-turkey-from-athens-to-istanbul",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-great-tours-greece-and-turkey-from-athens-to-istanbul",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-great-tours-greece-and-turkey-from-athens-to-istanbul",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-great-tours-greece-and-turkey-from-athens-to-istanbul",
+    },
+  ],
 } as const satisfies GreatCourse

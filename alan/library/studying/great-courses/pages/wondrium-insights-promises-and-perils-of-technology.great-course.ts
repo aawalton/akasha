@@ -14,8 +14,12 @@ export const wondriumInsightsPromisesAndPerilsOfTechnology = {
     "hobby-and-personal-pursuits-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "wondrium-insights-promises-and-perils-of-technology",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/wondrium-insights-promises-and-perils-of-technology",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "wondrium-insights-promises-and-perils-of-technology",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/wondrium-insights-promises-and-perils-of-technology",
+    },
+  ],
 } as const satisfies GreatCourse

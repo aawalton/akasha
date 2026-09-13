@@ -11,7 +11,11 @@ export const theGreatToursAfricanSafari = {
   ownLength: 740.4,
   ownProgress: 740.4,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-great-tours-african-safari",
-  externalLink: "https://www.thegreatcoursesplus.com/the-great-tours-african-safari",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-great-tours-african-safari",
+      externalLink: "https://www.thegreatcoursesplus.com/the-great-tours-african-safari",
+    },
+  ],
 } as const satisfies GreatCourse

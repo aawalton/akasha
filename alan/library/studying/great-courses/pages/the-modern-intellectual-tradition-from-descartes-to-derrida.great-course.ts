@@ -14,8 +14,12 @@ export const theModernIntellectualTraditionFromDescartesToDerrida = {
     "learning-paths-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-modern-intellectual-tradition-from-descartes-to-derrida",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-modern-intellectual-tradition-from-descartes-to-derrida",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-modern-intellectual-tradition-from-descartes-to-derrida",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-modern-intellectual-tradition-from-descartes-to-derrida",
+    },
+  ],
 } as const satisfies GreatCourse

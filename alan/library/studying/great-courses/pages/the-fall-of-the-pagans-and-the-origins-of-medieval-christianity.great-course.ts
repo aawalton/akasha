@@ -10,8 +10,12 @@ export const theFallOfThePagansAndTheOriginsOfMedievalChristianity = {
   ownLength: 752.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-fall-of-the-pagans-and-the-origins-of-medieval-christianity",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-fall-of-the-pagans-and-the-origins-of-medieval-christianity",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-fall-of-the-pagans-and-the-origins-of-medieval-christianity",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-fall-of-the-pagans-and-the-origins-of-medieval-christianity",
+    },
+  ],
 } as const satisfies GreatCourse

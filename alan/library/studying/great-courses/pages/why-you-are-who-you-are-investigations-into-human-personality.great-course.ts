@@ -15,8 +15,12 @@ export const whyYouAreWhoYouAreInvestigationsIntoHumanPersonality = {
     "learning-paths-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "why-you-are-who-you-are-investigations-into-human-personality",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/why-you-are-who-you-are-investigations-into-human-personality",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "why-you-are-who-you-are-investigations-into-human-personality",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/why-you-are-who-you-are-investigations-into-human-personality",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,7 +10,11 @@ export const theHiggsBosonAndBeyond = {
   ownLength: 382.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-higgs-boson-and-beyond",
-  externalLink: "https://www.thegreatcoursesplus.com/the-higgs-boson-and-beyond",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-higgs-boson-and-beyond",
+      externalLink: "https://www.thegreatcoursesplus.com/the-higgs-boson-and-beyond",
+    },
+  ],
 } as const satisfies GreatCourse

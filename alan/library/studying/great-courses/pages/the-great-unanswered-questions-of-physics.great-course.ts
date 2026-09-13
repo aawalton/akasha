@@ -10,7 +10,11 @@ export const theGreatUnansweredQuestionsOfPhysics = {
   ownLength: 751.3,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-great-unanswered-questions-of-physics",
-  externalLink: "https://www.thegreatcoursesplus.com/the-great-unanswered-questions-of-physics",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-great-unanswered-questions-of-physics",
+      externalLink: "https://www.thegreatcoursesplus.com/the-great-unanswered-questions-of-physics",
+    },
+  ],
 } as const satisfies GreatCourse

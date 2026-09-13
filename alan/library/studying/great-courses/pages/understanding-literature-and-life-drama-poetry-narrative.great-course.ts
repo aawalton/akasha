@@ -10,8 +10,12 @@ export const understandingLiteratureAndLifeDramaPoetryNarrative = {
   ownLength: 1976.883333,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "understanding-literature-and-life-drama-poetry-narrative",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/understanding-literature-and-life-drama-poetry-narrative",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-literature-and-life-drama-poetry-narrative",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/understanding-literature-and-life-drama-poetry-narrative",
+    },
+  ],
 } as const satisfies GreatCourse

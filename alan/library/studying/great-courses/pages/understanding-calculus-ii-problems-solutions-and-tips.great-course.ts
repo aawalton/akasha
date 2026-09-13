@@ -14,8 +14,12 @@ export const understandingCalculusIiProblemsSolutionsAndTips = {
     "learning-paths-great-courses",
     "mathematics-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "understanding-calculus-ii-problems-solutions-and-tips",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/understanding-calculus-ii-problems-solutions-and-tips",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-calculus-ii-problems-solutions-and-tips",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/understanding-calculus-ii-problems-solutions-and-tips",
+    },
+  ],
 } as const satisfies GreatCourse

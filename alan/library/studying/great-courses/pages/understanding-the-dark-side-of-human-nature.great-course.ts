@@ -10,7 +10,12 @@ export const understandingTheDarkSideOfHumanNature = {
   ownLength: 740.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "understanding-the-dark-side-of-human-nature",
-  externalLink: "https://www.thegreatcoursesplus.com/understanding-the-dark-side-of-human-nature",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-the-dark-side-of-human-nature",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/understanding-the-dark-side-of-human-nature",
+    },
+  ],
 } as const satisfies GreatCourse

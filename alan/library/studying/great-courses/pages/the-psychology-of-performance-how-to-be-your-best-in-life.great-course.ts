@@ -16,8 +16,12 @@ export const thePsychologyOfPerformanceHowToBeYourBestInLife = {
     "professional-growth-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-psychology-of-performance-how-to-be-your-best-in-life",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-psychology-of-performance-how-to-be-your-best-in-life",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-psychology-of-performance-how-to-be-your-best-in-life",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-psychology-of-performance-how-to-be-your-best-in-life",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,8 +10,12 @@ export const theSkepticSGuideToHealthMedicineAndTheMedia = {
   ownLength: 750.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-skeptics-guide-to-health-medicine-and-the-media",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-skeptics-guide-to-health-medicine-and-the-media",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-skeptics-guide-to-health-medicine-and-the-media",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-skeptics-guide-to-health-medicine-and-the-media",
+    },
+  ],
 } as const satisfies GreatCourse

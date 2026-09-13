@@ -10,7 +10,11 @@ export const utopiaAndTerrorInThe20thCentury = {
   ownLength: 746.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "utopia-and-terror-in-the-20th-century",
-  externalLink: "https://www.thegreatcoursesplus.com/utopia-and-terror-in-the-20th-century",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "utopia-and-terror-in-the-20th-century",
+      externalLink: "https://www.thegreatcoursesplus.com/utopia-and-terror-in-the-20th-century",
+    },
+  ],
 } as const satisfies GreatCourse

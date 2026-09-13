@@ -10,8 +10,12 @@ export const understandingTheUniverseAnIntroductionToAstronomy2ndEdition = {
   ownLength: 3000,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "understanding-the-universe-an-introduction-to-astronomy-2nd-edition",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/understanding-the-universe-an-introduction-to-astronomy-2nd-edition",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-the-universe-an-introduction-to-astronomy-2nd-edition",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/understanding-the-universe-an-introduction-to-astronomy-2nd-edition",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,8 +10,12 @@ export const writingAndCivilizationFromAncientWorldsToModernity = {
   ownLength: 728.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "writing-and-civilization-from-ancient-worlds-to-modernity",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/writing-and-civilization-from-ancient-worlds-to-modernity",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "writing-and-civilization-from-ancient-worlds-to-modernity",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/writing-and-civilization-from-ancient-worlds-to-modernity",
+    },
+  ],
 } as const satisfies GreatCourse

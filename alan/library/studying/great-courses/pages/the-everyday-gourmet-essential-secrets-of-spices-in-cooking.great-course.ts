@@ -11,8 +11,12 @@ export const theEverydayGourmetEssentialSecretsOfSpicesInCooking = {
   ownLength: 195.6,
   ownProgress: 195.6,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-everyday-gourmet-essential-secrets-of-spices-in-cooking",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-everyday-gourmet-essential-secrets-of-spices-in-cooking",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-everyday-gourmet-essential-secrets-of-spices-in-cooking",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-everyday-gourmet-essential-secrets-of-spices-in-cooking",
+    },
+  ],
 } as const satisfies GreatCourse

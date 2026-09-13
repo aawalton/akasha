@@ -10,7 +10,12 @@ export const theGreatToursTheWorldSMostSacredSites = {
   ownLength: 708.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-great-tours-the-world-s-most-sacred-sites",
-  externalLink: "https://www.thegreatcoursesplus.com/the-great-tours-the-world-s-most-sacred-sites",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-great-tours-the-world-s-most-sacred-sites",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-great-tours-the-world-s-most-sacred-sites",
+    },
+  ],
 } as const satisfies GreatCourse

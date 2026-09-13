@@ -10,7 +10,11 @@ export const theGreatVillainsOfHistory = {
   ownLength: 24,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-great-villains-of-history",
-  externalLink: "https://plus.thegreatcourses.com/the-great-villains-of-history",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-great-villains-of-history",
+      externalLink: "https://plus.thegreatcourses.com/the-great-villains-of-history",
+    },
+  ],
 } as const satisfies GreatCourse

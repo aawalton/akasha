@@ -14,7 +14,11 @@ export const theMayoClinicGuideToPainRelief = {
     "health-and-mindfulness-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-mayo-clinic-guide-to-pain-relief",
-  externalLink: "https://www.thegreatcoursesplus.com/the-mayo-clinic-guide-to-pain-relief",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-mayo-clinic-guide-to-pain-relief",
+      externalLink: "https://www.thegreatcoursesplus.com/the-mayo-clinic-guide-to-pain-relief",
+    },
+  ],
 } as const satisfies GreatCourse

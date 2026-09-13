@@ -11,7 +11,11 @@ export const theRealAncientEgypt = {
   ownLength: 235.2,
   ownProgress: 235.2,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-real-ancient-egypt",
-  externalLink: "https://www.thegreatcoursesplus.com/the-real-ancient-egypt",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-real-ancient-egypt",
+      externalLink: "https://www.thegreatcoursesplus.com/the-real-ancient-egypt",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -11,7 +11,11 @@ export const theUltimateTShirtQuilt = {
   ownLength: 147.6,
   ownProgress: 147.6,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-ultimate-t-shirt-quilt",
-  externalLink: "https://www.thegreatcoursesplus.com/the-ultimate-t-shirt-quilt",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-ultimate-t-shirt-quilt",
+      externalLink: "https://www.thegreatcoursesplus.com/the-ultimate-t-shirt-quilt",
+    },
+  ],
 } as const satisfies GreatCourse

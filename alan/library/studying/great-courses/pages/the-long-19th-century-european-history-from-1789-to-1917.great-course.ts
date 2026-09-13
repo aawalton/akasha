@@ -10,8 +10,12 @@ export const theLong19thCenturyEuropeanHistoryFrom1789To1917 = {
   ownLength: 1101,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-long-19th-century-european-history-from-1789-to-1917",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-long-19th-century-european-history-from-1789-to-1917",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-long-19th-century-european-history-from-1789-to-1917",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-long-19th-century-european-history-from-1789-to-1917",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -16,7 +16,11 @@ export const thePaganWorldAncientReligionsBeforeChristianity = {
     "learning-paths-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-pagan-world",
-  externalLink: "https://www.thegreatcoursesplus.com/the-pagan-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-pagan-world",
+      externalLink: "https://www.thegreatcoursesplus.com/the-pagan-world",
+    },
+  ],
 } as const satisfies GreatCourse

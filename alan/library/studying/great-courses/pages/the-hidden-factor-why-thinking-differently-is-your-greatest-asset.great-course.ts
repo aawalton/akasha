@@ -15,8 +15,12 @@ export const theHiddenFactorWhyThinkingDifferentlyIsYourGreatestAsset = {
     "professional-growth-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-hidden-factor-why-thinking-differently-is-your-greatest-asset",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-hidden-factor-why-thinking-differently-is-your-greatest-asset",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-hidden-factor-why-thinking-differently-is-your-greatest-asset",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-hidden-factor-why-thinking-differently-is-your-greatest-asset",
+    },
+  ],
 } as const satisfies GreatCourse

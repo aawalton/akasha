@@ -11,7 +11,11 @@ export const theHistoryOfChristmasConcertMusic = {
   ownLength: 42,
   ownProgress: 42,
   partOfCollections: ["all-great-courses", "music-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-history-of-christmas-concert-music",
-  externalLink: "https://www.thegreatcoursesplus.com/the-history-of-christmas-concert-music",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-history-of-christmas-concert-music",
+      externalLink: "https://www.thegreatcoursesplus.com/the-history-of-christmas-concert-music",
+    },
+  ],
 } as const satisfies GreatCourse

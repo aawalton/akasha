@@ -10,7 +10,11 @@ export const theMythsOfNutritionAndFitness = {
   ownLength: 190.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-myths-of-nutrition-and-fitness",
-  externalLink: "https://www.thegreatcoursesplus.com/the-myths-of-nutrition-and-fitness",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-myths-of-nutrition-and-fitness",
+      externalLink: "https://www.thegreatcoursesplus.com/the-myths-of-nutrition-and-fitness",
+    },
+  ],
 } as const satisfies GreatCourse

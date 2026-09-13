@@ -10,7 +10,11 @@ export const thePersianEmpire = {
   ownLength: 718.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-persian-empire",
-  externalLink: "https://www.thegreatcoursesplus.com/the-persian-empire",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-persian-empire",
+      externalLink: "https://www.thegreatcoursesplus.com/the-persian-empire",
+    },
+  ],
 } as const satisfies GreatCourse

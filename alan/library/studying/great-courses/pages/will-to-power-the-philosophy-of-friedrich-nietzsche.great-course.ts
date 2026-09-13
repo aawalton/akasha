@@ -10,8 +10,12 @@ export const willToPowerThePhilosophyOfFriedrichNietzsche = {
   ownLength: 729.433333,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "will-to-power-the-philosophy-of-friedrich-nietzsche",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/will-to-power-the-philosophy-of-friedrich-nietzsche",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "will-to-power-the-philosophy-of-friedrich-nietzsche",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/will-to-power-the-philosophy-of-friedrich-nietzsche",
+    },
+  ],
 } as const satisfies GreatCourse

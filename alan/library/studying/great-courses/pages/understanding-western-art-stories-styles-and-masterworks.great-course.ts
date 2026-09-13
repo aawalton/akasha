@@ -10,8 +10,12 @@ export const understandingWesternArtStoriesStylesAndMasterworks = {
   ownLength: 800.933333,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "understanding-western-art-stories-styles-and-masterworks",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/understanding-western-art-stories-styles-and-masterworks",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-western-art-stories-styles-and-masterworks",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/understanding-western-art-stories-styles-and-masterworks",
+    },
+  ],
 } as const satisfies GreatCourse

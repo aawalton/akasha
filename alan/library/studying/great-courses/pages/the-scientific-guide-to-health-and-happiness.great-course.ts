@@ -14,7 +14,12 @@ export const theScientificGuideToHealthAndHappiness = {
     "health-and-mindfulness-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-scientific-guide-to-health-and-happiness",
-  externalLink: "https://www.thegreatcoursesplus.com/the-scientific-guide-to-health-and-happiness",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-scientific-guide-to-health-and-happiness",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-scientific-guide-to-health-and-happiness",
+    },
+  ],
 } as const satisfies GreatCourse

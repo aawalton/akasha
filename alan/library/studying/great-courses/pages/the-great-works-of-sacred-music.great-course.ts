@@ -14,7 +14,11 @@ export const theGreatWorksOfSacredMusic = {
     "music-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-great-works-of-sacred-music",
-  externalLink: "https://www.thegreatcoursesplus.com/the-great-works-of-sacred-music",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-great-works-of-sacred-music",
+      externalLink: "https://www.thegreatcoursesplus.com/the-great-works-of-sacred-music",
+    },
+  ],
 } as const satisfies GreatCourse

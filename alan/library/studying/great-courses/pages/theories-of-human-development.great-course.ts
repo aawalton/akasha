@@ -10,7 +10,11 @@ export const theoriesOfHumanDevelopment = {
   ownLength: 739.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "theories-of-human-development",
-  externalLink: "https://www.thegreatcoursesplus.com/theories-of-human-development",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "theories-of-human-development",
+      externalLink: "https://www.thegreatcoursesplus.com/theories-of-human-development",
+    },
+  ],
 } as const satisfies GreatCourse

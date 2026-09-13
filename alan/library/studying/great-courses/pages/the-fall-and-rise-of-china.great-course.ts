@@ -10,7 +10,11 @@ export const theFallAndRiseOfChina = {
   ownLength: 1445.4,
   ownProgress: 60.225,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-fall-and-rise-of-china",
-  externalLink: "https://www.thegreatcoursesplus.com/the-fall-and-rise-of-china",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-fall-and-rise-of-china",
+      externalLink: "https://www.thegreatcoursesplus.com/the-fall-and-rise-of-china",
+    },
+  ],
 } as const satisfies GreatCourse

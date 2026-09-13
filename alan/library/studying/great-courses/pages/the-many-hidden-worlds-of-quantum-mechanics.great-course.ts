@@ -10,7 +10,12 @@ export const theManyHiddenWorldsOfQuantumMechanics = {
   ownLength: 716.4,
   ownProgress: 59.7,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-many-hidden-worlds-of-quantum-mechanics",
-  externalLink: "https://www.thegreatcoursesplus.com/the-many-hidden-worlds-of-quantum-mechanics",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-many-hidden-worlds-of-quantum-mechanics",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-many-hidden-worlds-of-quantum-mechanics",
+    },
+  ],
 } as const satisfies GreatCourse

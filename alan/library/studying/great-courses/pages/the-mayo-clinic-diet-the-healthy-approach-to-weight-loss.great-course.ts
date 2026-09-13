@@ -10,8 +10,12 @@ export const theMayoClinicDietTheHealthyApproachToWeightLoss = {
   ownLength: 400.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-mayo-clinic-diet-the-healthy-approach-to-weight-loss",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-mayo-clinic-diet-the-healthy-approach-to-weight-loss",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-mayo-clinic-diet-the-healthy-approach-to-weight-loss",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-mayo-clinic-diet-the-healthy-approach-to-weight-loss",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,8 +10,12 @@ export const theScienceOfEnergyResourcesAndPowerExplained = {
   ownLength: 807.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-science-of-energy-resources-and-power-explained",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-science-of-energy-resources-and-power-explained",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-science-of-energy-resources-and-power-explained",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-science-of-energy-resources-and-power-explained",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,7 +10,11 @@ export const theScienceOfFlight = {
   ownLength: 864.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-science-of-flight",
-  externalLink: "https://www.thegreatcoursesplus.com/the-science-of-flight",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-science-of-flight",
+      externalLink: "https://www.thegreatcoursesplus.com/the-science-of-flight",
+    },
+  ],
 } as const satisfies GreatCourse

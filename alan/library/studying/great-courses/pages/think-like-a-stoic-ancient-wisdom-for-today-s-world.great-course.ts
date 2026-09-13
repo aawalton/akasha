@@ -10,8 +10,12 @@ export const thinkLikeAStoicAncientWisdomForTodaySWorld = {
   ownLength: 669,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "think-like-a-stoic-ancient-wisdom-for-today-s-world",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/think-like-a-stoic-ancient-wisdom-for-today-s-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "think-like-a-stoic-ancient-wisdom-for-today-s-world",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/think-like-a-stoic-ancient-wisdom-for-today-s-world",
+    },
+  ],
 } as const satisfies GreatCourse

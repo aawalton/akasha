@@ -15,8 +15,12 @@ export const theNationalGeographicGuideToLandscapeAndWildlifePhotography = {
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-national-geographic-guide-to-landscape-and-wildlife-photography",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-national-geographic-guide-to-landscape-and-wildlife-photography",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-national-geographic-guide-to-landscape-and-wildlife-photography",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-national-geographic-guide-to-landscape-and-wildlife-photography",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -16,7 +16,11 @@ export const theFundamentalsOfTravelPhotography = {
     "hobby-and-personal-pursuits-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-fundamentals-of-travel-photography",
-  externalLink: "https://www.thegreatcoursesplus.com/the-fundamentals-of-travel-photography",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-fundamentals-of-travel-photography",
+      externalLink: "https://www.thegreatcoursesplus.com/the-fundamentals-of-travel-photography",
+    },
+  ],
 } as const satisfies GreatCourse

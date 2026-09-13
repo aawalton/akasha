@@ -10,7 +10,11 @@ export const theScienceOfGardening = {
   ownLength: 721.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-science-of-gardening",
-  externalLink: "https://www.thegreatcoursesplus.com/the-science-of-gardening",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-science-of-gardening",
+      externalLink: "https://www.thegreatcoursesplus.com/the-science-of-gardening",
+    },
+  ],
 } as const satisfies GreatCourse

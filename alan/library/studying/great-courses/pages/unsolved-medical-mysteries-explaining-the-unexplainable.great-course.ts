@@ -10,8 +10,12 @@ export const unsolvedMedicalMysteriesExplainingTheUnexplainable = {
   ownLength: 355.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "unsolved-medical-mysteries-explaining-the-unexplainable",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/unsolved-medical-mysteries-explaining-the-unexplainable",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "unsolved-medical-mysteries-explaining-the-unexplainable",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/unsolved-medical-mysteries-explaining-the-unexplainable",
+    },
+  ],
 } as const satisfies GreatCourse

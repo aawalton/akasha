@@ -10,7 +10,11 @@ export const understandingNonverbalCommunication = {
   ownLength: 370.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "professional-growth-great-courses"],
-  source: "the-great-courses",
-  externalId: "understanding-nonverbal-communication",
-  externalLink: "https://www.thegreatcoursesplus.com/understanding-nonverbal-communication",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-nonverbal-communication",
+      externalLink: "https://www.thegreatcoursesplus.com/understanding-nonverbal-communication",
+    },
+  ],
 } as const satisfies GreatCourse

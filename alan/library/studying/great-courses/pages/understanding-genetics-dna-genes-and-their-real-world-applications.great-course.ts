@@ -15,8 +15,12 @@ export const understandingGeneticsDnaGenesAndTheirRealWorldApplications = {
     "learning-paths-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "understanding-genetics-dna-genes-and-their-real-world-applications",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/understanding-genetics-dna-genes-and-their-real-world-applications",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-genetics-dna-genes-and-their-real-world-applications",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/understanding-genetics-dna-genes-and-their-real-world-applications",
+    },
+  ],
 } as const satisfies GreatCourse

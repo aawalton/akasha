@@ -10,8 +10,12 @@ export const whyInsectsMatterEarthSMostEssentialSpecies = {
   ownLength: 732,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "why-insects-matter-earth-s-most-essential-species",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/why-insects-matter-earth-s-most-essential-species",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "why-insects-matter-earth-s-most-essential-species",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/why-insects-matter-earth-s-most-essential-species",
+    },
+  ],
 } as const satisfies GreatCourse

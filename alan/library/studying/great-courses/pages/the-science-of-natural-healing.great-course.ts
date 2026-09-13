@@ -14,7 +14,11 @@ export const theScienceOfNaturalHealing = {
     "health-and-mindfulness-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-science-of-natural-healing",
-  externalLink: "https://www.thegreatcoursesplus.com/the-science-of-natural-healing",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-science-of-natural-healing",
+      externalLink: "https://www.thegreatcoursesplus.com/the-science-of-natural-healing",
+    },
+  ],
 } as const satisfies GreatCourse

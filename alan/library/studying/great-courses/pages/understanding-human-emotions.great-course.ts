@@ -10,7 +10,11 @@ export const understandingHumanEmotions = {
   ownLength: 318,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "understanding-human-emotions",
-  externalLink: "https://www.thegreatcoursesplus.com/understanding-human-emotions",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-human-emotions",
+      externalLink: "https://www.thegreatcoursesplus.com/understanding-human-emotions",
+    },
+  ],
 } as const satisfies GreatCourse

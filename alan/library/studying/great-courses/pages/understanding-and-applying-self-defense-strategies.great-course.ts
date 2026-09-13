@@ -14,8 +14,12 @@ export const understandingAndApplyingSelfDefenseStrategies = {
     "health-and-mindfulness-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "understanding-and-applying-self-defense-strategies",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/understanding-and-applying-self-defense-strategies",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-and-applying-self-defense-strategies",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/understanding-and-applying-self-defense-strategies",
+    },
+  ],
 } as const satisfies GreatCourse

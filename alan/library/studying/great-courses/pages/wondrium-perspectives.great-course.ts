@@ -10,7 +10,11 @@ export const wondriumPerspectives = {
   ownLength: 473.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "wondrium-perspectives",
-  externalLink: "https://www.thegreatcoursesplus.com/wondrium-perspectives",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "wondrium-perspectives",
+      externalLink: "https://www.thegreatcoursesplus.com/wondrium-perspectives",
+    },
+  ],
 } as const satisfies GreatCourse

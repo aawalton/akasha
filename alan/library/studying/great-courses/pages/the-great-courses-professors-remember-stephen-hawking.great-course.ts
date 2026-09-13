@@ -11,8 +11,12 @@ export const theGreatCoursesProfessorsRememberStephenHawking = {
   ownLength: 12,
   ownProgress: 12,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-great-courses-professors-remember-stephen-hawking",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-great-courses-professors-remember-stephen-hawking",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-great-courses-professors-remember-stephen-hawking",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-great-courses-professors-remember-stephen-hawking",
+    },
+  ],
 } as const satisfies GreatCourse

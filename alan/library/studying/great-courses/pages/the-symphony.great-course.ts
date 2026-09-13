@@ -10,7 +10,11 @@ export const theSymphony = {
   ownLength: 1090.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "music-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-symphony",
-  externalLink: "https://www.thegreatcoursesplus.com/the-symphony",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-symphony",
+      externalLink: "https://www.thegreatcoursesplus.com/the-symphony",
+    },
+  ],
 } as const satisfies GreatCourse

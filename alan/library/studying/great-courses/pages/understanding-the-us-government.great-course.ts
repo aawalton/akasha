@@ -10,7 +10,11 @@ export const understandingTheUsGovernment = {
   ownLength: 744.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "understanding-the-us-government",
-  externalLink: "https://www.thegreatcoursesplus.com/understanding-the-us-government",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-the-us-government",
+      externalLink: "https://www.thegreatcoursesplus.com/understanding-the-us-government",
+    },
+  ],
 } as const satisfies GreatCourse

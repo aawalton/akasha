@@ -10,7 +10,11 @@ export const treatingAnxiety = {
   ownLength: 357,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],
-  source: "the-great-courses",
-  externalId: "treating-anxiety",
-  externalLink: "https://www.thegreatcoursesplus.com/treating-anxiety",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "treating-anxiety",
+      externalLink: "https://www.thegreatcoursesplus.com/treating-anxiety",
+    },
+  ],
 } as const satisfies GreatCourse

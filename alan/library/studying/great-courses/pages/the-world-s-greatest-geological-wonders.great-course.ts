@@ -15,7 +15,11 @@ export const theWorldSGreatestGeologicalWonders = {
     "science-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-worlds-greatest-geological-wonders",
-  externalLink: "https://www.thegreatcoursesplus.com/the-worlds-greatest-geological-wonders",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-worlds-greatest-geological-wonders",
+      externalLink: "https://www.thegreatcoursesplus.com/the-worlds-greatest-geological-wonders",
+    },
+  ],
 } as const satisfies GreatCourse

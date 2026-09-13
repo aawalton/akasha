@@ -14,8 +14,12 @@ export const theMathematicsOfGamesAndPuzzlesFromCardsToSudoku = {
     "hobby-and-personal-pursuits-great-courses",
     "mathematics-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-mathematics-of-games-and-puzzles-from-cards-to-sudoku",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-mathematics-of-games-and-puzzles-from-cards-to-sudoku",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-mathematics-of-games-and-puzzles-from-cards-to-sudoku",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-mathematics-of-games-and-puzzles-from-cards-to-sudoku",
+    },
+  ],
 } as const satisfies GreatCourse

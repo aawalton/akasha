@@ -10,7 +10,11 @@ export const understandingTheOldTestament = {
   ownLength: 669.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "understanding-the-old-testament",
-  externalLink: "https://www.thegreatcoursesplus.com/understanding-the-old-testament",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-the-old-testament",
+      externalLink: "https://www.thegreatcoursesplus.com/understanding-the-old-testament",
+    },
+  ],
 } as const satisfies GreatCourse

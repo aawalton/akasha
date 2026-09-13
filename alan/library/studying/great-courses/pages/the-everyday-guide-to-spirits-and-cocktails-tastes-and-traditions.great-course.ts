@@ -11,8 +11,12 @@ export const theEverydayGuideToSpiritsAndCocktailsTastesAndTraditions = {
   ownLength: 252,
   ownProgress: 252,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-everyday-guide-to-spirits-and-cocktails-tastes-and-traditions",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-everyday-guide-to-spirits-and-cocktails-tastes-and-traditions",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-everyday-guide-to-spirits-and-cocktails-tastes-and-traditions",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-everyday-guide-to-spirits-and-cocktails-tastes-and-traditions",
+    },
+  ],
 } as const satisfies GreatCourse

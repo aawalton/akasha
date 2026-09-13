@@ -10,8 +10,12 @@ export const theRomanEmpireFromAugustusToTheFallOfRome = {
   ownLength: 772.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-roman-empire-from-augustus-to-the-fall-of-rome",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-roman-empire-from-augustus-to-the-fall-of-rome",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-roman-empire-from-augustus-to-the-fall-of-rome",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-roman-empire-from-augustus-to-the-fall-of-rome",
+    },
+  ],
 } as const satisfies GreatCourse

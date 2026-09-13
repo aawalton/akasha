@@ -14,7 +14,11 @@ export const understandingModernElectronics = {
     "hobby-and-personal-pursuits-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "understanding-modern-electronics",
-  externalLink: "https://www.thegreatcoursesplus.com/understanding-modern-electronics",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-modern-electronics",
+      externalLink: "https://www.thegreatcoursesplus.com/understanding-modern-electronics",
+    },
+  ],
 } as const satisfies GreatCourse

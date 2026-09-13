@@ -10,8 +10,12 @@ export const theSearchForExoplanetsWhatAstronomersKnow = {
   ownLength: 738,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-search-for-exoplanets-what-astronomers-know",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-search-for-exoplanets-what-astronomers-know",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-search-for-exoplanets-what-astronomers-know",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-search-for-exoplanets-what-astronomers-know",
+    },
+  ],
 } as const satisfies GreatCourse

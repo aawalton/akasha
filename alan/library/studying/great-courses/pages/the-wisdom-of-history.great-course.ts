@@ -10,7 +10,11 @@ export const theWisdomOfHistory = {
   ownLength: 1092.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-wisdom-of-history",
-  externalLink: "https://www.thegreatcoursesplus.com/the-wisdom-of-history",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-wisdom-of-history",
+      externalLink: "https://www.thegreatcoursesplus.com/the-wisdom-of-history",
+    },
+  ],
 } as const satisfies GreatCourse

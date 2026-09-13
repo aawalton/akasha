@@ -10,7 +10,11 @@ export const yearsThatChangedHistory1215 = {
   ownLength: 753,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "years-that-changed-history-1215",
-  externalLink: "https://www.thegreatcoursesplus.com/years-that-changed-history-1215",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "years-that-changed-history-1215",
+      externalLink: "https://www.thegreatcoursesplus.com/years-that-changed-history-1215",
+    },
+  ],
 } as const satisfies GreatCourse

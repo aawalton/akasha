@@ -10,8 +10,12 @@ export const theNatureOfMatterUnderstandingThePhysicalWorld = {
   ownLength: 738,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-nature-of-matter-understanding-the-physical-world",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-nature-of-matter-understanding-the-physical-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-nature-of-matter-understanding-the-physical-world",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-nature-of-matter-understanding-the-physical-world",
+    },
+  ],
 } as const satisfies GreatCourse

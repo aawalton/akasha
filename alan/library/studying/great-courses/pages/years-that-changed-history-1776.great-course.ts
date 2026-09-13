@@ -10,7 +10,11 @@ export const yearsThatChangedHistory1776 = {
   ownLength: 24,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "years-that-changed-history-1776",
-  externalLink: "https://plus.thegreatcourses.com/years-that-changed-history-1776",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "years-that-changed-history-1776",
+      externalLink: "https://plus.thegreatcourses.com/years-that-changed-history-1776",
+    },
+  ],
 } as const satisfies GreatCourse

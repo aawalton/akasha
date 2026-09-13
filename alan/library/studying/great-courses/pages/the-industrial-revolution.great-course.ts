@@ -10,7 +10,11 @@ export const theIndustrialRevolution = {
   ownLength: 1100.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-industrial-revolution",
-  externalLink: "https://www.thegreatcoursesplus.com/the-industrial-revolution",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-industrial-revolution",
+      externalLink: "https://www.thegreatcoursesplus.com/the-industrial-revolution",
+    },
+  ],
 } as const satisfies GreatCourse

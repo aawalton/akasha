@@ -10,7 +10,11 @@ export const whatIsPain = {
   ownLength: 12,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "what-is-pain",
-  externalLink: "https://plus.thegreatcourses.com/what-is-pain",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "what-is-pain",
+      externalLink: "https://plus.thegreatcourses.com/what-is-pain",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -11,7 +11,11 @@ export const travelsWithDarleySeason1 = {
   ownLength: 321,
   ownProgress: 321,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
-  source: "the-great-courses",
-  externalId: "travels-with-darley-season-1",
-  externalLink: "https://www.thegreatcoursesplus.com/travels-with-darley-season-1",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "travels-with-darley-season-1",
+      externalLink: "https://www.thegreatcoursesplus.com/travels-with-darley-season-1",
+    },
+  ],
 } as const satisfies GreatCourse

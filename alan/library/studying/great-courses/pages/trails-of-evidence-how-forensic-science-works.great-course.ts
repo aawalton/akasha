@@ -10,8 +10,12 @@ export const trailsOfEvidenceHowForensicScienceWorks = {
   ownLength: 1114.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "course-on-forensic-science-how-to-solve-real-crime-scenes",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/course-on-forensic-science-how-to-solve-real-crime-scenes",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "course-on-forensic-science-how-to-solve-real-crime-scenes",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/course-on-forensic-science-how-to-solve-real-crime-scenes",
+    },
+  ],
 } as const satisfies GreatCourse

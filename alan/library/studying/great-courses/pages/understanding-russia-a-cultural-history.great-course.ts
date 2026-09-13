@@ -10,7 +10,11 @@ export const understandingRussiaACulturalHistory = {
   ownLength: 759.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "understanding-russia-a-cultural-history",
-  externalLink: "https://www.thegreatcoursesplus.com/understanding-russia-a-cultural-history",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-russia-a-cultural-history",
+      externalLink: "https://www.thegreatcoursesplus.com/understanding-russia-a-cultural-history",
+    },
+  ],
 } as const satisfies GreatCourse

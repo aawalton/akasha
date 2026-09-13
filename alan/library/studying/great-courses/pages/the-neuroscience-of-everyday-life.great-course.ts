@@ -10,7 +10,11 @@ export const theNeuroscienceOfEverydayLife = {
   ownLength: 1081.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-neuroscience-of-everyday-life",
-  externalLink: "https://www.thegreatcoursesplus.com/the-neuroscience-of-everyday-life",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-neuroscience-of-everyday-life",
+      externalLink: "https://www.thegreatcoursesplus.com/the-neuroscience-of-everyday-life",
+    },
+  ],
 } as const satisfies GreatCourse

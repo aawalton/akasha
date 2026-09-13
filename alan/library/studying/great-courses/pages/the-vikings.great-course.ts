@@ -10,7 +10,11 @@ export const theVikings = {
   ownLength: 1108.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-vikings",
-  externalLink: "https://www.thegreatcoursesplus.com/the-vikings",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-vikings",
+      externalLink: "https://www.thegreatcoursesplus.com/the-vikings",
+    },
+  ],
 } as const satisfies GreatCourse

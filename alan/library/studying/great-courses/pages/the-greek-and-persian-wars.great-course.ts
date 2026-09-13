@@ -10,7 +10,11 @@ export const theGreekAndPersianWars = {
   ownLength: 740.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-greek-and-persian-wars",
-  externalLink: "https://www.thegreatcoursesplus.com/the-greek-and-persian-wars",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-greek-and-persian-wars",
+      externalLink: "https://www.thegreatcoursesplus.com/the-greek-and-persian-wars",
+    },
+  ],
 } as const satisfies GreatCourse

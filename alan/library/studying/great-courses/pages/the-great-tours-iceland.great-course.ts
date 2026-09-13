@@ -11,7 +11,11 @@ export const theGreatToursIceland = {
   ownLength: 564.6,
   ownProgress: 564.6,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-great-tours-iceland",
-  externalLink: "https://www.thegreatcoursesplus.com/the-great-tours-iceland",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-great-tours-iceland",
+      externalLink: "https://www.thegreatcoursesplus.com/the-great-tours-iceland",
+    },
+  ],
 } as const satisfies GreatCourse

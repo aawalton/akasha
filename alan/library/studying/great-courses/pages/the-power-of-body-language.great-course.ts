@@ -10,7 +10,11 @@ export const thePowerOfBodyLanguage = {
   ownLength: 931.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "professional-growth-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-power-of-body-language",
-  externalLink: "https://www.thegreatcoursesplus.com/the-power-of-body-language",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-power-of-body-language",
+      externalLink: "https://www.thegreatcoursesplus.com/the-power-of-body-language",
+    },
+  ],
 } as const satisfies GreatCourse

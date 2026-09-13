@@ -10,8 +10,12 @@ export const theKnightsTemplarAHistoryStrangeAndTrue = {
   ownLength: 663,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-knights-templar-a-history-strange-and-true",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-knights-templar-a-history-strange-and-true",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-knights-templar-a-history-strange-and-true",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-knights-templar-a-history-strange-and-true",
+    },
+  ],
 } as const satisfies GreatCourse

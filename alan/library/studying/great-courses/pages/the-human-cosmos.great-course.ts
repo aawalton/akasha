@@ -11,7 +11,11 @@ export const theHumanCosmos = {
   ownLength: 69,
   ownProgress: 69,
   partOfCollections: ["all-great-courses", "history-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-human-cosmos",
-  externalLink: "https://www.thegreatcoursesplus.com/the-human-cosmos",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-human-cosmos",
+      externalLink: "https://www.thegreatcoursesplus.com/the-human-cosmos",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,7 +10,11 @@ export const whyEvilExists = {
   ownLength: 1148.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "why-evil-exists",
-  externalLink: "https://www.thegreatcoursesplus.com/why-evil-exists",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "why-evil-exists",
+      externalLink: "https://www.thegreatcoursesplus.com/why-evil-exists",
+    },
+  ],
 } as const satisfies GreatCourse

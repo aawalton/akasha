@@ -15,7 +15,12 @@ export const theGreatToursEnglandScotlandAndWales = {
     "history-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-great-tours-england-scotland-and-wales",
-  externalLink: "https://www.thegreatcoursesplus.com/the-great-tours-england-scotland-and-wales",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-great-tours-england-scotland-and-wales",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-great-tours-england-scotland-and-wales",
+    },
+  ],
 } as const satisfies GreatCourse

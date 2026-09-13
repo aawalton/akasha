@@ -10,7 +10,11 @@ export const unexpectedEconomics = {
   ownLength: 727.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
-  source: "the-great-courses",
-  externalId: "unexpected-economics",
-  externalLink: "https://www.thegreatcoursesplus.com/unexpected-economics",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "unexpected-economics",
+      externalLink: "https://www.thegreatcoursesplus.com/unexpected-economics",
+    },
+  ],
 } as const satisfies GreatCourse

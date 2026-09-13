@@ -11,7 +11,11 @@ export const theWorldSGreatestPaintings = {
   ownLength: 732,
   ownProgress: 732,
   partOfCollections: ["all-great-courses", "art-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-world-s-greatest-paintings",
-  externalLink: "https://www.thegreatcoursesplus.com/the-world-s-greatest-paintings",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-world-s-greatest-paintings",
+      externalLink: "https://www.thegreatcoursesplus.com/the-world-s-greatest-paintings",
+    },
+  ],
 } as const satisfies GreatCourse

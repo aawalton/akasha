@@ -10,7 +10,11 @@ export const theEvolutionOfAmericanFederalism = {
   ownLength: 748.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-evolution-of-american-federalism",
-  externalLink: "https://www.thegreatcoursesplus.com/the-evolution-of-american-federalism",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-evolution-of-american-federalism",
+      externalLink: "https://www.thegreatcoursesplus.com/the-evolution-of-american-federalism",
+    },
+  ],
 } as const satisfies GreatCourse

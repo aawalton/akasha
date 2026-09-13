@@ -11,7 +11,11 @@ export const whereOurFoodReallyComesFrom = {
   ownLength: 193.8,
   ownProgress: 193.8,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
-  source: "the-great-courses",
-  externalId: "where-our-food-really-comes-from",
-  externalLink: "https://www.thegreatcoursesplus.com/where-our-food-really-comes-from",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "where-our-food-really-comes-from",
+      externalLink: "https://www.thegreatcoursesplus.com/where-our-food-really-comes-from",
+    },
+  ],
 } as const satisfies GreatCourse

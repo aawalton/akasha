@@ -10,8 +10,12 @@ export const understandingTheScienceForTomorrowMythAndReality = {
   ownLength: 713.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "understanding-the-science-for-tomorrow-myth-and-reality",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/understanding-the-science-for-tomorrow-myth-and-reality",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-the-science-for-tomorrow-myth-and-reality",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/understanding-the-science-for-tomorrow-myth-and-reality",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -10,7 +10,11 @@ export const theSurprisingLivesOfChristianSaints = {
   ownLength: 707.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-surprising-lives-of-christian-saints",
-  externalLink: "https://www.thegreatcoursesplus.com/the-surprising-lives-of-christian-saints",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-surprising-lives-of-christian-saints",
+      externalLink: "https://www.thegreatcoursesplus.com/the-surprising-lives-of-christian-saints",
+    },
+  ],
 } as const satisfies GreatCourse

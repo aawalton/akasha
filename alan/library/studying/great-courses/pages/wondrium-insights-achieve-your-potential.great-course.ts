@@ -14,7 +14,11 @@ export const wondriumInsightsAchieveYourPotential = {
     "hobby-and-personal-pursuits-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "wondrium-insights-achieve-your-potential",
-  externalLink: "https://www.thegreatcoursesplus.com/wondrium-insights-achieve-your-potential",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "wondrium-insights-achieve-your-potential",
+      externalLink: "https://www.thegreatcoursesplus.com/wondrium-insights-achieve-your-potential",
+    },
+  ],
 } as const satisfies GreatCourse

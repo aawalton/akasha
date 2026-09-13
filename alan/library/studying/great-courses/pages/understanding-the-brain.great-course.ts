@@ -10,7 +10,11 @@ export const understandingTheBrain = {
   ownLength: 1122,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "understanding-the-brain",
-  externalLink: "https://www.thegreatcoursesplus.com/understanding-the-brain",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-the-brain",
+      externalLink: "https://www.thegreatcoursesplus.com/understanding-the-brain",
+    },
+  ],
 } as const satisfies GreatCourse

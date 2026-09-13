@@ -10,7 +10,12 @@ export const theoryOfEvolutionAHistoryOfControversy = {
   ownLength: 367.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "theory-of-evolution-a-history-of-controversy",
-  externalLink: "https://www.thegreatcoursesplus.com/theory-of-evolution-a-history-of-controversy",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "theory-of-evolution-a-history-of-controversy",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/theory-of-evolution-a-history-of-controversy",
+    },
+  ],
 } as const satisfies GreatCourse

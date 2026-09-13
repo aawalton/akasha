@@ -10,8 +10,12 @@ export const whatAmericaSFoundersLearnedFromAntiquity = {
   ownLength: 781.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "what-america-s-founders-learned-from-antiquity",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/what-america-s-founders-learned-from-antiquity",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "what-america-s-founders-learned-from-antiquity",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/what-america-s-founders-learned-from-antiquity",
+    },
+  ],
 } as const satisfies GreatCourse

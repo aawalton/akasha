@@ -15,7 +15,11 @@ export const watercolorCardsMadeSimple = {
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "watercolor-cards-made-simple",
-  externalLink: "https://www.thegreatcoursesplus.com/watercolor-cards-made-simple",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "watercolor-cards-made-simple",
+      externalLink: "https://www.thegreatcoursesplus.com/watercolor-cards-made-simple",
+    },
+  ],
 } as const satisfies GreatCourse

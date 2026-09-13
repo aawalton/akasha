@@ -16,8 +16,12 @@ export const theGuideToEssentialItaly = {
     "history-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-guide-to-essential-italy-the-great-courses-plus",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-guide-to-essential-italy-the-great-courses-plus",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-guide-to-essential-italy-the-great-courses-plus",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-guide-to-essential-italy-the-great-courses-plus",
+    },
+  ],
 } as const satisfies GreatCourse

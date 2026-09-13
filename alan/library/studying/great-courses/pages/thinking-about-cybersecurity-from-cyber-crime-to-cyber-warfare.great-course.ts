@@ -15,8 +15,12 @@ export const thinkingAboutCybersecurityFromCyberCrimeToCyberWarfare = {
     "professional-growth-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "thinking-about-cybersecurity-from-cyber-crime-to-cyber-warfare",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/thinking-about-cybersecurity-from-cyber-crime-to-cyber-warfare",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "thinking-about-cybersecurity-from-cyber-crime-to-cyber-warfare",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/thinking-about-cybersecurity-from-cyber-crime-to-cyber-warfare",
+    },
+  ],
 } as const satisfies GreatCourse

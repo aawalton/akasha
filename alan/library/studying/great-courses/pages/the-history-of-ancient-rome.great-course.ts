@@ -10,7 +10,11 @@ export const theHistoryOfAncientRome = {
   ownLength: 1451.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-history-of-ancient-rome",
-  externalLink: "https://www.thegreatcoursesplus.com/the-history-of-ancient-rome",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-history-of-ancient-rome",
+      externalLink: "https://www.thegreatcoursesplus.com/the-history-of-ancient-rome",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -14,7 +14,11 @@ export const writingCreativeNonfiction = {
     "literature-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "writing-creative-nonfiction",
-  externalLink: "https://www.thegreatcoursesplus.com/writing-creative-nonfiction",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "writing-creative-nonfiction",
+      externalLink: "https://www.thegreatcoursesplus.com/writing-creative-nonfiction",
+    },
+  ],
 } as const satisfies GreatCourse

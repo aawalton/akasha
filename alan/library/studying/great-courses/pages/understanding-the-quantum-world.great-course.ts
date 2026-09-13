@@ -10,7 +10,11 @@ export const understandingTheQuantumWorld = {
   ownLength: 722.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "understanding-the-quantum-world",
-  externalLink: "https://www.thegreatcoursesplus.com/understanding-the-quantum-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-the-quantum-world",
+      externalLink: "https://www.thegreatcoursesplus.com/understanding-the-quantum-world",
+    },
+  ],
 } as const satisfies GreatCourse

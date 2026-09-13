@@ -11,8 +11,12 @@ export const theEverydayGourmetBakingPastriesAndDesserts = {
   ownLength: 232.2,
   ownProgress: 232.2,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-everyday-gourmet-baking-pastries-and-desserts",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-everyday-gourmet-baking-pastries-and-desserts",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-everyday-gourmet-baking-pastries-and-desserts",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-everyday-gourmet-baking-pastries-and-desserts",
+    },
+  ],
 } as const satisfies GreatCourse

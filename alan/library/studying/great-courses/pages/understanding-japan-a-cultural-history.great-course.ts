@@ -11,7 +11,11 @@ export const understandingJapanACulturalHistory = {
   ownLength: 726.6,
   ownProgress: 726.6,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "understanding-japan-a-cultural-history",
-  externalLink: "https://www.thegreatcoursesplus.com/understanding-japan-a-cultural-history",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-japan-a-cultural-history",
+      externalLink: "https://www.thegreatcoursesplus.com/understanding-japan-a-cultural-history",
+    },
+  ],
 } as const satisfies GreatCourse

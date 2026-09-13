@@ -10,8 +10,12 @@ export const understandingArtificialIntelligenceOfMindsAndMachines = {
   ownLength: 12,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "understanding-artificial-intelligence-of-minds-and-machines",
-  externalLink:
-    "https://plus.thegreatcourses.com/understanding-artificial-intelligence-of-minds-and-machines",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-artificial-intelligence-of-minds-and-machines",
+      externalLink:
+        "https://plus.thegreatcourses.com/understanding-artificial-intelligence-of-minds-and-machines",
+    },
+  ],
 } as const satisfies GreatCourse

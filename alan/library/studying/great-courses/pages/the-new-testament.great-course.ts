@@ -10,7 +10,11 @@ export const theNewTestament = {
   ownLength: 738,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-new-testament",
-  externalLink: "https://www.thegreatcoursesplus.com/the-new-testament",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-new-testament",
+      externalLink: "https://www.thegreatcoursesplus.com/the-new-testament",
+    },
+  ],
 } as const satisfies GreatCourse

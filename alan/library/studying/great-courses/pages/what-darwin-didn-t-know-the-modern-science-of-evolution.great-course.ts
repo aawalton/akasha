@@ -10,8 +10,12 @@ export const whatDarwinDidnTKnowTheModernScienceOfEvolution = {
   ownLength: 766.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "what-darwin-didnt-know-the-modern-science-of-evolution",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/what-darwin-didnt-know-the-modern-science-of-evolution",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "what-darwin-didnt-know-the-modern-science-of-evolution",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/what-darwin-didnt-know-the-modern-science-of-evolution",
+    },
+  ],
 } as const satisfies GreatCourse

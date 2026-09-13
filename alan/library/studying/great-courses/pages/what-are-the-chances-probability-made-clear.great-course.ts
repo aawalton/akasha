@@ -15,7 +15,12 @@ export const whatAreTheChancesProbabilityMadeClear = {
     "mathematics-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "what-are-the-chances-probability-made-clear",
-  externalLink: "https://www.thegreatcoursesplus.com/what-are-the-chances-probability-made-clear",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "what-are-the-chances-probability-made-clear",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/what-are-the-chances-probability-made-clear",
+    },
+  ],
 } as const satisfies GreatCourse

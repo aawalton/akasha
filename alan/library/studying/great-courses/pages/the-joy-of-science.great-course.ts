@@ -10,7 +10,11 @@ export const theJoyOfScience = {
   ownLength: 1827.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-joy-of-science",
-  externalLink: "https://www.thegreatcoursesplus.com/the-joy-of-science",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-joy-of-science",
+      externalLink: "https://www.thegreatcoursesplus.com/the-joy-of-science",
+    },
+  ],
 } as const satisfies GreatCourse

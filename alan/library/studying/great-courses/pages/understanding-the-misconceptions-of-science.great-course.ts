@@ -10,7 +10,12 @@ export const understandingTheMisconceptionsOfScience = {
   ownLength: 738,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "understanding-the-misconceptions-of-science",
-  externalLink: "https://www.thegreatcoursesplus.com/understanding-the-misconceptions-of-science",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-the-misconceptions-of-science",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/understanding-the-misconceptions-of-science",
+    },
+  ],
 } as const satisfies GreatCourse

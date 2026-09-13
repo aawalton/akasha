@@ -14,7 +14,11 @@ export const theHolyLandRevealed = {
     "history-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-holy-land-revealed",
-  externalLink: "https://www.thegreatcoursesplus.com/the-holy-land-revealed",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-holy-land-revealed",
+      externalLink: "https://www.thegreatcoursesplus.com/the-holy-land-revealed",
+    },
+  ],
 } as const satisfies GreatCourse

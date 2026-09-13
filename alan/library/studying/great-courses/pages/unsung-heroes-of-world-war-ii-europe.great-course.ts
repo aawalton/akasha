@@ -11,7 +11,11 @@ export const unsungHeroesOfWorldWarIiEurope = {
   ownLength: 358.8,
   ownProgress: 358.8,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "unsung-heroes-of-world-war-ii-europe",
-  externalLink: "https://www.thegreatcoursesplus.com/unsung-heroes-of-world-war-ii-europe",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "unsung-heroes-of-world-war-ii-europe",
+      externalLink: "https://www.thegreatcoursesplus.com/unsung-heroes-of-world-war-ii-europe",
+    },
+  ],
 } as const satisfies GreatCourse

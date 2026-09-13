@@ -11,8 +11,12 @@ export const underneathItAllGuideToInterfacingsLiningsAndFacings = {
   ownLength: 193.8,
   ownProgress: 193.8,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "underneath-it-all-guide-to-inferfacings-linings-and-facings",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/underneath-it-all-guide-to-inferfacings-linings-and-facings",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "underneath-it-all-guide-to-inferfacings-linings-and-facings",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/underneath-it-all-guide-to-inferfacings-linings-and-facings",
+    },
+  ],
 } as const satisfies GreatCourse

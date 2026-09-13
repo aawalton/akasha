@@ -10,7 +10,11 @@ export const theWorldSMostFascinatingGeologicEvents = {
   ownLength: 24,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-world-s-most-fascinating-geologic-events",
-  externalLink: "https://plus.thegreatcourses.com/the-world-s-most-fascinating-geologic-events",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-world-s-most-fascinating-geologic-events",
+      externalLink: "https://plus.thegreatcourses.com/the-world-s-most-fascinating-geologic-events",
+    },
+  ],
 } as const satisfies GreatCourse

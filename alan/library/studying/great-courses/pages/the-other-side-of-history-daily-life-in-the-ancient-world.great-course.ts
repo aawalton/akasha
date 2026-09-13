@@ -10,8 +10,12 @@ export const theOtherSideOfHistoryDailyLifeInTheAncientWorld = {
   ownLength: 1465.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-other-side-of-history-daily-life-in-the-ancient-world",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-other-side-of-history-daily-life-in-the-ancient-world",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-other-side-of-history-daily-life-in-the-ancient-world",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-other-side-of-history-daily-life-in-the-ancient-world",
+    },
+  ],
 } as const satisfies GreatCourse

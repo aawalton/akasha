@@ -10,8 +10,12 @@ export const writingGreatFictionStorytellingTipsAndTechniques = {
   ownLength: 737.4,
   ownProgress: 61.45,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "writing-great-fiction-storytelling-tips-and-techniques",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/writing-great-fiction-storytelling-tips-and-techniques",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "writing-great-fiction-storytelling-tips-and-techniques",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/writing-great-fiction-storytelling-tips-and-techniques",
+    },
+  ],
 } as const satisfies GreatCourse

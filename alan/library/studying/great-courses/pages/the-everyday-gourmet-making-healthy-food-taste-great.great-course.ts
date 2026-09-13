@@ -11,8 +11,12 @@ export const theEverydayGourmetMakingHealthyFoodTasteGreat = {
   ownLength: 198.6,
   ownProgress: 198.6,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-everyday-gourmet-making-healthy-food-taste-great",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-everyday-gourmet-making-healthy-food-taste-great",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-everyday-gourmet-making-healthy-food-taste-great",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-everyday-gourmet-making-healthy-food-taste-great",
+    },
+  ],
 } as const satisfies GreatCourse

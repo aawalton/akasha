@@ -15,7 +15,12 @@ export const theGreatToursExperiencingMedievalEurope = {
     "history-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-great-tours-experiencing-medieval-europe",
-  externalLink: "https://www.thegreatcoursesplus.com/the-great-tours-experiencing-medieval-europe",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-great-tours-experiencing-medieval-europe",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-great-tours-experiencing-medieval-europe",
+    },
+  ],
 } as const satisfies GreatCourse

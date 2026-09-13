@@ -11,7 +11,11 @@ export const woodworkingEssentialsBenchesAndBoxes = {
   ownLength: 184.8,
   ownProgress: 184.8,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "woodworking-essentials-benches-boxes",
-  externalLink: "https://www.thegreatcoursesplus.com/woodworking-essentials-benches-boxes",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "woodworking-essentials-benches-boxes",
+      externalLink: "https://www.thegreatcoursesplus.com/woodworking-essentials-benches-boxes",
+    },
+  ],
 } as const satisfies GreatCourse

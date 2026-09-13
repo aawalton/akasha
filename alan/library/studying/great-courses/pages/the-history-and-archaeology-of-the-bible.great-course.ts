@@ -15,7 +15,11 @@ export const theHistoryAndArchaeologyOfTheBible = {
     "history-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-history-and-archaeology-of-the-bible",
-  externalLink: "https://www.thegreatcoursesplus.com/the-history-and-archaeology-of-the-bible",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-history-and-archaeology-of-the-bible",
+      externalLink: "https://www.thegreatcoursesplus.com/the-history-and-archaeology-of-the-bible",
+    },
+  ],
 } as const satisfies GreatCourse

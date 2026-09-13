@@ -10,8 +10,12 @@ export const understandingLinguisticsTheScienceOfLanguage = {
   ownLength: 1085.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "understanding-linguistics-the-science-of-language",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/understanding-linguistics-the-science-of-language",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-linguistics-the-science-of-language",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/understanding-linguistics-the-science-of-language",
+    },
+  ],
 } as const satisfies GreatCourse

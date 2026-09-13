@@ -10,7 +10,11 @@ export const theIntelligentBrain = {
   ownLength: 526.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-intelligent-brain",
-  externalLink: "https://www.thegreatcoursesplus.com/the-intelligent-brain",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-intelligent-brain",
+      externalLink: "https://www.thegreatcoursesplus.com/the-intelligent-brain",
+    },
+  ],
 } as const satisfies GreatCourse

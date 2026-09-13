@@ -11,7 +11,12 @@ export const theInstantSommelierChoosingYourBestWine = {
   ownLength: 186,
   ownProgress: 186,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-instant-sommelier-choosing-your-best-wine",
-  externalLink: "https://www.thegreatcoursesplus.com/the-instant-sommelier-choosing-your-best-wine",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-instant-sommelier-choosing-your-best-wine",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-instant-sommelier-choosing-your-best-wine",
+    },
+  ],
 } as const satisfies GreatCourse

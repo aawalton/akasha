@@ -10,7 +10,11 @@ export const theHistoryOfTheUnitedStatesNavy = {
   ownLength: 763.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-history-of-the-united-states-navy",
-  externalLink: "https://www.thegreatcoursesplus.com/the-history-of-the-united-states-navy",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-history-of-the-united-states-navy",
+      externalLink: "https://www.thegreatcoursesplus.com/the-history-of-the-united-states-navy",
+    },
+  ],
 } as const satisfies GreatCourse

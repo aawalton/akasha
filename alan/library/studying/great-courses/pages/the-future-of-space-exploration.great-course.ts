@@ -10,7 +10,11 @@ export const theFutureOfSpaceExploration = {
   ownLength: 337.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-future-of-space-exploration",
-  externalLink: "https://www.thegreatcoursesplus.com/the-future-of-space-exploration",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-future-of-space-exploration",
+      externalLink: "https://www.thegreatcoursesplus.com/the-future-of-space-exploration",
+    },
+  ],
 } as const satisfies GreatCourse

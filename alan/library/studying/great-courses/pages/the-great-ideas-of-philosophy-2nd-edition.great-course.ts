@@ -14,7 +14,11 @@ export const theGreatIdeasOfPhilosophy2ndEdition = {
     "learning-paths-great-courses",
     "philosophy-and-religion-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-great-ideas-of-philosophy-2nd-edition",
-  externalLink: "https://www.thegreatcoursesplus.com/the-great-ideas-of-philosophy-2nd-edition",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-great-ideas-of-philosophy-2nd-edition",
+      externalLink: "https://www.thegreatcoursesplus.com/the-great-ideas-of-philosophy-2nd-edition",
+    },
+  ],
 } as const satisfies GreatCourse

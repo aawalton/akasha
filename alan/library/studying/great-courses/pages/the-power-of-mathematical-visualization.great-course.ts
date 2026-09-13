@@ -10,7 +10,11 @@ export const thePowerOfMathematicalVisualization = {
   ownLength: 741.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "mathematics-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-power-of-mathematical-visualization",
-  externalLink: "https://www.thegreatcoursesplus.com/the-power-of-mathematical-visualization",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-power-of-mathematical-visualization",
+      externalLink: "https://www.thegreatcoursesplus.com/the-power-of-mathematical-visualization",
+    },
+  ],
 } as const satisfies GreatCourse

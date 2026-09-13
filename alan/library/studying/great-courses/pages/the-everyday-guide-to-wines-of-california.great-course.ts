@@ -15,7 +15,11 @@ export const theEverydayGuideToWinesOfCalifornia = {
     "food-and-drink-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-everyday-guide-to-wines-of-california",
-  externalLink: "https://www.thegreatcoursesplus.com/the-everyday-guide-to-wines-of-california",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-everyday-guide-to-wines-of-california",
+      externalLink: "https://www.thegreatcoursesplus.com/the-everyday-guide-to-wines-of-california",
+    },
+  ],
 } as const satisfies GreatCourse

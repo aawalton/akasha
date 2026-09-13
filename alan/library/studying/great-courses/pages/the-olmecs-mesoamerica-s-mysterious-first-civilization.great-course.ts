@@ -10,8 +10,12 @@ export const theOlmecsMesoamericaSMysteriousFirstCivilization = {
   ownLength: 436.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-olmecs-mesoamerica-s-mysterious-first-civilization",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-olmecs-mesoamerica-s-mysterious-first-civilization",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-olmecs-mesoamerica-s-mysterious-first-civilization",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-olmecs-mesoamerica-s-mysterious-first-civilization",
+    },
+  ],
 } as const satisfies GreatCourse

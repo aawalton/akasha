@@ -10,7 +10,11 @@ export const theOdysseyOfHomer = {
   ownLength: 366,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-odyssey-of-homer",
-  externalLink: "https://www.thegreatcoursesplus.com/the-odyssey-of-homer",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-odyssey-of-homer",
+      externalLink: "https://www.thegreatcoursesplus.com/the-odyssey-of-homer",
+    },
+  ],
 } as const satisfies GreatCourse

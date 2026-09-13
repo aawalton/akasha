@@ -14,8 +14,12 @@ export const theScienceOfMindfulnessAResearchBasedPathToWellBeing = {
     "health-and-mindfulness-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-science-of-mindfulness-a-research-based-path-to-well-being",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-science-of-mindfulness-a-research-based-path-to-well-being",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-science-of-mindfulness-a-research-based-path-to-well-being",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-science-of-mindfulness-a-research-based-path-to-well-being",
+    },
+  ],
 } as const satisfies GreatCourse

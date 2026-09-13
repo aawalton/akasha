@@ -14,8 +14,12 @@ export const thinkingLikeAnEconomistAGuideToRationalDecisionMaking = {
     "business-and-finance-great-courses",
     "professional-growth-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "thinking-like-an-economist-a-guide-to-rational-decision-making",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/thinking-like-an-economist-a-guide-to-rational-decision-making",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "thinking-like-an-economist-a-guide-to-rational-decision-making",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/thinking-like-an-economist-a-guide-to-rational-decision-making",
+    },
+  ],
 } as const satisfies GreatCourse

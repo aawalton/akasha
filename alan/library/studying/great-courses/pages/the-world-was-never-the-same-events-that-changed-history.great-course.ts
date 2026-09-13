@@ -10,8 +10,12 @@ export const theWorldWasNeverTheSameEventsThatChangedHistory = {
   ownLength: 1092,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-world-was-never-the-same-events-that-changed-history",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-world-was-never-the-same-events-that-changed-history",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-world-was-never-the-same-events-that-changed-history",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-world-was-never-the-same-events-that-changed-history",
+    },
+  ],
 } as const satisfies GreatCourse

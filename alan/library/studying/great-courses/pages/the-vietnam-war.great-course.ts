@@ -11,7 +11,11 @@ export const theVietnamWar = {
   ownLength: 685.2,
   ownProgress: 685.2,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-vietnam-war",
-  externalLink: "https://www.thegreatcoursesplus.com/the-vietnam-war",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-vietnam-war",
+      externalLink: "https://www.thegreatcoursesplus.com/the-vietnam-war",
+    },
+  ],
 } as const satisfies GreatCourse

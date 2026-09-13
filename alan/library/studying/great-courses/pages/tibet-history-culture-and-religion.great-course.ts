@@ -10,7 +10,11 @@ export const tibetHistoryCultureAndReligion = {
   ownLength: 528.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "tibet-history-culture-and-religion",
-  externalLink: "https://www.thegreatcoursesplus.com/tibet-history-culture-and-religion",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "tibet-history-culture-and-religion",
+      externalLink: "https://www.thegreatcoursesplus.com/tibet-history-culture-and-religion",
+    },
+  ],
 } as const satisfies GreatCourse

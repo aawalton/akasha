@@ -10,7 +10,11 @@ export const theHumanJourney = {
   ownLength: 369.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-human-journey",
-  externalLink: "https://www.thegreatcoursesplus.com/the-human-journey",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-human-journey",
+      externalLink: "https://www.thegreatcoursesplus.com/the-human-journey",
+    },
+  ],
 } as const satisfies GreatCourse

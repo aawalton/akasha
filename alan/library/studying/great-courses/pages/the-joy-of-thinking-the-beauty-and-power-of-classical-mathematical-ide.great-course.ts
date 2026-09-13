@@ -10,8 +10,12 @@ export const theJoyOfThinkingTheBeautyAndPowerOfClassicalMathematicalIde = {
   ownLength: 24,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "mathematics-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-joy-of-thinking-the-beauty-and-power-of-classical-mathematical-ideas",
-  externalLink:
-    "https://plus.thegreatcourses.com/the-joy-of-thinking-the-beauty-and-power-of-classical-mathematical-ideas",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-joy-of-thinking-the-beauty-and-power-of-classical-mathematical-ideas",
+      externalLink:
+        "https://plus.thegreatcourses.com/the-joy-of-thinking-the-beauty-and-power-of-classical-mathematical-ideas",
+    },
+  ],
 } as const satisfies GreatCourse

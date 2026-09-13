@@ -10,7 +10,11 @@ export const understandingCognitiveBiases = {
   ownLength: 647.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "understanding-cognitive-biases",
-  externalLink: "https://www.thegreatcoursesplus.com/understanding-cognitive-biases",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-cognitive-biases",
+      externalLink: "https://www.thegreatcoursesplus.com/understanding-cognitive-biases",
+    },
+  ],
 } as const satisfies GreatCourse

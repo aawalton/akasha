@@ -10,8 +10,12 @@ export const warriorsQueensAndIntellectuals36GreatWomenBefore1400 = {
   ownLength: 1078.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "warriors-queens-and-intellectuals-36-great-women-before-1400",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/warriors-queens-and-intellectuals-36-great-women-before-1400",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "warriors-queens-and-intellectuals-36-great-women-before-1400",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/warriors-queens-and-intellectuals-36-great-women-before-1400",
+    },
+  ],
 } as const satisfies GreatCourse

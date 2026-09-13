@@ -11,8 +11,12 @@ export const theEverydayGourmetMakingGreatMealsInLessTime = {
   ownLength: 198,
   ownProgress: 198,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-everyday-gourmet-making-great-meals-in-less-time",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-everyday-gourmet-making-great-meals-in-less-time",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-everyday-gourmet-making-great-meals-in-less-time",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-everyday-gourmet-making-great-meals-in-less-time",
+    },
+  ],
 } as const satisfies GreatCourse

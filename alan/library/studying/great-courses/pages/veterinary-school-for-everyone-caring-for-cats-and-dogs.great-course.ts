@@ -10,8 +10,12 @@ export const veterinarySchoolForEveryoneCaringForCatsAndDogs = {
   ownLength: 684,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
-  source: "the-great-courses",
-  externalId: "veterinary-school-for-everyone-caring-for-cats-and-dogs",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/veterinary-school-for-everyone-caring-for-cats-and-dogs",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "veterinary-school-for-everyone-caring-for-cats-and-dogs",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/veterinary-school-for-everyone-caring-for-cats-and-dogs",
+    },
+  ],
 } as const satisfies GreatCourse

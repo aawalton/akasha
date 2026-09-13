@@ -10,8 +10,12 @@ export const warpingRealityInsideThePsychologyOfCults = {
   ownLength: 374.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "warping-reality-inside-the-psychology-of-cults",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/warping-reality-inside-the-psychology-of-cults",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "warping-reality-inside-the-psychology-of-cults",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/warping-reality-inside-the-psychology-of-cults",
+    },
+  ],
 } as const satisfies GreatCourse

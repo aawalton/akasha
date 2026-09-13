@@ -10,8 +10,12 @@ export const theEverydayGourmetRediscoveringTheLostArtOfCooking = {
   ownLength: 850.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-everyday-gourmet-rediscovering-the-lost-art-of-cooking",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-everyday-gourmet-rediscovering-the-lost-art-of-cooking",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-everyday-gourmet-rediscovering-the-lost-art-of-cooking",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-everyday-gourmet-rediscovering-the-lost-art-of-cooking",
+    },
+  ],
 } as const satisfies GreatCourse

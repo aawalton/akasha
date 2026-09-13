@@ -14,8 +14,12 @@ export const yourDeceptiveMindAScientificGuideToCriticalThinkingSkills = {
     "professional-growth-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "your-deceptive-mind-a-scientific-guide-to-critical-thinking-skills",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/your-deceptive-mind-a-scientific-guide-to-critical-thinking-skills",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "your-deceptive-mind-a-scientific-guide-to-critical-thinking-skills",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/your-deceptive-mind-a-scientific-guide-to-critical-thinking-skills",
+    },
+  ],
 } as const satisfies GreatCourse

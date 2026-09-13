@@ -11,7 +11,12 @@ export const theGreatToursIrelandAndNorthernIreland = {
   ownLength: 753.6,
   ownProgress: 753.6,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-great-tours-ireland-and-northern-ireland",
-  externalLink: "https://www.thegreatcoursesplus.com/the-great-tours-ireland-and-northern-ireland",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-great-tours-ireland-and-northern-ireland",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-great-tours-ireland-and-northern-ireland",
+    },
+  ],
 } as const satisfies GreatCourse

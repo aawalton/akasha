@@ -11,7 +11,11 @@ export const theRiseOfRome = {
   ownLength: 733.8,
   ownProgress: 733.8,
   partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],
-  source: "the-great-courses",
-  externalId: "rise-of-rome",
-  externalLink: "https://www.thegreatcoursesplus.com/rise-of-rome",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "rise-of-rome",
+      externalLink: "https://www.thegreatcoursesplus.com/rise-of-rome",
+    },
+  ],
 } as const satisfies GreatCourse

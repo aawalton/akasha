@@ -14,7 +14,11 @@ export const whatScienceKnowsAboutCancer = {
     "health-and-mindfulness-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "what-science-knows-about-cancer",
-  externalLink: "https://www.thegreatcoursesplus.com/what-science-knows-about-cancer",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "what-science-knows-about-cancer",
+      externalLink: "https://www.thegreatcoursesplus.com/what-science-knows-about-cancer",
+    },
+  ],
 } as const satisfies GreatCourse

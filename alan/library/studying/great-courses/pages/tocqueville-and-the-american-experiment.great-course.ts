@@ -10,7 +10,11 @@ export const tocquevilleAndTheAmericanExperiment = {
   ownLength: 738.25,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],
-  source: "the-great-courses",
-  externalId: "tocqueville-and-the-american-experiment",
-  externalLink: "https://www.thegreatcoursesplus.com/tocqueville-and-the-american-experiment",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "tocqueville-and-the-american-experiment",
+      externalLink: "https://www.thegreatcoursesplus.com/tocqueville-and-the-american-experiment",
+    },
+  ],
 } as const satisfies GreatCourse

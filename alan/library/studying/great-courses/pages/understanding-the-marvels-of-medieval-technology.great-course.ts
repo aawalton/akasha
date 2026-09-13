@@ -10,8 +10,12 @@ export const understandingTheMarvelsOfMedievalTechnology = {
   ownLength: 812.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],
-  source: "the-great-courses",
-  externalId: "understanding-the-marvels-of-medieval-technology",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/understanding-the-marvels-of-medieval-technology",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-the-marvels-of-medieval-technology",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/understanding-the-marvels-of-medieval-technology",
+    },
+  ],
 } as const satisfies GreatCourse

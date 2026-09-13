@@ -15,7 +15,11 @@ export const thePerfectCupcake = {
     "food-and-drink-great-courses",
     "hobby-and-personal-pursuits-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-perfect-cupcake",
-  externalLink: "https://www.thegreatcoursesplus.com/the-perfect-cupcake",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-perfect-cupcake",
+      externalLink: "https://www.thegreatcoursesplus.com/the-perfect-cupcake",
+    },
+  ],
 } as const satisfies GreatCourse

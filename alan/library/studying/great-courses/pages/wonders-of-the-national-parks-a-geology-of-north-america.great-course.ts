@@ -15,8 +15,12 @@ export const wondersOfTheNationalParksAGeologyOfNorthAmerica = {
     "science-great-courses",
     "travel-and-culture-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "wonders-of-the-national-parks-a-geology-of-north-america",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/wonders-of-the-national-parks-a-geology-of-north-america",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "wonders-of-the-national-parks-a-geology-of-north-america",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/wonders-of-the-national-parks-a-geology-of-north-america",
+    },
+  ],
 } as const satisfies GreatCourse

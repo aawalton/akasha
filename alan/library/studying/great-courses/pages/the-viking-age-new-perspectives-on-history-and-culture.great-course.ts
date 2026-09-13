@@ -10,8 +10,12 @@ export const theVikingAgeNewPerspectivesOnHistoryAndCulture = {
   ownLength: 402,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-viking-age-new-perspectives-on-history-and-culture",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-viking-age-new-perspectives-on-history-and-culture",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-viking-age-new-perspectives-on-history-and-culture",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-viking-age-new-perspectives-on-history-and-culture",
+    },
+  ],
 } as const satisfies GreatCourse

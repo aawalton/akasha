@@ -10,8 +10,12 @@ export const theGreatDebateAdvocatesAndOpponentsOfTheAmericanConstitution = {
   ownLength: 378.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "the-great-debate-advocates-and-opponents-of-the-american-constitution",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-great-debate-advocates-and-opponents-of-the-american-constitution",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-great-debate-advocates-and-opponents-of-the-american-constitution",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-great-debate-advocates-and-opponents-of-the-american-constitution",
+    },
+  ],
 } as const satisfies GreatCourse

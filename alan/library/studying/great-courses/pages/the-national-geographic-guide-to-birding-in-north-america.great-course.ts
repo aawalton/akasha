@@ -14,8 +14,12 @@ export const theNationalGeographicGuideToBirdingInNorthAmerica = {
     "hobby-and-personal-pursuits-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-national-geographic-guide-to-birding-in-north-america",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-national-geographic-guide-to-birding-in-north-america",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-national-geographic-guide-to-birding-in-north-america",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-national-geographic-guide-to-birding-in-north-america",
+    },
+  ],
 } as const satisfies GreatCourse

@@ -15,8 +15,12 @@ export const theSpiritualBrainScienceAndReligiousExperience = {
     "philosophy-and-religion-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-spiritual-brain-science-and-religious-experience",
-  externalLink:
-    "https://www.thegreatcoursesplus.com/the-spiritual-brain-science-and-religious-experience",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-spiritual-brain-science-and-religious-experience",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-spiritual-brain-science-and-religious-experience",
+    },
+  ],
 } as const satisfies GreatCourse

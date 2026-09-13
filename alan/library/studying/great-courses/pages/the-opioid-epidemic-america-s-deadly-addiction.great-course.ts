@@ -15,7 +15,12 @@ export const theOpioidEpidemicAmericaSDeadlyAddiction = {
     "health-and-mindfulness-great-courses",
     "science-great-courses",
   ],
-  source: "the-great-courses",
-  externalId: "the-opioid-epidemic-americas-deadly-addiction",
-  externalLink: "https://www.thegreatcoursesplus.com/the-opioid-epidemic-americas-deadly-addiction",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-opioid-epidemic-americas-deadly-addiction",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-opioid-epidemic-americas-deadly-addiction",
+    },
+  ],
 } as const satisfies GreatCourse

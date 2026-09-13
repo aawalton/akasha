@@ -10,7 +10,11 @@ export const turningPointsInMiddleEasternHistory = {
   ownLength: 1099.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],
-  source: "the-great-courses",
-  externalId: "turning-points-in-middle-eastern-history",
-  externalLink: "https://www.thegreatcoursesplus.com/turning-points-in-middle-eastern-history",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "turning-points-in-middle-eastern-history",
+      externalLink: "https://www.thegreatcoursesplus.com/turning-points-in-middle-eastern-history",
+    },
+  ],
 } as const satisfies GreatCourse
