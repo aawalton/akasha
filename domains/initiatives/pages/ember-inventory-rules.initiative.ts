@@ -21,7 +21,7 @@ export const emberInventoryRules = {
       statement:
         "A visit to the banker moves every item the rules send there, however many there are.",
       workingMemory:
-        "Alan asked for batches of fifty five seconds apart. 6db0e2e replaces the one-move-at-a-time chain in inventory-rules-dispatch-bank-paced: fifty go out at once, then five seconds, then each is checked against its source stack and one that did not land is carried forward, up to four attempts. A move given up on no longer abandons the moves behind it. Left: MAX_OPS in inventory-rules-dispatch-bank caps a visit at fifty withdrawals and fifty deposits, a cap the batching makes unnecessary.",
+        "Alan asked for batches of fifty five seconds apart, and 6db0e2e batches inventory-rules-dispatch-bank-paced that way, carrying an unlanded move forward up to four attempts. e136999 then takes the per-visit count of fifty off both loops: a visit withdraws until the configured backpack buffer or a full backpack, deposits until storage has no room, and each prints on stopping. 1edea38 says what a closed bank left unsent. Left: Alan to confirm one trip does it.",
     },
   ],
   constraints: [
