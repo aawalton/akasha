@@ -36,8 +36,8 @@ import {
   takeoverSeat,
 } from "akasha/agents/seats/modules/takeover-seat/takeover-seat.module.code.ts"
 import { parseWindowDuration } from "akasha/agents/seats/modules/window-duration/window-duration.module.code.ts"
+import { decideSubagentGuard } from "akasha/agents/subagents/modules/guard/subagent-guard.module.code.ts"
 import { standingSubagentsOf } from "akasha/agents/subagents/modules/page/subagent-page.module.code.ts"
-import { decideSubagentGuard } from "akasha/agents/subagents/modules/subagent-guard/subagent-guard.module.code.ts"
 import {
   dataError,
   exitCodeForThrowable,
