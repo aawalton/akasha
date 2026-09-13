@@ -7,6 +7,7 @@ import type { RcDegradedSeat } from "akasha/agents/seats/supervisors/modules/sup
 import type { RemoteControlSeatQuestion } from "akasha/agents/seats/supervisors/modules/supervisor-remote-control-decide/supervisor-remote-control-decide.module.code.ts"
 import type { RestartNowEvent } from "akasha/agents/seats/supervisors/modules/supervisor-restart-notice-decide/supervisor-restart-notice-decide.module.code.ts"
 import type { UncertainBlockSeat } from "akasha/agents/seats/supervisors/modules/supervisor-uncertain-wait-decide/supervisor-uncertain-wait-decide.module.code.ts"
+import type { WaitResumeInput } from "akasha/agents/seats/supervisors/modules/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts"
 import {
   arr,
   bool,
@@ -16,7 +17,6 @@ import {
   oneOf,
   str,
 } from "akasha/commands/modules/argument-narrowing/argument-narrowing.module.code.ts"
-import type { WaitResumeInput } from "akasha/seat-system/supervising/modules/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts"
 
 export function parseUncertainWait(value: unknown, path: string): UncertainBlockSeat[] {
   return arr(value, path).map((entry, at) => {

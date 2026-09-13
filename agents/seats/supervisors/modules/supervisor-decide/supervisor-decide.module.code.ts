@@ -22,16 +22,16 @@ import {
   type ResumeNotices,
 } from "akasha/agents/seats/supervisors/modules/supervisor-restart-notice-decide/supervisor-restart-notice-decide.module.code.ts"
 import { decideUncertainBlockBatch } from "akasha/agents/seats/supervisors/modules/supervisor-uncertain-wait-decide/supervisor-uncertain-wait-decide.module.code.ts"
+import {
+  decideWaitResume,
+  type WaitResumeDecision,
+} from "akasha/agents/seats/supervisors/modules/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts"
 import { fail } from "akasha/commands/modules/failing/command-failing.module.code.ts"
 import {
   readPayload,
   record,
   rejectUnknownFlags,
 } from "akasha/commands/modules/payload/payload.module.code.ts"
-import {
-  decideWaitResume,
-  type WaitResumeDecision,
-} from "akasha/seat-system/supervising/modules/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts"
 
 const NUDGE_NOTICE = "limit-resume-nudge"
 const WAIT_NUDGE_NOTICE = "wait-resume-nudge"

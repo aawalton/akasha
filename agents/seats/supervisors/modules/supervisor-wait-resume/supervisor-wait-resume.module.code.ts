@@ -7,20 +7,20 @@ import {
   sendMessage,
 } from "akasha/agents/seats/supervisors/modules/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"
 import { tickSaying } from "akasha/agents/seats/supervisors/modules/supervisor-tick-saying/supervisor-tick-saying.module.code.ts"
-import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
 import {
   type AskDecide,
   askWaitResume,
   type WaitResumeVerdict,
-} from "akasha/seat-system/supervising/modules/supervisor-wait-resume-answer/supervisor-wait-resume-answer.module.code.ts"
+} from "akasha/agents/seats/supervisors/modules/supervisor-wait-resume-answer/supervisor-wait-resume-answer.module.code.ts"
 import {
   WAIT_MAX_MS,
   waitMs,
-} from "akasha/seat-system/supervising/modules/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts"
+} from "akasha/agents/seats/supervisors/modules/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts"
 import {
   CONNECTION_STATUS,
   classifyTurnEndErrorDeath,
-} from "akasha/seat-system/supervising/modules/turn-end-error-death/turn-end-error-death.module.code.ts"
+} from "akasha/agents/seats/supervisors/modules/turn-end-error-death/turn-end-error-death.module.code.ts"
+import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
 
 const WAIT_RESUME_INTERVAL_MS = 30_000
 

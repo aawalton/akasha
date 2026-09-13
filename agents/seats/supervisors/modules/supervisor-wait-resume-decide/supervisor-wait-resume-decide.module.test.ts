@@ -5,7 +5,7 @@ import {
   WAIT_MAX_MS,
   type WaitResumeInput,
   waitMs,
-} from "akasha/seat-system/supervising/modules/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts"
+} from "akasha/agents/seats/supervisors/modules/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts"
 
 const NOW = 9_000_000
 
