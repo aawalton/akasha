@@ -1,8 +1,6 @@
 import { expect, test } from "bun:test"
-import {
-  openingsIn,
-  renamePageAddresses,
-} from "akasha/changes/mechanical/file-content/rename/rename-page-addresses/rename-page-addresses.change-mechanical-file-content.code.ts"
+import { renamePageAddresses } from "akasha/changes/mechanical/file-content/rename/rename-page-addresses/rename-page-addresses.change-mechanical-file-content.code.ts"
+import { openingsIn } from "akasha/changes/modules/address-restating/address-restating.module.code.ts"
 import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import { pathsThere, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
