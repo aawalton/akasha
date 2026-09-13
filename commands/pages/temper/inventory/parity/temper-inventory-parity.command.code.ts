@@ -282,6 +282,7 @@ export async function temperInventoryParity(
       charactersById,
       characterPriority: config.characterPriority,
       wantedConsumables: config.wantedConsumables,
+      db,
     })
     facts = caps.cliItemFactsFromInventoryItem(item, caps.classifyItemToNodeIds(item), location)
     const stockGroupByRuleId = caps.computeStockGroups(

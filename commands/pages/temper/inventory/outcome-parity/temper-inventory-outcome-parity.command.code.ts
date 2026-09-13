@@ -151,6 +151,7 @@ export async function temperInventoryOutcomeParity(
       charactersById,
       characterPriority: config.characterPriority,
       wantedConsumables: config.wantedConsumables,
+      db,
     })
     const held = allBagItems(caps, db)
     const factsOf = ({ item, location }: (typeof held)[number]) =>
