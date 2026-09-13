@@ -34,11 +34,15 @@ export const measureCall = {
     },
     {
       invariantKind: "departure",
-      statement: "The runs are gathered under the first line of the command the agent wrote.",
+      statement: "The runs are gathered under the opening of the first line the agent wrote.",
     },
     {
       invariantKind: "departure",
-      statement: "Two calls writing that same first line are gathered as one row.",
+      statement: "A first line past the width a column holds is shortened to that width.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Two calls opening their first line alike are gathered as one row.",
     },
     {
       invariantKind: "departure",

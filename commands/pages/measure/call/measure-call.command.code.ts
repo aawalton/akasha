@@ -17,6 +17,14 @@ const PHASE = "bash"
 
 const CALL = "call"
 
+const WIDEST = 60
+
+const ELLIPSIS = "..."
+
+export function shortened(ran: string): string {
+  return ran.length <= WIDEST ? ran : `${ran.slice(0, WIDEST - ELLIPSIS.length)}${ELLIPSIS}`
+}
+
 export function measureCall(argv: readonly string[], given: Given): Answer {
   const read = takenFor(argv, given.calledAs, page, [runWindow])
   if ("refused" in read) return mistaking(read.refused)
@@ -26,6 +34,10 @@ export function measureCall(argv: readonly string[], given: Given): Answer {
     given.root,
     valuesOfType(given.root, SEAT).map((one) => one.path)
   )
-  const costs = costsOf(gathered, Date.now(), chose.chosen, (one) => one.phase === PHASE)
+  const held = {
+    ...gathered,
+    runs: gathered.runs.map((one) => ({ ...one, ran: shortened(one.ran) })),
+  }
+  const costs = costsOf(held, Date.now(), chose.chosen, (one) => one.phase === PHASE)
   return told([...linesOf(costs, CALL)])
 }

@@ -10,7 +10,10 @@ import { saidForPart } from "akasha/commands/arguments/modules/taking/argument-t
 import { runWindow } from "akasha/commands/arguments/pages/run-window.argument.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { measureCall } from "akasha/commands/pages/measure/call/measure-call.command.code.ts"
+import {
+  measureCall,
+  shortened,
+} from "akasha/commands/pages/measure/call/measure-call.command.code.ts"
 import { measureCall as page } from "akasha/commands/pages/measure/call/measure-call.command.ts"
 import { valueAlsoFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import { nothingFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
@@ -118,10 +121,30 @@ test("a row beside the same page spelling another phase counts nowhere here", ()
   expect(said).not.toContain("left-call")
 })
 
-test("two calls writing that same first line are gathered as one row", () => {
+test("two calls opening their first line alike are gathered as one row", () => {
   const said = saidFor([{ ran: "twice-call" }, { runId: TWO, ran: "twice-call" }])
   const rows = said.split("\n").filter((one) => one.startsWith("twice-call"))
 
   expect(rows.length).toBe(1)
   expect(rows[0]?.trim().split(/\s+/)[1]).toBe("2")
+})
+
+test("a first line no wider than a column holds is left as the agent wrote it", () => {
+  expect(shortened("ls -la")).toBe("ls -la")
+})
+
+test("a first line past that width is shortened to it", () => {
+  const said = shortened("x".repeat(200))
+
+  expect(said.length).toBe(60)
+  expect(said.endsWith("...")).toBe(true)
+})
+
+test("two long first lines opening alike are gathered as one row", () => {
+  const opening = "akasha change draft change-file and a good deal more than a column holds"
+  const said = saidFor([{ ran: `${opening} one` }, { runId: TWO, ran: `${opening} two` }])
+  const rows = said.split("\n").filter((one) => one.startsWith(shortened(opening)))
+
+  expect(rows.length).toBe(1)
+  expect(said).not.toContain("two")
 })
