@@ -5,11 +5,12 @@ export const mitski = {
   type: "artist",
   slug: "mitski",
   title: "Mitski",
-  externalId: "fa58cf24-0e44-421d-8519-8bf461dcfaa5",
-  externalLink: "https://musicbrainz.org/artist/fa58cf24-0e44-421d-8519-8bf461dcfaa5",
+  partOfCollections: ["artists"],
+  position: 0,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "minutes",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-28",
+  status: "archived",
   genre: [
     "indie rock",
     "rock",
@@ -21,5 +22,20 @@ export const mitski = {
     "folk rock",
   ],
   rank: "B+",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "fa58cf24-0e44-421d-8519-8bf461dcfaa5",
+      externalLink: "https://musicbrainz.org/artist/fa58cf24-0e44-421d-8519-8bf461dcfaa5",
+      lastSyncedAt: "2026-06-28",
+    },
+    {
+      source: "spotify",
+      externalId: "2uYWxilOVlUdk4oV9DvwqK",
+      externalLink: "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK",
+      lastSyncedAt: "2025-09-30",
+    },
+  ],
+  tags: ["Indie Pop Storyteller"],
   reaction: "txt",
 } as const satisfies Artist
