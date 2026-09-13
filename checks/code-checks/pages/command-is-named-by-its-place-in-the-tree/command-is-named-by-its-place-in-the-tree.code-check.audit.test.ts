@@ -6,6 +6,7 @@ import {
   edging,
   founded,
   typed,
+  wrote,
 } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import { pageFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
@@ -38,6 +39,9 @@ function rooted(at: string): string {
   pageFiled(root, NS, NS_AT)
   claiming(root, at, at, CMD)
   claiming(root, NS_AT, NS_AT, NS)
+  wrote(root, {
+    [at]: `export const held = { id: ${JSON.stringify(CMD)}, type: "command", slug: "warbling-humming" }\n`,
+  })
   edging(root, CMD, "parts", NS, NS_AT)
   return root
 }
