@@ -30,3 +30,13 @@ export function syncedFrom(held: unknown, source: string): string | null {
   const one = identityFrom(held, source)
   return one === null ? null : textIn(one.lastSyncedAt)
 }
+
+export function identitiesWith<Stated extends { readonly source: string }>(
+  held: unknown,
+  fresh: Stated
+): readonly Stated[] {
+  const kept = Array.isArray(held)
+    ? (held as readonly Stated[]).filter((one) => one.source !== fresh.source)
+    : []
+  return [...kept, fresh].sort((a, b) => (a.source < b.source ? -1 : a.source > b.source ? 1 : 0))
+}

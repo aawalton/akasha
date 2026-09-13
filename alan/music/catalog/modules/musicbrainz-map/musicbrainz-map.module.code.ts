@@ -189,13 +189,6 @@ export function identityHeld(held: unknown, mbid: string): boolean {
   return false
 }
 
-export function identitiesWith(held: unknown, fresh: ArtistIdentity): readonly ArtistIdentity[] {
-  const kept = Array.isArray(held)
-    ? (held as readonly ArtistIdentity[]).filter((one) => one.source !== fresh.source)
-    : []
-  return [...kept, fresh].sort((a, b) => (a.source < b.source ? -1 : a.source > b.source ? 1 : 0))
-}
-
 export function mbWorkToSongFields(args: {
   readonly work: MbWork
   readonly artistSlug: string

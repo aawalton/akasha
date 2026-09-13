@@ -1,3 +1,4 @@
+import { identitiesWith } from "akasha/alan/collections/externals/modules/external-identity-reading/external-identity-reading.module.code.ts"
 import {
   artistIn,
   type Catalogue,
@@ -20,7 +21,6 @@ import {
 import {
   dedupeRecordings,
   extractGenres,
-  identitiesWith,
   isSongWork,
   mbArtistIdentity,
   mbArtistToFields,

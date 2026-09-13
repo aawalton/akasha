@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   identitiesIn,
+  identitiesWith,
   identityFrom,
   idFrom,
   linkFrom,
@@ -49,4 +50,27 @@ test("a value that is no list of records is read as no record at all", () => {
   expect(identitiesIn("musicbrainz")).toEqual([])
   expect(identitiesIn([null, "held"])).toEqual([])
   expect(idFrom(undefined, "kindle")).toBeNull()
+})
+
+test("a fresh record writes over the record the same provider held", () => {
+  const folded = identitiesWith(HELD, { source: "spotify", externalId: "a-fresher-id" })
+  expect(folded.filter((one) => one.source === "spotify")).toHaveLength(1)
+  expect(idFrom(folded, "spotify")).toBe("a-fresher-id")
+})
+
+test("a fresh record leaves every other provider's record as that record was", () => {
+  const folded = identitiesWith(HELD, { source: "spotify", externalId: "a-fresher-id" })
+  expect(idFrom(folded, "musicbrainz")).toBe("484a4e90")
+  expect(syncedFrom(folded, "musicbrainz")).toBe("2026-06-08")
+})
+
+test("records are ordered by the provider each one names", () => {
+  const folded = identitiesWith(HELD, { source: "kindle", externalId: "a-kindle-id" })
+  expect(folded.map((one) => one.source)).toEqual(["kindle", "musicbrainz", "spotify"])
+})
+
+test("a page holding no record at all is left holding the one fresh record", () => {
+  expect(identitiesWith(undefined, { source: "spotify", externalId: "an-id" })).toEqual([
+    { source: "spotify", externalId: "an-id" },
+  ])
 })

@@ -5,7 +5,6 @@ import {
   deriveSongTypeFromTitle,
   deriveWritten,
   extractGenres,
-  identitiesWith,
   identityHeld,
   isSongWork,
   mbArtistIdentity,
@@ -322,27 +321,6 @@ describe("identityHeld", () => {
 
   test("answers false where the page holds no record at all", () => {
     expect(identityHeld(undefined, QUEEN)).toBe(false)
-  })
-})
-
-describe("identitiesWith", () => {
-  const spotify = { source: "spotify", externalId: "sp1" } as const
-
-  test("keeps the records of every other provider", () => {
-    const held = identitiesWith([spotify], mbArtistIdentity({ mbid: QUEEN, today: "2026-09-02" }))
-    expect(held.map((one) => one.source)).toEqual(["musicbrainz", "spotify"])
-  })
-
-  test("writes over the record the same provider held", () => {
-    const was = [{ source: "musicbrainz", externalId: "stale" }, spotify]
-    const held = identitiesWith(was, mbArtistIdentity({ mbid: QUEEN, today: "2026-09-02" }))
-    expect(held.filter((one) => one.source === "musicbrainz")).toHaveLength(1)
-    expect(held.find((one) => one.source === "musicbrainz")?.externalId).toBe(QUEEN)
-  })
-
-  test("answers the one record where the page held none", () => {
-    const held = identitiesWith(undefined, mbArtistIdentity({ mbid: QUEEN, today: "2026-09-02" }))
-    expect(held).toHaveLength(1)
   })
 })
 

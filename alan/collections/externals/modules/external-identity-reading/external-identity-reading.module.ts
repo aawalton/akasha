@@ -4,7 +4,7 @@ export const externalIdentityReading = {
   id: "01a09bf4-84e9-7269-b76b-4b3efbc8d34a",
   type: "module",
   slug: "external-identity-reading",
-  definition: "what one provider calls a collection, read off that collection's records",
+  definition: "what one provider calls a collection, read off and folded into its records",
   code: "ts",
   test: "ts",
   invariants: [
@@ -23,6 +23,18 @@ export const externalIdentityReading = {
     {
       invariantKind: "departure",
       statement: "A value that is no list of records is read as no record at all.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A fresh record writes over the record the same provider held.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A fresh record leaves every other provider's record as that record was.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Records are ordered by the provider each one names.",
     },
     {
       invariantKind: "absence",
