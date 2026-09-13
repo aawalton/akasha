@@ -51,5 +51,10 @@ export const subagentBriefKept = {
       invariantKind: "absence",
       statement: "Nothing here weighs what the helper came back with.",
     },
+    {
+      invariantKind: "constraint",
+      statement:
+        "It refused none of the 214 clean cases on two runs and then one of them on the third.",
+    },
   ],
 } as const satisfies ModelTest
