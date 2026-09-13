@@ -9,6 +9,7 @@ export const changeRunner = {
   parts: [
     "change-runner/agent-change-running",
     "change-runner/mechanical-change-running",
+    "change-runner/test-change-running",
     "file-property/addressed",
     "module/change-loading",
     "relation-property/reached",
