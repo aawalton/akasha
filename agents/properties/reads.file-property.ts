@@ -9,7 +9,6 @@ export const reads = {
   extensions: ["jsonl"],
   runsFileLength: false,
   generated: true,
-  appendOnly: true,
   invariants: [
     {
       invariantKind: "departure",
@@ -18,6 +17,10 @@ export const reads = {
     {
       invariantKind: "departure",
       statement: "A reading is appended rather than written over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The file is written again only to forget readings.",
     },
     {
       invariantKind: "departure",
