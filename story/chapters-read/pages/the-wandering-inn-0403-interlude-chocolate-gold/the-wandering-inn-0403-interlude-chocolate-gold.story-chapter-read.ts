@@ -11,6 +11,11 @@ export const theWanderingInn0403InterludeChocolateGold = {
   ownProgress: 6217,
   unit: "words",
   publishedAt: "2020-03-04",
-  externalLink: "https://wanderinginn.com/2020/03/04/interlude-chocolate-gold/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2020/03/04/interlude-chocolate-gold/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

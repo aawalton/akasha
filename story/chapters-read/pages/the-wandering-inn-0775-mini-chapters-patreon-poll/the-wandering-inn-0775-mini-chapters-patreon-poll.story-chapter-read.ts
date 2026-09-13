@@ -11,6 +11,11 @@ export const theWanderingInn0775MiniChaptersPatreonPoll = {
   ownProgress: 66937,
   unit: "words",
   publishedAt: "2025-07-05",
-  externalLink: "https://wanderinginn.com/2025/07/05/mini-chapters-patreon-poll/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2025/07/05/mini-chapters-patreon-poll/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

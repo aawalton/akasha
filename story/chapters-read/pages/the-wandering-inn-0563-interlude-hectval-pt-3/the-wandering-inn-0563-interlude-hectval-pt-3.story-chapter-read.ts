@@ -11,6 +11,11 @@ export const theWanderingInn0563InterludeHectvalPt3 = {
   ownProgress: 30212,
   unit: "words",
   publishedAt: "2022-02-16",
-  externalLink: "https://wanderinginn.com/2022/02/16/interlude-hectval-pt-3/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2022/02/16/interlude-hectval-pt-3/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

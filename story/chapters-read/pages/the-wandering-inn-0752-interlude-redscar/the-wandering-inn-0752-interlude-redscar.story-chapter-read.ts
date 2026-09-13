@@ -11,6 +11,11 @@ export const theWanderingInn0752InterludeRedscar = {
   ownProgress: 26606,
   unit: "words",
   publishedAt: "2025-02-01",
-  externalLink: "https://wanderinginn.com/2025/02/01/interlude-redscar/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2025/02/01/interlude-redscar/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

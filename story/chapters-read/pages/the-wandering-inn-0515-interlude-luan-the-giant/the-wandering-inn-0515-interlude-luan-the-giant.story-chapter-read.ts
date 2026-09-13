@@ -11,6 +11,11 @@ export const theWanderingInn0515InterludeLuanTheGiant = {
   ownProgress: 19917,
   unit: "words",
   publishedAt: "2021-06-08",
-  externalLink: "https://wanderinginn.com/2021/06/08/interlude-luan-the-giant/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2021/06/08/interlude-luan-the-giant/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

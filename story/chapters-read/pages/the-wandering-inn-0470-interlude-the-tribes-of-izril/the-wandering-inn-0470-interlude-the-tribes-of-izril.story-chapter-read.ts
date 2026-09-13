@@ -11,6 +11,11 @@ export const theWanderingInn0470InterludeTheTribesOfIzril = {
   ownProgress: 15572,
   unit: "words",
   publishedAt: "2020-11-25",
-  externalLink: "https://wanderinginn.com/2020/11/25/interlude-the-tribes-of-izril/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2020/11/25/interlude-the-tribes-of-izril/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

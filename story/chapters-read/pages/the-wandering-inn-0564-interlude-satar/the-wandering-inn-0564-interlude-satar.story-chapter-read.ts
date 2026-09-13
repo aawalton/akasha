@@ -11,6 +11,11 @@ export const theWanderingInn0564InterludeSatar = {
   ownProgress: 45023,
   unit: "words",
   publishedAt: "2022-02-20",
-  externalLink: "https://wanderinginn.com/2022/02/20/interlude-satar/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2022/02/20/interlude-satar/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

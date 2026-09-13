@@ -11,6 +11,11 @@ export const theWanderingInn0697InterludeSalissTheArchitect = {
   ownProgress: 24534,
   unit: "words",
   publishedAt: "2024-03-13",
-  externalLink: "https://wanderinginn.com/2024/03/13/interlude-saliss-the-architect/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2024/03/13/interlude-saliss-the-architect/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

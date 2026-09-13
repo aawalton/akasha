@@ -11,6 +11,11 @@ export const theWanderingInn0722GoblinDaysPt7NoAnswersAndAnswers = {
   ownProgress: 17122,
   unit: "words",
   publishedAt: "2024-08-02",
-  externalLink: "https://wanderinginn.com/2024/08/02/goblin-days-pt-7-no-answers-and-answers/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2024/08/02/goblin-days-pt-7-no-answers-and-answers/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

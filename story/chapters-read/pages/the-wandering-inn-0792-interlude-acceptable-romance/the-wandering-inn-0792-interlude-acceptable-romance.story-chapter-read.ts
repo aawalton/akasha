@@ -10,6 +10,11 @@ export const theWanderingInn0792InterludeAcceptableRomance = {
   ownLength: 8831,
   unit: "words",
   publishedAt: "2025-10-12",
-  externalLink: "https://wanderinginn.com/2025/10/12/interlude-acceptable-romance/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2025/10/12/interlude-acceptable-romance/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

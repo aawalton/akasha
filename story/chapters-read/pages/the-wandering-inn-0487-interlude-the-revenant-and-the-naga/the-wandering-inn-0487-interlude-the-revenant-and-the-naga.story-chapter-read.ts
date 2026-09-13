@@ -11,6 +11,11 @@ export const theWanderingInn0487InterludeTheRevenantAndTheNaga = {
   ownProgress: 19298,
   unit: "words",
   publishedAt: "2021-01-24",
-  externalLink: "https://wanderinginn.com/2021/01/24/interlude-the-revenant-and-the-naga/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2021/01/24/interlude-the-revenant-and-the-naga/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

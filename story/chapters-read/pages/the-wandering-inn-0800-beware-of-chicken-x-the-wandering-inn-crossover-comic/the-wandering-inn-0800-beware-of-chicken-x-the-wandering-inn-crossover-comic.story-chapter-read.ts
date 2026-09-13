@@ -10,7 +10,12 @@ export const theWanderingInn0800BewareOfChickenXTheWanderingInnCrossoverComic = 
   ownLength: 0,
   unit: "words",
   publishedAt: "2025-12-03",
-  externalLink:
-    "https://wanderinginn.com/2025/12/03/beware-of-chicken-x-the-wandering-inn-crossover-comic/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink:
+        "https://wanderinginn.com/2025/12/03/beware-of-chicken-x-the-wandering-inn-crossover-comic/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

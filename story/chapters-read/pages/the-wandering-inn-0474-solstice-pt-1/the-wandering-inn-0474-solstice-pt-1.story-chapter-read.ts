@@ -11,6 +11,11 @@ export const theWanderingInn0474SolsticePt1 = {
   ownProgress: 23307,
   unit: "words",
   publishedAt: "2020-12-16",
-  externalLink: "https://wanderinginn.com/2020/12/16/solstice-pt-1/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2020/12/16/solstice-pt-1/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

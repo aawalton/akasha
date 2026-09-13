@@ -10,6 +10,11 @@ export const theWanderingInn0796InterludeBarelleTheBard = {
   ownLength: 14242,
   unit: "words",
   publishedAt: "2025-11-09",
-  externalLink: "https://wanderinginn.com/2025/11/09/interlude-barelle-the-bard/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2025/11/09/interlude-barelle-the-bard/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

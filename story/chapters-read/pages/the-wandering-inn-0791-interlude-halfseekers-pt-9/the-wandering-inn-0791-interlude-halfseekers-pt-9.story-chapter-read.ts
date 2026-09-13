@@ -10,6 +10,11 @@ export const theWanderingInn0791InterludeHalfseekersPt9 = {
   ownLength: 15854,
   unit: "words",
   publishedAt: "2025-10-07",
-  externalLink: "https://wanderinginn.com/2025/10/07/interlude-halfseekers-pt-9/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2025/10/07/interlude-halfseekers-pt-9/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -11,6 +11,12 @@ export const theWanderingInn0717GoblinDaysPt2ThePilotAndTheKnight = {
   ownProgress: 13319,
   unit: "words",
   publishedAt: "2024-07-28",
-  externalLink: "https://wanderinginn.com/2024/07/28/goblin-days-pt-2-the-pilot-and-the-knight/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink:
+        "https://wanderinginn.com/2024/07/28/goblin-days-pt-2-the-pilot-and-the-knight/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

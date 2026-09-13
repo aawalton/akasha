@@ -11,6 +11,11 @@ export const theWanderingInn0718GoblinDaysPt3VengeanceAndTalking = {
   ownProgress: 14981,
   unit: "words",
   publishedAt: "2024-07-30",
-  externalLink: "https://wanderinginn.com/2024/07/30/goblin-days-pt-3-vengeance-and-talking/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2024/07/30/goblin-days-pt-3-vengeance-and-talking/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

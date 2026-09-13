@@ -11,6 +11,11 @@ export const theWanderingInn0600InterludeTheCompetition = {
   ownProgress: 20958,
   unit: "words",
   publishedAt: "2022-08-06",
-  externalLink: "https://wanderinginn.com/2022/08/06/interlude-the-competition/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2022/08/06/interlude-the-competition/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

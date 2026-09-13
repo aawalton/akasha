@@ -11,6 +11,11 @@ export const theWanderingInn0447InterludeFoodAndGrowth = {
   ownProgress: 6475,
   unit: "words",
   publishedAt: "2020-08-12",
-  externalLink: "https://wanderinginn.com/2020/08/12/interlude-food-and-growth/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2020/08/12/interlude-food-and-growth/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

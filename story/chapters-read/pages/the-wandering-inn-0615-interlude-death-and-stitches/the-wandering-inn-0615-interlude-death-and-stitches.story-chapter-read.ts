@@ -11,6 +11,11 @@ export const theWanderingInn0615InterludeDeathAndStitches = {
   ownProgress: 15998,
   unit: "words",
   publishedAt: "2022-10-16",
-  externalLink: "https://wanderinginn.com/2022/10/16/interlude-death-and-stitches/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2022/10/16/interlude-death-and-stitches/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

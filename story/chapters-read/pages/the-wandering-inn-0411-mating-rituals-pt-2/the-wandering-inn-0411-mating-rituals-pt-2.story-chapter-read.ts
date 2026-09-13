@@ -11,6 +11,11 @@ export const theWanderingInn0411MatingRitualsPt2 = {
   ownProgress: 28828,
   unit: "words",
   publishedAt: "2020-03-21",
-  externalLink: "https://wanderinginn.com/2020/03/21/mating-rituals-pt-2/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2020/03/21/mating-rituals-pt-2/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

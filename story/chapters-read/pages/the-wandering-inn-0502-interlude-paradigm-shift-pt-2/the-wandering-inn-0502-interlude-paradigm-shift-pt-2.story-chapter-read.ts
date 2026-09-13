@@ -11,6 +11,11 @@ export const theWanderingInn0502InterludeParadigmShiftPt2 = {
   ownProgress: 20423,
   unit: "words",
   publishedAt: "2021-04-04",
-  externalLink: "https://wanderinginn.com/2021/04/04/interlude-paradigm-shift-pt-2/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2021/04/04/interlude-paradigm-shift-pt-2/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

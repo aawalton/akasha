@@ -11,6 +11,11 @@ export const theWanderingInn0445InterludeSandAndNotes = {
   ownProgress: 9217,
   unit: "words",
   publishedAt: "2020-08-10",
-  externalLink: "https://wanderinginn.com/2020/08/10/interlude-sand-and-notes/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2020/08/10/interlude-sand-and-notes/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

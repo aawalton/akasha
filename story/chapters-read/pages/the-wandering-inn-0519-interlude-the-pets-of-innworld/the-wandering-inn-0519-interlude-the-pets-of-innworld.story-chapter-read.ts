@@ -11,6 +11,11 @@ export const theWanderingInn0519InterludeThePetsOfInnworld = {
   ownProgress: 16727,
   unit: "words",
   publishedAt: "2021-06-26",
-  externalLink: "https://wanderinginn.com/2021/06/26/interlude-the-pets-of-innworld/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2021/06/26/interlude-the-pets-of-innworld/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

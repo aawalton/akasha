@@ -11,6 +11,11 @@ export const theWanderingInn0434InterludeAMeetingOfDruids = {
   ownProgress: 26208,
   unit: "words",
   publishedAt: "2020-07-01",
-  externalLink: "https://wanderinginn.com/2020/07/01/interlude-a-meeting-of-druids/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2020/07/01/interlude-a-meeting-of-druids/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

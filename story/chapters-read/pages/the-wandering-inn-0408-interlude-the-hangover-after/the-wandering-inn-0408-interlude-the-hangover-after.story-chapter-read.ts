@@ -11,6 +11,11 @@ export const theWanderingInn0408InterludeTheHangoverAfter = {
   ownProgress: 4420,
   unit: "words",
   publishedAt: "2020-03-09",
-  externalLink: "https://wanderinginn.com/2020/03/09/interlude-the-hangover-after/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2020/03/09/interlude-the-hangover-after/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

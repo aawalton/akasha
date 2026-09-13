@@ -11,6 +11,11 @@ export const theWanderingInn0716GoblinDaysPt1TheWedding = {
   ownProgress: 13285,
   unit: "words",
   publishedAt: "2024-07-28",
-  externalLink: "https://wanderinginn.com/2024/07/28/goblin-days-pt-1-the-wedding/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2024/07/28/goblin-days-pt-1-the-wedding/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

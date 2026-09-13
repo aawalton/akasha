@@ -11,6 +11,11 @@ export const theWanderingInn0644InterludeInnovationAndInvention = {
   ownProgress: 36790,
   unit: "words",
   publishedAt: "2023-03-15",
-  externalLink: "https://wanderinginn.com/2023/03/15/interlude-innovation-and-invention/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2023/03/15/interlude-innovation-and-invention/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

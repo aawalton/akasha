@@ -11,6 +11,11 @@ export const theWanderingInn0406InterludeLiftingAnts = {
   ownProgress: 15671,
   unit: "words",
   publishedAt: "2020-03-07",
-  externalLink: "https://wanderinginn.com/2020/03/07/interlude-lifting-ants/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2020/03/07/interlude-lifting-ants/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

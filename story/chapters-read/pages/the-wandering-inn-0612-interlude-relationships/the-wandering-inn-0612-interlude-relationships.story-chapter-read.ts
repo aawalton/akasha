@@ -11,6 +11,11 @@ export const theWanderingInn0612InterludeRelationships = {
   ownProgress: 24086,
   unit: "words",
   publishedAt: "2022-10-05",
-  externalLink: "https://wanderinginn.com/2022/10/05/interlude-relationships/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2022/10/05/interlude-relationships/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -11,6 +11,11 @@ export const theWanderingInn0771MiniChapterEldavin = {
   ownProgress: 2730,
   unit: "words",
   publishedAt: "2025-06-07",
-  externalLink: "https://wanderinginn.com/2025/06/07/mini-chapter-eldavin/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2025/06/07/mini-chapter-eldavin/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

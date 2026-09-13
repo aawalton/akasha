@@ -11,6 +11,11 @@ export const theWanderingInn0429InterludeTheGeckoOfIllusions = {
   ownProgress: 24384,
   unit: "words",
   publishedAt: "2020-06-07",
-  externalLink: "https://wanderinginn.com/2020/06/07/interlude-the-gecko-of-illusions/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2020/06/07/interlude-the-gecko-of-illusions/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

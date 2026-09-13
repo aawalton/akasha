@@ -11,6 +11,11 @@ export const theWanderingInn0532InterludeOfVampiresAndFraerlings = {
   ownProgress: 19874,
   unit: "words",
   publishedAt: "2021-08-31",
-  externalLink: "https://wanderinginn.com/2021/08/31/interlude-of-vampires-and-fraerlings/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2021/08/31/interlude-of-vampires-and-fraerlings/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -11,6 +11,11 @@ export const theWanderingInn0594InterludeTheIslesOfGoblinAndMinos = {
   ownProgress: 29583,
   unit: "words",
   publishedAt: "2022-07-05",
-  externalLink: "https://wanderinginn.com/2022/07/05/interlude-the-isles-of-goblin-and-minos/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2022/07/05/interlude-the-isles-of-goblin-and-minos/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -11,6 +11,11 @@ export const theWanderingInn0457InterludeExperimentsInGolems = {
   ownProgress: 29993,
   unit: "words",
   publishedAt: "2020-10-04",
-  externalLink: "https://wanderinginn.com/2020/10/04/interlude-experiments-in-golems/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2020/10/04/interlude-experiments-in-golems/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

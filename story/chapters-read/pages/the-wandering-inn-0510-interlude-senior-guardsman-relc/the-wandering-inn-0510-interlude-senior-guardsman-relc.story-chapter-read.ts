@@ -11,6 +11,11 @@ export const theWanderingInn0510InterludeSeniorGuardsmanRelc = {
   ownProgress: 25937,
   unit: "words",
   publishedAt: "2021-05-16",
-  externalLink: "https://wanderinginn.com/2021/05/16/interlude-senior-guardsman-relc/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2021/05/16/interlude-senior-guardsman-relc/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

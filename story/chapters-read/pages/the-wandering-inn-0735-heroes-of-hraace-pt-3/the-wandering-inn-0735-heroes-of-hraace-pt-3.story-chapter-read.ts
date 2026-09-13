@@ -11,6 +11,11 @@ export const theWanderingInn0735HeroesOfHraacePt3 = {
   ownProgress: 37070,
   unit: "words",
   publishedAt: "2024-10-06",
-  externalLink: "https://wanderinginn.com/2024/10/06/heroes-of-hraace-pt-3/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2024/10/06/heroes-of-hraace-pt-3/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

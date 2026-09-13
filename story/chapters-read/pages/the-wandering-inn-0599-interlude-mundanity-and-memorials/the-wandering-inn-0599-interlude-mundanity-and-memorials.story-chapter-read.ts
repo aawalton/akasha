@@ -11,6 +11,11 @@ export const theWanderingInn0599InterludeMundanityAndMemorials = {
   ownProgress: 28904,
   unit: "words",
   publishedAt: "2022-07-30",
-  externalLink: "https://wanderinginn.com/2022/07/30/interlude-mundanity-and-memorials/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2022/07/30/interlude-mundanity-and-memorials/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

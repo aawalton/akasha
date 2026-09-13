@@ -11,6 +11,11 @@ export const theWanderingInn0720GoblinDaysPt5RedbladeAndLilbrasi = {
   ownProgress: 10790,
   unit: "words",
   publishedAt: "2024-08-01",
-  externalLink: "https://wanderinginn.com/2024/08/01/goblin-days-pt-5-redblade-and-lilbrasi/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2024/08/01/goblin-days-pt-5-redblade-and-lilbrasi/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

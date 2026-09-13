@@ -11,6 +11,11 @@ export const theWanderingInn0626InterludeAgeAndTales = {
   ownProgress: 22398,
   unit: "words",
   publishedAt: "2022-12-07",
-  externalLink: "https://wanderinginn.com/2022/12/07/interlude-age-and-tales/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2022/12/07/interlude-age-and-tales/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

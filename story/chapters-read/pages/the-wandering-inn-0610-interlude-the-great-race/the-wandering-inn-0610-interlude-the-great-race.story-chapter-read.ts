@@ -11,6 +11,11 @@ export const theWanderingInn0610InterludeTheGreatRace = {
   ownProgress: 19941,
   unit: "words",
   publishedAt: "2022-09-28",
-  externalLink: "https://wanderinginn.com/2022/09/28/interlude-the-great-race/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2022/09/28/interlude-the-great-race/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

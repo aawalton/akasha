@@ -11,6 +11,11 @@ export const theWanderingInn0497InterludeTheRowerAndTheBartender = {
   ownProgress: 11004,
   unit: "words",
   publishedAt: "2021-03-14",
-  externalLink: "https://wanderinginn.com/2021/03/14/interlude-the-rower-and-the-bartender/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2021/03/14/interlude-the-rower-and-the-bartender/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -11,6 +11,11 @@ export const theWanderingInn0719GoblinDaysPt4OrderOddity = {
   ownProgress: 4749,
   unit: "words",
   publishedAt: "2024-07-31",
-  externalLink: "https://wanderinginn.com/2024/07/31/goblin-days-pt-4-order-oddity/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2024/07/31/goblin-days-pt-4-order-oddity/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

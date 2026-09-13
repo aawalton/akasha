@@ -11,6 +11,11 @@ export const theWanderingInn0522InterludePiscesRevised = {
   ownProgress: 45640,
   unit: "words",
   publishedAt: "2021-07-20",
-  externalLink: "https://wanderinginn.com/2021/07/20/interlude-pisces-revised/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2021/07/20/interlude-pisces-revised/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

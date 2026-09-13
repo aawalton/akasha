@@ -11,6 +11,11 @@ export const theWanderingInn0471InterludeTheInnkeeperSKnight = {
   ownProgress: 28912,
   unit: "words",
   publishedAt: "2020-12-06",
-  externalLink: "https://wanderinginn.com/2020/12/06/interlude-the-innkeepers-knight/",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2020/12/06/interlude-the-innkeepers-knight/",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead
