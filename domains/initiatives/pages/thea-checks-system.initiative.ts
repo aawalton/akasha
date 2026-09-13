@@ -15,13 +15,9 @@ export const theaChecksSystem = {
     {
       statement: "No module exports a value nothing names.",
       workingMemory:
-        "1014 refusals: 677 a value nothing names, 286 only a test names, 51 only its own file names. temper 267, alan 152, pages 108, agents 100, story 91, infrastructure 70. The test-only head is flat: `doctrine` 5, `lore-schema` 4, a long tail at 3. temper's refused constants are dead code rather than an unbuilt port: all eight localizations are installed. story's 91 all sit in engine, tower and ui, which nothing outside reaches but `chapterWords` and `selectGameRenderMode`.",
+        "761 refusals: 485 a value nothing names and 276 only a test names, and none only its own file names. temper 165, alan 132, story 91, pages 87, infrastructure 70, agents 66. story's 91 all sit in engine, tower and ui, which nothing outside reaches but `chapterWords` and `selectGameRenderMode`, so whether that arm goes is Alan's. The write half of `pages/access` is unreached the same way, and so may be the cluster arm under `infrastructure/`.",
     },
-    {
-      statement: "No file the broad unexport run left alone still publishes a value only it names.",
-      workingMemory:
-        "8 refusals over 6 files. `introduced-property-is-a-part`'s decision has a test red at HEAD from a regression in `pages/types/modules/declared-properties`, and holds three. `check-cost`, `code-tests`, `alan-tracking`, `temper-inventory-plan` and `subagent-page-naming` hold one each and came after the run.\n",
-    },
+
     {
       statement: "Every uncommitted body beside a page exports the name that page's writer makes.",
       workingMemory:
