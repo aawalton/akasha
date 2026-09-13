@@ -56,7 +56,10 @@ export function executeVaultWithdrawals(
   let ops = 0
 
   for (const w of withdrawals) {
-    if (ops >= maxOps) break
+    if (ops >= maxOps) {
+      d(`[${ADDON_NAME}] Stopping vault withdrawals — ${maxOps} moves sent this visit`)
+      break
+    }
     if (initialFree - ops <= bufferSlots) {
       d(
         `[${ADDON_NAME}] Stopping vault withdrawals — backpack buffer reached (${bufferSlots} reserved)`
