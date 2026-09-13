@@ -5,15 +5,10 @@ import {
   filing,
   filledIn,
   heldAt,
-  proseIn,
-  wordFilling,
 } from "akasha/commands/modules/filling/command-filling.module.code.ts"
+import { proseIn } from "akasha/commands/modules/filling/command-filling.module.test-fixtures.ts"
 import { piping, TERMINAL } from "akasha/commands/modules/piping/piping.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
-
-const WANTS = "what to send"
-
-const TO = "--to"
 
 const TEXT = filing("--text")
 
@@ -85,28 +80,4 @@ test("the two values a filing holds are read the same handed in as looked up", (
   expect(filledIn(root, undefined, "handed.md", TEXT, TERMINAL)).toEqual({ text: "Line one" })
   expect(filledIn(root, undefined, undefined, TEXT, TERMINAL)).toEqual({ text: undefined })
   expect("refused" in filledIn(root, "hello", "handed.md", TEXT, TERMINAL)).toBe(true)
-})
-
-test("a bare word fills the flag nothing said", () => {
-  expect(wordFilling({ named: {}, loose: ["one"] }, TO, WANTS)).toBe("one")
-})
-
-test("a flag said fills where no word was said", () => {
-  expect(wordFilling({ named: { [TO]: "one" }, loose: [] }, TO, WANTS)).toBe("one")
-})
-
-test("nothing said fills nothing", () => {
-  expect(wordFilling({ named: {}, loose: [] }, TO, WANTS)).toBeUndefined()
-})
-
-test("a flag and a word together are refused", () => {
-  expect(wordFilling({ named: { [TO]: "one" }, loose: ["two"] }, TO, WANTS)).toEqual({
-    refused: [`${WANTS} is said at \`${TO}\` and as a word, and one way at a time is the way`],
-  })
-})
-
-test("a second bare word is refused", () => {
-  expect(wordFilling({ named: {}, loose: ["one", "two"] }, TO, WANTS)).toEqual({
-    refused: [`this names ${WANTS} once, and \`two\` followed the one it named`],
-  })
 })

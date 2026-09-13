@@ -4,18 +4,11 @@ export const commandFilling = {
   id: "01a07c81-8c23-70b6-81d9-34ffaac1e749",
   type: "module",
   slug: "command-filling",
-  definition: "what a command was told at a flag, as a bare word, or in the file a flag names",
+  definition: "what a command was told at a flag or in the file a flag names",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
-    {
-      invariantKind: "departure",
-      statement: "A value said at a flag and as a bare word at once is the caller's mistake.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A second bare word is the caller's mistake where a command takes a bare word.",
-    },
     {
       invariantKind: "departure",
       statement:
