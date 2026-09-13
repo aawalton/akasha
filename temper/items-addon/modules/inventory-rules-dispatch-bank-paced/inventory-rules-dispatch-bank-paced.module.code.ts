@@ -16,6 +16,7 @@ import {
 const PACED_BANK_NS = `${ADDON_NAME}_PacedBank`
 const PACED_BANK_BATCH_SIZE = 50
 const PACED_BANK_COOLDOWN_MS = 5000
+const PACED_BANK_CONFIRM_MS = 1500
 const MAX_PACED_BANK_ATTEMPTS = 4
 
 let pacedBankRunning = false
@@ -70,7 +71,9 @@ export function startPacedBankChain(
     rounds,
   }
   let firstIssueMs: number | undefined
-  let batchIssuedMs = 0
+  let windowStartMs = 0
+  let issuedInWindow = 0
+  let confirmedSinceIssue = 0
   let settleSerial = 0
   let inFlight: IssuedMove[] = []
 
@@ -94,11 +97,35 @@ export function startPacedBankChain(
     onSettled()
   }
 
+  function roomInWindow(): number {
+    const now = GetGameTimeMilliseconds()
+    if (now - windowStartMs >= PACED_BANK_COOLDOWN_MS) {
+      windowStartMs = now
+      issuedInWindow = 0
+    }
+    return PACED_BANK_BATCH_SIZE - issuedInWindow
+  }
+
+  function waitForWindow(): undefined {
+    const rest = PACED_BANK_COOLDOWN_MS - (GetGameTimeMilliseconds() - windowStartMs)
+    zo_callLater(
+      function (this: void): undefined {
+        issueBatch()
+      },
+      rest > 0 ? rest : 1
+    )
+  }
+
   function issueBatch(): undefined {
     if (!pacedBankRunning) return
+    const room = roomInWindow()
+    if (room <= 0 || inFlight.length > room) {
+      waitForWindow()
+      return
+    }
     const batch: IssuedMove[] = []
     for (const carried of inFlight) batch.push(carried)
-    while (batch.length < PACED_BANK_BATCH_SIZE && index < queue.length) {
+    while (batch.length < room && index < queue.length) {
       const step = queue[index]
       index++
       if (step === undefined) continue
@@ -123,8 +150,10 @@ export function startPacedBankChain(
       return
     }
     inFlight = batch
-    batchIssuedMs = GetGameTimeMilliseconds()
-    if (firstIssueMs === undefined) firstIssueMs = batchIssuedMs
+    issuedInWindow += batch.length
+    const issuedAt = GetGameTimeMilliseconds()
+    if (firstIssueMs === undefined) firstIssueMs = issuedAt
+    confirmedSinceIssue = 0
     settleSerial++
     const serial = settleSerial
     for (const move of batch) {
@@ -136,30 +165,36 @@ export function startPacedBankChain(
     zo_callLater(function (this: void): undefined {
       if (serial !== settleSerial) return
       settleBatch()
-    }, PACED_BANK_COOLDOWN_MS)
+    }, PACED_BANK_CONFIRM_MS)
   }
 
-  function everyMoveLanded(): boolean {
+  function confirmLanded(): undefined {
+    if (inFlight.length === 0) return
+    const still: IssuedMove[] = []
     for (const move of inFlight) {
       const [srcStack] = GetSlotStackSize(move.sourceBag, move.sourceSlot)
-      if (srcStack > move.expectedRemaining) return false
+      if (srcStack <= move.expectedRemaining) {
+        stats.confirmed++
+        confirmedSinceIssue++
+        continue
+      }
+      still.push(move)
     }
-    return true
+    inFlight = still
+    if (inFlight.length === 0) settleBatch()
   }
 
   function settleBatch(): undefined {
     if (!pacedBankRunning) return
-    if (inFlight.length === 0) return
     settleSerial++
     const unsettled: IssuedMove[] = []
-    let confirmedHere = 0
     let retriedHere = 0
     let leftHere = 0
     for (const move of inFlight) {
       const [srcStack] = GetSlotStackSize(move.sourceBag, move.sourceSlot)
       if (srcStack <= move.expectedRemaining) {
         stats.confirmed++
-        confirmedHere++
+        confirmedSinceIssue++
         continue
       }
       if (move.attempts >= MAX_PACED_BANK_ATTEMPTS) {
@@ -176,7 +211,7 @@ export function startPacedBankChain(
     if (firstIssueMs !== undefined) stats.spanMs = GetGameTimeMilliseconds() - firstIssueMs
     rounds[rounds.length] = {
       elapsedMs: stats.spanMs,
-      confirmed: confirmedHere,
+      confirmed: confirmedSinceIssue,
       retried: retriedHere,
       left: leftHere,
     }
@@ -186,14 +221,7 @@ export function startPacedBankChain(
       cleanup(false)
       return
     }
-    const rest = PACED_BANK_COOLDOWN_MS - (GetGameTimeMilliseconds() - batchIssuedMs)
-    if (rest <= 0) {
-      issueBatch()
-      return
-    }
-    zo_callLater(function (this: void): undefined {
-      issueBatch()
-    }, rest)
+    issueBatch()
   }
 
   EVENT_MANAGER.RegisterForEvent(PACED_BANK_NS, EVENT_CLOSE_BANK, function (this: void): undefined {
@@ -205,9 +233,7 @@ export function startPacedBankChain(
     EVENT_INVENTORY_SINGLE_SLOT_UPDATE,
     function (this: void): undefined {
       if (!pacedBankRunning) return
-      if (inFlight.length === 0) return
-      if (!everyMoveLanded()) return
-      settleBatch()
+      confirmLanded()
     }
   )
 
