@@ -96,15 +96,7 @@ export async function deliverToSeat(
         {
           pageTypeSlug: MESSAGE_PAGE_TYPE_SLUG,
           slug: named,
-          values: {
-            id,
-            pageTypeSlug: MESSAGE_PAGE_TYPE_SLUG,
-            slug: named,
-            to,
-            from: SAID_FROM,
-            warrant: ANNOUNCE,
-            body,
-          },
+          values: { id, to, from: SAID_FROM, warrant: ANNOUNCE, body },
         },
       ],
     },
