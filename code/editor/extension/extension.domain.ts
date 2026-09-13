@@ -131,6 +131,22 @@ export const extension = {
       invariantKind: "departure",
       statement: "A row with a match is drawn open while a filter is there.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A panel has one row at the top, and every other row hangs beneath it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A panel's top row is drawn open rather than closed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A panel's top row carries how many rows hang directly beneath it.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A panel's top row cannot be closed.",
+    },
   ],
   typescriptConfig: "json",
 } as const satisfies Domain

@@ -52,7 +52,8 @@ export function createServiceTree(root: string): ServiceTreeView {
     getChildren: (element?: ServiceTreeRow) => [
       ...(element === undefined ? (narrowed ?? held) : element.children),
     ],
-    getTreeItem: (element: ServiceTreeRow) => buildTreeItem(element, root, narrowed !== undefined),
+    getTreeItem: (element: ServiceTreeRow) =>
+      buildTreeItem(element, root, narrowed !== undefined, (narrowed ?? held).includes(element)),
   }
 
   return {
@@ -80,12 +81,17 @@ export function createServiceTree(root: string): ServiceTreeView {
   }
 }
 
-function buildTreeItem(element: ServiceTreeRow, root: string, filtering: boolean): vscode.TreeItem {
+function buildTreeItem(
+  element: ServiceTreeRow,
+  root: string,
+  filtering: boolean,
+  atTop: boolean
+): vscode.TreeItem {
   const item = new vscode.TreeItem(
     element.label,
     element.children.length === 0
       ? vscode.TreeItemCollapsibleState.None
-      : filtering
+      : atTop || filtering
         ? vscode.TreeItemCollapsibleState.Expanded
         : vscode.TreeItemCollapsibleState.Collapsed
   )

@@ -15,7 +15,8 @@ export const agentTreeDrawing = {
     },
     {
       invariantKind: "departure",
-      statement: "A row is drawn expanded while a filter narrows the tree and collapsed otherwise.",
+      statement:
+        "A row beneath the top row is drawn expanded while a filter narrows the tree and collapsed otherwise.",
     },
     {
       invariantKind: "departure",

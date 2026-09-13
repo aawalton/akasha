@@ -43,7 +43,8 @@ export function createCommandTree(): CommandTreeView {
     getChildren: (element?: CommandTreeRow) => [
       ...(element === undefined ? (narrowed ?? held) : element.children),
     ],
-    getTreeItem: (element: CommandTreeRow) => buildTreeItem(element, narrowed !== undefined),
+    getTreeItem: (element: CommandTreeRow) =>
+      buildTreeItem(element, narrowed !== undefined, (narrowed ?? held).includes(element)),
   }
 
   return {
@@ -71,12 +72,16 @@ export function createCommandTree(): CommandTreeView {
   }
 }
 
-function buildTreeItem(element: CommandTreeRow, filtering: boolean): vscode.TreeItem {
+function buildTreeItem(
+  element: CommandTreeRow,
+  filtering: boolean,
+  atTop: boolean
+): vscode.TreeItem {
   const item = new vscode.TreeItem(
     element.label,
     element.children.length === 0
       ? vscode.TreeItemCollapsibleState.None
-      : filtering
+      : atTop || filtering
         ? vscode.TreeItemCollapsibleState.Expanded
         : vscode.TreeItemCollapsibleState.Collapsed
   )

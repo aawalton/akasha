@@ -27,12 +27,12 @@ export interface AgentTree {
   readonly dispose: () => undefined
 }
 
-function buildTreeItem(element: AgentNode, filtering: boolean): vscode.TreeItem {
+function buildTreeItem(element: AgentNode, filtering: boolean, atTop: boolean): vscode.TreeItem {
   const item = new vscode.TreeItem(
     element.name,
     element.children.length === 0
       ? vscode.TreeItemCollapsibleState.None
-      : filtering
+      : atTop || filtering
         ? vscode.TreeItemCollapsibleState.Expanded
         : vscode.TreeItemCollapsibleState.Collapsed
   )
@@ -125,7 +125,8 @@ export function createAgentTree(): AgentTree {
     getChildren: (element?: AgentNode) => [
       ...(element === undefined ? (narrowed ?? roots) : element.children),
     ],
-    getTreeItem: (element: AgentNode) => buildTreeItem(element, narrowed !== undefined),
+    getTreeItem: (element: AgentNode) =>
+      buildTreeItem(element, narrowed !== undefined, (narrowed ?? roots).includes(element)),
   }
 
   return {

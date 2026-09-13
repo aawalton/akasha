@@ -52,7 +52,8 @@ export function createWorkTree(root: string): WorkTreeView {
     getChildren: (element?: WorkTreeRow) => [
       ...(element === undefined ? (narrowed ?? held) : element.children),
     ],
-    getTreeItem: (element: WorkTreeRow) => buildTreeItem(element, root, narrowed !== undefined),
+    getTreeItem: (element: WorkTreeRow) =>
+      buildTreeItem(element, root, narrowed !== undefined, (narrowed ?? held).includes(element)),
   }
 
   return {
@@ -80,12 +81,17 @@ export function createWorkTree(root: string): WorkTreeView {
   }
 }
 
-function buildTreeItem(element: WorkTreeRow, root: string, filtering: boolean): vscode.TreeItem {
+function buildTreeItem(
+  element: WorkTreeRow,
+  root: string,
+  filtering: boolean,
+  atTop: boolean
+): vscode.TreeItem {
   const item = new vscode.TreeItem(
     element.label,
     element.children.length === 0
       ? vscode.TreeItemCollapsibleState.None
-      : filtering
+      : atTop || filtering
         ? vscode.TreeItemCollapsibleState.Expanded
         : vscode.TreeItemCollapsibleState.Collapsed
   )

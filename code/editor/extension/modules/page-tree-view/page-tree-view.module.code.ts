@@ -43,7 +43,8 @@ export function createPageTree(): PageTreeView {
     getChildren: (element?: PageTreeRow) => [
       ...(element === undefined ? (narrowed ?? held) : element.children),
     ],
-    getTreeItem: (element: PageTreeRow) => buildTreeItem(element, narrowed !== undefined),
+    getTreeItem: (element: PageTreeRow) =>
+      buildTreeItem(element, narrowed !== undefined, (narrowed ?? held).includes(element)),
   }
 
   return {
@@ -71,12 +72,12 @@ export function createPageTree(): PageTreeView {
   }
 }
 
-function buildTreeItem(element: PageTreeRow, filtering: boolean): vscode.TreeItem {
+function buildTreeItem(element: PageTreeRow, filtering: boolean, atTop: boolean): vscode.TreeItem {
   const item = new vscode.TreeItem(
     element.label,
     element.children.length === 0
       ? vscode.TreeItemCollapsibleState.None
-      : filtering
+      : atTop || filtering
         ? vscode.TreeItemCollapsibleState.Expanded
         : vscode.TreeItemCollapsibleState.Collapsed
   )

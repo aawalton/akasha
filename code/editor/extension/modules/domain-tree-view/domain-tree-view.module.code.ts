@@ -46,7 +46,8 @@ export function createDomainTree(root: string): DomainTreeView {
     getChildren: (element?: DomainTreeRow) => [
       ...(element === undefined ? (narrowed ?? held) : element.children),
     ],
-    getTreeItem: (element: DomainTreeRow) => buildTreeItem(element, root, narrowed !== undefined),
+    getTreeItem: (element: DomainTreeRow) =>
+      buildTreeItem(element, root, narrowed !== undefined, (narrowed ?? held).includes(element)),
   }
 
   return {
@@ -74,13 +75,18 @@ export function createDomainTree(root: string): DomainTreeView {
   }
 }
 
-function buildTreeItem(element: DomainTreeRow, root: string, filtering: boolean): vscode.TreeItem {
+function buildTreeItem(
+  element: DomainTreeRow,
+  root: string,
+  filtering: boolean,
+  atTop: boolean
+): vscode.TreeItem {
   const label = element.position === null ? element.label : `${element.position}-${element.label}`
   const item = new vscode.TreeItem(
     label,
     element.children.length === 0
       ? vscode.TreeItemCollapsibleState.None
-      : filtering
+      : atTop || filtering
         ? vscode.TreeItemCollapsibleState.Expanded
         : vscode.TreeItemCollapsibleState.Collapsed
   )
