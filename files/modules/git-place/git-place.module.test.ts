@@ -44,7 +44,7 @@ test("every name akasha keeps sits under that folder", () => {
 })
 
 test("every store akasha keeps is named here", () => {
-  expect([...STORES].sort()).toEqual([CACHE, DATA, DEPLOYS, HANDOFF, TREES].sort())
+  expect([...STORES].sort()).toEqual([CACHE, DATA, DEPLOYS, TREES].sort())
 })
 
 test("a store is answered both under a root and on its own", () => {
@@ -84,4 +84,8 @@ test("a path akasha keeps no longer is no name akasha keeps", () => {
 
 test("the index is a path akasha keeps no longer, since the index left this folder", () => {
   expect(LEFT).toContain(INDEXES)
+})
+
+test("the push hand-off is a path akasha keeps no longer, since nothing hands a push off", () => {
+  expect(LEFT).toContain(HANDOFF)
 })
