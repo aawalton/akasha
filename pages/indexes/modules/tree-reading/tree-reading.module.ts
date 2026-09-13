@@ -70,6 +70,35 @@ export const treeReading = {
       statement: "A caller says which file names that caller takes.",
     },
     {
+      invariantKind: "departure",
+      statement: "The files and folders sitting in one folder are the ones git carries there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file git ignores and a file git was never told of are both left out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder git carries nothing in is left out however much sits in it on disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path under a folder git carries nothing in is carried by nothing either.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Git is asked what it carries rather than the ignore rules being read here.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What git carries is asked once for a repository and held for the rest of the run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder git will not answer for is the folder as it sits on disk.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads a page's body.",
     },

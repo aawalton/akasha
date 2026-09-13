@@ -158,7 +158,7 @@ export const folderMatchesAShape = {
     {
       invariantKind: "departure",
       statement:
-        "Which files sit in a folder is read as the disk is joined to the paths the change has.",
+        "Which files sit in a folder is read as what git carries joined to the paths the change has.",
     },
     {
       invariantKind: "departure",

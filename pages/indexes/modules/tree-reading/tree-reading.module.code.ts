@@ -1,5 +1,6 @@
 import { type Dirent, readdirSync } from "node:fs"
 import { join } from "node:path"
+import { told } from "akasha/git/modules/running/git-running.module.code.ts"
 import { INDEX_AT } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import {
   QUARANTINE_ROOT,
@@ -34,12 +35,38 @@ export function walkedUnder(
   return found
 }
 
+const OTHERS = new Map<string, ReadonlySet<string> | null>()
+
+function othersIn(root: string): ReadonlySet<string> | null {
+  const found = OTHERS.get(root)
+  if (found !== undefined) return found
+  const said = told(root, ["ls-files", "-z", "--others", "--directory", "--no-empty-directory"])
+  const made = said === null ? null : new Set<string>(said.split("\0").filter((one) => one !== ""))
+  OTHERS.set(root, made)
+  return made
+}
+
+function carried(others: ReadonlySet<string>, path: string): boolean {
+  if (others.has(path)) return false
+  let at = path
+  while (at !== "") {
+    if (others.has(`${at}/`)) return false
+    at = at.slice(0, Math.max(at.lastIndexOf("/"), 0))
+  }
+  return true
+}
+
 function sittingIn(root: string, folder: string): readonly Dirent[] {
+  let here: readonly Dirent[] = []
   try {
-    return readdirSync(join(root, folder), { withFileTypes: true })
+    here = readdirSync(join(root, folder), { withFileTypes: true })
   } catch {
     return []
   }
+  if (here.length === 0) return here
+  const others = othersIn(root)
+  if (others === null) return here
+  return here.filter((one) => carried(others, join(folder, one.name)))
 }
 
 export function filesIn(root: string, folder: string): readonly string[] {

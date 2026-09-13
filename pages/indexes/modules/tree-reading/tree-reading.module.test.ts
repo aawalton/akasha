@@ -1,8 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { said } from "akasha/git/modules/running/git-running.module.code.ts"
 import { INDEX_AT } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import {
+  filesIn,
+  foldersIn,
   pagesUnder,
   walkedUnder,
 } from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
@@ -105,4 +108,42 @@ test("a file carrying a section is no page", () => {
   const root = treeOf(["module.page-type.ts", "a.module.ts", "a.module.code.ts"])
 
   expect(under(root, pagesUnder(root))).toEqual(["a.module.ts", "module.page-type.ts"])
+})
+
+const WHO: readonly string[] = [
+  "-c",
+  "user.email=tree-reading@akasha",
+  "-c",
+  "user.name=tree-reading",
+  "-c",
+  "commit.gpgsign=false",
+]
+
+function carriedTree(): string {
+  const root = scratch.rootFor("akasha-tree-carried-")
+  mkdirSync(join(root, "one", "two"), { recursive: true })
+  writeFileSync(join(root, ".gitignore"), "*.tsbuildinfo\n")
+  writeFileSync(join(root, "one", "a.module.ts"), "\n")
+  writeFileSync(join(root, "one", "two", "b.module.ts"), "\n")
+  said(root, ["init", "--quiet"])
+  said(root, ["add", "--all"])
+  said(root, [...WHO, "commit", "--quiet", "-m", "what git carries"])
+  writeFileSync(join(root, "one", "left.tsbuildinfo"), "\n")
+  mkdirSync(join(root, "one", "out"), { recursive: true })
+  writeFileSync(join(root, "one", "out", "built.txt"), "\n")
+  return root
+}
+
+test("a file git ignores is no file of the folder it sits in", () => {
+  expect(filesIn(carriedTree(), "one")).toEqual(["one/a.module.ts"])
+})
+
+test("a folder git carries nothing in is no folder of the folder above it", () => {
+  expect(foldersIn(carriedTree(), "one")).toEqual(["one/two"])
+})
+
+test("a tree no repository holds is read as that tree sits on disk", () => {
+  const root = treeOf(["one/a.module.ts", "one/left.tsbuildinfo"])
+
+  expect(filesIn(root, "one")).toEqual(["one/a.module.ts", "one/left.tsbuildinfo"])
 })

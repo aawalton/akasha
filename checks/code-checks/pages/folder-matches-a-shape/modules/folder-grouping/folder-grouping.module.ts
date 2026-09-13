@@ -26,7 +26,8 @@ export const folderGrouping = {
     },
     {
       invariantKind: "departure",
-      statement: "The files in a folder are the folder on disk joined to the paths a change adds.",
+      statement:
+        "The files in a folder are what git carries there joined to the paths a change adds.",
     },
     {
       invariantKind: "departure",
@@ -43,7 +44,7 @@ export const folderGrouping = {
     },
     {
       invariantKind: "departure",
-      statement: "Such a file is still among the files of a folder the disk already holds.",
+      statement: "Such a file is still among the files of a folder git already carries.",
     },
     {
       invariantKind: "departure",
