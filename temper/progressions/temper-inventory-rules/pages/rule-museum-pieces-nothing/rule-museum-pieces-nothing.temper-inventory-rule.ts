@@ -10,7 +10,7 @@ export const ruleMuseumPiecesNothing = {
   goal: "task",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "museum-pieces",
-  displayOrder: 53,
+  displayOrder: 52,
   action: "nothing",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",

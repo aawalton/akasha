@@ -12,7 +12,7 @@ export const ruleInspireCurrent = {
   destination: "character:by-priority",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "equipment",
-  displayOrder: 45,
+  displayOrder: 44,
   action: "deconstruct",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",

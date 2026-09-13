@@ -10,7 +10,7 @@ export const ruleCraftingStolen = {
   conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "crafting",
-  displayOrder: 57,
+  displayOrder: 56,
   action: "fence-launder",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",

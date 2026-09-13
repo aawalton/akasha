@@ -11,7 +11,7 @@ export const ruleMasterWritsBank = {
   destination: "bank",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "master-writs",
-  displayOrder: 48,
+  displayOrder: 47,
   action: "move-to",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",

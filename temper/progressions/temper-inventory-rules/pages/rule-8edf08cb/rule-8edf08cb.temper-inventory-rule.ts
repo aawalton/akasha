@@ -9,7 +9,7 @@ export const rule8edf08cb = {
   conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "style-pages",
-  displayOrder: 79,
+  displayOrder: 78,
   action: "sell",
   active: true,
   updatedAt: "2026-07-05T13:20:38.006Z",

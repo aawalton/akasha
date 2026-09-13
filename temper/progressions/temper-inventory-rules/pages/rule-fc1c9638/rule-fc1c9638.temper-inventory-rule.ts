@@ -12,7 +12,7 @@ export const ruleFc1c9638 = {
   destination: "character:8796093022338107",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "recipes",
-  displayOrder: 69,
+  displayOrder: 68,
   action: "list",
   active: true,
   updatedAt: "2026-06-02T20:49:37.020Z",

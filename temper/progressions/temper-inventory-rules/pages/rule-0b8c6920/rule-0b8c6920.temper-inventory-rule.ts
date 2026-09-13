@@ -9,7 +9,7 @@ export const rule0b8c6920 = {
   conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "food",
-  displayOrder: 82,
+  displayOrder: 81,
   action: "destroy",
   active: true,
   updatedAt: "2026-07-05T13:32:43.766Z",
