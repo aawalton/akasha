@@ -271,13 +271,13 @@ test("the test of a property group a page carries is judged", () => {
   expect(judgedBy(TYPES)("checks/code-checks/pages/a/a.code-check.audit.test.ts")).toBe(true)
 })
 
-test("a test's fixtures spell a path as a test does, so a fixtures file is judged", () => {
+test("a fixture builds a tree of its own, so a fixtures file is not judged", () => {
   const beside = "checks/code-checks/pages/a/a.code-check.decision.test-fixtures.ts"
-  expect(judgedBy(TYPES)("checks/code-checks/pages/a/a.code-check.test-fixtures.ts")).toBe(true)
-  expect(judgedBy(TYPES)(beside)).toBe(true)
+  expect(judgedBy(TYPES)("checks/code-checks/pages/a/a.code-check.test-fixtures.ts")).toBe(false)
+  expect(judgedBy(TYPES)(beside)).toBe(false)
 })
 
-test("a file whose last section is no code, no test and no fixtures is not judged", () => {
+test("a file whose last section is no code and no test is not judged", () => {
   const logs = "checks/code-checks/pages/a/a.code-check.check.logs.uncommitted.jsonl"
   expect(judgedBy(TYPES)(logs)).toBe(false)
 })
@@ -290,10 +290,10 @@ test("a page's file that is no TypeScript is judged whatever section names that 
   expect(judgingOver(ASKED)("akasha/one.thing.config.json")).toBe(true)
 })
 
-test("a page's TypeScript file is judged where it is the code, the test or the fixtures", () => {
+test("a page's TypeScript file is judged only where that file is the code or the test", () => {
   const beside = "checks/code-checks/pages/a/a.code-check.test-fixtures.ts"
   expect(judgingOver(ASKED)("checks/code-checks/pages/a/a.code-check.code.ts")).toBe(true)
-  expect(judgingOver(ASKED)(beside)).toBe(true)
+  expect(judgingOver(ASKED)(beside)).toBe(false)
 })
 
 test("a file the index names for no page is judged by nothing", () => {
