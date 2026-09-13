@@ -10,9 +10,9 @@ import {
   resolveSubagentSpawnDepth,
   resolveToolTimeout,
   resolveWorkerModel,
-} from "akasha/agents/seats/supervisors/supervisor-account/modules/supervisor-account-config/supervisor-account-config.module.code.ts"
-import { materializeBootPrompt } from "akasha/agents/seats/supervisors/supervisor-boot/modules/supervisor-boot-prompt/supervisor-boot-prompt.module.code.ts"
-import { stage } from "akasha/agents/seats/supervisors/supervisor-boot/modules/supervisor-boot-stage/supervisor-boot-stage.module.code.ts"
+} from "akasha/agents/seats/supervisors/supervisor-account/modules/config/supervisor-account-config.module.code.ts"
+import { materializeBootPrompt } from "akasha/agents/seats/supervisors/supervisor-boot/modules/prompt/supervisor-boot-prompt.module.code.ts"
+import { stage } from "akasha/agents/seats/supervisors/supervisor-boot/modules/stage/supervisor-boot-stage.module.code.ts"
 import type {
   InteractiveOpts,
   InteractiveSessionBoot,
