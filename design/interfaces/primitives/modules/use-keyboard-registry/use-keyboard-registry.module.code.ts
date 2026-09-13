@@ -10,14 +10,13 @@ import {
   parseChord,
   selectBindingsById,
 } from "akasha/design/interfaces/primitives/modules/keyboard-registry/keyboard-registry.module.code.ts"
-import { useCallback, useEffect, useRef, useSyncExternalStore } from "react"
+import { useEffect, useRef, useSyncExternalStore } from "react"
 
 const STORAGE_KEY = "keyboard-shortcuts-enabled"
 
 type Registration = Omit<KeyBinding, "enabled"> & { enabled: true }
 
 const registrations = new Map<symbol, Registration>()
-const scopeContainers = new Map<symbol, { element: Element; scopeId: string }>()
 type StoreListener = Parameters<Parameters<typeof useSyncExternalStore>[0]>[0]
 
 const subscribers = new Set<StoreListener>()
@@ -28,6 +27,8 @@ let enabledState: boolean | null = null
 let descriptorCache: KeyBindingDescriptor[] | null = null
 
 const EMPTY_DESCRIPTORS: readonly KeyBindingDescriptor[] = Object.freeze([])
+
+const NO_SCOPES = new Set<string>()
 
 function detectOs(): OS {
   if (typeof navigator === "undefined") return "other"
@@ -76,16 +77,6 @@ function isTextInput(target: EventTarget | null): boolean {
   return tag === "INPUT" || tag === "TEXTAREA" || target.isContentEditable
 }
 
-function computeActiveScopes(): Set<string> {
-  const active = new Set<string>()
-  const focused = document.activeElement
-  if (focused === null) return active
-  for (const { element, scopeId } of scopeContainers.values()) {
-    if (element.contains(focused)) active.add(scopeId)
-  }
-  return active
-}
-
 function toFacts(event: KeyboardEvent): KeyEventFacts {
   return {
     key: event.key,
@@ -102,7 +93,7 @@ function handleKeyDown(event: KeyboardEvent): undefined {
   const matched = matchBindings(toFacts(event), [...registrations.values()], {
     os: getOs(),
     shortcutsEnabled: getEnabled(),
-    activeScopes: computeActiveScopes(),
+    activeScopes: NO_SCOPES,
   })
   if (matched.length === 0) return
   let prevented = false
@@ -191,23 +182,6 @@ export function useKeyboardBinding(binding: KeyBinding): undefined {
   useKeyboardBindings([binding])
 }
 
-export function useKeyboardScope(scopeId: string): (element: Element | null) => undefined {
-  const handleRef = useRef<symbol | null>(null)
-  return useCallback(
-    (element: Element | null) => {
-      if (element !== null) {
-        const handle = Symbol("keyboard-scope")
-        handleRef.current = handle
-        scopeContainers.set(handle, { element, scopeId })
-      } else if (handleRef.current !== null) {
-        scopeContainers.delete(handleRef.current)
-        handleRef.current = null
-      }
-    },
-    [scopeId]
-  )
-}
-
 export function useShortcutsEnabled(): readonly [boolean, (enabled: boolean) => undefined] {
   const enabled = useSyncExternalStore(subscribe, getEnabled, () => true)
   return [enabled, setEnabled]
@@ -239,17 +213,4 @@ function getDescriptors(): readonly KeyBindingDescriptor[] {
 
 export function useKeyboardBindingDescriptors(): readonly KeyBindingDescriptor[] {
   return useSyncExternalStore(subscribe, getDescriptors, () => EMPTY_DESCRIPTORS)
-}
-
-export function resetKeyboardRegistryForTest(): undefined {
-  registrations.clear()
-  scopeContainers.clear()
-  subscribers.clear()
-  if (LISTENER_ATTACHED && typeof document !== "undefined") {
-    document.removeEventListener("keydown", handleKeyDown)
-    LISTENER_ATTACHED = false
-  }
-  cachedOs = null
-  enabledState = null
-  descriptorCache = null
 }
