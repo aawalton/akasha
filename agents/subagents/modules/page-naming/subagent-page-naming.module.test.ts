@@ -46,15 +46,15 @@ test("an agent id keeps a mark a slug would collapse", () => {
 })
 
 test("a page sits in a folder of its own named for its slug", () => {
-  expect(pathOf("akasha-abc")).toBe("seat-system/subagents/pages/akasha-abc/akasha-abc.subagent.ts")
+  expect(pathOf("akasha-abc")).toBe("agents/subagents/pages/akasha-abc/akasha-abc.subagent.ts")
 })
 
 test("a slug whose page is already flat keeps that page", () => {
   inScratch((root) => {
-    writing(root, "seat-system/subagents/pages/akasha-abc.subagent.ts", "")
-    expect(pathIn(root, "akasha-abc")).toBe("seat-system/subagents/pages/akasha-abc.subagent.ts")
+    writing(root, "agents/subagents/pages/akasha-abc.subagent.ts", "")
+    expect(pathIn(root, "akasha-abc")).toBe("agents/subagents/pages/akasha-abc.subagent.ts")
     expect(pathIn(root, "akasha-xyz")).toBe(
-      "seat-system/subagents/pages/akasha-xyz/akasha-xyz.subagent.ts"
+      "agents/subagents/pages/akasha-xyz/akasha-xyz.subagent.ts"
     )
   })
 })
