@@ -10,6 +10,7 @@ export const fileProperty = {
     "boolean-property/append-only",
     "boolean-property/generated",
     "boolean-property/tool-resolves-paths",
+    "number-property/kept-for-hours",
     "relation-property/file-written-by",
     "text-property/extensions",
     "text-property/file-name",
@@ -24,6 +25,7 @@ export const fileProperty = {
     { pageProperty: "relation-property/file-written-by", required: false, many: false },
     { pageProperty: "text-property/extensions", required: true, many: true, maxCount: null },
     { pageProperty: "boolean-property/append-only", required: false, many: false },
+    { pageProperty: "number-property/kept-for-hours", required: false, many: false },
   ],
   invariants: [
     {
