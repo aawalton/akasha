@@ -7,4 +7,19 @@ export const messagesMcp = {
   definition:
     "the MCP server a seat launch runs, joining the seat to the channel its messages arrive on",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "SIGTERM and SIGINT each end this server.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A cleanup that throws or stalls does not keep this server running.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A message already claimed is left claimed, for the supervisor to weigh on resume.",
+    },
+  ],
 } as const satisfies Module

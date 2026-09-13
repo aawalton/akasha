@@ -53,8 +53,29 @@ getAgentId()
     console.error("[messages] Channel listener startup failed:", err)
   })
 
-const cleanup = () => {
-  cleanupListener?.()
+const ENDING_CODE = { SIGTERM: 143, SIGINT: 130 } as const
+
+const STUCK_MS = 2_000
+
+let ending = false
+
+const endOn = async (signal: keyof typeof ENDING_CODE): Promise<undefined> => {
+  if (ending) return
+  ending = true
+  setTimeout(() => process.exit(ENDING_CODE[signal]), STUCK_MS)
+  try {
+    cleanupListener?.()
+  } catch (err) {
+    console.error(`[messages] clearing the channel listener threw on ${signal}:`, err)
+  }
+  try {
+    await server.close()
+  } catch (err) {
+    console.error(`[messages] closing the transport threw on ${signal}:`, err)
+  }
+  process.exit(ENDING_CODE[signal])
 }
-process.on("SIGTERM", cleanup)
-process.on("SIGINT", cleanup)
+
+for (const signal of ["SIGTERM", "SIGINT"] as const) {
+  process.on(signal, () => void endOn(signal))
+}
