@@ -5,7 +5,7 @@ import {
   excludingIndex,
   REPO_AT,
   repoWith,
-} from "akasha/testing-system/modules/repo-seeding/repo-seeding.module.code.ts"
+} from "akasha/testing-system/test-fixtures/repo-seeding/repo-seeding.test-fixture.code.ts"
 
 const MODULES = "node_modules"
 

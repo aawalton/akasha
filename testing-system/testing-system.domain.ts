@@ -16,10 +16,11 @@ export const testingSystem = {
     "module/minting",
     "module/page-holding",
     "module/putting",
-    "module/repo-seeding",
+
     "module/waiting",
     "module/walking",
     "page-type/test-fixture",
+    "test-fixture/repo-seeding",
   ],
   invariants: [
     {

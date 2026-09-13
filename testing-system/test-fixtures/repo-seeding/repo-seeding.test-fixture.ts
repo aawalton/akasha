@@ -1,8 +1,8 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { TestFixture } from "akasha/testing-system/test-fixtures/test-fixture.page-type.types.ts"
 
 export const repoSeeding = {
   id: "01a08cc2-9f09-710e-8d8a-30169349b3d9",
-  type: "module",
+  type: "test-fixture",
   slug: "repo-seeding",
   definition: "a scratch akasha repository a change can be landed into",
   code: "ts",
@@ -61,4 +61,4 @@ export const repoSeeding = {
         "What excludes the index is reached from here rather than spelled beside each fixture.",
     },
   ],
-} as const satisfies Module
+} as const satisfies TestFixture

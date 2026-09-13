@@ -13,7 +13,7 @@ import {
   givenIn,
   repoWith,
   scratch,
-} from "akasha/testing-system/modules/repo-seeding/repo-seeding.module.code.ts"
+} from "akasha/testing-system/test-fixtures/repo-seeding/repo-seeding.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
 
