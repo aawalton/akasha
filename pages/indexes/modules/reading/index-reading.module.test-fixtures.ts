@@ -1,12 +1,4 @@
-import {
-  appendFileSync,
-  cpSync,
-  existsSync,
-  mkdirSync,
-  readFileSync,
-  rmSync,
-  writeFileSync,
-} from "node:fs"
+import { appendFileSync, existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import { indexIdentity } from "akasha/pages/indexes/identity/index-identity.index.ts"
@@ -35,7 +27,6 @@ import type { Value } from "akasha/pages/modules/value-reading/page-value-readin
 import { everyFileUnder } from "akasha/testing-system/modules/walking/walking.module.code.ts"
 import { declaringUnder } from "akasha/testing-system/test-fixtures/declaring/declaring.test-fixture.code.ts"
 import { admitting } from "akasha/testing-system/test-fixtures/minting/minting.test-fixture.code.ts"
-import { HELD } from "akasha/testing-system/test-fixtures/page-holding/page-holding.test-fixture.code.ts"
 
 const ENDING = ".jsonl"
 
@@ -52,8 +43,6 @@ const SLUG = "slug"
 const PAGE_PROPERTY = "page-property"
 
 const AT_PATH = "path"
-
-const PART = ".4242.part"
 
 const NOT_JSON = "{ this is not json\n"
 
@@ -276,10 +265,6 @@ export function importUnreadableFiled(root: string, path: string): undefined {
   unreadable(root, join(indexImport.name, AT_PATH, `${path}${ENDING}`))
 }
 
-export function importPartLeft(root: string, path: string, lines: readonly unknown[]): undefined {
-  written(root, join(indexImport.name, AT_PATH, `${path}${ENDING}${PART}`), lines)
-}
-
 export function nothingFiled(root: string): undefined {
   foldering(root, "")
 }
@@ -355,17 +340,6 @@ export function refreshedApart(root: string, tree: string, aside: string): reado
   return everyFileUnder(aside)
 }
 
-export function identitiesCopied(from: string, into: string, pageTypeSlug: string): undefined {
-  const at = join(indexIdentity.name, PAGE_TYPE, pageTypeSlug)
-  cpSync(under(from, at), under(into, at), { recursive: true })
-}
-
-export function idCopied(from: string, into: string, id: string): undefined {
-  const at = join(indexIdentity.name, PAGE, ID, `${id}${ENDING}`)
-  mkdirSync(dirname(under(into, at)), { recursive: true })
-  cpSync(under(from, at), under(into, at))
-}
-
 export function listedTakenFrom(root: string, pageTypeSlug: string, slug: string): undefined {
   taking(root, join(indexIdentity.name, PAGE_TYPE, pageTypeSlug, SLUG, `${slug}${ENDING}`))
 }
@@ -387,10 +361,6 @@ export function valueTakenFrom(root: string, pageTypeSlug: string, slug: string)
   writeFileSync(at, kept.map((one) => `${one}\n`).join(""))
 }
 
-export function importsListed(root: string): boolean {
-  return existsSync(under(root, indexImport.name))
-}
-
 export function identitiesListedIn(root: string, pageTypeSlug: string): boolean {
   return existsSync(under(root, join(indexIdentity.name, PAGE_TYPE, pageTypeSlug)))
 }
@@ -403,14 +373,6 @@ export function identitiesTakenFrom(root: string, pageTypeSlug: string): undefin
   taking(root, join(indexIdentity.name, PAGE_TYPE, pageTypeSlug))
 }
 
-export function pathsTakenFrom(root: string): undefined {
-  taking(root, indexPath.name)
-}
-
-export function importsTakenFrom(root: string): undefined {
-  taking(root, indexImport.name)
-}
-
 export function fileWhereTheIndexIs(root: string, text: string): undefined {
   const at = indexIn(root)
   rmSync(at, { recursive: true, force: true })
@@ -421,14 +383,6 @@ export function fileWhereTheIndexIs(root: string, text: string): undefined {
 const TREE = "akasha"
 
 const IMPORTS_NONE = "akasha/one/imports-none.module.ts"
-
-const HELD_PAGE = `export const held = {
-  id: "01a04bed-1450-7000-8000-00000000aaaa",
-  pageTypeSlug: "module",
-  slug: "held",
-  definition: "a page carried across a move",
-}
-`
 
 function moduleTyped(root: string): undefined {
   const at = `${TREE}/module.page-type.ts`
@@ -460,8 +414,4 @@ export function repoAt(root: string, named: Readonly<Record<string, string>>): s
     "akasha/*.code-check.ts\nakasha/*.code-check.code.ts\n*.uncommitted.ts\n*.uncommitted.jsonl\n"
   )
   return pagesRebuilt(root)
-}
-
-export function heldIndexedAt(root: string): string {
-  return pagesRebuilt(repoAt(root, { [HELD]: HELD_PAGE }))
 }
