@@ -12,7 +12,7 @@ import { data } from "react-router"
 
 const NAV_SLUG = "nav"
 
-async function loader({
+export async function loader({
   params,
   request,
 }: {

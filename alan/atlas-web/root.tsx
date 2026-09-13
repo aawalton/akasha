@@ -34,7 +34,7 @@ export const meta: Route.MetaFunction = () => [
   { name: "description", content: "Atlas" },
 ]
 
-async function loader({ request, context }: Route.LoaderArgs) {
+export async function loader({ request, context }: Route.LoaderArgs) {
   return guardedRootData(request, AUTH_CONFIG, context.nonce)
 }
 

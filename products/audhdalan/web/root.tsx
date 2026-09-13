@@ -24,7 +24,7 @@ export const meta: Route.MetaFunction = () => [
   { name: "description", content: "audhdalan.com" },
 ]
 
-const loader = rootNonceLoader
+export const loader = rootNonceLoader
 
 export function Layout({ children }: { children: React.ReactNode }) {
   const nonce = useRouteLoaderData<typeof loader>("root")?.nonce
