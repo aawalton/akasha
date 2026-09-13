@@ -261,6 +261,42 @@ export function namespacedTwice(): string {
   return root
 }
 
+export function mixedTwice(namespaceFirst: boolean): string {
+  const under = namespaceFirst
+    ? ["namespace/pick-side", "command/pick-first"]
+    : ["command/pick-first", "namespace/pick-side"]
+  const root = rootWith([{ slug: "pick-first", body: ANSWERS, name: "pick" }], COMMAND, under)
+  namespacesIn(root, [{ slug: "pick-side", name: "pick", parts: ["command/pick-first"] }])
+  return root
+}
+
+export function openUnderSession(): string {
+  const root = rootWith([{ slug: "track-session-open", body: ANSWERS, name: "open" }], COMMAND, [
+    "namespace/track",
+  ])
+  namespacesIn(root, [
+    { slug: "track", name: "track", parts: ["namespace/track-session"] },
+    {
+      slug: "track-session",
+      name: "session",
+      definition: "the stretches",
+      parts: ["command/track-session-open"],
+    },
+  ])
+  return root
+}
+
+export function partlessTrack(): string {
+  return rootWith(
+    [
+      { slug: "track", body: ANSWERS },
+      { slug: "track-session", body: ANSWERS, name: "session" },
+    ],
+    COMMAND,
+    ["command/track"]
+  )
+}
+
 const ARGUMENT = "argument"
 
 const ARGUMENT_TYPE = "01a093fd-9102-76e8-958e-03d34cd41e25"

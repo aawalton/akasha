@@ -113,6 +113,10 @@ export const calling = {
     },
     {
       invariantKind: "departure",
+      statement: "Such a refusal is the same whatever order the pages it names were written in.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A command is told the call as that call was written on the command line.",
     },
     {

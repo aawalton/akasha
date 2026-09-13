@@ -10,9 +10,12 @@ import {
   COMMAND_TYPE,
   draftUnderChange,
   heldTwice,
+  mixedTwice,
   namespacedTwice,
   namespacesIn,
   OUTSIDE,
+  openUnderSession,
+  partlessTrack,
   pickedTwice,
   rootWith,
   ruledRoot,
@@ -142,15 +145,7 @@ test("a level above the deepest is read where nothing deeper is reached", async 
 })
 
 test("a command no level above states as a part is reached by no word", async () => {
-  const root = rootWith(
-    [
-      { slug: "track", body: ANSWERS },
-      { slug: "track-session", body: ANSWERS, name: "session" },
-    ],
-    COMMAND,
-    ["command/track"]
-  )
-  const said = await calling(["track", "session"], { ...OUTSIDE, root })
+  const said = await calling(["track", "session"], { ...OUTSIDE, root: partlessTrack() })
   expect(said.code).toBe(0)
   expect(said.report[0]).toBe("session")
   expect(said.report[1]).toBe("akasha track")
@@ -185,18 +180,7 @@ test("a word steps a whole level, so a longer word reaches no command below", as
 })
 
 test("a command reached under a namespace is answered rather than the namespace", async () => {
-  const root = rootWith([{ slug: "track-session-open", body: ANSWERS, name: "open" }], COMMAND, [
-    "namespace/track",
-  ])
-  namespacesIn(root, [
-    { slug: "track", name: "track", parts: ["namespace/track-session"] },
-    {
-      slug: "track-session",
-      name: "session",
-      definition: "the stretches",
-      parts: ["command/track-session-open"],
-    },
-  ])
+  const root = openUnderSession()
   const said = await calling(["track", "session", "open", "one"], { ...OUTSIDE, root })
   expect(said.code).toBe(0)
   expect(said.report[0]).toBe("one")
@@ -218,6 +202,14 @@ test("a name carried by more than one namespace is refused, not chosen between",
   expect(said.code).toBe(DATA)
   expect(said.refusals[0]).toContain("`session`")
   expect(said.refusals[0]).not.toContain("no command akasha carries")
+})
+
+test("a word a command and a namespace share is refused alike, either order", async () => {
+  const said = await calling(["pick"], { ...OUTSIDE, root: mixedTwice(false) })
+  const other = await calling(["pick"], { ...OUTSIDE, root: mixedTwice(true) })
+  expect(said.code).toBe(DATA)
+  expect(said.refusals[0]).toContain("`pick`")
+  expect(other).toEqual(said)
 })
 
 test("a namespace with nothing past it but the help flag is listed", async () => {
