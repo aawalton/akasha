@@ -20,6 +20,7 @@ export const service = {
     "service-workstation/cluster-deploying",
     "service-workstation/container-recipe-deploying",
     "service-workstation/eso-addon-deploying",
+    "service-workstation/inference-deploying",
     "service-workstation/service-watching",
     "service-workstation/web-app-deploying",
     "service-workstation/workstation-deploying",
