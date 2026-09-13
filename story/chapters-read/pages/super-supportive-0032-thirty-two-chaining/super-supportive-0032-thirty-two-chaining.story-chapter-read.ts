@@ -9,10 +9,14 @@ export const superSupportive0032ThirtyTwoChaining = {
   position: 32,
   ownLength: 4034,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1198333/thirty-two-chaining",
-  externalId: "1198333",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1198333",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1198333/thirty-two-chaining",
+    },
+  ],
   publishedAt: "2023-05-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

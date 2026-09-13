@@ -9,10 +9,14 @@ export const superSupportive0249TwoHundredFortySevenAPounce = {
   position: 249,
   ownLength: 2966,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2641996/two-hundred-forty-seven-a-pounce",
-  externalId: "2641996",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2641996",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2641996/two-hundred-forty-seven-a-pounce",
+    },
+  ],
   publishedAt: "2025-10-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

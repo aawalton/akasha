@@ -9,10 +9,14 @@ export const superSupportive0139OneHundredThirtyEightWavesIv = {
   position: 139,
   ownLength: 3973,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1620939/one-hundred-thirty-eight-waves-iv",
-  externalId: "1620939",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1620939",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1620939/one-hundred-thirty-eight-waves-iv",
+    },
+  ],
   publishedAt: "2024-05-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

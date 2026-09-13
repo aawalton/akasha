@@ -9,10 +9,14 @@ export const succulentGirlEvolution0023Chapter23EmotionalDevelopmentMaybe = {
   position: 23,
   ownLength: 2033,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2604958/chapter-23-emotional-development-maybe",
-  externalId: "2604958",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2604958",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2604958/chapter-23-emotional-development-maybe",
+    },
+  ],
   publishedAt: "2025-09-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

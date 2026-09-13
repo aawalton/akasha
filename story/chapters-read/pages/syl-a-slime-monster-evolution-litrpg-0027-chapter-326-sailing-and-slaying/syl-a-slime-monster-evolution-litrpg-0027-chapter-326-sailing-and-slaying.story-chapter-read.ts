@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0027Chapter326SailingAndSlaying = {
   position: 27,
   ownLength: 2188,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2855168/chapter-326-sailing-and-slaying",
-  externalId: "2855168",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2855168",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2855168/chapter-326-sailing-and-slaying",
+    },
+  ],
   publishedAt: "2025-12-17",
   ownProgress: 2188,
   completedAt: "2026-06-29T19:42:42.216Z",

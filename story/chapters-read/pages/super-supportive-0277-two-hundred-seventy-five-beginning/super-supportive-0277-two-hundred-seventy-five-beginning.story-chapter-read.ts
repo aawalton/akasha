@@ -9,10 +9,14 @@ export const superSupportive0277TwoHundredSeventyFiveBeginning = {
   position: 277,
   ownLength: 5085,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3138508/two-hundred-seventy-five-beginning",
-  externalId: "3138508",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3138508",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3138508/two-hundred-seventy-five-beginning",
+    },
+  ],
   publishedAt: "2026-03-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

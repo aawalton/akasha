@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0048Chapter347Experiments = {
   position: 48,
   ownLength: 2413,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3027714/chapter-347-experiments",
-  externalId: "3027714",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3027714",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3027714/chapter-347-experiments",
+    },
+  ],
   publishedAt: "2026-02-09",
   ownProgress: 2413,
   completedAt: "2026-06-29T19:43:24.262Z",

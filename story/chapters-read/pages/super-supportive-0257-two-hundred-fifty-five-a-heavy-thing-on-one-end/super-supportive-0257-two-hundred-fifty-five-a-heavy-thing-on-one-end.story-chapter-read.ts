@@ -9,10 +9,14 @@ export const superSupportive0257TwoHundredFiftyFiveAHeavyThingOnOneEnd = {
   position: 257,
   ownLength: 4052,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2750040/two-hundred-fifty-five-a-heavy-thing-on-one-end",
-  externalId: "2750040",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2750040",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2750040/two-hundred-fifty-five-a-heavy-thing-on-one-end",
+    },
+  ],
   publishedAt: "2025-11-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

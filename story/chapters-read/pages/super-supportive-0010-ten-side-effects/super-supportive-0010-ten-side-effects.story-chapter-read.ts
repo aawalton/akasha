@@ -9,10 +9,14 @@ export const superSupportive0010TenSideEffects = {
   position: 10,
   ownLength: 2669,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1115315/ten-side-effects",
-  externalId: "1115315",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1115315",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1115315/ten-side-effects",
+    },
+  ],
   publishedAt: "2023-02-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

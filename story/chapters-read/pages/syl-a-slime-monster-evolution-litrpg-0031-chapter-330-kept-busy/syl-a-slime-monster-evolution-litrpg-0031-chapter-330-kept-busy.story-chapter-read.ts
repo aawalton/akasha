@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0031Chapter330KeptBusy = {
   position: 31,
   ownLength: 2184,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2888960/chapter-330-kept-busy",
-  externalId: "2888960",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2888960",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2888960/chapter-330-kept-busy",
+    },
+  ],
   publishedAt: "2025-12-29",
   ownProgress: 2184,
   completedAt: "2026-06-29T19:42:50.316Z",

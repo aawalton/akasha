@@ -9,10 +9,14 @@ export const superSupportive0044FortyFourRequestForInsight = {
   position: 44,
   ownLength: 324,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1245476/forty-four-request-for-insight",
-  externalId: "1245476",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1245476",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1245476/forty-four-request-for-insight",
+    },
+  ],
   publishedAt: "2023-06-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

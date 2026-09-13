@@ -9,10 +9,14 @@ export const superSupportive0188OneHundredEightySixWorlds = {
   position: 188,
   ownLength: 4778,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1928494/one-hundred-eighty-six-worlds",
-  externalId: "1928494",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1928494",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1928494/one-hundred-eighty-six-worlds",
+    },
+  ],
   publishedAt: "2024-11-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const superSupportive0179OneHundredSeventySevenGuests = {
   position: 179,
   ownLength: 4965,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1860730/one-hundred-seventy-seven-guests",
-  externalId: "1860730",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1860730",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1860730/one-hundred-seventy-seven-guests",
+    },
+  ],
   publishedAt: "2024-10-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

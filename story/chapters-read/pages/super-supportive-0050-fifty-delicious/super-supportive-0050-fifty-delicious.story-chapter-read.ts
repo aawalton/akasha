@@ -9,10 +9,14 @@ export const superSupportive0050FiftyDelicious = {
   position: 50,
   ownLength: 1764,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1264921/fifty-delicious",
-  externalId: "1264921",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1264921",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1264921/fifty-delicious",
+    },
+  ],
   publishedAt: "2023-07-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

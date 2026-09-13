@@ -9,10 +9,14 @@ export const superSupportive0166OneHundredSixtyFourEchoingKlerms = {
   position: 166,
   ownLength: 5008,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1774261/one-hundred-sixty-four-echoing-klerms",
-  externalId: "1774261",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1774261",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1774261/one-hundred-sixty-four-echoing-klerms",
+    },
+  ],
   publishedAt: "2024-08-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

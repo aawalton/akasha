@@ -9,10 +9,14 @@ export const superSupportive0105OneHundredFourHotChocolate = {
   position: 105,
   ownLength: 7182,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1457740/one-hundred-four-hot-chocolate",
-  externalId: "1457740",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1457740",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1457740/one-hundred-four-hot-chocolate",
+    },
+  ],
   publishedAt: "2023-12-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

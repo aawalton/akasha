@@ -9,10 +9,14 @@ export const superSupportive0111OneHundredTenTheChainerIi = {
   position: 111,
   ownLength: 9591,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1490262/one-hundred-ten-the-chainer-ii",
-  externalId: "1490262",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1490262",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1490262/one-hundred-ten-the-chainer-ii",
+    },
+  ],
   publishedAt: "2024-01-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

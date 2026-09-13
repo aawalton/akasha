@@ -9,10 +9,14 @@ export const superSupportive0041FortyOneChaos = {
   position: 41,
   ownLength: 3536,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1235378/forty-one-chaos",
-  externalId: "1235378",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1235378",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1235378/forty-one-chaos",
+    },
+  ],
   publishedAt: "2023-06-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

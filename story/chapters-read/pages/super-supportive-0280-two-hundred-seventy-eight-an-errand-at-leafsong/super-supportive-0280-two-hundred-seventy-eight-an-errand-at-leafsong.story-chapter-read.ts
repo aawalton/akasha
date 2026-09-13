@@ -9,10 +9,14 @@ export const superSupportive0280TwoHundredSeventyEightAnErrandAtLeafsong = {
   position: 280,
   ownLength: 1370,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3194677/two-hundred-seventy-eight-an-errand-at-leafsong",
-  externalId: "3194677",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3194677",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3194677/two-hundred-seventy-eight-an-errand-at-leafsong",
+    },
+  ],
   publishedAt: "2026-03-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

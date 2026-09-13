@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0054Chapter353MagicalSpeedrun = {
   position: 54,
   ownLength: 2110,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3082770/chapter-353-magical-speedrun",
-  externalId: "3082770",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3082770",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3082770/chapter-353-magical-speedrun",
+    },
+  ],
   publishedAt: "2026-02-23",
   ownProgress: 2110,
   completedAt: "2026-06-29T19:43:35.482Z",

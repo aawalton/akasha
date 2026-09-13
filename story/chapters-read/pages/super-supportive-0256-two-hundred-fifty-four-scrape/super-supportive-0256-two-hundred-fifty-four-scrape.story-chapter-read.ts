@@ -9,10 +9,14 @@ export const superSupportive0256TwoHundredFiftyFourScrape = {
   position: 256,
   ownLength: 3213,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2736202/two-hundred-fifty-four-scrape",
-  externalId: "2736202",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2736202",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2736202/two-hundred-fifty-four-scrape",
+    },
+  ],
   publishedAt: "2025-11-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

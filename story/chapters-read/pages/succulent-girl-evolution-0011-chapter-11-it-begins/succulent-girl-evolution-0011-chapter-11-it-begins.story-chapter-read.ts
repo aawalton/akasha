@@ -9,10 +9,14 @@ export const succulentGirlEvolution0011Chapter11ItBegins = {
   position: 11,
   ownLength: 2047,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2530789/chapter-11-it-begins",
-  externalId: "2530789",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2530789",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2530789/chapter-11-it-begins",
+    },
+  ],
   publishedAt: "2025-08-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

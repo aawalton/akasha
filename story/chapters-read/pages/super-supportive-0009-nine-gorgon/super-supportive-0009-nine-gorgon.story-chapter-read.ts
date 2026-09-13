@@ -9,10 +9,14 @@ export const superSupportive0009NineGorgon = {
   position: 9,
   ownLength: 3129,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1114911/nine-gorgon",
-  externalId: "1114911",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1114911",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1114911/nine-gorgon",
+    },
+  ],
   publishedAt: "2023-02-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

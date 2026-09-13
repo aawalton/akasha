@@ -9,10 +9,14 @@ export const superSupportive0241TwoHundredThirtyNineHereToThereEpilogue = {
   position: 241,
   ownLength: 2824,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2534453/two-hundred-thirty-nine-here-to-there-epilogue",
-  externalId: "2534453",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2534453",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2534453/two-hundred-thirty-nine-here-to-there-epilogue",
+    },
+  ],
   publishedAt: "2025-08-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

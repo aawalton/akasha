@@ -9,10 +9,14 @@ export const superSupportive0058FiftyEightIfThisOneMakesItToYou = {
   position: 58,
   ownLength: 1605,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1294006/fifty-eight-if-this-one-makes-it-to-you",
-  externalId: "1294006",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1294006",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1294006/fifty-eight-if-this-one-makes-it-to-you",
+    },
+  ],
   publishedAt: "2023-07-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

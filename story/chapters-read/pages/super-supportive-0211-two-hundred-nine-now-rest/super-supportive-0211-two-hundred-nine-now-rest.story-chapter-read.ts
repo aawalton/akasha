@@ -9,10 +9,14 @@ export const superSupportive0211TwoHundredNineNowRest = {
   position: 211,
   ownLength: 3018,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2152689/two-hundred-nine-now-rest",
-  externalId: "2152689",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2152689",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2152689/two-hundred-nine-now-rest",
+    },
+  ],
   publishedAt: "2025-03-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

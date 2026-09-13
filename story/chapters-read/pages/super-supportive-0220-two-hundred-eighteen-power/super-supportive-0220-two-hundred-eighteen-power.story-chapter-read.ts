@@ -9,10 +9,14 @@ export const superSupportive0220TwoHundredEighteenPower = {
   position: 220,
   ownLength: 4080,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2282196/two-hundred-eighteen-power",
-  externalId: "2282196",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2282196",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2282196/two-hundred-eighteen-power",
+    },
+  ],
   publishedAt: "2025-05-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const superSupportive0253TwoHundredFiftyOneTheSecondBlossom = {
   position: 253,
   ownLength: 4196,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2692702/two-hundred-fifty-one-the-second-blossom",
-  externalId: "2692702",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2692702",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2692702/two-hundred-fifty-one-the-second-blossom",
+    },
+  ],
   publishedAt: "2025-10-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

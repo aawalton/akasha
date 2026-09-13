@@ -9,10 +9,14 @@ export const superSupportive0163OneHundredSixtyOneGoodWaking = {
   position: 163,
   ownLength: 4913,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1753850/one-hundred-sixty-one-good-waking",
-  externalId: "1753850",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1753850",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1753850/one-hundred-sixty-one-good-waking",
+    },
+  ],
   publishedAt: "2024-08-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const succulentGirlEvolution0017Chapter17NewFinWhoDis = {
   position: 17,
   ownLength: 2104,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2568349/chapter-17-new-fin-who-dis",
-  externalId: "2568349",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2568349",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2568349/chapter-17-new-fin-who-dis",
+    },
+  ],
   publishedAt: "2025-09-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

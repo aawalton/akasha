@@ -9,10 +9,14 @@ export const superSupportive0052FiftyTwoTheNecessaryFunctions = {
   position: 52,
   ownLength: 2829,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1272105/fifty-two-the-necessary-functions",
-  externalId: "1272105",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1272105",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1272105/fifty-two-the-necessary-functions",
+    },
+  ],
   publishedAt: "2023-07-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

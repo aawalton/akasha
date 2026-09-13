@@ -9,10 +9,14 @@ export const superSupportive0190OneHundredEightyEightKnowThyself = {
   position: 190,
   ownLength: 6156,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1947310/one-hundred-eighty-eight-know-thyself",
-  externalId: "1947310",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1947310",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1947310/one-hundred-eighty-eight-know-thyself",
+    },
+  ],
   publishedAt: "2024-12-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

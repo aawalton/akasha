@@ -9,10 +9,14 @@ export const superSupportive0059RitualOfReturn = {
   position: 59,
   ownLength: 120,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1294083/ritual-of-return",
-  externalId: "1294083",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1294083",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1294083/ritual-of-return",
+    },
+  ],
   publishedAt: "2023-07-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

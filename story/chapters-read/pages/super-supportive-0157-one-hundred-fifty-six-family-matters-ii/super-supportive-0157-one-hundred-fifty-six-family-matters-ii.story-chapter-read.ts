@@ -9,10 +9,14 @@ export const superSupportive0157OneHundredFiftySixFamilyMattersIi = {
   position: 157,
   ownLength: 5939,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1722143/one-hundred-fifty-six-family-matters-ii",
-  externalId: "1722143",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1722143",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1722143/one-hundred-fifty-six-family-matters-ii",
+    },
+  ],
   publishedAt: "2024-07-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

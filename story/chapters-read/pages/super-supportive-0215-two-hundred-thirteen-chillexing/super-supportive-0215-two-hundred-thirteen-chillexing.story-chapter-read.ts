@@ -9,10 +9,14 @@ export const superSupportive0215TwoHundredThirteenChillexing = {
   position: 215,
   ownLength: 3825,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2226876/two-hundred-thirteen-chillexing",
-  externalId: "2226876",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2226876",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2226876/two-hundred-thirteen-chillexing",
+    },
+  ],
   publishedAt: "2025-04-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

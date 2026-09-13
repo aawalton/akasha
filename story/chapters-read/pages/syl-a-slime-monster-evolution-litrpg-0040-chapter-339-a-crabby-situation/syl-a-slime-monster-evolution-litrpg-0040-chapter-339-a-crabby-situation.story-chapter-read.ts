@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0040Chapter339ACrabbySituation = {
   position: 40,
   ownLength: 2155,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2956801/chapter-339-a-crabby-situation",
-  externalId: "2956801",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2956801",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2956801/chapter-339-a-crabby-situation",
+    },
+  ],
   publishedAt: "2026-01-19",
   ownProgress: 2155,
   completedAt: "2026-06-29T19:43:08.591Z",

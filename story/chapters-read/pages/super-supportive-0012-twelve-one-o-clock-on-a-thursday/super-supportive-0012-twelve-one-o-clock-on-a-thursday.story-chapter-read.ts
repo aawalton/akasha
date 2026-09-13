@@ -9,10 +9,14 @@ export const superSupportive0012TwelveOneOClockOnAThursday = {
   position: 12,
   ownLength: 2225,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1116121/twelve-one-oclock-on-a-thursday",
-  externalId: "1116121",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1116121",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1116121/twelve-one-oclock-on-a-thursday",
+    },
+  ],
   publishedAt: "2023-02-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const superSupportive0246TwoHundredFortyFourContemplations = {
   position: 246,
   ownLength: 2313,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2603552/two-hundred-forty-four-contemplations",
-  externalId: "2603552",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2603552",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2603552/two-hundred-forty-four-contemplations",
+    },
+  ],
   publishedAt: "2025-09-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

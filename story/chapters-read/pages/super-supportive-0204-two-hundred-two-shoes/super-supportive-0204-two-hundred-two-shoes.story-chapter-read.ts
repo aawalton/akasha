@@ -9,10 +9,14 @@ export const superSupportive0204TwoHundredTwoShoes = {
   position: 204,
   ownLength: 5630,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2044797/two-hundred-two-shoes",
-  externalId: "2044797",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2044797",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2044797/two-hundred-two-shoes",
+    },
+  ],
   publishedAt: "2025-02-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

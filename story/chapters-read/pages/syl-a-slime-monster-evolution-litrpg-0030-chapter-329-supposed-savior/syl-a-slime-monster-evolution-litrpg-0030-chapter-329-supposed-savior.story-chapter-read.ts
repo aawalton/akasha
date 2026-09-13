@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0030Chapter329SupposedSavior = {
   position: 30,
   ownLength: 2355,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2875357/chapter-329-supposed-savior",
-  externalId: "2875357",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2875357",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2875357/chapter-329-supposed-savior",
+    },
+  ],
   publishedAt: "2025-12-24",
   ownProgress: 2355,
   completedAt: "2026-06-29T19:42:48.397Z",

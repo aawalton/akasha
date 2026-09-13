@@ -9,10 +9,14 @@ export const superSupportive0020TwentyAnOrdinaryMailbox = {
   position: 20,
   ownLength: 1520,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1122880/twenty-an-ordinary-mailbox",
-  externalId: "1122880",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1122880",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1122880/twenty-an-ordinary-mailbox",
+    },
+  ],
   publishedAt: "2023-02-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

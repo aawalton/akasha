@@ -9,10 +9,14 @@ export const superSupportive0122OneHundredTwentyOneAvalanche = {
   position: 122,
   ownLength: 8154,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1527705/one-hundred-twenty-one-avalanche",
-  externalId: "1527705",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1527705",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1527705/one-hundred-twenty-one-avalanche",
+    },
+  ],
   publishedAt: "2024-02-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

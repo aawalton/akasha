@@ -9,10 +9,14 @@ export const superSupportive0177OneHundredSeventyFiveKindEffort = {
   position: 177,
   ownLength: 4962,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1849289/one-hundred-seventy-five-kind-effort",
-  externalId: "1849289",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1849289",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1849289/one-hundred-seventy-five-kind-effort",
+    },
+  ],
   publishedAt: "2024-10-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const superSupportive0164OneHundredSixtyTwoGrandPresentation = {
   position: 164,
   ownLength: 6060,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1759170/one-hundred-sixty-two-grand-presentation",
-  externalId: "1759170",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1759170",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1759170/one-hundred-sixty-two-grand-presentation",
+    },
+  ],
   publishedAt: "2024-08-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const superSupportive0002TwoMistakes = {
   position: 2,
   ownLength: 3764,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1097958/two-mistakes",
-  externalId: "1097958",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1097958",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1097958/two-mistakes",
+    },
+  ],
   publishedAt: "2023-01-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

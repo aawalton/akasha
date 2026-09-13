@@ -9,10 +9,14 @@ export const superSupportive0080SeventyNineTheFew = {
   position: 80,
   ownLength: 5849,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1363774/seventy-nine-the-few",
-  externalId: "1363774",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1363774",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1363774/seventy-nine-the-few",
+    },
+  ],
   publishedAt: "2023-10-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

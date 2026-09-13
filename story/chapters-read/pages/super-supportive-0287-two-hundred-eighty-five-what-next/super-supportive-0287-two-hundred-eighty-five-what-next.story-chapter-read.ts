@@ -9,10 +9,14 @@ export const superSupportive0287TwoHundredEightyFiveWhatNext = {
   position: 287,
   ownLength: 5345,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3360542/two-hundred-eighty-five-what-next",
-  externalId: "3360542",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3360542",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3360542/two-hundred-eighty-five-what-next",
+    },
+  ],
   publishedAt: "2026-05-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const superSupportive0077SeventySixTheRescueGame = {
   position: 77,
   ownLength: 7091,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1353212/seventy-six-the-rescue-game",
-  externalId: "1353212",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1353212",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1353212/seventy-six-the-rescue-game",
+    },
+  ],
   publishedAt: "2023-09-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const succulentGirlEvolution0029Chapter29Boundaries = {
   position: 29,
   ownLength: 2048,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2640623/chapter-29-boundaries",
-  externalId: "2640623",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2640623",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2640623/chapter-29-boundaries",
+    },
+  ],
   publishedAt: "2025-09-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

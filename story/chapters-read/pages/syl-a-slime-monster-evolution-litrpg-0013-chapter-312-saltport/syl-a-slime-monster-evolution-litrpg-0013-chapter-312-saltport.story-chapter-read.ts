@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0013Chapter312Saltport = {
   position: 13,
   ownLength: 2479,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2753772/chapter-312-saltport",
-  externalId: "2753772",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2753772",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2753772/chapter-312-saltport",
+    },
+  ],
   publishedAt: "2025-11-12",
   ownProgress: 2479,
   completedAt: "2026-06-29T19:42:12.239Z",

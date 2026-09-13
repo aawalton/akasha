@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0002Chapter101BaitBook2 = {
   position: 2,
   ownLength: 2006,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/1655151/chapter-101-bait-book-2",
-  externalId: "1655151",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1655151",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/1655151/chapter-101-bait-book-2",
+    },
+  ],
   publishedAt: "2024-05-29",
   ownProgress: 2006,
   completedAt: "2026-06-29T19:41:51.115Z",

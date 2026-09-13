@@ -9,10 +9,14 @@ export const superSupportive0109OneHundredEightCanoe = {
   position: 109,
   ownLength: 3654,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1477672/one-hundred-eight-canoe",
-  externalId: "1477672",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1477672",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1477672/one-hundred-eight-canoe",
+    },
+  ],
   publishedAt: "2024-01-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

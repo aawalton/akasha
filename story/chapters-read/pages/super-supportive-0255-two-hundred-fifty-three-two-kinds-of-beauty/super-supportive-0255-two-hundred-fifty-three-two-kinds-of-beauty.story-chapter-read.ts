@@ -9,10 +9,14 @@ export const superSupportive0255TwoHundredFiftyThreeTwoKindsOfBeauty = {
   position: 255,
   ownLength: 4155,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2717955/two-hundred-fifty-three-two-kinds-of-beauty",
-  externalId: "2717955",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2717955",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2717955/two-hundred-fifty-three-two-kinds-of-beauty",
+    },
+  ],
   publishedAt: "2025-10-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

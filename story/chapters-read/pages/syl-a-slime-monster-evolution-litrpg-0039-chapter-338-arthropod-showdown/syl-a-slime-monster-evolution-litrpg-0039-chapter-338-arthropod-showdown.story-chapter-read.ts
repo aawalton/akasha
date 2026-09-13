@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0039Chapter338ArthropodShowdown = {
   position: 39,
   ownLength: 2498,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2947744/chapter-338-arthropod-showdown",
-  externalId: "2947744",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2947744",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2947744/chapter-338-arthropod-showdown",
+    },
+  ],
   publishedAt: "2026-01-16",
   ownProgress: 2498,
   completedAt: "2026-06-29T19:43:06.074Z",

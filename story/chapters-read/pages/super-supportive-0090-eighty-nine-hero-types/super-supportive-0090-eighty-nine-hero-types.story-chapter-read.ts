@@ -9,10 +9,14 @@ export const superSupportive0090EightyNineHeroTypes = {
   position: 90,
   ownLength: 5086,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1397911/eighty-nine-hero-types",
-  externalId: "1397911",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1397911",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1397911/eighty-nine-hero-types",
+    },
+  ],
   publishedAt: "2023-11-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

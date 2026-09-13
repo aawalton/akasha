@@ -9,10 +9,14 @@ export const superSupportive0216TwoHundredFourteenScoot = {
   position: 216,
   ownLength: 4644,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2230849/two-hundred-fourteen-scoot",
-  externalId: "2230849",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2230849",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2230849/two-hundred-fourteen-scoot",
+    },
+  ],
   publishedAt: "2025-04-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

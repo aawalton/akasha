@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0028Chapter327StepsSkillsPoints = {
   position: 28,
   ownLength: 2167,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2860715/chapter-327-steps-skills-points",
-  externalId: "2860715",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2860715",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2860715/chapter-327-steps-skills-points",
+    },
+  ],
   publishedAt: "2025-12-19",
   ownProgress: 2167,
   completedAt: "2026-06-29T19:42:44.350Z",

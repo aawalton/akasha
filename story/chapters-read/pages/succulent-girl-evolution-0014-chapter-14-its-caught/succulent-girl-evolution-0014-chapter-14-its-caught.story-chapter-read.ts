@@ -9,10 +9,14 @@ export const succulentGirlEvolution0014Chapter14ItsCaught = {
   position: 14,
   ownLength: 2312,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2549600/chapter-14-its-caught",
-  externalId: "2549600",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2549600",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2549600/chapter-14-its-caught",
+    },
+  ],
   publishedAt: "2025-08-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

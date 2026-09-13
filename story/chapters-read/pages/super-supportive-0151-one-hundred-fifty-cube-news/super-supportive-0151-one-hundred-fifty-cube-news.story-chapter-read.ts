@@ -9,10 +9,14 @@ export const superSupportive0151OneHundredFiftyCubeNews = {
   position: 151,
   ownLength: 5862,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1684839/one-hundred-fifty-cube-news",
-  externalId: "1684839",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1684839",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1684839/one-hundred-fifty-cube-news",
+    },
+  ],
   publishedAt: "2024-06-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const superSupportive0039ThirtyNineLessonOne = {
   position: 39,
   ownLength: 8292,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1228338/thirty-nine-lesson-one",
-  externalId: "1228338",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1228338",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1228338/thirty-nine-lesson-one",
+    },
+  ],
   publishedAt: "2023-05-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

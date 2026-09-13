@@ -9,10 +9,14 @@ export const superSupportive0221TwoHundredNineteenBarrelRoll = {
   position: 221,
   ownLength: 5527,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2294345/two-hundred-nineteen-barrel-roll",
-  externalId: "2294345",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2294345",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2294345/two-hundred-nineteen-barrel-roll",
+    },
+  ],
   publishedAt: "2025-05-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

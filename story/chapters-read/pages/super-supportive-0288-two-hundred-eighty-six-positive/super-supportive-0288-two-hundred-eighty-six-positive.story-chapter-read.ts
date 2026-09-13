@@ -9,10 +9,14 @@ export const superSupportive0288TwoHundredEightySixPositive = {
   position: 288,
   ownLength: 4838,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3380315/two-hundred-eighty-six-positive",
-  externalId: "3380315",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3380315",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3380315/two-hundred-eighty-six-positive",
+    },
+  ],
   publishedAt: "2026-05-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const succulentGirlEvolution0013Chapter13ItSleeps = {
   position: 13,
   ownLength: 1823,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2541456/chapter-13-it-sleeps",
-  externalId: "2541456",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2541456",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2541456/chapter-13-it-sleeps",
+    },
+  ],
   publishedAt: "2025-08-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const superSupportive0116OneHundredFifteenLazySunday = {
   position: 116,
   ownLength: 5131,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1502407/one-hundred-fifteen-lazy-sunday",
-  externalId: "1502407",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1502407",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1502407/one-hundred-fifteen-lazy-sunday",
+    },
+  ],
   publishedAt: "2024-02-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

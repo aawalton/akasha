@@ -9,10 +9,14 @@ export const succulentGirlEvolution0009Chapter9SorryRock = {
   position: 9,
   ownLength: 1962,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525636/chapter-9-sorry-rock",
-  externalId: "2525636",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525636",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525636/chapter-9-sorry-rock",
+    },
+  ],
   publishedAt: "2025-08-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

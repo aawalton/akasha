@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0044Chapter343Calamity = {
   position: 44,
   ownLength: 2271,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2986780/chapter-343-calamity",
-  externalId: "2986780",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2986780",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2986780/chapter-343-calamity",
+    },
+  ],
   publishedAt: "2026-01-28",
   ownProgress: 2271,
   completedAt: "2026-06-29T19:43:16.717Z",

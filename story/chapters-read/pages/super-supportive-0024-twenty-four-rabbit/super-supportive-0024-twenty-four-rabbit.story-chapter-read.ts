@@ -9,10 +9,14 @@ export const superSupportive0024TwentyFourRabbit = {
   position: 24,
   ownLength: 5658,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1132920/twenty-four-rabbit",
-  externalId: "1132920",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1132920",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1132920/twenty-four-rabbit",
+    },
+  ],
   publishedAt: "2023-03-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

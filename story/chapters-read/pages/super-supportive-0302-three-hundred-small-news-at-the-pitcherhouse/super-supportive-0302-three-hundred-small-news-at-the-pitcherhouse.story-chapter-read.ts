@@ -9,10 +9,14 @@ export const superSupportive0302ThreeHundredSmallNewsAtThePitcherhouse = {
   position: 302,
   ownLength: 4649,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3753999/three-hundred-small-news-at-the-pitcherhouse",
-  externalId: "3753999",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3753999",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3753999/three-hundred-small-news-at-the-pitcherhouse",
+    },
+  ],
   publishedAt: "2026-08-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

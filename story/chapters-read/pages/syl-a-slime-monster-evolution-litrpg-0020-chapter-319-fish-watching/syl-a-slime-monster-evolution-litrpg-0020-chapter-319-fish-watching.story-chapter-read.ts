@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0020Chapter319FishWatching = {
   position: 20,
   ownLength: 2286,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2807964/chapter-319-fish-watching",
-  externalId: "2807964",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2807964",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2807964/chapter-319-fish-watching",
+    },
+  ],
   publishedAt: "2025-12-01",
   ownProgress: 2286,
   completedAt: "2026-06-29T19:42:28.125Z",

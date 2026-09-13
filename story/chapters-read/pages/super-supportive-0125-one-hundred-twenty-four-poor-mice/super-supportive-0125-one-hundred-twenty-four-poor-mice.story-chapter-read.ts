@@ -9,10 +9,14 @@ export const superSupportive0125OneHundredTwentyFourPoorMice = {
   position: 125,
   ownLength: 6816,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1544698/one-hundred-twenty-four-poor-mice",
-  externalId: "1544698",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1544698",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1544698/one-hundred-twenty-four-poor-mice",
+    },
+  ],
   publishedAt: "2024-03-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

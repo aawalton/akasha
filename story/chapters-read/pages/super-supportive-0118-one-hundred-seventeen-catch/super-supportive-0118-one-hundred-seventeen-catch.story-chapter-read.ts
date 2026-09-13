@@ -9,10 +9,14 @@ export const superSupportive0118OneHundredSeventeenCatch = {
   position: 118,
   ownLength: 7098,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1510603/one-hundred-seventeen-catch",
-  externalId: "1510603",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1510603",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1510603/one-hundred-seventeen-catch",
+    },
+  ],
   publishedAt: "2024-02-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

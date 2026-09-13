@@ -9,10 +9,14 @@ export const superSupportive0169OneHundredSixtySevenNotion = {
   position: 169,
   ownLength: 5633,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1794805/one-hundred-sixty-seven-notion",
-  externalId: "1794805",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1794805",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1794805/one-hundred-sixty-seven-notion",
+    },
+  ],
   publishedAt: "2024-09-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

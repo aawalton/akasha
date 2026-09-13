@@ -9,10 +9,14 @@ export const superSupportive0209TwoHundredSevenHitMeWithIt = {
   position: 209,
   ownLength: 4878,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2123312/two-hundred-seven-hit-me-with-it",
-  externalId: "2123312",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2123312",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2123312/two-hundred-seven-hit-me-with-it",
+    },
+  ],
   publishedAt: "2025-03-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

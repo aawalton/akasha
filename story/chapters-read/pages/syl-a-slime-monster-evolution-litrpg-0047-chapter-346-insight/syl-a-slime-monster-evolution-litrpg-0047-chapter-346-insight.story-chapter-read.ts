@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0047Chapter346Insight = {
   position: 47,
   ownLength: 2218,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3017409/chapter-346-insight",
-  externalId: "3017409",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3017409",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3017409/chapter-346-insight",
+    },
+  ],
   publishedAt: "2026-02-06",
   ownProgress: 2218,
   completedAt: "2026-06-29T19:43:22.352Z",

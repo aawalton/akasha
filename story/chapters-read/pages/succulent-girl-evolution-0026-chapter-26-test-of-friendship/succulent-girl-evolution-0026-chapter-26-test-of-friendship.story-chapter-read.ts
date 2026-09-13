@@ -9,10 +9,14 @@ export const succulentGirlEvolution0026Chapter26TestOfFriendship = {
   position: 26,
   ownLength: 2182,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2622788/chapter-26-test-of-friendship",
-  externalId: "2622788",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2622788",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2622788/chapter-26-test-of-friendship",
+    },
+  ],
   publishedAt: "2025-09-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

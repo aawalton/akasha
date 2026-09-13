@@ -9,10 +9,14 @@ export const superSupportive0254TwoHundredFiftyTwoSlumberParty = {
   position: 254,
   ownLength: 4048,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2705240/two-hundred-fifty-two-slumber-party",
-  externalId: "2705240",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2705240",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2705240/two-hundred-fifty-two-slumber-party",
+    },
+  ],
   publishedAt: "2025-10-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

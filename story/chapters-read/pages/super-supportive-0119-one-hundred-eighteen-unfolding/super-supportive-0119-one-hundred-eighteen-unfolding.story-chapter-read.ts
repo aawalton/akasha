@@ -9,10 +9,14 @@ export const superSupportive0119OneHundredEighteenUnfolding = {
   position: 119,
   ownLength: 6395,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1515215/one-hundred-eighteen-unfolding",
-  externalId: "1515215",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1515215",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1515215/one-hundred-eighteen-unfolding",
+    },
+  ],
   publishedAt: "2024-02-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

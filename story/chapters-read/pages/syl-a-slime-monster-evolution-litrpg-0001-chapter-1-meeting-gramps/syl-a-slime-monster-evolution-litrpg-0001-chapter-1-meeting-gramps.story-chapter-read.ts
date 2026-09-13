@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0001Chapter1MeetingGramps = {
   position: 1,
   ownLength: 1487,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/1432932/chapter-1-meeting-gramps",
-  externalId: "1432932",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1432932",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/1432932/chapter-1-meeting-gramps",
+    },
+  ],
   publishedAt: "2023-12-05",
   ownProgress: 1487,
   completedAt: "2026-06-29T19:41:49.204Z",

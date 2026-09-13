@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0005AnnouncementNewStoryAndBookNews 
   position: 5,
   ownLength: 543,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2030629/announcement-new-story-and-book-news",
-  externalId: "2030629",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2030629",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2030629/announcement-new-story-and-book-news",
+    },
+  ],
   publishedAt: "2025-01-26",
   ownProgress: 543,
   completedAt: "2026-06-29T19:41:56.795Z",

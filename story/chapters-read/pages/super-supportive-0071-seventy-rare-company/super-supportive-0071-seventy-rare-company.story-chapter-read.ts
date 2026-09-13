@@ -9,10 +9,14 @@ export const superSupportive0071SeventyRareCompany = {
   position: 71,
   ownLength: 3493,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1332050/seventy-rare-company",
-  externalId: "1332050",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1332050",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1332050/seventy-rare-company",
+    },
+  ],
   publishedAt: "2023-09-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

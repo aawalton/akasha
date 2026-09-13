@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0052Chapter351Sylbera = {
   position: 52,
   ownLength: 2114,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3066888/chapter-351-sylbera",
-  externalId: "3066888",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3066888",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3066888/chapter-351-sylbera",
+    },
+  ],
   publishedAt: "2026-02-18",
   ownProgress: 2114,
   completedAt: "2026-06-29T19:43:31.691Z",

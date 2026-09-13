@@ -9,10 +9,14 @@ export const superSupportive0250TwoHundredFortyEightTheLucky57 = {
   position: 250,
   ownLength: 5273,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2653925/two-hundred-forty-eight-the-lucky-57",
-  externalId: "2653925",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2653925",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2653925/two-hundred-forty-eight-the-lucky-57",
+    },
+  ],
   publishedAt: "2025-10-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const superSupportive0099NinetyEightBlossomingTentacles = {
   position: 99,
   ownLength: 5989,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1434488/ninety-eight-blossoming-tentacles",
-  externalId: "1434488",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1434488",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1434488/ninety-eight-blossoming-tentacles",
+    },
+  ],
   publishedAt: "2023-12-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

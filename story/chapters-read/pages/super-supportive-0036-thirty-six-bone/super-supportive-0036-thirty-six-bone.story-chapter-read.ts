@@ -9,10 +9,14 @@ export const superSupportive0036ThirtySixBone = {
   position: 36,
   ownLength: 6118,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1216662/thirty-six-bone",
-  externalId: "1216662",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1216662",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1216662/thirty-six-bone",
+    },
+  ],
   publishedAt: "2023-05-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

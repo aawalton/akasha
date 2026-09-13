@@ -9,10 +9,14 @@ export const superSupportive0283TwoHundredEightyOneUnquietMind = {
   position: 283,
   ownLength: 5180,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3259026/two-hundred-eighty-one-unquiet-mind",
-  externalId: "3259026",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3259026",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3259026/two-hundred-eighty-one-unquiet-mind",
+    },
+  ],
   publishedAt: "2026-04-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

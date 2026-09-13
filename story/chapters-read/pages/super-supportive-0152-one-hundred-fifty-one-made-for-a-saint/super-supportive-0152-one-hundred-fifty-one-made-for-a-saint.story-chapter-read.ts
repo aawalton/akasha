@@ -9,10 +9,14 @@ export const superSupportive0152OneHundredFiftyOneMadeForASaint = {
   position: 152,
   ownLength: 4934,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1690642/one-hundred-fifty-one-made-for-a-saint",
-  externalId: "1690642",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1690642",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1690642/one-hundred-fifty-one-made-for-a-saint",
+    },
+  ],
   publishedAt: "2024-06-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

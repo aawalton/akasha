@@ -9,10 +9,14 @@ export const superSupportive0258TwoHundredFiftySixAPointyThingOnTheOther = {
   position: 258,
   ownLength: 4683,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2765192/two-hundred-fifty-six-a-pointy-thing-on-the-other",
-  externalId: "2765192",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2765192",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2765192/two-hundred-fifty-six-a-pointy-thing-on-the-other",
+    },
+  ],
   publishedAt: "2025-11-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

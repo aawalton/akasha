@@ -9,10 +9,14 @@ export const superSupportive0049FortyNineWordsForDemons = {
   position: 49,
   ownLength: 3431,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1261022/forty-nine-words-for-demons",
-  externalId: "1261022",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1261022",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1261022/forty-nine-words-for-demons",
+    },
+  ],
   publishedAt: "2023-06-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const superSupportive0175OneHundredSeventyThreeTheThanksgiving = {
   position: 175,
   ownLength: 5297,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1831873/one-hundred-seventy-three-the-thanksgiving",
-  externalId: "1831873",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1831873",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1831873/one-hundred-seventy-three-the-thanksgiving",
+    },
+  ],
   publishedAt: "2024-10-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

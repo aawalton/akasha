@@ -9,10 +9,14 @@ export const succulentGirlEvolution0034Chapter34NewAdventure = {
   position: 34,
   ownLength: 1953,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2668604/chapter-34-new-adventure",
-  externalId: "2668604",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2668604",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2668604/chapter-34-new-adventure",
+    },
+  ],
   publishedAt: "2025-10-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

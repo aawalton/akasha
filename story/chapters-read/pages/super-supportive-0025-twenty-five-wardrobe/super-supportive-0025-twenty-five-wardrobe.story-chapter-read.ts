@@ -9,10 +9,14 @@ export const superSupportive0025TwentyFiveWardrobe = {
   position: 25,
   ownLength: 4262,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1139356/twenty-five-wardrobe",
-  externalId: "1139356",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1139356",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1139356/twenty-five-wardrobe",
+    },
+  ],
   publishedAt: "2023-03-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

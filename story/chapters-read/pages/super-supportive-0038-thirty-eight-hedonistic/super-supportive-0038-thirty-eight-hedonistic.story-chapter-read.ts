@@ -9,10 +9,14 @@ export const superSupportive0038ThirtyEightHedonistic = {
   position: 38,
   ownLength: 7760,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1224121/thirty-eight-hedonistic",
-  externalId: "1224121",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1224121",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1224121/thirty-eight-hedonistic",
+    },
+  ],
   publishedAt: "2023-05-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

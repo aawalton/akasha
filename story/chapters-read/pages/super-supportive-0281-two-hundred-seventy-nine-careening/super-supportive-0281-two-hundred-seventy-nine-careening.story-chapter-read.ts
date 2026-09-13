@@ -9,10 +9,14 @@ export const superSupportive0281TwoHundredSeventyNineCareening = {
   position: 281,
   ownLength: 2319,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3198720/two-hundred-seventy-nine-careening",
-  externalId: "3198720",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3198720",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3198720/two-hundred-seventy-nine-careening",
+    },
+  ],
   publishedAt: "2026-03-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

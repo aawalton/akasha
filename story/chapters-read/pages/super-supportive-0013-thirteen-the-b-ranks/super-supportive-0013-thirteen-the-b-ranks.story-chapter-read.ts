@@ -9,10 +9,14 @@ export const superSupportive0013ThirteenTheBRanks = {
   position: 13,
   ownLength: 3490,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1116754/thirteen-the-b-ranks",
-  externalId: "1116754",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1116754",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1116754/thirteen-the-b-ranks",
+    },
+  ],
   publishedAt: "2023-02-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

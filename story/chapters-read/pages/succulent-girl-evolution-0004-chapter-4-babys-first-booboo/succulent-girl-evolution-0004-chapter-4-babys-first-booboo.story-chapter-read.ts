@@ -9,10 +9,14 @@ export const succulentGirlEvolution0004Chapter4BabysFirstBooboo = {
   position: 4,
   ownLength: 2295,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525524/chapter-4-babys-first-booboo",
-  externalId: "2525524",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525524",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525524/chapter-4-babys-first-booboo",
+    },
+  ],
   publishedAt: "2025-08-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

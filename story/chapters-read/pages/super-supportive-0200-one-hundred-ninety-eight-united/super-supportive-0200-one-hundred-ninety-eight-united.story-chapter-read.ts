@@ -9,10 +9,14 @@ export const superSupportive0200OneHundredNinetyEightUnited = {
   position: 200,
   ownLength: 4044,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2012501/one-hundred-ninety-eight-united",
-  externalId: "2012501",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2012501",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2012501/one-hundred-ninety-eight-united",
+    },
+  ],
   publishedAt: "2025-01-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

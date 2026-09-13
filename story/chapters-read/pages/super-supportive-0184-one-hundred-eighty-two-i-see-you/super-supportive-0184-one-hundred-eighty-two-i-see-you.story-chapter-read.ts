@@ -9,10 +9,14 @@ export const superSupportive0184OneHundredEightyTwoISeeYou = {
   position: 184,
   ownLength: 6370,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1902771/one-hundred-eighty-two-i-see-you",
-  externalId: "1902771",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1902771",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1902771/one-hundred-eighty-two-i-see-you",
+    },
+  ],
   publishedAt: "2024-11-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

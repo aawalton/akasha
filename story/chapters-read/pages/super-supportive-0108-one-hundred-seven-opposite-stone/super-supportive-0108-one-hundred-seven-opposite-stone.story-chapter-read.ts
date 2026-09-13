@@ -9,10 +9,14 @@ export const superSupportive0108OneHundredSevenOppositeStone = {
   position: 108,
   ownLength: 5231,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1473290/one-hundred-seven-opposite-stone",
-  externalId: "1473290",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1473290",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1473290/one-hundred-seven-opposite-stone",
+    },
+  ],
   publishedAt: "2024-01-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

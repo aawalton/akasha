@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0057Chapter356MadProgress = {
   position: 57,
   ownLength: 2246,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3114520/chapter-356-mad-progress",
-  externalId: "3114520",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3114520",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3114520/chapter-356-mad-progress",
+    },
+  ],
   publishedAt: "2026-03-04",
   ownProgress: 931,
   prose: "txt",

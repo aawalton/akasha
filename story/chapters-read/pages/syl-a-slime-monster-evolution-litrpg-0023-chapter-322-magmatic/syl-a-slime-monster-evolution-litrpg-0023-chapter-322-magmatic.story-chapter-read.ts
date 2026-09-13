@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0023Chapter322Magmatic = {
   position: 23,
   ownLength: 2120,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2828798/chapter-322-magmatic",
-  externalId: "2828798",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2828798",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2828798/chapter-322-magmatic",
+    },
+  ],
   publishedAt: "2025-12-08",
   ownProgress: 2120,
   completedAt: "2026-06-29T19:42:34.101Z",

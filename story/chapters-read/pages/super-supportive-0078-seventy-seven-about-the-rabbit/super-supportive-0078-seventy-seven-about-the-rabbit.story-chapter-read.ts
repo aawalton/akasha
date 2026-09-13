@@ -9,10 +9,14 @@ export const superSupportive0078SeventySevenAboutTheRabbit = {
   position: 78,
   ownLength: 6086,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1356376/seventy-seven-about-the-rabbit",
-  externalId: "1356376",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1356376",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1356376/seventy-seven-about-the-rabbit",
+    },
+  ],
   publishedAt: "2023-09-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

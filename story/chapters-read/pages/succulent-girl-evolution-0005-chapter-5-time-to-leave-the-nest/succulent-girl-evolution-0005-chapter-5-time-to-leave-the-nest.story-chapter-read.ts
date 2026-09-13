@@ -9,10 +9,14 @@ export const succulentGirlEvolution0005Chapter5TimeToLeaveTheNest = {
   position: 5,
   ownLength: 2258,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525543/chapter-5-time-to-leave-the-nest",
-  externalId: "2525543",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525543",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525543/chapter-5-time-to-leave-the-nest",
+    },
+  ],
   publishedAt: "2025-08-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

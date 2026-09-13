@@ -9,10 +9,14 @@ export const superSupportive0065SixtyFourToAQuietRabbit = {
   position: 65,
   ownLength: 7130,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1309534/sixty-four-to-a-quiet-rabbit",
-  externalId: "1309534",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1309534",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1309534/sixty-four-to-a-quiet-rabbit",
+    },
+  ],
   publishedAt: "2023-08-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

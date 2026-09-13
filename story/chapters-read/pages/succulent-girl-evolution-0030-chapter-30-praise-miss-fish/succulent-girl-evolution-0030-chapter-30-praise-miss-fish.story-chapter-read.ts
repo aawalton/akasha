@@ -9,10 +9,14 @@ export const succulentGirlEvolution0030Chapter30PraiseMissFish = {
   position: 30,
   ownLength: 1944,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2645978/chapter-30-praise-miss-fish",
-  externalId: "2645978",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2645978",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2645978/chapter-30-praise-miss-fish",
+    },
+  ],
   publishedAt: "2025-10-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const superSupportive0061SixtyMotherPt2 = {
   position: 61,
   ownLength: 6004,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1302152/sixty-mother-pt-2",
-  externalId: "1302152",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1302152",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1302152/sixty-mother-pt-2",
+    },
+  ],
   publishedAt: "2023-08-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

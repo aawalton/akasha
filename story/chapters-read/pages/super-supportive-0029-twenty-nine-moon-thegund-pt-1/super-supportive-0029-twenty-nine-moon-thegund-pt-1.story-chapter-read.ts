@@ -9,10 +9,14 @@ export const superSupportive0029TwentyNineMoonThegundPt1 = {
   position: 29,
   ownLength: 5050,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1167992/twenty-nine-moon-thegund-pt-1",
-  externalId: "1167992",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1167992",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1167992/twenty-nine-moon-thegund-pt-1",
+    },
+  ],
   publishedAt: "2023-04-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

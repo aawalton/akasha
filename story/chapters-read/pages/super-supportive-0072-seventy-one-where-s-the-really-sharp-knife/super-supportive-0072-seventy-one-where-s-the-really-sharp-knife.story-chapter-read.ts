@@ -9,10 +9,14 @@ export const superSupportive0072SeventyOneWhereSTheReallySharpKnife = {
   position: 72,
   ownLength: 4444,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1335020/seventy-one-wheres-the-really-sharp-knife",
-  externalId: "1335020",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1335020",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1335020/seventy-one-wheres-the-really-sharp-knife",
+    },
+  ],
   publishedAt: "2023-09-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

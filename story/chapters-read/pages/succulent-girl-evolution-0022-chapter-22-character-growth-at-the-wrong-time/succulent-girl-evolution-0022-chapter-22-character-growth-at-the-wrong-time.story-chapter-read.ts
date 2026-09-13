@@ -9,10 +9,14 @@ export const succulentGirlEvolution0022Chapter22CharacterGrowthAtTheWrongTime = 
   position: 22,
   ownLength: 2398,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2597525/chapter-22-character-growth-at-the-wrong-time",
-  externalId: "2597525",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2597525",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2597525/chapter-22-character-growth-at-the-wrong-time",
+    },
+  ],
   publishedAt: "2025-09-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

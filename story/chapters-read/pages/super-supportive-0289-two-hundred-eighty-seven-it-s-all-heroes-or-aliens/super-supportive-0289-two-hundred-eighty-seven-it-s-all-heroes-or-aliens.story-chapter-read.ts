@@ -9,10 +9,14 @@ export const superSupportive0289TwoHundredEightySevenItSAllHeroesOrAliens = {
   position: 289,
   ownLength: 4356,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3402430/two-hundred-eighty-seven-its-all-heroes-or-aliens",
-  externalId: "3402430",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3402430",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3402430/two-hundred-eighty-seven-its-all-heroes-or-aliens",
+    },
+  ],
   publishedAt: "2026-05-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const superSupportive0217TwoHundredFifteenTacos = {
   position: 217,
   ownLength: 4249,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2245379/two-hundred-fifteen-tacos",
-  externalId: "2245379",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2245379",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2245379/two-hundred-fifteen-tacos",
+    },
+  ],
   publishedAt: "2025-05-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

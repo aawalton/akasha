@@ -9,10 +9,14 @@ export const superSupportive0019NineteenTeleport = {
   position: 19,
   ownLength: 3965,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1121524/nineteen-teleport",
-  externalId: "1121524",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1121524",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1121524/nineteen-teleport",
+    },
+  ],
   publishedAt: "2023-02-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

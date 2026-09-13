@@ -9,10 +9,14 @@ export const superSupportive0086EightyFiveTheOtherHalfOfIt = {
   position: 86,
   ownLength: 8028,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1385333/eighty-five-the-other-half-of-it",
-  externalId: "1385333",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1385333",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1385333/eighty-five-the-other-half-of-it",
+    },
+  ],
   publishedAt: "2023-10-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

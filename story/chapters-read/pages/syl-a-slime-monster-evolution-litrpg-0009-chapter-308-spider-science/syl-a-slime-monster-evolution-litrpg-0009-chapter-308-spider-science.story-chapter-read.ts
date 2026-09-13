@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0009Chapter308SpiderScience = {
   position: 9,
   ownLength: 2220,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2727546/chapter-308-spider-science",
-  externalId: "2727546",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2727546",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2727546/chapter-308-spider-science",
+    },
+  ],
   publishedAt: "2025-11-03",
   ownProgress: 2220,
   completedAt: "2026-06-29T19:42:04.518Z",

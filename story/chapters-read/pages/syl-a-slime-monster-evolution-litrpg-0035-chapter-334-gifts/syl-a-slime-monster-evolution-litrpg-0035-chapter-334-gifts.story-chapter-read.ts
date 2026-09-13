@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0035Chapter334Gifts = {
   position: 35,
   ownLength: 2334,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2919345/chapter-334-gifts",
-  externalId: "2919345",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2919345",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2919345/chapter-334-gifts",
+    },
+  ],
   publishedAt: "2026-01-07",
   ownProgress: 2334,
   completedAt: "2026-06-29T19:42:58.392Z",

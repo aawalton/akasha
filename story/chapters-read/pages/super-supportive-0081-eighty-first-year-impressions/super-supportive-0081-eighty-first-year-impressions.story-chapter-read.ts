@@ -9,10 +9,14 @@ export const superSupportive0081EightyFirstYearImpressions = {
   position: 81,
   ownLength: 5446,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1367761/eighty-first-year-impressions",
-  externalId: "1367761",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1367761",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1367761/eighty-first-year-impressions",
+    },
+  ],
   publishedAt: "2023-10-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

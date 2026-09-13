@@ -9,10 +9,14 @@ export const superSupportive0063SixtyTwoHomePt1 = {
   position: 63,
   ownLength: 7871,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1305432/sixty-two-home-pt-1",
-  externalId: "1305432",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1305432",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1305432/sixty-two-home-pt-1",
+    },
+  ],
   publishedAt: "2023-08-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

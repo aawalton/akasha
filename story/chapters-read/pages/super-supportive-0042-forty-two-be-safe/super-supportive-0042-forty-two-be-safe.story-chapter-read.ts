@@ -9,10 +9,14 @@ export const superSupportive0042FortyTwoBeSafe = {
   position: 42,
   ownLength: 2586,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1238181/forty-two-be-safe",
-  externalId: "1238181",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1238181",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1238181/forty-two-be-safe",
+    },
+  ],
   publishedAt: "2023-06-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const superSupportive0300TwoHundredNinetyEightAChanceToAppreciate = {
   position: 300,
   ownLength: 5415,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3692436/two-hundred-ninety-eight-a-chance-to-appreciate",
-  externalId: "3692436",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3692436",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3692436/two-hundred-ninety-eight-a-chance-to-appreciate",
+    },
+  ],
   publishedAt: "2026-07-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

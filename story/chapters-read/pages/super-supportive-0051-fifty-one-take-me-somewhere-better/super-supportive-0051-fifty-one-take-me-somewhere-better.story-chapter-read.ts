@@ -9,10 +9,14 @@ export const superSupportive0051FiftyOneTakeMeSomewhereBetter = {
   position: 51,
   ownLength: 2835,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1268514/fifty-one-take-me-somewhere-better",
-  externalId: "1268514",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1268514",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1268514/fifty-one-take-me-somewhere-better",
+    },
+  ],
   publishedAt: "2023-07-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

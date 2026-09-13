@@ -9,10 +9,14 @@ export const superSupportive0069SixtyEightTheWarren = {
   position: 69,
   ownLength: 3929,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1324256/sixty-eight-the-warren",
-  externalId: "1324256",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1324256",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1324256/sixty-eight-the-warren",
+    },
+  ],
   publishedAt: "2023-08-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

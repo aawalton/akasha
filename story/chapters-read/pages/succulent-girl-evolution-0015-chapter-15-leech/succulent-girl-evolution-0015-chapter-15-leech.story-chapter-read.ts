@@ -9,10 +9,14 @@ export const succulentGirlEvolution0015Chapter15Leech = {
   position: 15,
   ownLength: 1884,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2555204/chapter-15-leech",
-  externalId: "2555204",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2555204",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2555204/chapter-15-leech",
+    },
+  ],
   publishedAt: "2025-08-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

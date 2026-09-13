@@ -9,10 +9,14 @@ export const superSupportive0202TwoHundredYouVeGotTime = {
   position: 202,
   ownLength: 2664,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2026734/two-hundred-youve-got-time",
-  externalId: "2026734",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2026734",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2026734/two-hundred-youve-got-time",
+    },
+  ],
   publishedAt: "2025-01-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

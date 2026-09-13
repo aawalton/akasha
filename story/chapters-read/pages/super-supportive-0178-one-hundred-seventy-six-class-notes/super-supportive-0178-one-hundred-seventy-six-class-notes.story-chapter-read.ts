@@ -9,10 +9,14 @@ export const superSupportive0178OneHundredSeventySixClassNotes = {
   position: 178,
   ownLength: 5010,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1854383/one-hundred-seventy-six-class-notes",
-  externalId: "1854383",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1854383",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1854383/one-hundred-seventy-six-class-notes",
+    },
+  ],
   publishedAt: "2024-10-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

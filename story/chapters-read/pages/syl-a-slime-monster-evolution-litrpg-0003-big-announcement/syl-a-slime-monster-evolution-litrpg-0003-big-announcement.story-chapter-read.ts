@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0003BigAnnouncement = {
   position: 3,
   ownLength: 500,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/1836079/big-announcement",
-  externalId: "1836079",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1836079",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/1836079/big-announcement",
+    },
+  ],
   publishedAt: "2024-10-05",
   ownProgress: 500,
   completedAt: "2026-06-29T19:41:53.045Z",

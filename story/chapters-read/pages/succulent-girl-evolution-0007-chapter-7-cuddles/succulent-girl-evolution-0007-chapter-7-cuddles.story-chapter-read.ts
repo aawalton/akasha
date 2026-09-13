@@ -9,10 +9,14 @@ export const succulentGirlEvolution0007Chapter7Cuddles = {
   position: 7,
   ownLength: 2042,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525575/chapter-7-cuddles",
-  externalId: "2525575",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525575",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525575/chapter-7-cuddles",
+    },
+  ],
   publishedAt: "2025-08-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

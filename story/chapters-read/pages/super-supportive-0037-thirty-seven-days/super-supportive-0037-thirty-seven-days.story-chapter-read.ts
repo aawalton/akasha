@@ -9,10 +9,14 @@ export const superSupportive0037ThirtySevenDays = {
   position: 37,
   ownLength: 5615,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1220471/thirty-seven-days",
-  externalId: "1220471",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1220471",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1220471/thirty-seven-days",
+    },
+  ],
   publishedAt: "2023-05-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0032Chapter331Flaunted = {
   position: 32,
   ownLength: 2162,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2894673/chapter-331-flaunted",
-  externalId: "2894673",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2894673",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2894673/chapter-331-flaunted",
+    },
+  ],
   publishedAt: "2025-12-31",
   ownProgress: 2162,
   completedAt: "2026-06-29T19:42:52.421Z",

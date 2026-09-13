@@ -9,10 +9,14 @@ export const superSupportive0004FourAvowedCommunications = {
   position: 4,
   ownLength: 3023,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1104952/four-avowed-communications",
-  externalId: "1104952",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1104952",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1104952/four-avowed-communications",
+    },
+  ],
   publishedAt: "2023-02-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

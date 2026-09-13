@@ -9,10 +9,14 @@ export const superSupportive0154OneHundredFiftyThreeGalleta = {
   position: 154,
   ownLength: 3820,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1704051/one-hundred-fifty-three-galleta",
-  externalId: "1704051",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1704051",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1704051/one-hundred-fifty-three-galleta",
+    },
+  ],
   publishedAt: "2024-07-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

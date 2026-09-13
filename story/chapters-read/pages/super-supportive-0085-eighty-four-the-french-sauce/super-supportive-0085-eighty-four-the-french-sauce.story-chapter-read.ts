@@ -9,10 +9,14 @@ export const superSupportive0085EightyFourTheFrenchSauce = {
   position: 85,
   ownLength: 5782,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1382546/eighty-four-the-french-sauce",
-  externalId: "1382546",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1382546",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1382546/eighty-four-the-french-sauce",
+    },
+  ],
   publishedAt: "2023-10-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const superSupportive0278TwoHundredSeventySixWhatAreYouLike = {
   position: 278,
   ownLength: 3492,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3156302/two-hundred-seventy-six-what-are-you-like",
-  externalId: "3156302",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3156302",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3156302/two-hundred-seventy-six-what-are-you-like",
+    },
+  ],
   publishedAt: "2026-03-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const succulentGirlEvolution0019Chapter19NotALeader = {
   position: 19,
   ownLength: 2118,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2579518/chapter-19-not-a-leader",
-  externalId: "2579518",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2579518",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2579518/chapter-19-not-a-leader",
+    },
+  ],
   publishedAt: "2025-09-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

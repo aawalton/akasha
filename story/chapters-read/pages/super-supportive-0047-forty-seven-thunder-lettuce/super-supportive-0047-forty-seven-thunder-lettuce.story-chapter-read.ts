@@ -9,10 +9,14 @@ export const superSupportive0047FortySevenThunderLettuce = {
   position: 47,
   ownLength: 2866,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1253885/forty-seven-thunder-lettuce",
-  externalId: "1253885",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1253885",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1253885/forty-seven-thunder-lettuce",
+    },
+  ],
   publishedAt: "2023-06-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const superSupportive0120OneHundredNineteenInteresting = {
   position: 120,
   ownLength: 2223,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1518484/one-hundred-nineteen-interesting",
-  externalId: "1518484",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1518484",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1518484/one-hundred-nineteen-interesting",
+    },
+  ],
   publishedAt: "2024-02-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

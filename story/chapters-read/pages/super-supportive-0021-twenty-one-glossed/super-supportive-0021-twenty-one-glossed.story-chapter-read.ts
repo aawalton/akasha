@@ -9,10 +9,14 @@ export const superSupportive0021TwentyOneGlossed = {
   position: 21,
   ownLength: 2519,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1124079/twenty-one-glossed",
-  externalId: "1124079",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1124079",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1124079/twenty-one-glossed",
+    },
+  ],
   publishedAt: "2023-02-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

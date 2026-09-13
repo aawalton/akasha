@@ -9,10 +9,14 @@ export const superSupportive0098NinetySevenFireworks = {
   position: 98,
   ownLength: 6437,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1430929/ninety-seven-fireworks",
-  externalId: "1430929",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1430929",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1430929/ninety-seven-fireworks",
+    },
+  ],
   publishedAt: "2023-12-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

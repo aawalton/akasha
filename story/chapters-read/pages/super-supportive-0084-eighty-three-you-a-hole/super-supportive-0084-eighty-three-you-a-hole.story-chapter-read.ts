@@ -9,10 +9,14 @@ export const superSupportive0084EightyThreeYouAHole = {
   position: 84,
   ownLength: 4298,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1379616/eighty-three-you-ahole",
-  externalId: "1379616",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1379616",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1379616/eighty-three-you-ahole",
+    },
+  ],
   publishedAt: "2023-10-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

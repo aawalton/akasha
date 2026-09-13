@@ -9,10 +9,14 @@ export const superSupportive0219TwoHundredSeventeenTheSnakeShapedLetterIi = {
   position: 219,
   ownLength: 3466,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2270590/two-hundred-seventeen-the-snake-shaped-letter",
-  externalId: "2270590",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2270590",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2270590/two-hundred-seventeen-the-snake-shaped-letter",
+    },
+  ],
   publishedAt: "2025-05-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

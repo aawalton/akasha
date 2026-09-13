@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0025Chapter324MagicSeven = {
   position: 25,
   ownLength: 2337,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2840656/chapter-324-magic-seven",
-  externalId: "2840656",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2840656",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2840656/chapter-324-magic-seven",
+    },
+  ],
   publishedAt: "2025-12-12",
   ownProgress: 2337,
   completedAt: "2026-06-29T19:42:38.013Z",

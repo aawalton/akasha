@@ -9,10 +9,14 @@ export const succulentGirlEvolution0031Chapter31HugsNotStrugs = {
   position: 31,
   ownLength: 1980,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2651162/chapter-31-hugs-not-strugs",
-  externalId: "2651162",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2651162",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2651162/chapter-31-hugs-not-strugs",
+    },
+  ],
   publishedAt: "2025-10-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

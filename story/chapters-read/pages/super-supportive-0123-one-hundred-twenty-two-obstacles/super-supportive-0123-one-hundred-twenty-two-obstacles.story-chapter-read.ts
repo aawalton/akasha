@@ -9,10 +9,14 @@ export const superSupportive0123OneHundredTwentyTwoObstacles = {
   position: 123,
   ownLength: 8103,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1535343/one-hundred-twenty-two-obstacles",
-  externalId: "1535343",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1535343",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1535343/one-hundred-twenty-two-obstacles",
+    },
+  ],
   publishedAt: "2024-02-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

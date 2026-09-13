@@ -9,10 +9,14 @@ export const superSupportive0182OneHundredEightyNeedleAndWheedle = {
   position: 182,
   ownLength: 7878,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1883833/one-hundred-eighty-needle-wheedle",
-  externalId: "1883833",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1883833",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1883833/one-hundred-eighty-needle-wheedle",
+    },
+  ],
   publishedAt: "2024-11-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

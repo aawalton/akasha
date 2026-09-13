@@ -9,10 +9,14 @@ export const superSupportive0070SixtyNineABusyRabbit = {
   position: 70,
   ownLength: 7961,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1327544/sixty-nine-a-busy-rabbit",
-  externalId: "1327544",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1327544",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1327544/sixty-nine-a-busy-rabbit",
+    },
+  ],
   publishedAt: "2023-08-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

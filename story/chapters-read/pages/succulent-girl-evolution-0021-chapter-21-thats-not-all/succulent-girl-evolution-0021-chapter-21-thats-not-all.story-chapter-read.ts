@@ -9,10 +9,14 @@ export const succulentGirlEvolution0021Chapter21ThatsNotAll = {
   position: 21,
   ownLength: 1898,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2592617/chapter-21-thats-not-all",
-  externalId: "2592617",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2592617",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2592617/chapter-21-thats-not-all",
+    },
+  ],
   publishedAt: "2025-09-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

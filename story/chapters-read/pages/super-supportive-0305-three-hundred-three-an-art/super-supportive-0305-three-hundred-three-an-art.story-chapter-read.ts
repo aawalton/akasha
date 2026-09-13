@@ -9,10 +9,14 @@ export const superSupportive0305ThreeHundredThreeAnArt = {
   position: 305,
   ownLength: 3739,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3845831/three-hundred-three-an-art",
-  externalId: "3845831",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3845831",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3845831/three-hundred-three-an-art",
+    },
+  ],
   publishedAt: "2026-08-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const superSupportive0203TwoHundredOneAWeirdPlace = {
   position: 203,
   ownLength: 4025,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2031903/two-hundred-one-a-weird-place",
-  externalId: "2031903",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2031903",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2031903/two-hundred-one-a-weird-place",
+    },
+  ],
   publishedAt: "2025-01-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

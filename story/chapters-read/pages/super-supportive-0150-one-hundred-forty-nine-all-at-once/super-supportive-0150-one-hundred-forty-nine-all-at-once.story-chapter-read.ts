@@ -9,10 +9,14 @@ export const superSupportive0150OneHundredFortyNineAllAtOnce = {
   position: 150,
   ownLength: 3977,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1680325/one-hundred-forty-nine-all-at-once",
-  externalId: "1680325",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1680325",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1680325/one-hundred-forty-nine-all-at-once",
+    },
+  ],
   publishedAt: "2024-06-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

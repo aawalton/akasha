@@ -9,10 +9,14 @@ export const superSupportive0147OneHundredFortySixDawnIii = {
   position: 147,
   ownLength: 4718,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1665010/one-hundred-forty-six-dawn-iii",
-  externalId: "1665010",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1665010",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1665010/one-hundred-forty-six-dawn-iii",
+    },
+  ],
   publishedAt: "2024-06-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

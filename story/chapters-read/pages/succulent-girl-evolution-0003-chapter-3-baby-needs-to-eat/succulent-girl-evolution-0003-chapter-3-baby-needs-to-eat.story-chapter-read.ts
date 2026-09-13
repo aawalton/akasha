@@ -9,10 +9,14 @@ export const succulentGirlEvolution0003Chapter3BabyNeedsToEat = {
   position: 3,
   ownLength: 2051,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525516/chapter-3-baby-needs-to-eat",
-  externalId: "2525516",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525516",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525516/chapter-3-baby-needs-to-eat",
+    },
+  ],
   publishedAt: "2025-08-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

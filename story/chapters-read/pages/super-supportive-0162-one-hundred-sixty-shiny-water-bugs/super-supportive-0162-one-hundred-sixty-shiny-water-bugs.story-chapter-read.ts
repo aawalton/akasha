@@ -9,10 +9,14 @@ export const superSupportive0162OneHundredSixtyShinyWaterBugs = {
   position: 162,
   ownLength: 6253,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1749184/one-hundred-sixty-shiny-water-bugs",
-  externalId: "1749184",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1749184",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1749184/one-hundred-sixty-shiny-water-bugs",
+    },
+  ],
   publishedAt: "2024-08-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

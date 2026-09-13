@@ -9,10 +9,14 @@ export const superSupportive0104OneHundredThreeArtonanConversations = {
   position: 104,
   ownLength: 9571,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1453643/one-hundred-three-artonan-conversations",
-  externalId: "1453643",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1453643",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1453643/one-hundred-three-artonan-conversations",
+    },
+  ],
   publishedAt: "2023-12-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

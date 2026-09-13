@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0038Chapter337EightOrTen = {
   position: 38,
   ownLength: 2233,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2941204/chapter-337-eight-or-ten",
-  externalId: "2941204",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2941204",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2941204/chapter-337-eight-or-ten",
+    },
+  ],
   publishedAt: "2026-01-14",
   ownProgress: 2233,
   completedAt: "2026-06-29T19:43:04.143Z",

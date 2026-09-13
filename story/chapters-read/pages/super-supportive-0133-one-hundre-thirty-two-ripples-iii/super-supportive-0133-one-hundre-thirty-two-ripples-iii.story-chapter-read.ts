@@ -9,10 +9,14 @@ export const superSupportive0133OneHundreThirtyTwoRipplesIii = {
   position: 133,
   ownLength: 6939,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1586244/one-hundre-thirty-two-ripples-iii",
-  externalId: "1586244",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1586244",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1586244/one-hundre-thirty-two-ripples-iii",
+    },
+  ],
   publishedAt: "2024-04-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

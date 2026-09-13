@@ -9,10 +9,14 @@ export const superSupportive0107OneHundredSixLedger = {
   position: 107,
   ownLength: 6721,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1468935/one-hundred-six-ledger",
-  externalId: "1468935",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1468935",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1468935/one-hundred-six-ledger",
+    },
+  ],
   publishedAt: "2024-01-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

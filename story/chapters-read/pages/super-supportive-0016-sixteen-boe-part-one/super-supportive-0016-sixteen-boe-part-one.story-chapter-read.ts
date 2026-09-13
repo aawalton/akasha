@@ -9,10 +9,14 @@ export const superSupportive0016SixteenBoePartOne = {
   position: 16,
   ownLength: 2057,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1118803/sixteen-boe-part-one",
-  externalId: "1118803",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1118803",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1118803/sixteen-boe-part-one",
+    },
+  ],
   publishedAt: "2023-02-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

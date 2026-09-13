@@ -9,10 +9,14 @@ export const superSupportive0176OneHundredSeventyFourBigTippers = {
   position: 176,
   ownLength: 4546,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1843176/one-hundred-seventy-four-big-tippers",
-  externalId: "1843176",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1843176",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1843176/one-hundred-seventy-four-big-tippers",
+    },
+  ],
   publishedAt: "2024-10-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

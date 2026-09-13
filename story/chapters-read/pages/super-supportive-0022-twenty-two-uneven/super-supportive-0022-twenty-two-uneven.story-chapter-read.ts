@@ -9,10 +9,14 @@ export const superSupportive0022TwentyTwoUneven = {
   position: 22,
   ownLength: 4751,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1126741/twenty-two-uneven",
-  externalId: "1126741",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1126741",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1126741/twenty-two-uneven",
+    },
+  ],
   publishedAt: "2023-03-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

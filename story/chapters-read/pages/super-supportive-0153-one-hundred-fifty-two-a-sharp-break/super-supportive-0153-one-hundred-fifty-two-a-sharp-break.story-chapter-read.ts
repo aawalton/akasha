@@ -9,10 +9,14 @@ export const superSupportive0153OneHundredFiftyTwoASharpBreak = {
   position: 153,
   ownLength: 3857,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1694814/one-hundred-fifty-two-a-sharp-break",
-  externalId: "1694814",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1694814",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1694814/one-hundred-fifty-two-a-sharp-break",
+    },
+  ],
   publishedAt: "2024-06-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

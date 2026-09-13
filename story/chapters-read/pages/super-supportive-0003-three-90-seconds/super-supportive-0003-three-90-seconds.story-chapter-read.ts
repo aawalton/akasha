@@ -9,10 +9,14 @@ export const superSupportive0003Three90Seconds = {
   position: 3,
   ownLength: 2752,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1100089/three-90-seconds",
-  externalId: "1100089",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1100089",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1100089/three-90-seconds",
+    },
+  ],
   publishedAt: "2023-01-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

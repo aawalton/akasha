@@ -9,10 +9,14 @@ export const superSupportive0251TwoHundredFortyNineStrongBricks = {
   position: 251,
   ownLength: 4301,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2668592/two-hundred-forty-nine-strong-bricks",
-  externalId: "2668592",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2668592",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2668592/two-hundred-forty-nine-strong-bricks",
+    },
+  ],
   publishedAt: "2025-10-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

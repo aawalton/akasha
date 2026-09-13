@@ -9,10 +9,14 @@ export const superSupportive0130OneHundredTwentyNineTheyFeasted = {
   position: 130,
   ownLength: 5484,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1567328/one-hundred-twenty-nine-they-feasted",
-  externalId: "1567328",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1567328",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1567328/one-hundred-twenty-nine-they-feasted",
+    },
+  ],
   publishedAt: "2024-03-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

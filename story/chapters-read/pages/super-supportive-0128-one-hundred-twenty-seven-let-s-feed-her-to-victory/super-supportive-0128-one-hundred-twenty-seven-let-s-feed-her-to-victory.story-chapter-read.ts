@@ -9,10 +9,14 @@ export const superSupportive0128OneHundredTwentySevenLetSFeedHerToVictory = {
   position: 128,
   ownLength: 4554,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1558619/one-hundred-twenty-seven-lets-feed-her-to-victory",
-  externalId: "1558619",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1558619",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1558619/one-hundred-twenty-seven-lets-feed-her-to-victory",
+    },
+  ],
   publishedAt: "2024-03-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const succulentGirlEvolution0027Chapter27FriendshipMeansConsideration = {
   position: 27,
   ownLength: 1852,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2628131/chapter-27-friendship-means-consideration",
-  externalId: "2628131",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2628131",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2628131/chapter-27-friendship-means-consideration",
+    },
+  ],
   publishedAt: "2025-09-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const superSupportive0095NinetyFourRoommates = {
   position: 95,
   ownLength: 8983,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1418803/ninety-four-roommates",
-  externalId: "1418803",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1418803",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1418803/ninety-four-roommates",
+    },
+  ],
   publishedAt: "2023-11-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

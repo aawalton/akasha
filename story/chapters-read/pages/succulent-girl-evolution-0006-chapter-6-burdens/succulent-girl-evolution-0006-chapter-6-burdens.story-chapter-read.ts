@@ -9,10 +9,14 @@ export const succulentGirlEvolution0006Chapter6Burdens = {
   position: 6,
   ownLength: 2045,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525560/chapter-6-burdens",
-  externalId: "2525560",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525560",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525560/chapter-6-burdens",
+    },
+  ],
   publishedAt: "2025-08-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

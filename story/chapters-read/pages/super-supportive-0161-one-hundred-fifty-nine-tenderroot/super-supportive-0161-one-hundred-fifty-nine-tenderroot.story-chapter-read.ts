@@ -9,10 +9,14 @@ export const superSupportive0161OneHundredFiftyNineTenderroot = {
   position: 161,
   ownLength: 5113,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1740215/one-hundred-fifty-nine-tenderroot",
-  externalId: "1740215",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1740215",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1740215/one-hundred-fifty-nine-tenderroot",
+    },
+  ],
   publishedAt: "2024-08-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

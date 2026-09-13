@@ -9,10 +9,14 @@ export const superSupportive0180OneHundredSeventyEightTheElderSCroak = {
   position: 180,
   ownLength: 5293,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1871569/one-hundred-seventy-eight-the-elders-croak",
-  externalId: "1871569",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1871569",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1871569/one-hundred-seventy-eight-the-elders-croak",
+    },
+  ],
   publishedAt: "2024-10-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

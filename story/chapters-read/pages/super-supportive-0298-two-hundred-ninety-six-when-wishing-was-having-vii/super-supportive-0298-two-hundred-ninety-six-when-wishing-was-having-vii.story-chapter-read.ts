@@ -9,10 +9,14 @@ export const superSupportive0298TwoHundredNinetySixWhenWishingWasHavingVii = {
   position: 298,
   ownLength: 5217,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3637296/two-hundred-ninety-six-when-wishing-was-having",
-  externalId: "3637296",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3637296",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3637296/two-hundred-ninety-six-when-wishing-was-having",
+    },
+  ],
   publishedAt: "2026-07-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

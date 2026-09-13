@@ -9,10 +9,14 @@ export const superSupportive0048FortyEightTheMachine = {
   position: 48,
   ownLength: 3191,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1257466/forty-eight-the-machine",
-  externalId: "1257466",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1257466",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1257466/forty-eight-the-machine",
+    },
+  ],
   publishedAt: "2023-06-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

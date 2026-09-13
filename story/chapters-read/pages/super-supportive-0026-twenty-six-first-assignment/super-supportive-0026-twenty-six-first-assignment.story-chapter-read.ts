@@ -9,10 +9,14 @@ export const superSupportive0026TwentySixFirstAssignment = {
   position: 26,
   ownLength: 9675,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1149536/twenty-six-first-assignment",
-  externalId: "1149536",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1149536",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1149536/twenty-six-first-assignment",
+    },
+  ],
   publishedAt: "2023-03-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

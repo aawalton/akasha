@@ -7,12 +7,16 @@ export const sylASlimeMonsterEvolutionLitrpg0054Chapter426BreakingTheLoop = {
   position: 54,
   publishedAt: "2026-09-11",
   unit: "words",
-  externalId: "3942626",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3942626",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3942626/chapter-426-breaking-the-loop",
+    },
+  ],
   title: "Chapter 426 : Breaking the Loop",
   story: "story-read/syl-a-slime-monster-evolution-litrpg",
   ownLength: 2342,
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3942626/chapter-426-breaking-the-loop",
   prose: "txt",
 } as const satisfies StoryChapterRead

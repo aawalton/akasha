@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0026Chapter325NextAssignment = {
   position: 26,
   ownLength: 2030,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2848933/chapter-325-next-assignment",
-  externalId: "2848933",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2848933",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2848933/chapter-325-next-assignment",
+    },
+  ],
   publishedAt: "2025-12-15",
   ownProgress: 2030,
   completedAt: "2026-06-29T19:42:40.280Z",

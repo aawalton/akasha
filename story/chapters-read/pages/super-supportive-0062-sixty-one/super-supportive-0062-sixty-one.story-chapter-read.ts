@@ -9,10 +9,14 @@ export const superSupportive0062SixtyOne = {
   position: 62,
   ownLength: 115,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1313039/sixty-one",
-  externalId: "1313039",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1313039",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1313039/sixty-one",
+    },
+  ],
   publishedAt: "2023-08-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const superSupportive0274TwoHundredSeventyTwoAvowed = {
   position: 274,
   ownLength: 4035,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3076105/two-hundred-seventy-two-avowed",
-  externalId: "3076105",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3076105",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3076105/two-hundred-seventy-two-avowed",
+    },
+  ],
   publishedAt: "2026-02-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const superSupportive0252TwoHundredFiftyRainOnAnesidora = {
   position: 252,
   ownLength: 3953,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2680043/two-hundred-fifty-rain-on-anesidora",
-  externalId: "2680043",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2680043",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2680043/two-hundred-fifty-rain-on-anesidora",
+    },
+  ],
   publishedAt: "2025-10-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

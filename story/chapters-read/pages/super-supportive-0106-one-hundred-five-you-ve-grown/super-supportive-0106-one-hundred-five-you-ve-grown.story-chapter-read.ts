@@ -9,10 +9,14 @@ export const superSupportive0106OneHundredFiveYouVeGrown = {
   position: 106,
   ownLength: 6648,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1464279/one-hundred-five-youve-grown",
-  externalId: "1464279",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1464279",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1464279/one-hundred-five-youve-grown",
+    },
+  ],
   publishedAt: "2024-01-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

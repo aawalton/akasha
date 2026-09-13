@@ -9,10 +9,14 @@ export const superSupportive0100NinetyNineGymClassI = {
   position: 100,
   ownLength: 8547,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1439301/ninety-nine-gym-class-i",
-  externalId: "1439301",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1439301",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1439301/ninety-nine-gym-class-i",
+    },
+  ],
   publishedAt: "2023-12-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

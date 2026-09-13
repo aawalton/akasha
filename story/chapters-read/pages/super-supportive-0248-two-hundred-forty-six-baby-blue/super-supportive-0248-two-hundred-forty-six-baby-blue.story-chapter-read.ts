@@ -9,10 +9,14 @@ export const superSupportive0248TwoHundredFortySixBabyBlue = {
   position: 248,
   ownLength: 3414,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2628991/two-hundred-forty-six-baby-blue",
-  externalId: "2628991",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2628991",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2628991/two-hundred-forty-six-baby-blue",
+    },
+  ],
   publishedAt: "2025-09-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

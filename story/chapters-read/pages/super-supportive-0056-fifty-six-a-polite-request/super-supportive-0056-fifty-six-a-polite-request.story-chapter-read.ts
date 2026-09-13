@@ -9,10 +9,14 @@ export const superSupportive0056FiftySixAPoliteRequest = {
   position: 56,
   ownLength: 3422,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1286971/fifty-six-a-polite-request",
-  externalId: "1286971",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1286971",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1286971/fifty-six-a-polite-request",
+    },
+  ],
   publishedAt: "2023-07-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

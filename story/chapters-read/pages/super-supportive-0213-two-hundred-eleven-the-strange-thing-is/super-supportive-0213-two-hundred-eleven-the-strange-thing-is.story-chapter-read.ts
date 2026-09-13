@@ -9,10 +9,14 @@ export const superSupportive0213TwoHundredElevenTheStrangeThingIs = {
   position: 213,
   ownLength: 3156,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2189552/two-hundred-eleven-the-strange-thing-is",
-  externalId: "2189552",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2189552",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2189552/two-hundred-eleven-the-strange-thing-is",
+    },
+  ],
   publishedAt: "2025-04-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

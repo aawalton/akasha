@@ -9,10 +9,14 @@ export const superSupportive0121OneHundredTwentyPartyAnimals = {
   position: 121,
   ownLength: 2,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1523678/one-hundred-twenty-party-animals",
-  externalId: "1523678",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1523678",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1523678/one-hundred-twenty-party-animals",
+    },
+  ],
   publishedAt: "2024-02-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

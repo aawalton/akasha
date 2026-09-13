@@ -9,10 +9,14 @@ export const superSupportive0183OneHundredEightyOneNightlight = {
   position: 183,
   ownLength: 4991,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1888828/one-hundred-eighty-one-nightlight",
-  externalId: "1888828",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1888828",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1888828/one-hundred-eighty-one-nightlight",
+    },
+  ],
   publishedAt: "2024-11-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

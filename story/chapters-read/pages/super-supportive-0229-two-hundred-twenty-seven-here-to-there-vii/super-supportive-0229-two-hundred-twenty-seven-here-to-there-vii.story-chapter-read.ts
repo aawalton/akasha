@@ -9,10 +9,14 @@ export const superSupportive0229TwoHundredTwentySevenHereToThereVii = {
   position: 229,
   ownLength: 1865,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2399442/two-hundred-twenty-seven-here-to-there-vii",
-  externalId: "2399442",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2399442",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2399442/two-hundred-twenty-seven-here-to-there-vii",
+    },
+  ],
   publishedAt: "2025-07-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const succulentGirlEvolution0016Chapter16ItEscapes = {
   position: 16,
   ownLength: 2107,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2560609/chapter-16-it-escapes",
-  externalId: "2560609",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2560609",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2560609/chapter-16-it-escapes",
+    },
+  ],
   publishedAt: "2025-08-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

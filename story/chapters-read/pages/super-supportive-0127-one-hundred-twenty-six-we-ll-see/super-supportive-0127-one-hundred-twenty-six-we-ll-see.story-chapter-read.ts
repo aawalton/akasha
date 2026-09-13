@@ -9,10 +9,14 @@ export const superSupportive0127OneHundredTwentySixWeLlSee = {
   position: 127,
   ownLength: 6021,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1553808/one-hundred-twenty-six-well-see",
-  externalId: "1553808",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1553808",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1553808/one-hundred-twenty-six-well-see",
+    },
+  ],
   publishedAt: "2024-03-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

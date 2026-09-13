@@ -9,10 +9,14 @@ export const superSupportive0159BOneHundredFiftySevenFamilyMattersIiiPartB = {
   position: 159,
   ownLength: 3234,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1728060/b-one-hundred-fifty-seven-family-matters-iii-part",
-  externalId: "1728060",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1728060",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1728060/b-one-hundred-fifty-seven-family-matters-iii-part",
+    },
+  ],
   publishedAt: "2024-07-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

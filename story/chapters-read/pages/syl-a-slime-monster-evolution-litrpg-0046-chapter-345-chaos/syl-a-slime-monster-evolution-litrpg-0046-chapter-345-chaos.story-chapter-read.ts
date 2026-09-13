@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0046Chapter345Chaos = {
   position: 46,
   ownLength: 2200,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3010871/chapter-345-chaos",
-  externalId: "3010871",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3010871",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3010871/chapter-345-chaos",
+    },
+  ],
   publishedAt: "2026-02-04",
   ownProgress: 2200,
   completedAt: "2026-06-29T19:43:20.545Z",

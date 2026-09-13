@@ -9,10 +9,14 @@ export const superSupportive0165OneHundredSixtyThreeThePrimarySYoungestChild = {
   position: 165,
   ownLength: 6017,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1764681/one-hundred-sixty-three-the-primarys-youngest",
-  externalId: "1764681",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1764681",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1764681/one-hundred-sixty-three-the-primarys-youngest",
+    },
+  ],
   publishedAt: "2024-08-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0029Chapter328VolcanoIsle = {
   position: 29,
   ownLength: 2154,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2869138/chapter-328-volcano-isle",
-  externalId: "2869138",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2869138",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2869138/chapter-328-volcano-isle",
+    },
+  ],
   publishedAt: "2025-12-22",
   ownProgress: 2154,
   completedAt: "2026-06-29T19:42:46.171Z",

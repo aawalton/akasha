@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0022Chapter321Deconstructing = {
   position: 22,
   ownLength: 2242,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2820284/chapter-321-deconstructing",
-  externalId: "2820284",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2820284",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2820284/chapter-321-deconstructing",
+    },
+  ],
   publishedAt: "2025-12-05",
   ownProgress: 2242,
   completedAt: "2026-06-29T19:42:32.175Z",

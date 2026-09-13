@@ -9,10 +9,14 @@ export const superSupportive0187OneHundredEightyFiveWhatDoYouKnowAboutChaos = {
   position: 187,
   ownLength: 3421,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1922829/one-hundred-eighty-five-what-do-you-know-about",
-  externalId: "1922829",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1922829",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1922829/one-hundred-eighty-five-what-do-you-know-about",
+    },
+  ],
   publishedAt: "2024-11-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

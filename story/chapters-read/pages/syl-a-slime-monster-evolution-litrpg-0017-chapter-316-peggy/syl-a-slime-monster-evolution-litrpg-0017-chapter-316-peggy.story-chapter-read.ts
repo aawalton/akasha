@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0017Chapter316Peggy = {
   position: 17,
   ownLength: 1881,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2779503/chapter-316-peggy",
-  externalId: "2779503",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2779503",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2779503/chapter-316-peggy",
+    },
+  ],
   publishedAt: "2025-11-21",
   ownProgress: 1881,
   completedAt: "2026-06-29T19:42:21.919Z",

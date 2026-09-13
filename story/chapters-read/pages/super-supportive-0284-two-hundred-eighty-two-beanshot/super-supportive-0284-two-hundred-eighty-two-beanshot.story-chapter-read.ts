@@ -9,10 +9,14 @@ export const superSupportive0284TwoHundredEightyTwoBeanshot = {
   position: 284,
   ownLength: 4587,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3279668/two-hundred-eighty-two-beanshot",
-  externalId: "3279668",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3279668",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3279668/two-hundred-eighty-two-beanshot",
+    },
+  ],
   publishedAt: "2026-04-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

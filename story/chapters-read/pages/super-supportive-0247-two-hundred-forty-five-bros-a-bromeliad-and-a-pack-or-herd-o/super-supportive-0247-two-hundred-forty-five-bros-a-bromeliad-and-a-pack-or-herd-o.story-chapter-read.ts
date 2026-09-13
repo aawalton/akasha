@@ -9,10 +9,14 @@ export const superSupportive0247TwoHundredFortyFiveBrosABromeliadAndAPackOrHerdO
   position: 247,
   ownLength: 2294,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2616249/two-hundred-forty-five-bros-a-bromeliad-and-a",
-  externalId: "2616249",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2616249",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2616249/two-hundred-forty-five-bros-a-bromeliad-and-a",
+    },
+  ],
   publishedAt: "2025-09-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

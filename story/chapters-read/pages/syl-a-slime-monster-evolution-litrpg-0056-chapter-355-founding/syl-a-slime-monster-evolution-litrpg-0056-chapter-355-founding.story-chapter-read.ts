@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0056Chapter355Founding = {
   position: 56,
   ownLength: 2388,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3107135/chapter-355-founding",
-  externalId: "3107135",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3107135",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3107135/chapter-355-founding",
+    },
+  ],
   publishedAt: "2026-03-02",
   ownProgress: 2388,
   completedAt: "2026-06-29T19:43:39.247Z",

@@ -9,10 +9,14 @@ export const superSupportive0094NinetyThreeTheOnlySign = {
   position: 94,
   ownLength: 5237,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1415044/ninety-three-the-only-sign",
-  externalId: "1415044",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1415044",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1415044/ninety-three-the-only-sign",
+    },
+  ],
   publishedAt: "2023-11-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const superSupportive0055FiftyFiveManOnTheMoon = {
   position: 55,
   ownLength: 3508,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1282960/fifty-five-man-on-the-moon",
-  externalId: "1282960",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1282960",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1282960/fifty-five-man-on-the-moon",
+    },
+  ],
   publishedAt: "2023-07-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

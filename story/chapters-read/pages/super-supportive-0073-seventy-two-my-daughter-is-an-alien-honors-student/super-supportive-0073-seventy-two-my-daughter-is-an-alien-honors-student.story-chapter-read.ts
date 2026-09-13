@@ -9,10 +9,14 @@ export const superSupportive0073SeventyTwoMyDaughterIsAnAlienHonorsStudent = {
   position: 73,
   ownLength: 7634,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1338918/seventy-two-my-daughter-is-an-alien-honors-student",
-  externalId: "1338918",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1338918",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1338918/seventy-two-my-daughter-is-an-alien-honors-student",
+    },
+  ],
   publishedAt: "2023-09-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

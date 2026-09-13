@@ -9,10 +9,14 @@ export const superSupportive0008EightTigerShorts = {
   position: 8,
   ownLength: 1847,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1114180/eight-tiger-shorts",
-  externalId: "1114180",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1114180",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1114180/eight-tiger-shorts",
+    },
+  ],
   publishedAt: "2023-02-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

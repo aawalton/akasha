@@ -9,10 +9,14 @@ export const superSupportive0245TwoHundredFortyThreeWithAYell = {
   position: 245,
   ownLength: 3711,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2591302/two-hundred-forty-three-with-a-yell",
-  externalId: "2591302",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2591302",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2591302/two-hundred-forty-three-with-a-yell",
+    },
+  ],
   publishedAt: "2025-09-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

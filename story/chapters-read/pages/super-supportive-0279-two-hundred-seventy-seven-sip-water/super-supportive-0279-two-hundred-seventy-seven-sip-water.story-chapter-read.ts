@@ -9,10 +9,14 @@ export const superSupportive0279TwoHundredSeventySevenSipWater = {
   position: 279,
   ownLength: 3802,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3175741/two-hundred-seventy-seven-sip-water",
-  externalId: "3175741",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3175741",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3175741/two-hundred-seventy-seven-sip-water",
+    },
+  ],
   publishedAt: "2026-03-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0049Chapter348Backstory = {
   position: 49,
   ownLength: 2192,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3035312/chapter-348-backstory",
-  externalId: "3035312",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3035312",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3035312/chapter-348-backstory",
+    },
+  ],
   publishedAt: "2026-02-11",
   ownProgress: 2192,
   completedAt: "2026-06-29T19:43:26.069Z",

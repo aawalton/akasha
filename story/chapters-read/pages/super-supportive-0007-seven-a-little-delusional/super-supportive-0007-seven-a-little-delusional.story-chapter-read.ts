@@ -9,10 +9,14 @@ export const superSupportive0007SevenALittleDelusional = {
   position: 7,
   ownLength: 2984,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1112335/seven-a-little-delusional",
-  externalId: "1112335",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1112335",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1112335/seven-a-little-delusional",
+    },
+  ],
   publishedAt: "2023-02-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

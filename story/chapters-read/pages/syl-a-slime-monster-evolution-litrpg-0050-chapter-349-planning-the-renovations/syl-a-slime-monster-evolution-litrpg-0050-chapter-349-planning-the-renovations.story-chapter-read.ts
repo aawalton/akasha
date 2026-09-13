@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0050Chapter349PlanningTheRenovations
   position: 50,
   ownLength: 2541,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3042225/chapter-349-planning-the-renovations",
-  externalId: "3042225",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3042225",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3042225/chapter-349-planning-the-renovations",
+    },
+  ],
   publishedAt: "2026-02-13",
   ownProgress: 2541,
   completedAt: "2026-06-29T19:43:27.973Z",

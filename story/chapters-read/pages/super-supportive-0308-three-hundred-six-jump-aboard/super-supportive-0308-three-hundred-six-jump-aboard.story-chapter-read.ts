@@ -7,12 +7,16 @@ export const superSupportive0308ThreeHundredSixJumpAboard = {
   position: 308,
   publishedAt: "2026-09-12",
   unit: "words",
-  externalId: "3947412",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3947412",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3947412/three-hundred-six-jump-aboard",
+    },
+  ],
   title: "THREE HUNDRED SIX: Jump Aboard",
   story: "story-read/super-supportive",
   ownLength: 4663,
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3947412/three-hundred-six-jump-aboard",
   prose: "txt",
 } as const satisfies StoryChapterRead

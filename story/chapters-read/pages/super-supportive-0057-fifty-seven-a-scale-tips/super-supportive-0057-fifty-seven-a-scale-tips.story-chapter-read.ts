@@ -9,10 +9,14 @@ export const superSupportive0057FiftySevenAScaleTips = {
   position: 57,
   ownLength: 3776,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1289969/fifty-seven-a-scale-tips",
-  externalId: "1289969",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1289969",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1289969/fifty-seven-a-scale-tips",
+    },
+  ],
   publishedAt: "2023-07-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

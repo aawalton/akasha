@@ -9,10 +9,14 @@ export const superSupportive0117OneHundredSixteenTwinkleTwinkleGokoratch = {
   position: 117,
   ownLength: 4827,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1506871/one-hundred-sixteen-twinkle-twinkle-gokoratch",
-  externalId: "1506871",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1506871",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1506871/one-hundred-sixteen-twinkle-twinkle-gokoratch",
+    },
+  ],
   publishedAt: "2024-02-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

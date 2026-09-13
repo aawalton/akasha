@@ -9,10 +9,14 @@ export const succulentGirlEvolution0032Chapter32NewSkill = {
   position: 32,
   ownLength: 2196,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2658394/chapter-32-new-skill",
-  externalId: "2658394",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2658394",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2658394/chapter-32-new-skill",
+    },
+  ],
   publishedAt: "2025-10-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

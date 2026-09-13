@@ -9,10 +9,14 @@ export const superSupportive0068SixtySevenGoals = {
   position: 68,
   ownLength: 6715,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1320188/sixty-seven-goals",
-  externalId: "1320188",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1320188",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1320188/sixty-seven-goals",
+    },
+  ],
   publishedAt: "2023-08-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

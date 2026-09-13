@@ -9,10 +9,14 @@ export const superSupportive0005FiveTheNiceOne = {
   position: 5,
   ownLength: 2525,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1105784/five-the-nice-one",
-  externalId: "1105784",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1105784",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1105784/five-the-nice-one",
+    },
+  ],
   publishedAt: "2023-02-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

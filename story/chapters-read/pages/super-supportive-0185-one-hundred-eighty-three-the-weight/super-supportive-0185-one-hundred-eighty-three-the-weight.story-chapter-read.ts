@@ -9,10 +9,14 @@ export const superSupportive0185OneHundredEightyThreeTheWeight = {
   position: 185,
   ownLength: 3845,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1910029/one-hundred-eighty-three-the-weight",
-  externalId: "1910029",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1910029",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1910029/one-hundred-eighty-three-the-weight",
+    },
+  ],
   publishedAt: "2024-11-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

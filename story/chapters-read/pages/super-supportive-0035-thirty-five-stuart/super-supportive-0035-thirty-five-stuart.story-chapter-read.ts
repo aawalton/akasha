@@ -9,10 +9,14 @@ export const superSupportive0035ThirtyFiveStuart = {
   position: 35,
   ownLength: 3565,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1209316/thirty-five-stuart",
-  externalId: "1209316",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1209316",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1209316/thirty-five-stuart",
+    },
+  ],
   publishedAt: "2023-05-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

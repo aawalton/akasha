@@ -9,10 +9,14 @@ export const superSupportive0174OneHundredSeventyTwoPlasticWrapperAndAll = {
   position: 174,
   ownLength: 4641,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1827389/one-hundred-seventy-two-plastic-wrapper-and-all",
-  externalId: "1827389",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1827389",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1827389/one-hundred-seventy-two-plastic-wrapper-and-all",
+    },
+  ],
   publishedAt: "2024-09-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

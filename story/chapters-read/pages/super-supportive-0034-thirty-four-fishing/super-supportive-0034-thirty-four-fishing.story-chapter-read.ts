@@ -9,10 +9,14 @@ export const superSupportive0034ThirtyFourFishing = {
   position: 34,
   ownLength: 4296,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1206053/thirty-four-fishing",
-  externalId: "1206053",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1206053",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1206053/thirty-four-fishing",
+    },
+  ],
   publishedAt: "2023-05-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

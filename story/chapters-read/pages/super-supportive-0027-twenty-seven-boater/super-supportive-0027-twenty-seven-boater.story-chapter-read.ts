@@ -9,10 +9,14 @@ export const superSupportive0027TwentySevenBoater = {
   position: 27,
   ownLength: 4611,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1152327/twenty-seven-boater",
-  externalId: "1152327",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1152327",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1152327/twenty-seven-boater",
+    },
+  ],
   publishedAt: "2023-03-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

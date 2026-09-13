@@ -9,10 +9,14 @@ export const superSupportive0076SeventyFiveABusyMorningPt3 = {
   position: 76,
   ownLength: 6528,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1349498/seventy-five-a-busy-morning-pt-3",
-  externalId: "1349498",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1349498",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1349498/seventy-five-a-busy-morning-pt-3",
+    },
+  ],
   publishedAt: "2023-09-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

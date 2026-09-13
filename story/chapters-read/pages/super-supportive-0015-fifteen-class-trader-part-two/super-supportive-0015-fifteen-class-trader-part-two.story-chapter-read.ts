@@ -9,10 +9,14 @@ export const superSupportive0015FifteenClassTraderPartTwo = {
   position: 15,
   ownLength: 4401,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1118061/fifteen-class-trader-part-two",
-  externalId: "1118061",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1118061",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1118061/fifteen-class-trader-part-two",
+    },
+  ],
   publishedAt: "2023-02-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

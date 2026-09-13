@@ -9,10 +9,14 @@ export const superSupportive0212TwoHundredTenSun = {
   position: 212,
   ownLength: 3834,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2170142/two-hundred-ten-sun",
-  externalId: "2170142",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2170142",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2170142/two-hundred-ten-sun",
+    },
+  ],
   publishedAt: "2025-04-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

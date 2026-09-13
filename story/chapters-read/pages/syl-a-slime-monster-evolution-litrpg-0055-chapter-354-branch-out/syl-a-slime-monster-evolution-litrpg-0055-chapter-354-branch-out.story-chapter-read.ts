@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0055Chapter354BranchOut = {
   position: 55,
   ownLength: 2257,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3090172/chapter-354-branch-out",
-  externalId: "3090172",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3090172",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3090172/chapter-354-branch-out",
+    },
+  ],
   publishedAt: "2026-02-25",
   ownProgress: 2257,
   completedAt: "2026-06-29T19:43:37.336Z",

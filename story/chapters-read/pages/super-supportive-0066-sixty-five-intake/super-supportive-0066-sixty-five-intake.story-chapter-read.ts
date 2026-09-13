@@ -9,10 +9,14 @@ export const superSupportive0066SixtyFiveIntake = {
   position: 66,
   ownLength: 4835,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1313034/sixty-five-intake",
-  externalId: "1313034",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1313034",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1313034/sixty-five-intake",
+    },
+  ],
   publishedAt: "2023-08-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

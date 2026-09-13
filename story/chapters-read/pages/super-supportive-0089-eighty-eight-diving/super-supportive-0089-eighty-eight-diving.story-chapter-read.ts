@@ -9,10 +9,14 @@ export const superSupportive0089EightyEightDiving = {
   position: 89,
   ownLength: 5795,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1392714/eighty-eight-diving",
-  externalId: "1392714",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1392714",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1392714/eighty-eight-diving",
+    },
+  ],
   publishedAt: "2023-11-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

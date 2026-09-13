@@ -9,10 +9,14 @@ export const superSupportive0043FortyThreeTheGrass = {
   position: 43,
   ownLength: 5467,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1242366/forty-three-the-grass",
-  externalId: "1242366",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1242366",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1242366/forty-three-the-grass",
+    },
+  ],
   publishedAt: "2023-06-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

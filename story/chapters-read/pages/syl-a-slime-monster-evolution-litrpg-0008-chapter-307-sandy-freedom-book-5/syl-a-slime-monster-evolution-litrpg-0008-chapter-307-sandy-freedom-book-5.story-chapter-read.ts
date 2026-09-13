@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0008Chapter307SandyFreedomBook5 = {
   position: 8,
   ownLength: 2441,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2718627/chapter-307-sandy-freedom-book-5",
-  externalId: "2718627",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2718627",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2718627/chapter-307-sandy-freedom-book-5",
+    },
+  ],
   publishedAt: "2025-10-31",
   ownProgress: 2441,
   completedAt: "2026-06-29T19:42:02.595Z",

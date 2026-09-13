@@ -9,10 +9,14 @@ export const superSupportive0018EighteenInterludeRabbit = {
   position: 18,
   ownLength: 1638,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1120720/eighteen-interlude-rabbit",
-  externalId: "1120720",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1120720",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1120720/eighteen-interlude-rabbit",
+    },
+  ],
   publishedAt: "2023-02-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

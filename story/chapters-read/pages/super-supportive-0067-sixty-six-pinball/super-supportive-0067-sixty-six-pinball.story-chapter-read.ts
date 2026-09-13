@@ -9,10 +9,14 @@ export const superSupportive0067SixtySixPinball = {
   position: 67,
   ownLength: 3837,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1316633/sixty-six-pinball",
-  externalId: "1316633",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1316633",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1316633/sixty-six-pinball",
+    },
+  ],
   publishedAt: "2023-08-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

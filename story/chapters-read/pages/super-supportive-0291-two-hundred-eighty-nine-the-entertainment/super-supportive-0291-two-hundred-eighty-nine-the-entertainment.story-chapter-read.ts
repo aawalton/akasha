@@ -9,10 +9,14 @@ export const superSupportive0291TwoHundredEightyNineTheEntertainment = {
   position: 291,
   ownLength: 4501,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3447515/two-hundred-eighty-nine-the-entertainment",
-  externalId: "3447515",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3447515",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3447515/two-hundred-eighty-nine-the-entertainment",
+    },
+  ],
   publishedAt: "2026-05-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

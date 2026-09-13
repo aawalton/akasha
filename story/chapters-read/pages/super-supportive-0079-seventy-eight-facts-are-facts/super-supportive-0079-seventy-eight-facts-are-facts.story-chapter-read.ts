@@ -9,10 +9,14 @@ export const superSupportive0079SeventyEightFactsAreFacts = {
   position: 79,
   ownLength: 7018,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1360779/seventy-eight-facts-are-facts",
-  externalId: "1360779",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1360779",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1360779/seventy-eight-facts-are-facts",
+    },
+  ],
   publishedAt: "2023-10-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

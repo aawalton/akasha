@@ -9,10 +9,14 @@ export const superSupportive0023TwentyThreeFuneral = {
   position: 23,
   ownLength: 5020,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1129594/twenty-three-funeral",
-  externalId: "1129594",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1129594",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1129594/twenty-three-funeral",
+    },
+  ],
   publishedAt: "2023-03-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

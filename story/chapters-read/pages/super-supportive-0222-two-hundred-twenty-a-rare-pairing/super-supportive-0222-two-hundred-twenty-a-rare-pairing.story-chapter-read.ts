@@ -9,10 +9,14 @@ export const superSupportive0222TwoHundredTwentyARarePairing = {
   position: 222,
   ownLength: 3831,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2305621/two-hundred-twenty-a-rare-pairing",
-  externalId: "2305621",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2305621",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2305621/two-hundred-twenty-a-rare-pairing",
+    },
+  ],
   publishedAt: "2025-05-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

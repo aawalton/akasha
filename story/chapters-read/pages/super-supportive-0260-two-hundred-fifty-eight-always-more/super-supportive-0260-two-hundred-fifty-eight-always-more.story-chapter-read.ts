@@ -9,10 +9,14 @@ export const superSupportive0260TwoHundredFiftyEightAlwaysMore = {
   position: 260,
   ownLength: 1812,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2793685/two-hundred-fifty-eight-always-more",
-  externalId: "2793685",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2793685",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2793685/two-hundred-fifty-eight-always-more",
+    },
+  ],
   publishedAt: "2025-11-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

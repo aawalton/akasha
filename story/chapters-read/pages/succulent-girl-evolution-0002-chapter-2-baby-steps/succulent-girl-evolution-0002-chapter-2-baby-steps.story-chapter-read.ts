@@ -9,10 +9,14 @@ export const succulentGirlEvolution0002Chapter2BabySteps = {
   position: 2,
   ownLength: 2120,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525495/chapter-2-baby-steps",
-  externalId: "2525495",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525495",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525495/chapter-2-baby-steps",
+    },
+  ],
   publishedAt: "2025-08-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

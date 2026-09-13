@@ -9,10 +9,14 @@ export const superSupportive0214TwoHundredTwelveHighFlyers = {
   position: 214,
   ownLength: 4540,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2208393/two-hundred-twelve-high-flyers",
-  externalId: "2208393",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2208393",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2208393/two-hundred-twelve-high-flyers",
+    },
+  ],
   publishedAt: "2025-04-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const succulentGirlEvolution0028Chapter28FriendshipIsExclusive = {
   position: 28,
   ownLength: 1923,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2633391/chapter-28-friendship-is-exclusive",
-  externalId: "2633391",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2633391",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2633391/chapter-28-friendship-is-exclusive",
+    },
+  ],
   publishedAt: "2025-09-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

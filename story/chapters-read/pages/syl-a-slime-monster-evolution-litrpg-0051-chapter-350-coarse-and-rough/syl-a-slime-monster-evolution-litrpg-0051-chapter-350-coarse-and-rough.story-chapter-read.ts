@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0051Chapter350CoarseAndRough = {
   position: 51,
   ownLength: 2243,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3058511/chapter-350-coarse-and-rough",
-  externalId: "3058511",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3058511",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3058511/chapter-350-coarse-and-rough",
+    },
+  ],
   publishedAt: "2026-02-16",
   ownProgress: 2243,
   completedAt: "2026-06-29T19:43:29.883Z",

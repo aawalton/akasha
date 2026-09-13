@@ -9,10 +9,14 @@ export const superSupportive0046FortySixLife = {
   position: 46,
   ownLength: 2715,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1250159/forty-six-life",
-  externalId: "1250159",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1250159",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1250159/forty-six-life",
+    },
+  ],
   publishedAt: "2023-06-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

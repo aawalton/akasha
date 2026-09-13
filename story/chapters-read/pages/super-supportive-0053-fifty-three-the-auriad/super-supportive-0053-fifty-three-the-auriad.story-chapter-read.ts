@@ -9,10 +9,14 @@ export const superSupportive0053FiftyThreeTheAuriad = {
   position: 53,
   ownLength: 2792,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1275481/fifty-three-the-auriad",
-  externalId: "1275481",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1275481",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1275481/fifty-three-the-auriad",
+    },
+  ],
   publishedAt: "2023-07-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

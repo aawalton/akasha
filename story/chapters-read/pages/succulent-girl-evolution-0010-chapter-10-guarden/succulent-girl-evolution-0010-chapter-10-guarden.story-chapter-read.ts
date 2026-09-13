@@ -9,10 +9,14 @@ export const succulentGirlEvolution0010Chapter10Guarden = {
   position: 10,
   ownLength: 2132,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525701/chapter-10-guarden",
-  externalId: "2525701",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525701",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525701/chapter-10-guarden",
+    },
+  ],
   publishedAt: "2025-08-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

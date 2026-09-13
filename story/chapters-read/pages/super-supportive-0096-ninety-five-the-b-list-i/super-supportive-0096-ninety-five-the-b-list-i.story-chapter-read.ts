@@ -9,10 +9,14 @@ export const superSupportive0096NinetyFiveTheBListI = {
   position: 96,
   ownLength: 4911,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1423212/ninety-five-the-b-list-i",
-  externalId: "1423212",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1423212",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1423212/ninety-five-the-b-list-i",
+    },
+  ],
   publishedAt: "2023-11-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

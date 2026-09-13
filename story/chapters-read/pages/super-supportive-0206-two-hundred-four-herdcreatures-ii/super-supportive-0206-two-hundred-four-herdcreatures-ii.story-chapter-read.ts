@@ -9,10 +9,14 @@ export const superSupportive0206TwoHundredFourHerdcreaturesIi = {
   position: 206,
   ownLength: 4686,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2077959/two-hundred-four-herdcreatures-ii",
-  externalId: "2077959",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2077959",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2077959/two-hundred-four-herdcreatures-ii",
+    },
+  ],
   publishedAt: "2025-02-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

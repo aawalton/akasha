@@ -9,10 +9,14 @@ export const superSupportive0082EightyOneOCruzamento = {
   position: 82,
   ownLength: 2310,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1378760/eighty-one-o-cruzamento",
-  externalId: "1378760",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1378760",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1378760/eighty-one-o-cruzamento",
+    },
+  ],
   publishedAt: "2023-10-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const superSupportive0087EightySixOneWord = {
   position: 87,
   ownLength: 3965,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1388481/eighty-six-one-word",
-  externalId: "1388481",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1388481",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1388481/eighty-six-one-word",
+    },
+  ],
   publishedAt: "2023-10-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const superSupportive0001OneTheBoyInTheBubble = {
   position: 1,
   ownLength: 1573,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1096481/one-the-boy-in-the-bubble",
-  externalId: "1096481",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1096481",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1096481/one-the-boy-in-the-bubble",
+    },
+  ],
   publishedAt: "2023-01-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

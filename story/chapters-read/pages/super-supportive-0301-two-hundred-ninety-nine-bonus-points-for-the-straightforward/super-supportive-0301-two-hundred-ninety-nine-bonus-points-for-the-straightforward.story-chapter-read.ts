@@ -9,10 +9,14 @@ export const superSupportive0301TwoHundredNinetyNineBonusPointsForTheStraightfor
   position: 301,
   ownLength: 4367,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3722335/two-hundred-ninety-nine-bonus-points-for-the-straightforward",
-  externalId: "3722335",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3722335",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3722335/two-hundred-ninety-nine-bonus-points-for-the-straightforward",
+    },
+  ],
   publishedAt: "2026-07-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

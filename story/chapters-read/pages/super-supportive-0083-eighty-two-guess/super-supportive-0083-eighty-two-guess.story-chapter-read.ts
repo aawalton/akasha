@@ -9,10 +9,14 @@ export const superSupportive0083EightyTwoGuess = {
   position: 83,
   ownLength: 5764,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1378791/eighty-two-guess",
-  externalId: "1378791",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1378791",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1378791/eighty-two-guess",
+    },
+  ],
   publishedAt: "2023-10-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

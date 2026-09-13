@@ -9,10 +9,14 @@ export const succulentGirlEvolution0020Chapter20ButWaitThatsNotAll = {
   position: 20,
   ownLength: 2263,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2587381/chapter-20-but-wait-thats-not-all",
-  externalId: "2587381",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2587381",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2587381/chapter-20-but-wait-thats-not-all",
+    },
+  ],
   publishedAt: "2025-09-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

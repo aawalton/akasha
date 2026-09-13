@@ -9,10 +9,14 @@ export const succulentGirlEvolution0035Chapter35NewParty = {
   position: 35,
   ownLength: 1993,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2676402/chapter-35-new-party",
-  externalId: "2676402",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2676402",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2676402/chapter-35-new-party",
+    },
+  ],
   publishedAt: "2025-10-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0037Chapter336VolcanoRumble = {
   position: 37,
   ownLength: 2113,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2934476/chapter-336-volcano-rumble",
-  externalId: "2934476",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2934476",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2934476/chapter-336-volcano-rumble",
+    },
+  ],
   publishedAt: "2026-01-12",
   ownProgress: 2113,
   completedAt: "2026-06-29T19:43:02.242Z",

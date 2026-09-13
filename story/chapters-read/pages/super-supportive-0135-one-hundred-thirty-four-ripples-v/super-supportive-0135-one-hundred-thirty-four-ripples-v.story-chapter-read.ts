@@ -9,10 +9,14 @@ export const superSupportive0135OneHundredThirtyFourRipplesV = {
   position: 135,
   ownLength: 6122,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1596017/one-hundred-thirty-four-ripples-v",
-  externalId: "1596017",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1596017",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1596017/one-hundred-thirty-four-ripples-v",
+    },
+  ],
   publishedAt: "2024-04-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

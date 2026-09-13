@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0016Chapter315MermenRumors = {
   position: 16,
   ownLength: 2362,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2773789/chapter-315-mermen-rumors",
-  externalId: "2773789",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2773789",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2773789/chapter-315-mermen-rumors",
+    },
+  ],
   publishedAt: "2025-11-19",
   ownProgress: 2362,
   completedAt: "2026-06-29T19:42:20.136Z",

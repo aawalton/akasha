@@ -9,10 +9,14 @@ export const superSupportive0290TwoHundredEightyEightNewPressures = {
   position: 290,
   ownLength: 5254,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3426020/two-hundred-eighty-eight-new-pressures",
-  externalId: "3426020",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3426020",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3426020/two-hundred-eighty-eight-new-pressures",
+    },
+  ],
   publishedAt: "2026-05-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

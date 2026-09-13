@@ -9,10 +9,14 @@ export const superSupportive0186OneHundredEightyFourTheInwardPath = {
   position: 186,
   ownLength: 4362,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1915391/one-hundred-eighty-four-the-inward-path",
-  externalId: "1915391",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1915391",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1915391/one-hundred-eighty-four-the-inward-path",
+    },
+  ],
   publishedAt: "2024-11-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const superSupportive0304ThreeHundredTwoContractsAndContracts = {
   position: 304,
   ownLength: 4734,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3814667/three-hundred-two-contracts-and-contracts",
-  externalId: "3814667",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3814667",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3814667/three-hundred-two-contracts-and-contracts",
+    },
+  ],
   publishedAt: "2026-08-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

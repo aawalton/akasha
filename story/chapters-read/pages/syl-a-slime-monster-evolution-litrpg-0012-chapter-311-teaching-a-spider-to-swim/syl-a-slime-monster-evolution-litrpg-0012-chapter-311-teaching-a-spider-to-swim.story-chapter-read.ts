@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0012Chapter311TeachingASpiderToSwim 
   position: 12,
   ownLength: 2210,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2747683/chapter-311-teaching-a-spider-to-swim",
-  externalId: "2747683",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2747683",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2747683/chapter-311-teaching-a-spider-to-swim",
+    },
+  ],
   publishedAt: "2025-11-10",
   ownProgress: 2210,
   completedAt: "2026-06-29T19:42:10.309Z",

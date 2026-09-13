@@ -9,10 +9,14 @@ export const superSupportive0189OneHundredEightySevenAboutPythons = {
   position: 189,
   ownLength: 3766,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1940950/one-hundred-eighty-seven-about-pythons",
-  externalId: "1940950",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1940950",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1940950/one-hundred-eighty-seven-about-pythons",
+    },
+  ],
   publishedAt: "2024-12-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

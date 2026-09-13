@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0043Chapter342LettingLoose = {
   position: 43,
   ownLength: 2309,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2979716/chapter-342-letting-loose",
-  externalId: "2979716",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2979716",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2979716/chapter-342-letting-loose",
+    },
+  ],
   publishedAt: "2026-01-26",
   ownProgress: 2309,
   completedAt: "2026-06-29T19:43:14.452Z",

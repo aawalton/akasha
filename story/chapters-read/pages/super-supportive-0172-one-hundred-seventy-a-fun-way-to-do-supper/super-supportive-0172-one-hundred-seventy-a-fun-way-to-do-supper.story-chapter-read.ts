@@ -9,10 +9,14 @@ export const superSupportive0172OneHundredSeventyAFunWayToDoSupper = {
   position: 172,
   ownLength: 3746,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1815552/one-hundred-seventy-a-fun-way-to-do-supper",
-  externalId: "1815552",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1815552",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1815552/one-hundred-seventy-a-fun-way-to-do-supper",
+    },
+  ],
   publishedAt: "2024-09-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const superSupportive0028TwentyEightPerception = {
   position: 28,
   ownLength: 7182,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1159718/twenty-eight-perception",
-  externalId: "1159718",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1159718",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1159718/twenty-eight-perception",
+    },
+  ],
   publishedAt: "2023-04-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

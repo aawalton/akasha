@@ -9,10 +9,14 @@ export const superSupportive0092NinetyOneFortyPineapplesPart2 = {
   position: 92,
   ownLength: 13019,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1406842/ninety-one-forty-pineapples-part-2",
-  externalId: "1406842",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1406842",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1406842/ninety-one-forty-pineapples-part-2",
+    },
+  ],
   publishedAt: "2023-11-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

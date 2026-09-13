@@ -9,10 +9,14 @@ export const superSupportive0129OneHundredTwentyEightBetterWatchOut = {
   position: 129,
   ownLength: 6943,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1562484/one-hundred-twenty-eight-better-watch-out",
-  externalId: "1562484",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1562484",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1562484/one-hundred-twenty-eight-better-watch-out",
+    },
+  ],
   publishedAt: "2024-03-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

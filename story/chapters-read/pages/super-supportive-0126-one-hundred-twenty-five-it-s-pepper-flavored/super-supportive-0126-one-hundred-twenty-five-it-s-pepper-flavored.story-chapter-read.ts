@@ -9,10 +9,14 @@ export const superSupportive0126OneHundredTwentyFiveItSPepperFlavored = {
   position: 126,
   ownLength: 9551,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1549639/one-hundred-twenty-five-its-pepper-flavored",
-  externalId: "1549639",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1549639",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1549639/one-hundred-twenty-five-its-pepper-flavored",
+    },
+  ],
   publishedAt: "2024-03-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0004Chapter169ReturningBook3 = {
   position: 4,
   ownLength: 2724,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/1878473/chapter-169-returning-book-3",
-  externalId: "1878473",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1878473",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/1878473/chapter-169-returning-book-3",
+    },
+  ],
   publishedAt: "2024-11-01",
   ownProgress: 2724,
   completedAt: "2026-06-29T19:41:54.966Z",

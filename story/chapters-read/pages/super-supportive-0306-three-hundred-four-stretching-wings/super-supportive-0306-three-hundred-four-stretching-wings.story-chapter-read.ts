@@ -9,10 +9,14 @@ export const superSupportive0306ThreeHundredFourStretchingWings = {
   position: 306,
   ownLength: 4605,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3880155/three-hundred-four-stretching-wings",
-  externalId: "3880155",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3880155",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3880155/three-hundred-four-stretching-wings",
+    },
+  ],
   publishedAt: "2026-08-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

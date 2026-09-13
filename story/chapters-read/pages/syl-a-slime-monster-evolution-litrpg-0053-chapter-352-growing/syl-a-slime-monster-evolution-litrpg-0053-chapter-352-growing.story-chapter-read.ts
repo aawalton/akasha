@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0053Chapter352Growing = {
   position: 53,
   ownLength: 2211,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3073305/chapter-352-growing",
-  externalId: "3073305",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3073305",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3073305/chapter-352-growing",
+    },
+  ],
   publishedAt: "2026-02-20",
   ownProgress: 2211,
   completedAt: "2026-06-29T19:43:33.625Z",

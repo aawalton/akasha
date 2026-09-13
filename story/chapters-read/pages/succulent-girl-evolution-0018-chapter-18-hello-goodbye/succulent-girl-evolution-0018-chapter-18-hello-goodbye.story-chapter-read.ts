@@ -9,10 +9,14 @@ export const succulentGirlEvolution0018Chapter18HelloGoodbye = {
   position: 18,
   ownLength: 2085,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2573879/chapter-18-hello-goodbye",
-  externalId: "2573879",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2573879",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2573879/chapter-18-hello-goodbye",
+    },
+  ],
   publishedAt: "2025-09-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

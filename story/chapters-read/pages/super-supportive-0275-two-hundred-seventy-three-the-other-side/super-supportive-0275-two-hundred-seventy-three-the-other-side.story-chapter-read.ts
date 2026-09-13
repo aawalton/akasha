@@ -9,10 +9,14 @@ export const superSupportive0275TwoHundredSeventyThreeTheOtherSide = {
   position: 275,
   ownLength: 3704,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3093627/two-hundred-seventy-three-the-other-side",
-  externalId: "3093627",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3093627",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3093627/two-hundred-seventy-three-the-other-side",
+    },
+  ],
   publishedAt: "2026-02-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

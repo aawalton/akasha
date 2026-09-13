@@ -8,11 +8,15 @@ export const superSupportive0307ThreeHundredFiveAnEagerArmAndAngryNoodles = {
   position: 307,
   publishedAt: "2026-09-04",
   unit: "words",
-  externalId: "3913299",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3913299",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3913299/three-hundred-five-an-eager-arm-and-angry-noodles",
+    },
+  ],
   title: "THREE HUNDRED FIVE: An Eager Arm and Angry Noodles",
   ownLength: 4938,
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3913299/three-hundred-five-an-eager-arm-and-angry-noodles",
   prose: "txt",
 } as const satisfies StoryChapterRead

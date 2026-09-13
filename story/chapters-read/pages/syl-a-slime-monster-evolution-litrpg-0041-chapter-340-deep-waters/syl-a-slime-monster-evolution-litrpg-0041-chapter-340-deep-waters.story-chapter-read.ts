@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0041Chapter340DeepWaters = {
   position: 41,
   ownLength: 2017,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2963425/chapter-340-deep-waters",
-  externalId: "2963425",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2963425",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2963425/chapter-340-deep-waters",
+    },
+  ],
   publishedAt: "2026-01-21",
   ownProgress: 2017,
   completedAt: "2026-06-29T19:43:10.372Z",

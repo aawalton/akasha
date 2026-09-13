@@ -9,10 +9,14 @@ export const superSupportive0276TwoHundredSeventyFourToEverything = {
   position: 276,
   ownLength: 2319,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3121733/two-hundred-seventy-four-to-everything",
-  externalId: "3121733",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3121733",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3121733/two-hundred-seventy-four-to-everything",
+    },
+  ],
   publishedAt: "2026-03-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

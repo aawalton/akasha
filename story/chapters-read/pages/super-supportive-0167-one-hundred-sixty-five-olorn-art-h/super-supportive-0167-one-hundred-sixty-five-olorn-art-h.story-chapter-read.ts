@@ -9,10 +9,14 @@ export const superSupportive0167OneHundredSixtyFiveOlornArtH = {
   position: 167,
   ownLength: 4185,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1778860/one-hundred-sixty-five-olorn-arth",
-  externalId: "1778860",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1778860",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1778860/one-hundred-sixty-five-olorn-arth",
+    },
+  ],
   publishedAt: "2024-08-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

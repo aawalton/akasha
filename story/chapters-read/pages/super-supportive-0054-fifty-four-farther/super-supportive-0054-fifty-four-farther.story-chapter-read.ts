@@ -9,10 +9,14 @@ export const superSupportive0054FiftyFourFarther = {
   position: 54,
   ownLength: 4158,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1279547/fifty-four-farther",
-  externalId: "1279547",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1279547",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1279547/fifty-four-farther",
+    },
+  ],
   publishedAt: "2023-07-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

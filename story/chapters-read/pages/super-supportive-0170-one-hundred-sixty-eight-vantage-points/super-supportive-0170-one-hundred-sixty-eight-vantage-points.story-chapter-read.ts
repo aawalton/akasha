@@ -9,10 +9,14 @@ export const superSupportive0170OneHundredSixtyEightVantagePoints = {
   position: 170,
   ownLength: 5109,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1799372/one-hundred-sixty-eight-vantage-points",
-  externalId: "1799372",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1799372",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1799372/one-hundred-sixty-eight-vantage-points",
+    },
+  ],
   publishedAt: "2024-09-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

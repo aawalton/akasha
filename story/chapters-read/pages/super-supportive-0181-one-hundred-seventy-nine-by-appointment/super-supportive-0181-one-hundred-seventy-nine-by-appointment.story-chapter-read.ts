@@ -9,10 +9,14 @@ export const superSupportive0181OneHundredSeventyNineByAppointment = {
   position: 181,
   ownLength: 4343,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1878183/one-hundred-seventy-nine-by-appointment",
-  externalId: "1878183",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1878183",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1878183/one-hundred-seventy-nine-by-appointment",
+    },
+  ],
   publishedAt: "2024-11-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0010Chapter309Brine = {
   position: 10,
   ownLength: 2284,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2733695/chapter-309-brine",
-  externalId: "2733695",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2733695",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2733695/chapter-309-brine",
+    },
+  ],
   publishedAt: "2025-11-05",
   ownProgress: 2284,
   completedAt: "2026-06-29T19:42:06.448Z",

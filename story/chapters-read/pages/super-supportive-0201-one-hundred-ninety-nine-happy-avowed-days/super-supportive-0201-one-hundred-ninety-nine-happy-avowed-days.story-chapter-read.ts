@@ -9,10 +9,14 @@ export const superSupportive0201OneHundredNinetyNineHappyAvowedDays = {
   position: 201,
   ownLength: 3881,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2019379/one-hundred-ninety-nine-happy-avowed-days",
-  externalId: "2019379",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2019379",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2019379/one-hundred-ninety-nine-happy-avowed-days",
+    },
+  ],
   publishedAt: "2025-01-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

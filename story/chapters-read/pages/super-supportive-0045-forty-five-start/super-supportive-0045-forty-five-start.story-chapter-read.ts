@@ -9,10 +9,14 @@ export const superSupportive0045FortyFiveStart = {
   position: 45,
   ownLength: 4708,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1246304/forty-five-start",
-  externalId: "1246304",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1246304",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1246304/forty-five-start",
+    },
+  ],
   publishedAt: "2023-06-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

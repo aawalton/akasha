@@ -9,10 +9,14 @@ export const succulentGirlEvolution0025Chapter25FriendshipNoJutsu = {
   position: 25,
   ownLength: 2392,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2615478/chapter-25-friendship-no-jutsu",
-  externalId: "2615478",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2615478",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2615478/chapter-25-friendship-no-jutsu",
+    },
+  ],
   publishedAt: "2025-09-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

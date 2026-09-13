@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0036Chapter335SpreadingOut = {
   position: 36,
   ownLength: 2170,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2925543/chapter-335-spreading-out",
-  externalId: "2925543",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2925543",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2925543/chapter-335-spreading-out",
+    },
+  ],
   publishedAt: "2026-01-09",
   ownProgress: 2170,
   completedAt: "2026-06-29T19:43:00.317Z",

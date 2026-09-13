@@ -9,10 +9,14 @@ export const superSupportive0155OneHundredFiftyFourAssembly = {
   position: 155,
   ownLength: 6074,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1709100/one-hundred-fifty-four-assembly",
-  externalId: "1709100",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1709100",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1709100/one-hundred-fifty-four-assembly",
+    },
+  ],
   publishedAt: "2024-07-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

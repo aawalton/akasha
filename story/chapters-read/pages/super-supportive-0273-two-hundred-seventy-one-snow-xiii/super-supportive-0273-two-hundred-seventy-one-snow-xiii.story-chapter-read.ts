@@ -9,10 +9,14 @@ export const superSupportive0273TwoHundredSeventyOneSnowXiii = {
   position: 273,
   ownLength: 4425,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2999718/two-hundred-seventy-one-snow-xiii",
-  externalId: "2999718",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2999718",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2999718/two-hundred-seventy-one-snow-xiii",
+    },
+  ],
   publishedAt: "2026-01-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

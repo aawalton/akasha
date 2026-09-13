@@ -9,10 +9,14 @@ export const superSupportive0192OneHundredNinetyFlashesIi = {
   position: 192,
   ownLength: 2081,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1963746/one-hundred-ninety-flashes-ii",
-  externalId: "1963746",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1963746",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1963746/one-hundred-ninety-flashes-ii",
+    },
+  ],
   publishedAt: "2024-12-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

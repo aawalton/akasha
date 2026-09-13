@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0015Chapter314Sylvain = {
   position: 15,
   ownLength: 2257,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2767671/chapter-314-sylvain",
-  externalId: "2767671",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2767671",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2767671/chapter-314-sylvain",
+    },
+  ],
   publishedAt: "2025-11-17",
   ownProgress: 2257,
   completedAt: "2026-06-29T19:42:16.208Z",

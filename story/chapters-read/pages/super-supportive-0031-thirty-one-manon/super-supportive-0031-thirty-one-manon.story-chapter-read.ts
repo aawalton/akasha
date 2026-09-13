@@ -9,10 +9,14 @@ export const superSupportive0031ThirtyOneManon = {
   position: 31,
   ownLength: 4135,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1194129/thirty-one-manon",
-  externalId: "1194129",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1194129",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1194129/thirty-one-manon",
+    },
+  ],
   publishedAt: "2023-04-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

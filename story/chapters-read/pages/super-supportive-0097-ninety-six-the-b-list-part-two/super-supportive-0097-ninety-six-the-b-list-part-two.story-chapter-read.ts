@@ -9,10 +9,14 @@ export const superSupportive0097NinetySixTheBListPartTwo = {
   position: 97,
   ownLength: 4507,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1426842/ninety-six-the-b-list-part-two",
-  externalId: "1426842",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1426842",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1426842/ninety-six-the-b-list-part-two",
+    },
+  ],
   publishedAt: "2023-11-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

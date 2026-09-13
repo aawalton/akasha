@@ -9,10 +9,14 @@ export const superSupportive0242TwoHundredFortyHoppingI = {
   position: 242,
   ownLength: 4458,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2547932/two-hundred-forty-hopping-i",
-  externalId: "2547932",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2547932",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2547932/two-hundred-forty-hopping-i",
+    },
+  ],
   publishedAt: "2025-08-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

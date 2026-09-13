@@ -9,10 +9,14 @@ export const superSupportive0011ElevenLastAndLeast = {
   position: 11,
   ownLength: 2380,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1115805/eleven-last-and-least",
-  externalId: "1115805",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1115805",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1115805/eleven-last-and-least",
+    },
+  ],
   publishedAt: "2023-02-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

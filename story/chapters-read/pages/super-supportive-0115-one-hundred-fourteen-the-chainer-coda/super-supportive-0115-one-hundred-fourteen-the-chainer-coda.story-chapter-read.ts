@@ -9,10 +9,14 @@ export const superSupportive0115OneHundredFourteenTheChainerCoda = {
   position: 115,
   ownLength: 20746,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1498617/one-hundred-fourteen-the-chainer-coda",
-  externalId: "1498617",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1498617",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1498617/one-hundred-fourteen-the-chainer-coda",
+    },
+  ],
   publishedAt: "2024-01-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

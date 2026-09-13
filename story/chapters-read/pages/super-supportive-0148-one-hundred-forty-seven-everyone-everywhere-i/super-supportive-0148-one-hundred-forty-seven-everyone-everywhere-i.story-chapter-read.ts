@@ -9,10 +9,14 @@ export const superSupportive0148OneHundredFortySevenEveryoneEverywhereI = {
   position: 148,
   ownLength: 4470,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1670237/one-hundred-forty-seven-everyone-everywhere-i",
-  externalId: "1670237",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1670237",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1670237/one-hundred-forty-seven-everyone-everywhere-i",
+    },
+  ],
   publishedAt: "2024-06-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

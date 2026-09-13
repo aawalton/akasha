@@ -9,10 +9,14 @@ export const superSupportive0285TwoHundredEightyThreeThunder = {
   position: 285,
   ownLength: 4899,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3299314/two-hundred-eighty-three-thunder",
-  externalId: "3299314",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3299314",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3299314/two-hundred-eighty-three-thunder",
+    },
+  ],
   publishedAt: "2026-04-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

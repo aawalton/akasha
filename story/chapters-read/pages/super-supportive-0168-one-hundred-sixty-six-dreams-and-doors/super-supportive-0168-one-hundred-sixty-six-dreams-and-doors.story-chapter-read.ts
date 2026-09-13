@@ -9,10 +9,14 @@ export const superSupportive0168OneHundredSixtySixDreamsAndDoors = {
   position: 168,
   ownLength: 4513,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1784538/one-hundred-sixty-six-dreams-and-doors",
-  externalId: "1784538",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1784538",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1784538/one-hundred-sixty-six-dreams-and-doors",
+    },
+  ],
   publishedAt: "2024-09-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

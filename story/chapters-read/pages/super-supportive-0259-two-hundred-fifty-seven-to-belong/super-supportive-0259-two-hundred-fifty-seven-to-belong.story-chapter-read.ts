@@ -9,10 +9,14 @@ export const superSupportive0259TwoHundredFiftySevenToBelong = {
   position: 259,
   ownLength: 3370,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2779175/two-hundred-fifty-seven-to-belong",
-  externalId: "2779175",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2779175",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2779175/two-hundred-fifty-seven-to-belong",
+    },
+  ],
   publishedAt: "2025-11-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

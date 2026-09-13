@@ -9,10 +9,14 @@ export const superSupportive0040FortyZeroIn = {
   position: 40,
   ownLength: 6142,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1231654/forty-zero-in",
-  externalId: "1231654",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1231654",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1231654/forty-zero-in",
+    },
+  ],
   publishedAt: "2023-06-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

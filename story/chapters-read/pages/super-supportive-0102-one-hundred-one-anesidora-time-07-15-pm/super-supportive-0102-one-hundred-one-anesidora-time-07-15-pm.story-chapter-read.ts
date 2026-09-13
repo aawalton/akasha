@@ -9,10 +9,14 @@ export const superSupportive0102OneHundredOneAnesidoraTime0715Pm = {
   position: 102,
   ownLength: 5289,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1446199/one-hundred-one-anesidora-time-0715-pm",
-  externalId: "1446199",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1446199",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1446199/one-hundred-one-anesidora-time-0715-pm",
+    },
+  ],
   publishedAt: "2023-12-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

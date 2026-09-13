@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0018Chapter317IslandSearch = {
   position: 18,
   ownLength: 2085,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2787661/chapter-317-island-search",
-  externalId: "2787661",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2787661",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2787661/chapter-317-island-search",
+    },
+  ],
   publishedAt: "2025-11-24",
   ownProgress: 2085,
   completedAt: "2026-06-29T19:42:23.934Z",

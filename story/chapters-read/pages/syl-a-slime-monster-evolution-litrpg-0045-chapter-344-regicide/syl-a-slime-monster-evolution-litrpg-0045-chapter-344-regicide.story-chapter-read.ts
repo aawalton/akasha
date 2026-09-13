@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0045Chapter344Regicide = {
   position: 45,
   ownLength: 2255,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3003678/chapter-344-regicide",
-  externalId: "3003678",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3003678",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3003678/chapter-344-regicide",
+    },
+  ],
   publishedAt: "2026-02-02",
   ownProgress: 2255,
   completedAt: "2026-06-29T19:43:18.634Z",

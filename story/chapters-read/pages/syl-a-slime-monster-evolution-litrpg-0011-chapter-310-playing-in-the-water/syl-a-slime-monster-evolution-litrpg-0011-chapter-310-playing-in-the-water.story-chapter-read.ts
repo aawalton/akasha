@@ -9,10 +9,14 @@ export const sylASlimeMonsterEvolutionLitrpg0011Chapter310PlayingInTheWater = {
   position: 11,
   ownLength: 2284,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2739545/chapter-310-playing-in-the-water",
-  externalId: "2739545",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2739545",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2739545/chapter-310-playing-in-the-water",
+    },
+  ],
   publishedAt: "2025-11-07",
   ownProgress: 2284,
   completedAt: "2026-06-29T19:42:08.378Z",
