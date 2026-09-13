@@ -79,7 +79,42 @@ export const blockCombinedAkashaCalls = {
     },
     {
       invariantKind: "departure",
-      statement: "An approved change has the one word that command takes.",
+      statement: "An approved change has up to two words after `change`.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Those words name the command and what it takes, or the namespace and the command under it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A help flag last on the line is approved on either name, however many words name the command.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`-h` is the help flag as `--help` is.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "Akasha answers a help flag from the command's page before the command is called.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A help call therefore records no read and makes no commit.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "A command whose page will not load refuses the help flag as a word it does not take.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The words before a help flag are lowercase letters, digits and hyphens.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A help flag is the last word, and the line ends there.",
     },
     {
       invariantKind: "departure",

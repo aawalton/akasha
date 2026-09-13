@@ -7,7 +7,9 @@ import { z } from "zod"
 
 const HOOK = "block-combined-akasha-calls"
 
-const NAMED = /akasha\s+(read|change)(\s|$)/
+const JUDGED = "(?:read|change)"
+
+const NAMED = new RegExp("akasha\\s+" + JUDGED + "(?:\\s|$)")
 
 const OPENS_AKASHA = /^akasha\s/
 
@@ -26,6 +28,12 @@ const FENCE = "HEREDOC"
 const READ = new RegExp("^akasha read( --full| --file-path " + PATH + ")*$")
 
 const CHANGE = new RegExp("^akasha change( " + WORD + "){0,2}( <<'" + FENCE + "')?$")
+
+const NAMING = "[a-z][a-z0-9-]*"
+
+const HELP_FLAG = "(?:--help|-h)"
+
+const HELPED = new RegExp("^akasha " + JUDGED + "(?: " + NAMING + ")* " + HELP_FLAG + "$")
 
 const REFUSED = [
   "`akasha read` and `akasha change` run alone on the line.",
@@ -51,10 +59,19 @@ const REFUSED = [
   "  message: <what the commit is for>",
   "  HEREDOC",
   "",
-  "take the change command, the one word that command takes, and one heredoc whose closing line",
-  "ends the call. A change command taking no word, and one opening no heredoc, are that same form",
-  "with less in it, so `akasha change apply` and `akasha change list` are approved on their own.",
-  "`akasha change` names the commands it carries.",
+  "take up to two words after `change`, naming the command and what it takes or the namespace",
+  "and the command under it, and one heredoc whose closing line ends the call. A call taking",
+  "fewer words, and one opening no heredoc, are that same form with less in it, so",
+  "`akasha change apply`, `akasha change list` and `akasha change subagent list` are approved",
+  "on their own. `akasha change` names the commands it carries.",
+  "",
+  "  akasha read --help",
+  "  akasha change <command> --help",
+  "",
+  "are approved however many words name the command, and `-h` is the same flag. Akasha answers",
+  "the help flag from the command's page rather than calling the command, so a help call records",
+  "no read and makes no commit, and the warrant above does not reach it. The flag is the last",
+  "word, and the line ends there.",
   "",
   "A run of `NAME=value` before either form is let through, because the shell sets those names",
   "rather than running anything: `AKASHA_CPU_PROFILE_DIR=/tmp/prof akasha change apply`. A value",
@@ -76,7 +93,7 @@ const REFUSED = [
 
 const SCOPE: readonly string[] = [
   `${HOOK} refuses a command naming \`akasha read\` or \`akasha change\` unless the whole`,
-  "command is one of the two approved forms. It matches the command whole rather than looking",
+  "command is one of the approved forms. It matches the command whole rather than looking",
   "for a forbidden shape inside it.",
   "",
   "WHERE THE RULE COMES FROM: a read records what an agent saw, and a change writes the",
@@ -111,6 +128,14 @@ const SCOPE: readonly string[] = [
   "is named at all. Without it no such path could be read, and so no such file could be written",
   "or taken away.",
   "",
+  "A HELP FLAG LAST ON THE LINE is approved on either name, however many words name the",
+  "command. Akasha answers `--help` from the command's page before the command is called, so",
+  "the call records no read and makes no commit; where that page will not load, the flag",
+  "reaches the command as a word the command does not take, and the command refuses it.",
+  "Either way nothing is written, so the warrant above does not reach a help call. The words",
+  "before the flag are lowercase letters, digits and hyphens, the flag is the last word, and",
+  "the line ends there, so no heredoc, chain or redirect rides in on it.",
+  "",
   "NOT REACHED:",
   "  a run of `NAME=value` before one of them, which the shell sets rather than runs",
   "  `akasha` reached by a name that is not `akasha`, which the trigger never finds",
@@ -144,7 +169,7 @@ function pastAssignments(command: string): string {
 
 function approvedForm(command: string): boolean {
   const text = pastAssignments(command)
-  if (READ.test(text)) return true
+  if (READ.test(text) || HELPED.test(text)) return true
   const lines = text.split("\n")
   const opened = parseChangeOpening(lines[0] ?? "")
   return opened !== null && closedIn(lines, opened)
@@ -163,7 +188,7 @@ const SHOWN = 160
 const QUOTED_SAID = "This is the call refused, as the shell was handed it:"
 
 const MEASURED_SAID = [
-  "It is measured whole against the two forms below, so every word of it is part of the call,",
+  "It is measured whole against the forms below, so every word of it is part of the call,",
   "and anything outside one of those forms refuses it, whatever that thing is.",
 ]
 

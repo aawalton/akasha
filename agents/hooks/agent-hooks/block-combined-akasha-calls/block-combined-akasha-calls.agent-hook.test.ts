@@ -109,6 +109,52 @@ test("an apply asking for help is let through", () => {
   expect(refusalIn("akasha change apply -h")).toBe(null)
 })
 
+test("a read asking for help is let through", () => {
+  expect(refusalIn("akasha read --help")).toBe(null)
+  expect(refusalIn("akasha read -h")).toBe(null)
+})
+
+test("the change namespace asking for help is let through", () => {
+  expect(refusalIn("akasha change --help")).toBe(null)
+})
+
+test("a nested change command asking for help is let through", () => {
+  expect(refusalIn("akasha change subagent list --help")).toBe(null)
+  expect(refusalIn("akasha change subagent list -h")).toBe(null)
+})
+
+test("a nested change command with the words it takes is let through", () => {
+  expect(refusalIn("akasha change subagent list")).toBe(null)
+})
+
+test("a help flag chained onward is refused", () => {
+  expect(refusalIn("akasha change subagent list --help && rm -rf x")).toContain(NAMES)
+})
+
+test("a word after the help flag is refused", () => {
+  expect(refusalIn("akasha change subagent list --help --full")).toContain(NAMES)
+  expect(refusalIn("akasha read --help a.ts")).toContain(NAMES)
+})
+
+test("a help flag before the words naming the command is refused", () => {
+  expect(refusalIn("akasha change --help subagent list")).toContain(NAMES)
+})
+
+test("a help flag after a path or a quoted run is refused", () => {
+  expect(refusalIn("akasha read --file-path a.ts --help")).toContain(NAMES)
+  expect(refusalIn("akasha change draft 'a b' --help")).toContain(NAMES)
+})
+
+test("a help flag on a nested command opening a heredoc is refused", () => {
+  expect(
+    refusalIn("akasha change subagent list --help <<'HEREDOC'\nmessage: x\nHEREDOC")
+  ).toContain(NAMES)
+})
+
+test("a help flag piped onward is refused", () => {
+  expect(refusalIn("akasha read --help | head -3")).toContain(NAMES)
+})
+
 test("a body piped into an apply is refused", () => {
   expect(refusalIn("printf 'message: x' | akasha change apply")).toContain(NAMES)
 })
