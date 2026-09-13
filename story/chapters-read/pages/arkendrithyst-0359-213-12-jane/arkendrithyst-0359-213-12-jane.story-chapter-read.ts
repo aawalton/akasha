@@ -8,10 +8,15 @@ export const arkendrithyst035921312Jane = {
   position: 359,
   publishedAt: "2022-11-20",
   unit: "words",
-  externalId: "1045112",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1045112",
+      externalLink:
+        "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/1045112/213-12-jane",
+    },
+  ],
   title: "213, 1/2 - Jane",
   ownLength: 8066,
-  externalLink: "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/1045112/213-12-jane",
   prose: "txt",
 } as const satisfies StoryChapterRead

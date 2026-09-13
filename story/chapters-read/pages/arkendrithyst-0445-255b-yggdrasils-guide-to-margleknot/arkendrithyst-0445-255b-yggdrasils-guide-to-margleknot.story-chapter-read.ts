@@ -8,11 +8,15 @@ export const arkendrithyst0445255bYggdrasilsGuideToMargleknot = {
   position: 445,
   publishedAt: "2023-10-13",
   unit: "words",
-  externalId: "1372414",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1372414",
+      externalLink:
+        "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/1372414/255b-yggdrasils-guide-to-margleknot",
+    },
+  ],
   title: "255b, Yggdrasil's Guide to Margleknot",
   ownLength: 2177,
-  externalLink:
-    "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/1372414/255b-yggdrasils-guide-to-margleknot",
   prose: "txt",
 } as const satisfies StoryChapterRead

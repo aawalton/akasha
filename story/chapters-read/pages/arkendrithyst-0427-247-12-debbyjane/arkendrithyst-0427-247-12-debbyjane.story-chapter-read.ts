@@ -8,11 +8,15 @@ export const arkendrithyst042724712Debbyjane = {
   position: 427,
   publishedAt: "2023-07-30",
   unit: "words",
-  externalId: "1293885",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1293885",
+      externalLink:
+        "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/1293885/247-12-debbyjane",
+    },
+  ],
   title: "247, 1/2, Debby?Jane",
   ownLength: 12983,
-  externalLink:
-    "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/1293885/247-12-debbyjane",
   prose: "txt",
 } as const satisfies StoryChapterRead

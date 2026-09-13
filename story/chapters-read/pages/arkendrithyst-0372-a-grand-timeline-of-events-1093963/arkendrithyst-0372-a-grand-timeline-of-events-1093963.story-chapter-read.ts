@@ -8,11 +8,15 @@ export const arkendrithyst0372AGrandTimelineOfEvents1093963 = {
   position: 372,
   publishedAt: "2023-01-22",
   unit: "words",
-  externalId: "1093963",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1093963",
+      externalLink:
+        "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/1093963/a-grand-timeline-of-events",
+    },
+  ],
   title: "A Grand Timeline of Events",
   ownLength: 2196,
-  externalLink:
-    "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/1093963/a-grand-timeline-of-events",
   prose: "txt",
 } as const satisfies StoryChapterRead

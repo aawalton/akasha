@@ -12,9 +12,13 @@ export const arkendrithyst032019222EndOfBook6 = {
   unit: "words",
   completedAt: "2026-06-29T22:18:42.595Z",
   publishedAt: "2022-06-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/933444/192-22-end-of-book-6",
-  externalId: "933444",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "933444",
+      externalLink:
+        "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/933444/192-22-end-of-book-6",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const arkendrithyst0371219EpilogueBook7 = {
   unit: "words",
   completedAt: "2026-06-29T22:20:37.864Z",
   publishedAt: "2023-01-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/1076398/219-epilogue-book-7",
-  externalId: "1076398",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1076398",
+      externalLink:
+        "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/1076398/219-epilogue-book-7",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

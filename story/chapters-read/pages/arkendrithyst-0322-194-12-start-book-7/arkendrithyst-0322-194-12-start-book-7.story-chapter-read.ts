@@ -8,11 +8,15 @@ export const arkendrithyst032219412StartBook7 = {
   position: 322,
   publishedAt: "2022-07-10",
   unit: "words",
-  externalId: "945977",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "945977",
+      externalLink:
+        "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/945977/194-12-start-book-7",
+    },
+  ],
   title: "194, 1/2 - Start Book 7",
   ownLength: 7264,
-  externalLink:
-    "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/945977/194-12-start-book-7",
   prose: "txt",
 } as const satisfies StoryChapterRead
