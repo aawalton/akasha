@@ -19,7 +19,7 @@ mock.module(
 )
 
 const running = await import(
-  "akasha/infrastructure/services/workstations/pages/send-due-reminders.service-workstation.running.code.ts"
+  "akasha/infrastructure/services/workstations/pages/send-due-reminders/send-due-reminders.service-workstation.running.code.ts"
 )
 
 test("the run is a function the service runner can call with nothing handed", () => {

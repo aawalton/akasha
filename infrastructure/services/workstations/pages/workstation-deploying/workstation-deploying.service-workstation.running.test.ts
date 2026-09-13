@@ -23,7 +23,7 @@ mock.module(
 )
 
 const running = await import(
-  "akasha/infrastructure/services/workstations/pages/web-app-deploying.service-workstation.running.code.ts"
+  "akasha/infrastructure/services/workstations/pages/workstation-deploying/workstation-deploying.service-workstation.running.code.ts"
 )
 
 test("the run is a function taking nothing, which is how the service runner calls it", () => {
@@ -35,15 +35,15 @@ test("the run is the only way into this file, so the service has one entry", () 
   expect(Object.keys(running)).toEqual(["runService"])
 })
 
-test("a run turns one tick over the web app kind rather than any other", () => {
+test("a run turns one tick over the workstation kind rather than any other", () => {
   TICKED.length = 0
-  answer = { said: ["put `temper-web` up"], wrong: [] }
+  answer = { said: ["put `service-workstation` up"], wrong: [] }
   running.runService()
-  expect(TICKED).toEqual(["web-app"])
+  expect(TICKED).toEqual(["service-workstation"])
 })
 
 test("a tick that went wrong is thrown, so a failed run is a failed unit", () => {
   TICKED.length = 0
-  answer = { said: [], wrong: ["the tree would not move"] }
-  expect(() => running.runService()).toThrow("would not move")
+  answer = { said: [], wrong: ["which deploys are running was not answered"] }
+  expect(() => running.runService()).toThrow("was not answered")
 })

@@ -5,7 +5,7 @@ import {
   reachedFor,
   runNamedService,
 } from "akasha/infrastructure/services/workstations/modules/service-running/service-running.module.code.ts"
-import { runService } from "akasha/infrastructure/services/workstations/pages/sweep-log-days.service-workstation.running.code.ts"
+import { runService } from "akasha/infrastructure/services/workstations/pages/sweep-log-days/sweep-log-days.service-workstation.running.code.ts"
 import { checkoutHere } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 
 const ROOT = process.cwd()

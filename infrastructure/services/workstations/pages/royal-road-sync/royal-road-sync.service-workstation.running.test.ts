@@ -20,7 +20,7 @@ mock.module(
 )
 
 const running = await import(
-  "akasha/infrastructure/services/workstations/pages/royal-road-sync.service-workstation.running.code.ts"
+  "akasha/infrastructure/services/workstations/pages/royal-road-sync/royal-road-sync.service-workstation.running.code.ts"
 )
 
 test("the run is a function taking nothing, which is how the service runner calls it", () => {

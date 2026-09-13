@@ -14,7 +14,7 @@ mock.module("akasha/story/wandering-inn/modules/syncing/syncing.module.code.ts",
 }))
 
 const running = await import(
-  "akasha/infrastructure/services/workstations/pages/wandering-inn-sync.service-workstation.running.code.ts"
+  "akasha/infrastructure/services/workstations/pages/wandering-inn-sync/wandering-inn-sync.service-workstation.running.code.ts"
 )
 
 test("the run is a function taking nothing, which is how the service runner calls it", () => {

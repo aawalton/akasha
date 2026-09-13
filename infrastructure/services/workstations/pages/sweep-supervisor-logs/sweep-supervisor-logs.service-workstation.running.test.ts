@@ -1,19 +1,25 @@
 import { expect, mock, test } from "bun:test"
 
 const HANDED: (readonly string[])[] = []
+let CODE = 0
 
-const sweeping = await import("akasha/pages/modules/record-sweeping/record-sweeping.module.code.ts")
+const sweeping = await import(
+  "akasha/seat-system/supervising/modules/supervisor-log-sweeping/supervisor-log-sweeping.module.code.ts"
+)
 
-mock.module("akasha/pages/modules/record-sweeping/record-sweeping.module.code.ts", () => ({
-  ...sweeping,
-  sweepRecords: (argv: readonly string[]) => {
-    HANDED.push(argv)
-    return 0
-  },
-}))
+mock.module(
+  "akasha/seat-system/supervising/modules/supervisor-log-sweeping/supervisor-log-sweeping.module.code.ts",
+  () => ({
+    ...sweeping,
+    sweepSupervisorLogs: (argv: readonly string[]) => {
+      HANDED.push(argv)
+      return CODE
+    },
+  })
+)
 
 const running = await import(
-  "akasha/infrastructure/services/workstations/pages/sweep-cost-records.service-workstation.running.code.ts"
+  "akasha/infrastructure/services/workstations/pages/sweep-supervisor-logs/sweep-supervisor-logs.service-workstation.running.code.ts"
 )
 
 test("the run is a function taking nothing, which is how the service runner calls it", () => {
@@ -27,12 +33,14 @@ test("the run is the only way into this file, so the service has one entry", () 
 
 test("a run turns the sweeping module's own sweep rather than a sweep written again here", () => {
   HANDED.length = 0
+  CODE = 0
   running.runService()
   expect(HANDED).toEqual([["--remove"]])
 })
 
-test("the sweep is asked to remove, which is what a sweep needs to take a line away", () => {
+test("the sweep is asked to remove, which is what the unit's command line asks", () => {
   HANDED.length = 0
+  CODE = 0
   running.runService()
   expect(HANDED[0]).toContain("--remove")
 })
