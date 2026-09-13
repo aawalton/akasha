@@ -6,10 +6,6 @@ import { stringIn } from "akasha/utils/narrow/modules/string-in/string-in.module
 const SERVICE_TYPES = ["nextjs", "bun-service", "tool-image"] as const
 export type ServiceType = (typeof SERVICE_TYPES)[number]
 
-export function isServiceType(value: unknown): value is ServiceType {
-  return typeof value === "string" && SERVICE_TYPES.some((t) => t === value)
-}
-
 export interface ServiceConfig {
   type: ServiceType
   dir: string

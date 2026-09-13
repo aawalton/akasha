@@ -1,4 +1,3 @@
-import { join } from "node:path"
 import type {
   DockerfileExtensions,
   ServiceConfig,
@@ -33,24 +32,4 @@ export function generateToolImageDockerfile(
 
   lines.push("")
   return HEADER + lines.join("\n")
-}
-
-export function getOutputPath(
-  repoRoot: string,
-  config: ServiceConfig,
-  ext: DockerfileExtensions
-): string {
-  if (ext.output_filename != null && config.type === "tool-image") {
-    return join(repoRoot, config.dir, ext.output_filename)
-  }
-  if (ext.output_filename != null) {
-    return join(repoRoot, config.dir, "deploy", ext.output_filename)
-  }
-  if (config.type === "nextjs") {
-    return join(repoRoot, config.dir, "deploy/Dockerfile.nextjs")
-  }
-  if (config.type === "bun-service") {
-    return join(repoRoot, config.dir, "Dockerfile")
-  }
-  return join(repoRoot, config.dir, "deploy/Dockerfile")
 }
