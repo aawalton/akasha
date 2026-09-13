@@ -5,8 +5,56 @@ export const allAboutAlan = {
   type: "alan-book",
   slug: "all-about-alan",
   definition: "the notes on who Alan is",
+  parts: [
+    "page-type/all-about-alan-experiment",
+    "page-type/all-about-alan-model",
+    "page-type/all-about-alan-question",
+    "page-type/all-about-alan-topic",
+  ],
   title: "All About Alan",
   description:
     "This is the orientation an `/abby` interviewer loads before the first question. Its job is narrow and specific: surface the **unusual, easy-to-miss things** about Alan — the places where a normal-person prior would mislead you — so you don't open cold and don't spend the session re-deriving the architecture.",
   unit: "words",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The notes are part of Alan rather than a description of Alan.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "The notes have no queue of subjects to work through.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A loose end is a finding.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change here lands without Alan's review.",
+    },
+  ],
+  directives: [
+    {
+      directiveKind: "rule",
+      name: "Authorship",
+      act: "Never write a claim about Alan he has not made.",
+      warrant:
+        "An invented sentence looks like one he said, so it reads as fact and nobody checks it again.",
+      aids: [
+        "Write what he said, never what it implies.",
+        "Mark your own reading and you may write it.",
+      ],
+    },
+    {
+      directiveKind: "rule",
+      name: "Voice",
+      act: "Write every note in Alan's first person.",
+      warrant:
+        "A third-person note has the same facts, so nothing but the voice shows it is not his.",
+      aids: [
+        "Convert every sentence, not just what he said.",
+        "Your own marked reading stays in your voice.",
+      ],
+    },
+  ],
 } as const satisfies AlanBook

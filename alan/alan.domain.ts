@@ -7,7 +7,6 @@ export const alan = {
   definition: "what belongs to Alan himself",
   parts: [
     "domain/alan-harness",
-    "domain/all-about-alan",
     "domain/anime",
     "domain/atlas-app",
     "domain/authoring",
