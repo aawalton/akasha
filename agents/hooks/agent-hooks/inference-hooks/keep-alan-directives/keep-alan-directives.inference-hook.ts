@@ -94,7 +94,7 @@ export const keepAlanDirectives = {
     {
       invariantKind: "constraint",
       statement:
-        "Three runs in six reached no model while a bulk measurement ran on the same gateway.",
+        "Thirteen runs in twenty reached no model while a bulk measurement ran on the same gateway.",
     },
   ],
 } as const satisfies InferenceHook
