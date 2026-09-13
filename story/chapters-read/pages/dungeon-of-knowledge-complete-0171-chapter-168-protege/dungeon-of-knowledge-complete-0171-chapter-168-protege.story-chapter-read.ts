@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0171Chapter168Protege = {
   unit: "words",
   completedAt: "2026-06-29T20:16:49.366Z",
   publishedAt: "2024-12-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1949510/chapter-168-protege",
-  externalId: "1949510",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1949510",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1949510/chapter-168-protege",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

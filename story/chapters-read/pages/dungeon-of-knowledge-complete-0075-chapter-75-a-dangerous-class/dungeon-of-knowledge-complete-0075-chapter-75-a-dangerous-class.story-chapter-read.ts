@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0075Chapter75ADangerousClass = {
   unit: "words",
   completedAt: "2026-06-29T20:13:25.908Z",
   publishedAt: "2024-05-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1645053/chapter-75-a-dangerous-class",
-  externalId: "1645053",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1645053",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1645053/chapter-75-a-dangerous-class",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

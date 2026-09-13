@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0115Chapter114TheDefianceOfTheLowly = {
   unit: "words",
   completedAt: "2026-06-29T20:14:54.074Z",
   publishedAt: "2024-08-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1763906/chapter-114-the-defiance-of-the-lowly",
-  externalId: "1763906",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1763906",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1763906/chapter-114-the-defiance-of-the-lowly",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

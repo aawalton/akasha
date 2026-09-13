@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0159Chapter156EmberforgeMines = {
   unit: "words",
   completedAt: "2026-06-29T20:16:22.394Z",
   publishedAt: "2024-11-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1899351/chapter-156-emberforge-mines",
-  externalId: "1899351",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1899351",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1899351/chapter-156-emberforge-mines",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

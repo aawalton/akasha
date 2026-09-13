@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0129Chapter127Farming = {
   unit: "words",
   completedAt: "2026-06-29T20:15:25.085Z",
   publishedAt: "2024-09-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1793883/chapter-127-farming",
-  externalId: "1793883",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1793883",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1793883/chapter-127-farming",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

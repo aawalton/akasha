@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0200Chapter196ABrandNewGuildhall1Of2 = {
   unit: "words",
   completedAt: "2026-06-29T20:17:53.982Z",
   publishedAt: "2025-02-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2060869/chapter-196-a-brand-new-guildhall-1-of-2",
-  externalId: "2060869",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2060869",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2060869/chapter-196-a-brand-new-guildhall-1-of-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

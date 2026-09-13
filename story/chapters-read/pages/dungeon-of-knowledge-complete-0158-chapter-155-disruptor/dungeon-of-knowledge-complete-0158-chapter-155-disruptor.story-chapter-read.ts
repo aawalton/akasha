@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0158Chapter155Disruptor = {
   unit: "words",
   completedAt: "2026-06-29T20:16:19.912Z",
   publishedAt: "2024-11-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1895559/chapter-155-disruptor",
-  externalId: "1895559",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1895559",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1895559/chapter-155-disruptor",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

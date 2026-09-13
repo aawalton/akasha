@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0151Chapter148ForbiddenKnowledge = {
   unit: "words",
   completedAt: "2026-06-29T20:16:04.270Z",
   publishedAt: "2024-10-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1870813/chapter-148-forbidden-knowledge",
-  externalId: "1870813",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1870813",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1870813/chapter-148-forbidden-knowledge",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0048Chapter48Merchant = {
   unit: "words",
   completedAt: "2026-06-29T20:12:33.278Z",
   publishedAt: "2024-03-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1562840/chapter-48-merchant",
-  externalId: "1562840",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1562840",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1562840/chapter-48-merchant",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0186Chapter183HuntingUndeadInTheForest = 
   unit: "words",
   completedAt: "2026-06-29T20:17:22.961Z",
   publishedAt: "2025-01-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2009585/chapter-183-hunting-undead-in-the-forest",
-  externalId: "2009585",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2009585",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2009585/chapter-183-hunting-undead-in-the-forest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0172Chapter169MarketForces = {
   unit: "words",
   completedAt: "2026-06-29T20:16:51.497Z",
   publishedAt: "2024-12-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1952962/chapter-169-market-forces",
-  externalId: "1952962",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1952962",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1952962/chapter-169-market-forces",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

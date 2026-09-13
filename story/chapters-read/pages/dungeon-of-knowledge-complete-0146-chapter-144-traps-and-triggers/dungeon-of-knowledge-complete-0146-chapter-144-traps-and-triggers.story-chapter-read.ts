@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0146Chapter144TrapsAndTriggers = {
   unit: "words",
   completedAt: "2026-06-29T20:15:53.117Z",
   publishedAt: "2024-10-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1854809/chapter-144-traps-and-triggers",
-  externalId: "1854809",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1854809",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1854809/chapter-144-traps-and-triggers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

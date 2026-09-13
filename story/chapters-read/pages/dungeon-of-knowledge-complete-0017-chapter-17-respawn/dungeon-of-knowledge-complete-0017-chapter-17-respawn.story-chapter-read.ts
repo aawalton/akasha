@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0017Chapter17Respawn = {
   unit: "words",
   completedAt: "2026-06-29T20:11:33.982Z",
   publishedAt: "2024-02-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1516862/chapter-17-respawn",
-  externalId: "1516862",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1516862",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1516862/chapter-17-respawn",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

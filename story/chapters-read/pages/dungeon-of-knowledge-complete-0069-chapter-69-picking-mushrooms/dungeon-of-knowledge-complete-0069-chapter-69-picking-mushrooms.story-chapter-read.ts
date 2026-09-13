@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0069Chapter69PickingMushrooms = {
   unit: "words",
   completedAt: "2026-06-29T20:13:14.086Z",
   publishedAt: "2024-05-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1627039/chapter-69-picking-mushrooms",
-  externalId: "1627039",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1627039",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1627039/chapter-69-picking-mushrooms",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

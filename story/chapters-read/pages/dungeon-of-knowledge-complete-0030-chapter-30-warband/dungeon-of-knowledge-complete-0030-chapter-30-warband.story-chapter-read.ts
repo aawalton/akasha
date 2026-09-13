@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0030Chapter30Warband = {
   unit: "words",
   completedAt: "2026-06-29T20:11:58.914Z",
   publishedAt: "2024-02-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1532723/chapter-30-warband",
-  externalId: "1532723",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1532723",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1532723/chapter-30-warband",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

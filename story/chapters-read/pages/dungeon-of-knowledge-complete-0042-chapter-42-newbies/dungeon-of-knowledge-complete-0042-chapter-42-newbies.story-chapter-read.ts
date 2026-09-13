@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0042Chapter42Newbies = {
   unit: "words",
   completedAt: "2026-06-29T20:12:21.902Z",
   publishedAt: "2024-03-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1547737/chapter-42-newbies",
-  externalId: "1547737",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1547737",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1547737/chapter-42-newbies",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0044Chapter44TheGoblinHorde = {
   unit: "words",
   completedAt: "2026-06-29T20:12:25.698Z",
   publishedAt: "2024-03-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1551568/chapter-44-the-goblin-horde",
-  externalId: "1551568",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1551568",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1551568/chapter-44-the-goblin-horde",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

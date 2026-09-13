@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0132Chapter130Showdown = {
   unit: "words",
   completedAt: "2026-06-29T20:31:26.233Z",
   publishedAt: "2024-09-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1804347/chapter-130-showdown",
-  externalId: "1804347",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1804347",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1804347/chapter-130-showdown",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

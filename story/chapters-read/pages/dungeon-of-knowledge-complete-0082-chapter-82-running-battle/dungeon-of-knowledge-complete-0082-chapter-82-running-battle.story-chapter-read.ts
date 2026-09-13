@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0082Chapter82RunningBattle = {
   unit: "words",
   completedAt: "2026-06-29T20:13:41.000Z",
   publishedAt: "2024-06-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1666071/chapter-82-running-battle",
-  externalId: "1666071",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1666071",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1666071/chapter-82-running-battle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

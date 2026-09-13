@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0035Chapter35AdventurersGuild = {
   unit: "words",
   completedAt: "2026-06-29T20:12:08.477Z",
   publishedAt: "2024-03-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1539055/chapter-35-adventurers-guild",
-  externalId: "1539055",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1539055",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1539055/chapter-35-adventurers-guild",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

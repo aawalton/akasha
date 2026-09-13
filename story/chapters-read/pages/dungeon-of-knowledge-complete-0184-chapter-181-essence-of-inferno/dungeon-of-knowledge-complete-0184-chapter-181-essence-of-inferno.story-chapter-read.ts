@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0184Chapter181EssenceOfInferno = {
   unit: "words",
   completedAt: "2026-06-29T20:17:18.470Z",
   publishedAt: "2025-01-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2000751/chapter-181-essence-of-inferno",
-  externalId: "2000751",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2000751",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2000751/chapter-181-essence-of-inferno",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

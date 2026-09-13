@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0067Chapter67NewQuestsAtTheGuild = {
   unit: "words",
   completedAt: "2026-06-29T20:13:10.201Z",
   publishedAt: "2024-05-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1620320/chapter-67-new-quests-at-the-guild",
-  externalId: "1620320",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1620320",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1620320/chapter-67-new-quests-at-the-guild",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0168Chapter165HerFirstShield = {
   unit: "words",
   completedAt: "2026-06-29T20:16:42.859Z",
   publishedAt: "2024-12-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1937597/chapter-165-her-first-shield",
-  externalId: "1937597",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1937597",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1937597/chapter-165-her-first-shield",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

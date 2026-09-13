@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0144Chapter142GreatHunter = {
   unit: "words",
   completedAt: "2026-06-29T20:15:47.765Z",
   publishedAt: "2024-10-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1848343/chapter-142-great-hunter",
-  externalId: "1848343",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1848343",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1848343/chapter-142-great-hunter",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

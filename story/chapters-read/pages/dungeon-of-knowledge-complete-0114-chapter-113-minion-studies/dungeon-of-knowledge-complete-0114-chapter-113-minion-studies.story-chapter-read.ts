@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0114Chapter113MinionStudies = {
   unit: "words",
   completedAt: "2026-06-29T20:14:51.373Z",
   publishedAt: "2024-08-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1759618/chapter-113-minion-studies",
-  externalId: "1759618",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1759618",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1759618/chapter-113-minion-studies",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

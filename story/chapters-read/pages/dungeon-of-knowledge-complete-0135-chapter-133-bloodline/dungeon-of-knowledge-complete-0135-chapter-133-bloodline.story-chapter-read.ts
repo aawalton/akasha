@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0135Chapter133Bloodline = {
   unit: "words",
   completedAt: "2026-06-29T20:31:33.285Z",
   publishedAt: "2024-09-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1814639/chapter-133-bloodline",
-  externalId: "1814639",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1814639",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1814639/chapter-133-bloodline",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

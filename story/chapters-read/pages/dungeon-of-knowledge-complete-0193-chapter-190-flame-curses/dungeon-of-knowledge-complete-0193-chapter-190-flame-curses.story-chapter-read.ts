@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0193Chapter190FlameCurses = {
   unit: "words",
   completedAt: "2026-06-29T20:17:38.683Z",
   publishedAt: "2025-01-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2036228/chapter-190-flame-curses",
-  externalId: "2036228",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2036228",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2036228/chapter-190-flame-curses",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

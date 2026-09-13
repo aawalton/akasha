@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0109Chapter108Level40 = {
   unit: "words",
   completedAt: "2026-06-29T20:14:40.451Z",
   publishedAt: "2024-08-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1744472/chapter-108-level-40",
-  externalId: "1744472",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1744472",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1744472/chapter-108-level-40",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

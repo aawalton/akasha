@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0026Chapter26AncientMistress = {
   unit: "words",
   completedAt: "2026-06-29T20:11:51.145Z",
   publishedAt: "2024-02-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1528011/chapter-26-ancient-mistress",
-  externalId: "1528011",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1528011",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1528011/chapter-26-ancient-mistress",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

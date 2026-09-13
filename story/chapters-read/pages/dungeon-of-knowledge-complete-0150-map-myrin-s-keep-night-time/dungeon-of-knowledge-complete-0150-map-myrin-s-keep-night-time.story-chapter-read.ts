@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0150MapMyrinSKeepNightTime = {
   unit: "words",
   completedAt: "2026-06-29T20:16:02.069Z",
   publishedAt: "2024-10-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1870303/map-myrins-keep-night-time",
-  externalId: "1870303",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1870303",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1870303/map-myrins-keep-night-time",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0096Chapter95GuildDrama = {
   unit: "words",
   completedAt: "2026-06-29T20:14:11.194Z",
   publishedAt: "2024-07-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1708393/chapter-95-guild-drama",
-  externalId: "1708393",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1708393",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1708393/chapter-95-guild-drama",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

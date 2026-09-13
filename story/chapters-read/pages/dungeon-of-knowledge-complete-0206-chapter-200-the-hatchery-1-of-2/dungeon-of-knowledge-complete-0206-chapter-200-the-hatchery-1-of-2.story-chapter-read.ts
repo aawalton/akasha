@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0206Chapter200TheHatchery1Of2 = {
   unit: "words",
   completedAt: "2026-06-29T20:18:06.900Z",
   publishedAt: "2025-02-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2078855/chapter-200-the-hatchery-1-of-2",
-  externalId: "2078855",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2078855",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2078855/chapter-200-the-hatchery-1-of-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

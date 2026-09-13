@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0080Chapter80StunBat = {
   unit: "words",
   completedAt: "2026-06-29T20:13:36.564Z",
   publishedAt: "2024-06-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1660832/chapter-80-stun-bat",
-  externalId: "1660832",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1660832",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1660832/chapter-80-stun-bat",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

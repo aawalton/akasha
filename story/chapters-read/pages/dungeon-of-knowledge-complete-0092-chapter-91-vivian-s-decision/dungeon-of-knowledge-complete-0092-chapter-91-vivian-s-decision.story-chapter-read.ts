@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0092Chapter91VivianSDecision = {
   unit: "words",
   completedAt: "2026-06-29T20:14:02.536Z",
   publishedAt: "2024-06-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1695057/chapter-91-vivians-decision",
-  externalId: "1695057",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1695057",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1695057/chapter-91-vivians-decision",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

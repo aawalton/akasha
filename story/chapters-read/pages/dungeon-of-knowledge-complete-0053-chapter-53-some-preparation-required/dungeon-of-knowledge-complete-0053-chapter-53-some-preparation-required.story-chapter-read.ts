@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0053Chapter53SomePreparationRequired = {
   unit: "words",
   completedAt: "2026-06-29T20:12:43.194Z",
   publishedAt: "2024-04-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1577579/chapter-53-some-preparation-required",
-  externalId: "1577579",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1577579",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1577579/chapter-53-some-preparation-required",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

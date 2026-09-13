@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0058Chapter58ThatWhichLurksBelow = {
   unit: "words",
   completedAt: "2026-06-29T20:12:52.822Z",
   publishedAt: "2024-04-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1595050/chapter-58-that-which-lurks-below",
-  externalId: "1595050",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1595050",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1595050/chapter-58-that-which-lurks-below",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0061Chapter61PickingAFight = {
   unit: "words",
   completedAt: "2026-06-29T20:12:58.548Z",
   publishedAt: "2024-04-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1601061/chapter-61-picking-a-fight",
-  externalId: "1601061",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1601061",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1601061/chapter-61-picking-a-fight",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

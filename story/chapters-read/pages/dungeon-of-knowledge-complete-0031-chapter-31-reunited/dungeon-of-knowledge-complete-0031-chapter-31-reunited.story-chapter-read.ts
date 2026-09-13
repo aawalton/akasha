@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0031Chapter31Reunited = {
   unit: "words",
   completedAt: "2026-06-29T20:12:00.841Z",
   publishedAt: "2024-02-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1534020/chapter-31-reunited",
-  externalId: "1534020",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1534020",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1534020/chapter-31-reunited",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

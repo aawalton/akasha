@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0127MapMyrinSKeep = {
   unit: "words",
   completedAt: "2026-06-29T20:15:20.779Z",
   publishedAt: "2024-09-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1787995/map-myrins-keep",
-  externalId: "1787995",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1787995",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1787995/map-myrins-keep",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

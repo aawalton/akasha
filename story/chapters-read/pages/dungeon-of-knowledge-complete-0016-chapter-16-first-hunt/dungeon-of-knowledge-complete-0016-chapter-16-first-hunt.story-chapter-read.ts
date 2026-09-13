@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0016Chapter16FirstHunt = {
   unit: "words",
   completedAt: "2026-06-29T20:11:32.183Z",
   publishedAt: "2024-02-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1515650/chapter-16-first-hunt",
-  externalId: "1515650",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1515650",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1515650/chapter-16-first-hunt",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

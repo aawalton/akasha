@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0181Chapter178QuenchingTheFlame = {
   unit: "words",
   completedAt: "2026-06-29T20:17:11.740Z",
   publishedAt: "2025-01-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1987972/chapter-178-quenching-the-flame",
-  externalId: "1987972",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1987972",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1987972/chapter-178-quenching-the-flame",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

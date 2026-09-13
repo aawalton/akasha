@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0199Chapter195Demons = {
   unit: "words",
   completedAt: "2026-06-29T20:17:51.924Z",
   publishedAt: "2025-02-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2056974/chapter-195-demons",
-  externalId: "2056974",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2056974",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2056974/chapter-195-demons",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

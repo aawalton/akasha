@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0081Chapter81DealingWithWyverns = {
   unit: "words",
   completedAt: "2026-06-29T20:13:38.862Z",
   publishedAt: "2024-06-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1663439/chapter-81-dealing-with-wyverns",
-  externalId: "1663439",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1663439",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1663439/chapter-81-dealing-with-wyverns",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

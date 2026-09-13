@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0072Chapter72ASimpleProposal = {
   unit: "words",
   completedAt: "2026-06-29T20:13:20.041Z",
   publishedAt: "2024-05-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1635952/chapter-72-a-simple-proposal",
-  externalId: "1635952",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1635952",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1635952/chapter-72-a-simple-proposal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

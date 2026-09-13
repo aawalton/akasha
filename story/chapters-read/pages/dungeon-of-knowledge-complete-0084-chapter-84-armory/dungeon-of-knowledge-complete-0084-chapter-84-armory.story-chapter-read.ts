@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0084Chapter84Armory = {
   unit: "words",
   completedAt: "2026-06-29T20:13:45.262Z",
   publishedAt: "2024-06-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1672527/chapter-84-armory",
-  externalId: "1672527",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1672527",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1672527/chapter-84-armory",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0152Chapter149TheFirstBoss = {
   unit: "words",
   completedAt: "2026-06-29T20:16:06.477Z",
   publishedAt: "2024-10-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1874039/chapter-149-the-first-boss",
-  externalId: "1874039",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1874039",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1874039/chapter-149-the-first-boss",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

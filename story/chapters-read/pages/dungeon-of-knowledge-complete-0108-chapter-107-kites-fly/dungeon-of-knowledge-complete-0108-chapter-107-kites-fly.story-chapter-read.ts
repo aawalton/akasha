@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0108Chapter107KitesFly = {
   unit: "words",
   completedAt: "2026-06-29T20:14:38.298Z",
   publishedAt: "2024-08-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1741816/chapter-107-kites-fly",
-  externalId: "1741816",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1741816",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1741816/chapter-107-kites-fly",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0009Chapter9GroveWarden = {
   unit: "words",
   completedAt: "2026-06-29T20:11:18.343Z",
   publishedAt: "2024-02-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1506229/chapter-9-grove-warden",
-  externalId: "1506229",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1506229",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1506229/chapter-9-grove-warden",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

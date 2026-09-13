@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0062Chapter62SkeletalWyvern = {
   unit: "words",
   completedAt: "2026-06-29T20:13:00.494Z",
   publishedAt: "2024-04-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1604933/chapter-62-skeletal-wyvern",
-  externalId: "1604933",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1604933",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1604933/chapter-62-skeletal-wyvern",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

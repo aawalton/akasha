@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0154Chapter151PugFail = {
   unit: "words",
   completedAt: "2026-06-29T20:16:10.953Z",
   publishedAt: "2024-11-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1882771/chapter-151-pug-fail",
-  externalId: "1882771",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1882771",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1882771/chapter-151-pug-fail",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

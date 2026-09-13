@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0029Chapter29GoblinBugbears = {
   unit: "words",
   completedAt: "2026-06-29T20:11:56.985Z",
   publishedAt: "2024-02-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1531624/chapter-29-goblin-bugbears",
-  externalId: "1531624",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1531624",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1531624/chapter-29-goblin-bugbears",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

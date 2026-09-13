@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0068Chapter68TeaWithLydia = {
   unit: "words",
   completedAt: "2026-06-29T20:13:12.141Z",
   publishedAt: "2024-05-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1624388/chapter-68-tea-with-lydia",
-  externalId: "1624388",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1624388",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1624388/chapter-68-tea-with-lydia",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0104Chapter103HasteAndMana = {
   unit: "words",
   completedAt: "2026-06-29T20:14:29.430Z",
   publishedAt: "2024-07-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1731559/chapter-103-haste-and-mana",
-  externalId: "1731559",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1731559",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1731559/chapter-103-haste-and-mana",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

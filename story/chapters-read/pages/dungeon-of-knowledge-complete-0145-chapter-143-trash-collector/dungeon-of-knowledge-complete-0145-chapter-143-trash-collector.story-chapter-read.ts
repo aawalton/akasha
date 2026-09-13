@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0145Chapter143TrashCollector = {
   unit: "words",
   completedAt: "2026-06-29T20:15:50.068Z",
   publishedAt: "2024-10-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1851491/chapter-143-trash-collector",
-  externalId: "1851491",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1851491",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1851491/chapter-143-trash-collector",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

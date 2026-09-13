@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0153Chapter150ANameAndAQuest = {
   unit: "words",
   completedAt: "2026-06-29T20:16:08.771Z",
   publishedAt: "2024-10-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1877213/chapter-150-a-name-and-a-quest",
-  externalId: "1877213",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1877213",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1877213/chapter-150-a-name-and-a-quest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0185Chapter182TimberWolves = {
   unit: "words",
   completedAt: "2026-06-29T20:17:20.678Z",
   publishedAt: "2025-01-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2005783/chapter-182-timber-wolves",
-  externalId: "2005783",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2005783",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2005783/chapter-182-timber-wolves",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

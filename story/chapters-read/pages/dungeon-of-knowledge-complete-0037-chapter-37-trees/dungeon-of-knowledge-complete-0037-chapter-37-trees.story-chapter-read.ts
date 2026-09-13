@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0037Chapter37Trees = {
   unit: "words",
   completedAt: "2026-06-29T20:12:12.263Z",
   publishedAt: "2024-03-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1541269/chapter-37-trees",
-  externalId: "1541269",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1541269",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1541269/chapter-37-trees",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

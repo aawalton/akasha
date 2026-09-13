@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0143Chapter141TheDungeonSSurvivalGuide = 
   unit: "words",
   completedAt: "2026-06-29T20:15:45.654Z",
   publishedAt: "2024-10-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1843385/chapter-141-the-dungeons-survival-guide",
-  externalId: "1843385",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1843385",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1843385/chapter-141-the-dungeons-survival-guide",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

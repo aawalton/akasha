@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0012Chapter12WolvesRevisited = {
   unit: "words",
   completedAt: "2026-06-29T20:11:24.090Z",
   publishedAt: "2024-02-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1511072/chapter-12-wolves-revisited",
-  externalId: "1511072",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1511072",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1511072/chapter-12-wolves-revisited",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

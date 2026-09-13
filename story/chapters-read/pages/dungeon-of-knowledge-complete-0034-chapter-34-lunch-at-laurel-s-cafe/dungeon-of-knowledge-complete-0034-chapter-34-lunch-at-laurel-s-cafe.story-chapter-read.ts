@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0034Chapter34LunchAtLaurelSCafe = {
   unit: "words",
   completedAt: "2026-06-29T20:12:06.517Z",
   publishedAt: "2024-03-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1537757/chapter-34-lunch-at-laurels-cafe",
-  externalId: "1537757",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1537757",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1537757/chapter-34-lunch-at-laurels-cafe",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

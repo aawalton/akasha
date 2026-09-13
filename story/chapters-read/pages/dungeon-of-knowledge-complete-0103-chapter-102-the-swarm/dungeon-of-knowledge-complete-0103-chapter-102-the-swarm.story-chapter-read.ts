@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0103Chapter102TheSwarm = {
   unit: "words",
   completedAt: "2026-06-29T20:14:27.177Z",
   publishedAt: "2024-07-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1728988/chapter-102-the-swarm",
-  externalId: "1728988",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1728988",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1728988/chapter-102-the-swarm",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

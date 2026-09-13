@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0130Chapter128HeadLibrarian = {
   unit: "words",
   completedAt: "2026-06-29T20:31:21.854Z",
   publishedAt: "2024-09-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1796873/chapter-128-head-librarian",
-  externalId: "1796873",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1796873",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1796873/chapter-128-head-librarian",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

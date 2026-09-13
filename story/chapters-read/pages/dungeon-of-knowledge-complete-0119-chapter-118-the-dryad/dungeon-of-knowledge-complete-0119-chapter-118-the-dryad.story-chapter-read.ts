@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0119Chapter118TheDryad = {
   unit: "words",
   completedAt: "2026-06-29T20:15:02.870Z",
   publishedAt: "2024-08-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1769618/chapter-118-the-dryad",
-  externalId: "1769618",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1769618",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1769618/chapter-118-the-dryad",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

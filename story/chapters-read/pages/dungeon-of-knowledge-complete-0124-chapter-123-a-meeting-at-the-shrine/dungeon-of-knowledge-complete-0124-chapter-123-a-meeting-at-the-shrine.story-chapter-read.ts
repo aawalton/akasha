@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0124Chapter123AMeetingAtTheShrine = {
   unit: "words",
   completedAt: "2026-06-29T20:15:13.956Z",
   publishedAt: "2024-08-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1779416/chapter-123-a-meeting-at-the-shrine",
-  externalId: "1779416",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1779416",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1779416/chapter-123-a-meeting-at-the-shrine",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

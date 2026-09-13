@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0160Chapter157PortentousDivination = {
   unit: "words",
   completedAt: "2026-06-29T20:16:24.786Z",
   publishedAt: "2024-11-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1903249/chapter-157-portentous-divination",
-  externalId: "1903249",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1903249",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1903249/chapter-157-portentous-divination",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

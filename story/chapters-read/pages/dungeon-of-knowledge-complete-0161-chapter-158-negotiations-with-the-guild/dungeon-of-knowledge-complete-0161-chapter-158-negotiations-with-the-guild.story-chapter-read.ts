@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0161Chapter158NegotiationsWithTheGuild = 
   unit: "words",
   completedAt: "2026-06-29T20:16:26.891Z",
   publishedAt: "2024-11-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1909036/chapter-158-negotiations-with-the-guild",
-  externalId: "1909036",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1909036",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1909036/chapter-158-negotiations-with-the-guild",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

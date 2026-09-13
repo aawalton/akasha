@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0089Chapter89LifeDrain = {
   unit: "words",
   completedAt: "2026-06-29T20:13:55.777Z",
   publishedAt: "2024-06-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1689677/chapter-89-life-drain",
-  externalId: "1689677",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1689677",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1689677/chapter-89-life-drain",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

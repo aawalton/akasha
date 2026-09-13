@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0123Chapter122ElderTree = {
   unit: "words",
   completedAt: "2026-06-29T20:15:11.884Z",
   publishedAt: "2024-08-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1776555/chapter-122-elder-tree",
-  externalId: "1776555",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1776555",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1776555/chapter-122-elder-tree",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

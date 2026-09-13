@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0224Chapter209VisitingAnOldFriendPart2 = 
   unit: "words",
   completedAt: "2026-06-29T20:18:44.760Z",
   publishedAt: "2025-03-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2119728/chapter-209-visiting-an-old-friend-part-2",
-  externalId: "2119728",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2119728",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2119728/chapter-209-visiting-an-old-friend-part-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

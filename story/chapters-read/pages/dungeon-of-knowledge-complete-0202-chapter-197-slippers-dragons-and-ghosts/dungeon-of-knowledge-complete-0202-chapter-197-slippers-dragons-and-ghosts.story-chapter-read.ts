@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0202Chapter197SlippersDragonsAndGhosts = 
   unit: "words",
   completedAt: "2026-06-29T20:17:58.186Z",
   publishedAt: "2025-02-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2064714/chapter-197-slippers-dragons-and-ghosts",
-  externalId: "2064714",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2064714",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2064714/chapter-197-slippers-dragons-and-ghosts",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

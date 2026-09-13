@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0022Chapter22Ambush = {
   unit: "words",
   completedAt: "2026-06-29T20:11:43.486Z",
   publishedAt: "2024-02-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1523022/chapter-22-ambush",
-  externalId: "1523022",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1523022",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1523022/chapter-22-ambush",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

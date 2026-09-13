@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0166Chapter163BooksOfThePast = {
   unit: "words",
   completedAt: "2026-06-29T20:16:38.076Z",
   publishedAt: "2024-11-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1928746/chapter-163-books-of-the-past",
-  externalId: "1928746",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1928746",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1928746/chapter-163-books-of-the-past",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

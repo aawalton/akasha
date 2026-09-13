@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0015Chapter15LookMomIMABear = {
   unit: "words",
   completedAt: "2026-06-29T20:11:30.258Z",
   publishedAt: "2024-02-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1514400/chapter-15-look-mom-im-a-bear",
-  externalId: "1514400",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1514400",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1514400/chapter-15-look-mom-im-a-bear",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

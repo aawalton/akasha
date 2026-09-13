@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0209Chapter202TheEndInSight1Of2 = {
   unit: "words",
   completedAt: "2026-06-29T20:18:13.164Z",
   publishedAt: "2025-02-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2088814/chapter-202-the-end-in-sight-1-of-2",
-  externalId: "2088814",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2088814",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2088814/chapter-202-the-end-in-sight-1-of-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

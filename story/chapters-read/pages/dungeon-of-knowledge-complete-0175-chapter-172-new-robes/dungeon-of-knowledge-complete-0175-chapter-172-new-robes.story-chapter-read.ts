@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0175Chapter172NewRobes = {
   unit: "words",
   completedAt: "2026-06-29T20:16:58.364Z",
   publishedAt: "2024-12-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1964352/chapter-172-new-robes",
-  externalId: "1964352",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1964352",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1964352/chapter-172-new-robes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

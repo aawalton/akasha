@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0128Chapter126TheTreeSBalance = {
   unit: "words",
   completedAt: "2026-06-29T20:15:22.881Z",
   publishedAt: "2024-09-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1789458/chapter-126-the-trees-balance",
-  externalId: "1789458",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1789458",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1789458/chapter-126-the-trees-balance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

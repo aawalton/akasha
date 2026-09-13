@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0131Chapter129Necromancer = {
   unit: "words",
   completedAt: "2026-06-29T20:31:24.050Z",
   publishedAt: "2024-09-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1799944/chapter-129-necromancer",
-  externalId: "1799944",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1799944",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1799944/chapter-129-necromancer",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

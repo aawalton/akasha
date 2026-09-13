@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0091Chapter905FullStatusSheets = {
   unit: "words",
   completedAt: "2026-06-29T20:14:00.458Z",
   publishedAt: "2024-06-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1692500/chapter-905-full-status-sheets",
-  externalId: "1692500",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1692500",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1692500/chapter-905-full-status-sheets",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0014Chapter14Summoner = {
   unit: "words",
   completedAt: "2026-06-29T20:11:27.991Z",
   publishedAt: "2024-02-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1513412/chapter-14-summoner",
-  externalId: "1513412",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1513412",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1513412/chapter-14-summoner",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

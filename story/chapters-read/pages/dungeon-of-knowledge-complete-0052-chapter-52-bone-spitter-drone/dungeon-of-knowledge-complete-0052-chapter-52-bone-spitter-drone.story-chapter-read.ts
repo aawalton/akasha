@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0052Chapter52BoneSpitterDrone = {
   unit: "words",
   completedAt: "2026-06-29T20:12:41.125Z",
   publishedAt: "2024-03-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1574834/chapter-52-bone-spitter-drone",
-  externalId: "1574834",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1574834",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1574834/chapter-52-bone-spitter-drone",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

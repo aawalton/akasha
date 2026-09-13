@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0170Chapter167AWebOfFire = {
   unit: "words",
   completedAt: "2026-06-29T20:16:47.167Z",
   publishedAt: "2024-12-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1946362/chapter-167-a-web-of-fire",
-  externalId: "1946362",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1946362",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1946362/chapter-167-a-web-of-fire",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

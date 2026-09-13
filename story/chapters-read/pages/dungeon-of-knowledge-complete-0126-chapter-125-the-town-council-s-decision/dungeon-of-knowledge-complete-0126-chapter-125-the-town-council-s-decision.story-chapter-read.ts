@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0126Chapter125TheTownCouncilSDecision = {
   unit: "words",
   completedAt: "2026-06-29T20:15:18.290Z",
   publishedAt: "2024-09-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1786500/chapter-125-the-town-councils-decision",
-  externalId: "1786500",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1786500",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1786500/chapter-125-the-town-councils-decision",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

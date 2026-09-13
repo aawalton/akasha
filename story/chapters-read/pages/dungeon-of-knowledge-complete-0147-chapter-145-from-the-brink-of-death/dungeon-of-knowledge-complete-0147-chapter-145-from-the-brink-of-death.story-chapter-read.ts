@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0147Chapter145FromTheBrinkOfDeath = {
   unit: "words",
   completedAt: "2026-06-29T20:15:55.305Z",
   publishedAt: "2024-10-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1859562/chapter-145-from-the-brink-of-death",
-  externalId: "1859562",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1859562",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1859562/chapter-145-from-the-brink-of-death",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

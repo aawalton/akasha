@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0213Chapter204DungeonsKill2Of2 = {
   unit: "words",
   completedAt: "2026-06-29T20:18:21.601Z",
   publishedAt: "2025-02-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2092832/chapter-204-dungeons-kill-2-of-2",
-  externalId: "2092832",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2092832",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2092832/chapter-204-dungeons-kill-2-of-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

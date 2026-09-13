@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0216Chapter206HowADungeonGrowsPart1 = {
   unit: "words",
   completedAt: "2026-06-29T20:18:28.085Z",
   publishedAt: "2025-03-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2100996/chapter-206-how-a-dungeon-grows-part-1",
-  externalId: "2100996",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2100996",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2100996/chapter-206-how-a-dungeon-grows-part-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

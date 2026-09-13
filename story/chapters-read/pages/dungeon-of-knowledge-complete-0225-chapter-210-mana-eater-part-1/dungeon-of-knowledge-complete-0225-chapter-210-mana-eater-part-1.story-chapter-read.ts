@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0225Chapter210ManaEaterPart1 = {
   unit: "words",
   completedAt: "2026-06-29T20:18:46.728Z",
   publishedAt: "2025-03-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2123900/chapter-210-mana-eater-part-1",
-  externalId: "2123900",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2123900",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2123900/chapter-210-mana-eater-part-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0155Chapter152DeathSUnyieldingGrasp = {
   unit: "words",
   completedAt: "2026-06-29T20:16:13.188Z",
   publishedAt: "2024-11-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1884527/chapter-152-deaths-unyielding-grasp",
-  externalId: "1884527",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1884527",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1884527/chapter-152-deaths-unyielding-grasp",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

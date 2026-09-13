@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0188Chapter185FlamecallerHunter = {
   unit: "words",
   completedAt: "2026-06-29T20:17:27.879Z",
   publishedAt: "2025-01-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2018415/chapter-185-flamecaller-hunter",
-  externalId: "2018415",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2018415",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2018415/chapter-185-flamecaller-hunter",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

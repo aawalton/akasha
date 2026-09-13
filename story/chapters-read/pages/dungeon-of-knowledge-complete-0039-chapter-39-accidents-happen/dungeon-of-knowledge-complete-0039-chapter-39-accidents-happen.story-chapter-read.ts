@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0039Chapter39AccidentsHappen = {
   unit: "words",
   completedAt: "2026-06-29T20:12:16.114Z",
   publishedAt: "2024-03-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1543818/chapter-39-accidents-happen",
-  externalId: "1543818",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1543818",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1543818/chapter-39-accidents-happen",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

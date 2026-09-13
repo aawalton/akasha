@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0021Chapter21Withdrawal = {
   unit: "words",
   completedAt: "2026-06-29T20:11:41.605Z",
   publishedAt: "2024-02-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1521870/chapter-21-withdrawal",
-  externalId: "1521870",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1521870",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1521870/chapter-21-withdrawal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

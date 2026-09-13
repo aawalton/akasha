@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0005Chapter5TheStreetRatAndTheManaButterf
   unit: "words",
   completedAt: "2026-06-29T20:11:10.622Z",
   publishedAt: "2024-01-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1499836/chapter-5-the-street-rat-and-the-mana-butterfly",
-  externalId: "1499836",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1499836",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1499836/chapter-5-the-street-rat-and-the-mana-butterfly",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0032Chapter32TheNovasparkAcademyOfMagic =
   unit: "words",
   completedAt: "2026-06-29T20:12:02.643Z",
   publishedAt: "2024-02-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1535184/chapter-32-the-novaspark-academy-of-magic",
-  externalId: "1535184",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1535184",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1535184/chapter-32-the-novaspark-academy-of-magic",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

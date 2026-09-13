@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0141Chapter139DeathMagic = {
   unit: "words",
   completedAt: "2026-06-29T20:15:40.879Z",
   publishedAt: "2024-10-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1837267/chapter-139-death-magic",
-  externalId: "1837267",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1837267",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1837267/chapter-139-death-magic",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

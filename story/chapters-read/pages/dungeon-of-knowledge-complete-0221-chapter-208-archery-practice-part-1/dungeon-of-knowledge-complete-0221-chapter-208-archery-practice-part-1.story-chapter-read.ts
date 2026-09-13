@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0221Chapter208ArcheryPracticePart1 = {
   unit: "words",
   completedAt: "2026-06-29T20:18:38.386Z",
   publishedAt: "2025-03-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2115303/chapter-208-archery-practice-part-1",
-  externalId: "2115303",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2115303",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2115303/chapter-208-archery-practice-part-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

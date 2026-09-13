@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0060Chapter60ThuliSDream = {
   unit: "words",
   completedAt: "2026-06-29T20:12:56.609Z",
   publishedAt: "2024-04-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1598191/chapter-60-thulis-dream",
-  externalId: "1598191",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1598191",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1598191/chapter-60-thulis-dream",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

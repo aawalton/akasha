@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0049Chapter49Training = {
   unit: "words",
   completedAt: "2026-06-29T20:12:35.270Z",
   publishedAt: "2024-03-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1566556/chapter-49-training",
-  externalId: "1566556",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1566556",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1566556/chapter-49-training",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

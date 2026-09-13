@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0051Chapter51TheRuinsOfDalMohra = {
   unit: "words",
   completedAt: "2026-06-29T20:12:39.195Z",
   publishedAt: "2024-03-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1571280/chapter-51-the-ruins-of-dalmohra",
-  externalId: "1571280",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1571280",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1571280/chapter-51-the-ruins-of-dalmohra",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

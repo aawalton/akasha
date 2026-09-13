@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0097Chapter96AConversationWithADungeon = 
   unit: "words",
   completedAt: "2026-06-29T20:14:13.534Z",
   publishedAt: "2024-07-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1711000/chapter-96-a-conversation-with-a-dungeon",
-  externalId: "1711000",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1711000",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1711000/chapter-96-a-conversation-with-a-dungeon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0047Chapter47TheReadingCorner = {
   unit: "words",
   completedAt: "2026-06-29T20:12:31.475Z",
   publishedAt: "2024-03-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1560209/chapter-47-the-reading-corner",
-  externalId: "1560209",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1560209",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1560209/chapter-47-the-reading-corner",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

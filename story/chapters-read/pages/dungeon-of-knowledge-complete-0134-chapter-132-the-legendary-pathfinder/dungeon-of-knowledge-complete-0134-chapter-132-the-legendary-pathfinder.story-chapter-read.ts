@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0134Chapter132TheLegendaryPathfinder = {
   unit: "words",
   completedAt: "2026-06-29T20:31:30.742Z",
   publishedAt: "2024-09-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1810227/chapter-132-the-legendary-pathfinder",
-  externalId: "1810227",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1810227",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1810227/chapter-132-the-legendary-pathfinder",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

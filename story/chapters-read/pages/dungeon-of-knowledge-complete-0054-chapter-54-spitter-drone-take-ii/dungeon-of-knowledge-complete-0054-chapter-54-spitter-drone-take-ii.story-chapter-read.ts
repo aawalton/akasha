@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0054Chapter54SpitterDroneTakeIi = {
   unit: "words",
   completedAt: "2026-06-29T20:12:45.118Z",
   publishedAt: "2024-04-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1580453/chapter-54-spitter-drone-take-ii",
-  externalId: "1580453",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1580453",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1580453/chapter-54-spitter-drone-take-ii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

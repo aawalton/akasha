@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0110Chapter109ForestGuardian = {
   unit: "words",
   completedAt: "2026-06-29T20:14:42.604Z",
   publishedAt: "2024-08-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1747020/chapter-109-forest-guardian",
-  externalId: "1747020",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1747020",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1747020/chapter-109-forest-guardian",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

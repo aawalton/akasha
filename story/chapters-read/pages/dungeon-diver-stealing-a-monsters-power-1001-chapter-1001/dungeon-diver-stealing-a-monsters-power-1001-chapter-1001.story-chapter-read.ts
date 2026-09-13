@@ -12,9 +12,13 @@ export const dungeonDiverStealingAMonstersPower1001Chapter1001 = {
   unit: "words",
   completedAt: "2026-06-29T21:10:37.782Z",
   publishedAt: "2025-10-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/2677099/chapter-1001",
-  externalId: "2677099",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2677099",
+      externalLink:
+        "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/2677099/chapter-1001",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

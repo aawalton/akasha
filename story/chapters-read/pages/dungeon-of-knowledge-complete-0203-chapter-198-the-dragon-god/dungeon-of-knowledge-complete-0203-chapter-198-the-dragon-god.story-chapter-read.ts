@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0203Chapter198TheDragonGod = {
   unit: "words",
   completedAt: "2026-06-29T20:18:00.380Z",
   publishedAt: "2025-02-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2070555/chapter-198-the-dragon-god",
-  externalId: "2070555",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2070555",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2070555/chapter-198-the-dragon-god",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

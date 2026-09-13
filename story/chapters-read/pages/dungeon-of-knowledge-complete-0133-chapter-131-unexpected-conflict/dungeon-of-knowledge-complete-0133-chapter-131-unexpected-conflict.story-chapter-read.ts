@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0133Chapter131UnexpectedConflict = {
   unit: "words",
   completedAt: "2026-06-29T20:31:28.358Z",
   publishedAt: "2024-09-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1807319/chapter-131-unexpected-conflict",
-  externalId: "1807319",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1807319",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1807319/chapter-131-unexpected-conflict",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

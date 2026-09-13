@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0064Chapter64FireballFtw = {
   unit: "words",
   completedAt: "2026-06-29T20:13:04.374Z",
   publishedAt: "2024-04-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1610514/chapter-64-fireball-ftw",
-  externalId: "1610514",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1610514",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1610514/chapter-64-fireball-ftw",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

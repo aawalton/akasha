@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0157Chapter154AGiftForAFriend = {
   unit: "words",
   completedAt: "2026-06-29T20:16:17.575Z",
   publishedAt: "2024-11-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1890272/chapter-154-a-gift-for-a-friend",
-  externalId: "1890272",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1890272",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1890272/chapter-154-a-gift-for-a-friend",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

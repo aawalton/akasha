@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0111Chapter110BambooForest = {
   unit: "words",
   completedAt: "2026-06-29T20:14:44.868Z",
   publishedAt: "2024-08-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1749643/chapter-110-bamboo-forest",
-  externalId: "1749643",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1749643",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1749643/chapter-110-bamboo-forest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

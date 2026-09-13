@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0136Chapter134Hunter = {
   unit: "words",
   completedAt: "2026-06-29T20:31:35.624Z",
   publishedAt: "2024-09-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1817900/chapter-134-hunter",
-  externalId: "1817900",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1817900",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1817900/chapter-134-hunter",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

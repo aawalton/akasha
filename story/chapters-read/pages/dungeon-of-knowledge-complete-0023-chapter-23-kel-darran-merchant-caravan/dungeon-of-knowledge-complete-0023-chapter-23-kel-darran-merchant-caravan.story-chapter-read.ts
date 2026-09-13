@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0023Chapter23KelDarranMerchantCaravan = {
   unit: "words",
   completedAt: "2026-06-29T20:11:45.448Z",
   publishedAt: "2024-02-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1524260/chapter-23-keldarran-merchant-caravan",
-  externalId: "1524260",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1524260",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1524260/chapter-23-keldarran-merchant-caravan",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0028Chapter28AWalkThroughTheForest = {
   unit: "words",
   completedAt: "2026-06-29T20:11:55.042Z",
   publishedAt: "2024-02-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1530509/chapter-28-a-walk-through-the-forest",
-  externalId: "1530509",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1530509",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1530509/chapter-28-a-walk-through-the-forest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

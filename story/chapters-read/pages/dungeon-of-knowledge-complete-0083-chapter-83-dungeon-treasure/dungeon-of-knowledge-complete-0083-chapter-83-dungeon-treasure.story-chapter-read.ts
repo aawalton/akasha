@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0083Chapter83DungeonTreasure = {
   unit: "words",
   completedAt: "2026-06-29T20:13:43.159Z",
   publishedAt: "2024-06-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1669889/chapter-83-dungeon-treasure",
-  externalId: "1669889",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1669889",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1669889/chapter-83-dungeon-treasure",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

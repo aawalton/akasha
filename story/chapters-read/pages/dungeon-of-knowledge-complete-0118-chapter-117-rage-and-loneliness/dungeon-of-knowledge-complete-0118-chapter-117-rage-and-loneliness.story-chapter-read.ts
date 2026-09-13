@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0118Chapter117RageAndLoneliness = {
   unit: "words",
   completedAt: "2026-06-29T20:15:00.773Z",
   publishedAt: "2024-08-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1768146/chapter-117-rage-and-loneliness",
-  externalId: "1768146",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1768146",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1768146/chapter-117-rage-and-loneliness",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

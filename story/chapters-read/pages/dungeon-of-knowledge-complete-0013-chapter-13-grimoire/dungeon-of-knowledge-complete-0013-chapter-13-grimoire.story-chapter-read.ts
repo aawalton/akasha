@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0013Chapter13Grimoire = {
   unit: "words",
   completedAt: "2026-06-29T20:11:26.062Z",
   publishedAt: "2024-02-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1512214/chapter-13-grimoire",
-  externalId: "1512214",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1512214",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1512214/chapter-13-grimoire",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

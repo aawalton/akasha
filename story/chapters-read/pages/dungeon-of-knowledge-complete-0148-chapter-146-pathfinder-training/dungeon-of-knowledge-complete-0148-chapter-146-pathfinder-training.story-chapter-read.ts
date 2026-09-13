@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0148Chapter146PathfinderTraining = {
   unit: "words",
   completedAt: "2026-06-29T20:15:57.488Z",
   publishedAt: "2024-10-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1862823/chapter-146-pathfinder-training",
-  externalId: "1862823",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1862823",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1862823/chapter-146-pathfinder-training",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

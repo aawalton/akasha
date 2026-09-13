@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0070Chapter70TheUnawareDungeon = {
   unit: "words",
   completedAt: "2026-06-29T20:13:16.076Z",
   publishedAt: "2024-05-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1629498/chapter-70-the-unaware-dungeon",
-  externalId: "1629498",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1629498",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1629498/chapter-70-the-unaware-dungeon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0027Chapter27Insight = {
   unit: "words",
   completedAt: "2026-06-29T20:11:52.954Z",
   publishedAt: "2024-02-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1529217/chapter-27-insight",
-  externalId: "1529217",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1529217",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1529217/chapter-27-insight",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

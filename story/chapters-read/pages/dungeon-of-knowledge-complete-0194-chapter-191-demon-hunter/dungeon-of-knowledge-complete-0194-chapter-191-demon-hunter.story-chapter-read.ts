@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0194Chapter191DemonHunter = {
   unit: "words",
   completedAt: "2026-06-29T20:17:41.059Z",
   publishedAt: "2025-01-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2038054/chapter-191-demon-hunter",
-  externalId: "2038054",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2038054",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2038054/chapter-191-demon-hunter",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

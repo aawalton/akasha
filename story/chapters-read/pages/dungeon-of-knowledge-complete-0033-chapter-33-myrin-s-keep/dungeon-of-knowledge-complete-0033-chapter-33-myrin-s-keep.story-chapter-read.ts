@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0033Chapter33MyrinSKeep = {
   unit: "words",
   completedAt: "2026-06-29T20:12:04.572Z",
   publishedAt: "2024-02-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1536502/chapter-33-myrins-keep",
-  externalId: "1536502",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1536502",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1536502/chapter-33-myrins-keep",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

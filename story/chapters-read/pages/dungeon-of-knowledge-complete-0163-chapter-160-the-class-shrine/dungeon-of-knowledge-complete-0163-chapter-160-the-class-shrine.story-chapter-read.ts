@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0163Chapter160TheClassShrine = {
   unit: "words",
   completedAt: "2026-06-29T20:16:31.638Z",
   publishedAt: "2024-11-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1916184/chapter-160-the-class-shrine",
-  externalId: "1916184",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1916184",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1916184/chapter-160-the-class-shrine",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

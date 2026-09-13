@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0174Chapter171TheLanding = {
   unit: "words",
   completedAt: "2026-06-29T20:16:55.996Z",
   publishedAt: "2024-12-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1961126/chapter-171-the-landing",
-  externalId: "1961126",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1961126",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1961126/chapter-171-the-landing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

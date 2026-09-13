@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0087Chapter87BoneAndDeathTwinWights = {
   unit: "words",
   completedAt: "2026-06-29T20:13:51.573Z",
   publishedAt: "2024-06-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1681998/chapter-87-bone-and-death-twin-wights",
-  externalId: "1681998",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1681998",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1681998/chapter-87-bone-and-death-twin-wights",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0121Chapter120TheAftermath = {
   unit: "words",
   completedAt: "2026-06-29T20:15:07.168Z",
   publishedAt: "2024-08-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1772518/chapter-120-the-aftermath",
-  externalId: "1772518",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1772518",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1772518/chapter-120-the-aftermath",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

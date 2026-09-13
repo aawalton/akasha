@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0189Chapter186HellfireWarg = {
   unit: "words",
   completedAt: "2026-06-29T20:17:30.017Z",
   publishedAt: "2025-01-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2022025/chapter-186-hellfire-warg",
-  externalId: "2022025",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2022025",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2022025/chapter-186-hellfire-warg",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

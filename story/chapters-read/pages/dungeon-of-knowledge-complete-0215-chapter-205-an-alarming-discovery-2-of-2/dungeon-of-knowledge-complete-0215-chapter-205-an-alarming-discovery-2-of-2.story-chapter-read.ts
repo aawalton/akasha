@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0215Chapter205AnAlarmingDiscovery2Of2 = {
   unit: "words",
   completedAt: "2026-06-29T20:18:26.008Z",
   publishedAt: "2025-03-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2098832/chapter-205-an-alarming-discovery-2-of-2",
-  externalId: "2098832",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2098832",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2098832/chapter-205-an-alarming-discovery-2-of-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

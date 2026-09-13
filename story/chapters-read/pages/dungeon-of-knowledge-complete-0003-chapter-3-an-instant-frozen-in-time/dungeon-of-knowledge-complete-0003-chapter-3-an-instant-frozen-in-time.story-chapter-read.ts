@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0003Chapter3AnInstantFrozenInTime = {
   unit: "words",
   completedAt: "2026-06-29T20:11:06.882Z",
   publishedAt: "2024-01-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1499341/chapter-3-an-instant-frozen-in-time",
-  externalId: "1499341",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1499341",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1499341/chapter-3-an-instant-frozen-in-time",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

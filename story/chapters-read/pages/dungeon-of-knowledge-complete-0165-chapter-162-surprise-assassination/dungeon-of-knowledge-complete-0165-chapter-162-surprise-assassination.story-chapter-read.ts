@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0165Chapter162SurpriseAssassination = {
   unit: "words",
   completedAt: "2026-06-29T20:16:35.780Z",
   publishedAt: "2024-11-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1925267/chapter-162-surprise-assassination",
-  externalId: "1925267",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1925267",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1925267/chapter-162-surprise-assassination",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

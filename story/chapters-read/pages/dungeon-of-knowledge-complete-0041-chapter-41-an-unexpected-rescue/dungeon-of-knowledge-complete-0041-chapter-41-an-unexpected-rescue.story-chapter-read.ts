@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0041Chapter41AnUnexpectedRescue = {
   unit: "words",
   completedAt: "2026-06-29T20:12:19.974Z",
   publishedAt: "2024-03-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1546250/chapter-41-an-unexpected-rescue",
-  externalId: "1546250",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1546250",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1546250/chapter-41-an-unexpected-rescue",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

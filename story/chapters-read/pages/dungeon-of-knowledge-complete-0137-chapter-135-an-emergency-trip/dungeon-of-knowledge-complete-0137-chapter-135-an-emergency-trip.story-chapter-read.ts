@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0137Chapter135AnEmergencyTrip = {
   unit: "words",
   completedAt: "2026-06-29T20:15:27.323Z",
   publishedAt: "2024-09-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1821310/chapter-135-an-emergency-trip",
-  externalId: "1821310",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1821310",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1821310/chapter-135-an-emergency-trip",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

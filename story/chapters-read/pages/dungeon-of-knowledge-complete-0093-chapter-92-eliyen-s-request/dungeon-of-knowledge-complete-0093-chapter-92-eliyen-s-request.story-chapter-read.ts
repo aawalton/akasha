@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0093Chapter92EliyenSRequest = {
   unit: "words",
   completedAt: "2026-06-29T20:14:04.529Z",
   publishedAt: "2024-06-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1699104/chapter-92-eliyens-request",
-  externalId: "1699104",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1699104",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1699104/chapter-92-eliyens-request",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0149Chapter147ANecromancerSValue = {
   unit: "words",
   completedAt: "2026-06-29T20:15:59.804Z",
   publishedAt: "2024-10-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1866194/chapter-147-a-necromancers-value",
-  externalId: "1866194",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1866194",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1866194/chapter-147-a-necromancers-value",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

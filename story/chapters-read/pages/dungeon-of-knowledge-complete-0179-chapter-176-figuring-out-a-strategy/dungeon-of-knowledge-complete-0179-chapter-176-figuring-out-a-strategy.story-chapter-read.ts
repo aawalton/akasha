@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0179Chapter176FiguringOutAStrategy = {
   unit: "words",
   completedAt: "2026-06-29T20:17:07.382Z",
   publishedAt: "2024-12-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1980493/chapter-176-figuring-out-a-strategy",
-  externalId: "1980493",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1980493",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1980493/chapter-176-figuring-out-a-strategy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

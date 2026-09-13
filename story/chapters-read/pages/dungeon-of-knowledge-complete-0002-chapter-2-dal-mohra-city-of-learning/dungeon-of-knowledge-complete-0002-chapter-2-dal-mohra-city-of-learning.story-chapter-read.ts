@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0002Chapter2DalMohraCityOfLearning = {
   unit: "words",
   completedAt: "2026-06-29T20:11:04.923Z",
   publishedAt: "2024-01-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1499274/chapter-2-dalmohra-city-of-learning",
-  externalId: "1499274",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1499274",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1499274/chapter-2-dalmohra-city-of-learning",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

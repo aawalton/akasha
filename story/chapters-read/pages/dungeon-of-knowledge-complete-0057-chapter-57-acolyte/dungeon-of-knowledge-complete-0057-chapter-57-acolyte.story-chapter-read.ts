@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0057Chapter57Acolyte = {
   unit: "words",
   completedAt: "2026-06-29T20:12:50.967Z",
   publishedAt: "2024-04-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1590578/chapter-57-acolyte",
-  externalId: "1590578",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1590578",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1590578/chapter-57-acolyte",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

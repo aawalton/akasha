@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0001Chapter1AMeetingAtTheGrandLibraryArca
   unit: "words",
   completedAt: "2026-06-29T20:11:02.984Z",
   publishedAt: "2024-01-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1499133/chapter-1-a-meeting-at-the-grand-library-arcana",
-  externalId: "1499133",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1499133",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1499133/chapter-1-a-meeting-at-the-grand-library-arcana",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

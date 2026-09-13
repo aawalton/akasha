@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0020Chapter20Guilt = {
   unit: "words",
   completedAt: "2026-06-29T20:11:39.760Z",
   publishedAt: "2024-02-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1520530/chapter-20-guilt",
-  externalId: "1520530",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1520530",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1520530/chapter-20-guilt",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

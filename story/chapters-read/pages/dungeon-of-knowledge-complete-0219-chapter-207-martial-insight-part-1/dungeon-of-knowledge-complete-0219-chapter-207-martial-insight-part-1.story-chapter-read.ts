@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0219Chapter207MartialInsightPart1 = {
   unit: "words",
   completedAt: "2026-06-29T20:18:34.376Z",
   publishedAt: "2025-03-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2107816/chapter-207-martial-insight-part-1",
-  externalId: "2107816",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2107816",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2107816/chapter-207-martial-insight-part-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

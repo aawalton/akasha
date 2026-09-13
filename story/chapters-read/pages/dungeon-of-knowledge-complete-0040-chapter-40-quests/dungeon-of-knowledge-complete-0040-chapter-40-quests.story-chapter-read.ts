@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0040Chapter40Quests = {
   unit: "words",
   completedAt: "2026-06-29T20:12:18.046Z",
   publishedAt: "2024-03-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1545072/chapter-40-quests",
-  externalId: "1545072",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1545072",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1545072/chapter-40-quests",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

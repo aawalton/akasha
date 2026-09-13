@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0007Chapter7WolfPack = {
   unit: "words",
   completedAt: "2026-06-29T20:11:14.496Z",
   publishedAt: "2024-02-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1502817/chapter-7-wolf-pack",
-  externalId: "1502817",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1502817",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1502817/chapter-7-wolf-pack",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

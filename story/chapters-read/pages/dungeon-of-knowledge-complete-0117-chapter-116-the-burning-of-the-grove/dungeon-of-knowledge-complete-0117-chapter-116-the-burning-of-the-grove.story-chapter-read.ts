@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0117Chapter116TheBurningOfTheGrove = {
   unit: "words",
   completedAt: "2026-06-29T20:14:58.748Z",
   publishedAt: "2024-08-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1766796/chapter-116-the-burning-of-the-grove",
-  externalId: "1766796",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1766796",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1766796/chapter-116-the-burning-of-the-grove",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

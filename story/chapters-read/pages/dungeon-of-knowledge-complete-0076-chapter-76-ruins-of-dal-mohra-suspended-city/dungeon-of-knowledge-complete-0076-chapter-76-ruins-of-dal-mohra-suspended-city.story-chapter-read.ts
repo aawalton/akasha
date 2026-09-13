@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0076Chapter76RuinsOfDalMohraSuspendedCity
   unit: "words",
   completedAt: "2026-06-29T20:13:28.061Z",
   publishedAt: "2024-05-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1647749/chapter-76-ruins-of-dalmohra-suspended-city",
-  externalId: "1647749",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1647749",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1647749/chapter-76-ruins-of-dalmohra-suspended-city",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

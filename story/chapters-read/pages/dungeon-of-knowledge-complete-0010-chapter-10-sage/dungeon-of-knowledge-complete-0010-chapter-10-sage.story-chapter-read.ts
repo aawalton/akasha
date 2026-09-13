@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0010Chapter10Sage = {
   unit: "words",
   completedAt: "2026-06-29T20:11:20.269Z",
   publishedAt: "2024-02-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1508598/chapter-10-sage",
-  externalId: "1508598",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1508598",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1508598/chapter-10-sage",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

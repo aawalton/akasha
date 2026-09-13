@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0173Chapter170Broodmother = {
   unit: "words",
   completedAt: "2026-06-29T20:16:53.755Z",
   publishedAt: "2024-12-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1957743/chapter-170-broodmother",
-  externalId: "1957743",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1957743",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1957743/chapter-170-broodmother",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0006Chapter6SpidersAndRats = {
   unit: "words",
   completedAt: "2026-06-29T20:11:12.586Z",
   publishedAt: "2024-01-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1500549/chapter-6-spiders-and-rats",
-  externalId: "1500549",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1500549",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1500549/chapter-6-spiders-and-rats",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

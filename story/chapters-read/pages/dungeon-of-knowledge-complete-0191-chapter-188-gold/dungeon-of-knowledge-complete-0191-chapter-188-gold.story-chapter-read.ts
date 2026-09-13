@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0191Chapter188Gold = {
   unit: "words",
   completedAt: "2026-06-29T20:17:34.481Z",
   publishedAt: "2025-01-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2030876/chapter-188-gold",
-  externalId: "2030876",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2030876",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2030876/chapter-188-gold",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

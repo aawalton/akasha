@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0019Chapter19CircleOfRestoration = {
   unit: "words",
   completedAt: "2026-06-29T20:11:37.847Z",
   publishedAt: "2024-02-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1519279/chapter-19-circle-of-restoration",
-  externalId: "1519279",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1519279",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1519279/chapter-19-circle-of-restoration",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

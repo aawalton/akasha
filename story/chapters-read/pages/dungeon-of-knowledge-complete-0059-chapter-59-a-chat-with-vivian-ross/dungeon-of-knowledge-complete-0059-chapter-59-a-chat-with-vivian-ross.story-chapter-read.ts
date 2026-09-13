@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0059Chapter59AChatWithVivianRoss = {
   unit: "words",
   completedAt: "2026-06-29T20:12:54.773Z",
   publishedAt: "2024-04-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1596435/chapter-59-a-chat-with-vivian-ross",
-  externalId: "1596435",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1596435",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1596435/chapter-59-a-chat-with-vivian-ross",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

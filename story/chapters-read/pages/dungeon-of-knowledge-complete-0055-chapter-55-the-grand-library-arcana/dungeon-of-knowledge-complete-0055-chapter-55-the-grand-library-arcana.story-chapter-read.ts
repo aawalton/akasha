@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0055Chapter55TheGrandLibraryArcana = {
   unit: "words",
   completedAt: "2026-06-29T20:12:47.112Z",
   publishedAt: "2024-04-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1584702/chapter-55-the-grand-library-arcana",
-  externalId: "1584702",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1584702",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1584702/chapter-55-the-grand-library-arcana",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

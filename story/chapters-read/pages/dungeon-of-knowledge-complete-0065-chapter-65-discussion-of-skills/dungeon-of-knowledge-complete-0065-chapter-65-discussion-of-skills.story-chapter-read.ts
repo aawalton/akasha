@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0065Chapter65DiscussionOfSkills = {
   unit: "words",
   completedAt: "2026-06-29T20:13:06.324Z",
   publishedAt: "2024-04-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1614474/chapter-65-discussion-of-skills",
-  externalId: "1614474",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1614474",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1614474/chapter-65-discussion-of-skills",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0102Chapter101TheWanderer = {
   unit: "words",
   completedAt: "2026-06-29T20:14:24.900Z",
   publishedAt: "2024-07-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1726413/chapter-101-the-wanderer",
-  externalId: "1726413",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1726413",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1726413/chapter-101-the-wanderer",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

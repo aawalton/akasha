@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0095Chapter94BattleOfTheSteamVents = {
   unit: "words",
   completedAt: "2026-06-29T20:14:08.865Z",
   publishedAt: "2024-07-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1704447/chapter-94-battle-of-the-steam-vents",
-  externalId: "1704447",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1704447",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1704447/chapter-94-battle-of-the-steam-vents",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

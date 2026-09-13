@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0018Chapter18FireInTheDarkness = {
   unit: "words",
   completedAt: "2026-06-29T20:11:35.917Z",
   publishedAt: "2024-02-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1518186/chapter-18-fire-in-the-darkness",
-  externalId: "1518186",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1518186",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1518186/chapter-18-fire-in-the-darkness",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

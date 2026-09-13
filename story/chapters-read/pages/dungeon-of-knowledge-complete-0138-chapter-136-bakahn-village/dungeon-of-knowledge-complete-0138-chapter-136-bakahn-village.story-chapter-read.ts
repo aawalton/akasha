@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0138Chapter136BakahnVillage = {
   unit: "words",
   completedAt: "2026-06-29T20:15:29.235Z",
   publishedAt: "2024-09-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1826171/chapter-136-bakahn-village",
-  externalId: "1826171",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1826171",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1826171/chapter-136-bakahn-village",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0025Chapter25KoboldRogue = {
   unit: "words",
   completedAt: "2026-06-29T20:11:49.222Z",
   publishedAt: "2024-02-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1526821/chapter-25-kobold-rogue",
-  externalId: "1526821",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1526821",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1526821/chapter-25-kobold-rogue",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

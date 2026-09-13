@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0046Chapter46LooseEnds = {
   unit: "words",
   completedAt: "2026-06-29T20:12:29.577Z",
   publishedAt: "2024-03-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1557791/chapter-46-loose-ends",
-  externalId: "1557791",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1557791",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1557791/chapter-46-loose-ends",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

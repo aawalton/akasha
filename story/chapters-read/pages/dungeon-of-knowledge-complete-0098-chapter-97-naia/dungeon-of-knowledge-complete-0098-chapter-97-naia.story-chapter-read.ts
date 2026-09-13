@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0098Chapter97Naia = {
   unit: "words",
   completedAt: "2026-06-29T20:14:15.761Z",
   publishedAt: "2024-07-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1713710/chapter-97-naia",
-  externalId: "1713710",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1713710",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1713710/chapter-97-naia",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0099Chapter98Lake = {
   unit: "words",
   completedAt: "2026-06-29T20:14:17.848Z",
   publishedAt: "2024-07-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1717141/chapter-98-lake",
-  externalId: "1717141",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1717141",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1717141/chapter-98-lake",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

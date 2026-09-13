@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0195Chapter192PredatorAndPrey = {
   unit: "words",
   completedAt: "2026-06-29T20:17:43.168Z",
   publishedAt: "2025-02-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2043645/chapter-192-predator-and-prey",
-  externalId: "2043645",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2043645",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2043645/chapter-192-predator-and-prey",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

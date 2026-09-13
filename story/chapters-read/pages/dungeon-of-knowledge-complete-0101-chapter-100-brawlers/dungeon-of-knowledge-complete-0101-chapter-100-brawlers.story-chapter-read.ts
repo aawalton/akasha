@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0101Chapter100Brawlers = {
   unit: "words",
   completedAt: "2026-06-29T20:14:22.683Z",
   publishedAt: "2024-07-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1722490/chapter-100-brawlers",
-  externalId: "1722490",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1722490",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1722490/chapter-100-brawlers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

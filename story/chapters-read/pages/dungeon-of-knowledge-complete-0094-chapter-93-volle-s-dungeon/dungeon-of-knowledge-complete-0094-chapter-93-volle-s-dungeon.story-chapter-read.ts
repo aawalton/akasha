@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0094Chapter93VolleSDungeon = {
   unit: "words",
   completedAt: "2026-06-29T20:14:06.692Z",
   publishedAt: "2024-07-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1701832/chapter-93-volles-dungeon",
-  externalId: "1701832",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1701832",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1701832/chapter-93-volles-dungeon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

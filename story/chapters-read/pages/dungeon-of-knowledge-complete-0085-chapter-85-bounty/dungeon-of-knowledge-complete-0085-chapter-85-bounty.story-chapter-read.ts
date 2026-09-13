@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0085Chapter85Bounty = {
   unit: "words",
   completedAt: "2026-06-29T20:13:47.353Z",
   publishedAt: "2024-06-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1675148/chapter-85-bounty",
-  externalId: "1675148",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1675148",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1675148/chapter-85-bounty",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

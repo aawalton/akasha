@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0180Chapter177RunesOfFire = {
   unit: "words",
   completedAt: "2026-06-29T20:17:09.594Z",
   publishedAt: "2024-12-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1984109/chapter-177-runes-of-fire",
-  externalId: "1984109",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1984109",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1984109/chapter-177-runes-of-fire",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0167Chapter164FarmingFireResistance = {
   unit: "words",
   completedAt: "2026-06-29T20:16:40.581Z",
   publishedAt: "2024-12-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1933932/chapter-164-farming-fire-resistance",
-  externalId: "1933932",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1933932",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1933932/chapter-164-farming-fire-resistance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

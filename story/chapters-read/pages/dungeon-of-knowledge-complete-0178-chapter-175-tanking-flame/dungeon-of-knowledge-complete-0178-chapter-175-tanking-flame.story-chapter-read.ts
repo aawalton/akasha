@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0178Chapter175TankingFlame = {
   unit: "words",
   completedAt: "2026-06-29T20:17:05.088Z",
   publishedAt: "2024-12-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1975998/chapter-175-tanking-flame",
-  externalId: "1975998",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1975998",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1975998/chapter-175-tanking-flame",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

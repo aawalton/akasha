@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0086Chapter86TheOuterCityRing = {
   unit: "words",
   completedAt: "2026-06-29T20:13:49.220Z",
   publishedAt: "2024-06-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1679222/chapter-86-the-outer-city-ring",
-  externalId: "1679222",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1679222",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1679222/chapter-86-the-outer-city-ring",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

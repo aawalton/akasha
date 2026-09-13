@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0113Chapter112AFancyRock = {
   unit: "words",
   completedAt: "2026-06-29T20:14:49.342Z",
   publishedAt: "2024-08-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1756439/chapter-112-a-fancy-rock",
-  externalId: "1756439",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1756439",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1756439/chapter-112-a-fancy-rock",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

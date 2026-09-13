@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0106Chapter105TheHerbalistSChoice = {
   unit: "words",
   completedAt: "2026-06-29T20:14:33.860Z",
   publishedAt: "2024-07-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1737990/chapter-105-the-herbalists-choice",
-  externalId: "1737990",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1737990",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1737990/chapter-105-the-herbalists-choice",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

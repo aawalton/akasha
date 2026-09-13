@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0112Chapter111HowBadCanOneOozeBe = {
   unit: "words",
   completedAt: "2026-06-29T20:14:47.265Z",
   publishedAt: "2024-08-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1753689/chapter-111-how-bad-can-one-ooze-be",
-  externalId: "1753689",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1753689",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1753689/chapter-111-how-bad-can-one-ooze-be",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0078Chapter78SilverRank = {
   unit: "words",
   completedAt: "2026-06-29T20:13:32.375Z",
   publishedAt: "2024-05-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1654261/chapter-78-silver-rank",
-  externalId: "1654261",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1654261",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1654261/chapter-78-silver-rank",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

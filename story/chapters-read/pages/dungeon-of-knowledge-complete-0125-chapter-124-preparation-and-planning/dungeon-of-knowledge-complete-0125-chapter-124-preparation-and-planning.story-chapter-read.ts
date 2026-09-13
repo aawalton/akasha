@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0125Chapter124PreparationAndPlanning = {
   unit: "words",
   completedAt: "2026-06-29T20:15:16.166Z",
   publishedAt: "2024-09-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1783514/chapter-124-preparation-and-planning",
-  externalId: "1783514",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1783514",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1783514/chapter-124-preparation-and-planning",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

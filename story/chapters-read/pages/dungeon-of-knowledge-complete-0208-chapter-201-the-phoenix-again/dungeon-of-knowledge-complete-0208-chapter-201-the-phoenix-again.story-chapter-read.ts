@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0208Chapter201ThePhoenixAgain = {
   unit: "words",
   completedAt: "2026-06-29T20:18:11.051Z",
   publishedAt: "2025-02-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2084661/chapter-201-the-phoenix-again",
-  externalId: "2084661",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2084661",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2084661/chapter-201-the-phoenix-again",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

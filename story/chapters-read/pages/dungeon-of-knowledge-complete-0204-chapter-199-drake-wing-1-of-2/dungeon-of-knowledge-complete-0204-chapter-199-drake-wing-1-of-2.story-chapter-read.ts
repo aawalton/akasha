@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0204Chapter199DrakeWing1Of2 = {
   unit: "words",
   completedAt: "2026-06-29T20:18:02.570Z",
   publishedAt: "2025-02-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2074418/chapter-199-drake-wing-1-of-2",
-  externalId: "2074418",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2074418",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2074418/chapter-199-drake-wing-1-of-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0164Chapter161RaidAtTheShrine = {
   unit: "words",
   completedAt: "2026-06-29T20:16:33.694Z",
   publishedAt: "2024-11-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1921603/chapter-161-raid-at-the-shrine",
-  externalId: "1921603",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1921603",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1921603/chapter-161-raid-at-the-shrine",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

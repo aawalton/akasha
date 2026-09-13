@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0079Chapter79MitigationsForPoison = {
   unit: "words",
   completedAt: "2026-06-29T20:13:34.475Z",
   publishedAt: "2024-05-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1656877/chapter-79-mitigations-for-poison",
-  externalId: "1656877",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1656877",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1656877/chapter-79-mitigations-for-poison",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

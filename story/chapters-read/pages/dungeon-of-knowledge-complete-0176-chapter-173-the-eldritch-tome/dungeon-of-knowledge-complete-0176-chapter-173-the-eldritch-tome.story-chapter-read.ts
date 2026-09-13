@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0176Chapter173TheEldritchTome = {
   unit: "words",
   completedAt: "2026-06-29T20:17:00.604Z",
   publishedAt: "2024-12-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1969249/chapter-173-the-eldritch-tome",
-  externalId: "1969249",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1969249",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1969249/chapter-173-the-eldritch-tome",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0105Chapter104CalligraphyWorkbook = {
   unit: "words",
   completedAt: "2026-06-29T20:14:31.756Z",
   publishedAt: "2024-07-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1735285/chapter-104-calligraphy-workbook",
-  externalId: "1735285",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1735285",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1735285/chapter-104-calligraphy-workbook",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

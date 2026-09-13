@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0177Chapter174Mana = {
   unit: "words",
   completedAt: "2026-06-29T20:17:02.886Z",
   publishedAt: "2024-12-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1972860/chapter-174-mana",
-  externalId: "1972860",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1972860",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1972860/chapter-174-mana",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

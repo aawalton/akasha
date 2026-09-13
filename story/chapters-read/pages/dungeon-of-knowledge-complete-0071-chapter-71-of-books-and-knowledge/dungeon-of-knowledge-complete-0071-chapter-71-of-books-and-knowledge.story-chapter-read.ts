@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0071Chapter71OfBooksAndKnowledge = {
   unit: "words",
   completedAt: "2026-06-29T20:13:18.036Z",
   publishedAt: "2024-05-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1633435/chapter-71-of-books-and-knowledge",
-  externalId: "1633435",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1633435",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1633435/chapter-71-of-books-and-knowledge",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

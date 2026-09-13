@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0066Chapter66BoneSpire = {
   unit: "words",
   completedAt: "2026-06-29T20:13:08.272Z",
   publishedAt: "2024-04-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1617345/chapter-66-bone-spire",
-  externalId: "1617345",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1617345",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1617345/chapter-66-bone-spire",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0156Chapter153TheForgingOfARaidTeam = {
   unit: "words",
   completedAt: "2026-06-29T20:16:15.295Z",
   publishedAt: "2024-11-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1886588/chapter-153-the-forging-of-a-raid-team",
-  externalId: "1886588",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1886588",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1886588/chapter-153-the-forging-of-a-raid-team",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

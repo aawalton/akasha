@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0169Chapter166TheDungeonSFlames = {
   unit: "words",
   completedAt: "2026-06-29T20:16:45.006Z",
   publishedAt: "2024-12-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1941332/chapter-166-the-dungeons-flames",
-  externalId: "1941332",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1941332",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1941332/chapter-166-the-dungeons-flames",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

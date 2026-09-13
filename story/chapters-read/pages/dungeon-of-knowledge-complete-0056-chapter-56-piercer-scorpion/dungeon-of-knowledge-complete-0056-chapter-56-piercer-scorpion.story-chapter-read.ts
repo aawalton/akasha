@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0056Chapter56PiercerScorpion = {
   unit: "words",
   completedAt: "2026-06-29T20:12:49.046Z",
   publishedAt: "2024-04-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1587520/chapter-56-piercer-scorpion",
-  externalId: "1587520",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1587520",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1587520/chapter-56-piercer-scorpion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

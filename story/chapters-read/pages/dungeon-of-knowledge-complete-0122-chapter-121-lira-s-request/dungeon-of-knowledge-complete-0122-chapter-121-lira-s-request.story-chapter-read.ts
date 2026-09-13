@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0122Chapter121LiraSRequest = {
   unit: "words",
   completedAt: "2026-06-29T20:15:09.565Z",
   publishedAt: "2024-08-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1773666/chapter-121-liras-request",
-  externalId: "1773666",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1773666",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1773666/chapter-121-liras-request",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

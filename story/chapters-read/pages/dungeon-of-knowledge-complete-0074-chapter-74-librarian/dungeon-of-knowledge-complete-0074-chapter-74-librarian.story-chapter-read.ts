@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0074Chapter74Librarian = {
   unit: "words",
   completedAt: "2026-06-29T20:13:23.928Z",
   publishedAt: "2024-05-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1642559/chapter-74-librarian",
-  externalId: "1642559",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1642559",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1642559/chapter-74-librarian",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

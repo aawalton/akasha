@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0198Chapter194DinnerAndGuests2Of2 = {
   unit: "words",
   completedAt: "2026-06-29T20:17:49.694Z",
   publishedAt: "2025-02-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2051305/chapter-194-dinner-and-guests-2-of-2",
-  externalId: "2051305",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2051305",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2051305/chapter-194-dinner-and-guests-2-of-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

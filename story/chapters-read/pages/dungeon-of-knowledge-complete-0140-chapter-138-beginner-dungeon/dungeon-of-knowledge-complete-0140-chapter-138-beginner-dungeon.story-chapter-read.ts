@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0140Chapter138BeginnerDungeon = {
   unit: "words",
   completedAt: "2026-06-29T20:15:38.643Z",
   publishedAt: "2024-10-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1832853/chapter-138-beginner-dungeon",
-  externalId: "1832853",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1832853",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1832853/chapter-138-beginner-dungeon",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

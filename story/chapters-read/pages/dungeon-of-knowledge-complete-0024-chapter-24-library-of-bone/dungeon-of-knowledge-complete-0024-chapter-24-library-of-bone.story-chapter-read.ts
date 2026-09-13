@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0024Chapter24LibraryOfBone = {
   unit: "words",
   completedAt: "2026-06-29T20:11:47.396Z",
   publishedAt: "2024-02-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1525546/chapter-24-library-of-bone",
-  externalId: "1525546",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1525546",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1525546/chapter-24-library-of-bone",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

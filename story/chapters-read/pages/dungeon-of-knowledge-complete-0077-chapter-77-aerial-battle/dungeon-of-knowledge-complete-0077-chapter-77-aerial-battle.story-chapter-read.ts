@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0077Chapter77AerialBattle = {
   unit: "words",
   completedAt: "2026-06-29T20:13:30.195Z",
   publishedAt: "2024-05-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1651461/chapter-77-aerial-battle",
-  externalId: "1651461",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1651461",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1651461/chapter-77-aerial-battle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

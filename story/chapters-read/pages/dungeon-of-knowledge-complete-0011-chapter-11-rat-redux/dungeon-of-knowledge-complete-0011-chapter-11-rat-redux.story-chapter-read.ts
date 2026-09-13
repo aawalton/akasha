@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0011Chapter11RatRedux = {
   unit: "words",
   completedAt: "2026-06-29T20:11:22.227Z",
   publishedAt: "2024-02-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1509950/chapter-11-rat-redux",
-  externalId: "1509950",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1509950",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1509950/chapter-11-rat-redux",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

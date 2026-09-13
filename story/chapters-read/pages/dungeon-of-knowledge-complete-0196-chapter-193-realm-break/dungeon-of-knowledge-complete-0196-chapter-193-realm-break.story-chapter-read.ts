@@ -12,9 +12,13 @@ export const dungeonOfKnowledgeComplete0196Chapter193RealmBreak = {
   unit: "words",
   completedAt: "2026-06-29T20:17:45.205Z",
   publishedAt: "2025-02-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2047329/chapter-193-realm-break",
-  externalId: "2047329",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2047329",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2047329/chapter-193-realm-break",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead
