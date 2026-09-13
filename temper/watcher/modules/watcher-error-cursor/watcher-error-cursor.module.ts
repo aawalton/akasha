@@ -18,15 +18,20 @@ export const watcherErrorCursor = {
     },
     {
       invariantKind: "departure",
-      statement: "A cursor file that is no valid json reads as nothing carried up yet.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A cursor file of the wrong shape reads as nothing carried up yet.",
+      statement:
+        "A cursor file that is there and reads as no counts by signature refuses the error import.",
     },
     {
       invariantKind: "departure",
       statement: "A cursor is never partly read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal names the cursor file it read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that refuses leaves the cursor file as it was.",
     },
     {
       invariantKind: "departure",

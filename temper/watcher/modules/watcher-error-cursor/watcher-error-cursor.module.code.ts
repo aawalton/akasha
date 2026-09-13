@@ -11,13 +11,20 @@ export function cursorPath(): string {
   return join(watcherLogDir(), CURSOR_FILENAME)
 }
 
-export function parseErrorCursor(raw: string): ReadonlyMap<string, number> {
+export function unreadCursorWhy(path: string): string {
+  return `the error cursor at ${path} is no record of counts by signature, so reading it as nothing carried up yet would drop the history it holds and send every error up again`
+}
+
+export function parseErrorCursor(path: string, raw: string): ReadonlyMap<string, number> {
+  let parsed: unknown
   try {
-    const read = CURSOR_SHAPE.safeParse(JSON.parse(raw))
-    return read.success ? new Map(Object.entries(read.data)) : new Map()
+    parsed = JSON.parse(raw)
   } catch {
-    return new Map()
+    throw new Error(unreadCursorWhy(path))
   }
+  const read = CURSOR_SHAPE.safeParse(parsed)
+  if (!read.success) throw new Error(unreadCursorWhy(path))
+  return new Map(Object.entries(read.data))
 }
 
 export function serializeErrorCursor(seen: ReadonlyMap<string, number>): string {
@@ -28,11 +35,7 @@ export function serializeErrorCursor(seen: ReadonlyMap<string, number>): string 
 
 export function loadErrorCursor(path: string = cursorPath()): ReadonlyMap<string, number> {
   if (!existsSync(path)) return new Map()
-  try {
-    return parseErrorCursor(readFileSync(path, "utf8"))
-  } catch {
-    return new Map()
-  }
+  return parseErrorCursor(path, readFileSync(path, "utf8"))
 }
 
 export function saveErrorCursor(
