@@ -1,3 +1,9 @@
+import type {
+  ChildExitClassification,
+  ChildExitObservation,
+  ChildExitStatus,
+} from "akasha/agents/seats/supervisors/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
+import { STOP_REASON } from "akasha/agents/seats/supervisors/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
 import type { IdleObservation } from "akasha/agents/seats/supervisors/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import {
   INITIAL_PROXY_LIVENESS_STATE,
@@ -11,12 +17,6 @@ import {
   oneOf,
   str,
 } from "akasha/commands/modules/argument-narrowing/argument-narrowing.module.code.ts"
-import type {
-  ChildExitClassification,
-  ChildExitObservation,
-  ChildExitStatus,
-} from "akasha/seat-system/supervising/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
-import { STOP_REASON } from "akasha/seat-system/supervising/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
 import {
   type DeferredRestartConfig,
   type DeferredRestartObservation,

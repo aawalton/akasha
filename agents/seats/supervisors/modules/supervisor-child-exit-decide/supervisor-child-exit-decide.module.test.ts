@@ -5,7 +5,7 @@ import {
   decideShutdownExitWrite,
   decodeWaitStatus,
   STOP_REASON,
-} from "akasha/seat-system/supervising/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
+} from "akasha/agents/seats/supervisors/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
 
 test("a wait status carrying a signal is read as a signal rather than a code", () => {
   expect(decodeWaitStatus(15)).toEqual({ exitCode: null, signal: "SIGTERM" })

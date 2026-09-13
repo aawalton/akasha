@@ -1,3 +1,4 @@
+import type { ChildExitRuleSource } from "akasha/agents/seats/supervisors/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import { shouldWriteTerminalStoppedStatus } from "akasha/agents/seats/supervisors/modules/supervisor-lifecycle-death-write/supervisor-lifecycle-death-write.module.code.ts"
 import { teardownProxyVersionSubscription } from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 import { attemptInPlaceReExec } from "akasha/seat-system/self-healing/modules/supervisor-reexec/supervisor-reexec.module.code.ts"
@@ -8,7 +9,6 @@ import {
   SUPERVISOR_SCRIPT,
   teardownVersionSubscription,
 } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import type { ChildExitRuleSource } from "akasha/seat-system/supervising/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import { LOG } from "akasha/seat-system/supervising/modules/supervisor-config/supervisor-config.module.code.ts"
 import { takeSeatPage } from "akasha/seat-system/supervising/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import {

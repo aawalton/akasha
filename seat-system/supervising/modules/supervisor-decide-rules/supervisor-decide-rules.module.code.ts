@@ -1,4 +1,11 @@
 import {
+  classifyChildExit,
+  collapseChildExitStatus,
+  decideShutdownExitWrite,
+  decodeWaitStatus,
+  STOP_REASON,
+} from "akasha/agents/seats/supervisors/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
+import {
   isIdleForPreservingRestart,
   isIdleForPreservingRestartPastCliff,
   isIgnoredMcpChildCmdline,
@@ -26,13 +33,6 @@ import {
   computeReExecJitterMs,
   resolveMaxReExecJitterMs,
 } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-jitter-decide/supervisor-self-heal-jitter-decide.module.code.ts"
-import {
-  classifyChildExit,
-  collapseChildExitStatus,
-  decideShutdownExitWrite,
-  decodeWaitStatus,
-  STOP_REASON,
-} from "akasha/seat-system/supervising/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
 import {
   childExitClassification,
   childExitObservation,

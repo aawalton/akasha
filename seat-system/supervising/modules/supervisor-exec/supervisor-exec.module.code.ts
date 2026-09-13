@@ -1,6 +1,6 @@
 import { dlopen, FFIType, ptr } from "bun:ffi"
-import type { ChildExitStatus } from "akasha/seat-system/supervising/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
-import type { ChildExitRuleSource } from "akasha/seat-system/supervising/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
+import type { ChildExitStatus } from "akasha/agents/seats/supervisors/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
+import type { ChildExitRuleSource } from "akasha/agents/seats/supervisors/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import {
   collapse,
   folds,

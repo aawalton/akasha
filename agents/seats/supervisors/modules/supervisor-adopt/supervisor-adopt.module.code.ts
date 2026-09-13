@@ -3,14 +3,14 @@ import {
   buildClaudeArgv,
   refuseMissingCwd,
 } from "akasha/agents/claude-code/modules/claude-launch-args/claude-launch-args.module.code.ts"
-import type { SupervisorHandoff } from "akasha/seat-system/self-healing/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
-import type { ChildExitStatus } from "akasha/seat-system/supervising/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
-import type { ChildExitRuleSource } from "akasha/seat-system/supervising/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
+import type { ChildExitStatus } from "akasha/agents/seats/supervisors/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
+import type { ChildExitRuleSource } from "akasha/agents/seats/supervisors/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import {
   CLAUDE_CONFIG_PATH,
   readClaudeConfigDeclaration,
   reconcileClaudeConfig,
-} from "akasha/seat-system/supervising/modules/supervisor-claude-config/supervisor-claude-config.module.code.ts"
+} from "akasha/agents/seats/supervisors/modules/supervisor-claude-config/supervisor-claude-config.module.code.ts"
+import type { SupervisorHandoff } from "akasha/seat-system/self-healing/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
 import {
   HOME_DIR,
   LOG,

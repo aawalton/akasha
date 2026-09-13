@@ -8,7 +8,7 @@ import {
   type ChildExitStatus,
   STOP_REASON as DB_STOP_REASON,
   type ShutdownExitWrite,
-} from "akasha/seat-system/supervising/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
+} from "akasha/agents/seats/supervisors/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
 import type { AskDecide } from "akasha/seat-system/supervising/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"
 import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 

@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import {
   CLAUDE_CONFIG_PATH,
   expandHome,
   readClaudeConfigDeclaration,
   reconcileClaudeConfig,
-} from "akasha/seat-system/supervising/modules/supervisor-claude-config/supervisor-claude-config.module.code.ts"
+} from "akasha/agents/seats/supervisors/modules/supervisor-claude-config/supervisor-claude-config.module.code.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 
 test("a leading home token is expanded and one elsewhere is not", () => {
   expect(expandHome("$HOME/.claude", "/home/walton")).toBe("/home/walton/.claude")
