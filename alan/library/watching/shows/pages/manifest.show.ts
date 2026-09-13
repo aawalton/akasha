@@ -12,7 +12,12 @@ export const manifest = {
   unit: "minutes",
   status: "in-progress",
   publishedAt: "2018-09-24",
-  externalId: "manifest",
-  externalLink: "https://trakt.tv/shows/manifest",
-  lastSyncedAt: "2026-01-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "manifest",
+      externalLink: "https://trakt.tv/shows/manifest",
+      lastSyncedAt: "2026-01-01",
+    },
+  ],
 } as const satisfies Show

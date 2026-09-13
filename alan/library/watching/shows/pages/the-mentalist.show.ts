@@ -12,7 +12,12 @@ export const theMentalist = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2008-09-24",
-  externalId: "the-mentalist",
-  externalLink: "https://trakt.tv/shows/the-mentalist",
-  lastSyncedAt: "2026-01-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "the-mentalist",
+      externalLink: "https://trakt.tv/shows/the-mentalist",
+      lastSyncedAt: "2026-01-01",
+    },
+  ],
 } as const satisfies Show

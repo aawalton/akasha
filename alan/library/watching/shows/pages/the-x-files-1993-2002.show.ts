@@ -13,7 +13,12 @@ export const theXFiles19932002 = {
   status: "completed",
   rank: "B",
   publishedAt: "1993-09-11",
-  externalId: "the-x-files",
-  externalLink: "https://trakt.tv/shows/the-x-files",
-  lastSyncedAt: "2025-10-22",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "the-x-files",
+      externalLink: "https://trakt.tv/shows/the-x-files",
+      lastSyncedAt: "2025-10-22",
+    },
+  ],
 } as const satisfies Show

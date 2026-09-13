@@ -13,7 +13,12 @@ export const rwby2 = {
   status: "following",
   rank: "A",
   publishedAt: "2013-07-18",
-  externalId: "rwby",
-  externalLink: "https://trakt.tv/shows/rwby",
-  lastSyncedAt: "2026-01-16",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "rwby",
+      externalLink: "https://trakt.tv/shows/rwby",
+      lastSyncedAt: "2026-01-16",
+    },
+  ],
 } as const satisfies Show

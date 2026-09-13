@@ -13,7 +13,12 @@ export const accelWorld2 = {
   status: "completed",
   rank: "B",
   publishedAt: "2012-04-06",
-  externalId: "accel-world",
-  externalLink: "https://trakt.tv/shows/accel-world",
-  lastSyncedAt: "2025-10-13",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "accel-world",
+      externalLink: "https://trakt.tv/shows/accel-world",
+      lastSyncedAt: "2025-10-13",
+    },
+  ],
 } as const satisfies Show

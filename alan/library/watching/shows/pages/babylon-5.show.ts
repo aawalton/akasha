@@ -12,7 +12,12 @@ export const babylon5 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1994-01-27",
-  externalId: "babylon-5",
-  externalLink: "https://trakt.tv/shows/babylon-5",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "babylon-5",
+      externalLink: "https://trakt.tv/shows/babylon-5",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Show

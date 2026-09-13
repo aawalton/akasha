@@ -12,7 +12,12 @@ export const theTwilightZone2002 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2002-09-19",
-  externalId: "the-twilight-zone-2002",
-  externalLink: "https://trakt.tv/shows/the-twilight-zone-2002",
-  lastSyncedAt: "2025-10-30",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "the-twilight-zone-2002",
+      externalLink: "https://trakt.tv/shows/the-twilight-zone-2002",
+      lastSyncedAt: "2025-10-30",
+    },
+  ],
 } as const satisfies Show

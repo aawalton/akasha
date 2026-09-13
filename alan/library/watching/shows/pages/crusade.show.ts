@@ -12,7 +12,12 @@ export const crusade = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1999-06-10",
-  externalId: "crusade",
-  externalLink: "https://trakt.tv/shows/crusade",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "crusade",
+      externalLink: "https://trakt.tv/shows/crusade",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Show

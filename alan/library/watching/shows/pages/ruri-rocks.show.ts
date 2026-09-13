@@ -12,7 +12,12 @@ export const ruriRocks = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-07-06",
-  externalId: "ruri-rocks",
-  externalLink: "https://trakt.tv/shows/ruri-rocks",
-  lastSyncedAt: "2025-11-30",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "ruri-rocks",
+      externalLink: "https://trakt.tv/shows/ruri-rocks",
+      lastSyncedAt: "2025-11-30",
+    },
+  ],
 } as const satisfies Show

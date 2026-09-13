@@ -12,7 +12,12 @@ export const rwbyFairyTales = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-10-30",
-  externalId: "rwby-fairy-tales",
-  externalLink: "https://trakt.tv/shows/rwby-fairy-tales",
-  lastSyncedAt: "2025-10-13",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "rwby-fairy-tales",
+      externalLink: "https://trakt.tv/shows/rwby-fairy-tales",
+      lastSyncedAt: "2025-10-13",
+    },
+  ],
 } as const satisfies Show

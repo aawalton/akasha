@@ -13,7 +13,12 @@ export const soloLeveling = {
   status: "following",
   rank: "B",
   publishedAt: "2024-01-06",
-  externalId: "solo-leveling",
-  externalLink: "https://trakt.tv/shows/solo-leveling",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "solo-leveling",
+      externalLink: "https://trakt.tv/shows/solo-leveling",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Show

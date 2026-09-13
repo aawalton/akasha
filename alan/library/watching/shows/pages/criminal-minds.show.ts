@@ -13,7 +13,12 @@ export const criminalMinds = {
   status: "in-progress",
   rank: "C",
   publishedAt: "2005-09-22",
-  externalId: "criminal-minds",
-  externalLink: "https://trakt.tv/shows/criminal-minds",
-  lastSyncedAt: "2025-12-08",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "criminal-minds",
+      externalLink: "https://trakt.tv/shows/criminal-minds",
+      lastSyncedAt: "2025-12-08",
+    },
+  ],
 } as const satisfies Show
