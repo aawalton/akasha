@@ -18,15 +18,15 @@ export const folderGrouping = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder is asked of the index one folder at a time.",
+      statement: "A folder is read off the disk one folder at a time.",
     },
     {
       invariantKind: "absence",
-      statement: "No answer here reads every path the index files.",
+      statement: "No answer here walks below the folder that answer is about.",
     },
     {
       invariantKind: "departure",
-      statement: "The files in a folder are the index's answer joined to the paths a change adds.",
+      statement: "The files in a folder are the folder on disk joined to the paths a change adds.",
     },
     {
       invariantKind: "departure",
@@ -43,7 +43,7 @@ export const folderGrouping = {
     },
     {
       invariantKind: "departure",
-      statement: "Such a file is still among the files of a folder the index already answers.",
+      statement: "Such a file is still among the files of a folder the disk already holds.",
     },
     {
       invariantKind: "departure",

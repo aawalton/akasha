@@ -1,5 +1,8 @@
 import { folderOf } from "akasha/code/paths/modules/code-path-between/code-path-between.module.code.ts"
-import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
+import {
+  filesIn,
+  foldersIn,
+} from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { uncommittedHeld } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
@@ -28,7 +31,7 @@ export type Grouped = {
   readonly foldersIn: (folder: string) => readonly string[]
 }
 
-export function groupedOver(index: Answering, change: Change): Grouped {
+export function groupedOver(change: Change): Grouped {
   const added = new Map<string, Set<string>>()
   const gone = new Map<string, Set<string>>()
   const opened = new Map<string, Set<string>>()
@@ -52,7 +55,7 @@ export function groupedOver(index: Answering, change: Change): Grouped {
     at: (folder) => {
       const found = files.get(folder)
       if (found !== undefined) return found
-      const held = new Set<string>(index.filesIn(folder))
+      const held = new Set<string>(filesIn(change.root, folder))
       for (const one of added.get(folder) ?? []) held.add(one)
       for (const one of gone.get(folder) ?? []) held.delete(one)
       const made = [...held].sort()
@@ -62,7 +65,7 @@ export function groupedOver(index: Answering, change: Change): Grouped {
     foldersIn: (folder) => {
       const found = folders.get(folder)
       if (found !== undefined) return found
-      const held = new Set<string>(index.foldersIn(folder))
+      const held = new Set<string>(foldersIn(change.root, folder))
       for (const one of opened.get(folder) ?? []) held.add(one)
       const made = [...held].sort().filter((one) => !holdsNothing(grouped, one))
       folders.set(folder, made)

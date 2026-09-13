@@ -26,7 +26,7 @@ export function everyFolderIn(grouped: Grouped): readonly string[] {
 export function folderMatchesAShape(root: string): readonly Judged[] {
   const shadow = shadowAt(root)
   const change = everythingIn(root)
-  const grouped = groupedOver(shadow.index, change)
+  const grouped = groupedOver(change)
   const judging = judgingOver({ root, shadow, grouped })
   return judging.refusalsAt(everyFolderIn(grouped))
 }

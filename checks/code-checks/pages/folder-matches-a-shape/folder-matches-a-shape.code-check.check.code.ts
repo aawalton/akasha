@@ -78,7 +78,7 @@ export function foldersJudgedBy(
 }
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
-  const grouped = groupedOver(shadow.index, change)
+  const grouped = groupedOver(change)
   const judging = judgingOver({ root: change.root, shadow, grouped })
   const stated = shadow.index.fileKeysAt()
   const naming = reachingOf(shadow.index.manifestsBeside(stated), (path) => textIn(change, path))
