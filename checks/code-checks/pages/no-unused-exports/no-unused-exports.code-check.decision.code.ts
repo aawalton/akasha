@@ -116,6 +116,8 @@ const PROVING: ReadonlySet<string> = new Set(["test", "test-fixtures"])
 
 const FIXTURE = "test-fixture"
 
+const TEST = "test"
+
 function toldApart(name: string): boolean {
   return name !== ANYTHING && name !== DEFAULT
 }
@@ -269,6 +271,12 @@ function provesOnly(path: string): boolean {
   return last !== undefined && PROVING.has(last)
 }
 
+function provesAFixture(path: string): boolean {
+  const said = partedIn(path)
+  if (said === null || said.pageType !== FIXTURE) return false
+  return said.sections[said.sections.length - 1] === TEST
+}
+
 export function unreachedIn(
   path: string,
   text: string,
@@ -288,7 +296,7 @@ export function unreachedIn(
     if (importer === path) continue
     const body = bodyOf(importer)
     if (body === null) continue
-    const only = !proving && provesOnly(importer)
+    const only = proving ? provesAFixture(importer) : provesOnly(importer)
     for (const name of takenFrom(importer, body, path)) {
       if (name === ANYTHING) {
         if (!only) return []

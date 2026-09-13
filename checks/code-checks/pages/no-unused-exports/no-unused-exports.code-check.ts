@@ -76,6 +76,14 @@ export const noUnusedExports = {
     },
     {
       invariantKind: "departure",
+      statement: "A fixture's value only a fixture's own test names is unreached.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A fixture another fixture names is reached, and judged on its own.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A refusal for a value only a test names says so rather than saying nothing does.",
     },
     {

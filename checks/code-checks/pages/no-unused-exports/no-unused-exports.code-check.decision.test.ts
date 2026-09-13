@@ -16,6 +16,7 @@ import {
   EVERY_TEXT,
   FIXTURES_AT,
   FIXTURES_CODE_AT,
+  FIXTURES_PROVER,
   GENERATOR_AT,
   GENERATOR_TEXT,
   GUARD_AT,
@@ -37,6 +38,7 @@ import {
   PERFORMANCE_TEXT,
   PROVER,
   proving,
+  provingItsOwn,
   READER,
   ROOT_AT,
   ROOT_TEXT,
@@ -190,6 +192,19 @@ test("a value a test names in a test-fixture page's code is reached", () => {
 
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("`spare`")
+})
+
+test("a fixture's value its own test alone names is refused for that test", () => {
+  const root = rooted()
+  provingItsOwn(root, takenText("held", FIXTURES_CODE_AT))
+  importedAt(root, FIXTURES_CODE_AT, [FIXTURES_PROVER])
+
+  const said = judging(landing(root, { [FIXTURES_CODE_AT]: bytesOf(HELD_TEXT) })).map(
+    (one) => one.reason
+  )
+
+  expect(said).toHaveLength(2)
+  expect(said[0]).toContain("only a test names")
 })
 
 test("a file no file imports has every value it exports refused", () => {

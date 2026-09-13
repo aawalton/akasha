@@ -21,6 +21,8 @@ export const FIXTURES_AT = "akasha/held.module.test-fixtures.ts"
 
 export const FIXTURES_CODE_AT = "akasha/held.test-fixture.code.ts"
 
+export const FIXTURES_PROVER = "akasha/held.test-fixture.test.ts"
+
 export const HELD_TEXT = "export const held = 1\nexport const spare = 2\n"
 
 export const KEPT_TEXT =
@@ -163,4 +165,8 @@ export function reading(root: string, text: string): undefined {
 
 export function proving(root: string, text: string): undefined {
   put(root, PROVER, bytesOf(text))
+}
+
+export function provingItsOwn(root: string, text: string): undefined {
+  put(root, FIXTURES_PROVER, bytesOf(text))
 }
