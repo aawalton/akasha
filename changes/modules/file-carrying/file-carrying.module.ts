@@ -14,6 +14,22 @@ export const fileCarrying = {
     },
     {
       invariantKind: "departure",
+      statement: "A carry handing in no path is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path with no body, or landing where a body already sits, refuses the carry.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path landing where it already sits refuses the carry.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Whether a carry is refused is one question here rather than one in each caller.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The importers of everything that moved are asked of the index in one call.",
     },
     {

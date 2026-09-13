@@ -7,6 +7,16 @@ import { reachesIn } from "akasha/code/workspaces/modules/package-manifest/packa
 import { manifestsIn } from "akasha/pages/indexes/modules/package-reaching/package-reaching.module.code.ts"
 import { importingOf } from "akasha/pages/indexes/modules/path-naming/path-naming.module.code.ts"
 
+export function refusalOver(world: World, moved: ReadonlyMap<string, string>): string | null {
+  if (moved.size === 0) return "no path was handed in, so nothing is moved"
+  for (const [from, to] of moved) {
+    if (from === to) return `\`${to}\` is the path it already sits at`
+    if (world.bodyOf(from) === null) return `\`${from}\` holds no body, so nothing is moved`
+    if (world.bodyOf(to) !== null) return `\`${to}\` is a body already`
+  }
+  return null
+}
+
 export function movesOf(moved: ReadonlyMap<string, string>): readonly FileChange[] {
   const said: FileChange[] = []
   for (const [from, to] of moved) said.push({ kind: "move", pathFrom: from, pathTo: to })
