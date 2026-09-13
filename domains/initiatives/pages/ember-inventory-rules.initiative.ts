@@ -8,20 +8,14 @@ export const emberInventoryRules = {
   persona: "ember",
   intents: [
     {
-      statement: "The plan an item's tooltip states is the plan the venue carries out.",
+      statement: "A merchant or a banker opens without a wait Alan notices.",
       workingMemory:
-        "The tooltip re-evaluates the compiled rules; a venue reads the pending action `applyAction` recorded. `sell` recorded none, alone of eighteen, so the store fell back to the game's junk flag and an item ESO refuses to junk showed Sell and never sold. 80631ab records it, a238ade stops the plan counting it twice, 0b0341a names destroying. Six of the shape are left and latent: `stock` to the furniture vault, cross-character `fence-sell`, `character-equip`, `refine`, `mail`, `use`.",
+        "Alan notices a wait. The bank trace already records openHandlerMs, scanBankBagsMs, refreshPanelMs, withdrawMs, depositMs and a settling breakdown, and 8ff2273 keeps the last ten visits, so the spend is measurable rather than guessed. Suspect 66c358e7 first: it added refreshBackpackActions at bank open, a second full judging of the backpack beside the one freezeStockBackpackCounts already does over the same slots.",
     },
     {
-      statement: "The reading outside the game resolves a destination chain as the addon does.",
+      statement: "A banker stacks what the bags hold that will stack.",
       workingMemory:
-        "The addon reads research and crafting rank off the saved-variables blocks the reading off the game reads too, never a live game call, so the data was handed over rather than the addon's absent-as-false copied. ca39ecb and a5d23d6 hand `plan` and `explain` the crafting levels, cooldowns and transmute figures; 6e4e794 parses `traitResearch`. Rules 47 and 50 now reject rather than go indeterminate. edcae86 mends the addon matching a cased trait name against a lowered one.",
-    },
-    {
-      statement:
-        "An item the rules move to another place is moved once the character reaches that place.",
-      workingMemory:
-        "Root cause found and fixed in 66c358e7. The withdrawal side judged every storage slot before reading pending actions off it; the deposit side read the backpack cold. Its only writer outside a full rescan is the slot handler, which returns early on a non-default update reason and skips a slot already carrying an action it does not call stale. onOpenBank now calls refreshBackpackActions first. Left: Alan to confirm the Soul Gem goes on one visit.",
+        "Alan says the banker offers a Stack All Items action and asks whether it can simply be called. StackBag is already called on the backpack at login in inventory-events. Settle what the game exposes at a bank and call it rather than composing stacking here.",
     },
     {
       statement:

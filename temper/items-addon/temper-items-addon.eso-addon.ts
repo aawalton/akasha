@@ -180,6 +180,20 @@ export const temperItemsAddon = {
     },
     {
       invariantKind: "departure",
+      statement: "The plan an item's tooltip states is the plan the venue carries out.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An item the rules send elsewhere is moved the first time the character reaches that place.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The reading outside the game resolves an item to the action and place this addon resolves it to.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Moves at the bank go out in batches, a cooldown apart.",
     },
     {
