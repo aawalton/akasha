@@ -1,4 +1,3 @@
-import { decideProxyLiveness } from "akasha/agents/seats/supervisors/modules/proxy-liveness-decide/supervisor-proxy-liveness-decide.module.code.ts"
 import {
   isIdleForPreservingRestart,
   isIdleForPreservingRestartPastCliff,
@@ -13,6 +12,7 @@ import {
   decideProxyAdoption,
   type ProxyAdoptionInput,
 } from "akasha/agents/seats/supervisors/modules/supervisor-proxy-adoption-decide/supervisor-proxy-adoption-decide.module.code.ts"
+import { decideProxyLiveness } from "akasha/agents/seats/supervisors/modules/supervisor-proxy-liveness-decide/supervisor-proxy-liveness-decide.module.code.ts"
 import {
   arr,
   bool,
