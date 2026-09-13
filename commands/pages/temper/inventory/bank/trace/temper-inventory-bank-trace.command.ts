@@ -29,6 +29,15 @@ export const temperInventoryBankTrace = {
     },
     {
       invariantKind: "departure",
+      statement: "Each move a settle left unconfirmed is named under the round that left it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A move named says how much of its source stack moved and how much room its target had.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file with no trace refuses the call.",
     },
     {

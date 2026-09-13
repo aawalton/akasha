@@ -18,6 +18,7 @@ import { temperInventoryBankTrace as page } from "akasha/commands/pages/temper/i
 import type {
   BankTrace,
   BankTracePacedDispatch as PacedDispatch,
+  BankTracePacedMove as PacedMove,
 } from "akasha/temper/commands/modules/bank-trace-reading/bank-trace-reading.module.code.ts"
 import { readBankTraces } from "akasha/temper/commands/modules/bank-trace-reading/bank-trace-reading.module.code.ts"
 import {
@@ -32,6 +33,32 @@ const INVENTORY_LUA = "TemperInventory.lua"
 
 const NAMED = [visitArgument, json, inventoryPath]
 
+function moveSaid(one: PacedMove): string {
+  const landed = one.stackAtIssue - one.stackNow
+  const source =
+    landed === 0
+      ? `source ${one.stackAtIssue} unmoved`
+      : `source ${one.stackAtIssue}→${one.stackNow} (${landed} landed)`
+  const target =
+    one.targetStack === undefined || one.targetMax === undefined
+      ? "target unread"
+      : `target ${one.targetStack}/${one.targetMax} (room ${one.targetMax - one.targetStack})`
+  return (
+    `bag${one.sourceBag} slot${one.sourceSlot} → bag${one.targetBag} slot${one.targetSlot} ` +
+    `x${one.count} item ${one.itemId}, attempt ${one.attempts}, ${source}, ${target}`
+  )
+}
+
+function movesSaid(moves: readonly PacedMove[] | undefined): readonly string[] {
+  if (moves === undefined) return []
+  return moves.map((one) => `    ${moveSaid(one)}`)
+}
+
+function abandonedSaid(moves: readonly PacedMove[] | undefined): readonly string[] {
+  if (moves === undefined || moves.length === 0) return []
+  return [`  still in flight when the bank closed: ${moves.length}`, ...movesSaid(moves)]
+}
+
 function pacedSaid(paced: PacedDispatch | undefined): readonly string[] {
   if (paced === undefined) return ["paced dispatch: nil (pre-wave-3 trace or vault path)"]
   const aborted = paced.abortedEarly ? " ABORTED-EARLY" : ""
@@ -41,13 +68,19 @@ function pacedSaid(paced: PacedDispatch | undefined): readonly string[] {
   const rounds = paced.rounds
   if (rounds === undefined) return [head, "  rounds: nil (pre-v9 trace)"]
   if (rounds.length === 0) return [head, "  rounds: none — the batch never settled"]
+  const unnamed =
+    rounds[0]?.unconfirmed === undefined
+      ? ["  (pre-v10 trace — bank once more to be told which moves went unconfirmed)"]
+      : []
   return [
     head,
-    ...rounds.map(
-      (one, index) =>
-        `  round ${index + 1} at ${one.elapsedMs}ms: ` +
-        `confirmed ${one.confirmed}, retried ${one.retried}, left ${one.left}`
-    ),
+    ...unnamed,
+    ...rounds.flatMap((one, index) => [
+      `  round ${index + 1} at ${one.elapsedMs}ms: ` +
+        `confirmed ${one.confirmed}, retried ${one.retried}, left ${one.left}`,
+      ...movesSaid(one.unconfirmed),
+    ]),
+    ...abandonedSaid(paced.abandoned),
   ]
 }
 

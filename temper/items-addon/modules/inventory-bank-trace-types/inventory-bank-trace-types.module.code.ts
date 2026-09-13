@@ -28,11 +28,26 @@ export interface BankTraceSettling {
   unattributedMs?: number
 }
 
+export interface BankTracePacedMove {
+  sourceBag: number
+  sourceSlot: number
+  targetBag: number
+  targetSlot: number
+  count: number
+  attempts: number
+  itemId: number
+  stackAtIssue: number
+  stackNow: number
+  targetStack?: number
+  targetMax?: number
+}
+
 export interface BankTracePacedRound {
   elapsedMs: number
   confirmed: number
   retried: number
   left: number
+  unconfirmed?: BankTracePacedMove[]
 }
 
 export interface BankTracePacedDispatch {
@@ -43,6 +58,7 @@ export interface BankTracePacedDispatch {
   spanMs: number
   abortedEarly: boolean
   rounds?: BankTracePacedRound[]
+  abandoned?: BankTracePacedMove[]
 }
 
 export interface BankTraceStackingCount {

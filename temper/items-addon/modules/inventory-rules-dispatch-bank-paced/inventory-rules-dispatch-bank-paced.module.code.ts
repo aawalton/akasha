@@ -4,6 +4,7 @@ import {
 } from "akasha/temper/items-addon/modules/inventory-bank-trace/inventory-bank-trace.module.code.ts"
 import type {
   BankTracePacedDispatch,
+  BankTracePacedMove,
   BankTracePacedRound,
 } from "akasha/temper/items-addon/modules/inventory-bank-trace-types/inventory-bank-trace-types.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/items-addon/modules/inventory-constants/inventory-constants.module.code.ts"
@@ -36,8 +37,31 @@ interface IssuedMove {
   targetBag: number
   targetSlot: number
   count: number
+  itemId: number
+  stackAtIssue: number
   expectedRemaining: number
   attempts: number
+}
+
+function namedMove(move: IssuedMove): BankTracePacedMove {
+  const [stackNow] = GetSlotStackSize(move.sourceBag, move.sourceSlot)
+  const named: BankTracePacedMove = {
+    sourceBag: move.sourceBag,
+    sourceSlot: move.sourceSlot,
+    targetBag: move.targetBag,
+    targetSlot: move.targetSlot,
+    count: move.count,
+    attempts: move.attempts,
+    itemId: move.itemId,
+    stackAtIssue: move.stackAtIssue,
+    stackNow,
+  }
+  if (move.targetBag !== BAG_VIRTUAL) {
+    const [targetStack, targetMax] = GetSlotStackSize(move.targetBag, move.targetSlot)
+    named.targetStack = targetStack
+    named.targetMax = targetMax
+  }
+  return named
 }
 
 export function startPacedBankChain(
@@ -86,6 +110,9 @@ export function startPacedBankChain(
     EVENT_MANAGER.UnregisterForEvent(PACED_BANK_NS, EVENT_INVENTORY_SINGLE_SLOT_UPDATE)
     pacedBankRunning = false
     if (aborted) {
+      const abandoned: BankTracePacedMove[] = []
+      for (const move of inFlight) abandoned[abandoned.length] = namedMove(move)
+      if (abandoned.length > 0) stats.abandoned = abandoned
       let unsent = 0
       for (let i = index; i < queue.length; i++) {
         const step = queue[i]
@@ -145,12 +172,15 @@ export function startPacedBankChain(
       }
       const [srcStack] = GetSlotStackSize(step.sourceBag, step.sourceSlot)
       if (srcStack === 0) continue
+      const sourceLink = GetItemLink(step.sourceBag, step.sourceSlot, LINK_STYLE_BRACKETS)
       batch.push({
         sourceBag: step.sourceBag,
         sourceSlot: step.sourceSlot,
         targetBag: step.targetBag,
         targetSlot: step.targetSlot,
         count: step.count,
+        itemId: GetItemLinkItemId(sourceLink),
+        stackAtIssue: srcStack,
         expectedRemaining: expectedRemainderAfterMove(srcStack, step.count),
         attempts: 0,
       })
@@ -198,6 +228,7 @@ export function startPacedBankChain(
     if (!pacedBankRunning) return
     settleSerial++
     const unsettled: IssuedMove[] = []
+    const unconfirmed: BankTracePacedMove[] = []
     let retriedHere = 0
     let leftHere = 0
     for (const move of inFlight) {
@@ -207,6 +238,7 @@ export function startPacedBankChain(
         confirmedSinceIssue++
         continue
       }
+      unconfirmed[unconfirmed.length] = namedMove(move)
       if (move.attempts >= MAX_PACED_BANK_ATTEMPTS) {
         d(
           `[${ADDON_NAME}] Paced bank dispatch stalled at bag ${move.sourceBag} slot ${move.sourceSlot}, leaving it`
@@ -224,6 +256,7 @@ export function startPacedBankChain(
       confirmed: confirmedSinceIssue,
       retried: retriedHere,
       left: leftHere,
+      unconfirmed,
     }
     inFlight = unsettled
     recordPacedDispatch(stats)

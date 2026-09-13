@@ -51,6 +51,25 @@ export const inventoryRulesDispatchBankPaced = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A move unconfirmed at a settle is written down by its bags, its slots, its item and its count.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A move written down says what its source held when issued and what its source holds now.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A move written down says what its target slot holds and how much that slot takes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A move still in flight when the bank closed is written down as the chain ends.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Closing the bank ends the chain, and how many moves went unsent is said.",
     },
     {

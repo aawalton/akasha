@@ -28,12 +28,29 @@ const CRAFTING_SCHEMA = z
   })
   .strict()
 
+const PACED_MOVE_SCHEMA = z
+  .object({
+    sourceBag: z.number(),
+    sourceSlot: z.number(),
+    targetBag: z.number(),
+    targetSlot: z.number(),
+    count: z.number(),
+    attempts: z.number(),
+    itemId: z.number(),
+    stackAtIssue: z.number(),
+    stackNow: z.number(),
+    targetStack: z.number().optional(),
+    targetMax: z.number().optional(),
+  })
+  .strict()
+
 const PACED_ROUND_SCHEMA = z
   .object({
     elapsedMs: z.number(),
     confirmed: z.number(),
     retried: z.number(),
     left: z.number(),
+    unconfirmed: luaArrayOrEmpty(PACED_MOVE_SCHEMA).optional(),
   })
   .strict()
 
@@ -46,6 +63,7 @@ const PACED_DISPATCH_SCHEMA = z
     spanMs: z.number(),
     abortedEarly: z.boolean(),
     rounds: luaArrayOrEmpty(PACED_ROUND_SCHEMA).optional(),
+    abandoned: luaArrayOrEmpty(PACED_MOVE_SCHEMA).optional(),
   })
   .strict()
 
@@ -107,6 +125,8 @@ const TRACE_SCHEMA = z
 export type BankTraceBracket = z.infer<typeof BRACKET_SCHEMA>
 
 export type BankTraceSettling = z.infer<typeof SETTLING_SCHEMA>
+
+export type BankTracePacedMove = z.infer<typeof PACED_MOVE_SCHEMA>
 
 export type BankTracePacedDispatch = z.infer<typeof PACED_DISPATCH_SCHEMA>
 

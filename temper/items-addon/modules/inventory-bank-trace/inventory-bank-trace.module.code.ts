@@ -9,6 +9,7 @@ import type {
   BankTrace,
   BankTraceCraftingStats,
   BankTracePacedDispatch,
+  BankTracePacedMove,
   BankTracePacedRound,
   BankTraceStacking,
   VenueKind,
@@ -38,7 +39,7 @@ export function beginVenueTrace(venue: VenueKind, bankingBag: number): undefined
   visitGeneration += 1
   craftingAtOpen = readCraftingSlotHandlerStats()
   const trace: BankTrace = {
-    schemaVersion: 9,
+    schemaVersion: 10,
     timestamp: GetTimeStamp(),
     venue,
     bankingBag,
@@ -88,6 +89,27 @@ export function recordBankMoves(withdrawCount: number, depositCount: number): un
   activeTrace.moveCount = withdrawCount + depositCount
 }
 
+function copiedMoves(moves: BankTracePacedMove[] | undefined): BankTracePacedMove[] | undefined {
+  if (moves === undefined) return undefined
+  const kept: BankTracePacedMove[] = []
+  for (const move of moves) {
+    kept[kept.length] = {
+      sourceBag: move.sourceBag,
+      sourceSlot: move.sourceSlot,
+      targetBag: move.targetBag,
+      targetSlot: move.targetSlot,
+      count: move.count,
+      attempts: move.attempts,
+      itemId: move.itemId,
+      stackAtIssue: move.stackAtIssue,
+      stackNow: move.stackNow,
+      targetStack: move.targetStack,
+      targetMax: move.targetMax,
+    }
+  }
+  return kept
+}
+
 export function recordPacedDispatch(stats: BankTracePacedDispatch): undefined {
   if (activeTrace === undefined) return
   const rounds: BankTracePacedRound[] = []
@@ -97,6 +119,7 @@ export function recordPacedDispatch(stats: BankTracePacedDispatch): undefined {
       confirmed: round.confirmed,
       retried: round.retried,
       left: round.left,
+      unconfirmed: copiedMoves(round.unconfirmed),
     }
   }
   activeTrace.pacedDispatch = {
@@ -107,6 +130,7 @@ export function recordPacedDispatch(stats: BankTracePacedDispatch): undefined {
     spanMs: stats.spanMs,
     abortedEarly: stats.abortedEarly,
     rounds,
+    abandoned: copiedMoves(stats.abandoned),
   }
 }
 
