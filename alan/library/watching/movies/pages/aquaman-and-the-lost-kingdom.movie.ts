@@ -12,6 +12,11 @@ export const aquamanAndTheLostKingdom = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-12-22",
-  externalLink: "https://trakt.tv/movies/aquaman-and-the-lost-kingdom-2023",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/aquaman-and-the-lost-kingdom-2023",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

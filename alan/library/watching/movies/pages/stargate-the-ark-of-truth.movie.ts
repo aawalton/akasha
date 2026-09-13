@@ -12,6 +12,11 @@ export const stargateTheArkOfTruth = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2008-03-11",
-  externalLink: "https://trakt.tv/movies/stargate-the-ark-of-truth-2008",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/stargate-the-ark-of-truth-2008",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

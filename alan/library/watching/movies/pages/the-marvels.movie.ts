@@ -12,6 +12,11 @@ export const theMarvels = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-11-10",
-  externalLink: "https://trakt.tv/movies/the-marvels-2023",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/the-marvels-2023",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

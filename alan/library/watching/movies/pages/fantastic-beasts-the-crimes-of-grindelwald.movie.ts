@@ -13,6 +13,11 @@ export const fantasticBeastsTheCrimesOfGrindelwald = {
   status: "completed",
   rank: "B",
   publishedAt: "2018-11-16",
-  externalLink: "https://trakt.tv/movies/fantastic-beasts-the-crimes-of-grindelwald-2018",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/fantastic-beasts-the-crimes-of-grindelwald-2018",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

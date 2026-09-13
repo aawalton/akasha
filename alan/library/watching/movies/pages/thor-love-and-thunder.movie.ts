@@ -12,6 +12,11 @@ export const thorLoveAndThunder = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-07-07",
-  externalLink: "https://trakt.tv/movies/thor-love-and-thunder-2022",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/thor-love-and-thunder-2022",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

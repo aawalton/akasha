@@ -12,6 +12,11 @@ export const piratesOfTheCaribbeanDeadManSChest = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2006-07-07",
-  externalLink: "https://trakt.tv/movies/pirates-of-the-caribbean-dead-man-s-chest-2006",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/pirates-of-the-caribbean-dead-man-s-chest-2006",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

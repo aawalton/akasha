@@ -12,6 +12,11 @@ export const ironMan3 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-05-03",
-  externalLink: "https://trakt.tv/movies/iron-man-3-2013",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/iron-man-3-2013",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

@@ -12,6 +12,11 @@ export const captainAmericaTheWinterSoldier = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-04-04",
-  externalLink: "https://trakt.tv/movies/captain-america-the-winter-soldier-2014",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/captain-america-the-winter-soldier-2014",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

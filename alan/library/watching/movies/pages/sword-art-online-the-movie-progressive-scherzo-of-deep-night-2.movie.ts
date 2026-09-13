@@ -13,7 +13,12 @@ export const swordArtOnlineTheMovieProgressiveScherzoOfDeepNight2 = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-10-22",
-  externalLink:
-    "https://trakt.tv/movies/sword-art-online-the-movie-progressive-scherzo-of-deep-night-2022",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink:
+        "https://trakt.tv/movies/sword-art-online-the-movie-progressive-scherzo-of-deep-night-2022",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

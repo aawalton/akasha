@@ -12,6 +12,11 @@ export const battleForThePlanetOfTheApes = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1973-06-15",
-  externalLink: "https://trakt.tv/movies/battle-for-the-planet-of-the-apes-1973",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/battle-for-the-planet-of-the-apes-1973",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

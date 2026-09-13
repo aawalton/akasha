@@ -12,6 +12,11 @@ export const theGodfatherPartIi = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1974-12-20",
-  externalLink: "https://trakt.tv/movies/the-godfather-part-ii-1974",
-  lastSyncedAt: "2025-09-30",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/the-godfather-part-ii-1974",
+      lastSyncedAt: "2025-09-30",
+    },
+  ],
 } as const satisfies Movie

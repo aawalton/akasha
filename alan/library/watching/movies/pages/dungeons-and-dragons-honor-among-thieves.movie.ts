@@ -12,6 +12,11 @@ export const dungeonsAndDragonsHonorAmongThieves = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-03-31",
-  externalLink: "https://trakt.tv/movies/dungeons-dragons-honor-among-thieves-2023",
-  lastSyncedAt: "2025-09-30",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/dungeons-dragons-honor-among-thieves-2023",
+      lastSyncedAt: "2025-09-30",
+    },
+  ],
 } as const satisfies Movie

@@ -12,6 +12,11 @@ export const doctorStrangeInTheMultiverseOfMadness = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-05-06",
-  externalLink: "https://trakt.tv/movies/doctor-strange-in-the-multiverse-of-madness-2022",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/doctor-strange-in-the-multiverse-of-madness-2022",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

@@ -13,6 +13,11 @@ export const harryPotterAndTheHalfBloodPrince = {
   status: "completed",
   rank: "B",
   publishedAt: "2009-07-15",
-  externalLink: "https://trakt.tv/movies/harry-potter-and-the-half-blood-prince-2009",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/harry-potter-and-the-half-blood-prince-2009",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

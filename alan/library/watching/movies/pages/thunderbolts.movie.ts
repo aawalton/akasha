@@ -12,6 +12,11 @@ export const thunderbolts = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-05-02",
-  externalLink: "https://trakt.tv/movies/thunderbolts-2025",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/thunderbolts-2025",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

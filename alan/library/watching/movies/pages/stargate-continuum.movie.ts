@@ -12,6 +12,11 @@ export const stargateContinuum = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2008-07-29",
-  externalLink: "https://trakt.tv/movies/stargate-continuum-2008",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/stargate-continuum-2008",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

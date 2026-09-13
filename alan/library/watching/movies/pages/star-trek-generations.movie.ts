@@ -12,6 +12,11 @@ export const starTrekGenerations = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1994-11-18",
-  externalLink: "https://trakt.tv/movies/star-trek-generations-1994",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/star-trek-generations-1994",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

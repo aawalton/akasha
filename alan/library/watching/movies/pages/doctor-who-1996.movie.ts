@@ -12,6 +12,11 @@ export const doctorWho1996 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1996-05-14",
-  externalLink: "https://trakt.tv/movies/doctor-who-1996",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/doctor-who-1996",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

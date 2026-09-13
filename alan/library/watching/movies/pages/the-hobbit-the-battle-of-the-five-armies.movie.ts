@@ -13,6 +13,11 @@ export const theHobbitTheBattleOfTheFiveArmies = {
   status: "completed",
   rank: "B",
   publishedAt: "2014-12-17",
-  externalLink: "https://trakt.tv/movies/the-hobbit-the-battle-of-the-five-armies-2014",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/the-hobbit-the-battle-of-the-five-armies-2014",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

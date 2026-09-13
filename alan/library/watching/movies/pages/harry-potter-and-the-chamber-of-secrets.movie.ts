@@ -13,6 +13,11 @@ export const harryPotterAndTheChamberOfSecrets = {
   status: "completed",
   rank: "B",
   publishedAt: "2002-11-15",
-  externalLink: "https://trakt.tv/movies/harry-potter-and-the-chamber-of-secrets-2002",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/harry-potter-and-the-chamber-of-secrets-2002",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

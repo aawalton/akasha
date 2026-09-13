@@ -13,7 +13,12 @@ export const swordArtOnlineTheMovieProgressiveAriaOfAStarlessNight2 = {
   status: "completed",
   rank: "B",
   publishedAt: "2021-10-30",
-  externalLink:
-    "https://trakt.tv/movies/sword-art-online-the-movie-progressive-aria-of-a-starless-night-2021",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink:
+        "https://trakt.tv/movies/sword-art-online-the-movie-progressive-aria-of-a-starless-night-2021",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

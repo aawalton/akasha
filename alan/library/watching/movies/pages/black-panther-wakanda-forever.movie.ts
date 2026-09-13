@@ -12,6 +12,11 @@ export const blackPantherWakandaForever = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-11-11",
-  externalLink: "https://trakt.tv/movies/black-panther-wakanda-forever-2022",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/black-panther-wakanda-forever-2022",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

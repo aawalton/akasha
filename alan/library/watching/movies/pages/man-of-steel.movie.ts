@@ -12,6 +12,11 @@ export const manOfSteel = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-06-14",
-  externalLink: "https://trakt.tv/movies/man-of-steel-2013",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/man-of-steel-2013",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

@@ -12,6 +12,11 @@ export const captainAmericaBraveNewWorld = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-02-14",
-  externalLink: "https://trakt.tv/movies/captain-america-brave-new-world-2025",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/captain-america-brave-new-world-2025",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

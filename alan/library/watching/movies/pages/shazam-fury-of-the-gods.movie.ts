@@ -12,6 +12,11 @@ export const shazamFuryOfTheGods = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-03-17",
-  externalLink: "https://trakt.tv/movies/shazam-fury-of-the-gods-2023",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/shazam-fury-of-the-gods-2023",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

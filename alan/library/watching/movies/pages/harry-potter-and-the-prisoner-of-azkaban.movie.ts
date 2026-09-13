@@ -13,6 +13,11 @@ export const harryPotterAndThePrisonerOfAzkaban = {
   status: "completed",
   rank: "B",
   publishedAt: "2004-06-04",
-  externalLink: "https://trakt.tv/movies/harry-potter-and-the-prisoner-of-azkaban-2004",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/harry-potter-and-the-prisoner-of-azkaban-2004",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

@@ -12,6 +12,11 @@ export const stargate = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1994-10-28",
-  externalLink: "https://trakt.tv/movies/stargate-1994",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/stargate-1994",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Movie

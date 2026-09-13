@@ -12,6 +12,11 @@ export const thorRagnarok = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-11-03",
-  externalLink: "https://trakt.tv/movies/thor-ragnarok-2017",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/thor-ragnarok-2017",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

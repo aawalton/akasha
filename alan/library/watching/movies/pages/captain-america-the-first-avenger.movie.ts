@@ -12,6 +12,11 @@ export const captainAmericaTheFirstAvenger = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2011-07-22",
-  externalLink: "https://trakt.tv/movies/captain-america-the-first-avenger-2011",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/captain-america-the-first-avenger-2011",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

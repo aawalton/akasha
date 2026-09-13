@@ -12,7 +12,12 @@ export const gameOfThronesConquestAndRebellionAnAnimatedHistoryOfTheSeve = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2017-12-12",
-  externalLink:
-    "https://trakt.tv/movies/game-of-thrones-conquest-rebellion-an-animated-history-of-the-seven-kingdoms-2017",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink:
+        "https://trakt.tv/movies/game-of-thrones-conquest-rebellion-an-animated-history-of-the-seven-kingdoms-2017",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

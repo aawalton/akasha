@@ -13,6 +13,11 @@ export const harryPotterAndTheGobletOfFire = {
   status: "completed",
   rank: "B",
   publishedAt: "2005-11-18",
-  externalLink: "https://trakt.tv/movies/harry-potter-and-the-goblet-of-fire-2005",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/harry-potter-and-the-goblet-of-fire-2005",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

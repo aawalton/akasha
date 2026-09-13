@@ -12,6 +12,11 @@ export const spiderManNoWayHome = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-12-17",
-  externalLink: "https://trakt.tv/movies/spider-man-no-way-home-2021",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/spider-man-no-way-home-2021",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

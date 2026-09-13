@@ -12,6 +12,11 @@ export const spiderManFarFromHome = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-07-02",
-  externalLink: "https://trakt.tv/movies/spider-man-far-from-home-2019",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/spider-man-far-from-home-2019",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

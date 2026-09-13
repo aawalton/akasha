@@ -12,6 +12,11 @@ export const starTrekSection31 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-01-24",
-  externalLink: "https://trakt.tv/movies/star-trek-section-31-2025",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/star-trek-section-31-2025",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

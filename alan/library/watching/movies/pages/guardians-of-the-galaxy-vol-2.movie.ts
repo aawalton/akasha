@@ -12,6 +12,11 @@ export const guardiansOfTheGalaxyVol2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-05-05",
-  externalLink: "https://trakt.tv/movies/guardians-of-the-galaxy-vol-2-2017",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/guardians-of-the-galaxy-vol-2-2017",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

@@ -12,6 +12,11 @@ export const starTrekFirstContact = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1996-11-22",
-  externalLink: "https://trakt.tv/movies/star-trek-first-contact-1996",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/star-trek-first-contact-1996",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

@@ -12,6 +12,11 @@ export const dawnOfThePlanetOfTheApes = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2014-07-11",
-  externalLink: "https://trakt.tv/movies/dawn-of-the-planet-of-the-apes-2014",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/dawn-of-the-planet-of-the-apes-2014",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

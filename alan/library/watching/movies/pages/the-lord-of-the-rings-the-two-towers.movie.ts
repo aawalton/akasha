@@ -13,6 +13,11 @@ export const theLordOfTheRingsTheTwoTowers = {
   status: "completed",
   rank: "A",
   publishedAt: "2002-12-18",
-  externalLink: "https://trakt.tv/movies/the-lord-of-the-rings-the-two-towers-2002",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/the-lord-of-the-rings-the-two-towers-2002",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

@@ -13,6 +13,11 @@ export const fantasticBeastsTheSecretsOfDumbledore = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-04-15",
-  externalLink: "https://trakt.tv/movies/fantastic-beasts-the-secrets-of-dumbledore-2022",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/fantastic-beasts-the-secrets-of-dumbledore-2022",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

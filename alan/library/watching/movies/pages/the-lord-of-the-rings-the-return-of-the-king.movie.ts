@@ -13,6 +13,11 @@ export const theLordOfTheRingsTheReturnOfTheKing = {
   status: "completed",
   rank: "A",
   publishedAt: "2003-12-17",
-  externalLink: "https://trakt.tv/movies/the-lord-of-the-rings-the-return-of-the-king-2003",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/the-lord-of-the-rings-the-return-of-the-king-2003",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

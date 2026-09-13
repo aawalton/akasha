@@ -13,6 +13,11 @@ export const theHobbitTheDesolationOfSmaug = {
   status: "completed",
   rank: "B",
   publishedAt: "2013-12-13",
-  externalLink: "https://trakt.tv/movies/the-hobbit-the-desolation-of-smaug-2013",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/the-hobbit-the-desolation-of-smaug-2013",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

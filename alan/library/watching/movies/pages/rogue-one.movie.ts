@@ -12,6 +12,11 @@ export const rogueOne = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-12-16",
-  externalLink: "https://trakt.tv/movies/rogue-one-a-star-wars-story-2016",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/rogue-one-a-star-wars-story-2016",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

@@ -12,6 +12,11 @@ export const deadpoolAndWolverine = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-07-26",
-  externalLink: "https://trakt.tv/movies/deadpool-wolverine-2024",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/deadpool-wolverine-2024",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

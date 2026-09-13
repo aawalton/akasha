@@ -12,6 +12,11 @@ export const thePhantomMenace = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1999-05-19",
-  externalLink: "https://trakt.tv/movies/star-wars-episode-i-the-phantom-menace-1999",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/star-wars-episode-i-the-phantom-menace-1999",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

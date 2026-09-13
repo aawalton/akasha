@@ -12,6 +12,11 @@ export const conquestOfThePlanetOfTheApes = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1972-06-29",
-  externalLink: "https://trakt.tv/movies/conquest-of-the-planet-of-the-apes-1972",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/conquest-of-the-planet-of-the-apes-1972",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

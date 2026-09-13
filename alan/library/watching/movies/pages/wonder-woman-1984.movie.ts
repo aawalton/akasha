@@ -12,6 +12,11 @@ export const wonderWoman1984 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-12-25",
-  externalLink: "https://trakt.tv/movies/wonder-woman-1984-2020",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/wonder-woman-1984-2020",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

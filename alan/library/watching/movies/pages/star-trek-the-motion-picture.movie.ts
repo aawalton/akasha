@@ -13,6 +13,11 @@ export const starTrekTheMotionPicture = {
   status: "completed",
   rank: "C",
   publishedAt: "1979-12-07",
-  externalLink: "https://trakt.tv/movies/star-trek-the-motion-picture-1979",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/star-trek-the-motion-picture-1979",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

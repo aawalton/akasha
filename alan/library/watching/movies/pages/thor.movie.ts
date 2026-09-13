@@ -12,6 +12,11 @@ export const thor = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2011-05-06",
-  externalLink: "https://trakt.tv/movies/thor-2011",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/thor-2011",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

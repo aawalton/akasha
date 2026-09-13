@@ -12,6 +12,11 @@ export const doctorStrange = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-11-04",
-  externalLink: "https://trakt.tv/movies/doctor-strange-2016",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/doctor-strange-2016",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

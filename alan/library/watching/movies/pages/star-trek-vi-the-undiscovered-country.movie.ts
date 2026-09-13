@@ -12,6 +12,11 @@ export const starTrekViTheUndiscoveredCountry = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1991-12-06",
-  externalLink: "https://trakt.tv/movies/star-trek-vi-the-undiscovered-country-1991",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/star-trek-vi-the-undiscovered-country-1991",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

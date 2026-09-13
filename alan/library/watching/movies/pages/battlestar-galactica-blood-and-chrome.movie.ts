@@ -12,6 +12,11 @@ export const battlestarGalacticaBloodAndChrome = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2012-12-09",
-  externalLink: "https://trakt.tv/movies/battlestar-galactica-blood-chrome-2012-12-09",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/battlestar-galactica-blood-chrome-2012-12-09",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

@@ -13,6 +13,11 @@ export const fantasticBeastsAndWhereToFindThem = {
   status: "completed",
   rank: "B",
   publishedAt: "2016-11-18",
-  externalLink: "https://trakt.tv/movies/fantastic-beasts-and-where-to-find-them-2016",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/fantastic-beasts-and-where-to-find-them-2016",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

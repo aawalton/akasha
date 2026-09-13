@@ -12,6 +12,11 @@ export const justiceLeague = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2017-11-17",
-  externalLink: "https://trakt.tv/movies/justice-league-2017",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/justice-league-2017",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

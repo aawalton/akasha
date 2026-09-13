@@ -12,6 +12,11 @@ export const starWars = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1977-05-25",
-  externalLink: "https://trakt.tv/movies/star-wars-1977",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/star-wars-1977",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

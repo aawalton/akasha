@@ -12,6 +12,11 @@ export const piratesOfTheCaribbeanOnStrangerTides = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2011-05-20",
-  externalLink: "https://trakt.tv/movies/pirates-of-the-caribbean-on-stranger-tides-2011",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/pirates-of-the-caribbean-on-stranger-tides-2011",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

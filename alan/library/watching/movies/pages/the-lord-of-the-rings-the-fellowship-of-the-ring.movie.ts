@@ -13,6 +13,11 @@ export const theLordOfTheRingsTheFellowshipOfTheRing = {
   status: "completed",
   rank: "A",
   publishedAt: "2001-12-19",
-  externalLink: "https://trakt.tv/movies/the-lord-of-the-rings-the-fellowship-of-the-ring-2001",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/the-lord-of-the-rings-the-fellowship-of-the-ring-2001",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

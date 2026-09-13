@@ -13,6 +13,11 @@ export const starTrekIiiTheSearchForSpock = {
   status: "completed",
   rank: "C",
   publishedAt: "1984-06-01",
-  externalLink: "https://trakt.tv/movies/star-trek-iii-the-search-for-spock-1984",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/star-trek-iii-the-search-for-spock-1984",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

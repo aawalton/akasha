@@ -13,6 +13,11 @@ export const ferrisBuellerSDayOff = {
   status: "completed",
   rank: "B",
   publishedAt: "1986-06-11",
-  externalLink: "https://trakt.tv/movies/ferris-bueller-s-day-off-1986",
-  lastSyncedAt: "2025-09-30",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/ferris-bueller-s-day-off-1986",
+      lastSyncedAt: "2025-09-30",
+    },
+  ],
 } as const satisfies Movie

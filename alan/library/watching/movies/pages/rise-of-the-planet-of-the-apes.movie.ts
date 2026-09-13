@@ -12,6 +12,11 @@ export const riseOfThePlanetOfTheApes = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2011-08-05",
-  externalLink: "https://trakt.tv/movies/rise-of-the-planet-of-the-apes-2011",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/rise-of-the-planet-of-the-apes-2011",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

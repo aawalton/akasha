@@ -13,6 +13,11 @@ export const theHobbitAnUnexpectedJourney = {
   status: "completed",
   rank: "B",
   publishedAt: "2012-12-14",
-  externalLink: "https://trakt.tv/movies/the-hobbit-an-unexpected-journey-2012",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/the-hobbit-an-unexpected-journey-2012",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

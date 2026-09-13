@@ -12,6 +12,11 @@ export const escapeFromThePlanetOfTheApes = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1971-05-20",
-  externalLink: "https://trakt.tv/movies/escape-from-the-planet-of-the-apes-1971",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/escape-from-the-planet-of-the-apes-1971",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

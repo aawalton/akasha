@@ -12,6 +12,11 @@ export const barbie = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-07-21",
-  externalLink: "https://trakt.tv/movies/barbie-2023",
-  lastSyncedAt: "2025-09-30",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/barbie-2023",
+      lastSyncedAt: "2025-09-30",
+    },
+  ],
 } as const satisfies Movie

@@ -12,6 +12,11 @@ export const dunePartTwo = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-03-01",
-  externalLink: "https://trakt.tv/movies/dune-part-two-2024",
-  lastSyncedAt: "2025-09-30",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/dune-part-two-2024",
+      lastSyncedAt: "2025-09-30",
+    },
+  ],
 } as const satisfies Movie

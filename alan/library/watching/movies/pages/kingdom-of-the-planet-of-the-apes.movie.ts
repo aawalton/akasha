@@ -12,6 +12,11 @@ export const kingdomOfThePlanetOfTheApes = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-05-10",
-  externalLink: "https://trakt.tv/movies/kingdom-of-the-planet-of-the-apes-2024",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/kingdom-of-the-planet-of-the-apes-2024",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

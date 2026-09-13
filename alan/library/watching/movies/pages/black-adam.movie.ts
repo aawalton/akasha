@@ -12,6 +12,11 @@ export const blackAdam = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-10-21",
-  externalLink: "https://trakt.tv/movies/black-adam-2022",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/black-adam-2022",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

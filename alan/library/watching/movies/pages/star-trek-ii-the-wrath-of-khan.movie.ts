@@ -13,6 +13,11 @@ export const starTrekIiTheWrathOfKhan = {
   status: "completed",
   rank: "C",
   publishedAt: "1982-06-04",
-  externalLink: "https://trakt.tv/movies/star-trek-ii-the-wrath-of-khan-1982",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/star-trek-ii-the-wrath-of-khan-1982",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

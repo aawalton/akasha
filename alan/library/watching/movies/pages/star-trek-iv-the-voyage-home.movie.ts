@@ -13,6 +13,11 @@ export const starTrekIvTheVoyageHome = {
   status: "completed",
   rank: "C",
   publishedAt: "1986-11-26",
-  externalLink: "https://trakt.tv/movies/star-trek-iv-the-voyage-home-1986",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/star-trek-iv-the-voyage-home-1986",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

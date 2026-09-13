@@ -12,6 +12,11 @@ export const thorTheDarkWorld = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-11-08",
-  externalLink: "https://trakt.tv/movies/thor-the-dark-world-2013",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/thor-the-dark-world-2013",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

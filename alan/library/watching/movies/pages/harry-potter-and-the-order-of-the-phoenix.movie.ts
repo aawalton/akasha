@@ -13,6 +13,11 @@ export const harryPotterAndTheOrderOfThePhoenix = {
   status: "completed",
   rank: "B",
   publishedAt: "2007-07-11",
-  externalLink: "https://trakt.tv/movies/harry-potter-and-the-order-of-the-phoenix-2007",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/harry-potter-and-the-order-of-the-phoenix-2007",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

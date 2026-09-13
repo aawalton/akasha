@@ -12,6 +12,11 @@ export const starTrekIntoDarkness = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2013-05-16",
-  externalLink: "https://trakt.tv/movies/star-trek-into-darkness-2013",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/star-trek-into-darkness-2013",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

@@ -12,6 +12,11 @@ export const attackOfTheClones = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2002-05-16",
-  externalLink: "https://trakt.tv/movies/star-wars-episode-ii-attack-of-the-clones-2002",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/star-wars-episode-ii-attack-of-the-clones-2002",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

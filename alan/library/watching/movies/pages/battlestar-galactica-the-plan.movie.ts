@@ -12,6 +12,11 @@ export const battlestarGalacticaThePlan = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2009-10-27",
-  externalLink: "https://trakt.tv/movies/battlestar-galactica-the-plan-2009",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/battlestar-galactica-the-plan-2009",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

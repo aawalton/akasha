@@ -12,6 +12,11 @@ export const revengeOfTheSith = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2005-05-19",
-  externalLink: "https://trakt.tv/movies/star-wars-episode-iii-revenge-of-the-sith-2005",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/star-wars-episode-iii-revenge-of-the-sith-2005",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

@@ -12,6 +12,11 @@ export const avengersInfinityWar = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-04-27",
-  externalLink: "https://trakt.tv/movies/avengers-infinity-war-2018",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/avengers-infinity-war-2018",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

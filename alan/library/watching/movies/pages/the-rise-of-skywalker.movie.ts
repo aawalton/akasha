@@ -12,6 +12,11 @@ export const theRiseOfSkywalker = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2019-12-20",
-  externalLink: "https://trakt.tv/movies/star-wars-the-rise-of-skywalker-2019",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/star-wars-the-rise-of-skywalker-2019",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

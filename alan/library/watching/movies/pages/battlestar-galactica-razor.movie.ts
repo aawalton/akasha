@@ -12,6 +12,11 @@ export const battlestarGalacticaRazor = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2007-11-12",
-  externalLink: "https://trakt.tv/movies/battlestar-galactica-razor-2007",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/battlestar-galactica-razor-2007",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

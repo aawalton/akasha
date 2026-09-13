@@ -12,6 +12,11 @@ export const returnOfTheJedi = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1983-05-25",
-  externalLink: "https://trakt.tv/movies/return-of-the-jedi-1983",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/return-of-the-jedi-1983",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

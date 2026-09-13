@@ -12,6 +12,11 @@ export const starTrekInsurrection = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1998-12-11",
-  externalLink: "https://trakt.tv/movies/star-trek-insurrection-1998",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/star-trek-insurrection-1998",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

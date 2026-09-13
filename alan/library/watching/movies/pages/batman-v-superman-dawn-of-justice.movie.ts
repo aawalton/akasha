@@ -12,6 +12,11 @@ export const batmanVSupermanDawnOfJustice = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2016-03-25",
-  externalLink: "https://trakt.tv/movies/batman-v-superman-dawn-of-justice-2016",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/batman-v-superman-dawn-of-justice-2016",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

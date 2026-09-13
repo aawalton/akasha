@@ -12,6 +12,11 @@ export const planetOfTheApes = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1968-02-07",
-  externalLink: "https://trakt.tv/movies/planet-of-the-apes-1968",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/planet-of-the-apes-1968",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

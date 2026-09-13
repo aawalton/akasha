@@ -12,6 +12,11 @@ export const theLastJedi = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-12-15",
-  externalLink: "https://trakt.tv/movies/star-wars-the-last-jedi-2017",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/star-wars-the-last-jedi-2017",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

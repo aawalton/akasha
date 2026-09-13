@@ -13,6 +13,11 @@ export const harryPotterAndTheDeathlyHallowsPart2 = {
   status: "completed",
   rank: "B",
   publishedAt: "2011-07-15",
-  externalLink: "https://trakt.tv/movies/harry-potter-and-the-deathly-hallows-part-2-2011",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/harry-potter-and-the-deathly-hallows-part-2-2011",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

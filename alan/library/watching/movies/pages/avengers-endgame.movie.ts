@@ -12,6 +12,11 @@ export const avengersEndgame = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-04-26",
-  externalLink: "https://trakt.tv/movies/avengers-endgame-2019",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/avengers-endgame-2019",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

@@ -12,6 +12,11 @@ export const warForThePlanetOfTheApes = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2017-07-14",
-  externalLink: "https://trakt.tv/movies/war-for-the-planet-of-the-apes-2017",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/war-for-the-planet-of-the-apes-2017",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

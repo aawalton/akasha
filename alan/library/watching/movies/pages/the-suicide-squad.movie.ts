@@ -12,6 +12,11 @@ export const theSuicideSquad = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-08-05",
-  externalLink: "https://trakt.tv/movies/the-suicide-squad-2021",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/the-suicide-squad-2021",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Movie

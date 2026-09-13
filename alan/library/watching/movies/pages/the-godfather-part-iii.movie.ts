@@ -12,6 +12,11 @@ export const theGodfatherPartIii = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1990-12-25",
-  externalLink: "https://trakt.tv/movies/the-godfather-part-iii-1990",
-  lastSyncedAt: "2025-09-30",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/the-godfather-part-iii-1990",
+      lastSyncedAt: "2025-09-30",
+    },
+  ],
 } as const satisfies Movie
