@@ -17,23 +17,6 @@ export interface MaterializeTranscriptResult {
   readonly downloaded: boolean
 }
 
-function transcriptSessionIds(text: string): ReadonlySet<string> {
-  const ids = new Set<string>()
-  for (const line of text.split("\n")) {
-    if (line.trim() === "") continue
-    try {
-      const result = SessionIdLine.safeParse(JSON.parse(line))
-      const sid = result.success ? result.data.sessionId : undefined
-      if (sid !== undefined && sid.length > 0) ids.add(sid)
-    } catch {}
-  }
-  return ids
-}
-
-export function transcriptCarriesSession(text: string, sessionId: string): boolean {
-  return transcriptSessionIds(text).has(sessionId)
-}
-
 function transcriptRecordCount(text: string, sessionId: string): number {
   let count = 0
   for (const line of text.split("\n")) {
