@@ -89,7 +89,7 @@ export const aineResourceManagement = {
     {
       statement: "Every record a run appends is kept for a window of its own.",
       workingMemory:
-        "entries and logs state twenty-four hours on their file property, and sweep-cost-records reads that window nightly: 662 MB fell to 94 MB and holds at a day. Every other stream states none. The parse cache under the index holds 162 MB with no ceiling and no sweep, and clearings, the typing spool, the email action log and the committed generation log all only grow. Claude's own transcripts hold 17.6 GB, growing half a gigabyte a day, and nothing prunes them.\n",
+        "entries and logs state twenty-four hours on their file property, and sweep-cost-records reads that window nightly: 662 MB fell to 94 MB and holds at a day. Alan keeps Claude's transcripts on purpose. Every other stream states no window: the parse cache holds 162 MB with no ceiling and no sweep, and clearings, the typing spool, the email action log and the committed generation log only grow. 304 sidecars at paths a page left are claimed by no index, so no sweep reaches them.\n",
     },
   ],
   constraints: [
