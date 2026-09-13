@@ -5,11 +5,12 @@ export const taylorSwift = {
   type: "artist",
   slug: "taylor-swift",
   title: "Taylor Swift",
-  externalId: "20244d07-534f-4eff-b4d4-930878889970",
-  externalLink: "https://musicbrainz.org/artist/20244d07-534f-4eff-b4d4-930878889970",
+  partOfCollections: ["artists"],
+  position: 0,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "minutes",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  status: "following",
   genre: [
     "pop",
     "country",
@@ -21,5 +22,20 @@ export const taylorSwift = {
     "indie folk",
   ],
   rank: "S",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "20244d07-534f-4eff-b4d4-930878889970",
+      externalLink: "https://musicbrainz.org/artist/20244d07-534f-4eff-b4d4-930878889970",
+      lastSyncedAt: "2026-06-08",
+    },
+    {
+      source: "spotify",
+      externalId: "06HL4z0CvFAxyc27GXpf02",
+      externalLink: "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
+  tags: ["Indie Pop Storyteller"],
   reaction: "txt",
 } as const satisfies Artist
