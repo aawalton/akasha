@@ -12,6 +12,7 @@ export interface AgentNode {
   readonly waitingOn?: string | undefined
   readonly color?: string | undefined
   readonly at?: string | undefined
+  readonly stopped?: boolean | undefined
   readonly children: readonly AgentNode[]
 }
 

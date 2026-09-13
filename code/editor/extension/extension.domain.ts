@@ -72,6 +72,7 @@ export const extension = {
     "module/subagent-checkpoints",
     "module/subagent-core",
     "module/subagent-reading",
+    "module/subagent-stopping",
     "module/tail-fold",
     "module/terminal-marks",
     "module/terminal-pids",

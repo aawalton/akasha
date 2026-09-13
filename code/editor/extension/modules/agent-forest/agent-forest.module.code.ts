@@ -20,6 +20,7 @@ export interface SeatRow {
 
 export interface AgentPages {
   readonly bySubagent: ReadonlyMap<string, string>
+  readonly stopped?: ReadonlySet<string>
 }
 
 const APART = "\u0000"
@@ -63,6 +64,7 @@ function toAgentNode(
   seatName: string,
   pages: AgentPages
 ): AgentNode {
+  const key = node.agentId === null ? null : subagentKey(seatName, node.agentId)
   return {
     id: node.key,
     name: node.label,
@@ -70,8 +72,8 @@ function toAgentNode(
     live: true,
     state: WORKING,
     color: drawnWorking,
-    at:
-      node.agentId === null ? undefined : pages.bySubagent.get(subagentKey(seatName, node.agentId)),
+    at: key === null ? undefined : pages.bySubagent.get(key),
+    stopped: key !== null && pages.stopped?.has(key) === true,
     children: node.children.map((child) => toAgentNode(child, drawnWorking, seatName, pages)),
   }
 }

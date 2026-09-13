@@ -3,6 +3,7 @@ import type {
   SeatClick,
 } from "akasha/code/editor/extension/modules/agent-row/agent-row.module.code.ts"
 import { seatContextValue } from "akasha/code/editor/extension/modules/seat-toggles/seat-toggles.module.code.ts"
+import { subagentContextValue } from "akasha/code/editor/extension/modules/subagent-stopping/subagent-stopping.module.code.ts"
 import {
   filterTree,
   textMatches,
@@ -43,7 +44,11 @@ function buildTreeItem(element: AgentNode, filtering: boolean, atTop: boolean): 
     element.kind === "root"
       ? [element.name]
       : element.kind === "subagent"
-        ? [element.name, element.at ?? "akasha holds no page for this subagent"]
+        ? [
+            element.name,
+            element.stopped === true ? "Stopped from the agents panel" : undefined,
+            element.at ?? "akasha holds no page for this subagent",
+          ]
         : [
             element.name,
             `${element.live ? "Running" : "Stopped"}, ${element.place ?? "headless"}`,
@@ -78,7 +83,9 @@ function buildTreeItem(element: AgentNode, filtering: boolean, atTop: boolean): 
   item.contextValue =
     element.kind === "seat"
       ? seatContextValue(element.live, element.place ?? "headless")
-      : element.kind
+      : element.kind === "subagent"
+        ? subagentContextValue(element.stopped === true)
+        : element.kind
   if (element.kind === "seat") {
     const clicked: SeatClick = { id: element.id, name: element.name }
     item.command = {

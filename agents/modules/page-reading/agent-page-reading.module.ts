@@ -35,5 +35,9 @@ export const agentPageReading = {
       invariantKind: "departure",
       statement: "A subagent page stating no kind answers null for that kind.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Whether a subagent was stopped from the panel is read from beside its page.",
+    },
   ],
 } as const satisfies Module

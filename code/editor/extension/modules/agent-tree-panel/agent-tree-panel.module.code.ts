@@ -18,6 +18,7 @@ import {
   RUN_RESET_COMMAND,
   RUN_RESUME_COMMAND,
   RUN_STOP_COMMAND,
+  STOP_SUBAGENT_COMMAND,
   VIEW_ID,
 } from "akasha/code/editor/extension/modules/agent-tree-ids/agent-tree-ids.module.code.ts"
 import { seatsByName } from "akasha/code/editor/extension/modules/agent-tree-lookup/agent-tree-lookup.module.code.ts"
@@ -51,6 +52,7 @@ import {
   type SeatStep,
   type SeatToggleState,
 } from "akasha/code/editor/extension/modules/seat-toggles/seat-toggles.module.code.ts"
+import { stopSubagent } from "akasha/code/editor/extension/modules/subagent-stopping/subagent-stopping.module.code.ts"
 import * as vscode from "vscode"
 
 const FEATURE = "agent-tree"
@@ -72,6 +74,7 @@ function asNode(row: AgentTreeRow): AgentNode {
     waitingOn: row.waitingOn ?? undefined,
     color: row.color ?? undefined,
     at: row.at ?? undefined,
+    stopped: row.stopped,
     children: row.children.map(asNode),
   }
 }
@@ -239,6 +242,9 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     ),
     vscode.commands.registerCommand(RUN_RESET_COMMAND, (n: unknown) =>
       runPlan(n, planReset, "run-reset")
+    ),
+    vscode.commands.registerCommand(STOP_SUBAGENT_COMMAND, (n: unknown) =>
+      stopSubagent(n, refresh)
     ),
     vscode.commands.registerCommand(COPY_SEAT_NAME_COMMAND, (n: unknown) => copySeatName(n)),
     vscode.commands.registerCommand(OPEN_PAGE_COMMAND, (n: unknown) => openAgentPage(n))

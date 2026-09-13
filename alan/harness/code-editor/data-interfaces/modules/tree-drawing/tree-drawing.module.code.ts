@@ -142,6 +142,7 @@ type AgentNodeIn = {
   readonly waitingOn?: string
   readonly color?: string
   readonly at?: string
+  readonly stopped?: boolean
   readonly children: readonly AgentNodeIn[]
 }
 
@@ -153,6 +154,7 @@ function agentRow(node: AgentNodeIn): AgentTreeRow {
     color: node.color ?? null,
     kind: node.kind === "subagent" ? "subagent" : "seat",
     live: node.live,
+    stopped: node.stopped === true,
     place: node.place === "interactive" || node.place === "headless" ? node.place : null,
     state: node.state ?? null,
     waitingOn: node.waitingOn ?? null,
@@ -186,8 +188,11 @@ export function agentTreeLine(root: string): string {
   const answer = forestOver(root, NOW)
   const rows = answer.rows
   const bySubagent = new Map<string, string>()
+  const stopped = new Set<string>()
   for (const page of answer.subagents) {
-    bySubagent.set(subagentKey(page.seat, page.own), join(root, page.at))
+    const key = subagentKey(page.seat, page.own)
+    bySubagent.set(key, join(root, page.at))
+    if (page.stopped === true) stopped.add(key)
   }
   const under = assembleForest(
     rows,
@@ -196,7 +201,7 @@ export function agentTreeLine(root: string): string {
     readSeatPlaces(rows),
     colorOfState("working") ?? undefined,
     root,
-    { bySubagent }
+    { bySubagent, stopped }
   )
   const roots: readonly AgentTreeRow[] = [
     {
@@ -206,6 +211,7 @@ export function agentTreeLine(root: string): string {
       at: null,
       color: null,
       live: false,
+      stopped: false,
       place: null,
       state: null,
       waitingOn: null,

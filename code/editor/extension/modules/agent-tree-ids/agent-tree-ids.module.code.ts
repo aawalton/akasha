@@ -8,6 +8,8 @@ export const RUN_RESUME_COMMAND = "opsAgentTree.runResume"
 
 export const RUN_RESET_COMMAND = "opsAgentTree.runReset"
 
+export const STOP_SUBAGENT_COMMAND = "opsAgentTree.stopSubagent"
+
 export const COPY_SEAT_NAME_COMMAND = "opsAgentTree.copySeatName"
 
 export const OPEN_PAGE_COMMAND = "opsAgentTree.openPage"

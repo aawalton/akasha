@@ -85,6 +85,10 @@ export const agentTreePanel = {
       invariantKind: "departure",
       statement: "Copying a seat's name reaches the seat the same way an act does.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A stop on a subagent row is handed to `subagent-stopping` with the refresh.",
+    },
 
     {
       invariantKind: "absence",

@@ -25,6 +25,10 @@ export const agentRow = {
     },
     {
       invariantKind: "departure",
+      statement: "A subagent row says whether that subagent was stopped from the panel.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A click has the seat's id and the seat's name and nothing more.",
     },
     {

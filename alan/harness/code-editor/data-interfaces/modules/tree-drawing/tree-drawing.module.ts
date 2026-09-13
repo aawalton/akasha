@@ -87,6 +87,10 @@ export const treeDrawing = {
     },
     {
       invariantKind: "departure",
+      statement: "A subagent row says whether that subagent was stopped from the panel.",
+    },
+    {
+      invariantKind: "departure",
       statement: "No seat is counted as unread.",
     },
     {

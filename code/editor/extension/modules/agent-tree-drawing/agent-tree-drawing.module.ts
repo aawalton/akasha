@@ -36,7 +36,7 @@ export const agentTreeDrawing = {
     },
     {
       invariantKind: "departure",
-      statement: "A subagent's tooltip names the subagent and its page and nothing else.",
+      statement: "A subagent's tooltip names the subagent, whether it was stopped, and its page.",
     },
     {
       invariantKind: "departure",
@@ -44,7 +44,7 @@ export const agentTreeDrawing = {
     },
     {
       invariantKind: "departure",
-      statement: "A subagent's row has `subagent` as its context value.",
+      statement: "A subagent's row has a context value saying whether that subagent was stopped.",
     },
     {
       invariantKind: "departure",

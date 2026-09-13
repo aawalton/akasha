@@ -1,5 +1,6 @@
 import { akashaSeatPathForAgent } from "akasha/agents/seats/page/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import { everyOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { uncommittedIn } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import {
   textIn,
@@ -18,6 +19,8 @@ const DISPATCHED_AS = "dispatchedAs"
 
 const SUBAGENT_MARK = "--"
 
+const STOPPED = "stopped"
+
 function declaredAt(at: string, root: string): Value | null {
   return valueAt(at, root)
 }
@@ -34,6 +37,7 @@ export interface SubagentPage {
   readonly own: string
   readonly at: string
   readonly dispatchedAs: string | null
+  readonly stopped?: boolean
 }
 
 export function subagentPagesStanding(root: string): readonly SubagentPage[] {
@@ -48,7 +52,13 @@ export function subagentPagesStanding(root: string): readonly SubagentPage[] {
     if (parts <= 0) continue
     const own = agentId.slice(parts + SUBAGENT_MARK.length)
     if (own === "") continue
-    found.push({ seat, own, at: listed.path, dispatchedAs: textIn(held, DISPATCHED_AS) })
+    found.push({
+      seat,
+      own,
+      at: listed.path,
+      dispatchedAs: textIn(held, DISPATCHED_AS),
+      stopped: uncommittedIn(root, listed.path)?.[STOPPED] === true,
+    })
   }
   return found
 }

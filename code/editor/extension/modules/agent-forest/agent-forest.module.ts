@@ -60,6 +60,10 @@ export const agentForest = {
     },
     {
       invariantKind: "departure",
+      statement: "A subagent the pages name as stopped is drawn as stopped.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A path is joined against the repository the answer named rather than a repository guessed here.",
     },
