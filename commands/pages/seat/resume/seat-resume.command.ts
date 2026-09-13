@@ -42,5 +42,6 @@ export const seatResume = {
     { argument: "argument/seat", required: true, saidAs: "word" },
     { argument: "argument/start-mode" },
     { argument: "argument/seat-prompt" },
+    { argument: "argument/now" },
   ],
 } as const satisfies Command

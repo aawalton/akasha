@@ -25,7 +25,15 @@ test("a resume carrying a flag it does not take is refused", async () => {
 })
 
 test("a resume reading a flag past a value it does not take is refused", async () => {
-  const said = await seatResume(["athena", "--start-mode", "headless", "--now"], given("/nowhere"))
+  const said = await seatResume(
+    ["athena", "--start-mode", "headless", "--verify"],
+    given("/nowhere")
+  )
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("--now")
+  expect(said.refusals[0]).toContain("--verify")
+})
+
+test("a resume reading --now past a value is taken rather than refused", async () => {
+  const said = await seatResume(["athena", "--start-mode", "headless", "--now"], given("/nowhere"))
+  expect(said.refusals[0] ?? "").not.toContain("--now")
 })
