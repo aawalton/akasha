@@ -32,8 +32,8 @@ test("a seat's refusals are named beside that seat's page, outside the commit", 
 })
 
 test("a subagent's refusals are named beside that subagent's page", () => {
-  expect(refusalsAt("seat-system/subagents/pages/aine-a1.subagent.ts")).toBe(
-    "seat-system/subagents/pages/aine-a1.subagent.refusals.uncommitted.txt"
+  expect(refusalsAt("agents/subagents/pages/aine-a1.subagent.ts")).toBe(
+    "agents/subagents/pages/aine-a1.subagent.refusals.uncommitted.txt"
   )
 })
 
