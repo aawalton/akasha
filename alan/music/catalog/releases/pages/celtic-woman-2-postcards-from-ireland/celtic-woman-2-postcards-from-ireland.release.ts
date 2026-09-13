@@ -5,7 +5,7 @@ export const celticWoman2PostcardsFromIreland = {
   type: "release",
   slug: "celtic-woman-2-postcards-from-ireland",
   title: "Postcards From Ireland",
-  partOfCollections: ["celtic-woman-2"],
+  partOfCollections: ["celtic-woman"],
   position: 0,
   ownLength: 51.009917,
   ownProgress: 51.009917,

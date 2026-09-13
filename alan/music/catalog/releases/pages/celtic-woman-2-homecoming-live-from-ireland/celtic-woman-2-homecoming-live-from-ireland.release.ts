@@ -5,7 +5,7 @@ export const celticWoman2HomecomingLiveFromIreland = {
   type: "release",
   slug: "celtic-woman-2-homecoming-live-from-ireland",
   title: "Homecoming – Live From Ireland",
-  partOfCollections: ["celtic-woman-2"],
+  partOfCollections: ["celtic-woman"],
   position: 0,
   ownLength: 62.9168,
   ownProgress: 62.9168,

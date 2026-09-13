@@ -5,7 +5,7 @@ export const celticWoman2Christmas = {
   type: "release",
   slug: "celtic-woman-2-christmas",
   title: "Christmas",
-  partOfCollections: ["celtic-woman-2"],
+  partOfCollections: ["celtic-woman"],
   position: 0,
   ownLength: 40.876183,
   ownProgress: 40.876183,

@@ -5,7 +5,7 @@ export const celticWoman2BallroomOfRomance = {
   type: "release",
   slug: "celtic-woman-2-ballroom-of-romance",
   title: "Ballroom Of Romance",
-  partOfCollections: ["celtic-woman-2"],
+  partOfCollections: ["celtic-woman"],
   position: 0,
   ownLength: 3.268217,
   ownProgress: 3.268217,

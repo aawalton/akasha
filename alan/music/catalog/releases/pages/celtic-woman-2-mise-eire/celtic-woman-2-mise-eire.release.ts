@@ -5,7 +5,7 @@ export const celticWoman2MiseEire = {
   type: "release",
   slug: "celtic-woman-2-mise-eire",
   title: "Mise Éire",
-  partOfCollections: ["celtic-woman-2"],
+  partOfCollections: ["celtic-woman"],
   position: 0,
   ownLength: 3.879333,
   ownProgress: 3.879333,

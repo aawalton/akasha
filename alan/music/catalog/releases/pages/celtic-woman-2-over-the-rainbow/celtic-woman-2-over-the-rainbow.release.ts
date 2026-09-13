@@ -5,7 +5,7 @@ export const celticWoman2OverTheRainbow = {
   type: "release",
   slug: "celtic-woman-2-over-the-rainbow",
   title: "Over The Rainbow",
-  partOfCollections: ["celtic-woman-2"],
+  partOfCollections: ["celtic-woman"],
   position: 0,
   ownLength: 3.405333,
   ownProgress: 3.405333,

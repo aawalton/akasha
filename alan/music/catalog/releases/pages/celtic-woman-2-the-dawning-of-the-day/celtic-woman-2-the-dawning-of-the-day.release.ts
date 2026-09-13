@@ -5,7 +5,7 @@ export const celticWoman2TheDawningOfTheDay = {
   type: "release",
   slug: "celtic-woman-2-the-dawning-of-the-day",
   title: "The Dawning Of The Day",
-  partOfCollections: ["celtic-woman-2"],
+  partOfCollections: ["celtic-woman"],
   position: 0,
   ownLength: 3.904,
   ownProgress: 3.904,
