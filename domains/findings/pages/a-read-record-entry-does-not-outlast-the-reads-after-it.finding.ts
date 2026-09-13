@@ -4,7 +4,7 @@ export const aReadRecordEntryDoesNotOutlastTheReadsAfterIt = {
   id: "01a06c31-1b01-7000-b602-000000000001",
   type: "finding",
   slug: "a-read-record-entry-does-not-outlast-the-reads-after-it",
-  domain: "domain/seat-system",
+  domain: "page-type/seat",
   claim:
     "A page read into the read record leaves it within about a minute, so a required-reading set larger than one answer cannot be satisfied: reading the overflow costs the head of the set, and the gate then asks for the head again.",
   evidence:
