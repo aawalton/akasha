@@ -6,6 +6,7 @@ export const championsTree = {
   slug: "champions-tree",
   definition: "a tree of domain rows, each hung under the domain it names as its parent",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
