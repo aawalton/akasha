@@ -11,7 +11,7 @@ const PLURAL = "plural"
 
 const PAGE_TYPE = "page-type"
 
-const RENAME_FILE_PAGE_TYPE = "change-mechanical/rename-file-page-type"
+const RENAME_PAGE_TYPE_PAGES = "change-mechanical-page-type/rename-page-type-pages"
 
 export type RenamePageTypeAsked = {
   readonly at: string
@@ -29,7 +29,7 @@ export async function renamePageType(world: World, given: RenamePageTypeAsked): 
       `\`${given.at}\` is no page type, and \`rename-page\` renames a page rather than this change`
     )
   }
-  return (await reach(world, RENAME_FILE_PAGE_TYPE, given)).said
+  return (await reach(world, RENAME_PAGE_TYPE_PAGES, given)).said
 }
 
 export type Asked = Readonly<Record<string, string>>

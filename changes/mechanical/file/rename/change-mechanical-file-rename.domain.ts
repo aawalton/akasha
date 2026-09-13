@@ -8,7 +8,6 @@ export const changeMechanicalFileRename = {
   parts: [
     "change-mechanical/rename-file-page",
     "change-mechanical/rename-file-page-property",
-    "change-mechanical/rename-file-page-type",
     "change-mechanical/rename-file-pages",
   ],
   invariants: [

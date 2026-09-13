@@ -17,7 +17,6 @@ export const changeAgentFile = {
     "change-agent/remove-page",
     "change-agent/remove-page-type",
     "change-agent/rename-page",
-    "change-agent/rename-page-type",
     "change-agent/rename-pages",
   ],
 } as const satisfies Domain

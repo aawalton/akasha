@@ -150,7 +150,7 @@ export type Changes = {
     typeof import("akasha/changes/agent/page-property/rename-page-property-property-slug/rename-page-property-property-slug.change-agent.code.ts")["runChange"]
   >[1]
   "change-agent/rename-page-type": Parameters<
-    typeof import("akasha/changes/agent/file/rename-page-type/rename-page-type.change-agent.code.ts")["runChange"]
+    typeof import("akasha/changes/agent/page-type/rename-page-type/rename-page-type.change-agent.code.ts")["runChange"]
   >[1]
   "change-agent/rename-pages": Parameters<
     typeof import("akasha/changes/agent/file/rename-pages/rename-pages.change-agent.code.ts")["runChange"]

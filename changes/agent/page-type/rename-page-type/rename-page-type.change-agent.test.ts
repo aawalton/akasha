@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   renamePageType,
   runChange,
-} from "akasha/changes/agent/file/rename-page-type/rename-page-type.change-agent.code.ts"
+} from "akasha/changes/agent/page-type/rename-page-type/rename-page-type.change-agent.code.ts"
 import {
   NOTHING_OVER,
   type World,
@@ -64,7 +64,7 @@ test("a page type this change hands on is reached through the runner the world c
 
   const said = await renamePageType({ ...UNASKED, reaching }, { at: A_TYPE, to: TO })
 
-  expect(reached).toBe("change-mechanical/rename-file-page-type")
+  expect(reached).toBe("change-mechanical-page-type/rename-page-type-pages")
   expect(handed).toEqual({ at: A_TYPE, to: TO })
   expect(said.refused).toBeNull()
 })

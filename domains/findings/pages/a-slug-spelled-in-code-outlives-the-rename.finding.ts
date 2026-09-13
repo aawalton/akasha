@@ -4,7 +4,7 @@ export const aSlugSpelledInCodeOutlivesTheRename = {
   id: "01a08312-3868-7f3e-969b-1fb0632c7dea",
   type: "finding",
   slug: "a-slug-spelled-in-code-outlives-the-rename",
-  domain: "change-mechanical/rename-file-page-type",
+  domain: "change-mechanical-page-type/rename-page-type-pages",
   claim:
     "A rename leaves a slug spelled as bare text in code reaching nothing, and no check refuses the landing. The slug is a page type's or a page property's alike, and a restatement matching the address form `relation-property/...` passes over a slug written as a bare constant.",
   evidence:
