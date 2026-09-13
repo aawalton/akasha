@@ -158,6 +158,29 @@ export function walkRules(
   return { perRule, outcome }
 }
 
+export function matchRules(
+  rules: ReadonlyArray<CompiledOrderedRule>,
+  facts: ItemFacts,
+  ctx: EvalContext
+): WalkOutcome {
+  const indeterminateBeforeMatch: RuleEvalResult[] = []
+
+  for (let i = 0; i < rules.length; i++) {
+    const rule = rules[i]
+    if (rule === undefined) continue
+    const result = evaluateRule(rule, i, facts, ctx)
+
+    if (result.verdict.kind === "matched") {
+      return buildOutcome(result, indeterminateBeforeMatch)
+    }
+    if (result.verdict.kind === "indeterminate") {
+      indeterminateBeforeMatch.push(result)
+    }
+  }
+
+  return buildOutcome(undefined, indeterminateBeforeMatch)
+}
+
 function checkPlatformBlock(rule: CompiledOrderedRule, facts: ItemFacts): string | undefined {
   if (facts.isContainer !== true) return undefined
   if (rule.action === "fence-launder" || rule.action === "fence-sell") {

@@ -1,7 +1,10 @@
 import { expect, test } from "bun:test"
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import { ctxWith } from "akasha/temper/items-rules-eval/modules/check-container-fixtures/check-container-fixtures.module.code.ts"
-import { walkRules } from "akasha/temper/items-rules-eval/modules/evaluator/evaluator.module.code.ts"
+import {
+  matchRules,
+  walkRules,
+} from "akasha/temper/items-rules-eval/modules/evaluator/evaluator.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/modules/item-facts/item-facts.module.code.ts"
 
 const FACTS: ItemFacts = {
@@ -56,4 +59,58 @@ test("an action that is not stock carries no target quantity", () => {
 
   expect(outcome.kind === "matched" ? outcome.targetQuantity : "not matched").toBeUndefined()
   expect(outcome.kind === "matched" ? outcome.label : outcome.kind).toBe("Move to bank")
+})
+
+const PRIORITY_RULE: CompiledOrderedRule = {
+  id: "priority",
+  categoryId: "all",
+  action: "stock",
+  destination: "character:by-priority",
+}
+
+const RULE_LISTS: ReadonlyArray<readonly CompiledOrderedRule[]> = [
+  [],
+  [CHAIN_RULE],
+  [{ id: "flat", categoryId: "all", action: "stock", destination: "bank", targetQuantity: 5 }],
+  [{ id: "elsewhere", categoryId: "weapons", action: "sell" }],
+  [PRIORITY_RULE, CHAIN_RULE],
+  [CHAIN_RULE, PRIORITY_RULE],
+]
+
+test("the outcome-only run reaches the outcome the full run reaches", () => {
+  for (const rules of RULE_LISTS) {
+    expect(matchRules(rules, FACTS, STOCKED)).toEqual(walkRules(rules, FACTS, STOCKED).outcome)
+  }
+})
+
+test("the outcome-only run stops at the first match", () => {
+  const rules = [PRIORITY_RULE, PRIORITY_RULE]
+
+  let fullAsked = 0
+  const full = walkRules(
+    rules,
+    FACTS,
+    ctxWith({
+      getCharacterPriority: () => {
+        fullAsked++
+        return ["hero"]
+      },
+    })
+  )
+
+  let stoppedAsked = 0
+  const stopped = matchRules(
+    rules,
+    FACTS,
+    ctxWith({
+      getCharacterPriority: () => {
+        stoppedAsked++
+        return ["hero"]
+      },
+    })
+  )
+
+  expect(stoppedAsked).toBeGreaterThan(0)
+  expect(fullAsked).toBe(stoppedAsked * 2)
+  expect(stopped).toEqual(full.outcome)
 })

@@ -31,7 +31,7 @@ import { computeStockGroups } from "akasha/temper/items-rules-eval/modules/compu
 import type { EvalContext } from "akasha/temper/items-rules-eval/modules/eval-env/eval-env.module.code.ts"
 import {
   evaluateRule,
-  walkRules,
+  matchRules,
 } from "akasha/temper/items-rules-eval/modules/evaluator/evaluator.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/modules/item-facts/item-facts.module.code.ts"
 export interface MatchedRuleResult {
@@ -139,30 +139,25 @@ export function findMatchedRule(
   }
 
   const walkStart = GetGameTimeMilliseconds()
-  const trace = walkRules(compiled.orderedRules, facts, ctx)
+  const outcome = matchRules(compiled.orderedRules, facts, ctx)
   recordSettlingMs("walkRules", GetGameTimeMilliseconds() - walkStart)
-  if (trace.outcome.kind !== "matched") return undefined
+  if (outcome.kind !== "matched") return undefined
 
-  const matchedIndex = trace.outcome.rule.index
+  const matchedIndex = outcome.rule.index
   const compiledRule = compiled.orderedRules[matchedIndex]
   if (compiledRule === undefined) return undefined
 
-  const resolved = resolveEntryAllocation(
-    compiledRule,
-    trace.outcome.action,
-    trace.outcome.destination,
-    {
-      bagId,
-      slotIndex,
-      itemKey: facts.itemKey,
-      itemLink,
-      claims,
-    }
-  )
+  const resolved = resolveEntryAllocation(compiledRule, outcome.action, outcome.destination, {
+    bagId,
+    slotIndex,
+    itemKey: facts.itemKey,
+    itemLink,
+    claims,
+  })
 
   return {
     ruleIndex: matchedIndex,
-    action: trace.outcome.action,
+    action: outcome.action,
     destination: resolved.destination,
     targetQuantity: resolved.targetQuantity,
     stockScope: compiledRule.action === "stock" ? compiledRule.stockScope : undefined,

@@ -35,7 +35,12 @@ export const evaluator = {
     },
     {
       invariantKind: "departure",
-      statement: "Every rule is evaluated even after the first match is found.",
+      statement: "The full run evaluates every rule even after the first match is found.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The outcome-only run stops at the first match, and reaches the outcome the full run reaches.",
     },
     {
       invariantKind: "departure",
