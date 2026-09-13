@@ -34,6 +34,8 @@ import {
   rooted,
   SPELLED,
   scratch,
+  TUNNEL_AT,
+  TUNNEL_TEXT,
   WORK_AT,
   WORK_TEXT,
 } from "akasha/checks/code-checks/pages/no-unused-exports/no-unused-exports.code-check.decision.test-fixtures.ts"
@@ -190,6 +192,15 @@ test("the name a lualib page states as its lua export is spared", () => {
 
 test("a name React Router reaches a route's code by is spared and another is judged", () => {
   const said = judging(landing(rooted(), { [ROUTE_AT]: bytesOf(ROUTE_TEXT) })).map(
+    (one) => one.reason
+  )
+
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`spare`")
+})
+
+test("the `routes` a tunnel routes file exports is spared and another is judged", () => {
+  const said = judging(landing(rooted(), { [TUNNEL_AT]: bytesOf(TUNNEL_TEXT) })).map(
     (one) => one.reason
   )
 

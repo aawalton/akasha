@@ -74,6 +74,16 @@ const ROUTED: ReadonlySet<string> = new Set([
   "shouldRevalidate",
 ])
 
+const TUNNEL_ROUTES = "tunnel-routes.ts"
+
+const TUNNELED: ReadonlySet<string> = new Set(["routes"])
+
+const BY_FILE: ReadonlyMap<string, ReadonlySet<string>> = new Map([
+  [ROOT_ROUTE, ROUTED],
+  [APP_LAYOUT, ROUTED],
+  [TUNNEL_ROUTES, TUNNELED],
+])
+
 const NOTHING: ReadonlySet<string> = new Set()
 
 function toldApart(name: string): boolean {
@@ -166,10 +176,9 @@ function besideCode(said: Parted, pageType: string): boolean {
   return said.pageType === pageType && said.sections.length > 0
 }
 
-function routeModule(path: string, said: Parted | null): boolean {
-  if (said !== null && besideCode(said, ROUTE)) return true
-  const name = basename(path)
-  return name === ROOT_ROUTE || name === APP_LAYOUT
+function fixedFor(path: string, said: Parted | null): ReadonlySet<string> | null {
+  if (said !== null && besideCode(said, ROUTE)) return ROUTED
+  return BY_FILE.get(basename(path)) ?? null
 }
 
 type Bodied = (at: string) => string | null
@@ -195,7 +204,8 @@ export function sparedIn(
   bodyOf: Bodied
 ): ReadonlySet<string> {
   const said = partedIn(path)
-  if (routeModule(path, said)) return ROUTED
+  const fixed = fixedFor(path, said)
+  if (fixed !== null) return fixed
   if (said === null || !pageTypes.has(said.pageType)) return NOTHING
   if (uncommittedNamed(path)) return new Set([nameFor(`${pageOf(said)}.${HELD}`)])
   const lua = luaNamed(path, said, bodyOf)

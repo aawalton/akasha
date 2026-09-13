@@ -140,6 +140,11 @@ export const noUnusedExports = {
       invariantKind: "departure",
       statement: "A value a route module exports under another name is judged as any other value.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The `routes` a tunnel routes file exports is reached by the tunnel route discovery.",
+    },
   ],
   check: { maxCpuSeconds: 30 },
   audit: { maxCpuSeconds: 120 },
