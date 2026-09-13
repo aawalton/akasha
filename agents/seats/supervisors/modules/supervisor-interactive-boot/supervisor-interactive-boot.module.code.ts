@@ -26,6 +26,11 @@ import {
   stateSeatDefaults,
 } from "akasha/agents/seats/supervisors/modules/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts"
 import { createAgentIdHandle } from "akasha/agents/seats/supervisors/modules/supervisor-self-identity/supervisor-self-identity.module.code.ts"
+import {
+  setInheritedClaude,
+  setOAuthProxyHandle,
+  setRestoreConsoleHandle,
+} from "akasha/agents/seats/supervisors/modules/supervisor-state/supervisor-state.module.code.ts"
 import { installProxyVersionSubsystem } from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 import { buildCredentialSubsystem } from "akasha/seat-system/seat-credential/modules/supervisor-credentials/supervisor-credentials.module.code.ts"
 import {
@@ -34,11 +39,6 @@ import {
   SUPERVISOR_HANDOFF_ENV_KEYS,
 } from "akasha/seat-system/self-healing/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
 import { setProxyOwnerAgentIdForSelfHeal } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import {
-  setInheritedClaude,
-  setOAuthProxyHandle,
-  setRestoreConsoleHandle,
-} from "akasha/seat-system/supervising/modules/supervisor-state/supervisor-state.module.code.ts"
 import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 const ENV_OPTIONAL = shape.string().optional()

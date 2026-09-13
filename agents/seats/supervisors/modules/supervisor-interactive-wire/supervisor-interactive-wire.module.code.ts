@@ -16,16 +16,16 @@ import { askPreCliffRestart } from "akasha/agents/seats/supervisors/modules/supe
 import type { ClearRebindHooks } from "akasha/agents/seats/supervisors/modules/supervisor-rebind/supervisor-rebind.module.code.ts"
 import type { ClearRebindDeps } from "akasha/agents/seats/supervisors/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
 import type { AgentIdHandle } from "akasha/agents/seats/supervisors/modules/supervisor-self-identity/supervisor-self-identity.module.code.ts"
-import { triggerProxySwap } from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 import {
   isShuttingDown,
   setAgentActionHandler,
   setObservedChildExit,
-} from "akasha/seat-system/supervising/modules/supervisor-state/supervisor-state.module.code.ts"
+} from "akasha/agents/seats/supervisors/modules/supervisor-state/supervisor-state.module.code.ts"
 import type {
   AgentProcess,
   InheritedProc,
-} from "akasha/seat-system/supervising/modules/supervisor-types/supervisor-types.module.code.ts"
+} from "akasha/agents/seats/supervisors/modules/supervisor-types/supervisor-types.module.code.ts"
+import { triggerProxySwap } from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 
 export interface IterationWiring {
   actionSubsystem: ReturnType<typeof buildAgentActionSubsystem>

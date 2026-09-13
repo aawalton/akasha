@@ -10,7 +10,7 @@ import {
   carriedForSeat,
 } from "akasha/agents/seats/supervisors/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"
 import type { ClearRebindDeps } from "akasha/agents/seats/supervisors/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
-import type { AgentProcess } from "akasha/seat-system/supervising/modules/supervisor-types/supervisor-types.module.code.ts"
+import type { AgentProcess } from "akasha/agents/seats/supervisors/modules/supervisor-types/supervisor-types.module.code.ts"
 
 export type ClearRebindHooks = {
   selectedAccount: string

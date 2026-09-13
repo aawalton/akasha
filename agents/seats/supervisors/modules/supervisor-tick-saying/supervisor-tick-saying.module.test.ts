@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { tickSaying } from "akasha/seat-system/supervising/modules/supervisor-tick-saying/supervisor-tick-saying.module.code.ts"
+import { tickSaying } from "akasha/agents/seats/supervisors/modules/supervisor-tick-saying/supervisor-tick-saying.module.code.ts"
 
 function logged(): { lines: string[]; log: (line: string) => void } {
   const lines: string[] = []

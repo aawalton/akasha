@@ -32,19 +32,19 @@ import type { CarriedAgentName } from "akasha/agents/seats/supervisors/modules/s
 import type { ClearRebindDeps } from "akasha/agents/seats/supervisors/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
 import type { AgentIdHandle } from "akasha/agents/seats/supervisors/modules/supervisor-self-identity/supervisor-self-identity.module.code.ts"
 import { sessionProjectDir } from "akasha/agents/seats/supervisors/modules/supervisor-session-project-dir/supervisor-session-project-dir.module.code.ts"
+import {
+  processes,
+  setRestoreConsoleHandle,
+} from "akasha/agents/seats/supervisors/modules/supervisor-state/supervisor-state.module.code.ts"
+import type {
+  AgentProcess,
+  InheritedProc,
+} from "akasha/agents/seats/supervisors/modules/supervisor-types/supervisor-types.module.code.ts"
 import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
 import {
   setCurrentAgentIdForSelfHeal,
   setCurrentSessionIdForSelfHeal,
 } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import {
-  processes,
-  setRestoreConsoleHandle,
-} from "akasha/seat-system/supervising/modules/supervisor-state/supervisor-state.module.code.ts"
-import type {
-  AgentProcess,
-  InheritedProc,
-} from "akasha/seat-system/supervising/modules/supervisor-types/supervisor-types.module.code.ts"
 
 export async function openIteration(args: {
   agentId: string | null

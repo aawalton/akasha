@@ -1,5 +1,10 @@
 import { readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { basename } from "node:path"
+import {
+  AGENT_SETTINGS_PATH,
+  readAgentSettingsBase,
+  refreshedSettings,
+} from "akasha/agents/seats/supervisors/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import {
@@ -13,11 +18,6 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { seatRefreshSettings as page } from "akasha/commands/pages/seat/refresh-settings/seat-refresh-settings.command.ts"
-import {
-  AGENT_SETTINGS_PATH,
-  readAgentSettingsBase,
-  refreshedSettings,
-} from "akasha/seat-system/supervising/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
 
 const SETTINGS_FLAG = "--settings"
 

@@ -7,6 +7,8 @@ import {
   configDirForAccount,
   LOG,
 } from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
+import { processes } from "akasha/agents/seats/supervisors/modules/supervisor-state/supervisor-state.module.code.ts"
+import type { AgentProcess } from "akasha/agents/seats/supervisors/modules/supervisor-types/supervisor-types.module.code.ts"
 import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,
@@ -14,8 +16,6 @@ import {
   rootFor,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
-import { processes } from "akasha/seat-system/supervising/modules/supervisor-state/supervisor-state.module.code.ts"
-import type { AgentProcess } from "akasha/seat-system/supervising/modules/supervisor-types/supervisor-types.module.code.ts"
 
 const CREDENTIAL_PUSH_TIMEOUT_MS = 1_500
 

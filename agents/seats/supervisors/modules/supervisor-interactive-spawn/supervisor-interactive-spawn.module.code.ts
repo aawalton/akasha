@@ -28,10 +28,10 @@ import {
   disallowedToolsForLaunch,
   resolveSubagentDefinitions,
 } from "akasha/agents/seats/supervisors/modules/supervisor-spawn-agents/supervisor-spawn-agents.module.code.ts"
+import { materializeSpawnSettings } from "akasha/agents/seats/supervisors/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
+import { setOAuthProxyHandle } from "akasha/agents/seats/supervisors/modules/supervisor-state/supervisor-state.module.code.ts"
+import type { AgentProcess } from "akasha/agents/seats/supervisors/modules/supervisor-types/supervisor-types.module.code.ts"
 import { isPendingReExec } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import { materializeSpawnSettings } from "akasha/seat-system/supervising/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
-import { setOAuthProxyHandle } from "akasha/seat-system/supervising/modules/supervisor-state/supervisor-state.module.code.ts"
-import type { AgentProcess } from "akasha/seat-system/supervising/modules/supervisor-types/supervisor-types.module.code.ts"
 
 export type SeatSpawnDecider = (
   agentId: string | null,

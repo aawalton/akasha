@@ -11,9 +11,9 @@ import {
 } from "akasha/agents/seats/supervisors/modules/supervisor-adopt/supervisor-adopt.module.code.ts"
 import type { ChildExitRuleSource } from "akasha/agents/seats/supervisors/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import { LOG } from "akasha/agents/seats/supervisors/modules/supervisor-config/supervisor-config.module.code.ts"
+import type { InheritedProc } from "akasha/agents/seats/supervisors/modules/supervisor-types/supervisor-types.module.code.ts"
 import { sweepSubagentPagesOf } from "akasha/agents/subagents/modules/page/subagent-page.module.code.ts"
 import { takeOpenShells } from "akasha/seat-system/seat-observation/seat-turn/modules/turn-working/turn-working.module.code.ts"
-import type { InheritedProc } from "akasha/seat-system/supervising/modules/supervisor-types/supervisor-types.module.code.ts"
 import { enforceMemoryGuard } from "akasha/utils/system/modules/memory-guard/memory-guard.module.code.ts"
 
 export type ProcScan = () => { ok: boolean; entries: readonly ProcLivenessEntry[] }

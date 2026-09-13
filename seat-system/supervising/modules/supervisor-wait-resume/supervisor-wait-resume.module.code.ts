@@ -6,8 +6,8 @@ import {
   SYSTEM_SOURCE,
   sendMessage,
 } from "akasha/agents/seats/supervisors/modules/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"
+import { tickSaying } from "akasha/agents/seats/supervisors/modules/supervisor-tick-saying/supervisor-tick-saying.module.code.ts"
 import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
-import { tickSaying } from "akasha/seat-system/supervising/modules/supervisor-tick-saying/supervisor-tick-saying.module.code.ts"
 import {
   type AskDecide,
   askWaitResume,

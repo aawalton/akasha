@@ -6,12 +6,12 @@ import {
   execvpe,
   isProcessAlive,
 } from "akasha/agents/seats/supervisors/modules/supervisor-exec/supervisor-exec.module.code.ts"
-import { buildHandoffEnv } from "akasha/seat-system/self-healing/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
-import { getProxyOwnerAgentIdForSelfHeal } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import {
   getInheritedClaude,
   processes,
-} from "akasha/seat-system/supervising/modules/supervisor-state/supervisor-state.module.code.ts"
+} from "akasha/agents/seats/supervisors/modules/supervisor-state/supervisor-state.module.code.ts"
+import { buildHandoffEnv } from "akasha/seat-system/self-healing/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
+import { getProxyOwnerAgentIdForSelfHeal } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 
 function collectClaudeHandoff(): {
   pid: number

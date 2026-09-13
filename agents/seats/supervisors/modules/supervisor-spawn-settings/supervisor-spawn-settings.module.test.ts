@@ -3,7 +3,7 @@ import { SettingsDocumentFault } from "akasha/agents/seats/supervisors/modules/s
 import {
   materializeSpawnSettings,
   readAgentSettingsBase,
-} from "akasha/seat-system/supervising/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
+} from "akasha/agents/seats/supervisors/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
 
 const OVERRIDES = { remoteControlAtStartup: true }
 
