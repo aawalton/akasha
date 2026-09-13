@@ -92,15 +92,13 @@ export interface Story {
 }
 
 export function royalRoadIdIn(row: Row): string | null {
-  const held = idFrom(row[IDENTITY], SOURCE)
-  if (held !== null) return held
-  return textAt(row, "source") === SOURCE ? textAt(row, "externalId") : null
+  return idFrom(row[IDENTITY], SOURCE)
 }
 
 export function readStories(only: string | undefined): readonly Story[] {
   const asked = asking(ROOT, {
     pageTypeSlug: STORY_PAGE_TYPE,
-    keys: ["slug", "externalId", IDENTITY, "source", "world", "publicationStatus", "externalTags"],
+    keys: ["slug", IDENTITY, "world", "publicationStatus", "externalTags"],
   })
   if ("refused" in asked)
     throw new SyncRefused(`the stories to follow went unread: ${asked.refused}`)
@@ -145,16 +143,14 @@ export interface Held {
 export function chapterIdIn(row: Row): string | null {
   const held = idFrom(row[IDENTITY], SOURCE)
   if (held !== null) return held
-  const id = textAt(row, "externalId")
-  if (id !== null) return id
-  const link = linkFrom(row[IDENTITY], SOURCE) ?? textAt(row, "externalLink")
+  const link = linkFrom(row[IDENTITY], SOURCE)
   return link === null ? null : (CHAPTER_AT.exec(link)?.[1] ?? null)
 }
 
 export function heldChapters(): Held {
   const asked = asking(ROOT, {
     pageTypeSlug: CHAPTER_PAGE_TYPE,
-    keys: ["slug", "externalId", "externalLink", IDENTITY, STORY],
+    keys: ["slug", IDENTITY, STORY],
   })
   if ("refused" in asked) {
     throw new SyncRefused(

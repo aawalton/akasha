@@ -17,11 +17,7 @@ export const royalRoadSyncing = {
     },
     {
       invariantKind: "departure",
-      statement: "A story stating no such record is followed by the flat id it states instead.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A story whose flat id another provider gave is not followed.",
+      statement: "A story stating no such record is not followed.",
     },
     {
       invariantKind: "departure",
@@ -38,10 +34,6 @@ export const royalRoadSyncing = {
     {
       invariantKind: "departure",
       statement: "A chapter stating no royal road id is known by the id its link has.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A chapter already filed is read whatever source that chapter states.",
     },
     {
       invariantKind: "departure",
