@@ -9,11 +9,6 @@ import {
 import { parseSeatProcKey } from "akasha/agents/seats/modules/proc-key/seat-proc-key.module.code.ts"
 import { transcriptOf } from "akasha/agents/seats/modules/transcript-path/seat-transcript-path.module.code.ts"
 import {
-  clientStartedAt,
-  outlivedAmong,
-  subagentsDirOf,
-} from "akasha/agents/subagents/modules/outliving/subagent-outliving.module.code.ts"
-import {
   pagelessAmong,
   pagelessSaid,
 } from "akasha/agents/subagents/modules/pageless/subagent-pageless.module.code.ts"
@@ -34,6 +29,11 @@ import {
   seenIn,
   staleAmong,
 } from "akasha/agents/subagents/modules/subagent-census/subagent-census.module.code.ts"
+import {
+  clientStartedAt,
+  outlivedAmong,
+  subagentsDirOf,
+} from "akasha/agents/subagents/modules/subagent-outliving/subagent-outliving.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   landedMechanically,
