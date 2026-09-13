@@ -107,6 +107,10 @@ export const noUnusedExports = {
       invariantKind: "gap",
       statement: "A value only a request from outside this repository reaches reads as unreached.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The name a lualib page states as its lua export is reached by the compiler.",
+    },
   ],
   check: { maxCpuSeconds: 30 },
   audit: { maxCpuSeconds: 120 },

@@ -26,7 +26,7 @@ function surplusIn(world: World, pageTypes: ReadonlySet<string>, path: string): 
   const found = unreachedIn(
     path,
     text,
-    sparedIn(path, pageTypes),
+    sparedIn(path, pageTypes, world.textOf),
     world.index.importersOf(path),
     world.textOf
   )

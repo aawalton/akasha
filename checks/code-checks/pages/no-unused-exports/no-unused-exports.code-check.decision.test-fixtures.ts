@@ -32,6 +32,17 @@ export const BESIDE_AT = "akasha/held.domain.uncommitted.ts"
 export const BESIDE_TEXT =
   'export const heldDomainUncommitted = { "held": 1 } as const\nexport const spare = 2\n'
 
+export const LUA_AT = "akasha/held.lualib.code.ts"
+
+export const LUA_PAGE_AT = "akasha/held.lualib.ts"
+
+export const LUA_PAGE_TEXT =
+  'export const held = { id: "01a0927a-1000-7001-8000-000000000002",' +
+  ' pageTypeSlug: "lualib", slug: "held", luaExport: "__TS__Held" }\n'
+
+export const LUA_TEXT =
+  "export function __TS__Held(): number {\n  return 1\n}\n\nexport const spare = 2\n"
+
 export const ROUTE_AT = "akasha/held.route.code.ts"
 
 export const ROUTE_TEXT =
@@ -43,8 +54,13 @@ export function rooted(): string {
   const root = scratch.rootFor("akasha-unused-exports-")
   founded(root)
   typed(root, "domain", "page")
+  typed(root, "lualib", "domain")
   noImportersFiled(root)
   return root
+}
+
+export function lualibPaged(root: string): undefined {
+  put(root, LUA_PAGE_AT, bytesOf(LUA_PAGE_TEXT))
 }
 
 export function importedBy(root: string, paths: readonly string[]): undefined {

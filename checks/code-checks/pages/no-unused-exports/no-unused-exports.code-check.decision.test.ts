@@ -13,6 +13,9 @@ import {
   HELD_TEXT,
   importedBy,
   KEPT_TEXT,
+  LUA_AT,
+  LUA_TEXT,
+  lualibPaged,
   PAGE_AT,
   PAGE_TEXT,
   READER,
@@ -124,6 +127,16 @@ test("the value a page's uncommitted body holds is spared and another beside it 
   const said = judging(landing(rooted(), { [BESIDE_AT]: bytesOf(BESIDE_TEXT) })).map(
     (one) => one.reason
   )
+
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`spare`")
+})
+
+test("the name a lualib page states as its lua export is spared", () => {
+  const root = rooted()
+  lualibPaged(root)
+
+  const said = judging(landing(root, { [LUA_AT]: bytesOf(LUA_TEXT) })).map((one) => one.reason)
 
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("`spare`")
