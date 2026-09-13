@@ -9,6 +9,7 @@ import {
   withRecord,
 } from "akasha/changes/modules/literal-splicing/literal-splicing.module.code.ts"
 import {
+  afterFaultIn,
   keyFaultIn,
   keyOf,
   literalIn,
@@ -84,6 +85,8 @@ export function addPropertyRecord(world: World, given: AddPropertyRecordAsked): 
     (each) => ts.isPropertyAssignment(each) && keyOf(each) === given.key
   )
   if (one === undefined || !ts.isPropertyAssignment(one)) {
+    const placed = afterFaultIn(owner, given.after)
+    if (placed !== null) return refusing(placed)
     const put = `${given.key}: [${record}]`
     return stating(spliced(given.at, text, withProperty(text, source, owner, put, given.after)))
   }

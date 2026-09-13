@@ -119,6 +119,12 @@ test("a key the page gains is written after the property `after` names", () => {
   expect(bodyOf(said, world.base)).toContain(`  slug: "one",\n  ${KEY}: [${NAME}],`)
 })
 
+test("an `after` naming no property the page states is refused rather than dropped", () => {
+  const world = worldOf({ [AT]: bodied(`  definition: "one",`) })
+  const said = addPropertyRecord(world, { at: AT, key: KEY, record: NAME, after: "pluralSlug" })
+  expect(refusalOf(said)).toBe("`pluralSlug` is stated nowhere, so `after` names no place")
+})
+
 test("an `after` stated where the page states the key already is refused rather than dropped", () => {
   const said = addPropertyRecord(worldOf({ [AT]: HOLDING }), {
     at: AT,

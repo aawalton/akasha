@@ -71,6 +71,10 @@ export const addPropertyRecord = {
     },
     {
       invariantKind: "departure",
+      statement: "An `after` naming no property the page states is refused rather than dropped.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body exporting no object is refused rather than gaining a key.",
     },
     {
