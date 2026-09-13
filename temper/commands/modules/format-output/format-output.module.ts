@@ -6,4 +6,5 @@ export const formatOutput = {
   slug: "format-output",
   definition: "rows rendered as JSON or as escaped TSV",
   code: "ts",
+  test: "ts",
 } as const satisfies Module
