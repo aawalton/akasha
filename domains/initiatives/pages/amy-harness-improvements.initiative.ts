@@ -8,9 +8,6 @@ export const amyHarnessImprovements = {
   persona: "amy",
   intents: [
     {
-      statement: "A subagent is stopped from the agents panel, as a seat is.",
-    },
-    {
       statement:
         "Alan's phone offers an action that takes a picture, which his Action Button runs.",
     },
@@ -29,9 +26,6 @@ export const amyHarnessImprovements = {
     },
     {
       statement: "A count for a color carries that color rather than a label naming it.",
-    },
-    {
-      statement: "A subagent stopped from the agents panel has its page taken away.",
     },
   ],
 
