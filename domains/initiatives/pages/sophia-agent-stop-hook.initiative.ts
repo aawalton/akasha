@@ -22,7 +22,7 @@ export const sophiaAgentStopHook = {
       statement:
         "A stop that never reached the model is told apart from a turn the model judged clean.",
       workingMemory:
-        "461 Stop runs since the hook went live, of which 36 ran long enough to have reached a model and one refused. Nothing said which gate the other 425 opened, so each run now appends a line beside the hook page naming where it stopped: no payload, a stop refused already, no seat, a subagent or a shell still to report, no words, no person, no rule, no model, a throw, judged clean, or held open. The first lines recorded name the subagent-or-shell gate.\n",
+        "The record is live: 54 runs in 36 minutes. 28 stopped at a subagent still to report, 13 at no model a call could reach, 6 judged clean, 1 held open — the hook's first refusal in the wild — and 1 at a stop refused already. So 34 of the 54 never got near a model, and of the 20 that did, 13 reached none while a bulk measurement ran on the same gateway. Whether that rate holds with the gateway quiet is unmeasured, and until it is, the hook is letting turns through it means to judge.",
     },
     {
       statement: "The code deciding whether to hold a turn open is tested.",
