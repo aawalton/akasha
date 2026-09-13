@@ -13,6 +13,11 @@ export const emeiStereo = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-07-11",
-  externalId: "0znufLvqCiP9LblUItyAeQ",
-  externalLink: "https://open.spotify.com/album/0znufLvqCiP9LblUItyAeQ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0znufLvqCiP9LblUItyAeQ",
+      externalLink: "https://open.spotify.com/album/0znufLvqCiP9LblUItyAeQ",
+    },
+  ],
 } as const satisfies Release

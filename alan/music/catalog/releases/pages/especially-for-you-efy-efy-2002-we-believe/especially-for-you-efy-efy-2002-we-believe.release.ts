@@ -12,7 +12,12 @@ export const especiallyForYouEfyEfy2002WeBelieve = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2002-01-01",
-  externalId: "0tFstiP98fMgag9qu0rhQD",
-  externalLink: "https://open.spotify.com/album/0tFstiP98fMgag9qu0rhQD",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0tFstiP98fMgag9qu0rhQD",
+      externalLink: "https://open.spotify.com/album/0tFstiP98fMgag9qu0rhQD",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

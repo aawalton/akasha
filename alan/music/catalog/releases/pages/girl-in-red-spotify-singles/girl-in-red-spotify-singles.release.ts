@@ -12,6 +12,11 @@ export const girlInRedSpotifySingles = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-09-08",
-  externalId: "6H1GSOFY2sL863KbEYUq5c",
-  externalLink: "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6H1GSOFY2sL863KbEYUq5c",
+      externalLink: "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c",
+    },
+  ],
 } as const satisfies Release

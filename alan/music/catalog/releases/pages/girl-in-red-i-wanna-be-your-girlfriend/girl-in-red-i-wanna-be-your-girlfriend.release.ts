@@ -13,6 +13,11 @@ export const girlInRedIWannaBeYourGirlfriend = {
   status: "completed",
   rank: "C",
   publishedAt: "2018-03-02",
-  externalId: "14cEutEbb3i2vDp3ZopdJf",
-  externalLink: "https://open.spotify.com/album/14cEutEbb3i2vDp3ZopdJf",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "14cEutEbb3i2vDp3ZopdJf",
+      externalLink: "https://open.spotify.com/album/14cEutEbb3i2vDp3ZopdJf",
+    },
+  ],
 } as const satisfies Release

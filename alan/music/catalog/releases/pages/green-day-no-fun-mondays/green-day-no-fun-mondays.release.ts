@@ -13,7 +13,12 @@ export const greenDayNoFunMondays = {
   status: "not-started",
   rank: "C",
   publishedAt: "2020-11-27",
-  externalId: "6pjuzPdAkJPdNBiKzcloXL",
-  externalLink: "https://open.spotify.com/album/6pjuzPdAkJPdNBiKzcloXL",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6pjuzPdAkJPdNBiKzcloXL",
+      externalLink: "https://open.spotify.com/album/6pjuzPdAkJPdNBiKzcloXL",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

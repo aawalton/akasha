@@ -13,6 +13,11 @@ export const emeiScatterbrain = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-02-03",
-  externalId: "0CUgWWL0bEnputEKbNiAsv",
-  externalLink: "https://open.spotify.com/album/0CUgWWL0bEnputEKbNiAsv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0CUgWWL0bEnputEKbNiAsv",
+      externalLink: "https://open.spotify.com/album/0CUgWWL0bEnputEKbNiAsv",
+    },
+  ],
 } as const satisfies Release

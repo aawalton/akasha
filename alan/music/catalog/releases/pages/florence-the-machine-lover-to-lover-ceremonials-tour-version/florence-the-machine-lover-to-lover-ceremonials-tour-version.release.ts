@@ -12,6 +12,11 @@ export const florenceTheMachineLoverToLoverCeremonialsTourVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-01-01",
-  externalId: "4FSUSStK2MbPv29LdGDnnZ",
-  externalLink: "https://open.spotify.com/album/4FSUSStK2MbPv29LdGDnnZ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4FSUSStK2MbPv29LdGDnnZ",
+      externalLink: "https://open.spotify.com/album/4FSUSStK2MbPv29LdGDnnZ",
+    },
+  ],
 } as const satisfies Release

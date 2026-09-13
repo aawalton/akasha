@@ -13,7 +13,12 @@ export const greenDayNuclearFamily = {
   status: "completed",
   rank: "C",
   publishedAt: "2012-09-11",
-  externalId: "2eNZY34FfJ6ZURgN3jw5ee",
-  externalLink: "https://open.spotify.com/album/2eNZY34FfJ6ZURgN3jw5ee",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2eNZY34FfJ6ZURgN3jw5ee",
+      externalLink: "https://open.spotify.com/album/2eNZY34FfJ6ZURgN3jw5ee",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

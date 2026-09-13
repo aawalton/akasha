@@ -12,6 +12,11 @@ export const florenceTheMachineYouVeGotTheLoveJamieXxRework = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2009-09-28",
-  externalId: "6ehMwGARrrgvrOpyHAV1LA",
-  externalLink: "https://open.spotify.com/album/6ehMwGARrrgvrOpyHAV1LA",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6ehMwGARrrgvrOpyHAV1LA",
+      externalLink: "https://open.spotify.com/album/6ehMwGARrrgvrOpyHAV1LA",
+    },
+  ],
 } as const satisfies Release

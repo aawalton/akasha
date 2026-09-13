@@ -12,7 +12,12 @@ export const especiallyForYouEfyEfy2013FirmInTheFaithEspeciallyForYouthOfficial 
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-05-11",
-  externalId: "41GteJOSR9ItDaAltqpaGd",
-  externalLink: "https://open.spotify.com/album/41GteJOSR9ItDaAltqpaGd",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "41GteJOSR9ItDaAltqpaGd",
+      externalLink: "https://open.spotify.com/album/41GteJOSR9ItDaAltqpaGd",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

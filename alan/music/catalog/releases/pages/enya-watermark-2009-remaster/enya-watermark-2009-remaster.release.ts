@@ -12,6 +12,11 @@ export const enyaWatermark2009Remaster = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1988-09-05",
-  externalId: "0NJjvdOd3ULUTvoVFCCFJN",
-  externalLink: "https://open.spotify.com/album/0NJjvdOd3ULUTvoVFCCFJN",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0NJjvdOd3ULUTvoVFCCFJN",
+      externalLink: "https://open.spotify.com/album/0NJjvdOd3ULUTvoVFCCFJN",
+    },
+  ],
 } as const satisfies Release

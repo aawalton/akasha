@@ -12,6 +12,11 @@ export const florenceTheMachineBigGod = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-06-19",
-  externalId: "3GMpSP95wIod2jckN8htUS",
-  externalLink: "https://open.spotify.com/album/3GMpSP95wIod2jckN8htUS",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3GMpSP95wIod2jckN8htUS",
+      externalLink: "https://open.spotify.com/album/3GMpSP95wIod2jckN8htUS",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const especiallyForYouEfyEfy2015HereAmIEspeciallyForYouth = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-05-26",
-  externalId: "4QPf4plzqxwscI1Lv1P3dh",
-  externalLink: "https://open.spotify.com/album/4QPf4plzqxwscI1Lv1P3dh",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4QPf4plzqxwscI1Lv1P3dh",
+      externalLink: "https://open.spotify.com/album/4QPf4plzqxwscI1Lv1P3dh",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

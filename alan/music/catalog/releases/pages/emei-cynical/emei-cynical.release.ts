@@ -13,6 +13,11 @@ export const emeiCynical = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-07-14",
-  externalId: "357gbL6nwsDoNxTvZ5YWrm",
-  externalLink: "https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "357gbL6nwsDoNxTvZ5YWrm",
+      externalLink: "https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm",
+    },
+  ],
 } as const satisfies Release

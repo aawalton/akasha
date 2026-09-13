@@ -13,7 +13,12 @@ export const greenDayKerplunk = {
   status: "completed",
   rank: "C",
   publishedAt: "1992-01-17",
-  externalId: "1UShup0VvfxhxS7j3Omxh2",
-  externalLink: "https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1UShup0VvfxhxS7j3Omxh2",
+      externalLink: "https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

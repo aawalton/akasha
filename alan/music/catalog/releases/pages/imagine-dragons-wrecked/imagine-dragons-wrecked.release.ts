@@ -12,6 +12,11 @@ export const imagineDragonsWrecked = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-07-02",
-  externalId: "2qjb5OwlllLLOmrueU08kG",
-  externalLink: "https://open.spotify.com/album/2qjb5OwlllLLOmrueU08kG",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2qjb5OwlllLLOmrueU08kG",
+      externalLink: "https://open.spotify.com/album/2qjb5OwlllLLOmrueU08kG",
+    },
+  ],
 } as const satisfies Release

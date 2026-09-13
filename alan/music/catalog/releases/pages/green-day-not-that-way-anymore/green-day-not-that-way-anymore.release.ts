@@ -13,7 +13,12 @@ export const greenDayNotThatWayAnymore = {
   status: "not-started",
   rank: "C",
   publishedAt: "2020-10-23",
-  externalId: "1eSLx5xEn6lnoMVP4KwI23",
-  externalLink: "https://open.spotify.com/album/1eSLx5xEn6lnoMVP4KwI23",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1eSLx5xEn6lnoMVP4KwI23",
+      externalLink: "https://open.spotify.com/album/1eSLx5xEn6lnoMVP4KwI23",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

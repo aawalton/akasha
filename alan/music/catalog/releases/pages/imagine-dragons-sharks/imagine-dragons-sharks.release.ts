@@ -12,6 +12,11 @@ export const imagineDragonsSharks = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-06-24",
-  externalId: "587Ykd8NOCdzRmaW4nlT4e",
-  externalLink: "https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "587Ykd8NOCdzRmaW4nlT4e",
+      externalLink: "https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e",
+    },
+  ],
 } as const satisfies Release

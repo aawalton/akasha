@@ -13,7 +13,12 @@ export const greenDay21GunsDmdMaxi = {
   status: "completed",
   rank: "C",
   publishedAt: "2009-01-01",
-  externalId: "4nFSHjgOP48y0n9Gw6IzKV",
-  externalLink: "https://open.spotify.com/album/4nFSHjgOP48y0n9Gw6IzKV",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4nFSHjgOP48y0n9Gw6IzKV",
+      externalLink: "https://open.spotify.com/album/4nFSHjgOP48y0n9Gw6IzKV",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

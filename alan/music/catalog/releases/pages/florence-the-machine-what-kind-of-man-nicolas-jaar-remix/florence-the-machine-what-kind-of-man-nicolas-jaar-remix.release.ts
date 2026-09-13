@@ -12,6 +12,11 @@ export const florenceTheMachineWhatKindOfManNicolasJaarRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-03-11",
-  externalId: "0D5WccOMXR35o9Mu0V3jwO",
-  externalLink: "https://open.spotify.com/album/0D5WccOMXR35o9Mu0V3jwO",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0D5WccOMXR35o9Mu0V3jwO",
+      externalLink: "https://open.spotify.com/album/0D5WccOMXR35o9Mu0V3jwO",
+    },
+  ],
 } as const satisfies Release

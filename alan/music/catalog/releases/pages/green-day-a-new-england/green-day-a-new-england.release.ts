@@ -13,7 +13,12 @@ export const greenDayANewEngland = {
   status: "not-started",
   rank: "C",
   publishedAt: "2020-11-13",
-  externalId: "5AbU5XYizMzHyDeoCd2Vkc",
-  externalLink: "https://open.spotify.com/album/5AbU5XYizMzHyDeoCd2Vkc",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5AbU5XYizMzHyDeoCd2Vkc",
+      externalLink: "https://open.spotify.com/album/5AbU5XYizMzHyDeoCd2Vkc",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

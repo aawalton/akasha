@@ -12,6 +12,11 @@ export const imagineDragonsZeroFromTheOriginalMotionPictureRalphBreaksTheInterne
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-09-19",
-  externalId: "3eiAj6uPlzdAKagriQb3Hq",
-  externalLink: "https://open.spotify.com/album/3eiAj6uPlzdAKagriQb3Hq",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3eiAj6uPlzdAKagriQb3Hq",
+      externalLink: "https://open.spotify.com/album/3eiAj6uPlzdAKagriQb3Hq",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentre = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-06-03",
-  externalId: "71s3w0NvaGZcoHlKtPRGjp",
-  externalLink: "https://open.spotify.com/album/71s3w0NvaGZcoHlKtPRGjp",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "71s3w0NvaGZcoHlKtPRGjp",
+      externalLink: "https://open.spotify.com/album/71s3w0NvaGZcoHlKtPRGjp",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const imagineDragonsTakeMeToTheBeachFeatErnia = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-10-18",
-  externalId: "4Qrq02nmWAb9o300fpCPtn",
-  externalLink: "https://open.spotify.com/album/4Qrq02nmWAb9o300fpCPtn",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4Qrq02nmWAb9o300fpCPtn",
+      externalLink: "https://open.spotify.com/album/4Qrq02nmWAb9o300fpCPtn",
+    },
+  ],
 } as const satisfies Release

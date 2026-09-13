@@ -12,6 +12,11 @@ export const florenceTheMachineUnderHeavenOverHell = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-08-10",
-  externalId: "5B95y6sxx1ISjwVJS9F1iX",
-  externalLink: "https://open.spotify.com/album/5B95y6sxx1ISjwVJS9F1iX",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5B95y6sxx1ISjwVJS9F1iX",
+      externalLink: "https://open.spotify.com/album/5B95y6sxx1ISjwVJS9F1iX",
+    },
+  ],
 } as const satisfies Release

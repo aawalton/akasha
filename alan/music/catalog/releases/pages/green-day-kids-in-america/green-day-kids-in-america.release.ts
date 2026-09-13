@@ -13,7 +13,12 @@ export const greenDayKidsInAmerica = {
   status: "not-started",
   rank: "C",
   publishedAt: "2020-09-18",
-  externalId: "1vkImX94Ko16MnEb5kUca8",
-  externalLink: "https://open.spotify.com/album/1vkImX94Ko16MnEb5kUca8",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1vkImX94Ko16MnEb5kUca8",
+      externalLink: "https://open.spotify.com/album/1vkImX94Ko16MnEb5kUca8",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

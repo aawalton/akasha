@@ -12,6 +12,11 @@ export const imagineDragonsSmokeMirrors = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-09-18",
-  externalId: "0gmsXcmrcnxdZBrD5EyJEL",
-  externalLink: "https://open.spotify.com/album/0gmsXcmrcnxdZBrD5EyJEL",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0gmsXcmrcnxdZBrD5EyJEL",
+      externalLink: "https://open.spotify.com/album/0gmsXcmrcnxdZBrD5EyJEL",
+    },
+  ],
 } as const satisfies Release

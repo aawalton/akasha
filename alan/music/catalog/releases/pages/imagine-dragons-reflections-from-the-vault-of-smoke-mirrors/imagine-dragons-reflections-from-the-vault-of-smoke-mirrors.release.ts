@@ -13,6 +13,11 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrors = {
   status: "completed",
   rank: "C",
   publishedAt: "2025-02-21",
-  externalId: "5IBigZKJt8uffeMjKw5uEl",
-  externalLink: "https://open.spotify.com/album/5IBigZKJt8uffeMjKw5uEl",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5IBigZKJt8uffeMjKw5uEl",
+      externalLink: "https://open.spotify.com/album/5IBigZKJt8uffeMjKw5uEl",
+    },
+  ],
 } as const satisfies Release

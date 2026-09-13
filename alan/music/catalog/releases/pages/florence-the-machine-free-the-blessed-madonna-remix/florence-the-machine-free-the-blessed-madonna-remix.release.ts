@@ -12,6 +12,11 @@ export const florenceTheMachineFreeTheBlessedMadonnaRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-05-27",
-  externalId: "1A3PKoQipHwu0zBDaOrTjs",
-  externalLink: "https://open.spotify.com/album/1A3PKoQipHwu0zBDaOrTjs",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1A3PKoQipHwu0zBDaOrTjs",
+      externalLink: "https://open.spotify.com/album/1A3PKoQipHwu0zBDaOrTjs",
+    },
+  ],
 } as const satisfies Release

@@ -13,7 +13,12 @@ export const greenDayInsomniac25thAnniversaryDeluxeEdition = {
   status: "not-started",
   rank: "C",
   publishedAt: "2021-03-19",
-  externalId: "2nrqcI2e61NN375lBaQIg0",
-  externalLink: "https://open.spotify.com/album/2nrqcI2e61NN375lBaQIg0",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2nrqcI2e61NN375lBaQIg0",
+      externalLink: "https://open.spotify.com/album/2nrqcI2e61NN375lBaQIg0",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

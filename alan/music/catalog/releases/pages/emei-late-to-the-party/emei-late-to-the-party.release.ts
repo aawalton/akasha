@@ -13,6 +13,11 @@ export const emeiLateToTheParty = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-01-19",
-  externalId: "1g9Kxqn7NNZyHB2dGtlbmR",
-  externalLink: "https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1g9Kxqn7NNZyHB2dGtlbmR",
+      externalLink: "https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR",
+    },
+  ],
 } as const satisfies Release

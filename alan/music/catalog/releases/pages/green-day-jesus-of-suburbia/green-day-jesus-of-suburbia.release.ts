@@ -13,7 +13,12 @@ export const greenDayJesusOfSuburbia = {
   status: "completed",
   rank: "C",
   publishedAt: "2005-01-01",
-  externalId: "0spxpyVFpjqxb5mQbjYbVl",
-  externalLink: "https://open.spotify.com/album/0spxpyVFpjqxb5mQbjYbVl",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0spxpyVFpjqxb5mQbjYbVl",
+      externalLink: "https://open.spotify.com/album/0spxpyVFpjqxb5mQbjYbVl",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

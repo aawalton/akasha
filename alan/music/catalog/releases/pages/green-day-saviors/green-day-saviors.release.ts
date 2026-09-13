@@ -13,7 +13,12 @@ export const greenDaySaviors = {
   status: "not-started",
   rank: "C",
   publishedAt: "2024-01-19",
-  externalId: "4AIeqAMDyIT884A9uA2A0i",
-  externalLink: "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4AIeqAMDyIT884A9uA2A0i",
+      externalLink: "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

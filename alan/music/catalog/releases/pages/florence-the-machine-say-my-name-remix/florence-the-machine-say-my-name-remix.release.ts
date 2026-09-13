@@ -12,6 +12,11 @@ export const florenceTheMachineSayMyNameRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-12-06",
-  externalId: "5zs9KJ2YsEjRzafvTdYTsk",
-  externalLink: "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5zs9KJ2YsEjRzafvTdYTsk",
+      externalLink: "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk",
+    },
+  ],
 } as const satisfies Release

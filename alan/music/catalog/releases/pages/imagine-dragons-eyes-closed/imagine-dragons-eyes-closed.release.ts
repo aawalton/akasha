@@ -12,6 +12,11 @@ export const imagineDragonsEyesClosed = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-04-03",
-  externalId: "4p78uCfiL8gmt2AKrlWATG",
-  externalLink: "https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4p78uCfiL8gmt2AKrlWATG",
+      externalLink: "https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG",
+    },
+  ],
 } as const satisfies Release

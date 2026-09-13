@@ -12,6 +12,11 @@ export const girlInRedYouNeedMeNowFeatSabrinaCarpenter = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-03-22",
-  externalId: "26H0jinpdi0RSrZq90fNMF",
-  externalLink: "https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "26H0jinpdi0RSrZq90fNMF",
+      externalLink: "https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const enyaADayWithoutRain = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2000-11-11",
-  externalId: "2ioso1tqQ5zABQDVYyiUi5",
-  externalLink: "https://open.spotify.com/album/2ioso1tqQ5zABQDVYyiUi5",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2ioso1tqQ5zABQDVYyiUi5",
+      externalLink: "https://open.spotify.com/album/2ioso1tqQ5zABQDVYyiUi5",
+    },
+  ],
 } as const satisfies Release

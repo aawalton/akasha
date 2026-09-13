@@ -13,7 +13,12 @@ export const greenDayHolyToledoFromTheOriginalMotionPictureMarkMarySomeOtherPeop
   status: "not-started",
   rank: "C",
   publishedAt: "2021-11-05",
-  externalId: "1kDwdipqS6e3qy6WSj0WI0",
-  externalLink: "https://open.spotify.com/album/1kDwdipqS6e3qy6WSj0WI0",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1kDwdipqS6e3qy6WSj0WI0",
+      externalLink: "https://open.spotify.com/album/1kDwdipqS6e3qy6WSj0WI0",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

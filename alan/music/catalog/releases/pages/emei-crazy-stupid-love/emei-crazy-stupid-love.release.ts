@@ -13,6 +13,11 @@ export const emeiCrazyStupidLove = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-02-26",
-  externalId: "0058kPDT6f9sJzVj6m7MhY",
-  externalLink: "https://open.spotify.com/album/0058kPDT6f9sJzVj6m7MhY",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0058kPDT6f9sJzVj6m7MhY",
+      externalLink: "https://open.spotify.com/album/0058kPDT6f9sJzVj6m7MhY",
+    },
+  ],
 } as const satisfies Release

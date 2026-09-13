@@ -13,7 +13,12 @@ export const greenDayPollyanna = {
   status: "not-started",
   rank: "C",
   publishedAt: "2021-05-17",
-  externalId: "21i1bokXCRyRyszxxNvX19",
-  externalLink: "https://open.spotify.com/album/21i1bokXCRyRyszxxNvX19",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "21i1bokXCRyRyszxxNvX19",
+      externalLink: "https://open.spotify.com/album/21i1bokXCRyRyszxxNvX19",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

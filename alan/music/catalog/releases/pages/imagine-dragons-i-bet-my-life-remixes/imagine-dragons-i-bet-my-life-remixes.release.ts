@@ -12,6 +12,11 @@ export const imagineDragonsIBetMyLifeRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-01-26",
-  externalId: "6VTwHlsilffsneBm3LbZef",
-  externalLink: "https://open.spotify.com/album/6VTwHlsilffsneBm3LbZef",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6VTwHlsilffsneBm3LbZef",
+      externalLink: "https://open.spotify.com/album/6VTwHlsilffsneBm3LbZef",
+    },
+  ],
 } as const satisfies Release

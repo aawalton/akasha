@@ -12,6 +12,11 @@ export const florenceTheMachineNoLightNoLightRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-01-01",
-  externalId: "7CDDqqMHWYLw0SaEIhznv8",
-  externalLink: "https://open.spotify.com/album/7CDDqqMHWYLw0SaEIhznv8",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7CDDqqMHWYLw0SaEIhznv8",
+      externalLink: "https://open.spotify.com/album/7CDDqqMHWYLw0SaEIhznv8",
+    },
+  ],
 } as const satisfies Release

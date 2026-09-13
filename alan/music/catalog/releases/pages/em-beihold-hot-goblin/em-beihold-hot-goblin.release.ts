@@ -13,6 +13,11 @@ export const emBeiholdHotGoblin = {
   status: "completed",
   rank: "A",
   publishedAt: "2025-09-05",
-  externalId: "3ehPg84etRc980Up4eqY93",
-  externalLink: "https://open.spotify.com/album/3ehPg84etRc980Up4eqY93",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3ehPg84etRc980Up4eqY93",
+      externalLink: "https://open.spotify.com/album/3ehPg84etRc980Up4eqY93",
+    },
+  ],
 } as const satisfies Release

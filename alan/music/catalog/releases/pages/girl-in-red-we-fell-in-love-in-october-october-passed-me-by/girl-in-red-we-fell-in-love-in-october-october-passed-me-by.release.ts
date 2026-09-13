@@ -12,6 +12,11 @@ export const girlInRedWeFellInLoveInOctoberOctoberPassedMeBy = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-11-21",
-  externalId: "7vud0sY43VTv28MbWiglDa",
-  externalLink: "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7vud0sY43VTv28MbWiglDa",
+      externalLink: "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa",
+    },
+  ],
 } as const satisfies Release

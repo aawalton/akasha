@@ -13,7 +13,12 @@ export const greenDayNimrod25thAnniversaryEdition = {
   status: "not-started",
   rank: "C",
   publishedAt: "2023-01-27",
-  externalId: "4R802IhlcVX7z3m7xyp7zC",
-  externalLink: "https://open.spotify.com/album/4R802IhlcVX7z3m7xyp7zC",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4R802IhlcVX7z3m7xyp7zC",
+      externalLink: "https://open.spotify.com/album/4R802IhlcVX7z3m7xyp7zC",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

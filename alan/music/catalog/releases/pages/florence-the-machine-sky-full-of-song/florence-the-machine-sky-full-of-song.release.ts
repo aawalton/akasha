@@ -12,6 +12,11 @@ export const florenceTheMachineSkyFullOfSong = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-04-12",
-  externalId: "0rI4Lse9Ffh0HoXVYmdiHa",
-  externalLink: "https://open.spotify.com/album/0rI4Lse9Ffh0HoXVYmdiHa",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0rI4Lse9Ffh0HoXVYmdiHa",
+      externalLink: "https://open.spotify.com/album/0rI4Lse9Ffh0HoXVYmdiHa",
+    },
+  ],
 } as const satisfies Release

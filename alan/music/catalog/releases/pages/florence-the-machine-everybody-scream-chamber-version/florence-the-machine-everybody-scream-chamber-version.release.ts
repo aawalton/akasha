@@ -12,7 +12,12 @@ export const florenceTheMachineEverybodyScreamChamberVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-11-03",
-  externalId: "1OlrQBbVBbFHZX1YcLC5aZ",
-  externalLink: "https://open.spotify.com/album/1OlrQBbVBbFHZX1YcLC5aZ",
-  lastSyncedAt: "2026-02-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1OlrQBbVBbFHZX1YcLC5aZ",
+      externalLink: "https://open.spotify.com/album/1OlrQBbVBbFHZX1YcLC5aZ",
+      lastSyncedAt: "2026-02-14",
+    },
+  ],
 } as const satisfies Release

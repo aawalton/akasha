@@ -12,7 +12,12 @@ export const especiallyForYouEfyEfy2001RememberThePromise = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2001-01-01",
-  externalId: "6clukmPHH3Q1znZQPxAoEV",
-  externalLink: "https://open.spotify.com/album/6clukmPHH3Q1znZQPxAoEV",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6clukmPHH3Q1znZQPxAoEV",
+      externalLink: "https://open.spotify.com/album/6clukmPHH3Q1znZQPxAoEV",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

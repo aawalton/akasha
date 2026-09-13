@@ -13,6 +13,11 @@ export const emeiAllTheseKids = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-09-20",
-  externalId: "2PiygkH7sI89FdZc9GVdKM",
-  externalLink: "https://open.spotify.com/album/2PiygkH7sI89FdZc9GVdKM",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2PiygkH7sI89FdZc9GVdKM",
+      externalLink: "https://open.spotify.com/album/2PiygkH7sI89FdZc9GVdKM",
+    },
+  ],
 } as const satisfies Release

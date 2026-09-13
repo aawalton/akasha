@@ -13,6 +13,11 @@ export const imagineDragonsEnemyWithJidOpeningTitleVersionFromTheSeriesArcaneLea
   status: "completed",
   rank: "A",
   publishedAt: "2024-11-23",
-  externalId: "7a2pDeID0v3YtKQ1PVLZvt",
-  externalLink: "https://open.spotify.com/album/7a2pDeID0v3YtKQ1PVLZvt",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7a2pDeID0v3YtKQ1PVLZvt",
+      externalLink: "https://open.spotify.com/album/7a2pDeID0v3YtKQ1PVLZvt",
+    },
+  ],
 } as const satisfies Release

@@ -13,6 +13,11 @@ export const emBeiholdPainfulTruth = {
   status: "completed",
   rank: "B",
   publishedAt: "2020-11-20",
-  externalId: "6g0XxfttXZjI3U84pj2mBe",
-  externalLink: "https://open.spotify.com/album/6g0XxfttXZjI3U84pj2mBe",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6g0XxfttXZjI3U84pj2mBe",
+      externalLink: "https://open.spotify.com/album/6g0XxfttXZjI3U84pj2mBe",
+    },
+  ],
 } as const satisfies Release

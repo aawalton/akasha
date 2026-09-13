@@ -12,6 +12,11 @@ export const girlInRedChapter1 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-09-14",
-  externalId: "51Uj40nCUuHggkIUEMywOr",
-  externalLink: "https://open.spotify.com/album/51Uj40nCUuHggkIUEMywOr",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "51Uj40nCUuHggkIUEMywOr",
+      externalLink: "https://open.spotify.com/album/51Uj40nCUuHggkIUEMywOr",
+    },
+  ],
 } as const satisfies Release

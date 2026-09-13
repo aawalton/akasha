@@ -12,6 +12,11 @@ export const florenceTheMachineQueenOfPeaceRadioEdit = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-08-01",
-  externalId: "25SeFZDhqcVOQI9PkBfH1b",
-  externalLink: "https://open.spotify.com/album/25SeFZDhqcVOQI9PkBfH1b",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "25SeFZDhqcVOQI9PkBfH1b",
+      externalLink: "https://open.spotify.com/album/25SeFZDhqcVOQI9PkBfH1b",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const enyaThemesFromCalmiCuoriAppassionati = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2001-01-01",
-  externalId: "6GWptUmmrWPABTWSed7Ow8",
-  externalLink: "https://open.spotify.com/album/6GWptUmmrWPABTWSed7Ow8",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6GWptUmmrWPABTWSed7Ow8",
+      externalLink: "https://open.spotify.com/album/6GWptUmmrWPABTWSed7Ow8",
+    },
+  ],
 } as const satisfies Release

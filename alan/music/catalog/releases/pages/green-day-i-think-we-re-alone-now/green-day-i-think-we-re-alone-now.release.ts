@@ -13,7 +13,12 @@ export const greenDayIThinkWeReAloneNow = {
   status: "not-started",
   rank: "C",
   publishedAt: "2020-04-17",
-  externalId: "2FYNBNvvPgrUYC87Lqvz6W",
-  externalLink: "https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2FYNBNvvPgrUYC87Lqvz6W",
+      externalLink: "https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

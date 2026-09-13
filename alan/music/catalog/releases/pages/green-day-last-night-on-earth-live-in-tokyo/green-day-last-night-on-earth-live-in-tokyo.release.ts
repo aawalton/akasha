@@ -13,7 +13,12 @@ export const greenDayLastNightOnEarthLiveInTokyo = {
   status: "completed",
   rank: "C",
   publishedAt: "2009-05-09",
-  externalId: "7hWgWwJOlSsevg9SwQ3OjG",
-  externalLink: "https://open.spotify.com/album/7hWgWwJOlSsevg9SwQ3OjG",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7hWgWwJOlSsevg9SwQ3OjG",
+      externalLink: "https://open.spotify.com/album/7hWgWwJOlSsevg9SwQ3OjG",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

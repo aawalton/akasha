@@ -12,6 +12,11 @@ export const enyaShoreRyanEnyaRyanMayItBeArrMSheeran = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-12-14",
-  externalId: "1ufY2qOzMDP5Hw3bmYBuG7",
-  externalLink: "https://open.spotify.com/album/1ufY2qOzMDP5Hw3bmYBuG7",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1ufY2qOzMDP5Hw3bmYBuG7",
+      externalLink: "https://open.spotify.com/album/1ufY2qOzMDP5Hw3bmYBuG7",
+    },
+  ],
 } as const satisfies Release

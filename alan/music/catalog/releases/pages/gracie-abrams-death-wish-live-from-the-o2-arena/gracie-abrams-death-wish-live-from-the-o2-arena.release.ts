@@ -12,6 +12,11 @@ export const gracieAbramsDeathWishLiveFromTheO2Arena = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-04-01",
-  externalId: "44uIJOur5ep2lIaNmbAHfO",
-  externalLink: "https://open.spotify.com/album/44uIJOur5ep2lIaNmbAHfO",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "44uIJOur5ep2lIaNmbAHfO",
+      externalLink: "https://open.spotify.com/album/44uIJOur5ep2lIaNmbAHfO",
+    },
+  ],
 } as const satisfies Release

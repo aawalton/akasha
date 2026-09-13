@@ -12,6 +12,11 @@ export const imagineDragonsBadLiarStripped = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-05-31",
-  externalId: "58401eNNELkIVx3xiwzJFy",
-  externalLink: "https://open.spotify.com/album/58401eNNELkIVx3xiwzJFy",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "58401eNNELkIVx3xiwzJFy",
+      externalLink: "https://open.spotify.com/album/58401eNNELkIVx3xiwzJFy",
+    },
+  ],
 } as const satisfies Release

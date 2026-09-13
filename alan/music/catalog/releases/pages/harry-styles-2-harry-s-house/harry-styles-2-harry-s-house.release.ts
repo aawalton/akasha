@@ -12,6 +12,11 @@ export const harryStyles2HarrySHouse = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-05-20",
-  externalId: "5r36AJ6VOJtp00oxSkBZ5h",
-  externalLink: "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5r36AJ6VOJtp00oxSkBZ5h",
+      externalLink: "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h",
+    },
+  ],
 } as const satisfies Release

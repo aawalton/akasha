@@ -12,6 +12,11 @@ export const girlInRedConfession = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-02-28",
-  externalId: "20leNPAVftANfsWCY2hCfJ",
-  externalLink: "https://open.spotify.com/album/20leNPAVftANfsWCY2hCfJ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "20leNPAVftANfsWCY2hCfJ",
+      externalLink: "https://open.spotify.com/album/20leNPAVftANfsWCY2hCfJ",
+    },
+  ],
 } as const satisfies Release

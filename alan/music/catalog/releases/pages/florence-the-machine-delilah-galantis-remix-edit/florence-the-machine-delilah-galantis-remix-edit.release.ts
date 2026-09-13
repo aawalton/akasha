@@ -12,6 +12,11 @@ export const florenceTheMachineDelilahGalantisRemixEdit = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-11-27",
-  externalId: "1HBQW3rq19r87s2x4OhLGH",
-  externalLink: "https://open.spotify.com/album/1HBQW3rq19r87s2x4OhLGH",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1HBQW3rq19r87s2x4OhLGH",
+      externalLink: "https://open.spotify.com/album/1HBQW3rq19r87s2x4OhLGH",
+    },
+  ],
 } as const satisfies Release

@@ -13,6 +13,11 @@ export const emeiThatGirl = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-07-13",
-  externalId: "7wrW0h4PjKiU3lyvbMtJrN",
-  externalLink: "https://open.spotify.com/album/7wrW0h4PjKiU3lyvbMtJrN",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7wrW0h4PjKiU3lyvbMtJrN",
+      externalLink: "https://open.spotify.com/album/7wrW0h4PjKiU3lyvbMtJrN",
+    },
+  ],
 } as const satisfies Release

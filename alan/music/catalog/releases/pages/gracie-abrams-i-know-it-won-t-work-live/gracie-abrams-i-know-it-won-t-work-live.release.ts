@@ -12,6 +12,11 @@ export const gracieAbramsIKnowItWonTWorkLive = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-02-23",
-  externalId: "4iRWUVgDWkUoMPjz7YTXpy",
-  externalLink: "https://open.spotify.com/album/4iRWUVgDWkUoMPjz7YTXpy",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4iRWUVgDWkUoMPjz7YTXpy",
+      externalLink: "https://open.spotify.com/album/4iRWUVgDWkUoMPjz7YTXpy",
+    },
+  ],
 } as const satisfies Release

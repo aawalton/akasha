@@ -13,7 +13,12 @@ export const greenDayDookie = {
   status: "completed",
   rank: "C",
   publishedAt: "1994-02-01",
-  externalId: "4uG8q3GPuWHQlRbswMIRS6",
-  externalLink: "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4uG8q3GPuWHQlRbswMIRS6",
+      externalLink: "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

@@ -13,7 +13,12 @@ export const greenDayAmericanIdiotTheOriginalBroadwayCastRecording = {
   status: "completed",
   rank: "C",
   publishedAt: "2010-04-20",
-  externalId: "1wO2srr9om17YtEvouoBue",
-  externalLink: "https://open.spotify.com/album/1wO2srr9om17YtEvouoBue",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1wO2srr9om17YtEvouoBue",
+      externalLink: "https://open.spotify.com/album/1wO2srr9om17YtEvouoBue",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

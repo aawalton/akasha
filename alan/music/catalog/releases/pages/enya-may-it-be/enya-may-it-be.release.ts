@@ -12,6 +12,11 @@ export const enyaMayItBe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2002-01-01",
-  externalId: "6o6RblnNPtSpuIdv5p2cZe",
-  externalLink: "https://open.spotify.com/album/6o6RblnNPtSpuIdv5p2cZe",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6o6RblnNPtSpuIdv5p2cZe",
+      externalLink: "https://open.spotify.com/album/6o6RblnNPtSpuIdv5p2cZe",
+    },
+  ],
 } as const satisfies Release

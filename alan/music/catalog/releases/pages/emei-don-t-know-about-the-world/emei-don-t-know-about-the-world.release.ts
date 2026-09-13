@@ -13,6 +13,11 @@ export const emeiDonTKnowAboutTheWorld = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-09-15",
-  externalId: "5GrDrzY4yWfB2YwyZqx2gP",
-  externalLink: "https://open.spotify.com/album/5GrDrzY4yWfB2YwyZqx2gP",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5GrDrzY4yWfB2YwyZqx2gP",
+      externalLink: "https://open.spotify.com/album/5GrDrzY4yWfB2YwyZqx2gP",
+    },
+  ],
 } as const satisfies Release

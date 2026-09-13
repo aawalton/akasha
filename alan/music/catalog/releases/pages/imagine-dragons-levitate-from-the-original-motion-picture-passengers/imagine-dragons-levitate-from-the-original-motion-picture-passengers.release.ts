@@ -12,6 +12,11 @@ export const imagineDragonsLevitateFromTheOriginalMotionPicturePassengers = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-11-29",
-  externalId: "77C7N5engnxpD5Fw0Ctlq3",
-  externalLink: "https://open.spotify.com/album/77C7N5engnxpD5Fw0Ctlq3",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "77C7N5engnxpD5Fw0Ctlq3",
+      externalLink: "https://open.spotify.com/album/77C7N5engnxpD5Fw0Ctlq3",
+    },
+  ],
 } as const satisfies Release

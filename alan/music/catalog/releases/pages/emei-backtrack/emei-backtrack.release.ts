@@ -13,6 +13,11 @@ export const emeiBacktrack = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-11-29",
-  externalId: "0X3WVWpooMcgdYUCGQDzJy",
-  externalLink: "https://open.spotify.com/album/0X3WVWpooMcgdYUCGQDzJy",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0X3WVWpooMcgdYUCGQDzJy",
+      externalLink: "https://open.spotify.com/album/0X3WVWpooMcgdYUCGQDzJy",
+    },
+  ],
 } as const satisfies Release

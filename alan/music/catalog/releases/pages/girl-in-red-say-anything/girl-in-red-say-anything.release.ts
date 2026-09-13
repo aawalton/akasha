@@ -13,6 +13,11 @@ export const girlInRedSayAnything = {
   status: "completed",
   rank: "C",
   publishedAt: "2018-03-03",
-  externalId: "6uwwBscD3q3ZGNTezjvvEL",
-  externalLink: "https://open.spotify.com/album/6uwwBscD3q3ZGNTezjvvEL",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6uwwBscD3q3ZGNTezjvvEL",
+      externalLink: "https://open.spotify.com/album/6uwwBscD3q3ZGNTezjvvEL",
+    },
+  ],
 } as const satisfies Release

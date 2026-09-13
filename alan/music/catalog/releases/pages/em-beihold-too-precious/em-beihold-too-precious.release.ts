@@ -13,6 +13,11 @@ export const emBeiholdTooPrecious = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-05-20",
-  externalId: "2X743cg72FvViLoa1Zagdk",
-  externalLink: "https://open.spotify.com/album/2X743cg72FvViLoa1Zagdk",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2X743cg72FvViLoa1Zagdk",
+      externalLink: "https://open.spotify.com/album/2X743cg72FvViLoa1Zagdk",
+    },
+  ],
 } as const satisfies Release

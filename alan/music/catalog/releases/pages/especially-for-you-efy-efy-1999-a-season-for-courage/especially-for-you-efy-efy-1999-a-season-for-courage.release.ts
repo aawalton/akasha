@@ -12,7 +12,12 @@ export const especiallyForYouEfyEfy1999ASeasonForCourage = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1999-01-01",
-  externalId: "4iTpSNfxeuJcbIBDcM8PrB",
-  externalLink: "https://open.spotify.com/album/4iTpSNfxeuJcbIBDcM8PrB",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4iTpSNfxeuJcbIBDcM8PrB",
+      externalLink: "https://open.spotify.com/album/4iTpSNfxeuJcbIBDcM8PrB",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const florenceTheMachineSymphonyOfLungsBbcPromsAtTheRoyalAlbertHall = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-10-25",
-  externalId: "6qaCznAyIPlFLBbbh2vHub",
-  externalLink: "https://open.spotify.com/album/6qaCznAyIPlFLBbbh2vHub",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6qaCznAyIPlFLBbbh2vHub",
+      externalLink: "https://open.spotify.com/album/6qaCznAyIPlFLBbbh2vHub",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const especiallyForYouEfyEfy1998JoyInTheJourney = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1998-08-01",
-  externalId: "6MTIalnIcng5jRw05lVx73",
-  externalLink: "https://open.spotify.com/album/6MTIalnIcng5jRw05lVx73",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6MTIalnIcng5jRw05lVx73",
+      externalLink: "https://open.spotify.com/album/6MTIalnIcng5jRw05lVx73",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const enyaTheCelts2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1987-01-01",
-  externalId: "3qPIe6YsuQ0qzg6bSEQjfv",
-  externalLink: "https://open.spotify.com/album/3qPIe6YsuQ0qzg6bSEQjfv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3qPIe6YsuQ0qzg6bSEQjfv",
+      externalLink: "https://open.spotify.com/album/3qPIe6YsuQ0qzg6bSEQjfv",
+    },
+  ],
 } as const satisfies Release

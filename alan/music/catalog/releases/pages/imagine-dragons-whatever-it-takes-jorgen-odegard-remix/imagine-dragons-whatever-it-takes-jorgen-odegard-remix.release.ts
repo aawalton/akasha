@@ -12,6 +12,11 @@ export const imagineDragonsWhateverItTakesJorgenOdegardRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-11-10",
-  externalId: "0m0eZs2dMG94vnMAJmcRSe",
-  externalLink: "https://open.spotify.com/album/0m0eZs2dMG94vnMAJmcRSe",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0m0eZs2dMG94vnMAJmcRSe",
+      externalLink: "https://open.spotify.com/album/0m0eZs2dMG94vnMAJmcRSe",
+    },
+  ],
 } as const satisfies Release

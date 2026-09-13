@@ -12,6 +12,11 @@ export const jadaFacerChasingCarsAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-09-13",
-  externalId: "0nBzCyuqrS7SvnGUb1XMHB",
-  externalLink: "https://open.spotify.com/album/0nBzCyuqrS7SvnGUb1XMHB",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0nBzCyuqrS7SvnGUb1XMHB",
+      externalLink: "https://open.spotify.com/album/0nBzCyuqrS7SvnGUb1XMHB",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const florenceTheMachineHowBigHowBlueHowBeautiful = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-06-01",
-  externalId: "2btszoya78vyT8fwelmVnz",
-  externalLink: "https://open.spotify.com/album/2btszoya78vyT8fwelmVnz",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2btszoya78vyT8fwelmVnz",
+      externalLink: "https://open.spotify.com/album/2btszoya78vyT8fwelmVnz",
+    },
+  ],
 } as const satisfies Release

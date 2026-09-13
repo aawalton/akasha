@@ -12,6 +12,11 @@ export const florenceTheMachineMermaids = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-04-21",
-  externalId: "28DpATUm863aldgGwPIkQt",
-  externalLink: "https://open.spotify.com/album/28DpATUm863aldgGwPIkQt",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "28DpATUm863aldgGwPIkQt",
+      externalLink: "https://open.spotify.com/album/28DpATUm863aldgGwPIkQt",
+    },
+  ],
 } as const satisfies Release

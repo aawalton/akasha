@@ -13,6 +13,11 @@ export const emBeiholdNumbLittleBug = {
   status: "completed",
   rank: "A",
   publishedAt: "2022-01-28",
-  externalId: "20zaiRxxUfDqdCKsdSo7HM",
-  externalLink: "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "20zaiRxxUfDqdCKsdSo7HM",
+      externalLink: "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM",
+    },
+  ],
 } as const satisfies Release

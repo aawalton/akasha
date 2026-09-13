@@ -13,7 +13,12 @@ export const greenDayBallyhoo = {
   status: "not-started",
   rank: "C",
   publishedAt: "2025-05-02",
-  externalId: "4YgpNAv2LjHEcPX2L4rtV3",
-  externalLink: "https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4YgpNAv2LjHEcPX2L4rtV3",
+      externalLink: "https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

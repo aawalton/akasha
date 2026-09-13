@@ -13,7 +13,12 @@ export const greenDayDos = {
   status: "completed",
   rank: "C",
   publishedAt: "2012-11-13",
-  externalId: "71rrqHKVkUFx2CSVfxrrLs",
-  externalLink: "https://open.spotify.com/album/71rrqHKVkUFx2CSVfxrrLs",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "71rrqHKVkUFx2CSVfxrrLs",
+      externalLink: "https://open.spotify.com/album/71rrqHKVkUFx2CSVfxrrLs",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

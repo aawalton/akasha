@@ -12,6 +12,11 @@ export const imagineDragonsChildrenOfTheSkyAStarfieldSong = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-08-30",
-  externalId: "52cGkRluhnid41ZmzvVKm6",
-  externalLink: "https://open.spotify.com/album/52cGkRluhnid41ZmzvVKm6",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "52cGkRluhnid41ZmzvVKm6",
+      externalLink: "https://open.spotify.com/album/52cGkRluhnid41ZmzvVKm6",
+    },
+  ],
 } as const satisfies Release

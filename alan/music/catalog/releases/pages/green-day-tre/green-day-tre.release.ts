@@ -13,7 +13,12 @@ export const greenDayTre = {
   status: "completed",
   rank: "C",
   publishedAt: "2012-12-11",
-  externalId: "1t9rzuEEFVHPdqRYzsaWC8",
-  externalLink: "https://open.spotify.com/album/1t9rzuEEFVHPdqRYzsaWC8",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1t9rzuEEFVHPdqRYzsaWC8",
+      externalLink: "https://open.spotify.com/album/1t9rzuEEFVHPdqRYzsaWC8",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

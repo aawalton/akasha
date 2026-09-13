@@ -12,6 +12,11 @@ export const girlInRedDoingItAgainBaby = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-03-07",
-  externalId: "1ER3PB0CgzxRprzl67AAhz",
-  externalLink: "https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1ER3PB0CgzxRprzl67AAhz",
+      externalLink: "https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz",
+    },
+  ],
 } as const satisfies Release

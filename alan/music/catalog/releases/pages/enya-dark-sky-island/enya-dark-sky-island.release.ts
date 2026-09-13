@@ -12,6 +12,11 @@ export const enyaDarkSkyIsland = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-11-20",
-  externalId: "26qiUsjX8tgvAqb2H8bucZ",
-  externalLink: "https://open.spotify.com/album/26qiUsjX8tgvAqb2H8bucZ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "26qiUsjX8tgvAqb2H8bucZ",
+      externalLink: "https://open.spotify.com/album/26qiUsjX8tgvAqb2H8bucZ",
+    },
+  ],
 } as const satisfies Release

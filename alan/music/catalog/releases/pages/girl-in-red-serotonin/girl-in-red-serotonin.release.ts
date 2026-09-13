@@ -12,6 +12,11 @@ export const girlInRedSerotonin = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-03-03",
-  externalId: "1ggmWhoTcBC3o1pWbDoS2T",
-  externalLink: "https://open.spotify.com/album/1ggmWhoTcBC3o1pWbDoS2T",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1ggmWhoTcBC3o1pWbDoS2T",
+      externalLink: "https://open.spotify.com/album/1ggmWhoTcBC3o1pWbDoS2T",
+    },
+  ],
 } as const satisfies Release

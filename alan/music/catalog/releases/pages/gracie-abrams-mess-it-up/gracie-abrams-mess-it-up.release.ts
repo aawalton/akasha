@@ -13,6 +13,11 @@ export const gracieAbramsMessItUp = {
   status: "completed",
   rank: "B",
   publishedAt: "2021-05-07",
-  externalId: "6VnfHoGb1PKxRPmjNBmeMf",
-  externalLink: "https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6VnfHoGb1PKxRPmjNBmeMf",
+      externalLink: "https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf",
+    },
+  ],
 } as const satisfies Release

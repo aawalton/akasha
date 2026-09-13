@@ -12,6 +12,11 @@ export const enyaEclipse2009Remaster = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-06-12",
-  externalId: "2boYA3zd6uqaTWBEPCmcCm",
-  externalLink: "https://open.spotify.com/album/2boYA3zd6uqaTWBEPCmcCm",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2boYA3zd6uqaTWBEPCmcCm",
+      externalLink: "https://open.spotify.com/album/2boYA3zd6uqaTWBEPCmcCm",
+    },
+  ],
 } as const satisfies Release

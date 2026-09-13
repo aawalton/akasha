@@ -12,6 +12,11 @@ export const florenceTheMachineOneOfTheGreats = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-09-24",
-  externalId: "2tJD14Pr3uNltSZJ4Iz4Yi",
-  externalLink: "https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2tJD14Pr3uNltSZJ4Iz4Yi",
+      externalLink: "https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const florenceTheMachineDrummingSong = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2009-01-01",
-  externalId: "4TpneFAVpBvHJBdcrDbPZw",
-  externalLink: "https://open.spotify.com/album/4TpneFAVpBvHJBdcrDbPZw",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4TpneFAVpBvHJBdcrDbPZw",
+      externalLink: "https://open.spotify.com/album/4TpneFAVpBvHJBdcrDbPZw",
+    },
+  ],
 } as const satisfies Release

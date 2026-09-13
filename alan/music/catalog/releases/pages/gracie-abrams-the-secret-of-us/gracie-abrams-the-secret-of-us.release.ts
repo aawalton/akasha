@@ -12,6 +12,11 @@ export const gracieAbramsTheSecretOfUs = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-06-21",
-  externalId: "56bdWeO40o3WfAD2Lja4dl",
-  externalLink: "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "56bdWeO40o3WfAD2Lja4dl",
+      externalLink: "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl",
+    },
+  ],
 } as const satisfies Release

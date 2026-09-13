@@ -13,7 +13,12 @@ export const greenDayKnowYourEnemy = {
   status: "completed",
   rank: "C",
   publishedAt: "2009-05-01",
-  externalId: "4ttPHS7Bi0GXnry9C9yClz",
-  externalLink: "https://open.spotify.com/album/4ttPHS7Bi0GXnry9C9yClz",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4ttPHS7Bi0GXnry9C9yClz",
+      externalLink: "https://open.spotify.com/album/4ttPHS7Bi0GXnry9C9yClz",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

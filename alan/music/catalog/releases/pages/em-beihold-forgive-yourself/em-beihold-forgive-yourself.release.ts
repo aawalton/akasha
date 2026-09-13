@@ -13,6 +13,11 @@ export const emBeiholdForgiveYourself = {
   status: "completed",
   rank: "A",
   publishedAt: "2020-05-15",
-  externalId: "06fOjW8EFww9Q5u610NIY3",
-  externalLink: "https://open.spotify.com/album/06fOjW8EFww9Q5u610NIY3",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "06fOjW8EFww9Q5u610NIY3",
+      externalLink: "https://open.spotify.com/album/06fOjW8EFww9Q5u610NIY3",
+    },
+  ],
 } as const satisfies Release

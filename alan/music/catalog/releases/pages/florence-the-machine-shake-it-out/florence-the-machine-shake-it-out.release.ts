@@ -12,6 +12,11 @@ export const florenceTheMachineShakeItOut = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2011-01-01",
-  externalId: "7nfp7beJJKBceUtLc3MtLE",
-  externalLink: "https://open.spotify.com/album/7nfp7beJJKBceUtLc3MtLE",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7nfp7beJJKBceUtLc3MtLE",
+      externalLink: "https://open.spotify.com/album/7nfp7beJJKBceUtLc3MtLE",
+    },
+  ],
 } as const satisfies Release

@@ -13,7 +13,12 @@ export const greenDayInternationalSuperhits = {
   status: "completed",
   rank: "C",
   publishedAt: "2001-11-13",
-  externalId: "6HUIbDhzmqcwxrxUfTuHdW",
-  externalLink: "https://open.spotify.com/album/6HUIbDhzmqcwxrxUfTuHdW",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6HUIbDhzmqcwxrxUfTuHdW",
+      externalLink: "https://open.spotify.com/album/6HUIbDhzmqcwxrxUfTuHdW",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

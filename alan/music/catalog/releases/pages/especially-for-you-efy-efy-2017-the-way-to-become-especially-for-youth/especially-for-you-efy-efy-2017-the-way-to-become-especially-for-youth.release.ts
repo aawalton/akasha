@@ -12,7 +12,12 @@ export const especiallyForYouEfyEfy2017TheWayToBecomeEspeciallyForYouth = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-06-01",
-  externalId: "2pVT0vPwo3QzXu1a8xrIo5",
-  externalLink: "https://open.spotify.com/album/2pVT0vPwo3QzXu1a8xrIo5",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2pVT0vPwo3QzXu1a8xrIo5",
+      externalLink: "https://open.spotify.com/album/2pVT0vPwo3QzXu1a8xrIo5",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

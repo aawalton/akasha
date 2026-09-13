@@ -12,6 +12,11 @@ export const enyaOnlyTimeRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2001-01-01",
-  externalId: "4UbEBIr5sQHjHTytKWqYqq",
-  externalLink: "https://open.spotify.com/album/4UbEBIr5sQHjHTytKWqYqq",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4UbEBIr5sQHjHTytKWqYqq",
+      externalLink: "https://open.spotify.com/album/4UbEBIr5sQHjHTytKWqYqq",
+    },
+  ],
 } as const satisfies Release

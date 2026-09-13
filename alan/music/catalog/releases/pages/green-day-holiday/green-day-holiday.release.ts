@@ -13,7 +13,12 @@ export const greenDayHoliday = {
   status: "completed",
   rank: "C",
   publishedAt: "2005-03-30",
-  externalId: "1SPzhFzjXrz9OXLP2rKg1C",
-  externalLink: "https://open.spotify.com/album/1SPzhFzjXrz9OXLP2rKg1C",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1SPzhFzjXrz9OXLP2rKg1C",
+      externalLink: "https://open.spotify.com/album/1SPzhFzjXrz9OXLP2rKg1C",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

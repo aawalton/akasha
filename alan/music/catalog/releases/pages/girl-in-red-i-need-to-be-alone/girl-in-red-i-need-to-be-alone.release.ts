@@ -12,6 +12,11 @@ export const girlInRedINeedToBeAlone = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2019-03-13",
-  externalId: "3UN8IYnBeUlkCjdb7B34EY",
-  externalLink: "https://open.spotify.com/album/3UN8IYnBeUlkCjdb7B34EY",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3UN8IYnBeUlkCjdb7B34EY",
+      externalLink: "https://open.spotify.com/album/3UN8IYnBeUlkCjdb7B34EY",
+    },
+  ],
 } as const satisfies Release

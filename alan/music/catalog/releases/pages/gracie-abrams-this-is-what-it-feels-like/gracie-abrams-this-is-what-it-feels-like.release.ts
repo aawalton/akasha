@@ -13,6 +13,11 @@ export const gracieAbramsThisIsWhatItFeelsLike = {
   status: "completed",
   rank: "B",
   publishedAt: "2021-11-12",
-  externalId: "7l2g05NyprwonSFIs2y8at",
-  externalLink: "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7l2g05NyprwonSFIs2y8at",
+      externalLink: "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const jadaFacerBeAlrightSpedUpVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-10-04",
-  externalId: "2KLxULmoZynYiPIq4YTM9P",
-  externalLink: "https://open.spotify.com/album/2KLxULmoZynYiPIq4YTM9P",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2KLxULmoZynYiPIq4YTM9P",
+      externalLink: "https://open.spotify.com/album/2KLxULmoZynYiPIq4YTM9P",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const epicTheMusicalEpicTheCyclopsSagaOfficialConceptAlbum = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-07-04",
-  externalId: "2W4RO0PnljszZbktVgqoIv",
-  externalLink: "https://open.spotify.com/album/2W4RO0PnljszZbktVgqoIv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2W4RO0PnljszZbktVgqoIv",
+      externalLink: "https://open.spotify.com/album/2W4RO0PnljszZbktVgqoIv",
+    },
+  ],
 } as const satisfies Release

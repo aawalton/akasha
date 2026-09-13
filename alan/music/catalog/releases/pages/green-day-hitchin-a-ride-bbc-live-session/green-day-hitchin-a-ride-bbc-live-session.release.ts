@@ -13,7 +13,12 @@ export const greenDayHitchinARideBbcLiveSession = {
   status: "not-started",
   rank: "C",
   publishedAt: "2021-11-26",
-  externalId: "5fqgJBTZYWaRVhTWSHqEYM",
-  externalLink: "https://open.spotify.com/album/5fqgJBTZYWaRVhTWSHqEYM",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5fqgJBTZYWaRVhTWSHqEYM",
+      externalLink: "https://open.spotify.com/album/5fqgJBTZYWaRVhTWSHqEYM",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

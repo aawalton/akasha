@@ -13,6 +13,11 @@ export const emBeiholdGroundhogDay = {
   status: "completed",
   rank: "A",
   publishedAt: "2021-05-28",
-  externalId: "0Nv9MBWrH1OmMohTasPc4O",
-  externalLink: "https://open.spotify.com/album/0Nv9MBWrH1OmMohTasPc4O",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0Nv9MBWrH1OmMohTasPc4O",
+      externalLink: "https://open.spotify.com/album/0Nv9MBWrH1OmMohTasPc4O",
+    },
+  ],
 } as const satisfies Release

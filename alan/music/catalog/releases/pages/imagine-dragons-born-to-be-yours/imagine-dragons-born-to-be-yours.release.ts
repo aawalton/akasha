@@ -12,6 +12,11 @@ export const imagineDragonsBornToBeYours = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-06-15",
-  externalId: "3Nlbg1BHLXDKqQVQ9ErCmg",
-  externalLink: "https://open.spotify.com/album/3Nlbg1BHLXDKqQVQ9ErCmg",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3Nlbg1BHLXDKqQVQ9ErCmg",
+      externalLink: "https://open.spotify.com/album/3Nlbg1BHLXDKqQVQ9ErCmg",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const florenceTheMachineModeration = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-01-24",
-  externalId: "7kytZHAdRdVINFw8W1TB50",
-  externalLink: "https://open.spotify.com/album/7kytZHAdRdVINFw8W1TB50",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7kytZHAdRdVINFw8W1TB50",
+      externalLink: "https://open.spotify.com/album/7kytZHAdRdVINFw8W1TB50",
+    },
+  ],
 } as const satisfies Release

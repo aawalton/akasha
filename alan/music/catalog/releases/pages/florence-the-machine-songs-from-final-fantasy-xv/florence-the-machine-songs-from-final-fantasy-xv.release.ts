@@ -12,6 +12,11 @@ export const florenceTheMachineSongsFromFinalFantasyXv = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-08-12",
-  externalId: "3G5GOLjvWUBRIrRp3GKnXO",
-  externalLink: "https://open.spotify.com/album/3G5GOLjvWUBRIrRp3GKnXO",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3G5GOLjvWUBRIrRp3GKnXO",
+      externalLink: "https://open.spotify.com/album/3G5GOLjvWUBRIrRp3GKnXO",
+    },
+  ],
 } as const satisfies Release

@@ -13,6 +13,11 @@ export const emBeiholdPhone = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-07-07",
-  externalId: "7ajeVOWfz9qfKlEXDBN5Uo",
-  externalLink: "https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7ajeVOWfz9qfKlEXDBN5Uo",
+      externalLink: "https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo",
+    },
+  ],
 } as const satisfies Release

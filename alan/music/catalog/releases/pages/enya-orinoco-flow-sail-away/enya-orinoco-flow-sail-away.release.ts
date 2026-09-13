@@ -12,6 +12,11 @@ export const enyaOrinocoFlowSailAway = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1988-10-15",
-  externalId: "6euqAQ8Nl6axefUvo2oJMQ",
-  externalLink: "https://open.spotify.com/album/6euqAQ8Nl6axefUvo2oJMQ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6euqAQ8Nl6axefUvo2oJMQ",
+      externalLink: "https://open.spotify.com/album/6euqAQ8Nl6axefUvo2oJMQ",
+    },
+  ],
 } as const satisfies Release

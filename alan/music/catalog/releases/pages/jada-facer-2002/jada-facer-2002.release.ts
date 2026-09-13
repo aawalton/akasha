@@ -12,6 +12,11 @@ export const jadaFacer2002 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-06-09",
-  externalId: "611YpHGxhnd0WqmtlswjaB",
-  externalLink: "https://open.spotify.com/album/611YpHGxhnd0WqmtlswjaB",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "611YpHGxhnd0WqmtlswjaB",
+      externalLink: "https://open.spotify.com/album/611YpHGxhnd0WqmtlswjaB",
+    },
+  ],
 } as const satisfies Release

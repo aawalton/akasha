@@ -12,6 +12,11 @@ export const gracieAbramsEverywhereEverythingWithGracieAbrams = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-12-01",
-  externalId: "0kOisOp4b7xNUNs7aSMSno",
-  externalLink: "https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0kOisOp4b7xNUNs7aSMSno",
+      externalLink: "https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno",
+    },
+  ],
 } as const satisfies Release

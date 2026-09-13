@@ -13,6 +13,11 @@ export const emBeiholdMaybeLifeIsGood = {
   status: "completed",
   rank: "A",
   publishedAt: "2024-02-09",
-  externalId: "3JrelA49G1d8BdKIaJ64YO",
-  externalLink: "https://open.spotify.com/album/3JrelA49G1d8BdKIaJ64YO",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3JrelA49G1d8BdKIaJ64YO",
+      externalLink: "https://open.spotify.com/album/3JrelA49G1d8BdKIaJ64YO",
+    },
+  ],
 } as const satisfies Release

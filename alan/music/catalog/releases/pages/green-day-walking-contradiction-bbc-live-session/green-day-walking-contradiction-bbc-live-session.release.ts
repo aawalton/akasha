@@ -13,7 +13,12 @@ export const greenDayWalkingContradictionBbcLiveSession = {
   status: "not-started",
   rank: "C",
   publishedAt: "2021-11-19",
-  externalId: "5jGehv59rMwgp8NWI33kHb",
-  externalLink: "https://open.spotify.com/album/5jGehv59rMwgp8NWI33kHb",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5jGehv59rMwgp8NWI33kHb",
+      externalLink: "https://open.spotify.com/album/5jGehv59rMwgp8NWI33kHb",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

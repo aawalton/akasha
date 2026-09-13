@@ -12,6 +12,11 @@ export const florenceTheMachineHeavenIsHere = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-03-07",
-  externalId: "0hXSbYZ7JjhagNJ5kKiELq",
-  externalLink: "https://open.spotify.com/album/0hXSbYZ7JjhagNJ5kKiELq",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0hXSbYZ7JjhagNJ5kKiELq",
+      externalLink: "https://open.spotify.com/album/0hXSbYZ7JjhagNJ5kKiELq",
+    },
+  ],
 } as const satisfies Release

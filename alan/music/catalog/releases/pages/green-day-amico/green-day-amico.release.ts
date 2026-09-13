@@ -13,7 +13,12 @@ export const greenDayAmico = {
   status: "not-started",
   rank: "C",
   publishedAt: "2020-10-16",
-  externalId: "3jX84c9YrJYvB7nrul5fbN",
-  externalLink: "https://open.spotify.com/album/3jX84c9YrJYvB7nrul5fbN",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3jX84c9YrJYvB7nrul5fbN",
+      externalLink: "https://open.spotify.com/album/3jX84c9YrJYvB7nrul5fbN",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

@@ -13,7 +13,12 @@ export const greenDayAmericanIdiotDeluxe = {
   status: "completed",
   rank: "C",
   publishedAt: "2004-09-21",
-  externalId: "5Qhn2FpGWmTjCuntF09j7g",
-  externalLink: "https://open.spotify.com/album/5Qhn2FpGWmTjCuntF09j7g",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5Qhn2FpGWmTjCuntF09j7g",
+      externalLink: "https://open.spotify.com/album/5Qhn2FpGWmTjCuntF09j7g",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

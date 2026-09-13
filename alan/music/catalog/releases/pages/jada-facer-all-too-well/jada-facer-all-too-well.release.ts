@@ -12,6 +12,11 @@ export const jadaFacerAllTooWell = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-12-06",
-  externalId: "3LKAD88mP90nnL4CHVknVr",
-  externalLink: "https://open.spotify.com/album/3LKAD88mP90nnL4CHVknVr",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3LKAD88mP90nnL4CHVknVr",
+      externalLink: "https://open.spotify.com/album/3LKAD88mP90nnL4CHVknVr",
+    },
+  ],
 } as const satisfies Release

@@ -13,7 +13,12 @@ export const greenDayAmericanIdiot20thAnniversaryBecomingWhoWeAre = {
   status: "not-started",
   rank: "C",
   publishedAt: "2024-09-06",
-  externalId: "4kebtpWNmc8CLgOm7bFvGx",
-  externalLink: "https://open.spotify.com/album/4kebtpWNmc8CLgOm7bFvGx",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4kebtpWNmc8CLgOm7bFvGx",
+      externalLink: "https://open.spotify.com/album/4kebtpWNmc8CLgOm7bFvGx",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const jadaFacerCanYouFeelTheLoveTonight = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-10-17",
-  externalId: "4BOO2knLJPSLB0LUGzI6cj",
-  externalLink: "https://open.spotify.com/album/4BOO2knLJPSLB0LUGzI6cj",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4BOO2knLJPSLB0LUGzI6cj",
+      externalLink: "https://open.spotify.com/album/4BOO2knLJPSLB0LUGzI6cj",
+    },
+  ],
 } as const satisfies Release

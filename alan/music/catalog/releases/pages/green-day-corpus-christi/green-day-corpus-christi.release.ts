@@ -13,7 +13,12 @@ export const greenDayCorpusChristi = {
   status: "not-started",
   rank: "C",
   publishedAt: "2020-10-02",
-  externalId: "1VqqXWtkazEavjCo5A89wG",
-  externalLink: "https://open.spotify.com/album/1VqqXWtkazEavjCo5A89wG",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1VqqXWtkazEavjCo5A89wG",
+      externalLink: "https://open.spotify.com/album/1VqqXWtkazEavjCo5A89wG",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

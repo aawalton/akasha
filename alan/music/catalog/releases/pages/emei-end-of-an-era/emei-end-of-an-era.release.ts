@@ -13,6 +13,11 @@ export const emeiEndOfAnEra = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-10-26",
-  externalId: "4I0vC4wtvUmowO4rMM3eOV",
-  externalLink: "https://open.spotify.com/album/4I0vC4wtvUmowO4rMM3eOV",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4I0vC4wtvUmowO4rMM3eOV",
+      externalLink: "https://open.spotify.com/album/4I0vC4wtvUmowO4rMM3eOV",
+    },
+  ],
 } as const satisfies Release

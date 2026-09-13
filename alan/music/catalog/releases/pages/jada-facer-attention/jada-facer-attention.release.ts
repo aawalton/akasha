@@ -12,6 +12,11 @@ export const jadaFacerAttention = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-06-14",
-  externalId: "2f43i7K8jxIZAoltmMpqL0",
-  externalLink: "https://open.spotify.com/album/2f43i7K8jxIZAoltmMpqL0",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2f43i7K8jxIZAoltmMpqL0",
+      externalLink: "https://open.spotify.com/album/2f43i7K8jxIZAoltmMpqL0",
+    },
+  ],
 } as const satisfies Release

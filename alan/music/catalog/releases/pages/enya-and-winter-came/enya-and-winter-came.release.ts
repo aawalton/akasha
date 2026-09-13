@@ -12,6 +12,11 @@ export const enyaAndWinterCame = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2008-11-10",
-  externalId: "2CemN34rnpp6wrCFJo555S",
-  externalLink: "https://open.spotify.com/album/2CemN34rnpp6wrCFJo555S",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2CemN34rnpp6wrCFJo555S",
+      externalLink: "https://open.spotify.com/album/2CemN34rnpp6wrCFJo555S",
+    },
+  ],
 } as const satisfies Release

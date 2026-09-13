@@ -12,6 +12,11 @@ export const imagineDragonsTakeMeToTheBeachFeatJungeli = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-11-01",
-  externalId: "1eFuf3Xkm3XiiPRVX9ambn",
-  externalLink: "https://open.spotify.com/album/1eFuf3Xkm3XiiPRVX9ambn",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1eFuf3Xkm3XiiPRVX9ambn",
+      externalLink: "https://open.spotify.com/album/1eFuf3Xkm3XiiPRVX9ambn",
+    },
+  ],
 } as const satisfies Release

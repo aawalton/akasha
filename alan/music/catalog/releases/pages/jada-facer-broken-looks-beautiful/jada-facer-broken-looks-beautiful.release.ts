@@ -12,6 +12,11 @@ export const jadaFacerBrokenLooksBeautiful = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-12-13",
-  externalId: "6JXbjZMzTTvehw8PGt7Ejk",
-  externalLink: "https://open.spotify.com/album/6JXbjZMzTTvehw8PGt7Ejk",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6JXbjZMzTTvehw8PGt7Ejk",
+      externalLink: "https://open.spotify.com/album/6JXbjZMzTTvehw8PGt7Ejk",
+    },
+  ],
 } as const satisfies Release

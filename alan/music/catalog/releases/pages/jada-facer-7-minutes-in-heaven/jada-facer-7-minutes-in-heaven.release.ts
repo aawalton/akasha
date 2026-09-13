@@ -12,6 +12,11 @@ export const jadaFacer7MinutesInHeaven = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-07-07",
-  externalId: "1gvkpT3gFSIx81e1xEElgD",
-  externalLink: "https://open.spotify.com/album/1gvkpT3gFSIx81e1xEElgD",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1gvkpT3gFSIx81e1xEElgD",
+      externalLink: "https://open.spotify.com/album/1gvkpT3gFSIx81e1xEElgD",
+    },
+  ],
 } as const satisfies Release

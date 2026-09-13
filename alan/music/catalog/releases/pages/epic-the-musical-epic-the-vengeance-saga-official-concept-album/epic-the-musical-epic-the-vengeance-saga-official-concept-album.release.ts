@@ -12,6 +12,11 @@ export const epicTheMusicalEpicTheVengeanceSagaOfficialConceptAlbum = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-10-31",
-  externalId: "5P7YyqqjHuq7mSLqIY06jE",
-  externalLink: "https://open.spotify.com/album/5P7YyqqjHuq7mSLqIY06jE",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5P7YyqqjHuq7mSLqIY06jE",
+      externalLink: "https://open.spotify.com/album/5P7YyqqjHuq7mSLqIY06jE",
+    },
+  ],
 } as const satisfies Release

@@ -13,6 +13,11 @@ export const emBeiholdTheBirdSongWithEmBeihold = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-12-13",
-  externalId: "16aOYP4x2wHzjOZBUSvvg5",
-  externalLink: "https://open.spotify.com/album/16aOYP4x2wHzjOZBUSvvg5",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "16aOYP4x2wHzjOZBUSvvg5",
+      externalLink: "https://open.spotify.com/album/16aOYP4x2wHzjOZBUSvvg5",
+    },
+  ],
 } as const satisfies Release

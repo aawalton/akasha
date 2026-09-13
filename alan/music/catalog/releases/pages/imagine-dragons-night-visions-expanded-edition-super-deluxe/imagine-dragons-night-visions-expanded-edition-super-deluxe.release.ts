@@ -12,6 +12,11 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-09-09",
-  externalId: "0LLA5YL3g2UReWlP7nWqGh",
-  externalLink: "https://open.spotify.com/album/0LLA5YL3g2UReWlP7nWqGh",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0LLA5YL3g2UReWlP7nWqGh",
+      externalLink: "https://open.spotify.com/album/0LLA5YL3g2UReWlP7nWqGh",
+    },
+  ],
 } as const satisfies Release

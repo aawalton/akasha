@@ -12,6 +12,11 @@ export const epicTheMusicalEpicTheOceanSagaOfficialConceptAlbum = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-12-25",
-  externalId: "6q6FBKPiH2waQezdzpxhuz",
-  externalLink: "https://open.spotify.com/album/6q6FBKPiH2waQezdzpxhuz",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6q6FBKPiH2waQezdzpxhuz",
+      externalLink: "https://open.spotify.com/album/6q6FBKPiH2waQezdzpxhuz",
+    },
+  ],
 } as const satisfies Release

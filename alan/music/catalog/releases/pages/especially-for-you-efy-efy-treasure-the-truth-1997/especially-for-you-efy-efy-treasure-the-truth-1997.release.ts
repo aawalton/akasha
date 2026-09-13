@@ -12,7 +12,12 @@ export const especiallyForYouEfyEfyTreasureTheTruth1997 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1997-01-01",
-  externalId: "784BD80Hbl8H8rFnU37dBf",
-  externalLink: "https://open.spotify.com/album/784BD80Hbl8H8rFnU37dBf",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "784BD80Hbl8H8rFnU37dBf",
+      externalLink: "https://open.spotify.com/album/784BD80Hbl8H8rFnU37dBf",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

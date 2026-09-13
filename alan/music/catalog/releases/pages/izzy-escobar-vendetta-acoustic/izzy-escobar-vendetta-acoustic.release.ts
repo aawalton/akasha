@@ -12,7 +12,12 @@ export const izzyEscobarVendettaAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-11-21",
-  externalId: "665owzwJ2O1SxxVRGgaeA7",
-  externalLink: "https://open.spotify.com/album/665owzwJ2O1SxxVRGgaeA7",
-  lastSyncedAt: "2025-12-16",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "665owzwJ2O1SxxVRGgaeA7",
+      externalLink: "https://open.spotify.com/album/665owzwJ2O1SxxVRGgaeA7",
+      lastSyncedAt: "2025-12-16",
+    },
+  ],
 } as const satisfies Release

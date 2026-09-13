@@ -12,6 +12,11 @@ export const florenceTheMachineSpectrumSayMyNameEp = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-01-01",
-  externalId: "2cwJklonI65VsnAw9Z0bIu",
-  externalLink: "https://open.spotify.com/album/2cwJklonI65VsnAw9Z0bIu",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2cwJklonI65VsnAw9Z0bIu",
+      externalLink: "https://open.spotify.com/album/2cwJklonI65VsnAw9Z0bIu",
+    },
+  ],
 } as const satisfies Release

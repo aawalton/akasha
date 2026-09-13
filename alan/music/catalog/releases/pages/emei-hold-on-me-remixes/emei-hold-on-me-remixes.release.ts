@@ -13,6 +13,11 @@ export const emeiHoldOnMeRemixes = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-12-29",
-  externalId: "2j0I3fCFeUI1M4ZCu7z9Ds",
-  externalLink: "https://open.spotify.com/album/2j0I3fCFeUI1M4ZCu7z9Ds",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2j0I3fCFeUI1M4ZCu7z9Ds",
+      externalLink: "https://open.spotify.com/album/2j0I3fCFeUI1M4ZCu7z9Ds",
+    },
+  ],
 } as const satisfies Release

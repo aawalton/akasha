@@ -12,6 +12,11 @@ export const florenceTheMachineBetweenTwoLungs = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2010-01-01",
-  externalId: "1iA9sq6Ldnw1HP1YXpa8jh",
-  externalLink: "https://open.spotify.com/album/1iA9sq6Ldnw1HP1YXpa8jh",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1iA9sq6Ldnw1HP1YXpa8jh",
+      externalLink: "https://open.spotify.com/album/1iA9sq6Ldnw1HP1YXpa8jh",
+    },
+  ],
 } as const satisfies Release

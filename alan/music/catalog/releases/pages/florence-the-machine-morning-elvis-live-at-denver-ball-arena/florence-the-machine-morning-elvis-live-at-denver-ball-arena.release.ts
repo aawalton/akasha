@@ -12,6 +12,11 @@ export const florenceTheMachineMorningElvisLiveAtDenverBallArena = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-12-09",
-  externalId: "2x9KxA4G0o6qePmduWIoWh",
-  externalLink: "https://open.spotify.com/album/2x9KxA4G0o6qePmduWIoWh",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2x9KxA4G0o6qePmduWIoWh",
+      externalLink: "https://open.spotify.com/album/2x9KxA4G0o6qePmduWIoWh",
+    },
+  ],
 } as const satisfies Release

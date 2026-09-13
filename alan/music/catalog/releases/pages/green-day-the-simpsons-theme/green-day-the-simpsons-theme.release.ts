@@ -13,7 +13,12 @@ export const greenDayTheSimpsonsTheme = {
   status: "completed",
   rank: "C",
   publishedAt: "2007-07-23",
-  externalId: "5B5k1Rfb79fkZOGAk33CYk",
-  externalLink: "https://open.spotify.com/album/5B5k1Rfb79fkZOGAk33CYk",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5B5k1Rfb79fkZOGAk33CYk",
+      externalLink: "https://open.spotify.com/album/5B5k1Rfb79fkZOGAk33CYk",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

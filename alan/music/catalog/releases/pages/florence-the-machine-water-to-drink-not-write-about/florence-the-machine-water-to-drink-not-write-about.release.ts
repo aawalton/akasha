@@ -12,6 +12,11 @@ export const florenceTheMachineWaterToDrinkNotWriteAbout = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-01-28",
-  externalId: "0tnCDvhS2L1WASkhOVgerW",
-  externalLink: "https://open.spotify.com/album/0tnCDvhS2L1WASkhOVgerW",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0tnCDvhS2L1WASkhOVgerW",
+      externalLink: "https://open.spotify.com/album/0tnCDvhS2L1WASkhOVgerW",
+    },
+  ],
 } as const satisfies Release

@@ -13,6 +13,11 @@ export const emBeiholdUntilIFoundYouEmBeiholdVersion = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-04-22",
-  externalId: "7ARtQpvnPN2ucbmVHngLOs",
-  externalLink: "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7ARtQpvnPN2ucbmVHngLOs",
+      externalLink: "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const florenceTheMachineHarderThanHell = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-02-11",
-  externalId: "4X9nSf8xmYbemrz2IAXFgY",
-  externalLink: "https://open.spotify.com/album/4X9nSf8xmYbemrz2IAXFgY",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4X9nSf8xmYbemrz2IAXFgY",
+      externalLink: "https://open.spotify.com/album/4X9nSf8xmYbemrz2IAXFgY",
+    },
+  ],
 } as const satisfies Release

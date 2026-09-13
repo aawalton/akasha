@@ -12,6 +12,11 @@ export const florenceTheMachinePatriciaAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-07-06",
-  externalId: "2eIak7bTvFXo9O9z8sSIp0",
-  externalLink: "https://open.spotify.com/album/2eIak7bTvFXo9O9z8sSIp0",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2eIak7bTvFXo9O9z8sSIp0",
+      externalLink: "https://open.spotify.com/album/2eIak7bTvFXo9O9z8sSIp0",
+    },
+  ],
 } as const satisfies Release

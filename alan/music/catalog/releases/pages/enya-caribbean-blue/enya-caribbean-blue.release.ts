@@ -12,6 +12,11 @@ export const enyaCaribbeanBlue = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1991-01-01",
-  externalId: "0drAXE2TkbZhrj2HBB4bOc",
-  externalLink: "https://open.spotify.com/album/0drAXE2TkbZhrj2HBB4bOc",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0drAXE2TkbZhrj2HBB4bOc",
+      externalLink: "https://open.spotify.com/album/0drAXE2TkbZhrj2HBB4bOc",
+    },
+  ],
 } as const satisfies Release

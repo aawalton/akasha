@@ -13,7 +13,12 @@ export const greenDayBoulevardOfBrokenDreams = {
   status: "completed",
   rank: "C",
   publishedAt: "2004-01-01",
-  externalId: "2sIWM1FzNqLCccNwXuC4SA",
-  externalLink: "https://open.spotify.com/album/2sIWM1FzNqLCccNwXuC4SA",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2sIWM1FzNqLCccNwXuC4SA",
+      externalLink: "https://open.spotify.com/album/2sIWM1FzNqLCccNwXuC4SA",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const enyaOnlyTime = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2000-11-21",
-  externalId: "0c4CTDOVv8MAU2T2znmhra",
-  externalLink: "https://open.spotify.com/album/0c4CTDOVv8MAU2T2znmhra",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0c4CTDOVv8MAU2T2znmhra",
+      externalLink: "https://open.spotify.com/album/0c4CTDOVv8MAU2T2znmhra",
+    },
+  ],
 } as const satisfies Release

@@ -13,7 +13,12 @@ export const greenDayCastawayDemo = {
   status: "not-started",
   rank: "C",
   publishedAt: "2025-10-03",
-  externalId: "5iryZx6gMDImSdkxCM5c3B",
-  externalLink: "https://open.spotify.com/album/5iryZx6gMDImSdkxCM5c3B",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5iryZx6gMDImSdkxCM5c3B",
+      externalLink: "https://open.spotify.com/album/5iryZx6gMDImSdkxCM5c3B",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

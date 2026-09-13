@@ -12,6 +12,11 @@ export const jadaFacerAlwaysRememberUsThisWay = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-06-12",
-  externalId: "1f7YYa32O6pDWNOkUUW6Z5",
-  externalLink: "https://open.spotify.com/album/1f7YYa32O6pDWNOkUUW6Z5",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1f7YYa32O6pDWNOkUUW6Z5",
+      externalLink: "https://open.spotify.com/album/1f7YYa32O6pDWNOkUUW6Z5",
+    },
+  ],
 } as const satisfies Release

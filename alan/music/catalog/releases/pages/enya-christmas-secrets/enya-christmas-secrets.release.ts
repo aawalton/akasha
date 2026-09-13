@@ -12,6 +12,11 @@ export const enyaChristmasSecrets = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-12-06",
-  externalId: "2fsLmnHfFDrssEdhLMyaML",
-  externalLink: "https://open.spotify.com/album/2fsLmnHfFDrssEdhLMyaML",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2fsLmnHfFDrssEdhLMyaML",
+      externalLink: "https://open.spotify.com/album/2fsLmnHfFDrssEdhLMyaML",
+    },
+  ],
 } as const satisfies Release

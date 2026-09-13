@@ -12,6 +12,11 @@ export const gracieAbramsTheBuccaneersSeason1AppleTvOriginalSeriesSoundtrack = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-11-08",
-  externalId: "0oYAtqsEaHuICtq1vwe8QZ",
-  externalLink: "https://open.spotify.com/album/0oYAtqsEaHuICtq1vwe8QZ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0oYAtqsEaHuICtq1vwe8QZ",
+      externalLink: "https://open.spotify.com/album/0oYAtqsEaHuICtq1vwe8QZ",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const izzyEscobarJackieO = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-12-12",
-  externalId: "4dBPkG4tMpGYNQ01R7obbm",
-  externalLink: "https://open.spotify.com/album/4dBPkG4tMpGYNQ01R7obbm",
-  lastSyncedAt: "2025-12-16",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4dBPkG4tMpGYNQ01R7obbm",
+      externalLink: "https://open.spotify.com/album/4dBPkG4tMpGYNQ01R7obbm",
+      lastSyncedAt: "2025-12-16",
+    },
+  ],
 } as const satisfies Release

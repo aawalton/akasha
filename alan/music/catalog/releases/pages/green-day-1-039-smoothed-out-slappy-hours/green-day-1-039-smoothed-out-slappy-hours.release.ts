@@ -13,7 +13,12 @@ export const greenDay1039SmoothedOutSlappyHours = {
   status: "completed",
   rank: "C",
   publishedAt: "1991-07-01",
-  externalId: "5xlutZ0sYfJQjVIBOkkeW8",
-  externalLink: "https://open.spotify.com/album/5xlutZ0sYfJQjVIBOkkeW8",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5xlutZ0sYfJQjVIBOkkeW8",
+      externalLink: "https://open.spotify.com/album/5xlutZ0sYfJQjVIBOkkeW8",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const especiallyForYouEfyEfy2004StandInTheLight = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2004-01-01",
-  externalId: "4COLjj4uZ7S0z0c2QLC8KH",
-  externalLink: "https://open.spotify.com/album/4COLjj4uZ7S0z0c2QLC8KH",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4COLjj4uZ7S0z0c2QLC8KH",
+      externalLink: "https://open.spotify.com/album/4COLjj4uZ7S0z0c2QLC8KH",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

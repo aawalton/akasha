@@ -13,7 +13,12 @@ export const greenDayBulletInABible = {
   status: "completed",
   rank: "C",
   publishedAt: "2005-11-15",
-  externalId: "2lybymL3xuzBGH9vsUnhai",
-  externalLink: "https://open.spotify.com/album/2lybymL3xuzBGH9vsUnhai",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2lybymL3xuzBGH9vsUnhai",
+      externalLink: "https://open.spotify.com/album/2lybymL3xuzBGH9vsUnhai",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

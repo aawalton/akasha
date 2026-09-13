@@ -12,6 +12,11 @@ export const imagineDragonsBonesTwocolorsRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-25",
-  externalId: "6idPk4yzvCbpdkpNVJU1AE",
-  externalLink: "https://open.spotify.com/album/6idPk4yzvCbpdkpNVJU1AE",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6idPk4yzvCbpdkpNVJU1AE",
+      externalLink: "https://open.spotify.com/album/6idPk4yzvCbpdkpNVJU1AE",
+    },
+  ],
 } as const satisfies Release

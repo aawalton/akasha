@@ -12,6 +12,11 @@ export const imagineDragonsBelieverKaskadeRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-06-09",
-  externalId: "2wVV49qXJai8kmCb1Czp0p",
-  externalLink: "https://open.spotify.com/album/2wVV49qXJai8kmCb1Czp0p",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2wVV49qXJai8kmCb1Czp0p",
+      externalLink: "https://open.spotify.com/album/2wVV49qXJai8kmCb1Czp0p",
+    },
+  ],
 } as const satisfies Release

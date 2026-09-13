@@ -12,6 +12,11 @@ export const gracieAbramsUnlearnWithGracieAbramsMainAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-03-24",
-  externalId: "4SK0QpYnhcowDzvRSePk05",
-  externalLink: "https://open.spotify.com/album/4SK0QpYnhcowDzvRSePk05",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4SK0QpYnhcowDzvRSePk05",
+      externalLink: "https://open.spotify.com/album/4SK0QpYnhcowDzvRSePk05",
+    },
+  ],
 } as const satisfies Release

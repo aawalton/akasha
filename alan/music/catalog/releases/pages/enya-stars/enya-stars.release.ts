@@ -12,6 +12,11 @@ export const enyaStars = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1997-01-01",
-  externalId: "72w5kKwWOO5b065Flb8hv2",
-  externalLink: "https://open.spotify.com/album/72w5kKwWOO5b065Flb8hv2",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "72w5kKwWOO5b065Flb8hv2",
+      externalLink: "https://open.spotify.com/album/72w5kKwWOO5b065Flb8hv2",
+    },
+  ],
 } as const satisfies Release

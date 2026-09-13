@@ -12,6 +12,11 @@ export const girlInRedMidnightLove = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-04-14",
-  externalId: "1fqH4fCx9J4hTF1DACVfen",
-  externalLink: "https://open.spotify.com/album/1fqH4fCx9J4hTF1DACVfen",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1fqH4fCx9J4hTF1DACVfen",
+      externalLink: "https://open.spotify.com/album/1fqH4fCx9J4hTF1DACVfen",
+    },
+  ],
 } as const satisfies Release

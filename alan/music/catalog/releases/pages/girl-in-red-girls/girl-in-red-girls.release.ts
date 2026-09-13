@@ -13,6 +13,11 @@ export const girlInRedGirls = {
   status: "completed",
   rank: "C",
   publishedAt: "2018-06-08",
-  externalId: "0UvjTChu7cW8uJ6Cwp8173",
-  externalLink: "https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0UvjTChu7cW8uJ6Cwp8173",
+      externalLink: "https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173",
+    },
+  ],
 } as const satisfies Release

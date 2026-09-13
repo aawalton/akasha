@@ -13,7 +13,12 @@ export const greenDayGimmeSomeTruth = {
   status: "not-started",
   rank: "C",
   publishedAt: "2020-11-06",
-  externalId: "6zsIodzWhcym0OVyi8DQnR",
-  externalLink: "https://open.spotify.com/album/6zsIodzWhcym0OVyi8DQnR",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6zsIodzWhcym0OVyi8DQnR",
+      externalLink: "https://open.spotify.com/album/6zsIodzWhcym0OVyi8DQnR",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

@@ -13,7 +13,12 @@ export const greenDayLetYourselfGo = {
   status: "completed",
   rank: "C",
   publishedAt: "2012-09-05",
-  externalId: "3lE94oHOl0bDraGqAXDB2U",
-  externalLink: "https://open.spotify.com/album/3lE94oHOl0bDraGqAXDB2U",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3lE94oHOl0bDraGqAXDB2U",
+      externalLink: "https://open.spotify.com/album/3lE94oHOl0bDraGqAXDB2U",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

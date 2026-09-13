@@ -13,6 +13,11 @@ export const emeiDistracted = {
   status: "completed",
   rank: "B",
   publishedAt: "2021-08-20",
-  externalId: "05pOtkIgnk3jbeEctdrQuT",
-  externalLink: "https://open.spotify.com/album/05pOtkIgnk3jbeEctdrQuT",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "05pOtkIgnk3jbeEctdrQuT",
+      externalLink: "https://open.spotify.com/album/05pOtkIgnk3jbeEctdrQuT",
+    },
+  ],
 } as const satisfies Release

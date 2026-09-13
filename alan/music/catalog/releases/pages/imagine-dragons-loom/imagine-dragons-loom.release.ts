@@ -12,6 +12,11 @@ export const imagineDragonsLoom = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-06-28",
-  externalId: "7EPrkhjTBrwAV8yAKCmY0Y",
-  externalLink: "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7EPrkhjTBrwAV8yAKCmY0Y",
+      externalLink: "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y",
+    },
+  ],
 } as const satisfies Release

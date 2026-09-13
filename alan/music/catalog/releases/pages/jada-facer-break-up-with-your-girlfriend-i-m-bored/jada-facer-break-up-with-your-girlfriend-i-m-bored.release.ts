@@ -12,6 +12,11 @@ export const jadaFacerBreakUpWithYourGirlfriendIMBored = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-02-20",
-  externalId: "4oszi5lBbSRF5qTA9hAhXO",
-  externalLink: "https://open.spotify.com/album/4oszi5lBbSRF5qTA9hAhXO",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4oszi5lBbSRF5qTA9hAhXO",
+      externalLink: "https://open.spotify.com/album/4oszi5lBbSRF5qTA9hAhXO",
+    },
+  ],
 } as const satisfies Release

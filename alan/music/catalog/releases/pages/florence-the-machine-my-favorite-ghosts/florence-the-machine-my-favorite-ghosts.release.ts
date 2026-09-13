@@ -12,6 +12,11 @@ export const florenceTheMachineMyFavoriteGhosts = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-02-04",
-  externalId: "0Vv3T9dsjpcPEIaQ2FAagK",
-  externalLink: "https://open.spotify.com/album/0Vv3T9dsjpcPEIaQ2FAagK",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0Vv3T9dsjpcPEIaQ2FAagK",
+      externalLink: "https://open.spotify.com/album/0Vv3T9dsjpcPEIaQ2FAagK",
+    },
+  ],
 } as const satisfies Release

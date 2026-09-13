@@ -12,6 +12,11 @@ export const imagineDragonsEnemyFromTheSeriesArcaneLeagueOfLegends = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-27",
-  externalId: "2Y9Kal9IDz6JphsCfY6GzG",
-  externalLink: "https://open.spotify.com/album/2Y9Kal9IDz6JphsCfY6GzG",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2Y9Kal9IDz6JphsCfY6GzG",
+      externalLink: "https://open.spotify.com/album/2Y9Kal9IDz6JphsCfY6GzG",
+    },
+  ],
 } as const satisfies Release

@@ -13,7 +13,12 @@ export const greenDayWakeMeUpWhenSeptemberEndsLiveAtFoxboroMa9305 = {
   status: "completed",
   rank: "C",
   publishedAt: "2005-09-27",
-  externalId: "58GWFnzw3jXPLaVdqnydbl",
-  externalLink: "https://open.spotify.com/album/58GWFnzw3jXPLaVdqnydbl",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "58GWFnzw3jXPLaVdqnydbl",
+      externalLink: "https://open.spotify.com/album/58GWFnzw3jXPLaVdqnydbl",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const imagineDragonsLoveOfMineNightVisionsDemo = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-09-02",
-  externalId: "3BAUn8SPQORLl49pDhR30l",
-  externalLink: "https://open.spotify.com/album/3BAUn8SPQORLl49pDhR30l",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3BAUn8SPQORLl49pDhR30l",
+      externalLink: "https://open.spotify.com/album/3BAUn8SPQORLl49pDhR30l",
+    },
+  ],
 } as const satisfies Release

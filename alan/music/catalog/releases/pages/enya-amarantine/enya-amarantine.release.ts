@@ -12,6 +12,11 @@ export const enyaAmarantine = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2005-11-15",
-  externalId: "3GMARsojMQpvAQqmFMR60g",
-  externalLink: "https://open.spotify.com/album/3GMARsojMQpvAQqmFMR60g",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3GMARsojMQpvAQqmFMR60g",
+      externalLink: "https://open.spotify.com/album/3GMARsojMQpvAQqmFMR60g",
+    },
+  ],
 } as const satisfies Release

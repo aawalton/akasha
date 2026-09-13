@@ -13,7 +13,12 @@ export const greenDayDreaming = {
   status: "not-started",
   rank: "C",
   publishedAt: "2020-05-22",
-  externalId: "2WApmrlB4VgT8Mz0zEMrty",
-  externalLink: "https://open.spotify.com/album/2WApmrlB4VgT8Mz0zEMrty",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2WApmrlB4VgT8Mz0zEMrty",
+      externalLink: "https://open.spotify.com/album/2WApmrlB4VgT8Mz0zEMrty",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

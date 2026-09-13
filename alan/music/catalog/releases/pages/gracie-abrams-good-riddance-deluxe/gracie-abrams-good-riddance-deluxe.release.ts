@@ -12,6 +12,11 @@ export const gracieAbramsGoodRiddanceDeluxe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-06-16",
-  externalId: "78YYcghEDz2dHRx0EcDGXZ",
-  externalLink: "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "78YYcghEDz2dHRx0EcDGXZ",
+      externalLink: "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ",
+    },
+  ],
 } as const satisfies Release

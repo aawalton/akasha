@@ -13,7 +13,12 @@ export const greenDayTheSaintsAreComingLive = {
   status: "completed",
   rank: "C",
   publishedAt: "2006-01-01",
-  externalId: "7DnsBgWqerL2UTkkYi3o9l",
-  externalLink: "https://open.spotify.com/album/7DnsBgWqerL2UTkkYi3o9l",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7DnsBgWqerL2UTkkYi3o9l",
+      externalLink: "https://open.spotify.com/album/7DnsBgWqerL2UTkkYi3o9l",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

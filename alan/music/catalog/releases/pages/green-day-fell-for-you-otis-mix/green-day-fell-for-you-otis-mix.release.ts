@@ -13,7 +13,12 @@ export const greenDayFellForYouOtisMix = {
   status: "not-started",
   rank: "C",
   publishedAt: "2017-08-04",
-  externalId: "19FT9XExEceNQFRKeIcZxE",
-  externalLink: "https://open.spotify.com/album/19FT9XExEceNQFRKeIcZxE",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "19FT9XExEceNQFRKeIcZxE",
+      externalLink: "https://open.spotify.com/album/19FT9XExEceNQFRKeIcZxE",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

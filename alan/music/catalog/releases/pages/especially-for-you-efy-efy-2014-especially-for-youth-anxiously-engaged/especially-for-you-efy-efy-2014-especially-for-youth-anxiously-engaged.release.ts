@@ -12,7 +12,12 @@ export const especiallyForYouEfyEfy2014EspeciallyForYouthAnxiouslyEngaged = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-06-11",
-  externalId: "2Y13zcsdoUJfWKPthJvH75",
-  externalLink: "https://open.spotify.com/album/2Y13zcsdoUJfWKPthJvH75",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2Y13zcsdoUJfWKPthJvH75",
+      externalLink: "https://open.spotify.com/album/2Y13zcsdoUJfWKPthJvH75",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

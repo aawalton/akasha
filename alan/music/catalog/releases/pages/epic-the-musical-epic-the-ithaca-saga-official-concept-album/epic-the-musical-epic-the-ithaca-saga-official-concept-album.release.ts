@@ -12,6 +12,11 @@ export const epicTheMusicalEpicTheIthacaSagaOfficialConceptAlbum = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-12-25",
-  externalId: "4pCY75ii3U3OnAvSAdYaGU",
-  externalLink: "https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4pCY75ii3U3OnAvSAdYaGU",
+      externalLink: "https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const jadaFacerCaravan = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-20",
-  externalId: "2CxyxiA6HrYIz3T0wdNfrb",
-  externalLink: "https://open.spotify.com/album/2CxyxiA6HrYIz3T0wdNfrb",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2CxyxiA6HrYIz3T0wdNfrb",
+      externalLink: "https://open.spotify.com/album/2CxyxiA6HrYIz3T0wdNfrb",
+    },
+  ],
 } as const satisfies Release

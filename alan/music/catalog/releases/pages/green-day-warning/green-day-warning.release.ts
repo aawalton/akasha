@@ -13,7 +13,12 @@ export const greenDayWarning = {
   status: "completed",
   rank: "C",
   publishedAt: "2000-10-03",
-  externalId: "3ifIxGNsG1XmLdoanRRIWB",
-  externalLink: "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3ifIxGNsG1XmLdoanRRIWB",
+      externalLink: "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

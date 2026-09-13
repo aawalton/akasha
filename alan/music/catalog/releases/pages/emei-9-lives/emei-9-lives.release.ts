@@ -13,6 +13,11 @@ export const emei9Lives = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-11-01",
-  externalId: "7hpEYDgSxgLy8t8TFNnCn7",
-  externalLink: "https://open.spotify.com/album/7hpEYDgSxgLy8t8TFNnCn7",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7hpEYDgSxgLy8t8TFNnCn7",
+      externalLink: "https://open.spotify.com/album/7hpEYDgSxgLy8t8TFNnCn7",
+    },
+  ],
 } as const satisfies Release

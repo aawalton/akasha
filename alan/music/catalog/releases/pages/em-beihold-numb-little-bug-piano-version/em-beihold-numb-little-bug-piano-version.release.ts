@@ -13,6 +13,11 @@ export const emBeiholdNumbLittleBugPianoVersion = {
   status: "completed",
   rank: "A",
   publishedAt: "2022-03-18",
-  externalId: "4JJlvfntPA9YC3jWVgTTQv",
-  externalLink: "https://open.spotify.com/album/4JJlvfntPA9YC3jWVgTTQv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4JJlvfntPA9YC3jWVgTTQv",
+      externalLink: "https://open.spotify.com/album/4JJlvfntPA9YC3jWVgTTQv",
+    },
+  ],
 } as const satisfies Release

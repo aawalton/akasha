@@ -12,6 +12,11 @@ export const girlInRedWeFellInLoveInOctoberSpedUp = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-11-28",
-  externalId: "4sE4T8gYJ8dZJobkmOjdxF",
-  externalLink: "https://open.spotify.com/album/4sE4T8gYJ8dZJobkmOjdxF",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4sE4T8gYJ8dZJobkmOjdxF",
+      externalLink: "https://open.spotify.com/album/4sE4T8gYJ8dZJobkmOjdxF",
+    },
+  ],
 } as const satisfies Release

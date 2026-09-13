@@ -13,6 +13,11 @@ export const emeiHoldOnMeFeatEmei = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-11-10",
-  externalId: "0tMVeea5aLMQqOFGSPWwyI",
-  externalLink: "https://open.spotify.com/album/0tMVeea5aLMQqOFGSPWwyI",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0tMVeea5aLMQqOFGSPWwyI",
+      externalLink: "https://open.spotify.com/album/0tMVeea5aLMQqOFGSPWwyI",
+    },
+  ],
 } as const satisfies Release

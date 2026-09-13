@@ -12,6 +12,11 @@ export const florenceTheMachineJustAGirlFromTheOriginalSeriesYellowjackets = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-03-09",
-  externalId: "2g9A59r1lqhUp29wxLY3Nk",
-  externalLink: "https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2g9A59r1lqhUp29wxLY3Nk",
+      externalLink: "https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk",
+    },
+  ],
 } as const satisfies Release

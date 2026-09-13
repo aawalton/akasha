@@ -13,7 +13,12 @@ export const greenDayFatherOfAll = {
   status: "not-started",
   rank: "C",
   publishedAt: "2020-02-07",
-  externalId: "7ij8wQxCAexZiXZbMOHcxE",
-  externalLink: "https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7ij8wQxCAexZiXZbMOHcxE",
+      externalLink: "https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const imagineDragonsLiveAtAllsaintsStudios = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-08-04",
-  externalId: "22y98JB7rKhh335uj6nDZ4",
-  externalLink: "https://open.spotify.com/album/22y98JB7rKhh335uj6nDZ4",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "22y98JB7rKhh335uj6nDZ4",
+      externalLink: "https://open.spotify.com/album/22y98JB7rKhh335uj6nDZ4",
+    },
+  ],
 } as const satisfies Release

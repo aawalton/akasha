@@ -12,6 +12,11 @@ export const jadaFacerApologizeSorry = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-08-06",
-  externalId: "6O6HeQMqeXzCeFFESypK5s",
-  externalLink: "https://open.spotify.com/album/6O6HeQMqeXzCeFFESypK5s",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6O6HeQMqeXzCeFFESypK5s",
+      externalLink: "https://open.spotify.com/album/6O6HeQMqeXzCeFFESypK5s",
+    },
+  ],
 } as const satisfies Release

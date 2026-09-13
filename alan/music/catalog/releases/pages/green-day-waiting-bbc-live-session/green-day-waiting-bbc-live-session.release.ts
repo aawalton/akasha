@@ -13,7 +13,12 @@ export const greenDayWaitingBbcLiveSession = {
   status: "not-started",
   rank: "C",
   publishedAt: "2021-12-03",
-  externalId: "3ODOZbMD8UDSjvco3YDxNS",
-  externalLink: "https://open.spotify.com/album/3ODOZbMD8UDSjvco3YDxNS",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3ODOZbMD8UDSjvco3YDxNS",
+      externalLink: "https://open.spotify.com/album/3ODOZbMD8UDSjvco3YDxNS",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const girlInRedTooMuch = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-02-09",
-  externalId: "1hb46dctiqHMNrp3QGXwKr",
-  externalLink: "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1hb46dctiqHMNrp3QGXwKr",
+      externalLink: "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr",
+    },
+  ],
 } as const satisfies Release

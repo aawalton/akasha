@@ -12,6 +12,11 @@ export const imagineDragonsWhateverItTakesMissCongenialityRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-11-17",
-  externalId: "3w4h2g9y4AyfNyle4h6BbQ",
-  externalLink: "https://open.spotify.com/album/3w4h2g9y4AyfNyle4h6BbQ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3w4h2g9y4AyfNyle4h6BbQ",
+      externalLink: "https://open.spotify.com/album/3w4h2g9y4AyfNyle4h6BbQ",
+    },
+  ],
 } as const satisfies Release

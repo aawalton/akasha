@@ -12,6 +12,11 @@ export const florenceTheMachineSpotifySingles = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-09-19",
-  externalId: "6MfeMJhhtj6Aas0rDfkHcO",
-  externalLink: "https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6MfeMJhhtj6Aas0rDfkHcO",
+      externalLink: "https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO",
+    },
+  ],
 } as const satisfies Release

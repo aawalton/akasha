@@ -12,6 +12,11 @@ export const imagineDragonsTakeMeToTheBeachFeatBakerBoy = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-10-11",
-  externalId: "6qe9TokikN4yu5VaPRSouw",
-  externalLink: "https://open.spotify.com/album/6qe9TokikN4yu5VaPRSouw",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6qe9TokikN4yu5VaPRSouw",
+      externalLink: "https://open.spotify.com/album/6qe9TokikN4yu5VaPRSouw",
+    },
+  ],
 } as const satisfies Release

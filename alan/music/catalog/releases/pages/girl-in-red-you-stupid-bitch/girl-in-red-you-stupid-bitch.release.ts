@@ -12,6 +12,11 @@ export const girlInRedYouStupidBitch = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-04-14",
-  externalId: "4M2sFHiDlAXasGDTWq6iHA",
-  externalLink: "https://open.spotify.com/album/4M2sFHiDlAXasGDTWq6iHA",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4M2sFHiDlAXasGDTWq6iHA",
+      externalLink: "https://open.spotify.com/album/4M2sFHiDlAXasGDTWq6iHA",
+    },
+  ],
 } as const satisfies Release

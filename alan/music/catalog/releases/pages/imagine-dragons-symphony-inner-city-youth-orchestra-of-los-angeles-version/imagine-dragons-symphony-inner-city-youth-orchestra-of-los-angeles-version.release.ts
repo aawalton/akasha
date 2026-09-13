@@ -12,6 +12,11 @@ export const imagineDragonsSymphonyInnerCityYouthOrchestraOfLosAngelesVersion = 
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-06-23",
-  externalId: "2fGxoIq6W6i4p9cavzwWP4",
-  externalLink: "https://open.spotify.com/album/2fGxoIq6W6i4p9cavzwWP4",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2fGxoIq6W6i4p9cavzwWP4",
+      externalLink: "https://open.spotify.com/album/2fGxoIq6W6i4p9cavzwWP4",
+    },
+  ],
 } as const satisfies Release

@@ -13,7 +13,12 @@ export const greenDayRevolutionRadio = {
   status: "not-started",
   rank: "C",
   publishedAt: "2016-10-07",
-  externalId: "5a3LqvNt2nv1B4aRKXmgOV",
-  externalLink: "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5a3LqvNt2nv1B4aRKXmgOV",
+      externalLink: "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

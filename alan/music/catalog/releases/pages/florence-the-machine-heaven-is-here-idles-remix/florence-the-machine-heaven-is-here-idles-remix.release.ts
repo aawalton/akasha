@@ -12,6 +12,11 @@ export const florenceTheMachineHeavenIsHereIdlesRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-21",
-  externalId: "2Gcppu1zVf0W5KvcjJxVQB",
-  externalLink: "https://open.spotify.com/album/2Gcppu1zVf0W5KvcjJxVQB",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2Gcppu1zVf0W5KvcjJxVQB",
+      externalLink: "https://open.spotify.com/album/2Gcppu1zVf0W5KvcjJxVQB",
+    },
+  ],
 } as const satisfies Release

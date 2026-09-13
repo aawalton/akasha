@@ -12,6 +12,11 @@ export const imagineDragonsDemonsTelykastRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-22",
-  externalId: "0f8xygKtxKKNfhl6hffSAd",
-  externalLink: "https://open.spotify.com/album/0f8xygKtxKKNfhl6hffSAd",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0f8xygKtxKKNfhl6hffSAd",
+      externalLink: "https://open.spotify.com/album/0f8xygKtxKKNfhl6hffSAd",
+    },
+  ],
 } as const satisfies Release

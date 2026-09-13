@@ -12,6 +12,11 @@ export const florenceTheMachineDanceFever = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-05-13",
-  externalId: "4ohh1zQ4yybSK9FS7LLyDE",
-  externalLink: "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4ohh1zQ4yybSK9FS7LLyDE",
+      externalLink: "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE",
+    },
+  ],
 } as const satisfies Release

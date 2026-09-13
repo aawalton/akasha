@@ -12,6 +12,11 @@ export const imagineDragonsItSTimeEp = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2011-03-12",
-  externalId: "2Y83alrj4BCOIjSWBrv1WZ",
-  externalLink: "https://open.spotify.com/album/2Y83alrj4BCOIjSWBrv1WZ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2Y83alrj4BCOIjSWBrv1WZ",
+      externalLink: "https://open.spotify.com/album/2Y83alrj4BCOIjSWBrv1WZ",
+    },
+  ],
 } as const satisfies Release

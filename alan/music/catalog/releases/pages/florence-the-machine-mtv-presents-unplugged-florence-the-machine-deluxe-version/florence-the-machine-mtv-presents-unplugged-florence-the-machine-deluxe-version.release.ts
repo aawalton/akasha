@@ -12,6 +12,11 @@ export const florenceTheMachineMtvPresentsUnpluggedFlorenceTheMachineDeluxeVersi
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-01-01",
-  externalId: "0wKJlJVLq79jSWHTnsVVq6",
-  externalLink: "https://open.spotify.com/album/0wKJlJVLq79jSWHTnsVVq6",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0wKJlJVLq79jSWHTnsVVq6",
+      externalLink: "https://open.spotify.com/album/0wKJlJVLq79jSWHTnsVVq6",
+    },
+  ],
 } as const satisfies Release

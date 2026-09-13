@@ -12,6 +12,11 @@ export const imagineDragonsStarsWillAlignZerbRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-11-01",
-  externalId: "2uarBvl6p3yHwNGYDpJCEA",
-  externalLink: "https://open.spotify.com/album/2uarBvl6p3yHwNGYDpJCEA",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2uarBvl6p3yHwNGYDpJCEA",
+      externalLink: "https://open.spotify.com/album/2uarBvl6p3yHwNGYDpJCEA",
+    },
+  ],
 } as const satisfies Release

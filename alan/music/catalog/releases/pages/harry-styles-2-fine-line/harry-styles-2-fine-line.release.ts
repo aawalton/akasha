@@ -12,6 +12,11 @@ export const harryStyles2FineLine = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-12-13",
-  externalId: "7xV2TzoaVc0ycW7fwBwAml",
-  externalLink: "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7xV2TzoaVc0ycW7fwBwAml",
+      externalLink: "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml",
+    },
+  ],
 } as const satisfies Release

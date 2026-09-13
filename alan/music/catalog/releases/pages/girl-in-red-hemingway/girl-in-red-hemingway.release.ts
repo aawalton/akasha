@@ -12,6 +12,11 @@ export const girlInRedHemingway = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-05-30",
-  externalId: "3JKMx86ymxWRpnBhmbBAus",
-  externalLink: "https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3JKMx86ymxWRpnBhmbBAus",
+      externalLink: "https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus",
+    },
+  ],
 } as const satisfies Release

@@ -13,6 +13,11 @@ export const florenceTheMachineWishThatYouWereHere = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-08-26",
-  externalId: "1uqahF2HRLrjnU1VE2D0r6",
-  externalLink: "https://open.spotify.com/album/1uqahF2HRLrjnU1VE2D0r6",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1uqahF2HRLrjnU1VE2D0r6",
+      externalLink: "https://open.spotify.com/album/1uqahF2HRLrjnU1VE2D0r6",
+    },
+  ],
 } as const satisfies Release

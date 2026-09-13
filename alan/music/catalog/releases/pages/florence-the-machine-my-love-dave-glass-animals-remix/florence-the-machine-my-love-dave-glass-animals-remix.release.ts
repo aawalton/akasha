@@ -12,6 +12,11 @@ export const florenceTheMachineMyLoveDaveGlassAnimalsRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-04-01",
-  externalId: "5dd31rqNnOvoVDvSt5ajdG",
-  externalLink: "https://open.spotify.com/album/5dd31rqNnOvoVDvSt5ajdG",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5dd31rqNnOvoVDvSt5ajdG",
+      externalLink: "https://open.spotify.com/album/5dd31rqNnOvoVDvSt5ajdG",
+    },
+  ],
 } as const satisfies Release

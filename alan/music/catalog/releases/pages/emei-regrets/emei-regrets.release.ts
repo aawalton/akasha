@@ -13,6 +13,11 @@ export const emeiRegrets = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-09-28",
-  externalId: "2JNxwslDi54vHpSMofYiNR",
-  externalLink: "https://open.spotify.com/album/2JNxwslDi54vHpSMofYiNR",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2JNxwslDi54vHpSMofYiNR",
+      externalLink: "https://open.spotify.com/album/2JNxwslDi54vHpSMofYiNR",
+    },
+  ],
 } as const satisfies Release

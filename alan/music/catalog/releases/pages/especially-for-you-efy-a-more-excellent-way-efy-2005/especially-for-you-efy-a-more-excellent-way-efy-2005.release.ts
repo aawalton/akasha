@@ -12,7 +12,12 @@ export const especiallyForYouEfyAMoreExcellentWayEfy2005 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2005-01-01",
-  externalId: "7oWaAPuzsct2coyEk31sOx",
-  externalLink: "https://open.spotify.com/album/7oWaAPuzsct2coyEk31sOx",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7oWaAPuzsct2coyEk31sOx",
+      externalLink: "https://open.spotify.com/album/7oWaAPuzsct2coyEk31sOx",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

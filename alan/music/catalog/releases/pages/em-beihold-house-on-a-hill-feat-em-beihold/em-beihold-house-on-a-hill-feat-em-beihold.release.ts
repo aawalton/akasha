@@ -13,6 +13,11 @@ export const emBeiholdHouseOnAHillFeatEmBeihold = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-07-21",
-  externalId: "7uitFkWZtfoUki1y2C9o8Q",
-  externalLink: "https://open.spotify.com/album/7uitFkWZtfoUki1y2C9o8Q",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7uitFkWZtfoUki1y2C9o8Q",
+      externalLink: "https://open.spotify.com/album/7uitFkWZtfoUki1y2C9o8Q",
+    },
+  ],
 } as const satisfies Release

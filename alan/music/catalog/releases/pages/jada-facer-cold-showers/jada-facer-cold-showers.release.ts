@@ -12,6 +12,11 @@ export const jadaFacerColdShowers = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-22",
-  externalId: "2mQqgOjK9PG88KiXpAyg89",
-  externalLink: "https://open.spotify.com/album/2mQqgOjK9PG88KiXpAyg89",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2mQqgOjK9PG88KiXpAyg89",
+      externalLink: "https://open.spotify.com/album/2mQqgOjK9PG88KiXpAyg89",
+    },
+  ],
 } as const satisfies Release

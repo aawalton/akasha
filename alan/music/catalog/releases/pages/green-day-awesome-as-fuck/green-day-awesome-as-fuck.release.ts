@@ -13,7 +13,12 @@ export const greenDayAwesomeAsFuck = {
   status: "completed",
   rank: "C",
   publishedAt: "2011-03-21",
-  externalId: "5ZFQvsHHa6Ovr4GaOb2Uvf",
-  externalLink: "https://open.spotify.com/album/5ZFQvsHHa6Ovr4GaOb2Uvf",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5ZFQvsHHa6Ovr4GaOb2Uvf",
+      externalLink: "https://open.spotify.com/album/5ZFQvsHHa6Ovr4GaOb2Uvf",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

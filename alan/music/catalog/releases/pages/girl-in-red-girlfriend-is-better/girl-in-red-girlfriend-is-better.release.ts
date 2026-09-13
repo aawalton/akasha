@@ -12,6 +12,11 @@ export const girlInRedGirlfriendIsBetter = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-04-24",
-  externalId: "0NE7g8mQKHZ43DqGvmEFg6",
-  externalLink: "https://open.spotify.com/album/0NE7g8mQKHZ43DqGvmEFg6",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0NE7g8mQKHZ43DqGvmEFg6",
+      externalLink: "https://open.spotify.com/album/0NE7g8mQKHZ43DqGvmEFg6",
+    },
+  ],
 } as const satisfies Release

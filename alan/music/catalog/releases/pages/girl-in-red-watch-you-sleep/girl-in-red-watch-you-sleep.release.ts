@@ -12,6 +12,11 @@ export const girlInRedWatchYouSleep = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2019-01-23",
-  externalId: "788Q6tUcihFxDsOGGeyuFE",
-  externalLink: "https://open.spotify.com/album/788Q6tUcihFxDsOGGeyuFE",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "788Q6tUcihFxDsOGGeyuFE",
+      externalLink: "https://open.spotify.com/album/788Q6tUcihFxDsOGGeyuFE",
+    },
+  ],
 } as const satisfies Release

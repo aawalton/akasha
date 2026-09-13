@@ -12,6 +12,11 @@ export const imagineDragonsItSTimePassionPitRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-01-01",
-  externalId: "2zWuvGQMqOSn4Ij1FQLqx0",
-  externalLink: "https://open.spotify.com/album/2zWuvGQMqOSn4Ij1FQLqx0",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2zWuvGQMqOSn4Ij1FQLqx0",
+      externalLink: "https://open.spotify.com/album/2zWuvGQMqOSn4Ij1FQLqx0",
+    },
+  ],
 } as const satisfies Release

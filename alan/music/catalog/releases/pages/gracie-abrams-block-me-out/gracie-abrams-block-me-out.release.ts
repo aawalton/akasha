@@ -12,6 +12,11 @@ export const gracieAbramsBlockMeOut = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-04-08",
-  externalId: "3gRzJoa3WSp3XUD585RRvN",
-  externalLink: "https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3gRzJoa3WSp3XUD585RRvN",
+      externalLink: "https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN",
+    },
+  ],
 } as const satisfies Release

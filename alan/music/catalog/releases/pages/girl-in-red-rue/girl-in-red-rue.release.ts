@@ -12,6 +12,11 @@ export const girlInRedRue = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-08-26",
-  externalId: "2atCibcxnI4r4LG1zV12gM",
-  externalLink: "https://open.spotify.com/album/2atCibcxnI4r4LG1zV12gM",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2atCibcxnI4r4LG1zV12gM",
+      externalLink: "https://open.spotify.com/album/2atCibcxnI4r4LG1zV12gM",
+    },
+  ],
 } as const satisfies Release

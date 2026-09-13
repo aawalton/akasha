@@ -12,7 +12,12 @@ export const izzyEscobarSunnyInLondonAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2026-02-06",
-  externalId: "3rlOkmojjYLRFnAY9shUX8",
-  externalLink: "https://open.spotify.com/album/3rlOkmojjYLRFnAY9shUX8",
-  lastSyncedAt: "2026-02-16",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3rlOkmojjYLRFnAY9shUX8",
+      externalLink: "https://open.spotify.com/album/3rlOkmojjYLRFnAY9shUX8",
+      lastSyncedAt: "2026-02-16",
+    },
+  ],
 } as const satisfies Release

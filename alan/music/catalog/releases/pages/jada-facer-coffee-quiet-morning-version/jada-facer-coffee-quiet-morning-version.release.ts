@@ -12,6 +12,11 @@ export const jadaFacerCoffeeQuietMorningVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-02-14",
-  externalId: "5HrB9xVcGbNnf0CDPCQuYM",
-  externalLink: "https://open.spotify.com/album/5HrB9xVcGbNnf0CDPCQuYM",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5HrB9xVcGbNnf0CDPCQuYM",
+      externalLink: "https://open.spotify.com/album/5HrB9xVcGbNnf0CDPCQuYM",
+    },
+  ],
 } as const satisfies Release

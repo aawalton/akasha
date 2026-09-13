@@ -13,7 +13,12 @@ export const greenDay2000LightYearsAwayBbcLiveSession = {
   status: "not-started",
   rank: "C",
   publishedAt: "2021-10-22",
-  externalId: "1zbABzxTFYdrQPoZTALqxP",
-  externalLink: "https://open.spotify.com/album/1zbABzxTFYdrQPoZTALqxP",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1zbABzxTFYdrQPoZTALqxP",
+      externalLink: "https://open.spotify.com/album/1zbABzxTFYdrQPoZTALqxP",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

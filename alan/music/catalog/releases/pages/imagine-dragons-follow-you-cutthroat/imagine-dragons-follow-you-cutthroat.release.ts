@@ -12,6 +12,11 @@ export const imagineDragonsFollowYouCutthroat = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-03-12",
-  externalId: "1nz0PWfAcTQVbFtpU6u1UY",
-  externalLink: "https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1nz0PWfAcTQVbFtpU6u1UY",
+      externalLink: "https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY",
+    },
+  ],
 } as const satisfies Release

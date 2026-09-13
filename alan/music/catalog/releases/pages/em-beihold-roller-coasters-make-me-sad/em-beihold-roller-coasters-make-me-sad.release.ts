@@ -13,6 +13,11 @@ export const emBeiholdRollerCoastersMakeMeSad = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-02-24",
-  externalId: "16M3QY0xlHJ1CtnmEwbiy1",
-  externalLink: "https://open.spotify.com/album/16M3QY0xlHJ1CtnmEwbiy1",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "16M3QY0xlHJ1CtnmEwbiy1",
+      externalLink: "https://open.spotify.com/album/16M3QY0xlHJ1CtnmEwbiy1",
+    },
+  ],
 } as const satisfies Release

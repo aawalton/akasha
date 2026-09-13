@@ -13,6 +13,11 @@ export const emBeiholdFantasyWithGayleEmBeihold = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-04-14",
-  externalId: "7dJfiWaQ0a1kCxGvEfXL3A",
-  externalLink: "https://open.spotify.com/album/7dJfiWaQ0a1kCxGvEfXL3A",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7dJfiWaQ0a1kCxGvEfXL3A",
+      externalLink: "https://open.spotify.com/album/7dJfiWaQ0a1kCxGvEfXL3A",
+    },
+  ],
 } as const satisfies Release

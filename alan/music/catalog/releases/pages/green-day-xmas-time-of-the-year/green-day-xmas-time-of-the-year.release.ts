@@ -13,7 +13,12 @@ export const greenDayXmasTimeOfTheYear = {
   status: "completed",
   rank: "C",
   publishedAt: "2015-01-01",
-  externalId: "1CFlIsdNdHNZ5jt3Qmw6fQ",
-  externalLink: "https://open.spotify.com/album/1CFlIsdNdHNZ5jt3Qmw6fQ",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1CFlIsdNdHNZ5jt3Qmw6fQ",
+      externalLink: "https://open.spotify.com/album/1CFlIsdNdHNZ5jt3Qmw6fQ",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

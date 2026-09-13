@@ -13,7 +13,12 @@ export const greenDayUnoDosTre = {
   status: "completed",
   rank: "C",
   publishedAt: "2012-12-11",
-  externalId: "6v7zJ2Q8c0pZgdm0MG1O8F",
-  externalLink: "https://open.spotify.com/album/6v7zJ2Q8c0pZgdm0MG1O8F",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6v7zJ2Q8c0pZgdm0MG1O8F",
+      externalLink: "https://open.spotify.com/album/6v7zJ2Q8c0pZgdm0MG1O8F",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

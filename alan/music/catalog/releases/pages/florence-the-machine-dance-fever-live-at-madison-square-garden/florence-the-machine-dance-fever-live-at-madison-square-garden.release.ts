@@ -12,6 +12,11 @@ export const florenceTheMachineDanceFeverLiveAtMadisonSquareGarden = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-14",
-  externalId: "6iV7fblw3HOWXUcQZmLkO8",
-  externalLink: "https://open.spotify.com/album/6iV7fblw3HOWXUcQZmLkO8",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6iV7fblw3HOWXUcQZmLkO8",
+      externalLink: "https://open.spotify.com/album/6iV7fblw3HOWXUcQZmLkO8",
+    },
+  ],
 } as const satisfies Release

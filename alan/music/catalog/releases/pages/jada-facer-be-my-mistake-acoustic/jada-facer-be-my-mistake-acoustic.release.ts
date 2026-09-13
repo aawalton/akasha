@@ -12,6 +12,11 @@ export const jadaFacerBeMyMistakeAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-05",
-  externalId: "37slLlxMuH4NZp9hpUwuDI",
-  externalLink: "https://open.spotify.com/album/37slLlxMuH4NZp9hpUwuDI",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "37slLlxMuH4NZp9hpUwuDI",
+      externalLink: "https://open.spotify.com/album/37slLlxMuH4NZp9hpUwuDI",
+    },
+  ],
 } as const satisfies Release

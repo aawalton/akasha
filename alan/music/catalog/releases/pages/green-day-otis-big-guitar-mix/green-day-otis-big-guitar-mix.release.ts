@@ -13,7 +13,12 @@ export const greenDayOtisBigGuitarMix = {
   status: "not-started",
   rank: "C",
   publishedAt: "2020-04-03",
-  externalId: "48mhNIo0YlJQmcpxfW8oYl",
-  externalLink: "https://open.spotify.com/album/48mhNIo0YlJQmcpxfW8oYl",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "48mhNIo0YlJQmcpxfW8oYl",
+      externalLink: "https://open.spotify.com/album/48mhNIo0YlJQmcpxfW8oYl",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

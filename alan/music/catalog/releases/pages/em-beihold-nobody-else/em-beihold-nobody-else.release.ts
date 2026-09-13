@@ -13,6 +13,11 @@ export const emBeiholdNobodyElse = {
   status: "completed",
   rank: "A",
   publishedAt: "2021-04-23",
-  externalId: "523FtykzwS297yiTBg54tQ",
-  externalLink: "https://open.spotify.com/album/523FtykzwS297yiTBg54tQ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "523FtykzwS297yiTBg54tQ",
+      externalLink: "https://open.spotify.com/album/523FtykzwS297yiTBg54tQ",
+    },
+  ],
 } as const satisfies Release

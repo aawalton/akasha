@@ -12,6 +12,11 @@ export const gracieAbramsBrushFire = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-12-10",
-  externalId: "0q9LcQHXp9DuszlWNJZoLB",
-  externalLink: "https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0q9LcQHXp9DuszlWNJZoLB",
+      externalLink: "https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB",
+    },
+  ],
 } as const satisfies Release

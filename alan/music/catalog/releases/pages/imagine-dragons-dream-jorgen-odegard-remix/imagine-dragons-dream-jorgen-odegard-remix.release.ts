@@ -12,6 +12,11 @@ export const imagineDragonsDreamJorgenOdegardRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-08-31",
-  externalId: "2PnEgvcqgS54GSRgWBSiur",
-  externalLink: "https://open.spotify.com/album/2PnEgvcqgS54GSRgWBSiur",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2PnEgvcqgS54GSRgWBSiur",
+      externalLink: "https://open.spotify.com/album/2PnEgvcqgS54GSRgWBSiur",
+    },
+  ],
 } as const satisfies Release

@@ -13,7 +13,12 @@ export const greenDayNimrod = {
   status: "completed",
   rank: "C",
   publishedAt: "1997-10-14",
-  externalId: "3x2uer6Xh0d5rF8toWpRDA",
-  externalLink: "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3x2uer6Xh0d5rF8toWpRDA",
+      externalLink: "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

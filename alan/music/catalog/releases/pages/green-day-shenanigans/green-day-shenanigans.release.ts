@@ -13,7 +13,12 @@ export const greenDayShenanigans = {
   status: "completed",
   rank: "C",
   publishedAt: "2002-07-02",
-  externalId: "3uxqKqchyNKPHdjzMrlmOC",
-  externalLink: "https://open.spotify.com/album/3uxqKqchyNKPHdjzMrlmOC",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3uxqKqchyNKPHdjzMrlmOC",
+      externalLink: "https://open.spotify.com/album/3uxqKqchyNKPHdjzMrlmOC",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const imagineDragonsThunderWithKFlayOfficialRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-09-08",
-  externalId: "7eNvFPoAnO4X944LXMmICz",
-  externalLink: "https://open.spotify.com/album/7eNvFPoAnO4X944LXMmICz",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7eNvFPoAnO4X944LXMmICz",
+      externalLink: "https://open.spotify.com/album/7eNvFPoAnO4X944LXMmICz",
+    },
+  ],
 } as const satisfies Release

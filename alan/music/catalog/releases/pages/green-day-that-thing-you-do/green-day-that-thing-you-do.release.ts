@@ -13,7 +13,12 @@ export const greenDayThatThingYouDo = {
   status: "not-started",
   rank: "C",
   publishedAt: "2020-08-28",
-  externalId: "5Oa5fQh8Uv1GJQk7Wx3QoM",
-  externalLink: "https://open.spotify.com/album/5Oa5fQh8Uv1GJQk7Wx3QoM",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5Oa5fQh8Uv1GJQk7Wx3QoM",
+      externalLink: "https://open.spotify.com/album/5Oa5fQh8Uv1GJQk7Wx3QoM",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

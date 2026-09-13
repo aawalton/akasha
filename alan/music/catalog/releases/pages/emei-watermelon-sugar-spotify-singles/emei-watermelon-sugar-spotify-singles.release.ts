@@ -13,6 +13,11 @@ export const emeiWatermelonSugarSpotifySingles = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-05-15",
-  externalId: "0kKBZgTc90Mdudfsu3bDl3",
-  externalLink: "https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0kKBZgTc90Mdudfsu3bDl3",
+      externalLink: "https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3",
+    },
+  ],
 } as const satisfies Release

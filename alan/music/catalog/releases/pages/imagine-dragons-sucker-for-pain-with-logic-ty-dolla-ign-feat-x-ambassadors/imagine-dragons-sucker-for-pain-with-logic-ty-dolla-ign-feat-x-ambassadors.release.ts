@@ -12,6 +12,11 @@ export const imagineDragonsSuckerForPainWithLogicTyDollaIgnFeatXAmbassadors = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-06-24",
-  externalId: "704GHNtZhEe9TBgleCNNGv",
-  externalLink: "https://open.spotify.com/album/704GHNtZhEe9TBgleCNNGv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "704GHNtZhEe9TBgleCNNGv",
+      externalLink: "https://open.spotify.com/album/704GHNtZhEe9TBgleCNNGv",
+    },
+  ],
 } as const satisfies Release

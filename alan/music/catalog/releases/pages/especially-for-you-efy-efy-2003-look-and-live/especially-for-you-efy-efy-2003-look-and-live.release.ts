@@ -12,7 +12,12 @@ export const especiallyForYouEfyEfy2003LookAndLive = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2003-01-01",
-  externalId: "45Fd7VUczsrMlmtFbNpeZv",
-  externalLink: "https://open.spotify.com/album/45Fd7VUczsrMlmtFbNpeZv",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "45Fd7VUczsrMlmtFbNpeZv",
+      externalLink: "https://open.spotify.com/album/45Fd7VUczsrMlmtFbNpeZv",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const especiallyForYouEfyEfy2006TheGreatestGift = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2006-01-01",
-  externalId: "5XVO5gc0wx6ftvCawHyIzv",
-  externalLink: "https://open.spotify.com/album/5XVO5gc0wx6ftvCawHyIzv",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5XVO5gc0wx6ftvCawHyIzv",
+      externalLink: "https://open.spotify.com/album/5XVO5gc0wx6ftvCawHyIzv",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

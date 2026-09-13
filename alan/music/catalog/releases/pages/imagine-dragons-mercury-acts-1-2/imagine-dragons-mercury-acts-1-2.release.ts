@@ -12,6 +12,11 @@ export const imagineDragonsMercuryActs12 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-07-01",
-  externalId: "6yiXkzHvC0OTmhfDQOEWtS",
-  externalLink: "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6yiXkzHvC0OTmhfDQOEWtS",
+      externalLink: "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS",
+    },
+  ],
 } as const satisfies Release

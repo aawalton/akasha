@@ -12,6 +12,11 @@ export const enyaTrainsAndWinterRains = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2008-09-30",
-  externalId: "5IFhzzIIuSCemyFQSnWG3Q",
-  externalLink: "https://open.spotify.com/album/5IFhzzIIuSCemyFQSnWG3Q",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5IFhzzIIuSCemyFQSnWG3Q",
+      externalLink: "https://open.spotify.com/album/5IFhzzIIuSCemyFQSnWG3Q",
+    },
+  ],
 } as const satisfies Release

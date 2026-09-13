@@ -12,6 +12,11 @@ export const imagineDragonsStarsWillAlign = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-09-27",
-  externalId: "5q923PscX4aJaonXBWTDcj",
-  externalLink: "https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5q923PscX4aJaonXBWTDcj",
+      externalLink: "https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj",
+    },
+  ],
 } as const satisfies Release

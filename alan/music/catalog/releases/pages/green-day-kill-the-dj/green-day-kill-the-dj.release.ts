@@ -13,7 +13,12 @@ export const greenDayKillTheDj = {
   status: "completed",
   rank: "C",
   publishedAt: "2012-08-14",
-  externalId: "2FHITtPPzRlRMHhGlW2QCp",
-  externalLink: "https://open.spotify.com/album/2FHITtPPzRlRMHhGlW2QCp",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2FHITtPPzRlRMHhGlW2QCp",
+      externalLink: "https://open.spotify.com/album/2FHITtPPzRlRMHhGlW2QCp",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

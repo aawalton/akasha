@@ -13,6 +13,11 @@ export const emeiLoveMeNot = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-02-09",
-  externalId: "7xUn31DxHbMMH8oNTeI4uh",
-  externalLink: "https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7xUn31DxHbMMH8oNTeI4uh",
+      externalLink: "https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh",
+    },
+  ],
 } as const satisfies Release

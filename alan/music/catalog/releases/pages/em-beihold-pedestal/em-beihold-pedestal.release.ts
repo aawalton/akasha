@@ -13,6 +13,11 @@ export const emBeiholdPedestal = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-10-12",
-  externalId: "5KRQkpYEeyfXX4gF9kWV7I",
-  externalLink: "https://open.spotify.com/album/5KRQkpYEeyfXX4gF9kWV7I",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5KRQkpYEeyfXX4gF9kWV7I",
+      externalLink: "https://open.spotify.com/album/5KRQkpYEeyfXX4gF9kWV7I",
+    },
+  ],
 } as const satisfies Release

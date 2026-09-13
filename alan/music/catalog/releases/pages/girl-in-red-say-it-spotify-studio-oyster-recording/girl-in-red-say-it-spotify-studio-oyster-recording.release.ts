@@ -12,6 +12,11 @@ export const girlInRedSayItSpotifyStudioOysterRecording = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-05-15",
-  externalId: "16BMvFgwCXraSyFnGONJIc",
-  externalLink: "https://open.spotify.com/album/16BMvFgwCXraSyFnGONJIc",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "16BMvFgwCXraSyFnGONJIc",
+      externalLink: "https://open.spotify.com/album/16BMvFgwCXraSyFnGONJIc",
+    },
+  ],
 } as const satisfies Release

@@ -13,7 +13,12 @@ export const greenDay21GunsEp = {
   status: "completed",
   rank: "C",
   publishedAt: "2010-01-26",
-  externalId: "3FPrLsPucL8XRylTEnpjG0",
-  externalLink: "https://open.spotify.com/album/3FPrLsPucL8XRylTEnpjG0",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3FPrLsPucL8XRylTEnpjG0",
+      externalLink: "https://open.spotify.com/album/3FPrLsPucL8XRylTEnpjG0",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

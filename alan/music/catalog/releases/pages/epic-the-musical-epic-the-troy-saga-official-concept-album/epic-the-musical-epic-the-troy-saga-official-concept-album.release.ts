@@ -12,6 +12,11 @@ export const epicTheMusicalEpicTheTroySagaOfficialConceptAlbum = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-07-04",
-  externalId: "6SxVoqHzmrFnPno9DWedMj",
-  externalLink: "https://open.spotify.com/album/6SxVoqHzmrFnPno9DWedMj",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6SxVoqHzmrFnPno9DWedMj",
+      externalLink: "https://open.spotify.com/album/6SxVoqHzmrFnPno9DWedMj",
+    },
+  ],
 } as const satisfies Release

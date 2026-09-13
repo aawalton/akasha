@@ -12,6 +12,11 @@ export const enyaTheMemoryOfTrees = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1995-11-20",
-  externalId: "34NreMWi5xh62VQFWLPm9U",
-  externalLink: "https://open.spotify.com/album/34NreMWi5xh62VQFWLPm9U",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "34NreMWi5xh62VQFWLPm9U",
+      externalLink: "https://open.spotify.com/album/34NreMWi5xh62VQFWLPm9U",
+    },
+  ],
 } as const satisfies Release

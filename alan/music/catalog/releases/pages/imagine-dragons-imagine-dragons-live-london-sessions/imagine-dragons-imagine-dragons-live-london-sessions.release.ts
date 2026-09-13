@@ -12,6 +12,11 @@ export const imagineDragonsImagineDragonsLiveLondonSessions = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-01-01",
-  externalId: "2RQtDABXELc8EqB7pujcEi",
-  externalLink: "https://open.spotify.com/album/2RQtDABXELc8EqB7pujcEi",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2RQtDABXELc8EqB7pujcEi",
+      externalLink: "https://open.spotify.com/album/2RQtDABXELc8EqB7pujcEi",
+    },
+  ],
 } as const satisfies Release

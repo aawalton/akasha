@@ -13,7 +13,12 @@ export const greenDayRockAndRollAllNiteLiveFromHellaMega = {
   status: "not-started",
   rank: "C",
   publishedAt: "2021-09-10",
-  externalId: "3Qq1V2SbnvhUws7AxcAoiA",
-  externalLink: "https://open.spotify.com/album/3Qq1V2SbnvhUws7AxcAoiA",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3Qq1V2SbnvhUws7AxcAoiA",
+      externalLink: "https://open.spotify.com/album/3Qq1V2SbnvhUws7AxcAoiA",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

@@ -13,7 +13,12 @@ export const greenDayAmericanIdiot20thAnniversaryOnHoliday = {
   status: "not-started",
   rank: "C",
   publishedAt: "2024-08-09",
-  externalId: "39xuOUcTdYZpgKFBx7dibP",
-  externalLink: "https://open.spotify.com/album/39xuOUcTdYZpgKFBx7dibP",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "39xuOUcTdYZpgKFBx7dibP",
+      externalLink: "https://open.spotify.com/album/39xuOUcTdYZpgKFBx7dibP",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

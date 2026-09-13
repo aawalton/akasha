@@ -12,6 +12,11 @@ export const imagineDragonsHellAndSilenceEp = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2010-06-01",
-  externalId: "0q0BORsAWpbFNf7UqWwDbd",
-  externalLink: "https://open.spotify.com/album/0q0BORsAWpbFNf7UqWwDbd",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0q0BORsAWpbFNf7UqWwDbd",
+      externalLink: "https://open.spotify.com/album/0q0BORsAWpbFNf7UqWwDbd",
+    },
+  ],
 } as const satisfies Release

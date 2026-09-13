@@ -12,6 +12,11 @@ export const girlInRed4am = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-08-10",
-  externalId: "5MBdFr25fkVqYMDCGWyvTT",
-  externalLink: "https://open.spotify.com/album/5MBdFr25fkVqYMDCGWyvTT",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5MBdFr25fkVqYMDCGWyvTT",
+      externalLink: "https://open.spotify.com/album/5MBdFr25fkVqYMDCGWyvTT",
+    },
+  ],
 } as const satisfies Release

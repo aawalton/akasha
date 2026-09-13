@@ -12,7 +12,12 @@ export const especiallyForYouEfyEfy1993SharingALightInTheWilderness = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1993-01-01",
-  externalId: "50fgJIEvAmvHzCLK7cOo2C",
-  externalLink: "https://open.spotify.com/album/50fgJIEvAmvHzCLK7cOo2C",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "50fgJIEvAmvHzCLK7cOo2C",
+      externalLink: "https://open.spotify.com/album/50fgJIEvAmvHzCLK7cOo2C",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

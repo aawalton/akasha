@@ -12,6 +12,11 @@ export const epicTheMusicalEpicTheThunderSagaOfficialConceptAlbum = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-07-04",
-  externalId: "0DsMhU0ERzMt6xvtGpgXvW",
-  externalLink: "https://open.spotify.com/album/0DsMhU0ERzMt6xvtGpgXvW",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0DsMhU0ERzMt6xvtGpgXvW",
+      externalLink: "https://open.spotify.com/album/0DsMhU0ERzMt6xvtGpgXvW",
+    },
+  ],
 } as const satisfies Release

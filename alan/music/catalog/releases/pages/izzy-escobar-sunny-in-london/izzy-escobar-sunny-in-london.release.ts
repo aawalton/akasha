@@ -13,7 +13,12 @@ export const izzyEscobarSunnyInLondon = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-10-24",
-  externalId: "00uTgbxW2rWkJWQZp5SbXB",
-  externalLink: "https://open.spotify.com/album/00uTgbxW2rWkJWQZp5SbXB",
-  lastSyncedAt: "2025-11-15",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "00uTgbxW2rWkJWQZp5SbXB",
+      externalLink: "https://open.spotify.com/album/00uTgbxW2rWkJWQZp5SbXB",
+      lastSyncedAt: "2025-11-15",
+    },
+  ],
 } as const satisfies Release

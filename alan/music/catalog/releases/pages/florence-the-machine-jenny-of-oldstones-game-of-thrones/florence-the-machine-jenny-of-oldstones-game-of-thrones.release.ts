@@ -12,6 +12,11 @@ export const florenceTheMachineJennyOfOldstonesGameOfThrones = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-04-22",
-  externalId: "1R6GYgEbpObUZC2btPQlqB",
-  externalLink: "https://open.spotify.com/album/1R6GYgEbpObUZC2btPQlqB",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1R6GYgEbpObUZC2btPQlqB",
+      externalLink: "https://open.spotify.com/album/1R6GYgEbpObUZC2btPQlqB",
+    },
+  ],
 } as const satisfies Release

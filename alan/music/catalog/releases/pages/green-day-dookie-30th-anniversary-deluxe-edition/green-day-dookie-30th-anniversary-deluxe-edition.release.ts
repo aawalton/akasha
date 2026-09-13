@@ -13,7 +13,12 @@ export const greenDayDookie30thAnniversaryDeluxeEdition = {
   status: "not-started",
   rank: "C",
   publishedAt: "2023-08-17",
-  externalId: "47l8TkJCLzHaekHImz1e9g",
-  externalLink: "https://open.spotify.com/album/47l8TkJCLzHaekHImz1e9g",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "47l8TkJCLzHaekHImz1e9g",
+      externalLink: "https://open.spotify.com/album/47l8TkJCLzHaekHImz1e9g",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const florenceTheMachineEverybodyScream2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-08-20",
-  externalId: "5u1NqZCwMNykkWMrCaR4bu",
-  externalLink: "https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5u1NqZCwMNykkWMrCaR4bu",
+      externalLink: "https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu",
+    },
+  ],
 } as const satisfies Release

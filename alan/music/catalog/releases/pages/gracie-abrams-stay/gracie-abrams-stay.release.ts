@@ -13,6 +13,11 @@ export const gracieAbramsStay = {
   status: "completed",
   rank: "B",
   publishedAt: "2019-11-21",
-  externalId: "5wjbd3QuTtEVuNRlIY0o4Q",
-  externalLink: "https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5wjbd3QuTtEVuNRlIY0o4Q",
+      externalLink: "https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const imagineDragonsItSTimeCherryCherryBoomBoomRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-01-01",
-  externalId: "0jrhqGuZkqsTFsWy4Dbz7U",
-  externalLink: "https://open.spotify.com/album/0jrhqGuZkqsTFsWy4Dbz7U",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0jrhqGuZkqsTFsWy4Dbz7U",
+      externalLink: "https://open.spotify.com/album/0jrhqGuZkqsTFsWy4Dbz7U",
+    },
+  ],
 } as const satisfies Release

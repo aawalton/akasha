@@ -13,6 +13,11 @@ export const emeiBetterPeopleToLeaveOnRead = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-01-26",
-  externalId: "5jHDAAIvcOrvVKaq8CsU9A",
-  externalLink: "https://open.spotify.com/album/5jHDAAIvcOrvVKaq8CsU9A",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5jHDAAIvcOrvVKaq8CsU9A",
+      externalLink: "https://open.spotify.com/album/5jHDAAIvcOrvVKaq8CsU9A",
+    },
+  ],
 } as const satisfies Release

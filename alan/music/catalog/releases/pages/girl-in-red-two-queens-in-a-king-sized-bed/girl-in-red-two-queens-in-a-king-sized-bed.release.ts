@@ -12,6 +12,11 @@ export const girlInRedTwoQueensInAKingSizedBed = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-11-18",
-  externalId: "6CHnC6lp4ZR9F8iKECQOII",
-  externalLink: "https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6CHnC6lp4ZR9F8iKECQOII",
+      externalLink: "https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const emeiGingerTea = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-12-12",
-  externalId: "3HD6dMq4zT1yMugmUNNZdN",
-  externalLink: "https://open.spotify.com/album/3HD6dMq4zT1yMugmUNNZdN",
-  lastSyncedAt: "2025-12-31",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3HD6dMq4zT1yMugmUNNZdN",
+      externalLink: "https://open.spotify.com/album/3HD6dMq4zT1yMugmUNNZdN",
+      lastSyncedAt: "2025-12-31",
+    },
+  ],
 } as const satisfies Release

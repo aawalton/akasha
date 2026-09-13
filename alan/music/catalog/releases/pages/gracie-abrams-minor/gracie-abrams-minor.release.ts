@@ -13,6 +13,11 @@ export const gracieAbramsMinor = {
   status: "completed",
   rank: "B",
   publishedAt: "2020-07-14",
-  externalId: "2UZw04wDxLVceADw2Gi1Qy",
-  externalLink: "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2UZw04wDxLVceADw2Gi1Qy",
+      externalLink: "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy",
+    },
+  ],
 } as const satisfies Release

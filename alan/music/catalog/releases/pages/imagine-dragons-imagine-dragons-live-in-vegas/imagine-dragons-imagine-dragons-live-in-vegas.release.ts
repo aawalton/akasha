@@ -12,6 +12,11 @@ export const imagineDragonsImagineDragonsLiveInVegas = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-07-28",
-  externalId: "0fQaGkCbRIg5z7ta2SCrY0",
-  externalLink: "https://open.spotify.com/album/0fQaGkCbRIg5z7ta2SCrY0",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0fQaGkCbRIg5z7ta2SCrY0",
+      externalLink: "https://open.spotify.com/album/0fQaGkCbRIg5z7ta2SCrY0",
+    },
+  ],
 } as const satisfies Release

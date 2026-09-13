@@ -13,7 +13,12 @@ export const greenDayThatSRockNRoll = {
   status: "not-started",
   rank: "C",
   publishedAt: "2020-10-30",
-  externalId: "3JSuv6toFloxZTqxH2g68L",
-  externalLink: "https://open.spotify.com/album/3JSuv6toFloxZTqxH2g68L",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3JSuv6toFloxZTqxH2g68L",
+      externalLink: "https://open.spotify.com/album/3JSuv6toFloxZTqxH2g68L",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const epicTheMusicalEpicTheUnderworldSagaOfficialConceptAlbum = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-04-26",
-  externalId: "1JjlC7lq1Oq8KCFybHRnIH",
-  externalLink: "https://open.spotify.com/album/1JjlC7lq1Oq8KCFybHRnIH",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1JjlC7lq1Oq8KCFybHRnIH",
+      externalLink: "https://open.spotify.com/album/1JjlC7lq1Oq8KCFybHRnIH",
+    },
+  ],
 } as const satisfies Release

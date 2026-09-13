@@ -13,7 +13,12 @@ export const greenDayYouCanTPutYourArmsRoundAMemory = {
   status: "not-started",
   rank: "C",
   publishedAt: "2020-09-25",
-  externalId: "3wnCt7o2PxpF0gh698Rwe6",
-  externalLink: "https://open.spotify.com/album/3wnCt7o2PxpF0gh698Rwe6",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3wnCt7o2PxpF0gh698Rwe6",
+      externalLink: "https://open.spotify.com/album/3wnCt7o2PxpF0gh698Rwe6",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

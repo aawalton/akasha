@@ -12,6 +12,11 @@ export const florenceTheMachineMyBestDressDemo = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-07-03",
-  externalId: "5LZOlK8ktgEVoX2DlKsm4S",
-  externalLink: "https://open.spotify.com/album/5LZOlK8ktgEVoX2DlKsm4S",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5LZOlK8ktgEVoX2DlKsm4S",
+      externalLink: "https://open.spotify.com/album/5LZOlK8ktgEVoX2DlKsm4S",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const florenceTheMachineQueenOfPeaceHotChipRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-08-28",
-  externalId: "4kBs8EjU6kfVL5ZswiUGdi",
-  externalLink: "https://open.spotify.com/album/4kBs8EjU6kfVL5ZswiUGdi",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4kBs8EjU6kfVL5ZswiUGdi",
+      externalLink: "https://open.spotify.com/album/4kBs8EjU6kfVL5ZswiUGdi",
+    },
+  ],
 } as const satisfies Release

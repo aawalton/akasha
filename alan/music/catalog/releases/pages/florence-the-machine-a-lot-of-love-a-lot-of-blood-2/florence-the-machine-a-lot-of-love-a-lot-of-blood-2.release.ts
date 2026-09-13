@@ -12,6 +12,11 @@ export const florenceTheMachineALotOfLoveALotOfBlood2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-06-20",
-  externalId: "5ClU6wEeh5fxxsLW1oUmJ3",
-  externalLink: "https://open.spotify.com/album/5ClU6wEeh5fxxsLW1oUmJ3",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5ClU6wEeh5fxxsLW1oUmJ3",
+      externalLink: "https://open.spotify.com/album/5ClU6wEeh5fxxsLW1oUmJ3",
+    },
+  ],
 } as const satisfies Release

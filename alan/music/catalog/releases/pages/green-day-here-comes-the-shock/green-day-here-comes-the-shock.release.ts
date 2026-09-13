@@ -13,7 +13,12 @@ export const greenDayHereComesTheShock = {
   status: "not-started",
   rank: "C",
   publishedAt: "2021-02-21",
-  externalId: "1WqF4f0srVIgtTdymK1R4T",
-  externalLink: "https://open.spotify.com/album/1WqF4f0srVIgtTdymK1R4T",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1WqF4f0srVIgtTdymK1R4T",
+      externalLink: "https://open.spotify.com/album/1WqF4f0srVIgtTdymK1R4T",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

@@ -13,6 +13,11 @@ export const imagineDragonsMonicaDemo = {
   status: "completed",
   rank: "C",
   publishedAt: "2025-01-27",
-  externalId: "4zjnl4eftRAHuPmajFqCPN",
-  externalLink: "https://open.spotify.com/album/4zjnl4eftRAHuPmajFqCPN",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4zjnl4eftRAHuPmajFqCPN",
+      externalLink: "https://open.spotify.com/album/4zjnl4eftRAHuPmajFqCPN",
+    },
+  ],
 } as const satisfies Release

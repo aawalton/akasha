@@ -12,6 +12,11 @@ export const enyaPortraitShortVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-22",
-  externalId: "5o9DXlkcmZ5R3tGvM2z8px",
-  externalLink: "https://open.spotify.com/album/5o9DXlkcmZ5R3tGvM2z8px",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5o9DXlkcmZ5R3tGvM2z8px",
+      externalLink: "https://open.spotify.com/album/5o9DXlkcmZ5R3tGvM2z8px",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const imagineDragonsRadioactiveGrouploveCaptainCutsRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-01-01",
-  externalId: "0C68H3OpnPO9RMDsLLeCDw",
-  externalLink: "https://open.spotify.com/album/0C68H3OpnPO9RMDsLLeCDw",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0C68H3OpnPO9RMDsLLeCDw",
+      externalLink: "https://open.spotify.com/album/0C68H3OpnPO9RMDsLLeCDw",
+    },
+  ],
 } as const satisfies Release

@@ -13,7 +13,12 @@ export const greenDayBbcSessionsLive = {
   status: "not-started",
   rank: "C",
   publishedAt: "2021-12-10",
-  externalId: "7igexfyHGnY4qMAyOzc4q8",
-  externalLink: "https://open.spotify.com/album/7igexfyHGnY4qMAyOzc4q8",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7igexfyHGnY4qMAyOzc4q8",
+      externalLink: "https://open.spotify.com/album/7igexfyHGnY4qMAyOzc4q8",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

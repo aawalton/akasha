@@ -12,6 +12,11 @@ export const imagineDragonsILoveYouAllTheTimePlayItForwardCampaign = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-12-18",
-  externalId: "6PaHnwGDIqzWqz1e09uRMK",
-  externalLink: "https://open.spotify.com/album/6PaHnwGDIqzWqz1e09uRMK",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6PaHnwGDIqzWqz1e09uRMK",
+      externalLink: "https://open.spotify.com/album/6PaHnwGDIqzWqz1e09uRMK",
+    },
+  ],
 } as const satisfies Release

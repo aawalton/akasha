@@ -12,7 +12,12 @@ export const florenceTheMachineSympathyMagic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-10-27",
-  externalId: "420amymxJxkmBkTr5ceDYU",
-  externalLink: "https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU",
-  lastSyncedAt: "2026-02-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "420amymxJxkmBkTr5ceDYU",
+      externalLink: "https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU",
+      lastSyncedAt: "2026-02-14",
+    },
+  ],
 } as const satisfies Release

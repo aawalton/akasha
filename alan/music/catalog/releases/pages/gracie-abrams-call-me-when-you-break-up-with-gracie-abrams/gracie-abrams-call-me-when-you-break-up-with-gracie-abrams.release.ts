@@ -12,6 +12,11 @@ export const gracieAbramsCallMeWhenYouBreakUpWithGracieAbrams = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-02-20",
-  externalId: "4hnX5vXj6JoAhZ2lUrxwn3",
-  externalLink: "https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4hnX5vXj6JoAhZ2lUrxwn3",
+      externalLink: "https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3",
+    },
+  ],
 } as const satisfies Release

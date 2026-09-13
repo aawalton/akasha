@@ -13,6 +13,11 @@ export const gracieAbramsILoveYouIMSorryLiveFromVevo = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-10-11",
-  externalId: "4bxh03ssfzrWfd4H2o0M32",
-  externalLink: "https://open.spotify.com/album/4bxh03ssfzrWfd4H2o0M32",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4bxh03ssfzrWfd4H2o0M32",
+      externalLink: "https://open.spotify.com/album/4bxh03ssfzrWfd4H2o0M32",
+    },
+  ],
 } as const satisfies Release

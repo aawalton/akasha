@@ -13,7 +13,12 @@ export const greenDayOhLove = {
   status: "completed",
   rank: "C",
   publishedAt: "2012-07-16",
-  externalId: "6cnEMUjFAEySXcDz3f4xCI",
-  externalLink: "https://open.spotify.com/album/6cnEMUjFAEySXcDz3f4xCI",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6cnEMUjFAEySXcDz3f4xCI",
+      externalLink: "https://open.spotify.com/album/6cnEMUjFAEySXcDz3f4xCI",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

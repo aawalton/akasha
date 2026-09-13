@@ -12,6 +12,11 @@ export const epicTheMusicalEpicTheWisdomSagaOfficialConceptAlbum = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-08-30",
-  externalId: "5IaGIT4jt1J2JAXrOBPPck",
-  externalLink: "https://open.spotify.com/album/5IaGIT4jt1J2JAXrOBPPck",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5IaGIT4jt1J2JAXrOBPPck",
+      externalLink: "https://open.spotify.com/album/5IaGIT4jt1J2JAXrOBPPck",
+    },
+  ],
 } as const satisfies Release

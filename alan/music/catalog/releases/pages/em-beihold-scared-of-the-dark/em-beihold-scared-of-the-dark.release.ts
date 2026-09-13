@@ -13,7 +13,12 @@ export const emBeiholdScaredOfTheDark = {
   status: "completed",
   rank: "A",
   publishedAt: "2025-10-24",
-  externalId: "1Xfa5Z4lsJ0WBtrQ6KErH5",
-  externalLink: "https://open.spotify.com/album/1Xfa5Z4lsJ0WBtrQ6KErH5",
-  lastSyncedAt: "2025-10-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Xfa5Z4lsJ0WBtrQ6KErH5",
+      externalLink: "https://open.spotify.com/album/1Xfa5Z4lsJ0WBtrQ6KErH5",
+      lastSyncedAt: "2025-10-30",
+    },
+  ],
 } as const satisfies Release

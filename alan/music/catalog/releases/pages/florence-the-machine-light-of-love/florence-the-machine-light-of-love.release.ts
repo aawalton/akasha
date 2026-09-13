@@ -12,6 +12,11 @@ export const florenceTheMachineLightOfLove = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-04-17",
-  externalId: "6Aq25x5FMLzkgn5qXdLp5N",
-  externalLink: "https://open.spotify.com/album/6Aq25x5FMLzkgn5qXdLp5N",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6Aq25x5FMLzkgn5qXdLp5N",
+      externalLink: "https://open.spotify.com/album/6Aq25x5FMLzkgn5qXdLp5N",
+    },
+  ],
 } as const satisfies Release

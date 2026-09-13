@@ -12,6 +12,11 @@ export const girlInRedDeadGirlInThePool = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2019-05-08",
-  externalId: "7vWkk6Bzs6hwPGwPY3cgTo",
-  externalLink: "https://open.spotify.com/album/7vWkk6Bzs6hwPGwPY3cgTo",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7vWkk6Bzs6hwPGwPY3cgTo",
+      externalLink: "https://open.spotify.com/album/7vWkk6Bzs6hwPGwPY3cgTo",
+    },
+  ],
 } as const satisfies Release

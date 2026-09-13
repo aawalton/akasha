@@ -12,7 +12,12 @@ export const emBeiholdTalesOfAFailedShapeshifter = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2026-02-27",
-  externalId: "2RL64278RxtHMgDH04qzex",
-  externalLink: "https://open.spotify.com/album/2RL64278RxtHMgDH04qzex",
-  lastSyncedAt: "2026-03-09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2RL64278RxtHMgDH04qzex",
+      externalLink: "https://open.spotify.com/album/2RL64278RxtHMgDH04qzex",
+      lastSyncedAt: "2026-03-09",
+    },
+  ],
 } as const satisfies Release

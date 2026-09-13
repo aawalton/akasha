@@ -12,7 +12,12 @@ export const especiallyForYouEfyEfy1994ServingWithStrength = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1994-01-01",
-  externalId: "6vhbXJq8EI0vApHHPyq2iO",
-  externalLink: "https://open.spotify.com/album/6vhbXJq8EI0vApHHPyq2iO",
-  lastSyncedAt: "2025-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6vhbXJq8EI0vApHHPyq2iO",
+      externalLink: "https://open.spotify.com/album/6vhbXJq8EI0vApHHPyq2iO",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
 } as const satisfies Release

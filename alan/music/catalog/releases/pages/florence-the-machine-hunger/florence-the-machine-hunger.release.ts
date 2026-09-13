@@ -12,6 +12,11 @@ export const florenceTheMachineHunger = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-05-03",
-  externalId: "2Weyn0N5HAw59OM87LCR7i",
-  externalLink: "https://open.spotify.com/album/2Weyn0N5HAw59OM87LCR7i",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2Weyn0N5HAw59OM87LCR7i",
+      externalLink: "https://open.spotify.com/album/2Weyn0N5HAw59OM87LCR7i",
+    },
+  ],
 } as const satisfies Release

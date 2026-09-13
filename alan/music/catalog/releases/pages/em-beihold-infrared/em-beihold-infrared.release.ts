@@ -13,6 +13,11 @@ export const emBeiholdInfrared = {
   status: "completed",
   rank: "B",
   publishedAt: "2017-05-11",
-  externalId: "5v5Bvj4ujWgBwlNo6M1sEX",
-  externalLink: "https://open.spotify.com/album/5v5Bvj4ujWgBwlNo6M1sEX",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5v5Bvj4ujWgBwlNo6M1sEX",
+      externalLink: "https://open.spotify.com/album/5v5Bvj4ujWgBwlNo6M1sEX",
+    },
+  ],
 } as const satisfies Release

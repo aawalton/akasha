@@ -13,7 +13,12 @@ export const greenDayInsomniac = {
   status: "completed",
   rank: "C",
   publishedAt: "1995-10-10",
-  externalId: "7d3nOmFvL51roNElAdpi9d",
-  externalLink: "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7d3nOmFvL51roNElAdpi9d",
+      externalLink: "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

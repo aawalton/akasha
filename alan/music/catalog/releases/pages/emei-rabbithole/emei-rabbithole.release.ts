@@ -13,6 +13,11 @@ export const emeiRabbithole = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-08-23",
-  externalId: "0OptWsRKyw5TsNeiEshGfr",
-  externalLink: "https://open.spotify.com/album/0OptWsRKyw5TsNeiEshGfr",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0OptWsRKyw5TsNeiEshGfr",
+      externalLink: "https://open.spotify.com/album/0OptWsRKyw5TsNeiEshGfr",
+    },
+  ],
 } as const satisfies Release

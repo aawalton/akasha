@@ -12,6 +12,11 @@ export const imagineDragonsShotsTheFunkHuntersRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-08-07",
-  externalId: "3gFrDk1Gewhg25dR7XAWSl",
-  externalLink: "https://open.spotify.com/album/3gFrDk1Gewhg25dR7XAWSl",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3gFrDk1Gewhg25dR7XAWSl",
+      externalLink: "https://open.spotify.com/album/3gFrDk1Gewhg25dR7XAWSl",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const girlInRedILlDieAnyway = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2019-07-17",
-  externalId: "4Zt3XT3vADR97nZGrFoSOY",
-  externalLink: "https://open.spotify.com/album/4Zt3XT3vADR97nZGrFoSOY",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4Zt3XT3vADR97nZGrFoSOY",
+      externalLink: "https://open.spotify.com/album/4Zt3XT3vADR97nZGrFoSOY",
+    },
+  ],
 } as const satisfies Release

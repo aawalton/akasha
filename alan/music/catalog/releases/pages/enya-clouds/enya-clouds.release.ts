@@ -12,6 +12,11 @@ export const enyaClouds = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1997-01-01",
-  externalId: "6wqNj3JTo5EJU3KTklb4N6",
-  externalLink: "https://open.spotify.com/album/6wqNj3JTo5EJU3KTklb4N6",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6wqNj3JTo5EJU3KTklb4N6",
+      externalLink: "https://open.spotify.com/album/6wqNj3JTo5EJU3KTklb4N6",
+    },
+  ],
 } as const satisfies Release

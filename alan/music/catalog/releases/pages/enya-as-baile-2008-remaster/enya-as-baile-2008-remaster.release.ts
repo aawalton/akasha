@@ -12,6 +12,11 @@ export const enyaAsBaile2008Remaster = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-07-10",
-  externalId: "397RZN44xlLjXaqmDwe1Q2",
-  externalLink: "https://open.spotify.com/album/397RZN44xlLjXaqmDwe1Q2",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "397RZN44xlLjXaqmDwe1Q2",
+      externalLink: "https://open.spotify.com/album/397RZN44xlLjXaqmDwe1Q2",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const florenceTheMachineLungsDeluxeEdition = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2009-01-01",
-  externalId: "2FgknX5e7fJlriQtxvpLhZ",
-  externalLink: "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2FgknX5e7fJlriQtxvpLhZ",
+      externalLink: "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const jadaFacerAThousandYears = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-04-22",
-  externalId: "6afYFokkWalZYDFpqaTBjd",
-  externalLink: "https://open.spotify.com/album/6afYFokkWalZYDFpqaTBjd",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6afYFokkWalZYDFpqaTBjd",
+      externalLink: "https://open.spotify.com/album/6afYFokkWalZYDFpqaTBjd",
+    },
+  ],
 } as const satisfies Release

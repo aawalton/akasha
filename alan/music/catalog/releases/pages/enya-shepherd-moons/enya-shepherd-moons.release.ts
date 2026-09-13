@@ -12,6 +12,11 @@ export const enyaShepherdMoons = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1991-11-15",
-  externalId: "6ZuPbMe6CvQKl1nvAy0nZm",
-  externalLink: "https://open.spotify.com/album/6ZuPbMe6CvQKl1nvAy0nZm",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6ZuPbMe6CvQKl1nvAy0nZm",
+      externalLink: "https://open.spotify.com/album/6ZuPbMe6CvQKl1nvAy0nZm",
+    },
+  ],
 } as const satisfies Release

@@ -13,6 +13,11 @@ export const imagineDragonsDareU = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-01-16",
-  externalId: "4a0Ijzxk9twvWg2ZYjtr7V",
-  externalLink: "https://open.spotify.com/album/4a0Ijzxk9twvWg2ZYjtr7V",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4a0Ijzxk9twvWg2ZYjtr7V",
+      externalLink: "https://open.spotify.com/album/4a0Ijzxk9twvWg2ZYjtr7V",
+    },
+  ],
 } as const satisfies Release

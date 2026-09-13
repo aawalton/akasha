@@ -12,6 +12,11 @@ export const florenceTheMachineDonkeyKoshDemo = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-07-02",
-  externalId: "3SMsERyUtIWbft2Mivs4Ny",
-  externalLink: "https://open.spotify.com/album/3SMsERyUtIWbft2Mivs4Ny",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3SMsERyUtIWbft2Mivs4Ny",
+      externalLink: "https://open.spotify.com/album/3SMsERyUtIWbft2Mivs4Ny",
+    },
+  ],
 } as const satisfies Release

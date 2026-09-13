@@ -12,6 +12,11 @@ export const girlInRedIfICouldMakeItGoQuiet = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-04-30",
-  externalId: "69p42ovQdwmYPLUsAQpeNn",
-  externalLink: "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "69p42ovQdwmYPLUsAQpeNn",
+      externalLink: "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn",
+    },
+  ],
 } as const satisfies Release

@@ -13,6 +13,11 @@ export const emeiSunnyd = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-10-11",
-  externalId: "1D8kmnJy5pX2oxTsydOEYZ",
-  externalLink: "https://open.spotify.com/album/1D8kmnJy5pX2oxTsydOEYZ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1D8kmnJy5pX2oxTsydOEYZ",
+      externalLink: "https://open.spotify.com/album/1D8kmnJy5pX2oxTsydOEYZ",
+    },
+  ],
 } as const satisfies Release

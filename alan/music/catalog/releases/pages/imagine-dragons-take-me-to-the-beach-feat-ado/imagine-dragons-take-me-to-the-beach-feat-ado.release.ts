@@ -12,6 +12,11 @@ export const imagineDragonsTakeMeToTheBeachFeatAdo = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-12-16",
-  externalId: "42qtC6akiL6crX1i4Sf4yJ",
-  externalLink: "https://open.spotify.com/album/42qtC6akiL6crX1i4Sf4yJ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "42qtC6akiL6crX1i4Sf4yJ",
+      externalLink: "https://open.spotify.com/album/42qtC6akiL6crX1i4Sf4yJ",
+    },
+  ],
 } as const satisfies Release

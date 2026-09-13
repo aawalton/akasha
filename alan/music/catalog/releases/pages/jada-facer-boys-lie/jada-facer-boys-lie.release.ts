@@ -12,6 +12,11 @@ export const jadaFacerBoysLie = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-02-19",
-  externalId: "6ljfYDzRLqi0HWnvssd2dZ",
-  externalLink: "https://open.spotify.com/album/6ljfYDzRLqi0HWnvssd2dZ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6ljfYDzRLqi0HWnvssd2dZ",
+      externalLink: "https://open.spotify.com/album/6ljfYDzRLqi0HWnvssd2dZ",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const enyaWildChildEdit = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-07-17",
-  externalId: "7gLNwTdd0gjpF50rsWztD3",
-  externalLink: "https://open.spotify.com/album/7gLNwTdd0gjpF50rsWztD3",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7gLNwTdd0gjpF50rsWztD3",
+      externalLink: "https://open.spotify.com/album/7gLNwTdd0gjpF50rsWztD3",
+    },
+  ],
 } as const satisfies Release

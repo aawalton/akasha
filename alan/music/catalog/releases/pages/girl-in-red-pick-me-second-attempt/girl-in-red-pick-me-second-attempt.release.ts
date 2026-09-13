@@ -12,6 +12,11 @@ export const girlInRedPickMeSecondAttempt = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-05-31",
-  externalId: "27kXwbzhAXAxlJhrU7qdCe",
-  externalLink: "https://open.spotify.com/album/27kXwbzhAXAxlJhrU7qdCe",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "27kXwbzhAXAxlJhrU7qdCe",
+      externalLink: "https://open.spotify.com/album/27kXwbzhAXAxlJhrU7qdCe",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const florenceTheMachineMyLove = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-03-10",
-  externalId: "2vVVdpXVsEKwChwFpuTWqZ",
-  externalLink: "https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2vVVdpXVsEKwChwFpuTWqZ",
+      externalLink: "https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ",
+    },
+  ],
 } as const satisfies Release

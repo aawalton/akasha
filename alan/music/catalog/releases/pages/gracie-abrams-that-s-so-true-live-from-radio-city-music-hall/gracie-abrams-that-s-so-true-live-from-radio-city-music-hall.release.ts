@@ -12,6 +12,11 @@ export const gracieAbramsThatSSoTrueLiveFromRadioCityMusicHall = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-11-06",
-  externalId: "2vLLE2ASNtN0RNhk70uWgW",
-  externalLink: "https://open.spotify.com/album/2vLLE2ASNtN0RNhk70uWgW",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2vLLE2ASNtN0RNhk70uWgW",
+      externalLink: "https://open.spotify.com/album/2vLLE2ASNtN0RNhk70uWgW",
+    },
+  ],
 } as const satisfies Release

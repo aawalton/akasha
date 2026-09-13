@@ -12,6 +12,11 @@ export const florenceTheMachineDelilahRadioEdit = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-10-28",
-  externalId: "4RtpG3AwcMM9oxCBd2IRAj",
-  externalLink: "https://open.spotify.com/album/4RtpG3AwcMM9oxCBd2IRAj",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4RtpG3AwcMM9oxCBd2IRAj",
+      externalLink: "https://open.spotify.com/album/4RtpG3AwcMM9oxCBd2IRAj",
+    },
+  ],
 } as const satisfies Release

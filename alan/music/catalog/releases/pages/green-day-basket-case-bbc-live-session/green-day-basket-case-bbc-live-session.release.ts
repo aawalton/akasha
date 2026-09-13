@@ -13,7 +13,12 @@ export const greenDayBasketCaseBbcLiveSession = {
   status: "not-started",
   rank: "C",
   publishedAt: "2021-10-29",
-  externalId: "2H2c72qf0djGEdJ77q817z",
-  externalLink: "https://open.spotify.com/album/2H2c72qf0djGEdJ77q817z",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2H2c72qf0djGEdJ77q817z",
+      externalLink: "https://open.spotify.com/album/2H2c72qf0djGEdJ77q817z",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

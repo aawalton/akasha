@@ -12,6 +12,11 @@ export const imagineDragonsIBetMyLifeRiotGamesRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-09-18",
-  externalId: "0ebCNFubPQlnPLuHvbwgTE",
-  externalLink: "https://open.spotify.com/album/0ebCNFubPQlnPLuHvbwgTE",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0ebCNFubPQlnPLuHvbwgTE",
+      externalLink: "https://open.spotify.com/album/0ebCNFubPQlnPLuHvbwgTE",
+    },
+  ],
 } as const satisfies Release

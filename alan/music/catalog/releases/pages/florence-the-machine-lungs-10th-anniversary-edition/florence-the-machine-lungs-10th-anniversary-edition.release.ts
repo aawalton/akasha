@@ -12,6 +12,11 @@ export const florenceTheMachineLungs10thAnniversaryEdition = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2009-07-03",
-  externalId: "58nHLzYWPr0YhsECvy7Ihw",
-  externalLink: "https://open.spotify.com/album/58nHLzYWPr0YhsECvy7Ihw",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "58nHLzYWPr0YhsECvy7Ihw",
+      externalLink: "https://open.spotify.com/album/58nHLzYWPr0YhsECvy7Ihw",
+    },
+  ],
 } as const satisfies Release

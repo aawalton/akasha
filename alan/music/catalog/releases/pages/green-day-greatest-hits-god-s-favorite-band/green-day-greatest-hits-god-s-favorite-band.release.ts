@@ -13,7 +13,12 @@ export const greenDayGreatestHitsGodSFavoriteBand = {
   status: "not-started",
   rank: "C",
   publishedAt: "2017-11-17",
-  externalId: "3id4t9IqRoB1f1smOERtrY",
-  externalLink: "https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3id4t9IqRoB1f1smOERtrY",
+      externalLink: "https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

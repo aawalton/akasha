@@ -12,6 +12,11 @@ export const florenceTheMachineMtvPresentsUnpluggedFlorenceTheMachine = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-01-01",
-  externalId: "4N2zZysR0BWTLT4uU21PmV",
-  externalLink: "https://open.spotify.com/album/4N2zZysR0BWTLT4uU21PmV",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4N2zZysR0BWTLT4uU21PmV",
+      externalLink: "https://open.spotify.com/album/4N2zZysR0BWTLT4uU21PmV",
+    },
+  ],
 } as const satisfies Release

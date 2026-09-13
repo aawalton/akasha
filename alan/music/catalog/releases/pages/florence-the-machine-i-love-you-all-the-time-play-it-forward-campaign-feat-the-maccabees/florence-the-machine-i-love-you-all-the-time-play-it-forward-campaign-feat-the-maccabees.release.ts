@@ -12,6 +12,11 @@ export const florenceTheMachineILoveYouAllTheTimePlayItForwardCampaignFeatTheMac
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-12-18",
-  externalId: "5EPtABUWHkaDpPaObOElEP",
-  externalLink: "https://open.spotify.com/album/5EPtABUWHkaDpPaObOElEP",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5EPtABUWHkaDpPaObOElEP",
+      externalLink: "https://open.spotify.com/album/5EPtABUWHkaDpPaObOElEP",
+    },
+  ],
 } as const satisfies Release

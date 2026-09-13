@@ -13,7 +13,12 @@ export const greenDayStrayHeart = {
   status: "completed",
   rank: "C",
   publishedAt: "2012-10-15",
-  externalId: "0XNtWoqnVgKzAYm3UU5AB1",
-  externalLink: "https://open.spotify.com/album/0XNtWoqnVgKzAYm3UU5AB1",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0XNtWoqnVgKzAYm3UU5AB1",
+      externalLink: "https://open.spotify.com/album/0XNtWoqnVgKzAYm3UU5AB1",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

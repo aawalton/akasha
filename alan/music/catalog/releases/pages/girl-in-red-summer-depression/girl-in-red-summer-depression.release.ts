@@ -13,6 +13,11 @@ export const girlInRedSummerDepression = {
   status: "completed",
   rank: "C",
   publishedAt: "2018-03-03",
-  externalId: "1zkm5i2BQpuDLJrIJy12VR",
-  externalLink: "https://open.spotify.com/album/1zkm5i2BQpuDLJrIJy12VR",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1zkm5i2BQpuDLJrIJy12VR",
+      externalLink: "https://open.spotify.com/album/1zkm5i2BQpuDLJrIJy12VR",
+    },
+  ],
 } as const satisfies Release

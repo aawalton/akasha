@@ -12,6 +12,11 @@ export const florenceTheMachineHighAsHope = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-06-29",
-  externalId: "0pKZJj9GzcKPCS8r4IaksA",
-  externalLink: "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0pKZJj9GzcKPCS8r4IaksA",
+      externalLink: "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA",
+    },
+  ],
 } as const satisfies Release

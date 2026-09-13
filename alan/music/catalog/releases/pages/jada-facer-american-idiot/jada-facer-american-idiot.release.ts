@@ -12,6 +12,11 @@ export const jadaFacerAmericanIdiot = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-01-17",
-  externalId: "01q9RGIBLRHLrl4T0tiuqD",
-  externalLink: "https://open.spotify.com/album/01q9RGIBLRHLrl4T0tiuqD",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "01q9RGIBLRHLrl4T0tiuqD",
+      externalLink: "https://open.spotify.com/album/01q9RGIBLRHLrl4T0tiuqD",
+    },
+  ],
 } as const satisfies Release

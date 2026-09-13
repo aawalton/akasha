@@ -13,7 +13,12 @@ export const greenDayAmericanIdiot20thAnniversaryJesusOfSuburbia = {
   status: "not-started",
   rank: "C",
   publishedAt: "2024-10-04",
-  externalId: "7tn2RYarT4oElkFeKH8WW6",
-  externalLink: "https://open.spotify.com/album/7tn2RYarT4oElkFeKH8WW6",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7tn2RYarT4oElkFeKH8WW6",
+      externalLink: "https://open.spotify.com/album/7tn2RYarT4oElkFeKH8WW6",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

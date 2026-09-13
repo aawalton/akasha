@@ -12,6 +12,11 @@ export const enyaStormsInAfricaPtIi2009Remaster = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1989-06-05",
-  externalId: "5z6FEKxtf1VOmfG12B8QqZ",
-  externalLink: "https://open.spotify.com/album/5z6FEKxtf1VOmfG12B8QqZ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5z6FEKxtf1VOmfG12B8QqZ",
+      externalLink: "https://open.spotify.com/album/5z6FEKxtf1VOmfG12B8QqZ",
+    },
+  ],
 } as const satisfies Release

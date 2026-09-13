@@ -12,6 +12,11 @@ export const florenceTheMachineDanceFeverPoemVersions = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-08-31",
-  externalId: "2w7hx8bI5HpuEve5jA6l4t",
-  externalLink: "https://open.spotify.com/album/2w7hx8bI5HpuEve5jA6l4t",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2w7hx8bI5HpuEve5jA6l4t",
+      externalLink: "https://open.spotify.com/album/2w7hx8bI5HpuEve5jA6l4t",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const enyaWatermark = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1988-01-01",
-  externalId: "2FZ2y8Z5sTRSnnSa8DIPHz",
-  externalLink: "https://open.spotify.com/album/2FZ2y8Z5sTRSnnSa8DIPHz",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2FZ2y8Z5sTRSnnSa8DIPHz",
+      externalLink: "https://open.spotify.com/album/2FZ2y8Z5sTRSnnSa8DIPHz",
+    },
+  ],
 } as const satisfies Release

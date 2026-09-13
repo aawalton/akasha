@@ -13,7 +13,12 @@ export const greenDayDemolicious = {
   status: "completed",
   rank: "C",
   publishedAt: "2014-04-19",
-  externalId: "7prfPBMbgDyhq7kdpM0R9v",
-  externalLink: "https://open.spotify.com/album/7prfPBMbgDyhq7kdpM0R9v",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7prfPBMbgDyhq7kdpM0R9v",
+      externalLink: "https://open.spotify.com/album/7prfPBMbgDyhq7kdpM0R9v",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

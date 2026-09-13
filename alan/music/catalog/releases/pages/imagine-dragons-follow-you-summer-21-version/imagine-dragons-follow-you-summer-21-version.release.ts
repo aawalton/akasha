@@ -12,6 +12,11 @@ export const imagineDragonsFollowYouSummer21Version = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-06-04",
-  externalId: "5XbogAOTpIAb0cuULw9FcP",
-  externalLink: "https://open.spotify.com/album/5XbogAOTpIAb0cuULw9FcP",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5XbogAOTpIAb0cuULw9FcP",
+      externalLink: "https://open.spotify.com/album/5XbogAOTpIAb0cuULw9FcP",
+    },
+  ],
 } as const satisfies Release

@@ -13,7 +13,12 @@ export const greenDayStuckWithMeBbcLiveSession = {
   status: "not-started",
   rank: "C",
   publishedAt: "2021-11-12",
-  externalId: "1Dxh4zA1lWhi98QyE0hpHC",
-  externalLink: "https://open.spotify.com/album/1Dxh4zA1lWhi98QyE0hpHC",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Dxh4zA1lWhi98QyE0hpHC",
+      externalLink: "https://open.spotify.com/album/1Dxh4zA1lWhi98QyE0hpHC",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

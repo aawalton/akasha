@@ -12,6 +12,11 @@ export const florenceTheMachineMyLoveMeduzaRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-04-14",
-  externalId: "7MMKSqLZsScjyX29FNqDou",
-  externalLink: "https://open.spotify.com/album/7MMKSqLZsScjyX29FNqDou",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7MMKSqLZsScjyX29FNqDou",
+      externalLink: "https://open.spotify.com/album/7MMKSqLZsScjyX29FNqDou",
+    },
+  ],
 } as const satisfies Release

@@ -13,7 +13,12 @@ export const izzyEscobarTheseEyes = {
   status: "completed",
   rank: "C",
   publishedAt: "2025-03-07",
-  externalId: "1MsSl8MsaCXLWwDXJQkzsr",
-  externalLink: "https://open.spotify.com/album/1MsSl8MsaCXLWwDXJQkzsr",
-  lastSyncedAt: "2025-11-15",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1MsSl8MsaCXLWwDXJQkzsr",
+      externalLink: "https://open.spotify.com/album/1MsSl8MsaCXLWwDXJQkzsr",
+      lastSyncedAt: "2025-11-15",
+    },
+  ],
 } as const satisfies Release

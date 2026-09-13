@@ -12,7 +12,12 @@ export const enyaTheVeryBestOfEnyaDeluxeEdition = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2009-12-01",
-  externalId: "6nWeQICT2mTRckahG3Wuus",
-  externalLink: "https://open.spotify.com/album/6nWeQICT2mTRckahG3Wuus",
-  lastSyncedAt: "2025-10-09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6nWeQICT2mTRckahG3Wuus",
+      externalLink: "https://open.spotify.com/album/6nWeQICT2mTRckahG3Wuus",
+      lastSyncedAt: "2025-10-09",
+    },
+  ],
 } as const satisfies Release

@@ -13,6 +13,11 @@ export const emeiTrustIssues = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-08-17",
-  externalId: "29FWknxiELyLTfZGBDpmRk",
-  externalLink: "https://open.spotify.com/album/29FWknxiELyLTfZGBDpmRk",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "29FWknxiELyLTfZGBDpmRk",
+      externalLink: "https://open.spotify.com/album/29FWknxiELyLTfZGBDpmRk",
+    },
+  ],
 } as const satisfies Release

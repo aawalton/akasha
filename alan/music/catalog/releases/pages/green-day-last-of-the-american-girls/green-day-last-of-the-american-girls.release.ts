@@ -13,7 +13,12 @@ export const greenDayLastOfTheAmericanGirls = {
   status: "completed",
   rank: "C",
   publishedAt: "2010-03-22",
-  externalId: "3tTmTykIIa5erRQRcH5E61",
-  externalLink: "https://open.spotify.com/album/3tTmTykIIa5erRQRcH5E61",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3tTmTykIIa5erRQRcH5E61",
+      externalLink: "https://open.spotify.com/album/3tTmTykIIa5erRQRcH5E61",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

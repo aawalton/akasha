@@ -12,6 +12,11 @@ export const jadaFacerAwakeMySoulAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-07-09",
-  externalId: "0vZBynUf0TqgzUyXllT6s5",
-  externalLink: "https://open.spotify.com/album/0vZBynUf0TqgzUyXllT6s5",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0vZBynUf0TqgzUyXllT6s5",
+      externalLink: "https://open.spotify.com/album/0vZBynUf0TqgzUyXllT6s5",
+    },
+  ],
 } as const satisfies Release

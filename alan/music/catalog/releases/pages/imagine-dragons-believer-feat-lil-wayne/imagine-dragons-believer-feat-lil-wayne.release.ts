@@ -12,6 +12,11 @@ export const imagineDragonsBelieverFeatLilWayne = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-01-07",
-  externalId: "6Q0aPCxLqK5EDSJdlPkNeT",
-  externalLink: "https://open.spotify.com/album/6Q0aPCxLqK5EDSJdlPkNeT",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6Q0aPCxLqK5EDSJdlPkNeT",
+      externalLink: "https://open.spotify.com/album/6Q0aPCxLqK5EDSJdlPkNeT",
+    },
+  ],
 } as const satisfies Release

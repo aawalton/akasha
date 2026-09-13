@@ -12,6 +12,11 @@ export const imagineDragonsThunderYoungDumbBrokeWithKhalidMedley = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-12-20",
-  externalId: "573iLAebuuBiOerLRZRaSZ",
-  externalLink: "https://open.spotify.com/album/573iLAebuuBiOerLRZRaSZ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "573iLAebuuBiOerLRZRaSZ",
+      externalLink: "https://open.spotify.com/album/573iLAebuuBiOerLRZRaSZ",
+    },
+  ],
 } as const satisfies Release

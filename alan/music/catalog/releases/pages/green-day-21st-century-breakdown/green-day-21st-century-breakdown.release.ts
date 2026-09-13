@@ -13,7 +13,12 @@ export const greenDay21stCenturyBreakdown = {
   status: "completed",
   rank: "C",
   publishedAt: "2009-05-15",
-  externalId: "1AHZd3C3S8m8fFrhFxyk79",
-  externalLink: "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1AHZd3C3S8m8fFrhFxyk79",
+      externalLink: "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release
