@@ -8,7 +8,6 @@ export const changeAgentFolder = {
   parts: [
     "change-agent/move-folder",
     "change-agent/move-folder-package",
-    "change-agent/nest-commands",
     "change-agent/nest-modules",
     "change-agent/remove-folder",
     "change-agent/remove-folder-package",

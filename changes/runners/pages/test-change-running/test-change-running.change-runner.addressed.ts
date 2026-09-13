@@ -92,9 +92,6 @@ export type Changes = {
   "change-agent/move-property-value": Parameters<
     typeof import("akasha/changes/agent/file-content/move-property-value/move-property-value.change-agent.code.ts")["runChange"]
   >[1]
-  "change-agent/nest-commands": Parameters<
-    typeof import("akasha/changes/agent/folder/nest-commands/nest-commands.change-agent.code.ts")["runChange"]
-  >[1]
   "change-agent/nest-modules": Parameters<
     typeof import("akasha/changes/agent/folder/nest-modules/nest-modules.change-agent.code.ts")["runChange"]
   >[1]
