@@ -36,7 +36,7 @@ export const alanTracking = {
       statement: "The function this command calls knows no command line.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "The kind named here runs no warrant.",
     },
     {
