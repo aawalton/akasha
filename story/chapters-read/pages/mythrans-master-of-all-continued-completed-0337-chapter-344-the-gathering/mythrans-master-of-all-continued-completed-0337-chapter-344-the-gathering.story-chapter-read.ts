@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0337Chapter344TheGathering = {
   ownLength: 3026,
   unit: "words",
   publishedAt: "2017-08-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/158238/chapter-344-the-gathering",
-  externalId: "158238",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "158238",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/158238/chapter-344-the-gathering",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

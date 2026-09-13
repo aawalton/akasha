@@ -12,9 +12,13 @@ export const motherOfLearning006565DangerousGround = {
   unit: "words",
   completedAt: "2026-06-29T22:46:12.792Z",
   publishedAt: "2018-12-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/318639/65-dangerous-ground",
-  externalId: "318639",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "318639",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/318639/65-dangerous-ground",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0268Chapter277TwoHeadsAreBette
   ownLength: 3067,
   unit: "words",
   publishedAt: "2017-06-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/141703/chapter-277-two-heads-are-better-than-one",
-  externalId: "141703",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "141703",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/141703/chapter-277-two-heads-are-better-than-one",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

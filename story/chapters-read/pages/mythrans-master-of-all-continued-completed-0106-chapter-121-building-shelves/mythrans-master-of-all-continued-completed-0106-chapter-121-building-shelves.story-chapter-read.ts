@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0106Chapter121BuildingShelves 
   ownLength: 4714,
   unit: "words",
   publishedAt: "2016-12-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/108621/chapter-121-building-shelves",
-  externalId: "108621",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "108621",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/108621/chapter-121-building-shelves",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

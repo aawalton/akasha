@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0122Chapter137CatFight = {
   ownLength: 7434,
   unit: "words",
   publishedAt: "2017-01-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/111157/chapter-137-cat-fight",
-  externalId: "111157",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "111157",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/111157/chapter-137-cat-fight",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

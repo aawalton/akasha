@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0294Chapter303LisasVisit = {
   ownLength: 5075,
   unit: "words",
   publishedAt: "2017-07-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/147745/chapter-303-lisas-visit",
-  externalId: "147745",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "147745",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/147745/chapter-303-lisas-visit",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

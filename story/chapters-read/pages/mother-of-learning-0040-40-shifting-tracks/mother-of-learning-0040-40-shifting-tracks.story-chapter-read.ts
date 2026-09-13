@@ -12,9 +12,13 @@ export const motherOfLearning004040ShiftingTracks = {
   unit: "words",
   completedAt: "2026-06-29T22:45:16.996Z",
   publishedAt: "2018-12-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/311406/40-shifting-tracks",
-  externalId: "311406",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "311406",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/311406/40-shifting-tracks",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -8,11 +8,15 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0133Chapter127Tangle = {
   position: 133,
   publishedAt: "2026-09-07",
   unit: "words",
-  externalId: "3926278",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3926278",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3926278/chapter-127-tangle",
+    },
+  ],
   title: "Chapter 127 Tangle",
   ownLength: 2235,
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3926278/chapter-127-tangle",
   prose: "txt",
 } as const satisfies StoryChapterRead

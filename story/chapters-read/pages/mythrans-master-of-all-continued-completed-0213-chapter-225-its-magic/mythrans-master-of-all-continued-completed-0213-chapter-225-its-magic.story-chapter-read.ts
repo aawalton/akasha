@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0213Chapter225ItsMagic = {
   ownLength: 4581,
   unit: "words",
   publishedAt: "2017-04-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/130003/chapter-225-its-magic",
-  externalId: "130003",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "130003",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/130003/chapter-225-its-magic",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

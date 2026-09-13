@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0311Chapter319EsSuCasa = {
   ownLength: 4069,
   unit: "words",
   publishedAt: "2017-07-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/151248/chapter-319-es-su-casa",
-  externalId: "151248",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "151248",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/151248/chapter-319-es-su-casa",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

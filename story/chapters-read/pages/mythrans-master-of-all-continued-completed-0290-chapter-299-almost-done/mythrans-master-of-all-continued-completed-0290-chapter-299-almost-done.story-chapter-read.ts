@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0290Chapter299AlmostDone = {
   ownLength: 3148,
   unit: "words",
   publishedAt: "2017-07-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/146470/chapter-299-almost-done",
-  externalId: "146470",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "146470",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/146470/chapter-299-almost-done",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

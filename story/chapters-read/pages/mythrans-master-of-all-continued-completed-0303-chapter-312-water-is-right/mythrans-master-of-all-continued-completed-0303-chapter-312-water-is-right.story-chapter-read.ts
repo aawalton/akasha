@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0303Chapter312WaterIsRight = {
   ownLength: 3188,
   unit: "words",
   publishedAt: "2017-07-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/149681/chapter-312-water-is-right",
-  externalId: "149681",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "149681",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/149681/chapter-312-water-is-right",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

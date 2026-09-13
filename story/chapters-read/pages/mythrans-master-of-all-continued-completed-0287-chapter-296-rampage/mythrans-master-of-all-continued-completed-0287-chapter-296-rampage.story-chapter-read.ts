@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0287Chapter296Rampage = {
   ownLength: 3328,
   unit: "words",
   publishedAt: "2017-07-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/145902/chapter-296-rampage",
-  externalId: "145902",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "145902",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/145902/chapter-296-rampage",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

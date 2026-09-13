@@ -10,9 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0007Chapter6Ashridge = {
   ownLength: 2083,
   unit: "words",
   publishedAt: "2026-03-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3195105/chapter-6-ashridge",
-  externalId: "3195105",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3195105",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3195105/chapter-6-ashridge",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

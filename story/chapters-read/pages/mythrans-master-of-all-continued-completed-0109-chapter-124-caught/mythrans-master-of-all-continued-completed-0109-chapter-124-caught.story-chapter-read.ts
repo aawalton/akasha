@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0109Chapter124Caught = {
   ownLength: 4853,
   unit: "words",
   publishedAt: "2016-12-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/109078/chapter-124-caught",
-  externalId: "109078",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "109078",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/109078/chapter-124-caught",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

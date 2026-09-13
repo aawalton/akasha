@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0081Chapter97TheCommanderKnows
   ownLength: 3020,
   unit: "words",
   publishedAt: "2016-11-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/104786/chapter-97-the-commander-knows-all",
-  externalId: "104786",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "104786",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/104786/chapter-97-the-commander-knows-all",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

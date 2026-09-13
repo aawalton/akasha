@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0265Chapter275FoodForThought =
   ownLength: 3375,
   unit: "words",
   publishedAt: "2017-06-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/140933/chapter-275-food-for-thought",
-  externalId: "140933",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "140933",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/140933/chapter-275-food-for-thought",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

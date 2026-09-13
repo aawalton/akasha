@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0171Chapter183WillThatWork = {
   ownLength: 4085,
   unit: "words",
   publishedAt: "2017-02-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/121196/chapter-183-will-that-work",
-  externalId: "121196",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "121196",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/121196/chapter-183-will-that-work",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const motherOfLearning005656Obscure = {
   unit: "words",
   completedAt: "2026-06-29T22:45:52.869Z",
   publishedAt: "2018-12-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/315980/56-obscure",
-  externalId: "315980",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "315980",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/315980/56-obscure",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const motherOfLearning006060IntoTheAbyss = {
   unit: "words",
   completedAt: "2026-06-29T22:46:01.771Z",
   publishedAt: "2018-12-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/317193/60-into-the-abyss",
-  externalId: "317193",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "317193",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/317193/60-into-the-abyss",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

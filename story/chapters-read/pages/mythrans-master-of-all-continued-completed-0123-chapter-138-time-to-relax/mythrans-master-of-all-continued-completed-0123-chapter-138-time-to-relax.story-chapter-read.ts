@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0123Chapter138TimeToRelax = {
   ownLength: 5112,
   unit: "words",
   publishedAt: "2017-01-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/111338/chapter-138-time-to-relax",
-  externalId: "111338",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "111338",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/111338/chapter-138-time-to-relax",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

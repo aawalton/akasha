@@ -12,9 +12,13 @@ export const motherOfLearning004646TheOtherSide = {
   unit: "words",
   completedAt: "2026-06-29T22:45:29.945Z",
   publishedAt: "2018-12-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/313133/46-the-other-side",
-  externalId: "313133",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "313133",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/313133/46-the-other-side",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

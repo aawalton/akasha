@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0270Chapter279FirstSupplyDeliv
   ownLength: 3586,
   unit: "words",
   publishedAt: "2017-06-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/142095/chapter-279-first-supply-delivery",
-  externalId: "142095",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "142095",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/142095/chapter-279-first-supply-delivery",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

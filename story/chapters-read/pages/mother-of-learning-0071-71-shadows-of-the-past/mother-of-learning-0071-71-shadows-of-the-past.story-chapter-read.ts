@@ -12,9 +12,13 @@ export const motherOfLearning007171ShadowsOfThePast = {
   unit: "words",
   completedAt: "2026-06-29T22:46:27.475Z",
   publishedAt: "2019-01-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/320370/71-shadows-of-the-past",
-  externalId: "320370",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "320370",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/320370/71-shadows-of-the-past",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

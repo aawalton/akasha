@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0146Chapter160UntilShesFull = 
   ownLength: 3469,
   unit: "words",
   publishedAt: "2017-02-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/116785/chapter-160-until-shes-full",
-  externalId: "116785",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "116785",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/116785/chapter-160-until-shes-full",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

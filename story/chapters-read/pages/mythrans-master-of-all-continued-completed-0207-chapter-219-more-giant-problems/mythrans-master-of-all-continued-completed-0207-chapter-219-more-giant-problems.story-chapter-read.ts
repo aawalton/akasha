@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0207Chapter219MoreGiantProblem
   ownLength: 3336,
   unit: "words",
   publishedAt: "2017-04-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/128791/chapter-219-more-giant-problems",
-  externalId: "128791",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "128791",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/128791/chapter-219-more-giant-problems",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

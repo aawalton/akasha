@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0343Chapter350FightOrFlight = 
   ownLength: 5247,
   unit: "words",
   publishedAt: "2017-09-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/159488/chapter-350-fight-or-flight",
-  externalId: "159488",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "159488",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/159488/chapter-350-fight-or-flight",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

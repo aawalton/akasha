@@ -8,11 +8,15 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0131Chapter125Seam = {
   position: 131,
   publishedAt: "2026-09-04",
   unit: "words",
-  externalId: "3912406",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3912406",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3912406/chapter-125-seam",
+    },
+  ],
   title: "Chapter 125 Seam",
   ownLength: 2317,
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3912406/chapter-125-seam",
   prose: "txt",
 } as const satisfies StoryChapterRead

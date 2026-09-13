@@ -12,9 +12,13 @@ export const motherOfLearning005050Containment = {
   unit: "words",
   completedAt: "2026-06-29T22:45:39.185Z",
   publishedAt: "2018-12-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/314391/50-containment",
-  externalId: "314391",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "314391",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/314391/50-containment",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

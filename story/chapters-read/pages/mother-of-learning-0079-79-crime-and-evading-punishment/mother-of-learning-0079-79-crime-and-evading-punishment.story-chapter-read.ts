@@ -12,9 +12,13 @@ export const motherOfLearning007979CrimeAndEvadingPunishment = {
   unit: "words",
   completedAt: "2026-06-29T22:46:46.139Z",
   publishedAt: "2019-01-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/322733/79-crime-and-evading-punishment",
-  externalId: "322733",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "322733",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/322733/79-crime-and-evading-punishment",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

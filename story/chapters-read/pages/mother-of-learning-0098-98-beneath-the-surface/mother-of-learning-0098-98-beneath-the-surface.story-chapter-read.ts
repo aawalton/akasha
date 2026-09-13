@@ -12,9 +12,13 @@ export const motherOfLearning009898BeneathTheSurface = {
   unit: "words",
   completedAt: "2026-06-29T22:49:48.780Z",
   publishedAt: "2019-04-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/353454/98-beneath-the-surface",
-  externalId: "353454",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "353454",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/353454/98-beneath-the-surface",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

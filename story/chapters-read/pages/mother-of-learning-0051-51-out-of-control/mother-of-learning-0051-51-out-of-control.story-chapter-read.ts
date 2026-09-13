@@ -12,9 +12,13 @@ export const motherOfLearning005151OutOfControl = {
   unit: "words",
   completedAt: "2026-06-29T22:45:41.265Z",
   publishedAt: "2018-12-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/314625/51-out-of-control",
-  externalId: "314625",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "314625",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/314625/51-out-of-control",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

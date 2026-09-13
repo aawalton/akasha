@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0339Chapter346ThatWasQuick = {
   ownLength: 3641,
   unit: "words",
   publishedAt: "2017-08-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/158656/chapter-346-that-was-quick",
-  externalId: "158656",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "158656",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/158656/chapter-346-that-was-quick",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

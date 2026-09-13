@@ -12,9 +12,13 @@ export const motherOfLearning002121WheelOfFortune = {
   unit: "words",
   completedAt: "2026-06-29T22:44:28.633Z",
   publishedAt: "2018-11-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/305662/21-wheel-of-fortune",
-  externalId: "305662",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "305662",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/305662/21-wheel-of-fortune",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

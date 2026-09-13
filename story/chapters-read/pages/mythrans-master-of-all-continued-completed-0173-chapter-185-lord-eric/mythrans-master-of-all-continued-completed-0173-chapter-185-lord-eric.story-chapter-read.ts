@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0173Chapter185LordEric = {
   ownLength: 4100,
   unit: "words",
   publishedAt: "2017-03-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/121553/chapter-185-lord-eric",
-  externalId: "121553",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "121553",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/121553/chapter-185-lord-eric",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

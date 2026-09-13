@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0275Chapter284AnotherSurprisin
   ownLength: 4105,
   unit: "words",
   publishedAt: "2017-06-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/143162/chapter-284-another-surprising-discovery",
-  externalId: "143162",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "143162",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/143162/chapter-284-another-surprising-discovery",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

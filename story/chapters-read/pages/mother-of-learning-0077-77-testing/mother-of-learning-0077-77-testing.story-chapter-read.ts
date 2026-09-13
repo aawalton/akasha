@@ -12,9 +12,13 @@ export const motherOfLearning007777Testing = {
   unit: "words",
   completedAt: "2026-06-29T22:46:41.504Z",
   publishedAt: "2019-01-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/322204/77-testing",
-  externalId: "322204",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "322204",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/322204/77-testing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

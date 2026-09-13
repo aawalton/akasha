@@ -12,9 +12,13 @@ export const motherOfLearning007272Crossroads = {
   unit: "words",
   completedAt: "2026-06-29T22:46:29.886Z",
   publishedAt: "2019-01-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/320672/72-crossroads",
-  externalId: "320672",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "320672",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/320672/72-crossroads",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

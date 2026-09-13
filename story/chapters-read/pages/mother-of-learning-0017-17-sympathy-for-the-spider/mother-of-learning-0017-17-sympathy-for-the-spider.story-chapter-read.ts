@@ -12,9 +12,13 @@ export const motherOfLearning001717SympathyForTheSpider = {
   unit: "words",
   completedAt: "2026-06-29T22:44:19.840Z",
   publishedAt: "2018-11-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/304398/17-sympathy-for-the-spider",
-  externalId: "304398",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "304398",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/304398/17-sympathy-for-the-spider",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

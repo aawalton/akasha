@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0224Chapter235Confrontations =
   ownLength: 3485,
   unit: "words",
   publishedAt: "2017-04-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/132139/chapter-235-confrontations",
-  externalId: "132139",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "132139",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/132139/chapter-235-confrontations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

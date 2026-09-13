@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0319Chapter327ToClintsRanch = 
   ownLength: 4074,
   unit: "words",
   publishedAt: "2017-08-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/154464/chapter-327-to-clints-ranch",
-  externalId: "154464",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "154464",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/154464/chapter-327-to-clints-ranch",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

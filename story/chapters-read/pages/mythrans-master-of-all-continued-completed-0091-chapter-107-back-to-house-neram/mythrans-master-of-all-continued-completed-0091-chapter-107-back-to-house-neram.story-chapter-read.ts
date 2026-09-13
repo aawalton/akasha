@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0091Chapter107BackToHouseNeram
   ownLength: 4994,
   unit: "words",
   publishedAt: "2016-12-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/106483/chapter-107-back-to-house-neram",
-  externalId: "106483",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "106483",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/106483/chapter-107-back-to-house-neram",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

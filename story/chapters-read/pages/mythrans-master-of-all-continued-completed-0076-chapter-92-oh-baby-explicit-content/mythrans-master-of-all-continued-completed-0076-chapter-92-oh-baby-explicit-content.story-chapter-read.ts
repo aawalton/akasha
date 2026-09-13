@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0076Chapter92OhBabyExplicitCon
   ownLength: 2170,
   unit: "words",
   publishedAt: "2016-11-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/104168/chapter-92-oh-baby-explicit-content",
-  externalId: "104168",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "104168",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/104168/chapter-92-oh-baby-explicit-content",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

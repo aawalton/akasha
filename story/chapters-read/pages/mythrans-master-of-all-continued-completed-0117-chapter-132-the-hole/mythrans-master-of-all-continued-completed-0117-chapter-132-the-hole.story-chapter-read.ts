@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0117Chapter132TheHole = {
   ownLength: 4480,
   unit: "words",
   publishedAt: "2017-01-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/110378/chapter-132-the-hole",
-  externalId: "110378",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "110378",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/110378/chapter-132-the-hole",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0069Chapter85ATasteOfDwarfLife
   ownLength: 4933,
   unit: "words",
   publishedAt: "2016-11-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/103285/chapter-85-a-taste-of-dwarf-life",
-  externalId: "103285",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "103285",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/103285/chapter-85-a-taste-of-dwarf-life",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

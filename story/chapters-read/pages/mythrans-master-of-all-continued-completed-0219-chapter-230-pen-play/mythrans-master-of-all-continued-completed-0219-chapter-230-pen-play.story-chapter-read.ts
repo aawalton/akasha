@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0219Chapter230PenPlay = {
   ownLength: 3658,
   unit: "words",
   publishedAt: "2017-04-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/131027/chapter-230-pen-play",
-  externalId: "131027",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "131027",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/131027/chapter-230-pen-play",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

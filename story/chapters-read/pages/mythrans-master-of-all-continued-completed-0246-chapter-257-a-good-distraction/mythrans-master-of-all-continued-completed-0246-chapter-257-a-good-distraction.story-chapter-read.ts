@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0246Chapter257AGoodDistraction
   ownLength: 3245,
   unit: "words",
   publishedAt: "2017-05-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/137375/chapter-257-a-good-distraction",
-  externalId: "137375",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "137375",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/137375/chapter-257-a-good-distraction",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

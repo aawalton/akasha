@@ -12,9 +12,13 @@ export const motherOfLearning008888MysteriousWays = {
   unit: "words",
   completedAt: "2026-06-29T22:49:25.682Z",
   publishedAt: "2019-01-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/325392/88-mysterious-ways",
-  externalId: "325392",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "325392",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/325392/88-mysterious-ways",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

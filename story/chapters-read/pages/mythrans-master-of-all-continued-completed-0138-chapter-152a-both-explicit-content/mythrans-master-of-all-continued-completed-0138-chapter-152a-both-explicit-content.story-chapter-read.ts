@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0138Chapter152aBothExplicitCon
   ownLength: 2924,
   unit: "words",
   publishedAt: "2017-01-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/115379/chapter-152a-both-explicit-content",
-  externalId: "115379",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "115379",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/115379/chapter-152a-both-explicit-content",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

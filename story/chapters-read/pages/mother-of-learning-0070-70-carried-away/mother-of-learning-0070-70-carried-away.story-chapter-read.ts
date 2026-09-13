@@ -12,9 +12,13 @@ export const motherOfLearning007070CarriedAway = {
   unit: "words",
   completedAt: "2026-06-29T22:46:24.768Z",
   publishedAt: "2018-12-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/320107/70-carried-away",
-  externalId: "320107",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "320107",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/320107/70-carried-away",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0302Chapter311ShoalIsland = {
   ownLength: 3299,
   unit: "words",
   publishedAt: "2017-07-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/149477/chapter-311-shoal-island",
-  externalId: "149477",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "149477",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/149477/chapter-311-shoal-island",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

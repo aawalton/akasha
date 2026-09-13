@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0249Chapter259aTheCloset = {
   ownLength: 2777,
   unit: "words",
   publishedAt: "2017-05-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/137942/chapter-259a-the-closet",
-  externalId: "137942",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "137942",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/137942/chapter-259a-the-closet",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

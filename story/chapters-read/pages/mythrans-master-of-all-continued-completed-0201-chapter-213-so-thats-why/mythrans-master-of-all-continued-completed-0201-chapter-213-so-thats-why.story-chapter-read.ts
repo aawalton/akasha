@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0201Chapter213SoThatsWhy = {
   ownLength: 2804,
   unit: "words",
   publishedAt: "2017-04-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/127756/chapter-213-so-thats-why",
-  externalId: "127756",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "127756",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/127756/chapter-213-so-thats-why",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

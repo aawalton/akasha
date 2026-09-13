@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0326Chapter334SettlingThings =
   ownLength: 4689,
   unit: "words",
   publishedAt: "2017-08-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/155984/chapter-334-settling-things",
-  externalId: "155984",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "155984",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/155984/chapter-334-settling-things",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

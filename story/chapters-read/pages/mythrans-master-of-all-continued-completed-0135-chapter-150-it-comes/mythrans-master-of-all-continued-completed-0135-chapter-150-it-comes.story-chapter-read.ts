@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0135Chapter150ItComes = {
   ownLength: 5284,
   unit: "words",
   publishedAt: "2017-01-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/114750/chapter-150-it-comes",
-  externalId: "114750",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "114750",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/114750/chapter-150-it-comes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0258Chapter268LastOfThePrizes 
   ownLength: 3504,
   unit: "words",
   publishedAt: "2017-06-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/139554/chapter-268-last-of-the-prizes",
-  externalId: "139554",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "139554",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/139554/chapter-268-last-of-the-prizes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

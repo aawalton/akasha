@@ -12,9 +12,13 @@ export const motherOfLearning001818ThePactIsSealed = {
   unit: "words",
   completedAt: "2026-06-29T22:44:22.268Z",
   publishedAt: "2018-11-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/304716/18-the-pact-is-sealed",
-  externalId: "304716",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "304716",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/304716/18-the-pact-is-sealed",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

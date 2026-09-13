@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0112Chapter127ICanExplain = {
   ownLength: 2906,
   unit: "words",
   publishedAt: "2016-12-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/109668/chapter-127-i-can-explain",
-  externalId: "109668",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "109668",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/109668/chapter-127-i-can-explain",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

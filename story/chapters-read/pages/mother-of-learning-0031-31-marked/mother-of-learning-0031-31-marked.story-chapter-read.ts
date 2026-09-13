@@ -12,9 +12,13 @@ export const motherOfLearning003131Marked = {
   unit: "words",
   completedAt: "2026-06-29T22:44:55.967Z",
   publishedAt: "2018-11-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/308373/31-marked",
-  externalId: "308373",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "308373",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/308373/31-marked",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

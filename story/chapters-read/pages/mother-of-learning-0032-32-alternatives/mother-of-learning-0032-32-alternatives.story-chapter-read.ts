@@ -12,9 +12,13 @@ export const motherOfLearning003232Alternatives = {
   unit: "words",
   completedAt: "2026-06-29T22:44:58.068Z",
   publishedAt: "2018-11-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/308643/32-alternatives",
-  externalId: "308643",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "308643",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/308643/32-alternatives",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

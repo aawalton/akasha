@@ -12,9 +12,13 @@ export const motherOfLearning009696Contract = {
   unit: "words",
   completedAt: "2026-06-29T22:49:44.285Z",
   publishedAt: "2019-02-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/335040/96-contract",
-  externalId: "335040",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "335040",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/335040/96-contract",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

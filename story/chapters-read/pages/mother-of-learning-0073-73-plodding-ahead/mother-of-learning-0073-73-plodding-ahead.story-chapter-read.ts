@@ -12,9 +12,13 @@ export const motherOfLearning007373PloddingAhead = {
   unit: "words",
   completedAt: "2026-06-29T22:46:32.121Z",
   publishedAt: "2019-01-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/320954/73-plodding-ahead",
-  externalId: "320954",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "320954",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/320954/73-plodding-ahead",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

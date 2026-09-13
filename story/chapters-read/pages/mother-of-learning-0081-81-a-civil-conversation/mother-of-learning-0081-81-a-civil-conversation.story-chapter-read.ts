@@ -12,9 +12,13 @@ export const motherOfLearning008181ACivilConversation = {
   unit: "words",
   completedAt: "2026-06-29T22:46:50.583Z",
   publishedAt: "2019-01-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/323436/81-a-civil-conversation",
-  externalId: "323436",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "323436",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/323436/81-a-civil-conversation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

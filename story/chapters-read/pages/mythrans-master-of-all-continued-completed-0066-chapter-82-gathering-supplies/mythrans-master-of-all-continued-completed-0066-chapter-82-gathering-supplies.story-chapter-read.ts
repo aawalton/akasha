@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0066Chapter82GatheringSupplies
   ownLength: 3808,
   unit: "words",
   publishedAt: "2016-11-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/102774/chapter-82-gathering-supplies",
-  externalId: "102774",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "102774",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/102774/chapter-82-gathering-supplies",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0256Chapter266HereTheyCome = {
   ownLength: 10484,
   unit: "words",
   publishedAt: "2017-05-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/139162/chapter-266-here-they-come",
-  externalId: "139162",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "139162",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/139162/chapter-266-here-they-come",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

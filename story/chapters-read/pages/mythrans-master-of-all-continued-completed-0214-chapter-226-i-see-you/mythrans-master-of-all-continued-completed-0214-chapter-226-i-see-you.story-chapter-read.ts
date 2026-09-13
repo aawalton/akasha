@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0214Chapter226ISeeYou = {
   ownLength: 4017,
   unit: "words",
   publishedAt: "2017-04-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/130189/chapter-226-i-see-you",
-  externalId: "130189",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "130189",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/130189/chapter-226-i-see-you",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

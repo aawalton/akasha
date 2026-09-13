@@ -12,9 +12,13 @@ export const motherOfLearning0109NewStoryIsOutZenithOfSorcery = {
   unit: "words",
   completedAt: "2026-06-29T22:50:13.648Z",
   publishedAt: "2023-07-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/1269041/new-story-is-out-zenith-of-sorcery",
-  externalId: "1269041",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1269041",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/1269041/new-story-is-out-zenith-of-sorcery",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

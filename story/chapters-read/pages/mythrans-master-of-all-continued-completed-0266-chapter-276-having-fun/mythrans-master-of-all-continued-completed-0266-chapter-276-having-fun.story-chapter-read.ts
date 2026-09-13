@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0266Chapter276HavingFun = {
   ownLength: 3784,
   unit: "words",
   publishedAt: "2017-06-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/141094/chapter-276-having-fun",
-  externalId: "141094",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "141094",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/141094/chapter-276-having-fun",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

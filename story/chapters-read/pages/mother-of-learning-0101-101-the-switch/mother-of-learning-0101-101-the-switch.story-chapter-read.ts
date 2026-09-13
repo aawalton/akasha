@@ -12,9 +12,13 @@ export const motherOfLearning0101101TheSwitch = {
   unit: "words",
   completedAt: "2026-06-29T22:49:55.569Z",
   publishedAt: "2019-07-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/386938/101-the-switch",
-  externalId: "386938",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "386938",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/386938/101-the-switch",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

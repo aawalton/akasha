@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0240Chapter251PhysicalProblems
   ownLength: 4850,
   unit: "words",
   publishedAt: "2017-05-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/135424/chapter-251-physical-problems",
-  externalId: "135424",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "135424",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/135424/chapter-251-physical-problems",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0092Chapter108OrderingStuff = 
   ownLength: 6331,
   unit: "words",
   publishedAt: "2016-12-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/106620/chapter-108-ordering-stuff",
-  externalId: "106620",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "106620",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/106620/chapter-108-ordering-stuff",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

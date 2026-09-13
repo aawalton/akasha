@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0307Chapter315aRedheadFever = 
   ownLength: 2212,
   unit: "words",
   publishedAt: "2017-07-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/150613/chapter-315a-redhead-fever",
-  externalId: "150613",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "150613",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/150613/chapter-315a-redhead-fever",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

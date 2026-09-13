@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0288Chapter297LoadMeUp = {
   ownLength: 4444,
   unit: "words",
   publishedAt: "2017-07-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/146077/chapter-297-load-me-up",
-  externalId: "146077",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "146077",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/146077/chapter-297-load-me-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

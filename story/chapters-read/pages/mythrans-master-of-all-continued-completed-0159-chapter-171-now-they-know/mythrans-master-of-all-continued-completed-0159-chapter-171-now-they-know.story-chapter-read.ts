@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0159Chapter171NowTheyKnow = {
   ownLength: 3389,
   unit: "words",
   publishedAt: "2017-02-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/118967/chapter-171-now-they-know",
-  externalId: "118967",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "118967",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/118967/chapter-171-now-they-know",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

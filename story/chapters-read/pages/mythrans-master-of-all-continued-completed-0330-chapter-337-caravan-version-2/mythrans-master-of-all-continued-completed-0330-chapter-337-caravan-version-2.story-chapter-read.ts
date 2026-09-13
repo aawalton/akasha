@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0330Chapter337CaravanVersion2 
   ownLength: 3921,
   unit: "words",
   publishedAt: "2017-08-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/156767/chapter-337-caravan-version-2",
-  externalId: "156767",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "156767",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/156767/chapter-337-caravan-version-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

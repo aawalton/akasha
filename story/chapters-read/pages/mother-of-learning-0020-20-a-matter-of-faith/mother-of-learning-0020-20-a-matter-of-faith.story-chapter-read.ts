@@ -12,9 +12,13 @@ export const motherOfLearning002020AMatterOfFaith = {
   unit: "words",
   completedAt: "2026-06-29T22:44:26.668Z",
   publishedAt: "2018-11-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/305359/20-a-matter-of-faith",
-  externalId: "305359",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "305359",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/305359/20-a-matter-of-faith",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

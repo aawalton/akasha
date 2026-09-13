@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0143Chapter157FireBad = {
   ownLength: 4257,
   unit: "words",
   publishedAt: "2017-02-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/116184/chapter-157-fire-bad",
-  externalId: "116184",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "116184",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/116184/chapter-157-fire-bad",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

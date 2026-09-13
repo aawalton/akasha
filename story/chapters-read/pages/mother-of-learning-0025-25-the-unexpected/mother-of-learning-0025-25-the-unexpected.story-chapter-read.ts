@@ -12,9 +12,13 @@ export const motherOfLearning002525TheUnexpected = {
   unit: "words",
   completedAt: "2026-06-29T22:44:38.685Z",
   publishedAt: "2018-11-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/306758/25-the-unexpected",
-  externalId: "306758",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "306758",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/306758/25-the-unexpected",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

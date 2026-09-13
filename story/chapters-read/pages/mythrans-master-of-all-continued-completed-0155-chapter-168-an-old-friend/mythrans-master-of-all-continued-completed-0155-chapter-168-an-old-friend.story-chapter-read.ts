@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0155Chapter168AnOldFriend = {
   ownLength: 4781,
   unit: "words",
   publishedAt: "2017-02-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/118407/chapter-168-an-old-friend",
-  externalId: "118407",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "118407",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/118407/chapter-168-an-old-friend",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

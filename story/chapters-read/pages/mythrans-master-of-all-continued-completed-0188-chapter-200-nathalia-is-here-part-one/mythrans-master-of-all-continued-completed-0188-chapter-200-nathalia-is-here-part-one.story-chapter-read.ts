@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0188Chapter200NathaliaIsHerePa
   ownLength: 4224,
   unit: "words",
   publishedAt: "2017-03-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/125139/chapter-200-nathalia-is-here-part-one",
-  externalId: "125139",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "125139",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/125139/chapter-200-nathalia-is-here-part-one",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

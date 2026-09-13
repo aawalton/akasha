@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0115Chapter130Barracks = {
   ownLength: 3447,
   unit: "words",
   publishedAt: "2016-12-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/109973/chapter-130-barracks",
-  externalId: "109973",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "109973",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/109973/chapter-130-barracks",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

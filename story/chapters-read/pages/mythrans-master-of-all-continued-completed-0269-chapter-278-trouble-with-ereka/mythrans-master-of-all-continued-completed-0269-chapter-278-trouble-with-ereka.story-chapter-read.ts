@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0269Chapter278TroubleWithEreka
   ownLength: 3600,
   unit: "words",
   publishedAt: "2017-06-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/141909/chapter-278-trouble-with-ereka",
-  externalId: "141909",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "141909",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/141909/chapter-278-trouble-with-ereka",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

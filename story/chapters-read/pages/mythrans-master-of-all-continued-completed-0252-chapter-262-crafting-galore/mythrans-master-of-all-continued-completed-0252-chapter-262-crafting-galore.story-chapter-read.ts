@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0252Chapter262CraftingGalore =
   ownLength: 4168,
   unit: "words",
   publishedAt: "2017-05-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/138327/chapter-262-crafting-galore",
-  externalId: "138327",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "138327",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/138327/chapter-262-crafting-galore",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

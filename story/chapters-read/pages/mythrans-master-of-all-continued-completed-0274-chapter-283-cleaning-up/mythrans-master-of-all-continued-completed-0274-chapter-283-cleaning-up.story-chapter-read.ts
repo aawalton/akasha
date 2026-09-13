@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0274Chapter283CleaningUp = {
   ownLength: 3475,
   unit: "words",
   publishedAt: "2017-06-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/142935/chapter-283-cleaning-up",
-  externalId: "142935",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "142935",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/142935/chapter-283-cleaning-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

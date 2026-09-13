@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0094Chapter110GeneralInformati
   ownLength: 4961,
   unit: "words",
   publishedAt: "2016-12-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/106922/chapter-110-general-information",
-  externalId: "106922",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "106922",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/106922/chapter-110-general-information",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

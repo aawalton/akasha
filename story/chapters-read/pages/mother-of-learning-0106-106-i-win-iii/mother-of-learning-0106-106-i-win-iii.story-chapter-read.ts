@@ -12,9 +12,13 @@ export const motherOfLearning0106106IWinIii = {
   unit: "words",
   completedAt: "2026-06-29T22:50:06.952Z",
   publishedAt: "2020-02-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/452736/106-i-win-iii",
-  externalId: "452736",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "452736",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/452736/106-i-win-iii",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

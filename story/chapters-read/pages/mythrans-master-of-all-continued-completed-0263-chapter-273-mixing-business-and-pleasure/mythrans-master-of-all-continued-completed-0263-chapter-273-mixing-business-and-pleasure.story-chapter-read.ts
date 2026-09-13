@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0263Chapter273MixingBusinessAn
   ownLength: 4315,
   unit: "words",
   publishedAt: "2017-06-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/140481/chapter-273-mixing-business-and-pleasure",
-  externalId: "140481",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "140481",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/140481/chapter-273-mixing-business-and-pleasure",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

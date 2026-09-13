@@ -12,9 +12,13 @@ export const motherOfLearning007878GrindingStone = {
   unit: "words",
   completedAt: "2026-06-29T22:46:43.769Z",
   publishedAt: "2019-01-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/322443/78-grinding-stone",
-  externalId: "322443",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "322443",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/322443/78-grinding-stone",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

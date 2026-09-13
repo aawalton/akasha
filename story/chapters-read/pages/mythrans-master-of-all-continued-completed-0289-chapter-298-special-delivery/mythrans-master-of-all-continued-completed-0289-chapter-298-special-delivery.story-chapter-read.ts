@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0289Chapter298SpecialDelivery 
   ownLength: 4242,
   unit: "words",
   publishedAt: "2017-07-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/146280/chapter-298-special-delivery",
-  externalId: "146280",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "146280",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/146280/chapter-298-special-delivery",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

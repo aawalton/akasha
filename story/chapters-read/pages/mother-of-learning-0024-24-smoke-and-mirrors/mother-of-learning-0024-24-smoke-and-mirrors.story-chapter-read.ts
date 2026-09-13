@@ -12,9 +12,13 @@ export const motherOfLearning002424SmokeAndMirrors = {
   unit: "words",
   completedAt: "2026-06-29T22:44:36.428Z",
   publishedAt: "2018-11-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/306575/24-smoke-and-mirrors",
-  externalId: "306575",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "306575",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/306575/24-smoke-and-mirrors",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

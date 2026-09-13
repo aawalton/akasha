@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0160Chapter172IsThatAll = {
   ownLength: 3583,
   unit: "words",
   publishedAt: "2017-02-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/119096/chapter-172-is-that-all",
-  externalId: "119096",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "119096",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/119096/chapter-172-is-that-all",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

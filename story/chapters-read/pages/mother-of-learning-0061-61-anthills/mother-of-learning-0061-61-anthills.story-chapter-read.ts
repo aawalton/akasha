@@ -12,9 +12,13 @@ export const motherOfLearning006161Anthills = {
   unit: "words",
   completedAt: "2026-06-29T22:46:04.035Z",
   publishedAt: "2018-12-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/317506/61-anthills",
-  externalId: "317506",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "317506",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/317506/61-anthills",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const motherOfLearning002323LightingTheFuse = {
   unit: "words",
   completedAt: "2026-06-29T22:44:34.095Z",
   publishedAt: "2018-11-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/306244/23-lighting-the-fuse",
-  externalId: "306244",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "306244",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/306244/23-lighting-the-fuse",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

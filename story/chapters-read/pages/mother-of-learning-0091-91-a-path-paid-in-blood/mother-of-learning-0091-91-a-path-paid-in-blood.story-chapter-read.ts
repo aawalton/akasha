@@ -12,9 +12,13 @@ export const motherOfLearning009191APathPaidInBlood = {
   unit: "words",
   completedAt: "2026-06-29T22:49:32.446Z",
   publishedAt: "2019-01-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/326370/91-a-path-paid-in-blood",
-  externalId: "326370",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "326370",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/326370/91-a-path-paid-in-blood",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

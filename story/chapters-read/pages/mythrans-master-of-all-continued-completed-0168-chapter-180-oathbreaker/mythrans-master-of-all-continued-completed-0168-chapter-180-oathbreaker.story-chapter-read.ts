@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0168Chapter180Oathbreaker = {
   ownLength: 4351,
   unit: "words",
   publishedAt: "2017-02-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/120558/chapter-180-oathbreaker",
-  externalId: "120558",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "120558",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/120558/chapter-180-oathbreaker",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

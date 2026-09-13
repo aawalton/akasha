@@ -12,9 +12,13 @@ export const motherOfLearning009393ShelterInTheStorm = {
   unit: "words",
   completedAt: "2026-06-29T22:49:37.373Z",
   publishedAt: "2019-01-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/327015/93-shelter-in-the-storm",
-  externalId: "327015",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "327015",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/327015/93-shelter-in-the-storm",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

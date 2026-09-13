@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0199Chapter211IJustWantToTalk 
   ownLength: 5185,
   unit: "words",
   publishedAt: "2017-04-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/127350/chapter-211-i-just-want-to-talk",
-  externalId: "127350",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "127350",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/127350/chapter-211-i-just-want-to-talk",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

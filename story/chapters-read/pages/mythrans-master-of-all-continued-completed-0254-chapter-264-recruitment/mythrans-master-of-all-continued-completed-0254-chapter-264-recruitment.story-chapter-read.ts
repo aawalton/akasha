@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0254Chapter264Recruitment = {
   ownLength: 3764,
   unit: "words",
   publishedAt: "2017-05-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/138697/chapter-264-recruitment",
-  externalId: "138697",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "138697",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/138697/chapter-264-recruitment",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

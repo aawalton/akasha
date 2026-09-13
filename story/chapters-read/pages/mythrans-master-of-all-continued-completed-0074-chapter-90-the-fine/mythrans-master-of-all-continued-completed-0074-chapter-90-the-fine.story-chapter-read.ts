@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0074Chapter90TheFine = {
   ownLength: 3023,
   unit: "words",
   publishedAt: "2016-11-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/103865/chapter-90-the-fine",
-  externalId: "103865",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "103865",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/103865/chapter-90-the-fine",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

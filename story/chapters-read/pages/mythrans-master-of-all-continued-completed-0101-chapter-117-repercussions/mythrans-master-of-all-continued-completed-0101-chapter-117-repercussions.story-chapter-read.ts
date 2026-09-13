@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0101Chapter117Repercussions = 
   ownLength: 3743,
   unit: "words",
   publishedAt: "2016-12-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/107998/chapter-117-repercussions",
-  externalId: "107998",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "107998",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/107998/chapter-117-repercussions",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

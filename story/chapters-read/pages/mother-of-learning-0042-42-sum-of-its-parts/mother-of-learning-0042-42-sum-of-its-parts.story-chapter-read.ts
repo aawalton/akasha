@@ -12,9 +12,13 @@ export const motherOfLearning004242SumOfItsParts = {
   unit: "words",
   completedAt: "2026-06-29T22:45:21.235Z",
   publishedAt: "2018-12-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/311973/42-sum-of-its-parts",
-  externalId: "311973",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "311973",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/311973/42-sum-of-its-parts",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

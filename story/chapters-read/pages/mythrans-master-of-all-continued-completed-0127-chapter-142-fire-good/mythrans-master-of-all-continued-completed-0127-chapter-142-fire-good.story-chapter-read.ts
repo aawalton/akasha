@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0127Chapter142FireGood = {
   ownLength: 2910,
   unit: "words",
   publishedAt: "2017-01-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/111977/chapter-142-fire-good",
-  externalId: "111977",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "111977",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/111977/chapter-142-fire-good",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

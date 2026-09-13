@@ -12,9 +12,13 @@ export const motherOfLearning008383Scorpion = {
   unit: "words",
   completedAt: "2026-06-29T22:46:55.276Z",
   publishedAt: "2019-01-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/324024/83-scorpion",
-  externalId: "324024",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "324024",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/324024/83-scorpion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

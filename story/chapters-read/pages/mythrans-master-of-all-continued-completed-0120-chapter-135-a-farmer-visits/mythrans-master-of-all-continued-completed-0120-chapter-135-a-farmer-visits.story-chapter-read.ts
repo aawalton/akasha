@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0120Chapter135AFarmerVisits = 
   ownLength: 4368,
   unit: "words",
   publishedAt: "2017-01-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/110840/chapter-135-a-farmer-visits",
-  externalId: "110840",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "110840",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/110840/chapter-135-a-farmer-visits",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

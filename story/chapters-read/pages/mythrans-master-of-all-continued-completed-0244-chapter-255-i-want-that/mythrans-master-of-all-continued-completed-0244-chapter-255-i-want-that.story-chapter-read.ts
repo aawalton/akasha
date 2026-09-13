@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0244Chapter255IWantThat = {
   ownLength: 3475,
   unit: "words",
   publishedAt: "2017-05-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/136982/chapter-255-i-want-that",
-  externalId: "136982",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "136982",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/136982/chapter-255-i-want-that",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

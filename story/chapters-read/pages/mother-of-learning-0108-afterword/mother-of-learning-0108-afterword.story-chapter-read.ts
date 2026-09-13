@@ -12,9 +12,13 @@ export const motherOfLearning0108Afterword = {
   unit: "words",
   completedAt: "2026-06-29T22:50:11.512Z",
   publishedAt: "2020-02-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/455877/afterword",
-  externalId: "455877",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "455877",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/455877/afterword",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

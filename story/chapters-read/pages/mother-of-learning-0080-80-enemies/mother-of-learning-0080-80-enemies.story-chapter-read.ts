@@ -12,9 +12,13 @@ export const motherOfLearning008080Enemies = {
   unit: "words",
   completedAt: "2026-06-29T22:46:48.384Z",
   publishedAt: "2019-01-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/323014/80-enemies",
-  externalId: "323014",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "323014",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/323014/80-enemies",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const motherOfLearning003838ReturnToCyoria = {
   unit: "words",
   completedAt: "2026-06-29T22:45:11.983Z",
   publishedAt: "2018-11-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/310557/38-return-to-cyoria",
-  externalId: "310557",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "310557",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/310557/38-return-to-cyoria",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

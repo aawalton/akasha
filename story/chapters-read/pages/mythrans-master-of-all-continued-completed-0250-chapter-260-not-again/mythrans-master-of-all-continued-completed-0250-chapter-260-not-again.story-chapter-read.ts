@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0250Chapter260NotAgain = {
   ownLength: 3501,
   unit: "words",
   publishedAt: "2017-05-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/137943/chapter-260-not-again",
-  externalId: "137943",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "137943",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/137943/chapter-260-not-again",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0107Chapter122ABanquet = {
   ownLength: 3927,
   unit: "words",
   publishedAt: "2016-12-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/108783/chapter-122-a-banquet",
-  externalId: "108783",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "108783",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/108783/chapter-122-a-banquet",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

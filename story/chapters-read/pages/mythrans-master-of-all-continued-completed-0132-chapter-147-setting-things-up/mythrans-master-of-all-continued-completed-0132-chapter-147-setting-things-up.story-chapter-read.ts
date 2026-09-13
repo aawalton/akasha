@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0132Chapter147SettingThingsUp 
   ownLength: 3801,
   unit: "words",
   publishedAt: "2017-01-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/114093/chapter-147-setting-things-up",
-  externalId: "114093",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "114093",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/114093/chapter-147-setting-things-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

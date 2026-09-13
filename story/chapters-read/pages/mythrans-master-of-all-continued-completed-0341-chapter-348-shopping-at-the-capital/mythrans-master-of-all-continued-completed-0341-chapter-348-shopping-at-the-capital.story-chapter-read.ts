@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0341Chapter348ShoppingAtTheCap
   ownLength: 3063,
   unit: "words",
   publishedAt: "2017-08-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/159061/chapter-348-shopping-at-the-capital",
-  externalId: "159061",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "159061",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/159061/chapter-348-shopping-at-the-capital",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

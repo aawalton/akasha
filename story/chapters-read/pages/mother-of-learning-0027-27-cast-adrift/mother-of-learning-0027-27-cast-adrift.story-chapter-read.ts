@@ -12,9 +12,13 @@ export const motherOfLearning002727CastAdrift = {
   unit: "words",
   completedAt: "2026-06-29T22:44:43.427Z",
   publishedAt: "2018-11-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/307248/27-cast-adrift",
-  externalId: "307248",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "307248",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/307248/27-cast-adrift",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

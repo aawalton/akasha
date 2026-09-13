@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0064Chapter80BowBracers = {
   ownLength: 4449,
   unit: "words",
   publishedAt: "2016-11-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/102500/chapter-80-bow-bracers",
-  externalId: "102500",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "102500",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/102500/chapter-80-bow-bracers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0178Chapter190LoveAndUnderstan
   ownLength: 3031,
   unit: "words",
   publishedAt: "2017-03-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/122511/chapter-190-love-and-understanding",
-  externalId: "122511",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "122511",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/122511/chapter-190-love-and-understanding",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

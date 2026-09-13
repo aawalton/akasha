@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0156Chapter169NoJustNo = {
   ownLength: 3405,
   unit: "words",
   publishedAt: "2017-02-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/118596/chapter-169-no-just-no",
-  externalId: "118596",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "118596",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/118596/chapter-169-no-just-no",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

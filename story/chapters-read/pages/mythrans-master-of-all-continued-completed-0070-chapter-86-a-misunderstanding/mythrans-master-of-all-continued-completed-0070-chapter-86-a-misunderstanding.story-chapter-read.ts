@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0070Chapter86AMisunderstanding
   ownLength: 4147,
   unit: "words",
   publishedAt: "2016-11-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/103404/chapter-86-a-misunderstanding",
-  externalId: "103404",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "103404",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/103404/chapter-86-a-misunderstanding",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

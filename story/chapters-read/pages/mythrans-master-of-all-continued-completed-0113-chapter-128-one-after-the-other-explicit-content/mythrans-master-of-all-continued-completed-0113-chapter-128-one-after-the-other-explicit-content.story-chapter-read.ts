@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0113Chapter128OneAfterTheOther
   ownLength: 8429,
   unit: "words",
   publishedAt: "2016-12-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/109820/chapter-128-one-after-the-other-explicit",
-  externalId: "109820",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "109820",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/109820/chapter-128-one-after-the-other-explicit",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

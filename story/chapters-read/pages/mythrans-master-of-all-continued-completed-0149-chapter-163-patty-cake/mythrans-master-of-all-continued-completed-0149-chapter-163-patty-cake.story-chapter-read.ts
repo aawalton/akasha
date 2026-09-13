@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0149Chapter163PattyCake = {
   ownLength: 3689,
   unit: "words",
   publishedAt: "2017-02-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/117452/chapter-163-patty-cake",
-  externalId: "117452",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "117452",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/117452/chapter-163-patty-cake",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

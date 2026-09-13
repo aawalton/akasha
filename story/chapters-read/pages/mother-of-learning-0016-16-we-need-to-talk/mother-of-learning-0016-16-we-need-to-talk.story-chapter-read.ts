@@ -12,9 +12,13 @@ export const motherOfLearning001616WeNeedToTalk = {
   unit: "words",
   completedAt: "2026-06-29T22:44:17.501Z",
   publishedAt: "2018-11-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/304097/16-we-need-to-talk",
-  externalId: "304097",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "304097",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/304097/16-we-need-to-talk",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

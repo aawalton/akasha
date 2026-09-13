@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0181Chapter193SellingAndBuying
   ownLength: 3087,
   unit: "words",
   publishedAt: "2017-03-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/123113/chapter-193-selling-and-buying",
-  externalId: "123113",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "123113",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/123113/chapter-193-selling-and-buying",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

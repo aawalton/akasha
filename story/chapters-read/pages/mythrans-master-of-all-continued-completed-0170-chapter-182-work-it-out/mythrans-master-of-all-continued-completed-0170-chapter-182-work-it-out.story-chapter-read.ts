@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0170Chapter182WorkItOut = {
   ownLength: 4671,
   unit: "words",
   publishedAt: "2017-02-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/121005/chapter-182-work-it-out",
-  externalId: "121005",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "121005",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/121005/chapter-182-work-it-out",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

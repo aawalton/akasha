@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0208Chapter220ABigHelp = {
   ownLength: 3890,
   unit: "words",
   publishedAt: "2017-04-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/129004/chapter-220-a-big-help",
-  externalId: "129004",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "129004",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/129004/chapter-220-a-big-help",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

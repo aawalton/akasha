@@ -12,9 +12,13 @@ export const motherOfLearning002828Cauldron = {
   unit: "words",
   completedAt: "2026-06-29T22:44:46.142Z",
   publishedAt: "2018-11-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/307587/28-cauldron",
-  externalId: "307587",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "307587",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/307587/28-cauldron",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

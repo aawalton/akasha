@@ -12,9 +12,13 @@ export const motherOfLearning005757Unwanted = {
   unit: "words",
   completedAt: "2026-06-29T22:45:55.021Z",
   publishedAt: "2018-12-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/316328/57-unwanted",
-  externalId: "316328",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "316328",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/316328/57-unwanted",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

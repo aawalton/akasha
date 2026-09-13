@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0259Chapter269UnFreakingBeliev
   ownLength: 3331,
   unit: "words",
   publishedAt: "2017-06-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/139705/chapter-269-un-freaking-believable",
-  externalId: "139705",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "139705",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/139705/chapter-269-un-freaking-believable",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

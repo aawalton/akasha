@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0202Chapter214ThePlan = {
   ownLength: 3070,
   unit: "words",
   publishedAt: "2017-04-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/127930/chapter-214-the-plan",
-  externalId: "127930",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "127930",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/127930/chapter-214-the-plan",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

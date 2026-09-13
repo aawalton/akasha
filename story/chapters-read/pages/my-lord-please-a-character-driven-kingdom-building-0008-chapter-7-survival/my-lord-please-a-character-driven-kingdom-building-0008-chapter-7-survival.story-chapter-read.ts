@@ -10,9 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0008Chapter7Survival = {
   ownLength: 2344,
   unit: "words",
   publishedAt: "2026-03-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3196989/chapter-7-survival",
-  externalId: "3196989",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3196989",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3196989/chapter-7-survival",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

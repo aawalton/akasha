@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0281Chapter290SomethingForTomm
   ownLength: 2953,
   unit: "words",
   publishedAt: "2017-06-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/144585/chapter-290-something-for-tommy",
-  externalId: "144585",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "144585",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/144585/chapter-290-something-for-tommy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

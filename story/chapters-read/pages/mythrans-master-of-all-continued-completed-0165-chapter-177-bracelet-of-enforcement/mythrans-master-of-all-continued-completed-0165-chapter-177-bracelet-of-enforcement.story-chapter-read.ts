@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0165Chapter177BraceletOfEnforc
   ownLength: 3043,
   unit: "words",
   publishedAt: "2017-02-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/120002/chapter-177-bracelet-of-enforcement",
-  externalId: "120002",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "120002",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/120002/chapter-177-bracelet-of-enforcement",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

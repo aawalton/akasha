@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0334Chapter341APromiseIsAPromi
   ownLength: 3516,
   unit: "words",
   publishedAt: "2017-08-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/157613/chapter-341-a-promise-is-a-promise",
-  externalId: "157613",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "157613",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/157613/chapter-341-a-promise-is-a-promise",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0104Chapter119ANewTitle = {
   ownLength: 5367,
   unit: "words",
   publishedAt: "2016-12-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/108321/chapter-119-a-new-title",
-  externalId: "108321",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "108321",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/108321/chapter-119-a-new-title",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

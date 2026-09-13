@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0235Chapter246Searching = {
   ownLength: 4073,
   unit: "words",
   publishedAt: "2017-05-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/134377/chapter-246-searching",
-  externalId: "134377",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "134377",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/134377/chapter-246-searching",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

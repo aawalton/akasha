@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0329Chapter336ABitOfBonding = 
   ownLength: 3314,
   unit: "words",
   publishedAt: "2017-08-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/156505/chapter-336-a-bit-of-bonding",
-  externalId: "156505",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "156505",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/156505/chapter-336-a-bit-of-bonding",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

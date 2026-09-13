@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0212Chapter224PleasantMemories
   ownLength: 3701,
   unit: "words",
   publishedAt: "2017-04-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/129809/chapter-224-pleasant-memories",
-  externalId: "129809",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "129809",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/129809/chapter-224-pleasant-memories",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

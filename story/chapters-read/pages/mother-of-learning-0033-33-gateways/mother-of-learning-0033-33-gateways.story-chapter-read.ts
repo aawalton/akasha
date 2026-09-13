@@ -12,9 +12,13 @@ export const motherOfLearning003333Gateways = {
   unit: "words",
   completedAt: "2026-06-29T22:45:00.341Z",
   publishedAt: "2018-11-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/308876/33-gateways",
-  externalId: "308876",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "308876",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/308876/33-gateways",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

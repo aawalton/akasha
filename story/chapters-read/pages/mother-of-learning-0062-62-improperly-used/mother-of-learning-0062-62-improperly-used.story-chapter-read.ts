@@ -12,9 +12,13 @@ export const motherOfLearning006262ImproperlyUsed = {
   unit: "words",
   completedAt: "2026-06-29T22:46:06.034Z",
   publishedAt: "2018-12-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/317781/62-improperly-used",
-  externalId: "317781",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "317781",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/317781/62-improperly-used",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

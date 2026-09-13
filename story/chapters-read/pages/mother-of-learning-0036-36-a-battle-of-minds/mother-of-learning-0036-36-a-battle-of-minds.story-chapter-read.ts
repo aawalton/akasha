@@ -12,9 +12,13 @@ export const motherOfLearning003636ABattleOfMinds = {
   unit: "words",
   completedAt: "2026-06-29T22:45:07.135Z",
   publishedAt: "2018-11-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/309946/36-a-battle-of-minds",
-  externalId: "309946",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "309946",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/309946/36-a-battle-of-minds",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

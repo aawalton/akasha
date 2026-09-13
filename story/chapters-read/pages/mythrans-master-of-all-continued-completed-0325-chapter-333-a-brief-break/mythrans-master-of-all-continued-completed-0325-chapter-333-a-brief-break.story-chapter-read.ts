@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0325Chapter333ABriefBreak = {
   ownLength: 3404,
   unit: "words",
   publishedAt: "2017-08-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/155770/chapter-333-a-brief-break",
-  externalId: "155770",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "155770",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/155770/chapter-333-a-brief-break",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

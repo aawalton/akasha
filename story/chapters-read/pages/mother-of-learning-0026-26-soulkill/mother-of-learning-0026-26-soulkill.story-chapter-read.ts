@@ -12,9 +12,13 @@ export const motherOfLearning002626Soulkill = {
   unit: "words",
   completedAt: "2026-06-29T22:44:41.119Z",
   publishedAt: "2018-11-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/307245/26-soulkill",
-  externalId: "307245",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "307245",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/307245/26-soulkill",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

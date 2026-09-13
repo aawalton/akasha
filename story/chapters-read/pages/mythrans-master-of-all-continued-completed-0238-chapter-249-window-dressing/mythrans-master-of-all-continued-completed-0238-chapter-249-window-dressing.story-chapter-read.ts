@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0238Chapter249WindowDressing =
   ownLength: 3921,
   unit: "words",
   publishedAt: "2017-05-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/135048/chapter-249-window-dressing",
-  externalId: "135048",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "135048",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/135048/chapter-249-window-dressing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

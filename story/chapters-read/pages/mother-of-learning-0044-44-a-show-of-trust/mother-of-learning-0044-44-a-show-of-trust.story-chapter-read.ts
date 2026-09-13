@@ -12,9 +12,13 @@ export const motherOfLearning004444AShowOfTrust = {
   unit: "words",
   completedAt: "2026-06-29T22:45:25.456Z",
   publishedAt: "2018-12-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/312539/44-a-show-of-trust",
-  externalId: "312539",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "312539",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/312539/44-a-show-of-trust",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0195Chapter207ANewQuest = {
   ownLength: 3447,
   unit: "words",
   publishedAt: "2017-03-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/126445/chapter-207-a-new-quest",
-  externalId: "126445",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "126445",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/126445/chapter-207-a-new-quest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

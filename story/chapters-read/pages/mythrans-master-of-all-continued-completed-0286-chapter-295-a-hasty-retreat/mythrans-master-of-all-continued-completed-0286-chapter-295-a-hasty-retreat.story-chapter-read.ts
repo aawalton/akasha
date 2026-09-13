@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0286Chapter295AHastyRetreat = 
   ownLength: 4210,
   unit: "words",
   publishedAt: "2017-06-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/145674/chapter-295-a-hasty-retreat",
-  externalId: "145674",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "145674",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/145674/chapter-295-a-hasty-retreat",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

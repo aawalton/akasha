@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0222Chapter233Warnings = {
   ownLength: 3174,
   unit: "words",
   publishedAt: "2017-04-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/131707/chapter-233-warnings",
-  externalId: "131707",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "131707",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/131707/chapter-233-warnings",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

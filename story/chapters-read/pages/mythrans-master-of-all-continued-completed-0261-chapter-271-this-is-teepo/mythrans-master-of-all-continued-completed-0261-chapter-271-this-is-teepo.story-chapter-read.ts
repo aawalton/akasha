@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0261Chapter271ThisIsTeepo = {
   ownLength: 3419,
   unit: "words",
   publishedAt: "2017-06-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/140075/chapter-271-this-is-teepo",
-  externalId: "140075",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "140075",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/140075/chapter-271-this-is-teepo",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0167Chapter179YouDidWhat = {
   ownLength: 5313,
   unit: "words",
   publishedAt: "2017-02-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/120387/chapter-179-you-did-what",
-  externalId: "120387",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "120387",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/120387/chapter-179-you-did-what",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

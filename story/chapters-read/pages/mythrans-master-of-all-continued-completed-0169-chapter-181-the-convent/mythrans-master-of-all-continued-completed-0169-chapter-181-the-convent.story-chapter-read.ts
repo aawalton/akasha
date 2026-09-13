@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0169Chapter181TheConvent = {
   ownLength: 4336,
   unit: "words",
   publishedAt: "2017-02-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/120803/chapter-181-the-convent",
-  externalId: "120803",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "120803",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/120803/chapter-181-the-convent",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

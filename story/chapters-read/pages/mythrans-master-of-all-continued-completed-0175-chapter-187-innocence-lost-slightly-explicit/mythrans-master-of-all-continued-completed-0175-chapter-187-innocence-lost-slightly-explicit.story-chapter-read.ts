@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0175Chapter187InnocenceLostSli
   ownLength: 5067,
   unit: "words",
   publishedAt: "2017-03-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/121941/chapter-187-innocence-lost-slightly-expl",
-  externalId: "121941",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "121941",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/121941/chapter-187-innocence-lost-slightly-expl",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

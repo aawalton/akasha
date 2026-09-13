@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0316Chapter324OnTheShore = {
   ownLength: 3227,
   unit: "words",
   publishedAt: "2017-08-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/153697/chapter-324-on-the-shore",
-  externalId: "153697",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "153697",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/153697/chapter-324-on-the-shore",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

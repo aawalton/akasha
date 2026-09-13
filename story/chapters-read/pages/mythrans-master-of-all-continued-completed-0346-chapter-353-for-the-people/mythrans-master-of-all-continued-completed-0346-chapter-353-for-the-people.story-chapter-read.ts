@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0346Chapter353ForThePeople = {
   ownLength: 3779,
   unit: "words",
   publishedAt: "2017-09-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/160124/chapter-353-for-the-people",
-  externalId: "160124",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "160124",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/160124/chapter-353-for-the-people",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0068Chapter84TheJourneyStarts 
   ownLength: 5027,
   unit: "words",
   publishedAt: "2016-11-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/103070/chapter-84-the-journey-starts",
-  externalId: "103070",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "103070",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/103070/chapter-84-the-journey-starts",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0318Chapter326TheTour = {
   ownLength: 4846,
   unit: "words",
   publishedAt: "2017-08-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/154220/chapter-326-the-tour",
-  externalId: "154220",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "154220",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/154220/chapter-326-the-tour",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

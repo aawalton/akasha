@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0129Chapter144TheCouncil = {
   ownLength: 6399,
   unit: "words",
   publishedAt: "2017-01-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/112281/chapter-144-the-council",
-  externalId: "112281",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "112281",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/112281/chapter-144-the-council",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

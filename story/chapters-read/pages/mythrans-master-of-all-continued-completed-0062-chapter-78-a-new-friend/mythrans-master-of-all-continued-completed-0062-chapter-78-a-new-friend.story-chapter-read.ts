@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0062Chapter78ANewFriend = {
   ownLength: 2988,
   unit: "words",
   publishedAt: "2016-11-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/102142/chapter-78-a-new-friend",
-  externalId: "102142",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "102142",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/102142/chapter-78-a-new-friend",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

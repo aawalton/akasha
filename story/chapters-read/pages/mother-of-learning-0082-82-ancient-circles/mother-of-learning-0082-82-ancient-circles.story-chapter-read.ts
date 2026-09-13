@@ -12,9 +12,13 @@ export const motherOfLearning008282AncientCircles = {
   unit: "words",
   completedAt: "2026-06-29T22:46:52.794Z",
   publishedAt: "2019-01-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/323769/82-ancient-circles",
-  externalId: "323769",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "323769",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/323769/82-ancient-circles",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

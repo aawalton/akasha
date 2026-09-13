@@ -12,9 +12,13 @@ export const motherOfLearning005959OneStepForward = {
   unit: "words",
   completedAt: "2026-06-29T22:45:59.360Z",
   publishedAt: "2018-12-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/316947/59-one-step-forward",
-  externalId: "316947",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "316947",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/316947/59-one-step-forward",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

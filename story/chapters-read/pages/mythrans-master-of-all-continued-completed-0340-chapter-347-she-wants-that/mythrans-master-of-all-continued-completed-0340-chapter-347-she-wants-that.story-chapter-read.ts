@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0340Chapter347SheWantsThat = {
   ownLength: 4118,
   unit: "words",
   publishedAt: "2017-08-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/158873/chapter-347-she-wants-that",
-  externalId: "158873",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "158873",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/158873/chapter-347-she-wants-that",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

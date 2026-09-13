@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0086Chapter102NotYouToo = {
   ownLength: 3524,
   unit: "words",
   publishedAt: "2016-12-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/105678/chapter-102-not-you-too",
-  externalId: "105678",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "105678",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/105678/chapter-102-not-you-too",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

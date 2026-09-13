@@ -12,9 +12,13 @@ export const motherOfLearning003535MistakesHaveBeenMade = {
   unit: "words",
   completedAt: "2026-06-29T22:45:04.876Z",
   publishedAt: "2018-11-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/309417/35-mistakes-have-been-made",
-  externalId: "309417",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "309417",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/309417/35-mistakes-have-been-made",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

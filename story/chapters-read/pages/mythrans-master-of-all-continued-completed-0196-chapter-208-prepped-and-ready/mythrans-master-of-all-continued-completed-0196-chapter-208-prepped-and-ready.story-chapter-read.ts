@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0196Chapter208PreppedAndReady 
   ownLength: 3441,
   unit: "words",
   publishedAt: "2017-03-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/126612/chapter-208-prepped-and-ready",
-  externalId: "126612",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "126612",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/126612/chapter-208-prepped-and-ready",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

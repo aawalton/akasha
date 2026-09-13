@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0166Chapter178DidThatJustHappe
   ownLength: 3722,
   unit: "words",
   publishedAt: "2017-02-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/120175/chapter-178-did-that-just-happen",
-  externalId: "120175",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "120175",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/120175/chapter-178-did-that-just-happen",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

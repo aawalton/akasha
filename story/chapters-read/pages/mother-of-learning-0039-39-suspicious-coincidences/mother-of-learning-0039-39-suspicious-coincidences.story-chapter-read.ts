@@ -12,9 +12,13 @@ export const motherOfLearning003939SuspiciousCoincidences = {
   unit: "words",
   completedAt: "2026-06-29T22:45:14.024Z",
   publishedAt: "2018-11-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/311034/39-suspicious-coincidences",
-  externalId: "311034",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "311034",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/311034/39-suspicious-coincidences",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

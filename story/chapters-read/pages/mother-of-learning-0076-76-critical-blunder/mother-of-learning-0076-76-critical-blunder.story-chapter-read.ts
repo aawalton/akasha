@@ -12,9 +12,13 @@ export const motherOfLearning007676CriticalBlunder = {
   unit: "words",
   completedAt: "2026-06-29T22:46:39.326Z",
   publishedAt: "2019-01-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/321816/76-critical-blunder",
-  externalId: "321816",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "321816",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/321816/76-critical-blunder",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

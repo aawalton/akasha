@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0217Chapter228Girlfriend = {
   ownLength: 3496,
   unit: "words",
   publishedAt: "2017-04-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/130601/chapter-228-girlfriend",
-  externalId: "130601",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "130601",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/130601/chapter-228-girlfriend",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

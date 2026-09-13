@@ -12,9 +12,13 @@ export const motherOfLearning002929TheHuntersAndTheHunted = {
   unit: "words",
   completedAt: "2026-06-29T22:44:48.206Z",
   publishedAt: "2018-11-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/307852/29-the-hunters-and-the-hunted",
-  externalId: "307852",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "307852",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/307852/29-the-hunters-and-the-hunted",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

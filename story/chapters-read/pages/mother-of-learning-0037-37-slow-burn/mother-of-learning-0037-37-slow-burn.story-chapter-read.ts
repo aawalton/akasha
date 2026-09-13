@@ -12,9 +12,13 @@ export const motherOfLearning003737SlowBurn = {
   unit: "words",
   completedAt: "2026-06-29T22:45:09.616Z",
   publishedAt: "2018-11-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/310296/37-slow-burn",
-  externalId: "310296",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "310296",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/310296/37-slow-burn",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

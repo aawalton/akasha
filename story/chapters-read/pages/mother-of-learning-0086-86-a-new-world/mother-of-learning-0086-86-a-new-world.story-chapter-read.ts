@@ -12,9 +12,13 @@ export const motherOfLearning008686ANewWorld = {
   unit: "words",
   completedAt: "2026-06-29T22:47:02.284Z",
   publishedAt: "2019-01-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/324653/86-a-new-world",
-  externalId: "324653",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "324653",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/324653/86-a-new-world",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

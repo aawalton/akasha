@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0095Chapter111GettingReady = {
   ownLength: 2628,
   unit: "words",
   publishedAt: "2016-12-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/107076/chapter-111-getting-ready",
-  externalId: "107076",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "107076",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/107076/chapter-111-getting-ready",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

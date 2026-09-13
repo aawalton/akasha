@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0282Chapter291PutABowOnIt = {
   ownLength: 3168,
   unit: "words",
   publishedAt: "2017-06-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/144814/chapter-291-put-a-bow-on-it",
-  externalId: "144814",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "144814",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/144814/chapter-291-put-a-bow-on-it",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

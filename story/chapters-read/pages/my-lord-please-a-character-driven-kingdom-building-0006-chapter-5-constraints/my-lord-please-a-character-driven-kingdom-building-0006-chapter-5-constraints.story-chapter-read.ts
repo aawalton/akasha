@@ -10,9 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0006Chapter5Constraints 
   ownLength: 2626,
   unit: "words",
   publishedAt: "2026-03-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3192942/chapter-5-constraints",
-  externalId: "3192942",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3192942",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3192942/chapter-5-constraints",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

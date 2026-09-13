@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0105Chapter120ALibrary = {
   ownLength: 3298,
   unit: "words",
   publishedAt: "2016-12-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/108467/chapter-120-a-library",
-  externalId: "108467",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "108467",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/108467/chapter-120-a-library",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

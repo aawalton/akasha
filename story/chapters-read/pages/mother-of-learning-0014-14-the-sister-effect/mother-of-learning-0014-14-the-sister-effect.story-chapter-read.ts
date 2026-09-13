@@ -12,9 +12,13 @@ export const motherOfLearning001414TheSisterEffect = {
   unit: "words",
   completedAt: "2026-06-29T22:44:13.265Z",
   publishedAt: "2018-11-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/303485/14-the-sister-effect",
-  externalId: "303485",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "303485",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/303485/14-the-sister-effect",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

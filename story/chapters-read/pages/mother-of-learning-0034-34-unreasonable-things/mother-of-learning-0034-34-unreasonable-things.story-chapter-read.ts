@@ -12,9 +12,13 @@ export const motherOfLearning003434UnreasonableThings = {
   unit: "words",
   completedAt: "2026-06-29T22:45:02.470Z",
   publishedAt: "2018-11-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/309130/34-unreasonable-things",
-  externalId: "309130",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "309130",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/309130/34-unreasonable-things",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

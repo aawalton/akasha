@@ -12,9 +12,13 @@ export const motherOfLearning009999Powderkeg = {
   unit: "words",
   completedAt: "2026-06-29T22:49:51.251Z",
   publishedAt: "2019-05-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/361412/99-powderkeg",
-  externalId: "361412",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "361412",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/361412/99-powderkeg",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

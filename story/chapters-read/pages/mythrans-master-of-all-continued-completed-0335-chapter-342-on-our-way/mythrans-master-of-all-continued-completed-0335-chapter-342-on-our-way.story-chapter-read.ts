@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0335Chapter342OnOurWay = {
   ownLength: 3466,
   unit: "words",
   publishedAt: "2017-08-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/157783/chapter-342-on-our-way",
-  externalId: "157783",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "157783",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/157783/chapter-342-on-our-way",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

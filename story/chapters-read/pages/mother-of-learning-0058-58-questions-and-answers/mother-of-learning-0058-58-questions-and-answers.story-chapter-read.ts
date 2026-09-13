@@ -12,9 +12,13 @@ export const motherOfLearning005858QuestionsAndAnswers = {
   unit: "words",
   completedAt: "2026-06-29T22:45:57.150Z",
   publishedAt: "2018-12-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/316549/58-questions-and-answers",
-  externalId: "316549",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "316549",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/316549/58-questions-and-answers",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

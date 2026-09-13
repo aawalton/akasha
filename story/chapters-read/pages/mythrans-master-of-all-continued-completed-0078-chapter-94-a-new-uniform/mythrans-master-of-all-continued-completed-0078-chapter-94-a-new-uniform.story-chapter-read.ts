@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0078Chapter94ANewUniform = {
   ownLength: 3544,
   unit: "words",
   publishedAt: "2016-11-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/104345/chapter-94-a-new-uniform",
-  externalId: "104345",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "104345",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/104345/chapter-94-a-new-uniform",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

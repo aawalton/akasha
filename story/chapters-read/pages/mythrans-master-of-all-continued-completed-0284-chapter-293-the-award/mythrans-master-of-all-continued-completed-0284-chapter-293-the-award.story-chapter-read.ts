@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0284Chapter293TheAward = {
   ownLength: 4851,
   unit: "words",
   publishedAt: "2017-06-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/145265/chapter-293-the-award",
-  externalId: "145265",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "145265",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/145265/chapter-293-the-award",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

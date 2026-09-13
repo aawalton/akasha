@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0279Chapter288AcceptingGifts =
   ownLength: 3797,
   unit: "words",
   publishedAt: "2017-06-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/144075/chapter-288-accepting-gifts",
-  externalId: "144075",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "144075",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/144075/chapter-288-accepting-gifts",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

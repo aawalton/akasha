@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0100Chapter116ABitTooMuch = {
   ownLength: 5872,
   unit: "words",
   publishedAt: "2016-12-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/107849/chapter-116-a-bit-too-much",
-  externalId: "107849",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "107849",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/107849/chapter-116-a-bit-too-much",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

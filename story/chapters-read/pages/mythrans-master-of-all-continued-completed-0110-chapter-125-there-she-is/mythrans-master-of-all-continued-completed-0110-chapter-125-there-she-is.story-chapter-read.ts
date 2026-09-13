@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0110Chapter125ThereSheIs = {
   ownLength: 8691,
   unit: "words",
   publishedAt: "2016-12-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/109356/chapter-125-there-she-is",
-  externalId: "109356",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "109356",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/109356/chapter-125-there-she-is",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

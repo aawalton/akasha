@@ -12,9 +12,13 @@ export const motherOfLearning009494Ghosts = {
   unit: "words",
   completedAt: "2026-06-29T22:49:39.860Z",
   publishedAt: "2019-01-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/327316/94-ghosts",
-  externalId: "327316",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "327316",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/327316/94-ghosts",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

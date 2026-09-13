@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0300Chapter309TheShipPartThree
   ownLength: 3017,
   unit: "words",
   publishedAt: "2017-07-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/149018/chapter-309-the-ship-part-three",
-  externalId: "149018",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "149018",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/149018/chapter-309-the-ship-part-three",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

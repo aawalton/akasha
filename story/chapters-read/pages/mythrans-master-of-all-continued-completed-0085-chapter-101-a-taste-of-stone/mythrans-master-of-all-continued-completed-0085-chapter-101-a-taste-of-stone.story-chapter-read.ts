@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0085Chapter101ATasteOfStone = 
   ownLength: 3684,
   unit: "words",
   publishedAt: "2016-12-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/105520/chapter-101-a-taste-of-stone",
-  externalId: "105520",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "105520",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/105520/chapter-101-a-taste-of-stone",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

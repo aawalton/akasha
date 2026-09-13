@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0154Chapter167FoundThem = {
   ownLength: 4019,
   unit: "words",
   publishedAt: "2017-02-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/118183/chapter-167-found-them",
-  externalId: "118183",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "118183",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/118183/chapter-167-found-them",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

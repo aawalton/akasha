@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0144Chapter158YoureMine = {
   ownLength: 3428,
   unit: "words",
   publishedAt: "2017-02-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/116389/chapter-158-youre-mine",
-  externalId: "116389",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "116389",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/116389/chapter-158-youre-mine",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

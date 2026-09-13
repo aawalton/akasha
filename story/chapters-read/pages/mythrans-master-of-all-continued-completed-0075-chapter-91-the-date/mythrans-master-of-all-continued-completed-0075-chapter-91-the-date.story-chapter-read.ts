@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0075Chapter91TheDate = {
   ownLength: 3305,
   unit: "words",
   publishedAt: "2016-11-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/104029/chapter-91-the-date",
-  externalId: "104029",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "104029",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/104029/chapter-91-the-date",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

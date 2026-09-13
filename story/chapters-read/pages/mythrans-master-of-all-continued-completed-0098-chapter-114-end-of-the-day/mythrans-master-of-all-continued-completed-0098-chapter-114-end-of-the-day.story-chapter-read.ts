@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0098Chapter114EndOfTheDay = {
   ownLength: 5155,
   unit: "words",
   publishedAt: "2016-12-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/107532/chapter-114-end-of-the-day",
-  externalId: "107532",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "107532",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/107532/chapter-114-end-of-the-day",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

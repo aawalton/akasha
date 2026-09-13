@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0182Chapter194Attacked = {
   ownLength: 4209,
   unit: "words",
   publishedAt: "2017-03-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/123302/chapter-194-attacked",
-  externalId: "123302",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "123302",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/123302/chapter-194-attacked",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

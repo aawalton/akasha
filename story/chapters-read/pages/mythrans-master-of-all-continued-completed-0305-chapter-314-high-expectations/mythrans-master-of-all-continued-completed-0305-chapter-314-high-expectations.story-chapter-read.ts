@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0305Chapter314HighExpectations
   ownLength: 3171,
   unit: "words",
   publishedAt: "2017-07-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/150051/chapter-314-high-expectations",
-  externalId: "150051",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "150051",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/150051/chapter-314-high-expectations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

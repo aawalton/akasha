@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0227Chapter238CheckingThings =
   ownLength: 4892,
   unit: "words",
   publishedAt: "2017-04-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/132718/chapter-238-checking-things",
-  externalId: "132718",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "132718",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/132718/chapter-238-checking-things",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

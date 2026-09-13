@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0161Chapter173LetMeDrive = {
   ownLength: 4862,
   unit: "words",
   publishedAt: "2017-02-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/119254/chapter-173-let-me-drive",
-  externalId: "119254",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "119254",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/119254/chapter-173-let-me-drive",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

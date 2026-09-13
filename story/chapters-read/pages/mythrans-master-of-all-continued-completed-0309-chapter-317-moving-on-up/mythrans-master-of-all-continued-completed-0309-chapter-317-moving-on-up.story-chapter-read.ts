@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0309Chapter317MovingOnUp = {
   ownLength: 3451,
   unit: "words",
   publishedAt: "2017-07-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/150836/chapter-317-moving-on-up",
-  externalId: "150836",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "150836",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/150836/chapter-317-moving-on-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

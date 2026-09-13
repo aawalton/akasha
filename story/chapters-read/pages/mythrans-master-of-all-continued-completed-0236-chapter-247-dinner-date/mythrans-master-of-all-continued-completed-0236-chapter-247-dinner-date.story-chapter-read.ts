@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0236Chapter247DinnerDate = {
   ownLength: 3872,
   unit: "words",
   publishedAt: "2017-05-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/134599/chapter-247-dinner-date",
-  externalId: "134599",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "134599",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/134599/chapter-247-dinner-date",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

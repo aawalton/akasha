@@ -10,9 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0001Prologue = {
   ownLength: 2766,
   unit: "words",
   publishedAt: "2026-03-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3191532/prologue",
-  externalId: "3191532",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3191532",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3191532/prologue",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

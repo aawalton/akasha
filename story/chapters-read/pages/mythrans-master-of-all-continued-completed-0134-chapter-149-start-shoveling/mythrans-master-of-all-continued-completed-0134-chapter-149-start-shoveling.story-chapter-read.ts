@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0134Chapter149StartShoveling =
   ownLength: 4409,
   unit: "words",
   publishedAt: "2017-01-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/114541/chapter-149-start-shoveling",
-  externalId: "114541",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "114541",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/114541/chapter-149-start-shoveling",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

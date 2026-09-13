@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0093Chapter109TradingForIdeas 
   ownLength: 4821,
   unit: "words",
   publishedAt: "2016-12-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/106765/chapter-109-trading-for-ideas",
-  externalId: "106765",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "106765",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/106765/chapter-109-trading-for-ideas",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

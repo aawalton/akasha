@@ -12,9 +12,13 @@ export const motherOfLearning008989Victory = {
   unit: "words",
   completedAt: "2026-06-29T22:49:27.881Z",
   publishedAt: "2019-01-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/325706/89-victory",
-  externalId: "325706",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "325706",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/325706/89-victory",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

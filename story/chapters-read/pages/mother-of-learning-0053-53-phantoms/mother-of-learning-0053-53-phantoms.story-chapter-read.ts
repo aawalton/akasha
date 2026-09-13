@@ -12,9 +12,13 @@ export const motherOfLearning005353Phantoms = {
   unit: "words",
   completedAt: "2026-06-29T22:45:46.017Z",
   publishedAt: "2018-12-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/315172/53-phantoms",
-  externalId: "315172",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "315172",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/315172/53-phantoms",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

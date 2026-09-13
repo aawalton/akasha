@@ -12,9 +12,13 @@ export const motherOfLearning009595Betrayer = {
   unit: "words",
   completedAt: "2026-06-29T22:49:42.149Z",
   publishedAt: "2019-01-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/328843/95-betrayer",
-  externalId: "328843",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "328843",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/328843/95-betrayer",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

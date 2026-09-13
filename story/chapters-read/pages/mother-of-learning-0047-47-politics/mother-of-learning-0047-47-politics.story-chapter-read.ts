@@ -12,9 +12,13 @@ export const motherOfLearning004747Politics = {
   unit: "words",
   completedAt: "2026-06-29T22:45:32.322Z",
   publishedAt: "2018-12-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/313489/47-politics",
-  externalId: "313489",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "313489",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/313489/47-politics",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

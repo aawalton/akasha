@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0253Chapter263ToGiveIsToGet = 
   ownLength: 3545,
   unit: "words",
   publishedAt: "2017-05-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/138501/chapter-263-to-give-is-to-get",
-  externalId: "138501",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "138501",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/138501/chapter-263-to-give-is-to-get",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0278Chapter287TheNewHouse = {
   ownLength: 3605,
   unit: "words",
   publishedAt: "2017-06-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/143848/chapter-287-the-new-house",
-  externalId: "143848",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "143848",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/143848/chapter-287-the-new-house",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

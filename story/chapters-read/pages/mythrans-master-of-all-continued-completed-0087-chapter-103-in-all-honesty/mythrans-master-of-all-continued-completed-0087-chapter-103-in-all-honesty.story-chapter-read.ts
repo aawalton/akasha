@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0087Chapter103InAllHonesty = {
   ownLength: 3437,
   unit: "words",
   publishedAt: "2016-12-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/105831/chapter-103-in-all-honesty",
-  externalId: "105831",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "105831",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/105831/chapter-103-in-all-honesty",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

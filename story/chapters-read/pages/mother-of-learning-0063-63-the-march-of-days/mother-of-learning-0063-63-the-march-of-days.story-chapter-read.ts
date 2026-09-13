@@ -12,9 +12,13 @@ export const motherOfLearning006363TheMarchOfDays = {
   unit: "words",
   completedAt: "2026-06-29T22:46:08.297Z",
   publishedAt: "2018-12-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/318066/63-the-march-of-days",
-  externalId: "318066",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "318066",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/318066/63-the-march-of-days",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

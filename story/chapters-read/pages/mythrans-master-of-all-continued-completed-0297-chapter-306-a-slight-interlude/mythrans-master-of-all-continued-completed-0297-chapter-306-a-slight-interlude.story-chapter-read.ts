@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0297Chapter306ASlightInterlude
   ownLength: 4027,
   unit: "words",
   publishedAt: "2017-07-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/148422/chapter-306-a-slight-interlude",
-  externalId: "148422",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "148422",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/148422/chapter-306-a-slight-interlude",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

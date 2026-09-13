@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0131Chapter146RunningErrands =
   ownLength: 9315,
   unit: "words",
   publishedAt: "2017-01-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/113866/chapter-146-running-errands",
-  externalId: "113866",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "113866",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/113866/chapter-146-running-errands",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

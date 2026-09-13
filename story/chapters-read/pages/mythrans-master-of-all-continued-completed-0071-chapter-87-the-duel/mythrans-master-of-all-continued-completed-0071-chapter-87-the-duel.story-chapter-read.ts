@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0071Chapter87TheDuel = {
   ownLength: 3972,
   unit: "words",
   publishedAt: "2016-11-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/103537/chapter-87-the-duel",
-  externalId: "103537",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "103537",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/103537/chapter-87-the-duel",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

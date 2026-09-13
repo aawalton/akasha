@@ -10,9 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0003Chapter2Dorian = {
   ownLength: 2045,
   unit: "words",
   publishedAt: "2026-03-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3191537/chapter-2-dorian",
-  externalId: "3191537",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3191537",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3191537/chapter-2-dorian",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const motherOfLearning0103103WindowOfOpportunity = {
   unit: "words",
   completedAt: "2026-06-29T22:50:00.171Z",
   publishedAt: "2020-02-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/452729/103-window-of-opportunity",
-  externalId: "452729",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "452729",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/452729/103-window-of-opportunity",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const motherOfLearning003030AGameOfShops = {
   unit: "words",
   completedAt: "2026-06-29T22:44:53.852Z",
   publishedAt: "2018-11-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/308104/30-a-game-of-shops",
-  externalId: "308104",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "308104",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/308104/30-a-game-of-shops",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

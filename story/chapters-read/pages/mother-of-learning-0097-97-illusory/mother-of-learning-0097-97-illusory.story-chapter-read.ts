@@ -12,9 +12,13 @@ export const motherOfLearning009797Illusory = {
   unit: "words",
   completedAt: "2026-06-29T22:49:46.664Z",
   publishedAt: "2019-03-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/344062/97-illusory",
-  externalId: "344062",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "344062",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/344062/97-illusory",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0260Chapter270UnderMyCommand =
   ownLength: 3672,
   unit: "words",
   publishedAt: "2017-06-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/139896/chapter-270-under-my-command",
-  externalId: "139896",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "139896",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/139896/chapter-270-under-my-command",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

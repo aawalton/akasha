@@ -12,9 +12,13 @@ export const motherOfLearning009292TheScramble = {
   unit: "words",
   completedAt: "2026-06-29T22:49:34.980Z",
   publishedAt: "2019-01-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/326727/92-the-scramble",
-  externalId: "326727",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "326727",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/326727/92-the-scramble",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

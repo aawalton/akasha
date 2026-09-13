@@ -12,9 +12,13 @@ export const motherOfLearning0100100Sacrifice = {
   unit: "words",
   completedAt: "2026-06-29T22:49:53.330Z",
   publishedAt: "2019-06-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/371224/100-sacrifice",
-  externalId: "371224",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "371224",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/371224/100-sacrifice",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

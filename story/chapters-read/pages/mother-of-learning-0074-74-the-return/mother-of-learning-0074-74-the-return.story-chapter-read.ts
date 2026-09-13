@@ -12,9 +12,13 @@ export const motherOfLearning007474TheReturn = {
   unit: "words",
   completedAt: "2026-06-29T22:46:34.363Z",
   publishedAt: "2019-01-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/321285/74-the-return",
-  externalId: "321285",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "321285",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/321285/74-the-return",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

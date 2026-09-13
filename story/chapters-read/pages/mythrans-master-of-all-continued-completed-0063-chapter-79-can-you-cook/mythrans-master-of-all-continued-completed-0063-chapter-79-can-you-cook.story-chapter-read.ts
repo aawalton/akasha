@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0063Chapter79CanYouCook = {
   ownLength: 4010,
   unit: "words",
   publishedAt: "2016-11-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/102318/chapter-79-can-you-cook",
-  externalId: "102318",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "102318",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/102318/chapter-79-can-you-cook",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

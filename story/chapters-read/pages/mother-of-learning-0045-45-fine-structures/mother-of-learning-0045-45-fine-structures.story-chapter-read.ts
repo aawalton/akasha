@@ -12,9 +12,13 @@ export const motherOfLearning004545FineStructures = {
   unit: "words",
   completedAt: "2026-06-29T22:45:27.840Z",
   publishedAt: "2018-12-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/312749/45-fine-structures",
-  externalId: "312749",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "312749",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/312749/45-fine-structures",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

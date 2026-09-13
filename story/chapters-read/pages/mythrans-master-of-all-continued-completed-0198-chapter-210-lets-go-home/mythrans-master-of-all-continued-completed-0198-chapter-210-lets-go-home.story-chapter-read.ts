@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0198Chapter210LetsGoHome = {
   ownLength: 3142,
   unit: "words",
   publishedAt: "2017-03-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/126966/chapter-210-lets-go-home",
-  externalId: "126966",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "126966",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/126966/chapter-210-lets-go-home",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

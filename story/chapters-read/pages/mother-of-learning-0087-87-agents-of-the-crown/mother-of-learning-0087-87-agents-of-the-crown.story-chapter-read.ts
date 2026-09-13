@@ -12,9 +12,13 @@ export const motherOfLearning008787AgentsOfTheCrown = {
   unit: "words",
   completedAt: "2026-06-29T22:49:23.423Z",
   publishedAt: "2019-01-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/325051/87-agents-of-the-crown",
-  externalId: "325051",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "325051",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/325051/87-agents-of-the-crown",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

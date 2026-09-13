@@ -12,9 +12,13 @@ export const motherOfLearning004141MyriadClashingMotives = {
   unit: "words",
   completedAt: "2026-06-29T22:45:19.154Z",
   publishedAt: "2018-12-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/311668/41-myriad-clashing-motives",
-  externalId: "311668",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "311668",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/311668/41-myriad-clashing-motives",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

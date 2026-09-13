@@ -12,9 +12,13 @@ export const motherOfLearning004343Overwhelmed = {
   unit: "words",
   completedAt: "2026-06-29T22:45:23.287Z",
   publishedAt: "2018-12-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/312321/43-overwhelmed",
-  externalId: "312321",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "312321",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/312321/43-overwhelmed",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0205Chapter217RealLifeNoProble
   ownLength: 5119,
   unit: "words",
   publishedAt: "2017-04-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/128449/chapter-217-real-life-no-problem",
-  externalId: "128449",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "128449",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/128449/chapter-217-real-life-no-problem",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

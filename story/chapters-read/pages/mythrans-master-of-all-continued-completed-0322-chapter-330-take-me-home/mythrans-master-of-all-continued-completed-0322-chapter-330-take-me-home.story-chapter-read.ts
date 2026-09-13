@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0322Chapter330TakeMeHome = {
   ownLength: 3285,
   unit: "words",
   publishedAt: "2017-08-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/155136/chapter-330-take-me-home",
-  externalId: "155136",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "155136",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/155136/chapter-330-take-me-home",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

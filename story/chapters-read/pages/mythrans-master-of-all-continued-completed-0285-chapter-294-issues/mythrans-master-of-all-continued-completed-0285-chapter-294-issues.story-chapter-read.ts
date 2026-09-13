@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0285Chapter294Issues = {
   ownLength: 3007,
   unit: "words",
   publishedAt: "2017-06-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/145469/chapter-294-issues",
-  externalId: "145469",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "145469",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/145469/chapter-294-issues",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

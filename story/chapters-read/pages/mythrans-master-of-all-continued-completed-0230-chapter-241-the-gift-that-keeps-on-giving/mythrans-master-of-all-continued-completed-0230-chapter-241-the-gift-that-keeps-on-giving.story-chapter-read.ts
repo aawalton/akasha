@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0230Chapter241TheGiftThatKeeps
   ownLength: 3494,
   unit: "words",
   publishedAt: "2017-05-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/133359/chapter-241-the-gift-that-keeps-on-givin",
-  externalId: "133359",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "133359",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/133359/chapter-241-the-gift-that-keeps-on-givin",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0345Chapter352CanYouResistChan
   ownLength: 3645,
   unit: "words",
   publishedAt: "2017-09-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/159911/chapter-352-can-you-resist-change",
-  externalId: "159911",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "159911",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/159911/chapter-352-can-you-resist-change",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

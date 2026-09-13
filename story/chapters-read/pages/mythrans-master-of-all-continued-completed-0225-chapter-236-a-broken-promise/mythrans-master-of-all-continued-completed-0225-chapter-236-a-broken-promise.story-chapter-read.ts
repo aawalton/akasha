@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0225Chapter236ABrokenPromise =
   ownLength: 3397,
   unit: "words",
   publishedAt: "2017-04-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/132345/chapter-236-a-broken-promise",
-  externalId: "132345",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "132345",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/132345/chapter-236-a-broken-promise",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const motherOfLearning006868GreenHell = {
   unit: "words",
   completedAt: "2026-06-29T22:46:19.886Z",
   publishedAt: "2018-12-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/319545/68-green-hell",
-  externalId: "319545",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "319545",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/319545/68-green-hell",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

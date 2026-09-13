@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0271Chapter280ICouldUseThat = 
   ownLength: 3901,
   unit: "words",
   publishedAt: "2017-06-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/142298/chapter-280-i-could-use-that",
-  externalId: "142298",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "142298",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/142298/chapter-280-i-could-use-that",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

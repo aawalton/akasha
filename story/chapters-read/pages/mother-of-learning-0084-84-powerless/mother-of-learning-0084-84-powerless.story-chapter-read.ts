@@ -12,9 +12,13 @@ export const motherOfLearning008484Powerless = {
   unit: "words",
   completedAt: "2026-06-29T22:46:57.461Z",
   publishedAt: "2019-01-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/324123/84-powerless",
-  externalId: "324123",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "324123",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/324123/84-powerless",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

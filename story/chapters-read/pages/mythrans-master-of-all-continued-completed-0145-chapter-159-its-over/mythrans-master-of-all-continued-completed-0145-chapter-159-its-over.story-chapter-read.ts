@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0145Chapter159ItsOver = {
   ownLength: 3986,
   unit: "words",
   publishedAt: "2017-02-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/116589/chapter-159-its-over",
-  externalId: "116589",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "116589",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/116589/chapter-159-its-over",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

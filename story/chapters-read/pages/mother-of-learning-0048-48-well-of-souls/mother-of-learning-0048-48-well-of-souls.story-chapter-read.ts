@@ -12,9 +12,13 @@ export const motherOfLearning004848WellOfSouls = {
   unit: "words",
   completedAt: "2026-06-29T22:45:34.526Z",
   publishedAt: "2018-12-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/313816/48-well-of-souls",
-  externalId: "313816",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "313816",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/313816/48-well-of-souls",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

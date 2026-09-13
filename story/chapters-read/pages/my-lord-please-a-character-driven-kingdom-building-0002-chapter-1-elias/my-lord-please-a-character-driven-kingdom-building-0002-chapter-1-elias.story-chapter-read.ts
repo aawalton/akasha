@@ -10,9 +10,13 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0002Chapter1Elias = {
   ownLength: 2240,
   unit: "words",
   publishedAt: "2026-03-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3191535/chapter-1-elias",
-  externalId: "3191535",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3191535",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3191535/chapter-1-elias",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

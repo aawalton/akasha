@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0185Chapter197Discussions = {
   ownLength: 3771,
   unit: "words",
   publishedAt: "2017-03-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/123878/chapter-197-discussions",
-  externalId: "123878",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "123878",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/123878/chapter-197-discussions",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

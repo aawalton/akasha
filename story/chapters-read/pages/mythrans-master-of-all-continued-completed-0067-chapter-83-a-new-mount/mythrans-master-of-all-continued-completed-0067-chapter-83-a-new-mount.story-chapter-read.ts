@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0067Chapter83ANewMount = {
   ownLength: 5682,
   unit: "words",
   publishedAt: "2016-11-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/102929/chapter-83-a-new-mount",
-  externalId: "102929",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "102929",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/102929/chapter-83-a-new-mount",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

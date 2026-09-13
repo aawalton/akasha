@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0204Chapter216DidThatJustHappe
   ownLength: 3480,
   unit: "words",
   publishedAt: "2017-04-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/128285/chapter-216-did-that-just-happen",
-  externalId: "128285",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "128285",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/128285/chapter-216-did-that-just-happen",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

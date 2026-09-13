@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0247Chapter258ATreatForYou = {
   ownLength: 3742,
   unit: "words",
   publishedAt: "2017-05-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/137592/chapter-258-a-treat-for-you",
-  externalId: "137592",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "137592",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/137592/chapter-258-a-treat-for-you",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

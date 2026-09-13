@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0174Chapter186IdBuyThatForADol
   ownLength: 2935,
   unit: "words",
   publishedAt: "2017-03-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/121770/chapter-186-id-buy-that-for-a-dollar",
-  externalId: "121770",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "121770",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/121770/chapter-186-id-buy-that-for-a-dollar",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

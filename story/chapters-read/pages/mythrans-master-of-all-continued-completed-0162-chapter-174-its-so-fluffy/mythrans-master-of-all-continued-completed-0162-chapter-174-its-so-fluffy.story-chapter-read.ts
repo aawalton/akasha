@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0162Chapter174ItsSoFluffy = {
   ownLength: 5407,
   unit: "words",
   publishedAt: "2017-02-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/119431/chapter-174-its-so-fluffy",
-  externalId: "119431",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "119431",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/119431/chapter-174-its-so-fluffy",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0301Chapter310EngineTrouble = 
   ownLength: 3749,
   unit: "words",
   publishedAt: "2017-07-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/149260/chapter-310-engine-trouble",
-  externalId: "149260",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "149260",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/149260/chapter-310-engine-trouble",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

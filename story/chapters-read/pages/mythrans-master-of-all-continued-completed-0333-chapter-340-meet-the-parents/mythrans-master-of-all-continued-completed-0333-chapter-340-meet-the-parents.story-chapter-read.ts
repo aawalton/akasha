@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0333Chapter340MeetTheParents =
   ownLength: 3745,
   unit: "words",
   publishedAt: "2017-08-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/157406/chapter-340-meet-the-parents",
-  externalId: "157406",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "157406",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/157406/chapter-340-meet-the-parents",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

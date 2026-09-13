@@ -12,9 +12,13 @@ export const motherOfLearning001515BusyFriday = {
   unit: "words",
   completedAt: "2026-06-29T22:44:15.454Z",
   publishedAt: "2018-11-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/303785/15-busy-friday",
-  externalId: "303785",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "303785",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/303785/15-busy-friday",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

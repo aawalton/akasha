@@ -12,9 +12,13 @@ export const motherOfLearning006767Convergence = {
   unit: "words",
   completedAt: "2026-06-29T22:46:17.671Z",
   publishedAt: "2018-12-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/319347/67-convergence",
-  externalId: "319347",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "319347",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/319347/67-convergence",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

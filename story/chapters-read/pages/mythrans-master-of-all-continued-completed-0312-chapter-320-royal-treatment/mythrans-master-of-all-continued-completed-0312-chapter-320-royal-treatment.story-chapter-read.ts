@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0312Chapter320RoyalTreatment =
   ownLength: 3673,
   unit: "words",
   publishedAt: "2017-07-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/151436/chapter-320-royal-treatment",
-  externalId: "151436",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "151436",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/151436/chapter-320-royal-treatment",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

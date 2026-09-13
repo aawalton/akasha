@@ -12,9 +12,13 @@ export const motherOfLearning004949Substitution = {
   unit: "words",
   completedAt: "2026-06-29T22:45:36.658Z",
   publishedAt: "2018-12-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/314133/49-substitution",
-  externalId: "314133",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "314133",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/314133/49-substitution",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0177Chapter189TunedIn = {
   ownLength: 3991,
   unit: "words",
   publishedAt: "2017-03-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/122331/chapter-189-tuned-in",
-  externalId: "122331",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "122331",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/122331/chapter-189-tuned-in",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

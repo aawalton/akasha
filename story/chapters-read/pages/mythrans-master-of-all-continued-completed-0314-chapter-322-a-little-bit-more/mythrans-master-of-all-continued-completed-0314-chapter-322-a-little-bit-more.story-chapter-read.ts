@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0314Chapter322ALittleBitMore =
   ownLength: 3175,
   unit: "words",
   publishedAt: "2017-08-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/153227/chapter-322-a-little-bit-more",
-  externalId: "153227",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "153227",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/153227/chapter-322-a-little-bit-more",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

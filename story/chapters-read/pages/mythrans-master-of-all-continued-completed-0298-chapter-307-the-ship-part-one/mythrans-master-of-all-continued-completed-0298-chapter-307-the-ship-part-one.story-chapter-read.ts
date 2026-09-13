@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0298Chapter307TheShipPartOne =
   ownLength: 3044,
   unit: "words",
   publishedAt: "2017-07-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/148620/chapter-307-the-ship-part-one",
-  externalId: "148620",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "148620",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/148620/chapter-307-the-ship-part-one",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

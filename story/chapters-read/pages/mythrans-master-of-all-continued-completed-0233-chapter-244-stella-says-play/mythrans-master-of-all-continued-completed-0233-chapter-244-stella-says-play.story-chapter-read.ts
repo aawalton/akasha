@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0233Chapter244StellaSaysPlay =
   ownLength: 3605,
   unit: "words",
   publishedAt: "2017-05-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/133982/chapter-244-stella-says-play",
-  externalId: "133982",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "133982",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/133982/chapter-244-stella-says-play",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -12,9 +12,13 @@ export const motherOfLearning005252ThingsFallApart = {
   unit: "words",
   completedAt: "2026-06-29T22:45:43.540Z",
   publishedAt: "2018-12-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/314869/52-things-fall-apart",
-  externalId: "314869",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "314869",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/314869/52-things-fall-apart",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

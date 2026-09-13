@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0184Chapter196ItsAWhat = {
   ownLength: 4635,
   unit: "words",
   publishedAt: "2017-03-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/123692/chapter-196-its-a-what",
-  externalId: "123692",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "123692",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/123692/chapter-196-its-a-what",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

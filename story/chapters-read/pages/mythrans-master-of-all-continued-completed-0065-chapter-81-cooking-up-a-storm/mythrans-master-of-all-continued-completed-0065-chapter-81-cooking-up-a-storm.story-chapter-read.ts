@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0065Chapter81CookingUpAStorm =
   ownLength: 4587,
   unit: "words",
   publishedAt: "2016-11-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/102628/chapter-81-cooking-up-a-storm",
-  externalId: "102628",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "102628",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/102628/chapter-81-cooking-up-a-storm",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

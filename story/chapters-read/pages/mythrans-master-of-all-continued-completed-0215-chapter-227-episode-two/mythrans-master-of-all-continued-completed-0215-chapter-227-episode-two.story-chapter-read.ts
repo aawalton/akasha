@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0215Chapter227EpisodeTwo = {
   ownLength: 2454,
   unit: "words",
   publishedAt: "2017-04-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/130408/chapter-227-episode-two",
-  externalId: "130408",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "130408",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/130408/chapter-227-episode-two",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

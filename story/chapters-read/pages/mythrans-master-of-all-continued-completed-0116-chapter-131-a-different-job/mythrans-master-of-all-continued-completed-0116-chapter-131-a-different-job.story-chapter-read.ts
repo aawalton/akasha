@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0116Chapter131ADifferentJob = 
   ownLength: 4406,
   unit: "words",
   publishedAt: "2016-12-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/110170/chapter-131-a-different-job",
-  externalId: "110170",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "110170",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/110170/chapter-131-a-different-job",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

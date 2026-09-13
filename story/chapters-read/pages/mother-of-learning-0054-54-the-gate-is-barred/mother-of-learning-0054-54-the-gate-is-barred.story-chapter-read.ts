@@ -12,9 +12,13 @@ export const motherOfLearning005454TheGateIsBarred = {
   unit: "words",
   completedAt: "2026-06-29T22:45:48.351Z",
   publishedAt: "2018-12-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/315504/54-the-gate-is-barred",
-  externalId: "315504",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "315504",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/315504/54-the-gate-is-barred",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

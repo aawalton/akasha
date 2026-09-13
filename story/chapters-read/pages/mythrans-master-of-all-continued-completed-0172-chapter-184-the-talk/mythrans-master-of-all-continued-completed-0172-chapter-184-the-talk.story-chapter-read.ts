@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0172Chapter184TheTalk = {
   ownLength: 4614,
   unit: "words",
   publishedAt: "2017-02-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/121354/chapter-184-the-talk",
-  externalId: "121354",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "121354",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/121354/chapter-184-the-talk",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

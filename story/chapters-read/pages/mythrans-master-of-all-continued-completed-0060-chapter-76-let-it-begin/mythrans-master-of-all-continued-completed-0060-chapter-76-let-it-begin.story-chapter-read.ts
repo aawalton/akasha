@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0060Chapter76LetItBegin = {
   ownLength: 4849,
   unit: "words",
   publishedAt: "2016-11-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/101895/chapter-76-let-it-begin",
-  externalId: "101895",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "101895",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/101895/chapter-76-let-it-begin",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0126Chapter141TheShowdown = {
   ownLength: 5108,
   unit: "words",
   publishedAt: "2017-01-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/111846/chapter-141-the-showdown",
-  externalId: "111846",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "111846",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/111846/chapter-141-the-showdown",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

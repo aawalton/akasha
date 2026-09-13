@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0133Chapter148HolyCrap = {
   ownLength: 3190,
   unit: "words",
   publishedAt: "2017-01-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/114346/chapter-148-holy-crap",
-  externalId: "114346",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "114346",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/114346/chapter-148-holy-crap",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

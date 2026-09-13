@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0313Chapter321ExponentialEncha
   ownLength: 2538,
   unit: "words",
   publishedAt: "2017-07-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/151635/chapter-321-exponential-enchanting",
-  externalId: "151635",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "151635",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/151635/chapter-321-exponential-enchanting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

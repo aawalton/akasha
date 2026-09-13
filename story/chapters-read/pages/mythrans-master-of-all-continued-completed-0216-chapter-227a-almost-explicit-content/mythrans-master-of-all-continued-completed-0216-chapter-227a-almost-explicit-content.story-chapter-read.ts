@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0216Chapter227aAlmostExplicitC
   ownLength: 2846,
   unit: "words",
   publishedAt: "2017-04-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/130409/chapter-227a-almost-explicit-content",
-  externalId: "130409",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "130409",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/130409/chapter-227a-almost-explicit-content",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

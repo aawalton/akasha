@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0108Chapter123YouveBeenShelved
   ownLength: 4959,
   unit: "words",
   publishedAt: "2016-12-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/108939/chapter-123-youve-been-shelved",
-  externalId: "108939",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "108939",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/108939/chapter-123-youve-been-shelved",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

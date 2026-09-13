@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0153Chapter166CastlePanic = {
   ownLength: 3866,
   unit: "words",
   publishedAt: "2017-02-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/117991/chapter-166-castle-panic",
-  externalId: "117991",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "117991",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/117991/chapter-166-castle-panic",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

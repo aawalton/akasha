@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0242Chapter253EarlyWarning = {
   ownLength: 3479,
   unit: "words",
   publishedAt: "2017-05-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/136580/chapter-253-early-warning",
-  externalId: "136580",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "136580",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/136580/chapter-253-early-warning",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

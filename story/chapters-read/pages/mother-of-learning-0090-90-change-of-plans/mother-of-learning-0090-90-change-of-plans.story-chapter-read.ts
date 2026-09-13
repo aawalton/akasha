@@ -12,9 +12,13 @@ export const motherOfLearning009090ChangeOfPlans = {
   unit: "words",
   completedAt: "2026-06-29T22:49:30.243Z",
   publishedAt: "2019-01-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/326028/90-change-of-plans",
-  externalId: "326028",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "326028",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/326028/90-change-of-plans",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

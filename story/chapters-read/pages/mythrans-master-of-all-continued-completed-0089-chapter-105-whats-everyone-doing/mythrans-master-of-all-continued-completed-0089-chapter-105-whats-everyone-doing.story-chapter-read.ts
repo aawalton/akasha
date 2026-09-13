@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0089Chapter105WhatsEveryoneDoi
   ownLength: 3137,
   unit: "words",
   publishedAt: "2016-12-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/106137/chapter-105-whats-everyone-doing",
-  externalId: "106137",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "106137",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/106137/chapter-105-whats-everyone-doing",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

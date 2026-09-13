@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0267Chapter276aPolicePlayExpli
   ownLength: 1944,
   unit: "words",
   publishedAt: "2017-06-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/141701/chapter-276a-police-play-explicit",
-  externalId: "141701",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "141701",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/141701/chapter-276a-police-play-explicit",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

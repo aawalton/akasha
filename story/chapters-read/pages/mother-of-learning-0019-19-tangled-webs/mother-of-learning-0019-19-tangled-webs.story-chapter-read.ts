@@ -12,9 +12,13 @@ export const motherOfLearning001919TangledWebs = {
   unit: "words",
   completedAt: "2026-06-29T22:44:24.481Z",
   publishedAt: "2018-11-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/305052/19-tangled-webs",
-  externalId: "305052",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "305052",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/305052/19-tangled-webs",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

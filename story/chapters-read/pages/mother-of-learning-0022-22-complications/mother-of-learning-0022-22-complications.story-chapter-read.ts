@@ -12,9 +12,13 @@ export const motherOfLearning002222Complications = {
   unit: "words",
   completedAt: "2026-06-29T22:44:31.080Z",
   publishedAt: "2018-11-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/305877/22-complications",
-  externalId: "305877",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "305877",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/305877/22-complications",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead
