@@ -197,9 +197,9 @@ test("an empty command is stood aside from", () => {
 })
 
 test("refusalFor judges one call, and reads no other word on the line", () => {
-  expect(refusalFor({ act: "commit", rest: [] })).not.toBeNull()
-  expect(refusalFor({ act: "commit", rest: ["--", "tools/one.ts"] })).not.toBeNull()
-  expect(refusalFor({ act: "status", rest: [] })).toBeNull()
+  expect(refusalFor({ act: "commit", before: [], rest: [] })).not.toBeNull()
+  expect(refusalFor({ act: "commit", before: [], rest: ["--", "tools/one.ts"] })).not.toBeNull()
+  expect(refusalFor({ act: "status", before: [], rest: [] })).toBeNull()
 })
 
 test("the scope says what it does not reach", () => {

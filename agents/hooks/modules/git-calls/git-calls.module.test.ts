@@ -5,15 +5,23 @@ import {
 } from "akasha/agents/hooks/modules/git-calls/git-calls.module.code.ts"
 
 test("a plain call is read into its act and the words after it", () => {
-  expect(gitCallIn("git reset --hard")).toEqual({ act: "reset", rest: ["--hard"] })
+  expect(gitCallIn("git reset --hard")).toEqual({ act: "reset", before: [], rest: ["--hard"] })
 })
 
 test("sudo in front is stepped over, and the call behind it is read", () => {
-  expect(gitCallIn("sudo git reset --hard")).toEqual({ act: "reset", rest: ["--hard"] })
+  expect(gitCallIn("sudo git reset --hard")).toEqual({
+    act: "reset",
+    before: [],
+    rest: ["--hard"],
+  })
 })
 
 test("a prefix that only runs the call is stepped over, with its own flags and numbers", () => {
-  expect(gitCallIn("timeout 900 git reset --hard")).toEqual({ act: "reset", rest: ["--hard"] })
+  expect(gitCallIn("timeout 900 git reset --hard")).toEqual({
+    act: "reset",
+    before: [],
+    rest: ["--hard"],
+  })
   expect(gitCallIn("timeout -k 5 900 git reset --hard")?.act).toBe("reset")
   expect(gitCallIn("nice -n 10 git commit -m x")?.act).toBe("commit")
   expect(gitCallIn("nohup git stash")?.act).toBe("stash")
@@ -24,15 +32,30 @@ test("a prefix that only runs the call is stepped over, with its own flags and n
 })
 
 test("an assignment in front is stepped over", () => {
-  expect(gitCallIn("FOO=1 git clean -fd")).toEqual({ act: "clean", rest: ["-fd"] })
+  expect(gitCallIn("FOO=1 git clean -fd")).toEqual({ act: "clean", before: [], rest: ["-fd"] })
 })
 
 test("env in front is stepped over, and an assignment after it too", () => {
-  expect(gitCallIn("env FOO=1 git stash")).toEqual({ act: "stash", rest: [] })
+  expect(gitCallIn("env FOO=1 git stash")).toEqual({ act: "stash", before: [], rest: [] })
 })
 
 test("a global flag taking a value swallows the word after it, which is no act", () => {
-  expect(gitCallIn("FOO=1 git -C /elsewhere clean -fd")).toEqual({ act: "clean", rest: ["-fd"] })
+  expect(gitCallIn("FOO=1 git -C /elsewhere clean -fd")).toEqual({
+    act: "clean",
+    before: ["-C", "/elsewhere"],
+    rest: ["-fd"],
+  })
+})
+
+test("the words before the act are kept with it, in the order the line has them", () => {
+  expect(gitCallIn("git -C /one -C two commit")?.before).toEqual(["-C", "/one", "-C", "two"])
+  expect(gitCallIn("git -c user.name=one -C /two add .")?.before).toEqual([
+    "-c",
+    "user.name=one",
+    "-C",
+    "/two",
+  ])
+  expect(gitCallIn("timeout 900 git -C /one commit")?.before).toEqual(["-C", "/one"])
 })
 
 test("every global flag that takes a value swallows its word", () => {
@@ -45,15 +68,23 @@ test("every global flag that takes a value swallows its word", () => {
 })
 
 test("a global flag joined to its value by an equals sign carries no word away", () => {
-  expect(gitCallIn("git --git-dir=/elsewhere/.git commit")).toEqual({ act: "commit", rest: [] })
+  expect(gitCallIn("git --git-dir=/elsewhere/.git commit")).toEqual({
+    act: "commit",
+    before: ["--git-dir=/elsewhere/.git"],
+    rest: [],
+  })
 })
 
 test("a global flag taking no value is stepped over", () => {
-  expect(gitCallIn("git --no-pager --paginate reset")).toEqual({ act: "reset", rest: [] })
+  expect(gitCallIn("git --no-pager --paginate reset")).toEqual({
+    act: "reset",
+    before: ["--no-pager", "--paginate"],
+    rest: [],
+  })
 })
 
 test("git named by a path is git, because the basename is what is matched", () => {
-  expect(gitCallIn("/usr/bin/git stash")).toEqual({ act: "stash", rest: [] })
+  expect(gitCallIn("/usr/bin/git stash")).toEqual({ act: "stash", before: [], rest: [] })
 })
 
 test("a tool with a subcommand grammar of its own is not read as git", () => {
@@ -78,12 +109,14 @@ test("an empty segment is no call here", () => {
 
 test("a message of more than one line does not cut the paths off its own call", () => {
   expect(gitCallsIn('git commit -m "one\ntwo" -- one.ts')).toEqual([
-    { act: "commit", rest: ["-m", "--", "one.ts"] },
+    { act: "commit", before: [], rest: ["-m", "--", "one.ts"] },
   ])
 })
 
 test("an unclosed quote leaves the lines under it there to be judged", () => {
-  expect(gitCallsIn('echo "one\ngit reset --hard')).toEqual([{ act: "reset", rest: ["--hard"] }])
+  expect(gitCallsIn('echo "one\ngit reset --hard')).toEqual([
+    { act: "reset", before: [], rest: ["--hard"] },
+  ])
 })
 
 test("an act inside a quoted payload is not read as a call", () => {
@@ -91,35 +124,43 @@ test("an act inside a quoted payload is not read as a call", () => {
 })
 
 test("the act of the call carrying a quoted payload is still read", () => {
-  expect(gitCallsIn('git commit -m "reset the thing"')).toEqual([{ act: "commit", rest: ["-m"] }])
+  expect(gitCallsIn('git commit -m "reset the thing"')).toEqual([
+    { act: "commit", before: [], rest: ["-m"] },
+  ])
 })
 
 test("a line continuation is joined, so the act behind it is read", () => {
-  expect(gitCallsIn("git \\\nreset --hard")).toEqual([{ act: "reset", rest: ["--hard"] }])
+  expect(gitCallsIn("git \\\nreset --hard")).toEqual([
+    { act: "reset", before: [], rest: ["--hard"] },
+  ])
 })
 
 test("a separator cuts one line into segments, and each is read on its own", () => {
-  expect(gitCallsIn("cd one && git reset --hard")).toEqual([{ act: "reset", rest: ["--hard"] }])
+  expect(gitCallsIn("cd one && git reset --hard")).toEqual([
+    { act: "reset", before: [], rest: ["--hard"] },
+  ])
 })
 
 test("every separator form cuts", () => {
   for (const between of ["&&", "||", ";", "|", "&"]) {
-    expect(gitCallsIn(`echo one ${between} git stash`)).toEqual([{ act: "stash", rest: [] }])
+    expect(gitCallsIn(`echo one ${between} git stash`)).toEqual([
+      { act: "stash", before: [], rest: [] },
+    ])
   }
 })
 
 test("a newline cuts as a separator does", () => {
-  expect(gitCallsIn("echo one\ngit stash")).toEqual([{ act: "stash", rest: [] }])
+  expect(gitCallsIn("echo one\ngit stash")).toEqual([{ act: "stash", before: [], rest: [] }])
 })
 
 test("leading space on a segment is taken off before the head is read", () => {
-  expect(gitCallsIn("  git stash")).toEqual([{ act: "stash", rest: [] }])
+  expect(gitCallsIn("  git stash")).toEqual([{ act: "stash", before: [], rest: [] }])
 })
 
 test("a call after the first on a line is read too", () => {
   expect(gitCallsIn("git add . && git commit -m one")).toEqual([
-    { act: "add", rest: ["."] },
-    { act: "commit", rest: ["-m", "one"] },
+    { act: "add", before: [], rest: ["."] },
+    { act: "commit", before: [], rest: ["-m", "one"] },
   ])
 })
 
@@ -132,6 +173,6 @@ test("a call a substitution or a subshell holds is not read, which is the gap", 
 
 test("a heredoc body naming an act is read as a call, which this does not tell apart", () => {
   expect(gitCallsIn("cat <<EOF\ngit reset --hard\nEOF")).toEqual([
-    { act: "reset", rest: ["--hard"] },
+    { act: "reset", before: [], rest: ["--hard"] },
   ])
 })

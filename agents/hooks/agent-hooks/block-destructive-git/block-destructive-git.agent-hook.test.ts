@@ -245,8 +245,8 @@ test("the first refusal on a line is the one given", () => {
 })
 
 test("refusalFor judges one call, and reads no other word on the line", () => {
-  expect(refusalFor({ act: "stash", rest: [] })).not.toBeNull()
-  expect(refusalFor({ act: "status", rest: [] })).toBeNull()
+  expect(refusalFor({ act: "stash", before: [], rest: [] })).not.toBeNull()
+  expect(refusalFor({ act: "status", before: [], rest: [] })).toBeNull()
 })
 
 test("an empty command is stood aside from", () => {

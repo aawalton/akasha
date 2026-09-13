@@ -18,6 +18,10 @@ export const gitCalls = {
     },
     {
       invariantKind: "departure",
+      statement: "The words before the act are kept with it, in the order the line has them.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A command with no act is no call here.",
     },
     {

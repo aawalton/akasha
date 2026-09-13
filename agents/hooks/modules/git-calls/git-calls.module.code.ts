@@ -20,6 +20,7 @@ const NOT_GIT: readonly string[] = ["kubectl", "ssh"]
 
 export type GitCall = {
   readonly act: string
+  readonly before: readonly string[]
   readonly rest: readonly string[]
 }
 
@@ -31,6 +32,7 @@ export function gitCallIn(segment: string): GitCall | null {
   if (NOT_GIT.includes(base)) return null
   if (base !== GIT) return null
   let act = ""
+  const before: string[] = []
   const rest: string[] = []
   let skipNext = false
   for (const word of words.slice(1)) {
@@ -40,17 +42,22 @@ export function gitCallIn(segment: string): GitCall | null {
     }
     if (skipNext) {
       skipNext = false
+      before.push(word)
       continue
     }
     if (TAKES_A_VALUE.includes(word)) {
       skipNext = true
+      before.push(word)
       continue
     }
-    if (word.startsWith("-")) continue
+    if (word.startsWith("-")) {
+      before.push(word)
+      continue
+    }
     act = word
   }
   if (act === "") return null
-  return { act, rest }
+  return { act, before, rest }
 }
 
 export function gitCallsIn(command: string): readonly GitCall[] {
