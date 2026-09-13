@@ -7,9 +7,10 @@ export const renamePageType = {
   changeMode: "change-mode-rename",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page",
-  definition: "every page of one page type carried to the new slug in one answer",
+  definition: "a page type renamed, in its own name and in every page filed under that page type",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   guards: ["change-guard/claimed-file-not-left-behind"],
   invariants: [
     {
@@ -30,11 +31,63 @@ export const renamePageType = {
     },
     {
       invariantKind: "departure",
+      statement: "The page type's own file and every file it claims move in that same answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The files a page claims are read while the page type still declares them.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The page type a page states is restated at the path that page landed at.",
     },
     {
       invariantKind: "departure",
       statement: "A page stating its page type under both keys has both keys restated.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every page's address is restated over one reading of the bodies.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The page type's own address is restated beside the addresses of its pages.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That restating comes before any file a page claims is moved.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The pages are carried before the page type's own file is renamed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The slug the page type states is restated in the body that page type landed in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The plural the caller states is restated where the page type states a plural.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type stating a plural and handed no plural is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The name the page type's own body exports is spelled from the new slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The type a page type's worked file exports is spelled from the new slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The type a page type's types file exports is spelled from the new slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body importing a type spelled anew imports the type the new slug names.",
     },
     {
       invariantKind: "departure",
@@ -54,11 +107,11 @@ export const renamePageType = {
     },
     {
       invariantKind: "absence",
-      statement: "The page type's own file is carried by another change.",
+      statement: "No rung beneath is reached.",
     },
     {
       invariantKind: "absence",
-      statement: "No rung beneath is reached once for each page.",
+      statement: "The folder a page type owns is left where that folder sits.",
     },
   ],
   changeKind: "change-mechanical",

@@ -12,8 +12,8 @@ export const changeMechanicalPageTypeRename = {
       statement: "A rung here answers for every page of the page type at once.",
     },
     {
-      invariantKind: "absence",
-      statement: "No rung here renames the page type's own file.",
+      invariantKind: "departure",
+      statement: "A rung here renames the page type's own file beside every page of it.",
     },
   ],
 } as const satisfies Domain
