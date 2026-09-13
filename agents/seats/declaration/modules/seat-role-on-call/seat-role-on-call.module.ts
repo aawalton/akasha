@@ -4,7 +4,7 @@ export const seatRoleOnCall = {
   id: "01a0766c-11c7-79de-aa16-8aafc180ce58",
   type: "module",
   slug: "seat-role-on-call",
-  definition: "which roles are on call, read from what the role pages carry",
+  definition: "whether a role is on call, read from that role's own page",
   code: "ts",
   test: "ts",
   invariants: [
@@ -18,16 +18,12 @@ export const seatRoleOnCall = {
     },
     {
       invariantKind: "departure",
-      statement: "A role naming no slug is left out rather than added under an empty name.",
-    },
-    {
-      invariantKind: "departure",
       statement:
-        "Every role is answered by one read of the index rather than by a read for each role.",
+        "The role asked for is reached by its slug rather than by reading what every role carries.",
     },
     {
       invariantKind: "departure",
-      statement: "The set is worked out once for each call and afresh outside every call.",
+      statement: "A role's answer is worked out once for each call and afresh outside every call.",
     },
     {
       invariantKind: "departure",

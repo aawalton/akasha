@@ -1,38 +1,19 @@
 import { expect, test } from "bun:test"
-import { onCallRolesIn } from "akasha/agents/seats/declaration/modules/seat-role-on-call/seat-role-on-call.module.code.ts"
+import { roleIsOnCall } from "akasha/agents/seats/declaration/modules/seat-role-on-call/seat-role-on-call.module.code.ts"
 
-test("a role holding true under the on-call key is on call", () => {
-  expect([...onCallRolesIn([{ value: { slug: "handler", onCall: true } }])]).toEqual(["handler"])
+test("a role whose page holds true under the on-call key is on call", () => {
+  expect(roleIsOnCall("handler")).toBe(true)
 })
 
-test("anything other than true under that key reads as not on call", () => {
-  const held = onCallRolesIn([
-    { value: { slug: "worker", onCall: false } },
-    { value: { slug: "definer" } },
-    { value: { slug: "coach", onCall: "true" } },
-    { value: { slug: "operator", onCall: 1 } },
-  ])
-
-  expect([...held]).toEqual([])
+test("a role whose page holds false under that key is not on call", () => {
+  expect(roleIsOnCall("definer")).toBe(false)
 })
 
-test("a role naming no slug is left out", () => {
-  const held = onCallRolesIn([
-    { value: { onCall: true } },
-    { value: { slug: "", onCall: true } },
-    { value: { slug: 7, onCall: true } },
-  ])
-
-  expect([...held]).toEqual([])
+test("a slug naming no role is not on call", () => {
+  expect(roleIsOnCall("no-role-carries-this-slug")).toBe(false)
 })
 
-test("a value that is no record is passed over rather than refused", () => {
-  const held = onCallRolesIn([
-    { value: null },
-    { value: "handler" },
-    { value: [{ slug: "handler", onCall: true }] },
-    { value: { slug: "handler", onCall: true } },
-  ])
-
-  expect([...held]).toEqual(["handler"])
+test("no slug at all is not on call", () => {
+  expect(roleIsOnCall(null)).toBe(false)
+  expect(roleIsOnCall("")).toBe(false)
 })
