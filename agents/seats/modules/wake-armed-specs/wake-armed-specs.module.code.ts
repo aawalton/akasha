@@ -11,10 +11,6 @@ export const AGENT_SENDER_PREFIX = "agent:"
 
 const PAGE_CHAT_SOURCE = "page-chat"
 
-const QUESTION_ANSWER_SOURCE = "question-answer"
-
-const QUESTION_DISMISS_SOURCE = "question-dismiss"
-
 const SMS_SOURCE_PREFIX = "sms:"
 
 export function smsWakeSource(handlerSeat: string): string {
@@ -105,20 +101,6 @@ export function standingPersonaSpec(
       {
         id: `${name}-page-chat`,
         senderMatch: PAGE_CHAT_SOURCE,
-        contentRegex: undefined,
-        target: name,
-        status: "LIVE",
-      },
-      {
-        id: `${name}-question-answer`,
-        senderMatch: QUESTION_ANSWER_SOURCE,
-        contentRegex: undefined,
-        target: name,
-        status: "LIVE",
-      },
-      {
-        id: `${name}-question-dismiss`,
-        senderMatch: QUESTION_DISMISS_SOURCE,
         contentRegex: undefined,
         target: name,
         status: "LIVE",
