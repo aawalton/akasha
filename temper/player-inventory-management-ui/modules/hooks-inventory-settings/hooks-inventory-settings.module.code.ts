@@ -26,6 +26,7 @@ import {
   readManagedGuildBanks,
 } from "akasha/temper/items-core/modules/inventory-guild-bank-types/inventory-guild-bank-types.module.code.ts"
 import {
+  type HeldRule,
   heldFromRows,
   rulesFromPages,
 } from "akasha/temper/items-rules-core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
@@ -33,6 +34,7 @@ import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/modul
 import { writesFor } from "akasha/temper/items-rules-core/modules/inventory-rule-writes/inventory-rule-writes.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
 import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 import { useCallback, useEffect, useMemo, useSyncExternalStore } from "react"
 
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"
@@ -194,6 +196,8 @@ export function useManagedGuildBanks() {
   }
 }
 
+const NO_RULES: InventoryRuleSettings = { version: 2, rules: [] }
+
 export function useInventorySettings() {
   const { settings, userId } = useSettingsBlob()
   const { rows } = usePages({
@@ -204,18 +208,41 @@ export function useInventorySettings() {
         : [{ key: "accountPage", eq: NEVER_MATCH_VALUE }],
     limit: RULES_AT_MOST,
   })
-  const heldRules = useMemo(() => heldFromRows(rows.map((row) => ({ ...row }))), [rows])
+  const read = useMemo<{
+    readonly held: readonly HeldRule[]
+    readonly unread: string | null
+  }>(() => {
+    try {
+      return { held: heldFromRows(rows.map((row) => ({ ...row }))), unread: null }
+    } catch (thrown) {
+      return { held: [], unread: saidBy(thrown) }
+    }
+  }, [rows])
+  const heldRules = read.held
   const blob = settings.inventory
 
-  const inventorySettings = useMemo<InventoryRuleSettings>(
-    () => ({
-      version: 2,
-      rules: rulesFromPages(heldRules),
-      ...(blob?.itemRules === undefined ? {} : { itemRules: blob.itemRules }),
-      ...(blob?.buyRules === undefined ? {} : { buyRules: blob.buyRules }),
-    }),
-    [heldRules, blob?.itemRules, blob?.buyRules]
-  )
+  const built = useMemo<{
+    readonly settings: InventoryRuleSettings
+    readonly unread: string | null
+  }>(() => {
+    if (read.unread !== null) return { settings: NO_RULES, unread: read.unread }
+    try {
+      return {
+        settings: {
+          version: 2,
+          rules: rulesFromPages(read.held),
+          ...(blob?.itemRules === undefined ? {} : { itemRules: blob.itemRules }),
+          ...(blob?.buyRules === undefined ? {} : { buyRules: blob.buyRules }),
+        },
+        unread: null,
+      }
+    } catch (thrown) {
+      return { settings: NO_RULES, unread: saidBy(thrown) }
+    }
+  }, [read, blob?.itemRules, blob?.buyRules])
+
+  const inventorySettings = built.settings
+  const rulesUnread = built.unread
 
   const runUpserts = useOptimisticUpsertPages((args) => upsertPages(args))
   const runDeletes = useOptimisticDeletePages((args) => deletePages(args))
@@ -223,6 +250,11 @@ export function useInventorySettings() {
   const updateInventorySettings = useCallback(
     async (next: InventoryRuleSettings) => {
       if (userId == null) return
+      if (rulesUnread !== null) {
+        throw new Error(
+          "the rules beside this account went unread, so writing now would put this over them"
+        )
+      }
       const { upserts, deletes } = writesFor(next.rules, heldRules, userId)
       if (upserts.length > 0) {
         await runUpserts({
@@ -240,12 +272,13 @@ export function useInventorySettings() {
         })
       }
     },
-    [heldRules, userId, runUpserts, runDeletes]
+    [heldRules, userId, runUpserts, runDeletes, rulesUnread]
   )
 
   return {
     inventorySettings,
     updateInventorySettings,
+    rulesUnread,
   }
 }
 

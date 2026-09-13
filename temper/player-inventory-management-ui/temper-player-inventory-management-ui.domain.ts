@@ -49,6 +49,7 @@ export const temperPlayerInventoryManagementUi = {
     "module/inventory-rules-tab-item-rules-panels",
     "module/inventory-rules-tab-panel-visibility",
     "module/inventory-rules-tab-rule-assembly",
+    "module/inventory-rules-unread",
     "module/inventory-scope-note",
     "module/inventory-scope-note-text",
     "module/inventory-summary-panel-card",

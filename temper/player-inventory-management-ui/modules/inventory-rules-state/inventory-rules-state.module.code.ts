@@ -32,8 +32,9 @@ export function preserveLocked<T extends { id: string; locked?: boolean }>(
 
 export function useInventoryRuleSettings(): {
   settings: InventoryRuleSettings
+  rulesUnread: string | null
 } {
-  const { inventorySettings: rawSettings } = useInventorySettings()
+  const { inventorySettings: rawSettings, rulesUnread } = useInventorySettings()
 
   const settings = useMemo(() => {
     const raw = rawSettings
@@ -51,7 +52,7 @@ export function useInventoryRuleSettings(): {
     return createDefaultRuleSettings()
   }, [rawSettings])
 
-  return { settings }
+  return { settings, rulesUnread }
 }
 
 export function usePersistSettings() {

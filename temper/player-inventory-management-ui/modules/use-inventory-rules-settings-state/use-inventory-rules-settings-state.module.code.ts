@@ -18,10 +18,11 @@ import { toast } from "sonner"
 interface InventoryRulesSettingsState {
   localSettings: InventoryRuleSettings
   handlers: ReturnType<typeof useInventoryRulesHandlers>
+  rulesUnread: string | null
 }
 
 export function useInventoryRulesSettingsState(): InventoryRulesSettingsState {
-  const { settings } = useInventoryRuleSettings()
+  const { settings, rulesUnread } = useInventoryRuleSettings()
   const { craftBagAccess } = useCraftBagAccess()
   const persistServer = usePersistSettings()
 
@@ -63,6 +64,7 @@ export function useInventoryRulesSettingsState(): InventoryRulesSettingsState {
   )
 
   useEffect(() => {
+    if (rulesUnread !== null) return
     if (craftBagAccess == null) return
     const rules = settingsRef.current.rules
     const needsPatch = craftBagAccess
@@ -72,9 +74,10 @@ export function useInventoryRulesSettingsState(): InventoryRulesSettingsState {
       : rules.some((r) => r.action === "move-to" && r.destination === "craft-bag")
     if (!needsPatch) return
     applyChange(patchCraftBagDestination(settingsRef.current, craftBagAccess))
-  }, [craftBagAccess, applyChange, settingsRef])
+  }, [craftBagAccess, applyChange, settingsRef, rulesUnread])
 
   useEffect(() => {
+    if (rulesUnread !== null) return
     if (craftBagAccess == null) return
     const rules = settingsRef.current.rules
     const needsPatch = craftBagAccess
@@ -87,9 +90,9 @@ export function useInventoryRulesSettingsState(): InventoryRulesSettingsState {
       : rules.some((r) => r.action === "move-to" && r.destination === "furniture-vault")
     if (!needsPatch) return
     applyChange(patchFurnitureVaultDestination(settingsRef.current, craftBagAccess))
-  }, [craftBagAccess, applyChange, settingsRef])
+  }, [craftBagAccess, applyChange, settingsRef, rulesUnread])
 
   const handlers = useInventoryRulesHandlers(settingsRef, applyChange, craftBagAccess)
 
-  return { localSettings, handlers }
+  return { localSettings, handlers, rulesUnread }
 }

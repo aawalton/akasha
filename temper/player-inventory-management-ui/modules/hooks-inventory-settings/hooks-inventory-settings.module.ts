@@ -58,5 +58,13 @@ export const hooksInventorySettings = {
       invariantKind: "departure",
       statement: "A write before the blob is read is refused.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A rule the read refuses is handed on as the words that refusal said.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write while any rule is unread is refused.",
+    },
   ],
 } as const satisfies Module

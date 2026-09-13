@@ -28,6 +28,7 @@ import { EntityRulesPanels } from "akasha/temper/player-inventory-management-ui/
 import { ItemRulesPanels } from "akasha/temper/player-inventory-management-ui/modules/inventory-rules-tab-item-rules-panels/inventory-rules-tab-item-rules-panels.module.code.tsx"
 import { inventoryRulePanelVisibility } from "akasha/temper/player-inventory-management-ui/modules/inventory-rules-tab-panel-visibility/inventory-rules-tab-panel-visibility.module.code.ts"
 import { useAssembledInventoryRules } from "akasha/temper/player-inventory-management-ui/modules/inventory-rules-tab-rule-assembly/inventory-rules-tab-rule-assembly.module.code.ts"
+import { InventoryRulesUnread } from "akasha/temper/player-inventory-management-ui/modules/inventory-rules-unread/inventory-rules-unread.module.code.tsx"
 import { InventoryScopeNote } from "akasha/temper/player-inventory-management-ui/modules/inventory-scope-note/inventory-scope-note.module.code.tsx"
 import { ManagementPlanPanelCard } from "akasha/temper/player-inventory-management-ui/modules/management-plan-panel-card/management-plan-panel-card.module.code.tsx"
 import { UnmappedItemsPanelCard } from "akasha/temper/player-inventory-management-ui/modules/unmapped-items-panel-card/unmapped-items-panel-card.module.code.tsx"
@@ -85,7 +86,7 @@ export function InventoryRulesTab({
   deferred,
 }: InventoryRulesTabProps) {
   const userId = useUserId()
-  const { localSettings, handlers } = useInventoryRulesSettingsState()
+  const { localSettings, handlers, rulesUnread } = useInventoryRulesSettingsState()
   const { inventory: rawInventory, isLoading: isInventoryLoading } = useInventory(userId)
   const { managedSet } = useManagedGuildBanks()
   const { automationSettings } = useAutomationSettings()
@@ -229,6 +230,8 @@ export function InventoryRulesTab({
       visibleCategoryRuleIds,
       visibleItemRuleIds,
     })
+
+  if (rulesUnread !== null) return <InventoryRulesUnread said={rulesUnread} />
 
   return (
     <div className="flex flex-col gap-6">
