@@ -13,7 +13,7 @@ export const temperItemsRulesMatcher = {
     "module/inventory-rule-matcher-cache",
     "module/inventory-rule-matcher-exclude",
     "module/inventory-rule-matcher-fill-once",
-    "module/inventory-rule-matcher-property-fixtures",
+
     "module/rule-matcher-context",
     "module/rule-matcher-context-can-level-morphs",
     "module/rule-matcher-context-curse-state",
@@ -22,6 +22,7 @@ export const temperItemsRulesMatcher = {
     "module/rule-matcher-context-skill-lines",
     "module/web-eval-env",
     "module/web-item-facts",
+    "test-fixture/inventory-rule-matcher-property-fixtures",
   ],
   invariants: [
     {

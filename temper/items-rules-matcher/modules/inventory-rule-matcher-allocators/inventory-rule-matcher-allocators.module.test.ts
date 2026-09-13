@@ -12,7 +12,7 @@ import {
   ELIGIBLE_CHAR_COUNT_ARB,
   recipeCI,
   STACK_COUNT_ARB,
-} from "akasha/temper/items-rules-matcher/modules/inventory-rule-matcher-property-fixtures/inventory-rule-matcher-property-fixtures.module.code.ts"
+} from "akasha/temper/items-rules-matcher/test-fixtures/inventory-rule-matcher-property-fixtures/inventory-rule-matcher-property-fixtures.test-fixture.code.ts"
 import fc from "fast-check"
 
 const SELL_RULE: CategoryRule = {

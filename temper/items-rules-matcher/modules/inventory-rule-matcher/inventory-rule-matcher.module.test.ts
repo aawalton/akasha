@@ -13,7 +13,7 @@ import {
   expectedClaimerId,
   ITEM_RULE_LIST_ARB,
   ruleMatchesItem,
-} from "akasha/temper/items-rules-matcher/modules/inventory-rule-matcher-property-fixtures/inventory-rule-matcher-property-fixtures.module.code.ts"
+} from "akasha/temper/items-rules-matcher/test-fixtures/inventory-rule-matcher-property-fixtures/inventory-rule-matcher-property-fixtures.test-fixture.code.ts"
 import fc from "fast-check"
 
 function activeIds(rules: readonly (CategoryRule | ItemRule)[]): readonly string[] {
