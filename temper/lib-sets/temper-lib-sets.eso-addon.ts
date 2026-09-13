@@ -115,7 +115,6 @@ export const temperLibSets = {
     "module/lib-sets-loc-on-off-labels",
     "module/lib-sets-loc-rest-game-strings",
     "module/lib-sets-loc-rest-install-localization-rest",
-    "module/lib-sets-loc-rest-language-codes",
     "module/lib-sets-loc-rest-localization-rest-index",
     "module/lib-sets-loc-rest-strings-es",
     "module/lib-sets-loc-rest-strings-fr",

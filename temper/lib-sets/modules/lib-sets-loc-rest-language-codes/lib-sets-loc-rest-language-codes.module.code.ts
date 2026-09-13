@@ -1,6 +1,0 @@
-export const LANG_ES = "es"
-export const LANG_FR = "fr"
-export const LANG_RU = "ru"
-export const LANG_ZH = "zh"
-export const LANG_JP = "jp"
-export const LANG_PL = "pl"

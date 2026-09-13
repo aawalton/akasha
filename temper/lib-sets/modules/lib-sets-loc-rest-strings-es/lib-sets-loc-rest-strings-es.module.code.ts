@@ -1,8 +1,8 @@
+import { LANG_ES } from "akasha/temper/lib-sets/modules/lib-sets-loc-language-codes/lib-sets-loc-language-codes.module.code.ts"
 import {
   setTypeArenaName,
   undauntedStr,
 } from "akasha/temper/lib-sets/modules/lib-sets-loc-rest-game-strings/lib-sets-loc-rest-game-strings.module.code.ts"
-import { LANG_ES } from "akasha/temper/lib-sets/modules/lib-sets-loc-rest-language-codes/lib-sets-loc-rest-language-codes.module.code.ts"
 
 export const ES = {
   de: "Alemán",

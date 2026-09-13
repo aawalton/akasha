@@ -1,4 +1,3 @@
-import { lib } from "akasha/temper/lib-sets/modules/lib-sets-loc-rest-game-strings/lib-sets-loc-rest-game-strings.module.code.ts"
 import {
   LANG_ES,
   LANG_FR,
@@ -6,7 +5,8 @@ import {
   LANG_PL,
   LANG_RU,
   LANG_ZH,
-} from "akasha/temper/lib-sets/modules/lib-sets-loc-rest-language-codes/lib-sets-loc-rest-language-codes.module.code.ts"
+} from "akasha/temper/lib-sets/modules/lib-sets-loc-language-codes/lib-sets-loc-language-codes.module.code.ts"
+import { lib } from "akasha/temper/lib-sets/modules/lib-sets-loc-rest-game-strings/lib-sets-loc-rest-game-strings.module.code.ts"
 import { ES } from "akasha/temper/lib-sets/modules/lib-sets-loc-rest-strings-es/lib-sets-loc-rest-strings-es.module.code.ts"
 import { FR } from "akasha/temper/lib-sets/modules/lib-sets-loc-rest-strings-fr/lib-sets-loc-rest-strings-fr.module.code.ts"
 import { JP } from "akasha/temper/lib-sets/modules/lib-sets-loc-rest-strings-jp/lib-sets-loc-rest-strings-jp.module.code.ts"
