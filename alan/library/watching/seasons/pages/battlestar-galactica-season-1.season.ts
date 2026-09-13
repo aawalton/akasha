@@ -12,7 +12,12 @@ export const battlestarGalacticaSeason1 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1978-09-18",
-  externalId: "trakt-season-1629",
-  externalLink: "https://trakt.tv/shows/battlestar-galactica/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-1629",
+      externalLink: "https://trakt.tv/shows/battlestar-galactica/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

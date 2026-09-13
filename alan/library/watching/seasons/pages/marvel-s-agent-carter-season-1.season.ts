@@ -12,7 +12,12 @@ export const marvelSAgentCarterSeason1 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-01-07",
-  externalId: "trakt-season-83598",
-  externalLink: "https://trakt.tv/shows/marvel-s-agent-carter/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-83598",
+      externalLink: "https://trakt.tv/shows/marvel-s-agent-carter/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

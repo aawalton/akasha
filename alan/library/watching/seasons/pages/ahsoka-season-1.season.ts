@@ -12,7 +12,12 @@ export const ahsokaSeason1 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-08-23",
-  externalId: "trakt-season-236209",
-  externalLink: "https://trakt.tv/shows/ahsoka/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-236209",
+      externalLink: "https://trakt.tv/shows/ahsoka/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

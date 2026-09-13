@@ -12,7 +12,12 @@ export const campaign2TheMightyNein = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-01-12",
-  externalId: "trakt-season-121261",
-  externalLink: "https://trakt.tv/shows/critical-role/seasons/2",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-121261",
+      externalLink: "https://trakt.tv/shows/critical-role/seasons/2",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

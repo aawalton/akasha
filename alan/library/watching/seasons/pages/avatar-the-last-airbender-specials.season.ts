@@ -12,7 +12,12 @@ export const avatarTheLastAirbenderSpecials = {
   unit: "minutes",
   status: "archived",
   publishedAt: "2002-04-30",
-  externalId: "trakt-season-892",
-  externalLink: "https://trakt.tv/shows/avatar-the-last-airbender/seasons/0",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-892",
+      externalLink: "https://trakt.tv/shows/avatar-the-last-airbender/seasons/0",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

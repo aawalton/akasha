@@ -12,7 +12,12 @@ export const battlestarGalacticaSpecials = {
   unit: "minutes",
   status: "archived",
   publishedAt: "2003-11-26",
-  externalId: "trakt-season-243232",
-  externalLink: "https://trakt.tv/shows/battlestar-galactica-2003/seasons/0",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-243232",
+      externalLink: "https://trakt.tv/shows/battlestar-galactica-2003/seasons/0",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

@@ -12,7 +12,12 @@ export const moonKnightMiniseries = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-03-30",
-  externalId: "trakt-season-240814",
-  externalLink: "https://trakt.tv/shows/moon-knight/seasons/1",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-240814",
+      externalLink: "https://trakt.tv/shows/moon-knight/seasons/1",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

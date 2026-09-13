@@ -12,7 +12,12 @@ export const marvelSRunawaysSeason2 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-12-21",
-  externalId: "trakt-season-168883",
-  externalLink: "https://trakt.tv/shows/marvel-s-runaways/seasons/2",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-168883",
+      externalLink: "https://trakt.tv/shows/marvel-s-runaways/seasons/2",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

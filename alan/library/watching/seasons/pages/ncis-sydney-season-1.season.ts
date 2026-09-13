@@ -12,7 +12,12 @@ export const ncisSydneySeason1 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-11-10",
-  externalId: "trakt-season-303855",
-  externalLink: "https://trakt.tv/shows/ncis-sydney/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-303855",
+      externalLink: "https://trakt.tv/shows/ncis-sydney/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

@@ -12,7 +12,12 @@ export const lastSupper = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-06-15",
-  externalId: "trakt-season-431829",
-  externalLink: "https://trakt.tv/shows/the-chosen/seasons/5",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-431829",
+      externalLink: "https://trakt.tv/shows/the-chosen/seasons/5",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

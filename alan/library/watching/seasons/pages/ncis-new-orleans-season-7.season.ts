@@ -12,7 +12,12 @@ export const ncisNewOrleansSeason7 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-11-09",
-  externalId: "trakt-season-231276",
-  externalLink: "https://trakt.tv/shows/ncis-new-orleans/seasons/7",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-231276",
+      externalLink: "https://trakt.tv/shows/ncis-new-orleans/seasons/7",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

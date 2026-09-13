@@ -12,7 +12,12 @@ export const rwbySpecials = {
   unit: "minutes",
   status: "archived",
   publishedAt: "2012-11-07",
-  externalId: "0",
-  externalLink: "https://trakt.tv/shows/rwby/seasons/0",
-  lastSyncedAt: "2026-01-16",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "0",
+      externalLink: "https://trakt.tv/shows/rwby/seasons/0",
+      lastSyncedAt: "2026-01-16",
+    },
+  ],
 } as const satisfies Season

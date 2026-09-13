@@ -12,7 +12,12 @@ export const starWarsResistanceSeason2 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2019-10-07",
-  externalId: "trakt-season-196921",
-  externalLink: "https://trakt.tv/shows/star-wars-resistance/seasons/2",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-196921",
+      externalLink: "https://trakt.tv/shows/star-wars-resistance/seasons/2",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

@@ -12,7 +12,12 @@ export const severanceSpecials2 = {
   unit: "minutes",
   status: "archived",
   publishedAt: "2021-12-16",
-  externalId: "0",
-  externalLink: "https://trakt.tv/shows/severance/seasons/0",
-  lastSyncedAt: "2025-12-03",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "0",
+      externalLink: "https://trakt.tv/shows/severance/seasons/0",
+      lastSyncedAt: "2025-12-03",
+    },
+  ],
 } as const satisfies Season

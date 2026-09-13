@@ -12,7 +12,12 @@ export const bookOneAir = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2012-04-15",
-  externalId: "trakt-season-45516",
-  externalLink: "https://trakt.tv/shows/the-legend-of-korra/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-45516",
+      externalLink: "https://trakt.tv/shows/the-legend-of-korra/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

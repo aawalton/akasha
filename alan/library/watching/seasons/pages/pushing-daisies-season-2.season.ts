@@ -12,7 +12,12 @@ export const pushingDaisiesSeason2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2008-10-02",
-  externalId: "trakt-season-16203",
-  externalLink: "https://trakt.tv/shows/pushing-daisies/seasons/2",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-16203",
+      externalLink: "https://trakt.tv/shows/pushing-daisies/seasons/2",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

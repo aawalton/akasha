@@ -12,7 +12,12 @@ export const starWarsRebelsSeason1 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2014-10-14",
-  externalId: "trakt-season-61192",
-  externalLink: "https://trakt.tv/shows/star-wars-rebels/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-61192",
+      externalLink: "https://trakt.tv/shows/star-wars-rebels/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

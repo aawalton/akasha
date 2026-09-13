@@ -12,7 +12,12 @@ export const babylon5NoSurrenderNoRetreat = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1996-11-05",
-  externalId: "4",
-  externalLink: "https://trakt.tv/shows/babylon-5/seasons/4",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "4",
+      externalLink: "https://trakt.tv/shows/babylon-5/seasons/4",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Season

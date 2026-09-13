@@ -12,7 +12,12 @@ export const capricaSpecials = {
   unit: "minutes",
   status: "archived",
   publishedAt: "2009-04-22",
-  externalId: "trakt-season-2810",
-  externalLink: "https://trakt.tv/shows/caprica/seasons/0",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-2810",
+      externalLink: "https://trakt.tv/shows/caprica/seasons/0",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

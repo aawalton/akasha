@@ -12,7 +12,12 @@ export const ncisSeason17 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2019-09-25",
-  externalId: "trakt-season-192646",
-  externalLink: "https://trakt.tv/shows/ncis/seasons/17",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-192646",
+      externalLink: "https://trakt.tv/shows/ncis/seasons/17",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

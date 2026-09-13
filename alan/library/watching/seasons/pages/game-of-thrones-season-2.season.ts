@@ -12,7 +12,12 @@ export const gameOfThronesSeason2 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2012-04-02",
-  externalId: "trakt-season-3964",
-  externalLink: "https://trakt.tv/shows/game-of-thrones/seasons/2",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-3964",
+      externalLink: "https://trakt.tv/shows/game-of-thrones/seasons/2",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

@@ -12,7 +12,12 @@ export const aCrownOfCandy = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-04-08",
-  externalId: "trakt-season-215669",
-  externalLink: "https://trakt.tv/shows/dimension-20/seasons/5",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-215669",
+      externalLink: "https://trakt.tv/shows/dimension-20/seasons/5",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

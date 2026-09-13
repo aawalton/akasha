@@ -12,7 +12,12 @@ export const criminalMindsSeason17EvolutionSeason2 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-06-06",
-  externalId: "17",
-  externalLink: "https://trakt.tv/shows/criminal-minds/seasons/17",
-  lastSyncedAt: "2025-12-08",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "17",
+      externalLink: "https://trakt.tv/shows/criminal-minds/seasons/17",
+      lastSyncedAt: "2025-12-08",
+    },
+  ],
 } as const satisfies Season

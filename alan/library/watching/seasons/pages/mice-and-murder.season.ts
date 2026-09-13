@@ -12,7 +12,12 @@ export const miceAndMurder = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-04-07",
-  externalId: "trakt-season-250423",
-  externalLink: "https://trakt.tv/shows/dimension-20/seasons/9",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-250423",
+      externalLink: "https://trakt.tv/shows/dimension-20/seasons/9",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

@@ -12,7 +12,12 @@ export const campaign1VoxMachina = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2015-03-13",
-  externalId: "trakt-season-112332",
-  externalLink: "https://trakt.tv/shows/critical-role/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-112332",
+      externalLink: "https://trakt.tv/shows/critical-role/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

@@ -12,7 +12,12 @@ export const obiWanKenobiMiniseries = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-05-26",
-  externalId: "trakt-season-234906",
-  externalLink: "https://trakt.tv/shows/obi-wan-kenobi/seasons/1",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-234906",
+      externalLink: "https://trakt.tv/shows/obi-wan-kenobi/seasons/1",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

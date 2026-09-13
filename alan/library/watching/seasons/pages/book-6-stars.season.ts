@@ -12,7 +12,12 @@ export const book6Stars = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-07-26",
-  externalId: "trakt-season-340963",
-  externalLink: "https://trakt.tv/shows/the-dragon-prince/seasons/6",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-340963",
+      externalLink: "https://trakt.tv/shows/the-dragon-prince/seasons/6",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

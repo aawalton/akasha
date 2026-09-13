@@ -12,7 +12,12 @@ export const neverStopBlowingUp = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-06-26",
-  externalId: "trakt-season-355961",
-  externalLink: "https://trakt.tv/shows/dimension-20/seasons/22",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-355961",
+      externalLink: "https://trakt.tv/shows/dimension-20/seasons/22",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

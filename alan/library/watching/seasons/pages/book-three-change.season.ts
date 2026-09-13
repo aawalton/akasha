@@ -12,7 +12,12 @@ export const bookThreeChange = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2014-06-28",
-  externalId: "trakt-season-45518",
-  externalLink: "https://trakt.tv/shows/the-legend-of-korra/seasons/3",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-45518",
+      externalLink: "https://trakt.tv/shows/the-legend-of-korra/seasons/3",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

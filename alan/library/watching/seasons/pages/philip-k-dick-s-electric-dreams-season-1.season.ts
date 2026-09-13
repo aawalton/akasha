@@ -12,7 +12,12 @@ export const philipKDickSElectricDreamsSeason1 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2017-09-17",
-  externalId: "trakt-season-149551",
-  externalLink: "https://trakt.tv/shows/philip-k-dick-s-electric-dreams/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-149551",
+      externalLink: "https://trakt.tv/shows/philip-k-dick-s-electric-dreams/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

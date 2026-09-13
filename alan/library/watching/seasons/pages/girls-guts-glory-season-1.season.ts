@@ -12,7 +12,12 @@ export const girlsGutsGlorySeason1 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-05-04",
-  externalId: "trakt-season-168247",
-  externalLink: "https://trakt.tv/shows/girls-guts-glory/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-168247",
+      externalLink: "https://trakt.tv/shows/girls-guts-glory/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

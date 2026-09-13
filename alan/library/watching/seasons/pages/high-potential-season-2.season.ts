@@ -12,7 +12,12 @@ export const highPotentialSeason2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-09-17",
-  externalId: "trakt-season-475519",
-  externalLink: "https://trakt.tv/shows/high-potential/seasons/2",
-  lastSyncedAt: "2026-01-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-475519",
+      externalLink: "https://trakt.tv/shows/high-potential/seasons/2",
+      lastSyncedAt: "2026-01-02",
+    },
+  ],
 } as const satisfies Season

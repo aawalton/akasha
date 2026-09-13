@@ -12,7 +12,12 @@ export const doctorWhoSeason3 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2007-04-01",
-  externalId: "trakt-season-60082",
-  externalLink: "https://trakt.tv/shows/doctor-who-2005/seasons/3",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-60082",
+      externalLink: "https://trakt.tv/shows/doctor-who-2005/seasons/3",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

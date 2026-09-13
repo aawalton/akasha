@@ -12,7 +12,12 @@ export const crusadeSpecials = {
   unit: "minutes",
   status: "archived",
   publishedAt: "1999-09-13",
-  externalId: "0",
-  externalLink: "https://trakt.tv/shows/crusade/seasons/0",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "0",
+      externalLink: "https://trakt.tv/shows/crusade/seasons/0",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Season

@@ -12,7 +12,12 @@ export const blueySeason1 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-09-30",
-  externalId: "trakt-season-173086",
-  externalLink: "https://trakt.tv/shows/bluey-2018/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-173086",
+      externalLink: "https://trakt.tv/shows/bluey-2018/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

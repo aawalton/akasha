@@ -12,7 +12,12 @@ export const scorpionSpecials = {
   unit: "minutes",
   status: "archived",
   publishedAt: "2014-08-13",
-  externalId: "trakt-season-96845",
-  externalLink: "https://trakt.tv/shows/scorpion/seasons/0",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-96845",
+      externalLink: "https://trakt.tv/shows/scorpion/seasons/0",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

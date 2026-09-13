@@ -12,7 +12,12 @@ export const classSeason1 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2016-10-22",
-  externalId: "trakt-season-125593",
-  externalLink: "https://trakt.tv/shows/class/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-125593",
+      externalLink: "https://trakt.tv/shows/class/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

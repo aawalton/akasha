@@ -12,7 +12,12 @@ export const elementarySeason6 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-05-01",
-  externalId: "trakt-season-147219",
-  externalLink: "https://trakt.tv/shows/elementary/seasons/6",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-147219",
+      externalLink: "https://trakt.tv/shows/elementary/seasons/6",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

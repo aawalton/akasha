@@ -12,7 +12,12 @@ export const blackMirrorSeason7 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-04-10",
-  externalId: "trakt-season-342449",
-  externalLink: "https://trakt.tv/shows/black-mirror/seasons/7",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-342449",
+      externalLink: "https://trakt.tv/shows/black-mirror/seasons/7",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

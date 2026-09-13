@@ -12,7 +12,12 @@ export const marvelSAgentsOfSHIELDSpecials = {
   unit: "minutes",
   status: "archived",
   publishedAt: "2013-08-26",
-  externalId: "trakt-season-3989",
-  externalLink: "https://trakt.tv/shows/marvel-s-agents-of-s-h-i-e-l-d/seasons/0",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-3989",
+      externalLink: "https://trakt.tv/shows/marvel-s-agents-of-s-h-i-e-l-d/seasons/0",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

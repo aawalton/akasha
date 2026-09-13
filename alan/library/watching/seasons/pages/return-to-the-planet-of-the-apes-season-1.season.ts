@@ -12,7 +12,12 @@ export const returnToThePlanetOfTheApesSeason1 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1975-09-06",
-  externalId: "trakt-season-23828",
-  externalLink: "https://trakt.tv/shows/return-to-the-planet-of-the-apes/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-23828",
+      externalLink: "https://trakt.tv/shows/return-to-the-planet-of-the-apes/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

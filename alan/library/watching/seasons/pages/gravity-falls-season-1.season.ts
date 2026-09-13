@@ -12,7 +12,12 @@ export const gravityFallsSeason1 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2012-06-16",
-  externalId: "trakt-season-52097",
-  externalLink: "https://trakt.tv/shows/gravity-falls/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-52097",
+      externalLink: "https://trakt.tv/shows/gravity-falls/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

@@ -12,7 +12,12 @@ export const doctorWhoFlux = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-10-31",
-  externalId: "trakt-season-243449",
-  externalLink: "https://trakt.tv/shows/doctor-who-2005/seasons/13",
-  lastSyncedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-243449",
+      externalLink: "https://trakt.tv/shows/doctor-who-2005/seasons/13",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
 } as const satisfies Season

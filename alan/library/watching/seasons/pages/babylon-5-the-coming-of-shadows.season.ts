@@ -12,7 +12,12 @@ export const babylon5TheComingOfShadows = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1994-11-03",
-  externalId: "2",
-  externalLink: "https://trakt.tv/shows/babylon-5/seasons/2",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "2",
+      externalLink: "https://trakt.tv/shows/babylon-5/seasons/2",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Season

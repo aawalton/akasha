@@ -12,7 +12,12 @@ export const manifestSeason3 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-04-01",
-  externalId: "3",
-  externalLink: "https://trakt.tv/shows/manifest/seasons/3",
-  lastSyncedAt: "2026-01-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "3",
+      externalLink: "https://trakt.tv/shows/manifest/seasons/3",
+      lastSyncedAt: "2026-01-01",
+    },
+  ],
 } as const satisfies Season

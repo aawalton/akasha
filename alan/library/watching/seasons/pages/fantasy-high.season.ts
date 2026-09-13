@@ -12,7 +12,12 @@ export const fantasyHigh = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-09-19",
-  externalId: "trakt-season-174127",
-  externalLink: "https://trakt.tv/shows/dimension-20/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-174127",
+      externalLink: "https://trakt.tv/shows/dimension-20/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

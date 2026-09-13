@@ -12,7 +12,12 @@ export const childrenOfEarth = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2009-07-06",
-  externalId: "trakt-season-1389",
-  externalLink: "https://trakt.tv/shows/torchwood/seasons/3",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-1389",
+      externalLink: "https://trakt.tv/shows/torchwood/seasons/3",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

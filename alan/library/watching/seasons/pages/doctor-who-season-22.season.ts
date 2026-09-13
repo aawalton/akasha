@@ -12,7 +12,12 @@ export const doctorWhoSeason22 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1985-01-05",
-  externalId: "trakt-season-442",
-  externalLink: "https://trakt.tv/shows/doctor-who/seasons/22",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-442",
+      externalLink: "https://trakt.tv/shows/doctor-who/seasons/22",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

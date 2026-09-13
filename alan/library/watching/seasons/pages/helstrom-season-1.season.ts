@@ -12,7 +12,12 @@ export const helstromSeason1 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-10-16",
-  externalId: "trakt-season-196072",
-  externalLink: "https://trakt.tv/shows/helstrom/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-196072",
+      externalLink: "https://trakt.tv/shows/helstrom/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

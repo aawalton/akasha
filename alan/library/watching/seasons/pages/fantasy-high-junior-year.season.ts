@@ -12,7 +12,12 @@ export const fantasyHighJuniorYear = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-01-11",
-  externalId: "trakt-season-335904",
-  externalLink: "https://trakt.tv/shows/dimension-20/seasons/21",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-335904",
+      externalLink: "https://trakt.tv/shows/dimension-20/seasons/21",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

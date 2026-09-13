@@ -12,7 +12,12 @@ export const neverafter = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-12-01",
-  externalId: "trakt-season-307861",
-  externalLink: "https://trakt.tv/shows/dimension-20/seasons/16",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-307861",
+      externalLink: "https://trakt.tv/shows/dimension-20/seasons/16",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

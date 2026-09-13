@@ -12,7 +12,12 @@ export const stargateAtlantisSpecials = {
   unit: "minutes",
   status: "archived",
   publishedAt: "2004-07-04",
-  externalId: "trakt-season-7509",
-  externalLink: "https://trakt.tv/shows/stargate-atlantis/seasons/0",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-7509",
+      externalLink: "https://trakt.tv/shows/stargate-atlantis/seasons/0",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

@@ -12,7 +12,12 @@ export const bookThreeFire = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2007-09-21",
-  externalId: "trakt-season-895",
-  externalLink: "https://trakt.tv/shows/avatar-the-last-airbender/seasons/3",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-895",
+      externalLink: "https://trakt.tv/shows/avatar-the-last-airbender/seasons/3",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

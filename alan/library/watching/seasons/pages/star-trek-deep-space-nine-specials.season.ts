@@ -12,7 +12,12 @@ export const starTrekDeepSpaceNineSpecials = {
   unit: "minutes",
   status: "archived",
   publishedAt: "2003-02-25",
-  externalId: "trakt-season-97615",
-  externalLink: "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/0",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-97615",
+      externalLink: "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/0",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

@@ -12,7 +12,12 @@ export const starWarsTheBadBatchSeason1 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-05-04",
-  externalId: "trakt-season-245620",
-  externalLink: "https://trakt.tv/shows/star-wars-the-bad-batch/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-245620",
+      externalLink: "https://trakt.tv/shows/star-wars-the-bad-batch/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

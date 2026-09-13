@@ -12,7 +12,12 @@ export const escapeFromTheBloodkeep = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2019-04-30",
-  externalId: "trakt-season-194724",
-  externalLink: "https://trakt.tv/shows/dimension-20/seasons/2",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-194724",
+      externalLink: "https://trakt.tv/shows/dimension-20/seasons/2",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

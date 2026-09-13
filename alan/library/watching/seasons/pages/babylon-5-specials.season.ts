@@ -12,7 +12,12 @@ export const babylon5Specials = {
   unit: "minutes",
   status: "archived",
   publishedAt: "1993-02-23",
-  externalId: "0",
-  externalLink: "https://trakt.tv/shows/babylon-5/seasons/0",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "0",
+      externalLink: "https://trakt.tv/shows/babylon-5/seasons/0",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Season

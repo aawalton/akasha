@@ -12,7 +12,12 @@ export const peacemakerSpecials = {
   unit: "minutes",
   status: "archived",
   publishedAt: "2022-11-23",
-  externalId: "trakt-season-313219",
-  externalLink: "https://trakt.tv/shows/peacemaker-2022/seasons/0",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-313219",
+      externalLink: "https://trakt.tv/shows/peacemaker-2022/seasons/0",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

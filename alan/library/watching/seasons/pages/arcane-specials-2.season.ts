@@ -12,7 +12,12 @@ export const arcaneSpecials2 = {
   unit: "minutes",
   status: "archived",
   publishedAt: "2024-10-08",
-  externalId: "trakt-season-422162",
-  externalLink: "https://trakt.tv/shows/arcane/seasons/0",
-  lastSyncedAt: "2025-11-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-422162",
+      externalLink: "https://trakt.tv/shows/arcane/seasons/0",
+      lastSyncedAt: "2025-11-02",
+    },
+  ],
 } as const satisfies Season

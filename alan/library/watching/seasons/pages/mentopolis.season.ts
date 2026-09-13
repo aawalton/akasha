@@ -12,7 +12,12 @@ export const mentopolis = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-08-09",
-  externalId: "trakt-season-329383",
-  externalLink: "https://trakt.tv/shows/dimension-20/seasons/19",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-329383",
+      externalLink: "https://trakt.tv/shows/dimension-20/seasons/19",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

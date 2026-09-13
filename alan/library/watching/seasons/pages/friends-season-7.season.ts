@@ -12,7 +12,12 @@ export const friendsSeason7 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2000-10-13",
-  externalId: "trakt-season-4981",
-  externalLink: "https://trakt.tv/shows/friends/seasons/7",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-4981",
+      externalLink: "https://trakt.tv/shows/friends/seasons/7",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

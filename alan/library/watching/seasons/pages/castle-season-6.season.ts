@@ -12,7 +12,12 @@ export const castleSeason6 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-09-24",
-  externalId: "trakt-season-4094",
-  externalLink: "https://trakt.tv/shows/castle/seasons/6",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-4094",
+      externalLink: "https://trakt.tv/shows/castle/seasons/6",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

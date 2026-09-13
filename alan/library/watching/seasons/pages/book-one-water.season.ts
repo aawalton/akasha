@@ -12,7 +12,12 @@ export const bookOneWater = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2005-02-21",
-  externalId: "trakt-season-893",
-  externalLink: "https://trakt.tv/shows/avatar-the-last-airbender/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-893",
+      externalLink: "https://trakt.tv/shows/avatar-the-last-airbender/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

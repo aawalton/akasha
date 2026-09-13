@@ -12,7 +12,12 @@ export const ncisLosAngelesSpecials = {
   unit: "minutes",
   status: "archived",
   publishedAt: "2023-05-22",
-  externalId: "trakt-season-29184",
-  externalLink: "https://trakt.tv/shows/ncis-los-angeles/seasons/0",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-29184",
+      externalLink: "https://trakt.tv/shows/ncis-los-angeles/seasons/0",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

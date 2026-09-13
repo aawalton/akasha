@@ -12,7 +12,12 @@ export const babylon5WheelOfFire = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1998-01-22",
-  externalId: "5",
-  externalLink: "https://trakt.tv/shows/babylon-5/seasons/5",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "5",
+      externalLink: "https://trakt.tv/shows/babylon-5/seasons/5",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Season

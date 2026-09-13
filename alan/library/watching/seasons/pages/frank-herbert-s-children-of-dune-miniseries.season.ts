@@ -12,7 +12,12 @@ export const frankHerbertSChildrenOfDuneMiniseries = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2003-03-16",
-  externalId: "trakt-season-19588",
-  externalLink: "https://trakt.tv/shows/frank-herbert-s-children-of-dune/seasons/1",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-19588",
+      externalLink: "https://trakt.tv/shows/frank-herbert-s-children-of-dune/seasons/1",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

@@ -12,7 +12,12 @@ export const frankHerbertSDuneMiniseries = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2000-12-03",
-  externalId: "trakt-season-30606",
-  externalLink: "https://trakt.tv/shows/frank-herbert-s-dune/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-30606",
+      externalLink: "https://trakt.tv/shows/frank-herbert-s-dune/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

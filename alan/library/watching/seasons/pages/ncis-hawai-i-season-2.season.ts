@@ -12,7 +12,12 @@ export const ncisHawaiISeason2 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-09-20",
-  externalId: "trakt-season-297896",
-  externalLink: "https://trakt.tv/shows/ncis-hawai-i/seasons/2",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-297896",
+      externalLink: "https://trakt.tv/shows/ncis-hawai-i/seasons/2",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

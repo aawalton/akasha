@@ -12,7 +12,12 @@ export const marvelSAgentsOfSHIELDSeason2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-09-24",
-  externalId: "trakt-season-3991",
-  externalLink: "https://trakt.tv/shows/marvel-s-agents-of-s-h-i-e-l-d/seasons/2",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-3991",
+      externalLink: "https://trakt.tv/shows/marvel-s-agents-of-s-h-i-e-l-d/seasons/2",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

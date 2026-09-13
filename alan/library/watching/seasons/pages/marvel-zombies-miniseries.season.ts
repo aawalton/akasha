@@ -12,7 +12,12 @@ export const marvelZombiesMiniseries = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-09-24",
-  externalId: "trakt-season-279654",
-  externalLink: "https://trakt.tv/shows/marvel-zombies/seasons/1",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-279654",
+      externalLink: "https://trakt.tv/shows/marvel-zombies/seasons/1",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

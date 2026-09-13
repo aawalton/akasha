@@ -12,7 +12,12 @@ export const starWarsAndorSeason2 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-04-23",
-  externalId: "trakt-season-426409",
-  externalLink: "https://trakt.tv/shows/star-wars-andor/seasons/2",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-426409",
+      externalLink: "https://trakt.tv/shows/star-wars-andor/seasons/2",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

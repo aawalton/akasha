@@ -12,7 +12,12 @@ export const starTrekPicardSpecials = {
   unit: "minutes",
   status: "archived",
   publishedAt: "2020-10-06",
-  externalId: "trakt-season-267674",
-  externalLink: "https://trakt.tv/shows/star-trek-picard/seasons/0",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-267674",
+      externalLink: "https://trakt.tv/shows/star-trek-picard/seasons/0",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

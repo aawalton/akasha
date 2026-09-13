@@ -12,7 +12,12 @@ export const marvelSTheDefendersMiniseries = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2017-08-18",
-  externalId: "trakt-season-142135",
-  externalLink: "https://trakt.tv/shows/marvel-s-the-defenders/seasons/1",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-142135",
+      externalLink: "https://trakt.tv/shows/marvel-s-the-defenders/seasons/1",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

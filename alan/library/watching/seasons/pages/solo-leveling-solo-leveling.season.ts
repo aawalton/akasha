@@ -12,7 +12,12 @@ export const soloLevelingSoloLeveling = {
   unit: "minutes",
   status: "in-progress",
   publishedAt: "2024-01-06",
-  externalId: "1",
-  externalLink: "https://trakt.tv/shows/solo-leveling/seasons/1",
-  lastSyncedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "1",
+      externalLink: "https://trakt.tv/shows/solo-leveling/seasons/1",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
 } as const satisfies Season

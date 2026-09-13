@@ -12,7 +12,12 @@ export const marvelSAgentsOfSHIELDSeason7 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-28",
-  externalId: "trakt-season-186718",
-  externalLink: "https://trakt.tv/shows/marvel-s-agents-of-s-h-i-e-l-d/seasons/7",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-186718",
+      externalLink: "https://trakt.tv/shows/marvel-s-agents-of-s-h-i-e-l-d/seasons/7",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

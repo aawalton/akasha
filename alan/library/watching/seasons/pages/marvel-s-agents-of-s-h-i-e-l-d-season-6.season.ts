@@ -12,7 +12,12 @@ export const marvelSAgentsOfSHIELDSeason6 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-05-11",
-  externalId: "trakt-season-168411",
-  externalLink: "https://trakt.tv/shows/marvel-s-agents-of-s-h-i-e-l-d/seasons/6",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-168411",
+      externalLink: "https://trakt.tv/shows/marvel-s-agents-of-s-h-i-e-l-d/seasons/6",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

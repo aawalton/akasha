@@ -12,7 +12,12 @@ export const bookTwoSpirits = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2013-09-14",
-  externalId: "trakt-season-45517",
-  externalLink: "https://trakt.tv/shows/the-legend-of-korra/seasons/2",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-45517",
+      externalLink: "https://trakt.tv/shows/the-legend-of-korra/seasons/2",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

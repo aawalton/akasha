@@ -12,7 +12,12 @@ export const ncisLosAngelesSeason10 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-10-01",
-  externalId: "trakt-season-166306",
-  externalLink: "https://trakt.tv/shows/ncis-los-angeles/seasons/10",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-166306",
+      externalLink: "https://trakt.tv/shows/ncis-los-angeles/seasons/10",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

@@ -12,7 +12,12 @@ export const rwbyFairyTalesSeason1 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-10-30",
-  externalId: "1",
-  externalLink: "https://trakt.tv/shows/rwby-fairy-tales/seasons/1",
-  lastSyncedAt: "2025-10-13",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "1",
+      externalLink: "https://trakt.tv/shows/rwby-fairy-tales/seasons/1",
+      lastSyncedAt: "2025-10-13",
+    },
+  ],
 } as const satisfies Season

@@ -12,7 +12,12 @@ export const creatureCommandosSeason1 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-12-05",
-  externalId: "trakt-season-315613",
-  externalLink: "https://trakt.tv/shows/creature-commandos/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-315613",
+      externalLink: "https://trakt.tv/shows/creature-commandos/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

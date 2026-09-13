@@ -12,7 +12,12 @@ export const marvelSThePunisherSeason2 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2019-01-18",
-  externalId: "trakt-season-179126",
-  externalLink: "https://trakt.tv/shows/marvel-s-the-punisher/seasons/2",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-179126",
+      externalLink: "https://trakt.tv/shows/marvel-s-the-punisher/seasons/2",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

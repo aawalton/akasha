@@ -12,7 +12,12 @@ export const book7Dark = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-12-19",
-  externalId: "trakt-season-404938",
-  externalLink: "https://trakt.tv/shows/the-dragon-prince/seasons/7",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-404938",
+      externalLink: "https://trakt.tv/shows/the-dragon-prince/seasons/7",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

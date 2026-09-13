@@ -12,7 +12,12 @@ export const marvelSDaredevilSeason1 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2015-04-10",
-  externalId: "trakt-season-102670",
-  externalLink: "https://trakt.tv/shows/marvel-s-daredevil/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-102670",
+      externalLink: "https://trakt.tv/shows/marvel-s-daredevil/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

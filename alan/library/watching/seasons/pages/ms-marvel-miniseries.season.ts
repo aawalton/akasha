@@ -12,7 +12,12 @@ export const msMarvelMiniseries = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-06-08",
-  externalId: "trakt-season-240815",
-  externalLink: "https://trakt.tv/shows/ms-marvel/seasons/1",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-240815",
+      externalLink: "https://trakt.tv/shows/ms-marvel/seasons/1",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

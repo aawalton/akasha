@@ -12,7 +12,12 @@ export const echoMiniseries = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-01-10",
-  externalId: "trakt-season-255625",
-  externalLink: "https://trakt.tv/shows/echo/seasons/1",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-255625",
+      externalLink: "https://trakt.tv/shows/echo/seasons/1",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

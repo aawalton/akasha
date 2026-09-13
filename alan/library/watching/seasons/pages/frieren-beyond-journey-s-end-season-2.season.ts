@@ -12,7 +12,12 @@ export const frierenBeyondJourneySEndSeason2 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2026-01-16",
-  externalId: "2",
-  externalLink: "https://trakt.tv/shows/frieren-beyond-journey-s-end/seasons/2",
-  lastSyncedAt: "2026-01-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "2",
+      externalLink: "https://trakt.tv/shows/frieren-beyond-journey-s-end/seasons/2",
+      lastSyncedAt: "2026-01-02",
+    },
+  ],
 } as const satisfies Season

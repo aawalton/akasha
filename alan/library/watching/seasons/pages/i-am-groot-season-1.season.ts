@@ -12,7 +12,12 @@ export const iAmGrootSeason1 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-08-10",
-  externalId: "trakt-season-330045",
-  externalLink: "https://trakt.tv/shows/i-am-groot/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-330045",
+      externalLink: "https://trakt.tv/shows/i-am-groot/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

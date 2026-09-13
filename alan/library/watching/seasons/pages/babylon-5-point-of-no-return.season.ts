@@ -12,7 +12,12 @@ export const babylon5PointOfNoReturn = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1995-11-07",
-  externalId: "3",
-  externalLink: "https://trakt.tv/shows/babylon-5/seasons/3",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "3",
+      externalLink: "https://trakt.tv/shows/babylon-5/seasons/3",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Season

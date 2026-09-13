@@ -12,7 +12,12 @@ export const dungeonsAndDragQueens = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-06-28",
-  externalId: "trakt-season-326942",
-  externalLink: "https://trakt.tv/shows/dimension-20/seasons/18",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-326942",
+      externalLink: "https://trakt.tv/shows/dimension-20/seasons/18",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

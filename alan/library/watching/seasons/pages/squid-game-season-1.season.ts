@@ -12,7 +12,12 @@ export const squidGameSeason1 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-09-17",
-  externalId: "trakt-season-253460",
-  externalLink: "https://trakt.tv/shows/squid-game/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-253460",
+      externalLink: "https://trakt.tv/shows/squid-game/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

@@ -12,7 +12,12 @@ export const ncisLosAngelesSeason13 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-10-11",
-  externalId: "trakt-season-263423",
-  externalLink: "https://trakt.tv/shows/ncis-los-angeles/seasons/13",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-263423",
+      externalLink: "https://trakt.tv/shows/ncis-los-angeles/seasons/13",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

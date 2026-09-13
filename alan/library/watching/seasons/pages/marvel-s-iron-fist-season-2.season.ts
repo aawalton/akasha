@@ -12,7 +12,12 @@ export const marvelSIronFistSeason2 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-09-07",
-  externalId: "trakt-season-168340",
-  externalLink: "https://trakt.tv/shows/marvel-s-iron-fist/seasons/2",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-168340",
+      externalLink: "https://trakt.tv/shows/marvel-s-iron-fist/seasons/2",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

@@ -12,7 +12,12 @@ export const stargateSg1Season1 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1997-07-28",
-  externalId: "trakt-season-14608",
-  externalLink: "https://trakt.tv/shows/stargate-sg-1/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-14608",
+      externalLink: "https://trakt.tv/shows/stargate-sg-1/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

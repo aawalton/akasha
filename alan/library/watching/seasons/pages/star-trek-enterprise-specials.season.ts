@@ -12,7 +12,12 @@ export const starTrekEnterpriseSpecials = {
   unit: "minutes",
   status: "archived",
   publishedAt: "2013-03-27",
-  externalId: "trakt-season-228126",
-  externalLink: "https://trakt.tv/shows/star-trek-enterprise/seasons/0",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-228126",
+      externalLink: "https://trakt.tv/shows/star-trek-enterprise/seasons/0",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

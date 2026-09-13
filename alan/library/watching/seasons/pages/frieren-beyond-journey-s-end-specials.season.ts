@@ -12,7 +12,12 @@ export const frierenBeyondJourneySEndSpecials = {
   unit: "minutes",
   status: "archived",
   publishedAt: "2023-10-11",
-  externalId: "0",
-  externalLink: "https://trakt.tv/shows/frieren-beyond-journey-s-end/seasons/0",
-  lastSyncedAt: "2026-01-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "0",
+      externalLink: "https://trakt.tv/shows/frieren-beyond-journey-s-end/seasons/0",
+      lastSyncedAt: "2026-01-02",
+    },
+  ],
 } as const satisfies Season

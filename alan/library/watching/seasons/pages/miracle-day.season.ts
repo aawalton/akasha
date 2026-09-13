@@ -12,7 +12,12 @@ export const miracleDay = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2011-07-14",
-  externalId: "trakt-season-1390",
-  externalLink: "https://trakt.tv/shows/torchwood/seasons/4",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-1390",
+      externalLink: "https://trakt.tv/shows/torchwood/seasons/4",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

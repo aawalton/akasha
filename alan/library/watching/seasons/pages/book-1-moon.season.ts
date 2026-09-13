@@ -12,7 +12,12 @@ export const book1Moon = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-09-14",
-  externalId: "trakt-season-168449",
-  externalLink: "https://trakt.tv/shows/the-dragon-prince/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-168449",
+      externalLink: "https://trakt.tv/shows/the-dragon-prince/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

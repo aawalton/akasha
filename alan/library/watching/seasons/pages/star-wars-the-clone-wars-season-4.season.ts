@@ -12,7 +12,12 @@ export const starWarsTheCloneWarsSeason4 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2011-09-16",
-  externalId: "trakt-season-12745",
-  externalLink: "https://trakt.tv/shows/star-wars-the-clone-wars/seasons/4",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-12745",
+      externalLink: "https://trakt.tv/shows/star-wars-the-clone-wars/seasons/4",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

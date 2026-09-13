@@ -12,7 +12,12 @@ export const eyesOfWakandaMiniseries = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-08-01",
-  externalId: "trakt-season-349341",
-  externalLink: "https://trakt.tv/shows/eyes-of-wakanda/seasons/1",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-349341",
+      externalLink: "https://trakt.tv/shows/eyes-of-wakanda/seasons/1",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

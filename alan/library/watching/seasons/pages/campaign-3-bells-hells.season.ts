@@ -12,7 +12,12 @@ export const campaign3BellsHells = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-10-22",
-  externalId: "trakt-season-275051",
-  externalLink: "https://trakt.tv/shows/critical-role/seasons/3",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-275051",
+      externalLink: "https://trakt.tv/shows/critical-role/seasons/3",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

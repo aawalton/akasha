@@ -12,7 +12,12 @@ export const parksAndRecreationSeason5 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2012-09-21",
-  externalId: "trakt-season-18968",
-  externalLink: "https://trakt.tv/shows/parks-and-recreation/seasons/5",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-18968",
+      externalLink: "https://trakt.tv/shows/parks-and-recreation/seasons/5",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

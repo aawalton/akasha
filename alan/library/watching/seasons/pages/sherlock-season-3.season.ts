@@ -12,7 +12,12 @@ export const sherlockSeason3 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-01-01",
-  externalId: "trakt-season-30837",
-  externalLink: "https://trakt.tv/shows/sherlock/seasons/3",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-30837",
+      externalLink: "https://trakt.tv/shows/sherlock/seasons/3",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

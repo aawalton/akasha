@@ -12,7 +12,12 @@ export const marvelSJessicaJonesSeason1 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2015-11-20",
-  externalId: "trakt-season-104148",
-  externalLink: "https://trakt.tv/shows/marvel-s-jessica-jones/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-104148",
+      externalLink: "https://trakt.tv/shows/marvel-s-jessica-jones/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

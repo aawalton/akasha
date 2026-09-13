@@ -12,7 +12,12 @@ export const secretInvasionMiniseries = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-06-21",
-  externalId: "trakt-season-249156",
-  externalLink: "https://trakt.tv/shows/secret-invasion/seasons/1",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-249156",
+      externalLink: "https://trakt.tv/shows/secret-invasion/seasons/1",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

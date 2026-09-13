@@ -12,7 +12,12 @@ export const criticalRoleSpecials = {
   unit: "minutes",
   status: "archived",
   publishedAt: "2014-09-16",
-  externalId: "trakt-season-114153",
-  externalLink: "https://trakt.tv/shows/critical-role/seasons/0",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-114153",
+      externalLink: "https://trakt.tv/shows/critical-role/seasons/0",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

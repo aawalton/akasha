@@ -12,7 +12,12 @@ export const galactica1980Season1 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1980-01-28",
-  externalId: "trakt-season-14578",
-  externalLink: "https://trakt.tv/shows/galactica-1980/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-14578",
+      externalLink: "https://trakt.tv/shows/galactica-1980/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

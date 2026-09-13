@@ -12,7 +12,12 @@ export const starWarsTalesOfTheJediMiniseries = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-10-26",
-  externalId: "trakt-season-295674",
-  externalLink: "https://trakt.tv/shows/star-wars-tales-of-the-jedi/seasons/1",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-295674",
+      externalLink: "https://trakt.tv/shows/star-wars-tales-of-the-jedi/seasons/1",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

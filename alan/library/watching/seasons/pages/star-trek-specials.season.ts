@@ -13,7 +13,12 @@ export const starTrekSpecials = {
   status: "archived",
   rank: "B",
   publishedAt: "1988-10-16",
-  externalId: "trakt-season-922",
-  externalLink: "https://trakt.tv/shows/star-trek/seasons/0",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-922",
+      externalLink: "https://trakt.tv/shows/star-trek/seasons/0",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

@@ -12,7 +12,12 @@ export const personOfInterestSeason5 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2016-05-04",
-  externalId: "5",
-  externalLink: "https://trakt.tv/shows/person-of-interest/seasons/5",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "5",
+      externalLink: "https://trakt.tv/shows/person-of-interest/seasons/5",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

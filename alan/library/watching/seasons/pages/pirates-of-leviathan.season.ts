@@ -12,7 +12,12 @@ export const piratesOfLeviathan = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-09-16",
-  externalId: "trakt-season-228898",
-  externalLink: "https://trakt.tv/shows/dimension-20/seasons/6",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-228898",
+      externalLink: "https://trakt.tv/shows/dimension-20/seasons/6",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

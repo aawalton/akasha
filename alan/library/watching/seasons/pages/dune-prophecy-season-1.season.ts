@@ -12,7 +12,12 @@ export const duneProphecySeason1 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-11-18",
-  externalId: "trakt-season-295399",
-  externalLink: "https://trakt.tv/shows/dune-prophecy/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-295399",
+      externalLink: "https://trakt.tv/shows/dune-prophecy/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

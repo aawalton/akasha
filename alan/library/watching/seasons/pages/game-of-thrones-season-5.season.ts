@@ -12,7 +12,12 @@ export const gameOfThronesSeason5 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2015-04-13",
-  externalId: "trakt-season-3967",
-  externalLink: "https://trakt.tv/shows/game-of-thrones/seasons/5",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-3967",
+      externalLink: "https://trakt.tv/shows/game-of-thrones/seasons/5",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

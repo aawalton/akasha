@@ -12,7 +12,12 @@ export const k9Specials = {
   unit: "minutes",
   status: "archived",
   publishedAt: "2009-07-23",
-  externalId: "trakt-season-307012",
-  externalLink: "https://trakt.tv/shows/k-9/seasons/0",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-307012",
+      externalLink: "https://trakt.tv/shows/k-9/seasons/0",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

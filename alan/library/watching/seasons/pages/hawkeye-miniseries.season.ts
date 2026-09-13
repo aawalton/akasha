@@ -12,7 +12,12 @@ export const hawkeyeMiniseries = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-24",
-  externalId: "trakt-season-239912",
-  externalLink: "https://trakt.tv/shows/hawkeye-2021/seasons/1",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-239912",
+      externalLink: "https://trakt.tv/shows/hawkeye-2021/seasons/1",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

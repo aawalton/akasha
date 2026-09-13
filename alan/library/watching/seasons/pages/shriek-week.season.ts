@@ -12,7 +12,12 @@ export const shriekWeek = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-11-11",
-  externalId: "trakt-season-280227",
-  externalLink: "https://trakt.tv/shows/dimension-20/seasons/12",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-280227",
+      externalLink: "https://trakt.tv/shows/dimension-20/seasons/12",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

@@ -12,7 +12,12 @@ export const burrowSEnd = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-10-04",
-  externalId: "trakt-season-334388",
-  externalLink: "https://trakt.tv/shows/dimension-20/seasons/20",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-334388",
+      externalLink: "https://trakt.tv/shows/dimension-20/seasons/20",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

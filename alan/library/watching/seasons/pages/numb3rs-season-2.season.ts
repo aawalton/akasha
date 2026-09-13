@@ -12,7 +12,12 @@ export const numb3rsSeason2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2005-09-24",
-  externalId: "trakt-season-1954",
-  externalLink: "https://trakt.tv/shows/numb3rs/seasons/2",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-1954",
+      externalLink: "https://trakt.tv/shows/numb3rs/seasons/2",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

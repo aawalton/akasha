@@ -12,7 +12,12 @@ export const bookFourBalance = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2014-10-04",
-  externalId: "trakt-season-91246",
-  externalLink: "https://trakt.tv/shows/the-legend-of-korra/seasons/4",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-91246",
+      externalLink: "https://trakt.tv/shows/the-legend-of-korra/seasons/4",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

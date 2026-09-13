@@ -12,7 +12,12 @@ export const ironheartMiniseries = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-06-25",
-  externalId: "trakt-season-236213",
-  externalLink: "https://trakt.tv/shows/ironheart/seasons/1",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-236213",
+      externalLink: "https://trakt.tv/shows/ironheart/seasons/1",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

@@ -12,7 +12,12 @@ export const ncisLosAngelesSeason6 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2014-09-30",
-  externalId: "trakt-season-91204",
-  externalLink: "https://trakt.tv/shows/ncis-los-angeles/seasons/6",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-91204",
+      externalLink: "https://trakt.tv/shows/ncis-los-angeles/seasons/6",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

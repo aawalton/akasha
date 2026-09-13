@@ -12,7 +12,12 @@ export const misfitsAndMagic = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-06-30",
-  externalId: "trakt-season-262218",
-  externalLink: "https://trakt.tv/shows/dimension-20/seasons/10",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-262218",
+      externalLink: "https://trakt.tv/shows/dimension-20/seasons/10",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

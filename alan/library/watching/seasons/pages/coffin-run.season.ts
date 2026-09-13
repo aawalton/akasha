@@ -12,7 +12,12 @@ export const coffinRun = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-06-08",
-  externalId: "trakt-season-297117",
-  externalLink: "https://trakt.tv/shows/dimension-20/seasons/14",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-297117",
+      externalLink: "https://trakt.tv/shows/dimension-20/seasons/14",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

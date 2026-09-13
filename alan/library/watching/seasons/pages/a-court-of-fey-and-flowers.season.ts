@@ -12,7 +12,12 @@ export const aCourtOfFeyAndFlowers = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-08-03",
-  externalId: "trakt-season-299640",
-  externalLink: "https://trakt.tv/shows/dimension-20/seasons/15",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-299640",
+      externalLink: "https://trakt.tv/shows/dimension-20/seasons/15",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

@@ -12,7 +12,12 @@ export const marvelSCloakAndDaggerSeason1 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-06-08",
-  externalId: "trakt-season-157728",
-  externalLink: "https://trakt.tv/shows/marvel-s-cloak-dagger/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-157728",
+      externalLink: "https://trakt.tv/shows/marvel-s-cloak-dagger/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

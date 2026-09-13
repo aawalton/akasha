@@ -12,7 +12,12 @@ export const eurekaSeason5 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2012-04-16",
-  externalId: "5",
-  externalLink: "https://trakt.tv/shows/eureka/seasons/5",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "5",
+      externalLink: "https://trakt.tv/shows/eureka/seasons/5",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

@@ -12,7 +12,12 @@ export const babylon5SignsAndPortents = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1994-01-27",
-  externalId: "1",
-  externalLink: "https://trakt.tv/shows/babylon-5/seasons/1",
-  lastSyncedAt: "2025-12-20",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "1",
+      externalLink: "https://trakt.tv/shows/babylon-5/seasons/1",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
 } as const satisfies Season

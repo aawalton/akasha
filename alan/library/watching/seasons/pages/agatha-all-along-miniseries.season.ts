@@ -12,7 +12,12 @@ export const agathaAllAlongMiniseries = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-09-19",
-  externalId: "trakt-season-279651",
-  externalLink: "https://trakt.tv/shows/agatha-all-along/seasons/1",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-279651",
+      externalLink: "https://trakt.tv/shows/agatha-all-along/seasons/1",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

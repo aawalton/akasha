@@ -12,7 +12,12 @@ export const fantasyHighSophomoreYear = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2019-10-16",
-  externalId: "trakt-season-233897",
-  externalLink: "https://trakt.tv/shows/dimension-20/seasons/7",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-233897",
+      externalLink: "https://trakt.tv/shows/dimension-20/seasons/7",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

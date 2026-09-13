@@ -12,7 +12,12 @@ export const aStarstruckOdyssey = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-01-13",
-  externalId: "trakt-season-284359",
-  externalLink: "https://trakt.tv/shows/dimension-20/seasons/13",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-284359",
+      externalLink: "https://trakt.tv/shows/dimension-20/seasons/13",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

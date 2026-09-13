@@ -12,7 +12,12 @@ export const starTrekLowerDecksSpecials = {
   unit: "minutes",
   status: "archived",
   publishedAt: "2020-07-23",
-  externalId: "trakt-season-225178",
-  externalLink: "https://trakt.tv/shows/star-trek-lower-decks/seasons/0",
-  lastSyncedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-225178",
+      externalLink: "https://trakt.tv/shows/star-trek-lower-decks/seasons/0",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
 } as const satisfies Season

@@ -12,7 +12,12 @@ export const book2Sky = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2019-02-15",
-  externalId: "trakt-season-173441",
-  externalLink: "https://trakt.tv/shows/the-dragon-prince/seasons/2",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-173441",
+      externalLink: "https://trakt.tv/shows/the-dragon-prince/seasons/2",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

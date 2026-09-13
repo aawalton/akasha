@@ -12,7 +12,12 @@ export const downtonAbbeySeason1 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2010-09-26",
-  externalId: "trakt-season-45534",
-  externalLink: "https://trakt.tv/shows/downton-abbey/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-45534",
+      externalLink: "https://trakt.tv/shows/downton-abbey/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

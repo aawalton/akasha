@@ -12,7 +12,12 @@ export const criminalMindsSeason8 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2012-09-26",
-  externalId: "8",
-  externalLink: "https://trakt.tv/shows/criminal-minds/seasons/8",
-  lastSyncedAt: "2025-12-08",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "8",
+      externalLink: "https://trakt.tv/shows/criminal-minds/seasons/8",
+      lastSyncedAt: "2025-12-08",
+    },
+  ],
 } as const satisfies Season

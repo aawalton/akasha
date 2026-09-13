@@ -12,7 +12,12 @@ export const ruriRocksSpecials = {
   unit: "minutes",
   status: "archived",
   publishedAt: "2025-07-10",
-  externalId: "0",
-  externalLink: "https://trakt.tv/shows/ruri-rocks/seasons/0",
-  lastSyncedAt: "2025-11-30",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "0",
+      externalLink: "https://trakt.tv/shows/ruri-rocks/seasons/0",
+      lastSyncedAt: "2025-11-30",
+    },
+  ],
 } as const satisfies Season

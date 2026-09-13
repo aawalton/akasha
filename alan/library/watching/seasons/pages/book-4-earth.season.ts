@@ -12,7 +12,12 @@ export const book4Earth = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-11-03",
-  externalId: "trakt-season-303508",
-  externalLink: "https://trakt.tv/shows/the-dragon-prince/seasons/4",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-303508",
+      externalLink: "https://trakt.tv/shows/the-dragon-prince/seasons/4",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

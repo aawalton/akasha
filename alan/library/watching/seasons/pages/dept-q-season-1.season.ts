@@ -12,7 +12,12 @@ export const deptQSeason1 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-05-29",
-  externalId: "trakt-season-361813",
-  externalLink: "https://trakt.tv/shows/dept-q/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-361813",
+      externalLink: "https://trakt.tv/shows/dept-q/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season
