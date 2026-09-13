@@ -86,5 +86,22 @@ export const jsonEntries = {
       invariantKind: "absence",
       statement: "Nothing here rewrites a body.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A body of entries is read one entry to a line.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key named goes from every entry of a body of entries that states it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line holding nothing but space is passed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A passage over an entry is placed against the whole body rather than its own line.",
+    },
   ],
 } as const satisfies Module

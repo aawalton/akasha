@@ -1,6 +1,8 @@
 import type { Splice } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import ts from "typescript"
 
+const LINE = "\n"
+
 export function objectOf(source: ts.JsonSourceFile): ts.ObjectLiteralExpression | null {
   const first = source.statements[0]
   if (first === undefined || !ts.isExpressionStatement(first)) return null
@@ -99,4 +101,20 @@ export function keysGoingIn(
 ): readonly Splice[] {
   const held = objectOf(ts.parseJsonText(at, text))
   return held === null ? [] : goneFrom(text, held, dropping)
+}
+
+export function keysGoingInEntries(
+  at: string,
+  text: string,
+  dropping: ReadonlySet<string>
+): readonly Splice[] {
+  const found: Splice[] = []
+  let from = 0
+  for (const line of text.split(LINE)) {
+    for (const one of line.trim() === "" ? [] : keysGoingIn(at, line, dropping)) {
+      found.push({ from: from + one.from, to: from + one.to, put: one.put })
+    }
+    from = from + line.length + LINE.length
+  }
+  return found
 }
