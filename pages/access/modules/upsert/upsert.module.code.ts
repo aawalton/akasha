@@ -1,4 +1,5 @@
 import { upsertFilePage } from "akasha/pages/access/modules/file-write/file-write.module.code.ts"
+import { upsertFilePages } from "akasha/pages/access/modules/file-write-many/file-write-many.module.code.ts"
 import {
   enforcePipelineScope,
   rejectDefinitionTier,
@@ -83,20 +84,11 @@ export async function upsertPages<T extends Record<string, unknown> = Record<str
   }
   await requireFileBacked("upsertPages", args.pageTypeSlug)
   if (writesOverServer()) return asPageList(await overServer("upsertPages", args))
-  const landed: Page[] = []
-  for (const item of args.items) {
-    const { page } = await upsertFilePage(
-      {
-        pageTypeSlug: args.pageTypeSlug,
-        where: item.where,
-        set: item.set,
-        select: args.select,
-      },
-      "upsertPages"
-    )
-    landed.push(page)
-  }
-  return landed
+  return await upsertFilePages({
+    pageTypeSlug: args.pageTypeSlug,
+    items: args.items.map((item) => ({ where: item.where, set: item.set })),
+    ...(args.select === undefined ? {} : { select: args.select }),
+  })
 }
 
 export async function bulkUpsertPages<T extends Record<string, unknown> = Record<string, Json>>(

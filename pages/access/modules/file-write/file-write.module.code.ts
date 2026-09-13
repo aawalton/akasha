@@ -45,7 +45,7 @@ export type FileWriteDeps = {
   readonly write: (asked: Writing) => Promise<Wrote>
 }
 
-const LIVE: FileWriteDeps = {
+export const LIVE: FileWriteDeps = {
   ask: (query) => askingFor(query),
   read: (sought) => readingFor(sought),
   write: (asked) => writingFor(asked),
@@ -77,7 +77,7 @@ export function refuseJsonPatch(op: string, pageTypeSlug: string, patch: unknown
   )
 }
 
-async function rowsMatching(
+export async function rowsMatching(
   op: string,
   pageTypeSlug: string,
   where: PageWhere,
@@ -115,7 +115,7 @@ export function slugsOf(op: string, pageTypeSlug: string, rows: readonly Row[]):
   return slugs
 }
 
-function refuseTooMany(
+export function refuseTooMany(
   op: string,
   pageTypeSlug: string,
   slugs: readonly string[],
@@ -127,9 +127,9 @@ function refuseTooMany(
   )
 }
 
-type Naming = NonNullable<Writing["pages"]>[number]
+export type Naming = NonNullable<Writing["pages"]>[number]
 
-async function landed(
+export async function landed(
   op: string,
   pageTypeSlug: string,
   writer: string | undefined,
@@ -150,7 +150,7 @@ async function landed(
   }
 }
 
-async function readBack(
+export async function readBack(
   op: string,
   pageTypeSlug: string,
   slugs: readonly string[],
@@ -171,7 +171,7 @@ async function readBack(
   return asked.rows.map((row) => asPage({ ...row, pageTypeSlug }))
 }
 
-function valuesFor(input: Readonly<Record<string, unknown>>): Record<string, unknown> {
+export function valuesFor(input: Readonly<Record<string, unknown>>): Record<string, unknown> {
   const out: Record<string, unknown> = {}
   for (const [key, value] of Object.entries(input)) {
     if (value === undefined) continue
