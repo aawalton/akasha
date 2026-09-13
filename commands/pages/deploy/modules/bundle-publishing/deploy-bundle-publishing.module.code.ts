@@ -5,7 +5,7 @@ import { landedMechanically } from "akasha/changes/runners/pages/mechanical-chan
 import { shapeOf } from "akasha/pages/indexes/modules/property-shaping/property-shaping.module.code.ts"
 import {
   listedAt,
-  valuesByPath,
+  valueByPath,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   ARCHIVE_NAME,
@@ -56,8 +56,8 @@ export type Published = {
 function tagFileFor(root: string, slug: string): string | null {
   const app = listedAt(root, ROUTER_APP, slug)[0]
   if (app === undefined) return null
-  const stated = valuesByPath(root, ROUTER_APP).get(app.path)
-  if (stated === undefined || stated[IMAGE_KEY] === undefined) return null
+  const stated = valueByPath(root, app.path)
+  if (stated === null || stated[IMAGE_KEY] === undefined) return null
   const filed = shapeOf(root, `${CODE_FILE_PROPERTY}/${IMAGE_SLUG}`)
   const named = "refused" in filed ? null : filed.shape.fileName
   return named === null ? null : join(dirname(app.path), named)
