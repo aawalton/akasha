@@ -8,24 +8,15 @@ import {
   logError,
   toError,
 } from "akasha/alan/collections/great-courses/modules/sync-outcome/sync-outcome.module.code.ts"
+import {
+  daysAgoYYYYMMDD,
+  todayYYYYMMDD,
+} from "akasha/utils/sync/modules/today/today.module.code.ts"
 
 const GREAT_COURSES_COLLECTION_SLUG = "great-courses-collection"
 const ROOT_TIMER_TITLE = "The Great Courses"
 const SYNC_INTERVAL_DAYS = 30
 const SOURCE = "the-great-courses"
-
-function todayYYYYMMDD(): string {
-  return daysAgoYYYYMMDD(0)
-}
-
-function daysAgoYYYYMMDD(days: number): string {
-  const now = new Date()
-  now.setUTCDate(now.getUTCDate() - days)
-  const y = now.getUTCFullYear()
-  const m = String(now.getUTCMonth() + 1).padStart(2, "0")
-  const d = String(now.getUTCDate()).padStart(2, "0")
-  return `${y}-${m}-${d}`
-}
 
 export async function shouldRunGreatCoursesSync(): Promise<boolean> {
   try {
