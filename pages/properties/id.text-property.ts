@@ -9,7 +9,7 @@ export const id = {
   maxLength: 36,
   nameFormat: "name-format/lower-uuid",
   unique: "page",
-  generator: "uuid-v7",
+  generator: "generator-kind/uuid-v7",
   invariants: [
     {
       invariantKind: "departure",
