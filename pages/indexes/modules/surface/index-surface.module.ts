@@ -55,6 +55,11 @@ export const indexSurface = {
       statement: "An entry file is read at the first ask and one copy of it is held.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A directory is listed at the first ask and that listing is held for that reading.",
+    },
+    {
       invariantKind: "absence",
       statement: "No entry file is held in more than one copy.",
     },

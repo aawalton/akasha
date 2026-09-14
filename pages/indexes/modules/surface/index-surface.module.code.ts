@@ -99,19 +99,28 @@ function linesOf(at: string): readonly string[] {
   return lines
 }
 
+function childrenAt(index: string, at: string): readonly Child[] {
+  try {
+    return readdirSync(join(index, at), { withFileTypes: true }).map((one) => ({
+      name: one.name,
+      directory: one.isDirectory(),
+    }))
+  } catch {
+    return []
+  }
+}
+
 function readingOver(index: string, repo: string | null, holds: (at: string) => boolean): Reading {
   const held = new Map<string, readonly string[]>()
+  const listed = new Map<string, readonly Child[]>()
   const reading: Reading = {
     holds,
     listing: (at) => {
-      try {
-        return readdirSync(join(index, at), { withFileTypes: true }).map((one) => ({
-          name: one.name,
-          directory: one.isDirectory(),
-        }))
-      } catch {
-        return []
-      }
+      const found = listed.get(at)
+      if (found !== undefined) return found
+      const made = childrenAt(index, at)
+      listed.set(at, made)
+      return made
     },
     lines: (at) => {
       const found = held.get(at)
