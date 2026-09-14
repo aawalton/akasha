@@ -18,8 +18,6 @@ export const haremHotel = {
   tone: "Warm, playful, charged — a place you live, not a tower you endure. The name is cheeky; the machine underneath is serious. Combat is real and can kill. Intimacy is explicit when earned, plain-register, never rushed. The mystery of the place is real and behaves as if it has a logic you cannot yet see.",
   readerFraming:
     "Second person, present tense. You are yourself, Alan, arrived at the bottom of the Harem Hotel with no memory of arriving.",
-  maintainsLore: true,
-  maintainsDesign: true,
   genre: ["litrpg", "adventure", "progression"],
   config: "json",
   displayConfig: "json",

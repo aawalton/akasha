@@ -13,13 +13,10 @@ import type { GameEngine } from "akasha/story/games/properties/game-engine.text-
 import type { Genre } from "akasha/story/games/properties/genre.text-property.types.ts"
 import type { GmContext } from "akasha/story/games/properties/gm-context.file-property.types.ts"
 import type { LoreEntries } from "akasha/story/games/properties/lore-entries.file-property.types.ts"
-import type { MaintainsDesign } from "akasha/story/games/properties/maintains-design.boolean-property.types.ts"
-import type { MaintainsLore } from "akasha/story/games/properties/maintains-lore.boolean-property.types.ts"
 import type { MechanicsWeight } from "akasha/story/games/properties/mechanics-weight.select-property.types.ts"
 import type { NarrativeContinuity } from "akasha/story/games/properties/narrative-continuity.file-property.types.ts"
 import type { Premise } from "akasha/story/games/properties/premise.text-property.types.ts"
 import type { ReaderFraming } from "akasha/story/games/properties/reader-framing.text-property.types.ts"
-import type { RequiresPerTurnGate } from "akasha/story/games/properties/requires-per-turn-gate.boolean-property.types.ts"
 import type { Resolution } from "akasha/story/games/properties/resolution.select-property.types.ts"
 import type { ResolutionMechanism } from "akasha/story/games/properties/resolution-mechanism.file-property.types.ts"
 import type { Rolls } from "akasha/story/games/properties/rolls.file-property.types.ts"
@@ -45,9 +42,6 @@ export type Game = Collection & {
   readerFraming?: ReaderFraming
   genre?: Genre
   themes?: Themes
-  maintainsLore?: MaintainsLore
-  maintainsDesign?: MaintainsDesign
-  requiresPerTurnGate?: RequiresPerTurnGate
   config?: Config
   displayConfig?: DisplayConfig
   gmContext?: GmContext
