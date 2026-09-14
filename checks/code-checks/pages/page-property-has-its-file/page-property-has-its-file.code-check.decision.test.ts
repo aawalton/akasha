@@ -31,7 +31,7 @@ const judged = judgingBy(refusalsOver)
 function touched(change: Change, pageTypes: ReadonlySet<string>): readonly string[] {
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
-  return pagesTouchedBy(change, pageTypes, cast.shadow.index)
+  return pagesTouchedBy(change, pageTypes, cast.shadow)
 }
 
 test("a page whose stated code file stands in the change is let through", () => {

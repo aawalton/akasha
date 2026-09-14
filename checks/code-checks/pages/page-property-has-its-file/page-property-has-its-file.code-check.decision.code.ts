@@ -1,7 +1,6 @@
 import { dirname, join } from "node:path"
 import { textIn } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
 import type {
   FilePropertiesBy,
   UncommittedBy,
@@ -11,7 +10,6 @@ import {
   filesClaimedIn,
   type Listing,
 } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
-import { filesIn } from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { pageNamed, typeSlugIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
@@ -22,11 +20,11 @@ const TS = ".ts"
 export function pagesTouchedBy(
   change: Change,
   pageTypes: ReadonlySet<string>,
-  index: Answering
+  shadow: Shadow
 ): readonly string[] {
-  const listing: Listing = (folder) => filesIn(change.root, folder)
-  const fileProperties = index.filePropertiesAt()
-  const folders = index.folderPropertiesAt()
+  const listing: Listing = (folder) => shadow.listed(folder)
+  const fileProperties = shadow.index.filePropertiesAt()
+  const folders = shadow.index.folderPropertiesAt()
   const kinds = new Set(pageTypes)
   for (const path of change.changed) {
     const slug = typeSlugIn(path)
@@ -99,7 +97,7 @@ export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] 
   const filedBy = shadow.index.filePropertiesAt()
   const withheld = shadow.index.uncommittedFiledAt()
   const said: Judged[] = []
-  for (const page of pagesTouchedBy(change, pageTypes, shadow.index)) {
+  for (const page of pagesTouchedBy(change, pageTypes, shadow)) {
     said.push(...missingFor(change, page, fileProperties, filedBy, withheld))
   }
   return said
