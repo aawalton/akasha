@@ -1,5 +1,7 @@
 import { ref } from "akasha/commands/arguments/pages/ref.argument.ts"
 import { deploy } from "akasha/commands/pages/deploy/deploy.command.ts"
+import { index } from "akasha/commands/pages/index/index.namespace.ts"
+import { indexRefresh } from "akasha/commands/pages/index/refresh/index-refresh.command.ts"
 import {
   type ApiObjectManifest,
   synthOne,
@@ -55,6 +57,7 @@ export function scriptFor(given: string | Reading, subject: string, commit: stri
     `git fetch -q --depth 1 origin ${commit}`,
     "git checkout -q FETCH_HEAD",
     "bun install --frozen-lockfile",
+    `bun ${dispatcherIn(given)} ${index.name} ${indexRefresh.name}`,
     `bun ${dispatcherIn(given)} ${deploy.name} ${subject} ${ref.said} ${commit}`,
   ].join("\n")
 }

@@ -35,6 +35,10 @@ export const deployJob = {
     },
     {
       invariantKind: "departure",
+      statement: "A job builds the part of the index git does not carry before it reads a page.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A job runs in the image a pipeline's own steps run in.",
     },
     {
