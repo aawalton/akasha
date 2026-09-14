@@ -46,6 +46,7 @@ export interface Seen {
   readonly runningOwn: ReadonlySet<string>
   readonly endedOwn: ReadonlySet<string>
   readonly outlivedOwn: ReadonlySet<string>
+  readonly stoppedPaths: ReadonlySet<string>
 }
 
 export interface Judged {
@@ -128,7 +129,8 @@ export function seenIn(
   baseDir?: string,
   runningOwn: ReadonlySet<string> = new Set(),
   endedOwn: ReadonlySet<string> = new Set(),
-  outlivedOwn: ReadonlySet<string> = new Set()
+  outlivedOwn: ReadonlySet<string> = new Set(),
+  stoppedPaths: ReadonlySet<string> = new Set()
 ): Seen {
   return {
     seatPids: pidsByAgentId(entries),
@@ -137,6 +139,7 @@ export function seenIn(
     runningOwn,
     endedOwn,
     outlivedOwn,
+    stoppedPaths,
   }
 }
 
@@ -167,6 +170,14 @@ function judgedOne(page: SubagentPage, seen: Seen): Judged {
       verdict: STALE,
       pids,
       why: "its seat's transcript names it as a subagent that started and returned",
+    }
+  }
+  if (seen.stoppedPaths.has(page.path)) {
+    return {
+      page,
+      verdict: STALE,
+      pids,
+      why: "it was stopped from the agents panel, and a subagent stopped does no further work whether or not it ever asks for another turn",
     }
   }
   if (page.agentId === "" || page.seatId === "") {

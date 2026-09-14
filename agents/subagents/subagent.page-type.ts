@@ -220,7 +220,27 @@ export const subagent = {
     },
     {
       invariantKind: "departure",
+      statement: "A subagent that asks for no further turn has its page taken by the sweep.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The sweep judges a stopped page stale on the stop rather than on a reading.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stopped subagent a live process acts under keeps its page until that ends.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "No service runs that sweep, so such a page waits on somebody running it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A stop outlives the page that stop was written beside.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A stop outlives that page only in the proxy that had already read the stop.",
     },
   ],
   types: "ts",

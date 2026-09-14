@@ -10,6 +10,7 @@ import {
   seatEditsAt,
   seatRefusalsAt,
 } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
+import { subagentStopped } from "akasha/agents/subagents/properties/subagent-stopped.boolean-property.ts"
 import {
   EXIT,
   OperationalError,
@@ -25,6 +26,7 @@ import {
   type Landing,
   type RunningSaid,
   type SeatTranscripts,
+  TAKE,
 } from "akasha/commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
@@ -32,6 +34,7 @@ import {
   valueAlsoFiled,
 } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import { refreshedIn } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { mergeUncommitted } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 import { declaringUnder } from "akasha/testing-system/test-fixtures/declaring/declaring.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import {
@@ -145,6 +148,60 @@ export function editsBeside(root: string, page: string): string {
   if (at === null) throw new Error(`${page} keeps no edits`)
   writing(root, at, ROW)
   return at
+}
+
+function stopPut(root: string, page: string): undefined {
+  mergeUncommitted(root, page, { [subagentStopped.propertySlug]: true })
+  return undefined
+}
+
+function stoppedWorld(): { root: string; base: string; at: string } {
+  const held = worldWith()
+  stopPut(held.root, held.at)
+  return held
+}
+
+export async function stoppedGoes(): Promise<undefined> {
+  const { root, base, at } = stoppedWorld()
+  const held = landings()
+  const said = await removing(root, base, ALIVE, saying([]), held.landing)
+  reportSays(said, "0 working, 1 stale, 0 undetermined", "stopped from the agents panel")
+  expect(held.asked()).toEqual([[{ at: TAKE, given: { at } }]])
+  expect(held.said().join("\n")).toContain("stopped from the agents panel")
+  return undefined
+}
+
+export async function stoppedStays(
+  seen: readonly ProcLivenessEntry[],
+  own: readonly string[]
+): Promise<undefined> {
+  const { root, base, at } = stoppedWorld()
+  const held = landings()
+  const said = await removing(root, base, seen, saying(own), held.landing)
+  reportSays(said, "1 working, 0 stale, 0 undetermined")
+  expect(held.asked()).toEqual([])
+  expect(there(root, at)).toBe(true)
+  return undefined
+}
+
+export async function refusedEachWord(
+  root: string,
+  base: string,
+  held: Landings
+): Promise<undefined> {
+  for (const word of ["--all", "--force", pathOf("akasha", OWN)]) {
+    const said = await agentSubagentSweep(
+      [word],
+      givenIn(root),
+      GONE,
+      base,
+      saying([]),
+      held.landing
+    )
+    expect(said.code).toBe(1)
+    expect(said.refusals.join("\n")).toContain(`\`${word}\` is no argument`)
+  }
+  return undefined
 }
 
 export function refusalBeside(root: string, page: string): undefined {

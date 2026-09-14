@@ -27,10 +27,10 @@ import {
   node,
   OWN,
   oneWaiting,
-  pathOf,
   REFUSAL,
   reading,
   refusalBeside,
+  refusedEachWord,
   refusedRemoving,
   removing,
   reported,
@@ -38,6 +38,8 @@ import {
   SEAT_ID,
   saying,
   seatFiled,
+  stoppedGoes,
+  stoppedStays,
   THREW_AFTER,
   THROWN,
   THROWS,
@@ -152,18 +154,7 @@ test("a landing that refused leaves the census reported and the page where it is
 test("a word this takes no flag for refuses the whole run and reaches no landing", async () => {
   const { root, base, at } = worldWith()
   const held = landings()
-  for (const word of ["--all", "--force", pathOf("akasha", OWN)]) {
-    const said = await agentSubagentSweep(
-      [word],
-      givenIn(root),
-      GONE,
-      base,
-      saying([]),
-      held.landing
-    )
-    expect(said.code).toBe(1)
-    expect(said.refusals.join("\n")).toContain(`\`${word}\` is no argument`)
-  }
+  await refusedEachWord(root, base, held)
   expect(held.asked()).toEqual([])
   expect(there(root, at)).toBe(true)
   world.sweep()
@@ -396,6 +387,17 @@ test("a run whose landing threw part way names in its refusal what it had moved"
   const last = said.refusals[said.refusals.length - 1] as string
   expect(last).toContain(unlandedBy("thea", OWN))
   expect(last).toContain(unlandedBy("thea", AGAIN))
+  world.sweep()
+})
+
+test("a page stopped from the agents panel is stale and goes on a run told to remove", async () => {
+  await stoppedGoes()
+  world.sweep()
+})
+
+test("a stopped page anything reads as working stays and is named to no landing", async () => {
+  await stoppedStays(ACTS, [])
+  await stoppedStays(ALIVE, [OWN])
   world.sweep()
 })
 

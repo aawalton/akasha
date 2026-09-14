@@ -77,6 +77,30 @@ export const subagentCensus = {
     },
     {
       invariantKind: "departure",
+      statement: "A page stopped from the agents panel reads as stale.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stop is weighed after every reading of life and every reading of an end.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No stop makes a page working, and no stop makes a working page stale.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stop settles a page that no other evidence settles.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The stops are handed in rather than read off disk here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stop names the page it was written beside rather than an id.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A take-down the seat's log says was refused reads its page as stale.",
     },
     {

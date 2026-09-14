@@ -30,6 +30,18 @@ export const agentSubagentSweep = {
     },
     {
       invariantKind: "departure",
+      statement: "A page is stale where it was stopped from the agents panel.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The stop beside each page is read off disk here and handed to the census.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No stop makes a page removable that a live process acts under.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page is stale where its seat's transcript saw it start and return.",
     },
     {

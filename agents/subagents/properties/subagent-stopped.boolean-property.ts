@@ -29,6 +29,14 @@ export const subagentStopped = {
     },
     {
       invariantKind: "departure",
+      statement: "A stop outlives that restart only while the page it is beside is there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stop written here reads the subagent's page as stale to the sweep.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A stop written here goes with the subagent's page.",
     },
   ],

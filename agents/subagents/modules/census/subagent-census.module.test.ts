@@ -305,3 +305,58 @@ test("a page working by its acting agent id is working whatever the transcript s
   }
   world.sweep()
 })
+
+function judgedStopped(
+  root: string,
+  entries: Parameters<typeof seenIn>[0],
+  baseDir: string,
+  stopped: readonly string[]
+) {
+  const seen = seenIn(entries, baseDir, new Set(), new Set(), new Set(), new Set(stopped))
+  return judgedOver(pagesIn(root), seen)
+}
+
+const WAITING = [entry({ agentId: SEAT_ID, cmdline: CHILD, pid: 9 })]
+
+test("a page stopped from the agents panel is stale though its seat is at work", () => {
+  const root = rooted()
+  const base = world.rootFor("subagent-census-logs-")
+  const at = pagesIn(root)[0]?.path ?? ""
+  expect(judgedStopped(root, WAITING, base, [])[0]?.verdict).toBe(UNDETERMINED)
+  const judged = judgedStopped(root, WAITING, base, [at])
+  expect(judged[0]?.verdict).toBe(STALE)
+  expect(judged[0]?.why).toContain("stopped from the agents panel")
+  world.sweep()
+})
+
+test("a page a live process acts under is working though it was stopped", () => {
+  const root = rooted()
+  const base = world.rootFor("subagent-census-logs-")
+  const at = pagesIn(root)[0]?.path ?? ""
+  const seen = [entry({ agentId: SEAT_ID, actingAgentId: ACTING, cmdline: TASK, pid: 41 })]
+  const judged = judgedStopped(root, seen, base, [at])
+  expect(judged[0]?.verdict).toBe(WORKING)
+  expect(judged[0]?.why).toBe("a live process acts under this agent id")
+  world.sweep()
+})
+
+test("a page its seat's transcript names as running is working though it was stopped", () => {
+  const root = rooted()
+  const base = world.rootFor("subagent-census-logs-")
+  const at = pagesIn(root)[0]?.path ?? ""
+  const seen = seenIn(WAITING, base, new Set([OWN]), new Set(), new Set(), new Set([at]))
+  const judged = judgedOver(pagesIn(root), seen)
+  expect(judged[0]?.verdict).toBe(WORKING)
+  expect(judged[0]?.why).toContain("its seat's transcript names it")
+  world.sweep()
+})
+
+test("a stop against another page's path leaves this page judged as it was", () => {
+  const root = rooted()
+  const base = world.rootFor("subagent-census-logs-")
+  const bare = judgedStopped(root, WAITING, base, [])
+  const said = judgedStopped(root, WAITING, base, ["agents/elsewhere/other.subagent.ts"])
+  expect(said[0]?.verdict).toBe(bare[0]?.verdict)
+  expect(said[0]?.why).toBe(bare[0]?.why)
+  world.sweep()
+})

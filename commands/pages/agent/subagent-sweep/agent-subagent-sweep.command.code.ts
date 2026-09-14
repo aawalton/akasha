@@ -28,6 +28,7 @@ import {
 import {
   leftWhereItIs,
   seatPageIn,
+  stoppedBeside,
 } from "akasha/agents/subagents/modules/presence/subagent-presence.module.code.ts"
 import {
   droppedFor,
@@ -159,6 +160,12 @@ async function transcriptsSay(pages: readonly SubagentPage[]): Promise<OwnIds> {
   )
 }
 
+export function stoppedAmong(root: string, pages: readonly SubagentPage[]): ReadonlySet<string> {
+  const held = new Set<string>()
+  for (const one of pages) if (stoppedBeside(root, one.path)) held.add(one.path)
+  return held
+}
+
 function heldBack(calledAs: string, stale: number): readonly string[] {
   return [
     "",
@@ -276,7 +283,10 @@ export async function agentSubagentSweep(
   } catch {
     own = NO_OWN_IDS
   }
-  const judged = judgedOver(pages, seenIn(entries, baseDir, own.running, own.ended, own.outlived))
+  const judged = judgedOver(
+    pages,
+    seenIn(entries, baseDir, own.running, own.ended, own.outlived, stoppedAmong(root, pages))
+  )
   const census = censusOf(judged)
   const { going, left } = partedStale(root, staleAmong(judged))
   const kept = keptSaid(left)
