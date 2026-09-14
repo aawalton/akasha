@@ -13,7 +13,7 @@ const SheetEntryStandardSchema = z
   .strict()
 export type SheetEntryStandard = z.infer<typeof SheetEntryStandardSchema>
 
-export const SheetEntryTemplateSchema = z
+const SheetEntryTemplateSchema = z
   .object({
     standards: z.array(SheetEntryStandardSchema).default([]),
   })

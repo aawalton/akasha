@@ -60,7 +60,7 @@ export type RollRecord = z.infer<typeof RollRecordSchema>
 
 export type RollRecordHashable = Omit<RollRecord, "hash" | "kind">
 
-export const ResolutionMechanismSchema = z
+const ResolutionMechanismSchema = z
   .object({
     verb: z.string(),
     defaultDice: z.string().optional(),

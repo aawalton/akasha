@@ -43,7 +43,7 @@ const FrameMapEntrySchema = z
   .strict()
 export type FrameMapEntry = z.infer<typeof FrameMapEntrySchema>
 
-export const NarrativeContinuitySchema = z
+const NarrativeContinuitySchema = z
   .object({
     narration: NarrationSchema,
     frames: z.array(FrameSchema).default([]),

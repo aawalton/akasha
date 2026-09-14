@@ -3,15 +3,15 @@ import { RevealKeySchema } from "akasha/story/engine/core/modules/revealed/revea
 import { z } from "zod"
 
 const MECHANICS_WEIGHTS = ["zero", "light", "medium", "heavy"] as const
-export const MechanicsWeightSchema = z.enum(MECHANICS_WEIGHTS)
+const MechanicsWeightSchema = z.enum(MECHANICS_WEIGHTS)
 export type MechanicsWeight = z.infer<typeof MechanicsWeightSchema>
 
 const CONTROLLED_ENTITY_KINDS = ["single", "party", "dungeon", "nation"] as const
-export const ControlledEntityKindSchema = z.enum(CONTROLLED_ENTITY_KINDS)
+const ControlledEntityKindSchema = z.enum(CONTROLLED_ENTITY_KINDS)
 export type ControlledEntityKind = z.infer<typeof ControlledEntityKindSchema>
 
 const RESOLUTIONS = ["none", "dice", "formula", "resource", "hybrid"] as const
-export const ResolutionSchema = z.enum(RESOLUTIONS)
+const ResolutionSchema = z.enum(RESOLUTIONS)
 export type Resolution = z.infer<typeof ResolutionSchema>
 
 const GAME_GENRES = [
@@ -26,10 +26,10 @@ const GAME_GENRES = [
   "dark",
   "adventure",
 ] as const
-export const GameGenreSchema = z.enum(GAME_GENRES)
+const GameGenreSchema = z.enum(GAME_GENRES)
 export type GameGenre = z.infer<typeof GameGenreSchema>
 
-export const GameRulebookSchema = z
+const GameRulebookSchema = z
   .object({
     systemType: z.string().optional(),
     summary: z.string().optional(),
@@ -161,5 +161,5 @@ export function resolveAlertPrefs(alerts: GameAlerts | undefined): ResolvedAlert
   }
 }
 
-export const GameConfigSchema = z.object({}).passthrough()
+const GameConfigSchema = z.object({}).passthrough()
 export type GameConfig = z.infer<typeof GameConfigSchema>
