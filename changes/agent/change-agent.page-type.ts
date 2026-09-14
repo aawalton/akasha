@@ -15,6 +15,10 @@ export const changeAgent = {
     "domain/change-agent-page-type",
     "domain/change-agent-prose",
   ],
+  properties: [
+    { pageProperty: "number-property/change-max-cpu-seconds", required: true, many: false },
+    { pageProperty: "number-property/change-max-memory-mb", required: true, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",
