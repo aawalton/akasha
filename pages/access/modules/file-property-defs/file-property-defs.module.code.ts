@@ -127,7 +127,7 @@ function definitionOf(one: Declaration): PropertyDefinition {
     key: one.key,
     title: one.title,
     type: one.renderedAs ?? renderedType(one.type),
-    drawnBy: one.drawnBy,
+    ...(one.renderedAs === null ? { drawnBy: one.drawnBy } : {}),
     pageId: one.pageId,
     ...(stated ? { config } : {}),
   }
