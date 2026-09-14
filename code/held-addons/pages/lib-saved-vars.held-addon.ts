@@ -5,7 +5,7 @@ export const libSavedVars = {
   type: "held-addon",
   slug: "lib-saved-vars",
   addonName: "LibSavedVars",
-  esoAddon: "temper-lib-saved-vars",
+  esoAddon: "eso-addon/temper-lib-saved-vars",
   addonKind: "library",
   heldBy: 13238,
   adjacents: ["held-addon/temper-navigation", "held-addon/temper-collections"],

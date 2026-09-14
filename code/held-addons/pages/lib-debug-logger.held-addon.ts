@@ -5,7 +5,7 @@ export const libDebugLogger = {
   type: "held-addon",
   slug: "lib-debug-logger",
   addonName: "LibDebugLogger",
-  esoAddon: "temper-lib-debug-logger",
+  esoAddon: "eso-addon/temper-lib-debug-logger",
   addonKind: "library",
   heldBy: 13215,
   adjacents: [

@@ -5,7 +5,7 @@ export const libScrollableMenu = {
   type: "held-addon",
   slug: "lib-scrollable-menu",
   addonName: "LibScrollableMenu",
-  esoAddon: "temper-lib-scrollable-menu",
+  esoAddon: "eso-addon/temper-lib-scrollable-menu",
   addonKind: "library",
   heldBy: 14478,
   tiClean: true,

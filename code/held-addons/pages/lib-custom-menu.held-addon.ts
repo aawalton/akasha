@@ -5,7 +5,7 @@ export const libCustomMenu = {
   type: "held-addon",
   slug: "lib-custom-menu",
   addonName: "LibCustomMenu",
-  esoAddon: "temper-lib-custom-menu",
+  esoAddon: "eso-addon/temper-lib-custom-menu",
   addonKind: "library",
   heldBy: 13211,
   tiClean: true,

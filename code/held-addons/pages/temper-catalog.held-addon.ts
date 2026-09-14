@@ -5,7 +5,7 @@ export const temperCatalog = {
   type: "held-addon",
   slug: "temper-catalog",
   addonName: "TemperCatalog",
-  esoAddon: "temper-catalog-addon",
+  esoAddon: "eso-addon/temper-catalog-addon",
   addonKind: "native",
   heldBy: 13034,
   adjacents: ["held-addon/temper-characters", "held-addon/temper-data-mining"],

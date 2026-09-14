@@ -5,7 +5,7 @@ export const libAsync = {
   type: "held-addon",
   slug: "lib-async",
   addonName: "LibAsync",
-  esoAddon: "temper-lib-async",
+  esoAddon: "eso-addon/temper-lib-async",
   addonKind: "library",
   heldBy: 13237,
   adjacents: ["held-addon/temper-crafting", "held-addon/temper-navigation"],

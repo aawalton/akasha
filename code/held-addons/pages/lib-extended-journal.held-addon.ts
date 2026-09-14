@@ -5,7 +5,7 @@ export const libExtendedJournal = {
   type: "held-addon",
   slug: "lib-extended-journal",
   addonName: "LibExtendedJournal",
-  esoAddon: "temper-lib-extended-journal",
+  esoAddon: "eso-addon/temper-lib-extended-journal",
   addonKind: "library",
   heldBy: 14479,
   adjacents: ["held-addon/temper-collections"],

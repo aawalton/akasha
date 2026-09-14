@@ -5,7 +5,7 @@ export const libPrice = {
   type: "held-addon",
   slug: "lib-price",
   addonName: "LibPrice",
-  esoAddon: "temper-lib-price",
+  esoAddon: "eso-addon/temper-lib-price",
   addonKind: "library",
   heldBy: 13229,
   adjacents: ["held-addon/temper-crafting"],

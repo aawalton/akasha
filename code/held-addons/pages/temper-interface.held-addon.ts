@@ -5,7 +5,7 @@ export const temperInterface = {
   type: "held-addon",
   slug: "temper-interface",
   addonName: "TemperInterface",
-  esoAddon: "temper-interface-addon",
+  esoAddon: "eso-addon/temper-interface-addon",
   addonKind: "ported",
   heldBy: 15148,
   adjacents: [

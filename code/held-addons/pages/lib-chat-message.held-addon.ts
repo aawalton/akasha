@@ -5,7 +5,7 @@ export const libChatMessage = {
   type: "held-addon",
   slug: "lib-chat-message",
   addonName: "LibChatMessage",
-  esoAddon: "temper-lib-chat-message",
+  esoAddon: "eso-addon/temper-lib-chat-message",
   addonKind: "library",
   heldBy: 13219,
   adjacents: ["held-addon/temper-crafting", "held-addon/lib-gps"],

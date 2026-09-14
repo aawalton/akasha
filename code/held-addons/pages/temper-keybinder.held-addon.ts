@@ -5,7 +5,7 @@ export const temperKeybinder = {
   type: "held-addon",
   slug: "temper-keybinder",
   addonName: "TemperKeybinder",
-  esoAddon: "temper-keybinder-addon",
+  esoAddon: "eso-addon/temper-keybinder-addon",
   addonKind: "ported",
   heldBy: 13122,
   adjacents: [
