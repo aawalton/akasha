@@ -39,10 +39,6 @@ export function classifyServerError(status: number, body: string): ServerErrorCl
   return { matched: true, reason: envelope.message ?? OVERLOADED_ERROR_TYPE }
 }
 
-export function isServerError(status: number, body: string): boolean {
-  return classifyServerError(status, body).matched
-}
-
 export function parseRetryAfterMs(header: string | null): number | null {
   if (header == null || header.trim() === "") return null
   const seconds = Number(header)

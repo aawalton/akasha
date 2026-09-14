@@ -66,10 +66,6 @@ export const serverError = {
     },
     {
       invariantKind: "departure",
-      statement: "isServerError answers the matched flag classifyServerError returns.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A `Retry-After` of whole seconds sets the backoff in milliseconds.",
     },
     {

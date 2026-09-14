@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
 import {
   classifyServerError,
-  isServerError,
   MAX_RETRY_AFTER_MS,
   OVERLOADED_ERROR_TYPE,
   OVERLOADED_REASON,
@@ -128,12 +127,6 @@ test("a status outside 429, 500, 502, 503 and 529 matches nothing", () => {
   for (const status of [200, 400, 401, 403, 404, 413, 501, 504, 599]) {
     expect(classifyServerError(status, OVERLOADED_BODY)).toEqual({ matched: false })
   }
-})
-
-test("isServerError answers the matched flag classifyServerError returns", () => {
-  expect(isServerError(503, NO_ENVELOPE)).toBe(true)
-  expect(isServerError(429, OVERLOADED_BODY)).toBe(true)
-  expect(isServerError(404, OVERLOADED_BODY)).toBe(false)
 })
 
 test("a Retry-After of whole seconds sets the backoff in milliseconds", () => {
