@@ -9,7 +9,6 @@ export const plainLanguage = {
     "module/dependency-graph",
     "module/onnx-parsing",
     "module/parse-cache",
-    "module/parse-doubt",
     "module/shape-predicate",
     "module/shape-reading",
     "module/spelt-scanning",
