@@ -10,6 +10,7 @@ import type { FiveHourPercentUsed } from "akasha/agents/claude-account/propertie
 import type { FiveHourResetsAt } from "akasha/agents/claude-account/properties/five-hour-resets-at.instant-property.types.ts"
 import type { FiveHourStartedAt } from "akasha/agents/claude-account/properties/five-hour-started-at.instant-property.types.ts"
 import type { LastWindowTriggerAt } from "akasha/agents/claude-account/properties/last-window-trigger-at.instant-property.types.ts"
+import type { Provider } from "akasha/agents/claude-account/properties/provider.relation-property.types.ts"
 import type { RateLimitTier } from "akasha/agents/claude-account/properties/rate-limit-tier.text-property.types.ts"
 import type { RefreshToken } from "akasha/agents/claude-account/properties/refresh-token.text-property.types.ts"
 import type { RenewalDay } from "akasha/agents/claude-account/properties/renewal-day.number-property.types.ts"
@@ -53,4 +54,5 @@ export type ClaudeAccount = Page & {
   effectiveFiveHourUsage?: EffectiveFiveHourUsage
   effectiveSevenDayUsage?: EffectiveSevenDayUsage
   effectiveFiveHourResetsAt?: EffectiveFiveHourResetsAt
+  provider?: Provider
 }

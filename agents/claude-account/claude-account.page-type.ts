@@ -46,6 +46,7 @@ export const claudeAccount = {
     "number-property/rescued-expires-at-ms",
     "number-property/seven-day-percent-used",
     "record-property/rescued-credential",
+    "relation-property/provider",
     "service-workstation/claude-account-upkeep-service",
     "service-workstation/claude-account-upkeep-stall",
     "text-property/access-token",
@@ -167,6 +168,7 @@ export const claudeAccount = {
       required: false,
       many: false,
     },
+    { pageProperty: "relation-property/provider", required: false, many: false },
   ],
   invariants: [
     {
