@@ -38,4 +38,5 @@ export const stateWriting = {
       statement: "Nothing here watches a file or reads a clock.",
     },
   ],
+  reachedByPath: ["statesLanded"],
 } as const satisfies Module

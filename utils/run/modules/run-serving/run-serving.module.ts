@@ -46,4 +46,5 @@ export const runServing = {
       statement: "Nothing here starts a server.",
     },
   ],
+  reachedByPath: ["serving"],
 } as const satisfies Module

@@ -6,4 +6,5 @@ export const nutritionPoints = {
   slug: "nutrition-points",
   definition: "one day's nutrition points, worked out from its plant grams and landed on the day",
   code: "ts",
+  reachedByPath: ["rollupNutritionForDay"],
 } as const satisfies Module

@@ -68,4 +68,5 @@ export const extensionEntry = {
       statement: "Nothing runs when the editor stops.",
     },
   ],
+  reachedByPath: ["activate", "deactivate"],
 } as const satisfies Module

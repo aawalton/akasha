@@ -37,4 +37,5 @@ export const carriedFile = {
       statement: "Nothing is imported here, because a container stage runs this body on its own.",
     },
   ],
+  reachedByPath: ["carriedIn"],
 } as const satisfies Module

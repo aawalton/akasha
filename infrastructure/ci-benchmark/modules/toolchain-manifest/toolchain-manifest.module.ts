@@ -12,4 +12,5 @@ export const toolchainManifest = {
       statement: "A binary is fetched at a pinned version rather than latest.",
     },
   ],
+  reachedByPath: ["CI_TOOLCHAIN_URLS"],
 } as const satisfies Module
