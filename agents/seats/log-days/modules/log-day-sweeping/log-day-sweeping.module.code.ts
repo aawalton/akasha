@@ -5,7 +5,6 @@ import { landRemovals } from "akasha/changes/modules/gated-landing/gated-landing
 import { fileStemOf } from "akasha/pages/identity/modules/file-page/file-page.module.code.ts"
 import { fileKeysAt } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import { everyOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { partUnfiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import { besideOf } from "akasha/pages/modules/beside/page-beside.module.code.ts"
 import {
   AKASHA,
@@ -70,10 +69,7 @@ export function daysIn(root: string): DaysRead {
 
 function removeLines(root: string, relPath: string): undefined {
   const keys = new Set(fileKeysAt(root).keys())
-  for (const one of besideOf(root, relPath, keys)) {
-    rmSync(join(root, one), { force: true })
-    partUnfiled(root, one)
-  }
+  for (const one of besideOf(root, relPath, keys)) rmSync(join(root, one), { force: true })
 }
 
 async function removePages(

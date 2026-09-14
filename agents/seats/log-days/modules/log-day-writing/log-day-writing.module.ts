@@ -129,15 +129,6 @@ export const logDayWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "A part a line opens is filed in the path index once that line reaches the part.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A part is filed after the line reaches the disk rather than as the part is named.",
-    },
-    {
-      invariantKind: "departure",
       statement: "One queue keeps the lines in the order the writing calls came.",
     },
     {

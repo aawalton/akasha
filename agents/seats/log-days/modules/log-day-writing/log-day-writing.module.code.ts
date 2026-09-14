@@ -6,7 +6,6 @@ import {
   listedAt,
   typeSlugOf,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { partFiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import { importedFrom, saidAs } from "akasha/pages/modules/body/page-body.module.code.ts"
 import {
   AKASHA,
@@ -260,7 +259,6 @@ export function appenderOver(
         return
       }
       const size = Buffer.byteLength(text, "utf8") + 1
-      let opened = bytes === 0
       if (bytes > 0 && bytes + size > ENTRY_CEILING) {
         const next = partAt(pagePath, part + 1)
         if (next === null) {
@@ -270,16 +268,13 @@ export function appenderOver(
         part += 1
         path = join(root, next)
         bytes = 0
-        opened = true
       }
       bytes += size
       const at = path
-      const under = pagePath
       queued = queued.then(async () => {
         if (refused !== null) return
         try {
           await appendFile(at, `${text}\n`, "utf8")
-          if (opened) partFiled(root, under, at)
         } catch (error) {
           refused = `no line reached ${at}: ${error instanceof Error ? error.message : String(error)}`
         }
