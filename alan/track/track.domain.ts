@@ -7,7 +7,6 @@ export const track = {
   definition: "what is measured about Alan",
   parts: [
     "domain/track-daily",
-    "domain/tracking-capture",
     "module/track-landing",
     "page-type/food-entry",
     "page-type/location-trace",

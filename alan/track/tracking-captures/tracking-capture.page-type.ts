@@ -7,6 +7,13 @@ export const trackingCapture = {
   definition: "how something Alan did comes to be an entry",
   pluralSlug: "tracking-captures",
   extends: ["page-type/domain"],
+  parts: [
+    "domain/tracking-capture-judgment",
+    "domain/tracking-capture-measurement",
+    "domain/tracking-capture-report",
+    "domain/tracking-capture-testimony",
+    "domain/tracking-capture-trace",
+  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -45,6 +52,14 @@ export const trackingCapture = {
     {
       invariantKind: "gap",
       statement: "Each capture is a page of this type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every tracked field states the single capture its values come of.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A capture says how a value came to exist rather than how good the value is.",
     },
   ],
   types: "ts",
