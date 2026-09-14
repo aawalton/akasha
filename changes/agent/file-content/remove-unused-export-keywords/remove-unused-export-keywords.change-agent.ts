@@ -12,6 +12,7 @@ export const removeUnusedExportKeywords = {
   test: "ts",
   changeKind: "change-checked",
   maxCpuSeconds: 30,
+  maxMemoryMb: 3072,
   invariants: [
     {
       invariantKind: "departure",
