@@ -16,9 +16,6 @@ export const olwenPagesSystemDisplay = {
         "The page page type states the components drawing any page, its chip, its row and its card.",
     },
     {
-      statement: "No registry keyed by a page type's slug picks how a page of that type is drawn.",
-    },
-    {
       statement:
         "A screen finds a page type's component by walking the types that page type extends.",
       workingMemory:

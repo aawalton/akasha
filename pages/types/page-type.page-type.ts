@@ -182,6 +182,10 @@ export const pageType = {
       invariantKind: "departure",
       statement: "A page type states the component drawing a page of that page type as a card.",
     },
+    {
+      invariantKind: "absence",
+      statement: "No registry keyed by a page type's slug picks how a page of that type is drawn.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType
