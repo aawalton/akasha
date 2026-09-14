@@ -12,15 +12,15 @@ export const moveFilePageProperty = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The move is worked out by the change this change reaches.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here judges the path handed in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A manifest naming the moved file as a way in is restated by the change reached.",
     },
   ],

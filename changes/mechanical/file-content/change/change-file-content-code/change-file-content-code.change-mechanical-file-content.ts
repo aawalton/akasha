@@ -13,20 +13,20 @@ export const changeFileContentCode = {
   guards: ["change-guard/import-reaches-a-file"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A path under no TypeScript name is refused here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The passage is worked by the change this change reaches.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The imports the body names after the change are judged by the guard this change names.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here judges the path a passage is worked at.",
     },
   ],

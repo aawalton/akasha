@@ -13,15 +13,15 @@ export const removeFilePageType = {
   guards: ["change-guard/page-type-carries-no-pages"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every file the page type keeps beside it goes by the change this change reaches.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here judges the path handed in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The pages filed under the page type are judged by the guard this change names.",
     },
   ],

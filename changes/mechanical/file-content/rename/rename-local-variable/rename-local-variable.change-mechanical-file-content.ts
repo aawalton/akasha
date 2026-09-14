@@ -12,7 +12,7 @@ export const renameLocalVariable = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The offset handed in is named `spot` rather than `at`.",
     },
   ],

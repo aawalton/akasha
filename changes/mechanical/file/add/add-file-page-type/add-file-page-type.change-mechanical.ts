@@ -14,15 +14,15 @@ export const addFilePageType = {
   guards: ["change-guard/plural-slug-not-already-held"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The body is written by the change this change reaches.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here judges the path handed in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The plural slug the body states is judged by the guard this change names.",
     },
   ],

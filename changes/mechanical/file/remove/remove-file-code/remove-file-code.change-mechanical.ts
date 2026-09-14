@@ -13,15 +13,15 @@ export const removeFileCode = {
   guards: ["change-guard/import-not-left-hanging"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The file is taken away by the change this change reaches.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The imports naming the file are judged by the guard this change names.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here judges the path a file is taken away from.",
     },
   ],
