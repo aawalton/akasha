@@ -1,6 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
 import {
   idFiled,
   listedFiled,
@@ -32,9 +30,6 @@ function typed(root: string, slug: string, above: readonly string[] | null): und
     { path, value: { id, pageTypeSlug: "page-type", slug, extends: above ?? [] } },
   ])
   for (const one of above ?? []) namedFiled(root, idOf(one), "extends-type", id, [{ path }])
-  const page = join(root, path)
-  mkdirSync(dirname(page), { recursive: true })
-  writeFileSync(page, `export const held = { slug: ${JSON.stringify(slug)} }\n`)
 }
 
 test("a page type is under itself", () => {
