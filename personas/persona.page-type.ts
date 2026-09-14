@@ -154,6 +154,10 @@ export const persona = {
       statement: "A persona's appearance is a second file beside that persona's page.",
     },
     {
+      invariantKind: "absence",
+      statement: "No man is ever put in the frame.",
+    },
+    {
       invariantKind: "departure",
       statement: "The default persona personifies nothing.",
     },
