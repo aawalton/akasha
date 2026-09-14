@@ -1,23 +1,9 @@
 import type { GameState } from "akasha/alan/harness/idle-system/modules/idle-state/idle-state.module.code.ts"
 import type { IdleSupabase } from "akasha/alan/web/.server/idle-save-context/idle-save-context.module.code.ts"
 import { IDLE_PERSONA_CARD_PAGE_TYPE_SLUG } from "akasha/alan/web/modules/idle-card-page-type/idle-card-page-type.module.code.ts"
-import type { PersonaInfo } from "akasha/alan/web/modules/idle-card-projection/idle-card-projection.module.code.ts"
 import type { Catalog } from "akasha/alan/web/modules/idle-catalog/idle-catalog.module.code.ts"
 import { unwritten } from "akasha/alan/web/modules/pages-unheld/pages-unheld.module.code.ts"
 import { captureError } from "akasha/pages/access/modules/capture-error/capture-error.module.code.ts"
-
-export async function projectUserCards(
-  _sb: IdleSupabase,
-  args: {
-    readonly userId: string
-    readonly state: GameState
-    readonly catalog: Catalog
-    readonly personaInfo: ReadonlyMap<string, PersonaInfo>
-    readonly now: number
-  }
-): Promise<readonly string[]> {
-  throw new Error(unwritten(IDLE_PERSONA_CARD_PAGE_TYPE_SLUG, `the roster of \`${args.userId}\``))
-}
 
 export async function reprojectUserCardsSafely(
   _sb: IdleSupabase,

@@ -116,31 +116,3 @@ export function deriveCardProjections(
     }
   })
 }
-
-export function cardPageName(playerId: string, cardSlug: string): string {
-  return `${playerId}/${cardSlug}`
-}
-
-export function cardFileValues(
-  projection: IdleCardProjection
-): Record<string, string | number | boolean | readonly string[]> {
-  const a = projection.attributes
-  const values: Record<string, string | number | boolean | readonly string[]> = {
-    "player-id": a.playerId,
-    "card-slug": a.cardSlug,
-    "persona-slug": a.personaSlug ?? [],
-    cover: a.cover,
-    "cover-image-id": a.coverImageId ?? [],
-    stars: a.stars,
-    "rate-per-sec": a.ratePerSec,
-    rank: a.rank,
-    "train-cost": a.trainCost,
-    "lock-state": a.lockState,
-    images: [...a.images],
-    "seat-index": a.seatIndex ?? [],
-    "lock-eligible": a.lockEligible,
-    "specialize-locked": a.specializeLocked,
-  }
-  if (projection.titleWrite !== undefined) values.title = projection.titleWrite
-  return values
-}
