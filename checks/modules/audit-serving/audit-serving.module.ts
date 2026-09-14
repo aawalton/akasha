@@ -184,6 +184,19 @@ export const auditServing = {
       statement: "A process ended by a signal reads as a check that could not run.",
     },
     {
+      invariantKind: "constraint",
+      statement:
+        "A check killed at its own processor ceiling and one killed from outside die on one signal.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here runs a check again because a signal ended that check's process.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The round after is what runs an unmeasured check again, no verdict carrying it.",
+    },
+    {
       invariantKind: "departure",
       statement: "A process exiting other than zero reads as a check that could not run.",
     },
