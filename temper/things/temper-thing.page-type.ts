@@ -7,7 +7,7 @@ export const temperThing = {
   definition: "anything temper keeps a page for",
   pluralSlug: "temper-things",
   extends: ["page-type/page"],
-  owner: "account-page",
+  owner: "text-property/account-page",
   parts: [
     "number-property/display-order",
     "text-property/account-page",
