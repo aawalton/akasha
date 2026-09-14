@@ -1,7 +1,4 @@
-import { relative } from "node:path"
-import { rgPath } from "@vscode/ripgrep"
 import {
-  pathsIn,
   refusing,
   splicing,
   stating,
@@ -11,44 +8,17 @@ import type {
   Said,
   Splice,
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { pathsThere, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import {
+  pathsNaming,
+  TYPED_KINDS,
+} from "akasha/changes/modules/tree-searching/tree-searching.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
-import { indexNamed } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 import ts from "typescript"
 
 const TYPED = /\.tsx?$/
 
 const PARTED_BY = "/"
-
-const BYTES = new TextEncoder()
-
-const LINED = "\n"
-
-const ENDED = "\0"
-
-const FOUND_NOTHING = 1
-
-const SEARCHED: readonly string[] = [
-  "--files-with-matches",
-  "--null",
-  "--no-config",
-  "--no-ignore",
-  "--hidden",
-  "--fixed-strings",
-  "--file",
-  "-",
-  "--glob",
-  "*.ts",
-  "--glob",
-  "*.tsx",
-  "--glob",
-  "!**/.git/",
-  "--glob",
-  "!**/node_modules/",
-  "--glob",
-  `!**/${indexNamed()}/`,
-]
 
 const ADDRESS =
   /^[a-z][a-z0-9]*(-[a-z0-9]+)*\/[a-z][a-z0-9]*(-[a-z0-9]+)*(\/[a-z][a-z0-9]*(-[a-z0-9]+)*)?$/
@@ -105,28 +75,8 @@ export function restatedOver(
   return edits
 }
 
-function searchedIn(root: string, asked: readonly string[]): readonly string[] {
-  const done = ran([rgPath, ...SEARCHED, root], {
-    stdin: BYTES.encode(`${asked.join(LINED)}${LINED}`),
-  })
-  const found = done.out.split(ENDED).filter((one) => one !== "")
-  if (found.length === 0 && done.code !== 0 && done.code !== FOUND_NOTHING) {
-    throw new Error(`the tree at \`${root}\` could not be searched — ${done.err.trim()}`)
-  }
-  return found.map((one) => relative(root, one))
-}
-
 export function pathsSpelling(world: World, moved: ReadonlyMap<string, string>): readonly string[] {
-  if (moved.size === 0) return []
-  const held = new Set(pathsThere(world))
-  const found = new Set<string>()
-  for (const path of searchedIn(world.root, [...moved.keys()])) {
-    if (held.has(path)) found.add(path)
-  }
-  for (const path of pathsIn(world.over)) {
-    if (held.has(path)) found.add(path)
-  }
-  return [...found].sort()
+  return pathsNaming(world, [...moved.keys()], TYPED_KINDS)
 }
 
 function refusalIn(moved: ReadonlyMap<string, string>): string | null {

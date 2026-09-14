@@ -45,6 +45,7 @@ export const change = {
     "module/slug-renaming",
     "module/target-kinding",
     "module/target-narrowing",
+    "module/tree-searching",
     "module/type-literal",
     "module/value-carrying",
     "module/value-removing",
