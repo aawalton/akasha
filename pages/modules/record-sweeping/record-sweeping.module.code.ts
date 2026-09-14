@@ -8,7 +8,6 @@ import {
   valuesOfType,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
-import { partUnfiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import {
   AKASHA,
   resolveRoots,
@@ -163,7 +162,6 @@ export function sweptStream(root: string, one: Stream, nowMs: number): number {
         if (to === null) continue
         if (body === undefined) {
           rmSync(to, { force: true })
-          partUnfiled(root, path)
           continue
         }
         writeFileSync(to, body)

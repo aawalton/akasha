@@ -42,7 +42,7 @@ export const recordSweeping = {
     },
     {
       invariantKind: "departure",
-      statement: "A part left holding nothing goes and is unfiled from the path index.",
+      statement: "A part left holding nothing goes rather than being left empty.",
     },
     {
       invariantKind: "departure",
