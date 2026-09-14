@@ -9,7 +9,7 @@ export const mediaConsoleBackupfontZh = {
   loadedAs: "Console/backupfont_zh.xml",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A fallback font is loaded only where the client runs this language.",
     },
   ],

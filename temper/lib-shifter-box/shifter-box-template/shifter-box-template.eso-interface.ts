@@ -9,11 +9,11 @@ export const shifterBoxTemplate = {
   loadedAs: "ShifterBox/ShifterBoxTemplate.xml",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A control is named after the shifter box the control belongs to.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This document is loaded before the Lua bundle.",
     },
   ],

@@ -9,11 +9,11 @@ export const mediaFontstringsShared = {
   loadedAs: "fontstrings_shared.xml",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A font name here is built on the font path the platform sets.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This document is read after the two font path documents.",
     },
   ],

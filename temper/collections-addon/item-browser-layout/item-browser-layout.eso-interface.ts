@@ -9,20 +9,20 @@ export const itemBrowserLayout = {
   loadedAs: "Browser.xml",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The frame is drawn inside the extended journal rather than as a window of its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A list row calls three handlers the browser publishes as globals.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A heading names the field that heading sorts the list by.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The account and server dropdowns are hidden until more than one account is known.",
     },

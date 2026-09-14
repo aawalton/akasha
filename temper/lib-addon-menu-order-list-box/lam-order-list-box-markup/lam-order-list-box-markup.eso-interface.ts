@@ -9,15 +9,15 @@ export const lamOrderListBoxMarkup = {
   loadedAs: "LAM2_orderlistbox_widget.xml",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every control here is virtual and is copied from rather than shown.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The game reads this document before the addon's Lua runs.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A control here is reached from Lua by the name the document gives that control.",
     },
   ],

@@ -9,11 +9,11 @@ export const scrollableMenuControls = {
   loadedAs: "XML/LibScrollableMenu.xml",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One virtual control is declared for each entry type a menu row may take.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row handler calls back into the library through the LibScrollableMenu global.",
     },
   ],

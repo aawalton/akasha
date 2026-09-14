@@ -9,12 +9,12 @@ export const minimapAnimations = {
   loadedAs: "TemperNavigation_Controls.xml",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The document has an animation timeline and no control.",
     },
 
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The Lua bundle reaches the timeline by name.",
     },
   ],

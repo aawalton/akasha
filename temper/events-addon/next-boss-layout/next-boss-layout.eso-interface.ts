@@ -9,19 +9,19 @@ export const nextBossLayout = {
   loadedAs: "TemperEvents.xml",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The timetable window is one label of names beside one label of times.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The map labels are anchored to the middle of the screen rather than to the map.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The window's width is set from a string id rather than stated here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Dragging the window calls back into the tracker so the place is kept.",
     },
   ],

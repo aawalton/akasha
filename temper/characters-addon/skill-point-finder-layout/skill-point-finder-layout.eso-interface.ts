@@ -9,7 +9,7 @@ export const skillPointFinderLayout = {
   loadedAs: "USPF.xml",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The markup loads after the compiled Lua bundle.",
     },
   ],

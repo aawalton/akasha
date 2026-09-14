@@ -9,7 +9,7 @@ export const journalControls = {
   loadedAs: "Controls.xml",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The XML loads before the Lua bundle.",
     },
   ],

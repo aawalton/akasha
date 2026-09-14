@@ -9,12 +9,12 @@ export const leadsLayout = {
   loadedAs: "TemperAntiquities.xml",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every control the lead code reaches is declared here and nowhere else.",
     },
 
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row of the list is a virtual control the list clones.",
     },
   ],
