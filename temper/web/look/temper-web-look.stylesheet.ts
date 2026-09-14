@@ -8,15 +8,15 @@ export const temperWebLook = {
   styles: "css",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A source glob names where a file will be rather than where the file is now.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A glob matching nothing emits no utility and raises nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A class no source spells is emitted only by being named inline here.",
     },
   ],
