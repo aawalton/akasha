@@ -1,4 +1,4 @@
-import { REFRESH_BUFFER_MS } from "akasha/agents/claude-accounts/modules/oauth/claude-account-oauth.module.code.ts"
+import { REFRESH_BUFFER_MS } from "akasha/agents/claude-account/modules/oauth/claude-account-oauth.module.code.ts"
 import type { OAuthCredential } from "akasha/agents/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
 
 export type CredentialByAccount = (

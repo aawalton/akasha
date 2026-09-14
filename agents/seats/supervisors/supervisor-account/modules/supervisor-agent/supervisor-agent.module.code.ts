@@ -1,6 +1,6 @@
-import { credentialFileWritten } from "akasha/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.code.ts"
-import { REFRESH_BUFFER_MS } from "akasha/agents/claude-accounts/modules/oauth/claude-account-oauth.module.code.ts"
-import { everyAccountSlugIn } from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
+import { credentialFileWritten } from "akasha/agents/claude-account/modules/credential-file/claude-account-credential-file.module.code.ts"
+import { REFRESH_BUFFER_MS } from "akasha/agents/claude-account/modules/oauth/claude-account-oauth.module.code.ts"
+import { everyAccountSlugIn } from "akasha/agents/claude-account/modules/reading/claude-account-reading.module.code.ts"
 import {
   bestCredentialIn,
   credentialByAccountIn,

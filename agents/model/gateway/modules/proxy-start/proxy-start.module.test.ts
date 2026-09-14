@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { RefreshOutcome } from "akasha/agents/claude-accounts/modules/oauth/claude-account-oauth.module.code.ts"
+import type { RefreshOutcome } from "akasha/agents/claude-account/modules/oauth/claude-account-oauth.module.code.ts"
 import type { OAuthEffects } from "akasha/agents/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 import { refuse } from "akasha/agents/model/gateway/modules/oauth-effects/oauth-effects.module.test-fixtures.ts"
 import type {

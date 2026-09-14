@@ -1,0 +1,381 @@
+import { afterAll, expect, test } from "bun:test"
+import {
+  DOORS,
+  expiryHeldIn,
+  narrowedFor,
+  PUSHED_KEYS,
+  pushedIn,
+} from "akasha/agents/claude-account/modules/credential-push/claude-account-credential-push.module.code.ts"
+import {
+  ACCESS_KEY,
+  AN_HOUR,
+  committingThenThrowingLanding,
+  credentialOf,
+  crossedLanding,
+  heldIn,
+  LATER,
+  LATER_AT,
+  modeOf,
+  NOW,
+  NOWHERE,
+  pushed,
+  pushedWith,
+  REFRESH_KEY,
+  ROTATED_ACCESS,
+  ROTATED_REFRESH,
+  refusingSops,
+  seeded,
+  silentLanding,
+  sopsAt,
+  sopsIn,
+  spoilingLanding,
+  sweep,
+  THREW_AFTER_COMMIT,
+  whyOf,
+  worldMade,
+} from "akasha/agents/claude-account/modules/credential-push/claude-account-credential-push.module.test-fixtures.ts"
+import { routingIn } from "akasha/agents/claude-account/modules/marking/claude-account-marking.module.code.ts"
+import {
+  ACCOUNT_DECLARED,
+  besideAt,
+  besideHeld,
+  besideText,
+  bodiesIn,
+  counting,
+  pageAt,
+  shut,
+} from "akasha/agents/claude-account/modules/marking/claude-account-marking.module.test-fixtures.ts"
+import {
+  everyAccountStateIn,
+  rescuedIn,
+} from "akasha/agents/claude-account/modules/reading/claude-account-reading.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+
+afterAll(sweep)
+
+test("a push lands the pair in the sops file and answers pushed", async () => {
+  const root = worldMade()
+  const sops = sopsIn()
+  const said = await pushed(root, credentialOf("aine"), sops.doors)
+  if (said.kind !== "pushed") throw new Error(whyOf(said))
+  expect(said.keys).toEqual([...PUSHED_KEYS])
+  expect(said.sidecar).toBe(sopsAt("aine"))
+  const held = heldIn(sops, root, pageAt("aine"))
+  expect(held.get(ACCESS_KEY)).toBe(ROTATED_ACCESS)
+  expect(held.get(REFRESH_KEY)).toBe(ROTATED_REFRESH)
+  expect(sops.landed.length).toBe(1)
+})
+
+test("a push stamps the moment the access token expires", async () => {
+  const root = worldMade()
+  expect((await pushed(root, credentialOf("aine"), sopsIn().doors)).kind).toBe("pushed")
+  expect(besideHeld(root, "aine")["accessTokenExpiresAt"]).toBe(LATER_AT)
+})
+
+test("a push merges the pair into the keys the sops file already holds", async () => {
+  const root = worldMade()
+  const sops = sopsIn()
+  seeded(sops, root, pageAt("aine"), { "api-key": "fake-api-key" })
+  expect((await pushed(root, credentialOf("aine"), sops.doors)).kind).toBe("pushed")
+  const held = heldIn(sops, root, pageAt("aine"))
+  expect(held.get("api-key")).toBe("fake-api-key")
+  expect(held.get(ACCESS_KEY)).toBe(ROTATED_ACCESS)
+})
+
+test("a sops file already holding the pair is answered as unchanged and lands nothing", async () => {
+  const root = worldMade()
+  const sops = sopsIn()
+  seeded(sops, root, pageAt("aine"), {
+    [ACCESS_KEY]: ROTATED_ACCESS,
+    [REFRESH_KEY]: ROTATED_REFRESH,
+  })
+  const said = await pushed(root, credentialOf("aine"), sops.doors)
+  expect(said.kind).toBe("unchanged")
+  expect(sops.landed).toEqual([])
+  expect(besideHeld(root, "aine")["accessTokenExpiresAt"]).toBe(LATER_AT)
+})
+
+test("a push whose expiry is no later than the expiry beside the page is stale", async () => {
+  const root = worldMade()
+  const sops = sopsIn()
+  expect((await pushed(root, credentialOf("aine"), sops.doors)).kind).toBe("pushed")
+  const older = credentialOf("aine", { accessTokenExpiresAtMs: LATER - 1 })
+  expect((await pushed(root, older, sops.doors)).kind).toBe("stale")
+  const same = credentialOf("aine", { accessTokenExpiresAtMs: LATER })
+  expect((await pushed(root, same, sops.doors)).kind).toBe("stale")
+  const newer = credentialOf("aine", {
+    accessToken: "fake-access-token-newer",
+    accessTokenExpiresAtMs: LATER + 1,
+  })
+  expect((await pushed(root, newer, sops.doors)).kind).toBe("pushed")
+})
+
+test("a push answered as stale writes no file", async () => {
+  const root = worldMade()
+  const sops = sopsIn()
+  expect((await pushed(root, credentialOf("aine"), sops.doors)).kind).toBe("pushed")
+  const before = besideText(root, "aine")
+  const said = await pushed(
+    root,
+    credentialOf("aine", { accessToken: "fake-access-token-older", accessTokenExpiresAtMs: NOW }),
+    sops.doors
+  )
+  expect(said.kind).toBe("stale")
+  expect(whyOf(said)).toContain("the fresher credential wins")
+  expect(besideText(root, "aine")).toBe(before)
+  expect(heldIn(sops, root, pageAt("aine")).get(ACCESS_KEY)).toBe(ROTATED_ACCESS)
+  expect(sops.landed.length).toBe(1)
+})
+
+test("a page beside which no expiry is written makes no push stale", async () => {
+  const root = worldMade()
+  expect(expiryHeldIn(besideHeld(root, "aow"))).toBe(null)
+  const early = credentialOf("aow", { accessTokenExpiresAtMs: 1 })
+  expect((await pushed(root, early, sopsIn().doors)).kind).toBe("pushed")
+})
+
+test("an expiry beside the page that will not read is answered as none", () => {
+  expect(expiryHeldIn(null)).toBe(null)
+  expect(expiryHeldIn({})).toBe(null)
+  expect(expiryHeldIn({ accessTokenExpiresAt: "" })).toBe(null)
+  expect(expiryHeldIn({ accessTokenExpiresAt: "not a moment" })).toBe(null)
+  expect(expiryHeldIn({ accessTokenExpiresAt: LATER })).toBe(null)
+  expect(expiryHeldIn({ accessTokenExpiresAt: LATER_AT })).toBe(LATER)
+})
+
+test("a token that is empty or holds a newline is refused and reaches no file", async () => {
+  const root = worldMade()
+  const sops = sopsIn()
+  const wrong = [
+    { accessToken: "" },
+    { refreshToken: "" },
+    { accessToken: "one\ntwo" },
+    { refreshToken: "one\ntwo" },
+  ]
+  for (const said of wrong) {
+    expect((await pushed(root, credentialOf("aine", said), sops.doors)).kind).toBe("refused")
+  }
+  expect(sops.landed).toEqual([])
+  expect("accessTokenExpiresAt" in besideHeld(root, "aine")).toBe(false)
+})
+
+test("an expiry that is no moment a date holds is refused", async () => {
+  const root = worldMade()
+  const sops = sopsIn()
+  for (const ms of [NaN, Number.POSITIVE_INFINITY, 8_640_000_000_000_001]) {
+    const said = await pushed(
+      root,
+      credentialOf("aine", { accessTokenExpiresAtMs: ms }),
+      sops.doors
+    )
+    expect(whyOf(said)).toContain("no moment a date holds")
+  }
+  expect(sops.landed).toEqual([])
+  expect("accessTokenExpiresAt" in besideHeld(root, "aine")).toBe(false)
+})
+
+test("a name that is no lower kebab-case slug is refused before the index is read", async () => {
+  for (const slug of ["../aine", "Aine", "aine/x", "a_b", "-aine", ""]) {
+    const said = await pushed(NOWHERE, credentialOf(slug), sopsIn().doors)
+    expect(whyOf(said)).toContain("is no account name a path is written from")
+  }
+  expect(whyOf(await pushed(NOWHERE, credentialOf("aine"), sopsIn().doors))).toContain(
+    "the push threw"
+  )
+})
+
+test("an account no page is filed for is answered as absent", async () => {
+  const said = await pushed(worldMade(), credentialOf("nobody"), sopsIn().doors)
+  expect(said.kind).toBe("absent")
+  expect(whyOf(said)).toContain("no page is filed for `nobody`")
+})
+
+test("a landing that does not carry the pair holds that pair beside the page", async () => {
+  const root = worldMade()
+  const sops = refusingSops()
+  const said = await pushed(root, credentialOf("aine"), sops.doors)
+  expect(said.kind).toBe("refused")
+  expect(whyOf(said)).toContain("the landing said no")
+  expect(whyOf(said)).toContain("held beside the page")
+  expect(besideHeld(root, "aine")["rescuedCredential"]).toEqual({
+    accessToken: ROTATED_ACCESS,
+    refreshToken: ROTATED_REFRESH,
+    expiresAtMs: LATER,
+  })
+  expect("accessTokenExpiresAt" in besideHeld(root, "aine")).toBe(false)
+})
+
+test("a read-back answering nothing holds the rotated pair beside the page", async () => {
+  const root = worldMade()
+  const sops = sopsIn()
+  const said = await pushedWith(root, "aine", sops, silentLanding(sops))
+  expect(said.kind).toBe("refused")
+  expect(whyOf(said)).toContain("does not read back what it was handed")
+  expect(besideHeld(root, "aine")["rescuedCredential"]).toEqual({
+    accessToken: ROTATED_ACCESS,
+    refreshToken: ROTATED_REFRESH,
+    expiresAtMs: LATER,
+  })
+})
+
+test("a read-back answering another pair holds the rotated pair beside the page", async () => {
+  const root = worldMade()
+  const sops = sopsIn()
+  const said = await pushedWith(root, "aine", sops, crossedLanding(sops))
+  expect(said.kind).toBe("refused")
+  expect(whyOf(said)).toContain("does not read back what it was handed")
+  expect(rescuedIn(besideHeld(root, "aine"))).toEqual({
+    accessToken: ROTATED_ACCESS,
+    refreshToken: ROTATED_REFRESH,
+    accessTokenExpiresAtMs: LATER,
+  })
+})
+
+test("the file the rotated pair is held in is narrowed before that pair is written", async () => {
+  const root = worldMade(ACCOUNT_DECLARED)
+  expect(modeOf(root, besideAt("aine"))).toBe("644")
+  const sops = refusingSops()
+  const said = await pushed(root, credentialOf("aine"), sops.doors)
+  expect(whyOf(said)).toContain("was not held beside the page either")
+  expect("rescuedCredential" in besideHeld(root, "aine")).toBe(false)
+  expect(modeOf(root, besideAt("aine"))).toBe("600")
+  expect(whyOf(await pushed(root, credentialOf("aow"), sops.doors))).toContain(
+    "was not held beside the page either"
+  )
+  expect(besideHeld(root, "aow")).toEqual({})
+  expect(modeOf(root, besideAt("aow"))).toBe("600")
+})
+
+test("a file beside a page written for the first time is narrowed too", async () => {
+  const root = worldMade()
+  const sops = refusingSops()
+  expect((await pushed(root, credentialOf("aow"), sops.doors)).kind).toBe("refused")
+  expect(modeOf(root, besideAt("aow"))).toBe("600")
+  expect(besideHeld(root, "aow")["rescuedCredential"]).not.toBe(undefined)
+})
+
+test("a push that lands takes the rescued pair away", async () => {
+  const root = worldMade()
+  const refusing = refusingSops()
+  expect((await pushed(root, credentialOf("aine"), refusing.doors)).kind).toBe("refused")
+  expect("rescuedCredential" in besideHeld(root, "aine")).toBe(true)
+  const sops = sopsIn()
+  expect((await pushed(root, credentialOf("aine"), sops.doors)).kind).toBe("pushed")
+  expect("rescuedCredential" in besideHeld(root, "aine")).toBe(false)
+  expect(besideHeld(root, "aine")["accessTokenExpiresAt"]).toBe(LATER_AT)
+})
+
+test("a push answered as unchanged takes the rescued pair away", async () => {
+  const root = worldMade()
+  const refusing = refusingSops()
+  expect((await pushed(root, credentialOf("aine"), refusing.doors)).kind).toBe("refused")
+  const sops = sopsIn()
+  seeded(sops, root, pageAt("aine"), {
+    [ACCESS_KEY]: ROTATED_ACCESS,
+    [REFRESH_KEY]: ROTATED_REFRESH,
+  })
+  expect((await pushed(root, credentialOf("aine"), sops.doors)).kind).toBe("unchanged")
+  expect("rescuedCredential" in besideHeld(root, "aine")).toBe(false)
+})
+
+test("a push that lands and does not stamp the expiry is refused", async () => {
+  const root = worldMade()
+  const sops = sopsIn()
+  const said = await pushedWith(root, "aine", sops, spoilingLanding(sops, besideAt("aine")))
+  expect(said.kind).toBe("refused")
+  expect(whyOf(said)).toContain("the reader answers absent")
+  expect(heldIn(sops, root, pageAt("aine")).get(ACCESS_KEY)).toBe(ROTATED_ACCESS)
+})
+
+test("a secrets reader that throws refuses the push and lands nothing", async () => {
+  const root = worldMade()
+  const sops = sopsIn({
+    secretsRead: () => {
+      throw new Error("the sops file would not decrypt")
+    },
+  })
+  expect(whyOf(await pushed(root, credentialOf("aine"), sops.doors))).toContain("would not decrypt")
+  expect(sops.landed).toEqual([])
+})
+
+test("a cipher that will not compose refuses the push and rescues nothing", async () => {
+  const root = worldMade()
+  const sops = sopsIn({ cipherMade: () => ({ text: null, why: "sops named no recipient" }) })
+  expect(whyOf(await pushed(root, credentialOf("aine"), sops.doors))).toContain("no recipient")
+  expect(sops.landed).toEqual([])
+  expect("rescuedCredential" in besideHeld(root, "aine")).toBe(false)
+})
+
+test("a root filing no index refuses the push rather than throwing", async () => {
+  const said = await pushed(NOWHERE, credentialOf("aine"), sopsIn().doors)
+  expect(said.kind).toBe("refused")
+  expect(whyOf(said)).toContain("the push threw, which it is written never to do")
+  expect(whyOf(said)).toContain("no page was reached before it threw")
+})
+
+test("a push that threw after it committed names that commit and rescues the pair", async () => {
+  const root = worldMade()
+  const sops = sopsIn()
+  const said = whyOf(await pushedWith(root, "aine", sops, committingThenThrowingLanding(sops)))
+  expect(said).toContain(THREW_AFTER_COMMIT)
+  expect(said).toContain("held beside the page")
+  expect(rescuedIn(besideHeld(root, "aine"))).toEqual({
+    accessToken: ROTATED_ACCESS,
+    refreshToken: ROTATED_REFRESH,
+    accessTokenExpiresAtMs: LATER,
+  })
+})
+
+test("pushing one account's credential opens that account's page and no other page", async () => {
+  const root = worldMade()
+  for (const one of ["aine", "aow"]) shut(root, one)
+  expect([...everyAccountStateIn(root).keys()]).toEqual(["ctw"])
+  expect((await pushed(root, credentialOf("ctw"), sopsIn().doors)).kind).toBe("pushed")
+})
+
+test("pushing one account's credential lists no directory the accounts are filed under", async () => {
+  const root = worldMade()
+  const routing = routingIn(readingIn(root), bodiesIn(root))
+  const one = counting(root)
+  const said = await pushedIn(
+    root,
+    credentialOf("aine"),
+    sopsIn().doors,
+    one.reading,
+    bodiesIn(root),
+    routing
+  )
+  expect(said.kind).toBe("pushed")
+  expect(one.seen.filter((at) => at.startsWith("listing "))).toEqual([])
+})
+
+test("no token value reaches a refusal", async () => {
+  const root = worldMade()
+  const sops = refusingSops()
+  for (const slug of ["aine", "aow", "ctw"]) {
+    const said = whyOf(await pushed(root, credentialOf(slug), sops.doors))
+    expect(said).not.toContain(ROTATED_ACCESS)
+    expect(said).not.toContain(ROTATED_REFRESH)
+  }
+})
+
+test("narrowing a path that is no TypeScript file answers with why", () => {
+  expect(narrowedFor(worldMade(), "no-typescript-file")).toContain("names no file to hold")
+})
+
+test("the doors bind the sops reader, the cipher and the landing", () => {
+  expect(typeof DOORS.secretsRead).toBe("function")
+  expect(typeof DOORS.cipherMade).toBe("function")
+  expect(typeof DOORS.landing).toBe("function")
+})
+
+test("a second rotation after a rescue lands and clears the rescue", async () => {
+  const root = worldMade()
+  const refusing = refusingSops()
+  expect((await pushed(root, credentialOf("aine"), refusing.doors)).kind).toBe("refused")
+  const sops = sopsIn()
+  const later = credentialOf("aine", { accessTokenExpiresAtMs: LATER + AN_HOUR })
+  expect((await pushed(root, later, sops.doors)).kind).toBe("pushed")
+  expect(rescuedIn(besideHeld(root, "aine"))).toBe(null)
+  expect(heldIn(sops, root, pageAt("aine")).get(REFRESH_KEY)).toBe(ROTATED_REFRESH)
+})

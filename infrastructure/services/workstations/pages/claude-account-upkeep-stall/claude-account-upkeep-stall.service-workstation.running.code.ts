@@ -1,4 +1,4 @@
-import { readAccountUpkeepStall } from "akasha/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.code.ts"
+import { readAccountUpkeepStall } from "akasha/agents/claude-account/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.code.ts"
 
 const NOTIFY = "--notify"
 

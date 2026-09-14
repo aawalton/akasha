@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { besideHeld } from "akasha/agents/claude-accounts/modules/marking/claude-account-marking.module.test-fixtures.ts"
+import { besideHeld } from "akasha/agents/claude-account/modules/marking/claude-account-marking.module.test-fixtures.ts"
 import {
   bestCredentialIn,
   credentialByAccountIn,

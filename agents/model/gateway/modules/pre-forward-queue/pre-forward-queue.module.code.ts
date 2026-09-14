@@ -2,7 +2,7 @@ import {
   formatPoolEligibilityBreakdown,
   type PoolSummary,
   summarizePool,
-} from "akasha/agents/claude-accounts/modules/selection/claude-account-selection.module.code.ts"
+} from "akasha/agents/claude-account/modules/selection/claude-account-selection.module.code.ts"
 import { parseClientStreamFlag } from "akasha/agents/model/gateway/modules/client-stream/client-stream.module.code.ts"
 import type { AccountState } from "akasha/agents/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import {

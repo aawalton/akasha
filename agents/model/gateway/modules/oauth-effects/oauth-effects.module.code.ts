@@ -5,7 +5,7 @@ import {
   pacingMarks,
   subscriptionMarks,
   usageFrom,
-} from "akasha/agents/claude-accounts/modules/marking/claude-account-marking.module.code.ts"
+} from "akasha/agents/claude-account/modules/marking/claude-account-marking.module.code.ts"
 import {
   decideUsageRepoll,
   INITIAL_REPOLL_GATE_STATE,
@@ -14,8 +14,8 @@ import {
   recordRepollAttempt,
   recordUsageRateLimited,
   USAGE_URL,
-} from "akasha/agents/claude-accounts/modules/oauth/claude-account-oauth.module.code.ts"
-import { hoursUntilReset } from "akasha/agents/claude-accounts/modules/pacing/claude-account-pacing.module.code.ts"
+} from "akasha/agents/claude-account/modules/oauth/claude-account-oauth.module.code.ts"
+import { hoursUntilReset } from "akasha/agents/claude-account/modules/pacing/claude-account-pacing.module.code.ts"
 import {
   type AccountCredential,
   type AccountState as AccountReading,
@@ -23,11 +23,11 @@ import {
   everyAccountStateIn,
   everyCredentialIn,
   type SecretsRead,
-} from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
+} from "akasha/agents/claude-account/modules/reading/claude-account-reading.module.code.ts"
 import {
   parseFutureIsoMs,
   selectBestAccount,
-} from "akasha/agents/claude-accounts/modules/selection/claude-account-selection.module.code.ts"
+} from "akasha/agents/claude-account/modules/selection/claude-account-selection.module.code.ts"
 import type {
   AccountState,
   CredentialPick,

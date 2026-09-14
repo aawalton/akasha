@@ -1,6 +1,6 @@
 import { mkdirSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { bodied } from "akasha/agents/claude-accounts/modules/marking/claude-account-marking.module.test-fixtures.ts"
+import { bodied } from "akasha/agents/claude-account/modules/marking/claude-account-marking.module.test-fixtures.ts"
 import type {
   Doors,
   UsageRead,
@@ -21,13 +21,13 @@ const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
 
 const ABOVE_TYPE = "01a049b9-856c-7090-bd14-5a916f574259"
 
-const TYPE_AT = "akasha/agents/claude-accounts/claude-account.page-type.ts"
+const TYPE_AT = "akasha/agents/claude-account/claude-account.page-type.ts"
 
 const ABOVE_AT = "akasha/pages-system/pages/page.page-type.ts"
 
 const PROPERTY_TYPE = "text-property"
 
-const PAGES_AT = "akasha/agents/claude-accounts/pages"
+const PAGES_AT = "akasha/agents/claude-account/pages"
 
 export const FAKE_ACCESS = "fake-access-token-for-a-test"
 

@@ -4,11 +4,11 @@ const HANDED: (readonly string[])[] = []
 let CODE = 0
 
 const reading = await import(
-  "akasha/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.code.ts"
+  "akasha/agents/claude-account/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.code.ts"
 )
 
 mock.module(
-  "akasha/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.code.ts",
+  "akasha/agents/claude-account/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.code.ts",
   () => ({
     ...reading,
     readAccountUpkeepStall: (argv: readonly string[]) => {

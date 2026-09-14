@@ -1,7 +1,7 @@
 import {
   markedIn,
   subscriptionMarks,
-} from "akasha/agents/claude-accounts/modules/marking/claude-account-marking.module.code.ts"
+} from "akasha/agents/claude-account/modules/marking/claude-account-marking.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import { account } from "akasha/commands/arguments/pages/account.argument.ts"
 import {

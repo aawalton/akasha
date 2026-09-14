@@ -2,7 +2,7 @@ import { existsSync, rmSync, unlinkSync } from "node:fs"
 import {
   DOORS,
   filePushedTo,
-} from "akasha/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.code.ts"
+} from "akasha/agents/claude-account/modules/credential-file/claude-account-credential-file.module.code.ts"
 import {
   configDirForAccount,
   LOG,

@@ -1,11 +1,11 @@
 import {
   linesOf,
   readingsIn,
-} from "akasha/agents/claude-accounts/modules/measuring/claude-account-measuring.module.code.ts"
+} from "akasha/agents/claude-account/modules/measuring/claude-account-measuring.module.code.ts"
 import {
   notesOf,
   refreshAll,
-} from "akasha/agents/claude-accounts/modules/refreshing/claude-account-refreshing.module.code.ts"
+} from "akasha/agents/claude-account/modules/refreshing/claude-account-refreshing.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import {
   DATA,

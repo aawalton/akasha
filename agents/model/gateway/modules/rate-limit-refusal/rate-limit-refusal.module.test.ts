@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { PoolSummary } from "akasha/agents/claude-accounts/modules/selection/claude-account-selection.module.code.ts"
+import type { PoolSummary } from "akasha/agents/claude-account/modules/selection/claude-account-selection.module.code.ts"
 import {
   buildRateLimitRefusal,
   DEFAULT_RETRY_AFTER_SECONDS,

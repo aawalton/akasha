@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { PoolSummary } from "akasha/agents/claude-accounts/modules/selection/claude-account-selection.module.code.ts"
+import type { PoolSummary } from "akasha/agents/claude-account/modules/selection/claude-account-selection.module.code.ts"
 import type { AccountState } from "akasha/agents/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import {
   ceilingLine,

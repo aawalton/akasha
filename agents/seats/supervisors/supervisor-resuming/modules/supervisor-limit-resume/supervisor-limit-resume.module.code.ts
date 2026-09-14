@@ -1,4 +1,4 @@
-import { summarizePool } from "akasha/agents/claude-accounts/modules/selection/claude-account-selection.module.code.ts"
+import { summarizePool } from "akasha/agents/claude-account/modules/selection/claude-account-selection.module.code.ts"
 import { pacingIn } from "akasha/agents/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 import type { AccountState } from "akasha/agents/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import { readOwnTranscriptTail } from "akasha/agents/modules/io-probe/io-probe.module.code.ts"

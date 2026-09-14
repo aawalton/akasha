@@ -23,7 +23,7 @@ import {
 } from "akasha/pages/commands/modules/page-secret-acting/page-secret-acting.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
-const AT = "akasha/agents/claude-accounts/pages/one.claude-account.ts"
+const AT = "akasha/agents/claude-account/pages/one.claude-account.ts"
 
 const HOLDING = { path: AT, sidecar: "one.claude-account.sops.yaml", declared: ["accessToken"] }
 

@@ -2,8 +2,8 @@ import {
   DOORS,
   fileRefreshedFrom,
   fileWatched,
-} from "akasha/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.code.ts"
-import { terminalHealthMarks } from "akasha/agents/claude-accounts/modules/health/claude-account-health.module.code.ts"
+} from "akasha/agents/claude-account/modules/credential-file/claude-account-credential-file.module.code.ts"
+import { terminalHealthMarks } from "akasha/agents/claude-account/modules/health/claude-account-health.module.code.ts"
 import {
   DOORS as EFFECT_DOORS,
   markedOn,

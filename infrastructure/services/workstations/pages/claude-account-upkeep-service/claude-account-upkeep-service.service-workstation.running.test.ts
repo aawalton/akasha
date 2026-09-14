@@ -4,11 +4,11 @@ const RAN: string[] = []
 let FAILING: Error | null = null
 
 const upkeep = await import(
-  "akasha/agents/claude-accounts/modules/account-upkeep-running/account-upkeep-running.module.code.ts"
+  "akasha/agents/claude-account/modules/account-upkeep-running/account-upkeep-running.module.code.ts"
 )
 
 mock.module(
-  "akasha/agents/claude-accounts/modules/account-upkeep-running/account-upkeep-running.module.code.ts",
+  "akasha/agents/claude-account/modules/account-upkeep-running/account-upkeep-running.module.code.ts",
   () => ({
     ...upkeep,
     runAccountUpkeepRunning: () => {

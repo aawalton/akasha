@@ -115,7 +115,7 @@ const MODULE_PAGES: readonly (readonly [string, Held])[] = [
     },
   ],
   [
-    "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.ts",
+    "akasha/agents/claude-account/modules/reading/claude-account-reading.module.ts",
     {
       id: "01a0596b-0000-7000-8000-000000000003",
       pageTypeSlug: MODULE,

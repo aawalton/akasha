@@ -1,4 +1,4 @@
-import type { RefreshOutcome } from "akasha/agents/claude-accounts/modules/oauth/claude-account-oauth.module.code.ts"
+import type { RefreshOutcome } from "akasha/agents/claude-account/modules/oauth/claude-account-oauth.module.code.ts"
 import type { OAuthEffects } from "akasha/agents/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 import type { HeldSubagents } from "akasha/agents/model/gateway/modules/subagent-stop-refusal/subagent-stop-refusal.module.code.ts"
 

@@ -3,8 +3,8 @@ import { join } from "node:path"
 import {
   computePacingDerivations,
   formatPaceHours,
-} from "akasha/agents/claude-accounts/modules/pacing/claude-account-pacing.module.code.ts"
-import { accountStateIn } from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
+} from "akasha/agents/claude-account/modules/pacing/claude-account-pacing.module.code.ts"
+import { accountStateIn } from "akasha/agents/claude-account/modules/reading/claude-account-reading.module.code.ts"
 import { LOG } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   AKASHA,
