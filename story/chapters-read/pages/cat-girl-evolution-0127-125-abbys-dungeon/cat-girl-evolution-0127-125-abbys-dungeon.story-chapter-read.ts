@@ -5,7 +5,7 @@ export const catGirlEvolution0127125AbbysDungeon = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0127-125-abbys-dungeon",
   title: "125 - Abby's Dungeon",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 127,
   ownLength: 2193,
   unit: "unit/words",

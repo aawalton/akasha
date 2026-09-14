@@ -5,7 +5,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0326B5HorsemanIntermission =
   type: "story-chapter-read",
   slug: "crimson-eternal-an-immortal-death-mage-litrpg-0326-b5-horseman-intermission",
   title: "B5 | Horseman Intermission",
-  story: "crimson-eternal-an-immortal-death-mage-litrpg",
+  story: "story-read/crimson-eternal-an-immortal-death-mage-litrpg",
   position: 326,
   ownLength: 1217,
   ownProgress: 1217,

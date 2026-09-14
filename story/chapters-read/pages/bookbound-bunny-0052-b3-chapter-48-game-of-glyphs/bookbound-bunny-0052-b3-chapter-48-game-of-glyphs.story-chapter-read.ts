@@ -5,7 +5,7 @@ export const bookboundBunny0052B3Chapter48GameOfGlyphs = {
   type: "story-chapter-read",
   slug: "bookbound-bunny-0052-b3-chapter-48-game-of-glyphs",
   title: "B3 - Chapter 48 - Game of Glyphs",
-  story: "bookbound-bunny",
+  story: "story-read/bookbound-bunny",
   position: 52,
   ownLength: 2566,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0111Chapter110BambooForest = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0111-chapter-110-bamboo-forest",
   title: "Chapter 110: Bamboo Forest",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 111,
   ownLength: 4603,
   ownProgress: 4603,

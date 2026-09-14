@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression009594Quack = {
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0095-94-quack",
   title: "94 - Quack",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 95,
   ownLength: 1607,
   unit: "unit/words",

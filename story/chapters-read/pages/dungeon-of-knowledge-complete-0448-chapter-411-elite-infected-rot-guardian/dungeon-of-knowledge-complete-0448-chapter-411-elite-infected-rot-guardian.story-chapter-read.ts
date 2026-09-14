@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0448Chapter411EliteInfectedRotGuardian = 
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0448-chapter-411-elite-infected-rot-guardian",
   title: "Chapter 411: Elite Infected Rot Guardian",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 448,
   ownLength: 2547,
   ownProgress: 2547,

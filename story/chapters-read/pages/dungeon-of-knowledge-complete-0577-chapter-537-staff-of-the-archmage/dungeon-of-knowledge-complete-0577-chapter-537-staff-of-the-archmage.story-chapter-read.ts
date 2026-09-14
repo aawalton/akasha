@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0577Chapter537StaffOfTheArchmage = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0577-chapter-537-staff-of-the-archmage",
   title: "Chapter 537: Staff of the Archmage",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 577,
   ownLength: 2967,
   ownProgress: 2967,

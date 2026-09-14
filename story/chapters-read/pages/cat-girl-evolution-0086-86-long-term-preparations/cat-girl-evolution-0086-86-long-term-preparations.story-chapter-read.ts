@@ -5,7 +5,7 @@ export const catGirlEvolution008686LongTermPreparations = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0086-86-long-term-preparations",
   title: "86 - Long Term Preparations",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 86,
   ownLength: 2841,
   unit: "unit/words",

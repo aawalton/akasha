@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0613Chapter569TheThreeKings = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0613-chapter-569-the-three-kings",
   title: "Chapter 569: The Three Kings",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 613,
   ownLength: 3957,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const catGirlEvolution009090BreakingTheSystemAgain = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0090-90-breaking-the-system-again",
   title: "90 - Breaking the System (again)",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 90,
   ownLength: 2638,
   unit: "unit/words",

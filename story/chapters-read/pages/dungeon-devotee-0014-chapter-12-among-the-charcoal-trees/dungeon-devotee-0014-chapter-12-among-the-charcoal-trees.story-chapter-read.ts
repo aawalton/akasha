@@ -5,7 +5,7 @@ export const dungeonDevotee0014Chapter12AmongTheCharcoalTrees = {
   type: "story-chapter-read",
   slug: "dungeon-devotee-0014-chapter-12-among-the-charcoal-trees",
   title: "Chapter 12: Among the Charcoal Trees",
-  story: "dungeon-devotee",
+  story: "story-read/dungeon-devotee",
   position: 14,
   ownLength: 8487,
   ownProgress: 8487,

@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression004747TheSecondSun = 
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0047-47-the-second-sun",
   title: "47 - The Second Sun",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 47,
   ownLength: 1768,
   unit: "unit/words",

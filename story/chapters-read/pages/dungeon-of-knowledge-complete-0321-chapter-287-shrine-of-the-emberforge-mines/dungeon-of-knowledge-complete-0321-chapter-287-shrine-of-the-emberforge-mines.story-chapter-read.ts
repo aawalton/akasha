@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0321Chapter287ShrineOfTheEmberforgeMines 
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0321-chapter-287-shrine-of-the-emberforge-mines",
   title: "Chapter 287: Shrine of the Emberforge Mines",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 321,
   ownLength: 2017,
   ownProgress: 2017,

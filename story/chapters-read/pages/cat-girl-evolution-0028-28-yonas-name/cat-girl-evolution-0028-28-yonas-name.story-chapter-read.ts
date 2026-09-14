@@ -5,7 +5,7 @@ export const catGirlEvolution002828YonasName = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0028-28-yonas-name",
   title: "28 - Yona's Name",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 28,
   ownLength: 2348,
   unit: "unit/words",

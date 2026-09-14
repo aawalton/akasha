@@ -5,7 +5,7 @@ export const delve0003003Pothole = {
   type: "story-chapter-read",
   slug: "delve-0003-003-pothole",
   title: "003: Pothole",
-  story: "delve",
+  story: "story-read/delve",
   position: 3,
   ownLength: 2151,
   unit: "unit/words",

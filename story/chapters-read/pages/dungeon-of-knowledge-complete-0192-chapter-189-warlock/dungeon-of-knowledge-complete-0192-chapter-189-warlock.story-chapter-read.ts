@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0192Chapter189Warlock = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0192-chapter-189-warlock",
   title: "Chapter 189: Warlock",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 192,
   ownLength: 3851,
   ownProgress: 3851,

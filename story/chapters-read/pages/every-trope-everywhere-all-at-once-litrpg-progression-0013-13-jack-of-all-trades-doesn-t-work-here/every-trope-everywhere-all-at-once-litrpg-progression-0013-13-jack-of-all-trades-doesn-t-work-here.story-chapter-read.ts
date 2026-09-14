@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression001313JackOfAllTrades
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0013-13-jack-of-all-trades-doesn-t-work-here",
   title: "13 - Jack of All Trades Doesn't Work Here",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 13,
   ownLength: 1672,
   unit: "unit/words",

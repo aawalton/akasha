@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0513Chapter476WhatLurksInTheDarkness = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0513-chapter-476-what-lurks-in-the-darkness",
   title: "Chapter 476: What Lurks in the Darkness?",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 513,
   ownLength: 2413,
   ownProgress: 2413,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0619Chapter575DragonswornPart2 = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0619-chapter-575-dragonsworn-part-2",
   title: "Chapter 575: Dragonsworn (Part 2)",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 619,
   ownLength: 2111,
   unit: "unit/words",

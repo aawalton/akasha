@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression002424VictorsOfTheRac
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0024-24-victors-of-the-race",
   title: "24 - Victors of the Race",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 24,
   ownLength: 2063,
   unit: "unit/words",

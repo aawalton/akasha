@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0061Chapter58BloodOfAnOwl = {
   type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0061-chapter-58-blood-of-an-owl",
   title: "Chapter 58: Blood Of An Owl",
-  story: "delver-dungeon-diving-and-magic-litrpg",
+  story: "story-read/delver-dungeon-diving-and-magic-litrpg",
   position: 61,
   ownLength: 2277,
   unit: "unit/words",

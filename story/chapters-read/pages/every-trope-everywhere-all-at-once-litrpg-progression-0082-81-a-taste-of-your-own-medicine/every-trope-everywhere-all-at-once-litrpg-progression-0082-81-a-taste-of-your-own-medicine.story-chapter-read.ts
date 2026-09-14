@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression008281ATasteOfYourOwn
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0082-81-a-taste-of-your-own-medicine",
   title: "81 - A Taste Of Your Own Medicine",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 82,
   ownLength: 2032,
   unit: "unit/words",

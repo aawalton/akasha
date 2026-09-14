@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression001010MatchingHairTie
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0010-10-matching-hair-ties",
   title: "10 - Matching Hair Ties",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 10,
   ownLength: 1809,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0378Chapter341KingsAndEmperorsPart1 = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0378-chapter-341-kings-and-emperors-part-1",
   title: "Chapter 341: Kings and Emperors (Part 1)",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 378,
   ownLength: 2559,
   ownProgress: 2559,

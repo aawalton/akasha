@@ -5,7 +5,7 @@ export const delve0011011Ux = {
   type: "story-chapter-read",
   slug: "delve-0011-011-ux",
   title: "011: UX",
-  story: "delve",
+  story: "story-read/delve",
   position: 11,
   ownLength: 3559,
   unit: "unit/words",

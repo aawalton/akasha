@@ -5,7 +5,7 @@ export const delve0001001Woodland = {
   type: "story-chapter-read",
   slug: "delve-0001-001-woodland",
   title: "001: Woodland",
-  story: "delve",
+  story: "story-read/delve",
   position: 1,
   ownLength: 3263,
   unit: "unit/words",

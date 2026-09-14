@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0046Chapter46AncientSerpent = {
   type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0046-chapter-46-ancient-serpent",
   title: "Chapter 46: Ancient Serpent",
-  story: "delver-dungeon-diving-and-magic-litrpg",
+  story: "story-read/delver-dungeon-diving-and-magic-litrpg",
   position: 46,
   ownLength: 2100,
   unit: "unit/words",

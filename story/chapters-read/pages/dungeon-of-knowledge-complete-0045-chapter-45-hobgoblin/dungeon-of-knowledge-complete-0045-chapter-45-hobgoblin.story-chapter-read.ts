@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0045Chapter45Hobgoblin = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0045-chapter-45-hobgoblin",
   title: "Chapter 45: Hobgoblin",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 45,
   ownLength: 7209,
   ownProgress: 7209,

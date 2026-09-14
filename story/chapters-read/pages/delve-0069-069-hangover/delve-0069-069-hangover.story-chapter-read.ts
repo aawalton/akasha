@@ -5,7 +5,7 @@ export const delve0069069Hangover = {
   type: "story-chapter-read",
   slug: "delve-0069-069-hangover",
   title: "069: Hangover",
-  story: "delve",
+  story: "story-read/delve",
   position: 69,
   ownLength: 5447,
   unit: "unit/words",

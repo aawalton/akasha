@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression009695DormantSoul = {
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0096-95-dormant-soul",
   title: "95 - Dormant Soul",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 96,
   ownLength: 1868,
   unit: "unit/words",

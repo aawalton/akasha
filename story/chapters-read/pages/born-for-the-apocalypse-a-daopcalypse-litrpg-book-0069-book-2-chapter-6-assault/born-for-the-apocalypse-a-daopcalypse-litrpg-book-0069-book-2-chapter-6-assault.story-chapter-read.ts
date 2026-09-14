@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook0069Book2Chapter6Assault 
   type: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0069-book-2-chapter-6-assault",
   title: "Book 2: Chapter 6- Assault",
-  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "story-read/born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 69,
   ownLength: 1079,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0190Chapter187ABeaconOfLight = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0190-chapter-187-a-beacon-of-light",
   title: "Chapter 187: A Beacon of Light",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 190,
   ownLength: 4365,
   ownProgress: 4365,

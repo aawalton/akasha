@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0270Chapter238MokFrejaIceQueenPart2 = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0270-chapter-238-mok-freja-ice-queen-part-2",
   title: "Chapter 238: Mok’freja, Ice Queen (Part 2)",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 270,
   ownLength: 2229,
   ownProgress: 2229,

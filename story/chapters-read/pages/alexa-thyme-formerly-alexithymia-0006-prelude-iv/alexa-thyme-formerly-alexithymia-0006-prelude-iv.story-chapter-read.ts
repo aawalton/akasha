@@ -5,7 +5,7 @@ export const alexaThymeFormerlyAlexithymia0006PreludeIv = {
   type: "story-chapter-read",
   slug: "alexa-thyme-formerly-alexithymia-0006-prelude-iv",
   title: "Prelude IV",
-  story: "alexa-thyme-formerly-alexithymia",
+  story: "story-read/alexa-thyme-formerly-alexithymia",
   position: 6,
   ownLength: 1624,
   unit: "unit/words",

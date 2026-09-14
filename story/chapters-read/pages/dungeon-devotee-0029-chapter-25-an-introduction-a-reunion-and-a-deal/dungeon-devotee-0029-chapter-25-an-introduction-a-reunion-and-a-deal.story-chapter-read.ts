@@ -5,7 +5,7 @@ export const dungeonDevotee0029Chapter25AnIntroductionAReunionAndADeal = {
   type: "story-chapter-read",
   slug: "dungeon-devotee-0029-chapter-25-an-introduction-a-reunion-and-a-deal",
   title: "Chapter 25: An Introduction, a Reunion, and a Deal",
-  story: "dungeon-devotee",
+  story: "story-read/dungeon-devotee",
   position: 29,
   ownLength: 10738,
   ownProgress: 10738,

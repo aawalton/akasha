@@ -5,7 +5,7 @@ export const catGirlEvolution0103101NewMeal = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0103-101-new-meal",
   title: "101 - New Me(al)",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 103,
   ownLength: 3305,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg005757TheBandagedMan = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0057-57-the-bandaged-man",
   title: "57: The Bandaged Man",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 57,
   ownLength: 2458,
   unit: "unit/words",

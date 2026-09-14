@@ -5,7 +5,7 @@ export const bookboundBunny0008B3Chapter4MonsterMeat = {
   type: "story-chapter-read",
   slug: "bookbound-bunny-0008-b3-chapter-4-monster-meat",
   title: "B3 - Chapter 4 - Monster Meat",
-  story: "bookbound-bunny",
+  story: "story-read/bookbound-bunny",
   position: 8,
   ownLength: 2099,
   unit: "unit/words",

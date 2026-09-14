@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0002Chapter2LowerLevels = {
   type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0002-chapter-2-lower-levels",
   title: "Chapter 2: Lower Levels",
-  story: "delver-dungeon-diving-and-magic-litrpg",
+  story: "story-read/delver-dungeon-diving-and-magic-litrpg",
   position: 2,
   ownLength: 2682,
   unit: "unit/words",

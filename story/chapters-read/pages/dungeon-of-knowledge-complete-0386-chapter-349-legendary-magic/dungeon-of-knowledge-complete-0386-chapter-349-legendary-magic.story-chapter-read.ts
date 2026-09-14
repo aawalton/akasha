@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0386Chapter349LegendaryMagic = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0386-chapter-349-legendary-magic",
   title: "Chapter 349: Legendary Magic",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 386,
   ownLength: 2243,
   ownProgress: 2243,

@@ -5,7 +5,7 @@ export const catGirlEvolution009695Yona = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0096-95-yona",
   title: "95 - !@#$%^&&Yona@#$%^&(*&^%$",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 96,
   ownLength: 3053,
   unit: "unit/words",

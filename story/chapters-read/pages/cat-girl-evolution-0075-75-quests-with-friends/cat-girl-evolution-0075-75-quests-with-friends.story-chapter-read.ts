@@ -5,7 +5,7 @@ export const catGirlEvolution007575QuestsWithFriends = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0075-75-quests-with-friends",
   title: "75 - Quests with Friends",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 75,
   ownLength: 2146,
   unit: "unit/words",

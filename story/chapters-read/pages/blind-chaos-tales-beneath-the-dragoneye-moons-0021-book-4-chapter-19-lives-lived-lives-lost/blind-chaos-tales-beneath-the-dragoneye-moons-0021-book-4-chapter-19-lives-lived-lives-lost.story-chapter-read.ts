@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0021Book4Chapter19LivesLived
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0021-book-4-chapter-19-lives-lived-lives-lost",
   title: "Book 4 - Chapter 19 - Lives Lived, Lives Lost",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 21,
   ownLength: 5979,
   unit: "unit/words",

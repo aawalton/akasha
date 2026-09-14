@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook002525RunJackRun = {
   type: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0025-25-run-jack-run",
   title: "25: Run, Jack, Run",
-  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "story-read/born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 25,
   ownLength: 1099,
   unit: "unit/words",

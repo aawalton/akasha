@@ -5,7 +5,7 @@ export const catGirlEvolution002222DungeonCore = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0022-22-dungeon-core",
   title: "22 - Dungeon Core",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 22,
   ownLength: 2643,
   unit: "unit/words",

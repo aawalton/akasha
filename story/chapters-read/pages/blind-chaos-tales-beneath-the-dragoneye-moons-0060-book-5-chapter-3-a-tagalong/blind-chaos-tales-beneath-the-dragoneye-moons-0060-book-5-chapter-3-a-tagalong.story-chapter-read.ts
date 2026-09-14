@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0060Book5Chapter3ATagalong =
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0060-book-5-chapter-3-a-tagalong",
   title: "Book 5 - Chapter 3 - A Tagalong",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 60,
   ownLength: 5739,
   unit: "unit/words",

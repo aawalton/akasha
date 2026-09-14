@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression001919DonTLetThemKnow
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0019-19-don-t-let-them-know",
   title: "19 - Don't Let Them Know",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 19,
   ownLength: 1524,
   unit: "unit/words",

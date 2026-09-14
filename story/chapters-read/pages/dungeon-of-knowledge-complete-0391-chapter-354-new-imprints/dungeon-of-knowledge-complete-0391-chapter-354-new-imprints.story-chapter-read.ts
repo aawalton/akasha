@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0391Chapter354NewImprints = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0391-chapter-354-new-imprints",
   title: "Chapter 354: New Imprints",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 391,
   ownLength: 3300,
   ownProgress: 3300,

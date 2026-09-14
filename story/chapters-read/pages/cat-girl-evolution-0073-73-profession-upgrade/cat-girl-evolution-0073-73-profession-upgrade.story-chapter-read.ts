@@ -5,7 +5,7 @@ export const catGirlEvolution007373ProfessionUpgrade = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0073-73-profession-upgrade",
   title: "73 - Profession Upgrade",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 73,
   ownLength: 2281,
   unit: "unit/words",

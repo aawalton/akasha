@@ -5,7 +5,7 @@ export const dungeonDevotee0019InterludeIntoTheDarkness = {
   type: "story-chapter-read",
   slug: "dungeon-devotee-0019-interlude-into-the-darkness",
   title: "Interlude: Into the Darkness",
-  story: "dungeon-devotee",
+  story: "story-read/dungeon-devotee",
   position: 19,
   ownLength: 2557,
   ownProgress: 2557,

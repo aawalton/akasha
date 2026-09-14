@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0016Book4Chapter14AReturnToC
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0016-book-4-chapter-14-a-return-to-consistency",
   title: "Book 4 - Chapter 14 - A Return to Consistency",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 16,
   ownLength: 4008,
   unit: "unit/words",

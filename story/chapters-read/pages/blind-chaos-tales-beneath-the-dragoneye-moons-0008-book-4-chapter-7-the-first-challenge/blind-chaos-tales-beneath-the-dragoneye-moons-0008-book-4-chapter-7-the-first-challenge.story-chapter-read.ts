@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0008Book4Chapter7TheFirstCha
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0008-book-4-chapter-7-the-first-challenge",
   title: "Book 4 - Chapter 7 - The First Challenge",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 8,
   ownLength: 5377,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const catGirlEvolution0154151GoldStandard = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0154-151-gold-standard",
   title: "151 - Gold Standard",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 154,
   ownLength: 2405,
   unit: "unit/words",

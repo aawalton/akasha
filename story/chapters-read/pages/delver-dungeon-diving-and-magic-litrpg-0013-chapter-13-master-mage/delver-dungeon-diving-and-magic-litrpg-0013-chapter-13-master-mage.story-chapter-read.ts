@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0013Chapter13MasterMage = {
   type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0013-chapter-13-master-mage",
   title: "Chapter 13: Master Mage",
-  story: "delver-dungeon-diving-and-magic-litrpg",
+  story: "story-read/delver-dungeon-diving-and-magic-litrpg",
   position: 13,
   ownLength: 2372,
   unit: "unit/words",

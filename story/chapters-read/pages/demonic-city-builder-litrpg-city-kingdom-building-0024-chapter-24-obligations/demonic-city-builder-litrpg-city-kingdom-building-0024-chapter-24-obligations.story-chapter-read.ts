@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0024Chapter24Obligations
   type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0024-chapter-24-obligations",
   title: "Chapter 24 - Obligations",
-  story: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   position: 24,
   ownLength: 1952,
   unit: "unit/words",

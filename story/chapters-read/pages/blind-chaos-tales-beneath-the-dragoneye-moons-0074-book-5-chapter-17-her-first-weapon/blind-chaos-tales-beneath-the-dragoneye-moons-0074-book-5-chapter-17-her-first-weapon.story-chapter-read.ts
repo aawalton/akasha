@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0074Book5Chapter17HerFirstWe
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0074-book-5-chapter-17-her-first-weapon",
   title: "Book 5 - Chapter 17 - Her First Weapon",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 74,
   ownLength: 4086,
   unit: "unit/words",

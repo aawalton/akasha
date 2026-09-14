@@ -5,7 +5,7 @@ export const catGirlEvolution0129127IHaveAPlan = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0129-127-i-have-a-plan",
   title: "127 - I Have a Plan",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 129,
   ownLength: 1902,
   unit: "unit/words",

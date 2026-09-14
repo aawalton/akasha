@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0393Chapter356TheSpearOfSilentExtinctionP
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0393-chapter-356-the-spear-of-silent-extinction-part-1",
   title: "Chapter 356: The Spear of Silent Extinction (Part 1)",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 393,
   ownLength: 3000,
   ownProgress: 3000,

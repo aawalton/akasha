@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0174174Water = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0174-174-water",
   title: "174: Water",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 174,
   ownLength: 1957,
   unit: "unit/words",

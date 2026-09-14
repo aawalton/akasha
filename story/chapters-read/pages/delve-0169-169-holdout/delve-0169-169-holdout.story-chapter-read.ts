@@ -5,7 +5,7 @@ export const delve0169169Holdout = {
   type: "story-chapter-read",
   slug: "delve-0169-169-holdout",
   title: "169: Holdout",
-  story: "delve",
+  story: "story-read/delve",
   position: 169,
   ownLength: 4838,
   unit: "unit/words",

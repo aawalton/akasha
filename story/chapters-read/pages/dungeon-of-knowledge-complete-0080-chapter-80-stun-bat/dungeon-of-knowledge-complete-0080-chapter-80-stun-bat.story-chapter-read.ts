@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0080Chapter80StunBat = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0080-chapter-80-stun-bat",
   title: "Chapter 80: Stun Bat",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 80,
   ownLength: 3303,
   ownProgress: 3303,

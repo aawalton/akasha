@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg004646SlipperySnakes = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0046-46-slippery-snakes",
   title: "46: Slippery Snakes",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 46,
   ownLength: 3117,
   unit: "unit/words",

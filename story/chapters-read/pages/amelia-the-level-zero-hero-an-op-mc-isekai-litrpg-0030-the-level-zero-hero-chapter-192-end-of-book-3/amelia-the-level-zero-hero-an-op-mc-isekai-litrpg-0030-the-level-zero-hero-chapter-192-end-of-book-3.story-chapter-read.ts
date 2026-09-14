@@ -5,7 +5,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0030TheLevelZeroHeroChapter
   type: "story-chapter-read",
   slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg-0030-the-level-zero-hero-chapter-192-end-of-book-3",
   title: "The Level Zero Hero Chapter 192 (End of Book 3)",
-  story: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
+  story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 30,
   ownLength: 709,
   unit: "unit/words",

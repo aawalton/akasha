@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0031Chapter30IceCreamSoc
   type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0031-chapter-30-ice-cream-social",
   title: "Chapter 30 - Ice Cream Social",
-  story: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   position: 31,
   ownLength: 2202,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0630Afterword = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0630-afterword",
   title: "Afterword",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 630,
   ownLength: 560,
   unit: "unit/words",

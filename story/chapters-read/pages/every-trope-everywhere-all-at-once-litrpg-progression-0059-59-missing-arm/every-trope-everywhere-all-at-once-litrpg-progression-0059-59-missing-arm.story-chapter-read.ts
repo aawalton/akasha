@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression005959MissingArm = {
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0059-59-missing-arm",
   title: "59 - Missing Arm",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 59,
   ownLength: 2105,
   unit: "unit/words",

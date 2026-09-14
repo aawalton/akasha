@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0236Chapter214BloodPart3 = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0236-chapter-214-blood-part-3",
   title: "Chapter 214: Blood (Part 3)",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 236,
   ownLength: 1744,
   ownProgress: 1744,

@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0005Chapter5ShiftChange 
   type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0005-chapter-5-shift-change",
   title: "Chapter 5 - Shift Change",
-  story: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   position: 5,
   ownLength: 3068,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0421Chapter384FromTheBrinkPart1 = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0421-chapter-384-from-the-brink-part-1",
   title: "Chapter 384: From the Brink (Part 1)",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 421,
   ownLength: 2062,
   ownProgress: 2062,

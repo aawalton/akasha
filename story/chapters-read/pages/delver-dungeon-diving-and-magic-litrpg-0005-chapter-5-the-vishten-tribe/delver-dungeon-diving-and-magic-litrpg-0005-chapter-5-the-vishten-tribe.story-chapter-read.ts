@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0005Chapter5TheVishtenTribe = {
   type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0005-chapter-5-the-vishten-tribe",
   title: "Chapter 5: The Vishten Tribe",
-  story: "delver-dungeon-diving-and-magic-litrpg",
+  story: "story-read/delver-dungeon-diving-and-magic-litrpg",
   position: 5,
   ownLength: 2281,
   unit: "unit/words",

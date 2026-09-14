@@ -5,7 +5,7 @@ export const bookboundBunny0087B3Chapter83WoodlandEncounter = {
   type: "story-chapter-read",
   slug: "bookbound-bunny-0087-b3-chapter-83-woodland-encounter",
   title: "B3 - Chapter 83 - Woodland Encounter",
-  story: "bookbound-bunny",
+  story: "story-read/bookbound-bunny",
   position: 87,
   ownLength: 2221,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const delve0101101Fireside = {
   type: "story-chapter-read",
   slug: "delve-0101-101-fireside",
   title: "101: Fireside",
-  story: "delve",
+  story: "story-read/delve",
   position: 101,
   ownLength: 7501,
   unit: "unit/words",

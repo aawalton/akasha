@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0398Chapter361ASpotOfShadeForAli = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0398-chapter-361-a-spot-of-shade-for-ali",
   title: "Chapter 361: A Spot of Shade for Ali",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 398,
   ownLength: 2688,
   ownProgress: 2688,

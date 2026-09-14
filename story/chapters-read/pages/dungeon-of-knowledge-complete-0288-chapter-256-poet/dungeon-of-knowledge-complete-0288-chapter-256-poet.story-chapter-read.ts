@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0288Chapter256Poet = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0288-chapter-256-poet",
   title: "Chapter 256: Poet",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 288,
   ownLength: 2975,
   ownProgress: 2975,

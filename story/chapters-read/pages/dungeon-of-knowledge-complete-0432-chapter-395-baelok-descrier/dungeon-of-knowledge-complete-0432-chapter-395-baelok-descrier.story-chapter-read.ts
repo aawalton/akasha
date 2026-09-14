@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0432Chapter395BaelokDescrier = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0432-chapter-395-baelok-descrier",
   title: "Chapter 395: Baelok Descrier",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 432,
   ownLength: 2646,
   ownProgress: 2646,

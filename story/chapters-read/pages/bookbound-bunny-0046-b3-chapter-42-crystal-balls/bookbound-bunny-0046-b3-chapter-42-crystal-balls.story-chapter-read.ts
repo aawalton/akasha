@@ -5,7 +5,7 @@ export const bookboundBunny0046B3Chapter42CrystalBalls = {
   type: "story-chapter-read",
   slug: "bookbound-bunny-0046-b3-chapter-42-crystal-balls",
   title: "B3 - Chapter 42 - Crystal Balls",
-  story: "bookbound-bunny",
+  story: "story-read/bookbound-bunny",
   position: 46,
   ownLength: 2235,
   unit: "unit/words",

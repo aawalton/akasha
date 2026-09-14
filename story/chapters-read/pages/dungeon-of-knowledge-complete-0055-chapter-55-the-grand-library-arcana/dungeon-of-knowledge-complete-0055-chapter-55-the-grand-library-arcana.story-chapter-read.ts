@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0055Chapter55TheGrandLibraryArcana = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0055-chapter-55-the-grand-library-arcana",
   title: "Chapter 55: The Grand Library Arcana",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 55,
   ownLength: 3663,
   ownProgress: 3663,

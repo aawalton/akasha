@@ -5,7 +5,7 @@ export const delve0151151Forethought = {
   type: "story-chapter-read",
   slug: "delve-0151-151-forethought",
   title: "151: Forethought",
-  story: "delve",
+  story: "story-read/delve",
   position: 151,
   ownLength: 8075,
   unit: "unit/words",

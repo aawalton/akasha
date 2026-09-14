@@ -5,7 +5,7 @@ export const catGirlEvolution008484Fleshbender = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0084-84-fleshbender",
   title: "84 - Fleshbender",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 84,
   ownLength: 2895,
   unit: "unit/words",

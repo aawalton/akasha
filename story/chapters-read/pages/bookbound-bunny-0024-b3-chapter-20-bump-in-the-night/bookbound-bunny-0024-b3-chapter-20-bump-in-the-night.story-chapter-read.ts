@@ -5,7 +5,7 @@ export const bookboundBunny0024B3Chapter20BumpInTheNight = {
   type: "story-chapter-read",
   slug: "bookbound-bunny-0024-b3-chapter-20-bump-in-the-night",
   title: "B3 - Chapter 20 - Bump in the Night",
-  story: "bookbound-bunny",
+  story: "story-read/bookbound-bunny",
   position: 24,
   ownLength: 2035,
   unit: "unit/words",

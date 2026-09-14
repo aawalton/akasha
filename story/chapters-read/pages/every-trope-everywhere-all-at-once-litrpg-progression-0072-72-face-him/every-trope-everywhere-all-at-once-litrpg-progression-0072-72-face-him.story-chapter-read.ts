@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression007272FaceHim = {
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0072-72-face-him",
   title: "72 - Face Him",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 72,
   ownLength: 1825,
   unit: "unit/words",

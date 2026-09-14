@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0035Chapter35AdventurersGuild = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0035-chapter-35-adventurers-guild",
   title: "Chapter 35: Adventurers Guild",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 35,
   ownLength: 6193,
   ownProgress: 6193,

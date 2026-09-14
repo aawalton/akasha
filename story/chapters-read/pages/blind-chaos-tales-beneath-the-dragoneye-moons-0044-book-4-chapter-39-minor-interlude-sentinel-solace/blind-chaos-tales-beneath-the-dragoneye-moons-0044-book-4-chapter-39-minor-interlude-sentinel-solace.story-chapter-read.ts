@@ -6,7 +6,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0044Book4Chapter39MinorInter
     type: "story-chapter-read",
     slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0044-book-4-chapter-39-minor-interlude-sentinel-solace",
     title: "Book 4 - Chapter 39 - Minor Interlude – Sentinel Solace – The Result of Their Legacies",
-    story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+    story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
     position: 44,
     ownLength: 4909,
     unit: "unit/words",

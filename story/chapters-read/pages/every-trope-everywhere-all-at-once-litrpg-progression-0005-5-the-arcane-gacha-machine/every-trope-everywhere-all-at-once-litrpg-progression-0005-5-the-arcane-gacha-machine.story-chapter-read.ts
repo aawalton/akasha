@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression00055TheArcaneGachaMa
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0005-5-the-arcane-gacha-machine",
   title: "5 - The Arcane Gacha Machine",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 5,
   ownLength: 1822,
   unit: "unit/words",

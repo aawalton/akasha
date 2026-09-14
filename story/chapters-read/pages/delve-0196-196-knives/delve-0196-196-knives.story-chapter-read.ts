@@ -5,7 +5,7 @@ export const delve0196196Knives = {
   type: "story-chapter-read",
   slug: "delve-0196-196-knives",
   title: "196: Knives",
-  story: "delve",
+  story: "story-read/delve",
   position: 196,
   ownLength: 4139,
   unit: "unit/words",

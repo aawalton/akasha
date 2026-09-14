@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0014Chapter53Training = 
   type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0014-chapter-53-training",
   title: "Chapter 53 - Training",
-  story: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   position: 14,
   ownLength: 2461,
   unit: "unit/words",

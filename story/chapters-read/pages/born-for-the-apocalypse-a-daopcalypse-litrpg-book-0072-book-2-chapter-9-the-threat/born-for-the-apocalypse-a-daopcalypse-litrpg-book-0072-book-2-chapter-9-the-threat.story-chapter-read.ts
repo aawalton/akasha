@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook0072Book2Chapter9TheThrea
   type: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0072-book-2-chapter-9-the-threat",
   title: "Book 2: Chapter 9- The Threat",
-  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "story-read/born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 72,
   ownLength: 1071,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook00088Selfishness = {
   type: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0008-8-selfishness",
   title: "8: Selfishness",
-  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "story-read/born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 8,
   ownLength: 1697,
   unit: "unit/words",

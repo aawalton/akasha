@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0430Chapter393ADropInVisit = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0430-chapter-393-a-drop-in-visit",
   title: "Chapter 393: A Drop-In Visit",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 430,
   ownLength: 3368,
   ownProgress: 3368,

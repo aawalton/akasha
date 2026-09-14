@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook0073Book2Chapter10BornFor
   type: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0073-book-2-chapter-10-born-for-the-apocalypse",
   title: "Book 2: Chapter 10- BORN FOR THE APOCALYPSE",
-  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "story-read/born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 73,
   ownLength: 1570,
   unit: "unit/words",

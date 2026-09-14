@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0533Chapter494TiersOfSkill = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0533-chapter-494-tiers-of-skill",
   title: "Chapter 494: Tiers of Skill",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 533,
   ownLength: 2944,
   ownProgress: 2944,

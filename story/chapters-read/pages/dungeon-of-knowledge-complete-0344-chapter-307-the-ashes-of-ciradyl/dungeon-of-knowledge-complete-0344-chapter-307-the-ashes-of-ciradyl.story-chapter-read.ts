@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0344Chapter307TheAshesOfCiradyl = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0344-chapter-307-the-ashes-of-ciradyl",
   title: "Chapter 307: The Ashes of Ciradyl",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 344,
   ownLength: 4650,
   ownProgress: 4650,

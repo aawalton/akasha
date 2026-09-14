@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg007272HelloAndGoodbyeStartOfBo
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0072-72-hello-and-goodbye-start-of-book-2",
   title: "72: Hello and Goodbye (Start of Book 2)",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 72,
   ownLength: 2075,
   unit: "unit/words",

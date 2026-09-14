@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0323Chapter289ThePathOfTheWanderer = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0323-chapter-289-the-path-of-the-wanderer",
   title: "Chapter 289: The Path of the Wanderer",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 323,
   ownLength: 2679,
   ownProgress: 2679,

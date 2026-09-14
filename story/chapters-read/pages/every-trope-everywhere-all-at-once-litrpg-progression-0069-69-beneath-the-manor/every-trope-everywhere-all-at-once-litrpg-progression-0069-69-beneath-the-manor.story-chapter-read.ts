@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression006969BeneathTheManor
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0069-69-beneath-the-manor",
   title: "69 - Beneath the Manor",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 69,
   ownLength: 1736,
   unit: "unit/words",

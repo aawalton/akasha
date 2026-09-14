@@ -5,7 +5,7 @@ export const catGirlEvolution005252SneakAttack = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0052-52-sneak-attack",
   title: "52 - Sneak Attack!",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 52,
   ownLength: 2575,
   unit: "unit/words",

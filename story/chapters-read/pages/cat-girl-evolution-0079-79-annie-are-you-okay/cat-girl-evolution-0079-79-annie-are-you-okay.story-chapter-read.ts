@@ -5,7 +5,7 @@ export const catGirlEvolution007979AnnieAreYouOkay = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0079-79-annie-are-you-okay",
   title: "79 - Annie, Are You Okay?",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 79,
   ownLength: 2266,
   unit: "unit/words",

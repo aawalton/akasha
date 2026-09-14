@@ -5,7 +5,7 @@ export const catGirlEvolution0137134HelpMeEatHim = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0137-134-help-me-eat-him",
   title: "134 - Help Me Eat Him",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 137,
   ownLength: 2295,
   unit: "unit/words",

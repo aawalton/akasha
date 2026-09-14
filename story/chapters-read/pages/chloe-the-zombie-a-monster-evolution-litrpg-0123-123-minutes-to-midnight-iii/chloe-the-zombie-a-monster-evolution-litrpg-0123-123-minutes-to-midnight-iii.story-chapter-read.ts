@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0123123MinutesToMidnightIii = 
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0123-123-minutes-to-midnight-iii",
   title: "123: Minutes to Midnight - III",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 123,
   ownLength: 1866,
   unit: "unit/words",

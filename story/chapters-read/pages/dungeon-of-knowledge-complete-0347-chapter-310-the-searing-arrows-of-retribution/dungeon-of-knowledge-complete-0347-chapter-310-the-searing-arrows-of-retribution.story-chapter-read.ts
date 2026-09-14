@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0347Chapter310TheSearingArrowsOfRetributi
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0347-chapter-310-the-searing-arrows-of-retribution",
   title: "Chapter 310: The Searing Arrows of Retribution",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 347,
   ownLength: 1582,
   ownProgress: 1582,

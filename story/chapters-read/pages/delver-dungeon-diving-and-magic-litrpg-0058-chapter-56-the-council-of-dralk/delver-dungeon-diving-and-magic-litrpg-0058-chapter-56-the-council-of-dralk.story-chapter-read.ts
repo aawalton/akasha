@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0058Chapter56TheCouncilOfDralk = {
   type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0058-chapter-56-the-council-of-dralk",
   title: "Chapter 56: The Council Of Dralk",
-  story: "delver-dungeon-diving-and-magic-litrpg",
+  story: "story-read/delver-dungeon-diving-and-magic-litrpg",
   position: 58,
   ownLength: 1925,
   unit: "unit/words",

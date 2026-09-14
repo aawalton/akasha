@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0042B6Ch35WellMet = {
   type: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0042-b6-ch35-well-met",
   title: "B6 Ch35: Well Met",
-  story: "all-the-skills-a-deckbuilding-litrpg",
+  story: "story-read/all-the-skills-a-deckbuilding-litrpg",
   position: 42,
   ownLength: 2144,
   unit: "unit/words",

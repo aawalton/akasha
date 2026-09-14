@@ -5,7 +5,7 @@ export const catGirlEvolution001111Octopoids = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0011-11-octopoids",
   title: "11 - Octopoids",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 11,
   ownLength: 2407,
   unit: "unit/words",

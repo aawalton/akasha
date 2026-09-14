@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0060Chapter60ThuliSDream = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0060-chapter-60-thuli-s-dream",
   title: "Chapter 60: Thuli’s Dream",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 60,
   ownLength: 4381,
   ownProgress: 4381,

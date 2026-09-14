@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg007878IntoTheDark = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0078-78-into-the-dark",
   title: "78: Into the Dark",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 78,
   ownLength: 2292,
   unit: "unit/words",

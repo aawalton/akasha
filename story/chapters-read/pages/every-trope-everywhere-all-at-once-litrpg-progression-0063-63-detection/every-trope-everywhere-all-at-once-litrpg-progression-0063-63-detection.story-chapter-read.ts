@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression006363Detection = {
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0063-63-detection",
   title: "63 - Detection",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 63,
   ownLength: 1448,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0102102SponsorshipBenefits = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0102-102-sponsorship-benefits",
   title: "102: Sponsorship Benefits",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 102,
   ownLength: 1925,
   unit: "unit/words",

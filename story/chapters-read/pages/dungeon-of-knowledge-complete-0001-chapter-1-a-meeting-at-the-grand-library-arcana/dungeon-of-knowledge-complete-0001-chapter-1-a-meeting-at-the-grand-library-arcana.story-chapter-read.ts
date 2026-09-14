@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0001Chapter1AMeetingAtTheGrandLibraryArca
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0001-chapter-1-a-meeting-at-the-grand-library-arcana",
   title: "Chapter 1: A Meeting at the Grand Library Arcana",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 1,
   ownLength: 5061,
   ownProgress: 5061,

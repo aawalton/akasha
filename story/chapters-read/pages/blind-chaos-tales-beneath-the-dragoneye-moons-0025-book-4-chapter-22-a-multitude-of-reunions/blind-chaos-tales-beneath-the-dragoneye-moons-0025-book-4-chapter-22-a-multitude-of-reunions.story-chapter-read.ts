@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0025Book4Chapter22AMultitude
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0025-book-4-chapter-22-a-multitude-of-reunions",
   title: "Book 4 - Chapter 22 - A Multitude of Reunions",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 25,
   ownLength: 3714,
   unit: "unit/words",

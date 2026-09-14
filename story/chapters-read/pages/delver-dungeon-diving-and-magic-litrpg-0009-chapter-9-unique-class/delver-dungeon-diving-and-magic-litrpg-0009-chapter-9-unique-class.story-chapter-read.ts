@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0009Chapter9UniqueClass = {
   type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0009-chapter-9-unique-class",
   title: "Chapter 9: Unique Class",
-  story: "delver-dungeon-diving-and-magic-litrpg",
+  story: "story-read/delver-dungeon-diving-and-magic-litrpg",
   position: 9,
   ownLength: 2455,
   unit: "unit/words",

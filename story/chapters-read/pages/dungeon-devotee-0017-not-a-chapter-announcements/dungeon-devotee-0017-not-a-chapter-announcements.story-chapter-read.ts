@@ -5,7 +5,7 @@ export const dungeonDevotee0017NotAChapterAnnouncements = {
   type: "story-chapter-read",
   slug: "dungeon-devotee-0017-not-a-chapter-announcements",
   title: "[Not a chapter] Announcements! ",
-  story: "dungeon-devotee",
+  story: "story-read/dungeon-devotee",
   position: 17,
   ownLength: 309,
   ownProgress: 309,

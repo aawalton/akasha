@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0183Chapter180ElementalRage = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0183-chapter-180-elemental-rage",
   title: "Chapter 180: Elemental Rage",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 183,
   ownLength: 3727,
   ownProgress: 3727,

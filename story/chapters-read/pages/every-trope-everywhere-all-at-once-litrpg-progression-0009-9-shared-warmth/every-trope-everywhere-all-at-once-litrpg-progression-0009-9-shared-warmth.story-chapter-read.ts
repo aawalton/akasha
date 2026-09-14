@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression00099SharedWarmth = {
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0009-9-shared-warmth",
   title: "9 - Shared Warmth",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 9,
   ownLength: 1751,
   unit: "unit/words",

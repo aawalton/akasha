@@ -5,7 +5,7 @@ export const delve0218218Infiltration = {
   type: "story-chapter-read",
   slug: "delve-0218-218-infiltration",
   title: "218: Infiltration",
-  story: "delve",
+  story: "story-read/delve",
   position: 218,
   ownLength: 3617,
   unit: "unit/words",

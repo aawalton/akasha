@@ -5,7 +5,7 @@ export const delve0123123Turbulence = {
   type: "story-chapter-read",
   slug: "delve-0123-123-turbulence",
   title: "123: Turbulence",
-  story: "delve",
+  story: "story-read/delve",
   position: 123,
   ownLength: 6116,
   unit: "unit/words",

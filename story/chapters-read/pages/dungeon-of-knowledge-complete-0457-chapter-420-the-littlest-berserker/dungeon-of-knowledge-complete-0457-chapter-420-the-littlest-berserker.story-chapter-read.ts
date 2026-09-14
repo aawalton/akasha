@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0457Chapter420TheLittlestBerserker = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0457-chapter-420-the-littlest-berserker",
   title: "Chapter 420: The Littlest Berserker",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 457,
   ownLength: 2688,
   ownProgress: 2688,

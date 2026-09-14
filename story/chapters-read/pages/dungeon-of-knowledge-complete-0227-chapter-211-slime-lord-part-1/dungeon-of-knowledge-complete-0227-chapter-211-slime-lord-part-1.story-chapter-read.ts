@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0227Chapter211SlimeLordPart1 = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0227-chapter-211-slime-lord-part-1",
   title: "Chapter 211: Slime Lord (Part 1)",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 227,
   ownLength: 1964,
   ownProgress: 1964,

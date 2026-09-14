@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0145Chapter143TrashCollector = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0145-chapter-143-trash-collector",
   title: "Chapter 143: Trash Collector",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 145,
   ownLength: 4786,
   ownProgress: 4786,

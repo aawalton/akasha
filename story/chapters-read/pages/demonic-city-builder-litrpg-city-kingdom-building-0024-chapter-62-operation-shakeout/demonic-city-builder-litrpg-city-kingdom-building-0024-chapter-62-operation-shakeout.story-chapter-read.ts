@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0024Chapter62OperationSh
   type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0024-chapter-62-operation-shakeout",
   title: "Chapter 62 - Operation Shakeout",
-  story: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   position: 24,
   ownLength: 2225,
   unit: "unit/words",

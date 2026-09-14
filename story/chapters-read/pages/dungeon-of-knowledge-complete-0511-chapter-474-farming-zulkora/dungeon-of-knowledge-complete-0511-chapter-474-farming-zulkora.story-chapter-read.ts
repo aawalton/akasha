@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0511Chapter474FarmingZulkora = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0511-chapter-474-farming-zulkora",
   title: "Chapter 474: Farming Zulkora",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 511,
   ownLength: 1630,
   ownProgress: 1630,

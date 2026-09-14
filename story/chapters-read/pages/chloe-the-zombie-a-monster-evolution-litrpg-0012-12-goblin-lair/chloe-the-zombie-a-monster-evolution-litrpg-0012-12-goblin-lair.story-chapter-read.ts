@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg001212GoblinLair = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0012-12-goblin-lair",
   title: "12: Goblin Lair",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 12,
   ownLength: 2535,
   unit: "unit/words",

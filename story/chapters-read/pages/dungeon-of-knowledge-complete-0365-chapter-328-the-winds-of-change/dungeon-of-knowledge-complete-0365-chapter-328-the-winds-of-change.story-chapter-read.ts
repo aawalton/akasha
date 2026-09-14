@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0365Chapter328TheWindsOfChange = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0365-chapter-328-the-winds-of-change",
   title: "Chapter 328: The Winds of Change",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 365,
   ownLength: 1631,
   ownProgress: 1631,

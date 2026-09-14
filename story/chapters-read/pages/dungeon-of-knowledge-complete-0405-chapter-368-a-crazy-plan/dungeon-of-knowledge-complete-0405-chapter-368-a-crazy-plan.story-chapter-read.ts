@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0405Chapter368ACrazyPlan = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0405-chapter-368-a-crazy-plan",
   title: "Chapter 368: A Crazy Plan",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 405,
   ownLength: 3440,
   ownProgress: 3440,

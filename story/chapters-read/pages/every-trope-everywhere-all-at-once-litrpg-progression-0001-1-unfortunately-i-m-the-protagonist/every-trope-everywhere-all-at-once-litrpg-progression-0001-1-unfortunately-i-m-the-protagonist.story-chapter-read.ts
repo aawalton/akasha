@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression00011UnfortunatelyIMT
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0001-1-unfortunately-i-m-the-protagonist",
   title: "1 - Unfortunately, I'm the Protagonist",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 1,
   ownLength: 1900,
   unit: "unit/words",

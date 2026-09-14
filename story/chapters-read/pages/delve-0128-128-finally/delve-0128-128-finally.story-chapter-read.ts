@@ -5,7 +5,7 @@ export const delve0128128Finally = {
   type: "story-chapter-read",
   slug: "delve-0128-128-finally",
   title: "128: Finally",
-  story: "delve",
+  story: "story-read/delve",
   position: 128,
   ownLength: 3777,
   unit: "unit/words",

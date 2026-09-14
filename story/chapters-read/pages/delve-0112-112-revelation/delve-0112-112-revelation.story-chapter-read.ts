@@ -5,7 +5,7 @@ export const delve0112112Revelation = {
   type: "story-chapter-read",
   slug: "delve-0112-112-revelation",
   title: "112: Revelation",
-  story: "delve",
+  story: "story-read/delve",
   position: 112,
   ownLength: 6237,
   unit: "unit/words",

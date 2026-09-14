@@ -5,7 +5,7 @@ export const catGirlEvolution006363DreamsOfHome = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0063-63-dreams-of-home",
   title: "63 - Dreams of Home",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 63,
   ownLength: 2147,
   unit: "unit/words",

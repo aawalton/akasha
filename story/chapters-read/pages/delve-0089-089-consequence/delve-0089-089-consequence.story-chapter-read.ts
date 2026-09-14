@@ -5,7 +5,7 @@ export const delve0089089Consequence = {
   type: "story-chapter-read",
   slug: "delve-0089-089-consequence",
   title: "089: Consequence",
-  story: "delve",
+  story: "story-read/delve",
   position: 89,
   ownLength: 4502,
   unit: "unit/words",

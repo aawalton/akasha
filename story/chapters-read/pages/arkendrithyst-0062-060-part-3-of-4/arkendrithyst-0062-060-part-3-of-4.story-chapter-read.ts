@@ -5,7 +5,7 @@ export const arkendrithyst0062060Part3Of4 = {
   type: "story-chapter-read",
   slug: "arkendrithyst-0062-060-part-3-of-4",
   title: "060 part 3 of 4",
-  story: "arkendrithyst",
+  story: "story-read/arkendrithyst",
   position: 62,
   ownLength: 4307,
   ownProgress: 4307,

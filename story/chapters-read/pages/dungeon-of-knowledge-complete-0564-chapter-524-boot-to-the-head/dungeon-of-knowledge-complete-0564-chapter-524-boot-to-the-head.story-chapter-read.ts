@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0564Chapter524BootToTheHead = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0564-chapter-524-boot-to-the-head",
   title: "Chapter 524: Boot to the Head",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 564,
   ownLength: 4919,
   ownProgress: 4919,

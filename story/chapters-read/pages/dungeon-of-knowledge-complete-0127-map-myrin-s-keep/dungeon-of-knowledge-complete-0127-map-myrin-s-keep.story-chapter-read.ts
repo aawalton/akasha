@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0127MapMyrinSKeep = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0127-map-myrin-s-keep",
   title: "Map: Myrin's Keep",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 127,
   ownLength: 193,
   ownProgress: 193,

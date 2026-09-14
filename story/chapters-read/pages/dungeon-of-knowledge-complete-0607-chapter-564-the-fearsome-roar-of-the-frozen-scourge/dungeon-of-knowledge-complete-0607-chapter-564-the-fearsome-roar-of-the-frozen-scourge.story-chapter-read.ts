@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0607Chapter564TheFearsomeRoarOfTheFrozenS
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0607-chapter-564-the-fearsome-roar-of-the-frozen-scourge",
   title: "Chapter 564: The Fearsome Roar of the Frozen Scourge",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 607,
   ownLength: 2718,
   unit: "unit/words",

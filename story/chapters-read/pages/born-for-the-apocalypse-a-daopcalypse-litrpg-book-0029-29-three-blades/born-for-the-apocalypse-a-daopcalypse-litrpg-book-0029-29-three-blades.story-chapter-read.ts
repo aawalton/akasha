@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook002929ThreeBlades = {
   type: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0029-29-three-blades",
   title: "29: Three Blades",
-  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "story-read/born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 29,
   ownLength: 1633,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0305Chapter2715AliandraStatusSheet = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0305-chapter-271-5-aliandra-status-sheet",
   title: "Chapter 271.5: Aliandra - Status Sheet",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 305,
   ownLength: 1440,
   ownProgress: 1440,

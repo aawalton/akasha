@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook00022DaoMarked = {
   type: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0002-2-dao-marked",
   title: "2: Dao Marked",
-  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "story-read/born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 2,
   ownLength: 1722,
   unit: "unit/words",

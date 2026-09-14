@@ -5,7 +5,7 @@ export const bookboundBunny0016B3Chapter12DungeonDefiler = {
   type: "story-chapter-read",
   slug: "bookbound-bunny-0016-b3-chapter-12-dungeon-defiler",
   title: "B3 - Chapter 12 - Dungeon Defiler",
-  story: "bookbound-bunny",
+  story: "story-read/bookbound-bunny",
   position: 16,
   ownLength: 2340,
   unit: "unit/words",

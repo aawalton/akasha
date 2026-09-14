@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression004040TheBorrowedOne 
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0040-40-the-borrowed-one",
   title: "40 - The Borrowed One",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 40,
   ownLength: 1586,
   unit: "unit/words",

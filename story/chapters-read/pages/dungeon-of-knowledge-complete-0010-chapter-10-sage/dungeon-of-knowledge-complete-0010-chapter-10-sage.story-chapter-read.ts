@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0010Chapter10Sage = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0010-chapter-10-sage",
   title: "Chapter 10: Sage",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 10,
   ownLength: 4726,
   ownProgress: 4726,

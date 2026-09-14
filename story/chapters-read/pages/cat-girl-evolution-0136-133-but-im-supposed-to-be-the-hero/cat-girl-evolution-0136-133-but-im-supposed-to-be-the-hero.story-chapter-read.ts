@@ -5,7 +5,7 @@ export const catGirlEvolution0136133ButImSupposedToBeTheHero = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0136-133-but-im-supposed-to-be-the-hero",
   title: "133 - But I’m Supposed to Be the Hero",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 136,
   ownLength: 2708,
   unit: "unit/words",

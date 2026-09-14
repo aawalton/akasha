@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0427Chapter390Observer = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0427-chapter-390-observer",
   title: "Chapter 390: Observer",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 427,
   ownLength: 2037,
   ownProgress: 2037,

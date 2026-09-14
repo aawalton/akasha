@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression009190DoYouEvenLift =
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0091-90-do-you-even-lift",
   title: "90 - Do You Even Lift?",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 91,
   ownLength: 1836,
   unit: "unit/words",

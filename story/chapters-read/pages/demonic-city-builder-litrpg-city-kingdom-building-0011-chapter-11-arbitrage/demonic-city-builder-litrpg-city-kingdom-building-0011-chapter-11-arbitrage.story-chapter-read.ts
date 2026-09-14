@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0011Chapter11Arbitrage =
   type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0011-chapter-11-arbitrage",
   title: "Chapter 11 - Arbitrage",
-  story: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   position: 11,
   ownLength: 1213,
   unit: "unit/words",

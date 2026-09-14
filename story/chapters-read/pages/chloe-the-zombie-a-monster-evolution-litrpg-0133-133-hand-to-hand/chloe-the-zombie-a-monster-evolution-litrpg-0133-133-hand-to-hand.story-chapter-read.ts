@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0133133HandToHand = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0133-133-hand-to-hand",
   title: "133: Hand to Hand",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 133,
   ownLength: 1902,
   unit: "unit/words",

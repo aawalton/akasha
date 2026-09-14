@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression00077TheMageInWhite =
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0007-7-the-mage-in-white",
   title: "7 - The Mage in White ",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 7,
   ownLength: 1457,
   unit: "unit/words",

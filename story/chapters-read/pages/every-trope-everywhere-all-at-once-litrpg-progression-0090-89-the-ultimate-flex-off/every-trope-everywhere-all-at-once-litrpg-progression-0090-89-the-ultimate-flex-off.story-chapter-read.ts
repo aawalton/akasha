@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression009089TheUltimateFlex
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0090-89-the-ultimate-flex-off",
   title: "89 - The Ultimate Flex Off",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 90,
   ownLength: 1519,
   unit: "unit/words",

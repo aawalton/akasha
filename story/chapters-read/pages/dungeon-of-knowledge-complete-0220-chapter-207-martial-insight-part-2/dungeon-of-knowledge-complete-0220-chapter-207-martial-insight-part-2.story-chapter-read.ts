@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0220Chapter207MartialInsightPart2 = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0220-chapter-207-martial-insight-part-2",
   title: "Chapter 207: Martial Insight (Part 2)",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 220,
   ownLength: 2293,
   ownProgress: 2293,

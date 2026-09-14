@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0456Chapter419MaalgarothTheCorruptor = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0456-chapter-419-maalgaroth-the-corruptor",
   title: "Chapter 419: Maalgaroth, The Corruptor",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 456,
   ownLength: 2727,
   ownProgress: 2727,

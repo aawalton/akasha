@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0105Chapter104CalligraphyWorkbook = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0105-chapter-104-calligraphy-workbook",
   title: "Chapter 104: Calligraphy Workbook",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 105,
   ownLength: 4107,
   ownProgress: 4107,

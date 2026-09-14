@@ -5,7 +5,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0355NewStoryReleaseToPrepare
   type: "story-chapter-read",
   slug: "crimson-eternal-an-immortal-death-mage-litrpg-0355-new-story-release-to-prepare-for-reaper-s",
   title: "New Story Release to prepare for Reaper's Resurgence Completing",
-  story: "crimson-eternal-an-immortal-death-mage-litrpg",
+  story: "story-read/crimson-eternal-an-immortal-death-mage-litrpg",
   position: 355,
   ownLength: 308,
   unit: "unit/words",

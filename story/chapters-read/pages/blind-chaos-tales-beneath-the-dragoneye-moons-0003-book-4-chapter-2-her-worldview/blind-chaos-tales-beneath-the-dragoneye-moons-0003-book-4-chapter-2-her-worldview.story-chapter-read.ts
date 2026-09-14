@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0003Book4Chapter2HerWorldvie
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0003-book-4-chapter-2-her-worldview",
   title: "Book 4 - Chapter 2 - Her Worldview",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 3,
   ownLength: 7376,
   unit: "unit/words",

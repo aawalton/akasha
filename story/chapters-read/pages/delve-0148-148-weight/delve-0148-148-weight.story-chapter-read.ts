@@ -5,7 +5,7 @@ export const delve0148148Weight = {
   type: "story-chapter-read",
   slug: "delve-0148-148-weight",
   title: "148: Weight",
-  story: "delve",
+  story: "story-read/delve",
   position: 148,
   ownLength: 5419,
   unit: "unit/words",

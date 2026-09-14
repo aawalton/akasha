@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression005858DemonicBlight =
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0058-58-demonic-blight",
   title: "58 - Demonic Blight",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 58,
   ownLength: 1426,
   unit: "unit/words",

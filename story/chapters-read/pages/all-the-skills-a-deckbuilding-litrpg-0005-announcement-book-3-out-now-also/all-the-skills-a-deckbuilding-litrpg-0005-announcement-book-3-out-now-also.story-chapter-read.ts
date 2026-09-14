@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0005AnnouncementBook3OutNowAlso = {
   type: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0005-announcement-book-3-out-now-also",
   title: "Announcement! Book 3 Out Now! Also...",
-  story: "all-the-skills-a-deckbuilding-litrpg",
+  story: "story-read/all-the-skills-a-deckbuilding-litrpg",
   position: 5,
   ownLength: 83,
   ownProgress: 83,

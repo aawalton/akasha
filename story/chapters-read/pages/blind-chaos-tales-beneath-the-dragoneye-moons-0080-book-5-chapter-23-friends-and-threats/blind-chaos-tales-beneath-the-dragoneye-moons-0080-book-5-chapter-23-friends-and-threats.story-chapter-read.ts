@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0080Book5Chapter23FriendsAnd
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0080-book-5-chapter-23-friends-and-threats",
   title: "Book 5 - Chapter 23 - Friends and... Threats?",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 80,
   ownLength: 5514,
   unit: "unit/words",

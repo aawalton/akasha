@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression004343BonenT = {
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0043-43-bonen-t",
   title: "43 - Bonen't",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 43,
   ownLength: 1866,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const delve0138138Metal = {
   type: "story-chapter-read",
   slug: "delve-0138-138-metal",
   title: "138: Metal",
-  story: "delve",
+  story: "story-read/delve",
   position: 138,
   ownLength: 5388,
   unit: "unit/words",

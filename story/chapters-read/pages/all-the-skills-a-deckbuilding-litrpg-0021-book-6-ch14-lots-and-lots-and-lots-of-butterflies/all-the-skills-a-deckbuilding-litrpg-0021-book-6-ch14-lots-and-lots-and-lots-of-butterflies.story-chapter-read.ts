@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0021Book6Ch14LotsAndLotsAndLotsOfBut
   type: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0021-book-6-ch14-lots-and-lots-and-lots-of-butterflies",
   title: "Book 6 Ch14: Lots and Lots and Lots of Butterflies",
-  story: "all-the-skills-a-deckbuilding-litrpg",
+  story: "story-read/all-the-skills-a-deckbuilding-litrpg",
   position: 21,
   ownLength: 2274,
   ownProgress: 2274,

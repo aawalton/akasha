@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0388Chapter351TeaCookiesAndAncientMemorie
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0388-chapter-351-tea-cookies-and-ancient-memories",
   title: "Chapter 351: Tea, Cookies, and Ancient Memories",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 388,
   ownLength: 2390,
   ownProgress: 2390,

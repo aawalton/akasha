@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression004848HowToTrainYourD
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0048-48-how-to-train-your-dragon",
   title: "48 - How to Train Your Dragon",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 48,
   ownLength: 1477,
   unit: "unit/words",

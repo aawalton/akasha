@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0531Chapter492TheFrozenApocalypseUnleashe
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0531-chapter-492-the-frozen-apocalypse-unleashed",
   title: "Chapter 492: The Frozen Apocalypse Unleashed",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 531,
   ownLength: 3849,
   ownProgress: 3849,

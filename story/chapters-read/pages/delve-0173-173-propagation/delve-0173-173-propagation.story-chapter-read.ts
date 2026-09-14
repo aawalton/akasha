@@ -5,7 +5,7 @@ export const delve0173173Propagation = {
   type: "story-chapter-read",
   slug: "delve-0173-173-propagation",
   title: "173: Propagation",
-  story: "delve",
+  story: "story-read/delve",
   position: 173,
   ownLength: 5129,
   unit: "unit/words",

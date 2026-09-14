@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0402Chapter365Headhunter = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0402-chapter-365-headhunter",
   title: "Chapter 365: Headhunter",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 402,
   ownLength: 2510,
   ownProgress: 2510,

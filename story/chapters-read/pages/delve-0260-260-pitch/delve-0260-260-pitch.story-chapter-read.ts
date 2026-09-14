@@ -5,7 +5,7 @@ export const delve0260260Pitch = {
   type: "story-chapter-read",
   slug: "delve-0260-260-pitch",
   title: "260: Pitch",
-  story: "delve",
+  story: "story-read/delve",
   position: 260,
   ownLength: 3839,
   unit: "unit/words",

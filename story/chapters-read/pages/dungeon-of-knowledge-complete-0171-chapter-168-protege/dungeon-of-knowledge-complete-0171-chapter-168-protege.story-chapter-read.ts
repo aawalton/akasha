@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0171Chapter168Protege = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0171-chapter-168-protege",
   title: "Chapter 168: Protégé",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 171,
   ownLength: 3854,
   ownProgress: 3854,

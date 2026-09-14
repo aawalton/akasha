@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0081Chapter81DealingWithWyverns = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0081-chapter-81-dealing-with-wyverns",
   title: "Chapter 81: Dealing With Wyverns",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 81,
   ownLength: 3984,
   ownProgress: 3984,

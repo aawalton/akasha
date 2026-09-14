@@ -5,7 +5,7 @@ export const delve0050050Baggage = {
   type: "story-chapter-read",
   slug: "delve-0050-050-baggage",
   title: "050: Baggage",
-  story: "delve",
+  story: "story-read/delve",
   position: 50,
   ownLength: 3553,
   unit: "unit/words",

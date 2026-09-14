@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0022Book4Chapter20BurningLov
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0022-book-4-chapter-20-burning-love-heart",
   title: "Book 4 - Chapter 20 - Burning Love Heart",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 22,
   ownLength: 5737,
   unit: "unit/words",

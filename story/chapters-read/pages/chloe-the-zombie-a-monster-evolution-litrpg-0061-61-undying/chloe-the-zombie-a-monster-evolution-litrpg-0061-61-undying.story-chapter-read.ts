@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg006161Undying = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0061-61-undying",
   title: "61: Undying",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 61,
   ownLength: 2018,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg005454MakingSmallTalk = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0054-54-making-small-talk",
   title: "54: Making Small Talk",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 54,
   ownLength: 2205,
   unit: "unit/words",

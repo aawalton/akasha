@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg003636BrokenMinds = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0036-36-broken-minds",
   title: "36: Broken Minds",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 36,
   ownLength: 2284,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const delve0108108Handover = {
   type: "story-chapter-read",
   slug: "delve-0108-108-handover",
   title: "108: Handover",
-  story: "delve",
+  story: "story-read/delve",
   position: 108,
   ownLength: 5321,
   unit: "unit/words",

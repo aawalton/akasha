@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0438Chapter401TheRuinsOfMyrinSKeep = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0438-chapter-401-the-ruins-of-myrin-s-keep",
   title: "Chapter 401: The Ruins of Myrin’s Keep",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 438,
   ownLength: 2992,
   ownProgress: 2992,

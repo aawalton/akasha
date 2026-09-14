@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0492Chapter455GuildBusiness = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0492-chapter-455-guild-business",
   title: "Chapter 455: Guild Business",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 492,
   ownLength: 4001,
   ownProgress: 4001,

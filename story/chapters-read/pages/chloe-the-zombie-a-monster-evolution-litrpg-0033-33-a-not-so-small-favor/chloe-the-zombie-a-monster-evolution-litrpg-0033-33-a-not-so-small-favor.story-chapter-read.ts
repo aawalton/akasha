@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg003333ANotSoSmallFavor = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0033-33-a-not-so-small-favor",
   title: "33: A Not so Small Favor",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 33,
   ownLength: 2387,
   unit: "unit/words",

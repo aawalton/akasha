@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0502Chapter465TheScoutSChoice = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0502-chapter-465-the-scout-s-choice",
   title: "Chapter 465: The Scout’s Choice",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 502,
   ownLength: 1525,
   ownProgress: 1525,

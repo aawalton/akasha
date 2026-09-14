@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0036B6Ch29SkillGrind5 = {
   type: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0036-b6-ch29-skill-grind-5",
   title: "B6 Ch29: Skill Grind (5)",
-  story: "all-the-skills-a-deckbuilding-litrpg",
+  story: "story-read/all-the-skills-a-deckbuilding-litrpg",
   position: 36,
   ownLength: 2532,
   ownProgress: 2532,

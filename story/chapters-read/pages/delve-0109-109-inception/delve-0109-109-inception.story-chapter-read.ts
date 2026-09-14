@@ -5,7 +5,7 @@ export const delve0109109Inception = {
   type: "story-chapter-read",
   slug: "delve-0109-109-inception",
   title: "109: Inception",
-  story: "delve",
+  story: "story-read/delve",
   position: 109,
   ownLength: 5858,
   unit: "unit/words",

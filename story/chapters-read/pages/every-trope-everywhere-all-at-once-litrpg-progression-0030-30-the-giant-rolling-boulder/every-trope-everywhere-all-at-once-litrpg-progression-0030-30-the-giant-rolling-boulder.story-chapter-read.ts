@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression003030TheGiantRolling
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0030-30-the-giant-rolling-boulder",
   title: "30 - The Giant Rolling Boulder",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 30,
   ownLength: 1727,
   unit: "unit/words",

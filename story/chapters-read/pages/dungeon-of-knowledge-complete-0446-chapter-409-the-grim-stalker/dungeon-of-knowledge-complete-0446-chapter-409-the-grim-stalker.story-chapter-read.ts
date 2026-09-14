@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0446Chapter409TheGrimStalker = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0446-chapter-409-the-grim-stalker",
   title: "Chapter 409: The Grim Stalker",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 446,
   ownLength: 2141,
   ownProgress: 2141,

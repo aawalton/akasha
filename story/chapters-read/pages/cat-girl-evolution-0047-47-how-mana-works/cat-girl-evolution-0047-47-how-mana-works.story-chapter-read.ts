@@ -5,7 +5,7 @@ export const catGirlEvolution004747HowManaWorks = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0047-47-how-mana-works",
   title: "47 - How Mana Works",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 47,
   ownLength: 2878,
   unit: "unit/words",

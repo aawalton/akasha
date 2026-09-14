@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0074QuickUpdate = {
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0074-quick-update",
   title: "Quick update",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 74,
   ownLength: 69,
   unit: "unit/words",

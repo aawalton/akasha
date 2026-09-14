@@ -5,7 +5,7 @@ export const delve0265265Surveillance = {
   type: "story-chapter-read",
   slug: "delve-0265-265-surveillance",
   title: "265: Surveillance",
-  story: "delve",
+  story: "story-read/delve",
   position: 265,
   ownLength: 3322,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const catGirlEvolution0106104WelcomeToMaligarB3Start = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0106-104-welcome-to-maligar-b3-start",
   title: "104 - Welcome to Maligar (B3 start)",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 106,
   ownLength: 2586,
   unit: "unit/words",

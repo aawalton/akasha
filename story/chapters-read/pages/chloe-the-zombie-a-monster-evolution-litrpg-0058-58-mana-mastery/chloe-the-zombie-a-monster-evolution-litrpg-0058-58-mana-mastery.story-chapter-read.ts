@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg005858ManaMastery = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0058-58-mana-mastery",
   title: "58: Mana Mastery",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 58,
   ownLength: 2106,
   unit: "unit/words",

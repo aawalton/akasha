@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0007Chapter7WolfPack = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0007-chapter-7-wolf-pack",
   title: "Chapter 7: Wolf Pack",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 7,
   ownLength: 5989,
   ownProgress: 5989,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0565Chapter525SneakAttack = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0565-chapter-525-sneak-attack",
   title: "Chapter 525: Sneak Attack",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 565,
   ownLength: 4675,
   ownProgress: 4675,

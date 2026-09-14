@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0055Chapter53BladeAndSheathe = {
   type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0055-chapter-53-blade-and-sheathe",
   title: "Chapter 53: Blade And Sheathe",
-  story: "delver-dungeon-diving-and-magic-litrpg",
+  story: "story-read/delver-dungeon-diving-and-magic-litrpg",
   position: 55,
   ownLength: 2046,
   unit: "unit/words",

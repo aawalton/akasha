@@ -5,7 +5,7 @@ export const arkendrithyst0181FanartAndMaps = {
   type: "story-chapter-read",
   slug: "arkendrithyst-0181-fanart-and-maps",
   title: "Fanart and Maps!",
-  story: "arkendrithyst",
+  story: "story-read/arkendrithyst",
   position: 181,
   ownLength: 137,
   ownProgress: 137,

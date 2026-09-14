@@ -5,7 +5,7 @@ export const apocalypseHealerPathOfDeathProgressionLitrpgvolume0001B1Chapter1Pan
   type: "story-chapter-read",
   slug: "apocalypse-healer-path-of-death-progression-litrpgvolume-0001-b1-chapter-1-pantheon",
   title: "B1 Chapter 1 - Pantheon",
-  story: "apocalypse-healer-path-of-death-progression-litrpgvolume",
+  story: "story-read/apocalypse-healer-path-of-death-progression-litrpgvolume",
   position: 1,
   ownLength: 2301,
   unit: "unit/words",

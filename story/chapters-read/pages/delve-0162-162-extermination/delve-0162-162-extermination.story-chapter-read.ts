@@ -5,7 +5,7 @@ export const delve0162162Extermination = {
   type: "story-chapter-read",
   slug: "delve-0162-162-extermination",
   title: "162: Extermination",
-  story: "delve",
+  story: "story-read/delve",
   position: 162,
   ownLength: 3755,
   unit: "unit/words",

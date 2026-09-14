@@ -5,7 +5,7 @@ export const catGirlEvolution004646NewMinionsAcquired = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0046-46-new-minions-acquired",
   title: "46 - New Minions Acquired!",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 46,
   ownLength: 2394,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const delve0161161Hive = {
   type: "story-chapter-read",
   slug: "delve-0161-161-hive",
   title: "161: Hive",
-  story: "delve",
+  story: "story-read/delve",
   position: 161,
   ownLength: 3303,
   unit: "unit/words",

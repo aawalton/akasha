@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook003030Moonsword = {
   type: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0030-30-moonsword",
   title: "30: Moonsword",
-  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "story-read/born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 30,
   ownLength: 1271,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0047Book4Chapter42FaithAndSt
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0047-book-4-chapter-42-faith-and-strength",
   title: "Book 4 - Chapter 42 - Faith and Strength",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 47,
   ownLength: 5628,
   unit: "unit/words",

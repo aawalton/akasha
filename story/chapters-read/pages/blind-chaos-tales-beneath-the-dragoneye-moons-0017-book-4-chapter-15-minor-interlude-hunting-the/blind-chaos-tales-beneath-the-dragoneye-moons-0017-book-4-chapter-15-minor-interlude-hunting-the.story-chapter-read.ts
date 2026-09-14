@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0017Book4Chapter15MinorInter
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0017-book-4-chapter-15-minor-interlude-hunting-the",
   title: "Book 4 - Chapter 15 - Minor Interlude - Hunting - The Hunter",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 17,
   ownLength: 2901,
   unit: "unit/words",

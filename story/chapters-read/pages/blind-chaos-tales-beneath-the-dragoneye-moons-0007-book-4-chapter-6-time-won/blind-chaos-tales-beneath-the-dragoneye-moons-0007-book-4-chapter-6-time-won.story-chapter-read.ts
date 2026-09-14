@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0007Book4Chapter6TimeWon = {
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0007-book-4-chapter-6-time-won",
   title: "Book 4 - Chapter 6 - Time Won",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 7,
   ownLength: 5910,
   unit: "unit/words",

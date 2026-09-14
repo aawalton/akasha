@@ -5,7 +5,7 @@ export const delve0048048Crucible = {
   type: "story-chapter-read",
   slug: "delve-0048-048-crucible",
   title: "048: Crucible",
-  story: "delve",
+  story: "story-read/delve",
   position: 48,
   ownLength: 3010,
   unit: "unit/words",

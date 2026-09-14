@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression006666Hostage = {
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0066-66-hostage",
   title: "66 - Hostage",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 66,
   ownLength: 1904,
   unit: "unit/words",

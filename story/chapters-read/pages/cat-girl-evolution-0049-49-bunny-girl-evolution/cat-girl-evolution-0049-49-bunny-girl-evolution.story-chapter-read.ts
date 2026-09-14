@@ -5,7 +5,7 @@ export const catGirlEvolution004949BunnyGirlEvolution = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0049-49-bunny-girl-evolution",
   title: "49 - Bunny + Girl ≠ Evolution",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 49,
   ownLength: 2592,
   unit: "unit/words",

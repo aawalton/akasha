@@ -5,7 +5,7 @@ export const alexaThymeFormerlyAlexithymia0004Chapter42SundayIntoMondayReunion =
   type: "story-chapter-read",
   slug: "alexa-thyme-formerly-alexithymia-0004-chapter-42-sunday-into-monday-reunion",
   title: "Chapter 42  Sunday into Monday Reunion",
-  story: "alexa-thyme-formerly-alexithymia",
+  story: "story-read/alexa-thyme-formerly-alexithymia",
   position: 4,
   ownLength: 2557,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0547Chapter507IntoTheDangerZone = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0547-chapter-507-into-the-danger-zone",
   title: "Chapter 507: Into the Danger Zone",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 547,
   ownLength: 5342,
   ownProgress: 5342,

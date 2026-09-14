@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0034Chapter33ABTesting =
   type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0034-chapter-33-a-b-testing",
   title: "Chapter 33 - A/B Testing",
-  story: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   position: 34,
   ownLength: 2853,
   unit: "unit/words",

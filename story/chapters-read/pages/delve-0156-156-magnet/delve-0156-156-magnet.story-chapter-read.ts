@@ -5,7 +5,7 @@ export const delve0156156Magnet = {
   type: "story-chapter-read",
   slug: "delve-0156-156-magnet",
   title: "156: Magnet",
-  story: "delve",
+  story: "story-read/delve",
   position: 156,
   ownLength: 5374,
   unit: "unit/words",

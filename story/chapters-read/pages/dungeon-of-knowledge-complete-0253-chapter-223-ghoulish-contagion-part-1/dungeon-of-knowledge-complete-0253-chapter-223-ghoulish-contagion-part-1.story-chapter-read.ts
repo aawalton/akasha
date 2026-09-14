@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0253Chapter223GhoulishContagionPart1 = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0253-chapter-223-ghoulish-contagion-part-1",
   title: "Chapter 223: Ghoulish Contagion (Part 1)",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 253,
   ownLength: 2465,
   ownProgress: 2465,

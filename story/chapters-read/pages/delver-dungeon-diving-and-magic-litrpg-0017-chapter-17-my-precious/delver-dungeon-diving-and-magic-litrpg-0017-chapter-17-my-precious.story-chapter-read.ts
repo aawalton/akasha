@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0017Chapter17MyPrecious = {
   type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0017-chapter-17-my-precious",
   title: "Chapter 17: My Precious",
-  story: "delver-dungeon-diving-and-magic-litrpg",
+  story: "story-read/delver-dungeon-diving-and-magic-litrpg",
   position: 17,
   ownLength: 2556,
   unit: "unit/words",

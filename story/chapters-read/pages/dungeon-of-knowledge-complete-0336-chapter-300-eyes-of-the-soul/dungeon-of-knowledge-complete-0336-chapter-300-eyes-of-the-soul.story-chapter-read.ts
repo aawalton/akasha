@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0336Chapter300EyesOfTheSoul = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0336-chapter-300-eyes-of-the-soul",
   title: "Chapter 300: Eyes of the Soul",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 336,
   ownLength: 2959,
   ownProgress: 2959,

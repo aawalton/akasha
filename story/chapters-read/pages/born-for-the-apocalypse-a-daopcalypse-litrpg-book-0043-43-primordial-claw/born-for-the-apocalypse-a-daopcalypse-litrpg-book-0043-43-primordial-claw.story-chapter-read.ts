@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook004343PrimordialClaw = {
   type: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0043-43-primordial-claw",
   title: "43: Primordial Claw",
-  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "story-read/born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 43,
   ownLength: 1696,
   unit: "unit/words",

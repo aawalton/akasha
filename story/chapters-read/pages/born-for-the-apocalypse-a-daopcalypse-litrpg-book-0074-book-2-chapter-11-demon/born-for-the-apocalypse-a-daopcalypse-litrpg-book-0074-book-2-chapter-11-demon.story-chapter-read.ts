@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook0074Book2Chapter11Demon =
   type: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0074-book-2-chapter-11-demon",
   title: "Book 2: Chapter 11- Demon",
-  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "story-read/born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 74,
   ownLength: 1079,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0011Book4Chapter10AFrozenCal
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0011-book-4-chapter-10-a-frozen-calm",
   title: "Book 4 - Chapter 10 - A Frozen Calm",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 11,
   ownLength: 4862,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const catGirlEvolution001515SkillUpgrades = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0015-15-skill-upgrades",
   title: "15 - Skill Upgrades",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 15,
   ownLength: 3004,
   unit: "unit/words",

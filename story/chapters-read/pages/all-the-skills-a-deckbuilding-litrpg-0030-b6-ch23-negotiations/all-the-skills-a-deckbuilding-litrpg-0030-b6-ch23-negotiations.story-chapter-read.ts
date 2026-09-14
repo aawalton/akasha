@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0030B6Ch23Negotiations = {
   type: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0030-b6-ch23-negotiations",
   title: "B6 Ch23: Negotiations",
-  story: "all-the-skills-a-deckbuilding-litrpg",
+  story: "story-read/all-the-skills-a-deckbuilding-litrpg",
   position: 30,
   ownLength: 1832,
   ownProgress: 1832,

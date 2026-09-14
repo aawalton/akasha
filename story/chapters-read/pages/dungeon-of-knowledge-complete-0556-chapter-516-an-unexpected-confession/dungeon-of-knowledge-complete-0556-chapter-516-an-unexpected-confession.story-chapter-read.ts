@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0556Chapter516AnUnexpectedConfession = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0556-chapter-516-an-unexpected-confession",
   title: "Chapter 516: An Unexpected Confession",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 556,
   ownLength: 2839,
   ownProgress: 2839,

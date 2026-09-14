@@ -5,7 +5,7 @@ export const catGirlEvolution001313SilverLevelThreat = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0013-13-silver-level-threat",
   title: "13 - Silver Level Threat",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 13,
   ownLength: 2672,
   unit: "unit/words",

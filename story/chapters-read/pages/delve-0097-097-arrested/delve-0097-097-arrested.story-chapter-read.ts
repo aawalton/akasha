@@ -5,7 +5,7 @@ export const delve0097097Arrested = {
   type: "story-chapter-read",
   slug: "delve-0097-097-arrested",
   title: "097: Arrested",
-  story: "delve",
+  story: "story-read/delve",
   position: 97,
   ownLength: 9725,
   unit: "unit/words",

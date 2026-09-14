@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0424Chapter387ThePathOfTheElderPart2 = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0424-chapter-387-the-path-of-the-elder-part-2",
   title: "Chapter 387: The Path of the Elder (Part 2)",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 424,
   ownLength: 3111,
   ownProgress: 3111,

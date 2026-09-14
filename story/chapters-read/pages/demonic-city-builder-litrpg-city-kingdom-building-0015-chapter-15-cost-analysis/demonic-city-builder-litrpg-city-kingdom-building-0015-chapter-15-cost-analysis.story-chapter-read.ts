@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0015Chapter15CostAnalysi
   type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0015-chapter-15-cost-analysis",
   title: "Chapter 15 - Cost Analysis",
-  story: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   position: 15,
   ownLength: 1306,
   unit: "unit/words",

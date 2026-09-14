@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0297Chapter265SeekerOfTheFirstAge = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0297-chapter-265-seeker-of-the-first-age",
   title: "Chapter 265: Seeker of the First Age",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 297,
   ownLength: 1543,
   ownProgress: 1543,

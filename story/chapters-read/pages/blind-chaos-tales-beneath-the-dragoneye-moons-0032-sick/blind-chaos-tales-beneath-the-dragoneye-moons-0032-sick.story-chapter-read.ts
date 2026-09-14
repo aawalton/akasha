@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0032Sick = {
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0032-sick",
   title: "Sick",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 32,
   ownLength: 237,
   unit: "unit/words",

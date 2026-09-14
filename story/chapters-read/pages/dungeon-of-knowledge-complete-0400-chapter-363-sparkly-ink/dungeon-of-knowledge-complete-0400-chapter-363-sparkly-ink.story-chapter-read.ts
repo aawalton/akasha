@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0400Chapter363SparklyInk = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0400-chapter-363-sparkly-ink",
   title: "Chapter 363: Sparkly Ink",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 400,
   ownLength: 2612,
   ownProgress: 2612,

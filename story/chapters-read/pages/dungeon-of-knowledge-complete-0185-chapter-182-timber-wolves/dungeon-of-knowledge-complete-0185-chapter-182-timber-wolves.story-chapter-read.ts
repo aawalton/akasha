@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0185Chapter182TimberWolves = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0185-chapter-182-timber-wolves",
   title: "Chapter 182: Timber Wolves",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 185,
   ownLength: 6515,
   ownProgress: 6515,

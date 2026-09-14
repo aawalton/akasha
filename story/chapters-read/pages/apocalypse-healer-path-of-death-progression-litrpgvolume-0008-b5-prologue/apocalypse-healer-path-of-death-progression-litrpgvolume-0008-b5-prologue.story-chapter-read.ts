@@ -5,7 +5,7 @@ export const apocalypseHealerPathOfDeathProgressionLitrpgvolume0008B5Prologue = 
   type: "story-chapter-read",
   slug: "apocalypse-healer-path-of-death-progression-litrpgvolume-0008-b5-prologue",
   title: "B5 Prologue",
-  story: "apocalypse-healer-path-of-death-progression-litrpgvolume",
+  story: "story-read/apocalypse-healer-path-of-death-progression-litrpgvolume",
   position: 8,
   ownLength: 1058,
   unit: "unit/words",

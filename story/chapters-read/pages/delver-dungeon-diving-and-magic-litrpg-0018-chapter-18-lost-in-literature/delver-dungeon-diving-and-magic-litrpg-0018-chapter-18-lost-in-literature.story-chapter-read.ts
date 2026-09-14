@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0018Chapter18LostInLiterature = {
   type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0018-chapter-18-lost-in-literature",
   title: "Chapter 18: Lost In Literature",
-  story: "delver-dungeon-diving-and-magic-litrpg",
+  story: "story-read/delver-dungeon-diving-and-magic-litrpg",
   position: 18,
   ownLength: 1688,
   unit: "unit/words",

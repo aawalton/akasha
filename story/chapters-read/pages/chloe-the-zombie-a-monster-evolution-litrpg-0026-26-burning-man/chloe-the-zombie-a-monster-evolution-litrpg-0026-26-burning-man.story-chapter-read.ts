@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg002626BurningMan = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0026-26-burning-man",
   title: "26: Burning Man",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 26,
   ownLength: 2159,
   unit: "unit/words",

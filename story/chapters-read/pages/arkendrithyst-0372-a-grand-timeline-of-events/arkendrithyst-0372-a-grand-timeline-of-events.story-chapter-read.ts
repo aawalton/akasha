@@ -5,7 +5,7 @@ export const arkendrithyst0372AGrandTimelineOfEvents = {
   type: "story-chapter-read",
   slug: "arkendrithyst-0372-a-grand-timeline-of-events",
   title: "A Grand Timeline of Events",
-  story: "arkendrithyst",
+  story: "story-read/arkendrithyst",
   position: 372,
   ownLength: 2196,
   ownProgress: 2196,

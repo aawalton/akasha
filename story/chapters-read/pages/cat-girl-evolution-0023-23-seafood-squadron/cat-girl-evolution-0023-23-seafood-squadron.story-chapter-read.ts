@@ -5,7 +5,7 @@ export const catGirlEvolution002323SeafoodSquadron = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0023-23-seafood-squadron",
   title: "23 - Seafood Squadron",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 23,
   ownLength: 2302,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0006Chapter6SpidersAndRats = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0006-chapter-6-spiders-and-rats",
   title: "Chapter 6: Spiders and Rats",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 6,
   ownLength: 5256,
   ownProgress: 5256,

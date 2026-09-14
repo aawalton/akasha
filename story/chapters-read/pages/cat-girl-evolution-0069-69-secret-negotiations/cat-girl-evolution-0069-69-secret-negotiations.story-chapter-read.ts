@@ -5,7 +5,7 @@ export const catGirlEvolution006969SecretNegotiations = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0069-69-secret-negotiations",
   title: "69 - Secret Negotiations",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 69,
   ownLength: 2547,
   unit: "unit/words",

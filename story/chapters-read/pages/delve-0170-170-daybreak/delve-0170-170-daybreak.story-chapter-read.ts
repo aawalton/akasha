@@ -5,7 +5,7 @@ export const delve0170170Daybreak = {
   type: "story-chapter-read",
   slug: "delve-0170-170-daybreak",
   title: "170: Daybreak",
-  story: "delve",
+  story: "story-read/delve",
   position: 170,
   ownLength: 6571,
   unit: "unit/words",

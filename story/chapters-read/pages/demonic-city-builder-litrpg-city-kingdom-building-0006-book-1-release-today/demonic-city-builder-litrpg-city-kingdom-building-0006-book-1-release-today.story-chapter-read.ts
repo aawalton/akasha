@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0006Book1ReleaseToday = 
   type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0006-book-1-release-today",
   title: "Book 1 Release Today!",
-  story: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   position: 6,
   ownLength: 173,
   unit: "unit/words",

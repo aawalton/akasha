@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0537Chapter497Parasites = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0537-chapter-497-parasites",
   title: "Chapter 497: Parasites",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 537,
   ownLength: 4387,
   ownProgress: 4387,

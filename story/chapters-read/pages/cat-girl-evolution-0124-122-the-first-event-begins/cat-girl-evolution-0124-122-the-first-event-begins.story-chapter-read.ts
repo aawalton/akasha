@@ -5,7 +5,7 @@ export const catGirlEvolution0124122TheFirstEventBegins = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0124-122-the-first-event-begins",
   title: "122 - The First Event Begins",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 124,
   ownLength: 2386,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0041Book4Chapter36AvynasOffe
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0041-book-4-chapter-36-avynas-offer",
   title: "Book 4 - Chapter 36 - Avyna's Offer",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 41,
   ownLength: 3693,
   unit: "unit/words",

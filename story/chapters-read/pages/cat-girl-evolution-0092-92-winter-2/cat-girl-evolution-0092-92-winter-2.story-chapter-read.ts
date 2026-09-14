@@ -5,7 +5,7 @@ export const catGirlEvolution009292Winter2 = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0092-92-winter-2",
   title: "92 - Winter (2)",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 92,
   ownLength: 2326,
   unit: "unit/words",

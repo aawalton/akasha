@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression001717ThereSOnlyOneBe
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0017-17-there-s-only-one-bed",
   title: "17 - There's Only One Bed",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 17,
   ownLength: 2075,
   unit: "unit/words",

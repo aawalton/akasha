@@ -5,7 +5,7 @@ export const catGirlEvolution00033Ichthyoid = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0003-3-ichthyoid",
   title: "3 - Ichthyoid",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 3,
   ownLength: 1842,
   unit: "unit/words",

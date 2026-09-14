@@ -5,7 +5,7 @@ export const bookboundBunny0057B3Chapter53GlyphsForEverything = {
   type: "story-chapter-read",
   slug: "bookbound-bunny-0057-b3-chapter-53-glyphs-for-everything",
   title: "B3 - Chapter 53 - Glyphs for Everything",
-  story: "bookbound-bunny",
+  story: "story-read/bookbound-bunny",
   position: 57,
   ownLength: 2357,
   unit: "unit/words",

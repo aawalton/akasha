@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0517Chapter479DevastationKnight = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0517-chapter-479-devastation-knight",
   title: "Chapter 479: Devastation Knight",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 517,
   ownLength: 3557,
   ownProgress: 3557,

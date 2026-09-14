@@ -5,7 +5,7 @@ export const catGirlEvolution0140137WeNeedToCook = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0140-137-we-need-to-cook",
   title: "137 - We Need to Cook",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 140,
   ownLength: 2303,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0168168StrangerDanger = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0168-168-stranger-danger",
   title: "168: Stranger Danger",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 168,
   ownLength: 2473,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0084Chapter84Armory = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0084-chapter-84-armory",
   title: "Chapter 84: Armory",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 84,
   ownLength: 4899,
   ownProgress: 4899,

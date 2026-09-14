@@ -5,7 +5,7 @@ export const dungeonDevotee0013Chapter11AFieldOfBladesAndBlood = {
   type: "story-chapter-read",
   slug: "dungeon-devotee-0013-chapter-11-a-field-of-blades-and-blood",
   title: "Chapter 11: A Field of Blades and Blood",
-  story: "dungeon-devotee",
+  story: "story-read/dungeon-devotee",
   position: 13,
   ownLength: 5953,
   ownProgress: 5953,

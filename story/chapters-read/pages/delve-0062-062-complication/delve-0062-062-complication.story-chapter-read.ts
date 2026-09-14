@@ -5,7 +5,7 @@ export const delve0062062Complication = {
   type: "story-chapter-read",
   slug: "delve-0062-062-complication",
   title: "062: Complication",
-  story: "delve",
+  story: "story-read/delve",
   position: 62,
   ownLength: 5129,
   unit: "unit/words",

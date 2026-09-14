@@ -5,7 +5,7 @@ export const catGirlEvolution0152149TheFrogDilemma = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0152-149-the-frog-dilemma",
   title: "149 - The Frog Dilemma",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 152,
   ownLength: 2353,
   unit: "unit/words",

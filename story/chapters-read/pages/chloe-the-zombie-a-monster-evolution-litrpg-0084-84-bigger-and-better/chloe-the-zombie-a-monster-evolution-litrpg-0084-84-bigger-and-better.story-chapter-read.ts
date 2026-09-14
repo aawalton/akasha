@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg008484BiggerAndBetter = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0084-84-bigger-and-better",
   title: "84: Bigger and Better",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 84,
   ownLength: 2011,
   unit: "unit/words",

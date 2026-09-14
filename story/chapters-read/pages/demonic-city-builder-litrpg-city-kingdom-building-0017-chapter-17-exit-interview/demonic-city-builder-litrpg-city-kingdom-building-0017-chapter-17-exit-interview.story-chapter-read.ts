@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0017Chapter17ExitIntervi
   type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0017-chapter-17-exit-interview",
   title: "Chapter 17 - Exit Interview",
-  story: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   position: 17,
   ownLength: 2394,
   unit: "unit/words",

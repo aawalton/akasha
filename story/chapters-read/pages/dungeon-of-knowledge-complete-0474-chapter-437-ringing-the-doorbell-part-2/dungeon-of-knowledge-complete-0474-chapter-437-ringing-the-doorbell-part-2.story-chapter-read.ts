@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0474Chapter437RingingTheDoorbellPart2 = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0474-chapter-437-ringing-the-doorbell-part-2",
   title: "Chapter 437: Ringing The Doorbell (Part 2)",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 474,
   ownLength: 2350,
   ownProgress: 2350,

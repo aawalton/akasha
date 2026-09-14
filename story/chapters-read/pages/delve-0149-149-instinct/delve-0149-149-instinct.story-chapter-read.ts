@@ -5,7 +5,7 @@ export const delve0149149Instinct = {
   type: "story-chapter-read",
   slug: "delve-0149-149-instinct",
   title: "149: Instinct",
-  story: "delve",
+  story: "story-read/delve",
   position: 149,
   ownLength: 5268,
   unit: "unit/words",

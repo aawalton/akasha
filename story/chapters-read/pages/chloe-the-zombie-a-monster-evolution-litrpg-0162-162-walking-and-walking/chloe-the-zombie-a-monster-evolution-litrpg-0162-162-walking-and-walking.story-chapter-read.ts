@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0162162WalkingAndWalking = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0162-162-walking-and-walking",
   title: "162: Walking and Walking",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 162,
   ownLength: 1909,
   unit: "unit/words",

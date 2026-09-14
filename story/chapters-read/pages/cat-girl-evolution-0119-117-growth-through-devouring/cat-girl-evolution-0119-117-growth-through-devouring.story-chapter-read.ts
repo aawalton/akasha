@@ -5,7 +5,7 @@ export const catGirlEvolution0119117GrowthThroughDevouring = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0119-117-growth-through-devouring",
   title: "117 - Growth Through Devouring",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 119,
   ownLength: 3430,
   unit: "unit/words",

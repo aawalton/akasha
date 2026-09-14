@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0585Chapter545Ascension = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0585-chapter-545-ascension",
   title: "Chapter 545: Ascension",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 585,
   ownLength: 4720,
   ownProgress: 4720,

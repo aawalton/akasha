@@ -5,7 +5,7 @@ export const catGirlEvolution00088FirstEvolution = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0008-8-first-evolution",
   title: "8 - First Evolution",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 8,
   ownLength: 1949,
   unit: "unit/words",

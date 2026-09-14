@@ -5,7 +5,7 @@ export const catGirlEvolution004040LizardDungeon = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0040-40-lizard-dungeon",
   title: "40 - Lizard Dungeon",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 40,
   ownLength: 2898,
   unit: "unit/words",

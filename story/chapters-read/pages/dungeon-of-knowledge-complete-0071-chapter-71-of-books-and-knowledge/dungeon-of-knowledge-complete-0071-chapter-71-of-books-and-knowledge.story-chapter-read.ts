@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0071Chapter71OfBooksAndKnowledge = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0071-chapter-71-of-books-and-knowledge",
   title: "Chapter 71: Of Books and Knowledge",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 71,
   ownLength: 3334,
   ownProgress: 3334,

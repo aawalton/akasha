@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0006Book4Chapter5ConflictRek
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0006-book-4-chapter-5-conflict-rekindled",
   title: "Book 4 - Chapter 5 - Conflict Rekindled",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 6,
   ownLength: 5261,
   unit: "unit/words",

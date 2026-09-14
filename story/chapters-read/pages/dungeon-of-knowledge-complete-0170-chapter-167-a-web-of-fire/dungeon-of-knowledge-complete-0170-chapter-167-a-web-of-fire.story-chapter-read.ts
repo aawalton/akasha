@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0170Chapter167AWebOfFire = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0170-chapter-167-a-web-of-fire",
   title: "Chapter 167: A Web of Fire",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 170,
   ownLength: 5808,
   ownProgress: 5808,

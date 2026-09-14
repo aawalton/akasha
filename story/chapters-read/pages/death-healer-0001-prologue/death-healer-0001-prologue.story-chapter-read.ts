@@ -5,7 +5,7 @@ export const deathHealer0001Prologue = {
   type: "story-chapter-read",
   slug: "death-healer-0001-prologue",
   title: "Prologue",
-  story: "death-healer",
+  story: "story-read/death-healer",
   position: 1,
   ownLength: 3142,
   unit: "unit/words",

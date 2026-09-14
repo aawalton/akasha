@@ -5,7 +5,7 @@ export const delve0090090Buried = {
   type: "story-chapter-read",
   slug: "delve-0090-090-buried",
   title: "090: Buried",
-  story: "delve",
+  story: "story-read/delve",
   position: 90,
   ownLength: 4847,
   unit: "unit/words",

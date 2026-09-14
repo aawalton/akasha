@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0015Book4Chapter13TheCavalry
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0015-book-4-chapter-13-the-cavalry",
   title: "Book 4 - Chapter 13 - The Cavalry",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 15,
   ownLength: 4326,
   unit: "unit/words",

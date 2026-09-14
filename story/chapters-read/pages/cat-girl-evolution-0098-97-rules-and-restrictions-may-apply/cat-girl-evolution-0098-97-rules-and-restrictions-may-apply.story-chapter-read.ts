@@ -5,7 +5,7 @@ export const catGirlEvolution009897RulesAndRestrictionsMayApply = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0098-97-rules-and-restrictions-may-apply",
   title: "97 - Rules and Restrictions May Apply",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 98,
   ownLength: 2914,
   unit: "unit/words",

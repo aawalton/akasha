@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0506Chapter469AnvilOfTheEmberforge = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0506-chapter-469-anvil-of-the-emberforge",
   title: "Chapter 469: Anvil of the Emberforge",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 506,
   ownLength: 2629,
   ownProgress: 2629,

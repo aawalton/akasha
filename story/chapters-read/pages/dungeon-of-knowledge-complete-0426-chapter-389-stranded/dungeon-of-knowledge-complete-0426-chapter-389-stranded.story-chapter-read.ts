@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0426Chapter389Stranded = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0426-chapter-389-stranded",
   title: "Chapter 389: Stranded",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 426,
   ownLength: 3022,
   ownProgress: 3022,

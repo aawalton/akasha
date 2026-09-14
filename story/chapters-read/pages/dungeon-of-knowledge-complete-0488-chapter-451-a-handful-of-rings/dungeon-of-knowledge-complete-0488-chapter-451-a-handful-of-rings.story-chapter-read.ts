@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0488Chapter451AHandfulOfRings = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0488-chapter-451-a-handful-of-rings",
   title: "Chapter 451: A Handful of Rings",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 488,
   ownLength: 2623,
   ownProgress: 2623,

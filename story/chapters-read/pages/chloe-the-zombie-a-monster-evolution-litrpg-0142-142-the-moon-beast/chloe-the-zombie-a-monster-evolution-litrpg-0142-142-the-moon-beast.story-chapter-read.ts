@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0142142TheMoonBeast = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0142-142-the-moon-beast",
   title: "142: The Moon Beast",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 142,
   ownLength: 2174,
   unit: "unit/words",

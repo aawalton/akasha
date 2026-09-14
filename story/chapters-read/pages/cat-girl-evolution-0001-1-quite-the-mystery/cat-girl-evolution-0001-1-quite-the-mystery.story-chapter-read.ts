@@ -5,7 +5,7 @@ export const catGirlEvolution00011QuiteTheMystery = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0001-1-quite-the-mystery",
   title: "1 - Quite the Mystery",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 1,
   ownLength: 2036,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0471Chapter434MalevolentOaks = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0471-chapter-434-malevolent-oaks",
   title: "Chapter 434: Malevolent Oaks",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 471,
   ownLength: 3625,
   ownProgress: 3625,

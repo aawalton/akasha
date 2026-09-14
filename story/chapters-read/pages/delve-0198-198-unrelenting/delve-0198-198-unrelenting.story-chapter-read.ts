@@ -5,7 +5,7 @@ export const delve0198198Unrelenting = {
   type: "story-chapter-read",
   slug: "delve-0198-198-unrelenting",
   title: "198: Unrelenting",
-  story: "delve",
+  story: "story-read/delve",
   position: 198,
   ownLength: 4528,
   unit: "unit/words",

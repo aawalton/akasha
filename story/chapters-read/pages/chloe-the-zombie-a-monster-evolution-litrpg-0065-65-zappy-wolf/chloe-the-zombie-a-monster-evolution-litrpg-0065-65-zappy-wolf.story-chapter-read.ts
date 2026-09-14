@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg006565ZappyWolf = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0065-65-zappy-wolf",
   title: "65: Zappy Wolf",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 65,
   ownLength: 1962,
   unit: "unit/words",

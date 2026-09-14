@@ -5,7 +5,7 @@ export const delve0270270Bottleneck = {
   type: "story-chapter-read",
   slug: "delve-0270-270-bottleneck",
   title: "270: Bottleneck",
-  story: "delve",
+  story: "story-read/delve",
   position: 270,
   ownLength: 2748,
   unit: "unit/words",

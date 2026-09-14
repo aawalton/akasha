@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0554Chapter514FirstRing = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0554-chapter-514-first-ring",
   title: "Chapter 514: First Ring",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 554,
   ownLength: 2380,
   ownProgress: 2380,

@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0012Book4Chapter11FeedingTha
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0012-book-4-chapter-11-feeding-thanatos",
   title: "Book 4 - Chapter 11 - Feeding Thanatos",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 12,
   ownLength: 8652,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression007574Paradox = {
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0075-74-paradox",
   title: "74 - Paradox",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 75,
   ownLength: 2377,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0018Chapter18OpenTicket 
   type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0018-chapter-18-open-ticket",
   title: "Chapter 18 - Open Ticket",
-  story: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   position: 18,
   ownLength: 3022,
   unit: "unit/words",

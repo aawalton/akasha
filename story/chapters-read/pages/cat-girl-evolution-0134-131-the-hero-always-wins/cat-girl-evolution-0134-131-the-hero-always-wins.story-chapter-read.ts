@@ -5,7 +5,7 @@ export const catGirlEvolution0134131TheHeroAlwaysWins = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0134-131-the-hero-always-wins",
   title: "131 - The Hero Always Wins",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 134,
   ownLength: 2284,
   unit: "unit/words",

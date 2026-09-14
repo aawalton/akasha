@@ -5,7 +5,7 @@ export const catGirlEvolution0139136TheEndOfMaligar = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0139-136-the-end-of-maligar",
   title: "136 - The End of Maligar",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 139,
   ownLength: 2864,
   unit: "unit/words",

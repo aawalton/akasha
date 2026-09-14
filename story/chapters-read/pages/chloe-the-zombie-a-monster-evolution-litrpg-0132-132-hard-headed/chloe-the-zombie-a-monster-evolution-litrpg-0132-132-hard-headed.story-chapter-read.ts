@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0132132HardHeaded = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0132-132-hard-headed",
   title: "132: Hard Headed",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 132,
   ownLength: 1850,
   unit: "unit/words",

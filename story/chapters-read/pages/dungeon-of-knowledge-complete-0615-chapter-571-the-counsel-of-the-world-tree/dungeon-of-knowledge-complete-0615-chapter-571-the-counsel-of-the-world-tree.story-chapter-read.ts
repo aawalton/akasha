@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0615Chapter571TheCounselOfTheWorldTree = 
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0615-chapter-571-the-counsel-of-the-world-tree",
   title: "Chapter 571: The Counsel of the World Tree",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 615,
   ownLength: 2822,
   unit: "unit/words",

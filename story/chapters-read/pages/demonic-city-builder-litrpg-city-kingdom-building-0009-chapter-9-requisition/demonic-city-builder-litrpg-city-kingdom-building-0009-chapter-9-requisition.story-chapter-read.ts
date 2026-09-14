@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0009Chapter9Requisition 
   type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0009-chapter-9-requisition",
   title: "Chapter 9 - Requisition",
-  story: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   position: 9,
   ownLength: 1349,
   unit: "unit/words",

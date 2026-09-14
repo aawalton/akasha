@@ -5,7 +5,7 @@ export const delve0071071Perspective = {
   type: "story-chapter-read",
   slug: "delve-0071-071-perspective",
   title: "071: Perspective",
-  story: "delve",
+  story: "story-read/delve",
   position: 71,
   ownLength: 4906,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const delve0130130Moving = {
   type: "story-chapter-read",
   slug: "delve-0130-130-moving",
   title: "130: Moving",
-  story: "delve",
+  story: "story-read/delve",
   position: 130,
   ownLength: 5828,
   unit: "unit/words",

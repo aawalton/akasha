@@ -5,7 +5,7 @@ export const catGirlEvolution006666TheFieldBoss = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0066-66-the-field-boss",
   title: "66 - The Field Boss",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 66,
   ownLength: 3060,
   unit: "unit/words",

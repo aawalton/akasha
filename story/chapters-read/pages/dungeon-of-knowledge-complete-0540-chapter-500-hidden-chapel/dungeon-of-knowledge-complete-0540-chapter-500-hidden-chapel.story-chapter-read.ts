@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0540Chapter500HiddenChapel = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0540-chapter-500-hidden-chapel",
   title: "Chapter 500: Hidden Chapel",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 540,
   ownLength: 2178,
   ownProgress: 2178,

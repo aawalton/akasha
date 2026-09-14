@@ -5,7 +5,7 @@ export const catGirlEvolution008383TheSevenDelicacies = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0083-83-the-seven-delicacies",
   title: "83 - The Seven Delicacies",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 83,
   ownLength: 2331,
   unit: "unit/words",

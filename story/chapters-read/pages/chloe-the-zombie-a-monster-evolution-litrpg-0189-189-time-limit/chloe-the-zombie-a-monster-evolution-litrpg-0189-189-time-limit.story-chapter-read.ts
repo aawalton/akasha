@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0189189TimeLimit = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0189-189-time-limit",
   title: "189: Time Limit",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 189,
   ownLength: 1947,
   unit: "unit/words",

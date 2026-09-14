@@ -5,7 +5,7 @@ export const bookboundBunny0006B3Chapter2RuneCharms = {
   type: "story-chapter-read",
   slug: "bookbound-bunny-0006-b3-chapter-2-rune-charms",
   title: "B3 - Chapter 2 - Rune Charms",
-  story: "bookbound-bunny",
+  story: "story-read/bookbound-bunny",
   position: 6,
   ownLength: 2167,
   unit: "unit/words",

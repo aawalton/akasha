@@ -5,7 +5,7 @@ export const dungeonDevotee0009Chapter7AcrossTheBasaltSteps = {
   type: "story-chapter-read",
   slug: "dungeon-devotee-0009-chapter-7-across-the-basalt-steps",
   title: "Chapter 7: Across the Basalt Steps",
-  story: "dungeon-devotee",
+  story: "story-read/dungeon-devotee",
   position: 9,
   ownLength: 6739,
   ownProgress: 6739,

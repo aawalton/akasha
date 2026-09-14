@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression001414WeReNotDead = {
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0014-14-we-re-not-dead",
   title: "14 - We're Not Dead",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 14,
   ownLength: 1241,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const delve0164164Deluge = {
   type: "story-chapter-read",
   slug: "delve-0164-164-deluge",
   title: "164: Deluge",
-  story: "delve",
+  story: "story-read/delve",
   position: 164,
   ownLength: 3851,
   unit: "unit/words",

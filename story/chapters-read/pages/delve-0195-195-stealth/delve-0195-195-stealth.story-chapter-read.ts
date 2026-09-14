@@ -5,7 +5,7 @@ export const delve0195195Stealth = {
   type: "story-chapter-read",
   slug: "delve-0195-195-stealth",
   title: "195: Stealth",
-  story: "delve",
+  story: "story-read/delve",
   position: 195,
   ownLength: 5511,
   unit: "unit/words",

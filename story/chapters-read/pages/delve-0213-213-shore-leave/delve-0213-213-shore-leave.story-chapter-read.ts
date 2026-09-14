@@ -5,7 +5,7 @@ export const delve0213213ShoreLeave = {
   type: "story-chapter-read",
   slug: "delve-0213-213-shore-leave",
   title: "213: Shore Leave",
-  story: "delve",
+  story: "story-read/delve",
   position: 213,
   ownLength: 3880,
   unit: "unit/words",

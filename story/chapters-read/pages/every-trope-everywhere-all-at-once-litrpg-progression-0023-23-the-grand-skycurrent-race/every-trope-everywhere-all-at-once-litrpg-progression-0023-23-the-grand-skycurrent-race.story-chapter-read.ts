@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression002323TheGrandSkycurr
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0023-23-the-grand-skycurrent-race",
   title: "23 - The Grand Skycurrent Race",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 23,
   ownLength: 1697,
   unit: "unit/words",

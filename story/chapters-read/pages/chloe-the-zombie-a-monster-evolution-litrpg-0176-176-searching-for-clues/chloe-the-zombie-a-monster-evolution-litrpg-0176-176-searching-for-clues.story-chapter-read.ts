@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0176176SearchingForClues = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0176-176-searching-for-clues",
   title: "176: Searching for Clues",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 176,
   ownLength: 2006,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0555Chapter515Synchronization = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0555-chapter-515-synchronization",
   title: "Chapter 515: Synchronization",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 555,
   ownLength: 2841,
   ownProgress: 2841,

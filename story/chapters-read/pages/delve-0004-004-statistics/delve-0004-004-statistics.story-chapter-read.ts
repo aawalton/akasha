@@ -5,7 +5,7 @@ export const delve0004004Statistics = {
   type: "story-chapter-read",
   slug: "delve-0004-004-statistics",
   title: "004: Statistics",
-  story: "delve",
+  story: "story-read/delve",
   position: 4,
   ownLength: 5605,
   unit: "unit/words",

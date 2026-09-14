@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0567Chapter527SiegeOfTheDead = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0567-chapter-527-siege-of-the-dead",
   title: "Chapter 527: Siege of the Dead",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 567,
   ownLength: 3781,
   ownProgress: 3781,

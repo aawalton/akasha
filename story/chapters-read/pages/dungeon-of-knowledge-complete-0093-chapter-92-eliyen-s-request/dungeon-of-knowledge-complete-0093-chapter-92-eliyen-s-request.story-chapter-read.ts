@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0093Chapter92EliyenSRequest = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0093-chapter-92-eliyen-s-request",
   title: "Chapter 92: Eliyen’s Request",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 93,
   ownLength: 4651,
   ownProgress: 4651,

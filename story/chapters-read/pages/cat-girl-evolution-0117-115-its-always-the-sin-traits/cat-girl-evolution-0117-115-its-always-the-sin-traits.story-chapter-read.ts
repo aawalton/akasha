@@ -5,7 +5,7 @@ export const catGirlEvolution0117115ItsAlwaysTheSinTraits = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0117-115-its-always-the-sin-traits",
   title: "115 - It's Always the Sin Traits",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 117,
   ownLength: 2541,
   unit: "unit/words",

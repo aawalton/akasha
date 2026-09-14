@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg001919TheGuild = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0019-19-the-guild",
   title: "19: The Guild",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 19,
   ownLength: 2080,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0049B6Ch42ADangerousHaggle = {
   type: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0049-b6-ch42-a-dangerous-haggle",
   title: "B6 Ch42: A Dangerous Haggle",
-  story: "all-the-skills-a-deckbuilding-litrpg",
+  story: "story-read/all-the-skills-a-deckbuilding-litrpg",
   position: 49,
   ownLength: 4432,
   unit: "unit/words",

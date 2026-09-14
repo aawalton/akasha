@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0558Chapter518ManaLock = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0558-chapter-518-mana-lock",
   title: "Chapter 518: Mana Lock",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 558,
   ownLength: 4098,
   ownProgress: 4098,

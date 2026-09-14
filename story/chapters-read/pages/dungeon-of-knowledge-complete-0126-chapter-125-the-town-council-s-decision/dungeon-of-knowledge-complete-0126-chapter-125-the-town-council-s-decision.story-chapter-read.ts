@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0126Chapter125TheTownCouncilSDecision = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0126-chapter-125-the-town-council-s-decision",
   title: "Chapter 125: The Town Council’s Decision",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 126,
   ownLength: 7072,
   ownProgress: 7072,

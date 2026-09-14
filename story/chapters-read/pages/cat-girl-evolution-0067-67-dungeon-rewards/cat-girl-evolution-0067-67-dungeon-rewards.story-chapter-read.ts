@@ -5,7 +5,7 @@ export const catGirlEvolution006767DungeonRewards = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0067-67-dungeon-rewards",
   title: "67 - Dungeon Rewards",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 67,
   ownLength: 2561,
   unit: "unit/words",

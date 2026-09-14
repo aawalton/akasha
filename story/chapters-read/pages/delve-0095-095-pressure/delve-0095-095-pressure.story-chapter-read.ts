@@ -5,7 +5,7 @@ export const delve0095095Pressure = {
   type: "story-chapter-read",
   slug: "delve-0095-095-pressure",
   title: "095: Pressure",
-  story: "delve",
+  story: "story-read/delve",
   position: 95,
   ownLength: 4742,
   unit: "unit/words",

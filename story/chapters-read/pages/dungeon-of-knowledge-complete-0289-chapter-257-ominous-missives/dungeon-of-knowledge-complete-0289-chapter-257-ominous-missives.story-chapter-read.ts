@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0289Chapter257OminousMissives = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0289-chapter-257-ominous-missives",
   title: "Chapter 257: Ominous Missives",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 289,
   ownLength: 2254,
   ownProgress: 2254,

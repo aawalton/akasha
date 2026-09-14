@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0024MajorAnnouncement = {
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0024-major-announcement",
   title: "Major Announcement",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 24,
   ownLength: 1937,
   unit: "unit/words",

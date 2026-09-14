@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0293Chapter261BloodAndDeathPart2 = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0293-chapter-261-blood-and-death-part-2",
   title: "Chapter 261: Blood and Death (Part 2)",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 293,
   ownLength: 3077,
   ownProgress: 3077,

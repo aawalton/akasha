@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression005151ItIsnTOver = {
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0051-51-it-isn-t-over",
   title: "51 - It isn't Over",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 51,
   ownLength: 1664,
   unit: "unit/words",

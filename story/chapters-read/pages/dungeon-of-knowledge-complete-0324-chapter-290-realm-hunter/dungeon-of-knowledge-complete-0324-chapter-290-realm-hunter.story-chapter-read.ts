@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0324Chapter290RealmHunter = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0324-chapter-290-realm-hunter",
   title: "Chapter 290: Realm Hunter",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 324,
   ownLength: 2839,
   ownProgress: 2839,

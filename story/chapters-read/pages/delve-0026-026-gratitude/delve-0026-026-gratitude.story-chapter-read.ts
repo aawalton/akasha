@@ -5,7 +5,7 @@ export const delve0026026Gratitude = {
   type: "story-chapter-read",
   slug: "delve-0026-026-gratitude",
   title: "026: Gratitude",
-  story: "delve",
+  story: "story-read/delve",
   position: 26,
   ownLength: 3440,
   unit: "unit/words",

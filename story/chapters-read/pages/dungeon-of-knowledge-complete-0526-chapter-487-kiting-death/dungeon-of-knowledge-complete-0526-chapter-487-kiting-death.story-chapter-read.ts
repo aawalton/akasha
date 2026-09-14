@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0526Chapter487KitingDeath = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0526-chapter-487-kiting-death",
   title: "Chapter 487: Kiting Death",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 526,
   ownLength: 2534,
   ownProgress: 2534,

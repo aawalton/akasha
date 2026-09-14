@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0591Chapter550AHolyTribute = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0591-chapter-550-a-holy-tribute",
   title: "Chapter 550: A Holy Tribute",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 591,
   ownLength: 3523,
   ownProgress: 3523,

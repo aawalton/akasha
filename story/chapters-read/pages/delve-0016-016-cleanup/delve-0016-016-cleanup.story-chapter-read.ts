@@ -5,7 +5,7 @@ export const delve0016016Cleanup = {
   type: "story-chapter-read",
   slug: "delve-0016-016-cleanup",
   title: "016: Cleanup",
-  story: "delve",
+  story: "story-read/delve",
   position: 16,
   ownLength: 2055,
   unit: "unit/words",

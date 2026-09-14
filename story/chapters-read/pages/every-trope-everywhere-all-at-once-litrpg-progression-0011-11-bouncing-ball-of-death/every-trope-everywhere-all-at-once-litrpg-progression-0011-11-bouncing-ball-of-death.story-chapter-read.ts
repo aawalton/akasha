@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression001111BouncingBallOfD
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0011-11-bouncing-ball-of-death",
   title: "11 - Bouncing Ball of Death",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 11,
   ownLength: 1618,
   unit: "unit/words",

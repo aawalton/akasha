@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0519Chapter481TheGrimSpark = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0519-chapter-481-the-grim-spark",
   title: "Chapter 481: The Grim Spark",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 519,
   ownLength: 2537,
   ownProgress: 2537,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0022Chapter22Ambush = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0022-chapter-22-ambush",
   title: "Chapter 22: Ambush",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 22,
   ownLength: 4963,
   ownProgress: 4963,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0588Chapter548DungeonsAndDemigods = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0588-chapter-548-dungeons-and-demigods",
   title: "Chapter 548: Dungeons and Demigods",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 588,
   ownLength: 4998,
   ownProgress: 4998,

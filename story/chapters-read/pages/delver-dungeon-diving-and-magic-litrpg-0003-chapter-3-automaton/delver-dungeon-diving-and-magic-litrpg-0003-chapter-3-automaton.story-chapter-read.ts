@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0003Chapter3Automaton = {
   type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0003-chapter-3-automaton",
   title: "Chapter 3: Automaton",
-  story: "delver-dungeon-diving-and-magic-litrpg",
+  story: "story-read/delver-dungeon-diving-and-magic-litrpg",
   position: 3,
   ownLength: 2274,
   unit: "unit/words",

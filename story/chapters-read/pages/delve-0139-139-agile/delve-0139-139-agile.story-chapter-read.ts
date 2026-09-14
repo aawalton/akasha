@@ -5,7 +5,7 @@ export const delve0139139Agile = {
   type: "story-chapter-read",
   slug: "delve-0139-139-agile",
   title: "139: Agile",
-  story: "delve",
+  story: "story-read/delve",
   position: 139,
   ownLength: 6602,
   unit: "unit/words",

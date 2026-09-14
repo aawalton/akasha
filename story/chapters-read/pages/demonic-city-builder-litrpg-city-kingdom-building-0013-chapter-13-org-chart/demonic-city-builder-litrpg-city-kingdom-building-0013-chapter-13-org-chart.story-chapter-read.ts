@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0013Chapter13OrgChart = 
   type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0013-chapter-13-org-chart",
   title: "Chapter 13 - Org Chart",
-  story: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   position: 13,
   ownLength: 2220,
   unit: "unit/words",

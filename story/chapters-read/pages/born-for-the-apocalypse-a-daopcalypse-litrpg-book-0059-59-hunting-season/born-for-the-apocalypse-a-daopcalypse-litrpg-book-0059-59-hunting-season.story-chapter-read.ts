@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook005959HuntingSeason = {
   type: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0059-59-hunting-season",
   title: "59: Hunting Season",
-  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "story-read/born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 59,
   ownLength: 2661,
   unit: "unit/words",

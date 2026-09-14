@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0229Chapter212TheTempleOfAmanRakPart1 = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0229-chapter-212-the-temple-of-aman-rak-part-1",
   title: "Chapter 212: The Temple of Aman Rak (Part 1)",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 229,
   ownLength: 2031,
   ownProgress: 2031,

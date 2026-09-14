@@ -5,7 +5,7 @@ export const delve0045045Signal = {
   type: "story-chapter-read",
   slug: "delve-0045-045-signal",
   title: "045: Signal",
-  story: "delve",
+  story: "story-read/delve",
   position: 45,
   ownLength: 3332,
   unit: "unit/words",

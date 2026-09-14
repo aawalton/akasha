@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook001212Contingency = {
   type: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0012-12-contingency",
   title: "12: Contingency",
-  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "story-read/born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 12,
   ownLength: 980,
   unit: "unit/words",

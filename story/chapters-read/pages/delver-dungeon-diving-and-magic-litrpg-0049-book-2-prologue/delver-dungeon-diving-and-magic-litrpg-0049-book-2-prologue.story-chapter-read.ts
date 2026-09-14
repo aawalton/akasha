@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0049Book2Prologue = {
   type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0049-book-2-prologue",
   title: "Book 2 Prologue",
-  story: "delver-dungeon-diving-and-magic-litrpg",
+  story: "story-read/delver-dungeon-diving-and-magic-litrpg",
   position: 49,
   ownLength: 1656,
   unit: "unit/words",

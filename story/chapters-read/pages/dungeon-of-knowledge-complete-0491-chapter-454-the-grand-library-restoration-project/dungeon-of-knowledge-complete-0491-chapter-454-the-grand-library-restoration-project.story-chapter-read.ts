@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0491Chapter454TheGrandLibraryRestorationP
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0491-chapter-454-the-grand-library-restoration-project",
   title: "Chapter 454: The Grand Library Restoration Project",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 491,
   ownLength: 1866,
   ownProgress: 1866,

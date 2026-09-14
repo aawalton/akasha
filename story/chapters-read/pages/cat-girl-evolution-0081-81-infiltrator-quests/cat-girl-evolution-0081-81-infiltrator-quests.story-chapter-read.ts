@@ -5,7 +5,7 @@ export const catGirlEvolution008181InfiltratorQuests = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0081-81-infiltrator-quests",
   title: "81 - Infiltrator Quests",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 81,
   ownLength: 2641,
   unit: "unit/words",

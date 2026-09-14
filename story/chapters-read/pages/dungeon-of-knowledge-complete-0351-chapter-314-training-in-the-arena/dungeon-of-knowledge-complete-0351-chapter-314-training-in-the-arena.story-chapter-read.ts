@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0351Chapter314TrainingInTheArena = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0351-chapter-314-training-in-the-arena",
   title: "Chapter 314: Training in the Arena",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 351,
   ownLength: 2597,
   ownProgress: 2597,

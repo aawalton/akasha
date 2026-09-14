@@ -5,7 +5,7 @@ export const bookboundBunny0083B3Chapter79PreludeToTheHunt = {
   type: "story-chapter-read",
   slug: "bookbound-bunny-0083-b3-chapter-79-prelude-to-the-hunt",
   title: "B3 - Chapter 79 - Prelude to the Hunt",
-  story: "bookbound-bunny",
+  story: "story-read/bookbound-bunny",
   position: 83,
   ownLength: 2054,
   unit: "unit/words",

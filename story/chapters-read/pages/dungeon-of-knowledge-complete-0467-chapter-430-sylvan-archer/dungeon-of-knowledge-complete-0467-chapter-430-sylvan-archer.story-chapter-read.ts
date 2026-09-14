@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0467Chapter430SylvanArcher = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0467-chapter-430-sylvan-archer",
   title: "Chapter 430: Sylvan Archer",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 467,
   ownLength: 2955,
   ownProgress: 2955,

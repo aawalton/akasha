@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0338Chapter301ATrollSRegret = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0338-chapter-301-a-troll-s-regret",
   title: "Chapter 301: A Troll’s Regret",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 338,
   ownLength: 2918,
   ownProgress: 2918,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0545Chapter505AShiftInDirection = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0545-chapter-505-a-shift-in-direction",
   title: "Chapter 505: A Shift in Direction",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 545,
   ownLength: 3052,
   ownProgress: 3052,

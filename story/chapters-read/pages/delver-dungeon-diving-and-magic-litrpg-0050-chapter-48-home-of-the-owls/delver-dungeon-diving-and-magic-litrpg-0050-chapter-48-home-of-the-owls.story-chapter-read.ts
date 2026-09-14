@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0050Chapter48HomeOfTheOwls = {
   type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0050-chapter-48-home-of-the-owls",
   title: "Chapter 48: Home Of The Owls",
-  story: "delver-dungeon-diving-and-magic-litrpg",
+  story: "story-read/delver-dungeon-diving-and-magic-litrpg",
   position: 50,
   ownLength: 2011,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const delve0199199Unprecedented = {
   type: "story-chapter-read",
   slug: "delve-0199-199-unprecedented",
   title: "199: Unprecedented",
-  story: "delve",
+  story: "story-read/delve",
   position: 199,
   ownLength: 3896,
   unit: "unit/words",

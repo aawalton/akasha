@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0059Book5Chapter2AWorldBeyon
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0059-book-5-chapter-2-a-world-beyond-remus",
   title: "Book 5 - Chapter 2 - A World Beyond Remus",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 59,
   ownLength: 5290,
   unit: "unit/words",

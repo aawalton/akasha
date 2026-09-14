@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0498Chapter461MaalgarothVersusTheSandwyrm
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0498-chapter-461-maalgaroth-versus-the-sandwyrm",
   title: "Chapter 461: Maalgaroth Versus the Sandwyrm",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 498,
   ownLength: 2215,
   ownProgress: 2215,

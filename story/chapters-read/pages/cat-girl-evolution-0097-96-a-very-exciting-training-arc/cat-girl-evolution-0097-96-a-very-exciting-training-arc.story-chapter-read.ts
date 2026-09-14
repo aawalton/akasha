@@ -5,7 +5,7 @@ export const catGirlEvolution009796AVeryExcitingTrainingArc = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0097-96-a-very-exciting-training-arc",
   title: "96 - A Very Exciting Training Arc",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 97,
   ownLength: 2514,
   unit: "unit/words",

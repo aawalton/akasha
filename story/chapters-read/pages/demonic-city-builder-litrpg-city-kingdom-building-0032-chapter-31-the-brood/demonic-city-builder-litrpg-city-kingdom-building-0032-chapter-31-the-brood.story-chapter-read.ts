@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0032Chapter31TheBrood = 
   type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0032-chapter-31-the-brood",
   title: "Chapter 31 - The Brood",
-  story: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   position: 32,
   ownLength: 2030,
   unit: "unit/words",

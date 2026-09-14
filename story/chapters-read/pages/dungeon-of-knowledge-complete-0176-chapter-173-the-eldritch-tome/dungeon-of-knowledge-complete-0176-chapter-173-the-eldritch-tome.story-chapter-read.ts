@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0176Chapter173TheEldritchTome = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0176-chapter-173-the-eldritch-tome",
   title: "Chapter 173: The Eldritch Tome",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 176,
   ownLength: 6606,
   ownProgress: 6606,

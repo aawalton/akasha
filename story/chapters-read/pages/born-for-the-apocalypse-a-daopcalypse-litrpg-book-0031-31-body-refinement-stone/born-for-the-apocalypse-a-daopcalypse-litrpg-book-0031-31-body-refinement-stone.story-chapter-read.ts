@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook003131BodyRefinementStone
   type: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0031-31-body-refinement-stone",
   title: "31: Body Refinement Stone",
-  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "story-read/born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 31,
   ownLength: 1279,
   unit: "unit/words",

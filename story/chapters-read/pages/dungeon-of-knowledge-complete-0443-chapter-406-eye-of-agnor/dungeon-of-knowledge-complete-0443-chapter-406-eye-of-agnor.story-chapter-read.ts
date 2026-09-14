@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0443Chapter406EyeOfAgnor = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0443-chapter-406-eye-of-agnor",
   title: "Chapter 406: Eye of Agnor",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 443,
   ownLength: 2785,
   ownProgress: 2785,

@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0087Book5Chapter30OpeningHer
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0087-book-5-chapter-30-opening-her-eye",
   title: "Book 5 - Chapter 30 - Opening Her Eye",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 87,
   ownLength: 5535,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression00033DonTTellMe = {
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0003-3-don-t-tell-me",
   title: "3 - Don’t tell me…",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 3,
   ownLength: 2239,
   unit: "unit/words",

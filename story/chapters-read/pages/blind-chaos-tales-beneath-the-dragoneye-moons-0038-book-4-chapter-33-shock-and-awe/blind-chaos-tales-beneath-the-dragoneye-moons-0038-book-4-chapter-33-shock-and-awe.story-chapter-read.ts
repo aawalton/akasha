@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0038Book4Chapter33ShockAndAw
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0038-book-4-chapter-33-shock-and-awe",
   title: "Book 4 - Chapter 33 - Shock and Awe",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 38,
   ownLength: 4634,
   unit: "unit/words",

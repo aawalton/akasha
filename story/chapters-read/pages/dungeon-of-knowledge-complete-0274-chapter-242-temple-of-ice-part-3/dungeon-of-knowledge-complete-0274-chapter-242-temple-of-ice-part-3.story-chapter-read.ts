@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0274Chapter242TempleOfIcePart3 = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0274-chapter-242-temple-of-ice-part-3",
   title: "Chapter 242: Temple of Ice (Part 3)",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 274,
   ownLength: 2517,
   ownProgress: 2517,

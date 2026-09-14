@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0046Book4Chapter41MinorInter
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0046-book-4-chapter-41-minor-interlude-avyna",
   title: "Book 4 - Chapter 41 - Minor Interlude – Avyna – Absolution",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 46,
   ownLength: 2353,
   unit: "unit/words",

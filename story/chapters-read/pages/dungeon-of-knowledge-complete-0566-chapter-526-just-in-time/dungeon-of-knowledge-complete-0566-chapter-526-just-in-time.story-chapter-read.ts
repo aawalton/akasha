@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0566Chapter526JustInTime = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0566-chapter-526-just-in-time",
   title: "Chapter 526: Just In Time ",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 566,
   ownLength: 3876,
   ownProgress: 3876,

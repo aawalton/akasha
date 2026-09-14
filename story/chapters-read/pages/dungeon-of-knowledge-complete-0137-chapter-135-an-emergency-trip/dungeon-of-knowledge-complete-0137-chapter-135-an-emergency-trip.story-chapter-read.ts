@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0137Chapter135AnEmergencyTrip = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0137-chapter-135-an-emergency-trip",
   title: "Chapter 135: An Emergency Trip",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 137,
   ownLength: 4093,
   ownProgress: 4093,

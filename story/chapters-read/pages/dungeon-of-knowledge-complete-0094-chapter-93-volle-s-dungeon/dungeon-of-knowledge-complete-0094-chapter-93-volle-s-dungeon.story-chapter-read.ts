@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0094Chapter93VolleSDungeon = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0094-chapter-93-volle-s-dungeon",
   title: "Chapter 93: Volle’s Dungeon",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 94,
   ownLength: 5068,
   ownProgress: 5068,

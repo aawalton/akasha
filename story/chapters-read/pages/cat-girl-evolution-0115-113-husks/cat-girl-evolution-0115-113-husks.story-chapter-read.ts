@@ -5,7 +5,7 @@ export const catGirlEvolution0115113Husks = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0115-113-husks",
   title: "113 - Husks",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 115,
   ownLength: 3603,
   unit: "unit/words",

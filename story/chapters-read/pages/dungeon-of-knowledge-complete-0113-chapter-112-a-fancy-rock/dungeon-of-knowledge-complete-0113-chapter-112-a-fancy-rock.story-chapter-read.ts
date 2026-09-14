@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0113Chapter112AFancyRock = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0113-chapter-112-a-fancy-rock",
   title: "Chapter 112: A Fancy Rock",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 113,
   ownLength: 4094,
   ownProgress: 4094,

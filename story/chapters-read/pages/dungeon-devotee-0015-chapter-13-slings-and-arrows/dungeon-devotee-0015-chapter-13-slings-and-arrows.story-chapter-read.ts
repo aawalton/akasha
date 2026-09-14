@@ -5,7 +5,7 @@ export const dungeonDevotee0015Chapter13SlingsAndArrows = {
   type: "story-chapter-read",
   slug: "dungeon-devotee-0015-chapter-13-slings-and-arrows",
   title: "Chapter 13: Slings and Arrows",
-  story: "dungeon-devotee",
+  story: "story-read/dungeon-devotee",
   position: 15,
   ownLength: 7397,
   ownProgress: 7397,

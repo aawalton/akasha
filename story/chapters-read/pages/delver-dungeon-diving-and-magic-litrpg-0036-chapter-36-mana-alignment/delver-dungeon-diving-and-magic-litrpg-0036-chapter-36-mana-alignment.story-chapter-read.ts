@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0036Chapter36ManaAlignment = {
   type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0036-chapter-36-mana-alignment",
   title: "Chapter 36: Mana Alignment",
-  story: "delver-dungeon-diving-and-magic-litrpg",
+  story: "story-read/delver-dungeon-diving-and-magic-litrpg",
   position: 36,
   ownLength: 1980,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const catGirlEvolution006161TheCrimeScene = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0061-61-the-crime-scene",
   title: "61 - The Crime Scene",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 61,
   ownLength: 2579,
   unit: "unit/words",

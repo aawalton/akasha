@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0407Chapter370TheBattleForLytonRuinsPart2
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0407-chapter-370-the-battle-for-lyton-ruins-part-2",
   title: "Chapter 370: The Battle for Lyton Ruins (Part 2)",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 407,
   ownLength: 2166,
   ownProgress: 2166,

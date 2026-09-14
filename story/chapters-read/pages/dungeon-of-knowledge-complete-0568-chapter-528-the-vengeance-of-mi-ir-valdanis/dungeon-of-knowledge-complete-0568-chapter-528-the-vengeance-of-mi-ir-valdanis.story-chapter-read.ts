@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0568Chapter528TheVengeanceOfMiIrValdanis 
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0568-chapter-528-the-vengeance-of-mi-ir-valdanis",
   title: "Chapter 528: The Vengeance of Mi’ir Valdanis",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 568,
   ownLength: 5103,
   ownProgress: 5103,

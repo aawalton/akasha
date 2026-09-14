@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0092Book5Chapter34BoundlessE
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0092-book-5-chapter-34-boundless-expectations",
   title: "Book 5 - Chapter 34 - Boundless Expectations",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 92,
   ownLength: 5071,
   unit: "unit/words",

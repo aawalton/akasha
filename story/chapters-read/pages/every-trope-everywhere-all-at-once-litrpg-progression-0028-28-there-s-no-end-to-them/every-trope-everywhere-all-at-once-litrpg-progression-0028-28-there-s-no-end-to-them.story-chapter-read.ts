@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression002828ThereSNoEndToTh
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0028-28-there-s-no-end-to-them",
   title: "28 - There’s No End to Them",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 28,
   ownLength: 1887,
   unit: "unit/words",

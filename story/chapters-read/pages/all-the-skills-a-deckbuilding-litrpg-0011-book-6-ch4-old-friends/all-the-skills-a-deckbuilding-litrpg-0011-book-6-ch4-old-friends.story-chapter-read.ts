@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0011Book6Ch4OldFriends = {
   type: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0011-book-6-ch4-old-friends",
   title: "Book 6 Ch4 - Old Friends",
-  story: "all-the-skills-a-deckbuilding-litrpg",
+  story: "story-read/all-the-skills-a-deckbuilding-litrpg",
   position: 11,
   ownLength: 3087,
   ownProgress: 3087,

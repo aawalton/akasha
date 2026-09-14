@@ -5,7 +5,7 @@ export const delve0241241Impasse = {
   type: "story-chapter-read",
   slug: "delve-0241-241-impasse",
   title: "241: Impasse",
-  story: "delve",
+  story: "story-read/delve",
   position: 241,
   ownLength: 3184,
   unit: "unit/words",

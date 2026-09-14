@@ -5,7 +5,7 @@ export const dungeonDevotee0016Chapter14TheUnrealTouchesBack = {
   type: "story-chapter-read",
   slug: "dungeon-devotee-0016-chapter-14-the-unreal-touches-back",
   title: "Chapter 14: The Unreal Touches Back",
-  story: "dungeon-devotee",
+  story: "story-read/dungeon-devotee",
   position: 16,
   ownLength: 6074,
   ownProgress: 6074,

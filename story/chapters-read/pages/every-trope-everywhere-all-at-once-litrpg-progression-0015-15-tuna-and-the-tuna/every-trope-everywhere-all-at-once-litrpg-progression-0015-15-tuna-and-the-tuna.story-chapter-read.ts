@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression001515TunaAndTheTuna 
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0015-15-tuna-and-the-tuna",
   title: "15 - Tuna and the tuna ",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 15,
   ownLength: 1919,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0029Chapter29GoblinBugbears = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0029-chapter-29-goblin-bugbears",
   title: "Chapter 29: Goblin Bugbears",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 29,
   ownLength: 4432,
   ownProgress: 4432,

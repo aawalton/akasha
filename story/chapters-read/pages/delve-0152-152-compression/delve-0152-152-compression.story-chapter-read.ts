@@ -5,7 +5,7 @@ export const delve0152152Compression = {
   type: "story-chapter-read",
   slug: "delve-0152-152-compression",
   title: "152: Compression",
-  story: "delve",
+  story: "story-read/delve",
   position: 152,
   ownLength: 6475,
   unit: "unit/words",

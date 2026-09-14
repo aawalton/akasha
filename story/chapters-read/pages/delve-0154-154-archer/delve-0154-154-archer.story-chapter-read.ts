@@ -5,7 +5,7 @@ export const delve0154154Archer = {
   type: "story-chapter-read",
   slug: "delve-0154-154-archer",
   title: "154: Archer",
-  story: "delve",
+  story: "story-read/delve",
   position: 154,
   ownLength: 6316,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const catGirlEvolution0159156FollowersOfLimos = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0159-156-followers-of-limos",
   title: "156 - Followers of Limos",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 159,
   ownLength: 1758,
   unit: "unit/words",

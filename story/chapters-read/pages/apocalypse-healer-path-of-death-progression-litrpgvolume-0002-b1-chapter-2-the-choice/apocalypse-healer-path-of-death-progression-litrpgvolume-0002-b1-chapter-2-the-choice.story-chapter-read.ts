@@ -5,7 +5,7 @@ export const apocalypseHealerPathOfDeathProgressionLitrpgvolume0002B1Chapter2The
   type: "story-chapter-read",
   slug: "apocalypse-healer-path-of-death-progression-litrpgvolume-0002-b1-chapter-2-the-choice",
   title: "B1 Chapter 2 - The Choice",
-  story: "apocalypse-healer-path-of-death-progression-litrpgvolume",
+  story: "story-read/apocalypse-healer-path-of-death-progression-litrpgvolume",
   position: 2,
   ownLength: 1999,
   unit: "unit/words",

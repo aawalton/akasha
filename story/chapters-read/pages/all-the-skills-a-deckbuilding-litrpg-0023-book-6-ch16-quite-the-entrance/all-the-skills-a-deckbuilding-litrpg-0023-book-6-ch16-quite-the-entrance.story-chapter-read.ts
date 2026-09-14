@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0023Book6Ch16QuiteTheEntrance = {
   type: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0023-book-6-ch16-quite-the-entrance",
   title: "Book 6 Ch16: Quite The Entrance",
-  story: "all-the-skills-a-deckbuilding-litrpg",
+  story: "story-read/all-the-skills-a-deckbuilding-litrpg",
   position: 23,
   ownLength: 3135,
   ownProgress: 3135,

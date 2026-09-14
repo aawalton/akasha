@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0059Chapter57GuardianGolems = {
   type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0059-chapter-57-guardian-golems",
   title: "Chapter 57: Guardian Golems",
-  story: "delver-dungeon-diving-and-magic-litrpg",
+  story: "story-read/delver-dungeon-diving-and-magic-litrpg",
   position: 59,
   ownLength: 2418,
   unit: "unit/words",

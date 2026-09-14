@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0048Chapter48Merchant = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0048-chapter-48-merchant",
   title: "Chapter 48: Merchant",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 48,
   ownLength: 5461,
   ownProgress: 5461,

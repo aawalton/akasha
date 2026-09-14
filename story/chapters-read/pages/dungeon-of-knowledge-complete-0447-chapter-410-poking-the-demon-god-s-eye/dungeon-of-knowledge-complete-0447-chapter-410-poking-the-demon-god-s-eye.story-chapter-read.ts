@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0447Chapter410PokingTheDemonGodSEye = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0447-chapter-410-poking-the-demon-god-s-eye",
   title: "Chapter 410: Poking the Demon God’s Eye",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 447,
   ownLength: 3624,
   ownProgress: 3624,

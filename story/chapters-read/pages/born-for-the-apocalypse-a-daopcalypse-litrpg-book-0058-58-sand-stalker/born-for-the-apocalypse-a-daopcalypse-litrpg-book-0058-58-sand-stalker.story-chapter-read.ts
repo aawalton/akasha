@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook005858SandStalker = {
   type: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0058-58-sand-stalker",
   title: "58: Sand Stalker",
-  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "story-read/born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 58,
   ownLength: 2207,
   unit: "unit/words",

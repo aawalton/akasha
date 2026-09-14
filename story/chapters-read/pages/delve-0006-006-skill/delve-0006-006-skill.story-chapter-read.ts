@@ -5,7 +5,7 @@ export const delve0006006Skill = {
   type: "story-chapter-read",
   slug: "delve-0006-006-skill",
   title: "006: Skill",
-  story: "delve",
+  story: "story-read/delve",
   position: 6,
   ownLength: 2953,
   unit: "unit/words",

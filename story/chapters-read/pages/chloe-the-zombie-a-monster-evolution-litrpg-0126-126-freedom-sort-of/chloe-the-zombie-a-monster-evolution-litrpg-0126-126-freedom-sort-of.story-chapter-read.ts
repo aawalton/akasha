@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0126126FreedomSortOf = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0126-126-freedom-sort-of",
   title: "126: Freedom, Sort of",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 126,
   ownLength: 1795,
   unit: "unit/words",

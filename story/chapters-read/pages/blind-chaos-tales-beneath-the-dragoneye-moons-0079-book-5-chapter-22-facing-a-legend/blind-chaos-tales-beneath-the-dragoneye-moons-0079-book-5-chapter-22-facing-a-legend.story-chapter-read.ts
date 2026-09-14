@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0079Book5Chapter22FacingALeg
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0079-book-5-chapter-22-facing-a-legend",
   title: "Book 5 - Chapter 22 - Facing a Legend",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 79,
   ownLength: 3825,
   unit: "unit/words",

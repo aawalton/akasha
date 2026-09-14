@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0284Chapter252BloodBerserkerPart1 = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0284-chapter-252-blood-berserker-part-1",
   title: "Chapter 252: Blood Berserker (Part 1)",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 284,
   ownLength: 1973,
   ownProgress: 1973,

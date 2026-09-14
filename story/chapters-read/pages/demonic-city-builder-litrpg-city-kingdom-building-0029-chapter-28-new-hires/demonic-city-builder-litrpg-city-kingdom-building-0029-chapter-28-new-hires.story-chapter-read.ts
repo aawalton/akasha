@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0029Chapter28NewHires = 
   type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0029-chapter-28-new-hires",
   title: "Chapter 28 - New Hires",
-  story: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   position: 29,
   ownLength: 2344,
   unit: "unit/words",

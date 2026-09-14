@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0218Chapter206HowADungeonGrowsPart3 = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0218-chapter-206-how-a-dungeon-grows-part-3",
   title: "Chapter 206: How a Dungeon Grows (Part 3)",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 218,
   ownLength: 2347,
   ownProgress: 2347,

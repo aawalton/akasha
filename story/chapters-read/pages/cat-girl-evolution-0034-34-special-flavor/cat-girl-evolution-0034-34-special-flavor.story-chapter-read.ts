@@ -5,7 +5,7 @@ export const catGirlEvolution003434SpecialFlavor = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0034-34-special-flavor",
   title: "34 - Special Flavor",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 34,
   ownLength: 3104,
   unit: "unit/words",

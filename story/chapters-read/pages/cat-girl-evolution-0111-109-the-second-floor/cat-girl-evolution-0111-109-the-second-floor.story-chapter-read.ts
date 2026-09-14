@@ -5,7 +5,7 @@ export const catGirlEvolution0111109TheSecondFloor = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0111-109-the-second-floor",
   title: "109 - The Second Floor",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 111,
   ownLength: 2700,
   unit: "unit/words",

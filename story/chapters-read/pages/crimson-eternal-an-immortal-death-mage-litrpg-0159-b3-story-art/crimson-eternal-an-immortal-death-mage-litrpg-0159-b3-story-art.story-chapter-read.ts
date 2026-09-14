@@ -5,7 +5,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0159B3StoryArt = {
   type: "story-chapter-read",
   slug: "crimson-eternal-an-immortal-death-mage-litrpg-0159-b3-story-art",
   title: "B3 | Story Art",
-  story: "crimson-eternal-an-immortal-death-mage-litrpg",
+  story: "story-read/crimson-eternal-an-immortal-death-mage-litrpg",
   position: 159,
   ownLength: 72,
   ownProgress: 72,

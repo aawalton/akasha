@@ -5,7 +5,7 @@ export const delve0176176Patience = {
   type: "story-chapter-read",
   slug: "delve-0176-176-patience",
   title: "176: Patience",
-  story: "delve",
+  story: "story-read/delve",
   position: 176,
   ownLength: 5561,
   unit: "unit/words",

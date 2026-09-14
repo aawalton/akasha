@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0609Chapter566SoulSeerOfTheNinePaths = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0609-chapter-566-soul-seer-of-the-nine-paths",
   title: "Chapter 566: Soul Seer of the Nine Paths",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 609,
   ownLength: 2796,
   unit: "unit/words",

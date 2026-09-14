@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg007474FlyingHigh = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0074-74-flying-high",
   title: "74: Flying High",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 74,
   ownLength: 2027,
   unit: "unit/words",

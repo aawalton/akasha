@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0523Chapter485AToolForSmiting = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0523-chapter-485-a-tool-for-smiting",
   title: "Chapter 485: A Tool for Smiting",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 523,
   ownLength: 2743,
   ownProgress: 2743,

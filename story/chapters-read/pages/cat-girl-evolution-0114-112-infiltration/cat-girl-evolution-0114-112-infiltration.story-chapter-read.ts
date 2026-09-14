@@ -5,7 +5,7 @@ export const catGirlEvolution0114112Infiltration = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0114-112-infiltration",
   title: "112 - Infiltration",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 114,
   ownLength: 3459,
   unit: "unit/words",

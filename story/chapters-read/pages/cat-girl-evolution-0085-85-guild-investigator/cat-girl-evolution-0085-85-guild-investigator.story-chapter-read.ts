@@ -5,7 +5,7 @@ export const catGirlEvolution008585GuildInvestigator = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0085-85-guild-investigator",
   title: "85 - Guild Investigator",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 85,
   ownLength: 3142,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const catGirlEvolution005454TheDisaster = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0054-54-the-disaster",
   title: "54 - The Disaster",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 54,
   ownLength: 1965,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const delve0178178Proposition = {
   type: "story-chapter-read",
   slug: "delve-0178-178-proposition",
   title: "178: Proposition",
-  story: "delve",
+  story: "story-read/delve",
   position: 178,
   ownLength: 4059,
   unit: "unit/words",

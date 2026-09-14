@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0049Book4Chapter44JustASkirm
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0049-book-4-chapter-44-just-a-skirmish",
   title: "Book 4 - Chapter 44 - Just a Skirmish",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 49,
   ownLength: 5422,
   unit: "unit/words",

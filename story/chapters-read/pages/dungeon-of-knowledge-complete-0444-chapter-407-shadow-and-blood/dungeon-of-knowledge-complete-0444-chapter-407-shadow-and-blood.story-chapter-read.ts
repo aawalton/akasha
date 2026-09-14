@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0444Chapter407ShadowAndBlood = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0444-chapter-407-shadow-and-blood",
   title: "Chapter 407: Shadow and Blood",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 444,
   ownLength: 4342,
   ownProgress: 4342,

@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0156156NewNormalStartOfBook3 =
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0156-156-new-normal-start-of-book-3",
   title: "156: New Normal (Start of Book 3)",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 156,
   ownLength: 1952,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0019Book6Chapter12SnowMoon = {
   type: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0019-book-6-chapter-12-snow-moon",
   title: "Book 6 Chapter 12: Snow Moon",
-  story: "all-the-skills-a-deckbuilding-litrpg",
+  story: "story-read/all-the-skills-a-deckbuilding-litrpg",
   position: 19,
   ownLength: 2258,
   ownProgress: 2258,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0570Chapter530NendirTheCorrupted = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0570-chapter-530-nendir-the-corrupted",
   title: "Chapter 530: Nendir, The Corrupted",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 570,
   ownLength: 4041,
   ownProgress: 4041,

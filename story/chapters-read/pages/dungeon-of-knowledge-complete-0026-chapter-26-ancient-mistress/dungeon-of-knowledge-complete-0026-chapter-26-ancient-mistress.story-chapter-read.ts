@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0026Chapter26AncientMistress = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0026-chapter-26-ancient-mistress",
   title: "Chapter 26: Ancient Mistress",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 26,
   ownLength: 7284,
   ownProgress: 7284,

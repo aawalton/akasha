@@ -5,7 +5,7 @@ export const bookboundBunny0074B3Chapter70OpeningAct = {
   type: "story-chapter-read",
   slug: "bookbound-bunny-0074-b3-chapter-70-opening-act",
   title: "B3 - Chapter 70 - Opening Act",
-  story: "bookbound-bunny",
+  story: "story-read/bookbound-bunny",
   position: 74,
   ownLength: 2344,
   unit: "unit/words",

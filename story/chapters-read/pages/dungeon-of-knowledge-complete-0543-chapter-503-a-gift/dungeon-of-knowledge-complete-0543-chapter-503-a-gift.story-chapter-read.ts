@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0543Chapter503AGift = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0543-chapter-503-a-gift",
   title: "Chapter 503: A Gift",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 543,
   ownLength: 2467,
   ownProgress: 2467,

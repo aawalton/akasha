@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0603Chapter560BloodwielderOfAmanRak = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0603-chapter-560-bloodwielder-of-aman-rak",
   title: "Chapter 560: Bloodwielder of Aman Rak",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 603,
   ownLength: 4623,
   unit: "unit/words",

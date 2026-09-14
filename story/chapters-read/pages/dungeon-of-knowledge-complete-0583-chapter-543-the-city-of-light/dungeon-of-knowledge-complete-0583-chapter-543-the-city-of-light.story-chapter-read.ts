@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0583Chapter543TheCityOfLight = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0583-chapter-543-the-city-of-light",
   title: "Chapter 543: The City of Light",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 583,
   ownLength: 4267,
   ownProgress: 4267,

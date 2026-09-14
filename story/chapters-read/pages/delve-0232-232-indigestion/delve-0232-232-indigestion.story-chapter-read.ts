@@ -5,7 +5,7 @@ export const delve0232232Indigestion = {
   type: "story-chapter-read",
   slug: "delve-0232-232-indigestion",
   title: "232: Indigestion",
-  story: "delve",
+  story: "story-read/delve",
   position: 232,
   ownLength: 4713,
   unit: "unit/words",

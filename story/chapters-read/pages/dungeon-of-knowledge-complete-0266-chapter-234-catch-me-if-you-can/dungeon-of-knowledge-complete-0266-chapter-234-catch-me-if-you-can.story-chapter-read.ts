@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0266Chapter234CatchMeIfYouCan = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0266-chapter-234-catch-me-if-you-can",
   title: "Chapter 234: Catch Me, If You Can",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 266,
   ownLength: 2316,
   ownProgress: 2316,

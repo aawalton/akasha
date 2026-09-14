@@ -5,7 +5,7 @@ export const delve0085085Temper = {
   type: "story-chapter-read",
   slug: "delve-0085-085-temper",
   title: "085: Temper",
-  story: "delve",
+  story: "story-read/delve",
   position: 85,
   ownLength: 5891,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const delve0049049Downtime = {
   type: "story-chapter-read",
   slug: "delve-0049-049-downtime",
   title: "049: Downtime",
-  story: "delve",
+  story: "story-read/delve",
   position: 49,
   ownLength: 3660,
   unit: "unit/words",

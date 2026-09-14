@@ -5,7 +5,7 @@ export const catGirlEvolution0116114ToldYouSo = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0116-114-told-you-so",
   title: "114 - Told You So",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 116,
   ownLength: 2378,
   unit: "unit/words",

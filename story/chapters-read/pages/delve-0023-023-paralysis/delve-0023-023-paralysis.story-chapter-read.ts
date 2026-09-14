@@ -5,7 +5,7 @@ export const delve0023023Paralysis = {
   type: "story-chapter-read",
   slug: "delve-0023-023-paralysis",
   title: "023: Paralysis",
-  story: "delve",
+  story: "story-read/delve",
   position: 23,
   ownLength: 3909,
   unit: "unit/words",

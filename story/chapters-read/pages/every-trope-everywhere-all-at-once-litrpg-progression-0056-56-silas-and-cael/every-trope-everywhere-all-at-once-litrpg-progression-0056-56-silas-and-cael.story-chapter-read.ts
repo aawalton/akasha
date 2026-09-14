@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression005656SilasAndCael = 
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0056-56-silas-and-cael",
   title: "56 - Silas and Cael",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 56,
   ownLength: 1495,
   unit: "unit/words",

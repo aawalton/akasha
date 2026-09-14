@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression003636TheWeepingOnes 
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0036-36-the-weeping-ones",
   title: "36 - The Weeping Ones",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 36,
   ownLength: 1564,
   unit: "unit/words",

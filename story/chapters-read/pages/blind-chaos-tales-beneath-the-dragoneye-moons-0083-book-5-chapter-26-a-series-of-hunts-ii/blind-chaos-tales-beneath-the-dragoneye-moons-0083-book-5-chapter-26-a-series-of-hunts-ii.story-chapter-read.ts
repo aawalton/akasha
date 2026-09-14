@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0083Book5Chapter26ASeriesOfH
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0083-book-5-chapter-26-a-series-of-hunts-ii",
   title: "Book 5 - Chapter 26 - A Series of Hunts II",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 83,
   ownLength: 4998,
   unit: "unit/words",

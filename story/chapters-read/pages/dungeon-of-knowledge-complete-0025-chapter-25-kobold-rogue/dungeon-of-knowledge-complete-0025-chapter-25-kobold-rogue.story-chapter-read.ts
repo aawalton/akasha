@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0025Chapter25KoboldRogue = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0025-chapter-25-kobold-rogue",
   title: "Chapter 25: Kobold Rogue",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 25,
   ownLength: 5347,
   ownProgress: 5347,

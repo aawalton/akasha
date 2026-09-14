@@ -5,7 +5,7 @@ export const delve0233233Bloodmarsh = {
   type: "story-chapter-read",
   slug: "delve-0233-233-bloodmarsh",
   title: "233: Bloodmarsh",
-  story: "delve",
+  story: "story-read/delve",
   position: 233,
   ownLength: 2507,
   unit: "unit/words",

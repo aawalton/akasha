@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0237Chapter215BoneWarrior = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0237-chapter-215-bone-warrior",
   title: "Chapter 215: Bone Warrior",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 237,
   ownLength: 3454,
   ownProgress: 3454,

@@ -5,7 +5,7 @@ export const delve0248248Breakthrough = {
   type: "story-chapter-read",
   slug: "delve-0248-248-breakthrough",
   title: "248: Breakthrough",
-  story: "delve",
+  story: "story-read/delve",
   position: 248,
   ownLength: 3244,
   unit: "unit/words",

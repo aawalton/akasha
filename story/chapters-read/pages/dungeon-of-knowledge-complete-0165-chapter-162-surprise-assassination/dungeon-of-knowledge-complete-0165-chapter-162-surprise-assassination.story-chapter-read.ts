@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0165Chapter162SurpriseAssassination = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0165-chapter-162-surprise-assassination",
   title: "Chapter 162: Surprise Assassination",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 165,
   ownLength: 7661,
   ownProgress: 7661,

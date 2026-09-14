@@ -5,7 +5,7 @@ export const arkendrithyst049428013ATribulation = {
   type: "story-chapter-read",
   slug: "arkendrithyst-0494-280-1-3-a-tribulation",
   title: "280, 1/3, A Tribulation",
-  story: "arkendrithyst",
+  story: "story-read/arkendrithyst",
   position: 494,
   ownLength: 7247,
   ownProgress: 7247,

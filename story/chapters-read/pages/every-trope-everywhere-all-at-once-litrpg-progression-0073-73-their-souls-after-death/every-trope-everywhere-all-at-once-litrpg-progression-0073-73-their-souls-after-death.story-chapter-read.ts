@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression007373TheirSoulsAfter
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0073-73-their-souls-after-death",
   title: "73 - Their Souls After Death",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 73,
   ownLength: 1609,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const catGirlEvolution008888GluttonyIsPleased = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0088-88-gluttony-is-pleased",
   title: "88 - Gluttony is Pleased",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 88,
   ownLength: 2785,
   unit: "unit/words",

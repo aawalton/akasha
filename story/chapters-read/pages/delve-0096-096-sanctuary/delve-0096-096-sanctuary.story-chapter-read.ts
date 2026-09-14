@@ -5,7 +5,7 @@ export const delve0096096Sanctuary = {
   type: "story-chapter-read",
   slug: "delve-0096-096-sanctuary",
   title: "096: Sanctuary",
-  story: "delve",
+  story: "story-read/delve",
   position: 96,
   ownLength: 7132,
   unit: "unit/words",

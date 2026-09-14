@@ -5,7 +5,7 @@ export const delve0247247Onion = {
   type: "story-chapter-read",
   slug: "delve-0247-247-onion",
   title: "247: Onion",
-  story: "delve",
+  story: "story-read/delve",
   position: 247,
   ownLength: 3741,
   unit: "unit/words",

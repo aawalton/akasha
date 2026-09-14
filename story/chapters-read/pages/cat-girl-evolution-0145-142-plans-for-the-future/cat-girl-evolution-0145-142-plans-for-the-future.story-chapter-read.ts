@@ -5,7 +5,7 @@ export const catGirlEvolution0145142PlansForTheFuture = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0145-142-plans-for-the-future",
   title: "142 - Plans for the Future",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 145,
   ownLength: 2965,
   unit: "unit/words",

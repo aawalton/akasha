@@ -5,7 +5,7 @@ export const dungeonDevotee0027Chapter23Sunk = {
   type: "story-chapter-read",
   slug: "dungeon-devotee-0027-chapter-23-sunk",
   title: "Chapter 23: Sunk",
-  story: "dungeon-devotee",
+  story: "story-read/dungeon-devotee",
   position: 27,
   ownLength: 9019,
   ownProgress: 9019,

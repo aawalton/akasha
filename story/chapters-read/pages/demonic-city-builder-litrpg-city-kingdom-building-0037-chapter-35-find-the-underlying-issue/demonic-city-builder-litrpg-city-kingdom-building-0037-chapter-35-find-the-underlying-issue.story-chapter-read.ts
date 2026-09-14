@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0037Chapter35FindTheUnde
   type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0037-chapter-35-find-the-underlying-issue",
   title: "Chapter 35 - Find The Underlying Issue",
-  story: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   position: 37,
   ownLength: 2104,
   unit: "unit/words",

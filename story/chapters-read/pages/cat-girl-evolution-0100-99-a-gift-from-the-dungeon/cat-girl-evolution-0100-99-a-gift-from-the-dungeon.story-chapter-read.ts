@@ -5,7 +5,7 @@ export const catGirlEvolution010099AGiftFromTheDungeon = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0100-99-a-gift-from-the-dungeon",
   title: "99 - A Gift from the Dungeon",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 100,
   ownLength: 3071,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const dungeonDevotee0011Chapter9DonTFall = {
   type: "story-chapter-read",
   slug: "dungeon-devotee-0011-chapter-9-don-t-fall",
   title: "Chapter 9: Don’t Fall",
-  story: "dungeon-devotee",
+  story: "story-read/dungeon-devotee",
   position: 11,
   ownLength: 6181,
   ownProgress: 6181,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0604Chapter561RushingTheCrypt = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0604-chapter-561-rushing-the-crypt",
   title: "Chapter 561: Rushing the Crypt",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 604,
   ownLength: 3337,
   unit: "unit/words",

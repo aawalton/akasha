@@ -5,7 +5,7 @@ export const catGirlEvolution0141138WereHavingSoftTacosLater = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0141-138-were-having-soft-tacos-later",
   title: "138 - We're Having Soft Tacos Later!",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 141,
   ownLength: 2873,
   unit: "unit/words",

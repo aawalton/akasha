@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression00066TheSecretDungeon
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0006-6-the-secret-dungeon",
   title: "6 - The Secret Dungeon",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 6,
   ownLength: 1682,
   unit: "unit/words",

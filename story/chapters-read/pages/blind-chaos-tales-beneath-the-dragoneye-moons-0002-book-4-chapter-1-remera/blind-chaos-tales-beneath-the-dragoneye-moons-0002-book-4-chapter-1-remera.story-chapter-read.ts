@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0002Book4Chapter1Remera = {
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0002-book-4-chapter-1-remera",
   title: "Book 4 - Chapter 1 - Remera",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 2,
   ownLength: 4610,
   unit: "unit/words",

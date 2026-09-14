@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0275Chapter243MokFrejaSGlacialOrb = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0275-chapter-243-mok-freja-s-glacial-orb",
   title: "Chapter 243: Mok’freja’s Glacial Orb",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 275,
   ownLength: 2116,
   ownProgress: 2116,

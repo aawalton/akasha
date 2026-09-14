@@ -5,7 +5,7 @@ export const catGirlEvolution004242CookingLesson = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0042-42-cooking-lesson",
   title: "42 - Cooking Lesson",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 42,
   ownLength: 2617,
   unit: "unit/words",

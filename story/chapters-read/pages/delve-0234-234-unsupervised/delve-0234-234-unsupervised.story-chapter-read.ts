@@ -5,7 +5,7 @@ export const delve0234234Unsupervised = {
   type: "story-chapter-read",
   slug: "delve-0234-234-unsupervised",
   title: "234: Unsupervised",
-  story: "delve",
+  story: "story-read/delve",
   position: 234,
   ownLength: 3375,
   unit: "unit/words",

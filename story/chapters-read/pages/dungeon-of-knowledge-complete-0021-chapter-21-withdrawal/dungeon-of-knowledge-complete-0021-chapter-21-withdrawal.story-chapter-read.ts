@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0021Chapter21Withdrawal = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0021-chapter-21-withdrawal",
   title: "Chapter 21: Withdrawal",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 21,
   ownLength: 3606,
   ownProgress: 3606,

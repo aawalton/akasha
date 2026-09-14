@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg00044OutOfTheDungeon = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0004-4-out-of-the-dungeon",
   title: "4: Out of the Dungeon",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 4,
   ownLength: 1822,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const delve0243243Nadir = {
   type: "story-chapter-read",
   slug: "delve-0243-243-nadir",
   title: "243: Nadir",
-  story: "delve",
+  story: "story-read/delve",
   position: 243,
   ownLength: 3583,
   unit: "unit/words",

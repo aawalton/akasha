@@ -5,7 +5,7 @@ export const delve0256256Rollover = {
   type: "story-chapter-read",
   slug: "delve-0256-256-rollover",
   title: "256: Rollover",
-  story: "delve",
+  story: "story-read/delve",
   position: 256,
   ownLength: 3593,
   unit: "unit/words",

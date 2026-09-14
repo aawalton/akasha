@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0020Chapter20Guilt = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0020-chapter-20-guilt",
   title: "Chapter 20: Guilt",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 20,
   ownLength: 3025,
   ownProgress: 3025,

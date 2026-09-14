@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0002Chapter2Orientation 
   type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0002-chapter-2-orientation",
   title: "Chapter 2 - Orientation",
-  story: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   position: 2,
   ownLength: 2300,
   unit: "unit/words",

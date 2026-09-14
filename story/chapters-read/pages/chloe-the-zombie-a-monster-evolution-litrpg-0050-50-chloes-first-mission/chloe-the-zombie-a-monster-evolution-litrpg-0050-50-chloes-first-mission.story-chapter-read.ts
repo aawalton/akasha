@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg005050ChloesFirstMission = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0050-50-chloes-first-mission",
   title: "50: Chloe's First Mission",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 50,
   ownLength: 2178,
   unit: "unit/words",

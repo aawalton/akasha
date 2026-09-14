@@ -5,7 +5,7 @@ export const arkendrithyst0195ErickSStatusNotAChapterVersion2 = {
   type: "story-chapter-read",
   slug: "arkendrithyst-0195-erick-s-status-not-a-chapter-version-2",
   title: "Erick's Status (not a chapter) version 2!",
-  story: "arkendrithyst",
+  story: "story-read/arkendrithyst",
   position: 195,
   ownLength: 6850,
   ownProgress: 6850,

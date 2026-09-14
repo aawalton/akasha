@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0054Book4Chapter49Splinters 
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0054-book-4-chapter-49-splinters",
   title: "Book 4 - Chapter 49 - Splinters",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 54,
   ownLength: 4912,
   unit: "unit/words",

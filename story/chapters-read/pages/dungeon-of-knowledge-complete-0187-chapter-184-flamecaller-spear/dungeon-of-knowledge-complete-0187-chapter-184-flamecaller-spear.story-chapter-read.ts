@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0187Chapter184FlamecallerSpear = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0187-chapter-184-flamecaller-spear",
   title: "Chapter 184: Flamecaller Spear",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 187,
   ownLength: 7009,
   ownProgress: 7009,

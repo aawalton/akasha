@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0369Chapter332HeroesOfTheCrimsonBladePart
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0369-chapter-332-heroes-of-the-crimson-blade-part-3",
   title: "Chapter 332: Heroes of the Crimson Blade (Part 3)",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 369,
   ownLength: 3214,
   ownProgress: 3214,

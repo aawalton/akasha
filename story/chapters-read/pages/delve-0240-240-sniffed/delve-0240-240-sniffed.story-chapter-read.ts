@@ -5,7 +5,7 @@ export const delve0240240Sniffed = {
   type: "story-chapter-read",
   slug: "delve-0240-240-sniffed",
   title: "240: Sniffed",
-  story: "delve",
+  story: "story-read/delve",
   position: 240,
   ownLength: 4653,
   unit: "unit/words",

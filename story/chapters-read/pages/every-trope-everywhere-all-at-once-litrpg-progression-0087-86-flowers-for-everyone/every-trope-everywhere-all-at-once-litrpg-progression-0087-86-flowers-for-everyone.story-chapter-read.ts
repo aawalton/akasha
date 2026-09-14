@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression008786FlowersForEvery
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0087-86-flowers-for-everyone",
   title: "86 - Flowers For Everyone",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 87,
   ownLength: 1872,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0079Chapter79MitigationsForPoison = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0079-chapter-79-mitigations-for-poison",
   title: "Chapter 79: Mitigations for Poison",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 79,
   ownLength: 3879,
   ownProgress: 3879,

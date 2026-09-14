@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0530Chapter491ABrushWithDeath = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0530-chapter-491-a-brush-with-death",
   title: "Chapter 491: A Brush with Death",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 530,
   ownLength: 3987,
   ownProgress: 3987,

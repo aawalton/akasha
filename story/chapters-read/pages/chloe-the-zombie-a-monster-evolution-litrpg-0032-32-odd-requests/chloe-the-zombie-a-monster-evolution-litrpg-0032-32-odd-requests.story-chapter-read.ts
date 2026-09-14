@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg003232OddRequests = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0032-32-odd-requests",
   title: "32: Odd Requests",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 32,
   ownLength: 2628,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const delve0017017Return = {
   type: "story-chapter-read",
   slug: "delve-0017-017-return",
   title: "017: Return",
-  story: "delve",
+  story: "story-read/delve",
   position: 17,
   ownLength: 5484,
   unit: "unit/words",

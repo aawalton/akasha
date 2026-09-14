@@ -5,7 +5,7 @@ export const catGirlEvolution006464MinionMorning = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0064-64-minion-morning",
   title: "64 - Minion Morning",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 64,
   ownLength: 3462,
   unit: "unit/words",

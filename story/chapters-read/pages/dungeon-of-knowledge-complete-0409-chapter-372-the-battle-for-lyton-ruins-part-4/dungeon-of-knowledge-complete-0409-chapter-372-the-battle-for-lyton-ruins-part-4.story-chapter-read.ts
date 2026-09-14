@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0409Chapter372TheBattleForLytonRuinsPart4
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0409-chapter-372-the-battle-for-lyton-ruins-part-4",
   title: "Chapter 372: The Battle for Lyton Ruins (Part 4)",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 409,
   ownLength: 2919,
   ownProgress: 2919,

@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0151151TooFastTooFurious = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0151-151-too-fast-too-furious",
   title: "151: Too Fast, Too Furious",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 151,
   ownLength: 1920,
   unit: "unit/words",

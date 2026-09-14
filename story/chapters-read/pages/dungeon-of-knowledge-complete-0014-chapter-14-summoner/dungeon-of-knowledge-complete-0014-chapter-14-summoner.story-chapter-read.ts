@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0014Chapter14Summoner = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0014-chapter-14-summoner",
   title: "Chapter 14: Summoner",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 14,
   ownLength: 5329,
   ownProgress: 5329,

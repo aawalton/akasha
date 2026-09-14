@@ -5,7 +5,7 @@ export const catGirlEvolution007676FoundTheCow = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0076-76-found-the-cow",
   title: "76 - Found the Cow",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 76,
   ownLength: 2370,
   unit: "unit/words",

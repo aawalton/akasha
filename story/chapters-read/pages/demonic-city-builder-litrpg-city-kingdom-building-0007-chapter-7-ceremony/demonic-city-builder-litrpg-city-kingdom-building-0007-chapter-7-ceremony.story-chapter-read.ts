@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0007Chapter7Ceremony = {
   type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0007-chapter-7-ceremony",
   title: "Chapter 7 - Ceremony",
-  story: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   position: 7,
   ownLength: 1916,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0503Chapter466ConsultingTheCalamity = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0503-chapter-466-consulting-the-calamity",
   title: "Chapter 466: Consulting The Calamity",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 503,
   ownLength: 3372,
   ownProgress: 3372,

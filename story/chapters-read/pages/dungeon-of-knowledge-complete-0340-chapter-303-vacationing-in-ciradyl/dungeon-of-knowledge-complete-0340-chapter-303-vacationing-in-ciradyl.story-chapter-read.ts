@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0340Chapter303VacationingInCiradyl = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0340-chapter-303-vacationing-in-ciradyl",
   title: "Chapter 303: Vacationing in Ciradyl",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 340,
   ownLength: 2216,
   ownProgress: 2216,

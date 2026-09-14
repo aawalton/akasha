@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0067Book5Chapter10BeansBrawl
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0067-book-5-chapter-10-beans-brawling",
   title: "Book 5 - Chapter 10 - Beans & Brawling",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 67,
   ownLength: 4819,
   unit: "unit/words",

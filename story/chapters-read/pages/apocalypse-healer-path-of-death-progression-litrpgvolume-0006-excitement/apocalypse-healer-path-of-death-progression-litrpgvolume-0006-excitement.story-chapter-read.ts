@@ -5,7 +5,7 @@ export const apocalypseHealerPathOfDeathProgressionLitrpgvolume0006Excitement = 
   type: "story-chapter-read",
   slug: "apocalypse-healer-path-of-death-progression-litrpgvolume-0006-excitement",
   title: "Excitement!",
-  story: "apocalypse-healer-path-of-death-progression-litrpgvolume",
+  story: "story-read/apocalypse-healer-path-of-death-progression-litrpgvolume",
   position: 6,
   ownLength: 60,
   unit: "unit/words",

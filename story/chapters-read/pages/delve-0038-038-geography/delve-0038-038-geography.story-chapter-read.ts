@@ -5,7 +5,7 @@ export const delve0038038Geography = {
   type: "story-chapter-read",
   slug: "delve-0038-038-geography",
   title: "038: Geography",
-  story: "delve",
+  story: "story-read/delve",
   position: 38,
   ownLength: 3674,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0033Chapter33MyrinSKeep = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0033-chapter-33-myrin-s-keep",
   title: "Chapter 33: Myrin’s Keep",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 33,
   ownLength: 5527,
   ownProgress: 5527,

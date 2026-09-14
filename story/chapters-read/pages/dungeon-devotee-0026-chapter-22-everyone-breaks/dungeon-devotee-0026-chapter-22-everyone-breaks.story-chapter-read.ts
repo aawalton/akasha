@@ -5,7 +5,7 @@ export const dungeonDevotee0026Chapter22EveryoneBreaks = {
   type: "story-chapter-read",
   slug: "dungeon-devotee-0026-chapter-22-everyone-breaks",
   title: "Chapter 22: Everyone Breaks",
-  story: "dungeon-devotee",
+  story: "story-read/dungeon-devotee",
   position: 26,
   ownLength: 7301,
   ownProgress: 7301,

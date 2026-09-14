@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0107107ImportantRules = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0107-107-important-rules",
   title: "107: Important Rules",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 107,
   ownLength: 1866,
   unit: "unit/words",

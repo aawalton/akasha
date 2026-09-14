@@ -5,7 +5,7 @@ export const bookboundBunny0002Chapter4Bunny = {
   type: "story-chapter-read",
   slug: "bookbound-bunny-0002-chapter-4-bunny",
   title: "Chapter 4 - Bunny",
-  story: "bookbound-bunny",
+  story: "story-read/bookbound-bunny",
   position: 2,
   ownLength: 2540,
   unit: "unit/words",

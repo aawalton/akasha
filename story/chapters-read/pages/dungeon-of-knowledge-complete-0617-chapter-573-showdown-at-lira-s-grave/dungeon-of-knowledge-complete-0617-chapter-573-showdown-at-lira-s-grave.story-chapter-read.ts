@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0617Chapter573ShowdownAtLiraSGrave = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0617-chapter-573-showdown-at-lira-s-grave",
   title: "Chapter 573: Showdown at Lira’s Grave",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 617,
   ownLength: 4044,
   unit: "unit/words",

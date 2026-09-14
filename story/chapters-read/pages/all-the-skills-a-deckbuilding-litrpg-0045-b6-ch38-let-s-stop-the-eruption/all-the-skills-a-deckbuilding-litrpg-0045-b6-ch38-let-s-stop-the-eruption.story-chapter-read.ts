@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0045B6Ch38LetSStopTheEruption = {
   type: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0045-b6-ch38-let-s-stop-the-eruption",
   title: "B6 Ch38: Let's Stop The Eruption",
-  story: "all-the-skills-a-deckbuilding-litrpg",
+  story: "story-read/all-the-skills-a-deckbuilding-litrpg",
   position: 45,
   ownLength: 2655,
   unit: "unit/words",

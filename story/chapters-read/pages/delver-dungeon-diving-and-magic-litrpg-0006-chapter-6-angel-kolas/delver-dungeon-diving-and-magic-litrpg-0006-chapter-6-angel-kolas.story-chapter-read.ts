@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0006Chapter6AngelKolas = {
   type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0006-chapter-6-angel-kolas",
   title: "Chapter 6: Angel Kolas",
-  story: "delver-dungeon-diving-and-magic-litrpg",
+  story: "story-read/delver-dungeon-diving-and-magic-litrpg",
   position: 6,
   ownLength: 2065,
   unit: "unit/words",

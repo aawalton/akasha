@@ -5,7 +5,7 @@ export const delve0180180Multitasking = {
   type: "story-chapter-read",
   slug: "delve-0180-180-multitasking",
   title: "180: Multitasking",
-  story: "delve",
+  story: "story-read/delve",
   position: 180,
   ownLength: 5464,
   unit: "unit/words",

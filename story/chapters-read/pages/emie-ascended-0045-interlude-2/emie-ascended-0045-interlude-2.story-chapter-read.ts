@@ -5,7 +5,7 @@ export const emieAscended0045Interlude2 = {
   type: "story-chapter-read",
   slug: "emie-ascended-0045-interlude-2",
   title: "Interlude 2",
-  story: "emie-ascended",
+  story: "story-read/emie-ascended",
   position: 45,
   ownLength: 2580,
   unit: "unit/words",

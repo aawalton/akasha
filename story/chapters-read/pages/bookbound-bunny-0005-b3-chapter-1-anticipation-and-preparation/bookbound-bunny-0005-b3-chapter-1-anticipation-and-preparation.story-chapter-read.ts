@@ -5,7 +5,7 @@ export const bookboundBunny0005B3Chapter1AnticipationAndPreparation = {
   type: "story-chapter-read",
   slug: "bookbound-bunny-0005-b3-chapter-1-anticipation-and-preparation",
   title: "B3 - Chapter 1 - Anticipation and Preparation",
-  story: "bookbound-bunny",
+  story: "story-read/bookbound-bunny",
   position: 5,
   ownLength: 2513,
   unit: "unit/words",

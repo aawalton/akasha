@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0199Chapter195Demons = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0199-chapter-195-demons",
   title: "Chapter 195: Demons",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 199,
   ownLength: 5802,
   ownProgress: 5802,

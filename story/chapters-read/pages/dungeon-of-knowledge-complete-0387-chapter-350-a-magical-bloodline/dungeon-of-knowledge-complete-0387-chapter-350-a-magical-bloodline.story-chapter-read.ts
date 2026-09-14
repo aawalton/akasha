@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0387Chapter350AMagicalBloodline = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0387-chapter-350-a-magical-bloodline",
   title: "Chapter 350: A Magical Bloodline",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 387,
   ownLength: 1907,
   ownProgress: 1907,

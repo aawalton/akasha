@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0561Chapter521HowToSquashAnOoze = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0561-chapter-521-how-to-squash-an-ooze",
   title: "Chapter 521: How to Squash an Ooze",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 561,
   ownLength: 2610,
   ownProgress: 2610,

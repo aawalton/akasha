@@ -5,7 +5,7 @@ export const delve0072072Preemption = {
   type: "story-chapter-read",
   slug: "delve-0072-072-preemption",
   title: "072: Preemption",
-  story: "delve",
+  story: "story-read/delve",
   position: 72,
   ownLength: 9827,
   unit: "unit/words",

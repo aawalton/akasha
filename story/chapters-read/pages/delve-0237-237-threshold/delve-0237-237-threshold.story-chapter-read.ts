@@ -5,7 +5,7 @@ export const delve0237237Threshold = {
   type: "story-chapter-read",
   slug: "delve-0237-237-threshold",
   title: "237: Threshold",
-  story: "delve",
+  story: "story-read/delve",
   position: 237,
   ownLength: 3527,
   unit: "unit/words",

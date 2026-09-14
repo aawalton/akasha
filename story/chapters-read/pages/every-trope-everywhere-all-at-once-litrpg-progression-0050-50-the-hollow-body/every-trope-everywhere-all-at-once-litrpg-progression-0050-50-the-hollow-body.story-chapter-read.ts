@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression005050TheHollowBody =
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0050-50-the-hollow-body",
   title: "50 - The Hollow Body",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 50,
   ownLength: 1912,
   unit: "unit/words",

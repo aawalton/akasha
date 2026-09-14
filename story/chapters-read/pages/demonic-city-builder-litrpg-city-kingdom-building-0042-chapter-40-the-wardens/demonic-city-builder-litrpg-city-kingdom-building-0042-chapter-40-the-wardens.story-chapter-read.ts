@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0042Chapter40TheWardens 
   type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0042-chapter-40-the-wardens",
   title: "Chapter 40 - The Wardens",
-  story: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   position: 42,
   ownLength: 2281,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression001818WelcomeToTheSky
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0018-18-welcome-to-the-skycurrent-festival",
   title: "18 - Welcome to the Skycurrent Festival",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 18,
   ownLength: 1747,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression002222TooCoolToSitDow
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0022-22-too-cool-to-sit-down",
   title: "22 - Too Cool to Sit Down",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 22,
   ownLength: 1756,
   unit: "unit/words",

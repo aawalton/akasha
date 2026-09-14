@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0132Chapter130Showdown = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0132-chapter-130-showdown",
   title: "Chapter 130: Showdown",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 132,
   ownLength: 3947,
   ownProgress: 3947,

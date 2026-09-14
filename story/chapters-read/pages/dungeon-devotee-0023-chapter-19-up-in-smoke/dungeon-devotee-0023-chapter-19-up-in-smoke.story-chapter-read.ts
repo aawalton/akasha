@@ -5,7 +5,7 @@ export const dungeonDevotee0023Chapter19UpInSmoke = {
   type: "story-chapter-read",
   slug: "dungeon-devotee-0023-chapter-19-up-in-smoke",
   title: "Chapter 19: Up in Smoke",
-  story: "dungeon-devotee",
+  story: "story-read/dungeon-devotee",
   position: 23,
   ownLength: 6232,
   ownProgress: 6232,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0118Chapter117RageAndLoneliness = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0118-chapter-117-rage-and-loneliness",
   title: "Chapter 117: Rage and Loneliness",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 118,
   ownLength: 2915,
   ownProgress: 2915,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0201Chapter196ABrandNewGuildhall2Of2 = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0201-chapter-196-a-brand-new-guildhall-2-of-2",
   title: "Chapter 196: A Brand-new Guildhall (2 of 2)",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 201,
   ownLength: 3061,
   ownProgress: 3061,

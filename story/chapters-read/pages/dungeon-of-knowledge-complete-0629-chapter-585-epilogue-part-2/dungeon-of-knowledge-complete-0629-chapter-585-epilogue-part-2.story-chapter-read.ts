@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0629Chapter585EpiloguePart2 = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0629-chapter-585-epilogue-part-2",
   title: "Chapter 585: Epilogue (Part 2)",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 629,
   ownLength: 2816,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0027B6Ch20RowantreeEstate = {
   type: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0027-b6-ch20-rowantree-estate",
   title: "B6 Ch20: Rowantree Estate",
-  story: "all-the-skills-a-deckbuilding-litrpg",
+  story: "story-read/all-the-skills-a-deckbuilding-litrpg",
   position: 27,
   ownLength: 2116,
   ownProgress: 2116,

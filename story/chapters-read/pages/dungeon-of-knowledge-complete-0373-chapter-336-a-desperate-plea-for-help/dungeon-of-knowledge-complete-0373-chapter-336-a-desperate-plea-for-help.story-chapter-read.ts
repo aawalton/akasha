@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0373Chapter336ADesperatePleaForHelp = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0373-chapter-336-a-desperate-plea-for-help",
   title: "Chapter 336: A Desperate Plea for Help",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 373,
   ownLength: 1631,
   ownProgress: 1631,

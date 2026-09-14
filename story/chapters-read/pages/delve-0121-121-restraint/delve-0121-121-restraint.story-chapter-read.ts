@@ -5,7 +5,7 @@ export const delve0121121Restraint = {
   type: "story-chapter-read",
   slug: "delve-0121-121-restraint",
   title: "121: Restraint",
-  story: "delve",
+  story: "story-read/delve",
   position: 121,
   ownLength: 6581,
   unit: "unit/words",

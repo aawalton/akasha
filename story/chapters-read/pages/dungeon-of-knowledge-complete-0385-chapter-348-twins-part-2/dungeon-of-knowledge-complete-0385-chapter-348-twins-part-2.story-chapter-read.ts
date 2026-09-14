@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0385Chapter348TwinsPart2 = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0385-chapter-348-twins-part-2",
   title: "Chapter 348: Twins (Part 2)",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 385,
   ownLength: 2298,
   ownProgress: 2298,

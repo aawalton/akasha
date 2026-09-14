@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0159159TwoHeadedDragon = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0159-159-two-headed-dragon",
   title: "159: Two Headed Dragon",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 159,
   ownLength: 2067,
   unit: "unit/words",

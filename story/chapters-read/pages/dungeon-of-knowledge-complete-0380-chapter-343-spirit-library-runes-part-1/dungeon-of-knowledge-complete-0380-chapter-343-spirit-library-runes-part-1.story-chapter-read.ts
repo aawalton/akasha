@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0380Chapter343SpiritLibraryRunesPart1 = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0380-chapter-343-spirit-library-runes-part-1",
   title: "Chapter 343: Spirit Library Runes (Part 1)",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 380,
   ownLength: 1906,
   ownProgress: 1906,

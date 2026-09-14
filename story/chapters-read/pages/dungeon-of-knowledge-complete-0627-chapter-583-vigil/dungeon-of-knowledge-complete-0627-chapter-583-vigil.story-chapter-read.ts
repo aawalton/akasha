@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0627Chapter583Vigil = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0627-chapter-583-vigil",
   title: "Chapter 583: Vigil",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 627,
   ownLength: 1916,
   unit: "unit/words",

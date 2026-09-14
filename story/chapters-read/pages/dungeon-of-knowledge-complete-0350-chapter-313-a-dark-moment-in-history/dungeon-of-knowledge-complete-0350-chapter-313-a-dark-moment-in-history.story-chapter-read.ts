@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0350Chapter313ADarkMomentInHistory = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0350-chapter-313-a-dark-moment-in-history",
   title: "Chapter 313: A Dark Moment in History",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 350,
   ownLength: 2045,
   ownProgress: 2045,

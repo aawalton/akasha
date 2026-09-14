@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0073Book5Chapter16AWildAnniv
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0073-book-5-chapter-16-a-wild-anniversary-ii",
   title: "Book 5 - Chapter 16 - A Wild Anniversary II",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 73,
   ownLength: 5534,
   unit: "unit/words",

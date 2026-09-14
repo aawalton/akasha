@@ -5,7 +5,7 @@ export const catGirlEvolution002626FlarnTheBubbleWitch = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0026-26-flarn-the-bubble-witch",
   title: "26 - Flarn, the Bubble Witch",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 26,
   ownLength: 2265,
   unit: "unit/words",

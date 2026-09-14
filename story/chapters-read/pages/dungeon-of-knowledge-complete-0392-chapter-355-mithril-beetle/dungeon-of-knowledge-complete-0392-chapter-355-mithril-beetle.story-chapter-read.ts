@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0392Chapter355MithrilBeetle = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0392-chapter-355-mithril-beetle",
   title: "Chapter 355: Mithril Beetle",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 392,
   ownLength: 4132,
   ownProgress: 4132,

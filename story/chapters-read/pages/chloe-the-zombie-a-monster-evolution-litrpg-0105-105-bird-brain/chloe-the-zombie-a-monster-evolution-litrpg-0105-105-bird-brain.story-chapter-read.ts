@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0105105BirdBrain = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0105-105-bird-brain",
   title: "105: Bird Brain",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 105,
   ownLength: 1970,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0528Chapter489ForgingAPlan = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0528-chapter-489-forging-a-plan",
   title: "Chapter 489: Forging a Plan",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 528,
   ownLength: 3468,
   ownProgress: 3468,

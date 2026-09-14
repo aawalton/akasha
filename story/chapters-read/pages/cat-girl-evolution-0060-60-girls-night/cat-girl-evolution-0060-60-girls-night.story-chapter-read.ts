@@ -5,7 +5,7 @@ export const catGirlEvolution006060GirlsNight = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0060-60-girls-night",
   title: "60 - Girls' Night",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 60,
   ownLength: 2359,
   unit: "unit/words",

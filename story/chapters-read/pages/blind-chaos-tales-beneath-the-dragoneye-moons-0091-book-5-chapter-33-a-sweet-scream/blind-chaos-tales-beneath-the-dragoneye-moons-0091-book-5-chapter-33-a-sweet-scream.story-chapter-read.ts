@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0091Book5Chapter33ASweetScre
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0091-book-5-chapter-33-a-sweet-scream",
   title: "Book 5 - Chapter 33 - A Sweet Scream",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 91,
   ownLength: 4795,
   unit: "unit/words",

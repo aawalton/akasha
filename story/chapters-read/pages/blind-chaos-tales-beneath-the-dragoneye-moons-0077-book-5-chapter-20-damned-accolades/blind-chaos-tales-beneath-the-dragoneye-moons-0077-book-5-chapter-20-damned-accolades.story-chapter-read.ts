@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0077Book5Chapter20DamnedAcco
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0077-book-5-chapter-20-damned-accolades",
   title: "Book 5 - Chapter 20 - Damned Accolades",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 77,
   ownLength: 4925,
   unit: "unit/words",

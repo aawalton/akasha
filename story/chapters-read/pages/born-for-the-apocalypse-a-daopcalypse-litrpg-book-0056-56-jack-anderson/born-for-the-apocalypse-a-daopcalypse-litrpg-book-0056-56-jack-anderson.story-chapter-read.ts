@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook005656JackAnderson = {
   type: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0056-56-jack-anderson",
   title: "56: Jack Anderson",
-  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "story-read/born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 56,
   ownLength: 2596,
   unit: "unit/words",

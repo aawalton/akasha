@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0104Chapter103HasteAndMana = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0104-chapter-103-haste-and-mana",
   title: "Chapter 103: Haste and Mana",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 104,
   ownLength: 4913,
   ownProgress: 4913,

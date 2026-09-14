@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0037Book4Chapter32EmbracingH
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0037-book-4-chapter-32-embracing-her-choice",
   title: "Book 4 - Chapter 32 - Embracing Her Choice",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 37,
   ownLength: 5216,
   unit: "unit/words",

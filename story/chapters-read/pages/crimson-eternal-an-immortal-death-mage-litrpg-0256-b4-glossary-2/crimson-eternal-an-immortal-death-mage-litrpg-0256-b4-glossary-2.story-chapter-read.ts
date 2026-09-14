@@ -5,7 +5,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0256B4Glossary2 = {
   type: "story-chapter-read",
   slug: "crimson-eternal-an-immortal-death-mage-litrpg-0256-b4-glossary-2",
   title: "B4 | Glossary 2",
-  story: "crimson-eternal-an-immortal-death-mage-litrpg",
+  story: "story-read/crimson-eternal-an-immortal-death-mage-litrpg",
   position: 256,
   ownLength: 60,
   ownProgress: 60,

@@ -5,7 +5,7 @@ export const arkendrithyst0504283Epilogue1AReturn = {
   type: "story-chapter-read",
   slug: "arkendrithyst-0504-283-epilogue-1-a-return",
   title: "283 - Epilogue 1, A Return",
-  story: "arkendrithyst",
+  story: "story-read/arkendrithyst",
   position: 504,
   ownLength: 17578,
   ownProgress: 17578,

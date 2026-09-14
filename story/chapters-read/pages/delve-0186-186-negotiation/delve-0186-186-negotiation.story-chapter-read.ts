@@ -5,7 +5,7 @@ export const delve0186186Negotiation = {
   type: "story-chapter-read",
   slug: "delve-0186-186-negotiation",
   title: "186: Negotiation",
-  story: "delve",
+  story: "story-read/delve",
   position: 186,
   ownLength: 3934,
   unit: "unit/words",

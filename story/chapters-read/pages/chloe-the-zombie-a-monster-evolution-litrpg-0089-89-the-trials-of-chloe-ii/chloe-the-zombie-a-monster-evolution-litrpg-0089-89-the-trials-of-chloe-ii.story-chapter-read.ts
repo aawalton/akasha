@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg008989TheTrialsOfChloeIi = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0089-89-the-trials-of-chloe-ii",
   title: "89: The Trials of Chloe - II",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 89,
   ownLength: 1897,
   unit: "unit/words",

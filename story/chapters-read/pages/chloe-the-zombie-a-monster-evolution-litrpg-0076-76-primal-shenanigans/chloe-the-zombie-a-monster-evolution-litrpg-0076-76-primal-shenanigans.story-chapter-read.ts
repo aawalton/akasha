@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg007676PrimalShenanigans = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0076-76-primal-shenanigans",
   title: "76: Primal Shenanigans",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 76,
   ownLength: 2380,
   unit: "unit/words",

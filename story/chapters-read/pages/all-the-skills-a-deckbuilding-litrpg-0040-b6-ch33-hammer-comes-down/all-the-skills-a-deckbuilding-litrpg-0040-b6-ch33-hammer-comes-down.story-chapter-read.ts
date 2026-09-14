@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0040B6Ch33HammerComesDown = {
   type: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0040-b6-ch33-hammer-comes-down",
   title: "B6 Ch33: Hammer Comes Down",
-  story: "all-the-skills-a-deckbuilding-litrpg",
+  story: "story-read/all-the-skills-a-deckbuilding-litrpg",
   position: 40,
   ownLength: 1883,
   unit: "unit/words",

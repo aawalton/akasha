@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0035Book4Chapter30WithVaried
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0035-book-4-chapter-30-with-varied-dramatics",
   title: "Book 4 - Chapter 30 - With Varied Dramatics",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 35,
   ownLength: 4415,
   unit: "unit/words",

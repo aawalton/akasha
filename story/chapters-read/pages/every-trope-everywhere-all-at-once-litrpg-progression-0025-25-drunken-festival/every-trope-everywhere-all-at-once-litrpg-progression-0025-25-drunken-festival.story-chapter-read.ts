@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression002525DrunkenFestival
   type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0025-25-drunken-festival",
   title: "25 - Drunken Festival",
-  story: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 25,
   ownLength: 2000,
   unit: "unit/words",

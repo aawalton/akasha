@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0434Chapter397TheCathedral = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0434-chapter-397-the-cathedral",
   title: "Chapter 397: The Cathedral",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 434,
   ownLength: 2620,
   ownProgress: 2620,

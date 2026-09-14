@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0586Chapter546FruitOfTheWorldTree = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0586-chapter-546-fruit-of-the-world-tree",
   title: "Chapter 546: Fruit of the World Tree",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 586,
   ownLength: 4672,
   ownProgress: 4672,

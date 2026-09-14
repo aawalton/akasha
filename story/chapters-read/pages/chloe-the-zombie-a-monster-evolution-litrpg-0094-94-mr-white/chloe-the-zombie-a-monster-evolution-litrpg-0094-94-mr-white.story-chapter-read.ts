@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg009494MrWhite = {
   type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0094-94-mr-white",
   title: "94: Mr. White",
-  story: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
   position: 94,
   ownLength: 2100,
   unit: "unit/words",

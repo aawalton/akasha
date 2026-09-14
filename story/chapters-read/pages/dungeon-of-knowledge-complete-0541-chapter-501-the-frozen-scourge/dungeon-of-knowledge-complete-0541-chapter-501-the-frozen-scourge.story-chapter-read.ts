@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0541Chapter501TheFrozenScourge = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0541-chapter-501-the-frozen-scourge",
   title: "Chapter 501: The Frozen Scourge",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 541,
   ownLength: 3954,
   ownProgress: 3954,

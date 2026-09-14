@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0578Chapter538WhenVisitingADragonBringSna
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0578-chapter-538-when-visiting-a-dragon-bring-snacks",
   title: "Chapter 538: When Visiting a Dragon, Bring Snacks",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 578,
   ownLength: 3463,
   ownProgress: 3463,

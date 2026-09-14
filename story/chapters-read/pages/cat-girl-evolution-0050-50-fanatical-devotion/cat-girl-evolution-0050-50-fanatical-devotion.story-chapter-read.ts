@@ -5,7 +5,7 @@ export const catGirlEvolution005050FanaticalDevotion = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0050-50-fanatical-devotion",
   title: "50 - Fanatical Devotion",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 50,
   ownLength: 2512,
   unit: "unit/words",

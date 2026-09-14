@@ -5,7 +5,7 @@ export const delve0144144Precipitation = {
   type: "story-chapter-read",
   slug: "delve-0144-144-precipitation",
   title: "144: Precipitation",
-  story: "delve",
+  story: "story-read/delve",
   position: 144,
   ownLength: 4412,
   unit: "unit/words",

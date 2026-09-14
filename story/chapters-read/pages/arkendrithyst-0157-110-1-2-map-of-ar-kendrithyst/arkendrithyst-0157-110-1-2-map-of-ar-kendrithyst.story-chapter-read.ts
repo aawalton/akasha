@@ -5,7 +5,7 @@ export const arkendrithyst015711012MapOfArKendrithyst = {
   type: "story-chapter-read",
   slug: "arkendrithyst-0157-110-1-2-map-of-ar-kendrithyst",
   title: "110, 1/2 + map of Ar'Kendrithyst",
-  story: "arkendrithyst",
+  story: "story-read/arkendrithyst",
   position: 157,
   ownLength: 8046,
   ownProgress: 8046,

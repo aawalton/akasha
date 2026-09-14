@@ -5,7 +5,7 @@ export const catGirlEvolution0138135ButtercupsBlessing = {
   type: "story-chapter-read",
   slug: "cat-girl-evolution-0138-135-buttercups-blessing",
   title: "135 - Buttercup's Blessing",
-  story: "cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 138,
   ownLength: 2597,
   unit: "unit/words",

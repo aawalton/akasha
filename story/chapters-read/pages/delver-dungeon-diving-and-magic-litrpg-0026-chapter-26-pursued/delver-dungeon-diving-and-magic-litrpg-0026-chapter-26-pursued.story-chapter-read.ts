@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0026Chapter26Pursued = {
   type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0026-chapter-26-pursued",
   title: "Chapter 26: Pursued",
-  story: "delver-dungeon-diving-and-magic-litrpg",
+  story: "story-read/delver-dungeon-diving-and-magic-litrpg",
   position: 26,
   ownLength: 1962,
   unit: "unit/words",

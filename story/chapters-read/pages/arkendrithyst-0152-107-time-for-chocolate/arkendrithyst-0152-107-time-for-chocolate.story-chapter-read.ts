@@ -5,7 +5,7 @@ export const arkendrithyst0152107TimeForChocolate = {
   type: "story-chapter-read",
   slug: "arkendrithyst-0152-107-time-for-chocolate",
   title: "107 - Time for Chocolate!",
-  story: "arkendrithyst",
+  story: "story-read/arkendrithyst",
   position: 152,
   ownLength: 16218,
   ownProgress: 16218,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0493Chapter456AVisitorForHavok = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0493-chapter-456-a-visitor-for-havok",
   title: "Chapter 456: A Visitor for Havok",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 493,
   ownLength: 1653,
   ownProgress: 1653,

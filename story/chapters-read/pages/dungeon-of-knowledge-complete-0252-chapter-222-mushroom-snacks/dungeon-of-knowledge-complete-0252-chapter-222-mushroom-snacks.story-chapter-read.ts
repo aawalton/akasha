@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0252Chapter222MushroomSnacks = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0252-chapter-222-mushroom-snacks",
   title: "Chapter 222: Mushroom Snacks",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 252,
   ownLength: 3788,
   ownProgress: 3788,

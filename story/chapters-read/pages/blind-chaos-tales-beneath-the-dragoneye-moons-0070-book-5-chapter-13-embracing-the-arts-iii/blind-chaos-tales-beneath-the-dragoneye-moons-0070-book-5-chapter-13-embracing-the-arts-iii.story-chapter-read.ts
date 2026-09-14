@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0070Book5Chapter13EmbracingT
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0070-book-5-chapter-13-embracing-the-arts-iii",
   title: "Book 5 - Chapter 13 - Embracing the Arts III",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 70,
   ownLength: 3934,
   unit: "unit/words",

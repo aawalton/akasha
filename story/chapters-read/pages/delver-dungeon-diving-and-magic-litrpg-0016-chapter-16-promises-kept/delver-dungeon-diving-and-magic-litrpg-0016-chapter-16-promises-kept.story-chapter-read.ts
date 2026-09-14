@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0016Chapter16PromisesKept = {
   type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0016-chapter-16-promises-kept",
   title: "Chapter 16: Promises Kept",
-  story: "delver-dungeon-diving-and-magic-litrpg",
+  story: "story-read/delver-dungeon-diving-and-magic-litrpg",
   position: 16,
   ownLength: 2228,
   unit: "unit/words",

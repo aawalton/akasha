@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0602Chapter559DivineArchonVersusHaverron 
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0602-chapter-559-divine-archon-versus-haverron",
   title: "Chapter 559: Divine Archon Versus Haverron",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 602,
   ownLength: 2250,
   unit: "unit/words",

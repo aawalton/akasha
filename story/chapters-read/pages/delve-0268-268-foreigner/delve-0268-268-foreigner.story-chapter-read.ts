@@ -5,7 +5,7 @@ export const delve0268268Foreigner = {
   type: "story-chapter-read",
   slug: "delve-0268-268-foreigner",
   title: "268: Foreigner",
-  story: "delve",
+  story: "story-read/delve",
   position: 268,
   ownLength: 3233,
   unit: "unit/words",

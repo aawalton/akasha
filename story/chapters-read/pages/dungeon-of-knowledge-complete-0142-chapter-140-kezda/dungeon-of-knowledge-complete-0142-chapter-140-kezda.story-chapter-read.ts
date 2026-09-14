@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0142Chapter140Kezda = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0142-chapter-140-kezda",
   title: "Chapter 140: Kezda",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 142,
   ownLength: 6273,
   ownProgress: 6273,

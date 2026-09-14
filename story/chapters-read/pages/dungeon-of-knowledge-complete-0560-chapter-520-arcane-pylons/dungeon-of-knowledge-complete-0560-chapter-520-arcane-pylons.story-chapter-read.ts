@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0560Chapter520ArcanePylons = {
   type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0560-chapter-520-arcane-pylons",
   title: "Chapter 520: Arcane Pylons",
-  story: "dungeon-of-knowledge-complete",
+  story: "story-read/dungeon-of-knowledge-complete",
   position: 560,
   ownLength: 3784,
   ownProgress: 3784,

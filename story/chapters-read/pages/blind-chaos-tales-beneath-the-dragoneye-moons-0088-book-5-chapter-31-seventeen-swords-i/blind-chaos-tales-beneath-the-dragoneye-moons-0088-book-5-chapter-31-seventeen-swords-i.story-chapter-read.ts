@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0088Book5Chapter31SeventeenS
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0088-book-5-chapter-31-seventeen-swords-i",
   title: "Book 5 - Chapter 31 - Seventeen Swords I",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 88,
   ownLength: 6256,
   unit: "unit/words",

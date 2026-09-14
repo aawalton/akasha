@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0012Book6Chapter5OldPlaces = {
   type: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0012-book-6-chapter-5-old-places",
   title: "Book 6 Chapter 5: Old Places",
-  story: "all-the-skills-a-deckbuilding-litrpg",
+  story: "story-read/all-the-skills-a-deckbuilding-litrpg",
   position: 12,
   ownLength: 2060,
   ownProgress: 2060,

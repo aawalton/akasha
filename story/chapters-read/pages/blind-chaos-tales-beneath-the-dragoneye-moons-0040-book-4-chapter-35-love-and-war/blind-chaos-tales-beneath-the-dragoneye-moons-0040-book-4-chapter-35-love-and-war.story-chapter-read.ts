@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0040Book4Chapter35LoveAndWar
   type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0040-book-4-chapter-35-love-and-war",
   title: "Book 4 - Chapter 35 - Love and War",
-  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 40,
   ownLength: 5715,
   unit: "unit/words",
