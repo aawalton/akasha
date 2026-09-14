@@ -5,6 +5,6 @@ export const jennySmilingjennyF33bab02998bdf17f5d5adbb2cb93ed0bd78d4ba3099f7b32b
   type: "device-token",
   slug: "jenny-smilingjenny-f33bab02998bdf17f5d5adbb2cb93ed0bd78d4ba3099f7b32ba5c2378f819eeb",
   person: "person/jenny",
-  iosApp: "smilingjenny",
+  iosApp: "ios-app/smilingjenny",
   token: "F33BAB02998BDF17F5D5ADBB2CB93ED0BD78D4BA3099F7B32BA5C2378F819EEB",
 } as const satisfies DeviceToken
