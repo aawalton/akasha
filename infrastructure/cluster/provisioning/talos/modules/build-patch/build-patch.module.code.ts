@@ -43,10 +43,20 @@ function kernelModulesBlock(node: NodeIntent): Record<string, unknown> {
   return { kernel: { modules: names.map((name) => ({ name })) } }
 }
 
+const USER_NAMESPACES = "1048576"
+
+function sysctlsBlock(node: NodeIntent): Record<string, unknown> {
+  return {
+    sysctls: {
+      "user.max_user_namespaces": USER_NAMESPACES,
+      ...(hasNvidiaDriver(node) ? { "net.core.bpf_jit_harden": "1" } : {}),
+    },
+  }
+}
+
 function nvidiaDriverBlocks(node: NodeIntent): Record<string, unknown> {
   if (!hasNvidiaDriver(node)) return {}
   return {
-    sysctls: { "net.core.bpf_jit_harden": "1" },
     files: [
       {
         path: "/usr/local/etc/nvidia-container-runtime/config.toml",
@@ -126,6 +136,7 @@ export function buildNodePatch(
       wipe: false,
     },
     ...kernelModulesBlock(node),
+    ...sysctlsBlock(node),
     ...nvidiaDriverBlocks(node),
     ...(cluster.registryHosts.length > 0 &&
       (options.registryCa !== undefined || cluster.registryMirrorEndpoints.length > 0) &&
