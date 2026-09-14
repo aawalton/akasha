@@ -147,7 +147,6 @@ export const components = {
     "module/use-view-tab-content-data",
     "module/value-filter-inputs",
     "module/view-page-content",
-    "module/view-page-frame",
     "module/view-settings-options",
     "module/view-tab-content",
     "module/view-tab-content-href",
