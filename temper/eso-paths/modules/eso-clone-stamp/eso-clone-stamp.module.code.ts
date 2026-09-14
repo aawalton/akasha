@@ -41,6 +41,6 @@ export function esoCloneHeaderLines(
   const version = ApiVersion.parse(apiVersion)
   return [
     `${PROVENANCE_PREFIX}${command}`,
-    `ESO-API-Version: ${version}  (source freshness marker; verified by check-eso-declaration-fresh)`,
+    `ESO-API-Version: ${version}  (source freshness marker)`,
   ]
 }

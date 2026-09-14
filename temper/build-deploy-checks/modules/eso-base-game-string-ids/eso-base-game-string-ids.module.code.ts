@@ -39,7 +39,7 @@ import { ESO_BASE_GAME_STRING_IDS_37 } from "akasha/temper/build-deploy-checks/m
 
 export const ESO_BASE_GAME_STRING_IDS_PROVENANCE: readonly string[] = [
   "Generated from the ~/esoui clone by ops eso generate-base-game-globals",
-  "ESO-API-Version: 101050  (source freshness marker; verified by check-eso-declaration-fresh)",
+  "ESO-API-Version: 101050  (source freshness marker)",
 ]
 
 export const ESO_BASE_GAME_STRING_IDS: ReadonlySet<string> = new Set<string>([
