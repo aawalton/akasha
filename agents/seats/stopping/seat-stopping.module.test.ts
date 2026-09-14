@@ -144,11 +144,11 @@ test("a seat whose processes did not all end is refused naming the pids signalle
 })
 
 test("a stop whose landing left the page says the page is there and the name is held", () => {
-  const said = pageLeft("sophia", "agents/seats/pages/sophia/sophia.seat.ts")
-  expect(said).toContain("sophia")
-  expect(said).toContain("agents/seats/pages/sophia/sophia.seat.ts")
+  const said = pageLeft("tester", "agents/seats/pages/tester/tester.seat.ts")
+  expect(said).toContain("tester")
+  expect(said).toContain("agents/seats/pages/tester/tester.seat.ts")
   expect(said).toContain("holds the name against a fresh seat")
-  expect(said).toContain("stop `sophia` again")
+  expect(said).toContain("stop `tester` again")
 })
 
 const AGENT = "01a05844-6e60-7000-b54c-4b14559df70d"
