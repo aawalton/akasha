@@ -23,6 +23,14 @@ export const deployJob = {
     },
     {
       invariantKind: "departure",
+      statement: "The token a job reads the repository with is handed in from a secret.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No token is written into the job the cluster is handed.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A job fetches the one commit rather than the whole history.",
     },
     {

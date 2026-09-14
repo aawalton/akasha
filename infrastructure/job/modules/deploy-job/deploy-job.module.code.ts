@@ -20,7 +20,13 @@ const NAMESPACE = JOB_NAMESPACE
 
 const CLASS = "ci"
 
-const ORIGIN = "http://git-transport.git.svc.cluster.local:3000/alan/akasha.git"
+export const JOB_SECRET = "workers-secrets"
+
+export const GIT_TOKEN = "GIT_ACCESS_TOKEN"
+
+const ORIGIN =
+  `http://x-access-token:$${GIT_TOKEN}` +
+  "@git-transport.git.svc.cluster.local:3000/alan/akasha.git"
 
 const TOOLS = "cluster"
 
@@ -78,6 +84,10 @@ export function jobFor(
               env: [
                 { name: "HOME", value: ORCHESTRATOR_CACHE_MOUNT_PATH },
                 { name: ROOM, value: ROOM_GB },
+                {
+                  name: GIT_TOKEN,
+                  valueFrom: { secretKeyRef: { name: JOB_SECRET, key: GIT_TOKEN } },
+                },
               ],
               volumeMounts: [{ name: WORK, mountPath: ORCHESTRATOR_CACHE_MOUNT_PATH }],
               resources: {

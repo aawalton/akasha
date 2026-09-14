@@ -9,10 +9,12 @@ import {
   carriedByOrigin,
 } from "akasha/infrastructure/services/clusters/modules/web-app-building/web-app-building.module.code.ts"
 import {
+  type Plan,
   type Ran,
   runKubectl,
   runKubectlOn,
 } from "akasha/infrastructure/services/clusters/modules/workload-deploying/workload-deploying.module.code.ts"
+import { placeSecrets } from "akasha/infrastructure/services/secrets/modules/placing/secret-placing.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 
 const WAITED_ONCE = "10s"
@@ -37,6 +39,23 @@ export type Ended = { readonly said: readonly string[] } | { readonly why: strin
 
 export function applyArgv(): readonly string[] {
   return ["apply", "-f", "-"]
+}
+
+export function planFor(name: string, yaml: string): Plan {
+  return {
+    workload: { kind: "Job", name, namespace: JOB_NAMESPACE },
+    synthPath: name,
+    manifests: [
+      {
+        name,
+        path: name,
+        yaml,
+        kind: "Job",
+        resourceName: name,
+        namespace: JOB_NAMESPACE,
+      },
+    ],
+  }
 }
 
 export function waitArgv(name: string, forWhat: string, waited: string): readonly string[] {
@@ -90,7 +109,13 @@ export function ranInCluster(
     }
   }
   const name = jobNameFor(subject, commit)
-  const put = running(applyArgv(), jobYamlFor(given, subject, commit))
+  const yaml = jobYamlFor(given, subject, commit)
+  const placing = placeSecrets(root, planFor(name, yaml))
+  if (placing.unplaced.length > 0) {
+    const short = placing.unplaced.map((one) => `${one.name}/${one.key}`).join(", ")
+    return { why: `no secret page places ${short}, so the job would read no repository` }
+  }
+  const put = running(applyArgv(), yaml)
   if (put.code !== 0) {
     return { why: `the job ${name} would not go up: ${put.stderr.trim()}` }
   }

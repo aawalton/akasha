@@ -18,6 +18,14 @@ export const deployJobRunning = {
     },
     {
       invariantKind: "departure",
+      statement: "The secret the job reads the repository with is placed before the job goes up.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key no secret page places refuses the run rather than leaving the job to fail.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The run waits for the job to end rather than answering while it runs.",
     },
     {
