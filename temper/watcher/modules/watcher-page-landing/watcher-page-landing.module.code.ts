@@ -1,7 +1,6 @@
 import {
   readFiles,
   type readPages,
-  removeFiles,
   writeFiles,
 } from "akasha/pages/query/modules/store-writing/store-writing.module.code.ts"
 
@@ -19,8 +18,6 @@ export type ReadPages = typeof readPages
 
 export type WriteFiles = typeof writeFiles
 
-export type RemoveFiles = typeof removeFiles
-
 export type Waiting = (ms: number) => Promise<undefined>
 
 export type LandedBody = { readonly path: string; readonly content: string | null }
@@ -37,7 +34,7 @@ export type Tried = Landed | { readonly outcome: "again"; readonly why: string }
 export type LandingDeps = {
   readonly read?: ReadFiles
   readonly write?: WriteFiles
-  readonly remove?: RemoveFiles
+
   readonly waiting?: Waiting
 }
 
@@ -55,10 +52,6 @@ export function readingFor(deps: LandingDeps): ReadFiles {
 
 export function writingFor(deps: LandingDeps): WriteFiles {
   return deps.write ?? writeFiles
-}
-
-export function removingFor(deps: LandingDeps): RemoveFiles {
-  return deps.remove ?? removeFiles
 }
 
 export function triedFrom(landing: Landing): Tried {

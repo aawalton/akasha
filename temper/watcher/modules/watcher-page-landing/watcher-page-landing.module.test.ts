@@ -23,7 +23,6 @@ import {
   pagePathIn,
   pageTypeImportFor,
   readingFor,
-  removingFor,
   rowsPathIn,
   textIn,
   triedFrom,
@@ -256,7 +255,6 @@ test("an attempt never made leaves the opening reason in the refusal", async () 
 test("a caller handing in nothing gets what reaches the store", () => {
   expect(typeof readingFor({})).toBe("function")
   expect(typeof writingFor({})).toBe("function")
-  expect(typeof removingFor({})).toBe("function")
 })
 
 test("a caller handing one in gets the one it handed in", () => {
