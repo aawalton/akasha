@@ -1,7 +1,4 @@
-import {
-  overEachBody,
-  styleNamed,
-} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import { styleNamed } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import {
   lineAt,
   parsedAs,
@@ -148,5 +145,3 @@ export function found(path: string, text: string): readonly string[] {
   if (styleNamed(path)) return refusalsFor(styleCommentsIn(text))
   return refusalsFor(commentsIn(path, text))
 }
-
-export const reasonsIn = overEachBody(found)
