@@ -7,12 +7,7 @@ import { formatSmartDate } from "akasha/pages/core/view/modules/format-smart-dat
 import { DateBadge as DetailDateBadge } from "akasha/pages/ui/components/modules/page-detail-properties-shared/page-detail-properties-shared.module.code.tsx"
 import type { PropertyBadgeProps } from "akasha/pages/ui/components/modules/property-badge/property-badge.module.code.tsx"
 
-export function DatePropertyBadge({
-  property,
-  value,
-  editable,
-  onPropertyChange,
-}: PropertyBadgeProps) {
+export function Drawing({ property, value, editable, onPropertyChange }: PropertyBadgeProps) {
   const accentVariant: BadgeVariant = property.accent ? "accent" : "elevation-muted"
   const variant = resolveBadgeVariant(property, value) ?? accentVariant
 

@@ -23,7 +23,6 @@ export const components = {
     "module/create-option",
     "module/create-page-dialog",
     "module/create-view-popover",
-    "module/date-property-badge",
     "module/date-time-filter-inputs",
     "module/date-time-filter-inputs-parse",
     "module/degrading-image",

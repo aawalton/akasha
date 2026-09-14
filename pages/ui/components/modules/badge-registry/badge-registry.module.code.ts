@@ -3,7 +3,7 @@ import { ActionButtonPropertyBadge } from "akasha/pages/ui/components/modules/ac
 import { AggregatePropertyBadge } from "akasha/pages/ui/components/modules/aggregate-property-badge/aggregate-property-badge.module.code.tsx"
 
 import { CalendarTimePropertyBadge } from "akasha/pages/ui/components/modules/calendar-time-property-badge/calendar-time-property-badge.module.code.tsx"
-import { DatePropertyBadge } from "akasha/pages/ui/components/modules/date-property-badge/date-property-badge.module.code.tsx"
+
 import { FormulaPropertyBadge } from "akasha/pages/ui/components/modules/formula-property-badge/formula-property-badge.module.code.tsx"
 import { InstantPropertyBadge } from "akasha/pages/ui/components/modules/instant-property-badge/instant-property-badge.module.code.tsx"
 import { JsonPropertyBadge } from "akasha/pages/ui/components/modules/json-property-badge/json-property-badge.module.code.tsx"
@@ -33,7 +33,6 @@ export const PROPERTY_BADGE_REGISTRY: Partial<
   url: UrlPropertyBadge,
   json: JsonPropertyBadge,
 
-  "calendar-date": DatePropertyBadge,
   "calendar-time": CalendarTimePropertyBadge,
   instant: InstantPropertyBadge,
   select: SelectPropertyBadge,
