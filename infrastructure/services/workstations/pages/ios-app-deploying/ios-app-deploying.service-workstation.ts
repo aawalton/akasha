@@ -14,28 +14,28 @@ export const iosAppDeploying = {
   },
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "One kind is put up by this service, and the code beside this page names that kind.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An ios deploy builds the app and hands the build to Apple, which nothing undoes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A tick may hand a build to Apple without anyone asking, as Alan settled.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each ios app states the hour it waits before a tick hands Apple another build.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An ios build wants secrets from Alan's file, so this service reads that file.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A tick with every ios app up to date puts nothing up, so that is no loop without end.",
     },

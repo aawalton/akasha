@@ -13,16 +13,16 @@ export const clusterDeploying = {
   },
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "One kind is put up by this service, and the code beside this page names that kind.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A cluster deploy applies the manifests a page states, and nothing else.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A tick with every cluster service up to date puts nothing up, so that is no loop without end.",
     },

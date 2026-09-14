@@ -13,22 +13,22 @@ export const webAppDeploying = {
   },
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "One kind is put up by this service, and the code beside this page names that kind.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A web app deploy pushes the commit to origin, builds in the pod, and applies its manifests.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The cluster service beside a web app is put up here rather than by the cluster loop.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A tick with every web app up to date puts nothing up, so that is no loop without end.",
     },

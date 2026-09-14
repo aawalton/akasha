@@ -13,7 +13,7 @@ export const reposEmptyDirPurge = {
   },
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The purge leaves `.git` and `node_modules` to git and to the package installer.",
     },
   ],

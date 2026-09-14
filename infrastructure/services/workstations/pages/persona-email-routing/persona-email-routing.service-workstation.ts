@@ -15,23 +15,23 @@ export const personaEmailRouting = {
   },
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Declaring an address on a persona page is all anyone does to route it.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No rule is taken away or turned off by this service.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run here writes, because a dry run nobody reads routes nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run whose token is refused fails the unit rather than passing quietly.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run over a zone already in step writes nothing, so a daily run costs one read.",
     },
   ],

@@ -14,19 +14,19 @@ export const inboxCountWatchService = {
   },
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The unit running the watch is simple rather than a timer.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Repeated starts are counted over no window.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A watch failing all night keeps on.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The site the counts are carried to is named here rather than held as a secret.",
     },
   ],

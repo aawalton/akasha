@@ -12,11 +12,11 @@ export const recipientResolver = {
   },
   invariants: [
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A message with no recipient is resolved by the values that message states.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A recipient that matches no seat has a seat created.",
     },
   ],

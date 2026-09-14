@@ -14,28 +14,28 @@ export const workstationLoadSampler = {
   },
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The unit running the sampler is simple rather than a timer.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Repeated starts are counted over no window.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A round of samples landing each minute is what says this sampler is working.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The window holds three rounds, so two missed rounds are not yet broken.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The readouts this sampler keeps show the last reading kept when the sampler dies.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No secret is needed, since nothing here is carried off the workstation.",
     },
   ],

@@ -16,39 +16,42 @@ export const temperWatcher = {
   },
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The unit running the worker is a simple unit.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A change to the worker reaches the workstation on a restart rather than on a deploy.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Exit 75 is the worker asking to start again and is counted as a clean stop.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Repeated starts are counted over no window.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A watcher failing all night keeps on.",
     },
-    { invariantKind: "departure", statement: "One worker runs at a time." },
+    { invariantKind: "invariant-kind/departure", statement: "One worker runs at a time." },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Whether the watcher is carrying anything across is judged from outside the watcher.",
     },
-    { invariantKind: "departure", statement: "A dead daemon reports nothing about itself." },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/departure",
+      statement: "A dead daemon reports nothing about itself.",
+    },
+    {
+      invariantKind: "invariant-kind/constraint",
       statement: "The watcher runs on the workstation the game writes its files on.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The watcher reaches every page over pages-service rather than over the checkout.",
     },
   ],

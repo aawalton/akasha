@@ -14,27 +14,27 @@ export const workstationDeploying = {
   },
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "One kind is put up by this service, and the code beside this page names that kind.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A tick ends once the deploy it started ends, and the tick after it is skipped meanwhile.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The deploy runs in a scope of its own, so this service being started again leaves it running.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The deploy this starts puts this service up too, and starts it again where it changed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A tick finding nothing changed starts nothing, so that is no loop without end.",
     },
   ],

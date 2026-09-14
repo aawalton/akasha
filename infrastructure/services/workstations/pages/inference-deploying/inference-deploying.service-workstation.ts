@@ -14,25 +14,25 @@ export const inferenceDeploying = {
   },
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "One kind is put up by this service, and the code beside this page names that kind.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An inference deploy reaches the host over SSH and boots out the model server it replaces.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A service already holding the hash asked for is put up without being booted out.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing waits for a request in flight before that boot out.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A tick with every inference service up to date puts nothing up, so that is no loop without end.",
     },
