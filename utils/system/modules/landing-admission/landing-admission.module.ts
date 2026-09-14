@@ -13,7 +13,7 @@ export const landingAdmission = {
     },
     {
       invariantKind: "constraint",
-      statement: "Sixteen gigabytes available is the least a landing starts on.",
+      statement: "Eight gigabytes available is the least a landing starts on.",
     },
     {
       invariantKind: "departure",

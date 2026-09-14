@@ -10,7 +10,7 @@ import {
 
 const AT = ".local/state/workstation-services/landing-admission"
 
-const ROOM_GB = 16
+const ROOM_GB = 8
 
 const HELD_MS = 30_000
 
