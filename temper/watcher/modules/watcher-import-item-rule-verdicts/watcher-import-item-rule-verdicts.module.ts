@@ -8,6 +8,7 @@ export const watcherImportItemRuleVerdicts = {
     "the verdicts an add-on queued for an item, read from saved variables and written into rule settings",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

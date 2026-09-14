@@ -87,10 +87,6 @@ export type VerdictUserSource = {
   readonly userId: () => Promise<string>
 }
 
-export function knownUserSource(userId: string): VerdictUserSource {
-  return { userId: async () => userId }
-}
-
 export function supabaseUserSource(reader: SignedInReader): VerdictUserSource {
   return { userId: async () => signedInUserId(reader, "import these item-rule verdicts") }
 }
