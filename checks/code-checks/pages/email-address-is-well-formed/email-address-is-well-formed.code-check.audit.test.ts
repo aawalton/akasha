@@ -3,7 +3,6 @@ import { emailAddressIsWellFormed } from "akasha/checks/code-checks/pages/email-
 import {
   claiming,
   declaring,
-  filing,
   founded,
   pathFor,
   put,
@@ -49,7 +48,6 @@ function holding(
 ): string {
   const at = pathFor(HELD, slug)
   const value = heldFor(slug, stated)
-  filing(root, HELD, slug, ONE)
   put(root, at, bytesOf(`export const one = ${JSON.stringify(value)}\n`))
   if (!filed) return at
   claiming(root, at, ONE)
