@@ -15,7 +15,7 @@ export const nimueNewModels = {
     {
       statement: "Every account akasha holds with a model provider is a model-account.",
       workingMemory:
-        "`claude-account` carries thirty-odd properties, nearly all of them Anthropic subscription facts: oauth tokens, five-hour and seven-day windows, subscription type, renewal day. What generalizes is the provider an account is with, the credential that account holds, and whether that account is eligible now. Selection ranks on those windows today, so a provider whose limits are not windows has nothing to rank on.",
+        "`claude-account` is one Anthropic subscription that calls are made on. Its body states email, alias index, subscription type, rate limit tier, renewal day and scopes; its credential is an oauth pair in sops; its two windows are marks beside the page, and eligibility is computed from them. What generalizes is the provider, the credential and eligibility. `oauth-effects` is the one seam the gateway reaches accounts through.",
     },
     {
       statement: "DeepSeek is a model provider akasha holds a model-account with.",
