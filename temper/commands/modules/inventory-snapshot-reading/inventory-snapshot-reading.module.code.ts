@@ -25,15 +25,14 @@ const SNAPSHOT_HEADER_SHAPE = z
 export type SnapshotHeader = z.infer<typeof SNAPSHOT_HEADER_SHAPE>
 
 async function headerFrom(
-  where: Readonly<Record<string, unknown>>,
-  descending: boolean
+  where: Readonly<Record<string, unknown>>
 ): Promise<SnapshotHeader | null> {
   const asked = await askComposed({
     "page-type": SNAPSHOT_PAGE_TYPE,
     where,
     keys: SNAPSHOT_KEYS,
     "sort-by": "captured-at",
-    descending,
+    descending: true,
     limit: 1,
   })
   if (!asked.ok) throw new Error(`${SNAPSHOT_PAGE_TYPE} went unread — ${asked.why}`)
@@ -42,11 +41,7 @@ async function headerFrom(
 }
 
 export function latestSnapshot(accountUserId: string): Promise<SnapshotHeader | null> {
-  return headerFrom({ "account-page": { is: accountUserId } }, true)
-}
-
-export function snapshotWithId(id: string): Promise<SnapshotHeader | null> {
-  return headerFrom({ id: { is: id } }, false)
+  return headerFrom({ "account-page": { is: accountUserId } })
 }
 
 const DATA_PROPERTY = "data"
