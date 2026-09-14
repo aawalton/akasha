@@ -1,1 +1,0 @@
-export type SmsDiscardSender = string

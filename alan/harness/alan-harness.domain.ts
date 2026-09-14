@@ -38,7 +38,6 @@ export const alanHarness = {
     "domain/rules-engine",
     "domain/safety",
     "domain/sleep",
-    "domain/sms-access",
     "domain/sms-core",
     "domain/ssh-access",
     "domain/supabase-auth",
