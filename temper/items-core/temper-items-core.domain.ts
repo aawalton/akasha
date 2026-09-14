@@ -15,7 +15,6 @@ export const temperItemsCore = {
     "module/compute-item-stock",
     "module/cooldown-groups",
     "module/crafting-passive-ranks",
-    "module/decon-crafting-type-inference",
     "module/equipment-signature-matcher",
     "module/eso-bag-constants",
     "module/eso-companion-equipment-constants-data",
