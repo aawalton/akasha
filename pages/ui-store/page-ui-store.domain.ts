@@ -1,17 +1,17 @@
 import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
-export const pagesUiStore = {
+export const pageUiStore = {
   id: "01a05b69-455c-7bbd-8f3b-b2c3946559fc",
   type: "domain",
-  slug: "pages-ui-store",
+  slug: "page-ui-store",
   definition: "the page rows a browser holds, and the queries and writes run against them",
 
   parts: [
-    "domain/pages-ui-store-collection",
-    "domain/pages-ui-store-optimistic",
-    "domain/pages-ui-store-query",
-    "domain/pages-ui-store-realtime",
-    "domain/pages-ui-store-sql",
+    "domain/page-ui-store-collection",
+    "domain/page-ui-store-optimistic",
+    "domain/page-ui-store-query",
+    "domain/page-ui-store-realtime",
+    "domain/page-ui-store-sql",
     "module/diagnostics",
     "module/report-stall",
     "module/singleton",

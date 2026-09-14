@@ -33,7 +33,7 @@ export const page = {
     "domain/page-core",
     "domain/page-query",
     "domain/page-ui",
-    "domain/pages-ui-store",
+    "domain/page-ui-store",
     "domain/page-url",
     "file-property/entries",
     "module/akasha-page-values",

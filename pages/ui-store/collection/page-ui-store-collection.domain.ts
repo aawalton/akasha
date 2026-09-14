@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
-export const pagesUiStoreCollection = {
+export const pageUiStoreCollection = {
   id: "01a071cd-798c-75bd-88c7-7e266f938b90",
   type: "domain",
-  slug: "pages-ui-store-collection",
+  slug: "page-ui-store-collection",
   definition: "the rows a store keeps for one page type",
   parts: [
     "module/acquire",

@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
-export const pagesUiStoreQuery = {
+export const pageUiStoreQuery = {
   id: "01a071cc-086c-740f-affb-d4471f64884e",
   type: "domain",
-  slug: "pages-ui-store-query",
+  slug: "page-ui-store-query",
   definition: "a view read as a query the store runs",
   parts: [
     "module/condition-eval",
