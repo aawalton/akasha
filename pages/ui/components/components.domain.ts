@@ -115,7 +115,6 @@ export const components = {
     "module/resolve-listing-config",
     "module/rich-document-property-badge",
     "module/rollup-property-badge",
-    "module/rrule-property-badge",
     "module/select-property-badge",
     "module/sortable-card-collection",
     "module/sortable-navs",
