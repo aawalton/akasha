@@ -8,7 +8,7 @@ export const travelAndCultureGreatCourses = {
   status: "following",
   rank: "B",
   unit: "unit/minutes",
-  partOfCollections: ["great-courses-by-subject"],
+  partOfCollections: ["great-courses-collection/great-courses-by-subject"],
   externalIdentity: [
     { source: "the-great-courses", externalId: "great-courses-subject-travel-culture" },
   ],

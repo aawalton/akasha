@@ -7,6 +7,6 @@ export const scienceGreatCourses = {
   title: "Science Great Courses",
   status: "paused",
   unit: "unit/minutes",
-  partOfCollections: ["great-courses-by-subject"],
+  partOfCollections: ["great-courses-collection/great-courses-by-subject"],
   externalIdentity: [{ source: "the-great-courses", externalId: "great-courses-subject-science" }],
 } as const satisfies GreatCoursesSubject
