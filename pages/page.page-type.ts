@@ -31,7 +31,7 @@ export const page = {
     "domain/page-storage",
     "domain/page-access",
     "domain/pages-core",
-    "domain/pages-query",
+    "domain/page-query",
     "domain/pages-service",
     "domain/pages-ui",
     "domain/pages-ui-store",

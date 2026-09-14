@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
-export const pagesQuery = {
+export const pageQuery = {
   id: "01a05aec-eaaa-785b-b175-87946b2c2eb7",
   type: "domain",
-  slug: "pages-query",
+  slug: "page-query",
   definition: "the page store reached over HTTP",
 
   parts: [
