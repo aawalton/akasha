@@ -6,5 +6,5 @@ export const myMath = {
   slug: "my-math",
   definition: "the mathematics Alan writes down",
   title: "My Math",
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies AlanBook

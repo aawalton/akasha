@@ -7,5 +7,5 @@ export const myFaith = {
   definition: "what Alan believes",
   title: "My Faith",
   description: "This is the orientation the `/talia`",
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies AlanBook

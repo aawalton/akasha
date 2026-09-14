@@ -15,7 +15,7 @@ export const learnEverything = {
   title: "Learn Everything",
   description:
     "<!-- Where his model thins — the edge located by the probe that set D. Becomes next session's bites. -->",
-  unit: "words",
+  unit: "unit/words",
   invariants: [
     {
       invariantKind: "departure",
