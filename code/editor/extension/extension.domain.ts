@@ -69,6 +69,7 @@ export const extension = {
     "module/status-bar-slots",
     "module/status-bar-theme",
     "module/status-bar-usage",
+    "module/status-bar-workstation",
     "module/subagent-checkpoints",
     "module/subagent-core",
     "module/subagent-reading",

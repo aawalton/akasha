@@ -8,7 +8,13 @@ declare type StatusBarUsage = {
   readonly weeklyPct: number | null
 }
 
+declare type StatusBarWorkstation = {
+  readonly processorPct: number | null
+  readonly memoryPct: number | null
+}
+
 declare type StatusBarState = {
+  readonly workstation: StatusBarWorkstation | null
   readonly usage: StatusBarUsage | null
   readonly inbox: StatusBarStoplights | null
   readonly upkeep: StatusBarStoplights | null

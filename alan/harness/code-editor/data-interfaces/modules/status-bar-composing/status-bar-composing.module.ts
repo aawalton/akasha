@@ -10,7 +10,7 @@ export const statusBarComposing = {
     {
       invariantKind: "departure",
       statement:
-        "The line has the fleet's spend and one section for each of the three readout groups.",
+        "The line has the workstation's load, the fleet's spend, and a section for each stoplight group.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,8 @@ export const statusBarComposing = {
     },
     {
       invariantKind: "departure",
-      statement: "One reading of the readout pages answers all three groups.",
+      statement:
+        "One reading of the readout pages answers the workstation's load and all three stoplight groups.",
     },
     {
       invariantKind: "departure",
@@ -57,6 +58,11 @@ export const statusBarComposing = {
     {
       invariantKind: "absence",
       statement: "Nothing here says which glyph a tier draws.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The workstation's load is each workstation readout's last reading, found by wire key.",
     },
   ],
 } as const satisfies Module

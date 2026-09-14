@@ -22,6 +22,10 @@ import {
   type UsageReading,
 } from "akasha/code/editor/extension/modules/status-bar-usage/status-bar-usage.module.code.ts"
 import {
+  type WorkstationReading,
+  workstationReadingOf,
+} from "akasha/code/editor/extension/modules/status-bar-workstation/status-bar-workstation.module.code.ts"
+import {
   typeSlugOf,
   valuesOfType,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
@@ -41,6 +45,14 @@ const INBOX_GROUP = "inboxes"
 const UPKEEP_GROUP = "upkeep"
 
 const ATTRIBUTES_GROUP = "attributes"
+
+const WORKSTATION_GROUP = "workstation"
+
+const PROCESSOR_KEY = "processor"
+
+const MEMORY_KEY = "memory"
+
+const WIRE_KEY = "wireKey"
 
 const GROUPS: readonly string[] = [INBOX_GROUP, UPKEEP_GROUP, ATTRIBUTES_GROUP]
 
@@ -72,7 +84,10 @@ export function watchedFoldersIn(root: string): readonly string[] {
   return [...found].sort()
 }
 
-function stoplightsByGroup(root: string): ReadonlyMap<string, readonly Stoplight[]> {
+function stoplightsByGroup(
+  root: string,
+  rows: readonly Values[]
+): ReadonlyMap<string, readonly Stoplight[]> {
   const rungsBy = new Map<string, readonly Rung[]>()
   for (const one of heldOfType(root, READOUT_SCALE)) {
     const slug = textAt(one.values, "slug")
@@ -85,7 +100,6 @@ function stoplightsByGroup(root: string): ReadonlyMap<string, readonly Stoplight
     if (slug !== null && one.values.figureOffScale === true) offScale.add(slug)
   }
 
-  const rows = heldOfType(root, READOUT).map((one) => one.values)
   const held = new Map<string, readonly Stoplight[]>()
   for (const groupSlug of GROUPS) {
     const figureOffScale = offScale.has(groupSlug)
@@ -111,6 +125,18 @@ function sectionOf(
   return { glyphs: glyphsOf(stoplights), legend: legendOf(stoplights) }
 }
 
+function percentHeldOn(rows: readonly Values[], wireKey: string): number | null {
+  const row = rows.find((one) => !stilled(one) && textAt(one, WIRE_KEY) === wireKey)
+  if (row === undefined) return null
+  const held = readingHeldOn(row)
+  return held.held === "fresh" ? held.value : null
+}
+
+function workstationNow(rows: readonly Values[]): WorkstationReading | null {
+  const here = rows.filter((one) => namesGroup(one, WORKSTATION_GROUP))
+  return workstationReadingOf(percentHeldOn(here, PROCESSOR_KEY), percentHeldOn(here, MEMORY_KEY))
+}
+
 function usageNow(): UsageReading | null {
   try {
     const fleet = readFleetUsage()
@@ -121,8 +147,10 @@ function usageNow(): UsageReading | null {
 }
 
 export function statusBarLine(root: string): string {
-  const held = stoplightsByGroup(root)
+  const rows = heldOfType(root, READOUT).map((one) => one.values)
+  const held = stoplightsByGroup(root, rows)
   return JSON.stringify({
+    workstation: workstationNow(rows),
     usage: usageNow(),
     inbox: sectionOf(held, INBOX_GROUP),
     upkeep: sectionOf(held, UPKEEP_GROUP),
