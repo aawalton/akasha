@@ -15,13 +15,13 @@ export const theaChecksSystem = {
     {
       statement: "No module exports a value nothing names.",
       workingMemory:
-        "761 refusals: 485 a value nothing names and 276 only a test names, and none only its own file names. temper 165, alan 132, story 91, pages 87, infrastructure 70, agents 66. story's 91 all sit in engine, tower and ui, which nothing outside reaches but `chapterWords` and `selectGameRenderMode`, so whether that arm goes is Alan's. The write half of `pages/access` is unreached the same way, and so may be the cluster arm under `infrastructure/`.",
+        "581 refusals: 316 a value nothing names, 256 only a test names, 9 only its own file names. alan 107, temper 98, story 87, pages 54, agents 52, infrastructure 30. story's sit in engine, tower and ui; the story-played page type now carries a page-component group whose `Drawing` mounts the awen panels, and the rest of that arm waits on Alan.",
     },
 
     {
       statement: "No arm of the codebase is built and reached by nothing.",
       workingMemory:
-        "The story engine, tower and ui (224 files); the write half of `pages/access`; `landAkashaSessionRow` and the rows beside a day; geoapify geocoding and routing; email inbound routing; the litrpg reading selection; the jenny and ki sms dispatch; `ReadoutRing`; `installSimShell`; `cardioReading`; and `placeSecrets`, which a finding says the deploy still wants. Each is built whole and wired to nothing. Each waits on Alan, one at a time, the story engine first.",
+        "Alan keeps the story engine, tower and ui (224 files), and story-played now draws with a placeholder page component. Still built and wired to nothing: the write half of `pages/access`; `landAkashaSessionRow` and the rows beside a day; geoapify geocoding and routing; email inbound routing; the litrpg reading selection; the jenny and ki sms dispatch; `ReadoutRing`; `installSimShell`; `cardioReading`; and `placeSecrets`. Each waits on Alan, one at a time.",
     },
     {
       statement: "Every uncommitted body beside a page exports the name that page's writer makes.",
