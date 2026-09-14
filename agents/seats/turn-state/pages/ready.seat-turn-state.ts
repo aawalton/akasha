@@ -8,15 +8,15 @@ export const ready = {
   color: "color/purple",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat reading ready is between turns rather than taking a turn.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat reading ready is told apart from an idle seat by its role being on call.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat already waiting on something of its own is waiting rather than ready.",
     },
   ],

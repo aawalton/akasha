@@ -8,7 +8,7 @@ export const idlePending = {
   color: "color/blue",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A reminder does not make a turn pending.",
     },
   ],
