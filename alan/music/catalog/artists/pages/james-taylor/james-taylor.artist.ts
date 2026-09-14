@@ -5,7 +5,7 @@ export const jamesTaylor = {
   type: "artist",
   slug: "james-taylor",
   title: "James Taylor",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

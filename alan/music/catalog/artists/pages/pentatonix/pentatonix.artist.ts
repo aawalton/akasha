@@ -5,7 +5,7 @@ export const pentatonix = {
   type: "artist",
   slug: "pentatonix",
   title: "Pentatonix",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

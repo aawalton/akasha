@@ -5,7 +5,7 @@ export const sia = {
   type: "artist",
   slug: "sia",
   title: "Sia",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

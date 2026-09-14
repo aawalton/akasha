@@ -5,7 +5,7 @@ export const ejae = {
   type: "artist",
   slug: "ejae",
   title: "EJAE",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const reneeRapp = {
   type: "artist",
   slug: "renee-rapp",
   title: "Reneé Rapp",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

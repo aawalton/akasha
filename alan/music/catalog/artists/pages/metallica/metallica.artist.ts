@@ -5,7 +5,7 @@ export const metallica = {
   type: "artist",
   slug: "metallica",
   title: "Metallica",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

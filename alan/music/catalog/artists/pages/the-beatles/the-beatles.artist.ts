@@ -5,7 +5,7 @@ export const theBeatles = {
   type: "artist",
   slug: "the-beatles",
   title: "The Beatles",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

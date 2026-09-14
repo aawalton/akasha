@@ -5,7 +5,7 @@ export const sylviaDaley = {
   type: "artist",
   slug: "sylvia-daley",
   title: "Sylvia Daley",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

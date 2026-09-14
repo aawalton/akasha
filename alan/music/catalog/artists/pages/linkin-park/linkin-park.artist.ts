@@ -5,7 +5,7 @@ export const linkinPark = {
   type: "artist",
   slug: "linkin-park",
   title: "Linkin Park",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

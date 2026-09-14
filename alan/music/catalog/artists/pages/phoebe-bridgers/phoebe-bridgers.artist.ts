@@ -5,7 +5,7 @@ export const phoebeBridgers = {
   type: "artist",
   slug: "phoebe-bridgers",
   title: "Phoebe Bridgers",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

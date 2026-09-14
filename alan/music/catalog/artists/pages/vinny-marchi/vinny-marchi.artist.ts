@@ -5,7 +5,7 @@ export const vinnyMarchi = {
   type: "artist",
   slug: "vinny-marchi",
   title: "Vinny Marchi",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

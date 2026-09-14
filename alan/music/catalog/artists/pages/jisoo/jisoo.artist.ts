@@ -5,7 +5,7 @@ export const jisoo = {
   type: "artist",
   slug: "jisoo",
   title: "JISOO",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

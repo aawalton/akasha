@@ -5,7 +5,7 @@ export const jadaFacer = {
   type: "artist",
   slug: "jada-facer",
   title: "Jada Facer",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

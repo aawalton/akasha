@@ -5,7 +5,7 @@ export const imagineDragons = {
   type: "artist",
   slug: "imagine-dragons",
   title: "Imagine Dragons",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

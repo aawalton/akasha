@@ -5,7 +5,7 @@ export const paulCardall = {
   type: "artist",
   slug: "paul-cardall",
   title: "Paul Cardall",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

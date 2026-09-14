@@ -5,7 +5,7 @@ export const taylorSwift = {
   type: "artist",
   slug: "taylor-swift",
   title: "Taylor Swift",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

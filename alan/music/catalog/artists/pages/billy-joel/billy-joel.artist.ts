@@ -5,7 +5,7 @@ export const billyJoel = {
   type: "artist",
   slug: "billy-joel",
   title: "Billy Joel",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

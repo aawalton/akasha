@@ -5,7 +5,7 @@ export const lynLapid = {
   type: "artist",
   slug: "lyn-lapid",
   title: "Lyn Lapid",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

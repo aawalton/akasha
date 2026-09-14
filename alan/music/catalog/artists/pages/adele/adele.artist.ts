@@ -5,7 +5,7 @@ export const adele = {
   type: "artist",
   slug: "adele",
   title: "Adele",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

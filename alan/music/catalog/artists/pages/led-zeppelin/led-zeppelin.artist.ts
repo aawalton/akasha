@@ -5,7 +5,7 @@ export const ledZeppelin = {
   type: "artist",
   slug: "led-zeppelin",
   title: "Led Zeppelin",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

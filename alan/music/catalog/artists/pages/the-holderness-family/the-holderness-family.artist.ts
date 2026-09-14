@@ -5,7 +5,7 @@ export const theHoldernessFamily = {
   type: "artist",
   slug: "the-holderness-family",
   title: "The Holderness Family",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

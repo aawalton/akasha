@@ -5,7 +5,7 @@ export const katyPerry = {
   type: "artist",
   slug: "katy-perry",
   title: "Katy Perry",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

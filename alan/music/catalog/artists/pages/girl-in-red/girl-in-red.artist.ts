@@ -5,7 +5,7 @@ export const girlInRed = {
   type: "artist",
   slug: "girl-in-red",
   title: "girl in red",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

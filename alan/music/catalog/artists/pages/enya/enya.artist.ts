@@ -5,7 +5,7 @@ export const enya = {
   type: "artist",
   slug: "enya",
   title: "Enya",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

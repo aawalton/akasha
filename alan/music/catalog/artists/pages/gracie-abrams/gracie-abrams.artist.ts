@@ -5,7 +5,7 @@ export const gracieAbrams = {
   type: "artist",
   slug: "gracie-abrams",
   title: "Gracie Abrams",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

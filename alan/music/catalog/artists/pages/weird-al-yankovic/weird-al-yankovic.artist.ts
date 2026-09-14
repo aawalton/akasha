@@ -5,7 +5,7 @@ export const weirdAlYankovic = {
   type: "artist",
   slug: "weird-al-yankovic",
   title: "“Weird Al” Yankovic",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

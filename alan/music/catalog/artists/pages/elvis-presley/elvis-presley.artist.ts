@@ -5,7 +5,7 @@ export const elvisPresley = {
   type: "artist",
   slug: "elvis-presley",
   title: "Elvis Presley",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

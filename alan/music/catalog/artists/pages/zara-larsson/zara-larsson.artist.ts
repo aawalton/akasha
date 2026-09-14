@@ -5,7 +5,7 @@ export const zaraLarsson = {
   type: "artist",
   slug: "zara-larsson",
   title: "Zara Larsson",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

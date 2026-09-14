@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquare = {
   type: "artist",
   slug: "the-tabernacle-choir-at-temple-square",
   title: "The Tabernacle Choir at Temple Square",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

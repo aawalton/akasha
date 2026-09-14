@@ -5,7 +5,7 @@ export const jessicaBaio = {
   type: "artist",
   slug: "jessica-baio",
   title: "Jessica Baio",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

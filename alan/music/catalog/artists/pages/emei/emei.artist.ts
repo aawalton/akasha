@@ -5,7 +5,7 @@ export const emei = {
   type: "artist",
   slug: "emei",
   title: "Emei",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

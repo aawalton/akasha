@@ -5,7 +5,7 @@ export const jennaRaine = {
   type: "artist",
   slug: "jenna-raine",
   title: "Jenna Raine",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

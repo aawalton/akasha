@@ -5,7 +5,7 @@ export const alexWarren = {
   type: "artist",
   slug: "alex-warren",
   title: "Alex Warren",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

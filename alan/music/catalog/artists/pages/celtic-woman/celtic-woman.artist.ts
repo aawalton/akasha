@@ -5,7 +5,7 @@ export const celticWoman = {
   type: "artist",
   slug: "celtic-woman",
   title: "Celtic Woman",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

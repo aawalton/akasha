@@ -5,7 +5,7 @@ export const sabrinaCarpenter = {
   type: "artist",
   slug: "sabrina-carpenter",
   title: "Sabrina Carpenter",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

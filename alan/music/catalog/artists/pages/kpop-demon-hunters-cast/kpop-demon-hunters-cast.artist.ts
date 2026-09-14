@@ -5,7 +5,7 @@ export const kpopDemonHuntersCast = {
   type: "artist",
   slug: "kpop-demon-hunters-cast",
   title: "KPop Demon Hunters Cast",
-  partOfCollections: ["artists", "kpop-demon-hunters"],
+  partOfCollections: ["artist-collection/artists", "fandom/kpop-demon-hunters"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

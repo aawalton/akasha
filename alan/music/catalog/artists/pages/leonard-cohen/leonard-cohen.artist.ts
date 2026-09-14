@@ -5,7 +5,7 @@ export const leonardCohen = {
   type: "artist",
   slug: "leonard-cohen",
   title: "Leonard Cohen",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

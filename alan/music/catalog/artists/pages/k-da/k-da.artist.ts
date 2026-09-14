@@ -5,7 +5,7 @@ export const kDa = {
   type: "artist",
   slug: "k-da",
   title: "K/DA",
-  partOfCollections: ["artists", "league-of-legends"],
+  partOfCollections: ["artist-collection/artists", "fandom/league-of-legends"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

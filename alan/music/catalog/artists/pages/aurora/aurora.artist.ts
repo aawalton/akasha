@@ -5,7 +5,7 @@ export const aurora = {
   type: "artist",
   slug: "aurora",
   title: "AURORA",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

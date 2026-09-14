@@ -5,7 +5,7 @@ export const greenDay = {
   type: "artist",
   slug: "green-day",
   title: "Green Day",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

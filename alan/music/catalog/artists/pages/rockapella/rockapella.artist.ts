@@ -5,7 +5,7 @@ export const rockapella = {
   type: "artist",
   slug: "rockapella",
   title: "Rockapella",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,
