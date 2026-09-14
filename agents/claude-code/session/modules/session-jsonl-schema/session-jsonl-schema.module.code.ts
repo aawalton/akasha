@@ -86,8 +86,6 @@ const ResultMessage = shape.looseObject({
   errors: shape.array(shape.string()).optional(),
 })
 
-const HUMAN_PROMPT_ORIGIN = "human"
-
 const UserMessage = shape.looseObject({
   type: shape.literal("user"),
   timestamp: shape.string().optional(),
@@ -97,10 +95,6 @@ const UserMessage = shape.looseObject({
   }),
 })
 export type UserMessage = Infer<typeof UserMessage>
-
-export function isHumanAuthoredUserLine(msg: UserMessage): boolean {
-  return msg.origin?.kind === HUMAN_PROMPT_ORIGIN
-}
 
 const QueueOperationMessage = shape.looseObject({
   type: shape.literal("queue-operation"),
