@@ -23,7 +23,10 @@ import {
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { nameFor } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 import { loadedFrom } from "akasha/pages/modules/value/page-value.module.code.ts"
-import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  textAt,
+  textsAt,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import ts from "typescript"
 
 const PUBLISHED = "a value only its own file names is published for nothing"
@@ -136,14 +139,9 @@ const BY_FILE: ReadonlyMap<string, ReadonlySet<string>> = new Map([
   [BUNDLE_IMAGE, STAMPED],
 ])
 
-const BY_SLUG: ReadonlyMap<string, ReadonlySet<string>> = new Map([
-  ["carried-file", new Set(["carriedIn"])],
-  ["extension-entry", new Set(["activate", "deactivate"])],
-  ["nutrition-points", new Set(["rollupNutritionForDay"])],
-  ["run-serving", new Set(["serving"])],
-  ["state-writing", new Set(["statesLanded"])],
-  ["toolchain-manifest", new Set(["CI_TOOLCHAIN_URLS"])],
-])
+const MODULE = "module"
+
+const REACHED_BY_PATH = "reachedByPath"
 
 const NOTHING: ReadonlySet<string> = new Set()
 
@@ -314,11 +312,23 @@ function loadedBeside(said: Parted, loaders: ReadonlySet<string>): boolean {
   return loaders.has(said.pageType) && besideProperty(said, said.pageType, CODE)
 }
 
+export function reachedByPathSparing(index: Answering): ReadonlyMap<string, ReadonlySet<string>> {
+  const found = new Map<string, ReadonlySet<string>>()
+  for (const value of index.valuesByPath(MODULE).values()) {
+    const slug = textAt(value, SLUG)
+    const told = textsAt(value, REACHED_BY_PATH)
+    if (slug === null || told === null) continue
+    found.set(slug, new Set(told))
+  }
+  return found
+}
+
 export function sparedIn(
   path: string,
   pageTypes: ReadonlySet<string>,
   groups: ReadonlyMap<string, string>,
   loaders: ReadonlySet<string>,
+  reached: ReadonlyMap<string, ReadonlySet<string>>,
   bodyOf: Bodied
 ): ReadonlySet<string> {
   const said = partedIn(path)
@@ -334,7 +344,7 @@ export function sparedIn(
   if (loaded !== null) return new Set([loaded])
   const coded = groupCoded(said, groups)
   if (coded !== null) return new Set([coded])
-  const spared = new Set(BY_SLUG.get(said.slug) ?? NOTHING)
+  const spared = new Set(reached.get(said.slug) ?? NOTHING)
   if (pageNamed(path, pageTypes)) spared.add(exportedAs(said.slug))
   return spared
 }
@@ -423,12 +433,13 @@ export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] 
   const pageTypes = pageTypesFor(shadow)
   const groups = groupsSparing(shadow.index)
   const loaders = loadersSparing(shadow.index)
+  const reached = reachedByPathSparing(shadow.index)
   const judged: Judged[] = []
   for (const path of change.changed) {
     if (!typeScripted(path)) continue
     const text = textIn(change, path)
     if (text === null) continue
-    const spared = sparedIn(path, pageTypes, groups, loaders, (at) => textIn(change, at))
+    const spared = sparedIn(path, pageTypes, groups, loaders, reached, (at) => textIn(change, at))
     for (const reason of reasonsFor(path, text, change, shadow, spared)) {
       judged.push({ path, reason })
     }

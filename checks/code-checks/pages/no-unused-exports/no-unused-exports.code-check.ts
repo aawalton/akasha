@@ -220,30 +220,6 @@ export const noUnusedExports = {
     },
     {
       invariantKind: "departure",
-      statement: "The `carriedIn` the carried-file module exports is reached by a container stage.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The `activate` and `deactivate` an extension entry exports are reached by the editor.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The `rollupNutritionForDay` the nutrition-points module exports is reached by the food command.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The `serving` the run-serving module exports is reached by the relay spawning it.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The `statesLanded` the state-writing module exports is reached by the editor's landing.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The content hash an addon bundle is tagged with is read out of its own body.",
     },
     {
@@ -252,8 +228,13 @@ export const noUnusedExports = {
         "A spare keyed on a module's slug leaves the export that module's page is named for.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "A module states for itself which of its values a runner reaches by path.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Which values a module says a runner reaches by path is read from the index rather than listed here.",
     },
     {
       invariantKind: "departure",
@@ -292,11 +273,6 @@ export const noUnusedExports = {
       invariantKind: "departure",
       statement:
         "The `generateTypes` and `couldTurn` a type generator exports are reached by landing.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The `CI_TOOLCHAIN_URLS` the toolchain manifest exports is reached by the provisioning script.",
     },
   ],
   check: { maxCpuSeconds: 30 },

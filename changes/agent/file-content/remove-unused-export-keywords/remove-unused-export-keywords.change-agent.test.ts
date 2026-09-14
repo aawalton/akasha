@@ -42,6 +42,7 @@ function worldOver(
     everyPath: () => Object.keys(held),
     importersOf: () => importers,
     pageTypesIn: () => new Set<string>(),
+    valuesByPath: () => new Map<string, never>(),
   } as never
   return {
     root,
