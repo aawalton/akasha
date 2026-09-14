@@ -13,11 +13,7 @@ export const astraIndexCleanup = {
         "`index-answers-are-level-with-the-change` judges at change since `b0bd8841`, both ways, reading `shadow.filed()` against `change.carried`, so nothing is built again. It has refused no landing of mine since. The hazard it does not reach is the one relation carries: a change to a page type turns answers for every page of that type, far outside the files that change has, and those are left out.\n",
     },
     { statement: "Alan holds the value index's structure correct." },
-    {
-      statement: "Alan holds the listing index's structure correct.",
-      workingMemory:
-        "Nothing reads the index, and the `listedOf` writing in indexing and settling is out. `file-has-its-page` went whole in `b06bbb6502a` rather than be left half-answering; Alan holds what that check did, for later. It needed which paths a page's properties name, cheap to compose for the files one landing carries and a whole page-body parse over the tree. What is left is the four helpers in `index-reading.module.test-fixtures.ts`, the index's own three files, and the `index/index-listing` part.\n",
-    },
+
     {
       statement: "A file property declares one extension.",
       workingMemory:
