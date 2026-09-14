@@ -8,7 +8,21 @@ export const MEASURED_ALLOWED = 1800
 
 export type Watch = { readonly ended: () => void }
 
-let live: Worker | null = null
+const LIVE = Symbol.for("akasha/commands/modules/stopping/live")
+
+type Holder = { live: Worker | null }
+
+function isHolder(one: unknown): one is Holder {
+  return typeof one === "object" && one !== null && "live" in one
+}
+
+function holder(): Holder {
+  const found = Reflect.get(globalThis, LIVE)
+  if (isHolder(found)) return found
+  const made: Holder = { live: null }
+  Reflect.set(globalThis, LIVE, made)
+  return made
+}
 
 export function secondsIn(page: Record<string, unknown> | null): number | null {
   const said = page === null ? undefined : page[TIMEOUT]
@@ -36,23 +50,26 @@ function workerFor(seconds: number, named: string): Worker {
 }
 
 export function watching(seconds: number | null, named: string): Watch {
-  live = seconds === null ? null : workerFor(seconds, named)
+  const one = holder()
+  one.live = seconds === null ? null : workerFor(seconds, named)
   return {
     ended: () => {
-      if (live !== null) live.terminate()
-      live = null
+      if (one.live !== null) one.live.terminate()
+      one.live = null
     },
   }
 }
 
 export function allowedAgain(seconds: number, named: string): undefined {
-  if (live !== null) {
-    live.terminate()
-    live = workerFor(seconds, named)
+  const one = holder()
+  if (one.live !== null) {
+    one.live.terminate()
+    one.live = workerFor(seconds, named)
   }
 }
 
 export function allowedThrough(): undefined {
-  if (live !== null) live.terminate()
-  live = null
+  const one = holder()
+  if (one.live !== null) one.live.terminate()
+  one.live = null
 }
