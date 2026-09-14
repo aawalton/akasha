@@ -52,10 +52,6 @@ export const packageReaching = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller with only a root is answered once and held.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A rebuild is answered from the files its pages state.",
     },
     {

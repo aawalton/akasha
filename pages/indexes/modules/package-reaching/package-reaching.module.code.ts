@@ -5,19 +5,13 @@ import {
   reachesIn,
   reachingOver,
 } from "akasha/code/workspaces/modules/package-manifest/package-manifest.module.code.ts"
-import {
-  type FilePropertiesBy,
-  fileKeysAt,
-} from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
+import type { FilePropertiesBy } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import {
   pathsOf,
   under,
 } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
 import { carryingOf } from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
-import {
-  everyPath,
-  importersIn,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { importersIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import { readingOf } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
@@ -25,8 +19,6 @@ import type { Value } from "akasha/pages/modules/value-reading/page-value-readin
 const MANIFEST = "manifest"
 
 const SEPARATOR = "/"
-
-const HELD = new Map<string, Naming>()
 
 export type Body = (path: string) => string | null
 
@@ -65,7 +57,7 @@ export function reachingOf(at: Iterable<string>, bodyAt: Body): Naming {
   return reachingOver(held)
 }
 
-export function manifestsIn(
+function manifestsIn(
   paths: Iterable<string>,
   fileProperties: ReadonlyMap<string, string | null>
 ): readonly string[] {
@@ -99,18 +91,6 @@ export function reachingIn(
   bodyAt: Body
 ): Naming {
   return reachingOf(manifestsIn(paths, fileProperties), bodyAt)
-}
-
-export function reachingAt(given: string | Reading, bodyAt: Body): Naming {
-  return reachingIn(everyPath(given), fileKeysAt(given), bodyAt)
-}
-
-export function reachingFor(root: string): Naming {
-  const found = HELD.get(root)
-  if (found !== undefined) return found
-  const said = reachingAt(root, bodiesAt(root))
-  HELD.set(root, said)
-  return said
 }
 
 export type Page = {

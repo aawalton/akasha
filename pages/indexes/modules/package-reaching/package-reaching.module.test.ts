@@ -2,8 +2,6 @@ import { afterAll, expect, test } from "bun:test"
 import {
   bodiesAt,
   manifestsAmong,
-  reachingAt,
-  reachingFor,
   reachingIn,
   reachingOf,
   rereadOver,
@@ -99,25 +97,6 @@ test("a body is read from under the root it was asked for", () => {
   const root = worldAt()
   expect(bodiesAt(root)("akasha/one/package.json")).toBe(ONE)
   expect(bodiesAt(root)("akasha/gone/package.json")).toBe(null)
-})
-
-test("the manifests the index names are read as one naming", () => {
-  const root = worldAt()
-  const held = reachingAt(root, bodiesAt(root))
-  expect(held.get("@akasha/one")).toBe("akasha/one/one.module.code.ts")
-  expect(held.get("@akasha/two/deep")).toBe("akasha/two/deep/two.ts")
-})
-
-test("a caller holding only a root is answered the same thing twice", () => {
-  const root = worldAt()
-  const held = reachingFor(root)
-  expect(reachingFor(root)).toBe(held)
-  expect(held.get("@akasha/one")).toBe("akasha/one/one.module.code.ts")
-})
-
-test("an index that is not there refuses rather than reaching nothing", () => {
-  const root = scratch.rootFor(PREFIX)
-  expect(() => reachingAt(root, bodiesAt(root))).toThrow("is not there")
 })
 
 const READER = "akasha/two/reader.module.code.ts"
