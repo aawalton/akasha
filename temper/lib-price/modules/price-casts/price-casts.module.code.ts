@@ -2,7 +2,6 @@ import type {
   GlobalTable,
   ItemPriceRecord,
   LibPriceTable,
-  NormalizedPrice,
   OptionalNumber,
   RawPrice,
   SourceSet,
@@ -38,8 +37,4 @@ export function asSourceSet(value: SourceSet | string[]): SourceSet {
 
 export function asItemPriceRecord(value: unknown): ItemPriceRecord {
   return value as ItemPriceRecord
-}
-
-export function asNormalizedPrice(value: unknown): NormalizedPrice {
-  return value as NormalizedPrice
 }
