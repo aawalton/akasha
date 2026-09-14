@@ -60,7 +60,7 @@ const UNREAD = `'${ROWS_AT}' holds no JSON on line 1, so what the page carries t
 
 function rowed(): string {
   const root = wrote(rooting(UNDER), ROWING)
-  claiming(root, ROWS_AT, THING_AT, "id-one")
+  claiming(root, THING_AT, "id-one")
   return root
 }
 

@@ -37,8 +37,8 @@ function rooted(at: string): string {
   listedFiled(root, "command", "warbling-humming", [{ path: at, id: CMD }])
   pageFiled(root, CMD, at)
   pageFiled(root, NS, NS_AT)
-  claiming(root, at, at, CMD)
-  claiming(root, NS_AT, NS_AT, NS)
+  claiming(root, at, CMD)
+  claiming(root, NS_AT, NS)
   wrote(root, {
     [at]: `export const held = { id: ${JSON.stringify(CMD)}, type: "command", slug: "warbling-humming" }\n`,
   })

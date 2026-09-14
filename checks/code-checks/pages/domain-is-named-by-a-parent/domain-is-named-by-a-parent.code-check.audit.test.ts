@@ -31,7 +31,7 @@ function rooted(): string {
   founded(root)
   typed(root, "page-type", "page")
   typed(root, "domain", "page")
-  claiming(root, TYPE_AT, TYPE_AT, "id-domain")
+  claiming(root, TYPE_AT, "id-domain")
   declaring(root, "part-slugs", { pageTypeSlug: "relation-property", targetPageTypeSlug: "domain" })
   return root
 }
@@ -44,7 +44,7 @@ function bodyFor(kind: string, slug: string, id: string): string {
 function holding(root: string, kind: string, slug: string, id: string): string {
   const at = pathFor(kind, slug)
   filing(root, kind, slug, id)
-  claiming(root, at, at, id)
+  claiming(root, at, id)
   wrote(root, { [at]: bodyFor(kind, slug, id) })
   return at
 }

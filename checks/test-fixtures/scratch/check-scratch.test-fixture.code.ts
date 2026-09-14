@@ -8,7 +8,6 @@ import {
   valueAlsoFiled,
 } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import {
-  pathListed,
   relationFiled,
   shapeAdded,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
@@ -142,8 +141,7 @@ export function carrying(
   ])
 }
 
-export function claiming(root: string, path: string, page: string, id: string): undefined {
-  pathListed(root, path)
+export function claiming(root: string, page: string, id: string): undefined {
   const said = partedIn(page)
   if (said === null) return
   listedFiled(root, said.pageType, said.slug, [{ path: page, id }])

@@ -112,7 +112,7 @@ test("a page type the change takes away leaves the property it declared refused"
   const root = rooted()
   filing(root, "relation-property", "held", ONE)
   pageFiled(root, ONE, pathFor("relation-property", "held"))
-  claiming(root, pathFor("relation-property", "held"), pathFor("relation-property", "held"), ONE)
+  claiming(root, pathFor("relation-property", "held"), ONE)
   filing(root, "page-type", "over", TWO)
   pageFiled(root, TWO, pathFor("page-type", "over"))
   edging(root, ONE, "page-property", TWO, pathFor("page-type", "over"))
@@ -236,7 +236,7 @@ test("a property giving up its identity is passed over rather than thrown on", (
   const root = rooted()
   filing(root, "relation-property", "held", ONE)
   pageFiled(root, ONE, pathFor("relation-property", "held"))
-  claiming(root, pathFor("relation-property", "held"), pathFor("relation-property", "held"), ONE)
+  claiming(root, pathFor("relation-property", "held"), ONE)
   const at = pathFor("relation-property", "held")
   const bare = new TextEncoder().encode('export const held = { slug: "held" }\n')
   const said = judged(
@@ -249,7 +249,7 @@ test("a property whose body will not load is passed over rather than thrown on",
   const root = rooted()
   filing(root, "relation-property", "held", ONE)
   pageFiled(root, ONE, pathFor("relation-property", "held"))
-  claiming(root, pathFor("relation-property", "held"), pathFor("relation-property", "held"), ONE)
+  claiming(root, pathFor("relation-property", "held"), ONE)
   const at = pathFor("relation-property", "held")
   const broken = new TextEncoder().encode("export const held = { this is not a body\n")
   const said = judged(

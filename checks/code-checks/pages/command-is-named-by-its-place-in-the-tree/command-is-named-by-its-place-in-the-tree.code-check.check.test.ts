@@ -40,7 +40,7 @@ function rooted(at: string): string {
   listedFiled(root, "command", "warbling-humming", [{ path: at, id: CMD }])
   pageFiled(root, CMD, at)
   pageFiled(root, NS, NS_AT)
-  claiming(root, NS_AT, NS_AT, NS)
+  claiming(root, NS_AT, NS)
   edging(root, CMD, "parts", NS, NS_AT)
   return root
 }
@@ -86,7 +86,7 @@ function bare(): string {
   typed(root, "namespace", "domain")
   declaring(root, "parts", { pageTypeSlug: "relation-property", targetPageTypeSlug: "domain" })
   pageFiled(root, NS, NS_AT)
-  claiming(root, NS_AT, NS_AT, NS)
+  claiming(root, NS_AT, NS)
   listedFiled(root, "namespace", "warbling", [{ path: NS_AT, id: NS }])
   return root
 }

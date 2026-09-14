@@ -74,7 +74,7 @@ export function rooted(): string {
   declaring(root, "id", { pageTypeSlug: "text-property", unique: "page" })
   declaring(root, "slug", { pageTypeSlug: "text-property", unique: "within-page-type" })
   declaring(root, "code", { pageTypeSlug: "file-property", unique: null })
-  claiming(root, "akasha/t/held.module.ts", "akasha/t/held.module.ts", `${ID}9`)
+  claiming(root, "akasha/t/held.module.ts", `${ID}9`)
   return root
 }
 
@@ -125,7 +125,7 @@ export function bothArriving(root: string): Change {
 
 export function oneArriving(root: string): Change {
   writing(root, TWO_CODE, EXPORTED_AS)
-  claiming(root, TWO_CODE, TWO_PAGE, `${ID}2`)
+  claiming(root, TWO_PAGE, `${ID}2`)
   return arriving(root, { [ONE_PAGE]: pageText("one", "1"), [ONE_CODE]: CAMEL })
 }
 
@@ -146,7 +146,7 @@ export function tracked(files: Readonly<Record<string, string>>): string {
   let held = 0
   for (const [path, body] of Object.entries(files)) {
     writing(root, path, body)
-    claiming(root, path, path, `${ID}${held}`)
+    claiming(root, path, `${ID}${held}`)
     held += 1
   }
   const done = ran(["git", "-C", root, "init", "-q"])

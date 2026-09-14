@@ -66,7 +66,7 @@ test("the check lets through a row whose relation reaches a page", () => {
 
 test("the check takes an entry row's file as its input", () => {
   const root = rooted()
-  claiming(root, ROWS_AT, A, A_ID)
+  claiming(root, A, A_ID)
   const cast = shadowFor(over(root, [ROWS_AT], { [ROWS_AT]: row("domain/d") }))
   if ("refused" in cast) throw new Error(cast.refused)
 

@@ -52,7 +52,7 @@ function holding(
   filing(root, HELD, slug, ONE)
   put(root, at, bytesOf(`export const one = ${JSON.stringify(value)}\n`))
   if (!filed) return at
-  claiming(root, at, at, ONE)
+  claiming(root, at, ONE)
   valueAlsoFiled(root, HELD, [{ path: at, value }])
   return at
 }

@@ -44,7 +44,7 @@ export function rooted(): string {
   declaring(root, "id", { pageTypeSlug: "text-property", unique: "page" })
   declaring(root, "slug", { pageTypeSlug: "text-property", unique: "within-page-type" })
   declaring(root, "code", { pageTypeSlug: "file-property", unique: null })
-  claiming(root, "akasha/t/held.module.ts", "akasha/t/held.module.ts", `${ID}9`)
+  claiming(root, "akasha/t/held.module.ts", `${ID}9`)
   return root
 }
 
@@ -79,7 +79,7 @@ export function tracked(files: Readonly<Record<string, string>>): string {
   let held = 5
   for (const [path, body] of Object.entries(files)) {
     writing(root, path, body)
-    claiming(root, path, path, `${ID}${held}`)
+    claiming(root, path, `${ID}${held}`)
     held += 1
   }
   const done = ran(["git", "-C", root, "init", "-q"])

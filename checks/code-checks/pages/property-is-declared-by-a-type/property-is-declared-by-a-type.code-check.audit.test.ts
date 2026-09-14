@@ -25,7 +25,7 @@ const HELD_AT = pathFor("relation-property", "held")
 function held(root: string): string {
   filing(root, "relation-property", "held", ONE)
   put(root, HELD_AT, body("relation-property", "held", ONE))
-  claiming(root, HELD_AT, HELD_AT, ONE)
+  claiming(root, HELD_AT, ONE)
   return tracked(root)
 }
 

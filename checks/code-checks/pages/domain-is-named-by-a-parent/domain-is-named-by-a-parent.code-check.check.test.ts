@@ -40,7 +40,7 @@ function rooted(): string {
   founded(root)
   typed(root, "page-type", "page")
   typed(root, "domain", "page")
-  claiming(root, TYPE_AT, TYPE_AT, "id-domain")
+  claiming(root, TYPE_AT, "id-domain")
   declaring(root, "part-slugs", { pageTypeSlug: "relation-property", targetPageTypeSlug: "domain" })
   return root
 }
@@ -310,7 +310,7 @@ test("a page giving up its identity is passed over rather than thrown on", () =>
   const root = rooted()
   filing(root, "domain", "held", ONE)
   pageFiled(root, ONE, pathFor("domain", "held"))
-  claiming(root, pathFor("domain", "held"), pathFor("domain", "held"), ONE)
+  claiming(root, pathFor("domain", "held"), ONE)
   const at = pathFor("domain", "held")
   const bare = new TextEncoder().encode('export const held = { slug: "held" }\n')
   const said = judged(
@@ -323,7 +323,7 @@ test("a page whose body will not load is passed over rather than thrown on", () 
   const root = rooted()
   filing(root, "domain", "held", ONE)
   pageFiled(root, ONE, pathFor("domain", "held"))
-  claiming(root, pathFor("domain", "held"), pathFor("domain", "held"), ONE)
+  claiming(root, pathFor("domain", "held"), ONE)
   const at = pathFor("domain", "held")
   const broken = new TextEncoder().encode("export const held = { this is not a body\n")
   const said = judged(

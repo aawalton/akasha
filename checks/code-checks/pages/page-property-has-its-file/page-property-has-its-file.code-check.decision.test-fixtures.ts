@@ -46,7 +46,7 @@ export function rooted(
 }
 
 export function landed(root: string): undefined {
-  for (const one of [PAGE, CODE]) claiming(root, one, PAGE, ID)
+  claiming(root, PAGE, ID)
 }
 
 export function bodyText(

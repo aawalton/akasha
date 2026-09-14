@@ -52,7 +52,7 @@ export function rooted(): string {
   const root = scratch.rootFor("akasha-declared-")
   founded(root)
   typed(root, "domain", "page")
-  claiming(root, TYPE_AT, TYPE_AT, "id-domain")
+  claiming(root, TYPE_AT, "id-domain")
   typed(root, "page-property", "domain")
   typed(root, "relation-property", "page-property")
   typed(root, "record-property", "page-property")

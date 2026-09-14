@@ -36,7 +36,7 @@ function rooted(): string {
   founded(root)
   typed(root, "page-type", "page")
   typed(root, "domain", "page")
-  claiming(root, TYPE_AT, TYPE_AT, "id-domain")
+  claiming(root, TYPE_AT, "id-domain")
   declaring(root, "part-slugs", { pageTypeSlug: "relation-property", targetPageTypeSlug: "domain" })
   return root
 }

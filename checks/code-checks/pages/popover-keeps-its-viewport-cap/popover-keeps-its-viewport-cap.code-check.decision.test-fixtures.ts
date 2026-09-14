@@ -22,7 +22,7 @@ export function rooted(files: Readonly<Record<string, string>>): string {
     const at = join(root, path)
     mkdirSync(dirname(at), { recursive: true })
     writeFileSync(at, said)
-    claiming(root, path, path, ID)
+    claiming(root, path, ID)
   }
   return root
 }

@@ -168,7 +168,7 @@ test("a page standing outside the change collides on a property the change makes
   mkdirSync(join(root, "akasha"), { recursive: true })
   const outside = pathFor("check", "outside")
   put(root, outside, naming("outside", TWO))
-  claiming(root, outside, outside, TWO)
+  claiming(root, outside, TWO)
   valueAlsoFiled(root, "check", [
     { path: outside, value: { id: TWO, pageTypeSlug: "check", slug: "outside", name: "shared" } },
   ])
