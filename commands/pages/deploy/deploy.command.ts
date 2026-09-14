@@ -265,7 +265,35 @@ export const deploy = {
     },
     {
       invariantKind: "departure",
-      statement: "A deploy waits for the memory a landing starts on before it puts anything up.",
+      statement:
+        "A deploy that puts up from the workstation waits for the memory a landing starts on first.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A deploy of a cluster service, a container recipe or a web app runs in the cluster.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A deploy of every other kind runs on the workstation.",
+    },
+    { invariantKind: "departure", statement: "A dry run of any kind runs on the workstation." },
+    {
+      invariantKind: "departure",
+      statement:
+        "A deploy that is itself the run in the cluster puts up there rather than sending another run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run in the cluster is known by what the pod states in its environment.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What the run in the cluster said is what a deploy sent there reports.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A deploy sent to the cluster is held apart from a second deploy of that thing.",
     },
   ],
   name: "deploy",

@@ -65,6 +65,11 @@ import {
 import { installedOnSimulator } from "akasha/commands/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.code.ts"
 import { pinnedTree } from "akasha/commands/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
 import { putUpWebApp } from "akasha/commands/pages/deploy/modules/web-putting-up/deploy-web-putting-up.module.code.ts"
+import { IN_CLUSTER } from "akasha/infrastructure/job/modules/deploy-job/deploy-job.module.code.ts"
+import {
+  type Ended,
+  ranInCluster,
+} from "akasha/infrastructure/job/modules/deploy-job-running/deploy-job-running.module.code.ts"
 import {
   appliedWorkload,
   servableNamed,
@@ -107,6 +112,8 @@ const PINNED: ReadonlySet<string> = new Set([
   WEB_APP,
   ESO_ADDON,
 ])
+
+const RUN_IN_CLUSTER: ReadonlySet<string> = new Set([CLUSTER_SERVICE, CONTAINER_RECIPE, WEB_APP])
 
 export type Wanted = {
   readonly dryRun: boolean
@@ -190,12 +197,36 @@ export type PuttingUp = (
 
 export type Waiting = (kind: string) => Promise<undefined>
 
+export type Dispatching = (root: string, subject: string, commit: string) => Ended | Promise<Ended>
+
+const deployedInCluster: Dispatching = (root, subject, commit) =>
+  ranInCluster(root, root, subject, commit)
+
+function sentToCluster(kind: string, wanted: Wanted): boolean {
+  if (wanted.dryRun || !RUN_IN_CLUSTER.has(kind)) return false
+  return (process.env[IN_CLUSTER] ?? "") === ""
+}
+
+async function deployInCluster(
+  slug: string,
+  wanted: Wanted,
+  given: Given,
+  dispatching: Dispatching
+): Promise<Answer> {
+  const commit = commitAt(given.root, wanted.ref)
+  if (commit === null) return refused(saidOfNoCommit(wanted.ref ?? AT_HEAD), INPUT)
+  const ended = await dispatching(given.root, slug, commit)
+  if ("why" in ended) return refused(ended.why, OPERATIONAL)
+  return told(ended.said)
+}
+
 export async function deploy(
   argv: readonly string[],
   given: Given,
   putting: PuttingUp = putUp,
   waiting: Waiting = waitedForRoom,
-  recording?: Fetcher
+  recording?: Fetcher,
+  dispatching: Dispatching = deployedInCluster
 ): Promise<Answer> {
   const taken = takenFor(argv, given.calledAs, page, TAKES)
   if ("refused" in taken) return refusedBy(taken.refused, INPUT)
@@ -217,6 +248,12 @@ export async function deploy(
   if (unfit !== null) return refused(unfit, INPUT)
   if (read.kind === IOS_APP && wanted.device) return await installedOnDevice(slug)
   if (read.kind === IOS_APP && wanted.simulator) return await installedOnSimulator(slug, given)
+  if (sentToCluster(read.kind, wanted)) {
+    const away = await heldWhile(given.root, slug, () =>
+      deployInCluster(slug, wanted, given, dispatching)
+    )
+    return "refused" in away ? refused(away.refused, OPERATIONAL) : away.value
+  }
   await waiting(PUT_UP)
   const alone = await heldWhile(given.root, slug, () =>
     deployHeld(read, slug, wanted, given, putting, recording)

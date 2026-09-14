@@ -1,4 +1,4 @@
-import { afterAll, expect, test } from "bun:test"
+import { afterAll, beforeAll, expect, test } from "bun:test"
 import {
   DATA,
   OK,
@@ -6,6 +6,7 @@ import {
   partWay,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type {
+  Dispatching,
   PuttingUp,
   Waiting,
   Wanted,
@@ -18,6 +19,7 @@ import {
 import { committed, given } from "akasha/commands/pages/deploy/deploy.command.test-fixtures.ts"
 import { commitAt } from "akasha/commands/pages/deploy/modules/commit-naming/deploy-commit-naming.module.code.ts"
 import { DEPLOYED_COMMIT } from "akasha/commands/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
+import { IN_CLUSTER } from "akasha/infrastructure/job/modules/deploy-job/deploy-job.module.code.ts"
 import {
   seededWorld,
   WEB_APPS_AT,
@@ -27,9 +29,25 @@ import type { Fetcher } from "akasha/pages/service/modules/page-calling/page-cal
 
 const WORLD = seededWorld()
 
+const SET = "1"
+
+beforeAll(() => {
+  process.env[IN_CLUSTER] = SET
+})
+
 afterAll(() => {
+  delete process.env[IN_CLUSTER]
   WORLD.sweep()
 })
+
+async function offTheCluster<T>(act: () => Promise<T>): Promise<T> {
+  delete process.env[IN_CLUSTER]
+  try {
+    return await act()
+  } finally {
+    process.env[IN_CLUSTER] = SET
+  }
+}
 
 const HERE = given(committed(WORLD.root))
 
@@ -38,8 +56,12 @@ const NO_WAIT: Waiting = async () => await Promise.resolve(undefined)
 const KEPT: Fetcher = () =>
   Promise.resolve(new Response(JSON.stringify({ commit: null, wrote: [], took: [] })))
 
+const NO_JOB: Dispatching = () => {
+  throw new Error("a job went up in the cluster")
+}
+
 const deploy = async (...said: Parameters<typeof deploying>) =>
-  await deploying(said[0], said[1], said[2], NO_WAIT, KEPT)
+  await deploying(said[0], said[1], said[2], NO_WAIT, KEPT, said[5] ?? NO_JOB)
 
 function pastTheChecks(): { readonly root: string; readonly commit: string } {
   const world = seededWorld()
@@ -261,4 +283,55 @@ test("what a deploy put up is said in the sentence every refusal says it in", ()
 test("a deploy that put nothing up says so, which that sentence does not", () => {
   expect(partWay([])).toEqual([])
   expect(stoppedPartWay([])).toContain("nothing it puts up had reached a machine")
+})
+
+const NOWHERE_HERE: PuttingUp = () => {
+  throw new Error("the deploy ran on the workstation")
+}
+
+test("a web app is sent to the cluster rather than put up on the workstation", async () => {
+  const seen: string[] = []
+  const dispatching: Dispatching = (root, subject, commit) => {
+    seen.push(`${root}\t${subject}\t${commit}`)
+    return { said: ["commit\tabc", "up\tone-web"] }
+  }
+  const answer = await offTheCluster(
+    async () => await deploy(["one-web"], HERE, NOWHERE_HERE, NO_WAIT, KEPT, dispatching)
+  )
+  expect(answer.code).toBe(OK)
+  expect(answer.report).toEqual(["commit\tabc", "up\tone-web"])
+  expect(seen[0]).toContain("one-web")
+})
+
+test("what the run in the cluster would not do refuses the deploy", async () => {
+  const dispatching: Dispatching = () => ({ why: "the job deploy-one-web-0123 failed" })
+  const answer = await offTheCluster(
+    async () => await deploy(["one-web"], HERE, NOWHERE_HERE, NO_WAIT, KEPT, dispatching)
+  )
+  expect(answer.code).toBe(OPERATIONAL)
+  expect(answer.refusals[0]).toContain("deploy-one-web-0123 failed")
+})
+
+test("a dry run is put up from the workstation rather than sent to the cluster", async () => {
+  const world = pastTheChecks()
+  const seen: Wanted[] = []
+  const putting: PuttingUp = async (_read, _slug, _commit, wanted) => {
+    seen.push(wanted)
+    return await Promise.resolve({ report: [], refusals: [], code: OK })
+  }
+  const answer = await offTheCluster(
+    async () =>
+      await deploy(["one-web", "--dry-run"], given(world.root), putting, NO_WAIT, KEPT, NO_JOB)
+  )
+  expect(answer.code).toBe(OK)
+  expect(seen[0]?.dryRun).toBe(true)
+})
+
+test("a deploy that is the run in the cluster puts up there rather than sending a second job", async () => {
+  const world = pastTheChecks()
+  const putting: PuttingUp = async () =>
+    await Promise.resolve({ report: ["up\tone-web"], refusals: [], code: OK })
+  const answer = await deploy(["one-web"], given(world.root), putting, NO_WAIT, KEPT, NO_JOB)
+  expect(answer.code).toBe(OK)
+  expect(answer.report).toContain("up\tone-web")
 })
