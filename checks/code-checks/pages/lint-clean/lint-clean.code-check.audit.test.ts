@@ -12,6 +12,7 @@ import {
 } from "akasha/checks/code-checks/pages/lint-clean/lint-clean.code-check.decision.test-fixtures.ts"
 import { tracked } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { pagesAtFor } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
 
 afterAll(scratch.sweep)
@@ -52,4 +53,18 @@ test("which folders those are is read from the page types rather than named here
 
   expect(found).toContain(pagesAtFor(root, "subagent"))
   expect(found).not.toContain(pagesAtFor(root, "module"))
+})
+
+test("each folder named is the folder that page type's own pages sit in", () => {
+  const root = rootOf(import.meta.dir)
+  const mortal = valuesOfType(root, "page-type")
+    .map((one) => one.value as Record<string, unknown>)
+    .filter((held) => held.mortal === true)
+
+  const found = mortalling(root)
+
+  expect(mortal.length).toBeGreaterThan(0)
+  for (const held of mortal) {
+    expect(found).toContain(pagesAtFor(root, String(held.slug)))
+  }
 })
