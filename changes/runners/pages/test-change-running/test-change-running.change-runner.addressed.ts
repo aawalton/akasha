@@ -8,6 +8,9 @@ export type Changes = {
   "change-agent/add-file-property-extensions": Parameters<
     typeof import("akasha/changes/agent/page-type/add-file-property-extensions/add-file-property-extensions.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/add-page-property": Parameters<
+    typeof import("akasha/changes/agent/page-property/add-page-property/add-page-property.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/add-page-property-types": Parameters<
     typeof import("akasha/changes/agent/page-type/add-page-property-types/add-page-property-types.change-agent.code.ts")["runChange"]
   >[1]
