@@ -18,10 +18,6 @@ export const mountainDay = {
     },
     {
       invariantKind: "departure",
-      statement: "A day ends at the next midnight on the wall rather than a fixed span later.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A day steps back on the wall clock rather than by a whole day of elapsed time.",
     },
   ],

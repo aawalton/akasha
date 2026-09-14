@@ -1,19 +1,6 @@
 import { dayStrOf } from "akasha/alan/harness/day-boundary/modules/day-string/day-string.module.code.ts"
 import { denverOffsetMs } from "akasha/alan/harness/day-boundary/modules/us-zone-offset/us-zone-offset.module.code.ts"
 
-export function getDenverDayEnd(now: Date): Date {
-  const nowMs = now.getTime()
-  const offset = denverOffsetMs(nowMs)
-  const shifted = new Date(nowMs + offset)
-  const year = shifted.getUTCFullYear()
-  const month = shifted.getUTCMonth()
-  const day = shifted.getUTCDate()
-  const nextMidnightWallMs = Date.UTC(year, month, day + 1, 0, 0, 0, 0)
-  const estimatedMs = nextMidnightWallMs - offset
-  const realOffset = denverOffsetMs(estimatedMs)
-  return new Date(realOffset === offset ? estimatedMs : nextMidnightWallMs - realOffset)
-}
-
 export function getMountainMorningDayStr(now: Date): string {
   const nowMs = now.getTime()
   const shifted = new Date(nowMs + denverOffsetMs(nowMs))

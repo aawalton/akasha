@@ -1,6 +1,5 @@
 import { describe, expect, test } from "bun:test"
 import {
-  getDenverDayEnd,
   getMountainEveningDayStr,
   getMountainMorningDayStr,
 } from "akasha/alan/harness/day-boundary/modules/mountain-day/mountain-day.module.code.ts"
@@ -40,21 +39,5 @@ describe("where the mountain evening day turns", () => {
   test("the turn is 18:00 Mountain, so 17:59 is still the day that is running", () => {
     expect(getMountainEveningDayStr(new Date("2026-01-16T00:59:00Z"))).toBe("2026-01-15")
     expect(getMountainEveningDayStr(new Date("2026-01-16T01:00:00Z"))).toBe("2026-01-16")
-  })
-})
-
-describe("where a Denver day ends", () => {
-  test("a day ends at the next midnight on the wall", () => {
-    const winter = getDenverDayEnd(new Date("2026-01-15T13:00:00Z"))
-    expect(winter.toISOString()).toBe("2026-01-16T07:00:00.000Z")
-    const summer = getDenverDayEnd(new Date("2026-07-04T12:00:00Z"))
-    expect(summer.toISOString()).toBe("2026-07-05T06:00:00.000Z")
-  })
-
-  test("the spring day is an hour short and the fall day an hour long", () => {
-    const spring = getDenverDayEnd(new Date("2026-03-08T18:00:00Z"))
-    expect(spring.toISOString()).toBe("2026-03-09T06:00:00.000Z")
-    const fall = getDenverDayEnd(new Date("2026-11-01T18:00:00Z"))
-    expect(fall.toISOString()).toBe("2026-11-02T07:00:00.000Z")
   })
 })
