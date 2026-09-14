@@ -1,7 +1,4 @@
-import {
-  asPresent,
-  asString,
-} from "akasha/temper/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
+import { asPresent } from "akasha/temper/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   asLibSetsSearchUIDescriptorExt,
   asSearchUIComboBox,
@@ -14,7 +11,6 @@ export const MAJOR = lib.name
 
 const zif = zo_iconFormat
 const zoitfns = zo_iconTextFormatNoSpace
-const sgmatch = string.gmatch
 
 const getLocalizedText = lib.GetLocalizedText
 
@@ -195,15 +191,6 @@ export function getComboBoxFromDropdownControl(
 ): SearchUIComboBox {
   const comboBox = asSearchUIComboBoxOpt(dropdownControl.m_comboBox)
   return comboBox ?? asSearchUIComboBox(dropdownControl)
-}
-
-export function stringSplit(this: void, inputstr: string, sep?: string): string[] {
-  const seperator = sep ?? "%s"
-  const t: string[] = []
-  for (const [str] of sgmatch(inputstr, `([^${seperator}]+)`)) {
-    t.push(asString(str))
-  }
-  return t
 }
 
 export function isItemFilterTypeMatching(

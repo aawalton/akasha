@@ -100,13 +100,6 @@ function getIndexTableFromNonNumberKeyTable(
 }
 lib.GetIndexTableFromNonNumberKeyTable = getIndexTableFromNonNumberKeyTable
 
-export function checkIsNotZero(this: void, value: number | undefined): number | undefined {
-  if (undefined === value || 0 === value) {
-    return undefined
-  }
-  return value
-}
-
 function getTabIndexData(
   this: void,
   index: number | undefined,
