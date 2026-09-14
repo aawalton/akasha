@@ -10,7 +10,6 @@ import {
   BROKEN,
   besides,
   bytes,
-  CARRIED,
   carriedRepo,
   committedAgain,
   edged,
@@ -232,8 +231,7 @@ test("a change read against a commit that moved a path it carries is refused unw
 })
 
 test("a change read against the commit at HEAD is landed", async () => {
-  const root = pagesRepo()
-  await landing(root, rowsIn(root, CARRIED), "held", ADMITS)
+  const root = await carriedRepo()
   const said = await landedAtHead(root)
   expect("refusals" in said).toBe(false)
   expect(readFileSync(join(root, "akasha/b.txt"), "utf8")).toBe("new")
