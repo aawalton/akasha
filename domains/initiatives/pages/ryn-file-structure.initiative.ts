@@ -9,6 +9,8 @@ export const rynFileStructure = {
   intentStack: [
     {
       statement: "No page states a plural slug.",
+      workingMemory:
+        "516 pages state one. The folder-shape check names a folder from `names[1] ?? names[0]`, so removing the plural is itself the folder rename and the two land in one commit. 482 folders go singular as a direct consequence. Seven domains slugged pages-access, pages-core, pages-query, pages-service, pages-ui, pages-ui-store and pages-url took their prefix from the plural; renaming them to page-* leaves their folders unchanged. URL resolution already falls back from plural to slug.",
     },
     {
       statement: "A folder is named in the singular.",
