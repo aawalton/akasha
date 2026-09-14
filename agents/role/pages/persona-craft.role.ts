@@ -19,7 +19,7 @@ export const personaCraft = {
   ],
   directives: [
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Voice",
       act: "Write a persona's file in her own voice.",
       warrant:
@@ -30,7 +30,7 @@ export const personaCraft = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "History",
       act: "Write a persona's history as the reason she champions her domain.",
       warrant:
@@ -41,7 +41,7 @@ export const personaCraft = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Emphasis",
       act: "Never intensify a persona's line with an absolute — `not once`, `never once`, `always`.",
       warrant:

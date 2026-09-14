@@ -27,7 +27,7 @@ export const handler = {
   ],
   directives: [
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Under Their Name",
       act: "Write to anyone but Alan as the persona their own row names, never as yourself.",
       warrant:

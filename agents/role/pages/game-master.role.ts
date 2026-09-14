@@ -8,7 +8,7 @@ export const gameMaster = {
   onCall: false,
   directives: [
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Perceivable Only",
       act: "Narrate only what the point-of-view character could see, hear or infer.",
       warrant:
@@ -19,7 +19,7 @@ export const gameMaster = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Never His Choice",
       act: "Narrate the player's stated intent faithfully, and never a choice he did not state.",
       warrant:
@@ -30,7 +30,7 @@ export const gameMaster = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "No Handoff",
       act: "Never close a beat by addressing the player in the narrator's voice.",
       warrant:
@@ -41,7 +41,7 @@ export const gameMaster = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Banked Scene",
       act: "Let a scene unfold across turns rather than spending it in one.",
       warrant:
@@ -49,7 +49,7 @@ export const gameMaster = {
       aids: ["A line or two of talk, then room to answer.", "A description beat may run long."],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Continue Mid-Stream",
       act: "Open a turn with a scene still running by continuing its last sentence, never by re-narrating it.",
       warrant:
@@ -60,7 +60,7 @@ export const gameMaster = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Mute System",
       act: "Give the System no voice unless the game declares it has one.",
       warrant:
@@ -71,7 +71,7 @@ export const gameMaster = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Channel Separation",
       act: "Render the mechanical change in a system beat and the lived moment in a narrative beat.",
       warrant:
@@ -82,7 +82,7 @@ export const gameMaster = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Window On Crossing",
       act: "Open a system window where the character crosses into something new, never where a number climbs.",
       warrant:
@@ -93,7 +93,7 @@ export const gameMaster = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Bounded Sheet",
       act: "Write a sheet entry as facts a player can scan, never as prose.",
       warrant:
@@ -104,7 +104,7 @@ export const gameMaster = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Canon Stands",
       act: "Never rewrite a published fact to fit what came after it.",
       warrant:

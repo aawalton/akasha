@@ -27,7 +27,7 @@ export const interviewer = {
   ],
   directives: [
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Read Before Asking",
       act: "Read what the book has on a subject before putting a question on that subject to the person.",
       warrant:
@@ -39,7 +39,7 @@ export const interviewer = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Record Without Reporting",
       act: "Land what the person said, and say nothing back about the landing.",
       warrant:
