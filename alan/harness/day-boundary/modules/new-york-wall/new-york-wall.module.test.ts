@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { nyWallToInstant } from "akasha/alan/harness/day/modules/new-york-wall/new-york-wall.module.code.ts"
+import { nyWallToInstant } from "akasha/alan/harness/day-boundary/modules/new-york-wall/new-york-wall.module.code.ts"
 
 describe("turning an Eastern wall time into an instant", () => {
   test("an ordinary day resolves at the offset that day is at", () => {

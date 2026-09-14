@@ -3,7 +3,7 @@ import {
   INBOX_LABEL,
   listMessages,
 } from "akasha/alan/google/email/modules/gmail-messages/gmail-messages.module.code.ts"
-import { dayAfter } from "akasha/alan/harness/day/modules/string/day-string.module.code.ts"
+import { dayAfter } from "akasha/alan/harness/day-boundary/modules/day-string/day-string.module.code.ts"
 import type { InboxKey } from "akasha/alan/harness/inboxes/modules/keys/inbox-keys.module.code.ts"
 import {
   AKASHA,

@@ -3,7 +3,7 @@ import {
   getDenverDayEnd,
   getMountainEveningDayStr,
   getMountainMorningDayStr,
-} from "akasha/alan/harness/day/modules/mountain-day/mountain-day.module.code.ts"
+} from "akasha/alan/harness/day-boundary/modules/mountain-day/mountain-day.module.code.ts"
 
 describe("where the mountain morning day turns", () => {
   test("the turn is 06:00 Mountain, so 05:59 still belongs to the day before", () => {

@@ -1,11 +1,11 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { getEsoDayStr } from "akasha/alan/harness/day/modules/eso-day/eso-day.module.code.ts"
+import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
 import {
   mountainWallAt,
   namesNoDay,
   readMountainWallTime,
-} from "akasha/alan/harness/day/modules/mountain-wall/mountain-wall.module.code.ts"
+} from "akasha/alan/harness/day-boundary/modules/mountain-wall/mountain-wall.module.code.ts"
 import { at } from "akasha/commands/arguments/pages/at.argument.ts"
 import { id } from "akasha/commands/arguments/pages/id.argument.ts"
 import { last } from "akasha/commands/arguments/pages/last.argument.ts"

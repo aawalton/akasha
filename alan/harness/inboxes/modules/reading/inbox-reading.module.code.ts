@@ -1,4 +1,4 @@
-import { getEsoDayStr } from "akasha/alan/harness/day/modules/eso-day/eso-day.module.code.ts"
+import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
 import { keepReading } from "akasha/alan/harness/readouts/modules/reading/readout-reading.module.code.ts"
 import { statedAt } from "akasha/alan/harness/readouts/modules/tier/readout-tier.module.code.ts"
 import {

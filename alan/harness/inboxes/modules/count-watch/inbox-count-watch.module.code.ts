@@ -1,5 +1,5 @@
 import { join } from "node:path"
-import { getEsoDayStr } from "akasha/alan/harness/day/modules/eso-day/eso-day.module.code.ts"
+import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
 import {
   pollTaskCounts,
   type TaskCounts,

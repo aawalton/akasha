@@ -1,7 +1,7 @@
 import { type Dirent, readdirSync, readFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { join } from "node:path"
-import { getEsoDayStrAt } from "akasha/alan/harness/day/modules/eso-day/eso-day.module.code.ts"
+import { getEsoDayStrAt } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
 import {
   type Counted,
   dayPageAt,

@@ -1,7 +1,7 @@
 import {
   getEsoDayStr,
   getEsoDayWindow,
-} from "akasha/alan/harness/day/modules/eso-day/eso-day.module.code.ts"
+} from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
 import {
   type DayWindow,
   dayAfter,

@@ -1,4 +1,4 @@
-import { getEsoDayStr } from "akasha/alan/harness/day/modules/eso-day/eso-day.module.code.ts"
+import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
 import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import { instantToMillis } from "akasha/pages/core/property-types/modules/instant/instant.module.code.ts"
 import type { PropertyValue } from "akasha/pages/core/property-types/modules/property-type-ops/property-type-ops.module.code.ts"

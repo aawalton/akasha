@@ -3,8 +3,8 @@ import { join } from "node:path"
 import {
   getEsoDayStr,
   getEsoDayWindow,
-} from "akasha/alan/harness/day/modules/eso-day/eso-day.module.code.ts"
-import { instantsForMountainWall } from "akasha/alan/harness/day/modules/mountain-wall/mountain-wall.module.code.ts"
+} from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
+import { instantsForMountainWall } from "akasha/alan/harness/day-boundary/modules/mountain-wall/mountain-wall.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { entriesIn } from "akasha/pages/modules/entries/page-entries.module.code.ts"

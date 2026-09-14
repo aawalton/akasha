@@ -209,14 +209,6 @@ export const day = {
       invariantKind: "departure",
       statement: "A day's strength volume is worked out from the sets naming that day.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A boundary is stored nowhere.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The day is derived in one place.",
-    },
   ],
   types: "ts",
 } as const satisfies PageType

@@ -1,7 +1,7 @@
 import {
   diffEsoDays,
   getEsoDayStr,
-} from "akasha/alan/harness/day/modules/eso-day/eso-day.module.code.ts"
+} from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
 
 const DATE_REGEX = /^\d{4}-\d{2}-\d{2}$/
 

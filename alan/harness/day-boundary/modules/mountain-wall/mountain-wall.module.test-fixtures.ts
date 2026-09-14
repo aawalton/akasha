@@ -1,4 +1,4 @@
-import { readMountainWallTime } from "akasha/alan/harness/day/modules/mountain-wall/mountain-wall.module.code.ts"
+import { readMountainWallTime } from "akasha/alan/harness/day-boundary/modules/mountain-wall/mountain-wall.module.code.ts"
 
 export const MS_PER_HOUR = 3_600_000
 const HALF_HOUR_MS = 1_800_000

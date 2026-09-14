@@ -3,7 +3,7 @@ import {
   getEsoDayStr,
   getEsoDayWindow,
   getEsoResetTime,
-} from "akasha/alan/harness/day/modules/eso-day/eso-day.module.code.ts"
+} from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
 
 describe("where the eso day turns", () => {
   test("the reset is 06:00 Eastern, so 05:59 still belongs to the day before", () => {

@@ -1,9 +1,9 @@
-import { getMountainEveningDayStr } from "akasha/alan/harness/day/modules/mountain-day/mountain-day.module.code.ts"
 import {
   dayStrOf,
   MS_PER_DAY,
   parseDay,
-} from "akasha/alan/harness/day/modules/string/day-string.module.code.ts"
+} from "akasha/alan/harness/day-boundary/modules/day-string/day-string.module.code.ts"
+import { getMountainEveningDayStr } from "akasha/alan/harness/day-boundary/modules/mountain-day/mountain-day.module.code.ts"
 
 const SLEEP = "sleep"
 
