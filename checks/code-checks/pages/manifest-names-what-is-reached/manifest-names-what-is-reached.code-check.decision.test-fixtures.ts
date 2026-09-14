@@ -17,7 +17,7 @@ import { listingFiled } from "akasha/pages/indexes/modules/reading/index-reading
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
-const PACKAGE = "workspace-package"
+const WORKSPACE = "workspace"
 
 export const FOLDER = "akasha/one-system"
 
@@ -25,7 +25,7 @@ export const AT = `${FOLDER}/one/one.module.code.ts`
 
 export const MANIFEST_AT = `${FOLDER}/package.json`
 
-const PAGE_AT = `${FOLDER}/one-system.workspace-package.ts`
+const PAGE_AT = `${FOLDER}/one-system.workspace.ts`
 
 export const STYLE_AT = `${FOLDER}/one/one.stylesheet.styles.css`
 
@@ -68,11 +68,11 @@ export function manifest(value: Readonly<Record<string, unknown>>): string {
 export function rooted(prefix: string = "akasha-reached-"): string {
   const root = scratch.rootFor(prefix)
   founded(root)
-  typed(root, PACKAGE, "page")
+  typed(root, WORKSPACE, "page")
   declaring(root, MANIFEST_KEY, { pageTypeSlug: FILE_PROPERTY, fileName: "package.json" })
-  listedFiled(root, PACKAGE, "one-system", [{ path: PAGE_AT, id: ID }])
-  valueAlsoFiled(root, PACKAGE, [
-    { path: PAGE_AT, value: { id: ID, pageTypeSlug: PACKAGE, slug: "one-system" } },
+  listedFiled(root, WORKSPACE, "one-system", [{ path: PAGE_AT, id: ID }])
+  valueAlsoFiled(root, WORKSPACE, [
+    { path: PAGE_AT, value: { id: ID, pageTypeSlug: WORKSPACE, slug: "one-system" } },
   ])
   listingFiled(root, [PAGE_AT, MANIFEST_AT, AT])
   return root
