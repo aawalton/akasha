@@ -95,15 +95,6 @@ function follow(
   }
 }
 
-export function followFiles(
-  files: ReadonlySet<string>,
-  moved: (what: readonly string[]) => undefined,
-  settleMs: number = SETTLE_MS,
-  from?: Digest
-): Following {
-  return follow(dirsOf(files), () => digestOf(files), moved, settleMs, from)
-}
-
 export function followWithin(
   folders: ReadonlySet<string>,
   holds: (at: string) => boolean,

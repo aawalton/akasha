@@ -44,14 +44,6 @@ export const fileFollowing = {
     },
     {
       invariantKind: "departure",
-      statement: "Following a named set weighs that set alone.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A file appearing beside a named set is no part of that set and is not answered.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "Following a folder weighs the files that folder has now rather than a list fixed at the start.",
     },

@@ -5,7 +5,6 @@ import {
   digestOf,
   dirsOf,
   filesWithin,
-  followFiles,
   followFolders,
   followWithin,
   movedBetween,
@@ -76,42 +75,6 @@ test("a file dropped from the set counts as a file that changed", () => {
 
 test("the folders watched are the ones holding the files", () => {
   expect([...dirsOf([join(ROOT, "x.ts"), join(ROOT, "y.ts")])]).toEqual([ROOT])
-})
-
-test("a file changing after the watch is set up is answered once", async () => {
-  const a = fileAt("watched.txt", "one")
-  const moved: string[][] = []
-  const following = followFiles(
-    new Set([a]),
-    (what) => {
-      moved.push([...what])
-    },
-    20
-  )
-  await Bun.sleep(60)
-  writeFileSync(a, "two")
-  await Bun.sleep(200)
-  following.stop()
-  expect(moved.length).toBeGreaterThan(0)
-  expect(moved[0]).toEqual([a])
-})
-
-test("a file changing before the watch is set up is still caught", async () => {
-  const a = fileAt("early.txt", "one")
-  const before = digestOf([a])
-  writeFileSync(a, "two")
-  const moved: string[][] = []
-  const following = followFiles(
-    new Set([a]),
-    (what) => {
-      moved.push([...what])
-    },
-    20,
-    before
-  )
-  await Bun.sleep(200)
-  following.stop()
-  expect(moved[0]).toEqual([a])
 })
 
 test("what a folder holds is what the test admits of it", () => {
