@@ -5,7 +5,7 @@ export const idle = {
   type: "idle-game",
   slug: "idle",
   description: "The idle incremental game — your persona roster earns Moments over time.",
-  unit: "moments",
+  unit: "unit/moments",
   gameEngine: "idle",
   favoritedAt: "2026-07-06T03:05:47.885Z",
 } as const satisfies IdleGame
