@@ -1,7 +1,7 @@
 import {
   directivesIn,
   ruleOf,
-} from "akasha/agents/model/tests/pages/directive-kept/directive-kept.model-test.code.ts"
+} from "akasha/agents/model/test/pages/directive-kept/directive-kept.model-test.code.ts"
 import { widest } from "akasha/commands/modules/namespace-listing/namespace-listing.module.code.ts"
 
 const ARGUMENTS = "arguments"

@@ -1,0 +1,48 @@
+import {
+  type Asked,
+  type Case,
+  type Got,
+  keptBy,
+  type PageReading,
+} from "akasha/agents/model/test/modules/running/model-test-running.module.code.ts"
+import { restatement as test } from "akasha/agents/model/test/pages/restatement/restatement.model-test.ts"
+
+export type Judging = {
+  readonly slug: string
+  readonly definition: string
+  readonly invariants?: readonly { readonly invariantKind: string; readonly statement: string }[]
+}
+
+export type Putting = {
+  readonly statement: string
+  readonly prompt: string
+}
+
+export function asking(one: Case, reading: PageReading): readonly Asked[] {
+  void reading
+  return [
+    {
+      about: one.page,
+      prompt: test.prompt
+        .replace("{page}", () => one.page)
+        .replace("{definition}", () => one.definition)
+        .replace("{statement}", () => one.statement),
+    },
+  ]
+}
+
+export function keeping(one: Case, got: readonly Got[]): boolean {
+  return keptBy(one, got)
+}
+
+export function restatement(page: Judging): readonly Putting[] {
+  return (page.invariants ?? [])
+    .filter((invariant) => invariant.invariantKind === "departure")
+    .map((invariant) => ({
+      statement: invariant.statement,
+      prompt: test.prompt
+        .replace("{page}", page.slug)
+        .replace("{definition}", page.definition)
+        .replace("{statement}", invariant.statement),
+    }))
+}

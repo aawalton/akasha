@@ -14,7 +14,7 @@ import { ASIDE, REFUSED } from "akasha/agents/hooks/modules/answer/hook-answer.m
 import type {
   Directive,
   Putting,
-} from "akasha/agents/model/tests/pages/directive-kept/directive-kept.model-test.code.ts"
+} from "akasha/agents/model/test/pages/directive-kept/directive-kept.model-test.code.ts"
 import type { SubagentNode } from "akasha/code/editor/extension/modules/subagent-reading/subagent-reading.module.code.ts"
 
 const SEATS: readonly Valued[] = [
