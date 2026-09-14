@@ -15,8 +15,6 @@ import type { MacWwwStagingRel } from "akasha/code/ios-apps/properties/mac-www-s
 import type { MarketingVersion } from "akasha/code/ios-apps/properties/marketing-version.text-property.types.ts"
 import type { NativeShellRepoPath } from "akasha/code/ios-apps/properties/native-shell-repo-path.text-property.types.ts"
 import type { Programs } from "akasha/code/ios-apps/properties/programs.relation-property.types.ts"
-import type { SpaSourcePath } from "akasha/code/ios-apps/properties/spa-source-path.text-property.types.ts"
-import type { StageScript } from "akasha/code/ios-apps/properties/stage-script.relation-property.types.ts"
 import type { SyncScript } from "akasha/code/ios-apps/properties/sync-script.relation-property.types.ts"
 import type { WebDirectory } from "akasha/code/ios-apps/properties/web-directory.build-folder-property.types.ts"
 import type { WebEntry } from "akasha/code/ios-apps/properties/web-entry.file-property.types.ts"
@@ -46,8 +44,6 @@ export type IosApp = Domain &
     marketingVersion: MarketingVersion
     nativeShellRepoPath?: NativeShellRepoPath
     programs?: Programs
-    spaSourcePath?: SpaSourcePath
-    stageScript?: StageScript
     webEntry?: WebEntry
     webEnvPath?: WebEnvPath
     widgetBundleId?: WidgetBundleId
