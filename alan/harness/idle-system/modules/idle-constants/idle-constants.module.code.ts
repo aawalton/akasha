@@ -117,10 +117,6 @@ export const MECHANICS = [
   { flag: "apotheosisUnlocked", stars: APOTHEOSIS_UNLOCK_STARS },
 ] as const satisfies readonly { flag: keyof GameState; stars: number }[]
 
-export const STAR_GATE_LADDER: readonly number[] = MECHANICS.map((m) => m.stars).toSorted(
-  (a, b) => a - b
-)
-
 export const DERIVED_RATE_MIN = 8
 export const DERIVED_RATE_MAX = 14
 export const SYNERGY_NEG_SHARE = 0.15

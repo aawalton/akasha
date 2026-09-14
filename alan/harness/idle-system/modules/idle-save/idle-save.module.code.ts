@@ -38,14 +38,6 @@ const idleSaveSchema = z.looseObject({
 
 export type IdleSave = z.infer<typeof idleSaveSchema>
 
-const jsonSaveSchema = z.json()
-
-export type JsonSave = z.infer<typeof jsonSaveSchema>
-
 export function parseIdleSave(input: unknown): IdleSave {
   return idleSaveSchema.parse(input)
-}
-
-export function toJsonSave(save: IdleSave): JsonSave {
-  return jsonSaveSchema.parse(JSON.parse(JSON.stringify(save)))
 }
