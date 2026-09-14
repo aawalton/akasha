@@ -8,6 +8,6 @@ export const libSets = {
   esoAddon: "temper-lib-sets",
   addonKind: "library",
   heldBy: 13244,
-  adjacents: ["temper-crafting"],
+  adjacents: ["held-addon/temper-crafting"],
   tiClean: true,
 } as const satisfies HeldAddon

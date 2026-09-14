@@ -8,6 +8,6 @@ export const libPrice = {
   esoAddon: "temper-lib-price",
   addonKind: "library",
   heldBy: 13229,
-  adjacents: ["temper-crafting"],
+  adjacents: ["held-addon/temper-crafting"],
   tiClean: true,
 } as const satisfies HeldAddon

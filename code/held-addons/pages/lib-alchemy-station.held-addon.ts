@@ -8,6 +8,6 @@ export const libAlchemyStation = {
   esoAddon: "temper-lib-alchemy-station",
   addonKind: "library",
   heldBy: 13207,
-  adjacents: ["temper-crafting"],
+  adjacents: ["held-addon/temper-crafting"],
   tiClean: true,
 } as const satisfies HeldAddon

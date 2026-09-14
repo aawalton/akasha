@@ -8,5 +8,10 @@ export const temperCombat = {
   esoAddon: "temper-combat-addon",
   addonKind: "ported",
   heldBy: 14328,
-  adjacents: ["lib-addon-menu", "lib-custom-menu", "lib-data-encode", "lib-debug-logger"],
+  adjacents: [
+    "held-addon/lib-addon-menu",
+    "held-addon/lib-custom-menu",
+    "held-addon/lib-data-encode",
+    "held-addon/lib-debug-logger",
+  ],
 } as const satisfies HeldAddon

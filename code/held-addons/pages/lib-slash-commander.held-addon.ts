@@ -8,6 +8,6 @@ export const libSlashCommander = {
   esoAddon: "temper-lib-slash-commander",
   addonKind: "library",
   heldBy: 13228,
-  adjacents: ["temper-crafting"],
+  adjacents: ["held-addon/temper-crafting"],
   tiClean: true,
 } as const satisfies HeldAddon

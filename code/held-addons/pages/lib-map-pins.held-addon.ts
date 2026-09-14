@@ -8,6 +8,6 @@ export const libMapPins = {
   esoAddon: "temper-lib-map-pins",
   addonKind: "library",
   heldBy: 13198,
-  adjacents: ["temper-navigation", "temper-collections"],
+  adjacents: ["held-addon/temper-navigation", "held-addon/temper-collections"],
   tiClean: true,
 } as const satisfies HeldAddon

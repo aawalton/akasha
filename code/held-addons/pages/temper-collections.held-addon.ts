@@ -9,12 +9,12 @@ export const temperCollections = {
   addonKind: "ported",
   heldBy: 15143,
   adjacents: [
-    "temper-navigation",
-    "lib-map-pins",
-    "lib-extended-journal",
-    "lib-saved-vars",
-    "lib-treasure",
-    "lib-notification",
+    "held-addon/temper-navigation",
+    "held-addon/lib-map-pins",
+    "held-addon/lib-extended-journal",
+    "held-addon/lib-saved-vars",
+    "held-addon/lib-treasure",
+    "held-addon/lib-notification",
   ],
   tiCleanBlockedReason:
     "member-expr game-owned table.remove: losttreasure/notifications.ts removeNotification does table.remove(provider.notifications, id) where provider is a LibNotification-owned CreateProvider() read back in UpdateNotifications — game-owned member-expression, where .splice lowers to the cached-temp/__TS__ArraySplice form, not byte-equivalent to the raw call; source-zero and strict byte-equivalence mutually exclusive. All 14 other raw table.* sites converted (#14330 bite 2, byte-equivalence proven: game-owned scrollData appends lowered to the clean scrollData[#scrollData+1]=v idiom).",

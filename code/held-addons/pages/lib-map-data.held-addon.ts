@@ -8,6 +8,6 @@ export const libMapData = {
   esoAddon: "temper-lib-map-data",
   addonKind: "library",
   heldBy: 13234,
-  adjacents: ["temper-navigation", "temper-collections"],
+  adjacents: ["held-addon/temper-navigation", "held-addon/temper-collections"],
   tiClean: true,
 } as const satisfies HeldAddon

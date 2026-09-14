@@ -9,11 +9,11 @@ export const libAddonMenu = {
   addonKind: "library",
   heldBy: 13212,
   adjacents: [
-    "temper-crafting",
-    "temper-navigation",
-    "temper-collections",
-    "temper-events",
-    "lib-alchemy-station",
+    "held-addon/temper-crafting",
+    "held-addon/temper-navigation",
+    "held-addon/temper-collections",
+    "held-addon/temper-events",
+    "held-addon/lib-alchemy-station",
   ],
   tiClean: true,
 } as const satisfies HeldAddon

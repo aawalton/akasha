@@ -8,6 +8,11 @@ export const libDebugLogger = {
   esoAddon: "temper-lib-debug-logger",
   addonKind: "library",
   heldBy: 13215,
-  adjacents: ["temper-navigation", "temper-collections", "temper-crafting", "lib-addon-menu"],
+  adjacents: [
+    "held-addon/temper-navigation",
+    "held-addon/temper-collections",
+    "held-addon/temper-crafting",
+    "held-addon/lib-addon-menu",
+  ],
   tiClean: true,
 } as const satisfies HeldAddon

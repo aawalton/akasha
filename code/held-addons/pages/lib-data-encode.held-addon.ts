@@ -8,6 +8,6 @@ export const libDataEncode = {
   esoAddon: "temper-lib-data-encode",
   addonKind: "library",
   heldBy: 14340,
-  adjacents: ["temper-combat"],
+  adjacents: ["held-addon/temper-combat"],
   tiClean: true,
 } as const satisfies HeldAddon

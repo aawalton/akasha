@@ -8,6 +8,6 @@ export const temperListings = {
   esoAddon: "temper-trading-addon",
   addonKind: "native",
   heldBy: 13040,
-  adjacents: ["temper-inventory"],
+  adjacents: ["held-addon/temper-inventory"],
   tiClean: true,
 } as const satisfies HeldAddon

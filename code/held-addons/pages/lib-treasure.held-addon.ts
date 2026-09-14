@@ -8,6 +8,6 @@ export const libTreasure = {
   esoAddon: "temper-lib-treasure",
   addonKind: "library",
   heldBy: 13233,
-  adjacents: ["temper-navigation", "temper-collections"],
+  adjacents: ["held-addon/temper-navigation", "held-addon/temper-collections"],
   tiClean: true,
 } as const satisfies HeldAddon

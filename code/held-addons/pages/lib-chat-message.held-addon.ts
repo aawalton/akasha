@@ -8,6 +8,6 @@ export const libChatMessage = {
   esoAddon: "temper-lib-chat-message",
   addonKind: "library",
   heldBy: 13219,
-  adjacents: ["temper-crafting", "lib-gps"],
+  adjacents: ["held-addon/temper-crafting", "held-addon/lib-gps"],
   tiClean: true,
 } as const satisfies HeldAddon

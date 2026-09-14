@@ -8,6 +8,6 @@ export const libCharacterKnowledge = {
   esoAddon: "temper-lib-character-knowledge",
   addonKind: "library",
   heldBy: 13239,
-  adjacents: ["temper-crafting"],
+  adjacents: ["held-addon/temper-crafting"],
   tiClean: true,
 } as const satisfies HeldAddon

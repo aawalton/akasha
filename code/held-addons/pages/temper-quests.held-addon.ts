@@ -8,6 +8,6 @@ export const temperQuests = {
   esoAddon: "temper-quests-addon",
   addonKind: "native",
   heldBy: 15656,
-  adjacents: ["temper-characters"],
+  adjacents: ["held-addon/temper-characters"],
   tiClean: true,
 } as const satisfies HeldAddon

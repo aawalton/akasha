@@ -8,6 +8,6 @@ export const temperCatalog = {
   esoAddon: "temper-catalog-addon",
   addonKind: "native",
   heldBy: 13034,
-  adjacents: ["temper-characters", "temper-data-mining"],
+  adjacents: ["held-addon/temper-characters", "held-addon/temper-data-mining"],
   tiClean: true,
 } as const satisfies HeldAddon

@@ -8,6 +8,6 @@ export const temperEvents = {
   esoAddon: "temper-events-addon",
   addonKind: "ported",
   heldBy: 15144,
-  adjacents: ["lib-addon-menu"],
+  adjacents: ["held-addon/lib-addon-menu"],
   tiClean: true,
 } as const satisfies HeldAddon
