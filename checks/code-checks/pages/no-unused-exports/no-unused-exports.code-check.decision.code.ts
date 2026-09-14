@@ -139,6 +139,7 @@ const BY_FILE: ReadonlyMap<string, ReadonlySet<string>> = new Map([
 
 const BY_SLUG: ReadonlyMap<string, ReadonlySet<string>> = new Map([
   ["carried-file", new Set(["carriedIn"])],
+  ["extension-entry", new Set(["activate", "deactivate"])],
   ["run-serving", new Set(["serving"])],
   ["state-writing", new Set(["statesLanded"])],
 ])

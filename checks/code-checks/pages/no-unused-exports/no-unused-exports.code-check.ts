@@ -198,6 +198,11 @@ export const noUnusedExports = {
     {
       invariantKind: "departure",
       statement:
+        "The `activate` and `deactivate` an extension entry exports are reached by the editor.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "The `serving` the run-serving module exports is reached by the relay spawning it.",
     },
     {
