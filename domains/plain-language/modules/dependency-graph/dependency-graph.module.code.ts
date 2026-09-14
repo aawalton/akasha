@@ -30,18 +30,11 @@ export type DepSentence = {
   children: Map<number, DepToken[]>
 }
 
-export type Span = {
-  start: number
-  end: number
-}
-
 type Swap = {
   loss: number
   dependent: number
   replacement: number
 }
-
-const GERUND = /[a-z]ing$/i
 
 export function makeSentence(parsed: ParsedSentence): DepSentence {
   const children = new Map<number, DepToken[]>()
@@ -97,20 +90,6 @@ export function subtree(sentence: DepSentence, id: number): DepToken[] {
     for (const one of childrenOf(sentence, here)) stack.push(one.id)
   }
   return found.sort((a, b) => a.id - b.id)
-}
-
-export function spanOf(tokens: readonly DepToken[]): Span {
-  let start = Number.POSITIVE_INFINITY
-  let end = Number.NEGATIVE_INFINITY
-  for (const token of tokens) {
-    start = Math.min(start, token.start)
-    end = Math.max(end, token.end)
-  }
-  return { start, end }
-}
-
-export function isGerund(token: DepToken): boolean {
-  return GERUND.test(token.form)
 }
 
 export function lower(token: DepToken): string {
@@ -230,12 +209,4 @@ export function decodeTree(scores: readonly (readonly number[])[]): number[] {
     heads[best.dependent - 1] = best.replacement
   }
   return heads
-}
-
-export function isValidTree(heads: readonly number[]): boolean {
-  if (heads.filter((head) => head === 0).length !== 1) return false
-  if (heads.some((head, index) => head < 0 || head > heads.length || head === index + 1)) {
-    return false
-  }
-  return findCycle(heads) === undefined
 }
