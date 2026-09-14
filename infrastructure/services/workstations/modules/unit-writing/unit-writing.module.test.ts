@@ -101,6 +101,11 @@ test("a service needing secrets reads them before it starts", () => {
   )
 })
 
+test("a service that cannot read its secrets is not started again on that exit", () => {
+  expect(serviceUnitText(pageOf({ needsSecrets: true }))).toContain("RestartPreventExitStatus=78")
+  expect(serviceUnitText(pageOf({}))).not.toContain("RestartPreventExitStatus")
+})
+
 test("a service that cannot read the secrets it needs leaves rather than starting without them", () => {
   const text = serviceUnitText(pageOf({ needsSecrets: true }))
   expect(text).toContain("|| exit 78")

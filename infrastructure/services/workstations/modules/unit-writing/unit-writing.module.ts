@@ -49,6 +49,11 @@ export const unitWriting = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A service leaving on that exit is not started again, since nothing it does mends it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A service reaching here has its command lines settled already.",
     },
     {

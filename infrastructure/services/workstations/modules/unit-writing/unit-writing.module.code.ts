@@ -90,6 +90,9 @@ function exitLines(given: Service): readonly string[] {
   const forces = stated?.restartForceExitStatus === undefined ? [] : [stated.restartForceExitStatus]
   const lines = [`SuccessExitStatus=${joined([SIGTERM_EXIT, RESTART_EXIT, ...stops])}`]
   lines.push(`RestartForceExitStatus=${joined([RESTART_EXIT, ...forces])}`)
+  if (given.service.needsSecrets === true) {
+    lines.push(`RestartPreventExitStatus=${NO_SECRETS}`)
+  }
   return lines
 }
 
