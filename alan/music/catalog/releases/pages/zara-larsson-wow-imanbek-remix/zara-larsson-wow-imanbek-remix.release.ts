@@ -9,7 +9,7 @@ export const zaraLarssonWowImanbekRemix = {
   position: 0,
   ownLength: 3.1238,
   ownProgress: 3.1238,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-10-02",
   externalIdentity: [

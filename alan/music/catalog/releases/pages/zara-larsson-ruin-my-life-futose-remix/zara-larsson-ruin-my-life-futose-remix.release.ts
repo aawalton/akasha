@@ -9,7 +9,7 @@ export const zaraLarssonRuinMyLifeFutoseRemix = {
   position: 0,
   ownLength: 4.748167,
   ownProgress: 4.748167,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-11-19",
   externalIdentity: [

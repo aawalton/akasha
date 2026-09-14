@@ -9,7 +9,7 @@ export const zaraLarssonPosterGirlSummerEdition = {
   position: 0,
   ownLength: 63.626067,
   ownProgress: 63.626067,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-07-08",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const zaraLarssonSoGoodFeatTyDollaIgnGoldhouseRemix = {
   position: 0,
   ownLength: 3.429917,
   ownProgress: 3.429917,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-03-10",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const zaraLarssonMidnightSun2 = {
   position: 0,
   ownLength: 6.9332,
   ownProgress: 6.9332,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-11-14",
   externalIdentity: [

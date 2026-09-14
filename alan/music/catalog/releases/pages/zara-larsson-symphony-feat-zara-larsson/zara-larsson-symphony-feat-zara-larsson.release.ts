@@ -9,7 +9,7 @@ export const zaraLarssonSymphonyFeatZaraLarsson = {
   position: 0,
   ownLength: 3.540983,
   ownProgress: 3.540983,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-03-16",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const zaraLarssonINeedLoveFeatTrevorDaniel = {
   position: 0,
   ownLength: 3.1068,
   ownProgress: 3.1068,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-07-09",
   externalIdentity: [

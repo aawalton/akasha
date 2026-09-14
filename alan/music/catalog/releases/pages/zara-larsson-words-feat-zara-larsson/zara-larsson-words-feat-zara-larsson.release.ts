@@ -9,7 +9,7 @@ export const zaraLarssonWordsFeatZaraLarsson = {
   position: 0,
   ownLength: 2.37795,
   ownProgress: 2.37795,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-04-22",
   externalIdentity: [

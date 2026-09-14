@@ -9,7 +9,7 @@ export const zaraLarssonRightHereAlokRemix = {
   position: 0,
   ownLength: 2.583333,
   ownProgress: 2.583333,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-05-20",
   externalIdentity: [

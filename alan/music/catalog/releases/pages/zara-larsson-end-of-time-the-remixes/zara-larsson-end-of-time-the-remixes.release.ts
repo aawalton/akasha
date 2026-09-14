@@ -9,7 +9,7 @@ export const zaraLarssonEndOfTimeTheRemixes = {
   position: 0,
   ownLength: 19.07065,
   ownProgress: 19.07065,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-07-15",
   externalIdentity: [

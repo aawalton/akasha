@@ -9,7 +9,7 @@ export const zaraLarssonSoGoodTheWildRemix = {
   position: 0,
   ownLength: 3.75755,
   ownProgress: 3.75755,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-03-10",
   externalIdentity: [

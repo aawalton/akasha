@@ -9,7 +9,7 @@ export const zaraLarssonLayAllYourLoveOnMeSpotifySingles = {
   position: 0,
   ownLength: 2.685417,
   ownProgress: 2.685417,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-05-27",
   externalIdentity: [

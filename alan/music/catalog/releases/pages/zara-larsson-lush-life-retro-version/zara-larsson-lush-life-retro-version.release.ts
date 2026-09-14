@@ -9,7 +9,7 @@ export const zaraLarssonLushLifeRetroVersion = {
   position: 0,
   ownLength: 3.230883,
   ownProgress: 3.230883,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-08-27",
   externalIdentity: [
