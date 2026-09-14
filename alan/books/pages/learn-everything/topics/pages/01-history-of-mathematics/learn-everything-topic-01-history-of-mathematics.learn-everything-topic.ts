@@ -8,5 +8,7 @@ export const learnEverythingTopic01HistoryOfMathematics = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-20",
   status: "unopened",
-  partOf: ["learn-everything-topic-01-history-and-foundations-of-mathematics"],
+  partOf: [
+    "learn-everything-topic/learn-everything-topic-01-history-and-foundations-of-mathematics",
+  ],
 } as const satisfies LearnEverythingTopic

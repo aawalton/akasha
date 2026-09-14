@@ -8,7 +8,9 @@ export const learnEverythingTopic02TheDevelopmentOfHumanCulture = {
   masteryLevel: "mastery-level/scholar",
   scoredOn: "2026-06-26",
   status: "live",
-  partOf: ["learn-everything-topic-01-social-groups-ethnic-groups-and-cultures"],
+  partOf: [
+    "learn-everything-topic/learn-everything-topic-01-social-groups-ethnic-groups-and-cultures",
+  ],
   frontier: "md",
   integration: "md",
   misconceptions: "md",

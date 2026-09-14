@@ -8,5 +8,7 @@ export const learnEverythingTopic01SelfMeasurementEstimationAndControl = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-22",
   status: "unopened",
-  partOf: ["learn-everything-topic-03-technology-of-measurement-observation-and-control"],
+  partOf: [
+    "learn-everything-topic/learn-everything-topic-03-technology-of-measurement-observation-and-control",
+  ],
 } as const satisfies LearnEverythingTopic

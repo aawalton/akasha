@@ -9,6 +9,6 @@ export const learnEverythingTopic02MesopotamiaSumerAkkadAndBabylonia = {
   scoredOn: "2026-06-21",
   status: "unopened",
   partOf: [
-    "learn-everything-topic-01-ancient-southwest-asia-and-egypt-the-aegean-and-north-africa",
+    "learn-everything-topic/learn-everything-topic-01-ancient-southwest-asia-and-egypt-the-aegean-and-north-africa",
   ],
 } as const satisfies LearnEverythingTopic

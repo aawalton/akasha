@@ -9,6 +9,8 @@ export const learnEverythingTopic06MechanicsOfParticlesRigidAndDeformableBodiesE
     masteryLevel: "mastery-level/novice",
     scoredOn: "2026-06-19",
     status: "unopened",
-    partOf: ["learn-everything-topic-02-energy-radiation-and-states-of-matter"],
+    partOf: [
+      "learn-everything-topic/learn-everything-topic-02-energy-radiation-and-states-of-matter",
+    ],
     integration: "md",
   } as const satisfies LearnEverythingTopic

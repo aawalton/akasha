@@ -8,5 +8,7 @@ export const learnEverythingTopic02ConsumerAndMarketPricingAndMechanismsForDistr
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOf: ["learn-everything-topic-03-the-production-distribution-and-utilization-of-wealth"],
+  partOf: [
+    "learn-everything-topic/learn-everything-topic-03-the-production-distribution-and-utilization-of-wealth",
+  ],
 } as const satisfies LearnEverythingTopic

@@ -8,5 +8,5 @@ export const learnEverythingTopic01HistoryOfPhilosophy = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOf: ["learn-everything-topic-05-philosophy"],
+  partOf: ["learn-everything-topic/learn-everything-topic-05-philosophy"],
 } as const satisfies LearnEverythingTopic

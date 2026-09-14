@@ -8,5 +8,5 @@ export const learnEverythingTopic01NatureDevelopmentOfTechnology = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOf: ["learn-everything-topic-07-technology"],
+  partOf: ["learn-everything-topic/learn-everything-topic-07-technology"],
 } as const satisfies LearnEverythingTopic

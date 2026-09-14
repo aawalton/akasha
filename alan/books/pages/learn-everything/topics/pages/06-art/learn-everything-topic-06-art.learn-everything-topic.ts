@@ -8,6 +8,6 @@ export const learnEverythingTopic06Art = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOf: ["profile"],
+  partOf: ["learn-everything-topic/profile"],
   integration: "md",
 } as const satisfies LearnEverythingTopic

@@ -8,5 +8,7 @@ export const learnEverythingTopic02TheGroupStructureOfSociety = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOf: ["learn-everything-topic-02-social-organization-and-social-change"],
+  partOf: [
+    "learn-everything-topic/learn-everything-topic-02-social-organization-and-social-change",
+  ],
 } as const satisfies LearnEverythingTopic

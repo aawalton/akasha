@@ -8,5 +8,5 @@ export const learnEverythingTopic09TheHistoryOfMankind = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOf: ["profile"],
+  partOf: ["learn-everything-topic/profile"],
 } as const satisfies LearnEverythingTopic

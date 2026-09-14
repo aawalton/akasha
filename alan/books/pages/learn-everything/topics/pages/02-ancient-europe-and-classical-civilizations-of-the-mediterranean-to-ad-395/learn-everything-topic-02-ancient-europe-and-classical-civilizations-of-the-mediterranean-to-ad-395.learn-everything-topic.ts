@@ -9,5 +9,7 @@ export const learnEverythingTopic02AncientEuropeAndClassicalCivilizationsOfTheMe
     masteryLevel: "mastery-level/novice",
     scoredOn: "2026-06-19",
     status: "unopened",
-    partOf: ["learn-everything-topic-01-ancient-southwest-asia-north-africa-and-europe"],
+    partOf: [
+      "learn-everything-topic/learn-everything-topic-01-ancient-southwest-asia-north-africa-and-europe",
+    ],
   } as const satisfies LearnEverythingTopic

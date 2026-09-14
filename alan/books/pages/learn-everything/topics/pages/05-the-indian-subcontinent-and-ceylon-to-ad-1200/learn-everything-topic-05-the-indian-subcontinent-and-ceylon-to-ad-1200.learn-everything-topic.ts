@@ -8,5 +8,7 @@ export const learnEverythingTopic05TheIndianSubcontinentAndCeylonToAd1200 = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOf: ["learn-everything-topic-03-east-central-south-and-southeast-asia"],
+  partOf: [
+    "learn-everything-topic/learn-everything-topic-03-east-central-south-and-southeast-asia",
+  ],
 } as const satisfies LearnEverythingTopic
