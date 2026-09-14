@@ -4,8 +4,7 @@ export const codePathBetween = {
   id: "01a06558-3a62-7fa9-90c6-0d6dc35875f0",
   type: "module",
   slug: "code-path-between",
-  definition:
-    "the folder a path sits in, the way from one folder to a path, and where a href lands",
+  definition: "the folder a path sits in, and the way from one folder to a path",
   code: "ts",
   invariants: [
     {
@@ -19,24 +18,6 @@ export const codePathBetween = {
     {
       invariantKind: "departure",
       statement: "A path with no separator sits in no folder rather than in a clipped one.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A href is read to the path the href names without any anchor and without any query.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "A href carrying a scheme names no path in this tree.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "A href that is one brace-wrapped slot names no path in this tree.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A href spelled from the root lands at that root path rather than beneath the host.",
     },
     {
       invariantKind: "absence",
