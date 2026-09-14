@@ -1,8 +1,5 @@
 import { leftWhereCodeMoved } from "akasha/infrastructure/services/workstations/modules/code-moving/code-moving.module.code.ts"
-import {
-  mergeUncommitted,
-  uncommittedIn,
-} from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
+import { mergeUncommitted } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 
 export const WORKED_AT = "workedAt"
 
@@ -22,10 +19,6 @@ export function beatOn(values: Readonly<Record<string, unknown>> | null): string
   if (values === null) return null
   const held = values[WORKED_AT]
   return typeof held === "string" ? held : null
-}
-
-export function beatKept(root: string, page: string): string | null {
-  return beatOn(uncommittedIn(root, page))
 }
 
 export function windowMsIn(seconds: unknown): number | null {

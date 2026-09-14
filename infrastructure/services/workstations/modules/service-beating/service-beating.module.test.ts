@@ -3,7 +3,6 @@ import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
   beating,
-  beatKept,
   beatOn,
   keepBeat,
   WORKED_AT,
@@ -64,10 +63,10 @@ test("a window is the seconds a service states, and nothing else is a window", (
 test("a moment written beside a service page is read back off that page", () => {
   const root = rooted()
   try {
-    expect(beatKept(root, PAGE)).toBe(null)
+    expect(beatOn(uncommittedIn(root, PAGE))).toBe(null)
     keepBeat(root, PAGE, new Date(AT))
     expect(uncommittedIn(root, PAGE)).toEqual({ [WORKED_AT]: AT })
-    expect(beatKept(root, PAGE)).toBe(AT)
+    expect(beatOn(uncommittedIn(root, PAGE))).toBe(AT)
   } finally {
     rmSync(root, { recursive: true, force: true })
   }
@@ -78,7 +77,7 @@ test("a moment replaces the moment before it and leaves the rest of the values",
   try {
     keepBeat(root, PAGE, new Date(AT))
     keepBeat(root, PAGE, new Date("2026-09-10T18:05:00.000Z"))
-    expect(beatKept(root, PAGE)).toBe("2026-09-10T18:05:00.000Z")
+    expect(beatOn(uncommittedIn(root, PAGE))).toBe("2026-09-10T18:05:00.000Z")
   } finally {
     rmSync(root, { recursive: true, force: true })
   }
