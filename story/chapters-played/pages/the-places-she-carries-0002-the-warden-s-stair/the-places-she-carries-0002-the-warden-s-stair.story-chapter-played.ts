@@ -5,9 +5,9 @@ export const thePlacesSheCarries0002TheWardenSStair = {
   type: "story-chapter-played",
   slug: "the-places-she-carries-0002-the-warden-s-stair",
   title: "The Warden's Stair",
-  story: "the-places-she-carries",
+  story: "story-played/the-places-she-carries",
   position: 2,
   ownLength: 5316,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

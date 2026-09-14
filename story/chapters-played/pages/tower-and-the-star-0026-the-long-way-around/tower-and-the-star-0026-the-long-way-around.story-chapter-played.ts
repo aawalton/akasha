@@ -5,9 +5,9 @@ export const towerAndTheStar0026TheLongWayAround = {
   type: "story-chapter-played",
   slug: "tower-and-the-star-0026-the-long-way-around",
   title: "The Long Way Around",
-  story: "tower-and-the-star",
+  story: "story-played/tower-and-the-star",
   position: 26,
   ownLength: 3424,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

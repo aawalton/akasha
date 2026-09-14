@@ -5,9 +5,9 @@ export const breathOfTheWild0002TheOldManOnTheHill = {
   type: "story-chapter-played",
   slug: "breath-of-the-wild-0002-the-old-man-on-the-hill",
   title: "The Old Man on the Hill",
-  story: "breath-of-the-wild",
+  story: "story-played/breath-of-the-wild",
   position: 2,
   ownLength: 4569,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

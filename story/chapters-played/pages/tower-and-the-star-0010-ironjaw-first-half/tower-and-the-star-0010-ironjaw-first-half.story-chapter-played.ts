@@ -5,9 +5,9 @@ export const towerAndTheStar0010IronjawFirstHalf = {
   type: "story-chapter-played",
   slug: "tower-and-the-star-0010-ironjaw-first-half",
   title: "Ironjaw (First Half)",
-  story: "tower-and-the-star",
+  story: "story-played/tower-and-the-star",
   position: 10,
   ownLength: 3787,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

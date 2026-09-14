@@ -5,9 +5,9 @@ export const towerAndTheStar0002WhatTheRestNodeKnows = {
   type: "story-chapter-played",
   slug: "tower-and-the-star-0002-what-the-rest-node-knows",
   title: "What the Rest Node Knows",
-  story: "tower-and-the-star",
+  story: "story-played/tower-and-the-star",
   position: 2,
   ownLength: 3923,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

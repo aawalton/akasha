@@ -5,9 +5,9 @@ export const thePlacesSheCarries0009TheSouthWindow = {
   type: "story-chapter-played",
   slug: "the-places-she-carries-0009-the-south-window",
   title: "The South Window",
-  story: "the-places-she-carries",
+  story: "story-played/the-places-she-carries",
   position: 9,
   ownLength: 4426,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

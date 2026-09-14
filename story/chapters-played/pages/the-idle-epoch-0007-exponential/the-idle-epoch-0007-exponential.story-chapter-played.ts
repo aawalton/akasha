@@ -5,9 +5,9 @@ export const theIdleEpoch0007Exponential = {
   type: "story-chapter-played",
   slug: "the-idle-epoch-0007-exponential",
   title: "Exponential",
-  story: "the-idle-epoch",
+  story: "story-played/the-idle-epoch",
   position: 7,
   ownLength: 6346,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

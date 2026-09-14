@@ -5,9 +5,9 @@ export const theDungeonOfOneThousandDeaths0004TheMilitaryScoutingParty = {
   type: "story-chapter-played",
   slug: "the-dungeon-of-one-thousand-deaths-0004-the-military-scouting-party",
   title: "The Military Scouting Party",
-  story: "the-dungeon-of-one-thousand-deaths",
+  story: "story-played/the-dungeon-of-one-thousand-deaths",
   position: 4,
   ownLength: 6076,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

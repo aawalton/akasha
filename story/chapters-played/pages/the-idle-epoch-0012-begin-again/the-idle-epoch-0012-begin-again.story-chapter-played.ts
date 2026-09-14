@@ -5,9 +5,9 @@ export const theIdleEpoch0012BeginAgain = {
   type: "story-chapter-played",
   slug: "the-idle-epoch-0012-begin-again",
   title: "Begin Again",
-  story: "the-idle-epoch",
+  story: "story-played/the-idle-epoch",
   position: 12,
   ownLength: 5516,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

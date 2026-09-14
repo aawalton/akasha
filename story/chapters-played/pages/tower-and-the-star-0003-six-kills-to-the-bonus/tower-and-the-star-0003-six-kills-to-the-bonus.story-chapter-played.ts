@@ -5,9 +5,9 @@ export const towerAndTheStar0003SixKillsToTheBonus = {
   type: "story-chapter-played",
   slug: "tower-and-the-star-0003-six-kills-to-the-bonus",
   title: "Six Kills to the Bonus",
-  story: "tower-and-the-star",
+  story: "story-played/tower-and-the-star",
   position: 3,
   ownLength: 3815,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

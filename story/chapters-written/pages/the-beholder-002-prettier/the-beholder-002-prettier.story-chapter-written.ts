@@ -5,9 +5,9 @@ export const theBeholder002Prettier = {
   type: "story-chapter-written",
   slug: "the-beholder-002-prettier",
   title: "Prettier",
-  story: "the-beholder",
+  story: "story-written/the-beholder",
   position: 2,
   ownLength: 2637,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterWritten

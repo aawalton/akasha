@@ -5,9 +5,9 @@ export const breathOfTheWild0003FourWallsOfLight = {
   type: "story-chapter-played",
   slug: "breath-of-the-wild-0003-four-walls-of-light",
   title: "Four Walls of Light",
-  story: "breath-of-the-wild",
+  story: "story-played/breath-of-the-wild",
   position: 3,
   ownLength: 4605,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

@@ -5,9 +5,9 @@ export const theIdleEpoch0005TheTheorist = {
   type: "story-chapter-played",
   slug: "the-idle-epoch-0005-the-theorist",
   title: "The Theorist",
-  story: "the-idle-epoch",
+  story: "story-played/the-idle-epoch",
   position: 5,
   ownLength: 6216,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

@@ -5,9 +5,9 @@ export const towerAndTheStar0023TheProvingGatePartOne = {
   type: "story-chapter-played",
   slug: "tower-and-the-star-0023-the-proving-gate-part-one",
   title: "The Proving Gate (Part One)",
-  story: "tower-and-the-star",
+  story: "story-played/tower-and-the-star",
   position: 23,
   ownLength: 2950,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

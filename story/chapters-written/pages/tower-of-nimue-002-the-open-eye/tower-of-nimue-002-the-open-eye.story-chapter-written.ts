@@ -5,9 +5,9 @@ export const towerOfNimue002TheOpenEye = {
   type: "story-chapter-written",
   slug: "tower-of-nimue-002-the-open-eye",
   title: "The Open Eye",
-  story: "tower-of-nimue",
+  story: "story-written/tower-of-nimue",
   position: 2,
   ownLength: 4504,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterWritten

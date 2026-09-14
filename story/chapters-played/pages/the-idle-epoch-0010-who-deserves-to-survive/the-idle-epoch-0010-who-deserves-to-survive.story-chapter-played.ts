@@ -5,9 +5,9 @@ export const theIdleEpoch0010WhoDeservesToSurvive = {
   type: "story-chapter-played",
   slug: "the-idle-epoch-0010-who-deserves-to-survive",
   title: "Who Deserves to Survive",
-  story: "the-idle-epoch",
+  story: "story-played/the-idle-epoch",
   position: 10,
   ownLength: 5563,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

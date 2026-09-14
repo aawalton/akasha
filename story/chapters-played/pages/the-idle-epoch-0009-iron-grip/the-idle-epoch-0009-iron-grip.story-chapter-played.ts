@@ -5,9 +5,9 @@ export const theIdleEpoch0009IronGrip = {
   type: "story-chapter-played",
   slug: "the-idle-epoch-0009-iron-grip",
   title: "Iron Grip",
-  story: "the-idle-epoch",
+  story: "story-played/the-idle-epoch",
   position: 9,
   ownLength: 6292,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

@@ -5,9 +5,9 @@ export const towerAndTheStar0015TheDistanceToRare = {
   type: "story-chapter-played",
   slug: "tower-and-the-star-0015-the-distance-to-rare",
   title: "The Distance to Rare",
-  story: "tower-and-the-star",
+  story: "story-played/tower-and-the-star",
   position: 15,
   ownLength: 4179,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

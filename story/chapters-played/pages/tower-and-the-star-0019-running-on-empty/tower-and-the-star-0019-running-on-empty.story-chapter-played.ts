@@ -5,9 +5,9 @@ export const towerAndTheStar0019RunningOnEmpty = {
   type: "story-chapter-played",
   slug: "tower-and-the-star-0019-running-on-empty",
   title: "Running on Empty",
-  story: "tower-and-the-star",
+  story: "story-played/tower-and-the-star",
   position: 19,
   ownLength: 3949,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

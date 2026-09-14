@@ -5,9 +5,9 @@ export const cornerstone001BlindGround = {
   type: "story-chapter-written",
   slug: "cornerstone-001-blind-ground",
   title: "Blind Ground",
-  story: "cornerstone",
+  story: "story-written/cornerstone",
   position: 1,
   ownLength: 4805,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterWritten

@@ -5,9 +5,9 @@ export const thePlacesSheCarries0027TheGroundSpeaksBack = {
   type: "story-chapter-played",
   slug: "the-places-she-carries-0027-the-ground-speaks-back",
   title: "The Ground Speaks Back",
-  story: "the-places-she-carries",
+  story: "story-played/the-places-she-carries",
   position: 27,
   ownLength: 2514,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

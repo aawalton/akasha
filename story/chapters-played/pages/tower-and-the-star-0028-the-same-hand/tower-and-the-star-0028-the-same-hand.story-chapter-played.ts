@@ -5,9 +5,9 @@ export const towerAndTheStar0028TheSameHand = {
   type: "story-chapter-played",
   slug: "tower-and-the-star-0028-the-same-hand",
   title: "The Same Hand",
-  story: "tower-and-the-star",
+  story: "story-played/tower-and-the-star",
   position: 28,
   ownLength: 3637,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

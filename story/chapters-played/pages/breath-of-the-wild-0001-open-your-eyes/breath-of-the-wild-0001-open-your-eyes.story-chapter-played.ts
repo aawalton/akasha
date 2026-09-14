@@ -5,9 +5,9 @@ export const breathOfTheWild0001OpenYourEyes = {
   type: "story-chapter-played",
   slug: "breath-of-the-wild-0001-open-your-eyes",
   title: "Open Your Eyes",
-  story: "breath-of-the-wild",
+  story: "story-played/breath-of-the-wild",
   position: 1,
   ownLength: 4943,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

@@ -5,9 +5,9 @@ export const comeHere0001FirelitKnit = {
   type: "story-chapter-written",
   slug: "come-here-0001-firelit-knit",
   title: "Firelit Knit",
-  story: "come-here",
+  story: "story-written/come-here",
   position: 1,
   ownLength: 998,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterWritten

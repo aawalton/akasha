@@ -5,9 +5,9 @@ export const towerAndTheStar0014FullChord = {
   type: "story-chapter-played",
   slug: "tower-and-the-star-0014-full-chord",
   title: "Full Chord",
-  story: "tower-and-the-star",
+  story: "story-played/tower-and-the-star",
   position: 14,
   ownLength: 5518,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

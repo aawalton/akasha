@@ -5,9 +5,9 @@ export const towerOfNimue001TheFirstHour = {
   type: "story-chapter-written",
   slug: "tower-of-nimue-001-the-first-hour",
   title: "The First Hour",
-  story: "tower-of-nimue",
+  story: "story-written/tower-of-nimue",
   position: 1,
   ownLength: 3487,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterWritten

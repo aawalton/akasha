@@ -8,6 +8,6 @@ export const theTower0001TheThreshold = {
   story: "story-played/the-tower",
   position: 1,
   ownLength: 1833,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

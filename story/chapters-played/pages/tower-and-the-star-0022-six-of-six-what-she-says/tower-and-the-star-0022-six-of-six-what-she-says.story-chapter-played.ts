@@ -5,9 +5,9 @@ export const towerAndTheStar0022SixOfSixWhatSheSays = {
   type: "story-chapter-played",
   slug: "tower-and-the-star-0022-six-of-six-what-she-says",
   title: "Six of Six (What She Says)",
-  story: "tower-and-the-star",
+  story: "story-played/tower-and-the-star",
   position: 22,
   ownLength: 5867,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

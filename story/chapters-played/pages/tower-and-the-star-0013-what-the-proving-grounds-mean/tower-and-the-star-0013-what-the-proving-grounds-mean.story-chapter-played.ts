@@ -5,9 +5,9 @@ export const towerAndTheStar0013WhatTheProvingGroundsMean = {
   type: "story-chapter-played",
   slug: "tower-and-the-star-0013-what-the-proving-grounds-mean",
   title: "What the Proving Grounds Mean",
-  story: "tower-and-the-star",
+  story: "story-played/tower-and-the-star",
   position: 13,
   ownLength: 5112,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

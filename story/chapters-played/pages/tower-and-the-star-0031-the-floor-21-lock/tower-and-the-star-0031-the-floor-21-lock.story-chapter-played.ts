@@ -5,9 +5,9 @@ export const towerAndTheStar0031TheFloor21Lock = {
   type: "story-chapter-played",
   slug: "tower-and-the-star-0031-the-floor-21-lock",
   title: "The Floor 21 Lock",
-  story: "tower-and-the-star",
+  story: "story-played/tower-and-the-star",
   position: 31,
   ownLength: 3026,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

@@ -5,9 +5,9 @@ export const towerAndTheStar0030WhatTheTowerDoesNext = {
   type: "story-chapter-played",
   slug: "tower-and-the-star-0030-what-the-tower-does-next",
   title: "What the Tower Does Next",
-  story: "tower-and-the-star",
+  story: "story-played/tower-and-the-star",
   position: 30,
   ownLength: 2320,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

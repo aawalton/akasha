@@ -5,9 +5,9 @@ export const thePlacesSheCarries0013FiveWhat = {
   type: "story-chapter-played",
   slug: "the-places-she-carries-0013-five-what",
   title: "Five What?",
-  story: "the-places-she-carries",
+  story: "story-played/the-places-she-carries",
   position: 13,
   ownLength: 4233,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

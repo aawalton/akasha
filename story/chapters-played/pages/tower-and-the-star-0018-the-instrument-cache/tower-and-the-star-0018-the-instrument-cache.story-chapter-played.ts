@@ -5,9 +5,9 @@ export const towerAndTheStar0018TheInstrumentCache = {
   type: "story-chapter-played",
   slug: "tower-and-the-star-0018-the-instrument-cache",
   title: "The Instrument Cache",
-  story: "tower-and-the-star",
+  story: "story-played/tower-and-the-star",
   position: 18,
   ownLength: 3615,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

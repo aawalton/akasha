@@ -5,9 +5,9 @@ export const towerAndTheStar0001TheShapeOfTheProblem = {
   type: "story-chapter-played",
   slug: "tower-and-the-star-0001-the-shape-of-the-problem",
   title: "The Shape of the Problem",
-  story: "tower-and-the-star",
+  story: "story-played/tower-and-the-star",
   position: 1,
   ownLength: 3516,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

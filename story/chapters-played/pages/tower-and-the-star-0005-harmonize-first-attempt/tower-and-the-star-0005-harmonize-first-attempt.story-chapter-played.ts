@@ -5,9 +5,9 @@ export const towerAndTheStar0005HarmonizeFirstAttempt = {
   type: "story-chapter-played",
   slug: "tower-and-the-star-0005-harmonize-first-attempt",
   title: "Harmonize (First Attempt)",
-  story: "tower-and-the-star",
+  story: "story-played/tower-and-the-star",
   position: 5,
   ownLength: 5424,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

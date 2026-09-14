@@ -5,9 +5,9 @@ export const towerAndTheStar0017TheBondTrial = {
   type: "story-chapter-played",
   slug: "tower-and-the-star-0017-the-bond-trial",
   title: "The Bond Trial",
-  story: "tower-and-the-star",
+  story: "story-played/tower-and-the-star",
   position: 17,
   ownLength: 3576,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

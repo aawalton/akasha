@@ -5,9 +5,9 @@ export const theDungeonOfOneThousandDeaths0003LiraFirstCompelled = {
   type: "story-chapter-played",
   slug: "the-dungeon-of-one-thousand-deaths-0003-lira-first-compelled",
   title: "Lira, First Compelled",
-  story: "the-dungeon-of-one-thousand-deaths",
+  story: "story-played/the-dungeon-of-one-thousand-deaths",
   position: 3,
   ownLength: 3917,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

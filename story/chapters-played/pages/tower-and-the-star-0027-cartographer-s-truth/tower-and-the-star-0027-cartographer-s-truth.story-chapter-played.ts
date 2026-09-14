@@ -5,9 +5,9 @@ export const towerAndTheStar0027CartographerSTruth = {
   type: "story-chapter-played",
   slug: "tower-and-the-star-0027-cartographer-s-truth",
   title: "Cartographer's Truth",
-  story: "tower-and-the-star",
+  story: "story-played/tower-and-the-star",
   position: 27,
   ownLength: 2659,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

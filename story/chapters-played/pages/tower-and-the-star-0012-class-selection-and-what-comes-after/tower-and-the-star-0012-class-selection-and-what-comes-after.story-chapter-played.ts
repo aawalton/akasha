@@ -5,9 +5,9 @@ export const towerAndTheStar0012ClassSelectionAndWhatComesAfter = {
   type: "story-chapter-played",
   slug: "tower-and-the-star-0012-class-selection-and-what-comes-after",
   title: "Class Selection and What Comes After",
-  story: "tower-and-the-star",
+  story: "story-played/tower-and-the-star",
   position: 12,
   ownLength: 4195,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

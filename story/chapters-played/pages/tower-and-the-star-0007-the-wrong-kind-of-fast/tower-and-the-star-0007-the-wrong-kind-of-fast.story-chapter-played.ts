@@ -5,9 +5,9 @@ export const towerAndTheStar0007TheWrongKindOfFast = {
   type: "story-chapter-played",
   slug: "tower-and-the-star-0007-the-wrong-kind-of-fast",
   title: "The Wrong Kind of Fast",
-  story: "tower-and-the-star",
+  story: "story-played/tower-and-the-star",
   position: 7,
   ownLength: 6453,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

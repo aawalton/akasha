@@ -5,9 +5,9 @@ export const theDungeonOfOneThousandDeaths0015TheCull = {
   type: "story-chapter-played",
   slug: "the-dungeon-of-one-thousand-deaths-0015-the-cull",
   title: "The Cull",
-  story: "the-dungeon-of-one-thousand-deaths",
+  story: "story-played/the-dungeon-of-one-thousand-deaths",
   position: 15,
   ownLength: 6070,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

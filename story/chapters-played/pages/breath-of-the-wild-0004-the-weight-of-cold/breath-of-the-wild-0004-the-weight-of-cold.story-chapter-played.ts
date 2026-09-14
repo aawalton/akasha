@@ -5,9 +5,9 @@ export const breathOfTheWild0004TheWeightOfCold = {
   type: "story-chapter-played",
   slug: "breath-of-the-wild-0004-the-weight-of-cold",
   title: "The Weight of Cold",
-  story: "breath-of-the-wild",
+  story: "story-played/breath-of-the-wild",
   position: 4,
   ownLength: 4464,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

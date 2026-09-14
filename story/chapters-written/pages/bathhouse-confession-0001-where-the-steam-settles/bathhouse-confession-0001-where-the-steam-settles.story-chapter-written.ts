@@ -5,9 +5,9 @@ export const bathhouseConfession0001WhereTheSteamSettles = {
   type: "story-chapter-written",
   slug: "bathhouse-confession-0001-where-the-steam-settles",
   title: "Where the Steam Settles",
-  story: "bathhouse-confession",
+  story: "story-written/bathhouse-confession",
   position: 1,
   ownLength: 4408,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterWritten

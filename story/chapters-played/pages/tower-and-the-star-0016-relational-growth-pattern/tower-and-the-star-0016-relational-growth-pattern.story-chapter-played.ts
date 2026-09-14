@@ -5,9 +5,9 @@ export const towerAndTheStar0016RelationalGrowthPattern = {
   type: "story-chapter-played",
   slug: "tower-and-the-star-0016-relational-growth-pattern",
   title: "Relational Growth Pattern",
-  story: "tower-and-the-star",
+  story: "story-played/tower-and-the-star",
   position: 16,
   ownLength: 4252,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

@@ -5,9 +5,9 @@ export const theDungeonOfOneThousandDeaths0008TheLens = {
   type: "story-chapter-played",
   slug: "the-dungeon-of-one-thousand-deaths-0008-the-lens",
   title: "The Lens",
-  story: "the-dungeon-of-one-thousand-deaths",
+  story: "story-played/the-dungeon-of-one-thousand-deaths",
   position: 8,
   ownLength: 4406,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

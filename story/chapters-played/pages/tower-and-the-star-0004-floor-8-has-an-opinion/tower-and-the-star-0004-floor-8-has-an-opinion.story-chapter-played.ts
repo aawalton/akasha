@@ -5,9 +5,9 @@ export const towerAndTheStar0004Floor8HasAnOpinion = {
   type: "story-chapter-played",
   slug: "tower-and-the-star-0004-floor-8-has-an-opinion",
   title: "Floor 8 Has an Opinion",
-  story: "tower-and-the-star",
+  story: "story-played/tower-and-the-star",
   position: 4,
   ownLength: 3595,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

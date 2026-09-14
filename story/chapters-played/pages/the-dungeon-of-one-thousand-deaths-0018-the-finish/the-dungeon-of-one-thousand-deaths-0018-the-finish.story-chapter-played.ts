@@ -5,9 +5,9 @@ export const theDungeonOfOneThousandDeaths0018TheFinish = {
   type: "story-chapter-played",
   slug: "the-dungeon-of-one-thousand-deaths-0018-the-finish",
   title: "The Finish",
-  story: "the-dungeon-of-one-thousand-deaths",
+  story: "story-played/the-dungeon-of-one-thousand-deaths",
   position: 18,
   ownLength: 4473,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

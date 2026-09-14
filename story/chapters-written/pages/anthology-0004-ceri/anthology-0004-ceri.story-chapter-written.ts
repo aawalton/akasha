@@ -5,9 +5,9 @@ export const anthology0004Ceri = {
   type: "story-chapter-written",
   slug: "anthology-0004-ceri",
   title: "Ceri",
-  story: "anthology",
+  story: "story-written/anthology",
   position: 4,
   ownLength: 3198,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterWritten

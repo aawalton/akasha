@@ -5,9 +5,9 @@ export const thePlacesSheCarries0004TheWrongBird = {
   type: "story-chapter-played",
   slug: "the-places-she-carries-0004-the-wrong-bird",
   title: "The Wrong Bird",
-  story: "the-places-she-carries",
+  story: "story-played/the-places-she-carries",
   position: 4,
   ownLength: 6126,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

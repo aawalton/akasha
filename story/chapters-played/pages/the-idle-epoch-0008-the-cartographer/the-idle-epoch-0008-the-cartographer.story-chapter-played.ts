@@ -5,9 +5,9 @@ export const theIdleEpoch0008TheCartographer = {
   type: "story-chapter-played",
   slug: "the-idle-epoch-0008-the-cartographer",
   title: "The Cartographer",
-  story: "the-idle-epoch",
+  story: "story-played/the-idle-epoch",
   position: 8,
   ownLength: 5470,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

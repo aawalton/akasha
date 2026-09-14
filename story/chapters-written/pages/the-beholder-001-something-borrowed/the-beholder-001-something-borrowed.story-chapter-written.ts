@@ -5,9 +5,9 @@ export const theBeholder001SomethingBorrowed = {
   type: "story-chapter-written",
   slug: "the-beholder-001-something-borrowed",
   title: "Something Borrowed",
-  story: "the-beholder",
+  story: "story-written/the-beholder",
   position: 1,
   ownLength: 2726,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterWritten

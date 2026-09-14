@@ -5,9 +5,9 @@ export const thePlacesSheCarries0015SouthSoutheast = {
   type: "story-chapter-played",
   slug: "the-places-she-carries-0015-south-southeast",
   title: "South-Southeast",
-  story: "the-places-she-carries",
+  story: "story-played/the-places-she-carries",
   position: 15,
   ownLength: 4420,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

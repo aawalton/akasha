@@ -5,9 +5,9 @@ export const anthology0002Aelwyn = {
   type: "story-chapter-written",
   slug: "anthology-0002-aelwyn",
   title: "Aelwyn",
-  story: "anthology",
+  story: "story-written/anthology",
   position: 2,
   ownLength: 4633,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterWritten

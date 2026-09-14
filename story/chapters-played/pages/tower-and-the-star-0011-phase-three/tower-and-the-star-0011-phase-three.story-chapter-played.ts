@@ -5,9 +5,9 @@ export const towerAndTheStar0011PhaseThree = {
   type: "story-chapter-played",
   slug: "tower-and-the-star-0011-phase-three",
   title: "Phase Three",
-  story: "tower-and-the-star",
+  story: "story-played/tower-and-the-star",
   position: 11,
   ownLength: 5193,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

@@ -5,9 +5,9 @@ export const thePlacesSheCarries0018WhatTheFireKeeps = {
   type: "story-chapter-played",
   slug: "the-places-she-carries-0018-what-the-fire-keeps",
   title: "What the Fire Keeps",
-  story: "the-places-she-carries",
+  story: "story-played/the-places-she-carries",
   position: 18,
   ownLength: 4751,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed
