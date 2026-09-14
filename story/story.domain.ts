@@ -9,7 +9,6 @@ export const story = {
     "domain/narrative-production",
     "domain/narrative-story-turn-promotion",
     "domain/story-engine",
-    "domain/tower",
     "domain/ui",
     "domain/wandering-inn",
     "domain/world-lore",
