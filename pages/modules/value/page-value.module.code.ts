@@ -66,12 +66,25 @@ export function declaredIn(body: string): Record<string, unknown> {
   throw new Error(MISREAD)
 }
 
-export function loadedFrom(body: string): Loaded {
+function loading(body: string): Loaded {
   try {
     return { value: firstValueIn(declaredIn(body)), failed: null }
   } catch (why) {
     return { value: null, failed: why instanceof Error ? why.message : String(why) }
   }
+}
+
+const KEPT = 4000
+
+const LOADED = new Map<string, Loaded>()
+
+export function loadedFrom(body: string): Loaded {
+  const held = LOADED.get(body)
+  if (held !== undefined) return held
+  const made = loading(body)
+  if (LOADED.size >= KEPT) LOADED.clear()
+  LOADED.set(body, made)
+  return made
 }
 
 export function valueIn(body: string): Value | null {

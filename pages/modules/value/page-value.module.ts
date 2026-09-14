@@ -80,5 +80,13 @@ export const pageValue = {
       invariantKind: "departure",
       statement: "A body compiled as another body's code is compiled again rather than answered.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A body loaded once is answered from what was loaded rather than loaded again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The bodies held that way are bounded, and the whole lot goes at the bound.",
+    },
   ],
 } as const satisfies Module

@@ -45,6 +45,12 @@ test("a body that will not load answers with no value rather than throwing", () 
   expect(valueIn("the new body")).toBe(null)
 })
 
+test("a body loaded once is answered from what was loaded rather than loaded again", () => {
+  const body = `export const it = { id: "${A}", slug: "held" } as const\n`
+
+  expect(loadedFrom(body)).toBe(loadedFrom(body))
+})
+
 test("a path that is a folder holds no page, and is not read as though it were a file", () => {
   const repo = scratch.rootFor("akasha-entries-folder-")
   mkdirSync(join(repo, "held"), { recursive: true })
