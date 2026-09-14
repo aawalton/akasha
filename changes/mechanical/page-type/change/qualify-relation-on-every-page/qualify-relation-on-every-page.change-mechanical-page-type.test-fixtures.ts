@@ -20,7 +20,7 @@ export const QUALIFYING = "change-mechanical-page-type/qualify-relation-on-every
 
 export const TYPE = "book-section"
 
-export const TARGET = "collection"
+const TARGET = "collection"
 
 export const ONE_KEY = "sectionOf"
 
@@ -38,7 +38,7 @@ export type Reached = {
   readonly id: string
 }
 
-export const SCRIPTURES: Reached = {
+const SCRIPTURES: Reached = {
   pageTypeSlug: "scripture-collection",
   slug: "scriptures",
   id: "01a09e00-0000-7000-8000-000000000001",

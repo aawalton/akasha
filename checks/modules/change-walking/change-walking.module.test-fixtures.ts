@@ -32,7 +32,7 @@ export const VENDORED_AT = "node_modules/held/held.module.uncommitted.ts"
 
 const IGNORING = "*.uncommitted.*\n*.d.ts\nnode_modules/\n"
 
-export const HELD_ID = "01a04bc4-0000-7000-8000-00000000000a"
+const HELD_ID = "01a04bc4-0000-7000-8000-00000000000a"
 
 export const PAGE_TYPE = "page-type"
 

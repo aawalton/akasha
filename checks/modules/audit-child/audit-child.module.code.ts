@@ -16,7 +16,7 @@ export async function judgedAlone(root: string, slug: string): Promise<readonly 
   return await judgingBy([one], AUDIT, root).over(everythingIn(root))
 }
 
-export async function answeredInto(root: string, slug: string, at: string): Promise<string> {
+async function answeredInto(root: string, slug: string, at: string): Promise<string> {
   writeFileSync(at, JSON.stringify(await judgedAlone(root, slug)), "utf8")
   return at
 }

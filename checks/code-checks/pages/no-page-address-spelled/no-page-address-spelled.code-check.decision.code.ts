@@ -30,7 +30,7 @@ export type Named = {
   readonly slug: string
 }
 
-export function judgedAt(judging: Judging, path: string): boolean {
+function judgedAt(judging: Judging, path: string): boolean {
   if (pageNamed(path, judging.pageTypes)) return false
   if (uncommittedHeld(path)) return false
   return !judging.generated(path)
