@@ -11,11 +11,11 @@ export const supabaseRealtime = {
   generatedDirectory: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The pod template carries the hash of the realtime-secrets secret.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The keys hashed are API_JWT_SECRET, DATABASE_URL, DB_ENC_KEY, METRICS_JWT_SECRET, SECRET_KEY_BASE.",
     },

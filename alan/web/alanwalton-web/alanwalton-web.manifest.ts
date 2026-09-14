@@ -9,11 +9,11 @@ export const alanwaltonWeb = {
   generatedDirectory: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The pod template carries the hash of the alanwalton-s3-creds secret.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The keys hashed from the alanwalton-s3-creds secret are access_key and secret_key.",
     },

@@ -9,11 +9,11 @@ export const postgrest = {
   generatedDirectory: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The pod template carries the hash of the postgrest-secrets secret.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The keys hashed from the postgrest-secrets secret are DATABASE_URL and PGRST_JWT_SECRET.",
     },

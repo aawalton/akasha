@@ -9,7 +9,7 @@ export const buildkit = {
   generatedDirectory: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The pod template carries the hash of the buildkit-config configmap.",
     },
   ],

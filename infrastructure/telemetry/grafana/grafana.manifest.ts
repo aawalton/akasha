@@ -11,15 +11,15 @@ export const grafana = {
   parts: ["dashboard/database", "dashboard/pods", "dashboard/resources"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The pod template carries the hash of the grafana-secrets secret.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The keys hashed from it are GRAFANA_ADMIN_PASSWORD and GRAFANA_DB_RO_PASSWORD.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The pod template carries the hash of the grafana-datasources and grafana-dashboards configmaps.",
     },

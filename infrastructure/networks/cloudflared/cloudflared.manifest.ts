@@ -10,15 +10,15 @@ export const cloudflared = {
   generatedDirectory: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The pod template carries the hash of the cloudflared-creds secret.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The key hashed from the cloudflared-creds secret is credentials.json.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The pod template carries the hash of the cloudflared-config configmap.",
     },
   ],

@@ -8,21 +8,21 @@ export const clusterReachSynth = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One account is what every program off the cluster reaches the API as.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The account is allowed each action the code reaching the API asks of it, and no other.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The token this account is reached by is minted on the workstation and kept out of the repository.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An account this names that the cluster does not hold answers every read 401.",
     },
   ],

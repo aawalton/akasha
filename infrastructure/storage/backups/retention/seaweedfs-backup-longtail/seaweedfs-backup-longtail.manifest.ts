@@ -9,7 +9,7 @@ export const seaweedfsBackupLongtail = {
   generatedDirectory: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Where the longtail copier's code sits is asked of the index rather than spelled.",
     },
   ],

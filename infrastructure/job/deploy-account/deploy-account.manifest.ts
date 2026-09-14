@@ -8,15 +8,15 @@ export const deployAccount = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The deploy job runs as this account.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This account sits in the namespace the deploy job runs in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This account is allowed every action on every object the cluster holds.",
     },
   ],
