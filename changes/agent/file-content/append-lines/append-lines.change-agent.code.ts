@@ -1,3 +1,4 @@
+import { appendLines } from "akasha/changes/mechanical/file-content/append/append-lines/append-lines.change-mechanical-file-content.ts"
 import { missing, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
@@ -6,7 +7,7 @@ const AT = "at"
 
 const CONTENT = "content"
 
-const APPEND_LINES = "change-mechanical-file-content/append-lines"
+const APPEND_LINES = `${appendLines.type}/${appendLines.slug}` as const
 
 export type Asked = Readonly<Record<string, string>>
 
