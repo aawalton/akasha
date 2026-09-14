@@ -7,7 +7,6 @@ export const changeMechanicalFileContentRemove = {
   definition: "a mechanical change taking part of what a file holds away",
   parts: [
     "change-mechanical-file-content/remove-export-keyword",
-    "change-mechanical-file-content/remove-manifest-ways",
     "change-mechanical-file-content/remove-property-record",
     "change-mechanical-file-content/remove-property-value",
     "change-mechanical-file-content/remove-type-member",

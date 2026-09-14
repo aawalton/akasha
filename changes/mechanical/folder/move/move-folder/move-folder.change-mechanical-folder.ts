@@ -89,30 +89,6 @@ export const moveFolder = {
     },
     {
       invariantKind: "departure",
-      statement: "A manifest naming a path that moved names the path that path landed at.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Which manifests are read is answered by the index rather than by the tree.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The manifests read are the ones the world before the move names.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A manifest carried with the folder is left to the ways in that manifest spells.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A way in keeps its key and takes the path that key's file landed at.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A key is the caller's entrance rather than the file's place.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A body the move writes still naming that folder refuses the move.",
     },
     {

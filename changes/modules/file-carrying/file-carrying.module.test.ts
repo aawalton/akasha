@@ -2,20 +2,14 @@ import { afterAll, expect, test } from "bun:test"
 import {
   carriedBy,
   importersOf,
-  manifestsAnew,
   movesOf,
   repointedOver,
 } from "akasha/changes/modules/file-carrying/file-carrying.module.code.ts"
-import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { worldAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { repoWorld } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
   HELD_CODE,
-  indexedRepo,
   NAMER_CODE,
-  put,
   scratch,
-  textIn,
 } from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
@@ -23,23 +17,6 @@ afterAll(scratch.sweep)
 const LANDS = "akasha/one/kept.module.code.ts"
 
 const MOVED = new Map([[HELD_CODE, LANDS]])
-
-const MANIFEST = "akasha/package.json"
-
-const MANIFEST_BODY = `{
-  "name": "@akasha/one",
-  "exports": {
-    "./held": "./one/held.module.code.ts"
-  }
-}
-`
-
-function worldNaming(): World {
-  const root = indexedRepo()
-  put(root, MANIFEST, MANIFEST_BODY)
-  const world = worldAt(root, textIn(root))
-  return { ...world, index: { ...world.index, manifestsBeside: () => [MANIFEST] } }
-}
 
 test("every file that moves is answered as one move", () => {
   expect(movesOf(MOVED)).toEqual([{ kind: "move", pathFrom: HELD_CODE, pathTo: LANDS }])
@@ -63,25 +40,7 @@ test("a body naming what moved names the path that file landed at", () => {
   ])
 })
 
-test("a manifest naming a file that moved as a way in states where that file landed", () => {
-  const said = manifestsAnew(worldNaming(), MOVED)
-  if (typeof said === "string") throw new Error(said)
-
-  expect(said).toEqual([
-    {
-      kind: "replace",
-      path: MANIFEST,
-      contentFrom: '    "./held": "./one/held.module.code.ts"',
-      contentTo: '    "./held": "./one/kept.module.code.ts"',
-    },
-  ])
-})
-
-test("a world with no manifest has no way in restated", () => {
-  expect(manifestsAnew(repoWorld(), MOVED)).toEqual([])
-})
-
-test("a whole carry answers the moves, then the repointing, then the ways in", () => {
+test("a whole carry answers the moves, then the repointing", () => {
   const said = carriedBy(repoWorld(), MOVED)
   if (typeof said === "string") throw new Error(said)
 

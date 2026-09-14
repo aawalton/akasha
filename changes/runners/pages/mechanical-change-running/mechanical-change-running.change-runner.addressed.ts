@@ -44,9 +44,6 @@ export type Changes = {
   "change-mechanical-file-content/remove-export-keyword": Parameters<
     typeof import("akasha/changes/mechanical/file-content/remove/remove-export-keyword/remove-export-keyword.change-mechanical-file-content.code.ts")["runChange"]
   >[1]
-  "change-mechanical-file-content/remove-manifest-ways": Parameters<
-    typeof import("akasha/changes/mechanical/file-content/remove/remove-manifest-ways/remove-manifest-ways.change-mechanical-file-content.code.ts")["runChange"]
-  >[1]
   "change-mechanical-file-content/remove-property-record": Parameters<
     typeof import("akasha/changes/mechanical/file-content/remove/remove-property-record/remove-property-record.change-mechanical-file-content.code.ts")["runChange"]
   >[1]

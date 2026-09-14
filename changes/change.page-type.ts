@@ -29,7 +29,6 @@ export const change = {
     "module/json-entries",
     "module/key-requiring",
     "module/literal-splicing",
-    "module/manifest-ways",
     "module/package-naming",
     "module/page-claiming",
     "module/page-knowing",

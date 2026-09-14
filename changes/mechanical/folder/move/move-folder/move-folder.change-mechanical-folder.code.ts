@@ -1,21 +1,15 @@
-import { dirname, join, relative } from "node:path"
-import {
-  refusing,
-  replayed,
-  stating,
-} from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import { join, relative } from "node:path"
+import { refusing, stating } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type {
   Answer,
   FileChange,
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { repointed } from "akasha/changes/modules/import-repointing/import-repointing.module.code.ts"
-import { renameManifestWays } from "akasha/changes/modules/manifest-ways/manifest-ways.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   EVERY_KIND,
   pathsNaming,
 } from "akasha/changes/modules/tree-searching/tree-searching.module.code.ts"
-import { reachesIn } from "akasha/code/workspaces/modules/package-manifest/package-manifest.module.code.ts"
 import {
   namesFor,
   spellersIn,
@@ -78,27 +72,6 @@ function namingFolder(
   return spellersIn(found, searchable(world), folder, known)
 }
 
-type Text = (path: string) => string | null
-
-function waysNaming(textAt: Text, at: string, moved: ReadonlyMap<string, string>): boolean {
-  const held = textAt(at)
-  if (held === null) return false
-  for (const one of reachesIn(dirname(at), held).values()) {
-    if (moved.has(one)) return true
-  }
-  return false
-}
-
-function textOver(world: World, edits: readonly FileChange[]): Text | string {
-  const held = replayed(stating(edits), world.bodyOf)
-  if ("refused" in held) return held.refused
-  return (path) => {
-    if (!held.has(path)) return world.textOf(path)
-    const one = held.get(path) ?? null
-    return typeof one === "string" ? one : null
-  }
-}
-
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (given.from === given.to) {
     return refusing(`\`${given.to}\` is the folder those files sit under`)
@@ -132,8 +105,6 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if ("refused" in said) return refusing(said.refused)
   const moved = said.moved
   const carried = { from: given.from, to: given.to }
-  const ways = Object.fromEntries(moved)
-  const manifests = world.index.manifestsBeside(world.index.fileKeysAt())
   const edits: FileChange[] = []
   for (const [one, next] of moved) {
     edits.push({ kind: "move", pathFrom: one, pathTo: next })
@@ -147,14 +118,6 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (typeof spellers === "string") return refusing(spellers)
   for (const path of spellers) {
     const answer = repointed(world, { was: path, now: path, carried })
-    if (answer.refused !== null) return answer
-    edits.push(...answer.edits)
-  }
-  const textAt = textOver(world, edits)
-  if (typeof textAt === "string") return refusing(textAt)
-  for (const at of manifests) {
-    if (moved.has(at) || !waysNaming(textAt, at, moved)) continue
-    const answer = renameManifestWays({ at, moved: ways }, textAt)
     if (answer.refused !== null) return answer
     edits.push(...answer.edits)
   }

@@ -53,17 +53,7 @@ const UNDER: readonly string[] = Object.keys(HELD)
   .filter((one) => one.startsWith(`${FROM}/`))
   .sort()
 
-const MANIFEST = "akasha/package.json"
-
 const NOT_TEXT = "akasha/five/weights.onnx"
-
-const MANIFEST_BODY = `{
-  "name": "@akasha/four",
-  "exports": {
-    "./gamma": "./four/deep/gamma.module.code.ts"
-  }
-}
-`
 
 function worldOn(root: string, read: (path: string) => string | null): World {
   return worldAt(root, read)
@@ -80,18 +70,6 @@ function worldUnreadable(root: string): World {
     return read(path)
   })
   return { ...world, index: { ...world.index, everyPath: () => [NOT_TEXT] } }
-}
-
-function worldNaming(root: string): World {
-  const world = worldIn(root)
-  return {
-    ...world,
-    index: {
-      ...world.index,
-      everyPath: () => [MANIFEST],
-      fileKeysAt: () => new Map([["manifest", "package.json"]]),
-    },
-  }
 }
 
 test("every file under the folder lands beneath the folder it moved to", async () => {
@@ -127,28 +105,6 @@ test("a body outside the folder naming a path that moved is repointed", async ()
   expect(bodiesIn(said, world.base).get(OUTER_CODE) ?? "").toContain(
     "../six/deep/gamma.module.code.ts"
   )
-})
-
-test("a manifest naming a path that moved names the path that path landed at", async () => {
-  const root = indexedRepo(HELD)
-  put(root, MANIFEST, MANIFEST_BODY)
-  const world = worldNaming(root)
-  const said = await runChange(world, { from: FROM, to: INTO })
-
-  expect(said.refused).toBeNull()
-  expect(bodiesIn(said, world.base).get(MANIFEST) ?? "").toContain(
-    '"./gamma": "./six/deep/gamma.module.code.ts"'
-  )
-})
-
-test("a manifest naming no path that moved is left as that manifest is", async () => {
-  const root = indexedRepo(HELD)
-  put(root, MANIFEST, MANIFEST_BODY)
-  const world = worldNaming(root)
-  const said = await runChange(world, { from: "akasha/five", to: "akasha/seven" })
-
-  expect(said.refused).toBeNull()
-  expect(bodiesIn(said, world.base).has(MANIFEST)).toBe(false)
 })
 
 test("a body that is not text is searched for no name", async () => {

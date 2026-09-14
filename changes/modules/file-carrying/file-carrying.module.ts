@@ -43,19 +43,7 @@ export const fileCarrying = {
     },
     {
       invariantKind: "departure",
-      statement: "A manifest naming a file that moved as a way in states where that file landed.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The manifests are read once for the whole carry rather than once for a file.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A manifest that moved is moved by the caller rather than here.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A whole carry answers the moves, then the repointing, then the ways in.",
+      statement: "A whole carry answers the moves, then the repointing.",
     },
     {
       invariantKind: "absence",
