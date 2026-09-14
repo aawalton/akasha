@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { base64urlToBytes } from "akasha/temper/build-hash/modules/build-hash-base64url/build-hash-base64url.module.code.ts"
-import { stampedWith } from "akasha/temper/build-hash/modules/build-hash-test-utils/build-hash-test-utils.module.code.ts"
+import { stampedWith } from "akasha/temper/build-hash/test-fixtures/build-hash-test-utils/build-hash-test-utils.test-fixture.code.ts"
 import {
   decodeCompanion,
   ESO_VERSION_48,

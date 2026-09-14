@@ -1,13 +1,13 @@
 import { describe, expect, test } from "bun:test"
 import type { ClassifiedInventoryItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
-import { makeContext } from "akasha/temper/items-rules-core/modules/inventory-rule-test-utils/inventory-rule-test-utils.module.code.ts"
 import {
   ALL_CATEGORIES_ID,
   type CategoryRule,
   IMPLICIT_TERMINAL_RULE_ID,
 } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { compile } from "akasha/temper/items-rules-matcher/modules/compile-rules/compile-rules.module.code.ts"
+import { makeContext } from "akasha/temper/items-rules-core/test-fixtures/inventory-rule-test-utils/inventory-rule-test-utils.test-fixture.code.ts"
 import { computeAllRuleAffectedItems } from "akasha/temper/items-rules-matcher/modules/inventory-rule-matcher/inventory-rule-matcher.module.code.ts"
+import { compile } from "akasha/temper/items-rules-matcher/test-fixtures/compile-rules/compile-rules.test-fixture.code.ts"
 import {
   ELIGIBLE_CHAR_COUNT_ARB,
   recipeCI,

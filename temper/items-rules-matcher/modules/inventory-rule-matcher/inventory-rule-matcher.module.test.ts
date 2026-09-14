@@ -4,8 +4,8 @@ import {
   IMPLICIT_TERMINAL_RULE_ID,
   type ItemRule,
 } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { compile } from "akasha/temper/items-rules-matcher/modules/compile-rules/compile-rules.module.code.ts"
 import { computeAllRuleAffectedItems } from "akasha/temper/items-rules-matcher/modules/inventory-rule-matcher/inventory-rule-matcher.module.code.ts"
+import { compile } from "akasha/temper/items-rules-matcher/test-fixtures/compile-rules/compile-rules.test-fixture.code.ts"
 import {
   activeClaimsByItem,
   CATEGORY_RULE_LIST_ARB,

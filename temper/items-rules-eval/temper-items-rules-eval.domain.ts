@@ -11,7 +11,7 @@ export const temperItemsRulesEval = {
     "module/category-match",
     "module/check-classification",
     "module/check-container",
-    "module/check-container-fixtures",
+    "test-fixture/check-container-fixtures",
     "module/check-cross-character-craft",
     "module/check-equip-target",
     "module/check-flags",

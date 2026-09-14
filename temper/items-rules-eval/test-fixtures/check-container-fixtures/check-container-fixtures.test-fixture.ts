@@ -1,8 +1,8 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { TestFixture } from "akasha/testing-system/test-fixtures/test-fixture.page-type.types.ts"
 
 export const checkContainerFixtures = {
   id: "01a06137-f963-75d4-b14c-bdaa8c6693a8",
-  type: "module",
+  type: "test-fixture",
   slug: "check-container-fixtures",
   definition: "the stub environment the container condition tests are built from",
   code: "ts",
@@ -20,4 +20,4 @@ export const checkContainerFixtures = {
       statement: "The stub context has no claim map and no stock groups.",
     },
   ],
-} as const satisfies Module
+} as const satisfies TestFixture
