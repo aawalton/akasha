@@ -8,9 +8,10 @@ import {
   saidOfNoRecord,
   saidOfNoRefusal,
 } from "akasha/commands/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
-import type {
-  Fetcher,
-  Sleeper,
+import {
+  ASK_AT,
+  type Fetcher,
+  type Sleeper,
 } from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
 
 const AT = "infrastructure/services/clusters/pages/one/one.service-cluster.ts"
@@ -21,16 +22,25 @@ const AUTHORED = /^[^<>]+ <[^<>@\s]+@[^<>\s]+>$/
 
 const neverNaps: Sleeper = () => Promise.resolve()
 
-function answering(
-  body: unknown,
-  status: number = 200
-): { readonly fetcher: Fetcher; readonly sent: () => string } {
+type Answering = {
+  readonly fetcher: Fetcher
+  readonly asked: () => string
+  readonly sent: () => string
+}
+
+function answering(body: unknown, status: number = 200, rows: readonly unknown[] = []): Answering {
+  let asked = ""
   let sent = ""
   return {
-    fetcher: (_url, init) => {
+    fetcher: (url, init) => {
+      if (url.endsWith(ASK_AT)) {
+        asked = String(init.body)
+        return Promise.resolve(new Response(JSON.stringify({ rows, n: rows.length })))
+      }
       sent = String(init.body)
       return Promise.resolve(new Response(JSON.stringify(body), { status }))
     },
+    asked: () => asked,
     sent: () => sent,
   }
 }
@@ -39,12 +49,22 @@ test("the commit put up and the commit refused are kept under two keys", () => {
   expect(DEPLOYED_COMMIT).not.toBe(REFUSED_COMMIT)
 })
 
-test("a page keeping nothing beside it is read as no commit", () => {
-  expect(commitKeptIn(".", AT, DEPLOYED_COMMIT)).toBeNull()
+test("a page the pages answer no row for is read as no commit", async () => {
+  const held = answering(null)
+  expect(await commitKeptIn(AT, DEPLOYED_COMMIT, held.fetcher, neverNaps)).toBeNull()
 })
 
-test("the commit a deploy recorded is the one kept under the deployed key", () => {
-  expect(commitRecordedIn(".", AT)).toBe(commitKeptIn(".", AT, DEPLOYED_COMMIT))
+test("the commit is asked of the pages under the page type and slug the path names", async () => {
+  const held = answering(null, 200, [{ slug: "one", [DEPLOYED_COMMIT]: COMMIT }])
+  expect(await commitKeptIn(AT, DEPLOYED_COMMIT, held.fetcher, neverNaps)).toBe(COMMIT)
+  const asked = JSON.parse(held.asked())
+  expect(asked.pageTypeSlug).toBe("service-cluster")
+  expect(asked.where.slug.is).toBe("one")
+})
+
+test("the commit a deploy recorded is the one kept under the deployed key", async () => {
+  const held = answering(null, 200, [{ slug: "one", [DEPLOYED_COMMIT]: COMMIT }])
+  expect(await commitRecordedIn(AT, held.fetcher, neverNaps)).toBe(COMMIT)
 })
 
 test("a write that failed is said back with the commit and what went wrong", () => {
@@ -61,7 +81,7 @@ test("a refusal that was not kept is said back as a commit that would be tried a
 
 test("the commit is kept by a write handed to the pages rather than by writing the tree", async () => {
   const held = answering({ commit: null, wrote: [AT], took: [] })
-  const wrong = await recordedCommit(".", "one", AT, COMMIT, held.fetcher, neverNaps)
+  const wrong = await recordedCommit("one", AT, COMMIT, held.fetcher, neverNaps)
   expect(wrong).toEqual([])
   const body = JSON.parse(held.sent())
   expect(body.kept).toEqual([{ path: AT, values: { [DEPLOYED_COMMIT]: COMMIT } }])
@@ -69,9 +89,17 @@ test("the commit is kept by a write handed to the pages rather than by writing t
   expect(body.message).toContain(DEPLOYED_COMMIT)
 })
 
+test("a page the pages already answer that commit for is written to by nothing", async () => {
+  const held = answering({ commit: null, wrote: [AT], took: [] }, 200, [
+    { slug: "one", [DEPLOYED_COMMIT]: COMMIT },
+  ])
+  expect(await recordedCommit("one", AT, COMMIT, held.fetcher, neverNaps)).toEqual([])
+  expect(held.sent()).toBe("")
+})
+
 test("a write the pages refuse is answered as what went wrong rather than thrown", async () => {
   const held = answering({ refused: "the pages would not write" }, 400)
-  const wrong = await recordedCommit(".", "one", AT, COMMIT, held.fetcher, neverNaps)
+  const wrong = await recordedCommit("one", AT, COMMIT, held.fetcher, neverNaps)
   expect(wrong[0]).toContain("the pages would not write")
   expect(wrong[0]).toContain(COMMIT)
 })

@@ -1,7 +1,8 @@
 import { authorIn } from "akasha/commands/modules/commit-author/commit-author.module.code.ts"
-import { uncommittedIn } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
+import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import {
+  askingFor,
   type Fetcher,
   type Sleeper,
   writingFor,
@@ -15,13 +16,30 @@ const DEPLOY_ENDED_AT = "deployEndedAt"
 
 const DEPLOY_REFUSED_AT = "deployRefusedAt"
 
-export function commitKeptIn(root: string, pagePath: string, key: string): string | null {
-  const kept = uncommittedIn(root, pagePath)
-  return kept === null ? null : textAt(kept, key)
+export async function commitKeptIn(
+  pagePath: string,
+  key: string,
+  fetcher?: Fetcher,
+  naps?: Sleeper
+): Promise<string | null> {
+  const named = partedIn(pagePath)
+  if (named === null) return null
+  const asked = await askingFor(
+    { pageTypeSlug: named.pageType, where: { slug: { is: named.slug } } },
+    fetcher,
+    naps
+  )
+  if ("refused" in asked) return null
+  const kept = asked.rows[0]
+  return kept === undefined ? null : textAt({ ...kept }, key)
 }
 
-export function commitRecordedIn(root: string, pagePath: string): string | null {
-  return commitKeptIn(root, pagePath, DEPLOYED_COMMIT)
+export async function commitRecordedIn(
+  pagePath: string,
+  fetcher?: Fetcher,
+  naps?: Sleeper
+): Promise<string | null> {
+  return await commitKeptIn(pagePath, DEPLOYED_COMMIT, fetcher, naps)
 }
 
 export function saidOfNoRecord(slug: string, commit: string, wrong: readonly string[]): string {
@@ -33,14 +51,13 @@ export function saidOfNoRefusal(slug: string, commit: string, wrong: readonly st
 }
 
 async function wroteUnder(
-  root: string,
   pagePath: string,
   key: string,
   commit: string,
   fetcher?: Fetcher,
   naps?: Sleeper
 ): Promise<readonly string[]> {
-  if (commitKeptIn(root, pagePath, key) === commit) return []
+  if ((await commitKeptIn(pagePath, key, fetcher, naps)) === commit) return []
   const wrote = await writingFor(
     {
       writer: authorIn(),
@@ -53,19 +70,32 @@ async function wroteUnder(
   return "refused" in wrote ? [wrote.refused] : []
 }
 
-function momentIn(root: string, pagePath: string, key: string): number | null {
-  const said = commitKeptIn(root, pagePath, key)
+async function momentIn(
+  pagePath: string,
+  key: string,
+  fetcher?: Fetcher,
+  naps?: Sleeper
+): Promise<number | null> {
+  const said = await commitKeptIn(pagePath, key, fetcher, naps)
   if (said === null) return null
   const at = Date.parse(said)
   return Number.isFinite(at) ? at : null
 }
 
-export function endedIn(root: string, pagePath: string): number | null {
-  return momentIn(root, pagePath, DEPLOY_ENDED_AT)
+export async function endedIn(
+  pagePath: string,
+  fetcher?: Fetcher,
+  naps?: Sleeper
+): Promise<number | null> {
+  return await momentIn(pagePath, DEPLOY_ENDED_AT, fetcher, naps)
 }
 
-export function refusedAtIn(root: string, pagePath: string): number | null {
-  return momentIn(root, pagePath, DEPLOY_REFUSED_AT)
+export async function refusedAtIn(
+  pagePath: string,
+  fetcher?: Fetcher,
+  naps?: Sleeper
+): Promise<number | null> {
+  return await momentIn(pagePath, DEPLOY_REFUSED_AT, fetcher, naps)
 }
 
 function saidOfNoEnding(slug: string, wrong: readonly string[]): string {
@@ -73,7 +103,6 @@ function saidOfNoEnding(slug: string, wrong: readonly string[]): string {
 }
 
 export async function recordedEnding(
-  root: string,
   slug: string,
   pagePath: string,
   refused: boolean = false,
@@ -83,32 +112,30 @@ export async function recordedEnding(
 ): Promise<readonly string[]> {
   const said = at.toISOString()
   const wrong = [
-    ...(await wroteUnder(root, pagePath, DEPLOY_ENDED_AT, said, fetcher, naps)),
-    ...(refused ? await wroteUnder(root, pagePath, DEPLOY_REFUSED_AT, said, fetcher, naps) : []),
+    ...(await wroteUnder(pagePath, DEPLOY_ENDED_AT, said, fetcher, naps)),
+    ...(refused ? await wroteUnder(pagePath, DEPLOY_REFUSED_AT, said, fetcher, naps) : []),
   ]
   return wrong.length === 0 ? [] : [saidOfNoEnding(slug, wrong)]
 }
 
 export async function recordedCommit(
-  root: string,
   slug: string,
   pagePath: string,
   commit: string,
   fetcher?: Fetcher,
   naps?: Sleeper
 ): Promise<readonly string[]> {
-  const wrong = await wroteUnder(root, pagePath, DEPLOYED_COMMIT, commit, fetcher, naps)
+  const wrong = await wroteUnder(pagePath, DEPLOYED_COMMIT, commit, fetcher, naps)
   return wrong.length === 0 ? [] : [saidOfNoRecord(slug, commit, wrong)]
 }
 
 export async function recordedRefusal(
-  root: string,
   slug: string,
   pagePath: string,
   commit: string,
   fetcher?: Fetcher,
   naps?: Sleeper
 ): Promise<readonly string[]> {
-  const wrong = await wroteUnder(root, pagePath, REFUSED_COMMIT, commit, fetcher, naps)
+  const wrong = await wroteUnder(pagePath, REFUSED_COMMIT, commit, fetcher, naps)
   return wrong.length === 0 ? [] : [saidOfNoRefusal(slug, commit, wrong)]
 }

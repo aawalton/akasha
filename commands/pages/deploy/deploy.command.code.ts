@@ -273,7 +273,7 @@ async function deployHeld(
   if (commit === null) return refused(saidOfNoCommit(wanted.ref ?? AT_HEAD), INPUT)
   const closures = read.every === true ? closuresOf(given.root, read.kind, commit) : null
   const built = closures === null ? closureFor(given.root, slug, read, commit) : unionOf(closures)
-  const was = sinceCommit(given.root, commitRecordedIn(given.root, read.pagePath))
+  const was = sinceCommit(given.root, await commitRecordedIn(read.pagePath, recording))
   const moved = was === null ? null : changedBetween(given.root, was, commit)
   const restarting = closures === null ? null : touchedIn(closures, moved)
   const proving =
@@ -290,8 +290,8 @@ async function deployHeld(
     dry
       ? []
       : [
-          ...(await recordedRefusal(given.root, slug, read.pagePath, commit, recording)),
-          ...(await recordedEnding(given.root, slug, read.pagePath, true, new Date(), recording)),
+          ...(await recordedRefusal(slug, read.pagePath, commit, recording)),
+          ...(await recordedEnding(slug, read.pagePath, true, new Date(), recording)),
         ]
   if (unjudged.length > 0) {
     return answeredWith([`commit\t${commit}`], [...unjudged, ...(await noting())], DATA)
@@ -320,8 +320,8 @@ async function deployHeld(
   }
   if (dry) return answeredWith(lines, answer.refusals, answer.code)
   const wrong = [
-    ...(await recordedCommit(given.root, slug, read.pagePath, commit, recording)),
-    ...(await recordedEnding(given.root, slug, read.pagePath, false, new Date(), recording)),
+    ...(await recordedCommit(slug, read.pagePath, commit, recording)),
+    ...(await recordedEnding(slug, read.pagePath, false, new Date(), recording)),
   ]
   if (wrong.length > 0) return answeredWith(lines, wrong, OPERATIONAL)
   return told([...lines, `recorded\t${slug}\t${commit}`])

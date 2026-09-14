@@ -20,12 +20,11 @@ import { committed, given } from "akasha/commands/pages/deploy/deploy.command.te
 import { commitAt } from "akasha/commands/pages/deploy/modules/commit-naming/deploy-commit-naming.module.code.ts"
 import { DEPLOYED_COMMIT } from "akasha/commands/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
 import { IN_CLUSTER } from "akasha/infrastructure/job/modules/deploy-job/deploy-job.module.code.ts"
+import { seededWorld } from "akasha/infrastructure/services/clusters/modules/web-app-reading/web-app-reading.module.test-fixtures.ts"
 import {
-  seededWorld,
-  WEB_APPS_AT,
-} from "akasha/infrastructure/services/clusters/modules/web-app-reading/web-app-reading.module.test-fixtures.ts"
-import { mergeUncommitted } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
-import type { Fetcher } from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
+  ASK_AT,
+  type Fetcher,
+} from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
 
 const WORLD = seededWorld()
 
@@ -53,23 +52,34 @@ const HERE = given(committed(WORLD.root))
 
 const NO_WAIT: Waiting = async () => await Promise.resolve(undefined)
 
-const KEPT: Fetcher = () =>
-  Promise.resolve(new Response(JSON.stringify({ commit: null, wrote: [], took: [] })))
+function keptAt(commit: string | null = null): Fetcher {
+  return (url) => {
+    if (url.endsWith(ASK_AT)) {
+      const rows = commit === null ? [] : [{ [DEPLOYED_COMMIT]: commit }]
+      return Promise.resolve(new Response(JSON.stringify({ rows, n: rows.length })))
+    }
+    return Promise.resolve(new Response(JSON.stringify({ commit: null, wrote: [], took: [] })))
+  }
+}
+
+const KEPT: Fetcher = keptAt()
 
 const NO_JOB: Dispatching = () => {
   throw new Error("a job went up in the cluster")
 }
 
 const deploy = async (...said: Parameters<typeof deploying>) =>
-  await deploying(said[0], said[1], said[2], NO_WAIT, KEPT, said[5] ?? NO_JOB)
+  await deploying(said[0], said[1], said[2], NO_WAIT, said[4] ?? KEPT, said[5] ?? NO_JOB)
 
-function pastTheChecks(): { readonly root: string; readonly commit: string } {
+function pastTheChecks(): {
+  readonly root: string
+  readonly commit: string
+  readonly kept: Fetcher
+} {
   const world = seededWorld()
   const root = committed(world.root)
   const commit = commitAt(root, null) as string
-  const at = `${WEB_APPS_AT}/one-web.web-app.ts`
-  mergeUncommitted(root, at, { [DEPLOYED_COMMIT]: commit })
-  return { root, commit }
+  return { root, commit, kept: keptAt(commit) }
 }
 
 test("a call naming no app is refused as the caller's fault", async () => {
@@ -176,7 +186,7 @@ test("a call naming no commit answers no commit rather than a fixed one", async 
     seen.push(wanted)
     return await Promise.resolve({ report: [], refusals: [], code: OK })
   }
-  await deploy(["one-web", "--dry-run"], given(world.root), putting)
+  await deploy(["one-web", "--dry-run"], given(world.root), putting, NO_WAIT, world.kept)
   expect(seen[0]?.ref).toBeNull()
   expect(seen[0]?.dryRun).toBe(true)
 })
@@ -218,7 +228,7 @@ test("a deploy that threw part way names in its refusal what it had put up", asy
     up.push(`${world.commit}, pushed to origin main`)
     throw new Error("kubectl apply was killed")
   }
-  const answer = await deploy(["one-web"], given(world.root), putting)
+  const answer = await deploy(["one-web"], given(world.root), putting, NO_WAIT, world.kept)
   expect(answer.code).toBe(3)
   expect(answer.refusals[0]).toContain("kubectl apply was killed")
   expect(answer.refusals[1]).toContain(IMAGE)
@@ -236,7 +246,7 @@ test("a deploy refused without a throw names in its refusal what it had put up",
       code: OPERATIONAL,
     })
   }
-  const answer = await deploy(["one-web"], given(world.root), putting)
+  const answer = await deploy(["one-web"], given(world.root), putting, NO_WAIT, world.kept)
   expect(answer.refusals[0]).toContain("kubectl apply exited 1")
   expect(answer.refusals[1]).toContain(IMAGE)
 })
@@ -249,7 +259,7 @@ test("a deploy refused with nothing put up says nothing about what it put up", a
       refusals: ["the recipe names no repository"],
       code: DATA,
     })
-  const answer = await deploy(["one-web"], given(world.root), putting)
+  const answer = await deploy(["one-web"], given(world.root), putting, NO_WAIT, world.kept)
   expect(answer.refusals.some((one) => one.includes("stopped part way"))).toBe(false)
 })
 
@@ -258,7 +268,7 @@ test("a deploy that threw before anything reached a machine says that rather tha
   const putting: PuttingUp = () => {
     throw new Error("the pinned tree would not open")
   }
-  const answer = await deploy(["one-web"], given(world.root), putting)
+  const answer = await deploy(["one-web"], given(world.root), putting, NO_WAIT, world.kept)
   expect(answer.code).toBe(3)
   expect(answer.refusals[1]).toContain("nothing it puts up had reached a machine")
   expect(answer.refusals[1]).not.toContain("may be")
@@ -321,7 +331,14 @@ test("a dry run is put up from the workstation rather than sent to the cluster",
   }
   const answer = await offTheCluster(
     async () =>
-      await deploy(["one-web", "--dry-run"], given(world.root), putting, NO_WAIT, KEPT, NO_JOB)
+      await deploy(
+        ["one-web", "--dry-run"],
+        given(world.root),
+        putting,
+        NO_WAIT,
+        world.kept,
+        NO_JOB
+      )
   )
   expect(answer.code).toBe(OK)
   expect(seen[0]?.dryRun).toBe(true)
@@ -331,7 +348,7 @@ test("a deploy that is the run in the cluster puts up there rather than sending 
   const world = pastTheChecks()
   const putting: PuttingUp = async () =>
     await Promise.resolve({ report: ["up\tone-web"], refusals: [], code: OK })
-  const answer = await deploy(["one-web"], given(world.root), putting, NO_WAIT, KEPT, NO_JOB)
+  const answer = await deploy(["one-web"], given(world.root), putting, NO_WAIT, world.kept, NO_JOB)
   expect(answer.code).toBe(OK)
   expect(answer.report).toContain("up\tone-web")
 })

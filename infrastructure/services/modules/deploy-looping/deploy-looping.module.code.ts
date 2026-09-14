@@ -121,8 +121,8 @@ export async function endingKept(
   const subject = subjectsOf(root, kind).find((one) => one.slug === slug)
   if (subject === undefined) return []
   return [
-    ...(await recordedRefusal(root, slug, subject.pagePath, commit)),
-    ...(await recordedEnding(root, slug, subject.pagePath, true)),
+    ...(await recordedRefusal(slug, subject.pagePath, commit)),
+    ...(await recordedEnding(slug, subject.pagePath, true)),
   ]
 }
 
@@ -173,8 +173,8 @@ export async function ticked(
   }
   const deploying = heldNow(root)
   const commit = headOf(root)
-  const every = candidatesIn(root, kind, deploying)
-  const past = chosenPastLoaded(every, now, wantingIn(root, kind, commit), probe)
+  const every = await candidatesIn(root, kind, deploying)
+  const past = chosenPastLoaded(every, now, await wantingIn(root, kind, commit), probe)
   if (past.chosen === null) {
     return { said: [...past.said, saidOfNothing(kind, every)], wrong: [] }
   }

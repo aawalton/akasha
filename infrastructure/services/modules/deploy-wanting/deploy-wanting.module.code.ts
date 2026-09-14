@@ -69,40 +69,55 @@ export function wantsIn(
   return changed.some((one) => built.has(one))
 }
 
-export function wantingIn(root: string, kind: Named["kind"], commit: string): Wanting {
+export async function wantingIn(
+  root: string,
+  kind: Named["kind"],
+  commit: string
+): Promise<Wanting> {
   const subjects = new Map(subjectsOf(root, kind).map((one) => [one.slug, one] as const))
   const reading = readingAt(root, commit)
   const changing = changingIn(root, commit)
+  const since = new Map<string, string | null>()
+  for (const [slug, one] of subjects) {
+    since.set(slug, sinceCommit(root, await commitRecordedIn(one.pagePath)))
+  }
   const held = new Map<string, boolean>()
   return (one) => {
     const found = held.get(one.slug)
     if (found !== undefined) return found
     const subject = subjects.get(one.slug)
-    const was =
-      subject === undefined ? null : sinceCommit(root, commitRecordedIn(root, subject.pagePath))
+    const was = since.get(one.slug) ?? null
     const answer = subject === undefined ? false : wantsIn(root, subject, was, reading, changing)
     held.set(one.slug, answer)
     return answer
   }
 }
 
-function candidateFor(root: string, subject: Subject, deploying: boolean = false): Candidate {
-  const was = sinceCommit(root, commitRecordedIn(root, subject.pagePath))
+async function candidateFor(
+  root: string,
+  subject: Subject,
+  deploying: boolean = false
+): Promise<Candidate> {
+  const was = sinceCommit(root, await commitRecordedIn(subject.pagePath))
   return {
     slug: subject.slug,
     deploying,
     deployedAt: was === null ? null : committedAt(root, was),
-    deployEndedAt: endedIn(root, subject.pagePath),
-    refusedAt: refusedAtIn(root, subject.pagePath),
+    deployEndedAt: await endedIn(subject.pagePath),
+    refusedAt: await refusedAtIn(subject.pagePath),
     cooldownSeconds: subject.cooldownSeconds,
     dependsOn: subject.deploysAfter,
   }
 }
 
-export function candidatesIn(
+export async function candidatesIn(
   root: string,
   kind: Named["kind"],
   deploying: ReadonlySet<string> = new Set<string>()
-): readonly Candidate[] {
-  return subjectsOf(root, kind).map((one) => candidateFor(root, one, deploying.has(one.slug)))
+): Promise<readonly Candidate[]> {
+  const found: Candidate[] = []
+  for (const one of subjectsOf(root, kind)) {
+    found.push(await candidateFor(root, one, deploying.has(one.slug)))
+  }
+  return found
 }
