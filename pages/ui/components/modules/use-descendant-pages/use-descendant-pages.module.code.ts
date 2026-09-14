@@ -1,6 +1,5 @@
 "use client"
 
-import { getPages } from "akasha/pages/access/modules/get/get.module.code.ts"
 import { collectPages } from "akasha/pages/access/modules/iterate/iterate.module.code.ts"
 import type { PageOrder, PageSelect } from "akasha/pages/access/modules/types/types.module.code.ts"
 import type {
@@ -40,7 +39,7 @@ interface UseDescendantPagesOptions {
 }
 
 function useDescendantPages(
-  slugs: readonly PageTypeSlug[],
+  slug: PageTypeSlug | null,
   options: UseDescendantPagesOptions = {}
 ): DescendantPagesResult {
   const [rows, setRows] = useState<readonly Page[]>([])
@@ -52,7 +51,7 @@ function useDescendantPages(
   const optionsRef = useRef(options)
   optionsRef.current = options
 
-  const slugsKey = useMemo(() => slugs.join(","), [slugs])
+  const slugKey = slug ?? ""
   const selectKey = useMemo(
     () => (options.select ? options.select.join(",") : ""),
     [options.select]
@@ -67,42 +66,28 @@ function useDescendantPages(
   )
 
   useEffect(() => {
-    if (!enabled || slugsKey.length === 0) {
+    if (!enabled || slugKey.length === 0) {
       setRows([])
       setIsLoading(false)
       setUnasked(null)
       return
     }
     const { select, order, limit, where } = optionsRef.current
-    const hasWhere = where != null && where.length > 0
     let cancelled = false
     setIsLoading(true)
     setUnasked(null)
-    const slugList = slugsKey.split(",").map((s) => toPageTypeSlug(s))
-    const load: Promise<readonly Page[]> = hasWhere
-      ? Promise.all(
-          slugList.map((slug) =>
-            collectPages({
-              pageTypeSlug: slug,
-              select,
-              order,
-              where,
-              pageSize: 1000,
-              max: SCOPED_MAX_ROWS,
-            })
-          )
-        ).then((results) => results.flat())
-      : Promise.all(
-          slugList.map((slug) =>
-            getPages({ pageTypeSlug: slug, select, order, limit: limit ?? 1000 }).then(
-              (r) => r.rows
-            )
-          )
-        ).then((results) => results.flat())
+    const load: Promise<readonly Page[]> = collectPages({
+      pageTypeSlug: toPageTypeSlug(slugKey),
+      select,
+      order,
+      where,
+      pageSize: 1000,
+      max: limit ?? SCOPED_MAX_ROWS,
+    })
     load
-      .then((merged) => {
+      .then((found) => {
         if (cancelled) return
-        setRows(merged)
+        setRows(found)
         setIsLoading(false)
       })
       .catch((thrown: unknown) => {
@@ -114,7 +99,7 @@ function useDescendantPages(
     return () => {
       cancelled = true
     }
-  }, [enabled, slugsKey, selectKey, orderKey, whereKey])
+  }, [enabled, slugKey, selectKey, orderKey, whereKey])
 
   return { rows, isLoading, unasked }
 }
@@ -163,22 +148,25 @@ export function useDescendantListing(args: {
 }): DescendantListingResult {
   const { pageTypes, targetPageTypeId, listingConfig, sorts, where } = args
 
-  const descendantSlugs = useMemo<readonly PageTypeSlug[]>(() => {
-    if (listingConfig == null) return []
-    if (!listingIncludesDescendants(listingConfig)) return []
-    if (targetPageTypeId.length === 0) return []
+  const spanningSlug = useMemo<PageTypeSlug | null>(() => {
+    if (listingConfig == null) return null
+    if (!listingIncludesDescendants(listingConfig)) return null
+    if (targetPageTypeId.length === 0) return null
     const ids = resolveDescendantPageTypeIds(pageTypes, targetPageTypeId)
-    if (ids.size <= 1) return []
-    const slugs: PageTypeSlug[] = []
+    if (ids.size <= 1) return null
+    let named = 0
+    let own: PageTypeSlug | null = null
     for (const pt of pageTypes) {
       if (!ids.has(pt._id)) continue
       const slug = pt.properties?.slug
-      if (typeof slug === "string" && slug.length > 0) slugs.push(toPageTypeSlug(slug))
+      if (typeof slug !== "string" || slug.length === 0) continue
+      named += 1
+      if (pt._id === targetPageTypeId) own = toPageTypeSlug(slug)
     }
-    return slugs
+    return named > 1 ? own : null
   }, [pageTypes, targetPageTypeId, listingConfig])
 
-  const spanDescendants = descendantSlugs.length > 1
+  const spanDescendants = spanningSlug !== null
 
   const order = useMemo<PageOrder | undefined>(() => {
     if (sorts == null || sorts.length === 0) return undefined
@@ -191,7 +179,7 @@ export function useDescendantListing(args: {
     return out.length > 0 ? out : undefined
   }, [sorts])
 
-  const { rows, isLoading, unasked } = useDescendantPages(descendantSlugs, {
+  const { rows, isLoading, unasked } = useDescendantPages(spanningSlug, {
     order,
     where,
     enabled: spanDescendants,

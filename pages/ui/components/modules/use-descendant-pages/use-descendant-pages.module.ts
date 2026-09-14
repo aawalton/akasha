@@ -4,12 +4,12 @@ export const useDescendantPages = {
   id: "01a05cce-25ec-7573-afac-aed8bece2063",
   type: "module",
   slug: "use-descendant-pages",
-  definition: "the pages under a page, gathered across the types beneath it",
+  definition: "the pages of a page type and of every page type beneath it",
   code: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A filter is put to each page type beneath this one and the answers are merged.",
+      statement: "The page type is asked once, and each page beneath it comes back once.",
     },
     {
       invariantKind: "departure",
