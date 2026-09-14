@@ -11,11 +11,13 @@ import {
 } from "akasha/checks/modules/router-app-code/router-app-code.module.code.ts"
 import { filePropertiesAt } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import { everyOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 const NONE: ReadonlyMap<string, string | null> = new Map()
 
 export function askingAt(root: string): Asking {
   const disk = onDisk(root)
+  const shadow = shadowAt(root)
   const held = new Map<string, readonly string[]>()
   return {
     appsFiled: () => everyOfType(root, APP).map((one) => one.path),
@@ -23,7 +25,7 @@ export function askingAt(root: string): Asking {
     pathsUnder: (at) => {
       const found = held.get(at)
       if (found !== undefined) return found
-      const made = pathsUnder(root, at)
+      const made = pathsUnder(shadow, at)
       held.set(at, made)
       return made
     },

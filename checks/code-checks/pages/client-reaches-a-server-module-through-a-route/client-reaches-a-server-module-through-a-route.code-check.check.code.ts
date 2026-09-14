@@ -21,7 +21,7 @@ export function askingIn(change: Change, shadow: Shadow): Asking {
     appsFiled: () => shadow.index.everyOfType(APP).map((one) => one.path),
     valueAt: (path) => shadow.index.pageByPath(path),
     namedFilesOf: (pageTypeSlug) => shadow.index.filePropertiesAt().get(pageTypeSlug) ?? new Map(),
-    pathsUnder: (at) => pathsUnder(shadow.root, at),
+    pathsUnder: (at) => pathsUnder(shadow, at),
     textAt: (path) => textIn(change, path),
   }
 }

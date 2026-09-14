@@ -12,6 +12,7 @@ import {
   appRooted,
 } from "akasha/checks/modules/router-app-code/router-app-code.module.test-fixtures.ts"
 import { scratch } from "akasha/checks/modules/staging/check-staging.module.code.ts"
+import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -50,12 +51,12 @@ test("a module under a `.server` folder is server-only", () => {
 })
 
 test("the paths under a package are the TypeScript files the tree holds there", () => {
-  const found = pathsUnder(appRooted(ROOTED), folderOf(APP_PAGE))
+  const found = pathsUnder(shadowAt(appRooted(ROOTED)), folderOf(APP_PAGE))
   expect([...found].sort()).toEqual([APP_PAGE, APP_PLAIN].sort())
 })
 
 test("a package nowhere on disk holds no path", () => {
-  expect(pathsUnder(appRooted(ROOTED), "nowhere/")).toEqual([])
+  expect(pathsUnder(shadowAt(appRooted(ROOTED)), "nowhere/")).toEqual([])
 })
 
 test("the paths judged are the changed paths alone until the page or the table changed", () => {

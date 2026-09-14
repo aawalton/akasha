@@ -41,19 +41,23 @@ export const routerAppCode = {
     },
     {
       invariantKind: "departure",
-      statement: "Those paths are found by listing that app's folder rather than the whole tree.",
+      statement: "Those paths are the files the overlay lists under that app's folder.",
     },
     {
       invariantKind: "departure",
-      statement: "A folder is listed as git carries that folder on disk.",
+      statement: "A folder is listed as the change leaves that folder.",
     },
     {
       invariantKind: "departure",
       statement: "A folder that is nowhere on disk holds no path.",
     },
     {
+      invariantKind: "departure",
+      statement: "The overlay's one listing of the tree is what each app's folder is read from.",
+    },
+    {
       invariantKind: "absence",
-      statement: "No list of every path in the tree is read here.",
+      statement: "No folder under an app is walked to reach the files beneath it.",
     },
     {
       invariantKind: "departure",

@@ -1,10 +1,6 @@
 import { dirname } from "node:path"
 import { textNamed } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
-import {
-  filesIn,
-  foldersIn,
-} from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import ts from "typescript"
 
@@ -62,14 +58,11 @@ function underOf(app: Packaged, paths: readonly string[]): readonly string[] {
   return paths.filter((one) => one.startsWith(app.at) && textNamed(one))
 }
 
-export function pathsUnder(root: string, at: string): readonly string[] {
-  const found: string[] = []
-  const walk = (folder: string): undefined => {
-    for (const one of filesIn(root, folder)) if (textNamed(one)) found.push(one)
-    for (const one of foldersIn(root, folder)) walk(one)
-  }
-  walk(at)
-  return found.sort()
+export function pathsUnder(shadow: Shadow, at: string): readonly string[] {
+  return shadow
+    .listed()
+    .filter((one) => one.startsWith(at) && textNamed(one))
+    .toSorted()
 }
 
 export function pathsFor(
