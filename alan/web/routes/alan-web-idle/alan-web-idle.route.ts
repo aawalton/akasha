@@ -10,15 +10,11 @@ export const alanWebIdle = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "The page the redirect points at is an idle-game page the pages service has not.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "No redirect is built here.",
+      statement: "The page the redirect points at is the `idle-game` page slugged `idle`.",
     },
     {
       invariantKind: "departure",
-      statement: "A reader is told the game is unreachable rather than told the game is gone.",
+      statement: "The address is built from that page's own id rather than spelled here.",
     },
     {
       invariantKind: "departure",
