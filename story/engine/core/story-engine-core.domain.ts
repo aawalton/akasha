@@ -22,8 +22,6 @@ export const storyEngineCore = {
     "module/schema-violation",
     "module/state-schema",
     "module/system-window-schema",
-    "module/tally-boundary",
-    "module/tally-catalog",
     "module/turn-package-schema",
     "module/turn-schema",
     "module/word-count",
