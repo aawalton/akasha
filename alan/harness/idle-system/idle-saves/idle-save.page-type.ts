@@ -20,15 +20,6 @@ export const idleSave = {
       invariantKind: "departure",
       statement: "The tick banks a save on its own cadence whether or not the player is watching.",
     },
-    {
-      invariantKind: "gap",
-      statement: "A save is kept in Supabase and no save yet exists as a page of this type.",
-    },
-    {
-      invariantKind: "gap",
-      statement:
-        "The state a save has and that save's player are properties this type does not yet declare.",
-    },
   ],
   types: "ts",
 } as const satisfies PageType
