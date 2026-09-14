@@ -87,11 +87,11 @@ export const globalDeclaredOnce = {
     },
     {
       invariantKind: "departure",
-      statement: "Every file the index names is read where the change has a declaration file.",
+      statement: "Every file the tree holds is read where the change has a declaration file.",
     },
     {
       invariantKind: "departure",
-      statement: "Every file the index names is read where the index names no declaration files.",
+      statement: "Every file the tree holds is read where the index names no declaration files.",
     },
     {
       invariantKind: "departure",

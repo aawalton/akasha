@@ -52,7 +52,7 @@ function carryingIn(change: Change): boolean {
 
 export function readingIn(change: Change, shadow: Shadow): readonly string[] {
   const narrow = declaringAmong(change.changed) ? null : declaringIn(shadow)
-  const reach = narrow ?? shadow.index.everyPath()
+  const reach = narrow ?? shadow.listed()
   const held = new Set<string>()
   for (const one of [...reach, ...change.changed]) {
     if (compiled(one) && change.after(one) !== null) held.add(one)

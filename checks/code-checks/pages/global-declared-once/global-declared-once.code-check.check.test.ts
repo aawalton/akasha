@@ -53,6 +53,10 @@ const SHARED_PAGE_AT = "akasha/shared.type-declaration.ts"
 
 const APART_AT = "akasha/apart.type-declaration.d.ts"
 
+const FILE_PROPERTY_PAGE_AT = "akasha/file-property.page-type.ts"
+
+const DECLARES_PAGE_AT = "akasha/page-property.page-type.ts"
+
 const AMBIENT_ID = "01a06110-0000-7000-8000-00000000e004"
 
 const DECLARER_ID = "01a06110-0000-7000-8000-00000000e005"
@@ -164,10 +168,17 @@ test("a declaration file the index names no ambient types on is read no further"
   expect(reached(given)).not.toContain(APART_AT)
 })
 
-test("every file the index names is read where the change carries a declaration file", () => {
+test("every file the tree holds is read where the change carries a declaration file", () => {
   const held = globally(indented(HOLDS_VALUE))
   const given = change(naming(HOLDS_VALUE, held), { [SHARED_AT]: HOLDS_VALUE })
-  expect(reached(given)).toEqual([APART_AT, MODULE_AT, SHARED_AT])
+  expect(reached(given)).toEqual([
+    APART_AT,
+    FILE_PROPERTY_PAGE_AT,
+    MODULE_AT,
+    DECLARES_PAGE_AT,
+    SHARED_AT,
+    SHARED_PAGE_AT,
+  ])
 })
 
 test("a clash with a declaration file the index names is refused where the reach is narrow", () => {
