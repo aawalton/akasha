@@ -10,6 +10,8 @@ import type {
   CharacterSummaryData,
   CompanionSummaryData,
 } from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import { composeCompletionCategoryTree } from "akasha/temper/player-completion/modules/completion-category-tree-composed/completion-category-tree-composed.module.code.ts"
+import type { CompletionCategoryTree } from "akasha/temper/player-completion/modules/completion-category-tree-types/completion-category-tree-types.module.code.ts"
 import {
   useAccountCompletion,
   useAccountCompletionByUser,
@@ -41,6 +43,7 @@ interface CompletionProgressData {
   accountSummary: AccountSummaryData
   characterSummary: CharacterSummaryData
   companionSummary: CompanionSummaryData
+  completionCategoryTree: CompletionCategoryTree
   characterItems: readonly BadgeToggleGroupItem[]
   account: ReturnType<typeof useAccountCompletion>["account"]
   rows: ReturnType<typeof useCompletionCharacters>["characters"]
@@ -120,6 +123,18 @@ export function useCompletionProgress(viewUserId: string | undefined): Completio
     catalogs,
   })
 
+  const completionCategoryTree = useMemo(
+    () =>
+      composeCompletionCategoryTree(
+        accountProgress.accountAchievementProgress.categories,
+        characterProgress.characterAchievementTally
+      ),
+    [
+      accountProgress.accountAchievementProgress.categories,
+      characterProgress.characterAchievementTally,
+    ]
+  )
+
   return {
     accountProgress,
     characterProgress,
@@ -127,6 +142,7 @@ export function useCompletionProgress(viewUserId: string | undefined): Completio
     accountSummary,
     characterSummary,
     companionSummary,
+    completionCategoryTree,
     characterItems,
     account: accountCompletion,
     rows,

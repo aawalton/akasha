@@ -81,6 +81,7 @@ export function CompletionPageContent({
     accountSummary,
     characterSummary,
     companionSummary,
+    completionCategoryTree,
     characterItems,
     account,
     rows,
@@ -107,25 +108,28 @@ export function CompletionPageContent({
     }
   }, [values.tab])
 
+  const hashRef = useRef(false)
+
   useEffect(() => {
     const hash = window.location.hash.slice(1)
-    if (hash === "") return
-    const tab = getCompletionCardTab(hash)
+    if (hash === "" || hashRef.current) return
+    const tab = getCompletionCardTab(hash, completionCategoryTree)
     if (tab == null) return
+    hashRef.current = true
     if (values.tab === tab) {
       scrollToCard(hash, false)
     } else {
       pendingScrollRef.current = { cardId: hash, tabChanged: true }
       update({ tab })
     }
-  }, [])
+  }, [completionCategoryTree])
 
   const currentTabRef = useRef(values.tab)
   currentTabRef.current = values.tab
   useEffect(() => {
     const target = values.scrollTo
     if (target == null) return
-    const tab = getCompletionCardTab(target)
+    const tab = getCompletionCardTab(target, completionCategoryTree)
     if (tab == null) return
     if (currentTabRef.current === tab) {
       scrollToCard(target, false)
@@ -134,7 +138,7 @@ export function CompletionPageContent({
       pendingScrollRef.current = { cardId: target, tabChanged: true }
       update({ tab, scrollTo: null })
     }
-  }, [values.scrollTo, update])
+  }, [values.scrollTo, update, completionCategoryTree])
 
   function handleOverallClick(key: string) {
     if (VALID_TABS.has(key) && key !== "summary") {
