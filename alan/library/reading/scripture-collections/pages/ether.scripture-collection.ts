@@ -9,7 +9,7 @@ export const ether = {
   position: 14,
   ownLength: 0,
   ownProgress: 0,
-  unit: "words",
+  unit: "unit/words",
   status: "not-started",
   externalId: "ether",
 } as const satisfies ScriptureCollection

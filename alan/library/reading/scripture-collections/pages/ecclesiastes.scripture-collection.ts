@@ -9,7 +9,7 @@ export const ecclesiastes = {
   position: 21,
   ownLength: 0,
   ownProgress: 0,
-  unit: "words",
+  unit: "unit/words",
   status: "not-started",
   externalId: "ecclesiastes",
 } as const satisfies ScriptureCollection

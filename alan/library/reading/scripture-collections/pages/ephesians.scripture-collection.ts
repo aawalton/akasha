@@ -9,7 +9,7 @@ export const ephesians = {
   position: 10,
   ownLength: 0,
   ownProgress: 0,
-  unit: "words",
+  unit: "unit/words",
   status: "not-started",
   externalId: "ephesians",
 } as const satisfies ScriptureCollection

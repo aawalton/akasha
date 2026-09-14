@@ -9,7 +9,7 @@ export const nahum = {
   position: 34,
   ownLength: 0,
   ownProgress: 0,
-  unit: "words",
+  unit: "unit/words",
   status: "not-started",
   externalId: "nahum",
 } as const satisfies ScriptureCollection

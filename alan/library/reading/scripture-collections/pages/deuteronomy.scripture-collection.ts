@@ -9,7 +9,7 @@ export const deuteronomy = {
   position: 5,
   ownLength: 0,
   ownProgress: 0,
-  unit: "words",
+  unit: "unit/words",
   status: "not-started",
   externalId: "deuteronomy",
 } as const satisfies ScriptureCollection

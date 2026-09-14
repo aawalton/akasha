@@ -6,6 +6,6 @@ export const officialDeclaration = {
   slug: "official-declaration",
   title: "Official Declaration",
   position: 2,
-  unit: "words",
+  unit: "unit/words",
   externalId: "officialdeclaration",
 } as const satisfies ScriptureCollection

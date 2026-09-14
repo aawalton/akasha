@@ -9,7 +9,7 @@ export const ruth = {
   position: 8,
   ownLength: 0,
   ownProgress: 0,
-  unit: "words",
+  unit: "unit/words",
   status: "not-started",
   externalId: "ruth",
 } as const satisfies ScriptureCollection
