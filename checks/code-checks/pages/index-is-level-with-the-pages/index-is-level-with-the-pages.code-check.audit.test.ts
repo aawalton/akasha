@@ -40,7 +40,7 @@ test("an audit passes over the churn a page outside the commit makes", () => {
     ...STILL,
     read: () => ({
       added: ["path/seats/thea.seat.edits.uncommitted.jsonl.jsonl"],
-      changed: ["listing/path.jsonl"],
+      changed: ["value/module.jsonl"],
       went: ["rule/read/at-path.jsonl"],
     }),
   })

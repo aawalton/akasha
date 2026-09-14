@@ -19,7 +19,7 @@ test("an entry is stripped of the ending every entry file carries", () => {
 test("an entry naming one file is told from one gathering many", () => {
   expect(namesOneFile("path/checks/one.ts.jsonl")).toBe(true)
   expect(namesOneFile("import/path/checks/one.ts.jsonl")).toBe(true)
-  expect(namesOneFile("listing/path.jsonl")).toBe(false)
+  expect(namesOneFile("value/module.jsonl")).toBe(false)
   expect(namesOneFile("rule/read/at-path.jsonl")).toBe(false)
   expect(namesOneFile("identity/page-type/module/slug/checking.jsonl")).toBe(false)
 })
@@ -59,7 +59,7 @@ test("the churn an uncommitted page makes refuses nothing", () => {
   const said = judgedIn(
     {
       added: ["path/seats/thea.seat.edits.uncommitted.jsonl.jsonl"],
-      changed: ["listing/path.jsonl"],
+      changed: ["value/module.jsonl"],
       went: ["rule/read/at-path.jsonl"],
     },
     STILL
