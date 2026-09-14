@@ -22,7 +22,6 @@ export const trackDaily = {
     "module/mountain-times",
     "module/nutrition-grams",
     "module/nutrition-points",
-    "module/persona-recipe-rows",
     "module/task-completions",
     "module/topic-words",
     "module/track-pages",
