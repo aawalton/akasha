@@ -37,7 +37,8 @@ export const terminalSync = {
     },
     {
       invariantKind: "departure",
-      statement: "A terminal whose shell is no longer running keeps the name that terminal has.",
+      statement:
+        "A terminal whose shell is no longer running keeps the name and the color that terminal has.",
     },
     {
       invariantKind: "departure",

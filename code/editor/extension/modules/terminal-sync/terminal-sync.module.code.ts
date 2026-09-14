@@ -62,6 +62,12 @@ export async function syncTerminal(
     return
   }
   const shellPid = reading.pid
+  if (name === undefined && shellNameOf(shellPid) === "") {
+    output.appendLine(
+      `[${trigger}] terminal shell=${shellPid} → left as it is (no process under that pid)`
+    )
+    return
+  }
   syncColor(term, color, shellPid, trigger, output)
   if (name === undefined) {
     if (!lastAppliedByTerminal.has(term)) {
@@ -71,12 +77,6 @@ export async function syncTerminal(
     const reason = wasMarkedSilent ? "answered at last" : "seat gone"
     const shellComm = shellNameOf(shellPid)
     lastAppliedByTerminal.delete(term)
-    if (shellComm === "") {
-      output.appendLine(
-        `[${trigger}] terminal shell=${shellPid} → reset skipped (no process under that pid)`
-      )
-      return
-    }
     term.rename(shellComm)
     output.appendLine(
       `[${trigger}] terminal shell=${shellPid} → reset to "${shellComm}" (${reason})`
