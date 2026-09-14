@@ -8,7 +8,7 @@ export const dueTime = {
   definition: "the time of day a task is next wanted",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A task wanted at no stated hour states no due time.",
     },
   ],
