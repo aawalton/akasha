@@ -1,5 +1,5 @@
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { landedMechanically } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { DATA } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
   composedFor,
@@ -27,7 +27,7 @@ export function writingIn(root: string): Writing {
     if ("refused" in composed) return { refused: composed.refused, code: DATA }
     const asked: Asking[] = [putting(composed.put), ...composed.parts.map(putting)]
     for (const gone of composed.removes) asked.push({ at: TAKE, given: { at: gone } })
-    const landed = await landedMechanically(done, root, asked, message)
+    const landed = await runMechanicalChange(root, asked, message, null, { done })
     if ("refusals" in landed) return { refused: landed.refusals.join(" "), code: landed.code }
     return { landed: landed.landed, wrong: landed.wrong }
   }
