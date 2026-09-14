@@ -8,7 +8,7 @@ export const charactersTaskProgressTestUtils = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A capture the test leaves unnamed is absent from the entry rather than empty.",
     },
   ],

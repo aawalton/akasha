@@ -8,15 +8,15 @@ export const inventoryManagementPlanChainPropertyFixtures = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A generated chain has at least a tail tier.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A bounded chain has a target quantity on every tier.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A chain scenario has an equivalent written as one rule per tier.",
     },
   ],

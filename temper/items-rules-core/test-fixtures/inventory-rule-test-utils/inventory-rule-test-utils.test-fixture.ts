@@ -8,7 +8,7 @@ export const inventoryRuleTestUtils = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A field the test leaves unnamed takes the value stated here.",
     },
   ],

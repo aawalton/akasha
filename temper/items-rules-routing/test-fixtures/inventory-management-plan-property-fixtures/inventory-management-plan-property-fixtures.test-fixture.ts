@@ -8,11 +8,11 @@ export const inventoryManagementPlanPropertyFixtures = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A scenario puts every affected item on the same character's backpack.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A capacity scenario fills the bank to a stated number of free slots.",
     },
   ],

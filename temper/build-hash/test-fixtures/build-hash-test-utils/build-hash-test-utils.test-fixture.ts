@@ -8,7 +8,7 @@ export const buildHashTestUtils = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The update a build was written at is the second byte of that build's bytes.",
     },
   ],

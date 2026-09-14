@@ -9,11 +9,11 @@ export const inventoryManagementPlanTestUtils = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A field the test leaves unnamed takes the value stated here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each item this makes carries an id no other item it made carries.",
     },
   ],

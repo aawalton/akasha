@@ -8,15 +8,15 @@ export const inventoryRuleMatcherPropertyFixtures = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A generated list of rules has no two rules of one id.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An item rule is answered before any category rule.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An item no rule claims falls to the implicit terminal rule.",
     },
   ],

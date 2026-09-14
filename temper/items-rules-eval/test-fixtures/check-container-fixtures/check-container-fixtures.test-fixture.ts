@@ -8,15 +8,15 @@ export const checkContainerFixtures = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every stub environment lookup answers unknown until a test overrides the lookup.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A test context is built by spreading overrides over the stub environment.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "The stub context has no claim map and no stock groups.",
     },
   ],

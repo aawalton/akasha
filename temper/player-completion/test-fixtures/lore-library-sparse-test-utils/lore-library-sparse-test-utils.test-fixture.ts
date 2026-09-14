@@ -8,7 +8,7 @@ export const loreLibrarySparseTestUtils = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A capture asked to be short is short by the first book of the first collection.",
     },
   ],

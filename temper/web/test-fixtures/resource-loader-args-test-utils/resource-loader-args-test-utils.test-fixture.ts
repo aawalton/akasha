@@ -8,7 +8,7 @@ export const resourceLoaderArgsTestUtils = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The path is read against the site the browser would have asked.",
     },
   ],
