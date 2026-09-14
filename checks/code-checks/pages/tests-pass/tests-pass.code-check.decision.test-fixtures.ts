@@ -2,10 +2,7 @@ import { mkdirSync, realpathSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import type { Ran, Spent } from "akasha/code/running/modules/code-tests/code-tests.module.code.ts"
 import { RUNNING } from "akasha/code/running/modules/code-tests/code-tests.module.code.ts"
-import {
-  noPathsFiled,
-  pathListed,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { nothingFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 export const PASSES =
@@ -33,12 +30,11 @@ export const scratch = scratchWorld()
 
 export function repo(files: Record<string, string>): string {
   const root = realpathSync(scratch.rootFor("tests-pass-"))
-  noPathsFiled(root)
+  nothingFiled(root)
   for (const [name, body] of Object.entries(files)) {
     const at = join(root, name)
     mkdirSync(dirname(at), { recursive: true })
     writeFileSync(at, body)
-    pathListed(root, name)
   }
   return root
 }
