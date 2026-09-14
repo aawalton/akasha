@@ -6,8 +6,6 @@ export const trackDaily = {
   slug: "track-daily",
   definition: "what is measured about Alan a day at a time",
   parts: [
-    "module/air-quality",
-    "module/air-quality-fetch",
     "module/akasha-day",
     "module/day-active-calories",
     "module/day-completions",
