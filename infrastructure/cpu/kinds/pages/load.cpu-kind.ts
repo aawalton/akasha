@@ -7,20 +7,20 @@ export const load = {
   definition: "how many threads were runnable or waiting on disk, averaged over a stretch",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Load counts a thread waiting on disk the same as a thread waiting for a processor.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Load above the number of processors is no processor shortage on its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The three numbers are averaged over one, five and fifteen minutes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A load average is of the host rather than of any one program.",
     },
   ],

@@ -7,19 +7,19 @@ export const utilization = {
   definition: "the part of a processor a program spent over a stretch of time",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A percentage states whether it is of one processor or of every processor.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A program on eight processors reaches eight hundred percent of one.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Utilization is worked out from burned seconds over elapsed time.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A host at full utilization with nothing waiting is a host being used well.",
     },
   ],

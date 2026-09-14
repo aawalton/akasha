@@ -7,19 +7,19 @@ export const elapsed = {
   definition: "time that went by while a program ran",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Elapsed time counts while a program waits as well as while a program runs.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Elapsed time under burned time means the work ran on more than one processor.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "How long a person waited is asked in elapsed time.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A ceiling on elapsed time bounds waiting rather than bounding processor time.",
     },
   ],

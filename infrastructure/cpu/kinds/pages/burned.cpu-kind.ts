@@ -7,19 +7,19 @@ export const burned = {
   definition: "processor seconds a program has spent running",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Seconds spent on more than one processor at once add together.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A program waiting for disk or for a lock spends none.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "What a run cost is asked in burned seconds.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A child that has been reaped has its seconds added to its parent's.",
     },
   ],
