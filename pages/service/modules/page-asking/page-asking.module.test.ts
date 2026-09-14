@@ -2,7 +2,6 @@ import { expect, test } from "bun:test"
 import {
   askedFor,
   asking,
-  keysOf,
   meets,
   ownerFor,
   shaping,
@@ -318,10 +317,8 @@ test("a declared key no page of the type carries is answered rather than refused
 })
 
 test("a key a type above declares is a key of the type below", () => {
-  const keys = keysOf(root, "invariant-kind")
-  expect(keys.has("slug")).toBe(true)
-  expect(keys.has("definition")).toBe(true)
-  expect(keys.has("invariantGroup")).toBe(true)
+  const keys = ["slug", "definition", "invariantGroup"]
+  expect(rowsOf(asking(root, { pageTypeSlug: "invariant-kind", keys })).length).toBeGreaterThan(0)
 })
 
 test("what a query asks for is every key it names, each under where it named it", () => {

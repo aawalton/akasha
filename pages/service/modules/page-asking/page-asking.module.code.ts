@@ -107,10 +107,6 @@ function unrun(where: Readonly<Record<string, Test>> | undefined): string | null
   return null
 }
 
-export function keysOf(root: string, pageTypeSlug: string): ReadonlySet<string> {
-  return new Set(carriedFor(root, pageTypeSlug).map((one) => one.key))
-}
-
 export type Declared = {
   readonly key: string
   readonly type: string
