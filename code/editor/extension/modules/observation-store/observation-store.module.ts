@@ -61,6 +61,10 @@ export const observationStore = {
     },
     {
       invariantKind: "departure",
+      statement: "Every feature's observation goes as one document rather than field by field.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A store writes through the fetch its caller named and through no other road.",
     },
     {

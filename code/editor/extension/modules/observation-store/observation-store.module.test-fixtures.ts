@@ -16,7 +16,7 @@ const sentBody = z.object({
         slug: z.string(),
         merge: z.boolean(),
         values: z.object({
-          features: z.record(z.string(), z.custom<Observation>()),
+          features: z.string().transform((one) => JSON.parse(one) as Record<string, Observation>),
           observedAt: z.string(),
         }),
       })

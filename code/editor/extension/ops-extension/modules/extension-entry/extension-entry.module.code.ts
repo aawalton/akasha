@@ -59,6 +59,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<void> 
   const windowName = await readProcess(process.pid)
   const observations = createObservationStore({
     window: windowName,
+    fetch: async (url, init) => await fetch(url, init),
     onError: (message) => output.appendLine(`[observations] ${message}`),
   })
   setObservationStore(observations)

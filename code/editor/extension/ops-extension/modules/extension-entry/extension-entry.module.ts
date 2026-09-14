@@ -41,6 +41,10 @@ export const extensionEntry = {
     },
     {
       invariantKind: "departure",
+      statement: "The store is handed the host's own fetch, and writes nowhere without one.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The store is dropped when the editor stops.",
     },
     {

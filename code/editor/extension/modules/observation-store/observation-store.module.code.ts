@@ -73,7 +73,7 @@ export function createObservationStore(options: StoreOptions): ObservationStore 
     if (key === writtenKey) {
       return
     }
-    const values = { features, observedAt: now().toISOString() }
+    const values = { features: JSON.stringify(features), observedAt: now().toISOString() }
     try {
       const response = await ask(url, {
         method: "POST",
