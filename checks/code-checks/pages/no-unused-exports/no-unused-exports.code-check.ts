@@ -206,6 +206,11 @@ export const noUnusedExports = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The name made from a sentence shape's slug is reached by the check reading its predicate.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The `bodyIn` a group's code exports is reached by the group writing its file.",
     },
     {
