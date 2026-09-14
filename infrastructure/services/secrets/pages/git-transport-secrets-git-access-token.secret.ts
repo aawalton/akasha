@@ -11,5 +11,6 @@ export const gitTransportSecretsGitAccessToken = {
     { resourceName: "smilingjenny-secrets", resourceKey: "GIT_ACCESS_TOKEN" },
     { resourceName: "audhdalan-secrets", resourceKey: "GIT_ACCESS_TOKEN" },
     { resourceName: "archive-of-worlds-secrets", resourceKey: "GIT_ACCESS_TOKEN" },
+    { resourceName: "workers-secrets", resourceKey: "GIT_ACCESS_TOKEN" },
   ],
 } as const satisfies Secret
