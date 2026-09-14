@@ -14,11 +14,6 @@ function isPerftDoneLine(line: string): boolean {
   return line.trim().startsWith("Nodes searched")
 }
 
-const SKILL_MIN = 0
-const SKILL_MAX = 20
-const ELO_MIN = 1320
-const ELO_MAX = 3190
-
 async function legalMoves(fen: string): Promise<readonly string[]> {
   const lines = await runEngine({
     commands: [`position fen ${fen}`, "go perft 1"],
@@ -96,75 +91,5 @@ export async function applyMove(fen: string, move: string): Promise<ApplyMoveRes
     sideToMove: fenSideToMove(newFen),
     checkers,
     legalMoveCount: moves.length,
-  }
-}
-
-export interface PlayStrength {
-  readonly level?: number
-  readonly elo?: number
-  readonly movetimeMs?: number
-}
-
-export interface PlayResult {
-  readonly move: string | null
-  readonly resultingFen: string | null
-  readonly status: PositionStatus | null
-  readonly strength: { readonly mode: "level" | "elo"; readonly value: number }
-}
-
-function strengthOptions(strength: PlayStrength): {
-  readonly options: readonly string[]
-  readonly mode: "level" | "elo"
-  readonly value: number
-} {
-  if (strength.level !== undefined && strength.elo !== undefined) {
-    throw new InputError("specify either --level or --elo, not both")
-  }
-  if (strength.elo !== undefined) {
-    if (!Number.isInteger(strength.elo) || strength.elo < ELO_MIN || strength.elo > ELO_MAX) {
-      throw new InputError(`--elo must be an integer in [${ELO_MIN}, ${ELO_MAX}]`)
-    }
-    return {
-      options: [
-        "setoption name UCI_LimitStrength value true",
-        `setoption name UCI_Elo value ${strength.elo}`,
-      ],
-      mode: "elo",
-      value: strength.elo,
-    }
-  }
-  const level = strength.level ?? SKILL_MAX
-  if (!Number.isInteger(level) || level < SKILL_MIN || level > SKILL_MAX) {
-    throw new InputError(`--level must be an integer in [${SKILL_MIN}, ${SKILL_MAX}]`)
-  }
-  return {
-    options: [`setoption name Skill Level value ${level}`],
-    mode: "level",
-    value: level,
-  }
-}
-
-export async function playMove(fen: string, strength: PlayStrength): Promise<PlayResult> {
-  const { options, mode, value } = strengthOptions(strength)
-  const movetime = strength.movetimeMs ?? 1000
-  if (!Number.isInteger(movetime) || movetime <= 0) {
-    throw new InputError("--movetime must be a positive integer (ms)")
-  }
-  const lines = await runEngine({
-    options,
-    commands: [`position fen ${fen}`, `go movetime ${movetime}`],
-    until: isBestMoveLine,
-    timeoutMs: movetime + 10_000,
-  })
-  const search = parseSearch(lines)
-  if (search.bestMove === null) {
-    return { move: null, resultingFen: null, status: null, strength: { mode, value } }
-  }
-  const applied = await applyMove(fen, search.bestMove)
-  return {
-    move: search.bestMove,
-    resultingFen: applied.fen,
-    status: applied.status,
-    strength: { mode, value },
   }
 }
