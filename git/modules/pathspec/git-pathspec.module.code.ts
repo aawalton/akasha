@@ -2,18 +2,30 @@ import { git, ranGit as ran } from "akasha/git/modules/capping/git-capping.modul
 
 const ROOT = "."
 
-export function gitIgnoring(root: string, paths: readonly string[]): ReadonlySet<string> | null {
-  if (paths.length === 0) return new Set()
+const HELD = new Map<string, ReadonlySet<string> | null>()
+
+const APART = "\0"
+
+function ignoring(root: string, paths: readonly string[]): ReadonlySet<string> | null {
   const proc = ran(root, ["check-ignore", "--stdin", "-z"], {
-    input: new TextEncoder().encode(paths.join("\0")),
+    input: new TextEncoder().encode(paths.join(APART)),
   })
   if (proc.code !== 0 && proc.code !== 1) return null
   return new Set(
     new TextDecoder()
       .decode(proc.stdout)
-      .split("\0")
+      .split(APART)
       .filter((one) => one !== "")
   )
+}
+
+export function gitIgnoring(root: string, paths: readonly string[]): ReadonlySet<string> | null {
+  if (paths.length === 0) return new Set()
+  const key = [root, ...paths].join(APART)
+  if (HELD.has(key)) return HELD.get(key) ?? null
+  const found = ignoring(root, paths)
+  HELD.set(key, found)
+  return found
 }
 
 function listedUnder(

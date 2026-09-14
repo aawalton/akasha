@@ -25,5 +25,10 @@ export const gitPathspec = {
       statement:
         "The paths git ignores under a folder that the tree holds are asked for by that folder alone.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "One run of paths asked of a repository twice is answered without asking git again.",
+    },
   ],
 } as const satisfies Module

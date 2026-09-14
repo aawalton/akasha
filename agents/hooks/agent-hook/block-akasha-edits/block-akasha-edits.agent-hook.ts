@@ -1,0 +1,84 @@
+import type { AgentHook } from "akasha/agents/hooks/agent-hook/agent-hook.page-type.types.ts"
+
+export const blockAkashaEdits = {
+  id: "01a04e17-0958-7be5-9b50-5a856c02c5a6",
+  type: "agent-hook",
+  slug: "block-akasha-edits",
+  definition: "the hook refusing a Write, an Edit or a NotebookEdit that lands inside akasha",
+  code: "ts",
+  test: "ts",
+  runsAt: ["PreToolUse"],
+  overTools: ["Write", "Edit", "NotebookEdit"],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A call is refused for where the call writes rather than for what the call is.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The guarded roots are the akasha folder, the folder git does not track, and the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing inside the index is answered with the rebuild.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A landing elsewhere under the folder git does not track is answered with the sweep.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No refusal over that folder names a change.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path is resolved against the working directory the call was made in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every symlink on a path is followed before the path is judged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path arrives as tool input and is never parsed out of text.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No call of a tool named here reaches inside a guarded root.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A shell write is no business of this hook.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "`block-akasha-shell-writes` samples shell writes.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "There is no akasha command for a notebook.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A payload this cannot read judges nothing and exits so the dispatch refuses.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "An agent refused here still writes the file the akasha command reads.",
+    },
+  ],
+  directives: [
+    {
+      directiveKind: "rule",
+      name: "The Index Is Akasha",
+      act: "Guard the index as the akasha folder is guarded.",
+      warrant: "The pages and the index are two halves of one store.",
+      aids: [
+        "Derived state is still not yours to write.",
+        "`akasha index refresh` is the one repair.",
+      ],
+    },
+  ],
+} as const satisfies AgentHook
