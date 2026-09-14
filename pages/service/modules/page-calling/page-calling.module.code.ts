@@ -10,6 +10,7 @@ import type {
   Asked as Sought,
 } from "akasha/pages/service/modules/page-reading/page-reading.module.code.ts"
 import type {
+  Kept,
   Put,
   Wrote,
 } from "akasha/pages/service/modules/page-writing/page-writing.module.code.ts"
@@ -50,6 +51,7 @@ export type Writing = {
   readonly message: string
   readonly puts?: readonly Put[]
   readonly removes?: readonly string[]
+  readonly kept?: readonly Kept[]
   readonly pages?: readonly Naming[]
   readonly read?: string
 }

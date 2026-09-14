@@ -179,6 +179,23 @@ test("a write hands over values under pages and carries the commit back", async 
   expect("commit" in said && said.commit).toBe("abc")
 })
 
+test("a write may keep values outside the commit", async () => {
+  let sent = ""
+  await writingFor(
+    {
+      writer: "Amy <amy@alanwalton.com>",
+      message: "a message",
+      kept: [{ path: "akasha/a.ts", values: { one: "abc" } }],
+    },
+    (_url, init) => {
+      sent = String(init.body)
+      return Promise.resolve(new Response(JSON.stringify({ commit: null, wrote: [], took: [] })))
+    },
+    neverNaps
+  )
+  expect(JSON.parse(sent).kept).toEqual([{ path: "akasha/a.ts", values: { one: "abc" } }])
+})
+
 test("a refusal is told apart from an answer by the key it carries", () => {
   expect(refusedIn({ refused: "why" })).toBe("why")
   expect(refusedIn({ rows: [] })).toBe(null)

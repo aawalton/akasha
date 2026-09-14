@@ -113,5 +113,9 @@ export const pageCalling = {
       invariantKind: "departure",
       statement: "The waiting between attempts outlasts the pages system service starting again.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A write may keep values outside the commit beside a path.",
+    },
   ],
 } as const satisfies Module
