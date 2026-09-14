@@ -41,11 +41,11 @@ const CHILD_TAIL = ".jsonl"
 
 const TRANSCRIPT_TAIL = /\.jsonl$/
 
-export function subagentsDirOf(transcriptPath: string): string {
+function subagentsDirOf(transcriptPath: string): string {
   return path.join(transcriptPath.replace(TRANSCRIPT_TAIL, ""), SUBAGENTS)
 }
 
-export function namesASubagentFold(name: string): boolean {
+function namesASubagentFold(name: string): boolean {
   return name.startsWith(CHILD_OPENING) && name.endsWith(CHILD_TAIL)
 }
 

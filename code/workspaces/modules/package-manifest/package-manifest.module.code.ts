@@ -33,12 +33,7 @@ export function calledIn(text: string | null): string | null {
   return typeof named === "string" ? named : null
 }
 
-export const DEPENDING = [
-  "dependencies",
-  "devDependencies",
-  "peerDependencies",
-  "optionalDependencies",
-]
+const DEPENDING = ["dependencies", "devDependencies", "peerDependencies", "optionalDependencies"]
 
 export function dependsIn(text: string): ReadonlySet<string> {
   const found = new Set<string>()

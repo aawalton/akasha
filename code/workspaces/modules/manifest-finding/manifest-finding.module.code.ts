@@ -55,7 +55,7 @@ export function namingIn(folder: string, text: string): Package | null {
   return { folder, named: calledIn(text) ?? folder, reached }
 }
 
-export function partsIn(named: string): readonly string[] | null {
+function partsIn(named: string): readonly string[] | null {
   const parted = named.split(PARTED_BY)
   const scope = parted[0]
   if (scope === undefined) return null
