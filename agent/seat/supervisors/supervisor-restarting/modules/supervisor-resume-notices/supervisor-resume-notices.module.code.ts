@@ -1,0 +1,58 @@
+import { notices } from "akasha/agent/messaging/notice/modules/compose-notices/compose-notices.module.code.ts"
+import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
+import type { Infer } from "akasha/utils/narrow/modules/shape-core/shape-core.module.code.ts"
+
+const LOG = "[resume-notices]"
+const COMPOSE_MODULE = "compose-notices"
+
+export const SUPERVISOR_NOTICE_PREFIX = "[supervisor]"
+
+const handed = shape.string().min(1)
+
+const ResumeNoticesZ = shape.object({
+  "restart-immediate": handed,
+  "restart-deferred": handed,
+  "restart-recovery-clause": shape.string(),
+})
+
+export type ResumeNotices = Readonly<Infer<typeof ResumeNoticesZ>>
+
+const NOTICE_UNAVAILABLE_PREFIX = `${SUPERVISOR_NOTICE_PREFIX} Your resume notice could not be composed`
+
+function unavailable(reason: string): ResumeNotices {
+  const said = `${NOTICE_UNAVAILABLE_PREFIX}: ${reason}. Nothing was asked of you by this restart.`
+  return {
+    "restart-immediate": said,
+    "restart-deferred": said,
+    "restart-recovery-clause": "",
+  }
+}
+
+function checkNotices(
+  composed: Readonly<Record<string, string>>
+): { notices: ResumeNotices } | { reason: string } {
+  const result = ResumeNoticesZ.safeParse(composed)
+  if (result.success) return { notices: result.data }
+  const issue = result.error.issues[0]
+  const at = issue === undefined || issue.path.length === 0 ? "" : ` at \`${issue.path.join(".")}\``
+  return {
+    reason: `${COMPOSE_MODULE} composed nothing this can use${at}: ${issue?.message ?? "no reason given"}`,
+  }
+}
+
+export function resumeNotices(): ResumeNotices {
+  let composed: Readonly<Record<string, string>>
+  try {
+    composed = notices()
+  } catch (error) {
+    const said = `${COMPOSE_MODULE} threw (${error instanceof Error ? error.message : String(error)})`
+    console.log(`${LOG} ${said}`)
+    return unavailable(said)
+  }
+  const checked = checkNotices(composed)
+  if ("reason" in checked) {
+    console.log(`${LOG} ${checked.reason}`)
+    return unavailable(checked.reason)
+  }
+  return checked.notices
+}

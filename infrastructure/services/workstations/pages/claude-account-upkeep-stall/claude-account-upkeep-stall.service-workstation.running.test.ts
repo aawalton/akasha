@@ -4,11 +4,11 @@ const HANDED: (readonly string[])[] = []
 let CODE = 0
 
 const reading = await import(
-  "akasha/agents/claude-account/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.code.ts"
+  "akasha/agent/model/account/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.code.ts"
 )
 
 mock.module(
-  "akasha/agents/claude-account/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.code.ts",
+  "akasha/agent/model/account/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.code.ts",
   () => ({
     ...reading,
     readAccountUpkeepStall: (argv: readonly string[]) => {
@@ -19,7 +19,7 @@ mock.module(
 )
 
 const running = await import(
-  "akasha/infrastructure/services/workstations/pages/claude-account-upkeep-stall/claude-account-upkeep-stall.service-workstation.running.code.ts"
+  "akasha/infrastructure/services/workstations/pages/model-account-upkeep-stall/model-account-upkeep-stall.service-workstation.running.code.ts"
 )
 
 test("the run is a function taking nothing, which is how the service runner calls it", () => {

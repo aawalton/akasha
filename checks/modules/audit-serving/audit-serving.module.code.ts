@@ -1,6 +1,6 @@
 import { mkdirSync } from "node:fs"
 import { join } from "node:path"
-import { writeMessage } from "akasha/agents/messaging/modules/message-file/message-file.module.code.ts"
+import { writeMessage } from "akasha/agent/messaging/modules/message-file/message-file.module.code.ts"
 import {
   requestDone,
   requestsIn,

@@ -182,7 +182,7 @@ test("the readers of page bodies a module has are the names that module's own pa
   const found = readersOf(shadowAt(root))
 
   expect([...(found.get("page-value") ?? [])]).toEqual(["valueAt"])
-  expect([...(found.get("claude-account-reading") ?? [])]).toEqual(["accountValuesIn"])
+  expect([...(found.get("model-account-reading") ?? [])]).toEqual(["accountValuesIn"])
   expect([...(found.get("quiet") ?? [])]).toEqual([])
   expect([...(found.get("no-module-carries-this-slug") ?? [])]).toEqual([])
 })

@@ -1,4 +1,4 @@
-import { wordsOf } from "akasha/agents/hook/modules/shell-calls/shell-calls.module.code.ts"
+import { wordsOf } from "akasha/agent/hook/modules/shell-calls/shell-calls.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import {
   answering,

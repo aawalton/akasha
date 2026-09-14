@@ -1,0 +1,169 @@
+import { principalSeatNameOf } from "akasha/agent/seat/declaration/modules/seat-principal/seat-principal.module.code.ts"
+import {
+  pageWouldCompose,
+  type Stated,
+  statedOf,
+} from "akasha/agent/seat/declaration/modules/seat-stated/seat-stated.module.code.ts"
+import { stateSpawnedSeat } from "akasha/agent/seat/declaration/modules/state-spawned-seat/state-spawned-seat.module.code.ts"
+import { resolveSeatTargetCli } from "akasha/agent/seat/fleet/modules/seat-handle/seat-handle.module.code.ts"
+import {
+  killSeatSession,
+  launchSeatUnderTmux,
+} from "akasha/agent/seat/launching/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts"
+import {
+  isSeatMode,
+  SEAT_MODE_HEADLESS,
+} from "akasha/agent/seat/launching/modules/seat-modes/seat-modes.module.code.ts"
+import { DEFAULT_ACCOUNT } from "akasha/agent/seat/launching/seat-launching.module.code.ts"
+import { composeSeatName } from "akasha/agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
+import { flexInName } from "akasha/agent/seat/name/modules/seat-flex/seat-flex.module.code.ts"
+import { mintNamedAgent } from "akasha/agent/seat/name-claiming/modules/seat-name-bind/seat-name-bind.module.code.ts"
+import {
+  type SeatFromHistory,
+  seatFromHistory,
+} from "akasha/agent/seat/page/modules/history/seat-page-history.module.code.ts"
+import {
+  A_RESET,
+  stopSeat,
+} from "akasha/agent/seat/stopping/modules/stop-seat/stop-seat.module.code.ts"
+import {
+  dataError,
+  inputError,
+} from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import { textIn } from "akasha/utils/narrow/modules/text-in/text-in.module.code.ts"
+
+interface Kept {
+  readonly persona: string | null
+  readonly domain: string | null
+  readonly role: string | null
+  readonly principal: string | null
+  readonly flex: string | null
+  readonly initiative: string | null
+  readonly account: string
+  readonly parentName: string | null
+  readonly mode: string
+  readonly onCall: boolean
+}
+
+function keptStanding(agentId: string, stated: Stated): Kept {
+  return {
+    persona: stated.attributes.persona?.slug ?? null,
+    domain: stated.attributes.domain?.slug ?? null,
+    role: stated.attributes.role?.slug ?? null,
+    principal: stated.principal?.value ?? null,
+    flex: stated.flex?.value ?? null,
+    initiative: stated.initiative?.value ?? null,
+    account: stated.registration?.value ?? DEFAULT_ACCOUNT,
+    parentName: principalSeatNameOf(agentId),
+    mode: stated.mode,
+    onCall: stated.onCall,
+  }
+}
+
+function keptRecovered(was: SeatFromHistory): Kept {
+  const mode = was.mode
+  return {
+    persona: was.set.persona ?? null,
+    domain: was.set.domain ?? null,
+    role: was.set.role ?? null,
+    principal: was.principal,
+    flex: flexInName(was.seatName),
+    initiative: was.initiative,
+    account: was.account ?? DEFAULT_ACCOUNT,
+    parentName: was.parentName,
+    mode: mode !== null && isSeatMode(mode) ? mode : SEAT_MODE_HEADLESS,
+    onCall: was.onCall,
+  }
+}
+
+export default async function seatReset(input: string, done: string[] = []): Promise<void> {
+  const agentId = await resolveSeatTargetCli(input)
+
+  if (textIn(process.env.AGENT_ID) === agentId) {
+    throw inputError(
+      `'${input}' is the seat running this command. A reset takes the agent out of the seat, so ` +
+        "a seat resetting itself destroys the turn issuing the command before it can answer. " +
+        "`akasha seat resume` is how a seat comes back; a reset is somebody else's to run."
+    )
+  }
+
+  const roots = resolveRoots()
+
+  const standing = statedOf(agentId)
+  const recovered = pageWouldCompose(standing) ? null : seatFromHistory(agentId, roots)
+  const kept = recovered === null ? keptStanding(agentId, standing) : keptRecovered(recovered)
+
+  if (kept.domain === null || kept.role === null || kept.principal === null) {
+    throw dataError(
+      `seat '${input}' states no domain, role and principal on a page standing for it, and the ` +
+        "last page committed for it in this repository states none either. A stopped " +
+        "seat's page is taken by the stop, which commits it, so a seat that ever stated what it " +
+        "is can be read back from there — and nothing here can. Write what the seat is onto " +
+        "its own page, or start a fresh one with `akasha seat start`."
+    )
+  }
+
+  const mode = kept.mode
+
+  const name = composeSeatName(
+    {
+      attributes: { persona: kept.persona, domain: kept.domain, role: kept.role },
+      flex: kept.flex,
+      principal: kept.principal,
+    },
+    rootFor(roots, AKASHA)
+  )
+  if (name === null) {
+    throw dataError(
+      `seat '${input}' states nothing that spells a name, so the reset has no seat to sit the ` +
+        "new agent down in."
+    )
+  }
+
+  await stopSeat({ agentId, force: false, saying: A_RESET })
+  done.push(`took the agent ${agentId} out of \`${name}\``)
+
+  await killSeatSession(name)
+  done.push(`killed the tmux session \`${name}\``)
+
+  const fresh = await mintNamedAgent(name)
+  done.push(`bound \`${name}\` to the fresh agent ${fresh}`)
+
+  const unstated = await stateSpawnedSeat({
+    agentId: fresh,
+    mode,
+    principal: kept.principal,
+    ...(kept.persona === null ? {} : { persona: kept.persona }),
+    ...(kept.domain === null ? {} : { domain: kept.domain }),
+    ...(kept.role === null ? {} : { role: kept.role }),
+    flex: kept.flex,
+    initiative: kept.initiative,
+    onCall: kept.onCall,
+    parentName: kept.parentName,
+    account: kept.account,
+  })
+  if (unstated.length > 0) {
+    process.stderr.write(
+      `[seat reset] ${name}: nothing was stated, so no page stands for this seat and nothing ` +
+        `reads it as running — ${unstated.join("; ")}\n`
+    )
+    done.push(`wrote no page for ${fresh} — ${unstated.join("; ")}`)
+  } else {
+    done.push(`wrote the page for ${fresh}`)
+  }
+  await launchSeatUnderTmux({
+    name,
+    agentId: fresh,
+    account: kept.account,
+    prompt: "",
+    mode,
+  })
+  done.push(`launched ${fresh} in \`${name}\` under tmux, ${mode}`)
+
+  process.stdout.write(`${fresh}\t${name}\t${mode}\n`)
+}

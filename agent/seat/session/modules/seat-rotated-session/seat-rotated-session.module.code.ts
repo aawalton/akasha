@@ -1,0 +1,29 @@
+import {
+  dropSeatRecord,
+  keepSeatRecord,
+  seatRecordOf,
+} from "akasha/agent/seat/page/modules/seat-record/seat-record.module.code.ts"
+import { pageTextOf } from "akasha/agent/seat/page/modules/values/seat-page-values.module.code.ts"
+import {
+  type SessionRecord,
+  sessionRecordOf,
+} from "akasha/agent/seat/session/seat-session.module.code.ts"
+
+export const ROTATED_KEY = "rotated-session-uuid"
+
+const KEY = ROTATED_KEY
+
+export function rotatedOf(agent: string): SessionRecord | null {
+  const kept = seatRecordOf(agent, KEY)
+  const stood = kept === null ? null : sessionRecordOf(kept.value)
+  return stood ?? sessionRecordOf(pageTextOf(agent, KEY))
+}
+
+export function keepRotated(agent: string, value: string, at?: number): undefined {
+  if (sessionRecordOf(value) === null) return
+  keepSeatRecord(agent, KEY, value, at)
+}
+
+export function clearRotated(agent: string): undefined {
+  dropSeatRecord(agent, KEY)
+}

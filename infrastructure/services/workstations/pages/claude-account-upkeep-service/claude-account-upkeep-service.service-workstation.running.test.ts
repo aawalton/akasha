@@ -4,11 +4,11 @@ const RAN: string[] = []
 let FAILING: Error | null = null
 
 const upkeep = await import(
-  "akasha/agents/claude-account/modules/account-upkeep-running/account-upkeep-running.module.code.ts"
+  "akasha/agent/model/account/modules/account-upkeep-running/account-upkeep-running.module.code.ts"
 )
 
 mock.module(
-  "akasha/agents/claude-account/modules/account-upkeep-running/account-upkeep-running.module.code.ts",
+  "akasha/agent/model/account/modules/account-upkeep-running/account-upkeep-running.module.code.ts",
   () => ({
     ...upkeep,
     runAccountUpkeepRunning: () => {
@@ -19,7 +19,7 @@ mock.module(
 )
 
 const running = await import(
-  "akasha/infrastructure/services/workstations/pages/claude-account-upkeep-service/claude-account-upkeep-service.service-workstation.running.code.ts"
+  "akasha/infrastructure/services/workstations/pages/model-account-upkeep-service/model-account-upkeep-service.service-workstation.running.code.ts"
 )
 
 test("the run is a function taking nothing, which is how the service runner calls it", () => {
@@ -40,6 +40,6 @@ test("a run turns the upkeep module's own loop rather than a loop written again 
 
 test("a loop that could not run is carried out rather than swallowed, so a failed run is a failed unit", async () => {
   RAN.length = 0
-  FAILING = new Error("the claude-account upkeep loop could not run")
-  await expect(running.runService()).rejects.toThrow("the claude-account upkeep loop could not run")
+  FAILING = new Error("the model-account upkeep loop could not run")
+  await expect(running.runService()).rejects.toThrow("the model-account upkeep loop could not run")
 })

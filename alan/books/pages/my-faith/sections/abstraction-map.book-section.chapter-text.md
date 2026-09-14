@@ -41,7 +41,7 @@ commentary proposes candidate nodes, this file holds the synthesis.
 > `## domain` heading once the text raises it (with its verse refs and tag). New
 > domains get their own `## heading` as the read surfaces them. The running
 > apparatus fills this map in live sessions; early 1 Nephi nodes migrate here from
-> Talia's `~/agents/talia/` scratch as the apparatus carries them forward.
+> Talia's `~/agent/talia/` scratch as the apparatus carries them forward.
 
 ## God (nature, throne, court)
 - _(nodes added as the read raises them)_

@@ -49,14 +49,14 @@ test("a slug another page type carries is no workstation service to run", async 
 
 test("a service that threw part way names in the refusal what that service had done", async () => {
   const answer = await calledBy("send-due-reminders", (done) => {
-    done.push("the message to alan, written at agents/messages/one.message.md")
+    done.push("the message to alan, written at agent/messages/one.message.md")
     throw new Error("the second reminder would not arm")
   })
 
   expect(answer.code).toBe(OPERATIONAL)
   expect(answer.refusals[0]).toContain("would not arm")
-  expect(answer.refusals.join("\n")).toContain("agents/messages/one.message.md")
-  expect(answer.report).toContain("the message to alan, written at agents/messages/one.message.md")
+  expect(answer.refusals.join("\n")).toContain("agent/messages/one.message.md")
+  expect(answer.report).toContain("the message to alan, written at agent/messages/one.message.md")
 })
 
 test("a service that did nothing before it threw says nothing about what it did", async () => {
@@ -69,10 +69,10 @@ test("a service that did nothing before it threw says nothing about what it did"
 
 test("a service that ran through says what it did beside the slug it ran", async () => {
   const answer = await calledBy("send-due-reminders", (done) => {
-    done.push("the message to alan, written at agents/messages/one.message.md")
+    done.push("the message to alan, written at agent/messages/one.message.md")
   })
 
   expect(answer.refusals).toEqual([])
   expect(answer.report).toContain("ran\tsend-due-reminders")
-  expect(answer.report).toContain("the message to alan, written at agents/messages/one.message.md")
+  expect(answer.report).toContain("the message to alan, written at agent/messages/one.message.md")
 })

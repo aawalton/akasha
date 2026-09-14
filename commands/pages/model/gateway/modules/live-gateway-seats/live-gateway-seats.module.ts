@@ -17,7 +17,7 @@ export const liveGatewaySeats = {
     },
     {
       invariantKind: "gap",
-      statement: "The ordering and the liveness folding are `agents/proxy-seats`.",
+      statement: "The ordering and the liveness folding are `agent/proxy-seats`.",
     },
     {
       invariantKind: "absence",

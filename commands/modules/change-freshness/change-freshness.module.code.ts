@@ -4,7 +4,7 @@ import {
   blobIdOf,
   type Reading,
   sameBody,
-} from "akasha/agents/modules/read-record/read-record.module.code.ts"
+} from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import {

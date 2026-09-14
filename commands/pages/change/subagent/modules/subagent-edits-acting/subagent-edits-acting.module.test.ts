@@ -4,7 +4,7 @@ import { dirname, join } from "node:path"
 import {
   movedOnto,
   seatEditsAt,
-} from "akasha/agents/subagent/modules/recovering/subagent-recovering.module.code.ts"
+} from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   appendEdits,
@@ -22,9 +22,9 @@ import { put } from "akasha/testing-system/test-fixtures/putting/putting.test-fi
 
 afterAll(scratch.sweep)
 
-const SEAT = "agents/seats/pages/tester/tester.seat.ts"
+const SEAT = "agent/seat/pages/tester/tester.seat.ts"
 
-const UNDER = "agents/subagents/pages/tester-abc/tester-abc.subagent.ts"
+const UNDER = "agent/subagent/pages/tester-abc/tester-abc.subagent.ts"
 
 const ONE: FileChange = { kind: "replace", path: "one.md", contentFrom: "was", contentTo: "now" }
 

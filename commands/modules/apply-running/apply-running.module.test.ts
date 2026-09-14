@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, symlinkSync } from "node:fs"
-import { linkFor, linksAt } from "akasha/agents/hook/modules/links/hook-links.module.code.ts"
+import { linkFor, linksAt } from "akasha/agent/hook/modules/links/hook-links.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   appendEdits,
@@ -34,7 +34,7 @@ import {
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing as putting } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
-const PAGE = "akasha/agents/seats/pages/tester.seat.ts"
+const PAGE = "akasha/agent/seat/pages/tester.seat.ts"
 
 const ONE = "akasha/one.page.ts"
 

@@ -1,5 +1,5 @@
 import { resolve } from "node:path"
-import { auditRefusalsPut } from "akasha/agents/modules/refusals-keeping/refusals-keeping.module.code.ts"
+import { auditRefusalsPut } from "akasha/agent/modules/refusals-keeping/refusals-keeping.module.code.ts"
 import { asked, type Told } from "akasha/checks/modules/audit-asking/audit-asking.module.code.ts"
 import {
   commitOf,

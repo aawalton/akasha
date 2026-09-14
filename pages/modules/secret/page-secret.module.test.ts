@@ -18,9 +18,9 @@ const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
-const PAGE = "akasha/one/aine.claude-account.ts"
+const PAGE = "akasha/one/aine.model-account.ts"
 
-const BESIDE = "akasha/one/aine.claude-account.sops.yaml"
+const BESIDE = "akasha/one/aine.model-account.sops.yaml"
 
 const REPO = rootOf(import.meta.dir)
 

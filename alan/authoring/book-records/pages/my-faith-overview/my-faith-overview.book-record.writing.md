@@ -58,7 +58,7 @@ Every map claim carries its grounding verses and a tag:
   is the live frontier.
 - The **commentary** and **abstraction map** are filled by the running apparatus
   in live sessions — the recorder writes commentary verse by verse, the archivist
-  maintains the map. Early work (1 Nephi) lives in Talia's `~/agents/talia/`
+  maintains the map. Early work (1 Nephi) lives in Talia's `~/agent/talia/`
   scratch and migrates here as the apparatus carries it forward.
 - The apparatus keeps this OVERVIEW faithful as the corpus grows (the archivist's
   job) — it is the standing map, not a historical snapshot.

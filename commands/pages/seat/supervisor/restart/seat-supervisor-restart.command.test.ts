@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   holderIn,
   nameOf,
-} from "akasha/agents/seats/page/modules/seat-reading/seat-reading.module.code.ts"
+} from "akasha/agent/seat/page/modules/seat-reading/seat-reading.module.code.ts"
 import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import {
   answering,
@@ -91,7 +91,7 @@ test("a restart that threw before a seat was signalled names none", async () => 
 })
 
 test("a name is read off the page path", () => {
-  expect(nameOf("agents/seats/pages/athena.seat.ts")).toBe("athena")
+  expect(nameOf("agent/seat/pages/athena.seat.ts")).toBe("athena")
 })
 
 test("a process is its pid and the start time joined by a hyphen", () => {

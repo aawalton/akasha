@@ -1,11 +1,11 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { seatPathForName } from "akasha/agents/seats/page/modules/seat-reading/seat-reading.module.code.ts"
+import { seatPathForName } from "akasha/agent/seat/page/modules/seat-reading/seat-reading.module.code.ts"
 import {
   type Stopped,
   type Stopping,
   stopping,
-} from "akasha/agents/seats/stopping/seat-stopping.module.code.ts"
+} from "akasha/agent/seat/stopping/seat-stopping.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import { force as forceArgument } from "akasha/commands/arguments/pages/force.argument.ts"
 import { seat } from "akasha/commands/arguments/pages/seat.argument.ts"

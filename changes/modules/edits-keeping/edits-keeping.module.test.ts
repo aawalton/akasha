@@ -18,11 +18,11 @@ import { ENTRY_CEILING } from "akasha/pages/modules/entry-ceiling/entry-ceiling.
 
 afterAll(scratch.sweep)
 
-const PAGE = "akasha/agents/pages/tester.agent.ts"
+const PAGE = "akasha/agent/pages/tester.agent.ts"
 
-const AT = "akasha/agents/pages/tester.agent.edits.uncommitted.jsonl"
+const AT = "akasha/agent/pages/tester.agent.edits.uncommitted.jsonl"
 
-const TWO_AT = "akasha/agents/pages/tester.agent.edits.part2.uncommitted.jsonl"
+const TWO_AT = "akasha/agent/pages/tester.agent.edits.part2.uncommitted.jsonl"
 
 const ONE = "akasha/one.module.ts"
 

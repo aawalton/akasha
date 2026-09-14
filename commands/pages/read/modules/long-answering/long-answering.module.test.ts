@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Reading } from "akasha/agents/modules/read-record/read-record.module.code.ts"
+import type { Reading } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { lettered } from "akasha/commands/modules/long-body/long-body.module.test-fixtures.ts"
 import {
   afterIn,

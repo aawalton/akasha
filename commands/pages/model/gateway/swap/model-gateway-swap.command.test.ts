@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { SeatMatch } from "akasha/agents/seats/fleet/modules/seat-handle/seat-handle.module.code.ts"
+import type { SeatMatch } from "akasha/agent/seat/fleet/modules/seat-handle/seat-handle.module.code.ts"
 import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { fleet } from "akasha/commands/arguments/pages/fleet.argument.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"

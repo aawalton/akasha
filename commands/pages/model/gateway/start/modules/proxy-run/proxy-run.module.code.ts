@@ -1,12 +1,12 @@
 import { closeSync, mkdirSync, openSync } from "node:fs"
 import { join } from "node:path"
-import { modelGatewayEntrypoint } from "akasha/agents/model/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
-import { readFirstLineAsPort } from "akasha/agents/seats/oauth-proxy/modules/supervisor-proxy-port-line/supervisor-proxy-port-line.module.code.ts"
-import { seatNameForAgent } from "akasha/agents/seats/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
+import { modelGatewayEntrypoint } from "akasha/agent/model/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
+import { readFirstLineAsPort } from "akasha/agent/seat/oauth-proxy/modules/supervisor-proxy-port-line/supervisor-proxy-port-line.module.code.ts"
+import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import {
   agentRuntimeDir,
   supervisorSocketPath,
-} from "akasha/agents/seats/supervisors/supervisor-log/modules/path/supervisor-log-path.module.code.ts"
+} from "akasha/agent/seat/supervisors/supervisor-log/modules/path/supervisor-log-path.module.code.ts"
 
 export const STDERR_LOG = "oauth-proxy.stderr.log"
 

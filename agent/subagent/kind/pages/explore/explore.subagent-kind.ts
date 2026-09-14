@@ -1,0 +1,11 @@
+import type { SubagentKind } from "akasha/agent/subagent/kind/subagent-kind.page-type.types.ts"
+
+export const explore = {
+  id: "01a06861-f664-7abd-b503-d89b310876ae",
+  type: "subagent-kind",
+  slug: "explore",
+  definition: "a subagent that searches a tree and reports what is in it",
+  dispatchedAs: "Explore",
+  model: "opus",
+  subagentPrompt: "md",
+} as const satisfies SubagentKind

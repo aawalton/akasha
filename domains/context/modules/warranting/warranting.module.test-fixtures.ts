@@ -3,8 +3,8 @@ import { join } from "node:path"
 import {
   recordRead,
   SUBAGENT_MARK,
-} from "akasha/agents/modules/read-record/read-record.module.code.ts"
-import { agentPaged } from "akasha/agents/modules/read-record/read-record.module.test-fixtures.ts"
+} from "akasha/agent/modules/read-record/read-record.module.code.ts"
+import { agentPaged } from "akasha/agent/modules/read-record/read-record.module.test-fixtures.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import type { Warrant } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import {
@@ -93,9 +93,9 @@ export type Said = {
 
 export const OWED = "a reading this test says is owed"
 
-export const SEAT_AT = "akasha/seat-system/seat/seats/one.seat.ts"
+export const SEAT_AT = "akasha/seat-system/seat/seat/one.seat.ts"
 
-export const SUB_AT = "akasha/seat-system/subagent/subagents/one-suba.subagent.ts"
+export const SUB_AT = "akasha/seat-system/subagent/subagent/one-suba.subagent.ts"
 
 export const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
 
@@ -304,7 +304,7 @@ export function pageTypeListed(root: string, slug: string, above: readonly strin
 }
 
 export function seatListed(root: string, slug: string, stated: string): string {
-  const path = `seat-system/seat/seats/${slug}.seat.ts`
+  const path = `seat-system/seat/seat/${slug}.seat.ts`
   writing(root, path, `export const ${exportedAs(slug)} = { ${stated} }\n`)
   return path
 }

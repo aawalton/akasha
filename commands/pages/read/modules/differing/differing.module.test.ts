@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { readdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { blobIdOf } from "akasha/agents/modules/read-record/read-record.module.code.ts"
+import { blobIdOf } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import {
   bodyRead,
   differenceOf,

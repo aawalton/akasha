@@ -189,12 +189,12 @@ test("a name tailed `uncommitted` is answered as one, and a page or property fil
 })
 
 test("a file tailed `sops` is held as its page's secret values, not as a property", () => {
-  expect(heldIn("one/aine.claude-account.sops.yaml", PAGE_TYPES, FILE_PROPERTIES)).toEqual({
-    path: "one/aine.claude-account.sops.yaml",
+  expect(heldIn("one/aine.model-account.sops.yaml", PAGE_TYPES, FILE_PROPERTIES)).toEqual({
+    path: "one/aine.model-account.sops.yaml",
     kind: "secret",
     slug: null,
     pageTypeSlug: null,
-    page: "aine.claude-account",
+    page: "aine.model-account",
     propertySlug: null,
     part: 1,
     uncommitted: false,
@@ -202,18 +202,18 @@ test("a file tailed `sops` is held as its page's secret values, not as a propert
 })
 
 test("the tail `sops` is reserved, so the sets handed in cannot make it a property or a page", () => {
-  const held = heldIn("one/aine.claude-account.sops.yaml", PAGE_TYPES, new Set(["code", "sops"]))
+  const held = heldIn("one/aine.model-account.sops.yaml", PAGE_TYPES, new Set(["code", "sops"]))
   expect(held.kind).toBe("secret")
   expect(held.propertySlug).toBeNull()
-  expect(pageNamed("one/aine.claude-account.sops.ts", new Set(["sops"]))).toBe(false)
+  expect(pageNamed("one/aine.model-account.sops.ts", new Set(["sops"]))).toBe(false)
 })
 
 test("a sops file stands beside its page, and heldIn takes that name apart again", () => {
-  const page = "one/aine.claude-account.ts"
+  const page = "one/aine.model-account.ts"
   const beside = secretAt(page)
-  expect(beside).toBe("one/aine.claude-account.sops.yaml")
+  expect(beside).toBe("one/aine.model-account.sops.yaml")
   if (beside === null) throw new Error("expected a name beside the page")
-  expect(heldIn(beside, PAGE_TYPES, FILE_PROPERTIES).page).toBe("aine.claude-account")
+  expect(heldIn(beside, PAGE_TYPES, FILE_PROPERTIES).page).toBe("aine.model-account")
 })
 
 test("a path that is no TypeScript file carries no sops file", () => {
@@ -221,8 +221,8 @@ test("a path that is no TypeScript file carries no sops file", () => {
 })
 
 test("a name tailed `sops` is answered as one, and a page or property or uncommitted file is not", () => {
-  expect(secretNamed("one/aine.claude-account.sops.yaml")).toBe(true)
-  expect(secretNamed("one/aine.claude-account.ts")).toBe(false)
+  expect(secretNamed("one/aine.model-account.sops.yaml")).toBe(true)
+  expect(secretNamed("one/aine.model-account.ts")).toBe(false)
   expect(secretNamed("one/file-length.check.code.ts")).toBe(false)
   expect(secretNamed("one/file-length.check.uncommitted.ts")).toBe(false)
 })
@@ -296,7 +296,7 @@ test("a page type nothing knows still holds a property, an uncommitted file and 
 test("what heldIn answers of a name is what each predicate answers of that name", () => {
   agreeing("one/file-length.check.ts")
   agreeing("one/file-length.check.uncommitted.ts")
-  agreeing("one/aine.claude-account.sops.yaml")
+  agreeing("one/aine.model-account.sops.yaml")
   agreeing("one/file-length.check.code.ts")
   agreeing("one/dalla.seat.patch.uncommitted.patch")
   agreeing("one/held.uncommitted.ts")

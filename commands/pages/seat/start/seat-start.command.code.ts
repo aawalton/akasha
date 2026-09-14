@@ -1,5 +1,5 @@
-import { refuseStatedName } from "akasha/agents/seats/name-claiming/modules/seat-stated-name-refusal/seat-stated-name-refusal.module.code.ts"
-import { refuseStatedParent } from "akasha/agents/seats/name-claiming/modules/seat-stated-parent-refusal/seat-stated-parent-refusal.module.code.ts"
+import { refuseStatedName } from "akasha/agent/seat/name-claiming/modules/seat-stated-name-refusal/seat-stated-name-refusal.module.code.ts"
+import { refuseStatedParent } from "akasha/agent/seat/name-claiming/modules/seat-stated-parent-refusal/seat-stated-parent-refusal.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import { account } from "akasha/commands/arguments/pages/account.argument.ts"
 import { anthropicAuthToken } from "akasha/commands/arguments/pages/anthropic-auth-token.argument.ts"
@@ -51,7 +51,7 @@ export async function seatStart(argv: readonly string[], given: Given): Promise<
   if ("refused" in read) return refusedBy(guidedBy(read.refused))
   const asked = read.taken
   const { default: starting } = await import(
-    "akasha/agents/seats/launching/modules/seat-start/seat-start.module.code.ts"
+    "akasha/agent/seat/launching/modules/seat-start/seat-start.module.code.ts"
   )
   return await ran(async (done) => {
     await starting(asked, done)

@@ -1,4 +1,4 @@
-import { type Reading, reachOf } from "akasha/agents/modules/read-record/read-record.module.code.ts"
+import { type Reading, reachOf } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import type { Run } from "akasha/commands/modules/long-body/long-body.module.code.ts"
 import {
   linesOf,

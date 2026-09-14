@@ -1,20 +1,20 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import type { ProcLivenessEntry } from "akasha/agents/modules/proc-liveness/agent-proc-liveness.module.code.ts"
-import { scanProcEntries } from "akasha/agents/modules/proc-scan/proc-scan.module.code.ts"
+import type { ProcLivenessEntry } from "akasha/agent/modules/proc-liveness/agent-proc-liveness.module.code.ts"
+import { scanProcEntries } from "akasha/agent/modules/proc-scan/proc-scan.module.code.ts"
 import {
   type Judged,
   judgedOver,
   pagesIn,
   STALE,
   seenIn,
-} from "akasha/agents/subagent/modules/census/subagent-census.module.code.ts"
-import { pathIn } from "akasha/agents/subagent/modules/page-naming/subagent-page-naming.module.code.ts"
+} from "akasha/agent/subagent/modules/census/subagent-census.module.code.ts"
+import { pathIn } from "akasha/agent/subagent/modules/page-naming/subagent-page-naming.module.code.ts"
 import {
   stoppedBeside,
   took,
-} from "akasha/agents/subagent/modules/presence/subagent-presence.module.code.ts"
-import { subagentStopped } from "akasha/agents/subagent/properties/subagent-stopped.boolean-property.ts"
+} from "akasha/agent/subagent/modules/presence/subagent-presence.module.code.ts"
+import { subagentStopped } from "akasha/agent/subagent/properties/subagent-stopped.boolean-property.ts"
 import {
   type Landing,
   runMechanicalChange,

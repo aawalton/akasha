@@ -7,14 +7,14 @@ import {
   SEAT_SUPERVISOR_STOP,
   SHELL_INIT,
 } from "akasha/code/shell/terminal/modules/terminal-calls/terminal-calls.module.code.ts"
-import { claudeAccountAdd } from "akasha/commands/pages/claude-account/add/claude-account-add.command.ts"
-import { claudeAccount } from "akasha/commands/pages/claude-account/claude-account.namespace.ts"
+import { modelAccountAdd } from "akasha/commands/pages/model/account/add/model-account-add.command.ts"
+import { modelAccount } from "akasha/commands/pages/model/account/model-account.namespace.ts"
 import { git } from "akasha/commands/pages/git/git.namespace.ts"
 import { gitPush } from "akasha/commands/pages/git/push/git-push.command.ts"
 import { infrastructure } from "akasha/commands/pages/infrastructure/infrastructure.namespace.ts"
 import { infrastructureShellInitBash } from "akasha/commands/pages/infrastructure/shell-init-bash/infrastructure-shell-init-bash.command.ts"
-import { measureClaudeAccount } from "akasha/commands/pages/measure/claude-account/measure-claude-account.namespace.ts"
-import { measureClaudeAccountUsage } from "akasha/commands/pages/measure/claude-account/usage/measure-claude-account-usage.command.ts"
+import { measureModelAccount } from "akasha/commands/pages/measure/model/account/measure-model-account.namespace.ts"
+import { measureModelAccountUsage } from "akasha/commands/pages/measure/model/account/usage/measure-model-account-usage.command.ts"
 import { measure } from "akasha/commands/pages/measure/measure.namespace.ts"
 import { seat } from "akasha/commands/pages/seat/seat.namespace.ts"
 import { seatStart } from "akasha/commands/pages/seat/start/seat-start.command.ts"
@@ -22,8 +22,8 @@ import { seatSupervisor } from "akasha/commands/pages/seat/supervisor/seat-super
 import { seatSupervisorStop } from "akasha/commands/pages/seat/supervisor/stop/seat-supervisor-stop.command.ts"
 
 const EVERY: readonly (readonly [string, readonly { readonly name: string }[]])[] = [
-  [CLAUDE_ACCOUNT_ADD, [claudeAccount, claudeAccountAdd]],
-  [CLAUDE_USAGE, [measure, measureClaudeAccount, measureClaudeAccountUsage]],
+  [CLAUDE_ACCOUNT_ADD, [modelAccount, modelAccountAdd]],
+  [CLAUDE_USAGE, [measure, measureModelAccount, measureModelAccountUsage]],
   [GIT_PUSH, [git, gitPush]],
   [SEAT_START, [seat, seatStart]],
   [SEAT_SUPERVISOR_STOP, [seat, seatSupervisor, seatSupervisorStop]],
@@ -43,13 +43,13 @@ test("a call has one word for each level it reaches", () => {
 })
 
 test("a level whose own name carries a hyphen keeps that hyphen", () => {
-  expect(CLAUDE_ACCOUNT_ADD.split(" ")[0]).toBe(claudeAccount.name)
-  expect(claudeAccount.name).toContain("-")
+  expect(CLAUDE_ACCOUNT_ADD.split(" ")[0]).toBe(modelAccount.name)
+  expect(modelAccount.name).toContain("-")
 })
 
 test("no call carries the slug that names its command", () => {
   for (const [said] of EVERY) {
     expect(said).not.toContain("akasha")
   }
-  expect(CLAUDE_USAGE).not.toBe(measureClaudeAccountUsage.slug)
+  expect(CLAUDE_USAGE).not.toBe(measureModelAccountUsage.slug)
 })

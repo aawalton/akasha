@@ -4,7 +4,7 @@ import { dirname, join } from "node:path"
 import {
   colorIn,
   WORKING_PAGE,
-} from "akasha/agents/seats/observation/seat-turn/modules/color/seat-turn-color.module.test-fixtures.ts"
+} from "akasha/agent/seat/observation/seat-turn/modules/color/seat-turn-color.module.test-fixtures.ts"
 import { askIn } from "akasha/code/editor/extension/modules/command-server/command-server.module.code.ts"
 import {
   askServed,

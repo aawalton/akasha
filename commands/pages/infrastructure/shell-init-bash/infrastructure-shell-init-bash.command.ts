@@ -11,7 +11,7 @@ export const infrastructureShellInitBash = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One `c<N>` launcher is composed for each claude account page.",
+      statement: "One `c<N>` launcher is composed for each model account page.",
     },
     {
       invariantKind: "departure",

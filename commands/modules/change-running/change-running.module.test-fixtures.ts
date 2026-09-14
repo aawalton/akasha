@@ -32,7 +32,7 @@ import {
   pageOf,
 } from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
-export const PAGE = "akasha/agents/seats/pages/tester.seat.ts"
+export const PAGE = "akasha/agent/seat/pages/tester.seat.ts"
 
 export const MISSING = "akasha/one/missing.module.ts"
 

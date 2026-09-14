@@ -80,7 +80,7 @@ test("a tick names each page that went and leaves the rest of the census unsaid"
     code: OK,
     report: [
       "40 subagent page(s): 6 working, 1 stale",
-      "agents/subagents/pages/a/a.subagent.ts went",
+      "agent/subagent/pages/a/a.subagent.ts went",
     ],
     refusals: [],
   }
@@ -90,7 +90,7 @@ test("a tick names each page that went and leaves the rest of the census unsaid"
   } finally {
     stop()
   }
-  expect(WROTE).toEqual(["agents/subagents/pages/a/a.subagent.ts went\n"])
+  expect(WROTE).toEqual(["agent/subagent/pages/a/a.subagent.ts went\n"])
 })
 
 test("a tick a held lock refused says the refusal and still ends well", async () => {

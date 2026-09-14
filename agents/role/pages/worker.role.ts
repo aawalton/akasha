@@ -1,9 +1,0 @@
-import type { Role } from "akasha/agents/role/role.page-type.types.ts"
-
-export const worker = {
-  id: "01a053c5-8d2d-7022-928e-ef1f1da1b0c4",
-  type: "role",
-  slug: "worker",
-  definition: "an agent doing the work its seat is handed",
-  onCall: false,
-} as const satisfies Role

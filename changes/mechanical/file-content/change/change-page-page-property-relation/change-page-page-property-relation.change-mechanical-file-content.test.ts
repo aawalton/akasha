@@ -11,7 +11,7 @@ import {
 } from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
-const AT = "agents/seats/pages/held.seat.ts"
+const AT = "agent/seat/pages/held.seat.ts"
 
 const ID = "01a072c8-f35d-7ffc-afc3-75b72460b059"
 

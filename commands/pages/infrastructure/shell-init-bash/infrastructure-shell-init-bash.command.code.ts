@@ -1,4 +1,4 @@
-import { aliasIndexesIn } from "akasha/agents/claude-account/modules/reading/claude-account-reading.module.code.ts"
+import { aliasIndexesIn } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
 import type { AliasEntry } from "akasha/code/shell/terminal/modules/terminal-bash/terminal-bash.module.code.ts"
 import { generateBashInit } from "akasha/code/shell/terminal/modules/terminal-bash/terminal-bash.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
@@ -13,7 +13,7 @@ import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.
 import { infrastructureShellInitBash as page } from "akasha/commands/pages/infrastructure/shell-init-bash/infrastructure-shell-init-bash.command.ts"
 
 const NO_ACCOUNT =
-  "no claude account page was read, so the set would carry no account launcher at all — " +
+  "no model account page was read, so the set would carry no account launcher at all — " +
   "the shell keeps the definitions it started with rather than losing them silently"
 
 function accountsIn(root: string): readonly AliasEntry[] {

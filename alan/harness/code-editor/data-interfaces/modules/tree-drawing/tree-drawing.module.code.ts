@@ -1,11 +1,11 @@
 import { join } from "node:path"
-import type { SubagentPage } from "akasha/agents/modules/page-reading/agent-page-reading.module.code.ts"
-import type { ForestSeat } from "akasha/agents/seats/fleet/modules/seat-forest-reading/seat-forest-reading.module.code.ts"
+import type { SubagentPage } from "akasha/agent/modules/page-reading/agent-page-reading.module.code.ts"
+import type { ForestSeat } from "akasha/agent/seat/fleet/modules/seat-forest-reading/seat-forest-reading.module.code.ts"
 import {
   forestOver,
   NOW,
-} from "akasha/agents/seats/fleet/modules/seat-forest-reading/seat-forest-reading.module.code.ts"
-import { colorOfState } from "akasha/agents/seats/observation/seat-turn/modules/color/seat-turn-color.module.code.ts"
+} from "akasha/agent/seat/fleet/modules/seat-forest-reading/seat-forest-reading.module.code.ts"
+import { colorOfState } from "akasha/agent/seat/observation/seat-turn/modules/color/seat-turn-color.module.code.ts"
 import { assembleCommandTree } from "akasha/alan/harness/code-editor/data-interfaces/modules/command-tree-assemble/command-tree-assemble.module.code.ts"
 import { assemblePageTree } from "akasha/alan/harness/code-editor/data-interfaces/modules/page-tree-assemble/page-tree-assemble.module.code.ts"
 import {

@@ -4,8 +4,8 @@ import { dirname, join } from "node:path"
 import {
   colorIn,
   WORKING_PAGE,
-} from "akasha/agents/seats/observation/seat-turn/modules/color/seat-turn-color.module.test-fixtures.ts"
-import type { SeatTurnState } from "akasha/agents/seats/observation/seat-turn/modules/state/seat-turn-state.module.code.ts"
+} from "akasha/agent/seat/observation/seat-turn/modules/color/seat-turn-color.module.test-fixtures.ts"
+import type { SeatTurnState } from "akasha/agent/seat/observation/seat-turn/modules/state/seat-turn-state.module.code.ts"
 import { turnState } from "akasha/commands/arguments/pages/turn-state.argument.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { ROOT_NAMED } from "akasha/commands/modules/rooting/rooting.module.code.ts"

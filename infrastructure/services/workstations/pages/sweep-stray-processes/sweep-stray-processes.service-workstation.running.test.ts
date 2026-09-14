@@ -2,9 +2,9 @@ import { expect, mock, test } from "bun:test"
 
 const RAN: string[] = []
 
-const sweeping = await import("akasha/agents/modules/stray-sweeping/stray-sweeping.module.code.ts")
+const sweeping = await import("akasha/agent/modules/stray-sweeping/stray-sweeping.module.code.ts")
 
-mock.module("akasha/agents/modules/stray-sweeping/stray-sweeping.module.code.ts", () => ({
+mock.module("akasha/agent/modules/stray-sweeping/stray-sweeping.module.code.ts", () => ({
   ...sweeping,
   sweepStrayProcesses: () => {
     RAN.push("tick")
@@ -33,7 +33,7 @@ test("a run turns the sweeping module's own tick rather than a tick written agai
 
 test("a tick that ended badly is carried out rather than swallowed, so a failed run is a failed unit", async () => {
   const why = new Error("the process table could not be read")
-  mock.module("akasha/agents/modules/stray-sweeping/stray-sweeping.module.code.ts", () => ({
+  mock.module("akasha/agent/modules/stray-sweeping/stray-sweeping.module.code.ts", () => ({
     ...sweeping,
     sweepStrayProcesses: () => Promise.reject(why),
   }))

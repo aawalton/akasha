@@ -9,7 +9,7 @@ export async function seatReset(argv: readonly string[], given: Given): Promise<
   const read = takenFor(argv, given.calledAs, page, [seat])
   if ("refused" in read) return refusedBy(read.refused)
   const { default: resetting } = await import(
-    "akasha/agents/seats/reviving/modules/seat-reset/seat-reset.module.code.ts"
+    "akasha/agent/seat/reviving/modules/seat-reset/seat-reset.module.code.ts"
   )
   return await ran(async (done) => {
     await resetting(read.taken.seat, done)

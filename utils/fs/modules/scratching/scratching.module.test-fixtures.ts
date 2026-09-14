@@ -1,6 +1,6 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { blobIdOf } from "akasha/agents/modules/read-record/read-record.module.code.ts"
+import { blobIdOf } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 
 export function writing(root: string, path: string, body: string): string {
   const at = join(root, path)

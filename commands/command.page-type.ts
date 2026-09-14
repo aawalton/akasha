@@ -81,7 +81,7 @@ export const command = {
     "namespace/browser",
     "namespace/change",
     "namespace/chess",
-    "namespace/claude-account",
+    "namespace/model-account",
     "namespace/domain",
     "namespace/email",
     "namespace/git",

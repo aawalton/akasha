@@ -1,9 +1,9 @@
 import type { ServiceWorkstation } from "akasha/infrastructure/services/workstations/service-workstation.page-type.types.ts"
 
-export const claudeAccountUpkeepService = {
+export const modelAccountUpkeepService = {
   id: "01a06829-0194-744a-b8fe-cd24f9fcdcc1",
   type: "service-workstation",
-  slug: "claude-account-upkeep-service",
+  slug: "model-account-upkeep-service",
   definition: "the service renewing each Claude account's token and reading its usage every hour",
   enabled: true,
   systemd: {

@@ -1,4 +1,4 @@
-import { writeMessage } from "akasha/agents/messaging/modules/message-file/message-file.module.code.ts"
+import { writeMessage } from "akasha/agent/messaging/modules/message-file/message-file.module.code.ts"
 import {
   armedAt,
   armFor,

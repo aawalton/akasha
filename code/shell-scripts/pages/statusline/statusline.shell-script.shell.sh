@@ -17,7 +17,7 @@ if [ ! -d "$AKASHA/agent" ]; then
   exit 1
 fi
 BUN_BIN=$(command -v bun || echo "$HOME/.bun/bin/bun")
-SEAT_READER="$AKASHA/agent/seats/page/modules/seat-reading/seat-reading.module.code.ts"
+SEAT_READER="$AKASHA/agent/seat/page/modules/seat-reading/seat-reading.module.code.ts"
 
 INPUT=$(cat)
 
@@ -25,9 +25,9 @@ SESSION_ID=$(echo "$INPUT" | jq -r '.session_id // "unknown"' 2>/dev/null || ech
 
 AGENT_COUNT=0
 if [ -n "${AGENT_ID:-}" ]; then
-  AGENT_COUNT=$("$BUN_BIN" "$AKASHA/agent/seats/fleet/modules/seat-children/seat-children.module.code.ts" "$AGENT_ID" 2>/dev/null || echo 0)
+  AGENT_COUNT=$("$BUN_BIN" "$AKASHA/agent/seat/fleet/modules/seat-children/seat-children.module.code.ts" "$AGENT_ID" 2>/dev/null || echo 0)
   case "$AGENT_COUNT" in '' | *[!0-9]*) AGENT_COUNT=0 ;; esac
-  printf '%s' "$INPUT" | "$BUN_BIN" "$AKASHA/agent/seats/usage/modules/keep/seat-usage-keep.module.code.ts" "$AGENT_ID" >/dev/null 2>&1 || true
+  printf '%s' "$INPUT" | "$BUN_BIN" "$AKASHA/agent/seat/usage/modules/keep/seat-usage-keep.module.code.ts" "$AGENT_ID" >/dev/null 2>&1 || true
 fi
 
 MODEL_DISPLAY=""

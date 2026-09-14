@@ -38,7 +38,7 @@ export function presenceIn(root: string): string {
   return `${SEAT_ID}--${OWN}`
 }
 
-export const PAGE = "akasha/agents/seats/pages/tester.seat.ts"
+export const PAGE = "akasha/agent/seat/pages/tester.seat.ts"
 
 const MISSING = "akasha/one/missing.module.ts"
 

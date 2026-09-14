@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   formatSeatProcKey,
   readSeatProcKey,
-} from "akasha/agents/seats/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
+} from "akasha/agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
 import {
   decideWindow,
   procKeyOfWindowSlug,

@@ -76,9 +76,9 @@ test("nothing the route refuses to read reaches the widget as a zero", async () 
 
 test("a refusal from the pages is carried through as unread", async () => {
   const unread = await unreadIn(
-    answers({ meanWeeklyUsed: { refused: "`claude-account` names no page type the index holds" } })
+    answers({ meanWeeklyUsed: { refused: "`model-account` names no page type the index holds" } })
   )
-  expect(unread[0]).toBe("`claude-account` names no page type the index holds")
+  expect(unread[0]).toBe("`model-account` names no page type the index holds")
 })
 
 test("every reading that failed is named, not just the first", async () => {

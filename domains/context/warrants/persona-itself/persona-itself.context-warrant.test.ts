@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { blobIdOf, recordRead } from "akasha/agents/modules/read-record/read-record.module.code.ts"
+import { blobIdOf, recordRead } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { owedIn } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import {
   pathsOf,
@@ -59,7 +59,7 @@ test("only a seat warrants a persona", () => {
 test("a seat whose body cannot be loaded warrants nothing", () => {
   const root = scratch.rootFor("akasha-persona-itself-")
   personaListed(root, "akasha")
-  const path = "akasha/seat-system/seat/seats/one.seat.ts"
+  const path = "akasha/seat-system/seat/seat/one.seat.ts"
   writing(root, path, "this is no module {\n")
   expect(pathsOf(personaItself(root, path))).toEqual([])
 })

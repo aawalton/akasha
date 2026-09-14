@@ -12,7 +12,7 @@ import { running } from "akasha/changes/runners/pages/test-change-running/test-c
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 
-const AT = "agents/seats/pages/held.seat.ts"
+const AT = "agent/seat/pages/held.seat.ts"
 
 const TEXT_PROPERTY = "text-property"
 

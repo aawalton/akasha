@@ -1,0 +1,67 @@
+import type { AgentHook } from "akasha/agent/hook/agent-hook/agent-hook.page-type.types.ts"
+
+export const blockTypecheck = {
+  id: "01a058d6-293d-7bd0-8774-23b6112680f6",
+  type: "agent-hook",
+  slug: "block-typecheck",
+  definition: "a refusal of the typecheck calls an agent makes outside the akasha commands",
+  code: "ts",
+  test: "ts",
+  runsAt: ["PreToolUse"],
+  overTools: ["Bash"],
+  invariants: [
+    {
+      invariantKind: "invariant-kind/gap",
+      statement: "Every `tsc` call is refused whether the call names a file or names no file.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A `tsc` call in the command word is refused whether it names a file or none.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A `bun typecheck` and a `bun run typecheck` are refused with `tsc`.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The refusal names `akasha audit --check typecheck`.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Tsc reached by a path is the same call and is refused.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Tsc reached through a runner is the same call and is refused.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A prefix that only runs the call behind that prefix does not hide a `tsc` from this hook.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A flag before the script name does not hide a `bun run typecheck`.",
+    },
+    {
+      invariantKind: "invariant-kind/constraint",
+      statement: "The repository's own `tsconfig.json` names no file.",
+    },
+    {
+      invariantKind: "invariant-kind/constraint",
+      statement: "A `tsc` run at the repository root compiles no file and exits 0.",
+    },
+    {
+      invariantKind: "invariant-kind/constraint",
+      statement: "A check reporting success over no file reads exactly like a check that passed.",
+    },
+    {
+      invariantKind: "invariant-kind/absence",
+      statement: "A package script reaching a compiler is not read here.",
+    },
+    {
+      invariantKind: "invariant-kind/gap",
+      statement: "A compiler under another name is refused as `tsc` under its own name is.",
+    },
+  ],
+} as const satisfies AgentHook

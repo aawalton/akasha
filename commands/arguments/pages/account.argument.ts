@@ -5,7 +5,7 @@ export const account = {
   type: "argument",
   slug: "account",
   said: "--account",
-  takes: "the name a claude account is reached by",
+  takes: "the name a model account is reached by",
   value: "text",
   placeholder: "account",
 } as const satisfies Argument

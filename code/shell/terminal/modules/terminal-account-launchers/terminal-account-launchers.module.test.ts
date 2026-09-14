@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { ptyProxyRel } from "akasha/agents/seats/launching/modules/seat-entry-paths/seat-entry-paths.module.code.ts"
+import { ptyProxyRel } from "akasha/agent/seat/launching/modules/seat-entry-paths/seat-entry-paths.module.code.ts"
 import {
   claudeNewAccountFn,
   supervisorFn,
@@ -30,7 +30,7 @@ describe("a new account", () => {
   const said = claudeNewAccountFn("cna")
 
   test("is named and given an address before any client opens", () => {
-    expect(said.indexOf("claude-account add")).toBeLessThan(said.indexOf("Launching login session"))
+    expect(said.indexOf("model-account add")).toBeLessThan(said.indexOf("Launching login session"))
   })
 
   test("named as nothing ends the launcher", () => {

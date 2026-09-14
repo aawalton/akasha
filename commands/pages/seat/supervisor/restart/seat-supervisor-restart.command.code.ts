@@ -1,7 +1,7 @@
 import {
   nameOf,
   supervisorOf,
-} from "akasha/agents/seats/page/modules/seat-reading/seat-reading.module.code.ts"
+} from "akasha/agent/seat/page/modules/seat-reading/seat-reading.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import { everySeat } from "akasha/commands/arguments/pages/every-seat.argument.ts"
 import {

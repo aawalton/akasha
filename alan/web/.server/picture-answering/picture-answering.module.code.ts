@@ -1,4 +1,4 @@
-import { messageNamed } from "akasha/agents/messaging/modules/message-naming/message-naming.module.code.ts"
+import { messageNamed } from "akasha/agent/messaging/modules/message-naming/message-naming.module.code.ts"
 import { computeFingerprint } from "akasha/alan/harness/errors-core/modules/error-fingerprint/error-fingerprint.module.code.ts"
 import type { ErrorReport } from "akasha/alan/harness/errors-core/modules/error-report/error-report.module.code.ts"
 import {

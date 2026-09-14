@@ -1,9 +1,0 @@
-import type { ModelFamily } from "akasha/agents/model/family/model-family.page-type.types.ts"
-
-export const sonnet = {
-  id: "01a0535c-f2cf-7f23-8d73-f45bff4448f4",
-  type: "model-family",
-  slug: "sonnet",
-  definition: "less expensive, less capable",
-  name: "claude-sonnet-5",
-} as const satisfies ModelFamily

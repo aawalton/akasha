@@ -1,4 +1,4 @@
-import { basenameOf } from "akasha/agents/hook/modules/shell-calls/shell-calls.module.code.ts"
+import { basenameOf } from "akasha/agent/hook/modules/shell-calls/shell-calls.module.code.ts"
 import type {
   Given,
   Marking,

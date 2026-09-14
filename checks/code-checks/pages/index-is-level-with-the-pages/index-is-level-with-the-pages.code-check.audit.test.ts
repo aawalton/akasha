@@ -39,7 +39,7 @@ test("an audit passes over the churn a page outside the commit makes", () => {
   const said = indexIsLevelWithThePages(ROOT, {
     ...STILL,
     read: () => ({
-      added: ["path/seats/thea.seat.edits.uncommitted.jsonl.jsonl"],
+      added: ["path/seat/thea.seat.edits.uncommitted.jsonl.jsonl"],
       changed: ["value/module.jsonl"],
       went: ["rule/read/at-path.jsonl"],
     }),
@@ -145,7 +145,7 @@ test("a file of a page type stating it is mortal refuses nothing", () => {
     written: () => [],
     dies,
     read: () => ({
-      added: ["path/seats/pages/thea-1/thea-1.subagent.ts.jsonl"],
+      added: ["path/seat/pages/thea-1/thea-1.subagent.ts.jsonl"],
       changed: [],
       went: ["path/checks/gone.ts.jsonl"],
     }),
@@ -156,9 +156,9 @@ test("a file of a page type stating it is mortal refuses nothing", () => {
 test("a mortal page is read out of every drift the reconcile names", () => {
   const dies = (path: string): boolean => path.endsWith(".subagent.ts")
   const drift = {
-    added: ["path/seats/pages/a/a.subagent.ts.jsonl", "path/checks/one.ts.jsonl"],
-    changed: ["path/seats/pages/b/b.subagent.ts.jsonl"],
-    went: ["path/seats/pages/c/c.subagent.ts.jsonl"],
+    added: ["path/seat/pages/a/a.subagent.ts.jsonl", "path/checks/one.ts.jsonl"],
+    changed: ["path/seat/pages/b/b.subagent.ts.jsonl"],
+    went: ["path/seat/pages/c/c.subagent.ts.jsonl"],
   }
   expect(livingIn(drift, dies)).toEqual({
     added: ["path/checks/one.ts.jsonl"],

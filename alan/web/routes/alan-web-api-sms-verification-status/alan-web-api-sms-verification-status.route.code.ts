@@ -1,4 +1,4 @@
-import { messageNamed } from "akasha/agents/messaging/modules/message-naming/message-naming.module.code.ts"
+import { messageNamed } from "akasha/agent/messaging/modules/message-naming/message-naming.module.code.ts"
 import { verifyTelnyxSignature } from "akasha/alan/harness/sms-core/modules/verify-signature/verify-signature.module.code.ts"
 import { writingFor } from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
 

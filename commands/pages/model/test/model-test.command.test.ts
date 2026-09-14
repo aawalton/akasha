@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Judged } from "akasha/agents/model/test/modules/running/model-test-running.module.code.ts"
+import type { Judged } from "akasha/agent/model/test/modules/running/model-test-running.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   modelTest,

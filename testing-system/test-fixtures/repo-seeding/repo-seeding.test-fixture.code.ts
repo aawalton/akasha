@@ -1,5 +1,5 @@
 import { cpSync, existsSync } from "node:fs"
-import { blobIdOf, recordRead } from "akasha/agents/modules/read-record/read-record.module.code.ts"
+import { blobIdOf, recordRead } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Phase } from "akasha/checks/modules/checking/checking.module.code.ts"
 import {
@@ -49,7 +49,7 @@ export const PROPOSED = "proposed\n"
 
 export const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
 
-const SEAT_AT = "akasha/agents/seats/pages/tester.seat.ts"
+const SEAT_AT = "akasha/agent/seat/pages/tester.seat.ts"
 
 const SEAT = "seat"
 

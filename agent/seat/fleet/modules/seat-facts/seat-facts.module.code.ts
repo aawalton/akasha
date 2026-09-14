@@ -1,0 +1,49 @@
+import { seatWhoami } from "akasha/agent/seat/declaration/modules/seat-whoami/seat-whoami.module.code.ts"
+import {
+  agentHolderProcess,
+  agentPresence,
+} from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
+import {
+  parseSeatProcKey,
+  type SeatPresence,
+} from "akasha/agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
+
+const SEAT_MODE_INTERACTIVE = "interactive"
+
+export interface SeatRecord {
+  readonly id: string
+  readonly name: string | null
+  readonly persona: string | null
+  readonly domain: string | null
+  readonly role: string | null
+  readonly mode: string | null
+  readonly parentAgentId: string | null
+  readonly present: boolean
+  readonly presence: SeatPresence
+  readonly interactive: boolean
+  readonly supervisorPid: number | null
+}
+
+function supervisorPidOf(agentId: string): number | null {
+  const stated = agentHolderProcess(agentId)
+  return stated === null ? null : (parseSeatProcKey(stated)?.pid ?? null)
+}
+
+export function seatRecord(agentId: string): SeatRecord | null {
+  const whoami = seatWhoami(agentId)
+  if (whoami === null) return null
+  const presence: SeatPresence = agentPresence(agentId)
+  return {
+    id: agentId,
+    name: whoami.name,
+    persona: whoami.persona,
+    domain: whoami.domain,
+    role: whoami.role,
+    mode: whoami.mode,
+    parentAgentId: whoami.parentAgentId,
+    present: presence === "present",
+    presence,
+    interactive: whoami.mode === SEAT_MODE_INTERACTIVE,
+    supervisorPid: supervisorPidOf(agentId),
+  }
+}

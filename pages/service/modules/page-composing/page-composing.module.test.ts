@@ -349,7 +349,7 @@ test("a new page of a page type stating no plural is placed in that folder", () 
 })
 
 test("a folder whose name closes the slug takes its pages under pages", () => {
-  const at = "akasha/agents/seat/log-day/seat-log-day.page-type.ts"
-  expect(pagesUnder(at, "seat-log-day")).toBe("akasha/agents/seat/log-day/pages")
+  const at = "akasha/agent/seat/log-day/seat-log-day.page-type.ts"
+  expect(pagesUnder(at, "seat-log-day")).toBe("akasha/agent/seat/log-day/pages")
   expect(pagesAtFor(ROOT, "shard-log-day")).toBe("akasha/shard/log-day/pages")
 })

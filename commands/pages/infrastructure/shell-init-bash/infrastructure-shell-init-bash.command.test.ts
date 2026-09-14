@@ -68,13 +68,13 @@ describe("the set composed", () => {
 const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
 
 const ACCOUNT_TYPE_BODY =
-  `export const claudeAccount = { id: "${ACCOUNT_TYPE}", pageTypeSlug: "page-type", ` +
-  `slug: "claude-account", pluralSlug: "claude-accounts", extendsSlug: [] } as const\n`
+  `export const modelAccount = { id: "${ACCOUNT_TYPE}", pageTypeSlug: "page-type", ` +
+  `slug: "model-account", pluralSlug: "model-accounts", extendsSlug: [] } as const\n`
 
 function accountlessRoot(root: string): string {
   writing(root, ACCOUNT_TYPE_AT, ACCOUNT_TYPE_BODY)
   pageFiled(root, ACCOUNT_TYPE, ACCOUNT_TYPE_AT)
-  listedFiled(root, "page-type", "claude-account", [{ path: ACCOUNT_TYPE_AT, id: ACCOUNT_TYPE }])
+  listedFiled(root, "page-type", "model-account", [{ path: ACCOUNT_TYPE_AT, id: ACCOUNT_TYPE }])
   return root
 }
 
@@ -86,7 +86,7 @@ describe("a root holding no account page", () => {
       const answer = infrastructureShellInitBash([], { ...given, root })
       expect(answer.code).toBe(2)
       expect(answer.report).toEqual([])
-      expect(answer.refusals[0]).toContain("no claude account page was read")
+      expect(answer.refusals[0]).toContain("no model account page was read")
     } finally {
       world.sweep()
     }

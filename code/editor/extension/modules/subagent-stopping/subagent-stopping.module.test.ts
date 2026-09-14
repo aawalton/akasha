@@ -12,7 +12,7 @@ const { confirmSubagentStop, invokedSubagent, pageNameOf, stopCall, subagentCont
     "akasha/code/editor/extension/modules/subagent-stopping/subagent-stopping.module.code.ts"
   )
 
-const AT = "/repo/agents/subagents/pages/amy-a70d67f8ee96115ae/amy-a70d67f8ee96115ae.subagent.ts"
+const AT = "/repo/agent/subagent/pages/amy-a70d67f8ee96115ae/amy-a70d67f8ee96115ae.subagent.ts"
 
 const ROW = { id: "a70d67f8ee96115ae", name: "general-purpose", kind: "subagent", at: AT }
 
@@ -47,7 +47,7 @@ test("a row naming no page names no page name", () => {
 })
 
 test("a row naming a page of another kind names no page name", () => {
-  const target = invokedSubagent({ ...ROW, at: "/repo/agents/seats/pages/nobody/nobody.seat.ts" })
+  const target = invokedSubagent({ ...ROW, at: "/repo/agent/seat/pages/nobody/nobody.seat.ts" })
   expect(target === undefined ? "no target" : pageNameOf(target)).toBeUndefined()
 })
 

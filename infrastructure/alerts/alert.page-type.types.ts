@@ -1,4 +1,4 @@
-import type { Person } from "akasha/agents/seats/properties/person.relation-property.types.ts"
+import type { Person } from "akasha/agent/seat/properties/person.relation-property.types.ts"
 import type { Definition } from "akasha/domains/properties/definition.standard-agent-english-property.types.ts"
 import type { AlertDomain } from "akasha/infrastructure/alerts/properties/alert-domain.text-property.types.ts"
 import type { AlertPersona } from "akasha/infrastructure/alerts/properties/alert-persona.relation-property.types.ts"

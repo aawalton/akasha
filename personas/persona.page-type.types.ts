@@ -1,4 +1,4 @@
-import type { Role } from "akasha/agents/seats/properties/role.relation-property.types.ts"
+import type { Role } from "akasha/agent/seat/properties/role.relation-property.types.ts"
 import type { PointsBeforeToday } from "akasha/alan/attributes/properties/points-before-today.number-property.types.ts"
 import type { PointsToday } from "akasha/alan/attributes/properties/points-today.number-property.types.ts"
 import type { PointsTotal } from "akasha/alan/attributes/properties/points-total.number-property.types.ts"

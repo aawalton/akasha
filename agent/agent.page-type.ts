@@ -1,0 +1,140 @@
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
+
+export const agent = {
+  id: "01a06257-7813-710a-a637-a50b6dd747d9",
+  type: "page-type",
+  slug: "agent",
+  definition: "one an agent id names, working from a seat or under one",
+  pluralSlug: "agents",
+  extends: ["page-type/page"],
+  mortal: true,
+  parts: [
+    "domain/claude-code",
+    "domain/hook",
+    "domain/messaging",
+    "domain/model",
+    "file-property/audit-refusals",
+    "file-property/edits",
+    "file-property/reads",
+    "file-property/refusals",
+    "module/acting-agent",
+    "module/agent-attributes",
+    "module/agent-page-reading",
+    "module/agent-proc-liveness",
+    "module/agent-proc-tree",
+    "module/agent-turn-drawn",
+    "module/io-probe",
+    "module/last-said",
+    "module/launch-flags",
+    "module/proc-scan",
+    "module/read-record",
+    "module/refusals-keeping",
+    "module/stray-process",
+    "module/stray-sweeping",
+    "module/tool-access",
+    "one-of-property/assignment-slug",
+    "page-type/agent-settings",
+    "page-type/model-account",
+    "page-type/role",
+    "page-type/seat",
+    "page-type/subagent",
+    "relation-property/principal-seat-name",
+    "service-workstation/sweep-stray-processes",
+    "service-workstation/sweep-subagent-pages",
+  ],
+  properties: [
+    {
+      pageProperty: "one-of-property/assignment-slug",
+      required: true,
+      many: false,
+      default: "domain/akasha",
+    },
+    { pageProperty: "relation-property/principal-seat-name", required: false, many: false },
+    {
+      pageProperty: "file-property/edits",
+      required: false,
+      many: false,
+      uncommitted: true,
+      default: "jsonl",
+    },
+    {
+      pageProperty: "file-property/refusals",
+      required: false,
+      many: false,
+      uncommitted: true,
+      default: "txt",
+    },
+    {
+      pageProperty: "file-property/audit-refusals",
+      required: false,
+      many: false,
+      uncommitted: true,
+      default: "txt",
+    },
+    {
+      pageProperty: "file-property/reads",
+      required: false,
+      many: false,
+      uncommitted: true,
+      default: "jsonl",
+    },
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "An agent is named by one agent id wherever the agent acts.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An agent id names a seat.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An agent id names a subagent by its seat's id and its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The pages an agent has read are the agent's own rather than its seat's.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An agent answers for the assignment the agent states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An agent drafts into one set of edits rather than one set for each change.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An agent works at a terminal or at a seat with no terminal or inside another agent's turn.",
+    },
+    {
+      invariantKind: "upkeep",
+      statement: "Every act an agent leaves for later has a reminder set for that act.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A process a departed agent left running is taken away.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A subagent has departed once its seat's transcript records the result it returned.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Nothing a subagent left behind is taken away on a transcript that names it nowhere.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent whose seat has no page has departed, since no agent is in that seat.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A name exported inside a shell never reaches that shell's own environment.",
+    },
+  ],
+  types: "ts",
+} as const satisfies PageType

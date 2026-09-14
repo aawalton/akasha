@@ -31,7 +31,7 @@ const KINDS: readonly Kind[] = [
   },
   {
     kind: "agent",
-    folder: `${RULES}/category-rule-agents/pages`,
+    folder: `${RULES}/category-rule-agent/pages`,
     type: "category-rule-agent",
   },
 ]

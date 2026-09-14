@@ -23,7 +23,7 @@ export const measure = {
     "module/checkout-counting",
     "module/measure-gathering",
     "module/measure-tabling",
-    "namespace/measure-claude-account",
+    "namespace/measure-model-account",
     "namespace/measure-complexity",
   ],
   name: "measure",

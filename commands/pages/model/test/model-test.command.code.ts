@@ -2,7 +2,7 @@ import {
   type Got,
   type Judged,
   runningOf,
-} from "akasha/agents/model/test/modules/running/model-test-running.module.code.ts"
+} from "akasha/agent/model/test/modules/running/model-test-running.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import { broken as brokenArgument } from "akasha/commands/arguments/pages/broken.argument.ts"
 import { cases } from "akasha/commands/arguments/pages/cases.argument.ts"

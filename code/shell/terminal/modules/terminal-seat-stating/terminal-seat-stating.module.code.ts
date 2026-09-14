@@ -1,4 +1,4 @@
-import { SEAT_MODE_INTERACTIVE } from "akasha/agents/seats/launching/seat-launching.module.code.ts"
+import { SEAT_MODE_INTERACTIVE } from "akasha/agent/seat/launching/seat-launching.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"

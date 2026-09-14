@@ -21,7 +21,7 @@ const PATHS: readonly string[] = [
   "personas/amy.persona.portrait.md",
   "modules/one.module.ts",
   "modules/one.module.code.ts",
-  "accounts/aine.claude-account.sops.yaml",
+  "accounts/aine.model-account.sops.yaml",
   "package.json",
   "widgets/one.widget.ts",
 ]
@@ -33,7 +33,7 @@ function treeWith(): string {
   put(root, "personas/amy.persona.portrait.md", "a\n")
   put(root, "modules/one.module.ts", "a\n")
   put(root, "modules/one.module.code.ts", "a\nb\nc\nd\n")
-  put(root, "accounts/aine.claude-account.sops.yaml", "a\n")
+  put(root, "accounts/aine.model-account.sops.yaml", "a\n")
   put(root, "package.json", "{}\n")
   put(root, "widgets/one.widget.ts", "a\n")
   return root

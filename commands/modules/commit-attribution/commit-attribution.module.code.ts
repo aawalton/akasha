@@ -1,7 +1,7 @@
-import { parseModel, toWireId } from "akasha/agents/model/modules/vocab/model-vocab.module.code.ts"
-import { writerIn } from "akasha/agents/modules/read-record/read-record.module.code.ts"
-import { akashaBesideOf } from "akasha/agents/seats/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
-import { seatAbove } from "akasha/agents/subagent/modules/naming/subagent-naming.module.code.ts"
+import { parseModel, toWireId } from "akasha/agent/model/modules/vocab/model-vocab.module.code.ts"
+import { writerIn } from "akasha/agent/modules/read-record/read-record.module.code.ts"
+import { akashaBesideOf } from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import { seatAbove } from "akasha/agent/subagent/modules/naming/subagent-naming.module.code.ts"
 
 const CO_AUTHORED = "Co-Authored-By"
 

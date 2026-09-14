@@ -1,12 +1,12 @@
 import { resolve } from "node:path"
-import type { ProcLivenessEntry } from "akasha/agents/modules/proc-liveness/agent-proc-liveness.module.code.ts"
-import { scanProcEntries } from "akasha/agents/modules/proc-scan/proc-scan.module.code.ts"
-import { dropReadings } from "akasha/agents/modules/read-record/read-record.module.code.ts"
+import type { ProcLivenessEntry } from "akasha/agent/modules/proc-liveness/agent-proc-liveness.module.code.ts"
+import { scanProcEntries } from "akasha/agent/modules/proc-scan/proc-scan.module.code.ts"
+import { dropReadings } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import {
   akashaHolderPidOf,
   akashaSeatsThatExist,
-} from "akasha/agents/seats/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
-import { transcriptOf } from "akasha/agents/seats/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"
+} from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import { transcriptOf } from "akasha/agent/seat/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"
 import {
   censusOf,
   type Judged,
@@ -15,26 +15,26 @@ import {
   type SubagentPage,
   seenIn,
   staleAmong,
-} from "akasha/agents/subagent/modules/census/subagent-census.module.code.ts"
+} from "akasha/agent/subagent/modules/census/subagent-census.module.code.ts"
 import {
   clientStartedAt,
   outlivedAmong,
   subagentsDirOf,
-} from "akasha/agents/subagent/modules/outliving/subagent-outliving.module.code.ts"
+} from "akasha/agent/subagent/modules/outliving/subagent-outliving.module.code.ts"
 import {
   pagelessAmong,
   pagelessSaid,
-} from "akasha/agents/subagent/modules/pageless/subagent-pageless.module.code.ts"
+} from "akasha/agent/subagent/modules/pageless/subagent-pageless.module.code.ts"
 import {
   leftWhereItIs,
   seatPageIn,
   stoppedBeside,
-} from "akasha/agents/subagent/modules/presence/subagent-presence.module.code.ts"
+} from "akasha/agent/subagent/modules/presence/subagent-presence.module.code.ts"
 import {
   droppedFor,
   movedOnto,
   saidOf,
-} from "akasha/agents/subagent/modules/recovering/subagent-recovering.module.code.ts"
+} from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
 import type {
   Asking,
   Landing,

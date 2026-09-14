@@ -23,9 +23,9 @@ import {
 } from "akasha/pages/commands/modules/page-secret-acting/page-secret-acting.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
-const AT = "akasha/agents/claude-account/pages/one.claude-account.ts"
+const AT = "akasha/agent/model/account/pages/one.model-account.ts"
 
-const HOLDING = { path: AT, sidecar: "one.claude-account.sops.yaml", declared: ["accessToken"] }
+const HOLDING = { path: AT, sidecar: "one.model-account.sops.yaml", declared: ["accessToken"] }
 
 test("a key the page type does not declare is named against the ones it does", () => {
   const wrong = undeclared("wat", HOLDING)
@@ -77,9 +77,9 @@ const REPO = rootOf(import.meta.dir)
 
 const NOWHERE = "/nowhere"
 
-const PAGE = "akasha/one/aine.claude-account.ts"
+const PAGE = "akasha/one/aine.model-account.ts"
 
-const SIDECAR = "akasha/one/aine.claude-account.sops.yaml"
+const SIDECAR = "akasha/one/aine.model-account.sops.yaml"
 
 const TARGET: Target = { path: PAGE, sidecar: SIDECAR, declared: ["access-token"] }
 

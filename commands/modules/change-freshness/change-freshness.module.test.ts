@@ -4,7 +4,7 @@ import { join } from "node:path"
 import {
   blobIdOf,
   type Reading,
-} from "akasha/agents/modules/read-record/read-record.module.code.ts"
+} from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
 import {
   commitNamed,

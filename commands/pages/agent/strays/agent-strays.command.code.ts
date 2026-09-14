@@ -1,13 +1,13 @@
 import {
   type Reading,
   strayNow,
-} from "akasha/agents/modules/stray-process/stray-process.module.code.ts"
+} from "akasha/agent/modules/stray-process/stray-process.module.code.ts"
 import {
   lineOf,
   type TimesOf,
   timesOf,
   unreadSaid,
-} from "akasha/agents/modules/stray-sweeping/stray-sweeping.module.code.ts"
+} from "akasha/agent/modules/stray-sweeping/stray-sweeping.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import {
   answering,

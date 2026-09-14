@@ -1,4 +1,4 @@
-import { pointerFor } from "akasha/agents/modules/refusals-keeping/refusals-keeping.module.code.ts"
+import { pointerFor } from "akasha/agent/modules/refusals-keeping/refusals-keeping.module.code.ts"
 import type { Told } from "akasha/checks/modules/audit-asking/audit-asking.module.code.ts"
 import {
   heldTo,

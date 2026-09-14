@@ -1,16 +1,16 @@
 import { expect } from "bun:test"
 import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { ProcLivenessEntry } from "akasha/agents/modules/proc-liveness/agent-proc-liveness.module.code.ts"
-import { entry } from "akasha/agents/modules/proc-liveness/agent-proc-liveness.module.test-fixtures.ts"
-import { refusalsKept } from "akasha/agents/modules/refusals-keeping/refusals-keeping.module.code.ts"
+import type { ProcLivenessEntry } from "akasha/agent/modules/proc-liveness/agent-proc-liveness.module.code.ts"
+import { entry } from "akasha/agent/modules/proc-liveness/agent-proc-liveness.module.test-fixtures.ts"
+import { refusalsKept } from "akasha/agent/modules/refusals-keeping/refusals-keeping.module.code.ts"
 import {
   CARRIED_AT,
   LEFT_BY,
   seatEditsAt,
   seatRefusalsAt,
-} from "akasha/agents/subagent/modules/recovering/subagent-recovering.module.code.ts"
-import { subagentStopped } from "akasha/agents/subagent/properties/subagent-stopped.boolean-property.ts"
+} from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
+import { subagentStopped } from "akasha/agent/subagent/properties/subagent-stopped.boolean-property.ts"
 import {
   EXIT,
   OperationalError,
@@ -212,7 +212,7 @@ export function refusalBeside(root: string, page: string): undefined {
 }
 
 export function seatFiled(root: string, seatName: string, seatId: string): string {
-  const at = `held/seats/${seatName}/${seatName}.seat.ts`
+  const at = `held/seat/${seatName}/${seatName}.seat.ts`
   writing(root, at, `export const ${seatName} = { assignmentSlug: "domain/akasha" }\n`)
   gitIn(root, ["add", "-A"])
   gitIn(root, ["commit", "--quiet", "-m", `${seatName} sits`])

@@ -72,7 +72,7 @@ test("a path that is no agent's page states nothing", () => {
 
 test("a subagent states the slug it carries under the key it is asked for", () => {
   const root = scratch.rootFor("akasha-agent-stated-")
-  const path = "akasha/seat-system/subagent/subagents/one-abc.subagent.ts"
+  const path = "akasha/seat-system/subagent/subagent/one-abc.subagent.ts"
   writing(root, path, `export const oneAbc = { assignmentSlug: "domain/akasha-system" }\n`)
   expect(slugStated(root, path, "assignmentSlug")).toBe("akasha-system")
   expect(typeStated(root, path, "assignmentSlug")).toBe("domain")
@@ -80,19 +80,19 @@ test("a subagent states the slug it carries under the key it is asked for", () =
 
 test("a seat whose body cannot be loaded states nothing", () => {
   const root = scratch.rootFor("akasha-agent-stated-")
-  const path = "akasha/seat-system/seat/seats/one.seat.ts"
+  const path = "akasha/seat-system/seat/seat/one.seat.ts"
   writing(root, path, "this is no module {\n")
   expect(slugStated(root, path, "persona")).toBe(null)
 })
 
 test("a seat that is nowhere states nothing", () => {
   const root = scratch.rootFor("akasha-agent-stated-")
-  expect(slugStated(root, "akasha/seat-system/seat/seats/gone.seat.ts", "persona")).toBe(null)
+  expect(slugStated(root, "akasha/seat-system/seat/seat/gone.seat.ts", "persona")).toBe(null)
 })
 
 test("a seat whose exported value is not named for its slug states nothing", () => {
   const root = scratch.rootFor("akasha-agent-stated-")
-  const path = "akasha/seat-system/seat/seats/one.seat.ts"
+  const path = "akasha/seat-system/seat/seat/one.seat.ts"
   writing(root, path, `export const other = { persona: "akasha" }\n`)
   expect(slugStated(root, path, "persona")).toBe(null)
 })

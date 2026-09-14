@@ -352,7 +352,7 @@
     "catalogVersion": 19
   },
   "turnContract": {
-    "notes": "ENTITY KEYING (load-bearing): this game's player entity is externalId partners-alan — NEVER commit bare externalId alan from this game; the entity upsert key is not yet game-scoped and bare alan clobbers the tower's live player row. Dice honesty: the GM never rolls in her head — if a roll was not logged, its outcome does not exist. Interim dice: shell entropy appended to ~/agents/mari/partners/rolls.log (timestamp, label, result) BEFORE narration; migrate to ops awen roll when it lands; repeats stay visible forever.",
+    "notes": "ENTITY KEYING (load-bearing): this game's player entity is externalId partners-alan — NEVER commit bare externalId alan from this game; the entity upsert key is not yet game-scoped and bare alan clobbers the tower's live player row. Dice honesty: the GM never rolls in her head — if a roll was not logged, its outcome does not exist. Interim dice: shell entropy appended to ~/agent/mari/partners/rolls.log (timestamp, label, result) BEFORE narration; migrate to ops awen roll when it lands; repeats stay visible forever.",
     "obligations": [
       {
         "id": "read-state",
@@ -360,7 +360,7 @@
       },
       {
         "id": "resolve-before-narrate",
-        "detail": "Identify checks, roll via the sanctioned dice path (ops awen roll once live; until then the append-only shell log at ~/agents/mari/partners/rolls.log), apply hidden formulas from gmReference. Every roll is logged before its outcome is narrated; a re-roll never happens.",
+        "detail": "Identify checks, roll via the sanctioned dice path (ops awen roll once live; until then the append-only shell log at ~/agent/mari/partners/rolls.log), apply hidden formulas from gmReference. Every roll is logged before its outcome is narrated; a re-roll never happens.",
         "requirement": "Resolve mechanics BEFORE narrating."
       },
       {

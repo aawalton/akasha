@@ -5,7 +5,7 @@ import {
   partly,
   readingIn,
   sameBody,
-} from "akasha/agents/modules/read-record/read-record.module.code.ts"
+} from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import {
   begunAgain,
   LONG,

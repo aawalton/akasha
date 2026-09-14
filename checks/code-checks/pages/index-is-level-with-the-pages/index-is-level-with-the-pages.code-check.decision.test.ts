@@ -25,7 +25,7 @@ test("an entry naming one file is told from one gathering many", () => {
 })
 
 test("an entry naming a file no commit carries is judged by nothing", () => {
-  expect(judgedEntry("path/seats/thea.seat.edits.uncommitted.jsonl.jsonl")).toBe(false)
+  expect(judgedEntry("path/seat/thea.seat.edits.uncommitted.jsonl.jsonl")).toBe(false)
   expect(judgedEntry("path/checks/one.ts.jsonl")).toBe(true)
 })
 
@@ -58,7 +58,7 @@ test("a file the index holds and no page names is refused", () => {
 test("the churn an uncommitted page makes refuses nothing", () => {
   const said = judgedIn(
     {
-      added: ["path/seats/thea.seat.edits.uncommitted.jsonl.jsonl"],
+      added: ["path/seat/thea.seat.edits.uncommitted.jsonl.jsonl"],
       changed: ["value/module.jsonl"],
       went: ["rule/read/at-path.jsonl"],
     },

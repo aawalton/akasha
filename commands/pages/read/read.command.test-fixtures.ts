@@ -1,8 +1,8 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Reading } from "akasha/agents/modules/read-record/read-record.module.code.ts"
-import { blobIdOf, readingIn } from "akasha/agents/modules/read-record/read-record.module.code.ts"
-import { agentPaged } from "akasha/agents/modules/read-record/read-record.module.test-fixtures.ts"
+import type { Reading } from "akasha/agent/modules/read-record/read-record.module.code.ts"
+import { blobIdOf, readingIn } from "akasha/agent/modules/read-record/read-record.module.code.ts"
+import { agentPaged } from "akasha/agent/modules/read-record/read-record.module.test-fixtures.ts"
 import { filePath } from "akasha/commands/arguments/pages/file-path.argument.ts"
 import { full as fullArgument } from "akasha/commands/arguments/pages/full.argument.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -75,7 +75,7 @@ export function givenFor(root: string) {
 
 export const bodyOf = bytesOf
 
-export const SEAT_PAGE = "agents/seats/pages/held.seat.ts"
+export const SEAT_PAGE = "agent/seat/pages/held.seat.ts"
 
 export const BIN = "akasha/one/held.bin"
 

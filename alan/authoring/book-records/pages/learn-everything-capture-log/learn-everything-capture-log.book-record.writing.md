@@ -8,7 +8,7 @@ double-counts.
 
 ## capture-1 — Aura game-design session → Fun/Play/Games floor
 
-- **Source:** `~/.claude/projects/-var-home-walton-code/4a6053f1-f156-43f1-b2ea-0fc4583ab7d5.jsonl` (+ 13 subagent jsonls in the sibling `4a6053f1…/subagents/` dir).
+- **Source:** `~/.claude/projects/-var-home-walton-code/4a6053f1-f156-43f1-b2ea-0fc4583ab7d5.jsonl` (+ 13 subagent jsonls in the sibling `4a6053f1…/subagent/` dir).
 - **Read range:** lines 1–5695.
 - **Cutoff (durable):** line **5695**, timestamp **`2026-06-25T20:23:35.149Z`**. The source is append-only and still being written; **capture-2 reads only lines 5696+ / timestamps after this mark.**
 - **Territory:** Fun / Play / Games / game design + principles of game design.

@@ -2,7 +2,7 @@ import { resolve } from "node:path"
 import {
   type Drawn,
   drawnNow,
-} from "akasha/agents/seats/fleet/modules/work-tree-drawn/work-tree-drawn.module.code.ts"
+} from "akasha/agent/seat/fleet/modules/work-tree-drawn/work-tree-drawn.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import { colors } from "akasha/commands/arguments/pages/colors.argument.ts"
 import { counts } from "akasha/commands/arguments/pages/counts.argument.ts"

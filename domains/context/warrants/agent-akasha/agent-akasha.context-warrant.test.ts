@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { blobIdOf, recordRead } from "akasha/agents/modules/read-record/read-record.module.code.ts"
+import { blobIdOf, recordRead } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { owedIn } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import {
   domainListed,
@@ -22,7 +22,7 @@ afterAll(scratch.sweep)
 
 const AGENT = "01a0596c-0000-7000-8000-000000000001"
 
-const SUB_AT = "seat-system/subagent/subagents/one-suba.subagent.ts"
+const SUB_AT = "seat-system/subagent/subagent/one-suba.subagent.ts"
 
 const STATED = `slug: "one"`
 
@@ -49,7 +49,7 @@ test("only an agent warrants the akasha domain", () => {
 test("an agent whose body cannot be loaded warrants nothing", () => {
   const root = scratch.rootFor("akasha-agent-akasha-")
   domainListed(root, "akasha")
-  const at = "seat-system/seat/seats/one.seat.ts"
+  const at = "seat-system/seat/seat/one.seat.ts"
   writing(root, at, "this is no module {\n")
   expect(pathsOf(agentAkasha(root, at))).toEqual([])
 })
