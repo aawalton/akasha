@@ -50,4 +50,5 @@ export const addPropertyToPageType = {
   ],
   changeKind: "change-checked",
   maxCpuSeconds: 120,
+  maxMemoryMb: 3072,
 } as const satisfies ChangeAgent
