@@ -113,7 +113,6 @@ export const components = {
     "module/relation-filter-inputs",
     "module/relation-popover",
     "module/resolve-listing-config",
-    "module/rich-document-property-badge",
     "module/rollup-property-badge",
     "module/select-property-badge",
     "module/sortable-card-collection",

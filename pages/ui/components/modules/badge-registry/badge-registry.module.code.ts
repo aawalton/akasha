@@ -6,7 +6,6 @@ import { FormulaPropertyBadge } from "akasha/pages/ui/components/modules/formula
 
 import type { PropertyBadgeProps } from "akasha/pages/ui/components/modules/property-badge/property-badge.module.code.tsx"
 
-import { RichDocumentPropertyBadge } from "akasha/pages/ui/components/modules/rich-document-property-badge/rich-document-property-badge.module.code.tsx"
 import { RollupPropertyBadge } from "akasha/pages/ui/components/modules/rollup-property-badge/rollup-property-badge.module.code.tsx"
 
 import type { ComponentType } from "react"
@@ -18,6 +17,5 @@ export const PROPERTY_BADGE_REGISTRY: Partial<
   aggregate: AggregatePropertyBadge,
   formula: FormulaPropertyBadge,
 
-  "rich-document": RichDocumentPropertyBadge,
   "action-button": ActionButtonPropertyBadge,
 }
