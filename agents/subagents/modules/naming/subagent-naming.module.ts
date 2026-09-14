@@ -21,10 +21,6 @@ export const subagentNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A name with nothing after the mark names no subagent.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A name without the mark belongs to a seat rather than a subagent.",
     },
   ],
