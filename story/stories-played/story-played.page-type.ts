@@ -8,6 +8,12 @@ export const storyPlayed = {
   pluralSlug: "stories-played",
   extends: ["page-type/collection"],
   runsTabooCheck: false,
+  detailConfig: {
+    header: {
+      showCover: true,
+      fields: [],
+    },
+  },
   parts: [
     "file-property/prose",
     "module/game-beside",
@@ -27,6 +33,10 @@ export const storyPlayed = {
     {
       invariantKind: "departure",
       statement: "A story played was made in play rather than written before the play.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A story played heads its page with its title, over the run play left it.",
     },
   ],
   types: "ts",
