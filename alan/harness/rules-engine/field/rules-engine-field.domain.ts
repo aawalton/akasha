@@ -35,13 +35,9 @@ export const rulesEngineField = {
       statement: "One comparison spelled alike over two types is two comparisons.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "gap",
       statement:
-        "A condition pairing a field with a comparison the field's type refuses is refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A type states how a rule set is proven to cover that type.",
+        "Nothing refuses a condition pairing a field with a comparison that field refuses.",
     },
     {
       invariantKind: "absence",
@@ -78,10 +74,6 @@ export const rulesEngineField = {
     {
       invariantKind: "departure",
       statement: "An enum's set is complete.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "Covering an enum needs no residual.",
     },
     {
       invariantKind: "departure",
@@ -124,14 +116,6 @@ export const rulesEngineField = {
       statement: "A text field takes `is` and `starts with` and `ends with` and `contains`.",
     },
     {
-      invariantKind: "departure",
-      statement: "Two values no condition tells apart are one value to the proof.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "No `contains` condition rules out another condition on that field.",
-    },
-    {
       invariantKind: "gap",
       statement: "No text field takes `contains`.",
     },
@@ -144,7 +128,7 @@ export const rulesEngineField = {
       statement: "A normalizer is a list of patterns.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "gap",
       statement: "A normalizer's pattern names one value.",
     },
     {
@@ -172,12 +156,8 @@ export const rulesEngineField = {
       statement: "Text holding no pattern takes a value of its own.",
     },
     {
-      invariantKind: "departure",
-      statement: "A field a normalizer fills is an enum.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That enum has the normalizer's values and the value for unpatterned text.",
+      invariantKind: "absence",
+      statement: "No rule set has a field a normalizer fills.",
     },
   ],
 } as const satisfies Domain

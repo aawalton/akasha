@@ -16,31 +16,15 @@ export const rulesEngine = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page a rule set applies to matches exactly one rule of that rule set.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A rule's match does not depend on the rules beside that rule.",
     },
     {
       invariantKind: "departure",
-      statement: "A more specific rule leaves its matches to a less specific rule as well.",
+      statement: "Where two rules match one case, which of them acts is the caller's to settle.",
     },
     {
       invariantKind: "departure",
-      statement: "A rule another rule overlaps in part becomes several rules.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Covering the cases no other rule names takes several rules.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An agent writes the rules that cover the cases no other rule names.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Each rule is one document in a folder.",
+      statement: "Each rule is one page in a folder.",
     },
     {
       invariantKind: "departure",
@@ -68,7 +52,11 @@ export const rulesEngine = {
     },
     {
       invariantKind: "departure",
-      statement: "The engine names the rule that matched.",
+      statement: "The engine answers of one rule whether that rule matches the case at hand.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The engine reads a run of text as one value of a vocabulary of patterns.",
     },
     {
       invariantKind: "absence",
@@ -92,16 +80,6 @@ export const rulesEngine = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A match covers a second match where the first matches every case the second matches.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The engine answers that one match covers no second match where covering is undecided.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A condition names one property of the page being matched.",
     },
     {
@@ -115,14 +93,6 @@ export const rulesEngine = {
     {
       invariantKind: "departure",
       statement: "A negated condition holds where the property has no value that condition names.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A negated condition split into one condition a value matches the same things.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A positive condition split into one condition a value matches other things.",
     },
     {
       invariantKind: "departure",
@@ -141,28 +111,12 @@ export const rulesEngine = {
       statement: "A condition compares without regard to case.",
     },
     {
-      invariantKind: "departure",
-      statement: "A proof shows a rule set to be a partition.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The proof decides every case a rule set can tell apart.",
+      invariantKind: "absence",
+      statement: "Nothing proves a rule set to be a partition.",
     },
     {
       invariantKind: "absence",
-      statement: "The proof samples no cases that arise.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A case the rule set has no value of is a case the proof decides.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The proof decides a case with the same matcher the live run uses.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The proof reports a case the proof cannot decide as undecided.",
+      statement: "Nothing walks the cases a rule set can tell apart.",
     },
   ],
   directives: [
