@@ -12,15 +12,15 @@ export const seatsSlice = {
   reloadWith: "systemctl --user daemon-reload",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The share is held by the seats together rather than by each seat.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat takes the whole machine while the apps want none of it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat already running keeps the slice that seat began in.",
     },
   ],

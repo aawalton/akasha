@@ -12,15 +12,15 @@ export const tmuxScopeDelegation = {
   reloadWith: "systemctl --user daemon-reload",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "systemd turns no controller on inside a scope systemd hands over.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A group holding processes of its own turns no controller on for its children.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "What is turned on here outlasts a reload and goes when the scope goes.",
     },
   ],

@@ -12,15 +12,15 @@ export const tmuxScopeSlice = {
   reloadWith: "systemctl --user daemon-reload",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "tmux states app.slice on every scope tmux makes, and this states another.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The name is the run of dashes systemd reads a drop-in for every tmux scope at.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A scope already running keeps the control group that scope was made in.",
     },
   ],

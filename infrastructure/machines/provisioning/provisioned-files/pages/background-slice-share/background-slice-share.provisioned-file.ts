@@ -12,11 +12,11 @@ export const backgroundSliceShare = {
   reloadWith: "systemctl --user daemon-reload",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The share is the one systemd ships, said here rather than left to a default.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The services and the seats hold the same share as each other.",
     },
   ],

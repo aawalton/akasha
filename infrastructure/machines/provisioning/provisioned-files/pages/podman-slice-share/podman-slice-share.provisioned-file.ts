@@ -12,15 +12,15 @@ export const podmanSliceShare = {
   reloadWith: "systemctl --user daemon-reload",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Podman puts every container it runs rootless in the slice named here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The containers hold the same share as the seats and the services.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A container already running takes the new share without being started again.",
     },
   ],
