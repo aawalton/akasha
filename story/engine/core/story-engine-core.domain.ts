@@ -11,7 +11,6 @@ export const storyEngineCore = {
     "module/beat-schema",
     "module/chapter-words",
     "module/choice-action",
-    "module/display-defaults",
     "module/entity-schema",
     "module/fog-report-schema",
     "module/game-engine",
