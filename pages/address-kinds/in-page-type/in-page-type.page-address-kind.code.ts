@@ -10,10 +10,6 @@ export type InPageType = {
   readonly scopePropertySlug?: never
 }
 
-export function isInPageType(one: object): one is InPageType {
-  return "pageTypeSlug" in one && !("scopeValue" in one)
-}
-
 export function filedInPageType(address: InPageType): Filed {
   return {
     uniqueKind: PAGE_TYPE,
