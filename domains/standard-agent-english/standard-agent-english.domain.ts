@@ -11,7 +11,6 @@ export const standardAgentEnglish = {
     "module/prose-reach",
     "module/prose-restating",
     "module/prose-rewrite",
-    "module/term-census",
     "page-type/prose-frame",
     "page-type/standard-agent-english-property",
     "page-type/term",
