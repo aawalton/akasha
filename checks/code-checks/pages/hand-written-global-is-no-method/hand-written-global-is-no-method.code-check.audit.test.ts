@@ -3,7 +3,6 @@ import { handWrittenGlobalIsNoMethod } from "akasha/checks/code-checks/pages/han
 import { DECLARATION } from "akasha/checks/code-checks/pages/hand-written-global-is-no-method/hand-written-global-is-no-method.code-check.decision.code.ts"
 import { filing } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { valueAlsoFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
-import { noPathsFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
@@ -30,7 +29,6 @@ afterAll(scratch.sweep)
 
 function treed(own: string): string {
   const root = scratch.rootFor("akasha-hand-written-global-audit-")
-  noPathsFiled(root)
   filing(root, DECLARATION, "game", GAME_ID)
   filing(root, DECLARATION, "own", OWN_ID)
   valueAlsoFiled(root, DECLARATION, [
