@@ -22,6 +22,7 @@ export const music = {
     "command/music-seek",
     "command/music-shuffle",
     "command/music-skip",
+    "command/music-transfer",
     "command/music-upcoming",
     "command/music-volume",
     "module/device-option",
