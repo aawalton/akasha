@@ -11,7 +11,7 @@ import { relayedFor } from "akasha/alan/harness/readouts/modules/relay/readout-r
 import {
   GROUP,
   WIRE_KEY_NAME,
-} from "akasha/alan/web/modules/attribute-stoplights/attribute-stoplights.module.code.ts"
+} from "akasha/alan/web/routes/attribute-stoplights/attribute-stoplights.route.code.ts"
 import { z } from "zod"
 
 globalThis.Response = (await fetch("data:text/plain,")).constructor as typeof Response

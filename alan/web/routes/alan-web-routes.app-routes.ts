@@ -53,6 +53,7 @@ export const alanWebRoutes = {
     "route/alan-web-sign-up",
     "route/alan-web-sms",
     "route/alan-web-terms",
+    "route/attribute-stoplights",
     "route/categorization",
     "route/claude-usage",
     "route/cost",

@@ -1,12 +1,13 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Route } from "akasha/code/routes/route.page-type.types.ts"
 
 export const attributeStoplights = {
   id: "01a06858-8cfa-79e8-a5bc-b735b8f2f652",
-  type: "module",
+  type: "route",
   slug: "attribute-stoplights",
   definition: "the attributes group answered as the stoplights Alan's tile reads",
   code: "ts",
   test: "ts",
+  urlPath: "api/attribute-stoplights",
   invariants: [
     {
       invariantKind: "departure",
@@ -21,4 +22,4 @@ export const attributeStoplights = {
       statement: "The tile shipped against this reads that key as text that is always there.",
     },
   ],
-} as const satisfies Module
+} as const satisfies Route

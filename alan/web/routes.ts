@@ -35,7 +35,7 @@ export default [
   route("api/habit-stoplights", "routes/habit-stoplights/habit-stoplights.route.code.ts"),
   route(
     "api/attribute-stoplights",
-    "modules/attribute-stoplights/attribute-stoplights.module.code.ts"
+    "routes/attribute-stoplights/attribute-stoplights.route.code.ts"
   ),
   route("api/surplus", "routes/surplus/surplus.route.code.ts"),
   route("api/safety-level", "routes/safety-level/safety-level.route.code.ts"),

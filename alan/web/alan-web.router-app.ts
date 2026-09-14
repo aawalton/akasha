@@ -36,7 +36,6 @@ export const alanWeb = {
     "module/api-origin",
     "module/apotheosis-panel",
     "module/app-layout-loading",
-    "module/attribute-stoplights",
     "module/audio-download-offer",
     "module/auth-error",
     "module/capability-registrations",
