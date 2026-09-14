@@ -5,7 +5,7 @@ export const aranya = {
   type: "seat",
   slug: "aranya",
   persona: "aranya",
-  assignmentSlug: "domain/infrastructure",
+  assignmentSlug: "initiative/aranya-misc-cleanup",
   role: "definer",
   person: "alan",
   startMode: "interactive",
