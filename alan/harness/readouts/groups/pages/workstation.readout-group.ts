@@ -9,19 +9,19 @@ export const workstation = {
   sortOrder: "place",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each reading here is drawn as a number rather than as a stoplight.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reading here is the workstation's own rather than one process's.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The processor reading here is a share and the memory reading an amount.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reading here is drawn in the unit its own readout names.",
     },
   ],

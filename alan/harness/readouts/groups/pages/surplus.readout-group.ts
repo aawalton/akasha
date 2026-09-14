@@ -7,7 +7,7 @@ export const surplus = {
   definition: "how much of Alan's night the day has left him",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The reading is the hours the night had less the hours the day spent.",
     },
   ],

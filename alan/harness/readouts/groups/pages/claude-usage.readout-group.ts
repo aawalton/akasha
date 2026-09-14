@@ -14,15 +14,15 @@ export const claudeUsage = {
   sortOrder: "place",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each reading here is drawn as a number rather than as a stoplight.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reading here is the pool's rather than one account's.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "How much of the allowance is spent and how long the allowance has left are two readings.",
     },

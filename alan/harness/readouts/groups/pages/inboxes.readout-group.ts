@@ -9,16 +9,16 @@ export const inboxes = {
   figureOffScale: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A daily inbox of at least a hundred readings is black rather than a reading gone missing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An inbox at empty is blue.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The color any other reading takes is stated by that reading's own scale.",
     },
   ],

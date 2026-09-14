@@ -8,15 +8,15 @@ export const safety = {
   figureOffScale: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The color reports where Alan is rather than whether Alan did well.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A level draws its figure at either end of its scale.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The tile draws that figure alone.",
     },
   ],

@@ -8,11 +8,11 @@ export const values = {
   sortOrder: "place",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every value runs the same multiplier ladder and only its baseline differs.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A value's figure sums its personas' raw units rather than flooring each unit to a rung.",
     },
