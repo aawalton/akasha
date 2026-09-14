@@ -1,7 +1,5 @@
 import { realpathSync } from "node:fs"
 
-const GIT_DIR = ".git"
-
 export function normalizeAbsolute(pathish: string): string {
   const stack: string[] = []
   for (const segment of pathish.split("/")) {
@@ -31,15 +29,4 @@ export function isInside(root: string, candidate: string): boolean {
   const normalized = canonicalize(normalizeAbsolute(root))
   const resolved = canonicalize(candidate)
   return resolved === normalized || resolved.startsWith(`${normalized}/`)
-}
-
-export function outOfBounds(relPath: string): string | null {
-  const segments = relPath.split("/")
-  if (relPath === "" || segments.some((one) => one === "" || one === "." || one === "..")) {
-    return `\`${relPath}\` does not name a path inside a repo root`
-  }
-  if (segments[0] === GIT_DIR) {
-    return `\`${relPath}\` is inside \`${GIT_DIR}/\`, which holds the repo rather than anything it says`
-  }
-  return null
 }
