@@ -43,6 +43,10 @@ export async function bodyOf(answered: Response): Promise<Record<string, unknown
   return (await answered.json()) as Record<string, unknown>
 }
 
+export async function refusalOf(answered: Response): Promise<string> {
+  return String((await bodyOf(answered)).refused)
+}
+
 const A_TIGHT_CEILING = 40
 
 const EVERY_INVARIANT_KIND = { pageTypeSlug: "invariant-kind", keys: ["slug"] }

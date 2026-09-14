@@ -17,6 +17,7 @@ import {
   bodyOf,
   GIVEN,
   over,
+  refusalOf,
   repoWith,
   scratch,
   TOLD,
@@ -46,7 +47,7 @@ test("an answer counts what matched before what was taken", async () => {
 test("a question whose rows run past what an answer carries is refused by size", async () => {
   const answered = await tightly()
   expect(answered.status).toBe(400)
-  const refused = String((await bodyOf(answered)).refused)
+  const refused = await refusalOf(answered)
   expect(refused).toContain("invariant-kind")
   expect(refused).toContain("40 characters")
   expect(refused).toContain("of 6 rows matching")
@@ -70,13 +71,13 @@ test("a body that will not parse is refused", async () => {
   const request = new Request(`http://workstation${ASK_AT}`, { method: "POST", body: "not json" })
   const answered = await answering(GIVEN, request)
   expect(answered.status).toBe(400)
-  expect(String((await bodyOf(answered)).refused)).toContain("JSON")
+  expect(await refusalOf(answered)).toContain("JSON")
 })
 
 test("a question naming no page type is refused", async () => {
   const answered = await answering(GIVEN, asking({ keys: ["slug"] }))
   expect(answered.status).toBe(400)
-  expect(String((await bodyOf(answered)).refused)).toContain("pageTypeSlug")
+  expect(await refusalOf(answered)).toContain("pageTypeSlug")
 })
 
 test("a where that is no test is refused", async () => {
@@ -85,19 +86,19 @@ test("a where that is no test is refused", async () => {
     asking({ pageTypeSlug: "invariant-kind", where: { slug: 7 } })
   )
   expect(answered.status).toBe(400)
-  expect(String((await bodyOf(answered)).refused)).toContain("where.slug")
+  expect(await refusalOf(answered)).toContain("where.slug")
 })
 
 test("keys that are not strings are refused", async () => {
   const answered = await answering(GIVEN, asking({ pageTypeSlug: "invariant-kind", keys: [7] }))
   expect(answered.status).toBe(400)
-  expect(String((await bodyOf(answered)).refused)).toContain("keys")
+  expect(await refusalOf(answered)).toContain("keys")
 })
 
 test("what the pages refuse is carried back", async () => {
   const answered = await answering(GIVEN, asking({ pageTypeSlug: "invariant-kind", limit: -1 }))
   expect(answered.status).toBe(400)
-  expect(String((await bodyOf(answered)).refused)).toContain("limit")
+  expect(await refusalOf(answered)).toContain("limit")
 })
 
 test("a whole question is read off the body", () => {
@@ -129,13 +130,13 @@ test("a write is handed in at a path of its own", async () => {
 test("a write stating no writer is refused", async () => {
   const answered = await answering(GIVEN, asking({ message: "a message" }, WRITE_AT))
   expect(answered.status).toBe(400)
-  expect(String((await bodyOf(answered)).refused)).toContain("writer")
+  expect(await refusalOf(answered)).toContain("writer")
 })
 
 test("a write stating no message is refused", async () => {
   const answered = await answering(GIVEN, asking({ writer: "Amy <amy@alanwalton.com>" }, WRITE_AT))
   expect(answered.status).toBe(400)
-  expect(String((await bodyOf(answered)).refused)).toContain("message")
+  expect(await refusalOf(answered)).toContain("message")
 })
 
 test("a put holding no content is refused", () => {
@@ -164,7 +165,7 @@ test("a test the pages do not run is refused by the name it was given", async ()
     asking({ pageTypeSlug: "invariant-kind", where: { slug: { startsWith: "de" } } })
   )
   expect(answered.status).toBe(400)
-  expect(String((await bodyOf(answered)).refused)).toContain("where.slug.startsWith")
+  expect(await refusalOf(answered)).toContain("where.slug.startsWith")
 })
 
 test("a refusal over a test names what the pages do run", async () => {
@@ -172,7 +173,7 @@ test("a refusal over a test names what the pages do run", async () => {
     GIVEN,
     asking({ pageTypeSlug: "invariant-kind", where: { slug: { gt: "de" } } })
   )
-  expect(String((await bodyOf(answered)).refused)).toContain("ends-with")
+  expect(await refusalOf(answered)).toContain("ends-with")
 })
 
 test("a test given what it cannot take is refused by name", () => {
@@ -209,7 +210,7 @@ test("a test named nowhere is refused rather than narrowing nothing", async () =
     asking({ pageTypeSlug: "invariant-kind", where: { slug: { bogusop: "de" } }, keys: ["slug"] })
   )
   expect(answered.status).toBe(400)
-  expect(String((await bodyOf(answered)).refused)).toContain("bogusop")
+  expect(await refusalOf(answered)).toContain("bogusop")
 })
 
 test("a test stating nothing is refused by the key it stands on", () => {
@@ -238,14 +239,14 @@ test("a read with neither a path nor a page is refused", async () => {
   const root = repoWith("one")
   const answered = await answering(over(root), asking({}, READ_AT))
   expect(answered.status).toBe(400)
-  expect(String((await bodyOf(answered)).refused)).toContain("at least one path")
+  expect(await refusalOf(answered)).toContain("at least one path")
 })
 
 test("a read of a path that is no path inside the repository is refused", async () => {
   const root = repoWith("one")
   const answered = await answering(over(root), asking({ paths: ["/tools/a.ts"] }, READ_AT))
   expect(answered.status).toBe(400)
-  expect(String((await bodyOf(answered)).refused)).toContain("no path inside the repository")
+  expect(await refusalOf(answered)).toContain("no path inside the repository")
 })
 
 test("paths that are not strings are refused", () => {
@@ -287,7 +288,7 @@ test("a read naming a commit the repository does not hold is refused", async () 
   const asked = { paths: [A_PAGE], at: "0".repeat(40) }
   const answered = await answering(over(root), asking(asked, READ_AT))
   expect(answered.status).toBe(400)
-  expect(String((await bodyOf(answered)).refused)).toContain("names no commit here")
+  expect(await refusalOf(answered)).toContain("names no commit here")
 })
 
 test("a write may state the commit it read", () => {
@@ -328,12 +329,31 @@ test("a page naming a page type nothing holds refuses the write", async () => {
     writing({ pages: [{ pageTypeSlug: "nothing-at-all", slug: "one", values: {} }] })
   )
   expect(answered.status).toBe(400)
-  expect(String((await bodyOf(answered)).refused)).toContain("no page type")
+  expect(await refusalOf(answered)).toContain("no page type")
 })
 
 test("a write carrying no page is handed on as it arrived", () => {
   const asked = { writer: "Amy <amy@alanwalton.com>", message: "a message" }
   expect(foldedInto(asked, [], [])).toBe(asked)
+})
+
+test("a write may keep values outside the commit", () => {
+  const read = written({ kept: [{ path: A_PAGE, values: { one: "abc" } }] })
+  const kept = "asked" in read ? read.asked.kept : null
+  expect(kept).toEqual([{ path: A_PAGE, values: { one: "abc" } }])
+})
+
+test("a value kept outside the commit naming no path or no values is refused", () => {
+  const noPath = written({ kept: [{ values: {} }] })
+  expect("refused" in noPath && noPath.refused).toContain("`path`")
+  const noValues = written({ kept: [{ path: A_PAGE }] })
+  expect("refused" in noValues && noValues.refused).toContain("`values`")
+})
+
+test("a page a write composes keeps its values beside what that write already kept", () => {
+  const held = { writer: "a", message: "a", kept: [{ path: A_PAGE, values: {} }] }
+  const folded = foldedInto(held, [], [{ path: "akasha/b.ts", values: {} }])
+  expect(folded.kept?.map((one) => one.path)).toEqual([A_PAGE, "akasha/b.ts"])
 })
 
 test("a page a write has may say whether it merges", () => {
