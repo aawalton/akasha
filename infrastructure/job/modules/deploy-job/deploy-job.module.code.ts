@@ -68,13 +68,24 @@ function buildingIn(given: string | Reading): string {
   return fileOf(given, valuedAt(given, MODULE, BUILDING), MODULE, CODE)
 }
 
-export function scriptFor(given: string | Reading, subject: string, commit: string): string {
+function fetchedFor(commit: string, was: string | null): readonly string[] {
+  const at = `git fetch -q --depth 1 origin ${commit}`
+  if (was === null || was === commit) return [at]
+  return [`git fetch -q --depth 1 origin ${was} || true`, at]
+}
+
+export function scriptFor(
+  given: string | Reading,
+  subject: string,
+  commit: string,
+  was: string | null
+): string {
   return [
     "set -eu",
     `git init -q ${ORCHESTRATOR_CACHE_REPO_PATH}`,
     `cd ${ORCHESTRATOR_CACHE_REPO_PATH}`,
     `git remote add origin ${ORIGIN}`,
-    `git fetch -q --depth 1 origin ${commit}`,
+    ...fetchedFor(commit, was),
     "git checkout -q FETCH_HEAD",
     "bun install --frozen-lockfile",
     `bun ${buildingIn(given)}`,
@@ -85,7 +96,8 @@ export function scriptFor(given: string | Reading, subject: string, commit: stri
 export function jobFor(
   given: string | Reading,
   subject: string,
-  commit: string
+  commit: string,
+  was: string | null
 ): ApiObjectManifest {
   return {
     apiVersion: "batch/v1",
@@ -108,7 +120,7 @@ export function jobFor(
             {
               name: deploy.name,
               image: refFor(`${TOOLS}/${ci.slug}`, LATEST),
-              command: ["sh", "-c", scriptFor(given, subject, commit)],
+              command: ["sh", "-c", scriptFor(given, subject, commit, was)],
               env: [
                 { name: "HOME", value: ORCHESTRATOR_CACHE_MOUNT_PATH },
                 { name: ROOM, value: ROOM_GB },
@@ -134,6 +146,11 @@ export function jobFor(
   }
 }
 
-export function jobYamlFor(given: string | Reading, subject: string, commit: string): string {
-  return synthOne(NAMESPACE, jobNameFor(subject, commit), jobFor(given, subject, commit))
+export function jobYamlFor(
+  given: string | Reading,
+  subject: string,
+  commit: string,
+  was: string | null
+): string {
+  return synthOne(NAMESPACE, jobNameFor(subject, commit), jobFor(given, subject, commit, was))
 }

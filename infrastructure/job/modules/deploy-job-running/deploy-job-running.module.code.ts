@@ -1,3 +1,5 @@
+import { commitRecordedIn } from "akasha/commands/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
+import { kindNamed } from "akasha/commands/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
 import { type PushOutcome, pushBranch } from "akasha/git/modules/pushing/git-pushing.module.code.ts"
 import {
   JOB_NAMESPACE,
@@ -68,6 +70,13 @@ export function logsArgv(name: string): readonly string[] {
 
 const ranBy: Running = (argv, text) => (text === null ? runKubectl(argv) : runKubectlOn(argv, text))
 
+export type Recalling = (root: string, subject: string) => Promise<string | null>
+
+const recalledBy: Recalling = async (root, subject) => {
+  const read = kindNamed(root, subject)
+  return "refused" in read ? null : await commitRecordedIn(read.pagePath)
+}
+
 export type Fate = "complete" | "failed" | "running"
 
 export function endedBy(fate: Fate, lines: Ran, name: string): Ended {
@@ -85,15 +94,16 @@ export function fateOf(running: Running, name: string, rounds: number): Fate {
   return "running"
 }
 
-export function ranInCluster(
+export async function ranInCluster(
   given: string | Reading,
   root: string,
   subject: string,
   commit: string,
+  recalling: Recalling = recalledBy,
   running: Running = ranBy,
   carrying: Carrying = carriedByOrigin,
   pushing: Pushing = pushBranch
-): Ended {
+): Promise<Ended> {
   const carried = carrying(root, commit)
   if ("why" in carried) return carried
   if (!carried.carried) {
@@ -108,7 +118,7 @@ export function ranInCluster(
     }
   }
   const name = jobNameFor(subject, commit)
-  const yaml = jobYamlFor(given, subject, commit)
+  const yaml = jobYamlFor(given, subject, commit, await recalling(root, subject))
   const placing = placeSecrets(root, planFor(name, yaml))
   if (placing.unplaced.length > 0) {
     const short = placing.unplaced.map((one) => `${one.name}/${one.key}`).join(", ")

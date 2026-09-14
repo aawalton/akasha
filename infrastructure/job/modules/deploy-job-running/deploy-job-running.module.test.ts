@@ -6,6 +6,7 @@ import {
   endedBy,
   fateOf,
   logsArgv,
+  type Recalling,
   type Running,
   ranInCluster,
   waitArgv,
@@ -15,6 +16,12 @@ import type { Ran } from "akasha/infrastructure/services/clusters/modules/worklo
 const SUBJECT = "postgres-cnpg-image"
 
 const COMMIT = "0123456789abcdef0123456789abcdef01234567"
+
+const WAS = "89abcdef0123456789abcdef0123456789abcdef"
+
+const neverDeployed: Recalling = async () => null
+
+const deployedAt: Recalling = async () => WAS
 
 const NAME = jobNameFor(SUBJECT, COMMIT)
 
@@ -67,7 +74,7 @@ test("a job left running past the wait refuses the run", () => {
   expect(held.why).toContain("had not ended")
 })
 
-test("a commit origin does not carry is pushed there before the job goes up", () => {
+test("a commit origin does not carry is pushed there before the job goes up", async () => {
   const seen: string[][] = []
   const running: Running = (argv) => {
     seen.push([...argv])
@@ -78,24 +85,34 @@ test("a commit origin does not carry is pushed there before the job goes up", ()
     asked += 1
     return { carried: asked > 1 }
   }
-  const held = ranInCluster(ROOT, ROOT, SUBJECT, COMMIT, running, carrying, () => ({
-    failed: false,
-    line: "push:   pushed",
-    remote: "origin",
-    branch: "main",
-    reason: null,
-  }))
-  expect(held).toEqual({ said: [] })
-  expect(seen[0]).toEqual(["apply", "-f", "-"])
-})
-
-test("a commit origin still does not carry after the push refuses the run", () => {
-  const never: Running = () => ranOf(0)
-  const held = ranInCluster(
+  const held = await ranInCluster(
     ROOT,
     ROOT,
     SUBJECT,
     COMMIT,
+    neverDeployed,
+    running,
+    carrying,
+    () => ({
+      failed: false,
+      line: "push:   pushed",
+      remote: "origin",
+      branch: "main",
+      reason: null,
+    })
+  )
+  expect(held).toEqual({ said: [] })
+  expect(seen[0]).toEqual(["apply", "-f", "-"])
+})
+
+test("a commit origin still does not carry after the push refuses the run", async () => {
+  const never: Running = () => ranOf(0)
+  const held = (await ranInCluster(
+    ROOT,
+    ROOT,
+    SUBJECT,
+    COMMIT,
+    neverDeployed,
     never,
     () => ({ carried: false }),
     () => ({
@@ -105,17 +122,32 @@ test("a commit origin still does not carry after the push refuses the run", () =
       branch: "main",
       reason: null,
     })
-  ) as { why: string }
+  )) as { why: string }
   expect(held.why).toContain(COMMIT)
 })
 
-test("a commit origin carries is put up as a job", () => {
+test("a commit origin carries is put up as a job", async () => {
   const seen: string[][] = []
   const running: Running = (argv) => {
     seen.push([...argv])
     return ranOf(0)
   }
-  const held = ranInCluster(ROOT, ROOT, SUBJECT, COMMIT, running, () => ({ carried: true }))
+  const held = await ranInCluster(ROOT, ROOT, SUBJECT, COMMIT, neverDeployed, running, () => ({
+    carried: true,
+  }))
   expect(held).toEqual({ said: [] })
   expect(seen[0]).toEqual(["apply", "-f", "-"])
+})
+
+test("the commit the subject was last deployed at reaches the job", async () => {
+  const seen: string[][] = []
+  let sent = ""
+  const running: Running = (argv, text) => {
+    seen.push([...argv])
+    if (text !== null) sent = text
+    return ranOf(0)
+  }
+  await ranInCluster(ROOT, ROOT, SUBJECT, COMMIT, deployedAt, running, () => ({ carried: true }))
+  expect(seen[0]).toEqual(["apply", "-f", "-"])
+  expect(sent).toContain(WAS)
 })

@@ -48,5 +48,9 @@ export const deployJobRunning = {
       invariantKind: "absence",
       statement: "Nothing here writes what the deploy learned.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The commit the subject was last deployed at is read before the job is composed.",
+    },
   ],
 } as const satisfies Module

@@ -31,7 +31,7 @@ export const deployJob = {
     },
     {
       invariantKind: "departure",
-      statement: "A job fetches the one commit rather than the whole history.",
+      statement: "A job fetches the commit it is made at rather than the whole history.",
     },
     {
       invariantKind: "departure",
@@ -77,6 +77,20 @@ export const deployJob = {
     {
       invariantKind: "departure",
       statement: "A job states that the run it carries is the one in the cluster.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A job fetches the commit its subject was last deployed at beside the commit it is made at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A job whose subject was never deployed fetches one commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A last deployed commit origin no longer carries leaves the rest of the job running.",
     },
   ],
 } as const satisfies Module
