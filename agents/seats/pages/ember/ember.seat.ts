@@ -7,7 +7,7 @@ export const ember = {
   persona: "ember",
   assignmentSlug: "initiative/ember-inventory-rules",
   role: "definer",
-  person: "person/alan",
+  person: "alan",
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",
