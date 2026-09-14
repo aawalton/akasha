@@ -70,7 +70,7 @@ export function addressesDeclared(
   return [...held].sort()
 }
 
-export function routedBy(rules: readonly RoutingRule[]): ReadonlyMap<string, boolean> {
+function routedBy(rules: readonly RoutingRule[]): ReadonlyMap<string, boolean> {
   const routed = new Map<string, boolean>()
   for (const rule of rules) {
     const address = addressIn(rule)
@@ -112,7 +112,7 @@ export function namedFor(address: string, destination: string): string {
   return `${MANAGED}${address} -> ${destination}`
 }
 
-export function ruleFor(address: string, destination: string): RuleToWrite {
+function ruleFor(address: string, destination: string): RuleToWrite {
   return {
     name: namedFor(address, destination),
     enabled: true,
