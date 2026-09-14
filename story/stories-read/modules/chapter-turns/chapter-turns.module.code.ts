@@ -54,7 +54,7 @@ function byPosition(a: Page, b: Page): number {
   return leftTitle < rightTitle ? -1 : 1
 }
 
-export function chapterHref(row: Page): string {
+function chapterHref(row: Page): string {
   return buildPageHref({
     pageTypeSlug: toPageTypeSlug(CHAPTER_PAGE_TYPE_SLUG),
     slug: typeof row.slug === "string" ? row.slug : null,

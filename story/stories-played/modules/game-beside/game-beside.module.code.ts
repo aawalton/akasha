@@ -81,7 +81,7 @@ function stateIn(body: string | null): GameState | null {
   return read.success ? read.data : null
 }
 
-export async function readGameBeside(slug: string): Promise<GameBesideRead> {
+async function readGameBeside(slug: string): Promise<GameBesideRead> {
   const asked = await askComposed({
     "page-type": GAME_PAGE_TYPE_SLUG,
     where: { slug: { is: slug } },

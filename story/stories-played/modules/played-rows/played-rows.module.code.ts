@@ -70,7 +70,7 @@ export function playedTail(rows: readonly Page[]): PlayedTail {
   return { drawn: ordered.slice(earlier), earlier }
 }
 
-export function playedHref(pageTypeSlug: string, row: Page): string {
+function playedHref(pageTypeSlug: string, row: Page): string {
   return buildPageHref({
     pageTypeSlug: toPageTypeSlug(pageTypeSlug),
     slug: slugIn(row),

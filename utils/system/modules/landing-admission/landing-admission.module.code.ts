@@ -23,15 +23,15 @@ const SAID = "landing-admission:"
 
 const HOME = "HOME"
 
-export function admissionAt(home: string): string {
+function admissionAt(home: string): string {
   return join(home, AT)
 }
 
-export function admitting(availableKb: number, roomGb: number): boolean {
+function admitting(availableKb: number, roomGb: number): boolean {
   return availableKb >= roomGb * KB_A_GB
 }
 
-export function turnTaken(home: string): boolean {
+function turnTaken(home: string): boolean {
   const at = admissionAt(home)
   mkdirSync(dirname(at), { recursive: true })
   return exclusively(
