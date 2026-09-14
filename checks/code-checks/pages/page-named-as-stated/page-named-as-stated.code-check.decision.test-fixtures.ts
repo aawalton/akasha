@@ -1,7 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { declaring } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
-import { noPathsFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { bodiesIn, bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
@@ -35,7 +34,6 @@ export function page(slug: string, pageTypeSlug: string, named: string = exporte
 
 export function rooted(fileProperties: readonly string[]): string {
   const root = scratch.rootFor("akasha-page-named-")
-  noPathsFiled(root)
   declaring(root, "id", { pageTypeSlug: "text-property", unique: "page" })
   declaring(root, "slug", { pageTypeSlug: "text-property", unique: "page-type" })
   for (const one of fileProperties) {
