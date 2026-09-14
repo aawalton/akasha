@@ -5,9 +5,12 @@ import {
   actingNamedOn,
   actingOf,
   answerAsked,
+  type ReadingFor,
   type SeatPaging,
+  type SubagentPaging,
   strayAmong,
 } from "akasha/agents/modules/stray-process/stray-process.module.code.ts"
+import type { Liveness } from "akasha/agents/subagents/modules/liveness/subagent-liveness.module.code.ts"
 
 const SEAT = "01a09581-cb35-7000-b00f-7156d6b3ce13"
 
@@ -17,6 +20,24 @@ const ANOTHER = `${SEAT}--a32671c5cf0526c7f`
 
 const REFUSING: SeatPaging = () => {
   throw new Error("the index would not answer which pages are seats")
+}
+
+const FILED = "where the index files a page"
+
+const SEATED: SeatPaging = () => FILED
+
+const NO_SEAT: SeatPaging = () => null
+
+const PAGED: SubagentPaging = () => FILED
+
+const UNPAGED: SubagentPaging = () => null
+
+const REFUSING_OWN: SubagentPaging = () => {
+  throw new Error("the index would not answer which pages are subagents")
+}
+
+function transcribing(liveness: Liveness): ReadingFor {
+  return async () => ({ liveness, why: "what this test hands back" })
 }
 
 function procAt(pid: number, actingAgentId?: string): ProcLivenessEntry {
@@ -128,6 +149,78 @@ test("an index that would not answer yields no stray", async () => {
 
   expect(read.strays).toEqual([])
   expect(read.unread).toEqual([ACTING])
+})
+
+test("a subagent no page carries and the transcript names nowhere has departed", async () => {
+  const asking = (one: string): Promise<Answer> =>
+    answerAsked(one, SEATED, UNPAGED, transcribing("returned"))
+
+  expect(await asking(ACTING)).toBe("returned")
+
+  const read = await strayAmong([procAt(11, ACTING), procAt(12, ACTING)], asking)
+
+  expect(read.strays.map((one) => one.pid)).toEqual([11, 12])
+  expect(read.unread).toEqual([])
+})
+
+test("a subagent a page still carries is no stray though the transcript names it nowhere", async () => {
+  const asking = (one: string): Promise<Answer> =>
+    answerAsked(one, SEATED, PAGED, transcribing("returned"))
+
+  expect(await asking(ACTING)).toBe("working")
+
+  const read = await strayAmong([procAt(11, ACTING)], asking)
+
+  expect(read.strays).toEqual([])
+  expect(read.unread).toEqual([])
+})
+
+test("a subagent no page carries whose transcript names it as running is no stray", async () => {
+  const asking = (one: string): Promise<Answer> =>
+    answerAsked(one, SEATED, UNPAGED, transcribing("working"))
+
+  expect(await asking(ACTING)).toBe("working")
+
+  const read = await strayAmong([procAt(11, ACTING)], asking)
+
+  expect(read.strays).toEqual([])
+  expect(read.unread).toEqual([])
+})
+
+test("an index that would not answer for a subagent's page leaves it unread rather than gone", async () => {
+  const asking = (one: string): Promise<Answer> =>
+    answerAsked(one, SEATED, REFUSING_OWN, transcribing("returned"))
+
+  expect(await asking(ACTING)).toBe("unread")
+
+  const read = await strayAmong([procAt(11, ACTING)], asking)
+
+  expect(read.strays).toEqual([])
+  expect(read.unread).toEqual([ACTING])
+})
+
+test("a transcript that could not be read leaves a subagent no page carries unread", async () => {
+  const asking = (one: string): Promise<Answer> =>
+    answerAsked(one, SEATED, UNPAGED, transcribing("unread"))
+
+  expect(await asking(ACTING)).toBe("unread")
+
+  const read = await strayAmong([procAt(11, ACTING)], asking)
+
+  expect(read.strays).toEqual([])
+  expect(read.unread).toEqual([ACTING])
+})
+
+test("a seat no page carries is gone whatever its subagent's page and transcript say", async () => {
+  expect(await answerAsked(ACTING, NO_SEAT, PAGED, transcribing("working"))).toBe("gone")
+  expect(await answerAsked(ACTING, NO_SEAT, REFUSING_OWN, transcribing("unread"))).toBe("gone")
+
+  const read = await strayAmong([procAt(11, ACTING), procAt(12, ACTING)], (one) =>
+    answerAsked(one, NO_SEAT, PAGED, transcribing("working"))
+  )
+
+  expect(read.strays.map((one) => one.pid)).toEqual([11, 12])
+  expect(read.unread).toEqual([])
 })
 
 test("the environment is taken where the command line disagrees", async () => {

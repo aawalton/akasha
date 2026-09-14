@@ -4,12 +4,18 @@ import {
   ACTING_NAMED,
   SUBAGENT_MARK,
 } from "akasha/agents/modules/read-record/read-record.module.code.ts"
-import { akashaSeatPathForAgent } from "akasha/agents/seats/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import {
+  akashaRoot,
+  akashaSeatPathForAgent,
+} from "akasha/agents/seats/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import {
+  type Acting,
   actingIn,
   type Liveness,
+  type Read,
   readFor,
 } from "akasha/agents/subagents/modules/liveness/subagent-liveness.module.code.ts"
+import { subagentPathForAgent } from "akasha/agents/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
 
 export type Stray = {
   readonly pid: number
@@ -28,7 +34,11 @@ export type Asking = (actingAgentId: string) => Promise<Answer>
 
 export type SeatPaging = (seatId: string) => string | null
 
-type SeatPage = "there" | "gone" | "unread"
+export type SubagentPaging = (actingAgentId: string) => string | null
+
+export type ReadingFor = (acting: Acting) => Promise<Read>
+
+type Paged = "there" | "gone" | "unread"
 
 function namesASubagent(actingAgentId: string): boolean {
   return actingAgentId.indexOf(SUBAGENT_MARK) > 0
@@ -87,23 +97,31 @@ export async function strayAmong(
   return { strays, unread }
 }
 
-function seatPaged(seatId: string, paging: SeatPaging): SeatPage {
+function pagedBy(asking: () => string | null): Paged {
   try {
-    return paging(seatId) === null ? "gone" : "there"
+    return asking() === null ? "gone" : "there"
   } catch {
     return "unread"
   }
 }
 
+const OWN_PAGING: SubagentPaging = (actingAgentId) =>
+  subagentPathForAgent(akashaRoot(), actingAgentId)
+
 export async function answerAsked(
   actingAgentId: string,
-  paging: SeatPaging = akashaSeatPathForAgent
+  paging: SeatPaging = akashaSeatPathForAgent,
+  ownPaging: SubagentPaging = OWN_PAGING,
+  reading: ReadingFor = readFor
 ): Promise<Answer> {
   const acting = actingIn(actingAgentId)
   if (acting === null) return "unread"
-  const seat = seatPaged(acting.seatId, paging)
+  const seat = pagedBy(() => paging(acting.seatId))
   if (seat !== "there") return seat
-  return (await readFor(acting)).liveness
+  const own = pagedBy(() => ownPaging(actingAgentId))
+  if (own === "unread") return "unread"
+  if (own === "there") return "working"
+  return (await reading(acting)).liveness
 }
 
 export async function strayNow(
