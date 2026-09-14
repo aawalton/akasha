@@ -190,6 +190,11 @@ export const page = {
       invariantKind: "departure",
       statement: "A page's code that lists a folder lists that folder on disk.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The screen, chip, row and card any page falls back to are held beside this page type.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType
