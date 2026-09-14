@@ -30,20 +30,11 @@ function asPermissiveStub(value: unknown): PermissiveStub {
   return value as PermissiveStub
 }
 
-export function isPermissiveStub(value: unknown): value is PermissiveStub {
-  if (typeof value !== "function" && (typeof value !== "object" || value === null)) {
-    return false
-  }
-  if (!("__esoPermissiveStub" in value)) return false
-  return value.__esoPermissiveStub === true
-}
-
 function createPermissiveStub(): PermissiveStub {
   const children = new Map<string | symbol, PermissiveStub>()
   const target = function stub() {}
   const handler: ProxyHandler<typeof target> = {
     get(t, prop, receiver) {
-      if (prop === "__esoPermissiveStub") return true
       if (typeof prop === "symbol") return undefined
       if (prop === "then") return undefined
       if (prop === "$istable" || prop === "$getRef") return undefined

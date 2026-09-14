@@ -20,10 +20,6 @@ export const esoSandboxGlobals = {
       statement: "A stub answers no promise.",
     },
     {
-      invariantKind: "constraint",
-      statement: "A stub is told from a real value by one marked property.",
-    },
-    {
       invariantKind: "departure",
       statement: "A load seeds only the game names a bundle reads at load time.",
     },
