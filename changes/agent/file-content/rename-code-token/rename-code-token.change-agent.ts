@@ -13,11 +13,11 @@ export const renameCodeToken = {
   changeKind: "change-kind/change-checked",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page's own export is refused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A type a page's file declares beside that export is renamed here.",
     },
   ],
