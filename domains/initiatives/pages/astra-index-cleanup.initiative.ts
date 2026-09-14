@@ -16,7 +16,7 @@ export const astraIndexCleanup = {
     {
       statement: "Alan holds the listing index's structure correct.",
       workingMemory:
-        "`everyPath` is down from thirty-three callers to eight, and `tree-searching` reads no index since `192316782978`. `Shadow` gained a listing in `24888576c08`: one ripgrep run under the ignore policy with the change's edits laid over, costing 0.77s against the index read's 0.019s. Six of the eight repoint onto it where the cost allows. The last two are the check policing how a check reaches a path, which wants renaming to `check-reaches-a-path-outside-the-overlay` and its rule rewritten.\n",
+        "Live readers of `everyPath` are the path-reaching check and its audit, `everyFileOf` for the manifest check, `import-repointing`, and `ruleShort`. `everyFileIn` is dead. The check conflates two populations: a vocabulary of real paths, which wants every file, and the page set, which the index answers from its own pages. The index goes last, once `claimingIn` and `pathsIn` move out of its code into `path-claiming`, where the question they answer belongs.\n",
     },
     {
       statement: "A file property declares one extension.",
