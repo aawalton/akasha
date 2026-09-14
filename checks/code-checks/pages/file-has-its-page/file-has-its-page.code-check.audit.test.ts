@@ -8,7 +8,7 @@ import {
   typed,
 } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
-import { noPathsFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { nothingFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const ID = "01a04d86-434f-75ff-8000-000000000004"
@@ -33,7 +33,7 @@ function bodyAt(root: string, path: string): undefined {
 function treed(paths: readonly string[]): string {
   const root = scratch.rootFor("akasha-file-has-its-page-audit-")
   git(root, ["init", "--quiet"])
-  noPathsFiled(root)
+  nothingFiled(root)
   for (const path of paths) bodyAt(root, path)
   git(root, ["add", "-A"])
   return root
