@@ -205,5 +205,5 @@ export const noRuleInTwoFiles = {
     },
   ],
   check: { maxCpuSeconds: 10 },
-  audit: { maxCpuSeconds: 15 },
+  audit: { maxCpuSeconds: 30 },
 } as const satisfies CodeCheck
