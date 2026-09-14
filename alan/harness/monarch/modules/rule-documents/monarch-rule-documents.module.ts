@@ -55,5 +55,9 @@ export const monarchRuleDocuments = {
       invariantKind: "departure",
       statement: "A rule naming a category that no longer exists is refused.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A category is read as the slug alone, whatever page type names it.",
+    },
   ],
 } as const satisfies Module

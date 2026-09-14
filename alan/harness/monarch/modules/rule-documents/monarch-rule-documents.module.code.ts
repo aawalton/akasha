@@ -10,7 +10,10 @@ import type {
   Rule,
 } from "akasha/alan/harness/monarch/modules/rules/monarch-rules.module.code.ts"
 import { valuesByPath } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  slugOf,
+  type Value,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const RULES = "alan/harness/monarch/category-rules"
 
@@ -77,6 +80,11 @@ function textOf(page: RulePage, name: string): string | null {
   return held
 }
 
+function categoryOf(page: RulePage): string | null {
+  const held = textOf(page, "category")
+  return held === null ? null : slugOf(held)
+}
+
 function countOf(page: RulePage, name: string): number | null {
   const held = page.value[name]
   if (held === undefined || held === null) return null
@@ -107,7 +115,7 @@ function rulePages(): readonly RulePage[] {
 }
 
 function outcomeOf(page: RulePage, categories: ReadonlyMap<string, string>): Outcome {
-  const slug = textOf(page, "category")
+  const slug = categoryOf(page)
   if (slug === null) return { kind: "reserve" }
   if (!categories.has(slug)) {
     throw new Error(
@@ -154,7 +162,7 @@ export async function loadCategoryRules(): Promise<RuleSet> {
         {
           name: page.slug,
           matches,
-          category: textOf(page, "category"),
+          category: categoryOf(page),
           ruleNote: textOf(page, "ruleNote"),
           counterpartWithinDays: countOf(page, "counterpartWithinDays"),
         },
