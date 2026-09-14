@@ -21,4 +21,5 @@ export const renameCodeToken = {
       statement: "A type a page's file declares beside that export is renamed here.",
     },
   ],
+  maxCpuSeconds: 30,
 } as const satisfies ChangeAgent

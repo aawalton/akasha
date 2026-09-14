@@ -62,4 +62,5 @@ export const renameFolderImports = {
     },
   ],
   changeKind: "change-checked",
+  maxCpuSeconds: 30,
 } as const satisfies ChangeAgent

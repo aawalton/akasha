@@ -124,4 +124,5 @@ export const renamePackage = {
     },
   ],
   changeKind: "change-checked",
+  maxCpuSeconds: 30,
 } as const satisfies ChangeAgent
