@@ -131,6 +131,14 @@ export const serviceWorkstation = {
     },
     {
       invariantKind: "departure",
+      statement: "A service stopped by hand is running again at the next deploy of its kind.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Taking a service out of service is landing that it is not enabled.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "The finding of the last look at a service's health is carried outside the commit.",
     },
