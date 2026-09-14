@@ -46,7 +46,7 @@ export const olwenPagesSystemDisplay = {
       statement:
         "A screen finds a page type's component by walking the types that page type extends.",
       workingMemory:
-        "The bundler gathers them. `pages/ui/components/modules/property-badge-drawings/` holds one `import.meta.glob`, after `check-reaches-a-path-through-the-index` was narrowed so a pattern the bundler reads before the code runs is no directory listing. Proven: `alan/web` builds, and the badge beside `page-property.page-type.ts` is one of the three modules carrying its placeholder in the client bundle. The climb is not built; no module yields a page type's ancestors in order.",
+        "Done for the badge. `page-asking`'s `drawnFor` climbs `extends` and hands each declaration its chain as `drawnBy`, which reaches the browser on the property definition. `property-badge` takes the first page type in that chain holding a drawing, stopping short of `page-property` so the registry still wins while the kinds have no drawing of their own. The drawings come from one `import.meta.glob` in `pages/ui/components/modules/property-badge-drawings/`. `alan/web` builds.",
     },
   ],
 } as const satisfies Initiative
