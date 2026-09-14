@@ -35,11 +35,29 @@ export const observationStore = {
     },
     {
       invariantKind: "departure",
-      statement: "The URL a write has names the page rather than a server.",
+      statement: "A write goes to the one write the pages service answers.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing has ever listened on the origin the URL is built from.",
+      invariantKind: "departure",
+      statement: "The page a write is for is named in that write's body rather than in its URL.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write merges, so the first write of a window makes that window's page.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A window's slug opens with a word, because a name opening with a digit is no slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A writer is named as a name and an address, which is the only form a write takes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every value a write carries is uncommitted, so no observation enters a commit.",
     },
     {
       invariantKind: "departure",

@@ -22,11 +22,19 @@ const SETTLE_MS = 250
 
 const WINDOW_PAGE_TYPE = "code-editor-window"
 
-const WRITER = "editor-observations"
+const WRITER = "editor observations <editor-observations@alanwalton.com>"
+
+const SAYS = "an editor window says what it last observed of its features"
+
+const WRITES_AT = "/write"
 
 export type Fetcher = (url: string, init: RequestInit) => Promise<Response>
 
-const REPRESENTS_AN_ORIGIN = "http://127.0.0.1:8787"
+const ORIGIN = "http://127.0.0.1:8787"
+
+export function slugFor(window: string): string {
+  return `window-${window}`
+}
 
 export interface ObservationStore {
   readonly record: (feature: string, patch: ObservationPatch) => void
@@ -49,7 +57,8 @@ export function createObservationStore(options: StoreOptions): ObservationStore 
   const now = options.now ?? ((): Date => new Date())
   const settleMs = options.settleMs ?? SETTLE_MS
   const ask = options.fetch
-  const url = `${options.origin ?? REPRESENTS_AN_ORIGIN}/patch-state/${WINDOW_PAGE_TYPE}/${options.window}`
+  const url = `${options.origin ?? ORIGIN}${WRITES_AT}`
+  const slug = slugFor(options.window)
 
   let features: Record<string, Observation> = {}
   let writtenKey = changeKey({})
@@ -64,12 +73,16 @@ export function createObservationStore(options: StoreOptions): ObservationStore 
     if (key === writtenKey) {
       return
     }
-    const values = { features, "observed-at": now().toISOString() }
+    const values = { features, observedAt: now().toISOString() }
     try {
       const response = await ask(url, {
         method: "POST",
         headers: { "content-type": "application/json", accept: "application/json" },
-        body: JSON.stringify({ writer: WRITER, values }),
+        body: JSON.stringify({
+          writer: WRITER,
+          message: SAYS,
+          pages: [{ pageTypeSlug: WINDOW_PAGE_TYPE, slug, values, merge: true }],
+        }),
       })
       if (!response.ok) {
         const said = (await response.text().catch(() => "")).trim()

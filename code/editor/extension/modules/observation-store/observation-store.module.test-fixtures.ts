@@ -8,21 +8,35 @@ import { z } from "zod"
 
 const sentBody = z.object({
   writer: z.string(),
-  values: z.object({
-    features: z.record(z.string(), z.custom<Observation>()),
-    "observed-at": z.string(),
-  }),
+  message: z.string(),
+  pages: z
+    .array(
+      z.object({
+        pageTypeSlug: z.string(),
+        slug: z.string(),
+        merge: z.boolean(),
+        values: z.object({
+          features: z.record(z.string(), z.custom<Observation>()),
+          observedAt: z.string(),
+        }),
+      })
+    )
+    .length(1),
 })
 
 export interface Sent {
   readonly url: string
   readonly writer: string
+  readonly message: string
+  readonly pageTypeSlug: string
+  readonly slug: string
+  readonly merge: boolean
   readonly features: Record<string, Observation>
   readonly observedAt: string
 }
 
 const ORIGIN = "http://pages.test"
-const WINDOW = "4242.46800522"
+const WINDOW = "4242-46800522"
 
 function service(): {
   readonly sent: readonly Sent[]
@@ -37,11 +51,16 @@ function service(): {
     sent,
     fetcher: async (url, init) => {
       const body = sentBody.parse(JSON.parse(String(init.body)))
+      const page = body.pages[0] as (typeof body.pages)[number]
       sent.push({
         url,
         writer: body.writer,
-        features: body.values.features,
-        observedAt: body.values["observed-at"],
+        message: body.message,
+        pageTypeSlug: page.pageTypeSlug,
+        slug: page.slug,
+        merge: page.merge,
+        features: page.values.features,
+        observedAt: page.values.observedAt,
       })
       return answer()
     },
