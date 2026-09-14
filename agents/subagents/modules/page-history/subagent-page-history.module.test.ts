@@ -22,7 +22,7 @@ function bodyOf(id: string, kind: string, agentId: string): string {
     `  id: ${JSON.stringify(id)},`,
     '  pageTypeSlug: "subagent",',
     '  slug: "akasha-a38f63805f9b94edf",',
-    '  principalSeatName: "akasha",',
+    '  principalSeatName: "seat/akasha",',
     '  assignmentSlug: "domain/akasha-system",',
     `  dispatchedAs: ${JSON.stringify(kind)},`,
     `  agentId: ${JSON.stringify(agentId)},`,
@@ -60,7 +60,7 @@ test("a page taken away is read back out of the commit that wrote it", () => {
     expect(pageInHistory(root, AT)?.values).toMatchObject({
       id: HELD,
       slug: "akasha-a38f63805f9b94edf",
-      principalSeatName: "akasha",
+      principalSeatName: "seat/akasha",
       assignmentSlug: "domain/akasha-system",
       dispatchedAs: "Explore",
       agentId: AGENT,
