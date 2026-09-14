@@ -104,6 +104,8 @@ export async function runMechanicalChange(
   )
 }
 
+export type Landing = typeof runMechanicalChange
+
 export const landedMechanically = (
   done: string[],
   root: string,

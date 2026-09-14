@@ -115,7 +115,7 @@ export const mechanicalChangeRunning = {
     {
       invariantKind: "departure",
       statement:
-        "A caller wanting what landed named in its own refusal reaches the landing threading that list.",
+        "A caller wanting what landed named in its own refusal hands in the list the landing threads.",
     },
     {
       invariantKind: "departure",
