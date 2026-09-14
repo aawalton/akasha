@@ -2,7 +2,7 @@ import {
   agoOf,
   HOUR,
 } from "akasha/checks/modules/measuring/check-measuring.module.test-fixtures.ts"
-import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
+import { put } from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"
 
 export const ONE = "01a08071-39a4-7000-9c6b-6cee59d30d10"
 

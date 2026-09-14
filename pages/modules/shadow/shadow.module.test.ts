@@ -43,7 +43,10 @@ import {
   unfiled,
 } from "akasha/pages/modules/shadow/shadow.module.test-fixtures.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
-import { put, there } from "akasha/testing-system/modules/putting/putting.module.code.ts"
+import {
+  put,
+  there,
+} from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
 

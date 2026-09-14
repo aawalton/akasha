@@ -28,7 +28,7 @@ import {
   THREE,
   TWO,
 } from "akasha/commands/pages/measure/change/modules/change-measuring/change-measuring.module.test-fixtures.ts"
-import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
+import { put } from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()

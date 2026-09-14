@@ -15,7 +15,7 @@ import {
   costsOf,
   readIn,
 } from "akasha/commands/pages/measure/modules/gathering/measure-gathering.module.code.ts"
-import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
+import { put } from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const PAGE = "temper/held-addon/held-addon.eso-addon.ts"

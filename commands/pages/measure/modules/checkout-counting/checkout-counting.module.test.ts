@@ -9,7 +9,7 @@ import {
   pathsIn,
 } from "akasha/commands/pages/measure/modules/checkout-counting/checkout-counting.module.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
-import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
+import { put } from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()

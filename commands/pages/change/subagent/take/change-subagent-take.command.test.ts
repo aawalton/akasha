@@ -7,7 +7,7 @@ import { baseOf as headOf } from "akasha/commands/modules/landing-change-composi
 import { piping } from "akasha/commands/modules/piping/piping.module.test-fixtures.ts"
 import { changeSubagentTake } from "akasha/commands/pages/change/subagent/take/change-subagent-take.command.code.ts"
 import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
-import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
+import { put } from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"
 import {
   AGENT,
   applied,

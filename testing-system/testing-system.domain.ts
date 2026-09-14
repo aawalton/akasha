@@ -12,8 +12,6 @@ export const testingSystem = {
     "module/dom-guard-setting",
     "module/dom-guarding",
     "module/dom-registering",
-
-    "module/putting",
     "page-type/test-fixture",
   ],
   invariants: [

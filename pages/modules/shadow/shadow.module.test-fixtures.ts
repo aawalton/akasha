@@ -14,7 +14,10 @@ import {
 } from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { type Cast, shadowFor } from "akasha/pages/modules/shadow/shadow.module.code.ts"
-import { put, there } from "akasha/testing-system/modules/putting/putting.module.code.ts"
+import {
+  put,
+  there,
+} from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 export const scratch = scratchWorld()

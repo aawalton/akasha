@@ -11,7 +11,7 @@ import type { Kind } from "akasha/commands/modules/calling/calling.module.code.t
 import { runningOf } from "akasha/commands/modules/change-kind-running/change-kind-running.module.code.ts"
 import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { carryLanded } from "akasha/commands/modules/landing-reading/landing-reading.module.code.ts"
-import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
+import { put } from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"
 import {
   AGENT,
   repoWith,

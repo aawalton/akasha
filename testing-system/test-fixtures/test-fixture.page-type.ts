@@ -10,6 +10,7 @@ export const testFixture = {
     "test-fixture/declaring",
     "test-fixture/minting",
     "test-fixture/page-holding",
+    "test-fixture/putting",
     "test-fixture/repo-seeding",
     "test-fixture/waiting",
     "test-fixture/walking",

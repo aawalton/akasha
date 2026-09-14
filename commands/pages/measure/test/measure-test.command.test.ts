@@ -12,7 +12,7 @@ import type { Given } from "akasha/commands/modules/calling/calling.module.code.
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { measureTest } from "akasha/commands/pages/measure/test/measure-test.command.code.ts"
 import { measureTest as page } from "akasha/commands/pages/measure/test/measure-test.command.ts"
-import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
+import { put } from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const CALLED_AS = "akasha measure test"

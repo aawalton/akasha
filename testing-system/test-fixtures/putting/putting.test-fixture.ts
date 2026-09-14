@@ -1,8 +1,8 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { TestFixture } from "akasha/testing-system/test-fixtures/test-fixture.page-type.types.ts"
 
 export const putting = {
   id: "01a04efb-4361-7984-87ce-b338a39e98b3",
-  type: "module",
+  type: "test-fixture",
   slug: "putting",
   definition: "a file put where a test wants it in a tree it set up, and whether one is there",
   code: "ts",
@@ -20,4 +20,4 @@ export const putting = {
       statement: "Where the file landed is handed back.",
     },
   ],
-} as const satisfies Module
+} as const satisfies TestFixture
