@@ -19,7 +19,7 @@ import {
 const PUT = "change-mechanical/add-file-of-any-kind"
 const PROSE = "prose"
 const TXT = "txt"
-const WORDS = "words"
+const WORDS = "unit/words"
 const SOURCE = "the-wandering-inn"
 const IDENTITY = "externalIdentity"
 

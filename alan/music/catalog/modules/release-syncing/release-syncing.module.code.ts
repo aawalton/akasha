@@ -48,7 +48,7 @@ const RELEASE = "release"
 
 const FOLLOWING = "following"
 
-const MINUTES = "minutes"
+const MINUTES = "unit/minutes"
 
 const NOT_STARTED = "not-started"
 

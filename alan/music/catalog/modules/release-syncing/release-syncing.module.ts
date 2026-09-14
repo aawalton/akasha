@@ -54,6 +54,10 @@ export const releaseSyncing = {
     },
     {
       invariantKind: "departure",
+      statement: "A release names the unit its length is counted in as an address.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A release arrives started by nobody and heard for none of its length.",
     },
     {

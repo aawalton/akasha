@@ -47,6 +47,10 @@ export const chapterFiling = {
     },
     {
       invariantKind: "departure",
+      statement: "A chapter states the unit its length is counted in as an address.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A chapter whose url states no day is filed without a day rather than refused.",
     },
     {

@@ -80,6 +80,10 @@ export const royalRoadSyncing = {
     },
     {
       invariantKind: "departure",
+      statement: "A chapter names the unit its length is counted in the same way.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A story's status is restated only where royal road says ongoing or completed or hiatus.",
     },
