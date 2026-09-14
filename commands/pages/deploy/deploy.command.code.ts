@@ -71,6 +71,7 @@ import {
 } from "akasha/infrastructure/services/clusters/modules/workload-applying/workload-applying.module.code.ts"
 import { putUpEvery } from "akasha/infrastructure/services/workstations/modules/service-putting-up/service-putting-up.module.code.ts"
 import { provingFor } from "akasha/infrastructure/services/workstations/modules/service-running/service-running.module.code.ts"
+import { waitedForRoom } from "akasha/utils/system/modules/landing-admission/landing-admission.module.code.ts"
 
 const PUT_UP = "deploy"
 const TAKES = [dryRun, deploySubject, noUpload, ref, measured, simulator, device]
@@ -186,10 +187,13 @@ export type PuttingUp = (
   closures: ReadonlyMap<string, ReadonlySet<string>> | null
 ) => Promise<Answer>
 
+export type Waiting = (kind: string) => Promise<undefined>
+
 export async function deploy(
   argv: readonly string[],
   given: Given,
-  putting: PuttingUp = putUp
+  putting: PuttingUp = putUp,
+  waiting: Waiting = waitedForRoom
 ): Promise<Answer> {
   const taken = takenFor(argv, given.calledAs, page, TAKES)
   if ("refused" in taken) return refusedBy(taken.refused, INPUT)
@@ -211,6 +215,7 @@ export async function deploy(
   if (unfit !== null) return refused(unfit, INPUT)
   if (read.kind === IOS_APP && wanted.device) return await installedOnDevice(slug)
   if (read.kind === IOS_APP && wanted.simulator) return await installedOnSimulator(slug, given)
+  await waiting(PUT_UP)
   const alone = await heldWhile(given.root, slug, () =>
     deployHeld(read, slug, wanted, given, putting)
   )

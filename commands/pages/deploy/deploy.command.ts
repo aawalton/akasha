@@ -263,6 +263,10 @@ export const deploy = {
       statement:
         "A thing already being put up refuses a second deploy of that thing rather than waiting on it.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A deploy waits for the memory a landing starts on before it puts anything up.",
+    },
   ],
   name: "deploy",
   arguments: [

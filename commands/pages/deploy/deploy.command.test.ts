@@ -5,9 +5,13 @@ import {
   OPERATIONAL,
   partWay,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { PuttingUp, Wanted } from "akasha/commands/pages/deploy/deploy.command.code.ts"
+import type {
+  PuttingUp,
+  Waiting,
+  Wanted,
+} from "akasha/commands/pages/deploy/deploy.command.code.ts"
 import {
-  deploy,
+  deploy as deploying,
   saidOfUnproven,
   stoppedPartWay,
 } from "akasha/commands/pages/deploy/deploy.command.code.ts"
@@ -26,6 +30,11 @@ afterAll(() => {
 })
 
 const HERE = given(committed(WORLD.root))
+
+const NO_WAIT: Waiting = async () => await Promise.resolve(undefined)
+
+const deploy = async (...said: Parameters<typeof deploying>) =>
+  await deploying(said[0], said[1], said[2], NO_WAIT)
 
 function pastTheChecks(): { readonly root: string; readonly commit: string } {
   const world = seededWorld()

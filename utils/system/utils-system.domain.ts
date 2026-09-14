@@ -5,7 +5,7 @@ export const utilsSystem = {
   type: "domain",
   slug: "utils-system",
   definition: "what the Linux kernel says about the workstation, read from the files it says it in",
-  parts: ["module/inode-guard", "module/memory-guard"],
+  parts: ["module/inode-guard", "module/landing-admission", "module/memory-guard"],
   invariants: [
     {
       invariantKind: "constraint",

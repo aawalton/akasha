@@ -197,5 +197,9 @@ export const applyRunning = {
       invariantKind: "departure",
       statement: "A fold the kept edits or the bodies beneath refuse is a fault of the data.",
     },
+    {
+      invariantKind: "departure",
+      statement: "An apply waits for the memory a landing starts on before it folds anything.",
+    },
   ],
 } as const satisfies Module

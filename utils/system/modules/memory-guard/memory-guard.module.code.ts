@@ -10,7 +10,7 @@ const THRESHOLD_KB = MIN_FREE_MEMORY_GB * KB_PER_GB
 
 const GB_OVERRIDE_SCHEMA = z.coerce.number().positive().finite()
 
-function resolveGbOverride(envName: string, fallbackGb: number): number {
+export function resolveGbOverride(envName: string, fallbackGb: number): number {
   const parsed = GB_OVERRIDE_SCHEMA.safeParse(process.env[envName])
   return parsed.success ? parsed.data : fallbackGb
 }

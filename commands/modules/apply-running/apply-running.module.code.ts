@@ -44,6 +44,7 @@ import { agentPathOf } from "akasha/domains/context/modules/warranting/warrantin
 import { headOf } from "akasha/git/modules/head-commit/head-commit.module.code.ts"
 import { everyOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import { waitedForRoom } from "akasha/utils/system/modules/landing-admission/landing-admission.module.code.ts"
 
 const RUNNER = "change-runner"
 
@@ -183,6 +184,7 @@ export function mendedInto(answer: Answer, given: Given): Answer {
 export async function applyWith(taken: Arguments, given: Given): Promise<Answer> {
   const asked = askedIn(taken)
   if (!("refusals" in asked) && asked.measure) allowedAgain(MEASURED_ALLOWED, MEASURED_NAME)
+  if (!("refusals" in asked)) await waitedForRoom(APPLY)
   const before = opening()
   const done = await ending(asked, given)
   const refusals = done.answer.refusals.length
