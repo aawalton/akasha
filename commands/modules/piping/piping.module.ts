@@ -52,77 +52,8 @@ export const piping = {
     },
     {
       invariantKind: "departure",
-      statement: "A block opens at `<<<<<<< old`.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A block splits at `=======`.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A block closes at `>>>>>>> new`.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A payload names a run of its own on the line the payload opens with.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A run of its own is the letters and digits and dashes after the opening run.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Every marker of that payload has the run the payload named.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A payload naming no run of its own is read by the three runs above.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A line with a run the payload did not name is a line of the passage.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A passage is the bytes between its markers with its trailing newline included.",
-    },
-    {
-      invariantKind: "departure",
       statement:
-        "A marker with `mid-line` ends the passage before that marker without that newline.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The split marker ends the old passage and the closing marker ends the new passage.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Each marker is ended mid-line on its own.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A passage with no trailing newline is left as that passage is.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The blocks are answered in the order the blocks are written.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A payload is marker blocks and nothing else.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A line beginning with the payload's own marker run inside a passage is refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That refusal says a run of its own may be named.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A refusal names the marker the payload is missing.",
+        "A body holding a line that begins with `<<<<<<<`, `=======` or `>>>>>>>` is marked.",
     },
     {
       invariantKind: "absence",

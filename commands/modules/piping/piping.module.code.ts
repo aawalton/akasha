@@ -7,18 +7,9 @@ const RUN_SPLIT = "======="
 
 const RUN_NEW = ">>>>>>>"
 
-const PIPED = "what is piped in"
-
 export const RUNS_SAID = "`<<<<<<<`, `=======` or `>>>>>>>`"
 
 const RUNS = [RUN_OLD, RUN_SPLIT, RUN_NEW]
-
-const OPENING = /^<<<<<<<([A-Za-z0-9_-]*) old$/
-
-const NAMED_SAID =
-  "name a run of your own, opening at `<<<<<<<ZZ old` with `=======ZZ` and `>>>>>>>ZZ new`"
-
-const MID_LINE = " mid-line"
 
 const INPUT_AT = "/dev/stdin"
 
@@ -50,15 +41,6 @@ export type Wording = {
   readonly bare: (path: string) => string
   readonly opening: (path: string, why: string) => string
 }
-
-export type Passage = {
-  readonly old: string
-  readonly put: string
-}
-
-export type Passages =
-  | { readonly passages: readonly Passage[] }
-  | { readonly refusals: readonly string[] }
 
 function codeOf(thrown: unknown): string | null {
   if (typeof thrown !== "object" || thrown === null || !("code" in thrown)) return null
@@ -124,125 +106,10 @@ export function pipedIn(piping: Piping, wanted: string | null, saying: Wording):
   return { bytes: held.bytes }
 }
 
-export function markedLine(said: string, tag = ""): boolean {
-  return RUNS.some((one) => said.startsWith(`${one}${tag}`))
+export function markedLine(said: string): boolean {
+  return RUNS.some((one) => said.startsWith(one))
 }
 
 export function markingIn(body: string): boolean {
   return body.split("\n").some((one) => markedLine(one))
-}
-
-function linedOf(said: string): readonly string[] {
-  const held: string[] = []
-  let from = 0
-  while (from < said.length) {
-    const at = said.indexOf("\n", from)
-    if (at === -1) {
-      held.push(said.slice(from))
-      break
-    }
-    held.push(said.slice(from, at + 1))
-    from = at + 1
-  }
-  return held
-}
-
-function closedBy(opened: number, closes: string): Passages {
-  return {
-    refusals: [`the block opened at line ${opened} of ${PIPED} is closed by no \`${closes}\``],
-  }
-}
-
-function marking(at: number, instead: string): string {
-  return (
-    `line ${at} of ${PIPED} begins with ${RUNS_SAID} inside a passage` +
-    ` — ${NAMED_SAID}, or hand a passage like that in at ${instead}`
-  )
-}
-
-type Marks = {
-  readonly opens: string
-  readonly splits: string
-  readonly splitsMidLine: string
-  readonly closes: string
-  readonly closesMidLine: string
-  readonly tag: string
-}
-
-function marksIn(said: string): Marks {
-  const ends = said.indexOf("\n")
-  const tag = OPENING.exec(ends === -1 ? said : said.slice(0, ends))?.[1] ?? ""
-  const splits = `${RUN_SPLIT}${tag}`
-  const closes = `${RUN_NEW}${tag} new`
-  return {
-    opens: `${RUN_OLD}${tag} old`,
-    splits,
-    splitsMidLine: `${splits}${MID_LINE}`,
-    closes,
-    closesMidLine: `${closes}${MID_LINE}`,
-    tag,
-  }
-}
-
-function endedMidLine(said: string, midLine: boolean): string {
-  return midLine && said.endsWith("\n") ? said.slice(0, -1) : said
-}
-
-export function passagesIn(said: string, instead: string): Passages {
-  const marks = marksIn(said)
-  const passages: Passage[] = []
-  let old: string[] | null = null
-  let put: string[] | null = null
-  let midLine = false
-  let opened = 0
-  for (const [which, line] of linedOf(said).entries()) {
-    const at = which + 1
-    const one = line.endsWith("\n") ? line.slice(0, -1) : line
-    if (old === null) {
-      if (one === marks.opens) {
-        old = []
-        midLine = false
-        opened = at
-        continue
-      }
-      if (markedLine(one, marks.tag)) {
-        return { refusals: [`\`${one}\` at line ${at} of ${PIPED} follows no \`${marks.opens}\``] }
-      }
-      return {
-        refusals: [
-          `line ${at} of ${PIPED} sits outside every marker block, and every line belongs to one`,
-        ],
-      }
-    }
-    if (put === null) {
-      if (one === marks.splits || one === marks.splitsMidLine) {
-        midLine = one === marks.splitsMidLine
-        put = []
-        continue
-      }
-      if (one === marks.closes || one === marks.closesMidLine) {
-        return closedBy(opened, marks.splits)
-      }
-      if (markedLine(one, marks.tag)) return { refusals: [marking(at, instead)] }
-      old.push(line)
-      continue
-    }
-    if (one === marks.closes || one === marks.closesMidLine) {
-      passages.push({
-        old: endedMidLine(old.join(""), midLine),
-        put: endedMidLine(put.join(""), one === marks.closesMidLine),
-      })
-      old = null
-      put = null
-      continue
-    }
-    if (one === marks.opens) return closedBy(opened, marks.closes)
-    if (markedLine(one, marks.tag)) return { refusals: [marking(at, instead)] }
-    put.push(line)
-  }
-  if (old !== null) return closedBy(opened, put === null ? marks.splits : marks.closes)
-  if (passages.length === 0) {
-    return { refusals: [`${PIPED} names no \`${marks.opens}\`, so it asks for no substitution`] }
-  }
-  return { passages }
 }
