@@ -10,9 +10,13 @@ export const codeEditorWindow = {
   mortal: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "gap",
       statement:
         "A closed window's page and its groups' and tabs' pages go in the hourly sweep rather than at once.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A window's page is made by the first write of that window and never taken away.",
     },
   ],
   types: "ts",
