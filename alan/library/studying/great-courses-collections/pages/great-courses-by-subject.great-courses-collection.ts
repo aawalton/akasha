@@ -7,6 +7,6 @@ export const greatCoursesBySubject = {
   title: "Great Courses by Subject",
   status: "in-progress",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   partOfCollections: ["the-great-courses"],
 } as const satisfies GreatCoursesCollection

@@ -6,7 +6,7 @@ export const theGreatCourses = {
   slug: "the-great-courses",
   title: "The Great Courses",
   status: "not-applicable",
-  unit: "minutes",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "the-great-courses",
