@@ -19,8 +19,6 @@ import {
 
 const ROOT = rootFor(resolveRoots(), AKASHA)
 
-export const ALAN_HANDLER_SEAT = handlerSeatName("alan", ROOT)
-
 const ACTION_BOX_AGENT_ID = "019ef9ea-83e2-707e-b1f3-3b70875a8e88"
 
 const IRIS_SPEC: OnDemandAgentSpec = {
