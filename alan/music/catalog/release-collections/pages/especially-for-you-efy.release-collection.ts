@@ -5,7 +5,7 @@ export const especiallyForYouEfy = {
   type: "release-collection",
   slug: "especially-for-you-efy",
   title: "Especially For You (EFY)",
-  partOfCollections: ["artists"],
+  partOfCollections: ["artist-collection/artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,
