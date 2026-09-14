@@ -7,10 +7,11 @@ import {
   indexingAt,
   refreshedFrom,
 } from "akasha/pages/indexes/modules/indexing/indexing.module.code.ts"
+import { under } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
 import { shapesAt } from "akasha/pages/indexes/modules/property-shaping/property-shaping.module.code.ts"
-import { everyPath } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { settlingOver } from "akasha/pages/indexes/modules/settling/index-settling.module.code.ts"
 import { readingBuilding } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
+import { walkedUnder } from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
 import { pathsRead, readerAt, ruleWhole } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import {
   aProperty,
@@ -179,25 +180,32 @@ export type Stamps = {
   readonly landed: readonly string[]
 }
 
-export type Worlds = { readonly landed: string; readonly rebuilt: string }
+export type Worlds = {
+  readonly landed: string
+  readonly rebuilt: string
+  readonly tree: string
+}
 
 export function worldsApart(): Worlds {
   const { tree, root } = aWrittenWorld()
   const rebuilt = heldAt()
   refreshedFrom(tree, rebuilt, tree)
-  return { landed: root, rebuilt }
+  return { landed: root, rebuilt, tree }
+}
+
+function walkedIn(tree: string): readonly string[] {
+  return walkedUnder(tree, typedCode).map((one) => under(tree, one))
 }
 
 export function unreadAfterRebuild(): readonly string[] {
-  const { rebuilt } = worldsApart()
-  const reading = readingBuilding(rebuilt)
-  const read = pathsRead(reading)
-  return everyPath(reading).filter((one) => typedCode(one) && !read.has(one))
+  const { rebuilt, tree } = worldsApart()
+  const read = pathsRead(readingBuilding(rebuilt))
+  return walkedIn(tree).filter((one) => !read.has(one))
 }
 
 export function wholeAfterRebuild(): boolean {
-  const reading = readingBuilding(worldsApart().rebuilt)
-  return ruleWhole(reading, everyPath(reading))
+  const { rebuilt, tree } = worldsApart()
+  return ruleWhole(readingBuilding(rebuilt), walkedIn(tree))
 }
 
 export function stampsApart(): Stamps {

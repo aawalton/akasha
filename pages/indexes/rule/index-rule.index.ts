@@ -46,10 +46,6 @@ export const indexRule = {
       statement: "A path with no body spells no rule, so the map is whole with that path in it.",
     },
     {
-      invariantKind: "departure",
-      statement: "A rebuild takes the paths to file from the same answer the reader asks for.",
-    },
-    {
       invariantKind: "absence",
       statement: "The paths filed as read are never worked out from the tree a rebuild walks.",
     },

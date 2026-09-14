@@ -44,7 +44,7 @@ import {
   walkedUnder,
 } from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
 import { relationIn } from "akasha/pages/indexes/relation/index-relation.index.code.ts"
-import { readAt, readerIn, ruleIn } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
+import { readerIn, ruleIn } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import {
   pageTypeSlugsIn,
   shapeFiled,
@@ -160,12 +160,7 @@ export function refreshedFrom(
   const walked = bodiesUnder(tree)
   const imported = walked.flatMap((one) => importIn(one.body, one.path, repo, naming))
   drift.push(reconcile(imported, root, put, done))
-  const bodied = new Set(walked.map((one) => under(repo, one.path)))
-  const ruled = [
-    ...walked.flatMap((one) => ruleIn(one.body, one.path, repo)),
-    ...listed.flatMap((one) => (bodied.has(one.line) ? [] : readAt(join(repo, one.line), repo))),
-    readerIn(),
-  ]
+  const ruled = [...walked.flatMap((one) => ruleIn(one.body, one.path, repo)), readerIn()]
   drift.push(reconcile(ruled, root, put, done))
   const every = [
     ...identity,

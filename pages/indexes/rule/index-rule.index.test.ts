@@ -129,7 +129,7 @@ test("the reader names itself by what that reader spells for its own body", () =
   expect(readerFiled(readingOf({ [readerIn().at]: [readerIn().line] }))).toBe(readerNow())
 })
 
-test("a rebuild leaves no typed path it names unread, so the rules it filed are read", () => {
+test("a rebuild leaves no typed path it walks unread, so the rules it filed are read", () => {
   expect(unreadAfterRebuild()).toEqual([])
   expect(wholeAfterRebuild()).toBe(true)
 })
