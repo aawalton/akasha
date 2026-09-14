@@ -8,6 +8,7 @@ export const amyHarnessImprovements = {
   persona: "amy",
   intentStack: [
     { statement: "The status line shows memory as gigabytes available rather than as a percent." },
+    { statement: "The processor, memory and Claude usage figures all take the same grey." },
   ],
 
   constraints: [
