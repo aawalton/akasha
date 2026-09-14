@@ -6,7 +6,7 @@ export const athena = {
   slug: "athena",
   persona: "athena",
   assignmentSlug: "initiative/athena-agent-harness-improvements",
-  role: "role/definer",
+  role: "definer",
   person: "alan",
   startMode: "interactive",
   onCall: true,
