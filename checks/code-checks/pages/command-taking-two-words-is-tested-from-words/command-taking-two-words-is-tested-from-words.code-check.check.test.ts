@@ -1,6 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
-import { reasonsIn } from "akasha/checks/code-checks/pages/command-taking-two-words-is-tested-from-words/command-taking-two-words-is-tested-from-words.code-check.check.code.ts"
-import { bodiesIn } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
+import { commandTakingTwoWordsIsTestedFromWords } from "akasha/checks/code-checks/pages/command-taking-two-words-is-tested-from-words/command-taking-two-words-is-tested-from-words.code-check.check.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { arriving } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
@@ -29,29 +31,22 @@ const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
-function rooted(beside: string): string {
+function judged(beside: string, path: string): readonly Judged[] {
   const root = scratch.rootFor("akasha-command-two-words-check-")
   writing(root, BESIDE, beside)
-  return root
+  return commandTakingTwoWordsIsTestedFromWords(arriving(root, { [path]: PAGE }), shadowAt(root))
 }
 
 test("a command page the change carries whose test fills nothing from words is refused", () => {
-  const said = reasonsIn(bodiesIn(rooted(KEYED))(AT, PAGE))
-
-  expect(said).toHaveLength(1)
-  expect(said[0]).toContain("fills 2 arguments from words")
+  const said = judged(KEYED, AT)
+  expect(said.map((one) => one.path)).toEqual([AT])
+  expect(said[0]?.reason).toContain("fills 2 arguments from words")
 })
 
 test("a command page whose test fills from words is let through", () => {
-  expect(reasonsIn(bodiesIn(rooted(FILLS))(AT, PAGE))).toEqual([])
+  expect(judged(FILLS, AT)).toEqual([])
 })
 
 test("a path the change carries that is no TypeScript is passed over", () => {
-  expect(reasonsIn(bodiesIn(rooted(KEYED))(NOTES_AT, PAGE))).toEqual([])
-})
-
-test("a body that is not text refuses rather than being passed over", () => {
-  const held = { root: rooted(KEYED), path: AT, bytes: new Uint8Array([0xff, 0xfe, 0x00]) }
-
-  expect(() => reasonsIn(held)).toThrow("not valid UTF-8")
+  expect(judged(KEYED, NOTES_AT)).toEqual([])
 })
