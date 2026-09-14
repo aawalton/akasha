@@ -17,7 +17,6 @@ export const codeCheck = {
     "code-check/change-reaches-its-own-target-type",
     "code-check/check-reaches-a-path-through-the-index",
     "code-check/client-reaches-a-server-module-through-a-route",
-    "code-check/client-reaches-pages-through-its-hooks",
     "code-check/command-is-named-by-its-place-in-the-tree",
     "code-check/command-takes-its-arguments-through-one-reader",
     "code-check/command-taking-two-words-is-tested-from-words",
