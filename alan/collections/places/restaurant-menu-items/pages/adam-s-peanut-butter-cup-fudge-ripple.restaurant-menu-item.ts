@@ -5,7 +5,7 @@ export const adamSPeanutButterCupFudgeRipple = {
   type: "restaurant-menu-item",
   slug: "adam-s-peanut-butter-cup-fudge-ripple",
   title: "Adam's Peanut Butter Cup Fudge Ripple",
-  partOfCollections: ["cheesecake-factory-cheescakes"],
+  partOfCollections: ["restaurant-collection/cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

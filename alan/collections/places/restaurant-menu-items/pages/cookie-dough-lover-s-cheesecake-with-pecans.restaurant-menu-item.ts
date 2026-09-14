@@ -5,7 +5,7 @@ export const cookieDoughLoverSCheesecakeWithPecans = {
   type: "restaurant-menu-item",
   slug: "cookie-dough-lover-s-cheesecake-with-pecans",
   title: "Cookie Dough Lover's Cheesecake with Pecans",
-  partOfCollections: ["cheesecake-factory-cheescakes"],
+  partOfCollections: ["restaurant-collection/cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

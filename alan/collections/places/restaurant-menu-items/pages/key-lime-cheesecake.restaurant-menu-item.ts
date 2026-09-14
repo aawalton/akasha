@@ -5,7 +5,7 @@ export const keyLimeCheesecake = {
   type: "restaurant-menu-item",
   slug: "key-lime-cheesecake",
   title: "Key Lime Cheesecake",
-  partOfCollections: ["cheesecake-factory-cheescakes"],
+  partOfCollections: ["restaurant-collection/cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const caramelPecanTurtleCheesecake = {
   type: "restaurant-menu-item",
   slug: "caramel-pecan-turtle-cheesecake",
   title: "Caramel Pecan Turtle Cheesecake",
-  partOfCollections: ["cheesecake-factory-cheescakes"],
+  partOfCollections: ["restaurant-collection/cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 3750,

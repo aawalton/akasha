@@ -5,7 +5,7 @@ export const coconutCreamPieCheesecake = {
   type: "restaurant-menu-item",
   slug: "coconut-cream-pie-cheesecake",
   title: "Coconut Cream Pie Cheesecake",
-  partOfCollections: ["cheesecake-factory-cheescakes"],
+  partOfCollections: ["restaurant-collection/cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

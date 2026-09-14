@@ -5,7 +5,7 @@ export const lemonRaspberryCreamCheesecake = {
   type: "restaurant-menu-item",
   slug: "lemon-raspberry-cream-cheesecake",
   title: "Lemon Raspberry Cream Cheesecake",
-  partOfCollections: ["cheesecake-factory-cheescakes"],
+  partOfCollections: ["restaurant-collection/cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 3750,

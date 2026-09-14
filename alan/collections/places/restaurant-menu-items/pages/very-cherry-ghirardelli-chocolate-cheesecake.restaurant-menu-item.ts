@@ -5,7 +5,7 @@ export const veryCherryGhirardelliChocolateCheesecake = {
   type: "restaurant-menu-item",
   slug: "very-cherry-ghirardelli-chocolate-cheesecake",
   title: "Very Cherry Ghirardelli Chocolate Cheesecake",
-  partOfCollections: ["cheesecake-factory-cheescakes"],
+  partOfCollections: ["restaurant-collection/cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

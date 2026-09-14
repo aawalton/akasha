@@ -5,7 +5,7 @@ export const chocolateCarameliciousCheesecakeMadeWithSnickers = {
   type: "restaurant-menu-item",
   slug: "chocolate-caramelicious-cheesecake-made-with-snickers",
   title: "Chocolate Caramelicious Cheesecake Made with Snickers",
-  partOfCollections: ["cheesecake-factory-cheescakes"],
+  partOfCollections: ["restaurant-collection/cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

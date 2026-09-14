@@ -5,7 +5,7 @@ export const whiteChocolateRaspberryTruffle = {
   type: "restaurant-menu-item",
   slug: "white-chocolate-raspberry-truffle",
   title: "White Chocolate Raspberry Truffle",
-  partOfCollections: ["cheesecake-factory-cheescakes"],
+  partOfCollections: ["restaurant-collection/cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

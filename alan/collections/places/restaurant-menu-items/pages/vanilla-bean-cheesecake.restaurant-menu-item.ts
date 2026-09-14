@@ -5,7 +5,7 @@ export const vanillaBeanCheesecake = {
   type: "restaurant-menu-item",
   slug: "vanilla-bean-cheesecake",
   title: "Vanilla Bean Cheesecake",
-  partOfCollections: ["cheesecake-factory-cheescakes"],
+  partOfCollections: ["restaurant-collection/cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

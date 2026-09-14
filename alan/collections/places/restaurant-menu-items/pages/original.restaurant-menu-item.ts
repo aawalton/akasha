@@ -5,7 +5,7 @@ export const original = {
   type: "restaurant-menu-item",
   slug: "original",
   title: "Original",
-  partOfCollections: ["cheesecake-factory-cheescakes"],
+  partOfCollections: ["restaurant-collection/cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

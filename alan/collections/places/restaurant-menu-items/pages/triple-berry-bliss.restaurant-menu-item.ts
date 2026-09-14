@@ -5,7 +5,7 @@ export const tripleBerryBliss = {
   type: "restaurant-menu-item",
   slug: "triple-berry-bliss",
   title: "Triple Berry Bliss",
-  partOfCollections: ["cheesecake-factory-cheescakes"],
+  partOfCollections: ["restaurant-collection/cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

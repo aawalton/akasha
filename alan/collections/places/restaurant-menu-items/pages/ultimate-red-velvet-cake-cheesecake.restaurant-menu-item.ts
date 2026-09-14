@@ -5,7 +5,7 @@ export const ultimateRedVelvetCakeCheesecake = {
   type: "restaurant-menu-item",
   slug: "ultimate-red-velvet-cake-cheesecake",
   title: "Ultimate Red Velvet Cake Cheesecake",
-  partOfCollections: ["cheesecake-factory-cheescakes"],
+  partOfCollections: ["restaurant-collection/cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

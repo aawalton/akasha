@@ -5,7 +5,7 @@ export const pineappleUpsideDownCheesecake = {
   type: "restaurant-menu-item",
   slug: "pineapple-upside-down-cheesecake",
   title: "Pineapple Upside-Down Cheesecake",
-  partOfCollections: ["cheesecake-factory-cheescakes"],
+  partOfCollections: ["restaurant-collection/cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

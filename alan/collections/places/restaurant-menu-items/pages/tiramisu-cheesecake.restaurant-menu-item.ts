@@ -5,7 +5,7 @@ export const tiramisuCheesecake = {
   type: "restaurant-menu-item",
   slug: "tiramisu-cheesecake",
   title: "Tiramisu Cheesecake",
-  partOfCollections: ["cheesecake-factory-cheescakes"],
+  partOfCollections: ["restaurant-collection/cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

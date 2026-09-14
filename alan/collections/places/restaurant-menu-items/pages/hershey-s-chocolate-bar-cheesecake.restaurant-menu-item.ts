@@ -5,7 +5,7 @@ export const hersheySChocolateBarCheesecake = {
   type: "restaurant-menu-item",
   slug: "hershey-s-chocolate-bar-cheesecake",
   title: "Hershey's Chocolate Bar Cheesecake",
-  partOfCollections: ["cheesecake-factory-cheescakes"],
+  partOfCollections: ["restaurant-collection/cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,
