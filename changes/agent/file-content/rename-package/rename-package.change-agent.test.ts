@@ -385,3 +385,19 @@ test("a call handing over an old name renames from that name", () => {
   expect(said.refused).toBe(null)
   expect(pathsIn(world, said)).toEqual([OUTER_MANIFEST, READER_CODE, ROOT_MANIFEST])
 })
+
+const PLAIN_AT = "akasha/inner/one.ts"
+
+const PLAIN_NAMING = `export const one = "${INNER}"\n`
+
+test("the bodies read for that name are the ones a search of the tree names", () => {
+  const held = carried()
+  const world: World = {
+    ...held,
+    textOf: (path) => (path === PLAIN_AT ? PLAIN_NAMING : held.textOf(path)),
+  }
+  const said = renamePackage(world, { at: INNER_MANIFEST, to: HELD, from: INNER })
+
+  expect(said.refused).toBe(null)
+  expect(pathsIn(world, said)).not.toContain(PLAIN_AT)
+})

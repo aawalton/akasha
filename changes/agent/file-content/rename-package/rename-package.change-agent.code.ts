@@ -15,6 +15,10 @@ import {
   spelledAnew,
 } from "akasha/changes/modules/package-naming/package-naming.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import {
+  pathsNaming,
+  TYPED_KINDS,
+} from "akasha/changes/modules/tree-searching/tree-searching.module.code.ts"
 import { typed } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import {
   namingIn,
@@ -110,7 +114,7 @@ function manifestsOf(world: World): readonly string[] {
 
 function namingOld(world: World, was: string): readonly string[] {
   const found: string[] = []
-  for (const path of world.index.everyPath()) {
+  for (const path of pathsNaming(world, [was], TYPED_KINDS)) {
     if (!typed(path)) continue
     const body = world.textOf(path)
     if (body === null || !body.includes(was)) continue
@@ -156,6 +160,13 @@ export function renamePackage(world: World, given: RenamePackageAsked): Said {
   if (said !== null) return refusing(`${said}, ${UNRENAMED}`)
   const reading = importingOf(world.index, reachedIn(given.at, text))
   if ("unread" in reading) return refusing(reading.unread)
+  let reaching: readonly string[]
+  try {
+    reaching = bodiesReaching(world, given, was, reading.importers)
+  } catch (cause) {
+    const why = cause instanceof Error ? cause.message : String(cause)
+    return refusing(`${why}, ${UNRENAMED}`)
+  }
   const edits: FileChange[] = []
   edits.push(...splicing(given.at, text, restated(given.at, text, was, given.to)))
   for (const path of manifestsOf(world)) {
@@ -164,7 +175,7 @@ export function renamePackage(world: World, given: RenamePackageAsked): Said {
     if (body === null || !body.includes(was)) continue
     edits.push(...splicing(path, body, restated(path, body, was, given.to)))
   }
-  for (const path of bodiesReaching(world, given, was, reading.importers)) {
+  for (const path of reaching) {
     const body = world.textOf(path)
     if (body === null) return refusing(`\`${path}\` reaches this package and could not be read`)
     edits.push(...splicing(path, body, spelledAnew(path, body, was, given.to)))

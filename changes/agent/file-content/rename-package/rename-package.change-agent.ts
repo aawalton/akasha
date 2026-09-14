@@ -99,6 +99,10 @@ export const renamePackage = {
     },
     {
       invariantKind: "departure",
+      statement: "The bodies read for that name are the ones a search of the tree names.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A specifier that is the old name becomes the new name.",
     },
     {
