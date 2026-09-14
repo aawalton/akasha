@@ -6,7 +6,7 @@ export const imageGen = {
   slug: "image-gen",
   definition: "the Z-Image Turbo picture model, served by mlx-openai-server",
   host: "macbook",
-  provision: "mlx-openai-server-provision",
+  provision: "shell-script/mlx-openai-server-provision",
   pythonVersion: "3.12",
   workdir: ".",
   runs: [

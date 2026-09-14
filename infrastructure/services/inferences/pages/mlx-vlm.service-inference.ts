@@ -6,7 +6,7 @@ export const mlxVlm = {
   slug: "mlx-vlm",
   definition: "the Qwen3-VL model that reads a picture, served by mlx-vlm",
   host: "macbook",
-  provision: "mlx-vlm-provision",
+  provision: "shell-script/mlx-vlm-provision",
   pythonVersion: "3.12",
   workdir: ".",
   runs: [

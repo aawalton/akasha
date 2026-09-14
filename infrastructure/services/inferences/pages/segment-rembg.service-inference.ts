@@ -6,7 +6,7 @@ export const segmentRembg = {
   slug: "segment-rembg",
   definition: "the model that cuts a subject out of a picture",
   host: "macbook",
-  provision: "segment-rembg-provision",
+  provision: "shell-script/segment-rembg-provision",
   pythonVersion: "3.12",
   workdir: "src",
   runs: ["python server.py --host 127.0.0.1 --port 18101"],

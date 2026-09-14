@@ -6,7 +6,7 @@ export const trafficCop = {
   slug: "traffic-cop",
   definition: "the service settling which model is resident on the machine",
   host: "macbook",
-  provision: "traffic-cop-provision",
+  provision: "shell-script/traffic-cop-provision",
   pythonVersion: "3.12",
   workdir: ".",
   runs: ["bun run src/server.ts"],
