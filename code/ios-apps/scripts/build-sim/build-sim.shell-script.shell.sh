@@ -57,12 +57,6 @@ npm install
 cd "$SHELL_DIR"
 echo "==> Building in $SHELL_DIR (rsynced from the invoking working tree by this run)"
 
-if [ -n "${STAGED_WWW_DIR:-}" ]; then
-  echo "==> Injecting staged www from $STAGED_WWW_DIR ..."
-  rm -rf www
-  mkdir -p www
-  cp -R "$STAGED_WWW_DIR"/. www/
-fi
 SYNC_SCRIPT="${NATIVE_SHELL_SYNC_SCRIPT:?is unset. The ios-app page states sync-script, and whatever runs this build reads it off that page and exports it. This script builds more than one app and names no script of its own to fall back to.}"
 if [ -d ios ]; then
   echo "==> cap sync + apply-ios-seam..."
@@ -79,8 +73,7 @@ fi
 [ -f www/index.html ] || {
   echo "ERROR: no www/index.html in $SHELL_DIR after cap add/sync — nothing was copied" >&2
   echo "       into the native project, so this would build a shell opening a blank page." >&2
-  echo "       Either the app stages its own web entry and that step did not run, or" >&2
-  echo "       STAGED_WWW_DIR was to name a site built elsewhere and did not." >&2
+  echo "       The app stages its own web entry, and that step did not run." >&2
   exit 1
 }
 
