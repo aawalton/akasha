@@ -29,10 +29,6 @@ export function getSavedVariables(): HudSavedVariables {
   return savedVarsInstance
 }
 
-export function isSavedVariablesReady(): boolean {
-  return savedVarsInstance !== undefined
-}
-
 export function readComponentVisible(this: void, id: string): boolean | undefined {
   return coerceStoredBoolean(getSavedVariables().componentVisibility[id])
 }
