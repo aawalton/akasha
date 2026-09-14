@@ -20,15 +20,6 @@ export const agentProcLiveness = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A background task is a live agent's process that is neither the agent nor its seat's infrastructure.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A process in uninterruptible sleep is not counted as a background task.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A subagent is named on a process by the agent that process acts under.",
     },
     {

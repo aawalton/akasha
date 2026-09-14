@@ -8,9 +8,6 @@ const CLAUDE_CHILD_CMDLINE_RE = /\bclaude\b.*--dangerously-skip-permissions/
 
 const SUPERVISOR_CMDLINE_RE = /^(?:\S*\/)?bun\b.*supervisor\.ts/
 
-const SEAT_INFRA_CMDLINE_RE =
-  /packages\/agents\/(?:oauth-proxy\/src\/main|messages\/mcp)\.ts\b|\bmessages-mcp(?:\.module\.code)?\.ts\b|\bmodel-gateway\/main\.ts\b/
-
 export function isSupervisorCmdline(cmdline: string): boolean {
   return SUPERVISOR_CMDLINE_RE.test(cmdline)
 }
@@ -23,10 +20,6 @@ export function isAgentProcessCmdline(cmdline: string): boolean {
   return isClaudeChildCmdline(cmdline) || isSupervisorCmdline(cmdline)
 }
 
-function isSeatInfrastructureCmdline(cmdline: string): boolean {
-  return SEAT_INFRA_CMDLINE_RE.test(cmdline)
-}
-
 export type ProcLivenessEntry = {
   agentId: string
   actingAgentId?: string
@@ -35,41 +28,6 @@ export type ProcLivenessEntry = {
   startMs?: number
   state?: string
   ppid?: number
-}
-
-function agentIdsWhere(
-  entries: readonly ProcLivenessEntry[],
-  held: (cmdline: string) => boolean
-): Set<string> {
-  const live = new Set<string>()
-  for (const { agentId, cmdline } of entries) {
-    if (!isAgentId(agentId)) continue
-    if (!held(cmdline)) continue
-    live.add(agentId)
-  }
-  return live
-}
-
-export function liveClaudeChildIdsFromProc(entries: readonly ProcLivenessEntry[]): Set<string> {
-  return agentIdsWhere(entries, isClaudeChildCmdline)
-}
-
-export function backgroundTaskCmdlinesByAgent(
-  entries: readonly ProcLivenessEntry[]
-): Map<string, string[]> {
-  const liveClaudeChildIds = liveClaudeChildIdsFromProc(entries)
-  const out = new Map<string, string[]>()
-  for (const { agentId, cmdline, state } of entries) {
-    if (!isAgentId(agentId)) continue
-    if (!liveClaudeChildIds.has(agentId)) continue
-    if (isAgentProcessCmdline(cmdline)) continue
-    if (isSeatInfrastructureCmdline(cmdline)) continue
-    if (state === "D") continue
-    const prev = out.get(agentId)
-    if (prev === undefined) out.set(agentId, [cmdline])
-    else prev.push(cmdline)
-  }
-  return out
 }
 
 export function liveAgentPidsFromProc(

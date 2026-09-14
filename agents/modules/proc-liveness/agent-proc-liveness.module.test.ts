@@ -1,17 +1,14 @@
 import { expect, test } from "bun:test"
 import {
   actingAgentPidsFromProc,
-  backgroundTaskCmdlinesByAgent,
   isAgentProcessCmdline,
   isClaudeChildCmdline,
   isSupervisorCmdline,
   liveAgentPidsFromProc,
-  liveClaudeChildIdsFromProc,
 } from "akasha/agents/modules/proc-liveness/agent-proc-liveness.module.code.ts"
 import { entry } from "akasha/agents/modules/proc-liveness/agent-proc-liveness.module.test-fixtures.ts"
 
 const ONE = "0199a1b2-c3d4-7e5f-8091-a2b3c4d5e6f7"
-const TWO = "0199a1b2-c3d4-7e5f-8091-a2b3c4d5e6f8"
 
 const ACTING = `${ONE}--a38f63805f9b94edf`
 
@@ -41,43 +38,6 @@ test("an agent's own process is its child or its supervisor and nothing else", (
 
 test("a process whose agent is named as no uuid stands for no agent", () => {
   expect(liveAgentPidsFromProc([entry({ agentId: "not-a-uuid" })]).size).toBe(0)
-})
-
-test("a Claude child is counted apart from a supervisor", () => {
-  const entries = [
-    entry({ agentId: ONE, cmdline: CHILD }),
-    entry({ agentId: TWO, cmdline: SUPERVISOR }),
-  ]
-  expect([...liveClaudeChildIdsFromProc(entries)]).toEqual([ONE])
-})
-
-test("a background task is a live agent's process that is not the agent itself", () => {
-  const said = backgroundTaskCmdlinesByAgent([
-    entry({ agentId: ONE, cmdline: CHILD, pid: 1 }),
-    entry({ agentId: ONE, cmdline: TASK, pid: 2 }),
-  ])
-  expect(said.get(ONE)).toEqual([TASK])
-})
-
-test("an agent with no live child has no background tasks counted", () => {
-  const said = backgroundTaskCmdlinesByAgent([entry({ agentId: ONE, cmdline: TASK, pid: 2 })])
-  expect(said.size).toBe(0)
-})
-
-test("the infrastructure a seat leans on is not a background task", () => {
-  const said = backgroundTaskCmdlinesByAgent([
-    entry({ agentId: ONE, cmdline: CHILD, pid: 1 }),
-    entry({ agentId: ONE, cmdline: "bun tools/lib/model-gateway/main.ts", pid: 2 }),
-  ])
-  expect(said.size).toBe(0)
-})
-
-test("a process in uninterruptible sleep is not counted as a background task", () => {
-  const said = backgroundTaskCmdlinesByAgent([
-    entry({ agentId: ONE, cmdline: CHILD, pid: 1 }),
-    entry({ agentId: ONE, cmdline: TASK, pid: 2, state: "D" }),
-  ])
-  expect(said.size).toBe(0)
 })
 
 test("every pid an agent's own processes stand on is gathered under its id", () => {
