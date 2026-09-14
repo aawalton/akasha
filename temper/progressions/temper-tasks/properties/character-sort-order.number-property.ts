@@ -9,20 +9,20 @@ export const characterSortOrder = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "This value is read off the character the task names rather than stated on that task.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A task falling to no character has no sort order.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A formula cannot yet read a property off the page a relation reaches.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "No property gives a temper character the sort order this value reads.",
     },
   ],

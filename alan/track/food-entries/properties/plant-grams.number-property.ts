@@ -9,15 +9,15 @@ export const plantGrams = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A plant processed into something else stops counting.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Muesli counts and bread does not.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A plant grams figure is captured by judgment.",
     },
   ],

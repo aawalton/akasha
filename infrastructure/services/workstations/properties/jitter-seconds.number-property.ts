@@ -9,7 +9,7 @@ export const jitterSeconds = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each timer stating this property starts at its own moment.",
     },
   ],

@@ -9,15 +9,15 @@ export const bodyweight = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A person has the weight last measured and a day the weight measured that day.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The weight a movement is counted against is read off the person's page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A movement's load factor is the share of this weight that movement has.",
     },
   ],

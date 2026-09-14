@@ -9,7 +9,7 @@ export const masteryRank = {
   max: 7,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The arithmetic folding a topic's coverage reads this number.",
     },
   ],

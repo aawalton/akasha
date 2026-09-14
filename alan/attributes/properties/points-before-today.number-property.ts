@@ -9,15 +9,15 @@ export const pointsBeforeToday = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Today's points are no part of this figure.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This figure and today's points together are the total.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rebuild alone moves this figure on.",
     },
   ],

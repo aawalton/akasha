@@ -9,7 +9,7 @@ export const effectSeconds = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An effect stating no seconds lasts as long as the thing carrying the effect.",
     },
   ],

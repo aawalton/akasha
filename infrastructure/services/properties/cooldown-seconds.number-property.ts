@@ -9,20 +9,20 @@ export const cooldownSeconds = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The wait is counted from the moment the last deploy of that service ended.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A service stating nothing here waits the hour every service waits by default.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The wait keeps a run of commits from putting the same service up once for each commit.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A service a person deploys by hand waits out nothing.",
     },
   ],

@@ -9,7 +9,7 @@ export const quantity = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A quantity runs to fractions of a share.",
     },
   ],

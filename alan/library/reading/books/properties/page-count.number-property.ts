@@ -9,11 +9,11 @@ export const pageCount = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page count is the edition's rather than the book's.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No length counted in words is read off a page count.",
     },
   ],

@@ -9,11 +9,11 @@ export const currentBalance = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A balance is in dollars rather than in cents.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A balance is the figure the sync last read rather than the figure any row sums to.",
     },

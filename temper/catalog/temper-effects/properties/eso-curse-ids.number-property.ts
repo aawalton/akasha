@@ -9,7 +9,7 @@ export const esoCurseIds = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One list has every ability the game marks one curse by.",
     },
   ],

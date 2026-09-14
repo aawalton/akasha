@@ -9,15 +9,15 @@ export const fitnessEquipmentLoads = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The loads are in the order the loads are climbed from lightest to heaviest.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A piece whose load is not chosen in steps names no load.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A load is the weight one side carries rather than the weight the pair has.",
     },
   ],

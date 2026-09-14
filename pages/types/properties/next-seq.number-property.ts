@@ -9,11 +9,11 @@ export const nextSeq = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seq is handed out once and the counter moves on whether or not a page lands.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The counter moves under a lock held on the page type file.",
     },
   ],

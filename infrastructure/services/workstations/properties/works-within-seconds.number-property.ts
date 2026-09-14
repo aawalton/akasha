@@ -9,19 +9,19 @@ export const worksWithinSeconds = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A service stating nothing here is judged by no round of work.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A service stating a window and having landed no round at all is broken.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A window holds room for a round to be missed rather than one round alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A service states a window only where the service writes when a round of work landed.",
     },

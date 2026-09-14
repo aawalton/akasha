@@ -9,12 +9,12 @@ export const basePort = {
   max: 65535,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The port is stated on the page rather than written into the code that starts the dev server.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A hundred ports from the base port belong to the web app stating the base port.",
     },
   ],

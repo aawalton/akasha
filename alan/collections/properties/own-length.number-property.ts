@@ -9,7 +9,7 @@ export const ownLength = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A length is the collection's own rather than the sum of the parts that collection has.",
     },

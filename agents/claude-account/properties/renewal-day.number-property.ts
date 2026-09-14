@@ -9,7 +9,7 @@ export const renewalDay = {
   max: 31,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A day past the end of a short month renews on that month's last day.",
     },
   ],

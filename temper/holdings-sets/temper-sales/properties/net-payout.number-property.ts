@@ -7,6 +7,8 @@ export const netPayout = {
   propertySlug: "net-payout",
   definition: "what a seller was left with in gold",
   max: null,
-  invariants: [{ invariantKind: "departure", statement: "A payout is the price less the tax." }],
+  invariants: [
+    { invariantKind: "invariant-kind/departure", statement: "A payout is the price less the tax." },
+  ],
   types: "ts",
 } as const satisfies NumberProperty

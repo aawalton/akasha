@@ -9,23 +9,23 @@ export const changeMaxCpuSeconds = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A change stating no seconds here is allowed the seconds the runner names.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "These seconds are counted on the processor rather than on the wall clock.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A change past these seconds runs to its end and then keeps nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The seconds a change reaches spend count against the change reaching it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Alan settles a raise rather than the agent the ceiling refused.",
     },
   ],

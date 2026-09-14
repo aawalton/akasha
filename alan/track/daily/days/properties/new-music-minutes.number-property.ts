@@ -9,7 +9,7 @@ export const newMusicMinutes = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A play that is no first listen scores no new music minutes.",
     },
   ],

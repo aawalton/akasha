@@ -9,11 +9,11 @@ export const internalPort = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A service the pool fronts states this port.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A service nothing fronts states no such port.",
     },
   ],

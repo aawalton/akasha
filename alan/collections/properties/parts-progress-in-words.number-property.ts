@@ -9,16 +9,16 @@ export const partsProgressInWords = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "This value is added up over the collection's parts rather than stated on that collection.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each part's own total progress in words is added up.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A formula cannot yet add a property up over the pages a relation reaches.",
     },
   ],

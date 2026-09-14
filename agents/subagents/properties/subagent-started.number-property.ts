@@ -9,15 +9,15 @@ export const subagentStarted = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run beginning writes the moment that run began here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A moment later than the stop asked for says the run began again after that stop.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page saying nothing here is taken away by the stop asked for.",
     },
   ],

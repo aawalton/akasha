@@ -9,7 +9,7 @@ export const pointsTotal = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This figure is kept rather than added up wherever the figure is read.",
     },
   ],

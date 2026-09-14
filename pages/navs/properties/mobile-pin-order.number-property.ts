@@ -9,7 +9,7 @@ export const mobilePinOrder = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A nav item stating nothing is not pinned.",
     },
   ],

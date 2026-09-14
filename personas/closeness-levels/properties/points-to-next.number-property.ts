@@ -9,11 +9,11 @@ export const pointsToNext = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each rung after the first takes three times the points the rung before took.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The last rung states no points.",
     },
   ],

@@ -9,7 +9,7 @@ export const containerPort = {
   max: 65535,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Traffic reaching the container from inside the cluster arrives here.",
     },
   ],

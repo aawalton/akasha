@@ -9,15 +9,15 @@ export const pointsToHere = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rung counts every point earned rather than the points past the rung below.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Points short of the first rung are level 0.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Everyone starts at level 0.",
     },
   ],

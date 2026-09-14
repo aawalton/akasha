@@ -9,12 +9,12 @@ export const autoCompactWindow = {
   max: null,
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "The harness has this count between one hundred thousand and one million whatever value is stated.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat on a model with a smaller context window compacts at that window instead.",
     },
   ],

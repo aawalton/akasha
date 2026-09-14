@@ -9,7 +9,7 @@ export const fiveHourPercentUsed = {
   max: 100,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An account that has spent its seven-day window has spent its five-hour window.",
     },
   ],

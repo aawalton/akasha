@@ -9,15 +9,15 @@ export const capacityRate = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rate is matched by the word Alan writes in a session title.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A session naming several recovery activities credits at the best rate.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A session naming several recovery activities credits at the sum of its rates.",
     },
   ],

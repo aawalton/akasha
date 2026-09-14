@@ -9,11 +9,11 @@ export const messagesSent = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A message Alan wrote is counted where the message left Alan.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A message a persona wrote back is counted nowhere.",
     },
   ],

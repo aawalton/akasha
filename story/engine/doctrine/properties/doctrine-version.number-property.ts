@@ -9,7 +9,7 @@ export const doctrineVersion = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Changing the doctrine a pack has without raising this number is refused.",
     },
   ],

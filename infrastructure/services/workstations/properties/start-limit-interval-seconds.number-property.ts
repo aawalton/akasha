@@ -9,7 +9,7 @@ export const startLimitIntervalSeconds = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A unit starting too often inside the window is left stopped.",
     },
   ],

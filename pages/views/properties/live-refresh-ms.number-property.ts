@@ -9,7 +9,7 @@ export const liveRefreshMs = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A view stating nothing redraws only when the pages that view draws change.",
     },
   ],

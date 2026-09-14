@@ -9,12 +9,12 @@ export const wisdomWords = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A day whose commits left Alan's topic pages untouched reads zero rather than unread.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "No day before 2026-09-06 has this reading.",
     },
   ],

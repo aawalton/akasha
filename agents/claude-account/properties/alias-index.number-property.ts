@@ -10,11 +10,11 @@ export const aliasIndex = {
   unique: "unique-kind/page-type",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The alias `c3` opens the account with the alias index 3.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An index freed by a departing account is not handed to another account.",
     },
   ],

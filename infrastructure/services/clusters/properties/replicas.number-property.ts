@@ -9,7 +9,7 @@ export const replicas = {
   max: 100,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A workload asked for no pods is stopped rather than taken away.",
     },
   ],

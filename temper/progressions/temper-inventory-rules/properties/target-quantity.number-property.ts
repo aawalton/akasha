@@ -9,7 +9,7 @@ export const targetQuantity = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A leg stating no quantity takes every item reaching that leg.",
     },
   ],

@@ -10,11 +10,11 @@ export const maxCount = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only a declaration with many values states a count.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "How long one entry runs is stated as a length rather than as a count.",
     },
   ],

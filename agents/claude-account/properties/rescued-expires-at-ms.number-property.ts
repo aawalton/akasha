@@ -9,7 +9,7 @@ export const rescuedExpiresAtMs = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rescued pair is preferred over the committed pair by this number alone.",
     },
   ],

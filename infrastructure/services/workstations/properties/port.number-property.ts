@@ -9,11 +9,11 @@ export const port = {
   max: 65535,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A service listening states its port.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A service stating no port listens nowhere.",
     },
   ],

@@ -9,7 +9,7 @@ export const holdingValue = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A value is carried as the sync read that value rather than rounded to the cent.",
     },
   ],

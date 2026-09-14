@@ -9,11 +9,11 @@ export const resumeTokenThreshold = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only a headless seat has this threshold.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A threshold no seat reaches is how the resume menu never appears.",
     },
   ],

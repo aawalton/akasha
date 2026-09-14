@@ -9,7 +9,7 @@ export const costBasis = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A holding reports nothing paid where the account never told Monarch the cost basis.",
     },

@@ -9,7 +9,7 @@ export const estimatedCalories = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A calorie estimate is captured by judgment.",
     },
   ],

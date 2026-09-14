@@ -9,15 +9,15 @@ export const relationshipLevel = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A level here is the level a closeness level states.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A level is read whether that level is stored as a number or as text.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "This property is a relation to a closeness level.",
     },
   ],

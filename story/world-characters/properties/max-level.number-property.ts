@@ -9,12 +9,12 @@ export const maxLevel = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The highest level is the level the text states rather than the number a tally reaches.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A character the text never levels has no highest level.",
     },
   ],

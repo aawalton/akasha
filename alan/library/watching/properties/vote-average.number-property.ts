@@ -9,11 +9,11 @@ export const voteAverage = {
   max: 10,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A score is the provider's voters' rather than the person's own rank.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A collection nobody voted on scores nothing rather than stating no score.",
     },
   ],

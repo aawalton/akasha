@@ -9,16 +9,16 @@ export const counterpartWithinDays = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A counterpart is a requirement a rule makes rather than a clause of that rule.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A rule requiring a counterpart settles nothing where no transaction pairs uniquely.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A window is never widened to make a pair.",
     },
   ],

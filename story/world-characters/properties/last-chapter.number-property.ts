@@ -9,7 +9,7 @@ export const lastChapter = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A chapter is counted here rather than named.",
     },
   ],

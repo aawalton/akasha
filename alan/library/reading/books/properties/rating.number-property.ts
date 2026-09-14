@@ -9,11 +9,11 @@ export const rating = {
   max: 10,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rating is Alan's own score rather than anyone else's.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A book Alan has not scored states no rating.",
     },
   ],

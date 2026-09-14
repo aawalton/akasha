@@ -9,20 +9,20 @@ export const intelligenceTopics = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A day whose commits left the learn-everything topics alone reads zero rather than unread.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A topic a day changed more than once counts once.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A topic whose file only moved counts as no topic updated.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "No day before 2026-09-06 has this reading.",
     },
   ],

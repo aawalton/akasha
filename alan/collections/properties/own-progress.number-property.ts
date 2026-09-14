@@ -9,7 +9,7 @@ export const ownProgress = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Progress is read against the collection's own length rather than against its parts.",
     },

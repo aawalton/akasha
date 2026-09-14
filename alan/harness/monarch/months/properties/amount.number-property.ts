@@ -9,11 +9,11 @@ export const amount = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An amount below zero is money leaving the account.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An amount is in dollars rather than in cents.",
     },
   ],

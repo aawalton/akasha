@@ -9,12 +9,12 @@ export const maxLength = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A declaration narrows the length its property states by stating a shorter length.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A list holds each entry to the length rather than the entries together.",
     },
   ],

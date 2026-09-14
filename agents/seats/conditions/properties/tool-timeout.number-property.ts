@@ -9,7 +9,7 @@ export const toolTimeout = {
   max: null,
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The agent harness reads this number as milliseconds.",
     },
   ],

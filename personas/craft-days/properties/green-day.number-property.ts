@@ -9,7 +9,7 @@ export const greenDay = {
   max: null,
   invariants: [
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "A day that drew green states its rung rather than saying the day drew green.",
     },
   ],

@@ -9,11 +9,11 @@ export const esoAntiquitySetId = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A lead set is numbered apart from the item set an item belongs to.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Nothing refuses an antiquity row stating `eso-set-id`.",
     },
   ],

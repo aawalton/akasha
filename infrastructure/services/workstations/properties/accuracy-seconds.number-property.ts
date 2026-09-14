@@ -9,7 +9,7 @@ export const accuracySeconds = {
   max: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A wider window lets a timer's run fall together with another timer's.",
     },
   ],
