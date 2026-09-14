@@ -54,5 +54,5 @@ export type ClaudeAccount = Page & {
   effectiveFiveHourUsage?: EffectiveFiveHourUsage
   effectiveSevenDayUsage?: EffectiveSevenDayUsage
   effectiveFiveHourResetsAt?: EffectiveFiveHourResetsAt
-  provider?: Provider
+  provider: Provider
 }

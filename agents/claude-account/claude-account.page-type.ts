@@ -168,7 +168,7 @@ export const claudeAccount = {
       required: false,
       many: false,
     },
-    { pageProperty: "relation-property/provider", required: false, many: false },
+    { pageProperty: "relation-property/provider", required: true, many: false },
   ],
   invariants: [
     {

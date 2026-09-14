@@ -8,6 +8,7 @@ const BASE: ClaudeAccount = {
   slug: "aine",
   email: "aine@alanwalton.com",
   aliasIndex: 0,
+  provider: "model-provider/anthropic",
 }
 
 export function account(held: Record<string, unknown>): ClaudeAccount {
