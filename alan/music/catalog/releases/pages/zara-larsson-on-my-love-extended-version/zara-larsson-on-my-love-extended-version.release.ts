@@ -5,7 +5,7 @@ export const zaraLarssonOnMyLoveExtendedVersion = {
   type: "release",
   slug: "zara-larsson-on-my-love-extended-version",
   title: "On My Love (Extended Version)",
-  partOfCollections: ["zara-larsson"],
+  partOfCollections: ["artist/zara-larsson"],
   position: 0,
   ownLength: 4.780483,
   ownProgress: 4.780483,

@@ -5,7 +5,7 @@ export const zaraLarssonWow = {
   type: "release",
   slug: "zara-larsson-wow",
   title: "WOW",
-  partOfCollections: ["zara-larsson"],
+  partOfCollections: ["artist/zara-larsson"],
   position: 0,
   ownLength: 2.994583,
   ownProgress: 2.994583,

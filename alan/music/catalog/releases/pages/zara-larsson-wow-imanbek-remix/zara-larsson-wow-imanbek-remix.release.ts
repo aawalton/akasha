@@ -5,7 +5,7 @@ export const zaraLarssonWowImanbekRemix = {
   type: "release",
   slug: "zara-larsson-wow-imanbek-remix",
   title: "WOW (Imanbek Remix)",
-  partOfCollections: ["zara-larsson"],
+  partOfCollections: ["artist/zara-larsson"],
   position: 0,
   ownLength: 3.1238,
   ownProgress: 3.1238,

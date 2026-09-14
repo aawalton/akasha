@@ -5,7 +5,7 @@ export const zaraLarssonSoGoodFeatTyDollaIgnGoldhouseRemix = {
   type: "release",
   slug: "zara-larsson-so-good-feat-ty-dolla-ign-goldhouse-remix",
   title: "So Good (feat. Ty Dolla $ign) [GOLDHOUSE Remix]",
-  partOfCollections: ["zara-larsson"],
+  partOfCollections: ["artist/zara-larsson"],
   position: 0,
   ownLength: 3.429917,
   ownProgress: 3.429917,

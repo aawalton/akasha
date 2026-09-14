@@ -5,7 +5,7 @@ export const zaraLarssonLayAllYourLoveOnMeSpotifySingles = {
   type: "release",
   slug: "zara-larsson-lay-all-your-love-on-me-spotify-singles",
   title: "Lay All Your Love On Me - Spotify Singles",
-  partOfCollections: ["zara-larsson"],
+  partOfCollections: ["artist/zara-larsson"],
   position: 0,
   ownLength: 2.685417,
   ownProgress: 2.685417,

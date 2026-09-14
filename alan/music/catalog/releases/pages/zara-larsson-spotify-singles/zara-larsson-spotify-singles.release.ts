@@ -5,7 +5,7 @@ export const zaraLarssonSpotifySingles = {
   type: "release",
   slug: "zara-larsson-spotify-singles",
   title: "Spotify Singles",
-  partOfCollections: ["zara-larsson"],
+  partOfCollections: ["artist/zara-larsson"],
   position: 0,
   ownLength: 5.841717,
   ownProgress: 5.841717,

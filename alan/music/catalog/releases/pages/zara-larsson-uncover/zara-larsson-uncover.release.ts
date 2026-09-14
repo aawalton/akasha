@@ -5,7 +5,7 @@ export const zaraLarssonUncover = {
   type: "release",
   slug: "zara-larsson-uncover",
   title: "Uncover",
-  partOfCollections: ["zara-larsson"],
+  partOfCollections: ["artist/zara-larsson"],
   position: 0,
   ownLength: 24.0787,
   ownProgress: 24.0787,

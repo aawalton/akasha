@@ -5,7 +5,7 @@ export const zaraLarssonMidnightSunBundle = {
   type: "release",
   slug: "zara-larsson-midnight-sun-bundle",
   title: "Midnight Sun (Bundle)",
-  partOfCollections: ["zara-larsson"],
+  partOfCollections: ["artist/zara-larsson"],
   position: 0,
   ownLength: 10.374133,
   ownProgress: 10.374133,

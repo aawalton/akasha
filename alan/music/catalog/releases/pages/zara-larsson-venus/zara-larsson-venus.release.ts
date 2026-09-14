@@ -5,7 +5,7 @@ export const zaraLarssonVenus = {
   type: "release",
   slug: "zara-larsson-venus",
   title: "VENUS",
-  partOfCollections: ["zara-larsson"],
+  partOfCollections: ["artist/zara-larsson"],
   position: 0,
   ownLength: 39.3006,
   ownProgress: 39.3006,

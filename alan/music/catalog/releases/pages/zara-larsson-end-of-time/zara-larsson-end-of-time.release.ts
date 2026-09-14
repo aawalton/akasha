@@ -5,7 +5,7 @@ export const zaraLarssonEndOfTime = {
   type: "release",
   slug: "zara-larsson-end-of-time",
   title: "End Of Time",
-  partOfCollections: ["zara-larsson"],
+  partOfCollections: ["artist/zara-larsson"],
   position: 0,
   ownLength: 3.04155,
   ownProgress: 3.04155,

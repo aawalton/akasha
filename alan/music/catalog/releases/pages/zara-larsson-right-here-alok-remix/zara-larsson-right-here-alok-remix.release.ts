@@ -5,7 +5,7 @@ export const zaraLarssonRightHereAlokRemix = {
   type: "release",
   slug: "zara-larsson-right-here-alok-remix",
   title: "Right Here (Alok Remix)",
-  partOfCollections: ["zara-larsson"],
+  partOfCollections: ["artist/zara-larsson"],
   position: 0,
   ownLength: 2.583333,
   ownProgress: 2.583333,

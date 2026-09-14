@@ -5,7 +5,7 @@ export const zaraLarssonStatesideZaraLarsson = {
   type: "release",
   slug: "zara-larsson-stateside-zara-larsson",
   title: "Stateside + Zara Larsson",
-  partOfCollections: ["zara-larsson"],
+  partOfCollections: ["artist/zara-larsson"],
   position: 0,
   ownLength: 3.07935,
   ownProgress: 3.07935,

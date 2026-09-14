@@ -5,7 +5,7 @@ export const zaraLarssonLikeItIs = {
   type: "release",
   slug: "zara-larsson-like-it-is",
   title: "Like It Is",
-  partOfCollections: ["zara-larsson"],
+  partOfCollections: ["artist/zara-larsson"],
   position: 0,
   ownLength: 3.051117,
   ownProgress: 3.051117,

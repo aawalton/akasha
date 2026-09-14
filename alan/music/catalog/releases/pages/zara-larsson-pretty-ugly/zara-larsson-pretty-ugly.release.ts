@@ -5,7 +5,7 @@ export const zaraLarssonPrettyUgly = {
   type: "release",
   slug: "zara-larsson-pretty-ugly",
   title: "Pretty Ugly",
-  partOfCollections: ["zara-larsson"],
+  partOfCollections: ["artist/zara-larsson"],
   position: 0,
   ownLength: 2.644933,
   ownProgress: 2.644933,

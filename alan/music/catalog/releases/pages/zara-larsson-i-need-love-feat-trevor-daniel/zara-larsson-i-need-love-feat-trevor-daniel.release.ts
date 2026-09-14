@@ -5,7 +5,7 @@ export const zaraLarssonINeedLoveFeatTrevorDaniel = {
   type: "release",
   slug: "zara-larsson-i-need-love-feat-trevor-daniel",
   title: "I Need Love (feat. Trevor Daniel)",
-  partOfCollections: ["zara-larsson"],
+  partOfCollections: ["artist/zara-larsson"],
   position: 0,
   ownLength: 3.1068,
   ownProgress: 3.1068,

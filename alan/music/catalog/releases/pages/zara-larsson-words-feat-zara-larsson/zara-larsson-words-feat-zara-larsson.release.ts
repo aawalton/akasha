@@ -5,7 +5,7 @@ export const zaraLarssonWordsFeatZaraLarsson = {
   type: "release",
   slug: "zara-larsson-words-feat-zara-larsson",
   title: "Words (feat. Zara Larsson)",
-  partOfCollections: ["zara-larsson"],
+  partOfCollections: ["artist/zara-larsson"],
   position: 0,
   ownLength: 2.37795,
   ownProgress: 2.37795,

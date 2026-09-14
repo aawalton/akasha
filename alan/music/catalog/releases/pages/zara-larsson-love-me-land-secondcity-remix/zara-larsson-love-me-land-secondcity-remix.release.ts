@@ -5,7 +5,7 @@ export const zaraLarssonLoveMeLandSecondcityRemix = {
   type: "release",
   slug: "zara-larsson-love-me-land-secondcity-remix",
   title: "Love Me Land (Secondcity Remix)",
-  partOfCollections: ["zara-larsson"],
+  partOfCollections: ["artist/zara-larsson"],
   position: 0,
   ownLength: 3.781683,
   ownProgress: 3.781683,

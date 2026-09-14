@@ -5,7 +5,7 @@ export const zaraLarssonOnMyLove = {
   type: "release",
   slug: "zara-larsson-on-my-love",
   title: "On My Love",
-  partOfCollections: ["zara-larsson"],
+  partOfCollections: ["artist/zara-larsson"],
   position: 0,
   ownLength: 3.715183,
   ownProgress: 3.715183,

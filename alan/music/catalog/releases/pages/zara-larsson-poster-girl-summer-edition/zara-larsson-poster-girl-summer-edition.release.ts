@@ -5,7 +5,7 @@ export const zaraLarssonPosterGirlSummerEdition = {
   type: "release",
   slug: "zara-larsson-poster-girl-summer-edition",
   title: "Poster Girl (Summer Edition)",
-  partOfCollections: ["zara-larsson"],
+  partOfCollections: ["artist/zara-larsson"],
   position: 0,
   ownLength: 63.626067,
   ownProgress: 63.626067,

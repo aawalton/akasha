@@ -5,7 +5,7 @@ export const zaraLarssonHonorTheLight = {
   type: "release",
   slug: "zara-larsson-honor-the-light",
   title: "Honor The Light",
-  partOfCollections: ["zara-larsson"],
+  partOfCollections: ["artist/zara-larsson"],
   position: 0,
   ownLength: 15.716617,
   ownProgress: 15.716617,
