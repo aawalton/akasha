@@ -252,7 +252,7 @@ export const checkReachesAPathThroughTheIndex = {
     },
     {
       invariantKind: "absence",
-      statement: "A file the index names for no page is judged by nothing here.",
+      statement: "A file no page claims is judged by nothing here.",
     },
     {
       invariantKind: "departure",

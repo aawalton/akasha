@@ -14,10 +14,15 @@ import {
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import { textIn } from "akasha/code/bodies/modules/body-text/body-text.module.code.ts"
 import {
+  claimantOf,
+  type Listing,
+} from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
+import {
   type Facing,
   generatedIn,
   toolResolvesPathsIn,
 } from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
+import { filesIn } from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 const FACING = new WeakMap<Shadow, Facing>()
@@ -42,9 +47,13 @@ const JUDGED = new WeakMap<Shadow, (path: string) => boolean>()
 function judgedFor(shadow: Shadow): (path: string) => boolean {
   const found = JUDGED.get(shadow)
   if (found !== undefined) return found
+  const listing: Listing = (folder) => filesIn(shadow.root, folder)
+  const types = shadow.index.pageTypesIn()
+  const fileProperties = shadow.index.filePropertiesAt()
+  const folders = shadow.index.folderPropertiesAt()
   const made = judgingOver({
-    types: shadow.index.pageTypesIn(),
-    listed: (path) => shadow.index.listedByPath(path).length > 0,
+    types,
+    listed: (path) => claimantOf(listing, path, types, fileProperties, folders) !== null,
     generated: (path) => generatedIn(facingFor(shadow), path),
     toolResolvesPaths: (path) => toolResolvesPathsIn(facingFor(shadow), path),
   })

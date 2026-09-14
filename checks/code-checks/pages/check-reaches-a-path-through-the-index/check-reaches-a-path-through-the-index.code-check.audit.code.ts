@@ -7,25 +7,35 @@ import {
 import { everythingIn } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { textOf } from "akasha/code/bodies/modules/body-text/body-text.module.code.ts"
-import { pageTypesIn } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
+import {
+  filePropertiesAt,
+  folderPropertiesAt,
+  pageTypesIn,
+} from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
+import {
+  claimantOf,
+  type Listing,
+} from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
 import {
   facingOn,
   generatedIn,
   toolResolvesPathsIn,
 } from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
-import {
-  everyPath,
-  listedByPath,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { everyPath } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { filesIn } from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
 
 export function checkReachesAPathThroughTheIndex(root: string): readonly Judged[] {
   const paths = everyPath(root)
+  const types = pageTypesIn(root)
   const asking = askingOver(paths)
-  const naming = namingOver(paths, pageTypesIn(root))
+  const naming = namingOver(paths, types)
   const facing = facingOn(root)
+  const listing: Listing = (folder) => filesIn(root, folder)
+  const fileProperties = filePropertiesAt(root)
+  const folders = folderPropertiesAt(root)
   const judged = judgingOver({
-    types: pageTypesIn(root),
-    listed: (path) => listedByPath(root, path).length > 0,
+    types,
+    listed: (path) => claimantOf(listing, path, types, fileProperties, folders) !== null,
     generated: (path) => generatedIn(facing, path),
     toolResolvesPaths: (path) => toolResolvesPathsIn(facing, path),
   })
