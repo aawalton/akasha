@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { catalogueNamesFrom } from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
 import {
+  artistIn,
   artistValues,
   dueIn,
   type Filed,
@@ -49,10 +50,10 @@ function filedWith(rows: readonly { slug: string; was: Value }[]): Filed {
     const stated = row.was["externalIdentity"]
     const first = Array.isArray(stated) ? (stated[0] as { externalId?: string }) : undefined
     named.push({ slug: row.slug, externalId: first?.externalId ?? null })
-    const artistSlug = row.was["partOfCollections"]
+    const artistSlug = artistIn(row.was)
     const title = row.was["title"]
-    if (typeof title !== "string" || !Array.isArray(artistSlug)) continue
-    byTitle.set(titleKey(String(artistSlug[0]), title), row.slug)
+    if (typeof title !== "string" || artistSlug === null) continue
+    byTitle.set(titleKey(artistSlug, title), row.slug)
   }
   return { names: catalogueNamesFrom(named), held, byTitle }
 }
@@ -95,7 +96,7 @@ test("a release arrives started by nobody and heard for none of its length", () 
   expect(values["ownProgress"]).toBe(0)
   expect(values["ownLength"]).toBe(2)
   expect(values["unit"]).toBe("unit/minutes")
-  expect(values["partOfCollections"]).toEqual(["sylvia-daley"])
+  expect(values["partOfCollections"]).toEqual(["artist/sylvia-daley"])
   expect(values["publishedAt"]).toBe("2026-02-27")
 })
 
@@ -192,7 +193,7 @@ test("a release Spotify gives a new id is the release already filed under its ti
       was: {
         slug: "sylvia-daley-secure",
         title: "Secure",
-        partOfCollections: ["sylvia-daley"],
+        partOfCollections: ["artist/sylvia-daley"],
         ownProgress: 3,
         status: "completed",
         externalIdentity: [{ source: "spotify", externalId: "an-older-id" }],
@@ -224,6 +225,12 @@ test("a release of another artist under the same title is filed on its own", () 
 
 test("an artist and a title together name one filed release", () => {
   expect(titleKey("sylvia-daley", "Rubik's Cube")).toBe("sylvia-daley|rubik-s-cube")
+})
+
+test("a release names its artist the same whether or not the page type is written", () => {
+  expect(artistIn({ partOfCollections: ["artist/sylvia-daley"] })).toBe("sylvia-daley")
+  expect(artistIn({ partOfCollections: ["sylvia-daley"] })).toBe("sylvia-daley")
+  expect(artistIn({})).toBeNull()
 })
 
 function followed(slug: string, at: string | null): Followed {

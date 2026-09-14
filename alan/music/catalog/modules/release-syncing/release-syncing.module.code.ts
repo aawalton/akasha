@@ -24,6 +24,7 @@ import {
 import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
+  slugsIn,
   textIn,
   type Value,
 } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
@@ -154,6 +155,10 @@ export function titleKey(artistSlug: string, title: string): string {
   return `${artistSlug}|${slugifyName(title)}`
 }
 
+export function artistIn(value: Value): string | null {
+  return slugsIn(value["partOfCollections"])[0] ?? null
+}
+
 export function filedIn(root: string): Filed {
   const rows: { readonly slug: string; readonly externalId: string | null }[] = []
   const held = new Map<string, Value>()
@@ -163,7 +168,7 @@ export function filedIn(root: string): Filed {
     if (slug === null) continue
     rows.push({ slug, externalId: idFrom(one.value[IDENTITY], SOURCE) })
     held.set(slug, one.value)
-    const artistSlug = textIn(one.value, "partOfCollections")
+    const artistSlug = artistIn(one.value)
     const title = textIn(one.value, "title")
     if (artistSlug === null || title === null) continue
     const key = titleKey(artistSlug, title)
@@ -219,7 +224,7 @@ export function releaseValues(args: {
     ...(args.was["ownProgress"] === undefined ? { ownProgress: 0 } : {}),
     ...(day === null ? {} : { publishedAt: day }),
     title: args.album.name,
-    partOfCollections: [args.artistSlug],
+    partOfCollections: [`${ARTIST}/${args.artistSlug}`],
     position: 0,
     ownLength: albumMinutes(args.album),
     unit: MINUTES,

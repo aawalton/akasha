@@ -58,6 +58,14 @@ export const releaseSyncing = {
     },
     {
       invariantKind: "departure",
+      statement: "A release names the artist whose release it is as an address.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A release filed before is read whether or not its artist is named as an address.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A release arrives started by nobody and heard for none of its length.",
     },
     {
