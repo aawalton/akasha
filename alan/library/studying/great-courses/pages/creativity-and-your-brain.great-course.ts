@@ -10,9 +10,9 @@ export const creativityAndYourBrain = {
   ownLength: 599.4,
   ownProgress: 0,
   partOfCollections: [
-    "all-great-courses",
-    "hobby-and-personal-pursuits-great-courses",
-    "professional-growth-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/hobby-and-personal-pursuits-great-courses",
+    "great-courses-subject/professional-growth-great-courses",
   ],
   externalIdentity: [
     {

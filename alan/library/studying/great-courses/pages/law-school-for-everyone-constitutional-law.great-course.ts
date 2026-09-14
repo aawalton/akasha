@@ -10,11 +10,11 @@ export const lawSchoolForEveryoneConstitutionalLaw = {
   ownLength: 389.4,
   ownProgress: 0,
   partOfCollections: [
-    "all-great-courses",
-    "business-and-finance-great-courses",
-    "history-great-courses",
-    "learning-paths-great-courses",
-    "professional-growth-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/business-and-finance-great-courses",
+    "great-courses-subject/history-great-courses",
+    "great-courses-subject/learning-paths-great-courses",
+    "great-courses-subject/professional-growth-great-courses",
   ],
   externalIdentity: [
     {

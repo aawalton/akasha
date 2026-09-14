@@ -10,9 +10,9 @@ export const theMathematicsOfGamesAndPuzzlesFromCardsToSudoku = {
   ownLength: 544.2,
   ownProgress: 0,
   partOfCollections: [
-    "all-great-courses",
-    "hobby-and-personal-pursuits-great-courses",
-    "mathematics-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/hobby-and-personal-pursuits-great-courses",
+    "great-courses-subject/mathematics-great-courses",
   ],
   externalIdentity: [
     {

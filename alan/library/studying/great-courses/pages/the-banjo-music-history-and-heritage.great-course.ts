@@ -9,7 +9,11 @@ export const theBanjoMusicHistoryAndHeritage = {
   unit: "minutes",
   ownLength: 235.8,
   ownProgress: 0,
-  partOfCollections: ["all-great-courses", "history-great-courses", "music-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+    "great-courses-subject/music-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

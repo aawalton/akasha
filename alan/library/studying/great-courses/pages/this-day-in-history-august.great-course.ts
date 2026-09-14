@@ -10,7 +10,10 @@ export const thisDayInHistoryAugust = {
   unit: "minutes",
   ownLength: 97.8,
   ownProgress: 97.8,
-  partOfCollections: ["all-great-courses", "history-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

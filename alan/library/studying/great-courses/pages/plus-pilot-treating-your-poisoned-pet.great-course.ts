@@ -10,7 +10,10 @@ export const plusPilotTreatingYourPoisonedPet = {
   unit: "minutes",
   ownLength: 29.4,
   ownProgress: 29.4,
-  partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/health-and-mindfulness-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

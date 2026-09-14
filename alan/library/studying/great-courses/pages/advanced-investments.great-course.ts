@@ -10,7 +10,10 @@ export const advancedInvestments = {
   unit: "minutes",
   ownLength: 766.2,
   ownProgress: 766.2,
-  partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/business-and-finance-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

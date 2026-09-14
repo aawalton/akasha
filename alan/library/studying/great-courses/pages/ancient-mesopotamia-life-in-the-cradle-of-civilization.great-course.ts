@@ -10,7 +10,10 @@ export const ancientMesopotamiaLifeInTheCradleOfCivilization = {
   unit: "minutes",
   ownLength: 680.4,
   ownProgress: 680.4,
-  partOfCollections: ["all-great-courses", "history-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

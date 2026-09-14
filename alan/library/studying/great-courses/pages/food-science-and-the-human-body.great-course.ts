@@ -11,10 +11,10 @@ export const foodScienceAndTheHumanBody = {
   ownLength: 1072.8,
   ownProgress: 1072.8,
   partOfCollections: [
-    "all-great-courses",
-    "food-and-drink-great-courses",
-    "health-and-mindfulness-great-courses",
-    "science-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/food-and-drink-great-courses",
+    "great-courses-subject/health-and-mindfulness-great-courses",
+    "great-courses-subject/science-great-courses",
   ],
   externalIdentity: [
     {

@@ -11,9 +11,9 @@ export const adultEducationInTheAgeOfAiAPanelDiscussion = {
   ownLength: 138.6,
   ownProgress: 138.6,
   partOfCollections: [
-    "all-great-courses",
-    "business-and-finance-great-courses",
-    "professional-growth-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/business-and-finance-great-courses",
+    "great-courses-subject/professional-growth-great-courses",
   ],
   externalIdentity: [
     {

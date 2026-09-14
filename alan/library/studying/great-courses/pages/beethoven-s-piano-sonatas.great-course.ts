@@ -10,7 +10,10 @@ export const beethovenSPianoSonatas = {
   unit: "minutes",
   ownLength: 1098,
   ownProgress: 1098,
-  partOfCollections: ["all-great-courses", "music-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/music-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

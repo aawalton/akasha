@@ -11,9 +11,9 @@ export const moneyManagementSkills = {
   ownLength: 370.8,
   ownProgress: 370.8,
   partOfCollections: [
-    "all-great-courses",
-    "business-and-finance-great-courses",
-    "hobby-and-personal-pursuits-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/business-and-finance-great-courses",
+    "great-courses-subject/hobby-and-personal-pursuits-great-courses",
   ],
   externalIdentity: [
     {

@@ -10,7 +10,10 @@ export const ancientWritingAndTheHistoryOfTheAlphabet = {
   unit: "minutes",
   ownLength: 381,
   ownProgress: 381,
-  partOfCollections: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/literature-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

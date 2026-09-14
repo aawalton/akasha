@@ -11,11 +11,11 @@ export const theWorldSGreatestChurches = {
   ownLength: 757.8,
   ownProgress: 757.8,
   partOfCollections: [
-    "all-great-courses",
-    "art-great-courses",
-    "history-great-courses",
-    "philosophy-and-religion-great-courses",
-    "travel-and-culture-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/art-great-courses",
+    "great-courses-subject/history-great-courses",
+    "great-courses-subject/philosophy-and-religion-great-courses",
+    "great-courses-subject/travel-and-culture-great-courses",
   ],
   externalIdentity: [
     {

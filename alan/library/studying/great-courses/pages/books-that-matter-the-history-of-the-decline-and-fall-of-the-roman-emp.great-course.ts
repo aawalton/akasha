@@ -11,10 +11,10 @@ export const booksThatMatterTheHistoryOfTheDeclineAndFallOfTheRomanEmp = {
   ownLength: 734.4,
   ownProgress: 734.4,
   partOfCollections: [
-    "all-great-courses",
-    "history-great-courses",
-    "literature-great-courses",
-    "philosophy-and-religion-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+    "great-courses-subject/literature-great-courses",
+    "great-courses-subject/philosophy-and-religion-great-courses",
   ],
   externalIdentity: [
     {

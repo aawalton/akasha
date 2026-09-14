@@ -10,7 +10,10 @@ export const pilotLectureHowTradeReallyWorks = {
   unit: "minutes",
   ownLength: 36,
   ownProgress: 36,
-  partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/business-and-finance-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

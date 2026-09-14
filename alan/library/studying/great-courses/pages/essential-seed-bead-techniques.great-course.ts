@@ -11,9 +11,9 @@ export const essentialSeedBeadTechniques = {
   ownLength: 154.8,
   ownProgress: 154.8,
   partOfCollections: [
-    "all-great-courses",
-    "art-great-courses",
-    "hobby-and-personal-pursuits-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/art-great-courses",
+    "great-courses-subject/hobby-and-personal-pursuits-great-courses",
   ],
   externalIdentity: [
     {

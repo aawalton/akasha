@@ -10,7 +10,10 @@ export const cookingAcrossTheAges = {
   unit: "minutes",
   ownLength: 791.4,
   ownProgress: 791.4,
-  partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/food-and-drink-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

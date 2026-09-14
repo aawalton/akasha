@@ -10,7 +10,10 @@ export const fundamentalsOfHomeMaintenanceFromRepairsToRenovations = {
   unit: "minutes",
   ownLength: 653.4,
   ownProgress: 653.4,
-  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/hobby-and-personal-pursuits-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

@@ -10,9 +10,9 @@ export const howDigitalTechnologyShapesUs = {
   ownLength: 643.2,
   ownProgress: 0,
   partOfCollections: [
-    "all-great-courses",
-    "professional-growth-great-courses",
-    "science-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/professional-growth-great-courses",
+    "great-courses-subject/science-great-courses",
   ],
   externalIdentity: [
     {

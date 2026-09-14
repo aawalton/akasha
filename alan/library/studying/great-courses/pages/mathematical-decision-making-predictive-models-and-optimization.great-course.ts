@@ -10,9 +10,9 @@ export const mathematicalDecisionMakingPredictiveModelsAndOptimization = {
   ownLength: 747.6,
   ownProgress: 0,
   partOfCollections: [
-    "all-great-courses",
-    "business-and-finance-great-courses",
-    "mathematics-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/business-and-finance-great-courses",
+    "great-courses-subject/mathematics-great-courses",
   ],
   externalIdentity: [
     {

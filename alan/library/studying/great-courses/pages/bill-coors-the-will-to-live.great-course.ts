@@ -11,9 +11,9 @@ export const billCoorsTheWillToLive = {
   ownLength: 126.6,
   ownProgress: 126.6,
   partOfCollections: [
-    "all-great-courses",
-    "health-and-mindfulness-great-courses",
-    "history-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/health-and-mindfulness-great-courses",
+    "great-courses-subject/history-great-courses",
   ],
   externalIdentity: [
     {

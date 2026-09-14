@@ -9,7 +9,10 @@ export const theSymphony = {
   unit: "minutes",
   ownLength: 1090.2,
   ownProgress: 0,
-  partOfCollections: ["all-great-courses", "music-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/music-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

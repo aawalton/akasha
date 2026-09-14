@@ -10,9 +10,9 @@ export const theGreatQuestionsOfPhilosophyAndPhysics = {
   ownLength: 368.4,
   ownProgress: 0,
   partOfCollections: [
-    "all-great-courses",
-    "philosophy-and-religion-great-courses",
-    "science-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/philosophy-and-religion-great-courses",
+    "great-courses-subject/science-great-courses",
   ],
   externalIdentity: [
     {

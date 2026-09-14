@@ -10,7 +10,11 @@ export const fromMonetToVanGoghAHistoryOfImpressionism = {
   unit: "minutes",
   ownLength: 730.8,
   ownProgress: 730.8,
-  partOfCollections: ["all-great-courses", "art-great-courses", "learning-paths-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/art-great-courses",
+    "great-courses-subject/learning-paths-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

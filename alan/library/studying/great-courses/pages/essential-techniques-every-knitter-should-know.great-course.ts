@@ -10,7 +10,10 @@ export const essentialTechniquesEveryKnitterShouldKnow = {
   unit: "minutes",
   ownLength: 202.2,
   ownProgress: 202.2,
-  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/hobby-and-personal-pursuits-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

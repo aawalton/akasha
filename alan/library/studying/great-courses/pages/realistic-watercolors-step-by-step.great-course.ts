@@ -10,7 +10,10 @@ export const realisticWatercolorsStepByStep = {
   unit: "minutes",
   ownLength: 162,
   ownProgress: 162,
-  partOfCollections: ["all-great-courses", "art-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/art-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

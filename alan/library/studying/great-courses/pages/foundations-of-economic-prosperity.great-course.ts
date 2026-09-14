@@ -9,7 +9,10 @@ export const foundationsOfEconomicProsperity = {
   unit: "minutes",
   ownLength: 736.2,
   ownProgress: 0,
-  partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/business-and-finance-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

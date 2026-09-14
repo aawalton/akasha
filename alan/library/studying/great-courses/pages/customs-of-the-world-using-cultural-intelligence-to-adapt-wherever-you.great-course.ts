@@ -11,9 +11,9 @@ export const customsOfTheWorldUsingCulturalIntelligenceToAdaptWhereverYou = {
   ownLength: 718.2,
   ownProgress: 718.2,
   partOfCollections: [
-    "all-great-courses",
-    "professional-growth-great-courses",
-    "travel-and-culture-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/professional-growth-great-courses",
+    "great-courses-subject/travel-and-culture-great-courses",
   ],
   externalIdentity: [
     {

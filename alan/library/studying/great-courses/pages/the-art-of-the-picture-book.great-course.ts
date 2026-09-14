@@ -10,7 +10,7 @@ export const theArtOfThePictureBook = {
   unit: "minutes",
   ownLength: 163.716667,
   ownProgress: 163.716667,
-  partOfCollections: ["all-great-courses"],
+  partOfCollections: ["great-courses-collection/all-great-courses"],
   externalIdentity: [
     {
       source: "the-great-courses",

@@ -10,7 +10,10 @@ export const pilotLectureTheGeneticsOfCancer = {
   unit: "minutes",
   ownLength: 30,
   ownProgress: 30,
-  partOfCollections: ["all-great-courses", "science-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/science-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

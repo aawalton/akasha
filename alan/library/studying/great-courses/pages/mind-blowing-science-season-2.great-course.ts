@@ -9,7 +9,10 @@ export const mindBlowingScienceSeason2 = {
   unit: "minutes",
   ownLength: 240,
   ownProgress: 0,
-  partOfCollections: ["all-great-courses", "science-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/science-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

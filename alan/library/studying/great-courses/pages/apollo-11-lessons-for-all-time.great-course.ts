@@ -11,9 +11,9 @@ export const apollo11LessonsForAllTime = {
   ownLength: 72.6,
   ownProgress: 72.6,
   partOfCollections: [
-    "all-great-courses",
-    "history-great-courses",
-    "travel-and-culture-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+    "great-courses-subject/travel-and-culture-great-courses",
   ],
   externalIdentity: [
     {

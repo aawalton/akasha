@@ -10,7 +10,10 @@ export const fibonacciNumbersAndTheGoldenRatio = {
   unit: "minutes",
   ownLength: 331.8,
   ownProgress: 331.8,
-  partOfCollections: ["all-great-courses", "mathematics-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/mathematics-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

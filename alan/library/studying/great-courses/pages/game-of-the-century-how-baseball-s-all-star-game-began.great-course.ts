@@ -11,9 +11,9 @@ export const gameOfTheCenturyHowBaseballSAllStarGameBegan = {
   ownLength: 12.6,
   ownProgress: 12.6,
   partOfCollections: [
-    "all-great-courses",
-    "history-great-courses",
-    "hobby-and-personal-pursuits-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+    "great-courses-subject/hobby-and-personal-pursuits-great-courses",
   ],
   externalIdentity: [
     {

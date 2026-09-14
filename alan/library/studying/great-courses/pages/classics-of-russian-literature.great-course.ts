@@ -9,7 +9,11 @@ export const classicsOfRussianLiterature = {
   unit: "minutes",
   ownLength: 1085.4,
   ownProgress: 0,
-  partOfCollections: ["all-great-courses", "history-great-courses", "literature-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+    "great-courses-subject/literature-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

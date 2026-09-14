@@ -9,7 +9,11 @@ export const physicsAndOurUniverse = {
   unit: "minutes",
   ownLength: 1830.6,
   ownProgress: 91.53,
-  partOfCollections: ["all-great-courses", "mathematics-great-courses", "science-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/mathematics-great-courses",
+    "great-courses-subject/science-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

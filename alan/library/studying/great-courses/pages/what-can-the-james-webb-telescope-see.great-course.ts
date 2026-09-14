@@ -10,7 +10,10 @@ export const whatCanTheJamesWebbTelescopeSee = {
   unit: "minutes",
   ownLength: 47.4,
   ownProgress: 47.4,
-  partOfCollections: ["all-great-courses", "science-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/science-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

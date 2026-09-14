@@ -10,7 +10,10 @@ export const theUnitedStatesSince911 = {
   unit: "minutes",
   ownLength: 73.2,
   ownProgress: 73.2,
-  partOfCollections: ["all-great-courses", "history-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

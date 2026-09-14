@@ -10,7 +10,10 @@ export const thisDayInHistoryJune = {
   unit: "minutes",
   ownLength: 92.4,
   ownProgress: 92.4,
-  partOfCollections: ["all-great-courses", "history-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

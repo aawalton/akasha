@@ -10,7 +10,10 @@ export const greatCourse12WomenWhoShapedAmerica1619To1920 = {
   unit: "minutes",
   ownLength: 336.6,
   ownProgress: 336.6,
-  partOfCollections: ["all-great-courses", "history-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

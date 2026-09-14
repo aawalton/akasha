@@ -9,7 +9,10 @@ export const classicalMythology = {
   unit: "minutes",
   ownLength: 741,
   ownProgress: 0,
-  partOfCollections: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/literature-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

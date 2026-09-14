@@ -10,9 +10,9 @@ export const understandingTheHumanBodyAnIntroductionToAnatomyAndPhysiology = {
   ownLength: 1453.8,
   ownProgress: 90.8625,
   partOfCollections: [
-    "all-great-courses",
-    "health-and-mindfulness-great-courses",
-    "science-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/health-and-mindfulness-great-courses",
+    "great-courses-subject/science-great-courses",
   ],
   externalIdentity: [
     {

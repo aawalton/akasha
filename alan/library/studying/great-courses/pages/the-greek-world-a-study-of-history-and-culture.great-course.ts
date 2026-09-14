@@ -10,7 +10,10 @@ export const theGreekWorldAStudyOfHistoryAndCulture = {
   unit: "minutes",
   ownLength: 770.4,
   ownProgress: 770.4,
-  partOfCollections: ["all-great-courses", "history-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

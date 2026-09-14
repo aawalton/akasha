@@ -10,10 +10,10 @@ export const theArtOfPublicSpeaking = {
   ownLength: 376.2,
   ownProgress: 0,
   partOfCollections: [
-    "all-great-courses",
-    "history-great-courses",
-    "literature-great-courses",
-    "professional-growth-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+    "great-courses-subject/literature-great-courses",
+    "great-courses-subject/professional-growth-great-courses",
   ],
   externalIdentity: [
     {

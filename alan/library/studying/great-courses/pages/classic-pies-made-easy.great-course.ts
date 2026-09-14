@@ -10,7 +10,7 @@ export const classicPiesMadeEasy = {
   unit: "minutes",
   ownLength: 163.633333,
   ownProgress: 163.633333,
-  partOfCollections: ["all-great-courses"],
+  partOfCollections: ["great-courses-collection/all-great-courses"],
   externalIdentity: [
     {
       source: "the-great-courses",

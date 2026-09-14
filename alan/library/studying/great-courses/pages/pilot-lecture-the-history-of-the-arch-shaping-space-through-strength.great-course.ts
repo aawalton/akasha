@@ -10,7 +10,7 @@ export const pilotLectureTheHistoryOfTheArchShapingSpaceThroughStrength = {
   unit: "minutes",
   ownLength: 35.066667,
   ownProgress: 35.066667,
-  partOfCollections: ["all-great-courses"],
+  partOfCollections: ["great-courses-collection/all-great-courses"],
   externalIdentity: [
     {
       source: "the-great-courses",

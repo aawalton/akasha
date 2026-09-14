@@ -11,9 +11,9 @@ export const viralIntelligenceWhatIsCoronavirus = {
   ownLength: 18,
   ownProgress: 18,
   partOfCollections: [
-    "all-great-courses",
-    "health-and-mindfulness-great-courses",
-    "science-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/health-and-mindfulness-great-courses",
+    "great-courses-subject/science-great-courses",
   ],
   externalIdentity: [
     {

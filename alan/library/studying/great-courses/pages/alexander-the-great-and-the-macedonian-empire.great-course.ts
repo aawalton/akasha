@@ -10,7 +10,10 @@ export const alexanderTheGreatAndTheMacedonianEmpire = {
   unit: "minutes",
   ownLength: 1102.2,
   ownProgress: 1102.2,
-  partOfCollections: ["all-great-courses", "history-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

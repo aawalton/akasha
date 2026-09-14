@@ -9,7 +9,10 @@ export const theVaticanAndTheWorldOfItalianArt = {
   unit: "minutes",
   ownLength: 14,
   ownProgress: 0,
-  partOfCollections: ["all-great-courses", "art-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/art-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

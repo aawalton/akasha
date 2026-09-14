@@ -10,7 +10,10 @@ export const afterTheTraumaLessonsFromMarjoryStonemanDouglas = {
   unit: "minutes",
   ownLength: 43.8,
   ownProgress: 43.8,
-  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/hobby-and-personal-pursuits-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

@@ -11,9 +11,9 @@ export const languageAndSocietyWhatYourSpeechSaysAboutYou = {
   ownLength: 715.2,
   ownProgress: 715.2,
   partOfCollections: [
-    "all-great-courses",
-    "literature-great-courses",
-    "professional-growth-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/literature-great-courses",
+    "great-courses-subject/professional-growth-great-courses",
   ],
   externalIdentity: [
     {

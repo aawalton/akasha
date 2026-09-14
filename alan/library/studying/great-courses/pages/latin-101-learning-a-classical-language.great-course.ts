@@ -11,11 +11,11 @@ export const latin101LearningAClassicalLanguage = {
   ownLength: 1098,
   ownProgress: 1098,
   partOfCollections: [
-    "all-great-courses",
-    "history-great-courses",
-    "hobby-and-personal-pursuits-great-courses",
-    "literature-great-courses",
-    "travel-and-culture-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+    "great-courses-subject/hobby-and-personal-pursuits-great-courses",
+    "great-courses-subject/literature-great-courses",
+    "great-courses-subject/travel-and-culture-great-courses",
   ],
   externalIdentity: [
     {

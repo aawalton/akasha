@@ -10,9 +10,9 @@ export const theSecretsOfMentalMath = {
   ownLength: 403.8,
   ownProgress: 0,
   partOfCollections: [
-    "all-great-courses",
-    "mathematics-great-courses",
-    "professional-growth-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/mathematics-great-courses",
+    "great-courses-subject/professional-growth-great-courses",
   ],
   externalIdentity: [
     {

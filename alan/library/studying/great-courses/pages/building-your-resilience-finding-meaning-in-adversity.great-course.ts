@@ -9,7 +9,10 @@ export const buildingYourResilienceFindingMeaningInAdversity = {
   unit: "minutes",
   ownLength: 771.6,
   ownProgress: 0,
-  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/hobby-and-personal-pursuits-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

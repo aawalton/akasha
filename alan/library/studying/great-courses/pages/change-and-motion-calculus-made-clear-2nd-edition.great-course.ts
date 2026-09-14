@@ -9,7 +9,11 @@ export const changeAndMotionCalculusMadeClear2ndEdition = {
   unit: "minutes",
   ownLength: 750,
   ownProgress: 0,
-  partOfCollections: ["all-great-courses", "mathematics-great-courses", "science-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/mathematics-great-courses",
+    "great-courses-subject/science-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

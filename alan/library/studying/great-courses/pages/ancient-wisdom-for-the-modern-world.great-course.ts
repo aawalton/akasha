@@ -11,9 +11,9 @@ export const ancientWisdomForTheModernWorld = {
   ownLength: 205.2,
   ownProgress: 205.2,
   partOfCollections: [
-    "all-great-courses",
-    "health-and-mindfulness-great-courses",
-    "hobby-and-personal-pursuits-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/health-and-mindfulness-great-courses",
+    "great-courses-subject/hobby-and-personal-pursuits-great-courses",
   ],
   externalIdentity: [
     {

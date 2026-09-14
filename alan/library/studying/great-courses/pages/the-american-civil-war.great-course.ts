@@ -10,7 +10,11 @@ export const theAmericanCivilWar = {
   unit: "minutes",
   ownLength: 1461,
   ownProgress: 1461,
-  partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+    "great-courses-subject/learning-paths-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

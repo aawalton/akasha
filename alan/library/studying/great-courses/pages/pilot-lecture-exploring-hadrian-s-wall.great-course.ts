@@ -10,7 +10,10 @@ export const pilotLectureExploringHadrianSWall = {
   unit: "minutes",
   ownLength: 24.6,
   ownProgress: 24.6,
-  partOfCollections: ["all-great-courses", "history-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

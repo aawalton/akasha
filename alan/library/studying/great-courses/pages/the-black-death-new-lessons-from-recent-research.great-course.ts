@@ -10,7 +10,11 @@ export const theBlackDeathNewLessonsFromRecentResearch = {
   unit: "minutes",
   ownLength: 165.6,
   ownProgress: 165.6,
-  partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+    "great-courses-subject/learning-paths-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

@@ -10,7 +10,7 @@ export const danishPastriesFromScratch = {
   unit: "minutes",
   ownLength: 171.15,
   ownProgress: 171.15,
-  partOfCollections: ["all-great-courses"],
+  partOfCollections: ["great-courses-collection/all-great-courses"],
   externalIdentity: [
     {
       source: "the-great-courses",

@@ -11,10 +11,10 @@ export const theFundamentalsOfTravelPhotography = {
   ownLength: 601.2,
   ownProgress: 601.2,
   partOfCollections: [
-    "all-great-courses",
-    "art-great-courses",
-    "hobby-and-personal-pursuits-great-courses",
-    "travel-and-culture-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/art-great-courses",
+    "great-courses-subject/hobby-and-personal-pursuits-great-courses",
+    "great-courses-subject/travel-and-culture-great-courses",
   ],
   externalIdentity: [
     {

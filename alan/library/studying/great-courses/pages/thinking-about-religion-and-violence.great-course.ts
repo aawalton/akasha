@@ -10,9 +10,9 @@ export const thinkingAboutReligionAndViolence = {
   ownLength: 745.2,
   ownProgress: 0,
   partOfCollections: [
-    "all-great-courses",
-    "history-great-courses",
-    "philosophy-and-religion-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+    "great-courses-subject/philosophy-and-religion-great-courses",
   ],
   externalIdentity: [
     {

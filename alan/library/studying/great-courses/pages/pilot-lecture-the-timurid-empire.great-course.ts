@@ -10,7 +10,10 @@ export const pilotLectureTheTimuridEmpire = {
   unit: "minutes",
   ownLength: 34.8,
   ownProgress: 34.8,
-  partOfCollections: ["all-great-courses", "history-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

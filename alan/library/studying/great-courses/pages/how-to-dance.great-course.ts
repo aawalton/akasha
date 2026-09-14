@@ -11,9 +11,9 @@ export const howToDance = {
   ownLength: 477,
   ownProgress: 477,
   partOfCollections: [
-    "all-great-courses",
-    "hobby-and-personal-pursuits-great-courses",
-    "music-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/hobby-and-personal-pursuits-great-courses",
+    "great-courses-subject/music-great-courses",
   ],
   externalIdentity: [
     {

@@ -11,10 +11,10 @@ export const anIntroductionToFormalLogic = {
   ownLength: 742.8,
   ownProgress: 742.8,
   partOfCollections: [
-    "all-great-courses",
-    "health-and-mindfulness-great-courses",
-    "mathematics-great-courses",
-    "philosophy-and-religion-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/health-and-mindfulness-great-courses",
+    "great-courses-subject/mathematics-great-courses",
+    "great-courses-subject/philosophy-and-religion-great-courses",
   ],
   externalIdentity: [
     {

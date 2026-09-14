@@ -11,9 +11,9 @@ export const historyOfTheSupremeCourt = {
   ownLength: 1089,
   ownProgress: 1089,
   partOfCollections: [
-    "all-great-courses",
-    "history-great-courses",
-    "philosophy-and-religion-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+    "great-courses-subject/philosophy-and-religion-great-courses",
   ],
   externalIdentity: [
     {

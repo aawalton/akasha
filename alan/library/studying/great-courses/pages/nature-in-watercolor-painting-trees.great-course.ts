@@ -10,7 +10,7 @@ export const natureInWatercolorPaintingTrees = {
   unit: "minutes",
   ownLength: 151.2,
   ownProgress: 151.2,
-  partOfCollections: ["all-great-courses"],
+  partOfCollections: ["great-courses-collection/all-great-courses"],
   externalIdentity: [
     {
       source: "the-great-courses",

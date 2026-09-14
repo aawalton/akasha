@@ -11,9 +11,9 @@ export const theGreatToursGreeceAndTurkeyFromAthensToIstanbul = {
   ownLength: 749.4,
   ownProgress: 749.4,
   partOfCollections: [
-    "all-great-courses",
-    "history-great-courses",
-    "travel-and-culture-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+    "great-courses-subject/travel-and-culture-great-courses",
   ],
   externalIdentity: [
     {

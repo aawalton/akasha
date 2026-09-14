@@ -10,7 +10,10 @@ export const americanMilitaryHistoryFromColonialsToCounterinsurgents = {
   unit: "minutes",
   ownLength: 696,
   ownProgress: 696,
-  partOfCollections: ["all-great-courses", "history-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

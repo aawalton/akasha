@@ -10,7 +10,7 @@ export const greatCourse10EssentialTechniquesForBetterDrawing = {
   unit: "minutes",
   ownLength: 153,
   ownProgress: 153,
-  partOfCollections: ["all-great-courses"],
+  partOfCollections: ["great-courses-collection/all-great-courses"],
   externalIdentity: [
     {
       source: "the-great-courses",

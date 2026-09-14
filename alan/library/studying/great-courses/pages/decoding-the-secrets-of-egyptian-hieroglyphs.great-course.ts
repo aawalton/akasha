@@ -10,7 +10,11 @@ export const decodingTheSecretsOfEgyptianHieroglyphs = {
   unit: "minutes",
   ownLength: 753.6,
   ownProgress: 753.6,
-  partOfCollections: ["all-great-courses", "history-great-courses", "literature-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+    "great-courses-subject/literature-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

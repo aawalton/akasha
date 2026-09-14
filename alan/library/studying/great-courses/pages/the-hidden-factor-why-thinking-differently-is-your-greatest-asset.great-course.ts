@@ -10,10 +10,10 @@ export const theHiddenFactorWhyThinkingDifferentlyIsYourGreatestAsset = {
   ownLength: 718.8,
   ownProgress: 0,
   partOfCollections: [
-    "all-great-courses",
-    "mathematics-great-courses",
-    "professional-growth-great-courses",
-    "science-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/mathematics-great-courses",
+    "great-courses-subject/professional-growth-great-courses",
+    "great-courses-subject/science-great-courses",
   ],
   externalIdentity: [
     {

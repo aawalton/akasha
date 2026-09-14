@@ -10,7 +10,10 @@ export const handheldRouterTechniquesAndTips = {
   unit: "minutes",
   ownLength: 205.2,
   ownProgress: 205.2,
-  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/hobby-and-personal-pursuits-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

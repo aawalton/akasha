@@ -9,7 +9,10 @@ export const understandingNonverbalCommunication = {
   unit: "minutes",
   ownLength: 370.2,
   ownProgress: 0,
-  partOfCollections: ["all-great-courses", "professional-growth-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/professional-growth-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

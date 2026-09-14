@@ -10,9 +10,9 @@ export const theoriesOfKnowledgeHowToThinkAboutWhatYouKnow = {
   ownLength: 693.6,
   ownProgress: 0,
   partOfCollections: [
-    "all-great-courses",
-    "philosophy-and-religion-great-courses",
-    "professional-growth-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/philosophy-and-religion-great-courses",
+    "great-courses-subject/professional-growth-great-courses",
   ],
   externalIdentity: [
     {

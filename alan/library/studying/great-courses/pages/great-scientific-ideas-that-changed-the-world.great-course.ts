@@ -9,7 +9,10 @@ export const greatScientificIdeasThatChangedTheWorld = {
   unit: "minutes",
   ownLength: 1150.2,
   ownProgress: 0,
-  partOfCollections: ["all-great-courses", "science-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/science-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

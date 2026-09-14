@@ -10,7 +10,7 @@ export const classicCakesFromBakedBakery = {
   unit: "minutes",
   ownLength: 111.616667,
   ownProgress: 111.616667,
-  partOfCollections: ["all-great-courses"],
+  partOfCollections: ["great-courses-collection/all-great-courses"],
   externalIdentity: [
     {
       source: "the-great-courses",

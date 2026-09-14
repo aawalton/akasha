@@ -10,10 +10,10 @@ export const theAgingBrain = {
   ownLength: 382.2,
   ownProgress: 0,
   partOfCollections: [
-    "all-great-courses",
-    "health-and-mindfulness-great-courses",
-    "learning-paths-great-courses",
-    "science-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/health-and-mindfulness-great-courses",
+    "great-courses-subject/learning-paths-great-courses",
+    "great-courses-subject/science-great-courses",
   ],
   externalIdentity: [
     {

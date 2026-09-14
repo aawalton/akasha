@@ -10,7 +10,10 @@ export const handEmbroidery = {
   unit: "minutes",
   ownLength: 199.2,
   ownProgress: 199.2,
-  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/hobby-and-personal-pursuits-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

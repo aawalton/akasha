@@ -10,9 +10,9 @@ export const greatMindsOfTheEasternIntellectualTradition = {
   ownLength: 1120.8,
   ownProgress: 0,
   partOfCollections: [
-    "all-great-courses",
-    "learning-paths-great-courses",
-    "philosophy-and-religion-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/learning-paths-great-courses",
+    "great-courses-subject/philosophy-and-religion-great-courses",
   ],
   externalIdentity: [
     {

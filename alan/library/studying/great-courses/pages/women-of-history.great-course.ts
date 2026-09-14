@@ -10,7 +10,10 @@ export const womenOfHistory = {
   unit: "minutes",
   ownLength: 39,
   ownProgress: 39,
-  partOfCollections: ["all-great-courses", "history-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

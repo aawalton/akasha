@@ -9,7 +9,7 @@ export const bakingBootCampCakesAndCrusts = {
   unit: "minutes",
   ownLength: 171.6,
   ownProgress: 171.6,
-  partOfCollections: ["all-great-courses"],
+  partOfCollections: ["great-courses-collection/all-great-courses"],
   externalIdentity: [
     {
       source: "the-great-courses",

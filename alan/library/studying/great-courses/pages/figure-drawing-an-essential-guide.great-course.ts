@@ -10,7 +10,7 @@ export const figureDrawingAnEssentialGuide = {
   unit: "minutes",
   ownLength: 93.6,
   ownProgress: 93.6,
-  partOfCollections: ["all-great-courses"],
+  partOfCollections: ["great-courses-collection/all-great-courses"],
   externalIdentity: [
     {
       source: "the-great-courses",

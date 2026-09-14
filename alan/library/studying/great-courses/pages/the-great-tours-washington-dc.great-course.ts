@@ -10,7 +10,10 @@ export const theGreatToursWashingtonDc = {
   unit: "minutes",
   ownLength: 994.2,
   ownProgress: 994.2,
-  partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/travel-and-culture-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

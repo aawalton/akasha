@@ -10,7 +10,10 @@ export const theHistoryOfChristmasConcertMusic = {
   unit: "minutes",
   ownLength: 42,
   ownProgress: 42,
-  partOfCollections: ["all-great-courses", "music-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/music-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

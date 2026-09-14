@@ -11,10 +11,10 @@ export const theGuideToEssentialItaly = {
   ownLength: 1080,
   ownProgress: 1080,
   partOfCollections: [
-    "all-great-courses",
-    "art-great-courses",
-    "history-great-courses",
-    "travel-and-culture-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/art-great-courses",
+    "great-courses-subject/history-great-courses",
+    "great-courses-subject/travel-and-culture-great-courses",
   ],
   externalIdentity: [
     {

@@ -11,9 +11,9 @@ export const argumentationTheStudyOfEffectiveReasoning = {
   ownLength: 732,
   ownProgress: 732,
   partOfCollections: [
-    "all-great-courses",
-    "philosophy-and-religion-great-courses",
-    "professional-growth-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/philosophy-and-religion-great-courses",
+    "great-courses-subject/professional-growth-great-courses",
   ],
   externalIdentity: [
     {

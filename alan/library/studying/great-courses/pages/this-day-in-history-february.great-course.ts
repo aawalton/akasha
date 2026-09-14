@@ -10,7 +10,10 @@ export const thisDayInHistoryFebruary = {
   unit: "minutes",
   ownLength: 84,
   ownProgress: 84,
-  partOfCollections: ["all-great-courses", "history-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

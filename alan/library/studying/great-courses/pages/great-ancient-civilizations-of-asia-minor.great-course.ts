@@ -10,7 +10,10 @@ export const greatAncientCivilizationsOfAsiaMinor = {
   unit: "minutes",
   ownLength: 720,
   ownProgress: 720,
-  partOfCollections: ["all-great-courses", "history-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

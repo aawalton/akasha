@@ -11,9 +11,9 @@ export const anEconomicHistoryOfTheWorldSince1400 = {
   ownLength: 1472.4,
   ownProgress: 1472.4,
   partOfCollections: [
-    "all-great-courses",
-    "business-and-finance-great-courses",
-    "history-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/business-and-finance-great-courses",
+    "great-courses-subject/history-great-courses",
   ],
   externalIdentity: [
     {

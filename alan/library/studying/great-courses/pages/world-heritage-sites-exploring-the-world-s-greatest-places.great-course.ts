@@ -10,7 +10,10 @@ export const worldHeritageSitesExploringTheWorldSGreatestPlaces = {
   unit: "minutes",
   ownLength: 714.6,
   ownProgress: 714.6,
-  partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/travel-and-culture-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

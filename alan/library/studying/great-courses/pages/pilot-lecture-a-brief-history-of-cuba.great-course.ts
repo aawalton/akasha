@@ -10,7 +10,7 @@ export const pilotLectureABriefHistoryOfCuba = {
   unit: "minutes",
   ownLength: 37.8,
   ownProgress: 37.8,
-  partOfCollections: ["all-great-courses"],
+  partOfCollections: ["great-courses-collection/all-great-courses"],
   externalIdentity: [
     {
       source: "the-great-courses",

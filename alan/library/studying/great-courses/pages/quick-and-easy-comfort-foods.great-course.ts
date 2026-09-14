@@ -10,7 +10,7 @@ export const quickAndEasyComfortFoods = {
   unit: "minutes",
   ownLength: 80,
   ownProgress: 80,
-  partOfCollections: ["all-great-courses"],
+  partOfCollections: ["great-courses-collection/all-great-courses"],
   externalIdentity: [
     {
       source: "the-great-courses",

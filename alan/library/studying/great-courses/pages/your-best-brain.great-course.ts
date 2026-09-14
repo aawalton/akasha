@@ -10,10 +10,10 @@ export const yourBestBrain = {
   ownLength: 770.4,
   ownProgress: 0,
   partOfCollections: [
-    "all-great-courses",
-    "health-and-mindfulness-great-courses",
-    "professional-growth-great-courses",
-    "science-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/health-and-mindfulness-great-courses",
+    "great-courses-subject/professional-growth-great-courses",
+    "great-courses-subject/science-great-courses",
   ],
   externalIdentity: [
     {

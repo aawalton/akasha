@@ -10,7 +10,10 @@ export const aNewHistoryOfTheAmericanSouth = {
   unit: "minutes",
   ownLength: 652.8,
   ownProgress: 652.8,
-  partOfCollections: ["all-great-courses", "history-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

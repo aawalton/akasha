@@ -11,9 +11,9 @@ export const pilotLecturePicturingTheBibleHowArtistsTellTheStory = {
   ownLength: 30.6,
   ownProgress: 30.6,
   partOfCollections: [
-    "all-great-courses",
-    "art-great-courses",
-    "philosophy-and-religion-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/art-great-courses",
+    "great-courses-subject/philosophy-and-religion-great-courses",
   ],
   externalIdentity: [
     {

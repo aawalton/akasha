@@ -9,7 +9,10 @@ export const thePowerOfMindOverBody = {
   unit: "minutes",
   ownLength: 345,
   ownProgress: 0,
-  partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/health-and-mindfulness-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

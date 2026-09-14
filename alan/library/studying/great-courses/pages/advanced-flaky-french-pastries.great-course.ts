@@ -10,7 +10,7 @@ export const advancedFlakyFrenchPastries = {
   unit: "minutes",
   ownLength: 135.2,
   ownProgress: 135.2,
-  partOfCollections: ["all-great-courses"],
+  partOfCollections: ["great-courses-collection/all-great-courses"],
   externalIdentity: [
     {
       source: "the-great-courses",

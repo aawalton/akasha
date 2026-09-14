@@ -10,7 +10,11 @@ export const englandThe1960sAndTheTriumphOfTheBeatles = {
   unit: "minutes",
   ownLength: 310.2,
   ownProgress: 310.2,
-  partOfCollections: ["all-great-courses", "history-great-courses", "music-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+    "great-courses-subject/music-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

@@ -11,10 +11,10 @@ export const learningSpanishHowToUnderstandAndSpeakANewLanguage = {
   ownLength: 1293.6,
   ownProgress: 1293.6,
   partOfCollections: [
-    "all-great-courses",
-    "hobby-and-personal-pursuits-great-courses",
-    "literature-great-courses",
-    "travel-and-culture-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/hobby-and-personal-pursuits-great-courses",
+    "great-courses-subject/literature-great-courses",
+    "great-courses-subject/travel-and-culture-great-courses",
   ],
   externalIdentity: [
     {

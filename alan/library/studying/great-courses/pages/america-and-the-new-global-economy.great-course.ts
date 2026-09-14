@@ -11,9 +11,9 @@ export const americaAndTheNewGlobalEconomy = {
   ownLength: 1120.2,
   ownProgress: 1120.2,
   partOfCollections: [
-    "all-great-courses",
-    "business-and-finance-great-courses",
-    "history-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/business-and-finance-great-courses",
+    "great-courses-subject/history-great-courses",
   ],
   externalIdentity: [
     {

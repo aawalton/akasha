@@ -10,7 +10,10 @@ export const inTheFootstepsOfVincentVanGogh = {
   unit: "minutes",
   ownLength: 339.6,
   ownProgress: 339.6,
-  partOfCollections: ["all-great-courses", "art-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/art-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

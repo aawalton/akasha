@@ -10,10 +10,10 @@ export const criticalBusinessSkillsForSuccess = {
   ownLength: 1884.6,
   ownProgress: 157.05,
   partOfCollections: [
-    "all-great-courses",
-    "business-and-finance-great-courses",
-    "learning-paths-great-courses",
-    "professional-growth-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/business-and-finance-great-courses",
+    "great-courses-subject/learning-paths-great-courses",
+    "great-courses-subject/professional-growth-great-courses",
   ],
   externalIdentity: [
     {

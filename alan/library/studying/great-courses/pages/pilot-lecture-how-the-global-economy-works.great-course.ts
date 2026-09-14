@@ -10,7 +10,10 @@ export const pilotLectureHowTheGlobalEconomyWorks = {
   unit: "minutes",
   ownLength: 31.2,
   ownProgress: 31.2,
-  partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/business-and-finance-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

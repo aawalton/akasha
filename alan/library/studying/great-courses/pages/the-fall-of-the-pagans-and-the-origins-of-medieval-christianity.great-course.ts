@@ -9,7 +9,10 @@ export const theFallOfThePagansAndTheOriginsOfMedievalChristianity = {
   unit: "minutes",
   ownLength: 752.4,
   ownProgress: 0,
-  partOfCollections: ["all-great-courses", "history-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

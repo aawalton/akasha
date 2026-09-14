@@ -10,7 +10,10 @@ export const theRiseOfModernJapan = {
   unit: "minutes",
   ownLength: 353.4,
   ownProgress: 353.4,
-  partOfCollections: ["all-great-courses", "history-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

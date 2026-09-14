@@ -10,7 +10,7 @@ export const pilotLectureTheGreatLibraryOfAlexandria = {
   unit: "minutes",
   ownLength: 34.3,
   ownProgress: 34.3,
-  partOfCollections: ["all-great-courses"],
+  partOfCollections: ["great-courses-collection/all-great-courses"],
   externalIdentity: [
     {
       source: "the-great-courses",

@@ -10,7 +10,10 @@ export const athenianDemocracyAnExperimentForTheAges = {
   unit: "minutes",
   ownLength: 777,
   ownProgress: 777,
-  partOfCollections: ["all-great-courses", "history-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

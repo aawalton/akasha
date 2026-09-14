@@ -10,7 +10,10 @@ export const artAndCraftOfMathematicalProblemSolving = {
   unit: "minutes",
   ownLength: 734.4,
   ownProgress: 734.4,
-  partOfCollections: ["all-great-courses", "mathematics-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/mathematics-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

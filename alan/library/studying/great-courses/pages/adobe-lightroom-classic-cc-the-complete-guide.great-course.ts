@@ -11,9 +11,9 @@ export const adobeLightroomClassicCcTheCompleteGuide = {
   ownLength: 1429.2,
   ownProgress: 1429.2,
   partOfCollections: [
-    "all-great-courses",
-    "hobby-and-personal-pursuits-great-courses",
-    "professional-growth-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/hobby-and-personal-pursuits-great-courses",
+    "great-courses-subject/professional-growth-great-courses",
   ],
   externalIdentity: [
     {

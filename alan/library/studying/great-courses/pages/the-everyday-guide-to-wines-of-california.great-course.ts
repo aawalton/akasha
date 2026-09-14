@@ -11,9 +11,9 @@ export const theEverydayGuideToWinesOfCalifornia = {
   ownLength: 195.6,
   ownProgress: 195.6,
   partOfCollections: [
-    "all-great-courses",
-    "food-and-drink-great-courses",
-    "travel-and-culture-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/food-and-drink-great-courses",
+    "great-courses-subject/travel-and-culture-great-courses",
   ],
   externalIdentity: [
     {

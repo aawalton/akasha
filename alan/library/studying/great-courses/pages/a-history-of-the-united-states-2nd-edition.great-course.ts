@@ -9,7 +9,10 @@ export const aHistoryOfTheUnitedStates2ndEdition = {
   unit: "minutes",
   ownLength: 2576.4,
   ownProgress: 1288.2,
-  partOfCollections: ["all-great-courses", "history-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

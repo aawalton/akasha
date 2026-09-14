@@ -10,7 +10,10 @@ export const pilotLectureAlaricTheGothAndTheSackOfRome = {
   unit: "minutes",
   ownLength: 32.4,
   ownProgress: 32.4,
-  partOfCollections: ["all-great-courses", "history-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

@@ -10,7 +10,10 @@ export const georgeOrwellASageForAllSeasons = {
   unit: "minutes",
   ownLength: 622.2,
   ownProgress: 622.2,
-  partOfCollections: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/literature-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

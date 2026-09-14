@@ -11,9 +11,9 @@ export const pilotLectureMythsOfLearningAndMemory = {
   ownLength: 27,
   ownProgress: 27,
   partOfCollections: [
-    "all-great-courses",
-    "professional-growth-great-courses",
-    "science-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/professional-growth-great-courses",
+    "great-courses-subject/science-great-courses",
   ],
   externalIdentity: [
     {

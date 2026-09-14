@@ -10,7 +10,7 @@ export const artisanBreadMakingAncientAndSproutedGrains = {
   unit: "minutes",
   ownLength: 147,
   ownProgress: 147,
-  partOfCollections: ["all-great-courses"],
+  partOfCollections: ["great-courses-collection/all-great-courses"],
   externalIdentity: [
     {
       source: "the-great-courses",

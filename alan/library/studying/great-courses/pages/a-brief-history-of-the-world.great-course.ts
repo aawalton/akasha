@@ -10,7 +10,10 @@ export const aBriefHistoryOfTheWorld = {
   unit: "minutes",
   ownLength: 1140.6,
   ownProgress: 1140.6,
-  partOfCollections: ["all-great-courses", "history-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

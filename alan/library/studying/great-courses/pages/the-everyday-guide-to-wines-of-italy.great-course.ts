@@ -10,7 +10,10 @@ export const theEverydayGuideToWinesOfItaly = {
   unit: "minutes",
   ownLength: 209.4,
   ownProgress: 209.4,
-  partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/food-and-drink-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

@@ -11,10 +11,10 @@ export const howToLookAtAndUnderstandGreatArt = {
   ownLength: 1106.4,
   ownProgress: 1106.4,
   partOfCollections: [
-    "all-great-courses",
-    "art-great-courses",
-    "hobby-and-personal-pursuits-great-courses",
-    "learning-paths-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/art-great-courses",
+    "great-courses-subject/hobby-and-personal-pursuits-great-courses",
+    "great-courses-subject/learning-paths-great-courses",
   ],
   externalIdentity: [
     {

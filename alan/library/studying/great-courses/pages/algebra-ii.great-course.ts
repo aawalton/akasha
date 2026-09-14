@@ -11,9 +11,9 @@ export const algebraIi = {
   ownLength: 1120.8,
   ownProgress: 1120.8,
   partOfCollections: [
-    "all-great-courses",
-    "learning-paths-great-courses",
-    "mathematics-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/learning-paths-great-courses",
+    "great-courses-subject/mathematics-great-courses",
   ],
   externalIdentity: [
     {

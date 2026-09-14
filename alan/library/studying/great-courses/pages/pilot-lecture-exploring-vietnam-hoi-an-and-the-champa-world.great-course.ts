@@ -10,7 +10,7 @@ export const pilotLectureExploringVietnamHoiAnAndTheChampaWorld = {
   unit: "minutes",
   ownLength: 32.35,
   ownProgress: 32.35,
-  partOfCollections: ["all-great-courses"],
+  partOfCollections: ["great-courses-collection/all-great-courses"],
   externalIdentity: [
     {
       source: "the-great-courses",

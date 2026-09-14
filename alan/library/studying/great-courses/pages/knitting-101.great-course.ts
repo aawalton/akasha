@@ -10,7 +10,10 @@ export const knitting101 = {
   unit: "minutes",
   ownLength: 635.4,
   ownProgress: 635.4,
-  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/hobby-and-personal-pursuits-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

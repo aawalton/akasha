@@ -10,7 +10,10 @@ export const pilotLectureHowDoWeMakeAiMoreIntelligent = {
   unit: "minutes",
   ownLength: 34.2,
   ownProgress: 34.2,
-  partOfCollections: ["all-great-courses", "science-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/science-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

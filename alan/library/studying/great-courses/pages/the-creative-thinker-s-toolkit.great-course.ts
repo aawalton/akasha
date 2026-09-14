@@ -9,7 +9,10 @@ export const theCreativeThinkerSToolkit = {
   unit: "minutes",
   ownLength: 741,
   ownProgress: 0,
-  partOfCollections: ["all-great-courses", "professional-growth-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/professional-growth-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

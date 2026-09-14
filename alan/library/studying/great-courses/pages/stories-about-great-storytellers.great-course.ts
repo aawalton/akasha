@@ -10,7 +10,10 @@ export const storiesAboutGreatStorytellers = {
   unit: "minutes",
   ownLength: 24,
   ownProgress: 24,
-  partOfCollections: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/literature-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

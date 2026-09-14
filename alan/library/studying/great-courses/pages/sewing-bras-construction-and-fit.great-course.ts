@@ -10,7 +10,10 @@ export const sewingBrasConstructionAndFit = {
   unit: "minutes",
   ownLength: 223.2,
   ownProgress: 223.2,
-  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/hobby-and-personal-pursuits-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

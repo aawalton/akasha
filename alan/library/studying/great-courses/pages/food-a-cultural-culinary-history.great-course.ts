@@ -10,7 +10,11 @@ export const foodACulturalCulinaryHistory = {
   unit: "minutes",
   ownLength: 1114.2,
   ownProgress: 1114.2,
-  partOfCollections: ["all-great-courses", "food-and-drink-great-courses", "history-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/food-and-drink-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

@@ -11,9 +11,9 @@ export const pilotLectureEthicalHealthCareInTheAgeOfAi = {
   ownLength: 30,
   ownProgress: 30,
   partOfCollections: [
-    "all-great-courses",
-    "business-and-finance-great-courses",
-    "professional-growth-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/business-and-finance-great-courses",
+    "great-courses-subject/professional-growth-great-courses",
   ],
   externalIdentity: [
     {

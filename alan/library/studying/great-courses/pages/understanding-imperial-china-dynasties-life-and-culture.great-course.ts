@@ -10,7 +10,10 @@ export const understandingImperialChinaDynastiesLifeAndCulture = {
   unit: "minutes",
   ownLength: 753,
   ownProgress: 753,
-  partOfCollections: ["all-great-courses", "history-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

@@ -9,7 +9,7 @@ export const consciousnessAndItsImplications = {
   unit: "minutes",
   ownLength: 364.433333,
   ownProgress: 0,
-  partOfCollections: ["all-great-courses"],
+  partOfCollections: ["great-courses-collection/all-great-courses"],
   externalIdentity: [
     {
       source: "the-great-courses",

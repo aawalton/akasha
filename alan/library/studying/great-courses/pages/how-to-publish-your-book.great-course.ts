@@ -10,9 +10,9 @@ export const howToPublishYourBook = {
   ownLength: 697.2,
   ownProgress: 0,
   partOfCollections: [
-    "all-great-courses",
-    "business-and-finance-great-courses",
-    "literature-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/business-and-finance-great-courses",
+    "great-courses-subject/literature-great-courses",
   ],
   externalIdentity: [
     {

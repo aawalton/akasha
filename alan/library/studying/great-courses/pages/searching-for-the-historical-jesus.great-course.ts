@@ -11,9 +11,9 @@ export const searchingForTheHistoricalJesus = {
   ownLength: 324.6,
   ownProgress: 324.6,
   partOfCollections: [
-    "all-great-courses",
-    "philosophy-and-religion-great-courses",
-    "travel-and-culture-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/philosophy-and-religion-great-courses",
+    "great-courses-subject/travel-and-culture-great-courses",
   ],
   externalIdentity: [
     {

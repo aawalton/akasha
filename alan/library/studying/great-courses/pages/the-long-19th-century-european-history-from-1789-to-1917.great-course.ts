@@ -9,7 +9,10 @@ export const theLong19thCenturyEuropeanHistoryFrom1789To1917 = {
   unit: "minutes",
   ownLength: 1101,
   ownProgress: 0,
-  partOfCollections: ["all-great-courses", "history-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

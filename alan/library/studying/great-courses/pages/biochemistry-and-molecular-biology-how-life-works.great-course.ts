@@ -9,7 +9,10 @@ export const biochemistryAndMolecularBiologyHowLifeWorks = {
   unit: "minutes",
   ownLength: 1106.4,
   ownProgress: 61.466667,
-  partOfCollections: ["all-great-courses", "science-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/science-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

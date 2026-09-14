@@ -11,9 +11,9 @@ export const howJesusBecameGod = {
   ownLength: 751.8,
   ownProgress: 751.8,
   partOfCollections: [
-    "all-great-courses",
-    "history-great-courses",
-    "philosophy-and-religion-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+    "great-courses-subject/philosophy-and-religion-great-courses",
   ],
   externalIdentity: [
     {

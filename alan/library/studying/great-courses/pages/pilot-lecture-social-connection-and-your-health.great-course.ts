@@ -10,7 +10,7 @@ export const pilotLectureSocialConnectionAndYourHealth = {
   unit: "minutes",
   ownLength: 35.683333,
   ownProgress: 35.683333,
-  partOfCollections: ["all-great-courses"],
+  partOfCollections: ["great-courses-collection/all-great-courses"],
   externalIdentity: [
     {
       source: "the-great-courses",

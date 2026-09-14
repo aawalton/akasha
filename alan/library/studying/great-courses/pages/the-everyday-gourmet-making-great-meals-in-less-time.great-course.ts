@@ -10,7 +10,10 @@ export const theEverydayGourmetMakingGreatMealsInLessTime = {
   unit: "minutes",
   ownLength: 198,
   ownProgress: 198,
-  partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/food-and-drink-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

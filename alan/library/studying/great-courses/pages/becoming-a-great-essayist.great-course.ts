@@ -10,7 +10,10 @@ export const becomingAGreatEssayist = {
   unit: "minutes",
   ownLength: 744.6,
   ownProgress: 744.6,
-  partOfCollections: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/literature-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

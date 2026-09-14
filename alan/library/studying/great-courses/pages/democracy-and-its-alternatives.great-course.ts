@@ -10,7 +10,10 @@ export const democracyAndItsAlternatives = {
   unit: "minutes",
   ownLength: 546,
   ownProgress: 546,
-  partOfCollections: ["all-great-courses", "history-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

@@ -10,7 +10,10 @@ export const theMiddleEastInThe20thCentury = {
   unit: "minutes",
   ownLength: 663,
   ownProgress: 663,
-  partOfCollections: ["all-great-courses", "history-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

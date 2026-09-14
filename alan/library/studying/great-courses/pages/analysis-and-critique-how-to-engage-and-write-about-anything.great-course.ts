@@ -11,9 +11,9 @@ export const analysisAndCritiqueHowToEngageAndWriteAboutAnything = {
   ownLength: 712.8,
   ownProgress: 712.8,
   partOfCollections: [
-    "all-great-courses",
-    "literature-great-courses",
-    "professional-growth-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/literature-great-courses",
+    "great-courses-subject/professional-growth-great-courses",
   ],
   externalIdentity: [
     {

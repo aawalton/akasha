@@ -11,9 +11,9 @@ export const theWorldSGreatestGeologicalWonders = {
   ownLength: 1114.2,
   ownProgress: 1114.2,
   partOfCollections: [
-    "all-great-courses",
-    "science-great-courses",
-    "travel-and-culture-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/science-great-courses",
+    "great-courses-subject/travel-and-culture-great-courses",
   ],
   externalIdentity: [
     {

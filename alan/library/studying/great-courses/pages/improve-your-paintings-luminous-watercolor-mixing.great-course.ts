@@ -10,7 +10,10 @@ export const improveYourPaintingsLuminousWatercolorMixing = {
   unit: "minutes",
   ownLength: 119.4,
   ownProgress: 119.4,
-  partOfCollections: ["all-great-courses", "art-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/art-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

@@ -10,7 +10,10 @@ export const howToGrowAnythingYourBestGardenAndLandscapeIn6Lessons = {
   unit: "minutes",
   ownLength: 198.6,
   ownProgress: 198.6,
-  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/hobby-and-personal-pursuits-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

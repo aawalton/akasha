@@ -9,7 +9,7 @@ export const theGreatUnansweredQuestionsOfPhysics = {
   unit: "minutes",
   ownLength: 751.3,
   ownProgress: 0,
-  partOfCollections: ["all-great-courses"],
+  partOfCollections: ["great-courses-collection/all-great-courses"],
   externalIdentity: [
     {
       source: "the-great-courses",

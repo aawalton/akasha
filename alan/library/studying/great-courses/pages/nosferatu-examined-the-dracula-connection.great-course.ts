@@ -10,7 +10,10 @@ export const nosferatuExaminedTheDraculaConnection = {
   unit: "minutes",
   ownLength: 10.8,
   ownProgress: 10.8,
-  partOfCollections: ["all-great-courses", "art-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/art-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

@@ -10,7 +10,11 @@ export const pilotLectureMaxPlanckAndTheUltravioletCatastrophe = {
   unit: "minutes",
   ownLength: 19.8,
   ownProgress: 19.8,
-  partOfCollections: ["all-great-courses", "history-great-courses", "science-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+    "great-courses-subject/science-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

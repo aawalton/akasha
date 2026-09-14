@@ -9,7 +9,10 @@ export const buddhism = {
   unit: "minutes",
   ownLength: 746.4,
   ownProgress: 62.2,
-  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/philosophy-and-religion-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

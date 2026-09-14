@@ -10,7 +10,10 @@ export const pilotLectureTheExcitingWorldOfProjectManagement = {
   unit: "minutes",
   ownLength: 36.6,
   ownProgress: 36.6,
-  partOfCollections: ["all-great-courses", "professional-growth-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/professional-growth-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

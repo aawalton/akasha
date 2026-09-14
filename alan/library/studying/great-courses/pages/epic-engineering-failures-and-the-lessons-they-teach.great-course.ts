@@ -9,7 +9,10 @@ export const epicEngineeringFailuresAndTheLessonsTheyTeach = {
   unit: "minutes",
   ownLength: 924,
   ownProgress: 177.692308,
-  partOfCollections: ["all-great-courses", "science-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/science-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

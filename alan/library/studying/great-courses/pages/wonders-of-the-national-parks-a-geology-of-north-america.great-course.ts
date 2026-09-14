@@ -11,9 +11,9 @@ export const wondersOfTheNationalParksAGeologyOfNorthAmerica = {
   ownLength: 1128,
   ownProgress: 1128,
   partOfCollections: [
-    "all-great-courses",
-    "science-great-courses",
-    "travel-and-culture-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/science-great-courses",
+    "great-courses-subject/travel-and-culture-great-courses",
   ],
   externalIdentity: [
     {

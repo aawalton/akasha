@@ -9,7 +9,10 @@ export const greatMastersBeethovenHisLifeAndMusic = {
   unit: "minutes",
   ownLength: 366,
   ownProgress: 0,
-  partOfCollections: ["all-great-courses", "music-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/music-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

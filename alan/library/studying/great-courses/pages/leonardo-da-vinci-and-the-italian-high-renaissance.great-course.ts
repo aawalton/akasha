@@ -10,7 +10,10 @@ export const leonardoDaVinciAndTheItalianHighRenaissance = {
   unit: "minutes",
   ownLength: 1122,
   ownProgress: 1122,
-  partOfCollections: ["all-great-courses", "art-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/art-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

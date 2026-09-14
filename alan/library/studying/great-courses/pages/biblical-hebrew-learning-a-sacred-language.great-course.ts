@@ -11,12 +11,12 @@ export const biblicalHebrewLearningASacredLanguage = {
   ownLength: 1241.4,
   ownProgress: 1241.4,
   partOfCollections: [
-    "all-great-courses",
-    "history-great-courses",
-    "hobby-and-personal-pursuits-great-courses",
-    "literature-great-courses",
-    "philosophy-and-religion-great-courses",
-    "travel-and-culture-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+    "great-courses-subject/hobby-and-personal-pursuits-great-courses",
+    "great-courses-subject/literature-great-courses",
+    "great-courses-subject/philosophy-and-religion-great-courses",
+    "great-courses-subject/travel-and-culture-great-courses",
   ],
   externalIdentity: [
     {

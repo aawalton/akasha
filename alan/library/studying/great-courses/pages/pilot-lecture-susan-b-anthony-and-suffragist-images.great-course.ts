@@ -10,7 +10,10 @@ export const pilotLectureSusanBAnthonyAndSuffragistImages = {
   unit: "minutes",
   ownLength: 26.4,
   ownProgress: 26.4,
-  partOfCollections: ["all-great-courses", "history-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

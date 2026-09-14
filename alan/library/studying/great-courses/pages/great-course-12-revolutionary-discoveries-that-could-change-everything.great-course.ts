@@ -10,7 +10,10 @@ export const greatCourse12RevolutionaryDiscoveriesThatCouldChangeEverything = {
   unit: "minutes",
   ownLength: 225,
   ownProgress: 225,
-  partOfCollections: ["all-great-courses", "science-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/science-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

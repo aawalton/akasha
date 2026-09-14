@@ -9,7 +9,10 @@ export const greatPianoWorksExplained = {
   unit: "minutes",
   ownLength: 795,
   ownProgress: 0,
-  partOfCollections: ["all-great-courses", "music-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/music-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

@@ -9,7 +9,7 @@ export const europeanHistoryAndEuropeanLives1715To1914 = {
   unit: "minutes",
   ownLength: 1107.133333,
   ownProgress: 0,
-  partOfCollections: ["all-great-courses"],
+  partOfCollections: ["great-courses-collection/all-great-courses"],
   externalIdentity: [
     {
       source: "the-great-courses",

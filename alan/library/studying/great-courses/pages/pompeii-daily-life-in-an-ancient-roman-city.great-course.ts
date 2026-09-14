@@ -11,10 +11,10 @@ export const pompeiiDailyLifeInAnAncientRomanCity = {
   ownLength: 705.6,
   ownProgress: 705.6,
   partOfCollections: [
-    "all-great-courses",
-    "history-great-courses",
-    "learning-paths-great-courses",
-    "travel-and-culture-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+    "great-courses-subject/learning-paths-great-courses",
+    "great-courses-subject/travel-and-culture-great-courses",
   ],
   externalIdentity: [
     {

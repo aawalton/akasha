@@ -9,7 +9,10 @@ export const thePowerOfMathematicalThinkingFromNewtonSLawsToElectionsAnd = {
   unit: "minutes",
   ownLength: 760.2,
   ownProgress: 0,
-  partOfCollections: ["all-great-courses", "mathematics-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/mathematics-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

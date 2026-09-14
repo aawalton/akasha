@@ -9,7 +9,7 @@ export const toolsOfThinkingUnderstandingTheWorldThroughExperienceAndReaso = {
   unit: "minutes",
   ownLength: 728.866667,
   ownProgress: 0,
-  partOfCollections: ["all-great-courses"],
+  partOfCollections: ["great-courses-collection/all-great-courses"],
   externalIdentity: [
     {
       source: "the-great-courses",

@@ -10,7 +10,10 @@ export const theCelticWorld = {
   unit: "minutes",
   ownLength: 775.8,
   ownProgress: 775.8,
-  partOfCollections: ["all-great-courses", "history-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

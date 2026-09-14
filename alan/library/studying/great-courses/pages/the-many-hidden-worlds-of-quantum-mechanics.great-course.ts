@@ -9,7 +9,10 @@ export const theManyHiddenWorldsOfQuantumMechanics = {
   unit: "minutes",
   ownLength: 716.4,
   ownProgress: 59.7,
-  partOfCollections: ["all-great-courses", "science-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/science-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

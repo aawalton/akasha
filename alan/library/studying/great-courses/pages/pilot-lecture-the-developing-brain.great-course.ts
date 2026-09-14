@@ -10,7 +10,10 @@ export const pilotLectureTheDevelopingBrain = {
   unit: "minutes",
   ownLength: 34.8,
   ownProgress: 34.8,
-  partOfCollections: ["all-great-courses", "science-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/science-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

@@ -10,7 +10,7 @@ export const pilotLectureAWalkingTourOfHistoricHavana = {
   unit: "minutes",
   ownLength: 40.2,
   ownProgress: 40.2,
-  partOfCollections: ["all-great-courses"],
+  partOfCollections: ["great-courses-collection/all-great-courses"],
   externalIdentity: [
     {
       source: "the-great-courses",

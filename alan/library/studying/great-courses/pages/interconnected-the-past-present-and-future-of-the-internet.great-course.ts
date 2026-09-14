@@ -11,9 +11,9 @@ export const interconnectedThePastPresentAndFutureOfTheInternet = {
   ownLength: 108,
   ownProgress: 108,
   partOfCollections: [
-    "all-great-courses",
-    "business-and-finance-great-courses",
-    "science-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/business-and-finance-great-courses",
+    "great-courses-subject/science-great-courses",
   ],
   externalIdentity: [
     {

@@ -10,7 +10,11 @@ export const bigHistoryTheBigBangLifeOnEarthAndTheRiseOfHumanity = {
   unit: "minutes",
   ownLength: 1482.6,
   ownProgress: 1482.6,
-  partOfCollections: ["all-great-courses", "history-great-courses", "science-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+    "great-courses-subject/science-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

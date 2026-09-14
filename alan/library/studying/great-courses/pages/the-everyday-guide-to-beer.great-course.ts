@@ -10,7 +10,10 @@ export const theEverydayGuideToBeer = {
   unit: "minutes",
   ownLength: 340.2,
   ownProgress: 340.2,
-  partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/food-and-drink-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

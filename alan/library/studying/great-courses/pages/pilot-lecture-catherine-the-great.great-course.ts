@@ -10,7 +10,10 @@ export const pilotLectureCatherineTheGreat = {
   unit: "minutes",
   ownLength: 23.4,
   ownProgress: 23.4,
-  partOfCollections: ["all-great-courses", "history-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

@@ -10,7 +10,7 @@ export const pilotLectureFiguringOutFats = {
   unit: "minutes",
   ownLength: 31.316667,
   ownProgress: 31.316667,
-  partOfCollections: ["all-great-courses"],
+  partOfCollections: ["great-courses-collection/all-great-courses"],
   externalIdentity: [
     {
       source: "the-great-courses",

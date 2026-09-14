@@ -10,7 +10,7 @@ export const medicalSchoolForEveryonePediatricsGrandRounds = {
   unit: "minutes",
   ownLength: 733.8,
   ownProgress: 733.8,
-  partOfCollections: ["all-great-courses"],
+  partOfCollections: ["great-courses-collection/all-great-courses"],
   externalIdentity: [
     {
       source: "the-great-courses",

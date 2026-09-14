@@ -9,7 +9,7 @@ export const makingHistoryHowGreatHistoriansInterpretThePast = {
   unit: "minutes",
   ownLength: 734.6,
   ownProgress: 0,
-  partOfCollections: ["all-great-courses"],
+  partOfCollections: ["great-courses-collection/all-great-courses"],
   externalIdentity: [
     {
       source: "the-great-courses",

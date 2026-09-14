@@ -10,7 +10,10 @@ export const aHistoryOfEnglandFromTheTudorsToTheStuarts = {
   unit: "minutes",
   ownLength: 1458,
   ownProgress: 1458,
-  partOfCollections: ["all-great-courses", "history-great-courses"],
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
   externalIdentity: [
     {
       source: "the-great-courses",

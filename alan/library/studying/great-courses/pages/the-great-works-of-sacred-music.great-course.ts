@@ -10,9 +10,9 @@ export const theGreatWorksOfSacredMusic = {
   ownLength: 708.6,
   ownProgress: 0,
   partOfCollections: [
-    "all-great-courses",
-    "music-great-courses",
-    "philosophy-and-religion-great-courses",
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/music-great-courses",
+    "great-courses-subject/philosophy-and-religion-great-courses",
   ],
   externalIdentity: [
     {
