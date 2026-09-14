@@ -23,12 +23,6 @@ export const listingConfigSchema = z
 
 export type ListingConfig = z.infer<typeof listingConfigSchema>
 
-export function parseListingConfig(value: unknown): ListingConfig | undefined {
-  if (value == null) return undefined
-  const parsed = listingConfigSchema.safeParse(value)
-  return parsed.success ? parsed.data : undefined
-}
-
 export function listingIncludesDescendants(cfg: ListingConfig | undefined): boolean {
   return cfg?.includeDescendants !== false
 }
