@@ -189,7 +189,7 @@ function RelationDetailBody({
   return badge
 }
 
-export function RelationPropertyBadge(props: PropertyBadgeProps) {
+export function Drawing(props: PropertyBadgeProps) {
   const { property, value, context } = props
 
   if (context === "card") {

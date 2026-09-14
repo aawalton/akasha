@@ -118,7 +118,6 @@ export const components = {
     "module/relation-display",
     "module/relation-filter-inputs",
     "module/relation-popover",
-    "module/relation-property-badge",
     "module/resolve-listing-config",
     "module/rich-document-property-badge",
     "module/rollup-property-badge",

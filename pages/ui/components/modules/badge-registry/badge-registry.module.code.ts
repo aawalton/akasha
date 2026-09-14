@@ -15,7 +15,7 @@ import { MultiSelectPropertyBadge } from "akasha/pages/ui/components/modules/mul
 import { PathSelectPropertyBadge } from "akasha/pages/ui/components/modules/path-select-property-badge/path-select-property-badge.module.code.tsx"
 
 import type { PropertyBadgeProps } from "akasha/pages/ui/components/modules/property-badge/property-badge.module.code.tsx"
-import { RelationPropertyBadge } from "akasha/pages/ui/components/modules/relation-property-badge/relation-property-badge.module.code.tsx"
+
 import { RichDocumentPropertyBadge } from "akasha/pages/ui/components/modules/rich-document-property-badge/rich-document-property-badge.module.code.tsx"
 import { RollupPropertyBadge } from "akasha/pages/ui/components/modules/rollup-property-badge/rollup-property-badge.module.code.tsx"
 import { RrulePropertyBadge } from "akasha/pages/ui/components/modules/rrule-property-badge/rrule-property-badge.module.code.tsx"
@@ -39,7 +39,7 @@ export const PROPERTY_BADGE_REGISTRY: Partial<
   select: SelectPropertyBadge,
   "multi-select": MultiSelectPropertyBadge,
   "path-select": PathSelectPropertyBadge,
-  relation: RelationPropertyBadge,
+
   "multi-relation": MultiRelationPropertyBadge,
   rollup: RollupPropertyBadge,
   aggregate: AggregatePropertyBadge,
