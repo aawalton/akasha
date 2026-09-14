@@ -10,19 +10,19 @@ export const strength = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A thousand kilograms moved is one point.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A thousand kilograms is 2204.62 pounds.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The points are the pounds the tracking day carries turned into points.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A day with no pounds earns nothing rather than a strength of zero.",
     },
   ],

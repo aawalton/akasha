@@ -10,15 +10,15 @@ export const endurance = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Two hundred calories burned moving is one point.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The points are the active calories the tracking day carries turned into points.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A day with no active calories earns nothing rather than an endurance of zero.",
     },
   ],
