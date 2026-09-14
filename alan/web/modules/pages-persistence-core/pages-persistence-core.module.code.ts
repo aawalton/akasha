@@ -11,8 +11,6 @@ const PersistedPagesSnapshotSchema = z
   })
   .strict()
 
-export const EMPTY_PAGES_SNAPSHOT: PersistedPagesSnapshot = { version: 1, rows: [], resume: [] }
-
 export function parsePagesSnapshot(raw: string): PersistedPagesSnapshot | null {
   try {
     const parsed = PersistedPagesSnapshotSchema.safeParse(JSON.parse(raw))

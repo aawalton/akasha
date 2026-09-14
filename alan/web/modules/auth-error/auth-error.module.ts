@@ -4,6 +4,6 @@ export const authError = {
   id: "01a0655d-daa6-78c9-a8e1-bdadc1e9ebed",
   type: "module",
   slug: "auth-error",
-  definition: "a thrown thing judged to be a sign-in that lapsed",
+  definition: "the words told to a reader whose sign-in has lapsed",
   code: "ts",
 } as const satisfies Module
