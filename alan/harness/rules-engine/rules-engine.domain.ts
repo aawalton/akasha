@@ -12,7 +12,6 @@ export const rulesEngine = {
     "module/rule-conditions",
     "module/rule-partition",
     "module/rule-vocabulary",
-    "page-type/rules-engine-rule-set",
   ],
   invariants: [
     {
