@@ -8,9 +8,6 @@ export const amyHarnessImprovements = {
   persona: "amy",
   intents: [
     {
-      statement: "A picture taken by that action reaches Alan's handler.",
-    },
-    {
       statement: "Each editor panel opens by Ctrl+Alt and the first letter of that panel's name.",
     },
     {
