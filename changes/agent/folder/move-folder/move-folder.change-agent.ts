@@ -26,4 +26,5 @@ export const moveFolder = {
   ],
   changeKind: "change-checked",
   maxCpuSeconds: 30,
+  maxMemoryMb: 3072,
 } as const satisfies ChangeAgent
