@@ -1,14 +1,22 @@
 import type { Answer as Said } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { closing, opening, type Taken } from "akasha/checks/modules/cost/check-cost.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import { heldHere } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const MAX_CPU = "maxCpuSeconds"
+
+const MAX_MEMORY = "maxMemoryMb"
 
 export const ALLOWED_CPU = 300
 
 export function cpuAllowedIn(value: Value | null): number {
   const said = value === null ? undefined : value[MAX_CPU]
   return typeof said === "number" && said > 0 ? said : ALLOWED_CPU
+}
+
+export function memoryAllowedIn(value: Value | null): number | null {
+  const said = value === null ? undefined : value[MAX_MEMORY]
+  return typeof said === "number" && said > 0 ? said : null
 }
 
 export function spentBetween(before: Taken, after: Taken): number {
@@ -29,8 +37,14 @@ export async function underIts(
   run: () => Promise<Said>
 ): Promise<Said> {
   const allowed = cpuAllowedIn(stated)
+  const megabytes = memoryAllowedIn(stated)
+  const letting = megabytes === null ? null : heldHere(megabytes)
   const started = opening()
-  const made = await run()
-  const over = overIts(slug, spentBetween(started, closing()), allowed)
-  return over === null ? made : { edits: [], refused: over }
+  try {
+    const made = await run()
+    const over = overIts(slug, spentBetween(started, closing()), allowed)
+    return over === null ? made : { edits: [], refused: over }
+  } finally {
+    letting?.()
+  }
 }

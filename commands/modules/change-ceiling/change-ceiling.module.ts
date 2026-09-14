@@ -4,7 +4,8 @@ export const changeCeiling = {
   id: "01a09154-47b9-7842-861a-266f8b227077",
   type: "module",
   slug: "change-ceiling",
-  definition: "the processor seconds one change is allowed and what a change past them is told",
+  definition:
+    "the processor seconds and the megabytes one change is allowed, and what a change past them is told",
   code: "ts",
   test: "ts",
   invariants: [
@@ -51,6 +52,36 @@ export const changeCeiling = {
     {
       invariantKind: "departure",
       statement: "A change past its seconds runs to its end and then answers no edit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The megabytes a change is allowed are read off that change's own page.",
+    },
+    { invariantKind: "departure", statement: "A change stating no megabytes is held to none." },
+    {
+      invariantKind: "departure",
+      statement: "A change stating megabytes that are no number above nothing is held to none.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A change stating megabytes is held in a group of its own for as long as that change runs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change is let out of that group whether that change answered or raised.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change past its megabytes is reclaimed and slowed rather than ended.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What that reclaim costs is counted in the processor seconds the change spent.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing refuses a change for the memory that change held.",
     },
   ],
 } as const satisfies Module
