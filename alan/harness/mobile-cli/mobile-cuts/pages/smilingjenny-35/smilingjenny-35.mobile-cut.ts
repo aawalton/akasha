@@ -5,7 +5,7 @@ export const smilingjenny35 = {
   type: "mobile-cut",
   slug: "smilingjenny-35",
   title: "smilingjenny cut build 35",
-  app: "smilingjenny",
+  app: "ios-app/smilingjenny",
   buildNumber: 35,
   mainSha: "31b7c48f4d1e01c2ab64cc65782393bc56fb26db",
   shellSha: "31b7c48f4d1e01c2ab64cc65782393bc56fb26db",

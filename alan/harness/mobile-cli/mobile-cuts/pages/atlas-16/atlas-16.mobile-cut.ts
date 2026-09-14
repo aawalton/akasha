@@ -5,7 +5,7 @@ export const atlas16 = {
   type: "mobile-cut",
   slug: "atlas-16",
   title: "atlas cut build 16",
-  app: "atlas",
+  app: "ios-app/atlas",
   buildNumber: 16,
   mainSha: "1f36519b91d4afc4e4572dd37c2250838a505cc3",
   shellSha: "1f36519b91d4afc4e4572dd37c2250838a505cc3",

@@ -5,7 +5,7 @@ export const alanwalton223 = {
   type: "mobile-cut",
   slug: "alanwalton-223",
   title: "alanwalton cut build 223",
-  app: "alanwalton",
+  app: "ios-app/alanwalton",
   buildNumber: 223,
   mainSha: "84ecb80e9018b50c6b4addfa55ce6b984f21c83a",
   shellSha: "84ecb80e9018b50c6b4addfa55ce6b984f21c83a",
