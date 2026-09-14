@@ -32,7 +32,7 @@ export const page = {
     "domain/page-access",
     "domain/page-core",
     "domain/page-query",
-    "domain/pages-ui",
+    "domain/page-ui",
     "domain/pages-ui-store",
     "domain/page-url",
     "file-property/entries",
