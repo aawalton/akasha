@@ -56,15 +56,6 @@ export const TRAIT_NAMES: Record<number, string> = {
   [ITEM_TRAIT_TYPE_WEAPON_VIGOROUS]: "Vigorous",
 }
 
-export const QUALITY_NAMES: Record<number, string> = {
-  [ITEM_DISPLAY_QUALITY_TRASH]: "Trash",
-  [ITEM_DISPLAY_QUALITY_NORMAL]: "Normal",
-  [ITEM_DISPLAY_QUALITY_MAGIC]: "Fine",
-  [ITEM_DISPLAY_QUALITY_ARCANE]: "Superior",
-  [ITEM_DISPLAY_QUALITY_ARTIFACT]: "Epic",
-  [ITEM_DISPLAY_QUALITY_LEGENDARY]: "Legendary",
-}
-
 export const QUALITY_COLORS: Record<number, [number, number, number]> = {
   [ITEM_DISPLAY_QUALITY_TRASH]: [0.5, 0.5, 0.5],
   [ITEM_DISPLAY_QUALITY_NORMAL]: [1, 1, 1],
