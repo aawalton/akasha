@@ -1,5 +1,5 @@
 import type { DeviceOption } from "akasha/alan/music/spotify/modules/player/spotify-player.module.code.ts"
-import { pausePlayback } from "akasha/alan/music/spotify/modules/player/spotify-player.module.code.ts"
+import { skipToNext } from "akasha/alan/music/spotify/modules/player/spotify-player.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import { deviceId as deviceIdArgument } from "akasha/commands/arguments/pages/device-id.argument.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
@@ -14,37 +14,37 @@ import {
   optionFor,
   whereOf,
 } from "akasha/commands/pages/music/modules/device-option/device-option.module.code.ts"
-import { musicPause as page } from "akasha/commands/pages/music/pause/music-pause.command.ts"
+import { musicSkip as page } from "akasha/commands/pages/music/skip/music-skip.command.ts"
 
 const NAMED = [deviceIdArgument, json]
 
-export type Holding = {
-  readonly pausePlayback: (options: DeviceOption) => Promise<void>
+export type Skipping = {
+  readonly skipToNext: (options: DeviceOption) => Promise<void>
 }
 
-const HOLDING: Holding = { pausePlayback }
+const SKIPPING: Skipping = { skipToNext }
 
-type HoldEnvelope = {
-  readonly held: true
+type SkipEnvelope = {
+  readonly skipped: true
   readonly deviceId: string | null
 }
 
-export async function holding(
+export async function skipping(
   argv: readonly string[],
-  ports: Holding,
+  ports: Skipping,
   calledAs: string
 ): Promise<Answer> {
   const read = takenFor(argv, calledAs, page, NAMED)
   if ("refused" in read) return refusedBy(read.refused, INPUT)
   const taken = read.taken
   return await answering(async () => {
-    await ports.pausePlayback(optionFor(taken.deviceId))
-    const envelope: HoldEnvelope = { held: true, deviceId: taken.deviceId ?? null }
-    const said = taken.json ? JSON.stringify(envelope) : `⏸ Held on ${whereOf(taken.deviceId)}`
-    return told([said])
+    await ports.skipToNext(optionFor(taken.deviceId))
+    const envelope: SkipEnvelope = { skipped: true, deviceId: taken.deviceId ?? null }
+    const line = `⏭ Skipped ahead on ${whereOf(taken.deviceId)}`
+    return told([taken.json ? JSON.stringify(envelope) : line])
   })
 }
 
-export function musicPause(argv: readonly string[], given: Given): Promise<Answer> {
-  return holding(argv, HOLDING, given.calledAs)
+export function musicSkip(argv: readonly string[], given: Given): Promise<Answer> {
+  return skipping(argv, SKIPPING, given.calledAs)
 }

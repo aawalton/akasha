@@ -17,6 +17,8 @@ export const music = {
     "command/music-queue",
     "command/music-rate",
     "command/music-search",
+    "command/music-skip",
+    "module/device-option",
   ],
   name: "music",
 } as const satisfies Namespace
