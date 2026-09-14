@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { ROOT } from "akasha/infrastructure/container-image/dockerfiles/modules/dockerfile-services/dockerfile-services.module.code.ts"
 import {
+  IN_CLUSTER,
   jobFor,
   jobNameFor,
   jobYamlFor,
@@ -52,4 +53,8 @@ test("a job that failed is not run again by the cluster", () => {
 
 test("the memory a landing starts on is read from the pod", () => {
   expect(jobYamlFor(ROOT, SUBJECT, COMMIT)).toContain("LANDING_MIN_FREE_MEMORY_GB")
+})
+
+test("a job states that the run it carries is the one in the cluster", () => {
+  expect(jobYamlFor(ROOT, SUBJECT, COMMIT)).toContain(IN_CLUSTER)
 })

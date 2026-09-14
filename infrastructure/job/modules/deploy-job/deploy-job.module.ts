@@ -74,5 +74,9 @@ export const deployJob = {
       invariantKind: "departure",
       statement: "The overlay a job's test gate mounts is held on a volume of the job's own.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A job states that the run it carries is the one in the cluster.",
+    },
   ],
 } as const satisfies Module

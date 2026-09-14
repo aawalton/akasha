@@ -40,6 +40,10 @@ const ROOM = "LANDING_MIN_FREE_MEMORY_GB"
 
 const ROOM_GB = "1"
 
+export const IN_CLUSTER = "AKASHA_DEPLOY_IN_CLUSTER"
+
+const IN_CLUSTER_SET = "1"
+
 const NAMED = 12
 
 const WORK = "work"
@@ -108,6 +112,7 @@ export function jobFor(
               env: [
                 { name: "HOME", value: ORCHESTRATOR_CACHE_MOUNT_PATH },
                 { name: ROOM, value: ROOM_GB },
+                { name: IN_CLUSTER, value: IN_CLUSTER_SET },
                 {
                   name: GIT_TOKEN,
                   valueFrom: { secretKeyRef: { name: JOB_SECRET, key: GIT_TOKEN } },
