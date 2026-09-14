@@ -13,71 +13,71 @@ export const esoRig = {
   manifest: "manifest/eso-rig-manifests",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The pod is privileged.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The GPU runtime class gives no device capability the rig needs.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Creating the virtual keyboard needs the uinput device.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An unprivileged container's device cgroup denies opening an event node.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A denied event node leaves the evdev driver unable to bind the device.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A denied event node leaves the evdev driver unable to grab the device.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The X server opens a virtual terminal under the dummy driver.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The pod mounts the host's /dev/input live.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Privilege without that mount leaves the rig failing before a verdict is reached.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A container's own /dev is filled once at startup and never again.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The node the rig makes after startup is the only node the rig reads.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Card access comes from the runtime class and the resource request.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Privilege gives the pod no card access.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The rig is scheduled onto the one node in its workload class.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The rig runs no copies until a run is wanted.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The Wine prefix is kept on the node's disk.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A fresh Wine prefix creates a new machine identity against the game account.",
     },
   ],

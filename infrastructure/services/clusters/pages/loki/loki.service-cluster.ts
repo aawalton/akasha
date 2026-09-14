@@ -15,23 +15,23 @@ export const loki = {
   secrets: ["secret/loki-s3-creds-access-key", "secret/loki-s3-creds-secret-key"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Loki keeps a log for seven days.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A workload's log reaches Loki from a collector on its node.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A workstation program pushes its own log.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Loki takes no authentication of its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only the tailnet limits who reaches Loki.",
     },
   ],

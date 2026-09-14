@@ -21,16 +21,16 @@ export const headscale = {
   ],
   invariants: [
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A certificate renewal reaches the server serving that certificate.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "The server reads its certificate once and serves that certificate until the server ends.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The pod is rolled by the certificate's checksum changing where the manifest is applied again.",
     },
