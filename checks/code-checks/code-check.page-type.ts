@@ -189,7 +189,7 @@ export const codeCheck = {
       statement: "Every check listing a folder lists it through the overlay.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "The overlay's listing is reached from the shadow a check is handed.",
     },
   ],

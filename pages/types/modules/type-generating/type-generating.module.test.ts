@@ -50,6 +50,7 @@ function shadowOf(pages: ReadonlyMap<string, Record<string, unknown>>): Shadow {
     index,
     filed: () => new Map(),
     holds: (path) => pages.has(path),
+    listed: () => [...pages.keys()],
     refusals: () => [],
     pageOf: (path) => pages.get(path) ?? null,
     codeAt: (path) => path,

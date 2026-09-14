@@ -19,6 +19,42 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
+      statement: "A shadow lists the files the change leaves under the checkout.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That listing is one search of the tree rather than a reading of an index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the change writes is listed though no body sits on disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the change takes away is left out though a body sits on disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller naming no folder is listed every file under the checkout.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller naming a folder is listed the files sitting in that folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder's files come from that one listing rather than from a second search.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The files are listed at the first ask and held for that shadow.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No index is read to say which files the checkout holds.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page the change has is read from the body the change has.",
     },
     {

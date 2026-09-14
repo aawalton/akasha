@@ -43,7 +43,7 @@ import {
   unfiled,
 } from "akasha/pages/modules/shadow/shadow.module.test-fixtures.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
-import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
+import { put, there } from "akasha/testing-system/modules/putting/putting.module.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -118,11 +118,12 @@ test("a property the change stops making unique loses the identity filed for a p
 test("a directory the change empties is not listed, and one it fills is", () => {
   const repo = seeded()
   const reading = shadowOf(shadowFor(changeOver(repo, CHANGES)))
-  expect(reading.holds("path/akasha/deep")).toBe(false)
-  expect(reading.holds("path/akasha/one")).toBe(false)
-  expect(reading.holds("path/akasha/two")).toBe(true)
-  expect(reading.listing("path/akasha").map((one) => one.name)).not.toContain("deep")
-  expect(reading.listing("identity/page-type").map((one) => one.name)).toContain("tag")
+  expect(readingIn(repo).holds("identity/page-type/module")).toBe(true)
+  expect(reading.holds("identity/page-type/module")).toBe(false)
+  expect(reading.holds("identity/page-type/tag")).toBe(true)
+  const named = reading.listing("identity/page-type").map((one) => one.name)
+  expect(named).not.toContain("module")
+  expect(named).toContain("tag")
 })
 
 test("a relation through a property the same change declares is filed, as a landing files it", () => {
@@ -307,4 +308,56 @@ test("a shadow over a change that moves nothing answers no refusal", () => {
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
   expect(cast.shadow.refusals()).toEqual([])
+})
+
+test("a shadow lists the files under the checkout", () => {
+  const repo = seeded()
+  const cast = shadowFor(carriedOver(repo))
+  if ("refused" in cast) throw new Error(cast.refused)
+  expect(cast.shadow.listed()).toContain(inside("x.ts"))
+})
+
+test("a path the change writes is listed though no body sits on disk", () => {
+  const repo = seeded()
+  const cast = shadowFor(carriedOver(repo))
+  if ("refused" in cast) throw new Error(cast.refused)
+  expect(there(repo, MOVED_TO)).toBe(false)
+  expect(cast.shadow.listed()).toContain(MOVED_TO)
+  expect(cast.shadow.listed("akasha/far")).toEqual([MOVED_TO])
+})
+
+test("a path the change takes away is left out though the body sits on disk", () => {
+  const repo = seeded()
+  const cast = shadowFor(carriedOver(repo))
+  if ("refused" in cast) throw new Error(cast.refused)
+  expect(there(repo, CODE_AT)).toBe(true)
+  expect(cast.shadow.listed()).not.toContain(CODE_AT)
+  expect(cast.shadow.listed("akasha/deep")).toEqual([inside("deep/d.module.ts")])
+})
+
+test("a caller naming a folder is listed the files sitting in that folder and no others", () => {
+  const repo = seeded()
+  const cast = shadowFor(carriedOver(repo))
+  if ("refused" in cast) throw new Error(cast.refused)
+  const every = cast.shadow.listed()
+  expect(cast.shadow.listed("akasha/two")).toEqual(
+    every.filter((one) => one.startsWith("akasha/two/"))
+  )
+  expect(cast.shadow.listed("akasha/nowhere")).toEqual([])
+})
+
+test("a shadow over a change that moves nothing lists the tree as the tree is", () => {
+  const repo = seeded()
+  const held = onDisk(repo)
+  const change: Change = { root: repo, changed: [CODE_AT], before: held, after: held }
+  const cast = shadowFor(change)
+  if ("refused" in cast) throw new Error(cast.refused)
+  expect(cast.shadow.listed()).toContain(CODE_AT)
+})
+
+test("the files are listed at the first ask and held for that shadow", () => {
+  const repo = seeded()
+  const cast = shadowFor(carriedOver(repo))
+  if ("refused" in cast) throw new Error(cast.refused)
+  expect(cast.shadow.listed()).toBe(cast.shadow.listed())
 })

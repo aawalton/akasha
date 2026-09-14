@@ -1,3 +1,5 @@
+import { dirname } from "node:path"
+import { pathsListed } from "akasha/changes/modules/tree-searching/tree-searching.module.code.ts"
 import { textOf } from "akasha/code/bodies/modules/body-text/body-text.module.code.ts"
 import { digestOf } from "akasha/code/bodies/modules/carried-file/carried-file.module.code.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
@@ -23,9 +25,49 @@ export type Shadow = {
   readonly index: Answering
   readonly filed: () => ReadonlyMap<string, string | null>
   readonly holds: (path: string) => boolean
+  readonly listed: (folder?: string) => readonly string[]
   readonly refusals: () => readonly string[]
   readonly pageOf: (path: string) => Value | null
   readonly codeAt: (path: string) => string | null
+}
+
+const HERE = "."
+
+const EVERYWHERE = ""
+
+function laidOver(root: string, change: Change | null): readonly string[] {
+  const found = new Set(pathsListed(root))
+  for (const path of change?.changed ?? []) {
+    if (change?.after(path) === null) found.delete(path)
+    else found.add(path)
+  }
+  return [...found].sort()
+}
+
+function foldedInto(paths: readonly string[]): ReadonlyMap<string, readonly string[]> {
+  const found = new Map<string, string[]>()
+  for (const one of paths) {
+    const at = dirname(one)
+    const folder = at === HERE ? EVERYWHERE : at
+    const held = found.get(folder)
+    if (held === undefined) found.set(folder, [one])
+    else held.push(one)
+  }
+  return found
+}
+
+function listingIn(root: string, change: Change | null): (folder?: string) => readonly string[] {
+  let every: readonly string[] | null = null
+  let under: ReadonlyMap<string, readonly string[]> | null = null
+  const all = (): readonly string[] => {
+    if (every === null) every = laidOver(root, change)
+    return every
+  }
+  return (folder) => {
+    if (folder === undefined) return all()
+    if (under === null) under = foldedInto(all())
+    return under.get(folder) ?? []
+  }
 }
 
 export type Made = {
@@ -132,6 +174,7 @@ function shadowOver(
     index: answeringOver(reading, pageOf),
     filed: () => new Map(),
     holds: (path) => reading.read(path) !== null,
+    listed: listingIn(root, null),
     refusals: () => [],
     pageOf,
     codeAt: (path) => path,
@@ -177,6 +220,7 @@ function castFrom(was: Reading, change: Change, held: Remembered): Cast {
       index,
       filed,
       holds: (path) => reading.read(path) !== null,
+      listed: listingIn(change.root, change),
       refusals,
       pageOf,
       codeAt: codeOver(change),
@@ -240,6 +284,7 @@ export function shadowAsked(change: Change): Shadow {
     index: answeringOver(reading, pageOf),
     filed: () => worked().shadow.filed(),
     holds: (path) => reading.read(path) !== null,
+    listed: listingIn(change.root, change),
     refusals: () => worked().shadow.refusals(),
     pageOf,
     codeAt: (path) => worked().shadow.codeAt(path),

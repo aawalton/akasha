@@ -105,6 +105,7 @@ export function counting(root: string, held: Shadow, asked: () => undefined): Sh
     index: answeringOver(reading, (path) => held.pageOf(path)),
     filed: () => held.filed(),
     holds: (path) => held.holds(path),
+    listed: (folder) => held.listed(folder),
     refusals: () => held.refusals(),
     pageOf: (path) => held.pageOf(path),
     codeAt: (path) => held.codeAt(path),
