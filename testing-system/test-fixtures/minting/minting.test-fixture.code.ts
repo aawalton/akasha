@@ -83,13 +83,7 @@ export function minting(
 
 export const MINTED = "a check minted for a test"
 
-const REFUSES_ID = "01a04bed-1450-7000-8000-00000000bbbb"
-
 const ADMITS_ID = "01a04bed-1450-7000-8000-00000000cccc"
-
-export function refusing(root: string): undefined {
-  minting(root, "refuses", REFUSES_ID, "a check refusing everything", REFUSES_CODE)
-}
 
 export function admitting(root: string): undefined {
   minting(root, "admits", ADMITS_ID, "a check admitting everything", ADMITS_CODE)
