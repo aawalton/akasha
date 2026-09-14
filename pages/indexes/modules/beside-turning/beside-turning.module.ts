@@ -88,26 +88,7 @@ export const besideTurning = {
       invariantKind: "departure",
       statement: "A page naming an id has its value read from that page's own body.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A page a file the change carries sits beside is answered.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The page a file sits beside is the page that file's name spells, in its folder.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page is read as a TypeScript file.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "A name spelling no section past a page's own name sits beside no page.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page two files the change carries sit beside is answered once.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A page whose body reads as no value of the type its name says is passed over.",

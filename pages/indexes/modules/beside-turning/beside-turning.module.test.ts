@@ -2,7 +2,6 @@ import { expect, test } from "bun:test"
 import {
   type Besides,
   besidesTurned,
-  pagesBeside,
   pagesElsewhere,
   pagesStranded,
   pagesTurned,
@@ -39,10 +38,6 @@ const AT = "value/bland.jsonl"
 
 const PAGE = "one.bland.ts"
 
-const BESIDE = "one.bland.code.ts"
-
-const PATHS = "listing/path.jsonl"
-
 const BODY = `export const it = ${JSON.stringify({ pageTypeSlug: "bland", slug: "one" })} as const\n`
 
 const READING: Reading = {
@@ -52,7 +47,7 @@ const READING: Reading = {
     if (at === AT) {
       return [JSON.stringify({ path: PAGE, value: { pageTypeSlug: "bland", slug: "one" } })]
     }
-    return at === PATHS ? [PAGE, BESIDE] : []
+    return []
   },
   read: (at) => (at === PAGE ? BODY : null),
 }
@@ -101,17 +96,4 @@ test("a file that is no page is not answered though the index names that file", 
   expect(pagesElsewhere(READING, turned, new Set()).map((one) => one.path)).toEqual([PAGE])
   expect(pagesElsewhere(READING, new Set(), new Set())).toEqual([])
   expect(pagesElsewhere(READING, turned, new Set([PAGE]))).toEqual([])
-})
-
-test("the page a carried file sits beside is answered, and a page the change carries is not", () => {
-  expect(pagesBeside(READING, new Set([BESIDE])).map((one) => one.path)).toEqual([PAGE])
-  expect(pagesBeside(READING, new Set([BESIDE, PAGE]))).toEqual([])
-  expect(pagesBeside(READING, new Set([PAGE]))).toEqual([])
-})
-
-test("one page is answered once for two files beside it, and an unknown page not at all", () => {
-  const two = new Set([BESIDE, "one.bland.code.part2.ts"])
-
-  expect(pagesBeside(READING, two).map((one) => one.path)).toEqual([PAGE])
-  expect(pagesBeside(READING, new Set(["one.other.code.ts"]))).toEqual([])
 })

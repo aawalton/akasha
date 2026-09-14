@@ -1,4 +1,3 @@
-import { dirname, join } from "node:path"
 import type { FilePropertiesBy } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import type { SidecarsBy } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
 import {
@@ -13,7 +12,7 @@ import type {
   Reading,
   Shape,
 } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
-import { pageOf, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import {
   textAt,
   type Value,
@@ -30,8 +29,6 @@ import {
 } from "akasha/pages/types/modules/gathering/page-type-gathering.module.code.ts"
 
 const PAGE_TYPE = "page-type"
-
-const PAGE_HELD = ".ts"
 
 export type Besides = {
   readonly fileProperties: FilePropertiesBy
@@ -214,21 +211,6 @@ export function pagesNaming(
       const value = pageValueAt(reading, one.path, said.pageType)
       if (value !== null) found.push({ path: one.path, value })
     }
-  }
-  return found
-}
-
-export function pagesBeside(reading: Reading, carried: ReadonlySet<string>): readonly Valued[] {
-  const found: Valued[] = []
-  const seen = new Set<string>()
-  for (const path of carried) {
-    const said = partedIn(path)
-    if (said === null || said.sections.length === 0) continue
-    const at = join(dirname(path), `${pageOf(said)}${PAGE_HELD}`)
-    if (carried.has(at) || seen.has(at)) continue
-    seen.add(at)
-    const value = pageValueAt(reading, at, said.pageType)
-    if (value !== null) found.push({ path: at, value })
   }
   return found
 }
