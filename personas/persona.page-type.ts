@@ -34,7 +34,6 @@ export const persona = {
     "module/persona-page-conditions",
     "module/persona-reading",
     "module/persona-targets",
-    "module/render-prompt",
     "module/voice-spec",
     "module/wallpaper-order",
     "number-property/green-day-points",
