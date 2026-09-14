@@ -6,7 +6,7 @@ export const whenACompanyChangesHands = {
   slug: "when-a-company-changes-hands",
   title: "When A Company Changes Hands",
   definition: "a trusted organisation changing owners or leaders puts its trust back to zero",
-  parents: ["which-organisations-i-trust"],
+  parents: ["all-about-alan-topic/which-organisations-i-trust"],
   related: [
     "all-about-alan-topic/how-i-grade-an-organisation",
     "all-about-alan-topic/getting-out-from-under-a-dependency",

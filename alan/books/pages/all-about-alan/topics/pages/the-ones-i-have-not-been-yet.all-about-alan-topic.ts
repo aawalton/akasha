@@ -7,7 +7,7 @@ export const theOnesIHaveNotBeenYet = {
   title: "The Ones I Have Not Been Yet",
   definition:
     "about half a billion selves ahead of me, and the veto they put on anything I cannot undo",
-  parents: ["the-crowd-that-has-been-me"],
+  parents: ["all-about-alan-topic/the-crowd-that-has-been-me"],
   related: [
     "all-about-alan-topic/how-i-make-a-decision-i-cannot-undo",
     "all-about-alan-topic/the-ethics-i-worked-out",

@@ -6,6 +6,6 @@ export const givingHerTheBenefitOfTheDoubt = {
   slug: "giving-her-the-benefit-of-the-doubt",
   title: "Giving Her The Benefit Of The Doubt",
   definition: "a standing thumb on the scale in her favour",
-  parents: ["working-out-what-love-is"],
+  parents: ["all-about-alan-topic/working-out-what-love-is"],
   settled: "It is commitment plus a named difference, and it compiled.",
 } as const satisfies AllAboutAlanTopic

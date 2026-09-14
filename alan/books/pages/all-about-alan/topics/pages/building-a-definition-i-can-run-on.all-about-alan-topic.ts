@@ -6,7 +6,7 @@ export const buildingADefinitionICanRunOn = {
   slug: "building-a-definition-i-can-run-on",
   title: "Building A Definition I Can Run On",
   definition: "how I get at a human thing I cannot feel my way into",
-  parents: ["how-i-know-things"],
+  parents: ["all-about-alan-topic/how-i-know-things"],
   related: [
     "all-about-alan-topic/keeping-my-word",
     "all-about-alan-topic/working-out-what-love-is",

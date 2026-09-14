@@ -6,7 +6,7 @@ export const whatComesBackIntoReachAsIClimb = {
   slug: "what-comes-back-into-reach-as-i-climb",
   title: "What Comes Back Into Reach As I Climb",
   definition: "activities coming into and out of reach as my safety level rises",
-  parents: ["what-an-activity-costs-me"],
+  parents: ["all-about-alan-topic/what-an-activity-costs-me"],
   related: [
     "all-about-alan-topic/how-safety-climbs",
     "all-about-alan-topic/how-far-behind-i-am-on-people",

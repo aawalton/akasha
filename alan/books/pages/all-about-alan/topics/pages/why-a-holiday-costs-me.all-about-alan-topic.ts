@@ -7,7 +7,7 @@ export const whyAHolidayCostsMe = {
   title: "Why A Holiday Costs Me",
   definition:
     "paying the full price of a repeating occasion and collecting none of the usual return",
-  parents: ["what-an-activity-costs-me"],
+  parents: ["all-about-alan-topic/what-an-activity-costs-me"],
   related: [
     "all-about-alan-topic/what-stays-warm-for-a-while",
     "all-about-alan-topic/how-much-company-i-can-take",

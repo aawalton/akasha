@@ -6,7 +6,7 @@ export const whatCriticismDoesToMe = {
   slug: "what-criticism-does-to-me",
   title: "What Criticism Does To Me",
   definition: "the alarm that fires on being found fault with, before I can think",
-  parents: ["why-people-read-as-unsafe"],
+  parents: ["all-about-alan-topic/why-people-read-as-unsafe"],
   related: [
     "all-about-alan-topic/why-a-threat-stays-fresh",
     "all-about-alan-topic/how-an-alarm-wears-off",

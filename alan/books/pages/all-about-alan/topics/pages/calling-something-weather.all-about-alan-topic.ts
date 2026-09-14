@@ -6,7 +6,7 @@ export const callingSomethingWeather = {
   slug: "calling-something-weather",
   title: "Calling Something Weather",
   definition: "filing a problem as outside my reach, after which it stops pulling at me at all",
-  parents: ["how-i-know-things"],
+  parents: ["all-about-alan-topic/how-i-know-things"],
   related: [
     "all-about-alan-topic/rumination",
     "all-about-alan-topic/what-pulls-me-into-doing-something",

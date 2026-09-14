@@ -6,7 +6,7 @@ export const howIPreventACategoryOfWrong = {
   slug: "how-i-prevent-a-category-of-wrong",
   title: "How I Prevent A Category Of Wrong",
   definition: "what I do with a failure once I have seen it",
-  parents: ["the-scaffolding-i-built"],
+  parents: ["all-about-alan-topic/the-scaffolding-i-built"],
   related: [
     "all-about-alan-topic/what-the-book-of-me-is-for",
     "all-about-alan-topic/why-i-rebuilt-everything",

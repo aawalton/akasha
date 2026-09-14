@@ -6,7 +6,7 @@ export const theProofThatIAmWorthSomething = {
   slug: "the-proof-that-i-am-worth-something",
   title: "The Proof That I Am Worth Something",
   definition: "the argument I built for my own worth, and what it does not reach",
-  parents: ["building-a-definition-i-can-run-on"],
+  parents: ["all-about-alan-topic/building-a-definition-i-can-run-on"],
   related: [
     "all-about-alan-topic/the-score-i-keep-on-myself",
     "all-about-alan-topic/why-i-have-to-be-perfect",

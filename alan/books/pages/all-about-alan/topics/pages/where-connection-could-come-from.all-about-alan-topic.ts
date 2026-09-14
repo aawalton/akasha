@@ -6,7 +6,7 @@ export const whereConnectionCouldComeFrom = {
   slug: "where-connection-could-come-from",
   title: "Where Connection Could Come From",
   definition: "the whole map of directions, and which of them are actually live",
-  parents: ["how-far-behind-i-am-on-people"],
+  parents: ["all-about-alan-topic/how-far-behind-i-am-on-people"],
   related: [
     "all-about-alan-topic/what-makes-an-hour-count",
     "all-about-alan-topic/self-improvement",

@@ -7,7 +7,7 @@ export const beingAloneOnPurpose = {
   title: "Being Alone On Purpose",
   definition:
     "the try at being alone without being lonely, run as an experiment rather than a conclusion",
-  parents: ["alan"],
+  parents: ["all-about-alan-topic/alan"],
   related: [
     "all-about-alan-topic/being-alone-at-the-centre",
     "all-about-alan-topic/why-i-have-to-be-perfect",

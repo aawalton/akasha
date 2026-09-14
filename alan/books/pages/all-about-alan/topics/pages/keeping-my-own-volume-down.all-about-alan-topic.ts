@@ -6,7 +6,7 @@ export const keepingMyOwnVolumeDown = {
   slug: "keeping-my-own-volume-down",
   title: "Keeping My Own Volume Down",
   definition: "showing little on the outside so the room does not send it back louder",
-  parents: ["what-calms-me-down"],
+  parents: ["all-about-alan-topic/what-calms-me-down"],
   related: [
     "all-about-alan-topic/how-i-keep-sound-down",
     "all-about-alan-topic/how-much-company-i-can-take",

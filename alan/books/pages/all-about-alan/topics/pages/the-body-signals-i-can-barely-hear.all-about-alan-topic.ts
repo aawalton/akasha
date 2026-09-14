@@ -6,7 +6,7 @@ export const theBodySignalsICanBarelyHear = {
   slug: "the-body-signals-i-can-barely-hear",
   title: "The Body Signals I Can Barely Hear",
   definition: "hunger, thirst, heat and the rest arriving too quietly to insist on anything",
-  parents: ["how-i-read-myself"],
+  parents: ["all-about-alan-topic/how-i-read-myself"],
   related: [
     "all-about-alan-topic/how-much-attention-i-have",
     "all-about-alan-topic/what-calms-me-down",

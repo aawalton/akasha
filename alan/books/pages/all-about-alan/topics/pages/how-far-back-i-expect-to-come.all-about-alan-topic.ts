@@ -6,7 +6,7 @@ export const howFarBackIExpectToCome = {
   slug: "how-far-back-i-expect-to-come",
   title: "How Far Back I Expect To Come",
   definition: "the shape of my recovery, and how little of it I can see ahead",
-  parents: ["the-two-decades-i-came-through"],
+  parents: ["all-about-alan-topic/the-two-decades-i-came-through"],
   related: [
     "all-about-alan-topic/how-safety-climbs",
     "all-about-alan-topic/what-i-cannot-play-forward",

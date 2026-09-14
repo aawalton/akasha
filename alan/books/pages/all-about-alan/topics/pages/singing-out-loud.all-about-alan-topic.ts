@@ -6,7 +6,7 @@ export const singingOutLoud = {
   slug: "singing-out-loud",
   title: "Singing Out Loud",
   definition: "what it takes for me to sing, and the mark left on it",
-  parents: ["why-making-things-hurts"],
+  parents: ["all-about-alan-topic/why-making-things-hurts"],
   related: [
     "all-about-alan-topic/where-i-stand-like-a-woman-does",
     "all-about-alan-topic/how-safety-climbs",

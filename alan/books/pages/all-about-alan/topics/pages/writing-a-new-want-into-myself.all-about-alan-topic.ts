@@ -6,7 +6,7 @@ export const writingANewWantIntoMyself = {
   slug: "writing-a-new-want-into-myself",
   title: "Writing A New Want Into Myself",
   definition: "the wants I install in myself, as against the ones that came with me",
-  parents: ["how-a-want-fires"],
+  parents: ["all-about-alan-topic/how-a-want-fires"],
   related: [
     "all-about-alan-topic/building-my-wants-into-the-room",
     "all-about-alan-topic/what-i-cannot-play-forward",

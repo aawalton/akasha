@@ -6,7 +6,7 @@ export const howASongReachesMe = {
   slug: "how-a-song-reaches-me",
   title: "How A Song Reaches Me",
   definition: "music as the one thing that gets a feeling to the surface, and how it gets in",
-  parents: ["alan"],
+  parents: ["all-about-alan-topic/alan"],
   related: [
     "all-about-alan-topic/letting-a-feeling-in-through-a-story",
     "all-about-alan-topic/being-known",

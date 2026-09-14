@@ -6,7 +6,7 @@ export const howFarBehindIAmOnPeople = {
   slug: "how-far-behind-i-am-on-people",
   title: "How Far Behind I Am On People",
   definition: "connection as a debt I carry rather than a tank I refill",
-  parents: ["resources"],
+  parents: ["all-about-alan-topic/resources"],
   related: [
     "all-about-alan-topic/how-much-company-i-can-take",
     "all-about-alan-topic/being-alone-on-purpose",

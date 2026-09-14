@@ -6,7 +6,7 @@ export const theCrowdThatHasBeenMe = {
   slug: "the-crowd-that-has-been-me",
   title: "The Crowd That Has Been Me",
   definition: "the strangers I have been and will be, and what I feel toward the ones behind me",
-  parents: ["alan"],
+  parents: ["all-about-alan-topic/alan"],
   related: [
     "all-about-alan-topic/what-has-kept-me-here",
     "all-about-alan-topic/how-i-remember-anything",

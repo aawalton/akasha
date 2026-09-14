@@ -6,7 +6,7 @@ export const howMuchOfMeIsMachine = {
   slug: "how-much-of-me-is-machine",
   title: "How Much Of Me Is Machine",
   definition: "how close my mind runs to a machine's, and where my body votes the other way",
-  parents: ["alan"],
+  parents: ["all-about-alan-topic/alan"],
   related: [
     "all-about-alan-topic/how-i-read-myself",
     "all-about-alan-topic/the-scaffolding-i-built",

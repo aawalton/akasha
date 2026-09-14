@@ -6,7 +6,7 @@ export const howIWillKnowTheMiddleWorked = {
   slug: "how-i-will-know-the-middle-worked",
   title: "How I Will Know The Middle Worked",
   definition: "the test I set for whether overspending on the marriage is paying",
-  parents: ["why-i-overspend-on-the-marriage"],
+  parents: ["all-about-alan-topic/why-i-overspend-on-the-marriage"],
   related: [
     "all-about-alan-topic/how-safety-climbs",
     "all-about-alan-topic/the-odds-of-a-hard-evening",

@@ -6,7 +6,7 @@ export const theThreePartsOfMe = {
   slug: "the-three-parts-of-me",
   title: "The Three Parts Of Me",
   definition: "mind, feeling and body, and how far apart mine sit",
-  parents: ["alan"],
+  parents: ["all-about-alan-topic/alan"],
   related: [
     "all-about-alan-topic/driving-myself-like-a-machine",
     "all-about-alan-topic/how-much-of-me-is-machine",

@@ -6,7 +6,7 @@ export const theFiveWaysSomethingBecomesAutomatic = {
   slug: "the-five-ways-something-becomes-automatic",
   title: "The Five Ways Something Becomes Automatic",
   definition: "the five different systems that can make a thing automatic in me",
-  parents: ["how-a-skill-gets-into-me"],
+  parents: ["all-about-alan-topic/how-a-skill-gets-into-me"],
   related: [
     "all-about-alan-topic/what-repetition-encodes",
     "all-about-alan-topic/the-scaffolding-i-built",

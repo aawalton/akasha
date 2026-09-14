@@ -7,7 +7,7 @@ export const gettingBackToMakingWithMyHands = {
   title: "Getting Back To Making With My Hands",
   definition:
     "the ways back into making things by hand, and why none of them has any data behind it",
-  parents: ["where-the-scar-ends"],
+  parents: ["all-about-alan-topic/where-the-scar-ends"],
   related: [
     "all-about-alan-topic/playing-again",
     "all-about-alan-topic/what-a-persona-makes-cheaper",

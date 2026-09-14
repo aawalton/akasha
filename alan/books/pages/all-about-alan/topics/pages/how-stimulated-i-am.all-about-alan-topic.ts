@@ -6,7 +6,7 @@ export const howStimulatedIAm = {
   slug: "how-stimulated-i-am",
   title: "How Stimulated I Am",
   definition: "how wound up or how flat I am, which I keep in a band by hand",
-  parents: ["resources"],
+  parents: ["all-about-alan-topic/resources"],
   related: [
     "all-about-alan-topic/what-calms-me-down",
     "all-about-alan-topic/how-i-watch-my-agents",

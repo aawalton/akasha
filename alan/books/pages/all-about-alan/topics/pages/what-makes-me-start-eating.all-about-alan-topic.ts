@@ -6,7 +6,7 @@ export const whatMakesMeStartEating = {
   slug: "what-makes-me-start-eating",
   title: "What Makes Me Start Eating",
   definition: "the trigger I built to stand in for a hunger signal that does not arrive",
-  parents: ["how-i-eat"],
+  parents: ["all-about-alan-topic/how-i-eat"],
   related: [
     "all-about-alan-topic/the-coloured-circles-i-run-on",
     "all-about-alan-topic/the-repeating-i-do-to-settle",

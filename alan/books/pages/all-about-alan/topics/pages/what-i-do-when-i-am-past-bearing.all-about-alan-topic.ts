@@ -6,7 +6,7 @@ export const whatIDoWhenIAmPastBearing = {
   slug: "what-i-do-when-i-am-past-bearing",
   title: "What I Do When I Am Past Bearing",
   definition: "the five things my body does once the load goes past what it can carry",
-  parents: ["safety-bar"],
+  parents: ["all-about-alan-topic/safety-bar"],
   related: [
     "all-about-alan-topic/after-something-alarms-me",
     "all-about-alan-topic/where-safety-has-got-to",

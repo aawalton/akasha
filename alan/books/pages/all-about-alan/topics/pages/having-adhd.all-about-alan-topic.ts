@@ -6,7 +6,7 @@ export const havingAdhd = {
   slug: "having-adhd",
   title: "Having ADHD",
   definition: "the ADHD half of how I am built, what it costs and what it gives",
-  parents: ["alan"],
+  parents: ["all-about-alan-topic/alan"],
   related: [
     "all-about-alan-topic/how-my-attention-works",
     "all-about-alan-topic/how-i-get-anything-done",

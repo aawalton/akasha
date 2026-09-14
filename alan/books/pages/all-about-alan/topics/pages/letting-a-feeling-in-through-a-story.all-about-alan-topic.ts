@@ -6,7 +6,7 @@ export const lettingAFeelingInThroughAStory = {
   slug: "letting-a-feeling-in-through-a-story",
   title: "Letting A Feeling In Through A Story",
   definition: "cheap fiction as the safe place a backlog of suppressed feeling gets let in",
-  parents: ["alan"],
+  parents: ["all-about-alan-topic/alan"],
   related: [
     "all-about-alan-topic/the-stories-that-buy-me-a-day",
     "all-about-alan-topic/reading-a-feeling-off-my-behaviour",

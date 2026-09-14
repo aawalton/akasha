@@ -6,6 +6,6 @@ export const healthBar = {
   slug: "health-bar",
   title: "Health Bar",
   definition: "the stress my body can carry",
-  parents: ["resource-bars"],
+  parents: ["all-about-alan-topic/resource-bars"],
   related: ["all-about-alan-topic/stress-capacity"],
 } as const satisfies AllAboutAlanTopic

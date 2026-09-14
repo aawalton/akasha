@@ -6,7 +6,7 @@ export const whatICannotPlayForward = {
   slug: "what-i-cannot-play-forward",
   title: "What I Cannot Play Forward",
   definition: "the pre-play of what I am not inside, gated off while I am awake",
-  parents: ["alan"],
+  parents: ["all-about-alan-topic/alan"],
   related: [
     "all-about-alan-topic/how-i-remember-anything",
     "all-about-alan-topic/how-i-decide",

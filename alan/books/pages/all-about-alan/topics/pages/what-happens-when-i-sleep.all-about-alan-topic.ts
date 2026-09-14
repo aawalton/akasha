@@ -6,7 +6,7 @@ export const whatHappensWhenISleep = {
   slug: "what-happens-when-i-sleep",
   title: "What Happens When I Sleep",
   definition: "the one state where the whole machine runs, senses and feelings and all",
-  parents: ["sleep"],
+  parents: ["all-about-alan-topic/sleep"],
   related: [
     "all-about-alan-topic/how-i-read-myself",
     "all-about-alan-topic/the-pictures-at-the-edge-of-sleep",

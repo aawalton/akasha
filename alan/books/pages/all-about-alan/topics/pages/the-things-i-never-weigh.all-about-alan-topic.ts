@@ -6,7 +6,7 @@ export const theThingsINeverWeigh = {
   slug: "the-things-i-never-weigh",
   title: "The Things I Never Weigh",
   definition: "obligations filed as compulsory, so what they cost never reaches them",
-  parents: ["what-i-let-myself-take-on"],
+  parents: ["all-about-alan-topic/what-i-let-myself-take-on"],
   related: [
     "all-about-alan-topic/what-an-activity-costs-me",
     "all-about-alan-topic/calling-something-weather",

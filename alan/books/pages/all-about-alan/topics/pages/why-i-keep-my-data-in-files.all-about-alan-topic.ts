@@ -6,7 +6,7 @@ export const whyIKeepMyDataInFiles = {
   slug: "why-i-keep-my-data-in-files",
   title: "Why I Keep My Data In Files",
   definition: "why my context lives in files an agent can grep rather than in a database",
-  parents: ["the-scaffolding-i-built"],
+  parents: ["all-about-alan-topic/the-scaffolding-i-built"],
   related: [
     "all-about-alan-topic/why-i-rebuilt-everything",
     "all-about-alan-topic/what-i-gave-up-leaving-postgres",

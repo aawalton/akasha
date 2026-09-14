@@ -6,7 +6,7 @@ export const whatUnderstandingCannotReach = {
   slug: "what-understanding-cannot-reach",
   title: "What Understanding Cannot Reach",
   definition: "understanding is the only way I grow, so where it stops is where I stop",
-  parents: ["self-improvement"],
+  parents: ["all-about-alan-topic/self-improvement"],
   related: [
     "all-about-alan-topic/how-understanding-arrives",
     "all-about-alan-topic/being-alone-at-the-centre",

@@ -7,7 +7,7 @@ export const theYearsWithMyParents = {
   title: "The Years With My Parents",
   definition:
     "my father's last years and my mother's, and the whole run of it that is nowhere written down",
-  parents: ["the-chapters-of-my-life"],
+  parents: ["all-about-alan-topic/the-chapters-of-my-life"],
   related: [
     "all-about-alan-topic/what-the-book-of-me-is-for",
     "all-about-alan-topic/why-getting-close-hurts",

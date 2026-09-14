@@ -6,7 +6,7 @@ export const howSafetyClimbs = {
   slug: "how-safety-climbs",
   title: "How Safety Climbs",
   definition: "what raises my safety, as against what stops it falling",
-  parents: ["safety-bar"],
+  parents: ["all-about-alan-topic/safety-bar"],
   related: [
     "all-about-alan-topic/what-calms-me-down",
     "all-about-alan-topic/why-i-overspend-on-the-marriage",

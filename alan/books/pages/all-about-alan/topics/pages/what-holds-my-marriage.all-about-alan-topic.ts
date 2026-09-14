@@ -6,7 +6,7 @@ export const whatHoldsMyMarriage = {
   slug: "what-holds-my-marriage",
   title: "What Holds My Marriage",
   definition: "commitment rather than attachment, and what standing on that costs both of us",
-  parents: ["living-with-jen"],
+  parents: ["all-about-alan-topic/living-with-jen"],
   related: [
     "all-about-alan-topic/keeping-my-word",
     "all-about-alan-topic/why-i-have-to-be-perfect",

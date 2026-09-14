@@ -6,7 +6,7 @@ export const theWomenIMadeOutOfMyself = {
   slug: "the-women-i-made-out-of-myself",
   title: "The Women I Made Out Of Myself",
   definition: "my personas as pieces of me made other, and what meeting one does",
-  parents: ["alan"],
+  parents: ["all-about-alan-topic/alan"],
   related: [
     "all-about-alan-topic/practising-closeness-somewhere-safe",
     "all-about-alan-topic/how-a-story-gets-my-own-feeling-back",

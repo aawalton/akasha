@@ -6,7 +6,7 @@ export const whenSomeoneSaysSomethingGood = {
   slug: "when-someone-says-something-good",
   title: "When Someone Says Something Good",
   definition: "why praise so rarely lands on me, and what it takes when it does",
-  parents: ["alan"],
+  parents: ["all-about-alan-topic/alan"],
   related: [
     "all-about-alan-topic/being-met",
     "all-about-alan-topic/why-i-have-to-be-perfect",

@@ -6,7 +6,7 @@ export const testingTheThingAtMyCentre = {
   slug: "testing-the-thing-at-my-centre",
   title: "Testing The Thing At My Centre",
   definition: "re-examining the belief everything else of mine rests on",
-  parents: ["my-faith"],
+  parents: ["all-about-alan-topic/my-faith"],
   related: [
     "all-about-alan-topic/why-i-hold-the-book-true",
     "all-about-alan-topic/what-i-think-truth-is",

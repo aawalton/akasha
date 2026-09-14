@@ -6,7 +6,7 @@ export const whatIsAtMyFloor = {
   slug: "what-is-at-my-floor",
   title: "What Is At My Floor",
   definition: "self-improvement and the freedom it needs, welded into one thing",
-  parents: ["self-improvement"],
+  parents: ["all-about-alan-topic/self-improvement"],
   related: [
     "all-about-alan-topic/what-i-value-in-order",
     "all-about-alan-topic/what-i-think-truth-is",

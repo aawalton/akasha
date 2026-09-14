@@ -6,7 +6,7 @@ export const whyIHaveToBePerfect = {
   slug: "why-i-have-to-be-perfect",
   title: "Why I Have To Be Perfect",
   definition: "the belief that nothing but a clean outcome protects me, and what it has cost",
-  parents: ["alan"],
+  parents: ["all-about-alan-topic/alan"],
   related: [
     "all-about-alan-topic/why-making-things-hurts",
     "all-about-alan-topic/what-i-let-myself-take-on",

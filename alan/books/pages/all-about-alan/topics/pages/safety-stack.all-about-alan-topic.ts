@@ -6,6 +6,6 @@ export const safetyStack = {
   slug: "safety-stack",
   title: "Safety Stack",
   definition: "the layered reading of what I can handle",
-  parents: ["alan"],
+  parents: ["all-about-alan-topic/alan"],
   settled: "Each layer is built from the one below it.",
 } as const satisfies AllAboutAlanTopic

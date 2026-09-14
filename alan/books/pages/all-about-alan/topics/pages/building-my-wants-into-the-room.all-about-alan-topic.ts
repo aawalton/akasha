@@ -6,7 +6,7 @@ export const buildingMyWantsIntoTheRoom = {
   slug: "building-my-wants-into-the-room",
   title: "Building My Wants Into The Room",
   definition: "authoring what surrounds me, because only what I can see comes to mind",
-  parents: ["how-a-want-fires"],
+  parents: ["all-about-alan-topic/how-a-want-fires"],
   related: [
     "all-about-alan-topic/how-i-keep-urgency-out",
     "all-about-alan-topic/the-scaffolding-i-built",

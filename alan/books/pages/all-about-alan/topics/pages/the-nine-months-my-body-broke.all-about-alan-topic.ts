@@ -6,7 +6,7 @@ export const theNineMonthsMyBodyBroke = {
   slug: "the-nine-months-my-body-broke",
   title: "The Nine Months My Body Broke",
   definition: "the mission where my body started shaking and I overrode it",
-  parents: ["the-two-decades-i-came-through"],
+  parents: ["all-about-alan-topic/the-two-decades-i-came-through"],
   related: [
     "all-about-alan-topic/what-wears-my-body-down",
     "all-about-alan-topic/how-i-actually-breathe",

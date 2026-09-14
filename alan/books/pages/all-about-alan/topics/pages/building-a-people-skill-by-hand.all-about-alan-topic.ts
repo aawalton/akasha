@@ -7,7 +7,7 @@ export const buildingAPeopleSkillByHand = {
   title: "Building A People Skill By Hand",
   definition:
     "understanding a social skill well enough to run it as a procedure, then drilling it under thought",
-  parents: ["how-a-skill-gets-into-me"],
+  parents: ["all-about-alan-topic/how-a-skill-gets-into-me"],
   related: [
     "all-about-alan-topic/practising-closeness-somewhere-safe",
     "all-about-alan-topic/driving-myself-like-a-machine",

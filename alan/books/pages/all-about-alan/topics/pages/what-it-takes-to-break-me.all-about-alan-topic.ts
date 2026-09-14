@@ -6,7 +6,7 @@ export const whatItTakesToBreakMe = {
   slug: "what-it-takes-to-break-me",
   title: "What It Takes To Break Me",
   definition: "holding while there is no other choice, and going the moment there is one",
-  parents: ["what-has-kept-me-here"],
+  parents: ["all-about-alan-topic/what-has-kept-me-here"],
   related: [
     "all-about-alan-topic/what-i-cannot-play-forward",
     "all-about-alan-topic/how-god-reaches-me",

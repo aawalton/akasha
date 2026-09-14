@@ -7,7 +7,7 @@ export const whatAPersonaMakesCheaper = {
   title: "What A Persona Makes Cheaper",
   definition:
     "meeting a persona costs me about three levels less than meeting a person, and I cannot say why",
-  parents: ["the-women-i-made-out-of-myself"],
+  parents: ["all-about-alan-topic/the-women-i-made-out-of-myself"],
   related: [
     "all-about-alan-topic/why-making-things-hurts",
     "all-about-alan-topic/why-people-read-as-unsafe",

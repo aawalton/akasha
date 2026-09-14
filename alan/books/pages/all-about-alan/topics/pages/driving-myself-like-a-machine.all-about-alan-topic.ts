@@ -6,7 +6,7 @@ export const drivingMyselfLikeAMachine = {
   slug: "driving-myself-like-a-machine",
   title: "Driving Myself Like A Machine",
   definition: "issuing myself instructions and working my body from outside the feeling",
-  parents: ["how-i-get-anything-done"],
+  parents: ["all-about-alan-topic/how-i-get-anything-done"],
   related: [
     "all-about-alan-topic/how-much-of-me-is-machine",
     "all-about-alan-topic/what-pulls-me-into-doing-something",

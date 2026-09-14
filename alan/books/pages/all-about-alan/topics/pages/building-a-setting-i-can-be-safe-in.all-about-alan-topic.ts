@@ -7,7 +7,7 @@ export const buildingASettingICanBeSafeIn = {
   title: "Building A Setting I Can Be Safe In",
   definition:
     "arranging a situation so little can go wrong in it, rather than raising what I can take",
-  parents: ["how-safety-climbs"],
+  parents: ["all-about-alan-topic/how-safety-climbs"],
   related: [
     "all-about-alan-topic/practising-closeness-somewhere-safe",
     "all-about-alan-topic/who-is-safe-to-be-around",

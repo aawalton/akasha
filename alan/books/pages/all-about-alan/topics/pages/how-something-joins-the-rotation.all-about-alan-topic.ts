@@ -6,5 +6,5 @@ export const howSomethingJoinsTheRotation = {
   slug: "how-something-joins-the-rotation",
   title: "How Something Joins The Rotation",
   definition: "what gets into the set I am working through, and what leaves it",
-  parents: ["small-bites-of-many-things"],
+  parents: ["all-about-alan-topic/small-bites-of-many-things"],
 } as const satisfies AllAboutAlanTopic

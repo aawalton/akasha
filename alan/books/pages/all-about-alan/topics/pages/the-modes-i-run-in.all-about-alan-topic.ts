@@ -6,7 +6,7 @@ export const theModesIRunIn = {
   slug: "the-modes-i-run-in",
   title: "The Modes I Run In",
   definition: "the different ways I can run, and what each of them costs to hold",
-  parents: ["how-i-get-anything-done"],
+  parents: ["all-about-alan-topic/how-i-get-anything-done"],
   related: [
     "all-about-alan-topic/how-much-of-me-is-machine",
     "all-about-alan-topic/the-scaffolding-i-built",

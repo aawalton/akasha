@@ -7,7 +7,7 @@ export const theFiveRulesIGrewUpWith = {
   title: "The Five Rules I Grew Up With",
   definition:
     "the five rules I learned as a child that still fire, long after I stopped believing them",
-  parents: ["which-lever-reaches-a-response"],
+  parents: ["all-about-alan-topic/which-lever-reaches-a-response"],
   related: [
     "all-about-alan-topic/why-i-have-to-be-perfect",
     "all-about-alan-topic/rules-instead-of-a-brake",

@@ -7,7 +7,7 @@ export const whetherAnyClosenessEscapesIt = {
   title: "Whether Any Closeness Escapes It",
   definition:
     "whether a relationship can keep the damage near zero, or every one only decays more slowly",
-  parents: ["why-getting-close-hurts"],
+  parents: ["all-about-alan-topic/why-getting-close-hurts"],
   related: ["all-about-alan-topic/what-holds-my-marriage", "all-about-alan-topic/being-known"],
   settled:
     "The safe middle is the stretch where the good hours still outrun the damage.\n\nThe covenant was one attempt at it: a knower holding a map of my brain who does not injure me by correcting.",

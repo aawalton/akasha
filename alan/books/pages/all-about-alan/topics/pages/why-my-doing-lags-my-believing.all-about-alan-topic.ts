@@ -6,7 +6,7 @@ export const whyMyDoingLagsMyBelieving = {
   slug: "why-my-doing-lags-my-believing",
   title: "Why My Doing Lags My Believing",
   definition: "the only two things that can stand between what I understand and what I do",
-  parents: ["nothing-i-do-starts-with-a-decision"],
+  parents: ["all-about-alan-topic/nothing-i-do-starts-with-a-decision"],
   related: [
     "all-about-alan-topic/building-my-wants-into-the-room",
     "all-about-alan-topic/how-understanding-arrives",

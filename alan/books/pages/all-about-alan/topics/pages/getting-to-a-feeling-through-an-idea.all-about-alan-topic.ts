@@ -7,7 +7,7 @@ export const gettingToAFeelingThroughAnIdea = {
   title: "Getting To A Feeling Through An Idea",
   definition:
     "the one direction that still works, from something I have understood to something I feel",
-  parents: ["the-feeling-i-cannot-get-at"],
+  parents: ["all-about-alan-topic/the-feeling-i-cannot-get-at"],
   related: [
     "all-about-alan-topic/letting-a-feeling-in-through-a-story",
     "all-about-alan-topic/how-understanding-arrives",

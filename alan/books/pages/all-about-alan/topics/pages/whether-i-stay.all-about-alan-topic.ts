@@ -6,7 +6,7 @@ export const whetherIStay = {
   slug: "whether-i-stay",
   title: "Whether I Stay",
   definition: "the stay-or-leave question, worked as a ledger because I cannot feel my way to it",
-  parents: ["living-with-jen"],
+  parents: ["all-about-alan-topic/living-with-jen"],
   related: [
     "all-about-alan-topic/what-holds-my-marriage",
     "all-about-alan-topic/being-alone-at-the-centre",

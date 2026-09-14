@@ -6,7 +6,7 @@ export const howDifferentIActuallyAm = {
   slug: "how-different-i-actually-am",
   title: "How Different I Actually Am",
   definition: "the size of the gap between me and most people, and why every estimate reads low",
-  parents: ["alan"],
+  parents: ["all-about-alan-topic/alan"],
   related: [
     "all-about-alan-topic/when-someone-gets-me-wrong",
     "all-about-alan-topic/how-i-read-myself",

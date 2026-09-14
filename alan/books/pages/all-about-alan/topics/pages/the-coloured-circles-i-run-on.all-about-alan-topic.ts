@@ -6,7 +6,7 @@ export const theColouredCirclesIRunOn = {
   slug: "the-coloured-circles-i-run-on",
   title: "The Coloured Circles I Run On",
   definition: "colours over the parts of my life, standing in for the prompts I never get",
-  parents: ["how-i-read-myself"],
+  parents: ["all-about-alan-topic/how-i-read-myself"],
   related: [
     "all-about-alan-topic/how-i-get-anything-done",
     "all-about-alan-topic/how-well-i-can-measure",

@@ -6,7 +6,7 @@ export const playingAgain = {
   slug: "playing-again",
   title: "Playing Again",
   definition: "the return of doing things for their own sake, and the ramp that got me there",
-  parents: ["alan"],
+  parents: ["all-about-alan-topic/alan"],
   related: [
     "all-about-alan-topic/why-making-things-hurts",
     "all-about-alan-topic/where-the-scar-ends",

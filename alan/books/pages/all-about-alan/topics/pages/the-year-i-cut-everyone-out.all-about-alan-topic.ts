@@ -6,7 +6,7 @@ export const theYearICutEveryoneOut = {
   slug: "the-year-i-cut-everyone-out",
   title: "The Year I Cut Everyone Out",
   definition: "cutting company to the household and church for a year, and calling it medical",
-  parents: ["how-much-company-i-can-take"],
+  parents: ["all-about-alan-topic/how-much-company-i-can-take"],
   related: [
     "all-about-alan-topic/what-i-let-myself-take-on",
     "all-about-alan-topic/what-wears-my-body-down",

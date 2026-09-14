@@ -6,7 +6,7 @@ export const howIEat = {
   slug: "how-i-eat",
   title: "How I Eat",
   definition: "food as fuel, and why that costs me nothing",
-  parents: ["alan"],
+  parents: ["all-about-alan-topic/alan"],
   related: [
     "all-about-alan-topic/what-comes-with-it",
     "all-about-alan-topic/how-i-get-anything-done",

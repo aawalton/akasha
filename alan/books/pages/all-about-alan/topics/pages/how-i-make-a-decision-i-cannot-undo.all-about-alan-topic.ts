@@ -6,7 +6,7 @@ export const howIMakeADecisionICannotUndo = {
   slug: "how-i-make-a-decision-i-cannot-undo",
   title: "How I Make A Decision I Cannot Undo",
   definition: "building a rubric to stand in for the future I cannot pre-play",
-  parents: ["how-i-decide"],
+  parents: ["all-about-alan-topic/how-i-decide"],
   related: [
     "all-about-alan-topic/what-i-cannot-play-forward",
     "all-about-alan-topic/how-i-know-things",

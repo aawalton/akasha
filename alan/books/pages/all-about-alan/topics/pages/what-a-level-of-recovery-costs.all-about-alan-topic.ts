@@ -6,7 +6,7 @@ export const whatALevelOfRecoveryCosts = {
   slug: "what-a-level-of-recovery-costs",
   title: "What A Level Of Recovery Costs",
   definition: "the price of a rung in hours, and the fear that price leaves behind",
-  parents: ["the-ceiling-i-am-climbing-back-to"],
+  parents: ["all-about-alan-topic/the-ceiling-i-am-climbing-back-to"],
   related: [
     "all-about-alan-topic/what-is-at-my-floor",
     "all-about-alan-topic/when-something-is-fun",

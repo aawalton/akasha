@@ -6,7 +6,7 @@ export const whatMyRecordGivesMeBack = {
   slug: "what-my-record-gives-me-back",
   title: "What My Record Gives Me Back",
   definition: "what reading my own record returns to me, and what it cannot",
-  parents: ["what-i-cannot-play-forward"],
+  parents: ["all-about-alan-topic/what-i-cannot-play-forward"],
   related: [
     "all-about-alan-topic/what-the-book-of-me-is-for",
     "all-about-alan-topic/how-often-i-start-over",

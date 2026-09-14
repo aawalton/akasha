@@ -6,7 +6,7 @@ export const whatTheBookOfMeIsFor = {
   slug: "what-the-book-of-me-is-for",
   title: "What The Book Of Me Is For",
   definition: "the corpus as the what-if engine I cannot run inside my own head",
-  parents: ["what-i-cannot-play-forward"],
+  parents: ["all-about-alan-topic/what-i-cannot-play-forward"],
   related: [
     "all-about-alan-topic/the-women-i-made-out-of-myself",
     "all-about-alan-topic/how-i-know-things",

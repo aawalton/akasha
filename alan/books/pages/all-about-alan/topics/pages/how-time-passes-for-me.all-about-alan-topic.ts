@@ -6,7 +6,7 @@ export const howTimePassesForMe = {
   slug: "how-time-passes-for-me",
   title: "How Time Passes For Me",
   definition: "having no feel for how long anything took, and living at any distance the same",
-  parents: ["alan"],
+  parents: ["all-about-alan-topic/alan"],
   related: [
     "all-about-alan-topic/how-i-remember-anything",
     "all-about-alan-topic/playing-the-long-game",

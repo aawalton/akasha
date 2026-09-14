@@ -6,7 +6,7 @@ export const whatLonelinessCostsMyBody = {
   slug: "what-loneliness-costs-my-body",
   title: "What Loneliness Costs My Body",
   definition: "my working guess that being unknown is the largest thing still wearing me down",
-  parents: ["what-wears-my-body-down"],
+  parents: ["all-about-alan-topic/what-wears-my-body-down"],
   related: [
     "all-about-alan-topic/how-far-behind-i-am-on-people",
     "all-about-alan-topic/being-known",

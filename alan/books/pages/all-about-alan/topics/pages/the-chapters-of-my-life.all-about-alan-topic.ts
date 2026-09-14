@@ -6,7 +6,7 @@ export const theChaptersOfMyLife = {
   slug: "the-chapters-of-my-life",
   title: "The Chapters Of My Life",
   definition: "my life written as chapters, and how much of it is still only a title",
-  parents: ["alan"],
+  parents: ["all-about-alan-topic/alan"],
   related: [
     "all-about-alan-topic/the-best-three-years",
     "all-about-alan-topic/what-the-book-of-me-is-for",

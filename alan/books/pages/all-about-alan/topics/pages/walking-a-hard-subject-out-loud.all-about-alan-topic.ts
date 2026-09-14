@@ -6,7 +6,7 @@ export const walkingAHardSubjectOutLoud = {
   slug: "walking-a-hard-subject-out-loud",
   title: "Walking A Hard Subject Out Loud",
   definition: "talking through what still fires as the only way it wears down",
-  parents: ["why-a-threat-stays-fresh"],
+  parents: ["all-about-alan-topic/why-a-threat-stays-fresh"],
   related: [
     "all-about-alan-topic/how-an-alarm-wears-off",
     "all-about-alan-topic/what-comes-back-into-reach-as-i-climb",

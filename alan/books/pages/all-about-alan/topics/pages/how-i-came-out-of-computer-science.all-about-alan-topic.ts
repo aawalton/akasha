@@ -6,7 +6,7 @@ export const howICameOutOfComputerScience = {
   slug: "how-i-came-out-of-computer-science",
   title: "How I Came Out Of Computer Science",
   definition: "the trade I trained out of rather than into",
-  parents: ["being-an-inventor-not-a-coder"],
+  parents: ["all-about-alan-topic/being-an-inventor-not-a-coder"],
   related: [
     "all-about-alan-topic/the-code-in-my-family",
     "all-about-alan-topic/why-i-stopped-working",

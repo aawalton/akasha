@@ -6,7 +6,7 @@ export const theRepeatingIDoToSettle = {
   slug: "the-repeating-i-do-to-settle",
   title: "The Repeating I Do To Settle",
   definition: "the movements and loops I run to keep my nervous system steady",
-  parents: ["what-calms-me-down"],
+  parents: ["all-about-alan-topic/what-calms-me-down"],
   related: [
     "all-about-alan-topic/how-something-joins-the-rotation",
     "all-about-alan-topic/how-i-keep-sound-down",

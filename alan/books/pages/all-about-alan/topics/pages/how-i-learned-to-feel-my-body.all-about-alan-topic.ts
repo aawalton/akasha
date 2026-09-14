@@ -6,7 +6,7 @@ export const howILearnedToFeelMyBody = {
   slug: "how-i-learned-to-feel-my-body",
   title: "How I Learned To Feel My Body",
   definition: "building by hand the sense of where my body is that other people get for free",
-  parents: ["how-a-skill-gets-into-me"],
+  parents: ["all-about-alan-topic/how-a-skill-gets-into-me"],
   related: [
     "all-about-alan-topic/what-repetition-encodes",
     "all-about-alan-topic/how-i-actually-breathe",

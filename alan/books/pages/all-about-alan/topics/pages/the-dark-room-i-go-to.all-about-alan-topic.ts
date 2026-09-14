@@ -6,7 +6,7 @@ export const theDarkRoomIGoTo = {
   slug: "the-dark-room-i-go-to",
   title: "The Dark Room I Go To",
   definition: "the near-empty room I lie in when everything has gone past bearing",
-  parents: ["what-calms-me-down"],
+  parents: ["all-about-alan-topic/what-calms-me-down"],
   related: [
     "all-about-alan-topic/the-weighted-blanket",
     "all-about-alan-topic/how-much-attention-i-have",

@@ -6,7 +6,7 @@ export const whatOtherPeoplesKindnessDoes = {
   slug: "what-other-peoples-kindness-does",
   title: "What Other People's Kindness Does",
   definition: "the lift I get from watching anyone at all do the work of caring",
-  parents: ["the-feelings-i-can-name"],
+  parents: ["all-about-alan-topic/the-feelings-i-can-name"],
   related: [
     "all-about-alan-topic/feeling-affection",
     "all-about-alan-topic/how-a-story-gets-my-own-feeling-back",

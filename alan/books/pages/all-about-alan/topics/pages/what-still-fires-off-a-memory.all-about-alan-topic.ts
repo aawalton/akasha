@@ -6,7 +6,7 @@ export const whatStillFiresOffAMemory = {
   slug: "what-still-fires-off-a-memory",
   title: "What Still Fires Off A Memory",
   definition: "the old reflexes a remembered thing still sets off, when nothing else replays",
-  parents: ["what-i-cannot-play-forward"],
+  parents: ["all-about-alan-topic/what-i-cannot-play-forward"],
   related: ["all-about-alan-topic/the-body-signals-i-can-barely-hear"],
   settled: "A taste I cannot bring back still crinkles my face, at about a fifth of the strength.",
 } as const satisfies AllAboutAlanTopic

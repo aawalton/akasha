@@ -6,7 +6,7 @@ export const howIReadWhetherSomeoneIsSafe = {
   slug: "how-i-read-whether-someone-is-safe",
   title: "How I Read Whether Someone Is Safe",
   definition: "the signals I judge a person on, before I have decided anything",
-  parents: ["who-is-safe-to-be-around"],
+  parents: ["all-about-alan-topic/who-is-safe-to-be-around"],
   related: [
     "all-about-alan-topic/why-people-read-as-unsafe",
     "all-about-alan-topic/the-four-things-i-need-from-people",

@@ -6,7 +6,7 @@ export const theGraphIBuiltToRunMyChecks = {
   slug: "the-graph-i-built-to-run-my-checks",
   title: "The Graph I Built To Run My Checks",
   definition: "the typed graph my checks are defined on, and what made me build it",
-  parents: ["how-many-checks-i-run"],
+  parents: ["all-about-alan-topic/how-many-checks-i-run"],
   related: [
     "all-about-alan-topic/when-my-docs-are-my-code",
     "all-about-alan-topic/how-my-services-decide-to-deploy",

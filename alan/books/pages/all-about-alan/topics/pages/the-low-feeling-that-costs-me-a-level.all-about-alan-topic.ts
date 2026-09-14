@@ -7,7 +7,7 @@ export const theLowFeelingThatCostsMeALevel = {
   title: "The Low Feeling That Costs Me A Level",
   definition:
     "the down feeling that is often just how it is in there, and what it does to my numbers",
-  parents: ["safety-level"],
+  parents: ["all-about-alan-topic/safety-level"],
   related: [
     "all-about-alan-topic/where-safety-has-got-to",
     "all-about-alan-topic/what-my-record-gives-me-back",

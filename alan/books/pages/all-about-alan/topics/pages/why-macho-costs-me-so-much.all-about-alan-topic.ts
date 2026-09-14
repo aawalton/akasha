@@ -6,7 +6,7 @@ export const whyMachoCostsMeSoMuch = {
   slug: "why-macho-costs-me-so-much",
   title: "Why Macho Costs Me So Much",
   definition: "what large, loud and threatening does to me, and why it hit harder than the rest",
-  parents: ["where-i-land-on-gender"],
+  parents: ["all-about-alan-topic/where-i-land-on-gender"],
   related: [
     "all-about-alan-topic/who-is-safe-to-be-around",
     "all-about-alan-topic/what-my-senses-cost-me",

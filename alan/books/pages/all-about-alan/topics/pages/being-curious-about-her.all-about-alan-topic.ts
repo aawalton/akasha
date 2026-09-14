@@ -6,6 +6,6 @@ export const beingCuriousAboutHer = {
   slug: "being-curious-about-her",
   title: "Being Curious About Her",
   definition: "the engine runs on novelty she brings, and I cannot make my own",
-  parents: ["working-out-what-love-is"],
+  parents: ["all-about-alan-topic/working-out-what-love-is"],
   settled: "The part that would generate a question is the part that does not run.",
 } as const satisfies AllAboutAlanTopic

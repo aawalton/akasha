@@ -6,7 +6,7 @@ export const myRulesAboutOtherWomen = {
   slug: "my-rules-about-other-women",
   title: "My Rules About Other Women",
   definition: "pre-decided lines standing in for a judgment I cannot make in the moment",
-  parents: ["who-is-safe-to-be-around"],
+  parents: ["all-about-alan-topic/who-is-safe-to-be-around"],
   related: [
     "all-about-alan-topic/living-with-jen",
     "all-about-alan-topic/rules-instead-of-a-brake",

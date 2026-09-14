@@ -7,7 +7,7 @@ export const howStaleMyReadOnARelationshipGets = {
   title: "How Stale My Read On A Relationship Gets",
   definition:
     "how my read on where a relationship stands goes out of date, and which way it drifts",
-  parents: ["how-far-behind-i-am-on-people"],
+  parents: ["all-about-alan-topic/how-far-behind-i-am-on-people"],
   related: [
     "all-about-alan-topic/working-out-how-she-thinks",
     "all-about-alan-topic/how-well-i-can-measure",

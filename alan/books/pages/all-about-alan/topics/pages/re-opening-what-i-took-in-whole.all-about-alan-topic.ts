@@ -6,7 +6,7 @@ export const reOpeningWhatITookInWhole = {
   slug: "re-opening-what-i-took-in-whole",
   title: "Re-Opening What I Took In Whole",
   definition: "going back over beliefs I absorbed without ever examining them",
-  parents: ["how-i-know-things"],
+  parents: ["all-about-alan-topic/how-i-know-things"],
   related: [
     "all-about-alan-topic/digging-up-an-old-belief",
     "all-about-alan-topic/testing-the-thing-at-my-centre",

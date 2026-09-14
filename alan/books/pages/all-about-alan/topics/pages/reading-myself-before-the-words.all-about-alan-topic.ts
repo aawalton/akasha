@@ -6,7 +6,7 @@ export const readingMyselfBeforeTheWords = {
   slug: "reading-myself-before-the-words",
   title: "Reading Myself Before The Words",
   definition: "the signals I get before anything has resolved into words",
-  parents: ["how-i-know-things"],
+  parents: ["all-about-alan-topic/how-i-know-things"],
   settled:
     "A hunch points a direction with low accuracy. Dissatisfaction pushes, where dislike just sits there flat.",
 } as const satisfies AllAboutAlanTopic

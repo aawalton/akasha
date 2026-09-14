@@ -6,7 +6,7 @@ export const howASkillGetsIntoMe = {
   slug: "how-a-skill-gets-into-me",
   title: "How A Skill Gets Into Me",
   definition: "the two places a skill can land in me, and what it takes to put one there",
-  parents: ["alan"],
+  parents: ["all-about-alan-topic/alan"],
   related: [
     "all-about-alan-topic/what-repetition-encodes",
     "all-about-alan-topic/how-i-get-anything-done",

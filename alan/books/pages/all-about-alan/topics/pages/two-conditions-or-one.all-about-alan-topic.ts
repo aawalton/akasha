@@ -6,7 +6,7 @@ export const twoConditionsOrOne = {
   slug: "two-conditions-or-one",
   title: "Two Conditions Or One",
   definition: "whether autism and ADHD in me are two things or one thing showing up twice",
-  parents: ["having-adhd"],
+  parents: ["all-about-alan-topic/having-adhd"],
   related: [
     "all-about-alan-topic/how-different-i-actually-am",
     "all-about-alan-topic/how-i-get-anything-done",

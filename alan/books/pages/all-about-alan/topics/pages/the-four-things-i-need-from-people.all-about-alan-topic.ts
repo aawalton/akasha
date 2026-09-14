@@ -6,7 +6,7 @@ export const theFourThingsINeedFromPeople = {
   slug: "the-four-things-i-need-from-people",
   title: "The Four Things I Need From People",
   definition: "connection as a requirement, and the four separate tanks it splits into",
-  parents: ["how-far-behind-i-am-on-people"],
+  parents: ["all-about-alan-topic/how-far-behind-i-am-on-people"],
   related: [
     "all-about-alan-topic/being-known",
     "all-about-alan-topic/what-loneliness-costs-my-body",

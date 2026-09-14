@@ -6,7 +6,7 @@ export const keepingMySkinOffMySkin = {
   slug: "keeping-my-skin-off-my-skin",
   title: "Keeping My Skin Off My Skin",
   definition: "putting something between my own surfaces, because the touch registers twice",
-  parents: ["what-my-senses-cost-me"],
+  parents: ["all-about-alan-topic/what-my-senses-cost-me"],
   related: ["all-about-alan-topic/tight-clothes", "all-about-alan-topic/keeping-my-hands-lotioned"],
   settled:
     "Skin on skin lands on both sides at once, so the signal is delivered twice on a system already paying too much per input.\n\nAny layer breaks it. Sleeves, a shirt, trousers, socks, a pillow between the knees.\n\nLoose works as well as tight here, so swapping to loose loses the grounding and not this.\n\nPosture counts too: not clasping hands, not sitting with the knees together.",

@@ -6,7 +6,7 @@ export const theCeilingIAmClimbingBackTo = {
   slug: "the-ceiling-i-am-climbing-back-to",
   title: "The Ceiling I Am Climbing Back To",
   definition: "how much of my resilience fell, how much is back, and how much is still above me",
-  parents: ["how-far-back-i-expect-to-come"],
+  parents: ["all-about-alan-topic/how-far-back-i-expect-to-come"],
   related: [
     "all-about-alan-topic/the-two-decades-i-came-through",
     "all-about-alan-topic/when-something-is-fun",

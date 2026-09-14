@@ -7,7 +7,7 @@ export const whatMyScaffoldingBuysMe = {
   title: "What My Scaffolding Buys Me",
   definition:
     "the strengths my harness gets to a finish that my executive function could not have alone",
-  parents: ["the-scaffolding-i-built"],
+  parents: ["all-about-alan-topic/the-scaffolding-i-built"],
   related: [
     "all-about-alan-topic/how-i-get-anything-done",
     "all-about-alan-topic/how-different-i-actually-am",

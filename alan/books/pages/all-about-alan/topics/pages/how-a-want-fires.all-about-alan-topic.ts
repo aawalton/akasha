@@ -6,7 +6,7 @@ export const howAWantFires = {
   slug: "how-a-want-fires",
   title: "How A Want Fires",
   definition: "seeing a gap between how something is and how it should be, and wanting to close it",
-  parents: ["what-pulls-me-into-doing-something"],
+  parents: ["all-about-alan-topic/what-pulls-me-into-doing-something"],
   related: [
     "all-about-alan-topic/not-wanting-to-is-the-gauge",
     "all-about-alan-topic/self-improvement",

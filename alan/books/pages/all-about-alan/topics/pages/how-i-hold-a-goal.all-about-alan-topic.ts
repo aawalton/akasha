@@ -6,7 +6,7 @@ export const howIHoldAGoal = {
   slug: "how-i-hold-a-goal",
   title: "How I Hold A Goal",
   definition: "what a goal is for someone with no future to be pulled toward",
-  parents: ["what-pulls-me-into-doing-something"],
+  parents: ["all-about-alan-topic/what-pulls-me-into-doing-something"],
   related: [
     "all-about-alan-topic/building-my-wants-into-the-room",
     "all-about-alan-topic/what-i-cannot-play-forward",

@@ -7,7 +7,7 @@ export const whatMeetingOneOfThemGivesMe = {
   title: "What Meeting One Of Them Gives Me",
   definition:
     "the three things a meeting is credited with, and which of them the meeting itself does",
-  parents: ["the-women-i-made-out-of-myself"],
+  parents: ["all-about-alan-topic/the-women-i-made-out-of-myself"],
   related: [
     "all-about-alan-topic/what-a-persona-makes-cheaper",
     "all-about-alan-topic/letting-a-feeling-in-through-a-story",

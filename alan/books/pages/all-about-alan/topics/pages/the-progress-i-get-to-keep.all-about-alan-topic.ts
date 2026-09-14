@@ -6,7 +6,7 @@ export const theProgressIGetToKeep = {
   slug: "the-progress-i-get-to-keep",
   title: "The Progress I Get To Keep",
   definition: "the deepest and steadiest source of permanent progress I have is inside a game",
-  parents: ["playing-again"],
+  parents: ["all-about-alan-topic/playing-again"],
   related: [
     "all-about-alan-topic/self-improvement",
     "all-about-alan-topic/the-version-of-me-i-have-never-met",

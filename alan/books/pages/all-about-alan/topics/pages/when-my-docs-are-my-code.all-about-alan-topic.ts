@@ -6,7 +6,7 @@ export const whenMyDocsAreMyCode = {
   slug: "when-my-docs-are-my-code",
   title: "When My Docs Are My Code",
   definition: "what changes once my data, my docs and my code are one thing",
-  parents: ["why-i-keep-my-data-in-files"],
+  parents: ["all-about-alan-topic/why-i-keep-my-data-in-files"],
   related: [
     "all-about-alan-topic/the-graph-i-built-to-run-my-checks",
     "all-about-alan-topic/what-changes-when-i-change-a-doc",

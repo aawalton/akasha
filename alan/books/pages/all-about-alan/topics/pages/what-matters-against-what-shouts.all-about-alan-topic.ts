@@ -6,7 +6,7 @@ export const whatMattersAgainstWhatShouts = {
   slug: "what-matters-against-what-shouts",
   title: "What Matters Against What Shouts",
   definition: "steering by how much a thing moves my life rather than how loudly it pulls",
-  parents: ["how-i-decide"],
+  parents: ["all-about-alan-topic/how-i-decide"],
   related: [
     "all-about-alan-topic/how-i-keep-urgency-out",
     "all-about-alan-topic/small-bites-of-many-things",

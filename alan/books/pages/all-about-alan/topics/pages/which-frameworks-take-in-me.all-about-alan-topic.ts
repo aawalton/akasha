@@ -6,7 +6,7 @@ export const whichFrameworksTakeInMe = {
   slug: "which-frameworks-take-in-me",
   title: "Which Frameworks Take In Me",
   definition: "why some ways of working install in a single read and others I fight and never keep",
-  parents: ["the-scaffolding-i-built"],
+  parents: ["all-about-alan-topic/the-scaffolding-i-built"],
   related: [
     "all-about-alan-topic/how-a-skill-gets-into-me",
     "all-about-alan-topic/which-lever-reaches-a-response",

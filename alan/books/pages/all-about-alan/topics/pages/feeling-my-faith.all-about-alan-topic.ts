@@ -6,7 +6,7 @@ export const feelingMyFaith = {
   slug: "feeling-my-faith",
   title: "Feeling My Faith",
   definition: "the devotional side I once had, and lost the live read of around twenty",
-  parents: ["my-faith"],
+  parents: ["all-about-alan-topic/my-faith"],
   related: [
     "all-about-alan-topic/where-safety-has-got-to",
     "all-about-alan-topic/how-i-remember-anything",

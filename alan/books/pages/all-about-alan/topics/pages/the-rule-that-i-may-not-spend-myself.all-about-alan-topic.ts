@@ -6,7 +6,7 @@ export const theRuleThatIMayNotSpendMyself = {
   slug: "the-rule-that-i-may-not-spend-myself",
   title: "The Rule That I May Not Spend Myself",
   definition: "the hard rule standing in for a sense of self-preservation I do not have",
-  parents: ["what-has-kept-me-here"],
+  parents: ["all-about-alan-topic/what-has-kept-me-here"],
   related: [
     "all-about-alan-topic/where-my-ethics-meets-my-rules",
     "all-about-alan-topic/what-i-let-myself-take-on",

@@ -6,7 +6,7 @@ export const theFeelingICannotGetAt = {
   slug: "the-feeling-i-cannot-get-at",
   title: "The Feeling I Cannot Get At",
   definition: "emotion running underneath while almost none of it reaches me",
-  parents: ["how-i-read-myself"],
+  parents: ["all-about-alan-topic/how-i-read-myself"],
   related: [
     "all-about-alan-topic/letting-a-feeling-in-through-a-story",
     "all-about-alan-topic/reading-a-feeling-off-my-behaviour",

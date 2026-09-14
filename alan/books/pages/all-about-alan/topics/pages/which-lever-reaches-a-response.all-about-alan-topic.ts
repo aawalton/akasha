@@ -6,7 +6,7 @@ export const whichLeverReachesAResponse = {
   slug: "which-lever-reaches-a-response",
   title: "Which Lever Reaches A Response",
   definition: "the two kinds of learned response in me, and which remedy fits which",
-  parents: ["nothing-i-do-starts-with-a-decision"],
+  parents: ["all-about-alan-topic/nothing-i-do-starts-with-a-decision"],
   related: [
     "all-about-alan-topic/what-criticism-does-to-me",
     "all-about-alan-topic/digging-up-an-old-belief",

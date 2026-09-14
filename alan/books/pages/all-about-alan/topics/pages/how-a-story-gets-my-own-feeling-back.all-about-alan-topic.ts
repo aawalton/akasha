@@ -6,7 +6,7 @@ export const howAStoryGetsMyOwnFeelingBack = {
   slug: "how-a-story-gets-my-own-feeling-back",
   title: "How A Story Gets My Own Feeling Back",
   definition: "a story as the outside key to feelings of mine I cannot reach on my own",
-  parents: ["alan"],
+  parents: ["all-about-alan-topic/alan"],
   related: [
     "all-about-alan-topic/letting-a-feeling-in-through-a-story",
     "all-about-alan-topic/how-a-song-reaches-me",

@@ -6,7 +6,7 @@ export const whatDrawsMeToSomeone = {
   slug: "what-draws-me-to-someone",
   title: "What Draws Me To Someone",
   definition: "what makes someone attractive to me, and why it is not the softest face",
-  parents: ["alan"],
+  parents: ["all-about-alan-topic/alan"],
   related: [
     "all-about-alan-topic/sex",
     "all-about-alan-topic/arousal-times-safety",

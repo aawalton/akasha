@@ -6,5 +6,5 @@ export const reachingOutToKerry = {
   slug: "reaching-out-to-kerry",
   title: "Reaching Out To Kerry",
   definition: "someone from before I have thought about contacting again",
-  parents: ["being-alone-at-the-centre"],
+  parents: ["all-about-alan-topic/being-alone-at-the-centre"],
 } as const satisfies AllAboutAlanTopic

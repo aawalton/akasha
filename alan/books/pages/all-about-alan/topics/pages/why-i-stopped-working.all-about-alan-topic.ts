@@ -6,7 +6,7 @@ export const whyIStoppedWorking = {
   slug: "why-i-stopped-working",
   title: "Why I Stopped Working",
   definition: "the cost of having a job, and what stopping actually bought",
-  parents: ["the-money-we-are-living-on"],
+  parents: ["all-about-alan-topic/the-money-we-are-living-on"],
   related: [
     "all-about-alan-topic/what-i-let-myself-take-on",
     "all-about-alan-topic/the-things-i-never-weigh",

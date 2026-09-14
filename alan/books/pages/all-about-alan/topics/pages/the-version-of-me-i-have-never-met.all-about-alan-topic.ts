@@ -6,7 +6,7 @@ export const theVersionOfMeIHaveNeverMet = {
   slug: "the-version-of-me-i-have-never-met",
   title: "The Version Of Me I Have Never Met",
   definition: "my highest self, reachable only at one remove",
-  parents: ["the-ceiling-i-am-climbing-back-to"],
+  parents: ["all-about-alan-topic/the-ceiling-i-am-climbing-back-to"],
   related: [
     "all-about-alan-topic/what-i-cannot-play-forward",
     "all-about-alan-topic/when-something-is-fun",

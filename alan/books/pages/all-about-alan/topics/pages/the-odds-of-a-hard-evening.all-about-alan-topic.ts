@@ -6,7 +6,7 @@ export const theOddsOfAHardEvening = {
   slug: "the-odds-of-a-hard-evening",
   title: "The Odds Of A Hard Evening",
   definition: "how often time with Jen comes in hard, and why I cannot feel the odds",
-  parents: ["what-makes-a-person-expensive"],
+  parents: ["all-about-alan-topic/what-makes-a-person-expensive"],
   related: [
     "all-about-alan-topic/why-i-overspend-on-the-marriage",
     "all-about-alan-topic/why-people-read-as-unsafe",

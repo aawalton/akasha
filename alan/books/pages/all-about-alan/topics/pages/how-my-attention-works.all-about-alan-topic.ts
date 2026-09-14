@@ -6,5 +6,5 @@ export const howMyAttentionWorks = {
   slug: "how-my-attention-works",
   title: "How My Attention Works",
   definition: "where my attention goes, what holds it, and what it does when I leave it alone",
-  parents: ["alan"],
+  parents: ["all-about-alan-topic/alan"],
 } as const satisfies AllAboutAlanTopic

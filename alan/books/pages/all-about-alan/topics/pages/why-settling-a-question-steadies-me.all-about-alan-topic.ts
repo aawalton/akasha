@@ -6,7 +6,7 @@ export const whySettlingAQuestionSteadiesMe = {
   slug: "why-settling-a-question-steadies-me",
   title: "Why Settling A Question Steadies Me",
   definition: "how settling a foundational question takes weight off my nervous system",
-  parents: ["how-safety-climbs"],
+  parents: ["all-about-alan-topic/how-safety-climbs"],
   related: [
     "all-about-alan-topic/what-i-think-truth-is",
     "all-about-alan-topic/how-understanding-arrives",

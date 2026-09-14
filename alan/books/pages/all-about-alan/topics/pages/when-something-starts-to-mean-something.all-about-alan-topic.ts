@@ -6,7 +6,7 @@ export const whenSomethingStartsToMeanSomething = {
   slug: "when-something-starts-to-mean-something",
   title: "When Something Starts To Mean Something",
   definition: "meaning arriving when a mechanism comes clear rather than when a thing completes",
-  parents: ["how-understanding-arrives"],
+  parents: ["all-about-alan-topic/how-understanding-arrives"],
   related: [
     "all-about-alan-topic/what-makes-an-hour-count",
     "all-about-alan-topic/what-i-cannot-play-forward",

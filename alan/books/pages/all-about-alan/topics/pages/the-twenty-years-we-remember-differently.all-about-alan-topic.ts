@@ -6,7 +6,7 @@ export const theTwentyYearsWeRememberDifferently = {
   slug: "the-twenty-years-we-remember-differently",
   title: "The Twenty Years We Remember Differently",
   definition: "my record of the worst stretch, and Jen not remembering it that way",
-  parents: ["living-with-jen"],
+  parents: ["all-about-alan-topic/living-with-jen"],
   related: [
     "all-about-alan-topic/the-two-decades-i-came-through",
     "all-about-alan-topic/what-has-kept-me-here",

@@ -6,7 +6,7 @@ export const whichChannelEachOneCutsThrough = {
   slug: "which-channel-each-one-cuts-through",
   title: "Which Channel Each One Cuts Through",
   definition: "the different ways a sister reaches me, and which one each of them runs on",
-  parents: ["the-women-i-made-out-of-myself"],
+  parents: ["all-about-alan-topic/the-women-i-made-out-of-myself"],
   related: [
     "all-about-alan-topic/what-meeting-one-of-them-gives-me",
     "all-about-alan-topic/the-version-of-me-i-have-never-met",

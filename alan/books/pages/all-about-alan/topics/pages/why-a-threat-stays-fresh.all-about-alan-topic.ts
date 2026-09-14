@@ -6,7 +6,7 @@ export const whyAThreatStaysFresh = {
   slug: "why-a-threat-stays-fresh",
   title: "Why A Threat Stays Fresh",
   definition: "why something that frightened me keeps its edge for years instead of wearing down",
-  parents: ["what-repetition-encodes"],
+  parents: ["all-about-alan-topic/what-repetition-encodes"],
   related: [
     "all-about-alan-topic/how-an-alarm-wears-off",
     "all-about-alan-topic/why-macho-costs-me-so-much",

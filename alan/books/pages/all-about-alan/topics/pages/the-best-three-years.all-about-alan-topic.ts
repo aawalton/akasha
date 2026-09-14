@@ -6,7 +6,7 @@ export const theBestThreeYears = {
   slug: "the-best-three-years",
   title: "The Best Three Years",
   definition: "college at sixteen, run at maximum autonomy, and why I rate it highest",
-  parents: ["alan"],
+  parents: ["all-about-alan-topic/alan"],
   related: [
     "all-about-alan-topic/playing-the-long-game",
     "all-about-alan-topic/where-safety-has-got-to",

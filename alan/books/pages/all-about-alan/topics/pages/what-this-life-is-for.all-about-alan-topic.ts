@@ -6,7 +6,7 @@ export const whatThisLifeIsFor = {
   slug: "what-this-life-is-for",
   title: "What This Life Is For",
   definition: "life as a test run down every branch, and what the test is measuring",
-  parents: ["my-faith"],
+  parents: ["all-about-alan-topic/my-faith"],
   related: [
     "all-about-alan-topic/what-i-think-truth-is",
     "all-about-alan-topic/testing-the-thing-at-my-centre",

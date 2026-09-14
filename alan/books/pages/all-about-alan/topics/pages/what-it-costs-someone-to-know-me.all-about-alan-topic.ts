@@ -6,7 +6,7 @@ export const whatItCostsSomeoneToKnowMe = {
   slug: "what-it-costs-someone-to-know-me",
   title: "What It Costs Someone To Know Me",
   definition: "the work another person does to have a current model of me",
-  parents: ["being-known"],
+  parents: ["all-about-alan-topic/being-known"],
   related: [
     "all-about-alan-topic/how-a-hard-talk-with-jen-gets-safer",
     "all-about-alan-topic/what-the-channel-has-to-carry",

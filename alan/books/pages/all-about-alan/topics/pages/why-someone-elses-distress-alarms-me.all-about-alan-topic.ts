@@ -6,7 +6,7 @@ export const whySomeoneElsesDistressAlarmsMe = {
   slug: "why-someone-elses-distress-alarms-me",
   title: "Why Someone Else's Distress Alarms Me",
   definition: "what fires in me when someone near me is hurting, and what it is actually about",
-  parents: ["when-she-is-in-pain"],
+  parents: ["all-about-alan-topic/when-she-is-in-pain"],
   related: [
     "all-about-alan-topic/what-criticism-does-to-me",
     "all-about-alan-topic/which-lever-reaches-a-response",

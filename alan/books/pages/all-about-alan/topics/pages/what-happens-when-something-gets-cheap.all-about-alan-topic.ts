@@ -6,7 +6,7 @@ export const whatHappensWhenSomethingGetsCheap = {
   slug: "what-happens-when-something-gets-cheap",
   title: "What Happens When Something Gets Cheap",
   definition: "the move behind every system I built this year",
-  parents: ["the-scaffolding-i-built"],
+  parents: ["all-about-alan-topic/the-scaffolding-i-built"],
   related: [
     "all-about-alan-topic/why-i-rebuilt-everything",
     "all-about-alan-topic/how-many-checks-i-run",

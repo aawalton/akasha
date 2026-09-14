@@ -6,7 +6,7 @@ export const theThreeSecondsIAm = {
   slug: "the-three-seconds-i-am",
   title: "The Three Seconds I Am",
   definition: "my sense of being one person, only seconds wide and chained rather than felt",
-  parents: ["the-crowd-that-has-been-me"],
+  parents: ["all-about-alan-topic/the-crowd-that-has-been-me"],
   related: [
     "all-about-alan-topic/how-i-remember-anything",
     "all-about-alan-topic/the-scaffolding-i-built",

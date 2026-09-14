@@ -6,7 +6,7 @@ export const whyIKeepHardTruthsBack = {
   slug: "why-i-keep-hard-truths-back",
   title: "Why I Keep Hard Truths Back",
   definition: "a rule against saying what would hurt, and why it only ever tightens",
-  parents: ["alan"],
+  parents: ["all-about-alan-topic/alan"],
   related: [
     "all-about-alan-topic/living-with-jen",
     "all-about-alan-topic/why-a-threat-stays-fresh",

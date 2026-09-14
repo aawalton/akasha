@@ -6,7 +6,7 @@ export const whyTheGoingHasToBeThePoint = {
   slug: "why-the-going-has-to-be-the-point",
   title: "Why The Going Has To Be The Point",
   definition: "why a long piece of work only works if the going itself is worth being in",
-  parents: ["the-crowd-that-has-been-me"],
+  parents: ["all-about-alan-topic/the-crowd-that-has-been-me"],
   related: [
     "all-about-alan-topic/not-wanting-to-is-the-gauge",
     "all-about-alan-topic/what-makes-an-hour-count",

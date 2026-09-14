@@ -6,7 +6,7 @@ export const whyPeopleReadAsUnsafe = {
   slug: "why-people-read-as-unsafe",
   title: "Why People Read As Unsafe",
   definition: "the childhood setting that makes people dangerous before any evidence arrives",
-  parents: ["alan"],
+  parents: ["all-about-alan-topic/alan"],
   related: [
     "all-about-alan-topic/who-is-safe-to-be-around",
     "all-about-alan-topic/why-i-have-to-be-perfect",

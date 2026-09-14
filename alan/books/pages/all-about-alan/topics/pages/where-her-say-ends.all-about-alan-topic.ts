@@ -6,7 +6,7 @@ export const whereHerSayEnds = {
   slug: "where-her-say-ends",
   title: "Where Her Say Ends",
   definition: "the line around choices that are mine alone",
-  parents: ["living-with-jen"],
+  parents: ["all-about-alan-topic/living-with-jen"],
   settled:
     "We both agree the line exists and neither of us has drawn it. My reading of it is too narrow and hers too broad.",
 } as const satisfies AllAboutAlanTopic

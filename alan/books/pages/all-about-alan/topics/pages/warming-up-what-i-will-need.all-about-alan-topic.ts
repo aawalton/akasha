@@ -6,7 +6,7 @@ export const warmingUpWhatIWillNeed = {
   slug: "warming-up-what-i-will-need",
   title: "Warming Up What I Will Need",
   definition: "loading the ideas beforehand so they are cheap to reach when the moment comes",
-  parents: ["how-i-remember-anything"],
+  parents: ["all-about-alan-topic/how-i-remember-anything"],
   related: [
     "all-about-alan-topic/how-a-skill-gets-into-me",
     "all-about-alan-topic/what-holds-my-marriage",

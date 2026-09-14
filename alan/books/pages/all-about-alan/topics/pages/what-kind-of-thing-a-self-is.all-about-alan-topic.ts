@@ -6,7 +6,7 @@ export const whatKindOfThingASelfIs = {
   slug: "what-kind-of-thing-a-self-is",
   title: "What Kind Of Thing A Self Is",
   definition: "three selves stacked, one made of my map and two made of the relation between maps",
-  parents: ["the-crowd-that-has-been-me"],
+  parents: ["all-about-alan-topic/the-crowd-that-has-been-me"],
   related: [
     "all-about-alan-topic/the-three-seconds-i-am",
     "all-about-alan-topic/self-improvement",

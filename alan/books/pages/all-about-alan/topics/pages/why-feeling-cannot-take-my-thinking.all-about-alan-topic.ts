@@ -6,7 +6,7 @@ export const whyFeelingCannotTakeMyThinking = {
   slug: "why-feeling-cannot-take-my-thinking",
   title: "Why Feeling Cannot Take My Thinking",
   definition: "the missing wire between feeling and reasoning, and what it makes robust",
-  parents: ["the-three-parts-of-me"],
+  parents: ["all-about-alan-topic/the-three-parts-of-me"],
   related: [
     "all-about-alan-topic/what-i-think-truth-is",
     "all-about-alan-topic/what-praying-does-for-me",

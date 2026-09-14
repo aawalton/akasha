@@ -6,5 +6,5 @@ export const resources = {
   slug: "resources",
   title: "Resources",
   definition: "what I run on, and how I tell how much of each is left",
-  parents: ["alan"],
+  parents: ["all-about-alan-topic/alan"],
 } as const satisfies AllAboutAlanTopic

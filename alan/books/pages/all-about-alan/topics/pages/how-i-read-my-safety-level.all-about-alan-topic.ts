@@ -6,7 +6,7 @@ export const howIReadMySafetyLevel = {
   slug: "how-i-read-my-safety-level",
   title: "How I Read My Safety Level",
   definition: "taking the measurement, when the number is not something I can feel",
-  parents: ["safety-level"],
+  parents: ["all-about-alan-topic/safety-level"],
   related: [
     "all-about-alan-topic/reading-a-feeling-off-my-behaviour",
     "all-about-alan-topic/how-well-i-can-measure",

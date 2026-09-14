@@ -6,7 +6,10 @@ export const blankCheckModeAndRecoveryMode = {
   slug: "blank-check-mode-and-recovery-mode",
   title: "Blank Check Mode And Recovery Mode",
   definition: "the two extremes I have lived at, one paying any cost and one counting every cost",
-  parents: ["the-marriage-lever-i-cannot-read", "the-two-decades-i-came-through"],
+  parents: [
+    "all-about-alan-topic/the-marriage-lever-i-cannot-read",
+    "all-about-alan-topic/the-two-decades-i-came-through",
+  ],
   related: [
     "all-about-alan-topic/the-budget-i-run-my-days-on",
     "all-about-alan-topic/when-i-lost-who-i-was",

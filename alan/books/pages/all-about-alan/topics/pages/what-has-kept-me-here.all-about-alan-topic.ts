@@ -6,7 +6,7 @@ export const whatHasKeptMeHere = {
   slug: "what-has-kept-me-here",
   title: "What Has Kept Me Here",
   definition: "the arguments that have stopped me, and how they changed while the longing did not",
-  parents: ["alan"],
+  parents: ["all-about-alan-topic/alan"],
   related: [
     "all-about-alan-topic/what-i-do-when-i-am-past-bearing",
     "all-about-alan-topic/the-three-parts-of-me",

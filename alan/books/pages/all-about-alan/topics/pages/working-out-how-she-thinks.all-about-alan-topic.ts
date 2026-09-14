@@ -6,7 +6,7 @@ export const workingOutHowSheThinks = {
   slug: "working-out-how-she-thinks",
   title: "Working Out How She Thinks",
   definition: "I cannot simulate her, so understanding her is a map I build slowly and by hand",
-  parents: ["living-with-jen"],
+  parents: ["all-about-alan-topic/living-with-jen"],
   related: [
     "all-about-alan-topic/what-i-cannot-play-forward",
     "all-about-alan-topic/being-curious-about-her",

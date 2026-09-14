@@ -6,7 +6,7 @@ export const whyClimbingSetsOffTheFall = {
   slug: "why-climbing-sets-off-the-fall",
   title: "Why Climbing Sets Off The Fall",
   definition: "why each climb runs into something my guards do not cover",
-  parents: ["safety-bar"],
+  parents: ["all-about-alan-topic/safety-bar"],
   related: [
     "all-about-alan-topic/waiting-until-i-can-afford-people",
     "all-about-alan-topic/where-safety-has-got-to",

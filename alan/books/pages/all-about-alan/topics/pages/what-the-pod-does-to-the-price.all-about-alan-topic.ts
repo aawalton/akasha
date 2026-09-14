@@ -6,7 +6,7 @@ export const whatThePodDoesToThePrice = {
   slug: "what-the-pod-does-to-the-price",
   title: "What The Pod Does To The Price",
   definition: "what wearing the Nuropod does to what an activity costs me",
-  parents: ["what-an-activity-costs-me"],
+  parents: ["all-about-alan-topic/what-an-activity-costs-me"],
   related: ["all-about-alan-topic/the-low-feeling-that-costs-me-a-level"],
   settled:
     "The Nuropod acts as an artificial boost of one and a half levels for cost-multiplier purposes, recorded as a thing it does in social settings.",

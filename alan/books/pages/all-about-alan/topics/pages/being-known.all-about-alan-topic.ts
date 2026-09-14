@@ -6,7 +6,7 @@ export const beingKnown = {
   slug: "being-known",
   title: "Being Known",
   definition: "what it takes for someone to have an accurate model of me, and why so few can",
-  parents: ["alan"],
+  parents: ["all-about-alan-topic/alan"],
   related: [
     "all-about-alan-topic/being-met",
     "all-about-alan-topic/being-alone-at-the-centre",

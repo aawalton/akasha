@@ -7,7 +7,7 @@ export const trustingAPersonNotAnInstitution = {
   title: "Trusting A Person Not An Institution",
   definition:
     "leaning on one practitioner rather than on an institution, and what that trades away",
-  parents: ["which-organisations-i-trust"],
+  parents: ["all-about-alan-topic/which-organisations-i-trust"],
   related: [
     "all-about-alan-topic/how-i-grade-an-organisation",
     "all-about-alan-topic/when-a-company-changes-hands",

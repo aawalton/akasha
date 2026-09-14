@@ -6,7 +6,7 @@ export const whatMySensesCostMe = {
   slug: "what-my-senses-cost-me",
   title: "What My Senses Cost Me",
   definition: "what sound, light and touch take out of me",
-  parents: ["safety-bar"],
+  parents: ["all-about-alan-topic/safety-bar"],
   related: ["all-about-alan-topic/how-much-attention-i-have"],
   settled: "It moves with how safe I feel rather than staying fixed.",
 } as const satisfies AllAboutAlanTopic

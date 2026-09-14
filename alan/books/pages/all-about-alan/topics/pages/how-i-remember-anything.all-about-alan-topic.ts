@@ -7,7 +7,7 @@ export const howIRememberAnything = {
   title: "How I Remember Anything",
   definition:
     "one thing cueing the next, all the way through, with nothing stored to be called up freely",
-  parents: ["alan"],
+  parents: ["all-about-alan-topic/alan"],
   related: [
     "all-about-alan-topic/how-my-attention-works",
     "all-about-alan-topic/how-a-skill-gets-into-me",

@@ -6,7 +6,7 @@ export const whyIActFast = {
   slug: "why-i-act-fast",
   title: "Why I Act Fast",
   definition: "acting rather than watching, because doing is what buys the truth",
-  parents: ["how-i-decide"],
+  parents: ["all-about-alan-topic/how-i-decide"],
   related: [
     "all-about-alan-topic/what-i-cannot-play-forward",
     "all-about-alan-topic/rules-instead-of-a-brake",

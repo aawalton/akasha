@@ -6,7 +6,7 @@ export const theMarriageLeverICannotRead = {
   slug: "the-marriage-lever-i-cannot-read",
   title: "The Marriage Lever I Cannot Read",
   definition: "the marriage intervention on my safety, and the proxy I read it by",
-  parents: ["the-harness-around-my-safety"],
+  parents: ["all-about-alan-topic/the-harness-around-my-safety"],
   related: [
     "all-about-alan-topic/the-budget-i-run-my-days-on",
     "all-about-alan-topic/what-holds-my-marriage",

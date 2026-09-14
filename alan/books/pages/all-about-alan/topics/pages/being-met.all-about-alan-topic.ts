@@ -6,7 +6,7 @@ export const beingMet = {
   slug: "being-met",
   title: "Being Met",
   definition: "someone oriented toward me, glad that it is me",
-  parents: ["alan"],
+  parents: ["all-about-alan-topic/alan"],
   related: [
     "all-about-alan-topic/being-alone-at-the-centre",
     "all-about-alan-topic/what-draws-me-to-someone",

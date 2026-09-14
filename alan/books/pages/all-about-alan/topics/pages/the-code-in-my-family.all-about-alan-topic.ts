@@ -6,7 +6,7 @@ export const theCodeInMyFamily = {
   slug: "the-code-in-my-family",
   title: "The Code In My Family",
   definition: "the three generations of programmers I come from",
-  parents: ["alan"],
+  parents: ["all-about-alan-topic/alan"],
   related: [
     "all-about-alan-topic/the-years-with-my-parents",
     "all-about-alan-topic/being-an-inventor-not-a-coder",

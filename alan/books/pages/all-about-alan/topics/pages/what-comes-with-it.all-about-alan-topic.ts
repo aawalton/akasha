@@ -6,7 +6,7 @@ export const whatComesWithIt = {
   slug: "what-comes-with-it",
   title: "What Comes With It",
   definition: "the body-side conditions that ride along with my neurotype",
-  parents: ["alan"],
+  parents: ["all-about-alan-topic/alan"],
   related: [
     "all-about-alan-topic/resources",
     "all-about-alan-topic/how-warm-i-run",

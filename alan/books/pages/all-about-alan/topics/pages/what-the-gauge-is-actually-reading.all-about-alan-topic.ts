@@ -7,7 +7,7 @@ export const whatTheGaugeIsActuallyReading = {
   title: "What The Gauge Is Actually Reading",
   definition:
     "what my sense of wanting is a reading of, and whether its two directions are weighted right",
-  parents: ["not-wanting-to-is-the-gauge"],
+  parents: ["all-about-alan-topic/not-wanting-to-is-the-gauge"],
   related: [
     "all-about-alan-topic/how-a-want-fires",
     "all-about-alan-topic/the-body-signals-i-can-barely-hear",

@@ -6,7 +6,7 @@ export const theFeelingsICanName = {
   slug: "the-feelings-i-can-name",
   title: "The Feelings I Can Name",
   definition: "which feelings reach me reliably, which only sometimes, and why",
-  parents: ["the-feeling-i-cannot-get-at"],
+  parents: ["all-about-alan-topic/the-feeling-i-cannot-get-at"],
   related: [
     "all-about-alan-topic/reading-a-feeling-off-my-behaviour",
     "all-about-alan-topic/what-i-cannot-play-forward",

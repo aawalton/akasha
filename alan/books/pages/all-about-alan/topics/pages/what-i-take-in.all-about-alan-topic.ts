@@ -6,7 +6,7 @@ export const whatITakeIn = {
   slug: "what-i-take-in",
   title: "What I Take In",
   definition: "reading wide on purpose, because a false model only looks tidy on a narrow set",
-  parents: ["how-i-know-things"],
+  parents: ["all-about-alan-topic/how-i-know-things"],
   related: [
     "all-about-alan-topic/small-bites-of-many-things",
     "all-about-alan-topic/playing-the-long-game",

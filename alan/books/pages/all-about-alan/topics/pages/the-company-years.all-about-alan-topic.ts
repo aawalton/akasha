@@ -6,7 +6,7 @@ export const theCompanyYears = {
   slug: "the-company-years",
   title: "The Company Years",
   definition: "the years at the company, which I have called a special kind of hell",
-  parents: ["the-chapters-of-my-life"],
+  parents: ["all-about-alan-topic/the-chapters-of-my-life"],
   related: [
     "all-about-alan-topic/why-i-stopped-working",
     "all-about-alan-topic/what-i-let-myself-take-on",

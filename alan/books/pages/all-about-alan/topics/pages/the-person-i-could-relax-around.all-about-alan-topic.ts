@@ -7,7 +7,7 @@ export const thePersonICouldRelaxAround = {
   title: "The Person I Could Relax Around",
   definition:
     "the one warm, always-there person my alarm could lie down around, and what it took to have one",
-  parents: ["living-with-jen"],
+  parents: ["all-about-alan-topic/living-with-jen"],
   related: [
     "all-about-alan-topic/being-alone-at-the-centre",
     "all-about-alan-topic/what-it-costs-someone-to-know-me",

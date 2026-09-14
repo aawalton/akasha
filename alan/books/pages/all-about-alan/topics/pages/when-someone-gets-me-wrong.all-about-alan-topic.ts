@@ -6,7 +6,7 @@ export const whenSomeoneGetsMeWrong = {
   slug: "when-someone-gets-me-wrong",
   title: "When Someone Gets Me Wrong",
   definition: "the confident model of me other people build and get badly wrong",
-  parents: ["being-known"],
+  parents: ["all-about-alan-topic/being-known"],
   related: [
     "all-about-alan-topic/what-it-costs-someone-to-know-me",
     "all-about-alan-topic/how-far-behind-i-am-on-people",

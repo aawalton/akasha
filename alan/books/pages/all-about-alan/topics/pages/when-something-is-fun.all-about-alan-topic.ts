@@ -6,7 +6,7 @@ export const whenSomethingIsFun = {
   slug: "when-something-is-fun",
   title: "When Something Is Fun",
   definition: "what decides whether an activity is fun, and the two stages of it",
-  parents: ["playing-again"],
+  parents: ["all-about-alan-topic/playing-again"],
   related: [
     "all-about-alan-topic/what-i-do-when-i-am-past-bearing",
     "all-about-alan-topic/letting-a-feeling-in-through-a-story",

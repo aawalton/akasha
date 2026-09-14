@@ -6,7 +6,7 @@ export const howAHardTalkWithJenGetsSafer = {
   slug: "how-a-hard-talk-with-jen-gets-safer",
   title: "How A Hard Talk With Jen Gets Safer",
   definition: "timing a hard conversation so my body learns it is survivable",
-  parents: ["living-with-jen"],
+  parents: ["all-about-alan-topic/living-with-jen"],
   related: [
     "all-about-alan-topic/how-an-alarm-wears-off",
     "all-about-alan-topic/what-comes-back-into-reach-as-i-climb",
