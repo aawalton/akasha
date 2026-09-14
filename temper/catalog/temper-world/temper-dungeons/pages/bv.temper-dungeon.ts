@@ -6,7 +6,7 @@ export const bv = {
   slug: "bv",
   title: "Bedlam Veil",
   key: "BV",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 28,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

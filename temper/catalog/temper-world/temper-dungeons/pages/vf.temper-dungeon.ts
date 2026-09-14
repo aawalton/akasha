@@ -6,7 +6,7 @@ export const vf = {
   slug: "vf",
   title: "Volenfell",
   key: "VF",
-  questGiver: "glirion-the-redbeard",
+  questGiver: "temper-quest-giver/glirion-the-redbeard",
   rotationPosition: 10,
   soloDifficulty: "easy",
 } as const satisfies TemperDungeon

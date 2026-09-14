@@ -6,7 +6,7 @@ export const tdc = {
   slug: "tdc",
   title: "The Dread Cellar",
   key: "TDC",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 21,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

@@ -6,7 +6,7 @@ export const vm = {
   slug: "vm",
   title: "Vaults of Madness",
   key: "VM",
-  questGiver: "glirion-the-redbeard",
+  questGiver: "temper-quest-giver/glirion-the-redbeard",
   rotationPosition: 1,
   soloDifficulty: "easy",
 } as const satisfies TemperDungeon

@@ -6,7 +6,7 @@ export const ca = {
   slug: "ca",
   title: "Coral Aerie",
   key: "CA",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 22,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

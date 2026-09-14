@@ -6,7 +6,7 @@ export const mos = {
   slug: "mos",
   title: "March of Sacrifices",
   key: "MOS",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 8,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

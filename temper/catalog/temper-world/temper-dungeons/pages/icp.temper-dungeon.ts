@@ -6,7 +6,7 @@ export const icp = {
   slug: "icp",
   title: "Imperial City Prison",
   key: "ICP",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 0,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

@@ -6,7 +6,7 @@ export const ct = {
   slug: "ct",
   title: "Castle Thorn",
   key: "CT",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 16,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

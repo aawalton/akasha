@@ -6,7 +6,7 @@ export const ws1 = {
   slug: "ws1",
   title: "Wayrest Sewers I",
   key: "WS1",
-  questGiver: "maj-al-ragath",
+  questGiver: "temper-quest-giver/maj-al-ragath",
   rotationPosition: 11,
   soloDifficulty: "easy",
 } as const satisfies TemperDungeon

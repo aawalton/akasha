@@ -6,7 +6,7 @@ export const sh = {
   slug: "sh",
   title: "Scrivener's Hall",
   key: "SH",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 27,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

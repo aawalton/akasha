@@ -6,7 +6,7 @@ export const bc1 = {
   slug: "bc1",
   title: "Banished Cells I",
   key: "BC1",
-  questGiver: "maj-al-ragath",
+  questGiver: "temper-quest-giver/maj-al-ragath",
   rotationPosition: 1,
   soloDifficulty: "easy",
 } as const satisfies TemperDungeon

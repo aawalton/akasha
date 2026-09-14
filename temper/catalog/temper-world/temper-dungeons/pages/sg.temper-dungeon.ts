@@ -6,7 +6,7 @@ export const sg = {
   slug: "sg",
   title: "Stone Garden",
   key: "SG",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 17,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

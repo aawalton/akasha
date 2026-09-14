@@ -6,7 +6,7 @@ export const fh = {
   slug: "fh",
   title: "Falkreath Hold",
   key: "FH",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 5,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

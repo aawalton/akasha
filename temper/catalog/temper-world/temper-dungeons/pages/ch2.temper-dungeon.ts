@@ -6,7 +6,7 @@ export const ch2 = {
   slug: "ch2",
   title: "Crypt of Hearts II",
   key: "CH2",
-  questGiver: "glirion-the-redbeard",
+  questGiver: "temper-quest-giver/glirion-the-redbeard",
   rotationPosition: 2,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

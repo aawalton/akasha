@@ -6,7 +6,7 @@ export const wgt = {
   slug: "wgt",
   title: "White-Gold Tower",
   key: "WGT",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 1,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

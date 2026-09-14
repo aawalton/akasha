@@ -6,7 +6,7 @@ export const ere = {
   slug: "ere",
   title: "Earthen Root Enclave",
   key: "ERE",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 24,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

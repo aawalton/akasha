@@ -6,7 +6,7 @@ export const dk = {
   slug: "dk",
   title: "Direfrost Keep",
   key: "DK",
-  questGiver: "glirion-the-redbeard",
+  questGiver: "temper-quest-giver/glirion-the-redbeard",
   rotationPosition: 0,
   soloDifficulty: "easy",
 } as const satisfies TemperDungeon

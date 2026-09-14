@@ -6,7 +6,7 @@ export const rm = {
   slug: "rm",
   title: "Ruins of Mazzatun",
   key: "RM",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 3,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

@@ -6,7 +6,7 @@ export const ug = {
   slug: "ug",
   title: "Unhallowed Grave",
   key: "UG",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 15,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

@@ -6,7 +6,7 @@ export const ca1 = {
   slug: "ca1",
   title: "City of Ash I",
   key: "CA1",
-  questGiver: "glirion-the-redbeard",
+  questGiver: "temper-quest-giver/glirion-the-redbeard",
   rotationPosition: 3,
   soloDifficulty: "easy",
 } as const satisfies TemperDungeon

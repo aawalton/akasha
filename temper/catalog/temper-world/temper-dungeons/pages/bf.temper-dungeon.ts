@@ -6,7 +6,7 @@ export const bf = {
   slug: "bf",
   title: "Bloodroot Forge",
   key: "BF",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 4,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

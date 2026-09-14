@@ -6,7 +6,7 @@ export const bc = {
   slug: "bc",
   title: "Blessed Crucible",
   key: "BC",
-  questGiver: "glirion-the-redbeard",
+  questGiver: "temper-quest-giver/glirion-the-redbeard",
   rotationPosition: 11,
   soloDifficulty: "easy",
 } as const satisfies TemperDungeon

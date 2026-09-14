@@ -6,7 +6,7 @@ export const sc1 = {
   slug: "sc1",
   title: "Spindleclutch I",
   key: "SC1",
-  questGiver: "maj-al-ragath",
+  questGiver: "temper-quest-giver/maj-al-ragath",
   rotationPosition: 3,
   soloDifficulty: "easy",
 } as const satisfies TemperDungeon

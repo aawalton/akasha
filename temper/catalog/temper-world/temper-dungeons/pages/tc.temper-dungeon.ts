@@ -6,7 +6,7 @@ export const tc = {
   slug: "tc",
   title: "The Cauldron",
   key: "TC",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 19,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

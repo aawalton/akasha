@@ -6,7 +6,7 @@ export const bgf = {
   slug: "bgf",
   title: "Black Gem Foundry",
   key: "BGF",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 33,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

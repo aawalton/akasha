@@ -6,7 +6,7 @@ export const nc = {
   slug: "nc",
   title: "Naj-Caldeesh",
   key: "NC",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 32,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

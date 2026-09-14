@@ -6,7 +6,7 @@ export const er = {
   slug: "er",
   title: "Exiled Redoubt",
   key: "ER",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 30,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

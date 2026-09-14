@@ -6,7 +6,7 @@ export const op = {
   slug: "op",
   title: "Oathsworn Pit",
   key: "OP",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 29,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

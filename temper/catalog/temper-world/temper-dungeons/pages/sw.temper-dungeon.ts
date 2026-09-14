@@ -6,7 +6,7 @@ export const sw = {
   slug: "sw",
   title: "Selene's Web",
   key: "SW",
-  questGiver: "glirion-the-redbeard",
+  questGiver: "temper-quest-giver/glirion-the-redbeard",
   rotationPosition: 7,
   soloDifficulty: "easy",
 } as const satisfies TemperDungeon

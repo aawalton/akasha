@@ -6,7 +6,7 @@ export const sp = {
   slug: "sp",
   title: "Scalecaller Peak",
   key: "SP",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 7,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

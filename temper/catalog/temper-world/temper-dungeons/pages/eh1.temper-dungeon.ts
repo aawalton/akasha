@@ -6,7 +6,7 @@ export const eh1 = {
   slug: "eh1",
   title: "Elden Hollow I",
   key: "EH1",
-  questGiver: "maj-al-ragath",
+  questGiver: "temper-quest-giver/maj-al-ragath",
   rotationPosition: 5,
   soloDifficulty: "easy",
 } as const satisfies TemperDungeon

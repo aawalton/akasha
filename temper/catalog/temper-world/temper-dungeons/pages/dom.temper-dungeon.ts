@@ -6,7 +6,7 @@ export const dom = {
   slug: "dom",
   title: "Depths of Malatar",
   key: "DoM",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 10,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

@@ -6,7 +6,7 @@ export const ls = {
   slug: "ls",
   title: "Lep Seclusa",
   key: "LS",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 31,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

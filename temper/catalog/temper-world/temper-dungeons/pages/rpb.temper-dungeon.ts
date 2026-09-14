@@ -6,7 +6,7 @@ export const rpb = {
   slug: "rpb",
   title: "Red Petal Bastion",
   key: "RPB",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 20,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

@@ -6,7 +6,7 @@ export const mf = {
   slug: "mf",
   title: "Moongrave Fane",
   key: "MF",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 13,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

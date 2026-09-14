@@ -6,7 +6,7 @@ export const fg1 = {
   slug: "fg1",
   title: "Fungal Grotto I",
   key: "FG1",
-  questGiver: "maj-al-ragath",
+  questGiver: "temper-quest-giver/maj-al-ragath",
   rotationPosition: 7,
   soloDifficulty: "easy",
 } as const satisfies TemperDungeon

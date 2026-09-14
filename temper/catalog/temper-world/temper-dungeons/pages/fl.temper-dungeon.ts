@@ -6,7 +6,7 @@ export const fl = {
   slug: "fl",
   title: "Fang Lair",
   key: "FL",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 6,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

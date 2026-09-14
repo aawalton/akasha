@@ -6,7 +6,7 @@ export const gd = {
   slug: "gd",
   title: "Graven Deep",
   key: "GD",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 25,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

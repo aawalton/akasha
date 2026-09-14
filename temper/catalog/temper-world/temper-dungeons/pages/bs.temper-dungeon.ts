@@ -6,7 +6,7 @@ export const bs = {
   slug: "bs",
   title: "Bal Sunnar",
   key: "BS",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 26,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

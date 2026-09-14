@@ -6,7 +6,7 @@ export const mhk = {
   slug: "mhk",
   title: "Moon Hunter Keep",
   key: "MHK",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 9,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

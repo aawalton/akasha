@@ -6,7 +6,7 @@ export const dc1 = {
   slug: "dc1",
   title: "Darkshade Caverns I",
   key: "DC1",
-  questGiver: "maj-al-ragath",
+  questGiver: "temper-quest-giver/maj-al-ragath",
   rotationPosition: 9,
   soloDifficulty: "easy",
 } as const satisfies TemperDungeon

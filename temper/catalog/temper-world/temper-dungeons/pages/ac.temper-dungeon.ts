@@ -6,7 +6,7 @@ export const ac = {
   slug: "ac",
   title: "Arx Corinium",
   key: "AC",
-  questGiver: "glirion-the-redbeard",
+  questGiver: "temper-quest-giver/glirion-the-redbeard",
   rotationPosition: 6,
   soloDifficulty: "easy",
 } as const satisfies TemperDungeon

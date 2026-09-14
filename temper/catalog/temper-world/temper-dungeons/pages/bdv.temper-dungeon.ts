@@ -6,7 +6,7 @@ export const bdv = {
   slug: "bdv",
   title: "Black Drake Villa",
   key: "BDV",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 18,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

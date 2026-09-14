@@ -6,7 +6,7 @@ export const cs = {
   slug: "cs",
   title: "Cradle of Shadows",
   key: "CS",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 2,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

@@ -6,7 +6,7 @@ export const sr = {
   slug: "sr",
   title: "Shipwright's Regret",
   key: "SR",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 23,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

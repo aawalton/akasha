@@ -6,7 +6,7 @@ export const fv = {
   slug: "fv",
   title: "Frostvault",
   key: "FV",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 11,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

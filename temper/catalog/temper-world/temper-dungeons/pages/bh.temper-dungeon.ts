@@ -6,7 +6,7 @@ export const bh = {
   slug: "bh",
   title: "Blackheart Haven",
   key: "BH",
-  questGiver: "glirion-the-redbeard",
+  questGiver: "temper-quest-giver/glirion-the-redbeard",
   rotationPosition: 5,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon

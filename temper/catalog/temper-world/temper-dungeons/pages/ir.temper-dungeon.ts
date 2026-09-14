@@ -6,7 +6,7 @@ export const ir = {
   slug: "ir",
   title: "Icereach",
   key: "IR",
-  questGiver: "urgarlag-chief-bane",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 14,
   soloDifficulty: "hard",
 } as const satisfies TemperDungeon
