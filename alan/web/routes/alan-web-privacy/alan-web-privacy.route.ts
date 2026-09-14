@@ -9,11 +9,11 @@ export const alanWebPrivacy = {
   urlPath: "privacy",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The page carries verbatim the sentence a carrier requires on mobile information.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The page names every field the opt-in form writes into a consent page.",
     },
   ],

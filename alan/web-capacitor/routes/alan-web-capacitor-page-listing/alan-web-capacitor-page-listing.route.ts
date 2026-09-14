@@ -9,15 +9,15 @@ export const alanWebCapacitorPageListing = {
   urlPath: ":pageTypeSlug",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The page types are read in the browser rather than on a server.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The segment in the url is matched against a plural slug.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A segment matching no plural slug is matched against a slug.",
     },
   ],

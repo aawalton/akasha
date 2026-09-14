@@ -9,15 +9,15 @@ export const alanWebApiDeviceSecretMint = {
   urlPath: "api/device-secret/mint",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A caller with no session and a caller with no access get the same 401 and body.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every refusal is written to standard error with the reason for that refusal.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Reaching the store is written to standard error too.",
     },
   ],

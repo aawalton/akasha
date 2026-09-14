@@ -9,11 +9,11 @@ export const atlasBasemapNaEu = {
   urlPath: "basemap/na-eu.pmtiles",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A request naming no byte range is refused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A range wider than the cap is refused rather than served.",
     },
   ],

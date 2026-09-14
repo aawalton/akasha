@@ -9,7 +9,7 @@ export const alanWebApiTrackingHealthSamples = {
   urlPath: "api/tracking/health-samples",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A sender is known by its device secret rather than by a session.",
     },
   ],

@@ -9,11 +9,11 @@ export const atlasApiPlacesAdd = {
   urlPath: "api/alan/collections/places/add",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A file page is refused where the page names no path to sit at.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A place whose name yields no slug is refused.",
     },
   ],

@@ -9,20 +9,20 @@ export const audhdalanApiSubscribe = {
   urlPath: "api/subscribe",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "Nothing renders an `audhdalan-subscriber` page's body out of the fields the form gives.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "An address a reader gives is kept as a subscriber page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A route that cannot keep the address a reader gave answers 503 rather than 500.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An address well formed and unkept is told apart from an address refused.",
     },
   ],

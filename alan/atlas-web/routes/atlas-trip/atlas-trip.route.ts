@@ -9,27 +9,27 @@ export const atlasTrip = {
   urlPath: "trip/:tripParam",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A collection stating no title is titled Trip.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A trip's stops are the locations naming this collection by page type and slug.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stop is drawn in scheduled order, and an unscheduled stop is drawn first.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "At most a thousand stops are drawn, and the page says so where more match.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A collection nothing names says so rather than drawing an empty list.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No map is drawn here, and the map route draws every location instead.",
     },
   ],

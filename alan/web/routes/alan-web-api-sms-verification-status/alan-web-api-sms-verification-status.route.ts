@@ -9,34 +9,34 @@ export const alanWebApiSmsVerificationStatus = {
   urlPath: "api/sms/verification-status",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A body whose Telnyx signature does not verify is answered 403 and acted on by nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The signed text is read off the request before anything parses that request.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A verified status reaches the handler seat as a message rather than landing quietly.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The body is carried over whole rather than read for fields nothing here has seen.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The message is written through the pages service, the road a pod's write keeps.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here answers Telnyx with a message.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The message states its own id.",
     },
   ],

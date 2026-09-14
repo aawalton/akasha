@@ -9,11 +9,11 @@ export const alanWebContact = {
   urlPath: "contact",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The contact page states the business address the SMS submission declares.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No phone number is stated on the contact page.",
     },
   ],

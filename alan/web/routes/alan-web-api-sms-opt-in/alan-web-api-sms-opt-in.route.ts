@@ -9,23 +9,23 @@ export const alanWebApiSmsOptIn = {
   urlPath: "api/sms/opt-in",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A visitor whose consent was not written down is told so rather than told yes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A body carrying the hidden website field is answered ok and nothing else.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A number is taken only as ten US digits.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A consent given here is written down as an `sms-consent` page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The pages system service places that page and commits it into akasha.",
     },
   ],

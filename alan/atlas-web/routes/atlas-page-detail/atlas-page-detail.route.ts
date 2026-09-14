@@ -9,11 +9,11 @@ export const atlasPageDetail = {
   urlPath: ":pageTypeSlug/:pageHrefParam",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A nav page is drawn as the page that nav item points at.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page type reaching no page is looked for again among that type's descendants.",
     },
   ],

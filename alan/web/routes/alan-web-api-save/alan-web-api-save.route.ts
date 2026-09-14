@@ -9,11 +9,11 @@ export const alanWebApiSave = {
   urlPath: "api/save",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A body that parses as an intent to pull is answered with the pull's outcome.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Any other body is taken as the whole save.",
     },
   ],

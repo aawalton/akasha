@@ -9,11 +9,11 @@ export const atlasSearch = {
   urlPath: "search",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The looking up and the keeping happen in the browser.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A place already kept is a link to the location rather than a button.",
     },
   ],

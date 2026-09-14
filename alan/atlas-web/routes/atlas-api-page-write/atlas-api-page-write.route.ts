@@ -9,7 +9,7 @@ export const atlasApiPageWrite = {
   urlPath: "api/page-write",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This route's action is the only thing this route's code exports.",
     },
   ],

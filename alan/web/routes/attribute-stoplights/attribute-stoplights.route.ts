@@ -10,15 +10,15 @@ export const attributeStoplights = {
   urlPath: "api/attribute-stoplights",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The group answered for here is the attributes group.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The key each reading travels under is `attribute`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The tile shipped against this reads that key as text that is always there.",
     },
   ],

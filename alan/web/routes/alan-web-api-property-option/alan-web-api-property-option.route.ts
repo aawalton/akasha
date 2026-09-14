@@ -9,19 +9,19 @@ export const alanWebApiPropertyOption = {
   urlPath: "api/property-option",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A property definition's options are a key in that definition's own file.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No option asked for here is added.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No definition is read here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A caller is told the option cannot be added rather than told the property is missing.",
     },

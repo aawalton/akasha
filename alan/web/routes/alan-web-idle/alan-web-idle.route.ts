@@ -9,15 +9,15 @@ export const alanWebIdle = {
   urlPath: "idle",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The page the redirect points at is the `idle-game` page slugged `idle`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The address is built from that page's own id rather than spelled here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The host idle.alanwalton.com is sent here by the server.",
     },
   ],

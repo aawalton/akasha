@@ -9,11 +9,11 @@ export const apiPageWrite = {
   urlPath: "api/page-write",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "This route exports `action` alone.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "React Router strips only `loader` and `action` and `middleware` and `headers` from the browser.",
     },

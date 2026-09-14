@@ -10,58 +10,58 @@ export const jennyCost = {
   urlPath: "api/cost",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The cost stoplight module does the answering and this page does the wiring alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The readouts answered are the ones whose page names the cost group.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A readout's label and wire key are read off that readout's page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The color is the cost read together with the surplus in hours.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The cost served here is Alan's rather than Jenny's.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Jenny's tile and Alan's site show one reading rather than two readings taken twice.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Both readings are carried in rather than taken here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A caller into this ring presents Jenny's ring credential.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A cost with nothing carried in answers a stoplight with no figure.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only a group no readout is left in answers 503.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "Jenny's shipped widget decodes `stoplights` as a list holding at least one stoplight.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Jenny's shipped widget decodes a stoplight's tier as one of six color names.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The cost this route's tests read is a fixture rather than the cost Alan is at.",
     },
   ],

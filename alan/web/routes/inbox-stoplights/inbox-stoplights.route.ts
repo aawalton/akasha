@@ -10,19 +10,19 @@ export const inboxStoplights = {
   urlPath: "api/inbox-stoplights",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The key each reading travels under is `inbox` rather than `habit`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The tile shipped against this reads that key as text that is always there.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every readout the inboxes group admits answers a ring of its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Both inbox scales fall rather than climb.",
     },
   ],

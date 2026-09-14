@@ -9,19 +9,19 @@ export const alanWebPageDetail = {
   urlPath: ":pageTypeSlug/:pageHrefParam",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A nav page is drawn as the page that nav item points at.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every other page is drawn by the component its page type names.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Asking for properties draws the properties rather than that component.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A change to the speed or the variant asked for does not load the page again.",
     },
   ],

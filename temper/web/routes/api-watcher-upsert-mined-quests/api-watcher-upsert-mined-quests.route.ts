@@ -9,19 +9,19 @@ export const apiWatcherUpsertMinedQuests = {
   urlPath: "api/watcher/upsert-mined-quests",
   invariants: [
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "No mined quest posted here is kept.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A row sits inside a page's body.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The store writes a path and a whole body.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This route answers 503 and says plainly that nothing was kept.",
     },
   ],

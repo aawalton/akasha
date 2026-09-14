@@ -9,11 +9,11 @@ export const temperApiPages = {
   urlPath: "api/pages/:pageTypeSlug",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "This route exports `loader` alone.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "React Router strips only `loader` and `action` and `middleware` and `headers` from the browser.",
     },

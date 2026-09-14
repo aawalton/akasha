@@ -9,11 +9,11 @@ export const apiWatcherUpsertPricingSnapshot = {
   urlPath: "api/watcher/upsert-pricing-snapshot",
   invariants: [
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "No pricing snapshot posted here is kept.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This route answers 410 once the watcher token is judged.",
     },
   ],

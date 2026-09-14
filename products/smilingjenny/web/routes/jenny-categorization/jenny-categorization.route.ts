@@ -10,11 +10,11 @@ export const jennyCategorization = {
   urlPath: "api/categorization",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The readout served is the one thing named here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Everything else about that readout is read off the readout's own page.",
     },
   ],

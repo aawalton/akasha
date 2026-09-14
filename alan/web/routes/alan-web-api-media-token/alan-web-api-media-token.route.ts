@@ -9,11 +9,11 @@ export const alanWebApiMediaToken = {
   urlPath: "api/media/token",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A token is good for an hour.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reader who is not signed in is refused before the medium is looked for.",
     },
   ],

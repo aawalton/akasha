@@ -9,7 +9,7 @@ export const alanWebSignIn = {
   urlPath: "sign-in",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A signed-in reader is sent to the home route.",
     },
   ],

@@ -9,11 +9,11 @@ export const atlasPageListing = {
   urlPath: ":pageTypeSlug",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The segment in the url is the page type's plural slug.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A plural slug reaching no page type is answered 404.",
     },
   ],

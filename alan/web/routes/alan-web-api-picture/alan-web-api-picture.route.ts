@@ -9,11 +9,11 @@ export const alanWebApiPicture = {
   urlPath: "api/picture",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A sender is known by its device secret rather than by a session.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing but the picture's bytes and the device secret leaves the phone.",
     },
   ],

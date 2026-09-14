@@ -9,11 +9,11 @@ export const alanWebHome = {
   urlPath: "home",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reader who is not signed in is sent to the sign-in route.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A signed-in reader with no home nav item is shown the title alone.",
     },
   ],

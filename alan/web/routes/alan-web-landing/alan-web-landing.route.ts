@@ -8,11 +8,11 @@ export const alanWebLanding = {
   code: "tsx",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A signed-in reader is sent to the home route.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The messaging page is reached from here rather than by knowing its address.",
     },
   ],

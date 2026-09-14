@@ -9,11 +9,11 @@ export const atlasMap = {
   urlPath: "map",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A location with no coordinates is not drawn.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A build with no basemap url draws the locations without a basemap.",
     },
   ],

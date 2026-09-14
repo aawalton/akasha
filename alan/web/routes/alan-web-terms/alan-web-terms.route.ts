@@ -9,7 +9,7 @@ export const alanWebTerms = {
   urlPath: "terms",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The page carries verbatim the sentence a carrier requires on mobile information.",
     },
   ],
