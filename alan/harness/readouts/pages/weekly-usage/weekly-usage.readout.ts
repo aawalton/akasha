@@ -9,7 +9,7 @@ export const weeklyUsage = {
   unit: "percent",
   place: 1,
   drawnAs: "number",
-  colorFrom: "weekly-ends",
+  colorFrom: "readout/weekly-ends",
   groups: ["claude-usage"],
   wireKey: "weekly-usage",
   invariants: [
