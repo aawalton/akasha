@@ -163,15 +163,34 @@ export const codeCheck = {
     },
     {
       invariantKind: "departure",
-      statement: "A check reads the checkout for the paths that check cannot name.",
+      statement:
+        "A check reads the checkout through the overlay for the paths that check cannot name.",
     },
     {
       invariantKind: "departure",
-      statement: "A check listing a folder lists what git carries in the folder on disk.",
+      statement:
+        "A check listing a folder lists it through the overlay, with the change's edits laid over.",
     },
     {
       invariantKind: "departure",
-      statement: "A check reads the tree through the module that reads trees.",
+      statement: "A path the change writes is among the files a check lists.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the change takes away is left out of the files a check lists.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A check reads the tree through the overlay, which reads it through the module that reads trees.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Every check listing a folder lists it through the overlay.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The overlay's listing is reached from the shadow a check is handed.",
     },
   ],
   directives: [
