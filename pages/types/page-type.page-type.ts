@@ -170,6 +170,10 @@ export const pageType = {
       statement:
         "A page type states the component drawing a page property's whole row, its label with its value.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A page type states the component drawing a page of that page type as a chip.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType
