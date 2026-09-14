@@ -180,7 +180,8 @@ test("a name carries over the whole file rather than within one scope", () => {
 
 test("a long literal is shortened where the refusal names that literal", () => {
   const long = `${"pages/hum-formats/modules/hum-matching/hum-matching.module.code.ts"} is here`
-  const said = reasonsIn(askingOver([...HELD, long]), naming, AT, `readdirSync("${long}")\n`)
+  const held = [...HELD, long]
+  const said = reasonsIn(askingOver(held, held), naming, AT, `readdirSync("${long}")\n`)
   expect(said).toHaveLength(1)
 })
 

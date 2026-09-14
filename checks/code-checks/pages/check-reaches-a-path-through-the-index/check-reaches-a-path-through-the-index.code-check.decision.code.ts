@@ -8,6 +8,7 @@ import {
   parsedAs,
 } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { typed } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
+import type { Listed } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   partedIn,
   uncommittedHeld,
@@ -48,6 +49,17 @@ const PARTED_AT = "."
 const PARTED_UP = ".."
 
 const SEGMENT = /^[a-z0-9-]+$/
+
+export function pagePathsOf(
+  types: Iterable<string>,
+  ofType: (pageTypeSlug: string) => readonly Listed[]
+): readonly string[] {
+  const found: string[] = []
+  for (const one of types) {
+    for (const each of ofType(one)) found.push(each.path)
+  }
+  return found
+}
 
 export type Naming = (said: string) => string | null
 
@@ -143,8 +155,8 @@ function reachedFrom(from: string, said: string): string | null {
   return parts.length === 0 ? null : parts.join(PARTED_BY)
 }
 
-export function askingOver(paths: readonly string[]): Reaching {
-  const pages = new Set(paths)
+export function askingOver(paths: readonly string[], pagePaths: readonly string[]): Reaching {
+  const pages = new Set(pagePaths)
   const based = basedOn([...paths, ...foldersOf(paths)])
   return (from) => (said) => {
     if (!said.includes(PARTED_BY)) return null

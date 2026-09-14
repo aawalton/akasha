@@ -3,6 +3,7 @@ import {
   judgingOver,
   type Naming,
   namingOver,
+  pagePathsOf,
   type Reaching,
   reasonsIn,
 } from "akasha/checks/code-checks/pages/check-reaches-a-path-through-the-index/check-reaches-a-path-through-the-index.code-check.decision.code.ts"
@@ -13,6 +14,7 @@ import {
   type Selector,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import { textIn } from "akasha/code/bodies/modules/body-text/body-text.module.code.ts"
+import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
 import {
   claimantOf,
   type Listing,
@@ -60,12 +62,22 @@ function judgedFor(shadow: Shadow): (path: string) => boolean {
   return made
 }
 
+const PAGE_PATHS = new WeakMap<Answering, readonly string[]>()
+
+function pagePathsFor(index: Answering): readonly string[] {
+  const found = PAGE_PATHS.get(index)
+  if (found !== undefined) return found
+  const made = pagePathsOf(index.pageTypesIn(), (slug) => index.everyOfType(slug))
+  PAGE_PATHS.set(index, made)
+  return made
+}
+
 const REACHING = new WeakMap<Shadow, Reaching>()
 
 function reachingFor(shadow: Shadow): Reaching {
   const found = REACHING.get(shadow)
   if (found !== undefined) return found
-  const made = askingOver(shadow.index.everyPath())
+  const made = askingOver(shadow.listed(), pagePathsFor(shadow.index))
   REACHING.set(shadow, made)
   return made
 }
@@ -75,7 +87,7 @@ const NAMING = new WeakMap<Shadow, Naming>()
 function namingFor(shadow: Shadow): Naming {
   const found = NAMING.get(shadow)
   if (found !== undefined) return found
-  const made = namingOver(shadow.index.everyPath(), shadow.index.pageTypesIn())
+  const made = namingOver(pagePathsFor(shadow.index), shadow.index.pageTypesIn())
   NAMING.set(shadow, made)
   return made
 }

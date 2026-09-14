@@ -20,6 +20,10 @@ const FIXTURES_AT = "akasha/one.thing.test-fixtures.ts"
 
 const HELD_AT = "akasha/held/held.module.code.ts"
 
+const LOOSE = "akasha/loose"
+
+const LOOSE_AT = `${LOOSE}/loose.module.code.ts`
+
 const INDEX = "index"
 
 const INDEX_TYPE_AT = "akasha/index.page-type.ts"
@@ -34,10 +38,17 @@ const ID = "01a04f2b-3d24-70b3-8c3e-3076a9299151"
 
 const LISTS = 'export const held = readdirSync("akasha/held")\n'
 
+const LISTS_LOOSE = `export const held = readdirSync("${LOOSE}")\n`
+
 const ASKS = "export const held = 1\n"
 
 function rooted(): string {
-  const root = staged({ [TYPE_AT]: ASKS, [INDEX_TYPE_AT]: ASKS, [HELD_AT]: ASKS })
+  const root = staged({
+    [TYPE_AT]: ASKS,
+    [INDEX_TYPE_AT]: ASKS,
+    [HELD_AT]: ASKS,
+    [LOOSE_AT]: ASKS,
+  })
   listedFiled(root, PAGE_TYPE, THING, [{ path: TYPE_AT, id: ID }])
   listedFiled(root, PAGE_TYPE, INDEX, [{ path: INDEX_TYPE_AT, id: INDEX_ID }])
   pathListed(root, HELD_AT)
@@ -57,6 +68,17 @@ test("a body the change carries is judged by what the decision answers", () => {
 
 test("a page's code the change carries that lists nothing is let through", () => {
   expect(judged({ [CODE_AT]: ASKS })).toEqual([])
+})
+
+test("a folder the checkout holds that the index answers no path under is listed", () => {
+  const said = judged({ [CODE_AT]: LISTS_LOOSE })
+  expect(said.map((one) => one.path)).toEqual([CODE_AT])
+  expect(said[0]?.reason).toContain(LOOSE)
+})
+
+test("a page's path spelled is refused where the path of a page's file is not", () => {
+  expect(judged({ [CODE_AT]: `export const at = "${TYPE_AT}"\n` })).toHaveLength(1)
+  expect(judged({ [CODE_AT]: `export const at = "${HELD_AT}"\n` })).toEqual([])
 })
 
 test("a page's test fixtures the change carries are passed over", () => {

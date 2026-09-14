@@ -17,7 +17,7 @@ export const HELD = [
 
 export const AT = "checks/code-checks/pages/a/a.code-check.code.ts"
 
-export const reaching = askingOver(HELD)
+export const reaching = askingOver(HELD, HELD)
 
 export const NAMED = 'const AT = "design/colors"\n'
 
@@ -60,6 +60,6 @@ export const TWO = `a/two/${CONTAINERFILE}`
 
 const TWICE = [ONE, TWO]
 
-export const nearer = askingOver(TWICE)
+export const nearer = askingOver(TWICE, TWICE)
 
 export const BUILT = `podman build -f build/${CONTAINERFILE}\n`
