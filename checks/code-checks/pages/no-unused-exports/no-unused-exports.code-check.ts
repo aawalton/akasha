@@ -200,6 +200,11 @@ export const noUnusedExports = {
     {
       invariantKind: "departure",
       statement:
+        "The `rollupNutritionForDay` the nutrition-points module exports is reached by the food command.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "The `serving` the run-serving module exports is reached by the relay spawning it.",
     },
     {
