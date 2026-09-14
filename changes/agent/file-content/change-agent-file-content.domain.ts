@@ -23,6 +23,5 @@ export const changeAgentFileContent = {
     "change-agent/remove-unused-export-keywords",
     "change-agent/rename-code-token",
     "change-agent/rename-folder-imports",
-    "change-agent/rename-package",
   ],
 } as const satisfies Domain
