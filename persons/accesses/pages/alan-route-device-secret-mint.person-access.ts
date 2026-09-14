@@ -4,7 +4,7 @@ export const alanRouteDeviceSecretMint = {
   id: "01a05433-f102-7358-8728-dde431b63a93",
   type: "person-access",
   slug: "alan-route-device-secret-mint",
-  person: "alan",
+  person: "person/alan",
   accessKind: "route",
   target: "device-secret-mint",
 } as const satisfies PersonAccess
