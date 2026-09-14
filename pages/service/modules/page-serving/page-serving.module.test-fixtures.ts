@@ -6,8 +6,6 @@ import {
   ASK_AT,
   answering,
   WRITE_AT,
-  type Written,
-  writeIn,
 } from "akasha/pages/service/modules/page-serving/page-serving.module.code.ts"
 import type {
   Asked,
@@ -96,8 +94,4 @@ const A_WRITE = { writer: "Amy <amy@alanwalton.com>", message: "a message" }
 
 export function writing(body: Record<string, unknown>): Request {
   return asking({ ...A_WRITE, ...body }, WRITE_AT)
-}
-
-export function written(body: Record<string, unknown>): Written {
-  return writeIn({ ...A_WRITE, ...body })
 }

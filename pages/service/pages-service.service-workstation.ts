@@ -121,6 +121,7 @@ export const pagesService = {
   ],
   parts: [
     "manifest/page-store",
+    "module/call-reading",
     "module/file-answering",
     "module/kinds-gathering",
     "module/page-asking",
