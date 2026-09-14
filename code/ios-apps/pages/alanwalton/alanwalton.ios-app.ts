@@ -79,7 +79,6 @@ export const alanwalton = {
     "shell-script/alanwalton-plist-keys",
     "shell-script/alanwalton-plugin-registrations",
     "shell-script/alanwalton-seam-reset",
-    "shell-script/alanwalton-stage-app",
     "shell-script/alanwalton-wallpaper-intent",
     "shell-script/alanwalton-widget-refresh",
     "shell-script/alanwalton-widget-target",
