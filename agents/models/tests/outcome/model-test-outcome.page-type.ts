@@ -5,7 +5,6 @@ export const modelTestOutcome = {
   type: "page-type",
   slug: "model-test-outcome",
   definition: "what a review found a model test's answer to be",
-  pluralSlug: "model-test-outcomes",
   parts: [
     "model-test-outcome/negative-false",
     "model-test-outcome/negative-true",
