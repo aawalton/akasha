@@ -1,16 +1,13 @@
-import { reasonsOver } from "akasha/checks/code-checks/pages/no-index-path-spelled/no-index-path-spelled.code-check.decision.code.ts"
+import { found } from "akasha/checks/code-checks/pages/no-index-path-spelled/no-index-path-spelled.code-check.decision.code.ts"
 import {
   founded,
   typed,
 } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import { indexNamed } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { bodiesIn } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
-
-export const ROOT = "/repo"
 
 export const AT = indexNamed()
 
@@ -24,9 +21,9 @@ export const INDEXES = "pages/indexes/"
 
 export const OWNED = `${INDEXES}reading/index-reading.module.code.ts`
 
-export const given = bodiesIn(ROOT)
-
-export const reasonsIn = reasonsOver(INDEXES, PAGE_TYPES)
+export function reasonsIn(path: string, text: string): readonly string[] {
+  return found(INDEXES, PAGE_TYPES, path, text)
+}
 
 export const scratch = scratchWorld()
 

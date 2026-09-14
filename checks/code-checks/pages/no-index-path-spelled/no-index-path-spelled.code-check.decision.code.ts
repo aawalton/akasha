@@ -1,8 +1,4 @@
 import { dirname } from "node:path"
-import {
-  type Body,
-  overEachText,
-} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import { spelledIn } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import { indexNamed } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { pageNamed } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
@@ -31,13 +27,6 @@ export function found(
     said.push(`\`${shortened(one.text)}\` spells a path into the index — ${SAID}`)
   }
   return said
-}
-
-export function reasonsOver(
-  at: string,
-  pageTypes: ReadonlySet<string>
-): (given: Body) => readonly string[] {
-  return overEachText((path, text) => found(at, pageTypes, path, text))
 }
 
 const INDEXES = new WeakMap<Shadow, string>()
