@@ -6,7 +6,7 @@ export const vtiax = {
   slug: "vtiax",
   title: "VTIAX",
   monarchId: "77396303874121754",
-  account: "alan-walton-jennifer-walton-brokerage-account-8993-445936",
+  account: "monarch-account/alan-walton-jennifer-walton-brokerage-account-8993-445936",
   securityName: "Vanguard Total International Stock Index Fund Admiral Shares",
   ticker: "VTIAX",
   quantity: 36222.904,
