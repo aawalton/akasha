@@ -4,7 +4,7 @@ function notificationSupported(): boolean {
   return typeof window !== "undefined" && "Notification" in window
 }
 
-function notificationPermission(): AlertPermission {
+export function notificationPermission(): AlertPermission {
   if (!notificationSupported()) return "unsupported"
   return Notification.permission
 }

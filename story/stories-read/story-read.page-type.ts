@@ -18,7 +18,11 @@ export const storyRead = {
       childRelation: "story",
     },
   },
-  parts: ["select-property/publication-status", "text-property/external-tags"],
+  parts: [
+    "module/chapter-turns",
+    "select-property/publication-status",
+    "text-property/external-tags",
+  ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/world", required: false, many: false },
