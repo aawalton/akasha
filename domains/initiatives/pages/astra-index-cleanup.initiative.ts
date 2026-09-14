@@ -18,7 +18,11 @@ export const astraIndexCleanup = {
       workingMemory:
         "`everyPath` has thirty-three callers and none needs every path. Eight want `package.json`, which `manifestsBeside` answers. Four want the pages of a type, which `everyOfType` answers. Ten read every `.ts` for a spelling. Two want folders, two ask membership. Three are left, two of them the check that polices index use. The file is 15 MB, gitignored, machine-local, and holds about two hundred dead `.uncommitted.` entries.\n",
     },
-    { statement: "A file property declares one extension." },
+    {
+      statement: "A file property declares one extension.",
+      workingMemory:
+        "A case that diverges splits into its own page type rather than taking a second optional property: a module is `.ts`, a component `.tsx`. Four properties vary today. `code` and `test` on modules and `route-code` on routes run `ts` against `tsx`, and `content` on provisioned files runs `conf`, `sh` and `json`. Of 140 stated properties 136 are constant, and 35 of those reach no path at all, their property page setting a `fileName`.\n",
+    },
     { statement: "Alan holds the import index's structure correct." },
     { statement: "Alan holds the rule index's structure correct." },
     {
