@@ -9,6 +9,7 @@ export const emailInbound = {
     "module/agent-channel",
     "module/inbound-decision",
     "module/inbound-message",
+    "module/persona-channels",
     "module/sender",
   ],
   invariants: [
