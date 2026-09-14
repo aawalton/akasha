@@ -4,8 +4,6 @@ import { AggregatePropertyBadge } from "akasha/pages/ui/components/modules/aggre
 
 import { FormulaPropertyBadge } from "akasha/pages/ui/components/modules/formula-property-badge/formula-property-badge.module.code.tsx"
 
-import { JsonPropertyBadge } from "akasha/pages/ui/components/modules/json-property-badge/json-property-badge.module.code.tsx"
-
 import { MarkdownPropertyBadge } from "akasha/pages/ui/components/modules/markdown-property-badge/markdown-property-badge.module.code.tsx"
 import { MultiRelationPropertyBadge } from "akasha/pages/ui/components/modules/multi-relation-property-badge/multi-relation-property-badge.module.code.tsx"
 import { MultiSelectPropertyBadge } from "akasha/pages/ui/components/modules/multi-select-property-badge/multi-select-property-badge.module.code.tsx"
@@ -24,8 +22,6 @@ export const PROPERTY_BADGE_REGISTRY: Partial<
   Record<PropertyType, ComponentType<PropertyBadgeProps>>
 > = {
   markdown: MarkdownPropertyBadge,
-
-  json: JsonPropertyBadge,
 
   "multi-select": MultiSelectPropertyBadge,
   "path-select": PathSelectPropertyBadge,
