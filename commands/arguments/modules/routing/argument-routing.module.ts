@@ -17,14 +17,6 @@ export const argumentRouting = {
       statement: "The route suffix is `-file`.",
     },
     {
-      invariantKind: "departure",
-      statement: "A name ending in something other than the suffix routes nothing.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A name that is the suffix and nothing more routes nothing.",
-    },
-    {
       invariantKind: "upkeep",
       statement: "The suffix every route argument's name ends in is spelled here alone.",
     },
