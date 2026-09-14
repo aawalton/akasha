@@ -9,5 +9,5 @@ export const deposit20260630CartMilkGarbageBagsForJenAtCostco = {
   relationshipDepositPersona: "persona/ruby",
   relationshipDepositRelationship: "relationship/jennifer-walton",
   relationshipDepositSize: "small",
-  relationshipDepositValue: "love",
+  relationshipDepositValue: "value/love",
 } as const satisfies RelationshipDeposit
