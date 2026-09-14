@@ -7,7 +7,6 @@ import { HEADER } from "akasha/infrastructure/container-image/dockerfiles/module
 export function generateToolImageDockerfile(
   _appName: string,
   _config: ServiceConfig,
-  _nameMap: Map<string, string>,
   ext: DockerfileExtensions
 ): string {
   const lines: string[] = []

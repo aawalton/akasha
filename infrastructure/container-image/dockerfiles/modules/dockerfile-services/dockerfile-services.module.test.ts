@@ -1,7 +1,6 @@
 import { describe, expect, test } from "bun:test"
 import { existsSync, statSync } from "node:fs"
 import { join } from "node:path"
-import { listWorkspaceDirs } from "akasha/alan/harness/workspace-paths/modules/workspace-dirs/workspace-dirs.module.code.ts"
 import {
   ROOT,
   SERVICES,
@@ -18,9 +17,8 @@ describe("ROOT", () => {
     expect(existsSync(join(ROOT, ".git"))).toBe(true)
   })
 
-  test("holds the root manifest `listWorkspaceDirs` reads", () => {
+  test("holds the manifest the one package states itself in", () => {
     expect(existsSync(join(ROOT, "package.json"))).toBe(true)
-    expect(() => listWorkspaceDirs(ROOT)).not.toThrow()
   })
 })
 

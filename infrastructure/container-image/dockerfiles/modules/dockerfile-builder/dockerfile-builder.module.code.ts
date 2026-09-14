@@ -24,11 +24,7 @@ export function emitBuilderPreamble(ext: DockerfileExtensions): readonly string[
   return lines
 }
 
-export function emitPackageJsonCopies(
-  memberDirs: readonly string[],
-  appDir: string,
-  ext: DockerfileExtensions
-): readonly string[] {
+export function emitPackageJsonCopies(ext: DockerfileExtensions): readonly string[] {
   const lines: string[] = []
   lines.push("# Copy lockfile and base tsconfig")
   lines.push("COPY bun.lock ./")
@@ -37,13 +33,8 @@ export function emitPackageJsonCopies(
   }
   lines.push("")
 
-  lines.push("# Copy the root manifest and every workspace member's manifest")
+  lines.push("# Copy the root manifest")
   lines.push("COPY package.json ./")
-  for (const dir of memberDirs) {
-    if (dir === appDir) continue
-    lines.push(`COPY ${dir}/package.json ./${dir}/package.json`)
-  }
-  lines.push(`COPY ${appDir}/package.json ./${appDir}/package.json`)
 
   if (ext.extra_install_copies?.length != null && ext.extra_install_copies.length > 0) {
     for (const copy of ext.extra_install_copies) {

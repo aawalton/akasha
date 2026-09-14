@@ -1,5 +1,4 @@
 import { describe, expect, test } from "bun:test"
-import { buildPackageNameMap } from "akasha/infrastructure/container-image/dockerfiles/modules/dockerfile-deps/dockerfile-deps.module.code.ts"
 import {
   collectExecutedDeps,
   listEntryRoots,
@@ -14,7 +13,7 @@ describe("what a service reaches", () => {
   })
 
   test("a folder reached through the root package is answered", () => {
-    const found = [...collectExecutedDeps(AUTH_PROXY, buildPackageNameMap())]
+    const found = [...collectExecutedDeps(AUTH_PROXY)]
     expect(found.filter((one) => one.endsWith(REACHED))).toHaveLength(1)
   })
 })

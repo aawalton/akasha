@@ -14,20 +14,18 @@ import { HEADER } from "akasha/infrastructure/container-image/dockerfiles/module
 export function generateNextjsDockerfile(
   appName: string,
   config: ServiceConfig,
-  nameMap: Map<string, string>,
-  ext: DockerfileExtensions,
-  allWorkspaceDirs: readonly string[]
+  ext: DockerfileExtensions
 ): string {
   const appDir = config.dir
   const skipDefaultArgs = ext.no_default_build_args === true
 
-  const depDirs = collectExecutedDeps(appDir, nameMap)
+  const depDirs = collectExecutedDeps(appDir)
 
   const runtimeAlias = ext.runtime_stage_alias ?? "runtime"
   const lines: string[] = []
 
   lines.push(...emitBuilderPreamble(ext))
-  lines.push(...emitPackageJsonCopies(allWorkspaceDirs, appDir, ext))
+  lines.push(...emitPackageJsonCopies(ext))
   lines.push(...emitWorkspaceInstall(ext))
   lines.push(...emitSourceCopies(depDirs, appDir, appName, ext))
 

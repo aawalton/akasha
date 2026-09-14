@@ -14,10 +14,6 @@ export const dockerfileBuilder = {
     },
     {
       invariantKind: "departure",
-      statement: "Every workspace member's manifest is copied before the install runs.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A manifest is copied once.",
     },
   ],

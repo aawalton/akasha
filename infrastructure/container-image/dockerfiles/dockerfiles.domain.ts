@@ -8,7 +8,7 @@ export const dockerfiles = {
   parts: [
     "module/dockerfile-builder",
     "module/dockerfile-bun-service",
-    "module/dockerfile-deps",
+
     "module/dockerfile-extensions",
     "module/dockerfile-imports",
     "module/dockerfile-nextjs",

@@ -1,8 +1,6 @@
 import { existsSync, readFileSync, statSync } from "node:fs"
 import { dirname, join, relative, resolve } from "node:path"
-import { readJson } from "akasha/infrastructure/container-image/dockerfiles/modules/dockerfile-deps/dockerfile-deps.module.code.ts"
 import { ROOT } from "akasha/infrastructure/container-image/dockerfiles/modules/dockerfile-services/dockerfile-services.module.code.ts"
-import { asRecord } from "akasha/utils/narrow/modules/as-record/as-record.module.code.ts"
 import { Glob } from "bun"
 
 const SOURCE_GLOB = new Glob("**/*.{ts,tsx,mts,js,jsx,mjs}")
@@ -19,7 +17,6 @@ const RESOLVE_SUFFIXES = [
   "/index.tsx",
   "/index.js",
 ] as const
-const EXPORT_CONDITIONS = ["bun", "import", "module", "default", "require"] as const
 const ROOT_PACKAGE = "akasha"
 
 function isTestOrDeclaration(relPath: string): boolean {
@@ -69,40 +66,6 @@ function splitBareSpecifier(specifier: string): { name: string; subpath: string 
   return { name: parts[0] ?? specifier, subpath: parts.slice(1).join("/") }
 }
 
-function conditionTarget(entry: unknown): string | null {
-  if (typeof entry === "string") return entry
-  const record = asRecord(entry)
-  if (record === undefined) return null
-  for (const condition of EXPORT_CONDITIONS) {
-    const value = record[condition]
-    if (typeof value === "string") return value
-  }
-  return null
-}
-
-function packageEntryFile(pkgDir: string, subpath: string): string | null {
-  const pkgJsonPath = join(ROOT, pkgDir, "package.json")
-  if (!existsSync(pkgJsonPath)) return null
-  const pkg = readJson(pkgJsonPath)
-  const key = subpath === "" ? "." : `./${subpath}`
-
-  const exportsField = asRecord(pkg.exports)
-  if (exportsField !== undefined) {
-    const target = conditionTarget(exportsField[key])
-    if (target != null) return resolveFilePath(join(ROOT, pkgDir, target))
-  }
-  if (key === "." && typeof pkg.main === "string") {
-    return resolveFilePath(join(ROOT, pkgDir, pkg.main))
-  }
-  if (key !== ".") {
-    return (
-      resolveFilePath(join(ROOT, pkgDir, subpath)) ??
-      resolveFilePath(join(ROOT, pkgDir, "src", subpath))
-    )
-  }
-  return null
-}
-
 const transpilers = new Map<string, Bun.Transpiler>()
 
 function transpilerFor(file: string): Bun.Transpiler {
@@ -136,10 +99,7 @@ function foldedDirs(files: ReadonlySet<string>, appDir: string): readonly string
     .sort((a, b) => a.localeCompare(b))
 }
 
-export function collectExecutedDeps(
-  appDir: string,
-  nameMap: Map<string, string>
-): readonly string[] {
+export function collectExecutedDeps(appDir: string): readonly string[] {
   const visited = new Set<string>()
   const queue = [...listEntryRoots(appDir)]
 
@@ -183,19 +143,7 @@ export function collectExecutedDeps(
           )
         }
         if (isSourceFile(held)) queue.push(held)
-        continue
       }
-      const pkgDir = nameMap.get(name)
-      if (pkgDir == null) continue
-
-      const target = packageEntryFile(pkgDir, subpath)
-      if (target == null) {
-        throw new Error(
-          `${file} imports "${specifier}", a workspace package, but nothing in ${pkgDir} answers that specifier. ` +
-            `The image would carry the package and still fail to resolve it.`
-        )
-      }
-      if (isSourceFile(target)) queue.push(target)
     }
   }
 

@@ -13,9 +13,7 @@ import {
 export function generateBunServiceDockerfile(
   appName: string,
   config: ServiceConfig,
-  nameMap: Map<string, string>,
-  ext: DockerfileExtensions,
-  allWorkspaceDirs: readonly string[]
+  ext: DockerfileExtensions
 ): string {
   const appDir = config.dir
 
@@ -23,18 +21,16 @@ export function generateBunServiceDockerfile(
     return generateSingleStageBunService(appName, config, ext)
   }
 
-  const depDirs = collectExecutedDeps(appDir, nameMap)
+  const depDirs = collectExecutedDeps(appDir)
 
-  return generateWorkspaceBunService(appName, config, nameMap, ext, depDirs, allWorkspaceDirs)
+  return generateWorkspaceBunService(appName, config, ext, depDirs)
 }
 
 function generateWorkspaceBunService(
   _appName: string,
   config: ServiceConfig,
-  _nameMap: Map<string, string>,
   ext: DockerfileExtensions,
-  depDirs: readonly string[],
-  allWorkspaceDirs: readonly string[]
+  depDirs: readonly string[]
 ): string {
   const appDir = config.dir
   const lines: string[] = []
@@ -57,11 +53,8 @@ function generateWorkspaceBunService(
   }
   lines.push("")
 
-  lines.push("# Copy workspace root and all member package.jsons")
+  lines.push("# Copy the root manifest")
   lines.push("COPY --link package.json ./")
-  for (const dir of allWorkspaceDirs) {
-    lines.push(`COPY --link ${dir}/package.json ./${dir}/package.json`)
-  }
   if (existsSync(join(ROOT, "patches"))) {
     lines.push("COPY --link patches ./patches")
   }
