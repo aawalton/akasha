@@ -8,6 +8,6 @@ export const profileName = {
   definition: "the profile Apple signs a program against",
   maxLength: 100,
   nameFormat: null,
-  unique: "page-type",
+  unique: "unique-kind/page-type",
   types: "ts",
 } as const satisfies TextProperty

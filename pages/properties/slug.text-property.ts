@@ -8,7 +8,7 @@ export const slug = {
   definition: "the name a page is reached by",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
-  unique: "page-type",
+  unique: "unique-kind/page-type",
   invariants: [
     {
       invariantKind: "constraint",

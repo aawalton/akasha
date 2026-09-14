@@ -8,7 +8,7 @@ export const indexName = {
   definition: "the name an index's answers are filed under",
   maxLength: 30,
   nameFormat: "name-format/lower-kebab-case",
-  unique: "page-type",
+  unique: "unique-kind/page-type",
   invariants: [
     {
       invariantKind: "departure",

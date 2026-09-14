@@ -8,7 +8,7 @@ export const id = {
   definition: "the identity a page keeps for its whole life",
   maxLength: 36,
   nameFormat: "name-format/lower-uuid",
-  unique: "page",
+  unique: "unique-kind/page",
   generator: "generator-kind/uuid-v7",
   invariants: [
     {

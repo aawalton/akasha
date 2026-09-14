@@ -8,7 +8,7 @@ export const targetName = {
   definition: "the name Xcode builds a program under",
   maxLength: 100,
   nameFormat: null,
-  unique: "page-type",
+  unique: "unique-kind/page-type",
   invariants: [
     {
       invariantKind: "departure",

@@ -8,7 +8,7 @@ export const accountUuid = {
   definition: "the identity Anthropic knows the account by",
   maxLength: 36,
   nameFormat: "name-format/lower-uuid",
-  unique: "page-type",
+  unique: "unique-kind/page-type",
   invariants: [
     {
       invariantKind: "departure",
