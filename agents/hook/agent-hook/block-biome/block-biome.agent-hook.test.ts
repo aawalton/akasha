@@ -6,8 +6,8 @@ import {
   SCOPE,
 } from "akasha/agents/hook/agent-hook/block-biome/block-biome.agent-hook.code.ts"
 import { parseRefusal } from "akasha/agents/hook/modules/answer/hook-answer.module.code.ts"
-import { judging } from "akasha/agents/hook/modules/judging/hook-judging.module.code.ts"
 import { payloadOf } from "akasha/agents/hook/modules/payload/hook-payload.module.code.ts"
+import { judging } from "akasha/agents/hook/test-fixtures/judging/hook-judging.test-fixture.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 

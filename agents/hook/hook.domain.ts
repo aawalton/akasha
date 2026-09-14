@@ -11,7 +11,7 @@ export const hook = {
     "module/git-calls",
     "module/hook-answer",
     "module/hook-dispatch",
-    "module/hook-judging",
+    "test-fixture/hook-judging",
     "module/hook-links",
     "module/hook-payload",
     "module/path-showing",

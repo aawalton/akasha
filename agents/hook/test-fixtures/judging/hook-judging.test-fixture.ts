@@ -1,8 +1,8 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { TestFixture } from "akasha/testing-system/test-fixtures/test-fixture.page-type.types.ts"
 
 export const hookJudging = {
   id: "01a04f83-5df2-71b1-a666-6309398763b8",
-  type: "module",
+  type: "test-fixture",
   slug: "hook-judging",
   definition: "a hook's judgement asked the way a test asks it, from the root it is in",
   code: "ts",
@@ -48,4 +48,4 @@ export const hookJudging = {
       statement: "Proving itself would prove nothing about any hook.",
     },
   ],
-} as const satisfies Module
+} as const satisfies TestFixture
