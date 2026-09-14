@@ -5,6 +5,7 @@ import {
   worldAt,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
+import { relationFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import {
   bodyOf,
   indexedRepo,
@@ -81,7 +82,15 @@ const WAY_BODY = `{
 
 const oneId = (one: string): string => `01a04a4a-0005-7000-8000-0000000000${one}`
 
-export const pagesAt: string = indexedRepo({
+const PACKAGE_TYPE_AT = "akasha/workspace-package.page-type.ts"
+
+function packaged(bodies: Readonly<Record<string, string>>): string {
+  const root = indexedRepo(bodies)
+  relationFiled(root, oneId("0e"), "page-property", oneId("0f"), [{ path: PACKAGE_TYPE_AT }])
+  return root
+}
+
+export const pagesAt: string = packaged({
   [SEATED_PAGE]: pageOf({ id: oneId("01"), pageTypeSlug: "module", slug: SEATED_SLUG, code: "ts" }),
   [SEATED_CODE]: "export const kept = 5\n",
   [WARDED_TYPE]: pageOf({
@@ -167,26 +176,28 @@ export const pagesAt: string = indexedRepo({
   }),
   [KEPT_PAGE]: pageOf({ id: oneId("0d"), pageTypeSlug: "kept", slug: "first" }),
   [KEPT_ENTRIES]: '{"kind":"add"}\n',
-  "akasha/manifest.file-property.ts": pageOf({
+  "akasha/workspace-manifest.file-property.ts": pageOf({
     id: oneId("0e"),
     pageTypeSlug: "file-property",
-    slug: "manifest",
-    propertySlug: "manifest",
+    slug: "workspace-manifest",
+    propertySlug: "workspace-manifest",
     fileName: "package.json",
   }),
-  "akasha/workspace-package.page-type.ts": pageOf({
+  [PACKAGE_TYPE_AT]: pageOf({
     id: oneId("0f"),
     pageTypeSlug: "page-type",
     slug: "workspace-package",
     pluralSlug: "workspace-packages",
     extends: ["page-type/domain"],
-    properties: [{ pagePropertySlug: "file-property/manifest", required: true, many: false }],
+    properties: [
+      { pagePropertySlug: "file-property/workspace-manifest", required: true, many: false },
+    ],
   }),
   "akasha/nine/nine.workspace-package.ts": pageOf({
     id: oneId("10"),
     pageTypeSlug: "workspace-package",
     slug: "nine",
-    manifest: "json",
+    workspaceManifest: "json",
   }),
   [WAY_MANIFEST]: WAY_BODY,
   [WAY_PAGE]: pageOf({ id: oneId("11"), pageTypeSlug: "module", slug: "ninth", code: "ts" }),
