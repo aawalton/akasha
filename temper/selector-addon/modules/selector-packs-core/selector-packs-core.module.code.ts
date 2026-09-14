@@ -29,19 +29,6 @@ export function computeEnableActions(pack: Pack, entries: readonly AddonEntry[])
   return actions
 }
 
-function packAddonNames(pack: Pack): string[] {
-  const names: string[] = []
-  for (const name in pack) {
-    names.push(name)
-  }
-  names.sort((a, b) => (a < b ? -1 : a > b ? 1 : 0))
-  return names
-}
-
-export function currentEnabledNames(entries: readonly AddonEntry[]): string[] {
-  return packAddonNames(buildPackFromEntries(entries))
-}
-
 export function isPackActive(pack: Pack, entries: readonly AddonEntry[]): boolean {
   const actions = computeEnableActions(pack, entries)
   return actions.length === 0
