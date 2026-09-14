@@ -55,7 +55,6 @@ function dependedOnIn(root: string, dir: string): readonly string[] {
 }
 
 type Reached = {
-  readonly pageAt: ReadonlyMap<string, string>
   readonly valueAt: ReadonlyMap<string, Value>
   readonly namedAt: ReadonlyMap<string, string>
   readonly declaring: readonly string[]
@@ -66,7 +65,6 @@ const reachedHeld = new Map<string, Reached>()
 function reachedIn(repoRoot: string): Reached {
   const held = reachedHeld.get(repoRoot)
   if (held !== undefined) return held
-  const pageAt = new Map<string, string>()
   const valueAt = new Map<string, Value>()
   const namedAt = new Map<string, string>()
   const addonUnder = new Set<string>()
@@ -74,8 +72,7 @@ function reachedIn(repoRoot: string): Reached {
   for (const one of valuesOfType(repoRoot, ESO_ADDON_TYPE)) {
     const folder = dirname(one.path)
     const dir = join(repoRoot, folder)
-    if (pageAt.has(dir)) continue
-    pageAt.set(dir, join(repoRoot, one.path))
+    if (valueAt.has(dir)) continue
     valueAt.set(dir, one.value)
     addonUnder.add(folder)
     addonsUnder.add(dirname(folder))
@@ -93,7 +90,7 @@ function reachedIn(repoRoot: string): Reached {
       if (!addonUnder.has(folder)) declaring.add(join(repoRoot, folder))
     }
   }
-  const made: Reached = { pageAt, valueAt, namedAt, declaring: [...declaring].sort() }
+  const made: Reached = { valueAt, namedAt, declaring: [...declaring].sort() }
   reachedHeld.set(repoRoot, made)
   return made
 }
@@ -129,10 +126,6 @@ export type EsoAddonPage = {
   readonly bundleEntry: string | null
   readonly bindings: string | null
   readonly luaModules: readonly string[]
-}
-
-export function esoAddonPagePathIn(repoRoot: string, dir: string): string | null {
-  return reachedIn(repoRoot).pageAt.get(dir) ?? null
 }
 
 export function readEsoAddonPage(repoRoot: string, dir: string): EsoAddonPage | null {

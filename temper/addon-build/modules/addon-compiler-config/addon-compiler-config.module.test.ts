@@ -10,7 +10,6 @@ import {
   compilerConfigBody,
   compilerConfigPathFor,
   declaringDirs,
-  esoAddonPagePathIn,
   reachedAddonDirs,
 } from "akasha/temper/addon-build/modules/addon-compiler-config/addon-compiler-config.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
@@ -53,12 +52,6 @@ function addonFolderNaming(entrySlug: string | null): { root: string; dir: strin
   valueAlsoFiled(root, ESO_ADDON, [{ path: NAMING_PAGE, value }])
   return { root, dir }
 }
-
-test("an addon page beside the manifest is found by its own file name", () => {
-  const { root, dir } = addonFolderNaming("table-functions-entry")
-  expect(esoAddonPagePathIn(root, dir)).toBe(join(dir, `${NAMING_LEAF}.eso-addon.ts`))
-  expect(esoAddonPagePathIn(root, join(dir, "gone"))).toBeNull()
-})
 
 test("a bundle entry slug becomes the path the index answers for that module's code", () => {
   const { root } = addonFolderNaming(ENTRY_LEAF)
