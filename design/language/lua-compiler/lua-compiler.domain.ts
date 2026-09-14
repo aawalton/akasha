@@ -74,7 +74,6 @@ export const luaCompiler = {
     "module/transpile-emit-file",
     "module/transpile-emit-host",
     "module/transpile-find-lua-requires",
-    "module/transpile-output-collector",
     "module/transpile-plugins",
     "module/transpile-program-paths",
     "module/transpile-prune-unused-reexports",
