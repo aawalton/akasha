@@ -1,53 +1,5 @@
 import { z } from "zod"
 
-const QueuedCompletionSchema = z
-  .object({
-    pageId: z.string(),
-    completedAt: z.string(),
-    length: z.number(),
-    queuedAt: z.string(),
-  })
-  .strict()
-
-const CompletionQueueSchema = z
-  .object({
-    version: z.literal(2),
-    entries: z.array(QueuedCompletionSchema),
-  })
-  .strict()
-
-export type QueuedCompletion = z.infer<typeof QueuedCompletionSchema>
-export type CompletionQueue = z.infer<typeof CompletionQueueSchema>
-
-export const EMPTY_COMPLETION_QUEUE: CompletionQueue = { version: 2, entries: [] }
-
-const QueuedCompletionV1Schema = QueuedCompletionSchema.omit({ length: true }).strict()
-
-const CompletionQueueV1Schema = z
-  .object({ version: z.literal(1), entries: z.array(QueuedCompletionV1Schema) })
-  .strict()
-
-export const CompletionQueuePersistedSchema = z.discriminatedUnion("version", [
-  CompletionQueueV1Schema,
-  CompletionQueueSchema,
-])
-
-export function migrateCompletionQueue(
-  parsed: z.infer<typeof CompletionQueuePersistedSchema>
-): CompletionQueue {
-  if (parsed.version === 2) return parsed
-  return { version: 2, entries: [] }
-}
-
-export function enqueueCompletion(
-  queue: CompletionQueue,
-  entry: QueuedCompletion
-): CompletionQueue {
-  const entries = queue.entries.filter((e) => e.pageId !== entry.pageId)
-  entries.push(entry)
-  return { version: 2, entries }
-}
-
 const QueuedPositionSchema = z
   .object({
     pageId: z.string(),
