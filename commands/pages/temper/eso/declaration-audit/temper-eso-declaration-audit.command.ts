@@ -28,11 +28,19 @@ export const temperEsoDeclarationAudit = {
     },
     {
       invariantKind: "departure",
-      statement: "A finding is reported rather than refused.",
+      statement: "A finding is reported whole, and the refusal says only how many were found.",
     },
     {
       invariantKind: "departure",
-      statement: "A run with findings still succeeds.",
+      statement: "A run that found something answers a code other than zero, in either form.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What that code says is what was found rather than what shape the answer took.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run finding nothing answers the code of work done, so a checker can read it.",
     },
     {
       invariantKind: "departure",

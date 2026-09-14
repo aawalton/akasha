@@ -8,10 +8,12 @@ import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/co
 import { esoDoc } from "akasha/commands/arguments/pages/eso-doc.argument.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import {
+  answeredWith,
   asJson,
+  DATA,
+  OK,
   OPERATIONAL,
   refused,
-  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
@@ -142,8 +144,13 @@ function audited(_done: string[], taken: Taken): Answer {
     observedAtMs: Date.now(),
   }
 
-  if (taken.json) return asJson(audit)
-
+  const found =
+    findings.length === 0
+      ? []
+      : [
+          `${String(findings.length)} of ${String(stamped.length)} artifact(s) compared are ` +
+            `stamped behind clone API version ${String(cloneApiVersion)}, and the rows name them`,
+        ]
   const lines = [...renderAuditReading(SUBJECT, audit.reading)]
   lines.push(
     `  POPULATION: ${String(artifacts.length)} clone-derived artifact(s) of ` +
@@ -162,24 +169,33 @@ function audited(_done: string[], taken: Taken): Answer {
     lines.push(
       `    Every artifact compared is stamped ${String(cloneApiVersion)}, current with the clone.`
     )
-    return told(lines)
+  } else {
+    lines.push(
+      `  BEHIND THE CLONE: ${String(findings.length)} of ${String(stamped.length)} artifact(s) compared.`
+    )
+    for (const one of findings.slice(0, MAX_REPORTED)) {
+      lines.push(
+        `    ${one.label} — stamped ${String(one.stamped)}, clone at ${String(cloneApiVersion)}; ` +
+          `rebuild it with \`${one.generator}\``
+      )
+    }
+    if (findings.length > MAX_REPORTED) {
+      lines.push(
+        `    and ${String(findings.length - MAX_REPORTED)} more, not listed; --json carries every one`
+      )
+    }
   }
+  return auditAnswer(audit, lines, found, taken.json === true)
+}
 
-  lines.push(
-    `  BEHIND THE CLONE: ${String(findings.length)} of ${String(stamped.length)} artifact(s) compared.`
-  )
-  for (const one of findings.slice(0, MAX_REPORTED)) {
-    lines.push(
-      `    ${one.label} — stamped ${String(one.stamped)}, clone at ${String(cloneApiVersion)}; ` +
-        `rebuild it with \`${one.generator}\``
-    )
-  }
-  if (findings.length > MAX_REPORTED) {
-    lines.push(
-      `    and ${String(findings.length - MAX_REPORTED)} more, not listed; --json carries every one`
-    )
-  }
-  return told(lines)
+export function auditAnswer(
+  audit: unknown,
+  lines: readonly string[],
+  found: readonly string[],
+  asOneJsonLine: boolean
+): Answer {
+  const code = found.length === 0 ? OK : DATA
+  return asOneJsonLine ? asJson(audit, found, code) : answeredWith(lines, found, code)
 }
 
 export async function auditing(

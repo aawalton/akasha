@@ -1,8 +1,9 @@
 import { expect, test } from "bun:test"
-import { told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { OK, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
 import type { Answering, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
+  auditAnswer,
   auditing,
   temperEsoDeclarationAudit,
 } from "akasha/commands/pages/temper/eso/declaration-audit/temper-eso-declaration-audit.command.code.ts"
@@ -54,4 +55,30 @@ test("what the call said reaches the work under the keys the argument pages name
 
   expect(seen).toEqual(["/doc.txt", "true", "none"])
   expect(said.code).toBe(0)
+})
+
+const READING = { findings: [{ label: "one" }] }
+
+const BEHIND = ["1 of 4 artifact(s) compared are stamped behind clone API version 101"]
+
+test("an artifact found behind the clone answers a code other than zero, in either shape", () => {
+  const lines = auditAnswer(READING, ["  BEHIND THE CLONE: 1 of 4"], BEHIND, false)
+  const oneLine = auditAnswer(READING, ["  BEHIND THE CLONE: 1 of 4"], BEHIND, true)
+
+  expect(lines.code).not.toBe(OK)
+  expect(oneLine.code).toBe(lines.code)
+  expect(oneLine.refusals).toEqual(lines.refusals)
+})
+
+test("the shape asked for changes the report and leaves the reading whole", () => {
+  const oneLine = auditAnswer(READING, ["  BEHIND THE CLONE: 1 of 4"], BEHIND, true)
+
+  expect(oneLine.report).toHaveLength(1)
+  expect(JSON.parse(oneLine.report[0] ?? "")).toEqual(READING)
+})
+
+test("an audit finding nothing answers the code of work done, in either shape", () => {
+  expect(auditAnswer(READING, ["  clean"], [], false).code).toBe(OK)
+  expect(auditAnswer(READING, ["  clean"], [], true).code).toBe(OK)
+  expect(auditAnswer(READING, ["  clean"], [], false).refusals).toEqual([])
 })
