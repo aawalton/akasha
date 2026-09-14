@@ -182,13 +182,6 @@ export function getPushNotifications(): PushNotificationsPlugin | null {
   return plugin
 }
 
-export function getBadge(): BadgePlugin | null {
-  const plugin = capacitorGlobal()?.Plugins?.Badge
-  if (plugin == null) return null
-  if (typeof plugin.setCount !== "function") return null
-  return plugin
-}
-
 export function getDeviceSecret(): DeviceSecretPlugin | null {
   const plugin = capacitorGlobal()?.Plugins?.DeviceSecret
   if (plugin == null) return null
