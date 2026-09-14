@@ -96,5 +96,5 @@ export const movePropertyOnEveryPage = {
       statement: "Nothing here reads the index.",
     },
   ],
-  changeKind: "change-mechanical",
+  changeKind: "change-checked",
 } as const satisfies ChangeAgent
