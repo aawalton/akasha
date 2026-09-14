@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
 import {
   classifyPermissionDenied,
-  isPermissionDenied,
   PERMISSION_DENIED_STATUS,
   PERMISSION_ERROR_TYPE,
 } from "akasha/agents/model/gateway/modules/permission-denied/permission-denied.module.code.ts"
@@ -71,15 +70,8 @@ test("a match reading an envelope with no message carries permission_error as th
   expect(PERMISSION_ERROR_TYPE).toBe("permission_error")
 })
 
-test("isPermissionDenied answers the matched flag classifyPermissionDenied returns", () => {
-  expect(isPermissionDenied(403, DENIED_BODY)).toBe(true)
-  expect(isPermissionDenied(403, "{}")).toBe(false)
-  expect(isPermissionDenied(500, DENIED_BODY)).toBe(false)
-})
-
 test("nothing here sees more of a response than the status and the body", () => {
   expect(classifyPermissionDenied.length).toBe(2)
-  expect(isPermissionDenied.length).toBe(2)
 })
 
 test("an envelope message that is an empty string becomes an empty reason", () => {

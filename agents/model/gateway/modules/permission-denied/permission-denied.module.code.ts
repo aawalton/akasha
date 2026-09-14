@@ -20,7 +20,3 @@ export function classifyPermissionDenied(
     return { matched: false }
   }
 }
-
-export function isPermissionDenied(status: number, body: string): boolean {
-  return classifyPermissionDenied(status, body).matched
-}

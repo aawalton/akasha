@@ -35,10 +35,6 @@ export const permissionDenied = {
         "A match reading an envelope with no message has `permission_error` as the reason.",
     },
     {
-      invariantKind: "departure",
-      statement: "isPermissionDenied answers the matched flag classifyPermissionDenied returns.",
-    },
-    {
       invariantKind: "absence",
       statement: "Nothing here sees a response beyond the status and the body.",
     },
