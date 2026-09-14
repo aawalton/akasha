@@ -97,6 +97,14 @@ export const noUnusedExports = {
     },
     {
       invariantKind: "departure",
+      statement: "A value a test names in a change runner's code is reached.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change runner's code no file names at all is unreached as any other code is.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A fixture's value only a fixture's own test names is unreached.",
     },
     {

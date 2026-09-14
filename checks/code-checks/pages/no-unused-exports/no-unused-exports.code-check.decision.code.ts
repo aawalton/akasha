@@ -153,6 +153,8 @@ const FIXTURE = "test-fixture"
 
 const TEST = "test"
 
+const RUNNER = "change-runner"
+
 function toldApart(name: string): boolean {
   return name !== ANYTHING && name !== DEFAULT
 }
@@ -357,6 +359,11 @@ function provesAFixture(path: string): boolean {
   return said.sections[said.sections.length - 1] === TEST
 }
 
+function runnerCoded(path: string): boolean {
+  const said = partedIn(path)
+  return said !== null && besideProperty(said, RUNNER, CODE)
+}
+
 export function unreachedIn(
   path: string,
   text: string,
@@ -369,6 +376,7 @@ export function unreachedIn(
   const wanted = told.filter((one) => !spared.has(one))
   if (wanted.length === 0) return []
   const proving = provesOnly(path)
+  const runner = runnerCoded(path)
   const taken = new Set<string>()
   const proved = new Set<string>()
   let everyProved = false
@@ -376,7 +384,7 @@ export function unreachedIn(
     if (importer === path) continue
     const body = bodyOf(importer)
     if (body === null) continue
-    const only = proving ? provesAFixture(importer) : provesOnly(importer)
+    const only = !runner && (proving ? provesAFixture(importer) : provesOnly(importer))
     for (const name of takenFrom(importer, body, path)) {
       if (name === ANYTHING) {
         if (!only) return []
