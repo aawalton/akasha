@@ -22,8 +22,6 @@ import {
   applyMove,
   evaluate,
 } from "akasha/alan/chess/modules/position/chess-position.module.code.ts"
-import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { landedMechanically } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import { band as bandArgument } from "akasha/commands/arguments/pages/band.argument.ts"
 import { color as colorArgument } from "akasha/commands/arguments/pages/color.argument.ts"
@@ -31,7 +29,6 @@ import { fen as fenArgument } from "akasha/commands/arguments/pages/fen.argument
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import {
   answering,
-  DATA,
   INPUT,
   keeping,
   keyedLines,
@@ -41,12 +38,12 @@ import {
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { chessPlay as page } from "akasha/commands/pages/chess/play/chess-play.command.ts"
 import {
-  composedFor,
-  type Naming,
-  type Put,
-} from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
+  type Writing,
+  writingIn,
+} from "akasha/commands/pages/chess/modules/page-writing/chess-page-writing.module.code.ts"
+import { chessPlay as page } from "akasha/commands/pages/chess/play/chess-play.command.ts"
+import type { Naming } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
 
 const NAMED = [bandArgument, colorArgument, fenArgument, json]
 
@@ -60,30 +57,7 @@ const WHITE = "white"
 
 const BLACK = "black"
 
-const PUT = "change-mechanical/add-file-of-any-kind"
-
 const SIDES = `\`${WHITE}\` or \`${BLACK}\``
-
-export type Wrote =
-  | { readonly landed: readonly string[]; readonly wrong: readonly string[] }
-  | { readonly refused: string; readonly code: number }
-
-export type Writing = (done: string[], named: Naming, message: string) => Promise<Wrote>
-
-function putting(one: Put): Asking {
-  return { at: PUT, given: { at: one.path, body: one.content } }
-}
-
-function writingIn(root: string): Writing {
-  return async (done: string[], named: Naming, message: string): Promise<Wrote> => {
-    const composed = composedFor(root, named)
-    if ("refused" in composed) return { refused: composed.refused, code: DATA }
-    const asked: Asking[] = [putting(composed.put), ...composed.parts.map(putting)]
-    const landed = await landedMechanically(done, root, asked, message)
-    if ("refusals" in landed) return { refused: landed.refusals.join(" "), code: landed.code }
-    return { landed: landed.landed, wrong: landed.wrong }
-  }
-}
 
 export type Playing = {
   readonly maiaAvailable: (band: number) => boolean

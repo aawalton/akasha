@@ -5,6 +5,6 @@ export const chess = {
   type: "namespace",
   slug: "chess",
   definition: "the games Alan plays out against a model and the puzzles kept beside them",
-  parts: ["command/chess-play"],
+  parts: ["command/chess-play", "module/chess-page-writing", "namespace/chess-puzzles"],
   name: "chess",
 } as const satisfies Namespace

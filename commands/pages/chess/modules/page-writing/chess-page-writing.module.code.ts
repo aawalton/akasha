@@ -1,0 +1,34 @@
+import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { landedMechanically } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { DATA } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  composedFor,
+  type Naming,
+  type Put,
+} from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
+
+const PUT = "change-mechanical/add-file-of-any-kind"
+
+const TAKE = "change-mechanical/remove-file-of-any-kind"
+
+export type Wrote =
+  | { readonly landed: readonly string[]; readonly wrong: readonly string[] }
+  | { readonly refused: string; readonly code: number }
+
+export type Writing = (done: string[], named: Naming, message: string) => Promise<Wrote>
+
+function putting(one: Put): Asking {
+  return { at: PUT, given: { at: one.path, body: one.content } }
+}
+
+export function writingIn(root: string): Writing {
+  return async (done: string[], named: Naming, message: string): Promise<Wrote> => {
+    const composed = composedFor(root, named)
+    if ("refused" in composed) return { refused: composed.refused, code: DATA }
+    const asked: Asking[] = [putting(composed.put), ...composed.parts.map(putting)]
+    for (const gone of composed.removes) asked.push({ at: TAKE, given: { at: gone } })
+    const landed = await landedMechanically(done, root, asked, message)
+    if ("refusals" in landed) return { refused: landed.refusals.join(" "), code: landed.code }
+    return { landed: landed.landed, wrong: landed.wrong }
+  }
+}
