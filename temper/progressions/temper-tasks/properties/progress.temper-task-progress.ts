@@ -1,8 +1,8 @@
-import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
+import type { TemperTaskProgress } from "akasha/temper/progressions/temper-task-progresses/temper-task-progress.page-type.types.ts"
 
 export const progress = {
   id: "01a05fd3-435e-7d0d-8c81-036d195632f1",
-  type: "page-property-entry",
+  type: "temper-task-progress",
   slug: "progress",
   propertySlug: "progress",
   definition: "how far a task has come, one character to a line",
@@ -24,4 +24,4 @@ export const progress = {
     },
   ],
   types: "ts",
-} as const satisfies PagePropertyEntry
+} as const satisfies TemperTaskProgress

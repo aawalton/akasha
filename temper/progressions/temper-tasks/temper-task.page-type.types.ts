@@ -4,7 +4,7 @@ import type { DueTime } from "akasha/temper/progressions/temper-tasks/properties
 import type { EffectiveCharacter } from "akasha/temper/progressions/temper-tasks/properties/effective-character.text-property.types.ts"
 import type { LastCompletedAt } from "akasha/temper/progressions/temper-tasks/properties/last-completed-at.instant-property.types.ts"
 import type { PendingSync } from "akasha/temper/progressions/temper-tasks/properties/pending-sync.boolean-property.types.ts"
-import type { Progress } from "akasha/temper/progressions/temper-tasks/properties/progress.page-property-entry.types.ts"
+import type { Progress } from "akasha/temper/progressions/temper-tasks/properties/progress.temper-task-progress.types.ts"
 import type { ProgressCurrent } from "akasha/temper/progressions/temper-tasks/properties/progress-current.number-property.types.ts"
 import type { ProgressTotal } from "akasha/temper/progressions/temper-tasks/properties/progress-total.number-property.types.ts"
 import type { Priority } from "akasha/temper/progressions/things/properties/priority.text-property.types.ts"
