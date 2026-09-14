@@ -11,6 +11,7 @@ import {
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import {
   numberAt,
+  slugAt,
   textAt,
   type Value,
 } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
@@ -79,11 +80,11 @@ function personaFrom(root: string, listed: Listed): Persona {
     definition: textAt(value, "definition"),
     purpose: textAt(value, "purpose"),
     portraitPath: portraitIn(listed.path, value),
-    roleSlug: textAt(value, "role"),
+    roleSlug: slugAt(value, "role"),
     valueSlug: textAt(value, "valueSlug"),
     origin: textAt(value, "origin"),
     email: textAt(value, "email"),
-    championedDomainSlug: textAt(value, "championedDomain"),
+    championedDomainSlug: slugAt(value, "championedDomain"),
     greenDayPoints: numberAt(value, "greenDayPoints"),
     history: textAt(value, "history"),
     voiceInstruction: textAt(value, "voiceInstruction"),

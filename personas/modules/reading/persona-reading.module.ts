@@ -26,6 +26,10 @@ export const personaReading = {
     },
     {
       invariantKind: "departure",
+      statement: "A domain and a role read back as the slug alone, whatever page type names it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A display name is the slug with its first letter upper case.",
     },
     {
