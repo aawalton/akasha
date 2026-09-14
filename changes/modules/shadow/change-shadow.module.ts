@@ -91,11 +91,7 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
-      statement: "A reaching handing one address on to the change answering it is built here.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That reaching refuses every address it was not built for.",
+      statement: "A reaching built here refuses every address that reaching was not built for.",
     },
     {
       invariantKind: "departure",

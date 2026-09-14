@@ -355,16 +355,6 @@ export function running(address: string): Reaching {
   }
 }
 
-export function relaying<Given>(
-  address: string,
-  run: (world: World, given: Given) => Answer | Promise<Answer>
-): Reaching {
-  return (world, at, given) => {
-    if (at === address) return Promise.resolve(run(world, given as Given))
-    return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
-  }
-}
-
 export function repoWorld(bodies: Readonly<Record<string, string>> = {}): World {
   const root = indexedRepo(bodies)
   return worldAt(root, textIn(root))
