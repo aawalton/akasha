@@ -65,8 +65,7 @@ export const aDomainWithItsParts = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A subfolder with a second page that is no workspace package or domain of the first is no part.",
+      statement: "A subfolder with a second page that is no domain of the first is no part.",
     },
     {
       invariantKind: "departure",

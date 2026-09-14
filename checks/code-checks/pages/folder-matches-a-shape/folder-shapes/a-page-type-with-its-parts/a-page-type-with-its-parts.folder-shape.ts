@@ -24,7 +24,7 @@ export const aPageTypeWithItsParts = {
     },
     {
       invariantKind: "departure",
-      statement: "That second page is a workspace package or a domain of the page type's slug.",
+      statement: "That second page is a domain of the page type's slug.",
     },
     {
       invariantKind: "departure",
@@ -81,8 +81,7 @@ export const aPageTypeWithItsParts = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A subfolder with a second page that is no workspace package or domain of the first is no part.",
+      statement: "A subfolder with a second page that is no domain of the first is no part.",
     },
     {
       invariantKind: "departure",

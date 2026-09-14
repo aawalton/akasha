@@ -200,7 +200,7 @@ export const folderShape = {
     },
     {
       invariantKind: "departure",
-      statement: "That second page is a workspace package or a domain of the page type's slug.",
+      statement: "That second page is a domain of the page type's slug.",
     },
     {
       invariantKind: "departure",
@@ -220,7 +220,7 @@ export const folderShape = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder answers with the parts that workspace package declares too.",
+      statement: "A folder answers with the parts the second page in that folder declares too.",
     },
     {
       invariantKind: "departure",

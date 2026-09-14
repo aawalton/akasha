@@ -61,8 +61,6 @@ const TS_ENDING = ".ts"
 
 const PAGE_TYPE = "page-type"
 
-const PACKAGE = "workspace-package"
-
 const DOMAIN = "domain"
 
 const WORKSPACE = "workspace"
@@ -191,10 +189,8 @@ function pairs(page: Held, said: Held): boolean {
   return page.slug !== null && said.slug === page.slug
 }
 
-const BESIDE = new Set<string>([PACKAGE, DOMAIN])
-
 function beside(said: Held): boolean {
-  return said.pageTypeSlug !== null && BESIDE.has(said.pageTypeSlug)
+  return said.pageTypeSlug === DOMAIN
 }
 
 function roots(page: Held, said: Held): boolean {

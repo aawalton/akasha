@@ -10,14 +10,14 @@ import type { Held } from "akasha/pages/modules/file-name/page-file-name.module.
 
 const PAGE_TYPE = "page-type"
 
-const BESIDE = new Set<string>(["workspace-package", "domain"])
+const DOMAIN = "domain"
 
 function besideIn(standing: Standing): Held | null {
   if (standing.pages.length !== 2) return null
   const above = standing.declaring(standing.folder)
   if (above === null) return null
   const found = standing.pages.filter(
-    (one) => one.pageTypeSlug !== null && BESIDE.has(one.pageTypeSlug) && one.slug === above.slug
+    (one) => one.pageTypeSlug === DOMAIN && one.slug === above.slug
   )
   return found.length === 1 ? (found[0] ?? null) : null
 }

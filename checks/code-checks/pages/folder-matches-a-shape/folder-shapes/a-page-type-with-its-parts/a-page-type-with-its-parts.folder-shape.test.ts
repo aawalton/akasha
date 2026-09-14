@@ -8,7 +8,7 @@ import type { Declaring } from "akasha/checks/code-checks/pages/folder-matches-a
 
 const FOLDER = "akasha/models"
 
-const PAGE_TYPES = new Set<string>(["domain", "page-type", "module", "seat", "workspace-package"])
+const PAGE_TYPES = new Set<string>(["domain", "page-type", "module", "seat"])
 
 const TYPES = new Set<string>(["page-type"])
 
@@ -87,21 +87,11 @@ test("a subfolder named properties is a part", () => {
   expect(judged(["properties/held.text-property.ts"], ["model.page-type.ts"])).toEqual([])
 })
 
-test("a workspace package slugged the page type's slug may sit beside it", () => {
-  expect(judgedBy([], ["model.page-type.ts", "model.workspace-package.ts"], DECLARING)).toEqual([])
-})
-
-test("a workspace package slugged anything else is a second page and is refused", () => {
-  const said = judgedBy([], ["model.page-type.ts", "other.workspace-package.ts"], DECLARING)
-  expect(said).toHaveLength(1)
-  expect(said[0]).toContain("2 pages rather than one")
-})
-
 test("a domain slugged the page type's slug may sit beside it", () => {
   expect(judgedBy([], ["model.page-type.ts", "model.domain.ts"], DECLARING)).toEqual([])
 })
 
-test("a second page that is neither a workspace package nor a domain is refused", () => {
+test("a second page that is no domain is refused", () => {
   const said = judgedBy([], ["model.page-type.ts", "models.page-type.ts"], DECLARING)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("2 pages rather than one")
@@ -119,8 +109,8 @@ test("a subfolder named scripts is a part", () => {
   ).toEqual([])
 })
 
-test("a workspace package slugged the page type's plural slug is a second page and is refused", () => {
-  const said = judgedBy([], ["model.page-type.ts", "models.workspace-package.ts"], DECLARING)
+test("a domain slugged the page type's plural slug is a second page and is refused", () => {
+  const said = judgedBy([], ["model.page-type.ts", "models.domain.ts"], DECLARING)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("2 pages rather than one")
 })
@@ -142,7 +132,7 @@ test("a subfolder a file the page's own property names sits under is a part", ()
   expect(judged([DEEP], ["model.page-type.ts"])).toHaveLength(1)
 })
 
-test("a subfolder declared by the workspace package beside its page type takes the shape", () => {
+test("a subfolder declared by the domain beside its page type takes the shape", () => {
   const paired = ["page-type/humming", "domain/humming"]
   const made = folderFrom({
     folder: FOLDER,
@@ -150,7 +140,7 @@ test("a subfolder declared by the workspace package beside its page type takes t
     extending: (pageTypeSlug, wanted) => wanted === "page-type" && TYPES.has(pageTypeSlug),
     declared: () => new Set<string>(["domain/humming"]),
     holds: (at) => (at.endsWith("/hummings") ? paired : []),
-    deep: ["hummings/humming.page-type.ts", "hummings/humming.workspace-package.ts"],
+    deep: ["hummings/humming.page-type.ts", "hummings/humming.domain.ts"],
   })
   expect(aPageTypeWithItsParts(made(["model.page-type.ts"]))).toEqual([])
 })
