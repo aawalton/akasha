@@ -8,7 +8,7 @@ export const monarchUpdatedAt = {
   definition: "the moment Monarch last changed a transaction",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The poll refetches a transaction whose moment has moved past the moment held here.",
     },

@@ -8,15 +8,15 @@ export const errorLastSeenAt = {
   definition: "when an error was most recently met",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The moment an error was last met moves whenever the error is met again.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The moment an error was last met is kept outside the commit.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "An error naming no such moment was last met at an unknown moment.",
     },
   ],

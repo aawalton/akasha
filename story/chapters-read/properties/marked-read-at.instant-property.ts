@@ -8,11 +8,11 @@ export const markedReadAt = {
   definition: "when the source a collection was read from was told the collection had been read",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Reading a chapter here and telling the source so are two moments.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A collection whose source was never told states no moment of telling.",
     },
   ],

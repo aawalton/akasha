@@ -8,12 +8,12 @@ export const updatedAt = {
   definition: "when a rule was last changed by the player who holds it",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The game is told when a rule changed so the game knows which rules the game has already seen.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "This instant is the moment the player changed the rule rather than the moment the rule landed.",
     },

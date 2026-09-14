@@ -8,7 +8,7 @@ export const deviceTokenLastSeenAt = {
   definition: "when a device last registered the token it is reached at",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A token carrying no such instant has not been registered again.",
     },
   ],

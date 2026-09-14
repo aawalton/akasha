@@ -8,7 +8,7 @@ export const deviceSecretRevokedAt = {
   definition: "when a device secret stopped being taken",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A device secret stating no value for this property remains taken.",
     },
   ],

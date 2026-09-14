@@ -8,7 +8,7 @@ export const removedAt = {
   definition: "when the source a collection was read from took the collection down",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The pages akasha has of a collection are kept after the source takes the collection down.",
     },

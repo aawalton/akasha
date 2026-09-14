@@ -8,15 +8,15 @@ export const errorFirstSeenAt = {
   definition: "when an error was met for the first time",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The moment an error was first met is the moment the error's page was filed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The moment an error was first met never moves.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The moment an error was first met is written into the commit.",
     },
   ],

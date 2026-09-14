@@ -8,11 +8,11 @@ export const observedAt = {
   definition: "when what a window holds of its features was last observed",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The time is the one the observer read off its own clock as it wrote.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A write that lands nothing new leaves this time where that time was.",
     },
   ],

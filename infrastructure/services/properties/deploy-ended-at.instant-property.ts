@@ -8,24 +8,24 @@ export const deployEndedAt = {
   definition: "when the last deploy of a service ended, whether that deploy put up or refused",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The deploy writes the moment as that deploy ends.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A deploy that refused moves the moment, since a refusal costs what a deploy costs.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A dry run leaves the moment as that moment was.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The cooldown a service waits out is counted from this moment.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The moment is kept uncommitted, so no deploy's closure reaches it.",
     },
   ],

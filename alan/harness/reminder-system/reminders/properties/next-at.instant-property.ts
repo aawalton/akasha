@@ -8,12 +8,12 @@ export const nextAt = {
   definition: "when a repeating thing next falls due",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The reminders that are due are read from here rather than worked out from the clock alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page with no such instant has never been armed.",
     },
   ],

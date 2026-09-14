@@ -8,7 +8,7 @@ export const retryAllowedAt = {
   definition: "when the account may be called again after a refusal",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An upstream `retry-after` header states a length and is added to now to reach this instant.",
     },

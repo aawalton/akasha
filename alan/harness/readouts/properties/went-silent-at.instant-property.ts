@@ -8,27 +8,27 @@ export const wentSilentAt = {
   definition: "when a readout began answering nothing where a number was asked of it",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A readout whose last take answered a number carries nothing here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The first take to answer nothing writes this.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The takes after leave this as it is.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This is taken away by the take that answers a number again.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A watch that has taken a readout no time yet reads it as answering nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Answering nothing is a fact about a readout rather than a fault of its watch.",
     },
   ],
