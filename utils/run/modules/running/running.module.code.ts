@@ -177,7 +177,7 @@ function leftUnder(at: string, own: string, left: string[]): undefined {
   }
 }
 
-export function leftSwept(root: string): undefined {
+function leftSwept(root: string): undefined {
   const own = ownAt() ?? ""
   let left: string[] = []
   leftUnder(root, own, left)
