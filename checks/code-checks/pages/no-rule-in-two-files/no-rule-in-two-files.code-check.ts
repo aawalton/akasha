@@ -107,16 +107,8 @@ export const noRuleInTwoFiles = {
       statement: "A run at change reads those filed rules rather than parsing every file named.",
     },
     {
-      invariantKind: "departure",
-      statement: "The filed rules are read for the typed paths the index names that are in them.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A typed path the index names and has not read is parsed on the run instead.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Reading the rest as filed and parsing those few answers as parsing all would.",
+      invariantKind: "absence",
+      statement: "A typed path the index names and has not read is parsed by nothing here.",
     },
     {
       invariantKind: "departure",

@@ -11,7 +11,7 @@ import {
   readerIn,
   readerNow,
   ruleIn,
-  ruleShort,
+  ruleTrusted,
   ruleWhole,
   saidAt,
   saidOf,
@@ -104,10 +104,9 @@ test("an index that has not read every typed path the index names is not whole",
   expect(ruleWhole(readingOf({}), [ONE])).toBe(false)
 })
 
-test("a reader is answered which of the paths the index names have not been read", () => {
-  const reading = filedBy(readerNow())
-  expect(ruleShort(reading, [ONE, "held.md"])).toEqual([])
-  expect(ruleShort(reading, [ONE, TWO])).toEqual([TWO])
+test("a reader trusts a map today's reader filed and trusts no map that is not there", () => {
+  expect(ruleTrusted(filedBy(readerNow()))).toBe(true)
+  expect(ruleTrusted(readingOf({}))).toBe(false)
 })
 
 test("a map another reader filed is not whole though every path it names was read", () => {
@@ -115,7 +114,7 @@ test("a map another reader filed is not whole though every path it names was rea
   expect(pathsRead(reading)).toEqual(new Set([ONE]))
   expect(readerFiled(reading)).toBe("the rules some other reader spelled")
   expect(ruleWhole(reading, [ONE])).toBe(false)
-  expect(ruleShort(reading, [ONE])).toBe(null)
+  expect(ruleTrusted(reading)).toBe(false)
 })
 
 test("a map naming no reader is not whole", () => {

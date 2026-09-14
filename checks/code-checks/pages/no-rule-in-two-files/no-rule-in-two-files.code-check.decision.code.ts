@@ -35,7 +35,7 @@ function speltAt(change: Change, path: string, held: Spelling): readonly Spelt[]
   return made
 }
 
-function speltOver(change: Change, over: readonly string[], held: Spelling = new Map()): Saying {
+function speltOver(change: Change, over: readonly string[], held: Spelling): Saying {
   const spelt = over.flatMap((path) => {
     if (!textNamed(path)) return []
     return speltAt(change, path, held)
@@ -93,17 +93,8 @@ export function everySpeltIn(change: Change, shadow: Shadow): Saying {
   return speltOver(change, pathsHolding(change, shadow, held), held)
 }
 
-export function everyFiledIn(shadow: Shadow, short: ReadonlySet<string> = new Set()): Saying {
-  return (rule) =>
-    shadow.index.saidOf(rule).filter((one) => shadow.holds(one.path) && !short.has(one.path))
-}
-
-function bothSaying(filed: Saying, spelt: Saying): Saying {
-  return (rule) =>
-    [...filed(rule), ...spelt(rule)].sort((one, two) => {
-      if (one.path !== two.path) return one.path < two.path ? -1 : 1
-      return one.place - two.place
-    })
+export function everyFiledIn(shadow: Shadow): Saying {
+  return (rule) => shadow.index.saidOf(rule).filter((one) => shadow.holds(one.path))
 }
 
 export function reasonsIn(path: string, text: string, every: Saying): readonly string[] {
@@ -131,8 +122,6 @@ export function refusingBy(change: Change, every: Saying): readonly Judged[] {
 
 export function refusalsOver(change: Change, shadow: Shadow, filed = false): readonly Judged[] {
   if (!change.changed.some(textNamed)) return []
-  const short = filed ? shadow.index.ruleShort() : null
-  if (short === null) return refusingBy(change, everySpeltIn(change, shadow))
-  const few = new Set(short)
-  return refusingBy(change, bothSaying(everyFiledIn(shadow, few), speltOver(change, short)))
+  if (filed && shadow.index.ruleTrusted()) return refusingBy(change, everyFiledIn(shadow))
+  return refusingBy(change, everySpeltIn(change, shadow))
 }

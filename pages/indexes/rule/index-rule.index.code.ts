@@ -80,15 +80,15 @@ export function pathsRead(reading: Reading): ReadonlySet<string> {
   return found
 }
 
-export function ruleShort(reading: Reading, named: readonly string[]): readonly string[] | null {
-  if (!reading.holds(RULE)) return null
-  if (readerFiled(reading) !== readerNow()) return null
-  const read = pathsRead(reading)
-  return named.filter((one) => typed(one) && !read.has(one))
+export function ruleTrusted(reading: Reading): boolean {
+  if (!reading.holds(RULE)) return false
+  return readerFiled(reading) === readerNow()
 }
 
 export function ruleWhole(reading: Reading, named: readonly string[]): boolean {
-  return ruleShort(reading, named)?.length === 0
+  if (!ruleTrusted(reading)) return false
+  const read = pathsRead(reading)
+  return named.every((one) => !typed(one) || read.has(one))
 }
 
 export function saidOf(reading: Reading, rule: string): readonly Said[] {

@@ -235,19 +235,15 @@ test("a map no reader of today's body filed parses every file named", () => {
   const change = bothArriving(rooted())
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
-  expect(cast.shadow.index.ruleShort()).toBe(null)
+  expect(cast.shadow.index.ruleTrusted()).toBe(false)
   expect(refusalsOver(change, cast.shadow, true)).toEqual(refusalsOver(change, cast.shadow))
 })
 
-test("an index short of paths it names parses those and reads the filed rules for the rest", () => {
+test("an index today's reader filed is read and no file of the change is parsed", () => {
   const change = bothArriving(readerFiledIn(rooted()))
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
-  const short = cast.shadow.index.ruleShort()
-  if (short === null) throw new Error("that map named no reader")
-  expect(short.length).toBeGreaterThan(0)
-  expect(short).not.toContain(ONE_CODE)
-  expect(short).not.toContain(TWO_CODE)
+  expect(cast.shadow.index.ruleTrusted()).toBe(true)
   expect(refusalsOver(change, cast.shadow, true)).toEqual(refusalsOver(change, cast.shadow))
   expect(refusalsOver(change, cast.shadow, true).length).toBeGreaterThan(0)
 })

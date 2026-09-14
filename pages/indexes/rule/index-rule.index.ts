@@ -59,20 +59,15 @@ export const indexRule = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A reader asks whether every path the index names has been read before trusting it.",
+      statement: "A reader trusts the whole map where today's reader filed it.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A reader asks of no path whether the index has read that path.",
     },
     {
       invariantKind: "departure",
-      statement: "A reader asks which of the paths the index names have not been read.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A reader reading those few itself has what the whole map would have said.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A map no reader of today's body filed answers no such few, all of it suspect.",
+      statement: "A map no reader of today's body filed is all of it suspect and read by none.",
     },
     {
       invariantKind: "departure",
