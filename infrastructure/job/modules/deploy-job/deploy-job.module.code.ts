@@ -1,7 +1,5 @@
 import { ref } from "akasha/commands/arguments/pages/ref.argument.ts"
 import { deploy } from "akasha/commands/pages/deploy/deploy.command.ts"
-import { index } from "akasha/commands/pages/index/index.namespace.ts"
-import { indexRefresh } from "akasha/commands/pages/index/refresh/index-refresh.command.ts"
 import {
   type ApiObjectManifest,
   synthOne,
@@ -14,6 +12,8 @@ import {
 import { ci } from "akasha/infrastructure/container-image/dockerfiles/built-images/ci/ci.built-image.ts"
 import { refFor } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
 import { dispatcherIn } from "akasha/infrastructure/machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.scripting.code.ts"
+import { fileOf } from "akasha/pages/indexes/modules/property-file/property-file.module.code.ts"
+import { valuedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 
 export const JOB_NAMESPACE = "workers"
@@ -44,8 +44,18 @@ const WORK = "work"
 
 const KEPT_SECONDS = 3600
 
+const MODULE = "module"
+
+const CODE = "code"
+
+const BUILDING = "index-building"
+
 export function jobNameFor(subject: string, commit: string): string {
   return `${deploy.name}-${subject}-${commit.slice(0, NAMED)}`
+}
+
+function buildingIn(given: string | Reading): string {
+  return fileOf(given, valuedAt(given, MODULE, BUILDING), MODULE, CODE)
 }
 
 export function scriptFor(given: string | Reading, subject: string, commit: string): string {
@@ -57,7 +67,7 @@ export function scriptFor(given: string | Reading, subject: string, commit: stri
     `git fetch -q --depth 1 origin ${commit}`,
     "git checkout -q FETCH_HEAD",
     "bun install --frozen-lockfile",
-    `bun ${dispatcherIn(given)} ${index.name} ${indexRefresh.name}`,
+    `bun ${buildingIn(given)}`,
     `bun ${dispatcherIn(given)} ${deploy.name} ${subject} ${ref.said} ${commit}`,
   ].join("\n")
 }

@@ -39,6 +39,10 @@ export const deployJob = {
     },
     {
       invariantKind: "departure",
+      statement: "A job builds the index by running a file rather than by calling a command.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A job runs in the image a pipeline's own steps run in.",
     },
     {

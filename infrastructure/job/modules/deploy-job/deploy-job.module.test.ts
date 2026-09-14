@@ -34,6 +34,12 @@ test("the command the job runs is asked of the index rather than spelled", () =>
   expect(said).toContain(`${SUBJECT} --ref ${COMMIT}`)
 })
 
+test("a job builds the index by running a file rather than by calling a command", () => {
+  const said = scriptFor(ROOT, SUBJECT, COMMIT)
+  expect(said).toContain("index-building.module.code.ts")
+  expect(said).not.toContain("index refresh")
+})
+
 test("a job carries the name it is known by", () => {
   const held = jobFor(ROOT, SUBJECT, COMMIT)
   expect(held.kind).toBe("Job")
