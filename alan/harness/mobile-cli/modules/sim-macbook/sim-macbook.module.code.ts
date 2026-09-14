@@ -3,13 +3,8 @@ import {
   APPIUM_BASE,
   appiumReady,
 } from "akasha/alan/harness/mobile-cli/modules/appium-client/appium-client.module.code.ts"
-import {
-  appValueExports,
-  MAC_PATH_PREFIX,
-  SCRIPT_HEADER,
-} from "akasha/alan/harness/mobile-cli/modules/foundation/foundation.module.code.ts"
+import { SCRIPT_HEADER } from "akasha/alan/harness/mobile-cli/modules/foundation/foundation.module.code.ts"
 import { MACBOOK } from "akasha/alan/harness/mobile-cli/modules/macbook-target/macbook-target.module.code.ts"
-import type { MobileApp } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
 import { runSshCapture } from "akasha/alan/harness/mobile-cli/modules/mobile-ssh/mobile-ssh.module.code.ts"
 import { quoted } from "akasha/code/shell/modules/quoting/quoting.module.code.ts"
 import { requireMatchPositional } from "akasha/utils/narrow/modules/require-match-positional/require-match-positional.module.code.ts"
@@ -56,48 +51,6 @@ export function parseResolvedUdid(stdout: string): string {
     return udid
   } catch {
     throw new OperationalError("could not resolve a simulator udid from the macbook")
-  }
-}
-
-export function buildInstallScript(opts: {
-  readonly app: MobileApp
-  readonly buildSimSource: string
-  readonly nativeShellDir: string
-  readonly stampCommit: string
-  readonly udid?: string
-  readonly configuration?: string
-  readonly stagedWwwDir?: string
-}): string {
-  const exports: string[] = [
-    MAC_PATH_PREFIX,
-    `export NATIVE_SHELL_DIR="${opts.nativeShellDir}"`,
-    `export NATIVE_SHELL_STAMP_COMMIT=${quoted(opts.stampCommit)}`,
-    ...appValueExports(opts.app),
-  ]
-  if (opts.udid !== undefined && opts.udid !== "") {
-    exports.push(`export SIM_UDID=${quoted(opts.udid)}`)
-  }
-  if (opts.configuration !== undefined && opts.configuration !== "") {
-    exports.push(`export CONFIGURATION=${quoted(opts.configuration)}`)
-  }
-  if (opts.stagedWwwDir !== undefined && opts.stagedWwwDir !== "") {
-    exports.push(`export STAGED_WWW_DIR="${opts.stagedWwwDir}"`)
-  }
-  return `${exports.join("\n")}\n${opts.buildSimSource}`
-}
-
-export function parseInstalledUdid(stdout: string): string {
-  try {
-    const [udid] = requireMatchPositional(
-      /BUILD_SIM_OK[^\n]*udid=([0-9A-Fa-f-]{8,})/,
-      z.tuple([z.string()]),
-      stdout
-    )
-    return udid
-  } catch {
-    throw new OperationalError(
-      "build-sim.sh did not report BUILD_SIM_OK (the build or install failed)"
-    )
   }
 }
 

@@ -25,10 +25,6 @@ export const simMacbook = {
       statement: "The udid is read out of simctl's JSON by python3 running on the macbook.",
     },
     {
-      invariantKind: "constraint",
-      statement: "build-sim.sh reports success by printing a BUILD_SIM_OK line with the udid.",
-    },
-    {
       invariantKind: "departure",
       statement:
         "A simulator booted is named before the udid it booted is read back, which can fail.",
