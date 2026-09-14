@@ -30,6 +30,10 @@ export const seatStating = {
     },
     {
       invariantKind: "departure",
+      statement: "A persona, a role, a person and a seat above are named by page type and slug.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An assignment is addressed under the first page type with its slug.",
     },
     {

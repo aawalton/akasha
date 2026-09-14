@@ -52,8 +52,8 @@ test("a seat stating everything is written as a page naming its person", () => {
   expect(body).toContain("export const athena = {")
   expect(body).toContain('type: "seat"')
   expect(body).not.toContain("pageTypeSlug:")
-  expect(body).toContain('person: "alan"')
-  expect(body).toContain('role: "definer"')
+  expect(body).toContain('person: "person/alan"')
+  expect(body).toContain('role: "role/definer"')
   expect(body).toContain("onCall: true,")
   expect(body).toContain("} as const satisfies Seat")
   expect(body).not.toContain("principalSeatName")
@@ -82,7 +82,7 @@ test("a seat short of a start mode or a registration is written as no page", () 
 test("a seat whose principal is no person names the seat above it", () => {
   const under = { ...WHOLE, principal: "fleet", parentName: "athena" }
   const body = seatBody(under, "athena-worker", ROOT)
-  expect(body).toContain('principalSeatName: "athena"')
+  expect(body).toContain('principalSeatName: "seat/athena"')
   expect(body).not.toContain("person:")
 })
 

@@ -10,6 +10,7 @@ import {
   slugsOfType,
   typeSlugOf,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
 import { importedFrom, saidAs } from "akasha/pages/modules/body/page-body.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
@@ -17,6 +18,12 @@ import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import { kindsUnder } from "akasha/pages/types/modules/descent/page-type-descent.module.code.ts"
 
 const PERSON = "person"
+
+const PERSONA = "persona"
+
+const ROLE = "role"
+
+const SEAT = "seat"
 
 const DOMAIN = "domain"
 
@@ -122,10 +129,12 @@ export function seatBody(
     `  id: ${saidAs(stated.agentId)},`,
     `  type: ${named},`,
     `  slug: ${saidAs(seatName)},`,
-    `  persona: ${saidAs(persona)},`,
+    `  persona: ${saidAs(namedAs(PERSONA, persona, null))},`,
     `  assignmentSlug: ${saidAs(addressed ?? assignmentAddressOf(domain, root))},`,
-    `  role: ${saidAs(role)},`,
-    person ? `  person: ${saidAs(principal)},` : `  principalSeatName: ${saidAs(above as string)},`,
+    `  role: ${saidAs(namedAs(ROLE, role, null))},`,
+    person
+      ? `  person: ${saidAs(namedAs(PERSON, principal, null))},`
+      : `  principalSeatName: ${saidAs(namedAs(SEAT, above as string, null))},`,
     `  startMode: ${saidAs(mode)},`,
     `  onCall: ${stated.onCall ? "true" : "false"},`,
     `  registrationAccount: ${saidAs(registration)},`,
