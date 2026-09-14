@@ -1,6 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
+import { readFileSync } from "node:fs"
+import { join } from "node:path"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
+  APPEND_AT,
   ASK_AT,
   answering,
   foldedInto,
@@ -204,6 +207,23 @@ test("a read naming a commit the repository does not hold is refused", async () 
   const answered = await answering(over(root), asking(asked, READ_AT))
   expect(answered.status).toBe(400)
   expect(await refusalOf(answered)).toContain("names no commit here")
+})
+
+test("an append is handed in at a path of its own", async () => {
+  const root = repoWith("one")
+  const answered = await answering(over(root), asking({ path: A_PAGE, lines: ["{}"] }, APPEND_AT))
+  expect(answered.status).toBe(200)
+  const at = "akasha/a-page.module.entries.uncommitted.jsonl"
+  expect((await bodyOf(answered)).appended).toBe(at)
+  expect(readFileSync(join(root, at), "utf8")).toBe("{}\n")
+})
+
+test("an append naming no page here is refused", async () => {
+  const root = repoWith("one")
+  const asked = { path: "akasha/nowhere.module.ts", lines: ["{}"] }
+  const answered = await answering(over(root), asking(asked, APPEND_AT))
+  expect(answered.status).toBe(400)
+  expect(await refusalOf(answered)).toContain("names no page here")
 })
 
 test("a write may have pages rather than bodies", async () => {

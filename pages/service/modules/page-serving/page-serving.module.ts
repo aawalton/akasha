@@ -202,5 +202,13 @@ export const pageServing = {
       statement:
         "A page a write composes keeps its values beside the values that write already kept.",
     },
+    {
+      invariantKind: "departure",
+      statement: "An append is handed in at a path of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An answer to an append names the file part the lines landed in.",
+    },
   ],
 } as const satisfies Module

@@ -1,3 +1,4 @@
+import type { Appending } from "akasha/pages/service/modules/page-appending/page-appending.module.code.ts"
 import {
   type Query,
   TESTS_RUN,
@@ -265,4 +266,32 @@ export function writeIn(given: unknown): Written {
   const pages = namingsIn(held.pages)
   if (typeof pages === "string") return { refused: pages }
   return { asked, pages }
+}
+
+export type Taking = { readonly appending: Appending } | { readonly refused: string }
+
+function linesRefused(lines: readonly string[]): string | null {
+  if (lines.length === 0) return "an append carries at least one line"
+  for (const one of lines) {
+    if (one.includes("\n")) return "a line in `lines` carries no newline of its own"
+  }
+  return null
+}
+
+export function appendIn(given: unknown): Taking {
+  const held = objectIn(given)
+  if (held === null) return { refused: "an append is a JSON object" }
+  const path = held.path
+  if (typeof path !== "string" || path === "") {
+    return { refused: "an append names the page it is kept beside as `path`" }
+  }
+  const lines = stringsIn(held.lines)
+  if (lines === null) return { refused: "`lines` is a list of strings" }
+  const refused = linesRefused(lines)
+  if (refused !== null) return { refused }
+  if (held.under === undefined) return { appending: { path, lines } }
+  if (typeof held.under !== "string" || held.under === "") {
+    return { refused: "an append names the part it is kept under as `under`" }
+  }
+  return { appending: { path, under: held.under, lines } }
 }

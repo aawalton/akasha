@@ -117,5 +117,13 @@ export const pageCalling = {
       invariantKind: "departure",
       statement: "A write may keep values outside the commit beside a path.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A line is appended to a page's file part through this module.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An append answered naming no file part is refused rather than read on.",
+    },
   ],
 } as const satisfies Module

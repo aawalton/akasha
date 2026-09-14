@@ -124,6 +124,7 @@ export const pagesService = {
     "module/call-reading",
     "module/file-answering",
     "module/kinds-gathering",
+    "module/page-appending",
     "module/page-asking",
     "module/page-calling",
     "module/page-composing",

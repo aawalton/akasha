@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import {
+  appendIn,
   queryIn,
   readIn,
   type Written,
@@ -151,4 +152,38 @@ test("a page saying nothing about merging has no merge", () => {
 test("a write stating no writer or no message is refused", () => {
   expect("refused" in writeIn({ message: "a message" })).toBe(true)
   expect("refused" in writeIn({ writer: "Amy <amy@alanwalton.com>" })).toBe(true)
+})
+
+test("an append naming no part is read off the body naming no part", () => {
+  const took = appendIn({ path: A_PAGE, lines: ["{}"] })
+  expect("appending" in took && took.appending).toEqual({ path: A_PAGE, lines: ["{}"] })
+})
+
+test("an append naming no page is refused", () => {
+  expect("refused" in appendIn({ lines: ["{}"] })).toBe(true)
+})
+
+test("lines that are not strings are refused", () => {
+  const took = appendIn({ path: A_PAGE, lines: [7] })
+  expect("refused" in took && took.refused).toContain("`lines`")
+})
+
+test("an append carrying no line is refused", () => {
+  const took = appendIn({ path: A_PAGE, lines: [] })
+  expect("refused" in took && took.refused).toContain("at least one line")
+})
+
+test("a line carrying a newline of its own is refused", () => {
+  const took = appendIn({ path: A_PAGE, lines: ["{}\n{}"] })
+  expect("refused" in took && took.refused).toContain("no newline of its own")
+})
+
+test("an append may name the part it is kept under", () => {
+  const took = appendIn({ path: A_PAGE, under: "check.logs", lines: ["{}"] })
+  expect("appending" in took && took.appending.under).toBe("check.logs")
+})
+
+test("an append naming that part as anything but a string is refused", () => {
+  const took = appendIn({ path: A_PAGE, under: 7, lines: ["{}"] })
+  expect("refused" in took && took.refused).toContain("`under`")
 })

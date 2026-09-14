@@ -1,4 +1,5 @@
 import {
+  appendIn,
   objectIn,
   queryIn,
   readIn,
@@ -8,6 +9,7 @@ import {
   type Named as FileNamed,
   filing,
 } from "akasha/pages/service/modules/file-answering/file-answering.module.code.ts"
+import { appending } from "akasha/pages/service/modules/page-appending/page-appending.module.code.ts"
 import {
   answeringWithin,
   asking,
@@ -31,6 +33,8 @@ export const WRITE_AT = "/write"
 const SHAPE_AT = "/shape"
 
 export const FILE_AT = "/file"
+
+export const APPEND_AT = "/append"
 
 const OCTETS = "application/octet-stream"
 
@@ -102,7 +106,14 @@ async function bodyIn(request: Request): Promise<unknown> {
 
 export async function answering(given: Serving, request: Request): Promise<Response> {
   const at = new URL(request.url).pathname
-  if (at !== ASK_AT && at !== READ_AT && at !== WRITE_AT && at !== SHAPE_AT && at !== FILE_AT) {
+  if (
+    at !== ASK_AT &&
+    at !== READ_AT &&
+    at !== WRITE_AT &&
+    at !== SHAPE_AT &&
+    at !== FILE_AT &&
+    at !== APPEND_AT
+  ) {
     return said({ refused: `nothing is asked at ${at}` }, 404)
   }
   if (request.method !== "POST") {
@@ -123,6 +134,13 @@ export async function answering(given: Serving, request: Request): Promise<Respo
     const found = filing(given.root, sought.named)
     if ("refused" in found) return said({ refused: found.refused }, 400)
     return new Response(found.bytes, { status: 200, headers: { "content-type": OCTETS } })
+  }
+  if (at === APPEND_AT) {
+    const sought = appendIn(body)
+    if ("refused" in sought) return said({ refused: sought.refused }, 400)
+    const done = appending(given.root, sought.appending)
+    if ("refused" in done) return said({ refused: done.refused }, 400)
+    return said(done, 200)
   }
   if (at === READ_AT) {
     const sought = readIn(body)
