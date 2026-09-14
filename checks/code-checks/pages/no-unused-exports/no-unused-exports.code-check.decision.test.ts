@@ -59,6 +59,8 @@ import {
   SERVICE_TEXT,
   SHAPE_AT,
   SHAPE_TEXT,
+  SLUGGED_AT,
+  SLUGGED_TEXT,
   SPELLED,
   scratch,
   TUNNEL_AT,
@@ -421,6 +423,15 @@ test("the three names a model test's code is reached by are spared and another i
 
 test("the names a type generator is loaded by are spared and another beside them is judged", () => {
   const said = judging(landing(rooted(), { [GENERATOR_AT]: bytesOf(GENERATOR_TEXT) })).map(
+    (one) => one.reason
+  )
+
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`spare`")
+})
+
+test("a page named for a slug a value is spared under keeps the export the page is named for", () => {
+  const said = judging(landing(rooted(), { [SLUGGED_AT]: bytesOf(SLUGGED_TEXT) })).map(
     (one) => one.reason
   )
 

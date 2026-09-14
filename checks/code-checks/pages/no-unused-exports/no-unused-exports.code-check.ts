@@ -210,6 +210,11 @@ export const noUnusedExports = {
       statement: "The content hash an addon bundle is tagged with is read out of its own body.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A spare keyed on a module's slug leaves the export that module's page is named for.",
+    },
+    {
       invariantKind: "gap",
       statement: "A module states for itself which of its values a runner reaches by path.",
     },

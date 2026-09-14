@@ -315,11 +315,11 @@ export function sparedIn(
   if (lua !== null) return new Set([lua])
   const beside = reachedBeside(said)
   if (beside !== null) return beside
-  const bySlug = BY_SLUG.get(said.slug)
-  if (bySlug !== undefined) return bySlug
   const coded = groupCoded(said, groups)
   if (coded !== null) return new Set([coded])
-  return pageNamed(path, pageTypes) ? new Set([exportedAs(said.slug)]) : NOTHING
+  const spared = new Set(BY_SLUG.get(said.slug) ?? NOTHING)
+  if (pageNamed(path, pageTypes)) spared.add(exportedAs(said.slug))
+  return spared
 }
 
 export type Unreached = {

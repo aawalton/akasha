@@ -81,6 +81,12 @@ export const WRITING_AT = "akasha/held.shell-script.scripting.code.ts"
 
 export const WRITING_TEXT = 'export const bodyIn = (): string => ""\n\nexport const spare = 2\n'
 
+export const SLUGGED_AT = "akasha/carried-file.module.ts"
+
+export const SLUGGED_TEXT =
+  'export const carriedFile = { id: "01a0927a-1000-7001-8000-000000000003",' +
+  ' pageTypeSlug: "module", slug: "carried-file" }\nexport const spare = 2\n'
+
 export const DRAWING_AT = "akasha/held.page-type.page-component.code.tsx"
 
 export const DRAWING_TEXT = "export const Drawing = (): number => 1\n\nexport const spare = 2\n"
@@ -166,6 +172,7 @@ export function rooted(): string {
   const root = scratch.rootFor("akasha-unused-exports-")
   founded(root)
   typed(root, "domain", "page")
+  typed(root, "module", "domain")
   typed(root, "lualib", "domain")
   typed(root, "command", "domain")
   typed(root, "computed-property", "domain")
