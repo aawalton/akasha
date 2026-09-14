@@ -179,6 +179,23 @@ export function pathFiled(root: string, path: string, lines: readonly unknown[])
   listingAdded(root, path)
 }
 
+function pathSaid(line: string): unknown {
+  try {
+    return (JSON.parse(line) as { path?: unknown }).path
+  } catch {
+    return undefined
+  }
+}
+
+export function pagesFilingPath(reading: Reading, path: string): readonly string[] {
+  const found: string[] = []
+  for (const line of reading.lines(`${join(indexPath.name, path)}${ENDING}`)) {
+    const said = pathSaid(line)
+    if (typeof said === "string") found.push(said)
+  }
+  return found
+}
+
 export function listingFiled(root: string, paths: readonly string[]): undefined {
   const at = making(root, `${join(indexListing.name, AT_PATH)}${ENDING}`)
   writeFileSync(at, paths.map((one) => `${one}\n`).join(""))

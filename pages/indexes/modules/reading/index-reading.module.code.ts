@@ -11,7 +11,6 @@ import {
   readingAt,
   readingOf,
 } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
-import { indexPath } from "akasha/pages/indexes/path/index-path.index.ts"
 import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
 import { indexShapes } from "akasha/pages/indexes/shapes/index-shapes.index.ts"
 import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
@@ -33,8 +32,6 @@ const IDENTITY = indexIdentity.name
 const IMPORT = indexImport.name
 
 const LISTING = indexListing.name
-
-const PATH = indexPath.name
 
 const RELATION = indexRelation.name
 
@@ -226,12 +223,6 @@ export function listedEvery(given: string | Reading, address: PageAddress): read
 
 export function listedFor(given: string | Reading, address: PageAddress): Listed | null {
   return listedEvery(given, address)[0] ?? null
-}
-
-export function listedByPath(given: string | Reading, path: string): readonly Listed[] {
-  return answered(given, ROOT, `what names \`${path}\``, (reading) =>
-    listedIn(reading, join(PATH, `${path}${ENDING}`))
-  )
 }
 
 function pathsIn(reading: Reading, at: string): readonly string[] {

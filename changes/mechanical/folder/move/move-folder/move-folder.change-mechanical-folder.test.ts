@@ -29,7 +29,11 @@ const GAMMA_CODE = `${FROM}/deep/gamma.module.code.ts`
 
 const OUTER_CODE = "akasha/five/outer.module.code.ts"
 
-const CLAIMS = "01a04a4a-0002-7000-8000-000000000001"
+const MODULE = "module"
+
+const ROUTES = "routes"
+
+const ROUTES_AT = ".react-router"
 
 const HELD: Readonly<Record<string, string>> = {
   [`${FROM}/alpha.module.ts`]: carriedPage("alpha", "01a04a4a-0002-7000-8000-000000000001"),
@@ -181,15 +185,14 @@ test("a folder holding no file is refused", async () => {
   expect(said.refused ?? "").toMatch(/holds no file/)
 })
 
-test("a folder the index claims under the folder that moves is refused rather than left behind", async () => {
+test("a folder a page claims under the folder that moves is refused rather than left behind", async () => {
   const root = indexedRepo(HELD)
-  const claimed = `${FROM}/.react-router`
+  const claimed = `${FROM}/${ROUTES_AT}`
   put(root, `${claimed}/types/routes.ts`, "export const routes = 1\n")
   const world = worldIn(root)
   const face = {
     ...world.index,
-    listedByPath: (path: string) =>
-      path === claimed ? [{ path: `${FROM}/alpha.module.ts`, id: CLAIMS }] : [],
+    folderPropertiesAt: () => new Map([[MODULE, new Map([[ROUTES, ROUTES_AT]])]]),
   }
   const said = await runChange(
     { ...world, unentered: (folder: string) => treeUnentered(root, folder, face) },
@@ -200,13 +203,13 @@ test("a folder the index claims under the folder that moves is refused rather th
   expect(said.refused ?? "").toContain(claimed)
 })
 
-test("a folder the index claims nothing of is carried rather than refused", async () => {
+test("a folder no page claims is carried rather than refused", async () => {
   const root = indexedRepo(HELD)
-  put(root, `${FROM}/.react-router/types/routes.ts`, "export const routes = 1\n")
+  put(root, `${FROM}/${ROUTES_AT}/types/routes.ts`, "export const routes = 1\n")
   const said = await runChange(worldIn(root), { from: FROM, to: INTO })
 
   expect(said.refused).toBeNull()
-  expect(pathsIn(said)).toContain(`${INTO}/.react-router/types/routes.ts`)
+  expect(pathsIn(said)).toContain(`${INTO}/${ROUTES_AT}/types/routes.ts`)
 })
 
 test("a listing short of a file git tracks is refused rather than carried short", async () => {

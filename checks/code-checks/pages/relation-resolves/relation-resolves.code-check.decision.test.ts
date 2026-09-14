@@ -209,9 +209,7 @@ test("the id of a page taken away is read from the body the change takes away", 
   naming(root, D_ID, "domain-slug", A_ID, A)
   filing(root, A, A_ID, "note", "a")
   const change = over(root, [D], { [D]: null })
-  const shadow = shadowed(change)
-  expect(shadow.index.listedByPath(D)).toEqual([])
-  expect(namersOf(change, shadow)).toEqual([A])
+  expect(namersOf(change, shadowed(change))).toEqual([A])
 })
 
 test("a refusal is laid on the page that names, and one is raised for each name", () => {

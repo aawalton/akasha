@@ -11,7 +11,6 @@ import {
   importersOf,
   indexNamed,
   listedById,
-  listedByPath,
   listedFor,
   listedWithin,
   readingIn,
@@ -22,7 +21,6 @@ import {
 import {
   importFiled,
   listingFiled,
-  noPathsFiled,
   nothingFiled,
   pathFiled,
   scopedFiled,
@@ -129,39 +127,6 @@ test("a scope named on its own is answered without an address being composed", (
   ).toEqual([held])
 })
 
-test("a path the index carries is answered with the page carrying it", () => {
-  const root = rootAt()
-  pathFiled(root, "akasha/a.module.code.ts", [{ path: "akasha/a.module.ts", id: A }])
-
-  expect(listedByPath(root, "akasha/a.module.code.ts")).toEqual([
-    { path: "akasha/a.module.ts", id: A },
-  ])
-})
-
-test("a page's own path is answered with itself", () => {
-  const root = rootAt()
-  pathFiled(root, "akasha/a.module.ts", [{ path: "akasha/a.module.ts", id: A }])
-
-  expect(listedByPath(root, "akasha/a.module.ts")).toEqual([{ path: "akasha/a.module.ts", id: A }])
-})
-
-test("a path no page carries is answered with nothing rather than by throwing", () => {
-  const root = rootAt()
-  noPathsFiled(root)
-
-  expect(listedByPath(root, "akasha/nowhere.module.ts")).toEqual([])
-})
-
-test("a path two pages fall on is answered with both of them", () => {
-  const root = rootAt()
-  pathFiled(root, "x.module.code.ts", [
-    { path: "x.module.code.ts", id: B },
-    { path: "x.module.ts", id: A },
-  ])
-
-  expect(listedByPath(root, "x.module.code.ts").map((one) => one.id)).toEqual([B, A])
-})
-
 test("every path the index files is answered as the lines of the one file holding them", () => {
   const root = rootAt()
   const held = ["akasha/a.module.code.ts", "akasha/a.module.ts", "akasha/held/b.module.ts"]
@@ -206,7 +171,6 @@ test("every reader is refused where the index stands nowhere, whatever it was as
   expect(() => listedById(root, A)).toThrow(indexNamed())
   expect(() => listedById(root, A)).toThrow(/is not an index naming none/)
   expect(() => everyPath(root)).toThrow(/is not an index naming none/)
-  expect(() => listedByPath(root, "akasha/a.module.ts")).toThrow(/is not an index naming none/)
 })
 
 test("every reader is refused where a refresh left the index part way through", () => {
@@ -267,11 +231,9 @@ test("an index's own place is answered under the index root", () => {
 
 test("a reader answers alike whether it is given the root or a reading of the index", () => {
   const root = rootAt()
-  pathFiled(root, "akasha/a.module.ts", [{ path: "akasha/a.module.ts", id: A }])
+  idFiled(root, A, [{ path: "akasha/a.module.ts", id: A }])
 
-  expect(listedByPath(readingIn(root), "akasha/a.module.ts")).toEqual(
-    listedByPath(root, "akasha/a.module.ts")
-  )
+  expect(listedById(readingIn(root), A)).toEqual(listedById(root, A))
 })
 
 test("every page of one page type is answered from the slugs filed under that page type", () => {

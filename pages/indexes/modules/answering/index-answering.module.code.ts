@@ -30,7 +30,6 @@ import {
   type Listed,
   listedAt,
   listedById,
-  listedByPath,
   listedNamed,
   listedWithin,
   type Named,
@@ -78,7 +77,6 @@ export type Answering = {
   readonly knownIn: () => Shaped
   readonly listedAt: (pageTypeSlug: string, slug: string) => readonly Listed[]
   readonly listedById: (id: string) => Listed | null
-  readonly listedByPath: (path: string) => readonly Listed[]
   readonly listedNamed: (
     uniqueKind: string,
     scope: string,
@@ -141,7 +139,6 @@ export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
     knownIn: heldOnce(() => knownIn(reading, pageOf)),
     listedAt: (pageTypeSlug, slug) => listedAt(reading, pageTypeSlug, slug),
     listedById: (id) => listedById(reading, id),
-    listedByPath: (path) => listedByPath(reading, path),
     listedNamed: (uniqueKind, scope, propertySlug, said) =>
       listedNamed(reading, uniqueKind, scope, propertySlug, said),
     listedWithin: (pageTypeSlug, scopePropertySlug, scopeValue, propertySlug, said) =>

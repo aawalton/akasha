@@ -117,8 +117,7 @@ export const moveFolder = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A folder the index files as a page's own holding a file under the folder moved refuses the move.",
+      statement: "A folder a page claims holding a file under the folder moved refuses the move.",
     },
     {
       invariantKind: "departure",

@@ -168,10 +168,6 @@ function worldIn(made: Making): World {
         )
         return found === undefined ? [] : [{ path: found[0], id: found[1]["id"] }]
       },
-      listedByPath: (path: string) => {
-        const value = made.values[path]
-        return value === undefined ? [] : [{ path, id: value["id"] }]
-      },
       namersOf: () => made.namers ?? NAMERS,
       declaringOf: (id: string) => made.under[id] ?? [],
       kindsUnder: (slug: string) => new Set([slug]),
