@@ -7,7 +7,7 @@ export const changeDraft = {
   definition: "the command answering one change and keeping its edits rather than landing them",
   code: "ts",
   test: "ts",
-  timeout: null,
+  timeout: 300,
   invariants: [
     {
       invariantKind: "departure",
@@ -127,7 +127,14 @@ export const changeDraft = {
       invariantKind: "absence",
       statement: "No redirect carries that answer to a file.",
     },
-    { invariantKind: "departure", statement: "A draft runs under no ceiling on the wall clock." },
+    {
+      invariantKind: "departure",
+      statement: "A draft is ended at the ceiling on the wall clock its page states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A draft ended that way keeps nothing and says nothing.",
+    },
     {
       invariantKind: "departure",
       statement: "A change past the processor seconds its page allows keeps nothing.",

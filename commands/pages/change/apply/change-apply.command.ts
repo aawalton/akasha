@@ -7,7 +7,7 @@ export const changeApply = {
   definition: "the command landing every edit kept, answering one change first where one is named",
   code: "ts",
   test: "ts",
-  timeout: null,
+  timeout: 300,
   invariants: [
     {
       invariantKind: "departure",
@@ -137,7 +137,14 @@ export const changeApply = {
       invariantKind: "departure",
       statement: "What lands is not always the text handed in.",
     },
-    { invariantKind: "departure", statement: "An apply runs under no ceiling on the wall clock." },
+    {
+      invariantKind: "departure",
+      statement: "An apply is ended at the ceiling on the wall clock its page states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An apply ended that way lands nothing and says nothing.",
+    },
     {
       invariantKind: "departure",
       statement: "A change past the processor seconds its page allows lands nothing.",
