@@ -5,7 +5,10 @@ export const xFiles = {
   type: "show-collection",
   slug: "x-files",
   title: "X-Files",
-  partOfCollections: ["science-fiction-fandoms", "speculative-antholoagies"],
+  partOfCollections: [
+    "fandom-collection/science-fiction-fandoms",
+    "show-collection/speculative-antholoagies",
+  ],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

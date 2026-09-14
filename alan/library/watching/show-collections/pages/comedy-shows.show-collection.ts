@@ -5,7 +5,7 @@ export const comedyShows = {
   type: "show-collection",
   slug: "comedy-shows",
   title: "Comedy Shows",
-  partOfCollections: ["shows"],
+  partOfCollections: ["show-collection/shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

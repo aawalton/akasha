@@ -5,7 +5,7 @@ export const watchWithJen = {
   type: "show-collection",
   slug: "watch-with-jen",
   title: "Watch with Jen",
-  partOfCollections: ["shows"],
+  partOfCollections: ["show-collection/shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

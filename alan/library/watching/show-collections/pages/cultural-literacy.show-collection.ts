@@ -5,7 +5,7 @@ export const culturalLiteracy = {
   type: "show-collection",
   slug: "cultural-literacy",
   title: "Cultural Literacy",
-  partOfCollections: ["shows"],
+  partOfCollections: ["show-collection/shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

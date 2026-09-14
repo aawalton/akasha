@@ -5,7 +5,7 @@ export const sitcoms = {
   type: "show-collection",
   slug: "sitcoms",
   title: "Sitcoms",
-  partOfCollections: ["shows"],
+  partOfCollections: ["show-collection/shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

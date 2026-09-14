@@ -5,7 +5,7 @@ export const phineasAndFerb = {
   type: "show-collection",
   slug: "phineas-and-ferb",
   title: "Phineas and Ferb",
-  partOfCollections: ["family-friendly-shows"],
+  partOfCollections: ["show-collection/family-friendly-shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

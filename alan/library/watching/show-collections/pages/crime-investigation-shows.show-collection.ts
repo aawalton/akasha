@@ -5,7 +5,7 @@ export const crimeInvestigationShows = {
   type: "show-collection",
   slug: "crime-investigation-shows",
   title: "Crime Investigation Shows",
-  partOfCollections: ["shows"],
+  partOfCollections: ["show-collection/shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

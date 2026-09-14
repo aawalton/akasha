@@ -5,7 +5,7 @@ export const familyFriendlyShows = {
   type: "show-collection",
   slug: "family-friendly-shows",
   title: "Family Friendly Shows",
-  partOfCollections: ["shows"],
+  partOfCollections: ["show-collection/shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

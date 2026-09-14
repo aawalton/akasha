@@ -5,7 +5,7 @@ export const fantasticBeastsMovieSeries = {
   type: "show-collection",
   slug: "fantastic-beasts-movie-series",
   title: "Fantastic Beasts Movie Series",
-  partOfCollections: ["harry-potter-movies"],
+  partOfCollections: ["show-collection/harry-potter-movies"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

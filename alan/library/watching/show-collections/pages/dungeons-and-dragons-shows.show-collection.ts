@@ -5,7 +5,7 @@ export const dungeonsAndDragonsShows = {
   type: "show-collection",
   slug: "dungeons-and-dragons-shows",
   title: "Dungeons and Dragons Shows",
-  partOfCollections: ["dungeons-and-dragons"],
+  partOfCollections: ["fandom/dungeons-and-dragons"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,
