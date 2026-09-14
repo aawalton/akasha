@@ -6,7 +6,7 @@ export const alanBook = {
   slug: "alan-book",
   definition: "one book Alan writes",
   pluralSlug: "alan-books",
-  extends: ["page-type/domain"],
+  extends: ["page-type/collection", "page-type/domain"],
   parts: [
     "alan-book/all-about-alan",
     "alan-book/learn-everything",
@@ -15,11 +15,7 @@ export const alanBook = {
     "alan-book/my-projects",
     "alan-book/my-strategy",
   ],
-  properties: [
-    { pageProperty: "text-property/title", required: true, many: false },
-    { pageProperty: "text-property/description", required: false, many: false, maxLength: 1000 },
-    { pageProperty: "relation-property/collection-unit", required: false, many: false },
-  ],
+  properties: [{ pageProperty: "text-property/title", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",
@@ -32,6 +28,11 @@ export const alanBook = {
     {
       invariantKind: "departure",
       statement: "A book Alan writes is a domain, and its sections are what that domain holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A book Alan writes is a collection, and its sections name it as the one they are in.",
     },
   ],
   types: "ts",
