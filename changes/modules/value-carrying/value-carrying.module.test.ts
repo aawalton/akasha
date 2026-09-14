@@ -1,11 +1,10 @@
 import { expect, test } from "bun:test"
-import { bodiesIn, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { worldOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
   askedIn,
   atMostIn,
   carriedIn,
-  carryingOver,
   holdingIn,
   keyAskedIn,
   spelledAs,
@@ -13,13 +12,9 @@ import {
 import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 
-const ADD = "change-mechanical-file-content/add-page-property"
-
 const ONE_AT = "story/chapters-read/pages/one.story-chapter-read.ts"
 
 const TWO_AT = "story/chapters-read/pages/two.story-chapter-read.ts"
-
-const BAD_AT = "story/chapters-read/pages/bad.story-chapter-read.ts"
 
 function bodied(slug: string, parent: string): string {
   return `import type { StoryChapterRead } from "../story-chapter-read.page-type.ts"
@@ -36,7 +31,6 @@ export const ${slug} = {
 const BODIES = {
   [ONE_AT]: bodied("one", "salvos"),
   [TWO_AT]: bodied("two", "story-read/delve"),
-  [BAD_AT]: "const bad = 1\n",
 }
 
 type Values = ReadonlyMap<string, Readonly<Record<string, unknown>>>
@@ -218,30 +212,4 @@ test("the arguments handed in become what the carrying is asked for", () => {
 
 test("an argument handed no value is refused by the key naming that argument", () => {
   expect(askedIn({ from: "a", to: "b" })).toMatch(/`page-type` names what this change is handed/)
-})
-
-test("each change reached gathers into one answer over the edits before it", async () => {
-  const world = typedIn(DECLARED)
-  const carrier = carryingOver(world)
-
-  const put = await carrier.reaching(ADD, {
-    at: ONE_AT,
-    key: "storySlug",
-    value: `"salvos"`,
-    after: "partOfCollectionSlugs",
-  })
-
-  expect(put).toBeNull()
-  const said = carrier.gatheredIn()
-  expect(said.refused).toBeNull()
-  expect(bodiesIn(said, world.base).get(ONE_AT) ?? "").toContain(`storySlug: "salvos"`)
-})
-
-test("a change refused is answered by the reason that change gave", async () => {
-  const carrier = carryingOver(typedIn(DECLARED))
-
-  const put = await carrier.reaching(ADD, { at: BAD_AT, key: "storySlug", value: `"salvos"` })
-
-  expect(put).not.toBeNull()
-  expect(carrier.gatheredIn().edits).toEqual([])
 })

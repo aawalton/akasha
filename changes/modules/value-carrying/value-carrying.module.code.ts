@@ -1,12 +1,5 @@
-import { gathered, missing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
-import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import {
-  isLedger,
-  ledgerAt,
-  type Reaches,
-  reach,
-  type World,
-} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { missing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 
@@ -34,11 +27,6 @@ export type KeyHoldingAsked = {
 export type Asked = Readonly<Record<string, string>>
 
 export type Carrying = { readonly path: string; readonly value: string }
-
-export type Carrier = {
-  readonly reaching: (address: Reaches, asked: unknown) => Promise<string | null>
-  readonly gatheredIn: () => Answer
-}
 
 export function spelledAs(held: unknown, many: boolean): string | null {
   if (many || !Array.isArray(held)) return JSON.stringify(held) ?? null
@@ -86,23 +74,6 @@ export function carriedIn(world: World, given: ValueCarryingAsked): readonly Car
     }
   }
   return found
-}
-
-export function carryingOver(world: World): Carrier {
-  const answers: Answer[] = []
-  let over: World = isLedger(world)
-    ? world
-    : ledgerAt(world.root, world.bodyOf, world.reaching, world.textOf)
-  return {
-    reaching: async (address, asked) => {
-      const said = await reach(over, address, asked)
-      if (said.said.refused !== null) return said.said.refused
-      over = said.world
-      answers.push(said.said)
-      return null
-    },
-    gatheredIn: () => gathered(answers),
-  }
 }
 
 export function atMostIn(said: string | undefined): number | null | string {

@@ -73,14 +73,7 @@ export const valueCarrying = {
       invariantKind: "departure",
       statement: "A count that is no whole number above nothing is refused.",
     },
-    {
-      invariantKind: "departure",
-      statement: "Each page is reached over the edits the pages before that page left.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A change reached and refused is answered by the reason that change gave.",
-    },
+
     {
       invariantKind: "departure",
       statement:
