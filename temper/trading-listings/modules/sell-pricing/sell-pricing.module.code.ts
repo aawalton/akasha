@@ -2,12 +2,7 @@ import { parseItemLink } from "akasha/temper/items-core/modules/item-link-parser
 
 const ITEMTYPE_WEAPON = 1
 const ITEMTYPE_ARMOR = 2
-export const ITEMTYPE_FOOD = 4
 const ITEMTYPE_POTION = 7
-export const ITEMTYPE_DRINK = 12
-export const ITEMTYPE_GLYPH_WEAPON = 20
-export const ITEMTYPE_GLYPH_ARMOR = 21
-export const ITEMTYPE_GLYPH_JEWELRY = 26
 const ITEMTYPE_POISON = 30
 
 interface ItemPriceKeyInput {

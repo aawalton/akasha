@@ -17,12 +17,6 @@ export function mergeListings<F>(
   return [...byUid.values()]
 }
 
-export function sortByUnitPriceAsc<F>(
-  listings: readonly BrowseListing<F>[]
-): readonly BrowseListing<F>[] {
-  return [...listings].sort(comparePrice)
-}
-
 export function sortByUnitPriceDesc<F>(
   listings: readonly BrowseListing<F>[]
 ): readonly BrowseListing<F>[] {
@@ -31,12 +25,6 @@ export function sortByUnitPriceDesc<F>(
     if (a.pricePerUnit > b.pricePerUnit) return -1
     return compareUid(a, b)
   })
-}
-
-function comparePrice<F>(a: BrowseListing<F>, b: BrowseListing<F>): number {
-  if (a.pricePerUnit < b.pricePerUnit) return -1
-  if (a.pricePerUnit > b.pricePerUnit) return 1
-  return compareUid(a, b)
 }
 
 function compareUid<F>(a: BrowseListing<F>, b: BrowseListing<F>): number {
