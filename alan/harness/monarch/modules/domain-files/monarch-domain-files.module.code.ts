@@ -19,7 +19,10 @@ import {
 } from "akasha/alan/harness/monarch/modules/files/monarch-files.module.code.ts"
 import type { WriteItem } from "akasha/alan/harness/monarch/modules/land-files/monarch-land-files.module.code.ts"
 import { through } from "akasha/alan/harness/monarch/modules/land-files/monarch-land-files.module.code.ts"
+import { namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
 import { bodyOf, importedFrom } from "akasha/pages/modules/body/page-body.module.code.ts"
+
+const MONARCH_ACCOUNT = "monarch-account"
 
 export type Value = string | number | boolean
 
@@ -195,7 +198,7 @@ function tagWanted(t: MonarchTag): Wanted {
 
 function holdingWanted(accountSlug: string, h: MonarchHolding): Wanted {
   const values: Record<string, Value> = {
-    account: accountSlug,
+    account: namedAs(MONARCH_ACCOUNT, accountSlug, null),
     securityName: h.securityName,
     quantity: h.quantity,
     costBasis: h.basis ?? 0,
@@ -226,7 +229,7 @@ export async function landAccountFiles(
   accounts: readonly MonarchAccount[]
 ): Promise<ReadonlyMap<string, string>> {
   const held = await landing(
-    "monarch-account",
+    MONARCH_ACCOUNT,
     ACCOUNT_FOLDER,
     await accountPages(),
     accounts.map(accountWanted)

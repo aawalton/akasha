@@ -53,5 +53,9 @@ export const monarchDomainFiles = {
       invariantKind: "departure",
       statement: "Every page landed is landed from inside akasha.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A holding names the account it sits in by page type and slug.",
+    },
   ],
 } as const satisfies Module
