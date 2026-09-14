@@ -12,5 +12,5 @@ export const mercedesBenzEqsSuv2026 = {
   sources:
     "- https://www.truecar.com/overview/mercedes-benz/eqs-suv/\n- https://www.mbusa.com/en/vehicles/class/eqs/suv",
   exclusionReason: "All trims excluded",
-  carModel: "mercedes-benz-eqs-suv",
+  carModel: "car-model/mercedes-benz-eqs-suv",
 } as const satisfies CarYear

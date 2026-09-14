@@ -11,5 +11,5 @@ export const lexusTx2025 = {
   shortList: false,
   sources: "- Lexus 2025 TX",
   exclusionReason: "All trims excluded",
-  carModel: "lexus-tx",
+  carModel: "car-model/lexus-tx",
 } as const satisfies CarYear

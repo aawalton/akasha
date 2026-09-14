@@ -12,5 +12,5 @@ export const hyundaiElantraHybrid2026 = {
   sources:
     "- https://www.hyundaiusa.com/us/en/vehicles/elantra-hybrid\n- https://www.edmunds.com/hyundai/elantra-hybrid/",
   exclusionReason: "All trims excluded",
-  carModel: "hyundai-elantra-hybrid",
+  carModel: "car-model/hyundai-elantra-hybrid",
 } as const satisfies CarYear

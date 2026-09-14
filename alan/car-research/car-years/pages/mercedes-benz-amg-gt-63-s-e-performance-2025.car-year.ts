@@ -11,5 +11,5 @@ export const mercedesBenzAmgGt63SEPerformance2025 = {
   shortList: false,
   sources: "- https://www.mbusa.com/en/future-vehicles/2025-mercedes-amg-gt-63-s-e-performance",
   exclusionReason: "All trims excluded",
-  carModel: "mercedes-benz-amg-gt-63-s-e-performance",
+  carModel: "car-model/mercedes-benz-amg-gt-63-s-e-performance",
 } as const satisfies CarYear

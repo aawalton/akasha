@@ -11,5 +11,5 @@ export const fordF150Hybrid2025 = {
   shortList: false,
   sources: "- [Ford.com 2025 F-150](https://www.ford.com/trucks/f150/2025/)",
   exclusionReason: "All trims excluded",
-  carModel: "ford-f-150-hybrid",
+  carModel: "car-model/ford-f-150-hybrid",
 } as const satisfies CarYear

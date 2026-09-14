@@ -12,5 +12,5 @@ export const kiaCarnivalHybrid2026 = {
   sources:
     "https://www.kia.com/us/en/carnival-mpv-hybrid\nhttps://www.kia.com/us/en/carnival-mpv-hybrid/specs-compare\nhttps://www.autoblog.com/news/2026-kia-carnival-only-gets-a-tiny-price-increase-should-you-buy-a-2025-instead",
   exclusionReason: "All trims excluded",
-  carModel: "kia-carnival-hybrid",
+  carModel: "car-model/kia-carnival-hybrid",
 } as const satisfies CarYear

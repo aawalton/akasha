@@ -12,5 +12,5 @@ export const chevroletSilveradoEv2025 = {
   sources:
     "- [Chevrolet 2025 Silverado EV](https://www.chevrolet.com/electric/previous-year/silverado-ev)\n- [Edmunds 2025](https://www.edmunds.com/chevrolet/silverado-ev/2025/)\n- [GM 2025 Newsroom](https://news.gm.com/home.detail.html/Pages/news/us/en/2024/oct/1007-silveradoev.html)",
   exclusionReason: "All trims excluded",
-  carModel: "chevrolet-silverado-ev",
+  carModel: "car-model/chevrolet-silverado-ev",
 } as const satisfies CarYear

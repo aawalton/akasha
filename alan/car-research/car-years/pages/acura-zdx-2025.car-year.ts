@@ -12,5 +12,5 @@ export const acuraZdx2025 = {
   sources:
     "1. https://www.acura.com/suvs/zdx/pricing-and-specs\n2. https://cars.usnews.com/cars-trucks/acura/zdx\n3. https://www.acuraofwichita.com/the-acura-zdx-is-discontinued-what-that-means-for-drivers/",
   exclusionReason: "All trims excluded",
-  carModel: "acura-zdx",
+  carModel: "car-model/acura-zdx",
 } as const satisfies CarYear

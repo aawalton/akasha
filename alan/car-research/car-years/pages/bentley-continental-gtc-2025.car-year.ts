@@ -12,5 +12,5 @@ export const bentleyContinentalGtc2025 = {
   sources:
     "- https://carbuzz.com/cars/bentley/continental-gt-speed-convertible/2025/\n- https://www.bentleyofranchomirage.com/2025-continental-gtc-speed\n- https://www.autoblog.com/reviews/i-drove-the-2025-bentley-continental-gtc-speed-heres-my-honest-review",
   exclusionReason: "All trims excluded",
-  carModel: "bentley-continental-gtc",
+  carModel: "car-model/bentley-continental-gtc",
 } as const satisfies CarYear

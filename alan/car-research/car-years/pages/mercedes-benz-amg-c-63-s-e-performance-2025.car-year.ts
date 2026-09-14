@@ -12,5 +12,5 @@ export const mercedesBenzAmgC63SEPerformance2025 = {
   sources:
     "- https://www.mbusa.com/en/vehicles/class/c-class/sedan\n- https://www.autonation.com/vehicle-research/2025-mercedes-benz-c-class-trim-levels",
   exclusionReason: "All trims excluded",
-  carModel: "mercedes-benz-amg-c-63-s-e-performance",
+  carModel: "car-model/mercedes-benz-amg-c-63-s-e-performance",
 } as const satisfies CarYear

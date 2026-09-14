@@ -11,5 +11,5 @@ export const toyotaCamry2026 = {
   shortList: false,
   sources: "- https://www.toyota.com/camry/2026/",
   exclusionReason: "All trims excluded",
-  carModel: "toyota-camry",
+  carModel: "car-model/toyota-camry",
 } as const satisfies CarYear

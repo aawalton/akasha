@@ -12,5 +12,5 @@ export const gmcHummerEvPickup2026 = {
   sources:
     "- https://www.gmc.com/electric/hummer-ev/pickup-truck\n- https://www.edmunds.com/gmc/hummer-ev/\n- https://gmauthority.com/blog/2024/11/gm-evs-to-get-nacs-connector-starting-with-2026-model-year/",
   exclusionReason: "All trims excluded",
-  carModel: "gmc-hummer-ev-pickup",
+  carModel: "car-model/gmc-hummer-ev-pickup",
 } as const satisfies CarYear

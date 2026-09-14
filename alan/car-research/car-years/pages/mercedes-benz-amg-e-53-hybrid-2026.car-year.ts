@@ -12,5 +12,5 @@ export const mercedesBenzAmgE53Hybrid2026 = {
   sources:
     "- https://www.mbusa.com/en/vehicles/class/e-class/sedan\n- https://www.topspeed.com/mercedes-benz-ambitious-lineup/",
   exclusionReason: "All trims excluded",
-  carModel: "mercedes-benz-amg-e-53-hybrid",
+  carModel: "car-model/mercedes-benz-amg-e-53-hybrid",
 } as const satisfies CarYear

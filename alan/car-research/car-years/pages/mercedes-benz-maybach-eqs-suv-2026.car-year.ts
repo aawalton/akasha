@@ -12,5 +12,5 @@ export const mercedesBenzMaybachEqsSuv2026 = {
   sources:
     "- https://www.mbusa.com/en/vehicles/model/eqs/suv/eqs680z4\n- https://www.edmunds.com/mercedes-benz/maybach-eqs-suv/",
   exclusionReason: "All trims excluded",
-  carModel: "mercedes-benz-maybach-eqs-suv",
+  carModel: "car-model/mercedes-benz-maybach-eqs-suv",
 } as const satisfies CarYear

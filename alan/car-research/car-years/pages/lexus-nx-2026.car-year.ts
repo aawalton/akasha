@@ -11,5 +11,5 @@ export const lexusNx2026 = {
   shortList: false,
   sources: "- Lexus 2026 NX: https://www.lexus.com/models/NX",
   exclusionReason: "All trims excluded",
-  carModel: "lexus-nx",
+  carModel: "car-model/lexus-nx",
 } as const satisfies CarYear

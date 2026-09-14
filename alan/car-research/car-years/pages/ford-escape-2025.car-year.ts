@@ -12,5 +12,5 @@ export const fordEscape2025 = {
   sources:
     "- [Edmunds 2025 Escape PHEV](https://www.edmunds.com/ford/escape/2025/plug-in-hybrid/)\n- [CarBuzz 2025 Escape](https://carbuzz.com/cars/ford/escape/2025/)\n- [US News 2025 Escape Hybrid](https://cars.usnews.com/cars-trucks/ford/escape-hybrid/specs)",
   exclusionReason: "All trims excluded",
-  carModel: "ford-escape",
+  carModel: "car-model/ford-escape",
 } as const satisfies CarYear

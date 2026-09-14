@@ -11,5 +11,5 @@ export const toyotaTacomaHybrid2025 = {
   shortList: false,
   sources: "- https://www.toyota.com/tacoma/2025/",
   exclusionReason: "All trims excluded",
-  carModel: "toyota-tacoma-hybrid",
+  carModel: "car-model/toyota-tacoma-hybrid",
 } as const satisfies CarYear

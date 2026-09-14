@@ -13,5 +13,5 @@ export const volvoEx902025 = {
     "- https://recharged.com/articles/volvo-ex90-software-update-history\n- https://www.volvocars.com/us/l/north-american-charging-standard/",
   exclusionReason:
     "All trims excluded for kill switch (interior-sensing impairment-detection system)",
-  carModel: "volvo-ex90",
+  carModel: "car-model/volvo-ex90",
 } as const satisfies CarYear

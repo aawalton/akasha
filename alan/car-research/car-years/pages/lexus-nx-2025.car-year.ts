@@ -11,5 +11,5 @@ export const lexusNx2025 = {
   shortList: false,
   sources: "- Lexus 2025 NX: https://www.lexus.com/models/NX\n- EPA fueleconomy.gov",
   exclusionReason: "All trims excluded",
-  carModel: "lexus-nx",
+  carModel: "car-model/lexus-nx",
 } as const satisfies CarYear

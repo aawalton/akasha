@@ -12,5 +12,5 @@ export const landRoverRangeRoverSport2025 = {
   sources:
     "- https://www.edmunds.com/land-rover/range-rover-sport/2025/plug-in-hybrid/\n- https://www.edmunds.com/land-rover/range-rover-sport/2025/plug-in-hybrid/features-specs/",
   exclusionReason: "All trims excluded",
-  carModel: "land-rover-range-rover-sport",
+  carModel: "car-model/land-rover-range-rover-sport",
 } as const satisfies CarYear

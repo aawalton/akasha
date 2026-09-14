@@ -12,5 +12,5 @@ export const bmw7Series2026 = {
   sources:
     "- BMW USA 7 Series PHEV — https://www.bmwusa.com/vehicles/7-series/sedan/plug-in-hybrid.html",
   exclusionReason: "All trims excluded",
-  carModel: "bmw-7-series",
+  carModel: "car-model/bmw-7-series",
 } as const satisfies CarYear

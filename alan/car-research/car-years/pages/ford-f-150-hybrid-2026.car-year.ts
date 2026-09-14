@@ -12,5 +12,5 @@ export const fordF150Hybrid2026 = {
   sources:
     "- [Ford.com 2026 F-150](https://www.ford.com/trucks/f150/)\n- [Edmunds 2026 F-150 Hybrid](https://www.edmunds.com/ford/f-150/2026/hybrid/)",
   exclusionReason: "All trims excluded",
-  carModel: "ford-f-150-hybrid",
+  carModel: "car-model/ford-f-150-hybrid",
 } as const satisfies CarYear

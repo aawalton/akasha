@@ -12,5 +12,5 @@ export const bmwI52025 = {
   sources:
     "- BMW dealer trim comparison — https://www.bmwbellevue.com/research/2025-bmw-i5-trim-levels.htm",
   exclusionReason: "All trims excluded",
-  carModel: "bmw-i5",
+  carModel: "car-model/bmw-i5",
 } as const satisfies CarYear

@@ -11,5 +11,5 @@ export const lucidGravity2025 = {
   shortList: false,
   sources: "- https://lucidmotors.com/gravity\n- https://www.kbb.com/lucid/gravity/2026/specs/",
   exclusionReason: "All trims excluded",
-  carModel: "lucid-gravity",
+  carModel: "car-model/lucid-gravity",
 } as const satisfies CarYear

@@ -12,5 +12,5 @@ export const porschePanameraEHybrid2026 = {
   sources:
     "- https://www.porsche.com/usa/models/panamera/panamera-e-hybrid-models/\n- https://www.caranddriver.com/porsche/panamera",
   exclusionReason: "All trims excluded",
-  carModel: "porsche-panamera-e-hybrid",
+  carModel: "car-model/porsche-panamera-e-hybrid",
 } as const satisfies CarYear
