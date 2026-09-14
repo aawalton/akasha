@@ -46,7 +46,7 @@ export const olwenPagesSystemDisplay = {
       statement:
         "A screen finds a page type's component by walking the types that page type extends.",
       workingMemory:
-        "A group's code is loaded today by `createRequire` on a computed path, which no browser can do, so the search has to end in a barrel of literal imports, written by a generator through `bodiesFor` at `commands/modules/change-preparing/change-preparing.module.code.ts:150`. No module yields a page type's ancestors in order: the climb is inlined at `pages/types/modules/declared-properties/declared-properties.module.code.ts:186` and copied twice in `path-claiming`. Nothing reads the six groups yet.",
+        "The bundler gathers them. `pages/ui/components/modules/property-badge-drawings/` holds one `import.meta.glob`, after `check-reaches-a-path-through-the-index` was narrowed so a pattern the bundler reads before the code runs is no directory listing. Proven: `alan/web` builds, and the badge beside `page-property.page-type.ts` is one of the three modules carrying its placeholder in the client bundle. The climb is not built; no module yields a page type's ancestors in order.",
     },
   ],
 } as const satisfies Initiative
