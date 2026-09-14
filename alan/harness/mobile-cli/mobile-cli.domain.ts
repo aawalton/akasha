@@ -28,7 +28,6 @@ export const mobileCli = {
     "module/sim-macbook",
     "module/sim-run-tree",
     "module/sim-session",
-    "module/sim-www-stage",
     "module/ssh-delivery",
     "module/testflight-cut",
     "module/testflight-deploy-script",
