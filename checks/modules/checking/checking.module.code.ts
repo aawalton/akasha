@@ -407,7 +407,3 @@ export function judgingBy(
     },
   }
 }
-
-export function auditingIn(root: string): Judging {
-  return judgingBy(checksAt(checksIn(root), "audit"), "audit", root)
-}
