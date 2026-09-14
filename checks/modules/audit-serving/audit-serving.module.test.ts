@@ -12,11 +12,11 @@ import {
   keyFor,
   movedIn,
   type Over,
+  refusalsNew,
   roundOver,
   spawning,
   telling,
   turnAt,
-  turnedRed,
   verdictOf,
 } from "akasha/checks/modules/audit-serving/audit-serving.module.code.ts"
 import {
@@ -103,13 +103,13 @@ test("a run that refused nothing leaves a clean verdict", () => {
   })
 })
 
-test("a check turns red only where it was clean or unknown before", () => {
-  const red: Verdict = { ...CLEAN, refusals: ["one refused"] }
-  expect(turnedRed(undefined, red)).toBe(true)
-  expect(turnedRed(CLEAN, red)).toBe(true)
-  expect(turnedRed(red, red)).toBe(false)
-  expect(turnedRed(red, CLEAN)).toBe(false)
-  expect(turnedRed(CLEAN, CLEAN)).toBe(false)
+test("a refusal a check did not have before is new, and one it had is not", () => {
+  const red: Verdict = { ...CLEAN, refusals: ["one.ts — no"] }
+  const both: Verdict = { ...CLEAN, refusals: ["one.ts — no", "two.ts — no"] }
+  expect(refusalsNew(undefined, red)).toEqual(["one.ts — no"])
+  expect(refusalsNew(red, red)).toEqual([])
+  expect(refusalsNew(red, both)).toEqual(["two.ts — no"])
+  expect(refusalsNew(red, { ...CLEAN, refusals: ["one.ts — at one"] })).toEqual([])
 })
 
 test("the one told is read from the pages rather than named in the module", () => {

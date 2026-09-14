@@ -79,6 +79,8 @@ const SAID = "audit-running:"
 
 const PARTED = "\n"
 
+const REASONED = " — "
+
 const BUN = "bun"
 
 const MODULE = "module"
@@ -342,9 +344,16 @@ export async function auditOne(given: Asking): Promise<Ran> {
   }
 }
 
-export function turnedRed(before: Verdict | undefined, after: Verdict): boolean {
-  if (cleanly(after)) return false
-  return before === undefined || cleanly(before)
+function refusalPath(said: string): string {
+  const at = said.indexOf(REASONED)
+  return at === -1 ? said : said.slice(0, at)
+}
+
+export function refusalsNew(before: Verdict | undefined, after: Verdict): readonly string[] {
+  if (cleanly(after)) return []
+  if (before === undefined) return after.refusals
+  const had = new Set(before.refusals.map(refusalPath))
+  return after.refusals.filter((one) => !had.has(refusalPath(one)))
 }
 
 function headFor(commit: string, refused: number, unmeasured: number): string {
@@ -401,7 +410,7 @@ export async function serving(given: Serving): Promise<Told> {
   const moved = movedIn(given.root, over.commit)
   const asked = requestsIn(given.home)
   const ran: Ran[] = []
-  const turned: string[] = []
+  const red: Ran[] = []
   for (const one of roundOver(checksIn(given.root), asked)) {
     const before = verdictsRead(given.home)[one.slug]
     const said = await auditOne({
@@ -413,10 +422,11 @@ export async function serving(given: Serving): Promise<Told> {
       shadow,
     })
     ran.push(said)
-    if (turnedRed(before, said.verdict)) turned.push(one.slug)
+    const fresh = refusalsNew(before, said.verdict)
+    if (fresh.length > 0) red.push({ ...said, verdict: { ...said.verdict, refusals: fresh } })
   }
   for (const one of asked) requestDone(given.home, one)
-  const red = ran.filter((one) => turned.includes(one.check))
+  const turned = red.map((one) => one.check)
   if (red.length === 0) return { ran, turned, refused: [] }
   const to = given.to ?? championOf(given.root)
   const why = await telling(send, to, bodyFor(red, over.commit, given.home))

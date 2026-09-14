@@ -106,8 +106,23 @@ export const auditServing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The persona championing checks is told of a check that turned from clean to refusing.",
+      statement: "The persona championing checks is told of a refusal that check did not have.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check already refusing is told of all the same, for a refusal that is new.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Two refusals are the same refusal where the path each one names is the same.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A message names the refusals a check newly has rather than every one it has.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check with no verdict before has every refusal it found read as new.",
     },
     {
       invariantKind: "departure",
@@ -119,7 +134,7 @@ export const auditServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A check refusing the round before is told again to nobody.",
+      statement: "A refusal a check had the round before is told again to nobody.",
     },
     {
       invariantKind: "departure",
