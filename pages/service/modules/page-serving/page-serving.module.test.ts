@@ -8,7 +8,6 @@ import {
   READ_AT,
   readIn,
   WRITE_AT,
-  writeIn,
 } from "akasha/pages/service/modules/page-serving/page-serving.module.code.ts"
 import {
   A_DEVICE_TOKEN,
@@ -23,6 +22,7 @@ import {
   TOLD,
   tightly,
   writing,
+  written,
 } from "akasha/pages/service/modules/page-serving/page-serving.module.test-fixtures.ts"
 
 test("a question is answered with rows", async () => {
@@ -120,17 +120,8 @@ test("a question that is not an object is refused", () => {
 })
 
 test("a write is handed in at a path of its own", async () => {
-  const answered = await answering(
-    GIVEN,
-    asking(
-      {
-        writer: "Amy <amy@alanwalton.com>",
-        message: "a message",
-        puts: [{ path: "akasha/a.ts", content: "x" }],
-      },
-      WRITE_AT
-    )
-  )
+  const put = writing({ puts: [{ path: "akasha/a.ts", content: "x" }] })
+  const answered = await answering(GIVEN, put)
   expect(answered.status).toBe(200)
   expect(TOLD[TOLD.length - 1]?.writer).toBe("Amy <amy@alanwalton.com>")
 })
@@ -148,18 +139,12 @@ test("a write stating no message is refused", async () => {
 })
 
 test("a put holding no content is refused", () => {
-  const read = writeIn({
-    writer: "Amy <amy@alanwalton.com>",
-    message: "a message",
-    puts: [{ path: "akasha/a.ts" }],
-  })
+  const read = written({ puts: [{ path: "akasha/a.ts" }] })
   expect("refused" in read && read.refused).toContain("content")
 })
 
 test("what a write puts and what it takes away are both read off the body", () => {
-  const read = writeIn({
-    writer: "Amy <amy@alanwalton.com>",
-    message: "a message",
+  const read = written({
     puts: [{ path: "akasha/a.ts", content: "x" }],
     removes: ["akasha/b.ts"],
   })
@@ -168,18 +153,8 @@ test("what a write puts and what it takes away are both read off the body", () =
 })
 
 test("an answer to a write names the commit it landed as", async () => {
-  const answered = await answering(
-    GIVEN,
-    asking(
-      {
-        writer: "Amy <amy@alanwalton.com>",
-        message: "a message",
-        puts: [{ path: "akasha/a.ts", content: "x" }],
-      },
-      WRITE_AT
-    )
-  )
-  const held = await bodyOf(answered)
+  const put = writing({ puts: [{ path: "akasha/a.ts", content: "x" }] })
+  const held = await bodyOf(await answering(GIVEN, put))
   expect("commit" in held).toBe(true)
 })
 
@@ -316,9 +291,7 @@ test("a read naming a commit the repository does not hold is refused", async () 
 })
 
 test("a write may state the commit it read", () => {
-  const read = writeIn({
-    writer: "Amy <amy@alanwalton.com>",
-    message: "a message",
+  const read = written({
     puts: [{ path: A_PAGE, content: "x" }],
     read: "0123456789abcdef0123456789abcdef01234567",
   })
@@ -326,12 +299,7 @@ test("a write may state the commit it read", () => {
 })
 
 test("a write stating what it read as something other than a string is refused", () => {
-  const read = writeIn({
-    writer: "Amy <amy@alanwalton.com>",
-    message: "a message",
-    puts: [{ path: A_PAGE, content: "x" }],
-    read: 7,
-  })
+  const read = written({ puts: [{ path: A_PAGE, content: "x" }], read: 7 })
   expect("refused" in read && read.refused).toContain("`read`")
 })
 
@@ -350,11 +318,7 @@ test("which values a page carried commit is read from its page type", async () =
 })
 
 test("a page handing over no values is refused", () => {
-  const read = writeIn({
-    writer: "Amy <amy@alanwalton.com>",
-    message: "a message",
-    pages: [{ pageTypeSlug: "device-token", slug: "held-one" }],
-  })
+  const read = written({ pages: [{ pageTypeSlug: "device-token", slug: "held-one" }] })
   expect("refused" in read && read.refused).toContain("values")
 })
 
@@ -373,27 +337,21 @@ test("a write carrying no page is handed on as it arrived", () => {
 })
 
 test("a page a write has may say whether it merges", () => {
-  const read = writeIn({
-    writer: "Amy <amy@alanwalton.com>",
-    message: "a message",
+  const read = written({
     pages: [{ pageTypeSlug: "device-token", slug: "held-one", values: {}, merge: true }],
   })
   expect("pages" in read && read.pages[0]?.merge).toBe(true)
 })
 
 test("a page saying it merges as neither true nor false is refused", () => {
-  const read = writeIn({
-    writer: "Amy <amy@alanwalton.com>",
-    message: "a message",
+  const read = written({
     pages: [{ pageTypeSlug: "device-token", slug: "held-one", values: {}, merge: "yes" }],
   })
   expect("refused" in read && read.refused).toContain("merge")
 })
 
 test("a page saying nothing about merging has no merge", () => {
-  const read = writeIn({
-    writer: "Amy <amy@alanwalton.com>",
-    message: "a message",
+  const read = written({
     pages: [{ pageTypeSlug: "device-token", slug: "held-one", values: {} }],
   })
   expect("pages" in read && read.pages[0]?.merge).toBeUndefined()
