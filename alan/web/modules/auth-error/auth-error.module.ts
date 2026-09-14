@@ -1,9 +1,0 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
-
-export const authError = {
-  id: "01a0655d-daa6-78c9-a8e1-bdadc1e9ebed",
-  type: "module",
-  slug: "auth-error",
-  definition: "the words told to a reader whose sign-in has lapsed",
-  code: "ts",
-} as const satisfies Module
