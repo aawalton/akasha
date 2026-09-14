@@ -5,7 +5,7 @@ export const coldplayMyUniverseDavidGuettaRemix = {
   type: "release",
   slug: "coldplay-my-universe-david-guetta-remix",
   title: "My Universe (David Guetta Remix)",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 3.318917,
   ownProgress: 3.318917,

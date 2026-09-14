@@ -5,7 +5,7 @@ export const florenceTheMachineMorningElvisLiveAtDenverBallArena = {
   type: "release",
   slug: "florence-the-machine-morning-elvis-live-at-denver-ball-arena",
   title: "Morning Elvis (Live At Denver Ball Arena)",
-  partOfCollections: ["florence-the-machine"],
+  partOfCollections: ["artist/florence-the-machine"],
   position: 0,
   ownLength: 4.26085,
   ownProgress: 4.26085,

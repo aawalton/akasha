@@ -5,7 +5,7 @@ export const linkinParkNewDivide = {
   type: "release",
   slug: "linkin-park-new-divide",
   title: "New Divide",
-  partOfCollections: ["linkin-park"],
+  partOfCollections: ["artist/linkin-park"],
   position: 0,
   ownLength: 17.811317,
   ownProgress: 0,

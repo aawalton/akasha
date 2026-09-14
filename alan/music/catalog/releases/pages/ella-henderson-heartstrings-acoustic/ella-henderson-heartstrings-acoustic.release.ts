@@ -5,7 +5,7 @@ export const ellaHendersonHeartstringsAcoustic = {
   type: "release",
   slug: "ella-henderson-heartstrings-acoustic",
   title: "Heartstrings (Acoustic)",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 7.165317,
   ownProgress: 0,

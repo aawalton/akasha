@@ -5,7 +5,7 @@ export const billyJoelBillyJoelNarratives = {
   type: "release",
   slug: "billy-joel-billy-joel-narratives",
   title: "Billy Joel - Narratives",
-  partOfCollections: ["billy-joel"],
+  partOfCollections: ["artist/billy-joel"],
   position: 0,
   ownLength: 27.54695,
   ownProgress: 0,

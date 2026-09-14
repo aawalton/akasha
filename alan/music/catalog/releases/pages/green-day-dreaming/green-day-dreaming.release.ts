@@ -5,7 +5,7 @@ export const greenDayDreaming = {
   type: "release",
   slug: "green-day-dreaming",
   title: "Dreaming",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 3.1234,
   ownProgress: 0,

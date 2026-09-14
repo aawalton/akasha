@@ -5,7 +5,7 @@ export const metallicaHelpingHandsLiveAcousticAtTheMasonic = {
   type: "release",
   slug: "metallica-helping-hands-live-acoustic-at-the-masonic",
   title: "Helping Hands...Live & Acoustic at The Masonic",
-  partOfCollections: ["metallica"],
+  partOfCollections: ["artist/metallica"],
   position: 0,
   ownLength: 71.5359,
   ownProgress: 0,

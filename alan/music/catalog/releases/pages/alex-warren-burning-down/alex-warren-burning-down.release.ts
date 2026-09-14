@@ -5,7 +5,7 @@ export const alexWarrenBurningDown = {
   type: "release",
   slug: "alex-warren-burning-down",
   title: "Burning Down",
-  partOfCollections: ["alex-warren"],
+  partOfCollections: ["artist/alex-warren"],
   position: 0,
   ownLength: 2.990617,
   ownProgress: 2.990617,

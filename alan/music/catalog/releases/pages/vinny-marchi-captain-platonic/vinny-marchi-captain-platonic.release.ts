@@ -5,7 +5,7 @@ export const vinnyMarchiCaptainPlatonic = {
   type: "release",
   slug: "vinny-marchi-captain-platonic",
   title: "Captain Platonic",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 2.0246,
   ownProgress: 2.0246,

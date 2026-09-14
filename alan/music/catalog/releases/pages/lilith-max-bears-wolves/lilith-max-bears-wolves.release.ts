@@ -5,7 +5,7 @@ export const lilithMaxBearsWolves = {
   type: "release",
   slug: "lilith-max-bears-wolves",
   title: "Bears & Wolves",
-  partOfCollections: ["lilith-max"],
+  partOfCollections: ["artist/lilith-max"],
   position: 0,
   ownLength: 3.313167,
   ownProgress: 3.313167,

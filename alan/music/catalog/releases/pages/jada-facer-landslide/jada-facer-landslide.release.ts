@@ -5,7 +5,7 @@ export const jadaFacerLandslide = {
   type: "release",
   slug: "jada-facer-landslide",
   title: "Landslide",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.813333,
   ownProgress: 2.813333,

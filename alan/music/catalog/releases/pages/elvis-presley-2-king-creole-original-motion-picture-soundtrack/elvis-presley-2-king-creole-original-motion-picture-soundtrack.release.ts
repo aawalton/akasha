@@ -5,7 +5,7 @@ export const elvisPresley2KingCreoleOriginalMotionPictureSoundtrack = {
   type: "release",
   slug: "elvis-presley-2-king-creole-original-motion-picture-soundtrack",
   title: "King Creole (Original Motion Picture Soundtrack)",
-  partOfCollections: ["elvis-presley"],
+  partOfCollections: ["artist/elvis-presley"],
   position: 0,
   ownLength: 21.883367,
   ownProgress: 21.883367,

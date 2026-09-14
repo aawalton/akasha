@@ -5,7 +5,7 @@ export const alexandriaFireAndIce = {
   type: "release",
   slug: "alexandria-fire-and-ice",
   title: "Fire and Ice",
-  partOfCollections: ["alexandria"],
+  partOfCollections: ["artist/alexandria"],
   position: 0,
   ownLength: 2.3349,
   ownProgress: 2.3349,

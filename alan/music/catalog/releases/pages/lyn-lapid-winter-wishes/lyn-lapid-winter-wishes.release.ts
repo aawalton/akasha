@@ -5,7 +5,7 @@ export const lynLapidWinterWishes = {
   type: "release",
   slug: "lyn-lapid-winter-wishes",
   title: "winter wishes",
-  partOfCollections: ["lyn-lapid"],
+  partOfCollections: ["artist/lyn-lapid"],
   position: 0,
   ownLength: 12.6711,
   ownProgress: 12.6711,

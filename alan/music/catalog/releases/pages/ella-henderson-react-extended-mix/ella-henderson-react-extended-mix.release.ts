@@ -5,7 +5,7 @@ export const ellaHendersonReactExtendedMix = {
   type: "release",
   slug: "ella-henderson-react-extended-mix",
   title: "REACT (Extended Mix)",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 7.511133,
   ownProgress: 0,

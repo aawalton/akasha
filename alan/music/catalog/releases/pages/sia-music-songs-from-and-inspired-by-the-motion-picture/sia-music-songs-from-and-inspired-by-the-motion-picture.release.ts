@@ -5,7 +5,7 @@ export const siaMusicSongsFromAndInspiredByTheMotionPicture = {
   type: "release",
   slug: "sia-music-songs-from-and-inspired-by-the-motion-picture",
   title: "Music (Songs From And Inspired By The Motion Picture)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 49.492967,
   ownProgress: 49.492967,

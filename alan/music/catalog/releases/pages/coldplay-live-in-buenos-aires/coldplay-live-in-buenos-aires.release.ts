@@ -5,7 +5,7 @@ export const coldplayLiveInBuenosAires = {
   type: "release",
   slug: "coldplay-live-in-buenos-aires",
   title: "Live in Buenos Aires",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 114.45455,
   ownProgress: 114.45455,

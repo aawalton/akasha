@@ -5,7 +5,7 @@ export const yaelokreOrigins = {
   type: "release",
   slug: "yaelokre-origins",
   title: "Origins",
-  partOfCollections: ["yaelokre"],
+  partOfCollections: ["artist/yaelokre"],
   position: 0,
   ownLength: 10.5081,
   ownProgress: 10.5081,

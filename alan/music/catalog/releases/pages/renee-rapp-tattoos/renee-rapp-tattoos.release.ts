@@ -5,7 +5,7 @@ export const reneeRappTattoos = {
   type: "release",
   slug: "renee-rapp-tattoos",
   title: "Tattoos",
-  partOfCollections: ["renee-rapp"],
+  partOfCollections: ["artist/renee-rapp"],
   position: 0,
   ownLength: 2.883767,
   ownProgress: 2.883767,

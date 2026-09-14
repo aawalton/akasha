@@ -5,7 +5,7 @@ export const sabrinaCarpenterLetMeMoveYouFromTheNetflixFilmWorkIt = {
   type: "release",
   slug: "sabrina-carpenter-let-me-move-you-from-the-netflix-film-work-it",
   title: "Let Me Move You (From the Netflix film Work It)",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 2.451167,
   ownProgress: 2.451167,

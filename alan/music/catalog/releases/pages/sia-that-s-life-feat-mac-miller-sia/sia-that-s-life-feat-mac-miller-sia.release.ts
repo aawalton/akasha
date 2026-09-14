@@ -5,7 +5,7 @@ export const siaThatSLifeFeatMacMillerSia = {
   type: "release",
   slug: "sia-that-s-life-feat-mac-miller-sia",
   title: "That's Life (feat. Mac Miller & Sia)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 3.373167,
   ownProgress: 3.373167,

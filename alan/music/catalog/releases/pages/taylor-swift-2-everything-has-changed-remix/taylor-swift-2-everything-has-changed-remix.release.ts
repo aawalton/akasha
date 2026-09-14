@@ -5,7 +5,7 @@ export const taylorSwift2EverythingHasChangedRemix = {
   type: "release",
   slug: "taylor-swift-2-everything-has-changed-remix",
   title: "Everything Has Changed (Remix)",
-  partOfCollections: ["taylor-swift"],
+  partOfCollections: ["artist/taylor-swift"],
   position: 0,
   ownLength: 4.162667,
   ownProgress: 4.162667,

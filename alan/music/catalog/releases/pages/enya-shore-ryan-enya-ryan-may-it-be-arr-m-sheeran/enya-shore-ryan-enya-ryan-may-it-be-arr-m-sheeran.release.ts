@@ -5,7 +5,7 @@ export const enyaShoreRyanEnyaRyanMayItBeArrMSheeran = {
   type: "release",
   slug: "enya-shore-ryan-enya-ryan-may-it-be-arr-m-sheeran",
   title: "Shore, Ryan, Enya, Ryan: May it be (Arr. M. Sheeran)",
-  partOfCollections: ["enya"],
+  partOfCollections: ["artist/enya"],
   position: 0,
   ownLength: 3.756217,
   ownProgress: 3.756217,

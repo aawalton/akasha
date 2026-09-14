@@ -5,7 +5,7 @@ export const emeiAllTheseKids = {
   type: "release",
   slug: "emei-all-these-kids",
   title: "ALL THESE KIDS",
-  partOfCollections: ["emei"],
+  partOfCollections: ["artist/emei"],
   position: 0,
   ownLength: 4.3089,
   ownProgress: 4.3089,

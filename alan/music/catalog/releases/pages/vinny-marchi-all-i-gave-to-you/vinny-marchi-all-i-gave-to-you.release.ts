@@ -5,7 +5,7 @@ export const vinnyMarchiAllIGaveToYou = {
   type: "release",
   slug: "vinny-marchi-all-i-gave-to-you",
   title: "all i gave to you",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 3.426867,
   ownProgress: 3.426867,

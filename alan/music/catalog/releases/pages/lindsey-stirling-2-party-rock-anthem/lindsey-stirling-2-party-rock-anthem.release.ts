@@ -5,7 +5,7 @@ export const lindseyStirling2PartyRockAnthem = {
   type: "release",
   slug: "lindsey-stirling-2-party-rock-anthem",
   title: "Party Rock Anthem",
-  partOfCollections: ["lindsey-stirling"],
+  partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
   ownLength: 3.357683,
   ownProgress: 3.357683,

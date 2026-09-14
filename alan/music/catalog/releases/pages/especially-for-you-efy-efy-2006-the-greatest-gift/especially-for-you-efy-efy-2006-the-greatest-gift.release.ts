@@ -5,7 +5,7 @@ export const especiallyForYouEfyEfy2006TheGreatestGift = {
   type: "release",
   slug: "especially-for-you-efy-efy-2006-the-greatest-gift",
   title: "Efy 2006 - The Greatest Gift",
-  partOfCollections: ["especially-for-you-efy"],
+  partOfCollections: ["release-collection/especially-for-you-efy"],
   position: 2006,
   ownLength: 50.469933,
   ownProgress: 50.469933,

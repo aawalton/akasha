@@ -5,7 +5,7 @@ export const jadaFacerSouthOfTheBorder = {
   type: "release",
   slug: "jada-facer-south-of-the-border",
   title: "South of The Border",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.359683,
   ownProgress: 2.359683,

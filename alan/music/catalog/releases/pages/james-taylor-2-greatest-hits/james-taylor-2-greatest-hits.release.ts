@@ -5,7 +5,7 @@ export const jamesTaylor2GreatestHits = {
   type: "release",
   slug: "james-taylor-2-greatest-hits",
   title: "Greatest Hits",
-  partOfCollections: ["james-taylor"],
+  partOfCollections: ["artist/james-taylor"],
   position: 0,
   ownLength: 41.45535,
   ownProgress: 41.45535,

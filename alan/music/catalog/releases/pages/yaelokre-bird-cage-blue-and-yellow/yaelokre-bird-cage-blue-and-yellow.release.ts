@@ -5,7 +5,7 @@ export const yaelokreBirdCageBlueAndYellow = {
   type: "release",
   slug: "yaelokre-bird-cage-blue-and-yellow",
   title: "Bird cage blue and yellow",
-  partOfCollections: ["yaelokre"],
+  partOfCollections: ["artist/yaelokre"],
   position: 0,
   ownLength: 3.214217,
   ownProgress: 3.214217,

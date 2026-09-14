@@ -5,7 +5,7 @@ export const greenDayNimrod = {
   type: "release",
   slug: "green-day-nimrod",
   title: "Nimrod",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 49.107683,
   ownProgress: 49.107683,

@@ -5,7 +5,7 @@ export const siaUnstoppableR3habRemix = {
   type: "release",
   slug: "sia-unstoppable-r3hab-remix",
   title: "Unstoppable (R3HAB Remix)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 2.705867,
   ownProgress: 2.705867,

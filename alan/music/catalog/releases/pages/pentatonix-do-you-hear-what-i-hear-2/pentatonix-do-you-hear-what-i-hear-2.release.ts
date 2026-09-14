@@ -5,7 +5,7 @@ export const pentatonixDoYouHearWhatIHear2 = {
   type: "release",
   slug: "pentatonix-do-you-hear-what-i-hear-2",
   title: "Do You Hear What I Hear?",
-  partOfCollections: ["pentatonix"],
+  partOfCollections: ["artist/pentatonix"],
   position: 0,
   ownLength: 3.085767,
   ownProgress: 3.085767,

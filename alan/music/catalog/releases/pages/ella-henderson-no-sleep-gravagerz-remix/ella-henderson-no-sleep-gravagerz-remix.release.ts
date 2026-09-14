@@ -5,7 +5,7 @@ export const ellaHendersonNoSleepGravagerzRemix = {
   type: "release",
   slug: "ella-henderson-no-sleep-gravagerz-remix",
   title: "No Sleep (Gravagerz Remix)",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 4.950317,
   ownProgress: 0,

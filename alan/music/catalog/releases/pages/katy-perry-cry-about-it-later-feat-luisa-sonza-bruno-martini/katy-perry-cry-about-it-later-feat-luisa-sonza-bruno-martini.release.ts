@@ -5,7 +5,7 @@ export const katyPerryCryAboutItLaterFeatLuisaSonzaBrunoMartini = {
   type: "release",
   slug: "katy-perry-cry-about-it-later-feat-luisa-sonza-bruno-martini",
   title: "Cry About It Later (feat. Luísa Sonza & Bruno Martini)",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 2.65475,
   ownProgress: 2.65475,

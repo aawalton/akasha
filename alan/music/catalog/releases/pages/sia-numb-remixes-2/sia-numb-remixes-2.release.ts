@@ -5,7 +5,7 @@ export const siaNumbRemixes2 = {
   type: "release",
   slug: "sia-numb-remixes-2",
   title: "Numb Remixes 2",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 15.406883,
   ownProgress: 15.406883,

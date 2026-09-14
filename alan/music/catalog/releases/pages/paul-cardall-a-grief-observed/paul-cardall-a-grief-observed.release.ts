@@ -5,7 +5,7 @@ export const paulCardallAGriefObserved = {
   type: "release",
   slug: "paul-cardall-a-grief-observed",
   title: "A Grief Observed",
-  partOfCollections: ["paul-cardall"],
+  partOfCollections: ["artist/paul-cardall"],
   position: 0,
   ownLength: 3.948817,
   ownProgress: 3.948817,

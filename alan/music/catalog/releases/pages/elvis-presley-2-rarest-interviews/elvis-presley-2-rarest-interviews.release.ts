@@ -5,7 +5,7 @@ export const elvisPresley2RarestInterviews = {
   type: "release",
   slug: "elvis-presley-2-rarest-interviews",
   title: "Rarest Interviews",
-  partOfCollections: ["elvis-presley"],
+  partOfCollections: ["artist/elvis-presley"],
   position: 0,
   ownLength: 78.349267,
   ownProgress: 78.349267,

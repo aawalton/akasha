@@ -5,7 +5,7 @@ export const linkinParkMeteoraLiveAroundTheWorld = {
   type: "release",
   slug: "linkin-park-meteora-live-around-the-world",
   title: "Meteora Live Around the World",
-  partOfCollections: ["linkin-park"],
+  partOfCollections: ["artist/linkin-park"],
   position: 0,
   ownLength: 25.52885,
   ownProgress: 0,

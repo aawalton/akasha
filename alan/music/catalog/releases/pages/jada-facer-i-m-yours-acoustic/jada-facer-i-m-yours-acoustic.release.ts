@@ -5,7 +5,7 @@ export const jadaFacerIMYoursAcoustic = {
   type: "release",
   slug: "jada-facer-i-m-yours-acoustic",
   title: "I'm Yours (Acoustic)",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.423083,
   ownProgress: 3.423083,

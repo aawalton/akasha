@@ -5,7 +5,7 @@ export const auroraExistForLoveBenjaminMRkAcousticRemix = {
   type: "release",
   slug: "aurora-exist-for-love-benjamin-m-rk-acoustic-remix",
   title: "Exist for Love (Benjamin Mørk Acoustic Remix)",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 16.982583,
   ownProgress: 16.982583,

@@ -5,7 +5,7 @@ export const auroraTheDevilIsHuman = {
   type: "release",
   slug: "aurora-the-devil-is-human",
   title: "The Devil is Human",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 3.010217,
   ownProgress: 3.010217,

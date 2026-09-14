@@ -5,7 +5,7 @@ export const katyPerrySmallTalkSofiTukkerRemix = {
   type: "release",
   slug: "katy-perry-small-talk-sofi-tukker-remix",
   title: "Small Talk (Sofi Tukker Remix)",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 3.194217,
   ownProgress: 3.194217,

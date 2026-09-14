@@ -5,7 +5,7 @@ export const sabrinaCarpenterThumbsAcoustic = {
   type: "release",
   slug: "sabrina-carpenter-thumbs-acoustic",
   title: "Thumbs (Acoustic)",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 3.404567,
   ownProgress: 3.404567,

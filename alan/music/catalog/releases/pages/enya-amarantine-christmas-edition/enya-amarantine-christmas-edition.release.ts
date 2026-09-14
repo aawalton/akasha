@@ -5,7 +5,7 @@ export const enyaAmarantineChristmasEdition = {
   type: "release",
   slug: "enya-amarantine-christmas-edition",
   title: "Amarantine (Christmas Edition)",
-  partOfCollections: ["enya"],
+  partOfCollections: ["artist/enya"],
   position: 0,
   ownLength: 60.59205,
   ownProgress: 60.59205,

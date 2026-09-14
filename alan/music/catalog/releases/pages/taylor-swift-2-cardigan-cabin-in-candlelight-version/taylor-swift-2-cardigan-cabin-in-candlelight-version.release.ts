@@ -5,7 +5,7 @@ export const taylorSwift2CardiganCabinInCandlelightVersion = {
   type: "release",
   slug: "taylor-swift-2-cardigan-cabin-in-candlelight-version",
   title: "cardigan (cabin in candlelight version)",
-  partOfCollections: ["taylor-swift"],
+  partOfCollections: ["artist/taylor-swift"],
   position: 0,
   ownLength: 3.8,
   ownProgress: 3.8,

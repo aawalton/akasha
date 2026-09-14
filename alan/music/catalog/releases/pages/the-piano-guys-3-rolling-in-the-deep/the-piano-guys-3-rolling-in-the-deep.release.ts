@@ -5,7 +5,7 @@ export const thePianoGuys3RollingInTheDeep = {
   type: "release",
   slug: "the-piano-guys-3-rolling-in-the-deep",
   title: "Rolling in the Deep",
-  partOfCollections: ["the-piano-guys"],
+  partOfCollections: ["artist/the-piano-guys"],
   position: 0,
   ownLength: 4.016217,
   ownProgress: 4.016217,

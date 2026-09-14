@@ -5,7 +5,7 @@ export const siaSomersault = {
   type: "release",
   slug: "sia-somersault",
   title: "Somersault",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 15.677767,
   ownProgress: 15.677767,

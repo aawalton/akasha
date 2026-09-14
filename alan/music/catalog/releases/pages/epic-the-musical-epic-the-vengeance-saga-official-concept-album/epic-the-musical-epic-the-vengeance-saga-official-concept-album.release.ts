@@ -5,7 +5,7 @@ export const epicTheMusicalEpicTheVengeanceSagaOfficialConceptAlbum = {
   type: "release",
   slug: "epic-the-musical-epic-the-vengeance-saga-official-concept-album",
   title: "EPIC: The Vengeance Saga (Official Concept Album)",
-  partOfCollections: ["epic-the-musical"],
+  partOfCollections: ["artist/epic-the-musical"],
   position: 0,
   ownLength: 15.91915,
   ownProgress: 15.91915,

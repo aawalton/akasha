@@ -5,7 +5,7 @@ export const ledZeppelinLedZeppelinRemaster = {
   type: "release",
   slug: "led-zeppelin-led-zeppelin-remaster",
   title: "Led Zeppelin (Remaster)",
-  partOfCollections: ["led-zeppelin"],
+  partOfCollections: ["artist/led-zeppelin"],
   position: 0,
   ownLength: 44.89915,
   ownProgress: 44.89915,

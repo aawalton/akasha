@@ -5,7 +5,7 @@ export const coldplayUpUp = {
   type: "release",
   slug: "coldplay-up-up",
   title: "Up&Up",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 3.968217,
   ownProgress: 3.968217,

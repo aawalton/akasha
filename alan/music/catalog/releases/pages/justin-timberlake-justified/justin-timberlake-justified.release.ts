@@ -5,7 +5,7 @@ export const justinTimberlakeJustified = {
   type: "release",
   slug: "justin-timberlake-justified",
   title: "Justified",
-  partOfCollections: ["justin-timberlake"],
+  partOfCollections: ["artist/justin-timberlake"],
   position: 0,
   ownLength: 63.352133,
   ownProgress: 63.352133,

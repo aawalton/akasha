@@ -5,7 +5,7 @@ export const lilithMaxMaidenSNight = {
   type: "release",
   slug: "lilith-max-maiden-s-night",
   title: "Maiden's Night",
-  partOfCollections: ["lilith-max"],
+  partOfCollections: ["artist/lilith-max"],
   position: 0,
   ownLength: 6.569033,
   ownProgress: 6.569033,

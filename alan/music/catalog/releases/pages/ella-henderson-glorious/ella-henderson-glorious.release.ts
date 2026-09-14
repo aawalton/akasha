@@ -5,7 +5,7 @@ export const ellaHendersonGlorious = {
   type: "release",
   slug: "ella-henderson-glorious",
   title: "Glorious",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 12.887183,
   ownProgress: 12.887183,

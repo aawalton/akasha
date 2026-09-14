@@ -5,7 +5,7 @@ export const katyPerryTheOneThatGotAwayRemixBundle = {
   type: "release",
   slug: "katy-perry-the-one-that-got-away-remix-bundle",
   title: "The One That Got Away (Remix Bundle)",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 32.0873,
   ownProgress: 32.0873,

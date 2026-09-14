@@ -5,7 +5,7 @@ export const thePianoGuys3FollowYou = {
   type: "release",
   slug: "the-piano-guys-3-follow-you",
   title: "Follow You",
-  partOfCollections: ["the-piano-guys"],
+  partOfCollections: ["artist/the-piano-guys"],
   position: 0,
   ownLength: 3.186,
   ownProgress: 3.186,

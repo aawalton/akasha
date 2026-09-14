@@ -5,7 +5,7 @@ export const michaelJacksonSlaveToTheRhythmAudienRemixRadioEdit = {
   type: "release",
   slug: "michael-jackson-slave-to-the-rhythm-audien-remix-radio-edit",
   title: "Slave to the Rhythm (Audien Remix Radio Edit)",
-  partOfCollections: ["michael-jackson"],
+  partOfCollections: ["artist/michael-jackson"],
   position: 0,
   ownLength: 3.231767,
   ownProgress: 3.231767,

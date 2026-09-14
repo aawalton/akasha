@@ -5,7 +5,7 @@ export const greenDayFatherOfAll = {
   type: "release",
   slug: "green-day-father-of-all",
   title: "Father of All...",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 26.282567,
   ownProgress: 0,

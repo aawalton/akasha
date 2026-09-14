@@ -5,7 +5,7 @@ export const theHoldernessFamilyQuarantineQueen = {
   type: "release",
   slug: "the-holderness-family-quarantine-queen",
   title: "Quarantine Queen",
-  partOfCollections: ["the-holderness-family"],
+  partOfCollections: ["artist/the-holderness-family"],
   position: 0,
   ownLength: 2.2291,
   ownProgress: 2.2291,

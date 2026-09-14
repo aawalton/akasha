@@ -5,7 +5,7 @@ export const katyPerryHarleysInHawaii = {
   type: "release",
   slug: "katy-perry-harleys-in-hawaii",
   title: "Harleys In Hawaii",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 3.096917,
   ownProgress: 3.096917,

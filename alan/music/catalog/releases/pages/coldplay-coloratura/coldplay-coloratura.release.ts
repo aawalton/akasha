@@ -5,7 +5,7 @@ export const coldplayColoratura = {
   type: "release",
   slug: "coldplay-coloratura",
   title: "Coloratura",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 10.316,
   ownProgress: 10.316,

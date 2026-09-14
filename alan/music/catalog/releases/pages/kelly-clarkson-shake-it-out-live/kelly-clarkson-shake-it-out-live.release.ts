@@ -5,7 +5,7 @@ export const kellyClarksonShakeItOutLive = {
   type: "release",
   slug: "kelly-clarkson-shake-it-out-live",
   title: "Shake It Out (Live)",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 4.481167,
   ownProgress: 4.481167,

@@ -5,7 +5,7 @@ export const lilithMaxStardust = {
   type: "release",
   slug: "lilith-max-stardust",
   title: "Stardust",
-  partOfCollections: ["lilith-max"],
+  partOfCollections: ["artist/lilith-max"],
   position: 0,
   ownLength: 3.414833,
   ownProgress: 3.414833,

@@ -5,7 +5,7 @@ export const florenceTheMachineCeremonials = {
   type: "release",
   slug: "florence-the-machine-ceremonials",
   title: "Ceremonials",
-  partOfCollections: ["florence-the-machine"],
+  partOfCollections: ["artist/florence-the-machine"],
   position: 0,
   ownLength: 72.288117,
   ownProgress: 72.288117,

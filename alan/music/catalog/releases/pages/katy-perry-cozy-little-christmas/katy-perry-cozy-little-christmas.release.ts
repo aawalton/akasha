@@ -5,7 +5,7 @@ export const katyPerryCozyLittleChristmas = {
   type: "release",
   slug: "katy-perry-cozy-little-christmas",
   title: "Cozy Little Christmas",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 3.042,
   ownProgress: 3.042,

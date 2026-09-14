@@ -5,7 +5,7 @@ export const auroraForTheMetalPeople = {
   type: "release",
   slug: "aurora-for-the-metal-people",
   title: "FOR THE METAL PEOPLE",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 22.620917,
   ownProgress: 22.620917,

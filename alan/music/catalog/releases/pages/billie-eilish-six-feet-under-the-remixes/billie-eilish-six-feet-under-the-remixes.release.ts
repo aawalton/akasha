@@ -5,7 +5,7 @@ export const billieEilishSixFeetUnderTheRemixes = {
   type: "release",
   slug: "billie-eilish-six-feet-under-the-remixes",
   title: "Six Feet Under (The Remixes)",
-  partOfCollections: ["billie-eilish"],
+  partOfCollections: ["artist/billie-eilish"],
   position: 0,
   ownLength: 14.104,
   ownProgress: 14.104,

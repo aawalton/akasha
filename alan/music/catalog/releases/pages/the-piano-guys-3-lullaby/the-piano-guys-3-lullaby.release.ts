@@ -5,7 +5,7 @@ export const thePianoGuys3Lullaby = {
   type: "release",
   slug: "the-piano-guys-3-lullaby",
   title: "Lullaby",
-  partOfCollections: ["the-piano-guys"],
+  partOfCollections: ["artist/the-piano-guys"],
   position: 0,
   ownLength: 40.18955,
   ownProgress: 40.18955,

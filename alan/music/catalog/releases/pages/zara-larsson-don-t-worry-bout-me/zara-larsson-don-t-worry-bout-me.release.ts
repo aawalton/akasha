@@ -5,7 +5,7 @@ export const zaraLarssonDonTWorryBoutMe = {
   type: "release",
   slug: "zara-larsson-don-t-worry-bout-me",
   title: "Don't Worry Bout Me",
-  partOfCollections: ["zara-larsson"],
+  partOfCollections: ["artist/zara-larsson"],
   position: 0,
   ownLength: 3.480183,
   ownProgress: 3.480183,

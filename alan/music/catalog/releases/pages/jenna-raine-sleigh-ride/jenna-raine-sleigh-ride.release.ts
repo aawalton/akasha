@@ -5,7 +5,7 @@ export const jennaRaineSleighRide = {
   type: "release",
   slug: "jenna-raine-sleigh-ride",
   title: "Sleigh Ride",
-  partOfCollections: ["jenna-raine"],
+  partOfCollections: ["artist/jenna-raine"],
   position: 0,
   ownLength: 3.077417,
   ownProgress: 3.077417,

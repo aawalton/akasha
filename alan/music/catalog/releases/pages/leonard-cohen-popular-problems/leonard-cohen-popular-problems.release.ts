@@ -5,7 +5,7 @@ export const leonardCohenPopularProblems = {
   type: "release",
   slug: "leonard-cohen-popular-problems",
   title: "Popular Problems",
-  partOfCollections: ["leonard-cohen"],
+  partOfCollections: ["artist/leonard-cohen"],
   position: 0,
   ownLength: 36.000617,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const siaCheapThrills = {
   type: "release",
   slug: "sia-cheap-thrills",
   title: "Cheap Thrills",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 3.516217,
   ownProgress: 3.516217,

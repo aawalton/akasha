@@ -5,7 +5,7 @@ export const vinnyMarchiTheDragonbornComes = {
   type: "release",
   slug: "vinny-marchi-the-dragonborn-comes",
   title: "The Dragonborn Comes",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 3.472433,
   ownProgress: 3.472433,

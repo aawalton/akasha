@@ -5,7 +5,7 @@ export const siaFloatingThroughSpaceFeatDavidGuettaJimOumaRemix = {
   type: "release",
   slug: "sia-floating-through-space-feat-david-guetta-jim-ouma-remix",
   title: "Floating Through Space (feat. David Guetta) [JIM OUMA Remix]",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 5.474233,
   ownProgress: 5.474233,

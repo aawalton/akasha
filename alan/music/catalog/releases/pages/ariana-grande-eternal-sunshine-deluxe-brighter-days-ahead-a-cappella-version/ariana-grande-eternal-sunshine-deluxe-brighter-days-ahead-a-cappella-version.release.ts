@@ -5,7 +5,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersion 
   type: "release",
   slug: "ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-a-cappella-version",
   title: "eternal sunshine deluxe: brighter days ahead (a cappella version)",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 107.446733,
   ownProgress: 107.446733,

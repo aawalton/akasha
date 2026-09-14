@@ -5,7 +5,7 @@ export const vinnyMarchiPoserRemastered = {
   type: "release",
   slug: "vinny-marchi-poser-remastered",
   title: "POSER (remastered)",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 14.244317,
   ownProgress: 14.244317,

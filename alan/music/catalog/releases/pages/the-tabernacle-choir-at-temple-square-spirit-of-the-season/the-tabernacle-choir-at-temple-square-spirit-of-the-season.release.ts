@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareSpiritOfTheSeason = {
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-spirit-of-the-season",
   title: "Spirit of the Season",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 64.336117,
   ownProgress: 0,

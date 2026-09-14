@@ -5,7 +5,7 @@ export const lynLapidWishIDidnTCareFeatLynLapid = {
   type: "release",
   slug: "lyn-lapid-wish-i-didn-t-care-feat-lyn-lapid",
   title: "Wish I Didn't Care (feat. Lyn Lapid)",
-  partOfCollections: ["lyn-lapid"],
+  partOfCollections: ["artist/lyn-lapid"],
   position: 0,
   ownLength: 2.673333,
   ownProgress: 2.673333,

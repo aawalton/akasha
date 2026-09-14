@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareSlowDownLiveAtTempleSquare = {
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-slow-down-live-at-temple-square",
   title: "Slow Down (Live at Temple Square)",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 5.280783,
   ownProgress: 0,

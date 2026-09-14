@@ -5,7 +5,7 @@ export const siaRhapsodyOriginals = {
   type: "release",
   slug: "sia-rhapsody-originals",
   title: "Rhapsody Originals",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 17.0742,
   ownProgress: 17.0742,

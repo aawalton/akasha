@@ -5,7 +5,7 @@ export const girlInRedSpotifySingles = {
   type: "release",
   slug: "girl-in-red-spotify-singles",
   title: "Spotify Singles",
-  partOfCollections: ["girl-in-red"],
+  partOfCollections: ["artist/girl-in-red"],
   position: 0,
   ownLength: 5.36215,
   ownProgress: 0,

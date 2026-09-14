@@ -5,7 +5,7 @@ export const katyPerryNeverReallyOver = {
   type: "release",
   slug: "katy-perry-never-really-over",
   title: "Never Really Over",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 3.725383,
   ownProgress: 3.725383,

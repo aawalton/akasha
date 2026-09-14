@@ -5,7 +5,7 @@ export const jadaFacerRadioactiveAcoustic = {
   type: "release",
   slug: "jada-facer-radioactive-acoustic",
   title: "Radioactive (Acoustic)",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.80435,
   ownProgress: 2.80435,

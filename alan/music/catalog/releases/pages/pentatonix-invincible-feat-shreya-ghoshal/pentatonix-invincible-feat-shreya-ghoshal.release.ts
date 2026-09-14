@@ -5,7 +5,7 @@ export const pentatonixInvincibleFeatShreyaGhoshal = {
   type: "release",
   slug: "pentatonix-invincible-feat-shreya-ghoshal",
   title: "Invincible (feat. Shreya Ghoshal)",
-  partOfCollections: ["pentatonix"],
+  partOfCollections: ["artist/pentatonix"],
   position: 0,
   ownLength: 3.298883,
   ownProgress: 3.298883,

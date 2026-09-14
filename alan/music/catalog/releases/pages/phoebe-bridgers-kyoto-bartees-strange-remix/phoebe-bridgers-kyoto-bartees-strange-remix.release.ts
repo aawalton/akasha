@@ -5,7 +5,7 @@ export const phoebeBridgersKyotoBarteesStrangeRemix = {
   type: "release",
   slug: "phoebe-bridgers-kyoto-bartees-strange-remix",
   title: "Kyoto (Bartees Strange Remix)",
-  partOfCollections: ["phoebe-bridgers"],
+  partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
   ownLength: 2.778433,
   ownProgress: 2.778433,

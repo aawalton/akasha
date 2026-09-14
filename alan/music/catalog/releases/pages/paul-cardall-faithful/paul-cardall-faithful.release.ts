@@ -5,7 +5,7 @@ export const paulCardallFaithful = {
   type: "release",
   slug: "paul-cardall-faithful",
   title: "Faithful",
-  partOfCollections: ["paul-cardall"],
+  partOfCollections: ["artist/paul-cardall"],
   position: 0,
   ownLength: 45.249733,
   ownProgress: 45.249733,

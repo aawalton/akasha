@@ -5,7 +5,7 @@ export const ellaHendersonMirrorManRemixes = {
   type: "release",
   slug: "ella-henderson-mirror-man-remixes",
   title: "Mirror Man (Remixes)",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 10.77755,
   ownProgress: 10.77755,

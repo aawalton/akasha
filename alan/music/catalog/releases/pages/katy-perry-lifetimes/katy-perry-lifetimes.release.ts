@@ -5,7 +5,7 @@ export const katyPerryLifetimes = {
   type: "release",
   slug: "katy-perry-lifetimes",
   title: "LIFETIMES",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 3.2,
   ownProgress: 3.2,

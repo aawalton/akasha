@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareLetTheSeasonIn = {
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-let-the-season-in",
   title: "Let The Season In",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 58.9617,
   ownProgress: 0,

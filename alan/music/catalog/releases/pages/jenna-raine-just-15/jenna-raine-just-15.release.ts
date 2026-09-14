@@ -5,7 +5,7 @@ export const jennaRaineJust15 = {
   type: "release",
   slug: "jenna-raine-just-15",
   title: "Just 15",
-  partOfCollections: ["jenna-raine"],
+  partOfCollections: ["artist/jenna-raine"],
   position: 0,
   ownLength: 3.52805,
   ownProgress: 3.52805,

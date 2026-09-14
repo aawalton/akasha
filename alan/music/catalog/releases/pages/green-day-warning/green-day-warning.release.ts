@@ -5,7 +5,7 @@ export const greenDayWarning = {
   type: "release",
   slug: "green-day-warning",
   title: "Warning",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 41.153267,
   ownProgress: 41.153267,

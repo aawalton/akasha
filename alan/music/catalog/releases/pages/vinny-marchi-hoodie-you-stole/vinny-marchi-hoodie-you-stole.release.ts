@@ -5,7 +5,7 @@ export const vinnyMarchiHoodieYouStole = {
   type: "release",
   slug: "vinny-marchi-hoodie-you-stole",
   title: "Hoodie You Stole",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 2.833433,
   ownProgress: 2.833433,

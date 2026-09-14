@@ -5,7 +5,7 @@ export const michaelJacksonThriller25SuperDeluxeEdition = {
   type: "release",
   slug: "michael-jackson-thriller-25-super-deluxe-edition",
   title: "Thriller 25 Super Deluxe Edition",
-  partOfCollections: ["michael-jackson"],
+  partOfCollections: ["artist/michael-jackson"],
   position: 0,
   ownLength: 110.138517,
   ownProgress: 110.138517,

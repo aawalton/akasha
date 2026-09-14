@@ -5,7 +5,7 @@ export const katyPerryFirework = {
   type: "release",
   slug: "katy-perry-firework",
   title: "Firework",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 0.503867,
   ownProgress: 0.503867,

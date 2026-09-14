@@ -5,7 +5,7 @@ export const lilithMaxInMemory = {
   type: "release",
   slug: "lilith-max-in-memory",
   title: "In Memory",
-  partOfCollections: ["lilith-max"],
+  partOfCollections: ["artist/lilith-max"],
   position: 0,
   ownLength: 3.24215,
   ownProgress: 3.24215,

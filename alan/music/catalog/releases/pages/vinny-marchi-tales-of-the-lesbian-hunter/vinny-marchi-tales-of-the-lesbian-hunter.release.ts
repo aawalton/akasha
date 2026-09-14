@@ -5,7 +5,7 @@ export const vinnyMarchiTalesOfTheLesbianHunter = {
   type: "release",
   slug: "vinny-marchi-tales-of-the-lesbian-hunter",
   title: "Tales of the Lesbian Hunter",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 33.544567,
   ownProgress: 33.544567,

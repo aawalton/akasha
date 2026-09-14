@@ -5,7 +5,7 @@ export const elvisPresley2GirlsGirlsGirls = {
   type: "release",
   slug: "elvis-presley-2-girls-girls-girls",
   title: "Girls! Girls! Girls!",
-  partOfCollections: ["elvis-presley"],
+  partOfCollections: ["artist/elvis-presley"],
   position: 0,
   ownLength: 28.63305,
   ownProgress: 28.63305,

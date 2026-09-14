@@ -5,7 +5,7 @@ export const vinnyMarchiGodIMissYourEyes = {
   type: "release",
   slug: "vinny-marchi-god-i-miss-your-eyes",
   title: "god i miss your eyes",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 3.79145,
   ownProgress: 3.79145,

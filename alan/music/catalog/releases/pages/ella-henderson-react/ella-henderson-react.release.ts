@@ -5,7 +5,7 @@ export const ellaHendersonReact = {
   type: "release",
   slug: "ella-henderson-react",
   title: "REACT",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 5.624283,
   ownProgress: 0,

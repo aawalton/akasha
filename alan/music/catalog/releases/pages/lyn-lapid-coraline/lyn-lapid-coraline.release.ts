@@ -5,7 +5,7 @@ export const lynLapidCoraline = {
   type: "release",
   slug: "lyn-lapid-coraline",
   title: "coraline",
-  partOfCollections: ["lyn-lapid"],
+  partOfCollections: ["artist/lyn-lapid"],
   position: 0,
   ownLength: 2.816883,
   ownProgress: 2.816883,

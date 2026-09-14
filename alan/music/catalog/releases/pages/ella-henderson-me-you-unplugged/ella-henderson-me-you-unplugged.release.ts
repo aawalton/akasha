@@ -5,7 +5,7 @@ export const ellaHendersonMeYouUnplugged = {
   type: "release",
   slug: "ella-henderson-me-you-unplugged",
   title: "Me & You (Unplugged)",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 3.09185,
   ownProgress: 0,

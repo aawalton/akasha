@@ -5,7 +5,7 @@ export const vinnyMarchiLockedDown = {
   type: "release",
   slug: "vinny-marchi-locked-down",
   title: "LOCKED DOWN",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 2.38645,
   ownProgress: 2.38645,

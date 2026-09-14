@@ -5,7 +5,7 @@ export const greenDayAmericanIdiotTheOriginalBroadwayCastRecording = {
   type: "release",
   slug: "green-day-american-idiot-the-original-broadway-cast-recording",
   title: "American Idiot - The Original Broadway Cast Recording",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 83.1288,
   ownProgress: 83.1288,

@@ -5,7 +5,7 @@ export const florenceTheMachineMermaids = {
   type: "release",
   slug: "florence-the-machine-mermaids",
   title: "Mermaids",
-  partOfCollections: ["florence-the-machine"],
+  partOfCollections: ["artist/florence-the-machine"],
   position: 0,
   ownLength: 4.58865,
   ownProgress: 4.58865,

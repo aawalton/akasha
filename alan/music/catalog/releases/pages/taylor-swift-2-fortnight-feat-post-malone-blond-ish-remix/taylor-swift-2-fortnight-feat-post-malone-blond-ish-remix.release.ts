@@ -5,7 +5,7 @@ export const taylorSwift2FortnightFeatPostMaloneBlondIshRemix = {
   type: "release",
   slug: "taylor-swift-2-fortnight-feat-post-malone-blond-ish-remix",
   title: "Fortnight (feat. Post Malone) [BLOND:ISH Remix]",
-  partOfCollections: ["taylor-swift"],
+  partOfCollections: ["artist/taylor-swift"],
   position: 0,
   ownLength: 7.4324,
   ownProgress: 7.4324,

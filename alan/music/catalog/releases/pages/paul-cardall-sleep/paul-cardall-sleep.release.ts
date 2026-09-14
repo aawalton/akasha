@@ -5,7 +5,7 @@ export const paulCardallSleep = {
   type: "release",
   slug: "paul-cardall-sleep",
   title: "Sleep",
-  partOfCollections: ["paul-cardall"],
+  partOfCollections: ["artist/paul-cardall"],
   position: 0,
   ownLength: 57.3318,
   ownProgress: 57.3318,

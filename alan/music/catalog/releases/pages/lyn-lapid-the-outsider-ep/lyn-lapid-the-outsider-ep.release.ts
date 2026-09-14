@@ -5,7 +5,7 @@ export const lynLapidTheOutsiderEp = {
   type: "release",
   slug: "lyn-lapid-the-outsider-ep",
   title: "The Outsider EP",
-  partOfCollections: ["lyn-lapid"],
+  partOfCollections: ["artist/lyn-lapid"],
   position: 0,
   ownLength: 23.44375,
   ownProgress: 23.44375,

@@ -5,7 +5,7 @@ export const emBeiholdTalesOfAFailedShapeshifter = {
   type: "release",
   slug: "em-beihold-tales-of-a-failed-shapeshifter",
   title: "Tales of a Failed Shapeshifter",
-  partOfCollections: ["em-beihold"],
+  partOfCollections: ["artist/em-beihold"],
   position: 0,
   ownLength: 29.040967,
   ownProgress: 0,

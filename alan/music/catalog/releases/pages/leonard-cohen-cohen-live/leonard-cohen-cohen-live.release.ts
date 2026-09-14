@@ -5,7 +5,7 @@ export const leonardCohenCohenLive = {
   type: "release",
   slug: "leonard-cohen-cohen-live",
   title: "Cohen Live",
-  partOfCollections: ["leonard-cohen"],
+  partOfCollections: ["artist/leonard-cohen"],
   position: 0,
   ownLength: 71.831483,
   ownProgress: 0,

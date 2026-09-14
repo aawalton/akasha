@@ -5,7 +5,7 @@ export const linkinParkMinutesToMidnight = {
   type: "release",
   slug: "linkin-park-minutes-to-midnight",
   title: "Minutes to Midnight",
-  partOfCollections: ["linkin-park"],
+  partOfCollections: ["artist/linkin-park"],
   position: 0,
   ownLength: 43.483467,
   ownProgress: 0,

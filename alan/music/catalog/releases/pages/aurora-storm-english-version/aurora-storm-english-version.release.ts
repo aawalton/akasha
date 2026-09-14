@@ -5,7 +5,7 @@ export const auroraStormEnglishVersion = {
   type: "release",
   slug: "aurora-storm-english-version",
   title: "Storm (English Version)",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 3.817017,
   ownProgress: 3.817017,

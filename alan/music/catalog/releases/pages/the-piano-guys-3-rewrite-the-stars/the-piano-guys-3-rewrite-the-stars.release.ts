@@ -5,7 +5,7 @@ export const thePianoGuys3RewriteTheStars = {
   type: "release",
   slug: "the-piano-guys-3-rewrite-the-stars",
   title: "Rewrite the Stars",
-  partOfCollections: ["the-piano-guys"],
+  partOfCollections: ["artist/the-piano-guys"],
   position: 0,
   ownLength: 3.52555,
   ownProgress: 3.52555,

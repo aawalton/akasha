@@ -5,7 +5,7 @@ export const katyPerryHarleysInHawaiiWinAndWooRemix = {
   type: "release",
   slug: "katy-perry-harleys-in-hawaii-win-and-woo-remix",
   title: "Harleys In Hawaii (Win and Woo Remix)",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 3.4375,
   ownProgress: 3.4375,

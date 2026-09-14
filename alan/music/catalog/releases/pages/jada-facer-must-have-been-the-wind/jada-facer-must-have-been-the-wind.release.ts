@@ -5,7 +5,7 @@ export const jadaFacerMustHaveBeenTheWind = {
   type: "release",
   slug: "jada-facer-must-have-been-the-wind",
   title: "Must Have Been The Wind",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.531667,
   ownProgress: 3.531667,

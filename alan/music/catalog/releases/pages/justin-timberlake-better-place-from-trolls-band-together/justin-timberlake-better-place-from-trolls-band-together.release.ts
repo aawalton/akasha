@@ -5,7 +5,7 @@ export const justinTimberlakeBetterPlaceFromTrollsBandTogether = {
   type: "release",
   slug: "justin-timberlake-better-place-from-trolls-band-together",
   title: "Better Place (From TROLLS Band Together)",
-  partOfCollections: ["justin-timberlake"],
+  partOfCollections: ["artist/justin-timberlake"],
   position: 0,
   ownLength: 3.6111,
   ownProgress: 0,

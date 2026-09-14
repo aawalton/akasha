@@ -5,7 +5,7 @@ export const backstreetBoys2WhatHurtsTheMost = {
   type: "release",
   slug: "backstreet-boys-2-what-hurts-the-most",
   title: "What Hurts The Most",
-  partOfCollections: ["backstreet-boys"],
+  partOfCollections: ["artist/backstreet-boys"],
   position: 0,
   ownLength: 3.516667,
   ownProgress: 3.516667,

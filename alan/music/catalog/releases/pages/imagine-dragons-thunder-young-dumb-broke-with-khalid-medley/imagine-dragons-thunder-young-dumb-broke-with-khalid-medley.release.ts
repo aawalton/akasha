@@ -5,7 +5,7 @@ export const imagineDragonsThunderYoungDumbBrokeWithKhalidMedley = {
   type: "release",
   slug: "imagine-dragons-thunder-young-dumb-broke-with-khalid-medley",
   title: "Thunder / Young Dumb & Broke (with Khalid) [Medley]",
-  partOfCollections: ["imagine-dragons"],
+  partOfCollections: ["artist/imagine-dragons"],
   position: 0,
   ownLength: 4.18805,
   ownProgress: 4.18805,

@@ -5,7 +5,7 @@ export const ellaHendersonDreamOnMeRogerSanchezExtendedRemix = {
   type: "release",
   slug: "ella-henderson-dream-on-me-roger-sanchez-extended-remix",
   title: "Dream On Me (Roger Sanchez Extended Remix)",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 6.986,
   ownProgress: 6.986,

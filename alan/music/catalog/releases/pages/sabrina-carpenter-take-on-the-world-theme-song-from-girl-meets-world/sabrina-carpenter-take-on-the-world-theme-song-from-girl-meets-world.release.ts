@@ -5,7 +5,7 @@ export const sabrinaCarpenterTakeOnTheWorldThemeSongFromGirlMeetsWorld = {
   type: "release",
   slug: "sabrina-carpenter-take-on-the-world-theme-song-from-girl-meets-world",
   title: 'Take On the World (Theme Song From "Girl Meets World")',
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 3.210667,
   ownProgress: 3.210667,

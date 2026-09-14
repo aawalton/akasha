@@ -5,7 +5,7 @@ export const sabrinaCarpenterChristmasTheWholeYearRound = {
   type: "release",
   slug: "sabrina-carpenter-christmas-the-whole-year-round",
   title: "Christmas the Whole Year Round",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 2.990433,
   ownProgress: 2.990433,

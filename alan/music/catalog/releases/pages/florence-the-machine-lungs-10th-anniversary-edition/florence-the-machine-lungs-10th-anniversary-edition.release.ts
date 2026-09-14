@@ -5,7 +5,7 @@ export const florenceTheMachineLungs10thAnniversaryEdition = {
   type: "release",
   slug: "florence-the-machine-lungs-10th-anniversary-edition",
   title: "Lungs (10th Anniversary Edition)",
-  partOfCollections: ["florence-the-machine"],
+  partOfCollections: ["artist/florence-the-machine"],
   position: 0,
   ownLength: 79.2272,
   ownProgress: 79.2272,

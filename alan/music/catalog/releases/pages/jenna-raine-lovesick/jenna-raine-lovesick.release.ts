@@ -5,7 +5,7 @@ export const jennaRaineLovesick = {
   type: "release",
   slug: "jenna-raine-lovesick",
   title: "Lovesick",
-  partOfCollections: ["jenna-raine"],
+  partOfCollections: ["artist/jenna-raine"],
   position: 0,
   ownLength: 2.529333,
   ownProgress: 2.529333,

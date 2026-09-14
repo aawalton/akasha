@@ -5,7 +5,7 @@ export const sylviaDaleyNoiseCancellingHeadphones = {
   type: "release",
   slug: "sylvia-daley-noise-cancelling-headphones",
   title: "Noise Cancelling Headphones",
-  partOfCollections: ["sylvia-daley"],
+  partOfCollections: ["artist/sylvia-daley"],
   position: 0,
   ownLength: 2.9577,
   ownProgress: 2.9577,

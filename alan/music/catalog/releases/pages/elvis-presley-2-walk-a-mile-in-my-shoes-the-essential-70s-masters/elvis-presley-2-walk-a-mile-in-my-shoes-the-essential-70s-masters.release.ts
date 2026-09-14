@@ -5,7 +5,7 @@ export const elvisPresley2WalkAMileInMyShoesTheEssential70sMasters = {
   type: "release",
   slug: "elvis-presley-2-walk-a-mile-in-my-shoes-the-essential-70s-masters",
   title: "Walk a Mile in My Shoes: The Essential '70s Masters",
-  partOfCollections: ["elvis-presley"],
+  partOfCollections: ["artist/elvis-presley"],
   position: 0,
   ownLength: 372.0482,
   ownProgress: 372.0482,

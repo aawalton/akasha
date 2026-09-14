@@ -5,7 +5,7 @@ export const katyPerrySmallTalk = {
   type: "release",
   slug: "katy-perry-small-talk",
   title: "Small Talk",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 2.699367,
   ownProgress: 2.699367,

@@ -5,7 +5,7 @@ export const adeleHometownGlory = {
   type: "release",
   slug: "adele-hometown-glory",
   title: "Hometown Glory",
-  partOfCollections: ["adele"],
+  partOfCollections: ["artist/adele"],
   position: 0,
   ownLength: 16.862,
   ownProgress: 16.862,

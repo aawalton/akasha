@@ -5,7 +5,7 @@ export const jennaRaineMyEscapeIfIHadTheSummer = {
   type: "release",
   slug: "jenna-raine-my-escape-if-i-had-the-summer",
   title: "My Escape / If I Had the Summer",
-  partOfCollections: ["jenna-raine"],
+  partOfCollections: ["artist/jenna-raine"],
   position: 0,
   ownLength: 6.200483,
   ownProgress: 6.200483,

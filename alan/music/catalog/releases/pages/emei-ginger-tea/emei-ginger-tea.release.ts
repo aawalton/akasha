@@ -5,7 +5,7 @@ export const emeiGingerTea = {
   type: "release",
   slug: "emei-ginger-tea",
   title: "Ginger Tea",
-  partOfCollections: ["emei"],
+  partOfCollections: ["artist/emei"],
   position: 0,
   ownLength: 3.684867,
   ownProgress: 3.684867,

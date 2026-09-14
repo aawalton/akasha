@@ -5,7 +5,7 @@ export const arianaGrandeYoursTruly = {
   type: "release",
   slug: "ariana-grande-yours-truly",
   title: "Yours Truly",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 46.43415,
   ownProgress: 46.43415,

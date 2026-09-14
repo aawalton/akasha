@@ -5,7 +5,7 @@ export const linkinParkUpFromTheBottom = {
   type: "release",
   slug: "linkin-park-up-from-the-bottom",
   title: "Up From the Bottom",
-  partOfCollections: ["linkin-park"],
+  partOfCollections: ["artist/linkin-park"],
   position: 0,
   ownLength: 3.053717,
   ownProgress: 0,

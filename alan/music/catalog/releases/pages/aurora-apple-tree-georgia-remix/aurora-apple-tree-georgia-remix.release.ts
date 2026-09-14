@@ -5,7 +5,7 @@ export const auroraAppleTreeGeorgiaRemix = {
   type: "release",
   slug: "aurora-apple-tree-georgia-remix",
   title: "Apple Tree (Georgia Remix)",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 11.1561,
   ownProgress: 11.1561,

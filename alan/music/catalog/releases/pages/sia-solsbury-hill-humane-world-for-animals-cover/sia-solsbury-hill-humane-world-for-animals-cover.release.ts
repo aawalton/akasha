@@ -5,7 +5,7 @@ export const siaSolsburyHillHumaneWorldForAnimalsCover = {
   type: "release",
   slug: "sia-solsbury-hill-humane-world-for-animals-cover",
   title: "Solsbury Hill (Humane World for Animals Cover)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 4.016217,
   ownProgress: 4.016217,

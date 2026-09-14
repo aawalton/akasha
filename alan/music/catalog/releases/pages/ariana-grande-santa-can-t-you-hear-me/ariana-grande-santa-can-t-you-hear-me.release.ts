@@ -5,7 +5,7 @@ export const arianaGrandeSantaCanTYouHearMe = {
   type: "release",
   slug: "ariana-grande-santa-can-t-you-hear-me",
   title: "Santa, Can’t You Hear Me",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 4.044067,
   ownProgress: 4.044067,

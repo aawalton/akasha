@@ -5,7 +5,7 @@ export const siaGimmeLoveSentinelRemix = {
   type: "release",
   slug: "sia-gimme-love-sentinel-remix",
   title: "Gimme Love (Sentinel Remix)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 16.451033,
   ownProgress: 16.451033,

@@ -5,7 +5,7 @@ export const paulCardallAscensus = {
   type: "release",
   slug: "paul-cardall-ascensus",
   title: "Ascensus",
-  partOfCollections: ["paul-cardall"],
+  partOfCollections: ["artist/paul-cardall"],
   position: 0,
   ownLength: 29.9369,
   ownProgress: 29.9369,

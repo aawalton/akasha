@@ -5,7 +5,7 @@ export const jadaFacerSidelines = {
   type: "release",
   slug: "jada-facer-sidelines",
   title: "Sidelines",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.135317,
   ownProgress: 3.135317,

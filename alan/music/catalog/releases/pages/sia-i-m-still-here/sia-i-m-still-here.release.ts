@@ -5,7 +5,7 @@ export const siaIMStillHere = {
   type: "release",
   slug: "sia-i-m-still-here",
   title: "I'm Still Here",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 4.031833,
   ownProgress: 4.031833,

@@ -5,7 +5,7 @@ export const siaNoNewFriendsRemixes = {
   type: "release",
   slug: "sia-no-new-friends-remixes",
   title: "No New Friends (Remixes)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 6.9191,
   ownProgress: 6.9191,

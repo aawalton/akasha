@@ -5,7 +5,7 @@ export const linkinParkPapercuts = {
   type: "release",
   slug: "linkin-park-papercuts",
   title: "Papercuts",
-  partOfCollections: ["linkin-park"],
+  partOfCollections: ["artist/linkin-park"],
   position: 0,
   ownLength: 67.902917,
   ownProgress: 0,

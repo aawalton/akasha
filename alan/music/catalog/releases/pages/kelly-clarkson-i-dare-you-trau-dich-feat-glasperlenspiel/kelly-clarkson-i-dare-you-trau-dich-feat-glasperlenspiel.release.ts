@@ -5,7 +5,7 @@ export const kellyClarksonIDareYouTrauDichFeatGlasperlenspiel = {
   type: "release",
   slug: "kelly-clarkson-i-dare-you-trau-dich-feat-glasperlenspiel",
   title: "I Dare You (Trau Dich) [feat. Glasperlenspiel]",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 3.60205,
   ownProgress: 3.60205,

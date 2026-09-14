@@ -5,7 +5,7 @@ export const celticWoman2SpancilHill = {
   type: "release",
   slug: "celtic-woman-2-spancil-hill",
   title: "Spancil Hill",
-  partOfCollections: ["celtic-woman"],
+  partOfCollections: ["artist/celtic-woman"],
   position: 0,
   ownLength: 3.308333,
   ownProgress: 3.308333,

@@ -5,7 +5,7 @@ export const siaReaper = {
   type: "release",
   slug: "sia-reaper",
   title: "Reaper",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 3.64155,
   ownProgress: 3.64155,

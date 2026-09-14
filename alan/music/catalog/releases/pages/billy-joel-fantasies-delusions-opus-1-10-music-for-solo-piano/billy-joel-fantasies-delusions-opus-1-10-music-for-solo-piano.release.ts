@@ -5,7 +5,7 @@ export const billyJoelFantasiesDelusionsOpus110MusicForSoloPiano = {
   type: "release",
   slug: "billy-joel-fantasies-delusions-opus-1-10-music-for-solo-piano",
   title: "Fantasies & Delusions (Opus 1-10 Music for Solo Piano)",
-  partOfCollections: ["billy-joel"],
+  partOfCollections: ["artist/billy-joel"],
   position: 0,
   ownLength: 76.294817,
   ownProgress: 0,

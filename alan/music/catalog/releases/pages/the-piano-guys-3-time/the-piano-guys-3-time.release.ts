@@ -5,7 +5,7 @@ export const thePianoGuys3Time = {
   type: "release",
   slug: "the-piano-guys-3-time",
   title: "Time",
-  partOfCollections: ["the-piano-guys"],
+  partOfCollections: ["artist/the-piano-guys"],
   position: 0,
   ownLength: 4.2,
   ownProgress: 4.2,

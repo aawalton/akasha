@@ -5,7 +5,7 @@ export const siaBeautifulPeopleAfrojackAmelRemix = {
   type: "release",
   slug: "sia-beautiful-people-afrojack-amel-remix",
   title: "Beautiful People (AFROJACK & Amél Remix)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 15.36705,
   ownProgress: 15.36705,

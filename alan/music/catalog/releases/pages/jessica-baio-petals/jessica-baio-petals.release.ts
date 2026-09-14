@@ -5,7 +5,7 @@ export const jessicaBaioPetals = {
   type: "release",
   slug: "jessica-baio-petals",
   title: "petals",
-  partOfCollections: ["jessica-baio"],
+  partOfCollections: ["artist/jessica-baio"],
   position: 0,
   ownLength: 20.654483,
   ownProgress: 20.654483,

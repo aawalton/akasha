@@ -5,7 +5,7 @@ export const snailMailLush = {
   type: "release",
   slug: "snail-mail-lush",
   title: "Lush",
-  partOfCollections: ["snail-mail"],
+  partOfCollections: ["artist/snail-mail"],
   position: 0,
   ownLength: 38.330383,
   ownProgress: 0,

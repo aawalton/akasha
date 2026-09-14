@@ -5,7 +5,7 @@ export const lindseyStirling2JoyToTheWorldSpedUp = {
   type: "release",
   slug: "lindsey-stirling-2-joy-to-the-world-sped-up",
   title: "Joy To The World (Sped Up)",
-  partOfCollections: ["lindsey-stirling"],
+  partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
   ownLength: 2.466867,
   ownProgress: 2.466867,

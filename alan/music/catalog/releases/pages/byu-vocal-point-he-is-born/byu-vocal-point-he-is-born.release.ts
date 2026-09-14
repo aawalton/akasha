@@ -5,7 +5,7 @@ export const byuVocalPointHeIsBorn = {
   type: "release",
   slug: "byu-vocal-point-he-is-born",
   title: "He Is Born",
-  partOfCollections: ["byu-vocal-point"],
+  partOfCollections: ["artist/byu-vocal-point"],
   position: 0,
   ownLength: 41.40465,
   ownProgress: 0,

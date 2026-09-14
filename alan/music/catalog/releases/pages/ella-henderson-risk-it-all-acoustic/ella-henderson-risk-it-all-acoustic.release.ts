@@ -5,7 +5,7 @@ export const ellaHendersonRiskItAllAcoustic = {
   type: "release",
   slug: "ella-henderson-risk-it-all-acoustic",
   title: "Risk It All (Acoustic)",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 6.267733,
   ownProgress: 6.267733,

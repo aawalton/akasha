@@ -5,7 +5,7 @@ export const imagineDragonsOriginsDeluxe = {
   type: "release",
   slug: "imagine-dragons-origins-deluxe",
   title: "Origins (Deluxe)",
-  partOfCollections: ["imagine-dragons"],
+  partOfCollections: ["artist/imagine-dragons"],
   position: 0,
   ownLength: 52.509933,
   ownProgress: 52.509933,

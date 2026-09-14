@@ -5,7 +5,7 @@ export const siaGetMe = {
   type: "release",
   slug: "sia-get-me",
   title: "Get Me",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 10.5907,
   ownProgress: 10.5907,

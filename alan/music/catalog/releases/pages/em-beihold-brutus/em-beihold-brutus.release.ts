@@ -5,7 +5,7 @@ export const emBeiholdBrutus = {
   type: "release",
   slug: "em-beihold-brutus",
   title: "Brutus",
-  partOfCollections: ["em-beihold"],
+  partOfCollections: ["artist/em-beihold"],
   position: 0,
   ownLength: 2.467517,
   ownProgress: 2.467517,

@@ -5,7 +5,7 @@ export const clairoGetWithU = {
   type: "release",
   slug: "clairo-get-with-u",
   title: "Get With U",
-  partOfCollections: ["clairo"],
+  partOfCollections: ["artist/clairo"],
   position: 0,
   ownLength: 1.981383,
   ownProgress: 1.981383,

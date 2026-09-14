@@ -5,7 +5,7 @@ export const sabrinaCarpenterAlmostLoveR3habRemix = {
   type: "release",
   slug: "sabrina-carpenter-almost-love-r3hab-remix",
   title: "Almost Love (R3HAB Remix)",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 2.916667,
   ownProgress: 2.916667,

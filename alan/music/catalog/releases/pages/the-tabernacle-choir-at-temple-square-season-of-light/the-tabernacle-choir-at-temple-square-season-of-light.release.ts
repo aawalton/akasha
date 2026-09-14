@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareSeasonOfLight = {
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-season-of-light",
   title: "Season of Light: Christmas with the Tabernacle Choir and Orchestra at Temple Square",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 56.078133,
   ownProgress: 0,

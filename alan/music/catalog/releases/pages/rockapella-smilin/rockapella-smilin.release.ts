@@ -5,7 +5,7 @@ export const rockapellaSmilin = {
   type: "release",
   slug: "rockapella-smilin",
   title: "Smilin'",
-  partOfCollections: ["rockapella"],
+  partOfCollections: ["artist/rockapella"],
   position: 0,
   ownLength: 39.921217,
   ownProgress: 39.921217,

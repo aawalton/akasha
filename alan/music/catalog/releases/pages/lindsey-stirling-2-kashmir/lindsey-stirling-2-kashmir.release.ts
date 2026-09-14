@@ -5,7 +5,7 @@ export const lindseyStirling2Kashmir = {
   type: "release",
   slug: "lindsey-stirling-2-kashmir",
   title: "Kashmir",
-  partOfCollections: ["lindsey-stirling"],
+  partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
   ownLength: 3.426,
   ownProgress: 3.426,

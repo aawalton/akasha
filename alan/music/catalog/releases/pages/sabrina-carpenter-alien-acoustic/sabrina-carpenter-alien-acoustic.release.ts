@@ -5,7 +5,7 @@ export const sabrinaCarpenterAlienAcoustic = {
   type: "release",
   slug: "sabrina-carpenter-alien-acoustic",
   title: "Alien (Acoustic)",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 3.410483,
   ownProgress: 3.410483,

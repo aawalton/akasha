@@ -5,7 +5,7 @@ export const jennaRaineHaveYourselfAMerryLittleChristmas = {
   type: "release",
   slug: "jenna-raine-have-yourself-a-merry-little-christmas",
   title: "Have Yourself A Merry Little Christmas",
-  partOfCollections: ["jenna-raine"],
+  partOfCollections: ["artist/jenna-raine"],
   position: 0,
   ownLength: 2.1004,
   ownProgress: 2.1004,

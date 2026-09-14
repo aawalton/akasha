@@ -5,7 +5,7 @@ export const billyJoelStormFront = {
   type: "release",
   slug: "billy-joel-storm-front",
   title: "Storm Front",
-  partOfCollections: ["billy-joel"],
+  partOfCollections: ["artist/billy-joel"],
   position: 0,
   ownLength: 44.649283,
   ownProgress: 0,

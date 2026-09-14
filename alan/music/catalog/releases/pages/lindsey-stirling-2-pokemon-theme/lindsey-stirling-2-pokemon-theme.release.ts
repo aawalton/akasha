@@ -5,7 +5,7 @@ export const lindseyStirling2PokemonTheme = {
   type: "release",
   slug: "lindsey-stirling-2-pokemon-theme",
   title: "Pokemon Theme",
-  partOfCollections: ["lindsey-stirling"],
+  partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
   ownLength: 3.34245,
   ownProgress: 3.34245,

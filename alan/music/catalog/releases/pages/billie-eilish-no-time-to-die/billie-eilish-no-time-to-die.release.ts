@@ -5,7 +5,7 @@ export const billieEilishNoTimeToDie = {
   type: "release",
   slug: "billie-eilish-no-time-to-die",
   title: "No Time To Die",
-  partOfCollections: ["billie-eilish"],
+  partOfCollections: ["artist/billie-eilish"],
   position: 0,
   ownLength: 4.03775,
   ownProgress: 4.03775,

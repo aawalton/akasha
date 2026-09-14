@@ -5,7 +5,7 @@ export const coldplayBrothersSisters = {
   type: "release",
   slug: "coldplay-brothers-sisters",
   title: "Brothers & Sisters",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 10.935983,
   ownProgress: 10.935983,

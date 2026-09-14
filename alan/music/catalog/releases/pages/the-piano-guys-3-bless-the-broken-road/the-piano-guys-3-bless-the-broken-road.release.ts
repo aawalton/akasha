@@ -5,7 +5,7 @@ export const thePianoGuys3BlessTheBrokenRoad = {
   type: "release",
   slug: "the-piano-guys-3-bless-the-broken-road",
   title: "Bless the Broken Road",
-  partOfCollections: ["the-piano-guys"],
+  partOfCollections: ["artist/the-piano-guys"],
   position: 0,
   ownLength: 3.924167,
   ownProgress: 3.924167,

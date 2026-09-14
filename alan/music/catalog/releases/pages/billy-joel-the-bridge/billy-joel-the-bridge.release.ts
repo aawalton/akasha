@@ -5,7 +5,7 @@ export const billyJoelTheBridge = {
   type: "release",
   slug: "billy-joel-the-bridge",
   title: "The Bridge",
-  partOfCollections: ["billy-joel"],
+  partOfCollections: ["artist/billy-joel"],
   position: 0,
   ownLength: 40.3046,
   ownProgress: 0,

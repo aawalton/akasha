@@ -5,7 +5,7 @@ export const siaButtons = {
   type: "release",
   slug: "sia-buttons",
   title: "Buttons",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 36.37485,
   ownProgress: 36.37485,

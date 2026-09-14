@@ -5,7 +5,7 @@ export const greenDayDookie = {
   type: "release",
   slug: "green-day-dookie",
   title: "Dookie",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 38.368117,
   ownProgress: 38.368117,

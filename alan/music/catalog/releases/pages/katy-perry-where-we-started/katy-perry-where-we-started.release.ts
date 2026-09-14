@@ -5,7 +5,7 @@ export const katyPerryWhereWeStarted = {
   type: "release",
   slug: "katy-perry-where-we-started",
   title: "Where We Started",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 3.033767,
   ownProgress: 3.033767,

@@ -5,7 +5,7 @@ export const greenDayThatSRockNRoll = {
   type: "release",
   slug: "green-day-that-s-rock-n-roll",
   title: "That's Rock 'n' Roll",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 2.990583,
   ownProgress: 0,

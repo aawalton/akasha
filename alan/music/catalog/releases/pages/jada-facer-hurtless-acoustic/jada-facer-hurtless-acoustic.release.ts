@@ -5,7 +5,7 @@ export const jadaFacerHurtlessAcoustic = {
   type: "release",
   slug: "jada-facer-hurtless-acoustic",
   title: "Hurtless (Acoustic)",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.880833,
   ownProgress: 2.880833,

@@ -5,7 +5,7 @@ export const billyJoelGlassHouses = {
   type: "release",
   slug: "billy-joel-glass-houses",
   title: "Glass Houses",
-  partOfCollections: ["billy-joel"],
+  partOfCollections: ["artist/billy-joel"],
   position: 0,
   ownLength: 34.879083,
   ownProgress: 0,

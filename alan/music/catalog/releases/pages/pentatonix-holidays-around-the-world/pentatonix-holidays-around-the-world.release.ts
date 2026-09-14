@@ -5,7 +5,7 @@ export const pentatonixHolidaysAroundTheWorld = {
   type: "release",
   slug: "pentatonix-holidays-around-the-world",
   title: "Holidays Around the World",
-  partOfCollections: ["pentatonix"],
+  partOfCollections: ["artist/pentatonix"],
   position: 0,
   ownLength: 40.902617,
   ownProgress: 40.902617,

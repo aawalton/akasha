@@ -5,7 +5,7 @@ export const jennaRaineINeedYou = {
   type: "release",
   slug: "jenna-raine-i-need-you",
   title: "I Need You",
-  partOfCollections: ["jenna-raine"],
+  partOfCollections: ["artist/jenna-raine"],
   position: 0,
   ownLength: 4.8504,
   ownProgress: 4.8504,

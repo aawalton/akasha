@@ -5,7 +5,7 @@ export const gracieAbramsBlockMeOut = {
   type: "release",
   slug: "gracie-abrams-block-me-out",
   title: "Block me out",
-  partOfCollections: ["gracie-abrams"],
+  partOfCollections: ["artist/gracie-abrams"],
   position: 0,
   ownLength: 4.158233,
   ownProgress: 4.158233,

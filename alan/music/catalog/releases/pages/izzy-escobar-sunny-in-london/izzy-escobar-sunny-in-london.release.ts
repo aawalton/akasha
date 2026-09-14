@@ -5,7 +5,7 @@ export const izzyEscobarSunnyInLondon = {
   type: "release",
   slug: "izzy-escobar-sunny-in-london",
   title: "Sunny in London",
-  partOfCollections: ["izzy-escobar"],
+  partOfCollections: ["artist/izzy-escobar"],
   position: 0,
   ownLength: 20.74235,
   ownProgress: 20.74235,

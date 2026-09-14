@@ -5,7 +5,7 @@ export const arianaGrandeMyEverythingDeluxe = {
   type: "release",
   slug: "ariana-grande-my-everything-deluxe",
   title: "My Everything (Deluxe)",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 50.973483,
   ownProgress: 50.973483,

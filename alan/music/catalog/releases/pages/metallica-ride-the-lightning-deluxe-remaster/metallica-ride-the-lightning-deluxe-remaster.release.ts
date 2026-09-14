@@ -5,7 +5,7 @@ export const metallicaRideTheLightningDeluxeRemaster = {
   type: "release",
   slug: "metallica-ride-the-lightning-deluxe-remaster",
   title: "Ride The Lightning (Deluxe Remaster)",
-  partOfCollections: ["metallica"],
+  partOfCollections: ["artist/metallica"],
   position: 0,
   ownLength: 350.758567,
   ownProgress: 0,

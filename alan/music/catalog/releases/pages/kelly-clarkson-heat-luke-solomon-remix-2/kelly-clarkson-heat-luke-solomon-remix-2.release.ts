@@ -5,7 +5,7 @@ export const kellyClarksonHeatLukeSolomonRemix2 = {
   type: "release",
   slug: "kelly-clarkson-heat-luke-solomon-remix-2",
   title: "Heat (Luke Solomon Remix)",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 8.709983,
   ownProgress: 8.709983,

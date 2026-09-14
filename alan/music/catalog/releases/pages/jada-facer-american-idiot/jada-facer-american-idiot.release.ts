@@ -5,7 +5,7 @@ export const jadaFacerAmericanIdiot = {
   type: "release",
   slug: "jada-facer-american-idiot",
   title: "American Idiot",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.167783,
   ownProgress: 2.167783,

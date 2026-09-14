@@ -5,7 +5,7 @@ export const billyJoelAnInnocentMan = {
   type: "release",
   slug: "billy-joel-an-innocent-man",
   title: "An Innocent Man",
-  partOfCollections: ["billy-joel"],
+  partOfCollections: ["artist/billy-joel"],
   position: 0,
   ownLength: 40.301717,
   ownProgress: 0,

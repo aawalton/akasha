@@ -5,7 +5,7 @@ export const jadaFacerMrBrightside = {
   type: "release",
   slug: "jada-facer-mr-brightside",
   title: "Mr. Brightside",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.45435,
   ownProgress: 3.45435,

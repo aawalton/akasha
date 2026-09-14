@@ -5,7 +5,7 @@ export const girlInRedChapter2 = {
   type: "release",
   slug: "girl-in-red-chapter-2",
   title: "chapter 2",
-  partOfCollections: ["girl-in-red"],
+  partOfCollections: ["artist/girl-in-red"],
   position: 0,
   ownLength: 15.92695,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const elvisPresley2ElvisPresleyChristmasDuets = {
   type: "release",
   slug: "elvis-presley-2-elvis-presley-christmas-duets",
   title: "Elvis Presley Christmas Duets",
-  partOfCollections: ["elvis-presley"],
+  partOfCollections: ["artist/elvis-presley"],
   position: 0,
   ownLength: 38.734583,
   ownProgress: 38.734583,

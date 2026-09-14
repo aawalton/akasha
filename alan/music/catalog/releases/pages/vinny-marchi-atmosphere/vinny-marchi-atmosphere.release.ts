@@ -5,7 +5,7 @@ export const vinnyMarchiAtmosphere = {
   type: "release",
   slug: "vinny-marchi-atmosphere",
   title: "Atmosphere",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 3.415183,
   ownProgress: 3.415183,

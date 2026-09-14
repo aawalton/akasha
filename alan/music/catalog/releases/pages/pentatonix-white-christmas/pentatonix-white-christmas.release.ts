@@ -5,7 +5,7 @@ export const pentatonixWhiteChristmas = {
   type: "release",
   slug: "pentatonix-white-christmas",
   title: "White Christmas",
-  partOfCollections: ["pentatonix"],
+  partOfCollections: ["artist/pentatonix"],
   position: 0,
   ownLength: 3.060667,
   ownProgress: 3.060667,

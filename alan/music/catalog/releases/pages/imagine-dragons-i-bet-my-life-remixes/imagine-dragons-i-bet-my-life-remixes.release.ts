@@ -5,7 +5,7 @@ export const imagineDragonsIBetMyLifeRemixes = {
   type: "release",
   slug: "imagine-dragons-i-bet-my-life-remixes",
   title: "I Bet My Life (Remixes)",
-  partOfCollections: ["imagine-dragons"],
+  partOfCollections: ["artist/imagine-dragons"],
   position: 0,
   ownLength: 16.067767,
   ownProgress: 16.067767,

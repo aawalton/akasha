@@ -5,7 +5,7 @@ export const michaelJacksonMichaelJacksonTheCompleteRemixSuite = {
   type: "release",
   slug: "michael-jackson-michael-jackson-the-complete-remix-suite",
   title: "Michael Jackson: The Complete Remix Suite",
-  partOfCollections: ["michael-jackson"],
+  partOfCollections: ["artist/michael-jackson"],
   position: 0,
   ownLength: 85.517683,
   ownProgress: 85.517683,

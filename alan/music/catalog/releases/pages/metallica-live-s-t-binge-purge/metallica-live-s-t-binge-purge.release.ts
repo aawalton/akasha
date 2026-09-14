@@ -5,7 +5,7 @@ export const metallicaLiveSTBingePurge = {
   type: "release",
   slug: "metallica-live-s-t-binge-purge",
   title: "Live S**t: Binge & Purge",
-  partOfCollections: ["metallica"],
+  partOfCollections: ["artist/metallica"],
   position: 0,
   ownLength: 177.172733,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const rockapellaComfortJoy = {
   type: "release",
   slug: "rockapella-comfort-joy",
   title: "Comfort & Joy",
-  partOfCollections: ["rockapella"],
+  partOfCollections: ["artist/rockapella"],
   position: 0,
   ownLength: 41.28495,
   ownProgress: 41.28495,

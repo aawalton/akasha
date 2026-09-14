@@ -5,7 +5,7 @@ export const auroraComeCloser = {
   type: "release",
   slug: "aurora-come-closer",
   title: "COME CLOSER",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 4.474217,
   ownProgress: 0,

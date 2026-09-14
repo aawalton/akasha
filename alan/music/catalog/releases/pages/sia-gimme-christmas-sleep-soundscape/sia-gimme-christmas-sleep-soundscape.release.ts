@@ -5,7 +5,7 @@ export const siaGimmeChristmasSleepSoundscape = {
   type: "release",
   slug: "sia-gimme-christmas-sleep-soundscape",
   title: "Gimme Christmas (Sleep Soundscape)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 49.996283,
   ownProgress: 49.996283,

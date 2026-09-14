@@ -5,7 +5,7 @@ export const coldplayOvertura = {
   type: "release",
   slug: "coldplay-overtura",
   title: "Overtura",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 1.8802,
   ownProgress: 1.8802,

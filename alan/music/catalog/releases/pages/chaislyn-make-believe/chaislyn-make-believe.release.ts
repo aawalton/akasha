@@ -5,7 +5,7 @@ export const chaislynMakeBelieve = {
   type: "release",
   slug: "chaislyn-make-believe",
   title: "Make Believe",
-  partOfCollections: ["chaislyn"],
+  partOfCollections: ["artist/chaislyn"],
   position: 0,
   ownLength: 3.136667,
   ownProgress: 3.136667,

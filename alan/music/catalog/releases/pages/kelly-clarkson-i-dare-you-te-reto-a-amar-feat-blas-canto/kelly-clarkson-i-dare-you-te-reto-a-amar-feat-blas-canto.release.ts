@@ -5,7 +5,7 @@ export const kellyClarksonIDareYouTeRetoAAmarFeatBlasCanto = {
   type: "release",
   slug: "kelly-clarkson-i-dare-you-te-reto-a-amar-feat-blas-canto",
   title: "I Dare You (Te Reto A Amar) [feat. Blas Cantó]",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 3.601783,
   ownProgress: 3.601783,

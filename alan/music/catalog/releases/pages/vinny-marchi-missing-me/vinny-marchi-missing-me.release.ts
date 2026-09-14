@@ -5,7 +5,7 @@ export const vinnyMarchiMissingMe = {
   type: "release",
   slug: "vinny-marchi-missing-me",
   title: "missing me.",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 3.308667,
   ownProgress: 3.308667,

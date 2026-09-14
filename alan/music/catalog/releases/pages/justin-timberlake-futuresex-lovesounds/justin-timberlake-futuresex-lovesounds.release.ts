@@ -5,7 +5,7 @@ export const justinTimberlakeFuturesexLovesounds = {
   type: "release",
   slug: "justin-timberlake-futuresex-lovesounds",
   title: "FutureSex/LoveSounds",
-  partOfCollections: ["justin-timberlake"],
+  partOfCollections: ["artist/justin-timberlake"],
   position: 0,
   ownLength: 66.28105,
   ownProgress: 0,

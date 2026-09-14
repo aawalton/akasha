@@ -5,7 +5,7 @@ export const emBeiholdInfrared = {
   type: "release",
   slug: "em-beihold-infrared",
   title: "Infrared",
-  partOfCollections: ["em-beihold"],
+  partOfCollections: ["artist/em-beihold"],
   position: 0,
   ownLength: 19.411017,
   ownProgress: 19.411017,

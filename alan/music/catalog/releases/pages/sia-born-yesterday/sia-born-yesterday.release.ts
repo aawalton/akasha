@@ -5,7 +5,7 @@ export const siaBornYesterday = {
   type: "release",
   slug: "sia-born-yesterday",
   title: "Born Yesterday",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 3.308817,
   ownProgress: 3.308817,

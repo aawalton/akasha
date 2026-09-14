@@ -5,7 +5,7 @@ export const arianaGrande3435Remix = {
   type: "release",
   slug: "ariana-grande-34-35-remix",
   title: "34+35 (Remix)",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 3.040617,
   ownProgress: 3.040617,

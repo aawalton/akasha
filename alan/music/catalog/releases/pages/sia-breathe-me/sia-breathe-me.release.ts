@@ -5,7 +5,7 @@ export const siaBreatheMe = {
   type: "release",
   slug: "sia-breathe-me",
   title: "Breathe Me",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 11.049767,
   ownProgress: 11.049767,

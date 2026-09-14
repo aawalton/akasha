@@ -5,7 +5,7 @@ export const jadaFacerNobodySLoveAcoustic = {
   type: "release",
   slug: "jada-facer-nobody-s-love-acoustic",
   title: "Nobody's Love (Acoustic)",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.512517,
   ownProgress: 3.512517,

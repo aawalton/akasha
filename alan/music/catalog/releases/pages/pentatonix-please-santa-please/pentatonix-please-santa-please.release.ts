@@ -5,7 +5,7 @@ export const pentatonixPleaseSantaPlease = {
   type: "release",
   slug: "pentatonix-please-santa-please",
   title: "Please Santa Please",
-  partOfCollections: ["pentatonix"],
+  partOfCollections: ["artist/pentatonix"],
   position: 0,
   ownLength: 3.2891,
   ownProgress: 3.2891,

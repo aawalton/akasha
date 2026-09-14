@@ -5,7 +5,7 @@ export const girlInRedWatchYouSleep = {
   type: "release",
   slug: "girl-in-red-watch-you-sleep",
   title: "watch you sleep.",
-  partOfCollections: ["girl-in-red"],
+  partOfCollections: ["artist/girl-in-red"],
   position: 0,
   ownLength: 3.00375,
   ownProgress: 0,

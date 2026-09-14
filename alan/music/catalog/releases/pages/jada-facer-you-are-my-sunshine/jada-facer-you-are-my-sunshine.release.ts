@@ -5,7 +5,7 @@ export const jadaFacerYouAreMySunshine = {
   type: "release",
   slug: "jada-facer-you-are-my-sunshine",
   title: "You Are My Sunshine",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.5465,
   ownProgress: 2.5465,

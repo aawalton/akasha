@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareChoralChristmas = {
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-choral-christmas",
   title: "Choral Christmas",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 194.0629,
   ownProgress: 0,

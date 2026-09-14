@@ -5,7 +5,7 @@ export const florenceTheMachineEverybodyScream2 = {
   type: "release",
   slug: "florence-the-machine-everybody-scream-2",
   title: "Everybody Scream",
-  partOfCollections: ["florence-the-machine"],
+  partOfCollections: ["artist/florence-the-machine"],
   position: 0,
   ownLength: 4.075,
   ownProgress: 4.075,

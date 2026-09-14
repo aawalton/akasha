@@ -5,7 +5,7 @@ export const rockapellaWorkinMyWayToYou = {
   type: "release",
   slug: "rockapella-workin-my-way-to-you",
   title: "Workin My Way to You",
-  partOfCollections: ["rockapella"],
+  partOfCollections: ["artist/rockapella"],
   position: 0,
   ownLength: 3.012067,
   ownProgress: 3.012067,

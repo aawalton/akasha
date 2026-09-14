@@ -5,7 +5,7 @@ export const byuVocalPointNearerMyGodToTheeArrJamesLStevens = {
   type: "release",
   slug: "byu-vocal-point-nearer-my-god-to-thee-arr-james-l-stevens",
   title: "Nearer, My God, to Thee (Arr. James L. Stevens)",
-  partOfCollections: ["byu-vocal-point"],
+  partOfCollections: ["artist/byu-vocal-point"],
   position: 0,
   ownLength: 6.321933,
   ownProgress: 0,

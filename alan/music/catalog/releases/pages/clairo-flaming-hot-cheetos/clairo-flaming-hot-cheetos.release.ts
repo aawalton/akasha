@@ -5,7 +5,7 @@ export const clairoFlamingHotCheetos = {
   type: "release",
   slug: "clairo-flaming-hot-cheetos",
   title: "Flaming Hot Cheetos",
-  partOfCollections: ["clairo"],
+  partOfCollections: ["artist/clairo"],
   position: 0,
   ownLength: 2.064733,
   ownProgress: 2.064733,

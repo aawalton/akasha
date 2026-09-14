@@ -5,7 +5,7 @@ export const auroraHalfTheWorldAway = {
   type: "release",
   slug: "aurora-half-the-world-away",
   title: "Half the World Away",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 3.302217,
   ownProgress: 3.302217,

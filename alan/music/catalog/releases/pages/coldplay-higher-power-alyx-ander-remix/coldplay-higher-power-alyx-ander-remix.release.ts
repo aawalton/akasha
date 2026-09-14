@@ -5,7 +5,7 @@ export const coldplayHigherPowerAlyxAnderRemix = {
   type: "release",
   slug: "coldplay-higher-power-alyx-ander-remix",
   title: "Higher Power (Alyx Ander Remix)",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 6.005167,
   ownProgress: 6.005167,

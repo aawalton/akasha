@@ -5,7 +5,7 @@ export const ellaHendersonTakeCareOfYouJaxJonesMidnightSnacksRemix = {
   type: "release",
   slug: "ella-henderson-take-care-of-you-jax-jones-midnight-snacks-remix",
   title: "Take Care of You (Jax Jones Midnight Snacks Remix)",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 3.654817,
   ownProgress: 3.654817,

@@ -5,7 +5,7 @@ export const sabrinaCarpenterAlmostLoveStargateWarehouseMix = {
   type: "release",
   slug: "sabrina-carpenter-almost-love-stargate-warehouse-mix",
   title: "Almost Love (Stargate Warehouse Mix)",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 3.339017,
   ownProgress: 3.339017,

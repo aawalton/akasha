@@ -5,7 +5,7 @@ export const jadaFacerIdgaf = {
   type: "release",
   slug: "jada-facer-idgaf",
   title: "IDGAF",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.443283,
   ownProgress: 2.443283,

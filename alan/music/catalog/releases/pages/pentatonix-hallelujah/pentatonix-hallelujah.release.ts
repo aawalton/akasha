@@ -5,7 +5,7 @@ export const pentatonixHallelujah = {
   type: "release",
   slug: "pentatonix-hallelujah",
   title: "Hallelujah",
-  partOfCollections: ["pentatonix"],
+  partOfCollections: ["artist/pentatonix"],
   position: 0,
   ownLength: 4.482667,
   ownProgress: 4.482667,

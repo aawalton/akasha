@@ -5,7 +5,7 @@ export const thePianoGuys3WhatWasIMadeFor = {
   type: "release",
   slug: "the-piano-guys-3-what-was-i-made-for",
   title: "What Was I Made For?",
-  partOfCollections: ["the-piano-guys"],
+  partOfCollections: ["artist/the-piano-guys"],
   position: 0,
   ownLength: 8.15785,
   ownProgress: 8.15785,

@@ -5,7 +5,7 @@ export const kellyClarksonLoveSoSoftCashCashRemix = {
   type: "release",
   slug: "kelly-clarkson-love-so-soft-cash-cash-remix",
   title: "Love So Soft (Cash Cash Remix)",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 4.279283,
   ownProgress: 4.279283,

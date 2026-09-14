@@ -5,7 +5,7 @@ export const siaFreeMe = {
   type: "release",
   slug: "sia-free-me",
   title: "Free Me",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 4.767817,
   ownProgress: 4.767817,

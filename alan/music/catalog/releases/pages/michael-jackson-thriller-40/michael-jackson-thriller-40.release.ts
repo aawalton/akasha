@@ -5,7 +5,7 @@ export const michaelJacksonThriller40 = {
   type: "release",
   slug: "michael-jackson-thriller-40",
   title: "Thriller 40",
-  partOfCollections: ["michael-jackson"],
+  partOfCollections: ["artist/michael-jackson"],
   position: 0,
   ownLength: 158.634783,
   ownProgress: 158.634783,

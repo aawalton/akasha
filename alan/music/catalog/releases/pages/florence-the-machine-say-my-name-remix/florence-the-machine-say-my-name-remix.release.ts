@@ -5,7 +5,7 @@ export const florenceTheMachineSayMyNameRemix = {
   type: "release",
   slug: "florence-the-machine-say-my-name-remix",
   title: "Say My Name (Remix)",
-  partOfCollections: ["florence-the-machine"],
+  partOfCollections: ["artist/florence-the-machine"],
   position: 0,
   ownLength: 2.8,
   ownProgress: 2.8,

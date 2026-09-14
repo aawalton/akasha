@@ -5,7 +5,7 @@ export const jadaFacerGirlsJustWannaHaveFunAcoustic = {
   type: "release",
   slug: "jada-facer-girls-just-wanna-have-fun-acoustic",
   title: "Girls Just Wanna Have Fun (Acoustic)",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.41255,
   ownProgress: 2.41255,

@@ -5,7 +5,7 @@ export const lynLapidTheSimlishSong = {
   type: "release",
   slug: "lyn-lapid-the-simlish-song",
   title: "the simlish song",
-  partOfCollections: ["lyn-lapid"],
+  partOfCollections: ["artist/lyn-lapid"],
   position: 0,
   ownLength: 3.317467,
   ownProgress: 3.317467,

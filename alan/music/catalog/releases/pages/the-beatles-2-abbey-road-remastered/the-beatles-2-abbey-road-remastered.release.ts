@@ -5,7 +5,7 @@ export const theBeatles2AbbeyRoadRemastered = {
   type: "release",
   slug: "the-beatles-2-abbey-road-remastered",
   title: "Abbey Road (Remastered)",
-  partOfCollections: ["the-beatles"],
+  partOfCollections: ["artist/the-beatles"],
   position: 0,
   ownLength: 47.495017,
   ownProgress: 47.495017,

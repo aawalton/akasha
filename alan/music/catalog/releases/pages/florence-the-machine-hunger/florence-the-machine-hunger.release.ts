@@ -5,7 +5,7 @@ export const florenceTheMachineHunger = {
   type: "release",
   slug: "florence-the-machine-hunger",
   title: "Hunger",
-  partOfCollections: ["florence-the-machine"],
+  partOfCollections: ["artist/florence-the-machine"],
   position: 0,
   ownLength: 3.577767,
   ownProgress: 3.577767,

@@ -5,7 +5,7 @@ export const thePianoGuys3Perfect = {
   type: "release",
   slug: "the-piano-guys-3-perfect",
   title: "Perfect",
-  partOfCollections: ["the-piano-guys"],
+  partOfCollections: ["artist/the-piano-guys"],
   position: 0,
   ownLength: 5.179967,
   ownProgress: 5.179967,

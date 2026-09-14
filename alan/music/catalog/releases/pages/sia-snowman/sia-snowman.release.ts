@@ -5,7 +5,7 @@ export const siaSnowman = {
   type: "release",
   slug: "sia-snowman",
   title: "Snowman",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 5.762,
   ownProgress: 5.762,

@@ -5,7 +5,7 @@ export const arianaGrandeYesAnd2 = {
   type: "release",
   slug: "ariana-grande-yes-and-2",
   title: "yes, and?",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 3.583233,
   ownProgress: 3.583233,

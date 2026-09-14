@@ -5,7 +5,7 @@ export const jadaFacerBadLiarAcoustic = {
   type: "release",
   slug: "jada-facer-bad-liar-acoustic",
   title: "Bad Liar (Acoustic)",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.398917,
   ownProgress: 3.398917,

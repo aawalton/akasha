@@ -5,7 +5,7 @@ export const paulCardallYouWereMade = {
   type: "release",
   slug: "paul-cardall-you-were-made",
   title: "You Were Made",
-  partOfCollections: ["paul-cardall"],
+  partOfCollections: ["artist/paul-cardall"],
   position: 0,
   ownLength: 3.19375,
   ownProgress: 0,

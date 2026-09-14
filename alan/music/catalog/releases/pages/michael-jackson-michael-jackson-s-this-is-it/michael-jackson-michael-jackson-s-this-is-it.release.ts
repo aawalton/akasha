@@ -5,7 +5,7 @@ export const michaelJacksonMichaelJacksonSThisIsIt = {
   type: "release",
   slug: "michael-jackson-michael-jackson-s-this-is-it",
   title: "Michael Jackson's This Is It",
-  partOfCollections: ["michael-jackson"],
+  partOfCollections: ["artist/michael-jackson"],
   position: 0,
   ownLength: 92.2854,
   ownProgress: 92.2854,

@@ -5,7 +5,7 @@ export const vinnyMarchiHoldingOnToYou = {
   type: "release",
   slug: "vinny-marchi-holding-on-to-you",
   title: "holding on to you",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 2.881233,
   ownProgress: 2.881233,

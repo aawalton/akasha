@@ -5,7 +5,7 @@ export const alexWarrenCarryYouHome = {
   type: "release",
   slug: "alex-warren-carry-you-home",
   title: "Carry You Home",
-  partOfCollections: ["alex-warren"],
+  partOfCollections: ["artist/alex-warren"],
   position: 0,
   ownLength: 2.781333,
   ownProgress: 2.781333,

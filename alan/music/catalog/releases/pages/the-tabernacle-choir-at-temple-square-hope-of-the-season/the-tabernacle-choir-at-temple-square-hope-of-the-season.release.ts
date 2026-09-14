@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareHopeOfTheSeason = {
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-hope-of-the-season",
   title: "Hope of the Season",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 58.262133,
   ownProgress: 0,

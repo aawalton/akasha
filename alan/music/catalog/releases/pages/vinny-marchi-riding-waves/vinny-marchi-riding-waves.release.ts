@@ -5,7 +5,7 @@ export const vinnyMarchiRidingWaves = {
   type: "release",
   slug: "vinny-marchi-riding-waves",
   title: "Riding Waves",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 2.811183,
   ownProgress: 2.811183,

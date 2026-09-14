@@ -5,7 +5,7 @@ export const paulCardallChillCollection = {
   type: "release",
   slug: "paul-cardall-chill-collection",
   title: "Chill Collection",
-  partOfCollections: ["paul-cardall"],
+  partOfCollections: ["artist/paul-cardall"],
   position: 0,
   ownLength: 62.52745,
   ownProgress: 62.52745,

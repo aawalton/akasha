@@ -5,7 +5,7 @@ export const florenceTheMachineSympathyMagic = {
   type: "release",
   slug: "florence-the-machine-sympathy-magic",
   title: "Sympathy Magic",
-  partOfCollections: ["florence-the-machine"],
+  partOfCollections: ["artist/florence-the-machine"],
   position: 0,
   ownLength: 4.481433,
   ownProgress: 4.481433,

@@ -5,7 +5,7 @@ export const florenceTheMachineMyFavoriteGhosts = {
   type: "release",
   slug: "florence-the-machine-my-favorite-ghosts",
   title: "My Favorite Ghosts",
-  partOfCollections: ["florence-the-machine"],
+  partOfCollections: ["artist/florence-the-machine"],
   position: 0,
   ownLength: 42.940483,
   ownProgress: 42.940483,

@@ -5,7 +5,7 @@ export const yaelokreKamahalan = {
   type: "release",
   slug: "yaelokre-kamahalan",
   title: "Kamahalan",
-  partOfCollections: ["yaelokre"],
+  partOfCollections: ["artist/yaelokre"],
   position: 0,
   ownLength: 2.470633,
   ownProgress: 2.470633,

@@ -5,7 +5,7 @@ export const ellaHendersonMammaYouWereRight = {
   type: "release",
   slug: "ella-henderson-mamma-you-were-right",
   title: "Mamma You Were Right",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 2.797117,
   ownProgress: 0,

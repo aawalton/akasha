@@ -5,7 +5,7 @@ export const jessicaBaioSkin = {
   type: "release",
   slug: "jessica-baio-skin",
   title: "skin",
-  partOfCollections: ["jessica-baio"],
+  partOfCollections: ["artist/jessica-baio"],
   position: 0,
   ownLength: 3.209783,
   ownProgress: 3.209783,

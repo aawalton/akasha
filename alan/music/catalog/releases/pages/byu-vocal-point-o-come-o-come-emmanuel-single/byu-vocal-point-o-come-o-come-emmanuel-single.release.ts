@@ -5,7 +5,7 @@ export const byuVocalPointOComeOComeEmmanuelSingle = {
   type: "release",
   slug: "byu-vocal-point-o-come-o-come-emmanuel-single",
   title: "O Come, O Come, Emmanuel - Single",
-  partOfCollections: ["byu-vocal-point"],
+  partOfCollections: ["artist/byu-vocal-point"],
   position: 0,
   ownLength: 3.096383,
   ownProgress: 0,

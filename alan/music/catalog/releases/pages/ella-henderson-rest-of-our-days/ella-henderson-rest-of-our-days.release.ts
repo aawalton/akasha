@@ -5,7 +5,7 @@ export const ellaHendersonRestOfOurDays = {
   type: "release",
   slug: "ella-henderson-rest-of-our-days",
   title: "Rest Of Our Days",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 2.51945,
   ownProgress: 0,

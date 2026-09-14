@@ -5,7 +5,7 @@ export const jessicaBaioGladYouReSettling = {
   type: "release",
   slug: "jessica-baio-glad-you-re-settling",
   title: "glad you’re settling",
-  partOfCollections: ["jessica-baio"],
+  partOfCollections: ["artist/jessica-baio"],
   position: 0,
   ownLength: 8.135317,
   ownProgress: 8.135317,

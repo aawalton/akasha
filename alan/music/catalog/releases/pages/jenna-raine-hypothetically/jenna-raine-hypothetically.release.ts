@@ -5,7 +5,7 @@ export const jennaRaineHypothetically = {
   type: "release",
   slug: "jenna-raine-hypothetically",
   title: "Hypothetically",
-  partOfCollections: ["jenna-raine"],
+  partOfCollections: ["artist/jenna-raine"],
   position: 0,
   ownLength: 2.69985,
   ownProgress: 2.69985,

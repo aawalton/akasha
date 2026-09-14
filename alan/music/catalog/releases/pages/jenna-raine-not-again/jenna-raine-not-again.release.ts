@@ -5,7 +5,7 @@ export const jennaRaineNotAgain = {
   type: "release",
   slug: "jenna-raine-not-again",
   title: "NOT AGAIN",
-  partOfCollections: ["jenna-raine"],
+  partOfCollections: ["artist/jenna-raine"],
   position: 0,
   ownLength: 3.611017,
   ownProgress: 3.611017,

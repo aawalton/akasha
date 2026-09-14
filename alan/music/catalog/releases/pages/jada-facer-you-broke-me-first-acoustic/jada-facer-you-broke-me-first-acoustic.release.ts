@@ -5,7 +5,7 @@ export const jadaFacerYouBrokeMeFirstAcoustic = {
   type: "release",
   slug: "jada-facer-you-broke-me-first-acoustic",
   title: "you broke me first (Acoustic)",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.77535,
   ownProgress: 2.77535,

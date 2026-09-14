@@ -5,7 +5,7 @@ export const billyJoelTurnTheLightsBackOn = {
   type: "release",
   slug: "billy-joel-turn-the-lights-back-on",
   title: "Turn the Lights Back On",
-  partOfCollections: ["billy-joel"],
+  partOfCollections: ["artist/billy-joel"],
   position: 0,
   ownLength: 3.982317,
   ownProgress: 0,

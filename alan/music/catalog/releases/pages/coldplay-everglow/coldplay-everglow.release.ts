@@ -5,7 +5,7 @@ export const coldplayEverglow = {
   type: "release",
   slug: "coldplay-everglow",
   title: "Everglow",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 8.821767,
   ownProgress: 8.821767,

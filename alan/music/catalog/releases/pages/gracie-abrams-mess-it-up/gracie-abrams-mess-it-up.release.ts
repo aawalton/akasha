@@ -5,7 +5,7 @@ export const gracieAbramsMessItUp = {
   type: "release",
   slug: "gracie-abrams-mess-it-up",
   title: "Mess It Up",
-  partOfCollections: ["gracie-abrams"],
+  partOfCollections: ["artist/gracie-abrams"],
   position: 0,
   ownLength: 2.854667,
   ownProgress: 2.854667,

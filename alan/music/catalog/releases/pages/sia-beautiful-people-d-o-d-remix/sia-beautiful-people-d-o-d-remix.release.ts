@@ -5,7 +5,7 @@ export const siaBeautifulPeopleDODRemix = {
   type: "release",
   slug: "sia-beautiful-people-d-o-d-remix",
   title: "Beautiful People (D.O.D Remix)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 15.5275,
   ownProgress: 15.5275,

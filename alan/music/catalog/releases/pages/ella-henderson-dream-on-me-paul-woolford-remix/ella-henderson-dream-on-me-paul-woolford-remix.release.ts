@@ -5,7 +5,7 @@ export const ellaHendersonDreamOnMePaulWoolfordRemix = {
   type: "release",
   slug: "ella-henderson-dream-on-me-paul-woolford-remix",
   title: "Dream On Me (Paul Woolford Remix)",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 4.31155,
   ownProgress: 4.31155,

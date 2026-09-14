@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquarePraiseToTheMan = {
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-praise-to-the-man",
   title: "Praise to the Man",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 49.086817,
   ownProgress: 0,

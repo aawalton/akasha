@@ -5,7 +5,7 @@ export const coldplayHigherPowerTiestoRemix = {
   type: "release",
   slug: "coldplay-higher-power-tiesto-remix",
   title: "Higher Power (Tiësto Remix)",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 3.826083,
   ownProgress: 3.826083,

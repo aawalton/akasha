@@ -5,7 +5,7 @@ export const auroraCureForMeVintageCultureRemix = {
   type: "release",
   slug: "aurora-cure-for-me-vintage-culture-remix",
   title: "Cure For Me (Vintage Culture Remix)",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 3.501333,
   ownProgress: 3.501333,

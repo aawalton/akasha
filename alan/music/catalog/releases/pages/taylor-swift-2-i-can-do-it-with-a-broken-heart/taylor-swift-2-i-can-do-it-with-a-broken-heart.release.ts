@@ -5,7 +5,7 @@ export const taylorSwift2ICanDoItWithABrokenHeart = {
   type: "release",
   slug: "taylor-swift-2-i-can-do-it-with-a-broken-heart",
   title: "I Can Do It With a Broken Heart",
-  partOfCollections: ["taylor-swift"],
+  partOfCollections: ["artist/taylor-swift"],
   position: 0,
   ownLength: 7.2668,
   ownProgress: 7.2668,

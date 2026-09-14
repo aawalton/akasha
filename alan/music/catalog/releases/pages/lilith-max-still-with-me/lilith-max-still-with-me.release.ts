@@ -5,7 +5,7 @@ export const lilithMaxStillWithMe = {
   type: "release",
   slug: "lilith-max-still-with-me",
   title: "Still with Me",
-  partOfCollections: ["lilith-max"],
+  partOfCollections: ["artist/lilith-max"],
   position: 0,
   ownLength: 3.070583,
   ownProgress: 3.070583,

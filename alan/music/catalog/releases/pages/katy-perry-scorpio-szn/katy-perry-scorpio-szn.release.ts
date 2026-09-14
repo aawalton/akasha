@@ -5,7 +5,7 @@ export const katyPerryScorpioSzn = {
   type: "release",
   slug: "katy-perry-scorpio-szn",
   title: "Scorpio SZN",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 22.418233,
   ownProgress: 22.418233,

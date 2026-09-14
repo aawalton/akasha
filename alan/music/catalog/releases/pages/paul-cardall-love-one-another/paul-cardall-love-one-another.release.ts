@@ -5,7 +5,7 @@ export const paulCardallLoveOneAnother = {
   type: "release",
   slug: "paul-cardall-love-one-another",
   title: "Love One Another",
-  partOfCollections: ["paul-cardall"],
+  partOfCollections: ["artist/paul-cardall"],
   position: 0,
   ownLength: 4.01385,
   ownProgress: 4.01385,

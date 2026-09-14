@@ -5,7 +5,7 @@ export const ellaHendersonRiskItAll = {
   type: "release",
   slug: "ella-henderson-risk-it-all",
   title: "Risk It All",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 2.967733,
   ownProgress: 2.967733,

@@ -5,7 +5,7 @@ export const leonardCohenDearHeather = {
   type: "release",
   slug: "leonard-cohen-dear-heather",
   title: "Dear Heather",
-  partOfCollections: ["leonard-cohen"],
+  partOfCollections: ["artist/leonard-cohen"],
   position: 0,
   ownLength: 48.920167,
   ownProgress: 0,

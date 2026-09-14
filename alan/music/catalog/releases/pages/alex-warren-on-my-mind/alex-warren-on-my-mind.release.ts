@@ -5,7 +5,7 @@ export const alexWarrenOnMyMind = {
   type: "release",
   slug: "alex-warren-on-my-mind",
   title: "On My Mind",
-  partOfCollections: ["alex-warren"],
+  partOfCollections: ["artist/alex-warren"],
   position: 0,
   ownLength: 3.159283,
   ownProgress: 3.159283,

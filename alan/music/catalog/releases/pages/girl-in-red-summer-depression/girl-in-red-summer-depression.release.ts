@@ -5,7 +5,7 @@ export const girlInRedSummerDepression = {
   type: "release",
   slug: "girl-in-red-summer-depression",
   title: "summer depression",
-  partOfCollections: ["girl-in-red"],
+  partOfCollections: ["artist/girl-in-red"],
   position: 0,
   ownLength: 2.528217,
   ownProgress: 2.528217,

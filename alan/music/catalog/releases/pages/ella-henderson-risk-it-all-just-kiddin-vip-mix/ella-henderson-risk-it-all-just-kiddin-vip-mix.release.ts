@@ -5,7 +5,7 @@ export const ellaHendersonRiskItAllJustKiddinVipMix = {
   type: "release",
   slug: "ella-henderson-risk-it-all-just-kiddin-vip-mix",
   title: "Risk It All (Just Kiddin VIP Mix)",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 10.830617,
   ownProgress: 10.830617,

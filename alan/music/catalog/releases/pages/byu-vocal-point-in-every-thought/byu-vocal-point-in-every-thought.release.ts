@@ -5,7 +5,7 @@ export const byuVocalPointInEveryThought = {
   type: "release",
   slug: "byu-vocal-point-in-every-thought",
   title: "In Every Thought",
-  partOfCollections: ["byu-vocal-point"],
+  partOfCollections: ["artist/byu-vocal-point"],
   position: 0,
   ownLength: 18.34825,
   ownProgress: 0,

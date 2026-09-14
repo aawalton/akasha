@@ -5,7 +5,7 @@ export const greenDaySmashItLikeBelushi = {
   type: "release",
   slug: "green-day-smash-it-like-belushi",
   title: "Smash It Like Belushi",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 2.809233,
   ownProgress: 0,

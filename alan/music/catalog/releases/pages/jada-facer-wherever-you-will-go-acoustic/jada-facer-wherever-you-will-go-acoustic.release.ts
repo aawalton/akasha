@@ -5,7 +5,7 @@ export const jadaFacerWhereverYouWillGoAcoustic = {
   type: "release",
   slug: "jada-facer-wherever-you-will-go-acoustic",
   title: "Wherever You Will Go (Acoustic)",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.231683,
   ownProgress: 3.231683,

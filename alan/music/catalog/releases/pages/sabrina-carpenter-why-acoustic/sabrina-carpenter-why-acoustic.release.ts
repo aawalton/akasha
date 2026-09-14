@@ -5,7 +5,7 @@ export const sabrinaCarpenterWhyAcoustic = {
   type: "release",
   slug: "sabrina-carpenter-why-acoustic",
   title: "Why (Acoustic)",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 3.075,
   ownProgress: 3.075,

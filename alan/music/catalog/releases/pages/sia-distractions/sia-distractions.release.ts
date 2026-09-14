@@ -5,7 +5,7 @@ export const siaDistractions = {
   type: "release",
   slug: "sia-distractions",
   title: "Distractions",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 40.1038,
   ownProgress: 40.1038,

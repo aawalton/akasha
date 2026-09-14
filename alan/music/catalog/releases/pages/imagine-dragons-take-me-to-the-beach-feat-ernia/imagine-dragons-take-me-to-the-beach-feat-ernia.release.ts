@@ -5,7 +5,7 @@ export const imagineDragonsTakeMeToTheBeachFeatErnia = {
   type: "release",
   slug: "imagine-dragons-take-me-to-the-beach-feat-ernia",
   title: "Take Me to the Beach (feat. Ernia)",
-  partOfCollections: ["imagine-dragons"],
+  partOfCollections: ["artist/imagine-dragons"],
   position: 0,
   ownLength: 2.784433,
   ownProgress: 2.784433,

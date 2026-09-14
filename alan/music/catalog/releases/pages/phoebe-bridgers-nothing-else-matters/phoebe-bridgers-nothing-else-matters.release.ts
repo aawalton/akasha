@@ -5,7 +5,7 @@ export const phoebeBridgersNothingElseMatters = {
   type: "release",
   slug: "phoebe-bridgers-nothing-else-matters",
   title: "Nothing Else Matters",
-  partOfCollections: ["phoebe-bridgers"],
+  partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
   ownLength: 4.5751,
   ownProgress: 4.5751,

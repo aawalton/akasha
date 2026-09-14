@@ -5,7 +5,7 @@ export const clairoCloserToYou = {
   type: "release",
   slug: "clairo-closer-to-you",
   title: "Closer To You",
-  partOfCollections: ["clairo"],
+  partOfCollections: ["artist/clairo"],
   position: 0,
   ownLength: 3.07155,
   ownProgress: 0,

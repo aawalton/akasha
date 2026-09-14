@@ -5,7 +5,7 @@ export const billieEilishMyFuture = {
   type: "release",
   slug: "billie-eilish-my-future",
   title: "my future",
-  partOfCollections: ["billie-eilish"],
+  partOfCollections: ["artist/billie-eilish"],
   position: 0,
   ownLength: 3.46925,
   ownProgress: 3.46925,

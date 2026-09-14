@@ -5,7 +5,7 @@ export const gracieAbramsBrushFire = {
   type: "release",
   slug: "gracie-abrams-brush-fire",
   title: "Brush Fire",
-  partOfCollections: ["gracie-abrams"],
+  partOfCollections: ["artist/gracie-abrams"],
   position: 0,
   ownLength: 3.173767,
   ownProgress: 3.173767,

@@ -5,7 +5,7 @@ export const enyaTheCelts = {
   type: "release",
   slug: "enya-the-celts",
   title: "The Celts",
-  partOfCollections: ["enya"],
+  partOfCollections: ["artist/enya"],
   position: 0,
   ownLength: 10.7171,
   ownProgress: 10.7171,

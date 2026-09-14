@@ -5,7 +5,7 @@ export const leonardCohenYouWantItDarker = {
   type: "release",
   slug: "leonard-cohen-you-want-it-darker",
   title: "You Want It Darker",
-  partOfCollections: ["leonard-cohen"],
+  partOfCollections: ["artist/leonard-cohen"],
   position: 0,
   ownLength: 36.211967,
   ownProgress: 0,

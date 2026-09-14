@@ -5,7 +5,7 @@ export const pentatonixAmazingGraceMyChainsAreGone = {
   type: "release",
   slug: "pentatonix-amazing-grace-my-chains-are-gone",
   title: "Amazing Grace (My Chains Are Gone)",
-  partOfCollections: ["pentatonix"],
+  partOfCollections: ["artist/pentatonix"],
   position: 0,
   ownLength: 4.423333,
   ownProgress: 4.423333,

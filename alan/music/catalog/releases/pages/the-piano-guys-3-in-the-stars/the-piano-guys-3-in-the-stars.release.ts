@@ -5,7 +5,7 @@ export const thePianoGuys3InTheStars = {
   type: "release",
   slug: "the-piano-guys-3-in-the-stars",
   title: "In The Stars",
-  partOfCollections: ["the-piano-guys"],
+  partOfCollections: ["artist/the-piano-guys"],
   position: 0,
   ownLength: 8.874583,
   ownProgress: 8.874583,

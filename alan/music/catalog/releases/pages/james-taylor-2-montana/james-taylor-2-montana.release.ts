@@ -5,7 +5,7 @@ export const jamesTaylor2Montana = {
   type: "release",
   slug: "james-taylor-2-montana",
   title: "Montana",
-  partOfCollections: ["james-taylor"],
+  partOfCollections: ["artist/james-taylor"],
   position: 0,
   ownLength: 3.425333,
   ownProgress: 3.425333,

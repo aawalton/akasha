@@ -5,7 +5,7 @@ export const jessicaBaioUnsaid = {
   type: "release",
   slug: "jessica-baio-unsaid",
   title: "UNSAID",
-  partOfCollections: ["jessica-baio"],
+  partOfCollections: ["artist/jessica-baio"],
   position: 0,
   ownLength: 29.7313,
   ownProgress: 29.7313,

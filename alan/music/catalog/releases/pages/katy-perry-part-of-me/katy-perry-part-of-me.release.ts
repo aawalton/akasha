@@ -5,7 +5,7 @@ export const katyPerryPartOfMe = {
   type: "release",
   slug: "katy-perry-part-of-me",
   title: "Part Of Me",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 17.00535,
   ownProgress: 17.00535,

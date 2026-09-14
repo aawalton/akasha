@@ -5,7 +5,7 @@ export const alexWarrenChasingShadowsAcoustic = {
   type: "release",
   slug: "alex-warren-chasing-shadows-acoustic",
   title: "Chasing Shadows (Acoustic)",
-  partOfCollections: ["alex-warren"],
+  partOfCollections: ["artist/alex-warren"],
   position: 0,
   ownLength: 5.444667,
   ownProgress: 5.444667,

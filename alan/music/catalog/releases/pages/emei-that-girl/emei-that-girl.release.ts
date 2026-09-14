@@ -5,7 +5,7 @@ export const emeiThatGirl = {
   type: "release",
   slug: "emei-that-girl",
   title: "That Girl",
-  partOfCollections: ["emei"],
+  partOfCollections: ["artist/emei"],
   position: 0,
   ownLength: 2.340433,
   ownProgress: 2.340433,

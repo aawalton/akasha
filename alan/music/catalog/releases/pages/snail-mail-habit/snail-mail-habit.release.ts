@@ -5,7 +5,7 @@ export const snailMailHabit = {
   type: "release",
   slug: "snail-mail-habit",
   title: "Habit",
-  partOfCollections: ["snail-mail"],
+  partOfCollections: ["artist/snail-mail"],
   position: 0,
   ownLength: 30.096833,
   ownProgress: 0,

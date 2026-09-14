@@ -5,7 +5,7 @@ export const jessicaBaioCrossedTheLine = {
   type: "release",
   slug: "jessica-baio-crossed-the-line",
   title: "crossed the line",
-  partOfCollections: ["jessica-baio"],
+  partOfCollections: ["artist/jessica-baio"],
   position: 0,
   ownLength: 2.730083,
   ownProgress: 2.730083,

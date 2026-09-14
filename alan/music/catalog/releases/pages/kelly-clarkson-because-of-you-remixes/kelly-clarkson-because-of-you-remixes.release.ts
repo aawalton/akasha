@@ -5,7 +5,7 @@ export const kellyClarksonBecauseOfYouRemixes = {
   type: "release",
   slug: "kelly-clarkson-because-of-you-remixes",
   title: "Because Of You - Remixes",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 46.742817,
   ownProgress: 46.742817,

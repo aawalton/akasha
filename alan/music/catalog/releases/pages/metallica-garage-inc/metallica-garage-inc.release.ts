@@ -5,7 +5,7 @@ export const metallicaGarageInc = {
   type: "release",
   slug: "metallica-garage-inc",
   title: "Garage, Inc.",
-  partOfCollections: ["metallica"],
+  partOfCollections: ["artist/metallica"],
   position: 0,
   ownLength: 136.61875,
   ownProgress: 0,

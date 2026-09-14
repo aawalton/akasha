@@ -5,7 +5,7 @@ export const michaelJacksonFarewellMySummerLove = {
   type: "release",
   slug: "michael-jackson-farewell-my-summer-love",
   title: "Farewell My Summer Love",
-  partOfCollections: ["michael-jackson"],
+  partOfCollections: ["artist/michael-jackson"],
   position: 0,
   ownLength: 30.994167,
   ownProgress: 30.994167,

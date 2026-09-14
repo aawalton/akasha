@@ -5,7 +5,7 @@ export const arianaGrandeBreakFree = {
   type: "release",
   slug: "ariana-grande-break-free",
   title: "Break Free",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 10.536517,
   ownProgress: 10.536517,

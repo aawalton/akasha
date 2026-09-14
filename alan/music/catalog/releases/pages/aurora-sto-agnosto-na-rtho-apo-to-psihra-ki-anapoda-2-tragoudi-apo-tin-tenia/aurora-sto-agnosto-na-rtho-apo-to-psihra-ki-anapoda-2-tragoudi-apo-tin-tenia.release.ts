@@ -5,7 +5,7 @@ export const auroraStoAgnostoNaRthoApoToPsihraKiAnapoda2TragoudiApoTinTenia = {
   type: "release",
   slug: "aurora-sto-agnosto-na-rtho-apo-to-psihra-ki-anapoda-2-tragoudi-apo-tin-tenia",
   title: 'Sto agnosto na \'rtho (Apo to "Psihra ki Anapoda 2"/Tragoudi apo tin Tenia)',
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 3.247767,
   ownProgress: 3.247767,

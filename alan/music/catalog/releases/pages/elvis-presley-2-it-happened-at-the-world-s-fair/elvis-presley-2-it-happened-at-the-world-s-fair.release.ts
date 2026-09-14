@@ -5,7 +5,7 @@ export const elvisPresley2ItHappenedAtTheWorldSFair = {
   type: "release",
   slug: "elvis-presley-2-it-happened-at-the-world-s-fair",
   title: "It Happened at the World's Fair",
-  partOfCollections: ["elvis-presley"],
+  partOfCollections: ["artist/elvis-presley"],
   position: 0,
   ownLength: 21.091067,
   ownProgress: 21.091067,

@@ -5,7 +5,7 @@ export const sabrinaCarpenterILlBeHomeForChristmas = {
   type: "release",
   slug: "sabrina-carpenter-i-ll-be-home-for-christmas",
   title: "I'll Be Home For Christmas",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 3.585533,
   ownProgress: 3.585533,

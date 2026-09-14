@@ -5,7 +5,7 @@ export const alexWarrenRememberMeHappy = {
   type: "release",
   slug: "alex-warren-remember-me-happy",
   title: "Remember Me Happy",
-  partOfCollections: ["alex-warren"],
+  partOfCollections: ["artist/alex-warren"],
   position: 0,
   ownLength: 2.3516,
   ownProgress: 2.3516,

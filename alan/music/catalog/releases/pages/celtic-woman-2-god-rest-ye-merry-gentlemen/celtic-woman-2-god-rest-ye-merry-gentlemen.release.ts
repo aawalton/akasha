@@ -5,7 +5,7 @@ export const celticWoman2GodRestYeMerryGentlemen = {
   type: "release",
   slug: "celtic-woman-2-god-rest-ye-merry-gentlemen",
   title: "God Rest Ye Merry Gentlemen",
-  partOfCollections: ["celtic-woman"],
+  partOfCollections: ["artist/celtic-woman"],
   position: 0,
   ownLength: 2.490533,
   ownProgress: 2.490533,

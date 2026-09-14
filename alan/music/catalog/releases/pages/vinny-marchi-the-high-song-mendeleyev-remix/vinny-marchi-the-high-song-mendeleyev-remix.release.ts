@@ -5,7 +5,7 @@ export const vinnyMarchiTheHighSongMendeleyevRemix = {
   type: "release",
   slug: "vinny-marchi-the-high-song-mendeleyev-remix",
   title: "The High Song (Mendeleyev Remix)",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 2.313883,
   ownProgress: 2.313883,

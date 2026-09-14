@@ -5,7 +5,7 @@ export const theLordOfTheRingsMusicTheHobbitAnUnexpectedJourney = {
   type: "release",
   slug: "the-lord-of-the-rings-music-the-hobbit-an-unexpected-journey",
   title: "The Hobbit: An Unexpected Journey (Original Motion Picture Soundtrack) [Special Edition]",
-  partOfCollections: ["the-lord-of-the-rings-music"],
+  partOfCollections: ["release-collection/the-lord-of-the-rings-music"],
   position: 4,
   ownLength: 127.696383,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const taylorSwift2WillowTheWitchCollection = {
   type: "release",
   slug: "taylor-swift-2-willow-the-witch-collection",
   title: "willow (the witch collection)",
-  partOfCollections: ["taylor-swift"],
+  partOfCollections: ["artist/taylor-swift"],
   position: 0,
   ownLength: 13.7174,
   ownProgress: 13.7174,

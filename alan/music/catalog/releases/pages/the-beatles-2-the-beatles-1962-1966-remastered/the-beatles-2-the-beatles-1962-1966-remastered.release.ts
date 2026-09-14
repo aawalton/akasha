@@ -5,7 +5,7 @@ export const theBeatles2TheBeatles19621966Remastered = {
   type: "release",
   slug: "the-beatles-2-the-beatles-1962-1966-remastered",
   title: "The Beatles 1962 - 1966 (Remastered)",
-  partOfCollections: ["the-beatles"],
+  partOfCollections: ["artist/the-beatles"],
   position: 0,
   ownLength: 62.73295,
   ownProgress: 62.73295,

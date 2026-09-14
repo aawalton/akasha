@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareWinterMorning = {
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-winter-morning",
   title: "Winter Morning",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 28.6893,
   ownProgress: 0,

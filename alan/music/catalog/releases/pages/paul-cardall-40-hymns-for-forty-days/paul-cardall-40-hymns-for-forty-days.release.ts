@@ -5,7 +5,7 @@ export const paulCardall40HymnsForFortyDays = {
   type: "release",
   slug: "paul-cardall-40-hymns-for-forty-days",
   title: "40 Hymns for Forty Days",
-  partOfCollections: ["paul-cardall"],
+  partOfCollections: ["artist/paul-cardall"],
   position: 0,
   ownLength: 109.282983,
   ownProgress: 109.282983,

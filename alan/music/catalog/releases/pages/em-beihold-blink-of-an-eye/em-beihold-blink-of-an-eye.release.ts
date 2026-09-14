@@ -5,7 +5,7 @@ export const emBeiholdBlinkOfAnEye = {
   type: "release",
   slug: "em-beihold-blink-of-an-eye",
   title: "Blink of an Eye",
-  partOfCollections: ["em-beihold"],
+  partOfCollections: ["artist/em-beihold"],
   position: 0,
   ownLength: 3.28255,
   ownProgress: 3.28255,

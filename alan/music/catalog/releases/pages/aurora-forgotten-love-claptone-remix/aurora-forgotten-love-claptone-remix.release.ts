@@ -5,7 +5,7 @@ export const auroraForgottenLoveClaptoneRemix = {
   type: "release",
   slug: "aurora-forgotten-love-claptone-remix",
   title: "Forgotten Love (Claptone Remix)",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 9.796967,
   ownProgress: 9.796967,

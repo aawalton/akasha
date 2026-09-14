@@ -5,7 +5,7 @@ export const pentatonixAuldLangSyne = {
   type: "release",
   slug: "pentatonix-auld-lang-syne",
   title: "Auld Lang Syne",
-  partOfCollections: ["pentatonix"],
+  partOfCollections: ["artist/pentatonix"],
   position: 0,
   ownLength: 3.29325,
   ownProgress: 3.29325,

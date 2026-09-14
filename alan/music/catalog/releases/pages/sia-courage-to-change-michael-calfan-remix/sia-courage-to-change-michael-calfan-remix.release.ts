@@ -5,7 +5,7 @@ export const siaCourageToChangeMichaelCalfanRemix = {
   type: "release",
   slug: "sia-courage-to-change-michael-calfan-remix",
   title: "Courage to Change (Michael Calfan Remix)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 7.487767,
   ownProgress: 7.487767,

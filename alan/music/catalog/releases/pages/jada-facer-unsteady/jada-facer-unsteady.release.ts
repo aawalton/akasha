@@ -5,7 +5,7 @@ export const jadaFacerUnsteady = {
   type: "release",
   slug: "jada-facer-unsteady",
   title: "Unsteady",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.93815,
   ownProgress: 2.93815,

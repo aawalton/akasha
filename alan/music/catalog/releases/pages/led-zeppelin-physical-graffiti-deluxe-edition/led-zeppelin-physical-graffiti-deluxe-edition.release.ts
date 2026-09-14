@@ -5,7 +5,7 @@ export const ledZeppelinPhysicalGraffitiDeluxeEdition = {
   type: "release",
   slug: "led-zeppelin-physical-graffiti-deluxe-edition",
   title: "Physical Graffiti (Deluxe Edition)",
-  partOfCollections: ["led-zeppelin"],
+  partOfCollections: ["artist/led-zeppelin"],
   position: 0,
   ownLength: 124.434983,
   ownProgress: 0,

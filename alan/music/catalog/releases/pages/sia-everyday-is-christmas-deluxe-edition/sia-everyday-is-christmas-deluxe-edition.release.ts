@@ -5,7 +5,7 @@ export const siaEverydayIsChristmasDeluxeEdition = {
   type: "release",
   slug: "sia-everyday-is-christmas-deluxe-edition",
   title: "Everyday Is Christmas (Deluxe Edition)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 44.8554,
   ownProgress: 44.8554,

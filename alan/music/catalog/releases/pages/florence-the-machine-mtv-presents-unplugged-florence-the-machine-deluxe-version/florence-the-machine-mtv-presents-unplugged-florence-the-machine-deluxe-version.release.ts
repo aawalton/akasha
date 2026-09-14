@@ -5,7 +5,7 @@ export const florenceTheMachineMtvPresentsUnpluggedFlorenceTheMachineDeluxeVersi
   type: "release",
   slug: "florence-the-machine-mtv-presents-unplugged-florence-the-machine-deluxe-version",
   title: "MTV Presents Unplugged: Florence + The Machine (Deluxe Version)",
-  partOfCollections: ["florence-the-machine"],
+  partOfCollections: ["artist/florence-the-machine"],
   position: 0,
   ownLength: 61.525233,
   ownProgress: 61.525233,

@@ -5,7 +5,7 @@ export const leonardCohenSongsOfLoveAndHate = {
   type: "release",
   slug: "leonard-cohen-songs-of-love-and-hate",
   title: "Songs of Love and Hate",
-  partOfCollections: ["leonard-cohen"],
+  partOfCollections: ["artist/leonard-cohen"],
   position: 0,
   ownLength: 44.576183,
   ownProgress: 0,

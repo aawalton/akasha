@@ -5,7 +5,7 @@ export const pentatonixChristmasIsHere = {
   type: "release",
   slug: "pentatonix-christmas-is-here",
   title: "Christmas Is Here!",
-  partOfCollections: ["pentatonix"],
+  partOfCollections: ["artist/pentatonix"],
   position: 0,
   ownLength: 32.616617,
   ownProgress: 32.616617,

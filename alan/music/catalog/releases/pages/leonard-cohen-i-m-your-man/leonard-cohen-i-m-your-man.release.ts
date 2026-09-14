@@ -5,7 +5,7 @@ export const leonardCohenIMYourMan = {
   type: "release",
   slug: "leonard-cohen-i-m-your-man",
   title: "I'm Your Man",
-  partOfCollections: ["leonard-cohen"],
+  partOfCollections: ["artist/leonard-cohen"],
   position: 0,
   ownLength: 40.801717,
   ownProgress: 0,

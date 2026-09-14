@@ -5,7 +5,7 @@ export const billyJoelSongsInTheAttic = {
   type: "release",
   slug: "billy-joel-songs-in-the-attic",
   title: "Songs In the Attic",
-  partOfCollections: ["billy-joel"],
+  partOfCollections: ["artist/billy-joel"],
   position: 0,
   ownLength: 48.137733,
   ownProgress: 0,

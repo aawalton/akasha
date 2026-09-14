@@ -5,7 +5,7 @@ export const vinnyMarchiTheHighSong = {
   type: "release",
   slug: "vinny-marchi-the-high-song",
   title: "The High Song",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 2.491767,
   ownProgress: 2.491767,

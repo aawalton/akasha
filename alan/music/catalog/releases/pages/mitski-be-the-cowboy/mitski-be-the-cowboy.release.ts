@@ -5,7 +5,7 @@ export const mitskiBeTheCowboy = {
   type: "release",
   slug: "mitski-be-the-cowboy",
   title: "Be the Cowboy",
-  partOfCollections: ["mitski"],
+  partOfCollections: ["artist/mitski"],
   position: 0,
   ownLength: 32.577933,
   ownProgress: 32.577933,

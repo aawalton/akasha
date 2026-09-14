@@ -5,7 +5,7 @@ export const jadaFacerHeavenIsAPlaceOnEarth = {
   type: "release",
   slug: "jada-facer-heaven-is-a-place-on-earth",
   title: "Heaven Is A Place On Earth",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.952183,
   ownProgress: 2.952183,

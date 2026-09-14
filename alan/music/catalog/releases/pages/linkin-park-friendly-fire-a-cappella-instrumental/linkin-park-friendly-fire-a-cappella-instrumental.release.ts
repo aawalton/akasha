@@ -5,7 +5,7 @@ export const linkinParkFriendlyFireACappellaInstrumental = {
   type: "release",
   slug: "linkin-park-friendly-fire-a-cappella-instrumental",
   title: "Friendly Fire: A Cappella + Instrumental",
-  partOfCollections: ["linkin-park"],
+  partOfCollections: ["artist/linkin-park"],
   position: 0,
   ownLength: 5.922483,
   ownProgress: 0,

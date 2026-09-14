@@ -5,7 +5,7 @@ export const vinnyMarchiSugarStars = {
   type: "release",
   slug: "vinny-marchi-sugar-stars",
   title: "sugar & stars",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 34.035517,
   ownProgress: 34.035517,

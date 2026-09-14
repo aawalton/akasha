@@ -5,7 +5,7 @@ export const kpopDemonHuntersCastKpopDemonHuntersSoundtrackFromTheNetflixFilmDel
   type: "release",
   slug: "kpop-demon-hunters-cast-kpop-demon-hunters-soundtrack-from-the-netflix-film-deluxe-version",
   title: "KPop Demon Hunters (Soundtrack from the Netflix Film / Deluxe Version)",
-  partOfCollections: ["kpop-demon-hunters-cast"],
+  partOfCollections: ["artist/kpop-demon-hunters-cast"],
   position: 0,
   ownLength: 106.3116,
   ownProgress: 106.3116,

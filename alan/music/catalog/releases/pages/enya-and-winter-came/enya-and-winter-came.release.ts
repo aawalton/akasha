@@ -5,7 +5,7 @@ export const enyaAndWinterCame = {
   type: "release",
   slug: "enya-and-winter-came",
   title: "And Winter Came...",
-  partOfCollections: ["enya"],
+  partOfCollections: ["artist/enya"],
   position: 0,
   ownLength: 48.963183,
   ownProgress: 48.963183,

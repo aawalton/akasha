@@ -5,7 +5,7 @@ export const jamesTaylor2LiveAtTheTroubadour = {
   type: "release",
   slug: "james-taylor-2-live-at-the-troubadour",
   title: "Live At The Troubadour",
-  partOfCollections: ["james-taylor"],
+  partOfCollections: ["artist/james-taylor"],
   position: 0,
   ownLength: 63.88125,
   ownProgress: 63.88125,

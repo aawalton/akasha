@@ -5,7 +5,7 @@ export const lindseyStirling2Deeper = {
   type: "release",
   slug: "lindsey-stirling-2-deeper",
   title: "Deeper",
-  partOfCollections: ["lindsey-stirling"],
+  partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
   ownLength: 3.089333,
   ownProgress: 3.089333,

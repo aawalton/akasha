@@ -5,7 +5,7 @@ export const florenceTheMachineModeration = {
   type: "release",
   slug: "florence-the-machine-moderation",
   title: "Moderation",
-  partOfCollections: ["florence-the-machine"],
+  partOfCollections: ["artist/florence-the-machine"],
   position: 0,
   ownLength: 5.040133,
   ownProgress: 5.040133,

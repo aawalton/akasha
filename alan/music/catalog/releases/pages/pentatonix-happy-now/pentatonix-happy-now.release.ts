@@ -5,7 +5,7 @@ export const pentatonixHappyNow = {
   type: "release",
   slug: "pentatonix-happy-now",
   title: "Happy Now",
-  partOfCollections: ["pentatonix"],
+  partOfCollections: ["artist/pentatonix"],
   position: 0,
   ownLength: 3.435583,
   ownProgress: 3.435583,

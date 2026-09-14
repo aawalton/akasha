@@ -5,7 +5,7 @@ export const jadaFacerILlBeHomeForChristmasAcoustic = {
   type: "release",
   slug: "jada-facer-i-ll-be-home-for-christmas-acoustic",
   title: "I'll Be Home for Christmas (Acoustic)",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.284417,
   ownProgress: 2.284417,

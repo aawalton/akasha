@@ -5,7 +5,7 @@ export const vinnyMarchiMeetUThere = {
   type: "release",
   slug: "vinny-marchi-meet-u-there",
   title: "meet U there",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 2.8,
   ownProgress: 2.8,

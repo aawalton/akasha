@@ -5,7 +5,7 @@ export const pentatonixSweet = {
   type: "release",
   slug: "pentatonix-sweet",
   title: "Sweet",
-  partOfCollections: ["pentatonix"],
+  partOfCollections: ["artist/pentatonix"],
   position: 0,
   ownLength: 2.6373,
   ownProgress: 2.6373,

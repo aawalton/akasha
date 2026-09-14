@@ -5,7 +5,7 @@ export const florenceTheMachineQueenOfPeaceHotChipRemix = {
   type: "release",
   slug: "florence-the-machine-queen-of-peace-hot-chip-remix",
   title: "Queen Of Peace (Hot Chip Remix)",
-  partOfCollections: ["florence-the-machine"],
+  partOfCollections: ["artist/florence-the-machine"],
   position: 0,
   ownLength: 6.422583,
   ownProgress: 6.422583,

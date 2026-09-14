@@ -5,7 +5,7 @@ export const coldplayFixYou = {
   type: "release",
   slug: "coldplay-fix-you",
   title: "Fix You",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 20.635467,
   ownProgress: 20.635467,

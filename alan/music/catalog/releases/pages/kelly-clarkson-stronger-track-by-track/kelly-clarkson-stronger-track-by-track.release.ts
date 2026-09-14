@@ -5,7 +5,7 @@ export const kellyClarksonStrongerTrackByTrack = {
   type: "release",
   slug: "kelly-clarkson-stronger-track-by-track",
   title: "Stronger (Track by Track)",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 58.613633,
   ownProgress: 58.613633,

@@ -5,7 +5,7 @@ export const greenDayNimrod25thAnniversaryEdition = {
   type: "release",
   slug: "green-day-nimrod-25th-anniversary-edition",
   title: "Nimrod (25th Anniversary Edition)",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 159.528333,
   ownProgress: 0,

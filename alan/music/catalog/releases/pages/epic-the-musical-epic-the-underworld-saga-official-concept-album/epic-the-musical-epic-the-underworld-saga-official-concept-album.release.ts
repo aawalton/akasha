@@ -5,7 +5,7 @@ export const epicTheMusicalEpicTheUnderworldSagaOfficialConceptAlbum = {
   type: "release",
   slug: "epic-the-musical-epic-the-underworld-saga-official-concept-album",
   title: "EPIC: The Underworld Saga (Official Concept Album)",
-  partOfCollections: ["epic-the-musical"],
+  partOfCollections: ["artist/epic-the-musical"],
   position: 0,
   ownLength: 10.719417,
   ownProgress: 10.719417,

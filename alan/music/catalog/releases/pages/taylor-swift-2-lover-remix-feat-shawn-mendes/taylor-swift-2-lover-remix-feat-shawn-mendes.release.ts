@@ -5,7 +5,7 @@ export const taylorSwift2LoverRemixFeatShawnMendes = {
   type: "release",
   slug: "taylor-swift-2-lover-remix-feat-shawn-mendes",
   title: "Lover (Remix) [feat. Shawn Mendes]",
-  partOfCollections: ["taylor-swift"],
+  partOfCollections: ["artist/taylor-swift"],
   position: 0,
   ownLength: 3.688433,
   ownProgress: 3.688433,

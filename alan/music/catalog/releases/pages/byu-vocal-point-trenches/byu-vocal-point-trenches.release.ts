@@ -5,7 +5,7 @@ export const byuVocalPointTrenches = {
   type: "release",
   slug: "byu-vocal-point-trenches",
   title: "Trenches",
-  partOfCollections: ["byu-vocal-point"],
+  partOfCollections: ["artist/byu-vocal-point"],
   position: 0,
   ownLength: 3.487217,
   ownProgress: 0,

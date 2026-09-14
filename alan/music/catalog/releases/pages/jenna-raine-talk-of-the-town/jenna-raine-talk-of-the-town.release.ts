@@ -5,7 +5,7 @@ export const jennaRaineTalkOfTheTown = {
   type: "release",
   slug: "jenna-raine-talk-of-the-town",
   title: "Talk Of The Town",
-  partOfCollections: ["jenna-raine"],
+  partOfCollections: ["artist/jenna-raine"],
   position: 0,
   ownLength: 3.0891,
   ownProgress: 3.0891,

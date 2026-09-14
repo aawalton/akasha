@@ -5,7 +5,7 @@ export const phoebeBridgersCopycatKiller = {
   type: "release",
   slug: "phoebe-bridgers-copycat-killer",
   title: "Copycat Killer",
-  partOfCollections: ["phoebe-bridgers"],
+  partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
   ownLength: 12.8813,
   ownProgress: 12.8813,

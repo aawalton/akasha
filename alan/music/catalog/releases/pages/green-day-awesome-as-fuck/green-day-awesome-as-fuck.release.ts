@@ -5,7 +5,7 @@ export const greenDayAwesomeAsFuck = {
   type: "release",
   slug: "green-day-awesome-as-fuck",
   title: "Awesome as Fuck",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 63.8861,
   ownProgress: 63.8861,

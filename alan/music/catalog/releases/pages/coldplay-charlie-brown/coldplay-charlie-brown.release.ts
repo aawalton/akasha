@@ -5,7 +5,7 @@ export const coldplayCharlieBrown = {
   type: "release",
   slug: "coldplay-charlie-brown",
   title: "Charlie Brown",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 4.75265,
   ownProgress: 4.75265,

@@ -5,7 +5,7 @@ export const imagineDragonsBornToBeYours = {
   type: "release",
   slug: "imagine-dragons-born-to-be-yours",
   title: "Born To Be Yours",
-  partOfCollections: ["imagine-dragons"],
+  partOfCollections: ["artist/imagine-dragons"],
   position: 0,
   ownLength: 3.222,
   ownProgress: 3.222,

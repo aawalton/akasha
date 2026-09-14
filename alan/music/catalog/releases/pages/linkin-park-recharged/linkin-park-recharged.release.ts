@@ -5,7 +5,7 @@ export const linkinParkRecharged = {
   type: "release",
   slug: "linkin-park-recharged",
   title: "RECHARGED",
-  partOfCollections: ["linkin-park"],
+  partOfCollections: ["artist/linkin-park"],
   position: 0,
   ownLength: 68.803233,
   ownProgress: 0,

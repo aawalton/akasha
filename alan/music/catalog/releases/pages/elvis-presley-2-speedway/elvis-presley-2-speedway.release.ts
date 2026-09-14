@@ -5,7 +5,7 @@ export const elvisPresley2Speedway = {
   type: "release",
   slug: "elvis-presley-2-speedway",
   title: "Speedway",
-  partOfCollections: ["elvis-presley"],
+  partOfCollections: ["artist/elvis-presley"],
   position: 0,
   ownLength: 27.922833,
   ownProgress: 27.922833,

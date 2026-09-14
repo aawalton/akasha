@@ -5,7 +5,7 @@ export const florenceTheMachineShakeItOut = {
   type: "release",
   slug: "florence-the-machine-shake-it-out",
   title: "Shake It Out",
-  partOfCollections: ["florence-the-machine"],
+  partOfCollections: ["artist/florence-the-machine"],
   position: 0,
   ownLength: 18.91665,
   ownProgress: 18.91665,

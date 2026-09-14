@@ -5,7 +5,7 @@ export const elvisPresley2TheEssentialElvisPresley = {
   type: "release",
   slug: "elvis-presley-2-the-essential-elvis-presley",
   title: "The Essential Elvis Presley",
-  partOfCollections: ["elvis-presley"],
+  partOfCollections: ["artist/elvis-presley"],
   position: 0,
   ownLength: 111.587317,
   ownProgress: 111.587317,

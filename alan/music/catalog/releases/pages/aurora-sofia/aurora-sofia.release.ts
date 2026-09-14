@@ -5,7 +5,7 @@ export const auroraSofia = {
   type: "release",
   slug: "aurora-sofia",
   title: "Sofia",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 11.233267,
   ownProgress: 11.233267,

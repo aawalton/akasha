@@ -5,7 +5,7 @@ export const snailMailHeatWaveEdit = {
   type: "release",
   slug: "snail-mail-heat-wave-edit",
   title: "Heat Wave (Edit)",
-  partOfCollections: ["snail-mail"],
+  partOfCollections: ["artist/snail-mail"],
   position: 0,
   ownLength: 4.574833,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const leonardCohenSongsFromARoom = {
   type: "release",
   slug: "leonard-cohen-songs-from-a-room",
   title: "Songs From A Room",
-  partOfCollections: ["leonard-cohen"],
+  partOfCollections: ["artist/leonard-cohen"],
   position: 0,
   ownLength: 35.786167,
   ownProgress: 35.786167,

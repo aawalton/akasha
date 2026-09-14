@@ -5,7 +5,7 @@ export const kellyClarksonCreepLive = {
   type: "release",
   slug: "kelly-clarkson-creep-live",
   title: "Creep (Live)",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 4.142433,
   ownProgress: 4.142433,

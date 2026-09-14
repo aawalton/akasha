@@ -5,7 +5,7 @@ export const billyJoelBillyJoelMemories = {
   type: "release",
   slug: "billy-joel-billy-joel-memories",
   title: "Billy Joel - Memories",
-  partOfCollections: ["billy-joel"],
+  partOfCollections: ["artist/billy-joel"],
   position: 0,
   ownLength: 22.6455,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const billyJoelLiveAtSheaStadium = {
   type: "release",
   slug: "billy-joel-live-at-shea-stadium",
   title: "Live At Shea Stadium",
-  partOfCollections: ["billy-joel"],
+  partOfCollections: ["artist/billy-joel"],
   position: 0,
   ownLength: 128.580967,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const yaelokreHartebeest = {
   type: "release",
   slug: "yaelokre-hartebeest",
   title: "Hartebeest",
-  partOfCollections: ["yaelokre"],
+  partOfCollections: ["artist/yaelokre"],
   position: 0,
   ownLength: 4.243467,
   ownProgress: 4.243467,

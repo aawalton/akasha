@@ -5,7 +5,7 @@ export const katyPerryPrism = {
   type: "release",
   slug: "katy-perry-prism",
   title: "PRISM",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 48.749367,
   ownProgress: 48.749367,

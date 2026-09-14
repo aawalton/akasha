@@ -5,7 +5,7 @@ export const emeiRegrets = {
   type: "release",
   slug: "emei-regrets",
   title: "Regrets",
-  partOfCollections: ["emei"],
+  partOfCollections: ["artist/emei"],
   position: 0,
   ownLength: 2.03755,
   ownProgress: 2.03755,

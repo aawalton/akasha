@@ -5,7 +5,7 @@ export const mitskiMitskiOnAudiotreeLive = {
   type: "release",
   slug: "mitski-mitski-on-audiotree-live",
   title: "Mitski on Audiotree Live",
-  partOfCollections: ["mitski"],
+  partOfCollections: ["artist/mitski"],
   position: 0,
   ownLength: 13.782717,
   ownProgress: 13.782717,

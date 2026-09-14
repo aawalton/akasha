@@ -5,7 +5,7 @@ export const auroraStjernestV = {
   type: "release",
   slug: "aurora-stjernest-v",
   title: "Stjernestøv",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 3.30075,
   ownProgress: 3.30075,

@@ -5,7 +5,7 @@ export const celticWoman2TheMagicOfChristmas = {
   type: "release",
   slug: "celtic-woman-2-the-magic-of-christmas",
   title: "The Magic Of Christmas",
-  partOfCollections: ["celtic-woman"],
+  partOfCollections: ["artist/celtic-woman"],
   position: 0,
   ownLength: 54.023017,
   ownProgress: 54.023017,

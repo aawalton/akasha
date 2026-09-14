@@ -5,7 +5,7 @@ export const billyJoelLiveThroughTheYears = {
   type: "release",
   slug: "billy-joel-live-through-the-years",
   title: "Live Through the Years",
-  partOfCollections: ["billy-joel"],
+  partOfCollections: ["artist/billy-joel"],
   position: 0,
   ownLength: 93.373517,
   ownProgress: 0,

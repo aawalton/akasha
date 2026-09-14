@@ -5,7 +5,7 @@ export const byuVocalPointMusicVideoHitsVol2 = {
   type: "release",
   slug: "byu-vocal-point-music-video-hits-vol-2",
   title: "Music Video Hits, Vol. 2",
-  partOfCollections: ["byu-vocal-point"],
+  partOfCollections: ["artist/byu-vocal-point"],
   position: 0,
   ownLength: 30.891183,
   ownProgress: 0,

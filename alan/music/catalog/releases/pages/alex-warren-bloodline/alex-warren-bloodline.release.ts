@@ -5,7 +5,7 @@ export const alexWarrenBloodline = {
   type: "release",
   slug: "alex-warren-bloodline",
   title: "Bloodline",
-  partOfCollections: ["alex-warren"],
+  partOfCollections: ["artist/alex-warren"],
   position: 0,
   ownLength: 3.033467,
   ownProgress: 3.033467,

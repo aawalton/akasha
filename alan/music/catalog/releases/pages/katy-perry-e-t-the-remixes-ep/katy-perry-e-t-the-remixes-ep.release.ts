@@ -5,7 +5,7 @@ export const katyPerryETTheRemixesEp = {
   type: "release",
   slug: "katy-perry-e-t-the-remixes-ep",
   title: "E.T. (The Remixes) - EP",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 27.88755,
   ownProgress: 27.88755,

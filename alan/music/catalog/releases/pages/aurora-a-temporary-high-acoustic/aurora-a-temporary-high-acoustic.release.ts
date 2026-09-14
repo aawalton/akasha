@@ -5,7 +5,7 @@ export const auroraATemporaryHighAcoustic = {
   type: "release",
   slug: "aurora-a-temporary-high-acoustic",
   title: "A Temporary High (Acoustic)",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 2.832433,
   ownProgress: 2.832433,

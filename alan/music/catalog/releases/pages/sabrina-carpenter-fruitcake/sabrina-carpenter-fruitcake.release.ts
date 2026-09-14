@@ -5,7 +5,7 @@ export const sabrinaCarpenterFruitcake = {
   type: "release",
   slug: "sabrina-carpenter-fruitcake",
   title: "fruitcake",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 15.772417,
   ownProgress: 15.772417,

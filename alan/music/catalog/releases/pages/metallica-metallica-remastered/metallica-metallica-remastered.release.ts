@@ -5,7 +5,7 @@ export const metallicaMetallicaRemastered = {
   type: "release",
   slug: "metallica-metallica-remastered",
   title: "Metallica (Remastered)",
-  partOfCollections: ["metallica"],
+  partOfCollections: ["artist/metallica"],
   position: 0,
   ownLength: 62.60075,
   ownProgress: 0,

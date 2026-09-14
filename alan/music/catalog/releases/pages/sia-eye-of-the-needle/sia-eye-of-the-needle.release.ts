@@ -5,7 +5,7 @@ export const siaEyeOfTheNeedle = {
   type: "release",
   slug: "sia-eye-of-the-needle",
   title: "Eye of the Needle",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 4.15755,
   ownProgress: 4.15755,

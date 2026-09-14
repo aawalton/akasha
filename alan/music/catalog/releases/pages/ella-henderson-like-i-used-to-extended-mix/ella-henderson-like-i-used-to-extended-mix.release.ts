@@ -5,7 +5,7 @@ export const ellaHendersonLikeIUsedToExtendedMix = {
   type: "release",
   slug: "ella-henderson-like-i-used-to-extended-mix",
   title: "Like I Used To (Extended Mix)",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 5.8244,
   ownProgress: 0,

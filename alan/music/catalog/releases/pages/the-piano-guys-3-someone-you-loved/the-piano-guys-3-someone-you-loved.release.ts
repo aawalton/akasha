@@ -5,7 +5,7 @@ export const thePianoGuys3SomeoneYouLoved = {
   type: "release",
   slug: "the-piano-guys-3-someone-you-loved",
   title: "Someone You Loved",
-  partOfCollections: ["the-piano-guys"],
+  partOfCollections: ["artist/the-piano-guys"],
   position: 0,
   ownLength: 3.385767,
   ownProgress: 3.385767,

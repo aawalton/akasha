@@ -5,7 +5,7 @@ export const kDaAllOut = {
   type: "release",
   slug: "k-da-all-out",
   title: "ALL OUT",
-  partOfCollections: ["k-da"],
+  partOfCollections: ["artist/k-da"],
   position: 0,
   ownLength: 16.305633,
   ownProgress: 16.305633,

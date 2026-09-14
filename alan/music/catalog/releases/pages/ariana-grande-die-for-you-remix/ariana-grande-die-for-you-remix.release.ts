@@ -5,7 +5,7 @@ export const arianaGrandeDieForYouRemix = {
   type: "release",
   slug: "ariana-grande-die-for-you-remix",
   title: "Die For You (Remix)",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 3.88095,
   ownProgress: 3.88095,

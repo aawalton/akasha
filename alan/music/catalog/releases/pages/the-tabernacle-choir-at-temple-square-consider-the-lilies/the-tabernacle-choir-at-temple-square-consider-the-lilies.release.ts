@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareConsiderTheLilies = {
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-consider-the-lilies",
   title: "Consider the Lilies",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 67.523033,
   ownProgress: 0,

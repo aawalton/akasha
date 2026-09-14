@@ -5,7 +5,7 @@ export const jadaFacerWrongDirection = {
   type: "release",
   slug: "jada-facer-wrong-direction",
   title: "Wrong Direction",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.088,
   ownProgress: 3.088,

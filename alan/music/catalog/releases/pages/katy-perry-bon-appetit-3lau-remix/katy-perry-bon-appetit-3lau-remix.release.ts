@@ -5,7 +5,7 @@ export const katyPerryBonAppetit3lauRemix = {
   type: "release",
   slug: "katy-perry-bon-appetit-3lau-remix",
   title: "Bon Appétit (3LAU Remix)",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 3.074,
   ownProgress: 3.074,

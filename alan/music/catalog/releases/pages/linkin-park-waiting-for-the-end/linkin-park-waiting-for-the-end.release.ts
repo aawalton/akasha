@@ -5,7 +5,7 @@ export const linkinParkWaitingForTheEnd = {
   type: "release",
   slug: "linkin-park-waiting-for-the-end",
   title: "Waiting for the End",
-  partOfCollections: ["linkin-park"],
+  partOfCollections: ["artist/linkin-park"],
   position: 0,
   ownLength: 11.874983,
   ownProgress: 0,

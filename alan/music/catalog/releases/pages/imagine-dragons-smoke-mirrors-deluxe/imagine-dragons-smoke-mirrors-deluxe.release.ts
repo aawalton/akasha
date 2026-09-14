@@ -5,7 +5,7 @@ export const imagineDragonsSmokeMirrorsDeluxe = {
   type: "release",
   slug: "imagine-dragons-smoke-mirrors-deluxe",
   title: "Smoke + Mirrors (Deluxe)",
-  partOfCollections: ["imagine-dragons"],
+  partOfCollections: ["artist/imagine-dragons"],
   position: 0,
   ownLength: 79.868117,
   ownProgress: 79.868117,

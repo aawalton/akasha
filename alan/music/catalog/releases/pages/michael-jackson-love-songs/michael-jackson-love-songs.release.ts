@@ -5,7 +5,7 @@ export const michaelJacksonLoveSongs = {
   type: "release",
   slug: "michael-jackson-love-songs",
   title: "Love Songs",
-  partOfCollections: ["michael-jackson"],
+  partOfCollections: ["artist/michael-jackson"],
   position: 0,
   ownLength: 50.773683,
   ownProgress: 50.773683,

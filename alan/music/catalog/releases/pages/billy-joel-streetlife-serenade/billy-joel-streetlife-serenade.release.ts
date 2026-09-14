@@ -5,7 +5,7 @@ export const billyJoelStreetlifeSerenade = {
   type: "release",
   slug: "billy-joel-streetlife-serenade",
   title: "Streetlife Serenade",
-  partOfCollections: ["billy-joel"],
+  partOfCollections: ["artist/billy-joel"],
   position: 0,
   ownLength: 37.848183,
   ownProgress: 0,

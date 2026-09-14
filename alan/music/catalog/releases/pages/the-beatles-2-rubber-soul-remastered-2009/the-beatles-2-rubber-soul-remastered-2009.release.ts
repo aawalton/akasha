@@ -5,7 +5,7 @@ export const theBeatles2RubberSoulRemastered2009 = {
   type: "release",
   slug: "the-beatles-2-rubber-soul-remastered-2009",
   title: "Rubber Soul (Remastered 2009)",
-  partOfCollections: ["the-beatles"],
+  partOfCollections: ["artist/the-beatles"],
   position: 0,
   ownLength: 35.538817,
   ownProgress: 35.538817,

@@ -5,7 +5,7 @@ export const theHoldernessFamilyBestOfThe2000s = {
   type: "release",
   slug: "the-holderness-family-best-of-the-2000s",
   title: "Best of the 2000s",
-  partOfCollections: ["the-holderness-family"],
+  partOfCollections: ["artist/the-holderness-family"],
   position: 0,
   ownLength: 20.612767,
   ownProgress: 20.612767,

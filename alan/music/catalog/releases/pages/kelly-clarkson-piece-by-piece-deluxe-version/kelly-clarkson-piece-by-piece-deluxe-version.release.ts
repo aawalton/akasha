@@ -5,7 +5,7 @@ export const kellyClarksonPieceByPieceDeluxeVersion = {
   type: "release",
   slug: "kelly-clarkson-piece-by-piece-deluxe-version",
   title: "Piece By Piece (Deluxe Version)",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 65.465183,
   ownProgress: 65.465183,

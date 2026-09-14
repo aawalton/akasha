@@ -5,7 +5,7 @@ export const lilithMaxDoYouBelieve = {
   type: "release",
   slug: "lilith-max-do-you-believe",
   title: "Do You Believe",
-  partOfCollections: ["lilith-max"],
+  partOfCollections: ["artist/lilith-max"],
   position: 0,
   ownLength: 2.8685,
   ownProgress: 2.8685,

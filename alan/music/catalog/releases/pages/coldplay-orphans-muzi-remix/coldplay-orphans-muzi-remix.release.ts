@@ -5,7 +5,7 @@ export const coldplayOrphansMuziRemix = {
   type: "release",
   slug: "coldplay-orphans-muzi-remix",
   title: "Orphans (Muzi Remix)",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 3.686,
   ownProgress: 3.686,

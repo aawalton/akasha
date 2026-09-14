@@ -5,7 +5,7 @@ export const jadaFacerFixYouAcoustic = {
   type: "release",
   slug: "jada-facer-fix-you-acoustic",
   title: "Fix You (Acoustic)",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.5619,
   ownProgress: 3.5619,

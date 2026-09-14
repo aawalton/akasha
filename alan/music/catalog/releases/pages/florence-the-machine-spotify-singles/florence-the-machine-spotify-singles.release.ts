@@ -5,7 +5,7 @@ export const florenceTheMachineSpotifySingles = {
   type: "release",
   slug: "florence-the-machine-spotify-singles",
   title: "Spotify Singles",
-  partOfCollections: ["florence-the-machine"],
+  partOfCollections: ["artist/florence-the-machine"],
   position: 0,
   ownLength: 8.2785,
   ownProgress: 8.2785,

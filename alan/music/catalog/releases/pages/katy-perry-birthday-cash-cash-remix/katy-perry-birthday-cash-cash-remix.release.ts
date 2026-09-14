@@ -5,7 +5,7 @@ export const katyPerryBirthdayCashCashRemix = {
   type: "release",
   slug: "katy-perry-birthday-cash-cash-remix",
   title: "Birthday (Cash Cash Remix)",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 4.423817,
   ownProgress: 4.423817,

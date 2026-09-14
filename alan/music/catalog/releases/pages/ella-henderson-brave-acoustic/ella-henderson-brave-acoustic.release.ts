@@ -5,7 +5,7 @@ export const ellaHendersonBraveAcoustic = {
   type: "release",
   slug: "ella-henderson-brave-acoustic",
   title: "Brave (Acoustic)",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 7.15975,
   ownProgress: 7.15975,

@@ -5,7 +5,7 @@ export const katyPerryNeverReallyOverSynColeRemix = {
   type: "release",
   slug: "katy-perry-never-really-over-syn-cole-remix",
   title: "Never Really Over (Syn Cole Remix)",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 3.14285,
   ownProgress: 3.14285,

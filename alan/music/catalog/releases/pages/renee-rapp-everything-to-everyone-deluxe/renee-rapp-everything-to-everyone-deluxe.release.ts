@@ -5,7 +5,7 @@ export const reneeRappEverythingToEveryoneDeluxe = {
   type: "release",
   slug: "renee-rapp-everything-to-everyone-deluxe",
   title: "Everything To Everyone (Deluxe)",
-  partOfCollections: ["renee-rapp"],
+  partOfCollections: ["artist/renee-rapp"],
   position: 0,
   ownLength: 24.809983,
   ownProgress: 24.809983,

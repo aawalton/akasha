@@ -5,7 +5,7 @@ export const byuVocalPointGodRestYeMerryGentlemenSingle = {
   type: "release",
   slug: "byu-vocal-point-god-rest-ye-merry-gentlemen-single",
   title: "God Rest Ye Merry, Gentlemen - Single",
-  partOfCollections: ["byu-vocal-point"],
+  partOfCollections: ["artist/byu-vocal-point"],
   position: 0,
   ownLength: 3.28235,
   ownProgress: 0,

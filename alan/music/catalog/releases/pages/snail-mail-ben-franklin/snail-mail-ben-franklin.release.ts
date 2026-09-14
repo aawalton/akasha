@@ -5,7 +5,7 @@ export const snailMailBenFranklin = {
   type: "release",
   slug: "snail-mail-ben-franklin",
   title: "Ben Franklin",
-  partOfCollections: ["snail-mail"],
+  partOfCollections: ["artist/snail-mail"],
   position: 0,
   ownLength: 6.298883,
   ownProgress: 0,

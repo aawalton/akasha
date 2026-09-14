@@ -5,7 +5,7 @@ export const jessicaBaioBadTimes = {
   type: "release",
   slug: "jessica-baio-bad-times",
   title: "bad times",
-  partOfCollections: ["jessica-baio"],
+  partOfCollections: ["artist/jessica-baio"],
   position: 0,
   ownLength: 3.20675,
   ownProgress: 3.20675,

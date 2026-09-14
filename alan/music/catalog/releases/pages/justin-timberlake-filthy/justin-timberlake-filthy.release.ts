@@ -5,7 +5,7 @@ export const justinTimberlakeFilthy = {
   type: "release",
   slug: "justin-timberlake-filthy",
   title: "Filthy",
-  partOfCollections: ["justin-timberlake"],
+  partOfCollections: ["artist/justin-timberlake"],
   position: 0,
   ownLength: 4.8991,
   ownProgress: 0,

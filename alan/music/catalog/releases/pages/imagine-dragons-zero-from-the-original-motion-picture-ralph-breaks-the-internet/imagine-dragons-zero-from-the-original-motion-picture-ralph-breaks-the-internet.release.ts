@@ -5,7 +5,7 @@ export const imagineDragonsZeroFromTheOriginalMotionPictureRalphBreaksTheInterne
   type: "release",
   slug: "imagine-dragons-zero-from-the-original-motion-picture-ralph-breaks-the-internet",
   title: 'Zero (From the Original Motion Picture "Ralph Breaks The Internet")',
-  partOfCollections: ["imagine-dragons"],
+  partOfCollections: ["artist/imagine-dragons"],
   position: 0,
   ownLength: 3.515567,
   ownProgress: 3.515567,

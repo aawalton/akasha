@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareSilentNight = {
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-silent-night",
   title: "Silent Night",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 4.626217,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const siaCheapThrillsRemixFeatNickyJam = {
   type: "release",
   slug: "sia-cheap-thrills-remix-feat-nicky-jam",
   title: "Cheap Thrills Remix (feat. Nicky Jam)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 3.536,
   ownProgress: 3.536,

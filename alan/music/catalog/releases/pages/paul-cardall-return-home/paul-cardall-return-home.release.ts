@@ -5,7 +5,7 @@ export const paulCardallReturnHome = {
   type: "release",
   slug: "paul-cardall-return-home",
   title: "Return Home",
-  partOfCollections: ["paul-cardall"],
+  partOfCollections: ["artist/paul-cardall"],
   position: 0,
   ownLength: 50.622783,
   ownProgress: 50.622783,

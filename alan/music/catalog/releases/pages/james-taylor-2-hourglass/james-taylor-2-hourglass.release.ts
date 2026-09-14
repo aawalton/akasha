@@ -5,7 +5,7 @@ export const jamesTaylor2Hourglass = {
   type: "release",
   slug: "james-taylor-2-hourglass",
   title: "Hourglass",
-  partOfCollections: ["james-taylor"],
+  partOfCollections: ["artist/james-taylor"],
   position: 0,
   ownLength: 53.701483,
   ownProgress: 53.701483,

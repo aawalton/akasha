@@ -5,7 +5,7 @@ export const ellaHendersonCrazyWhatLoveCanDoRemixes = {
   type: "release",
   slug: "ella-henderson-crazy-what-love-can-do-remixes",
   title: "Crazy What Love Can Do (Remixes)",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 19.561,
   ownProgress: 19.561,

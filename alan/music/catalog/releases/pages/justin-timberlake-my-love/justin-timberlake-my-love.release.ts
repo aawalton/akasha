@@ -5,7 +5,7 @@ export const justinTimberlakeMyLove = {
   type: "release",
   slug: "justin-timberlake-my-love",
   title: "My Love",
-  partOfCollections: ["justin-timberlake"],
+  partOfCollections: ["artist/justin-timberlake"],
   position: 0,
   ownLength: 9.33065,
   ownProgress: 0,

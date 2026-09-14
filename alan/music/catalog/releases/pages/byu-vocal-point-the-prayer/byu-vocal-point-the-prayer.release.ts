@@ -5,7 +5,7 @@ export const byuVocalPointThePrayer = {
   type: "release",
   slug: "byu-vocal-point-the-prayer",
   title: "The Prayer",
-  partOfCollections: ["byu-vocal-point"],
+  partOfCollections: ["artist/byu-vocal-point"],
   position: 0,
   ownLength: 4.4968,
   ownProgress: 0,

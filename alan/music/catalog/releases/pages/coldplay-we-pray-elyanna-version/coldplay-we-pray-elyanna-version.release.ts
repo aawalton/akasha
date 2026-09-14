@@ -5,7 +5,7 @@ export const coldplayWePrayElyannaVersion = {
   type: "release",
   slug: "coldplay-we-pray-elyanna-version",
   title: "WE PRAY (Elyanna Version)",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 11.6703,
   ownProgress: 11.6703,

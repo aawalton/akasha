@@ -5,7 +5,7 @@ export const jadaFacerCaravan = {
   type: "release",
   slug: "jada-facer-caravan",
   title: "Caravan",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.08235,
   ownProgress: 3.08235,

@@ -5,7 +5,7 @@ export const emBeiholdPainfulTruth = {
   type: "release",
   slug: "em-beihold-painful-truth",
   title: "Painful Truth",
-  partOfCollections: ["em-beihold"],
+  partOfCollections: ["artist/em-beihold"],
   position: 0,
   ownLength: 3.481117,
   ownProgress: 3.481117,

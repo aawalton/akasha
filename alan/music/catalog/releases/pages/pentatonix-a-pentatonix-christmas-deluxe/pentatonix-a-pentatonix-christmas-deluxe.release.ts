@@ -5,7 +5,7 @@ export const pentatonixAPentatonixChristmasDeluxe = {
   type: "release",
   slug: "pentatonix-a-pentatonix-christmas-deluxe",
   title: "A Pentatonix Christmas Deluxe",
-  partOfCollections: ["pentatonix"],
+  partOfCollections: ["artist/pentatonix"],
   position: 0,
   ownLength: 50.997917,
   ownProgress: 50.997917,

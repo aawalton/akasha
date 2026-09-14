@@ -5,7 +5,7 @@ export const lynLapidMySunnyDayKinaRemix = {
   type: "release",
   slug: "lyn-lapid-my-sunny-day-kina-remix",
   title: "My Sunny Day (Kina Remix)",
-  partOfCollections: ["lyn-lapid"],
+  partOfCollections: ["artist/lyn-lapid"],
   position: 0,
   ownLength: 1.934217,
   ownProgress: 1.934217,

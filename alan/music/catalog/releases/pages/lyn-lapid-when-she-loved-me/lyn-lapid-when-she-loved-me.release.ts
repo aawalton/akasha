@@ -5,7 +5,7 @@ export const lynLapidWhenSheLovedMe = {
   type: "release",
   slug: "lyn-lapid-when-she-loved-me",
   title: "When She Loved Me",
-  partOfCollections: ["lyn-lapid"],
+  partOfCollections: ["artist/lyn-lapid"],
   position: 0,
   ownLength: 3.128483,
   ownProgress: 3.128483,

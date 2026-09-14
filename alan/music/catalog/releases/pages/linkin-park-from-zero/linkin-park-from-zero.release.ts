@@ -5,7 +5,7 @@ export const linkinParkFromZero = {
   type: "release",
   slug: "linkin-park-from-zero",
   title: "From Zero",
-  partOfCollections: ["linkin-park"],
+  partOfCollections: ["artist/linkin-park"],
   position: 0,
   ownLength: 31.975517,
   ownProgress: 0,

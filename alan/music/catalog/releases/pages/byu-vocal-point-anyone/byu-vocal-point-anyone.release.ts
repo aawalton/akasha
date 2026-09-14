@@ -5,7 +5,7 @@ export const byuVocalPointAnyone = {
   type: "release",
   slug: "byu-vocal-point-anyone",
   title: "Anyone",
-  partOfCollections: ["byu-vocal-point"],
+  partOfCollections: ["artist/byu-vocal-point"],
   position: 0,
   ownLength: 3.224433,
   ownProgress: 0,

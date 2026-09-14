@@ -5,7 +5,7 @@ export const adeleChasingPavements = {
   type: "release",
   slug: "adele-chasing-pavements",
   title: "Chasing Pavements",
-  partOfCollections: ["adele"],
+  partOfCollections: ["artist/adele"],
   position: 0,
   ownLength: 3.508433,
   ownProgress: 3.508433,

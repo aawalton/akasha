@@ -5,7 +5,7 @@ export const imagineDragonsEnemyFromTheSeriesArcaneLeagueOfLegends = {
   type: "release",
   slug: "imagine-dragons-enemy-from-the-series-arcane-league-of-legends",
   title: "Enemy (from the series Arcane League of Legends)",
-  partOfCollections: ["imagine-dragons"],
+  partOfCollections: ["artist/imagine-dragons"],
   position: 0,
   ownLength: 2.889683,
   ownProgress: 2.889683,

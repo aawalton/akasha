@@ -5,7 +5,7 @@ export const kellyClarksonChristmasEve = {
   type: "release",
   slug: "kelly-clarkson-christmas-eve",
   title: "Christmas Eve",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 3.014833,
   ownProgress: 3.014833,

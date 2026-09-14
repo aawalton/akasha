@@ -5,7 +5,7 @@ export const siaTitaniumMeganSV3rsion = {
   type: "release",
   slug: "sia-titanium-megan-s-v3rsion",
   title: "Titanium (Megan's V3rsion)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 4.054433,
   ownProgress: 4.054433,

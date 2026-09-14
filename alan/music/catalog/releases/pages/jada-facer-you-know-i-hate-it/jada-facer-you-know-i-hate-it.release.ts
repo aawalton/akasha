@@ -5,7 +5,7 @@ export const jadaFacerYouKnowIHateIt = {
   type: "release",
   slug: "jada-facer-you-know-i-hate-it",
   title: "You Know I Hate It",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 6.537333,
   ownProgress: 6.537333,

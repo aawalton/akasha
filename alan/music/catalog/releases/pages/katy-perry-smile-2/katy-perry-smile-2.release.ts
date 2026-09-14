@@ -5,7 +5,7 @@ export const katyPerrySmile2 = {
   type: "release",
   slug: "katy-perry-smile-2",
   title: "Smile",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 36.70775,
   ownProgress: 36.70775,

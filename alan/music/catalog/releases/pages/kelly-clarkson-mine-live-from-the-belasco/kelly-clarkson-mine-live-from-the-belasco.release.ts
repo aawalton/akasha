@@ -5,7 +5,7 @@ export const kellyClarksonMineLiveFromTheBelasco = {
   type: "release",
   slug: "kelly-clarkson-mine-live-from-the-belasco",
   title: "mine (Live From The Belasco)",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 3.3723,
   ownProgress: 3.3723,

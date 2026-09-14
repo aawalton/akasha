@@ -5,7 +5,7 @@ export const paulCardallSongsOfPraise = {
   type: "release",
   slug: "paul-cardall-songs-of-praise",
   title: "Songs of Praise",
-  partOfCollections: ["paul-cardall"],
+  partOfCollections: ["artist/paul-cardall"],
   position: 0,
   ownLength: 48.1555,
   ownProgress: 48.1555,

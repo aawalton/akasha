@@ -5,7 +5,7 @@ export const vinnyMarchiCherryWine = {
   type: "release",
   slug: "vinny-marchi-cherry-wine",
   title: "Cherry Wine",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 3.4964,
   ownProgress: 3.4964,

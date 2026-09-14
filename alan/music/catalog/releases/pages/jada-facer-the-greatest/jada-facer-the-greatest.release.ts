@@ -5,7 +5,7 @@ export const jadaFacerTheGreatest = {
   type: "release",
   slug: "jada-facer-the-greatest",
   title: "The Greatest",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.217633,
   ownProgress: 2.217633,

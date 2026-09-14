@@ -5,7 +5,7 @@ export const celticWoman2OHolyNight2020Version = {
   type: "release",
   slug: "celtic-woman-2-o-holy-night-2020-version",
   title: "O Holy Night (2020 Version)",
-  partOfCollections: ["celtic-woman"],
+  partOfCollections: ["artist/celtic-woman"],
   position: 0,
   ownLength: 3.650183,
   ownProgress: 3.650183,

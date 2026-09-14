@@ -5,7 +5,7 @@ export const thePianoGuys3ThePianoGuys = {
   type: "release",
   slug: "the-piano-guys-3-the-piano-guys",
   title: "The Piano Guys",
-  partOfCollections: ["the-piano-guys"],
+  partOfCollections: ["artist/the-piano-guys"],
   position: 0,
   ownLength: 63.723433,
   ownProgress: 63.723433,

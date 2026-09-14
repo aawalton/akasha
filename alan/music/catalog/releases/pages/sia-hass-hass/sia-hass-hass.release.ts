@@ -5,7 +5,7 @@ export const siaHassHass = {
   type: "release",
   slug: "sia-hass-hass",
   title: "Hass Hass",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 2.550267,
   ownProgress: 2.550267,

@@ -5,7 +5,7 @@ export const elvisPresley2PromisedLand = {
   type: "release",
   slug: "elvis-presley-2-promised-land",
   title: "Promised Land",
-  partOfCollections: ["elvis-presley"],
+  partOfCollections: ["artist/elvis-presley"],
   position: 0,
   ownLength: 28.44415,
   ownProgress: 28.44415,

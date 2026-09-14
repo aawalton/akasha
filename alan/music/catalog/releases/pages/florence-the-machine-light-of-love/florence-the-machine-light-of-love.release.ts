@@ -5,7 +5,7 @@ export const florenceTheMachineLightOfLove = {
   type: "release",
   slug: "florence-the-machine-light-of-love",
   title: "Light Of Love",
-  partOfCollections: ["florence-the-machine"],
+  partOfCollections: ["artist/florence-the-machine"],
   position: 0,
   ownLength: 4.012,
   ownProgress: 4.012,

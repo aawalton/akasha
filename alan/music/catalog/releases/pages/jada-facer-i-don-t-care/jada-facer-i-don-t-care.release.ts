@@ -5,7 +5,7 @@ export const jadaFacerIDonTCare = {
   type: "release",
   slug: "jada-facer-i-don-t-care",
   title: "I Don't Care",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.1658,
   ownProgress: 3.1658,

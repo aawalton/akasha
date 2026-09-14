@@ -5,7 +5,7 @@ export const arianaGrandePutYourHeartsUp = {
   type: "release",
   slug: "ariana-grande-put-your-hearts-up",
   title: "Put Your Hearts Up",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 3.503333,
   ownProgress: 3.503333,

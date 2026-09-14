@@ -5,7 +5,7 @@ export const elvisPresley2VivaElvis = {
   type: "release",
   slug: "elvis-presley-2-viva-elvis",
   title: "Viva Elvis",
-  partOfCollections: ["elvis-presley"],
+  partOfCollections: ["artist/elvis-presley"],
   position: 0,
   ownLength: 42.487933,
   ownProgress: 42.487933,

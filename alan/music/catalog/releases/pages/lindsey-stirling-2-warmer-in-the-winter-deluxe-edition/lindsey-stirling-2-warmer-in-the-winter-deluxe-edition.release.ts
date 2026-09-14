@@ -5,7 +5,7 @@ export const lindseyStirling2WarmerInTheWinterDeluxeEdition = {
   type: "release",
   slug: "lindsey-stirling-2-warmer-in-the-winter-deluxe-edition",
   title: "Warmer In The Winter (Deluxe Edition)",
-  partOfCollections: ["lindsey-stirling"],
+  partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
   ownLength: 60.75925,
   ownProgress: 60.75925,

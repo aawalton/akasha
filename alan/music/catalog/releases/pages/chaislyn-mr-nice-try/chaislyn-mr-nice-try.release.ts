@@ -5,7 +5,7 @@ export const chaislynMrNiceTry = {
   type: "release",
   slug: "chaislyn-mr-nice-try",
   title: "Mr. Nice Try",
-  partOfCollections: ["chaislyn"],
+  partOfCollections: ["artist/chaislyn"],
   position: 0,
   ownLength: 3.159467,
   ownProgress: 3.159467,

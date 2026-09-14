@@ -5,7 +5,7 @@ export const arianaGrandeAHandForMrsClaus = {
   type: "release",
   slug: "ariana-grande-a-hand-for-mrs-claus",
   title: "A Hand For Mrs. Claus",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 2.484,
   ownProgress: 2.484,

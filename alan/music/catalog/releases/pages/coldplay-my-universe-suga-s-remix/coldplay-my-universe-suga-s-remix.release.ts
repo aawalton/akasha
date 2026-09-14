@@ -5,7 +5,7 @@ export const coldplayMyUniverseSugaSRemix = {
   type: "release",
   slug: "coldplay-my-universe-suga-s-remix",
   title: "My Universe (SUGA's Remix)",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 3.137233,
   ownProgress: 3.137233,

@@ -5,7 +5,7 @@ export const lynLapidInfinite = {
   type: "release",
   slug: "lyn-lapid-infinite",
   title: "Infinite",
-  partOfCollections: ["lyn-lapid"],
+  partOfCollections: ["artist/lyn-lapid"],
   position: 0,
   ownLength: 3.7906,
   ownProgress: 3.7906,

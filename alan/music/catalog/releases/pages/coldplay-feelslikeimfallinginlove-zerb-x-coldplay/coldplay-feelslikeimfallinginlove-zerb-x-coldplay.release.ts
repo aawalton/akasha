@@ -5,7 +5,7 @@ export const coldplayFeelslikeimfallinginloveZerbXColdplay = {
   type: "release",
   slug: "coldplay-feelslikeimfallinginlove-zerb-x-coldplay",
   title: "feelslikeimfallinginlove (Zerb x Coldplay)",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 3.943533,
   ownProgress: 3.943533,

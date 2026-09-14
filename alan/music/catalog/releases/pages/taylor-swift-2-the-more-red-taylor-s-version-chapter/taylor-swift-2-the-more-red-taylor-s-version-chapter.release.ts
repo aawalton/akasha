@@ -5,7 +5,7 @@ export const taylorSwift2TheMoreRedTaylorSVersionChapter = {
   type: "release",
   slug: "taylor-swift-2-the-more-red-taylor-s-version-chapter",
   title: "The More Red (Taylor’s Version) Chapter",
-  partOfCollections: ["taylor-swift"],
+  partOfCollections: ["artist/taylor-swift"],
   position: 0,
   ownLength: 28.996567,
   ownProgress: 28.996567,

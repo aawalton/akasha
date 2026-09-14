@@ -5,7 +5,7 @@ export const phoebeBridgersPunisher = {
   type: "release",
   slug: "phoebe-bridgers-punisher",
   title: "Punisher",
-  partOfCollections: ["phoebe-bridgers"],
+  partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
   ownLength: 40.709083,
   ownProgress: 40.709083,

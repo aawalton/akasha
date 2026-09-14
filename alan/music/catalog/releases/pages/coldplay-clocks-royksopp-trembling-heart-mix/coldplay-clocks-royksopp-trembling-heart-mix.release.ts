@@ -5,7 +5,7 @@ export const coldplayClocksRoyksoppTremblingHeartMix = {
   type: "release",
   slug: "coldplay-clocks-royksopp-trembling-heart-mix",
   title: "Clocks (Royksopp Trembling Heart Mix)",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 5.742217,
   ownProgress: 5.742217,

@@ -5,7 +5,7 @@ export const kellyClarksonFromTheJumpDuetVersion = {
   type: "release",
   slug: "kelly-clarkson-from-the-jump-duet-version",
   title: "From The Jump (Duet Version)",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 3.86275,
   ownProgress: 3.86275,

@@ -5,7 +5,7 @@ export const ellaHendersonUnderTheSunWithAlokExtended = {
   type: "release",
   slug: "ella-henderson-under-the-sun-with-alok-extended",
   title: "Under The Sun (with Alok) [Extended]",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 10.89975,
   ownProgress: 0,

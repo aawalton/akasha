@@ -5,7 +5,7 @@ export const siaSpotifySessions = {
   type: "release",
   slug: "sia-spotify-sessions",
   title: "Spotify Sessions",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 28.819967,
   ownProgress: 28.819967,

@@ -5,7 +5,7 @@ export const jessicaBaioAtLeast = {
   type: "release",
   slug: "jessica-baio-at-least",
   title: "at least",
-  partOfCollections: ["jessica-baio"],
+  partOfCollections: ["artist/jessica-baio"],
   position: 0,
   ownLength: 2.7917,
   ownProgress: 2.7917,

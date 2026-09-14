@@ -5,7 +5,7 @@ export const coldplayMagic = {
   type: "release",
   slug: "coldplay-magic",
   title: "Magic",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 4.750233,
   ownProgress: 4.750233,

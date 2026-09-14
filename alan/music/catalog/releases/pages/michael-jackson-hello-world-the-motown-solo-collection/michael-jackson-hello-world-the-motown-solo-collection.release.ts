@@ -5,7 +5,7 @@ export const michaelJacksonHelloWorldTheMotownSoloCollection = {
   type: "release",
   slug: "michael-jackson-hello-world-the-motown-solo-collection",
   title: "Hello World - The Motown Solo Collection",
-  partOfCollections: ["michael-jackson"],
+  partOfCollections: ["artist/michael-jackson"],
   position: 0,
   ownLength: 233.57895,
   ownProgress: 233.57895,

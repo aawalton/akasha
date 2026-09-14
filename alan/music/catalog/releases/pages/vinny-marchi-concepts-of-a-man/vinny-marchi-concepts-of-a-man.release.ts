@@ -5,7 +5,7 @@ export const vinnyMarchiConceptsOfAMan = {
   type: "release",
   slug: "vinny-marchi-concepts-of-a-man",
   title: "Concepts of a Man",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 1.208367,
   ownProgress: 1.208367,

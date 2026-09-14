@@ -5,7 +5,7 @@ export const yaelokreAndTheHound = {
   type: "release",
   slug: "yaelokre-and-the-hound",
   title: "And the Hound",
-  partOfCollections: ["yaelokre"],
+  partOfCollections: ["artist/yaelokre"],
   position: 0,
   ownLength: 3.38925,
   ownProgress: 3.38925,

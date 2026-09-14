@@ -5,7 +5,7 @@ export const imagineDragonsHellAndSilenceEp = {
   type: "release",
   slug: "imagine-dragons-hell-and-silence-ep",
   title: "Hell And Silence EP",
-  partOfCollections: ["imagine-dragons"],
+  partOfCollections: ["artist/imagine-dragons"],
   position: 0,
   ownLength: 22.747733,
   ownProgress: 22.747733,

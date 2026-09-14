@@ -5,7 +5,7 @@ export const kellyClarksonStrongerWhatDoesnTKillYouTheRemixes = {
   type: "release",
   slug: "kelly-clarkson-stronger-what-doesn-t-kill-you-the-remixes",
   title: "Stronger (What Doesn't Kill You) The Remixes",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 47.535533,
   ownProgress: 47.535533,

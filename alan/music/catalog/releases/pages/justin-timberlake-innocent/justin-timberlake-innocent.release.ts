@@ -5,7 +5,7 @@ export const justinTimberlakeInnocent = {
   type: "release",
   slug: "justin-timberlake-innocent",
   title: "Innocent",
-  partOfCollections: ["justin-timberlake"],
+  partOfCollections: ["artist/justin-timberlake"],
   position: 0,
   ownLength: 2.889017,
   ownProgress: 0,

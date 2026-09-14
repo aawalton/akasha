@@ -5,7 +5,7 @@ export const arianaGrandeWickedTheSoundtrack = {
   type: "release",
   slug: "ariana-grande-wicked-the-soundtrack",
   title: "Wicked: The Soundtrack",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 62.7328,
   ownProgress: 62.7328,

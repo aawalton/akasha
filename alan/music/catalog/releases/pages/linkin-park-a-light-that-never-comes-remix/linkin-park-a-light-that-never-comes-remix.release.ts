@@ -5,7 +5,7 @@ export const linkinParkALightThatNeverComesRemix = {
   type: "release",
   slug: "linkin-park-a-light-that-never-comes-remix",
   title: "A LIGHT THAT NEVER COMES REMIX",
-  partOfCollections: ["linkin-park"],
+  partOfCollections: ["artist/linkin-park"],
   position: 0,
   ownLength: 33.83815,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const siaThundercloudsMkRemix = {
   type: "release",
   slug: "sia-thunderclouds-mk-remix",
   title: "Thunderclouds (MK Remix)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 3.573767,
   ownProgress: 3.573767,

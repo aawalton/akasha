@@ -5,7 +5,7 @@ export const vinnyMarchiWeAreFuckedUnmotivationalSong = {
   type: "release",
   slug: "vinny-marchi-we-are-fucked-unmotivational-song",
   title: "We Are Fucked (unmotivational song)",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 2.8,
   ownProgress: 2.8,

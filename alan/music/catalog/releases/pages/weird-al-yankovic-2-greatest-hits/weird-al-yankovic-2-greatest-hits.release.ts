@@ -5,7 +5,7 @@ export const weirdAlYankovic2GreatestHits = {
   type: "release",
   slug: "weird-al-yankovic-2-greatest-hits",
   title: "Greatest Hits",
-  partOfCollections: ["weird-al-yankovic"],
+  partOfCollections: ["artist/weird-al-yankovic"],
   position: 0,
   ownLength: 33.885517,
   ownProgress: 0,

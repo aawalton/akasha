@@ -5,7 +5,7 @@ export const siaDanceAloneKitoRemix = {
   type: "release",
   slug: "sia-dance-alone-kito-remix",
   title: "Dance Alone (Kito Remix)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 6.036533,
   ownProgress: 6.036533,

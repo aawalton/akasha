@@ -5,7 +5,7 @@ export const theBeatles2Anthology3 = {
   type: "release",
   slug: "the-beatles-2-anthology-3",
   title: "Anthology 3",
-  partOfCollections: ["the-beatles"],
+  partOfCollections: ["artist/the-beatles"],
   position: 0,
   ownLength: 145.631483,
   ownProgress: 145.631483,

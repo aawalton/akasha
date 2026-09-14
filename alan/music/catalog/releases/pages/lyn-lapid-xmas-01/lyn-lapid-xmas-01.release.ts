@@ -5,7 +5,7 @@ export const lynLapidXmas01 = {
   type: "release",
   slug: "lyn-lapid-xmas-01",
   title: "XMAS 01",
-  partOfCollections: ["lyn-lapid"],
+  partOfCollections: ["artist/lyn-lapid"],
   position: 0,
   ownLength: 4.5855,
   ownProgress: 4.5855,

@@ -5,7 +5,7 @@ export const thePianoGuys3IAinTWorried = {
   type: "release",
   slug: "the-piano-guys-3-i-ain-t-worried",
   title: "I Ain't Worried",
-  partOfCollections: ["the-piano-guys"],
+  partOfCollections: ["artist/the-piano-guys"],
   position: 0,
   ownLength: 5.438033,
   ownProgress: 5.438033,

@@ -5,7 +5,7 @@ export const mitskiCopCar = {
   type: "release",
   slug: "mitski-cop-car",
   title: "Cop Car",
-  partOfCollections: ["mitski"],
+  partOfCollections: ["artist/mitski"],
   position: 0,
   ownLength: 3.144533,
   ownProgress: 3.144533,

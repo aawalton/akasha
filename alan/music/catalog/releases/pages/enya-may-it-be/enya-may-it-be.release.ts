@@ -5,7 +5,7 @@ export const enyaMayItBe = {
   type: "release",
   slug: "enya-may-it-be",
   title: "May It Be",
-  partOfCollections: ["enya"],
+  partOfCollections: ["artist/enya"],
   position: 0,
   ownLength: 11.123317,
   ownProgress: 11.123317,

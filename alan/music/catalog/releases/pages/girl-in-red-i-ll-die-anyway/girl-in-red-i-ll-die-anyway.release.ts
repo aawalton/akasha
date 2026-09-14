@@ -5,7 +5,7 @@ export const girlInRedILlDieAnyway = {
   type: "release",
   slug: "girl-in-red-i-ll-die-anyway",
   title: "i'll die anyway.",
-  partOfCollections: ["girl-in-red"],
+  partOfCollections: ["artist/girl-in-red"],
   position: 0,
   ownLength: 3.2102,
   ownProgress: 0,

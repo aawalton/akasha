@@ -5,7 +5,7 @@ export const japaneseBreakfastBeSweetKoreanVersion = {
   type: "release",
   slug: "japanese-breakfast-be-sweet-korean-version",
   title: "Be Sweet (Korean Version)",
-  partOfCollections: ["japanese-breakfast"],
+  partOfCollections: ["artist/japanese-breakfast"],
   position: 0,
   ownLength: 6.512383,
   ownProgress: 6.512383,

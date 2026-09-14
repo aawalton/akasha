@@ -5,7 +5,7 @@ export const emBeiholdHouseOnAHillFeatEmBeihold = {
   type: "release",
   slug: "em-beihold-house-on-a-hill-feat-em-beihold",
   title: "House on a Hill (feat. Em Beihold)",
-  partOfCollections: ["em-beihold"],
+  partOfCollections: ["artist/em-beihold"],
   position: 0,
   ownLength: 6.63265,
   ownProgress: 6.63265,

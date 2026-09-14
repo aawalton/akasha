@@ -5,7 +5,7 @@ export const siaTheGreatestFeatKendrickLamarKdaRemix = {
   type: "release",
   slug: "sia-the-greatest-feat-kendrick-lamar-kda-remix",
   title: "The Greatest (feat. Kendrick Lamar) [KDA Remix]",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 3.684883,
   ownProgress: 3.684883,

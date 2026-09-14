@@ -5,7 +5,7 @@ export const paulCardallPeacefulPiano = {
   type: "release",
   slug: "paul-cardall-peaceful-piano",
   title: "Peaceful Piano",
-  partOfCollections: ["paul-cardall"],
+  partOfCollections: ["artist/paul-cardall"],
   position: 0,
   ownLength: 63.917217,
   ownProgress: 63.917217,

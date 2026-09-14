@@ -5,7 +5,7 @@ export const greenDayTre = {
   type: "release",
   slug: "green-day-tre",
   title: "¡TRÉ!",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 46.708367,
   ownProgress: 46.708367,

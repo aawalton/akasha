@@ -5,7 +5,7 @@ export const elvisPresley2CMonEverybody = {
   type: "release",
   slug: "elvis-presley-2-c-mon-everybody",
   title: "C'mon Everybody",
-  partOfCollections: ["elvis-presley"],
+  partOfCollections: ["artist/elvis-presley"],
   position: 0,
   ownLength: 23.0979,
   ownProgress: 23.0979,

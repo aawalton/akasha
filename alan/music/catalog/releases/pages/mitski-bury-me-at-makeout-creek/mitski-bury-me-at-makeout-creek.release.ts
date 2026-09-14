@@ -5,7 +5,7 @@ export const mitskiBuryMeAtMakeoutCreek = {
   type: "release",
   slug: "mitski-bury-me-at-makeout-creek",
   title: "Bury Me At Makeout Creek",
-  partOfCollections: ["mitski"],
+  partOfCollections: ["artist/mitski"],
   position: 0,
   ownLength: 30.311067,
   ownProgress: 30.311067,

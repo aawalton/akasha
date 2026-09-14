@@ -5,7 +5,7 @@ export const jadaFacerSkinnyLove = {
   type: "release",
   slug: "jada-facer-skinny-love",
   title: "Skinny Love",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.6399,
   ownProgress: 2.6399,

@@ -5,7 +5,7 @@ export const snailMailLetSFindAnOut = {
   type: "release",
   slug: "snail-mail-let-s-find-an-out",
   title: "Let's Find an Out",
-  partOfCollections: ["snail-mail"],
+  partOfCollections: ["artist/snail-mail"],
   position: 0,
   ownLength: 2.220433,
   ownProgress: 0,

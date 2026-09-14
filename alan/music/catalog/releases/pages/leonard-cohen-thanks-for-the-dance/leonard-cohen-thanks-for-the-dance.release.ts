@@ -5,7 +5,7 @@ export const leonardCohenThanksForTheDance = {
   type: "release",
   slug: "leonard-cohen-thanks-for-the-dance",
   title: "Thanks for the Dance",
-  partOfCollections: ["leonard-cohen"],
+  partOfCollections: ["artist/leonard-cohen"],
   position: 0,
   ownLength: 29.351733,
   ownProgress: 0,

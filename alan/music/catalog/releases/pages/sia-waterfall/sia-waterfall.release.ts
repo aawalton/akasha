@@ -5,7 +5,7 @@ export const siaWaterfall = {
   type: "release",
   slug: "sia-waterfall",
   title: "Waterfall",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 3.333817,
   ownProgress: 3.333817,

@@ -5,7 +5,7 @@ export const michaelJacksonBadRemastered = {
   type: "release",
   slug: "michael-jackson-bad-remastered",
   title: "Bad (Remastered)",
-  partOfCollections: ["michael-jackson"],
+  partOfCollections: ["artist/michael-jackson"],
   position: 0,
   ownLength: 48.17465,
   ownProgress: 48.17465,

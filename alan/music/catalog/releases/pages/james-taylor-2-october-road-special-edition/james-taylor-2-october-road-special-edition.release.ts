@@ -5,7 +5,7 @@ export const jamesTaylor2OctoberRoadSpecialEdition = {
   type: "release",
   slug: "james-taylor-2-october-road-special-edition",
   title: "October Road (Special Edition)",
-  partOfCollections: ["james-taylor"],
+  partOfCollections: ["artist/james-taylor"],
   position: 0,
   ownLength: 64.671033,
   ownProgress: 64.671033,

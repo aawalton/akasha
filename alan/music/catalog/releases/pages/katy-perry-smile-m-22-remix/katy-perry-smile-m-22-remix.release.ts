@@ -5,7 +5,7 @@ export const katyPerrySmileM22Remix = {
   type: "release",
   slug: "katy-perry-smile-m-22-remix",
   title: "Smile (M-22 Remix)",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 3.01515,
   ownProgress: 3.01515,

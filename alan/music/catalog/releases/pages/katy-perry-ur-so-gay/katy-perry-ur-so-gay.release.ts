@@ -5,7 +5,7 @@ export const katyPerryUrSoGay = {
   type: "release",
   slug: "katy-perry-ur-so-gay",
   title: "Ur So Gay",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 16.96465,
   ownProgress: 16.96465,

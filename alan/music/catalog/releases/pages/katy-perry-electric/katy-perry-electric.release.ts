@@ -5,7 +5,7 @@ export const katyPerryElectric = {
   type: "release",
   slug: "katy-perry-electric",
   title: "Electric",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 3.225717,
   ownProgress: 3.225717,

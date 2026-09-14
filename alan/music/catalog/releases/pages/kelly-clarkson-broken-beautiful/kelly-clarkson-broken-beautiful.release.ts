@@ -5,7 +5,7 @@ export const kellyClarksonBrokenBeautiful = {
   type: "release",
   slug: "kelly-clarkson-broken-beautiful",
   title: "Broken & Beautiful",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 3.649133,
   ownProgress: 3.649133,

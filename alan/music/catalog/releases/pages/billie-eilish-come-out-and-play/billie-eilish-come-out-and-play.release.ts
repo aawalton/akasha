@@ -5,7 +5,7 @@ export const billieEilishComeOutAndPlay = {
   type: "release",
   slug: "billie-eilish-come-out-and-play",
   title: "come out and play",
-  partOfCollections: ["billie-eilish"],
+  partOfCollections: ["artist/billie-eilish"],
   position: 0,
   ownLength: 3.50625,
   ownProgress: 3.50625,

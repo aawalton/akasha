@@ -5,7 +5,7 @@ export const sabrinaCarpenterManchild = {
   type: "release",
   slug: "sabrina-carpenter-manchild",
   title: "Manchild",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 3.56075,
   ownProgress: 3.56075,

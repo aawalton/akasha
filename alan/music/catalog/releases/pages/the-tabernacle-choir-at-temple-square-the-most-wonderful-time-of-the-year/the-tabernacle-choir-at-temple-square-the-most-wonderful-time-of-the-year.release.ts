@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareTheMostWonderfulTimeOfTheYear = {
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-the-most-wonderful-time-of-the-year",
   title: "The Most Wonderful Time of the Year",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 69.0886,
   ownProgress: 0,

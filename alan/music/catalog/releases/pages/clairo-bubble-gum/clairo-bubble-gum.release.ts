@@ -5,7 +5,7 @@ export const clairoBubbleGum = {
   type: "release",
   slug: "clairo-bubble-gum",
   title: "Bubble Gum",
-  partOfCollections: ["clairo"],
+  partOfCollections: ["artist/clairo"],
   position: 0,
   ownLength: 2.932667,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const auroraExistForLoveRemixes = {
   type: "release",
   slug: "aurora-exist-for-love-remixes",
   title: "Exist for Love (Remixes)",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 12.4557,
   ownProgress: 12.4557,

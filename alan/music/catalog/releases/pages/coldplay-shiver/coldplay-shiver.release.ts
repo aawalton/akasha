@@ -5,7 +5,7 @@ export const coldplayShiver = {
   type: "release",
   slug: "coldplay-shiver",
   title: "Shiver",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 15.5522,
   ownProgress: 15.5522,

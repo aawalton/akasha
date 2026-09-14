@@ -5,7 +5,7 @@ export const reneeRappIThinkILikeYouBetterWhenYouReGone = {
   type: "release",
   slug: "renee-rapp-i-think-i-like-you-better-when-you-re-gone",
   title: "I Think I Like You Better When You’re Gone",
-  partOfCollections: ["renee-rapp"],
+  partOfCollections: ["artist/renee-rapp"],
   position: 0,
   ownLength: 2.3883,
   ownProgress: 2.3883,

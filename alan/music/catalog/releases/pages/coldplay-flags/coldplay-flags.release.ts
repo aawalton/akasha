@@ -5,7 +5,7 @@ export const coldplayFlags = {
   type: "release",
   slug: "coldplay-flags",
   title: "Flags",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 3.608217,
   ownProgress: 3.608217,

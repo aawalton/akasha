@@ -5,7 +5,7 @@ export const kellyClarksonPieceByPiece = {
   type: "release",
   slug: "kelly-clarkson-piece-by-piece",
   title: "Piece by Piece",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 4.295783,
   ownProgress: 4.295783,

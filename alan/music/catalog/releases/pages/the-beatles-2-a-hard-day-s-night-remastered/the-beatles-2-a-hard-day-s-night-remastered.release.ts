@@ -5,7 +5,7 @@ export const theBeatles2AHardDaySNightRemastered = {
   type: "release",
   slug: "the-beatles-2-a-hard-day-s-night-remastered",
   title: "A Hard Day's Night (Remastered)",
-  partOfCollections: ["the-beatles"],
+  partOfCollections: ["artist/the-beatles"],
   position: 0,
   ownLength: 30.194817,
   ownProgress: 30.194817,

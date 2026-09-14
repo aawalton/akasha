@@ -5,7 +5,7 @@ export const metallicaAllWithinMyHandsLiveNothingElseMattersLive = {
   type: "release",
   slug: "metallica-all-within-my-hands-live-nothing-else-matters-live",
   title: "All Within My Hands (Live) / Nothing Else Matters (Live)",
-  partOfCollections: ["metallica"],
+  partOfCollections: ["artist/metallica"],
   position: 0,
   ownLength: 12.892883,
   ownProgress: 0,

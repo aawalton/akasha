@@ -5,7 +5,7 @@ export const kellyClarksonSinceUBeenGoneJulietSVersion = {
   type: "release",
   slug: "kelly-clarkson-since-u-been-gone-juliet-s-version",
   title: "Since U Been Gone (Juliet’s Version)",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 2.827833,
   ownProgress: 2.827833,

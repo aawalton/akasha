@@ -5,7 +5,7 @@ export const ejaeInAnotherWorld = {
   type: "release",
   slug: "ejae-in-another-world",
   title: "In Another World",
-  partOfCollections: ["ejae"],
+  partOfCollections: ["artist/ejae"],
   position: 0,
   ownLength: 2.925517,
   ownProgress: 2.925517,

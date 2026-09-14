@@ -5,7 +5,7 @@ export const auroraAwakening = {
   type: "release",
   slug: "aurora-awakening",
   title: "Awakening",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 3.683017,
   ownProgress: 3.683017,

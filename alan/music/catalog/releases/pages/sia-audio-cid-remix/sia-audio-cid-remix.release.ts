@@ -5,7 +5,7 @@ export const siaAudioCidRemix = {
   type: "release",
   slug: "sia-audio-cid-remix",
   title: "Audio (CID Remix)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 2.69955,
   ownProgress: 2.69955,

@@ -5,7 +5,7 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxe = {
   type: "release",
   slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe",
   title: "Night Visions (Expanded Edition / Super Deluxe)",
-  partOfCollections: ["imagine-dragons"],
+  partOfCollections: ["artist/imagine-dragons"],
   position: 0,
   ownLength: 220.3356,
   ownProgress: 220.3356,

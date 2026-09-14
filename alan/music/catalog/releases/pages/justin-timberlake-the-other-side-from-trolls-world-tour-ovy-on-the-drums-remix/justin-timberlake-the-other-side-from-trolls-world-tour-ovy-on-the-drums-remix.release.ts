@@ -5,7 +5,7 @@ export const justinTimberlakeTheOtherSideFromTrollsWorldTourOvyOnTheDrumsRemix =
   type: "release",
   slug: "justin-timberlake-the-other-side-from-trolls-world-tour-ovy-on-the-drums-remix",
   title: "The Other Side (from Trolls World Tour) [Ovy On The Drums Remix]",
-  partOfCollections: ["justin-timberlake"],
+  partOfCollections: ["artist/justin-timberlake"],
   position: 0,
   ownLength: 3.2843,
   ownProgress: 0,

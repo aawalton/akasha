@@ -5,7 +5,7 @@ export const byuVocalPointILivedSingle = {
   type: "release",
   slug: "byu-vocal-point-i-lived-single",
   title: "I Lived - Single",
-  partOfCollections: ["byu-vocal-point"],
+  partOfCollections: ["artist/byu-vocal-point"],
   position: 0,
   ownLength: 4.038333,
   ownProgress: 0,

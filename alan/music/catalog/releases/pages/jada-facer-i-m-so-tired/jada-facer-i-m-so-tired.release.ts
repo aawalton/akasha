@@ -5,7 +5,7 @@ export const jadaFacerIMSoTired = {
   type: "release",
   slug: "jada-facer-i-m-so-tired",
   title: "i'm so tired...",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.588433,
   ownProgress: 2.588433,

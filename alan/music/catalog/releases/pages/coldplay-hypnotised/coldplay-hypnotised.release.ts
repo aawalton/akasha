@@ -5,7 +5,7 @@ export const coldplayHypnotised = {
   type: "release",
   slug: "coldplay-hypnotised",
   title: "Hypnotised",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 5.919533,
   ownProgress: 5.919533,

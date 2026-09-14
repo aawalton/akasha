@@ -5,7 +5,7 @@ export const siaItSChristmasBabyTheSnowmanRemixesEp = {
   type: "release",
   slug: "sia-it-s-christmas-baby-the-snowman-remixes-ep",
   title: "It's Christmas, Baby (The Snowman Remixes EP)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 14.1104,
   ownProgress: 14.1104,

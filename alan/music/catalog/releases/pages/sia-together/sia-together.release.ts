@@ -5,7 +5,7 @@ export const siaTogether = {
   type: "release",
   slug: "sia-together",
   title: "Together",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 3.420117,
   ownProgress: 3.420117,

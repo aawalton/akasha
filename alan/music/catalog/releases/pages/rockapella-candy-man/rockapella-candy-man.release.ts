@@ -5,7 +5,7 @@ export const rockapellaCandyMan = {
   type: "release",
   slug: "rockapella-candy-man",
   title: "Candy Man",
-  partOfCollections: ["rockapella"],
+  partOfCollections: ["artist/rockapella"],
   position: 0,
   ownLength: 2.594783,
   ownProgress: 2.594783,

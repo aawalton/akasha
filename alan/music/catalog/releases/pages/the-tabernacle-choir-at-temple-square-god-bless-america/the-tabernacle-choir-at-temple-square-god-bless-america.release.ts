@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareGodBlessAmerica = {
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-god-bless-america",
   title: "God Bless America",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 69.678517,
   ownProgress: 69.678517,

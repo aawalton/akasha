@@ -5,7 +5,7 @@ export const kellyClarksonGlow = {
   type: "release",
   slug: "kelly-clarkson-glow",
   title: "Glow",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 3.30465,
   ownProgress: 3.30465,

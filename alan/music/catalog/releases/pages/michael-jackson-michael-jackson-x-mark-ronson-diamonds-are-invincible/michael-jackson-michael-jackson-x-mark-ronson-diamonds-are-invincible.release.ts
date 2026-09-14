@@ -5,7 +5,7 @@ export const michaelJacksonMichaelJacksonXMarkRonsonDiamondsAreInvincible = {
   type: "release",
   slug: "michael-jackson-michael-jackson-x-mark-ronson-diamonds-are-invincible",
   title: "Michael Jackson x Mark Ronson: Diamonds are Invincible",
-  partOfCollections: ["michael-jackson"],
+  partOfCollections: ["artist/michael-jackson"],
   position: 0,
   ownLength: 5.000433,
   ownProgress: 5.000433,

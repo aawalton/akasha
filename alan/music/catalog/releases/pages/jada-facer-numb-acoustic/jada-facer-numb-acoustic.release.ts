@@ -5,7 +5,7 @@ export const jadaFacerNumbAcoustic = {
   type: "release",
   slug: "jada-facer-numb-acoustic",
   title: "Numb (Acoustic)",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.701467,
   ownProgress: 2.701467,

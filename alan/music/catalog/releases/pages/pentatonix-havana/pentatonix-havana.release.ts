@@ -5,7 +5,7 @@ export const pentatonixHavana = {
   type: "release",
   slug: "pentatonix-havana",
   title: "Havana",
-  partOfCollections: ["pentatonix"],
+  partOfCollections: ["artist/pentatonix"],
   position: 0,
   ownLength: 2.568383,
   ownProgress: 2.568383,

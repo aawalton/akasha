@@ -5,7 +5,7 @@ export const katyPerryOneOfTheBoys15thAnniversaryEdition = {
   type: "release",
   slug: "katy-perry-one-of-the-boys-15th-anniversary-edition",
   title: "One Of The Boys (15th Anniversary Edition)",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 50.569133,
   ownProgress: 50.569133,

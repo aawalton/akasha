@@ -5,7 +5,7 @@ export const lindseyStirling21OriginalOneCover = {
   type: "release",
   slug: "lindsey-stirling-2-1-original-one-cover",
   title: "1 Original, ONE Cover",
-  partOfCollections: ["lindsey-stirling"],
+  partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
   ownLength: 7.500433,
   ownProgress: 7.500433,

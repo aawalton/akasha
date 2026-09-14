@@ -5,7 +5,7 @@ export const phoebeBridgersSidelines = {
   type: "release",
   slug: "phoebe-bridgers-sidelines",
   title: "Sidelines",
-  partOfCollections: ["phoebe-bridgers"],
+  partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
   ownLength: 4.4062,
   ownProgress: 4.4062,

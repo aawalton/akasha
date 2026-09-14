@@ -5,7 +5,7 @@ export const coldplayFeelslikeimfallinginlove = {
   type: "release",
   slug: "coldplay-feelslikeimfallinginlove",
   title: "feelslikeimfallinginlove",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 3.963383,
   ownProgress: 3.963383,

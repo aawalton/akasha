@@ -5,7 +5,7 @@ export const linkinParkHybridTheoryLiveAroundTheWorld = {
   type: "release",
   slug: "linkin-park-hybrid-theory-live-around-the-world",
   title: "Hybrid Theory Live Around the World",
-  partOfCollections: ["linkin-park"],
+  partOfCollections: ["artist/linkin-park"],
   position: 0,
   ownLength: 29.076617,
   ownProgress: 0,

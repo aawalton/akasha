@@ -5,7 +5,7 @@ export const taylorSwift2Ronan = {
   type: "release",
   slug: "taylor-swift-2-ronan",
   title: "Ronan",
-  partOfCollections: ["taylor-swift"],
+  partOfCollections: ["artist/taylor-swift"],
   position: 0,
   ownLength: 4.421767,
   ownProgress: 4.421767,

@@ -5,7 +5,7 @@ export const taylorSwift2Opalite = {
   type: "release",
   slug: "taylor-swift-2-opalite",
   title: "Opalite",
-  partOfCollections: ["taylor-swift"],
+  partOfCollections: ["artist/taylor-swift"],
   position: 0,
   ownLength: 7.968233,
   ownProgress: 0,

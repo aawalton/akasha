@@ -5,7 +5,7 @@ export const imagineDragonsDareU = {
   type: "release",
   slug: "imagine-dragons-dare-u",
   title: "Dare U",
-  partOfCollections: ["imagine-dragons"],
+  partOfCollections: ["artist/imagine-dragons"],
   position: 0,
   ownLength: 2.365367,
   ownProgress: 2.365367,

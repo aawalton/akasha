@@ -5,7 +5,7 @@ export const sabrinaCarpenterSkinnyDippingAcoustic = {
   type: "release",
   slug: "sabrina-carpenter-skinny-dipping-acoustic",
   title: "skinny dipping (Acoustic)",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 6.177283,
   ownProgress: 6.177283,

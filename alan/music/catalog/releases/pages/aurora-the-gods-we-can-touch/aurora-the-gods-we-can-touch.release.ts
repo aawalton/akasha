@@ -5,7 +5,7 @@ export const auroraTheGodsWeCanTouch = {
   type: "release",
   slug: "aurora-the-gods-we-can-touch",
   title: "The Gods We Can Touch",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 50.014733,
   ownProgress: 50.014733,

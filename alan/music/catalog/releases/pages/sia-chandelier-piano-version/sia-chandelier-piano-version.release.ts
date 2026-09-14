@@ -5,7 +5,7 @@ export const siaChandelierPianoVersion = {
   type: "release",
   slug: "sia-chandelier-piano-version",
   title: "Chandelier (Piano Version)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 4.006667,
   ownProgress: 4.006667,

@@ -5,7 +5,7 @@ export const backstreetBoys2InAWorldLikeThis = {
   type: "release",
   slug: "backstreet-boys-2-in-a-world-like-this",
   title: "In a World Like This",
-  partOfCollections: ["backstreet-boys"],
+  partOfCollections: ["artist/backstreet-boys"],
   position: 0,
   ownLength: 45.8276,
   ownProgress: 45.8276,

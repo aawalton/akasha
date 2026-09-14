@@ -5,7 +5,7 @@ export const florenceTheMachineHighAsHope = {
   type: "release",
   slug: "florence-the-machine-high-as-hope",
   title: "High As Hope",
-  partOfCollections: ["florence-the-machine"],
+  partOfCollections: ["artist/florence-the-machine"],
   position: 0,
   ownLength: 40.039083,
   ownProgress: 40.039083,

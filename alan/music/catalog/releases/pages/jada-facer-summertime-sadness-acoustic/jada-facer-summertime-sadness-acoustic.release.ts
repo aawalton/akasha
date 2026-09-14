@@ -5,7 +5,7 @@ export const jadaFacerSummertimeSadnessAcoustic = {
   type: "release",
   slug: "jada-facer-summertime-sadness-acoustic",
   title: "Summertime Sadness (Acoustic)",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.656883,
   ownProgress: 2.656883,

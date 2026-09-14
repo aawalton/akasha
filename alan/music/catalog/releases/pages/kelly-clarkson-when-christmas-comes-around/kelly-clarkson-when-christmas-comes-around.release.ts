@@ -5,7 +5,7 @@ export const kellyClarksonWhenChristmasComesAround = {
   type: "release",
   slug: "kelly-clarkson-when-christmas-comes-around",
   title: "When Christmas Comes Around...",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 48.011767,
   ownProgress: 48.011767,

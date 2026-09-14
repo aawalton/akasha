@@ -5,7 +5,7 @@ export const sabrinaCarpenterCloudsWithSabrinaCarpenter = {
   type: "release",
   slug: "sabrina-carpenter-clouds-with-sabrina-carpenter",
   title: "Clouds (with Sabrina Carpenter)",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 3.081717,
   ownProgress: 3.081717,

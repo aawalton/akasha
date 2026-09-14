@@ -5,7 +5,7 @@ export const coldplayASkyFullOfStarsHardwellRemix = {
   type: "release",
   slug: "coldplay-a-sky-full-of-stars-hardwell-remix",
   title: "A Sky Full of Stars (Hardwell Remix)",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 5.218733,
   ownProgress: 5.218733,

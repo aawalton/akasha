@@ -5,7 +5,7 @@ export const kellyClarksonHeatEasyStarAllStarsMichaelGoldwasserReggaeRemix = {
   type: "release",
   slug: "kelly-clarkson-heat-easy-star-all-stars-michael-goldwasser-reggae-remix",
   title: "Heat (Easy Star All-Stars & Michael Goldwasser Reggae Remix)",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 2.9451,
   ownProgress: 2.9451,

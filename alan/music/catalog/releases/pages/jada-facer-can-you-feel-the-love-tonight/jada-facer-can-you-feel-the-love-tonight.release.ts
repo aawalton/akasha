@@ -5,7 +5,7 @@ export const jadaFacerCanYouFeelTheLoveTonight = {
   type: "release",
   slug: "jada-facer-can-you-feel-the-love-tonight",
   title: "Can You Feel The Love Tonight",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 4.059817,
   ownProgress: 4.059817,

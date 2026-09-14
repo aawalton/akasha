@@ -5,7 +5,7 @@ export const jennaRaineTechnicolor = {
   type: "release",
   slug: "jenna-raine-technicolor",
   title: "Technicolor",
-  partOfCollections: ["jenna-raine"],
+  partOfCollections: ["artist/jenna-raine"],
   position: 0,
   ownLength: 2.908317,
   ownProgress: 2.908317,

@@ -5,7 +5,7 @@ export const kellyClarksonRollingStoneOriginal = {
   type: "release",
   slug: "kelly-clarkson-rolling-stone-original",
   title: "Rolling Stone Original",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 10.612217,
   ownProgress: 10.612217,

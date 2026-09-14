@@ -5,7 +5,7 @@ export const greenDayOhYeah = {
   type: "release",
   slug: "green-day-oh-yeah",
   title: "Oh Yeah!",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 7.257683,
   ownProgress: 0,

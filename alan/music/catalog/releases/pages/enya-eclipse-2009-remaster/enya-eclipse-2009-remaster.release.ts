@@ -5,7 +5,7 @@ export const enyaEclipse2009Remaster = {
   type: "release",
   slug: "enya-eclipse-2009-remaster",
   title: "Eclipse (2009 Remaster)",
-  partOfCollections: ["enya"],
+  partOfCollections: ["artist/enya"],
   position: 0,
   ownLength: 13.47745,
   ownProgress: 13.47745,

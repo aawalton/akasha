@@ -5,7 +5,7 @@ export const pentatonixAttention = {
   type: "release",
   slug: "pentatonix-attention",
   title: "Attention",
-  partOfCollections: ["pentatonix"],
+  partOfCollections: ["artist/pentatonix"],
   position: 0,
   ownLength: 2.858667,
   ownProgress: 2.858667,

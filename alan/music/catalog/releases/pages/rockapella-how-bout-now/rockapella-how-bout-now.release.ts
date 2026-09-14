@@ -5,7 +5,7 @@ export const rockapellaHowBoutNow = {
   type: "release",
   slug: "rockapella-how-bout-now",
   title: "How Bout Now?",
-  partOfCollections: ["rockapella"],
+  partOfCollections: ["artist/rockapella"],
   position: 0,
   ownLength: 3.505433,
   ownProgress: 3.505433,

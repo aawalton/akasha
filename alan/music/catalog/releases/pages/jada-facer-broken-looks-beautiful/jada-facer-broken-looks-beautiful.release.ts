@@ -5,7 +5,7 @@ export const jadaFacerBrokenLooksBeautiful = {
   type: "release",
   slug: "jada-facer-broken-looks-beautiful",
   title: "Broken Looks Beautiful",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.57595,
   ownProgress: 3.57595,

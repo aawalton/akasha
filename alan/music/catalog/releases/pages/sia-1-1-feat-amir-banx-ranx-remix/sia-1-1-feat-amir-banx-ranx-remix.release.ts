@@ -5,7 +5,7 @@ export const sia11FeatAmirBanxRanxRemix = {
   type: "release",
   slug: "sia-1-1-feat-amir-banx-ranx-remix",
   title: "1+1 (feat. Amir) [Banx & Ranx Remix]",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 3.270667,
   ownProgress: 3.270667,

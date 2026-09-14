@@ -5,7 +5,7 @@ export const greenDayStrayHeart = {
   type: "release",
   slug: "green-day-stray-heart",
   title: "Stray Heart",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 3.739333,
   ownProgress: 3.739333,

@@ -5,7 +5,7 @@ export const alexWarrenOrdinary = {
   type: "release",
   slug: "alex-warren-ordinary",
   title: "Ordinary",
-  partOfCollections: ["alex-warren"],
+  partOfCollections: ["artist/alex-warren"],
   position: 0,
   ownLength: 3.116067,
   ownProgress: 3.116067,

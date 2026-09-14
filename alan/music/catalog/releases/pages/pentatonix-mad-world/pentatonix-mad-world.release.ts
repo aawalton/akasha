@@ -5,7 +5,7 @@ export const pentatonixMadWorld = {
   type: "release",
   slug: "pentatonix-mad-world",
   title: "Mad World",
-  partOfCollections: ["pentatonix"],
+  partOfCollections: ["artist/pentatonix"],
   position: 0,
   ownLength: 6.3776,
   ownProgress: 6.3776,

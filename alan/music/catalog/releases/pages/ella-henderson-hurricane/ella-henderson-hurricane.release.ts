@@ -5,7 +5,7 @@ export const ellaHendersonHurricane = {
   type: "release",
   slug: "ella-henderson-hurricane",
   title: "Hurricane",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 6.2962,
   ownProgress: 6.2962,

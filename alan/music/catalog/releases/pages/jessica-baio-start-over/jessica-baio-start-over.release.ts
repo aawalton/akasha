@@ -5,7 +5,7 @@ export const jessicaBaioStartOver = {
   type: "release",
   slug: "jessica-baio-start-over",
   title: "start over",
-  partOfCollections: ["jessica-baio"],
+  partOfCollections: ["artist/jessica-baio"],
   position: 0,
   ownLength: 3.415133,
   ownProgress: 3.415133,

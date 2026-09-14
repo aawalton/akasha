@@ -5,7 +5,7 @@ export const florenceTheMachineMyLove = {
   type: "release",
   slug: "florence-the-machine-my-love",
   title: "My Love",
-  partOfCollections: ["florence-the-machine"],
+  partOfCollections: ["artist/florence-the-machine"],
   position: 0,
   ownLength: 6.815317,
   ownProgress: 6.815317,

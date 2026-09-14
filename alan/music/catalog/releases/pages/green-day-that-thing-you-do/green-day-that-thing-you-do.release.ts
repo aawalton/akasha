@@ -5,7 +5,7 @@ export const greenDayThatThingYouDo = {
   type: "release",
   slug: "green-day-that-thing-you-do",
   title: "That Thing You Do!",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 2.81,
   ownProgress: 0,

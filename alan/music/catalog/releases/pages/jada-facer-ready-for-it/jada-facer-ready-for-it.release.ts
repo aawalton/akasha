@@ -5,7 +5,7 @@ export const jadaFacerReadyForIt = {
   type: "release",
   slug: "jada-facer-ready-for-it",
   title: "...Ready For It?",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.299333,
   ownProgress: 2.299333,

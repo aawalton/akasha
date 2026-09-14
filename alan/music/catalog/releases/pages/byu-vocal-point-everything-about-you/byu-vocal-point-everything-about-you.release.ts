@@ -5,7 +5,7 @@ export const byuVocalPointEverythingAboutYou = {
   type: "release",
   slug: "byu-vocal-point-everything-about-you",
   title: "Everything About You",
-  partOfCollections: ["byu-vocal-point"],
+  partOfCollections: ["artist/byu-vocal-point"],
   position: 0,
   ownLength: 3.2907,
   ownProgress: 0,

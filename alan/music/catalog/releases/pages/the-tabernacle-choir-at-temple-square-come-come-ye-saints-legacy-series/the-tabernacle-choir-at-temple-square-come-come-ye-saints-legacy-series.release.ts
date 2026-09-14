@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareComeComeYeSaintsLegacySeries = {
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-come-come-ye-saints-legacy-series",
   title: "Come, Come, Ye Saints (Legacy Series)",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 58.5693,
   ownProgress: 0,

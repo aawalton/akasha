@@ -5,7 +5,7 @@ export const siaIfTheEarthIsSpinningJamesHurrKarstenSollorsRemix = {
   type: "release",
   slug: "sia-if-the-earth-is-spinning-james-hurr-karsten-sollors-remix",
   title: "If the Earth is Spinning (James Hurr & Karsten Sollors Remix)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 3.168,
   ownProgress: 3.168,

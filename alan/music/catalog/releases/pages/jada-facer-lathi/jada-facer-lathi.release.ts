@@ -5,7 +5,7 @@ export const jadaFacerLathi = {
   type: "release",
   slug: "jada-facer-lathi",
   title: "LATHI",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.31,
   ownProgress: 3.31,

@@ -5,7 +5,7 @@ export const enyaPortraitShortVersion = {
   type: "release",
   slug: "enya-portrait-short-version",
   title: "Portrait (Short Version)",
-  partOfCollections: ["enya"],
+  partOfCollections: ["artist/enya"],
   position: 0,
   ownLength: 11.928567,
   ownProgress: 11.928567,

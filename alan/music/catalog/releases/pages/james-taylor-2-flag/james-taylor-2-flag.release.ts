@@ -5,7 +5,7 @@ export const jamesTaylor2Flag = {
   type: "release",
   slug: "james-taylor-2-flag",
   title: "Flag",
-  partOfCollections: ["james-taylor"],
+  partOfCollections: ["artist/james-taylor"],
   position: 0,
   ownLength: 42.551267,
   ownProgress: 42.551267,

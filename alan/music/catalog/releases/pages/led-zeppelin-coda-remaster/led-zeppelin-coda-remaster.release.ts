@@ -5,7 +5,7 @@ export const ledZeppelinCodaRemaster = {
   type: "release",
   slug: "led-zeppelin-coda-remaster",
   title: "Coda (Remaster)",
-  partOfCollections: ["led-zeppelin"],
+  partOfCollections: ["artist/led-zeppelin"],
   position: 0,
   ownLength: 33.095517,
   ownProgress: 0,

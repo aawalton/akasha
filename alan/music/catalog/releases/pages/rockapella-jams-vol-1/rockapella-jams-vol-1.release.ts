@@ -5,7 +5,7 @@ export const rockapellaJamsVol1 = {
   type: "release",
   slug: "rockapella-jams-vol-1",
   title: "Jams, Vol. 1",
-  partOfCollections: ["rockapella"],
+  partOfCollections: ["artist/rockapella"],
   position: 0,
   ownLength: 45.1154,
   ownProgress: 45.1154,

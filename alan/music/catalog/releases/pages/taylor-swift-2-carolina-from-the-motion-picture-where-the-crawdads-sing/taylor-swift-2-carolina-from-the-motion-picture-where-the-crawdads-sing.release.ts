@@ -5,7 +5,7 @@ export const taylorSwift2CarolinaFromTheMotionPictureWhereTheCrawdadsSing = {
   type: "release",
   slug: "taylor-swift-2-carolina-from-the-motion-picture-where-the-crawdads-sing",
   title: "Carolina (From The Motion Picture “Where The Crawdads Sing”)",
-  partOfCollections: ["taylor-swift"],
+  partOfCollections: ["artist/taylor-swift"],
   position: 0,
   ownLength: 7.1397,
   ownProgress: 7.1397,

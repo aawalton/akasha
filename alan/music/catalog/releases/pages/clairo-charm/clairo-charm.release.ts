@@ -5,7 +5,7 @@ export const clairoCharm = {
   type: "release",
   slug: "clairo-charm",
   title: "Charm",
-  partOfCollections: ["clairo"],
+  partOfCollections: ["artist/clairo"],
   position: 0,
   ownLength: 38.1186,
   ownProgress: 0,

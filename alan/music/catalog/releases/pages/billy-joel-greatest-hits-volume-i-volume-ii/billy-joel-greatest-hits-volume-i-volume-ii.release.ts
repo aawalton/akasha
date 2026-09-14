@@ -5,7 +5,7 @@ export const billyJoelGreatestHitsVolumeIVolumeIi = {
   type: "release",
   slug: "billy-joel-greatest-hits-volume-i-volume-ii",
   title: "Greatest Hits Volume I & Volume II",
-  partOfCollections: ["billy-joel"],
+  partOfCollections: ["artist/billy-joel"],
   position: 0,
   ownLength: 113.7434,
   ownProgress: 0,

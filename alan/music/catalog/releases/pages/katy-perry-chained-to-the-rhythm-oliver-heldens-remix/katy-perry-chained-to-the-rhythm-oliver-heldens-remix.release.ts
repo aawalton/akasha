@@ -5,7 +5,7 @@ export const katyPerryChainedToTheRhythmOliverHeldensRemix = {
   type: "release",
   slug: "katy-perry-chained-to-the-rhythm-oliver-heldens-remix",
   title: "Chained To The Rhythm (Oliver Heldens Remix)",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 4.616133,
   ownProgress: 4.616133,

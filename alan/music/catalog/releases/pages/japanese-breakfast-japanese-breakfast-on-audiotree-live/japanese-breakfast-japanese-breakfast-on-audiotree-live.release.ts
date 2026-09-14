@@ -5,7 +5,7 @@ export const japaneseBreakfastJapaneseBreakfastOnAudiotreeLive = {
   type: "release",
   slug: "japanese-breakfast-japanese-breakfast-on-audiotree-live",
   title: "Japanese Breakfast on Audiotree Live",
-  partOfCollections: ["japanese-breakfast"],
+  partOfCollections: ["artist/japanese-breakfast"],
   position: 0,
   ownLength: 19.341133,
   ownProgress: 19.341133,

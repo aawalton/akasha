@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareAroundTheWorldBestLovedFavorites = 
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-around-the-world-best-loved-favorites",
   title: "Around the World - Best Loved Favorites",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 73.962283,
   ownProgress: 73.962283,

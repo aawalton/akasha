@@ -5,7 +5,7 @@ export const elvisPresley2RoustaboutOriginalSoundtrack = {
   type: "release",
   slug: "elvis-presley-2-roustabout-original-soundtrack",
   title: "Roustabout (Original Soundtrack)",
-  partOfCollections: ["elvis-presley"],
+  partOfCollections: ["artist/elvis-presley"],
   position: 0,
   ownLength: 20.100167,
   ownProgress: 20.100167,

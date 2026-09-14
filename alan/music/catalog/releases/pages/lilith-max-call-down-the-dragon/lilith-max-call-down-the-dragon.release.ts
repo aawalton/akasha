@@ -5,7 +5,7 @@ export const lilithMaxCallDownTheDragon = {
   type: "release",
   slug: "lilith-max-call-down-the-dragon",
   title: "Call Down the Dragon",
-  partOfCollections: ["lilith-max"],
+  partOfCollections: ["artist/lilith-max"],
   position: 0,
   ownLength: 15.76785,
   ownProgress: 15.76785,

@@ -5,7 +5,7 @@ export const coldplayMoonMusic = {
   type: "release",
   slug: "coldplay-moon-music",
   title: "Moon Music",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 44.005,
   ownProgress: 44.005,

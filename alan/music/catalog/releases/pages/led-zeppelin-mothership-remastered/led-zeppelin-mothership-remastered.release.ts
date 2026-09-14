@@ -5,7 +5,7 @@ export const ledZeppelinMothershipRemastered = {
   type: "release",
   slug: "led-zeppelin-mothership-remastered",
   title: "Mothership (Remastered)",
-  partOfCollections: ["led-zeppelin"],
+  partOfCollections: ["artist/led-zeppelin"],
   position: 0,
   ownLength: 136.345917,
   ownProgress: 0,

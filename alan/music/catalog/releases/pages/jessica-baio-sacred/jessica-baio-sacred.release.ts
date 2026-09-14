@@ -5,7 +5,7 @@ export const jessicaBaioSacred = {
   type: "release",
   slug: "jessica-baio-sacred",
   title: "SACRED",
-  partOfCollections: ["jessica-baio"],
+  partOfCollections: ["artist/jessica-baio"],
   position: 0,
   ownLength: 23.746033,
   ownProgress: 23.746033,

@@ -5,7 +5,7 @@ export const theBeatles2NowAndThen = {
   type: "release",
   slug: "the-beatles-2-now-and-then",
   title: "Now And Then",
-  partOfCollections: ["the-beatles"],
+  partOfCollections: ["artist/the-beatles"],
   position: 0,
   ownLength: 6.52665,
   ownProgress: 6.52665,

@@ -5,7 +5,7 @@ export const elvisPresley2FrankieJohnny = {
   type: "release",
   slug: "elvis-presley-2-frankie-johnny",
   title: "Frankie & Johnny",
-  partOfCollections: ["elvis-presley"],
+  partOfCollections: ["artist/elvis-presley"],
   position: 0,
   ownLength: 26.479267,
   ownProgress: 26.479267,

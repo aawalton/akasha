@@ -5,7 +5,7 @@ export const justinTimberlakeItTakesTwoFeatEricAndreDaveedDiggsKidCudiTrolls = {
   type: "release",
   slug: "justin-timberlake-it-takes-two-feat-eric-andre-daveed-diggs-kid-cudi-trolls",
   title: "It Takes Two (feat. Eric Andre, Daveed Diggs, Kid Cudi & Trolls)",
-  partOfCollections: ["justin-timberlake"],
+  partOfCollections: ["artist/justin-timberlake"],
   position: 0,
   ownLength: 3.652217,
   ownProgress: 0,

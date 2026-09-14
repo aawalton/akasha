@@ -5,7 +5,7 @@ export const lynLapidProducerMan = {
   type: "release",
   slug: "lyn-lapid-producer-man",
   title: "Producer Man",
-  partOfCollections: ["lyn-lapid"],
+  partOfCollections: ["artist/lyn-lapid"],
   position: 0,
   ownLength: 2.3612,
   ownProgress: 2.3612,

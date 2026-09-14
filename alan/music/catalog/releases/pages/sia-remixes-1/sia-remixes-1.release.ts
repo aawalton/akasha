@@ -5,7 +5,7 @@ export const siaRemixes1 = {
   type: "release",
   slug: "sia-remixes-1",
   title: "Remixes 1",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 21.2233,
   ownProgress: 21.2233,

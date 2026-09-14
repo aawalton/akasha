@@ -5,7 +5,7 @@ export const imagineDragonsFollowYouCutthroat = {
   type: "release",
   slug: "imagine-dragons-follow-you-cutthroat",
   title: "Follow You / Cutthroat",
-  partOfCollections: ["imagine-dragons"],
+  partOfCollections: ["artist/imagine-dragons"],
   position: 0,
   ownLength: 5.7564,
   ownProgress: 5.7564,

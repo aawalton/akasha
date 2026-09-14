@@ -5,7 +5,7 @@ export const siaFameWonTLoveYouFeatParisHilton = {
   type: "release",
   slug: "sia-fame-won-t-love-you-feat-paris-hilton",
   title: "Fame Won’t Love You (feat. Paris Hilton)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 3.328133,
   ownProgress: 3.328133,

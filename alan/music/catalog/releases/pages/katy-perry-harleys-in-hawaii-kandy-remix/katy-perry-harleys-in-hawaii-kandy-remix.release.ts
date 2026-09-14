@@ -5,7 +5,7 @@ export const katyPerryHarleysInHawaiiKandyRemix = {
   type: "release",
   slug: "katy-perry-harleys-in-hawaii-kandy-remix",
   title: "Harleys In Hawaii (KANDY Remix)",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 2.75015,
   ownProgress: 2.75015,

@@ -5,7 +5,7 @@ export const jessicaBaioWhatAreYouAfraidOf = {
   type: "release",
   slug: "jessica-baio-what-are-you-afraid-of",
   title: "what are you afraid of?",
-  partOfCollections: ["jessica-baio"],
+  partOfCollections: ["artist/jessica-baio"],
   position: 0,
   ownLength: 10.087917,
   ownProgress: 10.087917,

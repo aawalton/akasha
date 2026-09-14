@@ -5,7 +5,7 @@ export const siaFlamesRemixes2 = {
   type: "release",
   slug: "sia-flames-remixes-2",
   title: "Flames (Remixes 2)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 13.776667,
   ownProgress: 13.776667,

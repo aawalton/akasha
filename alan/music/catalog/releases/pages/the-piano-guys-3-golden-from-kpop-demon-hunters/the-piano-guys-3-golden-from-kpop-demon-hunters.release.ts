@@ -5,7 +5,7 @@ export const thePianoGuys3GoldenFromKpopDemonHunters = {
   type: "release",
   slug: "the-piano-guys-3-golden-from-kpop-demon-hunters",
   title: 'Golden (From "KPop Demon Hunters")',
-  partOfCollections: ["the-piano-guys"],
+  partOfCollections: ["artist/the-piano-guys"],
   position: 0,
   ownLength: 3.25145,
   ownProgress: 3.25145,

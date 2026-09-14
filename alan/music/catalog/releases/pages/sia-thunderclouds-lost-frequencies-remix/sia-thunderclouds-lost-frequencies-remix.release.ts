@@ -5,7 +5,7 @@ export const siaThundercloudsLostFrequenciesRemix = {
   type: "release",
   slug: "sia-thunderclouds-lost-frequencies-remix",
   title: "Thunderclouds (Lost Frequencies Remix)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 3.308217,
   ownProgress: 3.308217,

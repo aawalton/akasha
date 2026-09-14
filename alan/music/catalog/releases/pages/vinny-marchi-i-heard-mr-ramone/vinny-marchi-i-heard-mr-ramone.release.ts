@@ -5,7 +5,7 @@ export const vinnyMarchiIHeardMrRamone = {
   type: "release",
   slug: "vinny-marchi-i-heard-mr-ramone",
   title: "I Heard Mr. Ramone",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 3.50075,
   ownProgress: 3.50075,

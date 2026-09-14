@@ -5,7 +5,7 @@ export const auroraADifferentKindOfHumanStepIi = {
   type: "release",
   slug: "aurora-a-different-kind-of-human-step-ii",
   title: "A Different Kind Of Human (Step II)",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 40.1452,
   ownProgress: 40.1452,

@@ -5,7 +5,7 @@ export const emeiCrazyStupidLove = {
   type: "release",
   slug: "emei-crazy-stupid-love",
   title: "Crazy Stupid Love",
-  partOfCollections: ["emei"],
+  partOfCollections: ["artist/emei"],
   position: 0,
   ownLength: 2.60555,
   ownProgress: 2.60555,

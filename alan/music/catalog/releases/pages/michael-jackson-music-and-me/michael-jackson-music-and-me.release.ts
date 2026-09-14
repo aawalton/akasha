@@ -5,7 +5,7 @@ export const michaelJacksonMusicAndMe = {
   type: "release",
   slug: "michael-jackson-music-and-me",
   title: "Music and Me",
-  partOfCollections: ["michael-jackson"],
+  partOfCollections: ["artist/michael-jackson"],
   position: 0,
   ownLength: 32.238617,
   ownProgress: 32.238617,

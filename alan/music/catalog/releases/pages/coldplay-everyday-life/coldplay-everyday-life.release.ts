@@ -5,7 +5,7 @@ export const coldplayEverydayLife = {
   type: "release",
   slug: "coldplay-everyday-life",
   title: "Everyday Life",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 52.936583,
   ownProgress: 52.936583,

@@ -5,7 +5,7 @@ export const thePianoGuys3Live = {
   type: "release",
   slug: "the-piano-guys-3-live",
   title: "Live!",
-  partOfCollections: ["the-piano-guys"],
+  partOfCollections: ["artist/the-piano-guys"],
   position: 0,
   ownLength: 55.288567,
   ownProgress: 55.288567,

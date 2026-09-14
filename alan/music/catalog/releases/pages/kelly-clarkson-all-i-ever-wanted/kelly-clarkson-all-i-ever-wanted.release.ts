@@ -5,7 +5,7 @@ export const kellyClarksonAllIEverWanted = {
   type: "release",
   slug: "kelly-clarkson-all-i-ever-wanted",
   title: "All I Ever Wanted",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 58.874117,
   ownProgress: 58.874117,

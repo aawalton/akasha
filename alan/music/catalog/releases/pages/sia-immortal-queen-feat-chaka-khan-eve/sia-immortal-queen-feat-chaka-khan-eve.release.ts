@@ -5,7 +5,7 @@ export const siaImmortalQueenFeatChakaKhanEve = {
   type: "release",
   slug: "sia-immortal-queen-feat-chaka-khan-eve",
   title: "Immortal Queen (feat. Chaka Khan & Eve)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 3.535,
   ownProgress: 3.535,

@@ -5,7 +5,7 @@ export const ellaHendersonHoldMeCloseFeatEllaHenderson = {
   type: "release",
   slug: "ella-henderson-hold-me-close-feat-ella-henderson",
   title: "Hold Me Close (feat. Ella Henderson)",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 3.095833,
   ownProgress: 3.095833,

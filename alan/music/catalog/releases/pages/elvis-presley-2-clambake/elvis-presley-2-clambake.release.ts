@@ -5,7 +5,7 @@ export const elvisPresley2Clambake = {
   type: "release",
   slug: "elvis-presley-2-clambake",
   title: "Clambake",
-  partOfCollections: ["elvis-presley"],
+  partOfCollections: ["artist/elvis-presley"],
   position: 0,
   ownLength: 29.593933,
   ownProgress: 29.593933,

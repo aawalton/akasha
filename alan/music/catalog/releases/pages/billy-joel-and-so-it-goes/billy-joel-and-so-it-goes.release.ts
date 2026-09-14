@@ -5,7 +5,7 @@ export const billyJoelAndSoItGoes = {
   type: "release",
   slug: "billy-joel-and-so-it-goes",
   title: "And So It Goes",
-  partOfCollections: ["billy-joel"],
+  partOfCollections: ["artist/billy-joel"],
   position: 0,
   ownLength: 441.355733,
   ownProgress: 0,

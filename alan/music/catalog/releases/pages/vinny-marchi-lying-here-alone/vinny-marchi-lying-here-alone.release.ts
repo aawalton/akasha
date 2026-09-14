@@ -5,7 +5,7 @@ export const vinnyMarchiLyingHereAlone = {
   type: "release",
   slug: "vinny-marchi-lying-here-alone",
   title: "LYING HERE ALONE",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 2.67385,
   ownProgress: 2.67385,

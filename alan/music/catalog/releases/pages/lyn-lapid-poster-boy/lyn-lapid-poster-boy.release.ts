@@ -5,7 +5,7 @@ export const lynLapidPosterBoy = {
   type: "release",
   slug: "lyn-lapid-poster-boy",
   title: "poster boy",
-  partOfCollections: ["lyn-lapid"],
+  partOfCollections: ["artist/lyn-lapid"],
   position: 0,
   ownLength: 2.771717,
   ownProgress: 2.771717,

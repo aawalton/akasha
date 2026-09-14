@@ -5,7 +5,7 @@ export const auroraRunningWithTheWolvesWolfwalkersEdition = {
   type: "release",
   slug: "aurora-running-with-the-wolves-wolfwalkers-edition",
   title: "Running with the Wolves (Wolfwalkers Edition)",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 2.775767,
   ownProgress: 2.775767,

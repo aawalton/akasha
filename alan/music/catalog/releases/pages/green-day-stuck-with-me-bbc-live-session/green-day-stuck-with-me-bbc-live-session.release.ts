@@ -5,7 +5,7 @@ export const greenDayStuckWithMeBbcLiveSession = {
   type: "release",
   slug: "green-day-stuck-with-me-bbc-live-session",
   title: "Stuck with Me (BBC Live Session)",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 2.305383,
   ownProgress: 0,

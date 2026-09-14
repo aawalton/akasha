@@ -5,7 +5,7 @@ export const taylorSwift2WildestDreamsTaylorSVersion = {
   type: "release",
   slug: "taylor-swift-2-wildest-dreams-taylor-s-version",
   title: "Wildest Dreams (Taylor's Version)",
-  partOfCollections: ["taylor-swift"],
+  partOfCollections: ["artist/taylor-swift"],
   position: 0,
   ownLength: 3.673883,
   ownProgress: 3.673883,

@@ -5,7 +5,7 @@ export const greenDayAmericanIdiot20thAnniversaryDeluxeEdition = {
   type: "release",
   slug: "green-day-american-idiot-20th-anniversary-deluxe-edition",
   title: "American Idiot (20th Anniversary Deluxe Edition)",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 252.713467,
   ownProgress: 0,

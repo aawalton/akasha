@@ -5,7 +5,7 @@ export const ellaHendersonTakeCareOfYouNathanDaweRemix = {
   type: "release",
   slug: "ella-henderson-take-care-of-you-nathan-dawe-remix",
   title: "Take Care of You (Nathan Dawe Remix)",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 3.3097,
   ownProgress: 3.3097,

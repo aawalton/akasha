@@ -5,7 +5,7 @@ export const chaislynAlreadyHadIt = {
   type: "release",
   slug: "chaislyn-already-had-it",
   title: "Already Had It",
-  partOfCollections: ["chaislyn"],
+  partOfCollections: ["artist/chaislyn"],
   position: 0,
   ownLength: 2.947367,
   ownProgress: 2.947367,

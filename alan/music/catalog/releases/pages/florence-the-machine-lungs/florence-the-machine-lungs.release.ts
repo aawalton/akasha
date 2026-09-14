@@ -5,7 +5,7 @@ export const florenceTheMachineLungs = {
   type: "release",
   slug: "florence-the-machine-lungs",
   title: "Lungs",
-  partOfCollections: ["florence-the-machine"],
+  partOfCollections: ["artist/florence-the-machine"],
   position: 0,
   ownLength: 64.01945,
   ownProgress: 64.01945,

@@ -5,7 +5,7 @@ export const pentatonixJoyfulJoyful = {
   type: "release",
   slug: "pentatonix-joyful-joyful",
   title: "Joyful, Joyful",
-  partOfCollections: ["pentatonix"],
+  partOfCollections: ["artist/pentatonix"],
   position: 0,
   ownLength: 3.907767,
   ownProgress: 3.907767,

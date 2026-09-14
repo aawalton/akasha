@@ -5,7 +5,7 @@ export const coldplayKaleidoscopeEp = {
   type: "release",
   slug: "coldplay-kaleidoscope-ep",
   title: "Kaleidoscope EP",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 24.984617,
   ownProgress: 24.984617,

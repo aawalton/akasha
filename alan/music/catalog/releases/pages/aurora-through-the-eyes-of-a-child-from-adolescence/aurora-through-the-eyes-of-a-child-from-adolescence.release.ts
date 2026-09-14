@@ -5,7 +5,7 @@ export const auroraThroughTheEyesOfAChildFromAdolescence = {
   type: "release",
   slug: "aurora-through-the-eyes-of-a-child-from-adolescence",
   title: "Through the Eyes of a Child (From Adolescence)",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 4.57355,
   ownProgress: 4.57355,

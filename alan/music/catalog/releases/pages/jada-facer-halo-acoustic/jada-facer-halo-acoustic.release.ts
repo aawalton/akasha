@@ -5,7 +5,7 @@ export const jadaFacerHaloAcoustic = {
   type: "release",
   slug: "jada-facer-halo-acoustic",
   title: "Halo (Acoustic)",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.402917,
   ownProgress: 3.402917,

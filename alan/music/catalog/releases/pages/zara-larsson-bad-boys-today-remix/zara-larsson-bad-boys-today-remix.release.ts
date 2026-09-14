@@ -5,7 +5,7 @@ export const zaraLarssonBadBoysTodayRemix = {
   type: "release",
   slug: "zara-larsson-bad-boys-today-remix",
   title: "Bad Boys (Today Remix)",
-  partOfCollections: ["zara-larsson"],
+  partOfCollections: ["artist/zara-larsson"],
   position: 0,
   ownLength: 2.592,
   ownProgress: 2.592,

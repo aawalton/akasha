@@ -5,7 +5,7 @@ export const jadaFacerAttention = {
   type: "release",
   slug: "jada-facer-attention",
   title: "Attention",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.333333,
   ownProgress: 3.333333,

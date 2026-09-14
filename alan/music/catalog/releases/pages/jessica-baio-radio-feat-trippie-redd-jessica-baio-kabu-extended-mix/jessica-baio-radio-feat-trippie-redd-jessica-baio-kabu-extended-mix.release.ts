@@ -5,7 +5,7 @@ export const jessicaBaioRadioFeatTrippieReddJessicaBaioKabuExtendedMix = {
   type: "release",
   slug: "jessica-baio-radio-feat-trippie-redd-jessica-baio-kabu-extended-mix",
   title: "Radio (feat. Trippie Redd, Jessica Baio & KABU) [Extended Mix]",
-  partOfCollections: ["jessica-baio"],
+  partOfCollections: ["artist/jessica-baio"],
   position: 0,
   ownLength: 2.844433,
   ownProgress: 2.844433,

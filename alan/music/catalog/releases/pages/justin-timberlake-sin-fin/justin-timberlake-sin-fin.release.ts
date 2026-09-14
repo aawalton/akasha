@@ -5,7 +5,7 @@ export const justinTimberlakeSinFin = {
   type: "release",
   slug: "justin-timberlake-sin-fin",
   title: "Sin Fin",
-  partOfCollections: ["justin-timberlake"],
+  partOfCollections: ["artist/justin-timberlake"],
   position: 0,
   ownLength: 3.9111,
   ownProgress: 0,

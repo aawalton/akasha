@@ -5,7 +5,7 @@ export const auroraParamourFeatAurora = {
   type: "release",
   slug: "aurora-paramour-feat-aurora",
   title: "PARAMOUR (feat. AURORA)",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 2.807217,
   ownProgress: 2.807217,

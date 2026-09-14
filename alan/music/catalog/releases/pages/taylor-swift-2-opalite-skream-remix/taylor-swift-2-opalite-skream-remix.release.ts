@@ -5,7 +5,7 @@ export const taylorSwift2OpaliteSkreamRemix = {
   type: "release",
   slug: "taylor-swift-2-opalite-skream-remix",
   title: "Opalite (Skream Remix)",
-  partOfCollections: ["taylor-swift"],
+  partOfCollections: ["artist/taylor-swift"],
   position: 0,
   ownLength: 3.92355,
   ownProgress: 0,

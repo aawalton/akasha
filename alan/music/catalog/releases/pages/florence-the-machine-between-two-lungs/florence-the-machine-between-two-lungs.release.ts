@@ -5,7 +5,7 @@ export const florenceTheMachineBetweenTwoLungs = {
   type: "release",
   slug: "florence-the-machine-between-two-lungs",
   title: "Between Two Lungs",
-  partOfCollections: ["florence-the-machine"],
+  partOfCollections: ["artist/florence-the-machine"],
   position: 0,
   ownLength: 95.48615,
   ownProgress: 95.48615,

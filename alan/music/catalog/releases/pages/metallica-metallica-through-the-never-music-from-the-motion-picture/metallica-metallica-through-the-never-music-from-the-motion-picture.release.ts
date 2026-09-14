@@ -5,7 +5,7 @@ export const metallicaMetallicaThroughTheNeverMusicFromTheMotionPicture = {
   type: "release",
   slug: "metallica-metallica-through-the-never-music-from-the-motion-picture",
   title: "Metallica Through The Never (Music from the Motion Picture)",
-  partOfCollections: ["metallica"],
+  partOfCollections: ["artist/metallica"],
   position: 0,
   ownLength: 101.0959,
   ownProgress: 0,

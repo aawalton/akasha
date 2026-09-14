@@ -5,7 +5,7 @@ export const justinTimberlakeJustBeFeatJustinTimberlake = {
   type: "release",
   slug: "justin-timberlake-just-be-feat-justin-timberlake",
   title: "JUST BE (feat. Justin Timberlake)",
-  partOfCollections: ["justin-timberlake"],
+  partOfCollections: ["artist/justin-timberlake"],
   position: 0,
   ownLength: 3.73795,
   ownProgress: 0,

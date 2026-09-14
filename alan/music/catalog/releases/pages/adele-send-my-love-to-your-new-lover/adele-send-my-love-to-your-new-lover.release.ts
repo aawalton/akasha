@@ -5,7 +5,7 @@ export const adeleSendMyLoveToYourNewLover = {
   type: "release",
   slug: "adele-send-my-love-to-your-new-lover",
   title: "Send My Love (To Your New Lover)",
-  partOfCollections: ["adele"],
+  partOfCollections: ["artist/adele"],
   position: 0,
   ownLength: 3.717967,
   ownProgress: 3.717967,

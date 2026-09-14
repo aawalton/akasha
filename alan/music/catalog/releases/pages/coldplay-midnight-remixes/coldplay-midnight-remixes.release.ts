@@ -5,7 +5,7 @@ export const coldplayMidnightRemixes = {
   type: "release",
   slug: "coldplay-midnight-remixes",
   title: "Midnight (Remixes)",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 38.3547,
   ownProgress: 38.3547,

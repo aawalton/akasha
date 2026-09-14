@@ -5,7 +5,7 @@ export const zaraLarssonEndOfTimeTheRemixes = {
   type: "release",
   slug: "zara-larsson-end-of-time-the-remixes",
   title: "End of Time (The Remixes)",
-  partOfCollections: ["zara-larsson"],
+  partOfCollections: ["artist/zara-larsson"],
   position: 0,
   ownLength: 19.07065,
   ownProgress: 19.07065,

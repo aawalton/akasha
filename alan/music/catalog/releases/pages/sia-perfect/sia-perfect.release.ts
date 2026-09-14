@@ -5,7 +5,7 @@ export const siaPerfect = {
   type: "release",
   slug: "sia-perfect",
   title: "Perfect",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 11.063833,
   ownProgress: 11.063833,

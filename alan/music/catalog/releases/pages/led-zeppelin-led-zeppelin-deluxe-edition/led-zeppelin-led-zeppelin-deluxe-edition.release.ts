@@ -5,7 +5,7 @@ export const ledZeppelinLedZeppelinDeluxeEdition = {
   type: "release",
   slug: "led-zeppelin-led-zeppelin-deluxe-edition",
   title: "Led Zeppelin (Deluxe Edition)",
-  partOfCollections: ["led-zeppelin"],
+  partOfCollections: ["artist/led-zeppelin"],
   position: 0,
   ownLength: 116.175567,
   ownProgress: 88.840139,

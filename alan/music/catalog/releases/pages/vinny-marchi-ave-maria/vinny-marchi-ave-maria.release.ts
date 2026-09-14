@@ -5,7 +5,7 @@ export const vinnyMarchiAveMaria = {
   type: "release",
   slug: "vinny-marchi-ave-maria",
   title: "Ave Maria",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 3.9335,
   ownProgress: 3.9335,

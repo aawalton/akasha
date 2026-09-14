@@ -5,7 +5,7 @@ export const epicTheMusicalEpicTheCirceSagaOfficialConceptAlbum = {
   type: "release",
   slug: "epic-the-musical-epic-the-circe-saga-official-concept-album",
   title: "EPIC: The Circe Saga (Official Concept Album)",
-  partOfCollections: ["epic-the-musical"],
+  partOfCollections: ["artist/epic-the-musical"],
   position: 0,
   ownLength: 12.968367,
   ownProgress: 12.968367,

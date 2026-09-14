@@ -5,7 +5,7 @@ export const chaislynSoulmates = {
   type: "release",
   slug: "chaislyn-soulmates",
   title: "Soulmates",
-  partOfCollections: ["chaislyn"],
+  partOfCollections: ["artist/chaislyn"],
   position: 0,
   ownLength: 4.518933,
   ownProgress: 4.518933,

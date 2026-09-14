@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareMenOfTheMormonTabernacleChoir = {
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-men-of-the-mormon-tabernacle-choir",
   title: "Men of the Mormon Tabernacle Choir",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 64.447717,
   ownProgress: 0,

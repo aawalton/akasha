@@ -5,7 +5,7 @@ export const siaLetSLoveCesqeauxRemix = {
   type: "release",
   slug: "sia-let-s-love-cesqeaux-remix",
   title: "Let's Love (Cesqeaux Remix)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 7.433333,
   ownProgress: 7.433333,

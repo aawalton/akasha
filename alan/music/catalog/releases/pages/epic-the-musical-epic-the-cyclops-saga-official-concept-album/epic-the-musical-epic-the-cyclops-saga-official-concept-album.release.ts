@@ -5,7 +5,7 @@ export const epicTheMusicalEpicTheCyclopsSagaOfficialConceptAlbum = {
   type: "release",
   slug: "epic-the-musical-epic-the-cyclops-saga-official-concept-album",
   title: "EPIC: The Cyclops Saga (Official Concept Album)",
-  partOfCollections: ["epic-the-musical"],
+  partOfCollections: ["artist/epic-the-musical"],
   position: 0,
   ownLength: 14.286717,
   ownProgress: 14.286717,

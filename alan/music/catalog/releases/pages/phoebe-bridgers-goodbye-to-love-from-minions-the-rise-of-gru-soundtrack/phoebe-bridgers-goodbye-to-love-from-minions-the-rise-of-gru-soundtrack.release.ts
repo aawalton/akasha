@@ -5,7 +5,7 @@ export const phoebeBridgersGoodbyeToLoveFromMinionsTheRiseOfGruSoundtrack = {
   type: "release",
   slug: "phoebe-bridgers-goodbye-to-love-from-minions-the-rise-of-gru-soundtrack",
   title: "Goodbye To Love (From 'Minions: The Rise of Gru' Soundtrack)",
-  partOfCollections: ["phoebe-bridgers"],
+  partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
   ownLength: 4.038517,
   ownProgress: 4.038517,

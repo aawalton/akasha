@@ -5,7 +5,7 @@ export const sabrinaCarpenterShortNSweetDeluxe = {
   type: "release",
   slug: "sabrina-carpenter-short-n-sweet-deluxe",
   title: "Short n' Sweet (Deluxe)",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 50.990583,
   ownProgress: 50.990583,

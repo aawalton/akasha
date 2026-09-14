@@ -5,7 +5,7 @@ export const sabrinaCarpenterSkin = {
   type: "release",
   slug: "sabrina-carpenter-skin",
   title: "Skin",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 2.958333,
   ownProgress: 2.958333,

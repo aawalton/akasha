@@ -5,7 +5,7 @@ export const coldplayWishIWasHere = {
   type: "release",
   slug: "coldplay-wish-i-was-here",
   title: "Wish I Was Here",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 3.18155,
   ownProgress: 3.18155,

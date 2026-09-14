@@ -5,7 +5,7 @@ export const jadaFacerApologizeSorry = {
   type: "release",
   slug: "jada-facer-apologize-sorry",
   title: "Apologize / Sorry",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.882483,
   ownProgress: 2.882483,

@@ -5,7 +5,7 @@ export const phoebeBridgersSmokeSignals = {
   type: "release",
   slug: "phoebe-bridgers-smoke-signals",
   title: "Smoke Signals",
-  partOfCollections: ["phoebe-bridgers"],
+  partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
   ownLength: 5.395183,
   ownProgress: 5.395183,

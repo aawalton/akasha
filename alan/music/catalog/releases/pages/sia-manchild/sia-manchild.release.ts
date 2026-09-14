@@ -5,7 +5,7 @@ export const siaManchild = {
   type: "release",
   slug: "sia-manchild",
   title: "Manchild",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 3.296667,
   ownProgress: 3.296667,

@@ -5,7 +5,7 @@ export const linkinParkFriendlyFire = {
   type: "release",
   slug: "linkin-park-friendly-fire",
   title: "Friendly Fire",
-  partOfCollections: ["linkin-park"],
+  partOfCollections: ["artist/linkin-park"],
   position: 0,
   ownLength: 2.94835,
   ownProgress: 0,

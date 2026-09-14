@@ -5,7 +5,7 @@ export const katyPerrySmallTalkLostKingsRemix = {
   type: "release",
   slug: "katy-perry-small-talk-lost-kings-remix",
   title: "Small Talk (Lost Kings Remix)",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 2.870967,
   ownProgress: 2.870967,

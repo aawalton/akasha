@@ -5,7 +5,7 @@ export const jessicaBaioBiteTheBullet = {
   type: "release",
   slug: "jessica-baio-bite-the-bullet",
   title: "bite the bullet",
-  partOfCollections: ["jessica-baio"],
+  partOfCollections: ["artist/jessica-baio"],
   position: 0,
   ownLength: 2.34875,
   ownProgress: 2.34875,

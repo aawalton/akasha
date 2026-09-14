@@ -5,7 +5,7 @@ export const kellyClarksonKellyClarksonLive = {
   type: "release",
   slug: "kelly-clarkson-kelly-clarkson-live",
   title: "Kelly Clarkson Live",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 7.403567,
   ownProgress: 7.403567,

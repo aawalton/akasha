@@ -5,7 +5,7 @@ export const greenDayInsomniac = {
   type: "release",
   slug: "green-day-insomniac",
   title: "Insomniac",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 32.9008,
   ownProgress: 32.9008,

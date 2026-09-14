@@ -5,7 +5,7 @@ export const jadaFacerGraveyard = {
   type: "release",
   slug: "jada-facer-graveyard",
   title: "Graveyard",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.76035,
   ownProgress: 2.76035,

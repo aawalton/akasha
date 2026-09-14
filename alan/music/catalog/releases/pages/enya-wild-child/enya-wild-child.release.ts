@@ -5,7 +5,7 @@ export const enyaWildChild = {
   type: "release",
   slug: "enya-wild-child",
   title: "Wild Child",
-  partOfCollections: ["enya"],
+  partOfCollections: ["artist/enya"],
   position: 0,
   ownLength: 9.351533,
   ownProgress: 9.351533,

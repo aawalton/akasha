@@ -5,7 +5,7 @@ export const siaLivingOutLoud = {
   type: "release",
   slug: "sia-living-out-loud",
   title: "Living Out Loud",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 3.9906,
   ownProgress: 3.9906,

@@ -5,7 +5,7 @@ export const nsync2NSyncUkVersion = {
   type: "release",
   slug: "nsync-2-n-sync-uk-version",
   title: "'N Sync UK Version",
-  partOfCollections: ["nsync"],
+  partOfCollections: ["artist/nsync"],
   position: 0,
   ownLength: 52.818367,
   ownProgress: 52.818367,

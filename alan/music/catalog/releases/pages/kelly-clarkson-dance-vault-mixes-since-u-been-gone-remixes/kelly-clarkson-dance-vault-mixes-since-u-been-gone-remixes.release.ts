@@ -5,7 +5,7 @@ export const kellyClarksonDanceVaultMixesSinceUBeenGoneRemixes = {
   type: "release",
   slug: "kelly-clarkson-dance-vault-mixes-since-u-been-gone-remixes",
   title: "Dance Vault Mixes - Since U Been Gone (Remixes)",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 40.084183,
   ownProgress: 40.084183,

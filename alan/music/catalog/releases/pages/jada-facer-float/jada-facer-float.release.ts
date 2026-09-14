@@ -5,7 +5,7 @@ export const jadaFacerFloat = {
   type: "release",
   slug: "jada-facer-float",
   title: "Float",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 11.275617,
   ownProgress: 11.275617,

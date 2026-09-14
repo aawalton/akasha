@@ -5,7 +5,7 @@ export const theBeatles2TheBeatlesRemastered = {
   type: "release",
   slug: "the-beatles-2-the-beatles-remastered",
   title: "The Beatles (Remastered)",
-  partOfCollections: ["the-beatles"],
+  partOfCollections: ["artist/the-beatles"],
   position: 0,
   ownLength: 93.6936,
   ownProgress: 93.6936,

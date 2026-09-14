@@ -5,7 +5,7 @@ export const thePianoGuys3ClassicalLoveRomance = {
   type: "release",
   slug: "the-piano-guys-3-classical-love-romance",
   title: "Classical Love & Romance",
-  partOfCollections: ["the-piano-guys"],
+  partOfCollections: ["artist/the-piano-guys"],
   position: 0,
   ownLength: 33.575767,
   ownProgress: 33.575767,

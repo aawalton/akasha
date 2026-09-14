@@ -5,7 +5,7 @@ export const sabrinaCarpenterSueMeRemixes = {
   type: "release",
   slug: "sabrina-carpenter-sue-me-remixes",
   title: "Sue Me (Remixes)",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 16.689633,
   ownProgress: 16.689633,

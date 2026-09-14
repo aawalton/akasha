@@ -5,7 +5,7 @@ export const paulCardallHymns = {
   type: "release",
   slug: "paul-cardall-hymns",
   title: "Hymns",
-  partOfCollections: ["paul-cardall"],
+  partOfCollections: ["artist/paul-cardall"],
   position: 0,
   ownLength: 45.652567,
   ownProgress: 45.652567,

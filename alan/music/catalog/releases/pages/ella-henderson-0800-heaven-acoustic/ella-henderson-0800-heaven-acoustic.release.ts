@@ -5,7 +5,7 @@ export const ellaHenderson0800HeavenAcoustic = {
   type: "release",
   slug: "ella-henderson-0800-heaven-acoustic",
   title: "0800 HEAVEN (Acoustic)",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 6.459767,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const coldplayMaMeilleureEnnemieFtColdplay = {
   type: "release",
   slug: "coldplay-ma-meilleure-ennemie-ft-coldplay",
   title: "Ma Meilleure Ennemie ft. Coldplay",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 5.831767,
   ownProgress: 5.831767,

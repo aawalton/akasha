@@ -5,7 +5,7 @@ export const greenDayInternationalSuperhits = {
   type: "release",
   slug: "green-day-international-superhits",
   title: "International Superhits!",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 60.670767,
   ownProgress: 60.670767,

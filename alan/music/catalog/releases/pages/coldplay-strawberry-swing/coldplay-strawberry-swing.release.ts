@@ -5,7 +5,7 @@ export const coldplayStrawberrySwing = {
   type: "release",
   slug: "coldplay-strawberry-swing",
   title: "Strawberry Swing",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 4.1611,
   ownProgress: 4.1611,

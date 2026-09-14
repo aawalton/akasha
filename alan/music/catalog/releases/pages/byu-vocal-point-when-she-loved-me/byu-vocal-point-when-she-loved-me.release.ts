@@ -5,7 +5,7 @@ export const byuVocalPointWhenSheLovedMe = {
   type: "release",
   slug: "byu-vocal-point-when-she-loved-me",
   title: "When She Loved Me",
-  partOfCollections: ["byu-vocal-point"],
+  partOfCollections: ["artist/byu-vocal-point"],
   position: 0,
   ownLength: 3.21555,
   ownProgress: 0,

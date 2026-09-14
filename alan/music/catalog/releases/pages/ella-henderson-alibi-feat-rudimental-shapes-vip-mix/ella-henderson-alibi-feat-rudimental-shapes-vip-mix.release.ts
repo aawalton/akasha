@@ -5,7 +5,7 @@ export const ellaHendersonAlibiFeatRudimentalShapesVipMix = {
   type: "release",
   slug: "ella-henderson-alibi-feat-rudimental-shapes-vip-mix",
   title: "Alibi (feat. Rudimental) [Shapes VIP Mix]",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 3.034467,
   ownProgress: 0,

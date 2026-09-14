@@ -5,7 +5,7 @@ export const yaelokreHayfields = {
   type: "release",
   slug: "yaelokre-hayfields",
   title: "Hayfields",
-  partOfCollections: ["yaelokre"],
+  partOfCollections: ["artist/yaelokre"],
   position: 0,
   ownLength: 16.151383,
   ownProgress: 16.151383,

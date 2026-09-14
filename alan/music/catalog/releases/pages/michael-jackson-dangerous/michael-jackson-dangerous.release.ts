@@ -5,7 +5,7 @@ export const michaelJacksonDangerous = {
   type: "release",
   slug: "michael-jackson-dangerous",
   title: "Dangerous",
-  partOfCollections: ["michael-jackson"],
+  partOfCollections: ["artist/michael-jackson"],
   position: 0,
   ownLength: 76.781683,
   ownProgress: 76.781683,

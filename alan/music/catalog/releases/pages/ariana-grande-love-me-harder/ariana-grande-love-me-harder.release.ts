@@ -5,7 +5,7 @@ export const arianaGrandeLoveMeHarder = {
   type: "release",
   slug: "ariana-grande-love-me-harder",
   title: "Love Me Harder",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 11.7623,
   ownProgress: 11.7623,

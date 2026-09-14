@@ -5,7 +5,7 @@ export const paulCardallTheBrokenMiracle = {
   type: "release",
   slug: "paul-cardall-the-broken-miracle",
   title: "The Broken Miracle",
-  partOfCollections: ["paul-cardall"],
+  partOfCollections: ["artist/paul-cardall"],
   position: 0,
   ownLength: 62.925417,
   ownProgress: 62.925417,

@@ -5,7 +5,7 @@ export const greenDayOtisBigGuitarMix = {
   type: "release",
   slug: "green-day-otis-big-guitar-mix",
   title: "Otis Big Guitar Mix",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 12.899167,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const weirdAlYankovic2WhoSGonnaStopMeFeatWeirdAlYankovic = {
   type: "release",
   slug: "weird-al-yankovic-2-who-s-gonna-stop-me-feat-weird-al-yankovic",
   title: 'Who’s Gonna Stop Me (feat. "Weird Al" Yankovic)',
-  partOfCollections: ["weird-al-yankovic"],
+  partOfCollections: ["artist/weird-al-yankovic"],
   position: 0,
   ownLength: 3.87645,
   ownProgress: 0,

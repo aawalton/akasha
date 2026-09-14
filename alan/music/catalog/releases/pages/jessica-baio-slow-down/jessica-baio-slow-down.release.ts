@@ -5,7 +5,7 @@ export const jessicaBaioSlowDown = {
   type: "release",
   slug: "jessica-baio-slow-down",
   title: "SLOW DOWN",
-  partOfCollections: ["jessica-baio"],
+  partOfCollections: ["artist/jessica-baio"],
   position: 0,
   ownLength: 5.15075,
   ownProgress: 5.15075,

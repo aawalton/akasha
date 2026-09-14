@@ -5,7 +5,7 @@ export const lynLapidDetached = {
   type: "release",
   slug: "lyn-lapid-detached",
   title: "Detached",
-  partOfCollections: ["lyn-lapid"],
+  partOfCollections: ["artist/lyn-lapid"],
   position: 0,
   ownLength: 2.436267,
   ownProgress: 2.436267,

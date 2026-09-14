@@ -5,7 +5,7 @@ export const sabrinaCarpenterStandOutFromHowToBuildABetterBoy = {
   type: "release",
   slug: "sabrina-carpenter-stand-out-from-how-to-build-a-better-boy",
   title: 'Stand Out (From "How to Build a Better Boy")',
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 3.480433,
   ownProgress: 3.480433,

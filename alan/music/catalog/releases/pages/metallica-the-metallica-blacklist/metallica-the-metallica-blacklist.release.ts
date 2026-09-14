@@ -5,7 +5,7 @@ export const metallicaTheMetallicaBlacklist = {
   type: "release",
   slug: "metallica-the-metallica-blacklist",
   title: "The Metallica Blacklist",
-  partOfCollections: ["metallica"],
+  partOfCollections: ["artist/metallica"],
   position: 0,
   ownLength: 245.4364,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const sabrinaCarpenterOnMyWay = {
   type: "release",
   slug: "sabrina-carpenter-on-my-way",
   title: "On My Way",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 3.22995,
   ownProgress: 3.22995,

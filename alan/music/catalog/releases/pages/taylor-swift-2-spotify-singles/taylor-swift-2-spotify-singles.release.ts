@@ -5,7 +5,7 @@ export const taylorSwift2SpotifySingles = {
   type: "release",
   slug: "taylor-swift-2-spotify-singles",
   title: "Spotify Singles",
-  partOfCollections: ["taylor-swift"],
+  partOfCollections: ["artist/taylor-swift"],
   position: 0,
   ownLength: 6.93805,
   ownProgress: 6.93805,

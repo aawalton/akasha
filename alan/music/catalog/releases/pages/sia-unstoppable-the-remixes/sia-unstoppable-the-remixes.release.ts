@@ -5,7 +5,7 @@ export const siaUnstoppableTheRemixes = {
   type: "release",
   slug: "sia-unstoppable-the-remixes",
   title: "Unstoppable (The Remixes)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 17.664533,
   ownProgress: 17.664533,

@@ -5,7 +5,7 @@ export const jennaRaineRentFree = {
   type: "release",
   slug: "jenna-raine-rent-free",
   title: "rent free",
-  partOfCollections: ["jenna-raine"],
+  partOfCollections: ["artist/jenna-raine"],
   position: 0,
   ownLength: 2.427883,
   ownProgress: 2.427883,

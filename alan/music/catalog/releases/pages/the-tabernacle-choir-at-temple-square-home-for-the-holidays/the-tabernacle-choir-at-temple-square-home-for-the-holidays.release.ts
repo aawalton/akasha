@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareHomeForTheHolidays = {
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-home-for-the-holidays",
   title: "Home for the Holidays",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 56.36305,
   ownProgress: 0,

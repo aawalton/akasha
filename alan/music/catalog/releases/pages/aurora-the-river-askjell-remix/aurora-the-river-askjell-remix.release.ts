@@ -5,7 +5,7 @@ export const auroraTheRiverAskjellRemix = {
   type: "release",
   slug: "aurora-the-river-askjell-remix",
   title: "The River (Askjell Remix)",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 7.097583,
   ownProgress: 7.097583,

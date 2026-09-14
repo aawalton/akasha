@@ -5,7 +5,7 @@ export const siaClapYourHands = {
   type: "release",
   slug: "sia-clap-your-hands",
   title: "Clap Your Hands",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 14.780867,
   ownProgress: 14.780867,

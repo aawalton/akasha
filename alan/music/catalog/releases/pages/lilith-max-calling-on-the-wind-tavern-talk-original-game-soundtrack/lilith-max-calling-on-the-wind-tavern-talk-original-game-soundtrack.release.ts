@@ -5,7 +5,7 @@ export const lilithMaxCallingOnTheWindTavernTalkOriginalGameSoundtrack = {
   type: "release",
   slug: "lilith-max-calling-on-the-wind-tavern-talk-original-game-soundtrack",
   title: "Calling on the Wind (Tavern Talk Original Game Soundtrack)",
-  partOfCollections: ["lilith-max"],
+  partOfCollections: ["artist/lilith-max"],
   position: 0,
   ownLength: 3.292067,
   ownProgress: 3.292067,

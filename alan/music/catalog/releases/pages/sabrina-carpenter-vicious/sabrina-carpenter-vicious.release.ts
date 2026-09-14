@@ -5,7 +5,7 @@ export const sabrinaCarpenterVicious = {
   type: "release",
   slug: "sabrina-carpenter-vicious",
   title: "Vicious",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 2.498167,
   ownProgress: 2.498167,

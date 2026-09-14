@@ -5,7 +5,7 @@ export const greenDayKerplunk = {
   type: "release",
   slug: "green-day-kerplunk",
   title: "Kerplunk!",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 42.10345,
   ownProgress: 42.10345,

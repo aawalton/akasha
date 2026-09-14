@@ -5,7 +5,7 @@ export const elvisPresley2AmericanSound1969 = {
   type: "release",
   slug: "elvis-presley-2-american-sound-1969",
   title: "American Sound 1969",
-  partOfCollections: ["elvis-presley"],
+  partOfCollections: ["artist/elvis-presley"],
   position: 0,
   ownLength: 367.332767,
   ownProgress: 367.332767,

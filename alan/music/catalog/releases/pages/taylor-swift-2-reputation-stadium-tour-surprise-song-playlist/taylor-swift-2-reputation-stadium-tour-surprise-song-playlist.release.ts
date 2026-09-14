@@ -5,7 +5,7 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylist = {
   type: "release",
   slug: "taylor-swift-2-reputation-stadium-tour-surprise-song-playlist",
   title: "reputation Stadium Tour Surprise Song Playlist",
-  partOfCollections: ["taylor-swift"],
+  partOfCollections: ["artist/taylor-swift"],
   position: 0,
   ownLength: 186.266467,
   ownProgress: 186.266467,

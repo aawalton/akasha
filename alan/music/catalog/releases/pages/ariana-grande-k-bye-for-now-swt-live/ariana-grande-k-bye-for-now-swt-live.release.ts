@@ -5,7 +5,7 @@ export const arianaGrandeKByeForNowSwtLive = {
   type: "release",
   slug: "ariana-grande-k-bye-for-now-swt-live",
   title: "k bye for now (swt live)",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 93.526467,
   ownProgress: 93.526467,

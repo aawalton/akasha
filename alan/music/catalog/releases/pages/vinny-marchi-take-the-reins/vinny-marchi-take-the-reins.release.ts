@@ -5,7 +5,7 @@ export const vinnyMarchiTakeTheReins = {
   type: "release",
   slug: "vinny-marchi-take-the-reins",
   title: "Take The Reins",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 2.669233,
   ownProgress: 2.669233,

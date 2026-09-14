@@ -5,7 +5,7 @@ export const siaChandelierRemixes = {
   type: "release",
   slug: "sia-chandelier-remixes",
   title: "Chandelier (Remixes)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 29.5388,
   ownProgress: 29.5388,

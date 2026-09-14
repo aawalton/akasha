@@ -5,7 +5,7 @@ export const girlInRedMidnightLove = {
   type: "release",
   slug: "girl-in-red-midnight-love",
   title: "midnight love",
-  partOfCollections: ["girl-in-red"],
+  partOfCollections: ["artist/girl-in-red"],
   position: 0,
   ownLength: 3.232133,
   ownProgress: 0,

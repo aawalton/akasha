@@ -5,7 +5,7 @@ export const phoebeBridgersSpotifySingles = {
   type: "release",
   slug: "phoebe-bridgers-spotify-singles",
   title: "Spotify Singles",
-  partOfCollections: ["phoebe-bridgers"],
+  partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
   ownLength: 9.21625,
   ownProgress: 9.21625,

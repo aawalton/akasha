@@ -5,7 +5,7 @@ export const leonardCohenOldIdeas = {
   type: "release",
   slug: "leonard-cohen-old-ideas",
   title: "Old Ideas",
-  partOfCollections: ["leonard-cohen"],
+  partOfCollections: ["artist/leonard-cohen"],
   position: 0,
   ownLength: 41.4315,
   ownProgress: 0,

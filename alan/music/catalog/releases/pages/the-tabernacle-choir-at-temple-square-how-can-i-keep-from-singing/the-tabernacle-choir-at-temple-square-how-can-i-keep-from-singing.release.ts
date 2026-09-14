@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareHowCanIKeepFromSinging = {
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-how-can-i-keep-from-singing",
   title: "How Can I Keep from Singing?",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 4.305983,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const coldplayInMyPlace = {
   type: "release",
   slug: "coldplay-in-my-place",
   title: "In My Place",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 10.5882,
   ownProgress: 10.5882,

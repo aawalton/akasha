@@ -5,7 +5,7 @@ export const greenDayHoliday = {
   type: "release",
   slug: "green-day-holiday",
   title: "Holiday",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 9.901767,
   ownProgress: 9.901767,

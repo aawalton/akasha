@@ -5,7 +5,7 @@ export const snailMailEasyThing = {
   type: "release",
   slug: "snail-mail-easy-thing",
   title: "Easy Thing",
-  partOfCollections: ["snail-mail"],
+  partOfCollections: ["artist/snail-mail"],
   position: 0,
   ownLength: 2.718217,
   ownProgress: 0,

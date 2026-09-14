@@ -5,7 +5,7 @@ export const jennaRaineItIsWhatItIsSpedUp = {
   type: "release",
   slug: "jenna-raine-it-is-what-it-is-sped-up",
   title: "It Is What It Is (Sped Up)",
-  partOfCollections: ["jenna-raine"],
+  partOfCollections: ["artist/jenna-raine"],
   position: 0,
   ownLength: 4.661533,
   ownProgress: 4.661533,

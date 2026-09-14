@@ -5,7 +5,7 @@ export const taylorSwift2TheArcherLiveFromParis = {
   type: "release",
   slug: "taylor-swift-2-the-archer-live-from-paris",
   title: "The Archer (Live From Paris)",
-  partOfCollections: ["taylor-swift"],
+  partOfCollections: ["artist/taylor-swift"],
   position: 0,
   ownLength: 3.516,
   ownProgress: 3.516,

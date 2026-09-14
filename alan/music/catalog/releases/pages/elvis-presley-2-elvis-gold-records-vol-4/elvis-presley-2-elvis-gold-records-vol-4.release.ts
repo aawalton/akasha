@@ -5,7 +5,7 @@ export const elvisPresley2ElvisGoldRecordsVol4 = {
   type: "release",
   slug: "elvis-presley-2-elvis-gold-records-vol-4",
   title: "Elvis' Gold Records, Vol. 4",
-  partOfCollections: ["elvis-presley"],
+  partOfCollections: ["artist/elvis-presley"],
   position: 0,
   ownLength: 33.997917,
   ownProgress: 33.997917,

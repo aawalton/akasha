@@ -5,7 +5,7 @@ export const jadaFacerRightHereWaitingAcoustic = {
   type: "release",
   slug: "jada-facer-right-here-waiting-acoustic",
   title: "Right Here Waiting (Acoustic)",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 4.057533,
   ownProgress: 4.057533,

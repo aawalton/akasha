@@ -5,7 +5,7 @@ export const kellyClarksonLoveSoSoftRyanRibackRemix = {
   type: "release",
   slug: "kelly-clarkson-love-so-soft-ryan-riback-remix",
   title: "Love So Soft (Ryan Riback Remix)",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 3.1328,
   ownProgress: 3.1328,

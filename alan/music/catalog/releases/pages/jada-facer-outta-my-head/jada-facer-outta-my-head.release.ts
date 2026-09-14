@@ -5,7 +5,7 @@ export const jadaFacerOuttaMyHead = {
   type: "release",
   slug: "jada-facer-outta-my-head",
   title: "Outta My Head",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.88275,
   ownProgress: 2.88275,

@@ -5,7 +5,7 @@ export const alexWarrenScreamingUnderwater = {
   type: "release",
   slug: "alex-warren-screaming-underwater",
   title: "Screaming Underwater",
-  partOfCollections: ["alex-warren"],
+  partOfCollections: ["artist/alex-warren"],
   position: 0,
   ownLength: 2.434883,
   ownProgress: 2.434883,

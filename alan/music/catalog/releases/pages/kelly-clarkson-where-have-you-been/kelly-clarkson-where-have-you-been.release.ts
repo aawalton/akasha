@@ -5,7 +5,7 @@ export const kellyClarksonWhereHaveYouBeen = {
   type: "release",
   slug: "kelly-clarkson-where-have-you-been",
   title: "Where Have You Been",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 3.9651,
   ownProgress: 3.9651,

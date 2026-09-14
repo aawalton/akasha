@@ -5,7 +5,7 @@ export const jamesTaylor2AmericanStandard = {
   type: "release",
   slug: "james-taylor-2-american-standard",
   title: "American Standard",
-  partOfCollections: ["james-taylor"],
+  partOfCollections: ["artist/james-taylor"],
   position: 0,
   ownLength: 45.073267,
   ownProgress: 45.073267,

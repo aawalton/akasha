@@ -5,7 +5,7 @@ export const katyPerryEmpowered = {
   type: "release",
   slug: "katy-perry-empowered",
   title: "Empowered",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 20.350617,
   ownProgress: 20.350617,

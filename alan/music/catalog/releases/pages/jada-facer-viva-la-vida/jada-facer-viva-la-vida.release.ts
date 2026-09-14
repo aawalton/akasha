@@ -5,7 +5,7 @@ export const jadaFacerVivaLaVida = {
   type: "release",
   slug: "jada-facer-viva-la-vida",
   title: "Viva La Vida",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.998067,
   ownProgress: 3.998067,

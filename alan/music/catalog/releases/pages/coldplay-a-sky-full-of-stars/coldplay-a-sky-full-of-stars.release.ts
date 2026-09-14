@@ -5,7 +5,7 @@ export const coldplayASkyFullOfStars = {
   type: "release",
   slug: "coldplay-a-sky-full-of-stars",
   title: "A Sky Full of Stars",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 4.464433,
   ownProgress: 4.464433,

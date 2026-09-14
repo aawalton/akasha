@@ -5,7 +5,7 @@ export const taylorSwift2TheFateOfOpheliaLoudLuxuryRemix = {
   type: "release",
   slug: "taylor-swift-2-the-fate-of-ophelia-loud-luxury-remix",
   title: "The Fate of Ophelia (Loud Luxury Remix)",
-  partOfCollections: ["taylor-swift"],
+  partOfCollections: ["artist/taylor-swift"],
   position: 0,
   ownLength: 10.136517,
   ownProgress: 10.136517,

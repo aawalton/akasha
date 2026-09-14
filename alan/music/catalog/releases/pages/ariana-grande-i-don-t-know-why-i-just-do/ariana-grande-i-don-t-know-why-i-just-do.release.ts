@@ -5,7 +5,7 @@ export const arianaGrandeIDonTKnowWhyIJustDo = {
   type: "release",
   slug: "ariana-grande-i-don-t-know-why-i-just-do",
   title: "I Don't Know Why (I Just Do)",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 3.7471,
   ownProgress: 3.7471,

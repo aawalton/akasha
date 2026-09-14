@@ -5,7 +5,7 @@ export const imagineDragonsMonicaDemo = {
   type: "release",
   slug: "imagine-dragons-monica-demo",
   title: "Monica (Demo)",
-  partOfCollections: ["imagine-dragons"],
+  partOfCollections: ["artist/imagine-dragons"],
   position: 0,
   ownLength: 3.304867,
   ownProgress: 3.304867,

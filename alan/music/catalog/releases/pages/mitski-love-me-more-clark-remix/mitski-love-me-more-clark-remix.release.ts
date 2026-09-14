@@ -5,7 +5,7 @@ export const mitskiLoveMeMoreClarkRemix = {
   type: "release",
   slug: "mitski-love-me-more-clark-remix",
   title: "Love Me More (Clark Remix)",
-  partOfCollections: ["mitski"],
+  partOfCollections: ["artist/mitski"],
   position: 0,
   ownLength: 8.3959,
   ownProgress: 8.3959,

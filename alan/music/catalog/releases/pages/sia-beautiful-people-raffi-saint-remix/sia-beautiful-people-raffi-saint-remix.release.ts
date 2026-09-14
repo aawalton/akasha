@@ -5,7 +5,7 @@ export const siaBeautifulPeopleRaffiSaintRemix = {
   type: "release",
   slug: "sia-beautiful-people-raffi-saint-remix",
   title: "Beautiful People (Raffi Saint Remix)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 15.190567,
   ownProgress: 15.190567,

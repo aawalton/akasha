@@ -5,7 +5,7 @@ export const theHoldernessFamilyFantasyFootballAnthem = {
   type: "release",
   slug: "the-holderness-family-fantasy-football-anthem",
   title: "Fantasy Football Anthem",
-  partOfCollections: ["the-holderness-family"],
+  partOfCollections: ["artist/the-holderness-family"],
   position: 0,
   ownLength: 3.36935,
   ownProgress: 3.36935,

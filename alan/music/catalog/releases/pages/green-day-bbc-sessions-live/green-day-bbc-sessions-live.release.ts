@@ -5,7 +5,7 @@ export const greenDayBbcSessionsLive = {
   type: "release",
   slug: "green-day-bbc-sessions-live",
   title: "BBC Sessions (Live)",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 48.564067,
   ownProgress: 0,

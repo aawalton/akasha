@@ -5,7 +5,7 @@ export const thePianoGuys3TheMissionHowGreatThouArt = {
   type: "release",
   slug: "the-piano-guys-3-the-mission-how-great-thou-art",
   title: "The Mission / How Great Thou Art",
-  partOfCollections: ["the-piano-guys"],
+  partOfCollections: ["artist/the-piano-guys"],
   position: 0,
   ownLength: 3.359283,
   ownProgress: 3.359283,

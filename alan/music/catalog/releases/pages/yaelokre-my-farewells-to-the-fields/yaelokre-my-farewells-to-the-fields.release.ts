@@ -5,7 +5,7 @@ export const yaelokreMyFarewellsToTheFields = {
   type: "release",
   slug: "yaelokre-my-farewells-to-the-fields",
   title: "My farewells to the fields",
-  partOfCollections: ["yaelokre"],
+  partOfCollections: ["artist/yaelokre"],
   position: 0,
   ownLength: 2.092667,
   ownProgress: 2.092667,

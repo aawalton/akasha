@@ -5,7 +5,7 @@ export const taylorSwift2AntiHeroFeatBleachers = {
   type: "release",
   slug: "taylor-swift-2-anti-hero-feat-bleachers",
   title: "Anti-Hero (feat. Bleachers)",
-  partOfCollections: ["taylor-swift"],
+  partOfCollections: ["artist/taylor-swift"],
   position: 0,
   ownLength: 7.15145,
   ownProgress: 7.15145,

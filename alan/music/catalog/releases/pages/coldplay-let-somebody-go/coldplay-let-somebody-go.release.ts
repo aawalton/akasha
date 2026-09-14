@@ -5,7 +5,7 @@ export const coldplayLetSomebodyGo = {
   type: "release",
   slug: "coldplay-let-somebody-go",
   title: "Let Somebody Go",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 7.575733,
   ownProgress: 7.575733,

@@ -5,7 +5,7 @@ export const ellaHendersonNoSleep = {
   type: "release",
   slug: "ella-henderson-no-sleep",
   title: "No Sleep",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 2.8364,
   ownProgress: 0,

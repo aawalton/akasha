@@ -5,7 +5,7 @@ export const byuVocalPointIStandAllAmazed = {
   type: "release",
   slug: "byu-vocal-point-i-stand-all-amazed",
   title: "I Stand All Amazed",
-  partOfCollections: ["byu-vocal-point"],
+  partOfCollections: ["artist/byu-vocal-point"],
   position: 0,
   ownLength: 5.10485,
   ownProgress: 0,

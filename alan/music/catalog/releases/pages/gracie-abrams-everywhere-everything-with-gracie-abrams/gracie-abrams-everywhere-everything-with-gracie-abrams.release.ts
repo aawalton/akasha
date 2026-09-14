@@ -5,7 +5,7 @@ export const gracieAbramsEverywhereEverythingWithGracieAbrams = {
   type: "release",
   slug: "gracie-abrams-everywhere-everything-with-gracie-abrams",
   title: "Everywhere, Everything (with Gracie Abrams)",
-  partOfCollections: ["gracie-abrams"],
+  partOfCollections: ["artist/gracie-abrams"],
   position: 0,
   ownLength: 4.294467,
   ownProgress: 4.294467,

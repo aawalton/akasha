@@ -5,7 +5,7 @@ export const billyJoelBillyJoelPlaces = {
   type: "release",
   slug: "billy-joel-billy-joel-places",
   title: "Billy Joel - Places",
-  partOfCollections: ["billy-joel"],
+  partOfCollections: ["artist/billy-joel"],
   position: 0,
   ownLength: 23.053983,
   ownProgress: 0,

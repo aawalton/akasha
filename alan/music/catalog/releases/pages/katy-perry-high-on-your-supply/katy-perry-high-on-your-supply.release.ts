@@ -5,7 +5,7 @@ export const katyPerryHighOnYourSupply = {
   type: "release",
   slug: "katy-perry-high-on-your-supply",
   title: "High On Your Supply",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 4,
   ownProgress: 4,

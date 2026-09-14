@@ -5,7 +5,7 @@ export const chaislynDreamsIForgotAbout = {
   type: "release",
   slug: "chaislyn-dreams-i-forgot-about",
   title: "Dreams I Forgot About",
-  partOfCollections: ["chaislyn"],
+  partOfCollections: ["artist/chaislyn"],
   position: 0,
   ownLength: 3.531917,
   ownProgress: 3.531917,

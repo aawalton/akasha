@@ -5,7 +5,7 @@ export const pentatonixPtxPresentsTopPopVolI = {
   type: "release",
   slug: "pentatonix-ptx-presents-top-pop-vol-i",
   title: "PTX Presents: Top Pop, Vol. I",
-  partOfCollections: ["pentatonix"],
+  partOfCollections: ["artist/pentatonix"],
   position: 0,
   ownLength: 35.366617,
   ownProgress: 35.366617,

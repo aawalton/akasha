@@ -5,7 +5,7 @@ export const greenDayDos = {
   type: "release",
   slug: "green-day-dos",
   title: "¡DOS!",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 39.470383,
   ownProgress: 39.470383,

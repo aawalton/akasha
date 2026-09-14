@@ -5,7 +5,7 @@ export const siaExhaleFeatSiaPinkPandaRemix = {
   type: "release",
   slug: "sia-exhale-feat-sia-pink-panda-remix",
   title: "EXHALE (feat. Sia) [Pink Panda Remix]",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 2.16235,
   ownProgress: 2.16235,

@@ -5,7 +5,7 @@ export const greenDayRevolutionRadio = {
   type: "release",
   slug: "green-day-revolution-radio",
   title: "Revolution Radio",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 44.634383,
   ownProgress: 0,

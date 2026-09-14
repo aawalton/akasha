@@ -5,7 +5,7 @@ export const katyPerry365 = {
   type: "release",
   slug: "katy-perry-365",
   title: "365",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 3.03165,
   ownProgress: 3.03165,

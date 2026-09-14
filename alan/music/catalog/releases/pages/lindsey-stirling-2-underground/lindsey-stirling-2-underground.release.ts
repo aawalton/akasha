@@ -5,7 +5,7 @@ export const lindseyStirling2Underground = {
   type: "release",
   slug: "lindsey-stirling-2-underground",
   title: "Underground",
-  partOfCollections: ["lindsey-stirling"],
+  partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
   ownLength: 4.404983,
   ownProgress: 4.404983,

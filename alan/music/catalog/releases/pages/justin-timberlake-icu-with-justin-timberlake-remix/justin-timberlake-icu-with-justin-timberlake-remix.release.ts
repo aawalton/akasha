@@ -5,7 +5,7 @@ export const justinTimberlakeIcuWithJustinTimberlakeRemix = {
   type: "release",
   slug: "justin-timberlake-icu-with-justin-timberlake-remix",
   title: "ICU (with Justin Timberlake) [Remix]",
-  partOfCollections: ["justin-timberlake"],
+  partOfCollections: ["artist/justin-timberlake"],
   position: 0,
   ownLength: 3.642767,
   ownProgress: 0,

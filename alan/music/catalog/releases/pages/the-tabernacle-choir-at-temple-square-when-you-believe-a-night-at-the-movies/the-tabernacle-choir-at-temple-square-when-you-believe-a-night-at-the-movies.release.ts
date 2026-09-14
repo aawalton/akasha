@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareWhenYouBelieveANightAtTheMovies = {
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-when-you-believe-a-night-at-the-movies",
   title: "When You Believe: A Night at the Movies",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 22.3604,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const mitskiLaurelHell = {
   type: "release",
   slug: "mitski-laurel-hell",
   title: "Laurel Hell",
-  partOfCollections: ["mitski"],
+  partOfCollections: ["artist/mitski"],
   position: 0,
   ownLength: 32.518417,
   ownProgress: 32.518417,

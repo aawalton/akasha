@@ -5,7 +5,7 @@ export const byuVocalPointThisChristmas = {
   type: "release",
   slug: "byu-vocal-point-this-christmas",
   title: "This Christmas",
-  partOfCollections: ["byu-vocal-point"],
+  partOfCollections: ["artist/byu-vocal-point"],
   position: 0,
   ownLength: 3.2993,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const taylorSwift2LavenderHazeRemixes = {
   type: "release",
   slug: "taylor-swift-2-lavender-haze-remixes",
   title: "Lavender Haze (Remixes)",
-  partOfCollections: ["taylor-swift"],
+  partOfCollections: ["artist/taylor-swift"],
   position: 0,
   ownLength: 16.87275,
   ownProgress: 16.87275,

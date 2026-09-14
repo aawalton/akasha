@@ -5,7 +5,7 @@ export const arianaGrandeThankUNext = {
   type: "release",
   slug: "ariana-grande-thank-u-next",
   title: "thank u, next",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 41.17015,
   ownProgress: 41.17015,

@@ -5,7 +5,7 @@ export const taylorSwift2EyesOpenTaylorSVersion = {
   type: "release",
   slug: "taylor-swift-2-eyes-open-taylor-s-version",
   title: "Eyes Open (Taylor's Version)",
-  partOfCollections: ["taylor-swift"],
+  partOfCollections: ["artist/taylor-swift"],
   position: 0,
   ownLength: 4.0544,
   ownProgress: 4.0544,

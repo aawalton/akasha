@@ -5,7 +5,7 @@ export const kDaMore = {
   type: "release",
   slug: "k-da-more",
   title: "MORE",
-  partOfCollections: ["k-da"],
+  partOfCollections: ["artist/k-da"],
   position: 0,
   ownLength: 3.618133,
   ownProgress: 3.618133,

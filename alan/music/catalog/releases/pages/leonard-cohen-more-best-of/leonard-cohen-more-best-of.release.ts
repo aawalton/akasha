@@ -5,7 +5,7 @@ export const leonardCohenMoreBestOf = {
   type: "release",
   slug: "leonard-cohen-more-best-of",
   title: "More Best Of",
-  partOfCollections: ["leonard-cohen"],
+  partOfCollections: ["artist/leonard-cohen"],
   position: 0,
   ownLength: 71.113933,
   ownProgress: 0,

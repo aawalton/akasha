@@ -5,7 +5,7 @@ export const greenDayNuclearFamily = {
   type: "release",
   slug: "green-day-nuclear-family",
   title: "Nuclear Family",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 3.052433,
   ownProgress: 3.052433,

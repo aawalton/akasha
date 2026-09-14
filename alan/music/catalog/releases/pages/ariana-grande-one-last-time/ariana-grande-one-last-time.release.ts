@@ -5,7 +5,7 @@ export const arianaGrandeOneLastTime = {
   type: "release",
   slug: "ariana-grande-one-last-time",
   title: "One Last Time",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 9.9175,
   ownProgress: 9.9175,

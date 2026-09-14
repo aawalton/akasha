@@ -5,7 +5,7 @@ export const ledZeppelinLiveEp = {
   type: "release",
   slug: "led-zeppelin-live-ep",
   title: "Live EP",
-  partOfCollections: ["led-zeppelin"],
+  partOfCollections: ["artist/led-zeppelin"],
   position: 0,
   ownLength: 34.842267,
   ownProgress: 0,

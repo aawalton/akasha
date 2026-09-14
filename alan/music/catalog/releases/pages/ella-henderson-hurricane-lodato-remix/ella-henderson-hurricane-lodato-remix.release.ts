@@ -5,7 +5,7 @@ export const ellaHendersonHurricaneLodatoRemix = {
   type: "release",
   slug: "ella-henderson-hurricane-lodato-remix",
   title: "Hurricane (LODATO Remix)",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 2.539667,
   ownProgress: 2.539667,

@@ -5,7 +5,7 @@ export const enyaDarkSkyIsland = {
   type: "release",
   slug: "enya-dark-sky-island",
   title: "Dark Sky Island",
-  partOfCollections: ["enya"],
+  partOfCollections: ["artist/enya"],
   position: 0,
   ownLength: 44.0893,
   ownProgress: 44.0893,

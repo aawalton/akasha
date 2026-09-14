@@ -5,7 +5,7 @@ export const alexWarrenEternity = {
   type: "release",
   slug: "alex-warren-eternity",
   title: "Eternity",
-  partOfCollections: ["alex-warren"],
+  partOfCollections: ["artist/alex-warren"],
   position: 0,
   ownLength: 3.391233,
   ownProgress: 3.391233,

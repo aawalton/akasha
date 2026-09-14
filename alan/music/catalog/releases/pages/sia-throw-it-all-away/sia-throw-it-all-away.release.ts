@@ -5,7 +5,7 @@ export const siaThrowItAllAway = {
   type: "release",
   slug: "sia-throw-it-all-away",
   title: "Throw It All Away",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 4.026,
   ownProgress: 4.026,

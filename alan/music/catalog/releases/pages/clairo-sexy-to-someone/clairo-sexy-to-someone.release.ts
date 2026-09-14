@@ -5,7 +5,7 @@ export const clairoSexyToSomeone = {
   type: "release",
   slug: "clairo-sexy-to-someone",
   title: "Sexy to Someone",
-  partOfCollections: ["clairo"],
+  partOfCollections: ["artist/clairo"],
   position: 0,
   ownLength: 3.46325,
   ownProgress: 0,

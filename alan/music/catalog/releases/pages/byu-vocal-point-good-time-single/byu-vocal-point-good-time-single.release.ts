@@ -5,7 +5,7 @@ export const byuVocalPointGoodTimeSingle = {
   type: "release",
   slug: "byu-vocal-point-good-time-single",
   title: "Good Time - Single",
-  partOfCollections: ["byu-vocal-point"],
+  partOfCollections: ["artist/byu-vocal-point"],
   position: 0,
   ownLength: 2.899717,
   ownProgress: 0,

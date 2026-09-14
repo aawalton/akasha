@@ -5,7 +5,7 @@ export const byuVocalPointWeDonTTalkAboutBrunoFromEncanto = {
   type: "release",
   slug: "byu-vocal-point-we-don-t-talk-about-bruno-from-encanto",
   title: 'We Don\'t Talk About Bruno (From "Encanto")',
-  partOfCollections: ["byu-vocal-point"],
+  partOfCollections: ["artist/byu-vocal-point"],
   position: 0,
   ownLength: 3.610267,
   ownProgress: 0,

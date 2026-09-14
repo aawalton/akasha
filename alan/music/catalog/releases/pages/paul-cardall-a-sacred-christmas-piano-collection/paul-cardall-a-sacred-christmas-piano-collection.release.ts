@@ -5,7 +5,7 @@ export const paulCardallASacredChristmasPianoCollection = {
   type: "release",
   slug: "paul-cardall-a-sacred-christmas-piano-collection",
   title: "A Sacred Christmas | Piano Collection",
-  partOfCollections: ["paul-cardall"],
+  partOfCollections: ["artist/paul-cardall"],
   position: 0,
   ownLength: 45.98845,
   ownProgress: 45.98845,

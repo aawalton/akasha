@@ -5,7 +5,7 @@ export const byuVocalPointNewbornKing = {
   type: "release",
   slug: "byu-vocal-point-newborn-king",
   title: "Newborn King",
-  partOfCollections: ["byu-vocal-point"],
+  partOfCollections: ["artist/byu-vocal-point"],
   position: 0,
   ownLength: 21.127883,
   ownProgress: 0,

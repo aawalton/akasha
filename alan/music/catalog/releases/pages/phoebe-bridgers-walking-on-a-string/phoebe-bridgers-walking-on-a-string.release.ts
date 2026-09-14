@@ -5,7 +5,7 @@ export const phoebeBridgersWalkingOnAString = {
   type: "release",
   slug: "phoebe-bridgers-walking-on-a-string",
   title: "Walking on a String",
-  partOfCollections: ["phoebe-bridgers"],
+  partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
   ownLength: 8.783983,
   ownProgress: 8.783983,

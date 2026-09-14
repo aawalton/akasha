@@ -5,7 +5,7 @@ export const zaraLarssonEndOfTimeSpinallRemix = {
   type: "release",
   slug: "zara-larsson-end-of-time-spinall-remix",
   title: "End Of Time (SPINALL Remix)",
-  partOfCollections: ["zara-larsson"],
+  partOfCollections: ["artist/zara-larsson"],
   position: 0,
   ownLength: 3.68775,
   ownProgress: 3.68775,

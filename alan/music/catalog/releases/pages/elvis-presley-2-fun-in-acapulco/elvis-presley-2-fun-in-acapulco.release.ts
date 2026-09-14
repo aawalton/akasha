@@ -5,7 +5,7 @@ export const elvisPresley2FunInAcapulco = {
   type: "release",
   slug: "elvis-presley-2-fun-in-acapulco",
   title: "Fun in Acapulco",
-  partOfCollections: ["elvis-presley"],
+  partOfCollections: ["artist/elvis-presley"],
   position: 0,
   ownLength: 29.6635,
   ownProgress: 29.6635,

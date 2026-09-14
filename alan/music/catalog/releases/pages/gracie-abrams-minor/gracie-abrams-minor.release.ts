@@ -5,7 +5,7 @@ export const gracieAbramsMinor = {
   type: "release",
   slug: "gracie-abrams-minor",
   title: "minor",
-  partOfCollections: ["gracie-abrams"],
+  partOfCollections: ["artist/gracie-abrams"],
   position: 0,
   ownLength: 20.215567,
   ownProgress: 20.215567,

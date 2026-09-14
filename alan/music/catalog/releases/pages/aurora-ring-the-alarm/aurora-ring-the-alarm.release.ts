@@ -5,7 +5,7 @@ export const auroraRingTheAlarm = {
   type: "release",
   slug: "aurora-ring-the-alarm",
   title: "RING THE ALARM",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 5.52355,
   ownProgress: 5.52355,

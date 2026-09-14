@@ -5,7 +5,7 @@ export const jennaRaineItIsWhatItIsVersions = {
   type: "release",
   slug: "jenna-raine-it-is-what-it-is-versions",
   title: "It Is What It Is (Versions)",
-  partOfCollections: ["jenna-raine"],
+  partOfCollections: ["artist/jenna-raine"],
   position: 0,
   ownLength: 4.675433,
   ownProgress: 4.675433,

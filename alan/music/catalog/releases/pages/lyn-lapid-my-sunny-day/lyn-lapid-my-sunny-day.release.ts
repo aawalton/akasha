@@ -5,7 +5,7 @@ export const lynLapidMySunnyDay = {
   type: "release",
   slug: "lyn-lapid-my-sunny-day",
   title: "My Sunny Day",
-  partOfCollections: ["lyn-lapid"],
+  partOfCollections: ["artist/lyn-lapid"],
   position: 0,
   ownLength: 2.160683,
   ownProgress: 2.160683,

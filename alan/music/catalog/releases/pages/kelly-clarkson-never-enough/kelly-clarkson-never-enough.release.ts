@@ -5,7 +5,7 @@ export const kellyClarksonNeverEnough = {
   type: "release",
   slug: "kelly-clarkson-never-enough",
   title: "Never Enough",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 3.402217,
   ownProgress: 3.402217,

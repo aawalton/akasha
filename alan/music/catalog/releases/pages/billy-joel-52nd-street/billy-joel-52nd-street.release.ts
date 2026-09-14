@@ -5,7 +5,7 @@ export const billyJoel52ndStreet = {
   type: "release",
   slug: "billy-joel-52nd-street",
   title: "52nd Street",
-  partOfCollections: ["billy-joel"],
+  partOfCollections: ["artist/billy-joel"],
   position: 0,
   ownLength: 40.429283,
   ownProgress: 0,

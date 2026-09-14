@@ -5,7 +5,7 @@ export const katyPerryTeenageDreamTheCompleteConfection = {
   type: "release",
   slug: "katy-perry-teenage-dream-the-complete-confection",
   title: "Teenage Dream: The Complete Confection",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 77.007033,
   ownProgress: 77.007033,

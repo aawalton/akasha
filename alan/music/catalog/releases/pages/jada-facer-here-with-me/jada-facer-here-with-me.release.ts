@@ -5,7 +5,7 @@ export const jadaFacerHereWithMe = {
   type: "release",
   slug: "jada-facer-here-with-me",
   title: "Here With Me",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.633917,
   ownProgress: 2.633917,

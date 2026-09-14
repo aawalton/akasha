@@ -5,7 +5,7 @@ export const kellyClarksonHeatNikoTheKidRemix = {
   type: "release",
   slug: "kelly-clarkson-heat-niko-the-kid-remix",
   title: "Heat (Niko the Kid Remix)",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 3.535133,
   ownProgress: 3.535133,

@@ -5,7 +5,7 @@ export const jadaFacerTimeAfterTimeAcoustic = {
   type: "release",
   slug: "jada-facer-time-after-time-acoustic",
   title: "Time After Time (Acoustic)",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.08025,
   ownProgress: 3.08025,

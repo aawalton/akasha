@@ -5,7 +5,7 @@ export const emei9Lives = {
   type: "release",
   slug: "emei-9-lives",
   title: "9 LIVES",
-  partOfCollections: ["emei"],
+  partOfCollections: ["artist/emei"],
   position: 0,
   ownLength: 7.346483,
   ownProgress: 7.346483,

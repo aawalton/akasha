@@ -5,7 +5,7 @@ export const jisooEarthquakeSamFeldtRemix = {
   type: "release",
   slug: "jisoo-earthquake-sam-feldt-remix",
   title: "earthquake (Sam Feldt remix)",
-  partOfCollections: ["jisoo"],
+  partOfCollections: ["artist/jisoo"],
   position: 0,
   ownLength: 2.484833,
   ownProgress: 2.484833,

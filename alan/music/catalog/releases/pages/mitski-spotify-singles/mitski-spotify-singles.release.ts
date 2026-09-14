@@ -5,7 +5,7 @@ export const mitskiSpotifySingles = {
   type: "release",
   slug: "mitski-spotify-singles",
   title: "Spotify Singles",
-  partOfCollections: ["mitski"],
+  partOfCollections: ["artist/mitski"],
   position: 0,
   ownLength: 5.6022,
   ownProgress: 5.6022,

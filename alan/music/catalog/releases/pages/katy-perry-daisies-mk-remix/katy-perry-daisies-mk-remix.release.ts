@@ -5,7 +5,7 @@ export const katyPerryDaisiesMkRemix = {
   type: "release",
   slug: "katy-perry-daisies-mk-remix",
   title: "Daisies (MK Remix)",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 3.573667,
   ownProgress: 3.573667,

@@ -5,7 +5,7 @@ export const leonardCohenCanTForgetASouvenirOfTheGrandTour = {
   type: "release",
   slug: "leonard-cohen-can-t-forget-a-souvenir-of-the-grand-tour",
   title: "Can't Forget: A Souvenir of the Grand Tour",
-  partOfCollections: ["leonard-cohen"],
+  partOfCollections: ["artist/leonard-cohen"],
   position: 0,
   ownLength: 48.65305,
   ownProgress: 0,

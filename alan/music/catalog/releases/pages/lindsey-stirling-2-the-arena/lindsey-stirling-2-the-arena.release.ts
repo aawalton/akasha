@@ -5,7 +5,7 @@ export const lindseyStirling2TheArena = {
   type: "release",
   slug: "lindsey-stirling-2-the-arena",
   title: "The Arena",
-  partOfCollections: ["lindsey-stirling"],
+  partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
   ownLength: 3.871333,
   ownProgress: 3.871333,

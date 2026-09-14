@@ -5,7 +5,7 @@ export const billyJoelCollectedAdditionalMasters = {
   type: "release",
   slug: "billy-joel-collected-additional-masters",
   title: "Collected Additional Masters",
-  partOfCollections: ["billy-joel"],
+  partOfCollections: ["artist/billy-joel"],
   position: 0,
   ownLength: 66.2692,
   ownProgress: 0,

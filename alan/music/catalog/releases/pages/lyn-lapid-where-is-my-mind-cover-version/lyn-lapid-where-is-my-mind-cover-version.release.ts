@@ -5,7 +5,7 @@ export const lynLapidWhereIsMyMindCoverVersion = {
   type: "release",
   slug: "lyn-lapid-where-is-my-mind-cover-version",
   title: "Where Is My Mind? (Cover Version)",
-  partOfCollections: ["lyn-lapid"],
+  partOfCollections: ["artist/lyn-lapid"],
   position: 0,
   ownLength: 1.892283,
   ownProgress: 1.892283,

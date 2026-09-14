@@ -5,7 +5,7 @@ export const lilithMaxBornToDie = {
   type: "release",
   slug: "lilith-max-born-to-die",
   title: "Born to Die",
-  partOfCollections: ["lilith-max"],
+  partOfCollections: ["artist/lilith-max"],
   position: 0,
   ownLength: 2.277483,
   ownProgress: 2.277483,

@@ -5,7 +5,7 @@ export const arianaGrandeSweetener = {
   type: "release",
   slug: "ariana-grande-sweetener",
   title: "Sweetener",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 47.531017,
   ownProgress: 47.531017,

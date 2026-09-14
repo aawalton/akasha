@@ -5,7 +5,7 @@ export const vinnyMarchiLifeline = {
   type: "release",
   slug: "vinny-marchi-lifeline",
   title: "LIFELINE",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 3.404767,
   ownProgress: 3.404767,

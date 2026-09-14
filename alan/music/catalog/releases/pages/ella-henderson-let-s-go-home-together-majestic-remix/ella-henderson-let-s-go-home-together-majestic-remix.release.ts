@@ -5,7 +5,7 @@ export const ellaHendersonLetSGoHomeTogetherMajesticRemix = {
   type: "release",
   slug: "ella-henderson-let-s-go-home-together-majestic-remix",
   title: "Let’s Go Home Together (Majestic Remix)",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 6.740483,
   ownProgress: 6.740483,

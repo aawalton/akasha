@@ -5,7 +5,7 @@ export const jadaFacerPsychoAcoustic = {
   type: "release",
   slug: "jada-facer-psycho-acoustic",
   title: "Psycho - Acoustic",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.615533,
   ownProgress: 2.615533,

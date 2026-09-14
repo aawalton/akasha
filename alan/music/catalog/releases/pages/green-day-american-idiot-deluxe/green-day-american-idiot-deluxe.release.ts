@@ -5,7 +5,7 @@ export const greenDayAmericanIdiotDeluxe = {
   type: "release",
   slug: "green-day-american-idiot-deluxe",
   title: "American Idiot (Deluxe)",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 65.22195,
   ownProgress: 65.22195,

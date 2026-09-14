@@ -5,7 +5,7 @@ export const jadaFacerWithOrWithoutYouAcoustic = {
   type: "release",
   slug: "jada-facer-with-or-without-you-acoustic",
   title: "With Or Without You (Acoustic)",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.276917,
   ownProgress: 3.276917,

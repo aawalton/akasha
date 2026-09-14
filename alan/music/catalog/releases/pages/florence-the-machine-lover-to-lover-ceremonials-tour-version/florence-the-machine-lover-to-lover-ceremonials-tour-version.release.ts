@@ -5,7 +5,7 @@ export const florenceTheMachineLoverToLoverCeremonialsTourVersion = {
   type: "release",
   slug: "florence-the-machine-lover-to-lover-ceremonials-tour-version",
   title: "Lover To Lover (Ceremonials Tour Version)",
-  partOfCollections: ["florence-the-machine"],
+  partOfCollections: ["artist/florence-the-machine"],
   position: 0,
   ownLength: 3.727083,
   ownProgress: 3.727083,

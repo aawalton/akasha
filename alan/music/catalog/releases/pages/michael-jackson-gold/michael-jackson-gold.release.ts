@@ -5,7 +5,7 @@ export const michaelJacksonGold = {
   type: "release",
   slug: "michael-jackson-gold",
   title: "Gold",
-  partOfCollections: ["michael-jackson"],
+  partOfCollections: ["artist/michael-jackson"],
   position: 0,
   ownLength: 107.475133,
   ownProgress: 107.475133,

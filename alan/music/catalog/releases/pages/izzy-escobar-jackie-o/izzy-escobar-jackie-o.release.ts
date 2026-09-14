@@ -5,7 +5,7 @@ export const izzyEscobarJackieO = {
   type: "release",
   slug: "izzy-escobar-jackie-o",
   title: "Jackie O",
-  partOfCollections: ["izzy-escobar"],
+  partOfCollections: ["artist/izzy-escobar"],
   position: 0,
   ownLength: 7.738033,
   ownProgress: 7.738033,

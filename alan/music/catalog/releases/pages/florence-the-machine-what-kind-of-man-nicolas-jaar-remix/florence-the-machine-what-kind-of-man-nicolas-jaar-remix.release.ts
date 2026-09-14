@@ -5,7 +5,7 @@ export const florenceTheMachineWhatKindOfManNicolasJaarRemix = {
   type: "release",
   slug: "florence-the-machine-what-kind-of-man-nicolas-jaar-remix",
   title: "What Kind Of Man (Nicolas Jaar Remix)",
-  partOfCollections: ["florence-the-machine"],
+  partOfCollections: ["artist/florence-the-machine"],
   position: 0,
   ownLength: 12.360217,
   ownProgress: 12.360217,

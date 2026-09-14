@@ -5,7 +5,7 @@ export const leonardCohenVariousPositions = {
   type: "release",
   slug: "leonard-cohen-various-positions",
   title: "Various Positions",
-  partOfCollections: ["leonard-cohen"],
+  partOfCollections: ["artist/leonard-cohen"],
   position: 0,
   ownLength: 35.3015,
   ownProgress: 0,

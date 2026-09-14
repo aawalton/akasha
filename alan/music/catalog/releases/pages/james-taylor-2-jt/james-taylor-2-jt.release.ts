@@ -5,7 +5,7 @@ export const jamesTaylor2Jt = {
   type: "release",
   slug: "james-taylor-2-jt",
   title: "JT",
-  partOfCollections: ["james-taylor"],
+  partOfCollections: ["artist/james-taylor"],
   position: 0,
   ownLength: 37.85215,
   ownProgress: 37.85215,

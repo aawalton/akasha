@@ -5,7 +5,7 @@ export const sabrinaCarpenterOnMyWayDaTweekazRemix = {
   type: "release",
   slug: "sabrina-carpenter-on-my-way-da-tweekaz-remix",
   title: "On My Way (Da Tweekaz Remix)",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 3.4033,
   ownProgress: 3.4033,

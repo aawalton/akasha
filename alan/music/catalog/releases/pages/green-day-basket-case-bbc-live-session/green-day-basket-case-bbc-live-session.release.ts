@@ -5,7 +5,7 @@ export const greenDayBasketCaseBbcLiveSession = {
   type: "release",
   slug: "green-day-basket-case-bbc-live-session",
   title: "Basket Case (BBC Live Session)",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 2.936983,
   ownProgress: 0,

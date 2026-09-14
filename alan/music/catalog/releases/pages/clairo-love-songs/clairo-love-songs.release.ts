@@ -5,7 +5,7 @@ export const clairoLoveSongs = {
   type: "release",
   slug: "clairo-love-songs",
   title: "Love Songs",
-  partOfCollections: ["clairo"],
+  partOfCollections: ["artist/clairo"],
   position: 0,
   ownLength: 2.972533,
   ownProgress: 0,

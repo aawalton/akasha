@@ -5,7 +5,7 @@ export const jadaFacerBeMyMistakeAcoustic = {
   type: "release",
   slug: "jada-facer-be-my-mistake-acoustic",
   title: "Be My Mistake (Acoustic)",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.239817,
   ownProgress: 3.239817,

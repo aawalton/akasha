@@ -5,7 +5,7 @@ export const florenceTheMachineBigGod = {
   type: "release",
   slug: "florence-the-machine-big-god",
   title: "Big God",
-  partOfCollections: ["florence-the-machine"],
+  partOfCollections: ["artist/florence-the-machine"],
   position: 0,
   ownLength: 4.029333,
   ownProgress: 4.029333,

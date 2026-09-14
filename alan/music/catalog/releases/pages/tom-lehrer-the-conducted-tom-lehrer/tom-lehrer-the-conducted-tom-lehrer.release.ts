@@ -5,7 +5,7 @@ export const tomLehrerTheConductedTomLehrer = {
   type: "release",
   slug: "tom-lehrer-the-conducted-tom-lehrer",
   title: "The Conducted Tom Lehrer",
-  partOfCollections: ["tom-lehrer"],
+  partOfCollections: ["artist/tom-lehrer"],
   position: 0,
   ownLength: 33.097683,
   ownProgress: 33.097683,

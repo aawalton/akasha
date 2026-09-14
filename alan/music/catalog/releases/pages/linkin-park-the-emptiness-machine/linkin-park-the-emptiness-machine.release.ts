@@ -5,7 +5,7 @@ export const linkinParkTheEmptinessMachine = {
   type: "release",
   slug: "linkin-park-the-emptiness-machine",
   title: "The Emptiness Machine",
-  partOfCollections: ["linkin-park"],
+  partOfCollections: ["artist/linkin-park"],
   position: 0,
   ownLength: 3.173783,
   ownProgress: 0,

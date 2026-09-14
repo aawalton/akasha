@@ -5,7 +5,7 @@ export const justinTimberlakeUntilTheEndOfTimeWithBeyonce = {
   type: "release",
   slug: "justin-timberlake-until-the-end-of-time-with-beyonce",
   title: "Until The End Of Time (with Beyoncé)",
-  partOfCollections: ["justin-timberlake"],
+  partOfCollections: ["artist/justin-timberlake"],
   position: 0,
   ownLength: 21.399967,
   ownProgress: 0,

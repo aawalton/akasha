@@ -5,7 +5,7 @@ export const snailMailSnailMailOnAudiotreeLive = {
   type: "release",
   slug: "snail-mail-snail-mail-on-audiotree-live",
   title: "Snail Mail on Audiotree Live",
-  partOfCollections: ["snail-mail"],
+  partOfCollections: ["artist/snail-mail"],
   position: 0,
   ownLength: 23.950117,
   ownProgress: 0,

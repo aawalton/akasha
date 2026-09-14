@@ -5,7 +5,7 @@ export const vinnyMarchiComeLittleChildren = {
   type: "release",
   slug: "vinny-marchi-come-little-children",
   title: "Come Little Children",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 2.57475,
   ownProgress: 2.57475,

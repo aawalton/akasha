@@ -5,7 +5,7 @@ export const michaelJacksonMotownLegendsRockinRobin = {
   type: "release",
   slug: "michael-jackson-motown-legends-rockin-robin",
   title: "Motown Legends: Rockin' Robin",
-  partOfCollections: ["michael-jackson"],
+  partOfCollections: ["artist/michael-jackson"],
   position: 0,
   ownLength: 37.05105,
   ownProgress: 37.05105,

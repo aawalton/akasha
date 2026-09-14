@@ -5,7 +5,7 @@ export const celticWoman2OrinocoFlow = {
   type: "release",
   slug: "celtic-woman-2-orinoco-flow",
   title: "Orinoco Flow",
-  partOfCollections: ["celtic-woman"],
+  partOfCollections: ["artist/celtic-woman"],
   position: 0,
   ownLength: 3.87155,
   ownProgress: 3.87155,

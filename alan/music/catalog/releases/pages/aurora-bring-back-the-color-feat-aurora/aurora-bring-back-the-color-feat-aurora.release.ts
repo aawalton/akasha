@@ -5,7 +5,7 @@ export const auroraBringBackTheColorFeatAurora = {
   type: "release",
   slug: "aurora-bring-back-the-color-feat-aurora",
   title: "BRING BACK THE COLOR (feat. AURORA)",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 2.809083,
   ownProgress: 2.809083,

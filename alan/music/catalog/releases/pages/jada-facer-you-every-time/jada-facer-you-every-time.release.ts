@@ -5,7 +5,7 @@ export const jadaFacerYouEveryTime = {
   type: "release",
   slug: "jada-facer-you-every-time",
   title: "you, every time",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.312317,
   ownProgress: 3.312317,

@@ -5,7 +5,7 @@ export const pentatonixPtxVolIvClassics = {
   type: "release",
   slug: "pentatonix-ptx-vol-iv-classics",
   title: "PTX Vol. IV - Classics",
-  partOfCollections: ["pentatonix"],
+  partOfCollections: ["artist/pentatonix"],
   position: 0,
   ownLength: 25.1335,
   ownProgress: 25.1335,

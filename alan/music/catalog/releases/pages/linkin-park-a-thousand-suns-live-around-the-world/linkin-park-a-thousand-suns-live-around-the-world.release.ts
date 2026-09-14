@@ -5,7 +5,7 @@ export const linkinParkAThousandSunsLiveAroundTheWorld = {
   type: "release",
   slug: "linkin-park-a-thousand-suns-live-around-the-world",
   title: "A Thousand Suns Live Around the World",
-  partOfCollections: ["linkin-park"],
+  partOfCollections: ["artist/linkin-park"],
   position: 0,
   ownLength: 40.865483,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const byuVocalPointItIsWellWithMySoul = {
   type: "release",
   slug: "byu-vocal-point-it-is-well-with-my-soul",
   title: "It Is Well with My Soul",
-  partOfCollections: ["byu-vocal-point"],
+  partOfCollections: ["artist/byu-vocal-point"],
   position: 0,
   ownLength: 3.941517,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const kellyClarksonHeatBynonRemix = {
   type: "release",
   slug: "kelly-clarkson-heat-bynon-remix",
   title: "Heat (BYNON Remix)",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 3.536817,
   ownProgress: 3.536817,

@@ -5,7 +5,7 @@ export const sabrinaCarpenterFirstLove = {
   type: "release",
   slug: "sabrina-carpenter-first-love",
   title: "First Love",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 3.457117,
   ownProgress: 3.457117,

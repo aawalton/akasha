@@ -5,7 +5,7 @@ export const jadaFacerWishYouWereSoberAcoustic = {
   type: "release",
   slug: "jada-facer-wish-you-were-sober-acoustic",
   title: "Wish You Were Sober (Acoustic)",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.758333,
   ownProgress: 2.758333,

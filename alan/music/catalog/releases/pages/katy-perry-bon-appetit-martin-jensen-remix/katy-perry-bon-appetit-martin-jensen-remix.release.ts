@@ -5,7 +5,7 @@ export const katyPerryBonAppetitMartinJensenRemix = {
   type: "release",
   slug: "katy-perry-bon-appetit-martin-jensen-remix",
   title: "Bon Appétit (Martin Jensen Remix)",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 2.946717,
   ownProgress: 2.946717,

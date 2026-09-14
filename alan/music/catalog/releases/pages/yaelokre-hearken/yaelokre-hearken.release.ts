@@ -5,7 +5,7 @@ export const yaelokreHearken = {
   type: "release",
   slug: "yaelokre-hearken",
   title: "Hearken",
-  partOfCollections: ["yaelokre"],
+  partOfCollections: ["artist/yaelokre"],
   position: 0,
   ownLength: 6.194517,
   ownProgress: 0,

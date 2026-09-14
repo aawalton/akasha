@@ -5,7 +5,7 @@ export const jadaFacerKissMe = {
   type: "release",
   slug: "jada-facer-kiss-me",
   title: "Kiss Me",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.731167,
   ownProgress: 2.731167,

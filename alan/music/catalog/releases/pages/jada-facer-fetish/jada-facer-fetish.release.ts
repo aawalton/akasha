@@ -5,7 +5,7 @@ export const jadaFacerFetish = {
   type: "release",
   slug: "jada-facer-fetish",
   title: "Fetish",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.24485,
   ownProgress: 2.24485,

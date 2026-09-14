@@ -5,7 +5,7 @@ export const metallicaBlackened2020 = {
   type: "release",
   slug: "metallica-blackened-2020",
   title: "Blackened 2020",
-  partOfCollections: ["metallica"],
+  partOfCollections: ["artist/metallica"],
   position: 0,
   ownLength: 5.538883,
   ownProgress: 0,

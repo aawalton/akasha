@@ -5,7 +5,7 @@ export const ellaHendersonWeGotLoveAcoustic = {
   type: "release",
   slug: "ella-henderson-we-got-love-acoustic",
   title: "We Got Love (Acoustic)",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 3.522417,
   ownProgress: 3.522417,

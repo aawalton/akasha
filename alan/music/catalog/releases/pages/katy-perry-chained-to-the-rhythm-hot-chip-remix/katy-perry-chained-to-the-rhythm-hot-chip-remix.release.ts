@@ -5,7 +5,7 @@ export const katyPerryChainedToTheRhythmHotChipRemix = {
   type: "release",
   slug: "katy-perry-chained-to-the-rhythm-hot-chip-remix",
   title: "Chained To The Rhythm (Hot Chip Remix)",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 5.700083,
   ownProgress: 5.700083,

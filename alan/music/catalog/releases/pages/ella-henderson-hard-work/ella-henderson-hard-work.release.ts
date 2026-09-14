@@ -5,7 +5,7 @@ export const ellaHendersonHardWork = {
   type: "release",
   slug: "ella-henderson-hard-work",
   title: "Hard Work",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 4.526817,
   ownProgress: 4.526817,

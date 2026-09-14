@@ -5,7 +5,7 @@ export const leonardCohenFieldCommanderCohen = {
   type: "release",
   slug: "leonard-cohen-field-commander-cohen",
   title: "Field Commander Cohen",
-  partOfCollections: ["leonard-cohen"],
+  partOfCollections: ["artist/leonard-cohen"],
   position: 0,
   ownLength: 62.8977,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareRejoiceAndBeMerry = {
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-rejoice-and-be-merry",
   title: "Rejoice and Be Merry!",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 73.891667,
   ownProgress: 0,

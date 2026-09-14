@@ -5,7 +5,7 @@ export const jadaFacerLetMeDownSlowlyAcoustic = {
   type: "release",
   slug: "jada-facer-let-me-down-slowly-acoustic",
   title: "Let Me Down Slowly (Acoustic)",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.329933,
   ownProgress: 2.329933,

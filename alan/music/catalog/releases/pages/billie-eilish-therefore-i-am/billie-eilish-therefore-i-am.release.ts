@@ -5,7 +5,7 @@ export const billieEilishThereforeIAm = {
   type: "release",
   slug: "billie-eilish-therefore-i-am",
   title: "Therefore I Am",
-  partOfCollections: ["billie-eilish"],
+  partOfCollections: ["artist/billie-eilish"],
   position: 0,
   ownLength: 2.90535,
   ownProgress: 2.90535,

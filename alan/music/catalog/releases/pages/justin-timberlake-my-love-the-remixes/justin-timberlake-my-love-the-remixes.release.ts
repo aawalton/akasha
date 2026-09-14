@@ -5,7 +5,7 @@ export const justinTimberlakeMyLoveTheRemixes = {
   type: "release",
   slug: "justin-timberlake-my-love-the-remixes",
   title: "My Love: The Remixes",
-  partOfCollections: ["justin-timberlake"],
+  partOfCollections: ["artist/justin-timberlake"],
   position: 0,
   ownLength: 31.618867,
   ownProgress: 0,

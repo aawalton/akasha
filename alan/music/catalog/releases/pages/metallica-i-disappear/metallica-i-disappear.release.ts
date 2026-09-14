@@ -5,7 +5,7 @@ export const metallicaIDisappear = {
   type: "release",
   slug: "metallica-i-disappear",
   title: "I Disappear",
-  partOfCollections: ["metallica"],
+  partOfCollections: ["artist/metallica"],
   position: 0,
   ownLength: 4.437333,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const siaSavedMyLife = {
   type: "release",
   slug: "sia-saved-my-life",
   title: "Saved My Life",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 3.925517,
   ownProgress: 3.925517,

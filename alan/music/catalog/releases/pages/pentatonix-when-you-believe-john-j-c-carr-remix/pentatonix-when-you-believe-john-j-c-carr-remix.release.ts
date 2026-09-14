@@ -5,7 +5,7 @@ export const pentatonixWhenYouBelieveJohnJCCarrRemix = {
   type: "release",
   slug: "pentatonix-when-you-believe-john-j-c-carr-remix",
   title: 'When You Believe (John "J-C" Carr Remix)',
-  partOfCollections: ["pentatonix"],
+  partOfCollections: ["artist/pentatonix"],
   position: 0,
   ownLength: 3.6289,
   ownProgress: 3.6289,

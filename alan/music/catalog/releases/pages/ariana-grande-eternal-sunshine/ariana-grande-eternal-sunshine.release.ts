@@ -5,7 +5,7 @@ export const arianaGrandeEternalSunshine = {
   type: "release",
   slug: "ariana-grande-eternal-sunshine",
   title: "eternal sunshine",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 35.538817,
   ownProgress: 35.538817,

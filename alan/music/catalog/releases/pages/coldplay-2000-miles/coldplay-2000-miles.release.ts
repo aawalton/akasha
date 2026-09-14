@@ -5,7 +5,7 @@ export const coldplay2000Miles = {
   type: "release",
   slug: "coldplay-2000-miles",
   title: "2000 Miles",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 3.26195,
   ownProgress: 3.26195,

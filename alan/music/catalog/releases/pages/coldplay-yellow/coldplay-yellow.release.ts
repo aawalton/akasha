@@ -5,7 +5,7 @@ export const coldplayYellow = {
   type: "release",
   slug: "coldplay-yellow",
   title: "Yellow",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 11.568433,
   ownProgress: 11.568433,

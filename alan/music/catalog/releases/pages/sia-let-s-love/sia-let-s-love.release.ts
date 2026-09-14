@@ -5,7 +5,7 @@ export const siaLetSLove = {
   type: "release",
   slug: "sia-let-s-love",
   title: "Let's Love",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 3.344083,
   ownProgress: 3.344083,

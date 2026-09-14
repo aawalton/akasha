@@ -5,7 +5,7 @@ export const lilithMaxLeaveTheArmor = {
   type: "release",
   slug: "lilith-max-leave-the-armor",
   title: "Leave the Armor",
-  partOfCollections: ["lilith-max"],
+  partOfCollections: ["artist/lilith-max"],
   position: 0,
   ownLength: 4.282933,
   ownProgress: 4.282933,

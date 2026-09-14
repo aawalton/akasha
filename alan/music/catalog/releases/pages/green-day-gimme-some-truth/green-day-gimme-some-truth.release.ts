@@ -5,7 +5,7 @@ export const greenDayGimmeSomeTruth = {
   type: "release",
   slug: "green-day-gimme-some-truth",
   title: "Gimme Some Truth",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 2.806183,
   ownProgress: 0,

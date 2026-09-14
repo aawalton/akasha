@@ -5,7 +5,7 @@ export const lindseyStirling2WhatChildIsThis = {
   type: "release",
   slug: "lindsey-stirling-2-what-child-is-this",
   title: "What Child Is This",
-  partOfCollections: ["lindsey-stirling"],
+  partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
   ownLength: 3.520833,
   ownProgress: 3.520833,

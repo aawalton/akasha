@@ -5,7 +5,7 @@ export const lindseyStirling2ShatterMeDeluxe = {
   type: "release",
   slug: "lindsey-stirling-2-shatter-me-deluxe",
   title: "Shatter Me (Deluxe)",
-  partOfCollections: ["lindsey-stirling"],
+  partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
   ownLength: 64.221733,
   ownProgress: 64.221733,

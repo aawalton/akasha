@@ -5,7 +5,7 @@ export const lynLapidBuzzkillForever = {
   type: "release",
   slug: "lyn-lapid-buzzkill-forever",
   title: "BUZZKILL (forever)",
-  partOfCollections: ["lyn-lapid"],
+  partOfCollections: ["artist/lyn-lapid"],
   position: 0,
   ownLength: 46.137733,
   ownProgress: 46.137733,

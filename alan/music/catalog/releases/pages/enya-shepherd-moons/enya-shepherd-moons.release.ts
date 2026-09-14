@@ -5,7 +5,7 @@ export const enyaShepherdMoons = {
   type: "release",
   slug: "enya-shepherd-moons",
   title: "Shepherd Moons",
-  partOfCollections: ["enya"],
+  partOfCollections: ["artist/enya"],
   position: 0,
   ownLength: 53.054817,
   ownProgress: 53.054817,

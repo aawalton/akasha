@@ -5,7 +5,7 @@ export const theHoldernessFamilyBestOf2022 = {
   type: "release",
   slug: "the-holderness-family-best-of-2022",
   title: "Best of 2022",
-  partOfCollections: ["the-holderness-family"],
+  partOfCollections: ["artist/the-holderness-family"],
   position: 0,
   ownLength: 45.066367,
   ownProgress: 45.066367,

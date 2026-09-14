@@ -5,7 +5,7 @@ export const coldplayASkyFullOfStarsRobinSchulzRemix = {
   type: "release",
   slug: "coldplay-a-sky-full-of-stars-robin-schulz-remix",
   title: "A Sky Full of Stars (Robin Schulz Remix)",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 6.050333,
   ownProgress: 6.050333,

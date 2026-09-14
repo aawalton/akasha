@@ -5,7 +5,7 @@ export const michaelJacksonTheEssentialMichaelJackson = {
   type: "release",
   slug: "michael-jackson-the-essential-michael-jackson",
   title: "The Essential Michael Jackson",
-  partOfCollections: ["michael-jackson"],
+  partOfCollections: ["artist/michael-jackson"],
   position: 0,
   ownLength: 157.779317,
   ownProgress: 157.779317,

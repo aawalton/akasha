@@ -5,7 +5,7 @@ export const jadaFacerBoysLie = {
   type: "release",
   slug: "jada-facer-boys-lie",
   title: "Boys Lie",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.286883,
   ownProgress: 3.286883,

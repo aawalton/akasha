@@ -5,7 +5,7 @@ export const siaCourageToChange = {
   type: "release",
   slug: "sia-courage-to-change",
   title: "Courage to Change",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 4.8776,
   ownProgress: 4.8776,

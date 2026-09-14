@@ -5,7 +5,7 @@ export const justinTimberlake12MastersTheEssentialMixes = {
   type: "release",
   slug: "justin-timberlake-12-masters-the-essential-mixes",
   title: '12" Masters - The Essential Mixes',
-  partOfCollections: ["justin-timberlake"],
+  partOfCollections: ["artist/justin-timberlake"],
   position: 0,
   ownLength: 74.3866,
   ownProgress: 0,

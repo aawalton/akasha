@@ -5,7 +5,7 @@ export const jadaFacerDancingOnMyOwn = {
   type: "release",
   slug: "jada-facer-dancing-on-my-own",
   title: "Dancing On My Own",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.770067,
   ownProgress: 2.770067,

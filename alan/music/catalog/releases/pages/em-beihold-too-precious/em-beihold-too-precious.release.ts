@@ -5,7 +5,7 @@ export const emBeiholdTooPrecious = {
   type: "release",
   slug: "em-beihold-too-precious",
   title: "Too Precious",
-  partOfCollections: ["em-beihold"],
+  partOfCollections: ["artist/em-beihold"],
   position: 0,
   ownLength: 2.830833,
   ownProgress: 2.830833,

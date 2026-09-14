@@ -5,7 +5,7 @@ export const kellyClarksonCatchMyBreathRemixes = {
   type: "release",
   slug: "kelly-clarkson-catch-my-breath-remixes",
   title: "Catch My Breath Remixes",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 36.768833,
   ownProgress: 36.768833,

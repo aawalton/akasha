@@ -5,7 +5,7 @@ export const thePianoGuys3TheFirstNoel = {
   type: "release",
   slug: "the-piano-guys-3-the-first-noel",
   title: "The First Noel",
-  partOfCollections: ["the-piano-guys"],
+  partOfCollections: ["artist/the-piano-guys"],
   position: 0,
   ownLength: 2.816667,
   ownProgress: 2.816667,

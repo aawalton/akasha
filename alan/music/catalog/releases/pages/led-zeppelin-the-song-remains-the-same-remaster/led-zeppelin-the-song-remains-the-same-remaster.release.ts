@@ -5,7 +5,7 @@ export const ledZeppelinTheSongRemainsTheSameRemaster = {
   type: "release",
   slug: "led-zeppelin-the-song-remains-the-same-remaster",
   title: "The Song Remains the Same (Remaster)",
-  partOfCollections: ["led-zeppelin"],
+  partOfCollections: ["artist/led-zeppelin"],
   position: 0,
   ownLength: 131.9777,
   ownProgress: 0,

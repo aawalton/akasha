@@ -5,7 +5,7 @@ export const jessicaBaioHome = {
   type: "release",
   slug: "jessica-baio-home",
   title: "home",
-  partOfCollections: ["jessica-baio"],
+  partOfCollections: ["artist/jessica-baio"],
   position: 0,
   ownLength: 2.970317,
   ownProgress: 2.970317,

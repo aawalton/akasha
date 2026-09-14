@@ -5,7 +5,7 @@ export const emeiDonTKnowAboutTheWorld = {
   type: "release",
   slug: "emei-don-t-know-about-the-world",
   title: "Don't Know About The World",
-  partOfCollections: ["emei"],
+  partOfCollections: ["artist/emei"],
   position: 0,
   ownLength: 2.394933,
   ownProgress: 2.394933,

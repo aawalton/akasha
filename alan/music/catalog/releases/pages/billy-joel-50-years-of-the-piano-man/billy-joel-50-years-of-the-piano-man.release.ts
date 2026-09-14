@@ -5,7 +5,7 @@ export const billyJoel50YearsOfThePianoMan = {
   type: "release",
   slug: "billy-joel-50-years-of-the-piano-man",
   title: "50 Years of the Piano Man",
-  partOfCollections: ["billy-joel"],
+  partOfCollections: ["artist/billy-joel"],
   position: 0,
   ownLength: 225.687033,
   ownProgress: 0,

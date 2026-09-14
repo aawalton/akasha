@@ -5,7 +5,7 @@ export const enyaCaribbeanBlue = {
   type: "release",
   slug: "enya-caribbean-blue",
   title: "Caribbean Blue",
-  partOfCollections: ["enya"],
+  partOfCollections: ["artist/enya"],
   position: 0,
   ownLength: 10.518217,
   ownProgress: 10.518217,

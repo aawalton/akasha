@@ -5,7 +5,7 @@ export const jadaFacerYellow = {
   type: "release",
   slug: "jada-facer-yellow",
   title: "Yellow",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.946667,
   ownProgress: 3.946667,

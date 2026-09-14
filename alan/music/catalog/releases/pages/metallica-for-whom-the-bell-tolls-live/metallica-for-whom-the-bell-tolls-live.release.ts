@@ -5,7 +5,7 @@ export const metallicaForWhomTheBellTollsLive = {
   type: "release",
   slug: "metallica-for-whom-the-bell-tolls-live",
   title: "For Whom the Bell Tolls (Live)",
-  partOfCollections: ["metallica"],
+  partOfCollections: ["artist/metallica"],
   position: 0,
   ownLength: 33.067883,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const billieEilishBored = {
   type: "release",
   slug: "billie-eilish-bored",
   title: "Bored",
-  partOfCollections: ["billie-eilish"],
+  partOfCollections: ["artist/billie-eilish"],
   position: 0,
   ownLength: 3.01555,
   ownProgress: 3.01555,

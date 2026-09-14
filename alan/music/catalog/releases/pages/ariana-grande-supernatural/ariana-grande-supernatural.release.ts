@@ -5,7 +5,7 @@ export const arianaGrandeSupernatural = {
   type: "release",
   slug: "ariana-grande-supernatural",
   title: "supernatural",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 13.6183,
   ownProgress: 13.6183,

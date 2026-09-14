@@ -5,7 +5,7 @@ export const jessicaBaioNeverAQuestion = {
   type: "release",
   slug: "jessica-baio-never-a-question",
   title: "never a question",
-  partOfCollections: ["jessica-baio"],
+  partOfCollections: ["artist/jessica-baio"],
   position: 0,
   ownLength: 2.744933,
   ownProgress: 2.744933,

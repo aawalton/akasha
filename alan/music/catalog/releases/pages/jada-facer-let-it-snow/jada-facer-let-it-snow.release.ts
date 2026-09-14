@@ -5,7 +5,7 @@ export const jadaFacerLetItSnow = {
   type: "release",
   slug: "jada-facer-let-it-snow",
   title: "Let It Snow",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 8.304717,
   ownProgress: 8.304717,

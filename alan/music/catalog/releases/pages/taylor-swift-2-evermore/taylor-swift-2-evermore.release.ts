@@ -5,7 +5,7 @@ export const taylorSwift2Evermore = {
   type: "release",
   slug: "taylor-swift-2-evermore",
   title: "evermore",
-  partOfCollections: ["taylor-swift"],
+  partOfCollections: ["artist/taylor-swift"],
   position: 0,
   ownLength: 60.7535,
   ownProgress: 60.7535,

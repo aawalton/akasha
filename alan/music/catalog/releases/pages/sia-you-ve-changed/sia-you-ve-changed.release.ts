@@ -5,7 +5,7 @@ export const siaYouVeChanged = {
   type: "release",
   slug: "sia-you-ve-changed",
   title: "You've Changed",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 3.186433,
   ownProgress: 3.186433,

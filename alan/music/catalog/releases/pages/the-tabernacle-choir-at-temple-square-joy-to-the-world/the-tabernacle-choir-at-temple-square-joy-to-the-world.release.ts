@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareJoyToTheWorld = {
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-joy-to-the-world",
   title: "Joy to the World",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 45.045917,
   ownProgress: 0,

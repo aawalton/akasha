@@ -5,7 +5,7 @@ export const siaReasonableRemixes2 = {
   type: "release",
   slug: "sia-reasonable-remixes-2",
   title: "Reasonable Remixes 2",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 17.647767,
   ownProgress: 17.647767,

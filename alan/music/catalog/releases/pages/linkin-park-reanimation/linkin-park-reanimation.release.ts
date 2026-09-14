@@ -5,7 +5,7 @@ export const linkinParkReanimation = {
   type: "release",
   slug: "linkin-park-reanimation",
   title: "Reanimation",
-  partOfCollections: ["linkin-park"],
+  partOfCollections: ["artist/linkin-park"],
   position: 0,
   ownLength: 73.66855,
   ownProgress: 0,

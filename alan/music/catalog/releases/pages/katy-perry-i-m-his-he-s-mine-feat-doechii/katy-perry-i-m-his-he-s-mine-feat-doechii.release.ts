@@ -5,7 +5,7 @@ export const katyPerryIMHisHeSMineFeatDoechii = {
   type: "release",
   slug: "katy-perry-i-m-his-he-s-mine-feat-doechii",
   title: "I'M HIS, HE'S MINE (feat. Doechii)",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 3.307683,
   ownProgress: 3.307683,

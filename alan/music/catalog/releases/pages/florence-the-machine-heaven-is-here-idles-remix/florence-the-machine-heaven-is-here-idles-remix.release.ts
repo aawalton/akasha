@@ -5,7 +5,7 @@ export const florenceTheMachineHeavenIsHereIdlesRemix = {
   type: "release",
   slug: "florence-the-machine-heaven-is-here-idles-remix",
   title: "Heaven Is Here (IDLES Remix)",
-  partOfCollections: ["florence-the-machine"],
+  partOfCollections: ["artist/florence-the-machine"],
   position: 0,
   ownLength: 4.135117,
   ownProgress: 4.135117,

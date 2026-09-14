@@ -5,7 +5,7 @@ export const sylviaDaleySecure = {
   type: "release",
   slug: "sylvia-daley-secure",
   title: "Secure",
-  partOfCollections: ["sylvia-daley"],
+  partOfCollections: ["artist/sylvia-daley"],
   position: 0,
   ownLength: 8.599633,
   ownProgress: 8.599633,

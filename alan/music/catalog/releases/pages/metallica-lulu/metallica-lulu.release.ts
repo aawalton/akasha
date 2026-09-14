@@ -5,7 +5,7 @@ export const metallicaLulu = {
   type: "release",
   slug: "metallica-lulu",
   title: "Lulu",
-  partOfCollections: ["metallica"],
+  partOfCollections: ["artist/metallica"],
   position: 0,
   ownLength: 87.129267,
   ownProgress: 0,

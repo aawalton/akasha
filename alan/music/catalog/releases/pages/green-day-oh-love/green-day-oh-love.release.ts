@@ -5,7 +5,7 @@ export const greenDayOhLove = {
   type: "release",
   slug: "green-day-oh-love",
   title: "Oh Love",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 5.054883,
   ownProgress: 5.054883,

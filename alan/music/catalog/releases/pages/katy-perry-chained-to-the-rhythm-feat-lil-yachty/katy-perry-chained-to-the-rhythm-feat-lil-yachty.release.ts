@@ -5,7 +5,7 @@ export const katyPerryChainedToTheRhythmFeatLilYachty = {
   type: "release",
   slug: "katy-perry-chained-to-the-rhythm-feat-lil-yachty",
   title: "Chained To The Rhythm (Feat. Lil Yachty)",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 4.170667,
   ownProgress: 4.170667,

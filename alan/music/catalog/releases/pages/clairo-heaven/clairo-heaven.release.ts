@@ -5,7 +5,7 @@ export const clairoHeaven = {
   type: "release",
   slug: "clairo-heaven",
   title: "Heaven",
-  partOfCollections: ["clairo"],
+  partOfCollections: ["artist/clairo"],
   position: 0,
   ownLength: 3.89785,
   ownProgress: 0,

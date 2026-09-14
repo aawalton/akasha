@@ -5,7 +5,7 @@ export const thePianoGuys3EyesClosed = {
   type: "release",
   slug: "the-piano-guys-3-eyes-closed",
   title: "Eyes Closed",
-  partOfCollections: ["the-piano-guys"],
+  partOfCollections: ["artist/the-piano-guys"],
   position: 0,
   ownLength: 4.0759,
   ownProgress: 4.0759,

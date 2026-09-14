@@ -5,7 +5,7 @@ export const jadaFacerShutUpAndDanceAcoustic = {
   type: "release",
   slug: "jada-facer-shut-up-and-dance-acoustic",
   title: "Shut Up and Dance (Acoustic)",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.194233,
   ownProgress: 2.194233,

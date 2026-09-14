@@ -5,7 +5,7 @@ export const coldplayTrouble = {
   type: "release",
   slug: "coldplay-trouble",
   title: "Trouble",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 13.729767,
   ownProgress: 13.729767,

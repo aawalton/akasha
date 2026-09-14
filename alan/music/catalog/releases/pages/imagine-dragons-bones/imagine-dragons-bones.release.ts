@@ -5,7 +5,7 @@ export const imagineDragonsBones = {
   type: "release",
   slug: "imagine-dragons-bones",
   title: "Bones",
-  partOfCollections: ["imagine-dragons"],
+  partOfCollections: ["artist/imagine-dragons"],
   position: 0,
   ownLength: 2.7544,
   ownProgress: 2.7544,

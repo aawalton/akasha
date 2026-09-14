@@ -5,7 +5,7 @@ export const celticWoman2ANewJourney = {
   type: "release",
   slug: "celtic-woman-2-a-new-journey",
   title: "A New Journey",
-  partOfCollections: ["celtic-woman"],
+  partOfCollections: ["artist/celtic-woman"],
   position: 0,
   ownLength: 58.47635,
   ownProgress: 58.47635,

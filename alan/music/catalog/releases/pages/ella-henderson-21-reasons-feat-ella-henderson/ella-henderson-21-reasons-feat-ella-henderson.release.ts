@@ -5,7 +5,7 @@ export const ellaHenderson21ReasonsFeatEllaHenderson = {
   type: "release",
   slug: "ella-henderson-21-reasons-feat-ella-henderson",
   title: "21 Reasons (feat. Ella Henderson)",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 2.58755,
   ownProgress: 2.58755,

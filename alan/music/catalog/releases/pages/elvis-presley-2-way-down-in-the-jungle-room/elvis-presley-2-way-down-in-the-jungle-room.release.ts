@@ -5,7 +5,7 @@ export const elvisPresley2WayDownInTheJungleRoom = {
   type: "release",
   slug: "elvis-presley-2-way-down-in-the-jungle-room",
   title: "Way Down in the Jungle Room",
-  partOfCollections: ["elvis-presley"],
+  partOfCollections: ["artist/elvis-presley"],
   position: 0,
   ownLength: 130.73555,
   ownProgress: 130.73555,

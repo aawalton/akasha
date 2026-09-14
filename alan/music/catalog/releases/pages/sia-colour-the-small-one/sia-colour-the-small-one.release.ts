@@ -5,7 +5,7 @@ export const siaColourTheSmallOne = {
   type: "release",
   slug: "sia-colour-the-small-one",
   title: "Colour The Small One",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 70.5377,
   ownProgress: 70.5377,

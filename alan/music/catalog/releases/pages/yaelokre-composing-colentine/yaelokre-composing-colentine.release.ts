@@ -5,7 +5,7 @@ export const yaelokreComposingColentine = {
   type: "release",
   slug: "yaelokre-composing-colentine",
   title: "Composing Colentine",
-  partOfCollections: ["yaelokre"],
+  partOfCollections: ["artist/yaelokre"],
   position: 0,
   ownLength: 18.879817,
   ownProgress: 0,

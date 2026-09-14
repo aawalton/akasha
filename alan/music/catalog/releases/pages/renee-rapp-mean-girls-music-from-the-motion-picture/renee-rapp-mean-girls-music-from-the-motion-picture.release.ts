@@ -5,7 +5,7 @@ export const reneeRappMeanGirlsMusicFromTheMotionPicture = {
   type: "release",
   slug: "renee-rapp-mean-girls-music-from-the-motion-picture",
   title: "Mean Girls (Music From The Motion Picture)",
-  partOfCollections: ["renee-rapp"],
+  partOfCollections: ["artist/renee-rapp"],
   position: 0,
   ownLength: 34.4273,
   ownProgress: 34.4273,

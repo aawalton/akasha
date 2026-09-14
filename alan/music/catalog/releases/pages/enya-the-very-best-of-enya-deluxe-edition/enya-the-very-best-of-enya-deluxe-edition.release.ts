@@ -5,7 +5,7 @@ export const enyaTheVeryBestOfEnyaDeluxeEdition = {
   type: "release",
   slug: "enya-the-very-best-of-enya-deluxe-edition",
   title: "The Very Best of Enya (Deluxe Edition)",
-  partOfCollections: ["enya"],
+  partOfCollections: ["artist/enya"],
   position: 0,
   ownLength: 84.055617,
   ownProgress: 84.055617,

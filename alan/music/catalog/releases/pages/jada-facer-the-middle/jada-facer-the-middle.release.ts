@@ -5,7 +5,7 @@ export const jadaFacerTheMiddle = {
   type: "release",
   slug: "jada-facer-the-middle",
   title: "The Middle",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.2978,
   ownProgress: 2.2978,

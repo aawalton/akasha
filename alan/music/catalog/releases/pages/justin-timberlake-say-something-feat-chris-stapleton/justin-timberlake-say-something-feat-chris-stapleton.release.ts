@@ -5,7 +5,7 @@ export const justinTimberlakeSaySomethingFeatChrisStapleton = {
   type: "release",
   slug: "justin-timberlake-say-something-feat-chris-stapleton",
   title: "Say Something (feat. Chris Stapleton)",
-  partOfCollections: ["justin-timberlake"],
+  partOfCollections: ["artist/justin-timberlake"],
   position: 0,
   ownLength: 4.648217,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const katyPerryUnpluggedLiveAtMtvUnpluggedNewYorkNy2009 = {
   type: "release",
   slug: "katy-perry-unplugged-live-at-mtv-unplugged-new-york-ny-2009",
   title: "Unplugged (Live At MTV Unplugged, New York, NY/2009)",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 29.410183,
   ownProgress: 29.410183,

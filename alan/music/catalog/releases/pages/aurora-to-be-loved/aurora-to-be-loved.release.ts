@@ -5,7 +5,7 @@ export const auroraToBeLoved = {
   type: "release",
   slug: "aurora-to-be-loved",
   title: "To Be Loved",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 26.57055,
   ownProgress: 26.57055,

@@ -5,7 +5,7 @@ export const siaSomePeopleHaveRealProblems = {
   type: "release",
   slug: "sia-some-people-have-real-problems",
   title: "Some People Have REAL Problems",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 61.1288,
   ownProgress: 61.1288,

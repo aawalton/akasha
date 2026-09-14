@@ -5,7 +5,7 @@ export const musicalTheaterTangled = {
   type: "release",
   slug: "musical-theater-tangled",
   title: "Tangled",
-  partOfCollections: ["musical-theater"],
+  partOfCollections: ["release-collection/musical-theater"],
   position: 0,
   ownLength: 55.7928,
   ownProgress: 55.7928,

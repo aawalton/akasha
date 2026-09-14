@@ -5,7 +5,7 @@ export const jadaFacerLetHerGoAcoustic = {
   type: "release",
   slug: "jada-facer-let-her-go-acoustic",
   title: "Let Her Go (Acoustic)",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.809883,
   ownProgress: 2.809883,

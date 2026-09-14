@@ -5,7 +5,7 @@ export const kellyClarksonChemistryDeluxe = {
   type: "release",
   slug: "kelly-clarkson-chemistry-deluxe",
   title: "chemistry (Deluxe)",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 71.59555,
   ownProgress: 71.59555,

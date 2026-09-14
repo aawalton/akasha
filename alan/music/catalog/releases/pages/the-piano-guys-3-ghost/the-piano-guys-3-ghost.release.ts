@@ -5,7 +5,7 @@ export const thePianoGuys3Ghost = {
   type: "release",
   slug: "the-piano-guys-3-ghost",
   title: "Ghost",
-  partOfCollections: ["the-piano-guys"],
+  partOfCollections: ["artist/the-piano-guys"],
   position: 0,
   ownLength: 10.58825,
   ownProgress: 10.58825,

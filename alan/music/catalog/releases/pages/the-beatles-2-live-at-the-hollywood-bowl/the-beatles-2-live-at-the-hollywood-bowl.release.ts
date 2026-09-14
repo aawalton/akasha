@@ -5,7 +5,7 @@ export const theBeatles2LiveAtTheHollywoodBowl = {
   type: "release",
   slug: "the-beatles-2-live-at-the-hollywood-bowl",
   title: "Live At The Hollywood Bowl",
-  partOfCollections: ["the-beatles"],
+  partOfCollections: ["artist/the-beatles"],
   position: 0,
   ownLength: 43.582117,
   ownProgress: 43.582117,

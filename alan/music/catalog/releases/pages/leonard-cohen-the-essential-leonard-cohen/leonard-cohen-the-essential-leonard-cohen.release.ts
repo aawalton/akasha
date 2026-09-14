@@ -5,7 +5,7 @@ export const leonardCohenTheEssentialLeonardCohen = {
   type: "release",
   slug: "leonard-cohen-the-essential-leonard-cohen",
   title: "The Essential Leonard Cohen",
-  partOfCollections: ["leonard-cohen"],
+  partOfCollections: ["artist/leonard-cohen"],
   position: 0,
   ownLength: 155.89205,
   ownProgress: 0,

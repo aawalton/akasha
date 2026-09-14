@@ -5,7 +5,7 @@ export const japaneseBreakfastForMelancholyBrunettesSadWomen = {
   type: "release",
   slug: "japanese-breakfast-for-melancholy-brunettes-sad-women",
   title: "For Melancholy Brunettes (& sad women)",
-  partOfCollections: ["japanese-breakfast"],
+  partOfCollections: ["artist/japanese-breakfast"],
   position: 0,
   ownLength: 32.377517,
   ownProgress: 32.377517,

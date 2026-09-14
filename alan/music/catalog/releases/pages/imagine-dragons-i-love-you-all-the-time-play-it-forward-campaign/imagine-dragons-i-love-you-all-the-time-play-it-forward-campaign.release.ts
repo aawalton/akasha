@@ -5,7 +5,7 @@ export const imagineDragonsILoveYouAllTheTimePlayItForwardCampaign = {
   type: "release",
   slug: "imagine-dragons-i-love-you-all-the-time-play-it-forward-campaign",
   title: "I Love You All the Time (Play It Forward Campaign)",
-  partOfCollections: ["imagine-dragons"],
+  partOfCollections: ["artist/imagine-dragons"],
   position: 0,
   ownLength: 3.120717,
   ownProgress: 3.120717,

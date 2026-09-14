@@ -5,7 +5,7 @@ export const thePianoGuys3UnsungHero = {
   type: "release",
   slug: "the-piano-guys-3-unsung-hero",
   title: "Unsung Hero",
-  partOfCollections: ["the-piano-guys"],
+  partOfCollections: ["artist/the-piano-guys"],
   position: 0,
   ownLength: 8.8363,
   ownProgress: 8.8363,

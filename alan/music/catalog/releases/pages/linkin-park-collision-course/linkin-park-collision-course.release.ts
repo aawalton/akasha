@@ -5,7 +5,7 @@ export const linkinParkCollisionCourse = {
   type: "release",
   slug: "linkin-park-collision-course",
   title: "Collision Course",
-  partOfCollections: ["linkin-park"],
+  partOfCollections: ["artist/linkin-park"],
   position: 0,
   ownLength: 21.302633,
   ownProgress: 0,

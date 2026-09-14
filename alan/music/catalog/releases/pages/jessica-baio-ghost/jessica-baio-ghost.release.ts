@@ -5,7 +5,7 @@ export const jessicaBaioGhost = {
   type: "release",
   slug: "jessica-baio-ghost",
   title: "ghost",
-  partOfCollections: ["jessica-baio"],
+  partOfCollections: ["artist/jessica-baio"],
   position: 0,
   ownLength: 10.290533,
   ownProgress: 10.290533,

@@ -5,7 +5,7 @@ export const backstreetBoys2NoPlace = {
   type: "release",
   slug: "backstreet-boys-2-no-place",
   title: "No Place",
-  partOfCollections: ["backstreet-boys"],
+  partOfCollections: ["artist/backstreet-boys"],
   position: 0,
   ownLength: 2.995767,
   ownProgress: 2.995767,

@@ -5,7 +5,7 @@ export const paulCardallChristmasDreaming = {
   type: "release",
   slug: "paul-cardall-christmas-dreaming",
   title: "Christmas Dreaming",
-  partOfCollections: ["paul-cardall"],
+  partOfCollections: ["artist/paul-cardall"],
   position: 0,
   ownLength: 11.641767,
   ownProgress: 11.641767,

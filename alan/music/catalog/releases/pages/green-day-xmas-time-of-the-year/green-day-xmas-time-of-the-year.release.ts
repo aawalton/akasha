@@ -5,7 +5,7 @@ export const greenDayXmasTimeOfTheYear = {
   type: "release",
   slug: "green-day-xmas-time-of-the-year",
   title: "Xmas Time of the Year",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 2.298183,
   ownProgress: 2.298183,

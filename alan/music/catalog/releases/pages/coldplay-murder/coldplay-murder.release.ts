@@ -5,7 +5,7 @@ export const coldplayMurder = {
   type: "release",
   slug: "coldplay-murder",
   title: "Murder",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 5.581317,
   ownProgress: 5.581317,

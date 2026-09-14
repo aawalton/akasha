@@ -5,7 +5,7 @@ export const jadaFacerPerfectAcoustic = {
   type: "release",
   slug: "jada-facer-perfect-acoustic",
   title: "Perfect (Acoustic)",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.295933,
   ownProgress: 3.295933,

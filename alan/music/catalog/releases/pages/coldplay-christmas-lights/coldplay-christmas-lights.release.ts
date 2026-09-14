@@ -5,7 +5,7 @@ export const coldplayChristmasLights = {
   type: "release",
   slug: "coldplay-christmas-lights",
   title: "Christmas Lights",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 4.041583,
   ownProgress: 4.041583,

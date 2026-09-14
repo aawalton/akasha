@@ -5,7 +5,7 @@ export const greenDayNotThatWayAnymore = {
   type: "release",
   slug: "green-day-not-that-way-anymore",
   title: "Not That Way Anymore",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 2.878683,
   ownProgress: 0,

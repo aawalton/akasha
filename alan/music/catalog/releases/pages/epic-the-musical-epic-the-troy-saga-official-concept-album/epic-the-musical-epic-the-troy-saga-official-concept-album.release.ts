@@ -5,7 +5,7 @@ export const epicTheMusicalEpicTheTroySagaOfficialConceptAlbum = {
   type: "release",
   slug: "epic-the-musical-epic-the-troy-saga-official-concept-album",
   title: "EPIC: The Troy Saga (Official Concept Album)",
-  partOfCollections: ["epic-the-musical"],
+  partOfCollections: ["artist/epic-the-musical"],
   position: 0,
   ownLength: 16.144583,
   ownProgress: 16.144583,

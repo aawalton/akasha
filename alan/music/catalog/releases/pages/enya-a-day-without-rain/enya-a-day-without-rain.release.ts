@@ -5,7 +5,7 @@ export const enyaADayWithoutRain = {
   type: "release",
   slug: "enya-a-day-without-rain",
   title: "A Day Without Rain",
-  partOfCollections: ["enya"],
+  partOfCollections: ["artist/enya"],
   position: 0,
   ownLength: 37.509233,
   ownProgress: 37.509233,

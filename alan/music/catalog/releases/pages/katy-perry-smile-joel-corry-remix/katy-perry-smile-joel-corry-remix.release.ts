@@ -5,7 +5,7 @@ export const katyPerrySmileJoelCorryRemix = {
   type: "release",
   slug: "katy-perry-smile-joel-corry-remix",
   title: "Smile (Joel Corry Remix)",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 3.026733,
   ownProgress: 3.026733,

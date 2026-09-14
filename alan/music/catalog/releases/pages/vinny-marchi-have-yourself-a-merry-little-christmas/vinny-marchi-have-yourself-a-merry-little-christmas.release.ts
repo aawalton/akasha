@@ -5,7 +5,7 @@ export const vinnyMarchiHaveYourselfAMerryLittleChristmas = {
   type: "release",
   slug: "vinny-marchi-have-yourself-a-merry-little-christmas",
   title: "Have Yourself A Merry Little Christmas",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 2.70115,
   ownProgress: 2.70115,

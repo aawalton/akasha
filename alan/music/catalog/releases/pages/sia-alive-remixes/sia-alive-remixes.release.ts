@@ -5,7 +5,7 @@ export const siaAliveRemixes = {
   type: "release",
   slug: "sia-alive-remixes",
   title: "Alive (Remixes)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 21.523317,
   ownProgress: 21.523317,

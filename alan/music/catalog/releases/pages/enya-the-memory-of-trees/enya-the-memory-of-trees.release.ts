@@ -5,7 +5,7 @@ export const enyaTheMemoryOfTrees = {
   type: "release",
   slug: "enya-the-memory-of-trees",
   title: "The Memory of Trees",
-  partOfCollections: ["enya"],
+  partOfCollections: ["artist/enya"],
   position: 0,
   ownLength: 55.706367,
   ownProgress: 55.706367,

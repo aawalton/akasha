@@ -5,7 +5,7 @@ export const arianaGrandeBrandNewYouFrom13 = {
   type: "release",
   slug: "ariana-grande-brand-new-you-from-13",
   title: 'Brand New You (From "13")',
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 8.180433,
   ownProgress: 8.180433,

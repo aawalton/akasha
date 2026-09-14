@@ -5,7 +5,7 @@ export const coldplayTheHardestPart = {
   type: "release",
   slug: "coldplay-the-hardest-part",
   title: "The Hardest Part",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 8.658433,
   ownProgress: 8.658433,

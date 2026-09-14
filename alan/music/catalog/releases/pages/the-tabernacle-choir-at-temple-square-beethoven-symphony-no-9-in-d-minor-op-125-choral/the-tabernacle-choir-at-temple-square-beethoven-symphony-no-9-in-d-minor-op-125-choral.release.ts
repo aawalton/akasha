@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareBeethovenSymphonyNo9InDMinorOp125Ch
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-beethoven-symphony-no-9-in-d-minor-op-125-choral",
   title: 'Beethoven: Symphony No. 9 in D Minor, Op. 125 "Choral"',
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 64.744417,
   ownProgress: 64.744417,

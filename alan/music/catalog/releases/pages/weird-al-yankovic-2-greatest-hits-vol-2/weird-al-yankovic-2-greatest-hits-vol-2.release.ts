@@ -5,7 +5,7 @@ export const weirdAlYankovic2GreatestHitsVol2 = {
   type: "release",
   slug: "weird-al-yankovic-2-greatest-hits-vol-2",
   title: "Greatest Hits, Vol. 2",
-  partOfCollections: ["weird-al-yankovic"],
+  partOfCollections: ["artist/weird-al-yankovic"],
   position: 0,
   ownLength: 43.54305,
   ownProgress: 0,

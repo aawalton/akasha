@@ -5,7 +5,7 @@ export const theBeatles2YellowSubmarineSongtrack = {
   type: "release",
   slug: "the-beatles-2-yellow-submarine-songtrack",
   title: "Yellow Submarine Songtrack",
-  partOfCollections: ["the-beatles"],
+  partOfCollections: ["artist/the-beatles"],
   position: 0,
   ownLength: 45.641483,
   ownProgress: 45.641483,

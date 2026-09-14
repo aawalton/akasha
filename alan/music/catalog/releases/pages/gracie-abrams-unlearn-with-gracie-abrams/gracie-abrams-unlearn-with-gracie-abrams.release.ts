@@ -5,7 +5,7 @@ export const gracieAbramsUnlearnWithGracieAbrams = {
   type: "release",
   slug: "gracie-abrams-unlearn-with-gracie-abrams",
   title: "Unlearn (with Gracie Abrams)",
-  partOfCollections: ["gracie-abrams"],
+  partOfCollections: ["artist/gracie-abrams"],
   position: 0,
   ownLength: 2.58935,
   ownProgress: 2.58935,

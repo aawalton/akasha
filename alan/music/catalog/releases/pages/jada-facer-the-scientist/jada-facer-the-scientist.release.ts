@@ -5,7 +5,7 @@ export const jadaFacerTheScientist = {
   type: "release",
   slug: "jada-facer-the-scientist",
   title: "The Scientist",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 4.1371,
   ownProgress: 4.1371,

@@ -5,7 +5,7 @@ export const kDaPopStars = {
   type: "release",
   slug: "k-da-pop-stars",
   title: "POP/STARS",
-  partOfCollections: ["k-da"],
+  partOfCollections: ["artist/k-da"],
   position: 0,
   ownLength: 3.185,
   ownProgress: 3.185,

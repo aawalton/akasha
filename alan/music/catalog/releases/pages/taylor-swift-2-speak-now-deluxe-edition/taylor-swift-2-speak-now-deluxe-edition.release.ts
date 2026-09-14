@@ -5,7 +5,7 @@ export const taylorSwift2SpeakNowDeluxeEdition = {
   type: "release",
   slug: "taylor-swift-2-speak-now-deluxe-edition",
   title: "Speak Now (Deluxe Edition)",
-  partOfCollections: ["taylor-swift"],
+  partOfCollections: ["artist/taylor-swift"],
   position: 0,
   ownLength: 91.840117,
   ownProgress: 91.840117,

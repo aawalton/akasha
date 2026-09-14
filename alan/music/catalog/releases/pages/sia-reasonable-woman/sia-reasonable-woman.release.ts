@@ -5,7 +5,7 @@ export const siaReasonableWoman = {
   type: "release",
   slug: "sia-reasonable-woman",
   title: "Reasonable Woman",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 52.8199,
   ownProgress: 52.8199,

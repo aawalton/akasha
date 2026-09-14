@@ -5,7 +5,7 @@ export const arianaGrandeBoyfriend = {
   type: "release",
   slug: "ariana-grande-boyfriend",
   title: "boyfriend",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 3.101767,
   ownProgress: 3.101767,

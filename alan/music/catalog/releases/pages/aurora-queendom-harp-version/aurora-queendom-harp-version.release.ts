@@ -5,7 +5,7 @@ export const auroraQueendomHarpVersion = {
   type: "release",
   slug: "aurora-queendom-harp-version",
   title: "Queendom (Harp Version)",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 3.876433,
   ownProgress: 3.876433,

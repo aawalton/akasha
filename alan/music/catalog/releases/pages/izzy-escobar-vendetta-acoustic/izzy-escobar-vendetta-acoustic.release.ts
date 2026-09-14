@@ -5,7 +5,7 @@ export const izzyEscobarVendettaAcoustic = {
   type: "release",
   slug: "izzy-escobar-vendetta-acoustic",
   title: "Vendetta (Acoustic)",
-  partOfCollections: ["izzy-escobar"],
+  partOfCollections: ["artist/izzy-escobar"],
   position: 0,
   ownLength: 6.744333,
   ownProgress: 6.744333,

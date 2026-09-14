@@ -5,7 +5,7 @@ export const jadaFacerAThousandYears = {
   type: "release",
   slug: "jada-facer-a-thousand-years",
   title: "A Thousand Years",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.53615,
   ownProgress: 3.53615,

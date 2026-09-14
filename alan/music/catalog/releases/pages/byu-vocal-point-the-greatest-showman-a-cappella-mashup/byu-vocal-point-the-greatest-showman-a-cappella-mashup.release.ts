@@ -5,7 +5,7 @@ export const byuVocalPointTheGreatestShowmanACappellaMashup = {
   type: "release",
   slug: "byu-vocal-point-the-greatest-showman-a-cappella-mashup",
   title: "The Greatest Showman A Cappella Mashup",
-  partOfCollections: ["byu-vocal-point"],
+  partOfCollections: ["artist/byu-vocal-point"],
   position: 0,
   ownLength: 4.609433,
   ownProgress: 0,

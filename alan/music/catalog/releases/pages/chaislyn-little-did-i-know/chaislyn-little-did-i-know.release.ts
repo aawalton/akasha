@@ -5,7 +5,7 @@ export const chaislynLittleDidIKnow = {
   type: "release",
   slug: "chaislyn-little-did-i-know",
   title: "Little Did I Know",
-  partOfCollections: ["chaislyn"],
+  partOfCollections: ["artist/chaislyn"],
   position: 0,
   ownLength: 3.76075,
   ownProgress: 3.76075,

@@ -5,7 +5,7 @@ export const ellaHendersonUglyMadismRemix = {
   type: "release",
   slug: "ella-henderson-ugly-madism-remix",
   title: "Ugly (Madism Remix)",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 10.17755,
   ownProgress: 10.17755,

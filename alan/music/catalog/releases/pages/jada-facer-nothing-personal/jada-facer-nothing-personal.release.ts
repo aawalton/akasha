@@ -5,7 +5,7 @@ export const jadaFacerNothingPersonal = {
   type: "release",
   slug: "jada-facer-nothing-personal",
   title: "Nothing Personal",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.066667,
   ownProgress: 3.066667,

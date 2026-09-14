@@ -5,7 +5,7 @@ export const katyPerryCampKaty = {
   type: "release",
   slug: "katy-perry-camp-katy",
   title: "Camp Katy",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 21.976517,
   ownProgress: 21.976517,

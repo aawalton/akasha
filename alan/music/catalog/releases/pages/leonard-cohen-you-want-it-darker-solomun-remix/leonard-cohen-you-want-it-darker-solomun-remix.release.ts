@@ -5,7 +5,7 @@ export const leonardCohenYouWantItDarkerSolomunRemix = {
   type: "release",
   slug: "leonard-cohen-you-want-it-darker-solomun-remix",
   title: "You Want It Darker (Solomun Remix)",
-  partOfCollections: ["leonard-cohen"],
+  partOfCollections: ["artist/leonard-cohen"],
   position: 0,
   ownLength: 9.378567,
   ownProgress: 0,

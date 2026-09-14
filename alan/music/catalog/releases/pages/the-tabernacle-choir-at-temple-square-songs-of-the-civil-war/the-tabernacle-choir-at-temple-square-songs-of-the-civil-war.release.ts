@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareSongsOfTheCivilWar = {
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-songs-of-the-civil-war",
   title: "Songs of the Civil War",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 74.5301,
   ownProgress: 74.5301,

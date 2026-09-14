@@ -5,7 +5,7 @@ export const katyPerryRise = {
   type: "release",
   slug: "katy-perry-rise",
   title: "Rise",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 3.391233,
   ownProgress: 3.391233,

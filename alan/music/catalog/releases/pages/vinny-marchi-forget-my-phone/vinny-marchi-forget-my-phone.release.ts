@@ -5,7 +5,7 @@ export const vinnyMarchiForgetMyPhone = {
   type: "release",
   slug: "vinny-marchi-forget-my-phone",
   title: "Forget My Phone",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 2.595067,
   ownProgress: 2.595067,

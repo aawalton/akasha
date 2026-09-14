@@ -5,7 +5,7 @@ export const michaelJacksonTheDefinitiveCollection = {
   type: "release",
   slug: "michael-jackson-the-definitive-collection",
   title: "The Definitive Collection",
-  partOfCollections: ["michael-jackson"],
+  partOfCollections: ["artist/michael-jackson"],
   position: 0,
   ownLength: 65.418567,
   ownProgress: 65.418567,

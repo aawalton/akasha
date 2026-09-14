@@ -5,7 +5,7 @@ export const auroraARockSomewhereTheSeedForGreenpeace = {
   type: "release",
   slug: "aurora-a-rock-somewhere-the-seed-for-greenpeace",
   title: "A Rock Somewhere / The Seed (For Greenpeace)",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 5.970767,
   ownProgress: 5.970767,

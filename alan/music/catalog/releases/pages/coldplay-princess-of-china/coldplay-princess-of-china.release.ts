@@ -5,7 +5,7 @@ export const coldplayPrincessOfChina = {
   type: "release",
   slug: "coldplay-princess-of-china",
   title: "Princess of China",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 15.620667,
   ownProgress: 15.620667,

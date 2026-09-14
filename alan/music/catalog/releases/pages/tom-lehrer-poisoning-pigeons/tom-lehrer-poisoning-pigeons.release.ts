@@ -5,7 +5,7 @@ export const tomLehrerPoisoningPigeons = {
   type: "release",
   slug: "tom-lehrer-poisoning-pigeons",
   title: "Poisoning Pigeons",
-  partOfCollections: ["tom-lehrer"],
+  partOfCollections: ["artist/tom-lehrer"],
   position: 0,
   ownLength: 3.812667,
   ownProgress: 3.812667,

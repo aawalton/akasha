@@ -5,7 +5,7 @@ export const sabrinaCarpenterPleasePleasePlease2 = {
   type: "release",
   slug: "sabrina-carpenter-please-please-please-2",
   title: "Please Please Please",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 21.487583,
   ownProgress: 21.487583,

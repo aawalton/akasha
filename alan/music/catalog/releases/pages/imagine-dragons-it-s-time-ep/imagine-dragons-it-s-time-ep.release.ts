@@ -5,7 +5,7 @@ export const imagineDragonsItSTimeEp = {
   type: "release",
   slug: "imagine-dragons-it-s-time-ep",
   title: "It’s Time EP",
-  partOfCollections: ["imagine-dragons"],
+  partOfCollections: ["artist/imagine-dragons"],
   position: 0,
   ownLength: 35.57795,
   ownProgress: 35.57795,

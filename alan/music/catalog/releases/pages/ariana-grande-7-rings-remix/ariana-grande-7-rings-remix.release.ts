@@ -5,7 +5,7 @@ export const arianaGrande7RingsRemix = {
   type: "release",
   slug: "ariana-grande-7-rings-remix",
   title: "7 rings (Remix)",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 2.977333,
   ownProgress: 2.977333,

@@ -5,7 +5,7 @@ export const jadaFacerKissAndMakeUp = {
   type: "release",
   slug: "jada-facer-kiss-and-make-up",
   title: "Kiss and Make Up",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.976217,
   ownProgress: 2.976217,

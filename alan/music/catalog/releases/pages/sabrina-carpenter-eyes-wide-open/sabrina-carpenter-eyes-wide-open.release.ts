@@ -5,7 +5,7 @@ export const sabrinaCarpenterEyesWideOpen = {
   type: "release",
   slug: "sabrina-carpenter-eyes-wide-open",
   title: "Eyes Wide Open",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 40.61795,
   ownProgress: 40.61795,

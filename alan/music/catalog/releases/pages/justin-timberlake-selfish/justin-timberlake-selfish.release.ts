@@ -5,7 +5,7 @@ export const justinTimberlakeSelfish = {
   type: "release",
   slug: "justin-timberlake-selfish",
   title: "Selfish",
-  partOfCollections: ["justin-timberlake"],
+  partOfCollections: ["artist/justin-timberlake"],
   position: 0,
   ownLength: 3.822183,
   ownProgress: 0,

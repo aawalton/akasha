@@ -5,7 +5,7 @@ export const thePianoGuys3AFamilyChristmas = {
   type: "release",
   slug: "the-piano-guys-3-a-family-christmas",
   title: "A Family Christmas",
-  partOfCollections: ["the-piano-guys"],
+  partOfCollections: ["artist/the-piano-guys"],
   position: 0,
   ownLength: 46.494183,
   ownProgress: 46.494183,

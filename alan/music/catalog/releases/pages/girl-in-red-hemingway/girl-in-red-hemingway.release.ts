@@ -5,7 +5,7 @@ export const girlInRedHemingway = {
   type: "release",
   slug: "girl-in-red-hemingway",
   title: "Hemingway",
-  partOfCollections: ["girl-in-red"],
+  partOfCollections: ["artist/girl-in-red"],
   position: 0,
   ownLength: 3.278283,
   ownProgress: 0,

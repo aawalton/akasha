@@ -5,7 +5,7 @@ export const coldplayWePrayJasleenRoyalVersion = {
   type: "release",
   slug: "coldplay-we-pray-jasleen-royal-version",
   title: "WE PRAY (Jasleen Royal Version)",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 3.8901,
   ownProgress: 3.8901,

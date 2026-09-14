@@ -5,7 +5,7 @@ export const katyPerryWhenIMGoneWithKatyPerryVipMix = {
   type: "release",
   slug: "katy-perry-when-i-m-gone-with-katy-perry-vip-mix",
   title: "When I'm Gone (with Katy Perry) [VIP Mix]",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 5.551767,
   ownProgress: 5.551767,

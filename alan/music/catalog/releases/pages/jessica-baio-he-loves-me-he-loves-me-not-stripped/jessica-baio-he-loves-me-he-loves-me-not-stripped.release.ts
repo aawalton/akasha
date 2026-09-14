@@ -5,7 +5,7 @@ export const jessicaBaioHeLovesMeHeLovesMeNotStripped = {
   type: "release",
   slug: "jessica-baio-he-loves-me-he-loves-me-not-stripped",
   title: "he loves me, he loves me not (stripped)",
-  partOfCollections: ["jessica-baio"],
+  partOfCollections: ["artist/jessica-baio"],
   position: 0,
   ownLength: 5.403533,
   ownProgress: 5.403533,

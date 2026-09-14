@@ -5,7 +5,7 @@ export const girlInRedConfession = {
   type: "release",
   slug: "girl-in-red-confession",
   title: "confession",
-  partOfCollections: ["girl-in-red"],
+  partOfCollections: ["artist/girl-in-red"],
   position: 0,
   ownLength: 1.409633,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareSilentNightTheGreatestHitsOfChristm
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-silent-night-the-greatest-hits-of-christmas",
   title: "Silent Night: The Greatest Hits of Christmas",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 39.2539,
   ownProgress: 0,

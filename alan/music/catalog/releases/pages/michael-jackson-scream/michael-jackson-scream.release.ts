@@ -5,7 +5,7 @@ export const michaelJacksonScream = {
   type: "release",
   slug: "michael-jackson-scream",
   title: "Scream",
-  partOfCollections: ["michael-jackson"],
+  partOfCollections: ["artist/michael-jackson"],
   position: 0,
   ownLength: 69.417033,
   ownProgress: 69.417033,

@@ -5,7 +5,7 @@ export const siaIncredibleFeatLabrinth = {
   type: "release",
   slug: "sia-incredible-feat-labrinth",
   title: "Incredible (feat. Labrinth)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 3.560533,
   ownProgress: 3.560533,

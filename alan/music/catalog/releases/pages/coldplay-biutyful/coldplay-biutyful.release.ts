@@ -5,7 +5,7 @@ export const coldplayBiutyful = {
   type: "release",
   slug: "coldplay-biutyful",
   title: "Biutyful",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 3.206567,
   ownProgress: 3.206567,

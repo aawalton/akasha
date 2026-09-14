@@ -5,7 +5,7 @@ export const lilithMaxBirdsOfAFeather = {
   type: "release",
   slug: "lilith-max-birds-of-a-feather",
   title: "Birds of a Feather",
-  partOfCollections: ["lilith-max"],
+  partOfCollections: ["artist/lilith-max"],
   position: 0,
   ownLength: 2.97585,
   ownProgress: 2.97585,

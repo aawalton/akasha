@@ -5,7 +5,7 @@ export const justinTimberlakeThe2020ExperienceDeluxeVersion = {
   type: "release",
   slug: "justin-timberlake-the-20-20-experience-deluxe-version",
   title: "The 20/20 Experience (Deluxe Version)",
-  partOfCollections: ["justin-timberlake"],
+  partOfCollections: ["artist/justin-timberlake"],
   position: 0,
   ownLength: 79.4577,
   ownProgress: 0,

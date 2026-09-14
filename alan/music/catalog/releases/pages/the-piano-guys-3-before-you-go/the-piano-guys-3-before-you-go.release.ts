@@ -5,7 +5,7 @@ export const thePianoGuys3BeforeYouGo = {
   type: "release",
   slug: "the-piano-guys-3-before-you-go",
   title: "Before You Go",
-  partOfCollections: ["the-piano-guys"],
+  partOfCollections: ["artist/the-piano-guys"],
   position: 0,
   ownLength: 3.883917,
   ownProgress: 3.883917,

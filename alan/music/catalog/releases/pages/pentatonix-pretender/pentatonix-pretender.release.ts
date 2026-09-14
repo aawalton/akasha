@@ -5,7 +5,7 @@ export const pentatonixPretender = {
   type: "release",
   slug: "pentatonix-pretender",
   title: "Pretender",
-  partOfCollections: ["pentatonix"],
+  partOfCollections: ["artist/pentatonix"],
   position: 0,
   ownLength: 2.9208,
   ownProgress: 2.9208,

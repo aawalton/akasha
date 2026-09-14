@@ -5,7 +5,7 @@ export const kellyClarksonDanceVaultMixesBecauseOfYou = {
   type: "release",
   slug: "kelly-clarkson-dance-vault-mixes-because-of-you",
   title: "Dance Vault Mixes - Because Of You",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 46.3666,
   ownProgress: 46.3666,

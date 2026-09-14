@@ -5,7 +5,7 @@ export const coldplaySpeedOfSound = {
   type: "release",
   slug: "coldplay-speed-of-sound",
   title: "Speed of Sound",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 9.734433,
   ownProgress: 9.734433,

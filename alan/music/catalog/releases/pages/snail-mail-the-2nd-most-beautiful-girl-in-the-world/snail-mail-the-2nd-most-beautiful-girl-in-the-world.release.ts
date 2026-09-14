@@ -5,7 +5,7 @@ export const snailMailThe2ndMostBeautifulGirlInTheWorld = {
   type: "release",
   slug: "snail-mail-the-2nd-most-beautiful-girl-in-the-world",
   title: "The 2nd Most Beautiful Girl In The World",
-  partOfCollections: ["snail-mail"],
+  partOfCollections: ["artist/snail-mail"],
   position: 0,
   ownLength: 2.224433,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const jadaFacerColdShowers = {
   type: "release",
   slug: "jada-facer-cold-showers",
   title: "cold showers",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.02795,
   ownProgress: 3.02795,

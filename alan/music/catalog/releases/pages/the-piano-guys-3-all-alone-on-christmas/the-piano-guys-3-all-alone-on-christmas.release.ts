@@ -5,7 +5,7 @@ export const thePianoGuys3AllAloneOnChristmas = {
   type: "release",
   slug: "the-piano-guys-3-all-alone-on-christmas",
   title: "All Alone on Christmas",
-  partOfCollections: ["the-piano-guys"],
+  partOfCollections: ["artist/the-piano-guys"],
   position: 0,
   ownLength: 4.4,
   ownProgress: 4.4,

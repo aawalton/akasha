@@ -5,7 +5,7 @@ export const coldplayLetSomebodyGoOfenbachRemix = {
   type: "release",
   slug: "coldplay-let-somebody-go-ofenbach-remix",
   title: "Let Somebody Go (Ofenbach Remix)",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 3.24145,
   ownProgress: 3.24145,

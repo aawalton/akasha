@@ -5,7 +5,7 @@ export const emBeiholdCityOfAngels = {
   type: "release",
   slug: "em-beihold-city-of-angels",
   title: "City of Angels",
-  partOfCollections: ["em-beihold"],
+  partOfCollections: ["artist/em-beihold"],
   position: 0,
   ownLength: 3.238467,
   ownProgress: 3.238467,

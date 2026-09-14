@@ -5,7 +5,7 @@ export const phoebeBridgersKyotoGlitchGumRemix = {
   type: "release",
   slug: "phoebe-bridgers-kyoto-glitch-gum-remix",
   title: "Kyoto (Glitch Gum Remix)",
-  partOfCollections: ["phoebe-bridgers"],
+  partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
   ownLength: 2.66355,
   ownProgress: 2.66355,

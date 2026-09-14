@@ -5,7 +5,7 @@ export const zaraLarssonDonTWorryBoutMeRemixes = {
   type: "release",
   slug: "zara-larsson-don-t-worry-bout-me-remixes",
   title: "Don't Worry Bout Me (Remixes)",
-  partOfCollections: ["zara-larsson"],
+  partOfCollections: ["artist/zara-larsson"],
   position: 0,
   ownLength: 13.807533,
   ownProgress: 13.807533,

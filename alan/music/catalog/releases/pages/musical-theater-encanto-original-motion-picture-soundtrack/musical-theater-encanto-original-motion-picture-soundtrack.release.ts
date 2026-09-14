@@ -5,7 +5,7 @@ export const musicalTheaterEncantoOriginalMotionPictureSoundtrack = {
   type: "release",
   slug: "musical-theater-encanto-original-motion-picture-soundtrack",
   title: "Encanto (Original Motion Picture Soundtrack)",
-  partOfCollections: ["musical-theater"],
+  partOfCollections: ["release-collection/musical-theater"],
   position: 0,
   ownLength: 114.716617,
   ownProgress: 114.716617,

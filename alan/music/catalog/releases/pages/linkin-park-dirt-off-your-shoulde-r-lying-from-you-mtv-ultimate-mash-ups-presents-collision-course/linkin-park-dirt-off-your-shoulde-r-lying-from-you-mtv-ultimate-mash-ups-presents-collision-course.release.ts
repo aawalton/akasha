@@ -5,7 +5,7 @@ export const linkinParkDirtOffYourShouldeRLyingFromYouMtvUltimateMashUpsPresents
   type: "release",
   slug: "linkin-park-dirt-off-your-shoulde-r-lying-from-you-mtv-ultimate-mash-ups-presents-collision-course",
   title: "Dirt Off Your Shoulde r/ Lying From You: MTV Ultimate Mash-Ups Presents Collision Course",
-  partOfCollections: ["linkin-park"],
+  partOfCollections: ["artist/linkin-park"],
   position: 0,
   ownLength: 8.156433,
   ownProgress: 0,

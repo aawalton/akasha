@@ -5,7 +5,7 @@ export const pentatonixPentatonixDeluxeVersion = {
   type: "release",
   slug: "pentatonix-pentatonix-deluxe-version",
   title: "Pentatonix (Deluxe Version)",
-  partOfCollections: ["pentatonix"],
+  partOfCollections: ["artist/pentatonix"],
   position: 0,
   ownLength: 54.077,
   ownProgress: 54.077,

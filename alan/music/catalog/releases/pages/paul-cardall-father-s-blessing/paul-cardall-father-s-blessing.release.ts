@@ -5,7 +5,7 @@ export const paulCardallFatherSBlessing = {
   type: "release",
   slug: "paul-cardall-father-s-blessing",
   title: "Father's Blessing",
-  partOfCollections: ["paul-cardall"],
+  partOfCollections: ["artist/paul-cardall"],
   position: 0,
   ownLength: 2.514567,
   ownProgress: 0,

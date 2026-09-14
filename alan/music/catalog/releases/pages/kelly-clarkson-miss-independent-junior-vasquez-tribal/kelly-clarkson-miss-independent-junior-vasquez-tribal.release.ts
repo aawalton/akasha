@@ -5,7 +5,7 @@ export const kellyClarksonMissIndependentJuniorVasquezTribal = {
   type: "release",
   slug: "kelly-clarkson-miss-independent-junior-vasquez-tribal",
   title: "Miss Independent (Junior Vasquez Tribal)",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 9.338217,
   ownProgress: 9.338217,

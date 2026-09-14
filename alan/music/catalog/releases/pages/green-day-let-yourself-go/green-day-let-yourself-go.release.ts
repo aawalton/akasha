@@ -5,7 +5,7 @@ export const greenDayLetYourselfGo = {
   type: "release",
   slug: "green-day-let-yourself-go",
   title: "Let Yourself Go",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 2.949767,
   ownProgress: 2.949767,

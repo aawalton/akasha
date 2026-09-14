@@ -5,7 +5,7 @@ export const auroraWhatHappenedToTheHeart = {
   type: "release",
   slug: "aurora-what-happened-to-the-heart",
   title: "What Happened To The Heart?",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 62.010583,
   ownProgress: 62.010583,

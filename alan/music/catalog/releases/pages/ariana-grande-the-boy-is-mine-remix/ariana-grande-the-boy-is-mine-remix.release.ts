@@ -5,7 +5,7 @@ export const arianaGrandeTheBoyIsMineRemix = {
   type: "release",
   slug: "ariana-grande-the-boy-is-mine-remix",
   title: "the boy is mine (Remix)",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 6.450383,
   ownProgress: 6.450383,

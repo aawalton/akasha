@@ -5,7 +5,7 @@ export const phoebeBridgersFuneral = {
   type: "release",
   slug: "phoebe-bridgers-funeral",
   title: "Funeral",
-  partOfCollections: ["phoebe-bridgers"],
+  partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
   ownLength: 3.704267,
   ownProgress: 3.704267,

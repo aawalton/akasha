@@ -5,7 +5,7 @@ export const vinnyMarchiReasonToLetGo = {
   type: "release",
   slug: "vinny-marchi-reason-to-let-go",
   title: "reason to let go",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 3.5245,
   ownProgress: 3.5245,

@@ -5,7 +5,7 @@ export const sabrinaCarpenterFastTimes = {
   type: "release",
   slug: "sabrina-carpenter-fast-times",
   title: "Fast Times",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 2.908983,
   ownProgress: 2.908983,

@@ -5,7 +5,7 @@ export const arianaGrandeFocus = {
   type: "release",
   slug: "ariana-grande-focus",
   title: "Focus",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 3.522667,
   ownProgress: 3.522667,

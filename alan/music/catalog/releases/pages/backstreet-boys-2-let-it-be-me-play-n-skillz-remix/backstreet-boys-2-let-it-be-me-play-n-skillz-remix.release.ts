@@ -5,7 +5,7 @@ export const backstreetBoys2LetItBeMePlayNSkillzRemix = {
   type: "release",
   slug: "backstreet-boys-2-let-it-be-me-play-n-skillz-remix",
   title: "Let It Be Me (Play-N-Skillz Remix)",
-  partOfCollections: ["backstreet-boys"],
+  partOfCollections: ["artist/backstreet-boys"],
   position: 0,
   ownLength: 3.250033,
   ownProgress: 3.250033,

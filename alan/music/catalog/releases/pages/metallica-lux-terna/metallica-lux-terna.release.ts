@@ -5,7 +5,7 @@ export const metallicaLuxTerna = {
   type: "release",
   slug: "metallica-lux-terna",
   title: "Lux Æterna",
-  partOfCollections: ["metallica"],
+  partOfCollections: ["artist/metallica"],
   position: 0,
   ownLength: 3.427983,
   ownProgress: 0,

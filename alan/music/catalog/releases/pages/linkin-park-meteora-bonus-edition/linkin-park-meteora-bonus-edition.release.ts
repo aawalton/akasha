@@ -5,7 +5,7 @@ export const linkinParkMeteoraBonusEdition = {
   type: "release",
   slug: "linkin-park-meteora-bonus-edition",
   title: "Meteora (Bonus Edition)",
-  partOfCollections: ["linkin-park"],
+  partOfCollections: ["artist/linkin-park"],
   position: 0,
   ownLength: 46.067233,
   ownProgress: 0,

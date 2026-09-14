@@ -5,7 +5,7 @@ export const jadaFacerLoseYouToLoveMe = {
   type: "release",
   slug: "jada-facer-lose-you-to-love-me",
   title: "Lose You To Love Me",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.15865,
   ownProgress: 3.15865,

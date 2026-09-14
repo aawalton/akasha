@@ -5,7 +5,7 @@ export const alexWarrenHeadlightsAcoustic = {
   type: "release",
   slug: "alex-warren-headlights-acoustic",
   title: "Headlights (Acoustic)",
-  partOfCollections: ["alex-warren"],
+  partOfCollections: ["artist/alex-warren"],
   position: 0,
   ownLength: 5.773767,
   ownProgress: 5.773767,

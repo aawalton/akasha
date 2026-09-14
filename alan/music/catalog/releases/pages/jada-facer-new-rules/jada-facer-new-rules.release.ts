@@ -5,7 +5,7 @@ export const jadaFacerNewRules = {
   type: "release",
   slug: "jada-facer-new-rules",
   title: "New Rules",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.5619,
   ownProgress: 2.5619,

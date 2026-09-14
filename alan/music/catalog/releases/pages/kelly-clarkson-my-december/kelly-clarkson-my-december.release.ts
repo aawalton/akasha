@@ -5,7 +5,7 @@ export const kellyClarksonMyDecember = {
   type: "release",
   slug: "kelly-clarkson-my-december",
   title: "My December",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 70.583017,
   ownProgress: 70.583017,

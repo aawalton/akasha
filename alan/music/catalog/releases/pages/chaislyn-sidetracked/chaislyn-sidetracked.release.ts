@@ -5,7 +5,7 @@ export const chaislynSidetracked = {
   type: "release",
   slug: "chaislyn-sidetracked",
   title: "Sidetracked",
-  partOfCollections: ["chaislyn"],
+  partOfCollections: ["artist/chaislyn"],
   position: 0,
   ownLength: 2.9923,
   ownProgress: 2.9923,

@@ -5,7 +5,7 @@ export const imagineDragonsImagineDragonsSpotifySessions = {
   type: "release",
   slug: "imagine-dragons-imagine-dragons-spotify-sessions",
   title: "Imagine Dragons (Spotify Sessions)",
-  partOfCollections: ["imagine-dragons"],
+  partOfCollections: ["artist/imagine-dragons"],
   position: 0,
   ownLength: 16.380367,
   ownProgress: 16.380367,

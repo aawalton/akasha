@@ -5,7 +5,7 @@ export const pentatonixAtHome = {
   type: "release",
   slug: "pentatonix-at-home",
   title: "At Home",
-  partOfCollections: ["pentatonix"],
+  partOfCollections: ["artist/pentatonix"],
   position: 0,
   ownLength: 18.416617,
   ownProgress: 18.416617,

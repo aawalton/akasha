@@ -5,7 +5,7 @@ export const paulCardallThanksgiving = {
   type: "release",
   slug: "paul-cardall-thanksgiving",
   title: "Thanksgiving",
-  partOfCollections: ["paul-cardall"],
+  partOfCollections: ["artist/paul-cardall"],
   position: 0,
   ownLength: 2.35955,
   ownProgress: 2.35955,

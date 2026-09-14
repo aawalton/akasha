@@ -5,7 +5,7 @@ export const taylorSwift2RedTaylorSVersion = {
   type: "release",
   slug: "taylor-swift-2-red-taylor-s-version",
   title: "Red (Taylor's Version)",
-  partOfCollections: ["taylor-swift"],
+  partOfCollections: ["artist/taylor-swift"],
   position: 0,
   ownLength: 130.663833,
   ownProgress: 130.663833,

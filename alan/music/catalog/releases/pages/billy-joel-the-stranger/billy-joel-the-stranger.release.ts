@@ -5,7 +5,7 @@ export const billyJoelTheStranger = {
   type: "release",
   slug: "billy-joel-the-stranger",
   title: "The Stranger",
-  partOfCollections: ["billy-joel"],
+  partOfCollections: ["artist/billy-joel"],
   position: 0,
   ownLength: 42.5584,
   ownProgress: 0,

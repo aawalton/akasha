@@ -5,7 +5,7 @@ export const emeiScatterbrainDeluxe = {
   type: "release",
   slug: "emei-scatterbrain-deluxe",
   title: "Scatterbrain (Deluxe)",
-  partOfCollections: ["emei"],
+  partOfCollections: ["artist/emei"],
   position: 0,
   ownLength: 23.114167,
   ownProgress: 23.114167,

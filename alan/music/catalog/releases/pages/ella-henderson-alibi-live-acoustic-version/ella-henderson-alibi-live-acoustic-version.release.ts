@@ -5,7 +5,7 @@ export const ellaHendersonAlibiLiveAcousticVersion = {
   type: "release",
   slug: "ella-henderson-alibi-live-acoustic-version",
   title: "Alibi (Live Acoustic Version)",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 3.506667,
   ownProgress: 0,

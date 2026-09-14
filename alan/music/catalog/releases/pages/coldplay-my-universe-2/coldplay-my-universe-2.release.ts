@@ -5,7 +5,7 @@ export const coldplayMyUniverse2 = {
   type: "release",
   slug: "coldplay-my-universe-2",
   title: "My Universe",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 7.6,
   ownProgress: 7.6,

@@ -5,7 +5,7 @@ export const arianaGrandePositionsDeluxe = {
   type: "release",
   slug: "ariana-grande-positions-deluxe",
   title: "Positions (Deluxe)",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 51.812883,
   ownProgress: 51.812883,

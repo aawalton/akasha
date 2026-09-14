@@ -5,7 +5,7 @@ export const sabrinaCarpenterEmailsICanTSendFwd = {
   type: "release",
   slug: "sabrina-carpenter-emails-i-can-t-send-fwd",
   title: "emails i can’t send fwd:",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 51.083633,
   ownProgress: 51.083633,

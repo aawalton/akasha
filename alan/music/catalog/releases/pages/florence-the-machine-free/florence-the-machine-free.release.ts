@@ -5,7 +5,7 @@ export const florenceTheMachineFree = {
   type: "release",
   slug: "florence-the-machine-free",
   title: "Free",
-  partOfCollections: ["florence-the-machine"],
+  partOfCollections: ["artist/florence-the-machine"],
   position: 0,
   ownLength: 3.914283,
   ownProgress: 3.914283,

@@ -5,7 +5,7 @@ export const yaelokreHarpyHare = {
   type: "release",
   slug: "yaelokre-harpy-hare",
   title: "Harpy Hare",
-  partOfCollections: ["yaelokre"],
+  partOfCollections: ["artist/yaelokre"],
   position: 0,
   ownLength: 3.015367,
   ownProgress: 3.015367,

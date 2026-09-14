@@ -5,7 +5,7 @@ export const sabrinaCarpenterSilverNights = {
   type: "release",
   slug: "sabrina-carpenter-silver-nights",
   title: "Silver Nights",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 2.442,
   ownProgress: 2.442,

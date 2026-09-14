@@ -5,7 +5,7 @@ export const backstreetBoys2NeverGone = {
   type: "release",
   slug: "backstreet-boys-2-never-gone",
   title: "Never Gone",
-  partOfCollections: ["backstreet-boys"],
+  partOfCollections: ["artist/backstreet-boys"],
   position: 0,
   ownLength: 47.6226,
   ownProgress: 47.6226,

@@ -5,7 +5,7 @@ export const jessicaBaioCatalyst = {
   type: "release",
   slug: "jessica-baio-catalyst",
   title: "catalyst",
-  partOfCollections: ["jessica-baio"],
+  partOfCollections: ["artist/jessica-baio"],
   position: 0,
   ownLength: 17.88575,
   ownProgress: 17.88575,

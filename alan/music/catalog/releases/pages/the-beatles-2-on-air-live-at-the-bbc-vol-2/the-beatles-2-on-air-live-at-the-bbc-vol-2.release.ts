@@ -5,7 +5,7 @@ export const theBeatles2OnAirLiveAtTheBbcVol2 = {
   type: "release",
   slug: "the-beatles-2-on-air-live-at-the-bbc-vol-2",
   title: "On Air - Live At The BBC (Vol.2)",
-  partOfCollections: ["the-beatles"],
+  partOfCollections: ["artist/the-beatles"],
   position: 0,
   ownLength: 130.4089,
   ownProgress: 130.4089,

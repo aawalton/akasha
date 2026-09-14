@@ -5,7 +5,7 @@ export const auroraUnderStars = {
   type: "release",
   slug: "aurora-under-stars",
   title: "Under Stars",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 3.3171,
   ownProgress: 3.3171,

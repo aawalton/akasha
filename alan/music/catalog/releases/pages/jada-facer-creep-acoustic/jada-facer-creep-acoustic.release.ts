@@ -5,7 +5,7 @@ export const jadaFacerCreepAcoustic = {
   type: "release",
   slug: "jada-facer-creep-acoustic",
   title: "Creep (Acoustic)",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.48645,
   ownProgress: 3.48645,

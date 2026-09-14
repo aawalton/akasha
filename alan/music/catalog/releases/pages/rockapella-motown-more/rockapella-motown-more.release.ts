@@ -5,7 +5,7 @@ export const rockapellaMotownMore = {
   type: "release",
   slug: "rockapella-motown-more",
   title: "Motown & More",
-  partOfCollections: ["rockapella"],
+  partOfCollections: ["artist/rockapella"],
   position: 0,
   ownLength: 35.805967,
   ownProgress: 35.805967,

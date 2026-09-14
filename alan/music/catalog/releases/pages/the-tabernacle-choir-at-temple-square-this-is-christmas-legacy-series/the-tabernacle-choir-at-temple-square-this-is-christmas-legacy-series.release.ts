@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareThisIsChristmasLegacySeries = {
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-this-is-christmas-legacy-series",
   title: "This Is Christmas (Legacy Series)",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 58.07525,
   ownProgress: 0,

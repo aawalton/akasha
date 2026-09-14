@@ -5,7 +5,7 @@ export const arianaGrandeBangBang = {
   type: "release",
   slug: "ariana-grande-bang-bang",
   title: "Bang Bang",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 9.911767,
   ownProgress: 9.911767,

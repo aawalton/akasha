@@ -5,7 +5,7 @@ export const ellaHendersonIGoDancingFeatEllaHenderson = {
   type: "release",
   slug: "ella-henderson-i-go-dancing-feat-ella-henderson",
   title: "I Go Dancing (feat. Ella Henderson)",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 2.709083,
   ownProgress: 0,

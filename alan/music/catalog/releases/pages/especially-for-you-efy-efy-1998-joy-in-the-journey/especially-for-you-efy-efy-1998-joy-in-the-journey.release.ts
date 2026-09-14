@@ -5,7 +5,7 @@ export const especiallyForYouEfyEfy1998JoyInTheJourney = {
   type: "release",
   slug: "especially-for-you-efy-efy-1998-joy-in-the-journey",
   title: "Efy 1998 - Joy in the Journey",
-  partOfCollections: ["especially-for-you-efy"],
+  partOfCollections: ["release-collection/especially-for-you-efy"],
   position: 1998,
   ownLength: 47.253933,
   ownProgress: 47.253933,

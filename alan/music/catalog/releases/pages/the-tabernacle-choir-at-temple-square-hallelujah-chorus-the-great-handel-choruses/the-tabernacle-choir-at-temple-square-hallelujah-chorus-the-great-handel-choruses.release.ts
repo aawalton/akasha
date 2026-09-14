@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareHallelujahChorusTheGreatHandelChoru
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-hallelujah-chorus-the-great-handel-choruses",
   title: "Hallelujah Chorus - The Great Handel Choruses",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 47.715033,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const coldplayLive2003 = {
   type: "release",
   slug: "coldplay-live-2003",
   title: "Live 2003",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 67.443683,
   ownProgress: 67.443683,

@@ -5,7 +5,7 @@ export const celticWoman2AChristmasCelebration = {
   type: "release",
   slug: "celtic-woman-2-a-christmas-celebration",
   title: "A Christmas Celebration",
-  partOfCollections: ["celtic-woman"],
+  partOfCollections: ["artist/celtic-woman"],
   position: 0,
   ownLength: 48.61815,
   ownProgress: 48.61815,

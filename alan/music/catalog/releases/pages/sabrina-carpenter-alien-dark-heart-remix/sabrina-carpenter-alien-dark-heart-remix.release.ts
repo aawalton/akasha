@@ -5,7 +5,7 @@ export const sabrinaCarpenterAlienDarkHeartRemix = {
   type: "release",
   slug: "sabrina-carpenter-alien-dark-heart-remix",
   title: "Alien (Dark Heart Remix)",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 3.49055,
   ownProgress: 3.49055,

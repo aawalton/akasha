@@ -5,7 +5,7 @@ export const justinTimberlakeBetterDaysLive = {
   type: "release",
   slug: "justin-timberlake-better-days-live",
   title: "Better Days (Live)",
-  partOfCollections: ["justin-timberlake"],
+  partOfCollections: ["artist/justin-timberlake"],
   position: 0,
   ownLength: 8.698883,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const metallicaAndJusticeForAllRemastered = {
   type: "release",
   slug: "metallica-and-justice-for-all-remastered",
   title: "...And Justice for All (Remastered)",
-  partOfCollections: ["metallica"],
+  partOfCollections: ["artist/metallica"],
   position: 0,
   ownLength: 65.412467,
   ownProgress: 0,

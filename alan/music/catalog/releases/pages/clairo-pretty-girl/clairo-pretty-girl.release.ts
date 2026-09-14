@@ -5,7 +5,7 @@ export const clairoPrettyGirl = {
   type: "release",
   slug: "clairo-pretty-girl",
   title: "Pretty Girl",
-  partOfCollections: ["clairo"],
+  partOfCollections: ["artist/clairo"],
   position: 0,
   ownLength: 2.972533,
   ownProgress: 2.972533,

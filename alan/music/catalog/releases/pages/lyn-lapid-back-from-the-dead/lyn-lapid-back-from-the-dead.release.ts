@@ -5,7 +5,7 @@ export const lynLapidBackFromTheDead = {
   type: "release",
   slug: "lyn-lapid-back-from-the-dead",
   title: "back from the dead",
-  partOfCollections: ["lyn-lapid"],
+  partOfCollections: ["artist/lyn-lapid"],
   position: 0,
   ownLength: 2.634333,
   ownProgress: 2.634333,

@@ -5,7 +5,7 @@ export const kellyClarksonOhDarlingLive = {
   type: "release",
   slug: "kelly-clarkson-oh-darling-live",
   title: "Oh! Darling (Live)",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 3.31745,
   ownProgress: 3.31745,

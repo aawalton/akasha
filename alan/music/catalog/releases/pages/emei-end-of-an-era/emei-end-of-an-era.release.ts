@@ -5,7 +5,7 @@ export const emeiEndOfAnEra = {
   type: "release",
   slug: "emei-end-of-an-era",
   title: "End of an Era",
-  partOfCollections: ["emei"],
+  partOfCollections: ["artist/emei"],
   position: 0,
   ownLength: 13.866,
   ownProgress: 13.866,

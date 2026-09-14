@@ -5,7 +5,7 @@ export const gracieAbramsStay = {
   type: "release",
   slug: "gracie-abrams-stay",
   title: "Stay",
-  partOfCollections: ["gracie-abrams"],
+  partOfCollections: ["artist/gracie-abrams"],
   position: 0,
   ownLength: 2.952533,
   ownProgress: 2.952533,

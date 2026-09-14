@@ -5,7 +5,7 @@ export const coldplayVioletHill = {
   type: "release",
   slug: "coldplay-violet-hill",
   title: "Violet Hill",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 6.5151,
   ownProgress: 6.5151,

@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareComeThouFountOfEveryBlessing = {
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-come-thou-fount-of-every-blessing",
   title: "Come, Thou Fount of Every Blessing: American Folk Hymns & Spirituals",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 75.966567,
   ownProgress: 0,

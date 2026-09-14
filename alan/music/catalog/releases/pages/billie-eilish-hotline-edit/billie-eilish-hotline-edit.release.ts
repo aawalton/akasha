@@ -5,7 +5,7 @@ export const billieEilishHotlineEdit = {
   type: "release",
   slug: "billie-eilish-hotline-edit",
   title: "hotline (edit)",
-  partOfCollections: ["billie-eilish"],
+  partOfCollections: ["artist/billie-eilish"],
   position: 0,
   ownLength: 1.011983,
   ownProgress: 1.011983,

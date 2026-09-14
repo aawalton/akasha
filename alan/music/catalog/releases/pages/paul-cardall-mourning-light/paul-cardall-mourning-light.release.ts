@@ -5,7 +5,7 @@ export const paulCardallMourningLight = {
   type: "release",
   slug: "paul-cardall-mourning-light",
   title: "Mourning Light",
-  partOfCollections: ["paul-cardall"],
+  partOfCollections: ["artist/paul-cardall"],
   position: 0,
   ownLength: 3.85,
   ownProgress: 3.85,

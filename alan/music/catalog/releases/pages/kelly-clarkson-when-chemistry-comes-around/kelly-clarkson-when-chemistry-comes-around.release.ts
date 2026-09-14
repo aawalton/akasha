@@ -5,7 +5,7 @@ export const kellyClarksonWhenChemistryComesAround = {
   type: "release",
   slug: "kelly-clarkson-when-chemistry-comes-around",
   title: "When chemistry Comes Around",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 17.315567,
   ownProgress: 17.315567,

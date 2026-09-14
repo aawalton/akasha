@@ -5,7 +5,7 @@ export const vinnyMarchiComeOnComeOn = {
   type: "release",
   slug: "vinny-marchi-come-on-come-on",
   title: "Come On! Come On!",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 2.482083,
   ownProgress: 2.482083,

@@ -5,7 +5,7 @@ export const taylorSwift2DaylightLiveFromParis = {
   type: "release",
   slug: "taylor-swift-2-daylight-live-from-paris",
   title: "Daylight (Live From Paris)",
-  partOfCollections: ["taylor-swift"],
+  partOfCollections: ["artist/taylor-swift"],
   position: 0,
   ownLength: 4.372,
   ownProgress: 4.372,

@@ -5,7 +5,7 @@ export const arianaGrandeSomewhereOverTheRainbowLiveFromManchester = {
   type: "release",
   slug: "ariana-grande-somewhere-over-the-rainbow-live-from-manchester",
   title: "Somewhere Over The Rainbow (Live From Manchester)",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 4.533767,
   ownProgress: 4.533767,

@@ -5,7 +5,7 @@ export const lindseyStirling2SpotifySingles = {
   type: "release",
   slug: "lindsey-stirling-2-spotify-singles",
   title: "Spotify Singles",
-  partOfCollections: ["lindsey-stirling"],
+  partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
   ownLength: 5.213083,
   ownProgress: 5.213083,

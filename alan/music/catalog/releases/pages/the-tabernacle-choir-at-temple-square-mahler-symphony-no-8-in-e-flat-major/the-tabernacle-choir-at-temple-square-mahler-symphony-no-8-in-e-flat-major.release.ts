@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareMahlerSymphonyNo8InEFlatMajor = {
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-mahler-symphony-no-8-in-e-flat-major",
   title: 'Mahler: Symphony No. 8 in E-Flat Major "Symphony of a Thousand" (Live)',
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 79.634367,
   ownProgress: 0,

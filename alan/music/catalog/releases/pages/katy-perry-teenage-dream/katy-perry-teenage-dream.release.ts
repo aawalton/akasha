@@ -5,7 +5,7 @@ export const katyPerryTeenageDream = {
   type: "release",
   slug: "katy-perry-teenage-dream",
   title: "Teenage Dream",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 67.015617,
   ownProgress: 67.015617,

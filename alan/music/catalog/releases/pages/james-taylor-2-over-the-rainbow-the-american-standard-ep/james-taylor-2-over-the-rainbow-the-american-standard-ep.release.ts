@@ -5,7 +5,7 @@ export const jamesTaylor2OverTheRainbowTheAmericanStandardEp = {
   type: "release",
   slug: "james-taylor-2-over-the-rainbow-the-american-standard-ep",
   title: "Over The Rainbow: The American Standard EP",
-  partOfCollections: ["james-taylor"],
+  partOfCollections: ["artist/james-taylor"],
   position: 0,
   ownLength: 8.765967,
   ownProgress: 8.765967,

@@ -5,7 +5,7 @@ export const lindseyStirling2UnfoldingFeatRachelPlatten = {
   type: "release",
   slug: "lindsey-stirling-2-unfolding-feat-rachel-platten",
   title: "Unfolding [Feat. Rachel Platten]",
-  partOfCollections: ["lindsey-stirling"],
+  partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
   ownLength: 3.648433,
   ownProgress: 3.648433,

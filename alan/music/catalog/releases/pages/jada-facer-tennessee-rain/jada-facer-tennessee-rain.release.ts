@@ -5,7 +5,7 @@ export const jadaFacerTennesseeRain = {
   type: "release",
   slug: "jada-facer-tennessee-rain",
   title: "Tennessee Rain",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.1,
   ownProgress: 3.1,

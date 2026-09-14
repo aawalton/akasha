@@ -5,7 +5,7 @@ export const rockapellaSirGotalot = {
   type: "release",
   slug: "rockapella-sir-gotalot",
   title: "Sir GotALot",
-  partOfCollections: ["rockapella"],
+  partOfCollections: ["artist/rockapella"],
   position: 0,
   ownLength: 3.20115,
   ownProgress: 3.20115,

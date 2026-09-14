@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquare911RisingAbove = {
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-9-11-rising-above",
   title: "9/11 Rising Above",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 28.433967,
   ownProgress: 0,

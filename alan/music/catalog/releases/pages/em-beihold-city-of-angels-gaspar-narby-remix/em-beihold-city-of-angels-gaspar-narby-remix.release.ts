@@ -5,7 +5,7 @@ export const emBeiholdCityOfAngelsGasparNarbyRemix = {
   type: "release",
   slug: "em-beihold-city-of-angels-gaspar-narby-remix",
   title: "City of Angels (Gaspar Narby Remix)",
-  partOfCollections: ["em-beihold"],
+  partOfCollections: ["artist/em-beihold"],
   position: 0,
   ownLength: 3.575,
   ownProgress: 3.575,

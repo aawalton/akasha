@@ -5,7 +5,7 @@ export const paulCardallNewLife = {
   type: "release",
   slug: "paul-cardall-new-life",
   title: "New Life",
-  partOfCollections: ["paul-cardall"],
+  partOfCollections: ["artist/paul-cardall"],
   position: 0,
   ownLength: 52.614367,
   ownProgress: 52.614367,

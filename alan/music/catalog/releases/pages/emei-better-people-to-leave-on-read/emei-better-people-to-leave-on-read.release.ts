@@ -5,7 +5,7 @@ export const emeiBetterPeopleToLeaveOnRead = {
   type: "release",
   slug: "emei-better-people-to-leave-on-read",
   title: "Better People To Leave On Read",
-  partOfCollections: ["emei"],
+  partOfCollections: ["artist/emei"],
   position: 0,
   ownLength: 2.189067,
   ownProgress: 2.189067,

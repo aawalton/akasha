@@ -5,7 +5,7 @@ export const lindseyStirling2MyImmortal = {
   type: "release",
   slug: "lindsey-stirling-2-my-immortal",
   title: "My Immortal",
-  partOfCollections: ["lindsey-stirling"],
+  partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
   ownLength: 4.189333,
   ownProgress: 4.189333,

@@ -5,7 +5,7 @@ export const emeiStereo = {
   type: "release",
   slug: "emei-stereo",
   title: "Stereo",
-  partOfCollections: ["emei"],
+  partOfCollections: ["artist/emei"],
   position: 0,
   ownLength: 2.457517,
   ownProgress: 2.457517,

@@ -5,7 +5,7 @@ export const alexandriaFallenAngel = {
   type: "release",
   slug: "alexandria-fallen-angel",
   title: "Fallen Angel",
-  partOfCollections: ["alexandria"],
+  partOfCollections: ["artist/alexandria"],
   position: 0,
   ownLength: 2.7624,
   ownProgress: 2.7624,

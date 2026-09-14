@@ -5,7 +5,7 @@ export const jadaFacerPrettySlowlyAcoustic = {
   type: "release",
   slug: "jada-facer-pretty-slowly-acoustic",
   title: "Pretty Slowly (Acoustic)",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.68965,
   ownProgress: 3.68965,

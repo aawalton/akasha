@@ -5,7 +5,7 @@ export const lynLapidOkWithIt = {
   type: "release",
   slug: "lyn-lapid-ok-with-it",
   title: "ok with it",
-  partOfCollections: ["lyn-lapid"],
+  partOfCollections: ["artist/lyn-lapid"],
   position: 0,
   ownLength: 2.763217,
   ownProgress: 2.763217,

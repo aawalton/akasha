@@ -5,7 +5,7 @@ export const jessicaBaioGone = {
   type: "release",
   slug: "jessica-baio-gone",
   title: "gone",
-  partOfCollections: ["jessica-baio"],
+  partOfCollections: ["artist/jessica-baio"],
   position: 0,
   ownLength: 3.193583,
   ownProgress: 3.193583,

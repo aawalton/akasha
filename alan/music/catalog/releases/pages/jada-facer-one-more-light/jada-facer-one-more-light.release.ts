@@ -5,7 +5,7 @@ export const jadaFacerOneMoreLight = {
   type: "release",
   slug: "jada-facer-one-more-light",
   title: "One More Light",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 4.221417,
   ownProgress: 4.221417,

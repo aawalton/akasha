@@ -5,7 +5,7 @@ export const zaraLarssonAllTheTime = {
   type: "release",
   slug: "zara-larsson-all-the-time",
   title: "All the Time",
-  partOfCollections: ["zara-larsson"],
+  partOfCollections: ["artist/zara-larsson"],
   position: 0,
   ownLength: 3.801867,
   ownProgress: 3.801867,

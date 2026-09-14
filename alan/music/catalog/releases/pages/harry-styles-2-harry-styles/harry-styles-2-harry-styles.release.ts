@@ -5,7 +5,7 @@ export const harryStyles2HarryStyles = {
   type: "release",
   slug: "harry-styles-2-harry-styles",
   title: "Harry Styles",
-  partOfCollections: ["harry-styles"],
+  partOfCollections: ["artist/harry-styles"],
   position: 0,
   ownLength: 40.396833,
   ownProgress: 40.396833,

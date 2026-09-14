@@ -5,7 +5,7 @@ export const katyPerryDaisies = {
   type: "release",
   slug: "katy-perry-daisies",
   title: "Daisies",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 2.885383,
   ownProgress: 2.885383,

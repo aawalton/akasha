@@ -5,7 +5,7 @@ export const thePianoGuys3Uncharted = {
   type: "release",
   slug: "the-piano-guys-3-uncharted",
   title: "Uncharted",
-  partOfCollections: ["the-piano-guys"],
+  partOfCollections: ["artist/the-piano-guys"],
   position: 0,
   ownLength: 45.456383,
   ownProgress: 45.456383,

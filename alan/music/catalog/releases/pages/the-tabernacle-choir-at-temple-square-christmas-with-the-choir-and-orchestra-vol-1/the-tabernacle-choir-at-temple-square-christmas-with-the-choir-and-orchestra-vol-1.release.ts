@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareChristmasWithTheChoirAndOrchestraVo
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-christmas-with-the-choir-and-orchestra-vol-1",
   title: "Christmas With The Mormon Tabernacle Choir And Orchestra At Temple Square vol. 1",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 67.431917,
   ownProgress: 0,

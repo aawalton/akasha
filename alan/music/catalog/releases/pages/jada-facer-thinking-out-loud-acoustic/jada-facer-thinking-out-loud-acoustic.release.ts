@@ -5,7 +5,7 @@ export const jadaFacerThinkingOutLoudAcoustic = {
   type: "release",
   slug: "jada-facer-thinking-out-loud-acoustic",
   title: "Thinking Out Loud (Acoustic)",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 4.104733,
   ownProgress: 4.104733,

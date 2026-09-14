@@ -5,7 +5,7 @@ export const jisooEyesClosedWithZayn = {
   type: "release",
   slug: "jisoo-eyes-closed-with-zayn",
   title: "EYES CLOSED (with ZAYN)",
-  partOfCollections: ["jisoo"],
+  partOfCollections: ["artist/jisoo"],
   position: 0,
   ownLength: 3.022917,
   ownProgress: 3.022917,

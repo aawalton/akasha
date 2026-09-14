@@ -5,7 +5,7 @@ export const coldplayLifeInTechnicolorIi = {
   type: "release",
   slug: "coldplay-life-in-technicolor-ii",
   title: "Life in Technicolor ii",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 10.22265,
   ownProgress: 10.22265,

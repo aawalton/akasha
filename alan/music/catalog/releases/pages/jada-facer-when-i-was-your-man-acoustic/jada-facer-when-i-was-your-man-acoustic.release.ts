@@ -5,7 +5,7 @@ export const jadaFacerWhenIWasYourManAcoustic = {
   type: "release",
   slug: "jada-facer-when-i-was-your-man-acoustic",
   title: "When I Was Your Man (Acoustic)",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.662217,
   ownProgress: 3.662217,

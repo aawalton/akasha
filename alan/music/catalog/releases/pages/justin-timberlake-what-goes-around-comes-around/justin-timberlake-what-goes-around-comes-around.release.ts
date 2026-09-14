@@ -5,7 +5,7 @@ export const justinTimberlakeWhatGoesAroundComesAround = {
   type: "release",
   slug: "justin-timberlake-what-goes-around-comes-around",
   title: "What Goes Around...Comes Around",
-  partOfCollections: ["justin-timberlake"],
+  partOfCollections: ["artist/justin-timberlake"],
   position: 0,
   ownLength: 20.199983,
   ownProgress: 0,

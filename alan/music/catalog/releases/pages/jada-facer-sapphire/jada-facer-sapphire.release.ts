@@ -5,7 +5,7 @@ export const jadaFacerSapphire = {
   type: "release",
   slug: "jada-facer-sapphire",
   title: "Sapphire",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.73275,
   ownProgress: 2.73275,

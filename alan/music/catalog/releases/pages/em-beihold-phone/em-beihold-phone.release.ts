@@ -5,7 +5,7 @@ export const emBeiholdPhone = {
   type: "release",
   slug: "em-beihold-phone",
   title: "Phone",
-  partOfCollections: ["em-beihold"],
+  partOfCollections: ["artist/em-beihold"],
   position: 0,
   ownLength: 2.5846,
   ownProgress: 2.5846,

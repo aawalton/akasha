@@ -5,7 +5,7 @@ export const jadaFacerDarkside = {
   type: "release",
   slug: "jada-facer-darkside",
   title: "Darkside",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.869117,
   ownProgress: 2.869117,

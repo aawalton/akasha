@@ -5,7 +5,7 @@ export const elvisPresley2Elvis2ndToNone = {
   type: "release",
   slug: "elvis-presley-2-elvis-2nd-to-none",
   title: "Elvis 2nd To None",
-  partOfCollections: ["elvis-presley"],
+  partOfCollections: ["artist/elvis-presley"],
   position: 0,
   ownLength: 78.5043,
   ownProgress: 78.5043,

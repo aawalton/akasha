@@ -5,7 +5,7 @@ export const backstreetBoys2AVeryBackstreetChristmas = {
   type: "release",
   slug: "backstreet-boys-2-a-very-backstreet-christmas",
   title: "A Very Backstreet Christmas",
-  partOfCollections: ["backstreet-boys"],
+  partOfCollections: ["artist/backstreet-boys"],
   position: 0,
   ownLength: 43.62855,
   ownProgress: 43.62855,

@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareSingChoirsOfAngels = {
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-sing-choirs-of-angels",
   title: "Sing, Choirs of Angels!",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 56.78435,
   ownProgress: 0,

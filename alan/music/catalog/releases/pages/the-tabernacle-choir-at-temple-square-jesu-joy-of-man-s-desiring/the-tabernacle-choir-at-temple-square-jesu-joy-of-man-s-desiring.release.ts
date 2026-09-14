@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareJesuJoyOfManSDesiring = {
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-jesu-joy-of-man-s-desiring",
   title: "Jesu, Joy of Man's Desiring - The Great Bach Choruses (2025 Remastered)",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 51.48925,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const taylorSwift2YouNeedToCalmDownLiveFromParis = {
   type: "release",
   slug: "taylor-swift-2-you-need-to-calm-down-live-from-paris",
   title: "You Need To Calm Down (Live From Paris)",
-  partOfCollections: ["taylor-swift"],
+  partOfCollections: ["artist/taylor-swift"],
   position: 0,
   ownLength: 3.399333,
   ownProgress: 3.399333,

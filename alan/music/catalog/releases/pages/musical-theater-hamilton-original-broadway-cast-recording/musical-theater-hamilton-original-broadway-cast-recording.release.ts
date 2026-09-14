@@ -5,7 +5,7 @@ export const musicalTheaterHamiltonOriginalBroadwayCastRecording = {
   type: "release",
   slug: "musical-theater-hamilton-original-broadway-cast-recording",
   title: "Hamilton (Original Broadway Cast Recording)",
-  partOfCollections: ["musical-theater"],
+  partOfCollections: ["release-collection/musical-theater"],
   position: 0,
   ownLength: 142.595117,
   ownProgress: 142.595117,

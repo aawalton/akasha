@@ -5,7 +5,7 @@ export const siaOriginalFromDolittle = {
   type: "release",
   slug: "sia-original-from-dolittle",
   title: "Original (from Dolittle)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 3.561117,
   ownProgress: 3.561117,

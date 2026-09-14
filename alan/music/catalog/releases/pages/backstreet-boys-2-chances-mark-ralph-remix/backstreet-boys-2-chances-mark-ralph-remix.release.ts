@@ -5,7 +5,7 @@ export const backstreetBoys2ChancesMarkRalphRemix = {
   type: "release",
   slug: "backstreet-boys-2-chances-mark-ralph-remix",
   title: "Chances (Mark Ralph Remix)",
-  partOfCollections: ["backstreet-boys"],
+  partOfCollections: ["artist/backstreet-boys"],
   position: 0,
   ownLength: 3.509633,
   ownProgress: 3.509633,

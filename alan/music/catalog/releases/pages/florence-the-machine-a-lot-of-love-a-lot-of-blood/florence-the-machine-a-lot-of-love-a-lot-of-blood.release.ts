@@ -5,7 +5,7 @@ export const florenceTheMachineALotOfLoveALotOfBlood = {
   type: "release",
   slug: "florence-the-machine-a-lot-of-love-a-lot-of-blood",
   title: "A Lot of Love, A Lot of Blood",
-  partOfCollections: ["florence-the-machine"],
+  partOfCollections: ["artist/florence-the-machine"],
   position: 0,
   ownLength: 18.241983,
   ownProgress: 18.241983,

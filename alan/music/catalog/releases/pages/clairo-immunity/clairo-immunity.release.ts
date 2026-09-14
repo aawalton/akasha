@@ -5,7 +5,7 @@ export const clairoImmunity = {
   type: "release",
   slug: "clairo-immunity",
   title: "Immunity",
-  partOfCollections: ["clairo"],
+  partOfCollections: ["artist/clairo"],
   position: 0,
   ownLength: 40.658817,
   ownProgress: 0,

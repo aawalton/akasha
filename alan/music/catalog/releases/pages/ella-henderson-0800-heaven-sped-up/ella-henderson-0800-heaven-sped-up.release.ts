@@ -5,7 +5,7 @@ export const ellaHenderson0800HeavenSpedUp = {
   type: "release",
   slug: "ella-henderson-0800-heaven-sped-up",
   title: "0800 HEAVEN (Sped Up)",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 4.880117,
   ownProgress: 0,

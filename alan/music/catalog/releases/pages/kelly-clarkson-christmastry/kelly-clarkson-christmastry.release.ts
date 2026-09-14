@@ -5,7 +5,7 @@ export const kellyClarksonChristmastry = {
   type: "release",
   slug: "kelly-clarkson-christmastry",
   title: "Christmastry",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 18.449,
   ownProgress: 18.449,

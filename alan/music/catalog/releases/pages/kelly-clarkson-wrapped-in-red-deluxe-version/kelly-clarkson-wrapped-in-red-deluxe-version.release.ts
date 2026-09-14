@@ -5,7 +5,7 @@ export const kellyClarksonWrappedInRedDeluxeVersion = {
   type: "release",
   slug: "kelly-clarkson-wrapped-in-red-deluxe-version",
   title: "Wrapped In Red (Deluxe Version)",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 51.85095,
   ownProgress: 51.85095,

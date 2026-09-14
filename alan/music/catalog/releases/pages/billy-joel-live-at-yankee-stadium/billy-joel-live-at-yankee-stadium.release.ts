@@ -5,7 +5,7 @@ export const billyJoelLiveAtYankeeStadium = {
   type: "release",
   slug: "billy-joel-live-at-yankee-stadium",
   title: "Live at Yankee Stadium",
-  partOfCollections: ["billy-joel"],
+  partOfCollections: ["artist/billy-joel"],
   position: 0,
   ownLength: 111.447867,
   ownProgress: 0,

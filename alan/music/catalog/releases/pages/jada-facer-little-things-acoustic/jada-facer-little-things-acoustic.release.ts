@@ -5,7 +5,7 @@ export const jadaFacerLittleThingsAcoustic = {
   type: "release",
   slug: "jada-facer-little-things-acoustic",
   title: "Little Things (Acoustic)",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.300817,
   ownProgress: 3.300817,

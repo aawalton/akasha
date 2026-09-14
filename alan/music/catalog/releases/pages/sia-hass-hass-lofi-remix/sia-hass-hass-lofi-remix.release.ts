@@ -5,7 +5,7 @@ export const siaHassHassLofiRemix = {
   type: "release",
   slug: "sia-hass-hass-lofi-remix",
   title: "Hass Hass (Lofi Remix)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 7.8637,
   ownProgress: 7.8637,

@@ -5,7 +5,7 @@ export const arianaGrandeChristmasChill = {
   type: "release",
   slug: "ariana-grande-christmas-chill",
   title: "Christmas & Chill",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 16.57255,
   ownProgress: 16.57255,

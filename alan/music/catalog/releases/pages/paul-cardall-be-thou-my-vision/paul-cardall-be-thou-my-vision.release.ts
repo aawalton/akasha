@@ -5,7 +5,7 @@ export const paulCardallBeThouMyVision = {
   type: "release",
   slug: "paul-cardall-be-thou-my-vision",
   title: "Be Thou My Vision",
-  partOfCollections: ["paul-cardall"],
+  partOfCollections: ["artist/paul-cardall"],
   position: 0,
   ownLength: 4.141667,
   ownProgress: 4.141667,

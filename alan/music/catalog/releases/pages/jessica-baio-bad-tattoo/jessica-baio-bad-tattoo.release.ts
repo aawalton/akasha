@@ -5,7 +5,7 @@ export const jessicaBaioBadTattoo = {
   type: "release",
   slug: "jessica-baio-bad-tattoo",
   title: "bad tattoo",
-  partOfCollections: ["jessica-baio"],
+  partOfCollections: ["artist/jessica-baio"],
   position: 0,
   ownLength: 12.973583,
   ownProgress: 12.973583,

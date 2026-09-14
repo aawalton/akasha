@@ -5,7 +5,7 @@ export const michaelJacksonImmortal = {
   type: "release",
   slug: "michael-jackson-immortal",
   title: "Immortal",
-  partOfCollections: ["michael-jackson"],
+  partOfCollections: ["artist/michael-jackson"],
   position: 0,
   ownLength: 102.801833,
   ownProgress: 102.801833,

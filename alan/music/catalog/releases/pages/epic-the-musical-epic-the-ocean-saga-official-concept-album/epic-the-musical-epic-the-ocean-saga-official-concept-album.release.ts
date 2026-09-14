@@ -5,7 +5,7 @@ export const epicTheMusicalEpicTheOceanSagaOfficialConceptAlbum = {
   type: "release",
   slug: "epic-the-musical-epic-the-ocean-saga-official-concept-album",
   title: "EPIC: The Ocean Saga (Official Concept Album)",
-  partOfCollections: ["epic-the-musical"],
+  partOfCollections: ["artist/epic-the-musical"],
   position: 0,
   ownLength: 14.238283,
   ownProgress: 14.238283,

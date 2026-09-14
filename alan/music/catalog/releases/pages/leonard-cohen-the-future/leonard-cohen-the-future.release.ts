@@ -5,7 +5,7 @@ export const leonardCohenTheFuture = {
   type: "release",
   slug: "leonard-cohen-the-future",
   title: "The Future",
-  partOfCollections: ["leonard-cohen"],
+  partOfCollections: ["artist/leonard-cohen"],
   position: 0,
   ownLength: 59.375517,
   ownProgress: 0,

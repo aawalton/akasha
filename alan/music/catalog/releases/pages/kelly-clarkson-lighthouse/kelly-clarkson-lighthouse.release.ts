@@ -5,7 +5,7 @@ export const kellyClarksonLighthouse = {
   type: "release",
   slug: "kelly-clarkson-lighthouse",
   title: "lighthouse",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 6.833567,
   ownProgress: 6.833567,

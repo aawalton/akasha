@@ -5,7 +5,7 @@ export const siaThisIsActingDeluxeVersion = {
   type: "release",
   slug: "sia-this-is-acting-deluxe-version",
   title: "This Is Acting (Deluxe Version)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 74.323433,
   ownProgress: 74.323433,

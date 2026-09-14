@@ -5,7 +5,7 @@ export const billieEilishIlomiloLiveFromTheFilmBillieEilishTheWorldSALittleBlurr
   type: "release",
   slug: "billie-eilish-ilomilo-live-from-the-film-billie-eilish-the-world-s-a-little-blurry",
   title: "ilomilo (Live From The Film - Billie Eilish: The World’s A Little Blurry)",
-  partOfCollections: ["billie-eilish"],
+  partOfCollections: ["artist/billie-eilish"],
   position: 0,
   ownLength: 2.734183,
   ownProgress: 2.734183,

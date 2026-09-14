@@ -5,7 +5,7 @@ export const jadaFacerNotOk = {
   type: "release",
   slug: "jada-facer-not-ok",
   title: "Not Ok",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.4738,
   ownProgress: 2.4738,

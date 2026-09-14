@@ -5,7 +5,7 @@ export const kellyClarksonHappierThanEver = {
   type: "release",
   slug: "kelly-clarkson-happier-than-ever",
   title: "Happier Than Ever",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 6.331883,
   ownProgress: 6.331883,

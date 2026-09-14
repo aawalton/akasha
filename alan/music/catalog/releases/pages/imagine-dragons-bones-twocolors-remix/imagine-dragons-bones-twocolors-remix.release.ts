@@ -5,7 +5,7 @@ export const imagineDragonsBonesTwocolorsRemix = {
   type: "release",
   slug: "imagine-dragons-bones-twocolors-remix",
   title: "Bones (twocolors Remix)",
-  partOfCollections: ["imagine-dragons"],
+  partOfCollections: ["artist/imagine-dragons"],
   position: 0,
   ownLength: 4.2682,
   ownProgress: 4.2682,

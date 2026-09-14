@@ -5,7 +5,7 @@ export const arianaGrandeTheBoyIsMine = {
   type: "release",
   slug: "ariana-grande-the-boy-is-mine",
   title: "the boy is mine",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 15.61205,
   ownProgress: 15.61205,

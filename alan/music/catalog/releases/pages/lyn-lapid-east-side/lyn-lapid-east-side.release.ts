@@ -5,7 +5,7 @@ export const lynLapidEastSide = {
   type: "release",
   slug: "lyn-lapid-east-side",
   title: "east side",
-  partOfCollections: ["lyn-lapid"],
+  partOfCollections: ["artist/lyn-lapid"],
   position: 0,
   ownLength: 2.759633,
   ownProgress: 2.759633,

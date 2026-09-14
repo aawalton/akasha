@@ -5,7 +5,7 @@ export const phoebeBridgersChineseSatelliteLiveFromSoundCity = {
   type: "release",
   slug: "phoebe-bridgers-chinese-satellite-live-from-sound-city",
   title: "Chinese Satellite (Live From Sound City)",
-  partOfCollections: ["phoebe-bridgers"],
+  partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
   ownLength: 3.914667,
   ownProgress: 3.914667,

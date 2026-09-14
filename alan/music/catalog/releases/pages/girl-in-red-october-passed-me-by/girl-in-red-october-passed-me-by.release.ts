@@ -5,7 +5,7 @@ export const girlInRedOctoberPassedMeBy = {
   type: "release",
   slug: "girl-in-red-october-passed-me-by",
   title: "October Passed Me By",
-  partOfCollections: ["girl-in-red"],
+  partOfCollections: ["artist/girl-in-red"],
   position: 0,
   ownLength: 2.762433,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const billyJoelMyLives = {
   type: "release",
   slug: "billy-joel-my-lives",
   title: "My Lives",
-  partOfCollections: ["billy-joel"],
+  partOfCollections: ["artist/billy-joel"],
   position: 0,
   ownLength: 288.331817,
   ownProgress: 0,

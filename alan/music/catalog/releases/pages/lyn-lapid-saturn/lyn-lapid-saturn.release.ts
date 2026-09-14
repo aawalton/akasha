@@ -5,7 +5,7 @@ export const lynLapidSaturn = {
   type: "release",
   slug: "lyn-lapid-saturn",
   title: "Saturn",
-  partOfCollections: ["lyn-lapid"],
+  partOfCollections: ["artist/lyn-lapid"],
   position: 0,
   ownLength: 3.5611,
   ownProgress: 3.5611,

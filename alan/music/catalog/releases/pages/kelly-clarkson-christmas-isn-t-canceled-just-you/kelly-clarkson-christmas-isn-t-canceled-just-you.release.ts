@@ -5,7 +5,7 @@ export const kellyClarksonChristmasIsnTCanceledJustYou = {
   type: "release",
   slug: "kelly-clarkson-christmas-isn-t-canceled-just-you",
   title: "Christmas Isn't Canceled (Just You)",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 3.85915,
   ownProgress: 3.85915,

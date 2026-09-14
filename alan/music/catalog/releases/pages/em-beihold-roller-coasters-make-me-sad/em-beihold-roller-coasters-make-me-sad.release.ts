@@ -5,7 +5,7 @@ export const emBeiholdRollerCoastersMakeMeSad = {
   type: "release",
   slug: "em-beihold-roller-coasters-make-me-sad",
   title: "Roller Coasters Make Me Sad",
-  partOfCollections: ["em-beihold"],
+  partOfCollections: ["artist/em-beihold"],
   position: 0,
   ownLength: 3.1996,
   ownProgress: 3.1996,

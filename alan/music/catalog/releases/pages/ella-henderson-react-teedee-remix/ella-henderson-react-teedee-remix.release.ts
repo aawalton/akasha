@@ -5,7 +5,7 @@ export const ellaHendersonReactTeedeeRemix = {
   type: "release",
   slug: "ella-henderson-react-teedee-remix",
   title: "REACT (TeeDee Remix)",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 10.052267,
   ownProgress: 0,

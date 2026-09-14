@@ -5,7 +5,7 @@ export const emBeiholdPedestal = {
   type: "release",
   slug: "em-beihold-pedestal",
   title: "Pedestal",
-  partOfCollections: ["em-beihold"],
+  partOfCollections: ["artist/em-beihold"],
   position: 0,
   ownLength: 3.192583,
   ownProgress: 3.192583,

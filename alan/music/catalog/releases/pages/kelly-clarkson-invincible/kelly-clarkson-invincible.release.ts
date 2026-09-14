@@ -5,7 +5,7 @@ export const kellyClarksonInvincible = {
   type: "release",
   slug: "kelly-clarkson-invincible",
   title: "Invincible",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 3.97265,
   ownProgress: 3.97265,

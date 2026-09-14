@@ -5,7 +5,7 @@ export const kellyClarksonBreakaway = {
   type: "release",
   slug: "kelly-clarkson-breakaway",
   title: "Breakaway",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 44.797033,
   ownProgress: 44.797033,

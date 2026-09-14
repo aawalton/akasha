@@ -5,7 +5,7 @@ export const harryStyles2SpotifySingles = {
   type: "release",
   slug: "harry-styles-2-spotify-singles",
   title: "Spotify Singles",
-  partOfCollections: ["harry-styles"],
+  partOfCollections: ["artist/harry-styles"],
   position: 0,
   ownLength: 7.800983,
   ownProgress: 7.800983,

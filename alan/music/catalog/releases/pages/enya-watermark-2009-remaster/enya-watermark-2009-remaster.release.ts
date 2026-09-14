@@ -5,7 +5,7 @@ export const enyaWatermark2009Remaster = {
   type: "release",
   slug: "enya-watermark-2009-remaster",
   title: "Watermark (2009 Remaster)",
-  partOfCollections: ["enya"],
+  partOfCollections: ["artist/enya"],
   position: 0,
   ownLength: 45.692367,
   ownProgress: 45.692367,

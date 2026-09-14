@@ -5,7 +5,7 @@ export const emeiCynical = {
   type: "release",
   slug: "emei-cynical",
   title: "Cynical",
-  partOfCollections: ["emei"],
+  partOfCollections: ["artist/emei"],
   position: 0,
   ownLength: 2.243033,
   ownProgress: 2.243033,

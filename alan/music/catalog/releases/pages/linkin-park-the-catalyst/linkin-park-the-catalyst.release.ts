@@ -5,7 +5,7 @@ export const linkinParkTheCatalyst = {
   type: "release",
   slug: "linkin-park-the-catalyst",
   title: "The Catalyst",
-  partOfCollections: ["linkin-park"],
+  partOfCollections: ["artist/linkin-park"],
   position: 0,
   ownLength: 5.664217,
   ownProgress: 0,

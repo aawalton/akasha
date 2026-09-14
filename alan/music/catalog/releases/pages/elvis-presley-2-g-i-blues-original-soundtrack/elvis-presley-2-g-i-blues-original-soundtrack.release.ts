@@ -5,7 +5,7 @@ export const elvisPresley2GIBluesOriginalSoundtrack = {
   type: "release",
   slug: "elvis-presley-2-g-i-blues-original-soundtrack",
   title: "G.I. Blues (Original Soundtrack)",
-  partOfCollections: ["elvis-presley"],
+  partOfCollections: ["artist/elvis-presley"],
   position: 0,
   ownLength: 26.46225,
   ownProgress: 26.46225,

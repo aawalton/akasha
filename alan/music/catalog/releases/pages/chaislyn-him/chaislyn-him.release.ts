@@ -5,7 +5,7 @@ export const chaislynHim = {
   type: "release",
   slug: "chaislyn-him",
   title: "Him",
-  partOfCollections: ["chaislyn"],
+  partOfCollections: ["artist/chaislyn"],
   position: 0,
   ownLength: 3.33515,
   ownProgress: 3.33515,

@@ -5,7 +5,7 @@ export const jadaFacerHappyNow = {
   type: "release",
   slug: "jada-facer-happy-now",
   title: "Happy Now",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.2935,
   ownProgress: 3.2935,

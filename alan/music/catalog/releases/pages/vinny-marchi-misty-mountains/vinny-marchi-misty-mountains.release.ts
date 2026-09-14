@@ -5,7 +5,7 @@ export const vinnyMarchiMistyMountains = {
   type: "release",
   slug: "vinny-marchi-misty-mountains",
   title: "Misty Mountains",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 3.153,
   ownProgress: 3.153,

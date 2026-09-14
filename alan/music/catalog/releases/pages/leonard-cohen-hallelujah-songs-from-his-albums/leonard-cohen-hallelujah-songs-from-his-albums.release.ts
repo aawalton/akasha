@@ -5,7 +5,7 @@ export const leonardCohenHallelujahSongsFromHisAlbums = {
   type: "release",
   slug: "leonard-cohen-hallelujah-songs-from-his-albums",
   title: "Hallelujah & Songs from His Albums",
-  partOfCollections: ["leonard-cohen"],
+  partOfCollections: ["artist/leonard-cohen"],
   position: 0,
   ownLength: 76.02745,
   ownProgress: 0,

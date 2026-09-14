@@ -5,7 +5,7 @@ export const siaColdFeatSia = {
   type: "release",
   slug: "sia-cold-feat-sia",
   title: "Cold (feat. Sia)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 3.327383,
   ownProgress: 3.327383,

@@ -5,7 +5,7 @@ export const imagineDragonsEyesClosed = {
   type: "release",
   slug: "imagine-dragons-eyes-closed",
   title: "Eyes Closed",
-  partOfCollections: ["imagine-dragons"],
+  partOfCollections: ["artist/imagine-dragons"],
   position: 0,
   ownLength: 3.3335,
   ownProgress: 3.3335,

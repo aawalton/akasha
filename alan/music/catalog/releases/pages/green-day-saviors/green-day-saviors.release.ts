@@ -5,7 +5,7 @@ export const greenDaySaviors = {
   type: "release",
   slug: "green-day-saviors",
   title: "Saviors",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 46.048883,
   ownProgress: 0,

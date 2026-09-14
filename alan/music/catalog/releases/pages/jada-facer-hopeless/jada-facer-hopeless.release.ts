@@ -5,7 +5,7 @@ export const jadaFacerHopeless = {
   type: "release",
   slug: "jada-facer-hopeless",
   title: "Hopeless",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.798183,
   ownProgress: 2.798183,

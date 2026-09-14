@@ -5,7 +5,7 @@ export const greenDay21GunsDmdMaxi = {
   type: "release",
   slug: "green-day-21-guns-dmd-maxi",
   title: "21 Guns (DMD Maxi)",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 12.6562,
   ownProgress: 12.6562,

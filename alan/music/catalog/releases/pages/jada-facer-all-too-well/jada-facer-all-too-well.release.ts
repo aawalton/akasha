@@ -5,7 +5,7 @@ export const jadaFacerAllTooWell = {
   type: "release",
   slug: "jada-facer-all-too-well",
   title: "All Too Well",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 4.93065,
   ownProgress: 4.93065,

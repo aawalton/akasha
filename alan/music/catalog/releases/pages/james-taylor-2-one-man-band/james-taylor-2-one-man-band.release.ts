@@ -5,7 +5,7 @@ export const jamesTaylor2OneManBand = {
   type: "release",
   slug: "james-taylor-2-one-man-band",
   title: "One Man Band",
-  partOfCollections: ["james-taylor"],
+  partOfCollections: ["artist/james-taylor"],
   position: 0,
   ownLength: 77.861667,
   ownProgress: 77.861667,

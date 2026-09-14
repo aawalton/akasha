@@ -5,7 +5,7 @@ export const auroraWalkingInTheAir = {
   type: "release",
   slug: "aurora-walking-in-the-air",
   title: "Walking In The Air",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 3.484217,
   ownProgress: 3.484217,

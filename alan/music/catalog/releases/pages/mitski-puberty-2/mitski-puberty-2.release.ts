@@ -5,7 +5,7 @@ export const mitskiPuberty2 = {
   type: "release",
   slug: "mitski-puberty-2",
   title: "Puberty 2",
-  partOfCollections: ["mitski"],
+  partOfCollections: ["artist/mitski"],
   position: 0,
   ownLength: 31.432533,
   ownProgress: 31.432533,

@@ -5,7 +5,7 @@ export const celticWoman2AsaSFancyRoxySNewShoes = {
   type: "release",
   slug: "celtic-woman-2-asa-s-fancy-roxy-s-new-shoes",
   title: "Asa’s Fancy/Roxy’s New Shoes",
-  partOfCollections: ["celtic-woman"],
+  partOfCollections: ["artist/celtic-woman"],
   position: 0,
   ownLength: 3.6125,
   ownProgress: 3.6125,

@@ -5,7 +5,7 @@ export const jadaFacerForeverYoung = {
   type: "release",
   slug: "jada-facer-forever-young",
   title: "Forever Young",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.781067,
   ownProgress: 3.781067,

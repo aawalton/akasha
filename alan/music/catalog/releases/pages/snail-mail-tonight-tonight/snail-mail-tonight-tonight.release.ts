@@ -5,7 +5,7 @@ export const snailMailTonightTonight = {
   type: "release",
   slug: "snail-mail-tonight-tonight",
   title: "Tonight, Tonight",
-  partOfCollections: ["snail-mail"],
+  partOfCollections: ["artist/snail-mail"],
   position: 0,
   ownLength: 4.351467,
   ownProgress: 0,

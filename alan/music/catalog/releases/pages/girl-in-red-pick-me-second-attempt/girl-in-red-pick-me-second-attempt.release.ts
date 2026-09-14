@@ -5,7 +5,7 @@ export const girlInRedPickMeSecondAttempt = {
   type: "release",
   slug: "girl-in-red-pick-me-second-attempt",
   title: "Pick Me (Second Attempt)",
-  partOfCollections: ["girl-in-red"],
+  partOfCollections: ["artist/girl-in-red"],
   position: 0,
   ownLength: 2.561117,
   ownProgress: 0,

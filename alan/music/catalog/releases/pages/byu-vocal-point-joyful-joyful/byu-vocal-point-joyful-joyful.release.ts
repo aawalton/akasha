@@ -5,7 +5,7 @@ export const byuVocalPointJoyfulJoyful = {
   type: "release",
   slug: "byu-vocal-point-joyful-joyful",
   title: "Joyful Joyful",
-  partOfCollections: ["byu-vocal-point"],
+  partOfCollections: ["artist/byu-vocal-point"],
   position: 0,
   ownLength: 3.9575,
   ownProgress: 0,

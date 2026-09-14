@@ -5,7 +5,7 @@ export const sabrinaCarpenterAlmostLove = {
   type: "release",
   slug: "sabrina-carpenter-almost-love",
   title: "Almost Love",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 10.278833,
   ownProgress: 10.278833,

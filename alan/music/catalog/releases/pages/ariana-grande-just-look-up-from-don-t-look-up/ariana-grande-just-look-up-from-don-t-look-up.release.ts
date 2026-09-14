@@ -5,7 +5,7 @@ export const arianaGrandeJustLookUpFromDonTLookUp = {
   type: "release",
   slug: "ariana-grande-just-look-up-from-don-t-look-up",
   title: "Just Look Up (From Don’t Look Up)",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 3.361117,
   ownProgress: 3.361117,

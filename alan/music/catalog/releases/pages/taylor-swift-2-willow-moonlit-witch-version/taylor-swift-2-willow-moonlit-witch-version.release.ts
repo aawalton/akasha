@@ -5,7 +5,7 @@ export const taylorSwift2WillowMoonlitWitchVersion = {
   type: "release",
   slug: "taylor-swift-2-willow-moonlit-witch-version",
   title: "willow (moonlit witch version)",
-  partOfCollections: ["taylor-swift"],
+  partOfCollections: ["artist/taylor-swift"],
   position: 0,
   ownLength: 3.4811,
   ownProgress: 3.4811,

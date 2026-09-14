@@ -5,7 +5,7 @@ export const jadaFacerIris = {
   type: "release",
   slug: "jada-facer-iris",
   title: "Iris",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.81135,
   ownProgress: 2.81135,

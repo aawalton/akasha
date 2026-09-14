@@ -5,7 +5,7 @@ export const phoebeBridgersThatFunnyFeeling = {
   type: "release",
   slug: "phoebe-bridgers-that-funny-feeling",
   title: "That Funny Feeling",
-  partOfCollections: ["phoebe-bridgers"],
+  partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
   ownLength: 6.676083,
   ownProgress: 6.676083,

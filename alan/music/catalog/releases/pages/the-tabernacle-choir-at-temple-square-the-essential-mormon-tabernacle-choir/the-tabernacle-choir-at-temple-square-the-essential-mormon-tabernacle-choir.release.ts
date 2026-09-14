@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareTheEssentialMormonTabernacleChoir =
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-the-essential-mormon-tabernacle-choir",
   title: "The Essential Mormon Tabernacle Choir",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 145.827067,
   ownProgress: 0,

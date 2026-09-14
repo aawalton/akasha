@@ -5,7 +5,7 @@ export const siaIForgiveYouRemixes = {
   type: "release",
   slug: "sia-i-forgive-you-remixes",
   title: "I Forgive You (Remixes)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 26.497733,
   ownProgress: 26.497733,

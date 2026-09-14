@@ -5,7 +5,7 @@ export const imagineDragonsRoots = {
   type: "release",
   slug: "imagine-dragons-roots",
   title: "Roots",
-  partOfCollections: ["imagine-dragons"],
+  partOfCollections: ["artist/imagine-dragons"],
   position: 0,
   ownLength: 2.908433,
   ownProgress: 2.908433,

@@ -5,7 +5,7 @@ export const ellaHendersonLetSGoHomeTogether = {
   type: "release",
   slug: "ella-henderson-let-s-go-home-together",
   title: "Let’s Go Home Together",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 3.4782,
   ownProgress: 3.4782,

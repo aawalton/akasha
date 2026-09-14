@@ -5,7 +5,7 @@ export const greenDayPollyanna = {
   type: "release",
   slug: "green-day-pollyanna",
   title: "Pollyanna",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 3.250283,
   ownProgress: 0,

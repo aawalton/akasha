@@ -5,7 +5,7 @@ export const vinnyMarchiIAinTGodButIWannaBe = {
   type: "release",
   slug: "vinny-marchi-i-ain-t-god-but-i-wanna-be",
   title: "I Ain't God But I Wanna Be",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 3.466667,
   ownProgress: 3.466667,

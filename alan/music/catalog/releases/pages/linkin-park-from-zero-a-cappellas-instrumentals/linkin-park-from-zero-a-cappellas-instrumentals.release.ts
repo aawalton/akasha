@@ -5,7 +5,7 @@ export const linkinParkFromZeroACappellasInstrumentals = {
   type: "release",
   slug: "linkin-park-from-zero-a-cappellas-instrumentals",
   title: "From Zero: A Cappellas + Instrumentals",
-  partOfCollections: ["linkin-park"],
+  partOfCollections: ["artist/linkin-park"],
   position: 0,
   ownLength: 61.032917,
   ownProgress: 0,

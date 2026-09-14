@@ -5,7 +5,7 @@ export const siaFloatingThroughSpace = {
   type: "release",
   slug: "sia-floating-through-space",
   title: "Floating Through Space",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 2.963333,
   ownProgress: 2.963333,

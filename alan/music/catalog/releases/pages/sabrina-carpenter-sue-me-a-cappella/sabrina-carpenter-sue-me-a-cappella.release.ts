@@ -5,7 +5,7 @@ export const sabrinaCarpenterSueMeACappella = {
   type: "release",
   slug: "sabrina-carpenter-sue-me-a-cappella",
   title: "Sue Me (A Cappella)",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 3.375633,
   ownProgress: 3.375633,

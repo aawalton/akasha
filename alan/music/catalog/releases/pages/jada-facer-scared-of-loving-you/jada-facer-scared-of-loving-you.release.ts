@@ -5,7 +5,7 @@ export const jadaFacerScaredOfLovingYou = {
   type: "release",
   slug: "jada-facer-scared-of-loving-you",
   title: "Scared Of Loving You",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 1.830467,
   ownProgress: 1.830467,

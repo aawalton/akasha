@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareAMerryLittleChristmas = {
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-a-merry-little-christmas",
   title: "A Merry Little Christmas",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 72.417683,
   ownProgress: 0,

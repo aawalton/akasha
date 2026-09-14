@@ -5,7 +5,7 @@ export const reneeRappSnowAngel = {
   type: "release",
   slug: "renee-rapp-snow-angel",
   title: "Snow Angel",
-  partOfCollections: ["renee-rapp"],
+  partOfCollections: ["artist/renee-rapp"],
   position: 0,
   ownLength: 36.582367,
   ownProgress: 36.582367,

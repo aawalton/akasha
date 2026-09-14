@@ -5,7 +5,7 @@ export const michaelJacksonBen = {
   type: "release",
   slug: "michael-jackson-ben",
   title: "Ben",
-  partOfCollections: ["michael-jackson"],
+  partOfCollections: ["artist/michael-jackson"],
   position: 0,
   ownLength: 31.607283,
   ownProgress: 31.607283,

@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareThisIsTheChrist = {
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-this-is-the-christ",
   title: "This Is the Christ",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 65.9299,
   ownProgress: 0,

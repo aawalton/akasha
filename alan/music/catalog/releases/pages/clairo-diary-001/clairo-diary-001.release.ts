@@ -5,7 +5,7 @@ export const clairoDiary001 = {
   type: "release",
   slug: "clairo-diary-001",
   title: "diary 001",
-  partOfCollections: ["clairo"],
+  partOfCollections: ["artist/clairo"],
   position: 0,
   ownLength: 14.728083,
   ownProgress: 0,

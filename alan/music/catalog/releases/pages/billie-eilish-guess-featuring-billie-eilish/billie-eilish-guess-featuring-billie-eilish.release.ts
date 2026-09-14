@@ -5,7 +5,7 @@ export const billieEilishGuessFeaturingBillieEilish = {
   type: "release",
   slug: "billie-eilish-guess-featuring-billie-eilish",
   title: "Guess featuring billie eilish",
-  partOfCollections: ["billie-eilish"],
+  partOfCollections: ["artist/billie-eilish"],
   position: 0,
   ownLength: 2.388833,
   ownProgress: 2.388833,

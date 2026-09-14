@@ -5,7 +5,7 @@ export const imagineDragonsRadioactive = {
   type: "release",
   slug: "imagine-dragons-radioactive",
   title: "Radioactive",
-  partOfCollections: ["imagine-dragons"],
+  partOfCollections: ["artist/imagine-dragons"],
   position: 0,
   ownLength: 4.600667,
   ownProgress: 4.600667,

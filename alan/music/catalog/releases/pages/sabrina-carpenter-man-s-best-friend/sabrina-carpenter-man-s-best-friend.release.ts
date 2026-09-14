@@ -5,7 +5,7 @@ export const sabrinaCarpenterManSBestFriend = {
   type: "release",
   slug: "sabrina-carpenter-man-s-best-friend",
   title: "Man’s Best Friend",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 38.415183,
   ownProgress: 38.415183,

@@ -5,7 +5,7 @@ export const pentatonixIRise = {
   type: "release",
   slug: "pentatonix-i-rise",
   title: "I Rise",
-  partOfCollections: ["pentatonix"],
+  partOfCollections: ["artist/pentatonix"],
   position: 0,
   ownLength: 3.347817,
   ownProgress: 3.347817,

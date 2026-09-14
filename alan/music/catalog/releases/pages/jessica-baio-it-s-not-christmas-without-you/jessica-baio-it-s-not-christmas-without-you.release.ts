@@ -5,7 +5,7 @@ export const jessicaBaioItSNotChristmasWithoutYou = {
   type: "release",
   slug: "jessica-baio-it-s-not-christmas-without-you",
   title: "It's Not Christmas (Without You)",
-  partOfCollections: ["jessica-baio"],
+  partOfCollections: ["artist/jessica-baio"],
   position: 0,
   ownLength: 2.229767,
   ownProgress: 2.229767,

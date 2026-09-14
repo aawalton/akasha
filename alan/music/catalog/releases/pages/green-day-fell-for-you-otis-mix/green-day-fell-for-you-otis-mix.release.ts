@@ -5,7 +5,7 @@ export const greenDayFellForYouOtisMix = {
   type: "release",
   slug: "green-day-fell-for-you-otis-mix",
   title: "Fell for You (Otis Mix)",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 3.127467,
   ownProgress: 0,

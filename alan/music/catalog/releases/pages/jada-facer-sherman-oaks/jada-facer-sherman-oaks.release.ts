@@ -5,7 +5,7 @@ export const jadaFacerShermanOaks = {
   type: "release",
   slug: "jada-facer-sherman-oaks",
   title: "Sherman Oaks",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.733333,
   ownProgress: 2.733333,

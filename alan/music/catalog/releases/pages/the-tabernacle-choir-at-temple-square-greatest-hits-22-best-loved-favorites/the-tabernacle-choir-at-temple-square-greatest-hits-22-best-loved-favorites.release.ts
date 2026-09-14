@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareGreatestHits22BestLovedFavorites = 
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-greatest-hits-22-best-loved-favorites",
   title: "The Mormon Tabernacle Choir's Greatest Hits - 22 Best-Loved Favorites",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 71.806067,
   ownProgress: 0,

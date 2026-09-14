@@ -5,7 +5,7 @@ export const billyJoelAMatterOfTrustTheBridgeToRussiaCommentaryAlbum = {
   type: "release",
   slug: "billy-joel-a-matter-of-trust-the-bridge-to-russia-commentary-album",
   title: "A Matter Of Trust - The Bridge To Russia (Commentary Album)",
-  partOfCollections: ["billy-joel"],
+  partOfCollections: ["artist/billy-joel"],
   position: 0,
   ownLength: 10.81705,
   ownProgress: 0,

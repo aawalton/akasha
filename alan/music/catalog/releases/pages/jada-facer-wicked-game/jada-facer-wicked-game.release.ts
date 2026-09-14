@@ -5,7 +5,7 @@ export const jadaFacerWickedGame = {
   type: "release",
   slug: "jada-facer-wicked-game",
   title: "Wicked Game",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.821417,
   ownProgress: 2.821417,

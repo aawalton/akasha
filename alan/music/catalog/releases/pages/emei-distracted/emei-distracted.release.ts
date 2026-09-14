@@ -5,7 +5,7 @@ export const emeiDistracted = {
   type: "release",
   slug: "emei-distracted",
   title: "Distracted",
-  partOfCollections: ["emei"],
+  partOfCollections: ["artist/emei"],
   position: 0,
   ownLength: 2.68,
   ownProgress: 2.68,

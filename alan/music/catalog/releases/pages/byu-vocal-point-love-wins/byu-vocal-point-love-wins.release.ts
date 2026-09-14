@@ -5,7 +5,7 @@ export const byuVocalPointLoveWins = {
   type: "release",
   slug: "byu-vocal-point-love-wins",
   title: "Love Wins",
-  partOfCollections: ["byu-vocal-point"],
+  partOfCollections: ["artist/byu-vocal-point"],
   position: 0,
   ownLength: 3.658217,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const ellaHendersonAlibiFeatRudimentalTribbsRemix = {
   type: "release",
   slug: "ella-henderson-alibi-feat-rudimental-tribbs-remix",
   title: "Alibi (feat. Rudimental) [TRIBBS Remix]",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 2.77655,
   ownProgress: 0,

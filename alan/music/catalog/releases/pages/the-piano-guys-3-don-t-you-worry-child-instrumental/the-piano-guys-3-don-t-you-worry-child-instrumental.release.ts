@@ -5,7 +5,7 @@ export const thePianoGuys3DonTYouWorryChildInstrumental = {
   type: "release",
   slug: "the-piano-guys-3-don-t-you-worry-child-instrumental",
   title: "Don't You Worry Child (Instrumental)",
-  partOfCollections: ["the-piano-guys"],
+  partOfCollections: ["artist/the-piano-guys"],
   position: 0,
   ownLength: 4.05,
   ownProgress: 4.05,

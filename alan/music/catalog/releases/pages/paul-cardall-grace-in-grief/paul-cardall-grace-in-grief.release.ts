@@ -5,7 +5,7 @@ export const paulCardallGraceInGrief = {
   type: "release",
   slug: "paul-cardall-grace-in-grief",
   title: "Grace in Grief",
-  partOfCollections: ["paul-cardall"],
+  partOfCollections: ["artist/paul-cardall"],
   position: 0,
   ownLength: 37.589783,
   ownProgress: 37.589783,

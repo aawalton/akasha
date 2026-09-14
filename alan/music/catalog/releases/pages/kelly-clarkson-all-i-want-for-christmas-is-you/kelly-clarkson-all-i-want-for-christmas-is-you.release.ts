@@ -5,7 +5,7 @@ export const kellyClarksonAllIWantForChristmasIsYou = {
   type: "release",
   slug: "kelly-clarkson-all-i-want-for-christmas-is-you",
   title: "All I Want For Christmas Is You",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 3.779883,
   ownProgress: 3.779883,

@@ -5,7 +5,7 @@ export const snailMailValentine = {
   type: "release",
   slug: "snail-mail-valentine",
   title: "Valentine",
-  partOfCollections: ["snail-mail"],
+  partOfCollections: ["artist/snail-mail"],
   position: 0,
   ownLength: 31.608817,
   ownProgress: 0,

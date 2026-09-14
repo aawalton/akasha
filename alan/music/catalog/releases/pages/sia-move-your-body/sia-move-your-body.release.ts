@@ -5,7 +5,7 @@ export const siaMoveYourBody = {
   type: "release",
   slug: "sia-move-your-body",
   title: "Move Your Body",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 4.201333,
   ownProgress: 4.201333,

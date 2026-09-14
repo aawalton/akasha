@@ -5,7 +5,7 @@ export const vinnyMarchiMyMotherToldMe = {
   type: "release",
   slug: "vinny-marchi-my-mother-told-me",
   title: "My Mother Told Me",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 2.369867,
   ownProgress: 2.369867,

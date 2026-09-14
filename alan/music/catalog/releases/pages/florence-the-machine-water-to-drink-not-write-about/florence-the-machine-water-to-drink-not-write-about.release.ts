@@ -5,7 +5,7 @@ export const florenceTheMachineWaterToDrinkNotWriteAbout = {
   type: "release",
   slug: "florence-the-machine-water-to-drink-not-write-about",
   title: "Water To Drink Not Write About",
-  partOfCollections: ["florence-the-machine"],
+  partOfCollections: ["artist/florence-the-machine"],
   position: 0,
   ownLength: 45.92345,
   ownProgress: 45.92345,

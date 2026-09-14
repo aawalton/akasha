@@ -5,7 +5,7 @@ export const lindseyStirling2ComeWithUsFeatCanTStopWonTStop = {
   type: "release",
   slug: "lindsey-stirling-2-come-with-us-feat-can-t-stop-won-t-stop",
   title: "Come With Us (feat. Can't Stop Won't Stop)",
-  partOfCollections: ["lindsey-stirling"],
+  partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
   ownLength: 3.936383,
   ownProgress: 3.936383,

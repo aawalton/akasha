@@ -5,7 +5,7 @@ export const jadaFacerFrozen = {
   type: "release",
   slug: "jada-facer-frozen",
   title: "frozen",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.855283,
   ownProgress: 2.855283,

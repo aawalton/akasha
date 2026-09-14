@@ -5,7 +5,7 @@ export const auroraSomeTypeOfSkin = {
   type: "release",
   slug: "aurora-some-type-of-skin",
   title: "Some Type Of Skin",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 9.954433,
   ownProgress: 9.954433,

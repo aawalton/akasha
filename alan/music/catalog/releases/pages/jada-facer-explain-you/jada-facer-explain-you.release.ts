@@ -5,7 +5,7 @@ export const jadaFacerExplainYou = {
   type: "release",
   slug: "jada-facer-explain-you",
   title: "Explain You",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.798483,
   ownProgress: 2.798483,

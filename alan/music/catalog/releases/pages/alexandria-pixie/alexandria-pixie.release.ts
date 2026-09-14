@@ -5,7 +5,7 @@ export const alexandriaPixie = {
   type: "release",
   slug: "alexandria-pixie",
   title: "Pixie",
-  partOfCollections: ["alexandria"],
+  partOfCollections: ["artist/alexandria"],
   position: 0,
   ownLength: 3.481467,
   ownProgress: 3.481467,

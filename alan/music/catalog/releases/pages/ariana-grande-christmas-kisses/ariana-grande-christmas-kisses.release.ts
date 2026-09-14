@@ -5,7 +5,7 @@ export const arianaGrandeChristmasKisses = {
   type: "release",
   slug: "ariana-grande-christmas-kisses",
   title: "Christmas Kisses",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 13.229083,
   ownProgress: 13.229083,

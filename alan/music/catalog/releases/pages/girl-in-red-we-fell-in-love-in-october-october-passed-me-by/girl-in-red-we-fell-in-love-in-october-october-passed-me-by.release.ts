@@ -5,7 +5,7 @@ export const girlInRedWeFellInLoveInOctoberOctoberPassedMeBy = {
   type: "release",
   slug: "girl-in-red-we-fell-in-love-in-october-october-passed-me-by",
   title: "we fell in love in october / October Passed Me By",
-  partOfCollections: ["girl-in-red"],
+  partOfCollections: ["artist/girl-in-red"],
   position: 0,
   ownLength: 8.2209,
   ownProgress: 0,

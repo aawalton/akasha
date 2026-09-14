@@ -5,7 +5,7 @@ export const elvisPresley2ElvisNow = {
   type: "release",
   slug: "elvis-presley-2-elvis-now",
   title: "Elvis Now",
-  partOfCollections: ["elvis-presley"],
+  partOfCollections: ["artist/elvis-presley"],
   position: 0,
   ownLength: 42.697933,
   ownProgress: 42.697933,

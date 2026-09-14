@@ -5,7 +5,7 @@ export const kellyClarksonUnderneathTheTreeRemixes = {
   type: "release",
   slug: "kelly-clarkson-underneath-the-tree-remixes",
   title: "Underneath the Tree (Remixes)",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 30.112833,
   ownProgress: 30.112833,

@@ -5,7 +5,7 @@ export const greenDayDemolicious = {
   type: "release",
   slug: "green-day-demolicious",
   title: "Demolicious",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 62.799933,
   ownProgress: 62.799933,

@@ -5,7 +5,7 @@ export const linkinParkAThousandSuns = {
   type: "release",
   slug: "linkin-park-a-thousand-suns",
   title: "A Thousand Suns",
-  partOfCollections: ["linkin-park"],
+  partOfCollections: ["artist/linkin-park"],
   position: 0,
   ownLength: 47.826817,
   ownProgress: 0,

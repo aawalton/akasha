@@ -5,7 +5,7 @@ export const kellyClarksonWalkAwayRemixes = {
   type: "release",
   slug: "kelly-clarkson-walk-away-remixes",
   title: "Walk Away - Remixes",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 32.479083,
   ownProgress: 32.479083,

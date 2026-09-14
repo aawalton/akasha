@@ -5,7 +5,7 @@ export const jessicaBaioTakeItBack = {
   type: "release",
   slug: "jessica-baio-take-it-back",
   title: "take it back",
-  partOfCollections: ["jessica-baio"],
+  partOfCollections: ["artist/jessica-baio"],
   position: 0,
   ownLength: 4.904117,
   ownProgress: 4.904117,

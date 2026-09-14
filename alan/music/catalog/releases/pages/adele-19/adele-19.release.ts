@@ -5,7 +5,7 @@ export const adele19 = {
   type: "release",
   slug: "adele-19",
   title: "19",
-  partOfCollections: ["adele"],
+  partOfCollections: ["artist/adele"],
   position: 0,
   ownLength: 43.645467,
   ownProgress: 43.645467,

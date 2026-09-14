@@ -5,7 +5,7 @@ export const clairoAnticipate = {
   type: "release",
   slug: "clairo-anticipate",
   title: "Anticipate",
-  partOfCollections: ["clairo"],
+  partOfCollections: ["artist/clairo"],
   position: 0,
   ownLength: 3.154733,
   ownProgress: 0,

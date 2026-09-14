@@ -5,7 +5,7 @@ export const taylorSwift2TaylorSwift = {
   type: "release",
   slug: "taylor-swift-2-taylor-swift",
   title: "Taylor Swift",
-  partOfCollections: ["taylor-swift"],
+  partOfCollections: ["artist/taylor-swift"],
   position: 0,
   ownLength: 53.492783,
   ownProgress: 53.492783,

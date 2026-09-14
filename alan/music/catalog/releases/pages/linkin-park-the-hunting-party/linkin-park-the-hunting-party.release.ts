@@ -5,7 +5,7 @@ export const linkinParkTheHuntingParty = {
   type: "release",
   slug: "linkin-park-the-hunting-party",
   title: "The Hunting Party",
-  partOfCollections: ["linkin-park"],
+  partOfCollections: ["artist/linkin-park"],
   position: 0,
   ownLength: 45.280617,
   ownProgress: 0,

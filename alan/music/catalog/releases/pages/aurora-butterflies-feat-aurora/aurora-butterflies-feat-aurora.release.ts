@@ -5,7 +5,7 @@ export const auroraButterfliesFeatAurora = {
   type: "release",
   slug: "aurora-butterflies-feat-aurora",
   title: "Butterflies (feat. AURORA)",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 2.177767,
   ownProgress: 2.177767,

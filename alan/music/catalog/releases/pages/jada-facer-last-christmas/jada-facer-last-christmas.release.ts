@@ -5,7 +5,7 @@ export const jadaFacerLastChristmas = {
   type: "release",
   slug: "jada-facer-last-christmas",
   title: "Last Christmas",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.146883,
   ownProgress: 3.146883,

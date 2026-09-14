@@ -5,7 +5,7 @@ export const michaelJacksonForeverMichael = {
   type: "release",
   slug: "michael-jackson-forever-michael",
   title: "Forever, Michael",
-  partOfCollections: ["michael-jackson"],
+  partOfCollections: ["artist/michael-jackson"],
   position: 0,
   ownLength: 33.6735,
   ownProgress: 33.6735,

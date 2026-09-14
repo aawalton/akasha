@@ -5,7 +5,7 @@ export const auroraStories = {
   type: "release",
   slug: "aurora-stories",
   title: "STORIES",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 25.749717,
   ownProgress: 25.749717,

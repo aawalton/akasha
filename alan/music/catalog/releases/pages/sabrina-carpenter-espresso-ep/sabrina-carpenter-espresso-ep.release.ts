@@ -5,7 +5,7 @@ export const sabrinaCarpenterEspressoEp = {
   type: "release",
   slug: "sabrina-carpenter-espresso-ep",
   title: "Espresso EP",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 19.426917,
   ownProgress: 19.426917,

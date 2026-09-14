@@ -5,7 +5,7 @@ export const linkinParkOneMoreLightLive = {
   type: "release",
   slug: "linkin-park-one-more-light-live",
   title: "One More Light Live",
-  partOfCollections: ["linkin-park"],
+  partOfCollections: ["artist/linkin-park"],
   position: 0,
   ownLength: 67.964133,
   ownProgress: 0,

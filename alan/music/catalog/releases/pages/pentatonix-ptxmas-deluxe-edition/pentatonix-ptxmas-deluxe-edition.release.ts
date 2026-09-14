@@ -5,7 +5,7 @@ export const pentatonixPtxmasDeluxeEdition = {
   type: "release",
   slug: "pentatonix-ptxmas-deluxe-edition",
   title: "PTXmas (Deluxe Edition)",
-  partOfCollections: ["pentatonix"],
+  partOfCollections: ["artist/pentatonix"],
   position: 0,
   ownLength: 28.3961,
   ownProgress: 28.3961,

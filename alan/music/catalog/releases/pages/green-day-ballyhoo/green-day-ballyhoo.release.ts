@@ -5,7 +5,7 @@ export const greenDayBallyhoo = {
   type: "release",
   slug: "green-day-ballyhoo",
   title: "Ballyhoo",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 2.766233,
   ownProgress: 0,

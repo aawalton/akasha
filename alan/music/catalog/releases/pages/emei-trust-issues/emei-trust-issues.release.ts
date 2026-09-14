@@ -5,7 +5,7 @@ export const emeiTrustIssues = {
   type: "release",
   slug: "emei-trust-issues",
   title: "Trust Issues",
-  partOfCollections: ["emei"],
+  partOfCollections: ["artist/emei"],
   position: 0,
   ownLength: 2.348,
   ownProgress: 2.348,

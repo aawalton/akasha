@@ -5,7 +5,7 @@ export const paulCardallTheShoresOfNormandy = {
   type: "release",
   slug: "paul-cardall-the-shores-of-normandy",
   title: "The Shores of Normandy",
-  partOfCollections: ["paul-cardall"],
+  partOfCollections: ["artist/paul-cardall"],
   position: 0,
   ownLength: 4.3414,
   ownProgress: 4.3414,

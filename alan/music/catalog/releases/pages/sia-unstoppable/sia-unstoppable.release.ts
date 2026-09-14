@@ -5,7 +5,7 @@ export const siaUnstoppable = {
   type: "release",
   slug: "sia-unstoppable",
   title: "Unstoppable",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 3.6291,
   ownProgress: 3.6291,

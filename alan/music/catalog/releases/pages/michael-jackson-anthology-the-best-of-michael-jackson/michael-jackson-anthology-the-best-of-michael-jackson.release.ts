@@ -5,7 +5,7 @@ export const michaelJacksonAnthologyTheBestOfMichaelJackson = {
   type: "release",
   slug: "michael-jackson-anthology-the-best-of-michael-jackson",
   title: "Anthology: The Best Of Michael Jackson",
-  partOfCollections: ["michael-jackson"],
+  partOfCollections: ["artist/michael-jackson"],
   position: 0,
   ownLength: 145.80155,
   ownProgress: 145.80155,

@@ -5,7 +5,7 @@ export const phoebeBridgers7OClockNewsSilentNight = {
   type: "release",
   slug: "phoebe-bridgers-7-o-clock-news-silent-night",
   title: "7 O'Clock News / Silent Night",
-  partOfCollections: ["phoebe-bridgers"],
+  partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
   ownLength: 2.0071,
   ownProgress: 2.0071,

@@ -5,7 +5,7 @@ export const adeleWaterUnderTheBridge = {
   type: "release",
   slug: "adele-water-under-the-bridge",
   title: "Water Under the Bridge",
-  partOfCollections: ["adele"],
+  partOfCollections: ["artist/adele"],
   position: 0,
   ownLength: 4.007317,
   ownProgress: 4.007317,

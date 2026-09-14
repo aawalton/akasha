@@ -5,7 +5,7 @@ export const kellyClarksonIMMovinOn = {
   type: "release",
   slug: "kelly-clarkson-i-m-movin-on",
   title: "I'm Movin' On",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 3.7411,
   ownProgress: 3.7411,

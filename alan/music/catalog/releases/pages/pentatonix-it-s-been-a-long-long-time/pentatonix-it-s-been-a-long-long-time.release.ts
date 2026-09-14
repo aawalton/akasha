@@ -5,7 +5,7 @@ export const pentatonixItSBeenALongLongTime = {
   type: "release",
   slug: "pentatonix-it-s-been-a-long-long-time",
   title: "It's Been A Long, Long Time",
-  partOfCollections: ["pentatonix"],
+  partOfCollections: ["artist/pentatonix"],
   position: 0,
   ownLength: 1.129767,
   ownProgress: 1.129767,

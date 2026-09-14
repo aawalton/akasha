@@ -5,7 +5,7 @@ export const billieEilishLoVasAOlvidarWithRosalia = {
   type: "release",
   slug: "billie-eilish-lo-vas-a-olvidar-with-rosalia",
   title: "Lo Vas A Olvidar (with ROSALÍA)",
-  partOfCollections: ["billie-eilish"],
+  partOfCollections: ["artist/billie-eilish"],
   position: 0,
   ownLength: 3.391067,
   ownProgress: 3.391067,

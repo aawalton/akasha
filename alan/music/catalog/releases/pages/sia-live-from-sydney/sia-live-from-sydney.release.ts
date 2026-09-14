@@ -5,7 +5,7 @@ export const siaLiveFromSydney = {
   type: "release",
   slug: "sia-live-from-sydney",
   title: "Live from Sydney",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 29.907083,
   ownProgress: 29.907083,

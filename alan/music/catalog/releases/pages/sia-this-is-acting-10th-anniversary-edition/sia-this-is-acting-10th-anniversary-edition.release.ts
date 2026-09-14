@@ -5,7 +5,7 @@ export const siaThisIsActing10thAnniversaryEdition = {
   type: "release",
   slug: "sia-this-is-acting-10th-anniversary-edition",
   title: "This Is Acting (10th Anniversary Edition)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 94.603733,
   ownProgress: 94.603733,

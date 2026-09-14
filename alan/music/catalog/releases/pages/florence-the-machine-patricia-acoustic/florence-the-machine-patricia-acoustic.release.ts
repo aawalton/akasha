@@ -5,7 +5,7 @@ export const florenceTheMachinePatriciaAcoustic = {
   type: "release",
   slug: "florence-the-machine-patricia-acoustic",
   title: "Patricia (Acoustic)",
-  partOfCollections: ["florence-the-machine"],
+  partOfCollections: ["artist/florence-the-machine"],
   position: 0,
   ownLength: 4.468433,
   ownProgress: 4.468433,

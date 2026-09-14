@@ -5,7 +5,7 @@ export const ellaHendersonGlow = {
   type: "release",
   slug: "ella-henderson-glow",
   title: "Glow",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 3.8091,
   ownProgress: 3.8091,

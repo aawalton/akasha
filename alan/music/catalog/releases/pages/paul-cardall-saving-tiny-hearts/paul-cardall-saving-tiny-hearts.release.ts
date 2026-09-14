@@ -5,7 +5,7 @@ export const paulCardallSavingTinyHearts = {
   type: "release",
   slug: "paul-cardall-saving-tiny-hearts",
   title: "Saving Tiny Hearts",
-  partOfCollections: ["paul-cardall"],
+  partOfCollections: ["artist/paul-cardall"],
   position: 0,
   ownLength: 53.186567,
   ownProgress: 53.186567,

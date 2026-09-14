@@ -5,7 +5,7 @@ export const florenceTheMachineQueenOfPeaceRadioEdit = {
   type: "release",
   slug: "florence-the-machine-queen-of-peace-radio-edit",
   title: "Queen Of Peace (Radio Edit)",
-  partOfCollections: ["florence-the-machine"],
+  partOfCollections: ["artist/florence-the-machine"],
   position: 0,
   ownLength: 3.820183,
   ownProgress: 3.820183,

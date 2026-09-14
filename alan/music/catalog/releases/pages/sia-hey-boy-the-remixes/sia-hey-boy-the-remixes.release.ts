@@ -5,7 +5,7 @@ export const siaHeyBoyTheRemixes = {
   type: "release",
   slug: "sia-hey-boy-the-remixes",
   title: "Hey Boy (The Remixes)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 12.028667,
   ownProgress: 12.028667,

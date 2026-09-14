@@ -5,7 +5,7 @@ export const auroraRunawayGuitarAcoustic = {
   type: "release",
   slug: "aurora-runaway-guitar-acoustic",
   title: "Runaway (Guitar Acoustic)",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 8.477083,
   ownProgress: 8.477083,

@@ -5,7 +5,7 @@ export const florenceTheMachineHarderThanHell = {
   type: "release",
   slug: "florence-the-machine-harder-than-hell",
   title: "Harder Than Hell",
-  partOfCollections: ["florence-the-machine"],
+  partOfCollections: ["artist/florence-the-machine"],
   position: 0,
   ownLength: 40.6074,
   ownProgress: 40.6074,

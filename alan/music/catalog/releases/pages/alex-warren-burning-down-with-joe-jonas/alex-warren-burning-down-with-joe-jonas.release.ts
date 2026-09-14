@@ -5,7 +5,7 @@ export const alexWarrenBurningDownWithJoeJonas = {
   type: "release",
   slug: "alex-warren-burning-down-with-joe-jonas",
   title: "Burning Down (with Joe Jonas)",
-  partOfCollections: ["alex-warren"],
+  partOfCollections: ["artist/alex-warren"],
   position: 0,
   ownLength: 2.990617,
   ownProgress: 2.990617,

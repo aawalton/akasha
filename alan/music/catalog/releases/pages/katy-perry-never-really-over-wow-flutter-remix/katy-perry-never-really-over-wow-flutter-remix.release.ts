@@ -5,7 +5,7 @@ export const katyPerryNeverReallyOverWowFlutterRemix = {
   type: "release",
   slug: "katy-perry-never-really-over-wow-flutter-remix",
   title: "Never Really Over (Wow & Flutter Remix)",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 6.199683,
   ownProgress: 6.199683,

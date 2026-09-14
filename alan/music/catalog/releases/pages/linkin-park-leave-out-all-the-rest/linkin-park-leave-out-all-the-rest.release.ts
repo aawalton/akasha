@@ -5,7 +5,7 @@ export const linkinParkLeaveOutAllTheRest = {
   type: "release",
   slug: "linkin-park-leave-out-all-the-rest",
   title: "Leave out All the Rest",
-  partOfCollections: ["linkin-park"],
+  partOfCollections: ["artist/linkin-park"],
   position: 0,
   ownLength: 10.559533,
   ownProgress: 0,

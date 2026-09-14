@@ -5,7 +5,7 @@ export const ledZeppelinCelebrationDay = {
   type: "release",
   slug: "led-zeppelin-celebration-day",
   title: "Celebration Day",
-  partOfCollections: ["led-zeppelin"],
+  partOfCollections: ["artist/led-zeppelin"],
   position: 0,
   ownLength: 115.57615,
   ownProgress: 0,

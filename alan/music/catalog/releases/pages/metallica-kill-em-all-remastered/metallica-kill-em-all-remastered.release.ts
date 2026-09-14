@@ -5,7 +5,7 @@ export const metallicaKillEmAllRemastered = {
   type: "release",
   slug: "metallica-kill-em-all-remastered",
   title: "Kill 'Em All (Remastered)",
-  partOfCollections: ["metallica"],
+  partOfCollections: ["artist/metallica"],
   position: 0,
   ownLength: 51.244833,
   ownProgress: 0,

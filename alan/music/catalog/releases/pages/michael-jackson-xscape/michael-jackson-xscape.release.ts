@@ -5,7 +5,7 @@ export const michaelJacksonXscape = {
   type: "release",
   slug: "michael-jackson-xscape",
   title: "XSCAPE",
-  partOfCollections: ["michael-jackson"],
+  partOfCollections: ["artist/michael-jackson"],
   position: 0,
   ownLength: 73.462117,
   ownProgress: 73.462117,

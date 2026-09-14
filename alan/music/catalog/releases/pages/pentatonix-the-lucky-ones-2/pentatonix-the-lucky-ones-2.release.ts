@@ -5,7 +5,7 @@ export const pentatonixTheLuckyOnes2 = {
   type: "release",
   slug: "pentatonix-the-lucky-ones-2",
   title: "The Lucky Ones",
-  partOfCollections: ["pentatonix"],
+  partOfCollections: ["artist/pentatonix"],
   position: 0,
   ownLength: 36.326167,
   ownProgress: 36.326167,

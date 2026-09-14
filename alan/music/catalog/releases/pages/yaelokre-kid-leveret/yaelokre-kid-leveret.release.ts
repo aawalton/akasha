@@ -5,7 +5,7 @@ export const yaelokreKidLeveret = {
   type: "release",
   slug: "yaelokre-kid-leveret",
   title: "Kid & Leveret",
-  partOfCollections: ["yaelokre"],
+  partOfCollections: ["artist/yaelokre"],
   position: 0,
   ownLength: 5.223417,
   ownProgress: 5.223417,

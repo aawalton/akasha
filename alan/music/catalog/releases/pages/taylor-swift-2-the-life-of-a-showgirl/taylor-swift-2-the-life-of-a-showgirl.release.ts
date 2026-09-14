@@ -5,7 +5,7 @@ export const taylorSwift2TheLifeOfAShowgirl = {
   type: "release",
   slug: "taylor-swift-2-the-life-of-a-showgirl",
   title: "The Life of a Showgirl",
-  partOfCollections: ["taylor-swift"],
+  partOfCollections: ["artist/taylor-swift"],
   position: 0,
   ownLength: 41.762983,
   ownProgress: 41.762983,

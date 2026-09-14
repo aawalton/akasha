@@ -5,7 +5,7 @@ export const linkinParkHybridTheory20thAnniversaryEdition = {
   type: "release",
   slug: "linkin-park-hybrid-theory-20th-anniversary-edition",
   title: "Hybrid Theory (20th Anniversary Edition)",
-  partOfCollections: ["linkin-park"],
+  partOfCollections: ["artist/linkin-park"],
   position: 0,
   ownLength: 265.732067,
   ownProgress: 0,

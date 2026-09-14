@@ -5,7 +5,7 @@ export const phoebeBridgersKyoto = {
   type: "release",
   slug: "phoebe-bridgers-kyoto",
   title: "Kyoto",
-  partOfCollections: ["phoebe-bridgers"],
+  partOfCollections: ["artist/phoebe-bridgers"],
   position: 0,
   ownLength: 6.743317,
   ownProgress: 6.743317,

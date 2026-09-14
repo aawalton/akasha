@@ -5,7 +5,7 @@ export const siaGimmeLoveSofianePamartRemix = {
   type: "release",
   slug: "sia-gimme-love-sofiane-pamart-remix",
   title: "Gimme Love (Sofiane Pamart Remix)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 13.307933,
   ownProgress: 13.307933,

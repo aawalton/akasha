@@ -5,7 +5,7 @@ export const sabrinaCarpenterSkinnyDipping = {
   type: "release",
   slug: "sabrina-carpenter-skinny-dipping",
   title: "skinny dipping",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 2.9625,
   ownProgress: 2.9625,

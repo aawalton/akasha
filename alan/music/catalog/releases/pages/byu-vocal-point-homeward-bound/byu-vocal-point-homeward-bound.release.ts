@@ -5,7 +5,7 @@ export const byuVocalPointHomewardBound = {
   type: "release",
   slug: "byu-vocal-point-homeward-bound",
   title: "Homeward Bound",
-  partOfCollections: ["byu-vocal-point"],
+  partOfCollections: ["artist/byu-vocal-point"],
   position: 0,
   ownLength: 4.182917,
   ownProgress: 0,

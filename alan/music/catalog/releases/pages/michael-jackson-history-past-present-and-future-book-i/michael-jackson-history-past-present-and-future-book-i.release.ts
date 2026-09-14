@@ -5,7 +5,7 @@ export const michaelJacksonHistoryPastPresentAndFutureBookI = {
   type: "release",
   slug: "michael-jackson-history-past-present-and-future-book-i",
   title: "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
-  partOfCollections: ["michael-jackson"],
+  partOfCollections: ["artist/michael-jackson"],
   position: 0,
   ownLength: 148.685167,
   ownProgress: 148.685167,

@@ -5,7 +5,7 @@ export const kellyClarksonDanceVaultMixesWalkAway2 = {
   type: "release",
   slug: "kelly-clarkson-dance-vault-mixes-walk-away-2",
   title: "Dance Vault Mixes - Walk Away (2)",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 28.56975,
   ownProgress: 28.56975,

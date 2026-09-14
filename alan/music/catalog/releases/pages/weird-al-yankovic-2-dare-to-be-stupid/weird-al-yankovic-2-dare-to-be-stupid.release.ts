@@ -5,7 +5,7 @@ export const weirdAlYankovic2DareToBeStupid = {
   type: "release",
   slug: "weird-al-yankovic-2-dare-to-be-stupid",
   title: "Dare To Be Stupid",
-  partOfCollections: ["weird-al-yankovic"],
+  partOfCollections: ["artist/weird-al-yankovic"],
   position: 0,
   ownLength: 36.9646,
   ownProgress: 0,

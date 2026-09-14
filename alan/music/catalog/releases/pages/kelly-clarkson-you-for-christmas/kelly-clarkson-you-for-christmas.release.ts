@@ -5,7 +5,7 @@ export const kellyClarksonYouForChristmas = {
   type: "release",
   slug: "kelly-clarkson-you-for-christmas",
   title: "You For Christmas",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 2.900067,
   ownProgress: 2.900067,

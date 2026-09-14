@@ -5,7 +5,7 @@ export const elvisPresley2HarumScarum = {
   type: "release",
   slug: "elvis-presley-2-harum-scarum",
   title: "Harum Scarum",
-  partOfCollections: ["elvis-presley"],
+  partOfCollections: ["artist/elvis-presley"],
   position: 0,
   ownLength: 24.441483,
   ownProgress: 24.441483,

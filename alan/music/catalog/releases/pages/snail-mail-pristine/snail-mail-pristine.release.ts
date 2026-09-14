@@ -5,7 +5,7 @@ export const snailMailPristine = {
   type: "release",
   slug: "snail-mail-pristine",
   title: "Pristine",
-  partOfCollections: ["snail-mail"],
+  partOfCollections: ["artist/snail-mail"],
   position: 0,
   ownLength: 4.922217,
   ownProgress: 0,

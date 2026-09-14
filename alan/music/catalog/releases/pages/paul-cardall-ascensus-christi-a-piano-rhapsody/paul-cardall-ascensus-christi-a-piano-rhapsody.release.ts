@@ -5,7 +5,7 @@ export const paulCardallAscensusChristiAPianoRhapsody = {
   type: "release",
   slug: "paul-cardall-ascensus-christi-a-piano-rhapsody",
   title: "Ascensus Christi: A Piano Rhapsody",
-  partOfCollections: ["paul-cardall"],
+  partOfCollections: ["artist/paul-cardall"],
   position: 0,
   ownLength: 5.210733,
   ownProgress: 5.210733,

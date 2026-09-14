@@ -5,7 +5,7 @@ export const emBeiholdNumbLittleBugPianoVersion = {
   type: "release",
   slug: "em-beihold-numb-little-bug-piano-version",
   title: "Numb Little Bug (Piano Version)",
-  partOfCollections: ["em-beihold"],
+  partOfCollections: ["artist/em-beihold"],
   position: 0,
   ownLength: 2.755333,
   ownProgress: 2.755333,

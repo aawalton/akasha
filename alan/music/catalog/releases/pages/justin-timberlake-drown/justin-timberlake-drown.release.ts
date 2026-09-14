@@ -5,7 +5,7 @@ export const justinTimberlakeDrown = {
   type: "release",
   slug: "justin-timberlake-drown",
   title: "Drown",
-  partOfCollections: ["justin-timberlake"],
+  partOfCollections: ["artist/justin-timberlake"],
   position: 0,
   ownLength: 4.335333,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const lilithMaxOrion = {
   type: "release",
   slug: "lilith-max-orion",
   title: "Orion",
-  partOfCollections: ["lilith-max"],
+  partOfCollections: ["artist/lilith-max"],
   position: 0,
   ownLength: 5.901883,
   ownProgress: 5.901883,

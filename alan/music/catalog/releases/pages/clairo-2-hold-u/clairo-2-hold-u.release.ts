@@ -5,7 +5,7 @@ export const clairo2HoldU = {
   type: "release",
   slug: "clairo-2-hold-u",
   title: "2 Hold U",
-  partOfCollections: ["clairo"],
+  partOfCollections: ["artist/clairo"],
   position: 0,
   ownLength: 1.981283,
   ownProgress: 1.981283,

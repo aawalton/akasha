@@ -5,7 +5,7 @@ export const ellaHendersonUglyAcoustic = {
   type: "release",
   slug: "ella-henderson-ugly-acoustic",
   title: "Ugly (Acoustic)",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 10.738467,
   ownProgress: 10.738467,

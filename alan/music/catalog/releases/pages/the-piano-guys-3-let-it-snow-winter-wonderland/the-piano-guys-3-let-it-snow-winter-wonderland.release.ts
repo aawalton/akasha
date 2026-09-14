@@ -5,7 +5,7 @@ export const thePianoGuys3LetItSnowWinterWonderland = {
   type: "release",
   slug: "the-piano-guys-3-let-it-snow-winter-wonderland",
   title: "Let It Snow / Winter Wonderland",
-  partOfCollections: ["the-piano-guys"],
+  partOfCollections: ["artist/the-piano-guys"],
   position: 0,
   ownLength: 3.403833,
   ownProgress: 3.403833,

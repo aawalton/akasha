@@ -5,7 +5,7 @@ export const taylorSwift2DelicateSawyrAndRyanTedderMix = {
   type: "release",
   slug: "taylor-swift-2-delicate-sawyr-and-ryan-tedder-mix",
   title: "Delicate (Sawyr And Ryan Tedder Mix)",
-  partOfCollections: ["taylor-swift"],
+  partOfCollections: ["artist/taylor-swift"],
   position: 0,
   ownLength: 3.07135,
   ownProgress: 3.07135,

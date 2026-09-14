@@ -5,7 +5,7 @@ export const greenDayANewEngland = {
   type: "release",
   slug: "green-day-a-new-england",
   title: "A New England",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 2.154433,
   ownProgress: 0,

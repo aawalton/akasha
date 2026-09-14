@@ -5,7 +5,7 @@ export const jessicaBaioFerrari = {
   type: "release",
   slug: "jessica-baio-ferrari",
   title: "ferrari",
-  partOfCollections: ["jessica-baio"],
+  partOfCollections: ["artist/jessica-baio"],
   position: 0,
   ownLength: 9.127933,
   ownProgress: 9.127933,

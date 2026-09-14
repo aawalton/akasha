@@ -5,7 +5,7 @@ export const taylorSwift2WildestDreamsR3habRemix = {
   type: "release",
   slug: "taylor-swift-2-wildest-dreams-r3hab-remix",
   title: "Wildest Dreams (R3hab Remix)",
-  partOfCollections: ["taylor-swift"],
+  partOfCollections: ["artist/taylor-swift"],
   position: 0,
   ownLength: 3.301767,
   ownProgress: 3.301767,

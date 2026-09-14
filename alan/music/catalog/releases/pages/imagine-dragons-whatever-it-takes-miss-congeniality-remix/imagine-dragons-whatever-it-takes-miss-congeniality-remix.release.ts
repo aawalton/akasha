@@ -5,7 +5,7 @@ export const imagineDragonsWhateverItTakesMissCongenialityRemix = {
   type: "release",
   slug: "imagine-dragons-whatever-it-takes-miss-congeniality-remix",
   title: "Whatever It Takes (Miss Congeniality Remix)",
-  partOfCollections: ["imagine-dragons"],
+  partOfCollections: ["artist/imagine-dragons"],
   position: 0,
   ownLength: 5.776433,
   ownProgress: 5.776433,

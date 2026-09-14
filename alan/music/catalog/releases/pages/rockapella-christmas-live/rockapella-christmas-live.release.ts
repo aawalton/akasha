@@ -5,7 +5,7 @@ export const rockapellaChristmasLive = {
   type: "release",
   slug: "rockapella-christmas-live",
   title: "Christmas Live",
-  partOfCollections: ["rockapella"],
+  partOfCollections: ["artist/rockapella"],
   position: 0,
   ownLength: 40.959483,
   ownProgress: 40.959483,

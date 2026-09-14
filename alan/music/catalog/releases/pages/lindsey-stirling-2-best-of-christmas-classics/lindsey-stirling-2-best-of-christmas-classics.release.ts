@@ -5,7 +5,7 @@ export const lindseyStirling2BestOfChristmasClassics = {
   type: "release",
   slug: "lindsey-stirling-2-best-of-christmas-classics",
   title: "Best Of Christmas Classics",
-  partOfCollections: ["lindsey-stirling"],
+  partOfCollections: ["artist/lindsey-stirling"],
   position: 0,
   ownLength: 79.0825,
   ownProgress: 79.0825,

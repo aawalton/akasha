@@ -5,7 +5,7 @@ export const backstreetBoys2Dna = {
   type: "release",
   slug: "backstreet-boys-2-dna",
   title: "DNA",
-  partOfCollections: ["backstreet-boys"],
+  partOfCollections: ["artist/backstreet-boys"],
   position: 0,
   ownLength: 39.37645,
   ownProgress: 39.37645,

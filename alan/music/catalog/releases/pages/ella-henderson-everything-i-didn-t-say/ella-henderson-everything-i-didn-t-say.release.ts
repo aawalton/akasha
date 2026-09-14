@@ -5,7 +5,7 @@ export const ellaHendersonEverythingIDidnTSay = {
   type: "release",
   slug: "ella-henderson-everything-i-didn-t-say",
   title: "Everything I Didn’t Say",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 6.815317,
   ownProgress: 6.815317,

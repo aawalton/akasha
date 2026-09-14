@@ -5,7 +5,7 @@ export const michaelJacksonOffTheWall = {
   type: "release",
   slug: "michael-jackson-off-the-wall",
   title: "Off the Wall",
-  partOfCollections: ["michael-jackson"],
+  partOfCollections: ["artist/michael-jackson"],
   position: 0,
   ownLength: 42.41415,
   ownProgress: 42.41415,

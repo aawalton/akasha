@@ -5,7 +5,7 @@ export const pentatonixDancingOnMyOwnRobynCover = {
   type: "release",
   slug: "pentatonix-dancing-on-my-own-robyn-cover",
   title: "Dancing On My Own (Robyn Cover)",
-  partOfCollections: ["pentatonix"],
+  partOfCollections: ["artist/pentatonix"],
   position: 0,
   ownLength: 3.067983,
   ownProgress: 3.067983,

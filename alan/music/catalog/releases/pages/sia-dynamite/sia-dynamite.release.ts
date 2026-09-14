@@ -5,7 +5,7 @@ export const siaDynamite = {
   type: "release",
   slug: "sia-dynamite",
   title: "Dynamite",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 3.544467,
   ownProgress: 3.544467,

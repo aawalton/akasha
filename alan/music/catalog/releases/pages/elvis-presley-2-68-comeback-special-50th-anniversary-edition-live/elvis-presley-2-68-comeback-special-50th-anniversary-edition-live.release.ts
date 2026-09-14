@@ -5,7 +5,7 @@ export const elvisPresley268ComebackSpecial50thAnniversaryEditionLive = {
   type: "release",
   slug: "elvis-presley-2-68-comeback-special-50th-anniversary-edition-live",
   title: "'68 Comeback Special (50th Anniversary Edition) [Live]",
-  partOfCollections: ["elvis-presley"],
+  partOfCollections: ["artist/elvis-presley"],
   position: 0,
   ownLength: 310.416267,
   ownProgress: 310.416267,

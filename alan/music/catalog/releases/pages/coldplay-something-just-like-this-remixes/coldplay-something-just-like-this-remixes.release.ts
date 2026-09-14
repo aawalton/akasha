@@ -5,7 +5,7 @@ export const coldplaySomethingJustLikeThisRemixes = {
   type: "release",
   slug: "coldplay-something-just-like-this-remixes",
   title: "Something Just Like This (Remixes)",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 21.3062,
   ownProgress: 21.3062,

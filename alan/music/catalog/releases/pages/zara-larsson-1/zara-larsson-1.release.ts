@@ -5,7 +5,7 @@ export const zaraLarsson1 = {
   type: "release",
   slug: "zara-larsson-1",
   title: "1",
-  partOfCollections: ["zara-larsson"],
+  partOfCollections: ["artist/zara-larsson"],
   position: 0,
   ownLength: 47.145283,
   ownProgress: 47.145283,

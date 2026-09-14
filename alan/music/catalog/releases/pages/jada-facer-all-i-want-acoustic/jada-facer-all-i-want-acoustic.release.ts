@@ -5,7 +5,7 @@ export const jadaFacerAllIWantAcoustic = {
   type: "release",
   slug: "jada-facer-all-i-want-acoustic",
   title: "All I Want (Acoustic)",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.6941,
   ownProgress: 3.6941,

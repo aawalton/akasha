@@ -5,7 +5,7 @@ export const siaLadyCroissantLive = {
   type: "release",
   slug: "sia-lady-croissant-live",
   title: "Lady Croissant (Live)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 40.326667,
   ownProgress: 40.326667,

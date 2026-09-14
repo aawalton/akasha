@@ -5,7 +5,7 @@ export const taylorSwift2MidnightsTheTilDawnEdition = {
   type: "release",
   slug: "taylor-swift-2-midnights-the-til-dawn-edition",
   title: "Midnights (The Til Dawn Edition)",
-  partOfCollections: ["taylor-swift"],
+  partOfCollections: ["artist/taylor-swift"],
   position: 0,
   ownLength: 80.586083,
   ownProgress: 80.586083,

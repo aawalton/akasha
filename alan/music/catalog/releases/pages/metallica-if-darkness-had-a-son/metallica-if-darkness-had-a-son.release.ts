@@ -5,7 +5,7 @@ export const metallicaIfDarknessHadASon = {
   type: "release",
   slug: "metallica-if-darkness-had-a-son",
   title: "If Darkness Had a Son",
-  partOfCollections: ["metallica"],
+  partOfCollections: ["artist/metallica"],
   position: 0,
   ownLength: 15.540417,
   ownProgress: 0,

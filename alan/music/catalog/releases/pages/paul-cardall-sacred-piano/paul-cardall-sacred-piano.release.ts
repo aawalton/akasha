@@ -5,7 +5,7 @@ export const paulCardallSacredPiano = {
   type: "release",
   slug: "paul-cardall-sacred-piano",
   title: "Sacred Piano",
-  partOfCollections: ["paul-cardall"],
+  partOfCollections: ["artist/paul-cardall"],
   position: 0,
   ownLength: 59.599033,
   ownProgress: 59.599033,

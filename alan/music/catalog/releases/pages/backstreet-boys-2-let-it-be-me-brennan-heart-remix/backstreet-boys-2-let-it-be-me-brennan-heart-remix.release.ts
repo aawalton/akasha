@@ -5,7 +5,7 @@ export const backstreetBoys2LetItBeMeBrennanHeartRemix = {
   type: "release",
   slug: "backstreet-boys-2-let-it-be-me-brennan-heart-remix",
   title: "Let It Be Me (Brennan Heart Remix)",
-  partOfCollections: ["backstreet-boys"],
+  partOfCollections: ["artist/backstreet-boys"],
   position: 0,
   ownLength: 3.67645,
   ownProgress: 3.67645,

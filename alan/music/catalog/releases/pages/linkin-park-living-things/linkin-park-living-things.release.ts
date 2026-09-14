@@ -5,7 +5,7 @@ export const linkinParkLivingThings = {
   type: "release",
   slug: "linkin-park-living-things",
   title: "LIVING THINGS",
-  partOfCollections: ["linkin-park"],
+  partOfCollections: ["artist/linkin-park"],
   position: 0,
   ownLength: 37.0575,
   ownProgress: 0,

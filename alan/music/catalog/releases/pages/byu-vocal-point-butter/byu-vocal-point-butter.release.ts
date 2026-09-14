@@ -5,7 +5,7 @@ export const byuVocalPointButter = {
   type: "release",
   slug: "byu-vocal-point-butter",
   title: "Butter",
-  partOfCollections: ["byu-vocal-point"],
+  partOfCollections: ["artist/byu-vocal-point"],
   position: 0,
   ownLength: 2.686933,
   ownProgress: 0,

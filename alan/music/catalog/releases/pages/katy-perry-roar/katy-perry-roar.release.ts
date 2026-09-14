@@ -5,7 +5,7 @@ export const katyPerryRoar = {
   type: "release",
   slug: "katy-perry-roar",
   title: "Roar",
-  partOfCollections: ["katy-perry"],
+  partOfCollections: ["artist/katy-perry"],
   position: 0,
   ownLength: 3.7111,
   ownProgress: 3.7111,

@@ -5,7 +5,7 @@ export const coldplayVivaLaVida = {
   type: "release",
   slug: "coldplay-viva-la-vida",
   title: "Viva La Vida",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 5.3371,
   ownProgress: 5.3371,

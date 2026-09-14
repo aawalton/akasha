@@ -5,7 +5,7 @@ export const kDaTheBaddest = {
   type: "release",
   slug: "k-da-the-baddest",
   title: "THE BADDEST",
-  partOfCollections: ["k-da"],
+  partOfCollections: ["artist/k-da"],
   position: 0,
   ownLength: 2.71,
   ownProgress: 2.71,

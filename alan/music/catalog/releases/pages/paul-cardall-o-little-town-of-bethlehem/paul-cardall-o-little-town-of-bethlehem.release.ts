@@ -5,7 +5,7 @@ export const paulCardallOLittleTownOfBethlehem = {
   type: "release",
   slug: "paul-cardall-o-little-town-of-bethlehem",
   title: "O Little Town of Bethlehem",
-  partOfCollections: ["paul-cardall"],
+  partOfCollections: ["artist/paul-cardall"],
   position: 0,
   ownLength: 4.108517,
   ownProgress: 4.108517,

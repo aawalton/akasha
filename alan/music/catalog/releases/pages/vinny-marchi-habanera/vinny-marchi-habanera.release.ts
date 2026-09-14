@@ -5,7 +5,7 @@ export const vinnyMarchiHabanera = {
   type: "release",
   slug: "vinny-marchi-habanera",
   title: "Habanera",
-  partOfCollections: ["vinny-marchi"],
+  partOfCollections: ["artist/vinny-marchi"],
   position: 0,
   ownLength: 2.180383,
   ownProgress: 2.180383,

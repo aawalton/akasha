@@ -5,7 +5,7 @@ export const jennaRaineBeLikeYou = {
   type: "release",
   slug: "jenna-raine-be-like-you",
   title: "Be Like You",
-  partOfCollections: ["jenna-raine"],
+  partOfCollections: ["artist/jenna-raine"],
   position: 0,
   ownLength: 20.076167,
   ownProgress: 20.076167,

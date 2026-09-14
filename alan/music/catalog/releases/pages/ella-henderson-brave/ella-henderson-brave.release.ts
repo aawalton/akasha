@@ -5,7 +5,7 @@ export const ellaHendersonBrave = {
   type: "release",
   slug: "ella-henderson-brave",
   title: "Brave",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 3.350883,
   ownProgress: 3.350883,

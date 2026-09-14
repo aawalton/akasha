@@ -5,7 +5,7 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEdition = {
   type: "release",
   slug: "ariana-grande-yours-truly-tenth-anniversary-edition",
   title: "Yours Truly (Tenth Anniversary Edition)",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 72.037717,
   ownProgress: 72.037717,

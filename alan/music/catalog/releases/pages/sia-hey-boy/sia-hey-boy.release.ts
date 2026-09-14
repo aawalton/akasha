@@ -5,7 +5,7 @@ export const siaHeyBoy = {
   type: "release",
   slug: "sia-hey-boy",
   title: "Hey Boy",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 14.714383,
   ownProgress: 14.714383,

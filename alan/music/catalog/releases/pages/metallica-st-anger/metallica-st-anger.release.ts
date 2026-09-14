@@ -5,7 +5,7 @@ export const metallicaStAnger = {
   type: "release",
   slug: "metallica-st-anger",
   title: "St. Anger",
-  partOfCollections: ["metallica"],
+  partOfCollections: ["artist/metallica"],
   position: 0,
   ownLength: 75.04215,
   ownProgress: 0,

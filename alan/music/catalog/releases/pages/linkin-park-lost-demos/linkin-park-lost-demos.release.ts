@@ -5,7 +5,7 @@ export const linkinParkLostDemos = {
   type: "release",
   slug: "linkin-park-lost-demos",
   title: "LOST DEMOS",
-  partOfCollections: ["linkin-park"],
+  partOfCollections: ["artist/linkin-park"],
   position: 0,
   ownLength: 48.268983,
   ownProgress: 0,

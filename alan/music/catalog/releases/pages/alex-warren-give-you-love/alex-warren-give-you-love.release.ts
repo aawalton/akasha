@@ -5,7 +5,7 @@ export const alexWarrenGiveYouLove = {
   type: "release",
   slug: "alex-warren-give-you-love",
   title: "Give You Love",
-  partOfCollections: ["alex-warren"],
+  partOfCollections: ["artist/alex-warren"],
   position: 0,
   ownLength: 5.790433,
   ownProgress: 5.790433,

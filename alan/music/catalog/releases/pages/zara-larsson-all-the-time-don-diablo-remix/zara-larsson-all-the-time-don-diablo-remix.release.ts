@@ -5,7 +5,7 @@ export const zaraLarssonAllTheTimeDonDiabloRemix = {
   type: "release",
   slug: "zara-larsson-all-the-time-don-diablo-remix",
   title: "All the Time (Don Diablo Remix)",
-  partOfCollections: ["zara-larsson"],
+  partOfCollections: ["artist/zara-larsson"],
   position: 0,
   ownLength: 2.9436,
   ownProgress: 2.9436,

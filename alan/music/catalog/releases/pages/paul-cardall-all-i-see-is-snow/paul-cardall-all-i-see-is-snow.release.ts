@@ -5,7 +5,7 @@ export const paulCardallAllISeeIsSnow = {
   type: "release",
   slug: "paul-cardall-all-i-see-is-snow",
   title: "All I See Is Snow",
-  partOfCollections: ["paul-cardall"],
+  partOfCollections: ["artist/paul-cardall"],
   position: 0,
   ownLength: 4.571433,
   ownProgress: 4.571433,

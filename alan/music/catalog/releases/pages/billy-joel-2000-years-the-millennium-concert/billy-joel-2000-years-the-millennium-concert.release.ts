@@ -5,7 +5,7 @@ export const billyJoel2000YearsTheMillenniumConcert = {
   type: "release",
   slug: "billy-joel-2000-years-the-millennium-concert",
   title: "2000 Years - The Millennium Concert",
-  partOfCollections: ["billy-joel"],
+  partOfCollections: ["artist/billy-joel"],
   position: 0,
   ownLength: 128.806533,
   ownProgress: 0,

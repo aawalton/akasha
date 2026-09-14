@@ -5,7 +5,7 @@ export const taylorSwift2SweeterThanFiction = {
   type: "release",
   slug: "taylor-swift-2-sweeter-than-fiction",
   title: "Sweeter Than Fiction",
-  partOfCollections: ["taylor-swift"],
+  partOfCollections: ["artist/taylor-swift"],
   position: 0,
   ownLength: 3.960667,
   ownProgress: 3.960667,

@@ -5,7 +5,7 @@ export const enyaOnlyTimeRemix = {
   type: "release",
   slug: "enya-only-time-remix",
   title: "Only Time (Remix)",
-  partOfCollections: ["enya"],
+  partOfCollections: ["artist/enya"],
   position: 0,
   ownLength: 13.703967,
   ownProgress: 13.703967,

@@ -5,7 +5,7 @@ export const jadaFacerAllINeedIsYou = {
   type: "release",
   slug: "jada-facer-all-i-need-is-you",
   title: "All I Need Is You",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.0176,
   ownProgress: 3.0176,

@@ -5,7 +5,7 @@ export const jadaFacerMyStrangeAddiction = {
   type: "release",
   slug: "jada-facer-my-strange-addiction",
   title: "my strange addiction",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.464183,
   ownProgress: 2.464183,

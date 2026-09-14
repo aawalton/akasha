@@ -5,7 +5,7 @@ export const jadaFacerBeAlright = {
   type: "release",
   slug: "jada-facer-be-alright",
   title: "Be Alright",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.010333,
   ownProgress: 3.010333,

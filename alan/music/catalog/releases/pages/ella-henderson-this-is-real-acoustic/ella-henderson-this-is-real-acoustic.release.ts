@@ -5,7 +5,7 @@ export const ellaHendersonThisIsRealAcoustic = {
   type: "release",
   slug: "ella-henderson-this-is-real-acoustic",
   title: "This Is Real (Acoustic)",
-  partOfCollections: ["ella-henderson"],
+  partOfCollections: ["artist/ella-henderson"],
   position: 0,
   ownLength: 2.814217,
   ownProgress: 2.814217,

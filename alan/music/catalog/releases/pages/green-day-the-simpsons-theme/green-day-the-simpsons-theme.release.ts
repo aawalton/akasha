@@ -5,7 +5,7 @@ export const greenDayTheSimpsonsTheme = {
   type: "release",
   slug: "green-day-the-simpsons-theme",
   title: "The Simpsons Theme",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 1.390433,
   ownProgress: 1.390433,

@@ -5,7 +5,7 @@ export const justinTimberlakeEverythingIThoughtItWas = {
   type: "release",
   slug: "justin-timberlake-everything-i-thought-it-was",
   title: "Everything I Thought It Was",
-  partOfCollections: ["justin-timberlake"],
+  partOfCollections: ["artist/justin-timberlake"],
   position: 0,
   ownLength: 77.04475,
   ownProgress: 0,

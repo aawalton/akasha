@@ -5,7 +5,7 @@ export const sabrinaCarpenterAlienM22Remix = {
   type: "release",
   slug: "sabrina-carpenter-alien-m-22-remix",
   title: "Alien (M-22 Remix)",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 3.419983,
   ownProgress: 3.419983,

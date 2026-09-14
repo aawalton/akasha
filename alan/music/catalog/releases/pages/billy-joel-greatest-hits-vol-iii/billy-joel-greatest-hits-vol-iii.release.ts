@@ -5,7 +5,7 @@ export const billyJoelGreatestHitsVolIii = {
   type: "release",
   slug: "billy-joel-greatest-hits-vol-iii",
   title: "Greatest Hits Vol. III",
-  partOfCollections: ["billy-joel"],
+  partOfCollections: ["artist/billy-joel"],
   position: 0,
   ownLength: 75.8508,
   ownProgress: 0,

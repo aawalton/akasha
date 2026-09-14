@@ -5,7 +5,7 @@ export const arianaGrandeMyEverythingTenthAnniversaryEdition = {
   type: "release",
   slug: "ariana-grande-my-everything-tenth-anniversary-edition",
   title: "My Everything (Tenth Anniversary Edition)",
-  partOfCollections: ["ariana-grande"],
+  partOfCollections: ["artist/ariana-grande"],
   position: 0,
   ownLength: 57.444317,
   ownProgress: 57.444317,

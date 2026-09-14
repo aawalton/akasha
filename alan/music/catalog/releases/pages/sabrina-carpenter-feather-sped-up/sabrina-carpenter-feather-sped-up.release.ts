@@ -5,7 +5,7 @@ export const sabrinaCarpenterFeatherSpedUp = {
   type: "release",
   slug: "sabrina-carpenter-feather-sped-up",
   title: "Feather (Sped Up)",
-  partOfCollections: ["sabrina-carpenter"],
+  partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
   ownLength: 5.643983,
   ownProgress: 5.643983,

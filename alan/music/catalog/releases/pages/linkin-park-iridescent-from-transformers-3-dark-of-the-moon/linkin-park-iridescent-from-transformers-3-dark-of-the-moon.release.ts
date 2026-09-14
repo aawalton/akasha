@@ -5,7 +5,7 @@ export const linkinParkIridescentFromTransformers3DarkOfTheMoon = {
   type: "release",
   slug: "linkin-park-iridescent-from-transformers-3-dark-of-the-moon",
   title: "Iridescent (from Transformers 3: Dark of the Moon)",
-  partOfCollections: ["linkin-park"],
+  partOfCollections: ["artist/linkin-park"],
   position: 0,
   ownLength: 3.9951,
   ownProgress: 0,

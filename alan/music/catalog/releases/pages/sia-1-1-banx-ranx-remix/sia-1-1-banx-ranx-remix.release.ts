@@ -5,7 +5,7 @@ export const sia11BanxRanxRemix = {
   type: "release",
   slug: "sia-1-1-banx-ranx-remix",
   title: "1+1 (Banx & Ranx Remix)",
-  partOfCollections: ["sia"],
+  partOfCollections: ["artist/sia"],
   position: 0,
   ownLength: 3.411783,
   ownProgress: 3.411783,

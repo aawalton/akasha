@@ -5,7 +5,7 @@ export const alexWarrenHowCouldYouBeOk = {
   type: "release",
   slug: "alex-warren-how-could-you-be-ok",
   title: "How Could You (Be OK)",
-  partOfCollections: ["alex-warren"],
+  partOfCollections: ["artist/alex-warren"],
   position: 0,
   ownLength: 11.990433,
   ownProgress: 11.990433,

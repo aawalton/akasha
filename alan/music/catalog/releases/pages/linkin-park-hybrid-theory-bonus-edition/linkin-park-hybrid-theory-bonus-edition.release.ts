@@ -5,7 +5,7 @@ export const linkinParkHybridTheoryBonusEdition = {
   type: "release",
   slug: "linkin-park-hybrid-theory-bonus-edition",
   title: "Hybrid Theory (Bonus Edition)",
-  partOfCollections: ["linkin-park"],
+  partOfCollections: ["artist/linkin-park"],
   position: 0,
   ownLength: 49.144383,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const elvisPresley2PrinceFromAnotherPlanetLive = {
   type: "release",
   slug: "elvis-presley-2-prince-from-another-planet-live",
   title: "Prince From Another Planet (Live)",
-  partOfCollections: ["elvis-presley"],
+  partOfCollections: ["artist/elvis-presley"],
   position: 0,
   ownLength: 114.7608,
   ownProgress: 114.7608,

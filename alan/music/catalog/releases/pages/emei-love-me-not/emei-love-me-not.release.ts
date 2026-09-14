@@ -5,7 +5,7 @@ export const emeiLoveMeNot = {
   type: "release",
   slug: "emei-love-me-not",
   title: "Love Me Not",
-  partOfCollections: ["emei"],
+  partOfCollections: ["artist/emei"],
   position: 0,
   ownLength: 2.33925,
   ownProgress: 2.33925,

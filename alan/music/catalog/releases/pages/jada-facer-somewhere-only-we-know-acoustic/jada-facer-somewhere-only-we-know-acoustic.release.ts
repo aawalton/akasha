@@ -5,7 +5,7 @@ export const jadaFacerSomewhereOnlyWeKnowAcoustic = {
   type: "release",
   slug: "jada-facer-somewhere-only-we-know-acoustic",
   title: "Somewhere Only We Know (Acoustic)",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 3.439183,
   ownProgress: 3.439183,

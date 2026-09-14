@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareAngelsAmongUs = {
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-angels-among-us",
   title: "Angels Among Us",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 74.3981,
   ownProgress: 0,

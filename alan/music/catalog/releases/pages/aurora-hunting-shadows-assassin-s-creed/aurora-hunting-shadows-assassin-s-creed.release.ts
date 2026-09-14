@@ -5,7 +5,7 @@ export const auroraHuntingShadowsAssassinSCreed = {
   type: "release",
   slug: "aurora-hunting-shadows-assassin-s-creed",
   title: "Hunting Shadows (Assassin's Creed)",
-  partOfCollections: ["aurora"],
+  partOfCollections: ["artist/aurora"],
   position: 0,
   ownLength: 2.9431,
   ownProgress: 2.9431,

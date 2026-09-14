@@ -5,7 +5,7 @@ export const kellyClarksonPieceByPieceRadioMix = {
   type: "release",
   slug: "kelly-clarkson-piece-by-piece-radio-mix",
   title: "Piece by Piece (Radio Mix)",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 3.745333,
   ownProgress: 3.745333,

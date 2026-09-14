@@ -5,7 +5,7 @@ export const elvisPresley2AlmostInLove = {
   type: "release",
   slug: "elvis-presley-2-almost-in-love",
   title: "Almost in Love",
-  partOfCollections: ["elvis-presley"],
+  partOfCollections: ["artist/elvis-presley"],
   position: 0,
   ownLength: 32.083067,
   ownProgress: 32.083067,

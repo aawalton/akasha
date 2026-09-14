@@ -5,7 +5,7 @@ export const metallicaSM = {
   type: "release",
   slug: "metallica-s-m",
   title: "S&M",
-  partOfCollections: ["metallica"],
+  partOfCollections: ["artist/metallica"],
   position: 0,
   ownLength: 133.193417,
   ownProgress: 0,

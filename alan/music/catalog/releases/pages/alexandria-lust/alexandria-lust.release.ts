@@ -5,7 +5,7 @@ export const alexandriaLust = {
   type: "release",
   slug: "alexandria-lust",
   title: "Lust",
-  partOfCollections: ["alexandria"],
+  partOfCollections: ["artist/alexandria"],
   position: 0,
   ownLength: 1.921567,
   ownProgress: 1.921567,

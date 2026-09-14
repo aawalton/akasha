@@ -5,7 +5,7 @@ export const lynLapidRoomForYou = {
   type: "release",
   slug: "lyn-lapid-room-for-you",
   title: "Room For You",
-  partOfCollections: ["lyn-lapid"],
+  partOfCollections: ["artist/lyn-lapid"],
   position: 0,
   ownLength: 3.056217,
   ownProgress: 3.056217,

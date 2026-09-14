@@ -5,7 +5,7 @@ export const kellyClarksonLighthouseMotiRemix = {
   type: "release",
   slug: "kelly-clarkson-lighthouse-moti-remix",
   title: "lighthouse (MOTi Remix)",
-  partOfCollections: ["kelly-clarkson"],
+  partOfCollections: ["artist/kelly-clarkson"],
   position: 0,
   ownLength: 2.914283,
   ownProgress: 2.914283,

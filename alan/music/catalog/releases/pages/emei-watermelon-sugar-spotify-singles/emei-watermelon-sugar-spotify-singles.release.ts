@@ -5,7 +5,7 @@ export const emeiWatermelonSugarSpotifySingles = {
   type: "release",
   slug: "emei-watermelon-sugar-spotify-singles",
   title: "Watermelon Sugar (Spotify Singles)",
-  partOfCollections: ["emei"],
+  partOfCollections: ["artist/emei"],
   position: 0,
   ownLength: 2.160933,
   ownProgress: 2.160933,

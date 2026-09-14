@@ -5,7 +5,7 @@ export const coldplayAdventureOfALifetimeYottoRemix = {
   type: "release",
   slug: "coldplay-adventure-of-a-lifetime-yotto-remix",
   title: "Adventure of a Lifetime (Yotto Remix)",
-  partOfCollections: ["coldplay"],
+  partOfCollections: ["artist/coldplay"],
   position: 0,
   ownLength: 3.831117,
   ownProgress: 3.831117,

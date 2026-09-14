@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquare20GreatBachHandelChoruses = {
   type: "release",
   slug: "the-tabernacle-choir-at-temple-square-20-great-bach-handel-choruses",
   title: "20 Great Bach & Handel Choruses",
-  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 69.443867,
   ownProgress: 69.443867,

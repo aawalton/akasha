@@ -5,7 +5,7 @@ export const greenDayCorpusChristi = {
   type: "release",
   slug: "green-day-corpus-christi",
   title: "Corpus Christi",
-  partOfCollections: ["green-day"],
+  partOfCollections: ["artist/green-day"],
   position: 0,
   ownLength: 3.40195,
   ownProgress: 0,

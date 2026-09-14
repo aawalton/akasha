@@ -5,7 +5,7 @@ export const linkinParkUnshatter = {
   type: "release",
   slug: "linkin-park-unshatter",
   title: "Unshatter",
-  partOfCollections: ["linkin-park"],
+  partOfCollections: ["artist/linkin-park"],
   position: 0,
   ownLength: 6.32225,
   ownProgress: 0,

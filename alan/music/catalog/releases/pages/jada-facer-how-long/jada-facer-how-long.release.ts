@@ -5,7 +5,7 @@ export const jadaFacerHowLong = {
   type: "release",
   slug: "jada-facer-how-long",
   title: "How Long",
-  partOfCollections: ["jada-facer"],
+  partOfCollections: ["artist/jada-facer"],
   position: 0,
   ownLength: 2.1089,
   ownProgress: 2.1089,
