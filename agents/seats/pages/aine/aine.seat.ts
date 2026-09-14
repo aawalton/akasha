@@ -4,7 +4,7 @@ export const aine = {
   id: "01a0956a-98ce-7000-ad7c-7bd84a84928a",
   type: "seat",
   slug: "aine",
-  persona: "persona/aine",
+  persona: "aine",
   assignmentSlug: "initiative/aine-resource-management",
   role: "definer",
   person: "alan",
