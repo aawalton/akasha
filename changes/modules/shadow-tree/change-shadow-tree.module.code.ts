@@ -1,6 +1,9 @@
 import { existsSync } from "node:fs"
-import { join, relative } from "node:path"
-import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { dirname, join, relative } from "node:path"
+import type {
+  Answer,
+  FileChange,
+} from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { trackedUnder } from "akasha/git/modules/pathspec/git-pathspec.module.code.ts"
 import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
 import {
@@ -9,10 +12,15 @@ import {
 } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
 import {
   filesIn,
+  foldersIn,
   walkedUnder,
 } from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
 
 const OUTSIDE = ".."
+
+const UNDER = "/"
+
+const HERE = "."
 
 function claimingIn(root: string, index: Answering): (path: string) => boolean {
   const listing: Listing = (folder) => filesIn(root, folder)
@@ -71,4 +79,54 @@ export function underOver(had: readonly string[], said: Answer, folder: string):
     } else found.add(one.path)
   }
   return [...found].filter((one) => beneath(folder, one)).sort()
+}
+
+export type Holding = (folder: string) => boolean
+
+function laidOver(edits: readonly FileChange[]): ReadonlyMap<string, boolean> {
+  const found = new Map<string, boolean>()
+  for (const one of edits) {
+    if (one.kind === "move") {
+      found.set(one.pathFrom, false)
+      found.set(one.pathTo, true)
+      continue
+    }
+    found.set(one.path, one.kind !== "remove")
+  }
+  return found
+}
+
+function aboveIn(laid: ReadonlyMap<string, boolean>): ReadonlySet<string> {
+  const found = new Set<string>()
+  for (const [path, there] of laid) {
+    if (!there) continue
+    for (let at = dirname(path); at !== HERE && at !== UNDER; at = dirname(at)) {
+      if (found.has(at)) break
+      found.add(at)
+    }
+  }
+  return found
+}
+
+function offRepo(folder: string): boolean {
+  return folder === "" || folder.startsWith(UNDER) || folder.split(UNDER).includes(OUTSIDE)
+}
+
+export function holdingOver(root: string, edits: readonly FileChange[]): Holding {
+  const laid = laidOver(edits)
+  const above = aboveIn(laid)
+  const held = new Map<string, boolean>()
+  const asked: Holding = (folder) => {
+    if (above.has(folder)) return true
+    if (offRepo(folder)) return false
+    const found = held.get(folder)
+    if (found !== undefined) return found
+    held.set(folder, false)
+    const said =
+      filesIn(root, folder).some((one) => laid.get(one) !== false) ||
+      foldersIn(root, folder).some((one) => asked(one))
+    held.set(folder, said)
+    return said
+  }
+  return asked
 }

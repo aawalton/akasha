@@ -188,3 +188,54 @@ test("a run naming that folder under the checkout's own root is refused", () => 
 
   expect(judged(root, SHELL_CARRY).refused ?? "").toContain(PREFIX)
 })
+
+const NOTED_PAGE = "akasha/nine/noted.module.ts"
+
+const NOTED_CODE = "akasha/nine/noted.module.code.ts"
+
+const NOTED = pageOf({
+  id: "01a0a1a1-0000-7000-8000-000000000001",
+  pageTypeSlug: "module",
+  slug: "noted",
+  definition: "a page the answer writes outside the folder that answer empties",
+  code: "ts",
+})
+
+const TAKING: Answer = {
+  edits: [
+    { kind: "remove", path: HELD_PAGE },
+    { kind: "remove", path: HELD_CODE },
+    { kind: "add", path: NOTED_PAGE, content: NOTED },
+    { kind: "add", path: NOTED_CODE, content: `export const AT = "${PREFIX}"\n` },
+  ],
+  refused: null,
+}
+
+test("a file the answer takes away is gone from the folder the tree still holds it in", () => {
+  expect(judged(indexedRepo(), TAKING).refused ?? "").toContain(EMPTIED)
+})
+
+const FRESH_PAGE = `${EMPTIED}/fresh.module.ts`
+
+const FRESH_CODE = `${EMPTIED}/fresh.module.code.ts`
+
+const FRESH = pageOf({
+  id: "01a0a1a1-0000-7000-8000-000000000002",
+  pageTypeSlug: "module",
+  slug: "fresh",
+  definition: "a page the answer writes into the folder it carries another page out of",
+  code: "ts",
+})
+
+const CARRY_AND_ADD: Answer = {
+  edits: [
+    ...CARRY.edits,
+    { kind: "add", path: FRESH_PAGE, content: FRESH },
+    { kind: "add", path: FRESH_CODE, content: `export const AT = "${PREFIX}"\n` },
+  ],
+  refused: null,
+}
+
+test("a folder the answer writes a file into is no folder emptied", () => {
+  expect(judged(indexedRepo(), CARRY_AND_ADD).refused).toBe(null)
+})

@@ -11,11 +11,11 @@ export const folderNotLeftNamed = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The folders an answer empties are read from the index that answer leaves.",
+      statement: "The folders an answer empties are read from the folders asked about.",
     },
     {
       invariantKind: "departure",
-      statement: "A folder no path the index leaves sits under is a folder emptied.",
+      statement: "A folder no file the answer leaves sits under is a folder emptied.",
     },
     {
       invariantKind: "departure",
@@ -65,8 +65,24 @@ export const folderNotLeftNamed = {
       statement: "An index a guard cannot read refuses the answer.",
     },
     {
+      invariantKind: "departure",
+      statement: "A folder asked about is read off the checkout as the tree has that folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That reading is laid over with the edits the change and the answer state.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file the change takes away or carries off sits under no folder after.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file the change writes or carries in sits under the folders above it.",
+    },
+    {
       invariantKind: "absence",
-      statement: "Nothing here reads the working tree or the index on disk.",
+      statement: "No folder no string here names is read.",
     },
     {
       invariantKind: "departure",

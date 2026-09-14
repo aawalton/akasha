@@ -40,5 +40,30 @@ export const changeShadowTree = {
       invariantKind: "departure",
       statement: "A repository git will not answer for answers nothing rather than no file.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A caller asking whether a folder holds a file is answered without listing what that folder holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder the tree has a file under that the change leaves holds a file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder the change writes a file under or carries a file into holds a file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder the change takes every file away from holds no file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder read once is read no second time however often it is asked about.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No folder outside the checkout is read.",
+    },
   ],
 } as const satisfies Module
