@@ -10,6 +10,7 @@ export const secret = {
   parts: [
     "module/secret-placing",
     "module/secret-saying",
+    "module/workstation-secrets",
     "record-property/placements",
     "text-property/resource-key",
     "text-property/secret-value",
@@ -47,6 +48,47 @@ export const secret = {
     {
       invariantKind: "gap",
       statement: "Something inside akasha places these secrets on the cluster.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A secret is committed to the repository encrypted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Some secrets are generated inside the cluster and never committed.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "Nothing reading the repository can tell when an uncommitted secret changes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only a secret's value is encrypted.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A secret's name and shape are readable to anyone with the repository.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A decrypted secret is piped to whatever needs the secret.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No decrypted secret is written into the repository.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A secret on a workstation is read from `~/.secrets.env` rather than from the repository.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A secret minted on a workstation is written into that same file.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No command answers a secret's value, minted or read.",
     },
   ],
   types: "ts",

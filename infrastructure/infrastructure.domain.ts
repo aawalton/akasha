@@ -25,7 +25,6 @@ export const infrastructure = {
     "domain/postgres-annual-dump",
     "domain/resource-utilization",
     "domain/seaweedfs",
-    "domain/secret",
     "domain/storage",
     "domain/telemetry",
     "module/infrastructure-calls",

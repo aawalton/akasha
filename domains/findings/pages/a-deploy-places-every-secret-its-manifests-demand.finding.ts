@@ -4,7 +4,7 @@ export const aDeployPlacesEverySecretItsManifestsDemand = {
   id: "01a0683e-687e-75c1-bc1c-c1ce4c45dc1b",
   type: "finding",
   slug: "a-deploy-places-every-secret-its-manifests-demand",
-  domain: "domain/secret",
+  domain: "page-type/secret",
   claim:
     "A deploy places every Secret its manifests demand before the workload reading them is applied. `appliedWorkload` hands `putUp` a callback that runs once the namespace-opening manifests are up and before the rest, and that callback calls `placeSecrets`, which walks the plan for every `secretKeyRef`, `secretRef` and `volumes[].secret.secretName`, finds the secret page answering each, decrypts the sops sidecar beside that page, and applies one `Opaque` Secret per resource name. A demand no secret page answers is reported and the deploy carries on. Two pages placing a value under one resource name and key, a sidecar that is missing, and a sidecar carrying no `value` each refuse the deploy.",
   evidence:
