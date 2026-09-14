@@ -44,6 +44,10 @@ const PENDING_AT = "akasha/held/pending/held-pending.held-kind.seat.uncommitted.
 
 const IGNORED_AT = "built/held-built.held-kind.code.ts"
 
+const EMITTED_AT = "akasha/held/three/held-three.held-kind.emitted.ts"
+
+const IGNORING_EMITTED = "built/\n*.uncommitted.*\n*.emitted.ts\n"
+
 const GITIGNORE_AT = ".gitignore"
 
 const IGNORING = "built/\n*.uncommitted.*\n"
@@ -115,7 +119,29 @@ test("a caller handing a root rather than a world is answered every path the sea
   expect(pathsSearched(world.root, [SPELLING], TYPED_KINDS).toSorted()).toEqual([CODE_AT, OTHER_AT])
 })
 
-test("a file the repository ignores is left unsearched", () => {
+test("a file the repository ignores is left unsearched where the caller names no kind", () => {
+  const world = worldSpelling({ [CODE_AT]: CODE_BODY }, NOTHING_OVER, {
+    [CODE_AT]: CODE_BODY,
+    [EMITTED_AT]: CODE_BODY,
+    [GITIGNORE_AT]: IGNORING_EMITTED,
+    [GIT_AT]: KEPT,
+  })
+
+  expect(pathsNaming(world, [SPELLING], EVERY_KIND)).toEqual([CODE_AT])
+})
+
+test("a file a named kind matches is searched though the repository ignores that file", () => {
+  const world = worldSpelling({ [CODE_AT]: CODE_BODY }, NOTHING_OVER, {
+    [CODE_AT]: CODE_BODY,
+    [EMITTED_AT]: CODE_BODY,
+    [GITIGNORE_AT]: IGNORING_EMITTED,
+    [GIT_AT]: KEPT,
+  })
+
+  expect(pathsNaming(world, [SPELLING], TYPED_KINDS)).toEqual([CODE_AT, EMITTED_AT])
+})
+
+test("a folder the repository ignores is left unsearched whatever kinds are named", () => {
   const world = worldSpelling({ [CODE_AT]: CODE_BODY }, NOTHING_OVER, {
     [CODE_AT]: CODE_BODY,
     [IGNORED_AT]: CODE_BODY,
@@ -124,6 +150,18 @@ test("a file the repository ignores is left unsearched", () => {
   })
 
   expect(pathsNaming(world, [SPELLING], EVERY_KIND)).toEqual([CODE_AT])
+  expect(pathsNaming(world, [SPELLING], TYPED_KINDS)).toEqual([CODE_AT])
+})
+
+test("a listing names no kind, and a file the repository ignores is left unlisted", () => {
+  const world = worldSpelling({ [CODE_AT]: CODE_BODY }, NOTHING_OVER, {
+    [CODE_AT]: CODE_BODY,
+    [EMITTED_AT]: CODE_BODY,
+    [GITIGNORE_AT]: IGNORING_EMITTED,
+    [GIT_AT]: KEPT,
+  })
+
+  expect(pathsListed(world.root)).toEqual([GITIGNORE_AT, CODE_AT])
 })
 
 test("a body no commit holds yet is searched though the repository ignores it", () => {

@@ -36,7 +36,15 @@ export const treeSearching = {
     },
     {
       invariantKind: "departure",
-      statement: "A file the repository ignores is left unsearched.",
+      statement: "A file the repository ignores is left unsearched where the caller names no kind.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file a named kind matches is searched though the repository ignores that file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder the repository ignores is left unsearched whatever kinds are named.",
     },
     {
       invariantKind: "departure",
@@ -87,6 +95,10 @@ export const treeSearching = {
     {
       invariantKind: "departure",
       statement: "A listing is answered in path order.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A listing names no kind, and a file the repository ignores is left unlisted.",
     },
     {
       invariantKind: "absence",
