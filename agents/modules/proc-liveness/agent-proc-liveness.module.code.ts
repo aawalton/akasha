@@ -26,7 +26,6 @@ export type ProcLivenessEntry = {
   cmdline: string
   pid: number
   startMs?: number
-  state?: string
   ppid?: number
 }
 
