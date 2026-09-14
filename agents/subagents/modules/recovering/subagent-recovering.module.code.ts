@@ -22,7 +22,6 @@ import {
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { exclusively } from "akasha/files/modules/exclusive/exclusive.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { partFiled, partUnfiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import {
   partedIn,
   uncommittedBesideAt,
@@ -88,12 +87,11 @@ function textAt(root: string, at: string | null): string | null {
   }
 }
 
-function appended(root: string, page: string, at: string, text: string): undefined {
+function appended(root: string, at: string, text: string): undefined {
   const full = join(root, at)
   mkdirSync(dirname(full), { recursive: true })
   exclusively(full, (): undefined => {
     appendFileSync(full, text)
-    partFiled(root, page, at)
     return undefined
   })
   return undefined
@@ -150,7 +148,7 @@ function readingsMoved(root: string, seatPage: string, subagentPage: string): un
   if (held === null) return undefined
   const lines = held.split("\n").filter((one) => one.trim() !== "")
   if (lines.length === 0) return undefined
-  appended(root, seatPage, to, readsSaid(lines, agentId))
+  appended(root, to, readsSaid(lines, agentId))
   readingsDropped(root, subagentPage)
   return undefined
 }
@@ -161,38 +159,32 @@ export function movedOnto(root: string, seatPage: string, subagentPage: string):
   const named = namedAt(subagentPage)
   const lines = editsTo === null ? [] : linesIn(root, subagentPage)
   if (editsTo !== null && lines.length > 0) {
-    appended(root, seatPage, editsTo, editsSaid(lines, named, new Date().toISOString()))
+    appended(root, editsTo, editsSaid(lines, named, new Date().toISOString()))
     droppedAll(root, subagentPage)
   }
   const refused = refusalsTo === null ? null : textAt(root, refusalsAt(subagentPage))
   if (refusalsTo !== null && refused !== null) {
-    appended(root, seatPage, refusalsTo, refusalsSaid(named, refused))
+    appended(root, refusalsTo, refusalsSaid(named, refused))
     refusalsKept(root, subagentPage, [])
   }
   readingsMoved(root, seatPage, subagentPage)
   return { edits: lines.length, refusals: refused !== null }
 }
 
-function readingsPut(root: string, page: string, at: string, text: string): undefined {
+function readingsPut(root: string, at: string, text: string): undefined {
   const full = join(root, at)
   mkdirSync(dirname(full), { recursive: true })
   exclusively(full, (): undefined => {
     writeFileSync(full, `${text}${textAt(root, at) ?? ""}`)
-    partFiled(root, page, at)
     return undefined
   })
   return undefined
 }
 
-function readingsLeft(root: string, seatPage: string, at: string, text: string): undefined {
+function readingsLeft(root: string, at: string, text: string): undefined {
   const full = join(root, at)
-  if (text === "") {
-    rmSync(full, { force: true })
-    partUnfiled(root, at)
-    return undefined
-  }
-  writeFileSync(full, text)
-  partFiled(root, seatPage, at)
+  if (text === "") rmSync(full, { force: true })
+  else writeFileSync(full, text)
   return undefined
 }
 
@@ -227,8 +219,8 @@ export function gaveBack(
     if (held === null) return 0
     const said = partedBy(held, (by) => by !== null && by === agentId)
     if (said.taken.length === 0) return 0
-    readingsPut(root, subagentPage, to, said.taken.map((one) => `${readingSaid(one)}\n`).join(""))
-    readingsLeft(root, seatPage, from, said.left.join(""))
+    readingsPut(root, to, said.taken.map((one) => `${readingSaid(one)}\n`).join(""))
+    readingsLeft(root, from, said.left.join(""))
     return said.taken.length
   })
 }
@@ -245,7 +237,7 @@ export function droppedFor(root: string, seatPage: string, agentIds: readonly st
     if (held === null) return 0
     const said = partedBy(held, (by) => by !== null && gone.has(by))
     if (said.taken.length === 0) return 0
-    readingsLeft(root, seatPage, from, said.left.join(""))
+    readingsLeft(root, from, said.left.join(""))
     return said.taken.length
   })
 }
