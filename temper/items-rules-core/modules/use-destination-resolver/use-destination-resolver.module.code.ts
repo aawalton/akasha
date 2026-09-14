@@ -24,21 +24,6 @@ function isClaimable(itemKey: ItemKey): boolean {
   return itemKey.kind !== "consumable"
 }
 
-export function claimItemForCharacter(
-  claims: Map<CharacterId, Set<string>>,
-  charId: CharacterId,
-  itemKey: ItemKey
-): undefined {
-  if (!isClaimable(itemKey)) return
-  const hash = hashItemKey(itemKey)
-  const existing = claims.get(charId)
-  if (existing === undefined) {
-    claims.set(charId, new Set([hash]))
-  } else {
-    existing.add(hash)
-  }
-}
-
 export function planUseDestinationsForStack(
   itemKey: ItemKey,
   stackCount: number,
