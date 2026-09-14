@@ -31,7 +31,6 @@ const QUIET = {
   widgetProfileName: null,
   macBuildLockDir: "$HOME/.quiet-lock",
   macBuildNumberFile: "$HOME/.quiet-build",
-  macWwwStagingRel: null,
   defaultDeviceUdid: null,
 } as const satisfies MobileApp
 

@@ -2,12 +2,10 @@ import { describe, expect, test } from "bun:test"
 import { InputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import {
   DEFAULT_APP_SLUG,
-  macWwwStagingDir,
   mobileApps,
   resolveApp,
   ringCredentialPartIn,
   splitRepoPath,
-  stagedWwwRepoPath,
 } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
 
 const ALL = Object.values(mobileApps())
@@ -76,36 +74,6 @@ describe("records agree with the shells they name", () => {
   test("the widget bundle id and the widget profile name are present or absent together", () => {
     for (const app of ALL) {
       expect(app.widgetBundleId === null).toBe(app.widgetProfileName === null)
-    }
-  })
-
-  test("no app stages a site on the mac, now every shell boots its live origin", () => {
-    for (const app of ALL) {
-      expect(app.macWwwStagingRel).toBeNull()
-    }
-  })
-
-  test("no two apps share a mac staging directory", () => {
-    const dirs = ALL.map((app) => app.macWwwStagingRel).filter((rel) => rel !== null)
-    expect(dirs.length).toBe(new Set(dirs).size)
-  })
-
-  test("an app with nothing staged resolves to no staging directory at all", () => {
-    for (const app of ALL) {
-      if (app.macWwwStagingRel !== null) continue
-      expect(macWwwStagingDir(app)).toBeNull()
-    }
-  })
-
-  test("the staged www path sits inside the shell that syncs it", () => {
-    for (const app of ALL) {
-      const staged = stagedWwwRepoPath(app)
-      if (staged === null) {
-        expect(app.nativeShellRepoPath).toBeNull()
-        continue
-      }
-      const bare = (app.nativeShellRepoPath ?? "").replace(/^[a-z-]+:/, "")
-      expect(staged).toBe(`${bare}/www`)
     }
   })
 })

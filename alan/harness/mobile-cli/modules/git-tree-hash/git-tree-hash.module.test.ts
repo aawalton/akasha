@@ -29,7 +29,6 @@ const APP: MobileApp = {
   widgetProfileName: null,
   macBuildLockDir: "$HOME/.lock",
   macBuildNumberFile: "$HOME/.build-number",
-  macWwwStagingRel: null,
   defaultDeviceUdid: null,
 }
 

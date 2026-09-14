@@ -35,7 +35,6 @@ export interface MobileApp {
   readonly widgetProfileName: string | null
   readonly macBuildLockDir: string
   readonly macBuildNumberFile: string
-  readonly macWwwStagingRel: string | null
   readonly defaultDeviceUdid: string | null
 }
 
@@ -115,7 +114,6 @@ function mobileAppOf(value: Value, path: string): MobileApp {
     widgetProfileName: stated(value, "widgetProfileName"),
     macBuildLockDir: required(value, "macBuildLockDir", path),
     macBuildNumberFile: required(value, "macBuildNumberFile", path),
-    macWwwStagingRel: stated(value, "macWwwStagingRel"),
     defaultDeviceUdid: stated(value, "defaultDeviceUdid"),
   }
 }
@@ -230,13 +228,4 @@ export function nativeShellDir(app: MobileApp, root: string): string {
 
 export function iosAppDir(app: MobileApp, root: string): string {
   return `${nativeShellDir(app, root)}/ios/App`
-}
-
-export function stagedWwwRepoPath(app: MobileApp): string | null {
-  if (app.nativeShellRepoPath === null) return null
-  return `${splitRepoPath(app.nativeShellRepoPath).path}/www`
-}
-
-export function macWwwStagingDir(app: MobileApp): string | null {
-  return app.macWwwStagingRel === null ? null : `$HOME/${app.macWwwStagingRel}`
 }
