@@ -10,7 +10,10 @@ import { LOG_AT } from "akasha/agents/subagents/modules/presence/subagent-presen
 import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
-import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  slugOf,
+  textAt,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const SEAT = "principalSeatName"
 
@@ -77,7 +80,7 @@ export function pagesIn(root: string): readonly SubagentPage[] {
     pages.push({
       path: one.path,
       slug: named?.slug ?? textAt(one.value, SLUG) ?? "",
-      seatName: statedAt(absolute, root, SEAT),
+      seatName: slugOf(statedAt(absolute, root, SEAT)),
       agentId,
       ...partedAgentId(agentId),
     })

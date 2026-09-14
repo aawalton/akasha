@@ -51,7 +51,7 @@ import { refusedWhereHeld } from "akasha/git/modules/holding/holding.module.code
 import { said as gitSaid } from "akasha/git/modules/running/git-running.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
-import { textAt as textIn } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import { slugAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const NOTHING_HELD = "no rows were handed in, so nothing is there to apply"
 
@@ -96,7 +96,7 @@ function seatOver(root: string, page: string): string | null {
   const said = partedIn(page)
   if (said === null || said.pageType !== SUBAGENT) return null
   const value = valueAt(page, root)
-  return value === null ? null : textIn(value, SEAT_KEY)
+  return value === null ? null : slugAt(value, SEAT_KEY)
 }
 
 function noneSaid(root: string, page: string): string {

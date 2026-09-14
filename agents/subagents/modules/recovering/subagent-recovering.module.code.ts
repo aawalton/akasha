@@ -28,6 +28,7 @@ import {
 } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { textUnder } from "akasha/pages/modules/value/page-value.module.code.ts"
 import {
+  slugOf,
   textAt as statedIn,
   type Value,
 } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
@@ -280,9 +281,9 @@ export function droppedOutlived(
 
 export function carriedOff(root: string, at: string, value: Value): Moved | null {
   if (statedIn(value, PAGE_TYPE) !== SUBAGENT) return null
-  const seatName = statedIn(value, PRINCIPAL)
-  if (seatName === null) return null
-  const seatPage = listedAt(root, SEAT, seatName)[0]?.path
+  const named = statedIn(value, PRINCIPAL)
+  if (named === null) return null
+  const seatPage = listedAt(root, SEAT, slugOf(named))[0]?.path
   if (seatPage === undefined) return null
   return movedOnto(root, seatPage, at)
 }

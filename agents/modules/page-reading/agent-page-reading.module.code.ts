@@ -3,6 +3,7 @@ import { everyOfType } from "akasha/pages/indexes/modules/reading/index-reading.
 import { uncommittedIn } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import {
+  slugOf,
   textIn,
   type Value,
 } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
@@ -45,9 +46,10 @@ export function subagentPagesStanding(root: string): readonly SubagentPage[] {
   for (const listed of everyOfType(root, SUBAGENT)) {
     const held = declaredAt(listed.path, root)
     if (held === null) continue
-    const seat = textIn(held, PRINCIPAL_SEAT_NAME)
+    const named = textIn(held, PRINCIPAL_SEAT_NAME)
     const agentId = textIn(held, AGENT_ID)
-    if (seat === null || agentId === null) continue
+    if (named === null || agentId === null) continue
+    const seat = slugOf(named)
     const parts = agentId.indexOf(SUBAGENT_MARK)
     if (parts <= 0) continue
     const own = agentId.slice(parts + SUBAGENT_MARK.length)

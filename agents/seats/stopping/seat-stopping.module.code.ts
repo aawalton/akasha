@@ -26,7 +26,10 @@ import {
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { removeUncommitted } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
-import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  slugAt,
+  textAt,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { procEntries } from "akasha/utils/process/modules/proc-reading/proc-reading.module.code.ts"
 import { ending } from "akasha/utils/process/modules/process-ending/process-ending.module.code.ts"
 
@@ -107,7 +110,7 @@ function subagentsOf(root: string, seatName: string): readonly Working[] {
   for (const one of everyOfType(root, typeSlugOf(root, SUBAGENT_TYPE))) {
     const value = valueAt(one.path, root)
     if (value === null) continue
-    if (textAt(value, PRINCIPAL) !== seatName) continue
+    if (slugAt(value, PRINCIPAL) !== seatName) continue
     found.push({ path: one.path, dispatchedAs: textAt(value, DISPATCHED) ?? "" })
   }
   return found
