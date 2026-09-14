@@ -61,6 +61,14 @@ export const deviceTokenRegistration = {
       statement: "The app a token is kept under is an iOS app.",
     },
     {
+      invariantKind: "departure",
+      statement: "A token names its person and its app by page type and slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The slug a token's page is named by is the person, the app and the token.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reaches Apple.",
     },

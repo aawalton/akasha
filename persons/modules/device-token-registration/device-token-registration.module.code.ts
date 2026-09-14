@@ -1,3 +1,5 @@
+import { namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
+import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import {
   askingFor,
   type Fetcher,
@@ -10,6 +12,8 @@ import { personSlugForAccount } from "akasha/persons/modules/enrolment/person-en
 const DEVICE_TOKEN_PAGE_TYPE_SLUG = "device-token"
 
 const IOS_APP_PAGE_TYPE_SLUG = "ios-app"
+
+const PERSON_PAGE_TYPE_SLUG = "person"
 
 const DEVICE_TOKEN_WRITER = "device token registration <push@alanwalton.com>"
 
@@ -67,7 +71,7 @@ export async function deviceTokensFor(
   const asked = await askingFor(
     {
       pageTypeSlug: DEVICE_TOKEN_PAGE_TYPE_SLUG,
-      where: { person: { is: person } },
+      where: { person: { is: namedAs(PERSON_PAGE_TYPE_SLUG, person, null) } },
       keys: ["token", "iosApp"],
     },
     fetcher,
@@ -82,11 +86,12 @@ export async function deviceTokensFor(
   const tokens: DeviceTokenReached[] = []
   for (const row of asked.rows) {
     const token = row.token
-    const app = row.iosApp
+    const named = row.iosApp
     if (typeof token !== "string" || token === "") continue
-    if (typeof app !== "string" || app === "") {
+    if (typeof named !== "string" || named === "") {
       return { ok: false, why: `a token of ${person} names no app, so no push can be addressed` }
     }
+    const app = slugOf(named)
     const bundleId = apps.get(app)
     if (bundleId === undefined) {
       return {
@@ -127,8 +132,8 @@ export async function registerDeviceToken(
           slug,
           values: {
             slug,
-            person,
-            iosApp: named,
+            person: namedAs(PERSON_PAGE_TYPE_SLUG, person, null),
+            iosApp: namedAs(IOS_APP_PAGE_TYPE_SLUG, named, null),
             token: args.deviceTokenRegistration,
             lastSeenAt: new Date().toISOString(),
           },
