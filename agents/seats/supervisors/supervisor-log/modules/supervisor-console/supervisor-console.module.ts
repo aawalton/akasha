@@ -20,6 +20,10 @@ export const supervisorConsole = {
     },
     {
       invariantKind: "departure",
+      statement: "A seat that cannot be looked for at all is a seat not found yet.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A line written before that seat is found lands in the file.",
     },
     {

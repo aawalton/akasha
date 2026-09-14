@@ -88,6 +88,14 @@ export type SeatSeams = {
 
 const SEAT_SEAMS: SeatSeams = { seatFor: seatNameForAgent, writerFor: logWriter }
 
+function seatNamedYet(seams: SeatSeams, agentId: string): string | null {
+  try {
+    return seams.seatFor(agentId)
+  } catch {
+    return null
+  }
+}
+
 export function seatPageSink(
   source: string,
   agentId: string,
@@ -97,7 +105,7 @@ export function seatPageSink(
   let onPage: LogSink | null = null
   return (level, text): undefined => {
     if (onPage === null) {
-      const seatName = seams.seatFor(agentId)
+      const seatName = seatNamedYet(seams, agentId)
       if (seatName === null) return fallback(level, text)
       onPage = pageSink(source, seams.writerFor(source, seatName), agentId, fallback)
     }

@@ -92,6 +92,34 @@ test("a sink whose seat cannot be named yet writes to the file and joins the pag
   expect(fell).toEqual(["LOG before"])
 })
 
+test("a sink whose seat cannot be looked for at all writes to the file and joins the page later", () => {
+  const fell: string[] = []
+  const taken: string[] = []
+  let throwing = true
+  const seams = {
+    seatFor: (): string => {
+      if (throwing) throw new Error("the index is part way through a refresh")
+      return "thea"
+    },
+    writerFor: () => writerTaking(taken),
+  }
+  const sink = seatPageSink(
+    SUPERVISOR_CONSOLE_SOURCE,
+    "a",
+    (level, text) => {
+      fell.push(`${level} ${text}`)
+    },
+    seams as never
+  )
+
+  expect(() => sink("LOG", "before")).not.toThrow()
+  expect(fell).toEqual(["LOG before"])
+  expect(taken).toEqual([])
+  throwing = false
+  sink("LOG", "after")
+  expect(taken).toEqual(["after"])
+})
+
 test("the seat a sink found once is not looked for again", () => {
   let asked = 0
   const taken: string[] = []
