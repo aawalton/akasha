@@ -5,7 +5,7 @@ export const mysteryAndDetective = {
   type: "author-collection",
   slug: "mystery-and-detective",
   title: "Mystery and Detective",
-  partOfCollections: ["authors"],
+  partOfCollections: ["author-collection/authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

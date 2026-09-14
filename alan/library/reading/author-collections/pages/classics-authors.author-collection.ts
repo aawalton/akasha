@@ -5,7 +5,7 @@ export const classicsAuthors = {
   type: "author-collection",
   slug: "classics-authors",
   title: "Classics Authors",
-  partOfCollections: ["authors"],
+  partOfCollections: ["author-collection/authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

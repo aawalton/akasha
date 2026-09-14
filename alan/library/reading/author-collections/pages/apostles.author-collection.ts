@@ -5,7 +5,7 @@ export const apostles = {
   type: "author-collection",
   slug: "apostles",
   title: "Apostles",
-  partOfCollections: ["faith-authors"],
+  partOfCollections: ["author-collection/faith-authors"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,
