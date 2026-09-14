@@ -4,7 +4,6 @@ import {
   declaring,
   filing,
 } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
-import { noPathsFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
@@ -34,7 +33,6 @@ export function rooted(
   declares: readonly string[] = fileProperties
 ): string {
   const root = scratch.rootFor("akasha-property-filed-")
-  noPathsFiled(root)
   for (const one of ["module", "check", "domain", "page-type"]) {
     filing(root, "page-type", one, `${ID.slice(0, -1)}${one.length}`)
     carrying(root, one, declares)
