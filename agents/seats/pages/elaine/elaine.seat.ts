@@ -9,6 +9,6 @@ export const elaine = {
   role: "coach",
   person: "alan",
   startMode: "interactive",
-  onCall: false,
+  onCall: true,
   registrationAccount: "aawalton",
 } as const satisfies Seat
