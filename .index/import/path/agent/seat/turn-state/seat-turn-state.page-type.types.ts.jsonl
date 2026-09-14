@@ -1,0 +1,5 @@
+{"path":"agent/seat/turn-state/pages/idle-pending.seat-turn-state.ts"}
+{"path":"agent/seat/turn-state/pages/idle.seat-turn-state.ts"}
+{"path":"agent/seat/turn-state/pages/ready.seat-turn-state.ts"}
+{"path":"agent/seat/turn-state/pages/stopped.seat-turn-state.ts"}
+{"path":"agent/seat/turn-state/pages/working.seat-turn-state.ts"}

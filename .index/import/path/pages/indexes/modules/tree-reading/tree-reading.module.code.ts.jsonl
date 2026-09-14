@@ -1,0 +1,8 @@
+{"path":"changes/modules/page-renaming/page-renaming.module.code.ts"}
+{"path":"changes/modules/shadow-tree/change-shadow-tree.module.code.ts"}
+{"path":"checks/code-checks/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.code-check.decision.code.ts"}
+{"path":"checks/code-checks/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.code.ts"}
+{"path":"pages/indexes/modules/indexing/indexing.module.code.ts"}
+{"path":"pages/indexes/modules/indexing/indexing.module.test-fixtures.ts"}
+{"path":"pages/indexes/modules/keeping/index-keeping.module.code.ts"}
+{"path":"pages/indexes/modules/tree-reading/tree-reading.module.test.ts"}

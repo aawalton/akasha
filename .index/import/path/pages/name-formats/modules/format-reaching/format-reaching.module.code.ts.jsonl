@@ -1,0 +1,8 @@
+{"path":"checks/code-checks/pages/identifier-matches-its-place/identifier-matches-its-place.code-check.decision.code.ts"}
+{"path":"checks/code-checks/pages/name-format-judges-by-one-shape/name-format-judges-by-one-shape.code-check.decision.code.ts"}
+{"path":"checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts"}
+{"path":"checks/code-checks/pages/page-matches-its-type/modules/page-reasons/page-reasons.module.code.ts"}
+{"path":"checks/code-checks/pages/page-matches-its-type/modules/page-reasons/page-reasons.module.test.ts"}
+{"path":"checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.decision.code.ts"}
+{"path":"checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.decision.test-fixtures.ts"}
+{"path":"pages/name-formats/modules/format-reaching/format-reaching.module.test.ts"}

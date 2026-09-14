@@ -1,0 +1,11 @@
+{"path":"temper/characters/temper-account-characters/temper-account-character.page-type.types.ts"}
+{"path":"temper/characters/temper-build-versions/temper-build-version.page-type.types.ts"}
+{"path":"temper/characters/temper-companion-progresses/temper-companion-progress.page-type.types.ts"}
+{"path":"temper/holdings-sets/temper-inventory-chunks/temper-inventory-chunk.page-type.types.ts"}
+{"path":"temper/holdings-sets/temper-inventory-snapshots/temper-inventory-snapshot.page-type.types.ts"}
+{"path":"temper/holdings-sets/temper-sales/temper-sale.page-type.types.ts"}
+{"path":"temper/progressions/temper-completion-overrides/temper-completion-override.page-type.types.ts"}
+{"path":"temper/progressions/temper-inventory-rules/temper-inventory-rule.page-type.types.ts"}
+{"path":"temper/progressions/temper-tasks/temper-task.page-type.types.ts"}
+{"path":"temper/progressions/temper-watcher-enrolments/temper-watcher-enrolment.page-type.types.ts"}
+{"path":"temper/things/temper-thing.page-type.types.ts"}

@@ -1,0 +1,15 @@
+{"path":"commands/modules/applying/applying.module.code.ts"}
+{"path":"commands/modules/change-freshness/change-freshness.module.code.ts"}
+{"path":"commands/modules/change-preparing/change-preparing.module.code.ts"}
+{"path":"commands/modules/edits-landing/edits-landing.module.code.ts"}
+{"path":"commands/modules/file-arguing/file-arguing.module.code.ts"}
+{"path":"commands/modules/landing-change-composing/landing-change-composing.module.code.ts"}
+{"path":"commands/modules/landing-reading/landing-reading.module.code.ts"}
+{"path":"commands/modules/landing/landing.module.code.ts"}
+{"path":"commands/modules/landing/landing.module.test.ts"}
+{"path":"commands/pages/deploy/modules/check-judging/deploy-check-judging.module.code.ts"}
+{"path":"commands/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"}
+{"path":"commands/pages/git/restore/git-restore.command.code.ts"}
+{"path":"git/modules/commit-reading/commit-reading.module.test.ts"}
+{"path":"pages/modules/shadow/shadow.module.code.ts"}
+{"path":"pages/service/modules/page-reading/page-reading.module.code.ts"}

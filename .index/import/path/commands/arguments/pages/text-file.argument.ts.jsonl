@@ -1,0 +1,5 @@
+{"path":"commands/pages/imessage/send/imessage-send.command.code.ts"}
+{"path":"commands/pages/imessage/send/imessage-send.command.test.ts"}
+{"path":"commands/pages/inference/voice/clone/inference-voice-clone.command.code.ts"}
+{"path":"commands/pages/inference/voice/design/inference-voice-design.command.code.ts"}
+{"path":"commands/pages/sms/send/sms-send.command.code.ts"}

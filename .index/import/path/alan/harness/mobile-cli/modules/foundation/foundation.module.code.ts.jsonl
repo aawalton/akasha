@@ -1,0 +1,9 @@
+{"path":"alan/harness/mobile-cli/modules/altool/altool.module.code.ts"}
+{"path":"alan/harness/mobile-cli/modules/asc-client/asc-client.module.code.ts"}
+{"path":"alan/harness/mobile-cli/modules/ios-signing/ios-signing.module.code.ts"}
+{"path":"alan/harness/mobile-cli/modules/ios-signing/ios-signing.module.test.ts"}
+{"path":"alan/harness/mobile-cli/modules/sim-macbook/sim-macbook.module.code.ts"}
+{"path":"alan/harness/mobile-cli/modules/testflight-cut/testflight-cut.module.code.ts"}
+{"path":"alan/harness/mobile-cli/modules/testflight-deploy-script/testflight-deploy-script.module.code.ts"}
+{"path":"commands/pages/deploy/modules/device-installing/deploy-device-installing.module.code.ts"}
+{"path":"commands/pages/deploy/modules/ios-shipping/deploy-ios-shipping.module.code.ts"}

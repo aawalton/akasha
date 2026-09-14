@@ -1,0 +1,9 @@
+{"path":"agent/model/gateway/modules/committed-keepalive/committed-keepalive.module.code.ts"}
+{"path":"agent/model/gateway/modules/forward/forward.module.code.ts"}
+{"path":"agent/model/gateway/modules/forward/forward.module.test.ts"}
+{"path":"agent/model/gateway/modules/observer-slot/observer-slot.module.code.ts"}
+{"path":"agent/model/gateway/modules/observer-slot/observer-slot.module.test.ts"}
+{"path":"agent/model/gateway/modules/proxy-entry/proxy-entry.module.code.ts"}
+{"path":"agent/model/gateway/modules/proxy-serving/proxy-serving.module.code.ts"}
+{"path":"agent/model/gateway/modules/proxy-serving/proxy-serving.module.test-fixtures.ts"}
+{"path":"agent/model/gateway/modules/transport-log/transport-log.module.test.ts"}

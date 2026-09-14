@@ -1,0 +1,5 @@
+{"path":"temper/web/modules/mined-item-rows/mined-item-rows.module.test.ts"}
+{"path":"temper/web/routes/api-items-search/api-items-search.route.code.ts"}
+{"path":"temper/web/routes/api-items/api-items.route.code.ts"}
+{"path":"temper/web/routes/api-watcher-upsert-mined-items/api-watcher-upsert-mined-items.route.code.ts"}
+{"path":"temper/web/routes/api-watcher-upsert-mined-quests/api-watcher-upsert-mined-quests.route.code.ts"}

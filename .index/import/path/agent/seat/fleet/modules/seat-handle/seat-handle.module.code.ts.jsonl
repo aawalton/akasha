@@ -1,0 +1,8 @@
+{"path":"agent/seat/launching/modules/seat-start/seat-start.module.code.ts"}
+{"path":"agent/seat/launching/modules/spawn-seat/spawn-seat.module.code.ts"}
+{"path":"agent/seat/name-claiming/modules/seat-name-bind/seat-name-bind.module.code.ts"}
+{"path":"agent/seat/name/modules/restate/seat-name-restate.module.code.ts"}
+{"path":"agent/seat/reviving/modules/seat-reset/seat-reset.module.code.ts"}
+{"path":"agent/seat/reviving/modules/seat-resume/seat-resume.module.code.ts"}
+{"path":"commands/pages/model/gateway/swap/model-gateway-swap.command.code.ts"}
+{"path":"commands/pages/model/gateway/swap/model-gateway-swap.command.test.ts"}

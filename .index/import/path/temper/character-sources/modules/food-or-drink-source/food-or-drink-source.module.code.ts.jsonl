@@ -1,0 +1,8 @@
+{"path":"temper/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"}
+{"path":"temper/character-build/modules/build-types/build-types.module.code.ts"}
+{"path":"temper/character-sources/modules/drink-source/drink-source.module.code.ts"}
+{"path":"temper/character-sources/modules/food-source/food-source.module.code.ts"}
+{"path":"temper/characters-stats/modules/extract-consumables/extract-consumables.module.code.ts"}
+{"path":"temper/items-rules-matcher/modules/rule-matcher-context-knowledge/rule-matcher-context-knowledge.module.code.ts"}
+{"path":"temper/web/modules/consumables-panel-card/consumables-panel-card.module.code.tsx"}
+{"path":"temper/web/modules/food-drink-select-dialog/food-drink-select-dialog.module.code.tsx"}

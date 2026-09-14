@@ -1,0 +1,11 @@
+{"path":"temper/items-addon/modules/inventory-browser-locations/inventory-browser-locations.module.code.ts"}
+{"path":"temper/items-addon/modules/inventory-location-tooltip-lines/inventory-location-tooltip-lines.module.code.ts"}
+{"path":"temper/items-core/modules/item-centric-inventory/item-centric-inventory.module.code.ts"}
+{"path":"temper/items-core/modules/location-character-row/location-character-row.module.code.ts"}
+{"path":"temper/items-core/modules/location-condition/location-condition.module.code.ts"}
+{"path":"temper/items-rules-core/modules/affected-items-tree-builder/affected-items-tree-builder.module.code.ts"}
+{"path":"temper/items-rules-matcher/modules/inventory-rule-matcher-exclude/inventory-rule-matcher-exclude.module.code.ts"}
+{"path":"temper/items-rules-matcher/modules/inventory-rule-matcher-exclude/inventory-rule-matcher-exclude.module.test.ts"}
+{"path":"temper/items-rules-matcher/modules/inventory-rule-matcher-fill-once/inventory-rule-matcher-fill-once.module.code.ts"}
+{"path":"temper/items-rules-routing/modules/inventory-management-plan-capacity/inventory-management-plan-capacity.module.code.ts"}
+{"path":"temper/player-inventory-management-ui/modules/inventory-location-type-panel-card/inventory-location-type-panel-card.module.code.tsx"}

@@ -1,0 +1,15 @@
+{"path":"temper/companions-core/modules/companion-light-attack/companion-light-attack.module.code.ts"}
+{"path":"temper/companions-core/modules/companion-rotation-metrics/companion-rotation-metrics.module.code.ts"}
+{"path":"temper/companions-core/modules/companion-rotation-results/companion-rotation-results.module.code.ts"}
+{"path":"temper/companions-core/modules/companion-rotation-simulator/companion-rotation-simulator.module.code.ts"}
+{"path":"temper/companions-core/modules/companion-rotation-slot/companion-rotation-slot.module.code.ts"}
+{"path":"temper/companions-core/modules/companion-rotation-state/companion-rotation-state.module.code.ts"}
+{"path":"temper/companions-core/modules/companion-skill-executor/companion-skill-executor.module.code.ts"}
+{"path":"temper/companions-core/modules/companion-stats-result/companion-stats-result.module.code.ts"}
+{"path":"temper/companions-core/modules/condition-evaluator/condition-evaluator.module.code.ts"}
+{"path":"temper/web/modules/companion-rotation-breakdown-panel-card/companion-rotation-breakdown-panel-card.module.code.tsx"}
+{"path":"temper/web/modules/companion-rotation-breakdown-types/companion-rotation-breakdown-types.module.code.ts"}
+{"path":"temper/web/modules/companion-rotation-outcome/companion-rotation-outcome.module.code.ts"}
+{"path":"temper/web/modules/companion-rotation-outcome/companion-rotation-outcome.module.test.ts"}
+{"path":"temper/web/modules/companion-stats-context/companion-stats-context.module.code.tsx"}
+{"path":"temper/web/modules/use-companion-stats-calculation/use-companion-stats-calculation.module.code.ts"}

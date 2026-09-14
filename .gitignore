@@ -15,10 +15,10 @@
 # so a change carries those answers among its own file changes and lands them in
 # the same commit. Which indexes those are is stated on their own pages, and a
 # line here is that statement's other half.
-.indexes/import/
-.indexes/rule/
-.indexes/shapes/
-.indexes/value/
+/import/
+/rule/
+/shapes/
+/value/
 
 # Installed dependencies and compiled output.
 node_modules/

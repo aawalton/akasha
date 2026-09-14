@@ -1,0 +1,8 @@
+{"path":"temper/companions-core/modules/companion-formula-evaluator/companion-formula-evaluator.module.code.ts"}
+{"path":"temper/companions-core/modules/companion-metric-display-formula/companion-metric-display-formula.module.code.ts"}
+{"path":"temper/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"}
+{"path":"temper/companions-core/modules/companion-stats-calculator-impl/companion-stats-calculator-impl.module.code.ts"}
+{"path":"temper/companions-core/modules/companion-stats-result/companion-stats-result.module.code.ts"}
+{"path":"temper/web/modules/companion-stat-explanation-dialog/companion-stat-explanation-dialog.module.code.tsx"}
+{"path":"temper/web/modules/companion-stats-context/companion-stats-context.module.code.tsx"}
+{"path":"temper/web/modules/use-companion-stats-calculation/use-companion-stats-calculation.module.code.ts"}

@@ -1,0 +1,3 @@
+{"path":"commands/pages/inference/wan/modules/wan-clip-rendering/wan-clip-rendering.module.code.ts"}
+{"path":"infrastructure/inference/generations/wan/modules/extend-graph/wan-extend-graph.module.code.ts"}
+{"path":"infrastructure/inference/generations/wan/modules/i2v-graph/wan-i2v-graph.module.code.ts"}

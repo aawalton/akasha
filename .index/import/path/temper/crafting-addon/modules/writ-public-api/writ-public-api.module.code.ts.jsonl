@@ -1,0 +1,17 @@
+{"path":"temper/crafting-addon/modules/writ-alchemy-data/writ-alchemy-data.module.code.ts"}
+{"path":"temper/crafting-addon/modules/writ-enchanting-parser/writ-enchanting-parser.module.code.ts"}
+{"path":"temper/crafting-addon/modules/writ-i18n/writ-i18n.module.code.ts"}
+{"path":"temper/crafting-addon/modules/writ-init/writ-init.module.code.ts"}
+{"path":"temper/crafting-addon/modules/writ-know/writ-know.module.code.ts"}
+{"path":"temper/crafting-addon/modules/writ-link-data/writ-link-data.module.code.ts"}
+{"path":"temper/crafting-addon/modules/writ-log/writ-log.module.code.ts"}
+{"path":"temper/crafting-addon/modules/writ-mat-row/writ-mat-row.module.code.ts"}
+{"path":"temper/crafting-addon/modules/writ-parser-dispatch/writ-parser-dispatch.module.code.ts"}
+{"path":"temper/crafting-addon/modules/writ-price/writ-price.module.code.ts"}
+{"path":"temper/crafting-addon/modules/writ-profiler/writ-profiler.module.code.ts"}
+{"path":"temper/crafting-addon/modules/writ-prov-data/writ-prov-data.module.code.ts"}
+{"path":"temper/crafting-addon/modules/writ-required-skill/writ-required-skill.module.code.ts"}
+{"path":"temper/crafting-addon/modules/writ-slash-commands/writ-slash-commands.module.code.ts"}
+{"path":"temper/crafting-addon/modules/writ-smithing/writ-smithing.module.code.ts"}
+{"path":"temper/crafting-addon/modules/writ-tooltip/writ-tooltip.module.code.ts"}
+{"path":"temper/crafting-addon/modules/writ-util/writ-util.module.code.ts"}

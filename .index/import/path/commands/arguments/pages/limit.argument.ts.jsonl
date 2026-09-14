@@ -1,0 +1,10 @@
+{"path":"commands/pages/chess/puzzles/import/chess-puzzles-import.command.code.ts"}
+{"path":"commands/pages/imessage/recent-list/imessage-recent-list.command.code.ts"}
+{"path":"commands/pages/imessage/recent-list/imessage-recent-list.command.test.ts"}
+{"path":"commands/pages/imessage/search/imessage-search.command.code.ts"}
+{"path":"commands/pages/imessage/unread-list/imessage-unread-list.command.code.ts"}
+{"path":"commands/pages/imessage/unread-list/imessage-unread-list.command.test.ts"}
+{"path":"commands/pages/infrastructure/loki/infrastructure-loki.command.code.ts"}
+{"path":"commands/pages/music/listening/music-listening.command.code.ts"}
+{"path":"commands/pages/music/search/music-search.command.code.ts"}
+{"path":"commands/pages/temper/watcher/log/temper-watcher-log.command.code.ts"}

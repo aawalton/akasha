@@ -1,0 +1,4 @@
+{"path":"commands/pages/deploy/deploy.command.code.ts"}
+{"path":"infrastructure/job/modules/deploy-job/deploy-job.module.code.ts"}
+{"path":"infrastructure/modules/calls/infrastructure-calls.module.code.ts"}
+{"path":"infrastructure/modules/calls/infrastructure-calls.module.test.ts"}

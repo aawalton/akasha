@@ -1,0 +1,11 @@
+{"path":"temper/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"}
+{"path":"temper/characters-equipment/modules/bulk-update-weapons/bulk-update-weapons.module.code.ts"}
+{"path":"temper/characters-equipment/modules/item-composites/item-composites.module.code.ts"}
+{"path":"temper/characters-equipment/modules/weapon-enchants/weapon-enchants.module.code.ts"}
+{"path":"temper/characters-equipment/modules/weapon-source/weapon-source.module.code.ts"}
+{"path":"temper/characters-equipment/modules/weapon-trait-effects/weapon-trait-effects.module.code.ts"}
+{"path":"temper/equipment/modules/eso-trait-map/eso-trait-map.module.code.ts"}
+{"path":"temper/items-filters-core/modules/search-trait-filter/search-trait-filter.module.code.ts"}
+{"path":"temper/items-rules-core/modules/traits-filter/traits-filter.module.code.ts"}
+{"path":"temper/web/modules/weapon-bar-panel-card/weapon-bar-panel-card.module.code.tsx"}
+{"path":"temper/web/modules/weapon-card/weapon-card.module.code.tsx"}

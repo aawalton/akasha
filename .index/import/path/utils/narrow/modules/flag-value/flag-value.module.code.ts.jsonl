@@ -1,0 +1,3 @@
+{"path":"infrastructure/cluster/k8s-synth/modules/synth-running/synth-running.module.code.ts"}
+{"path":"infrastructure/services/secrets/modules/saying/secret-saying.module.code.ts"}
+{"path":"utils/narrow/modules/flag-value/flag-value.module.test.ts"}

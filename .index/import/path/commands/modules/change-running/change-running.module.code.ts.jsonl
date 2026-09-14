@@ -1,0 +1,7 @@
+{"path":"commands/modules/change-running/change-running.module.test-fixtures.ts"}
+{"path":"commands/modules/change-running/change-running.module.test.ts"}
+{"path":"commands/pages/change/apply/change-apply.command.code.ts"}
+{"path":"commands/pages/change/draft/change-draft.command.code.ts"}
+{"path":"commands/pages/change/show/change-show.command.code.ts"}
+{"path":"commands/pages/change/subagent/show/change-subagent-show.command.code.ts"}
+{"path":"testing-system/test-fixtures/repo-seeding/repo-seeding.test-fixture.code.ts"}

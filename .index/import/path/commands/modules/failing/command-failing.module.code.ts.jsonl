@@ -1,0 +1,8 @@
+{"path":"agent/messaging/notice/modules/compose-notices/compose-notices.module.code.ts"}
+{"path":"agent/seat/declaration/modules/seat-args/seat-args.module.code.ts"}
+{"path":"agent/seat/launching/modules/seat-call/seat-call.module.code.ts"}
+{"path":"agent/seat/page/modules/beat/seat-page-beat.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-deciding/modules/supervisor-decide-rules/supervisor-decide-rules.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-deciding/modules/supervisor-decide/supervisor-decide.module.code.ts"}
+{"path":"commands/modules/argument-narrowing/argument-narrowing.module.code.ts"}
+{"path":"commands/modules/payload/payload.module.code.ts"}

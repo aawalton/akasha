@@ -1,0 +1,5 @@
+{"path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.code.ts"}
+{"path":"agent/seat/observation/seat-turn/modules/seat-pending/pending-from-files/pending-from-files.module.code.ts"}
+{"path":"agent/seat/observation/seat-turn/modules/state/seat-turn-state.module.code.ts"}
+{"path":"agent/seat/observation/seat-turn/modules/turn-working/turn-working.module.test.ts"}
+{"path":"agent/seat/supervisors/supervisor-child/modules/spawn/supervisor-child-spawn.module.code.ts"}

@@ -1,0 +1,10 @@
+{"path":"alan/google/email/modules/email-message-fetching/email-message-fetching.module.code.ts"}
+{"path":"commands/pages/email/attachment/list/email-attachment-list.command.code.ts"}
+{"path":"commands/pages/email/attachment/show/email-attachment-show.command.code.ts"}
+{"path":"commands/pages/email/draft/create/email-draft-create.command.code.ts"}
+{"path":"commands/pages/email/draft/list/email-draft-list.command.code.ts"}
+{"path":"commands/pages/email/message/archive/email-message-archive.command.code.ts"}
+{"path":"commands/pages/email/message/modify-label/email-message-modify-label.command.code.ts"}
+{"path":"commands/pages/email/message/send/email-message-send.command.code.ts"}
+{"path":"commands/pages/email/message/trash/email-message-trash.command.code.ts"}
+{"path":"commands/pages/email/unsubscribe/email-unsubscribe.command.code.ts"}

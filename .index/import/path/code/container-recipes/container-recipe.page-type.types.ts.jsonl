@@ -1,0 +1,9 @@
+{"path":"infrastructure/container-image/postgres-cnpg-image/postgres-cnpg-image.container-recipe.ts"}
+{"path":"infrastructure/eso-rig/image/eso-rig-image.container-recipe.ts"}
+{"path":"infrastructure/inference/generations/upscale/cluster-image/upscale-cluster-image.container-recipe.ts"}
+{"path":"infrastructure/inference/generations/upscale/image/upscale-image.container-recipe.ts"}
+{"path":"infrastructure/inference/generations/wan/image/wan-image.container-recipe.ts"}
+{"path":"infrastructure/inference/generations/zimage/image/zimage-image.container-recipe.ts"}
+{"path":"infrastructure/inference/voice-inference/voice-infer-image/voice-infer-image.container-recipe.ts"}
+{"path":"infrastructure/postgres-annual-dump/image/postgres-annual-dump-image.container-recipe.ts"}
+{"path":"temper/watcher/image/temper-watcher-image.container-recipe.ts"}

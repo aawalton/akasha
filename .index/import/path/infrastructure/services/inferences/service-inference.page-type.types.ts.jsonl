@@ -1,0 +1,13 @@
+{"path":"infrastructure/services/inferences/pages/csm.service-inference.ts"}
+{"path":"infrastructure/services/inferences/pages/higgs-audio.service-inference.ts"}
+{"path":"infrastructure/services/inferences/pages/image-gen.service-inference.ts"}
+{"path":"infrastructure/services/inferences/pages/kokoro.service-inference.ts"}
+{"path":"infrastructure/services/inferences/pages/mlx-vlm.service-inference.ts"}
+{"path":"infrastructure/services/inferences/pages/moss-tts.service-inference.ts"}
+{"path":"infrastructure/services/inferences/pages/music-gen.service-inference.ts"}
+{"path":"infrastructure/services/inferences/pages/ollama.service-inference.ts"}
+{"path":"infrastructure/services/inferences/pages/qwen3-tts.service-inference.ts"}
+{"path":"infrastructure/services/inferences/pages/segment-rembg.service-inference.ts"}
+{"path":"infrastructure/services/inferences/pages/traffic-cop.service-inference.ts"}
+{"path":"infrastructure/services/inferences/pages/voxcpm2.service-inference.ts"}
+{"path":"infrastructure/services/inferences/pages/whisper-stt.service-inference.ts"}

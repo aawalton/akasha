@@ -1,0 +1,9 @@
+{"path":"checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.decision.code.ts"}
+{"path":"checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.decision.test-fixtures.ts"}
+{"path":"pages/indexes/modules/answering/index-answering.module.code.ts"}
+{"path":"pages/indexes/modules/indexing/indexing.module.code.ts"}
+{"path":"pages/indexes/modules/indexing/indexing.module.test-fixtures.ts"}
+{"path":"pages/indexes/modules/indexing/indexing.module.test.ts"}
+{"path":"pages/indexes/modules/settling/index-settling.module.code.ts"}
+{"path":"pages/indexes/rule/index-rule.index.test.ts"}
+{"path":"pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"}

@@ -1,0 +1,9 @@
+{"path":"agent/seat/supervisors/supervisor-loop/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-resuming/modules/supervisor-limit-resume/supervisor-limit-resume.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-resuming/modules/supervisor-wait-resume/supervisor-wait-resume.module.code.ts"}
+{"path":"alan/harness/alanwalton-ios-notification/modules/push-notifier-tick/push-notifier-tick.module.code.ts"}
+{"path":"alan/harness/supabase-auth/modules/protected-user/protected-user.module.code.ts"}
+{"path":"commands/pages/temper/inventory/buy-rule/list/temper-inventory-buy-rule-list.command.code.ts"}
+{"path":"commands/pages/temper/inventory/snapshot/temper-inventory-snapshot.command.code.ts"}
+{"path":"persons/modules/push-apps/push-apps.module.code.ts"}
+{"path":"temper/commands/modules/inventory-settings-handle/inventory-settings-handle.module.code.ts"}

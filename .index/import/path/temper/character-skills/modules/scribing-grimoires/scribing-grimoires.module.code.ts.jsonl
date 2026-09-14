@@ -1,0 +1,11 @@
+{"path":"temper/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"}
+{"path":"temper/character-skills/modules/scribed-skill-source/scribed-skill-source.module.code.ts"}
+{"path":"temper/character-skills/modules/scribed-skill-template/scribed-skill-template.module.code.ts"}
+{"path":"temper/character-skills/modules/scribed-skill-types/scribed-skill-types.module.code.ts"}
+{"path":"temper/character-skills/modules/scribed-skills/scribed-skills.module.code.ts"}
+{"path":"temper/character-skills/modules/scribing-script-description/scribing-script-description.module.code.ts"}
+{"path":"temper/player-completion/modules/completion-scribing-progress/completion-scribing-progress.module.code.ts"}
+{"path":"temper/web/modules/scribing-panel-card/scribing-panel-card.module.code.tsx"}
+{"path":"temper/web/modules/scribing-selection-dialog/scribing-selection-dialog.module.code.tsx"}
+{"path":"temper/web/modules/script-edit-dialog/script-edit-dialog.module.code.tsx"}
+{"path":"temper/web/modules/use-scribed-skills/use-scribed-skills.module.code.ts"}

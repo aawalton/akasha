@@ -1,0 +1,6 @@
+{"path":"alan/web/.server/picture-answering/picture-answering.module.code.ts"}
+{"path":"persons/modules/device-secret-keeping/device-secret-keeping.module.code.ts"}
+{"path":"persons/modules/device-token-registration/device-token-registration.module.code.ts"}
+{"path":"persons/modules/enrolment/person-enrolment.module.test-fixtures.ts"}
+{"path":"persons/modules/enrolment/person-enrolment.module.test.ts"}
+{"path":"persons/modules/route-access/route-access.module.code.ts"}

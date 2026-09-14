@@ -1,0 +1,16 @@
+{"path":"agent/model/account/modules/credential-push/model-account-credential-push.module.code.ts"}
+{"path":"agent/model/account/modules/credential-push/model-account-credential-push.module.test-fixtures.ts"}
+{"path":"agent/model/account/modules/making/model-account-making.module.code.ts"}
+{"path":"agent/seat/stopping/seat-stopping.module.test.ts"}
+{"path":"alan/track/modules/landing/track-landing.module.code.ts"}
+{"path":"alan/track/modules/landing/track-landing.module.test.ts"}
+{"path":"changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"}
+{"path":"commands/modules/apply-running/apply-running.module.code.ts"}
+{"path":"commands/modules/applying/applying.module.test.ts"}
+{"path":"commands/modules/change-preparing/change-preparing.module.test.ts"}
+{"path":"commands/modules/mechanical-filing/mechanical-filing.module.test.ts"}
+{"path":"commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts"}
+{"path":"commands/pages/music/capture/music-capture.command.test-fixtures.ts"}
+{"path":"commands/pages/music/import-artist/music-import-artist.command.test.ts"}
+{"path":"commands/pages/music/rate/music-rate.command.test.ts"}
+{"path":"pages/commands/modules/page-secret-acting/page-secret-acting.module.test.ts"}

@@ -1,0 +1,8 @@
+{"path":"domains/sentence-shapes/closing-count/closing-count.sentence-shape.test.ts"}
+{"path":"domains/sentence-shapes/lone-determiner/lone-determiner.sentence-shape.test.ts"}
+{"path":"domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.test.ts"}
+{"path":"domains/sentence-shapes/lone-quantifier/lone-quantifier.sentence-shape.test.ts"}
+{"path":"domains/sentence-shapes/partitive-quantifier/partitive-quantifier.sentence-shape.test.ts"}
+{"path":"domains/standard-agent-english/modules/prose-pattern/prose-pattern.module.test-fixtures.ts"}
+{"path":"domains/standard-agent-english/modules/prose-pattern/prose-pattern.module.test.ts"}
+{"path":"domains/standard-agent-english/modules/prose-restating/prose-restating.module.test.ts"}

@@ -1,0 +1,17 @@
+{"path":"commands/pages/read/read.command.test-fixtures.ts"}
+{"path":"domains/context/modules/agent-stated/agent-stated.module.test.ts"}
+{"path":"domains/context/modules/warranting/warranting.module.test.ts"}
+{"path":"domains/context/warrants/agent-akasha/agent-akasha.context-warrant.test.ts"}
+{"path":"domains/context/warrants/agent-role/agent-role.context-warrant.test.ts"}
+{"path":"domains/context/warrants/assignment-itself/assignment-itself.context-warrant.test.ts"}
+{"path":"domains/context/warrants/domain-ancestors/domain-ancestors.context-warrant.test.ts"}
+{"path":"domains/context/warrants/file-domain/file-domain.context-warrant.test.ts"}
+{"path":"domains/context/warrants/file-page-type/file-page-type.context-warrant.test.ts"}
+{"path":"domains/context/warrants/file-property-file/file-property-file.context-warrant.test.ts"}
+{"path":"domains/context/warrants/file-property/file-property.context-warrant.test.ts"}
+{"path":"domains/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.test.ts"}
+{"path":"domains/context/warrants/person-itself/person-itself.context-warrant.test.ts"}
+{"path":"domains/context/warrants/persona-itself/persona-itself.context-warrant.test.ts"}
+{"path":"domains/context/warrants/role-itself/role-itself.context-warrant.test.ts"}
+{"path":"domains/context/warrants/seat-persona/seat-persona.context-warrant.test.ts"}
+{"path":"testing-system/test-fixtures/repo-seeding/repo-seeding.test-fixture.code.ts"}

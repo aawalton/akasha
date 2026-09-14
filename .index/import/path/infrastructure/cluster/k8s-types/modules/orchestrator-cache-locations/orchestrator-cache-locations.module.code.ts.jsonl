@@ -1,0 +1,13 @@
+{"path":"alan/atlas-web/alanwalton-atlas/alanwalton-atlas.manifest.code.ts"}
+{"path":"alan/web/alanwalton-web/alanwalton-web.manifest.code.ts"}
+{"path":"infrastructure/cluster/k8s-types/modules/orchestrator-cache-helpers/orchestrator-cache-helpers.module.code.ts"}
+{"path":"infrastructure/cluster/k8s-types/modules/orchestrator-cache/orchestrator-cache.module.code.ts"}
+{"path":"infrastructure/git-transport/janitor/git-transport-janitor.manifest.code.ts"}
+{"path":"infrastructure/git-transport/modules/bare-repo-init/bare-repo-init.module.code.ts"}
+{"path":"infrastructure/git-transport/modules/transport-deployment/transport-deployment.module.code.ts"}
+{"path":"infrastructure/job/modules/deploy-job/deploy-job.module.code.ts"}
+{"path":"infrastructure/storage/backups/retention/seaweedfs-backup-longtail/seaweedfs-backup-longtail.manifest.code.ts"}
+{"path":"products/archive-of-worlds/web/manifests/archive-of-worlds-web-manifests.manifest.code.ts"}
+{"path":"products/audhdalan/web/manifests/audhdalan-web-manifests.manifest.code.ts"}
+{"path":"products/smilingjenny/web/manifests/smilingjenny-web-manifests.manifest.code.ts"}
+{"path":"temper/web/manifests/temper-web-manifests.manifest.code.ts"}

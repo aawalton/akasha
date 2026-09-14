@@ -1,0 +1,12 @@
+{"path":"changes/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.code.ts"}
+{"path":"checks/code-checks/pages/id-is-a-uuid-version-7/id-is-a-uuid-version-7.code-check.decision.code.ts"}
+{"path":"commands/modules/value-minting/value-minting.module.code.ts"}
+{"path":"commands/modules/value-minting/value-minting.module.test.ts"}
+{"path":"commands/pages/chess/puzzles/import/chess-puzzles-import.command.code.ts"}
+{"path":"commands/pages/music/capture/music-capture.command.code.ts"}
+{"path":"commands/pages/music/capture/music-capture.command.test.ts"}
+{"path":"commands/pages/track/modules/session-rows/session-rows.module.code.ts"}
+{"path":"commands/pages/track/session/modules/session-relationships/session-relationships.module.code.ts"}
+{"path":"pages/ids/modules/uuid-version-7/uuid-version-7.module.test.ts"}
+{"path":"story/wandering-inn/modules/sync-run-recording/sync-run-recording.module.code.ts"}
+{"path":"temper/watcher/modules/watcher-task-progress/watcher-task-progress.module.code.ts"}

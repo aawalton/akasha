@@ -1,0 +1,6 @@
+{"path":"commands/pages/temper/inventory/env-parity/temper-inventory-env-parity.command.code.ts"}
+{"path":"commands/pages/temper/inventory/explain/temper-inventory-explain.command.code.ts"}
+{"path":"commands/pages/temper/inventory/outcome-parity/temper-inventory-outcome-parity.command.code.ts"}
+{"path":"commands/pages/temper/inventory/parity/temper-inventory-parity.command.code.ts"}
+{"path":"commands/pages/temper/inventory/record-parity/temper-inventory-record-parity.command.code.ts"}
+{"path":"temper/commands/modules/inventory-explain-capabilities/inventory-explain-capabilities.module.test.ts"}

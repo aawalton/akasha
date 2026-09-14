@@ -1,0 +1,3 @@
+{"path":"commands/pages/talos/apply/talos-apply.command.code.ts"}
+{"path":"commands/pages/talos/secret-gen/talos-secret-gen.command.code.ts"}
+{"path":"infrastructure/cluster/provisioning/talos/modules/sops/sops.module.test.ts"}

@@ -1,0 +1,5 @@
+{"path":"commands/pages/deploy/modules/inference-installing/deploy-inference-installing.module.code.ts"}
+{"path":"infrastructure/inference/commands/modules/inference-answering/inference-answering.module.code.ts"}
+{"path":"infrastructure/inference/pool/modules/inference-hosts/inference-hosts.module.code.ts"}
+{"path":"infrastructure/inference/pool/modules/pool-config-build/pool-config-build.module.code.ts"}
+{"path":"infrastructure/inference/pool/modules/provision-script/provision-script.module.code.ts"}

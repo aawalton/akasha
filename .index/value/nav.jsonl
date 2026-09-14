@@ -1,0 +1,11 @@
+{"path":"pages/navs/pages/anime-and-shows.nav.ts","value":{"id":"01a06577-2613-7002-b948-ecff78394ae7","type":"nav","slug":"anime-and-shows","title":"Anime & Shows","icon":"tv","navPlace":3,"appSlug":"archive-of-worlds"}}
+{"path":"pages/navs/pages/authors.nav.ts","value":{"id":"01a06577-2613-7004-a7f1-a996eef77421","type":"nav","slug":"authors","title":"Authors","icon":"users","navPlace":1,"appSlug":"archive-of-worlds"}}
+{"path":"pages/navs/pages/books.nav.ts","value":{"id":"01a06577-2613-7005-99b8-cfd9e21ea68b","type":"nav","slug":"books","title":"Books","icon":"book-open","navPlace":0,"appSlug":"archive-of-worlds"}}
+{"path":"pages/navs/pages/idle-lineup-2.nav.ts","value":{"id":"01a06577-2613-700e-80e7-42477b941f9d","type":"nav","slug":"idle-lineup-2","title":"Lineup","icon":"swords","navPlace":0}}
+{"path":"pages/navs/pages/idle-lineup.nav.ts","value":{"id":"01a06577-2613-700f-8b82-8ec2f3e086b1","type":"nav","slug":"idle-lineup","title":"Lineup","icon":"swords","navPlace":0}}
+{"path":"pages/navs/pages/idle-roster.nav.ts","value":{"id":"01a06577-2613-7010-961a-a4695ecfafb6","type":"nav","slug":"idle-roster","title":"The Roster","icon":"users","navPlace":0,"backHref":"/game/idle-3ffb32b7","drawCost":10000000}}
+{"path":"pages/navs/pages/series.nav.ts","value":{"id":"01a06577-2613-7016-8650-9456c1a6f4b1","type":"nav","slug":"series","title":"Series","icon":"library","navPlace":2,"appSlug":"archive-of-worlds"}}
+{"path":"pages/navs/pages/tasks.nav.ts","value":{"id":"01a06577-2613-7018-84f7-f596a7242626","type":"nav","slug":"tasks","title":"Tasks","icon":"SquareCheckBig","navPlace":12,"appSlug":"alanwalton","mobilePinOrder":1}}
+{"path":"pages/navs/pages/temper-characters.nav.ts","value":{"id":"01a06577-2613-7019-83c5-8561578d8de9","type":"nav","slug":"temper-characters","title":"Characters","icon":"swords","navPlace":1,"appSlug":"temper"}}
+{"path":"pages/navs/pages/temper-dungeons.nav.ts","value":{"id":"01a06577-2613-701a-80e7-801c65170eab","type":"nav","slug":"temper-dungeons","title":"Dungeons","icon":"file-text","navPlace":2,"appSlug":"temper"}}
+{"path":"pages/navs/pages/temper-tasks.nav.ts","value":{"id":"01a06577-2613-701c-9a56-98ee3786d7a2","type":"nav","slug":"temper-tasks","title":"Temper Tasks","icon":"CalendarCheck","navPlace":13,"appSlug":"alanwalton","mobilePinOrder":2}}

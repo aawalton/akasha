@@ -1,0 +1,5 @@
+{"path":"commands/pages/model/gateway/swap/model-gateway-swap.command.code.ts"}
+{"path":"commands/pages/seat/messaged/seat-messaged.command.code.ts"}
+{"path":"commands/pages/seat/reset/seat-reset.command.code.ts"}
+{"path":"commands/pages/seat/resume/seat-resume.command.code.ts"}
+{"path":"commands/pages/seat/supervisor/stop/seat-supervisor-stop.command.code.ts"}

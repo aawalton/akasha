@@ -1,0 +1,9 @@
+{"path":"persons/modules/enrolment/person-enrolment.module.test-fixtures.ts"}
+{"path":"persons/modules/route-access/route-access.module.test.ts"}
+{"path":"temper/items-addon/modules/inventory-eso-eval-env/inventory-eso-eval-env.module.code.ts"}
+{"path":"temper/items-addon/modules/inventory-explain-slash-command/inventory-explain-slash-command.module.code.ts"}
+{"path":"temper/items-addon/modules/inventory-explain-trace-builder/inventory-explain-trace-builder.module.code.ts"}
+{"path":"temper/items-addon/modules/inventory-rules-core-character-finders/inventory-rules-core-character-finders.module.code.ts"}
+{"path":"temper/items-addon/modules/inventory-rules-core-inspire/inventory-rules-core-inspire.module.code.ts"}
+{"path":"temper/items-addon/modules/inventory-rules-core-motif-knowledge/inventory-rules-core-motif-knowledge.module.code.ts"}
+{"path":"utils/narrow/modules/record-field/record-field.module.code.ts"}

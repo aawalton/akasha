@@ -1,0 +1,5 @@
+{"path":"infrastructure/inference/clients/modules/comfy-client/comfy-client.module.code.ts"}
+{"path":"infrastructure/inference/generations/wan/modules/backbone/wan-backbone.module.code.ts"}
+{"path":"infrastructure/inference/generations/wan/modules/extend-graph/wan-extend-graph.module.code.ts"}
+{"path":"infrastructure/inference/generations/wan/modules/i2v-graph/wan-i2v-graph.module.code.ts"}
+{"path":"infrastructure/inference/generations/zimage/modules/graph/zimage-graph.module.code.ts"}

@@ -1,0 +1,9 @@
+{"path":"temper/characters-stats/modules/formula-types/formula-types.module.code.ts"}
+{"path":"temper/characters-stats/modules/metric-display-formula/metric-display-formula.module.code.ts"}
+{"path":"temper/characters-stats/modules/metric-formulas/metric-formulas.module.code.ts"}
+{"path":"temper/companions-core/modules/companion-effect-sources/companion-effect-sources.module.code.ts"}
+{"path":"temper/companions-core/modules/companion-metric-display-formula/companion-metric-display-formula.module.code.ts"}
+{"path":"temper/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"}
+{"path":"temper/companions-core/modules/companions-base-source/companions-base-source.module.code.ts"}
+{"path":"temper/formula-framework/modules/effect-source/effect-source.module.code.ts"}
+{"path":"temper/formula-framework/modules/source-file/source-file.module.code.ts"}

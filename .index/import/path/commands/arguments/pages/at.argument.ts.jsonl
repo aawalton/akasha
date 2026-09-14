@@ -1,0 +1,13 @@
+{"path":"commands/pages/track/modules/session-rows/session-rows.module.code.ts"}
+{"path":"commands/pages/track/modules/session-rows/session-rows.module.test.ts"}
+{"path":"commands/pages/track/session/amend/track-session-amend.command.code.ts"}
+{"path":"commands/pages/track/session/amend/track-session-amend.command.test.ts"}
+{"path":"commands/pages/track/session/close/track-session-close.command.code.ts"}
+{"path":"commands/pages/track/session/close/track-session-close.command.test.ts"}
+{"path":"commands/pages/track/session/drop/track-session-drop.command.code.ts"}
+{"path":"commands/pages/track/session/open/track-session-open.command.code.ts"}
+{"path":"commands/pages/track/session/open/track-session-open.command.test.ts"}
+{"path":"commands/pages/track/session/split/track-session-split.command.code.ts"}
+{"path":"commands/pages/track/session/split/track-session-split.command.test.ts"}
+{"path":"commands/pages/track/session/switch/track-session-switch.command.code.ts"}
+{"path":"commands/pages/track/session/switch/track-session-switch.command.test.ts"}

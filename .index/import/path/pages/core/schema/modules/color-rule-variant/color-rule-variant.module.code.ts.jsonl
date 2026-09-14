@@ -1,0 +1,13 @@
+{"path":"pages/calendar-date-properties/calendar-date-property.page-type.property-badge-component.code.tsx"}
+{"path":"pages/calendar-time-properties/calendar-time-property.page-type.property-badge-component.code.tsx"}
+{"path":"pages/core/modules/page-data/page-data.module.code.ts"}
+{"path":"pages/core/modules/resolve-badge-variant/resolve-badge-variant.module.code.ts"}
+{"path":"pages/core/schema/modules/badge-display/badge-display.module.code.ts"}
+{"path":"pages/instant-properties/instant-property.page-type.property-badge-component.code.tsx"}
+{"path":"pages/number-properties/number-property.page-type.property-badge-component.code.tsx"}
+{"path":"pages/ui/components/modules/page-detail-properties-shared/page-detail-properties-shared.module.code.tsx"}
+{"path":"pages/ui/components/modules/progress-property-badge/progress-property-badge.module.code.tsx"}
+{"path":"pages/ui/components/modules/relation-display/relation-display.module.code.ts"}
+{"path":"pages/ui/components/modules/select-property-badge/select-property-badge.module.code.tsx"}
+{"path":"pages/ui/components/view-engine/modules/build-page-resolver/build-page-resolver.module.code.ts"}
+{"path":"pages/ui/contexts/modules/page-resolver-context/page-resolver-context.module.code.tsx"}

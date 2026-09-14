@@ -1,0 +1,17 @@
+{"path":"design/interfaces/colors/pages/ash.color.ts","value":{"id":"01a0821f-fc1a-73d4-9bce-3c6517283825","type":"color","slug":"ash","title":"Ash","hex":"#3a3a3a"}}
+{"path":"design/interfaces/colors/pages/black.color.ts","value":{"id":"01a00bb6-a613-7000-b757-d93a88b16901","type":"color","slug":"black","title":"Black"}}
+{"path":"design/interfaces/colors/pages/blue.color.ts","value":{"id":"01a00bb6-ca3d-7000-880e-07d44e1ce938","type":"color","slug":"blue","title":"Blue","hex":"#2c5a9d"}}
+{"path":"design/interfaces/colors/pages/chalk.color.ts","value":{"id":"01a08220-322a-7dec-9148-554442d5eb7b","type":"color","slug":"chalk","title":"Chalk","hex":"#d7d7d7"}}
+{"path":"design/interfaces/colors/pages/charcoal.color.ts","value":{"id":"01a0821f-c73c-76ce-a656-e21cd5cb2279","type":"color","slug":"charcoal","title":"Charcoal","hex":"#141414"}}
+{"path":"design/interfaces/colors/pages/graphite.color.ts","value":{"id":"01a0821f-d800-7785-a63d-52e60cf922b0","type":"color","slug":"graphite","title":"Graphite","hex":"#222222"}}
+{"path":"design/interfaces/colors/pages/green.color.ts","value":{"id":"01a00bb6-c14a-7000-8674-f5c1d9db59e5","type":"color","slug":"green","title":"Green","hex":"#2d8c57"}}
+{"path":"design/interfaces/colors/pages/grey.color.ts","value":{"id":"01a00bb6-e574-7000-8e13-c2efc06d938b","type":"color","slug":"grey","title":"Grey","hex":"#8c8c8c"}}
+{"path":"design/interfaces/colors/pages/orange.color.ts","value":{"id":"01a00bb6-d335-7000-b77f-1a8e391e9034","type":"color","slug":"orange","title":"Orange","hex":"#be5a0a"}}
+{"path":"design/interfaces/colors/pages/purple.color.ts","value":{"id":"01a00bb6-dc4b-7000-8936-99535606c94e","type":"color","slug":"purple","title":"Purple","hex":"#7c4ca3"}}
+{"path":"design/interfaces/colors/pages/red.color.ts","value":{"id":"01a00bb6-af27-7000-a7eb-3846699db6a2","type":"color","slug":"red","title":"Red","hex":"#a51c32"}}
+{"path":"design/interfaces/colors/pages/silver.color.ts","value":{"id":"01a08220-20cb-7f62-ae88-9f2da45fb6c6","type":"color","slug":"silver","title":"Silver","hex":"#a4a4a4"}}
+{"path":"design/interfaces/colors/pages/slate.color.ts","value":{"id":"01a0821f-e9fb-7807-a728-b4fe4a447d2e","type":"color","slug":"slate","title":"Slate","hex":"#2e2e2e"}}
+{"path":"design/interfaces/colors/pages/soot.color.ts","value":{"id":"01a0821f-a3c8-76b5-99a4-5d222b936b65","type":"color","slug":"soot","title":"Soot","hex":"#010101"}}
+{"path":"design/interfaces/colors/pages/stone.color.ts","value":{"id":"01a08220-0eea-78f4-a69e-3507a99f2967","type":"color","slug":"stone","title":"Stone","hex":"#747474"}}
+{"path":"design/interfaces/colors/pages/text.color.ts","value":{"id":"01a00bbc-7646-7000-b7f5-8200ea4e25fc","type":"color","slug":"text","title":"Text"}}
+{"path":"design/interfaces/colors/pages/yellow.color.ts","value":{"id":"01a00bb6-b847-7000-96cb-cc0ac91865b9","type":"color","slug":"yellow","title":"Yellow","hex":"#b87b11"}}

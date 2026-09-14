@@ -1,0 +1,7 @@
+{"path":"agent/seat/declaration/modules/seat-running/seat-running.module.code.ts"}
+{"path":"agent/seat/launching/modules/seat-start/seat-start.module.code.ts"}
+{"path":"agent/seat/launching/modules/spawn-seat/spawn-seat.module.code.ts"}
+{"path":"agent/seat/name/modules/stands/seat-name-stands.module.code.ts"}
+{"path":"agent/seat/page/modules/beat/seat-page-beat.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-resuming/modules/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}

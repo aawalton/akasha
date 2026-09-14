@@ -1,0 +1,9 @@
+{"path":"temper/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"}
+{"path":"temper/character-build/modules/build-types/build-types.module.code.ts"}
+{"path":"temper/character-skills/modules/passive-queries/passive-queries.module.code.ts"}
+{"path":"temper/character-skills/modules/query-shapes/query-shapes.module.code.ts"}
+{"path":"temper/character-skills/modules/skill-line-queries/skill-line-queries.module.code.ts"}
+{"path":"temper/characters-stats/modules/extract-skills/extract-skills.module.code.ts"}
+{"path":"temper/web/modules/skill-bar-panel-card/skill-bar-panel-card.module.code.tsx"}
+{"path":"temper/web/modules/skills-panel/skills-panel.module.code.tsx"}
+{"path":"temper/web/modules/use-skill-bars/use-skill-bars.module.code.ts"}

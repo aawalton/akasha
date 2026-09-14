@@ -1,0 +1,8 @@
+{"path":"commands/pages/deploy/modules/web-putting-up/deploy-web-putting-up.module.code.ts"}
+{"path":"infrastructure/job/modules/deploy-job-running/deploy-job-running.module.code.ts"}
+{"path":"infrastructure/job/modules/deploy-job-running/deploy-job-running.module.test.ts"}
+{"path":"infrastructure/services/clusters/modules/web-app-building/web-app-building.module.code.ts"}
+{"path":"infrastructure/services/clusters/modules/web-app-building/web-app-building.module.test.ts"}
+{"path":"infrastructure/services/clusters/modules/workload-applying/workload-applying.module.code.ts"}
+{"path":"infrastructure/services/clusters/modules/workload-deploying/workload-deploying.module.test.ts"}
+{"path":"infrastructure/services/secrets/modules/placing/secret-placing.module.code.ts"}

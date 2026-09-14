@@ -1,0 +1,7 @@
+{"path":"alan/harness/code-editor/data-interfaces/modules/command-tree-assemble/command-tree-assemble.module.code.ts"}
+{"path":"alan/harness/code-editor/data-interfaces/modules/tree-drawing/tree-drawing.module.code.ts"}
+{"path":"checks/modules/audit-serving/audit-serving.module.code.ts"}
+{"path":"domains/modules/rows/domain-rows.module.test.ts"}
+{"path":"infrastructure/services/workstations/modules/service-alerting/service-alerting.module.code.ts"}
+{"path":"infrastructure/services/workstations/modules/service-alerting/service-alerting.module.test.ts"}
+{"path":"infrastructure/services/workstations/modules/service-watching/service-watching.module.code.ts"}

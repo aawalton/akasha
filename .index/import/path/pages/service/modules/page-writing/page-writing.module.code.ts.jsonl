@@ -1,0 +1,8 @@
+{"path":"pages/access/modules/file-write/file-write.module.code.ts"}
+{"path":"pages/access/modules/file-write/file-write.module.test.ts"}
+{"path":"pages/service/modules/call-reading/call-reading.module.code.ts"}
+{"path":"pages/service/modules/page-calling/page-calling.module.code.ts"}
+{"path":"pages/service/modules/page-listening/page-listening.module.code.ts"}
+{"path":"pages/service/modules/page-serving/page-serving.module.code.ts"}
+{"path":"pages/service/modules/page-serving/page-serving.module.test-fixtures.ts"}
+{"path":"pages/service/modules/page-writing/page-writing.module.test.ts"}

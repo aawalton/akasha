@@ -1,0 +1,8 @@
+{"path":"code/container-recipes/container-recipe.page-type.types.ts"}
+{"path":"code/eso-addons/eso-addon.page-type.types.ts"}
+{"path":"code/ios-apps/ios-app.page-type.types.ts"}
+{"path":"infrastructure/services/clusters/service-cluster.page-type.types.ts"}
+{"path":"infrastructure/services/inferences/service-inference.page-type.types.ts"}
+{"path":"infrastructure/services/vendored-workloads/vendored-workload.page-type.types.ts"}
+{"path":"infrastructure/services/web-apps/web-app.page-type.types.ts"}
+{"path":"infrastructure/services/workstations/service-workstation.page-type.types.ts"}

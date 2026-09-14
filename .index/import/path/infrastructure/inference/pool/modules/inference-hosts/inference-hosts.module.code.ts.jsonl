@@ -1,0 +1,5 @@
+{"path":"commands/pages/deploy/modules/inference-installing/deploy-inference-installing.module.code.ts"}
+{"path":"commands/pages/inference/capability-list/inference-capability-list.command.code.ts"}
+{"path":"commands/pages/inference/status/inference-status.command.code.ts"}
+{"path":"infrastructure/inference/commands/modules/inference-answering/inference-answering.module.code.ts"}
+{"path":"infrastructure/inference/pool/modules/cop-admin/cop-admin.module.code.ts"}

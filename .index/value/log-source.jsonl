@@ -1,0 +1,3 @@
+{"path":"agent/seat/log-source/pages/oauth-proxy-console.log-source.ts","value":{"id":"01a0657c-cb14-7832-8d4b-09d86276c2e5","type":"log-source","slug":"oauth-proxy-console"}}
+{"path":"agent/seat/log-source/pages/supervisor-console.log-source.ts","value":{"id":"01a0657c-cb14-79c9-a0a9-c350303cc2cf","type":"log-source","slug":"supervisor-console"}}
+{"path":"agent/seat/log-source/pages/supervisor-transport.log-source.ts","value":{"id":"01a0657c-cb14-7384-9b44-3e1a77026743","type":"log-source","slug":"supervisor-transport"}}

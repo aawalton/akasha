@@ -1,0 +1,11 @@
+{"path":"temper/characters-stats/modules/buff-or-debuff-explainer/buff-or-debuff-explainer.module.code.ts"}
+{"path":"temper/characters-stats/modules/diff-effect-sources/diff-effect-sources.module.code.ts"}
+{"path":"temper/characters-stats/modules/format-effects/format-effects.module.code.ts"}
+{"path":"temper/characters-stats/modules/metric-calculator/metric-calculator.module.code.ts"}
+{"path":"temper/characters-stats/modules/metric-display-formula/metric-display-formula.module.code.ts"}
+{"path":"temper/characters-stats/modules/metric-formulas/metric-formulas.module.code.ts"}
+{"path":"temper/characters-stats/modules/metric-value/metric-value.module.code.ts"}
+{"path":"temper/web/modules/metric-tree-renderer/metric-tree-renderer.module.code.tsx"}
+{"path":"temper/web/modules/stat-changes-description/stat-changes-description.module.code.tsx"}
+{"path":"temper/web/modules/stat-explanation-dialog/stat-explanation-dialog.module.code.tsx"}
+{"path":"temper/web/modules/stats-panel/stats-panel.module.code.tsx"}

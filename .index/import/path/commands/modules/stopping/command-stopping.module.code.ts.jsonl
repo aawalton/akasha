@@ -1,0 +1,6 @@
+{"path":"commands/modules/apply-running/apply-running.module.code.ts"}
+{"path":"commands/modules/calling/calling.module.code.ts"}
+{"path":"commands/modules/landing/landing.module.code.ts"}
+{"path":"commands/modules/stopping/command-stopping.module.test.ts"}
+{"path":"commands/pages/deploy/deploy.command.code.ts"}
+{"path":"commands/pages/infrastructure/service/run/infrastructure-service-run.command.code.ts"}

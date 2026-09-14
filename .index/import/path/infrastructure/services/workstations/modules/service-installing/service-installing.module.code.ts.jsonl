@@ -1,0 +1,10 @@
+{"path":"commands/modules/unit-landing/unit-landing.module.code.ts"}
+{"path":"commands/modules/unit-landing/unit-landing.module.test-fixtures.ts"}
+{"path":"commands/modules/unit-landing/unit-landing.module.test.ts"}
+{"path":"commands/pages/infrastructure/service/modules/service-unit-asking/service-unit-asking.module.code.ts"}
+{"path":"commands/pages/infrastructure/service/sweep/infrastructure-service-sweep.command.code.ts"}
+{"path":"infrastructure/services/modules/deploy-looping/deploy-looping.module.code.ts"}
+{"path":"infrastructure/services/workstations/modules/service-asking/service-asking.module.code.ts"}
+{"path":"infrastructure/services/workstations/modules/service-asking/service-asking.module.test.ts"}
+{"path":"infrastructure/services/workstations/modules/service-installing/service-installing.module.test.ts"}
+{"path":"infrastructure/services/workstations/modules/service-putting-up/service-putting-up.module.code.ts"}

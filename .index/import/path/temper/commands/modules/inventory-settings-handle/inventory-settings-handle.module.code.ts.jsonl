@@ -1,0 +1,5 @@
+{"path":"commands/pages/temper/inventory/automation/list/temper-inventory-automation-list.command.code.ts"}
+{"path":"commands/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.code.ts"}
+{"path":"temper/commands/modules/inventory-config-divergence/inventory-config-divergence.module.code.ts"}
+{"path":"temper/commands/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"}
+{"path":"temper/commands/modules/inventory-settings-handle/inventory-settings-handle.module.test.ts"}

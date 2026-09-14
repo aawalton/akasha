@@ -1,0 +1,9 @@
+{"path":"temper/lib-chat-message/modules/chat-history/chat-history.module.code.ts"}
+{"path":"temper/lib-chat-message/modules/chat-links/chat-links.module.code.ts"}
+{"path":"temper/lib-chat-message/modules/chat-message-formatters/chat-message-formatters.module.code.ts"}
+{"path":"temper/lib-chat-message/modules/chat-message-lib/chat-message-lib.module.code.ts"}
+{"path":"temper/lib-chat-message/modules/chat-message-lifecycle/chat-message-lifecycle.module.code.ts"}
+{"path":"temper/lib-chat-message/modules/chat-message-public-api/chat-message-public-api.module.code.ts"}
+{"path":"temper/lib-chat-message/modules/chat-message-slash-command/chat-message-slash-command.module.code.ts"}
+{"path":"temper/lib-chat-message/modules/chat-proxy/chat-proxy.module.code.ts"}
+{"path":"temper/lib-chat-message/modules/chat-saved-data/chat-saved-data.module.code.ts"}

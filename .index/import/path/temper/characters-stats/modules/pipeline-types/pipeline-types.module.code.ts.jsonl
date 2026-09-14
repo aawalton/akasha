@@ -1,0 +1,15 @@
+{"path":"temper/characters-stats/modules/build-state-adapter/build-state-adapter.module.code.ts"}
+{"path":"temper/characters-stats/modules/extract-account/extract-account.module.code.ts"}
+{"path":"temper/characters-stats/modules/extract-armor/extract-armor.module.code.ts"}
+{"path":"temper/characters-stats/modules/extract-attributes/extract-attributes.module.code.ts"}
+{"path":"temper/characters-stats/modules/extract-champion-points/extract-champion-points.module.code.ts"}
+{"path":"temper/characters-stats/modules/extract-consumables/extract-consumables.module.code.ts"}
+{"path":"temper/characters-stats/modules/extract-curse/extract-curse.module.code.ts"}
+{"path":"temper/characters-stats/modules/extract-jewelry/extract-jewelry.module.code.ts"}
+{"path":"temper/characters-stats/modules/extract-mundus/extract-mundus.module.code.ts"}
+{"path":"temper/characters-stats/modules/extract-passives/extract-passives.module.code.ts"}
+{"path":"temper/characters-stats/modules/extract-sets/extract-sets.module.code.ts"}
+{"path":"temper/characters-stats/modules/extract-skills/extract-skills.module.code.ts"}
+{"path":"temper/characters-stats/modules/extract-target/extract-target.module.code.ts"}
+{"path":"temper/characters-stats/modules/extract-weapons/extract-weapons.module.code.ts"}
+{"path":"temper/characters-stats/modules/passive-eligibility/passive-eligibility.module.code.ts"}

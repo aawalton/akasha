@@ -1,0 +1,8 @@
+{"path":"commands/modules/complexity-rowing/complexity-rowing.module.test.ts"}
+{"path":"commands/modules/report-answering/report-answering.module.test.ts"}
+{"path":"commands/pages/domain/dag/domain-dag.command.code.ts"}
+{"path":"commands/pages/domain/declaration-list/domain-declaration-list.command.code.ts"}
+{"path":"commands/pages/measure/complexity/cyclomatic/measure-complexity-cyclomatic.command.code.ts"}
+{"path":"commands/pages/measure/complexity/halstead/measure-complexity-halstead.command.code.ts"}
+{"path":"commands/pages/measure/complexity/maintainability/measure-complexity-maintainability.command.code.ts"}
+{"path":"commands/pages/measure/complexity/report/measure-complexity-report.command.code.ts"}

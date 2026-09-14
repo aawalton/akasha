@@ -1,0 +1,7 @@
+{"path":"alan/google/email/modules/email-operations/email-operations.module.code.ts"}
+{"path":"alan/google/email/modules/gmail-attachments/gmail-attachments.module.code.ts"}
+{"path":"alan/google/email/modules/gmail-drafts/gmail-drafts.module.code.ts"}
+{"path":"alan/google/email/modules/gmail-history/gmail-history.module.code.ts"}
+{"path":"alan/google/email/modules/gmail-messages/gmail-messages.module.code.ts"}
+{"path":"alan/google/email/modules/list-unsubscribe/list-unsubscribe.module.code.ts"}
+{"path":"alan/harness/inboxes/modules/count-polling/inbox-count-polling.module.code.ts"}

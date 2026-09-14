@@ -1,0 +1,12 @@
+{"path":"code/reading/modules/code-typing/code-typing.module.code.ts"}
+{"path":"code/reading/modules/typing-keeping/typing-keeping.module.code.ts"}
+{"path":"commands/pages/inference/edit/inference-edit.command.code.ts"}
+{"path":"commands/pages/inference/segment/inference-segment.command.code.ts"}
+{"path":"commands/pages/inference/upscale/inference-upscale.command.code.ts"}
+{"path":"commands/pages/inference/video-qa/inference-video-qa.command.code.ts"}
+{"path":"commands/pages/inference/wan/modules/wan-clip-rendering/wan-clip-rendering.module.code.ts"}
+{"path":"infrastructure/inference/runs/modules/store/inference-run-store.module.code.ts"}
+{"path":"infrastructure/storage/object-store/modules/s3-signing/s3-signing.module.code.ts"}
+{"path":"temper/watcher/modules/watcher-token-check/watcher-token-check.module.code.ts"}
+{"path":"temper/watcher/modules/watcher-token-check/watcher-token-check.module.test.ts"}
+{"path":"utils/hashing/modules/sha256-hex/sha256-hex.module.test.ts"}

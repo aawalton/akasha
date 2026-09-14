@@ -1,0 +1,6 @@
+{"path":"agent/seat/declaration/modules/seat-stated/seat-stated.module.code.ts"}
+{"path":"agent/seat/page/modules/seat-akasha-read/seat-akasha-read.module.code.ts"}
+{"path":"agent/seat/self-healing/modules/supervisor-reexec-mark/supervisor-reexec-mark.module.code.ts"}
+{"path":"agent/seat/session/modules/seat-rotated-session/seat-rotated-session.module.code.ts"}
+{"path":"agent/seat/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"}
+{"path":"agent/seat/usage/seat-usage.module.code.ts"}

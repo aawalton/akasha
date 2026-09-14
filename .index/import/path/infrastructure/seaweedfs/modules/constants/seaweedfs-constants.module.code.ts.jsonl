@@ -1,0 +1,12 @@
+{"path":"infrastructure/seaweedfs/filer/seaweedfs-filer.manifest.code.ts"}
+{"path":"infrastructure/seaweedfs/master/seaweedfs-master.manifest.code.ts"}
+{"path":"infrastructure/seaweedfs/modules/backup-manifests/seaweedfs-backup-manifests.module.code.ts"}
+{"path":"infrastructure/seaweedfs/modules/deployments/seaweedfs-deployments.module.code.ts"}
+{"path":"infrastructure/seaweedfs/modules/etcd-snapshot-manifests/seaweedfs-etcd-snapshot-manifests.module.code.ts"}
+{"path":"infrastructure/seaweedfs/modules/longtail-assets/seaweedfs-longtail-assets.module.code.ts"}
+{"path":"infrastructure/seaweedfs/modules/maintenance-manifests/seaweedfs-maintenance-manifests.module.code.ts"}
+{"path":"infrastructure/seaweedfs/modules/namespace/seaweedfs-namespace.module.code.ts"}
+{"path":"infrastructure/seaweedfs/modules/prune-manifests/seaweedfs-prune-manifests.module.code.ts"}
+{"path":"infrastructure/seaweedfs/modules/rclone-env/seaweedfs-rclone-env.module.code.ts"}
+{"path":"infrastructure/seaweedfs/s3-gateway/seaweedfs-s3-gateway.manifest.code.ts"}
+{"path":"infrastructure/seaweedfs/volume/seaweedfs-volume.manifest.code.ts"}

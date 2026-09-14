@@ -1,0 +1,4 @@
+{"path":"commands/pages/deploy/modules/ios-shipping/deploy-ios-shipping.module.code.ts"}
+{"path":"commands/pages/deploy/modules/web-putting-up/deploy-web-putting-up.module.code.ts"}
+{"path":"commands/pages/git/push/git-push.command.code.ts"}
+{"path":"infrastructure/job/modules/deploy-job-running/deploy-job-running.module.code.ts"}

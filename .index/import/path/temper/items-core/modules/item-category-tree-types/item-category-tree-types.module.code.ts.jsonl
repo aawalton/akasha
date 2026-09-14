@@ -1,0 +1,17 @@
+{"path":"commands/pages/temper/inventory/category-list/temper-inventory-category-list.command.code.ts"}
+{"path":"commands/pages/temper/inventory/category-list/temper-inventory-category-list.command.test.ts"}
+{"path":"commands/pages/temper/inventory/plan/temper-inventory-plan.command.code.ts"}
+{"path":"temper/items-core/modules/classify-item-node-ids/classify-item-node-ids.module.code.ts"}
+{"path":"temper/items-core/modules/classify-item/classify-item.module.code.ts"}
+{"path":"temper/items-core/modules/inventory-grouping-types/inventory-grouping-types.module.code.ts"}
+{"path":"temper/items-core/modules/inventory-grouping/inventory-grouping.module.code.ts"}
+{"path":"temper/items-core/modules/inventory-type-tree-builder/inventory-type-tree-builder.module.code.ts"}
+{"path":"temper/items-core/modules/item-category-tree-data/item-category-tree-data.module.code.ts"}
+{"path":"temper/items-rules-core/modules/inventory-rule-engine/inventory-rule-engine.module.code.ts"}
+{"path":"temper/items-rules-core/modules/inventory-rule-mapping/inventory-rule-mapping.module.code.ts"}
+{"path":"temper/items-rules-core/modules/item-category-tree-utils/item-category-tree-utils.module.code.ts"}
+{"path":"temper/items-rules-core/modules/rule-condition-states/rule-condition-states.module.code.ts"}
+{"path":"temper/items-rules-core/modules/rule-filter-types/rule-filter-types.module.code.ts"}
+{"path":"temper/items-rules-core/modules/rule-filter-utils/rule-filter-utils.module.code.ts"}
+{"path":"temper/items-rules-core/modules/traits-filter/traits-filter.module.code.ts"}
+{"path":"temper/trading-addon/modules/trading-listing-facts/trading-listing-facts.module.code.ts"}

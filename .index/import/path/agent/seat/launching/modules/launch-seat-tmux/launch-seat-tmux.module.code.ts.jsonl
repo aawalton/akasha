@@ -1,0 +1,6 @@
+{"path":"agent/seat/launching/modules/seat-start/seat-start.module.code.ts"}
+{"path":"agent/seat/launching/modules/spawn-seat/spawn-seat.module.code.ts"}
+{"path":"agent/seat/reviving/modules/resume-seat/resume-seat.module.code.ts"}
+{"path":"agent/seat/reviving/modules/seat-reset/seat-reset.module.code.ts"}
+{"path":"agent/seat/reviving/modules/seat-resume/seat-resume.module.code.ts"}
+{"path":"agent/seat/stopping/modules/stop-seat/stop-seat.module.code.ts"}

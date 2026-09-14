@@ -1,0 +1,8 @@
+{"path":"agent/seat/page/modules/seat-reading/seat-reading.module.code.ts"}
+{"path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts"}
+{"path":"commands/pages/deploy/modules/holding/deploy-holding.module.code.ts"}
+{"path":"commands/pages/seat/supervisor/restart/seat-supervisor-restart.command.code.ts"}
+{"path":"files/modules/exclusive/exclusive.module.code.ts"}
+{"path":"files/modules/lock-holder/lock-holder.module.test.ts"}
+{"path":"git/modules/holding/holding.module.code.ts"}
+{"path":"pages/modules/uncommitted/page-uncommitted.module.code.ts"}

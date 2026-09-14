@@ -1,0 +1,6 @@
+{"path":"temper/characters/roles/pages/dps.temper-character-role.ts","value":{"id":"01a05fd0-d549-7d2b-87af-dd034bd21cd5","type":"temper-character-role","slug":"dps","title":"DPS"}}
+{"path":"temper/characters/roles/pages/healer.temper-character-role.ts","value":{"id":"01a05fd0-d549-7341-930f-07b0bdbfc0df","type":"temper-character-role","slug":"healer","title":"Healer"}}
+{"path":"temper/characters/roles/pages/no-role.temper-character-role.ts","value":{"id":"01a05fd0-d54a-7877-8c3c-ea3f9e9cbe91","type":"temper-character-role","slug":"no-role","title":"No Role"}}
+{"path":"temper/characters/roles/pages/pvp.temper-character-role.ts","value":{"id":"01a05fd0-d54a-7bfb-90fd-2384b3efa8e2","type":"temper-character-role","slug":"pvp","title":"PvP"}}
+{"path":"temper/characters/roles/pages/solo.temper-character-role.ts","value":{"id":"01a05fd0-d54b-72fd-b37d-14b326dfd35d","type":"temper-character-role","slug":"solo","title":"Solo"}}
+{"path":"temper/characters/roles/pages/tank.temper-character-role.ts","value":{"id":"01a05fd0-d54b-7c23-9f4b-8a215677dd7c","type":"temper-character-role","slug":"tank","title":"Tank"}}

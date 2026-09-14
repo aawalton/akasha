@@ -1,0 +1,15 @@
+{"path":"pages/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts"}
+{"path":"pages/ui-store/collection/modules/pages-collection/pages-collection.module.code.ts"}
+{"path":"pages/ui-store/collection/modules/persistence/persistence.module.code.ts"}
+{"path":"pages/ui-store/collection/modules/store/store.module.code.ts"}
+{"path":"pages/ui-store/collection/modules/sync-controller/sync-controller.module.code.ts"}
+{"path":"pages/ui-store/optimistic/modules/convergence/convergence.module.code.ts"}
+{"path":"pages/ui-store/optimistic/modules/optimistic-mutation/optimistic-mutation.module.code.ts"}
+{"path":"pages/ui-store/optimistic/modules/plan/plan.module.code.ts"}
+{"path":"pages/ui-store/query/modules/condition-eval/condition-eval.module.code.ts"}
+{"path":"pages/ui-store/query/modules/id-suffix-pipeline/id-suffix-pipeline.module.code.ts"}
+{"path":"pages/ui-store/query/modules/regular-pipeline/regular-pipeline.module.code.ts"}
+{"path":"pages/ui-store/query/modules/sort-resolve/sort-resolve.module.code.ts"}
+{"path":"pages/ui-store/query/modules/view-match/view-match.module.code.ts"}
+{"path":"pages/ui-store/query/modules/view-pipeline/view-pipeline.module.code.ts"}
+{"path":"pages/ui/supabase/mutations/modules/build-predicted-row/build-predicted-row.module.code.ts"}

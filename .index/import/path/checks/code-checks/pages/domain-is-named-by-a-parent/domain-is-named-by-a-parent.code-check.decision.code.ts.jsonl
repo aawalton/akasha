@@ -1,0 +1,5 @@
+{"path":"checks/code-checks/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.code-check.audit.code.ts"}
+{"path":"checks/code-checks/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.code-check.check.code.ts"}
+{"path":"checks/code-checks/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.code-check.decision.test.ts"}
+{"path":"checks/code-checks/pages/invariant-restated-on-a-part-narrows-it/invariant-restated-on-a-part-narrows-it.code-check.decision.code.ts"}
+{"path":"checks/code-checks/pages/parts-list-is-sorted/parts-list-is-sorted.code-check.decision.code.ts"}

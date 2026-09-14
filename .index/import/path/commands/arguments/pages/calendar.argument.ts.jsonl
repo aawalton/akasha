@@ -1,0 +1,12 @@
+{"path":"commands/pages/google/calendar/event/create/google-calendar-event-create.command.code.ts"}
+{"path":"commands/pages/google/calendar/event/create/google-calendar-event-create.command.test.ts"}
+{"path":"commands/pages/google/calendar/event/delete/google-calendar-event-delete.command.code.ts"}
+{"path":"commands/pages/google/calendar/event/delete/google-calendar-event-delete.command.test.ts"}
+{"path":"commands/pages/google/calendar/event/list/google-calendar-event-list.command.code.ts"}
+{"path":"commands/pages/google/calendar/event/list/google-calendar-event-list.command.test.ts"}
+{"path":"commands/pages/google/calendar/event/rsvp/google-calendar-event-rsvp.command.code.ts"}
+{"path":"commands/pages/google/calendar/event/rsvp/google-calendar-event-rsvp.command.test.ts"}
+{"path":"commands/pages/google/calendar/event/show/google-calendar-event-show.command.code.ts"}
+{"path":"commands/pages/google/calendar/event/show/google-calendar-event-show.command.test.ts"}
+{"path":"commands/pages/google/calendar/event/update/google-calendar-event-update.command.code.ts"}
+{"path":"commands/pages/google/calendar/event/update/google-calendar-event-update.command.test.ts"}

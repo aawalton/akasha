@@ -1,0 +1,5 @@
+{"path":"alan/harness/sms-core/modules/handle-inbound/handle-inbound.module.code.ts"}
+{"path":"alan/harness/sms-core/modules/normalize/normalize.module.code.ts"}
+{"path":"alan/harness/sms-core/modules/normalize/normalize.module.test.ts"}
+{"path":"alan/harness/sms-core/modules/telnyx-inbound/telnyx-inbound.module.test.ts"}
+{"path":"alan/web/routes/alan-web-api-sms-webhook/alan-web-api-sms-webhook.route.code.ts"}

@@ -1,0 +1,5 @@
+{"path":"alan/google/email/modules/gmail-inbound-adapter/gmail-inbound-adapter.module.code.ts"}
+{"path":"alan/harness/email-watch/modules/email-rule-deciding/email-rule-deciding.module.code.ts"}
+{"path":"alan/harness/email-watch/modules/inbox-pass/inbox-pass.module.code.ts"}
+{"path":"alan/harness/email-watch/modules/inbox-run/inbox-run.module.code.ts"}
+{"path":"alan/harness/email-watch/modules/inbox-watching/inbox-watching.module.code.ts"}

@@ -1,0 +1,10 @@
+{"path":"alan/attributes/pages/charisma/charisma.attribute.code.ts"}
+{"path":"alan/attributes/pages/constitution/constitution.attribute.code.ts"}
+{"path":"alan/harness/attributes/modules/reading/attributes-reading.module.code.ts"}
+{"path":"alan/harness/plants/modules/reading/plants-reading.module.code.ts"}
+{"path":"alan/harness/readouts/modules/asking/readout-asking.module.test-fixtures.ts"}
+{"path":"alan/harness/readouts/modules/asking/readout-asking.module.test.ts"}
+{"path":"alan/harness/readouts/pages/upkeep-capacity/upkeep-capacity.readout.reading.code.ts"}
+{"path":"alan/harness/readouts/pages/upkeep-plants/upkeep-plants.readout.reading.code.ts"}
+{"path":"alan/harness/readouts/pages/upkeep-plants/upkeep-plants.readout.reading.test-fixtures.ts"}
+{"path":"temper/progressions/inboxes-temper-tasks/inboxes-temper-tasks.readout.reading.code.ts"}

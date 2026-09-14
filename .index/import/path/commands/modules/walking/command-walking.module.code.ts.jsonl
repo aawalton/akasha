@@ -1,0 +1,13 @@
+{"path":"checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.code.ts"}
+{"path":"checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"}
+{"path":"checks/code-checks/pages/no-refused-syntax/syntax-rules/command-export-named-for-its-slug/command-export-named-for-its-slug.syntax-rule.test.ts"}
+{"path":"checks/code-checks/pages/no-refused-syntax/syntax-rules/no-call-built-as-it-runs/no-call-built-as-it-runs.syntax-rule.code.ts"}
+{"path":"checks/code-checks/pages/no-refused-syntax/syntax-rules/no-command-spelling-its-own-call/no-command-spelling-its-own-call.syntax-rule.test.ts"}
+{"path":"checks/code-checks/pages/no-refused-syntax/syntax-rules/no-hyphenated-call/no-hyphenated-call.syntax-rule.code.ts"}
+{"path":"checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"}
+{"path":"code/shell/terminal/modules/terminal-calls/terminal-calls.module.code.ts"}
+{"path":"commands/modules/calling/calling.module.code.ts"}
+{"path":"commands/modules/leveling/command-leveling.module.code.ts"}
+{"path":"commands/modules/walking/command-walking.module.test.ts"}
+{"path":"commands/pages/page/tree/page-tree.command.code.ts"}
+{"path":"infrastructure/modules/calls/infrastructure-calls.module.code.ts"}

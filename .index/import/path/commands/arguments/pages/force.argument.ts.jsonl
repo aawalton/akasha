@@ -1,0 +1,17 @@
+{"path":"commands/pages/infrastructure/dev-server/bootstrap/infrastructure-dev-server-bootstrap.command.code.ts"}
+{"path":"commands/pages/seat/resume/seat-resume.command.code.ts"}
+{"path":"commands/pages/seat/supervisor/stop/seat-supervisor-stop.command.code.ts"}
+{"path":"commands/pages/talos/secret-gen/talos-secret-gen.command.code.ts"}
+{"path":"commands/pages/temper/community/addon-install/temper-community-addon-install.command.code.ts"}
+{"path":"commands/pages/temper/community/addon-update/temper-community-addon-update.command.code.ts"}
+{"path":"commands/pages/temper/inventory/buy-rule/delete/temper-inventory-buy-rule-delete.command.code.ts"}
+{"path":"commands/pages/temper/inventory/buy-rule/delete/temper-inventory-buy-rule-delete.command.test.ts"}
+{"path":"commands/pages/temper/inventory/buy-rule/update/temper-inventory-buy-rule-update.command.code.ts"}
+{"path":"commands/pages/temper/inventory/item-rule/delete/temper-inventory-item-rule-delete.command.code.ts"}
+{"path":"commands/pages/temper/inventory/item-rule/delete/temper-inventory-item-rule-delete.command.test.ts"}
+{"path":"commands/pages/temper/inventory/item-rule/update/temper-inventory-item-rule-update.command.code.ts"}
+{"path":"commands/pages/temper/inventory/rule/delete/temper-inventory-rule-delete.command.code.ts"}
+{"path":"commands/pages/temper/inventory/rule/delete/temper-inventory-rule-delete.command.test.ts"}
+{"path":"commands/pages/temper/inventory/rule/reorder/temper-inventory-rule-reorder.command.code.ts"}
+{"path":"commands/pages/temper/inventory/rule/update/temper-inventory-rule-update.command.code.ts"}
+{"path":"temper/commands/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"}

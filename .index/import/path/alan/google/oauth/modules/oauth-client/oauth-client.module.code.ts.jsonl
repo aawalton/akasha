@@ -1,0 +1,7 @@
+{"path":"alan/google/calendar/modules/calendar-auth/calendar-auth.module.code.ts"}
+{"path":"alan/google/calendar/modules/calendar-credentials/calendar-credentials.module.code.ts"}
+{"path":"alan/google/drive/modules/drive-auth/drive-auth.module.code.ts"}
+{"path":"alan/google/drive/modules/drive-credentials/drive-credentials.module.code.ts"}
+{"path":"alan/google/email/modules/gmail-auth/gmail-auth.module.code.ts"}
+{"path":"alan/google/email/modules/gmail-credentials/gmail-credentials.module.code.ts"}
+{"path":"alan/google/oauth/modules/oauth-refresh-token/oauth-refresh-token.module.code.ts"}

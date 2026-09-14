@@ -1,0 +1,3 @@
+{"path":"infrastructure/networks/auth-proxy/modules/cors/cors.module.code.ts"}
+{"path":"infrastructure/networks/auth-proxy/modules/server/auth-proxy-server.module.code.ts"}
+{"path":"infrastructure/networks/auth-proxy/modules/session-identity/session-identity.module.code.ts"}

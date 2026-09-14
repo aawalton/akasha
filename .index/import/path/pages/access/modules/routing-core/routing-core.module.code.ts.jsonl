@@ -1,0 +1,14 @@
+{"path":"pages/access/modules/file-read/file-read.module.code.ts"}
+{"path":"pages/access/modules/get/get.module.code.ts"}
+{"path":"pages/access/modules/ordered/ordered.module.code.ts"}
+{"path":"pages/access/modules/routing-core/routing-core.module.test.ts"}
+{"path":"pages/access/modules/universal-keys/universal-keys.module.code.ts"}
+{"path":"pages/ui-store/query/modules/condition-eval/condition-eval.module.code.ts"}
+{"path":"pages/ui-store/query/modules/condition-expr/condition-expr.module.code.ts"}
+{"path":"pages/ui-store/query/modules/regular-pipeline/regular-pipeline.module.code.ts"}
+{"path":"pages/ui-store/query/modules/sort-resolve/sort-resolve.module.code.ts"}
+{"path":"pages/ui/cache/modules/use-query/use-query.module.code.ts"}
+{"path":"pages/ui/cache/modules/use-view-query/use-view-query.module.code.ts"}
+{"path":"pages/ui/supabase/modules/hooks/hooks.module.code.ts"}
+{"path":"pages/ui/supabase/mutations/modules/build-patch-plan/build-patch-plan.module.code.ts"}
+{"path":"pages/ui/supabase/mutations/modules/build-predicted-row/build-predicted-row.module.code.ts"}

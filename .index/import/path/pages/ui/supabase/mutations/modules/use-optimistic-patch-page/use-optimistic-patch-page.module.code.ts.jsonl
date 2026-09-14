@@ -1,0 +1,12 @@
+{"path":"alan/web/modules/use-mark-read-on-end/use-mark-read-on-end.module.code.ts"}
+{"path":"pages/ui/supabase/modules/use-complete-page-optimistic/use-complete-page-optimistic.module.code.tsx"}
+{"path":"pages/ui/supabase/modules/use-nav-mutations/use-nav-mutations.module.code.ts"}
+{"path":"pages/ui/supabase/modules/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"}
+{"path":"pages/ui/supabase/modules/use-view-callbacks/use-view-callbacks.module.code.ts"}
+{"path":"temper/characters-character-ui/modules/use-characters/use-characters.module.code.ts"}
+{"path":"temper/companions-ui/modules/use-companions/use-companions.module.code.ts"}
+{"path":"temper/player-profile/modules/use-player/use-player.module.code.ts"}
+{"path":"temper/web/modules/characters-data-content/characters-data-content.module.code.tsx"}
+{"path":"temper/web/modules/companions-data-content/companions-data-content.module.code.tsx"}
+{"path":"temper/web/modules/plan-tab/plan-tab.module.code.tsx"}
+{"path":"temper/web/modules/version-history-dialog/version-history-dialog.module.code.tsx"}

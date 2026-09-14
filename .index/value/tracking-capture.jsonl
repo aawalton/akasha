@@ -1,0 +1,5 @@
+{"path":"alan/track/tracking-captures/pages/judgment.tracking-capture.ts","value":{"id":"01a0a01a-ff19-77a3-97d8-a0a138c6e41c","type":"tracking-capture","slug":"judgment","definition":"something weighing it and saying so"}}
+{"path":"alan/track/tracking-captures/pages/measurement.tracking-capture.ts","value":{"id":"01a0a01b-1686-7368-833b-6ed4dae6d46e","type":"tracking-capture","slug":"measurement","definition":"a device measuring it"}}
+{"path":"alan/track/tracking-captures/pages/report.tracking-capture.ts","value":{"id":"01a0a01b-2d5a-7bb7-81bc-b979032e5636","type":"tracking-capture","slug":"report","definition":"Alan saying so"}}
+{"path":"alan/track/tracking-captures/pages/testimony.tracking-capture.ts","value":{"id":"01a0a01b-4508-747d-8be7-245f1ccdf1bf","type":"tracking-capture","slug":"testimony","definition":"someone else saying so"}}
+{"path":"alan/track/tracking-captures/pages/trace.tracking-capture.ts","value":{"id":"01a0a01b-5fc4-7c84-a5ce-d26aa8b7b65a","type":"tracking-capture","slug":"trace","definition":"Alan using another system"}}

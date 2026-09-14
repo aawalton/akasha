@@ -1,0 +1,4 @@
+{"path":"commands/modules/change-freshness/change-freshness.module.test.ts"}
+{"path":"git/modules/commit-reading/commit-reading.module.test.ts"}
+{"path":"git/modules/holding/holding.module.test.ts"}
+{"path":"pages/modules/uncommitted/page-uncommitted.module.test.ts"}

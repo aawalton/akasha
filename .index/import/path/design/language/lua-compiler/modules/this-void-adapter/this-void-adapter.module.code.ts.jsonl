@@ -1,0 +1,4 @@
+{"path":"design/language/lua-compiler/modules/assignment-validation/assignment-validation.module.code.ts"}
+{"path":"design/language/lua-compiler/modules/builtins/builtins.module.code.ts"}
+{"path":"design/language/lua-compiler/modules/visit-access/visit-access.module.code.ts"}
+{"path":"design/language/lua-compiler/modules/visit-identifier/visit-identifier.module.code.ts"}

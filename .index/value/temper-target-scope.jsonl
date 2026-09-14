@@ -1,0 +1,4 @@
+{"path":"temper/catalog/temper-effects/temper-target-scopes/pages/area.temper-target-scope.ts","value":{"id":"019e5a4f-78ef-7c5d-82e9-43cf36e42ed3","type":"temper-target-scope","slug":"area","title":"Area","key":"area"}}
+{"path":"temper/catalog/temper-effects/temper-target-scopes/pages/cone.temper-target-scope.ts","value":{"id":"019e5a4f-78eb-7d16-a27e-7e368002f93f","type":"temper-target-scope","slug":"cone","title":"Cone","key":"cone"}}
+{"path":"temper/catalog/temper-effects/temper-target-scopes/pages/line.temper-target-scope.ts","value":{"id":"019e5a4f-78f2-7814-afe5-77d727109d8e","type":"temper-target-scope","slug":"line","title":"Line","key":"line"}}
+{"path":"temper/catalog/temper-effects/temper-target-scopes/pages/single.temper-target-scope.ts","value":{"id":"019e5a4f-78e7-758c-a100-d76802c0003f","type":"temper-target-scope","slug":"single","title":"Single","key":"single"}}

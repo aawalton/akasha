@@ -1,0 +1,8 @@
+{"path":"agent/claude-code/session/modules/session-watch/session-watch.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-child/modules/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-loop/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-rebinding/modules/supervisor-clear-rebind-wire/supervisor-clear-rebind-wire.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-rebinding/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-rebinding/modules/supervisor-rebind/supervisor-rebind.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-shutdown/modules/supervisor-lifecycle/supervisor-lifecycle.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-ticking/modules/supervisor-heartbeat/supervisor-heartbeat.module.code.ts"}

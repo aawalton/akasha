@@ -1,0 +1,3 @@
+{"path":"infrastructure/cluster/k8s-synth/modules/synth-discovery/synth-discovery.module.test.ts"}
+{"path":"infrastructure/cluster/k8s-synth/modules/synth-manifests/synth-manifests.module.code.ts"}
+{"path":"infrastructure/cluster/manifests/modules/orphan-resource-audit/orphan-resource-audit.module.code.ts"}

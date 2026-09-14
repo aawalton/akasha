@@ -1,0 +1,12 @@
+{"path":"changes/mechanical/prose/change/change-prose-pattern/change-prose-pattern.change-mechanical.test-fixtures.ts"}
+{"path":"checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.decision.code.ts"}
+{"path":"domains/plain-language/modules/dependency-graph/dependency-graph.module.test-fixtures.ts"}
+{"path":"domains/plain-language/modules/onnx-parsing/onnx-parsing.module.code.ts"}
+{"path":"domains/plain-language/modules/parse-cache/parse-cache.module.code.ts"}
+{"path":"domains/plain-language/modules/parse-cache/parse-cache.module.test.ts"}
+{"path":"domains/plain-language/modules/shape-predicate/shape-predicate.module.code.ts"}
+{"path":"domains/sentence-shapes/closing-count/closing-count.sentence-shape.code.ts"}
+{"path":"domains/sentence-shapes/lone-quantifier/lone-quantifier.sentence-shape.code.ts"}
+{"path":"domains/standard-agent-english/modules/prose-pattern/prose-pattern.module.code.ts"}
+{"path":"domains/standard-agent-english/modules/prose-restating/prose-restating.module.code.ts"}
+{"path":"domains/standard-agent-english/modules/prose-restating/prose-restating.module.test.ts"}

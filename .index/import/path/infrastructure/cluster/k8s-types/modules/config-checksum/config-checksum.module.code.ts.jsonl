@@ -1,0 +1,6 @@
+{"path":"infrastructure/cluster/k8s-types/modules/config-checksum/config-checksum.module.test.ts"}
+{"path":"infrastructure/container-image/buildkit/buildkit.manifest.code.ts"}
+{"path":"infrastructure/loki-service/modules/loki-manifests/loki-manifests.module.code.ts"}
+{"path":"infrastructure/loki-service/modules/promtail-manifests/promtail-manifests.module.code.ts"}
+{"path":"infrastructure/networks/cloudflared/cloudflared.manifest.code.ts"}
+{"path":"infrastructure/telemetry/grafana/grafana.manifest.code.ts"}

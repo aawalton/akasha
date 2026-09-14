@@ -1,0 +1,11 @@
+{"path":"agent/model/providers/properties/api-base.url-property.ts"}
+{"path":"alan/chess/puzzle-sets/properties/game-url.url-property.ts"}
+{"path":"alan/collections/externals/properties/external-link.url-property.ts"}
+{"path":"alan/collections/places/locations/properties/source-url.url-property.ts"}
+{"path":"alan/harness/readouts/widgets/properties/feed.url-property.ts"}
+{"path":"alan/relating/relationships/properties/relationship-linkedin-url.url-property.ts"}
+{"path":"alan/track/to-dos/properties/link.url-property.ts"}
+{"path":"alan/values/health/fitness/strength/exercises/properties/exercise-external-link.url-property.ts"}
+{"path":"alan/values/health/fitness/strength/exercises/properties/image-end-url.url-property.ts"}
+{"path":"alan/values/health/fitness/strength/exercises/properties/image-start-url.url-property.ts"}
+{"path":"infrastructure/machines/computers/properties/computer-link.url-property.ts"}

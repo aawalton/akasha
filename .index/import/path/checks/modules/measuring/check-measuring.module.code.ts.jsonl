@@ -1,0 +1,15 @@
+{"path":"checks/modules/measuring/check-measuring.module.test-fixtures.ts"}
+{"path":"checks/modules/measuring/check-measuring.module.test.ts"}
+{"path":"commands/pages/measure/audit/measure-audit.command.code.ts"}
+{"path":"commands/pages/measure/call/measure-call.command.code.ts"}
+{"path":"commands/pages/measure/change/measure-change.command.code.ts"}
+{"path":"commands/pages/measure/change/modules/change-measuring/change-measuring.module.code.ts"}
+{"path":"commands/pages/measure/change/modules/change-measuring/change-measuring.module.test.ts"}
+{"path":"commands/pages/measure/check/measure-check.command.code.ts"}
+{"path":"commands/pages/measure/command/measure-command.command.code.ts"}
+{"path":"commands/pages/measure/command/modules/command-measuring/command-measuring.module.code.ts"}
+{"path":"commands/pages/measure/command/modules/command-measuring/command-measuring.module.test.ts"}
+{"path":"commands/pages/measure/deploy/measure-deploy.command.code.ts"}
+{"path":"commands/pages/measure/guard/measure-guard.command.code.ts"}
+{"path":"commands/pages/measure/modules/gathering/measure-gathering.module.code.ts"}
+{"path":"commands/pages/measure/test/measure-test.command.code.ts"}

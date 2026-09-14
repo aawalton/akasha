@@ -1,0 +1,6 @@
+{"path":"checks/code-checks/pages/no-unused-exports/no-unused-exports.code-check.decision.code.ts"}
+{"path":"checks/modules/change-walking/change-walking.module.code.ts"}
+{"path":"code/reading/modules/code-typing/code-typing.module.code.ts"}
+{"path":"code/running/modules/code-format/code-format.module.code.ts"}
+{"path":"code/stylesheets/modules/source-globbing/source-globbing.module.code.ts"}
+{"path":"commands/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"}

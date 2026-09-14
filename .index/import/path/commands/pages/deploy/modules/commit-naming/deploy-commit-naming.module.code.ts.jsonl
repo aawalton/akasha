@@ -1,0 +1,4 @@
+{"path":"commands/pages/deploy/deploy.command.code.ts"}
+{"path":"commands/pages/deploy/deploy.command.test.ts"}
+{"path":"commands/pages/deploy/modules/check-judging/deploy-check-judging.module.code.ts"}
+{"path":"commands/pages/deploy/modules/commit-naming/deploy-commit-naming.module.test.ts"}

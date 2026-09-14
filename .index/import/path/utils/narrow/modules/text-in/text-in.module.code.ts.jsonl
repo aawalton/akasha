@@ -1,0 +1,10 @@
+{"path":"agent/seat/fleet/modules/seat-handle/seat-handle.module.code.ts"}
+{"path":"agent/seat/reviving/modules/seat-reset/seat-reset.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-action/modules/seat-action/seat-action.module.code.ts"}
+{"path":"alan/collections/externals/modules/external-identity-reading/external-identity-reading.module.code.ts"}
+{"path":"alan/track/daily/modules/day-messages-mining/day-messages-mining.module.code.ts"}
+{"path":"code/editor/extension/modules/subagent-core/subagent-core.module.code.ts"}
+{"path":"domains/modules/work-initiatives/work-initiatives.module.code.ts"}
+{"path":"temper/watcher/modules/watcher-import-tasks/watcher-import-tasks.module.code.ts"}
+{"path":"utils/narrow/modules/text-at/text-at.module.code.ts"}
+{"path":"utils/narrow/modules/text-in/text-in.module.test.ts"}

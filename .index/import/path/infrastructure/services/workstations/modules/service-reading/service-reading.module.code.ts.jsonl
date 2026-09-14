@@ -1,0 +1,7 @@
+{"path":"commands/modules/unit-landing/unit-landing.module.code.ts"}
+{"path":"commands/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"}
+{"path":"commands/pages/infrastructure/service/modules/service-unit-asking/service-unit-asking.module.code.ts"}
+{"path":"commands/pages/infrastructure/service/sweep/infrastructure-service-sweep.command.code.ts"}
+{"path":"infrastructure/services/workstations/modules/service-health/service-health.module.code.ts"}
+{"path":"infrastructure/services/workstations/modules/service-putting-up/service-putting-up.module.code.ts"}
+{"path":"infrastructure/services/workstations/modules/service-reading/service-reading.module.test.ts"}

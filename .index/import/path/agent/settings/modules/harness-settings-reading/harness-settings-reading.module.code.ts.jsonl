@@ -1,0 +1,7 @@
+{"path":"agent/modules/launch-flags/launch-flags.module.code.ts"}
+{"path":"agent/modules/tool-access/tool-access.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-account/modules/supervisor-claude-config/supervisor-claude-config.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-child/modules/supervisor-agent-settings/supervisor-agent-settings.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-child/modules/supervisor-agent-settings/supervisor-agent-settings.module.test.ts"}
+{"path":"agent/seat/supervisors/supervisor-child/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-remote-control/modules/env/supervisor-remote-control-env.module.code.ts"}

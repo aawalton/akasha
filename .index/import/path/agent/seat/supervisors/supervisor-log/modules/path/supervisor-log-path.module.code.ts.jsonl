@@ -1,0 +1,8 @@
+{"path":"agent/model/gateway/modules/proxy-entry/proxy-entry.module.code.ts"}
+{"path":"agent/seat/oauth-proxy/modules/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-log/modules/path/supervisor-log-path.module.test.ts"}
+{"path":"agent/seat/supervisors/supervisor-log/modules/supervisor-console/supervisor-console.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-log/modules/sweeping/supervisor-log-sweeping.module.code.ts"}
+{"path":"agent/subagent/modules/census/subagent-census.module.code.ts"}
+{"path":"agent/subagent/modules/presence/subagent-presence.module.code.ts"}
+{"path":"commands/pages/model/gateway/start/modules/proxy-run/proxy-run.module.code.ts"}

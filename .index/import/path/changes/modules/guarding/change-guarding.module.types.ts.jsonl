@@ -1,0 +1,17 @@
+{"path":"changes/guards/pages/claimed-file-not-left-behind/claimed-file-not-left-behind.change-guard.code.ts"}
+{"path":"changes/guards/pages/field-key-not-carried-twice/field-key-not-carried-twice.change-guard.code.ts"}
+{"path":"changes/guards/pages/folder-not-left-named/folder-not-left-named.change-guard.code.ts"}
+{"path":"changes/guards/pages/identity-not-already-held/identity-not-already-held.change-guard.code.ts"}
+{"path":"changes/guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts"}
+{"path":"changes/guards/pages/import-reaches-a-file/import-reaches-a-file.change-guard.code.ts"}
+{"path":"changes/guards/pages/page-type-carries-no-pages/page-type-carries-no-pages.change-guard.code.ts"}
+{"path":"changes/guards/pages/plural-slug-not-already-held/plural-slug-not-already-held.change-guard.code.ts"}
+{"path":"changes/guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.code.ts"}
+{"path":"changes/guards/pages/relation-reaches-a-page/relation-reaches-a-page.change-guard.code.ts"}
+{"path":"changes/guards/pages/slug-names-one-property/slug-names-one-property.change-guard.code.ts"}
+{"path":"changes/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.test.ts"}
+{"path":"changes/modules/guarding/change-guarding.module.code.ts"}
+{"path":"changes/modules/guarding/change-guarding.module.test-fixtures.ts"}
+{"path":"changes/modules/guarding/change-guarding.module.test.ts"}
+{"path":"changes/runners/modules/change-loading/change-loading.module.code.ts"}
+{"path":"changes/runners/modules/change-loading/change-loading.module.test.ts"}

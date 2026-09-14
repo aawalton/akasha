@@ -1,0 +1,17 @@
+{"path":"temper/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"}
+{"path":"temper/build-codec/modules/build-codec-v52-champion-points/build-codec-v52-champion-points.module.code.ts"}
+{"path":"temper/champion-points/modules/craft-passives/craft-passives.module.code.ts"}
+{"path":"temper/champion-points/modules/craft-slottables/craft-slottables.module.code.ts"}
+{"path":"temper/champion-points/modules/fitness-passives/fitness-passives.module.code.ts"}
+{"path":"temper/champion-points/modules/fitness-slottables/fitness-slottables.module.code.ts"}
+{"path":"temper/champion-points/modules/warfare-passives/warfare-passives.module.code.ts"}
+{"path":"temper/champion-points/modules/warfare-slottables/warfare-slottables.module.code.ts"}
+{"path":"temper/character-build/modules/build-factory/build-factory.module.code.ts"}
+{"path":"temper/character-build/modules/build-types/build-types.module.code.ts"}
+{"path":"temper/characters-stats/modules/extract-champion-points/extract-champion-points.module.code.ts"}
+{"path":"temper/player-completion/modules/completion-summary-account/completion-summary-account.module.code.ts"}
+{"path":"temper/watcher/modules/watcher-import-characters/watcher-import-characters.module.code.ts"}
+{"path":"temper/web/modules/champion-points-panel-card/champion-points-panel-card.module.code.tsx"}
+{"path":"temper/web/modules/champion-points-panel/champion-points-panel.module.code.tsx"}
+{"path":"temper/web/modules/constellation-panel-card/constellation-panel-card.module.code.tsx"}
+{"path":"temper/web/modules/star-selection-dialog/star-selection-dialog.module.code.tsx"}

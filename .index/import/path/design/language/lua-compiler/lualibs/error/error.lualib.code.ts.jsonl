@@ -1,0 +1,5 @@
+{"path":"design/language/lua-compiler/lualibs/range-error/range-error.lualib.code.ts"}
+{"path":"design/language/lua-compiler/lualibs/reference-error/reference-error.lualib.code.ts"}
+{"path":"design/language/lua-compiler/lualibs/syntax-error/syntax-error.lualib.code.ts"}
+{"path":"design/language/lua-compiler/lualibs/type-error/type-error.lualib.code.ts"}
+{"path":"design/language/lua-compiler/lualibs/uri-error/uri-error.lualib.code.ts"}

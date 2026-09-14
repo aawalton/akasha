@@ -1,0 +1,5 @@
+{"path":"agent/modules/stray-sweeping/stray-sweeping.module.test.ts"}
+{"path":"commands/pages/agent/strays/agent-strays.command.code.ts"}
+{"path":"commands/pages/agent/strays/agent-strays.command.test.ts"}
+{"path":"infrastructure/services/workstations/pages/sweep-stray-processes/sweep-stray-processes.service-workstation.running.code.ts"}
+{"path":"infrastructure/services/workstations/pages/sweep-stray-processes/sweep-stray-processes.service-workstation.running.test.ts"}

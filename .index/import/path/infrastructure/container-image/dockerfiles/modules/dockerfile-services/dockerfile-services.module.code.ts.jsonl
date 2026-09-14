@@ -1,0 +1,12 @@
+{"path":"infrastructure/container-image/dockerfiles/modules/dockerfile-builder/dockerfile-builder.module.code.ts"}
+{"path":"infrastructure/container-image/dockerfiles/modules/dockerfile-bun-service/dockerfile-bun-service.module.code.ts"}
+{"path":"infrastructure/container-image/dockerfiles/modules/dockerfile-imports/dockerfile-imports.module.code.ts"}
+{"path":"infrastructure/container-image/dockerfiles/modules/dockerfile-nextjs/dockerfile-nextjs.module.code.ts"}
+{"path":"infrastructure/container-image/dockerfiles/modules/dockerfile-services/dockerfile-services.module.test.ts"}
+{"path":"infrastructure/container-image/dockerfiles/modules/dockerfile-tool-image/dockerfile-tool-image.module.code.ts"}
+{"path":"infrastructure/container-image/dockerfiles/modules/dockerfile-writing/dockerfile-writing.module.code.ts"}
+{"path":"infrastructure/container-image/modules/image-build/image-build.module.code.ts"}
+{"path":"infrastructure/container-image/modules/image-inputs/image-inputs.module.code.ts"}
+{"path":"infrastructure/container-image/modules/image-publishing/image-publishing.module.code.ts"}
+{"path":"infrastructure/job/modules/deploy-job-running/deploy-job-running.module.test.ts"}
+{"path":"infrastructure/job/modules/deploy-job/deploy-job.module.test.ts"}

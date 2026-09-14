@@ -1,0 +1,14 @@
+{"path":"temper/character-skills/modules/passive-queries/passive-queries.module.code.ts"}
+{"path":"temper/character-skills/modules/query-shapes/query-shapes.module.code.ts"}
+{"path":"temper/character-skills/modules/skill-line-queries/skill-line-queries.module.code.ts"}
+{"path":"temper/characters-equipment/modules/armor-source/armor-source.module.code.ts"}
+{"path":"temper/characters-equipment/modules/armor-weights/armor-weights.module.code.ts"}
+{"path":"temper/characters-equipment/modules/bulk-update-armor/bulk-update-armor.module.code.ts"}
+{"path":"temper/characters-equipment/modules/get-equipment-icon/get-equipment-icon.module.code.ts"}
+{"path":"temper/characters-equipment/modules/item-composites/item-composites.module.code.ts"}
+{"path":"temper/characters-equipment/modules/set-pattern-matcher/set-pattern-matcher.module.code.ts"}
+{"path":"temper/characters-stats/modules/passive-effect-resolution/passive-effect-resolution.module.code.ts"}
+{"path":"temper/characters-stats/modules/passive-eligibility/passive-eligibility.module.code.ts"}
+{"path":"temper/equipment/modules/set-patterns/set-patterns.module.code.ts"}
+{"path":"temper/web/modules/armor-card/armor-card.module.code.tsx"}
+{"path":"temper/web/modules/armor-panel-card/armor-panel-card.module.code.tsx"}

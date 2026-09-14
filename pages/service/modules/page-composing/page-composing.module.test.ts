@@ -66,26 +66,26 @@ test("a folder named by the plural with the opening taken off takes its pages un
   expect(said).toBe("akasha/story/chapters-read/pages/one/one.story-chapter-read.ts")
 })
 
-test("a folder not named by the plural takes a new page under the plural", () => {
+test("a folder named by neither the type nor its plural takes a new page under the plural", () => {
   const said = pathFor(
-    "akasha/pages-system/indexes/index/index.page-type.ts",
+    "akasha/pages-system/indexes/held/index.page-type.ts",
     "indexes",
     "index",
     "one",
     false
   )
-  expect(said).toBe("akasha/pages-system/indexes/index/indexes/one.index.ts")
+  expect(said).toBe("akasha/pages-system/indexes/held/indexes/one.index.ts")
 })
 
 test("a page carrying files beside it takes a folder of its own under the plural", () => {
   const said = pathFor(
-    "akasha/pages-system/indexes/index/index.page-type.ts",
+    "akasha/pages-system/indexes/held/index.page-type.ts",
     "indexes",
     "index",
     "one",
     true
   )
-  expect(said).toBe("akasha/pages-system/indexes/index/indexes/one/one.index.ts")
+  expect(said).toBe("akasha/pages-system/indexes/held/indexes/one/one.index.ts")
 })
 
 test("a type declaring a property held beside the page carries files beside it", () => {
@@ -352,4 +352,11 @@ test("a folder whose name closes the slug takes its pages under pages", () => {
   const at = "akasha/agent/seat/log-day/seat-log-day.page-type.ts"
   expect(pagesUnder(at, "seat-log-day")).toBe("akasha/agent/seat/log-day/pages")
   expect(pagesAtFor(ROOT, "shard-log-day")).toBe("akasha/shard/log-day/pages")
+})
+
+test("a folder named for the type rather than its plural takes its pages under pages", () => {
+  expect(pagesUnder("akasha/agent/seat/seat.page-type.ts", "seats")).toBe("akasha/agent/seat/pages")
+  const account = "akasha/agent/model/account/model-account.page-type.ts"
+  expect(pagesUnder(account, "model-accounts")).toBe("akasha/agent/model/account/pages")
+  expect(pagesUnder("akasha/shard/held/shard.page-type.ts", "shards")).toBe("akasha/shard/held/shards")
 })

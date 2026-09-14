@@ -1,0 +1,9 @@
+{"path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.code.ts"}
+{"path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.test.ts"}
+{"path":"agent/seat/page/modules/akasha/seat-page-akasha.module.code.ts"}
+{"path":"agent/seat/stopping/seat-stopping.module.code.ts"}
+{"path":"code/shell/terminal/modules/terminal-seat-launchers/terminal-seat-launchers.module.code.ts"}
+{"path":"code/shell/terminal/modules/terminal-seat-launchers/terminal-seat-launchers.module.test.ts"}
+{"path":"commands/pages/seat/supervisor/restart/seat-supervisor-restart.command.code.ts"}
+{"path":"commands/pages/seat/supervisor/restart/seat-supervisor-restart.command.test.ts"}
+{"path":"commands/pages/seat/supervisor/stop/seat-supervisor-stop.command.code.ts"}

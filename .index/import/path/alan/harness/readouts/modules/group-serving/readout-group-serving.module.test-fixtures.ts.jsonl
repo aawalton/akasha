@@ -1,0 +1,11 @@
+{"path":"alan/harness/cost/modules/stoplight/cost-stoplight.module.test.ts"}
+{"path":"alan/harness/readouts/modules/group-serving/readout-group-serving.module.test.ts"}
+{"path":"alan/web/routes/attribute-stoplights/attribute-stoplights.route.test.ts"}
+{"path":"alan/web/routes/cost/cost.route.test.ts"}
+{"path":"alan/web/routes/inbox-stoplights/inbox-stoplights.route.test.ts"}
+{"path":"alan/web/routes/safety-level/safety-level.route.test.ts"}
+{"path":"alan/web/routes/surplus/surplus.route.test.ts"}
+{"path":"products/smilingjenny/web/routes/jenny-cost/jenny-cost.route.test.ts"}
+{"path":"products/smilingjenny/web/routes/jenny-safety-level/jenny-safety-level.route.test.ts"}
+{"path":"products/smilingjenny/web/routes/jenny-surplus/jenny-surplus.route.test.ts"}
+{"path":"products/smilingjenny/web/routes/jenny-upkeep/jenny-upkeep.route.test.ts"}

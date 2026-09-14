@@ -1,0 +1,17 @@
+{"path":"alan/harness/alan-readouts/modules/day-readout-watching/day-readout-watching.module.code.ts"}
+{"path":"alan/harness/alan-readouts/modules/workstation-load-sampling/workstation-load-sampling.module.code.ts"}
+{"path":"alan/harness/attributes/modules/reading/attributes-reading.module.code.ts"}
+{"path":"alan/harness/capacity/modules/reading/capacity-reading.module.code.ts"}
+{"path":"alan/harness/cost/modules/reading/cost-reading.module.code.ts"}
+{"path":"alan/harness/inboxes/modules/count-watch/inbox-count-watch.module.code.ts"}
+{"path":"alan/harness/inboxes/modules/reading/inbox-reading.module.code.ts"}
+{"path":"alan/harness/monarch/modules/reading/monarch-reading.module.code.ts"}
+{"path":"alan/harness/monarch/modules/reading/monarch-reading.module.test.ts"}
+{"path":"alan/harness/plants/modules/reading/plants-reading.module.code.ts"}
+{"path":"alan/harness/readouts/modules/reading/readout-reading.module.test.ts"}
+{"path":"alan/harness/readouts/modules/relay/readout-relay.module.code.ts"}
+{"path":"alan/harness/readouts/modules/serving/readout-serving.module.code.ts"}
+{"path":"alan/harness/readouts/modules/watching/readout-watching.module.code.ts"}
+{"path":"alan/harness/safety/modules/reading/safety-reading.module.code.ts"}
+{"path":"alan/harness/sleep/modules/reading/sleep-reading.module.code.ts"}
+{"path":"alan/harness/surplus/modules/reading/surplus-reading.module.code.ts"}

@@ -1,0 +1,5 @@
+{"path":"agent/hook/agent-hook/block-git-writes/block-git-writes.agent-hook.code.ts"}
+{"path":"agent/model/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"}
+{"path":"code/paths/modules/code-runtime-path/code-runtime-path.module.code.ts"}
+{"path":"pages/modules/checkout-roots/checkout-roots.module.code.ts"}
+{"path":"pages/modules/live-store-write-guard/live-store-write-guard.module.code.ts"}

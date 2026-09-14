@@ -1,0 +1,17 @@
+{"path":"code/editor/extension/modules/palette/palette.module.code.ts"}
+{"path":"temper/characters-addon/modules/characters-placeholder-panel/characters-placeholder-panel.module.code.ts"}
+{"path":"temper/characters-addon/modules/characters-tab-manager/characters-tab-manager.module.code.ts"}
+{"path":"temper/characters-addon/modules/characters-task-hud-rows/characters-task-hud-rows.module.code.ts"}
+{"path":"temper/characters-addon/modules/characters-task-hud-state/characters-task-hud-state.module.code.ts"}
+{"path":"temper/characters-addon/modules/characters-task-hud/characters-task-hud.module.code.ts"}
+{"path":"temper/companions-addon/modules/companions-equipment-panel/companions-equipment-panel.module.code.ts"}
+{"path":"temper/companions-addon/modules/companions-equipment-refresh/companions-equipment-refresh.module.code.ts"}
+{"path":"temper/companions-addon/modules/companions-equipment-rows/companions-equipment-rows.module.code.ts"}
+{"path":"temper/companions-addon/modules/companions-panel/companions-panel.module.code.ts"}
+{"path":"temper/companions-addon/modules/companions-skills-panel/companions-skills-panel.module.code.ts"}
+{"path":"temper/companions-addon/modules/companions-summary-panel/companions-summary-panel.module.code.ts"}
+{"path":"temper/companions-addon/modules/companions-summary-refresh/companions-summary-refresh.module.code.ts"}
+{"path":"temper/hud-addon/modules/hud-addon-bar/hud-addon-bar.module.code.ts"}
+{"path":"temper/items-addon/modules/inventory-action-panel/inventory-action-panel.module.code.ts"}
+{"path":"temper/items-addon/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.code.ts"}
+{"path":"temper/items-addon/modules/inventory-browser-window/inventory-browser-window.module.code.ts"}

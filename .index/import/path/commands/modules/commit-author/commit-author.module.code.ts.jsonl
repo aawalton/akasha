@@ -1,0 +1,5 @@
+{"path":"commands/modules/cli/cli.module.code.ts"}
+{"path":"commands/modules/cli/cli.module.test.ts"}
+{"path":"commands/modules/commit-author/commit-author.module.test.ts"}
+{"path":"commands/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"}
+{"path":"commands/pages/page/tree/page-tree.command.code.ts"}

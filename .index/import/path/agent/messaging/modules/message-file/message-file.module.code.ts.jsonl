@@ -1,0 +1,14 @@
+{"path":"agent/messaging/modules/agent-record/agent-record.module.code.ts"}
+{"path":"agent/messaging/modules/message-file-watch/message-file-watch.module.code.ts"}
+{"path":"agent/messaging/modules/messages-agent-tools/messages-agent-tools.module.code.ts"}
+{"path":"agent/messaging/modules/supervisor-message-claim/supervisor-message-claim.module.code.ts"}
+{"path":"agent/messaging/recipient-resolving/modules/keeper-unrevivable-push/keeper-unrevivable-push.module.code.ts"}
+{"path":"agent/messaging/recipient-resolving/modules/recipient-resolver-inbound/recipient-resolver-inbound.module.code.ts"}
+{"path":"agent/seat/observation/seat-turn/modules/seat-pending/pending-from-files/pending-from-files.module.code.ts"}
+{"path":"agent/seat/observation/seat-turn/modules/seat-pending/pending-maintaining/pending-maintaining.module.code.ts"}
+{"path":"agent/seat/stopping/seat-stopping.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-resuming/modules/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"}
+{"path":"alan/harness/reminder-system/modules/due-reminder-sending/due-reminder-sending.module.code.ts"}
+{"path":"checks/modules/audit-serving/audit-serving.module.code.ts"}
+{"path":"infrastructure/cluster/manifests/modules/orphan-sweeping/orphan-sweeping.module.code.ts"}
+{"path":"infrastructure/services/workstations/modules/service-watching/service-watching.module.code.ts"}

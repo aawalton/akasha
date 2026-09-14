@@ -1,0 +1,7 @@
+{"path":"infrastructure/memory/kinds/pages/available.memory-kind.ts"}
+{"path":"infrastructure/memory/kinds/pages/cached.memory-kind.ts"}
+{"path":"infrastructure/memory/kinds/pages/proportional.memory-kind.ts"}
+{"path":"infrastructure/memory/kinds/pages/resident.memory-kind.ts"}
+{"path":"infrastructure/memory/kinds/pages/shared.memory-kind.ts"}
+{"path":"infrastructure/memory/kinds/pages/swap.memory-kind.ts"}
+{"path":"infrastructure/memory/kinds/pages/virtual.memory-kind.ts"}

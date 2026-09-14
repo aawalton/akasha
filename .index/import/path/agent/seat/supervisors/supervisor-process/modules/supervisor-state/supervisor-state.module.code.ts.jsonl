@@ -1,0 +1,15 @@
+{"path":"agent/seat/oauth-proxy/modules/supervisor-proxy-liveness/supervisor-proxy-liveness.module.code.ts"}
+{"path":"agent/seat/oauth-proxy/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"}
+{"path":"agent/seat/self-healing/modules/supervisor-reexec/supervisor-reexec.module.code.ts"}
+{"path":"agent/seat/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-boot/modules/supervisor-interactive-boot/supervisor-interactive-boot.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-boot/modules/supervisor-monitors-wire/supervisor-monitors-wire.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-child/modules/supervisor-agent-cleanup/supervisor-agent-cleanup.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-child/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-loop/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-loop/modules/supervisor-interactive-wire/supervisor-interactive-wire.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-loop/modules/supervisor-interactive/supervisor-interactive.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-process/modules/supervisor/supervisor.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-rebinding/modules/supervisor-clear-rebind-wire/supervisor-clear-rebind-wire.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-shutdown/modules/procs/supervisor-shutdown-procs.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-shutdown/modules/supervisor-lifecycle/supervisor-lifecycle.module.code.ts"}

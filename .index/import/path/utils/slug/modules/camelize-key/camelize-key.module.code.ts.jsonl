@@ -1,0 +1,12 @@
+{"path":"alan/track/daily/modules/akasha-day/akasha-day.module.code.ts"}
+{"path":"alan/track/daily/modules/day-entry-keys/day-entry-keys.module.code.ts"}
+{"path":"alan/track/daily/modules/day-reading/day-reading.module.code.ts"}
+{"path":"alan/track/daily/modules/day-stretches/day-stretches.module.code.ts"}
+{"path":"alan/track/daily/modules/track-pages/track-pages.module.code.ts"}
+{"path":"pages/access/modules/file-narrow/file-narrow.module.code.ts"}
+{"path":"pages/access/modules/file-property-defs/file-property-defs.module.code.ts"}
+{"path":"pages/access/modules/file-rows/file-rows.module.code.ts"}
+{"path":"pages/access/modules/routing-core/routing-core.module.code.ts"}
+{"path":"pages/core/filter/modules/property-path/property-path.module.code.ts"}
+{"path":"pages/query/modules/store-spelling/store-spelling.module.code.ts"}
+{"path":"pages/ui/supabase/modules/view-data-of-page/view-data-of-page.module.code.ts"}

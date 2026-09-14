@@ -1,0 +1,5 @@
+{"path":"agent/model/gateway/modules/anthropic-error-envelope/anthropic-error-envelope.module.test.ts"}
+{"path":"agent/model/gateway/modules/forced-tool-choice/forced-tool-choice.module.code.ts"}
+{"path":"agent/model/gateway/modules/model-unavailable/model-unavailable.module.code.ts"}
+{"path":"agent/model/gateway/modules/permission-denied/permission-denied.module.code.ts"}
+{"path":"agent/model/gateway/modules/server-error/server-error.module.code.ts"}

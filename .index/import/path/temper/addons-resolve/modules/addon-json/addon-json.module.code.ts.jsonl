@@ -1,0 +1,8 @@
+{"path":"commands/pages/temper/addon/global-name-dependent/temper-addon-global-name-dependent.command.code.ts"}
+{"path":"temper/addon-build/modules/addon-bundling/addon-bundling.module.code.ts"}
+{"path":"temper/addon-build/modules/addon-load-order/addon-load-order.module.code.ts"}
+{"path":"temper/addon-build/modules/addon-metadata-copy/addon-metadata-copy.module.code.ts"}
+{"path":"temper/addon-build/modules/addon-placing/addon-placing.module.code.ts"}
+{"path":"temper/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"}
+{"path":"temper/addons-resolve/modules/sibling-addons/sibling-addons.module.code.ts"}
+{"path":"temper/build-deploy-checks/modules/check-addon-dependency-floor/check-addon-dependency-floor.module.code.ts"}

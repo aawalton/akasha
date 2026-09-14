@@ -9,7 +9,7 @@ import { bodyOf, importedFrom, unnamedIn } from "akasha/pages/modules/body/page-
 import { ENTRY_CEILING } from "akasha/pages/modules/entry-ceiling/entry-ceiling.module.code.ts"
 import { partsOver } from "akasha/pages/modules/entry-writing/page-entry-writing.module.code.ts"
 import { nameFaultIn } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
-import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import { besideAt, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { partsOf } from "akasha/pages/modules/file-parts/page-file-parts.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import {
@@ -142,7 +142,9 @@ export function namedForThePlural(named: string, plural: string): boolean {
 
 export function pagesUnder(typeAt: string, plural: string): string {
   const above = typeAt.split("/").slice(0, -1)
-  const under = namedForThePlural(above.at(-1) ?? "", plural) ? PAGES : plural
+  const named = above.at(-1) ?? ""
+  const typed = partedIn(typeAt)?.slug ?? ""
+  const under = namedForThePlural(named, plural) || namedForThePlural(named, typed) ? PAGES : plural
   return `${above.join("/")}/${under}`
 }
 

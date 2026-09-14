@@ -1,0 +1,6 @@
+{"path":"agent/settings/pages/agents/agents.agent-settings.ts"}
+{"path":"agent/settings/pages/claude-config/claude-config.agent-settings.ts"}
+{"path":"agent/settings/pages/launch-flags/launch-flags.agent-settings.ts"}
+{"path":"agent/settings/pages/mcp-servers/mcp-servers.agent-settings.ts"}
+{"path":"agent/settings/pages/remote-control/remote-control.agent-settings.ts"}
+{"path":"agent/settings/pages/tool-access/tool-access.agent-settings.ts"}

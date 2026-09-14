@@ -1,0 +1,7 @@
+{"path":"infrastructure/container-image/dockerfiles/built-images/auth-proxy/auth-proxy.built-image.ts"}
+{"path":"infrastructure/container-image/dockerfiles/built-images/buildkit/buildkit.built-image.ts"}
+{"path":"infrastructure/container-image/dockerfiles/built-images/bun-git/bun-git.built-image.ts"}
+{"path":"infrastructure/container-image/dockerfiles/built-images/ci/ci.built-image.ts"}
+{"path":"infrastructure/container-image/dockerfiles/built-images/gfs-promoter/gfs-promoter.built-image.ts"}
+{"path":"infrastructure/container-image/dockerfiles/built-images/kubectl/kubectl.built-image.ts"}
+{"path":"infrastructure/container-image/dockerfiles/modules/dockerfile-services/dockerfile-services.module.code.ts"}

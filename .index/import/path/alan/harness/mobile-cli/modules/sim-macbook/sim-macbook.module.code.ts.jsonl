@@ -1,0 +1,8 @@
+{"path":"alan/harness/mobile-cli/modules/sim-macbook/sim-macbook.module.test.ts"}
+{"path":"commands/pages/mobile/sim/boot/mobile-sim-boot.command.code.ts"}
+{"path":"commands/pages/mobile/sim/boot/mobile-sim-boot.command.test.ts"}
+{"path":"commands/pages/mobile/sim/open-url/mobile-sim-open-url.command.code.ts"}
+{"path":"commands/pages/mobile/sim/open-url/mobile-sim-open-url.command.test.ts"}
+{"path":"commands/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.code.ts"}
+{"path":"commands/pages/mobile/sim/status/mobile-sim-status.command.code.ts"}
+{"path":"commands/pages/mobile/sim/teardown/mobile-sim-teardown.command.code.ts"}

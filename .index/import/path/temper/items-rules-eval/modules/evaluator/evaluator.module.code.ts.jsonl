@@ -1,0 +1,8 @@
+{"path":"temper/commands/modules/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"}
+{"path":"temper/commands/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.code.ts"}
+{"path":"temper/items-addon/modules/inventory-explain-trace-builder/inventory-explain-trace-builder.module.code.ts"}
+{"path":"temper/items-addon/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"}
+{"path":"temper/items-addon/modules/inventory-rules-slash-command/inventory-rules-slash-command.module.code.ts"}
+{"path":"temper/items-rules-eval/modules/evaluator/evaluator.module.test.ts"}
+{"path":"temper/items-rules-matcher/modules/inventory-item-outcomes/inventory-item-outcomes.module.code.ts"}
+{"path":"temper/items-rules-matcher/modules/inventory-rule-matcher/inventory-rule-matcher.module.code.ts"}

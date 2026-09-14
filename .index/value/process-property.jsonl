@@ -1,0 +1,2 @@
+{"path":"agent/seat/properties/proxy-process.process-property.ts","value":{"id":"01a0540c-dbc0-7126-8156-3157f3aed738","type":"process-property","slug":"proxy-process","propertySlug":"process","definition":"the process serving a seat its model calls","types":"ts"}}
+{"path":"agent/seat/properties/supervisor-process.process-property.ts","value":{"id":"01a05407-3d65-7188-930c-3dad28de1d4a","type":"process-property","slug":"supervisor-process","propertySlug":"supervisor-process","definition":"the process keeping a seat filled","types":"ts"}}

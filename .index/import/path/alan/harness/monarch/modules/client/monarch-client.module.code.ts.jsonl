@@ -1,0 +1,14 @@
+{"path":"alan/harness/monarch/modules/agreement/monarch-agreement.module.code.ts"}
+{"path":"alan/harness/monarch/modules/amazon-notes/monarch-amazon-notes.module.code.ts"}
+{"path":"alan/harness/monarch/modules/amazon-refunds/monarch-amazon-refunds.module.code.ts"}
+{"path":"alan/harness/monarch/modules/amazon-write/monarch-amazon-write.module.code.ts"}
+{"path":"alan/harness/monarch/modules/apply/monarch-apply.module.code.ts"}
+{"path":"alan/harness/monarch/modules/categorize/monarch-categorize.module.code.ts"}
+{"path":"alan/harness/monarch/modules/domain-files/monarch-domain-files.module.code.ts"}
+{"path":"alan/harness/monarch/modules/land-files/monarch-land-files.module.code.ts"}
+{"path":"alan/harness/monarch/modules/notes-revert/monarch-notes-revert.module.code.ts"}
+{"path":"alan/harness/monarch/modules/notes-write/monarch-notes-write.module.code.ts"}
+{"path":"alan/harness/monarch/modules/poll/monarch-poll.module.code.ts"}
+{"path":"alan/harness/monarch/modules/reconcile/monarch-reconcile.module.code.ts"}
+{"path":"alan/harness/monarch/modules/sync/monarch-sync.module.code.ts"}
+{"path":"alan/harness/monarch/modules/transaction-create/monarch-transaction-create.module.code.ts"}

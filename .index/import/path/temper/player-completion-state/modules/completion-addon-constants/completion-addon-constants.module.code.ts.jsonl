@@ -1,0 +1,11 @@
+{"path":"temper/characters-addon/modules/characters-commands/characters-commands.module.code.ts"}
+{"path":"temper/characters-addon/modules/characters-daily-writs/characters-daily-writs.module.code.ts"}
+{"path":"temper/characters-addon/modules/characters-entry/characters-entry.module.code.ts"}
+{"path":"temper/characters-addon/modules/characters-events-build/characters-events-build.module.code.ts"}
+{"path":"temper/characters-addon/modules/characters-events-knowledge/characters-events-knowledge.module.code.ts"}
+{"path":"temper/characters-addon/modules/characters-events-world/characters-events-world.module.code.ts"}
+{"path":"temper/characters-addon/modules/characters-hireling-mail-subscriber/characters-hireling-mail-subscriber.module.code.ts"}
+{"path":"temper/characters-addon/modules/characters-migrations/characters-migrations.module.code.ts"}
+{"path":"temper/characters-addon/modules/characters-public-api/characters-public-api.module.code.ts"}
+{"path":"temper/characters-addon/modules/characters-task-auto-complete/characters-task-auto-complete.module.code.ts"}
+{"path":"temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"}

@@ -1,0 +1,7 @@
+{"path":"agent/model/gateway/modules/subagent-stops/subagent-stops.module.code.ts"}
+{"path":"alan/harness/alan-readouts/modules/day-readout-watching/day-readout-watching.module.code.ts"}
+{"path":"alan/harness/code-editor/data-interfaces/modules/data-watching/data-watching.module.code.ts"}
+{"path":"alan/harness/inboxes/modules/count-watch/inbox-count-watch.module.code.ts"}
+{"path":"alan/harness/readouts/modules/watching/readout-watching.module.code.ts"}
+{"path":"infrastructure/services/workstations/modules/file-following/file-following.module.test.ts"}
+{"path":"personas/modules/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts"}

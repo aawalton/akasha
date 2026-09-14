@@ -1,0 +1,8 @@
+{"path":"agent/seat/supervisors/supervisor-child/modules/supervisor-seat-spawn-decisions/supervisor-seat-spawn-decisions.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-deciding/modules/supervisor-ask-rule/supervisor-ask-rule.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-restarting/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-resuming/modules/supervisor-limit-resume-answer/supervisor-limit-resume-answer.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-resuming/modules/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.test.ts"}
+{"path":"agent/seat/supervisors/supervisor-resuming/modules/supervisor-limit-resume/supervisor-limit-resume.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-resuming/modules/supervisor-wait-resume-answer/supervisor-wait-resume-answer.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-resuming/modules/supervisor-wait-resume/supervisor-wait-resume.module.code.ts"}

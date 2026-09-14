@@ -1,0 +1,10 @@
+{"path":"agent/seat/declaration/modules/seat-running/seat-running.module.code.ts"}
+{"path":"agent/seat/declaration/modules/seat-stated/seat-stated.module.code.ts"}
+{"path":"agent/seat/declaration/modules/seat-whoami/seat-whoami.module.code.ts"}
+{"path":"agent/seat/fleet/modules/seat-children/seat-children.module.code.ts"}
+{"path":"agent/seat/name/modules/seat-nameable/seat-nameable.module.code.ts"}
+{"path":"agent/seat/page/modules/akasha/seat-page-akasha.module.code.ts"}
+{"path":"agent/seat/reviving/modules/seat-reset/seat-reset.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-idleness/modules/supervisor-idle-observe/supervisor-idle-observe.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-rebinding/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-rebinding/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"}

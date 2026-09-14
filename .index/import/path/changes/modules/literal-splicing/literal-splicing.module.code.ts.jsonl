@@ -1,0 +1,10 @@
+{"path":"changes/mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.code.ts"}
+{"path":"changes/mechanical/file-content/add/add-property-record/add-property-record.change-mechanical-file-content.code.ts"}
+{"path":"changes/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.code.ts"}
+{"path":"changes/mechanical/file-content/remove/remove-property-record/remove-property-record.change-mechanical-file-content.code.ts"}
+{"path":"changes/mechanical/file-content/remove/remove-type-member/remove-type-member.change-mechanical-file-content.code.ts"}
+{"path":"changes/mechanical/page-property/remove/remove-page-property/remove-page-property.change-mechanical.code.ts"}
+{"path":"changes/mechanical/page-type/change/change-property-on-page-type/change-property-on-page-type.change-mechanical-page-type.code.ts"}
+{"path":"changes/modules/literal-splicing/literal-splicing.module.test.ts"}
+{"path":"changes/modules/page-property-splicing/page-property-splicing.module.code.ts"}
+{"path":"changes/modules/value-removing/value-removing.module.code.ts"}

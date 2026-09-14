@@ -1,0 +1,13 @@
+{"path":"commands/modules/change-acting/change-acting.module.code.ts"}
+{"path":"commands/modules/change-running/change-running.module.code.ts"}
+{"path":"commands/modules/file-arguing/file-arguing.module.code.ts"}
+{"path":"commands/modules/landing/landing.module.code.ts"}
+{"path":"commands/modules/said-pathing/said-pathing.module.test.ts"}
+{"path":"commands/pages/alan/tracking/alan-tracking.command.code.ts"}
+{"path":"commands/pages/change/show/change-show.command.code.ts"}
+{"path":"commands/pages/git/restore/git-restore.command.code.ts"}
+{"path":"commands/pages/inference/wan/frame/inference-wan-frame.command.code.ts"}
+{"path":"commands/pages/inference/wan/frame/inference-wan-frame.command.test.ts"}
+{"path":"commands/pages/inference/wan/modules/wan-clip-rendering/wan-clip-rendering.module.code.ts"}
+{"path":"commands/pages/inference/wan/score/inference-wan-score.command.code.ts"}
+{"path":"commands/pages/inference/zimage/inference-zimage.command.code.ts"}

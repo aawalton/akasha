@@ -1,0 +1,9 @@
+{"path":"checks/modules/audit-child/audit-child.module.code.ts"}
+{"path":"checks/modules/audit-serving/audit-serving.module.code.ts"}
+{"path":"checks/modules/audit-serving/audit-serving.module.test.ts"}
+{"path":"checks/modules/checking/checking.module.test-fixtures.ts"}
+{"path":"checks/modules/checking/checking.module.test.ts"}
+{"path":"commands/pages/audit/audit.command.code.ts"}
+{"path":"commands/pages/audit/audit.command.test.ts"}
+{"path":"testing-system/test-fixtures/minting/minting.test-fixture.code.ts"}
+{"path":"testing-system/test-fixtures/repo-seeding/repo-seeding.test-fixture.code.ts"}

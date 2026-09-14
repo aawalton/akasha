@@ -1,0 +1,5 @@
+{"path":"changes/guards/pages/folder-not-left-named/folder-not-left-named.change-guard.code.ts"}
+{"path":"changes/modules/import-repointing/import-repointing.module.code.ts"}
+{"path":"checks/code-checks/pages/check-reaches-a-path-through-the-index/check-reaches-a-path-through-the-index.code-check.decision.code.ts"}
+{"path":"code/paths/modules/path-runs/path-runs.module.test.ts"}
+{"path":"infrastructure/cluster/operations/promote/promote.shell-script.scripting.test.ts"}

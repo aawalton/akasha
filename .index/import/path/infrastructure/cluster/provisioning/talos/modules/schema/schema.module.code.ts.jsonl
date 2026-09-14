@@ -1,0 +1,11 @@
+{"path":"commands/pages/talos/apply/talos-apply.command.code.ts"}
+{"path":"commands/pages/talos/config-gen/talos-config-gen.command.code.ts"}
+{"path":"commands/pages/talos/image-build/talos-image-build.command.code.ts"}
+{"path":"commands/pages/talos/remote-install/talos-remote-install.command.code.ts"}
+{"path":"infrastructure/cluster/provisioning/talos/modules/build-patch/build-patch.module.code.ts"}
+{"path":"infrastructure/cluster/provisioning/talos/modules/build-schematic/build-schematic.module.code.ts"}
+{"path":"infrastructure/cluster/provisioning/talos/modules/build-volumes/build-volumes.module.code.ts"}
+{"path":"infrastructure/cluster/provisioning/talos/modules/emit-yaml/emit-yaml.module.code.ts"}
+{"path":"infrastructure/cluster/provisioning/talos/modules/nodes-main/nodes-main.module.code.ts"}
+{"path":"infrastructure/cluster/provisioning/talos/modules/nodes-rehearsal/nodes-rehearsal.module.code.ts"}
+{"path":"infrastructure/cluster/provisioning/talos/modules/nodes/nodes.module.code.ts"}

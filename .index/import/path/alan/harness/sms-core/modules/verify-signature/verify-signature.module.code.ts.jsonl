@@ -1,0 +1,4 @@
+{"path":"alan/harness/sms-core/modules/handle-inbound/handle-inbound.module.code.ts"}
+{"path":"alan/harness/sms-core/modules/verify-signature/verify-signature.module.test.ts"}
+{"path":"alan/web/routes/alan-web-api-sms-verification-status/alan-web-api-sms-verification-status.route.code.ts"}
+{"path":"alan/web/routes/alan-web-api-sms-webhook/alan-web-api-sms-webhook.route.code.ts"}

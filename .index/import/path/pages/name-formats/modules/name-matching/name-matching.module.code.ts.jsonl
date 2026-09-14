@@ -1,0 +1,13 @@
+{"path":"checks/code-checks/pages/identifier-matches-its-place/identifier-matches-its-place.code-check.decision.code.ts"}
+{"path":"pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"}
+{"path":"pages/name-formats/modules/name-matching/name-matching.module.test.ts"}
+{"path":"pages/name-formats/pages/lower-camel-case/lower-camel-case.name-format.code.ts"}
+{"path":"pages/name-formats/pages/lower-kebab-case/lower-kebab-case.name-format.code.ts"}
+{"path":"pages/name-formats/pages/lower-snake-case/lower-snake-case.name-format.code.ts"}
+{"path":"pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"}
+{"path":"pages/name-formats/pages/sentence-case/sentence-case.name-format.code.ts"}
+{"path":"pages/name-formats/pages/start-case/start-case.name-format.code.ts"}
+{"path":"pages/name-formats/pages/title-case/title-case.name-format.code.ts"}
+{"path":"pages/name-formats/pages/upper-camel-case/upper-camel-case.name-format.code.ts"}
+{"path":"pages/name-formats/pages/upper-snake-case/upper-snake-case.name-format.code.ts"}
+{"path":"pages/name-formats/pages/upper-uuid/upper-uuid.name-format.code.ts"}

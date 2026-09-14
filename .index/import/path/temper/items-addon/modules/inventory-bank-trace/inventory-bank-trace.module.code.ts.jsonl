@@ -1,0 +1,9 @@
+{"path":"temper/items-addon/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.code.ts"}
+{"path":"temper/items-addon/modules/inventory-build-item-facts/inventory-build-item-facts.module.code.ts"}
+{"path":"temper/items-addon/modules/inventory-events/inventory-events.module.code.ts"}
+{"path":"temper/items-addon/modules/inventory-hud-fields/inventory-hud-fields.module.code.ts"}
+{"path":"temper/items-addon/modules/inventory-rules-dispatch-bank-paced/inventory-rules-dispatch-bank-paced.module.code.ts"}
+{"path":"temper/items-addon/modules/inventory-rules-dispatch-bank-paced/inventory-rules-dispatch-bank-paced.module.test.ts"}
+{"path":"temper/items-addon/modules/inventory-rules-dispatch-bank/inventory-rules-dispatch-bank.module.code.ts"}
+{"path":"temper/items-addon/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"}
+{"path":"temper/items-addon/modules/inventory-rules-venue-events/inventory-rules-venue-events.module.code.ts"}

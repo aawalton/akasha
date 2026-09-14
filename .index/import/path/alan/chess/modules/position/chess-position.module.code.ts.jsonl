@@ -1,0 +1,4 @@
+{"path":"alan/chess/modules/game-loop/chess-game-loop.module.code.ts"}
+{"path":"alan/chess/modules/game/chess-game.module.code.ts"}
+{"path":"alan/web/routes/alan-web-api-chess-analyze/alan-web-api-chess-analyze.route.code.ts"}
+{"path":"commands/pages/chess/play/chess-play.command.code.ts"}

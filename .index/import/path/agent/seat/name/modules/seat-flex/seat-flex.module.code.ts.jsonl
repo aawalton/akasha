@@ -1,0 +1,5 @@
+{"path":"agent/seat/declaration/modules/seat-running/seat-running.module.code.ts"}
+{"path":"agent/seat/declaration/modules/seat-stated/seat-stated.module.code.ts"}
+{"path":"agent/seat/name/modules/seat-nameable/seat-nameable.module.code.ts"}
+{"path":"agent/seat/reviving/modules/seat-reset/seat-reset.module.code.ts"}
+{"path":"agent/seat/supervisors/supervisor-rebinding/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"}

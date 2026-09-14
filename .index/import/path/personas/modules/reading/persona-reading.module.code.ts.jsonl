@@ -1,0 +1,13 @@
+{"path":"agent/seat/declaration/modules/seat-resolve/seat-resolve.module.code.ts"}
+{"path":"agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts"}
+{"path":"alan/harness/email-inbound/modules/persona-channels/persona-channels.module.code.ts"}
+{"path":"alan/harness/email-inbound/modules/persona-channels/persona-channels.module.test.ts"}
+{"path":"alan/harness/email-routing/modules/persona-routing-run/persona-routing-run.module.code.ts"}
+{"path":"alan/harness/modules/persona-points-rebuilding/persona-points-rebuilding.module.code.ts"}
+{"path":"alan/track/daily/modules/day-messages-mining/day-messages-mining.module.code.ts"}
+{"path":"code/shell/terminal/modules/document-present/document-present.module.code.ts"}
+{"path":"commands/modules/commit-author/commit-author.module.code.ts"}
+{"path":"commands/pages/measure/persona/measure-persona.command.code.ts"}
+{"path":"commands/pages/seat/messaged/seat-messaged.command.code.ts"}
+{"path":"commands/pages/seat/messaged/seat-messaged.command.test.ts"}
+{"path":"personas/modules/targets/persona-targets.module.code.ts"}

@@ -1,0 +1,9 @@
+{"path":"personas/origin-kinds/pages/canon.origin-kind.ts","value":{"id":"01a05361-be5c-7878-9071-7d4aaf27b64c","type":"origin-kind","slug":"canon","definition":"a name taken from an existing work"}}
+{"path":"personas/origin-kinds/pages/celtic.origin-kind.ts","value":{"id":"01a05361-be5d-7613-b5b0-41b58bc6747d","type":"origin-kind","slug":"celtic","definition":"a name from the Celtic languages"}}
+{"path":"personas/origin-kinds/pages/greek.origin-kind.ts","value":{"id":"01a05361-be5d-7f92-a60e-fc289a79c312","type":"origin-kind","slug":"greek","definition":"a name from Greek"}}
+{"path":"personas/origin-kinds/pages/hebrew.origin-kind.ts","value":{"id":"01a05361-be5e-7985-8c9b-10cf643460c9","type":"origin-kind","slug":"hebrew","definition":"a name from Hebrew"}}
+{"path":"personas/origin-kinds/pages/human.origin-kind.ts","value":{"id":"01a05361-be5e-7cf5-9786-499ee90082b7","type":"origin-kind","slug":"human","definition":"an ordinary human name"}}
+{"path":"personas/origin-kinds/pages/invented.origin-kind.ts","value":{"id":"01a05361-be5f-7dbd-b452-60cdebc0674e","type":"origin-kind","slug":"invented","definition":"a name made for her rather than taken from anywhere"}}
+{"path":"personas/origin-kinds/pages/norse.origin-kind.ts","value":{"id":"01a05361-be5f-705a-890c-8e93d76272d7","type":"origin-kind","slug":"norse","definition":"a name from Old Norse"}}
+{"path":"personas/origin-kinds/pages/sanskrit.origin-kind.ts","value":{"id":"01a05361-be5f-7152-9b17-c07fe2f5c041","type":"origin-kind","slug":"sanskrit","definition":"a name from Sanskrit"}}
+{"path":"personas/origin-kinds/pages/welsh.origin-kind.ts","value":{"id":"01a05361-be60-7065-8e73-ac2f52c0cdfe","type":"origin-kind","slug":"welsh","definition":"a name from Welsh"}}

@@ -1,0 +1,6 @@
+{"path":"commands/pages/git/push/git-push.command.code.ts"}
+{"path":"commands/pages/git/sweep/git-sweep.command.test.ts"}
+{"path":"git/modules/dir/git-dir.module.code.ts"}
+{"path":"git/modules/dir/git-dir.module.test.ts"}
+{"path":"git/modules/pathspec/git-pathspec.module.code.ts"}
+{"path":"git/modules/pushing/git-pushing.module.code.ts"}

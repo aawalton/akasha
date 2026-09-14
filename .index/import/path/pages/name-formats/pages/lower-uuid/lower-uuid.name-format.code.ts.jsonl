@@ -1,0 +1,17 @@
+{"path":"agent/modules/proc-liveness/agent-proc-liveness.module.code.ts"}
+{"path":"agent/seat/fleet/modules/seat-handle/seat-handle.module.code.ts"}
+{"path":"agent/seat/name-claiming/modules/seat-name-claim/seat-name-claim.module.code.ts"}
+{"path":"agent/seat/name/modules/seat-rename/seat-rename.module.code.ts"}
+{"path":"agent/seat/name/modules/stands/seat-name-stands.module.code.ts"}
+{"path":"agent/seat/session/seat-session.module.code.ts"}
+{"path":"alan/web/modules/media-page/media-page.module.code.ts"}
+{"path":"alan/web/routes/alan-web-api-image/alan-web-api-image.route.code.ts"}
+{"path":"alan/web/routes/alan-web-api-media-ensure/alan-web-api-media-ensure.route.code.ts"}
+{"path":"alan/web/routes/alan-web-api-media-marks/alan-web-api-media-marks.route.code.ts"}
+{"path":"commands/pages/alan/picture/alan-picture.command.code.ts"}
+{"path":"commands/pages/track/session/modules/session-relationships/session-relationships.module.code.ts"}
+{"path":"infrastructure/memory/reaping/modules/memory-reaper-owner/memory-reaper-owner.module.code.ts"}
+{"path":"pages/modules/address/page-address.module.code.ts"}
+{"path":"pages/modules/address/page-address.module.test.ts"}
+{"path":"pages/name-formats/pages/lower-uuid/lower-uuid.name-format.test.ts"}
+{"path":"pages/ui-store/query/modules/sort-resolve/sort-resolve.module.code.ts"}
