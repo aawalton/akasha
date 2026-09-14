@@ -7,12 +7,6 @@ const RUN_SPLIT = "======="
 
 const RUN_NEW = ">>>>>>>"
 
-export const MARK_OLD = `${RUN_OLD} old`
-
-export const MARK_SPLIT = RUN_SPLIT
-
-export const MARK_NEW = `${RUN_NEW} new`
-
 const PIPED = "what is piped in"
 
 export const RUNS_SAID = "`<<<<<<<`, `=======` or `>>>>>>>`"
