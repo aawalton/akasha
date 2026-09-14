@@ -74,6 +74,10 @@ export const pageProperty = {
       invariantKind: "absence",
       statement: "No registry keyed by a rendered type picks a property's badge.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The badge and the row any property falls back to are held beside this page type.",
+    },
   ],
   typeGenerator: "ts",
   types: "ts",

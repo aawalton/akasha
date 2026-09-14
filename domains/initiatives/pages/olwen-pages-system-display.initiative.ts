@@ -21,10 +21,6 @@ export const olwenPagesSystemDisplay = {
       statement:
         "The page page type states the components drawing any page, its chip, its row and its card.",
     },
-    {
-      statement:
-        "The page-property page type states the components drawing any property's badge and row.",
-    },
     { statement: "A page type states the component drawing a page of that page type as a card." },
     {
       statement: "No registry keyed by a page type's slug picks how a page of that type is drawn.",
