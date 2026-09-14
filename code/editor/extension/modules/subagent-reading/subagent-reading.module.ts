@@ -51,11 +51,20 @@ export const subagentReading = {
     {
       invariantKind: "departure",
       statement:
-        "The subagents a seat saw start and finish are answered from that seat's own fold.",
+        "What finished under a seat is answered from that seat's fold and every fold beside it.",
     },
     {
       invariantKind: "departure",
-      statement: "That answer descends into no child transcript.",
+      statement:
+        "A subagent one subagent dispatched has its finish recorded in the fold of whatever dispatched it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A fold is read for what finished though whatever it folds has itself finished.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder that will not open leaves the seat's own fold as the whole answer.",
     },
     {
       invariantKind: "departure",

@@ -1,3 +1,4 @@
+import { readdir } from "node:fs/promises"
 import * as path from "node:path"
 import {
   anchorEnding,
@@ -31,6 +32,22 @@ export interface SubagentNode {
 }
 
 const MAX_SUBAGENT_DEPTH = 5
+
+const SUBAGENTS = "subagents"
+
+const CHILD_OPENING = "agent-"
+
+const CHILD_TAIL = ".jsonl"
+
+const TRANSCRIPT_TAIL = /\.jsonl$/
+
+export function subagentsDirOf(transcriptPath: string): string {
+  return path.join(transcriptPath.replace(TRANSCRIPT_TAIL, ""), SUBAGENTS)
+}
+
+export function namesASubagentFold(name: string): boolean {
+  return name.startsWith(CHILD_OPENING) && name.endsWith(CHILD_TAIL)
+}
 
 interface Cursor {
   path: string
@@ -161,9 +178,28 @@ export function createSubagentReader(): SubagentReader {
     return undefined
   }
 
+  const endedUnder = async (
+    state: SubagentState,
+    subagentsDir: string
+  ): Promise<readonly string[]> => {
+    const ended = new Set(endedSubagents(state))
+    let names: readonly string[]
+    try {
+      names = await readdir(subagentsDir)
+    } catch {
+      return [...ended].sort()
+    }
+    for (const name of names) {
+      if (!namesASubagentFold(name)) continue
+      const childPath = path.join(subagentsDir, name)
+      for (const one of endedSubagents(await advance(childPath, childPath))) ended.add(one)
+    }
+    return [...ended].sort()
+  }
+
   const readingOf = async (agentId: string, transcriptPath: string): Promise<SubagentReading> => {
     const state = await advance(agentId, transcriptPath)
-    const subagentsDir = path.join(transcriptPath.replace(/\.jsonl$/, ""), "subagents")
+    const subagentsDir = subagentsDirOf(transcriptPath)
     const ended = new Set(endedSubagents(state))
     const running = await descend(runningSubagents(state), subagentsDir, 1, new Set(), ended)
     return { running, ended: [...ended].sort() }
@@ -174,7 +210,7 @@ export function createSubagentReader(): SubagentReader {
       (await readingOf(agentId, transcriptPath)).running,
     readingForSeat: readingOf,
     endedForSeat: async (agentId: string, transcriptPath: string) =>
-      endedSubagents(await advance(agentId, transcriptPath)),
+      endedUnder(await advance(agentId, transcriptPath), subagentsDirOf(transcriptPath)),
     dropUntouched: async () => {
       for (const key of [...cursors.keys()]) {
         if (!touched.has(key)) {
