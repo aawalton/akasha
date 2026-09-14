@@ -5,7 +5,7 @@ export const sophia20260619 = {
   type: "persona-craft-day",
   slug: "sophia-2026-06-19",
   title: "Sophia — 2026-06-19",
-  persona: "sophia",
+  persona: "persona/sophia",
   date: "2026-06-19",
   valueSlug: "love",
   icon: "file-text",
