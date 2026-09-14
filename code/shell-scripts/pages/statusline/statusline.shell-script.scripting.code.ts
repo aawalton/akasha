@@ -3,7 +3,7 @@ import { fileOf } from "akasha/pages/indexes/modules/property-file/property-file
 import { valuedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 
-const DOMAIN = "domain"
+const PAGE_TYPE = "page-type"
 
 const MODULE = "module"
 
@@ -20,7 +20,7 @@ const KEEPING = "seat-usage-keep"
 const UNDER = "$AKASHA/"
 
 function folderOf(given: string | Reading, slug: string): string {
-  return dirname(valuedAt(given, DOMAIN, slug).path)
+  return dirname(valuedAt(given, PAGE_TYPE, slug).path)
 }
 
 function codeOf(given: string | Reading, slug: string): string {
