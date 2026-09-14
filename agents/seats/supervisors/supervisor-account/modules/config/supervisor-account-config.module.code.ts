@@ -2,7 +2,7 @@ import {
   parseModel,
   toCliAlias,
 } from "akasha/agents/models/modules/vocab/model-vocab.module.code.ts"
-import { readSeatConditions } from "akasha/agents/seats/launching/modules/seat-conditions-reading/seat-conditions-reading.module.code.ts"
+import { seatConditionsPastRefresh } from "akasha/agents/seats/launching/modules/seat-conditions-reading/seat-conditions-reading.module.code.ts"
 import { LOG } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 
 export type WorkerModelDeps = {
@@ -11,11 +11,11 @@ export type WorkerModelDeps = {
 }
 
 async function getExtendedContextAvailable(): Promise<boolean> {
-  return readSeatConditions().extendedContextAvailable
+  return (await seatConditionsPastRefresh()).extendedContextAvailable
 }
 
 const DEFAULT_WORKER_MODEL_DEPS: WorkerModelDeps = {
-  getWorkerModel: async () => readSeatConditions().model,
+  getWorkerModel: async () => (await seatConditionsPastRefresh()).model,
   getExtendedContextAvailable,
 }
 
@@ -45,7 +45,7 @@ export type AutoCompactWindowDeps = {
 }
 
 const DEFAULT_AUTO_COMPACT_WINDOW_DEPS: AutoCompactWindowDeps = {
-  getAutoCompactWindow: async () => readSeatConditions().autoCompactWindow,
+  getAutoCompactWindow: async () => (await seatConditionsPastRefresh()).autoCompactWindow,
 }
 
 export async function resolveAutoCompactWindow(
@@ -64,7 +64,7 @@ export type AgentEffortLevelDeps = {
 }
 
 const DEFAULT_AGENT_EFFORT_LEVEL_DEPS: AgentEffortLevelDeps = {
-  getEffortLevel: async () => readSeatConditions().effortLevel,
+  getEffortLevel: async () => (await seatConditionsPastRefresh()).effortLevel,
 }
 
 export async function resolveAgentEffortLevel(
@@ -84,7 +84,7 @@ export type SubagentModelDeps = {
 }
 
 const DEFAULT_SUBAGENT_MODEL_DEPS: SubagentModelDeps = {
-  getSubagentModel: async () => readSeatConditions().subagentModel,
+  getSubagentModel: async () => (await seatConditionsPastRefresh()).subagentModel,
   getExtendedContextAvailable,
 }
 
@@ -113,7 +113,7 @@ export type FallbackModelDeps = {
 }
 
 const DEFAULT_FALLBACK_MODEL_DEPS: FallbackModelDeps = {
-  getFallbackModel: async () => readSeatConditions().fallbackModel,
+  getFallbackModel: async () => (await seatConditionsPastRefresh()).fallbackModel,
   getExtendedContextAvailable,
 }
 
@@ -141,7 +141,7 @@ export type SubagentSpawnDepthDeps = {
 }
 
 const DEFAULT_SUBAGENT_SPAWN_DEPTH_DEPS: SubagentSpawnDepthDeps = {
-  getSubagentSpawnDepth: async () => readSeatConditions().subagentSpawnDepth,
+  getSubagentSpawnDepth: async () => (await seatConditionsPastRefresh()).subagentSpawnDepth,
 }
 
 export async function resolveSubagentSpawnDepth(
@@ -159,7 +159,7 @@ export type ToolTimeoutDeps = {
 }
 
 const DEFAULT_TOOL_TIMEOUT_DEPS: ToolTimeoutDeps = {
-  getToolTimeout: async () => readSeatConditions().toolTimeout,
+  getToolTimeout: async () => (await seatConditionsPastRefresh()).toolTimeout,
 }
 
 export async function resolveToolTimeout(
@@ -178,8 +178,8 @@ export type ResumeThresholdDeps = {
 }
 
 const DEFAULT_RESUME_THRESHOLD_DEPS: ResumeThresholdDeps = {
-  getResumeThresholdMinutes: async () => readSeatConditions().resumeThresholdMinutes,
-  getResumeTokenThreshold: async () => readSeatConditions().resumeTokenThreshold,
+  getResumeThresholdMinutes: async () => (await seatConditionsPastRefresh()).resumeThresholdMinutes,
+  getResumeTokenThreshold: async () => (await seatConditionsPastRefresh()).resumeTokenThreshold,
 }
 
 export interface ResumeThresholds {

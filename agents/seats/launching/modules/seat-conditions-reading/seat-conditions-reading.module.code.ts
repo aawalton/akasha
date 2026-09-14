@@ -1,3 +1,9 @@
+import { sayingWith } from "akasha/agents/seats/supervisors/supervisor-log/modules/supervisor-saying/supervisor-saying.module.code.ts"
+import { LOG } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
+import {
+  midRefresh,
+  REFRESH_WAITED_AT_MOST_MS,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
@@ -88,5 +94,54 @@ export function readSeatConditions(): SeatConditions {
     resumeThresholdMinutes: stated(row, "resumeThresholdMinutes"),
     resumeTokenThreshold: stated(row, "resumeTokenThreshold"),
     extendedContextAvailable: flagged(row, "extendedContextAvailable"),
+  }
+}
+
+const ASKING_AGAIN_MS = 1_000
+
+const REFRESHING = "the index is part way through a refresh, so the seat conditions are read again"
+
+export type SeatConditionsSaying = (text: string) => undefined
+
+export type SeatConditionsWait = {
+  readonly askingAgainMs?: number
+  readonly waitingAtMostMs?: number
+  readonly now?: () => number
+  readonly say?: SeatConditionsSaying
+}
+
+function waited(ms: number): Promise<void> {
+  return new Promise((resolve) => {
+    setTimeout(resolve, ms)
+  })
+}
+
+export async function seatConditionsPastRefresh(
+  read: () => SeatConditions = readSeatConditions,
+  wait: SeatConditionsWait = {}
+): Promise<SeatConditions> {
+  const askingAgainMs = wait.askingAgainMs ?? ASKING_AGAIN_MS
+  const waitingAtMostMs = wait.waitingAtMostMs ?? REFRESH_WAITED_AT_MOST_MS
+  const now = wait.now ?? Date.now
+  const say = wait.say ?? sayingWith(LOG)
+  const waitedSeconds = Math.round(waitingAtMostMs / 1_000)
+  let waitingSince: number | null = null
+  while (true) {
+    try {
+      return read()
+    } catch (err) {
+      if (!midRefresh(err)) throw err
+      if (waitingSince === null) {
+        waitingSince = now()
+        say(REFRESHING)
+      } else if (now() - waitingSince >= waitingAtMostMs) {
+        const gaveUp =
+          `the index stayed part way through a refresh for ${waitedSeconds}s, so what a seat ` +
+          "runs under went unread"
+        say(gaveUp)
+        throw new Error(gaveUp)
+      }
+    }
+    await waited(askingAgainMs)
   }
 }

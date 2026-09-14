@@ -1,3 +1,4 @@
+import { sayingWith } from "akasha/agents/seats/supervisors/supervisor-log/modules/supervisor-saying/supervisor-saying.module.code.ts"
 import { LOG } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   midRefresh,
@@ -17,19 +18,6 @@ export type RotationWatch = {
   readonly say?: RotationSaying
 }
 
-function sayAnyway(text: string, err?: unknown): undefined {
-  try {
-    if (err === undefined) console.error(`${LOG} ${text}`)
-    else console.error(`${LOG} ${text}`, err)
-    return
-  } catch {}
-  try {
-    process.stderr.write(`${LOG} ${text}\n`)
-  } catch {
-    return
-  }
-}
-
 export function watchSeatRotation(
   claimRotation: () => string | null,
   onRotation: RotationHandler,
@@ -38,7 +26,7 @@ export function watchSeatRotation(
   const pollMs = watch.pollMs ?? POLL_INTERVAL_MS
   const waitingAtMostMs = watch.waitingAtMostMs ?? REFRESH_WAITED_AT_MOST_MS
   const now = watch.now ?? Date.now
-  const say = watch.say ?? sayAnyway
+  const say = watch.say ?? sayingWith(LOG)
   const waitedSeconds = Math.round(waitingAtMostMs / 1_000)
   let stopped = false
   let waitingSince: number | null = null

@@ -5,6 +5,7 @@ import {
   agentSettings,
   isSettingsDocumentFault,
 } from "akasha/agents/seats/supervisors/supervisor-child/modules/supervisor-agent-settings/supervisor-agent-settings.module.code.ts"
+import { sayingWith } from "akasha/agents/seats/supervisors/supervisor-log/modules/supervisor-saying/supervisor-saying.module.code.ts"
 import { harnessSettingsAt } from "akasha/agents/settings/modules/harness-settings-reading/harness-settings-reading.module.code.ts"
 import {
   midRefresh,
@@ -89,18 +90,6 @@ export type SpawnSettingsWait = {
   readonly say?: SpawnSettingsSaying
 }
 
-function sayAnyway(text: string): undefined {
-  try {
-    console.error(`${LOG} ${text}`)
-    return
-  } catch {}
-  try {
-    process.stderr.write(`${LOG} ${text}\n`)
-  } catch {
-    return
-  }
-}
-
 function asked(ms: number): Promise<void> {
   return new Promise((resolve) => {
     setTimeout(resolve, ms)
@@ -114,7 +103,7 @@ export async function settingsPastRefresh(
   const askingAgainMs = wait.askingAgainMs ?? ASKING_AGAIN_MS
   const waitingAtMostMs = wait.waitingAtMostMs ?? REFRESH_WAITED_AT_MOST_MS
   const now = wait.now ?? Date.now
-  const say = wait.say ?? sayAnyway
+  const say = wait.say ?? sayingWith(LOG)
   const waitedSeconds = Math.round(waitingAtMostMs / 1_000)
   let waitingSince: number | null = null
   while (true) {
