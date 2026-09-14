@@ -1,10 +1,10 @@
 import { LOG } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
+import {
+  midRefresh,
+  REFRESH_WAITED_AT_MOST_MS,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 
 const POLL_INTERVAL_MS = 1_000
-
-export const WAITING_AT_MOST_MS = 120_000
-
-const MID_REFRESH = "an index that is missing is not an index naming none"
 
 export type RotationHandler = (sessionId: string) => Promise<void>
 
@@ -30,17 +30,13 @@ function sayAnyway(text: string, err?: unknown): undefined {
   }
 }
 
-function midRefresh(err: unknown): boolean {
-  return err instanceof Error && err.message.includes(MID_REFRESH)
-}
-
 export function watchSeatRotation(
   claimRotation: () => string | null,
   onRotation: RotationHandler,
   watch: RotationWatch = {}
 ): () => void {
   const pollMs = watch.pollMs ?? POLL_INTERVAL_MS
-  const waitingAtMostMs = watch.waitingAtMostMs ?? WAITING_AT_MOST_MS
+  const waitingAtMostMs = watch.waitingAtMostMs ?? REFRESH_WAITED_AT_MOST_MS
   const now = watch.now ?? Date.now
   const say = watch.say ?? sayAnyway
   const waitedSeconds = Math.round(waitingAtMostMs / 1_000)

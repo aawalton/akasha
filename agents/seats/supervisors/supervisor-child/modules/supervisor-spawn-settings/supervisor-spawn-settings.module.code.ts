@@ -6,6 +6,10 @@ import {
   isSettingsDocumentFault,
 } from "akasha/agents/seats/supervisors/supervisor-child/modules/supervisor-agent-settings/supervisor-agent-settings.module.code.ts"
 import { harnessSettingsAt } from "akasha/agents/settings/modules/harness-settings-reading/harness-settings-reading.module.code.ts"
+import {
+  midRefresh,
+  REFRESH_WAITED_AT_MOST_MS,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { ownRepoRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
@@ -44,7 +48,7 @@ export function refreshedSettings(
 export type SpawnSettingsBase =
   | { readonly kind: "loaded"; readonly settings: Record<string, unknown> }
   | { readonly kind: "absent"; readonly reason: string }
-  | { readonly kind: "refused"; readonly reason: string }
+  | { readonly kind: "refused"; readonly reason: string; readonly cause: unknown }
 
 const SETTINGS_OBJECT = shape.record(shape.string(), shape.unknown())
 
@@ -67,9 +71,67 @@ export function readAgentSettingsBase(
   } catch (err) {
     const reason = `\`${AGENT_SETTINGS_MODULE}\` threw: ${err instanceof Error ? err.message : String(err)}`
     if (isSettingsDocumentFault(err)) return Promise.resolve({ kind: "absent", reason })
-    return Promise.resolve({ kind: "refused", reason })
+    return Promise.resolve({ kind: "refused", reason, cause: err })
   }
   return Promise.resolve(checkAgentSettings(document))
+}
+
+const ASKING_AGAIN_MS = 1_000
+
+const REFRESHING = "the index is part way through a refresh, so the agent settings are read again"
+
+export type SpawnSettingsSaying = (text: string) => undefined
+
+export type SpawnSettingsWait = {
+  readonly askingAgainMs?: number
+  readonly waitingAtMostMs?: number
+  readonly now?: () => number
+  readonly say?: SpawnSettingsSaying
+}
+
+function sayAnyway(text: string): undefined {
+  try {
+    console.error(`${LOG} ${text}`)
+    return
+  } catch {}
+  try {
+    process.stderr.write(`${LOG} ${text}\n`)
+  } catch {
+    return
+  }
+}
+
+function asked(ms: number): Promise<void> {
+  return new Promise((resolve) => {
+    setTimeout(resolve, ms)
+  })
+}
+
+export async function settingsPastRefresh(
+  ask: AskAgentSettings = agentSettings,
+  wait: SpawnSettingsWait = {}
+): Promise<SpawnSettingsBase> {
+  const askingAgainMs = wait.askingAgainMs ?? ASKING_AGAIN_MS
+  const waitingAtMostMs = wait.waitingAtMostMs ?? REFRESH_WAITED_AT_MOST_MS
+  const now = wait.now ?? Date.now
+  const say = wait.say ?? sayAnyway
+  const waitedSeconds = Math.round(waitingAtMostMs / 1_000)
+  let waitingSince: number | null = null
+  while (true) {
+    const base = await readAgentSettingsBase(ask)
+    if (base.kind !== "refused" || !midRefresh(base.cause)) return base
+    if (waitingSince === null) {
+      waitingSince = now()
+      say(REFRESHING)
+    } else if (now() - waitingSince >= waitingAtMostMs) {
+      const gaveUp =
+        `the index stayed part way through a refresh for ${waitedSeconds}s, so the settings a ` +
+        "seat spawns on went unread"
+      say(gaveUp)
+      return { kind: "refused", reason: gaveUp, cause: base.cause }
+    }
+    await asked(askingAgainMs)
+  }
 }
 
 function composeSpawnSettings(
@@ -98,9 +160,13 @@ function refusalOf(reason: string): string {
 
 export async function materializeSpawnSettings(
   overrides: SpawnSettingsOverrides,
-  opts?: { readonly ask?: AskAgentSettings; readonly tmpDir?: string }
+  opts?: {
+    readonly ask?: AskAgentSettings
+    readonly tmpDir?: string
+    readonly wait?: SpawnSettingsWait
+  }
 ): Promise<string> {
-  const base = await readAgentSettingsBase(opts?.ask ?? agentSettings)
+  const base = await settingsPastRefresh(opts?.ask ?? agentSettings, opts?.wait)
   if (base.kind === "refused") throw new Error(refusalOf(base.reason))
   if (base.kind === "absent") warnAbsent(base.reason)
 

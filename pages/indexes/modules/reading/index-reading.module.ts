@@ -67,6 +67,15 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
+      statement: "Whether a throw is that refusal is told here rather than by each caller.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "How long a reader waits on a refresh part way through is said here for every reader.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Whether the index is there is asked at the root of the index by every read here.",
     },
     {

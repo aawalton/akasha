@@ -30,5 +30,22 @@ export const supervisorSpawnSettings = {
       invariantKind: "departure",
       statement: "A document fault is told from a page fault by a mark rather than by a message.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "An index part way through a refresh leaves the settings unread rather than refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A wait on such an index is said once as it opens rather than on every ask.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A wait running past its ceiling says it gave up and refuses the spawn.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal names the refresh rather than the settings being missing.",
+    },
   ],
 } as const satisfies Module

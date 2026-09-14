@@ -57,6 +57,12 @@ const ROOT = ""
 
 const NAMING_NONE = "an index that is missing is not an index naming none"
 
+export const REFRESH_WAITED_AT_MOST_MS = 120_000
+
+export function midRefresh(cause: unknown): boolean {
+  return cause instanceof Error && cause.message.includes(NAMING_NONE)
+}
+
 export function indexNamed(): string {
   return INDEX_AT
 }
