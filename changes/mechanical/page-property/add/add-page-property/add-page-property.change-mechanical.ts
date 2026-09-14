@@ -10,6 +10,7 @@ export const addPageProperty = {
   definition:
     "one page property made, with its page, its part, every declaration of it and every page's key",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
