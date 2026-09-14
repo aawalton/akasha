@@ -11,14 +11,12 @@ import {
   pathOf,
   slugOf,
 } from "akasha/agents/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
-import {
-  type Landing,
-  wrote,
-} from "akasha/agents/subagents/modules/presence/subagent-presence.module.code.ts"
+import { wrote } from "akasha/agents/subagents/modules/presence/subagent-presence.module.code.ts"
 import {
   seatEditsAt,
   seatRefusalsAt,
 } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
+import type { Landing } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { startedAt } from "akasha/files/modules/lock-holder/lock-holder.module.code.ts"
 import {
   holding,
@@ -41,7 +39,7 @@ const LANDED = { base: "", landed: [], formatted: [], said: [], wrong: [], commi
 export const COMMITTED = "1111111111111111111111111111111111111111"
 
 export function landingNaming(named: string[]): Landing {
-  return (_done, root, changes, message) => {
+  return (root, changes, message) => {
     for (const one of changes) {
       named.push(one.at)
       const given = one.given as { readonly at: string; readonly body?: string }
@@ -261,10 +259,10 @@ export function lockHeldIn(root: string): undefined {
   writing(root, LOCK_AT, `${process.pid} ${startedAt(process.pid)}`)
 }
 
-export const HELD_LANDING: Landing = (_done, root) =>
+export const HELD_LANDING: Landing = (root) =>
   refusedWhereHeld(() => Promise.resolve(holding(root, () => LANDED, 0)))
 
-export const THREW_AFTER: Landing = (done) => {
-  done.push(COMMITTED)
+export const THREW_AFTER: Landing = (_root, _changes, _message, _agentId, noting) => {
+  noting?.done?.push(COMMITTED)
   throw new Error("the work after that commit stopped")
 }

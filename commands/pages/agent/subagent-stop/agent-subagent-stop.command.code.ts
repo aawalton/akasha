@@ -11,12 +11,14 @@ import {
 } from "akasha/agents/subagents/modules/census/subagent-census.module.code.ts"
 import { pathIn } from "akasha/agents/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
 import {
-  type Landing,
   stoppedBeside,
   took,
 } from "akasha/agents/subagents/modules/presence/subagent-presence.module.code.ts"
 import { subagentStopped } from "akasha/agents/subagents/properties/subagent-stopped.boolean-property.ts"
-import { landedMechanically } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import {
+  type Landing,
+  runMechanicalChange,
+} from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import { subagent } from "akasha/commands/arguments/pages/subagent.argument.ts"
 import {
@@ -82,7 +84,7 @@ export async function agentSubagentStop(
   entries: readonly ProcLivenessEntry[] = scanProcEntries().entries,
   baseDir?: string,
   said: RunningSaid = transcriptsSay,
-  landing: Landing = landedMechanically
+  landing: Landing = runMechanicalChange
 ): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [subagent])
   if ("refused" in read) return refusedBy(read.refused)

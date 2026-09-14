@@ -5,6 +5,7 @@ import type { ProcLivenessEntry } from "akasha/agents/modules/proc-liveness/agen
 import { entry } from "akasha/agents/modules/proc-liveness/agent-proc-liveness.module.test-fixtures.ts"
 import { pathIn } from "akasha/agents/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
 import { stoppedBeside } from "akasha/agents/subagents/modules/presence/subagent-presence.module.code.ts"
+import type { Landing } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { agentSubagentStop } from "akasha/commands/pages/agent/subagent-stop/agent-subagent-stop.command.code.ts"
 import type { RunningSaid } from "akasha/commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"
@@ -31,21 +32,19 @@ const COMMIT = "1111111111111111111111111111111111111111"
 
 function landings() {
   const asked: unknown[] = []
-  return {
-    asked: () => asked,
-    landing: (done: string[], _root: string, changes: unknown) => {
-      asked.push(changes)
-      done.push(COMMIT)
-      return Promise.resolve({
-        base: "0".repeat(40),
-        landed: [],
-        formatted: [],
-        said: [],
-        wrong: [],
-        commit: COMMIT,
-      })
-    },
+  const landing: Landing = (_root, changes, _message, _agentId, writing) => {
+    asked.push(changes)
+    writing?.done?.push(COMMIT)
+    return Promise.resolve({
+      base: "0".repeat(40),
+      landed: [],
+      formatted: [],
+      said: [],
+      wrong: [],
+      commit: COMMIT,
+    })
   }
+  return { asked: () => asked, landing }
 }
 
 function given(root: string): Given {

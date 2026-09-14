@@ -31,7 +31,8 @@ import { subagentStopped } from "akasha/agents/subagents/properties/subagent-sto
 import { editsWaiting } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
   type Asking,
-  landedMechanically,
+  type Landing,
+  runMechanicalChange,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { partWay } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
@@ -73,13 +74,6 @@ const TAKE_PAGE = "change-mechanical-file/remove-file-page"
 const STARTED = subagentStarted.propertySlug
 
 const STOPPED = subagentStopped.propertySlug
-
-export type Landing = (
-  done: string[],
-  root: string,
-  changes: readonly Asking[],
-  message: string
-) => ReturnType<typeof landedMechanically>
 
 const WENT: Went = { went: true }
 
@@ -134,7 +128,7 @@ export async function wrote(
   own: string,
   dispatchedAs: string | null,
   done: string[] = [],
-  landing: Landing = landedMechanically
+  landing: Landing = runMechanicalChange
 ): Promise<Went> {
   const slug = slugOf(seatName, own)
   const at = pathIn(root, slug)
@@ -163,12 +157,13 @@ export async function wrote(
   const content = bodyOf(slug, seatName, assignmentSlug, kind, agentId, textAt(held, ID))
   const put = wentBy(
     await landing(
-      done,
       root,
       [{ at: ADD_PAGE, given: { at, body: content } }],
       had === null
         ? `${slug}: a subagent states the agent id it acts under`
-        : `${slug}: a subagent resuming takes up the page it had`
+        : `${slug}: a subagent resuming takes up the page it had`,
+      agentId,
+      { done }
     ),
     done
   )
@@ -223,7 +218,7 @@ export async function took(
   seatName: string,
   own: string,
   done: string[] = [],
-  landing: Landing = landedMechanically,
+  landing: Landing = runMechanicalChange,
   stoppedAt: number | null = null,
   reading: Reading = readOf
 ): Promise<Went> {
@@ -241,7 +236,7 @@ export async function took(
   if ("why" in moved) return moved
   const said = stopped ? "was stopped from the agents panel" : "is done"
   const why = `${slug} ${said}, so its page goes; what it was is in this repository's history`
-  return wentBy(await landing(done, root, [{ at: TAKE_PAGE, given: { at } }], why), done)
+  return wentBy(await landing(root, [{ at: TAKE_PAGE, given: { at } }], why, null, { done }), done)
 }
 
 export async function notWorking(
@@ -259,7 +254,7 @@ export async function tookUnder(
   seatName: string,
   why: string,
   done: string[] = [],
-  landing: Landing = landedMechanically,
+  landing: Landing = runMechanicalChange,
   reading: Reading = readOf
 ): Promise<Went> {
   const paths = await notWorking(root, pathsUnder(root, seatName), reading)
@@ -268,10 +263,11 @@ export async function tookUnder(
   if (seat !== null) for (const at of paths) movedOnto(root, seat, at)
   const gone = wentBy(
     await landing(
-      done,
       root,
       paths.map((at): Asking => ({ at: TAKE_PAGE, given: { at } })),
-      `${seatName} ${why}, so the ${String(paths.length)} subagent page(s) under it go`
+      `${seatName} ${why}, so the ${String(paths.length)} subagent page(s) under it go`,
+      null,
+      { done }
     ),
     done
   )
@@ -386,7 +382,7 @@ async function ran(argv: readonly string[]): Promise<number> {
   }
   if (act === TAKING) {
     const gone = await landingAgain(
-      () => took(root, seatName, own, done, landedMechanically, moment),
+      () => took(root, seatName, own, done, runMechanicalChange, moment),
       done
     )
     return exitFor(gone, at)
