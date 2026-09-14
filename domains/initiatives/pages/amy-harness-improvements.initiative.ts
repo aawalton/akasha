@@ -11,6 +11,10 @@ export const amyHarnessImprovements = {
       statement:
         "A stopped subagent's page goes even when that subagent never asks the model again.",
     },
+    {
+      statement:
+        "The cost readout takes one of five colors, chosen by surplus and cost multiplier together.",
+    },
   ],
 
   constraints: [
