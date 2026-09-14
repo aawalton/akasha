@@ -10,7 +10,6 @@ import type {
 } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import type { PropertyValue } from "akasha/pages/core/property-types/modules/property-type-ops/property-type-ops.module.code.ts"
 import { propertyTypeRendersWhenEmpty } from "akasha/pages/core/property-types/modules/registry/registry.module.code.ts"
-import { PROPERTY_BADGE_REGISTRY } from "akasha/pages/ui/components/modules/badge-registry/badge-registry.module.code.ts"
 import {
   drawingAlong,
   PROPERTY_BADGE_DRAWINGS,
@@ -37,7 +36,6 @@ export interface PropertyBadgeProps {
   onCreateOption?: (propertyId: string, label: string) => void
   pageId?: string
   pageTypeSlug?: string
-  lookup?: (type: PropertyType) => ComponentType<PropertyBadgeProps>
 }
 
 export function isEmptyValue(type: PropertyType, value: PropertyValue): boolean {
@@ -90,9 +88,8 @@ export function PropertyBadge(props: PropertyBadgeProps) {
   const icon = typeof rawIcon === "string" && rawIcon !== "" ? <Icon name={rawIcon} /> : undefined
   const drawn = drawingFor(property.drawnBy)
   const Component: ComponentType<PropertyBadgeProps> | undefined =
-    drawn ?? PROPERTY_BADGE_REGISTRY[property.type] ?? PROPERTY_BADGE_DRAWINGS.get(FALLS_BACK_TO)
+    drawn ?? PROPERTY_BADGE_DRAWINGS.get(FALLS_BACK_TO)
   if (Component === undefined) return null
-  const lookup = (type: PropertyType) => PROPERTY_BADGE_REGISTRY[type] ?? Component
   return (
     <BadgeLayoutProvider
       truncate={layout.truncate}
@@ -100,7 +97,7 @@ export function PropertyBadge(props: PropertyBadgeProps) {
       display={property.display}
       icon={icon}
     >
-      <Component {...props} lookup={lookup} />
+      <Component {...props} />
     </BadgeLayoutProvider>
   )
 }

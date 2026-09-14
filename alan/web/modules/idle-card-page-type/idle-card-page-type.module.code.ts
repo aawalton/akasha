@@ -75,6 +75,8 @@ const DRAWN_AS_BOOLEAN = ["boolean-property"] as const
 
 const DRAWN_AS_SELECT = ["select-property"] as const
 
+const DRAWN_AS_ACTION_BUTTON = ["action-button-property"] as const
+
 export const IDLE_CARD_PROPERTY_DEFINITIONS: readonly PropertyDefinition[] = [
   { id: "cover", title: "Cover", type: "url", drawnBy: DRAWN_AS_URL },
   {
@@ -141,11 +143,24 @@ export const IDLE_CARD_PROPERTY_DEFINITIONS: readonly PropertyDefinition[] = [
       return null
     },
   },
-  { id: IDLE_TRAIN_VERB_ID, ...IDLE_ACTION_BUTTON_BASES.train },
-  { id: IDLE_TRAIN10_VERB_ID, ...IDLE_ACTION_BUTTON_BASES.train10 },
-  { id: IDLE_TRAINMAX_VERB_ID, ...IDLE_ACTION_BUTTON_BASES.trainMax },
-  { id: "lockEligible", title: "Lock Eligible", type: "boolean" },
-  { id: "specializeLocked", title: "Specialize Locked", type: "boolean" },
-  { id: "remove", ...IDLE_ACTION_BUTTON_BASES.remove },
-  { id: "lock", ...IDLE_ACTION_BUTTON_BASES.lock },
+  { id: IDLE_TRAIN_VERB_ID, ...IDLE_ACTION_BUTTON_BASES.train, drawnBy: DRAWN_AS_ACTION_BUTTON },
+  {
+    id: IDLE_TRAIN10_VERB_ID,
+    ...IDLE_ACTION_BUTTON_BASES.train10,
+    drawnBy: DRAWN_AS_ACTION_BUTTON,
+  },
+  {
+    id: IDLE_TRAINMAX_VERB_ID,
+    ...IDLE_ACTION_BUTTON_BASES.trainMax,
+    drawnBy: DRAWN_AS_ACTION_BUTTON,
+  },
+  { id: "lockEligible", title: "Lock Eligible", type: "boolean", drawnBy: DRAWN_AS_BOOLEAN },
+  {
+    id: "specializeLocked",
+    title: "Specialize Locked",
+    type: "boolean",
+    drawnBy: DRAWN_AS_BOOLEAN,
+  },
+  { id: "remove", ...IDLE_ACTION_BUTTON_BASES.remove, drawnBy: DRAWN_AS_ACTION_BUTTON },
+  { id: "lock", ...IDLE_ACTION_BUTTON_BASES.lock, drawnBy: DRAWN_AS_ACTION_BUTTON },
 ]

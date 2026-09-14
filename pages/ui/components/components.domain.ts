@@ -9,9 +9,7 @@ export const components = {
   parts: [
     "domain/components-quick-add",
     "domain/components-view-engine",
-    "module/action-button-property-badge",
     "module/auth-provider",
-    "module/badge-registry",
     "module/bare-listing-card",
     "module/base-conditions",
     "module/build-server-grouped-sections",

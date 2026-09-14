@@ -16,12 +16,7 @@ import type { PropertyBadgeProps } from "akasha/pages/ui/components/modules/prop
 import { useSetPropertyOptimistic } from "akasha/pages/ui/supabase/modules/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
 import { type MouseEvent, useEffect } from "react"
 
-export function ActionButtonPropertyBadge({
-  property,
-  pageData,
-  pageId,
-  pageTypeSlug,
-}: PropertyBadgeProps) {
+export function Drawing({ property, pageData, pageId, pageTypeSlug }: PropertyBadgeProps) {
   const config = parseConfig(actionButtonConfigSchema, property.config, { verbId: "" })
   const setProperty = useSetPropertyOptimistic()
   const layout = useBadgeLayoutContext()
@@ -45,7 +40,7 @@ export function ActionButtonPropertyBadge({
   useEffect(() => {
     if (config.verbId !== "" && getActionVerb(config.verbId) === undefined) {
       console.error(
-        `ActionButtonPropertyBadge: no handler registered for verbId "${config.verbId}" (property ${property.id})`
+        `Drawing: no handler registered for verbId "${config.verbId}" (property ${property.id})`
       )
     }
   }, [config.verbId, property.id])
@@ -56,9 +51,7 @@ export function ActionButtonPropertyBadge({
     e.nativeEvent.stopImmediatePropagation()
     const handler = getActionVerb(config.verbId)
     if (handler === undefined || pageId == null || pageTypeSlug == null) {
-      console.error(
-        `ActionButtonPropertyBadge: cannot fire verbId "${config.verbId}" (property ${property.id})`
-      )
+      console.error(`Drawing: cannot fire verbId "${config.verbId}" (property ${property.id})`)
       return
     }
     if (config.confirm === true && !window.confirm(label)) return
@@ -67,7 +60,7 @@ export function ActionButtonPropertyBadge({
         handler({ pageId, pageTypeSlug, data: pageData ?? {}, verbId: config.verbId, config })
       )
     } catch (error) {
-      console.error(`ActionButtonPropertyBadge: verbId "${config.verbId}" handler failed`, error)
+      console.error(`Drawing: verbId "${config.verbId}" handler failed`, error)
       return
     }
     if (config.recordInvokedAt === true) {
