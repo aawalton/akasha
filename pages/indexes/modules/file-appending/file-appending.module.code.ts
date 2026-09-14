@@ -1,7 +1,6 @@
 import {
   type Carried,
   type Facing,
-  facingOn,
   heldBeside,
   namingFor,
   sectionHeld,
@@ -29,12 +28,4 @@ export function appendOnlyIn(given: Facing, path: string): boolean {
   if (sectionHeld(path, appendingFor(given))) return true
   const carrying = (named: string): Carried => given.carryingOf(named)
   return heldBeside(path, namingFor(given), appendsOnly, carrying)
-}
-
-export function appendOnlyAt(root: string, path: string): boolean {
-  try {
-    return appendOnlyIn(facingOn(root), path)
-  } catch {
-    return false
-  }
 }

@@ -4,7 +4,7 @@ export const pageValueKey = {
   id: "01a06879-ef4b-7000-a6f7-e981bd4744bc",
   type: "module",
   slug: "page-value-key",
-  definition: "the key names a page's values keep for its body and for what sits beside it",
+  definition: "the key name a page's values keep its body under",
   code: "ts",
   invariants: [
     {
@@ -14,14 +14,6 @@ export const pageValueKey = {
     {
       invariantKind: "departure",
       statement: "The name a body sits under is stated here.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An attachment is in a page's values under one name.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The name an attachment sits under is stated here.",
     },
     {
       invariantKind: "absence",

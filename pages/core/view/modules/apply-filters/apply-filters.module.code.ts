@@ -73,23 +73,3 @@ export function applyFilters<T extends FilterableRow>(
   const predicate = buildFilterPredicate(filters, properties, pageTypeId, propertiesByPageType)
   return items.filter((item) => predicate(item))
 }
-
-export function testFilter(
-  value: ReadonlyJSONValue,
-  filter: ViewFilter,
-  properties: readonly PropertyDefinition[],
-  pageTypeId?: string,
-  propertiesByPageType?: PageTypePropertiesMap
-): boolean {
-  const def = properties.find((p) => p.id === filter.propertyId)
-  if (!def) return true
-  if (def.storage === "content") return true
-  const effective =
-    pageTypeId !== undefined && propertiesByPageType !== undefined
-      ? resolveComputedProperty(def, pageTypeId, propertiesByPageType)
-      : def
-  const ops = PROPERTY_TYPE_OPS_REGISTRY[effective.type]
-  if (!ops) return true
-  const predicate = ops.getFilterPredicate(toFilterConfig(filter), effective)
-  return predicate(value)
-}
