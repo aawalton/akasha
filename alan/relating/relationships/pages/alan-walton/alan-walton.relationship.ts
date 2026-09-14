@@ -12,5 +12,5 @@ export const alanWalton = {
   relationshipInterest: 5,
   relationshipPhone: "+16085122510",
   relationshipSmsAllowed: true,
-  relationshipSmsHandlerTarget: "alan",
+  relationshipSmsHandlerTarget: "person/alan",
 } as const satisfies Relationship

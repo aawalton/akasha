@@ -16,7 +16,7 @@ export const jenniferWalton = {
   relationshipLinkedinUrl: "https://www.linkedin.com/in/jennifer-walton-aa33919",
   relationshipPhone: "+16085122511",
   relationshipSmsAllowed: true,
-  relationshipSmsHandlerTarget: "jenny",
+  relationshipSmsHandlerTarget: "person/jenny",
   relationshipTopics: [
     "relationship-topic/rituals-audit",
     "relationship-topic/marriage-relationship",

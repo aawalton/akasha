@@ -13,5 +13,5 @@ export const kiGoff = {
   relationshipInterest: 4,
   relationshipPhone: "+18015028196",
   relationshipSmsAllowed: true,
-  relationshipSmsHandlerTarget: "ki",
+  relationshipSmsHandlerTarget: "person/ki",
 } as const satisfies Relationship
