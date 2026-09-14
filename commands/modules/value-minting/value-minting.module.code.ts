@@ -96,15 +96,6 @@ function earlyOf(shadow: Shadow): ReadonlyMap<string, Generated> {
   return found
 }
 
-export function earlyIn(
-  root: string,
-  changes: readonly FileChange[]
-): ReadonlyMap<string, Generated> {
-  const cast = shadowFor(changeOf(root, baseOf(root), changes))
-  if ("refused" in cast) return new Map()
-  return earlyOf(cast.shadow)
-}
-
 export function identified(line: string): string | null {
   const said = line.trim()
   if (said === "") return null

@@ -3,7 +3,6 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Adding, Replacing } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
-  earlyIn,
   identified,
   identifiedOver,
   mintedFor,
@@ -134,20 +133,17 @@ test("a kind nothing here works out is refused rather than left unfilled", () =>
 
 test("a property stating no generator is worked out nowhere", () => {
   const root = rooted(null)
-  expect([...earlyIn(root, [carrying(BODY)])]).toEqual([])
   expect(mintingOnto(root, [carrying(BODY)]).edits).toEqual([])
 })
 
 test("a property worked out after the checks is not worked out here", () => {
   const root = rooted("held")
-  expect([...earlyIn(root, [carrying(BODY)])]).toEqual([])
+  expect(mintingOnto(root, [carrying(BODY)]).edits).toEqual([])
+  expect(mintingOnto(root, [carrying(BODY)]).filled).toEqual([])
 })
 
 test("a page being created is given the value it does not carry", () => {
   const root = rooted("uuid-v7")
-  expect([...earlyIn(root, [carrying(BODY)])]).toEqual([
-    ["id", { key: "id", kind: "uuid-v7", afterChecks: false }],
-  ])
   const said = mintingOnto(root, [carrying(BODY)])
   expect(said.filled).toEqual([
     { path: AT, keys: ["id"], why: "a page being created states none of its own" },
