@@ -190,11 +190,3 @@ export function parseSingleFileFlag(argv: readonly string[]): { singleFile: stri
 export const REPO_ROOT_FLAG = {
   repoRoot: { kind: "string" },
 } as const satisfies Record<string, FlagSpec>
-
-export const STANDARD_FLAGS = {
-  json: { kind: "boolean" },
-  repoRoot: { kind: "string" },
-  config: { kind: "string" },
-  only: { kind: "csv" },
-  verbose: { kind: "boolean" },
-} as const satisfies Record<string, FlagSpec>

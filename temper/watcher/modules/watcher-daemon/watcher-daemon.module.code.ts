@@ -29,8 +29,6 @@ const STATE_FILE = "daemon.json"
 
 export const WORKER_LOG = "watcher.log"
 
-export const ROLLED_LOG = "watcher.1.log"
-
 const MODULE = "module"
 
 const WORKER = "watcher-worker"

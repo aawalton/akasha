@@ -46,10 +46,6 @@ const CURRENCY_CONVERSIONS: Record<string, CurrencyConversionItem[]> = {
   ],
 }
 
-export const CURRENCY_ITEM_IDS = new Set(
-  Object.values(CURRENCY_CONVERSIONS).flatMap((items) => items.map((item) => item.ttcItemId))
-)
-
 function lookupPrice(data: PricingData["Data"], item: CurrencyConversionItem): number | null {
   const itemData = data[item.ttcItemId]
   if (!itemData) return null

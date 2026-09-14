@@ -1,5 +1,3 @@
-export const MAJOR = "LibPrice"
-
 export const DAY_CT_SHORT = 3
 export const DAY_CT_LONG = 90
 

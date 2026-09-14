@@ -20,7 +20,6 @@ export const libPrefixWithVersion = "[" + MAJOR + " v" + tostring(MINOR) + "]"
 export const storedInSVFileLibSetsInTable =
   "->Stored in SaveVariables file '" + MAJOR + ".lua', in the table "
 export const PLEASE_RELOAD_UI = ">Please do a /reloadui to update the file properly!"
-export const UPPER_CASE_FIRST_FORMATTER = "<<C:1>>"
 
 export const DEBUG_OUTPUT_START_LINE = "==============================\n"
 
