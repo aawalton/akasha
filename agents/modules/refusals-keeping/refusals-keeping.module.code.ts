@@ -1,7 +1,6 @@
 import { rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { ANSWER_CEILING } from "akasha/commands/modules/long-body/long-body.module.code.ts"
-import { partFiled, partUnfiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import { uncommittedBesideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
 const SLUG = "refusals"
@@ -40,15 +39,13 @@ export function pointedAt(at: string): readonly string[] {
   return [PAST, pointerFor(at)]
 }
 
-function put(root: string, page: string, at: string, body: string | null): boolean {
+function put(root: string, at: string, body: string | null): boolean {
   const full = join(root, at)
   try {
     if (body === null) {
       rmSync(full, { force: true })
-      partUnfiled(root, at)
     } else {
       writeFileSync(full, body)
-      partFiled(root, page, at)
     }
     return true
   } catch {
@@ -56,15 +53,10 @@ function put(root: string, page: string, at: string, body: string | null): boole
   }
 }
 
-function keptAt(
-  root: string,
-  page: string,
-  at: string | null,
-  refusals: readonly string[]
-): string | null {
+function keptAt(root: string, at: string | null, refusals: readonly string[]): string | null {
   if (at === null) return null
   const held = refusals.length === 0 ? null : bodyOf(refusals)
-  if (!put(root, page, at, held)) return null
+  if (!put(root, at, held)) return null
   return held === null ? null : at
 }
 
@@ -73,7 +65,7 @@ export function refusalsPut(
   page: string,
   refusals: readonly string[]
 ): string | null {
-  return keptAt(root, page, refusalsAt(page), refusals)
+  return keptAt(root, refusalsAt(page), refusals)
 }
 
 export function auditRefusalsPut(
@@ -81,7 +73,7 @@ export function auditRefusalsPut(
   page: string,
   refusals: readonly string[]
 ): string | null {
-  return keptAt(root, page, auditRefusalsAt(page), refusals)
+  return keptAt(root, auditRefusalsAt(page), refusals)
 }
 
 export function refusalsKept(
