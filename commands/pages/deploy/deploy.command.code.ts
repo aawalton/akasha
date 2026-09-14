@@ -139,7 +139,8 @@ async function putUp(
   wanted: Wanted,
   given: Given,
   restarting: ReadonlySet<string> | null = null,
-  up: string[] = []
+  up: string[] = [],
+  closures: ReadonlyMap<string, ReadonlySet<string>> | null = null
 ): Promise<Answer> {
   const dry = wanted.dryRun
   let at = ""
@@ -153,7 +154,8 @@ async function putUp(
   }
   if (read.kind === CONTAINER_RECIPE) return await pushedImage(slug, dry, at, up)
   if (read.kind === WORKSTATION_SERVICE) {
-    return putUpEvery(given.root, dry, restarting ?? new Set<string>(), at, up)
+    const every = closures ?? new Map<string, ReadonlySet<string>>()
+    return putUpEvery(given.root, dry, restarting ?? new Set<string>(), at, up, every)
   }
   if (read.kind === INFERENCE_SERVICE) {
     return await putUpInferenceService(given.root, slug, dry, at, up)
@@ -180,7 +182,8 @@ export type PuttingUp = (
   wanted: Wanted,
   given: Given,
   restarting: ReadonlySet<string> | null,
-  up: string[]
+  up: string[],
+  closures: ReadonlyMap<string, ReadonlySet<string>> | null
 ) => Promise<Answer>
 
 export async function deploy(
@@ -252,7 +255,7 @@ async function deployHeld(
   const up: string[] = []
   let answer: Answer
   try {
-    answer = await putting(read, slug, commit, wanted, given, restarting, up)
+    answer = await putting(read, slug, commit, wanted, given, restarting, up, closures)
   } catch (thrown) {
     if (!dry) costRecorded(given.root, read.pagePath, before, PUT_UP, slug, 0, 1)
     const why = [whyOf(thrown), stoppedPartWay(up)]

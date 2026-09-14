@@ -32,6 +32,18 @@ export const servicePuttingUp = {
     },
     {
       invariantKind: "departure",
+      statement: "The loader and one manifest for each service are written where the units are.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A manifest carries the closure the deploy read for that service.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The port the loader reaches is the one the pages service's own page states.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A dry run reports the plan the run would carry out and writes nothing.",
     },
     {
