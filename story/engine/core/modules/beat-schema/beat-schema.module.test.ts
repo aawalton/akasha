@@ -1,12 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import {
   BeatSchema,
-  beatIdentityKey,
-  beatIsGrandfathered,
-  canonicalBeatKey,
-  droppedBeats,
   renderSystemMechanics,
-  storedBeatGrandfatherKeys,
   systemBeatCarriesVoiceText,
   WriteBeatSchema,
 } from "akasha/story/engine/core/modules/beat-schema/beat-schema.module.code.ts"
@@ -71,61 +66,6 @@ describe("WriteBeatSchema", () => {
 
   test("a beat with no turn stamp is refused", () => {
     expect(WriteBeatSchema.safeParse({ type: "narrative", text: "a" }).success).toBe(false)
-  })
-})
-
-describe("canonicalBeatKey", () => {
-  test("key order does not change the key", () => {
-    expect(canonicalBeatKey({ b: 1, a: 2 })).toBe(canonicalBeatKey({ a: 2, b: 1 }))
-  })
-
-  test("undefined values are left out", () => {
-    expect(canonicalBeatKey({ a: 1, b: undefined })).toBe(canonicalBeatKey({ a: 1 }))
-  })
-
-  test("array order does change the key", () => {
-    expect(canonicalBeatKey([1, 2])).not.toBe(canonicalBeatKey([2, 1]))
-  })
-
-  test("differing content gives differing keys", () => {
-    expect(canonicalBeatKey({ text: "a" })).not.toBe(canonicalBeatKey({ text: "b" }))
-  })
-})
-
-describe("beatIsGrandfathered", () => {
-  test("a beat already stored is known again", () => {
-    const keys = storedBeatGrandfatherKeys([{ type: "narrative", text: "a" }])
-    expect(beatIsGrandfathered({ text: "a", type: "narrative" }, keys)).toBe(true)
-    expect(beatIsGrandfathered({ type: "narrative", text: "b" }, keys)).toBe(false)
-  })
-})
-
-describe("beatIdentityKey", () => {
-  test("a beat with an id is known by it", () => {
-    expect(beatIdentityKey({ id: 4, text: "a" })).toBe("id:4")
-    expect(beatIdentityKey({ id: 4, text: "b" })).toBe(beatIdentityKey({ id: 4, text: "a" }))
-  })
-
-  test("a beat with no id is known by its content", () => {
-    expect(beatIdentityKey({ text: "a" })).toBe(`content:${canonicalBeatKey({ text: "a" })}`)
-  })
-})
-
-describe("droppedBeats", () => {
-  test("a stored beat the incoming log no longer holds is dropped", () => {
-    const stored = [
-      { id: 1, text: "a" },
-      { id: 2, text: "b" },
-    ]
-    expect(droppedBeats(stored, [{ id: 1, text: "a" }])).toEqual([{ id: 2, text: "b" }])
-  })
-
-  test("a beat kept under its id is not dropped though its text changed", () => {
-    expect(droppedBeats([{ id: 1, text: "a" }], [{ id: 1, text: "edited" }])).toEqual([])
-  })
-
-  test("nothing incoming drops everything stored", () => {
-    expect(droppedBeats([{ id: 1 }], [])).toEqual([{ id: 1 }])
   })
 })
 

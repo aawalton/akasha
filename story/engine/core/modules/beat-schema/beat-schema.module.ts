@@ -10,14 +10,6 @@ export const beatSchema = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A beat is known by its id where that beat has an id.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A beat with no id is known by its content.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A beat written to the log has the turn the beat belongs to.",
     },
   ],

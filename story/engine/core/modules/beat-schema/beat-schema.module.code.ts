@@ -36,45 +36,6 @@ export function systemBeatCarriesVoiceText(beat: SystemBeat): boolean {
   return hasTitle || hasLine
 }
 
-function sortKeysDeep(value: unknown): unknown {
-  if (Array.isArray(value)) return value.map(sortKeysDeep)
-  if (value !== null && typeof value === "object") {
-    const entries = Object.entries(value)
-      .filter(([, v]) => v !== undefined)
-      .sort(([a], [b]) => (a < b ? -1 : a > b ? 1 : 0))
-    return Object.fromEntries(entries.map(([k, v]) => [k, sortKeysDeep(v)]))
-  }
-  return value
-}
-
-export function canonicalBeatKey(beat: unknown): string {
-  return JSON.stringify(sortKeysDeep(beat))
-}
-
-export function storedBeatGrandfatherKeys(storedLog: readonly unknown[]): ReadonlySet<string> {
-  return new Set(storedLog.map(canonicalBeatKey))
-}
-
-export function beatIsGrandfathered(beat: unknown, grandfatherKeys: ReadonlySet<string>): boolean {
-  return grandfatherKeys.has(canonicalBeatKey(beat))
-}
-
-const BeatIdentitySchema = z.object({ id: BeatIdSchema.optional() }).passthrough()
-
-export function beatIdentityKey(beat: unknown): string {
-  const parsed = BeatIdentitySchema.safeParse(beat)
-  if (parsed.success && parsed.data.id !== undefined) return `id:${String(parsed.data.id)}`
-  return `content:${canonicalBeatKey(beat)}`
-}
-
-export function droppedBeats(
-  storedLog: readonly unknown[],
-  incomingLog: readonly unknown[]
-): readonly unknown[] {
-  const incomingKeys = new Set(incomingLog.map(beatIdentityKey))
-  return storedLog.filter((beat) => !incomingKeys.has(beatIdentityKey(beat)))
-}
-
 export function renderSystemMechanics(mechanics: SystemMechanics): { lines: readonly string[] } {
   const lines = mechanics.poolChanges.map(({ pool, delta, newTotal }) => {
     const sign = delta >= 0 ? "+" : ""
