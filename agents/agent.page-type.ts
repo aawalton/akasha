@@ -9,12 +9,38 @@ export const agent = {
   extends: ["page-type/page"],
   mortal: true,
   parts: [
+    "domain/claude-code",
+    "domain/hook",
+    "domain/messaging",
+    "domain/model",
     "file-property/audit-refusals",
     "file-property/edits",
     "file-property/reads",
     "file-property/refusals",
+    "module/acting-agent",
+    "module/agent-attributes",
+    "module/agent-page-reading",
+    "module/agent-proc-liveness",
+    "module/agent-proc-tree",
+    "module/agent-turn-drawn",
+    "module/io-probe",
+    "module/last-said",
+    "module/launch-flags",
+    "module/proc-scan",
+    "module/read-record",
+    "module/refusals-keeping",
+    "module/stray-process",
+    "module/stray-sweeping",
+    "module/tool-access",
     "one-of-property/assignment-slug",
+    "page-type/agent-settings",
+    "page-type/claude-account",
+    "page-type/role",
+    "page-type/seat",
+    "page-type/subagent",
     "relation-property/principal-seat-name",
+    "service-workstation/sweep-stray-processes",
+    "service-workstation/sweep-subagent-pages",
   ],
   properties: [
     {
@@ -86,6 +112,28 @@ export const agent = {
     {
       invariantKind: "upkeep",
       statement: "Every act an agent leaves for later has a reminder set for that act.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A process a departed agent left running is taken away.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A subagent has departed once its seat's transcript records the result it returned.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Nothing a subagent left behind is taken away on a transcript that names it nowhere.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent whose seat has no page has departed, since no agent is in that seat.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A name exported inside a shell never reaches that shell's own environment.",
     },
   ],
   types: "ts",

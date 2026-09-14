@@ -4,7 +4,7 @@ export const aScratchFoldersNodeModulesIsTheRepositorysOwnNodeModules = {
   id: "01a09112-5923-7b71-add8-ffc2e60c1021",
   type: "finding",
   slug: "a-scratch-folders-node-modules-is-the-repositorys-own-node-modules",
-  domain: "domain/agent",
+  domain: "page-type/agent",
   claim:
     "The scratch folder every agent in a session shares holds a `node_modules` that is a symlink to the repository's own `node_modules`, and nothing says so. An agent that runs `bun install` under what it takes for its own scratch folder, or writes `node_modules/<anything>` there, writes the checkout. What the checkout's `node_modules/akasha` is then matters: bun writes it as the relative link `akasha -> ..`, and under the test overlay a relative link resolves inside the merged tree while an absolute one walks back out to the real checkout, where the files a pending change adds are not. It was absolute this morning, and four landings between 08:59 and 09:02 worked around it by respelling `akasha/...` away. `bun install --frozen-lockfile` answers `no changes` over an absolute link, and so does a plain `bun install`; only taking the link away and installing again restores it. The fault is the aliasing rather than any one agent.",
   evidence:

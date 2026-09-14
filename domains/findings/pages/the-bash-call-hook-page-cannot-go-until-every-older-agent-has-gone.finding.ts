@@ -4,7 +4,7 @@ export const theBashCallHookPageCannotGoUntilEveryOlderAgentHasGone = {
   id: "01a0960d-1ce9-79ef-97ef-9e9430501237",
   type: "finding",
   slug: "the-bash-call-hook-page-cannot-go-until-every-older-agent-has-gone",
-  domain: "domain/agent",
+  domain: "page-type/agent",
   claim:
     "The `weigh-bash-call` hook answers `LET_THROUGH` and does nothing else, and the harness spawns it on every bash call every agent makes. Taking its page away would take that spawn away too, and two conditions block that. A registration naming the hook's code file is settled at a spawn, so an agent spawned before the page went would meet a registration naming a file nothing is at, which refuses the call rather than passing it. And the hook's own entries files beside the page hold about sixteen megabytes that taking the page away would take with them.",
   evidence:

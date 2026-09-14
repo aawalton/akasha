@@ -4,7 +4,7 @@ export const aSubagentPresenceWriteHoldsTheLandingLockForHalfAnHour = {
   id: "01a09cca-4322-7b5a-81f7-166077c9d14b",
   type: "finding",
   slug: "a-subagent-presence-write-holds-the-landing-lock-for-half-an-hour",
-  domain: "domain/agent",
+  domain: "page-type/agent",
   claim:
     "A subagent presence write takes the repository landing lock and holds it for tens of minutes under load, so every agent's landings queue behind the fleet's subagents starting and stopping.",
   evidence:

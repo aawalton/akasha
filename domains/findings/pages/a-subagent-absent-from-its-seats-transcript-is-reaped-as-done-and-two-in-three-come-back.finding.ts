@@ -4,7 +4,7 @@ export const aSubagentAbsentFromItsSeatsTranscriptIsReapedAsDoneAndTwoInThreeCom
   id: "01a09645-1535-736d-b730-da27832d6360",
   type: "finding",
   slug: "a-subagent-absent-from-its-seats-transcript-is-reaped-as-done-and-two-in-three-come-back",
-  domain: "domain/agent",
+  domain: "page-type/agent",
   claim:
     "A subagent's page is reaped by `took` at `agents/subagents/modules/presence/subagent-presence.module.code.ts:187-207` on one signal: liveness answering `returned`. `readOf` at `agents/subagents/modules/liveness/subagent-liveness.module.code.ts:53-55` answers `returned` whenever the agent id is among no running node folded out of the seat's transcript. Absence from a transcript cannot part not yet from no longer, and the reader resolves that ambiguity toward done. `seat-system/subagents/subagent.page-type.ts:68` already declares the opposite reading, and `:72` that a resumed subagent may be named nowhere while working, so the code contradicts its own page. What was not written down is how often it bites: 812 of 2055 reaps in history, 39.5%, were undone by the page coming back, and 120 of 183, 65.6%, since the liveness read was added for exactly this. The reader already answers which subagents ended, and `readOf` asks it nothing.",
   evidence:

@@ -4,7 +4,7 @@ export const aValueNothingNamesInTheSeatSystemIsAsOftenALooseWireAsDeadCode = {
   id: "01a09d25-47eb-72a6-96c3-41c511e2a09b",
   type: "finding",
   slug: "a-value-nothing-names-in-the-seat-system-is-as-often-a-loose-wire-as-dead-code",
-  domain: "domain/agent",
+  domain: "page-type/agent",
   claim:
     "Sorting the seat system's unnamed exports turns up values whose absence leaves a live path inert rather than unchanged. Three readers take a seat value nothing writes, a name claim's live-holder refusal fires on a rename and never on a start, the pending maintainer watches every store but the one it counts from, a factory sits beside the copy of itself that runs, and the only reader of a costly observation is reached by nothing. Each reads as a wire come loose rather than a road taken out on purpose, so each is left rather than ablated.",
   evidence:
