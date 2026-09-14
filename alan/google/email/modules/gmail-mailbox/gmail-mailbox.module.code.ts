@@ -6,6 +6,7 @@ const API = "https://gmail.googleapis.com/gmail/v1/users/me"
 const WANTED_HEADERS = [
   "From",
   "To",
+  "Cc",
   "Subject",
   "List-Id",
   "List-Unsubscribe",
@@ -18,6 +19,7 @@ export interface Message {
   readonly from: string
   readonly fromAddress: string
   readonly to: string
+  readonly cc: string
   readonly subject: string
   readonly listId: string
   readonly labelIds: readonly string[]
@@ -160,6 +162,7 @@ export async function mailbox(): Promise<Mailbox> {
         from: header("from"),
         fromAddress: addressOf(header("from")),
         to: header("to"),
+        cc: header("cc"),
         subject: header("subject"),
         listId: header("list-id"),
         labelIds: raw.labelIds ?? [],
