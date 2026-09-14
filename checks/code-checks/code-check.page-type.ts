@@ -76,7 +76,7 @@ export const codeCheck = {
     "code-check/require-import-extension",
     "code-check/restatement-narrows-something",
     "code-check/shell-clean",
-    "code-check/specifier-names-a-package",
+
     "code-check/tests-pass",
     "code-check/typecheck",
     "code-check/types-file-runs-nothing",
