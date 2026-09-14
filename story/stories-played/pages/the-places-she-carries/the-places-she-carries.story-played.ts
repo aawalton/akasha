@@ -5,7 +5,7 @@ export const thePlacesSheCarries = {
   type: "story-played",
   slug: "the-places-she-carries",
   title: "The Places She Carries",
-  world: "the-places-she-carries",
-  unit: "words",
+  world: "world/the-places-she-carries",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryPlayed

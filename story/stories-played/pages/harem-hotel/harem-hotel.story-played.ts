@@ -5,6 +5,6 @@ export const haremHotel = {
   type: "story-played",
   slug: "harem-hotel",
   title: "Harem Hotel",
-  world: "personas",
-  unit: "words",
+  world: "world/personas",
+  unit: "unit/words",
 } as const satisfies StoryPlayed

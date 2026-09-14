@@ -5,6 +5,6 @@ export const theBeholder = {
   type: "story-written",
   slug: "the-beholder",
   title: "The Beholder",
-  world: "the-beholder",
-  unit: "words",
+  world: "world/the-beholder",
+  unit: "unit/words",
 } as const satisfies StoryWritten

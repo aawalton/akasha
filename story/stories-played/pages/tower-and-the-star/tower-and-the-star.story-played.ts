@@ -5,6 +5,6 @@ export const towerAndTheStar = {
   type: "story-played",
   slug: "tower-and-the-star",
   title: "Tower And The Star",
-  world: "tower-and-the-star",
-  unit: "words",
+  world: "world/tower-and-the-star",
+  unit: "unit/words",
 } as const satisfies StoryPlayed

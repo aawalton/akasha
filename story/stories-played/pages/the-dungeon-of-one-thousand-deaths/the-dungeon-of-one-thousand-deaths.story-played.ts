@@ -5,6 +5,6 @@ export const theDungeonOfOneThousandDeaths = {
   type: "story-played",
   slug: "the-dungeon-of-one-thousand-deaths",
   title: "The Dungeon of One Thousand Deaths",
-  world: "the-dungeon-of-one-thousand-deaths",
-  unit: "words",
+  world: "world/the-dungeon-of-one-thousand-deaths",
+  unit: "unit/words",
 } as const satisfies StoryPlayed

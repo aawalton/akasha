@@ -5,7 +5,7 @@ export const comeHere = {
   type: "story-written",
   slug: "come-here",
   title: "Come Here",
-  world: "personas",
-  unit: "words",
+  world: "world/personas",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryWritten

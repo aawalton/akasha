@@ -5,6 +5,6 @@ export const cornerstone = {
   type: "story-written",
   slug: "cornerstone",
   title: "Cornerstone",
-  world: "cornerstone",
-  unit: "words",
+  world: "world/cornerstone",
+  unit: "unit/words",
 } as const satisfies StoryWritten

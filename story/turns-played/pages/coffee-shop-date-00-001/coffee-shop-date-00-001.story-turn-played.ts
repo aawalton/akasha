@@ -4,9 +4,9 @@ export const coffeeShopDate00001 = {
   id: "01a0682a-3e1c-7947-a4af-aedfa033358d",
   type: "story-turn-played",
   slug: "coffee-shop-date-00-001",
-  partOfCollections: ["coffee-shop-date"],
+  partOfCollections: ["story-played/coffee-shop-date"],
   position: 1,
   ownLength: 146,
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryTurnPlayed

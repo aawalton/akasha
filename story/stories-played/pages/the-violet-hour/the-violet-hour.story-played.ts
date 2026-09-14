@@ -5,7 +5,7 @@ export const theVioletHour = {
   type: "story-played",
   slug: "the-violet-hour",
   title: "The Violet Hour",
-  world: "personas",
-  unit: "words",
+  world: "world/personas",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryPlayed

@@ -5,7 +5,7 @@ export const anthology = {
   type: "story-written",
   slug: "anthology",
   title: "Anthology",
-  world: "personas",
-  unit: "words",
+  world: "world/personas",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryWritten
