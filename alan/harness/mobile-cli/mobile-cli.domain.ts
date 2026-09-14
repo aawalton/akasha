@@ -15,7 +15,6 @@ export const mobileCli = {
     "module/export-options-plist",
     "module/foundation",
     "module/git-tree-hash",
-    "module/install-sim-shell",
     "module/ios-program-components",
     "module/ios-signing",
     "module/local-cut-lock",
