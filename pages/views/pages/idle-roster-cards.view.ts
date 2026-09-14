@@ -5,7 +5,7 @@ export const idleRosterCards = {
   type: "view",
   slug: "idle-roster-cards",
   title: "Cards",
-  nav: "idle-roster",
+  nav: "nav/idle-roster",
   pageType: "idle-persona-card",
   viewPlace: 0,
   layout: "gallery",

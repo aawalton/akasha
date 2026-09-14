@@ -5,7 +5,7 @@ export const booksAllByStatus = {
   type: "view",
   slug: "books-all-by-status",
   title: "All by Status",
-  nav: "books",
+  nav: "nav/books",
   pageType: "ki-book",
   viewPlace: 3,
   layout: "cards",

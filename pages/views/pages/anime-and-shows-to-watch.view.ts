@@ -5,7 +5,7 @@ export const animeAndShowsToWatch = {
   type: "view",
   slug: "anime-and-shows-to-watch",
   title: "To Watch",
-  nav: "anime-and-shows",
+  nav: "nav/anime-and-shows",
   pageType: "ki-show",
   viewPlace: 1,
   layout: "cards",

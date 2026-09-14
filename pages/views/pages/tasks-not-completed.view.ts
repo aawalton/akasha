@@ -5,7 +5,7 @@ export const tasksNotCompleted = {
   type: "view",
   slug: "tasks-not-completed",
   title: "Not Completed",
-  nav: "tasks",
+  nav: "nav/tasks",
   pageType: "to-do",
   viewPlace: 2,
   layout: "cards",

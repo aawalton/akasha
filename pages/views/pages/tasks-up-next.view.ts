@@ -5,7 +5,7 @@ export const tasksUpNext = {
   type: "view",
   slug: "tasks-up-next",
   title: "Up Next",
-  nav: "tasks",
+  nav: "nav/tasks",
   pageType: "to-do",
   viewPlace: 1,
   narrows: [
