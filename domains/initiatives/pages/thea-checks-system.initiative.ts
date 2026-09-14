@@ -15,7 +15,7 @@ export const theaChecksSystem = {
     {
       statement: "No module exports a value nothing names.",
       workingMemory:
-        "527 refusals: 271 a value nothing names, 226 only a test names, 30 only its own file names. 437 sit in modules that are reached, so narrowing those takes no feature away. 68 files are dead whole, and those are where a feature can leave. temper 90, alan 89, story 87, pages 61, agents 41.",
+        "369 refusals: 179 only a test names, 157 a value nothing names, 33 only its own file names. Most sit in modules that are reached, so narrowing those takes no feature away, and a file dead whole is where a feature can leave. alan 61, pages 48, agents 45, story 41, domains 27, infrastructure 25, code 20.",
     },
 
     {
