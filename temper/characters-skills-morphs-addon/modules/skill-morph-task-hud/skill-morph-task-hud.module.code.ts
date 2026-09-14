@@ -7,7 +7,6 @@ import {
   MORPHABLE_SKILLS_PER_LINE,
   SKILL_LINE_DISPLAY_ORDER,
 } from "akasha/temper/characters-capture-addon/modules/character-capture-skill-line-ranks/character-capture-skill-line-ranks.module.code.ts"
-import type { SkillLineProgress } from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
 import {
   getSavedVariables,
   type TaskData,
@@ -15,7 +14,6 @@ import {
 import type { ExpectedMorphableSkill } from "akasha/temper/skill-morphs/modules/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
 import {
   type MorphSuggestionEntry,
-  pickRelevantSkillLineIds,
   selectMorphSuggestions,
 } from "akasha/temper/skill-morphs/modules/select-morph-suggestions/select-morph-suggestions.module.code.ts"
 
@@ -99,23 +97,6 @@ function getSkillLineRanks(): ReadonlyMap<number, number> {
 
 export function isSkillMorphTask(this: void, task: TaskData): boolean {
   return task.completionCardId === "skill-morphs"
-}
-
-export function getRelevantSkillLineIds(
-  this: void,
-  task: TaskData,
-  slp: Record<number, SkillLineProgress>,
-  charClassId: number
-): readonly number[] {
-  const keys: number[] = []
-  for (const k of Object.keys(slp)) keys.push(Number(k))
-  return pickRelevantSkillLineIds({
-    taskItemPath: task.completionItemPath,
-    skillLineKeys: keys,
-    classLineEsoIds: ALL_CLASS_LINE_ESO_IDS,
-    playerClassLineEsoIds: getPlayerClassLineEsoIds(charClassId),
-    morphableLineDisplayOrders: MORPHABLE_LINE_DISPLAY_ORDERS,
-  })
 }
 
 function computeSkillMorphResult(
