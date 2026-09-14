@@ -19,6 +19,7 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { musicNext as page } from "akasha/commands/pages/music/next/music-next.command.ts"
 import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
+import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { propertiesIfNamedOf } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 
 const ARTIST = "artist"
@@ -89,10 +90,11 @@ function artistIn(held: Held): CatalogArtist {
 
 function songIn(held: Held): CatalogSong {
   const graded = rank(held)
+  const named = text(held, ARTIST)
   return {
     slug: text(held, "slug") ?? "",
     title: text(held, "title") ?? "",
-    artist: text(held, "artist") ?? "",
+    artist: named === undefined ? "" : slugOf(named),
     songType: oneOf(held, "songType", SONG_TYPES) ?? "derivative",
     performed: held["performed"] === true,
     ...(graded === undefined ? {} : { rank: graded }),

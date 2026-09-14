@@ -27,6 +27,12 @@ export type DistinctRecording = {
 
 const SOURCE = "musicbrainz"
 
+const ARTIST = "artist"
+
+export function artistAddressOf(artistSlug: string): string {
+  return `${ARTIST}/${artistSlug}`
+}
+
 const WRITER_REL_TYPES: ReadonlySet<string> = new Set(["writer", "composer", "lyricist"])
 
 const VERSION_REL_TYPES: ReadonlySet<string> = new Set([
@@ -199,7 +205,7 @@ export function mbWorkToSongFields(args: {
   const written = deriveWritten(args.work, args.artistMbid)
   return {
     title: args.work.title,
-    artist: args.artistSlug,
+    artist: artistAddressOf(args.artistSlug),
     externalIdentity: [
       {
         source: SOURCE,
@@ -222,7 +228,7 @@ export function mbRecordingToSongFields(args: {
 }): SongFields {
   return {
     title: args.title,
-    artist: args.artistSlug,
+    artist: artistAddressOf(args.artistSlug),
     externalIdentity: [
       {
         source: SOURCE,

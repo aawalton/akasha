@@ -90,6 +90,10 @@ export const musicbrainzMap = {
       statement: "A song's title from a recording is the recording's title.",
     },
     {
+      invariantKind: "departure",
+      statement: "A song names the artist whose song it is as an address.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reaches the network.",
     },

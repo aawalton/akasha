@@ -92,6 +92,14 @@ test("the catalogue is read from the song pages and the artist pages", () => {
   expect(catalog.songs.every((one) => one.artist !== "")).toBe(true)
 })
 
+test("a song reaches its artist whether or not it names that artist's page type", () => {
+  if (!indexThere(ROOT)) return
+  const catalog = catalogIn(ROOT)
+  expect(catalog.songs.every((one) => !one.artist.includes("/"))).toBe(true)
+  const slugs = new Set(catalog.artists.map((one) => one.slug))
+  expect(catalog.songs.some((one) => slugs.has(one.artist))).toBe(true)
+})
+
 test("the grades on the pages reach the catalogue", () => {
   if (!indexThere(ROOT)) return
   const catalog = catalogIn(ROOT)

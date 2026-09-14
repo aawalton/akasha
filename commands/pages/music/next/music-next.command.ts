@@ -18,6 +18,10 @@ export const musicNext = {
     },
     {
       invariantKind: "departure",
+      statement: "A song reaches its artist whether or not it names that artist's page type.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The choice itself is made by `music-exploration`.",
     },
     {

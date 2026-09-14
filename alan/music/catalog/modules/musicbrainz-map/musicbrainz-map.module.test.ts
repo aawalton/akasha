@@ -336,7 +336,7 @@ describe("mbWorkToSongFields", () => {
       })
     ).toEqual({
       title: "Bohemian Rhapsody",
-      artist: "queen",
+      artist: "artist/queen",
       externalIdentity: [
         {
           source: "musicbrainz",
@@ -397,7 +397,7 @@ describe("mbRecordingToSongFields", () => {
       })
     ).toEqual({
       title: "Under Pressure (Live)",
-      artist: "queen",
+      artist: "artist/queen",
       externalIdentity: [
         {
           source: "musicbrainz",
