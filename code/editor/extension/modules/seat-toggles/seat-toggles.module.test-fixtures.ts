@@ -36,12 +36,18 @@ const VIEW_RE = /view\s*==\s*([A-Za-z]+)/
 
 const VIEW_ITEM_RE = /viewItem\s*=~\s*\/(.+?)\/\s*$/
 
+const VIEW_ITEM_IS_RE = /viewItem\s*==\s*([A-Za-z.]+)/
+
 const CLAUSE_SCHEMA = z.tuple([z.string(), z.string()]).nullable()
 
 function matchesRow(when: string, contextValue: string, view: string = VIEW_ID): boolean {
   const named = CLAUSE_SCHEMA.parse(VIEW_RE.exec(when))
   if (named !== null && named[1] !== view) {
     return false
+  }
+  const exact = CLAUSE_SCHEMA.parse(VIEW_ITEM_IS_RE.exec(when))
+  if (exact !== null) {
+    return exact[1] === contextValue
   }
   const found = CLAUSE_SCHEMA.parse(VIEW_ITEM_RE.exec(when))
   if (found === null) {
