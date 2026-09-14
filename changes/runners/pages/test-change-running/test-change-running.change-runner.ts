@@ -11,24 +11,24 @@ export const testChangeRunning = {
   reached: "page-type/change",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A test reaches a change by the address that change is filed under.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The change is loaded off the world the repository itself is read as.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The change is run over the world the test handed in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A test wanting the addresses reached rather than the edits names a world listing them.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No change is imported here.",
     },
   ],
