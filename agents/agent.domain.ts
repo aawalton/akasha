@@ -43,6 +43,10 @@ export const agent = {
       statement: "A subagent has departed once its seat's transcript stops naming it as running.",
     },
     {
+      invariantKind: "departure",
+      statement: "A subagent whose seat has no page has departed, since no agent is in that seat.",
+    },
+    {
       invariantKind: "constraint",
       statement: "A name exported inside a shell never reaches that shell's own environment.",
     },

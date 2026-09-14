@@ -1,17 +1,23 @@
 import { expect, test } from "bun:test"
 import type { ProcLivenessEntry } from "akasha/agents/modules/proc-liveness/agent-proc-liveness.module.code.ts"
 import {
+  type Answer,
   actingNamedOn,
   actingOf,
+  answerAsked,
+  type SeatPaging,
   strayAmong,
 } from "akasha/agents/modules/stray-process/stray-process.module.code.ts"
-import type { Liveness } from "akasha/agents/subagents/modules/liveness/subagent-liveness.module.code.ts"
 
 const SEAT = "01a09581-cb35-7000-b00f-7156d6b3ce13"
 
 const ACTING = `${SEAT}--a05867e64f733ddec`
 
 const ANOTHER = `${SEAT}--a32671c5cf0526c7f`
+
+const REFUSING: SeatPaging = () => {
+  throw new Error("the index would not answer which pages are seats")
+}
 
 function procAt(pid: number, actingAgentId?: string): ProcLivenessEntry {
   return { agentId: SEAT, actingAgentId, cmdline: `sleep ${String(pid)}`, pid }
@@ -27,8 +33,8 @@ function wrapperAt(pid: number, named: string): ProcLivenessEntry {
   return { agentId: SEAT, cmdline: `/bin/bash -c ${weighed}\n${requoted(exported)}`, pid }
 }
 
-function saying(liveness: Liveness): (actingAgentId: string) => Promise<Liveness> {
-  return async () => liveness
+function saying(answer: Answer): (actingAgentId: string) => Promise<Answer> {
+  return async () => answer
 }
 
 test("a process is a stray where the seat's transcript names its subagent as returned", async () => {
@@ -100,6 +106,28 @@ test("a command line that merely mentions an acting agent names none", async () 
   )
 
   expect(read.strays).toEqual([])
+})
+
+test("a subagent whose seat no page carries has departed, so its processes are strays", async () => {
+  const read = await strayAmong([procAt(11, ACTING), procAt(12, ACTING)], saying("gone"))
+
+  expect(read.strays.map((one) => one.pid)).toEqual([11, 12])
+  expect(read.unread).toEqual([])
+})
+
+test("a seat the index carries no page for is gone", async () => {
+  expect(await answerAsked(ACTING, () => null)).toBe("gone")
+})
+
+test("an index that would not answer leaves the subagent unread rather than gone", async () => {
+  expect(await answerAsked(ACTING, REFUSING)).toBe("unread")
+})
+
+test("an index that would not answer yields no stray", async () => {
+  const read = await strayAmong([procAt(11, ACTING)], (one) => answerAsked(one, REFUSING))
+
+  expect(read.strays).toEqual([])
+  expect(read.unread).toEqual([ACTING])
 })
 
 test("the environment is taken where the command line disagrees", async () => {

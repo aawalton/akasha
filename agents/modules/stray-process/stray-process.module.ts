@@ -4,13 +4,25 @@ export const strayProcess = {
   id: "01a09cd4-c1f0-776c-825d-f33fe4f0576c",
   type: "module",
   slug: "stray-process",
-  definition: "a process still running under a subagent that has returned",
+  definition: "a process still running under a subagent that has departed",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement: "A process is a stray where the seat's transcript names its subagent as returned.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A process is a stray where the index carries no page for its subagent's seat.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Whether the seat has a page is read before the transcript is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An index that would not answer leaves the subagent unread rather than gone.",
     },
     {
       invariantKind: "departure",
@@ -52,7 +64,12 @@ export const strayProcess = {
     },
     {
       invariantKind: "absence",
-      statement: "No page is read to tell whether a subagent has returned.",
+      statement: "No page's body is read to tell whether a subagent has returned.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "An index read as carrying no page where it would not answer would make every seat look gone.",
     },
     {
       invariantKind: "absence",

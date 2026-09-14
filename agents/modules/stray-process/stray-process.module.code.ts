@@ -4,6 +4,7 @@ import {
   ACTING_NAMED,
   SUBAGENT_MARK,
 } from "akasha/agents/modules/read-record/read-record.module.code.ts"
+import { akashaSeatPathForAgent } from "akasha/agents/seats/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import {
   actingIn,
   type Liveness,
@@ -21,7 +22,13 @@ export type Reading = {
   readonly unread: readonly string[]
 }
 
-export type Asking = (actingAgentId: string) => Promise<Liveness>
+export type Answer = Liveness | "gone"
+
+export type Asking = (actingAgentId: string) => Promise<Answer>
+
+export type SeatPaging = (seatId: string) => string | null
+
+type SeatPage = "there" | "gone" | "unread"
 
 function namesASubagent(actingAgentId: string): boolean {
   return actingAgentId.indexOf(SUBAGENT_MARK) > 0
@@ -68,27 +75,40 @@ export async function strayAmong(
   const strays: Stray[] = []
   const unread: string[] = []
   for (const actingAgentId of [...grouped.keys()].sort()) {
-    const liveness = await asking(actingAgentId)
-    if (liveness === "unread") {
+    const answer = await asking(actingAgentId)
+    if (answer === "unread") {
       unread.push(actingAgentId)
       continue
     }
-    if (liveness === "working") continue
+    if (answer === "working") continue
     const group = [...(grouped.get(actingAgentId) ?? [])].sort((a, b) => a.pid - b.pid)
     for (const one of group) strays.push({ pid: one.pid, actingAgentId, cmdline: one.cmdline })
   }
   return { strays, unread }
 }
 
-async function livenessAsked(actingAgentId: string): Promise<Liveness> {
+function seatPaged(seatId: string, paging: SeatPaging): SeatPage {
+  try {
+    return paging(seatId) === null ? "gone" : "there"
+  } catch {
+    return "unread"
+  }
+}
+
+export async function answerAsked(
+  actingAgentId: string,
+  paging: SeatPaging = akashaSeatPathForAgent
+): Promise<Answer> {
   const acting = actingIn(actingAgentId)
   if (acting === null) return "unread"
+  const seat = seatPaged(acting.seatId, paging)
+  if (seat !== "there") return seat
   return (await readFor(acting)).liveness
 }
 
 export async function strayNow(
   entries: readonly ProcLivenessEntry[] = scanProcEntries().entries,
-  asking: Asking = livenessAsked
+  asking: Asking = answerAsked
 ): Promise<Reading> {
   return await strayAmong(entries, asking)
 }

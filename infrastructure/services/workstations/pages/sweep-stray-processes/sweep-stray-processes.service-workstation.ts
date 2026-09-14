@@ -96,9 +96,9 @@ export const sweepStrayProcesses = {
         "A subagent's return is read through its seat's page, so a silent index leaves every one unread.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "departure",
       statement:
-        "An acting agent naming no seat page is never read, so its processes are never ended.",
+        "An acting agent whose seat no page carries has departed, so its processes are ended.",
     },
   ],
 } as const satisfies ServiceWorkstation
