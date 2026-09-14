@@ -14,7 +14,9 @@ import { refFor } from "akasha/infrastructure/container-image/modules/image-ref/
 import { dispatcherIn } from "akasha/infrastructure/machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.scripting.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 
-const NAMESPACE = "workers"
+export const JOB_NAMESPACE = "workers"
+
+const NAMESPACE = JOB_NAMESPACE
 
 const CLASS = "ci"
 
