@@ -60,7 +60,7 @@ export const PAGES: readonly Reached[] = [SCRIPTURES, SONGS]
 
 const ADMITTING: readonly string[] = [TARGET, "scripture-collection"]
 
-const TARGETED: ReadonlySet<string> = new Set(["section-of", "part-of-collections"])
+const TARGETED: ReadonlySet<string> = new Set(["book-section-of", "book-part-of-collections"])
 
 function listedOf(one: Reached): Listed {
   return { path: `alan/collections/${one.slug}.${one.pageTypeSlug}.ts`, id: one.id }
@@ -78,10 +78,11 @@ function filedIn(pages: readonly Reached[]): (address: PageAddress) => readonly 
   }
 }
 
-function declaring(key: string, propertySlug: string, many: boolean): Declared {
+function declaring(key: string, slug: string, propertySlug: string, many: boolean): Declared {
+  const pageTypeSlug = TARGETED.has(slug) ? "relation-property" : "text-property"
   return {
-    pagePropertySlug: propertySlug,
-    pageTypeSlug: TARGETED.has(propertySlug) ? "relation-property" : "text-property",
+    pagePropertySlug: `${pageTypeSlug}/${slug}`,
+    pageTypeSlug,
     propertySlug,
     key,
     unique: null,
@@ -96,9 +97,9 @@ function declaring(key: string, propertySlug: string, many: boolean): Declared {
 }
 
 export const DECLARED: readonly Declared[] = [
-  declaring(ONE_KEY, "section-of", false),
-  declaring(LIST_KEY, "part-of-collections", true),
-  declaring(TEXT_KEY, "definition", false),
+  declaring(ONE_KEY, "book-section-of", "section-of", false),
+  declaring(LIST_KEY, "book-part-of-collections", "part-of-collections", true),
+  declaring(TEXT_KEY, "definition", "definition", false),
 ]
 
 export function sectionAt(slug: string, one: string, held: readonly string[]): string {

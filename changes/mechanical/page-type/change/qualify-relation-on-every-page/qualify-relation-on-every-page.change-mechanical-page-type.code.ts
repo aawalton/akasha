@@ -18,6 +18,7 @@ import {
   type Wanted,
 } from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
 import { addressIn, namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
+import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import ts from "typescript"
 
 const BARE = "bare"
@@ -55,7 +56,7 @@ export function namingFor(world: World, given: Asked): Naming | string {
   const held = carried.find((one) => one.key === given.key)
   if (held === undefined) return `a \`${given.pageType}\` has no property under \`${given.key}\``
   const known = world.index.knownIn()
-  const wanted = known.targetOf(held.propertySlug)
+  const wanted = known.targetOf(slugOf(held.pagePropertySlug))
   if (eachTarget(wanted).length === 0) {
     return `\`${given.key}\` on a \`${given.pageType}\` declares no page type to reach`
   }

@@ -67,6 +67,11 @@ export const qualifyRelationOnEveryPage = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "What a key declares is read off the property page that key names rather than off the key.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A key the page type declares nowhere is refused.",
     },
     {
