@@ -16,6 +16,9 @@ import {
   markIn,
   startedAt,
 } from "akasha/files/modules/lock-holder/lock-holder.module.code.ts"
+import { holding } from "akasha/git/modules/holding/holding.module.code.ts"
+import { keepingIn } from "akasha/pages/indexes/modules/indexing/indexing.module.code.ts"
+import { indexIn } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import {
   partedIn,
@@ -23,6 +26,7 @@ import {
 } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { loadedFrom } from "akasha/pages/modules/value/page-value.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import { textThere } from "akasha/utils/fs/modules/text-there/text-there.module.code.ts"
 
 const HOLDS = "uncommitted"
 
@@ -39,6 +43,12 @@ const WAITED_AT_MOST = 20000
 const HELD_AT_MOST = 10000
 
 const MODE_BITS = 0o7777
+
+const FILED_UNDER = "path"
+
+const FILED_ENDING = ".jsonl"
+
+const FILED_WAITED = 10000
 
 function abandoned(lock: string, mark: string): boolean {
   const held = holderOf(markIn(mark))
@@ -162,25 +172,57 @@ function sweptBeside(full: string): undefined {
   }
 }
 
-function writtenAt(full: string, page: string, values: Value): undefined {
+function writtenAt(full: string, page: string, values: Value): string {
   const scratch = `${full}.${process.pid}.${PART}`
   sweptBeside(full)
   const found = statSync(full, { throwIfNoEntry: false })
-  writeFileSync(scratch, bodyFor(page, values), "utf8")
+  const body = bodyFor(page, values)
+  writeFileSync(scratch, body, "utf8")
   if (found !== undefined) chmodSync(scratch, found.mode & MODE_BITS)
   renameSync(scratch, full)
+  return body
+}
+
+function filedAlready(root: string, at: string): boolean {
+  return existsSync(join(indexIn(root), FILED_UNDER, `${at}${FILED_ENDING}`))
+}
+
+function besideFiled(
+  root: string,
+  at: string,
+  before: string | null,
+  after: string | null
+): undefined {
+  if (!existsSync(indexIn(root))) return
+  if (filedAlready(root, at) === (after !== null)) return
+  try {
+    holding(
+      root,
+      () => {
+        const keeping = keepingIn(root)
+        if (after === null) keeping.took(at, before)
+        else keeping.wrote(at, after, before)
+        keeping.settle()
+      },
+      FILED_WAITED
+    )
+  } catch {}
 }
 
 export function keepUncommitted(root: string, page: string, values: Value): undefined {
-  const full = join(root, besideOr(page))
-  exclusively(full, () => writtenAt(full, page, values))
+  const at = besideOr(page)
+  const full = join(root, at)
+  exclusively(full, () => {
+    besideFiled(root, at, null, writtenAt(full, page, values))
+  })
 }
 
 export function mergeUncommitted(root: string, page: string, values: Value): undefined {
   const at = besideOr(page)
   const full = join(root, at)
   exclusively(full, () => {
-    writtenAt(full, page, { ...(valuesIn(full, at) ?? {}), ...values })
+    const held = valuesIn(full, at)
+    besideFiled(root, at, null, writtenAt(full, page, { ...(held ?? {}), ...values }))
   })
 }
 
@@ -198,7 +240,7 @@ export function dropUncommitted(root: string, page: string, keys: readonly strin
       delete kept[key]
       dropped = true
     }
-    if (dropped) writtenAt(full, page, kept)
+    if (dropped) besideFiled(root, at, null, writtenAt(full, page, kept))
   })
 }
 
@@ -207,7 +249,9 @@ export function removeUncommitted(root: string, page: string): undefined {
   if (at === null) return
   const full = join(root, at)
   exclusively(full, () => {
+    const was = textThere(full)
     sweptBeside(full)
     rmSync(full, { force: true })
+    besideFiled(root, at, was, null)
   })
 }

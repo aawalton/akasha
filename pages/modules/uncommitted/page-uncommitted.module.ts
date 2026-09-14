@@ -33,8 +33,59 @@ export const pageUncommitted = {
       statement: "The page beside this file claims this file where this file is there.",
     },
     {
-      invariantKind: "gap",
-      statement: "A file written here is filed in the path index at the next settle over its page.",
+      invariantKind: "departure",
+      statement: "A write here files the file it writes in the path index and the listing index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Taking the file away unfiles that file from both.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Filing runs inside the lock the write takes, so no writer of that file cuts in.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Whether the index already files the file is read from the path index entry for that file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write the index already files files nothing again.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file rewritten as the agents run costs one read of that entry rather than a filing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Filing is a settle over this file, which the page beside it claims.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Filing takes the landing lock, so a landing and a write here never file at once.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Filing that fails or cannot take that lock is left undone rather than failing the write.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A filing left undone is done by the next write of that file.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "An index that is not there is written into by nothing here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here asks whether the page type is mortal.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here says what a settle noted or refused.",
     },
     {
       invariantKind: "departure",
