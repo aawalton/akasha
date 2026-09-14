@@ -15,7 +15,7 @@ export const personaEmailRouting = {
   },
   invariants: [
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "Declaring an address on a persona page is all anyone does to route it.",
     },
     {
