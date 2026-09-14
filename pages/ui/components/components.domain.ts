@@ -36,7 +36,6 @@ export const components = {
     "module/markdown-property-badge",
     "module/multi-relation-property-badge",
     "module/multi-select-popover",
-    "module/multi-select-property-badge",
     "module/nav-command-bindings",
     "module/nav-count-badge",
     "module/nav-count-badge-decider",
