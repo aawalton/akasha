@@ -83,15 +83,3 @@ export async function makeSandboxedLuaVm(
     },
   }
 }
-
-export async function withSandboxedLuaVm<T>(
-  options: MakeSandboxedLuaVmOptions,
-  fn: (vm: SandboxedLuaVm) => Promise<T>
-): Promise<T> {
-  const vm = await makeSandboxedLuaVm(options)
-  try {
-    return await fn(vm)
-  } finally {
-    await vm.close()
-  }
-}

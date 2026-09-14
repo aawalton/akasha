@@ -36,8 +36,6 @@ function loadDialogOnShowHook(this: void): undefined {
   }
 }
 
-export function tradingHouseDialogChanges(this: void): undefined {}
-
 export function dialogsChanges(this: void): undefined {
   loadDialogOnShowHook()
 }
