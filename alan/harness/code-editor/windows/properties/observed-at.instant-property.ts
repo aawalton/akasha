@@ -1,0 +1,20 @@
+import type { InstantProperty } from "akasha/pages/instant-properties/instant-property.page-type.types.ts"
+
+export const observedAt = {
+  id: "01a0a147-e5bb-7e9f-8e65-f498b08af58d",
+  type: "instant-property",
+  slug: "observed-at",
+  propertySlug: "observed-at",
+  definition: "when what a window holds of its features was last observed",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The time is the one the observer read off its own clock as it wrote.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write that lands nothing new leaves this time where that time was.",
+    },
+  ],
+  types: "ts",
+} as const satisfies InstantProperty

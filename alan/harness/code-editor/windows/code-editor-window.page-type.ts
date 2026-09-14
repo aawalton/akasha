@@ -16,4 +16,13 @@ export const codeEditorWindow = {
     },
   ],
   types: "ts",
+  parts: ["instant-property/observed-at"],
+  properties: [
+    {
+      pageProperty: "instant-property/observed-at",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+  ],
 } as const satisfies PageType
