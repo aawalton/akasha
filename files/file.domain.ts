@@ -6,13 +6,7 @@ export const file = {
   slug: "file",
   definition: "a file in the `akasha` folder",
   pluralSlug: "files",
-  parts: [
-    "domain/folder-path",
-    "module/exclusive",
-    "module/git-place",
-    "module/lock-holder",
-    "module/lock-holder-runs",
-  ],
+  parts: ["domain/folder-path", "module/exclusive", "module/git-place", "module/lock-holder"],
   invariants: [
     {
       invariantKind: "departure",
