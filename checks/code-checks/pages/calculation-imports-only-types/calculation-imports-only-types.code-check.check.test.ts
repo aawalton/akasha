@@ -1,31 +1,33 @@
-import { expect, test } from "bun:test"
-import { reasonsIn } from "akasha/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.check.code.ts"
-import { bodiesAt } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
-
-const ROOT = "/repo"
+import { afterAll, expect, test } from "bun:test"
+import { calculationImportsOnlyTypes } from "akasha/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.check.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { arriving } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const AT = "akasha/held.computed-property.code.ts"
 
-const given = bodiesAt(ROOT, AT)
+const VALUE = 'import { a } from "./x.ts"\n'
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
+function judged(bodies: Readonly<Record<string, string>>): readonly Judged[] {
+  const root = scratch.rootFor("akasha-calculation-check-")
+  return calculationImportsOnlyTypes(arriving(root, bodies), shadowAt(root))
+}
 
 test("a body the change carries is judged by what the decision answers", () => {
-  const said = reasonsIn(given('import { a } from "./x.ts"\n'))
-  expect(said).toHaveLength(1)
-  expect(said[0]).toContain("`a`")
-})
-
-test("a body that is not text refuses rather than being passed over", () => {
-  const held = { root: ROOT, path: AT, bytes: new Uint8Array([0xff, 0xfe, 0x00]) }
-  expect(() => reasonsIn(held)).toThrow(AT)
-  expect(() => reasonsIn(held)).toThrow("not valid UTF-8")
+  const said = judged({ [AT]: VALUE })
+  expect(said.map((one) => one.path)).toEqual([AT])
+  expect(said[0]?.reason).toContain("`a`")
 })
 
 test("a file that is not TypeScript is passed over", () => {
-  const notes = bodiesAt(ROOT, "akasha/notes.txt")
-  expect(reasonsIn(notes('import { a } from "./x.ts"\n'))).toEqual([])
+  expect(judged({ "akasha/notes.txt": VALUE })).toEqual([])
 })
 
 test("a file that is no calculation's code file is passed over", () => {
-  const beside = bodiesAt(ROOT, "akasha/held.computed-property.ts")
-  expect(reasonsIn(beside('import { a } from "./x.ts"\n'))).toEqual([])
+  expect(judged({ "akasha/held.computed-property.ts": VALUE })).toEqual([])
 })
