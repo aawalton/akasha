@@ -8,6 +8,7 @@ import { answering, told } from "akasha/commands/modules/answering/command-answe
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { seatMessaged as page } from "akasha/commands/pages/seat/messaged/seat-messaged.command.ts"
+import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { asking } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
 import {
   keepLastMessagedAt,
@@ -38,7 +39,7 @@ function seatedIn(root: string): readonly Seated[] {
     const slug = one["slug"]
     const persona = one["persona"]
     if (typeof slug !== "string" || typeof persona !== "string") continue
-    held.push({ slug, persona })
+    held.push({ slug, persona: persona === "" ? persona : slugOf(persona) })
   }
   return held
 }
