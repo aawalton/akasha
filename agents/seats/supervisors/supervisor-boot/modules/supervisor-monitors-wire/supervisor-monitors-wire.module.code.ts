@@ -4,7 +4,10 @@ import type { ProxyLivenessRuleSource } from "akasha/agents/seats/oauth-proxy/mo
 import { handleProxyVersionUpdate } from "akasha/agents/seats/oauth-proxy/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 import { pollSupervisorFileVersion } from "akasha/agents/seats/self-healing/modules/supervisor-file-version/supervisor-file-version.module.code.ts"
 import { handleVersionUpdate } from "akasha/agents/seats/self-healing/modules/supervisor-self-heal/supervisor-self-heal.module.code.ts"
-import { SUPERVISOR_SCRIPT } from "akasha/agents/seats/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
+import {
+  SELF_HEAL_STATE,
+  SUPERVISOR_SCRIPT,
+} from "akasha/agents/seats/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import { pollAgentAction } from "akasha/agents/seats/supervisors/supervisor-actions/modules/supervisor-poll-agent-action/supervisor-poll-agent-action.module.code.ts"
 import { LOG } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
@@ -14,6 +17,7 @@ import {
 import { startLimitResumeMonitor } from "akasha/agents/seats/supervisors/supervisor-resuming/modules/supervisor-limit-resume/supervisor-limit-resume.module.code.ts"
 import { startWaitResumeMonitor } from "akasha/agents/seats/supervisors/supervisor-resuming/modules/supervisor-wait-resume/supervisor-wait-resume.module.code.ts"
 import { buildHeartbeatMonitor } from "akasha/agents/seats/supervisors/supervisor-ticking/modules/supervisor-heartbeat/supervisor-heartbeat.module.code.ts"
+import { browserReapPoll } from "akasha/agents/seats/supervisors/supervisor-tooling/modules/browser-reaping/browser-reaping.module.code.ts"
 
 export type PerAgentMonitors = {
   heartbeatTimer: ReturnType<typeof setInterval>
@@ -53,6 +57,10 @@ export function startPerAgentMonitors(args: {
             await getAgentActionHandler()?.(event)
           }),
       },
+      browserReapPoll({
+        getClaudePid: () => SELF_HEAL_STATE.getClaudePidForSelfHeal(),
+        log,
+      }),
     ],
   })
 
