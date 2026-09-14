@@ -33,7 +33,6 @@ export const alanAtlasWeb = {
     "module/location-ingest-context",
     "module/location-map",
     "module/memory-watch",
-    "module/pin-time-color",
     "module/pins",
     "module/place-candidate",
     "module/request-log",

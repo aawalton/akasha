@@ -1,10 +1,7 @@
 "use client"
 
 import { getPages } from "akasha/pages/access/modules/get/get.module.code.ts"
-import {
-  extractRelationContainment,
-  getPagesByRelation,
-} from "akasha/pages/access/modules/get-by-relation/get-by-relation.module.code.ts"
+import { extractRelationContainment } from "akasha/pages/access/modules/get-by-relation/get-by-relation.module.code.ts"
 import { collectPages } from "akasha/pages/access/modules/iterate/iterate.module.code.ts"
 import type { PageOrder, PageSelect } from "akasha/pages/access/modules/types/types.module.code.ts"
 import type {
@@ -30,9 +27,13 @@ import { useEffect, useMemo, useRef, useState } from "react"
 interface DescendantPagesResult {
   rows: readonly Page[]
   isLoading: boolean
+  unasked: string | null
 }
 
 const SCOPED_MAX_ROWS = 20000
+
+const NOT_NAMED =
+  "This listing spans the page types beneath this one and filters to the pages that name one page. Reaching those went through an index of what names what, and the page store holds no such index, so the question is never put."
 
 interface UseDescendantPagesOptions {
   select?: PageSelect
@@ -48,6 +49,7 @@ function useDescendantPages(
 ): DescendantPagesResult {
   const [rows, setRows] = useState<readonly Page[]>([])
   const [isLoading, setIsLoading] = useState(true)
+  const [unasked, setUnasked] = useState<string | null>(null)
 
   const enabled = options.enabled !== false
 
@@ -72,41 +74,41 @@ function useDescendantPages(
     if (!enabled || slugsKey.length === 0) {
       setRows([])
       setIsLoading(false)
+      setUnasked(null)
+      return
+    }
+    const { select, order, limit, where } = optionsRef.current
+    const hasWhere = where != null && where.length > 0
+    if (hasWhere && extractRelationContainment(where) !== null) {
+      setRows([])
+      setIsLoading(false)
+      setUnasked(NOT_NAMED)
       return
     }
     let cancelled = false
     setIsLoading(true)
+    setUnasked(null)
     const slugList = slugsKey.split(",").map((s) => toPageTypeSlug(s))
-    const { select, order, limit, where } = optionsRef.current
-    const hasWhere = where != null && where.length > 0
-    const relation = hasWhere ? extractRelationContainment(where) : null
-    const load: Promise<readonly Page[]> = relation
-      ? getPagesByRelation({
-          relationKey: relation.relationKey,
-          relationValue: relation.relationValue,
-          pageTypeSlugs: slugList,
-          select,
-        })
-      : hasWhere
-        ? Promise.all(
-            slugList.map((slug) =>
-              collectPages({
-                pageTypeSlug: slug,
-                select,
-                order,
-                where,
-                pageSize: 1000,
-                max: SCOPED_MAX_ROWS,
-              })
+    const load: Promise<readonly Page[]> = hasWhere
+      ? Promise.all(
+          slugList.map((slug) =>
+            collectPages({
+              pageTypeSlug: slug,
+              select,
+              order,
+              where,
+              pageSize: 1000,
+              max: SCOPED_MAX_ROWS,
+            })
+          )
+        ).then((results) => results.flat())
+      : Promise.all(
+          slugList.map((slug) =>
+            getPages({ pageTypeSlug: slug, select, order, limit: limit ?? 1000 }).then(
+              (r) => r.rows
             )
-          ).then((results) => results.flat())
-        : Promise.all(
-            slugList.map((slug) =>
-              getPages({ pageTypeSlug: slug, select, order, limit: limit ?? 1000 }).then(
-                (r) => r.rows
-              )
-            )
-          ).then((results) => results.flat())
+          )
+        ).then((results) => results.flat())
     load
       .then((merged) => {
         if (cancelled) return
@@ -123,7 +125,7 @@ function useDescendantPages(
     }
   }, [enabled, slugsKey, selectKey, orderKey, whereKey])
 
-  return { rows, isLoading }
+  return { rows, isLoading, unasked }
 }
 
 function compareValues(a: unknown, b: unknown): number {
@@ -158,6 +160,7 @@ export interface DescendantListingResult {
   spanDescendants: boolean
   pages: readonly PageWithProperties[]
   isLoading: boolean
+  unasked: string | null
 }
 
 export function useDescendantListing(args: {
@@ -197,7 +200,7 @@ export function useDescendantListing(args: {
     return out.length > 0 ? out : undefined
   }, [sorts])
 
-  const { rows, isLoading } = useDescendantPages(descendantSlugs, {
+  const { rows, isLoading, unasked } = useDescendantPages(descendantSlugs, {
     order,
     where,
     enabled: spanDescendants,
@@ -208,5 +211,10 @@ export function useDescendantListing(args: {
     return sortMergedPages(rows.map(toPageWithProperties), sorts)
   }, [spanDescendants, rows, sorts])
 
-  return { spanDescendants, pages, isLoading: spanDescendants ? isLoading : false }
+  return {
+    spanDescendants,
+    pages,
+    isLoading: spanDescendants ? isLoading : false,
+    unasked: spanDescendants ? unasked : null,
+  }
 }

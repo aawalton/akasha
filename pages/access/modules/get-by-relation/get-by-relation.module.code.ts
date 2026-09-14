@@ -1,36 +1,4 @@
-import {
-  type FileRelationDeps,
-  getFilePagesByRelation,
-} from "akasha/pages/access/modules/file-relation/file-relation.module.code.ts"
-import type { PageSelect } from "akasha/pages/access/modules/types/types.module.code.ts"
-import type {
-  Page,
-  PageWhere,
-} from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
-
-export type GetPagesByRelationArgs = {
-  relationKey: string
-  relationValue: string
-  pageTypeSlugs?: readonly string[]
-  select?: PageSelect
-  limit?: number
-}
-
-export async function getPagesByRelation(
-  args: GetPagesByRelationArgs,
-  deps?: FileRelationDeps
-): Promise<readonly Page[]> {
-  const forFiles = {
-    relationKey: args.relationKey,
-    relationValue: args.relationValue,
-    pageTypeSlugs: args.pageTypeSlugs,
-    select: args.select,
-    limit: args.limit,
-  }
-  return deps === undefined
-    ? getFilePagesByRelation(forFiles)
-    : getFilePagesByRelation(forFiles, deps)
-}
+import type { PageWhere } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 
 export function extractRelationContainment(
   where: PageWhere | undefined

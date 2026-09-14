@@ -2,8 +2,6 @@ import { fileBackedPageTypes } from "akasha/pages/access/modules/file-backed-ros
 import { fileRelationDeclarations } from "akasha/pages/access/modules/file-property-defs/file-property-defs.module.code.ts"
 import type { FileReadDeps } from "akasha/pages/access/modules/file-read/file-read.module.code.ts"
 import { kebabizeKey } from "akasha/pages/access/modules/file-rows/file-rows.module.code.ts"
-import type { PageSelect } from "akasha/pages/access/modules/types/types.module.code.ts"
-import type { Page } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 import { askingFor } from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
 import { z } from "zod"
 
@@ -12,9 +10,6 @@ const ADDRESS = /^([a-z0-9-]+)\/([a-z0-9-]+)$/
 const POINTS = /\brelation(-(?:slug|seq|id|name))?\b/
 
 const SETTLED_BY_THE_ROW = "none"
-
-const NO_NAMING =
-  "reaching every page that names one page went through an index of what names what, built by asking each page type in turn. `@akasha/pages-service` answers one page type at a time and holds no such index, so which pages name a given page is not a question that can be put to it here."
 
 export type FileRelationDeps = FileReadDeps
 
@@ -94,21 +89,4 @@ export async function pageUnder(
   })
   if ("refused" in asked) return { outcome: "unasked", why: asked.refused }
   return asked.rows.length > 0 ? { outcome: "stands" } : { outcome: "absent" }
-}
-
-export type GetFilePagesByRelationArgs = {
-  readonly relationKey: string
-  readonly relationValue: string
-  readonly pageTypeSlugs?: readonly string[]
-  readonly select?: PageSelect
-  readonly limit?: number
-}
-
-export async function getFilePagesByRelation(
-  args: GetFilePagesByRelationArgs,
-  _deps: FileRelationDeps = LIVE
-): Promise<readonly Page[]> {
-  throw new Error(
-    `getFilePagesByRelation(${args.relationKey}): ${NO_NAMING} Name the page types to look under and ask each one for \`${args.relationKey}\` through \`@akasha/pages-service\`, or read what names a page from the index by \`@akasha/indexes\`.`
-  )
 }

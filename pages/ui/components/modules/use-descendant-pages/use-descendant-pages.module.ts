@@ -6,4 +6,14 @@ export const useDescendantPages = {
   slug: "use-descendant-pages",
   definition: "the pages under a page, gathered across the types beneath it",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A filter naming the pages that name one page is refused rather than gathered.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal carries the reason rather than an empty list of pages.",
+    },
+  ],
 } as const satisfies Module

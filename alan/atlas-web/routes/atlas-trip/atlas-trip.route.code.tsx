@@ -1,27 +1,23 @@
-import { LocationMap } from "akasha/alan/atlas-web/modules/location-map/location-map.module.code.tsx"
-import {
-  TIME_BUCKET_TOKENS,
-  type TimeBucket,
-  timeBucket,
-} from "akasha/alan/atlas-web/modules/pin-time-color/pin-time-color.module.code.ts"
-import { type LocationPin, toPins } from "akasha/alan/atlas-web/modules/pins/pins.module.code.ts"
 import { createServerClient } from "akasha/alan/harness/supabase-rr/modules/server-client/server-client.module.code.ts"
 import {
   PageLayout,
   PageTitle,
 } from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
+import {
+  Empty,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyTitle,
+} from "akasha/design/interfaces/patterns/modules/empty/empty.module.code.tsx"
 import { getPageByIdSuffix } from "akasha/pages/access/modules/get/get.module.code.ts"
-import { getPagesByRelation } from "akasha/pages/access/modules/get-by-relation/get-by-relation.module.code.ts"
 import { parsePageHrefParam } from "akasha/pages/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { data } from "react-router"
-import { z } from "zod"
 
 const COLLECTION_SLUG = "location-collection"
 
-const BasemapUrlSchema = z.string().url()
-
-type TripStop = LocationPin & { bucket: TimeBucket }
+const NOT_NAMED =
+  "A trip's stops are the locations naming this collection. Reaching those went through an index of what names what, and the page store holds no such index, so the stops are never asked for."
 
 export async function loader({
   params,
@@ -44,26 +40,9 @@ export async function loader({
   if (!collection || typeof collection.id !== "string") {
     throw new Response("Not Found", { status: 404 })
   }
-  const collectionId = collection.id
   const tripTitle = typeof collection.title === "string" ? collection.title : "Trip"
 
-  const rows = await getPagesByRelation({
-    relationKey: "collection",
-    relationValue: collectionId,
-    pageTypeSlugs: ["location"],
-  })
-  const basePins = toPins(rows)
-
-  const now = Date.now()
-  const stops: TripStop[] = basePins.map((p) => {
-    const bucket = timeBucket(p.scheduledStart ?? null, p.scheduledEnd ?? null, now)
-    return { ...p, bucket, colorToken: TIME_BUCKET_TOKENS[bucket] }
-  })
-
-  const basemapUrlResult = BasemapUrlSchema.safeParse(process.env.NEXT_PUBLIC_PROTOMAPS_PMTILES_URL)
-  const basemapUrl = basemapUrlResult.success ? basemapUrlResult.data : null
-
-  return data({ tripTitle, stops, basemapUrl }, { headers })
+  return data({ tripTitle }, { headers })
 }
 
 type TripLoaderData = Awaited<ReturnType<typeof loader>>["data"]
@@ -74,33 +53,19 @@ export function meta({ data: loaderData }: { data: TripLoaderData | undefined })
 }
 
 export default function TripRoute({ loaderData }: { loaderData: TripLoaderData }) {
-  const { tripTitle, stops, basemapUrl } = loaderData
+  const { tripTitle } = loaderData
   return (
     <PageLayout>
       <PageLayout.Header>
         <PageTitle>{tripTitle}</PageTitle>
       </PageLayout.Header>
       <PageLayout.Content>
-        <div className="space-y-3">
-          <p className="text-secondary text-sm" data-testid="atlas-trip-count">
-            {stops.length === 0
-              ? "No locations with coordinates yet. Add latitude and longitude to this trip's locations to see them on the map."
-              : `Showing ${stops.length} ${stops.length === 1 ? "location" : "locations"} on the map.`}
-          </p>
-          {}
-          {stops.length > 0 && (
-            <ul className="sr-only" aria-label="Trip locations by name and timeline position">
-              {stops.map((s) => (
-                <li key={s.id} data-bucket={s.bucket}>
-                  {s.title} — {s.bucket}
-                </li>
-              ))}
-            </ul>
-          )}
-          <div className="h-[70vh] min-h-96 w-full overflow-hidden rounded-xl">
-            <LocationMap points={stops} basemapUrl={basemapUrl} />
-          </div>
-        </div>
+        <Empty data-testid="atlas-trip-unasked">
+          <EmptyHeader>
+            <EmptyTitle>The stops on this trip were not asked for</EmptyTitle>
+            <EmptyDescription>{NOT_NAMED}</EmptyDescription>
+          </EmptyHeader>
+        </Empty>
       </PageLayout.Content>
     </PageLayout>
   )

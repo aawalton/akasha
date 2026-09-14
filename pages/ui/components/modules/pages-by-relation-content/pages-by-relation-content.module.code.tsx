@@ -57,6 +57,7 @@ export function PagesFilteredContent({
     rowAggregates,
     pageRows,
     serverGrouped,
+    descendantUnasked,
   } = usePagesFilteredQuery({ pageTypeSlug, searchParams })
 
   const {
@@ -124,12 +125,21 @@ export function PagesFilteredContent({
       >
         <PageSystemShell
           title={embedded === true ? null : loading ? "" : pageTypeName}
-          tabs={[{ id: "list", label: pageTypeName, icon: undefined }]}
+          tabs={
+            descendantUnasked === null ? [{ id: "list", label: pageTypeName, icon: undefined }] : []
+          }
           loading={loading}
-          empty={{
-            title: "No pages",
-            description: "No pages match the current filters.",
-          }}
+          empty={
+            descendantUnasked === null
+              ? {
+                  title: "No pages",
+                  description: "No pages match the current filters.",
+                }
+              : {
+                  title: "This listing was not asked for",
+                  description: descendantUnasked,
+                }
+          }
         >
           <PageSystemTabContent
             items={pageRows}

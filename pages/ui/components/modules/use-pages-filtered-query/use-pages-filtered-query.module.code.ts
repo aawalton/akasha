@@ -93,14 +93,19 @@ export function usePagesFilteredQuery(args: {
     [baseFilters, properties, targetPageTypeId, propertiesByPageType]
   )
 
-  const { effectiveConfig, spanDescendants, descendantPages, descendantIsLoading } =
-    useEffectiveListing({
-      listingConfig,
-      syntheticConfig,
-      pageTypes,
-      targetPageTypeId,
-      where: baseConditions,
-    })
+  const {
+    effectiveConfig,
+    spanDescendants,
+    descendantPages,
+    descendantIsLoading,
+    descendantUnasked,
+  } = useEffectiveListing({
+    listingConfig,
+    syntheticConfig,
+    pageTypes,
+    targetPageTypeId,
+    where: baseConditions,
+  })
 
   const groupByRaw = spanDescendants ? undefined : effectiveConfig?.group_by
   const groupByPropertyId = groupByRaw != null && groupByRaw.length > 0 ? groupByRaw : undefined
@@ -237,5 +242,6 @@ export function usePagesFilteredQuery(args: {
     rowAggregates,
     pageRows,
     serverGrouped,
+    descendantUnasked,
   }
 }

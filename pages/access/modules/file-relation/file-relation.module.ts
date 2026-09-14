@@ -26,8 +26,8 @@ export const fileRelation = {
         "Which properties of a page type name other pages is read from the properties that type declares.",
     },
     {
-      invariantKind: "gap",
-      statement: "Reaching every page that names one page refuses.",
+      invariantKind: "absence",
+      statement: "Nothing here reaches the pages that name one page.",
     },
     {
       invariantKind: "absence",

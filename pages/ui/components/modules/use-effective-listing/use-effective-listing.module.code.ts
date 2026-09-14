@@ -13,6 +13,7 @@ export interface EffectiveListing {
   spanDescendants: boolean
   descendantPages: readonly PageWithProperties[]
   descendantIsLoading: boolean
+  descendantUnasked: string | null
 }
 
 export function useEffectiveListing(args: {
@@ -42,5 +43,6 @@ export function useEffectiveListing(args: {
     spanDescendants: descendantListing.spanDescendants,
     descendantPages: descendantListing.pages,
     descendantIsLoading: descendantListing.isLoading,
+    descendantUnasked: descendantListing.unasked,
   }
 }
