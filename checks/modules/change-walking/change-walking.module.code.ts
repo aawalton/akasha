@@ -8,8 +8,6 @@ import type {
 import { typeScripted } from "akasha/code/bodies/modules/file-kind/file-kind.module.code.ts"
 import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
 import { ENTRY_PROPERTY } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
-import { everyPath } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import { underIndex } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import {
@@ -332,10 +330,6 @@ export async function overEveryTextAsync(
     for (const reason of await judge(path, text)) said.push({ path, reason })
   }
   return said
-}
-
-export function everyFileIn(given: Reading): readonly string[] {
-  return sortedOnce(everyPath(given))
 }
 
 const EVERY_PATH = new WeakMap<Answering, readonly string[]>()

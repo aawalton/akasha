@@ -2,7 +2,6 @@ import { afterAll, expect, test } from "bun:test"
 import { symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
-  everyFileIn,
   everythingIn,
   FILES,
   input,
@@ -29,7 +28,6 @@ import {
   KEPT_AT,
   MODULE,
   mixedWorld,
-  NOTE_AT,
   PAGE_AT,
   PAGE_TYPE,
   pagedWorld,
@@ -39,15 +37,8 @@ import {
   tailedWorld,
   treeWorld,
   VENDORED_AT,
-  worldOf,
 } from "akasha/checks/modules/change-walking/change-walking.module.test-fixtures.ts"
-import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import {
-  indexTakenFrom,
-  listingFiled,
-  pathListed,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
-import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+import { pathListed } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
@@ -248,22 +239,6 @@ test("a selector takes as input every path it hands over, so no path it judges p
   }
 })
 
-test("a walk takes a page and the files its own properties imply", () => {
-  expect(everyFileIn(readingIn(worldOf([PAGE_AT, CODE_AT])))).toEqual([CODE_AT, PAGE_AT])
-})
-
-test("a walk takes the paths the index files, and works none of them out from a property name", () => {
-  const root = worldOf([PAGE_AT, CODE_AT])
-  pathListed(root, NOTE_AT)
-  expect(everyFileIn(readingIn(root))).toContain(NOTE_AT)
-})
-
-test("a walk reads no page module to work out what stands, so a page it cannot load is still taken", () => {
-  const root = worldOf([PAGE_AT, CODE_AT])
-  writeFileSync(join(root, PAGE_AT), "this is not typescript at all (((\n")
-  expect(everyFileIn(readingIn(root))).toContain(CODE_AT)
-})
-
 test("a walk over everything reads the body of every file it takes, before it and after it", () => {
   const root = treeWorld()
   const change = everythingIn(root)
@@ -298,7 +273,6 @@ test("a walk over everything leaves out an installed dependency, whatever its na
 test("a walk over everything reads no index, so a path the tree does not hold is left out", () => {
   const root = treeWorld()
   pathListed(root, GONE_AT)
-  expect(everyFileIn(readingIn(root))).toContain(GONE_AT)
   expect(everythingIn(root).changed).not.toContain(GONE_AT)
 })
 
@@ -332,43 +306,9 @@ test("a root that is no tree at all refuses the walk rather than taking nothing"
   expect(() => everythingIn(scratch.rootFor("akasha-no-tree-"))).toThrow("could not be walked")
 })
 
-test("an index standing nowhere cannot answer which files stand, so it refuses rather than taking nothing", () => {
-  const root = worldOf([PAGE_AT])
-  indexTakenFrom(root)
-  expect(() => everyFileIn(readingIn(root))).toThrow("could not be answered")
-})
-
-test("an index that is there and names no path is a true empty rather than a refusal", () => {
-  const root = worldOf([PAGE_AT])
-  listingFiled(root, [])
-  expect(everyFileIn(readingIn(root))).toEqual([])
-})
-
-const HANDED: Reading = {
-  holds: (at) => at === "",
-  listing: () => [],
-  lines: () => ["akasha/held.ts"],
-  read: () => null,
-}
-
-test("a reading handed in says which files stand, so a check may ask of the index it will leave", () => {
-  expect(everyFileIn(HANDED)).toEqual(["akasha/held.ts"])
-})
-
 test("a body that will not open refuses the check reading it rather than reading as nothing", () => {
   const root = scratch.rootFor("akasha-on-disk-")
   symlinkSync("b.ts", join(root, "a.ts"))
   symlinkSync("a.ts", join(root, "b.ts"))
   expect(() => onDisk(root)("a.ts")).toThrow("ELOOP")
-})
-
-const HANDED_COLD: Reading = {
-  holds: () => false,
-  listing: () => [],
-  lines: () => [],
-  read: () => null,
-}
-
-test("a reading handed in that stands nowhere is refused as a root standing nowhere is", () => {
-  expect(() => everyFileIn(HANDED_COLD)).toThrow("could not be answered")
 })

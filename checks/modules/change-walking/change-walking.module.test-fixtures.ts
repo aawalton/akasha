@@ -15,8 +15,6 @@ export const PAGE_AT = "akasha/checks-system/change-walking/held/held.module.ts"
 
 export const CODE_AT = "akasha/checks-system/change-walking/held/held.module.code.ts"
 
-export const NOTE_AT = "akasha/checks-system/change-walking/held/held.module.note.md"
-
 export const GONE_AT = "akasha/checks-system/change-walking/held/gone.module.ts"
 
 export const TYPE_AT = "akasha/checks-system/change-walking/held/held.page-type.ts"
