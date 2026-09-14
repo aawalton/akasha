@@ -7,7 +7,6 @@ export const olwenPagesSystemDisplay = {
   domain: "domain/design-interfaces-system",
   persona: "olwen",
   intentStack: [
-    { statement: "A page type states the component drawing a page property's value as a badge." },
     {
       statement:
         "A page type states the component drawing a page property's whole row, its label with its value.",

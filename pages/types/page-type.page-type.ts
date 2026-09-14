@@ -161,6 +161,10 @@ export const pageType = {
       invariantKind: "absence",
       statement: "No page type states a display for a screen to resolve to a component.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A page type states the component drawing a page property's value as a badge.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType
