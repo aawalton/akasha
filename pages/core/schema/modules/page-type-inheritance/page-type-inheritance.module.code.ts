@@ -22,6 +22,34 @@ function parentIdsOf(
   return found
 }
 
+export function pageTypeChain(
+  pageTypes: ReadonlyArray<PageTypeForInheritance>,
+  slug: string
+): readonly string[] {
+  const bySlug = new Map<string, PageTypeForInheritance>()
+  for (const pt of pageTypes) {
+    const own = pt.properties?.slug
+    if (typeof own === "string" && own !== "") bySlug.set(own, pt)
+  }
+  const found: string[] = []
+  const seen = new Set<string>()
+  const waiting: string[] = [slug]
+  for (let at = 0; at < waiting.length; at += 1) {
+    const own = waiting[at]
+    if (own === undefined || own === "" || seen.has(own)) continue
+    seen.add(own)
+    found.push(own)
+    const said = bySlug.get(own)?.properties?.extendsSlug
+    const named = Array.isArray(said) ? said : []
+    for (const one of [...named].reverse()) {
+      if (typeof one !== "string" || one === "") continue
+      const bare = slugIn(one)
+      if (bare !== null) waiting.push(bare)
+    }
+  }
+  return found
+}
+
 export function resolveDescendantPageTypeIds(
   pageTypes: ReadonlyArray<PageTypeForInheritance>,
   targetId: string

@@ -34,5 +34,9 @@ export const pageTypeInheritance = {
       invariantKind: "absence",
       statement: "Nothing here reads a file.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The page types one page type takes from are answered nearest first.",
+    },
   ],
 } as const satisfies Module
