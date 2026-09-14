@@ -34,7 +34,7 @@ const COST_ROW = {
   label: "Cost",
   place: 1,
   wireKey: "cost",
-  groups: ["cost"],
+  groups: ["readout-group/cost"],
 }
 
 const SURPLUS_ROW = {
@@ -42,9 +42,9 @@ const SURPLUS_ROW = {
   label: "Surplus",
   unit: "hours",
   place: 2,
-  scale: "surplus-hours",
+  scale: "readout-scale/surplus-hours",
   wireKey: "surplus",
-  groups: ["upkeep", "surplus"],
+  groups: ["readout-group/upkeep", "readout-group/surplus"],
 }
 
 const SCALE_ROW = {
