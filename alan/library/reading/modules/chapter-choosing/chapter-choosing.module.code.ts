@@ -53,7 +53,7 @@ function isFullyRead(c: LitrpgChapter): boolean {
   return c.completedAt != null
 }
 
-export function buildChaptersByStory(catalog: LitrpgCatalog): Map<string, LitrpgChapter[]> {
+function buildChaptersByStory(catalog: LitrpgCatalog): Map<string, LitrpgChapter[]> {
   const map = new Map<string, LitrpgChapter[]>()
   for (const chapter of catalog.chapters) {
     const list = map.get(chapter.storyId)
@@ -72,7 +72,7 @@ function hasGradeSignal(
   return chapters.some((c) => c.grade !== undefined)
 }
 
-export function storyPool(
+function storyPool(
   story: LitrpgStory,
   chaptersByStory: ReadonlyMap<string, readonly LitrpgChapter[]>,
   options: SelectOptions
@@ -155,7 +155,7 @@ function loveScore(
   return gradeValue(story.grade) * 100 + likedChapters
 }
 
-export function genreOverlap(a: readonly string[], b: ReadonlySet<string>): number {
+function genreOverlap(a: readonly string[], b: ReadonlySet<string>): number {
   let n = 0
   for (const g of a) if (b.has(g)) n++
   return n

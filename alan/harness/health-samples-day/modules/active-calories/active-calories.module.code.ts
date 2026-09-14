@@ -4,7 +4,7 @@ import { spannedWindow } from "akasha/alan/harness/health-samples-day/modules/op
 
 const DAYS_AT_ONCE = 4
 
-export function activeCaloriesFromSamples(samples: readonly HealthSampleRecord[]): number | null {
+function activeCaloriesFromSamples(samples: readonly HealthSampleRecord[]): number | null {
   if (samples.length === 0) return null
   const totalBySource = new Map<string, number>()
   for (const sample of samples) {
