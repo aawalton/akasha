@@ -14,11 +14,10 @@ export const astraIndexCleanup = {
     },
     { statement: "Alan holds the value index's structure correct." },
     {
-      statement: "Alan holds the path index's structure correct.",
+      statement: "Alan holds the listing index's structure correct.",
       workingMemory:
-        "The path index is gone. `claimantOf` in `path-claiming` answers which page a file belongs to off that file's own name, and the listing index composes the paths a page claims rather than reading them off a tree. `.indexes/path` still holds 498 MB nothing writes, which the next whole refresh sweeps, no index page naming that folder.\n",
+        "The path index is gone, and this index took over composing the paths a page claims. It answers which files the pages claim as one file of plain lines, read by `everyPath`. Whether it earns its place against a tree read is the open question.\n",
     },
-    { statement: "Alan holds the listing index's structure correct." },
     { statement: "Alan holds the import index's structure correct." },
     { statement: "Alan holds the rule index's structure correct." },
     {
