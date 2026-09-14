@@ -11,6 +11,7 @@ import type { Judged } from "akasha/checks/modules/judging/judging.module.code.t
 import {
   APP,
   insideAnApp,
+  pathsUnder,
 } from "akasha/checks/modules/router-app-code/router-app-code.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
@@ -21,7 +22,7 @@ export function askingIn(change: Change, shadow: Shadow): Asking {
   return {
     appsFiled: () => shadow.index.everyOfType(APP).map((one) => one.path),
     namedFilesOf: (pageTypeSlug) => shadow.index.filePropertiesAt().get(pageTypeSlug) ?? NONE,
-    everyPath: () => shadow.index.everyPath(),
+    pathsUnder: (at) => pathsUnder(shadow.root, at),
     textAt: (path) => textIn(change, path),
   }
 }

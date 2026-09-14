@@ -35,7 +35,7 @@ export type Asking = {
   readonly appsFiled: () => readonly string[]
   readonly valueAt: (path: string) => Value | null
   readonly namedFilesOf: (pageTypeSlug: string) => ReadonlyMap<string, string | null>
-  readonly everyPath: () => readonly string[]
+  readonly pathsUnder: (at: string) => readonly string[]
   readonly textAt: (path: string) => string | null
 }
 
@@ -148,7 +148,7 @@ function reasonFor(one: Reached): string {
 export function refusalsOver(changed: readonly string[], asking: Asking): readonly Judged[] {
   const said: Judged[] = []
   for (const app of appsIn(asking)) {
-    const paths = pathsFor(app, changed, () => asking.everyPath())
+    const paths = pathsFor(app, changed, asking.pathsUnder)
     if (paths.length === 0) continue
     const routes = routesOf(app, asking)
     for (const path of paths) {

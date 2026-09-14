@@ -54,7 +54,7 @@ function asking(texts: Readonly<Record<string, string>>, given?: Partial<Asking>
     appsFiled: () => [PAGE],
     valueAt: (path) => (path === PAGE ? APP : null),
     namedFilesOf: () => NAMED,
-    everyPath: () => EVERY,
+    pathsUnder: () => EVERY,
     textAt: (path) => texts[path] ?? null,
     ...given,
   }

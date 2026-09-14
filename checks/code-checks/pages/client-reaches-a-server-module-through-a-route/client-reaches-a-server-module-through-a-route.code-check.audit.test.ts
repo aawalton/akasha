@@ -3,6 +3,7 @@ import {
   askingAt,
   clientReachesAServerModuleThroughARoute,
 } from "akasha/checks/code-checks/pages/client-reaches-a-server-module-through-a-route/client-reaches-a-server-module-through-a-route.code-check.audit.code.ts"
+import { folderOf } from "akasha/checks/modules/router-app-code/router-app-code.module.code.ts"
 import {
   APP_HELD,
   APP_PAGE,
@@ -18,19 +19,20 @@ const NOWHERE = "web/panel/nowhere.module.code.tsx"
 const ID = "01a04f2b-3d24-70b3-8c3e-3076a9299153"
 
 test("what the audit asks names the router apps the index files", () => {
-  expect(askingAt(appRooted(ID), []).appsFiled()).toEqual([APP_PAGE])
+  expect(askingAt(appRooted(ID)).appsFiled()).toEqual([APP_PAGE])
 })
 
 test("what the audit asks reads a body from the disk, there being no change", () => {
-  expect(askingAt(appRooted(ID), []).textAt(APP_PLAIN)).toBe(APP_HELD)
+  expect(askingAt(appRooted(ID)).textAt(APP_PLAIN)).toBe(APP_HELD)
 })
 
 test("what the audit asks answers nothing for a path that is not there", () => {
-  expect(askingAt(appRooted(ID), []).textAt(NOWHERE)).toBe(null)
+  expect(askingAt(appRooted(ID)).textAt(NOWHERE)).toBe(null)
 })
 
-test("what the audit asks names every path the audit was handed", () => {
-  expect(askingAt(appRooted(ID), [APP_PLAIN]).everyPath()).toEqual([APP_PLAIN])
+test("what the audit asks names the paths under an app's package", () => {
+  const found = askingAt(appRooted(ID)).pathsUnder(folderOf(APP_PAGE))
+  expect([...found].sort()).toEqual([APP_PAGE, APP_PLAIN].sort())
 })
 
 test("an audit over an index declaring no route table file name refuses", () => {

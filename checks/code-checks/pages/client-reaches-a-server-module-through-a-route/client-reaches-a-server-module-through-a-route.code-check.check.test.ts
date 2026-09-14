@@ -3,6 +3,7 @@ import {
   askingIn,
   clientReachesAServerModuleThroughARoute,
 } from "akasha/checks/code-checks/pages/client-reaches-a-server-module-through-a-route/client-reaches-a-server-module-through-a-route.code-check.check.code.ts"
+import { folderOf } from "akasha/checks/modules/router-app-code/router-app-code.module.code.ts"
 import {
   APP_PAGE,
   APP_PLAIN,
@@ -48,7 +49,9 @@ test("what the check asks reads a body from the change rather than from the disk
   expect(askingIn(change(root, { [APP_PLAIN]: LEAK }), shadowAt(root)).textAt(APP_PLAIN)).toBe(LEAK)
 })
 
-test("what the check asks names every path the index files", () => {
+test("what the check asks names the paths under an app's package", () => {
   const root = appRooted(ID, ALSO)
-  expect(askingIn(change(root, {}), shadowAt(root)).everyPath()).toContain(APP_PLAIN)
+  const found = askingIn(change(root, {}), shadowAt(root)).pathsUnder(folderOf(APP_PAGE))
+  expect(found).toContain(APP_PLAIN)
+  expect(found).not.toContain(OUTSIDE)
 })

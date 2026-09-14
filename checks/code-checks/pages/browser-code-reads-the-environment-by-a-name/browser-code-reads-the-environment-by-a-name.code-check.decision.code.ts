@@ -62,7 +62,7 @@ const NO_TABLE_NAMED =
 export type Asking = {
   readonly appsFiled: () => readonly string[]
   readonly namedFilesOf: (pageTypeSlug: string) => ReadonlyMap<string, string | null>
-  readonly everyPath: () => readonly string[]
+  readonly pathsUnder: (at: string) => readonly string[]
   readonly textAt: (path: string) => string | null
 }
 
@@ -292,9 +292,7 @@ export function refusalsOver(paths: readonly string[], asking: Asking): readonly
   }
   const said: Judged[] = []
   for (const app of appsIn(asking)) {
-    const under = pathsFor(app, paths, () => asking.everyPath()).filter(
-      (one) => !passedOver(one, app)
-    )
+    const under = pathsFor(app, paths, asking.pathsUnder).filter((one) => !passedOver(one, app))
     if (under.length === 0) continue
     const routes = routesOf(app, asking)
     for (const path of under) {

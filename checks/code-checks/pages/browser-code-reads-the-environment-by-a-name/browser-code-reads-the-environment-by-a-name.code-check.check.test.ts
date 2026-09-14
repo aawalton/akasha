@@ -3,6 +3,7 @@ import {
   askingIn,
   browserCodeReadsTheEnvironmentByAName,
 } from "akasha/checks/code-checks/pages/browser-code-reads-the-environment-by-a-name/browser-code-reads-the-environment-by-a-name.code-check.check.code.ts"
+import { folderOf } from "akasha/checks/modules/router-app-code/router-app-code.module.code.ts"
 import {
   APP_PAGE,
   APP_PLAIN,
@@ -50,9 +51,11 @@ test("what the check asks reads a body from the change rather than from the disk
   )
 })
 
-test("what the check asks names every path the index files", () => {
+test("what the check asks names the paths under an app's package", () => {
   const root = appRooted(ID, ALSO)
-  expect(askingIn(change(root, {}), shadowAt(root)).everyPath()).toContain(APP_PLAIN)
+  const found = askingIn(change(root, {}), shadowAt(root)).pathsUnder(folderOf(APP_PAGE))
+  expect(found).toContain(APP_PLAIN)
+  expect(found).not.toContain(OUTSIDE)
 })
 
 test("an index declaring no route table file name refuses the check", () => {

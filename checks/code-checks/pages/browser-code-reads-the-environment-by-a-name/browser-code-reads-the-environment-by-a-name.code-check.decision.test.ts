@@ -82,7 +82,7 @@ function asking(texts: Readonly<Record<string, string>>, given?: Partial<Asking>
   return {
     appsFiled: () => [PAGE],
     namedFilesOf: () => NAMED,
-    everyPath: () => EVERY,
+    pathsUnder: () => EVERY,
     textAt: (path) => texts[path] ?? null,
     ...given,
   }

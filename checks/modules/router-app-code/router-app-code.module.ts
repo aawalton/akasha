@@ -41,6 +41,22 @@ export const routerAppCode = {
     },
     {
       invariantKind: "departure",
+      statement: "Those paths are found by listing that app's folder rather than the whole tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder is listed as git carries that folder on disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder that is nowhere on disk holds no path.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No list of every path in the tree is read here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A path named for no TypeScript file is left out of them.",
     },
   ],
