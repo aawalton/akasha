@@ -9,13 +9,13 @@ import {
 } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
-const PACKAGE = "workspace-package"
+const WORKSPACE = "workspace"
 
 export const FOLDER = "akasha/held"
 
 export const MANIFEST_AT = `${FOLDER}/package.json`
 
-const PAGE_AT = `${FOLDER}/held.workspace-package.ts`
+const PAGE_AT = `${FOLDER}/held.workspace.ts`
 
 export const AT = `${FOLDER}/one/one.module.code.ts`
 
@@ -40,11 +40,11 @@ export function manifest(value: Readonly<Record<string, unknown>>): string {
 export function rooted(prefix: string = "akasha-manifest-"): string {
   const root = scratch.rootFor(prefix)
   founded(root)
-  typed(root, PACKAGE, "page")
+  typed(root, WORKSPACE, "page")
   declaring(root, MANIFEST_KEY, { pageTypeSlug: FILE_PROPERTY, fileName: "package.json" })
-  listedFiled(root, PACKAGE, "held", [{ path: PAGE_AT, id: ID }])
-  valueAlsoFiled(root, PACKAGE, [
-    { path: PAGE_AT, value: { id: ID, pageTypeSlug: PACKAGE, slug: "held" } },
+  listedFiled(root, WORKSPACE, "held", [{ path: PAGE_AT, id: ID }])
+  valueAlsoFiled(root, WORKSPACE, [
+    { path: PAGE_AT, value: { id: ID, pageTypeSlug: WORKSPACE, slug: "held" } },
   ])
   return root
 }

@@ -2,9 +2,9 @@ import {
   type Asking,
   refusalsOver,
 } from "akasha/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.decision.code.ts"
-import { manifestsIn } from "akasha/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.decision.code.ts"
 import { bodyOf, onDisk } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { manifestsIn } from "akasha/code/workspaces/modules/manifest-finding/manifest-finding.module.code.ts"
 import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 export function askingAt(root: string): Asking {

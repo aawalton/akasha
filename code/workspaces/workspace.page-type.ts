@@ -17,6 +17,7 @@ export const workspace = {
     "file-property/typescript-build-info",
     "file-property/workspace-git-ignore",
     "file-property/workspace-manifest",
+    "module/manifest-finding",
     "module/manifest-locking",
     "module/package-manifest",
     "text-property/tool-reached",

@@ -35,7 +35,7 @@ const ROOT_MANIFEST = "akasha/root/package.json"
 
 const READER_CODE = "akasha/outer/reader.module.code.ts"
 
-const PACKAGE_TYPE_AT = "akasha/workspace-package.page-type.ts"
+const PACKAGE_TYPE_AT = "akasha/held-package.page-type.ts"
 
 const idAt = (one: string): string => `01a04a4a-0002-7000-8000-00000000000${one}`
 
@@ -119,19 +119,21 @@ const VOCABULARY: Readonly<Record<string, string>> = {
     extends: ["page-type/page-property"],
     properties: [{ pagePropertySlug: "text-property/file-name", required: false, many: false }],
   }),
-  "akasha/manifest.file-property.ts": bodyOf({
+  "akasha/workspace-manifest.file-property.ts": bodyOf({
     id: idAt("3"),
     pageTypeSlug: "file-property",
-    slug: "manifest",
-    propertySlug: "manifest",
+    slug: "workspace-manifest",
+    propertySlug: "workspace-manifest",
     fileName: "package.json",
   }),
   [PACKAGE_TYPE_AT]: bodyOf({
     id: idAt("4"),
     pageTypeSlug: "page-type",
-    slug: "workspace-package",
+    slug: "held-package",
     extends: ["page-type/domain"],
-    properties: [{ pagePropertySlug: "file-property/manifest", required: true, many: false }],
+    properties: [
+      { pagePropertySlug: "file-property/workspace-manifest", required: true, many: false },
+    ],
   }),
   "akasha/name-format.page-type.ts": bodyOf({
     id: idAt("5"),
@@ -150,20 +152,20 @@ const VOCABULARY: Readonly<Record<string, string>> = {
 }
 
 const PACKAGES: Readonly<Record<string, string>> = {
-  "akasha/inner/inner.workspace-package.ts": pageOf({
+  "akasha/inner/inner.held-package.ts": pageOf({
     id: idAt("7"),
-    pageTypeSlug: "workspace-package",
+    pageTypeSlug: "held-package",
     slug: "inner",
-    manifest: "json",
+    workspaceManifest: "json",
   }),
   [INNER_MANIFEST]: INNER_BODY,
   "akasha/inner/one.ts": "export const one = 1\n",
   "akasha/inner/two.ts": "export const two = 2\n",
-  "akasha/outer/outer.workspace-package.ts": pageOf({
+  "akasha/outer/outer.held-package.ts": pageOf({
     id: idAt("8"),
-    pageTypeSlug: "workspace-package",
+    pageTypeSlug: "held-package",
     slug: "outer",
-    manifest: "json",
+    workspaceManifest: "json",
   }),
   [OUTER_MANIFEST]: OUTER_BODY,
   "akasha/outer/reader.module.ts": pageOf({
@@ -173,11 +175,11 @@ const PACKAGES: Readonly<Record<string, string>> = {
     code: "ts",
   }),
   [READER_CODE]: READER_BODY,
-  "akasha/root/root.workspace-package.ts": pageOf({
+  "akasha/root/root.held-package.ts": pageOf({
     id: idAt("a"),
-    pageTypeSlug: "workspace-package",
+    pageTypeSlug: "held-package",
     slug: "root",
-    manifest: "json",
+    workspaceManifest: "json",
   }),
   [ROOT_MANIFEST]: ROOT_BODY,
 }

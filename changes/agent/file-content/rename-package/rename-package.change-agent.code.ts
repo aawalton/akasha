@@ -15,11 +15,11 @@ import {
   spelledAnew,
 } from "akasha/changes/modules/package-naming/package-naming.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { typed } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import {
   namingIn,
   refusalOf,
-} from "akasha/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.decision.code.ts"
-import { typed } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
+} from "akasha/code/workspaces/modules/manifest-finding/manifest-finding.module.code.ts"
 import {
   calledIn,
   objectIn,

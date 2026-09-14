@@ -62,7 +62,6 @@ export const codeCheck = {
     "code-check/no-tmp",
     "code-check/no-unparsed-boundary-read",
     "code-check/no-unused-exports",
-    "code-check/package-reached-where-named",
     "code-check/page-matches-its-type",
     "code-check/page-named-as-stated",
     "code-check/page-property-has-its-file",

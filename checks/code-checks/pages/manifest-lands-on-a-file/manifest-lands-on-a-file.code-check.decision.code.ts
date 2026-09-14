@@ -1,5 +1,5 @@
-import type { Manifest } from "akasha/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.decision.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import type { Manifest } from "akasha/code/workspaces/modules/manifest-finding/manifest-finding.module.code.ts"
 import { reachesIn } from "akasha/code/workspaces/modules/package-manifest/package-manifest.module.code.ts"
 
 const GLOB = "*"
