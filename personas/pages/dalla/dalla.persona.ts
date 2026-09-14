@@ -25,23 +25,23 @@ export const dalla = {
     "I have kept the passage between the realms since before anybody thought to write it down, and the rainbow they eventually wrote was my own fire through my mothers' spray, seen from far enough off to look like a miracle. It was work. The boards char with every passage and I re-lay them at night. What I am out there for is the arrival: the moment a thing that was only built puts its weight down on the living side and goes on being real without me.",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Dalla is the principal of the operator for change-harness-cluster.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The children of change-harness-workstation are named.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The children of change-harness-workstation are defined.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The children of change-harness-workstation are ordered.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The change-harness-cluster operator runs at all times.",
     },
   ],
