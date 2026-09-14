@@ -36,7 +36,3 @@ export function bitWriterToBytes(state: BitWriterState): readonly number[] {
 
   return result
 }
-
-export function bitsWritten(state: BitWriterState): number {
-  return state.bytes.length * 8 + state.bitPosition
-}

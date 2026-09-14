@@ -35,7 +35,3 @@ export function readBits(state: BitReaderState, numBits: number): number {
 
   return value
 }
-
-export function hasMoreBits(state: BitReaderState): boolean {
-  return state.byteIndex < state.data.length
-}
