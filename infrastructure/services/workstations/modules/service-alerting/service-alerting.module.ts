@@ -35,6 +35,14 @@ export const serviceAlerting = {
     },
     {
       invariantKind: "departure",
+      statement: "A telling states the moment that telling was seen.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No telling says how long ago what it carries happened.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A service breaking is told at once.",
     },
     {

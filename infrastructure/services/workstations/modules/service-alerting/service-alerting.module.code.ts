@@ -38,13 +38,11 @@ export function championing(rows: readonly DomainRow[]): (address: string) => st
   }
 }
 
-function bodyFor(one: Health, since: string, now: string): string {
-  const same = since === now
-  const held = same ? "It broke just now." : `It has been broken since ${since}.`
+function bodyFor(one: Health, now: string): string {
   return [
     `\`${one.slug}\` is broken.`,
     `${one.broken ?? "Nothing said why"}.`,
-    held,
+    `This was seen at ${now}.`,
     `What that service is and what it runs are on its page.`,
     `Its log is \`journalctl --user -u ${one.unit}\`.`,
   ].join(" ")
@@ -83,7 +81,7 @@ export function deciding(given: {
     tell.push({
       slug: one.slug,
       to: given.champion(`${ADDRESS}${one.slug}`) ?? given.fallback,
-      body: bodyFor(one, brokenSince, given.now),
+      body: bodyFor(one, given.now),
     })
   }
   return { tell, keeping }

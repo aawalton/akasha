@@ -40,7 +40,8 @@ test("a service that just broke is told at once", () => {
   const said = decided([BROKE], {}, AT)
   expect(said.tell.length).toBe(1)
   expect(said.tell[0]?.body).toContain("is broken")
-  expect(said.tell[0]?.body).toContain("It broke just now.")
+  expect(said.tell[0]?.body).toContain(`This was seen at ${AT}.`)
+  expect(said.tell[0]?.body).not.toContain("just now")
   expect(said.keeping["held-service"]).toEqual({ brokenSince: AT, toldAt: null })
 })
 
@@ -55,7 +56,14 @@ test("a service broken right through the cooling is told once more", () => {
   const ledger = { "held-service": { brokenSince: AT, toldAt: AT } }
   const said = decided([BROKE], ledger, later(COOLING_MS))
   expect(said.tell.length).toBe(1)
-  expect(said.tell[0]?.body).toContain(`broken since ${AT}`)
+  expect(said.tell[0]?.body).toContain(`This was seen at ${later(COOLING_MS)}.`)
+})
+
+test("a telling carries a moment rather than a stretch of time", () => {
+  const body = decided([BROKE], { "held-service": { brokenSince: AT, toldAt: null } }, AT).tell[0]
+    ?.body
+  expect(body).toContain(AT)
+  expect(body).not.toContain("ago")
 })
 
 test("a service that came back and broke again is told again inside the cooling", () => {
