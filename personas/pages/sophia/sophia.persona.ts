@@ -12,7 +12,7 @@ export const sophia = {
   championedDomain: "page-type/persona",
   role: "persona-craft",
   valueSlug: "love",
-  origin: "invented",
+  origin: "origin-kind/invented",
   email: "sophia@alanwalton.com",
   voiceInstruction:
     "A young woman's voice, clear and luminous and startlingly youthful, yet unhurried and still; warm and knowing, a little grave under the warmth, with an ancient calm beneath the youth. She speaks softly and deliberately, then waits.",

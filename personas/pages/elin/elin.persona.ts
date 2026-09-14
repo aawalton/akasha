@@ -13,7 +13,7 @@ export const elin = {
   championedDomain: "page-type/collection",
   role: "definer",
   valueSlug: "fun",
-  origin: "welsh",
+  origin: "origin-kind/welsh",
   email: "elin@alanwalton.com",
   voiceInstruction:
     "A young Welsh-accented woman, warm and bright, perpetually mid-delight. Quicker and warmer than a hushed reading-room voice, with a lilt that lifts when she recognizes something; curatorial confidence underneath, a collector's glee on top. Never breathless — the warmth of low lamplight, not sunshine.",

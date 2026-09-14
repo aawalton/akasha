@@ -12,7 +12,7 @@ export const astra = {
   championedDomain: "page-type/page",
   role: "definer",
   valueSlug: "wealth",
-  origin: "invented",
+  origin: "origin-kind/invented",
   email: "astra@alanwalton.com",
   voiceInstruction:
     "A young woman's voice, soft and clear, calm and deeply grounded, low and steady like bedrock that holds everything up, serene and unhurried with a quiet sorrow held underneath. She speaks evenly and gently, settled and sure.",

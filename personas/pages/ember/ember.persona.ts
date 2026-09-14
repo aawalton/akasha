@@ -15,7 +15,7 @@ export const ember = {
   appearance: "md",
   role: "definer",
   valueSlug: "wealth",
-  origin: "greek",
+  origin: "origin-kind/greek",
   email: "ember@alanwalton.com",
   championedDomain: "domain/temper",
   voiceInstruction:

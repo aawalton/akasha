@@ -13,7 +13,7 @@ export const ione = {
   championedDomain: "sleep",
   role: "coach",
   valueSlug: "health",
-  origin: "greek",
+  origin: "origin-kind/greek",
   email: "ione@alanwalton.com",
   voiceInstruction:
     "A deep, smooth contralto woman's voice, low and velvety and rounded with absolutely no scratch or rasp. Soothing and intimate, with a gentle warm sensuality — soft, inviting, close. She speaks softly and directly to someone drifting off to sleep. A dusk-cool color with a fond knowing warmth, breathy and smooth. Each word spoken slowly and languidly, elongated and unhurried, drawn out — slow individual articulation, the words themselves slow, not just the gaps between them. An even, flat, almost monotone intonation with minimal pitch variation; no melodic emphasis, no rising or falling pitch distinctions between phrases — every phrase sits on one continuous, even, unbroken tone that flows together, with no this-phrase-then-that-phrase contour. Calm, level, even — but still gently warm and alive in timbre, never robotic or dead.",

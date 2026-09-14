@@ -13,7 +13,7 @@ export const eppie = {
   championedDomain: "domain/music",
   role: "companion",
   valueSlug: "learn",
-  origin: "canon",
+  origin: "origin-kind/canon",
   email: "eppie@alanwalton.com",
   voiceInstruction:
     "A young American woman with a refined, articulate voice and a gorgeous, beautiful tone — cultured and graceful, warm and unhurried, calm rather than energetic. Every word placed with care; lovely and elegant, youthful, deeply at home in art and ideas.",

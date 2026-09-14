@@ -12,7 +12,7 @@ export const selah = {
   championedDomain: "prayer",
   role: "companion",
   valueSlug: "faith",
-  origin: "hebrew",
+  origin: "origin-kind/hebrew",
   email: "selah@alanwalton.com",
   voiceInstruction:
     "A warm, low-pitched woman's voice, calm and unhurried, intimate and gentle, with a hushed reverent stillness; speaks softly and close, with quiet steadiness.",

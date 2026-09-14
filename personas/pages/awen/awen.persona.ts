@@ -12,7 +12,7 @@ export const awen = {
   championedDomain: "domain/story",
   role: "definer",
   valueSlug: "wealth",
-  origin: "invented",
+  origin: "origin-kind/invented",
   email: "awen@alanwalton.com",
   voiceInstruction:
     "A young woman's voice, bright and warm but grounded and clear, with an engineer's precision in how she lands each thought; quick and articulate, lit with quiet delight rather than bubbling over, gracious and youthful, a low thread of ache beneath. Speaks crisply and surely.",

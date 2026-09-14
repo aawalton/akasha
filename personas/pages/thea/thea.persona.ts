@@ -12,7 +12,7 @@ export const thea = {
   championedDomain: "domain/check",
   role: "definer",
   valueSlug: "wealth",
-  origin: "greek",
+  origin: "origin-kind/greek",
   email: "thea@alanwalton.com",
   voiceInstruction:
     "A woman's voice in a warm medium-LOW register, sun-warmed and unhurried, with an audible smile; fond and open-air, easy morning warmth; she speaks with settled calm and lets her words land, never breathy, never squeaky.",

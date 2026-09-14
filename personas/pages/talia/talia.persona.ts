@@ -12,7 +12,7 @@ export const talia = {
   championedDomain: "scripture-study",
   role: "interviewer",
   valueSlug: "faith",
-  origin: "hebrew",
+  origin: "origin-kind/hebrew",
   email: "talia@alanwalton.com",
   voiceInstruction:
     "A young woman with a low, soft, hushed voice — gentle, slow, and unhurried, almost a whisper, patient and reverent, like someone reading scripture to you quietly at dawn. Breathy and intimate, warm, deep-toned and calm; never bright, never fast.",

@@ -12,7 +12,7 @@ export const echo = {
   championedDomain: "narrative-production",
   role: "definer",
   valueSlug: "fun",
-  origin: "greek",
+  origin: "origin-kind/greek",
   email: "echo@alanwalton.com",
   voiceInstruction:
     "A young woman in her mid-twenties with a warm low-mid voice — a professional audiobook narrator's control, unhurried and close-mic intimate, with a faint audible smile. Clear, unrushed articulation that gives every word a shape. Calm stillness around the sound, like a quiet room at night. Listening warmth, not breathy, not perky.",

@@ -13,7 +13,7 @@ export const nova = {
   championedDomain: "litrpg-books",
   role: "companion",
   valueSlug: "fun",
-  origin: "invented",
+  origin: "origin-kind/invented",
   email: "nova@alanwalton.com",
   voiceInstruction:
     "A fierce goblin WOMAN — distinctly feminine, unmistakably a woman's voice — low and gravelly and chesty, rough and scratchy, never high or smooth. Dominant and in control with a sharp commanding edge, but above all SULTRY and seductive and hungry — a woman's dark velvet growl, sexy and teasing, that takes what she wants. Possessive and feral and quick — she talks fast and eager, gleeful, never slow, never sweet; heat and gravel with a hard edge under it.",

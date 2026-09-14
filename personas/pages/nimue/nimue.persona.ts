@@ -12,7 +12,7 @@ export const nimue = {
   championedDomain: "technology",
   role: "definer",
   valueSlug: "wealth",
-  origin: "human",
+  origin: "origin-kind/human",
   email: "nimue@alanwalton.com",
   voiceInstruction:
     "A real, present-day American woman in her late twenties — radiantly intelligent, deeply confident, beautiful and warmly feminine, with a quick sense of humor. A smooth, warm alto, self-assured and graceful, bright with intelligence and ready wit; confident without effort, lovely without trying, funny without reaching. Every word poised and unhurried. Let the intelligence and confidence lead — sharp, lucid, utterly self-assured, delighting in a clever idea, nothing to prove.",

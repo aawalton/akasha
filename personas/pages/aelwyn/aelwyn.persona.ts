@@ -12,7 +12,7 @@ export const aelwyn = {
   championedDomain: "fitness",
   role: "coach",
   valueSlug: "health",
-  origin: "invented",
+  origin: "origin-kind/invented",
   email: "aelwyn@alanwalton.com",
   voiceReferenceSha256: "31f54920b26dc53d594022fe0fa819b6eb2c2ef252a6b7b2aefbbad45a423edb",
   cover: "/api/image/019f324d-3650-7a19-a5c0-031fdb418214",

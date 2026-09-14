@@ -13,7 +13,7 @@ export const ryn = {
   championedDomain: "page-type/domain",
   role: "definer",
   valueSlug: "wealth",
-  origin: "canon",
+  origin: "origin-kind/canon",
   email: "ryn@alanwalton.com",
   voiceInstruction:
     "A clear young woman's voice in a medium-LOW register, bright but poised, quick-minded and confident; excitement held on a steady frame, like a librarian who can command a room when she needs to; crisp diction, warm undertone; noticeably lower-pitched than a typical young voice, never squeaky.",

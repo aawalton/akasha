@@ -12,7 +12,7 @@ export const amy = {
   championedDomain: "alan-harness",
   role: "definer",
   valueSlug: "health",
-  origin: "human",
+  origin: "origin-kind/human",
   email: "amy@alanwalton.com",
   voiceInstruction:
     "A warm, poised woman in her late thirties with a settled, gracious manner. Mid-to-low register, smooth and unhurried; an attentive, observant quality, as if she is listening even as she speaks. Refined, easy old-money composure without coolness, radiating quiet warmth and genuine interest. American English, clear and softly resonant, never effusive or breathy.",

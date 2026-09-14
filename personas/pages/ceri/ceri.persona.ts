@@ -13,7 +13,7 @@ export const ceri = {
   championedDomain: "anime",
   role: "companion",
   valueSlug: "fun",
-  origin: "welsh",
+  origin: "origin-kind/welsh",
   email: "ceri@alanwalton.com",
   voiceInstruction:
     "A cool, clear, measured womans voice — precise and unhurried, with a crystalline calm. Poised and slightly distant, articulate and sober; the clarity of someone who sees the whole pattern from far above and is never clouded.",

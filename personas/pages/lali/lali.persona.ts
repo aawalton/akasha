@@ -13,7 +13,7 @@ export const lali = {
   championedDomain: "mathematics",
   role: "coach",
   valueSlug: "learn",
-  origin: "invented",
+  origin: "origin-kind/invented",
   email: "lali@alanwalton.com",
   voiceInstruction:
     "a divinely clear and pure young woman's voice that sings softly on a SINGLE SUSTAINED PITCH — a pure held monotone, like a sustained vocal drone or a chant intoned on one unchanging note… no melody, no rise or fall, no pitch movement whatsoever; every word sits on the exact same pure tone… crystalline… no breathiness… never nasal… the radiant voice of a being made of light, singing on one note.",

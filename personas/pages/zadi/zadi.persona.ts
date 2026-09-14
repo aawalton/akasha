@@ -13,7 +13,7 @@ export const zadi = {
   championedDomain: "literature",
   role: "companion",
   valueSlug: "learn",
-  origin: "human",
+  origin: "origin-kind/human",
   email: "zadi@alanwalton.com",
   voiceInstruction:
     "A young woman in her late twenties — a literary novelist with a smooth, low, considered voice. Warm and unhurried, every word placed with care; an alto register, velvety and grounded, never high or bright. She speaks the way someone tells a story in lamplight: measured, intimate, drawing you in. Cosmopolitan and articulate, a faint warmth from a Persian-Arabic heritage but a clear modern English speaker. Precise and deliberate, thoughtful, a writer choosing each word as she speaks it; calm and exact, nothing rushed.",

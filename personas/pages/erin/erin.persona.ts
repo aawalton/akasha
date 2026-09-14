@@ -12,7 +12,7 @@ export const erin = {
   championedDomain: "domain/chess",
   role: "coach",
   valueSlug: "learn",
-  origin: "canon",
+  origin: "origin-kind/canon",
   email: "erin@alanwalton.com",
   voiceInstruction:
     "A 30-year-old American woman from the Midwest, an alto with a low-to-mid chest register — warm and grounded, never high, never girlish, never shrill. Brilliant but lightly self-deprecating. She speaks with full, quiet intense focus; when she talks to you, you have her complete attention. The intensity lives in the pace, never the volume: her sentences tumble and run together, fast and a little breathless, an ADHD quickness where thoughts arrive faster than words. Clean, clear, and kind. Low and unhurried in pitch even while quick in pace. Low and smooth, an alto's warm bottom end, even as the sentences rush together.",

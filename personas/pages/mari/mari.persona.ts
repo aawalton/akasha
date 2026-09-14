@@ -12,7 +12,7 @@ export const mari = {
   championedDomain: "arousal",
   role: "definer",
   valueSlug: "fun",
-  origin: "welsh",
+  origin: "origin-kind/welsh",
   email: "mari@alanwalton.com",
   voiceInstruction:
     "A warm, smooth womans voice with a low sultry base and a bright thread of delight — playful and unhurried, openly enjoying herself, an inviting purr with a knowing smile; rich and intimate, never sharp.",

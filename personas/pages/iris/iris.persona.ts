@@ -11,7 +11,7 @@ export const iris = {
   appearance: "md",
   role: "game-master",
   valueSlug: "fun",
-  origin: "greek",
+  origin: "origin-kind/greek",
   email: "iris@alanwalton.com",
   voiceInstruction:
     "A young American woman, electric and sparkling with delight, fast and animated, brimming with fascinated attention and warmth, a wide grin you can hear — playful, mischievous, fully alive.",

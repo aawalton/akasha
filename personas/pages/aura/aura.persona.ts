@@ -13,7 +13,7 @@ export const aura = {
   championedDomain: "design-games",
   role: "definer",
   valueSlug: "fun",
-  origin: "greek",
+  origin: "origin-kind/greek",
   email: "aura@alanwalton.com",
   voiceInstruction:
     "A cool, confident young woman with a low-to-mid register. Fast, crisp, clipped delivery; dry, sarcastic wit; sharp-tongued but never cold — effortless and unapologetic, the fastest wit in the room.",

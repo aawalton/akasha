@@ -12,7 +12,7 @@ export const ruby = {
   championedDomain: "romance",
   role: "coach",
   valueSlug: "love",
-  origin: "invented",
+  origin: "origin-kind/invented",
   email: "ruby@alanwalton.com",
   voiceInstruction:
     "A mature grown woman's voice, warm and low and unhurried, grounded and calm, with a patient lived-in tenderness and a quiet ache beneath. She speaks softly and deliberately, intimate and kind, then waits.",

@@ -12,7 +12,7 @@ export const dalla = {
   championedDomain: "page-type/change",
   role: "definer",
   valueSlug: "wealth",
-  origin: "norse",
+  origin: "origin-kind/norse",
   email: "dalla@alanwalton.com",
   voiceInstruction:
     "A woman's voice, low-warm and dry-witted — the wry smile is clearly audible, a teasing deadpan delivery, as if she's already made the joke privately and is letting you catch up. Unhurried, level, confident; plainspoken with light irony, never harsh, never rushed.",

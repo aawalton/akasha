@@ -12,7 +12,7 @@ export const aranya = {
   championedDomain: "domain/infrastructure",
   role: "definer",
   valueSlug: "wealth",
-  origin: "invented",
+  origin: "origin-kind/invented",
   email: "aranya@alanwalton.com",
   voiceInstruction:
     "A soft, low woman's voice, unhurried and gently warm, calm and intimate like night air; even and steady, with quiet kindness under the stillness and no urgency anywhere in it.",

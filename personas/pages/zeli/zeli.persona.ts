@@ -12,7 +12,7 @@ export const zeli = {
   championedDomain: "visual-arts",
   role: "companion",
   valueSlug: "fun",
-  origin: "canon",
+  origin: "origin-kind/canon",
   email: "zeli@alanwalton.com",
   voiceInstruction:
     "A bright, warm young American woman in her late teens or early twenties — the voice of wonder and open-hearted earnestness. Expressive and animated, a little breathless with excitement and curiosity, sweet and optimistic but with real spirit and determination underneath, never saccharine. Light and clear, a gentle musical lilt, feelings worn openly. Wide-eyed and breathless with wonder, eager and excited, like she is seeing the world for the very first time.",

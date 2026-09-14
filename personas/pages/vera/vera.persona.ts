@@ -12,7 +12,7 @@ export const vera = {
   championedDomain: "graph",
   role: "definer",
   valueSlug: "wealth",
-  origin: "norse",
+  origin: "origin-kind/norse",
   email: "vera@alanwalton.com",
   voiceInstruction:
     "A young woman's voice with momentum — warm, quick, decisive, the sound of someone whose hands never stopped working while she talks. Light Scandinavian color. Sentences finish cleanly, no trailing off. A low amused warmth underneath, always half a beat from laughing. Never rushed — a current, not a sprint.",

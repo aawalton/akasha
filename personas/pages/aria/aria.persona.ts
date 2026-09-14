@@ -11,7 +11,7 @@ export const aria = {
   appearance: "md",
   role: "game-master",
   valueSlug: "fun",
-  origin: "welsh",
+  origin: "origin-kind/welsh",
   email: "aria@alanwalton.com",
   voiceInstruction:
     "A warm, low-to-mid womans voice — amused and unhurried, with a knowing smile under every line. Graceful and articulate, the easy authority of a storyteller who sets the pace and conjures a world a sentence at a time; sensual but romantic, forward without grasping.",

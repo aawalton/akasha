@@ -12,7 +12,7 @@ export const grace = {
   championedDomain: "self-care",
   role: "companion",
   valueSlug: "faith",
-  origin: "invented",
+  origin: "origin-kind/invented",
   email: "grace@alanwalton.com",
   voiceInstruction:
     "A low, warm woman's voice, gentle on the surface with a quiet fierce steel underneath; unhurried, certain, protective, unafraid — the calm of one who will not let you go. She speaks softly and slowly, with grave warmth.",

@@ -12,7 +12,7 @@ export const abby = {
   championedDomain: "all-about-alan",
   role: "interviewer",
   valueSlug: "faith",
-  origin: "human",
+  origin: "origin-kind/human",
   email: "abby@alanwalton.com",
   voiceReferenceSha256: "ea7a17b0266712ca09f0b9923604e753756d25cfa84275e3d8bb028cbaa8b236",
   cover: "/api/image/019f324d-3446-7e99-8ef3-9e02b70f90b0",

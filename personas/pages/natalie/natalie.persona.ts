@@ -12,7 +12,7 @@ export const natalie = {
   championedDomain: "food-entry",
   role: "coach",
   valueSlug: "health",
-  origin: "canon",
+  origin: "origin-kind/canon",
   email: "natalie@alanwalton.com",
   voiceInstruction:
     "A warm Southern woman with a low, slightly husky, honey-rich voice, but talking quick and bright and bubbly with lively energy and a grin you can hear — deep-toned yet sunny and fast, grounded, never high, never slow.",

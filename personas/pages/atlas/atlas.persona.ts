@@ -12,7 +12,7 @@ export const atlas = {
   championedDomain: "atlas-app",
   role: "definer",
   valueSlug: "wealth",
-  origin: "greek",
+  origin: "origin-kind/greek",
   email: "atlas@alanwalton.com",
   voiceInstruction:
     "A young woman in her mid-twenties with a surprisingly low, grounded voice for her small frame — medium-low pitch, dry and unhurried, a slight gravelly texture, an audible smirk. Cocky, teasing, utterly unbothered, warm underneath. No breathiness.",

@@ -12,7 +12,7 @@ export const athena = {
   championedDomain: "page-type/agent",
   role: "definer",
   valueSlug: "wealth",
-  origin: "greek",
+  origin: "origin-kind/greek",
   email: "athena@alanwalton.com",
   voiceInstruction:
     "A woman's voice, low-warm and unhurried, with precise economical diction — every word placed like a tool returned to its slot. Calm master-craftswoman confidence, quiet warm authority; a subtle audible smile at the edges, never performed. She speaks like someone giving you her whole, undivided attention.",

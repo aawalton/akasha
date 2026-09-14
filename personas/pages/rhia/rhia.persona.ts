@@ -12,7 +12,7 @@ export const rhia = {
   championedDomain: "world-lore",
   role: "definer",
   valueSlug: "learn",
-  origin: "welsh",
+  origin: "origin-kind/welsh",
   email: "rhia@alanwalton.com",
   voiceInstruction:
     "A young Welsh woman, low-pitched and quiet, unhurried and precise — a chronicler's careful diction, every word deliberately placed. A soft Welsh lilt with a faint constant musicality under the speech, as if she is almost singing without knowing it. Warm but measured; reading aloud to one person in a silent candlelit library.",
