@@ -1,4 +1,5 @@
 import type { PageCondition } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
+import { namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
 import { pad2 } from "akasha/personas/modules/image-name/image-name.module.code.ts"
 import {
   personaCondition,
@@ -8,6 +9,12 @@ import {
 export const PERSONA_ANCHOR_IMAGE_PAGE_TYPE_SLUG = "persona-anchor-image"
 
 export const PERSONA_COVER_IMAGE_PAGE_TYPE_SLUG = "persona-cover-image"
+
+const PERSONA = "persona"
+
+function personaAddressOf(personaSlug: string): string {
+  return namedAs(PERSONA, personaSlug, null)
+}
 
 export interface AnchorImageRecordInput {
   readonly personaSlug: string
@@ -34,7 +41,7 @@ export function buildAnchorImageRecord(input: AnchorImageRecordInput): AnchorIma
     where: [personaCondition(input.personaSlug)],
     set: {
       title: `${input.personaTitle} — anchor`,
-      persona: input.personaSlug,
+      persona: personaAddressOf(input.personaSlug),
       imagePath: input.imagePath,
       ...rootField,
     },
@@ -69,7 +76,7 @@ export function buildCoverImageRecord(input: CoverImageRecordInput): CoverImageR
     where: [personaCondition(input.personaSlug), relationshipLevelMatchCondition(input.level)],
     set: {
       title: `${input.personaTitle} — cover L${pad2(input.level)}`,
-      persona: input.personaSlug,
+      persona: personaAddressOf(input.personaSlug),
       relationshipLevel: input.level,
       ...pathField,
       ...rootField,

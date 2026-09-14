@@ -12,5 +12,9 @@ export const personaPageConditions = {
       invariantKind: "departure",
       statement: "A level matches whether that level is stored as a number or as text.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A persona is matched by the address her page type and her slug name.",
+    },
   ],
 } as const satisfies Module

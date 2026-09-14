@@ -6,7 +6,7 @@ import {
 
 describe("personaCondition", () => {
   test("matches the persona by her slug", () => {
-    expect(personaCondition("aria")).toEqual({ key: "persona", eq: "aria" })
+    expect(personaCondition("aria")).toEqual({ key: "persona", eq: "persona/aria" })
   })
 })
 

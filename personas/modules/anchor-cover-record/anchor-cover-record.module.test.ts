@@ -11,7 +11,7 @@ describe("buildAnchorImageRecord", () => {
       personaTitle: "Aria",
       imagePath: "aria/anchor.png",
     })
-    expect(record.where).toEqual([{ key: "persona", eq: "aria" }])
+    expect(record.where).toEqual([{ key: "persona", eq: "persona/aria" }])
   })
 
   test("titles the anchor after the persona", () => {
@@ -47,7 +47,7 @@ describe("buildCoverImageRecord", () => {
   test("matches the cover by the persona and the level together", () => {
     const record = buildCoverImageRecord({ personaSlug: "aria", personaTitle: "Aria", level: 3 })
     expect(record.where.length).toBe(2)
-    expect(record.where[0]).toEqual({ key: "persona", eq: "aria" })
+    expect(record.where[0]).toEqual({ key: "persona", eq: "persona/aria" })
   })
 
   test("spells a single-digit level with two digits in the title", () => {
