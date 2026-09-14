@@ -114,7 +114,8 @@ export const alanHarness = {
     },
     {
       invariantKind: "departure",
-      statement: "Alan's code editor status line shows Claude usage and the three readout groups.",
+      statement:
+        "Alan's code editor status line shows workstation load, Claude usage and the three readout groups.",
     },
     {
       invariantKind: "departure",
