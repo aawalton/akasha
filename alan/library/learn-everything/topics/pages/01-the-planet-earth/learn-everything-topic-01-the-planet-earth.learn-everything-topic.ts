@@ -1,0 +1,12 @@
+import type { LearnEverythingTopic } from "akasha/alan/library/learn-everything/topics/learn-everything-topic.page-type.types.ts"
+
+export const learnEverythingTopic01ThePlanetEarth = {
+  id: "01a065a7-084d-7012-8201-f897ea763406",
+  type: "learn-everything-topic",
+  slug: "learn-everything-topic-01-the-planet-earth",
+  node: "The Earth › Earth's Properties, Structure, Composition › The Planet Earth",
+  masteryLevel: "mastery-level/novice",
+  scoredOn: "2026-06-19",
+  status: "unopened",
+  partOf: ["learn-everything-topic-01-earth-s-properties-structure-composition"],
+} as const satisfies LearnEverythingTopic

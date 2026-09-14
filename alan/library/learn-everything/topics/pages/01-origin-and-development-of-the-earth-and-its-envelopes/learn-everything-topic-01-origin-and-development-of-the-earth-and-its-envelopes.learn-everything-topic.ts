@@ -1,0 +1,17 @@
+import type { LearnEverythingTopic } from "akasha/alan/library/learn-everything/topics/learn-everything-topic.page-type.types.ts"
+
+export const learnEverythingTopic01OriginAndDevelopmentOfTheEarthAndItsEnvelopes = {
+  id: "01a065a7-0854-7000-8807-15b63455116d",
+  type: "learn-everything-topic",
+  slug: "learn-everything-topic-01-origin-and-development-of-the-earth-and-its-envelopes",
+  node: "The Earth › Earth's History › Origin and Development of the Earth and Its Envelopes",
+  masteryLevel: "mastery-level/scholar",
+  scoredOn: "2026-06-19",
+  status: "resting",
+  partOf: ["learn-everything-topic-04-earth-s-history"],
+  frontier: "md",
+  integration: "md",
+  misconceptions: "md",
+  bites: "md",
+  topicEvidence: "md",
+} as const satisfies LearnEverythingTopic

@@ -1,0 +1,12 @@
+import type { LearnEverythingTopic } from "akasha/alan/library/learn-everything/topics/learn-everything-topic.page-type.types.ts"
+
+export const learnEverythingTopic01WesternEurope15001789 = {
+  id: "01a065a7-085a-700d-a63c-357cfed26a20",
+  type: "learn-everything-topic",
+  slug: "learn-everything-topic-01-western-europe-1500-1789",
+  node: "The History of Mankind › The Modern World to 1920 › Western Europe 1500–1789",
+  masteryLevel: "mastery-level/novice",
+  scoredOn: "2026-06-19",
+  status: "unopened",
+  partOf: ["learn-everything-topic-06-the-modern-world-to-1920"],
+} as const satisfies LearnEverythingTopic

@@ -1,0 +1,12 @@
+import type { LearnEverythingTopic } from "akasha/alan/library/learn-everything/topics/learn-everything-topic.page-type.types.ts"
+
+export const learnEverythingTopic07SoutheastAsiaTo1600 = {
+  id: "01a065a7-0857-7022-a2f8-3567f0d3dd46",
+  type: "learn-everything-topic",
+  slug: "learn-everything-topic-07-southeast-asia-to-1600",
+  node: "The History of Mankind › East, Central, South, and Southeast Asia › Southeast Asia to 1600",
+  masteryLevel: "mastery-level/novice",
+  scoredOn: "2026-06-19",
+  status: "unopened",
+  partOf: ["learn-everything-topic-03-east-central-south-and-southeast-asia"],
+} as const satisfies LearnEverythingTopic

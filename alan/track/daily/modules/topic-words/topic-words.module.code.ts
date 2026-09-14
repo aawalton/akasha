@@ -19,8 +19,7 @@ export const WORDS_COUNTED_FROM = "2026-09-06"
 
 const WISDOM_PATHSPEC = ":(glob)all-about-alan/topics/pages/**/*.all-about-alan-topic.ts"
 
-const INTELLIGENCE_PATHSPEC =
-  ":(glob)alan/library/book-of-everything/learn-everything-topics/pages/**/*.md"
+const INTELLIGENCE_PATHSPEC = ":(glob)alan/library/learn-everything/topics/pages/**/*.md"
 
 const HUNK = "@@"
 
