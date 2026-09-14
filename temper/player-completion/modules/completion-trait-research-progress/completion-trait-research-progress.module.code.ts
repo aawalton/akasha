@@ -28,7 +28,6 @@ export interface TraitResearchCatalogCraftType {
 }
 
 type TraitResearch = NonNullable<CharacterCompletion["traitResearch"]>
-type ItemPath = readonly (string | number)[]
 
 function traitKey(craftTypeId: number, lineIndex: number, traitName: string): string {
   return `${craftTypeId}:${lineIndex}:${traitName.toLowerCase()}`
@@ -64,61 +63,6 @@ function linesUnder(
   return researchLines
     .filter((line) => line.parent === craftType.slug)
     .sort((a, b) => a.displayOrder - b.displayOrder)
-}
-
-function countTraitResearch(
-  traitResearch: TraitResearch | null | undefined,
-  craftTypes: readonly TraitResearchCatalogCraftType[],
-  researchLines: readonly TraitResearchCatalogLine[],
-  itemPath?: ItemPath
-): { current: number; total: number } {
-  const knownSet = traitResearchKnownSet(traitResearch)
-  const craftFilter = itemPath?.[0] !== undefined ? Number(itemPath[0]) : null
-  const lineFilter = itemPath?.[1] !== undefined ? Number(itemPath[1]) : null
-  const traitFilter = itemPath?.[2] !== undefined ? Number(itemPath[2]) : null
-
-  let current = 0
-  let total = 0
-  for (const craft of craftTypesInOrder(craftTypes)) {
-    if (craftFilter !== null && craft.esoCraftTypeId !== craftFilter) continue
-    for (const line of linesUnder(craft, researchLines)) {
-      if (lineFilter !== null && line.displayOrder !== lineFilter) continue
-      for (const trait of line.traits) {
-        if (traitFilter !== null && trait.traitIndex !== traitFilter) continue
-        total++
-        if (knownSet.has(traitKey(craft.esoCraftTypeId, line.displayOrder, trait.traitName))) {
-          current++
-        }
-      }
-    }
-  }
-  return { current, total }
-}
-
-export function isTraitResearchCardComplete(
-  completion: CharacterCompletion | null,
-  craftTypes: readonly TraitResearchCatalogCraftType[],
-  researchLines: readonly TraitResearchCatalogLine[]
-): boolean {
-  if (!completion) return false
-  const { current, total } = countTraitResearch(completion.traitResearch, craftTypes, researchLines)
-  return total > 0 && current === total
-}
-
-export function isTraitResearchItemComplete(
-  completion: CharacterCompletion | null,
-  itemPath: ItemPath,
-  craftTypes: readonly TraitResearchCatalogCraftType[],
-  researchLines: readonly TraitResearchCatalogLine[]
-): boolean {
-  if (!completion || itemPath.length === 0) return false
-  const { current, total } = countTraitResearch(
-    completion.traitResearch,
-    craftTypes,
-    researchLines,
-    itemPath
-  )
-  return total > 0 && current === total
 }
 
 function buildCraftTypes(

@@ -35,12 +35,8 @@ export const completionTraitResearchProgress = {
       statement: "A character the store has not read is left out of the answer.",
     },
     {
-      invariantKind: "departure",
-      statement: "Each completeness check takes the catalog as arguments too.",
-    },
-    {
-      invariantKind: "constraint",
-      statement: "An empty catalog leaves nothing for a completeness check to hold true.",
+      invariantKind: "absence",
+      statement: "Nothing here answers whether a character has finished researching.",
     },
   ],
 } as const satisfies Module

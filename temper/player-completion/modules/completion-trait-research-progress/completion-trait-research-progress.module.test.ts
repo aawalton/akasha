@@ -1,13 +1,6 @@
 import { describe, expect, test } from "bun:test"
-import type {
-  CharacterCompletion,
-  TraitResearchCraftType,
-} from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
-import {
-  isTraitResearchCardComplete,
-  isTraitResearchItemComplete,
-  transformTraitResearchProgress,
-} from "akasha/temper/player-completion/modules/completion-trait-research-progress/completion-trait-research-progress.module.code.ts"
+import type { CharacterCompletion } from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
+import { transformTraitResearchProgress } from "akasha/temper/player-completion/modules/completion-trait-research-progress/completion-trait-research-progress.module.code.ts"
 import {
   AXE,
   BLACKSMITHING,
@@ -16,7 +9,6 @@ import {
   capturedTraitResearch,
   characterRow,
   linesUnderCraft,
-  POWERED,
   ROSTER_ONLY,
   TOTAL_CATALOG_TRAITS,
 } from "akasha/temper/player-completion/modules/completion-trait-research-progress/completion-trait-research-progress.module.test-fixtures.ts"
@@ -28,17 +20,6 @@ function progressOf(completion: CharacterCompletion | null) {
   const [progress] = transformTraitResearchProgress([characterRow("c1", completion)], CRAFTS, LINES)
   if (progress === undefined) throw new Error("expected the character to be emitted")
   return progress
-}
-
-function cardComplete(completion: CharacterCompletion | null): boolean {
-  return isTraitResearchCardComplete(completion, CRAFTS, LINES)
-}
-
-function itemComplete(
-  completion: CharacterCompletion | null,
-  itemPath: readonly (string | number)[]
-): boolean {
-  return isTraitResearchItemComplete(completion, itemPath, CRAFTS, LINES)
 }
 
 describe("transformTraitResearchProgress — the denominator is the catalog handed in", () => {
@@ -63,7 +44,6 @@ describe("transformTraitResearchProgress — the denominator is the catalog hand
     expect(progress.craftTypes.map((craft) => craft.craftingType)).toEqual(
       CRAFTS.map((craft) => craft.esoCraftTypeId)
     )
-    expect(cardComplete(completion)).toBe(false)
   })
 
   test("every emitted craft type and line carries its whole catalog subtotal", () => {
@@ -100,7 +80,6 @@ describe("transformTraitResearchProgress — the denominator is the catalog hand
 
     expect(progress.knownCount).toBe(0)
     expect(progress.totalCount).toBe(TOTAL_CATALOG_TRAITS)
-    expect(cardComplete(completion)).toBe(false)
   })
 
   test("a character carrying only roster fields is not emitted at all", () => {
@@ -114,7 +93,7 @@ describe("transformTraitResearchProgress — the denominator is the catalog hand
     expect(transformTraitResearchProgress([characterRow("c1", {})], CRAFTS, LINES)).toEqual([])
   })
 
-  test("a character knowing every trait is the whole catalog over itself, and complete", () => {
+  test("a character knowing every trait is the whole catalog over itself", () => {
     const completion: CharacterCompletion = {
       ...ROSTER_ONLY,
       traitResearch: capturedTraitResearch({ known: () => true }),
@@ -123,7 +102,6 @@ describe("transformTraitResearchProgress — the denominator is the catalog hand
 
     expect(progress.knownCount).toBe(TOTAL_CATALOG_TRAITS)
     expect(progress.totalCount).toBe(TOTAL_CATALOG_TRAITS)
-    expect(cardComplete(completion)).toBe(true)
   })
 
   test("a trait is matched to what the game reported without regard to letter case", () => {
@@ -188,162 +166,5 @@ describe("transformTraitResearchProgress — the order the catalog is read in", 
       [6, ["Bow"]],
       [7, ["Ring", "Necklace"]],
     ])
-  })
-})
-
-describe("isTraitResearchCardComplete — nothing is complete for want of asking", () => {
-  test("a null or empty completion is not complete", () => {
-    expect(cardComplete(null)).toBe(false)
-    expect(cardComplete({})).toBe(false)
-  })
-
-  test("an empty traitResearch map is not complete", () => {
-    expect(cardComplete({ ...ROSTER_ONLY, traitResearch: {} })).toBe(false)
-  })
-
-  test("a craft type reported with no lines at all is not complete", () => {
-    const traitResearch: Record<number, TraitResearchCraftType> = {}
-    for (const craft of CRAFTS) {
-      traitResearch[craft.esoCraftTypeId] = { name: craft.title, lines: {} }
-    }
-    expect(cardComplete({ ...ROSTER_ONLY, traitResearch })).toBe(false)
-  })
-
-  test("a line reported with no traits at all is not complete", () => {
-    const traitResearch = capturedTraitResearch({ known: () => true })
-    const craft = traitResearch[BLACKSMITHING.esoCraftTypeId]
-    if (craft === undefined) throw new Error("the craft type is absent from what was reported")
-    craft.lines[AXE.displayOrder] = { name: AXE.title, traits: {} }
-    expect(cardComplete({ ...ROSTER_ONLY, traitResearch })).toBe(false)
-  })
-
-  test("every trait known but one craft type never reported is not complete", () => {
-    const traitResearch = capturedTraitResearch({
-      craftTypeIds: CRAFTS.slice(1).map((craft) => craft.esoCraftTypeId),
-      known: () => true,
-    })
-    expect(cardComplete({ ...ROSTER_ONLY, traitResearch })).toBe(false)
-  })
-
-  test("an empty catalog leaves nothing to be complete against", () => {
-    const completion: CharacterCompletion = {
-      ...ROSTER_ONLY,
-      traitResearch: capturedTraitResearch({ known: () => true }),
-    }
-    expect(isTraitResearchCardComplete(completion, [], [])).toBe(false)
-    expect(isTraitResearchCardComplete(completion, CRAFTS, [])).toBe(false)
-  })
-})
-
-describe("isTraitResearchItemComplete — nothing is complete for want of asking", () => {
-  test("an empty path names no item", () => {
-    const completion: CharacterCompletion = {
-      ...ROSTER_ONLY,
-      traitResearch: capturedTraitResearch({ known: () => true }),
-    }
-    expect(itemComplete(completion, [])).toBe(false)
-  })
-
-  test("a craft type reported with no lines is not complete at the craft type", () => {
-    const traitResearch: Record<number, TraitResearchCraftType> = {
-      [BLACKSMITHING.esoCraftTypeId]: { name: BLACKSMITHING.title, lines: {} },
-    }
-    expect(itemComplete({ ...ROSTER_ONLY, traitResearch }, [BLACKSMITHING.esoCraftTypeId])).toBe(
-      false
-    )
-  })
-
-  test("a line reported with no traits is not complete at the line", () => {
-    const traitResearch: Record<number, TraitResearchCraftType> = {
-      [BLACKSMITHING.esoCraftTypeId]: {
-        name: BLACKSMITHING.title,
-        lines: { [AXE.displayOrder]: { name: AXE.title, traits: {} } },
-      },
-    }
-    expect(
-      itemComplete({ ...ROSTER_ONLY, traitResearch }, [
-        BLACKSMITHING.esoCraftTypeId,
-        AXE.displayOrder,
-      ])
-    ).toBe(false)
-  })
-
-  test("a craft type, line or trait never reported is not complete at any level", () => {
-    const completion: CharacterCompletion = { ...ROSTER_ONLY, traitResearch: {} }
-    expect(itemComplete(completion, [BLACKSMITHING.esoCraftTypeId])).toBe(false)
-    expect(itemComplete(completion, [BLACKSMITHING.esoCraftTypeId, AXE.displayOrder])).toBe(false)
-    expect(
-      itemComplete(completion, [BLACKSMITHING.esoCraftTypeId, AXE.displayOrder, POWERED.traitIndex])
-    ).toBe(false)
-  })
-
-  test("every trait known is complete at the craft type, at the line and at the trait", () => {
-    const completion: CharacterCompletion = {
-      ...ROSTER_ONLY,
-      traitResearch: capturedTraitResearch({ known: () => true }),
-    }
-    expect(itemComplete(completion, [BLACKSMITHING.esoCraftTypeId])).toBe(true)
-    expect(itemComplete(completion, [BLACKSMITHING.esoCraftTypeId, AXE.displayOrder])).toBe(true)
-    expect(
-      itemComplete(completion, [BLACKSMITHING.esoCraftTypeId, AXE.displayOrder, POWERED.traitIndex])
-    ).toBe(true)
-  })
-
-  test("one unknown trait undoes its line and its craft type", () => {
-    const completion: CharacterCompletion = {
-      ...ROSTER_ONLY,
-      traitResearch: capturedTraitResearch({
-        known: (craftTypeId, lineIndex, traitIndex) =>
-          !(
-            craftTypeId === BLACKSMITHING.esoCraftTypeId &&
-            lineIndex === AXE.displayOrder &&
-            traitIndex === POWERED.traitIndex
-          ),
-      }),
-    }
-    expect(
-      itemComplete(completion, [BLACKSMITHING.esoCraftTypeId, AXE.displayOrder, POWERED.traitIndex])
-    ).toBe(false)
-    expect(itemComplete(completion, [BLACKSMITHING.esoCraftTypeId, AXE.displayOrder])).toBe(false)
-    expect(itemComplete(completion, [BLACKSMITHING.esoCraftTypeId])).toBe(false)
-    expect(cardComplete(completion)).toBe(false)
-  })
-
-  test("a craft type, line or trait the catalog does not hold is not complete", () => {
-    const completion: CharacterCompletion = {
-      ...ROSTER_ONLY,
-      traitResearch: capturedTraitResearch({ known: () => true }),
-    }
-    expect(itemComplete(completion, [999])).toBe(false)
-    expect(itemComplete(completion, [BLACKSMITHING.esoCraftTypeId, 999])).toBe(false)
-    expect(itemComplete(completion, [BLACKSMITHING.esoCraftTypeId, AXE.displayOrder, 999])).toBe(
-      false
-    )
-  })
-})
-
-describe("the trait research predicate agrees with the progress shown", () => {
-  test("the card is complete exactly when the transform shows the whole catalog known", () => {
-    const cases: readonly CharacterCompletion[] = [
-      { ...ROSTER_ONLY, quests: [] },
-      { ...ROSTER_ONLY, traitResearch: {} },
-      {
-        ...ROSTER_ONLY,
-        traitResearch: capturedTraitResearch({ craftTypeIds: [BLACKSMITHING.esoCraftTypeId] }),
-      },
-      {
-        ...ROSTER_ONLY,
-        traitResearch: capturedTraitResearch({
-          craftTypeIds: [BLACKSMITHING.esoCraftTypeId],
-          known: () => true,
-        }),
-      },
-      { ...ROSTER_ONLY, traitResearch: capturedTraitResearch({ known: () => true }) },
-    ]
-
-    for (const completion of cases) {
-      const progress = progressOf(completion)
-      expect(cardComplete(completion)).toBe(progress.knownCount === progress.totalCount)
-    }
   })
 })

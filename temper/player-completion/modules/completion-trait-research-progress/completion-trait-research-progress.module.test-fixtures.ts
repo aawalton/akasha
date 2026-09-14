@@ -65,8 +65,6 @@ export const AXE: TraitResearchCatalogLine = {
   traits: traitsNamed(WEAPON_TRAIT_NAMES),
 }
 
-export const POWERED: TraitResearchCatalogTrait = { traitIndex: 1, traitName: "Powered" }
-
 export const CATALOG_CRAFT_TYPES: readonly TraitResearchCatalogCraftType[] = [
   BLACKSMITHING,
   { slug: "clothing", title: "Clothing", esoCraftTypeId: 2 },
