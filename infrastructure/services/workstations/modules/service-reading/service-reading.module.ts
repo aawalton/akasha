@@ -42,7 +42,16 @@ export const serviceReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The command line is composed the same way for every service.",
+      statement:
+        "The command line is composed the same way for every service the loader is not named for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A service the loader is named for starts the loader and names itself to it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The tree a deploy pinned reaches no command line the loader composes.",
     },
     {
       invariantKind: "departure",

@@ -66,6 +66,15 @@ test("the command line is composed the same way for every service", () => {
   expect(other?.runs).toEqual([`${RUNNER} ${beside} another-service`])
 })
 
+test("a service the loader is named for starts the loader and names itself to it", () => {
+  const read = readFor(ROOT, "sweep-log-days")
+  expect("refused" in read || "unnamed" in read).toBe(false)
+  if ("refused" in read || "unnamed" in read) return
+  expect(read.services[0]?.service.runs).toEqual([
+    "bun %h/.local/state/workstation-services/service-loader.ts sweep-log-days",
+  ])
+})
+
 test("the file that command line runs is answered for on its own as well", () => {
   expect(runnerCodeIn(ROOT)).toEqual([runnerBeside()])
 })

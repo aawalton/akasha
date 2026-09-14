@@ -1,7 +1,9 @@
 import { expect, test } from "bun:test"
 import {
   LOADER_FILE,
+  loadedHere,
   loaderFiles,
+  loaderRun,
   loaderText,
   manifestFile,
   manifestText,
@@ -55,6 +57,19 @@ test("a path the one call did not carry is asked for on its own and counted", ()
   const text = loaderText(ROOT, PORT, RUNNER)
   expect(text).toContain("late += 1")
   expect(text).toContain("process.stderr.write")
+})
+
+test("a unit reaches the loader through the home directory systemd spells for it", () => {
+  expect(loaderRun("held-service")).toBe(`bun %h/${STAGING}/${LOADER_FILE} held-service`)
+})
+
+test("a command line the loader composes names no pinned tree", () => {
+  expect(loaderRun("held-service")).not.toContain(".git/trees")
+})
+
+test("which services the loader runs is named here", () => {
+  expect(loadedHere("sweep-log-days")).toBe(true)
+  expect(loadedHere("held-service")).toBe(false)
 })
 
 test("a manifest names its paths one to a line, in order, ending on a newline", () => {

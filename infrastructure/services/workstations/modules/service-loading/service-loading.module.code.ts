@@ -2,9 +2,23 @@ const PATHS = ".paths"
 
 const AKASHA = "akasha/"
 
+const HOME = "%h"
+
+const RUN = "bun"
+
+const LOADED: ReadonlySet<string> = new Set(["sweep-log-days"])
+
 export const STAGING = ".local/state/workstation-services"
 
 export const LOADER_FILE = "service-loader.ts"
+
+export function loadedHere(slug: string): boolean {
+  return LOADED.has(slug)
+}
+
+export function loaderRun(slug: string): string {
+  return `${RUN} ${HOME}/${STAGING}/${LOADER_FILE} ${slug}`
+}
 
 export function manifestFile(slug: string): string {
   return `${slug}${PATHS}`

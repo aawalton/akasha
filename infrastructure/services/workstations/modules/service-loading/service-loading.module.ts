@@ -18,6 +18,18 @@ export const serviceLoading = {
     },
     {
       invariantKind: "departure",
+      statement: "A unit reaches the loader through the home directory systemd spells for it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which services the loader runs is named here rather than on a service's page.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The loader runs every workstation service.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every `akasha/` specifier a service imports is answered by the pages service.",
     },
     {

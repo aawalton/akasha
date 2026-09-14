@@ -3,6 +3,10 @@ import {
   type Refused,
   runOf,
 } from "akasha/infrastructure/services/workstations/modules/run-composing/run-composing.module.code.ts"
+import {
+  loadedHere,
+  loaderRun,
+} from "akasha/infrastructure/services/workstations/modules/service-loading/service-loading.module.code.ts"
 import type {
   Service,
   Started,
@@ -75,6 +79,7 @@ function runsFrom(
 ): readonly string[] | Refused | null {
   const slug = textAt(value, "slug")
   if (slug === null) return null
+  if (loadedHere(slug)) return [loaderRun(slug)]
   const said = commandOf(root, { code: RUNNER, arguments: [slug] }, codeAt)
   return "refused" in said ? said : [said.command]
 }
