@@ -7,7 +7,10 @@ export const amyHarnessImprovements = {
   domain: "domain/alan-harness",
   persona: "persona/amy",
   intentStack: [
-    { statement: "An audit refusal reaches Alan on the day that audit first refuses." },
+    {
+      statement:
+        "A refusal an audit newly finds is told, whether or not that check was already refusing.",
+    },
   ],
 
   constraints: [
