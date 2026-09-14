@@ -25,7 +25,7 @@ export const nimueNewModels = {
     {
       statement: "The gateway falls back to DeepSeek where every claude-account is at its limit.",
       workingMemory:
-        "`account-walk` marks an account at its limit, excludes that account, and rebinds to the next. With none left it answers `no-viable-account`, `pre-forward-queue` re-probes up to 32 turns, and `rate-limit-refusal` then hands the client a 429. DeepSeek goes somewhere in that sequence, and where is open.",
+        "`account-walk` marks an account at its limit, excludes that account, and rebinds to the next. DeepSeek is bound the moment that leaves `no-viable-account`, ahead of the re-probing `pre-forward-queue` does and the 429 `rate-limit-refusal` hands back. Those two answer only where DeepSeek itself refuses.",
     },
   ],
   constraints: [
