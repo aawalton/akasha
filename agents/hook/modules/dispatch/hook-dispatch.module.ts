@@ -18,7 +18,7 @@ export const hookDispatch = {
     },
     {
       invariantKind: "departure",
-      statement: "The hooks that run are the ones the index names at that event.",
+      statement: "The hooks are the pages the index names as hooks.",
     },
     {
       invariantKind: "departure",
@@ -101,6 +101,11 @@ export const hookDispatch = {
     {
       invariantKind: "absence",
       statement: "No rule any hook judges by is known here.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What event a hook runs at, and what tools it is over, are read from that hook's page.",
     },
   ],
 } as const satisfies Module
