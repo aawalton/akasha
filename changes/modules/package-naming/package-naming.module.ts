@@ -7,7 +7,6 @@ export const packageNaming = {
   definition: "a package's name where a string has it",
   code: "ts",
   test: "ts",
-  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -23,24 +22,6 @@ export const packageNaming = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An alias is parted into the text up to its first colon and the package named and the range.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The package an alias names is the text between that first colon and the last `@`.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A value with no colon is no alias.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A value whose last `@` opens the text after the colon is no alias.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Every specifier a body names a module by is read for the package.",
     },
     {
@@ -51,14 +32,7 @@ export const packageNaming = {
       invariantKind: "departure",
       statement: "A string naming no module is left as that string is.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A naming handed in spells each specifier anew on its own rather than by prefix.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A specifier the naming handed in does not name is left as that specifier is.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here reads the disk or the index.",
