@@ -8,7 +8,6 @@ import {
   claimantOf,
   type Listing,
 } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
-import { filesIn } from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
 import {
   pageOf,
   partedIn,
@@ -31,7 +30,7 @@ export function reservedBeside(path: string): string | null {
 }
 
 export function claimingIn(shadow: Shadow): Claiming {
-  const listing: Listing = (folder) => filesIn(shadow.root, folder)
+  const listing: Listing = (folder) => shadow.listed(folder)
   const pageTypes = shadow.index.pageTypesIn()
   const fileProperties = shadow.index.filePropertiesAt()
   const folders = shadow.index.folderPropertiesAt()
