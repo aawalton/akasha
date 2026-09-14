@@ -11,7 +11,6 @@ export const olwenPagesSystemDisplay = {
       statement:
         "A page type stating no component of a kind takes the component the page type it extends states.",
     },
-    { statement: "A page type states the component drawing a page of that page type as a row." },
     {
       statement:
         "The page page type states the components drawing any page, its chip, its row and its card.",
