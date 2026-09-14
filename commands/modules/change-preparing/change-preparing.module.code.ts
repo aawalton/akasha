@@ -108,13 +108,6 @@ function foldedOver(...runs: readonly (readonly FileChange[])[]): readonly FileC
   return [...held.values(), ...ended]
 }
 
-export function sequenced(
-  changes: readonly FileChange[],
-  rows: readonly (Adding | Replacing)[]
-): readonly FileChange[] {
-  return rows.length === 0 ? changes : foldedOver(changes, rows)
-}
-
 export type Prepared = {
   readonly formatting: Formatting
   readonly authored: readonly FileChange[]
