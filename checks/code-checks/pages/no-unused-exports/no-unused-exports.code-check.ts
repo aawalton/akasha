@@ -84,6 +84,10 @@ export const noUnusedExports = {
       statement: "A value its own file names is reached even where only a test imports it.",
     },
     {
+      invariantKind: "gap",
+      statement: "A value only an unreached value in its own file names reads as reached.",
+    },
+    {
       invariantKind: "departure",
       statement: "A value a test names in a test-fixtures file is reached.",
     },
@@ -122,7 +126,12 @@ export const noUnusedExports = {
     },
     {
       invariantKind: "upkeep",
-      statement: "No value this check would refuse is taken away before Alan has settled that.",
+      statement:
+        "A value this check refuses is taken away only where nothing a person reaches goes with it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Alan settles every removal that would leave a person short of something.",
     },
     {
       invariantKind: "departure",
