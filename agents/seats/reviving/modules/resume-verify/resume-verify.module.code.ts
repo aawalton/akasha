@@ -28,7 +28,7 @@ export interface ReviveVerifyResult {
   readonly observedIoMs: number | null
 }
 
-export const liveResumeVerifySleep = (ms: number): Promise<void> =>
+const liveResumeVerifySleep = (ms: number): Promise<void> =>
   new Promise((resolve) => setTimeout(resolve, ms))
 
 export function liveResumeVerifyDeps(
