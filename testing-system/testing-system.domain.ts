@@ -14,8 +14,6 @@ export const testingSystem = {
     "module/dom-registering",
 
     "module/putting",
-
-    "module/waiting",
     "page-type/test-fixture",
   ],
   invariants: [

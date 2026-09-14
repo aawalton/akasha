@@ -11,6 +11,7 @@ export const testFixture = {
     "test-fixture/minting",
     "test-fixture/page-holding",
     "test-fixture/repo-seeding",
+    "test-fixture/waiting",
     "test-fixture/walking",
   ],
   extends: ["page-type/domain"],

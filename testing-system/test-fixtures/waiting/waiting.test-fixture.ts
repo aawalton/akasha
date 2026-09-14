@@ -1,8 +1,8 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { TestFixture } from "akasha/testing-system/test-fixtures/test-fixture.page-type.types.ts"
 
 export const waiting = {
   id: "01a04ef8-da76-7b5c-a410-29aa2cf260ff",
-  type: "module",
+  type: "test-fixture",
   slug: "waiting",
   definition: "a test holding on until something running elsewhere has become true",
   code: "ts",
@@ -20,4 +20,4 @@ export const waiting = {
       statement: "The condition waited for is asked once more after time is up.",
     },
   ],
-} as const satisfies Module
+} as const satisfies TestFixture
