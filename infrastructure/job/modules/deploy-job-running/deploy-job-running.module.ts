@@ -14,7 +14,7 @@ export const deployJobRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "A commit origin does not carry refuses the run rather than being pushed here.",
+      statement: "A commit origin does not carry is pushed there before the job goes up.",
     },
     {
       invariantKind: "departure",

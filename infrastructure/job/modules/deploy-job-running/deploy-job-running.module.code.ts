@@ -1,3 +1,4 @@
+import { type PushOutcome, pushBranch } from "akasha/git/modules/pushing/git-pushing.module.code.ts"
 import {
   JOB_NAMESPACE,
   jobNameFor,
@@ -27,6 +28,8 @@ const EVERY_LINE = "--tail=-1"
 export type Running = (argv: readonly string[], text: string | null) => Ran
 
 export type Carrying = (root: string, commit: string) => Carried
+
+export type Pushing = (root: string) => PushOutcome
 
 export type Ended = { readonly said: readonly string[] } | { readonly why: string }
 
@@ -60,12 +63,21 @@ export function ranInCluster(
   subject: string,
   commit: string,
   running: Running = ranBy,
-  carrying: Carrying = carriedByOrigin
+  carrying: Carrying = carriedByOrigin,
+  pushing: Pushing = pushBranch
 ): Ended {
   const carried = carrying(root, commit)
   if ("why" in carried) return carried
   if (!carried.carried) {
-    return { why: `origin does not carry ${commit}, so no job in the cluster can read it` }
+    const pushed = pushing(root)
+    if (pushed.failed) {
+      return { why: `origin does not carry ${commit} and ${pushed.line}` }
+    }
+    const again = carrying(root, commit)
+    if ("why" in again) return again
+    if (!again.carried) {
+      return { why: `origin does not carry ${commit}, so no job in the cluster can read it` }
+    }
   }
   const name = jobNameFor(subject, commit)
   const put = running(applyArgv(), jobYamlFor(given, subject, commit))

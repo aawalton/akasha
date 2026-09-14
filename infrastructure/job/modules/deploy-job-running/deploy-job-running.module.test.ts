@@ -51,11 +51,45 @@ test("a job left running past the wait refuses the run", () => {
   expect(held.why).toContain("had not ended")
 })
 
-test("a commit origin does not carry refuses the run", () => {
-  const never: Running = () => ranOf(0)
-  const held = ranInCluster(ROOT, ROOT, SUBJECT, COMMIT, never, () => ({ carried: false })) as {
-    why: string
+test("a commit origin does not carry is pushed there before the job goes up", () => {
+  const seen: string[][] = []
+  const running: Running = (argv) => {
+    seen.push([...argv])
+    return ranOf(0)
   }
+  let asked = 0
+  const carrying = (): { carried: boolean } => {
+    asked += 1
+    return { carried: asked > 1 }
+  }
+  const held = ranInCluster(ROOT, ROOT, SUBJECT, COMMIT, running, carrying, () => ({
+    failed: false,
+    line: "push:   pushed",
+    remote: "origin",
+    branch: "main",
+    reason: null,
+  }))
+  expect(held).toEqual({ said: [] })
+  expect(seen[0]).toEqual(["apply", "-f", "-"])
+})
+
+test("a commit origin still does not carry after the push refuses the run", () => {
+  const never: Running = () => ranOf(0)
+  const held = ranInCluster(
+    ROOT,
+    ROOT,
+    SUBJECT,
+    COMMIT,
+    never,
+    () => ({ carried: false }),
+    () => ({
+      failed: false,
+      line: "push:   pushed",
+      remote: "origin",
+      branch: "main",
+      reason: null,
+    })
+  ) as { why: string }
   expect(held.why).toContain(COMMIT)
 })
 
