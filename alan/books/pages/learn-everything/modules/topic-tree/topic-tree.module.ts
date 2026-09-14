@@ -17,6 +17,10 @@ export const topicTree = {
     },
     {
       invariantKind: "departure",
+      statement: "A topic reaches the topic above whether or not it names that topic's page type.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "Topics without one root between those topics are refused rather than read as empty.",
     },

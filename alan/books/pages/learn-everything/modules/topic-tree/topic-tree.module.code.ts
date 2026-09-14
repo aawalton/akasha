@@ -1,4 +1,5 @@
 import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { asking } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
 
 const TOPIC = "learn-everything-topic"
@@ -51,7 +52,7 @@ function orderOf(at: string): string {
 function parentIn(said: unknown): string | null {
   if (!Array.isArray(said)) return null
   const first = said.find((one) => typeof one === "string")
-  return typeof first === "string" ? first : null
+  return typeof first === "string" ? slugOf(first) : null
 }
 
 function pathsIn(root: string): ReadonlyMap<string, string> {
