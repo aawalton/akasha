@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Leaf } from "akasha/alan/library/learn-everything/modules/seeded-draw/seeded-draw.module.code.ts"
+import type { Leaf } from "akasha/alan/books/pages/learn-everything/modules/seeded-draw/seeded-draw.module.code.ts"
 import { saidForPart } from "akasha/commands/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"

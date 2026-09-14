@@ -2,7 +2,7 @@ import {
   everyTopic,
   type Topic,
   topicTreeIn,
-} from "akasha/alan/library/learn-everything/modules/topic-tree/topic-tree.module.code.ts"
+} from "akasha/alan/books/pages/learn-everything/modules/topic-tree/topic-tree.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import {

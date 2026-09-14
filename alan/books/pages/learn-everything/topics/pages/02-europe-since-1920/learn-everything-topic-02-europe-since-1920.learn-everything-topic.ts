@@ -1,0 +1,12 @@
+import type { LearnEverythingTopic } from "akasha/alan/books/pages/learn-everything/topics/learn-everything-topic.page-type.types.ts"
+
+export const learnEverythingTopic02EuropeSince1920 = {
+  id: "01a065a7-085a-701a-b833-f4ab7b4f728e",
+  type: "learn-everything-topic",
+  slug: "learn-everything-topic-02-europe-since-1920",
+  node: "The History of Mankind › The World Since 1920 › Europe Since 1920",
+  masteryLevel: "mastery-level/novice",
+  scoredOn: "2026-06-19",
+  status: "unopened",
+  partOf: ["learn-everything-topic-07-the-world-since-1920"],
+} as const satisfies LearnEverythingTopic

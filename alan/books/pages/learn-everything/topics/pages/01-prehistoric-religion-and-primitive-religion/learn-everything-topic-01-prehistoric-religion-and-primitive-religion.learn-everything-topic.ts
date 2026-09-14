@@ -1,0 +1,12 @@
+import type { LearnEverythingTopic } from "akasha/alan/books/pages/learn-everything/topics/learn-everything-topic.page-type.types.ts"
+
+export const learnEverythingTopic01PrehistoricReligionAndPrimitiveReligion = {
+  id: "01a065a7-0857-7000-9e26-717f95f95bc3",
+  type: "learn-everything-topic",
+  slug: "learn-everything-topic-01-prehistoric-religion-and-primitive-religion",
+  node: "Religion › Particular Religions › Prehistoric Religion and Primitive Religion",
+  masteryLevel: "mastery-level/novice",
+  scoredOn: "2026-06-19",
+  status: "unopened",
+  partOf: ["learn-everything-topic-02-particular-religions"],
+} as const satisfies LearnEverythingTopic

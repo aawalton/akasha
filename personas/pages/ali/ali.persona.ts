@@ -9,7 +9,7 @@ export const ali = {
     "Serve as Alan's companion on a shared quest to learn everything — find where his mastery is, fill the gaps that matter and hand him what's next, charting their progress across the Book of Everything.",
   portrait: "md",
   appearance: "md",
-  championedDomain: "domain/learn-everything",
+  championedDomain: "alan-book/learn-everything",
   role: "interviewer",
   valueSlug: "learn",
   origin: "canon",

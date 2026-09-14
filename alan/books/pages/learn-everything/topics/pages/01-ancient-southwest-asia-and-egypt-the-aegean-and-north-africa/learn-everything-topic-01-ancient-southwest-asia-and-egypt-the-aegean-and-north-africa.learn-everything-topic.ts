@@ -1,0 +1,18 @@
+import type { LearnEverythingTopic } from "akasha/alan/books/pages/learn-everything/topics/learn-everything-topic.page-type.types.ts"
+
+export const learnEverythingTopic01AncientSouthwestAsiaAndEgyptTheAegeanAndNorthAfrica = {
+  id: "01a065a7-0857-700b-98f2-7ad0bf433c88",
+  type: "learn-everything-topic",
+  slug: "learn-everything-topic-01-ancient-southwest-asia-and-egypt-the-aegean-and-north-africa",
+  node: "The History of Mankind › Ancient Southwest Asia, North Africa, and Europe › Ancient Southwest Asia and Egypt, the Aegean, and North Africa",
+  masteryLevel: "mastery-level/scholar",
+  scoredOn: "2026-06-20",
+  status: "resting",
+  partOf: ["learn-everything-topic-01-ancient-southwest-asia-north-africa-and-europe"],
+  calibration: 0,
+  frontier: "md",
+  integration: "md",
+  misconceptions: "md",
+  bites: "md",
+  topicEvidence: "md",
+} as const satisfies LearnEverythingTopic
