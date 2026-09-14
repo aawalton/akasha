@@ -7,7 +7,7 @@ export const understandingTheWorldSGreatestStructures = {
   title: "Understanding the World's Greatest Structures",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 765.6,
   ownProgress: 765.6,
   partOfCollections: [

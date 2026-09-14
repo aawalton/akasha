@@ -6,7 +6,7 @@ export const forgottenAmericaRediscoveringEventsThatChangedTheNation = {
   slug: "forgotten-america-rediscovering-events-that-changed-the-nation",
   title: "Forgotten America: Rediscovering Events That Changed the Nation",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 352.2,
   ownProgress: 0,
   partOfCollections: [

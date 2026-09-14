@@ -7,7 +7,7 @@ export const scientificSecretsForAPowerfulMemory = {
   title: "Scientific Secrets for a Powerful Memory",
   status: "completed",
   rank: "A",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 185.4,
   ownProgress: 185.4,
   partOfCollections: [

@@ -7,7 +7,7 @@ export const artAndCraftOfMathematicalProblemSolving = {
   title: "Art and Craft of Mathematical Problem Solving",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 734.4,
   ownProgress: 734.4,
   partOfCollections: [

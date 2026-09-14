@@ -6,7 +6,7 @@ export const theCreativeThinkerSToolkit = {
   slug: "the-creative-thinker-s-toolkit",
   title: "The Creative Thinker's Toolkit",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 741,
   ownProgress: 0,
   partOfCollections: [

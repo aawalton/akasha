@@ -7,7 +7,7 @@ export const womenOfHistory = {
   title: "Women of History",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 39,
   ownProgress: 39,
   partOfCollections: [

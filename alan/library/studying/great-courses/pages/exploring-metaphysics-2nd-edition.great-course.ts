@@ -6,7 +6,7 @@ export const exploringMetaphysics2ndEdition = {
   slug: "exploring-metaphysics-2nd-edition",
   title: "Exploring Metaphysics, 2nd Edition",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 30,
   ownProgress: 0,
   partOfCollections: [

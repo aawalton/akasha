@@ -6,7 +6,7 @@ export const theDeadSeaScrolls = {
   slug: "the-dead-sea-scrolls",
   title: "The Dead Sea Scrolls",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 735.6,
   ownProgress: 0,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const masteringLinearAlgebraAnIntroductionWithApplications = {
   slug: "mastering-linear-algebra-an-introduction-with-applications",
   title: "Mastering Linear Algebra: An Introduction with Applications",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 723.6,
   ownProgress: 0,
   partOfCollections: [

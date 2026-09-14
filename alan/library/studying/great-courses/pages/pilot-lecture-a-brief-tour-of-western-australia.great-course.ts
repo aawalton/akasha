@@ -7,7 +7,7 @@ export const pilotLectureABriefTourOfWesternAustralia = {
   title: "Pilot Lecture: A Brief Tour of Western Australia",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 28.2,
   ownProgress: 28.2,
   partOfCollections: [

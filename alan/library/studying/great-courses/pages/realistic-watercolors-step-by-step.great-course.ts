@@ -7,7 +7,7 @@ export const realisticWatercolorsStepByStep = {
   title: "Realistic Watercolors Step by Step",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 162,
   ownProgress: 162,
   partOfCollections: [

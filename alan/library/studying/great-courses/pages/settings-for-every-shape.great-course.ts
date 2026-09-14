@@ -7,7 +7,7 @@ export const settingsForEveryShape = {
   title: "Settings for Every Shape",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 133.8,
   ownProgress: 133.8,
   partOfCollections: [

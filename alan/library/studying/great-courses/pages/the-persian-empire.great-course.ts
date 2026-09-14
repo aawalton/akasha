@@ -6,7 +6,7 @@ export const thePersianEmpire = {
   slug: "the-persian-empire",
   title: "The Persian Empire",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 718.8,
   ownProgress: 0,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const tocquevilleAndTheAmericanExperiment = {
   slug: "tocqueville-and-the-american-experiment",
   title: "Tocqueville and the American Experiment",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 738.25,
   ownProgress: 0,
   partOfCollections: ["great-courses-collection/all-great-courses"],

@@ -6,7 +6,7 @@ export const robotics = {
   slug: "robotics",
   title: "Robotics",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 762.6,
   ownProgress: 0,
   partOfCollections: [

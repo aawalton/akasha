@@ -7,7 +7,7 @@ export const startupLibraryPaintingWithAcrylic = {
   title: "Startup Library: Painting With Acrylic",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 306.6,
   ownProgress: 306.6,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const identityInTheAgeOfAncestralDna = {
   slug: "identity-in-the-age-of-ancestral-dna",
   title: "Identity in the Age of Ancestral DNA",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 352.2,
   ownProgress: 0,
   partOfCollections: [

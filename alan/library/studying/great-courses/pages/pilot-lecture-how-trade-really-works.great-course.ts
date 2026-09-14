@@ -7,7 +7,7 @@ export const pilotLectureHowTradeReallyWorks = {
   title: "Pilot Lecture: How Trade Really Works",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 36,
   ownProgress: 36,
   partOfCollections: [

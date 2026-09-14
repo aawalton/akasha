@@ -7,7 +7,7 @@ export const alexanderTheGreatAndTheMacedonianEmpire = {
   title: "Alexander the Great and the Macedonian Empire",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1102.2,
   ownProgress: 1102.2,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const classicalMythology = {
   slug: "classical-mythology",
   title: "Classical Mythology",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 741,
   ownProgress: 0,
   partOfCollections: [

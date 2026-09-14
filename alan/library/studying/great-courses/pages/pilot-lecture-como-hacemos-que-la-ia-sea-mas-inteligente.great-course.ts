@@ -6,7 +6,7 @@ export const pilotLectureComoHacemosQueLaIaSeaMasInteligente = {
   slug: "pilot-lecture-como-hacemos-que-la-ia-sea-mas-inteligente",
   title: "Pilot Lecture: ¿Cómo hacemos que la IA sea más inteligente?",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1,
   ownProgress: 0,
   partOfCollections: [

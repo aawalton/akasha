@@ -7,7 +7,7 @@ export const sewBetterSewFasterShirtmaking = {
   title: "Sew Better, Sew Faster: Shirtmaking",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 156.6,
   ownProgress: 156.6,
   partOfCollections: [

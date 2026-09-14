@@ -6,7 +6,7 @@ export const theEconomicsOfUncertainty = {
   slug: "the-economics-of-uncertainty",
   title: "The Economics of Uncertainty",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 747.6,
   ownProgress: 0,
   partOfCollections: [

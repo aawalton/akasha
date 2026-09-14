@@ -7,7 +7,7 @@ export const pilotLectureEthicalHealthCareInTheAgeOfAi = {
   title: "Pilot Lecture: Ethical Health Care in the Age of AI",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 30,
   ownProgress: 30,
   partOfCollections: [

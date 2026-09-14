@@ -6,7 +6,7 @@ export const physicsInYourLife = {
   slug: "physics-in-your-life",
   title: "Physics in Your Life",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1098,
   ownProgress: 0,
   partOfCollections: [

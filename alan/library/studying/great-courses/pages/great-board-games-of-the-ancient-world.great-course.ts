@@ -7,7 +7,7 @@ export const greatBoardGamesOfTheAncientWorld = {
   title: "Great Board Games of the Ancient World",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 382.2,
   ownProgress: 382.2,
   partOfCollections: [

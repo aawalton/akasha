@@ -6,7 +6,7 @@ export const consciousnessAndItsImplications = {
   slug: "consciousness-and-its-implications",
   title: "Consciousness and Its Implications",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 364.433333,
   ownProgress: 0,
   partOfCollections: ["great-courses-collection/all-great-courses"],

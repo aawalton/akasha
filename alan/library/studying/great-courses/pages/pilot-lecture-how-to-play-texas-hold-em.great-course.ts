@@ -6,7 +6,7 @@ export const pilotLectureHowToPlayTexasHoldEm = {
   slug: "pilot-lecture-how-to-play-texas-hold-em",
   title: "Pilot Lecture: How to Play Texas Hold’em",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1,
   ownProgress: 0,
   partOfCollections: [

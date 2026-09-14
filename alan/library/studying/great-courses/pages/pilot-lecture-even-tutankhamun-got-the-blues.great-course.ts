@@ -7,7 +7,7 @@ export const pilotLectureEvenTutankhamunGotTheBlues = {
   title: "Pilot Lecture: Even Tutankhamun Got the Blues",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 30.6,
   ownProgress: 30.6,
   partOfCollections: [

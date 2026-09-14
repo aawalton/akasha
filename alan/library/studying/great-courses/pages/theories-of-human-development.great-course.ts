@@ -6,7 +6,7 @@ export const theoriesOfHumanDevelopment = {
   slug: "theories-of-human-development",
   title: "Theories of Human Development",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 739.2,
   ownProgress: 0,
   partOfCollections: [

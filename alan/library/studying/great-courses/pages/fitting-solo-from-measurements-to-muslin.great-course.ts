@@ -7,7 +7,7 @@ export const fittingSoloFromMeasurementsToMuslin = {
   title: "Fitting Solo: From Measurements to Muslin",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 141.6,
   ownProgress: 141.6,
   partOfCollections: [

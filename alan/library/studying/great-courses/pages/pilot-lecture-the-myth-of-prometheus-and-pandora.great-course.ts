@@ -7,7 +7,7 @@ export const pilotLectureTheMythOfPrometheusAndPandora = {
   title: "Pilot Lecture: The Myth of Prometheus and Pandora",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 29.4,
   ownProgress: 29.4,
   partOfCollections: [

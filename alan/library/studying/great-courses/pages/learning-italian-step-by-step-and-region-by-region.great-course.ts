@@ -7,7 +7,7 @@ export const learningItalianStepByStepAndRegionByRegion = {
   title: "Learning Italian: Step by Step and Region by Region",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 734.4,
   ownProgress: 734.4,
   partOfCollections: [

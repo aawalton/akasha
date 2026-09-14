@@ -6,7 +6,7 @@ export const theBigHistoryOfCivilizations = {
   slug: "the-big-history-of-civilizations",
   title: "The Big History of Civilizations",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1075.2,
   ownProgress: 0,
   partOfCollections: [

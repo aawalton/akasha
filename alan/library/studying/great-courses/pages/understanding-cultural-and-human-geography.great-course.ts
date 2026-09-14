@@ -6,7 +6,7 @@ export const understandingCulturalAndHumanGeography = {
   slug: "understanding-cultural-and-human-geography",
   title: "Understanding Cultural and Human Geography",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 733.8,
   ownProgress: 0,
   partOfCollections: [

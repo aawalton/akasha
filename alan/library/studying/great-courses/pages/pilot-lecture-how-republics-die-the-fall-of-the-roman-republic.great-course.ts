@@ -7,7 +7,7 @@ export const pilotLectureHowRepublicsDieTheFallOfTheRomanRepublic = {
   title: "Pilot Lecture: How Republics Die—The Fall of the Roman Republic",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 36,
   ownProgress: 36,
   partOfCollections: [

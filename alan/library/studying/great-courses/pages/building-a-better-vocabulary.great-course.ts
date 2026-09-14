@@ -7,7 +7,7 @@ export const buildingABetterVocabulary = {
   title: "Building a Better Vocabulary",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1131,
   ownProgress: 1131,
   partOfCollections: [

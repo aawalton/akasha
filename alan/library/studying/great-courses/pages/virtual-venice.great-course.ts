@@ -7,7 +7,7 @@ export const virtualVenice = {
   title: "Virtual Venice",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 39.6,
   ownProgress: 39.6,
   partOfCollections: [

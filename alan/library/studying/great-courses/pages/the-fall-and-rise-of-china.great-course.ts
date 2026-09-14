@@ -6,7 +6,7 @@ export const theFallAndRiseOfChina = {
   slug: "the-fall-and-rise-of-china",
   title: "The Fall and Rise of China",
   status: "in-progress",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1445.4,
   ownProgress: 60.225,
   partOfCollections: [

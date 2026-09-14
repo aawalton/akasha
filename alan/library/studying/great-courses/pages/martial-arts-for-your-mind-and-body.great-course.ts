@@ -6,7 +6,7 @@ export const martialArtsForYourMindAndBody = {
   slug: "martial-arts-for-your-mind-and-body",
   title: "Martial Arts for Your Mind and Body",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 768,
   ownProgress: 0,
   partOfCollections: [

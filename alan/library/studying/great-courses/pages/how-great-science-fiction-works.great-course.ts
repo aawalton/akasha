@@ -6,7 +6,7 @@ export const howGreatScienceFictionWorks = {
   slug: "how-great-science-fiction-works",
   title: "How Great Science Fiction Works",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 755.4,
   ownProgress: 0,
   partOfCollections: [

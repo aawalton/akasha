@@ -6,7 +6,7 @@ export const howToViewAndAppreciateGreatMovies = {
   slug: "how-to-view-and-appreciate-great-movies",
   title: "How to View and Appreciate Great Movies",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 797.4,
   ownProgress: 0,
   partOfCollections: [

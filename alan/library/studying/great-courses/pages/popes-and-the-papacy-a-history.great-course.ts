@@ -6,7 +6,7 @@ export const popesAndThePapacyAHistory = {
   slug: "popes-and-the-papacy-a-history",
   title: "Popes and the Papacy: A History",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 735,
   ownProgress: 0,
   partOfCollections: [

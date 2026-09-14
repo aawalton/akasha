@@ -6,7 +6,7 @@ export const whatIsPain = {
   slug: "what-is-pain",
   title: "What Is Pain?",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 12,
   ownProgress: 0,
   partOfCollections: [

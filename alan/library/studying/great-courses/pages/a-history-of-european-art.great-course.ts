@@ -7,7 +7,7 @@ export const aHistoryOfEuropeanArt = {
   title: "A History of European Art",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1452,
   ownProgress: 1452,
   partOfCollections: [

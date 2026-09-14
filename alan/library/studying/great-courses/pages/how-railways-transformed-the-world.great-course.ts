@@ -6,7 +6,7 @@ export const howRailwaysTransformedTheWorld = {
   slug: "how-railways-transformed-the-world",
   title: "How Railways Transformed the World",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 691.8,
   ownProgress: 0,
   partOfCollections: [

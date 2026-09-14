@@ -7,7 +7,7 @@ export const medicalNewsExplained = {
   title: "Medical News Explained",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 72,
   ownProgress: 72,
   partOfCollections: [

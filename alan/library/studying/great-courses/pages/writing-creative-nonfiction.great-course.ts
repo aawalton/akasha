@@ -6,7 +6,7 @@ export const writingCreativeNonfiction = {
   slug: "writing-creative-nonfiction",
   title: "Writing Creative Nonfiction",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 736.2,
   ownProgress: 0,
   partOfCollections: [

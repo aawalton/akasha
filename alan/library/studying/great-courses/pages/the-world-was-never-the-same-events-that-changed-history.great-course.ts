@@ -6,7 +6,7 @@ export const theWorldWasNeverTheSameEventsThatChangedHistory = {
   slug: "the-world-was-never-the-same-events-that-changed-history",
   title: "The World Was Never the Same: Events That Changed History",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1092,
   ownProgress: 0,
   partOfCollections: [

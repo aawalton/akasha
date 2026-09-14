@@ -6,7 +6,7 @@ export const theRiseOfHumansGreatScientificDebates = {
   slug: "the-rise-of-humans-great-scientific-debates",
   title: "The Rise of Humans: Great Scientific Debates",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 776.4,
   ownProgress: 0,
   partOfCollections: [

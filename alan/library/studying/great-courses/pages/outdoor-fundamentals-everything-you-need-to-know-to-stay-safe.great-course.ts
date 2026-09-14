@@ -6,7 +6,7 @@ export const outdoorFundamentalsEverythingYouNeedToKnowToStaySafe = {
   slug: "outdoor-fundamentals-everything-you-need-to-know-to-stay-safe",
   title: "Outdoor Fundamentals: Everything You Need to Know to Stay Safe",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 670.2,
   ownProgress: 0,
   partOfCollections: [

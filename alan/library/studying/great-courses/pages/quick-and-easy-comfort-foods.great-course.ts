@@ -7,7 +7,7 @@ export const quickAndEasyComfortFoods = {
   title: "Quick and Easy Comfort Foods",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 80,
   ownProgress: 80,
   partOfCollections: ["great-courses-collection/all-great-courses"],

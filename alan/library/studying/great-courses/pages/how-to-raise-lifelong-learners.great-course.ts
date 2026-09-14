@@ -7,7 +7,7 @@ export const howToRaiseLifelongLearners = {
   title: "How to Raise Lifelong Learners",
   status: "completed",
   rank: "A",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 165,
   ownProgress: 165,
   partOfCollections: [

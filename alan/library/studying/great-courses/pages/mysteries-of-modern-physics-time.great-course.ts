@@ -6,7 +6,7 @@ export const mysteriesOfModernPhysicsTime = {
   slug: "mysteries-of-modern-physics-time",
   title: "Mysteries of Modern Physics: Time",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 738,
   ownProgress: 0,
   partOfCollections: [

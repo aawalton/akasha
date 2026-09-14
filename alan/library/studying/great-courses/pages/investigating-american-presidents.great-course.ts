@@ -6,7 +6,7 @@ export const investigatingAmericanPresidents = {
   slug: "investigating-american-presidents",
   title: "Investigating American Presidents",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 413.4,
   ownProgress: 0,
   partOfCollections: [

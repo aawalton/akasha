@@ -6,7 +6,7 @@ export const howToPlayChessLessonsFromAnInternationalMaster = {
   slug: "how-to-play-chess-lessons-from-an-international-master",
   title: "How to Play Chess: Lessons from an International Master",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 754.8,
   ownProgress: 0,
   partOfCollections: [

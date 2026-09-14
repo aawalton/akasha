@@ -6,7 +6,7 @@ export const greatMastersTchaikovskyHisLifeAndMusic = {
   slug: "great-masters-tchaikovsky-his-life-and-music",
   title: "Great Masters: Tchaikovsky—His Life and Music",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 367.2,
   ownProgress: 0,
   partOfCollections: [

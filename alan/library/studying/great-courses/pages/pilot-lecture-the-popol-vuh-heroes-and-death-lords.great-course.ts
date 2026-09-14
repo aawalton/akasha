@@ -7,7 +7,7 @@ export const pilotLectureThePopolVuhHeroesAndDeathLords = {
   title: "Pilot Lecture: The Popol Vuh - Heroes and Death Lords",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 25.8,
   ownProgress: 25.8,
   partOfCollections: [

@@ -7,7 +7,7 @@ export const theGreatToursFranceThroughTheAges = {
   title: "The Great Tours: France through the Ages",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 724.2,
   ownProgress: 724.2,
   partOfCollections: [

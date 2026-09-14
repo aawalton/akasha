@@ -6,7 +6,7 @@ export const musicTheoryTheFoundationOfGreatMusic = {
   slug: "music-theory-the-foundation-of-great-music",
   title: "Music Theory: The Foundation of Great Music",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 449.4,
   ownProgress: 0,
   partOfCollections: [

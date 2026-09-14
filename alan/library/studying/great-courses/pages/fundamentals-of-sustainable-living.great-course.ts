@@ -6,7 +6,7 @@ export const fundamentalsOfSustainableLiving = {
   slug: "fundamentals-of-sustainable-living",
   title: "Fundamentals of Sustainable Living",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 364.2,
   ownProgress: 0,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const theVikingAgeNewPerspectivesOnHistoryAndCulture = {
   slug: "the-viking-age-new-perspectives-on-history-and-culture",
   title: "The Viking Age: New Perspectives on History and Culture",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 402,
   ownProgress: 0,
   partOfCollections: [

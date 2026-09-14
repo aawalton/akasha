@@ -7,7 +7,7 @@ export const pilotLectureTheTimuridEmpire = {
   title: "Pilot Lecture: The Timurid Empire",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 34.8,
   ownProgress: 34.8,
   partOfCollections: [

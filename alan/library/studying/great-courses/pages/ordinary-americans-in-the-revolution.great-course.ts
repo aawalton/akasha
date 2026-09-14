@@ -6,7 +6,7 @@ export const ordinaryAmericansInTheRevolution = {
   slug: "ordinary-americans-in-the-revolution",
   title: "Ordinary Americans in the Revolution",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 702,
   ownProgress: 0,
   partOfCollections: [

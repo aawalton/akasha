@@ -6,7 +6,7 @@ export const before1776LifeInTheAmericanColonies = {
   slug: "before-1776-life-in-the-american-colonies",
   title: "Before 1776: Life in the American Colonies",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 36,
   ownProgress: 0,
   partOfCollections: [

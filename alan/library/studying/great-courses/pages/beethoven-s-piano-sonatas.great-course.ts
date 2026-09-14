@@ -7,7 +7,7 @@ export const beethovenSPianoSonatas = {
   title: "Beethoven's Piano Sonatas",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1098,
   ownProgress: 1098,
   partOfCollections: [

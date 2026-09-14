@@ -6,7 +6,7 @@ export const earthAtTheCrossroadsUnderstandingTheEcologyOfAChangingPlanet = {
   slug: "earth-at-the-crossroads-understanding-the-ecology-of-a-changing-planet",
   title: "Earth at the Crossroads: Understanding the Ecology of a Changing Planet",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1112.4,
   ownProgress: 0,
   partOfCollections: [

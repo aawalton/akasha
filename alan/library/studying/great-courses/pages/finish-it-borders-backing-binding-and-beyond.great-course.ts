@@ -7,7 +7,7 @@ export const finishItBordersBackingBindingAndBeyond = {
   title: "Finish It! Borders, Backing, Binding & Beyond",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 171.6,
   ownProgress: 171.6,
   partOfCollections: [

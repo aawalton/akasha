@@ -6,7 +6,7 @@ export const learningJavaProgramming = {
   slug: "learning-java-programming",
   title: "Learning Java Programming",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 505.2,
   ownProgress: 0,
   partOfCollections: [

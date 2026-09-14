@@ -6,7 +6,7 @@ export const booksThatMatterTheArtOfWar = {
   slug: "books-that-matter-the-art-of-war",
   title: "Books That Matter: The Art of War",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 12,
   ownProgress: 0,
   partOfCollections: [

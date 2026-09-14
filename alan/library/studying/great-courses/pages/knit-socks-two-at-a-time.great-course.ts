@@ -7,7 +7,7 @@ export const knitSocksTwoAtATime = {
   title: "Knit Socks: Two at a Time!",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 126,
   ownProgress: 126,
   partOfCollections: [

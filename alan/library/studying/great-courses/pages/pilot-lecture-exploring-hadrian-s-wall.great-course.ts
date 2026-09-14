@@ -7,7 +7,7 @@ export const pilotLectureExploringHadrianSWall = {
   title: "Pilot Lecture: Exploring Hadrian’s Wall",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 24.6,
   ownProgress: 24.6,
   partOfCollections: [

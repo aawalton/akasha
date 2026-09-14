@@ -7,7 +7,7 @@ export const startupLibraryQuilting = {
   title: "Startup Library: Quilting",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 337.8,
   ownProgress: 337.8,
   partOfCollections: [

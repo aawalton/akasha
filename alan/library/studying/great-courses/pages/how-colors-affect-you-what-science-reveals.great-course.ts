@@ -7,7 +7,7 @@ export const howColorsAffectYouWhatScienceReveals = {
   title: "How Colors Affect You: What Science Reveals",
   status: "completed",
   rank: "A",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 201,
   ownProgress: 201,
   partOfCollections: [

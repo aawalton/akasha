@@ -6,7 +6,7 @@ export const unexpectedEconomics = {
   slug: "unexpected-economics",
   title: "Unexpected Economics",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 727.2,
   ownProgress: 0,
   partOfCollections: [

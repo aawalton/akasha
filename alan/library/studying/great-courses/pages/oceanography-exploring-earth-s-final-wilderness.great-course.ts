@@ -6,7 +6,7 @@ export const oceanographyExploringEarthSFinalWilderness = {
   slug: "oceanography-exploring-earth-s-final-wilderness",
   title: "Oceanography: Exploring Earth's Final Wilderness",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1158.6,
   ownProgress: 0,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const theIndustrialRevolution = {
   slug: "the-industrial-revolution",
   title: "The Industrial Revolution",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1100.4,
   ownProgress: 0,
   partOfCollections: [

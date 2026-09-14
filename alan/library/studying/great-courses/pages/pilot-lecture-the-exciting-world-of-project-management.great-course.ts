@@ -7,7 +7,7 @@ export const pilotLectureTheExcitingWorldOfProjectManagement = {
   title: "Pilot Lecture: The Exciting World of Project Management",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 36.6,
   ownProgress: 36.6,
   partOfCollections: [

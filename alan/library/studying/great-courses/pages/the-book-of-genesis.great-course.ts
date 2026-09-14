@@ -6,7 +6,7 @@ export const theBookOfGenesis = {
   slug: "the-book-of-genesis",
   title: "The Book of Genesis",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 749.4,
   ownProgress: 0,
   partOfCollections: [

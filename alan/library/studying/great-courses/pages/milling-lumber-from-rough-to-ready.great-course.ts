@@ -7,7 +7,7 @@ export const millingLumberFromRoughToReady = {
   title: "Milling Lumber: From Rough to Ready",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 91.8,
   ownProgress: 91.8,
   partOfCollections: [

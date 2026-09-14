@@ -7,7 +7,7 @@ export const pilotLectureYourFantasticPlasticBrain = {
   title: "Pilot Lecture: Your Fantastic Plastic Brain",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 29.4,
   ownProgress: 29.4,
   partOfCollections: [

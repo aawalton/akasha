@@ -7,7 +7,7 @@ export const theAncientOlympics = {
   title: "The Ancient Olympics",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 27,
   ownProgress: 27,
   partOfCollections: [

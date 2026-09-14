@@ -7,7 +7,7 @@ export const englishInAmericaALinguisticHistory = {
   title: "English in America: A Linguistic History",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 356.4,
   ownProgress: 356.4,
   partOfCollections: [

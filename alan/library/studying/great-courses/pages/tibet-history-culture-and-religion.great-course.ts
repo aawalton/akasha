@@ -6,7 +6,7 @@ export const tibetHistoryCultureAndReligion = {
   slug: "tibet-history-culture-and-religion",
   title: "Tibet: History, Culture, and Religion",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 528.6,
   ownProgress: 0,
   partOfCollections: [

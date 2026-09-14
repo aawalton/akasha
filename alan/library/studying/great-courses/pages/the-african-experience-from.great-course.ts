@@ -6,7 +6,7 @@ export const theAfricanExperienceFrom = {
   slug: "the-african-experience-from",
   title: "The African Experience: From",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1098,
   ownProgress: 0,
   partOfCollections: [

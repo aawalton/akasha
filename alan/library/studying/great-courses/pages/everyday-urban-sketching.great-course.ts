@@ -7,7 +7,7 @@ export const everydayUrbanSketching = {
   title: "Everyday Urban Sketching",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 719.4,
   ownProgress: 719.4,
   partOfCollections: [

@@ -7,7 +7,7 @@ export const celebrateWithCookies19FavoriteDesigns = {
   title: "Celebrate With Cookies: 19 Favorite Designs",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 157.2,
   ownProgress: 157.2,
   partOfCollections: [

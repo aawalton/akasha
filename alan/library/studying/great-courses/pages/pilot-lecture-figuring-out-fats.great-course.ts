@@ -7,7 +7,7 @@ export const pilotLectureFiguringOutFats = {
   title: "Pilot Lecture: Figuring Out Fats",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 31.316667,
   ownProgress: 31.316667,
   partOfCollections: ["great-courses-collection/all-great-courses"],

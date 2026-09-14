@@ -7,7 +7,7 @@ export const pilotLectureAWalkingTourOfHistoricHavana = {
   title: "Pilot Lecture: A Walking Tour of Historic Havana",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 40.2,
   ownProgress: 40.2,
   partOfCollections: ["great-courses-collection/all-great-courses"],

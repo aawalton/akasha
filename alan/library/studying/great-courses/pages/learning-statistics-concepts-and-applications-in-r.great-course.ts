@@ -6,7 +6,7 @@ export const learningStatisticsConceptsAndApplicationsInR = {
   slug: "learning-statistics-concepts-and-applications-in-r",
   title: "Learning Statistics: Concepts and Applications in R",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 708.6,
   ownProgress: 0,
   partOfCollections: [

@@ -7,7 +7,7 @@ export const theSurprisingOriginsOfChristmasTraditions = {
   title: "The Surprising Origins of Christmas Traditions",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 52.2,
   ownProgress: 52.2,
   partOfCollections: [

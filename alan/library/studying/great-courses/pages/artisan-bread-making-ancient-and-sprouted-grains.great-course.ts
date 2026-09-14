@@ -7,7 +7,7 @@ export const artisanBreadMakingAncientAndSproutedGrains = {
   title: "Artisan Bread Making: Ancient & Sprouted Grains",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 147,
   ownProgress: 147,
   partOfCollections: ["great-courses-collection/all-great-courses"],

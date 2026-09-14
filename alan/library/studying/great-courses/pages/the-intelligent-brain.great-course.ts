@@ -6,7 +6,7 @@ export const theIntelligentBrain = {
   slug: "the-intelligent-brain",
   title: "The Intelligent Brain",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 526.8,
   ownProgress: 0,
   partOfCollections: [

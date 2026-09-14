@@ -7,7 +7,7 @@ export const freelancing101TurningYourSideHustleIntoCash = {
   title: "Freelancing 101: Turning your Side Hustle into Cash",
   status: "archived",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 126,
   ownProgress: 0,
   partOfCollections: [

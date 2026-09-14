@@ -7,7 +7,7 @@ export const leonardoDaVinciAndTheItalianHighRenaissance = {
   title: "Leonardo da Vinci and the Italian High Renaissance",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1122,
   ownProgress: 1122,
   partOfCollections: [

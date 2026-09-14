@@ -7,7 +7,7 @@ export const howTheMediciShapedTheRenaissance = {
   title: "How the Medici Shaped the Renaissance",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 366.6,
   ownProgress: 366.6,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const theLateMiddleAges = {
   slug: "the-late-middle-ages",
   title: "The Late Middle Ages",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 737.4,
   ownProgress: 0,
   partOfCollections: [

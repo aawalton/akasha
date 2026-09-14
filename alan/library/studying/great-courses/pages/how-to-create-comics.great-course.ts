@@ -6,7 +6,7 @@ export const howToCreateComics = {
   slug: "how-to-create-comics",
   title: "How to Create Comics",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 310.8,
   ownProgress: 0,
   partOfCollections: [

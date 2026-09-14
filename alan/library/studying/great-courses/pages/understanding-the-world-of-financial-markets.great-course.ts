@@ -6,7 +6,7 @@ export const understandingTheWorldOfFinancialMarkets = {
   slug: "understanding-the-world-of-financial-markets",
   title: "Understanding the World of Financial Markets",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 308.4,
   ownProgress: 0,
   partOfCollections: [

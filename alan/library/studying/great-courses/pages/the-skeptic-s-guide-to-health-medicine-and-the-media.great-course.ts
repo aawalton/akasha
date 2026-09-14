@@ -6,7 +6,7 @@ export const theSkepticSGuideToHealthMedicineAndTheMedia = {
   slug: "the-skeptic-s-guide-to-health-medicine-and-the-media",
   title: "The Skeptic's Guide to Health, Medicine, and the Media",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 750.6,
   ownProgress: 0,
   partOfCollections: [

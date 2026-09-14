@@ -7,7 +7,7 @@ export const howHamiltonRevolutionizedTheBroadwayMusical = {
   title: "How Hamilton Revolutionized the Broadway Musical",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 12.6,
   ownProgress: 12.6,
   partOfCollections: [

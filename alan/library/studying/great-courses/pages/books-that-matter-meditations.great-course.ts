@@ -6,7 +6,7 @@ export const booksThatMatterMeditations = {
   slug: "books-that-matter-meditations",
   title: "Books That Matter: Meditations",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 362.4,
   ownProgress: 0,
   partOfCollections: [

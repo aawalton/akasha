@@ -6,7 +6,7 @@ export const greatArchaeologicalMysteriesOfEuropeAndTheMediterranean = {
   slug: "great-archaeological-mysteries-of-europe-and-the-mediterranean",
   title: "Great Archaeological Mysteries of Europe and the Mediterranean",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 547.8,
   ownProgress: 0,
   partOfCollections: ["great-courses-collection/all-great-courses"],

@@ -7,7 +7,7 @@ export const greatCourse12EssentialScientificConcepts = {
   title: "12 Essential Scientific Concepts",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 724.2,
   ownProgress: 724.2,
   partOfCollections: [

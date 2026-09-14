@@ -6,7 +6,7 @@ export const heroesAndLegendsTheMostInfluentialCharactersOfLiterature = {
   slug: "heroes-and-legends-the-most-influential-characters-of-literature",
   title: "Heroes and Legends: The Most Influential Characters of Literature",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 753,
   ownProgress: 0,
   partOfCollections: [

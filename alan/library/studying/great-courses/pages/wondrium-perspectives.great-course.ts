@@ -6,7 +6,7 @@ export const wondriumPerspectives = {
   slug: "wondrium-perspectives",
   title: "Wondrium Perspectives",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 473.4,
   ownProgress: 0,
   partOfCollections: [

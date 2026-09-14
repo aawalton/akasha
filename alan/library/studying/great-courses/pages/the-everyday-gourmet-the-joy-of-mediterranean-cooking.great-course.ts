@@ -6,7 +6,7 @@ export const theEverydayGourmetTheJoyOfMediterraneanCooking = {
   slug: "the-everyday-gourmet-the-joy-of-mediterranean-cooking",
   title: "The Everyday Gourmet: The Joy of Mediterranean Cooking",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 559.2,
   ownProgress: 0,
   partOfCollections: [

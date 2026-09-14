@@ -7,7 +7,7 @@ export const englishGrammarBootCamp = {
   title: "English Grammar Boot Camp",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 753,
   ownProgress: 753,
   partOfCollections: [

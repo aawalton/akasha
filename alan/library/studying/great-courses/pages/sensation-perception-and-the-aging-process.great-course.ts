@@ -6,7 +6,7 @@ export const sensationPerceptionAndTheAgingProcess = {
   slug: "sensation-perception-and-the-aging-process",
   title: "Sensation, Perception, and the Aging Process",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 729.6,
   ownProgress: 0,
   partOfCollections: [

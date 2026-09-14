@@ -6,7 +6,7 @@ export const understandingYourInnerGenius = {
   slug: "understanding-your-inner-genius",
   title: "Understanding Your Inner Genius",
   status: "completed",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 186,
   ownProgress: 0,
   partOfCollections: [

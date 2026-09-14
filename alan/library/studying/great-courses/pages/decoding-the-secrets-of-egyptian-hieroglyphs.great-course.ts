@@ -7,7 +7,7 @@ export const decodingTheSecretsOfEgyptianHieroglyphs = {
   title: "Decoding the Secrets of Egyptian Hieroglyphs",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 753.6,
   ownProgress: 753.6,
   partOfCollections: [

@@ -7,7 +7,7 @@ export const fibonacciNumbersAndTheGoldenRatio = {
   title: "Fibonacci Numbers and the Golden Ratio",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 331.8,
   ownProgress: 331.8,
   partOfCollections: [

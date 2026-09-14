@@ -7,7 +7,7 @@ export const deliciousDishesForEverySeasonWinter = {
   title: "Delicious Dishes for Every Season: Winter",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 57,
   ownProgress: 57,
   partOfCollections: [

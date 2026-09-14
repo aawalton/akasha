@@ -7,7 +7,7 @@ export const deliciousDishesForEveryTaste = {
   title: "Delicious Dishes for Every Taste",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 131.4,
   ownProgress: 131.4,
   partOfCollections: [

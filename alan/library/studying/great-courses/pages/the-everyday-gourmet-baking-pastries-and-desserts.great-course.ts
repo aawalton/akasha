@@ -7,7 +7,7 @@ export const theEverydayGourmetBakingPastriesAndDesserts = {
   title: "The Everyday Gourmet: Baking Pastries and Desserts",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 232.2,
   ownProgress: 232.2,
   partOfCollections: [

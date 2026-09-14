@@ -7,7 +7,7 @@ export const classicPiesMadeEasy = {
   title: "Classic Pies Made Easy",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 163.633333,
   ownProgress: 163.633333,
   partOfCollections: ["great-courses-collection/all-great-courses"],

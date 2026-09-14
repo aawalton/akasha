@@ -6,7 +6,7 @@ export const mindBodyPhilosophy = {
   slug: "mind-body-philosophy",
   title: "Mind-Body Philosophy",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 748.8,
   ownProgress: 0,
   partOfCollections: [

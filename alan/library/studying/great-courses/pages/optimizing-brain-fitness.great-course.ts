@@ -6,7 +6,7 @@ export const optimizingBrainFitness = {
   slug: "optimizing-brain-fitness",
   title: "Optimizing Brain Fitness",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 358.2,
   ownProgress: 0,
   partOfCollections: [

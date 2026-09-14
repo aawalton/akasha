@@ -6,7 +6,7 @@ export const robertELeeAndHisHighCommand = {
   slug: "robert-e-lee-and-his-high-command",
   title: "Robert E. Lee and His High Command",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 733.333333,
   ownProgress: 0,
   partOfCollections: ["great-courses-collection/all-great-courses"],

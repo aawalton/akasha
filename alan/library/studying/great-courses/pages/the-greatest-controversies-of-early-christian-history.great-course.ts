@@ -6,7 +6,7 @@ export const theGreatestControversiesOfEarlyChristianHistory = {
   slug: "the-greatest-controversies-of-early-christian-history",
   title: "The Greatest Controversies of Early Christian History",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 682.8,
   ownProgress: 0,
   partOfCollections: [

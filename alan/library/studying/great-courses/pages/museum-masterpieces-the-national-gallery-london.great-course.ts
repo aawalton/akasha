@@ -7,7 +7,7 @@ export const museumMasterpiecesTheNationalGalleryLondon = {
   title: "Museum Masterpieces: The National Gallery, London",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 738.6,
   ownProgress: 738.6,
   partOfCollections: [

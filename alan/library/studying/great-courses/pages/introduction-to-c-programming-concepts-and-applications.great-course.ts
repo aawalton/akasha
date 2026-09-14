@@ -6,7 +6,7 @@ export const introductionToCProgrammingConceptsAndApplications = {
   slug: "introduction-to-c-programming-concepts-and-applications",
   title: "Introduction to C++: Programming Concepts and Applications",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 779.4,
   ownProgress: 0,
   partOfCollections: [

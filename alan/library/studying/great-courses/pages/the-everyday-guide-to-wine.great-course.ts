@@ -7,7 +7,7 @@ export const theEverydayGuideToWine = {
   title: "The Everyday Guide to Wine",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 752.4,
   ownProgress: 752.4,
   partOfCollections: [

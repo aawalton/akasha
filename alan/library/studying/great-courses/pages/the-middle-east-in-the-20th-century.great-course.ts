@@ -7,7 +7,7 @@ export const theMiddleEastInThe20thCentury = {
   title: "The Middle East in the 20th Century",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 663,
   ownProgress: 663,
   partOfCollections: [

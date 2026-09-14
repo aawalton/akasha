@@ -7,7 +7,7 @@ export const aPastimeOfTheirOwnTheStoryOfNegroLeagueBaseball = {
   title: "A Pastime of Their Own: The Story of Negro League Baseball",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 371.4,
   ownProgress: 371.4,
   partOfCollections: [

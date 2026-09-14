@@ -7,7 +7,7 @@ export const pilotLectureLittleSecretsForHeartAndBrainHealth = {
   title: "Pilot Lecture: Little Secrets for Heart and Brain Health",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 28.2,
   ownProgress: 28.2,
   partOfCollections: [

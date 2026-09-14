@@ -6,7 +6,7 @@ export const searchingForPeopleAndPlacesOfTheBible = {
   slug: "searching-for-people-and-places-of-the-bible",
   title: "Searching for People and Places of the Bible",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 480,
   ownProgress: 0,
   partOfCollections: [

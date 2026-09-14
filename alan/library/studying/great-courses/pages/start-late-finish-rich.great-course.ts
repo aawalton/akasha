@@ -6,7 +6,7 @@ export const startLateFinishRich = {
   slug: "start-late-finish-rich",
   title: "Start Late, Finish Rich",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 336,
   ownProgress: 0,
   partOfCollections: [

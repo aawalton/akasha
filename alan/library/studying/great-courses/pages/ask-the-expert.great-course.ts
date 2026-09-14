@@ -7,7 +7,7 @@ export const askTheExpert = {
   title: "Ask the Expert",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 52.8,
   ownProgress: 52.8,
   partOfCollections: [

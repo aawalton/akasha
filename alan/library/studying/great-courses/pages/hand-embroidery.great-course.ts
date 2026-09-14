@@ -7,7 +7,7 @@ export const handEmbroidery = {
   title: "Hand Embroidery",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 199.2,
   ownProgress: 199.2,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const theArtOfDebate = {
   slug: "the-art-of-debate",
   title: "The Art of Debate",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 709.2,
   ownProgress: 0,
   partOfCollections: [

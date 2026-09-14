@@ -6,7 +6,7 @@ export const creativityAndYourBrain = {
   slug: "creativity-and-your-brain",
   title: "Creativity and Your Brain",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 599.4,
   ownProgress: 0,
   partOfCollections: [

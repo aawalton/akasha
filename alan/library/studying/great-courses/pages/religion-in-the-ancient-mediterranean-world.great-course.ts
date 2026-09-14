@@ -6,7 +6,7 @@ export const religionInTheAncientMediterraneanWorld = {
   slug: "religion-in-the-ancient-mediterranean-world",
   title: "Religion in the Ancient Mediterranean World",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1468.8,
   ownProgress: 0,
   partOfCollections: [

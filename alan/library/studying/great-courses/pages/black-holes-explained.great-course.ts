@@ -6,7 +6,7 @@ export const blackHolesExplained = {
   slug: "black-holes-explained",
   title: "Black Holes Explained",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 384.6,
   ownProgress: 0,
   partOfCollections: [

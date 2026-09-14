@@ -6,7 +6,7 @@ export const theOttomanEmpire = {
   slug: "the-ottoman-empire",
   title: "The Ottoman Empire",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1135.2,
   ownProgress: 0,
   partOfCollections: [

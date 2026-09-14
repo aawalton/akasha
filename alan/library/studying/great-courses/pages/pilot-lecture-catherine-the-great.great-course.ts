@@ -7,7 +7,7 @@ export const pilotLectureCatherineTheGreat = {
   title: "Pilot Lecture: Catherine the Great",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 23.4,
   ownProgress: 23.4,
   partOfCollections: [

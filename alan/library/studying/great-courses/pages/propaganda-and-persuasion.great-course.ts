@@ -6,7 +6,7 @@ export const propagandaAndPersuasion = {
   slug: "propaganda-and-persuasion",
   title: "Propaganda and Persuasion",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 373.2,
   ownProgress: 0,
   partOfCollections: [

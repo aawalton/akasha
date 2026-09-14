@@ -7,7 +7,7 @@ export const theGreatToursWashingtonDc = {
   title: "The Great Tours: Washington DC",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 994.2,
   ownProgress: 994.2,
   partOfCollections: [

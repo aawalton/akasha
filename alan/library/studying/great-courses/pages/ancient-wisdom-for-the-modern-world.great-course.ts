@@ -7,7 +7,7 @@ export const ancientWisdomForTheModernWorld = {
   title: "Ancient Wisdom for the Modern World",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 205.2,
   ownProgress: 205.2,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const skywatchingSeeingAndUnderstandingCosmicWonders = {
   slug: "skywatching-seeing-and-understanding-cosmic-wonders",
   title: "Skywatching: Seeing and Understanding Cosmic Wonders",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 564.6,
   ownProgress: 0,
   partOfCollections: [

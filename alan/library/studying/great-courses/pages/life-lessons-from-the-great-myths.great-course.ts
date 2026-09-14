@@ -6,7 +6,7 @@ export const lifeLessonsFromTheGreatMyths = {
   slug: "life-lessons-from-the-great-myths",
   title: "Life Lessons from the Great Myths",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1100.4,
   ownProgress: 0,
   partOfCollections: [

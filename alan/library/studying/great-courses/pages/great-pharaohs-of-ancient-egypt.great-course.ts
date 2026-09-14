@@ -7,7 +7,7 @@ export const greatPharaohsOfAncientEgypt = {
   title: "Great Pharaohs of Ancient Egypt",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 367.2,
   ownProgress: 367.2,
   partOfCollections: [

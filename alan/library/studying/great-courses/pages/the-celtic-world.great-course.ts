@@ -7,7 +7,7 @@ export const theCelticWorld = {
   title: "The Celtic World",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 775.8,
   ownProgress: 775.8,
   partOfCollections: [

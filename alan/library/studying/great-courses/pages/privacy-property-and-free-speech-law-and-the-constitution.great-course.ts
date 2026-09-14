@@ -6,7 +6,7 @@ export const privacyPropertyAndFreeSpeechLawAndTheConstitution = {
   slug: "privacy-property-and-free-speech-law-and-the-constitution",
   title: "Privacy, Property, and Free Speech: Law and the Constitution",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 737.4,
   ownProgress: 0,
   partOfCollections: [

@@ -7,7 +7,7 @@ export const americanMilitaryHistoryFromColonialsToCounterinsurgents = {
   title: "American Military History: From Colonials to Counterinsurgents",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 696,
   ownProgress: 696,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const discreteMathematics = {
   slug: "discrete-mathematics",
   title: "Discrete Mathematics",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 764.4,
   ownProgress: 0,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const chamberMusicOfMozart = {
   slug: "chamber-music-of-mozart",
   title: "Chamber Music of Mozart",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 735.6,
   ownProgress: 0,
   partOfCollections: [

@@ -7,7 +7,7 @@ export const theGreatToursGermanyAndAustria = {
   title: "The Great Tours: Germany and Austria",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 699.6,
   ownProgress: 699.6,
   partOfCollections: [

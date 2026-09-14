@@ -7,7 +7,7 @@ export const mastersOfWarHistorySGreatestStrategicThinkers = {
   title: "Masters of War: History's Greatest Strategic Thinkers",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 747.6,
   ownProgress: 747.6,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const theGreatWorksOfSacredMusic = {
   slug: "the-great-works-of-sacred-music",
   title: "The Great Works of Sacred Music",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 708.6,
   ownProgress: 0,
   partOfCollections: [

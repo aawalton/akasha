@@ -6,7 +6,7 @@ export const introductionToPaleontology = {
   slug: "introduction-to-paleontology",
   title: "Introduction to Paleontology",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 754.8,
   ownProgress: 0,
   partOfCollections: [

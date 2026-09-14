@@ -6,7 +6,7 @@ export const theMythsOfNutritionAndFitness = {
   slug: "the-myths-of-nutrition-and-fitness",
   title: "The Myths of Nutrition and Fitness",
   status: "completed",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 190.8,
   ownProgress: 0,
   partOfCollections: [

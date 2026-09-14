@@ -6,7 +6,7 @@ export const originsOfTheHumanMind = {
   slug: "origins-of-the-human-mind",
   title: "Origins of the Human Mind",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 743.4,
   ownProgress: 0,
   partOfCollections: [

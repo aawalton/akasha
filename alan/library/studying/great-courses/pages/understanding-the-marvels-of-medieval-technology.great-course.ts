@@ -6,7 +6,7 @@ export const understandingTheMarvelsOfMedievalTechnology = {
   slug: "understanding-the-marvels-of-medieval-technology",
   title: "Understanding the Marvels of Medieval Technology",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 812.4,
   ownProgress: 0,
   partOfCollections: [

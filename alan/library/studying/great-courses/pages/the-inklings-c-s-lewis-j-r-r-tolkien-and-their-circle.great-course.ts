@@ -6,7 +6,7 @@ export const theInklingsCSLewisJRRTolkienAndTheirCircle = {
   slug: "the-inklings-c-s-lewis-j-r-r-tolkien-and-their-circle",
   title: "The Inklings: C. S. Lewis, J. R. R. Tolkien, and Their Circle",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 12,
   ownProgress: 0,
   partOfCollections: [

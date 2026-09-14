@@ -7,7 +7,7 @@ export const pilotLectureGuideToTinkeringElectricityAndBasicCircuits = {
   title: "Pilot Lecture: Guide to Tinkering: Electricity and Basic Circuits",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 18.6,
   ownProgress: 18.6,
   partOfCollections: [

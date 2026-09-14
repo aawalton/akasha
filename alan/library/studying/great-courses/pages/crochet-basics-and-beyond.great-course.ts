@@ -7,7 +7,7 @@ export const crochetBasicsAndBeyond = {
   title: "Crochet: Basics and Beyond",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 209.4,
   ownProgress: 209.4,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const introductionToAstrophysics = {
   slug: "introduction-to-astrophysics",
   title: "Introduction to Astrophysics",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 790.8,
   ownProgress: 0,
   partOfCollections: [

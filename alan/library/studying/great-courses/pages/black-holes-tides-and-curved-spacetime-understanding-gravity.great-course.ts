@@ -6,7 +6,7 @@ export const blackHolesTidesAndCurvedSpacetimeUnderstandingGravity = {
   slug: "black-holes-tides-and-curved-spacetime-understanding-gravity",
   title: "Black Holes, Tides, and Curved Spacetime: Understanding Gravity",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 724.8,
   ownProgress: 0,
   partOfCollections: [

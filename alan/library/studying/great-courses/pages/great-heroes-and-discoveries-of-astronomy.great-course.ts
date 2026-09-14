@@ -6,7 +6,7 @@ export const greatHeroesAndDiscoveriesOfAstronomy = {
   slug: "great-heroes-and-discoveries-of-astronomy",
   title: "Great Heroes and Discoveries of Astronomy",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 640.8,
   ownProgress: 0,
   partOfCollections: [

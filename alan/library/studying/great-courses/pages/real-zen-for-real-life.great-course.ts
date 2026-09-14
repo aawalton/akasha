@@ -6,7 +6,7 @@ export const realZenForRealLife = {
   slug: "real-zen-for-real-life",
   title: "Real Zen for Real Life",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 886.2,
   ownProgress: 0,
   partOfCollections: [

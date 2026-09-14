@@ -6,7 +6,7 @@ export const worldWarIiUpCloseAndPersonal = {
   slug: "world-war-ii-up-close-and-personal",
   title: "World War II: Up Close and Personal",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 693,
   ownProgress: 0,
   partOfCollections: [

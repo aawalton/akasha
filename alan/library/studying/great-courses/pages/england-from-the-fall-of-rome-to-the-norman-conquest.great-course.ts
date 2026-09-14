@@ -7,7 +7,7 @@ export const englandFromTheFallOfRomeToTheNormanConquest = {
   title: "England: From the Fall of Rome to the Norman Conquest",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 723,
   ownProgress: 723,
   partOfCollections: [

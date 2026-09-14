@@ -6,7 +6,7 @@ export const chaos = {
   slug: "chaos",
   title: "Chaos",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 737.4,
   ownProgress: 0,
   partOfCollections: [

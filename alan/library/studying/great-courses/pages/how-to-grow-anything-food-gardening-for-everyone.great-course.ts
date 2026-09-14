@@ -7,7 +7,7 @@ export const howToGrowAnythingFoodGardeningForEveryone = {
   title: "How to Grow Anything: Food Gardening for Everyone",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 363,
   ownProgress: 363,
   partOfCollections: [

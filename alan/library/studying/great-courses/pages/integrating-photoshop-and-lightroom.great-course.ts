@@ -6,7 +6,7 @@ export const integratingPhotoshopAndLightroom = {
   slug: "integrating-photoshop-and-lightroom",
   title: "Integrating Photoshop and Lightroom",
   status: "archived",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 87,
   ownProgress: 0,
   partOfCollections: [

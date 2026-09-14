@@ -7,7 +7,7 @@ export const pilotLectureHistoryOfRace = {
   title: "Pilot Lecture: History of Race",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 37.8,
   ownProgress: 37.8,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const turningPointsInAmericanHistory = {
   slug: "turning-points-in-american-history",
   title: "Turning Points in American History",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1465.8,
   ownProgress: 0,
   partOfCollections: [

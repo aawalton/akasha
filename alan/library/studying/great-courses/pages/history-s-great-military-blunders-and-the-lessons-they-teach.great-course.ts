@@ -7,7 +7,7 @@ export const historySGreatMilitaryBlundersAndTheLessonsTheyTeach = {
   title: "History's Great Military Blunders and the Lessons They Teach",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 735,
   ownProgress: 735,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const greatWorldReligionsHinduism = {
   slug: "great-world-religions-hinduism",
   title: "Great World Religions: Hinduism",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 361.8,
   ownProgress: 0,
   partOfCollections: [

@@ -7,7 +7,7 @@ export const theArtOfStorytellingFromParentsToProfessionals = {
   title: "The Art of Storytelling: From Parents to Professionals",
   status: "completed",
   rank: "A",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 753.6,
   ownProgress: 753.6,
   partOfCollections: [

@@ -7,7 +7,7 @@ export const classicCakesFromBakedBakery = {
   title: "Classic Cakes From Baked Bakery",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 111.616667,
   ownProgress: 111.616667,
   partOfCollections: ["great-courses-collection/all-great-courses"],

@@ -7,7 +7,7 @@ export const bannedBooksBurnedBooksForbiddenLiteraryWorks = {
   title: "Banned Books, Burned Books: Forbidden Literary Works",
   status: "completed",
   rank: "A",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 782.4,
   ownProgress: 782.4,
   partOfCollections: [

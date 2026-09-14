@@ -7,7 +7,7 @@ export const lostArtTheStoriesOfMissingMasterpieces = {
   title: "Lost Art: The Stories of Missing Masterpieces",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 361.8,
   ownProgress: 361.8,
   partOfCollections: [

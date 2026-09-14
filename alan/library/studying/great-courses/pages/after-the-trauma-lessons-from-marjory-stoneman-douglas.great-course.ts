@@ -7,7 +7,7 @@ export const afterTheTraumaLessonsFromMarjoryStonemanDouglas = {
   title: "After the Trauma: Lessons from Marjory Stoneman Douglas",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 43.8,
   ownProgress: 43.8,
   partOfCollections: [

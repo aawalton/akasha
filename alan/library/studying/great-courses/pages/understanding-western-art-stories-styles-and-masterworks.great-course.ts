@@ -6,7 +6,7 @@ export const understandingWesternArtStoriesStylesAndMasterworks = {
   slug: "understanding-western-art-stories-styles-and-masterworks",
   title: "Understanding Western Art: Stories, Styles, and Masterworks",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 800.933333,
   ownProgress: 0,
   partOfCollections: ["great-courses-collection/all-great-courses"],

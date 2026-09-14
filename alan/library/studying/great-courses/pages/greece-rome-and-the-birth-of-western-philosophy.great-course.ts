@@ -6,7 +6,7 @@ export const greeceRomeAndTheBirthOfWesternPhilosophy = {
   slug: "greece-rome-and-the-birth-of-western-philosophy",
   title: "Greece, Rome, and the Birth of Western Philosophy",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 726,
   ownProgress: 0,
   partOfCollections: ["great-courses-collection/all-great-courses"],

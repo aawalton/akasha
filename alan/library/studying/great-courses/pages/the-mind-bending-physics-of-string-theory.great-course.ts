@@ -6,7 +6,7 @@ export const theMindBendingPhysicsOfStringTheory = {
   slug: "the-mind-bending-physics-of-string-theory",
   title: "The Mind-Bending Physics of String Theory",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 255,
   ownProgress: 0,
   partOfCollections: [

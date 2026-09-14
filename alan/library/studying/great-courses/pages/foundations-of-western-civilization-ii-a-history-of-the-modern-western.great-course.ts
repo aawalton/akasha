@@ -7,7 +7,7 @@ export const foundationsOfWesternCivilizationIiAHistoryOfTheModernWestern = {
   title: "Foundations of Western Civilization II: A History of the Modern Western World",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1469.4,
   ownProgress: 1469.4,
   partOfCollections: [

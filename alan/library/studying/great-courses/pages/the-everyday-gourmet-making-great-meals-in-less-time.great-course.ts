@@ -7,7 +7,7 @@ export const theEverydayGourmetMakingGreatMealsInLessTime = {
   title: "The Everyday Gourmet: Making Great Meals in Less Time",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 198,
   ownProgress: 198,
   partOfCollections: [

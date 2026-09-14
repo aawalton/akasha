@@ -7,7 +7,7 @@ export const understandingGreekAndRomanTechnology = {
   title: "Understanding Greek and Roman Technology",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 740.4,
   ownProgress: 740.4,
   partOfCollections: [

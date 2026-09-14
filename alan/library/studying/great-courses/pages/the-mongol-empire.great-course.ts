@@ -6,7 +6,7 @@ export const theMongolEmpire = {
   slug: "the-mongol-empire",
   title: "The Mongol Empire",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 693.6,
   ownProgress: 0,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const pilotLectureHowToThinkLikeAGeneralColinPowell = {
   slug: "pilot-lecture-how-to-think-like-a-general-colin-powell",
   title: "Pilot Lecture: How to Think like a General—Colin Powell",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1,
   ownProgress: 0,
   partOfCollections: [

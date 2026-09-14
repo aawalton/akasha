@@ -7,7 +7,7 @@ export const pilotLectureNeutronStarsAndPulsars = {
   title: "Pilot Lecture: Neutron Stars and Pulsars",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 27,
   ownProgress: 27,
   partOfCollections: [

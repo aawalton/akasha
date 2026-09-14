@@ -7,7 +7,7 @@ export const theOpioidEpidemicAmericaSDeadlyAddiction = {
   title: "The Opioid Epidemic: America's Deadly Addiction",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 34.8,
   ownProgress: 34.8,
   partOfCollections: [

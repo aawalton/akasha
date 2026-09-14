@@ -6,7 +6,7 @@ export const theJoyOfScience = {
   slug: "the-joy-of-science",
   title: "The Joy of Science",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1827.6,
   ownProgress: 0,
   partOfCollections: [

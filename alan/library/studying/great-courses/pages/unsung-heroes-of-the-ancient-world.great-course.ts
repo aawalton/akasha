@@ -6,7 +6,7 @@ export const unsungHeroesOfTheAncientWorld = {
   slug: "unsung-heroes-of-the-ancient-world",
   title: "Unsung Heroes of the Ancient World",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 803.4,
   ownProgress: 0,
   partOfCollections: [

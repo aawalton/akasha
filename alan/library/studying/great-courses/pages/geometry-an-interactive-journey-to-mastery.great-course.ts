@@ -6,7 +6,7 @@ export const geometryAnInteractiveJourneyToMastery = {
   slug: "geometry-an-interactive-journey-to-mastery",
   title: "Geometry: An Interactive Journey to Mastery",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1098.6,
   ownProgress: 0,
   partOfCollections: [

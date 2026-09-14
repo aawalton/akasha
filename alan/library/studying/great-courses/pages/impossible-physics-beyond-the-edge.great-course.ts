@@ -6,7 +6,7 @@ export const impossiblePhysicsBeyondTheEdge = {
   slug: "impossible-physics-beyond-the-edge",
   title: "Impossible: Physics Beyond the Edge",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 726,
   ownProgress: 0,
   partOfCollections: [

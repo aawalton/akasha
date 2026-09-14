@@ -7,7 +7,7 @@ export const woodturningBasicsSevenHandyKitchenItems = {
   title: "Woodturning Basics: Seven Handy Kitchen Items",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 222,
   ownProgress: 222,
   partOfCollections: [

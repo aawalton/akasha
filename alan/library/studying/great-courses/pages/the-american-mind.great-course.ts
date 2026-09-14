@@ -6,7 +6,7 @@ export const theAmericanMind = {
   slug: "the-american-mind",
   title: "The American Mind",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1115.4,
   ownProgress: 0,
   partOfCollections: [

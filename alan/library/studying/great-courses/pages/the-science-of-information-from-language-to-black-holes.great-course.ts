@@ -6,7 +6,7 @@ export const theScienceOfInformationFromLanguageToBlackHoles = {
   slug: "the-science-of-information-from-language-to-black-holes",
   title: "The Science of Information: From Language to Black Holes",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 744.6,
   ownProgress: 0,
   partOfCollections: [

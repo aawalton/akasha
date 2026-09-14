@@ -7,7 +7,7 @@ export const cakeDecorating = {
   title: "Cake Decorating",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 302.4,
   ownProgress: 302.4,
   partOfCollections: [

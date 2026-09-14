@@ -6,7 +6,7 @@ export const writingYourStory = {
   slug: "writing-your-story",
   title: "Writing Your Story",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 319.8,
   ownProgress: 0,
   partOfCollections: [

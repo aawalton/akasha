@@ -7,7 +7,7 @@ export const howConversationWorks6LessonsForBetterCommunication = {
   title: "How Conversation Works: 6 Lessons for Better Communication",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 190.2,
   ownProgress: 190.2,
   partOfCollections: [

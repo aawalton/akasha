@@ -7,7 +7,7 @@ export const theGreatToursIceland = {
   title: "The Great Tours: Iceland",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 564.6,
   ownProgress: 564.6,
   partOfCollections: [

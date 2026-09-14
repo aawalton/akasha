@@ -7,7 +7,7 @@ export const democracyAndItsAlternatives = {
   title: "Democracy and Its Alternatives",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 546,
   ownProgress: 546,
   partOfCollections: [

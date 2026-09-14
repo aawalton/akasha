@@ -6,7 +6,7 @@ export const urbanLegendsExplained = {
   slug: "urban-legends-explained",
   title: "Urban Legends Explained",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 322.8,
   ownProgress: 0,
   partOfCollections: ["great-courses-collection/all-great-courses"],

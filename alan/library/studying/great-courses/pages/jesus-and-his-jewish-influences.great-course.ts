@@ -6,7 +6,7 @@ export const jesusAndHisJewishInfluences = {
   slug: "jesus-and-his-jewish-influences",
   title: "Jesus and His Jewish Influences",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 732.6,
   ownProgress: 0,
   partOfCollections: [

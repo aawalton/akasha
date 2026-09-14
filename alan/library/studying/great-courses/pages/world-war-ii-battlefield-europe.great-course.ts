@@ -6,7 +6,7 @@ export const worldWarIiBattlefieldEurope = {
   slug: "world-war-ii-battlefield-europe",
   title: "World War II: Battlefield Europe",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 681.6,
   ownProgress: 0,
   partOfCollections: [

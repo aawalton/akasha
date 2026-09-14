@@ -6,7 +6,7 @@ export const warpingRealityInsideThePsychologyOfCults = {
   slug: "warping-reality-inside-the-psychology-of-cults",
   title: "Warping Reality: Inside the Psychology of Cults",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 374.4,
   ownProgress: 0,
   partOfCollections: [

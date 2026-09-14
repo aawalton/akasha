@@ -6,7 +6,7 @@ export const socialMedia101 = {
   slug: "social-media-101",
   title: "Social Media 101",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 360.6,
   ownProgress: 0,
   partOfCollections: [

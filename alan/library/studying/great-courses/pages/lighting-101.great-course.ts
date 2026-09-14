@@ -6,7 +6,7 @@ export const lighting101 = {
   slug: "lighting-101",
   title: "Lighting 101",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 533.4,
   ownProgress: 0,
   partOfCollections: [

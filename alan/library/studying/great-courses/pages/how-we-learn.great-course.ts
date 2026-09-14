@@ -6,7 +6,7 @@ export const howWeLearn = {
   slug: "how-we-learn",
   title: "How We Learn",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 702.6,
   ownProgress: 0,
   partOfCollections: [

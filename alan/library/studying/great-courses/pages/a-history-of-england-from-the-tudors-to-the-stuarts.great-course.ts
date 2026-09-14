@@ -7,7 +7,7 @@ export const aHistoryOfEnglandFromTheTudorsToTheStuarts = {
   title: "A History of England from the Tudors to the Stuarts",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1458,
   ownProgress: 1458,
   partOfCollections: [

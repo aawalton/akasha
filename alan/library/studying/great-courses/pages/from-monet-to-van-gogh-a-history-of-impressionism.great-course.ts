@@ -7,7 +7,7 @@ export const fromMonetToVanGoghAHistoryOfImpressionism = {
   title: "From Monet to Van Gogh: A History of Impressionism",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 730.8,
   ownProgress: 730.8,
   partOfCollections: [

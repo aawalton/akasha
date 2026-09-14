@@ -7,7 +7,7 @@ export const bakingWithTheGlutenFreeGirl = {
   title: "Baking With the Gluten-Free Girl",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 114.6,
   ownProgress: 114.6,
   partOfCollections: ["great-courses-collection/all-great-courses"],

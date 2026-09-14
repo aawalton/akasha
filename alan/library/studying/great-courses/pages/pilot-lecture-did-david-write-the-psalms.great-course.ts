@@ -7,7 +7,7 @@ export const pilotLectureDidDavidWriteThePsalms = {
   title: "Pilot Lecture: Did David Write the Psalms?",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 29.4,
   ownProgress: 29.4,
   partOfCollections: [

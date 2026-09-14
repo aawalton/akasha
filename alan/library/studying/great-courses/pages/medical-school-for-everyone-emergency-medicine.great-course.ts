@@ -6,7 +6,7 @@ export const medicalSchoolForEveryoneEmergencyMedicine = {
   slug: "medical-school-for-everyone-emergency-medicine",
   title: "Medical School for Everyone: Emergency Medicine",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 721.2,
   ownProgress: 0,
   partOfCollections: [

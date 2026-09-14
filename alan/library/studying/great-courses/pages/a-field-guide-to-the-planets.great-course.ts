@@ -7,7 +7,7 @@ export const aFieldGuideToThePlanets = {
   title: "A Field Guide to the Planets",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 760.2,
   ownProgress: 760.2,
   partOfCollections: [

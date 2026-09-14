@@ -6,7 +6,7 @@ export const theArtOfReading = {
   slug: "the-art-of-reading",
   title: "The Art of Reading",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 24,
   ownProgress: 0,
   partOfCollections: ["great-courses-collection/all-great-courses"],

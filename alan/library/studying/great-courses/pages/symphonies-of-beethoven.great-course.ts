@@ -6,7 +6,7 @@ export const symphoniesOfBeethoven = {
   slug: "symphonies-of-beethoven",
   title: "Symphonies of Beethoven",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1460.4,
   ownProgress: 0,
   partOfCollections: [

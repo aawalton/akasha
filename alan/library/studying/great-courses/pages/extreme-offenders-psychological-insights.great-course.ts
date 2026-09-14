@@ -6,7 +6,7 @@ export const extremeOffendersPsychologicalInsights = {
   slug: "extreme-offenders-psychological-insights",
   title: "Extreme Offenders: Psychological Insights",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 428.4,
   ownProgress: 0,
   partOfCollections: [

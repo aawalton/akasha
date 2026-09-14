@@ -7,7 +7,7 @@ export const aHistorianGoesToTheMoviesAncientRome = {
   title: "A Historian Goes to the Movies: Ancient Rome",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 392.4,
   ownProgress: 392.4,
   partOfCollections: [

@@ -7,7 +7,7 @@ export const pilotLectureTheHagiaSophiaAndTheBlueMosque = {
   title: "Pilot Lecture: The Hagia Sophia and the Blue Mosque",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 28.8,
   ownProgress: 28.8,
   partOfCollections: [

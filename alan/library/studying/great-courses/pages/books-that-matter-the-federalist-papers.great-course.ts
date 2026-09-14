@@ -6,7 +6,7 @@ export const booksThatMatterTheFederalistPapers = {
   slug: "books-that-matter-the-federalist-papers",
   title: "Books That Matter: The Federalist Papers",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 399.6,
   ownProgress: 0,
   partOfCollections: [

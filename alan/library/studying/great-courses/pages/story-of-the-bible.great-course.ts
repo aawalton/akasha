@@ -6,7 +6,7 @@ export const storyOfTheBible = {
   slug: "story-of-the-bible",
   title: "Story of the Bible",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 723,
   ownProgress: 0,
   partOfCollections: [

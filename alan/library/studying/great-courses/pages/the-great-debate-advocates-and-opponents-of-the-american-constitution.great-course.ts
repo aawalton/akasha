@@ -6,7 +6,7 @@ export const theGreatDebateAdvocatesAndOpponentsOfTheAmericanConstitution = {
   slug: "the-great-debate-advocates-and-opponents-of-the-american-constitution",
   title: "The Great Debate: Advocates and Opponents of the American Constitution",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 378.6,
   ownProgress: 0,
   partOfCollections: [

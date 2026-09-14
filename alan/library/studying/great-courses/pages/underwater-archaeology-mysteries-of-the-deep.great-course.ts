@@ -6,7 +6,7 @@ export const underwaterArchaeologyMysteriesOfTheDeep = {
   slug: "underwater-archaeology-mysteries-of-the-deep",
   title: "Underwater Archaeology: Mysteries of the Deep",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 347.4,
   ownProgress: 0,
   partOfCollections: [

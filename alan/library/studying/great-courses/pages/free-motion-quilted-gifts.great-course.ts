@@ -7,7 +7,7 @@ export const freeMotionQuiltedGifts = {
   title: "Free-Motion Quilted Gifts",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 78.6,
   ownProgress: 78.6,
   partOfCollections: [

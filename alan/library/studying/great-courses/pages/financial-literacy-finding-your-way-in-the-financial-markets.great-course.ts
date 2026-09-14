@@ -7,7 +7,7 @@ export const financialLiteracyFindingYourWayInTheFinancialMarkets = {
   title: "Financial Literacy: Finding Your Way in the Financial Markets",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 711,
   ownProgress: 711,
   partOfCollections: [

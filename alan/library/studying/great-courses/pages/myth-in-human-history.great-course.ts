@@ -6,7 +6,7 @@ export const mythInHumanHistory = {
   slug: "myth-in-human-history",
   title: "Myth in Human History",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1101,
   ownProgress: 0,
   partOfCollections: [

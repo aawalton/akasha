@@ -6,7 +6,7 @@ export const howToPublishYourBook = {
   slug: "how-to-publish-your-book",
   title: "How to Publish Your Book",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 697.2,
   ownProgress: 0,
   partOfCollections: [

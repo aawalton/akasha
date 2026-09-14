@@ -7,7 +7,7 @@ export const theEverydayGuideToBeer = {
   title: "The Everyday Guide to Beer",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 340.2,
   ownProgress: 340.2,
   partOfCollections: [

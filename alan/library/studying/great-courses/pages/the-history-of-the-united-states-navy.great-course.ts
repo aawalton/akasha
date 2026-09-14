@@ -6,7 +6,7 @@ export const theHistoryOfTheUnitedStatesNavy = {
   slug: "the-history-of-the-united-states-navy",
   title: "The History of the United States Navy",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 763.2,
   ownProgress: 0,
   partOfCollections: [

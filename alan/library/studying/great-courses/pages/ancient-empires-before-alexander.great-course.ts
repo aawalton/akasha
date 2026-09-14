@@ -6,7 +6,7 @@ export const ancientEmpiresBeforeAlexander = {
   slug: "ancient-empires-before-alexander",
   title: "Ancient Empires before Alexander",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1098.816667,
   ownProgress: 0,
   partOfCollections: ["great-courses-collection/all-great-courses"],

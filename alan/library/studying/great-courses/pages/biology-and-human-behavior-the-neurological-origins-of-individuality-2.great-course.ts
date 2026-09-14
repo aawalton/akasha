@@ -6,7 +6,7 @@ export const biologyAndHumanBehaviorTheNeurologicalOriginsOfIndividuality2 = {
   slug: "biology-and-human-behavior-the-neurological-origins-of-individuality-2",
   title: "Biology and Human Behavior: The Neurological Origins of Individuality, 2nd Edition",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 731.4,
   ownProgress: 0,
   partOfCollections: [

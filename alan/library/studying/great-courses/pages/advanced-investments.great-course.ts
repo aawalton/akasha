@@ -7,7 +7,7 @@ export const advancedInvestments = {
   title: "Advanced Investments",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 766.2,
   ownProgress: 766.2,
   partOfCollections: [

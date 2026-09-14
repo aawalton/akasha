@@ -7,7 +7,7 @@ export const elevateYourEverydayCookingWithCurtisStone = {
   title: "Elevate Your Everyday Cooking with Curtis Stone",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 276.6,
   ownProgress: 276.6,
   partOfCollections: [

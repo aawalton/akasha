@@ -6,7 +6,7 @@ export const greatWorldReligionsJudaism = {
   slug: "great-world-religions-judaism",
   title: "Great World Religions: Judaism",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 366,
   ownProgress: 0,
   partOfCollections: [

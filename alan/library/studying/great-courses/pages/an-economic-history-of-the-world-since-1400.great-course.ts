@@ -7,7 +7,7 @@ export const anEconomicHistoryOfTheWorldSince1400 = {
   title: "An Economic History of the World since 1400",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1472.4,
   ownProgress: 1472.4,
   partOfCollections: [

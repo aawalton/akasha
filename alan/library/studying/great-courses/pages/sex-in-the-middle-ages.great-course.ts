@@ -6,7 +6,7 @@ export const sexInTheMiddleAges = {
   slug: "sex-in-the-middle-ages",
   title: "Sex in the Middle Ages",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 315,
   ownProgress: 0,
   partOfCollections: [

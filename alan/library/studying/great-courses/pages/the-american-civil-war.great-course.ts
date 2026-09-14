@@ -7,7 +7,7 @@ export const theAmericanCivilWar = {
   title: "The American Civil War",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1461,
   ownProgress: 1461,
   partOfCollections: [

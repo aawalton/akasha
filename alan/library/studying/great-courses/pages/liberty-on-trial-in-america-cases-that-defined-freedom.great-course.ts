@@ -6,7 +6,7 @@ export const libertyOnTrialInAmericaCasesThatDefinedFreedom = {
   slug: "liberty-on-trial-in-america-cases-that-defined-freedom",
   title: "Liberty on Trial in America: Cases That Defined Freedom",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 717,
   ownProgress: 0,
   partOfCollections: [

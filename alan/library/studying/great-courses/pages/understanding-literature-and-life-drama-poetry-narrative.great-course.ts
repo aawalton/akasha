@@ -6,7 +6,7 @@ export const understandingLiteratureAndLifeDramaPoetryNarrative = {
   slug: "understanding-literature-and-life-drama-poetry-narrative",
   title: "Understanding Literature and Life: Drama, Poetry, Narrative",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1976.883333,
   ownProgress: 0,
   partOfCollections: ["great-courses-collection/all-great-courses"],

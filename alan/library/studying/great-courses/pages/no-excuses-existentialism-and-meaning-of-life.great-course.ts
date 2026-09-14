@@ -6,7 +6,7 @@ export const noExcusesExistentialismAndMeaningOfLife = {
   slug: "no-excuses-existentialism-and-meaning-of-life",
   title: "No Excuses: Existentialism and Meaning of Life",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 734.4,
   ownProgress: 0,
   partOfCollections: [

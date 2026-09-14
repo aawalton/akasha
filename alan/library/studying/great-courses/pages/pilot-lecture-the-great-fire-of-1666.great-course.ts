@@ -7,7 +7,7 @@ export const pilotLectureTheGreatFireOf1666 = {
   title: "Pilot Lecture: The Great Fire of 1666",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 32.4,
   ownProgress: 32.4,
   partOfCollections: [

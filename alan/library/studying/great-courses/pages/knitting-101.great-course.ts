@@ -7,7 +7,7 @@ export const knitting101 = {
   title: "Knitting 101",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 635.4,
   ownProgress: 635.4,
   partOfCollections: [

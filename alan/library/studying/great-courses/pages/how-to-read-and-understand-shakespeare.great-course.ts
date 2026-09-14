@@ -6,7 +6,7 @@ export const howToReadAndUnderstandShakespeare = {
   slug: "how-to-read-and-understand-shakespeare",
   title: "How to Read and Understand Shakespeare",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 743.4,
   ownProgress: 0,
   partOfCollections: [

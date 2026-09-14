@@ -6,7 +6,7 @@ export const enBuscaDeCeroEmisionesDeCarbono = {
   slug: "en-busca-de-cero-emisiones-de-carbono",
   title: "En Busca de Cero Emisiones de Carbono",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1,
   ownProgress: 0,
   partOfCollections: [

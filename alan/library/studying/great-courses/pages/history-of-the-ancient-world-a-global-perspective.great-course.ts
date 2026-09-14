@@ -7,7 +7,7 @@ export const historyOfTheAncientWorldAGlobalPerspective = {
   title: "History of the Ancient World: A Global Perspective",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1462.2,
   ownProgress: 1462.2,
   partOfCollections: [

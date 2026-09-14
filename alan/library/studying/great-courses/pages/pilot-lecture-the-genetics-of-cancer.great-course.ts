@@ -7,7 +7,7 @@ export const pilotLectureTheGeneticsOfCancer = {
   title: "Pilot Lecture: The Genetics of Cancer",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 30,
   ownProgress: 30,
   partOfCollections: [

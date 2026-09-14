@@ -6,7 +6,7 @@ export const humanPrehistoryAndTheFirstCivilizations = {
   slug: "human-prehistory-and-the-first-civilizations",
   title: "Human Prehistory and the First Civilizations",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1087.2,
   ownProgress: 0,
   partOfCollections: [

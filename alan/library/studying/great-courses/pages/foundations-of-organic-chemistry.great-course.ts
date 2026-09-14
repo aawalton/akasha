@@ -6,7 +6,7 @@ export const foundationsOfOrganicChemistry = {
   slug: "foundations-of-organic-chemistry",
   title: "Foundations of Organic Chemistry",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1105.2,
   ownProgress: 0,
   partOfCollections: [

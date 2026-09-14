@@ -6,7 +6,7 @@ export const theScienceOfFlight = {
   slug: "the-science-of-flight",
   title: "The Science of Flight",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 864.6,
   ownProgress: 0,
   partOfCollections: [

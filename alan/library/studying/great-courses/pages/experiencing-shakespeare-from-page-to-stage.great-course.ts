@@ -6,7 +6,7 @@ export const experiencingShakespeareFromPageToStage = {
   slug: "experiencing-shakespeare-from-page-to-stage",
   title: "Experiencing Shakespeare: From Page to Stage",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 309.6,
   ownProgress: 0,
   partOfCollections: [

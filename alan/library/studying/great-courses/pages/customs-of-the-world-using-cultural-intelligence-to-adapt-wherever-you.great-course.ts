@@ -7,7 +7,7 @@ export const customsOfTheWorldUsingCulturalIntelligenceToAdaptWhereverYou = {
   title: "Customs of the World: Using Cultural Intelligence to Adapt, Wherever You Are",
   status: "completed",
   rank: "A",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 718.2,
   ownProgress: 718.2,
   partOfCollections: [

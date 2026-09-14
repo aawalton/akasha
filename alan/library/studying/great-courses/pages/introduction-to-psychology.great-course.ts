@@ -6,7 +6,7 @@ export const introductionToPsychology = {
   slug: "introduction-to-psychology",
   title: "Introduction to Psychology",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1078.2,
   ownProgress: 0,
   partOfCollections: [

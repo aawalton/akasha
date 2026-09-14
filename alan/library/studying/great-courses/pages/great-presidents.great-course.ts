@@ -6,7 +6,7 @@ export const greatPresidents = {
   slug: "great-presidents",
   title: "Great Presidents",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1482.6,
   ownProgress: 0,
   partOfCollections: [

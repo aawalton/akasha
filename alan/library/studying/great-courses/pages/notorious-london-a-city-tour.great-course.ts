@@ -7,7 +7,7 @@ export const notoriousLondonACityTour = {
   title: "Notorious London: A City Tour",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 361.8,
   ownProgress: 361.8,
   partOfCollections: [

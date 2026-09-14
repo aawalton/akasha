@@ -6,7 +6,7 @@ export const howChemistrySurroundsYou = {
   slug: "how-chemistry-surrounds-you",
   title: "How Chemistry Surrounds You",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 24,
   ownProgress: 0,
   partOfCollections: [

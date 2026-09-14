@@ -7,7 +7,7 @@ export const mayaToAztecAncientMesoamericaRevealed = {
   title: "Maya to Aztec: Ancient Mesoamerica Revealed",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1464,
   ownProgress: 1464,
   partOfCollections: [

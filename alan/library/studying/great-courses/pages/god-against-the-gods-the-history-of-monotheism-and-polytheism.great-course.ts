@@ -6,7 +6,7 @@ export const godAgainstTheGodsTheHistoryOfMonotheismAndPolytheism = {
   slug: "god-against-the-gods-the-history-of-monotheism-and-polytheism",
   title: "God against the Gods: The History of Monotheism and Polytheism",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 414.6,
   ownProgress: 0,
   partOfCollections: [

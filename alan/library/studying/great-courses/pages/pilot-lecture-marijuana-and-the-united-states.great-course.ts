@@ -7,7 +7,7 @@ export const pilotLectureMarijuanaAndTheUnitedStates = {
   title: "Pilot Lecture: Marijuana and the United States",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 31.8,
   ownProgress: 31.8,
   partOfCollections: [

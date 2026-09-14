@@ -6,7 +6,7 @@ export const pioneeringSkillsForEveryoneModernHomesteading = {
   slug: "pioneering-skills-for-everyone-modern-homesteading",
   title: "Pioneering Skills for Everyone: Modern Homesteading",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 615.6,
   ownProgress: 0,
   partOfCollections: [

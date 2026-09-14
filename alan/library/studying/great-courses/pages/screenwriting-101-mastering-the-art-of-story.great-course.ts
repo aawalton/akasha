@@ -6,7 +6,7 @@ export const screenwriting101MasteringTheArtOfStory = {
   slug: "screenwriting-101-mastering-the-art-of-story",
   title: "Screenwriting 101: Mastering the Art of Story",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 769.8,
   ownProgress: 0,
   partOfCollections: [

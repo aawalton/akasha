@@ -6,7 +6,7 @@ export const theRealHistoryOfPirates = {
   slug: "the-real-history-of-pirates",
   title: "The Real History of Pirates",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 658.8,
   ownProgress: 0,
   partOfCollections: [

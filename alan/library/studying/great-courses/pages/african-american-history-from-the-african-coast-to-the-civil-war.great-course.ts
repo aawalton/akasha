@@ -7,7 +7,7 @@ export const africanAmericanHistoryFromTheAfricanCoastToTheCivilWar = {
   title: "African American History: From the African Coast to the Civil War",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 750,
   ownProgress: 750,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const majorTransitionsInEvolution = {
   slug: "major-transitions-in-evolution",
   title: "Major Transitions in Evolution",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 738.6,
   ownProgress: 0,
   partOfCollections: [

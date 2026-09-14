@@ -7,7 +7,7 @@ export const pilotLectureBibiSahibaFemaleSaintOfTheAfghanEmpire = {
   title: "Pilot Lecture: Bibi Sahiba - Female Saint of the Afghan Empire",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 24.6,
   ownProgress: 24.6,
   partOfCollections: [

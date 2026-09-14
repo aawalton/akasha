@@ -6,7 +6,7 @@ export const theHistoryOfAncientRome = {
   slug: "the-history-of-ancient-rome",
   title: "The History of Ancient Rome",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1451.4,
   ownProgress: 0,
   partOfCollections: [

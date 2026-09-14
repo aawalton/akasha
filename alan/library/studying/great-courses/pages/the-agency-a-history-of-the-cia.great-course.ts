@@ -6,7 +6,7 @@ export const theAgencyAHistoryOfTheCia = {
   slug: "the-agency-a-history-of-the-cia",
   title: "The Agency: A History of the CIA",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 693.6,
   ownProgress: 0,
   partOfCollections: [

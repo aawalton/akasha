@@ -7,7 +7,7 @@ export const improveYourPaintingsLuminousWatercolorMixing = {
   title: "Improve Your Paintings: Luminous Watercolor Mixing",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 119.4,
   ownProgress: 119.4,
   partOfCollections: [

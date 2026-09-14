@@ -6,7 +6,7 @@ export const greatMastersHaydnHisLifeAndMusic = {
   slug: "great-masters-haydn-his-life-and-music",
   title: "Great Masters: Haydn-His Life and Music",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 364.8,
   ownProgress: 0,
   partOfCollections: [

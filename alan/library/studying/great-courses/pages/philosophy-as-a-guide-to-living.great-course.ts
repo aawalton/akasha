@@ -6,7 +6,7 @@ export const philosophyAsAGuideToLiving = {
   slug: "philosophy-as-a-guide-to-living",
   title: "Philosophy as a Guide to Living",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 739.8,
   ownProgress: 0,
   partOfCollections: [

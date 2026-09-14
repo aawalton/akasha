@@ -7,7 +7,7 @@ export const exploringTheMayanWorld = {
   title: "Exploring the Mayan World",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 205.8,
   ownProgress: 205.8,
   partOfCollections: [

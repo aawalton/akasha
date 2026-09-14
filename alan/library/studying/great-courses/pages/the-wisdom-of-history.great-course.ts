@@ -6,7 +6,7 @@ export const theWisdomOfHistory = {
   slug: "the-wisdom-of-history",
   title: "The Wisdom of History",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1092.6,
   ownProgress: 0,
   partOfCollections: [

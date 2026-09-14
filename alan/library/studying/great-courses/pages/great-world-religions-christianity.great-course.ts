@@ -6,7 +6,7 @@ export const greatWorldReligionsChristianity = {
   slug: "great-world-religions-christianity",
   title: "Great World Religions: Christianity",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 367.2,
   ownProgress: 0,
   partOfCollections: [

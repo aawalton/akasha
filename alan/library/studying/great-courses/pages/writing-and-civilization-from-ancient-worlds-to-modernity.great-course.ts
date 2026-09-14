@@ -6,7 +6,7 @@ export const writingAndCivilizationFromAncientWorldsToModernity = {
   slug: "writing-and-civilization-from-ancient-worlds-to-modernity",
   title: "Writing and Civilization: From Ancient Worlds to Modernity",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 728.4,
   ownProgress: 0,
   partOfCollections: [

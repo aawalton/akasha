@@ -6,7 +6,7 @@ export const theTriumphOfChristianity = {
   slug: "the-triumph-of-christianity",
   title: "The Triumph of Christianity",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 681.6,
   ownProgress: 0,
   partOfCollections: [

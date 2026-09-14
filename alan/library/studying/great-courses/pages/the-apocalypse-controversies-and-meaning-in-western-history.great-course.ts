@@ -6,7 +6,7 @@ export const theApocalypseControversiesAndMeaningInWesternHistory = {
   slug: "the-apocalypse-controversies-and-meaning-in-western-history",
   title: "The Apocalypse: Controversies and Meaning in Western History",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 744,
   ownProgress: 0,
   partOfCollections: [

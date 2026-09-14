@@ -7,7 +7,7 @@ export const flavorComesFirstHealthyMealsThatTasteDelicious = {
   title: "Flavor Comes First: Healthy Meals That Taste Delicious",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 123,
   ownProgress: 123,
   partOfCollections: ["great-courses-collection/all-great-courses"],

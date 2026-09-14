@@ -7,7 +7,7 @@ export const unsungHeroesOfWorldWarIiEurope = {
   title: "Unsung Heroes of World War II: Europe",
   status: "completed",
   rank: "A",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 358.8,
   ownProgress: 358.8,
   partOfCollections: [

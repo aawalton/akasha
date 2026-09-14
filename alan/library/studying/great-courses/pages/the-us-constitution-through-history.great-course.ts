@@ -6,7 +6,7 @@ export const theUsConstitutionThroughHistory = {
   slug: "the-us-constitution-through-history",
   title: "The US Constitution through History",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 856.8,
   ownProgress: 0,
   partOfCollections: [

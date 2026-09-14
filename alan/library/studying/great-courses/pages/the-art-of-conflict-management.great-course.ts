@@ -6,7 +6,7 @@ export const theArtOfConflictManagement = {
   slug: "the-art-of-conflict-management",
   title: "The Art of Conflict Management",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 743.4,
   ownProgress: 0,
   partOfCollections: [

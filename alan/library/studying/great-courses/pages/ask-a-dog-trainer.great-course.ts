@@ -7,7 +7,7 @@ export const askADogTrainer = {
   title: "Ask a Dog Trainer",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 10.2,
   ownProgress: 10.2,
   partOfCollections: [

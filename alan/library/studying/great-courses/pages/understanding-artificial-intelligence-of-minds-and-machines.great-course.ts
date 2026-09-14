@@ -6,7 +6,7 @@ export const understandingArtificialIntelligenceOfMindsAndMachines = {
   slug: "understanding-artificial-intelligence-of-minds-and-machines",
   title: "Understanding Artificial Intelligence: Of Minds and Machines",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 12,
   ownProgress: 0,
   partOfCollections: [

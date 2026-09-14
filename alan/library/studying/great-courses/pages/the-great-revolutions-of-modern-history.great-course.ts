@@ -6,7 +6,7 @@ export const theGreatRevolutionsOfModernHistory = {
   slug: "the-great-revolutions-of-modern-history",
   title: "The Great Revolutions of Modern History",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 768,
   ownProgress: 0,
   partOfCollections: [

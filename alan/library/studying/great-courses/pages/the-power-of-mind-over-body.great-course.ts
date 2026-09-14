@@ -6,7 +6,7 @@ export const thePowerOfMindOverBody = {
   slug: "the-power-of-mind-over-body",
   title: "The Power of Mind over Body",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 345,
   ownProgress: 0,
   partOfCollections: [

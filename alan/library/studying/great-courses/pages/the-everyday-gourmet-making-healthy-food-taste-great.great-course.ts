@@ -7,7 +7,7 @@ export const theEverydayGourmetMakingHealthyFoodTasteGreat = {
   title: "The Everyday Gourmet: Making Healthy Food Taste Great",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 198.6,
   ownProgress: 198.6,
   partOfCollections: [

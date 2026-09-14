@@ -6,7 +6,7 @@ export const theInexplicableUniverseUnsolvedMysteries = {
   slug: "the-inexplicable-universe-unsolved-mysteries",
   title: "The Inexplicable Universe: Unsolved Mysteries",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 193.8,
   ownProgress: 0,
   partOfCollections: [

@@ -7,7 +7,7 @@ export const pilotLectureAllAboutYourBrain = {
   title: "Pilot Lecture: All about Your Brain",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 29.4,
   ownProgress: 29.4,
   partOfCollections: [

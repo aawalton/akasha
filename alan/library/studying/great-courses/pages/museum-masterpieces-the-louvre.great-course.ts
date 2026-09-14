@@ -7,7 +7,7 @@ export const museumMasterpiecesTheLouvre = {
   title: "Museum Masterpieces: The Louvre",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 382.8,
   ownProgress: 382.8,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const understandingHumanEmotions = {
   slug: "understanding-human-emotions",
   title: "Understanding Human Emotions",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 318,
   ownProgress: 0,
   partOfCollections: [

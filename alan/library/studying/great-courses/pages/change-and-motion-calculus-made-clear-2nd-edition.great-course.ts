@@ -6,7 +6,7 @@ export const changeAndMotionCalculusMadeClear2ndEdition = {
   slug: "change-and-motion-calculus-made-clear-2nd-edition",
   title: "Change and Motion: Calculus Made Clear, 2nd Edition",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 750,
   ownProgress: 0,
   partOfCollections: [

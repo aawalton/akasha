@@ -7,7 +7,7 @@ export const theBrainBasedGuideToCommunicatingBetter = {
   title: "The Brain-Based Guide to Communicating Better",
   status: "completed",
   rank: "A",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 181.2,
   ownProgress: 181.2,
   partOfCollections: [

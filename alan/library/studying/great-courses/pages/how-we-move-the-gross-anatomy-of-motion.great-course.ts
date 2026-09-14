@@ -6,7 +6,7 @@ export const howWeMoveTheGrossAnatomyOfMotion = {
   slug: "how-we-move-the-gross-anatomy-of-motion",
   title: "How We Move: The Gross Anatomy of Motion",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 754.2,
   ownProgress: 0,
   partOfCollections: [

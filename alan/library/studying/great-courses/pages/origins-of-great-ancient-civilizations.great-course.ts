@@ -6,7 +6,7 @@ export const originsOfGreatAncientCivilizations = {
   slug: "origins-of-great-ancient-civilizations",
   title: "Origins of Great Ancient Civilizations",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 370.8,
   ownProgress: 0,
   partOfCollections: [

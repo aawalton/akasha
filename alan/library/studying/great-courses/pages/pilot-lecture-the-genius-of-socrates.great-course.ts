@@ -7,7 +7,7 @@ export const pilotLectureTheGeniusOfSocrates = {
   title: "Pilot Lecture: The Genius of Socrates",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 26.4,
   ownProgress: 26.4,
   partOfCollections: [

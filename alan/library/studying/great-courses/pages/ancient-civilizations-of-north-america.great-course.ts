@@ -7,7 +7,7 @@ export const ancientCivilizationsOfNorthAmerica = {
   title: "Ancient Civilizations of North America",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 742.8,
   ownProgress: 742.8,
   partOfCollections: [

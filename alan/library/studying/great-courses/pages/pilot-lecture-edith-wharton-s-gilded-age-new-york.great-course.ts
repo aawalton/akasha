@@ -7,7 +7,7 @@ export const pilotLectureEdithWhartonSGildedAgeNewYork = {
   title: "Pilot Lecture: Edith Wharton’s Gilded Age New York",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 29.4,
   ownProgress: 29.4,
   partOfCollections: [

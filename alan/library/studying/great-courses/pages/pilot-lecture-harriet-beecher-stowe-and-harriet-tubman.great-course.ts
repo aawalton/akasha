@@ -7,7 +7,7 @@ export const pilotLectureHarrietBeecherStoweAndHarrietTubman = {
   title: "Pilot Lecture: Harriet Beecher Stowe and Harriet Tubman",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 36.6,
   ownProgress: 36.6,
   partOfCollections: [

@@ -7,7 +7,7 @@ export const nosferatuExaminedTheDraculaConnection = {
   title: "Nosferatu Examined: The Dracula Connection",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 10.8,
   ownProgress: 10.8,
   partOfCollections: [

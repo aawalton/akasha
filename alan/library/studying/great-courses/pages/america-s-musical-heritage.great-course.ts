@@ -7,7 +7,7 @@ export const americaSMusicalHeritage = {
   title: "America's Musical Heritage",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 355.2,
   ownProgress: 355.2,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const biologicalAnthropologyAnEvolutionaryPerspective = {
   slug: "biological-anthropology-an-evolutionary-perspective",
   title: "Biological Anthropology: An Evolutionary Perspective",
   status: "in-progress",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 726,
   ownProgress: 60.5,
   partOfCollections: [

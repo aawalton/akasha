@@ -6,7 +6,7 @@ export const radioAstronomyObservingTheInvisibleUniverse = {
   slug: "radio-astronomy-observing-the-invisible-universe",
   title: "Radio Astronomy: Observing the Invisible Universe",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 761.4,
   ownProgress: 0,
   partOfCollections: [

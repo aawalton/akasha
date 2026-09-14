@@ -7,7 +7,7 @@ export const crochetToolkitDesignerTipsAndTricks = {
   title: "Crochet Toolkit: Designer Tips & Tricks",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 124.2,
   ownProgress: 124.2,
   partOfCollections: [

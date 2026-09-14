@@ -7,7 +7,7 @@ export const fundamentalsOfPhotographyIi = {
   title: "Fundamentals of Photography II",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 732.6,
   ownProgress: 732.6,
   partOfCollections: [

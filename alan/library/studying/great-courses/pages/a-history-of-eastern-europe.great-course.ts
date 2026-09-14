@@ -7,7 +7,7 @@ export const aHistoryOfEasternEurope = {
   title: "A History of Eastern Europe",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 724.8,
   ownProgress: 724.8,
   partOfCollections: [

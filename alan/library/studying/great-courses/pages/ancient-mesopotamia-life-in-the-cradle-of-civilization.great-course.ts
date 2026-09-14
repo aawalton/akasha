@@ -7,7 +7,7 @@ export const ancientMesopotamiaLifeInTheCradleOfCivilization = {
   title: "Ancient Mesopotamia: Life in the Cradle of Civilization",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 680.4,
   ownProgress: 680.4,
   partOfCollections: [

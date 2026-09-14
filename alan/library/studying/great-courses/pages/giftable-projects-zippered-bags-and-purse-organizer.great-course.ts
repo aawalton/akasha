@@ -7,7 +7,7 @@ export const giftableProjectsZipperedBagsAndPurseOrganizer = {
   title: "Giftable Projects: Zippered Bags & Purse Organizer",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 145.8,
   ownProgress: 145.8,
   partOfCollections: [

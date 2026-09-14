@@ -7,7 +7,7 @@ export const theBarbarianEmpiresOfTheSteppes = {
   title: "The Barbarian Empires of the Steppes",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1107,
   ownProgress: 1107,
   partOfCollections: [

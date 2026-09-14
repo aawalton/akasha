@@ -7,7 +7,7 @@ export const amigurumiWoodlandAnimals = {
   title: "Amigurumi: Woodland Animals",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 287.4,
   ownProgress: 287.4,
   partOfCollections: [

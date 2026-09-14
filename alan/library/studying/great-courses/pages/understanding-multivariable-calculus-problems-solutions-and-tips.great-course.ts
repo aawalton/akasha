@@ -6,7 +6,7 @@ export const understandingMultivariableCalculusProblemsSolutionsAndTips = {
   slug: "understanding-multivariable-calculus-problems-solutions-and-tips",
   title: "Understanding Multivariable Calculus: Problems, Solutions, and Tips",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1103.4,
   ownProgress: 0,
   partOfCollections: [

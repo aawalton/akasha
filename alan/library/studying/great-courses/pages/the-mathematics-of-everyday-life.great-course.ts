@@ -6,7 +6,7 @@ export const theMathematicsOfEverydayLife = {
   slug: "the-mathematics-of-everyday-life",
   title: "The Mathematics of Everyday Life",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 348,
   ownProgress: 0,
   partOfCollections: [

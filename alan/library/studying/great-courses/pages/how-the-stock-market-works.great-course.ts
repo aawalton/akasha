@@ -6,7 +6,7 @@ export const howTheStockMarketWorks = {
   slug: "how-the-stock-market-works",
   title: "How the Stock Market Works",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 555,
   ownProgress: 0,
   partOfCollections: [

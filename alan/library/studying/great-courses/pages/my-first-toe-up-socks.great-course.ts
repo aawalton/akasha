@@ -7,7 +7,7 @@ export const myFirstToeUpSocks = {
   title: "My First Toe-Up Socks",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 117,
   ownProgress: 117,
   partOfCollections: [

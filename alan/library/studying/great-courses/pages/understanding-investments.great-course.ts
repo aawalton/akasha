@@ -6,7 +6,7 @@ export const understandingInvestments = {
   slug: "understanding-investments",
   title: "Understanding Investments",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 706.8,
   ownProgress: 0,
   partOfCollections: [

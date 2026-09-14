@@ -7,7 +7,7 @@ export const theHumanCosmos = {
   title: "The Human Cosmos",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 69,
   ownProgress: 69,
   partOfCollections: [

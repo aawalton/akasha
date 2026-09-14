@@ -6,7 +6,7 @@ export const theHistoryOfChristianityIiFromTheReformationToTheModernMega = {
   slug: "the-history-of-christianity-ii-from-the-reformation-to-the-modern-mega",
   title: "The History of Christianity II: From the Reformation to the Modern Megachurch",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1074,
   ownProgress: 0,
   partOfCollections: [

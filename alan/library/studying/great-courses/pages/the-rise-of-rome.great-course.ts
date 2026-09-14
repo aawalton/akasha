@@ -7,7 +7,7 @@ export const theRiseOfRome = {
   title: "The Rise of Rome",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 733.8,
   ownProgress: 733.8,
   partOfCollections: [

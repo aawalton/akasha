@@ -7,7 +7,7 @@ export const theBlackDeathDidHumansSpreadThePlague = {
   title: "The Black Death: Did Humans Spread the Plague?",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 10.8,
   ownProgress: 10.8,
   partOfCollections: [

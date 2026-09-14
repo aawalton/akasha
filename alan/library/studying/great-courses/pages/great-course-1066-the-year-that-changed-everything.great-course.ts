@@ -7,7 +7,7 @@ export const greatCourse1066TheYearThatChangedEverything = {
   title: "1066: The Year That Changed Everything",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 204,
   ownProgress: 204,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const pyramidsOfTheWorld = {
   slug: "pyramids-of-the-world",
   title: "Pyramids of the World",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 364.766667,
   ownProgress: 0,
   partOfCollections: ["great-courses-collection/all-great-courses"],

@@ -7,7 +7,7 @@ export const pilotLectureTortureInTheMiddleAgesMythsAndReality = {
   title: "Pilot Lecture: Torture in the Middle Ages: Myths and Reality",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 33,
   ownProgress: 33,
   partOfCollections: [

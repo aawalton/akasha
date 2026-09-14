@@ -6,7 +6,7 @@ export const psychologyOfHumanBehavior = {
   slug: "psychology-of-human-behavior",
   title: "Psychology of Human Behavior",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1111.2,
   ownProgress: 0,
   partOfCollections: [

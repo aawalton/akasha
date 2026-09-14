@@ -6,7 +6,7 @@ export const electricalEngineeringForEveryone = {
   slug: "electrical-engineering-for-everyone",
   title: "Electrical Engineering for Everyone",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 756.6,
   ownProgress: 0,
   partOfCollections: [

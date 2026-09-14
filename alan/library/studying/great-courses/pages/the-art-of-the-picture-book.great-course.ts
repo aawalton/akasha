@@ -7,7 +7,7 @@ export const theArtOfThePictureBook = {
   title: "The Art of the Picture Book",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 163.716667,
   ownProgress: 163.716667,
   partOfCollections: ["great-courses-collection/all-great-courses"],

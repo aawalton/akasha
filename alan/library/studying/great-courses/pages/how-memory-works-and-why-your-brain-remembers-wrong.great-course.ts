@@ -6,7 +6,7 @@ export const howMemoryWorksAndWhyYourBrainRemembersWrong = {
   slug: "how-memory-works-and-why-your-brain-remembers-wrong",
   title: "How Memory Works and Why Your Brain Remembers Wrong",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 350.4,
   ownProgress: 0,
   partOfCollections: [

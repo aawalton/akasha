@@ -7,7 +7,7 @@ export const citiesOfTheAncientWorld = {
   title: "Cities of the Ancient World",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 709.8,
   ownProgress: 709.8,
   partOfCollections: [

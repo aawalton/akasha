@@ -6,7 +6,7 @@ export const theAddictiveBrain = {
   slug: "the-addictive-brain",
   title: "The Addictive Brain",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 383.4,
   ownProgress: 0,
   partOfCollections: [

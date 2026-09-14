@@ -6,7 +6,7 @@ export const howToSing = {
   slug: "how-to-sing",
   title: "How to Sing",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1117.2,
   ownProgress: 0,
   partOfCollections: [

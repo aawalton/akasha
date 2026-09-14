@@ -6,7 +6,7 @@ export const theRealHistoryOfDracula = {
   slug: "the-real-history-of-dracula",
   title: "The Real History of Dracula",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 270,
   ownProgress: 0,
   partOfCollections: [

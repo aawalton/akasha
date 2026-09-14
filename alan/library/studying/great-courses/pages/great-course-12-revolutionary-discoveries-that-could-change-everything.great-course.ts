@@ -7,7 +7,7 @@ export const greatCourse12RevolutionaryDiscoveriesThatCouldChangeEverything = {
   title: "12 Revolutionary Discoveries That Could Change Everything",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 225,
   ownProgress: 225,
   partOfCollections: [

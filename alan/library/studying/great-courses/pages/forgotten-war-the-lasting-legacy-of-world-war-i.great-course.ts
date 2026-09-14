@@ -7,7 +7,7 @@ export const forgottenWarTheLastingLegacyOfWorldWarI = {
   title: "Forgotten War: The Lasting Legacy of World War I",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 21,
   ownProgress: 21,
   partOfCollections: [

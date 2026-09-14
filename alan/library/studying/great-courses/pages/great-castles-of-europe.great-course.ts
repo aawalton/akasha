@@ -6,7 +6,7 @@ export const greatCastlesOfEurope = {
   slug: "great-castles-of-europe",
   title: "Great Castles of Europe",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 767.4,
   ownProgress: 0,
   partOfCollections: [

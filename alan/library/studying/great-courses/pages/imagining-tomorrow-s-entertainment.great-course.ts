@@ -6,7 +6,7 @@ export const imaginingTomorrowSEntertainment = {
   slug: "imagining-tomorrow-s-entertainment",
   title: "Imagining Tomorrow’s Entertainment",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 249,
   ownProgress: 0,
   partOfCollections: [

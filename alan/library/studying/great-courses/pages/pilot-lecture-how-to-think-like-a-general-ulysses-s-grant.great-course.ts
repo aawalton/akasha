@@ -7,7 +7,7 @@ export const pilotLectureHowToThinkLikeAGeneralUlyssesSGrant = {
   title: "Pilot Lecture: How to Think like a General—Ulysses S. Grant",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 31.2,
   ownProgress: 31.2,
   partOfCollections: [

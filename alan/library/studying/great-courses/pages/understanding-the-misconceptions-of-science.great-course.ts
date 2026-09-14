@@ -6,7 +6,7 @@ export const understandingTheMisconceptionsOfScience = {
   slug: "understanding-the-misconceptions-of-science",
   title: "Understanding the Misconceptions of Science",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 738,
   ownProgress: 0,
   partOfCollections: [

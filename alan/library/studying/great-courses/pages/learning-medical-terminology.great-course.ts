@@ -6,7 +6,7 @@ export const learningMedicalTerminology = {
   slug: "learning-medical-terminology",
   title: "Learning Medical Terminology",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 622.966667,
   ownProgress: 0,
   partOfCollections: ["great-courses-collection/all-great-courses"],

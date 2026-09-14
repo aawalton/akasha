@@ -7,7 +7,7 @@ export const theRemarkableScienceOfAncientAstronomy = {
   title: "The Remarkable Science of Ancient Astronomy",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 715.8,
   ownProgress: 715.8,
   partOfCollections: [

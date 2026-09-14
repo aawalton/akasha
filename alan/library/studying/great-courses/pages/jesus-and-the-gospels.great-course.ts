@@ -6,7 +6,7 @@ export const jesusAndTheGospels = {
   slug: "jesus-and-the-gospels",
   title: "Jesus and the Gospels",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1100.4,
   ownProgress: 0,
   partOfCollections: [

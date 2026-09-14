@@ -6,7 +6,7 @@ export const greatBattlesOfTheAncientWorld = {
   slug: "great-battles-of-the-ancient-world",
   title: "Great Battles of the Ancient World",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 745.2,
   ownProgress: 0,
   partOfCollections: [

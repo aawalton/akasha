@@ -6,7 +6,7 @@ export const worldWarIThe = {
   slug: "world-war-i-the",
   title: "World War I: The",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1120.2,
   ownProgress: 0,
   partOfCollections: [

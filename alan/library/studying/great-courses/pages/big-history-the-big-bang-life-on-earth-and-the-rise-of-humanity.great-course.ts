@@ -7,7 +7,7 @@ export const bigHistoryTheBigBangLifeOnEarthAndTheRiseOfHumanity = {
   title: "Big History: The Big Bang, Life on Earth, and the Rise of Humanity",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1482.6,
   ownProgress: 1482.6,
   partOfCollections: [

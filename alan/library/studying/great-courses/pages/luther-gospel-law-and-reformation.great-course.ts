@@ -6,7 +6,7 @@ export const lutherGospelLawAndReformation = {
   slug: "luther-gospel-law-and-reformation",
   title: "Luther: Gospel, Law, and Reformation",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 736.8,
   ownProgress: 0,
   partOfCollections: [

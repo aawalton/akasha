@@ -6,7 +6,7 @@ export const earthSChangingClimate = {
   slug: "earth-s-changing-climate",
   title: "Earth's Changing Climate",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 368.4,
   ownProgress: 0,
   partOfCollections: [

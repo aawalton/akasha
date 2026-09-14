@@ -6,7 +6,7 @@ export const storytellingAndTheHumanCondition = {
   slug: "storytelling-and-the-human-condition",
   title: "Storytelling and the Human Condition",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 380.4,
   ownProgress: 0,
   partOfCollections: [

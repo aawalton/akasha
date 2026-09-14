@@ -7,7 +7,7 @@ export const woodworkingEssentialsBenchesAndBoxes = {
   title: "Woodworking Essentials: Benches & Boxes",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 184.8,
   ownProgress: 184.8,
   partOfCollections: [

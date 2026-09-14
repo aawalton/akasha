@@ -7,7 +7,7 @@ export const theGeniusOfMichelangelo = {
   title: "The Genius of Michelangelo",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1075.8,
   ownProgress: 1075.8,
   partOfCollections: [

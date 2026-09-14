@@ -7,7 +7,7 @@ export const theBlackDeathTheWorldSMostDevastatingPlague = {
   title: "The Black Death: The World's Most Devastating Plague",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 732.6,
   ownProgress: 732.6,
   partOfCollections: [

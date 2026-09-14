@@ -7,7 +7,7 @@ export const greatMindsOfTheMedievalWorld = {
   title: "Great Minds of the Medieval World",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 722.4,
   ownProgress: 722.4,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const worldWarIiAMilitaryAndSocialHistory = {
   slug: "world-war-ii-a-military-and-social-history",
   title: "World War II: A Military and Social History",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 910.2,
   ownProgress: 0,
   partOfCollections: [

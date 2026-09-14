@@ -6,7 +6,7 @@ export const natureOfEarthAnIntroductionToGeology = {
   slug: "nature-of-earth-an-introduction-to-geology",
   title: "Nature of Earth: An Introduction to Geology",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1087.2,
   ownProgress: 0,
   partOfCollections: [

@@ -7,7 +7,7 @@ export const historyOfTheEnglishLanguage2ndEdition = {
   title: "History of the English Language, 2nd Edition",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1101,
   ownProgress: 1101,
   partOfCollections: [

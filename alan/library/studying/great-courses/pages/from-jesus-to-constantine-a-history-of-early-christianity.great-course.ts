@@ -6,7 +6,7 @@ export const fromJesusToConstantineAHistoryOfEarlyChristianity = {
   slug: "from-jesus-to-constantine-a-history-of-early-christianity",
   title: "From Jesus to Constantine: A History of Early Christianity",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 735.6,
   ownProgress: 0,
   partOfCollections: [

@@ -7,7 +7,7 @@ export const dutchMastersTheAgeOfRembrandt = {
   title: "Dutch Masters: The Age of Rembrandt",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1083,
   ownProgress: 1083,
   partOfCollections: [

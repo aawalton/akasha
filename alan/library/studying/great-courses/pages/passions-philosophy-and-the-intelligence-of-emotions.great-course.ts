@@ -6,7 +6,7 @@ export const passionsPhilosophyAndTheIntelligenceOfEmotions = {
   slug: "passions-philosophy-and-the-intelligence-of-emotions",
   title: "Passions: Philosophy and the Intelligence of Emotions",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 752.4,
   ownProgress: 0,
   partOfCollections: [

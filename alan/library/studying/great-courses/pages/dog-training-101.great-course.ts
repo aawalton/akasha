@@ -7,7 +7,7 @@ export const dogTraining101 = {
   title: "Dog Training 101",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 755.4,
   ownProgress: 755.4,
   partOfCollections: [

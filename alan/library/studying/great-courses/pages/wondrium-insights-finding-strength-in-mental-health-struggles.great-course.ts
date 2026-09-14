@@ -7,7 +7,7 @@ export const wondriumInsightsFindingStrengthInMentalHealthStruggles = {
   title: "Wondrium Insights: Finding Strength in Mental Health Struggles",
   status: "completed",
   rank: "A",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 177.6,
   ownProgress: 177.6,
   partOfCollections: [

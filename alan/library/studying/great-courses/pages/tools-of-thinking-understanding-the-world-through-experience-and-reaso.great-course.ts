@@ -6,7 +6,7 @@ export const toolsOfThinkingUnderstandingTheWorldThroughExperienceAndReaso = {
   slug: "tools-of-thinking-understanding-the-world-through-experience-and-reaso",
   title: "Tools of Thinking: Understanding the World through Experience and Reason",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 728.866667,
   ownProgress: 0,
   partOfCollections: ["great-courses-collection/all-great-courses"],

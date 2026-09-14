@@ -6,7 +6,7 @@ export const turningPointsInModernHistory = {
   slug: "turning-points-in-modern-history",
   title: "Turning Points in Modern History",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 739.2,
   ownProgress: 0,
   partOfCollections: [

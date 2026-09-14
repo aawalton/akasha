@@ -6,7 +6,7 @@ export const greekTragedy = {
   slug: "greek-tragedy",
   title: "Greek Tragedy",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 741,
   ownProgress: 0,
   partOfCollections: [

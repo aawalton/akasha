@@ -6,7 +6,7 @@ export const theIliadOfHomer = {
   slug: "the-iliad-of-homer",
   title: "The “Iliad” of Homer",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 365.416667,
   ownProgress: 0,
   partOfCollections: ["great-courses-collection/all-great-courses"],

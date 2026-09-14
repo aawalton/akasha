@@ -7,7 +7,7 @@ export const pilotLectureWhatWeKnowAndDonTKnowAboutTheBigBang = {
   title: "Pilot Lecture: What We Know (and Don’t Know) about the Big Bang",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 27,
   ownProgress: 27,
   partOfCollections: [

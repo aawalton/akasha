@@ -7,7 +7,7 @@ export const pilotLectureMaxPlanckAndTheUltravioletCatastrophe = {
   title: "Pilot Lecture: Max Planck and the Ultraviolet Catastrophe",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 19.8,
   ownProgress: 19.8,
   partOfCollections: [

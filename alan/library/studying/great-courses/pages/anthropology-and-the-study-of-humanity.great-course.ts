@@ -7,7 +7,7 @@ export const anthropologyAndTheStudyOfHumanity = {
   title: "Anthropology and the Study of Humanity",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 720.6,
   ownProgress: 720.6,
   partOfCollections: [

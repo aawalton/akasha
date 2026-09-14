@@ -7,7 +7,7 @@ export const essentialsOfStrengthTraining = {
   title: "Essentials of Strength Training",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 219,
   ownProgress: 219,
   partOfCollections: [

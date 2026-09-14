@@ -6,7 +6,7 @@ export const greatRiversThatShapedHistory = {
   slug: "great-rivers-that-shaped-history",
   title: "Great Rivers That Shaped History",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 24,
   ownProgress: 0,
   partOfCollections: [

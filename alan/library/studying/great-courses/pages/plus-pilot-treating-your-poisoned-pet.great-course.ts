@@ -7,7 +7,7 @@ export const plusPilotTreatingYourPoisonedPet = {
   title: "Plus Pilot: Treating Your Poisoned Pet",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 29.4,
   ownProgress: 29.4,
   partOfCollections: [

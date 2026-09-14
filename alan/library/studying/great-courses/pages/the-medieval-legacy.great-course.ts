@@ -7,7 +7,7 @@ export const theMedievalLegacy = {
   title: "The Medieval Legacy",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1099.2,
   ownProgress: 1099.2,
   partOfCollections: [

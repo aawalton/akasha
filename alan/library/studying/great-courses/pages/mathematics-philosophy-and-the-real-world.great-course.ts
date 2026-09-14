@@ -6,7 +6,7 @@ export const mathematicsPhilosophyAndTheRealWorld = {
   slug: "mathematics-philosophy-and-the-real-world",
   title: "Mathematics, Philosophy, and the “Real World”",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1109.4,
   ownProgress: 0,
   partOfCollections: [

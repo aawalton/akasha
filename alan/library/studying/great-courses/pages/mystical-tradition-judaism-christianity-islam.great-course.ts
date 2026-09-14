@@ -6,7 +6,7 @@ export const mysticalTraditionJudaismChristianityIslam = {
   slug: "mystical-tradition-judaism-christianity-islam",
   title: "Mystical Tradition: Judaism, Christianity, Islam",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1091.816667,
   ownProgress: 0,
   partOfCollections: ["great-courses-collection/all-great-courses"],

@@ -6,7 +6,7 @@ export const scienceAndReligion = {
   slug: "science-and-religion",
   title: "Science and Religion",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 374.4,
   ownProgress: 0,
   partOfCollections: [

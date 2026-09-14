@@ -6,7 +6,7 @@ export const learnInAWeekend = {
   slug: "learn-in-a-weekend",
   title: "Learn in a Weekend",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 305.4,
   ownProgress: 0,
   partOfCollections: [

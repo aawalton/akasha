@@ -6,7 +6,7 @@ export const lawSchoolForEveryoneLegislationAndRegulation = {
   slug: "law-school-for-everyone-legislation-and-regulation",
   title: "Law School for Everyone: Legislation and Regulation",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 376.8,
   ownProgress: 0,
   partOfCollections: [

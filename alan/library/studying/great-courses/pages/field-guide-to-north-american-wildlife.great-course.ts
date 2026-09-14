@@ -6,7 +6,7 @@ export const fieldGuideToNorthAmericanWildlife = {
   slug: "field-guide-to-north-american-wildlife",
   title: "Field Guide to North American Wildlife",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 335.4,
   ownProgress: 0,
   partOfCollections: [

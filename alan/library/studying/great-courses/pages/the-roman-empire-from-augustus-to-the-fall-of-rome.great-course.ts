@@ -6,7 +6,7 @@ export const theRomanEmpireFromAugustusToTheFallOfRome = {
   slug: "the-roman-empire-from-augustus-to-the-fall-of-rome",
   title: "The Roman Empire: From Augustus to The Fall of Rome",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 772.2,
   ownProgress: 0,
   partOfCollections: [

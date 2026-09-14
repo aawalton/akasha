@@ -7,7 +7,7 @@ export const creativeFlavorsForCakesFillingsAndFrostings = {
   title: "Creative Flavors for Cakes, Fillings & Frostings",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 213,
   ownProgress: 213,
   partOfCollections: [

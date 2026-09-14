@@ -7,7 +7,7 @@ export const beingHumanLifeLessonsFromTheFrontiersOfScience = {
   title: "Being Human: Life Lessons from the Frontiers of Science",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 356.4,
   ownProgress: 356.4,
   partOfCollections: [

@@ -7,7 +7,7 @@ export const fundamentalsOfHomeMaintenanceFromRepairsToRenovations = {
   title: "Fundamentals of Home Maintenance: From Repairs to Renovations",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 653.4,
   ownProgress: 653.4,
   partOfCollections: [

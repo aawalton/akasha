@@ -6,7 +6,7 @@ export const theConservativeTradition = {
   slug: "the-conservative-tradition",
   title: "The Conservative Tradition",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1097.4,
   ownProgress: 0,
   partOfCollections: [

@@ -7,7 +7,7 @@ export const pilotLectureNavigatingHealthCareAnIntroductionToAnesthesia = {
   title: "Pilot Lecture: Navigating Health Care—An Introduction to Anesthesia",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 36,
   ownProgress: 36,
   partOfCollections: [

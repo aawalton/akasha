@@ -6,7 +6,7 @@ export const thePowerOfMathematicalThinkingFromNewtonSLawsToElectionsAnd = {
   slug: "the-power-of-mathematical-thinking-from-newton-s-laws-to-elections-and",
   title: "The Power of Mathematical Thinking: From Newton’s Laws to Elections and the Economy",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 760.2,
   ownProgress: 0,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const greatUtopianAndDystopianWorksOfLiterature = {
   slug: "great-utopian-and-dystopian-works-of-literature",
   title: "Great Utopian and Dystopian Works of Literature",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 748.8,
   ownProgress: 0,
   partOfCollections: [

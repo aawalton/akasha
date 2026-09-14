@@ -6,7 +6,7 @@ export const einsteinSLegacyModernPhysicsAllAroundYou = {
   slug: "einstein-s-legacy-modern-physics-all-around-you",
   title: "Einstein’s Legacy: Modern Physics All around You",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 292.8,
   ownProgress: 0,
   partOfCollections: [

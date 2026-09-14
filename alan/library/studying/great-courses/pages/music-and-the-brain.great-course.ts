@@ -6,7 +6,7 @@ export const musicAndTheBrain = {
   slug: "music-and-the-brain",
   title: "Music and the Brain",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 554.4,
   ownProgress: 0,
   partOfCollections: [

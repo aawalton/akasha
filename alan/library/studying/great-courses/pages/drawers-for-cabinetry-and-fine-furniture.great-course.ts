@@ -7,7 +7,7 @@ export const drawersForCabinetryAndFineFurniture = {
   title: "Drawers for Cabinetry & Fine Furniture",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 202.8,
   ownProgress: 202.8,
   partOfCollections: [

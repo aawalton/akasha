@@ -6,7 +6,7 @@ export const theFallOfThePagansAndTheOriginsOfMedievalChristianity = {
   slug: "the-fall-of-the-pagans-and-the-origins-of-medieval-christianity",
   title: "The Fall of the Pagans and the Origins of Medieval Christianity",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 752.4,
   ownProgress: 0,
   partOfCollections: [

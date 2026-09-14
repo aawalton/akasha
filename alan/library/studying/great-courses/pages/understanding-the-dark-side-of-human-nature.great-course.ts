@@ -6,7 +6,7 @@ export const understandingTheDarkSideOfHumanNature = {
   slug: "understanding-the-dark-side-of-human-nature",
   title: "Understanding the Dark Side of Human Nature",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 740.4,
   ownProgress: 0,
   partOfCollections: [

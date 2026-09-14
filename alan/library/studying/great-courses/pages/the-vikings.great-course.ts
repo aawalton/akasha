@@ -6,7 +6,7 @@ export const theVikings = {
   slug: "the-vikings",
   title: "The Vikings",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1108.2,
   ownProgress: 0,
   partOfCollections: [

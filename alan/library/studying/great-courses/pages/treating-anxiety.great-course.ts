@@ -6,7 +6,7 @@ export const treatingAnxiety = {
   slug: "treating-anxiety",
   title: "Treating Anxiety",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 357,
   ownProgress: 0,
   partOfCollections: [

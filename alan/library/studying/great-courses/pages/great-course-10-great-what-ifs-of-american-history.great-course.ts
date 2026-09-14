@@ -7,7 +7,7 @@ export const greatCourse10GreatWhatIfsOfAmericanHistory = {
   title: "10 Great What-Ifs of American History",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 253.8,
   ownProgress: 253.8,
   partOfCollections: [

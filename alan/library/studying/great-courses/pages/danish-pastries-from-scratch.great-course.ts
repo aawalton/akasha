@@ -7,7 +7,7 @@ export const danishPastriesFromScratch = {
   title: "Danish Pastries From Scratch",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 171.15,
   ownProgress: 171.15,
   partOfCollections: ["great-courses-collection/all-great-courses"],

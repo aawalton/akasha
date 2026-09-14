@@ -6,7 +6,7 @@ export const gutHealthExplained = {
   slug: "gut-health-explained",
   title: "Gut Health Explained",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 259.8,
   ownProgress: 0,
   partOfCollections: [

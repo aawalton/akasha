@@ -6,7 +6,7 @@ export const theAgeOfHenryViii = {
   slug: "the-age-of-henry-viii",
   title: "The Age of Henry VIII",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 736.2,
   ownProgress: 0,
   partOfCollections: [

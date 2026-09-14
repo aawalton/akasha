@@ -6,7 +6,7 @@ export const theLong19thCenturyEuropeanHistoryFrom1789To1917 = {
   slug: "the-long-19th-century-european-history-from-1789-to-1917",
   title: "The Long 19th Century: European History from 1789 to 1917",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1101,
   ownProgress: 0,
   partOfCollections: [

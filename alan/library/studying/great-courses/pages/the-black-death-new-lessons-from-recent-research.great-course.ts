@@ -7,7 +7,7 @@ export const theBlackDeathNewLessonsFromRecentResearch = {
   title: "The Black Death: New Lessons from Recent Research",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 165.6,
   ownProgress: 165.6,
   partOfCollections: [

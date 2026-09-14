@@ -7,7 +7,7 @@ export const pilotLectureAncientMysteriesTheArkOfTheCovenant = {
   title: "Pilot Lecture: Ancient Mysteries - The Ark of the Covenant",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 34.2,
   ownProgress: 34.2,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const howScienceShapesScienceFiction = {
   slug: "how-science-shapes-science-fiction",
   title: "How Science Shapes Science Fiction",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 706.8,
   ownProgress: 0,
   partOfCollections: [

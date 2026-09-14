@@ -6,7 +6,7 @@ export const machiavelliInContext = {
   slug: "machiavelli-in-context",
   title: "Machiavelli in Context",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 736.5,
   ownProgress: 0,
   partOfCollections: ["great-courses-collection/all-great-courses"],

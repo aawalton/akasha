@@ -6,7 +6,7 @@ export const theGreatUnansweredQuestionsOfPhysics = {
   slug: "the-great-unanswered-questions-of-physics",
   title: "The Great Unanswered Questions of Physics",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 751.3,
   ownProgress: 0,
   partOfCollections: ["great-courses-collection/all-great-courses"],

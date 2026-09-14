@@ -7,7 +7,7 @@ export const customBuiltInShelves = {
   title: "Custom Built-In Shelves",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 84.6,
   ownProgress: 84.6,
   partOfCollections: [

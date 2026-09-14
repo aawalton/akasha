@@ -6,7 +6,7 @@ export const theHighMiddleAges = {
   slug: "the-high-middle-ages",
   title: "The High Middle Ages",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 743.4,
   ownProgress: 0,
   partOfCollections: [

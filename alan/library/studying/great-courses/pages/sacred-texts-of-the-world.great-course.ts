@@ -6,7 +6,7 @@ export const sacredTextsOfTheWorld = {
   slug: "sacred-texts-of-the-world",
   title: "Sacred Texts of the World",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1098.6,
   ownProgress: 0,
   partOfCollections: [

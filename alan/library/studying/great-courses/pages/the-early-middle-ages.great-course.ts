@@ -6,7 +6,7 @@ export const theEarlyMiddleAges = {
   slug: "the-early-middle-ages",
   title: "The Early Middle Ages",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 747,
   ownProgress: 0,
   partOfCollections: [

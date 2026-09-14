@@ -7,7 +7,7 @@ export const theUnitedStatesSince911 = {
   title: "The United States since 9/11",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 73.2,
   ownProgress: 73.2,
   partOfCollections: [

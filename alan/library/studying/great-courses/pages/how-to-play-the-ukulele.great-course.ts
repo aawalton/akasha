@@ -6,7 +6,7 @@ export const howToPlayTheUkulele = {
   slug: "how-to-play-the-ukulele",
   title: "How to Play the Ukulele",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 386.4,
   ownProgress: 0,
   partOfCollections: [

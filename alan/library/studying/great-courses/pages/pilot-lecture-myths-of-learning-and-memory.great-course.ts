@@ -7,7 +7,7 @@ export const pilotLectureMythsOfLearningAndMemory = {
   title: "Pilot Lecture: Myths of Learning and Memory",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 27,
   ownProgress: 27,
   partOfCollections: [

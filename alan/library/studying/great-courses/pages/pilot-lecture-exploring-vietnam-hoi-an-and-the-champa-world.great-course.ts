@@ -7,7 +7,7 @@ export const pilotLectureExploringVietnamHoiAnAndTheChampaWorld = {
   title: "Pilot Lecture: Exploring Vietnam—Hoi An and the Champa World",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 32.35,
   ownProgress: 32.35,
   partOfCollections: ["great-courses-collection/all-great-courses"],

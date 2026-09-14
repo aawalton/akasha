@@ -6,7 +6,7 @@ export const understandingTheOldTestament = {
   slug: "understanding-the-old-testament",
   title: "Understanding the Old Testament",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 669.6,
   ownProgress: 0,
   partOfCollections: [

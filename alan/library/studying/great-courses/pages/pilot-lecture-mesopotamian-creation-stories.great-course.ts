@@ -7,7 +7,7 @@ export const pilotLectureMesopotamianCreationStories = {
   title: "Pilot Lecture: Mesopotamian Creation Stories",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 31.2,
   ownProgress: 31.2,
   partOfCollections: [

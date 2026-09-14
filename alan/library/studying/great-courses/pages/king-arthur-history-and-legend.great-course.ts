@@ -7,7 +7,7 @@ export const kingArthurHistoryAndLegend = {
   title: "King Arthur: History and Legend",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 723.6,
   ownProgress: 723.6,
   partOfCollections: [

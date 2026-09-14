@@ -6,7 +6,7 @@ export const booksThatHaveMadeHistoryBooksThatCanChangeYourLife = {
   slug: "books-that-have-made-history-books-that-can-change-your-life",
   title: "Books That Have Made History: Books That Can Change Your Life",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1096.8,
   ownProgress: 0,
   partOfCollections: [

@@ -7,7 +7,7 @@ export const cookingBetterWithScience = {
   title: "Cooking Better with Science",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 357.6,
   ownProgress: 357.6,
   partOfCollections: [

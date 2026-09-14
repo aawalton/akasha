@@ -6,7 +6,7 @@ export const theSymphony = {
   slug: "the-symphony",
   title: "The Symphony",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1090.2,
   ownProgress: 0,
   partOfCollections: [

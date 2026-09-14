@@ -6,7 +6,7 @@ export const theClassicalLegacyAncientGreeceAndRome = {
   slug: "the-classical-legacy-ancient-greece-and-rome",
   title: "The Classical Legacy: Ancient Greece and Rome",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1,
   ownProgress: 0,
   partOfCollections: [

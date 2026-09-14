@@ -6,7 +6,7 @@ export const crossroadsOfCivilizationAHistoryOfCentralAsia = {
   slug: "crossroads-of-civilization-a-history-of-central-asia",
   title: "Crossroads of Civilization: A History of Central Asia",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 684.6,
   ownProgress: 0,
   partOfCollections: [

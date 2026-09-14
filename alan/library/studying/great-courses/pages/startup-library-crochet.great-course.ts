@@ -7,7 +7,7 @@ export const startupLibraryCrochet = {
   title: "Startup Library: Crochet",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 275.4,
   ownProgress: 275.4,
   partOfCollections: [

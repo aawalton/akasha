@@ -7,7 +7,7 @@ export const practicalGuideToSuicidePrevention = {
   title: "Practical Guide to Suicide Prevention",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 46.2,
   ownProgress: 46.2,
   partOfCollections: [

@@ -7,7 +7,7 @@ export const pilotLectureSocialConnectionAndYourHealth = {
   title: "Pilot Lecture: Social Connection and Your Health",
   status: "completed",
   rank: "A",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 35.683333,
   ownProgress: 35.683333,
   partOfCollections: ["great-courses-collection/all-great-courses"],

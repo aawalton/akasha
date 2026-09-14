@@ -7,7 +7,7 @@ export const reporting911AndWhyItStillMatters = {
   title: "Reporting 9/11 and Why It Still Matters",
   status: "completed",
   rank: "A",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 121.2,
   ownProgress: 121.2,
   partOfCollections: [

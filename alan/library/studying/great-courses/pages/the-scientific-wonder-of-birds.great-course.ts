@@ -6,7 +6,7 @@ export const theScientificWonderOfBirds = {
   slug: "the-scientific-wonder-of-birds",
   title: "The Scientific Wonder of Birds",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 327.6,
   ownProgress: 0,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const theManyHiddenWorldsOfQuantumMechanics = {
   slug: "the-many-hidden-worlds-of-quantum-mechanics",
   title: "The Many Hidden Worlds of Quantum Mechanics",
   status: "in-progress",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 716.4,
   ownProgress: 59.7,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const theAmericanWestHistoryMythAndLegacy = {
   slug: "the-american-west-history-myth-and-legacy",
   title: "The American West: History, Myth, and Legacy",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 727.8,
   ownProgress: 0,
   partOfCollections: [

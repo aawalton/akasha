@@ -7,7 +7,7 @@ export const shopEssentials = {
   title: "Shop Essentials",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 201.6,
   ownProgress: 201.6,
   partOfCollections: [

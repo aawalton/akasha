@@ -6,7 +6,7 @@ export const epicEngineeringFailuresAndTheLessonsTheyTeach = {
   slug: "epic-engineering-failures-and-the-lessons-they-teach",
   title: "Epic Engineering Failures and the Lessons They Teach",
   status: "in-progress",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 924,
   ownProgress: 177.692308,
   partOfCollections: [

@@ -7,7 +7,7 @@ export const mythsLiesAndHalfTruthsOfLanguageUsage = {
   title: "Myths, Lies, and Half-Truths of Language Usage",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 732,
   ownProgress: 732,
   partOfCollections: [

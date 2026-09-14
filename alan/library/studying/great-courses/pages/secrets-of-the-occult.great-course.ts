@@ -6,7 +6,7 @@ export const secretsOfTheOccult = {
   slug: "secrets-of-the-occult",
   title: "Secrets of the Occult",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 709.2,
   ownProgress: 0,
   partOfCollections: [

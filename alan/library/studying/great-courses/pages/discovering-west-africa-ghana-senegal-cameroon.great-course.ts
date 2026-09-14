@@ -7,7 +7,7 @@ export const discoveringWestAfricaGhanaSenegalCameroon = {
   title: "Discovering West Africa: Ghana, Senegal, Cameroon",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 247.8,
   ownProgress: 247.8,
   partOfCollections: [

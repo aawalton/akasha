@@ -6,7 +6,7 @@ export const greatMindsOfTheWesternIntellectualTradition3rdEdition = {
   slug: "great-minds-of-the-western-intellectual-tradition-3rd-edition",
   title: "Great Minds of the Western Intellectual Tradition, 3rd Edition",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: [

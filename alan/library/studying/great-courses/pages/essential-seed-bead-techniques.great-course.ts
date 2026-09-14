@@ -7,7 +7,7 @@ export const essentialSeedBeadTechniques = {
   title: "Essential Seed Bead Techniques",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 154.8,
   ownProgress: 154.8,
   partOfCollections: [

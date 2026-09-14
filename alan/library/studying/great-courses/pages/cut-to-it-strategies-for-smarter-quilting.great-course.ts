@@ -7,7 +7,7 @@ export const cutToItStrategiesForSmarterQuilting = {
   title: "Cut to It: Strategies for Smarter Quilting",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 196.8,
   ownProgress: 196.8,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const aLiteraryTourOfTheUnitedStates = {
   slug: "a-literary-tour-of-the-united-states",
   title: "A Literary Tour of the United States",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 672.6,
   ownProgress: 0,
   partOfCollections: [

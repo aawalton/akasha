@@ -7,7 +7,7 @@ export const thisDayInHistoryApril = {
   title: "This Day in History: April",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 88.2,
   ownProgress: 88.2,
   partOfCollections: [

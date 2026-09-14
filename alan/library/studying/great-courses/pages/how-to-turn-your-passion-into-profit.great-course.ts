@@ -6,7 +6,7 @@ export const howToTurnYourPassionIntoProfit = {
   slug: "how-to-turn-your-passion-into-profit",
   title: "How to Turn Your Passion into Profit",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 583.2,
   ownProgress: 0,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const exploringTheRootsOfReligion = {
   slug: "exploring-the-roots-of-religion",
   title: "Exploring the Roots of Religion",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1098.6,
   ownProgress: 0,
   partOfCollections: [

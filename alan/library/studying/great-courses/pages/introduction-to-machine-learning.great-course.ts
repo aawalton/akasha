@@ -6,7 +6,7 @@ export const introductionToMachineLearning = {
   slug: "introduction-to-machine-learning",
   title: "Introduction to Machine Learning",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 726,
   ownProgress: 0,
   partOfCollections: [

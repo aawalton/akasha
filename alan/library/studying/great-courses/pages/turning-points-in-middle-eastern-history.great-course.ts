@@ -6,7 +6,7 @@ export const turningPointsInMiddleEasternHistory = {
   slug: "turning-points-in-middle-eastern-history",
   title: "Turning Points in Middle Eastern History",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1099.8,
   ownProgress: 0,
   partOfCollections: [

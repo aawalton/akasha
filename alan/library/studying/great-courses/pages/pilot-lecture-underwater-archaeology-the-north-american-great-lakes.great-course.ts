@@ -7,7 +7,7 @@ export const pilotLectureUnderwaterArchaeologyTheNorthAmericanGreatLakes = {
   title: "Pilot Lecture: Underwater Archaeology - The North American Great Lakes",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 25.2,
   ownProgress: 25.2,
   partOfCollections: [

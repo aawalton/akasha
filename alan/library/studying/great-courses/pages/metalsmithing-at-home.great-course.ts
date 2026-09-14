@@ -7,7 +7,7 @@ export const metalsmithingAtHome = {
   title: "Metalsmithing at Home",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 404.4,
   ownProgress: 404.4,
   partOfCollections: [

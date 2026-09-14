@@ -6,7 +6,7 @@ export const fromYaoToMao5000YearsOfChineseHistory = {
   slug: "from-yao-to-mao-5000-years-of-chinese-history",
   title: "From Yao to Mao: 5000 Years of Chinese History",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1087.25,
   ownProgress: 0,
   partOfCollections: ["great-courses-collection/all-great-courses"],

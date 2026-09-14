@@ -6,7 +6,7 @@ export const memoryAndTheHumanLifespan = {
   slug: "memory-and-the-human-lifespan",
   title: "Memory and the Human Lifespan",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 724.2,
   ownProgress: 0,
   partOfCollections: [

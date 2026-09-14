@@ -7,7 +7,7 @@ export const pilotLectureWhatIsMoney = {
   title: "Pilot Lecture: What Is Money?",
   status: "completed",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 25.8,
   ownProgress: 25.8,
   partOfCollections: [

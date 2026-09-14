@@ -7,7 +7,7 @@ export const americanSignLanguageForEveryone = {
   title: "American Sign Language for Everyone",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 692.4,
   ownProgress: 692.4,
   partOfCollections: [

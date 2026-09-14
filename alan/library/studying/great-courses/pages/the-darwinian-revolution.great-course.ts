@@ -6,7 +6,7 @@ export const theDarwinianRevolution = {
   slug: "the-darwinian-revolution",
   title: "The Darwinian Revolution",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 726.6,
   ownProgress: 0,
   partOfCollections: [

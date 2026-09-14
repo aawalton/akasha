@@ -6,7 +6,7 @@ export const reconsideringJfk = {
   slug: "reconsidering-jfk",
   title: "Reconsidering JFK",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 358.8,
   ownProgress: 0,
   partOfCollections: [

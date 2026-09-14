@@ -7,7 +7,7 @@ export const essentialTechniquesEveryKnitterShouldKnow = {
   title: "Essential Techniques Every Knitter Should Know",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 202.2,
   ownProgress: 202.2,
   partOfCollections: [

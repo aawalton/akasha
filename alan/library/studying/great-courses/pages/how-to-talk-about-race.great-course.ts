@@ -6,7 +6,7 @@ export const howToTalkAboutRace = {
   slug: "how-to-talk-about-race",
   title: "How to Talk about Race",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 322.2,
   ownProgress: 0,
   partOfCollections: [

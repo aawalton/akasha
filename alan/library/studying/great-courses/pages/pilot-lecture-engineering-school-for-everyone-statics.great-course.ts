@@ -7,7 +7,7 @@ export const pilotLectureEngineeringSchoolForEveryoneStatics = {
   title: "Pilot Lecture: Engineering School for Everyone: Statics",
   status: "completed",
   rank: "D",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 29.4,
   ownProgress: 29.4,
   partOfCollections: [

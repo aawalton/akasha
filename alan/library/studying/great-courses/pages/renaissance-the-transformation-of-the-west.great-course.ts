@@ -7,7 +7,7 @@ export const renaissanceTheTransformationOfTheWest = {
   title: "Renaissance: The Transformation of the West",
   status: "completed",
   rank: "B",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 1596.6,
   ownProgress: 1596.6,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const understandingRussiaACulturalHistory = {
   slug: "understanding-russia-a-cultural-history",
   title: "Understanding Russia: A Cultural History",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 759.6,
   ownProgress: 0,
   partOfCollections: [

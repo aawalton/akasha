@@ -6,7 +6,7 @@ export const zeroToInfinityAHistoryOfNumbers = {
   slug: "zero-to-infinity-a-history-of-numbers",
   title: "Zero to Infinity: A History of Numbers",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 725.4,
   ownProgress: 0,
   partOfCollections: [

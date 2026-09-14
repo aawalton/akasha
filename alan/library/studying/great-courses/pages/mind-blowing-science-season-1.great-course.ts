@@ -6,7 +6,7 @@ export const mindBlowingScienceSeason1 = {
   slug: "mind-blowing-science-season-1",
   title: "Mind-Blowing Science: Season 1",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 247.8,
   ownProgress: 0,
   partOfCollections: [

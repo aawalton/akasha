@@ -6,7 +6,7 @@ export const norseMythology = {
   slug: "norse-mythology",
   title: "Norse Mythology",
   status: "in-progress",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 681,
   ownProgress: 56.75,
   partOfCollections: [

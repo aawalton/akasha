@@ -6,7 +6,7 @@ export const theScienceOfIntegrativeMedicine = {
   slug: "the-science-of-integrative-medicine",
   title: "The Science of Integrative Medicine",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 357,
   ownProgress: 0,
   partOfCollections: [

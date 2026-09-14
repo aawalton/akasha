@@ -6,7 +6,7 @@ export const introductionToCognitiveScience = {
   slug: "introduction-to-cognitive-science",
   title: "Introduction to Cognitive Science",
   status: "not-started",
-  unit: "minutes",
+  unit: "unit/minutes",
   ownLength: 783,
   ownProgress: 0,
   partOfCollections: [
