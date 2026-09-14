@@ -16,5 +16,5 @@ export const ruleTasksStolen = {
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",
   locked: true,
-  fromTemplate: "tasks-stolen",
+  fromTemplate: "temper-rule-template/tasks-stolen",
 } as const satisfies TemperInventoryRule

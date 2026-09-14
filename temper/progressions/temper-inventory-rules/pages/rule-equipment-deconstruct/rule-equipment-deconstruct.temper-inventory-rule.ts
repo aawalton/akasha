@@ -16,5 +16,5 @@ export const ruleEquipmentDeconstruct = {
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",
   locked: true,
-  fromTemplate: "equipment-deconstruct",
+  fromTemplate: "temper-rule-template/equipment-deconstruct",
 } as const satisfies TemperInventoryRule

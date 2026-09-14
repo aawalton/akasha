@@ -16,5 +16,5 @@ export const ruleTreasuresEpicStolen = {
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",
   locked: true,
-  fromTemplate: "treasures-epic-stolen",
+  fromTemplate: "temper-rule-template/treasures-epic-stolen",
 } as const satisfies TemperInventoryRule

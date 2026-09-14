@@ -16,5 +16,5 @@ export const ruleReconstructedNothing = {
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",
   locked: true,
-  fromTemplate: "reconstructed-nothing",
+  fromTemplate: "temper-rule-template/reconstructed-nothing",
 } as const satisfies TemperInventoryRule

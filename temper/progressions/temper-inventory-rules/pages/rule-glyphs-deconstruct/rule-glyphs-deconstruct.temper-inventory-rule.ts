@@ -16,5 +16,5 @@ export const ruleGlyphsDeconstruct = {
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",
   locked: true,
-  fromTemplate: "glyphs-deconstruct",
+  fromTemplate: "temper-rule-template/glyphs-deconstruct",
 } as const satisfies TemperInventoryRule

@@ -15,5 +15,5 @@ export const ruleMuseumPiecesNothing = {
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",
   locked: true,
-  fromTemplate: "museum-pieces-nothing",
+  fromTemplate: "temper-rule-template/museum-pieces-nothing",
 } as const satisfies TemperInventoryRule

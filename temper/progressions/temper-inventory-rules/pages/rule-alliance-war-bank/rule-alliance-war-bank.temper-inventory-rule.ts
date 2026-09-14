@@ -16,5 +16,5 @@ export const ruleAllianceWarBank = {
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",
   locked: true,
-  fromTemplate: "alliance-war-bank",
+  fromTemplate: "temper-rule-template/alliance-war-bank",
 } as const satisfies TemperInventoryRule

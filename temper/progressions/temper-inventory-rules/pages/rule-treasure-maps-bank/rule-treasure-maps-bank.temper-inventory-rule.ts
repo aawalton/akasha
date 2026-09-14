@@ -16,5 +16,5 @@ export const ruleTreasureMapsBank = {
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",
   locked: true,
-  fromTemplate: "treasure-maps-bank",
+  fromTemplate: "temper-rule-template/treasure-maps-bank",
 } as const satisfies TemperInventoryRule

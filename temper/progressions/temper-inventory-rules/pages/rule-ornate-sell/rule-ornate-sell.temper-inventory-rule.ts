@@ -16,5 +16,5 @@ export const ruleOrnateSell = {
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",
   locked: true,
-  fromTemplate: "ornate-sell",
+  fromTemplate: "temper-rule-template/ornate-sell",
 } as const satisfies TemperInventoryRule

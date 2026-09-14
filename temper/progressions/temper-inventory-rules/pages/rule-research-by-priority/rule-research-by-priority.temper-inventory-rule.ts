@@ -17,5 +17,5 @@ export const ruleResearchByPriority = {
   active: true,
   updatedAt: "2026-05-04T16:05:00.238Z",
   locked: true,
-  fromTemplate: "research-by-priority",
+  fromTemplate: "temper-rule-template/research-by-priority",
 } as const satisfies TemperInventoryRule

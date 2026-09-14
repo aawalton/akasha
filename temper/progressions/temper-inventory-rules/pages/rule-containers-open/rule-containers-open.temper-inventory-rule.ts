@@ -16,5 +16,5 @@ export const ruleContainersOpen = {
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",
   locked: true,
-  fromTemplate: "containers-open",
+  fromTemplate: "temper-rule-template/containers-open",
 } as const satisfies TemperInventoryRule

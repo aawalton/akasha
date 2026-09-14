@@ -16,5 +16,5 @@ export const ruleDrinkNormalSell = {
   active: true,
   updatedAt: "2026-07-05T12:17:47.953Z",
   locked: true,
-  fromTemplate: "drink-normal-sell",
+  fromTemplate: "temper-rule-template/drink-normal-sell",
 } as const satisfies TemperInventoryRule

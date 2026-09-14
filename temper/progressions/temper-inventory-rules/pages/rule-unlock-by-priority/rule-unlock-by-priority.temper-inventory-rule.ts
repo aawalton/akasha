@@ -17,5 +17,5 @@ export const ruleUnlockByPriority = {
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",
   locked: true,
-  fromTemplate: "unlock-by-priority",
+  fromTemplate: "temper-rule-template/unlock-by-priority",
 } as const satisfies TemperInventoryRule

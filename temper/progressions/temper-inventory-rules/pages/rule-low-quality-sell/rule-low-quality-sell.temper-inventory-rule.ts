@@ -16,5 +16,5 @@ export const ruleLowQualitySell = {
   active: true,
   updatedAt: "2026-06-02T20:49:38.124Z",
   locked: true,
-  fromTemplate: "low-quality-sell",
+  fromTemplate: "temper-rule-template/low-quality-sell",
 } as const satisfies TemperInventoryRule
