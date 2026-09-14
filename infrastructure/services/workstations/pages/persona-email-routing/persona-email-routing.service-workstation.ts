@@ -5,7 +5,7 @@ export const personaEmailRouting = {
   type: "service-workstation",
   slug: "persona-email-routing",
   definition: "the service routing a persona's address once her page declares one",
-  enabled: false,
+  enabled: true,
   needsSecrets: true,
   systemd: {
     schedule: "*-*-* 05:20:00",
@@ -33,11 +33,6 @@ export const personaEmailRouting = {
     {
       invariantKind: "departure",
       statement: "A run over a zone already in step writes nothing, so a daily run costs one read.",
-    },
-    {
-      invariantKind: "stopgap",
-      statement:
-        "The service is not enabled until a run by hand has shown the token may write rules.",
     },
   ],
 } as const satisfies ServiceWorkstation
