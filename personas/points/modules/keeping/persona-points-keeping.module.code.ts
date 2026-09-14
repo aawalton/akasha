@@ -36,14 +36,6 @@ export function pointsTotalKept(root: string, persona: Paged): number | null {
   return numberKept(root, persona, POINTS_TOTAL)
 }
 
-export function keepPointsBeforeToday(root: string, persona: Paged, points: number): undefined {
-  const today = pointsTodayKept(root, persona) ?? 0
-  mergeUncommitted(root, persona.path, {
-    [POINTS_BEFORE_TODAY]: points,
-    [POINTS_TOTAL]: points + today,
-  })
-}
-
 export function keepPointsToday(root: string, persona: Paged, points: number): undefined {
   const before = pointsBeforeTodayKept(root, persona) ?? 0
   mergeUncommitted(root, persona.path, {

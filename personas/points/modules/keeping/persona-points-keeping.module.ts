@@ -34,15 +34,11 @@ export const personaPointsKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "Keeping either half replaces the total rather than adding to the total.",
+      statement: "Keeping today's points replaces the total rather than adding to the total.",
     },
     {
       invariantKind: "departure",
       statement: "Both halves kept at once read back neither half from before.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A persona whose today is unread totals the points before today alone.",
     },
     {
       invariantKind: "departure",

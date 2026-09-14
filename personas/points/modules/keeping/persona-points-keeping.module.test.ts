@@ -3,7 +3,6 @@ import { existsSync, mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import {
   keepPoints,
-  keepPointsBeforeToday,
   keepPointsToday,
   pointsBeforeTodayKept,
   pointsIn,
@@ -58,28 +57,11 @@ test("a persona carrying nothing before today totals today's points alone", () =
   })
 })
 
-test("a persona whose today is unread totals the points before today alone", () => {
-  over((root) => {
-    keepPointsBeforeToday(root, PROBE, 7)
-    expect(pointsBeforeTodayKept(root, PROBE)).toBe(7)
-    expect(pointsTotalKept(root, PROBE)).toBe(7)
-    return undefined
-  })
-})
-
 test("the total is the points before today and today's points together", () => {
   over((root) => {
-    keepPointsBeforeToday(root, PROBE, 7)
+    keepPoints(root, PROBE, 7, 0)
     keepPointsToday(root, PROBE, 1.5)
-    expect(pointsTotalKept(root, PROBE)).toBe(8.5)
-    return undefined
-  })
-})
-
-test("keeping the points before today counts today's points into the total", () => {
-  over((root) => {
-    keepPointsToday(root, PROBE, 1.5)
-    keepPointsBeforeToday(root, PROBE, 7)
+    expect(pointsBeforeTodayKept(root, PROBE)).toBe(7)
     expect(pointsTotalKept(root, PROBE)).toBe(8.5)
     return undefined
   })
