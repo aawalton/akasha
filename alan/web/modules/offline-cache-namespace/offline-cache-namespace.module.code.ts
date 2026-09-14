@@ -4,10 +4,6 @@ export function setOfflineCacheUserKey(userId: string | null): undefined {
   cacheUserKey = userId
 }
 
-export function getOfflineCacheUserKey(): string | null {
-  return cacheUserKey
-}
-
 export function offlineCachePrefix(): string | null {
   return cacheUserKey === null ? null : `u-${cacheUserKey}--`
 }
