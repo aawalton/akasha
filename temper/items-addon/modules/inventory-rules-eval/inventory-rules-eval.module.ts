@@ -31,6 +31,10 @@ export const inventoryRulesEval = {
     },
     {
       invariantKind: "departure",
+      statement: "Every judging is told whether the price source answered with no price table.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Nothing is recorded for an item the addon did not judge.",
     },
   ],

@@ -2,7 +2,10 @@ import { buildItemFactsForLink } from "akasha/temper/items-addon/modules/invento
 import { buildCompiledCharacterPriority } from "akasha/temper/items-addon/modules/inventory-character-priority/inventory-character-priority.module.code.ts"
 import { buildEsoEvalEnv } from "akasha/temper/items-addon/modules/inventory-eso-eval-env/inventory-eso-eval-env.module.code.ts"
 import { buildMatchContext } from "akasha/temper/items-addon/modules/inventory-explain-match-context/inventory-explain-match-context.module.code.ts"
-import { findItemInInventory } from "akasha/temper/items-addon/modules/inventory-item-data/inventory-item-data.module.code.ts"
+import {
+  findItemInInventory,
+  resolvePriceSource,
+} from "akasha/temper/items-addon/modules/inventory-item-data/inventory-item-data.module.code.ts"
 import {
   classifyItem,
   gatherSignals,
@@ -285,7 +288,10 @@ export function buildExplainTrace(itemLink: string): ExplainTrace | undefined {
     }
   }
 
-  const ctx: EvalContext = { env: buildEsoEvalEnv() }
+  const ctx: EvalContext = {
+    env: buildEsoEvalEnv(),
+    priceTableMissing: resolvePriceSource() === "ttc-no-table",
+  }
   const ruleTrace: WalkTrace = walkRules(compiled.orderedRules, facts, ctx)
   const rules = compiled.orderedRules
 

@@ -52,7 +52,12 @@ export const temperItemsRulesEval = {
     },
     {
       invariantKind: "departure",
-      statement: "A missing market value passes a zero threshold rather than going indeterminate.",
+      statement:
+        "A missing market value passes a zero threshold where the price source holds a price table.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A price source holding no table makes a value unknown rather than zero.",
     },
     {
       invariantKind: "departure",

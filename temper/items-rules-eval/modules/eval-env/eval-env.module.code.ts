@@ -85,6 +85,7 @@ export interface WantedEquipmentFacts {
 
 export interface EvalContext {
   readonly env: EvalEnv
+  readonly priceTableMissing?: boolean
   readonly claimedByCharacter?: ClaimMap
   readonly skipStock?: boolean
   readonly stockGroupByRuleId?: ReadonlyMap<string, ReadonlySet<number>>

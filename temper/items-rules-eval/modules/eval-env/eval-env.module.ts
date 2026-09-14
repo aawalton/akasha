@@ -21,6 +21,14 @@ export const evalEnv = {
         "The evaluation context has the claim map and the stock groups beside the environment.",
     },
     {
+      invariantKind: "departure",
+      statement: "The context says whether the price source answered with no price table.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A context saying nothing of that is read as a price source holding a table.",
+    },
+    {
       invariantKind: "constraint",
       statement:
         "A wanted-equipment lookup takes equipType and traitType and quality as one bundle.",

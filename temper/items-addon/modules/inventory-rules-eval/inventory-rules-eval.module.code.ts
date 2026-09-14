@@ -5,7 +5,10 @@ import {
 } from "akasha/temper/items-addon/modules/inventory-build-item-facts/inventory-build-item-facts.module.code.ts"
 import { refreshEquipmentLockOverlays } from "akasha/temper/items-addon/modules/inventory-equipment-lock-overlay/inventory-equipment-lock-overlay.module.code.ts"
 import { buildEsoEvalEnv } from "akasha/temper/items-addon/modules/inventory-eso-eval-env/inventory-eso-eval-env.module.code.ts"
-import { isItemLocked } from "akasha/temper/items-addon/modules/inventory-item-data/inventory-item-data.module.code.ts"
+import {
+  isItemLocked,
+  resolvePriceSource,
+} from "akasha/temper/items-addon/modules/inventory-item-data/inventory-item-data.module.code.ts"
 import {
   getEffectiveItemRuleAction,
   getItemRuleVerdictAction,
@@ -109,6 +112,7 @@ export function findMatchedRule(
   const env = buildEsoEvalEnv()
   const ctx: EvalContext = {
     env,
+    priceTableMissing: resolvePriceSource() === "ttc-no-table",
     claimedByCharacter: claims,
     stockGroupByRuleId: stockGroups,
   }

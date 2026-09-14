@@ -34,6 +34,21 @@ export const checkNumeric = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "An item priced by nothing is worth nothing only where the price source has a table.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A price source answering with no table makes that one threshold indeterminate rather than met.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A threshold an unknown value already fails is failed whether or not a table is there.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A missing merchant value and a missing replacement cost each count as zero.",
     },
   ],

@@ -9,6 +9,7 @@ import {
   findItemInInventory,
   isItemLinkCraftedSafe,
   lookupTtcPricing,
+  resolvePriceSource,
 } from "akasha/temper/items-addon/modules/inventory-item-data/inventory-item-data.module.code.ts"
 import { captureOrNull } from "akasha/temper/items-addon/modules/inventory-match-capture/inventory-match-capture.module.code.ts"
 import { isItemLinkQuestRelevant } from "akasha/temper/items-addon/modules/inventory-quest-relevance/inventory-quest-relevance.module.code.ts"
@@ -176,7 +177,10 @@ export function onTemperRulesCommand(this: void, args: string): undefined {
 
   const facts = buildItemFactsForLink(itemLink)
   const env = buildEsoEvalEnv()
-  const ctx: EvalContext = { env }
+  const ctx: EvalContext = {
+    env,
+    priceTableMissing: resolvePriceSource() === "ttc-no-table",
+  }
 
   const renderCtx = buildMatchContextForRender(itemLink, chain)
 

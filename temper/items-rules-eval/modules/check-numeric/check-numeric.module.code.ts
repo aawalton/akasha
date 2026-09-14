@@ -6,10 +6,12 @@ import type { ConditionCheckResult } from "akasha/temper/items-rules-eval/module
 import type { EvalContext } from "akasha/temper/items-rules-eval/modules/eval-env/eval-env.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/modules/item-facts/item-facts.module.code.ts"
 
+const PRICE_TABLE = "ttc-price-table"
+
 export function checkNumeric(
   rule: CompiledOrderedRule,
   facts: ItemFacts,
-  _ctx: EvalContext
+  ctx: EvalContext
 ): ConditionCheckResult {
   const hasAny =
     rule.maxQuality !== undefined ||
@@ -59,6 +61,9 @@ export function checkNumeric(
       if (!(ruleValue === 0 && op === "<=")) {
         return { kind: "fail", conditionKind: "value", detail: "all value signals undefined" }
       }
+      if (ctx.priceTableMissing === true) {
+        return { kind: "indeterminate", conditionKind: "value", missingSignal: PRICE_TABLE }
+      }
     } else if (!compareWithOp(op, cv, ruleValue)) {
       return { kind: "fail", conditionKind: "value", detail: `${cv} ${op} ${ruleValue}` }
     }
@@ -71,6 +76,9 @@ export function checkNumeric(
     if (ev === undefined) {
       if (!(ruleMarketValue === 0 && op === "<=")) {
         return { kind: "fail", conditionKind: "marketValue", detail: "estimatedValue undefined" }
+      }
+      if (ctx.priceTableMissing === true) {
+        return { kind: "indeterminate", conditionKind: "marketValue", missingSignal: PRICE_TABLE }
       }
     } else if (!compareWithOp(op, ev, ruleMarketValue)) {
       return {
