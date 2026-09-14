@@ -9,7 +9,7 @@ export const whatTried = {
   extensions: ["txt"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This file has the garments themselves rather than how those garments came out.",
     },
   ],

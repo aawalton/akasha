@@ -9,12 +9,12 @@ export const arcStructure = {
   extensions: ["md"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An arc structure is a document beside its design rather than a line in the design.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An arc structure names every arc the story is planned to run through.",
     },
   ],

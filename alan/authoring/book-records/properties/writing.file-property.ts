@@ -9,11 +9,11 @@ export const writing = {
   extensions: ["md"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Writing is in a file beside its page rather than in the page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A document is kept here as the markdown the document was written in.",
     },
   ],

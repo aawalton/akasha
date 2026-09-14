@@ -9,11 +9,11 @@ export const prose = {
   extensions: ["txt"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Prose is in a file beside its page rather than in the page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page whose text would outrun a description has the text here.",
     },
   ],

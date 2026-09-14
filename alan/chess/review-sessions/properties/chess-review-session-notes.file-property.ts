@@ -9,7 +9,7 @@ export const chessReviewSessionNotes = {
   extensions: ["txt"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The notes are the words said at the board rather than a summary written after.",
     },
   ],

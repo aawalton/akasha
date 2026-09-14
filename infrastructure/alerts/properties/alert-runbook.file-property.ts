@@ -9,11 +9,11 @@ export const alertRunbook = {
   extensions: ["txt"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A runbook is prose rather than a rule anything runs.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A runbook outlives the deployment gap the alert that runbook belongs to sits in.",
     },
   ],

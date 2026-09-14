@@ -9,7 +9,7 @@ export const lineSet = {
   extensions: ["json"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A grade is joined back onto a line's id.",
     },
   ],

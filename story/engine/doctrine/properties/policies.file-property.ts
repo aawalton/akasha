@@ -9,7 +9,7 @@ export const policies = {
   extensions: ["json"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A policy the pack owns is known by an id opening with doctrine.",
     },
   ],

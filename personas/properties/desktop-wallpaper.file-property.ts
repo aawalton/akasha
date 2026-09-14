@@ -12,25 +12,25 @@ export const desktopWallpaper = {
   holdsBytes: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A persona's desktop wallpaper is a file beside that persona's page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Whatever sets Alan's monitor reads this property rather than a path under his pictures.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A desktop wallpaper is shaped for the monitor Alan works at.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The rung a picture was made for is kept on the persona wallpaper page rather than here.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A workstation service sets the monitor from this property.",
     },
   ],

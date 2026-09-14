@@ -9,16 +9,16 @@ export const moduleTypes = {
   extensions: ["ts"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A module states its shared declarations here rather than in its code.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A caller naming a declaration alone does not load the code answering that declaration.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here runs.",
     },
   ],

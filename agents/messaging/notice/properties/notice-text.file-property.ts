@@ -9,11 +9,11 @@ export const noticeText = {
   extensions: ["md"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A notice's words sit in a file beside the page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Wrapping is the author's convenience rather than part of the words.",
     },
   ],

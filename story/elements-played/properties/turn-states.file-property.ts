@@ -9,15 +9,15 @@ export const turnStates = {
   extensions: ["jsonl"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One row is one json object on one line.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row states the same five faculties the element's page states.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row's position is the position of the turn the row is the state at.",
     },
   ],

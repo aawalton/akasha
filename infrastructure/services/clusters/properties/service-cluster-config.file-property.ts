@@ -9,11 +9,11 @@ export const serviceClusterConfig = {
   extensions: ["yaml"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The settings are the program's own rather than the cluster's.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A cluster service the cluster configures through its manifest alone states no config.",
     },

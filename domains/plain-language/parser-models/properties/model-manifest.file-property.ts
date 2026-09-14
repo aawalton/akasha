@@ -10,15 +10,15 @@ export const modelManifest = {
   generated: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The manifest names the classes and the relations the model can answer with.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The manifest names the checkpoint the model came from.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The manifest is kept outside the commit.",
     },
   ],

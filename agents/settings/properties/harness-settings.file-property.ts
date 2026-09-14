@@ -10,15 +10,15 @@ export const harnessSettings = {
   writtenBy: "module-property-group/telling",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A settings body reaches a harness through akasha code rather than off disk.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A settings body is written by hand apart from the keys akasha derives.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A key akasha derives is absent from the body rather than written by hand.",
     },
   ],

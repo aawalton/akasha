@@ -10,15 +10,15 @@ export const dashboardLayout = {
   runsFileLength: false,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A layout is the JSON a chart server reads.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A chart server writes this JSON rather than an author.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The byte ceiling is not judged over a layout.",
     },
   ],

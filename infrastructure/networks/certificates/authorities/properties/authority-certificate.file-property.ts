@@ -11,11 +11,11 @@ export const authorityCertificate = {
   generated: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The certificate is written in PEM rather than in DER.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "PEM carries a certificate as base64 text.",
     },
   ],

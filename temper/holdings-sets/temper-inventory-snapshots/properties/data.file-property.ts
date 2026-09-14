@@ -9,36 +9,36 @@ export const data = {
   extensions: ["json"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A data file is kept byte for byte as the capture handed the bytes over.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A data file has one whole JSON document rather than a piece of a document.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The pieces a reading arrived in are rejoined in chunk index order before landing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reading whose pieces rejoin to no JSON document has no data file.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "A data file has raw bytes that no page has yet been written for.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "The rows a data file has are being modelled as the reading's own entries.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "A data file goes once those entries are proved to have its rows.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement:
         "The transport's division is not carried into akasha with the bytes that transport divided.",
     },

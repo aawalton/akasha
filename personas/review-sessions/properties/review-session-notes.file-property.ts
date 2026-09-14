@@ -9,7 +9,7 @@ export const reviewSessionNotes = {
   extensions: ["txt"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The notes are the persona's own account rather than a summary of that account.",
     },
   ],

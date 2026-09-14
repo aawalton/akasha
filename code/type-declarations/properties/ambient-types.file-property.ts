@@ -10,23 +10,23 @@ export const ambientTypes = {
   runsFileLength: false,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The section is `d`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "TypeScript reads a name ending `.d.ts` as a declaration.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A compiler emits nothing from the types this file has.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A glob never reaches this file, because the page beside it has the same stem.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Compiler settings meaning to read this file name the file rather than a glob.",
     },
   ],

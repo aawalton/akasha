@@ -9,7 +9,7 @@ export const feltRead = {
   extensions: ["txt"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A felt read is Alan's own rather than the persona's reading of Alan.",
     },
   ],

@@ -9,11 +9,11 @@ export const subagentPrompt = {
   extensions: ["md"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A prompt sits in its own file rather than in a value beside the page.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A prompt says nothing about the work one subagent is given.",
     },
   ],

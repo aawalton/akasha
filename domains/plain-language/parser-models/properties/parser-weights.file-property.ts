@@ -12,11 +12,11 @@ export const parserWeights = {
   holdsBytes: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The graph is in the format the runtime already reads.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The graph is kept outside the commit.",
     },
   ],

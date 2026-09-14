@@ -9,25 +9,25 @@ export const appearance = {
   extensions: ["md"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "This property is how a persona describes herself rather than how an image of that persona was made.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A portrait that already describes a persona does not take the place of this property.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Two personas may look alike in their pictures.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Two personas may never sound alike in their words.",
     },
     {
-      invariantKind: "upkeep",
+      invariantKind: "invariant-kind/upkeep",
       statement: "An appearance names the ancestry the persona's anchor image shows.",
     },
   ],

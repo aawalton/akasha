@@ -9,11 +9,11 @@ export const storyPremise = {
   extensions: ["md"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A premise is a document beside its design rather than a line in the design.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A premise is written in the shape the story that premise opens is told in.",
     },
   ],

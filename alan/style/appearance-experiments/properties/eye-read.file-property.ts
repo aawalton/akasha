@@ -9,7 +9,7 @@ export const eyeRead = {
   extensions: ["txt"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An eye read is the persona's reading rather than Alan's.",
     },
   ],

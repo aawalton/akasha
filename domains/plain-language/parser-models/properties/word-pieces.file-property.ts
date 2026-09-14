@@ -10,11 +10,11 @@ export const wordPieces = {
   generated: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The trained model knows each piece by a number.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The pieces are kept outside the commit.",
     },
   ],

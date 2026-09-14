@@ -9,23 +9,23 @@ export const crateIcon = {
   extensions: ["json"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A crate's icon is a picture rather than text.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The picture is carried as base64 in json.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The file has no NUL byte.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A crate's icon is in akasha rather than outside it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The seam building the crate writes the picture where Cargo reads that picture.",
     },
   ],

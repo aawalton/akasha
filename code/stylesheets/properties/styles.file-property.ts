@@ -10,15 +10,15 @@ export const styles = {
   toolResolvesPaths: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Rules are written in CSS.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A path in a stylesheet is a specifier a bundler resolves rather than a place.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A change moving what such a specifier reaches repoints that specifier.",
     },
   ],

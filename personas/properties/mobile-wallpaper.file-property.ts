@@ -12,20 +12,20 @@ export const mobileWallpaper = {
   holdsBytes: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A persona's mobile wallpaper is a file beside that persona's page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The route serving Alan's phone reads this property rather than a persona's cover.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A persona's mobile wallpaper is shaped for a phone screen.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement:
         "A mobile wallpaper has a persona's cover picture until a picture is drawn for a phone.",
     },
