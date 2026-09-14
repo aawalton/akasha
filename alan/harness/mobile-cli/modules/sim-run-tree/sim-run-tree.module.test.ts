@@ -2,7 +2,6 @@ import { describe, expect, test } from "bun:test"
 import type { MobileApp } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
 import {
   shellRepoPath,
-  simRunNativeShellDir,
   simRunRootRel,
   simRunSharedRepoPaths,
   simRunSourceRepoPaths,
@@ -78,11 +77,5 @@ describe("simRunSourceRepoPaths", () => {
   test("an app delivers its own shell and the shared files and nothing else", () => {
     expect(new Set(paths).size).toBe(paths.length)
     expect(paths.slice(1)).toEqual([...simRunSharedRepoPaths()])
-  })
-})
-
-describe("simRunNativeShellDir", () => {
-  test("names the delivered shell under the app's own run root in the home directory", () => {
-    expect(simRunNativeShellDir(APP)).toBe("$HOME/.mobile-sim-run/example/native-shell/example")
   })
 })

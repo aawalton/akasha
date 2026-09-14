@@ -4,21 +4,13 @@ export const simRunTree = {
   id: "01a05cee-e560-74ed-a1cf-c9f340983fda",
   type: "module",
   slug: "sim-run-tree",
-  definition: "the repo-root paths a mobile sim run is built from, delivered to the macbook",
+  definition: "the repo-root paths a mobile sim run is built from",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement: "A path is named from the repo root.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The shell package the app names reaches the macbook whole.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The pages every shell compiles reach the macbook as the files those pages carry.",
     },
     {
       invariantKind: "departure",
@@ -39,15 +31,6 @@ export const simRunTree = {
     {
       invariantKind: "departure",
       statement: "The icon is the one input named on the app's page rather than held in akasha.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "One missing path among the ones named refuses the delivery of every path.",
-    },
-    {
-      invariantKind: "constraint",
-      statement:
-        "A missing source path surfaces on the macbook as a swiftc failure inside an Xcode log.",
     },
   ],
 } as const satisfies Module
