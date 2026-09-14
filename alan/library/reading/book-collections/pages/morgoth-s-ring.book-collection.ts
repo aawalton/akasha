@@ -9,7 +9,7 @@ export const morgothSRing = {
   position: 10,
   ownLength: 0,
   ownProgress: 0,
-  unit: "words",
+  unit: "unit/words",
   status: "not-started",
   publishedAt: "1993-01-01",
 } as const satisfies BookCollection

@@ -9,7 +9,7 @@ export const theLordOfTheRingsBooks = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unit: "words",
+  unit: "unit/words",
   status: "following",
   rank: "A",
 } as const satisfies BookCollection

@@ -9,7 +9,7 @@ export const theTreasonOfIsengard = {
   position: 7,
   ownLength: 0,
   ownProgress: 0,
-  unit: "words",
+  unit: "unit/words",
   status: "not-started",
   publishedAt: "1989-01-01",
 } as const satisfies BookCollection

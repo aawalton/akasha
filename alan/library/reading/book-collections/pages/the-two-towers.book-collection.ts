@@ -9,7 +9,7 @@ export const theTwoTowers = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unit: "words",
+  unit: "unit/words",
   status: "completed",
   rank: "A",
   publishedAt: "1954-11-11",

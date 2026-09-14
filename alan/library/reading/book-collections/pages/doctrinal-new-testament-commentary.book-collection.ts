@@ -9,6 +9,6 @@ export const doctrinalNewTestamentCommentary = {
   position: 3,
   ownLength: 0,
   ownProgress: 0,
-  unit: "words",
+  unit: "unit/words",
   status: "paused",
 } as const satisfies BookCollection

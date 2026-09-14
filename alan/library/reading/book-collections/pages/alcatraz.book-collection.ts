@@ -9,7 +9,7 @@ export const alcatraz = {
   position: 4,
   ownLength: 0,
   ownProgress: 0,
-  unit: "words",
+  unit: "unit/words",
   status: "completed",
   rank: "B",
 } as const satisfies BookCollection

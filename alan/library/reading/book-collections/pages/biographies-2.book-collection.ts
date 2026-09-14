@@ -9,6 +9,6 @@ export const biographies2 = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unit: "words",
+  unit: "unit/words",
   status: "completed",
 } as const satisfies BookCollection

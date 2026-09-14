@@ -8,7 +8,7 @@ export const theCollectedWordsOfNealAMaxwell = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unit: "words",
+  unit: "unit/words",
   status: "completed",
   rank: "C",
 } as const satisfies BookCollection

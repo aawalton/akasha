@@ -9,7 +9,7 @@ export const theSilmarillion = {
   position: 3,
   ownLength: 0,
   ownProgress: 0,
-  unit: "words",
+  unit: "unit/words",
   status: "not-started",
   publishedAt: "1977-09-15",
 } as const satisfies BookCollection
