@@ -203,7 +203,3 @@ export function materializeCrossCharacterProgress(
         rows,
       }
 }
-
-export function crossCharacterProgressValue(reading: CrossCharacterReading): ScalarProgress {
-  return { current: reading.progressCurrent, total: reading.progressTotal }
-}
