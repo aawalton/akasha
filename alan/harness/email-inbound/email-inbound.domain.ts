@@ -21,5 +21,13 @@ export const emailInbound = {
       invariantKind: "departure",
       statement: "Every judgement here is made from headers alone.",
     },
+    {
+      invariantKind: "gap",
+      statement: "The channel addresses a decision reads are reached from akasha.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A persona's channel address is read off her own page rather than kept here.",
+    },
   ],
 } as const satisfies Domain

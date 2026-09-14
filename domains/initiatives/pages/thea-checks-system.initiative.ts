@@ -21,7 +21,7 @@ export const theaChecksSystem = {
     {
       statement: "No arm of the codebase is built and reached by nothing.",
       workingMemory:
-        "Alan keeps the story engine, tower and ui (224 files), and story-played now draws with a placeholder page component. Still built and wired to nothing: the write half of `pages/access`; `landAkashaSessionRow` and the rows beside a day; geoapify geocoding and routing; email inbound routing; the litrpg reading selection; the jenny and ki sms dispatch; `ReadoutRing`; `installSimShell`; `cardioReading`; and `placeSecrets`. Each waits on Alan, one at a time.",
+        "Alan keeps the story engine, tower and ui (224 files), and story-played now draws with a placeholder page component. Still built and wired to nothing: the write half of `pages/access`; `landAkashaSessionRow` and the rows beside a day; geoapify geocoding and routing; the litrpg reading selection; the jenny and ki sms dispatch; `ReadoutRing`; `installSimShell`; `cardioReading`; and `placeSecrets`. Each waits on Alan, one at a time.",
     },
     {
       statement: "Every uncommitted body beside a page exports the name that page's writer makes.",

@@ -9,6 +9,19 @@ export const inboxRun = {
   invariants: [
     {
       invariantKind: "departure",
+      statement:
+        "A message on a persona channel Alan sent is claimed for that persona rather than judged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A message discarded off a channel is left in the inbox for the reader to clear.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The channels and the watched address are read once a run rather than a message.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A message already claimed is skipped rather than judged again.",
     },
     {

@@ -5,7 +5,7 @@ export const inboxWatching = {
   type: "module",
   slug: "inbox-watching",
   definition:
-    "alan's mail decided against his email rules over and over, and the handler told what waits",
+    "alan's mail decided over and over, and each agent told the claims waiting on that agent",
   code: "ts",
   invariants: [
     {
@@ -47,7 +47,16 @@ export const inboxWatching = {
     },
     {
       invariantKind: "departure",
-      statement: "A telling that fails leaves the claims untold.",
+      statement:
+        "A claim is told to the persona whose channel it names rather than to the handler.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A claim carrying no handle is told to the handler.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A telling that fails leaves only that handle's claims untold.",
     },
     {
       invariantKind: "departure",

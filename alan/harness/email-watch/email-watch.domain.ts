@@ -31,5 +31,18 @@ export const emailWatch = {
       invariantKind: "gap",
       statement: "The rules a run reads are reached from akasha.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A message on a persona channel is decided before any rule sees that message.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A message on a persona channel Alan did not send is left alone rather than acted on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each persona is told only the claims made on her own channel.",
+    },
   ],
 } as const satisfies Domain
