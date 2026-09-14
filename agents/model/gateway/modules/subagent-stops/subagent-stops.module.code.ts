@@ -11,16 +11,14 @@ import {
   type Following,
   followFolders,
 } from "akasha/infrastructure/services/workstations/modules/file-following/file-following.module.code.ts"
-import {
-  everyOfType,
-  indexNamed,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
+import { everyOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { uncommittedIn } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import { textAt } from "akasha/utils/narrow/modules/text-at/text-at.module.code.ts"
 
 const SUBAGENT = "subagent"
+
+const SUBAGENTS_AT = "agents/subagents/pages"
 
 const AGENT_ID = "agentId"
 
@@ -71,7 +69,7 @@ function seatNameOr(root: string, seatId: string): string | null {
 }
 
 export function foldersOf(root: string, pages: readonly string[]): ReadonlySet<string> {
-  const folders = new Set<string>([join(root, indexNamed(), indexValue.name)])
+  const folders = new Set<string>([join(root, SUBAGENTS_AT)])
   for (const one of dirsOf(pages.map((page) => join(root, page)))) folders.add(one)
   return folders
 }

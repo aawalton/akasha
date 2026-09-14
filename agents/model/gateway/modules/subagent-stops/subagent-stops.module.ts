@@ -38,12 +38,12 @@ export const subagentStops = {
     },
     {
       invariantKind: "departure",
-      statement: "The set is read whole again after the index moves.",
+      statement: "The set is read whole again after a subagent page's folder appears or goes.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A subagent page whose folder came after the start is followed once the index moves.",
+        "A subagent page whose folder came after the start is followed once that folder appears.",
     },
     {
       invariantKind: "departure",
