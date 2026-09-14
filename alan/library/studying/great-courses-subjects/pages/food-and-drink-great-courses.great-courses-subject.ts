@@ -7,7 +7,7 @@ export const foodAndDrinkGreatCourses = {
   title: "Food & Drink Great Courses",
   status: "in-progress",
   rank: "C",
-  unit: "minutes",
+  unit: "unit/minutes",
   partOfCollections: ["great-courses-by-subject"],
   externalIdentity: [
     { source: "the-great-courses", externalId: "great-courses-subject-food-drink" },

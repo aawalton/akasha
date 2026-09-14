@@ -6,7 +6,7 @@ export const literatureGreatCourses = {
   slug: "literature-great-courses",
   title: "Literature Great Courses",
   status: "paused",
-  unit: "minutes",
+  unit: "unit/minutes",
   partOfCollections: ["great-courses-by-subject"],
   externalIdentity: [
     { source: "the-great-courses", externalId: "great-courses-subject-literature" },

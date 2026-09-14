@@ -6,7 +6,7 @@ export const historyGreatCourses = {
   slug: "history-great-courses",
   title: "History Great Courses",
   status: "paused",
-  unit: "minutes",
+  unit: "unit/minutes",
   partOfCollections: ["great-courses-by-subject"],
   externalIdentity: [{ source: "the-great-courses", externalId: "great-courses-subject-history" }],
 } as const satisfies GreatCoursesSubject
