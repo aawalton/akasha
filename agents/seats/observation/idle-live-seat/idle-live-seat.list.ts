@@ -31,21 +31,21 @@ export const idleLiveSeat = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Whether a seat states an assignment says nothing about whether that seat is idle.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A transcript's modification time moves when no work has been done.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The only licence to stop a seat with no initiative row is a claim carried on its own last send.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat can end its turn having narrated an act that seat never took.",
     },
   ],
