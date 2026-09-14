@@ -8,11 +8,6 @@ export const aineResourceManagement = {
   persona: "aine",
   intentStack: [
     {
-      statement: "Every change an agent runs has a memory ceiling of its own.",
-      workingMemory:
-        "A change is held to three hundred processor seconds by ALLOWED_CPU in change-ceiling, which a change page overrides by stating maxCpuSeconds of its own. Nothing states a memory ceiling. A change runs inside the command process, so the peak recorded is that whole process's high water mark rather than the change's own. One draft of sort-property-values-on-every-page reached 24.0 GiB, and nothing above it refused that run.",
-    },
-    {
       statement: "Every check an agent runs has a memory ceiling of its own.",
       workingMemory:
         "Fifty-eight of the fifty-nine code checks state maxCpuSeconds of their own, usually ten seconds and up to thirty, and ranOver judges cpuSeconds plus childCpuSeconds once the run ended. Nothing states a memory ceiling. A check runs inside the checking process, and the peak recorded is that process's high water mark, forgotten before each check and so counted from what the process already held rather than from nothing.",
