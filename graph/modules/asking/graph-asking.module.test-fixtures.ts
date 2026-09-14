@@ -46,8 +46,6 @@ export const KNOWN = "known"
 
 export const AT_INDEX = "index"
 
-export const DECLARED = "declaration"
-
 export const PART = "part-slugs"
 
 export const LOADED_BY = "loaded-by"
@@ -85,8 +83,6 @@ export const TYPE_AT = "akasha/held/held-type.page-type.ts"
 const MODULE_TYPE_AT = "akasha/held/module.page-type.ts"
 
 export const LOADER_AT = "akasha/held/held-loader.module.ts"
-
-export const LOADER_CODE_AT = "akasha/held/held-loader.module.code.ts"
 
 export const LOADED_AT = "akasha/held/loaded.held-type.ts"
 
