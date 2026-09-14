@@ -21,7 +21,7 @@ export const theaChecksSystem = {
     {
       statement: "No arm of the codebase is built and reached by nothing.",
       workingMemory:
-        "Cut: geoapify geocoding and routing, the page-write delivery route, the jenny and ki sms dispatch. Wired instead: inbound email routing and nine spotify transport commands. Being wired: `placeSecrets` into the deploy, and chess play and puzzle import. Still reached by nothing: the write half of `pages/access`; `landAkashaSessionRow` and the rows beside a day; the litrpg reading selection; `ReadoutRing`; `installSimShell`; `cardioReading`. Alan keeps the story arm.",
+        "Cut: geoapify geocoding and routing, the page-write delivery route, the jenny and ki sms dispatch, the air quality reading, the daily points rollups, the file-backed page writing, the litrpg story selection, `ReadoutRing`, `installSimShell`, `cardioReading`. Wired instead: inbound email routing, nine spotify transport commands, `placeSecrets` into the deploy, and chess play and puzzle import. Alan keeps the story arm.",
     },
     {
       statement: "Every uncommitted body beside a page exports the name that page's writer makes.",
