@@ -6,4 +6,16 @@ export const rynFileStructure = {
   slug: "ryn-file-structure",
   domain: "domain/file",
   persona: "ryn",
+  intents: [
+    {
+      statement: "No page states a plural slug.",
+    },
+    {
+      statement: "A folder is named in the singular.",
+    },
+  ],
+  constraints: [
+    "A page listing is reached at its page type's slug.",
+    "A folder's name drops the prefix the folder above it already says.",
+  ],
 } as const satisfies Initiative
