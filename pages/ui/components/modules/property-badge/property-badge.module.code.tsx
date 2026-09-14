@@ -50,6 +50,17 @@ export function isEmptyValue(type: PropertyType, value: PropertyValue): boolean 
   return false
 }
 
+function drawingFor(
+  drawnBy: readonly string[] | undefined
+): ComponentType<PropertyBadgeProps> | undefined {
+  if (drawnBy === undefined) return undefined
+  for (const slug of drawnBy) {
+    const found = PROPERTY_BADGE_DRAWINGS.get(slug)
+    if (found !== undefined) return found
+  }
+  return undefined
+}
+
 function layoutForContext(context: PropertyBadgeContext): {
   truncate: "fixed" | "fluid"
   popoverAlign: "start" | "end"
@@ -73,11 +84,9 @@ export function PropertyBadge(props: PropertyBadgeProps) {
   const layout = layoutForContext(context)
   const rawIcon = property.config?.icon
   const icon = typeof rawIcon === "string" && rawIcon !== "" ? <Icon name={rawIcon} /> : undefined
-  const drawn = property.propertyPageType
+  const drawn = drawingFor(property.drawnBy)
   const Component: ComponentType<PropertyBadgeProps> | undefined =
-    (drawn === undefined ? undefined : PROPERTY_BADGE_DRAWINGS.get(drawn)) ??
-    PROPERTY_BADGE_REGISTRY[property.type] ??
-    PROPERTY_BADGE_DRAWINGS.get(FALLS_BACK_TO)
+    drawn ?? PROPERTY_BADGE_REGISTRY[property.type] ?? PROPERTY_BADGE_DRAWINGS.get(FALLS_BACK_TO)
   if (Component === undefined) return null
   const lookup = (type: PropertyType) => PROPERTY_BADGE_REGISTRY[type]
   return (

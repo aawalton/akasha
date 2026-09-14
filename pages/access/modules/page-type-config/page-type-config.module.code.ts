@@ -13,7 +13,7 @@ export type PropertyDefinition = {
   id: string
   title: string
   type: string
-  propertyPageType?: string
+  drawnBy?: readonly string[]
   pageId: string
   key?: string
   config?: Json

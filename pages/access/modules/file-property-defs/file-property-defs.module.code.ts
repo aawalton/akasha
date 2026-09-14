@@ -10,6 +10,7 @@ export const PAGE_TYPE = "page-type"
 export type Declaration = {
   readonly key: string
   readonly type: string
+  readonly drawnBy: readonly string[]
   readonly title: string
   readonly pageId: string
   readonly on: string
@@ -126,7 +127,7 @@ function definitionOf(one: Declaration): PropertyDefinition {
     key: one.key,
     title: one.title,
     type: one.renderedAs ?? renderedType(one.type),
-    propertyPageType: one.type,
+    drawnBy: one.drawnBy,
     pageId: one.pageId,
     ...(stated ? { config } : {}),
   }

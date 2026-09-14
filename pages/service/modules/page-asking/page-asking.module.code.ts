@@ -110,6 +110,7 @@ export function keysOf(root: string, pageTypeSlug: string): ReadonlySet<string> 
 export type Declared = {
   readonly key: string
   readonly type: string
+  readonly drawnBy: readonly string[]
   readonly title: string
   readonly pageId: string
   readonly on: string
@@ -136,10 +137,32 @@ export function titledAs(propertySlug: string): string {
     .join(" ")
 }
 
-function declaredOf(one: Carried, page: Value | undefined, on: string): Declared {
+export function drawnFor(root: string, named: Named, pageTypeSlug: string): readonly string[] {
+  const found: string[] = []
+  const seen = new Set<string>()
+  const waiting: string[] = [pageTypeSlug]
+  for (let at = 0; at < waiting.length; at += 1) {
+    const own = waiting[at]
+    if (own === undefined || own === "" || seen.has(own)) continue
+    seen.add(own)
+    found.push(own)
+    const page = pagesOfType(root, named, PAGE_TYPE).get(own)
+    if (page === undefined) continue
+    for (const above of [...slugsIn(page[EXTENDS])].reverse()) waiting.push(above)
+  }
+  return found
+}
+
+function declaredOf(
+  one: Carried,
+  page: Value | undefined,
+  on: string,
+  drawnBy: readonly string[]
+): Declared {
   return {
     key: one.propertySlug,
     type: one.pageTypeSlug,
+    drawnBy,
     title: titledAs(one.propertySlug),
     pageId: page === undefined ? "" : (textAt(page, "id") ?? ""),
     on,
@@ -177,7 +200,8 @@ export function shaping(root: string, pageTypeSlug: string): Shaped {
       declaredOf(
         one,
         pagesOfType(root, named, one.pageTypeSlug).get(one.pagePropertySlug),
-        pageTypeSlug
+        pageTypeSlug,
+        drawnFor(root, named, one.pageTypeSlug)
       )
     )
     return {
