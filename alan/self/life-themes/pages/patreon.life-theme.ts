@@ -5,7 +5,7 @@ export const patreon = {
   type: "life-theme",
   slug: "patreon",
   title: "Patreon",
-  lifeThemeParent: "me-as-a-brand",
+  lifeThemeParent: "life-theme/me-as-a-brand",
   startDate: "2026-02-12",
   lifeThemeStatus: "up-next",
   lifeThemeValue: "value/wealth",

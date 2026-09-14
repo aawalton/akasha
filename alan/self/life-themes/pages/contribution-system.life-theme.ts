@@ -5,7 +5,7 @@ export const contributionSystem = {
   type: "life-theme",
   slug: "contribution-system",
   title: "Contribution System",
-  lifeThemeParent: "me-as-a-brand",
+  lifeThemeParent: "life-theme/me-as-a-brand",
   startDate: "2026-02-12",
   lifeThemeStatus: "up-next",
   lifeThemeValue: "value/wealth",
