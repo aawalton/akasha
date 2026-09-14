@@ -14,6 +14,7 @@ export const module = {
     "file-property/module-types",
     "module/name-series",
     "text-property/page-body-readers",
+    "text-property/reached-by-path",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -29,6 +30,7 @@ export const module = {
       many: true,
       maxCount: null,
     },
+    { pageProperty: "text-property/reached-by-path", required: false, many: true, maxCount: null },
   ],
   invariants: [
     {
