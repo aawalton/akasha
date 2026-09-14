@@ -9,6 +9,6 @@ export const chocolateCarameliciousCheesecakeMadeWithSnickers = {
   position: 0,
   ownLength: 3750,
   ownProgress: 0,
-  unit: "words",
+  unit: "unit/words",
   status: "not-started",
 } as const satisfies RestaurantMenuItem

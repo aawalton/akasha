@@ -9,7 +9,7 @@ export const caramelPecanTurtleCheesecake = {
   position: 0,
   ownLength: 3750,
   ownProgress: 3750,
-  unit: "words",
+  unit: "unit/words",
   status: "completed",
   rank: "B",
 } as const satisfies RestaurantMenuItem
