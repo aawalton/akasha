@@ -22,7 +22,6 @@ export const persona = {
     "file-property/desktop-wallpaper",
     "file-property/mobile-wallpaper",
     "file-property/portrait",
-    "module/anchor-cover-record",
     "module/canonical-image-classify",
     "module/desktop-wallpaper-setting",
     "module/framework",
