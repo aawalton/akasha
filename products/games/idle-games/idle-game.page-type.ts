@@ -7,9 +7,6 @@ export const idleGame = {
   definition: "a game Alan plays where the cards are his personas",
   pluralSlug: "idle-games",
   extends: ["page-type/collection"],
-  detailConfig: {
-    display: "game",
-  },
   parts: ["instant-property/favorited-at"],
   properties: [
     { pageProperty: "text-property/game-engine", required: true, many: false },

@@ -1,0 +1,1 @@
+export type DrawnOffline = boolean

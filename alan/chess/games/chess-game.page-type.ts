@@ -8,9 +8,7 @@ export const chessGame = {
   pluralSlug: "chess-games",
   extends: ["page-type/page"],
   runsTabooCheck: false,
-  detailConfig: {
-    display: "chess-review",
-  },
+  drawnOffline: true,
   parts: [
     "boolean-property/rated",
     "file-property/pgn",

@@ -8,6 +8,7 @@ export const pageType = {
   pluralSlug: "page-types",
   parts: [
     "boolean-property/allows-tmp-paths",
+    "boolean-property/drawn-offline",
     "boolean-property/frame-edge-to-edge",
     "boolean-property/frame-focus-mode",
     "boolean-property/full-bleed",
@@ -103,6 +104,7 @@ export const pageType = {
       required: false,
       many: false,
     },
+    { pageProperty: "boolean-property/drawn-offline", required: false, many: false },
   ],
   typeGenerator: "ts",
   invariants: [

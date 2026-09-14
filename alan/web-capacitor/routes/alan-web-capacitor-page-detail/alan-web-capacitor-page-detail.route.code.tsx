@@ -1,18 +1,12 @@
 "use client"
 
 import { OfflineDownloadButton } from "akasha/alan/web/modules/offline-download-button/offline-download-button.module.code.tsx"
-import {
-  type PageDisplayKind,
-  selectPageDisplayKind,
-} from "akasha/alan/web/modules/page-display-kind/page-display-kind.module.code.ts"
 import { ReaderNarrationDetail } from "akasha/alan/web/modules/reader-narration-detail/reader-narration-detail.module.code.tsx"
 import { useIsOnline } from "akasha/alan/web/modules/use-is-online/use-is-online.module.code.ts"
 import { useMediaVariants } from "akasha/alan/web/modules/use-media-variants/use-media-variants.module.code.ts"
 import { useNextUnreadHref } from "akasha/alan/web/modules/use-next-unread/use-next-unread.module.code.ts"
 import { NotFoundNotice } from "akasha/alan/web-capacitor/modules/not-found-notice/not-found-notice.module.code.tsx"
-import { resolveDisplayKind } from "akasha/pages/core/schema/modules/detail-config/detail-config.module.code.ts"
 import { parsePageTypeData } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
-import { getPageDisplay } from "akasha/pages/ui/capabilities/modules/page-display-registry/page-display-registry.module.code.ts"
 import { ViewPageContent } from "akasha/pages/ui/components/modules/view-page-content/view-page-content.module.code.tsx"
 import {
   useAllPages,
@@ -21,17 +15,11 @@ import {
 import { useReaderNeighbors } from "akasha/pages/ui/supabase/modules/use-reader-neighbors/use-reader-neighbors.module.code.ts"
 import { parsePageHrefParam } from "akasha/pages/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
-import { lazy, Suspense } from "react"
 import { useParams } from "react-router"
 
 const NAV_SLUG = "nav"
 
 const READING_STORY_SLUG = "reading-story"
-
-const ChessBoard = lazy(() => import("akasha/alan/chess/modules/board/chess-board.module.code.tsx"))
-
-const IdleGame = lazy(() => import("akasha/alan/web/modules/idle-game/idle-game.module.code.tsx"))
 
 export default function CapacitorPageDetail() {
   const params = useParams()
@@ -65,8 +53,7 @@ function PageDetailDispatch({
   const { pages: pageTypes } = useAllPages({ pageTypeSlug: "page-type" })
   const pageType = pageTypes.find((pt) => pt.properties?.slug === pageTypeSlug)
   const pageTypeData = parsePageTypeData(pageType?.properties)
-  const pageTypeDetailConfig = pageTypeData.detailConfig
-  const configDisplay = resolveDisplayKind(pageTypeDetailConfig)
+  const drawnOffline = pageType?.properties?.drawnOffline === true
   const neighbors = useReaderNeighbors(page?._id, slug)
   const hasAudio = pageTypeData.mediaConfig?.audio != null
   const audio = useMediaVariants(page?._id, hasAudio)
@@ -83,14 +70,15 @@ function PageDetailDispatch({
     )
   }
   if (page === null) {
-    if (!isOnline && configDisplay === "chess-review") return <OfflineReviewUncached />
+    if (!isOnline && drawnOffline) return <OfflineReviewUncached />
     return <NotFoundNotice />
   }
 
-  const genericBody = (
+  return (
     <>
       {}
       <ReaderNarrationDetail
+        drawnPlainly={!isOnline && !drawnOffline}
         pageTypeSlug={slug}
         id={page._id}
         title={typeof page.properties?.title === "string" ? page.properties.title : ""}
@@ -118,45 +106,6 @@ function PageDetailDispatch({
       />
     </>
   )
-
-  const gameEngine =
-    typeof page.properties?.gameEngine === "string" ? page.properties.gameEngine : null
-  const externalId =
-    typeof page.properties?.externalId === "string" ? page.properties.externalId : null
-  const kind = selectPageDisplayKind({ configDisplay, gameEngine, externalId })
-  const displayKind: PageDisplayKind =
-    !isOnline && !getPageDisplay(kind)?.offlineCapable ? "generic" : kind
-
-  switch (displayKind) {
-    case "chess":
-      return (
-        <Suspense fallback={null}>
-          <ChessBoard />
-        </Suspense>
-      )
-    case "chess-review": {
-      const pgn = typeof page.properties?.pgn === "string" ? page.properties.pgn : undefined
-      return (
-        <Suspense fallback={null}>
-          <ChessBoard initialPgn={pgn} />
-        </Suspense>
-      )
-    }
-    case "idle":
-      return (
-        <Suspense fallback={null}>
-          <IdleGame
-            title={typeof page.properties?.title === "string" ? page.properties.title : null}
-            frameConfig={pageTypeDetailConfig?.frame ?? null}
-          />
-        </Suspense>
-      )
-    case "persona":
-    case "generic":
-      return genericBody
-    default:
-      return assertNever(displayKind)
-  }
 }
 
 function OfflineReviewUncached() {

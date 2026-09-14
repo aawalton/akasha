@@ -28,6 +28,7 @@ export interface PageDrawingProps {
   onReadToEnd?: () => void
   sentenceMarks?: readonly SentenceMark[]
   onPlayFromSentence?: (sentenceIndex: number) => void
+  drawnPlainly?: boolean
 }
 
 const FALLS_BACK_TO = "page"
@@ -53,7 +54,8 @@ export function PageDetailContent(props: PageDrawingProps) {
       )
     }
   }
-  const chain = known ? pageTypeChain(pageTypes, pageTypeSlug) : [FALLS_BACK_TO]
+  const chain =
+    known && props.drawnPlainly !== true ? pageTypeChain(pageTypes, pageTypeSlug) : [FALLS_BACK_TO]
   const Drawing = drawingAlong(chain) ?? drawingAlong([FALLS_BACK_TO])
   return Drawing === undefined ? null : <Drawing {...props} />
 }
