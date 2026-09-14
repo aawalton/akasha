@@ -5,7 +5,7 @@ export const alanwaltonAttributeStoplights = {
   type: "readout-widget",
   slug: "alanwalton-attribute-stoplights",
   definition: "the tile on Alan's phone showing what each of his attributes earned today",
-  app: "alanwalton",
+  app: "ios-app/alanwalton",
   component: "alanwalton-attribute-stoplights-widget",
   kind: "AttributeStoplightsWidget",
   families: ["small"],

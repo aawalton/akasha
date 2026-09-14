@@ -5,7 +5,7 @@ export const alanwaltonCost = {
   type: "readout-widget",
   slug: "alanwalton-cost",
   definition: "the tile on Alan's phone showing what the block he is in costs him each hour",
-  app: "alanwalton",
+  app: "ios-app/alanwalton",
   component: "alanwalton-cost-widget",
   kind: "CostWidget",
   families: ["small"],

@@ -5,7 +5,7 @@ export const alanwaltonInboxStoplights = {
   type: "readout-widget",
   slug: "alanwalton-inbox-stoplights",
   definition: "the tile on Alan's phone showing how much waits in each of his inboxes",
-  app: "alanwalton",
+  app: "ios-app/alanwalton",
   component: "alanwalton-inbox-stoplights-widget",
   kind: "InboxStoplightsWidget",
   families: ["small"],

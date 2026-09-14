@@ -5,7 +5,7 @@ export const alanwaltonSurplus = {
   type: "readout-widget",
   slug: "alanwalton-surplus",
   definition: "the tile on Alan's phone showing how much of his night the day has left him",
-  app: "alanwalton",
+  app: "ios-app/alanwalton",
   component: "surplus-ring",
   kind: "SurplusWidget",
   families: ["small"],

@@ -5,7 +5,7 @@ export const alanwaltonSafetyLevel = {
   type: "readout-widget",
   slug: "alanwalton-safety-level",
   definition: "the tile on Alan's phone showing how safe things are where he is",
-  app: "alanwalton",
+  app: "ios-app/alanwalton",
   component: "alanwalton-safety-level-widget",
   kind: "SafetyLevelWidget",
   families: ["small"],

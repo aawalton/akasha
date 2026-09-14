@@ -5,7 +5,7 @@ export const smilingjennySafetyLevel = {
   type: "readout-widget",
   slug: "smilingjenny-safety-level",
   definition: "the tile on Jenny's phone showing how safe things are where Alan is",
-  app: "smilingjenny",
+  app: "ios-app/smilingjenny",
   component: "smilingjenny-safety-level-widget",
   kind: "SafetyLevelWidget",
   families: ["small"],

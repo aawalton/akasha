@@ -5,7 +5,7 @@ export const alanwaltonCategorize = {
   type: "readout-widget",
   slug: "alanwalton-categorize",
   definition: "the tile on Alan's phone showing how many transactions are unreviewed",
-  app: "alanwalton",
+  app: "ios-app/alanwalton",
   component: "categorize-ring",
   kind: "CategorizeWidget",
   families: ["small"],

@@ -5,7 +5,7 @@ export const smilingjennyUpkeepStoplights = {
   type: "readout-widget",
   slug: "smilingjenny-upkeep-stoplights",
   definition: "the tile on Jenny's phone showing whether Alan's daily upkeep is holding",
-  app: "smilingjenny",
+  app: "ios-app/smilingjenny",
   component: "smilingjenny-upkeep-stoplights-widget",
   kind: "HabitStoplightsWidget",
   families: ["small"],

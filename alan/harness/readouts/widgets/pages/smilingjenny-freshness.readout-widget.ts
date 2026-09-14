@@ -5,7 +5,7 @@ export const smilingjennyFreshness = {
   type: "readout-widget",
   slug: "smilingjenny-freshness",
   definition: "the tile on Jenny's phone saying how old the oldest reading her tiles hold is",
-  app: "smilingjenny",
+  app: "ios-app/smilingjenny",
   component: "freshness-widget",
   kind: "FreshnessWidget",
   families: ["small"],

@@ -5,7 +5,7 @@ export const alanwaltonClaudeUsage = {
   type: "readout-widget",
   slug: "alanwalton-claude-usage",
   definition: "the tile on Alan's phone showing how much of the weekly Claude allowance is spent",
-  app: "alanwalton",
+  app: "ios-app/alanwalton",
   component: "alanwalton-claude-usage-widget",
   kind: "ClaudeUsageWidget",
   families: ["small", "medium"],
