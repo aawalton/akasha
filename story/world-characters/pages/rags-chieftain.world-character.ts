@@ -5,7 +5,7 @@ export const ragsChieftain = {
   type: "world-character",
   slug: "rags-chieftain",
   title: "Rags",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 45,
   eventCount: 9,
   firstChapter: 764,

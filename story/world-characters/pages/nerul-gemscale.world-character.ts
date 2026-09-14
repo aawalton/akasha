@@ -5,7 +5,7 @@ export const nerulGemscale = {
   type: "world-character",
   slug: "nerul-gemscale",
   title: "Nerul Gemscale",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 48,
   eventCount: 5,
   firstChapter: 824,

@@ -5,5 +5,5 @@ export const title14thHeraldOfTheBreathlessAgeSkeletonKingToren = {
   type: "world-title",
   slug: "title-14th-herald-of-the-breathless-age-skeleton-king-toren",
   title: "14th Herald of the Breathless Age, Skeleton King Toren",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldTitle

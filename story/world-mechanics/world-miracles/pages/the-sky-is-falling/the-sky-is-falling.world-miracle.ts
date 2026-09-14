@@ -5,5 +5,5 @@ export const theSkyIsFalling = {
   type: "world-miracle",
   slug: "the-sky-is-falling",
   title: "The Sky is Falling",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldMiracle

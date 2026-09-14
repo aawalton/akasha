@@ -5,7 +5,7 @@ export const rhaldon = {
   type: "world-character",
   slug: "rhaldon",
   title: "Rhaldon",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 15,
   eventCount: 20,
   firstChapter: 665,

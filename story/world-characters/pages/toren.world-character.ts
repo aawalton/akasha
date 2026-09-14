@@ -5,7 +5,7 @@ export const toren = {
   type: "world-character",
   slug: "toren",
   title: "Toren",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 47,
   eventCount: 56,
   firstChapter: 94,

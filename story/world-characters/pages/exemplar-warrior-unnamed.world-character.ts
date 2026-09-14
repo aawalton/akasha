@@ -5,7 +5,7 @@ export const exemplarWarriorUnnamed = {
   type: "world-character",
   slug: "exemplar-warrior-unnamed",
   title: "Exemplar Warrior",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 17,
   eventCount: 7,
   firstChapter: 532,

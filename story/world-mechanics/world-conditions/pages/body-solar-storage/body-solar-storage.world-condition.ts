@@ -5,6 +5,6 @@ export const bodySolarStorage = {
   type: "world-condition",
   slug: "body-solar-storage",
   title: "Body: Solar Storage",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldCondition

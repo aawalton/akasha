@@ -5,7 +5,7 @@ export const eldavin = {
   type: "world-character",
   slug: "eldavin",
   title: "Eldavin",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 16,
   eventCount: 4,
   firstChapter: 593,

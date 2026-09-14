@@ -5,6 +5,6 @@ export const basicQuest = {
   type: "world-quest",
   slug: "basic-quest",
   title: "Basic Quest",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldQuest

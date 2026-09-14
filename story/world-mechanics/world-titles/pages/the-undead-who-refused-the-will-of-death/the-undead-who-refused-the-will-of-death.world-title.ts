@@ -5,5 +5,5 @@ export const theUndeadWhoRefusedTheWillOfDeath = {
   type: "world-title",
   slug: "the-undead-who-refused-the-will-of-death",
   title: "The Undead Who Refused The Will of Death",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldTitle

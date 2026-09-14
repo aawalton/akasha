@@ -5,7 +5,7 @@ export const fightipilota = {
   type: "world-character",
   slug: "fightipilota",
   title: "Fightipilota",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 20,
   eventCount: 25,
   firstChapter: 717,

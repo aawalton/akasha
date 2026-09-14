@@ -5,5 +5,5 @@ export const peacefulMelody = {
   type: "world-song",
   slug: "peaceful-melody",
   title: "Peaceful Melody",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSong

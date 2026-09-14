@@ -5,7 +5,7 @@ export const piscesJealnet = {
   type: "world-character",
   slug: "pisces-jealnet",
   title: "Pisces",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 38,
   eventCount: 10,
   firstChapter: 506,

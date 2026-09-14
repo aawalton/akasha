@@ -5,7 +5,7 @@ export const dameUshar = {
   type: "world-character",
   slug: "dame-ushar",
   title: "Dame Ushar",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 30,
   eventCount: 4,
   firstChapter: 745,

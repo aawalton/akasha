@@ -5,5 +5,5 @@ export const robesOfTheWorldSTreekeeperResized = {
   type: "world-item",
   slug: "robes-of-the-world-s-treekeeper-resized",
   title: "Robes of the World’s Treekeeper (Resized)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldItem

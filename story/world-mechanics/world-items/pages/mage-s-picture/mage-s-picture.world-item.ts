@@ -5,6 +5,6 @@ export const mageSPicture = {
   type: "world-item",
   slug: "mage-s-picture",
   title: "Mage’s Picture",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldItem

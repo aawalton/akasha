@@ -5,7 +5,7 @@ export const infinitypear = {
   type: "world-character",
   slug: "infinitypear",
   title: "Infinitypear",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 11,
   eventCount: 11,
   firstChapter: 521,

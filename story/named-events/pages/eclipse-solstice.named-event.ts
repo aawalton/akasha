@@ -14,5 +14,5 @@ export const eclipseSolstice = {
   namedEventKind: "global-event",
   lastChapter: 500,
   seq: 10,
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

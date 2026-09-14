@@ -5,7 +5,7 @@ export const kenMurata = {
   type: "world-character",
   slug: "ken-murata",
   title: "Ken",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 4,
   eventCount: 4,
   firstChapter: 198,

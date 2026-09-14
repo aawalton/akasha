@@ -5,6 +5,6 @@ export const rendingClaws = {
   type: "world-aspect",
   slug: "rending-claws",
   title: "Rending Claws",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldAspect

@@ -5,5 +5,5 @@ export const appraisal = {
   type: "world-enchantment",
   slug: "appraisal",
   title: "Appraisal",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldEnchantment

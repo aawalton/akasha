@@ -5,5 +5,5 @@ export const bearerOfMyVengeance = {
   type: "world-condition",
   slug: "bearer-of-my-vengeance",
   title: "Bearer of My Vengeance",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldCondition

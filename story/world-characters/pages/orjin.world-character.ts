@@ -5,7 +5,7 @@ export const orjin = {
   type: "world-character",
   slug: "orjin",
   title: "Orjin",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 53,
   eventCount: 12,
   firstChapter: 636,

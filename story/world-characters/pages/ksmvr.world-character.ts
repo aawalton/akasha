@@ -5,7 +5,7 @@ export const ksmvr = {
   type: "world-character",
   slug: "ksmvr",
   title: "Ksmvr",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 30,
   eventCount: 17,
   firstChapter: 506,

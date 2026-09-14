@@ -5,7 +5,7 @@ export const theophilus = {
   type: "world-character",
   slug: "theophilus",
   title: "Theophilus",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 20,
   eventCount: 9,
   firstChapter: 562,

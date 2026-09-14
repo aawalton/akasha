@@ -5,6 +5,6 @@ export const holyBarrier = {
   type: "world-miracle",
   slug: "holy-barrier",
   title: "Holy Barrier",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldMiracle

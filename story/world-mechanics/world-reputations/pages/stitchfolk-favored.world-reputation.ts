@@ -5,5 +5,5 @@ export const stitchfolkFavored = {
   type: "world-reputation",
   slug: "stitchfolk-favored",
   title: "Stitchfolk (Favored)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldReputation

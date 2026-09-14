@@ -5,7 +5,7 @@ export const satar = {
   type: "world-character",
   slug: "satar",
   title: "Satar",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 25,
   eventCount: 10,
   firstChapter: 564,

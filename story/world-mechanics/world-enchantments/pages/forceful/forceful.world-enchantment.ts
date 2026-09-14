@@ -5,5 +5,5 @@ export const forceful = {
   type: "world-enchantment",
   slug: "forceful",
   title: "Forceful",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldEnchantment

@@ -5,7 +5,7 @@ export const seraphel = {
   type: "world-character",
   slug: "seraphel",
   title: "Seraphel",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 35,
   eventCount: 3,
   firstChapter: 795,

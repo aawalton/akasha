@@ -5,6 +5,6 @@ export const shadowFamiliars = {
   type: "world-species",
   slug: "shadow-familiars",
   title: "Shadow Familiars",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpecies

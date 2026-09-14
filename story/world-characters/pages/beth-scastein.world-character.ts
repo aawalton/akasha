@@ -5,7 +5,7 @@ export const bethScastein = {
   type: "world-character",
   slug: "beth-scastein",
   title: "Elizabeth Scastein",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 14,
   eventCount: 15,
   firstChapter: 643,

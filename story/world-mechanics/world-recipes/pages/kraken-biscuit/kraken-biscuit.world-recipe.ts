@@ -5,5 +5,5 @@ export const krakenBiscuit = {
   type: "world-recipe",
   slug: "kraken-biscuit",
   title: "Kraken Biscuit",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldRecipe

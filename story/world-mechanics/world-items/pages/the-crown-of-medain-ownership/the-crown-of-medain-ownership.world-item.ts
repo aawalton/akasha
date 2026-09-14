@@ -5,5 +5,5 @@ export const theCrownOfMedainOwnership = {
   type: "world-item",
   slug: "the-crown-of-medain-ownership",
   title: "The Crown of Medain ownership",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldItem

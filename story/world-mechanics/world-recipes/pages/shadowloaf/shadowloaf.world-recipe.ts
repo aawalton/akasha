@@ -5,5 +5,5 @@ export const shadowloaf = {
   type: "world-recipe",
   slug: "shadowloaf",
   title: "Shadowloaf",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldRecipe

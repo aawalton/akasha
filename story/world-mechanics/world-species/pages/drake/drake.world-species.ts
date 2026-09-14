@@ -5,5 +5,5 @@ export const drake = {
   type: "world-species",
   slug: "drake",
   title: "Drake",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSpecies

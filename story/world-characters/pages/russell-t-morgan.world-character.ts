@@ -5,7 +5,7 @@ export const russellTMorgan = {
   type: "world-character",
   slug: "russell-t-morgan",
   title: "Russell T. Morgan",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 16,
   eventCount: 3,
   firstChapter: 816,

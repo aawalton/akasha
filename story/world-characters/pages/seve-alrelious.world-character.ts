@@ -5,7 +5,7 @@ export const seveAlrelious = {
   type: "world-character",
   slug: "seve-alrelious",
   title: "Seve-Alrelious",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 46,
   eventCount: 3,
   firstChapter: 652,

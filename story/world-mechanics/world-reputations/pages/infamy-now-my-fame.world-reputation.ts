@@ -5,5 +5,5 @@ export const infamyNowMyFame = {
   type: "world-reputation",
   slug: "infamy-now-my-fame",
   title: "Infamy, Now My Fame",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldReputation

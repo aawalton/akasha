@@ -5,7 +5,7 @@ export const teres = {
   type: "world-character",
   slug: "teres",
   title: "Teres",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   eventCount: 4,
   firstChapter: 454,
   lastChapter: 454,

@@ -5,5 +5,5 @@ export const odourOfCarrionDreams = {
   type: "world-aspect",
   slug: "odour-of-carrion-dreams",
   title: "Odour of Carrion (Dreams)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldAspect

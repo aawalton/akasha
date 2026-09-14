@@ -5,5 +5,5 @@ export const medalOfBraverySalazsar = {
   type: "world-item",
   slug: "medal-of-bravery-salazsar",
   title: "Medal of Bravery (Salazsar)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldItem

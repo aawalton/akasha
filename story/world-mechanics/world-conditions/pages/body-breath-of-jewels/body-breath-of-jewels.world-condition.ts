@@ -5,5 +5,5 @@ export const bodyBreathOfJewels = {
   type: "world-condition",
   slug: "body-breath-of-jewels",
   title: "Body – Breath of Jewels",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldCondition

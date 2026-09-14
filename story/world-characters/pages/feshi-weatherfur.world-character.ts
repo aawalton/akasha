@@ -5,7 +5,7 @@ export const feshiWeatherfur = {
   type: "world-character",
   slug: "feshi-weatherfur",
   title: "Feshi Weatherfur",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 33,
   eventCount: 5,
   firstChapter: 638,

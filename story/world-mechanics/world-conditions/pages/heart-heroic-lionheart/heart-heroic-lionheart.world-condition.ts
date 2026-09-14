@@ -5,5 +5,5 @@ export const heartHeroicLionheart = {
   type: "world-condition",
   slug: "heart-heroic-lionheart",
   title: "Heart: Heroic Lionheart",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldCondition

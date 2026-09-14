@@ -5,7 +5,7 @@ export const larra = {
   type: "world-character",
   slug: "larra",
   title: "Larra",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 48,
   eventCount: 3,
   firstChapter: 616,

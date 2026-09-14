@@ -5,7 +5,7 @@ export const rose = {
   type: "world-character",
   slug: "rose",
   title: "Rose",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 4,
   eventCount: 4,
   firstChapter: 697,

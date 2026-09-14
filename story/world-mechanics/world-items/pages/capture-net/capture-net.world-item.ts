@@ -5,6 +5,6 @@ export const captureNet = {
   type: "world-item",
   slug: "capture-net",
   title: "Capture Net",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldItem

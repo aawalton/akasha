@@ -5,7 +5,7 @@ export const halracEveram = {
   type: "world-character",
   slug: "halrac-everam",
   title: "Halrac",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 36,
   eventCount: 8,
   firstChapter: 506,

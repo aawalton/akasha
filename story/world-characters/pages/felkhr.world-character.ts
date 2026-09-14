@@ -5,7 +5,7 @@ export const felkhr = {
   type: "world-character",
   slug: "felkhr",
   title: "Felkhr",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 38,
   eventCount: 2,
   firstChapter: 644,

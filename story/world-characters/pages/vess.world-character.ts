@@ -5,7 +5,7 @@ export const vess = {
   type: "world-character",
   slug: "vess",
   title: "Vess",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 12,
   eventCount: 4,
   firstChapter: 562,

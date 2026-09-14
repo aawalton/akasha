@@ -16,5 +16,5 @@ export const belchanWar = {
     "ruled from sweep evidence 'Hours into the first proper day' — tightly-linked event series ch401-410 (rhia-ruled 2026-07-15 drain-end batch)",
   namedEventKind: "battle",
   seq: 22,
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

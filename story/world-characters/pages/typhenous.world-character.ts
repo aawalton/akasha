@@ -5,7 +5,7 @@ export const typhenous = {
   type: "world-character",
   slug: "typhenous",
   title: "Typhenous",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 28,
   eventCount: 2,
   firstChapter: 506,

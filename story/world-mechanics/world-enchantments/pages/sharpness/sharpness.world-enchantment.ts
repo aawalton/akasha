@@ -5,6 +5,6 @@ export const sharpness = {
   type: "world-enchantment",
   slug: "sharpness",
   title: "Sharpness",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldEnchantment

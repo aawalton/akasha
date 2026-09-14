@@ -5,7 +5,7 @@ export const fierre = {
   type: "world-character",
   slug: "fierre",
   title: "Fierre",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 3,
   eventCount: 2,
   firstChapter: 467,

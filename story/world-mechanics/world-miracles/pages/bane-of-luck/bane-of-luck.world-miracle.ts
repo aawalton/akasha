@@ -5,6 +5,6 @@ export const baneOfLuck = {
   type: "world-miracle",
   slug: "bane-of-luck",
   title: "Bane of Luck",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldMiracle

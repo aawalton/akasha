@@ -5,5 +5,5 @@ export const terror = {
   type: "world-enchantment",
   slug: "terror",
   title: "Terror",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldEnchantment

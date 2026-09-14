@@ -12,5 +12,5 @@ export const siegeOfLiscor = {
     "ruled from sweep evidence 'Since the siege at Liscor' (rhia-ruled 2026-07-15 drain-end batch)",
   namedEventKind: "battle",
   seq: 19,
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

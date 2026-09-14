@@ -11,5 +11,5 @@ export const goblinLordDeath = {
     "ruled from sweep evidence 'The eighth day after the death of the Goblin Lord' (rhia-ruled 2026-07-15 drain-end batch)",
   namedEventKind: "global-event",
   seq: 24,
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

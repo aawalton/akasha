@@ -14,5 +14,5 @@ export const winterSolsticeY2 = {
   namedEventKind: "festival",
   lastChapter: 824,
   seq: 5,
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

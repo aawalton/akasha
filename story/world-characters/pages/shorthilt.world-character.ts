@@ -5,7 +5,7 @@ export const shorthilt = {
   type: "world-character",
   slug: "shorthilt",
   title: "Shorthilt",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 24,
   eventCount: 2,
   firstChapter: 283,

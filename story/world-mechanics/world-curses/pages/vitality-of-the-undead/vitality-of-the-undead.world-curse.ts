@@ -5,6 +5,6 @@ export const vitalityOfTheUndead = {
   type: "world-curse",
   slug: "vitality-of-the-undead",
   title: "Vitality of the Undead",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldCurse

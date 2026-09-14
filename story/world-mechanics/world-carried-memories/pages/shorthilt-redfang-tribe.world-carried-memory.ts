@@ -5,5 +5,5 @@ export const shorthiltRedfangTribe = {
   type: "world-carried-memory",
   slug: "shorthilt-redfang-tribe",
   title: "Shorthilt, Redfang Tribe",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldCarriedMemory

@@ -5,5 +5,5 @@ export const diplomatOfTheTauslechForest = {
   type: "world-title",
   slug: "diplomat-of-the-tauslech-forest",
   title: "Diplomat of the Tauslech Forest",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldTitle

@@ -5,7 +5,7 @@ export const laken = {
   type: "world-character",
   slug: "laken",
   title: "Laken",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 19,
   eventCount: 21,
   firstChapter: 125,

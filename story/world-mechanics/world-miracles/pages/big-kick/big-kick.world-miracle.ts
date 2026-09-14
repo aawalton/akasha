@@ -5,5 +5,5 @@ export const bigKick = {
   type: "world-miracle",
   slug: "big-kick",
   title: "Big Kick",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldMiracle

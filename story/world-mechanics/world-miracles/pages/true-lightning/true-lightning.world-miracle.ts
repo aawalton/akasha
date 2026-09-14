@@ -5,6 +5,6 @@ export const trueLightning = {
   type: "world-miracle",
   slug: "true-lightning",
   title: "True Lightning",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldMiracle

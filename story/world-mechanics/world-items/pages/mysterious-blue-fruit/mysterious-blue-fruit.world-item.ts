@@ -5,5 +5,5 @@ export const mysteriousBlueFruit = {
   type: "world-item",
   slug: "mysterious-blue-fruit",
   title: "Mysterious Blue Fruit",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldItem

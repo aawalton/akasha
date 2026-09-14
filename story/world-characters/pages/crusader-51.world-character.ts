@@ -5,7 +5,7 @@ export const crusader51 = {
   type: "world-character",
   slug: "crusader-51",
   title: "Crusader 51",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 25,
   eventCount: 23,
   firstChapter: 561,

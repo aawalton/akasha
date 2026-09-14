@@ -5,7 +5,7 @@ export const eliaArcsinger = {
   type: "world-character",
   slug: "elia-arcsinger",
   title: "Elia Arcsinger",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 43,
   eventCount: 2,
   firstChapter: 708,

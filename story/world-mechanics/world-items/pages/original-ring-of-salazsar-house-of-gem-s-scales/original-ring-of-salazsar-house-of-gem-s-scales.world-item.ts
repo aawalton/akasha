@@ -5,5 +5,5 @@ export const originalRingOfSalazsarHouseOfGemSScales = {
   type: "world-item",
   slug: "original-ring-of-salazsar-house-of-gem-s-scales",
   title: "Original Ring of Salazsar (House of Gem’s Scales)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldItem

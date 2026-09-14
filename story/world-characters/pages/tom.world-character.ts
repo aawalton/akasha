@@ -5,7 +5,7 @@ export const tom = {
   type: "world-character",
   slug: "tom",
   title: "Tom",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 24,
   eventCount: 5,
   firstChapter: 98,

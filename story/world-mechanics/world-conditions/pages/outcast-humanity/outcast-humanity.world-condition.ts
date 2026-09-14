@@ -5,5 +5,5 @@ export const outcastHumanity = {
   type: "world-condition",
   slug: "outcast-humanity",
   title: "Outcast Humanity",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldCondition

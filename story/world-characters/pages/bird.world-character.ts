@@ -5,7 +5,7 @@ export const bird = {
   type: "world-character",
   slug: "bird",
   title: "Bird",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 42,
   eventCount: 29,
   firstChapter: 274,

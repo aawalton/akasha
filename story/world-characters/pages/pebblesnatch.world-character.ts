@@ -5,7 +5,7 @@ export const pebblesnatch = {
   type: "world-character",
   slug: "pebblesnatch",
   title: "Pebblesnatch",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 10,
   eventCount: 9,
   firstChapter: 395,

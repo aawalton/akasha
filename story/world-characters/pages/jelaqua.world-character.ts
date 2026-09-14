@@ -5,7 +5,7 @@ export const jelaqua = {
   type: "world-character",
   slug: "jelaqua",
   title: "Jelaqua",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 34,
   eventCount: 17,
   firstChapter: 506,

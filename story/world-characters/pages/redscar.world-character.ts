@@ -5,7 +5,7 @@ export const redscar = {
   type: "world-character",
   slug: "redscar",
   title: "Redscar",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 52,
   eventCount: 4,
   firstChapter: 752,

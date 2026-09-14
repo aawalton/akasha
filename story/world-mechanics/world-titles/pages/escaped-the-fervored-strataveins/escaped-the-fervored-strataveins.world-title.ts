@@ -5,5 +5,5 @@ export const escapedTheFervoredStrataveins = {
   type: "world-title",
   slug: "escaped-the-fervored-strataveins",
   title: "Escaped the Fervored Strataveins",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldTitle

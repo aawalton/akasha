@@ -5,5 +5,5 @@ export const painedNerves = {
   type: "world-condition",
   slug: "pained-nerves",
   title: "Pained Nerves",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldCondition

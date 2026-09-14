@@ -5,5 +5,5 @@ export const grease = {
   type: "world-enchantment",
   slug: "grease",
   title: "Grease",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldEnchantment

@@ -5,7 +5,7 @@ export const garry = {
   type: "world-character",
   slug: "garry",
   title: "Garry",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 46,
   eventCount: 39,
   firstChapter: 631,

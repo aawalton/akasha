@@ -5,5 +5,5 @@ export const sanguinumGratitudeMinorSilentFootfalls = {
   type: "world-boon",
   slug: "sanguinum-gratitude-minor-silent-footfalls",
   title: "Sanguinum Gratitude (Minor) — Silent Footfalls",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldBoon

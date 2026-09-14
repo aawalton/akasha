@@ -5,5 +5,5 @@ export const floodOfLifeSColors = {
   type: "world-miracle",
   slug: "flood-of-life-s-colors",
   title: "Flood of Life’s Colors",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldMiracle

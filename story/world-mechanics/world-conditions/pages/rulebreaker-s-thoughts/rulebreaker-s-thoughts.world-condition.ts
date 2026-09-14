@@ -5,5 +5,5 @@ export const rulebreakerSThoughts = {
   type: "world-condition",
   slug: "rulebreaker-s-thoughts",
   title: "Rulebreaker’s Thoughts",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldCondition

@@ -5,7 +5,7 @@ export const osthia = {
   type: "world-character",
   slug: "osthia",
   title: "Osthia",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 35,
   eventCount: 18,
   firstChapter: 822,

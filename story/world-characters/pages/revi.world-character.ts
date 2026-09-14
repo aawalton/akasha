@@ -5,7 +5,7 @@ export const revi = {
   type: "world-character",
   slug: "revi",
   title: "Revi",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 33,
   eventCount: 4,
   firstChapter: 506,

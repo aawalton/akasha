@@ -5,7 +5,7 @@ export const kenjiroMurata = {
   type: "world-character",
   slug: "kenjiro-murata",
   title: "Kenjiro Murata",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 4,
   eventCount: 5,
   firstChapter: 196,

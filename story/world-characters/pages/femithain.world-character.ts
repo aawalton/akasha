@@ -5,7 +5,7 @@ export const femithain = {
   type: "world-character",
   slug: "femithain",
   title: "Femithain",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   eventCount: 1,
   firstChapter: 457,
   lastChapter: 457,

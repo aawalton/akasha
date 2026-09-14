@@ -5,7 +5,7 @@ export const lyonette = {
   type: "world-character",
   slug: "lyonette",
   title: "Lion Solstice",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 41,
   eventCount: 50,
   firstChapter: 148,

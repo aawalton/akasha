@@ -5,5 +5,5 @@ export const emberbody = {
   type: "world-condition",
   slug: "emberbody",
   title: "Emberbody",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldCondition

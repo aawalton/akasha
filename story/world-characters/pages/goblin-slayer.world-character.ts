@@ -5,7 +5,7 @@ export const goblinSlayer = {
   type: "world-character",
   slug: "goblin-slayer",
   title: "Ser Solstice",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 28,
   eventCount: 5,
   firstChapter: 378,

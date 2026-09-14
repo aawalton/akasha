@@ -14,5 +14,5 @@ export const cinaeluObserved = {
   namedEventKind: "festival",
   lastChapter: 530,
   seq: 9,
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

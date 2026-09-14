@@ -5,5 +5,5 @@ export const maskOfTheYellowSmogTribe = {
   type: "world-item",
   slug: "mask-of-the-yellow-smog-tribe",
   title: "Mask of the Yellow Smog Tribe",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldItem

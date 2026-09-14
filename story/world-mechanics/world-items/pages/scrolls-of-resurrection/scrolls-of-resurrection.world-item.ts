@@ -5,6 +5,6 @@ export const scrollsOfResurrection = {
   type: "world-item",
   slug: "scrolls-of-resurrection",
   title: "Scrolls of Resurrection",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldItem

@@ -5,7 +5,7 @@ export const headscratcher = {
   type: "world-character",
   slug: "headscratcher",
   title: "Headscratcher",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 20,
   eventCount: 4,
   firstChapter: 276,

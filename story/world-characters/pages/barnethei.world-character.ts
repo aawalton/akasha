@@ -5,7 +5,7 @@ export const barnethei = {
   type: "world-character",
   slug: "barnethei",
   title: "Barnethei",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 46,
   eventCount: 8,
   firstChapter: 772,

@@ -5,7 +5,7 @@ export const ryokaGriffin = {
   type: "world-character",
   slug: "ryoka-griffin",
   title: "Ryoka",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 8,
   eventCount: 5,
   firstChapter: 107,

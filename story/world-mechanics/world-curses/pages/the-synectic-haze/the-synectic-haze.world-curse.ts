@@ -5,5 +5,5 @@ export const theSynecticHaze = {
   type: "world-curse",
   slug: "the-synectic-haze",
   title: "The Synectic Haze",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldCurse

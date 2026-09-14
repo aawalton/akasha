@@ -5,7 +5,7 @@ export const dureneFaerise = {
   type: "world-character",
   slug: "durene-faerise",
   title: "Durene",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 3,
   eventCount: 5,
   firstChapter: 713,

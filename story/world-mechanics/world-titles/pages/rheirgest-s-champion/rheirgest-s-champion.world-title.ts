@@ -5,5 +5,5 @@ export const rheirgestSChampion = {
   type: "world-title",
   slug: "rheirgest-s-champion",
   title: "Rheirgest’s Champion",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldTitle

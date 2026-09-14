@@ -5,6 +5,6 @@ export const theEmptyMind = {
   type: "world-condition",
   slug: "the-empty-mind",
   title: "The Empty Mind",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldCondition

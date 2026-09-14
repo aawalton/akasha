@@ -5,6 +5,6 @@ export const famousName = {
   type: "world-condition",
   slug: "famous-name",
   title: "Famous Name",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldCondition

@@ -5,5 +5,5 @@ export const plaguesteelMinor = {
   type: "world-condition",
   slug: "plaguesteel-minor",
   title: "Plaguesteel (Minor)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldCondition

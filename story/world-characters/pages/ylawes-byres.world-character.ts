@@ -5,7 +5,7 @@ export const ylawesByres = {
   type: "world-character",
   slug: "ylawes-byres",
   title: "Ylawes",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 38,
   eventCount: 2,
   firstChapter: 692,

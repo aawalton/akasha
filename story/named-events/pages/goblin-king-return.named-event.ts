@@ -12,5 +12,5 @@ export const goblinKingReturn = {
     "ruled from sweep evidence 'after the return of the Goblin King' — NOT Velan (velan-death is separate) - evidence says return of (rhia-ruled 2026-07-15 drain-end batch)",
   namedEventKind: "global-event",
   seq: 25,
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

@@ -5,7 +5,7 @@ export const valeterisa = {
   type: "world-character",
   slug: "valeterisa",
   title: "Archmage Valeterisa",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 54,
   eventCount: 4,
   firstChapter: 607,

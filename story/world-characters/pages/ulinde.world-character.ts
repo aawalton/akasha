@@ -5,7 +5,7 @@ export const ulinde = {
   type: "world-character",
   slug: "ulinde",
   title: "Ulinde",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 28,
   eventCount: 3,
   firstChapter: 506,

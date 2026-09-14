@@ -5,5 +5,5 @@ export const duelistOfLesegoth = {
   type: "world-title",
   slug: "duelist-of-lesegoth",
   title: "Duelist of Lesegoth",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldTitle

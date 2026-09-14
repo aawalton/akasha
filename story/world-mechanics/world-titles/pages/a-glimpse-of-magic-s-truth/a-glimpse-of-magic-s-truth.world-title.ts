@@ -5,5 +5,5 @@ export const aGlimpseOfMagicSTruth = {
   type: "world-title",
   slug: "a-glimpse-of-magic-s-truth",
   title: "A Glimpse of Magic’s Truth",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldTitle

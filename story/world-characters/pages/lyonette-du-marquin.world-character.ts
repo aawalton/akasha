@@ -5,7 +5,7 @@ export const lyonetteDuMarquin = {
   type: "world-character",
   slug: "lyonette-du-marquin",
   title: "Lyonette du Marquin",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 38,
   eventCount: 19,
   firstChapter: 424,

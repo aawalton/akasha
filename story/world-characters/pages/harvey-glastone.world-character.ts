@@ -5,7 +5,7 @@ export const harveyGlastone = {
   type: "world-character",
   slug: "harvey-glastone",
   title: "Harvey Glastone",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 40,
   eventCount: 2,
   firstChapter: 807,

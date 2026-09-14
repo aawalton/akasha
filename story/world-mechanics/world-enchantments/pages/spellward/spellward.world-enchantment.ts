@@ -5,5 +5,5 @@ export const spellward = {
   type: "world-enchantment",
   slug: "spellward",
   title: "Spellward",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldEnchantment

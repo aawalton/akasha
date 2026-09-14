@@ -5,5 +5,5 @@ export const nerrhaviaSFallenHeroic = {
   type: "world-reputation",
   slug: "nerrhavia-s-fallen-heroic",
   title: "Nerrhavia’s Fallen (Heroic)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldReputation

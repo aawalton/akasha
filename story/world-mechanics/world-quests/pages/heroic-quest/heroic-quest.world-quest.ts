@@ -5,5 +5,5 @@ export const heroicQuest = {
   type: "world-quest",
   slug: "heroic-quest",
   title: "Heroic Quest",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldQuest

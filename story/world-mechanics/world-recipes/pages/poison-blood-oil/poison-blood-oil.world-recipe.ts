@@ -5,5 +5,5 @@ export const poisonBloodOil = {
   type: "world-recipe",
   slug: "poison-blood-oil",
   title: "Poison Blood Oil",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldRecipe

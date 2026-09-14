@@ -5,7 +5,7 @@ export const spy = {
   type: "world-character",
   slug: "spy",
   title: "unknown spy",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 30,
   eventCount: 6,
   firstChapter: 654,

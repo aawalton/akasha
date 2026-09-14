@@ -5,6 +5,6 @@ export const smiteEnemy = {
   type: "world-miracle",
   slug: "smite-enemy",
   title: "Smite Enemy",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldMiracle

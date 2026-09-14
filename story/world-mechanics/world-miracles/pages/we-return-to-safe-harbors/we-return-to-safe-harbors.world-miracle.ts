@@ -5,5 +5,5 @@ export const weReturnToSafeHarbors = {
   type: "world-miracle",
   slug: "we-return-to-safe-harbors",
   title: "We Return to Safe Harbors",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldMiracle

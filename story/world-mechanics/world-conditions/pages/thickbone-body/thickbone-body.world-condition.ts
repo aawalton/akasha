@@ -5,5 +5,5 @@ export const thickboneBody = {
   type: "world-condition",
   slug: "thickbone-body",
   title: "Thickbone Body",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldCondition

@@ -5,5 +5,5 @@ export const theBraveFallFirst = {
   type: "world-song",
   slug: "the-brave-fall-first",
   title: "The Brave Fall First",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSong

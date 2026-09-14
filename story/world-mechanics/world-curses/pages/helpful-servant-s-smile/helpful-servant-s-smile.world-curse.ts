@@ -5,5 +5,5 @@ export const helpfulServantSSmile = {
   type: "world-curse",
   slug: "helpful-servant-s-smile",
   title: "Helpful Servant’s Smile",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldCurse

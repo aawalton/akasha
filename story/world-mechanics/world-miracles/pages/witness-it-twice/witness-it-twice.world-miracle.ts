@@ -5,5 +5,5 @@ export const witnessItTwice = {
   type: "world-miracle",
   slug: "witness-it-twice",
   title: "Witness It, Twice",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldMiracle

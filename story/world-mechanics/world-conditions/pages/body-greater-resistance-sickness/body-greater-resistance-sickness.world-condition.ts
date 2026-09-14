@@ -5,5 +5,5 @@ export const bodyGreaterResistanceSickness = {
   type: "world-condition",
   slug: "body-greater-resistance-sickness",
   title: "Body – Greater Resistance: Sickness",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldCondition

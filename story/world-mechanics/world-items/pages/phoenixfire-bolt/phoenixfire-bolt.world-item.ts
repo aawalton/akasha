@@ -5,6 +5,6 @@ export const phoenixfireBolt = {
   type: "world-item",
   slug: "phoenixfire-bolt",
   title: "Phoenixfire Bolt",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldItem

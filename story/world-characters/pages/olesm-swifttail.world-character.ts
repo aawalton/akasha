@@ -5,7 +5,7 @@ export const olesmSwifttail = {
   type: "world-character",
   slug: "olesm-swifttail",
   title: "Olesm",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 33,
   eventCount: 2,
   firstChapter: 424,

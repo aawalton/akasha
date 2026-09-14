@@ -5,7 +5,7 @@ export const apista = {
   type: "world-character",
   slug: "apista",
   title: "Apista",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   eventCount: 2,
   firstChapter: 319,
   lastChapter: 319,

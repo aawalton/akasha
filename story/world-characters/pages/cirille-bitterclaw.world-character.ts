@@ -5,7 +5,7 @@ export const cirilleBitterclaw = {
   type: "world-character",
   slug: "cirille-bitterclaw",
   title: "Cirille",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 33,
   eventCount: 2,
   firstChapter: 438,

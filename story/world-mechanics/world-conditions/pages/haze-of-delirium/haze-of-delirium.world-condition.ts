@@ -5,5 +5,5 @@ export const hazeOfDelirium = {
   type: "world-condition",
   slug: "haze-of-delirium",
   title: "Haze of Delirium",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldCondition

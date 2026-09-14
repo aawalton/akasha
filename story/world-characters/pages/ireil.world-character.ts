@@ -5,7 +5,7 @@ export const ireil = {
   type: "world-character",
   slug: "ireil",
   title: "Ireil",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 5,
   eventCount: 7,
   firstChapter: 674,

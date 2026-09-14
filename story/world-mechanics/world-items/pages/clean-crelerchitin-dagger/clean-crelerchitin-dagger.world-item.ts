@@ -5,5 +5,5 @@ export const cleanCrelerchitinDagger = {
   type: "world-item",
   slug: "clean-crelerchitin-dagger",
   title: "Clean Crelerchitin Dagger",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldItem

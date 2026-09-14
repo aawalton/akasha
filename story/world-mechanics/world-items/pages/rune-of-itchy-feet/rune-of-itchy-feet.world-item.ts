@@ -5,6 +5,6 @@ export const runeOfItchyFeet = {
   type: "world-item",
   slug: "rune-of-itchy-feet",
   title: "Rune of Itchy Feet",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldItem

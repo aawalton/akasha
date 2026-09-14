@@ -5,7 +5,7 @@ export const alevica = {
   type: "world-character",
   slug: "alevica",
   title: "Alevica",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 34,
   eventCount: 8,
   firstChapter: 714,

@@ -5,7 +5,7 @@ export const damia = {
   type: "world-character",
   slug: "damia",
   title: "Damia Reinhart",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 12,
   eventCount: 9,
   firstChapter: 820,

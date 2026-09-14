@@ -5,7 +5,7 @@ export const relc = {
   type: "world-character",
   slug: "relc",
   title: "Relc",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 40,
   eventCount: 9,
   firstChapter: 430,

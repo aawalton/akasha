@@ -5,7 +5,7 @@ export const normen = {
   type: "world-character",
   slug: "normen",
   title: "Normen",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 30,
   eventCount: 11,
   firstChapter: 650,

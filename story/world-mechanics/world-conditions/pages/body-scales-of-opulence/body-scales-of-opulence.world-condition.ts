@@ -5,5 +5,5 @@ export const bodyScalesOfOpulence = {
   type: "world-condition",
   slug: "body-scales-of-opulence",
   title: "Body – Scales of Opulence",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldCondition

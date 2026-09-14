@@ -5,7 +5,7 @@ export const nollesc = {
   type: "world-character",
   slug: "nollesc",
   title: "Nollesc",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   maxLevel: 31,
   eventCount: 1,
   firstChapter: 655,

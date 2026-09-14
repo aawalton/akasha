@@ -5,6 +5,6 @@ export const incredibleSolvent = {
   type: "world-item",
   slug: "incredible-solvent",
   title: "Incredible Solvent",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldItem

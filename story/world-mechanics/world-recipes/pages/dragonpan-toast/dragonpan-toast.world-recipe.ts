@@ -5,5 +5,5 @@ export const dragonpanToast = {
   type: "world-recipe",
   slug: "dragonpan-toast",
   title: "Dragonpan Toast",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldRecipe

@@ -5,6 +5,6 @@ export const restored = {
   type: "world-condition",
   slug: "restored",
   title: "Restored",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldCondition

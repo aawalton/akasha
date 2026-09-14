@@ -5,7 +5,7 @@ export const drassi = {
   type: "world-character",
   slug: "drassi",
   title: "Drassi",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   eventCount: 2,
   firstChapter: 435,
   lastChapter: 435,
