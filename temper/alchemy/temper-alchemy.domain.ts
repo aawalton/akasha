@@ -9,7 +9,6 @@ export const temperAlchemy = {
     "module/poison-effect",
     "module/poison-source",
     "module/potion-source",
-    "module/potion-traits",
     "module/potions-crafted",
     "module/potions-crafted-health",
     "module/potions-crafted-magicka",
