@@ -3,12 +3,9 @@ import { join } from "node:path"
 import { typed } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import { identityIn } from "akasha/pages/indexes/identity/index-identity.index.code.ts"
 import { importIn } from "akasha/pages/indexes/import/index-import.index.code.ts"
-import { listedOf } from "akasha/pages/indexes/listing/index-listing.index.code.ts"
 import {
   fileKeysIn,
   filePropertiesIn,
-  folderPropertiesIn,
-  uncommittedFiledIn,
   uniquePropertiesIn,
 } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import {
@@ -24,11 +21,7 @@ import {
   bodiesAt,
   reachingBuilt,
 } from "akasha/pages/indexes/modules/package-reaching/package-reaching.module.code.ts"
-import {
-  claimingIn,
-  sidecarsIn,
-  under,
-} from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
+import { under } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
 import { knownIn } from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
 import {
   refusingEmpty,
@@ -126,17 +119,6 @@ export function refreshedFrom(
   const identifying = identifyingFrom(source)
   const identity = held.flatMap((one) => identityIn(one.value, one.path, repo, identifying))
   const drift = [reconcile(identity, root, put, done)]
-  const sidecars = sidecarsIn(values)
-  const claim = claimingIn(
-    repo,
-    filedBy,
-    sidecars,
-    uncommittedFiledIn(values),
-    folderPropertiesIn(values)
-  )
-  const paths = held.flatMap((one) => claim(one.value, one.path, false))
-  const listed = listedOf(paths)
-  drift.push(reconcile(listed, root, put, done))
   const valued = held.flatMap((one) => valueIn(one.value, one.path, repo))
   drift.push(reconcile(valued, root, put, done))
   const shaped = values.flatMap((one) => shapeFiled(one))
@@ -162,23 +144,13 @@ export function refreshedFrom(
   drift.push(reconcile(imported, root, put, done))
   const ruled = [...walked.flatMap((one) => ruleIn(one.body, one.path, repo)), readerIn()]
   drift.push(reconcile(ruled, root, put, done))
-  const every = [
-    ...identity,
-    ...listed,
-    ...valued,
-    ...shaped,
-    ...carrying,
-    ...relation,
-    ...imported,
-    ...ruled,
-  ]
+  const every = [...identity, ...valued, ...shaped, ...carrying, ...relation, ...imported, ...ruled]
   const went = takenAway(every, root, put, done)
   if (put) keepBuilt(root)
   return {
     pages: held.length,
     entries:
       identity.length +
-      listed.length +
       relation.length +
       imported.length +
       ruled.length +

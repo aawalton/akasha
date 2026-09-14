@@ -1,14 +1,11 @@
 import { identityIn } from "akasha/pages/indexes/identity/index-identity.index.code.ts"
 import { importIn } from "akasha/pages/indexes/import/index-import.index.code.ts"
-import { listedOf } from "akasha/pages/indexes/listing/index-listing.index.code.ts"
 import {
   idsUnnamed,
-  pagesBeside,
   pagesElsewhere,
   pagesNaming,
   pagesOfTypes,
   pagesStranded,
-  pagesTurned,
   relationsTurned,
   typesDeclaring,
 } from "akasha/pages/indexes/modules/beside-turning/beside-turning.module.code.ts"
@@ -17,10 +14,8 @@ import {
   fileKeysAt,
   fileKeysIn,
   filePropertiesOver,
-  folderPropertiesOver,
   type Identifier,
   pageTypesIn,
-  uncommittedFiledOver,
   uniquePropertiesAt,
 } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import {
@@ -29,11 +24,7 @@ import {
   reachingSettled,
   rereadOver,
 } from "akasha/pages/indexes/modules/package-reaching/package-reaching.module.code.ts"
-import {
-  claimingIn,
-  sidecarsOver,
-  under,
-} from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
+import { under } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
 import { shapesAt } from "akasha/pages/indexes/modules/property-shaping/property-shaping.module.code.ts"
 import { knownIn, type Shaped } from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
 import {
@@ -187,7 +178,6 @@ export function settlingOver(
   const left = held.flatMap((one) => (one.now === null ? [] : [one.now]))
   const fileProperties = new Map<string, string | null>([...filed, ...fileKeysIn(left)])
   const filedBy = filePropertiesOver(reading, left)
-  const sidecars = sidecarsOver(reading, left)
   const naming = reachingSettled(reading, held, moving, repo, fileProperties, filedBy)
   const { was: wasNaming, reread } = rereadOver(
     reading,
@@ -263,42 +253,6 @@ export function settlingOver(
       ...elsewhere.flatMap((one) => identityIn(one.value, one.path, repo, nowIdentifying, turned)),
     ]
   )
-  const wasBesides = {
-    fileProperties: filePropertiesOver(reading, []),
-    sidecars: sidecarsOver(reading, []),
-  }
-  const wasClaim = claimingIn(
-    repo,
-    wasBesides.fileProperties,
-    wasBesides.sidecars,
-    uncommittedFiledOver(reading, []),
-    folderPropertiesOver(reading, []),
-    carried
-  )
-  const claim = claimingIn(
-    repo,
-    filedBy,
-    sidecars,
-    uncommittedFiledOver(reading, left),
-    folderPropertiesOver(reading, left),
-    carried
-  )
-  const beside = pagesTurned(reading, wasBesides, { fileProperties: filedBy, sidecars }, carriedAt)
-  const turnedAt = new Set(beside.map((one) => one.path))
-  const alongside = [
-    ...beside,
-    ...pagesBeside(reading, carriedAt).filter((one) => !turnedAt.has(one.path)),
-  ]
-  const wasPaths = [
-    ...held.flatMap((one) => (one.was === null ? [] : wasClaim(one.was, one.path, true))),
-    ...alongside.flatMap((one) => wasClaim(one.value, one.path, true)),
-  ]
-  const nowPaths = [
-    ...held.flatMap((one) => (one.now === null ? [] : claim(one.now, one.path, false))),
-    ...alongside.flatMap((one) => claim(one.value, one.path, false)),
-  ]
-  const listing = filingOf(listedOf(wasPaths), listedOf(nowPaths))
-
   const stepped = overlaidOn(reading, [...imported, ...identity, ...valued, ...shaping])
   const wasBody: Body = (at) => {
     const one = carried.get(under(repo, at))
@@ -365,7 +319,6 @@ export function settlingOver(
     ...relation,
     ...valued,
     ...shaping,
-    ...listing,
     ...carrying,
   ]
   const wrote = new Map(moving.map((one) => [under(repo, one.path), one.after] as const))

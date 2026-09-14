@@ -7,7 +7,6 @@ import {
   refreshedFrom,
 } from "akasha/pages/indexes/modules/indexing/indexing.module.code.ts"
 import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { listedIn } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import {
   filingOf,
   settlingOver,
@@ -19,7 +18,6 @@ import {
   aType,
   bodyOf,
   butTheStamp,
-  HELD_CODE,
   IDENTIFIERS,
   idOf,
   indexedRepo,
@@ -213,68 +211,6 @@ test("a refusal the world already had is answered apart from the refusal a chang
   expect(settled.refused).toEqual([
     `${NAMER_PAGE}: \`note\` — no page admitting \`file-property\` carries the slug \`held\``,
   ])
-})
-
-const BESIDE_AT = "akasha/one/held.module.code.part2.ts"
-
-test("a change adding a file beside a page it leaves alone files that file under the page", () => {
-  const root = indexedRepo()
-  const textOf = textIn(root)
-  const reading = readingIn(root)
-
-  expect(listedIn(reading, HELD_CODE)).toBe(true)
-  expect(listedIn(reading, BESIDE_AT)).toBe(false)
-
-  const settled = settlingOver(
-    reading,
-    root,
-    [{ path: BESIDE_AT, before: null, after: "export const two = 2\n" }],
-    (path) => {
-      const body = textOf(path)
-      return body === null ? null : valueIn(body)
-    },
-    textOf
-  )
-
-  expect(listedIn(settled.reading, BESIDE_AT)).toBe(true)
-})
-
-const MODULE_AT = "akasha/module.page-type.ts"
-
-const MODULE_DEFAULTING = bodyOf({
-  id: idOf("6"),
-  pageTypeSlug: "page-type",
-  slug: "module",
-  extends: ["page-type/domain"],
-  properties: [
-    { pagePropertySlug: "code", required: false, many: false },
-    { pageProperty: "file-property/test", required: false, many: false, default: "ts" },
-    { pagePropertySlug: "note", required: false, many: false },
-    { pagePropertySlug: "part-slugs", required: false, many: false },
-  ],
-})
-
-const HELD_TEST = "akasha/one/held.module.test.ts"
-
-test("a file the page's type declares beside every such page is filed under that page too", () => {
-  const root = indexedRepo({ [MODULE_AT]: MODULE_DEFAULTING })
-  const textOf = textIn(root)
-  const reading = readingIn(root)
-
-  expect(listedIn(reading, HELD_TEST)).toBe(false)
-
-  const settled = settlingOver(
-    reading,
-    root,
-    [{ path: HELD_TEST, before: null, after: "export const proved = 1\n" }],
-    (path) => {
-      const body = textOf(path)
-      return body === null ? null : valueIn(body)
-    },
-    textOf
-  )
-
-  expect(listedIn(settled.reading, HELD_TEST)).toBe(true)
 })
 
 test("a refresh agrees with the index a page taken from under a name left", () => {

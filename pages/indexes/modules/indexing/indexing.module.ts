@@ -26,11 +26,7 @@ export const indexing = {
       statement:
         "An edge for a specifier naming a package is filed from the manifests the pages state.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "A property whose file has a fixed name claims no file named for a slug and a page type.",
-    },
+
     {
       invariantKind: "departure",
       statement:

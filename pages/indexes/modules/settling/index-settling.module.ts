@@ -50,17 +50,7 @@ export const indexSettling = {
     {
       invariantKind: "departure",
       statement:
-        "A change turning which files a page type has files every page already of that page type.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
         "A change taking a page type's slug away withdraws every page already of that page type.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The paths a change withdraws are read against the files the page types had before the change.",
     },
     {
       invariantKind: "departure",
@@ -86,15 +76,7 @@ export const indexSettling = {
       invariantKind: "departure",
       statement: "The relation filing covers pages the change does not carry.",
     },
-    {
-      invariantKind: "departure",
-      statement: "The path filing covers the page each file the change carries sits beside.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "That page's paths are worked out again both as the world was and as the change leaves it.",
-    },
+
     {
       invariantKind: "departure",
       statement:
