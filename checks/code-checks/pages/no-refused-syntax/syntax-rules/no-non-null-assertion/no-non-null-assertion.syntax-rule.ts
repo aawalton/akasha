@@ -10,28 +10,28 @@ export const noNonNullAssertion = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The operator is found in the parse and never in the text.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The operator is refused wherever an expression may sit.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An operator reached through an optional chain is refused as a bare operator is.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An operator sitting on another operator is refused once for each operator.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A definite assignment written on a declaration is another spelling and is not this operator.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Logical negation shares the character and is untouched.",
     },
   ],

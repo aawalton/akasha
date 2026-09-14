@@ -9,33 +9,33 @@ export const noAngleBracketCast = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The form is found in the parse and never in the text.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "`as` is the spelling an assertion is written in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The same characters in a `.tsx` file are read as a tag rather than as an assertion.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "How the assertion is written is judged here rather than the type that assertion asserts.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One assertion wrapping another assertion is refused once for each assertion.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A type argument written on a call has the same brackets and is untouched.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "The same assertion written with `as` is left.",
     },
   ],
