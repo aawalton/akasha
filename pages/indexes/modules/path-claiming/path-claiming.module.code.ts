@@ -305,23 +305,42 @@ const TS = ".ts"
 
 const HELD = "ts"
 
-function typesNaming(
-  named: string,
-  fileProperties: FilePropertiesBy,
-  folders: FoldersBy
-): ReadonlySet<string> {
-  const found = new Set<string>()
+const NO_TYPES: ReadonlySet<string> = new Set()
+
+type TypesNaming = (named: string) => ReadonlySet<string>
+
+const NAMING = new WeakMap<FilePropertiesBy, WeakMap<FoldersBy, TypesNaming>>()
+
+function namingOver(fileProperties: FilePropertiesBy, folders: FoldersBy): TypesNaming {
+  const found = new Map<string, Set<string>>()
+  const held = (named: string): Set<string> => {
+    const done = found.get(named)
+    if (done !== undefined) return done
+    const made = new Set<string>()
+    found.set(named, made)
+    return made
+  }
   for (const [pageTypeSlug, carried] of fileProperties) {
     for (const fileName of carried.values()) {
-      if (fileName === named) found.add(pageTypeSlug)
+      if (fileName !== null) held(fileName).add(pageTypeSlug)
     }
   }
   for (const [pageTypeSlug, carried] of folders) {
     for (const folderName of carried.values()) {
-      if (folderName === named) found.add(pageTypeSlug)
+      if (folderName !== null) held(folderName).add(pageTypeSlug)
     }
   }
-  return found
+  return (named) => found.get(named) ?? NO_TYPES
+}
+
+function typesNaming(fileProperties: FilePropertiesBy, folders: FoldersBy): TypesNaming {
+  const beneath = NAMING.get(fileProperties) ?? new WeakMap<FoldersBy, TypesNaming>()
+  const done = beneath.get(folders)
+  if (done !== undefined) return done
+  const made = namingOver(fileProperties, folders)
+  beneath.set(folders, made)
+  NAMING.set(fileProperties, beneath)
+  return made
 }
 
 export type Listing = (folder: string) => readonly string[]
@@ -350,11 +369,12 @@ export function claimantOf(
   if (said !== null && pageTypes.has(said.pageType)) {
     return join(dirname(path), `${pageOf(said)}${TS}`)
   }
+  const naming = typesNaming(fileProperties, folders)
   let folder = dirname(path)
   if (folder === ".") folder = ""
   for (;;) {
     const named = folder === "" ? path : path.slice(folder.length + 1)
-    const types = typesNaming(named, fileProperties, folders)
+    const types = naming(named)
     if (types.size > 0) {
       const found = pagedOfTypeIn(listing, folder, types)
       if (found !== null) return found

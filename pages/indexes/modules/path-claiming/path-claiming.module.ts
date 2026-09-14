@@ -194,5 +194,10 @@ export const pathClaiming = {
       invariantKind: "departure",
       statement: "A caller judging an answer hands in the folder as that answer leaves it.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The names page types declare are gathered once for a set of types rather than once for each path.",
+    },
   ],
 } as const satisfies Module
