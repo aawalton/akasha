@@ -166,6 +166,11 @@ test("a value whose property declares fields and holds no record is refused", ()
   ])
 })
 
+test("a property holding its values beside the page states that file's extension", () => {
+  expect(over({ id: "a", slug: "one", lines: "jsonl" }, "told")).toEqual([])
+  expect(over({ id: "a", slug: "one", rows: "jsonl" }, "told")).toEqual([])
+})
+
 test("a record nested in a record field is judged against what declares that record", () => {
   const rows = [{ pagePropertySlug: "x" }, { pagePropertySlug: "y", nope: 1 }]
   const held = { id: "a", slug: "one", directives: [{ name: "go", properties: rows }] }

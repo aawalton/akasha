@@ -45,6 +45,8 @@ const TYPES: readonly Value[] = [
       { pagePropertySlug: "directives", required: false, many: true, maxCount: null },
       { pagePropertySlug: "aids", required: false, many: true, maxCount: null },
       { pagePropertySlug: "tally", required: false, many: false },
+      { pagePropertySlug: "lines", required: false, many: false },
+      { pagePropertySlug: "rows", required: false, many: false },
     ],
   },
   {
@@ -131,6 +133,18 @@ const SHAPES: readonly Value[] = [
     pageTypeSlug: "name-format",
     slug: FORMAT,
     code: "ts",
+  },
+  {
+    id: "01a0540d-0000-7000-8000-000000000023",
+    pageTypeSlug: "page-type",
+    slug: "page-property-entry",
+    extends: ["page-property"],
+  },
+  {
+    id: "01a0540d-0000-7000-8000-000000000024",
+    pageTypeSlug: "page-type",
+    slug: "rowed-property",
+    extends: ["page-type/page-property-entry"],
   },
 ]
 
@@ -244,6 +258,20 @@ const PROPERTIES: Record<string, Value> = {
     pageTypeSlug: "relation-property",
     slug: "page-type-slug",
     propertySlug: "page-type-slug",
+  },
+  lines: {
+    id: "01a0540d-0000-7000-8000-000000000025",
+    pageTypeSlug: "page-property-entry",
+    slug: "lines",
+    propertySlug: "lines",
+    properties: [{ pagePropertySlug: "name", required: true, many: false }],
+  },
+  rows: {
+    id: "01a0540d-0000-7000-8000-000000000026",
+    pageTypeSlug: "rowed-property",
+    slug: "rows",
+    propertySlug: "rows",
+    properties: [{ pagePropertySlug: "name", required: true, many: false }],
   },
   directives: {
     id: "01a0540d-0000-7000-8000-00000000000e",

@@ -44,6 +44,11 @@ export const entryReasons = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A property whose page type is under `page-property-entry` keeps its values beside the page.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A field whose property names members is opened against the members it names.",
     },
     {

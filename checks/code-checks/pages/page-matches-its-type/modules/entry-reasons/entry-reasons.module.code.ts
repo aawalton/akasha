@@ -1,7 +1,8 @@
+import { ENTRY_PROPERTY } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import { addressIn } from "akasha/pages/modules/address/page-address.module.code.ts"
-import { entriedAmong, entriesIn } from "akasha/pages/modules/entries/page-entries.module.code.ts"
+import { entriesIn } from "akasha/pages/modules/entries/page-entries.module.code.ts"
 import { partsReading } from "akasha/pages/modules/file-parts/page-file-parts.module.code.ts"
-import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
+import { heldPerShadow, type Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import {
   numberAt,
   textAt,
@@ -90,6 +91,8 @@ export const COMPUTED = "computed-property"
 
 export const NOTHING_OPENED: Opened = { among: [], fields: NO_FIELDS, plain: true }
 
+const entriedIn = heldPerShadow((shadow: Shadow) => shadow.index.kindsUnder(ENTRY_PROPERTY))
+
 function memberNamesIn(page: Value): readonly string[] {
   const said = page[MEMBERS]
   if (!Array.isArray(said)) return []
@@ -144,17 +147,15 @@ export function noMemberIn(slug: string): string {
 }
 
 export function fieldsReading(shadow: Shadow, pageFor: (one: Carried) => Value | null): Fielding {
+  const entried = entriedIn(shadow)
   return (one) => {
+    if (entried.has(one.pageTypeSlug)) return NOTHING_OPENED
     const page = pageFor(one)
     if (page === null) return NOTHING_OPENED
     if (one.pageTypeSlug === ONE_OF) return openedAmong(page, shadow)
     const fields = fieldsFor(page, shadow, one.pagePropertySlug)
     return fields.size === 0 ? NOTHING_OPENED : { among: [], fields, plain: false }
   }
-}
-
-export function recordFieldsIn(one: Carried, fieldsIn: Fielding): Opened {
-  return entriedAmong([one]).length > 0 ? NOTHING_OPENED : fieldsIn(one)
 }
 
 export function noRecordIn(said: unknown, slug: string): string {
@@ -218,7 +219,7 @@ export function fieldsOf(
       const twice = twiceIn(stated, `${slug} ${field}`)
       if (twice !== null) said.push(twice)
     }
-    const inside = recordFieldsIn(shaped, fieldsIn)
+    const inside = fieldsIn(shaped)
     for (const each of many ? stated : [stated]) {
       const why = overLength(each, max, `${slug} ${field}`, "")
       if (why !== null) said.push(why)
@@ -278,7 +279,9 @@ export function entryReasonsIn(
   const pageFor = (one: Carried): Value | null =>
     shadow.index.pageAt(one.pageTypeSlug, one.pagePropertySlug)
   const fieldsIn = fieldsReading(shadow, pageFor)
-  for (const one of entriedAmong(declared)) {
+  const entried = entriedIn(shadow)
+  for (const one of declared) {
+    if (!entried.has(one.pageTypeSlug)) continue
     const held = value[one.key]
     if (typeof held !== "string") continue
     const shaping = entryShapingFor(one, shadow, pageFor, formatting, fieldsIn)

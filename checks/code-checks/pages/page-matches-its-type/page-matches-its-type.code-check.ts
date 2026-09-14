@@ -158,6 +158,11 @@ export const pageMatchesItsType = {
       statement: "A value whose property declares fields and is no record refuses the page.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A property whose page type is under `page-property-entry` states its file's extension.",
+    },
+    {
       invariantKind: "absence",
       statement: "No other sort a value has is judged here.",
     },

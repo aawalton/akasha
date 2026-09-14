@@ -9,7 +9,6 @@ import {
   noRecordIn,
   offFormat,
   overLength,
-  recordFieldsIn,
   type Shaping,
   twiceIn,
 } from "akasha/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts"
@@ -100,7 +99,7 @@ export function reasonsIn(
       const off = offFormat(each, format, formatting, slug)
       if (off !== null) said.push(off)
     }
-    const opened = recordFieldsIn(one, fieldsIn)
+    const opened = fieldsIn(one)
     const among = opened.among.length > 0
     const shaped = opened.fields.size > 0 ? opened.fields : groupedFor(one, held, shadow)
     if (shaped.size === 0 && !among) continue
