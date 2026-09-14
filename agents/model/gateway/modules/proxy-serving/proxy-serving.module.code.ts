@@ -1,6 +1,9 @@
 import { mkdirSync, rmSync } from "node:fs"
 import { dirname } from "node:path"
-import { buildAccountPicker } from "akasha/agents/model/gateway/modules/account-picker/account-picker.module.code.ts"
+import {
+  buildAccountPicker,
+  type PickAccount,
+} from "akasha/agents/model/gateway/modules/account-picker/account-picker.module.code.ts"
 import {
   type AccountWalkSeams,
   runAccountWalk,
@@ -11,7 +14,10 @@ import {
   buildForward,
   type Forward,
 } from "akasha/agents/model/gateway/modules/forward/forward.module.code.ts"
-import { freshCredentialIn } from "akasha/agents/model/gateway/modules/fresh-credential/fresh-credential.module.code.ts"
+import {
+  type FreshCredential,
+  freshCredentialIn,
+} from "akasha/agents/model/gateway/modules/fresh-credential/fresh-credential.module.code.ts"
 import {
   buildHoldRegistry,
   type HoldRegistry,
@@ -75,6 +81,8 @@ const CLIENT_ABORT = "client_abort"
 
 const HANDLER_EXIT = "fetch_handler_exit"
 
+const AUTHORIZATION = "authorization"
+
 export type Listening = {
   readonly port: number | undefined
   readonly stop: () => undefined
@@ -92,6 +100,8 @@ export type ServingParts = {
   readonly oauth: OAuthEffects
   readonly forward: Forward
   readonly holds: HoldRegistry
+  readonly pickAccount: PickAccount
+  readonly getFreshToken: FreshCredential
   readonly logAt: TransportLogAt | undefined
   readonly now: () => number
   readonly slept: (ms: number) => Promise<undefined>
@@ -118,7 +128,7 @@ export type ServingSurface = {
 export type ServingDoors = ServingSurface & { readonly queuedIn?: QueuedIn | undefined }
 
 function requestLine(logPrefix: string, req: Request, pathname: string): string {
-  const auth = req.headers.has("authorization") ? "yes" : "no"
+  const auth = req.headers.has(AUTHORIZATION) ? "yes" : "no"
   return `${logPrefix} req ${req.method} ${pathname} auth=${auth}`
 }
 
@@ -173,16 +183,10 @@ export const SURFACE: ServingSurface = {
 }
 
 function walkSeamsOf(parts: ServingParts): AccountWalkSeams {
-  const { logPrefix, oauth } = parts
-  const getFreshToken = freshCredentialIn({
-    logPrefix,
-    credentialByAccount: (account, prefix) => oauth.getCredentialByAccount(account, prefix),
-    now: parts.now,
-    warned: parts.warned,
-  })
+  const { logPrefix, oauth, pickAccount, getFreshToken } = parts
   return {
     logPrefix,
-    pickAccount: buildAccountPicker(logPrefix, oauth, { said: parts.said }),
+    pickAccount,
     getFreshToken,
     forward: parts.forward,
     markAtLimit: async (given): Promise<undefined> => {
@@ -257,12 +261,29 @@ export function startOAuthProxy(opts: StartOAuthProxyOptions, doors: ServingDoor
 
   const pipeline = doors.queuedIn ?? queuedIn
 
+  const pickAccount = buildAccountPicker(logPrefix, oauth, { said: doors.said })
+  const getFreshToken = freshCredentialIn({
+    logPrefix,
+    credentialByAccount: (account, prefix) => oauth.getCredentialByAccount(account, prefix),
+    now: doors.now,
+    warned: doors.warned,
+  })
+
+  async function relayCredential(): Promise<string | null> {
+    const picked = await pickAccount()
+    if (picked === null) return null
+    const held = await getFreshToken(picked.account)
+    return held === null ? null : held.accessToken
+  }
+
   const handleMessages = buildMessageHandler(logPrefix, {
     queued: pipeline({
       logPrefix,
       oauth,
       forward,
       holds,
+      pickAccount,
+      getFreshToken,
       logAt: doors.logAt,
       now: doors.now,
       slept: doors.slept,
@@ -301,14 +322,15 @@ export function startOAuthProxy(opts: StartOAuthProxyOptions, doors: ServingDoor
 
   async function relayed(req: Request, remoteControl: boolean): Promise<Response> {
     const body = req.body === null ? null : await req.arrayBuffer()
-    if (!remoteControl) return forward(req, null, body, null, { current: null })
+    const token = req.headers.has(AUTHORIZATION) ? null : await relayCredential()
+    if (!remoteControl) return forward(req, token, body, null, { current: null })
     rcConn.begin()
     const ended = buildEndInFlightOnce(rcConn.end)
     const slot: ObserverSlot = { current: null, endInFlight: ended }
     req.signal.addEventListener("abort", ended)
     let handedOff = false
     try {
-      const res = await forward(req, null, body, null, slot)
+      const res = await forward(req, token, body, null, slot)
       if (res.body !== null && slot.current !== null) {
         slot.current.armTerminal(ended)
         handedOff = true

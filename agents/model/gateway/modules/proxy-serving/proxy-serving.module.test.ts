@@ -1,12 +1,16 @@
 import { expect, test } from "bun:test"
 import { startOAuthProxy } from "akasha/agents/model/gateway/modules/proxy-serving/proxy-serving.module.code.ts"
 import {
+  abortedTurn,
   gated,
   heldObserver,
   inFlightOf,
   optionsOf,
+  POOLED_OAUTH,
+  POOLED_TOKEN,
   PORT,
   rcOf,
+  relayedAuthorization,
   requested,
   rigged,
   SOCKET_PATH,
@@ -151,24 +155,9 @@ test("a slot holding an observer nothing armed is emptied", async () => {
 })
 
 test("a client that aborts ends the observer as a client disconnect", async () => {
-  const held = heldObserver()
-  const gate = gated()
-  const control = new AbortController()
-  const rig = rigged({
-    answered: (turn) => {
-      turn.observerSlot.current = held.observer
-      return gate.waited
-    },
-  })
-  startOAuthProxy(optionsOf(), rig.doors)
-  const req = requested("/v1/messages", { ...POSTED, signal: control.signal })
-  const serving = rig.answering(0)(req, rig.listening(0))
-  await ticked()
-  control.abort()
-  expect(held.disconnects()[0]).toBe("client_abort")
-  expect(await inFlightOf(rig)).toBe(0)
-  gate.open(new Response(null, { status: 204 }))
-  await serving
+  const said = await abortedTurn()
+  expect(said.disconnect).toBe("client_abort")
+  expect(said.inFlight).toBe(0)
 })
 
 test("the in-flight count is lowered once however many ends are reached", async () => {
@@ -223,14 +212,17 @@ test("a request carrying a body is read into one buffer before it is forwarded",
   expect(body instanceof ArrayBuffer ? new TextDecoder().decode(body) : null).toBe("hello")
 })
 
-test("a forwarded request is sent with no access token of its own", async () => {
-  const rig = startedProxy()
-  const req = requested("/v1/models", { headers: { authorization: "Bearer invented-value" } })
-  await rig.answering(0)(req, rig.listening(0))
-  const headers = rig.sent[0]?.init.headers
-  expect(headers instanceof Headers ? headers.get("authorization") : null).toBe(
-    "Bearer invented-value"
-  )
+test("a forwarded request carrying its own authorization is sent with no access token", async () => {
+  const own = { headers: { authorization: "Bearer invented-value" } }
+  expect(await relayedAuthorization(POOLED_OAUTH, own)).toBe("Bearer invented-value")
+})
+
+test("a forwarded request carrying no authorization is sent with a picked credential", async () => {
+  expect(await relayedAuthorization(POOLED_OAUTH)).toBe(`Bearer ${POOLED_TOKEN}`)
+})
+
+test("a forwarded request is sent with no access token where no account is left", async () => {
+  expect(await relayedAuthorization(STUB_OAUTH)).toBeNull()
 })
 
 test("an idle span the caller names nowhere reaches the forward as zero", async () => {

@@ -112,7 +112,18 @@ export const proxyServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A forwarded request is sent with no access token of its own.",
+      statement:
+        "A forwarded request carrying an authorization of its own is sent with no access token of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A forwarded request carrying no authorization is sent with the credential of a picked account.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A forwarded request is sent with no access token where no account is left to choose.",
     },
     {
       invariantKind: "departure",

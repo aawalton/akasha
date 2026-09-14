@@ -4,6 +4,7 @@ import type {
 } from "akasha/agents/model/gateway/modules/idle-timeout/idle-timeout.module.code.ts"
 import type { MessageTurn } from "akasha/agents/model/gateway/modules/message-handler/message-handler.module.code.ts"
 import type { OAuthEffects } from "akasha/agents/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
+import type { OAuthCredential } from "akasha/agents/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import {
   type Answering,
   type Listening,
@@ -34,6 +35,26 @@ export const STUB_OAUTH: OAuthEffects = {
   getClaudeAccountPacing: async () => new Map(),
   markAccountSubscriptionDisabled: async () => undefined,
   clearAccountSubscriptionDisabled: async () => undefined,
+}
+
+export const POOLED_TOKEN = "invented-pool-token"
+
+const A_DAY = 86_400_000
+
+const POOLED: OAuthCredential = {
+  account: "invented-account",
+  accessToken: POOLED_TOKEN,
+  refreshToken: "invented-refresh",
+  expiresAt: NOW + A_DAY,
+  scopes: [],
+  subscriptionType: null,
+  rateLimitTier: null,
+}
+
+export const POOLED_OAUTH: OAuthEffects = {
+  ...STUB_OAUTH,
+  getBestCredential: async () => ({ credential: POOLED, fiveHourResetsAtMs: null }),
+  getCredentialByAccount: async () => POOLED,
 }
 
 const STILL_TIMERS: IdleTimers = {
@@ -241,6 +262,16 @@ export function requested(path: string, init: RequestInit = {}): Request {
   return new Request(`${AT}${path}`, init)
 }
 
+export async function relayedAuthorization(
+  oauth: OAuthEffects,
+  init: RequestInit = {}
+): Promise<string | null> {
+  const rig = startedProxy({}, { oauth })
+  await rig.answering(0)(requested("/api/claude_code/policy_limits", init), rig.listening(0))
+  const headers = rig.sent[0]?.init.headers
+  return headers instanceof Headers ? headers.get("authorization") : null
+}
+
 export type Gate = {
   readonly waited: Promise<Response>
   readonly open: (res: Response) => undefined
@@ -300,6 +331,32 @@ export function streamedUpstream(): Streamed {
       held?.close()
     },
   }
+}
+
+export type Aborted = {
+  readonly disconnect: string | undefined
+  readonly inFlight: unknown
+}
+
+export async function abortedTurn(): Promise<Aborted> {
+  const held = heldObserver()
+  const gate = gated()
+  const control = new AbortController()
+  const rig = rigged({
+    answered: (turn) => {
+      turn.observerSlot.current = held.observer
+      return gate.waited
+    },
+  })
+  startOAuthProxy(optionsOf(), rig.doors)
+  const init = { method: "POST", body: "{}", signal: control.signal }
+  const serving = rig.answering(0)(requested("/v1/messages", init), rig.listening(0))
+  await ticked()
+  control.abort()
+  const said = { disconnect: held.disconnects()[0], inFlight: await inFlightOf(rig) }
+  gate.open(new Response(null, { status: 204 }))
+  await serving
+  return said
 }
 
 const OWN = "a70d67f8ee96115ae"
