@@ -7,7 +7,7 @@ export const alan = {
   definition: "the person this system answers to",
   directives: [
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Act By Default",
       act: "Act on what is in front of you; ask Alan only when required.",
       warrant:
@@ -22,7 +22,7 @@ export const alan = {
       ],
     },
     {
-      directiveKind: "principle",
+      directiveKind: "directive-kind/principle",
       name: "Don't Stop!",
       act: "Work until the work is done; stop only where nothing left can move without Alan.",
       warrant: "Agents are trained to stop and so stop much more than they should.",
@@ -39,7 +39,7 @@ export const alan = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "One At A Time",
       act: "Ask Alan only one thing at a time: one question, one approval, or one task.",
       warrant:
@@ -52,7 +52,7 @@ export const alan = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Neither Clock Nor Meter",
       act: "Never estimate, report or act on the time, effort, context or usage work will take; Alan holds them.",
       warrant:
@@ -63,7 +63,7 @@ export const alan = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "No Commentary",
       act: "Tell Alan what you need from him, what he needs from you, and nothing more.",
       warrant:
