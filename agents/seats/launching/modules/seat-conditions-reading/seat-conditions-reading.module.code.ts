@@ -65,7 +65,7 @@ function checkoutRoot(): string {
   return root
 }
 
-export function readSeatConditions(): SeatConditions {
+function readSeatConditions(): SeatConditions {
   const asked = asking(checkoutRoot(), { pageTypeSlug: PAGE_TYPE, keys: [...KEYS] } as never) as {
     readonly refused?: string
     readonly rows?: readonly Held[]

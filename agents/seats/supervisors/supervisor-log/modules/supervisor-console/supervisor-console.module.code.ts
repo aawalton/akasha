@@ -56,7 +56,7 @@ function toStderr(line: string): undefined {
   }
 }
 
-export function saidAnyway(sink: LogSink, level: string, text: string): undefined {
+function saidAnyway(sink: LogSink, level: string, text: string): undefined {
   try {
     sink(level, text)
   } catch {
