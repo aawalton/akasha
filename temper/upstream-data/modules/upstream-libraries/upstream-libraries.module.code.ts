@@ -21,8 +21,6 @@ export type Ruling = {
   readonly parted: readonly string[]
 }
 
-export class PortMismatch extends Error {}
-
 export function libraryNamed(given: string | undefined): UpstreamLibrary | undefined {
   return UPSTREAM_LIBRARIES.find((one) => one === given)
 }
