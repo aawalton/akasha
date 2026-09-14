@@ -1,9 +1,11 @@
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import type {
+  Asking,
+  Landing,
+} from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
-  landedMechanically,
   MECHANICAL_KIND,
-  type runMechanicalChange,
+  runMechanicalChange,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   answeredWith,
@@ -33,13 +35,6 @@ export function askedFor(changes: readonly FileChange[]): readonly Asking[] {
   return asked
 }
 
-export type Landing = (
-  done: string[],
-  root: string,
-  changes: readonly Asking[],
-  message: string
-) => ReturnType<typeof runMechanicalChange>
-
 async function filed(
   done: string[],
   argv: readonly string[],
@@ -49,7 +44,7 @@ async function filed(
 ): Promise<Answer> {
   const built = builtIn(argv, given, piping, MECHANICAL_KIND)
   if ("code" in built) return built
-  const landed = await landing(done, given.root, askedFor(built.changes), built.message)
+  const landed = await landing(given.root, askedFor(built.changes), built.message, null, { done })
   if ("refusals" in landed)
     return answeredWith([...(landed.said ?? [])], landed.refusals, landed.code)
   const wrote = [
@@ -64,7 +59,7 @@ export async function filing(
   argv: readonly string[],
   given: Given,
   piping: Piping,
-  landing: Landing = landedMechanically
+  landing: Landing = runMechanicalChange
 ): Promise<Answer> {
   return await answering(async (done) =>
     naming(done, await filed(done, argv, given, piping, landing))

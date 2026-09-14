@@ -65,9 +65,14 @@ test("a landing that wrote before it went wrong names what it wrote and the comm
 
 test("a call that threw after the landing committed names that commit in its refusal", async () => {
   const piped = () => ({ bytes: new TextEncoder().encode("alpha\n") })
-  const said = await filing(["--file-path", AT], GIVEN, piped, (done) => {
-    done.push(COMMIT)
-    throw new Error("the work after that commit stopped")
-  })
+  const said = await filing(
+    ["--file-path", AT],
+    GIVEN,
+    piped,
+    (_root, _asked, _message, _agentId, writing) => {
+      writing?.done?.push(COMMIT)
+      throw new Error("the work after that commit stopped")
+    }
+  )
   expect(said.refusals.join("\n")).toContain(COMMIT)
 })
