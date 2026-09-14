@@ -14,11 +14,11 @@ export const bonusEffects = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An entry naming a metric names no buff.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An entry naming a metric also has an effect type and an effect value.",
     },
   ],

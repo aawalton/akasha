@@ -13,19 +13,19 @@ export const sequence = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page type states here how its pages are grouped and ordered into a run.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page type stating no sequence takes the sequence the page type above states.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page type with no sequence here or above stands in no run.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Pages with one value under the grouping key stand in one run.",
     },
   ],

@@ -9,7 +9,7 @@ export const frameAutoScroll = {
   properties: [{ pageProperty: "text-property/load-scroll", required: false, many: false }],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page is carried on its own only as the page opens.",
     },
   ],

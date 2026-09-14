@@ -13,11 +13,11 @@ export const proxy = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat reaches one proxy or no proxy.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A proxy short of a single field is no proxy at all.",
     },
   ],

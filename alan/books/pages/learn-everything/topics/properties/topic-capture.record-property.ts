@@ -13,7 +13,7 @@ export const topicCapture = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A topic scored from Alan's own words in the room states no capture.",
     },
   ],

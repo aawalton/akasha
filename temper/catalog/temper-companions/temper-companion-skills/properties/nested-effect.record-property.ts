@@ -23,7 +23,7 @@ export const nestedEffect = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An inner effect names the same kinds an outer effect names.",
     },
   ],

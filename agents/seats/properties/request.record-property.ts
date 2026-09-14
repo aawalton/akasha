@@ -13,11 +13,11 @@ export const request = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat has one request or no request.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A new request takes the place of any request already there.",
     },
   ],

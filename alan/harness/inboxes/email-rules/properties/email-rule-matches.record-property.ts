@@ -22,11 +22,17 @@ export const emailRuleMatches = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A piece of mail is caught where the mail passes every clause.",
     },
-    { invariantKind: "departure", statement: "A rule with no clause catches nothing." },
-    { invariantKind: "departure", statement: "Two clauses on one field are two entries." },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A rule with no clause catches nothing.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Two clauses on one field are two entries.",
+    },
   ],
   types: "ts",
 } as const satisfies RecordProperty

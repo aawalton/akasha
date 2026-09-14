@@ -13,19 +13,19 @@ export const rescuedCredential = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rescued credential is written only where the sops file did not take the pair.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rescued credential is taken away by the push that lands the pair in sops.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rescued credential is a reading rather than a value an account states.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The file a rescued credential is written into is narrowed before that write.",
     },
   ],

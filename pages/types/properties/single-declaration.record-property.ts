@@ -20,15 +20,15 @@ export const singleDeclaration = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only a declaration with one value states a default.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A declaration with one value states no count.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The false this states is what tells a declaration from its many-valued sibling.",
     },
   ],

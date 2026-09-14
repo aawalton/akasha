@@ -13,23 +13,23 @@ export const turnWorking = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The answer is read off the seat's transcript rather than off a hook.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A transcript shorter than the byte read to was replaced.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A replaced transcript is read again from its first byte.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The tasks still running are read from the same bytes as the turn.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "New bytes naming no turn of the agent are no answer that the seat is idle.",
     },
   ],

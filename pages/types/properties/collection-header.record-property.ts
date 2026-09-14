@@ -12,7 +12,7 @@ export const collectionHeader = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A header naming no keys stands as the page's own name alone.",
     },
   ],

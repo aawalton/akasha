@@ -12,7 +12,7 @@ export const groupSorts = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only a view gathering its pages orders its groups.",
     },
   ],

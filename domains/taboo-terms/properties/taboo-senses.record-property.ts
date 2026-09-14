@@ -12,15 +12,15 @@ export const tabooSenses = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One list has every sense a term bars.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A taboo sense bars one sense of the term.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A sense is alone among the senses one term bars.",
     },
   ],

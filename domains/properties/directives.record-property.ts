@@ -20,11 +20,11 @@ export const directives = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One list has every directive.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A directive needing more aids than that directive may hold has design belonging in an invariant.",
     },

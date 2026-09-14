@@ -11,7 +11,7 @@ export const recipes = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every reagent set brews the same drink.",
     },
   ],

@@ -29,15 +29,15 @@ export const systemd = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One record has every option the unit states.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The options a timer states sit here beside the options a service states.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement:
         "The exit code preventing a restart is the one option a service states uncarried here.",
     },

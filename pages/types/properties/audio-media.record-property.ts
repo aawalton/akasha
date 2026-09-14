@@ -13,11 +13,11 @@ export const audioMedia = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Audio is rendered from one property the page has.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A page type saying its pages have audio names the property the audio is made from.",
     },

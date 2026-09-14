@@ -12,15 +12,15 @@ export const generated = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A declaration stating nothing here was written by hand.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The page states the command rather than the declaration file's own first lines.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An edit by hand to a generated declaration is lost at the next run.",
     },
   ],

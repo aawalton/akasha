@@ -13,11 +13,11 @@ export const detailFrame = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A frame says nothing about the body the frame stands around.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page type stating no frame is read in the frame every page is read in.",
     },
   ],

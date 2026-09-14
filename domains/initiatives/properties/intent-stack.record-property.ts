@@ -20,11 +20,11 @@ export const intentStack = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An intent says only a thing that is not yet so.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An intent is a gap rather than stating which kind of invariant that intent is.",
     },
   ],

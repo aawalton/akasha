@@ -14,7 +14,7 @@ export const turnPending = {
   ],
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A reminder a seat set for itself is no pending turn start.",
     },
   ],

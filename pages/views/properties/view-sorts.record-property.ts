@@ -12,11 +12,11 @@ export const viewSorts = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The keys are weighed in the order the keys are stated.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A view stating no key draws in whatever order the pages arrive.",
     },
   ],

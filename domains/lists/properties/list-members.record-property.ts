@@ -12,11 +12,11 @@ export const listMembers = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One list has every member of its set.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The order the members are in is the order the list means.",
     },
   ],

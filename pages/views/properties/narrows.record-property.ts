@@ -13,20 +13,20 @@ export const narrows = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page is answered where the page passes every narrow.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A query stating no narrow asks of every page of its type and of every type extending that type.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Two narrows on one key are two entries.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A narrow a query cannot read is refused rather than dropped.",
     },
   ],

@@ -9,7 +9,7 @@ export const imageMedia = {
   properties: [{ pageProperty: "text-property/media-renderer", required: true, many: false }],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An image is rendered from the whole page rather than from one property.",
     },
   ],
