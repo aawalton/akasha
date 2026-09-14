@@ -14,28 +14,28 @@ export const weeklyEnds = {
   wireKey: "weekly-ends",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only an account with weekly allowance left to spend is counted.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The reading is the soonest window still ahead of the moment asked in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A window already behind that moment is left out rather than read as zero.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "No account with a window ahead is no reading rather than a wait of zero.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The color this reading takes is the color the weekly usage reading is shown in.",
     },
 
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here caches a reading or decides when a reading is taken.",
     },
   ],

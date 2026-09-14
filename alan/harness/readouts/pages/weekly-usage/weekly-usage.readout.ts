@@ -14,29 +14,29 @@ export const weeklyUsage = {
   wireKey: "weekly-usage",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The reading is the mean across every account the pool has.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An account with no percent is left out of the mean rather than counted zero.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "No account with a percent is no reading rather than a mean of zero.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A percent stated as text is read as the number that percent spells.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The figure is how much of the allowance is spent and the color is how long the allowance has left.",
     },
 
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here caches a reading or decides when a reading is taken.",
     },
   ],
