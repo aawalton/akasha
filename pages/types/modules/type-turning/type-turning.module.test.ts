@@ -67,9 +67,16 @@ const AN_AUTHORED_BODY = "akasha/two.thing.ts"
 
 const GONE = "akasha/held.text-property.ts"
 
-function filedAt(root: string, kind: string, slug: string, path: string, id: string): undefined {
+function filedAt(
+  root: string,
+  kind: string,
+  slug: string,
+  path: string,
+  id: string,
+  more: Record<string, unknown> = {}
+): undefined {
   listedFiled(root, kind, slug, [{ path, id }])
-  valueAlsoFiled(root, kind, [{ path, value: { id, pageTypeSlug: kind, slug } }])
+  valueAlsoFiled(root, kind, [{ path, value: { id, pageTypeSlug: kind, slug, ...more } }])
   idFiled(root, id, [{ path, id }])
 }
 
@@ -90,19 +97,10 @@ function rootWhereTypesAreGenerated(importer: string): string {
       fileName: null,
     },
   ])
-  filedAt(root, "file-property", "types", CARRIES_TYPES_AT, CARRIES_TYPES)
-  valueAlsoFiled(root, "file-property", [
-    {
-      path: CARRIES_TYPES_AT,
-      value: {
-        id: CARRIES_TYPES,
-        pageTypeSlug: "file-property",
-        slug: "types",
-        propertySlug: "types",
-        generated: true,
-      },
-    },
-  ])
+  filedAt(root, "file-property", "types", CARRIES_TYPES_AT, CARRIES_TYPES, {
+    propertySlug: "types",
+    generated: true,
+  })
   relationFiled(root, CARRIES_TYPES, "page-property", THING, [{ path: THING_TYPE_AT }])
   importFiled(root, GONE, [{ path: importer }])
   return root
