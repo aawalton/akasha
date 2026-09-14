@@ -1,5 +1,6 @@
 import { basename, dirname } from "node:path"
 import { exportsIn } from "akasha/checks/code-checks/pages/browser-code-reads-the-environment-by-a-name/browser-code-reads-the-environment-by-a-name.code-check.decision.code.ts"
+import { loadingIn } from "akasha/checks/code-checks/pages/check-reaches-a-path-through-the-index/modules/specifier-placing/specifier-placing.module.code.ts"
 import {
   pageTypesFor,
   textIn,
@@ -162,19 +163,16 @@ export function namesToldIn(path: string, text: string): readonly string[] | nul
 }
 
 function spelledBy(node: ts.Node): string | null {
-  if (ts.isImportTypeNode(node)) {
-    const said = node.argument
-    if (ts.isLiteralTypeNode(said) && ts.isStringLiteral(said.literal)) return said.literal.text
-    return null
-  }
-  if (ts.isCallExpression(node) && node.expression.kind === ts.SyntaxKind.ImportKeyword) {
-    const said = node.arguments[0]
-    return said !== undefined && ts.isStringLiteral(said) ? said.text : null
-  }
+  if (!ts.isImportTypeNode(node)) return null
+  const said = node.argument
+  if (ts.isLiteralTypeNode(said) && ts.isStringLiteral(said.literal)) return said.literal.text
   return null
 }
 
 function wholeOf(path: string, source: ts.SourceFile, target: string): boolean {
+  for (const spelled of loadingIn(source)) {
+    if (landingOf(path, spelled) === target) return true
+  }
   let every = false
   const walk = (node: ts.Node): undefined => {
     const spelled = spelledBy(node)

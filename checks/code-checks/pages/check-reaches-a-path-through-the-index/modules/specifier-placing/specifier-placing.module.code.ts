@@ -107,6 +107,14 @@ function heldFrom(source: ts.SourceFile): ReadonlySet<ts.Node> {
   return held
 }
 
+export function loadingIn(source: ts.SourceFile): ReadonlySet<string> {
+  const found = new Set<string>()
+  for (const one of heldFrom(source)) {
+    if (literal(one)) found.add(one.text)
+  }
+  return found
+}
+
 function placed(node: ts.Node): boolean {
   const up = node.parent
   if (up === undefined) return false

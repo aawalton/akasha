@@ -145,6 +145,29 @@ test("an import expression naming another file takes nothing from this one", () 
   expect(takenFrom(READER, text, AT)).toEqual([])
 })
 
+test("a dynamic import naming another file takes every name that file exports", () => {
+  const text = `const held = await import("${SPELLED}")\n`
+
+  expect(takenFrom(READER, text, AT)).toEqual(["*"])
+})
+
+test("a specifier named by a string constant in the same file is read as that string", () => {
+  const text = `const HELD_AT = "${SPELLED}"\nconst held = await import(HELD_AT)\n`
+
+  expect(takenFrom(READER, text, AT)).toEqual(["*"])
+})
+
+test("a specifier a local function was handed is read one hop back to what the caller named", () => {
+  const text =
+    `const HELD_AT = "${SPELLED}"\n` +
+    "function loadFrom(name: string) {\n" +
+    "  return import(name)\n" +
+    "}\n" +
+    "const held = loadFrom(HELD_AT)\n"
+
+  expect(takenFrom(READER, text, AT)).toEqual(["*"])
+})
+
 test("an import of another file names nothing taken from this one", () => {
   expect(takenFrom(READER, 'import { held } from "akasha/elsewhere.module.code.ts"\n', AT)).toEqual(
     []

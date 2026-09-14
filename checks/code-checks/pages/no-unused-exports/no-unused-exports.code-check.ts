@@ -36,6 +36,15 @@ export const noUnusedExports = {
     },
     {
       invariantKind: "departure",
+      statement: "A specifier named by a string constant in the same file is read as that string.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A specifier a local function was handed is read one hop back to what the caller named.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file exporting every name of another file is judged by nothing.",
     },
     {
