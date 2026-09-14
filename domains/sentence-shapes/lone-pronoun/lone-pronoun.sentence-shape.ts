@@ -11,32 +11,32 @@ export const lonePronoun = {
   reason: "Resolving a pronoun costs a reader a step that naming the thing does not.",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An indefinite pronoun points at no thing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "No noun takes the place of an indefinite pronoun.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A free relative is a lone pronoun.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "`Whatever` and `whichever` are passed over.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The tree shapes `whatever` alike whether that word names a thing or not.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A free relative is a lone pronoun whether the parser tags that word a pronoun or a determiner.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A free relative that determines the next word is passed over.",
     },
   ],

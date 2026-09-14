@@ -11,11 +11,11 @@ export const partitiveQuantifier = {
   reason: "A quantifier and the phrase it is part of are two steps where naming the thing is one.",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "`much` before an `of` phrase names a proportion rather than a count.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A quantifier whose `of` phrase has a count states that count nowhere else.",
     },
   ],

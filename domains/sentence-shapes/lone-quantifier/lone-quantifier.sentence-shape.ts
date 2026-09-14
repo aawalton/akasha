@@ -11,19 +11,19 @@ export const loneQuantifier = {
   reason: "A quantifier makes a reader find what it counts where naming it does not.",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A word inside backticks is a name rather than a quantifier.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A quantifier determining a backticked name is passed over.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A quantifier heading `each other` or `one another` counts nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A quantifier whose fixed part is `than` is comparing rather than counting.",
     },
   ],
