@@ -31,3 +31,7 @@ export function addonManifestOf(name: string): AddonFixtureManifest {
     dependsOn: [],
   }
 }
+
+export function manifestFor(name: string): string {
+  return JSON.stringify(addonManifestOf(name))
+}

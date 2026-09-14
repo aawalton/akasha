@@ -9,7 +9,7 @@ import {
   nothingFiled,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
-import { manifestFor } from "akasha/temper/commands/modules/addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts"
+import { manifestFor } from "akasha/temper/commands/test-fixtures/addon-fixture-manifest/addon-fixture-manifest.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()

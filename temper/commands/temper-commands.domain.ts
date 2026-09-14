@@ -6,7 +6,7 @@ export const temperCommands = {
   slug: "temper-commands",
   definition: "what an agent runs by name over temper",
   parts: [
-    "module/addon-fixture-manifest",
+    "test-fixture/addon-fixture-manifest",
     "module/bank-profile-reading",
     "module/bank-trace-reading",
     "module/eso-base-game-globals",

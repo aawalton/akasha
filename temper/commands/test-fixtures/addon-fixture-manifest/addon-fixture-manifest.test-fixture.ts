@@ -1,13 +1,12 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { TestFixture } from "akasha/testing-system/test-fixtures/test-fixture.page-type.types.ts"
 
 export const addonFixtureManifest = {
   id: "01a07c93-f240-7b33-9d06-f8459b129064",
-  type: "module",
+  type: "test-fixture",
   slug: "addon-fixture-manifest",
   definition: "the addon manifest a test writes into a scratch world",
   code: "ts",
   test: "ts",
-  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -30,4 +29,4 @@ export const addonFixtureManifest = {
       statement: "Nothing here writes a file.",
     },
   ],
-} as const satisfies Module
+} as const satisfies TestFixture
