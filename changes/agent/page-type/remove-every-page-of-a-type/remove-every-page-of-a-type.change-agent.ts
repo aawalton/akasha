@@ -58,4 +58,5 @@ export const removeEveryPageOfAType = {
     },
   ],
   changeKind: "change-checked",
+  maxCpuSeconds: 120,
 } as const satisfies ChangeAgent

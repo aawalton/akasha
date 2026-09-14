@@ -97,4 +97,5 @@ export const movePropertyOnEveryPage = {
     },
   ],
   changeKind: "change-checked",
+  maxCpuSeconds: 120,
 } as const satisfies ChangeAgent
