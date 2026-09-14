@@ -49,10 +49,6 @@ export function setLocalPosition(store: PositionStore, entry: QueuedPosition): P
   return { version: 2, entries }
 }
 
-export function localPositionFor(store: PositionStore, pageId: string): number | undefined {
-  return store.entries.find((e) => e.pageId === pageId)?.progress
-}
-
 export function chunk<T>(items: readonly T[], size: number): readonly (readonly T[])[] {
   const step = Math.max(1, Math.floor(size))
   const batches: T[][] = []
