@@ -100,6 +100,7 @@ export const components = {
     "module/position-write-event",
     "module/progress-property-badge",
     "module/property-badge",
+    "module/property-badge-drawings",
     "module/property-visibility-picker",
     "module/property-visibility-picker-helpers",
     "module/property-visibility-picker-rows",

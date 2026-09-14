@@ -9,7 +9,8 @@ export const propertyBadge = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A property whose type no badge is registered for is shown as nothing.",
+      statement:
+        "A property whose type no badge is registered for takes the badge beside page-property.",
     },
   ],
 } as const satisfies Module
