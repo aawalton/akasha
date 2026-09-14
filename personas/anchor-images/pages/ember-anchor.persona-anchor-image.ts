@@ -5,7 +5,7 @@ export const emberAnchor = {
   type: "persona-anchor-image",
   slug: "ember-anchor",
   title: "Ember — anchor",
-  persona: "ember",
+  persona: "persona/ember",
   imagePath: "Ember/ember-anchor.png",
   imageRoot: "personas",
 } as const satisfies PersonaAnchorImage

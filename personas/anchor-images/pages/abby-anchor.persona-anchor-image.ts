@@ -5,7 +5,7 @@ export const abbyAnchor = {
   type: "persona-anchor-image",
   slug: "abby-anchor",
   title: "Abby — anchor",
-  persona: "abby",
+  persona: "persona/abby",
   imagePath: "Abby/abby-anchor.png",
   imageRoot: "personas",
   grade: "A+",

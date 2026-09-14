@@ -5,7 +5,7 @@ export const sophiaAnchor = {
   type: "persona-anchor-image",
   slug: "sophia-anchor",
   title: "Sophia — anchor",
-  persona: "sophia",
+  persona: "persona/sophia",
   imagePath: "Sophia/sophia-anchor.png",
   imageRoot: "personas",
 } as const satisfies PersonaAnchorImage

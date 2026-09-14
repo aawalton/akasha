@@ -5,7 +5,7 @@ export const nimueAnchor = {
   type: "persona-anchor-image",
   slug: "nimue-anchor",
   title: "Nimue — anchor",
-  persona: "nimue",
+  persona: "persona/nimue",
   imagePath: "Nimue/nimue-anchor.png",
   imageRoot: "personas",
 } as const satisfies PersonaAnchorImage

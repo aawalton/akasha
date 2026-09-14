@@ -5,7 +5,7 @@ export const zeliAnchor = {
   type: "persona-anchor-image",
   slug: "zeli-anchor",
   title: "Zeli — anchor",
-  persona: "zeli",
+  persona: "persona/zeli",
   imagePath: "Zeli/zeli-anchor.png",
   imageRoot: "personas",
 } as const satisfies PersonaAnchorImage
