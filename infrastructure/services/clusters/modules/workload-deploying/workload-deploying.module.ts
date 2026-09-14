@@ -47,6 +47,19 @@ export const workloadDeploying = {
       statement: "A kubectl that refuses stops the apply where the apply is.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "What comes between is put up after the namespace is opened and before the rest is applied.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that comes between and refuses stops the apply.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A put up handed nothing to come between applies every manifest.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads a page.",
     },

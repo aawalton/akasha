@@ -9,11 +9,14 @@ import {
   carries,
   generatedPathFor,
   inApplyOrder,
+  type Kubectl,
   type Manifest,
   namedIn,
   opensTheNamespace,
   placedIn,
   planFor,
+  putUp,
+  type Ran,
   rolloutOf,
   unfilledIn,
 } from "akasha/infrastructure/services/clusters/modules/workload-deploying/workload-deploying.module.code.ts"
@@ -160,4 +163,60 @@ test("code emitting no manifest for the workload named is refused", async () => 
     SYNTH_AT
   )
   expect(String(said)).toContain("emits no Deployment/other")
+})
+
+function done(argv: readonly string[], code = 0): Ran {
+  return { argv, code, stdout: "", stderr: "" }
+}
+
+function watched(seen: string[]): Kubectl {
+  return {
+    on: (argv, text) => {
+      seen.push(text)
+      return done(argv)
+    },
+    alone: (argv) => {
+      seen.push(argv[0] as string)
+      return done(argv)
+    },
+  }
+}
+
+const PUT_UP_PLAN = {
+  workload: WEB,
+  synthPath: SYNTH_AT,
+  manifests: [
+    manifest({ kind: "Namespace", resourceName: "one", namespace: null, yaml: "namespace" }),
+    manifest({ kind: "Service", resourceName: "web", yaml: "service" }),
+    manifest({ yaml: "deployment" }),
+  ],
+}
+
+test("what comes between is put up after the namespace and before the rest", () => {
+  const seen: string[] = []
+  const ran = putUp(
+    PUT_UP_PLAN,
+    () => {
+      seen.push("between")
+      return []
+    },
+    watched(seen)
+  )
+  expect(seen).toEqual(["namespace", "between", "service", "deployment", "rollout"])
+  expect(ran).toHaveLength(4)
+})
+
+test("a run between that exited non-zero stops the rest from being applied", () => {
+  const seen: string[] = []
+  const stopped = done(["apply", "-f", "-"], 1)
+  const ran = putUp(PUT_UP_PLAN, () => [stopped], watched(seen))
+  expect(seen).toEqual(["namespace"])
+  expect(ran.at(-1)).toBe(stopped)
+})
+
+test("a put up handed nothing to come between applies every manifest", () => {
+  const seen: string[] = []
+  const ran = putUp(PUT_UP_PLAN, undefined, watched(seen))
+  expect(seen).toEqual(["namespace", "service", "deployment", "rollout"])
+  expect(ran).toHaveLength(4)
 })

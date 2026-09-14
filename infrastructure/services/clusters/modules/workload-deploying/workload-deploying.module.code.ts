@@ -234,14 +234,45 @@ export function rolloutOf(plan: Plan): readonly string[] | null {
   ]
 }
 
-export function putUp(plan: Plan): readonly Ran[] {
-  const ran: Ran[] = []
-  for (const manifest of plan.manifests) {
-    const one = runKubectlOn(applyOf(plan, manifest), manifest.yaml)
+export type Between = (plan: Plan) => readonly Ran[]
+
+export interface Kubectl {
+  readonly on: (argv: readonly string[], text: string) => Ran
+  readonly alone: (argv: readonly string[]) => Ran
+}
+
+const NOTHING_BETWEEN: Between = () => []
+
+const RUN_KUBECTL: Kubectl = { on: runKubectlOn, alone: runKubectl }
+
+function appliedEach(
+  plan: Plan,
+  manifests: readonly Manifest[],
+  kubectl: Kubectl,
+  ran: Ran[]
+): boolean {
+  for (const manifest of manifests) {
+    const one = kubectl.on(applyOf(plan, manifest), manifest.yaml)
     ran.push(one)
-    if (one.code !== 0) return ran
+    if (one.code !== 0) return false
   }
+  return true
+}
+
+export function putUp(
+  plan: Plan,
+  between: Between = NOTHING_BETWEEN,
+  kubectl: Kubectl = RUN_KUBECTL
+): readonly Ran[] {
+  const ran: Ran[] = []
+  const opening = plan.manifests.filter((one) => opensTheNamespace(one, plan.workload))
+  const rest = plan.manifests.filter((one) => !opensTheNamespace(one, plan.workload))
+  if (!appliedEach(plan, opening, kubectl, ran)) return ran
+  const placed = between(plan)
+  ran.push(...placed)
+  if (placed.some((one) => one.code !== 0)) return ran
+  if (!appliedEach(plan, rest, kubectl, ran)) return ran
   const rollout = rolloutOf(plan)
-  if (rollout !== null) ran.push(runKubectl(rollout))
+  if (rollout !== null) ran.push(kubectl.alone(rollout))
   return ran
 }
