@@ -2,11 +2,7 @@ import {
   instantOf,
   type Marks,
 } from "akasha/agents/claude-account/modules/marking/claude-account-marking.module.code.ts"
-import {
-  MAX_AT_LIMIT_BACKOFF_MS,
-  type RefreshOutcome,
-} from "akasha/agents/claude-account/modules/oauth/claude-account-oauth.module.code.ts"
-import type { AccountState } from "akasha/agents/claude-account/modules/reading/claude-account-reading.module.code.ts"
+import type { RefreshOutcome } from "akasha/agents/claude-account/modules/oauth/claude-account-oauth.module.code.ts"
 
 const TERMINAL_AT = "terminalAt"
 
@@ -64,25 +60,4 @@ export function decideTokenTerminalAlert(given: TokenTerminalGiven): TokenTermin
   if (tokenTerminal) return given.alreadyAlertedAtMs === null ? "alert" : "none"
   if (given.refreshOk && given.alreadyAlertedAtMs !== null) return "clear-latch"
   return "none"
-}
-
-export const AT_LIMIT_HEAL_THRESHOLD_MS = MAX_AT_LIMIT_BACKOFF_MS
-
-export type StaleAtLimitMark = {
-  readonly slug: string
-}
-
-export function staleAtLimitIn(
-  states: readonly AccountState[],
-  now: number,
-  thresholdMs: number = AT_LIMIT_HEAL_THRESHOLD_MS
-): readonly StaleAtLimitMark[] {
-  const cutoff = now + thresholdMs
-  const stale: StaleAtLimitMark[] = []
-  for (const one of states) {
-    if (one.retryAllowedAtMs !== null && one.retryAllowedAtMs > cutoff) {
-      stale.push({ slug: one.slug })
-    }
-  }
-  return stale
 }

@@ -72,27 +72,6 @@ export const claudeAccountHealth = {
       statement: "A token whose access token names no expiry is never terminal.",
     },
     {
-      invariantKind: "departure",
-      statement:
-        "An at-limit instant further out than the threshold from the moment handed in is stale.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An at-limit instant exactly the threshold out is not stale.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An account naming no at-limit instant is never stale.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The threshold a stale at-limit mark is found at is the OAuth backoff cap.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A caller may hand in a threshold other than that cap.",
-    },
-    {
       invariantKind: "constraint",
       statement: "Every instant this module works from is handed in by the caller.",
     },
@@ -107,15 +86,6 @@ export const claudeAccountHealth = {
     {
       invariantKind: "absence",
       statement: "Nothing here says anything to a log.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A stale at-limit mark is found here while the healing is done by the caller.",
-    },
-    {
-      invariantKind: "gap",
-      statement:
-        "A stale at-limit mark names the account and says nothing of which window that mark is.",
     },
   ],
 } as const satisfies Module

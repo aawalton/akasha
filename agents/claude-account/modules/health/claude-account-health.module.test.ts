@@ -1,17 +1,14 @@
 import { describe, expect, test } from "bun:test"
 import {
-  AT_LIMIT_HEAL_THRESHOLD_MS,
   decideTokenTerminalAlert,
   healthOf,
   refreshHealthMarks,
-  staleAtLimitIn,
   type TokenTerminalGiven,
   terminalAlertMarks,
   terminalHealthMarks,
   windowTriggerMarks,
 } from "akasha/agents/claude-account/modules/health/claude-account-health.module.code.ts"
 import type { RefreshOutcome } from "akasha/agents/claude-account/modules/oauth/claude-account-oauth.module.code.ts"
-import type { AccountState } from "akasha/agents/claude-account/modules/reading/claude-account-reading.module.code.ts"
 
 const NOW = 1_700_000_000_000
 
@@ -53,23 +50,6 @@ const RETRYABLE: RefreshOutcome = {
 const NO_CREDENTIAL: RefreshOutcome = { ok: false, terminal: false, reason: "no-credential" }
 
 const THREW: RefreshOutcome = { ok: false, terminal: true, reason: "exception", error: "boom" }
-
-function stateAt(slug: string, retryAllowedAtMs: number | null): AccountState {
-  return {
-    slug,
-    fiveHourPercentUsed: 0,
-    sevenDayPercentUsed: 0,
-    fiveHourResetsAt: null,
-    sevenDayResetsAt: null,
-    subscriptionType: null,
-    subscriptionDisabledReason: null,
-    retryAllowedAtMs,
-    terminalAtMs: null,
-    terminalAlertedAtMs: null,
-    lastWindowTriggerAtMs: null,
-    accessTokenExpiresAtMs: null,
-  }
-}
 
 function given(over: Partial<TokenTerminalGiven>): TokenTerminalGiven {
   return {
@@ -276,65 +256,5 @@ describe("decideTokenTerminalAlert", () => {
 
   test("a refresh saying nothing decides nothing", () => {
     expect(decideTokenTerminalAlert(given({}))).toBe("none")
-  })
-})
-
-describe("staleAtLimitIn", () => {
-  const cutoff = NOW + AT_LIMIT_HEAL_THRESHOLD_MS
-
-  test("the threshold a stale at-limit mark is found at is five hours", () => {
-    expect(AT_LIMIT_HEAL_THRESHOLD_MS).toBe(5 * 3_600_000)
-  })
-
-  test("an at-limit instant further out than the threshold is stale", () => {
-    expect(staleAtLimitIn([stateAt("one", cutoff + 1)], NOW)).toEqual([{ slug: "one" }])
-    expect(staleAtLimitIn([stateAt("one", cutoff + 86_400_000)], NOW)).toEqual([{ slug: "one" }])
-  })
-
-  test("an at-limit instant exactly the threshold out is not stale", () => {
-    expect(staleAtLimitIn([stateAt("one", cutoff)], NOW)).toEqual([])
-  })
-
-  test("an at-limit instant inside the threshold is not stale", () => {
-    expect(staleAtLimitIn([stateAt("one", cutoff - 1)], NOW)).toEqual([])
-    expect(staleAtLimitIn([stateAt("one", NOW)], NOW)).toEqual([])
-    expect(staleAtLimitIn([stateAt("one", NOW - 86_400_000)], NOW)).toEqual([])
-  })
-
-  test("an account naming no at-limit instant is never stale", () => {
-    expect(staleAtLimitIn([stateAt("one", null)], NOW)).toEqual([])
-  })
-
-  test("a caller may hand in a threshold other than that cap", () => {
-    const at = NOW + 1000
-    expect(staleAtLimitIn([stateAt("one", at)], NOW, 999)).toEqual([{ slug: "one" }])
-    expect(staleAtLimitIn([stateAt("one", at)], NOW, 1000)).toEqual([])
-    expect(staleAtLimitIn([stateAt("one", at)], NOW, 0)).toEqual([{ slug: "one" }])
-  })
-
-  test("a stale at-limit mark names the account and nothing else", () => {
-    const found = staleAtLimitIn([stateAt("one", cutoff + 1)], NOW)
-    expect(found).toHaveLength(1)
-    expect(Object.keys(found[0] ?? {})).toEqual(["slug"])
-  })
-
-  test("only the stale accounts are answered, in the order they arrived", () => {
-    const states = [
-      stateAt("three", cutoff + 1),
-      stateAt("one", null),
-      stateAt("two", cutoff),
-      stateAt("four", cutoff + 2),
-    ]
-    expect(staleAtLimitIn(states, NOW)).toEqual([{ slug: "three" }, { slug: "four" }])
-  })
-
-  test("no account answers no stale mark", () => {
-    expect(staleAtLimitIn([], NOW)).toEqual([])
-  })
-
-  test("nothing here holds what it was handed", () => {
-    const states = [stateAt("one", cutoff + 1)]
-    const found = staleAtLimitIn(states, NOW)
-    expect(found[0]).not.toBe(states[0])
   })
 })

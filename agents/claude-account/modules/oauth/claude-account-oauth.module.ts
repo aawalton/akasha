@@ -263,10 +263,6 @@ export const claudeAccountOauth = {
     },
     {
       invariantKind: "gap",
-      statement: "The five-hour backoff cap is the threshold a stale at-limit mark is healed at.",
-    },
-    {
-      invariantKind: "gap",
       statement:
         "An account met by a rate limit waits five minutes even where `Retry-After` says a shorter wait.",
     },
