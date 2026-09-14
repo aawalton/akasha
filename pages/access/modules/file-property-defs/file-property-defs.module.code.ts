@@ -103,7 +103,7 @@ const RENDERED_AS: Readonly<Record<string, string>> = {
   "page-property-entry": "json",
   "phone-number-property": RENDERED_PLAIN,
   "process-property": "json",
-  "rank-property": "number",
+  "rank-property": "select",
   "record-property": "json",
   "relation-property": "relation",
   "select-property": "select",
