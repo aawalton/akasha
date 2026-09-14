@@ -4,7 +4,7 @@ export const offlineReading = {
   id: "01a0657b-06ac-7293-a09b-01ff92f25730",
   type: "module",
   slug: "offline-reading",
-  definition: "the chapters carried onto a device and the progress carried back",
+  definition: "the chapters carried onto a device",
   code: "ts",
   invariants: [
     {
@@ -20,16 +20,12 @@ export const offlineReading = {
       statement: "The page shaped from those keys is exported apart from the fetch.",
     },
     {
-      invariantKind: "departure",
-      statement: "Both writers here land through a keyed patch.",
+      invariantKind: "absence",
+      statement: "Nothing here writes a completion or a position back.",
     },
     {
       invariantKind: "departure",
       statement: "Chapters keep arriving on the device though nothing is written back.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A caller of either writer is handed the refusal rather than a silent success.",
     },
     {
       invariantKind: "gap",

@@ -96,23 +96,3 @@ export async function loadChapterForOffline(chapterId: string): Promise<Page | n
   if (found === null) return null
   return chapterPageForOffline(found.values)
 }
-
-const NO_KEYED_WRITE = "the page store refuses every keyed write"
-
-export async function writeChapterCompletion(
-  pageId: string,
-  _completedAtMs: number,
-  _size: number
-): Promise<void> {
-  throw new Error(
-    `writeChapterCompletion(${pageId}): the chapter was not marked read — ${NO_KEYED_WRITE}, ` +
-      `so it still reads as unfinished and next-unread will offer it again`
-  )
-}
-
-export async function writeChapterPosition(pageId: string, progress: number): Promise<void> {
-  throw new Error(
-    `writeChapterPosition(${pageId}): position ${progress} was not kept — ${NO_KEYED_WRITE}, ` +
-      `so this chapter still reads at whatever progress it was at before the writes died`
-  )
-}

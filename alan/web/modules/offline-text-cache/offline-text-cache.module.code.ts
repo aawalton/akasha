@@ -1,59 +1,5 @@
 import { z } from "zod"
 
-const CachedChapterSchema = z
-  .object({
-    pageId: z.string(),
-    storyId: z.string(),
-    chapterNumber: z.number().nullable(),
-    title: z.string(),
-    length: z.number().nullable(),
-    fileName: z.string(),
-    cachedAt: z.string(),
-    completedLocally: z.string().nullable(),
-  })
-  .strict()
-
-const CacheIndexSchema = z
-  .object({
-    version: z.literal(2),
-    chapters: z.array(CachedChapterSchema),
-  })
-  .strict()
-
-export type CachedChapter = z.infer<typeof CachedChapterSchema>
-export type CacheIndex = z.infer<typeof CacheIndexSchema>
-
-export const EMPTY_CACHE_INDEX: CacheIndex = { version: 2, chapters: [] }
-
-const CachedChapterV1Schema = CachedChapterSchema.omit({ length: true })
-  .extend({ wordCount: z.number().nullable() })
-  .strict()
-
-const CacheIndexV1Schema = z
-  .object({ version: z.literal(1), chapters: z.array(CachedChapterV1Schema) })
-  .strict()
-
-export const CacheIndexPersistedSchema = z.discriminatedUnion("version", [
-  CacheIndexV1Schema,
-  CacheIndexSchema,
-])
-
-export function migrateCacheIndex(parsed: z.infer<typeof CacheIndexPersistedSchema>): CacheIndex {
-  if (parsed.version === 2) return parsed
-  return {
-    version: 2,
-    chapters: parsed.chapters.map(({ wordCount, ...rest }) => ({ ...rest, length: wordCount })),
-  }
-}
-
-function chapterLengths(index: CacheIndex): Map<string, number> {
-  const lengths = new Map<string, number>()
-  for (const chapter of index.chapters) {
-    if (chapter.length !== null) lengths.set(chapter.pageId, chapter.length)
-  }
-  return lengths
-}
-
 const QueuedCompletionSchema = z
   .object({
     pageId: z.string(),
@@ -87,63 +33,10 @@ export const CompletionQueuePersistedSchema = z.discriminatedUnion("version", [
 ])
 
 export function migrateCompletionQueue(
-  parsed: z.infer<typeof CompletionQueuePersistedSchema>,
-  index: CacheIndex
+  parsed: z.infer<typeof CompletionQueuePersistedSchema>
 ): CompletionQueue {
   if (parsed.version === 2) return parsed
-  const lengths = chapterLengths(index)
-  const entries: QueuedCompletion[] = []
-  for (const entry of parsed.entries) {
-    const length = lengths.get(entry.pageId)
-    if (length === undefined) continue
-    entries.push({ ...entry, length })
-  }
-  return { version: 2, entries }
-}
-
-export function upsertCachedChapter(index: CacheIndex, chapter: CachedChapter): CacheIndex {
-  const existing = index.chapters.find((c) => c.pageId === chapter.pageId)
-  const merged: CachedChapter =
-    existing !== undefined && chapter.completedLocally === null
-      ? { ...chapter, completedLocally: existing.completedLocally }
-      : chapter
-  const chapters = index.chapters.filter((c) => c.pageId !== chapter.pageId)
-  chapters.push(merged)
-  return { version: 2, chapters }
-}
-
-export function markChapterCompletedLocally(
-  index: CacheIndex,
-  pageId: string,
-  completedAt: string
-): CacheIndex {
-  const chapters = index.chapters.map((c) =>
-    c.pageId === pageId ? { ...c, completedLocally: completedAt } : c
-  )
-  return { version: 2, chapters }
-}
-
-export interface OfflineChapterListItem {
-  readonly pageId: string
-  readonly chapterNumber: number | null
-  readonly title: string
-  readonly completed: boolean
-}
-
-export function offlineReadingList(index: CacheIndex): readonly OfflineChapterListItem[] {
-  return [...index.chapters]
-    .sort((a, b) => {
-      const an = a.chapterNumber ?? Number.POSITIVE_INFINITY
-      const bn = b.chapterNumber ?? Number.POSITIVE_INFINITY
-      if (an !== bn) return an - bn
-      return a.title.localeCompare(b.title)
-    })
-    .map((c) => ({
-      pageId: c.pageId,
-      chapterNumber: c.chapterNumber,
-      title: c.title,
-      completed: c.completedLocally != null,
-    }))
+  return { version: 2, entries: [] }
 }
 
 export function enqueueCompletion(
@@ -153,24 +46,6 @@ export function enqueueCompletion(
   const entries = queue.entries.filter((e) => e.pageId !== entry.pageId)
   entries.push(entry)
   return { version: 2, entries }
-}
-
-export function completionPatches(
-  queue: CompletionQueue
-): readonly { pageId: string; completedAt: string; length: number }[] {
-  return queue.entries.map((e) => ({
-    pageId: e.pageId,
-    completedAt: e.completedAt,
-    length: e.length,
-  }))
-}
-
-export function removeQueuedCompletions(
-  queue: CompletionQueue,
-  syncedPageIds: readonly string[]
-): CompletionQueue {
-  const synced = new Set(syncedPageIds)
-  return { version: 2, entries: queue.entries.filter((e) => !synced.has(e.pageId)) }
 }
 
 const QueuedPositionSchema = z
@@ -207,18 +82,12 @@ export const PositionStorePersistedSchema = z.discriminatedUnion("version", [
 ])
 
 export function migratePositionStore(
-  parsed: z.infer<typeof PositionStorePersistedSchema>,
-  index: CacheIndex
+  parsed: z.infer<typeof PositionStorePersistedSchema>
 ): PositionStore {
   if (parsed.version === 2) return parsed
-  const lengths = chapterLengths(index)
   return {
     version: 2,
-    entries: parsed.entries.map(({ fraction, ...rest }) => {
-      const length = lengths.get(rest.pageId)
-      const progress = length === undefined ? fraction : Math.round(fraction * length)
-      return { ...rest, progress }
-    }),
+    entries: parsed.entries.map(({ fraction, ...rest }) => ({ ...rest, progress: fraction })),
   }
 }
 
@@ -232,27 +101,6 @@ export function localPositionFor(store: PositionStore, pageId: string): number |
   return store.entries.find((e) => e.pageId === pageId)?.progress
 }
 
-export function positionPatches(
-  store: PositionStore
-): readonly { pageId: string; progress: number; updatedAt: string }[] {
-  return store.entries.map((e) => ({
-    pageId: e.pageId,
-    progress: e.progress,
-    updatedAt: e.updatedAt,
-  }))
-}
-
-export function removeSyncedPositions(
-  store: PositionStore,
-  synced: readonly { pageId: string; updatedAt: string }[]
-): PositionStore {
-  const syncedStamp = new Map(synced.map((s) => [s.pageId, s.updatedAt]))
-  return {
-    version: 2,
-    entries: store.entries.filter((e) => syncedStamp.get(e.pageId) !== e.updatedAt),
-  }
-}
-
 export function chunk<T>(items: readonly T[], size: number): readonly (readonly T[])[] {
   const step = Math.max(1, Math.floor(size))
   const batches: T[][] = []
@@ -261,5 +109,3 @@ export function chunk<T>(items: readonly T[], size: number): readonly (readonly 
   }
   return batches
 }
-
-export const OFFLINE_COMPLETIONS_CHANGED_EVENT = "offline-completions-changed"

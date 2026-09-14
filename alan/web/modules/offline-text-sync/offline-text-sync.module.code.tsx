@@ -8,31 +8,16 @@ import {
   loadChapterForOffline,
   loadEagerCarveoutStoryIds,
   loadReadingActiveStoryIds,
-  writeChapterCompletion,
-  writeChapterPosition,
 } from "akasha/alan/library/reading/modules/offline-reading/offline-reading.module.code.ts"
 import { loadStoryCatalog } from "akasha/alan/library/reading/modules/story-catalog/story-catalog.module.code.ts"
 import { isNativeShell } from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
-import {
-  clearSyncedCompletions,
-  clearSyncedPositions,
-  readCompletionQueue,
-  readPositionStore,
-  writeLocalPosition,
-} from "akasha/alan/web/modules/offline-text/offline-text.module.code.ts"
-import {
-  chunk,
-  completionPatches,
-  OFFLINE_COMPLETIONS_CHANGED_EVENT,
-  positionPatches,
-} from "akasha/alan/web/modules/offline-text-cache/offline-text-cache.module.code.ts"
-import { reportReadCompletionDiag } from "akasha/alan/web/modules/read-completion-diagnostics/read-completion-diagnostics.module.code.ts"
+import { writeLocalPosition } from "akasha/alan/web/modules/offline-text/offline-text.module.code.ts"
+import { chunk } from "akasha/alan/web/modules/offline-text-cache/offline-text-cache.module.code.ts"
 import {
   POSITION_WRITE_EVENT,
   parsePositionWriteDetail,
 } from "akasha/pages/ui/components/modules/position-write-event/position-write-event.module.code.ts"
 import { getContentPersistence } from "akasha/pages/ui-store/modules/singleton/singleton.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 import { useEffect, useRef } from "react"
 
 const DOWN_SYNC_CONCURRENCY = 5
@@ -60,59 +45,11 @@ async function fetchChapterWithRetry(chapterId: string): Promise<FetchOutcome> {
 export function OfflineTextSync() {
   const running = useRef(false)
   const rerunRequested = useRef(false)
-  const completionDraining = useRef(false)
-  const completionRerunRequested = useRef(false)
 
   useEffect(() => {
     if (!isNativeShell()) return
 
     let cancelled = false
-
-    const drainCompletions = async (): Promise<void> => {
-      if (completionDraining.current) {
-        reportReadCompletionDiag("drain-skipped-busy")
-        completionRerunRequested.current = true
-        return
-      }
-      completionDraining.current = true
-      try {
-        const queue = await readCompletionQueue()
-        const queuedCount = queue.entries.length
-        if (queuedCount > 0) reportReadCompletionDiag("drain-attempt", `queued=${queuedCount}`)
-        const synced: string[] = []
-        let firstDrainError: string | undefined
-        for (const patch of completionPatches(queue)) {
-          if (cancelled) return
-          const completedAtMs = Date.parse(patch.completedAt)
-          if (Number.isNaN(completedAtMs)) {
-            console.error("[offline-text-sync] dropping completion, unparseable ts", patch.pageId)
-            synced.push(patch.pageId)
-            continue
-          }
-          try {
-            await writeChapterCompletion(patch.pageId, completedAtMs, patch.length)
-            synced.push(patch.pageId)
-          } catch (error: unknown) {
-            console.error("[offline-text-sync] up-sync write failed", patch.pageId, error)
-            if (firstDrainError == null) firstDrainError = saidBy(error)
-          }
-        }
-        await clearSyncedCompletions(synced)
-        if (queuedCount > 0) {
-          const failed = queuedCount - synced.length
-          reportReadCompletionDiag(
-            "drain-result",
-            `synced=${synced.length} failed=${failed}${firstDrainError != null ? ` err=${firstDrainError}` : ""}`
-          )
-        }
-      } finally {
-        completionDraining.current = false
-        if (!cancelled && completionRerunRequested.current) {
-          completionRerunRequested.current = false
-          void drainCompletions()
-        }
-      }
-    }
 
     const sync = async (): Promise<void> => {
       if (running.current) {
@@ -121,22 +58,6 @@ export function OfflineTextSync() {
       }
       running.current = true
       try {
-        await drainCompletions()
-        if (cancelled) return
-
-        const positionStore = await readPositionStore()
-        const syncedPositions: { pageId: string; updatedAt: string }[] = []
-        for (const patch of positionPatches(positionStore)) {
-          if (cancelled) return
-          try {
-            await writeChapterPosition(patch.pageId, patch.progress)
-            syncedPositions.push({ pageId: patch.pageId, updatedAt: patch.updatedAt })
-          } catch (error: unknown) {
-            console.error("[offline-text-sync] position up-sync failed", patch.pageId, error)
-          }
-        }
-        await clearSyncedPositions(syncedPositions)
-
         const contentCache = getContentPersistence()
         const [activeIds, eagerIds] = await Promise.all([
           loadReadingActiveStoryIds(),
@@ -222,16 +143,11 @@ export function OfflineTextSync() {
     const onOnline = () => {
       void sync()
     }
-    const onCompletionsChanged = () => {
-      void drainCompletions()
-    }
     window.addEventListener("online", onOnline)
-    window.addEventListener(OFFLINE_COMPLETIONS_CHANGED_EVENT, onCompletionsChanged)
     return () => {
       cancelled = true
       window.removeEventListener(POSITION_WRITE_EVENT, onPositionWrite)
       window.removeEventListener("online", onOnline)
-      window.removeEventListener(OFFLINE_COMPLETIONS_CHANGED_EVENT, onCompletionsChanged)
     }
   }, [])
 

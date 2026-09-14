@@ -1,11 +1,6 @@
 import { reportError } from "akasha/alan/harness/errors-client/modules/error-reporting/error-reporting.module.code.ts"
 
-export type ReadCompletionDiagReason =
-  | "enqueued"
-  | "enqueue-failed"
-  | "drain-attempt"
-  | "drain-skipped-busy"
-  | "drain-result"
+export type ReadCompletionDiagReason = "enqueued" | "enqueue-failed"
 
 export interface ReadCompletionReport {
   message: string
