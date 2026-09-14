@@ -19,7 +19,10 @@ export const storyRead = {
     },
   },
   parts: [
+    "module/chapter-alerts",
+    "module/chapter-channel",
     "module/chapter-turns",
+    "module/reader-shell",
     "select-property/publication-status",
     "text-property/external-tags",
   ],
