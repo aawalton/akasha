@@ -35,7 +35,7 @@ export const page = {
     "domain/pages-service",
     "domain/pages-ui",
     "domain/pages-ui-store",
-    "domain/pages-url",
+    "domain/page-url",
     "file-property/entries",
     "module/akasha-page-values",
     "module/calculation-loading",
