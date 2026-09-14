@@ -9,19 +9,19 @@ export const watcherTrayInstaller = {
   moduleName: "installer",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A worker already on disk is left alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A worker download lands under a temporary name before the rename into place.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The startup shortcut is written by PowerShell rather than by Rust.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A startup shortcut already there is left alone.",
     },
   ],

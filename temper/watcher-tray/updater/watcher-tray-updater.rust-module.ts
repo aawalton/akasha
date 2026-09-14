@@ -9,21 +9,21 @@ export const watcherTrayUpdater = {
   moduleName: "updater",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A replacement is triggered where the server's version differs from the built version.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The running executable is renamed aside before the downloaded executable takes that name.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The renamed old executable is deleted at the next start.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A replaced tray waits for the next login rather than restarting itself.",
     },
   ],

@@ -9,15 +9,15 @@ export const watcherTrayMain = {
   moduleName: "main",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The tray declares every sibling module here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A tray that replaced itself exits rather than carrying on.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A step that failed is logged and the run carries on.",
     },
   ],

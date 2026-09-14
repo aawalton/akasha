@@ -9,19 +9,19 @@ export const watcherTraySupervisor = {
   moduleName: "supervisor",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A worker that exited on its own is spawned again.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A worker the tray killed is left dead.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The worker is looked at every five hundred milliseconds.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The worker runs with no console window of its own.",
     },
   ],

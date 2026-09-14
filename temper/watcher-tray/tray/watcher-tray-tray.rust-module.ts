@@ -9,20 +9,20 @@ export const watcherTrayTray = {
   moduleName: "tray",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The icon is compiled into the binary rather than read at run time.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The menu opens the log file and the SavedVariables folder.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A SavedVariables folder under OneDrive is preferred over the folder under the profile.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Quitting kills the worker before the event loop exits.",
     },
   ],

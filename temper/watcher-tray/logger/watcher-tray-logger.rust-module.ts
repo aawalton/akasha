@@ -9,23 +9,23 @@ export const watcherTrayLogger = {
   moduleName: "logger",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A log line has an instant and a level before the message.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The live log is rotated once that log reaches a megabyte.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Three log files are kept.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A log that could not be written is dropped rather than thrown on.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The instant is worked out here rather than drawn from a date library.",
     },
   ],
