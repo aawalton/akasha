@@ -29,7 +29,6 @@ export const ui = {
     "module/sheet-panel",
     "module/status-drawer",
     "module/story-prose-dividers",
-    "module/story-session-compose",
     "module/story-so-far",
     "module/system-card",
     "module/system-choice-card",
