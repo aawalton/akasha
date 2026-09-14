@@ -14,9 +14,11 @@ import {
 import {
   CLEAN,
   FAULT,
+  FILED_AT,
   ONE,
   rooted,
   scratch,
+  scripted,
   UNQUOTED,
 } from "akasha/checks/code-checks/pages/shell-clean/shell-clean.code-check.decision.test-fixtures.ts"
 import {
@@ -127,7 +129,22 @@ test("a change taking a fault away is not refused, though the fault is still on 
   expect(refusalsOver(held, shadowAt(root))).toEqual([])
 })
 
-test("the mirror names every shell script the index files as well as the ones carried", () => {
+test("the mirror names every shell script a page carries as well as the ones the change carries", () => {
+  const root = rooted()
+  scripted(root)
+  const held = landing(root, { [MAIN_AT]: bytesOf(MAIN), "akasha/held.md": bytesOf("held") })
+  expect(besideIn(held, shadowAt(root))).toEqual([MAIN_AT, FILED_AT])
+})
+
+test("a shell script the index lists but no page carries is left out once a shell property answers", () => {
+  const root = rooted()
+  scripted(root)
+  pathListed(root, PART_AT)
+  const held = landing(root, { [MAIN_AT]: bytesOf(MAIN) })
+  expect(besideIn(held, shadowAt(root))).toEqual([MAIN_AT, FILED_AT])
+})
+
+test("the mirror falls back to every shell script the index lists where no shell property answers", () => {
   const root = rooted()
   pathListed(root, PART_AT)
   const held = landing(root, { [MAIN_AT]: bytesOf(MAIN), "akasha/held.md": bytesOf("held") })

@@ -1,11 +1,25 @@
 import { mirroredOf } from "akasha/checks/modules/change-mirror/change-mirror.module.code.ts"
 import { everyFileOf } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
+import { pathsOf } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
+import {
+  textAt,
+  textsAt,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const SH = ".sh"
+
+const HELD = "sh"
+
+const FILE_PROPERTY = "file-property"
+
+const EXTENSIONS = "extensions"
+
+const SLUG = "slug"
 
 const TOOL = "shellcheck"
 
@@ -44,8 +58,40 @@ export function carriedIn(change: Change): readonly string[] {
   return [...new Set(held)].sort()
 }
 
+function holdingShellIn(index: Answering): readonly string[] {
+  const found: string[] = []
+  for (const kind of index.kindsUnder(FILE_PROPERTY)) {
+    for (const value of index.valuesByPath(kind).values()) {
+      const slug = textAt(value, SLUG)
+      if (slug === null || !(textsAt(value, EXTENSIONS) ?? []).includes(HELD)) continue
+      found.push(`${kind}/${slug}`)
+    }
+  }
+  return found
+}
+
+function filedIn(shadow: Shadow): readonly string[] | null {
+  const index = shadow.index
+  const filedBy = index.filePropertiesAt()
+  const answered: string[] = []
+  const found = new Set<string>()
+  for (const named of holdingShellIn(index)) {
+    const carried = index.carryingOf(named)
+    if ("refused" in carried) continue
+    answered.push(named)
+    for (const one of carried.carrying) {
+      const value = index.valuesByPath(one.pageTypeSlug).get(one.path)
+      if (value === undefined) continue
+      for (const at of pathsOf(value, one.path, shadow.root, filedBy)) {
+        if (shellNamed(at)) found.add(at)
+      }
+    }
+  }
+  return answered.length === 0 ? null : [...found]
+}
+
 export function besideIn(change: Change, shadow: Shadow): readonly string[] {
-  const every = everyFileOf(shadow.index).filter(shellNamed)
+  const every = filedIn(shadow) ?? everyFileOf(shadow.index).filter(shellNamed)
   return [...new Set([...every, ...carriedIn(change)])].sort()
 }
 
