@@ -45,7 +45,7 @@ export const akashaRepo = {
   ],
   directives: [
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Atomic Commit",
       act: "Stage and commit in one command, naming the paths that commit is for.",
       warrant:
@@ -56,7 +56,7 @@ export const akashaRepo = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Right Version",
       act: "Check a claim about a file against the version it was made about, not the one on disk now.",
       warrant: "A file has no time, so the wrong version answers as confidently as the right one.",
