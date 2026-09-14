@@ -11,5 +11,5 @@ export const kettlebells = {
   loads: [5, 10, 15],
   notes: "Single bells.",
   sortOrder: 2,
-  covers: ["kettlebells"],
+  covers: ["strength-exercise-implement/kettlebells"],
 } as const satisfies FitnessEquipment
