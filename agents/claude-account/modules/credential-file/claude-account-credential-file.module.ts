@@ -15,18 +15,6 @@ export const claudeAccountCredentialFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A file that cannot be read reads as no credential.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A file that cannot be parsed reads as no credential.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A file naming an empty access token reads as no credential.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "A write of an empty access token or an empty refresh token leaves the file as that file is.",
     },

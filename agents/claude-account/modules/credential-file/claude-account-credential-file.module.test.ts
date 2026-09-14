@@ -1,10 +1,9 @@
 import { afterAll, describe, expect, test } from "bun:test"
-import { readFileSync, statSync, writeFileSync } from "node:fs"
+import { existsSync, readFileSync, statSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
   CREDENTIAL_FILE_NAME,
   CREDENTIAL_FILE_SHAPE,
-  credentialFileIn,
   credentialFileWritten,
   fileChanged,
 } from "akasha/agents/claude-account/modules/credential-file/claude-account-credential-file.module.code.ts"
@@ -91,65 +90,14 @@ describe("CREDENTIAL_FILE_SHAPE", () => {
   })
 })
 
-describe("credentialFileIn", () => {
-  test("a directory holding no file reads as no credential", () => {
-    expect(credentialFileIn(whereverIn())).toBeNull()
-  })
-
-  test("a file that is no JSON reads as no credential", () => {
-    const dir = whereverIn()
-    fileWritten(dir, "nope")
-    expect(credentialFileIn(dir)).toBeNull()
-  })
-
-  test("a file naming no claudeAiOauth reads as no credential", () => {
-    const dir = whereverIn()
-    fileWritten(dir, JSON.stringify({ oauthAccount: { uuid: "u" } }))
-    expect(credentialFileIn(dir)).toBeNull()
-  })
-
-  test("a file naming an empty access token reads as no credential", () => {
-    const dir = whereverIn()
-    fileWritten(dir, bodyOf({ ...WHOLE, accessToken: "" }))
-    expect(credentialFileIn(dir)).toBeNull()
-  })
-
-  test("a whole file reads as its access token, scopes and expiry", () => {
-    const dir = whereverIn()
-    fileWritten(dir, bodyOf({ ...WHOLE, scopes: ["user:inference", "user:profile"] }))
-    expect(credentialFileIn(dir)).toEqual({
-      accessToken: "at-1",
-      scopes: ["user:inference", "user:profile"],
-      expiresAt: 1_800_000_000_000,
-    })
-  })
-
-  test("a file naming no scopes reads as no scopes rather than as absent", () => {
-    const dir = whereverIn()
-    fileWritten(dir, bodyOf(WHOLE))
-    expect(credentialFileIn(dir)?.scopes).toEqual([])
-  })
-
-  test("the refresh token is not among what is read", () => {
-    const dir = whereverIn()
-    fileWritten(dir, bodyOf(WHOLE))
-    expect(Object.keys(credentialFileIn(dir) ?? {}).sort()).toEqual([
-      "accessToken",
-      "expiresAt",
-      "scopes",
-    ])
-  })
-})
-
 describe("credentialFileWritten", () => {
   test("a credential reaches a directory that is not there yet", () => {
     const dir = join(whereverIn(), "deep", "deeper")
     credentialFileWritten(dir, credentialOf())
-    expect(credentialFileIn(dir)).toEqual({
-      accessToken: "at-1",
-      scopes: ["user:inference"],
-      expiresAt: 1_800_000_000_000,
-    })
+    const held = CREDENTIAL_FILE_SHAPE.parse(
+      JSON.parse(readFileSync(join(dir, CREDENTIAL_FILE_NAME), "utf-8"))
+    )
+    expect(held.claudeAiOauth?.accessToken).toBe("at-1")
   })
 
   test("a written file carries the whole credential, refresh token and all", () => {
@@ -189,7 +137,10 @@ describe("credentialFileWritten", () => {
     const dir = whereverIn()
     fileWritten(dir, "nope")
     credentialFileWritten(dir, credentialOf())
-    expect(credentialFileIn(dir)?.accessToken).toBe("at-1")
+    const held = CREDENTIAL_FILE_SHAPE.parse(
+      JSON.parse(readFileSync(join(dir, CREDENTIAL_FILE_NAME), "utf-8"))
+    )
+    expect(held.claudeAiOauth?.accessToken).toBe("at-1")
   })
 
   test("an empty access token leaves the file that is there untouched", () => {
@@ -211,7 +162,7 @@ describe("credentialFileWritten", () => {
   test("an empty token writes no file where there was none", () => {
     const dir = join(whereverIn(), "unmade")
     credentialFileWritten(dir, credentialOf({ accessToken: "" }))
-    expect(credentialFileIn(dir)).toBeNull()
+    expect(existsSync(join(dir, CREDENTIAL_FILE_NAME))).toBe(false)
   })
 })
 

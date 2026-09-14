@@ -54,12 +54,6 @@ export const CREDENTIAL_FILE_SHAPE = z.looseObject({
     .optional(),
 })
 
-export type FileCredential = {
-  readonly accessToken: string
-  readonly scopes: readonly string[]
-  readonly expiresAt: number
-}
-
 function credentialPathIn(dir: string): string {
   return join(dir, CREDENTIAL_FILE_NAME)
 }
@@ -79,22 +73,6 @@ function expiryIn(dir: string): number {
     return CREDENTIAL_FILE_SHAPE.parse(JSON.parse(raw)).claudeAiOauth?.expiresAt ?? NO_EXPIRY
   } catch {
     return NO_EXPIRY
-  }
-}
-
-export function credentialFileIn(dir: string): FileCredential | null {
-  const raw = rawFileIn(dir)
-  if (raw === null) return null
-  try {
-    const oauth = CREDENTIAL_FILE_SHAPE.parse(JSON.parse(raw)).claudeAiOauth
-    if (oauth == null || oauth.accessToken === "") return null
-    return {
-      accessToken: oauth.accessToken,
-      scopes: oauth.scopes ?? [],
-      expiresAt: oauth.expiresAt,
-    }
-  } catch {
-    return null
   }
 }
 
