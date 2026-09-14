@@ -7,6 +7,7 @@ export const readoutScaleReading = {
   definition: "the rungs a readout scale page states, read from the store",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

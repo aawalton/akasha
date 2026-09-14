@@ -14,7 +14,6 @@ export const readout = {
     "instant-property/last-value-at",
     "instant-property/went-silent-at",
     "module-property-group/reading",
-    "module/readout-answering",
     "module/readout-asking",
     "module/readout-body",
     "module/readout-credential",
