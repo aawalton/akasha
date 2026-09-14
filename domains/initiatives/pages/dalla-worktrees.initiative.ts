@@ -11,12 +11,12 @@ export const dallaWorktrees = {
       statement:
         "A deployed service gets every file it needs from the pages service at its deployed commit.",
       workingMemory:
-        "`/read` takes `at`, and a property outside the commit reads off the checkout whatever commit is named. `deploy-file-closure` already walks tracked files only, so it is the per-service manifest at a commit. The npm tree stays off the pages service: resolved from `node_modules` here, installed remotely from the tracked `package.json` and `bun.lock`. `path`, `listing` and `import` are reached only from changes and checks, so `value` and `shapes` are the only families blocking a service.",
+        "A plugin resolving `akasha/` through `/read` in its own namespace ran 170 modules of `send-due-reminders` with nothing on disk; `zod` still resolved from `node_modules`, on disk here and installed remotely from the lockfile. The deploy writes that loader beside each unit file. Pinning waits on the index: at `8a509d9e224` the served code spells `INDEX_AT` as `.git/indexes` while the disk holds `.indexes`. `path`, `listing` and `import` are reached only from changes and checks.",
     },
     {
       statement: "No deployed service runs out of a worktree.",
       workingMemory:
-        "Six trees under `.git/trees/<kind>`, 3.9 GB each, advanced by `git reset --hard` from `akasha deploy`; all 52 workstation units exec a module inside `.git/trees/service-workstation` while `WorkingDirectory` and `AKASHA_ROOT` name the checkout. The deploy loop runs from that tree too, so a move that respells the checkout strands every unit until the tree advances.",
+        "Six trees under `.git/trees/<kind>` hold 23 GB, advanced by `git reset --hard` from `akasha deploy`; every workstation unit execs a module inside `.git/trees/service-workstation` while `WorkingDirectory` and `AKASHA_ROOT` name the checkout. That tree holds no `node_modules`, so every `akasha/` import below the entry loads from the live checkout: the pin is one file deep. The deploy loop runs from that tree too, so a move respelling the checkout strands every unit.",
     },
   ],
 } as const satisfies Initiative
