@@ -79,9 +79,3 @@ export const TallyCatalogSchema = z
       seen.add(p.id)
     }
   })
-export type TallyCatalog = z.infer<typeof TallyCatalogSchema>
-
-export function parseTallyCatalog(value: unknown): TallyCatalog | null {
-  if (value === null || value === undefined) return null
-  return TallyCatalogSchema.parse(value)
-}
