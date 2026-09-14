@@ -29,7 +29,7 @@ export const page = {
     "domain/page-commands",
     "domain/page-edge",
     "domain/page-storage",
-    "domain/pages-access",
+    "domain/page-access",
     "domain/pages-core",
     "domain/pages-query",
     "domain/pages-service",

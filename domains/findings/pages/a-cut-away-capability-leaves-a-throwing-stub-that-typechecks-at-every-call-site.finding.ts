@@ -4,7 +4,7 @@ export const aCutAwayCapabilityLeavesAThrowingStubThatTypechecksAtEveryCallSite 
   id: "01a09636-3a98-7000-845b-d78c91d0cd79",
   type: "finding",
   slug: "a-cut-away-capability-leaves-a-throwing-stub-that-typechecks-at-every-call-site",
-  domain: "domain/pages-access",
+  domain: "domain/page-access",
   claim:
     "Nine exported functions across six modules are capabilities the `@akasha/pages-service` migration cut away and left as tombstones: a body of one `throw` carrying prose about what no longer answers, under a declared return type that promises a value. `loadSave` says `Promise<IdleSave | null>` and returns nothing, ever. A `throw` body inhabits every return type, so nothing typechecks this and nothing ever will. This shape killed ten `akasha inference` commands on 2026-09-12, every one of which compiled: `landRow` was reached as effectively the first statement of `recordInferenceRun`, and it was mended at `4b1b844902b`. Eight of the nine are reachable from `alan/web/routes`, so the fault is live behind a web route rather than behind a command. A check for this shape was measured against the whole tree and judged not to earn its place.",
   evidence:
