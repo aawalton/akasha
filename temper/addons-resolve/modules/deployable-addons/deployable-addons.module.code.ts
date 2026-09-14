@@ -6,7 +6,6 @@ import {
 
 export type DeployableInfo = {
   readonly name: string
-  readonly workspaceClosure: readonly string[]
 }
 
 function isRoster(
@@ -20,6 +19,6 @@ export function listDeployables(
 ): readonly DeployableInfo[] {
   const roster = isRoster(rosterOrOpts) ? rosterOrOpts : listAllAddons(rosterOrOpts)
   return roster
-    .map((one) => ({ name: one.canonicalName, workspaceClosure: one.workspaceClosure }))
+    .map((one) => ({ name: one.canonicalName }))
     .sort((left, right) => left.name.localeCompare(right.name))
 }

@@ -28,8 +28,7 @@ function rowsOf(all: readonly AddonInfo[]): readonly string[] {
   const nameWidth = widthOf(all, (one) => one.canonicalName)
   const dirWidth = widthOf(all, (one) => one.repoRelDir)
   return all.map(
-    (one) =>
-      `${one.canonicalName.padEnd(nameWidth)}  ${one.repoRelDir.padEnd(dirWidth)}  closure=${String(one.workspaceClosure.length)}`
+    (one) => `${one.canonicalName.padEnd(nameWidth)}  ${one.repoRelDir.padEnd(dirWidth)}`
   )
 }
 

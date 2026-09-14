@@ -13,7 +13,6 @@ export const temperAddonsResolve = {
     "module/distributable-set",
     "module/folder-ownership",
     "module/sibling-addons",
-    "module/workspace-closure",
   ],
   invariants: [
     {

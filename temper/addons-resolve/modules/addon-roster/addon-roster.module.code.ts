@@ -1,14 +1,9 @@
 import { existsSync, readdirSync, readFileSync } from "node:fs"
-import { basename, dirname, join } from "node:path"
+import { basename, dirname, join, relative, sep } from "node:path"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { addonManifestSchema } from "akasha/temper/addons-resolve/modules/addon-json/addon-json.module.code.ts"
 import { addonManifestPathIn } from "akasha/temper/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
-import {
-  computeWorkspaceClosure,
-  loadWorkspaceCatalog,
-  repoRelOf,
-} from "akasha/temper/addons-resolve/modules/workspace-closure/workspace-closure.module.code.ts"
 
 const DEFAULT_REPO_ROOT = rootOf(import.meta.dir)
 
@@ -16,11 +11,14 @@ const ADDONS_REL_ROOT = "temper/addons"
 
 const ESO_ADDON = "eso-addon"
 
+function repoRelOf(repoRoot: string, dir: string): string {
+  return relative(repoRoot, dir).split(sep).join("/")
+}
+
 export type AddonInfo = {
   readonly dir: string
   readonly canonicalName: string
   readonly repoRelDir: string
-  readonly workspaceClosure: readonly string[]
 }
 
 export type ResolvedAddon = {
@@ -57,12 +55,10 @@ function listExternalAddonRelDirs(repoRoot: string): readonly string[] {
   return found.sort()
 }
 
-type Discovered = Omit<AddonInfo, "workspaceClosure">
-
-function addonsUnderFlatRoot(repoRoot: string): readonly Discovered[] {
+function addonsUnderFlatRoot(repoRoot: string): readonly AddonInfo[] {
   const addonsRoot = join(repoRoot, ADDONS_REL_ROOT)
   if (!existsSync(addonsRoot)) return []
-  const found: Discovered[] = []
+  const found: AddonInfo[] = []
   for (const entry of readdirSync(addonsRoot, { withFileTypes: true })) {
     if (!entry.isDirectory()) continue
     const dir = join(addonsRoot, entry.name)
@@ -77,8 +73,8 @@ function addonsUnderFlatRoot(repoRoot: string): readonly Discovered[] {
   return found
 }
 
-function addonsElsewhere(repoRoot: string): readonly Discovered[] {
-  const found: Discovered[] = []
+function addonsElsewhere(repoRoot: string): readonly AddonInfo[] {
+  const found: AddonInfo[] = []
   for (const rel of listExternalAddonRelDirs(repoRoot)) {
     const dir = join(repoRoot, rel)
     const said = readAddonJson(repoRoot, dir)
@@ -94,12 +90,7 @@ function addonsElsewhere(repoRoot: string): readonly Discovered[] {
 
 export function listAllAddons(opts?: ResolveOpts): readonly AddonInfo[] {
   const repoRoot = opts?.repoRoot ?? DEFAULT_REPO_ROOT
-  const catalog = loadWorkspaceCatalog(repoRoot)
-  const discovered = [...addonsUnderFlatRoot(repoRoot), ...addonsElsewhere(repoRoot)]
-  return discovered.map((one) => ({
-    ...one,
-    workspaceClosure: computeWorkspaceClosure(one.repoRelDir, repoRoot, catalog),
-  }))
+  return [...addonsUnderFlatRoot(repoRoot), ...addonsElsewhere(repoRoot)]
 }
 
 export function resolveAddon(name: string, opts?: ResolveOpts): ResolvedAddon {

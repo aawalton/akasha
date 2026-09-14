@@ -90,12 +90,6 @@ test("the json answer parses and carries one record per addon", () => {
   expect(parsed.map((one) => one.canonicalName).sort()).toEqual([FLAT, NESTED])
 })
 
-test("the closure each addon reaches is counted rather than left off", () => {
-  const root = fixtureFor()
-  const said = temperAddonList(["--code-root", root], GIVEN)
-  expect(said.report.join("\n")).toContain("closure=1")
-})
-
 test("a flag this takes no argument for is refused rather than passed over", () => {
   const root = fixtureFor()
   const said = temperAddonList(["--code-root", root, "--outdated"], GIVEN)
