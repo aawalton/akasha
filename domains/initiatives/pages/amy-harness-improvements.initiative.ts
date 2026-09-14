@@ -6,7 +6,12 @@ export const amyHarnessImprovements = {
   slug: "amy-harness-improvements",
   domain: "domain/alan-harness",
   persona: "amy",
-  intentStack: [],
+  intentStack: [
+    {
+      statement:
+        "Every persona's email address is routed in Cloudflare without anyone doing it by hand.",
+    },
+  ],
 
   constraints: [
     "This initiative stays when its last intent goes, rather than dying as a finished initiative does.",
