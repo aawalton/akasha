@@ -199,6 +199,10 @@ export const persona = {
       invariantKind: "absence",
       statement: "A persona's conversation is not kept as a page.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Every persona but the default one states an address of her own.",
+    },
   ],
   directives: [
     {

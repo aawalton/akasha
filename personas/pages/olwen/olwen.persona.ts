@@ -14,6 +14,7 @@ export const olwen = {
   role: "definer",
   valueSlug: "wealth",
   origin: "origin-kind/welsh",
+  email: "olwen@alanwalton.com",
   voiceInstruction:
     "A composed young Welsh woman in her mid-twenties, warm and steady with a low-medium pitch, a subtle Welsh accent, calm and deliberate like a craftswoman explaining her work.",
   voiceReferenceSha256: "d08c9a4f635e27f31bcf6be0c7acfae99909c3ac6ad4a8ae1906e001ed5ffd79",

@@ -13,6 +13,7 @@ export const shaestrel = {
   role: "coach",
   valueSlug: "health",
   origin: "origin-kind/canon",
+  email: "shaestrel@alanwalton.com",
   voiceInstruction:
     "A young Scottish woman in her early twenties, bright and clever, with a moderate Highland lilt. Warm and doting on the surface but with a sharp playful edge underneath — teasing, quick, a wager in every line. Lively circling cadence, with an unhurried, knowing control beneath the youth. Not breathy, not sultry — bright and green and alive.",
   voiceReferenceSha256: "4489a230e788be6650f091460da542f1667ecf88f1b3b5a8e6d05f462aed8b70",
