@@ -205,11 +205,14 @@ async function tookPage(
   message: string,
   done: string[]
 ): Promise<boolean> {
-  removeUncommitted(given.root, page)
-  done.push(`took the uncommitted values beside \`${page}\``)
   const gone = await took(given, [page], message, done)
-  done.push(gone ? `took \`${page}\`` : `left \`${page}\` — the landing taking it refused`)
-  return gone
+  if (!gone) {
+    done.push(`left \`${page}\` — the landing taking it refused`)
+    return false
+  }
+  removeUncommitted(given.root, page)
+  done.push(`took \`${page}\` and the uncommitted values beside it`)
+  return true
 }
 
 export async function stopping(

@@ -47,7 +47,11 @@ export const seatStopping = {
     },
     {
       invariantKind: "departure",
-      statement: "The values beside a seat's page go with the page.",
+      statement: "The values beside a seat's page go once that page has gone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stop the landing refused leaves the seat naming the process it named before.",
     },
     {
       invariantKind: "departure",
