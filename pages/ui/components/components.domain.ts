@@ -15,7 +15,6 @@ export const components = {
     "module/badge-registry",
     "module/bare-listing-card",
     "module/base-conditions",
-    "module/boolean-property-badge",
     "module/build-server-grouped-sections",
     "module/calendar-time-property-badge",
     "module/card-property-columns",

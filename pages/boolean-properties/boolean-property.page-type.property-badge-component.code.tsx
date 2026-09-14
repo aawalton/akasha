@@ -7,12 +7,7 @@ function isTruthy(value: unknown): boolean {
   return Boolean(value)
 }
 
-export function BooleanPropertyBadge({
-  property,
-  value,
-  editable,
-  onPropertyChange,
-}: PropertyBadgeProps) {
+export function Drawing({ property, value, editable, onPropertyChange }: PropertyBadgeProps) {
   if (editable && onPropertyChange) {
     return (
       <CheckboxBadge
