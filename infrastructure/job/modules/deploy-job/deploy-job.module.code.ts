@@ -14,7 +14,9 @@ import { refFor } from "akasha/infrastructure/container-image/modules/image-ref/
 import { dispatcherIn } from "akasha/infrastructure/machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.scripting.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 
-const NAMESPACE = "ci"
+const NAMESPACE = "workers"
+
+const CLASS = "ci"
 
 const ORIGIN = "http://git-transport.git.svc.cluster.local:3000/alan/akasha.git"
 
@@ -63,7 +65,7 @@ export function jobFor(
       ttlSecondsAfterFinished: KEPT_SECONDS,
       template: {
         spec: {
-          nodeSelector: workloadClassMemberSelector(NAMESPACE),
+          nodeSelector: workloadClassMemberSelector(CLASS),
           restartPolicy: "Never",
           volumes: [{ name: WORK, emptyDir: {} }],
           containers: [
