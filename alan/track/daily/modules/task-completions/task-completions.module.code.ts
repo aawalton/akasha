@@ -6,6 +6,7 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { asking } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
 
 const TO_DO_PAGE_TYPE_SLUG = "to-do"
@@ -25,6 +26,10 @@ const DIFFICULTY_POINTS: Record<string, number> = {
   light: 50,
   hard: 100,
   major: 250,
+}
+
+function valueSlugOf(held: unknown): string | null {
+  return typeof held === "string" && held !== "" ? slugOf(held) : null
 }
 
 function pointsForDifficulty(difficulty: unknown): number {
@@ -133,7 +138,7 @@ export async function loadDayHealthTaskPoints(dayStr: string): Promise<number | 
   return computeHealthTaskPointsForWindow(
     {
       activeSources: toDos
-        .filter((values) => values[TO_DO_VALUE] === HEALTH_VALUE_SLUG)
+        .filter((values) => valueSlugOf(values[TO_DO_VALUE]) === HEALTH_VALUE_SLUG)
         .map((values) => ({
           slug: values[TO_DO_SLUG],
           completedAt: values[TO_DO_LAST_COMPLETED_AT],

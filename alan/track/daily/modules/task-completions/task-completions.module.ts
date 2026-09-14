@@ -25,5 +25,9 @@ export const taskCompletions = {
       invariantKind: "absence",
       statement: "Nothing here counts a day over the six-in-the-morning ESO boundary.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The value a to-do names is read as the slug alone, and a completion's as text.",
+    },
   ],
 } as const satisfies Module
