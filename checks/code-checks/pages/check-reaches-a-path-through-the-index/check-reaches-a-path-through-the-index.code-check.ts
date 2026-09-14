@@ -25,11 +25,39 @@ export const checkReachesAPathThroughTheIndex = {
     },
     {
       invariantKind: "departure",
-      statement: "A directory listing is a call naming a reader of a directory.",
+      statement:
+        "A check reaches every path in the checkout through the shadow that check is handed.",
     },
     {
       invariantKind: "departure",
-      statement: "A call handed `ls-files` lists a directory too.",
+      statement:
+        "A reach past that shadow answers from the tree git left rather than the tree the change leaves.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the change writes is missing from a reach made past the shadow.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the change takes away is still answered by a reach made past the shadow.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call the checkout's root flows into is a reach at the checkout.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A reach is found by the root flowing into the call rather than by the name the call has.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call taking a root outside the checkout reaches no path this check judges.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The shadow's listing, its holding and its page reading are the reaches a check may make.",
     },
     {
       invariantKind: "departure",
@@ -65,7 +93,7 @@ export const checkReachesAPathThroughTheIndex = {
     },
     {
       invariantKind: "absence",
-      statement: "A listing through a mechanism named nowhere here is not seen.",
+      statement: "A reach whose root is built from anything but plain strings is not seen.",
     },
     {
       invariantKind: "departure",
@@ -330,7 +358,61 @@ export const checkReachesAPathThroughTheIndex = {
     },
     {
       invariantKind: "absence",
-      statement: "A pattern the bundler reads before the code runs is no directory listing.",
+      statement: "A pattern the bundler reads before the code runs is no reach at the checkout.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A folder the tree search holds apart is a folder the shadow answers no path under.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A reach under a folder the search holds apart is judged by nothing here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An audit reads the checkout to make the change an overlay is laid over.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A file named for a check's audit is judged by nothing here.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "The code the shadow's surface reaches through its imports is judged by nothing here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That code is worked out from the import graph rather than from a list of paths.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A reach past the shadow in a check's own code is refused.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A reach is found without a list of reader names.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "`filesIn` handed the shadow's root is a reach this check refuses.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Every check listing a folder lists it through the shadow.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The shadow lists the folders sitting in a folder.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A check's decision is handed the shadow wherever that decision lists.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "This page is named for the overlay rather than for the index.",
     },
   ],
   check: { maxCpuSeconds: 10 },
