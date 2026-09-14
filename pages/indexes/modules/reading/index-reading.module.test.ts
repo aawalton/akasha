@@ -279,15 +279,6 @@ test("the values of one page type are worked out once for a reading and that pag
   expect(valuesOfType(reading, "module")).toBe(valuesOfType(reading, "module"))
 })
 
-test("two readings of an entry file nothing wrote between them share the one answer", () => {
-  const root = rootAt()
-  valueAlsoFiled(root, "module", [
-    { path: "akasha/one/one.module.ts", value: { id: A, slug: "one" } },
-  ])
-
-  expect(valuesOfType(root, "module")).toBe(valuesOfType(root, "module"))
-})
-
 test("a reading made after a write answers the values the entry file carries now", () => {
   const root = rootAt()
   valueAlsoFiled(root, "module", [
@@ -323,11 +314,11 @@ test("a poll over fresh readings sees the value a writer files while that poll r
   expect(saw).toEqual(["akasha/a.subagent.ts", "akasha/b.subagent.ts"])
 })
 
-test("a page the values name and no slug names is answered by nothing", () => {
+test("a page a value is filed for is answered under its page type too", () => {
   const root = rootAt()
   valueAlsoFiled(root, "module", [
     { path: "akasha/one/one.module.ts", value: { id: A, pageTypeSlug: "module", slug: "one" } },
   ])
 
-  expect(everyOfType(root, "module")).toEqual([])
+  expect(everyOfType(root, "module")).toEqual([{ path: "akasha/one/one.module.ts", id: A }])
 })

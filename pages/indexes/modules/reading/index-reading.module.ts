@@ -143,7 +143,8 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The value every page of one page type carries is one file read.",
+      statement:
+        "The value every page of one page type carries is read from those pages' own bodies.",
     },
     {
       invariantKind: "departure",
@@ -185,24 +186,6 @@ export const indexReading = {
     {
       invariantKind: "departure",
       statement: "A caller naming a root is answered for the index as it is at that call.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "An answer drawn from one entry file is worked out once for that file's lines and held.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Two readings of an entry file nothing wrote between them are answered the one held answer.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A file written again has its answer worked out again at the next reading.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An answer held that way is let go when the lines it was drawn from are.",
     },
     {
       invariantKind: "departure",

@@ -57,5 +57,17 @@ export const indexFiling = {
       invariantKind: "departure",
       statement: "A body written here is named as every check over a tree wants a page named.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A value filed for a page files that page under its slug and its id as well.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A slug the value does not state is read off the page's own file name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A roster line already at that path is left as the caller wrote it.",
+    },
   ],
 } as const satisfies Module

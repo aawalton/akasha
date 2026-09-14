@@ -12,7 +12,6 @@ import {
 } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
 import { indexShapes } from "akasha/pages/indexes/shapes/index-shapes.index.ts"
-import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
 import {
   filedFor,
   type PageAddress,
@@ -33,8 +32,6 @@ const IMPORT = indexImport.name
 const RELATION = indexRelation.name
 
 const SHAPES = indexShapes.name
-
-const VALUE = indexValue.name
 
 const PROPERTY = "page-property"
 
@@ -115,20 +112,6 @@ export function heldEach<T>(
     const made = asked(reading, said)
     each.set(said, made)
     return made
-  }
-}
-
-function heldOverFile<T>(
-  asked: (reading: Reading, at: string) => T
-): (reading: Reading, at: string) => T {
-  const held = new WeakMap<readonly string[], readonly [T]>()
-  return (reading, at) => {
-    const lines = reading.lines(at)
-    const found = held.get(lines)
-    if (found !== undefined) return found[0]
-    const made: readonly [T] = [asked(reading, at)]
-    held.set(lines, made)
-    return made[0]
   }
 }
 
@@ -258,48 +241,24 @@ export type Valued = {
   readonly value: Value
 }
 
-const valuesIn = heldOverFile((reading: Reading, at: string): readonly Valued[] => {
-  const found: Valued[] = []
-  for (const line of reading.lines(at)) {
-    let said: unknown
-    try {
-      said = JSON.parse(line)
-    } catch {
-      continue
-    }
-    if (said === null || typeof said !== "object" || Array.isArray(said)) continue
-    const held = said as Record<string, unknown>
-    const path = held.path
-    const value = held.value
-    if (typeof path !== "string") continue
-    if (value === null || typeof value !== "object" || Array.isArray(value)) continue
-    found.push({ path, value: value as Value })
-  }
-  return found
-})
-
 export function everyValue(given: string | Reading): ReadonlyMap<string, Value> {
   return answered(given, ROOT, "what every page carries", (reading) => {
     const found = new Map<string, Value>()
-    for (const one of reading.listing(VALUE)) {
-      if (one.directory || !one.name.endsWith(ENDING)) continue
-      for (const held of valuesIn(reading, join(VALUE, one.name))) found.set(held.path, held.value)
+    for (const pageTypeSlug of slugsOfType(reading, PAGE_TYPE)) {
+      for (const one of valuesOfType(reading, pageTypeSlug)) found.set(one.path, one.value)
     }
     return found
   })
 }
 
-const ordered = heldOverFile((reading: Reading, at: string): readonly Valued[] =>
-  [...valuesIn(reading, at)].sort((one, two) =>
-    one.path < two.path ? -1 : one.path > two.path ? 1 : 0
-  )
-)
-
-const valued = heldEach((reading: Reading, pageTypeSlug: string) =>
-  answered(reading, ROOT, `what the \`${pageTypeSlug}\` pages carry`, (held) =>
-    ordered(held, join(VALUE, `${pageTypeSlug}${ENDING}`))
-  )
-)
+const valued = heldEach((reading: Reading, pageTypeSlug: string): readonly Valued[] => {
+  const found: Valued[] = []
+  for (const one of everyOfType(reading, pageTypeSlug)) {
+    const value = valueByPath(reading, one.path)
+    if (value !== null) found.push({ path: one.path, value })
+  }
+  return found
+})
 
 export function valuesOfType(given: string | Reading, pageTypeSlug: string): readonly Valued[] {
   return valued(given, pageTypeSlug)

@@ -5,6 +5,7 @@ import { keepBuilt } from "akasha/pages/indexes/modules/keeping/index-keeping.mo
 import { indexIn } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
+import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
 const ENDING = ".jsonl"
 
@@ -89,6 +90,33 @@ function pagedIn(one: Carried): string | null {
   return typeof value[ID] === "string" ? one.path : null
 }
 
+function onceWritten(root: string, at: string, lines: readonly unknown[]): undefined {
+  const path = join(indexIn(root), `${at}${ENDING}`)
+  if (existsSync(path)) return
+  mkdirSync(dirname(path), { recursive: true })
+  writeFileSync(path, bodyOf(lines))
+  keepBuilt(indexIn(root))
+}
+
+function slugFor(path: string, value: Readonly<Record<string, unknown>>): string | null {
+  const said = value[SLUG]
+  if (typeof said === "string") return said
+  return partedIn(path)?.slug ?? null
+}
+
+function listedAlso(
+  root: string,
+  pageTypeSlug: string,
+  path: string,
+  value: Readonly<Record<string, unknown>>
+): undefined {
+  const id = value[ID]
+  const slug = slugFor(path, value)
+  if (typeof id !== "string" || slug === null) return
+  onceWritten(root, join(indexIdentity.name, PAGE_TYPE, pageTypeSlug, SLUG, slug), [{ path, id }])
+  onceWritten(root, join(indexIdentity.name, PAGE, NO_SCOPE, ID, id), [{ path, id }])
+}
+
 export function valueAlsoFiled(
   root: string,
   pageTypeSlug: string,
@@ -98,6 +126,8 @@ export function valueAlsoFiled(
   for (const one of lines as readonly Carried[]) {
     const path = pagedIn(one)
     const value = one.value
-    if (path !== null && value !== undefined) bodyWritten(root, path, value)
+    if (path === null || value === undefined) continue
+    bodyWritten(root, path, value)
+    listedAlso(root, pageTypeSlug, path, value)
   }
 }
