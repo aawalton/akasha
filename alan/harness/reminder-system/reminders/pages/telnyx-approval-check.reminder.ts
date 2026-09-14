@@ -5,7 +5,7 @@ export const telnyxApprovalCheck = {
   type: "reminder",
   slug: "telnyx-approval-check",
   to: "persona/amy",
-  from: "amy",
+  from: "persona/amy",
   schedule: "*-*-* 09:00:00",
   text: "Check the amy-telnyx-approval submission. Telnyx request 25418a34-7d8c-5304-af97-9679752f983c, Waiting For Customer since Aug 7. Read the request's current status and its one mutable reason note before anything overwrites it, and tell Alan what changed. Take this reminder away once the reviewer has answered.",
 } as const satisfies Reminder
