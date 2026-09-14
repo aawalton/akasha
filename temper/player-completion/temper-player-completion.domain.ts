@@ -33,7 +33,6 @@ export const temperPlayerCompletion = {
     "module/completion-category-tree",
     "module/completion-category-tree-composed",
     "module/completion-category-tree-types",
-    "module/completion-category-tree-utils",
     "module/completion-character-row",
     "module/completion-collectibles-progress",
     "module/completion-companion-progress",
