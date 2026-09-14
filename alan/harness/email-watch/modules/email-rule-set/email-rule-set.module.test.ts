@@ -3,9 +3,7 @@ import {
   EMAIL_RULE_KINDS,
   EMAIL_RULE_SET,
   EMAIL_RULE_SET_NAME,
-  ruleFileSuffix,
   ruleFolderIn,
-  ruleFolderOf,
   ruleKinds,
   ruleLocation,
 } from "akasha/alan/harness/email-watch/modules/email-rule-set/email-rule-set.module.code.ts"
@@ -34,17 +32,6 @@ describe("where a person's rules of each kind are", () => {
     expect(ruleFolderIn("alan", "code")).toBe("alan/harness/inboxes/email-rules/codes/pages")
     expect(ruleFolderIn("jenny", "agent")).toBe("jenny/harness/inboxes/email-rules/agents/pages")
   })
-
-  test("a kind's file suffix carries that kind", () => {
-    expect(ruleFileSuffix("agent")).toBe(".email-rule-agent.ts")
-    expect(ruleFileSuffix("code")).toBe(".email-rule-code.ts")
-  })
-
-  test("a person's folders of every kind are named together", () => {
-    expect(ruleFolderOf("alan")).toBe(
-      `${ruleFolderIn("alan", "agent")} and ${ruleFolderIn("alan", "code")}`
-    )
-  })
 })
 
 describe("ruleLocation", () => {
@@ -59,7 +46,7 @@ describe("ruleLocation", () => {
 
   test("reads the kind of every kind there is", () => {
     for (const kind of ruleKinds()) {
-      const at = `${ruleFolderIn("alan", kind)}/some-rule${ruleFileSuffix(kind)}`
+      const at = `${ruleFolderIn("alan", kind)}/some-rule.email-rule-${kind}.ts`
       expect(ruleLocation(at)?.kind).toBe(kind)
     }
   })

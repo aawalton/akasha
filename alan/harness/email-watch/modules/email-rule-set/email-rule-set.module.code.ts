@@ -28,16 +28,8 @@ export function ruleTypeSlug(kind: EmailRuleKind): string {
   return `email-rule-${kind}`
 }
 
-export function ruleFileSuffix(kind: EmailRuleKind): string {
-  return `.${ruleTypeSlug(kind)}.ts`
-}
-
 export function ruleKinds(): readonly EmailRuleKind[] {
   return EMAIL_RULE_KINDS
-}
-
-export function ruleFolderOf(person: string): string {
-  return EMAIL_RULE_KINDS.map((kind) => ruleFolderIn(person, kind)).join(" and ")
 }
 
 export const EMAIL_RULE_SET: RuleSet = {
