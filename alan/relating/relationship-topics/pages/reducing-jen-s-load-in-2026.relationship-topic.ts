@@ -6,7 +6,7 @@ export const reducingJenSLoadIn2026 = {
   slug: "reducing-jen-s-load-in-2026",
   title: "Reducing Jen’s Load In 2026",
   relationshipTopicParent: "relationship-topic/expectations-for-2026",
-  relationshipTopicPeople: ["jenny"],
+  relationshipTopicPeople: ["person/jenny"],
   relationshipTopicSensitivity: "medium",
   relationshipTopicStatus: "planned",
 } as const satisfies RelationshipTopic

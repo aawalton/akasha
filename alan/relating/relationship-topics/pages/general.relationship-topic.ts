@@ -6,7 +6,7 @@ export const general = {
   slug: "general",
   title: "General",
   relationshipTopicParent: "relationship-topic/parenting",
-  relationshipTopicPeople: ["jenny"],
+  relationshipTopicPeople: ["person/jenny"],
   relationshipTopicSensitivity: "not-applicable",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

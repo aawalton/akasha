@@ -6,7 +6,7 @@ export const ritualsAudit = {
   slug: "rituals-audit",
   title: "Rituals Audit",
   relationshipTopicParent: "relationship-topic/being-intentional",
-  relationshipTopicPeople: ["jenny"],
+  relationshipTopicPeople: ["person/jenny"],
   relationshipTopicSensitivity: "medium",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

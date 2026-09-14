@@ -6,7 +6,7 @@ export const traumaResponses = {
   slug: "trauma-responses",
   title: "Trauma Responses",
   relationshipTopicParent: "relationship-topic/alan",
-  relationshipTopicPeople: ["jenny"],
+  relationshipTopicPeople: ["person/jenny"],
   relationshipTopicSensitivity: "critical",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

@@ -6,7 +6,7 @@ export const bedtime = {
   slug: "bedtime",
   title: "Bedtime",
   relationshipTopicParent: "relationship-topic/increase-support-from-alan",
-  relationshipTopicPeople: ["jenny"],
+  relationshipTopicPeople: ["person/jenny"],
   relationshipTopicSensitivity: "high",
   relationshipTopicStatus: "done",
 } as const satisfies RelationshipTopic

@@ -6,7 +6,7 @@ export const exerciseSpaceGuestRoomRecRoom = {
   slug: "exercise-space-guest-room-rec-room",
   title: "Exercise Space / Guest Room / Rec Room",
   relationshipTopicParent: "relationship-topic/long-term-vision-for-our-home",
-  relationshipTopicPeople: ["jenny"],
+  relationshipTopicPeople: ["person/jenny"],
   relationshipTopicSensitivity: "high",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

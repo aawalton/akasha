@@ -5,7 +5,7 @@ export const coordinateOnFamilyProjects = {
   type: "relationship-topic",
   slug: "coordinate-on-family-projects",
   title: "Coordinate On Family Projects",
-  relationshipTopicPeople: ["jenny"],
+  relationshipTopicPeople: ["person/jenny"],
   relationshipTopicSensitivity: "not-applicable",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic
