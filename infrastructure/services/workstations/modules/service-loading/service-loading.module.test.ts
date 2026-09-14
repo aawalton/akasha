@@ -72,6 +72,33 @@ test("which services the loader runs is named here", () => {
   expect(loadedHere("held-service")).toBe(false)
 })
 
+test("a service that mends a broken pages service is not run by the loader", () => {
+  for (const one of [
+    "pages-service",
+    "workstation-deploying",
+    "cluster-deploying",
+    "web-app-deploying",
+    "container-recipe-deploying",
+    "eso-addon-deploying",
+    "inference-deploying",
+    "ios-app-deploying",
+    "service-watching",
+  ]) {
+    expect(loadedHere(one)).toBe(false)
+  }
+})
+
+test("a service kept running by systemd is run by the loader", () => {
+  for (const one of [
+    "apns-push-notifier",
+    "code-editor-data-watcher",
+    "memory-reaper",
+    "surplus-fall-notifier",
+  ]) {
+    expect(loadedHere(one)).toBe(true)
+  }
+})
+
 test("a manifest names its paths one to a line, in order, ending on a newline", () => {
   expect(manifestText(["b/one.ts", "a/two.ts"])).toBe("a/two.ts\nb/one.ts\n")
 })

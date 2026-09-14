@@ -6,7 +6,13 @@ const HOME = "%h"
 
 const RUN = "bun"
 
-const LOADED: ReadonlySet<string> = new Set(["sweep-log-days"])
+const LOADED: ReadonlySet<string> = new Set([
+  "apns-push-notifier",
+  "code-editor-data-watcher",
+  "memory-reaper",
+  "surplus-fall-notifier",
+  "sweep-log-days",
+])
 
 export const STAGING = ".local/state/workstation-services"
 

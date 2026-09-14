@@ -83,5 +83,10 @@ export const serviceLoading = {
       invariantKind: "gap",
       statement: "A manifest whose service is gone is taken away.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A service that mends a broken pages service is started out of the pinned tree rather than here.",
+    },
   ],
 } as const satisfies Module
