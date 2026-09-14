@@ -42,7 +42,6 @@ import {
 } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
 import type { Carried } from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
 import type { Known } from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
-import { filesIn } from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
 import { slugIn } from "akasha/pages/modules/address/page-address.module.code.ts"
 import {
   type Held,
@@ -344,7 +343,7 @@ export function judgingOver(given: Reading): Judging {
   const stated = index.fileKeysAt()
   const fileProperties = new Set<string>(stated.keys())
   const filing = namesFiling(stated)
-  const listing: Listing = (folder) => filesIn(given.root, folder)
+  const listing: Listing = (folder) => given.shadow.listed(folder)
   let known: Known | null = null
   const admits = new Map<string, ReadonlySet<string>>()
   const extending = (pageTypeSlug: string, wanted: string): boolean => {
