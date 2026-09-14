@@ -18,11 +18,6 @@ function matchAddonFrame(
   return { folder: parsed.data[1], file: parsed.data[2] }
 }
 
-export function extractOwningAddon(traceback: string | null | undefined): string | undefined {
-  const frame = matchAddonFrame(traceback)
-  return frame?.folder
-}
-
 export function extractOwningAddonCandidates(
   traceback: string | null | undefined
 ): readonly string[] {
