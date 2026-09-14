@@ -4,7 +4,7 @@ export const aFindingArguesAgainstAMendOnAPremiseThatHasSinceGone = {
   id: "01a09666-130a-75d7-a5dc-4b6d6c0e42e3",
   type: "finding",
   slug: "a-finding-argues-against-a-mend-on-a-premise-that-has-since-gone",
-  domain: "domain/domain",
+  domain: "page-type/domain",
   claim:
     "A finding can argue against a mend, and the premise that argument rests on can stop holding with nothing marking the page stale. The claim still reads true, so the page is not retired, and the next reader trusts the reasoning and re-derives the whole evening. Worse, one change can undo the objection and destroy the alternative the finding prescribed in the same stroke, leaving a page that forbids the mend now possible and prescribes one now impossible. The page type retires a finding whose claim has gone false and says nothing of a finding whose reasoning has.",
   evidence:

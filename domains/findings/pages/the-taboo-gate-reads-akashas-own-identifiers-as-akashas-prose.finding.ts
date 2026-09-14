@@ -4,7 +4,7 @@ export const theTabooGateReadsAkashasOwnIdentifiersAsAkashasProse = {
   id: "01a0887f-6443-7c0b-86e7-4cb221a5f43e",
   type: "finding",
   slug: "the-taboo-gate-reads-akashas-own-identifiers-as-akashas-prose",
-  domain: "domain/domain",
+  domain: "page-type/domain",
   claim:
     "A taboo term reaches a word quoted out of akasha's own source, where the word is an identifier rather than prose. Naming the parameter `standing` while describing a folder shape tripped the term `stand`, whose barred senses are all about English. A rewording exists here, unlike a name another system owns, but it costs the description its accuracy: the honest way to say how a mechanism works is to name the part by the name the code gives it. The gate cannot tell a quoted identifier from a word a writer chose.",
   evidence:

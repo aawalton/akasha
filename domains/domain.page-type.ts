@@ -6,7 +6,24 @@ export const domain = {
     "boolean-property/expands",
     "build-folder-property/output-directory",
     "code-file-property/tunnel-routes",
+    "domain/context",
+    "domain/domain-champions",
+    "domain/domain-parent",
+    "domain/domain-purpose",
+    "domain/plain-language",
+    "domain/standard-agent-english",
     "file-property/typescript-config",
+    "module/domain-reading",
+    "module/domain-rows",
+    "module/work-initiatives",
+    "page-type/directive-kind",
+    "page-type/finding",
+    "page-type/initiative",
+    "page-type/invariant-group",
+    "page-type/invariant-kind",
+    "page-type/list",
+    "page-type/sentence-shape",
+    "page-type/taboo-term",
     "record-property/directives",
     "record-property/invariants",
     "relation-property/directive-kind",
@@ -64,6 +81,23 @@ export const domain = {
     {
       invariantKind: "departure",
       statement: "A domain goes only when that domain no longer fits the structure.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Everything Alan wants done is a finding or an intent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Context a choice does not need does not reach the agent making that choice.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "Agents have the context each choice needs at the time those agents make that choice.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat's attributes represent the choices that seat will make.",
     },
   ],
   directives: [
