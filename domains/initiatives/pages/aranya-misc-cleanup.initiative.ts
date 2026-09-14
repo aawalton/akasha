@@ -17,5 +17,10 @@ export const aranyaMiscCleanup = {
       workingMemory:
         "The concept is spelled invariant today, across the property a page states, the kinds an invariant is one of, the sentence shape an invariant statement takes, the group page type, the code reading the key, the checks, and the prose. Alan wants the frame of a decision made rather than a truth found.",
     },
+    {
+      statement: "A mechanical landing is reached through one entry point.",
+      workingMemory:
+        "landedMechanically at mechanical-change-running.change-runner.code.ts:107 is runMechanicalChange(root, asked, message, null, { done }) reordered. It carries no agent id, writer, read or commit slot. subagent-presence:144 and seat-stating hold an agent id and drop it, so applied skips asReadOf:340 and recordedAsLanded:363. 17 code files import it, 3 calling it directly. Twelve respell its parameters as a local Landing type. page-secret-acting:159 defaults to runMechanicalChange with no adapter.",
+    },
   ],
 } as const satisfies Initiative
