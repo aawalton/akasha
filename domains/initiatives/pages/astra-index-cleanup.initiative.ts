@@ -16,7 +16,7 @@ export const astraIndexCleanup = {
     {
       statement: "Alan holds the path index's structure correct.",
       workingMemory:
-        "`claimantOf` in `path-claiming` replaces the lookup: name arithmetic, then the name a page type declares, read against each folder above. Every caller is converted. What is left is `check-reaches-a-path-through-the-index`, whose subject dissolves, then `listedByPath` itself, the 13 `partFiled` and `partUnfiled` writers, and the tree. Converting turned up four fixtures filing index answers for pages with no body or no declared type, each invisible while an answer was true by being filed.\n",
+        "`claimantOf` in `path-claiming` answers which page a file belongs to off that file's own name. Every reader is converted, the 13 `partFiled`/`partUnfiled` writers are gone, and `listedByPath` with them. What is left is the tree: `indexing` composes path entries and reconciles them onto disk, and `listedOf` maps those same entries into the listing index. Dropping the tree means feeding listing off the entries in memory rather than off the disk.\n",
     },
     { statement: "Alan holds the listing index's structure correct." },
     { statement: "Alan holds the import index's structure correct." },
