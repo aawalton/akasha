@@ -9,10 +9,7 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
-import {
-  nothingFiled,
-  pathListed,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { nothingFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { uncommittedBesideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { mintedId } from "akasha/testing-system/test-fixtures/minting/minting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
@@ -67,7 +64,6 @@ function seatPaged(root: string, id: string, slug: string, at?: string): undefin
   const path = at ?? seatPageOf(slug)
   listedFiled(root, SEAT, slug, [{ path, id }])
   valueAlsoFiled(root, SEAT, [{ path, value: { id, pageTypeSlug: SEAT, slug } }])
-  pathListed(root, path)
   return undefined
 }
 
@@ -76,7 +72,6 @@ function subagentPaged(root: string, agentId: string, slug: string, at?: string)
   const id = mintedId(slug)
   listedFiled(root, SUBAGENT, slug, [{ path, id }])
   valueAlsoFiled(root, SUBAGENT, [{ path, value: { id, pageTypeSlug: SUBAGENT, slug, agentId } }])
-  pathListed(root, path)
   return undefined
 }
 
