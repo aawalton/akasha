@@ -9,7 +9,7 @@ export const attributeCharisma = {
   unit: "points",
   place: 6,
   scale: "readout-scale/attribute-points",
-  attribute: "charisma",
+  attribute: "attribute/charisma",
   groups: ["readout-group/attributes"],
   wireKey: "charisma",
   invariants: [
