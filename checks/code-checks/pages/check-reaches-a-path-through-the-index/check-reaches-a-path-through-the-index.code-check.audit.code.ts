@@ -30,7 +30,7 @@ export function checkReachesAPathThroughTheIndex(root: string): readonly Judged[
   const types = pageTypesIn(root)
   const paged = pagePathsOf(types, (slug) => everyOfType(root, slug))
   const asking = askingOver(change.changed, paged)
-  const naming = namingOver(paged, types)
+  const naming = namingOver(change.changed, types)
   const facing = facingOn(root)
   const listing: Listing = (folder) => filesIn(root, folder)
   const fileProperties = filePropertiesAt(root)

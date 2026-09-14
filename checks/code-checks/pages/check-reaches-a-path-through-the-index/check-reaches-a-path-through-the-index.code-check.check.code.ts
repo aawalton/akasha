@@ -87,7 +87,7 @@ const NAMING = new WeakMap<Shadow, Naming>()
 function namingFor(shadow: Shadow): Naming {
   const found = NAMING.get(shadow)
   if (found !== undefined) return found
-  const made = namingOver(pagePathsFor(shadow.index), shadow.index.pageTypesIn())
+  const made = namingOver(shadow.listed(), shadow.index.pageTypesIn())
   NAMING.set(shadow, made)
   return made
 }

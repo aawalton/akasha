@@ -42,6 +42,8 @@ const LISTS_LOOSE = `export const held = readdirSync("${LOOSE}")\n`
 
 const ASKS = "export const held = 1\n"
 
+const SPELLS_A_TAIL = 'const SUFFIX = ".thing.code.ts"\nexport const held = readdirSync(dir)\n'
+
 function rooted(): string {
   const root = staged({
     [TYPE_AT]: ASKS,
@@ -74,6 +76,10 @@ test("a folder the checkout holds that the index answers no path under is listed
   const said = judged({ [CODE_AT]: LISTS_LOOSE })
   expect(said.map((one) => one.path)).toEqual([CODE_AT])
   expect(said[0]?.reason).toContain(LOOSE)
+})
+
+test("a page file's name spelled where the file lists a folder is refused", () => {
+  expect(judged({ [CODE_AT]: SPELLS_A_TAIL })).toHaveLength(1)
 })
 
 test("a page's path spelled is refused where the path of a page's file is not", () => {
