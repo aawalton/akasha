@@ -6,7 +6,7 @@ export const inchworm = {
   slug: "inchworm",
   title: "Inchworm",
   exerciseCategory: "stretching",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Inchworm",
   exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Inchworm",
   gripDemand: "none",

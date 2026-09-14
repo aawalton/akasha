@@ -6,7 +6,7 @@ export const backwardMedicineBallThrow = {
   slug: "backward-medicine-ball-throw",
   title: "Backward Medicine Ball Throw",
   exerciseCategory: "plyometrics",
-  equipment: "medicine-ball",
+  equipment: "strength-exercise-implement/medicine-ball",
   exerciseExternalId: "Backward_Medicine_Ball_Throw",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Backward_Medicine_Ball_Throw",

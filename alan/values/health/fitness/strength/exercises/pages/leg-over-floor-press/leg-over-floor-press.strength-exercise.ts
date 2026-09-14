@@ -6,7 +6,7 @@ export const legOverFloorPress = {
   slug: "leg-over-floor-press",
   title: "Leg-Over Floor Press",
   exerciseCategory: "strength",
-  equipment: "kettlebells",
+  equipment: "strength-exercise-implement/kettlebells",
   exerciseExternalId: "Leg-Over_Floor_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Leg-Over_Floor_Press",

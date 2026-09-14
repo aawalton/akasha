@@ -6,7 +6,7 @@ export const russianTwist = {
   slug: "russian-twist",
   title: "Russian Twist",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Russian_Twist",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Russian_Twist",

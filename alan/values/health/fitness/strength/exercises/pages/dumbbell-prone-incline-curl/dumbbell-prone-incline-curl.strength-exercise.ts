@@ -6,7 +6,7 @@ export const dumbbellProneInclineCurl = {
   slug: "dumbbell-prone-incline-curl",
   title: "Dumbbell Prone Incline Curl",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Dumbbell_Prone_Incline_Curl",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dumbbell_Prone_Incline_Curl",

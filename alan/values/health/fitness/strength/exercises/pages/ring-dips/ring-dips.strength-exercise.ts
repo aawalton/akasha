@@ -6,7 +6,7 @@ export const ringDips = {
   slug: "ring-dips",
   title: "Ring Dips",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Ring_Dips",
   exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Ring_Dips",
   force: "push",

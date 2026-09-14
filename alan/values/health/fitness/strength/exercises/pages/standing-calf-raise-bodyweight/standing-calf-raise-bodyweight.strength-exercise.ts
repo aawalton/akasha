@@ -6,7 +6,7 @@ export const standingCalfRaiseBodyweight = {
   slug: "standing-calf-raise-bodyweight",
   title: "Standing Calf Raise (Bodyweight)",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   force: "push",
   gripDemand: "none",
   implementCount: 1,

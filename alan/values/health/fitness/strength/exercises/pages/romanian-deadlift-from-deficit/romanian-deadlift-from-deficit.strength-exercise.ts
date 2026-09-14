@@ -6,7 +6,7 @@ export const romanianDeadliftFromDeficit = {
   slug: "romanian-deadlift-from-deficit",
   title: "Romanian Deadlift from Deficit",
   exerciseCategory: "olympic-weightlifting",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Romanian_Deadlift_from_Deficit",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Romanian_Deadlift_from_Deficit",

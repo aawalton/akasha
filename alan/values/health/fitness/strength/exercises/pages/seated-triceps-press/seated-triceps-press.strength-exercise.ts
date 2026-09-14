@@ -6,7 +6,7 @@ export const seatedTricepsPress = {
   slug: "seated-triceps-press",
   title: "Seated Triceps Press",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Seated_Triceps_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_Triceps_Press",

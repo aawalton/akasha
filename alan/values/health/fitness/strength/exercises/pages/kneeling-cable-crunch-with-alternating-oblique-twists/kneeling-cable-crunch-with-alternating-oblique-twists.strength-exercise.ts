@@ -6,7 +6,7 @@ export const kneelingCableCrunchWithAlternatingObliqueTwists = {
   slug: "kneeling-cable-crunch-with-alternating-oblique-twists",
   title: "Kneeling Cable Crunch With Alternating Oblique Twists",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists",

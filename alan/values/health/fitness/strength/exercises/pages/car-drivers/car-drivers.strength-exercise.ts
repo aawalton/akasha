@@ -6,7 +6,7 @@ export const carDrivers = {
   slug: "car-drivers",
   title: "Car Drivers",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Car_Drivers",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Car_Drivers",

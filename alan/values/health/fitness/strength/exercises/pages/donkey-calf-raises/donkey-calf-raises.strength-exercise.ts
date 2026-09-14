@@ -6,7 +6,7 @@ export const donkeyCalfRaises = {
   slug: "donkey-calf-raises",
   title: "Donkey Calf Raises",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Donkey_Calf_Raises",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Donkey_Calf_Raises",

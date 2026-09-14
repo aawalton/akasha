@@ -6,7 +6,7 @@ export const seatedDumbbellInnerBicepsCurl = {
   slug: "seated-dumbbell-inner-biceps-curl",
   title: "Seated Dumbbell Inner Biceps Curl",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Seated_Dumbbell_Inner_Biceps_Curl",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_Dumbbell_Inner_Biceps_Curl",

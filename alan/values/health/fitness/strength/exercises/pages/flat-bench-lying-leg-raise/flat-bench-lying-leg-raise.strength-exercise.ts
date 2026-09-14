@@ -6,7 +6,7 @@ export const flatBenchLyingLegRaise = {
   slug: "flat-bench-lying-leg-raise",
   title: "Flat Bench Lying Leg Raise",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Flat_Bench_Lying_Leg_Raise",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Flat_Bench_Lying_Leg_Raise",

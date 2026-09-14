@@ -6,7 +6,7 @@ export const machineShoulderMilitaryPress = {
   slug: "machine-shoulder-military-press",
   title: "Machine Shoulder (Military) Press",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Machine_Shoulder_Military_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Machine_Shoulder_Military_Press",

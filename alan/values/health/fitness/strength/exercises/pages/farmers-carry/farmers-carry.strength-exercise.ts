@@ -6,7 +6,7 @@ export const farmersCarry = {
   slug: "farmers-carry",
   title: "Farmer's Carry",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   force: "static",
   gripDemand: "high",
   implementCount: 2,

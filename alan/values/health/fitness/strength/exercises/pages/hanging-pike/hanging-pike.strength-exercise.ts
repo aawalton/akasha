@@ -6,7 +6,7 @@ export const hangingPike = {
   slug: "hanging-pike",
   title: "Hanging Pike",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Hanging_Pike",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Hanging_Pike",

@@ -6,7 +6,7 @@ export const jmPress = {
   slug: "jm-press",
   title: "JM Press",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "JM_Press",
   exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/JM_Press",
   force: "push",

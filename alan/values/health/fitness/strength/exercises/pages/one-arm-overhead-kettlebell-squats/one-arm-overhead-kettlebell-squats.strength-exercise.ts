@@ -6,7 +6,7 @@ export const oneArmOverheadKettlebellSquats = {
   slug: "one-arm-overhead-kettlebell-squats",
   title: "One-Arm Overhead Kettlebell Squats",
   exerciseCategory: "strength",
-  equipment: "kettlebells",
+  equipment: "strength-exercise-implement/kettlebells",
   exerciseExternalId: "One-Arm_Overhead_Kettlebell_Squats",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/One-Arm_Overhead_Kettlebell_Squats",

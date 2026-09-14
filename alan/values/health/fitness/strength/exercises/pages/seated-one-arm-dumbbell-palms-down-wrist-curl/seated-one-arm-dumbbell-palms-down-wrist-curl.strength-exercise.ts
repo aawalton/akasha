@@ -6,7 +6,7 @@ export const seatedOneArmDumbbellPalmsDownWristCurl = {
   slug: "seated-one-arm-dumbbell-palms-down-wrist-curl",
   title: "Seated One-Arm Dumbbell Palms-Down Wrist Curl",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl",

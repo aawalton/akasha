@@ -6,7 +6,7 @@ export const kneeHipRaiseOnParallelBars = {
   slug: "knee-hip-raise-on-parallel-bars",
   title: "Knee/Hip Raise On Parallel Bars",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Knee_Hip_Raise_On_Parallel_Bars",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Knee_Hip_Raise_On_Parallel_Bars",

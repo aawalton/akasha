@@ -6,7 +6,7 @@ export const seatedBiceps = {
   slug: "seated-biceps",
   title: "Seated Biceps",
   exerciseCategory: "stretching",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Seated_Biceps",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_Biceps",

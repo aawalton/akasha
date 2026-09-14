@@ -6,7 +6,7 @@ export const fullRangeOfMotionLatPulldown = {
   slug: "full-range-of-motion-lat-pulldown",
   title: "Full Range-Of-Motion Lat Pulldown",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Full_Range-Of-Motion_Lat_Pulldown",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Full_Range-Of-Motion_Lat_Pulldown",

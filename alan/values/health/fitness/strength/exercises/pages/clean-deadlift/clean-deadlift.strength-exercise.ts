@@ -6,7 +6,7 @@ export const cleanDeadlift = {
   slug: "clean-deadlift",
   title: "Clean Deadlift",
   exerciseCategory: "olympic-weightlifting",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Clean_Deadlift",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Clean_Deadlift",

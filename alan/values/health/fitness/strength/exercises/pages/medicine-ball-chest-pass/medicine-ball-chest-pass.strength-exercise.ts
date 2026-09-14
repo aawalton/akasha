@@ -6,7 +6,7 @@ export const medicineBallChestPass = {
   slug: "medicine-ball-chest-pass",
   title: "Medicine Ball Chest Pass",
   exerciseCategory: "plyometrics",
-  equipment: "medicine-ball",
+  equipment: "strength-exercise-implement/medicine-ball",
   exerciseExternalId: "Medicine_Ball_Chest_Pass",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Medicine_Ball_Chest_Pass",

@@ -6,7 +6,7 @@ export const smithMachineOverheadShoulderPress = {
   slug: "smith-machine-overhead-shoulder-press",
   title: "Smith Machine Overhead Shoulder Press",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Smith_Machine_Overhead_Shoulder_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Smith_Machine_Overhead_Shoulder_Press",

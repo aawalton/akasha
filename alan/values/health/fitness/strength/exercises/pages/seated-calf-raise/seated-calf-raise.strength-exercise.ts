@@ -6,7 +6,7 @@ export const seatedCalfRaise = {
   slug: "seated-calf-raise",
   title: "Seated Calf Raise",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Seated_Calf_Raise",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_Calf_Raise",

@@ -6,7 +6,7 @@ export const lyingCloseGripBarbellTricepsExtensionBehindTheHead = {
   slug: "lying-close-grip-barbell-triceps-extension-behind-the-head",
   title: "Lying Close-Grip Barbell Triceps Extension Behind The Head",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head",

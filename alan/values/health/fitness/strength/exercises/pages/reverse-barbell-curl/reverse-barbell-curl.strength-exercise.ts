@@ -6,7 +6,7 @@ export const reverseBarbellCurl = {
   slug: "reverse-barbell-curl",
   title: "Reverse Barbell Curl",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Reverse_Barbell_Curl",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Reverse_Barbell_Curl",

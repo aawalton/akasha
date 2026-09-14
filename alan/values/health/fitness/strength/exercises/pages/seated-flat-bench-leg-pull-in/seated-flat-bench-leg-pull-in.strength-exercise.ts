@@ -6,7 +6,7 @@ export const seatedFlatBenchLegPullIn = {
   slug: "seated-flat-bench-leg-pull-in",
   title: "Seated Flat Bench Leg Pull-In",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Seated_Flat_Bench_Leg_Pull-In",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_Flat_Bench_Leg_Pull-In",

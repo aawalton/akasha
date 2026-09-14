@@ -6,7 +6,7 @@ export const backFlyesWithBands = {
   slug: "back-flyes-with-bands",
   title: "Back Flyes - With Bands",
   exerciseCategory: "strength",
-  equipment: "bands",
+  equipment: "strength-exercise-implement/bands",
   exerciseExternalId: "Back_Flyes_-_With_Bands",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Back_Flyes_-_With_Bands",

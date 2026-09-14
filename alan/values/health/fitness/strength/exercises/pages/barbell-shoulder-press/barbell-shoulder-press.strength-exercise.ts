@@ -6,7 +6,7 @@ export const barbellShoulderPress = {
   slug: "barbell-shoulder-press",
   title: "Barbell Shoulder Press",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Barbell_Shoulder_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Barbell_Shoulder_Press",

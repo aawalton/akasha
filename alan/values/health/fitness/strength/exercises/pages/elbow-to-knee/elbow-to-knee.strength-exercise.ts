@@ -6,7 +6,7 @@ export const elbowToKnee = {
   slug: "elbow-to-knee",
   title: "Elbow to Knee",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Elbow_to_Knee",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Elbow_to_Knee",

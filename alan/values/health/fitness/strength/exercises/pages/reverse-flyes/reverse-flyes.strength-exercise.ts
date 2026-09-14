@@ -6,7 +6,7 @@ export const reverseFlyes = {
   slug: "reverse-flyes",
   title: "Reverse Flyes",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Reverse_Flyes",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Reverse_Flyes",

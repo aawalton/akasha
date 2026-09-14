@@ -6,7 +6,7 @@ export const oneArmFloorPress = {
   slug: "one-arm-floor-press",
   title: "One Arm Floor Press",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "One_Arm_Floor_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/One_Arm_Floor_Press",

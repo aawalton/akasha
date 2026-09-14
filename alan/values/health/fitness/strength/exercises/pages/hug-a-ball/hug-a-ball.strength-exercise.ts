@@ -6,7 +6,7 @@ export const hugABall = {
   slug: "hug-a-ball",
   title: "Hug A Ball",
   exerciseCategory: "stretching",
-  equipment: "exercise-ball",
+  equipment: "strength-exercise-implement/exercise-ball",
   exerciseExternalId: "Hug_A_Ball",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Hug_A_Ball",

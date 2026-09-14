@@ -6,7 +6,7 @@ export const bentOverTwoDumbbellRow = {
   slug: "bent-over-two-dumbbell-row",
   title: "Bent Over Two-Dumbbell Row",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Bent_Over_Two-Dumbbell_Row",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Bent_Over_Two-Dumbbell_Row",

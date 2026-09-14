@@ -6,7 +6,7 @@ export const barbellSideSplitSquat = {
   slug: "barbell-side-split-squat",
   title: "Barbell Side Split Squat",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Barbell_Side_Split_Squat",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Barbell_Side_Split_Squat",

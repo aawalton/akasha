@@ -6,7 +6,7 @@ export const neckPress = {
   slug: "neck-press",
   title: "Neck Press",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Neck_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Neck_Press",

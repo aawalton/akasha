@@ -6,7 +6,7 @@ export const adductor = {
   slug: "adductor",
   title: "Adductor",
   exerciseCategory: "stretching",
-  equipment: "foam-roll",
+  equipment: "strength-exercise-implement/foam-roll",
   exerciseExternalId: "Adductor",
   exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Adductor",
   force: "static",

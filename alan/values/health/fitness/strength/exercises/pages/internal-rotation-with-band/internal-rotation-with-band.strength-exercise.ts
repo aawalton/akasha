@@ -6,7 +6,7 @@ export const internalRotationWithBand = {
   slug: "internal-rotation-with-band",
   title: "Internal Rotation with Band",
   exerciseCategory: "strength",
-  equipment: "bands",
+  equipment: "strength-exercise-implement/bands",
   exerciseExternalId: "Internal_Rotation_with_Band",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Internal_Rotation_with_Band",

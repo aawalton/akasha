@@ -6,7 +6,7 @@ export const pushPress = {
   slug: "push-press",
   title: "Push Press",
   exerciseCategory: "olympic-weightlifting",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Push_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Push_Press",

@@ -6,7 +6,7 @@ export const pallofPress = {
   slug: "pallof-press",
   title: "Pallof Press",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Pallof_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Pallof_Press",

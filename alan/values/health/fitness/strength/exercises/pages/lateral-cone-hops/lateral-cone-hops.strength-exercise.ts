@@ -6,7 +6,7 @@ export const lateralConeHops = {
   slug: "lateral-cone-hops",
   title: "Lateral Cone Hops",
   exerciseCategory: "plyometrics",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Lateral_Cone_Hops",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lateral_Cone_Hops",

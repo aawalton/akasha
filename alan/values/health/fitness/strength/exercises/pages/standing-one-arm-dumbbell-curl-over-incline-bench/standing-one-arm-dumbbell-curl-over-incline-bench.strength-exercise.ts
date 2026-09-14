@@ -6,7 +6,7 @@ export const standingOneArmDumbbellCurlOverInclineBench = {
   slug: "standing-one-arm-dumbbell-curl-over-incline-bench",
   title: "Standing One-Arm Dumbbell Curl Over Incline Bench",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench",

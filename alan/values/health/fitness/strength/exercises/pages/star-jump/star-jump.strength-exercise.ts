@@ -6,7 +6,7 @@ export const starJump = {
   slug: "star-jump",
   title: "Star Jump",
   exerciseCategory: "plyometrics",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Star_Jump",
   exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Star_Jump",
   force: "push",

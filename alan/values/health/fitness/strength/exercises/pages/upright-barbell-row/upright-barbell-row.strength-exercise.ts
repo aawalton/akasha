@@ -6,7 +6,7 @@ export const uprightBarbellRow = {
   slug: "upright-barbell-row",
   title: "Upright Barbell Row",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Upright_Barbell_Row",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Upright_Barbell_Row",

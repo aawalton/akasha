@@ -6,7 +6,7 @@ export const palmsDownDumbbellWristCurlOverABench = {
   slug: "palms-down-dumbbell-wrist-curl-over-a-bench",
   title: "Palms-Down Dumbbell Wrist Curl Over A Bench",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Palms-Down_Dumbbell_Wrist_Curl_Over_A_Bench",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Palms-Down_Dumbbell_Wrist_Curl_Over_A_Bench",

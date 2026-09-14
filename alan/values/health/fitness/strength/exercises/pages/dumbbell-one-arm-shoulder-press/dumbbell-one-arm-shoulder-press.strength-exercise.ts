@@ -6,7 +6,7 @@ export const dumbbellOneArmShoulderPress = {
   slug: "dumbbell-one-arm-shoulder-press",
   title: "Dumbbell One-Arm Shoulder Press",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Dumbbell_One-Arm_Shoulder_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dumbbell_One-Arm_Shoulder_Press",

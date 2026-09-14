@@ -6,7 +6,7 @@ export const seatedGlute = {
   slug: "seated-glute",
   title: "Seated Glute",
   exerciseCategory: "stretching",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Seated_Glute",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_Glute",

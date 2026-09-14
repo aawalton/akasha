@@ -6,7 +6,7 @@ export const lungeSprint = {
   slug: "lunge-sprint",
   title: "Lunge Sprint",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Lunge_Sprint",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lunge_Sprint",

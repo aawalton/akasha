@@ -6,7 +6,7 @@ export const posteriorTibialisStretch = {
   slug: "posterior-tibialis-stretch",
   title: "Posterior Tibialis Stretch",
   exerciseCategory: "stretching",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Posterior_Tibialis_Stretch",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Posterior_Tibialis_Stretch",

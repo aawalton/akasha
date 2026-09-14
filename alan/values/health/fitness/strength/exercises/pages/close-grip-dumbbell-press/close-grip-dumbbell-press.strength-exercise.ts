@@ -6,7 +6,7 @@ export const closeGripDumbbellPress = {
   slug: "close-grip-dumbbell-press",
   title: "Close-Grip Dumbbell Press",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Close-Grip_Dumbbell_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Close-Grip_Dumbbell_Press",

@@ -6,7 +6,7 @@ export const tricepDumbbellKickback = {
   slug: "tricep-dumbbell-kickback",
   title: "Tricep Dumbbell Kickback",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Tricep_Dumbbell_Kickback",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Tricep_Dumbbell_Kickback",

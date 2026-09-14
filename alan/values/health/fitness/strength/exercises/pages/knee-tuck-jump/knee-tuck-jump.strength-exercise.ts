@@ -6,7 +6,7 @@ export const kneeTuckJump = {
   slug: "knee-tuck-jump",
   title: "Knee Tuck Jump",
   exerciseCategory: "plyometrics",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Knee_Tuck_Jump",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Knee_Tuck_Jump",

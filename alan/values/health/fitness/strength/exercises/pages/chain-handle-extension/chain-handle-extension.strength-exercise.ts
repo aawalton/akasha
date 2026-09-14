@@ -6,7 +6,7 @@ export const chainHandleExtension = {
   slug: "chain-handle-extension",
   title: "Chain Handle Extension",
   exerciseCategory: "powerlifting",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Chain_Handle_Extension",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Chain_Handle_Extension",

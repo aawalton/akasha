@@ -6,7 +6,7 @@ export const ropeStraightArmPulldown = {
   slug: "rope-straight-arm-pulldown",
   title: "Rope Straight-Arm Pulldown",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Rope_Straight-Arm_Pulldown",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Rope_Straight-Arm_Pulldown",

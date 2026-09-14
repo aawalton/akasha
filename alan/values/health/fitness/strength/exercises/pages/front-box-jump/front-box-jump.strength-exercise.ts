@@ -6,7 +6,7 @@ export const frontBoxJump = {
   slug: "front-box-jump",
   title: "Front Box Jump",
   exerciseCategory: "plyometrics",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Front_Box_Jump",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Front_Box_Jump",

@@ -6,7 +6,7 @@ export const jandaSitUp = {
   slug: "janda-sit-up",
   title: "Janda Sit-Up",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Janda_Sit-Up",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Janda_Sit-Up",

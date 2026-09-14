@@ -6,7 +6,7 @@ export const wideGripStandingBarbellCurl = {
   slug: "wide-grip-standing-barbell-curl",
   title: "Wide-Grip Standing Barbell Curl",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Wide-Grip_Standing_Barbell_Curl",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Wide-Grip_Standing_Barbell_Curl",

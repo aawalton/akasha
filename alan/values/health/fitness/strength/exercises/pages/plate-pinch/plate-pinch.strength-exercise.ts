@@ -6,7 +6,7 @@ export const platePinch = {
   slug: "plate-pinch",
   title: "Plate Pinch",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Plate_Pinch",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Plate_Pinch",

@@ -6,7 +6,7 @@ export const snatch = {
   slug: "snatch",
   title: "Snatch",
   exerciseCategory: "olympic-weightlifting",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Snatch",
   exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Snatch",
   force: "pull",

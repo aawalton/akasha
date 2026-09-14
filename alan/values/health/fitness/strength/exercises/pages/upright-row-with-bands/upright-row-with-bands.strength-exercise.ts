@@ -6,7 +6,7 @@ export const uprightRowWithBands = {
   slug: "upright-row-with-bands",
   title: "Upright Row - With Bands",
   exerciseCategory: "strength",
-  equipment: "bands",
+  equipment: "strength-exercise-implement/bands",
   exerciseExternalId: "Upright_Row_-_With_Bands",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Upright_Row_-_With_Bands",

@@ -6,7 +6,7 @@ export const splitClean = {
   slug: "split-clean",
   title: "Split Clean",
   exerciseCategory: "olympic-weightlifting",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Split_Clean",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Split_Clean",

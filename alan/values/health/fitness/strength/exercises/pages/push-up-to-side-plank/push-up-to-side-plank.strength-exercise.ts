@@ -6,7 +6,7 @@ export const pushUpToSidePlank = {
   slug: "push-up-to-side-plank",
   title: "Push Up to Side Plank",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Push_Up_to_Side_Plank",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Push_Up_to_Side_Plank",

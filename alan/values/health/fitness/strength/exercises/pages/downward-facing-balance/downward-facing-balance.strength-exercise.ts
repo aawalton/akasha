@@ -6,7 +6,7 @@ export const downwardFacingBalance = {
   slug: "downward-facing-balance",
   title: "Downward Facing Balance",
   exerciseCategory: "strength",
-  equipment: "exercise-ball",
+  equipment: "strength-exercise-implement/exercise-ball",
   exerciseExternalId: "Downward_Facing_Balance",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Downward_Facing_Balance",

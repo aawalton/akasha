@@ -6,7 +6,7 @@ export const cableHammerCurlsRopeAttachment = {
   slug: "cable-hammer-curls-rope-attachment",
   title: "Cable Hammer Curls - Rope Attachment",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Cable_Hammer_Curls_-_Rope_Attachment",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Cable_Hammer_Curls_-_Rope_Attachment",

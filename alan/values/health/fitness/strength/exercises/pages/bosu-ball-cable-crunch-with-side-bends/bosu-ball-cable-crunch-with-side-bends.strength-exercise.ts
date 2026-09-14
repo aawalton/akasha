@@ -6,7 +6,7 @@ export const bosuBallCableCrunchWithSideBends = {
   slug: "bosu-ball-cable-crunch-with-side-bends",
   title: "Bosu Ball Cable Crunch With Side Bends",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Bosu_Ball_Cable_Crunch_With_Side_Bends",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Bosu_Ball_Cable_Crunch_With_Side_Bends",

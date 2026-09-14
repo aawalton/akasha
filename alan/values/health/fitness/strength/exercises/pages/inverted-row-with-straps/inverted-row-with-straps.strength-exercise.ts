@@ -6,7 +6,7 @@ export const invertedRowWithStraps = {
   slug: "inverted-row-with-straps",
   title: "Inverted Row with Straps",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Inverted_Row_with_Straps",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Inverted_Row_with_Straps",

@@ -6,7 +6,7 @@ export const weightedBallHyperextension = {
   slug: "weighted-ball-hyperextension",
   title: "Weighted Ball Hyperextension",
   exerciseCategory: "strength",
-  equipment: "exercise-ball",
+  equipment: "strength-exercise-implement/exercise-ball",
   exerciseExternalId: "Weighted_Ball_Hyperextension",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Weighted_Ball_Hyperextension",

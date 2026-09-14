@@ -6,7 +6,7 @@ export const bodyweightReverseLunge = {
   slug: "bodyweight-reverse-lunge",
   title: "Bodyweight Reverse Lunge",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   force: "push",
   gripDemand: "none",
   implementCount: 1,

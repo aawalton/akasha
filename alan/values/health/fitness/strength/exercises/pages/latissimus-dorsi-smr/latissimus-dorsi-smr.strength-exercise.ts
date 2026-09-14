@@ -6,7 +6,7 @@ export const latissimusDorsiSmr = {
   slug: "latissimus-dorsi-smr",
   title: "Latissimus Dorsi-SMR",
   exerciseCategory: "stretching",
-  equipment: "foam-roll",
+  equipment: "strength-exercise-implement/foam-roll",
   exerciseExternalId: "Latissimus_Dorsi-SMR",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Latissimus_Dorsi-SMR",

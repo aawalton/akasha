@@ -6,7 +6,7 @@ export const chestAndFrontOfShoulderStretch = {
   slug: "chest-and-front-of-shoulder-stretch",
   title: "Chest And Front Of Shoulder Stretch",
   exerciseCategory: "stretching",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Chest_And_Front_Of_Shoulder_Stretch",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Chest_And_Front_Of_Shoulder_Stretch",

@@ -6,7 +6,7 @@ export const ropeJumping = {
   slug: "rope-jumping",
   title: "Rope Jumping",
   exerciseCategory: "cardio",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Rope_Jumping",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Rope_Jumping",

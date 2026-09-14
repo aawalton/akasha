@@ -6,7 +6,7 @@ export const oneArmKettlebellMilitaryPressToTheSide = {
   slug: "one-arm-kettlebell-military-press-to-the-side",
   title: "One-Arm Kettlebell Military Press To The Side",
   exerciseCategory: "strength",
-  equipment: "kettlebells",
+  equipment: "strength-exercise-implement/kettlebells",
   exerciseExternalId: "One-Arm_Kettlebell_Military_Press_To_The_Side",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/One-Arm_Kettlebell_Military_Press_To_The_Side",

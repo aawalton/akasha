@@ -6,7 +6,7 @@ export const verticalSwing = {
   slug: "vertical-swing",
   title: "Vertical Swing",
   exerciseCategory: "plyometrics",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Vertical_Swing",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Vertical_Swing",

@@ -6,7 +6,7 @@ export const tBarRowWithHandle = {
   slug: "t-bar-row-with-handle",
   title: "T-Bar Row with Handle",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "T-Bar_Row_with_Handle",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/T-Bar_Row_with_Handle",

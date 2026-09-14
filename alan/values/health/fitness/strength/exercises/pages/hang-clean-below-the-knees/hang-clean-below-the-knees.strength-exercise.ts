@@ -6,7 +6,7 @@ export const hangCleanBelowTheKnees = {
   slug: "hang-clean-below-the-knees",
   title: "Hang Clean - Below the Knees",
   exerciseCategory: "olympic-weightlifting",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Hang_Clean_-_Below_the_Knees",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Hang_Clean_-_Below_the_Knees",

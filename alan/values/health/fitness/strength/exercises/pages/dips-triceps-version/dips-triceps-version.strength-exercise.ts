@@ -6,7 +6,7 @@ export const dipsTricepsVersion = {
   slug: "dips-triceps-version",
   title: "Dips - Triceps Version",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Dips_-_Triceps_Version",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dips_-_Triceps_Version",

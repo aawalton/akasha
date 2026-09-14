@@ -6,7 +6,7 @@ export const hipFlexionWithBand = {
   slug: "hip-flexion-with-band",
   title: "Hip Flexion with Band",
   exerciseCategory: "strength",
-  equipment: "bands",
+  equipment: "strength-exercise-implement/bands",
   exerciseExternalId: "Hip_Flexion_with_Band",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Hip_Flexion_with_Band",

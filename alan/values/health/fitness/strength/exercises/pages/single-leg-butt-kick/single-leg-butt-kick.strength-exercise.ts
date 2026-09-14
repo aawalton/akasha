@@ -6,7 +6,7 @@ export const singleLegButtKick = {
   slug: "single-leg-butt-kick",
   title: "Single Leg Butt Kick",
   exerciseCategory: "plyometrics",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Single_Leg_Butt_Kick",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Single_Leg_Butt_Kick",

@@ -6,7 +6,7 @@ export const highKnees = {
   slug: "high-knees",
   title: "High Knees",
   exerciseCategory: "cardio",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   force: "push",
   gripDemand: "none",
   implementCount: 1,

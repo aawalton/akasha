@@ -6,7 +6,7 @@ export const calvesSmr = {
   slug: "calves-smr",
   title: "Calves-SMR",
   exerciseCategory: "stretching",
-  equipment: "foam-roll",
+  equipment: "strength-exercise-implement/foam-roll",
   exerciseExternalId: "Calves-SMR",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Calves-SMR",

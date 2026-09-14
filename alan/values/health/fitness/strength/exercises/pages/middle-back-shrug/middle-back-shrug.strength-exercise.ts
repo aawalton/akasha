@@ -6,7 +6,7 @@ export const middleBackShrug = {
   slug: "middle-back-shrug",
   title: "Middle Back Shrug",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Middle_Back_Shrug",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Middle_Back_Shrug",

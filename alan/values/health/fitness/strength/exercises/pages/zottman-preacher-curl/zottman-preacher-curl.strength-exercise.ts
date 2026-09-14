@@ -6,7 +6,7 @@ export const zottmanPreacherCurl = {
   slug: "zottman-preacher-curl",
   title: "Zottman Preacher Curl",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Zottman_Preacher_Curl",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Zottman_Preacher_Curl",

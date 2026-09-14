@@ -6,7 +6,7 @@ export const exercise9090Hamstring = {
   slug: "exercise-90-90-hamstring",
   title: "90/90 Hamstring",
   exerciseCategory: "stretching",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "90_90_Hamstring",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/90_90_Hamstring",

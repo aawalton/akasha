@@ -6,7 +6,7 @@ export const kettlebellFigure8 = {
   slug: "kettlebell-figure-8",
   title: "Kettlebell Figure 8",
   exerciseCategory: "strength",
-  equipment: "kettlebells",
+  equipment: "strength-exercise-implement/kettlebells",
   exerciseExternalId: "Kettlebell_Figure_8",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Kettlebell_Figure_8",

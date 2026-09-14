@@ -6,7 +6,7 @@ export const smithMachineCloseGripBenchPress = {
   slug: "smith-machine-close-grip-bench-press",
   title: "Smith Machine Close-Grip Bench Press",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Smith_Machine_Close-Grip_Bench_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Smith_Machine_Close-Grip_Bench_Press",

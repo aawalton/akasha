@@ -6,7 +6,7 @@ export const sideToSideBoxShuffle = {
   slug: "side-to-side-box-shuffle",
   title: "Side to Side Box Shuffle",
   exerciseCategory: "plyometrics",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Side_to_Side_Box_Shuffle",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Side_to_Side_Box_Shuffle",

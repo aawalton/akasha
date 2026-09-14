@@ -6,7 +6,7 @@ export const ellipticalTrainer = {
   slug: "elliptical-trainer",
   title: "Elliptical Trainer",
   exerciseCategory: "cardio",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Elliptical_Trainer",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Elliptical_Trainer",

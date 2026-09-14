@@ -6,7 +6,7 @@ export const shoulderPressWithBands = {
   slug: "shoulder-press-with-bands",
   title: "Shoulder Press - With Bands",
   exerciseCategory: "strength",
-  equipment: "bands",
+  equipment: "strength-exercise-implement/bands",
   exerciseExternalId: "Shoulder_Press_-_With_Bands",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Shoulder_Press_-_With_Bands",

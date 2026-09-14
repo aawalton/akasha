@@ -6,7 +6,7 @@ export const toeTouchers = {
   slug: "toe-touchers",
   title: "Toe Touchers",
   exerciseCategory: "stretching",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Toe_Touchers",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Toe_Touchers",

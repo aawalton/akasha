@@ -6,7 +6,7 @@ export const singleArmLinearJammer = {
   slug: "single-arm-linear-jammer",
   title: "Single-Arm Linear Jammer",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Single-Arm_Linear_Jammer",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Single-Arm_Linear_Jammer",

@@ -6,7 +6,7 @@ export const lyingOneArmLateralRaise = {
   slug: "lying-one-arm-lateral-raise",
   title: "Lying One-Arm Lateral Raise",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Lying_One-Arm_Lateral_Raise",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lying_One-Arm_Lateral_Raise",

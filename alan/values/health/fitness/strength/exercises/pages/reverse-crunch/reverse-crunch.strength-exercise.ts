@@ -6,7 +6,7 @@ export const reverseCrunch = {
   slug: "reverse-crunch",
   title: "Reverse Crunch",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Reverse_Crunch",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Reverse_Crunch",

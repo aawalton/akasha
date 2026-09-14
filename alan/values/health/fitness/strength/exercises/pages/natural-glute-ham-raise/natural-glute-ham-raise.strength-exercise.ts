@@ -6,7 +6,7 @@ export const naturalGluteHamRaise = {
   slug: "natural-glute-ham-raise",
   title: "Natural Glute Ham Raise",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Natural_Glute_Ham_Raise",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Natural_Glute_Ham_Raise",

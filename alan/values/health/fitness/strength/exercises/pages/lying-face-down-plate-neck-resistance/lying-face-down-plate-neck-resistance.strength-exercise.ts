@@ -6,7 +6,7 @@ export const lyingFaceDownPlateNeckResistance = {
   slug: "lying-face-down-plate-neck-resistance",
   title: "Lying Face Down Plate Neck Resistance",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Lying_Face_Down_Plate_Neck_Resistance",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lying_Face_Down_Plate_Neck_Resistance",

@@ -6,7 +6,7 @@ export const hangSnatchBelowKnees = {
   slug: "hang-snatch-below-knees",
   title: "Hang Snatch - Below Knees",
   exerciseCategory: "olympic-weightlifting",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Hang_Snatch_-_Below_Knees",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Hang_Snatch_-_Below_Knees",

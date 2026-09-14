@@ -6,7 +6,7 @@ export const standingHipCircles = {
   slug: "standing-hip-circles",
   title: "Standing Hip Circles",
   exerciseCategory: "stretching",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Standing_Hip_Circles",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Hip_Circles",

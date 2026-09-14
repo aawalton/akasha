@@ -6,7 +6,7 @@ export const trapBarDeadlift = {
   slug: "trap-bar-deadlift",
   title: "Trap Bar Deadlift",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Trap_Bar_Deadlift",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Trap_Bar_Deadlift",

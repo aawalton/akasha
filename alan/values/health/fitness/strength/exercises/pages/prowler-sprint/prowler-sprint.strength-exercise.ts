@@ -6,7 +6,7 @@ export const prowlerSprint = {
   slug: "prowler-sprint",
   title: "Prowler Sprint",
   exerciseCategory: "cardio",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Prowler_Sprint",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Prowler_Sprint",

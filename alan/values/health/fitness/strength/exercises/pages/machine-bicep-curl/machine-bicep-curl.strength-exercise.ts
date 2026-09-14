@@ -6,7 +6,7 @@ export const machineBicepCurl = {
   slug: "machine-bicep-curl",
   title: "Machine Bicep Curl",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Machine_Bicep_Curl",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Machine_Bicep_Curl",

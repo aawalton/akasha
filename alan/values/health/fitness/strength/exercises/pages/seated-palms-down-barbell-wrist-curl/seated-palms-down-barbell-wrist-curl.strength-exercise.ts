@@ -6,7 +6,7 @@ export const seatedPalmsDownBarbellWristCurl = {
   slug: "seated-palms-down-barbell-wrist-curl",
   title: "Seated Palms-Down Barbell Wrist Curl",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Seated_Palms-Down_Barbell_Wrist_Curl",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_Palms-Down_Barbell_Wrist_Curl",

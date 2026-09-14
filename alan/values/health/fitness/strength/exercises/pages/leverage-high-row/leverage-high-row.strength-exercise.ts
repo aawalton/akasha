@@ -6,7 +6,7 @@ export const leverageHighRow = {
   slug: "leverage-high-row",
   title: "Leverage High Row",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Leverage_High_Row",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Leverage_High_Row",

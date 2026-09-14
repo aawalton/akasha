@@ -6,7 +6,7 @@ export const rackDelivery = {
   slug: "rack-delivery",
   title: "Rack Delivery",
   exerciseCategory: "olympic-weightlifting",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Rack_Delivery",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Rack_Delivery",

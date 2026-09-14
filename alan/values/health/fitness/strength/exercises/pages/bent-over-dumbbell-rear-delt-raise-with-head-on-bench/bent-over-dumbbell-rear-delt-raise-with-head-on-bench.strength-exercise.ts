@@ -6,7 +6,7 @@ export const bentOverDumbbellRearDeltRaiseWithHeadOnBench = {
   slug: "bent-over-dumbbell-rear-delt-raise-with-head-on-bench",
   title: "Bent Over Dumbbell Rear Delt Raise With Head On Bench",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench",

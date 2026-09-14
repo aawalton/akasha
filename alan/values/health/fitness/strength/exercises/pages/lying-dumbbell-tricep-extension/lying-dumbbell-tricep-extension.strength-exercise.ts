@@ -6,7 +6,7 @@ export const lyingDumbbellTricepExtension = {
   slug: "lying-dumbbell-tricep-extension",
   title: "Lying Dumbbell Tricep Extension",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Lying_Dumbbell_Tricep_Extension",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lying_Dumbbell_Tricep_Extension",

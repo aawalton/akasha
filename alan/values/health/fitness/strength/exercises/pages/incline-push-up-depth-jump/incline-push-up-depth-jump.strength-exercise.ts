@@ -6,7 +6,7 @@ export const inclinePushUpDepthJump = {
   slug: "incline-push-up-depth-jump",
   title: "Incline Push-Up Depth Jump",
   exerciseCategory: "plyometrics",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Incline_Push-Up_Depth_Jump",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Incline_Push-Up_Depth_Jump",

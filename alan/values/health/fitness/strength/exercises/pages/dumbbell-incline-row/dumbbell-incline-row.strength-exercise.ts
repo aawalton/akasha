@@ -6,7 +6,7 @@ export const dumbbellInclineRow = {
   slug: "dumbbell-incline-row",
   title: "Dumbbell Incline Row",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Dumbbell_Incline_Row",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dumbbell_Incline_Row",

@@ -6,7 +6,7 @@ export const splitSnatch = {
   slug: "split-snatch",
   title: "Split Snatch",
   exerciseCategory: "olympic-weightlifting",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Split_Snatch",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Split_Snatch",

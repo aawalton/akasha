@@ -6,7 +6,7 @@ export const advancedKettlebellWindmill = {
   slug: "advanced-kettlebell-windmill",
   title: "Advanced Kettlebell Windmill",
   exerciseCategory: "strength",
-  equipment: "kettlebells",
+  equipment: "strength-exercise-implement/kettlebells",
   exerciseExternalId: "Advanced_Kettlebell_Windmill",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Advanced_Kettlebell_Windmill",

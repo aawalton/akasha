@@ -6,7 +6,7 @@ export const plieDumbbellSquat = {
   slug: "plie-dumbbell-squat",
   title: "Plie Dumbbell Squat",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Plie_Dumbbell_Squat",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Plie_Dumbbell_Squat",

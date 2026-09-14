@@ -6,7 +6,7 @@ export const reverseBandBoxSquat = {
   slug: "reverse-band-box-squat",
   title: "Reverse Band Box Squat",
   exerciseCategory: "powerlifting",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Reverse_Band_Box_Squat",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Reverse_Band_Box_Squat",

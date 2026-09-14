@@ -6,7 +6,7 @@ export const stiffLegBarbellGoodMorning = {
   slug: "stiff-leg-barbell-good-morning",
   title: "Stiff Leg Barbell Good Morning",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Stiff_Leg_Barbell_Good_Morning",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Stiff_Leg_Barbell_Good_Morning",

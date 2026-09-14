@@ -6,7 +6,7 @@ export const barbellGluteBridge = {
   slug: "barbell-glute-bridge",
   title: "Barbell Glute Bridge",
   exerciseCategory: "powerlifting",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Barbell_Glute_Bridge",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Barbell_Glute_Bridge",

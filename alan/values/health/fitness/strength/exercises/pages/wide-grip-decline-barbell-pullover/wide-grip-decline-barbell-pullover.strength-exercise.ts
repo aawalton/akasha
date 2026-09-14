@@ -6,7 +6,7 @@ export const wideGripDeclineBarbellPullover = {
   slug: "wide-grip-decline-barbell-pullover",
   title: "Wide-Grip Decline Barbell Pullover",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Wide-Grip_Decline_Barbell_Pullover",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Wide-Grip_Decline_Barbell_Pullover",

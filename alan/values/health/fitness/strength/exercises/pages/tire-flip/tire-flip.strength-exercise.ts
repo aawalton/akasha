@@ -6,7 +6,7 @@ export const tireFlip = {
   slug: "tire-flip",
   title: "Tire Flip",
   exerciseCategory: "strongman",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Tire_Flip",
   exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Tire_Flip",
   force: "pull",

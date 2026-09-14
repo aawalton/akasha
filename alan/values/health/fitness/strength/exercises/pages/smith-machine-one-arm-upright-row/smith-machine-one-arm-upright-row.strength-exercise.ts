@@ -6,7 +6,7 @@ export const smithMachineOneArmUprightRow = {
   slug: "smith-machine-one-arm-upright-row",
   title: "Smith Machine One-Arm Upright Row",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Smith_Machine_One-Arm_Upright_Row",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Smith_Machine_One-Arm_Upright_Row",

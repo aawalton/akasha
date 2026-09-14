@@ -6,7 +6,7 @@ export const behindHeadChestStretch = {
   slug: "behind-head-chest-stretch",
   title: "Behind Head Chest Stretch",
   exerciseCategory: "stretching",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Behind_Head_Chest_Stretch",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Behind_Head_Chest_Stretch",

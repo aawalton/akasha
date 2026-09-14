@@ -6,7 +6,7 @@ export const wideStanceBarbellSquat = {
   slug: "wide-stance-barbell-squat",
   title: "Wide Stance Barbell Squat",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Wide_Stance_Barbell_Squat",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Wide_Stance_Barbell_Squat",

@@ -6,7 +6,7 @@ export const singleLegLateralHop = {
   slug: "single-leg-lateral-hop",
   title: "Single-Leg Lateral Hop",
   exerciseCategory: "plyometrics",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Single-Leg_Lateral_Hop",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Single-Leg_Lateral_Hop",

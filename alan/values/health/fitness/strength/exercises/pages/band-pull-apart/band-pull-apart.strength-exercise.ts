@@ -6,7 +6,7 @@ export const bandPullApart = {
   slug: "band-pull-apart",
   title: "Band Pull Apart",
   exerciseCategory: "strength",
-  equipment: "bands",
+  equipment: "strength-exercise-implement/bands",
   exerciseExternalId: "Band_Pull_Apart",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Band_Pull_Apart",

@@ -6,7 +6,7 @@ export const landmine180s = {
   slug: "landmine-180s",
   title: "Landmine 180's",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Landmine_180s",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Landmine_180s",

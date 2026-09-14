@@ -6,7 +6,7 @@ export const smithMachineHangPowerClean = {
   slug: "smith-machine-hang-power-clean",
   title: "Smith Machine Hang Power Clean",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Smith_Machine_Hang_Power_Clean",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Smith_Machine_Hang_Power_Clean",

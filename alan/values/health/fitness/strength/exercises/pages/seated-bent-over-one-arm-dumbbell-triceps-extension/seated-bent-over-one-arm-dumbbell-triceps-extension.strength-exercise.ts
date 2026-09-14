@@ -6,7 +6,7 @@ export const seatedBentOverOneArmDumbbellTricepsExtension = {
   slug: "seated-bent-over-one-arm-dumbbell-triceps-extension",
   title: "Seated Bent-Over One-Arm Dumbbell Triceps Extension",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension",

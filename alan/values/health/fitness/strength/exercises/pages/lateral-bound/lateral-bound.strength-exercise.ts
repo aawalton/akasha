@@ -6,7 +6,7 @@ export const lateralBound = {
   slug: "lateral-bound",
   title: "Lateral Bound",
   exerciseCategory: "plyometrics",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Lateral_Bound",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lateral_Bound",

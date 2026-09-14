@@ -6,7 +6,7 @@ export const wideStanceStiffLegs = {
   slug: "wide-stance-stiff-legs",
   title: "Wide Stance Stiff Legs",
   exerciseCategory: "olympic-weightlifting",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Wide_Stance_Stiff_Legs",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Wide_Stance_Stiff_Legs",

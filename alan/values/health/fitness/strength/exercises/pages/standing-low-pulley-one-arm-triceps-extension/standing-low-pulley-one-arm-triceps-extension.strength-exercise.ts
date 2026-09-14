@@ -6,7 +6,7 @@ export const standingLowPulleyOneArmTricepsExtension = {
   slug: "standing-low-pulley-one-arm-triceps-extension",
   title: "Standing Low-Pulley One-Arm Triceps Extension",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Standing_Low-Pulley_One-Arm_Triceps_Extension",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Low-Pulley_One-Arm_Triceps_Extension",

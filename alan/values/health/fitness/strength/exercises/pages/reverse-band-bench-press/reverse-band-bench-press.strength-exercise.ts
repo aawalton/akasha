@@ -6,7 +6,7 @@ export const reverseBandBenchPress = {
   slug: "reverse-band-bench-press",
   title: "Reverse Band Bench Press",
   exerciseCategory: "powerlifting",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Reverse_Band_Bench_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Reverse_Band_Bench_Press",

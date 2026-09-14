@@ -6,7 +6,7 @@ export const suspendedPushUp = {
   slug: "suspended-push-up",
   title: "Suspended Push-Up",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Suspended_Push-Up",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Suspended_Push-Up",

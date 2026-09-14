@@ -6,7 +6,7 @@ export const standingOverheadBarbellTricepsExtension = {
   slug: "standing-overhead-barbell-triceps-extension",
   title: "Standing Overhead Barbell Triceps Extension",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Standing_Overhead_Barbell_Triceps_Extension",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Overhead_Barbell_Triceps_Extension",

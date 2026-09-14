@@ -6,7 +6,7 @@ export const strideJumpCrossover = {
   slug: "stride-jump-crossover",
   title: "Stride Jump Crossover",
   exerciseCategory: "plyometrics",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Stride_Jump_Crossover",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Stride_Jump_Crossover",

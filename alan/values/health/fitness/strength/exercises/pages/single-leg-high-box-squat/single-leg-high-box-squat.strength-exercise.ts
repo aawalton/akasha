@@ -6,7 +6,7 @@ export const singleLegHighBoxSquat = {
   slug: "single-leg-high-box-squat",
   title: "Single-Leg High Box Squat",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Single-Leg_High_Box_Squat",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Single-Leg_High_Box_Squat",

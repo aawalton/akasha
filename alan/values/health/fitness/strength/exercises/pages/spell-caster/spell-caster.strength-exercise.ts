@@ -6,7 +6,7 @@ export const spellCaster = {
   slug: "spell-caster",
   title: "Spell Caster",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Spell_Caster",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Spell_Caster",

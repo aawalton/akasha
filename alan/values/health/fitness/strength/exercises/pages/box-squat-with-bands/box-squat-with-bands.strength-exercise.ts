@@ -6,7 +6,7 @@ export const boxSquatWithBands = {
   slug: "box-squat-with-bands",
   title: "Box Squat with Bands",
   exerciseCategory: "powerlifting",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Box_Squat_with_Bands",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Box_Squat_with_Bands",

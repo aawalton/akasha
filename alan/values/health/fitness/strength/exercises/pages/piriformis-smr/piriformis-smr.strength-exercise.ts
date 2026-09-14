@@ -6,7 +6,7 @@ export const piriformisSmr = {
   slug: "piriformis-smr",
   title: "Piriformis-SMR",
   exerciseCategory: "stretching",
-  equipment: "foam-roll",
+  equipment: "strength-exercise-implement/foam-roll",
   exerciseExternalId: "Piriformis-SMR",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Piriformis-SMR",

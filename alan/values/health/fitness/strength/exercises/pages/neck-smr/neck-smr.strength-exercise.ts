@@ -6,7 +6,7 @@ export const neckSmr = {
   slug: "neck-smr",
   title: "Neck-SMR",
   exerciseCategory: "stretching",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Neck-SMR",
   exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Neck-SMR",
   force: "static",

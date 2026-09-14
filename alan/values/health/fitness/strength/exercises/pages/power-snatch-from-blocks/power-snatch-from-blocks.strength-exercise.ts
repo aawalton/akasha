@@ -6,7 +6,7 @@ export const powerSnatchFromBlocks = {
   slug: "power-snatch-from-blocks",
   title: "Power Snatch from Blocks",
   exerciseCategory: "olympic-weightlifting",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Power_Snatch_from_Blocks",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Power_Snatch_from_Blocks",

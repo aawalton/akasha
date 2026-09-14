@@ -6,7 +6,7 @@ export const machinePreacherCurls = {
   slug: "machine-preacher-curls",
   title: "Machine Preacher Curls",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Machine_Preacher_Curls",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Machine_Preacher_Curls",

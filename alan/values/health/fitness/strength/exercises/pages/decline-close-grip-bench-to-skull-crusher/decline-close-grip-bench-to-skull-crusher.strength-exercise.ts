@@ -6,7 +6,7 @@ export const declineCloseGripBenchToSkullCrusher = {
   slug: "decline-close-grip-bench-to-skull-crusher",
   title: "Decline Close-Grip Bench To Skull Crusher",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Decline_Close-Grip_Bench_To_Skull_Crusher",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Decline_Close-Grip_Bench_To_Skull_Crusher",

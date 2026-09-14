@@ -6,7 +6,7 @@ export const reversePlateCurls = {
   slug: "reverse-plate-curls",
   title: "Reverse Plate Curls",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Reverse_Plate_Curls",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Reverse_Plate_Curls",

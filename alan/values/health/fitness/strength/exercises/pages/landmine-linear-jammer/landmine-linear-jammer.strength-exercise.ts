@@ -6,7 +6,7 @@ export const landmineLinearJammer = {
   slug: "landmine-linear-jammer",
   title: "Landmine Linear Jammer",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Landmine_Linear_Jammer",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Landmine_Linear_Jammer",

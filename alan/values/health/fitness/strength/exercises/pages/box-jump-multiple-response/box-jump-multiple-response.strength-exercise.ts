@@ -6,7 +6,7 @@ export const boxJumpMultipleResponse = {
   slug: "box-jump-multiple-response",
   title: "Box Jump (Multiple Response)",
   exerciseCategory: "plyometrics",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Box_Jump_Multiple_Response",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Box_Jump_Multiple_Response",

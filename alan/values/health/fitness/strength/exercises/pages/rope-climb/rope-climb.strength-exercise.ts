@@ -6,7 +6,7 @@ export const ropeClimb = {
   slug: "rope-climb",
   title: "Rope Climb",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Rope_Climb",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Rope_Climb",

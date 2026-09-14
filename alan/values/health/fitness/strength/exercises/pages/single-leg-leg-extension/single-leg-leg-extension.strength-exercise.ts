@@ -6,7 +6,7 @@ export const singleLegLegExtension = {
   slug: "single-leg-leg-extension",
   title: "Single-Leg Leg Extension",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Single-Leg_Leg_Extension",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Single-Leg_Leg_Extension",

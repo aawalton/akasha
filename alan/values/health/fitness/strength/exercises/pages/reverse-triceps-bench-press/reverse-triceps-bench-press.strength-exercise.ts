@@ -6,7 +6,7 @@ export const reverseTricepsBenchPress = {
   slug: "reverse-triceps-bench-press",
   title: "Reverse Triceps Bench Press",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Reverse_Triceps_Bench_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Reverse_Triceps_Bench_Press",

@@ -6,7 +6,7 @@ export const walkingTreadmill = {
   slug: "walking-treadmill",
   title: "Walking, Treadmill",
   exerciseCategory: "cardio",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Walking_Treadmill",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Walking_Treadmill",

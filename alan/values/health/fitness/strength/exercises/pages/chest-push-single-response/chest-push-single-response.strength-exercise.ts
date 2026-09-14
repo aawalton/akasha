@@ -6,7 +6,7 @@ export const chestPushSingleResponse = {
   slug: "chest-push-single-response",
   title: "Chest Push (single response)",
   exerciseCategory: "plyometrics",
-  equipment: "medicine-ball",
+  equipment: "strength-exercise-implement/medicine-ball",
   exerciseExternalId: "Chest_Push_single_response",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Chest_Push_single_response",

@@ -6,7 +6,7 @@ export const obliqueCrunches = {
   slug: "oblique-crunches",
   title: "Oblique Crunches",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Oblique_Crunches",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Oblique_Crunches",

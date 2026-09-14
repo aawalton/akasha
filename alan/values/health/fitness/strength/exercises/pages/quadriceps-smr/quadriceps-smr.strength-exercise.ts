@@ -6,7 +6,7 @@ export const quadricepsSmr = {
   slug: "quadriceps-smr",
   title: "Quadriceps-SMR",
   exerciseCategory: "stretching",
-  equipment: "foam-roll",
+  equipment: "strength-exercise-implement/foam-roll",
   exerciseExternalId: "Quadriceps-SMR",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Quadriceps-SMR",

@@ -6,7 +6,7 @@ export const benchPressWithBands = {
   slug: "bench-press-with-bands",
   title: "Bench Press - With Bands",
   exerciseCategory: "strength",
-  equipment: "bands",
+  equipment: "strength-exercise-implement/bands",
   exerciseExternalId: "Bench_Press_-_With_Bands",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Bench_Press_-_With_Bands",

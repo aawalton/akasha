@@ -6,7 +6,7 @@ export const weightedJumpSquat = {
   slug: "weighted-jump-squat",
   title: "Weighted Jump Squat",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Weighted_Jump_Squat",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Weighted_Jump_Squat",

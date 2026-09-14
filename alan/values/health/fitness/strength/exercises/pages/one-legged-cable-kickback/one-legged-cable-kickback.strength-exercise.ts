@@ -6,7 +6,7 @@ export const oneLeggedCableKickback = {
   slug: "one-legged-cable-kickback",
   title: "One-Legged Cable Kickback",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "One-Legged_Cable_Kickback",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/One-Legged_Cable_Kickback",

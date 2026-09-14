@@ -6,7 +6,7 @@ export const cableRearDeltFly = {
   slug: "cable-rear-delt-fly",
   title: "Cable Rear Delt Fly",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Cable_Rear_Delt_Fly",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Cable_Rear_Delt_Fly",

@@ -6,7 +6,7 @@ export const freehandJumpSquat = {
   slug: "freehand-jump-squat",
   title: "Freehand Jump Squat",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Freehand_Jump_Squat",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Freehand_Jump_Squat",

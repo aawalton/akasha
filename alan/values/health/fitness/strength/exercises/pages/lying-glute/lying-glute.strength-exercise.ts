@@ -6,7 +6,7 @@ export const lyingGlute = {
   slug: "lying-glute",
   title: "Lying Glute",
   exerciseCategory: "stretching",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Lying_Glute",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lying_Glute",

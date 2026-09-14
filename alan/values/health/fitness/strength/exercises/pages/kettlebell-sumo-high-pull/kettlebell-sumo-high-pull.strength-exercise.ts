@@ -6,7 +6,7 @@ export const kettlebellSumoHighPull = {
   slug: "kettlebell-sumo-high-pull",
   title: "Kettlebell Sumo High Pull",
   exerciseCategory: "strength",
-  equipment: "kettlebells",
+  equipment: "strength-exercise-implement/kettlebells",
   exerciseExternalId: "Kettlebell_Sumo_High_Pull",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Kettlebell_Sumo_High_Pull",

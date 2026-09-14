@@ -6,7 +6,7 @@ export const reverseFlyesWithExternalRotation = {
   slug: "reverse-flyes-with-external-rotation",
   title: "Reverse Flyes With External Rotation",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Reverse_Flyes_With_External_Rotation",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Reverse_Flyes_With_External_Rotation",

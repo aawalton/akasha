@@ -6,7 +6,7 @@ export const standingOneArmCableCurl = {
   slug: "standing-one-arm-cable-curl",
   title: "Standing One-Arm Cable Curl",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Standing_One-Arm_Cable_Curl",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_One-Arm_Cable_Curl",

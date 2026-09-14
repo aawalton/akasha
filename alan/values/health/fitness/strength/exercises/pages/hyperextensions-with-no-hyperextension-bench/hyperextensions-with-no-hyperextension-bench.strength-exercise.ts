@@ -6,7 +6,7 @@ export const hyperextensionsWithNoHyperextensionBench = {
   slug: "hyperextensions-with-no-hyperextension-bench",
   title: "Hyperextensions With No Hyperextension Bench",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Hyperextensions_With_No_Hyperextension_Bench",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Hyperextensions_With_No_Hyperextension_Bench",

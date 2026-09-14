@@ -6,7 +6,7 @@ export const sideBridge = {
   slug: "side-bridge",
   title: "Side Bridge",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Side_Bridge",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Side_Bridge",

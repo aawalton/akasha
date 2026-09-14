@@ -6,7 +6,7 @@ export const leverageDeclineChestPress = {
   slug: "leverage-decline-chest-press",
   title: "Leverage Decline Chest Press",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Leverage_Decline_Chest_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Leverage_Decline_Chest_Press",

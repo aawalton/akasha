@@ -6,7 +6,7 @@ export const girondaSternumChins = {
   slug: "gironda-sternum-chins",
   title: "Gironda Sternum Chins",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Gironda_Sternum_Chins",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Gironda_Sternum_Chins",

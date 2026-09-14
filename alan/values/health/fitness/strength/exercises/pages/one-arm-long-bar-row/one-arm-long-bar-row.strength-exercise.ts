@@ -6,7 +6,7 @@ export const oneArmLongBarRow = {
   slug: "one-arm-long-bar-row",
   title: "One-Arm Long Bar Row",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "One-Arm_Long_Bar_Row",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/One-Arm_Long_Bar_Row",

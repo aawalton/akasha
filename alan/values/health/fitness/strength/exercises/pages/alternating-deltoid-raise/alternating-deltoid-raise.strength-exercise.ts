@@ -6,7 +6,7 @@ export const alternatingDeltoidRaise = {
   slug: "alternating-deltoid-raise",
   title: "Alternating Deltoid Raise",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Alternating_Deltoid_Raise",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Alternating_Deltoid_Raise",

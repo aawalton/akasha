@@ -6,7 +6,7 @@ export const lyingCloseGripBarCurlOnHighPulley = {
   slug: "lying-close-grip-bar-curl-on-high-pulley",
   title: "Lying Close-Grip Bar Curl On High Pulley",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Lying_Close-Grip_Bar_Curl_On_High_Pulley",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lying_Close-Grip_Bar_Curl_On_High_Pulley",

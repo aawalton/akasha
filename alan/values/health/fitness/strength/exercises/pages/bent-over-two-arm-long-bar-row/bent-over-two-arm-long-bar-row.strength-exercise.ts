@@ -6,7 +6,7 @@ export const bentOverTwoArmLongBarRow = {
   slug: "bent-over-two-arm-long-bar-row",
   title: "Bent Over Two-Arm Long Bar Row",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Bent_Over_Two-Arm_Long_Bar_Row",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Bent_Over_Two-Arm_Long_Bar_Row",

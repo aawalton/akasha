@@ -6,7 +6,7 @@ export const chairUpperBodyStretch = {
   slug: "chair-upper-body-stretch",
   title: "Chair Upper Body Stretch",
   exerciseCategory: "stretching",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Chair_Upper_Body_Stretch",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Chair_Upper_Body_Stretch",

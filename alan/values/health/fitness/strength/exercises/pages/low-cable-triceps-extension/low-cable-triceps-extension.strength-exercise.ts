@@ -6,7 +6,7 @@ export const lowCableTricepsExtension = {
   slug: "low-cable-triceps-extension",
   title: "Low Cable Triceps Extension",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Low_Cable_Triceps_Extension",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Low_Cable_Triceps_Extension",

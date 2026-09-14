@@ -6,7 +6,7 @@ export const kneelingCableTricepsExtension = {
   slug: "kneeling-cable-triceps-extension",
   title: "Kneeling Cable Triceps Extension",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Kneeling_Cable_Triceps_Extension",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Kneeling_Cable_Triceps_Extension",

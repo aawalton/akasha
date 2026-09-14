@@ -6,7 +6,7 @@ export const dipMachine = {
   slug: "dip-machine",
   title: "Dip Machine",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Dip_Machine",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dip_Machine",

@@ -6,7 +6,7 @@ export const singleArmCableCrossover = {
   slug: "single-arm-cable-crossover",
   title: "Single-Arm Cable Crossover",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Single-Arm_Cable_Crossover",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Single-Arm_Cable_Crossover",

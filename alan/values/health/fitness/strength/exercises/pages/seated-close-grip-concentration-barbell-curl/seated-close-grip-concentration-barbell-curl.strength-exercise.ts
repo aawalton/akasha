@@ -6,7 +6,7 @@ export const seatedCloseGripConcentrationBarbellCurl = {
   slug: "seated-close-grip-concentration-barbell-curl",
   title: "Seated Close-Grip Concentration Barbell Curl",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Seated_Close-Grip_Concentration_Barbell_Curl",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_Close-Grip_Concentration_Barbell_Curl",

@@ -6,7 +6,7 @@ export const oneArmFlatBenchDumbbellFlye = {
   slug: "one-arm-flat-bench-dumbbell-flye",
   title: "One-Arm Flat Bench Dumbbell Flye",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "One-Arm_Flat_Bench_Dumbbell_Flye",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/One-Arm_Flat_Bench_Dumbbell_Flye",

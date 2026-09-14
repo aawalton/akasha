@@ -6,7 +6,7 @@ export const carDeadlift = {
   slug: "car-deadlift",
   title: "Car Deadlift",
   exerciseCategory: "strongman",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Car_Deadlift",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Car_Deadlift",

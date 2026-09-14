@@ -6,7 +6,7 @@ export const bentArmDumbbellPullover = {
   slug: "bent-arm-dumbbell-pullover",
   title: "Bent-Arm Dumbbell Pullover",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Bent-Arm_Dumbbell_Pullover",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Bent-Arm_Dumbbell_Pullover",

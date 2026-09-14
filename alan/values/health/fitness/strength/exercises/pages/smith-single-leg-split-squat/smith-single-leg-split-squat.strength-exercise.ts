@@ -6,7 +6,7 @@ export const smithSingleLegSplitSquat = {
   slug: "smith-single-leg-split-squat",
   title: "Smith Single-Leg Split Squat",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Smith_Single-Leg_Split_Squat",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Smith_Single-Leg_Split_Squat",

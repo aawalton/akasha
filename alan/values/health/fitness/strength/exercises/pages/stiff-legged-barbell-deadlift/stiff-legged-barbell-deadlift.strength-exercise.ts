@@ -6,7 +6,7 @@ export const stiffLeggedBarbellDeadlift = {
   slug: "stiff-legged-barbell-deadlift",
   title: "Stiff-Legged Barbell Deadlift",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Stiff-Legged_Barbell_Deadlift",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Stiff-Legged_Barbell_Deadlift",

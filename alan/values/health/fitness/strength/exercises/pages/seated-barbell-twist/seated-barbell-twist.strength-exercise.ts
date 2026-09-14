@@ -6,7 +6,7 @@ export const seatedBarbellTwist = {
   slug: "seated-barbell-twist",
   title: "Seated Barbell Twist",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Seated_Barbell_Twist",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_Barbell_Twist",

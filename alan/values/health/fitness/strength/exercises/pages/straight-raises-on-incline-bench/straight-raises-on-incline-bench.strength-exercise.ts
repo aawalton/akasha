@@ -6,7 +6,7 @@ export const straightRaisesOnInclineBench = {
   slug: "straight-raises-on-incline-bench",
   title: "Straight Raises on Incline Bench",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Straight_Raises_on_Incline_Bench",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Straight_Raises_on_Incline_Bench",

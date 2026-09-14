@@ -6,7 +6,7 @@ export const dipsChestVersion = {
   slug: "dips-chest-version",
   title: "Dips - Chest Version",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Dips_-_Chest_Version",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dips_-_Chest_Version",

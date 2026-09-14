@@ -6,7 +6,7 @@ export const hammerGripInclineDbBenchPress = {
   slug: "hammer-grip-incline-db-bench-press",
   title: "Hammer Grip Incline DB Bench Press",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Hammer_Grip_Incline_DB_Bench_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Hammer_Grip_Incline_DB_Bench_Press",

@@ -6,7 +6,7 @@ export const beatSaber1Song = {
   slug: "beat-saber-1-song",
   title: "Beat Saber (1 song)",
   exerciseCategory: "cardio",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   force: "pull",
   gripDemand: "low",
   implementCount: 1,

@@ -6,7 +6,7 @@ export const seatedCableRows = {
   slug: "seated-cable-rows",
   title: "Seated Cable Rows",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Seated_Cable_Rows",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_Cable_Rows",

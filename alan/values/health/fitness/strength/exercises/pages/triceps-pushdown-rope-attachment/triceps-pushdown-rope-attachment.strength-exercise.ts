@@ -6,7 +6,7 @@ export const tricepsPushdownRopeAttachment = {
   slug: "triceps-pushdown-rope-attachment",
   title: "Triceps Pushdown - Rope Attachment",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Triceps_Pushdown_-_Rope_Attachment",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Triceps_Pushdown_-_Rope_Attachment",

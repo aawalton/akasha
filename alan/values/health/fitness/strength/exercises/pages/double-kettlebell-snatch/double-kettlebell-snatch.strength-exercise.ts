@@ -6,7 +6,7 @@ export const doubleKettlebellSnatch = {
   slug: "double-kettlebell-snatch",
   title: "Double Kettlebell Snatch",
   exerciseCategory: "strength",
-  equipment: "kettlebells",
+  equipment: "strength-exercise-implement/kettlebells",
   exerciseExternalId: "Double_Kettlebell_Snatch",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Double_Kettlebell_Snatch",

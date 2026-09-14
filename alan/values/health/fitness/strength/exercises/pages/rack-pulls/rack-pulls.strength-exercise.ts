@@ -6,7 +6,7 @@ export const rackPulls = {
   slug: "rack-pulls",
   title: "Rack Pulls",
   exerciseCategory: "powerlifting",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Rack_Pulls",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Rack_Pulls",

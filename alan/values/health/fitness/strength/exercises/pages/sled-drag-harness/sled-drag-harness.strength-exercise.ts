@@ -6,7 +6,7 @@ export const sledDragHarness = {
   slug: "sled-drag-harness",
   title: "Sled Drag - Harness",
   exerciseCategory: "strongman",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Sled_Drag_-_Harness",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Sled_Drag_-_Harness",

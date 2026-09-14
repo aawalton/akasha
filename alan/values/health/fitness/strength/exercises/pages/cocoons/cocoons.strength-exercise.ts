@@ -6,7 +6,7 @@ export const cocoons = {
   slug: "cocoons",
   title: "Cocoons",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Cocoons",
   exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Cocoons",
   force: "pull",

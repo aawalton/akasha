@@ -6,7 +6,7 @@ export const kneelingHighPulleyRow = {
   slug: "kneeling-high-pulley-row",
   title: "Kneeling High Pulley Row",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Kneeling_High_Pulley_Row",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Kneeling_High_Pulley_Row",

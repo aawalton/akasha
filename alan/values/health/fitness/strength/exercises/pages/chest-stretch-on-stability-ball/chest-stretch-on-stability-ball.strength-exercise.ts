@@ -6,7 +6,7 @@ export const chestStretchOnStabilityBall = {
   slug: "chest-stretch-on-stability-ball",
   title: "Chest Stretch on Stability Ball",
   exerciseCategory: "stretching",
-  equipment: "exercise-ball",
+  equipment: "strength-exercise-implement/exercise-ball",
   exerciseExternalId: "Chest_Stretch_on_Stability_Ball",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Chest_Stretch_on_Stability_Ball",

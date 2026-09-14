@@ -6,7 +6,7 @@ export const lowPulleyRowToNeck = {
   slug: "low-pulley-row-to-neck",
   title: "Low Pulley Row To Neck",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Low_Pulley_Row_To_Neck",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Low_Pulley_Row_To_Neck",

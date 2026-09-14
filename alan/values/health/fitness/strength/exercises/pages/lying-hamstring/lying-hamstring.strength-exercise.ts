@@ -6,7 +6,7 @@ export const lyingHamstring = {
   slug: "lying-hamstring",
   title: "Lying Hamstring",
   exerciseCategory: "stretching",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Lying_Hamstring",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lying_Hamstring",

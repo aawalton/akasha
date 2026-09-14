@@ -6,7 +6,7 @@ export const overheadSquat = {
   slug: "overhead-squat",
   title: "Overhead Squat",
   exerciseCategory: "olympic-weightlifting",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Overhead_Squat",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Overhead_Squat",

@@ -6,7 +6,7 @@ export const quickLeap = {
   slug: "quick-leap",
   title: "Quick Leap",
   exerciseCategory: "plyometrics",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Quick_Leap",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Quick_Leap",

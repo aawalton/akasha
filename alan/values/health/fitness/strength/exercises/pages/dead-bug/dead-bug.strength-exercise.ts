@@ -6,7 +6,7 @@ export const deadBug = {
   slug: "dead-bug",
   title: "Dead Bug",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Dead_Bug",
   exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dead_Bug",
   force: "pull",

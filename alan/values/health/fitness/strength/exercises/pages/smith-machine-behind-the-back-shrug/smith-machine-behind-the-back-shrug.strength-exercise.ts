@@ -6,7 +6,7 @@ export const smithMachineBehindTheBackShrug = {
   slug: "smith-machine-behind-the-back-shrug",
   title: "Smith Machine Behind the Back Shrug",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Smith_Machine_Behind_the_Back_Shrug",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Smith_Machine_Behind_the_Back_Shrug",

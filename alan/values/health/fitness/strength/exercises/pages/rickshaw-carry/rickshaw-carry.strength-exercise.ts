@@ -6,7 +6,7 @@ export const rickshawCarry = {
   slug: "rickshaw-carry",
   title: "Rickshaw Carry",
   exerciseCategory: "strongman",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Rickshaw_Carry",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Rickshaw_Carry",

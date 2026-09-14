@@ -6,7 +6,7 @@ export const superman = {
   slug: "superman",
   title: "Superman",
   exerciseCategory: "stretching",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Superman",
   exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Superman",
   force: "static",

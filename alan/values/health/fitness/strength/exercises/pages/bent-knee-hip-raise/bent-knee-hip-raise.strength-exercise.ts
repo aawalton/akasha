@@ -6,7 +6,7 @@ export const bentKneeHipRaise = {
   slug: "bent-knee-hip-raise",
   title: "Bent-Knee Hip Raise",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Bent-Knee_Hip_Raise",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Bent-Knee_Hip_Raise",

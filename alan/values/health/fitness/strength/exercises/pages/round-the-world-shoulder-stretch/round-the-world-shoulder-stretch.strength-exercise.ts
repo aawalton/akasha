@@ -6,7 +6,7 @@ export const roundTheWorldShoulderStretch = {
   slug: "round-the-world-shoulder-stretch",
   title: "Round The World Shoulder Stretch",
   exerciseCategory: "stretching",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Round_The_World_Shoulder_Stretch",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Round_The_World_Shoulder_Stretch",

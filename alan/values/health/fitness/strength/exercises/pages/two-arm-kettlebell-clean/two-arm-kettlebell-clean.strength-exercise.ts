@@ -6,7 +6,7 @@ export const twoArmKettlebellClean = {
   slug: "two-arm-kettlebell-clean",
   title: "Two-Arm Kettlebell Clean",
   exerciseCategory: "strength",
-  equipment: "kettlebells",
+  equipment: "strength-exercise-implement/kettlebells",
   exerciseExternalId: "Two-Arm_Kettlebell_Clean",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Two-Arm_Kettlebell_Clean",

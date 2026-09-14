@@ -6,7 +6,7 @@ export const declineDumbbellTricepsExtension = {
   slug: "decline-dumbbell-triceps-extension",
   title: "Decline Dumbbell Triceps Extension",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Decline_Dumbbell_Triceps_Extension",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Decline_Dumbbell_Triceps_Extension",

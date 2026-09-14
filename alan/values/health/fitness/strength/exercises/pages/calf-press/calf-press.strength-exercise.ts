@@ -6,7 +6,7 @@ export const calfPress = {
   slug: "calf-press",
   title: "Calf Press",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Calf_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Calf_Press",

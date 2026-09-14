@@ -6,7 +6,7 @@ export const lyingCrossover = {
   slug: "lying-crossover",
   title: "Lying Crossover",
   exerciseCategory: "stretching",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Lying_Crossover",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lying_Crossover",

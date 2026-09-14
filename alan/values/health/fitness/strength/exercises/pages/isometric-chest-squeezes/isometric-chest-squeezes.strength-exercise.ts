@@ -6,7 +6,7 @@ export const isometricChestSqueezes = {
   slug: "isometric-chest-squeezes",
   title: "Isometric Chest Squeezes",
   exerciseCategory: "plyometrics",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Isometric_Chest_Squeezes",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Isometric_Chest_Squeezes",

@@ -6,7 +6,7 @@ export const shotgunRow = {
   slug: "shotgun-row",
   title: "Shotgun Row",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Shotgun_Row",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Shotgun_Row",

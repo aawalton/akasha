@@ -6,7 +6,7 @@ export const kegLoad = {
   slug: "keg-load",
   title: "Keg Load",
   exerciseCategory: "strongman",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Keg_Load",
   exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Keg_Load",
   force: "pull",

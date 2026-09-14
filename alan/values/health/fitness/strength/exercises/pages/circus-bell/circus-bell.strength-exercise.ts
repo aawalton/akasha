@@ -6,7 +6,7 @@ export const circusBell = {
   slug: "circus-bell",
   title: "Circus Bell",
   exerciseCategory: "strongman",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Circus_Bell",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Circus_Bell",

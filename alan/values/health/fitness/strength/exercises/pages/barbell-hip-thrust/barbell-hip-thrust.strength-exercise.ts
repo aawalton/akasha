@@ -6,7 +6,7 @@ export const barbellHipThrust = {
   slug: "barbell-hip-thrust",
   title: "Barbell Hip Thrust",
   exerciseCategory: "powerlifting",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Barbell_Hip_Thrust",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Barbell_Hip_Thrust",

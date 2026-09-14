@@ -6,7 +6,7 @@ export const overheadSlam = {
   slug: "overhead-slam",
   title: "Overhead Slam",
   exerciseCategory: "plyometrics",
-  equipment: "medicine-ball",
+  equipment: "strength-exercise-implement/medicine-ball",
   exerciseExternalId: "Overhead_Slam",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Overhead_Slam",

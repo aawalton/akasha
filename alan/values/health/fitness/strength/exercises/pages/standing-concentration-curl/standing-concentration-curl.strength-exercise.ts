@@ -6,7 +6,7 @@ export const standingConcentrationCurl = {
   slug: "standing-concentration-curl",
   title: "Standing Concentration Curl",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Standing_Concentration_Curl",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Concentration_Curl",

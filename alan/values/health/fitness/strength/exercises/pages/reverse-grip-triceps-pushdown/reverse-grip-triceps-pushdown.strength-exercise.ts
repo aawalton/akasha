@@ -6,7 +6,7 @@ export const reverseGripTricepsPushdown = {
   slug: "reverse-grip-triceps-pushdown",
   title: "Reverse Grip Triceps Pushdown",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Reverse_Grip_Triceps_Pushdown",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Reverse_Grip_Triceps_Pushdown",

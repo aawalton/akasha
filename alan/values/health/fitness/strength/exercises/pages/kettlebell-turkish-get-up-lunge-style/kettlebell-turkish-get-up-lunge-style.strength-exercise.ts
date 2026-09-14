@@ -6,7 +6,7 @@ export const kettlebellTurkishGetUpLungeStyle = {
   slug: "kettlebell-turkish-get-up-lunge-style",
   title: "Kettlebell Turkish Get-Up (Lunge style)",
   exerciseCategory: "strength",
-  equipment: "kettlebells",
+  equipment: "strength-exercise-implement/kettlebells",
   exerciseExternalId: "Kettlebell_Turkish_Get-Up_Lunge_style",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Kettlebell_Turkish_Get-Up_Lunge_style",

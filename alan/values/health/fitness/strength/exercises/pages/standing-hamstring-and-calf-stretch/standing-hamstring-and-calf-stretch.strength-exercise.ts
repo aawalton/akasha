@@ -6,7 +6,7 @@ export const standingHamstringAndCalfStretch = {
   slug: "standing-hamstring-and-calf-stretch",
   title: "Standing Hamstring and Calf Stretch",
   exerciseCategory: "stretching",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Standing_Hamstring_and_Calf_Stretch",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Hamstring_and_Calf_Stretch",

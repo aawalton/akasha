@@ -6,7 +6,7 @@ export const overheadLat = {
   slug: "overhead-lat",
   title: "Overhead Lat",
   exerciseCategory: "stretching",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Overhead_Lat",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Overhead_Lat",

@@ -6,7 +6,7 @@ export const buttLiftBridge = {
   slug: "butt-lift-bridge",
   title: "Butt Lift (Bridge)",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Butt_Lift_Bridge",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Butt_Lift_Bridge",

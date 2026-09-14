@@ -6,7 +6,7 @@ export const oneHandedHang = {
   slug: "one-handed-hang",
   title: "One Handed Hang",
   exerciseCategory: "stretching",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "One_Handed_Hang",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/One_Handed_Hang",

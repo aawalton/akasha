@@ -6,7 +6,7 @@ export const frontSquatCleanGrip = {
   slug: "front-squat-clean-grip",
   title: "Front Squat (Clean Grip)",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Front_Squat_Clean_Grip",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Front_Squat_Clean_Grip",

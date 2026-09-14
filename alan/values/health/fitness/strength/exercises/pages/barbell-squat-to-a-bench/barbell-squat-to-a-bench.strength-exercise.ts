@@ -6,7 +6,7 @@ export const barbellSquatToABench = {
   slug: "barbell-squat-to-a-bench",
   title: "Barbell Squat To A Bench",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Barbell_Squat_To_A_Bench",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Barbell_Squat_To_A_Bench",

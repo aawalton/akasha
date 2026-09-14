@@ -6,7 +6,7 @@ export const oneArmSupinatedDumbbellTricepsExtension = {
   slug: "one-arm-supinated-dumbbell-triceps-extension",
   title: "One Arm Supinated Dumbbell Triceps Extension",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "One_Arm_Supinated_Dumbbell_Triceps_Extension",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/One_Arm_Supinated_Dumbbell_Triceps_Extension",

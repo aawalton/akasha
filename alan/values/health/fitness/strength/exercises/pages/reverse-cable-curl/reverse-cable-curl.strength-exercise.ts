@@ -6,7 +6,7 @@ export const reverseCableCurl = {
   slug: "reverse-cable-curl",
   title: "Reverse Cable Curl",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Reverse_Cable_Curl",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Reverse_Cable_Curl",

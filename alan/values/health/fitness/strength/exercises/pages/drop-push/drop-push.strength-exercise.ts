@@ -6,7 +6,7 @@ export const dropPush = {
   slug: "drop-push",
   title: "Drop Push",
   exerciseCategory: "plyometrics",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Drop_Push",
   exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Drop_Push",
   force: "push",

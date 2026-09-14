@@ -6,7 +6,7 @@ export const barbellInclineBenchPressMediumGrip = {
   slug: "barbell-incline-bench-press-medium-grip",
   title: "Barbell Incline Bench Press - Medium Grip",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Barbell_Incline_Bench_Press_-_Medium_Grip",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip",

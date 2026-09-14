@@ -6,7 +6,7 @@ export const sumoDeadliftWithBands = {
   slug: "sumo-deadlift-with-bands",
   title: "Sumo Deadlift with Bands",
   exerciseCategory: "powerlifting",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Sumo_Deadlift_with_Bands",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Sumo_Deadlift_with_Bands",

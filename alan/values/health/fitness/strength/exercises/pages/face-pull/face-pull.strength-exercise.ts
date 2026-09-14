@@ -6,7 +6,7 @@ export const facePull = {
   slug: "face-pull",
   title: "Face Pull",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Face_Pull",
   exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Face_Pull",
   force: "pull",

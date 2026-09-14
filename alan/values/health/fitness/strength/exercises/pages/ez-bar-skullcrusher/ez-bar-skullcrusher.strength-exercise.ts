@@ -6,7 +6,7 @@ export const ezBarSkullcrusher = {
   slug: "ez-bar-skullcrusher",
   title: "EZ-Bar Skullcrusher",
   exerciseCategory: "strength",
-  equipment: "e-z-curl-bar",
+  equipment: "strength-exercise-implement/e-z-curl-bar",
   exerciseExternalId: "EZ-Bar_Skullcrusher",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/EZ-Bar_Skullcrusher",

@@ -6,7 +6,7 @@ export const barbellRearDeltRow = {
   slug: "barbell-rear-delt-row",
   title: "Barbell Rear Delt Row",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Barbell_Rear_Delt_Row",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Barbell_Rear_Delt_Row",

@@ -6,7 +6,7 @@ export const crossoverReverseLunge = {
   slug: "crossover-reverse-lunge",
   title: "Crossover Reverse Lunge",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Crossover_Reverse_Lunge",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Crossover_Reverse_Lunge",

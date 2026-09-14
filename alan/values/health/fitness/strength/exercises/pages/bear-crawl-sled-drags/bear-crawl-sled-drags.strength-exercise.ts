@@ -6,7 +6,7 @@ export const bearCrawlSledDrags = {
   slug: "bear-crawl-sled-drags",
   title: "Bear Crawl Sled Drags",
   exerciseCategory: "strongman",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Bear_Crawl_Sled_Drags",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Bear_Crawl_Sled_Drags",

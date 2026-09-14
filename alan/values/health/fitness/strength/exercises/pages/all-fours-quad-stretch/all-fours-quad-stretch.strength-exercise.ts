@@ -6,7 +6,7 @@ export const allFoursQuadStretch = {
   slug: "all-fours-quad-stretch",
   title: "All Fours Quad Stretch",
   exerciseCategory: "stretching",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "All_Fours_Quad_Stretch",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/All_Fours_Quad_Stretch",

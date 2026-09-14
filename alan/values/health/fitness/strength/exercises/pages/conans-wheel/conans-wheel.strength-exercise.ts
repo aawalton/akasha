@@ -6,7 +6,7 @@ export const conansWheel = {
   slug: "conans-wheel",
   title: "Conan's Wheel",
   exerciseCategory: "strongman",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Conans_Wheel",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Conans_Wheel",

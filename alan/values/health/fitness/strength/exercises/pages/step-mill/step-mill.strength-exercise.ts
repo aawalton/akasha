@@ -6,7 +6,7 @@ export const stepMill = {
   slug: "step-mill",
   title: "Step Mill",
   exerciseCategory: "cardio",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Step_Mill",
   exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Step_Mill",
   gripDemand: "none",

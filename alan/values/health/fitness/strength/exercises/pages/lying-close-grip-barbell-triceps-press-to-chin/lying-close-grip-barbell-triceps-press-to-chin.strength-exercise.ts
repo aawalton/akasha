@@ -6,7 +6,7 @@ export const lyingCloseGripBarbellTricepsPressToChin = {
   slug: "lying-close-grip-barbell-triceps-press-to-chin",
   title: "Lying Close-Grip Barbell Triceps Press To Chin",
   exerciseCategory: "strength",
-  equipment: "e-z-curl-bar",
+  equipment: "strength-exercise-implement/e-z-curl-bar",
   exerciseExternalId: "Lying_Close-Grip_Barbell_Triceps_Press_To_Chin",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lying_Close-Grip_Barbell_Triceps_Press_To_Chin",

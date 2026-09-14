@@ -6,7 +6,7 @@ export const alternatingFloorPress = {
   slug: "alternating-floor-press",
   title: "Alternating Floor Press",
   exerciseCategory: "strength",
-  equipment: "kettlebells",
+  equipment: "strength-exercise-implement/kettlebells",
   exerciseExternalId: "Alternating_Floor_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Alternating_Floor_Press",

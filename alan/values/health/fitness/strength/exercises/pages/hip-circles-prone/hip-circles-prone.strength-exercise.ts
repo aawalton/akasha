@@ -6,7 +6,7 @@ export const hipCirclesProne = {
   slug: "hip-circles-prone",
   title: "Hip Circles (prone)",
   exerciseCategory: "stretching",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Hip_Circles_prone",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Hip_Circles_prone",

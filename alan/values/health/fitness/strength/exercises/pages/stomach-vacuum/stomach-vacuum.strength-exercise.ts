@@ -6,7 +6,7 @@ export const stomachVacuum = {
   slug: "stomach-vacuum",
   title: "Stomach Vacuum",
   exerciseCategory: "stretching",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Stomach_Vacuum",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Stomach_Vacuum",

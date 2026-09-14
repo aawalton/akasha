@@ -6,7 +6,7 @@ export const returnPushFromStance = {
   slug: "return-push-from-stance",
   title: "Return Push from Stance",
   exerciseCategory: "plyometrics",
-  equipment: "medicine-ball",
+  equipment: "strength-exercise-implement/medicine-ball",
   exerciseExternalId: "Return_Push_from_Stance",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Return_Push_from_Stance",

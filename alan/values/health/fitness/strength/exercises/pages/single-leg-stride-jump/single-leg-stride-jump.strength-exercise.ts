@@ -6,7 +6,7 @@ export const singleLegStrideJump = {
   slug: "single-leg-stride-jump",
   title: "Single-Leg Stride Jump",
   exerciseCategory: "plyometrics",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Single-Leg_Stride_Jump",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Single-Leg_Stride_Jump",

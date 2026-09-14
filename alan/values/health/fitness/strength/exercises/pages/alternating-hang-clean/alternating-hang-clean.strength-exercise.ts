@@ -6,7 +6,7 @@ export const alternatingHangClean = {
   slug: "alternating-hang-clean",
   title: "Alternating Hang Clean",
   exerciseCategory: "strength",
-  equipment: "kettlebells",
+  equipment: "strength-exercise-implement/kettlebells",
   exerciseExternalId: "Alternating_Hang_Clean",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Alternating_Hang_Clean",

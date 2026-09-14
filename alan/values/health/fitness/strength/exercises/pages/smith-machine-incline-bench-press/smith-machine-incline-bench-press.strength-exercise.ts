@@ -6,7 +6,7 @@ export const smithMachineInclineBenchPress = {
   slug: "smith-machine-incline-bench-press",
   title: "Smith Machine Incline Bench Press",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Smith_Machine_Incline_Bench_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Smith_Machine_Incline_Bench_Press",

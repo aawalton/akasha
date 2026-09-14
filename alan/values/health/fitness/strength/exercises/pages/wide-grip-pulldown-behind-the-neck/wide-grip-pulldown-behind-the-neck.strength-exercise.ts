@@ -6,7 +6,7 @@ export const wideGripPulldownBehindTheNeck = {
   slug: "wide-grip-pulldown-behind-the-neck",
   title: "Wide-Grip Pulldown Behind The Neck",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Wide-Grip_Pulldown_Behind_The_Neck",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Wide-Grip_Pulldown_Behind_The_Neck",

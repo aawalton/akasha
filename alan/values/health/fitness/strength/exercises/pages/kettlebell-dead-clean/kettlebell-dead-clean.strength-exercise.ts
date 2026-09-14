@@ -6,7 +6,7 @@ export const kettlebellDeadClean = {
   slug: "kettlebell-dead-clean",
   title: "Kettlebell Dead Clean",
   exerciseCategory: "strength",
-  equipment: "kettlebells",
+  equipment: "strength-exercise-implement/kettlebells",
   exerciseExternalId: "Kettlebell_Dead_Clean",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Kettlebell_Dead_Clean",

@@ -6,7 +6,7 @@ export const ropeCrunch = {
   slug: "rope-crunch",
   title: "Rope Crunch",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Rope_Crunch",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Rope_Crunch",

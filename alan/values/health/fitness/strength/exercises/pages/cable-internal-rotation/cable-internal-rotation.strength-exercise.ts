@@ -6,7 +6,7 @@ export const cableInternalRotation = {
   slug: "cable-internal-rotation",
   title: "Cable Internal Rotation",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Cable_Internal_Rotation",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Cable_Internal_Rotation",

@@ -6,7 +6,7 @@ export const kneelingJumpSquat = {
   slug: "kneeling-jump-squat",
   title: "Kneeling Jump Squat",
   exerciseCategory: "olympic-weightlifting",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Kneeling_Jump_Squat",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Kneeling_Jump_Squat",

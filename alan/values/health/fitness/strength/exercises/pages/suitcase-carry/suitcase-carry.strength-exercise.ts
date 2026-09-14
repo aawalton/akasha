@@ -6,7 +6,7 @@ export const suitcaseCarry = {
   slug: "suitcase-carry",
   title: "Suitcase Carry",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   force: "static",
   gripDemand: "high",
   implementCount: 1,

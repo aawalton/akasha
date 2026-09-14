@@ -6,7 +6,7 @@ export const dumbbellBenchPressWithNeutralGrip = {
   slug: "dumbbell-bench-press-with-neutral-grip",
   title: "Dumbbell Bench Press with Neutral Grip",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Dumbbell_Bench_Press_with_Neutral_Grip",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dumbbell_Bench_Press_with_Neutral_Grip",

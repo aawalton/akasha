@@ -6,7 +6,7 @@ export const bodyweightMidRow = {
   slug: "bodyweight-mid-row",
   title: "Bodyweight Mid Row",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Bodyweight_Mid_Row",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Bodyweight_Mid_Row",

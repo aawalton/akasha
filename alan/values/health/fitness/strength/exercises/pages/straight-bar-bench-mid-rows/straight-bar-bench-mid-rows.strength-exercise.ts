@@ -6,7 +6,7 @@ export const straightBarBenchMidRows = {
   slug: "straight-bar-bench-mid-rows",
   title: "Straight Bar Bench Mid Rows",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Straight_Bar_Bench_Mid_Rows",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Straight_Bar_Bench_Mid_Rows",

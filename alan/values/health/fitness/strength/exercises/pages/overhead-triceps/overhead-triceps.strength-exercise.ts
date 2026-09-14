@@ -6,7 +6,7 @@ export const overheadTriceps = {
   slug: "overhead-triceps",
   title: "Overhead Triceps",
   exerciseCategory: "stretching",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Overhead_Triceps",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Overhead_Triceps",

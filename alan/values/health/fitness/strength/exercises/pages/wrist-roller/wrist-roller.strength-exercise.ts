@@ -6,7 +6,7 @@ export const wristRoller = {
   slug: "wrist-roller",
   title: "Wrist Roller",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Wrist_Roller",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Wrist_Roller",

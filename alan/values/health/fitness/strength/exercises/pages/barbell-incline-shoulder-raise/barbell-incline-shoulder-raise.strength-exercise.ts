@@ -6,7 +6,7 @@ export const barbellInclineShoulderRaise = {
   slug: "barbell-incline-shoulder-raise",
   title: "Barbell Incline Shoulder Raise",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Barbell_Incline_Shoulder_Raise",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Barbell_Incline_Shoulder_Raise",

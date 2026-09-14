@@ -6,7 +6,7 @@ export const oneArmKettlebellParaPress = {
   slug: "one-arm-kettlebell-para-press",
   title: "One-Arm Kettlebell Para Press",
   exerciseCategory: "strength",
-  equipment: "kettlebells",
+  equipment: "strength-exercise-implement/kettlebells",
   exerciseExternalId: "One-Arm_Kettlebell_Para_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/One-Arm_Kettlebell_Para_Press",

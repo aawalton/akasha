@@ -6,7 +6,7 @@ export const lowerBackSmr = {
   slug: "lower-back-smr",
   title: "Lower Back-SMR",
   exerciseCategory: "stretching",
-  equipment: "foam-roll",
+  equipment: "strength-exercise-implement/foam-roll",
   exerciseExternalId: "Lower_Back-SMR",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lower_Back-SMR",

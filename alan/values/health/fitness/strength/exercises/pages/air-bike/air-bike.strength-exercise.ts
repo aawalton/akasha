@@ -6,7 +6,7 @@ export const airBike = {
   slug: "air-bike",
   title: "Air Bike",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Air_Bike",
   exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Air_Bike",
   force: "pull",

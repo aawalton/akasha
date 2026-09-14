@@ -6,7 +6,7 @@ export const spiderCurl = {
   slug: "spider-curl",
   title: "Spider Curl",
   exerciseCategory: "strength",
-  equipment: "e-z-curl-bar",
+  equipment: "strength-exercise-implement/e-z-curl-bar",
   exerciseExternalId: "Spider_Curl",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Spider_Curl",

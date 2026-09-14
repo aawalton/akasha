@@ -6,7 +6,7 @@ export const fingerCurls = {
   slug: "finger-curls",
   title: "Finger Curls",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Finger_Curls",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Finger_Curls",

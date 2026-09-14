@@ -6,7 +6,7 @@ export const stepUpWithKneeRaise = {
   slug: "step-up-with-knee-raise",
   title: "Step-up with Knee Raise",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Step-up_with_Knee_Raise",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Step-up_with_Knee_Raise",

@@ -6,7 +6,7 @@ export const yokeWalk = {
   slug: "yoke-walk",
   title: "Yoke Walk",
   exerciseCategory: "strongman",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Yoke_Walk",
   exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Yoke_Walk",
   gripDemand: "low",

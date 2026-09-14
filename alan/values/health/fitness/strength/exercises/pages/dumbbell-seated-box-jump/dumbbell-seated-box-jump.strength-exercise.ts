@@ -6,7 +6,7 @@ export const dumbbellSeatedBoxJump = {
   slug: "dumbbell-seated-box-jump",
   title: "Dumbbell Seated Box Jump",
   exerciseCategory: "plyometrics",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Dumbbell_Seated_Box_Jump",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dumbbell_Seated_Box_Jump",

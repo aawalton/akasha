@@ -6,7 +6,7 @@ export const chinUp = {
   slug: "chin-up",
   title: "Chin-Up",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Chin-Up",
   exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Chin-Up",
   force: "pull",

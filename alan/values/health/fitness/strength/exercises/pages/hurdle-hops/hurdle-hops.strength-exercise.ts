@@ -6,7 +6,7 @@ export const hurdleHops = {
   slug: "hurdle-hops",
   title: "Hurdle Hops",
   exerciseCategory: "plyometrics",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Hurdle_Hops",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Hurdle_Hops",

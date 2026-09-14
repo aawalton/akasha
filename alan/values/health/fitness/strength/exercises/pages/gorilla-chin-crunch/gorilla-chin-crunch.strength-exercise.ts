@@ -6,7 +6,7 @@ export const gorillaChinCrunch = {
   slug: "gorilla-chin-crunch",
   title: "Gorilla Chin/Crunch",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Gorilla_Chin_Crunch",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Gorilla_Chin_Crunch",

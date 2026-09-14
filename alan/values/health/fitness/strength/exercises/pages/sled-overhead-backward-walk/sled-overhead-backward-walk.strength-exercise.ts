@@ -6,7 +6,7 @@ export const sledOverheadBackwardWalk = {
   slug: "sled-overhead-backward-walk",
   title: "Sled Overhead Backward Walk",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Sled_Overhead_Backward_Walk",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Sled_Overhead_Backward_Walk",

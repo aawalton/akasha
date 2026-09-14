@@ -6,7 +6,7 @@ export const seatedOneArmCablePulleyRows = {
   slug: "seated-one-arm-cable-pulley-rows",
   title: "Seated One-arm Cable Pulley Rows",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Seated_One-arm_Cable_Pulley_Rows",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_One-arm_Cable_Pulley_Rows",

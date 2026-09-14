@@ -6,7 +6,7 @@ export const scissorKick = {
   slug: "scissor-kick",
   title: "Scissor Kick",
   exerciseCategory: "stretching",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Scissor_Kick",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Scissor_Kick",

@@ -6,7 +6,7 @@ export const seatedBentOverRearDeltRaise = {
   slug: "seated-bent-over-rear-delt-raise",
   title: "Seated Bent-Over Rear Delt Raise",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Seated_Bent-Over_Rear_Delt_Raise",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_Bent-Over_Rear_Delt_Raise",

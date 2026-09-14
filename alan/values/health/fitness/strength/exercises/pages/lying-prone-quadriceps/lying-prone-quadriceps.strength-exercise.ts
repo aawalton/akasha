@@ -6,7 +6,7 @@ export const lyingProneQuadriceps = {
   slug: "lying-prone-quadriceps",
   title: "Lying Prone Quadriceps",
   exerciseCategory: "stretching",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Lying_Prone_Quadriceps",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lying_Prone_Quadriceps",

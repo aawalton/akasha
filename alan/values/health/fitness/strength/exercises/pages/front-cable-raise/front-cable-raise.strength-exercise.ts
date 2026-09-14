@@ -6,7 +6,7 @@ export const frontCableRaise = {
   slug: "front-cable-raise",
   title: "Front Cable Raise",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Front_Cable_Raise",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Front_Cable_Raise",

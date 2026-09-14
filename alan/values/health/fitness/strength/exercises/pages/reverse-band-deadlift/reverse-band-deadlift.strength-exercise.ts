@@ -6,7 +6,7 @@ export const reverseBandDeadlift = {
   slug: "reverse-band-deadlift",
   title: "Reverse Band Deadlift",
   exerciseCategory: "powerlifting",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Reverse_Band_Deadlift",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Reverse_Band_Deadlift",

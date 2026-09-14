@@ -6,7 +6,7 @@ export const isometricWipers = {
   slug: "isometric-wipers",
   title: "Isometric Wipers",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Isometric_Wipers",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Isometric_Wipers",

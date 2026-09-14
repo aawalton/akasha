@@ -6,7 +6,7 @@ export const waiterWalk = {
   slug: "waiter-walk",
   title: "Waiter Walk",
   exerciseCategory: "strength",
-  equipment: "kettlebells",
+  equipment: "strength-exercise-implement/kettlebells",
   force: "static",
   gripDemand: "low",
   implementCount: 1,

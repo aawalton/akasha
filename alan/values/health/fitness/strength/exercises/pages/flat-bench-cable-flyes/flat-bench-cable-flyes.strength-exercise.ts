@@ -6,7 +6,7 @@ export const flatBenchCableFlyes = {
   slug: "flat-bench-cable-flyes",
   title: "Flat Bench Cable Flyes",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Flat_Bench_Cable_Flyes",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Flat_Bench_Cable_Flyes",

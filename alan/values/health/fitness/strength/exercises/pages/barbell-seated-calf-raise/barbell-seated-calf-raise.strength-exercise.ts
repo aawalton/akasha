@@ -6,7 +6,7 @@ export const barbellSeatedCalfRaise = {
   slug: "barbell-seated-calf-raise",
   title: "Barbell Seated Calf Raise",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Barbell_Seated_Calf_Raise",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Barbell_Seated_Calf_Raise",

@@ -6,7 +6,7 @@ export const narrowStanceHackSquats = {
   slug: "narrow-stance-hack-squats",
   title: "Narrow Stance Hack Squats",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Narrow_Stance_Hack_Squats",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Narrow_Stance_Hack_Squats",

@@ -6,7 +6,7 @@ export const lyingTBarRow = {
   slug: "lying-t-bar-row",
   title: "Lying T-Bar Row",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Lying_T-Bar_Row",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lying_T-Bar_Row",

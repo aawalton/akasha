@@ -6,7 +6,7 @@ export const rowingStationary = {
   slug: "rowing-stationary",
   title: "Rowing, Stationary",
   exerciseCategory: "cardio",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Rowing_Stationary",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Rowing_Stationary",

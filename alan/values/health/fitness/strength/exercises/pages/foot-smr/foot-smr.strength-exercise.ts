@@ -6,7 +6,7 @@ export const footSmr = {
   slug: "foot-smr",
   title: "Foot-SMR",
   exerciseCategory: "stretching",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Foot-SMR",
   exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Foot-SMR",
   force: "static",

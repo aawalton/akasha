@@ -6,7 +6,7 @@ export const cableRopeRearDeltRows = {
   slug: "cable-rope-rear-delt-rows",
   title: "Cable Rope Rear-Delt Rows",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Cable_Rope_Rear-Delt_Rows",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Cable_Rope_Rear-Delt_Rows",

@@ -6,7 +6,7 @@ export const dumbbellLyingSupination = {
   slug: "dumbbell-lying-supination",
   title: "Dumbbell Lying Supination",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Dumbbell_Lying_Supination",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dumbbell_Lying_Supination",

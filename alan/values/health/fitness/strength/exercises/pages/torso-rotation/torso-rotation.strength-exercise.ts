@@ -6,7 +6,7 @@ export const torsoRotation = {
   slug: "torso-rotation",
   title: "Torso Rotation",
   exerciseCategory: "stretching",
-  equipment: "exercise-ball",
+  equipment: "strength-exercise-implement/exercise-ball",
   exerciseExternalId: "Torso_Rotation",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Torso_Rotation",

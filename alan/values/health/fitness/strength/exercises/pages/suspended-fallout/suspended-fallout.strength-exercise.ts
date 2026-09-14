@@ -6,7 +6,7 @@ export const suspendedFallout = {
   slug: "suspended-fallout",
   title: "Suspended Fallout",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Suspended_Fallout",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Suspended_Fallout",

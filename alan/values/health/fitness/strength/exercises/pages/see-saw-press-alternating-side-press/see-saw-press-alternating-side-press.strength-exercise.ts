@@ -6,7 +6,7 @@ export const seeSawPressAlternatingSidePress = {
   slug: "see-saw-press-alternating-side-press",
   title: "See-Saw Press (Alternating Side Press)",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "See-Saw_Press_Alternating_Side_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/See-Saw_Press_Alternating_Side_Press",

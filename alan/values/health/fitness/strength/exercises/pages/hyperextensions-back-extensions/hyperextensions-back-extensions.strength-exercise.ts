@@ -6,7 +6,7 @@ export const hyperextensionsBackExtensions = {
   slug: "hyperextensions-back-extensions",
   title: "Hyperextensions (Back Extensions)",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Hyperextensions_Back_Extensions",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Hyperextensions_Back_Extensions",

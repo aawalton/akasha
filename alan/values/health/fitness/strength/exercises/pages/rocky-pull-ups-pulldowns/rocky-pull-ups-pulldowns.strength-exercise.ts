@@ -6,7 +6,7 @@ export const rockyPullUpsPulldowns = {
   slug: "rocky-pull-ups-pulldowns",
   title: "Rocky Pull-Ups/Pulldowns",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Rocky_Pull-Ups_Pulldowns",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Rocky_Pull-Ups_Pulldowns",

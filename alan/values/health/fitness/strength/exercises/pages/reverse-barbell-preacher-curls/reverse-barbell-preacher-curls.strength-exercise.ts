@@ -6,7 +6,7 @@ export const reverseBarbellPreacherCurls = {
   slug: "reverse-barbell-preacher-curls",
   title: "Reverse Barbell Preacher Curls",
   exerciseCategory: "strength",
-  equipment: "e-z-curl-bar",
+  equipment: "strength-exercise-implement/e-z-curl-bar",
   exerciseExternalId: "Reverse_Barbell_Preacher_Curls",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Reverse_Barbell_Preacher_Curls",

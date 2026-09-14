@@ -6,7 +6,7 @@ export const dumbbellLyingPronation = {
   slug: "dumbbell-lying-pronation",
   title: "Dumbbell Lying Pronation",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Dumbbell_Lying_Pronation",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dumbbell_Lying_Pronation",

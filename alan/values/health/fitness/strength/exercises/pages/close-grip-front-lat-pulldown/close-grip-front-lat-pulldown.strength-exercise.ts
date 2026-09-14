@@ -6,7 +6,7 @@ export const closeGripFrontLatPulldown = {
   slug: "close-grip-front-lat-pulldown",
   title: "Close-Grip Front Lat Pulldown",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Close-Grip_Front_Lat_Pulldown",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Close-Grip_Front_Lat_Pulldown",

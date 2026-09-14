@@ -6,7 +6,7 @@ export const heavingSnatchBalance = {
   slug: "heaving-snatch-balance",
   title: "Heaving Snatch Balance",
   exerciseCategory: "olympic-weightlifting",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Heaving_Snatch_Balance",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Heaving_Snatch_Balance",

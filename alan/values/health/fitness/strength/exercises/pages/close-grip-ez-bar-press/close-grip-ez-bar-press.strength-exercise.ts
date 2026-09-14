@@ -6,7 +6,7 @@ export const closeGripEzBarPress = {
   slug: "close-grip-ez-bar-press",
   title: "Close-Grip EZ-Bar Press",
   exerciseCategory: "strength",
-  equipment: "e-z-curl-bar",
+  equipment: "strength-exercise-implement/e-z-curl-bar",
   exerciseExternalId: "Close-Grip_EZ-Bar_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Close-Grip_EZ-Bar_Press",

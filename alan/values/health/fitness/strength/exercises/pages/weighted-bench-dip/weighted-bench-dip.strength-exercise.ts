@@ -6,7 +6,7 @@ export const weightedBenchDip = {
   slug: "weighted-bench-dip",
   title: "Weighted Bench Dip",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Weighted_Bench_Dip",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Weighted_Bench_Dip",

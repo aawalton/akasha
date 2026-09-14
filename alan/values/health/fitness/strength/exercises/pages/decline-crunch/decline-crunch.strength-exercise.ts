@@ -6,7 +6,7 @@ export const declineCrunch = {
   slug: "decline-crunch",
   title: "Decline Crunch",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Decline_Crunch",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Decline_Crunch",

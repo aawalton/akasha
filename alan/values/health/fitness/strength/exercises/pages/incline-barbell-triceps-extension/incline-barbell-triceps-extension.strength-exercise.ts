@@ -6,7 +6,7 @@ export const inclineBarbellTricepsExtension = {
   slug: "incline-barbell-triceps-extension",
   title: "Incline Barbell Triceps Extension",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Incline_Barbell_Triceps_Extension",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Incline_Barbell_Triceps_Extension",

@@ -6,7 +6,7 @@ export const dragCurl = {
   slug: "drag-curl",
   title: "Drag Curl",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Drag_Curl",
   exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Drag_Curl",
   force: "pull",

@@ -6,7 +6,7 @@ export const bandSkullCrusher = {
   slug: "band-skull-crusher",
   title: "Band Skull Crusher",
   exerciseCategory: "strength",
-  equipment: "bands",
+  equipment: "strength-exercise-implement/bands",
   exerciseExternalId: "Band_Skull_Crusher",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Band_Skull_Crusher",

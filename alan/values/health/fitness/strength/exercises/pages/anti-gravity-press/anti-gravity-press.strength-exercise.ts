@@ -6,7 +6,7 @@ export const antiGravityPress = {
   slug: "anti-gravity-press",
   title: "Anti-Gravity Press",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Anti-Gravity_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Anti-Gravity_Press",

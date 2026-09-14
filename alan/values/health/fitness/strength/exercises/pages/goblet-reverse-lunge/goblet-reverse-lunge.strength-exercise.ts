@@ -6,7 +6,7 @@ export const gobletReverseLunge = {
   slug: "goblet-reverse-lunge",
   title: "Goblet Reverse Lunge",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   force: "push",
   gripDemand: "low",
   implementCount: 1,

@@ -6,7 +6,7 @@ export const pushupsCloseAndWideHandPositions = {
   slug: "pushups-close-and-wide-hand-positions",
   title: "Pushups (Close and Wide Hand Positions)",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Pushups_Close_and_Wide_Hand_Positions",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Pushups_Close_and_Wide_Hand_Positions",

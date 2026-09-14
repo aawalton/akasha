@@ -6,7 +6,7 @@ export const wideGripDeclineBarbellBenchPress = {
   slug: "wide-grip-decline-barbell-bench-press",
   title: "Wide-Grip Decline Barbell Bench Press",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Wide-Grip_Decline_Barbell_Bench_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Wide-Grip_Decline_Barbell_Bench_Press",

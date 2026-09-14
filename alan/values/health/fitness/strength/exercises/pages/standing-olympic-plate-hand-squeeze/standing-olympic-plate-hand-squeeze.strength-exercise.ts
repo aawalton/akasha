@@ -6,7 +6,7 @@ export const standingOlympicPlateHandSqueeze = {
   slug: "standing-olympic-plate-hand-squeeze",
   title: "Standing Olympic Plate Hand Squeeze",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Standing_Olympic_Plate_Hand_Squeeze",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Olympic_Plate_Hand_Squeeze",

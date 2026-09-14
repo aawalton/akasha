@@ -6,7 +6,7 @@ export const wideGripRearPullUp = {
   slug: "wide-grip-rear-pull-up",
   title: "Wide-Grip Rear Pull-Up",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Wide-Grip_Rear_Pull-Up",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Wide-Grip_Rear_Pull-Up",

@@ -6,7 +6,7 @@ export const seatedBandHamstringCurl = {
   slug: "seated-band-hamstring-curl",
   title: "Seated Band Hamstring Curl",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Seated_Band_Hamstring_Curl",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_Band_Hamstring_Curl",

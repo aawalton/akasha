@@ -6,7 +6,7 @@ export const seatedTwoArmPalmsUpLowPulleyWristCurl = {
   slug: "seated-two-arm-palms-up-low-pulley-wrist-curl",
   title: "Seated Two-Arm Palms-Up Low-Pulley Wrist Curl",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl",

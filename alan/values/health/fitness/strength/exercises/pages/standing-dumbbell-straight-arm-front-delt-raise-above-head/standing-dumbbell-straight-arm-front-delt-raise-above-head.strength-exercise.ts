@@ -6,7 +6,7 @@ export const standingDumbbellStraightArmFrontDeltRaiseAboveHead = {
   slug: "standing-dumbbell-straight-arm-front-delt-raise-above-head",
   title: "Standing Dumbbell Straight-Arm Front Delt Raise Above Head",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head",

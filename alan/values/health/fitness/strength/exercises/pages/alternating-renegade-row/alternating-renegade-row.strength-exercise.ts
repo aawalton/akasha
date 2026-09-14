@@ -6,7 +6,7 @@ export const alternatingRenegadeRow = {
   slug: "alternating-renegade-row",
   title: "Alternating Renegade Row",
   exerciseCategory: "strength",
-  equipment: "kettlebells",
+  equipment: "strength-exercise-implement/kettlebells",
   exerciseExternalId: "Alternating_Renegade_Row",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Alternating_Renegade_Row",

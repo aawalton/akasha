@@ -6,7 +6,7 @@ export const lyingTricepsPress = {
   slug: "lying-triceps-press",
   title: "Lying Triceps Press",
   exerciseCategory: "strength",
-  equipment: "e-z-curl-bar",
+  equipment: "strength-exercise-implement/e-z-curl-bar",
   exerciseExternalId: "Lying_Triceps_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lying_Triceps_Press",

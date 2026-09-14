@@ -6,7 +6,7 @@ export const barbellWalkingLunge = {
   slug: "barbell-walking-lunge",
   title: "Barbell Walking Lunge",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Barbell_Walking_Lunge",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Barbell_Walking_Lunge",

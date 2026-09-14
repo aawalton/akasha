@@ -6,7 +6,7 @@ export const weightedSitUpsWithBands = {
   slug: "weighted-sit-ups-with-bands",
   title: "Weighted Sit-Ups - With Bands",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Weighted_Sit-Ups_-_With_Bands",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Weighted_Sit-Ups_-_With_Bands",

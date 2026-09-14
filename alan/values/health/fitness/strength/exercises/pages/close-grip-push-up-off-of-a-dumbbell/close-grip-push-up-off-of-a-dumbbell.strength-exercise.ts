@@ -6,7 +6,7 @@ export const closeGripPushUpOffOfADumbbell = {
   slug: "close-grip-push-up-off-of-a-dumbbell",
   title: "Close-Grip Push-Up off of a Dumbbell",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Close-Grip_Push-Up_off_of_a_Dumbbell",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Close-Grip_Push-Up_off_of_a_Dumbbell",

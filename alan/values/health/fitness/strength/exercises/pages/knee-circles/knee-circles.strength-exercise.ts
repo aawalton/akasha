@@ -6,7 +6,7 @@ export const kneeCircles = {
   slug: "knee-circles",
   title: "Knee Circles",
   exerciseCategory: "stretching",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Knee_Circles",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Knee_Circles",

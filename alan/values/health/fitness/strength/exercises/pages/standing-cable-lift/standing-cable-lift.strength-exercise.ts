@@ -6,7 +6,7 @@ export const standingCableLift = {
   slug: "standing-cable-lift",
   title: "Standing Cable Lift",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Standing_Cable_Lift",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Cable_Lift",

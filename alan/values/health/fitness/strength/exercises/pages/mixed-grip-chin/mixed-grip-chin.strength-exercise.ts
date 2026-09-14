@@ -6,7 +6,7 @@ export const mixedGripChin = {
   slug: "mixed-grip-chin",
   title: "Mixed Grip Chin",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Mixed_Grip_Chin",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Mixed_Grip_Chin",

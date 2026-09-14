@@ -6,7 +6,7 @@ export const medicineBallFullTwist = {
   slug: "medicine-ball-full-twist",
   title: "Medicine Ball Full Twist",
   exerciseCategory: "plyometrics",
-  equipment: "medicine-ball",
+  equipment: "strength-exercise-implement/medicine-ball",
   exerciseExternalId: "Medicine_Ball_Full_Twist",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Medicine_Ball_Full_Twist",

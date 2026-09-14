@@ -6,7 +6,7 @@ export const otisUp = {
   slug: "otis-up",
   title: "Otis-Up",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Otis-Up",
   exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Otis-Up",
   force: "pull",

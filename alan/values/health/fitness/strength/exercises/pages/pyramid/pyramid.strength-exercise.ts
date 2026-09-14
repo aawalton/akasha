@@ -6,7 +6,7 @@ export const pyramid = {
   slug: "pyramid",
   title: "Pyramid",
   exerciseCategory: "stretching",
-  equipment: "exercise-ball",
+  equipment: "strength-exercise-implement/exercise-ball",
   exerciseExternalId: "Pyramid",
   exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Pyramid",
   force: "static",

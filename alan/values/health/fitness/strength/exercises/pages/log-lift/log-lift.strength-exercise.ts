@@ -6,7 +6,7 @@ export const logLift = {
   slug: "log-lift",
   title: "Log Lift",
   exerciseCategory: "strongman",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Log_Lift",
   exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Log_Lift",
   force: "push",

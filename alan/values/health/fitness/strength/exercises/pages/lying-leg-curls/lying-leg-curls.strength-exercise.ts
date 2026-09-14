@@ -6,7 +6,7 @@ export const lyingLegCurls = {
   slug: "lying-leg-curls",
   title: "Lying Leg Curls",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Lying_Leg_Curls",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lying_Leg_Curls",

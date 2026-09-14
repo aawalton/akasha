@@ -6,7 +6,7 @@ export const leverageDeadlift = {
   slug: "leverage-deadlift",
   title: "Leverage Deadlift",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Leverage_Deadlift",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Leverage_Deadlift",

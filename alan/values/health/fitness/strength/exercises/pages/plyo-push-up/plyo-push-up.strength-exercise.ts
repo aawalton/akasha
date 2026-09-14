@@ -6,7 +6,7 @@ export const plyoPushUp = {
   slug: "plyo-push-up",
   title: "Plyo Push-up",
   exerciseCategory: "plyometrics",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Plyo_Push-up",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Plyo_Push-up",

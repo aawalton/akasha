@@ -6,7 +6,7 @@ export const inclineDumbbellFlyesWithATwist = {
   slug: "incline-dumbbell-flyes-with-a-twist",
   title: "Incline Dumbbell Flyes - With A Twist",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Incline_Dumbbell_Flyes_-_With_A_Twist",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Incline_Dumbbell_Flyes_-_With_A_Twist",

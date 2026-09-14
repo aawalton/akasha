@@ -6,7 +6,7 @@ export const lateralRaiseWithBands = {
   slug: "lateral-raise-with-bands",
   title: "Lateral Raise - With Bands",
   exerciseCategory: "strength",
-  equipment: "bands",
+  equipment: "strength-exercise-implement/bands",
   exerciseExternalId: "Lateral_Raise_-_With_Bands",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lateral_Raise_-_With_Bands",

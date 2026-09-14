@@ -6,7 +6,7 @@ export const gluteHamRaise = {
   slug: "glute-ham-raise",
   title: "Glute Ham Raise",
   exerciseCategory: "powerlifting",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Glute_Ham_Raise",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Glute_Ham_Raise",

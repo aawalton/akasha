@@ -6,7 +6,7 @@ export const bodyTricepPress = {
   slug: "body-tricep-press",
   title: "Body Tricep Press",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Body_Tricep_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Body_Tricep_Press",

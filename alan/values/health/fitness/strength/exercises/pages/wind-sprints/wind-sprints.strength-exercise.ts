@@ -6,7 +6,7 @@ export const windSprints = {
   slug: "wind-sprints",
   title: "Wind Sprints",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Wind_Sprints",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Wind_Sprints",

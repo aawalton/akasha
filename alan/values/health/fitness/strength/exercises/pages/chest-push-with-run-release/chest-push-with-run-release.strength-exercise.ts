@@ -6,7 +6,7 @@ export const chestPushWithRunRelease = {
   slug: "chest-push-with-run-release",
   title: "Chest Push with Run Release",
   exerciseCategory: "plyometrics",
-  equipment: "medicine-ball",
+  equipment: "strength-exercise-implement/medicine-ball",
   exerciseExternalId: "Chest_Push_with_Run_Release",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Chest_Push_with_Run_Release",

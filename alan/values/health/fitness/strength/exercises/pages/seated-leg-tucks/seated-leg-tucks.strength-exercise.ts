@@ -6,7 +6,7 @@ export const seatedLegTucks = {
   slug: "seated-leg-tucks",
   title: "Seated Leg Tucks",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Seated_Leg_Tucks",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_Leg_Tucks",

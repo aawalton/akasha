@@ -6,7 +6,7 @@ export const chestPushFrom3PointStance = {
   slug: "chest-push-from-3-point-stance",
   title: "Chest Push from 3 point stance",
   exerciseCategory: "plyometrics",
-  equipment: "medicine-ball",
+  equipment: "strength-exercise-implement/medicine-ball",
   exerciseExternalId: "Chest_Push_from_3_point_stance",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Chest_Push_from_3_point_stance",

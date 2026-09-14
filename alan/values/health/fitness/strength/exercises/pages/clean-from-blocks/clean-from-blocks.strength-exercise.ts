@@ -6,7 +6,7 @@ export const cleanFromBlocks = {
   slug: "clean-from-blocks",
   title: "Clean from Blocks",
   exerciseCategory: "olympic-weightlifting",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Clean_from_Blocks",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Clean_from_Blocks",

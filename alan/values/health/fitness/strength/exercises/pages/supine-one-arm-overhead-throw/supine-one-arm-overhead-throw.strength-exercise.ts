@@ -6,7 +6,7 @@ export const supineOneArmOverheadThrow = {
   slug: "supine-one-arm-overhead-throw",
   title: "Supine One-Arm Overhead Throw",
   exerciseCategory: "plyometrics",
-  equipment: "medicine-ball",
+  equipment: "strength-exercise-implement/medicine-ball",
   exerciseExternalId: "Supine_One-Arm_Overhead_Throw",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Supine_One-Arm_Overhead_Throw",

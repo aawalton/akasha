@@ -6,7 +6,7 @@ export const seatedGoodMornings = {
   slug: "seated-good-mornings",
   title: "Seated Good Mornings",
   exerciseCategory: "powerlifting",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Seated_Good_Mornings",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_Good_Mornings",

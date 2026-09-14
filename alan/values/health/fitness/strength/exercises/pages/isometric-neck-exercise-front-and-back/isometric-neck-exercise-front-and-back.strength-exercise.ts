@@ -6,7 +6,7 @@ export const isometricNeckExerciseFrontAndBack = {
   slug: "isometric-neck-exercise-front-and-back",
   title: "Isometric Neck Exercise - Front And Back",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Isometric_Neck_Exercise_-_Front_And_Back",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Isometric_Neck_Exercise_-_Front_And_Back",

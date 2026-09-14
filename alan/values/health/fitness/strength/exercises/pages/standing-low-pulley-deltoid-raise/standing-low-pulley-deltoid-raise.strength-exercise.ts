@@ -6,7 +6,7 @@ export const standingLowPulleyDeltoidRaise = {
   slug: "standing-low-pulley-deltoid-raise",
   title: "Standing Low-Pulley Deltoid Raise",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Standing_Low-Pulley_Deltoid_Raise",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Low-Pulley_Deltoid_Raise",

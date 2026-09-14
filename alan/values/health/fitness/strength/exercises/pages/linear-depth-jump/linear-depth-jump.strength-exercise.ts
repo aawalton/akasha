@@ -6,7 +6,7 @@ export const linearDepthJump = {
   slug: "linear-depth-jump",
   title: "Linear Depth Jump",
   exerciseCategory: "plyometrics",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Linear_Depth_Jump",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Linear_Depth_Jump",

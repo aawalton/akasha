@@ -6,7 +6,7 @@ export const scissorsJump = {
   slug: "scissors-jump",
   title: "Scissors Jump",
   exerciseCategory: "plyometrics",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Scissors_Jump",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Scissors_Jump",

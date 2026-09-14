@@ -6,7 +6,7 @@ export const barbellSideBend = {
   slug: "barbell-side-bend",
   title: "Barbell Side Bend",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Barbell_Side_Bend",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Barbell_Side_Bend",

@@ -6,7 +6,7 @@ export const standingDumbbellReverseCurl = {
   slug: "standing-dumbbell-reverse-curl",
   title: "Standing Dumbbell Reverse Curl",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Standing_Dumbbell_Reverse_Curl",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Dumbbell_Reverse_Curl",

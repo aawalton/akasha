@@ -6,7 +6,7 @@ export const alternateHeelTouchers = {
   slug: "alternate-heel-touchers",
   title: "Alternate Heel Touchers",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Alternate_Heel_Touchers",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Alternate_Heel_Touchers",

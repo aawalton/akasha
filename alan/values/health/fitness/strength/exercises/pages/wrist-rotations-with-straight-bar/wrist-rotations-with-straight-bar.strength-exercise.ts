@@ -6,7 +6,7 @@ export const wristRotationsWithStraightBar = {
   slug: "wrist-rotations-with-straight-bar",
   title: "Wrist Rotations with Straight Bar",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Wrist_Rotations_with_Straight_Bar",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Wrist_Rotations_with_Straight_Bar",

@@ -6,7 +6,7 @@ export const crunchLegsOnExerciseBall = {
   slug: "crunch-legs-on-exercise-ball",
   title: "Crunch - Legs On Exercise Ball",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Crunch_-_Legs_On_Exercise_Ball",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Crunch_-_Legs_On_Exercise_Ball",

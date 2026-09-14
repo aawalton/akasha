@@ -6,7 +6,7 @@ export const machineTricepsExtension = {
   slug: "machine-triceps-extension",
   title: "Machine Triceps Extension",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Machine_Triceps_Extension",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Machine_Triceps_Extension",

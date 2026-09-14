@@ -6,7 +6,7 @@ export const standingPalmsUpBarbellBehindTheBackWristCurl = {
   slug: "standing-palms-up-barbell-behind-the-back-wrist-curl",
   title: "Standing Palms-Up Barbell Behind The Back Wrist Curl",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl",

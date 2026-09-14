@@ -6,7 +6,7 @@ export const rockingStandingCalfRaise = {
   slug: "rocking-standing-calf-raise",
   title: "Rocking Standing Calf Raise",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Rocking_Standing_Calf_Raise",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Rocking_Standing_Calf_Raise",

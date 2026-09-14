@@ -6,7 +6,7 @@ export const lyingCableCurl = {
   slug: "lying-cable-curl",
   title: "Lying Cable Curl",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Lying_Cable_Curl",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lying_Cable_Curl",

@@ -6,7 +6,7 @@ export const iliotibialTractSmr = {
   slug: "iliotibial-tract-smr",
   title: "Iliotibial Tract-SMR",
   exerciseCategory: "stretching",
-  equipment: "foam-roll",
+  equipment: "strength-exercise-implement/foam-roll",
   exerciseExternalId: "Iliotibial_Tract-SMR",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Iliotibial_Tract-SMR",

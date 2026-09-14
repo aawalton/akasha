@@ -6,7 +6,7 @@ export const bicyclingStationary = {
   slug: "bicycling-stationary",
   title: "Bicycling, Stationary",
   exerciseCategory: "cardio",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Bicycling_Stationary",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Bicycling_Stationary",

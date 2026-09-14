@@ -6,7 +6,7 @@ export const dumbbellTricepExtensionPronatedGrip = {
   slug: "dumbbell-tricep-extension-pronated-grip",
   title: "Dumbbell Tricep Extension -Pronated Grip",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Dumbbell_Tricep_Extension_-Pronated_Grip",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dumbbell_Tricep_Extension_-Pronated_Grip",

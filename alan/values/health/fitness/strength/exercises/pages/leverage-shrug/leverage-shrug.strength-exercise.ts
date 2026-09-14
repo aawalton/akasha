@@ -6,7 +6,7 @@ export const leverageShrug = {
   slug: "leverage-shrug",
   title: "Leverage Shrug",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Leverage_Shrug",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Leverage_Shrug",

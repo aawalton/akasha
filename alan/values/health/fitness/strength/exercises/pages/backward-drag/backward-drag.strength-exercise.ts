@@ -6,7 +6,7 @@ export const backwardDrag = {
   slug: "backward-drag",
   title: "Backward Drag",
   exerciseCategory: "strongman",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Backward_Drag",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Backward_Drag",

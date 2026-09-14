@@ -6,7 +6,7 @@ export const alternatingKettlebellPress = {
   slug: "alternating-kettlebell-press",
   title: "Alternating Kettlebell Press",
   exerciseCategory: "strength",
-  equipment: "kettlebells",
+  equipment: "strength-exercise-implement/kettlebells",
   exerciseExternalId: "Alternating_Kettlebell_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Alternating_Kettlebell_Press",

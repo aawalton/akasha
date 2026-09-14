@@ -6,7 +6,7 @@ export const intermediateHipFlexorAndQuadStretch = {
   slug: "intermediate-hip-flexor-and-quad-stretch",
   title: "Intermediate Hip Flexor and Quad Stretch",
   exerciseCategory: "stretching",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Intermediate_Hip_Flexor_and_Quad_Stretch",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Intermediate_Hip_Flexor_and_Quad_Stretch",

@@ -6,7 +6,7 @@ export const standingTowelTricepsExtension = {
   slug: "standing-towel-triceps-extension",
   title: "Standing Towel Triceps Extension",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Standing_Towel_Triceps_Extension",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Towel_Triceps_Extension",

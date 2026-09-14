@@ -6,7 +6,7 @@ export const groiners = {
   slug: "groiners",
   title: "Groiners",
   exerciseCategory: "stretching",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Groiners",
   exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Groiners",
   force: "pull",

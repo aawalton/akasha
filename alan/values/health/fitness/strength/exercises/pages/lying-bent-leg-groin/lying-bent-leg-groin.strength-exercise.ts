@@ -6,7 +6,7 @@ export const lyingBentLegGroin = {
   slug: "lying-bent-leg-groin",
   title: "Lying Bent Leg Groin",
   exerciseCategory: "stretching",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Lying_Bent_Leg_Groin",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lying_Bent_Leg_Groin",

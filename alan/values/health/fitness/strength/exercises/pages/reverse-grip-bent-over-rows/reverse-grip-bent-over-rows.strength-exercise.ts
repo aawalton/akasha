@@ -6,7 +6,7 @@ export const reverseGripBentOverRows = {
   slug: "reverse-grip-bent-over-rows",
   title: "Reverse Grip Bent-Over Rows",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Reverse_Grip_Bent-Over_Rows",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Reverse_Grip_Bent-Over_Rows",

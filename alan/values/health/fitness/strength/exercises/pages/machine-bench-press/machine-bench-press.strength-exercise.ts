@@ -6,7 +6,7 @@ export const machineBenchPress = {
   slug: "machine-bench-press",
   title: "Machine Bench Press",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Machine_Bench_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Machine_Bench_Press",

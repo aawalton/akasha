@@ -6,7 +6,7 @@ export const seatedHeadHarnessNeckResistance = {
   slug: "seated-head-harness-neck-resistance",
   title: "Seated Head Harness Neck Resistance",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Seated_Head_Harness_Neck_Resistance",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_Head_Harness_Neck_Resistance",

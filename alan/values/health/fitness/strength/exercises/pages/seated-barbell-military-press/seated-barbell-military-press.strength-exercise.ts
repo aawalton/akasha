@@ -6,7 +6,7 @@ export const seatedBarbellMilitaryPress = {
   slug: "seated-barbell-military-press",
   title: "Seated Barbell Military Press",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Seated_Barbell_Military_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_Barbell_Military_Press",

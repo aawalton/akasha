@@ -6,7 +6,7 @@ export const physioballHipBridge = {
   slug: "physioball-hip-bridge",
   title: "Physioball Hip Bridge",
   exerciseCategory: "strength",
-  equipment: "exercise-ball",
+  equipment: "strength-exercise-implement/exercise-ball",
   exerciseExternalId: "Physioball_Hip_Bridge",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Physioball_Hip_Bridge",

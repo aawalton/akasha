@@ -6,7 +6,7 @@ export const heavyBagThrust = {
   slug: "heavy-bag-thrust",
   title: "Heavy Bag Thrust",
   exerciseCategory: "plyometrics",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Heavy_Bag_Thrust",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Heavy_Bag_Thrust",

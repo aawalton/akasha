@@ -6,7 +6,7 @@ export const hammerCurls = {
   slug: "hammer-curls",
   title: "Hammer Curls",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Hammer_Curls",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Hammer_Curls",

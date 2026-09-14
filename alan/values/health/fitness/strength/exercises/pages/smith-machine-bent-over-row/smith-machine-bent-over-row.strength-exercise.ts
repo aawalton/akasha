@@ -6,7 +6,7 @@ export const smithMachineBentOverRow = {
   slug: "smith-machine-bent-over-row",
   title: "Smith Machine Bent Over Row",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Smith_Machine_Bent_Over_Row",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Smith_Machine_Bent_Over_Row",

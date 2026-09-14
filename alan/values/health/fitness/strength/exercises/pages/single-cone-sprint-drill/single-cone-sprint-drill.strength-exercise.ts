@@ -6,7 +6,7 @@ export const singleConeSprintDrill = {
   slug: "single-cone-sprint-drill",
   title: "Single-Cone Sprint Drill",
   exerciseCategory: "plyometrics",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Single-Cone_Sprint_Drill",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Single-Cone_Sprint_Drill",

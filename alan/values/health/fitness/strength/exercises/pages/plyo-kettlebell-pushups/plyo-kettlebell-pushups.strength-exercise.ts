@@ -6,7 +6,7 @@ export const plyoKettlebellPushups = {
   slug: "plyo-kettlebell-pushups",
   title: "Plyo Kettlebell Pushups",
   exerciseCategory: "strength",
-  equipment: "kettlebells",
+  equipment: "strength-exercise-implement/kettlebells",
   exerciseExternalId: "Plyo_Kettlebell_Pushups",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Plyo_Kettlebell_Pushups",

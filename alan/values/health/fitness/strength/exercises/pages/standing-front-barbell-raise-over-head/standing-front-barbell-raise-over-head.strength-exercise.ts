@@ -6,7 +6,7 @@ export const standingFrontBarbellRaiseOverHead = {
   slug: "standing-front-barbell-raise-over-head",
   title: "Standing Front Barbell Raise Over Head",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Standing_Front_Barbell_Raise_Over_Head",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Front_Barbell_Raise_Over_Head",

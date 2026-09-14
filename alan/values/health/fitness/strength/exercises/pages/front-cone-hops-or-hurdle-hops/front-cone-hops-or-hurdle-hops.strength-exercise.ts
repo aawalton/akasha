@@ -6,7 +6,7 @@ export const frontConeHopsOrHurdleHops = {
   slug: "front-cone-hops-or-hurdle-hops",
   title: "Front Cone Hops (or hurdle hops)",
   exerciseCategory: "plyometrics",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Front_Cone_Hops_or_hurdle_hops",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Front_Cone_Hops_or_hurdle_hops",

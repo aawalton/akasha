@@ -6,7 +6,7 @@ export const smithMachinePistolSquat = {
   slug: "smith-machine-pistol-squat",
   title: "Smith Machine Pistol Squat",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Smith_Machine_Pistol_Squat",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Smith_Machine_Pistol_Squat",

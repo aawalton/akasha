@@ -6,7 +6,7 @@ export const flutterKicks = {
   slug: "flutter-kicks",
   title: "Flutter Kicks",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Flutter_Kicks",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Flutter_Kicks",

@@ -6,7 +6,7 @@ export const cableChestPress = {
   slug: "cable-chest-press",
   title: "Cable Chest Press",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Cable_Chest_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Cable_Chest_Press",

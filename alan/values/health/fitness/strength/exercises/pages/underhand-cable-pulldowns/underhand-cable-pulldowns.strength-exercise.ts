@@ -6,7 +6,7 @@ export const underhandCablePulldowns = {
   slug: "underhand-cable-pulldowns",
   title: "Underhand Cable Pulldowns",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Underhand_Cable_Pulldowns",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Underhand_Cable_Pulldowns",

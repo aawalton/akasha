@@ -6,7 +6,7 @@ export const inclineInnerBicepsCurl = {
   slug: "incline-inner-biceps-curl",
   title: "Incline Inner Biceps Curl",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Incline_Inner_Biceps_Curl",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Incline_Inner_Biceps_Curl",

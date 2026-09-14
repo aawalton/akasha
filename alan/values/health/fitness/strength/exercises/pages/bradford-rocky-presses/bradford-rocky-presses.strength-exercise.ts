@@ -6,7 +6,7 @@ export const bradfordRockyPresses = {
   slug: "bradford-rocky-presses",
   title: "Bradford/Rocky Presses",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Bradford_Rocky_Presses",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Bradford_Rocky_Presses",

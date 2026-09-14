@@ -6,7 +6,7 @@ export const atlasStones = {
   slug: "atlas-stones",
   title: "Atlas Stones",
   exerciseCategory: "strongman",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Atlas_Stones",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Atlas_Stones",

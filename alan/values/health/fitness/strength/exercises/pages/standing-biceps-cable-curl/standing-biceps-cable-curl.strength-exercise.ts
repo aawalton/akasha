@@ -6,7 +6,7 @@ export const standingBicepsCableCurl = {
   slug: "standing-biceps-cable-curl",
   title: "Standing Biceps Cable Curl",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Standing_Biceps_Cable_Curl",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Biceps_Cable_Curl",

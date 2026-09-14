@@ -6,7 +6,7 @@ export const cableRussianTwists = {
   slug: "cable-russian-twists",
   title: "Cable Russian Twists",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Cable_Russian_Twists",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Cable_Russian_Twists",

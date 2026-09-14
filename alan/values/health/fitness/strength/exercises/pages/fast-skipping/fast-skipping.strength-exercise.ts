@@ -6,7 +6,7 @@ export const fastSkipping = {
   slug: "fast-skipping",
   title: "Fast Skipping",
   exerciseCategory: "plyometrics",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Fast_Skipping",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Fast_Skipping",

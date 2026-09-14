@@ -6,7 +6,7 @@ export const crucifix = {
   slug: "crucifix",
   title: "Crucifix",
   exerciseCategory: "strongman",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Crucifix",
   exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Crucifix",
   force: "static",

@@ -6,7 +6,7 @@ export const jeffersonSquats = {
   slug: "jefferson-squats",
   title: "Jefferson Squats",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Jefferson_Squats",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Jefferson_Squats",

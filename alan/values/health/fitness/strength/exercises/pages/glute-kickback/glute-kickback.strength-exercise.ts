@@ -6,7 +6,7 @@ export const gluteKickback = {
   slug: "glute-kickback",
   title: "Glute Kickback",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Glute_Kickback",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Glute_Kickback",

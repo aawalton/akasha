@@ -6,7 +6,7 @@ export const vBarPullup = {
   slug: "v-bar-pullup",
   title: "V-Bar Pullup",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "V-Bar_Pullup",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/V-Bar_Pullup",

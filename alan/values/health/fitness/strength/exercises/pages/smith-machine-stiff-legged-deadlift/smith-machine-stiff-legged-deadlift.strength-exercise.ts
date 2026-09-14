@@ -6,7 +6,7 @@ export const smithMachineStiffLeggedDeadlift = {
   slug: "smith-machine-stiff-legged-deadlift",
   title: "Smith Machine Stiff-Legged Deadlift",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Smith_Machine_Stiff-Legged_Deadlift",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Smith_Machine_Stiff-Legged_Deadlift",

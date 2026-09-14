@@ -6,7 +6,7 @@ export const tatePress = {
   slug: "tate-press",
   title: "Tate Press",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Tate_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Tate_Press",

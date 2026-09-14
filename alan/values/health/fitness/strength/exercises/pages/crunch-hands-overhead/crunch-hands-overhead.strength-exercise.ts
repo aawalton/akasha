@@ -6,7 +6,7 @@ export const crunchHandsOverhead = {
   slug: "crunch-hands-overhead",
   title: "Crunch - Hands Overhead",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Crunch_-_Hands_Overhead",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Crunch_-_Hands_Overhead",

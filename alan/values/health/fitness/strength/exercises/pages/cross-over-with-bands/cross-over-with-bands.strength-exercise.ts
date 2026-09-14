@@ -6,7 +6,7 @@ export const crossOverWithBands = {
   slug: "cross-over-with-bands",
   title: "Cross Over - With Bands",
   exerciseCategory: "strength",
-  equipment: "bands",
+  equipment: "strength-exercise-implement/bands",
   exerciseExternalId: "Cross_Over_-_With_Bands",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Cross_Over_-_With_Bands",

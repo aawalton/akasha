@@ -6,7 +6,7 @@ export const bodyweightSquat = {
   slug: "bodyweight-squat",
   title: "Bodyweight Squat",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Bodyweight_Squat",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Bodyweight_Squat",

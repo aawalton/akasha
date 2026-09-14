@@ -6,7 +6,7 @@ export const squatWithPlateMovers = {
   slug: "squat-with-plate-movers",
   title: "Squat with Plate Movers",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Squat_with_Plate_Movers",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Squat_with_Plate_Movers",

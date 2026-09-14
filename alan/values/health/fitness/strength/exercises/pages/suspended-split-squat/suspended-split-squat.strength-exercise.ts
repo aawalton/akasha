@@ -6,7 +6,7 @@ export const suspendedSplitSquat = {
   slug: "suspended-split-squat",
   title: "Suspended Split Squat",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Suspended_Split_Squat",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Suspended_Split_Squat",

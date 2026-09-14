@@ -6,7 +6,7 @@ export const hackSquat = {
   slug: "hack-squat",
   title: "Hack Squat",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Hack_Squat",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Hack_Squat",

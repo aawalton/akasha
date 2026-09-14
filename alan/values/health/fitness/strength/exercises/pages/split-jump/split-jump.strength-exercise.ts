@@ -6,7 +6,7 @@ export const splitJump = {
   slug: "split-jump",
   title: "Split Jump",
   exerciseCategory: "plyometrics",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Split_Jump",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Split_Jump",

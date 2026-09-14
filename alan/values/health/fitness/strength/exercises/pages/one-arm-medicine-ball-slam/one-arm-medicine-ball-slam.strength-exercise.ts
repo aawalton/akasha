@@ -6,7 +6,7 @@ export const oneArmMedicineBallSlam = {
   slug: "one-arm-medicine-ball-slam",
   title: "One-Arm Medicine Ball Slam",
   exerciseCategory: "strength",
-  equipment: "medicine-ball",
+  equipment: "strength-exercise-implement/medicine-ball",
   exerciseExternalId: "One-Arm_Medicine_Ball_Slam",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/One-Arm_Medicine_Ball_Slam",

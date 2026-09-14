@@ -6,7 +6,7 @@ export const standingCableWoodChop = {
   slug: "standing-cable-wood-chop",
   title: "Standing Cable Wood Chop",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Standing_Cable_Wood_Chop",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Cable_Wood_Chop",

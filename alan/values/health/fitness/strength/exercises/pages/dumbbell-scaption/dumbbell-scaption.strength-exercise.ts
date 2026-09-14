@@ -6,7 +6,7 @@ export const dumbbellScaption = {
   slug: "dumbbell-scaption",
   title: "Dumbbell Scaption",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Dumbbell_Scaption",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dumbbell_Scaption",

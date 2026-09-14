@@ -6,7 +6,7 @@ export const sledReverseFlye = {
   slug: "sled-reverse-flye",
   title: "Sled Reverse Flye",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Sled_Reverse_Flye",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Sled_Reverse_Flye",

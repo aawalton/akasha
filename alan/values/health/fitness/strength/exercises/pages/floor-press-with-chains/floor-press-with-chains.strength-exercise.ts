@@ -6,7 +6,7 @@ export const floorPressWithChains = {
   slug: "floor-press-with-chains",
   title: "Floor Press with Chains",
   exerciseCategory: "powerlifting",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Floor_Press_with_Chains",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Floor_Press_with_Chains",

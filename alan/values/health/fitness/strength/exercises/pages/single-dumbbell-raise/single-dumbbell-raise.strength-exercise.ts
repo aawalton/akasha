@@ -6,7 +6,7 @@ export const singleDumbbellRaise = {
   slug: "single-dumbbell-raise",
   title: "Single Dumbbell Raise",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Single_Dumbbell_Raise",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Single_Dumbbell_Raise",

@@ -6,7 +6,7 @@ export const extendedRangeOneArmKettlebellFloorPress = {
   slug: "extended-range-one-arm-kettlebell-floor-press",
   title: "Extended Range One-Arm Kettlebell Floor Press",
   exerciseCategory: "strength",
-  equipment: "kettlebells",
+  equipment: "strength-exercise-implement/kettlebells",
   exerciseExternalId: "Extended_Range_One-Arm_Kettlebell_Floor_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Extended_Range_One-Arm_Kettlebell_Floor_Press",

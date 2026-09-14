@@ -6,7 +6,7 @@ export const standingElevatedQuadStretch = {
   slug: "standing-elevated-quad-stretch",
   title: "Standing Elevated Quad Stretch",
   exerciseCategory: "stretching",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Standing_Elevated_Quad_Stretch",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Elevated_Quad_Stretch",

@@ -6,7 +6,7 @@ export const lyingRearDeltRaise = {
   slug: "lying-rear-delt-raise",
   title: "Lying Rear Delt Raise",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Lying_Rear_Delt_Raise",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lying_Rear_Delt_Raise",

@@ -6,7 +6,7 @@ export const platformHamstringSlides = {
   slug: "platform-hamstring-slides",
   title: "Platform Hamstring Slides",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Platform_Hamstring_Slides",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Platform_Hamstring_Slides",

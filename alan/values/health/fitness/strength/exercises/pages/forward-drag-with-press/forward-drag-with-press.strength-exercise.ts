@@ -6,7 +6,7 @@ export const forwardDragWithPress = {
   slug: "forward-drag-with-press",
   title: "Forward Drag with Press",
   exerciseCategory: "strongman",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Forward_Drag_with_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Forward_Drag_with_Press",

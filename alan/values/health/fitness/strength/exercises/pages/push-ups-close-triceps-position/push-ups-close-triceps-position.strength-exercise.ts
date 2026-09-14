@@ -6,7 +6,7 @@ export const pushUpsCloseTricepsPosition = {
   slug: "push-ups-close-triceps-position",
   title: "Push-Ups - Close Triceps Position",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Push-Ups_-_Close_Triceps_Position",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Push-Ups_-_Close_Triceps_Position",

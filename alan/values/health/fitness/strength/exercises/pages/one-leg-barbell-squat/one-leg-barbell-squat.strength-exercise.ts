@@ -6,7 +6,7 @@ export const oneLegBarbellSquat = {
   slug: "one-leg-barbell-squat",
   title: "One Leg Barbell Squat",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "One_Leg_Barbell_Squat",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/One_Leg_Barbell_Squat",

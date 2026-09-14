@@ -6,7 +6,7 @@ export const svendPress = {
   slug: "svend-press",
   title: "Svend Press",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Svend_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Svend_Press",

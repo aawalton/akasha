@@ -6,7 +6,7 @@ export const intermediateGroinStretch = {
   slug: "intermediate-groin-stretch",
   title: "Intermediate Groin Stretch",
   exerciseCategory: "stretching",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Intermediate_Groin_Stretch",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Intermediate_Groin_Stretch",

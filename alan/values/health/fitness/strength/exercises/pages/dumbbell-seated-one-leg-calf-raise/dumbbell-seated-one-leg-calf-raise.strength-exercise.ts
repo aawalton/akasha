@@ -6,7 +6,7 @@ export const dumbbellSeatedOneLegCalfRaise = {
   slug: "dumbbell-seated-one-leg-calf-raise",
   title: "Dumbbell Seated One-Leg Calf Raise",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Dumbbell_Seated_One-Leg_Calf_Raise",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dumbbell_Seated_One-Leg_Calf_Raise",

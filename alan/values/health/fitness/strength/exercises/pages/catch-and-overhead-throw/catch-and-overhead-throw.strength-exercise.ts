@@ -6,7 +6,7 @@ export const catchAndOverheadThrow = {
   slug: "catch-and-overhead-throw",
   title: "Catch and Overhead Throw",
   exerciseCategory: "plyometrics",
-  equipment: "medicine-ball",
+  equipment: "strength-exercise-implement/medicine-ball",
   exerciseExternalId: "Catch_and_Overhead_Throw",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Catch_and_Overhead_Throw",

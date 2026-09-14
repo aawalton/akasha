@@ -6,7 +6,7 @@ export const frontRaiseAndPullover = {
   slug: "front-raise-and-pullover",
   title: "Front Raise And Pullover",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Front_Raise_And_Pullover",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Front_Raise_And_Pullover",

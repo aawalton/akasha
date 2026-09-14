@@ -6,7 +6,7 @@ export const butterfly = {
   slug: "butterfly",
   title: "Butterfly",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Butterfly",
   exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Butterfly",
   force: "pull",

@@ -6,7 +6,7 @@ export const singleLegGluteBridge = {
   slug: "single-leg-glute-bridge",
   title: "Single Leg Glute Bridge",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Single_Leg_Glute_Bridge",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Single_Leg_Glute_Bridge",

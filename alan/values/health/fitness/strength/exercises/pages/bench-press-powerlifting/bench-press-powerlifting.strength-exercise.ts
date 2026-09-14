@@ -6,7 +6,7 @@ export const benchPressPowerlifting = {
   slug: "bench-press-powerlifting",
   title: "Bench Press - Powerlifting",
   exerciseCategory: "powerlifting",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Bench_Press_-_Powerlifting",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Bench_Press_-_Powerlifting",

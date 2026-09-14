@@ -6,7 +6,7 @@ export const barbellCurlsLyingAgainstAnIncline = {
   slug: "barbell-curls-lying-against-an-incline",
   title: "Barbell Curls Lying Against An Incline",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Barbell_Curls_Lying_Against_An_Incline",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Barbell_Curls_Lying_Against_An_Incline",

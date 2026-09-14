@@ -6,7 +6,7 @@ export const lungePassThrough = {
   slug: "lunge-pass-through",
   title: "Lunge Pass Through",
   exerciseCategory: "strength",
-  equipment: "kettlebells",
+  equipment: "strength-exercise-implement/kettlebells",
   exerciseExternalId: "Lunge_Pass_Through",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lunge_Pass_Through",

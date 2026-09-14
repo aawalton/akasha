@@ -6,7 +6,7 @@ export const anteriorTibialisSmr = {
   slug: "anterior-tibialis-smr",
   title: "Anterior Tibialis-SMR",
   exerciseCategory: "stretching",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Anterior_Tibialis-SMR",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Anterior_Tibialis-SMR",

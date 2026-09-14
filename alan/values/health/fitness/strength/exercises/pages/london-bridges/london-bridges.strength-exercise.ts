@@ -6,7 +6,7 @@ export const londonBridges = {
   slug: "london-bridges",
   title: "London Bridges",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "London_Bridges",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/London_Bridges",

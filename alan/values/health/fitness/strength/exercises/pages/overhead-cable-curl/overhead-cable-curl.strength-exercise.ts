@@ -6,7 +6,7 @@ export const overheadCableCurl = {
   slug: "overhead-cable-curl",
   title: "Overhead Cable Curl",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Overhead_Cable_Curl",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Overhead_Cable_Curl",

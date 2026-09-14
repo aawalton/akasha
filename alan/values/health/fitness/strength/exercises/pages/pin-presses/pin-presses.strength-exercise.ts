@@ -6,7 +6,7 @@ export const pinPresses = {
   slug: "pin-presses",
   title: "Pin Presses",
   exerciseCategory: "powerlifting",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Pin_Presses",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Pin_Presses",

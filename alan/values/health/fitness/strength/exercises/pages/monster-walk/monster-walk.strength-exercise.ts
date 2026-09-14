@@ -6,7 +6,7 @@ export const monsterWalk = {
   slug: "monster-walk",
   title: "Monster Walk",
   exerciseCategory: "strength",
-  equipment: "bands",
+  equipment: "strength-exercise-implement/bands",
   exerciseExternalId: "Monster_Walk",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Monster_Walk",

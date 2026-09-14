@@ -6,7 +6,7 @@ export const speedBandOverheadTriceps = {
   slug: "speed-band-overhead-triceps",
   title: "Speed Band Overhead Triceps",
   exerciseCategory: "strength",
-  equipment: "bands",
+  equipment: "strength-exercise-implement/bands",
   exerciseExternalId: "Speed_Band_Overhead_Triceps",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Speed_Band_Overhead_Triceps",

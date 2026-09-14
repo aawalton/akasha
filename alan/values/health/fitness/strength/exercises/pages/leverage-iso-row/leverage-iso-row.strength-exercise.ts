@@ -6,7 +6,7 @@ export const leverageIsoRow = {
   slug: "leverage-iso-row",
   title: "Leverage Iso Row",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Leverage_Iso_Row",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Leverage_Iso_Row",

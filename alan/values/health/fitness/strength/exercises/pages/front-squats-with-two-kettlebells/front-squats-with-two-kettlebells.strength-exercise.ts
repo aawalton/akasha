@@ -6,7 +6,7 @@ export const frontSquatsWithTwoKettlebells = {
   slug: "front-squats-with-two-kettlebells",
   title: "Front Squats With Two Kettlebells",
   exerciseCategory: "strength",
-  equipment: "kettlebells",
+  equipment: "strength-exercise-implement/kettlebells",
   exerciseExternalId: "Front_Squats_With_Two_Kettlebells",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Front_Squats_With_Two_Kettlebells",

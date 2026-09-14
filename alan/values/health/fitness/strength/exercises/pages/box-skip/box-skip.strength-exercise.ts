@@ -6,7 +6,7 @@ export const boxSkip = {
   slug: "box-skip",
   title: "Box Skip",
   exerciseCategory: "plyometrics",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Box_Skip",
   exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Box_Skip",
   force: "push",

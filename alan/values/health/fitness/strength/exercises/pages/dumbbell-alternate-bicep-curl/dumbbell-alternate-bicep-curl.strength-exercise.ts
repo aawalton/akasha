@@ -6,7 +6,7 @@ export const dumbbellAlternateBicepCurl = {
   slug: "dumbbell-alternate-bicep-curl",
   title: "Dumbbell Alternate Bicep Curl",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Dumbbell_Alternate_Bicep_Curl",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dumbbell_Alternate_Bicep_Curl",

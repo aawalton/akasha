@@ -6,7 +6,7 @@ export const abRoller = {
   slug: "ab-roller",
   title: "Ab Roller",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Ab_Roller",
   exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Ab_Roller",
   force: "pull",

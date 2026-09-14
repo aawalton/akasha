@@ -6,7 +6,7 @@ export const inclineDumbbellBenchWithPalmsFacingIn = {
   slug: "incline-dumbbell-bench-with-palms-facing-in",
   title: "Incline Dumbbell Bench With Palms Facing In",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Incline_Dumbbell_Bench_With_Palms_Facing_In",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Incline_Dumbbell_Bench_With_Palms_Facing_In",

@@ -6,7 +6,7 @@ export const weightedBallSideBend = {
   slug: "weighted-ball-side-bend",
   title: "Weighted Ball Side Bend",
   exerciseCategory: "strength",
-  equipment: "exercise-ball",
+  equipment: "strength-exercise-implement/exercise-ball",
   exerciseExternalId: "Weighted_Ball_Side_Bend",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Weighted_Ball_Side_Bend",

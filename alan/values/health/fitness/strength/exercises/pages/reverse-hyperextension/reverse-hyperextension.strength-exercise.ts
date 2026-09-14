@@ -6,7 +6,7 @@ export const reverseHyperextension = {
   slug: "reverse-hyperextension",
   title: "Reverse Hyperextension",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Reverse_Hyperextension",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Reverse_Hyperextension",

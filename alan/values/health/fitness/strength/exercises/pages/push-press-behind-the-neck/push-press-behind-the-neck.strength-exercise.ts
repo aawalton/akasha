@@ -6,7 +6,7 @@ export const pushPressBehindTheNeck = {
   slug: "push-press-behind-the-neck",
   title: "Push Press - Behind the Neck",
   exerciseCategory: "olympic-weightlifting",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Push_Press_-_Behind_the_Neck",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Push_Press_-_Behind_the_Neck",

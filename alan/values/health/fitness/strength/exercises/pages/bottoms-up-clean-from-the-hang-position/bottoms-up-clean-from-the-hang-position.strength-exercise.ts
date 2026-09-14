@@ -6,7 +6,7 @@ export const bottomsUpCleanFromTheHangPosition = {
   slug: "bottoms-up-clean-from-the-hang-position",
   title: "Bottoms-Up Clean From The Hang Position",
   exerciseCategory: "strength",
-  equipment: "kettlebells",
+  equipment: "strength-exercise-implement/kettlebells",
   exerciseExternalId: "Bottoms-Up_Clean_From_The_Hang_Position",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Bottoms-Up_Clean_From_The_Hang_Position",

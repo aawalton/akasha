@@ -6,7 +6,7 @@ export const seatedFrontDeltoid = {
   slug: "seated-front-deltoid",
   title: "Seated Front Deltoid",
   exerciseCategory: "stretching",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Seated_Front_Deltoid",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_Front_Deltoid",

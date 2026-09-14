@@ -6,7 +6,7 @@ export const brachialisSmr = {
   slug: "brachialis-smr",
   title: "Brachialis-SMR",
   exerciseCategory: "stretching",
-  equipment: "foam-roll",
+  equipment: "strength-exercise-implement/foam-roll",
   exerciseExternalId: "Brachialis-SMR",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Brachialis-SMR",

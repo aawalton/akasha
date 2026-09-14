@@ -6,7 +6,7 @@ export const gobletSquat = {
   slug: "goblet-squat",
   title: "Goblet Squat",
   exerciseCategory: "strength",
-  equipment: "kettlebells",
+  equipment: "strength-exercise-implement/kettlebells",
   exerciseExternalId: "Goblet_Squat",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Goblet_Squat",

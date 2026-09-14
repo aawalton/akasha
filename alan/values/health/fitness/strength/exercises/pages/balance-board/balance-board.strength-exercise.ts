@@ -6,7 +6,7 @@ export const balanceBoard = {
   slug: "balance-board",
   title: "Balance Board",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Balance_Board",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Balance_Board",

@@ -6,7 +6,7 @@ export const bentOverLowPulleySideLateral = {
   slug: "bent-over-low-pulley-side-lateral",
   title: "Bent Over Low-Pulley Side Lateral",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Bent_Over_Low-Pulley_Side_Lateral",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Bent_Over_Low-Pulley_Side_Lateral",

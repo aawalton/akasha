@@ -6,7 +6,7 @@ export const kettlebellSeatedPress = {
   slug: "kettlebell-seated-press",
   title: "Kettlebell Seated Press",
   exerciseCategory: "strength",
-  equipment: "kettlebells",
+  equipment: "strength-exercise-implement/kettlebells",
   exerciseExternalId: "Kettlebell_Seated_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Kettlebell_Seated_Press",

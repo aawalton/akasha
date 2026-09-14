@@ -6,7 +6,7 @@ export const elevatedBackLunge = {
   slug: "elevated-back-lunge",
   title: "Elevated Back Lunge",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Elevated_Back_Lunge",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Elevated_Back_Lunge",

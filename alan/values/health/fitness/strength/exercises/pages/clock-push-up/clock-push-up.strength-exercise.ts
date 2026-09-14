@@ -6,7 +6,7 @@ export const clockPushUp = {
   slug: "clock-push-up",
   title: "Clock Push-Up",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Clock_Push-Up",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Clock_Push-Up",

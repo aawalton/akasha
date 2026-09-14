@@ -6,7 +6,7 @@ export const buttUps = {
   slug: "butt-ups",
   title: "Butt-Ups",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Butt-Ups",
   exerciseExternalLink: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Butt-Ups",
   force: "pull",

@@ -6,7 +6,7 @@ export const inclineCableFlye = {
   slug: "incline-cable-flye",
   title: "Incline Cable Flye",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Incline_Cable_Flye",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Incline_Cable_Flye",

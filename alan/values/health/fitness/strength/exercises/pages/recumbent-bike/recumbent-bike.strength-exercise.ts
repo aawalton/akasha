@@ -6,7 +6,7 @@ export const recumbentBike = {
   slug: "recumbent-bike",
   title: "Recumbent Bike",
   exerciseCategory: "cardio",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Recumbent_Bike",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Recumbent_Bike",

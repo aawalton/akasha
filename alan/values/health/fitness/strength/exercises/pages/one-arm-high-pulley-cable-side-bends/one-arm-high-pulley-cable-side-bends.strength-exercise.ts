@@ -6,7 +6,7 @@ export const oneArmHighPulleyCableSideBends = {
   slug: "one-arm-high-pulley-cable-side-bends",
   title: "One-Arm High-Pulley Cable Side Bends",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "One-Arm_High-Pulley_Cable_Side_Bends",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/One-Arm_High-Pulley_Cable_Side_Bends",

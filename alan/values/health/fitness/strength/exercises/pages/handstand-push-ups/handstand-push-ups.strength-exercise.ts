@@ -6,7 +6,7 @@ export const handstandPushUps = {
   slug: "handstand-push-ups",
   title: "Handstand Push-Ups",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Handstand_Push-Ups",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Handstand_Push-Ups",

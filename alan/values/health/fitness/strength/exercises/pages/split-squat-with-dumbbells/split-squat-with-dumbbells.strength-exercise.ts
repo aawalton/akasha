@@ -6,7 +6,7 @@ export const splitSquatWithDumbbells = {
   slug: "split-squat-with-dumbbells",
   title: "Split Squat with Dumbbells",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Split_Squat_with_Dumbbells",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Split_Squat_with_Dumbbells",

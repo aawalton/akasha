@@ -6,7 +6,7 @@ export const sledOverheadTricepsExtension = {
   slug: "sled-overhead-triceps-extension",
   title: "Sled Overhead Triceps Extension",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Sled_Overhead_Triceps_Extension",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Sled_Overhead_Triceps_Extension",

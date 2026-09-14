@@ -6,7 +6,7 @@ export const sideJackknife = {
   slug: "side-jackknife",
   title: "Side Jackknife",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Side_Jackknife",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Side_Jackknife",

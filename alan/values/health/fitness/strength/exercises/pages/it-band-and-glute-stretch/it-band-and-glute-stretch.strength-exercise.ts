@@ -6,7 +6,7 @@ export const itBandAndGluteStretch = {
   slug: "it-band-and-glute-stretch",
   title: "IT Band and Glute Stretch",
   exerciseCategory: "stretching",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "IT_Band_and_Glute_Stretch",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/IT_Band_and_Glute_Stretch",

@@ -6,7 +6,7 @@ export const sandbagLoad = {
   slug: "sandbag-load",
   title: "Sandbag Load",
   exerciseCategory: "strongman",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Sandbag_Load",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Sandbag_Load",

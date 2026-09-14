@@ -6,7 +6,7 @@ export const calfMachineShoulderShrug = {
   slug: "calf-machine-shoulder-shrug",
   title: "Calf-Machine Shoulder Shrug",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Calf-Machine_Shoulder_Shrug",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Calf-Machine_Shoulder_Shrug",

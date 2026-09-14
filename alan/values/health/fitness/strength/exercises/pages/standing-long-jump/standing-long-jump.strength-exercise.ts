@@ -6,7 +6,7 @@ export const standingLongJump = {
   slug: "standing-long-jump",
   title: "Standing Long Jump",
   exerciseCategory: "plyometrics",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Standing_Long_Jump",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Long_Jump",

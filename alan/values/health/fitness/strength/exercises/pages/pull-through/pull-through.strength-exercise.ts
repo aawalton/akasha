@@ -6,7 +6,7 @@ export const pullThrough = {
   slug: "pull-through",
   title: "Pull Through",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Pull_Through",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Pull_Through",

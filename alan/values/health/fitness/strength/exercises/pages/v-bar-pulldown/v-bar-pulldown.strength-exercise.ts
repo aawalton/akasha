@@ -6,7 +6,7 @@ export const vBarPulldown = {
   slug: "v-bar-pulldown",
   title: "V-Bar Pulldown",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "V-Bar_Pulldown",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/V-Bar_Pulldown",

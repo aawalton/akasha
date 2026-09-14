@@ -6,7 +6,7 @@ export const weightedSissySquat = {
   slug: "weighted-sissy-squat",
   title: "Weighted Sissy Squat",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Weighted_Sissy_Squat",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Weighted_Sissy_Squat",

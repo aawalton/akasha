@@ -6,7 +6,7 @@ export const preacherCurl = {
   slug: "preacher-curl",
   title: "Preacher Curl",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Preacher_Curl",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Preacher_Curl",

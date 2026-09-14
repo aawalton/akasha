@@ -6,7 +6,7 @@ export const standingPalmsInDumbbellPress = {
   slug: "standing-palms-in-dumbbell-press",
   title: "Standing Palms-In Dumbbell Press",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Standing_Palms-In_Dumbbell_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Palms-In_Dumbbell_Press",

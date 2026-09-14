@@ -6,7 +6,7 @@ export const kettlebellPassBetweenTheLegs = {
   slug: "kettlebell-pass-between-the-legs",
   title: "Kettlebell Pass Between The Legs",
   exerciseCategory: "strength",
-  equipment: "kettlebells",
+  equipment: "strength-exercise-implement/kettlebells",
   exerciseExternalId: "Kettlebell_Pass_Between_The_Legs",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Kettlebell_Pass_Between_The_Legs",

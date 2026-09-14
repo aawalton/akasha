@@ -6,7 +6,7 @@ export const oneArmSideDeadlift = {
   slug: "one-arm-side-deadlift",
   title: "One-Arm Side Deadlift",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "One-Arm_Side_Deadlift",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/One-Arm_Side_Deadlift",

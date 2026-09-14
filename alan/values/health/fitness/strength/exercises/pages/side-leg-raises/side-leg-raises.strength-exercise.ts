@@ -6,7 +6,7 @@ export const sideLegRaises = {
   slug: "side-leg-raises",
   title: "Side Leg Raises",
   exerciseCategory: "stretching",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Side_Leg_Raises",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Side_Leg_Raises",

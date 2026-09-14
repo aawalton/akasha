@@ -6,7 +6,7 @@ export const oneArmSideLaterals = {
   slug: "one-arm-side-laterals",
   title: "One-Arm Side Laterals",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "One-Arm_Side_Laterals",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/One-Arm_Side_Laterals",

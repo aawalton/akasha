@@ -6,7 +6,7 @@ export const crossBodyCrunch = {
   slug: "cross-body-crunch",
   title: "Cross-Body Crunch",
   exerciseCategory: "strength",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Cross-Body_Crunch",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Cross-Body_Crunch",

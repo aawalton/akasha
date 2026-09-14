@@ -6,7 +6,7 @@ export const ironCross = {
   slug: "iron-cross",
   title: "Iron Cross",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Iron_Cross",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Iron_Cross",

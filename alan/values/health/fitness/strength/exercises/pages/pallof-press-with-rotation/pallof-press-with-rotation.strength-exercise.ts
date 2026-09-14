@@ -6,7 +6,7 @@ export const pallofPressWithRotation = {
   slug: "pallof-press-with-rotation",
   title: "Pallof Press With Rotation",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Pallof_Press_With_Rotation",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Pallof_Press_With_Rotation",

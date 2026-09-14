@@ -6,7 +6,7 @@ export const jerkDipSquat = {
   slug: "jerk-dip-squat",
   title: "Jerk Dip Squat",
   exerciseCategory: "olympic-weightlifting",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Jerk_Dip_Squat",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Jerk_Dip_Squat",

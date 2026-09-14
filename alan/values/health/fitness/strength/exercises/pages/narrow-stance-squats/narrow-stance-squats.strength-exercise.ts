@@ -6,7 +6,7 @@ export const narrowStanceSquats = {
   slug: "narrow-stance-squats",
   title: "Narrow Stance Squats",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Narrow_Stance_Squats",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Narrow_Stance_Squats",

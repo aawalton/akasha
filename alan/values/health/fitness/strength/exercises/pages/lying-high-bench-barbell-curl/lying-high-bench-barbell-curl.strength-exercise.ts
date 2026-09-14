@@ -6,7 +6,7 @@ export const lyingHighBenchBarbellCurl = {
   slug: "lying-high-bench-barbell-curl",
   title: "Lying High Bench Barbell Curl",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Lying_High_Bench_Barbell_Curl",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lying_High_Bench_Barbell_Curl",

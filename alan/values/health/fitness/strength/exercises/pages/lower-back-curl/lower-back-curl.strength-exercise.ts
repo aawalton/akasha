@@ -6,7 +6,7 @@ export const lowerBackCurl = {
   slug: "lower-back-curl",
   title: "Lower Back Curl",
   exerciseCategory: "stretching",
-  equipment: "body-only",
+  equipment: "strength-exercise-implement/body-only",
   exerciseExternalId: "Lower_Back_Curl",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lower_Back_Curl",

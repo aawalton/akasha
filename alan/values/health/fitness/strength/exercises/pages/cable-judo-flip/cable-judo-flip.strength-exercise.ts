@@ -6,7 +6,7 @@ export const cableJudoFlip = {
   slug: "cable-judo-flip",
   title: "Cable Judo Flip",
   exerciseCategory: "strength",
-  equipment: "cable",
+  equipment: "strength-exercise-implement/cable",
   exerciseExternalId: "Cable_Judo_Flip",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Cable_Judo_Flip",

@@ -6,7 +6,7 @@ export const chestPushMultipleResponse = {
   slug: "chest-push-multiple-response",
   title: "Chest Push (multiple response)",
   exerciseCategory: "plyometrics",
-  equipment: "medicine-ball",
+  equipment: "strength-exercise-implement/medicine-ball",
   exerciseExternalId: "Chest_Push_multiple_response",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Chest_Push_multiple_response",

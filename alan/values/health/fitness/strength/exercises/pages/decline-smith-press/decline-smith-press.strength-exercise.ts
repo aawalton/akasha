@@ -6,7 +6,7 @@ export const declineSmithPress = {
   slug: "decline-smith-press",
   title: "Decline Smith Press",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Decline_Smith_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Decline_Smith_Press",

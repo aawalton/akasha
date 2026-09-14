@@ -6,7 +6,7 @@ export const aroundTheWorlds = {
   slug: "around-the-worlds",
   title: "Around The Worlds",
   exerciseCategory: "strength",
-  equipment: "dumbbell",
+  equipment: "strength-exercise-implement/dumbbell",
   exerciseExternalId: "Around_The_Worlds",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Around_The_Worlds",

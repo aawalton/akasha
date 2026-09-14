@@ -6,7 +6,7 @@ export const bodyweightFlyes = {
   slug: "bodyweight-flyes",
   title: "Bodyweight Flyes",
   exerciseCategory: "strength",
-  equipment: "e-z-curl-bar",
+  equipment: "strength-exercise-implement/e-z-curl-bar",
   exerciseExternalId: "Bodyweight_Flyes",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Bodyweight_Flyes",

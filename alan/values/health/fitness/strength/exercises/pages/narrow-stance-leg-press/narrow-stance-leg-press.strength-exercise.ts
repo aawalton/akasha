@@ -6,7 +6,7 @@ export const narrowStanceLegPress = {
   slug: "narrow-stance-leg-press",
   title: "Narrow Stance Leg Press",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Narrow_Stance_Leg_Press",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Narrow_Stance_Leg_Press",

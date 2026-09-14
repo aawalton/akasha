@@ -6,7 +6,7 @@ export const parallelBarDip = {
   slug: "parallel-bar-dip",
   title: "Parallel Bar Dip",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Parallel_Bar_Dip",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Parallel_Bar_Dip",

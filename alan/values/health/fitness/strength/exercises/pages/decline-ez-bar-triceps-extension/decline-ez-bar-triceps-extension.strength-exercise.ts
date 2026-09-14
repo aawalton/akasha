@@ -6,7 +6,7 @@ export const declineEzBarTricepsExtension = {
   slug: "decline-ez-bar-triceps-extension",
   title: "Decline EZ Bar Triceps Extension",
   exerciseCategory: "strength",
-  equipment: "barbell",
+  equipment: "strength-exercise-implement/barbell",
   exerciseExternalId: "Decline_EZ_Bar_Triceps_Extension",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Decline_EZ_Bar_Triceps_Extension",

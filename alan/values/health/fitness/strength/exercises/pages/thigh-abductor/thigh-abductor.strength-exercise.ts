@@ -6,7 +6,7 @@ export const thighAbductor = {
   slug: "thigh-abductor",
   title: "Thigh Abductor",
   exerciseCategory: "strength",
-  equipment: "machine",
+  equipment: "strength-exercise-implement/machine",
   exerciseExternalId: "Thigh_Abductor",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Thigh_Abductor",

@@ -6,7 +6,7 @@ export const peronealsStretch = {
   slug: "peroneals-stretch",
   title: "Peroneals Stretch",
   exerciseCategory: "stretching",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Peroneals_Stretch",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Peroneals_Stretch",

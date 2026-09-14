@@ -6,7 +6,7 @@ export const sideToSideChins = {
   slug: "side-to-side-chins",
   title: "Side To Side Chins",
   exerciseCategory: "strength",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Side_To_Side_Chins",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Side_To_Side_Chins",

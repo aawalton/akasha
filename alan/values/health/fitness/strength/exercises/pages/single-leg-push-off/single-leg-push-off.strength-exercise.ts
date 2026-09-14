@@ -6,7 +6,7 @@ export const singleLegPushOff = {
   slug: "single-leg-push-off",
   title: "Single Leg Push-off",
   exerciseCategory: "plyometrics",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Single_Leg_Push-off",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Single_Leg_Push-off",

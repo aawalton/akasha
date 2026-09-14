@@ -6,7 +6,7 @@ export const sledgehammerSwings = {
   slug: "sledgehammer-swings",
   title: "Sledgehammer Swings",
   exerciseCategory: "plyometrics",
-  equipment: "other",
+  equipment: "strength-exercise-implement/other",
   exerciseExternalId: "Sledgehammer_Swings",
   exerciseExternalLink:
     "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Sledgehammer_Swings",
