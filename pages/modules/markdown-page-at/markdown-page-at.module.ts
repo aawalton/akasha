@@ -9,10 +9,6 @@ export const markdownPageAt = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page is said as its repository and its key parted by a colon.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A set of roots may name a repository the set of roots is under as its target.",
     },
   ],

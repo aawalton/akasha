@@ -8,7 +8,3 @@ export type PageAt = {
   readonly stem: string
   readonly type: string
 }
-
-export function saidAt(at: PageAt): string {
-  return `${at.repo}:${at.key}`
-}
