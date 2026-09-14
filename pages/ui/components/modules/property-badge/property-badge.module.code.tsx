@@ -55,6 +55,7 @@ function drawingFor(
 ): ComponentType<PropertyBadgeProps> | undefined {
   if (drawnBy === undefined) return undefined
   for (const slug of drawnBy) {
+    if (slug === FALLS_BACK_TO) return undefined
     const found = PROPERTY_BADGE_DRAWINGS.get(slug)
     if (found !== undefined) return found
   }
