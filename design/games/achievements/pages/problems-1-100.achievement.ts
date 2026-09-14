@@ -9,7 +9,7 @@ export const problems1100 = {
   position: 1,
   ownLength: 625000,
   ownProgress: 625000,
-  unit: "words",
+  unit: "unit/words",
   status: "completed",
   rank: "A",
 } as const satisfies Achievement

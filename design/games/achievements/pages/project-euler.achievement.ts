@@ -9,7 +9,7 @@ export const projectEuler = {
   position: 3,
   ownLength: 0,
   ownProgress: 0,
-  unit: "words",
+  unit: "unit/words",
   status: "in-progress",
   rank: "A",
   externalIdentity: [{ source: "project-euler", externalLink: "https://projecteuler.net/" }],

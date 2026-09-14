@@ -9,6 +9,6 @@ export const problems201300 = {
   position: 3,
   ownLength: 1375000,
   ownProgress: 0,
-  unit: "words",
+  unit: "unit/words",
   status: "not-started",
 } as const satisfies Achievement
