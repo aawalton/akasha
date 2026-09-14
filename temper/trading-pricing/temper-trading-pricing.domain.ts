@@ -8,7 +8,6 @@ export const temperTradingPricing = {
   parts: [
     "module/companion-gear-ids",
     "module/companion-gear-price-lookup",
-    "module/crown-consumable-price-lookup",
     "module/currency-price-lookup",
     "module/is-price-entry",
     "module/kiosk-location-name",
