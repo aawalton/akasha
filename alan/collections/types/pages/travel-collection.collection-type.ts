@@ -5,6 +5,6 @@ export const travelCollection = {
   type: "collection-type",
   slug: "travel-collection",
   title: "Travel Collection",
-  unit: "words",
+  unit: "unit/words",
   collectionTypeStatus: "not-doing",
 } as const satisfies CollectionType

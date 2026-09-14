@@ -5,6 +5,6 @@ export const litrpgCollection = {
   type: "collection-type",
   slug: "litrpg-collection",
   title: "LitRPG Collection",
-  unit: "words",
+  unit: "unit/words",
   collectionTypeStatus: "not-doing",
 } as const satisfies CollectionType

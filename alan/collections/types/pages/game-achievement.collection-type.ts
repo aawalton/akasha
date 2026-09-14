@@ -5,6 +5,6 @@ export const gameAchievement = {
   type: "collection-type",
   slug: "game-achievement",
   title: "Game Achievement",
-  unit: "words",
+  unit: "unit/words",
   collectionTypeStatus: "not-doing",
 } as const satisfies CollectionType

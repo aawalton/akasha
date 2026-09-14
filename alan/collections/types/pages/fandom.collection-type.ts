@@ -5,6 +5,6 @@ export const fandom = {
   type: "collection-type",
   slug: "fandom",
   title: "Fandom",
-  unit: "words",
+  unit: "unit/words",
   collectionTypeStatus: "not-doing",
 } as const satisfies CollectionType

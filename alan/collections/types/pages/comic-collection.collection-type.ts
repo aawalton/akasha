@@ -5,6 +5,6 @@ export const comicCollection = {
   type: "collection-type",
   slug: "comic-collection",
   title: "Comic Collection",
-  unit: "words",
+  unit: "unit/words",
   collectionTypeStatus: "someday-maybe",
 } as const satisfies CollectionType

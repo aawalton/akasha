@@ -5,6 +5,6 @@ export const restaurants = {
   type: "collection-type",
   slug: "restaurants",
   title: "Restaurants",
-  unit: "words",
+  unit: "unit/words",
   collectionTypeStatus: "not-doing",
 } as const satisfies CollectionType

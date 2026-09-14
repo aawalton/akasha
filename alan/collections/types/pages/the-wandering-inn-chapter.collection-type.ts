@@ -5,6 +5,6 @@ export const theWanderingInnChapter = {
   type: "collection-type",
   slug: "the-wandering-inn-chapter",
   title: "The Wandering Inn Chapter",
-  unit: "words",
+  unit: "unit/words",
   collectionTypeStatus: "done",
 } as const satisfies CollectionType

@@ -5,6 +5,6 @@ export const greatCoursesCollection = {
   type: "collection-type",
   slug: "great-courses-collection",
   title: "Great Courses Collection",
-  unit: "minutes",
+  unit: "unit/minutes",
   collectionTypeStatus: "done",
 } as const satisfies CollectionType
