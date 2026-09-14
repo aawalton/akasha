@@ -7,10 +7,8 @@ import type {
   IdleFetch,
   IdleTimers,
 } from "akasha/agents/model/gateway/modules/idle-timeout/idle-timeout.module.code.ts"
-import {
-  emptySlot,
-  type ObserverSlot,
-} from "akasha/agents/model/gateway/modules/observer-slot/observer-slot.module.code.ts"
+import type { ObserverSlot } from "akasha/agents/model/gateway/modules/observer-slot/observer-slot.module.code.ts"
+import { emptySlot } from "akasha/agents/model/gateway/modules/observer-slot/observer-slot.module.test-fixtures.ts"
 import type { ArmableStreamObserver } from "akasha/agents/model/gateway/modules/transport-log/transport-log.module.code.ts"
 
 const LOG_PREFIX = "[forward-test]"

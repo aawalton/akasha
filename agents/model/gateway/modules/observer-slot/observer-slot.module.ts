@@ -7,6 +7,7 @@ export const observerSlot = {
   definition: "the one stream a connection has in flight, and the end that runs once",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

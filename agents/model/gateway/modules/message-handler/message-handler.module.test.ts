@@ -6,7 +6,7 @@ import {
   type HandlerDoors,
   type MessageTurn,
 } from "akasha/agents/model/gateway/modules/message-handler/message-handler.module.code.ts"
-import { emptySlot } from "akasha/agents/model/gateway/modules/observer-slot/observer-slot.module.code.ts"
+import { emptySlot } from "akasha/agents/model/gateway/modules/observer-slot/observer-slot.module.test-fixtures.ts"
 
 const PREFIX = "[gw]"
 
