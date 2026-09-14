@@ -8,12 +8,12 @@ export const personaCraft = {
   onCall: false,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Personas are written so that no two read alike rather than written to a common style.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The method is left to be found by testing variations rather than named up front.",
     },
   ],

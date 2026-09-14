@@ -8,20 +8,20 @@ export const handler = {
   onCall: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A handler's seat states the person the handler serves as its domain.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Alan's handler is interactive and stays running.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An inbound from a sender no person's record names reaches no seat and gets no reply.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Every person the system can reach is served by a handler of their own.",
     },
   ],

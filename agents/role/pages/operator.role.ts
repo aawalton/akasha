@@ -8,7 +8,7 @@ export const operator = {
   onCall: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An operator asks their principal when the operator is not sure what act to take.",
     },
   ],

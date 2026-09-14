@@ -8,20 +8,20 @@ export const interviewer = {
   onCall: false,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This role's input is a person rather than a document.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This role writes domains and never the record.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A change during an interview is landed by a subagent rather than by a second seat.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Changes land continuously through an interview rather than at the end.",
     },
   ],
