@@ -15,15 +15,6 @@ export function castArray<T>(value: T | readonly T[]): readonly T[] {
 export const intersperse = <T>(values: readonly T[], separator: T): readonly T[] =>
   values.flatMap((value, index) => (index === 0 ? [value] : [separator, value]))
 
-export const union = <T>(...values: ReadonlyArray<Iterable<T>>): readonly T[] => [
-  ...new Set(...values),
-]
-
-export const intersection = <T>(
-  first: readonly T[],
-  ...rest: ReadonlyArray<readonly T[]>
-): readonly T[] => union(first).filter((x) => rest.every((r) => r.includes(x)))
-
 export const diagnosticSource = "@akasha/lua-compiler"
 
 type DiagnosticBody = Partial<ts.Diagnostic> & Pick<ts.Diagnostic, "messageText">
