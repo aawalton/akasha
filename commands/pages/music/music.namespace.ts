@@ -17,6 +17,7 @@ export const music = {
     "command/music-play",
     "command/music-queue",
     "command/music-rate",
+    "command/music-repeat",
     "command/music-search",
     "command/music-seek",
     "command/music-shuffle",
