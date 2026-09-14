@@ -11,7 +11,7 @@ export const emberInventoryRules = {
       statement:
         "A reading of the inventory outside the game reaches the answer the addon reaches.",
       workingMemory:
-        "The addon persisted no per-item answer; the verdict-store module is Alan's own sell/nothing outbox, not the engine's. Landed 8ed0c8a1 and 899016e6 — the run resolving an item writes four flat fields onto the captured item, riding the reading already done: action, place, the route that resolved it, and a rule index only for an ordered rule. Covers backpack, worn and bank bags: 1205 of 1979 stacks; craft bag and house storage carry none. Measured +8.3% of 4.02 MB. Left: deploy, play, sweep.",
+        "Deployed as 28dd82c1: the run resolving an item writes four flat fields onto the captured item, covering backpack, worn and the bank's bags, 1205 of 1979 stacks, +8.3% of 4.2 MB. The parser dropped all four on the way back in, so a sweep would have read 0% whatever he played; mended in 864ae2fe. record-parity reads them, counts coverage from the records present, and is proven to fire on spoiled ones. Left: Alan plays, then one run says whether the outside reading reaches the addon's.\n",
     },
   ],
   constraints: [
