@@ -15,13 +15,13 @@ export const theaChecksSystem = {
     {
       statement: "No module exports a value nothing names.",
       workingMemory:
-        "581 refusals: 316 a value nothing names, 256 only a test names, 9 only its own file names. alan 107, temper 98, story 87, pages 54, agents 52, infrastructure 30. story's sit in engine, tower and ui; the story-played page type now carries a page-component group whose `Drawing` mounts the awen panels, and the rest of that arm waits on Alan.",
+        "549 refusals: 293 a value nothing names, 245 only a test names, 11 only its own file names. temper 94, alan 88, story 87, pages 55, agents 41, infrastructure 33, checks 30, personas 29, domains 27, code 20, commands 17. story's sit in engine, tower and ui, which Alan keeps; the story-played page type carries a page-component group whose `Drawing` mounts the awen panels.",
     },
 
     {
       statement: "No arm of the codebase is built and reached by nothing.",
       workingMemory:
-        "Alan keeps the story engine, tower and ui (224 files), and story-played now draws with a placeholder page component. Still built and wired to nothing: the write half of `pages/access`; `landAkashaSessionRow` and the rows beside a day; geoapify geocoding and routing; the litrpg reading selection; the jenny and ki sms dispatch; `ReadoutRing`; `installSimShell`; `cardioReading`; and `placeSecrets`. Each waits on Alan, one at a time.",
+        "Cut: geoapify geocoding and routing, the page-write delivery route, the jenny and ki sms dispatch. Wired instead: inbound email routing and nine spotify transport commands. Being wired: `placeSecrets` into the deploy, and chess play and puzzle import. Still reached by nothing: the write half of `pages/access`; `landAkashaSessionRow` and the rows beside a day; the litrpg reading selection; `ReadoutRing`; `installSimShell`; `cardioReading`. Alan keeps the story arm.",
     },
     {
       statement: "Every uncommitted body beside a page exports the name that page's writer makes.",
