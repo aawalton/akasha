@@ -1,8 +1,6 @@
 import type {
   Course,
-  CourseData,
   CourseList,
-  Episode,
   Subject,
   SubjectList,
 } from "akasha/alan/collections/great-courses/modules/course-types/course-types.module.code.ts"
@@ -131,56 +129,6 @@ function getSubjects(dom: JSDOM): SubjectList {
     logError("Subject parsing", "getSubjects", err, classifyError(err))
     throw thrown
   }
-}
-
-function parseCourseHtml(dom: JSDOM): readonly Episode[] {
-  const episodes: Episode[] = []
-
-  const lecturesList = dom.window.document.querySelector("#lectures-list")
-  if (!lecturesList) throw new Error("Could not find lectures list")
-
-  for (const entry of lecturesList.querySelectorAll(".media-table.media-pdp")) {
-    const playButton = entry.querySelector(".play-lecture")
-    if (!playButton) continue
-
-    const title = playButton.getAttribute("data-title")?.trim()
-    if (title == null || title === "") continue
-
-    episodes.push({
-      title,
-      lengthSeconds: Number.parseInt(playButton.getAttribute("data-len") ?? "0", 10),
-      episodeNumber: Number.parseInt(playButton.getAttribute("data-idx") ?? "0", 10),
-    })
-  }
-
-  return episodes
-}
-
-export async function getCourseDetails(course: Course, courseId: string): Promise<CourseData> {
-  return retryWithBackoff(async () => {
-    const dom = await fetchHtml(course.url)
-    const ogTitleMeta = dom.window.document.querySelector('meta[property="og:title"]')
-    const titleMeta = dom.window.document.querySelector('meta[name="title"]')
-    const extractedTitle = (
-      ogTitleMeta?.getAttribute("content") ??
-      titleMeta?.getAttribute("content") ??
-      ""
-    )
-      .replace(/["]/g, "")
-      .trim()
-      .replace(/\s*\|\s*Plus$/, "")
-    const title = extractedTitle.length > 0 ? extractedTitle : course.title
-    const episodes = parseCourseHtml(dom)
-    const totalLengthSeconds = episodes.reduce((sum, ep) => sum + ep.lengthSeconds, 0)
-    return { courseId, title, episodes, totalLengthSeconds }
-  }).catch((thrown) => {
-    const err = toError(thrown)
-    logError("Course details", "getCourseDetails", err, classifyError(err), {
-      courseId,
-      courseUrl: course.url,
-    })
-    throw thrown
-  })
 }
 
 export async function getCatalogData(): Promise<{
