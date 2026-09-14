@@ -23,7 +23,6 @@ export const pagesUi = {
     "domain/pages-ui-reorder-verbs",
     "domain/pages-ui-supabase",
     "domain/pages-ui-tree",
-    "domain/pages-ui-units",
     "module/navigation-context",
     "module/option-create-context",
     "module/use-user-id",
