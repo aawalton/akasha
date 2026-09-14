@@ -24,18 +24,18 @@ const NOT_WRITTEN = "dry-run\tnothing was written; run it again without `--dry-r
 
 const PAGES = "pages-service"
 
-export function portOf(services: readonly Service[]): number | null {
+function portOf(services: readonly Service[]): number | null {
   for (const one of services) {
     if (one.service.slug === PAGES) return one.service.port ?? null
   }
   return null
 }
 
-export function saidOfNoPort(): string {
+function saidOfNoPort(): string {
   return `\`${PAGES}\` states no port, so the loader written beside the units reaches nothing`
 }
 
-export function saidOfNoRunner(): string {
+function saidOfNoRunner(): string {
   return "nothing says which file a service is run from, so no loader can reach for it"
 }
 
