@@ -1,5 +1,5 @@
-import type { OAuthCredential } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
-import { parseRetryAfterMs } from "akasha/agents/models/gateway/modules/server-error/server-error.module.code.ts"
+import type { OAuthCredential } from "akasha/agents/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
+import { parseRetryAfterMs } from "akasha/agents/model/gateway/modules/server-error/server-error.module.code.ts"
 import { z } from "zod"
 
 export const OAUTH_TOKEN_URL = "https://platform.claude.com/v1/oauth/token"

@@ -1,4 +1,4 @@
-import type { AccountState } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
+import type { AccountState } from "akasha/agents/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import { asInstant } from "akasha/utils/narrow/modules/as-instant/as-instant.module.code.ts"
 
 const CEILING = 100

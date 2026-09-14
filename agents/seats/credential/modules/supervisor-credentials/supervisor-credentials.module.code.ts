@@ -7,7 +7,7 @@ import { terminalHealthMarks } from "akasha/agents/claude-accounts/modules/healt
 import {
   DOORS as EFFECT_DOORS,
   markedOn,
-} from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
+} from "akasha/agents/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 import {
   clearAccountTerminal,
   isAccountTerminal,

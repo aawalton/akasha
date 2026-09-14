@@ -8,24 +8,24 @@ import {
   SCOPE_FLAG,
   said,
 } from "akasha/agents/hooks/modules/answer/hook-answer.module.code.ts"
-import { endsYes } from "akasha/agents/models/modules/answer/model-answer.module.code.ts"
+import { endsYes } from "akasha/agents/model/modules/answer/model-answer.module.code.ts"
 import {
   askedOf,
   modelOf,
-} from "akasha/agents/models/tests/modules/running/model-test-running.module.code.ts"
+} from "akasha/agents/model/tests/modules/running/model-test-running.module.code.ts"
 import {
   directiveKept,
   directivesIn,
   type Putter,
   type Putting,
-} from "akasha/agents/models/tests/pages/directive-kept/directive-kept.model-test.code.ts"
-import { directiveKept as test } from "akasha/agents/models/tests/pages/directive-kept/directive-kept.model-test.ts"
-import { dontStopKept } from "akasha/agents/models/tests/pages/dont-stop-kept/dont-stop-kept.model-test.code.ts"
-import { letMeKept } from "akasha/agents/models/tests/pages/let-me-kept/let-me-kept.model-test.code.ts"
-import { noCommentaryKept } from "akasha/agents/models/tests/pages/no-commentary-kept/no-commentary-kept.model-test.code.ts"
-import { oneAtATimeKept } from "akasha/agents/models/tests/pages/one-at-a-time-kept/one-at-a-time-kept.model-test.code.ts"
+} from "akasha/agents/model/tests/pages/directive-kept/directive-kept.model-test.code.ts"
+import { directiveKept as test } from "akasha/agents/model/tests/pages/directive-kept/directive-kept.model-test.ts"
+import { dontStopKept } from "akasha/agents/model/tests/pages/dont-stop-kept/dont-stop-kept.model-test.code.ts"
+import { letMeKept } from "akasha/agents/model/tests/pages/let-me-kept/let-me-kept.model-test.code.ts"
+import { noCommentaryKept } from "akasha/agents/model/tests/pages/no-commentary-kept/no-commentary-kept.model-test.code.ts"
+import { oneAtATimeKept } from "akasha/agents/model/tests/pages/one-at-a-time-kept/one-at-a-time-kept.model-test.code.ts"
 
-import { subagentBriefKept } from "akasha/agents/models/tests/pages/subagent-brief-kept/subagent-brief-kept.model-test.code.ts"
+import { subagentBriefKept } from "akasha/agents/model/tests/pages/subagent-brief-kept/subagent-brief-kept.model-test.code.ts"
 import { readOwnTranscriptTail } from "akasha/agents/modules/io-probe/io-probe.module.code.ts"
 import { lastAskedIn, lastSaidIn } from "akasha/agents/modules/last-said/last-said.module.code.ts"
 import { seatIn } from "akasha/agents/modules/read-record/read-record.module.code.ts"

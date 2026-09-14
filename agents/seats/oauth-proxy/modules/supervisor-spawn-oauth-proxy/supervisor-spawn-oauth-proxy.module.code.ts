@@ -1,6 +1,6 @@
 import { closeSync, mkdirSync, openSync } from "node:fs"
 import { join } from "node:path"
-import { modelGatewayEntrypoint } from "akasha/agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
+import { modelGatewayEntrypoint } from "akasha/agents/model/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
 import {
   type OAuthProxyState,
   readProxyState,

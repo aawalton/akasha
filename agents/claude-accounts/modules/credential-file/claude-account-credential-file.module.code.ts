@@ -19,8 +19,8 @@ import {
   credentialIn,
   type SecretsRead,
 } from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
-import { credentialOf } from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
-import type { OAuthCredential } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
+import { credentialOf } from "akasha/agents/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
+import type { OAuthCredential } from "akasha/agents/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import type { PageOf } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import { secretsIn } from "akasha/pages/modules/secret/page-secret.module.code.ts"

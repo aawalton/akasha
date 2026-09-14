@@ -1,6 +1,6 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
-import { opensYes } from "akasha/agents/models/modules/answer/model-answer.module.code.ts"
+import { opensYes } from "akasha/agents/model/modules/answer/model-answer.module.code.ts"
 import { PAGES } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged, Running } from "akasha/checks/modules/judging/judging.module.code.ts"
 import {

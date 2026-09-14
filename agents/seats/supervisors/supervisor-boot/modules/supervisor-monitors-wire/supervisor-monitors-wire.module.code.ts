@@ -1,4 +1,4 @@
-import { computeModelGatewayTreeVersion } from "akasha/agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
+import { computeModelGatewayTreeVersion } from "akasha/agents/model/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
 import { startProxyLivenessMonitor } from "akasha/agents/seats/oauth-proxy/modules/supervisor-proxy-liveness/supervisor-proxy-liveness.module.code.ts"
 import type { ProxyLivenessRuleSource } from "akasha/agents/seats/oauth-proxy/modules/supervisor-proxy-liveness-rule/supervisor-proxy-liveness-rule.module.code.ts"
 import { handleProxyVersionUpdate } from "akasha/agents/seats/oauth-proxy/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"

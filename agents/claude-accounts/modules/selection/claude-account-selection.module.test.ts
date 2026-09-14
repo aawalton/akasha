@@ -6,7 +6,7 @@ import {
   selectBestAccount,
   summarizePool,
 } from "akasha/agents/claude-accounts/modules/selection/claude-account-selection.module.code.ts"
-import type { AccountState } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
+import type { AccountState } from "akasha/agents/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
 
 const NOW = Date.parse("2026-09-02T12:00:00.000Z")
 

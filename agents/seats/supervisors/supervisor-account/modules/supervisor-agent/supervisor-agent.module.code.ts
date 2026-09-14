@@ -5,11 +5,11 @@ import {
   bestCredentialIn,
   credentialByAccountIn,
   DOORS as EFFECT_DOORS,
-} from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
+} from "akasha/agents/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 import type {
   CredentialPick,
   OAuthCredential,
-} from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
+} from "akasha/agents/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import {
   configDirForAccount,
   LOG,

@@ -1,4 +1,4 @@
-import { parseModel, toWireId } from "akasha/agents/models/modules/vocab/model-vocab.module.code.ts"
+import { parseModel, toWireId } from "akasha/agents/model/modules/vocab/model-vocab.module.code.ts"
 import { writerIn } from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import { akashaBesideOf } from "akasha/agents/seats/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { seatAbove } from "akasha/agents/subagents/modules/naming/subagent-naming.module.code.ts"

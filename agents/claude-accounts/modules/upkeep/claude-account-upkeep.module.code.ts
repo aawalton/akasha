@@ -29,7 +29,7 @@ import {
   markedOn,
   type UsageRead,
   usageFetched,
-} from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
+} from "akasha/agents/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 import type { PageOf } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
 import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"

@@ -1,7 +1,7 @@
 import {
   parseModel,
   toCliAlias,
-} from "akasha/agents/models/modules/vocab/model-vocab.module.code.ts"
+} from "akasha/agents/model/modules/vocab/model-vocab.module.code.ts"
 import { seatConditionsPastRefresh } from "akasha/agents/seats/launching/modules/seat-conditions-reading/seat-conditions-reading.module.code.ts"
 import { LOG } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 

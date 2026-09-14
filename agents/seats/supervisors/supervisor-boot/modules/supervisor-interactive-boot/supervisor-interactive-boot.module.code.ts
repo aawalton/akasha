@@ -1,4 +1,4 @@
-import { computeModelGatewayTreeVersion } from "akasha/agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
+import { computeModelGatewayTreeVersion } from "akasha/agents/model/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
 import { toolRestrictions } from "akasha/agents/modules/tool-access/tool-access.module.code.ts"
 import { buildCredentialSubsystem } from "akasha/agents/seats/credential/modules/supervisor-credentials/supervisor-credentials.module.code.ts"
 import { installProxyVersionSubsystem } from "akasha/agents/seats/oauth-proxy/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"

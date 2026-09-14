@@ -1,4 +1,4 @@
-import { computeModelGatewayTreeVersion } from "akasha/agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
+import { computeModelGatewayTreeVersion } from "akasha/agents/model/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
 import {
   type OAuthProxyState,
   readProxyState,

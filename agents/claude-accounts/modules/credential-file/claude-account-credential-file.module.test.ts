@@ -8,7 +8,7 @@ import {
   credentialFileWritten,
   fileChanged,
 } from "akasha/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.code.ts"
-import type { OAuthCredential } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
+import type { OAuthCredential } from "akasha/agents/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()

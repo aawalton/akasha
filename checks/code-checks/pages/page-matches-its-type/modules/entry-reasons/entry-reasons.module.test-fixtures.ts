@@ -15,7 +15,7 @@ import type { Carried } from "akasha/pages/types/modules/declared-properties/dec
 
 const REPO = rootOf(import.meta.path)
 
-const RESTATEMENT = "agents/models/tests/pages/restatement/restatement.model-test.ts"
+const RESTATEMENT = "agents/model/tests/pages/restatement/restatement.model-test.ts"
 
 export const NO_ID = "keeps an entry of `cases` carrying no id, and every entry carries an id"
 
