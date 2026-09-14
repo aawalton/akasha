@@ -50,17 +50,19 @@ export function typed(
   root: string,
   slug: string,
   above: string | null,
-  declares: readonly string[] = []
+  declares: readonly string[] = [],
+  loadedBy: string | null = null
 ): undefined {
   const path = `${TYPES_AT}/${slug}.${PAGE_TYPE}.ts`
   listedFiled(root, PAGE_TYPE, slug, [{ path, id: `id-${slug}` }])
   mkdirSync(join(root, TYPES_AT), { recursive: true })
   const said = above === null ? "[]" : JSON.stringify([`${PAGE_TYPE}/${above}`])
+  const loader = loadedBy === null ? "" : ` loadedBy: ${JSON.stringify(loadedBy)},`
   writeFileSync(
     join(root, path),
     `export const held = { id: ${JSON.stringify(`id-${slug}`)},` +
       ` pageTypeSlug: ${JSON.stringify(PAGE_TYPE)}, slug: ${JSON.stringify(slug)},` +
-      ` extends: ${said}, properties: [${declared(declares)}] }\n`
+      `${loader} extends: ${said}, properties: [${declared(declares)}] }\n`
   )
   valueAlsoFiled(root, PAGE_TYPE, [
     {
@@ -71,6 +73,7 @@ export function typed(
         slug,
         extends: above === null ? [] : [`${PAGE_TYPE}/${above}`],
         properties: declares.map((one) => ({ pagePropertySlug: one })),
+        ...(loadedBy === null ? {} : { loadedBy }),
       },
     },
   ])

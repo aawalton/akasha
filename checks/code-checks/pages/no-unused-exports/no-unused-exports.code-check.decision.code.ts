@@ -47,8 +47,6 @@ const LUALIB = "lualib"
 
 const LUA_EXPORT = "luaExport"
 
-const COMMAND = "command"
-
 const COMPUTED = "computed-property"
 
 const WORK = "work"
@@ -89,8 +87,6 @@ const MARK = "mark"
 
 const SHAPE = "folder-shape"
 
-const FORMAT = "name-format"
-
 const HOLDS = "HOLDS"
 
 const CODE = "code"
@@ -102,6 +98,8 @@ const DRAWN = "component-property-group"
 const DRAWS = "Drawing"
 
 const SLUG = "slug"
+
+const LOADED_BY = "loadedBy"
 
 const ROOT_ROUTE = "root.tsx"
 
@@ -270,11 +268,9 @@ function reachedBeside(said: Parted): ReadonlySet<string> | null {
   if (besideCode(said, PERFORMANCE)) return new Set([MEASURED])
   if (besideCode(said, MODEL_TEST)) return new Set([ASKING, KEEPING, exportedAs(said.slug)])
   if (besideProperty(said, PAGE_TYPE, GENERATOR)) return GENERATED
-  if (besideCode(said, RULE)) return new Set([MARK, exportedAs(said.slug)])
-  if (besideCode(said, SHAPE)) return new Set([HOLDS, exportedAs(said.slug)])
-  if (besideCode(said, COMMAND) || besideCode(said, CHECK) || besideCode(said, FORMAT)) {
-    return new Set([exportedAs(said.slug)])
-  }
+  if (besideCode(said, RULE)) return new Set([MARK])
+  if (besideCode(said, SHAPE)) return new Set([HOLDS])
+  if (besideCode(said, CHECK)) return new Set([exportedAs(said.slug)])
   return null
 }
 
@@ -301,10 +297,26 @@ export function groupsSparing(index: Answering): ReadonlyMap<string, string> {
   return found
 }
 
+export function loadersSparing(index: Answering): ReadonlySet<string> {
+  const found = new Set<string>()
+  for (const listed of index.everyOfType(PAGE_TYPE)) {
+    const value = index.pageByPath(listed.path)
+    if (value === null || textAt(value, LOADED_BY) === null) continue
+    const slug = textAt(value, SLUG)
+    if (slug !== null) found.add(slug)
+  }
+  return found
+}
+
+function loadedBeside(said: Parted, loaders: ReadonlySet<string>): boolean {
+  return loaders.has(said.pageType) && besideProperty(said, said.pageType, CODE)
+}
+
 export function sparedIn(
   path: string,
   pageTypes: ReadonlySet<string>,
   groups: ReadonlyMap<string, string>,
+  loaders: ReadonlySet<string>,
   bodyOf: Bodied
 ): ReadonlySet<string> {
   const said = partedIn(path)
@@ -314,8 +326,10 @@ export function sparedIn(
   if (uncommittedNamed(path)) return new Set([nameFor(`${pageOf(said)}.${HELD}`)])
   const lua = luaNamed(path, said, bodyOf)
   if (lua !== null) return new Set([lua])
+  const loaded = loadedBeside(said, loaders) ? exportedAs(said.slug) : null
   const beside = reachedBeside(said)
-  if (beside !== null) return beside
+  if (beside !== null) return loaded === null ? beside : new Set([...beside, loaded])
+  if (loaded !== null) return new Set([loaded])
   const coded = groupCoded(said, groups)
   if (coded !== null) return new Set([coded])
   const spared = new Set(BY_SLUG.get(said.slug) ?? NOTHING)
@@ -400,12 +414,13 @@ function reasonsFor(
 export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
   const pageTypes = pageTypesFor(shadow)
   const groups = groupsSparing(shadow.index)
+  const loaders = loadersSparing(shadow.index)
   const judged: Judged[] = []
   for (const path of change.changed) {
     if (!typeScripted(path)) continue
     const text = textIn(change, path)
     if (text === null) continue
-    const spared = sparedIn(path, pageTypes, groups, (at) => textIn(change, at))
+    const spared = sparedIn(path, pageTypes, groups, loaders, (at) => textIn(change, at))
     for (const reason of reasonsFor(path, text, change, shadow, spared)) {
       judged.push({ path, reason })
     }

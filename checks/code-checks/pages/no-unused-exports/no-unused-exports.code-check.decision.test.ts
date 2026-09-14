@@ -31,6 +31,8 @@ import {
   importedAt,
   importedBy,
   KEPT_TEXT,
+  LOADERLESS_AT,
+  LOADERLESS_TEXT,
   LUA_AT,
   LUA_TEXT,
   lualibPaged,
@@ -66,6 +68,8 @@ import {
   TUNNEL_AT,
   TUNNEL_TEXT,
   takenText,
+  WARRANT_AT,
+  WARRANT_TEXT,
   WORK_AT,
   WORK_TEXT,
   WRITING_AT,
@@ -305,6 +309,21 @@ test("the name made from a name format's slug is spared in that format's code", 
 
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("`spare`")
+})
+
+test("the name made from a page's slug is spared where its type names a loader", () => {
+  const said = judging(landing(rooted(), { [WARRANT_AT]: bytesOf(WARRANT_TEXT) })).map(
+    (one) => one.reason
+  )
+
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`spare`")
+})
+
+test("a page type naming no loader leaves the name made from its page's slug judged", () => {
+  const said = judging(landing(rooted(), { [LOADERLESS_AT]: bytesOf(LOADERLESS_TEXT) }))
+
+  expect(said).toHaveLength(2)
 })
 
 test("the `bodyIn` a writing group's code exports is spared and another beside it is judged", () => {

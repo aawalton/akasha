@@ -77,6 +77,15 @@ export const FORMAT_AT = "akasha/held-thing.name-format.code.ts"
 
 export const FORMAT_TEXT = "export const heldThing = (): number => 1\n\nexport const spare = 2\n"
 
+export const WARRANT_AT = "akasha/held-thing.context-warrant.code.ts"
+
+export const WARRANT_TEXT = "export const heldThing = (): number => 1\n\nexport const spare = 2\n"
+
+export const LOADERLESS_AT = "akasha/held-thing.shell-script.code.ts"
+
+export const LOADERLESS_TEXT =
+  "export const heldThing = (): number => 1\n\nexport const spare = 2\n"
+
 export const WRITING_AT = "akasha/held.shell-script.scripting.code.ts"
 
 export const WRITING_TEXT = 'export const bodyIn = (): string => ""\n\nexport const spare = 2\n'
@@ -174,15 +183,16 @@ export function rooted(): string {
   typed(root, "domain", "page")
   typed(root, "module", "domain")
   typed(root, "lualib", "domain")
-  typed(root, "command", "domain")
+  typed(root, "command", "domain", [], "module/calling")
   typed(root, "computed-property", "domain")
   typed(root, "change-guard", "domain")
   typed(root, "service-workstation", "domain")
   typed(root, "test-fixture", "domain")
-  typed(root, "code-check", "domain")
-  typed(root, "syntax-rule", "domain")
-  typed(root, "folder-shape", "domain")
-  typed(root, "name-format", "domain")
+  typed(root, "code-check", "domain", [], "module/checking")
+  typed(root, "syntax-rule", "domain", [], "code-check/no-refused-syntax")
+  typed(root, "folder-shape", "domain", [], "code-check/folder-matches-a-shape")
+  typed(root, "name-format", "domain", [], "module/format-reaching")
+  typed(root, "context-warrant", "domain", [], "module/warranting")
   typed(root, "shell-script", "domain")
   typed(root, "manifest", "domain")
   typed(root, "performance", "domain")

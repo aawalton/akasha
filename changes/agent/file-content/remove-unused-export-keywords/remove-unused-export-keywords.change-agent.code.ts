@@ -13,6 +13,7 @@ import {
 } from "akasha/changes/modules/tree-searching/tree-searching.module.code.ts"
 import {
   groupsSparing,
+  loadersSparing,
   sparedIn,
   unreachedIn,
 } from "akasha/checks/code-checks/pages/no-unused-exports/no-unused-exports.code-check.decision.code.ts"
@@ -30,6 +31,7 @@ function surplusIn(
   world: World,
   pageTypes: ReadonlySet<string>,
   groups: ReadonlyMap<string, string>,
+  loaders: ReadonlySet<string>,
   path: string
 ): readonly string[] {
   const text = world.textOf(path)
@@ -37,7 +39,7 @@ function surplusIn(
   const found = unreachedIn(
     path,
     text,
-    sparedIn(path, pageTypes, groups, world.textOf),
+    sparedIn(path, pageTypes, groups, loaders, world.textOf),
     world.index.importersOf(path),
     world.textOf
   )
@@ -52,11 +54,12 @@ export async function removeUnusedExportKeywords(
 ): Promise<Answer> {
   const pageTypes = world.index.pageTypesIn()
   const groups = groupsSparing(world.index)
+  const loaders = loadersSparing(world.index)
   const answers: Answer[] = []
   for (const path of pathsNaming(world, [KEYWORD], TYPED_KINDS)) {
     if (answers.length >= most) break
     if (!typed(path) || but.has(path)) continue
-    const names = surplusIn(world, pageTypes, groups, path)
+    const names = surplusIn(world, pageTypes, groups, loaders, path)
     if (names.length === 0) continue
     answers.push((await reach(world, DROP, { at: path, names })).said)
   }
