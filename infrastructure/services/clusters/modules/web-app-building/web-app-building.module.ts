@@ -22,10 +22,6 @@ export const webAppBuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "A sha with anything other than forty hexadecimal digits is no sha.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Whether origin has a sha is asked of origin rather than of a local ref.",
     },
     {

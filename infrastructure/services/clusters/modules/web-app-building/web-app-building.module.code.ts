@@ -34,7 +34,6 @@ const ROLLOUT_WAIT = "5m"
 const SYNC_ATTEMPTS = 4
 const SYNC_PAUSE = 3
 const TAIL = 6
-const A_SHA = /^[0-9a-f]{40}$/
 const A_FRAME = /^\s*at\s/
 const SYNCS_CODE = new RegExp(`^\\s*-?\\s*name:\\s*${SYNC_CONTAINER}\\s*$`, "m")
 const WORKING_DIR_AT = /^[ \t-]*workingDir:[ \t]*(\S+)[ \t]*$/gm
@@ -77,13 +76,6 @@ export function saidBy(ran: Ran): string {
   const said = `${ran.stdout}${ran.stderr}`.trim().split("\n")
   const kept = said.filter((line) => !A_FRAME.test(line))
   return (kept.length === 0 ? said : kept).slice(-TAIL).join("; ")
-}
-
-export function headOf(root: string): string | null {
-  const ran = runGit(root, ["rev-parse", "HEAD"])
-  if (ran.code !== 0) return null
-  const held = ran.stdout.trim()
-  return A_SHA.test(held) ? held : null
 }
 
 export type Carried = { readonly carried: boolean } | { readonly why: string }

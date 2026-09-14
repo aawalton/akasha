@@ -8,7 +8,6 @@ import {
   buildTargetOf,
   entriesIn,
   envPrefix,
-  headOf,
   hiding,
   installableAt,
   livestOf,
@@ -151,10 +150,6 @@ test("a working directory outside the checkout names no package", () => {
 test("a plan emitting no manifest for its workload has no build made for it", () => {
   const other = { workload: WEB, synthPath: SYNTH_AT, manifests: [] }
   expect(buildTargetOf(other)).toBe(null)
-})
-
-test("a repository at no commit says what its HEAD is not", () => {
-  expect(headOf(WORLD.root)).toBe(null)
 })
 
 test("the pod is checked out to the sha before the build runs", () => {
