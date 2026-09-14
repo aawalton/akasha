@@ -11,8 +11,8 @@ export const myPsychologicalGenderIs80Masculine = {
   identityStatementRank: "s-rank",
   identityStatementStatus: "in-progress",
   subStatements: [
-    "femininity-has-a-dark-side-as-well-as-a-light-side",
-    "masculinity-has-a-light-side-as-well-as-a-dark-side",
+    "identity-statement/femininity-has-a-dark-side-as-well-as-a-light-side",
+    "identity-statement/masculinity-has-a-light-side-as-well-as-a-dark-side",
   ],
   identityStatementTags: ["gender"],
   identityStatementValue: "value/faith",
