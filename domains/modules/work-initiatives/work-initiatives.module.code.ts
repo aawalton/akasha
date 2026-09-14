@@ -13,7 +13,7 @@ const PARENT_PROPERTY = "01a04e58-5735-7668-9aee-b2da5c7b346a"
 
 const PERSONA = "persona"
 
-const INTENTS = "intents"
+const INTENTS = "intentStack"
 
 const STATEMENT = "statement"
 

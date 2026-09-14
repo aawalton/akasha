@@ -24,7 +24,7 @@ const PUT = "change-mechanical-file-content/add-property-record"
 
 const TOOK = "change-mechanical-file-content/remove-property-record"
 
-const INTENTS = "intents"
+const INTENTS = "intentStack"
 
 const STATEMENT = "statement"
 

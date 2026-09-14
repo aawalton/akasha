@@ -17,7 +17,7 @@ import { initiativesDrawn } from "akasha/domains/modules/work-initiatives/work-i
 
 const CARRIES = "change-mechanical-file-content/remove-property-record"
 
-const INTENTS = "intents"
+const INTENTS = "intentStack"
 
 const STATEMENT = "statement"
 

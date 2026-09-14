@@ -188,7 +188,7 @@ test("the intents are read out of the page in the order that page states them", 
   pageAt(
     root,
     "amy-one",
-    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", intents: [' +
+    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", intentStack: [' +
       '{ statement: "zebra" }, { statement: "apple" }] }\n'
   )
   expect(initiativesDrawn(root)[0]?.intents.map((one) => one.statement)).toEqual(["zebra", "apple"])
@@ -200,7 +200,7 @@ test("an intent's working memory is read where the intent states one", () => {
   pageAt(
     root,
     "amy-one",
-    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", intents: [' +
+    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", intentStack: [' +
       '{ statement: "make it so", workingMemory: "cut at 74bda7f0" }] }\n'
   )
   expect(initiativesDrawn(root)[0]?.intents[0]?.workingMemory).toBe("cut at 74bda7f0")
@@ -212,7 +212,7 @@ test("an intent stating no working memory carries none", () => {
   pageAt(
     root,
     "amy-one",
-    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", intents: [' +
+    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", intentStack: [' +
       '{ statement: "make it so" }] }\n'
   )
   expect(initiativesDrawn(root)[0]?.intents[0]?.workingMemory).toBe(null)
@@ -237,19 +237,19 @@ test("an entry stating no statement is no intent and is passed over", () => {
   pageAt(
     root,
     "amy-one",
-    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", intents: [' +
+    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", intentStack: [' +
       '{ workingMemory: "held" }, { statement: "make it so" }] }\n'
   )
   expect(initiativesDrawn(root)[0]?.intents.map((one) => one.statement)).toEqual(["make it so"])
 })
 
-test("an intents key holding what is no list carries no intent", () => {
+test("an intentStack key holding what is no list carries no intent", () => {
   const root = worldFor()
   filing(root, "amy-one", ONE)
   pageAt(
     root,
     "amy-one",
-    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", intents: "make it so" }\n'
+    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", intentStack: "make it so" }\n'
   )
   expect(initiativesDrawn(root)[0]?.intents).toEqual([])
 })
