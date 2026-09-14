@@ -14,7 +14,8 @@ export const packageReaching = {
     },
     {
       invariantKind: "departure",
-      statement: "A path with the file name the `manifest` property states is a manifest.",
+      statement:
+        "A path with the file name the `workspace-manifest` property states is a manifest.",
     },
     {
       invariantKind: "departure",

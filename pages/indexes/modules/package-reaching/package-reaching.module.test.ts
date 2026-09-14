@@ -26,7 +26,7 @@ const ONE = JSON.stringify({ name: "@akasha/one", exports: { ".": "./one.module.
 
 const TWO = JSON.stringify({ name: "@akasha/two", exports: { "./deep": "./deep/two.ts" } })
 
-const FILING = new Map<string, string | null>([["manifest", "package.json"]])
+const FILING = new Map<string, string | null>([["workspace-manifest", "package.json"]])
 
 const PATHS = [
   "akasha/one/package.json",
@@ -38,13 +38,13 @@ const BODIES = reading({ "akasha/one/package.json": ONE, "akasha/two/package.jso
 
 function worldAt(): string {
   const root = scratch.rootFor(PREFIX)
-  shapeAdded(root, "file-property", "manifest", [
+  shapeAdded(root, "file-property", "workspace-manifest", [
     {
       pageTypeSlug: "file-property",
       targetPageTypeSlug: null,
       unique: null,
-      slug: "manifest",
-      propertySlug: "manifest",
+      slug: "workspace-manifest",
+      propertySlug: "workspace-manifest",
       fileName: "package.json",
     },
   ])

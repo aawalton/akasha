@@ -16,7 +16,7 @@ import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.mod
 import { readingOf } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
-const MANIFEST = "manifest"
+const WORKSPACE_MANIFEST = "workspace-manifest"
 
 const SEPARATOR = "/"
 
@@ -61,7 +61,7 @@ function manifestsIn(
   paths: Iterable<string>,
   fileProperties: ReadonlyMap<string, string | null>
 ): readonly string[] {
-  return manifestsAmong(paths, fileProperties.get(MANIFEST) ?? null)
+  return manifestsAmong(paths, fileProperties.get(WORKSPACE_MANIFEST) ?? null)
 }
 
 function besideAt(path: string, fileName: string): string {
@@ -73,7 +73,7 @@ export function manifestsBeside(
   given: string | Reading,
   fileProperties: ReadonlyMap<string, string | null>
 ): readonly string[] {
-  const fileName = fileProperties.get(MANIFEST) ?? null
+  const fileName = fileProperties.get(WORKSPACE_MANIFEST) ?? null
   if (fileName === null) return []
   const found = new Set<string>()
   for (const [slug, named] of fileProperties) {
