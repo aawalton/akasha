@@ -1,12 +1,10 @@
 import { dirname } from "node:path"
 import type { Standing } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts"
-import { saidInside } from "akasha/checks/modules/shape-saying/shape-saying.module.code.ts"
+import { ofBookSections } from "akasha/checks/code-checks/pages/folder-matches-a-shape/modules/book-sections/book-sections.module.code.ts"
 
 export const HOLDS = ["sections"]
 
 const BOOK = "alan-book"
-
-const SECTION = "book-section"
 
 function slugIn(held: string): string {
   const at = held.indexOf("/")
@@ -31,33 +29,6 @@ export function sectionsOfTheBookAbove(standing: Standing): readonly string[] {
     said.push(`the page above is a \`${typeIn(first)}\` rather than a \`${BOOK}\``)
     return said
   }
-  const book = slugIn(holding)
-  if (standing.strays.length > 0) {
-    said.push(
-      `${standing.strays.length} files are neither a section nor a file beside one: ${saidInside(standing.folder, standing.strays)}`
-    )
-  }
-  const other = standing.pages.filter((one) => one.pageTypeSlug !== SECTION)
-  if (other.length > 0) {
-    said.push(
-      `${other.length} pages here are not of \`${SECTION}\`: ${saidInside(standing.folder, other)}`
-    )
-  }
-  const loose = standing.pages.filter(
-    (one) => one.pageTypeSlug === SECTION && !standing.partOf(one).includes(book)
-  )
-  if (loose.length > 0) {
-    said.push(
-      `${loose.length} sections here name \`${book}\` nowhere as what holds them: ${saidInside(standing.folder, loose)}`
-    )
-  }
-  const here = new Set<string>(standing.pages.map((one) => one.page ?? one.path))
-  const stranded = standing.properties.filter((one) => !here.has(one.page ?? one.path))
-  if (stranded.length > 0) {
-    said.push(
-      `${stranded.length} files sit beside no section here: ${saidInside(standing.folder, stranded)}`
-    )
-  }
-  if (standing.pages.length === 0 && said.length === 0) said.push("it holds no section")
+  said.push(...ofBookSections(standing, slugIn(holding)))
   return said
 }
