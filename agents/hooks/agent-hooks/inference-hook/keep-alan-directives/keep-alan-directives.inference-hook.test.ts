@@ -9,7 +9,7 @@ import {
   SCOPE,
   stillWorking,
   type Valued,
-} from "akasha/agents/hooks/agent-hooks/inference-hooks/keep-alan-directives/keep-alan-directives.inference-hook.code.ts"
+} from "akasha/agents/hooks/agent-hooks/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.code.ts"
 import { ASIDE, REFUSED } from "akasha/agents/hooks/modules/answer/hook-answer.module.code.ts"
 import type {
   Directive,

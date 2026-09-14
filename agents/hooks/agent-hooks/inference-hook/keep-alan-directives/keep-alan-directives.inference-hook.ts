@@ -1,4 +1,4 @@
-import type { InferenceHook } from "akasha/agents/hooks/agent-hooks/inference-hooks/inference-hook.page-type.types.ts"
+import type { InferenceHook } from "akasha/agents/hooks/agent-hooks/inference-hook/inference-hook.page-type.types.ts"
 
 export const keepAlanDirectives = {
   id: "01a090e9-b891-780c-ae1c-408119c382ec",
