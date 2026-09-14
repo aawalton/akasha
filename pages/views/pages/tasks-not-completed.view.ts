@@ -6,7 +6,7 @@ export const tasksNotCompleted = {
   slug: "tasks-not-completed",
   title: "Not Completed",
   nav: "nav/tasks",
-  pageType: "to-do",
+  pageType: "page-type/to-do",
   viewPlace: 2,
   layout: "cards",
   narrows: [{ key: "to-do-completed-at", comparison: "empty", values: ["true"] }],

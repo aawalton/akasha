@@ -6,7 +6,7 @@ export const tasksToday = {
   slug: "tasks-today",
   title: "Today",
   nav: "nav/tasks",
-  pageType: "to-do",
+  pageType: "page-type/to-do",
   viewPlace: 0,
   layout: "cards",
   narrows: [{ key: "to-do-due-date", comparison: "before", values: ["eso-day-next"] }],

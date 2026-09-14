@@ -6,7 +6,7 @@ export const temperTasksCompleted = {
   slug: "temper-tasks-completed",
   title: "Completed",
   nav: "nav/temper-tasks",
-  pageType: "temper-task",
+  pageType: "page-type/temper-task",
   viewPlace: 3,
   narrows: [{ key: "last-completed-at", comparison: "at-or-after", values: ["eso-day"] }],
   viewSorts: [{ key: "last-completed-at", descending: true }],

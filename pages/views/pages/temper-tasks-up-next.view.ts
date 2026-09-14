@@ -6,7 +6,7 @@ export const temperTasksUpNext = {
   slug: "temper-tasks-up-next",
   title: "Up Next",
   nav: "nav/temper-tasks",
-  pageType: "temper-task",
+  pageType: "page-type/temper-task",
   viewPlace: 1,
   narrows: [{ key: "due-date", comparison: "at-or-after", values: ["eso-day-next"] }],
   viewSorts: [

@@ -6,7 +6,7 @@ export const temperTasksToday = {
   slug: "temper-tasks-today",
   title: "Today",
   nav: "nav/temper-tasks",
-  pageType: "temper-task",
+  pageType: "page-type/temper-task",
   viewPlace: 0,
   narrows: [
     { key: "due-date", comparison: "before", values: ["eso-day-next"] },

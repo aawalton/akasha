@@ -6,7 +6,7 @@ export const animeAndShowsToWatch = {
   slug: "anime-and-shows-to-watch",
   title: "To Watch",
   nav: "nav/anime-and-shows",
-  pageType: "ki-show",
+  pageType: "page-type/ki-show",
   viewPlace: 1,
   layout: "cards",
   narrows: [{ key: "status", comparison: "is", values: ["Not Started"] }],

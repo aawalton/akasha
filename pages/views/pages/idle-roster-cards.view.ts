@@ -6,7 +6,7 @@ export const idleRosterCards = {
   slug: "idle-roster-cards",
   title: "Cards",
   nav: "nav/idle-roster",
-  pageType: "idle-persona-card",
+  pageType: "page-type/idle-persona-card",
   viewPlace: 0,
   layout: "gallery",
   groupSorts: [{ key: "lock-state", descending: false }],

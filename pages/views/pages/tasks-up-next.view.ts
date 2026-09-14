@@ -6,7 +6,7 @@ export const tasksUpNext = {
   slug: "tasks-up-next",
   title: "Up Next",
   nav: "nav/tasks",
-  pageType: "to-do",
+  pageType: "page-type/to-do",
   viewPlace: 1,
   narrows: [
     { key: "to-do-completed-at", comparison: "empty", values: ["true"] },
