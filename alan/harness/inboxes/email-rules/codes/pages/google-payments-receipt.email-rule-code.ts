@@ -10,5 +10,5 @@ export const googlePaymentsReceipt = {
     { field: "subject", comparison: "contains", values: ["received your payment"] },
   ],
   filing: "archive",
-  forwardTo: "jenny",
+  forwardTo: "person/jenny",
 } as const satisfies EmailRuleCode

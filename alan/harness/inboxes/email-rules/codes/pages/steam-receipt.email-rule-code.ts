@@ -14,5 +14,5 @@ export const steamReceipt = {
     },
   ],
   filing: "archive",
-  forwardTo: "jenny",
+  forwardTo: "person/jenny",
 } as const satisfies EmailRuleCode

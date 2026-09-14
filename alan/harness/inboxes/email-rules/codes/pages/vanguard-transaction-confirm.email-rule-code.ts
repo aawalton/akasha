@@ -14,5 +14,5 @@ export const vanguardTransactionConfirm = {
     },
   ],
   filing: "archive",
-  forwardTo: "jenny",
+  forwardTo: "person/jenny",
 } as const satisfies EmailRuleCode

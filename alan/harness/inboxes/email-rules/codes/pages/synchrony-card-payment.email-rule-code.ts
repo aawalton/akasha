@@ -14,5 +14,5 @@ export const synchronyCardPayment = {
     },
   ],
   filing: "archive",
-  forwardTo: "jenny",
+  forwardTo: "person/jenny",
 } as const satisfies EmailRuleCode
