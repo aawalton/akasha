@@ -11,7 +11,6 @@ import {
   declaring,
   typed,
 } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
-import { noPathsFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
@@ -49,7 +48,6 @@ test("a path no page claims is refused, and the refusal says why it matters", ()
 
 test("whether a page claims a path is composed from that path's own name", () => {
   const root = scratch.rootFor("akasha-file-has-its-page-")
-  noPathsFiled(root)
   typed(root, "module", null)
   claiming(root, HELD, HELD, ID)
   const claimed = claimingIn(shadowAt(root))
@@ -59,7 +57,6 @@ test("whether a page claims a path is composed from that path's own name", () =>
 
 test("a file inside a folder a page claims is claimed by that page", () => {
   const root = scratch.rootFor("akasha-file-has-its-page-folder-")
-  noPathsFiled(root)
   typed(root, "module", null, ["built"])
   declaring(root, "built", { pageTypeSlug: "named-folder-property", folderName: "www" })
   claiming(root, BUILT, HELD, ID)
@@ -80,7 +77,6 @@ test("a file named as no reserved tail is answered nothing and asked of the inde
 
 test("a reserved tail is let through by the page beside it being filed, not by itself", () => {
   const root = scratch.rootFor("akasha-file-has-its-page-reserved-")
-  noPathsFiled(root)
   typed(root, "module", null)
   claiming(root, HELD, HELD, ID)
   const claimed = claimingIn(shadowAt(root))
@@ -92,7 +88,6 @@ const HELD_ENTRIES = "akasha/a/held.module.entries.uncommitted.jsonl"
 
 test("a file named as a page's uncommitted tail names that page though a section runs before it", () => {
   const root = scratch.rootFor("akasha-file-has-its-page-sectioned-")
-  noPathsFiled(root)
   typed(root, "module", null)
   claiming(root, HELD, HELD, ID)
   expect(reservedBeside(HELD_ENTRIES)).toBe(HELD)
