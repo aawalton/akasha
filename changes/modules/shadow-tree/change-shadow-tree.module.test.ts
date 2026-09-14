@@ -148,6 +148,15 @@ test("a path the answer takes away is left out of the files tracked under that f
   expect(found).toContain(ALPHA_PAGE)
 })
 
+test("the root folder answers the files tracked under it rather than answering nothing", () => {
+  const root = indexedRepo(HELD)
+
+  const found = treeTracked(root, "", NOTHING)
+
+  expect(found).toContain(ALPHA_PAGE)
+  expect(found).toEqual(treeTracked(root, ".", NOTHING))
+})
+
 const ONE_AT = "akasha/one"
 
 const FRESH_ONE = `${ONE_AT}/fresh.module.code.ts`

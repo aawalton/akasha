@@ -98,5 +98,9 @@ export const changeShadowTree = {
       statement:
         "A path the answer takes away is left out of those files though git tracks that path.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The root folder answers those files rather than answering nothing.",
+    },
   ],
 } as const satisfies Module

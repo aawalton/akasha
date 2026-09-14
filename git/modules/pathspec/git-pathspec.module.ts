@@ -15,5 +15,10 @@ export const gitPathspec = {
       invariantKind: "departure",
       statement: "A repository git will not answer for answers nothing rather than no path.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The repository root is asked for as the folder `.` rather than as the empty string git refuses.",
+    },
   ],
 } as const satisfies Module

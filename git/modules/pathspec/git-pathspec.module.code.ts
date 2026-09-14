@@ -1,5 +1,7 @@
 import { git, ranGit as ran } from "akasha/git/modules/capping/git-capping.module.code.ts"
 
+const ROOT = "."
+
 export function gitIgnoring(root: string, paths: readonly string[]): ReadonlySet<string> | null {
   if (paths.length === 0) return new Set()
   const proc = ran(root, ["check-ignore", "--stdin", "-z"], {
@@ -15,7 +17,7 @@ export function gitIgnoring(root: string, paths: readonly string[]): ReadonlySet
 }
 
 export function trackedUnder(root: string, folder: string): readonly string[] | null {
-  const got = git(root, ["ls-files", "--cached", "-z", "--", folder])
+  const got = git(root, ["ls-files", "--cached", "-z", "--", folder === "" ? ROOT : folder])
   if (got.code !== 0) return null
   return got.stdout.split("\0").filter((one) => one !== "")
 }
