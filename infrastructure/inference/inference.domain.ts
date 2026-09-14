@@ -11,8 +11,8 @@ export const inference = {
     "domain/inference-clients",
     "domain/inference-commands",
     "domain/inference-pool",
-    "domain/inference-run",
     "domain/voice-inference",
+    "page-type/inference-run",
   ],
   invariants: [
     {

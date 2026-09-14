@@ -4,7 +4,7 @@ export const landingOneInferenceRowRewritesAWholePartSoARunCostsAMegabyteOfObjec
   id: "01a09607-85f9-7001-bcba-a3f5a487d4f1",
   type: "finding",
   slug: "landing-one-inference-row-rewrites-a-whole-part-so-a-run-costs-a-megabyte-of-objects",
-  domain: "domain/inference-run",
+  domain: "page-type/inference-run",
   claim:
     "Every row landed beside the generation log rewrites its whole `.jsonl` part, so a run costs about 2.4 MiB of git objects and a persisted run about 3.1 MiB, against 2.3 KiB of appended text. At the present 74 runs a day that is roughly 175 MiB a day, and the rate now rises, because from today nine `inference` commands land a row where nothing landed one automatically. Append-only files delta almost perfectly, so a repack collapses this to near the appended bytes: the cost is transient rather than cumulative, but large between repacks, and I found nothing scheduling one. Separately, `MOST_PARTS` is 16, and that is a counter at whose end all nine commands go dead at once. The mend that suggests itself is a smaller entry ceiling rather than a larger part count, and it wants its own measurement.",
   evidence:

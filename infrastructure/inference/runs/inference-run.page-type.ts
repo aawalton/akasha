@@ -7,6 +7,15 @@ export const inferenceRun = {
   definition: "one loading of a model to make something, and how it went",
   pluralSlug: "inference-runs",
   extends: ["page-type/page"],
+  parts: [
+    "module/generation-log",
+    "module/inference-run-record",
+    "module/inference-run-services",
+    "module/inference-run-store",
+    "module/persist-audio",
+    "module/persist-image",
+    "module/persist-media",
+  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -15,6 +24,29 @@ export const inferenceRun = {
     {
       invariantKind: "departure",
       statement: "A run records where its output was written rather than the output itself.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that throws is finished as failed rather than left running.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The media a run made is kept as an object and named from the page that object was made under.",
+    },
+    { invariantKind: "absence", statement: "Nothing here reaches a model service." },
+    { invariantKind: "absence", statement: "Nothing here knows which host a service is on." },
+    {
+      invariantKind: "departure",
+      statement: "A run is recorded as a row beside the generation log that run names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a recording landed is pushed into the caller's `done` as it lands.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A recording that threw part way names in its refusal what had landed by then.",
     },
   ],
   types: "ts",
