@@ -18,7 +18,6 @@ export const listingConfigSchema = z
     always_show_properties: z.array(z.string()).optional(),
     filters: z.array(viewFilterSchema).optional(),
     includeDescendants: z.boolean().optional(),
-    coverAction: z.object({ capability: z.string() }).optional(),
   })
   .passthrough()
 

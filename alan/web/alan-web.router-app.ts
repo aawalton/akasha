@@ -66,7 +66,6 @@ export const alanWeb = {
     "module/idle-card-view",
     "module/idle-catalog",
     "module/idle-catalog-store",
-    "module/idle-cover-click",
     "module/idle-display",
     "module/idle-draw-verb",
     "module/idle-error-message",

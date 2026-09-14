@@ -14,7 +14,6 @@ export const pageUi = {
     "domain/page-ui-cache",
     "domain/page-ui-capabilities",
     "domain/page-ui-contexts",
-    "domain/page-ui-cover-click",
     "domain/page-ui-frame",
     "domain/page-ui-markdown",
     "domain/page-ui-media",

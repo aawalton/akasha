@@ -19,8 +19,6 @@ import {
   readRelationConfig,
 } from "akasha/pages/ui/components/modules/view-tab-content-href/view-tab-content-href.module.code.ts"
 import type { PageRow } from "akasha/pages/ui/components/view-engine/modules/view-row/view-row.module.code.ts"
-import { getCoverClickHandler } from "akasha/pages/ui/cover-click/modules/cover-click-registry/cover-click-registry.module.code.ts"
-import { getCoverMask } from "akasha/pages/ui/cover-click/modules/cover-mask-registry/cover-mask-registry.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 
 interface PageCardRendererProps {
@@ -52,7 +50,8 @@ interface PageCardRendererProps {
   galleryCardSize?: GalleryCardSize
   galleryCoverSourceId?: string
   notesProperty?: PropertyDefinition
-  coverActionCapability?: string
+  coverMaskGlyph?: string | null
+  onCoverClick?: () => void
 }
 
 export function PageCardRenderer({
@@ -74,7 +73,8 @@ export function PageCardRenderer({
   galleryCardSize,
   galleryCoverSourceId,
   notesProperty,
-  coverActionCapability,
+  coverMaskGlyph,
+  onCoverClick,
 }: PageCardRendererProps) {
   const completion = rowPageTypeSlug == null ? null : completionShapeOf(rowPageTypeSlug)
   const viewRowHref = buildRowHref(rowPageTypeSlug, page)
@@ -86,17 +86,6 @@ export function PageCardRenderer({
   const { _id: id, ...rest } = page
   const fill = rowAggregates.get(id)
   const pageData = pageRowToPageDataJSON(fill ? { ...rest, ...fill } : rest)
-  const coverHandler =
-    coverActionCapability != null ? getCoverClickHandler(coverActionCapability) : undefined
-  const onCoverClick =
-    coverHandler != null && rowPageTypeSlug != null
-      ? () => coverHandler({ pageId: id, pageTypeSlug: rowPageTypeSlug, data: pageData })
-      : undefined
-  const coverMask = rowPageTypeSlug != null ? getCoverMask(rowPageTypeSlug) : undefined
-  const coverMaskGlyph =
-    coverMask != null && rowPageTypeSlug != null
-      ? coverMask({ pageId: id, pageTypeSlug: rowPageTypeSlug, data: pageData })
-      : null
   const notesSlot =
     notesProperty != null && rowPageTypeSlug != null ? (
       <PageCardNotes

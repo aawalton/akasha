@@ -8,9 +8,9 @@ import { displayedResource } from "akasha/alan/harness/idle-system/modules/idle-
 import { bucketPageRowsByGroup } from "akasha/alan/web/modules/idle-card-grouping/idle-card-grouping.module.code.ts"
 import {
   IDLE_CARD_PROPERTY_DEFINITIONS,
+  IDLE_LOCK_STATE_UNLOCKED,
   IDLE_PERSONA_CARD_ICON,
   IDLE_PERSONA_CARD_PAGE_TYPE_SLUG,
-  ROSTER_GALLERY_CAPABILITY,
 } from "akasha/alan/web/modules/idle-card-page-type/idle-card-page-type.module.code.ts"
 import { deriveCardRows } from "akasha/alan/web/modules/idle-card-rows/idle-card-rows.module.code.ts"
 import {
@@ -21,6 +21,7 @@ import {
 import { idleGameStore } from "akasha/alan/web/modules/idle-game-store/idle-game-store.module.code.ts"
 import { buildLineupViewConfig } from "akasha/alan/web/modules/idle-lineup-view-config/idle-lineup-view-config.module.code.ts"
 import { buildRosterViewConfig } from "akasha/alan/web/modules/idle-roster-view-config/idle-roster-view-config.module.code.ts"
+import { openRosterGallery } from "akasha/alan/web/modules/roster-gallery-store/roster-gallery-store.module.code.ts"
 import type { GalleryCardSize } from "akasha/pages/core/view/modules/gallery/gallery.module.code.ts"
 import { resolveGalleryCardSize } from "akasha/pages/core/view/modules/gallery/gallery.module.code.ts"
 import { PageCardRenderer } from "akasha/pages/ui/components/modules/page-card-renderer/page-card-renderer.module.code.tsx"
@@ -35,6 +36,17 @@ const EMPTY_PLURAL_SLUGS: ReadonlyMap<string, string> = new Map()
 const noHref = (): string => ""
 
 const ROW_PAGE_TYPE_SLUG = toPageTypeSlug(IDLE_PERSONA_CARD_PAGE_TYPE_SLUG)
+
+const LOCKED_GLYPH = "⚿"
+
+function cardSlugOf(page: PageRow): string | undefined {
+  const slug = page.cardSlug
+  return typeof slug === "string" && slug !== "" ? slug : undefined
+}
+
+function unlocked(page: PageRow): boolean {
+  return page.lockState === IDLE_LOCK_STATE_UNLOCKED
+}
 
 interface CardViewLayout {
   readonly visibleProperties: readonly string[]
@@ -159,21 +171,28 @@ export function IdleCardView({ view, now }: { view: "lineup" | "roster"; now: nu
       serverGrouped={serverGrouped}
       onConfigChange={(config) => setGroupBy(config.groupBy ?? "")}
       onReorderCards={onReorderCards}
-      renderItem={(page) => (
-        <PageCardRenderer
-          page={page}
-          properties={IDLE_CARD_PROPERTY_DEFINITIONS}
-          visibleProperties={layout.visibleProperties}
-          galleryCardSize={layout.galleryCardSize}
-          galleryCoverSourceId={layout.galleryCoverSource}
-          coverActionCapability={ROSTER_GALLERY_CAPABILITY}
-          rowPageTypeSlug={ROW_PAGE_TYPE_SLUG}
-          rowAggregates={EMPTY_AGGREGATES}
-          pageTypeIconName={IDLE_PERSONA_CARD_ICON}
-          pageHrefById={noHref}
-          pageTypePluralSlugById={EMPTY_PLURAL_SLUGS}
-        />
-      )}
+      renderItem={(page) => {
+        const cardSlug = cardSlugOf(page)
+        const open = unlocked(page)
+        return (
+          <PageCardRenderer
+            page={page}
+            properties={IDLE_CARD_PROPERTY_DEFINITIONS}
+            visibleProperties={layout.visibleProperties}
+            galleryCardSize={layout.galleryCardSize}
+            galleryCoverSourceId={layout.galleryCoverSource}
+            coverMaskGlyph={open ? null : LOCKED_GLYPH}
+            onCoverClick={
+              open && cardSlug !== undefined ? () => openRosterGallery(cardSlug) : undefined
+            }
+            rowPageTypeSlug={ROW_PAGE_TYPE_SLUG}
+            rowAggregates={EMPTY_AGGREGATES}
+            pageTypeIconName={IDLE_PERSONA_CARD_ICON}
+            pageHrefById={noHref}
+            pageTypePluralSlugById={EMPTY_PLURAL_SLUGS}
+          />
+        )
+      }}
     />
   )
 }

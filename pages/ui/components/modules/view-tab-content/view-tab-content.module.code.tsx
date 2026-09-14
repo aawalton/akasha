@@ -1,7 +1,6 @@
 "use client"
 
 import { completionShapeOf } from "akasha/pages/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
-import { parseListingConfig } from "akasha/pages/core/schema/modules/listing-config/listing-config.module.code.ts"
 import {
   isLocked,
   isPageTypeLocked,
@@ -142,9 +141,6 @@ export function ViewTabContent({
 
   const pageTypeName = String(effectivePageType?.properties?.title ?? "Items")
 
-  const coverActionCapability = parseListingConfig(effectivePageType?.properties?.listingConfig)
-    ?.coverAction?.capability
-
   const completion = rowPageTypeSlug == null ? null : completionShapeOf(rowPageTypeSlug)
 
   const handleComplete = (page: PageRow, atMs: number | null) => {
@@ -243,7 +239,6 @@ export function ViewTabContent({
             galleryCardSize={galleryCardSize}
             galleryCoverSourceId={galleryCoverSource}
             notesProperty={notesProperty}
-            coverActionCapability={coverActionCapability}
             rowPageTypeSlug={rowPageTypeSlug}
             rowAggregates={rowAggregates}
             pageTypeIconName={pageTypeIconName}
