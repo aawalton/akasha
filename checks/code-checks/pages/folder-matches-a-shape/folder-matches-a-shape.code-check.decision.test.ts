@@ -77,15 +77,19 @@ const SECTION_FILES = new Set<string>(["chapter-text"])
 const SCOPED = new Map<string, Value>([
   [
     MY_MATH_AT,
-    { pageTypeSlug: "book-section", slug: "beginnings", partOfCollections: ["my-math"] },
+    { pageTypeSlug: "book-section", slug: "beginnings", partOfCollections: ["alan-book/my-math"] },
   ],
   [
     `${MY_STRATEGY_SECTIONS}/beginnings.book-section.ts`,
-    { pageTypeSlug: "book-section", slug: "beginnings", partOfCollections: ["my-strategy"] },
+    {
+      pageTypeSlug: "book-section",
+      slug: "beginnings",
+      partOfCollections: ["alan-book/my-strategy"],
+    },
   ],
   [
     `${MY_STRATEGY_SECTIONS}/two.book-section.ts`,
-    { pageTypeSlug: "book-section", slug: "two", partOfCollections: ["my-strategy"] },
+    { pageTypeSlug: "book-section", slug: "two", partOfCollections: ["alan-book/my-strategy"] },
   ],
 ])
 
@@ -97,8 +101,8 @@ function sectioned(at: string): Held {
 
 test("two sections slugged alike under different books each name the book holding it", () => {
   const strategy = sectioned(`${MY_STRATEGY_SECTIONS}/beginnings.book-section.ts`)
-  expect(scopedPartOf(sectioned(MY_MATH_AT))).toEqual(["my-math"])
-  expect(scopedPartOf(strategy)).toEqual(["my-strategy"])
+  expect(scopedPartOf(sectioned(MY_MATH_AT))).toEqual(["alan-book/my-math"])
+  expect(scopedPartOf(strategy)).toEqual(["alan-book/my-strategy"])
 })
 
 const sectionsFolder = folderFrom({
@@ -123,7 +127,7 @@ test("that shape still refuses a section the index cannot reach by path", () => 
   )
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("stray.book-section.ts")
-  expect(said[0]).toContain("`my-strategy`")
+  expect(said[0]).toContain("`alan-book/my-strategy`")
 })
 
 const HOLDER_AT = `${MY_STRATEGY_SECTIONS}/beginnings.book-section.ts`
