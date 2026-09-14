@@ -33,12 +33,6 @@ let known: ReadonlySet<string> | null = null
 let knownAt = 0
 let pending: Promise<ReadonlySet<string>> | null = null
 
-export function forgetFileBackedPageTypes(): undefined {
-  known = null
-  knownAt = 0
-  pending = null
-}
-
 async function rosterAsked(ask: (query: Query) => Promise<Asked>): Promise<ReadonlySet<string>> {
   const asked = await ask({ pageTypeSlug: PAGE_TYPE, keys: ["slug"] })
   if ("refused" in asked) throw new RosterUnreachable(`${NO_ROSTER}: ${asked.refused}`)

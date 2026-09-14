@@ -31,10 +31,6 @@ export type PageTypeShape = {
 
 const asked = new Map<string, Promise<PageTypeShape | null>>()
 
-export function forgetAskedShapes(): undefined {
-  asked.clear()
-}
-
 async function read(pageTypeSlug: string): Promise<PageTypeShape | null> {
   const got = await shapeFor(pageTypeSlug)
   if ("refused" in got) {

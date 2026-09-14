@@ -26,12 +26,6 @@ type Fetcher = (input: string, init?: RequestInit) => Promise<Response>
 let known: ReadonlyMap<string, string> | null = null
 let asking: Promise<ReadonlyMap<string, string> | null> | null = null
 
-export function forgetPageTypeDirectory(): undefined {
-  known = null
-  asking = null
-  return undefined
-}
-
 async function askPageTypeDirectory(
   fetchImpl: Fetcher = fetch
 ): Promise<ReadonlyMap<string, string> | null> {
