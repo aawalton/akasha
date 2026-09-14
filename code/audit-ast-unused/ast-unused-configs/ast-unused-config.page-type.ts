@@ -6,28 +6,13 @@ export const astUnusedConfig = {
   slug: "ast-unused-config",
   definition: "one file of the curation the ast-unused audit reads its globs from",
   pluralSlug: "ast-unused-configs",
-  parts: ["file-property/curation", "file-property/workspaces"],
+  parts: ["file-property/curation"],
   extends: ["page-type/domain"],
-  properties: [
-    { pageProperty: "file-property/workspaces", required: false, many: false },
-    { pageProperty: "file-property/curation", required: false, many: false },
-  ],
+  properties: [{ pageProperty: "file-property/curation", required: false, many: false }],
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page has a curation root or a curation part rather than the two together.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A part is in a file named for the page with that part.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The root keeps the name its reader has compiled in rather than taking a page's.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The root names each part by the file name that part is held under.",
     },
   ],
   types: "ts",

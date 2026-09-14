@@ -4,24 +4,16 @@ export const auditAstUnused = {
   id: "01a0675b-16da-7bfd-8434-ddca9c15459f",
   type: "domain",
   slug: "audit-ast-unused",
-  definition: "the entry globs each workspace's reachability is worked out from",
+  definition: "the entry globs reachability is worked out from",
   parts: ["ast-unused-config/every-workspace", "page-type/ast-unused-config"],
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The curation is a root file naming its parts.",
+      statement: "The curation is one root file.",
     },
     {
       invariantKind: "departure",
-      statement: "The root names a part for each package family.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The curation is read by merging the root with each part the root names.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A part the tree does not hold refuses the read rather than being skipped.",
+      statement: "The tree is one workspace, so the curation names no part.",
     },
     {
       invariantKind: "departure",

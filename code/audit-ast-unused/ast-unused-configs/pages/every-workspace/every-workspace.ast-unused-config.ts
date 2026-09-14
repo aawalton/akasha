@@ -5,14 +5,5 @@ export const everyWorkspace = {
   type: "ast-unused-config",
   slug: "every-workspace",
   definition: "the root of the ast-unused curation",
-  parts: [
-    "ast-unused-config/alanwalton",
-    "ast-unused-config/archive-of-worlds",
-    "ast-unused-config/audhdalan",
-    "ast-unused-config/infra",
-    "ast-unused-config/shared",
-    "ast-unused-config/smilingjenny",
-    "ast-unused-config/temper",
-  ],
   curation: "json",
 } as const satisfies AstUnusedConfig
