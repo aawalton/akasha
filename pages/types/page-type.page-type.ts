@@ -178,6 +178,10 @@ export const pageType = {
       invariantKind: "departure",
       statement: "A page type states the component drawing a page of that page type as a row.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A page type states the component drawing a page of that page type as a card.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType
