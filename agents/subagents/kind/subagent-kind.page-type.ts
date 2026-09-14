@@ -5,7 +5,6 @@ export const subagentKind = {
   type: "page-type",
   slug: "subagent-kind",
   definition: "everything a subagent is, apart from the work it is given",
-  pluralSlug: "subagent-kinds",
   extends: ["page-type/domain"],
   parts: [
     "file-property/subagent-prompt",
