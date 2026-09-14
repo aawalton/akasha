@@ -10,7 +10,7 @@ export const day20260914 = {
   nutritionPoints: 160,
   activeCalories: 208.67600000000004,
   wisdomWords: 0,
-  intelligenceTopics: 0,
+  intelligenceTopics: 49,
   inboxTasks: 3,
   inboxTasksClearedToday: false,
   inboxTemperTasks: 15,
