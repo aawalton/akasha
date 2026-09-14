@@ -4,7 +4,7 @@ export const alan = {
   id: "01a0960c-bed2-7000-bf3e-1930976ad678",
   type: "seat",
   slug: "alan",
-  persona: "persona/amy",
+  persona: "amy",
   assignmentSlug: "domain/alan",
   role: "handler",
   person: "alan",
