@@ -1,5 +1,4 @@
 import { valueImportsIn } from "akasha/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.decision.code.ts"
-import { overEachText } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import {
   lineOf,
   parsedAs,
@@ -73,5 +72,3 @@ export function refusedIn(path: string, text: string): readonly string[] {
   if (!declaring(path)) return []
   return whatRunsIn(path, text).map(reasonFor)
 }
-
-export const reasonsIn = overEachText(refusedIn)
