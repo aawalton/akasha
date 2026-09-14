@@ -1,4 +1,3 @@
-import type { RevealedSheet } from "akasha/story/engine/core/modules/revealed/revealed.module.code.ts"
 import { z } from "zod"
 
 const QuestWindowSchema = z
@@ -93,33 +92,3 @@ export const SystemWindowSchema = z.preprocess((value) => {
   return value
 }, SystemWindowUnion)
 export type SystemWindow = z.infer<typeof SystemWindowUnion>
-export const SYSTEM_WINDOW_TYPES = [
-  "quest-added",
-  "quest-complete",
-  "item-award",
-  "status-assessment",
-  "talent-activation",
-  "system-choice",
-  "level-up",
-  "skill",
-  "affinity",
-  "class",
-  "title",
-] as const
-
-export function deriveStatusAssessment(
-  sheet: RevealedSheet,
-  pools?: Record<string, number>
-): StatusAssessment {
-  const attributes: Record<string, number> = {}
-  for (const [key, value] of Object.entries(sheet.attributes ?? {})) {
-    if (typeof value === "number") attributes[key] = value
-  }
-  return StatusAssessmentSchema.parse({
-    name: sheet.name ?? sheet.kind,
-    ...(sheet.level !== undefined ? { level: sheet.level } : {}),
-    ...(sheet.class !== undefined ? { class: sheet.class } : {}),
-    ...(Object.keys(attributes).length > 0 ? { attributes } : {}),
-    ...(pools !== undefined && Object.keys(pools).length > 0 ? { pools } : {}),
-  })
-}
