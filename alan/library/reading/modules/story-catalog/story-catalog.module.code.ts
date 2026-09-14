@@ -222,37 +222,3 @@ export async function loadStoryCatalog(storyId: string): Promise<LitrpgCatalog> 
     chapterRows.map((values) => chapterRecordOf(values, storyId, chapterType))
   )
 }
-
-export async function loadLitrpgCatalog(): Promise<LitrpgCatalog> {
-  const stories: LitrpgStory[] = []
-  const chapters: LitrpgChapter[] = []
-  for (const storyType of STORY_TYPES) {
-    const chapterType = CHAPTER_TYPE_BY_STORY_TYPE[storyType]
-    if (chapterType === undefined) continue
-    const storyRows = await askRows({
-      "page-type": storyType,
-      keys: STORY_KEYS,
-      limit: ASK_LIMIT,
-    })
-    const idBySlug = new Map<string, string>()
-    for (const values of storyRows) {
-      const record = storyRecordOf(values)
-      stories.push(rowToLitrpgStory(record))
-      for (const shape of partOfShapes(storyType, String(record.slug)))
-        idBySlug.set(shape, String(record.id))
-    }
-    const storyKeys = storyKeysOf(chapterType)
-    const chapterRows = await askRows({
-      "page-type": chapterType,
-      keys: [...CHAPTER_KEYS, ...storyKeys],
-      limit: ASK_LIMIT,
-    })
-    for (const values of chapterRows) {
-      const said = storyKeys.map((key) => values[key]).find((one) => one != null)
-      const named = Array.isArray(said) ? String(said[0] ?? "") : String(said ?? "")
-      const storyId = idBySlug.get(named) ?? ""
-      chapters.push(rowToLitrpgChapter(chapterRecordOf(values, storyId, chapterType)))
-    }
-  }
-  return { stories, chapters }
-}

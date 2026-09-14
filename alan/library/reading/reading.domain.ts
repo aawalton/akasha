@@ -11,7 +11,6 @@ export const reading = {
     "module/reading-shapes",
     "module/resume-chapter",
     "module/story-catalog",
-    "module/story-choosing",
     "page-type/author",
     "page-type/author-collection",
     "page-type/book",
