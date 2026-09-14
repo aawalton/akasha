@@ -433,16 +433,3 @@ export function said(argv: readonly string[], asked: Asked = {}): string {
   if (done.code === 0) return done.out
   throw new Error(`\`${argv[0] ?? ""}\` ${endingOf(done.code, done.signal)} — ${done.err.trim()}`)
 }
-
-export function shown(argv: readonly string[], asked: Asked = {}): undefined {
-  const done = Bun.spawnSync([...argv], {
-    stdout: "inherit",
-    stderr: "inherit",
-    ...(asked.cwd === undefined ? {} : { cwd: asked.cwd }),
-    ...(asked.env === undefined ? {} : { env: asked.env }),
-    ...(asked.stdin === undefined ? {} : { stdin: asked.stdin }),
-    ...(asked.timeout === undefined ? {} : { timeout: asked.timeout }),
-  })
-  const code = done.exitCode ?? NO_CODE
-  if (code !== 0) throw new Error(`\`${argv[0] ?? ""}\` ${endingOf(code, done.signalCode ?? null)}`)
-}

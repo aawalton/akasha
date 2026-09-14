@@ -117,14 +117,6 @@ export const running = {
     },
     {
       invariantKind: "departure",
-      statement: "A process run to be watched writes to the streams its caller was given.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Nothing a watched process said is carried back.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A caller may give a process a ceiling in processor seconds.",
     },
     {
