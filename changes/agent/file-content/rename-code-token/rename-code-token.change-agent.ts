@@ -4,7 +4,7 @@ export const renameCodeToken = {
   id: "01a07718-c9b6-7d80-aebd-b1155f08ab77",
   type: "change-agent",
   slug: "rename-code-token",
-  changeMode: "change-mode-rename",
+  changeMode: "change-mode/change-mode-rename",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-code",
   definition: "a name a code file declares renamed wherever it reaches, exported or not",

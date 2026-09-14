@@ -4,7 +4,7 @@ export const removePageProperty = {
   id: "01a09c7a-b119-731f-b1f7-be0c81d02238",
   type: "change-agent",
   slug: "remove-page-property",
-  changeMode: "change-mode-remove",
+  changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/page-property",
   changeTargetSubtype: "change-target-subtype/page-property",
   definition:

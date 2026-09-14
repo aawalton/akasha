@@ -4,7 +4,7 @@ export const addPageProperty = {
   id: "01a09ffa-1b65-7dce-8f7e-d009956028c7",
   type: "change-agent",
   slug: "add-page-property",
-  changeMode: "change-mode-add",
+  changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/page-property",
   changeTargetSubtype: "change-target-subtype/page-property",
   definition:

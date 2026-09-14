@@ -4,7 +4,7 @@ export const appendLinesFrom = {
   id: "01a09312-fac0-7cab-bb6c-b8e6116903b3",
   type: "change-agent",
   slug: "append-lines-from",
-  changeMode: "change-mode-append",
+  changeMode: "change-mode/change-mode-append",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content",
   definition: "content one path holds, put at the end of what another path holds",

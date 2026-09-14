@@ -4,7 +4,7 @@ export const changeProsePattern = {
   id: "01a0824b-a376-7b9f-a01a-c3a1e81c3286",
   type: "change-agent",
   slug: "change-prose-pattern",
-  changeMode: "change-mode-change",
+  changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/prose",
   changeTargetSubtype: "change-target-subtype/prose-pattern",
   definition: "every passage a banned term is written in restated in the words written instead",

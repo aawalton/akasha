@@ -4,7 +4,7 @@ export const movePropertyOnEveryPage = {
   id: "01a0836c-9d39-76b7-bd18-59bab3a21e92",
   type: "change-agent",
   slug: "move-property-on-every-page",
-  changeMode: "change-mode-move",
+  changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page-property",
   definition: "one key's value written under another key on every page of one page type",

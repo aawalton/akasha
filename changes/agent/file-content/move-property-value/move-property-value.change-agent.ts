@@ -4,7 +4,7 @@ export const movePropertyValue = {
   id: "01a09523-3d2f-7e8b-885b-e4fc2e8a3222",
   type: "change-agent",
   slug: "move-property-value",
-  changeMode: "change-mode-move",
+  changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
   definition:

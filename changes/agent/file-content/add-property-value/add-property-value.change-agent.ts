@@ -4,7 +4,7 @@ export const addPropertyValue = {
   id: "01a07944-9edf-70c7-8101-db279ee5ea45",
   type: "change-agent",
   slug: "add-property-value",
-  changeMode: "change-mode-add",
+  changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
   definition: "one value put into one page property, judged by the checks a landing runs",

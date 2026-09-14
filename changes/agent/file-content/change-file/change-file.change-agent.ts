@@ -4,7 +4,7 @@ export const changeFile = {
   id: "01a07813-6e3d-7d39-a28a-164766ab0fed",
   type: "change-agent",
   slug: "change-file",
-  changeMode: "change-mode-change",
+  changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content",
   definition: "one passage of one body replaced, judged by the checks a landing runs",

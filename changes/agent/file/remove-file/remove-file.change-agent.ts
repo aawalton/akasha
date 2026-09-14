@@ -4,7 +4,7 @@ export const removeFile = {
   id: "01a07991-8989-7000-8e13-06e6791ebefb",
   type: "change-agent",
   slug: "remove-file",
-  changeMode: "change-mode-remove",
+  changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file",
   definition: "one file taken away, judged by the checks a landing runs",

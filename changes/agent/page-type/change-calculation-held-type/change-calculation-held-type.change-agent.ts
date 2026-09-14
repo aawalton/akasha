@@ -4,7 +4,7 @@ export const changeCalculationHeldType = {
   id: "01a08e63-dd13-7d9c-b2c7-ac4d653ee737",
   type: "change-agent",
   slug: "change-calculation-held-type",
-  changeMode: "change-mode-change",
+  changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page",
   definition: "every calculation naming its own property's type rather than restating that kind",

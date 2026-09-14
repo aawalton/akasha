@@ -4,7 +4,7 @@ export const changePagePageProperty = {
   id: "01a07932-2568-7c41-8097-885a9fc34263",
   type: "change-agent",
   slug: "change-page-page-property",
-  changeMode: "change-mode-change",
+  changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
   definition:

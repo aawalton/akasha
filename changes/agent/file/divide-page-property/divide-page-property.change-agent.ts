@@ -4,7 +4,7 @@ export const dividePageProperty = {
   id: "01a08df3-43fc-70b7-b21c-a996acd3d268",
   type: "change-agent",
   slug: "divide-page-property",
-  changeMode: "change-mode-divide",
+  changeMode: "change-mode/change-mode-divide",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file-page",
   definition: "one page property's rows laid out again across the files the ceiling takes",

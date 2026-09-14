@@ -4,7 +4,7 @@ export const addBinaryFile = {
   id: "01a09116-8eac-7885-886c-17c41e842516",
   type: "change-agent",
   slug: "add-binary-file",
-  changeMode: "change-mode-add",
+  changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file",
   definition: "one body the tree already holds, landed at the path that body sits at",

@@ -4,7 +4,7 @@ export const nestModules = {
   id: "01a095f8-a367-726d-98cb-052fe5052d45",
   type: "change-agent",
   slug: "nest-modules",
-  changeMode: "change-mode-move",
+  changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/folder",
   changeTargetSubtype: "change-target-subtype/folder",
   definition: "every module's folder carried under a modules folder beside the page above it",

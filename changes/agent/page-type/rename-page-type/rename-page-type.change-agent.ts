@@ -4,7 +4,7 @@ export const renamePageType = {
   id: "01a0828f-8c20-74d5-b11c-d220948452b4",
   type: "change-agent",
   slug: "rename-page-type",
-  changeMode: "change-mode-rename",
+  changeMode: "change-mode/change-mode-rename",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page",
   definition: "one page type renamed, by the partial change renaming a page type",

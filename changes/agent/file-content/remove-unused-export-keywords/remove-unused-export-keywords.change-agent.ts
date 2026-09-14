@@ -4,7 +4,7 @@ export const removeUnusedExportKeywords = {
   id: "01a095d5-f114-71cc-888d-338de89fc74b",
   type: "change-agent",
   slug: "remove-unused-export-keywords",
-  changeMode: "change-mode-remove",
+  changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-code",
   definition: "the `export` dropped from every value only the file declaring it names",

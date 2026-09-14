@@ -4,7 +4,7 @@ export const renamePagePropertyPropertySlug = {
   id: "01a0819e-9047-7f45-850f-d66e47cf03e4",
   type: "change-agent",
   slug: "rename-page-property-property-slug",
-  changeMode: "change-mode-rename",
+  changeMode: "change-mode/change-mode-rename",
   changeTargetType: "change-target-type/page-property",
   changeTargetSubtype: "change-target-subtype/page-property-property-slug",
   definition: "one property's key spelled anew on that property's page and on every page with it",

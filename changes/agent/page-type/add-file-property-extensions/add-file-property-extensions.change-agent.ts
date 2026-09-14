@@ -4,7 +4,7 @@ export const addFilePropertyExtensions = {
   id: "01a08e26-f9a5-707a-9db0-7a5b52d73384",
   type: "change-agent",
   slug: "add-file-property-extensions",
-  changeMode: "change-mode-add",
+  changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page",
   definition: "every file property told the endings the files that property has are named with",

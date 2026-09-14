@@ -4,7 +4,7 @@ export const changePropertyOnPageType = {
   id: "01a09c79-ba1c-7e9b-9cd9-92761fe1627c",
   type: "change-agent",
   slug: "change-property-on-page-type",
-  changeMode: "change-mode-change",
+  changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page-property",
   definition: "one property's declaration on a page type stated anew, with its pages carried",

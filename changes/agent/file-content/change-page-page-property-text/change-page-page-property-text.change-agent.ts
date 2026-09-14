@@ -4,7 +4,7 @@ export const changePagePagePropertyText = {
   id: "01a07995-6678-72d8-97ab-a78b836b2f8d",
   type: "change-agent",
   slug: "change-page-page-property-text",
-  changeMode: "change-mode-change",
+  changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-page-property-value-prose",
   definition: "the whole value one text property of one page has, stated anew in other words",

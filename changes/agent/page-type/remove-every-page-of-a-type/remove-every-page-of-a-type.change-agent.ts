@@ -4,7 +4,7 @@ export const removeEveryPageOfAType = {
   id: "01a081bd-2930-7f0d-9324-5412a477c845",
   type: "change-agent",
   slug: "remove-every-page-of-a-type",
-  changeMode: "change-mode-remove",
+  changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page",
   definition: "every page of one page type taken away, each with the files beside it",

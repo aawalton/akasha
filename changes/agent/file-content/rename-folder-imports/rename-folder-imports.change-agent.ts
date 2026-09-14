@@ -4,7 +4,7 @@ export const renameFolderImports = {
   id: "01a08dc4-e449-7081-b339-7a0d9b4ca947",
   type: "change-agent",
   slug: "rename-folder-imports",
-  changeMode: "change-mode-rename",
+  changeMode: "change-mode/change-mode-rename",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-code",
   definition: "every relative path a folder's bodies name spelled from the checkout root instead",

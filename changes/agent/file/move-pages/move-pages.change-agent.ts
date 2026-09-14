@@ -4,7 +4,7 @@ export const movePages = {
   id: "01a08863-b526-72fb-a4c4-99b6a097debc",
   type: "change-agent",
   slug: "move-pages",
-  changeMode: "change-mode-move",
+  changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file-page",
   definition: "many pages carried into the folders their lines name, in one call",

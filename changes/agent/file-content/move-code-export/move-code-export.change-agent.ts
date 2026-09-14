@@ -4,7 +4,7 @@ export const moveCodeExport = {
   id: "01a0879d-8148-79b2-b976-efaa5137360f",
   type: "change-agent",
   slug: "move-code-export",
-  changeMode: "change-mode-move",
+  changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-code",
   definition: "one export moved to another code body, judged by the checks a landing runs",

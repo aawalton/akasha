@@ -4,7 +4,7 @@ export const addPropertyToPageType = {
   id: "01a081e1-00ca-7879-a25f-c734368cb78a",
   type: "change-agent",
   slug: "add-property-to-page-type",
-  changeMode: "change-mode-add",
+  changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page-property",
   definition: "one page property declared on one page type",
