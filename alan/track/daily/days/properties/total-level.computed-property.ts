@@ -10,7 +10,7 @@ export const totalLevel = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A day missing any of the six levels reaches no rung.",
     },
   ],

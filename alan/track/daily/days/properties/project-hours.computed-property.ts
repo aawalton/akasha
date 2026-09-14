@@ -10,15 +10,15 @@ export const projectHours = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stretch counts where the stretch's title says projects as a word of its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stretch still open counts up to the moment the reading is taken.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A day with no stretches is no reading rather than a spend of nothing.",
     },
   ],

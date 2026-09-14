@@ -12,43 +12,43 @@ export const personaRelationshipLevel = {
   testFixtures: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every persona starts at level 0.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A level is the highest rung a persona's points have reached or passed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rung is read off the closeness level of that number.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The rungs are climbed from the first upward until a rung is out of reach.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A level the ladder states no rung for is out of reach.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Points short of the next rung leave the level unchanged.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A persona with no total at all is level 0.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here adds up a persona's points.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No rung is spelled here.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here writes.",
     },
   ],

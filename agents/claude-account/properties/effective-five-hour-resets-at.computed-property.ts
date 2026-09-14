@@ -11,20 +11,20 @@ export const effectiveFiveHourResetsAt = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An account that has spent its seven-day window has no five-hour reset.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The reset is worked out from the effective seven-day usage rather than the stated percent.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An account whose subscription is withdrawn has no five-hour reset.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement:
         "No code outside the five-hour reset module works out whether a reset is held back.",
     },

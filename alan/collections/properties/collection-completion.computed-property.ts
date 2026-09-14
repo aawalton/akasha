@@ -11,7 +11,7 @@ export const collectionCompletion = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A collection whose length or progress is absent reads as not started.",
     },
   ],

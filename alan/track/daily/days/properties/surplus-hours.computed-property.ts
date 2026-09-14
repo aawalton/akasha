@@ -10,7 +10,7 @@ export const surplusHours = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A day holding neither sleep nor spend states no surplus.",
     },
   ],

@@ -12,28 +12,28 @@ export const effectiveFiveHourUsage = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An account that has spent its seven-day window has spent its five-hour window.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The five-hour usage is worked out from the effective seven-day usage rather than the stated percent.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An account whose subscription is withdrawn has spent the whole of the window.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An account with no percent is worked out as no reading rather than as zero.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A percent stated as text is read as the number that percent spells.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No code outside the effective five-hour usage works out the five-hour spend.",
     },
   ],
