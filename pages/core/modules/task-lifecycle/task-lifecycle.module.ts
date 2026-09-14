@@ -65,5 +65,10 @@ export const taskLifecycle = {
       invariantKind: "absence",
       statement: "Nothing here reads a clock.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A second marking on the day of the first leaves the due date where the first put it.",
+    },
   ],
 } as const satisfies Module

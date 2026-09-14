@@ -82,6 +82,7 @@ export function completionValues(
   const stamp = new Date(atMs).toISOString()
   const rule = textAt(values, shape.recurrenceKey)
   if (rule === null) return { [shape.stampKey]: stamp, [shape.doneKey]: stamp }
+  if (completedOnTheDayOf(shape, values, atMs)) return { [shape.stampKey]: stamp }
   const due = nextDueFor(shape, values, rule, atMs, nowMs)
   if (due === null) return { [shape.stampKey]: stamp }
   return { [shape.stampKey]: stamp, [shape.dueKey]: due }

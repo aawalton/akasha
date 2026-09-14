@@ -133,6 +133,20 @@ test("a completion captured on an earlier day comes round from the clock", () =>
   expect(said.lastCompletedAt).toBe("2026-08-01T18:00:00.000Z")
 })
 
+test("a second marking on the day of the first leaves the due date where it was", () => {
+  const said = completionValues(
+    shapeFor("to-do"),
+    {
+      toDoDueDate: "2026-09-07",
+      toDoRecurrence: "FREQ=DAILY",
+      toDoLastCompletedAt: "2026-09-06T14:00:00.000Z",
+    },
+    AT
+  )
+  expect(said.toDoDueDate).toBeUndefined()
+  expect(said.toDoLastCompletedAt).toBe("2026-09-06T22:00:00.000Z")
+})
+
 test("a rule that answers no next day leaves the due date alone", () => {
   const said = completionValues(
     shapeFor("to-do"),
