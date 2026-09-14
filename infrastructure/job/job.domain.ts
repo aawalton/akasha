@@ -5,7 +5,12 @@ export const job = {
   type: "domain",
   slug: "job",
   definition: "a workload that runs to completion and stops",
-  parts: ["manifest/pod-janitor", "module/deploy-job", "module/deploy-job-running"],
+  parts: [
+    "manifest/deploy-account",
+    "manifest/pod-janitor",
+    "module/deploy-job",
+    "module/deploy-job-running",
+  ],
   invariants: [
     {
       invariantKind: "departure",
