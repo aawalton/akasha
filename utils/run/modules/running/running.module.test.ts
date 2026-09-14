@@ -173,14 +173,17 @@ test("a group left where the run that made it is gone is taken away before a gro
 })
 
 test("a group left is emptied and taken away with every group inside it", async () => {
-  const left = join(String(sweptFrom(String(ownAt()))), `akasha-1-${String(process.pid)}`)
-  const inside = join(left, "akasha-1-3", "run")
+  const maker = Bun.spawn(["sleep", "30"])
+  const left = join(String(sweptFrom(String(ownAt()))), `akasha-${String(maker.pid)}-1`)
+  const inside = join(left, "akasha-call-3", "run")
   mkdirSync(inside, { recursive: true })
   const lingering = Bun.spawn(["sh", "-c", `echo $$ > ${inside}/cgroup.procs; exec sleep 30`])
   for (let held = 0; held < 100; held += 1) {
     if (readFileSync(`${inside}/cgroup.procs`, "utf8").trim() !== "") break
     Bun.sleepSync(10)
   }
+  maker.kill()
+  await maker.exited
   ran(["true"])
   await lingering.exited
   expect(lingering.signalCode).toBe("SIGKILL")
@@ -232,9 +235,8 @@ test("a process past its memory ceiling runs to its end rather than being ended"
 })
 
 test("a process inside one given a ceiling states a ceiling above its own", () => {
-  const at = `${import.meta.dir}/running.module.code.ts`
   const inner =
-    `import { ran } from ${JSON.stringify(at)}; ` +
+    `import { ran } from ${JSON.stringify(CODE)}; ` +
     'const done = ran(["true"], { cpuCeiling: 300 }); console.log(done.code, done.signal)'
   expect(ran(["bun", "-e", inner], { cpuCeiling: 30 }).out.trim()).toBe("0 null")
 })
@@ -262,9 +264,8 @@ test("the seconds answered carry what a process's own children spent", () => {
 })
 
 test("what a run held carries what a run started inside it held", () => {
-  const at = `${import.meta.dir}/running.module.code.ts`
   const inner =
-    `import { ran } from ${JSON.stringify(at)}; ` +
+    `import { ran } from ${JSON.stringify(CODE)}; ` +
     'ran(["bun", "-e", "new Uint8Array(80e6).fill(1)"])'
   expect(ran(["bun", "-e", inner]).peakBytes).toBeGreaterThan(60e6)
 })
@@ -302,11 +303,10 @@ test("bytes a reader could not read as text come back whole", () => {
 })
 
 test("a process run to be watched writes to the streams its caller was given", () => {
-  const at = `${import.meta.dir}/running.module.code.ts`
   const done = ran([
     "bun",
     "-e",
-    `import { shown } from ${JSON.stringify(at)}; shown(["sh", "-c", "printf seen; printf heard 1>&2"])`,
+    `import { shown } from ${JSON.stringify(CODE)}; shown(["sh", "-c", "printf seen; printf heard 1>&2"])`,
   ])
   expect(done.out).toBe("seen")
   expect(done.err).toBe("heard")
