@@ -12,7 +12,6 @@ import { repointed } from "akasha/changes/modules/import-repointing/import-repoi
 import { renameManifestWays } from "akasha/changes/modules/manifest-ways/manifest-ways.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { reachesIn } from "akasha/code/workspaces/modules/package-manifest/package-manifest.module.code.ts"
-import { manifestsIn } from "akasha/pages/indexes/modules/package-reaching/package-reaching.module.code.ts"
 import { spellersIn } from "akasha/pages/indexes/modules/path-naming/path-naming.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
 
@@ -112,7 +111,7 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   const moved = said.moved
   const carried = { from: given.from, to: given.to }
   const ways = Object.fromEntries(moved)
-  const manifests = manifestsIn(world.index.everyPath(), world.index.fileKeysAt())
+  const manifests = world.index.manifestsBeside(world.index.fileKeysAt())
   const edits: FileChange[] = []
   for (const [one, next] of moved) {
     edits.push({ kind: "move", pathFrom: one, pathTo: next })

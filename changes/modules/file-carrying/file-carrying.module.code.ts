@@ -4,7 +4,6 @@ import { repointed } from "akasha/changes/modules/import-repointing/import-repoi
 import { renameManifestWays } from "akasha/changes/modules/manifest-ways/manifest-ways.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { reachesIn } from "akasha/code/workspaces/modules/package-manifest/package-manifest.module.code.ts"
-import { manifestsIn } from "akasha/pages/indexes/modules/package-reaching/package-reaching.module.code.ts"
 import { importingOf } from "akasha/pages/indexes/modules/path-naming/path-naming.module.code.ts"
 
 export function refusalOver(world: World, moved: ReadonlyMap<string, string>): string | null {
@@ -56,7 +55,7 @@ export function manifestsAnew(
 ): readonly FileChange[] | string {
   const over = Object.fromEntries(moved)
   const said: FileChange[] = []
-  for (const at of manifestsIn(world.index.everyPath(), world.index.fileKeysAt())) {
+  for (const at of world.index.manifestsBeside(world.index.fileKeysAt())) {
     const text = world.textOf(at)
     if (text === null) continue
     if (![...reachesIn(dirname(at), text).values()].some((one) => moved.has(one))) continue

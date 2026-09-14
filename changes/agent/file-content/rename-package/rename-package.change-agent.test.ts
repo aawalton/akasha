@@ -9,14 +9,14 @@ import {
   type World,
   worldAt,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import {
-  bodyAt,
-  repoWorld,
-} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { bodyAt } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { relationFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import {
   bodyOf,
+  indexedRepo,
   pageOf,
   scratch,
+  textIn,
 } from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
@@ -34,6 +34,8 @@ const OUTER_MANIFEST = "akasha/outer/package.json"
 const ROOT_MANIFEST = "akasha/root/package.json"
 
 const READER_CODE = "akasha/outer/reader.module.code.ts"
+
+const PACKAGE_TYPE_AT = "akasha/workspace-package.page-type.ts"
 
 const idAt = (one: string): string => `01a04a4a-0002-7000-8000-00000000000${one}`
 
@@ -124,7 +126,7 @@ const VOCABULARY: Readonly<Record<string, string>> = {
     propertySlug: "manifest",
     fileName: "package.json",
   }),
-  "akasha/workspace-package.page-type.ts": bodyOf({
+  [PACKAGE_TYPE_AT]: bodyOf({
     id: idAt("4"),
     pageTypeSlug: "page-type",
     slug: "workspace-package",
@@ -184,12 +186,18 @@ function bare(body: string): World {
   return worldAt(scratch.rootFor("package-"), bodyAt(INNER_MANIFEST, body))
 }
 
+function worldOver(bodies: Readonly<Record<string, string>>): World {
+  const root = indexedRepo(bodies)
+  relationFiled(root, idAt("3"), "page-property", idAt("4"), [{ path: PACKAGE_TYPE_AT }])
+  return worldAt(root, textIn(root))
+}
+
 function packaged(): World {
-  return repoWorld({ ...VOCABULARY, ...PACKAGES })
+  return worldOver({ ...VOCABULARY, ...PACKAGES })
 }
 
 function carried(): World {
-  return repoWorld({ ...VOCABULARY, ...PACKAGES, [INNER_MANIFEST]: INNER_CARRIED })
+  return worldOver({ ...VOCABULARY, ...PACKAGES, [INNER_MANIFEST]: INNER_CARRIED })
 }
 
 function renamed(): ReadonlyMap<string, string | null> {

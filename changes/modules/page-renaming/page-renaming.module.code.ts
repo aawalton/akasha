@@ -29,7 +29,6 @@ import { slugRenamed } from "akasha/changes/modules/slug-renaming/slug-renaming.
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { placingOver } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import { reachesIn } from "akasha/code/workspaces/modules/package-manifest/package-manifest.module.code.ts"
-import { manifestsIn } from "akasha/pages/indexes/modules/package-reaching/package-reaching.module.code.ts"
 import type { Beside as Sidecar } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
 import { importingOf } from "akasha/pages/indexes/modules/path-naming/path-naming.module.code.ts"
 import type { Shaped } from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
@@ -246,7 +245,7 @@ function wayIn(
   to: string
 ): Way | null {
   const ending = `${UNDER}${was}`
-  for (const at of manifestsIn(world.index.everyPath(), world.index.fileKeysAt())) {
+  for (const at of world.index.manifestsBeside(world.index.fileKeysAt())) {
     const text = world.textOf(at)
     if (text === null) continue
     for (const [said, path] of reachesIn(dirname(at), text)) {

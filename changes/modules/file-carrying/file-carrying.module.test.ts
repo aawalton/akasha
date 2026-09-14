@@ -38,14 +38,7 @@ function worldNaming(): World {
   const root = indexedRepo()
   put(root, MANIFEST, MANIFEST_BODY)
   const world = worldAt(root, textIn(root))
-  return {
-    ...world,
-    index: {
-      ...world.index,
-      everyPath: () => [MANIFEST],
-      fileKeysAt: () => new Map([["manifest", "package.json"]]),
-    },
-  }
+  return { ...world, index: { ...world.index, manifestsBeside: () => [MANIFEST] } }
 }
 
 test("every file that moves is answered as one move", () => {

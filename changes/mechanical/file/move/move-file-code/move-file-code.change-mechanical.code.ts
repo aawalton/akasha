@@ -8,7 +8,6 @@ import { repointed } from "akasha/changes/modules/import-repointing/import-repoi
 import { renameManifestWays } from "akasha/changes/modules/manifest-ways/manifest-ways.module.code.ts"
 import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { reachesIn } from "akasha/code/workspaces/modules/package-manifest/package-manifest.module.code.ts"
-import { manifestsIn } from "akasha/pages/indexes/modules/package-reaching/package-reaching.module.code.ts"
 import { importingOf } from "akasha/pages/indexes/modules/path-naming/path-naming.module.code.ts"
 
 const MOVE_FILE = "change-mechanical-file/move-file"
@@ -46,7 +45,7 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
     if (said.refused !== null) return said
     made.push(...said.edits)
   }
-  for (const at of manifestsIn(seen.index.everyPath(), seen.index.fileKeysAt())) {
+  for (const at of seen.index.manifestsBeside(seen.index.fileKeysAt())) {
     const held = seen.textOf(at)
     if (held === null) continue
     if (![...reachesIn(dirname(at), held).values()].includes(given.from)) continue

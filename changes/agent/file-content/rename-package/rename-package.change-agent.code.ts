@@ -24,7 +24,6 @@ import {
   calledIn,
   objectIn,
 } from "akasha/code/workspaces/modules/package-manifest/package-manifest.module.code.ts"
-import { manifestsIn } from "akasha/pages/indexes/modules/package-reaching/package-reaching.module.code.ts"
 import { importingOf } from "akasha/pages/indexes/modules/path-naming/path-naming.module.code.ts"
 import { matchingIn } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"
 import type { Matching } from "akasha/pages/name-formats/modules/name-matching/name-matching.module.code.ts"
@@ -106,7 +105,7 @@ function reachedIn(at: string, text: string): ReadonlyMap<string, string> {
 }
 
 function manifestsOf(world: World): readonly string[] {
-  return manifestsIn(world.index.everyPath(), world.index.fileKeysAt())
+  return world.index.manifestsBeside(world.index.fileKeysAt())
 }
 
 function namingOld(world: World, was: string): readonly string[] {
