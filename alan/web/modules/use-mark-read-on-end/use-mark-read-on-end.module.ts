@@ -6,4 +6,14 @@ export const useMarkReadOnEnd = {
   slug: "use-mark-read-on-end",
   definition: "a chapter marked read once its narration reaches the end",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The native shell marks a chapter read exactly as the browser does.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A completion made with no network is not kept.",
+    },
+  ],
 } as const satisfies Module

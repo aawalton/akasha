@@ -4,7 +4,7 @@ export const offlineText = {
   id: "01a0655d-daab-77d7-a316-1495d9684b74",
   type: "module",
   slug: "offline-text",
-  definition: "a reader's positions and completions kept in files on the device",
+  definition: "a reader's positions kept in a file on the device",
   code: "ts",
   invariants: [
     {
@@ -13,7 +13,7 @@ export const offlineText = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing reads the completion queue but the write that adds to it.",
+      statement: "No completion is kept on the device.",
     },
     {
       invariantKind: "gap",
