@@ -12,14 +12,6 @@ export const TTC_AGO = {
   Hours12: 720,
 } as const
 
-export const TTC_QUALITY = {
-  Normal: 0,
-  Fine: 1,
-  Superior: 2,
-  Epic: 3,
-  Legendary: 4,
-} as const
-
 export interface TTCListingSearchParams {
   ItemID?: number
   IconName?: string

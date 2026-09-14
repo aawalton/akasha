@@ -2,8 +2,6 @@ export const LIB_IDENTIFIER = "LibMapData"
 
 export const INTERNAL_IDENTIFIER = "LibMapData_Internal"
 
-export const LIB_VERSION = 121
-
 export const CALLBACK_TYPE = {
   EVENT_ZONE_CHANGED: "LibMapDataEventZoneChanged",
   EVENT_LINKED_WORLD_POSITION_CHANGED: "LibMapDataEventLinkedWorldPositionChanged",

@@ -8,18 +8,6 @@ const ESO_API_SEED: readonly string[] = [
   "zo_callLater",
 ]
 
-export const ESO_STRUCTURALLY_ABSENT: readonly string[] = [
-  "debug",
-  "io",
-  "os",
-  "package",
-  "require",
-  "module",
-  "dofile",
-  "loadfile",
-  "load",
-]
-
 export type PermissiveStub = {
   (...args: readonly unknown[]): PermissiveStub
   new (...args: readonly unknown[]): PermissiveStub
