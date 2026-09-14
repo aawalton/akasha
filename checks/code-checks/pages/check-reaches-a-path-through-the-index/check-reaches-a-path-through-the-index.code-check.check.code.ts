@@ -22,7 +22,6 @@ import {
   generatedIn,
   toolResolvesPathsIn,
 } from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
-import { filesIn } from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 const FACING = new WeakMap<Shadow, Facing>()
@@ -47,7 +46,7 @@ const JUDGED = new WeakMap<Shadow, (path: string) => boolean>()
 function judgedFor(shadow: Shadow): (path: string) => boolean {
   const found = JUDGED.get(shadow)
   if (found !== undefined) return found
-  const listing: Listing = (folder) => filesIn(shadow.root, folder)
+  const listing: Listing = (folder) => shadow.listed(folder)
   const types = shadow.index.pageTypesIn()
   const fileProperties = shadow.index.filePropertiesAt()
   const folders = shadow.index.folderPropertiesAt()
