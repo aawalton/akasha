@@ -1,5 +1,4 @@
 import {
-  LIBCOMBAT_EVENT_DAMAGE_OUT,
   LIBCOMBAT_EVENT_MAX,
   LIBCOMBAT_EVENT_MIN,
 } from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
@@ -94,12 +93,6 @@ export function initResources(): undefined {
   }
 }
 
-function registerForLogableCombatEvents(name: string, callback: CombatEventCallback): undefined {
-  for (let i = LIBCOMBAT_EVENT_DAMAGE_OUT; i <= LIBCOMBAT_EVENT_MAX; i++) {
-    registerForCombatEvent(name, i, callback)
-  }
-}
-
 export function registerForCombatEvent(
   name: string,
   callbacktype: number,
@@ -118,26 +111,6 @@ export function unregisterForCombatEvent(name: string, callbacktype: number): bo
   unregisterCallback(callbacktype, callback)
 
   return isUnregistered
-}
-
-export function registerAllLogCallbacks(callback: CombatEventCallback, name: string): undefined {
-  registerForLogableCombatEvents(name, callback)
-}
-
-export function registerCallbackType(
-  callbacktype: number,
-  callback: CombatEventCallback,
-  name: string
-): undefined {
-  registerForCombatEvent(name, callbacktype, callback)
-}
-
-export function unregisterCallbackType(
-  callbacktype: number,
-  _callback: CombatEventCallback,
-  name: string
-): undefined {
-  unregisterForCombatEvent(name, callbacktype)
 }
 
 export function hasActiveCallbackType(callbacktype: number): boolean {

@@ -14,8 +14,6 @@ export const PINS_COMPASS_EIDETIC = "LBooksCompassPin_eidetic"
 export const PINS_BOOKSHELF = "LBooksMapPin_bookshelf"
 export const PINS_COMPASS_BOOKSHELF = "LBooksCompassPin_bookshelf"
 
-export const CALLBACK_MOTIF_CHECKBOX_CHANGED = "LoreBooksMotifCheckboxChanged"
-
 export const PIN_ICON_REAL = 1
 export const PIN_ICON_SET1 = 2
 export const PIN_ICON_SET2 = 3

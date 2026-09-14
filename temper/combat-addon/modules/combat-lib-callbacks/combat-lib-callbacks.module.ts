@@ -4,6 +4,6 @@ export const combatLibCallbacks = {
   id: "01a0617f-5844-77ca-8e46-2d920d750abf",
   type: "module",
   slug: "combat-lib-callbacks",
-  definition: "the callbacks another add-on can ask the recorder for",
+  definition: "who is listening for each combat event, and handing each event to them",
   code: "ts",
 } as const satisfies Module

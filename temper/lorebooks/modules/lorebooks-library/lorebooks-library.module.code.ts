@@ -1,6 +1,4 @@
-import { fireCallbacks } from "akasha/temper/lorebooks/modules/lorebooks-callbacks/lorebooks-callbacks.module.code.ts"
 import {
-  CALLBACK_MOTIF_CHECKBOX_CHANGED,
   LORE_LIBRARY_CRAFTING,
   LORE_LIBRARY_EIDETIC,
 } from "akasha/temper/lorebooks/modules/lorebooks-constants/lorebooks-constants.module.code.ts"
@@ -317,7 +315,6 @@ export function rebuildLoreLibrary(): undefined {
   ZO_CheckButton_SetLabelText(includeMotifsCheckbox, GetString(LBOOKS_INCLUDE_MOTIFS_CHECKBOX))
   ZO_CheckButton_SetToggleFunction(includeMotifsCheckbox, () => {
     LORE_LIBRARY.RefreshCollectedInfo()
-    fireCallbacks(CALLBACK_MOTIF_CHECKBOX_CHANGED)
   })
 
   LORE_LIBRARY.RefreshCollectedInfo = function (

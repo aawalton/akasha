@@ -102,7 +102,6 @@ export const temperLorebooks = {
     "module/lorebooks-book-data-91",
     "module/lorebooks-book-data-92",
     "module/lorebooks-bookshelf-data",
-    "module/lorebooks-callbacks",
     "module/lorebooks-compass-pins",
     "module/lorebooks-constants",
     "module/lorebooks-data-accessors",
