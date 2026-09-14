@@ -35,9 +35,15 @@ import {
   passedOn,
 } from "akasha/infrastructure/services/workstations/modules/service-alerting/service-alerting.module.code.ts"
 import { checkoutAt } from "akasha/infrastructure/services/workstations/modules/service-checkout/service-checkout.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
+import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { type Shadow, shadowAsked } from "akasha/pages/modules/shadow/shadow.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { textOnDisk } from "akasha/utils/fs/modules/text-on-disk/text-on-disk.module.code.ts"
 import { requireEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
+import { endingOf, spawnedHere } from "akasha/utils/run/modules/running/running.module.code.ts"
 import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
 
 const TURNS = ".local/state/workstation-services/audit-turns"
@@ -61,6 +67,26 @@ const REASON_CEILING = 240
 const SAID = "audit-running:"
 
 const PARTED = "\n"
+
+const BUN = "bun"
+
+const MODULE = "module"
+
+const CHILD = "audit-child"
+
+const CODE = "code"
+
+const TS = "ts"
+
+const SCRATCH = "akasha-audit-child-"
+
+const ANSWERED = "judged.json"
+
+const STDERR_CEILING = 800
+
+const UNANSWERED = "wrote no verdict where one was asked for"
+
+const UNREAD = "wrote a verdict no runner could read"
 
 const underway = new Map<string, Promise<Ran>>()
 
@@ -87,6 +113,63 @@ export type Told = {
 
 export const running: Running = async (one, change) =>
   await judgingBy([one], AUDIT, one.root).over(change)
+
+export function childAt(root: string): string {
+  const page = listedAt(root, MODULE, CHILD)[0]
+  const at = page === undefined ? null : besideAt(page.path, CODE, TS)
+  if (at === null) {
+    throw new Error(`no \`${MODULE}\` is slugged \`${CHILD}\`, so no check would run apart`)
+  }
+  return join(root, at)
+}
+
+function unrun(one: Gathered, why: string): readonly Judged[] {
+  return [{ path: one.page, reason: `the check \`${one.slug}\` ${why}`, threw: true }]
+}
+
+function judgedRow(one: unknown): one is Judged {
+  if (one === null || typeof one !== "object") return false
+  const said = one as Judged
+  return typeof said.path === "string" && typeof said.reason === "string"
+}
+
+export function judgedIn(text: string): readonly Judged[] | null {
+  let held: unknown
+  try {
+    held = JSON.parse(text)
+  } catch {
+    return null
+  }
+  if (!Array.isArray(held)) return null
+  const said: readonly unknown[] = held
+  return said.every(judgedRow) ? (said as readonly Judged[]) : null
+}
+
+export const spawning: Running = async (one) => {
+  const scratch = scratchWorld()
+  try {
+    const at = join(scratch.rootFor(SCRATCH), ANSWERED)
+    const cpu = one.auditCeiling ?? null
+    const memory = one.auditMemoryMb ?? null
+    const done = spawnedHere([BUN, childAt(one.root), one.root, one.slug, at], {
+      cwd: one.root,
+      ...(cpu === null ? {} : { cpuCeiling: cpu }),
+      ...(memory === null ? {} : { memoryCeiling: memory }),
+    })
+    const ending = endingOf(done.code, done.signal)
+    if (done.code !== 0 || done.signal !== null) {
+      const why = reasonSaid(done.err, STDERR_CEILING)
+      return unrun(one, `${ending} apart, so it judged nothing — ${why}`)
+    }
+    const text = textOnDisk(at)
+    if (text === null) return unrun(one, `${ending} and ${UNANSWERED}`)
+    return judgedIn(text) ?? unrun(one, `${UNREAD} — ${counted(text.length, "character")} of it`)
+  } catch (thrown) {
+    return unrun(one, `could not be run apart — ${saidBy(thrown)}`)
+  } finally {
+    scratch.sweep()
+  }
+}
 
 export const sending: Sent = async (to, body) => {
   const wrote = await writeMessage({ to, from: FROM, warrant: "announce", body })
@@ -169,7 +252,7 @@ export function keyFor(given: Asking): string {
 }
 
 async function ranFor(given: Asking): Promise<Ran> {
-  const run = given.run ?? running
+  const run = given.run ?? spawning
   const slug = given.check.slug
   const answered = async (): Promise<Verdict | null> => {
     const verdicts = verdictsRead(given.home)

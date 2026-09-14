@@ -18,7 +18,10 @@ import type {
   Judged,
   Judging,
 } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { modelChecksIn } from "akasha/checks/modules/model-running/model-running.module.code.ts"
+import {
+  type Judgement,
+  modelChecksIn,
+} from "akasha/checks/modules/model-running/model-running.module.code.ts"
 import {
   diesIn,
   sparingOver,
@@ -49,6 +52,7 @@ export type Gathered = {
   readonly audit?: AnyAuditing | null
   readonly checkCeiling?: number | null
   readonly auditCeiling?: number | null
+  readonly auditMemoryMb?: number | null
 }
 
 const CHECK_TYPE = "01a04bc4-7e86-7beb-8dfb-3666785dd3d5"
@@ -62,6 +66,8 @@ const AUDIT_CODE = "audit.code"
 const TS = "ts"
 
 const MAX_CPU = "maxCpuSeconds"
+
+const MAX_MEMORY = "maxMemoryMb"
 
 const CHECK_GROUP = "check"
 
@@ -117,10 +123,10 @@ function judgingOn(value: Record<string, unknown>, stated: readonly Phase[]): re
   return value[EXPERIMENTAL] === true ? [] : stated
 }
 
-function ceilingIn(stated: Record<string, unknown>, group: string): number | null {
+function ceilingIn(stated: Record<string, unknown>, group: string, named: string): number | null {
   const said = stated[group]
   if (said === null || typeof said !== "object" || Array.isArray(said)) return null
-  const held = (said as Record<string, unknown>)[MAX_CPU]
+  const held = (said as Record<string, unknown>)[named]
   return typeof held === "number" ? held : null
 }
 
@@ -242,9 +248,26 @@ function gatheredFrom(root: string, path: string, slug: string): Gathered | null
     isInput: inputIn(run.held),
     run: run.held,
     audit: audit.held,
-    checkCeiling: ceilingIn(stated.held, CHECK_GROUP),
-    auditCeiling: ceilingIn(stated.held, AUDIT_GROUP),
+    checkCeiling: ceilingIn(stated.held, CHECK_GROUP, MAX_CPU),
+    auditCeiling: ceilingIn(stated.held, AUDIT_GROUP, MAX_CPU),
+    auditMemoryMb: ceilingIn(stated.held, AUDIT_GROUP, MAX_MEMORY),
   }
+}
+
+function modelGathered(root: string, one: Judgement): Gathered {
+  const runsOn: Phase[] = []
+  if (one.onChange > 0) runsOn.push("change")
+  if (one.onAudit > 0) runsOn.push("audit")
+  return { slug: one.slug, page: one.page, root, runsOn, isInput: inputIn(one.run), run: one.run }
+}
+
+export function checkIn(root: string, slug: string): Gathered | null {
+  for (const path of checkPagesIn(root)) {
+    if (partedIn(path)?.slug !== slug) continue
+    return gatheredFrom(root, path, slug)
+  }
+  for (const one of modelChecksIn(root)) if (one.slug === slug) return modelGathered(root, one)
+  return null
 }
 
 export function checksIn(root: string): readonly Gathered[] {
@@ -257,19 +280,7 @@ export function checksIn(root: string): readonly Gathered[] {
     const one = gatheredFrom(root, path, said.slug)
     if (one !== null) found.push(one)
   }
-  for (const one of modelChecksIn(root)) {
-    const runsOn: Phase[] = []
-    if (one.onChange > 0) runsOn.push("change")
-    if (one.onAudit > 0) runsOn.push("audit")
-    found.push({
-      slug: one.slug,
-      page: one.page,
-      root,
-      runsOn,
-      isInput: inputIn(one.run),
-      run: one.run,
-    })
-  }
+  for (const one of modelChecksIn(root)) found.push(modelGathered(root, one))
   if (found.length === 0) {
     throw new Error(
       "the index names no check, so nothing would judge this change and a clean answer would mean nothing"

@@ -8,6 +8,7 @@ export const check = {
   pluralSlug: "checks",
   parts: [
     "module/audit-asking",
+    "module/audit-child",
     "module/audit-reading",
     "module/audit-request",
     "module/audit-serving",

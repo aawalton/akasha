@@ -145,6 +145,62 @@ export const auditServing = {
     },
     {
       invariantKind: "departure",
+      statement: "A check is audited in a process of its own rather than in the round's process.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The memory that process held goes back to the machine as that process ends.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What the check judged comes back through a file rather than the output stream.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The processor ceiling that check's audit group states is put on that process.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The memory ceiling that group states is put on that process where one is stated.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A group stating no ceiling leaves that process held to none.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A process ended by a signal reads as a check that could not run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A process exiting other than zero reads as a check that could not run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The refusal for either carries what that process said on its error stream.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file that is absent or says no verdict reads as a check that could not run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A spawn that throws reads as a check that could not run, and the round goes on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The refusal for any of those names the check's own page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The file the verdict comes back through is swept whether the check ran or not.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here records what the run cost, the process that ran recording its own.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run whose environment names no home is refused before any check runs.",
     },
     {

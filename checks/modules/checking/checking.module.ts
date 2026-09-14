@@ -242,6 +242,22 @@ export const checking = {
       statement: "A group stating no ceiling refuses nothing however long its check runs.",
     },
     {
+      invariantKind: "departure",
+      statement: "The memory ceiling an audit group states is gathered beside its time ceiling.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here holds a check to the memory ceiling gathered.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One check is gathered by its slug alone, the other checks being left unloaded.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A slug no check page and no model check carries is gathered as no check.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here stops a check part way through for spending too long.",
     },
