@@ -13,6 +13,7 @@ export type PropertyDefinition = {
   id: string
   title: string
   type: string
+  propertyPageType?: string
   pageId: string
   key?: string
   config?: Json

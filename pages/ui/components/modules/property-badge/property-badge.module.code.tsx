@@ -73,8 +73,11 @@ export function PropertyBadge(props: PropertyBadgeProps) {
   const layout = layoutForContext(context)
   const rawIcon = property.config?.icon
   const icon = typeof rawIcon === "string" && rawIcon !== "" ? <Icon name={rawIcon} /> : undefined
+  const drawn = property.propertyPageType
   const Component: ComponentType<PropertyBadgeProps> | undefined =
-    PROPERTY_BADGE_REGISTRY[property.type] ?? PROPERTY_BADGE_DRAWINGS.get(FALLS_BACK_TO)
+    (drawn === undefined ? undefined : PROPERTY_BADGE_DRAWINGS.get(drawn)) ??
+    PROPERTY_BADGE_REGISTRY[property.type] ??
+    PROPERTY_BADGE_DRAWINGS.get(FALLS_BACK_TO)
   if (Component === undefined) return null
   const lookup = (type: PropertyType) => PROPERTY_BADGE_REGISTRY[type]
   return (

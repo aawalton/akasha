@@ -34,6 +34,7 @@ export type PropertyDefinition = {
   readonly id: string
   readonly title: string
   readonly type: PropertyType
+  readonly propertyPageType?: string
   readonly config?: Readonly<Record<string, ReadonlyJSONValue>>
   readonly schema?: Readonly<Record<string, ReadonlyJSONValue>>
   readonly pageId?: string

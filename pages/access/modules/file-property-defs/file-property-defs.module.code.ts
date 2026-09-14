@@ -126,6 +126,7 @@ function definitionOf(one: Declaration): PropertyDefinition {
     key: one.key,
     title: one.title,
     type: one.renderedAs ?? renderedType(one.type),
+    propertyPageType: one.type,
     pageId: one.pageId,
     ...(stated ? { config } : {}),
   }
