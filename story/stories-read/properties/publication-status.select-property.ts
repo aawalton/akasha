@@ -9,7 +9,7 @@ export const publicationStatus = {
   values: ["ongoing", "hiatus", "completed"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A publication status is the source's own state rather than how far the person has got.",
     },

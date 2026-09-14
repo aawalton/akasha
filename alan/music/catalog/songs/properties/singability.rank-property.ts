@@ -26,7 +26,7 @@ export const singability = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A singability is graded on the ladder a rank is graded on.",
     },
   ],

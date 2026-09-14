@@ -9,7 +9,7 @@ export const baseRoles = {
   values: ["tank", "healer"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A build arranged for no part names none.",
     },
   ],

@@ -9,11 +9,11 @@ export const topicStatus = {
   values: ["unopened", "live", "resting"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A topic nobody has yet sat down with is `unopened`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A topic worked and left warm is `resting`.",
     },
   ],

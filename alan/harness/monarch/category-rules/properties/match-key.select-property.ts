@@ -9,15 +9,15 @@ export const matchKey = {
   values: ["merchant", "sign", "account", "amount", "month", "date"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A merchant is read through the merchant vocabulary rather than off the row.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A sign is `positive` where money came in and `negative` where money went out.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An account is tested by the last four digits its slug ends in.",
     },
   ],

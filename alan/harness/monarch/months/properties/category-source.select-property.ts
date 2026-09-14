@@ -9,11 +9,11 @@ export const categorySource = {
   values: ["monarch", "manual-categorization", "programmatic-categorization"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A source that is not Monarch holds against the category Monarch reports.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A transaction stating no source took its category from Monarch untouched.",
     },
   ],

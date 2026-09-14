@@ -9,7 +9,7 @@ export const stockScope = {
   values: ["current-character", "any-character"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule counting the current character alone stocks each character apart.",
     },
   ],

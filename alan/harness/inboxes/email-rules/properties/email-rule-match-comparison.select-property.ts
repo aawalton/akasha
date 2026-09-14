@@ -18,15 +18,15 @@ export const emailRuleMatchComparison = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A clause with several values passes where a value matches.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each comparison sits beside its negation rather than beside a flag.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A comparison a text field takes sits here whether or not a rule names that comparison yet.",
     },

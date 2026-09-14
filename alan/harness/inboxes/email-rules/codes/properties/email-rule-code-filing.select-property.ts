@@ -9,11 +9,11 @@ export const emailRuleCodeFiling = {
   values: ["archive", "skip"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Archiving and skipping exclude each other.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Skipping is doing nothing to the mail rather than leaving the filing unstated.",
     },
   ],

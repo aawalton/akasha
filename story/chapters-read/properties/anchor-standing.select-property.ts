@@ -9,12 +9,12 @@ export const anchorStanding = {
   values: ["asserted", "claimed"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An anchor the story tells is asserted and an anchor a person in that story says is claimed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only a claimed anchor names who claimed the anchor.",
     },
   ],

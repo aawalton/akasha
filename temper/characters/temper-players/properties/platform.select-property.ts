@@ -9,7 +9,7 @@ export const platform = {
   values: ["PC", "Xbox", "PlayStation"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The machines are named as The Elder Scrolls Online names those machines.",
     },
   ],

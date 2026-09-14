@@ -9,7 +9,7 @@ export const lockState = {
   values: ["locked", "unlocked"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A locked card is titled by three question marks rather than by its persona.",
     },
   ],

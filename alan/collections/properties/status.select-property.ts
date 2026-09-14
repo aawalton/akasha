@@ -17,11 +17,11 @@ export const status = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A collection nobody will ever work through is `not-applicable`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A collection put out of sight is `archived`.",
     },
   ],

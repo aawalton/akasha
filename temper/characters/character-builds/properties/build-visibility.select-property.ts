@@ -9,19 +9,19 @@ export const buildVisibility = {
   values: ["live", "target", "private"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A live build is the arrangement the character wears now.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A target build is the arrangement the character is working toward.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A private build is neither worn now nor worked toward.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A private build is there only for its author.",
     },
   ],

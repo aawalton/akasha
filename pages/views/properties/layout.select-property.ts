@@ -9,7 +9,7 @@ export const layout = {
   values: ["cards", "gallery", "list", "notes", "table"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A layout is how the answer is shown rather than part of the question.",
     },
   ],

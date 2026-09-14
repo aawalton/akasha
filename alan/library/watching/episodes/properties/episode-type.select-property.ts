@@ -9,7 +9,7 @@ export const episodeType = {
   values: ["standard", "mid-season", "finale"],
   invariants: [
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement:
         "The values are the ones the record has rather than every value the provider answers with.",
     },

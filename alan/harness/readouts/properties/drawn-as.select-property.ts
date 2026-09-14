@@ -9,11 +9,11 @@ export const drawnAs = {
   values: ["stoplight", "number"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A readout stating nothing is drawn as a stoplight.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reading drawn as a number is drawn without a rung behind the figure.",
     },
   ],

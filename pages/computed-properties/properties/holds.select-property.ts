@@ -9,15 +9,15 @@ export const holds = {
   values: ["text", "number", "boolean", "instant", "date"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A calculation answering another kind than the kind stated here is refused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reader puts a worked value down as the kind stated here.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No calculation states a list.",
     },
   ],

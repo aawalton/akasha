@@ -9,23 +9,23 @@ export const messageWarrant = {
   values: ["announce", "blocked"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A blocked warrant claims the sender is waiting.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A blocked warrant claims nothing of anyone but the sender.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An announced message claims nothing of the sender.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An announce is not a reason for its sender to keep running.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The answer to a blocked message reaches the sender's mailbox.",
     },
   ],

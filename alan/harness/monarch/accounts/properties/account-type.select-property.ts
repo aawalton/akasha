@@ -9,11 +9,11 @@ export const accountType = {
   values: ["depository", "brokerage", "credit", "loan", "real_estate"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The sorts are Monarch's own words rather than words chosen here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A sort Monarch spells with an underscore is kept as Monarch spells that sort.",
     },
   ],

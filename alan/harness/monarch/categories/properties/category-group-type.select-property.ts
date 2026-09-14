@@ -9,7 +9,7 @@ export const categoryGroupType = {
   values: ["expense", "income", "transfer"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A transfer moves money the household already holds from one account to another.",
     },
   ],

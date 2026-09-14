@@ -9,11 +9,11 @@ export const matchComparison = {
   values: ["is", "is-not", "on-or-after", "is-before"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A clause with several values passes where a single value matches.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only a clause testing a date compares by `on-or-after` or `is-before`.",
     },
   ],

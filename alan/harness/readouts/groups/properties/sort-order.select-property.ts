@@ -9,11 +9,11 @@ export const sortOrder = {
   values: ["label", "place"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A group stating nothing draws in label order.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Two readings sharing one place draw in label order between the two.",
     },
   ],

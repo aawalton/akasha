@@ -9,7 +9,7 @@ export const emailRuleCodeActions = {
   values: ["notify", "unsubscribe"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An action sits beside the filing rather than in place of that filing.",
     },
   ],

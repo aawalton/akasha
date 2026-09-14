@@ -26,7 +26,7 @@ export const grade = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A grade is marked on the ladder a rank is marked on.",
     },
   ],

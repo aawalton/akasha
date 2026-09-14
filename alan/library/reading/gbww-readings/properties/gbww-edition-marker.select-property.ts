@@ -9,7 +9,7 @@ export const gbwwEditionMarker = {
   values: ["common", "ed2-only"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A reading is in the plan whether or not the edition Alan has carries that reading.",
     },

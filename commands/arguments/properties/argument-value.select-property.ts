@@ -9,15 +9,15 @@ export const argumentValue = {
   values: ["none", "text", "whole-number", "true-or-false", "path"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An argument carrying no value is said and nothing follows it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A path is read against the repository root and whether it must land inside belongs to the command.",
     },
-    { invariantKind: "absence", statement: "No value here is a body piped in." },
+    { invariantKind: "invariant-kind/absence", statement: "No value here is a body piped in." },
   ],
   types: "ts",
 } as const satisfies SelectProperty

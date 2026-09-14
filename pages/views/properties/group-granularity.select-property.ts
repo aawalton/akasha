@@ -9,7 +9,7 @@ export const groupGranularity = {
   values: ["day", "week", "month", "year"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only a view gathering by a date states a granularity.",
     },
   ],

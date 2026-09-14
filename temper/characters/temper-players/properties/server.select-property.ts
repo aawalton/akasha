@@ -9,7 +9,7 @@ export const server = {
   values: ["NA", "EU"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A megaserver has its own trading prices.",
     },
   ],

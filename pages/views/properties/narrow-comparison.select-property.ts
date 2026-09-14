@@ -9,11 +9,11 @@ export const narrowComparison = {
   values: ["is", "in", "not-in", "has", "contains", "ends-with", "empty", "at-or-after", "before"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A comparison taking one value is given one value.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A comparison taking many values is given as many values as that comparison needs.",
     },

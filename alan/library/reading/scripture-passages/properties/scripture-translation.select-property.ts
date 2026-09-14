@@ -9,7 +9,7 @@ export const scriptureTranslation = {
   values: ["book-of-mormon", "web"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A book of scripture is read from one rendering.",
     },
   ],

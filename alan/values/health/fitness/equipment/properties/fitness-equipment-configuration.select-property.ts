@@ -9,7 +9,7 @@ export const fitnessEquipmentConfiguration = {
   values: ["pair", "single", "adjustable", "n-a"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A piece with no load at all is configured n-a.",
     },
   ],

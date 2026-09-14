@@ -9,23 +9,23 @@ export const saidAs = {
   values: ["flag", "word", "flag-or-word"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An entry stating nothing here is filled at its flag.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An argument filled as a word alone is not taken at its flag.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A refusal names an argument filled as a word alone by its placeholder.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Words fill the arguments taken as words in the order the page states them.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "How a call fills an argument belongs to the command rather than to the argument.",
     },
   ],

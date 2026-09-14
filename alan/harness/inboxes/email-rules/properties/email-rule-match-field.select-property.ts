@@ -9,20 +9,20 @@ export const emailRuleMatchField = {
   values: ["from", "to", "subject", "list"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A field is named as the mail has that field rather than as its own page is slugged.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every field here has text.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every field takes the same comparisons.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A field the mail offers sits here whether or not a rule names that field yet.",
     },
   ],

@@ -9,12 +9,12 @@ export const anchorTier = {
   values: ["exact-date", "sub-day", "day-offset", "coarse-offset", "season-festival", "unanchored"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A tier is how close the wording pins the moment rather than how sure the wording is.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An anchor pinning nothing is unanchored rather than absent.",
     },
   ],

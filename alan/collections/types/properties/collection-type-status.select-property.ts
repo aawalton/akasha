@@ -9,7 +9,7 @@ export const collectionTypeStatus = {
   values: ["done", "not-doing", "someday-maybe"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "This property says whether the kind is gathered rather than how far one collection has got.",
     },

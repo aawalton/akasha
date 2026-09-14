@@ -9,11 +9,11 @@ export const elementKind = {
   values: ["agent", "setting"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An agent is an element that wants something of the story.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A setting is an element whose wanting is law rather than desire.",
     },
   ],

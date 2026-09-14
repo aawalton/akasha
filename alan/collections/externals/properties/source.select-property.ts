@@ -22,7 +22,7 @@ export const source = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A provider is named here before a page may state that provider.",
     },
   ],

@@ -9,7 +9,7 @@ export const wikiKind = {
   values: ["character", "location", "relationship", "seed", "system"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seed is a thing the story has set up rather than a thing the story has.",
     },
   ],

@@ -9,11 +9,11 @@ export const maturityRating = {
   values: ["PG", "PG-13", "R"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rating is the provider's judgement rather than Alan's.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A series the provider rated not at all states no rating.",
     },
   ],
