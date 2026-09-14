@@ -69,6 +69,7 @@ function transcribing(records: readonly unknown[], below: readonly unknown[] = [
 
 const REFUSING: Transcripts = {
   readingForSeat: () => Promise.reject(new Error("EACCES: permission denied")),
+  endedForSeat: () => Promise.reject(new Error("EACCES: permission denied")),
 }
 
 test("a transcript recording a spawn and no result for it reads working", async () => {
@@ -92,6 +93,24 @@ test("a result recorded below another subagent is read as one at the top is", as
 
   expect(held.liveness).toBe("returned")
   expect(held.why).toContain("records the result it returned")
+})
+
+test("a result recorded below a subagent that has itself returned is read", async () => {
+  const at = transcribing(
+    [...spawning(ANOTHER), resulting(ANOTHER)],
+    [...spawning(OWN), resulting(OWN)]
+  )
+  const held = await readFor(ACTING, at, createSubagentReader())
+
+  expect(held.liveness).toBe("returned")
+  expect(held.why).toContain("records the result it returned")
+})
+
+test("a subagent still running below one that has returned is not read as returned", async () => {
+  const at = transcribing([...spawning(ANOTHER), resulting(ANOTHER)], spawning(OWN))
+  const held = await readFor(ACTING, at, createSubagentReader())
+
+  expect(held.liveness).not.toBe("returned")
 })
 
 test("a transcript naming the subagent nowhere reads unread", async () => {

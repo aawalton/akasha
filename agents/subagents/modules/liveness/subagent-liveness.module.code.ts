@@ -51,6 +51,7 @@ function actingAs(root: string, page: string): Acting | null {
 
 export type Transcripts = {
   readonly readingForSeat: (seatId: string, at: string) => Promise<SubagentReading>
+  readonly endedForSeat: (seatId: string, at: string) => Promise<readonly string[]>
 }
 
 export type TranscriptAt = (seatId: string) => string | null
@@ -68,6 +69,8 @@ export async function readFor(
     const read = await reading.readingForSeat(acting.seatId, named)
     if (namedAmong(read.running, acting.own)) return { liveness: "working", why: RUNS }
     if (read.ended.includes(acting.own)) return { liveness: "returned", why: HAS_RETURNED }
+    const ended = await reading.endedForSeat(acting.seatId, named)
+    if (ended.includes(acting.own)) return { liveness: "returned", why: HAS_RETURNED }
     return { liveness: "unread", why: NAMED_NOWHERE }
   } catch (thrown) {
     return { liveness: "unread", why: thrownAs(thrown) }
