@@ -13,6 +13,7 @@ import {
 } from "akasha/alan/harness/readouts/modules/reading/readout-reading.module.code.ts"
 import { relayedHeld } from "akasha/alan/harness/readouts/modules/relay/readout-relay.module.code.ts"
 import { readScale } from "akasha/alan/harness/readouts/modules/scale-reading/readout-scale-reading.module.code.ts"
+import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { askingFor } from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
 
 const READOUT = "readout"
@@ -87,9 +88,9 @@ export async function answerReadoutAdmittedBy(
   const wireKey = stated(row.wireKey)
   if (wireKey === undefined) return noReading()
 
-  const scaleSlug = stated(row.scale)
+  const named = stated(row.scale)
   const noneLeft = noneLeftIn(row)
-  const scale = scaleSlug === undefined ? undefined : await readScale(scaleSlug)
+  const scale = named === undefined ? undefined : await readScale(slugOf(named))
 
   return Response.json(
     {
