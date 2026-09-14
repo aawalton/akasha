@@ -191,6 +191,11 @@ export const noUnusedExports = {
         "The `serving` the run-serving module exports is reached by the relay spawning it.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "The `statesLanded` the state-writing module exports is reached by the editor's landing.",
+    },
+    {
       invariantKind: "gap",
       statement: "A module states for itself which of its values a runner reaches by path.",
     },
