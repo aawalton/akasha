@@ -339,18 +339,6 @@ export const aSource = (slug: string, names: string): Named =>
 const writingTo = (at: string): string =>
   `import { writeFileSync } from "node:fs"\nwriteFileSync("${at}", "x")\nexport const it = { id: "${D}", pageTypeSlug: "domain", slug: "d" }\n`
 
-export const BLAND = aType(D, "bland", ["domain"], [])
-
-export const BLAND_CODE = aType(D, "bland", ["domain"], ["code"])
-
-export function blandWith(declares: Named): Pair {
-  const { tree, root } = grounded()
-  wrotePages(root, tree, [declares])
-  put(tree, "one.bland.code.ts", "export const one = 1\n")
-  wrotePages(root, tree, [thePage({ id: A, pageTypeSlug: "bland", slug: "one", code: "ts" })])
-  return { tree, root }
-}
-
 export const IMPORTS = 'import { b } from "./b.ts"\nimport type { C } from "../c.ts"\n'
 
 export const IMPORTS_AT = "d/a.module.code.ts"
