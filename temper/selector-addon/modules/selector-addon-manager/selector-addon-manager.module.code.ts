@@ -5,10 +5,6 @@ function manager(): AddOnManager {
   return GetAddOnManager()
 }
 
-export function getNumAddOns(): number {
-  return manager().GetNumAddOns()
-}
-
 export function listAddons(): AddonEntry[] {
   const mgr = manager()
   const count = mgr.GetNumAddOns()
@@ -22,10 +18,6 @@ export function listAddons(): AddonEntry[] {
 
 export function setAddOnEnabled(index: number, enabled: boolean): undefined {
   manager().SetAddOnEnabled(index, enabled)
-}
-
-export function areAddOnsEnabled(): boolean {
-  return manager().AreAddOnsEnabled()
 }
 
 export function requestPrioritySave(): undefined {
