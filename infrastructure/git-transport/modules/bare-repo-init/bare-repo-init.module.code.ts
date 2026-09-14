@@ -77,7 +77,6 @@ touch "$LOCK"
     echo "init-bare-repo: clone complete"
   fi
 
-  git config -f "$CODE_REPO/config" uploadpack.allowReachableSHA1InWant true
 
   # Hooks as two-line stubs that run the script the source cache holds. A
   # hook git will run must carry the executable bit, and a file landed in the
@@ -260,7 +259,8 @@ touch "$LOCK"
 
   for repo in /data/git/repositories/*/*.git; do
     git config -f "$repo/config" receive.autogc false
+    git config -f "$repo/config" uploadpack.allowReachableSHA1InWant true
   done
-  echo "init-bare-repo: every repository is set to repack on no push"
+  echo "init-bare-repo: every repository repacks on no push and serves the commits it holds"
 ) 9>"$LOCK"
 `

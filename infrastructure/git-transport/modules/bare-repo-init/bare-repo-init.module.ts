@@ -60,5 +60,9 @@ export const bareRepoInit = {
       invariantKind: "departure",
       statement: "A repository repacks on no push.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A repository serves any commit it holds that a branch reaches.",
+    },
   ],
 } as const satisfies Module
