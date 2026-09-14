@@ -40,13 +40,6 @@ export function readBrowserTestEnv(): ReadBrowserTestEnvResult {
   }
 }
 
-export function logBrowserSkip(moduleLabel: string): undefined {
-  console.log(
-    `[browser skip] ${moduleLabel}: missing BROWSER_TEST_URL / BROWSER_TEST_EMAIL / BROWSER_TEST_PASSWORD / SUPABASE_URL / SUPABASE_ANON_KEY / SUPABASE_SERVICE_ROLE_KEY`
-  )
-  return undefined
-}
-
 export interface RealUserOptInEnv {
   readonly url: string
   readonly email: string
