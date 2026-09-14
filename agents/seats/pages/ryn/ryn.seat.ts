@@ -4,7 +4,7 @@ export const ryn = {
   id: "01a09fed-a7f0-7000-bc1f-d21a745745f5",
   type: "seat",
   slug: "ryn",
-  persona: "persona/ryn",
+  persona: "ryn",
   assignmentSlug: "initiative/ryn-file-structure",
   role: "definer",
   person: "alan",
