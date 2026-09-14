@@ -10,7 +10,7 @@ export const akashaFolderShape = {
     {
       statement: "Every relation value in akasha is a page address of one of the three kinds.",
       workingMemory:
-        "All 152 relation properties declare exactly one `targetPageType`, so every bare value is mechanically qualifiable, and the `profile` ambiguity went with the page that held it. Over the value index, setting `type` aside as identity rather than an edge, 80859 relation values sit on pages: 61812 bare over 137 type-and-key pairs, 19047 qualified. `addressedIn` refuses a bare name and answers a qualified one, so qualifying makes a value an address. One page type is one landing.\n",
+        "`qualify-relation-on-every-page` writes a bare name anew with the page type the page it reaches is of, one page type and key to a run, and a repeat runs it until nothing is left. Of 92539 relation values on pages, 65737 are qualified, 582 scoped, 26220 bare over 168 type-and-key pairs. A writer stating a bare name and a reader keying on one are mended first. 35678 more sit inside record properties, 21520 of them `invariantKind`, out of the act's reach.\n",
     },
     {
       statement: "The folder shapes are the fewest patterns that allow every folder in akasha.",
