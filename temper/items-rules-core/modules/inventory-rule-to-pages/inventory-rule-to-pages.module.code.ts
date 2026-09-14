@@ -1,3 +1,4 @@
+import { namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
 import type {
   ChainEntry,
   ConditionEntry,
@@ -7,6 +8,10 @@ import type {
 import type { CategoryRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const SLUG_PREFIX = "rule-"
+
+const ITEM_ACTION = "temper-item-action"
+
+const RULE_GOAL = "temper-rule-goal"
 
 function slugOf(key: string): string {
   let out = ""
@@ -67,12 +72,12 @@ export function pageFromRule(
     accountPage,
     categoryId: rule.categoryId,
     displayOrder,
-    action: rule.action,
+    action: namedAs(ITEM_ACTION, rule.action, null),
     active: rule.active !== false,
     updatedAt: instantOf(rule.updatedAt ?? 0),
     ...(rule.title == null ? {} : { title: rule.title }),
     ...(rule.notes == null ? {} : { description: rule.notes }),
-    ...(rule.goal == null ? {} : { goal: rule.goal }),
+    ...(rule.goal == null ? {} : { goal: namedAs(RULE_GOAL, rule.goal, null) }),
     ...(rule.locked === undefined ? {} : { locked: rule.locked }),
     ...(rule.destination === undefined ? {} : { destination: rule.destination }),
     ...(rule.stockScope === undefined ? {} : { stockScope: rule.stockScope }),

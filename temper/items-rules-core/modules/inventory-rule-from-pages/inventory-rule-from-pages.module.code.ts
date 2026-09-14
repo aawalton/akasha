@@ -1,3 +1,4 @@
+import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import {
   conditionsTaken,
   saidWrong,
@@ -215,12 +216,12 @@ export function ruleFromPage(held: HeldRule): CategoryRule {
   return {
     id: page.slug.startsWith(SLUG_PREFIX) ? page.slug.slice(SLUG_PREFIX.length) : page.slug,
     categoryId: page.categoryId,
-    action: page.action as ItemAction,
+    action: slugOf(page.action) as ItemAction,
     active: page.active,
     updatedAt: epochOf(page.updatedAt),
     ...(page.title === undefined ? {} : { title: page.title }),
     ...(page.description === undefined ? {} : { notes: page.description }),
-    ...(page.goal === undefined ? {} : { goal: page.goal }),
+    ...(page.goal === undefined ? {} : { goal: slugOf(page.goal) }),
     ...(page.locked === undefined ? {} : { locked: page.locked }),
     ...(page.destination === undefined
       ? {}

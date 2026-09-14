@@ -49,6 +49,10 @@ export const inventoryRuleFromPages = {
       statement: "Every rule a read was handed is in what that read returns.",
     },
     {
+      invariantKind: "departure",
+      statement: "An action and a goal come back as the slug alone, whatever page type names each.",
+    },
+    {
       invariantKind: "gap",
       statement: "Two rules of one account with one display order are ordered by nothing.",
     },

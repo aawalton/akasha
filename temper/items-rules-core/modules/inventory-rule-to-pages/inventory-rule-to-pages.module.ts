@@ -27,6 +27,10 @@ export const inventoryRuleToPages = {
     },
     {
       invariantKind: "departure",
+      statement: "An action and a goal are written by the page type and slug naming each.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A rule saying nothing about when the rule changed is written as the epoch.",
     },
     {
