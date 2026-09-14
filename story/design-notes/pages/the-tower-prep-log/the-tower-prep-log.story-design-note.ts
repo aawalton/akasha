@@ -5,7 +5,7 @@ export const theTowerPrepLog = {
   type: "story-design-note",
   slug: "the-tower-prep-log",
   title: "PREP-LOG — The Tower (prep-helper continuity)",
-  world: "personas",
+  world: "world/personas",
   subject: "the-tower",
   prose: "txt",
 } as const satisfies StoryDesignNote

@@ -5,7 +5,7 @@ export const haremHotelRulebook = {
   type: "story-design-note",
   slug: "harem-hotel-rulebook",
   title: "rulebook",
-  world: "personas",
+  world: "world/personas",
   subject: "harem-hotel",
   prose: "txt",
 } as const satisfies StoryDesignNote

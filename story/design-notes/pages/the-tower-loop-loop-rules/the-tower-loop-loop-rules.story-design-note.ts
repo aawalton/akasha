@@ -5,7 +5,7 @@ export const theTowerLoopLoopRules = {
   type: "story-design-note",
   slug: "the-tower-loop-loop-rules",
   title: "THE LOOP — HELD DARK (do not reveal until Alan's first death)",
-  world: "personas",
+  world: "world/personas",
   subject: "loop",
   prose: "txt",
 } as const satisfies StoryDesignNote

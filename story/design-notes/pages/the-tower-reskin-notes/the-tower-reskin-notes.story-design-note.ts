@@ -5,7 +5,7 @@ export const theTowerReskinNotes = {
   type: "story-design-note",
   slug: "the-tower-reskin-notes",
   title: "Reskin notes — component-primitive fidelity pass (candidate)",
-  world: "personas",
+  world: "world/personas",
   subject: "the-tower",
   prose: "txt",
 } as const satisfies StoryDesignNote

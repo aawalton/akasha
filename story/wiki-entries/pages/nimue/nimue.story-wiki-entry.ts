@@ -5,7 +5,7 @@ export const nimue = {
   type: "story-wiki-entry",
   slug: "nimue",
   title: "Nimue",
-  world: "tower-of-nimue",
+  world: "world/tower-of-nimue",
   kind: "character",
   chapterNumber: 2,
   prose: "txt",

@@ -5,7 +5,7 @@ export const theTowerSheetsCompanionAura = {
   type: "story-design-note",
   slug: "the-tower-sheets-companion-aura",
   title: "companion-aura",
-  world: "personas",
+  world: "world/personas",
   subject: "sheets",
   prose: "txt",
 } as const satisfies StoryDesignNote

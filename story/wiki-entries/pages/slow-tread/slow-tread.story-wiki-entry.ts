@@ -5,7 +5,7 @@ export const slowTread = {
   type: "story-wiki-entry",
   slug: "slow-tread",
   title: "Slow-Tread",
-  world: "cornerstone",
+  world: "world/cornerstone",
   kind: "character",
   chapterNumber: 1,
   prose: "txt",

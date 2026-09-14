@@ -5,7 +5,7 @@ export const theVioletHour = {
   type: "story-design",
   slug: "the-violet-hour",
   title: "The Violet Hour — story design",
-  world: "personas",
+  world: "world/personas",
   premise: "md",
   tone: "hushed, unhurried, twilight-low; safe; gently progressing; built to release, never grip",
   visualStyle:

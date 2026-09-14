@@ -5,7 +5,7 @@ export const theFallFirstCull = {
   type: "story-wiki-entry",
   slug: "the-fall-first-cull",
   title: "The Fall (First Cull)",
-  world: "tower-of-nimue",
+  world: "world/tower-of-nimue",
   kind: "seed",
   chapterNumber: 2,
   prose: "txt",

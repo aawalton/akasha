@@ -5,7 +5,7 @@ export const theTowerMechanicsAffinitySystem = {
   type: "story-design-note",
   slug: "the-tower-mechanics-affinity-system",
   title: "Affinity System (mechanic — full spec)",
-  world: "personas",
+  world: "world/personas",
   subject: "mechanics",
   prose: "txt",
 } as const satisfies StoryDesignNote

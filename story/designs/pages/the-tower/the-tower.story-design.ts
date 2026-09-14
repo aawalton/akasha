@@ -5,7 +5,7 @@ export const theTower = {
   type: "story-design",
   slug: "the-tower",
   title: "The Tower — story design",
-  world: "personas",
+  world: "world/personas",
   visualStyle:
     "ominous System-tower LitRPG art; cold vertical light and faint UI glow; desaturated slate, ash, and pale cyan palette; stark deep shadow; clean cinematic semi-realistic finish, isolating and tense",
 } as const satisfies StoryDesign

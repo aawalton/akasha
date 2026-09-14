@@ -5,7 +5,7 @@ export const theFirstBuried = {
   type: "story-wiki-entry",
   slug: "the-first-buried",
   title: "The First Buried",
-  world: "cornerstone",
+  world: "world/cornerstone",
   kind: "character",
   chapterNumber: 1,
   prose: "txt",

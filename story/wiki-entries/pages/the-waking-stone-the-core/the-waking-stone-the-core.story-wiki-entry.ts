@@ -5,7 +5,7 @@ export const theWakingStoneTheCore = {
   type: "story-wiki-entry",
   slug: "the-waking-stone-the-core",
   title: "The Waking Stone (the Core)",
-  world: "cornerstone",
+  world: "world/cornerstone",
   kind: "character",
   chapterNumber: 1,
   prose: "txt",

@@ -5,7 +5,7 @@ export const haremHotelWorldLogicChallengeDoorV3 = {
   type: "story-design-note",
   slug: "harem-hotel-world-logic-challenge-door-v3",
   title: "Challenge Door V3",
-  world: "personas",
+  world: "world/personas",
   subject: "world-logic",
   prose: "txt",
 } as const satisfies StoryDesignNote

@@ -5,7 +5,7 @@ export const coletteVane = {
   type: "story-wiki-entry",
   slug: "colette-vane",
   title: "Colette Vane",
-  world: "the-beholder",
+  world: "world/the-beholder",
   kind: "character",
   chapterNumber: 1,
   prose: "txt",

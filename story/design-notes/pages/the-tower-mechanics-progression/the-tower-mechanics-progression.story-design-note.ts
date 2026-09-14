@@ -5,7 +5,7 @@ export const theTowerMechanicsProgression = {
   type: "story-design-note",
   slug: "the-tower-mechanics-progression",
   title: "Progression ladders — The Tower",
-  world: "personas",
+  world: "world/personas",
   subject: "mechanics",
   prose: "txt",
 } as const satisfies StoryDesignNote

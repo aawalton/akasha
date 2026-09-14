@@ -5,7 +5,7 @@ export const theOnsetTheSystem = {
   type: "story-wiki-entry",
   slug: "the-onset-the-system",
   title: "The Onset & the System",
-  world: "the-beholder",
+  world: "world/the-beholder",
   kind: "system",
   chapterNumber: 1,
   prose: "txt",

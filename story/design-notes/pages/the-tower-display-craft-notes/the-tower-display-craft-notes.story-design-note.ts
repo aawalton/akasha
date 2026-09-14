@@ -5,7 +5,7 @@ export const theTowerDisplayCraftNotes = {
   type: "story-design-note",
   slug: "the-tower-display-craft-notes",
   title: "Tower display — craft notes for a cold successor",
-  world: "personas",
+  world: "world/personas",
   subject: "the-tower",
   prose: "txt",
 } as const satisfies StoryDesignNote

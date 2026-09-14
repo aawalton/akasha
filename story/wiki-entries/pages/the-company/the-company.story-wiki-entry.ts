@@ -5,7 +5,7 @@ export const theCompany = {
   type: "story-wiki-entry",
   slug: "the-company",
   title: "The Company",
-  world: "the-beholder",
+  world: "world/the-beholder",
   kind: "location",
   chapterNumber: 1,
   prose: "txt",

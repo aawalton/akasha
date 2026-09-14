@@ -5,7 +5,7 @@ export const platoApologyCrito = {
   type: "story-design",
   slug: "plato-apology-crito",
   title: "Plato: Apology, Crito — story design",
-  world: "plato-apology-crito",
+  world: "world/plato-apology-crito",
   premise: "md",
   genre: "Philosophy, Classical, Dialogue",
   tone: "Plain, grave, unhurried classical prose. Socratic argument carried in the speaking voice — defense and dialogue, irony and resolve, a man meeting death without flinching.",

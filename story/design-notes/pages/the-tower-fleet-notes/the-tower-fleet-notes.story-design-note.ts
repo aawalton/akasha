@@ -5,7 +5,7 @@ export const theTowerFleetNotes = {
   type: "story-design-note",
   slug: "the-tower-fleet-notes",
   title: "Fleet & process notes — iris-manager",
-  world: "personas",
+  world: "world/personas",
   subject: "the-tower",
   prose: "txt",
 } as const satisfies StoryDesignNote

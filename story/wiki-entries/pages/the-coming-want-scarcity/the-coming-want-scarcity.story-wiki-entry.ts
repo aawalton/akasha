@@ -5,7 +5,7 @@ export const theComingWantScarcity = {
   type: "story-wiki-entry",
   slug: "the-coming-want-scarcity",
   title: "The Coming Want (scarcity)",
-  world: "cornerstone",
+  world: "world/cornerstone",
   kind: "seed",
   chapterNumber: 1,
   prose: "txt",

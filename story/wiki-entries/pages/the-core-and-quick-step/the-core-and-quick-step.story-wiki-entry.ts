@@ -5,7 +5,7 @@ export const theCoreAndQuickStep = {
   type: "story-wiki-entry",
   slug: "the-core-and-quick-step",
   title: "The Core and Quick-Step",
-  world: "cornerstone",
+  world: "world/cornerstone",
   kind: "relationship",
   chapterNumber: 1,
   prose: "txt",

@@ -5,7 +5,7 @@ export const bathhouseConfession = {
   type: "story-design",
   slug: "bathhouse-confession",
   title: "Bathhouse Confession — story design",
-  world: "bathhouse-confession",
+  world: "world/bathhouse-confession",
   premise: "md",
   genre: "fanfiction, yuri, romance, erotica, one-shot",
   tone: "sensitive, sensual, warm, emotionally grounded; explicit but tender rather than crude",

@@ -5,7 +5,7 @@ export const theTower = {
   type: "story-wiki-entry",
   slug: "the-tower",
   title: "The Tower",
-  world: "tower-of-nimue",
+  world: "world/tower-of-nimue",
   kind: "location",
   chapterNumber: 2,
   prose: "txt",

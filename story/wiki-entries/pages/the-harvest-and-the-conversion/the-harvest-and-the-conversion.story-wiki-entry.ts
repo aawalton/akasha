@@ -5,7 +5,7 @@ export const theHarvestAndTheConversion = {
   type: "story-wiki-entry",
   slug: "the-harvest-and-the-conversion",
   title: "The Harvest & the Conversion (The Dead Are Inventory)",
-  world: "tower-of-nimue",
+  world: "world/tower-of-nimue",
   kind: "system",
   chapterNumber: 2,
   prose: "txt",

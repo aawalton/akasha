@@ -5,7 +5,7 @@ export const priya = {
   type: "story-wiki-entry",
   slug: "priya",
   title: "Priya",
-  world: "tower-of-nimue",
+  world: "world/tower-of-nimue",
   kind: "character",
   chapterNumber: 1,
   prose: "txt",

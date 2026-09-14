@@ -5,7 +5,7 @@ export const theTowerSheetsAlan = {
   type: "story-design-note",
   slug: "the-tower-sheets-alan",
   title: "alan",
-  world: "personas",
+  world: "world/personas",
   subject: "sheets",
   prose: "txt",
 } as const satisfies StoryDesignNote
