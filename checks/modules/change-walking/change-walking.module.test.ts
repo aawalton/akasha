@@ -37,9 +37,11 @@ import {
   treeWorld,
   VENDORED_AT,
 } from "akasha/checks/modules/change-walking/change-walking.module.test-fixtures.ts"
-import { pathListed } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
+
+const GONE_ID = "01a04bc4-0000-7000-8000-00000000000b"
 
 afterAll(scratch.sweep)
 
@@ -261,7 +263,7 @@ test("a walk over everything leaves out an installed dependency, whatever its na
 
 test("a walk over everything reads no index, so a path the tree does not hold is left out", () => {
   const root = treeWorld()
-  pathListed(root, GONE_AT)
+  listedFiled(root, MODULE, "gone", [{ path: GONE_AT, id: GONE_ID }])
   expect(everythingIn(root).changed).not.toContain(GONE_AT)
 })
 

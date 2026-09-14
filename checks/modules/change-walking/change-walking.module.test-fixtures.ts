@@ -4,7 +4,6 @@ import { onDisk } from "akasha/checks/modules/change-walking/change-walking.modu
 import { answeringOver } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
 import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { pathListed } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
@@ -47,10 +46,7 @@ function bodyAt(root: string, path: string, body: string): undefined {
 
 function worldOf(paths: readonly string[]): string {
   const root = scratch.rootFor("akasha-change-walking-")
-  for (const path of paths) {
-    bodyAt(root, path, `export const held = "${path}"\n`)
-    pathListed(root, path)
-  }
+  for (const path of paths) bodyAt(root, path, `export const held = "${path}"\n`)
   return root
 }
 
