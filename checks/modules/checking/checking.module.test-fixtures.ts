@@ -19,7 +19,6 @@ import {
 import {
   identitiesTakenFrom,
   noneOfTypeFiled,
-  pathListed,
   valueTakenFrom,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
@@ -132,8 +131,6 @@ export function rootWith(named: readonly Named[], filedUnder: PageType = CHECK_P
       { path: at, value: { id, pageTypeSlug: filedUnder.slug, slug: one.slug } },
     ])
     idFiled(root, id, held)
-    pathListed(root, at)
-    pathListed(root, `${at.slice(0, -".ts".length)}.code.ts`)
   }
   return root
 }

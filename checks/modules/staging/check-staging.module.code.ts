@@ -7,7 +7,6 @@ import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.mo
 import {
   entriesFiled,
   noImportersFiled,
-  pathListed,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { put, there } from "akasha/testing-system/modules/putting/putting.module.code.ts"
@@ -49,8 +48,6 @@ function graphed(root: string): undefined {
   paged(root, INDEX_PAGE_AT, indexImport)
   named(root, EDGE_PAGE_AT, importEdge.type, importEdge.slug, importEdge.id)
   named(root, INDEX_PAGE_AT, indexImport.type, indexImport.slug, indexImport.id)
-  pathListed(root, EDGE_PAGE_AT)
-  pathListed(root, INDEX_PAGE_AT)
 }
 
 export function staged(files: Readonly<Record<string, string>>): string {
