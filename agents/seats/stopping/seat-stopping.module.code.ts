@@ -165,7 +165,7 @@ export async function took(
   return gone
 }
 
-export async function tookMessages(
+async function tookMessages(
   given: Given,
   name: string,
   done: string[] = [],
