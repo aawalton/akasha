@@ -13,7 +13,6 @@ export const temperSkillMorphs = {
     "module/morph-conflict",
     "module/morph-pair",
     "module/morph-progress-types",
-    "module/morph-suggestion-fixtures",
     "module/morphable-skills",
     "module/select-morph-suggestions",
     "module/skill-line-morph-totals",
