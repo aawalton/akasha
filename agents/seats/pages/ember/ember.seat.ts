@@ -6,7 +6,7 @@ export const ember = {
   slug: "ember",
   persona: "ember",
   assignmentSlug: "initiative/ember-inventory-rules",
-  role: "role/definer",
+  role: "definer",
   person: "alan",
   startMode: "interactive",
   onCall: true,
