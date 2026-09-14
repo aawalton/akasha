@@ -9,7 +9,7 @@ export const iAmFunctionallyStable = {
   identityStatementLevel: 0.5,
   notionId: "cc5c0d23ba8140dda220aa647a24a18f",
   identityStatementRank: "c-rank",
-  replacedByStatements: ["i-am-energetically-athletic"],
+  replacedByStatements: ["identity-statement/i-am-energetically-athletic"],
   identityStatementStatus: "deprecated",
   identityStatementTags: ["move"],
   identityStatementValue: "value/health",

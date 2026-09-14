@@ -9,7 +9,9 @@ export const othersDistressIsAlwaysMyFaultAndFixingItIsMyResponsibility = {
   identityStatementLevel: -0.1,
   notionId: "2db5cf0bf24a801ca1d5ee59b4b75777",
   identityStatementRank: "d-rank",
-  replacedByStatements: ["others-distress-is-not-my-fault-and-fixing-it-is-not-my-responsibility"],
+  replacedByStatements: [
+    "identity-statement/others-distress-is-not-my-fault-and-fixing-it-is-not-my-responsibility",
+  ],
   identityStatementStatus: "deprecated",
   identityStatementValue: "value/love",
   icon: "file-text",

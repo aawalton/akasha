@@ -9,7 +9,7 @@ export const iAmConceptuallyAnchored = {
   identityStatementLevel: 1,
   notionId: "89ba5abb8e7742eca9a916f1d5dd72a8",
   identityStatementRank: "b-rank",
-  replacedByStatements: ["i-am-fully-integrated"],
+  replacedByStatements: ["identity-statement/i-am-fully-integrated"],
   identityStatementStatus: "current",
   identityStatementValue: "value/faith",
   icon: "file-text",

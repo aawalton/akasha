@@ -9,7 +9,7 @@ export const iAmAnOmnivorousAutodidact = {
   identityStatementLevel: -0.95,
   notionId: "039e8f0ea9624700baf04380dd9f9c63",
   identityStatementRank: "b-rank",
-  replacedByStatements: ["i-am-a-prolific-polymath"],
+  replacedByStatements: ["identity-statement/i-am-a-prolific-polymath"],
   identityStatementStatus: "deprecated",
   identityStatementValue: "value/learn",
   icon: "file-text",
