@@ -87,7 +87,14 @@ function bodyWritten(
 function pagedIn(one: Carried): string | null {
   const value = one.value
   if (typeof one.path !== "string" || value === undefined) return null
-  return typeof value[ID] === "string" ? one.path : null
+  return one.path
+}
+
+function idFor(path: string, value: Readonly<Record<string, unknown>>): string {
+  const said = value[ID]
+  if (typeof said === "string") return said
+  const held = Bun.hash(path).toString(16).padStart(16, "0").slice(-12)
+  return `01a00000-0000-7000-8000-${held}`
 }
 
 function onceWritten(root: string, at: string, lines: readonly unknown[]): undefined {
@@ -110,9 +117,9 @@ function listedAlso(
   path: string,
   value: Readonly<Record<string, unknown>>
 ): undefined {
-  const id = value[ID]
+  const id = idFor(path, value)
   const slug = slugFor(path, value)
-  if (typeof id !== "string" || slug === null) return
+  if (slug === null) return
   onceWritten(root, join(indexIdentity.name, PAGE_TYPE, pageTypeSlug, SLUG, slug), [{ path, id }])
   onceWritten(root, join(indexIdentity.name, PAGE, NO_SCOPE, ID, id), [{ path, id }])
 }

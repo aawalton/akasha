@@ -39,7 +39,7 @@ export const indexFiling = {
     },
     {
       invariantKind: "departure",
-      statement: "A value carrying no id is a shape rather than a page, and leaves no body.",
+      statement: "A value carrying no id is filed under an id worked out from that page's path.",
     },
     {
       invariantKind: "departure",
