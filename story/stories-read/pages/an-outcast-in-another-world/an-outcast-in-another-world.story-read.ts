@@ -5,7 +5,7 @@ export const anOutcastInAnotherWorld = {
   type: "story-read",
   slug: "an-outcast-in-another-world",
   title: "An Outcast In Another World",
-  world: "an-outcast-in-another-world",
+  world: "world/an-outcast-in-another-world",
   externalIdentity: [
     {
       source: "kindle",
@@ -14,5 +14,5 @@ export const anOutcastInAnotherWorld = {
     },
   ],
   rank: "C",
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook = {
   type: "story-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book",
   title: "The Stubborn Skill-Grinder In A Time Loop (Book 4 Stubbed)",
-  world: "the-stubborn-skill-grinder-in-a-time-loop-book",
+  world: "world/the-stubborn-skill-grinder-in-a-time-loop-book",
   externalIdentity: [
     {
       source: "royal-road",
@@ -29,6 +29,6 @@ export const theStubbornSkillGrinderInATimeLoopBook = {
     "High Fantasy",
     "Magic",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

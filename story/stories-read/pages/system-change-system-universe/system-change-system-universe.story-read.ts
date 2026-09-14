@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse = {
   type: "story-read",
   slug: "system-change-system-universe",
   title: "System Change (System Universe)",
-  world: "system-change-system-universe",
+  world: "world/system-change-system-universe",
   externalIdentity: [
     {
       source: "royal-road",
@@ -30,6 +30,6 @@ export const systemChangeSystemUniverse = {
     "Magic",
     "Slice of Life",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

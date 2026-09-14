@@ -6,9 +6,9 @@ export const savageDivinity = {
   slug: "savage-divinity",
   ownProgress: 495270,
   rank: "C",
-  unit: "words",
+  unit: "unit/words",
   title: "Savage Divinity",
-  world: "savage-divinity",
+  world: "world/savage-divinity",
   externalIdentity: [
     {
       source: "royal-road",

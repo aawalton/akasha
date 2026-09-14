@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression = {
   type: "story-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression",
   title: "Every Trope Everywhere All At Once [LitRPG, Progression, Comedy, Adventure]",
-  world: "every-trope-everywhere-all-at-once-litrpg-progression",
+  world: "world/every-trope-everywhere-all-at-once-litrpg-progression",
   externalIdentity: [
     {
       source: "royal-road",
@@ -30,6 +30,6 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression = {
     "Magic",
     "Strong Lead",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

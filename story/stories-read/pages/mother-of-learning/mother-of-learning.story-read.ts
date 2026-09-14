@@ -5,7 +5,7 @@ export const motherOfLearning = {
   type: "story-read",
   slug: "mother-of-learning",
   title: "Mother of Learning",
-  world: "mother-of-learning",
+  world: "world/mother-of-learning",
   externalIdentity: [
     {
       source: "royal-road",
@@ -17,6 +17,6 @@ export const motherOfLearning = {
   rank: "B",
   publicationStatus: "completed",
   externalTags: ["Time Loop", "Adventure", "Fantasy", "Mystery", "Magic"],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

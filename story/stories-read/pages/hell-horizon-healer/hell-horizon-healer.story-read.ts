@@ -5,7 +5,7 @@ export const hellHorizonHealer = {
   type: "story-read",
   slug: "hell-horizon-healer",
   title: "Hell Horizon: Healer",
-  world: "hell-horizon-healer",
+  world: "world/hell-horizon-healer",
   externalIdentity: [
     {
       source: "royal-road",
@@ -31,6 +31,6 @@ export const hellHorizonHealer = {
     "Strong Lead",
     "Tower",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

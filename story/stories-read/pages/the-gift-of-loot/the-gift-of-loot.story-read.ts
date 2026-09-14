@@ -5,7 +5,7 @@ export const theGiftOfLoot = {
   type: "story-read",
   slug: "the-gift-of-loot",
   title: "The Gift of Loot",
-  world: "the-gift-of-loot",
+  world: "world/the-gift-of-loot",
   externalIdentity: [
     {
       source: "royal-road",
@@ -31,6 +31,6 @@ export const theGiftOfLoot = {
     "Survival",
     "System Invasion",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

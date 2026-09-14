@@ -5,7 +5,7 @@ export const theWayOfTheShaman = {
   type: "story-read",
   slug: "the-way-of-the-shaman",
   title: "The Way of the Shaman",
-  world: "the-way-of-the-shaman",
+  world: "world/the-way-of-the-shaman",
   externalIdentity: [
     {
       source: "kindle",
@@ -15,5 +15,5 @@ export const theWayOfTheShaman = {
   ],
   rank: "C",
   tags: ["VRMMO"],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

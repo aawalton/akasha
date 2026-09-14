@@ -5,7 +5,7 @@ export const superSupportive = {
   type: "story-read",
   slug: "super-supportive",
   title: "Super Supportive",
-  world: "super-supportive",
+  world: "world/super-supportive",
   externalIdentity: [
     {
       source: "royal-road",
@@ -29,6 +29,6 @@ export const superSupportive = {
     "School Life",
     "Soft Sci-fi",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

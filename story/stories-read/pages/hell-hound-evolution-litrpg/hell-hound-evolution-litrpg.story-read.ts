@@ -5,7 +5,7 @@ export const hellHoundEvolutionLitrpg = {
   type: "story-read",
   slug: "hell-hound-evolution-litrpg",
   title: "Hell Hound Evolution",
-  world: "hell-hound-evolution-litrpg",
+  world: "world/hell-hound-evolution-litrpg",
   externalIdentity: [
     {
       source: "royal-road",
@@ -41,5 +41,5 @@ export const hellHoundEvolutionLitrpg = {
     "Survival",
     "Villainous Lead",
   ],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

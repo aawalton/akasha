@@ -5,7 +5,7 @@ export const aTouchOfPower = {
   type: "story-read",
   slug: "a-touch-of-power",
   title: "A Touch of Power",
-  world: "a-touch-of-power",
+  world: "world/a-touch-of-power",
   externalIdentity: [
     {
       source: "kindle",
@@ -16,5 +16,5 @@ export const aTouchOfPower = {
   rank: "A",
   following: true,
   tags: ["System World"],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

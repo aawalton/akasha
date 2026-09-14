@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia = {
   type: "story-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia",
   title: "Heaven-Piercing Giraffe",
-  world: "heaven-piercing-giraffe-op-mc-xianxia",
+  world: "world/heaven-piercing-giraffe-op-mc-xianxia",
   externalIdentity: [
     {
       source: "royal-road",
@@ -28,6 +28,6 @@ export const heavenPiercingGiraffeOpMcXianxia = {
     "Lesbian Romance",
     "Strong Lead",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

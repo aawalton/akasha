@@ -5,7 +5,7 @@ export const theGam3 = {
   type: "story-read",
   slug: "the-gam3",
   title: "The Gam3",
-  world: "the-gam3",
+  world: "world/the-gam3",
   externalIdentity: [
     {
       source: "kindle",
@@ -15,5 +15,5 @@ export const theGam3 = {
   ],
   rank: "B",
   tags: ["VRMMO"],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

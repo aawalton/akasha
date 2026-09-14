@@ -5,7 +5,7 @@ export const thePathOfAscension = {
   type: "story-read",
   slug: "the-path-of-ascension",
   title: "The Path of Ascension",
-  world: "the-path-of-ascension",
+  world: "world/the-path-of-ascension",
   externalIdentity: [
     {
       source: "royal-road",
@@ -33,6 +33,6 @@ export const thePathOfAscension = {
     "Martial Arts",
     "Soft Sci-fi",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

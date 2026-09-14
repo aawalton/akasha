@@ -5,7 +5,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg = {
   type: "story-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   title: "Zero-Day Saint — I Cheat Smarter — [Shapeshifter litRPG][Vol 1 Complete]",
-  world: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
+  world: "world/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   externalIdentity: [
     {
       source: "royal-road",
@@ -29,6 +29,6 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg = {
     "Lesbian Romance",
     "System Invasion",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

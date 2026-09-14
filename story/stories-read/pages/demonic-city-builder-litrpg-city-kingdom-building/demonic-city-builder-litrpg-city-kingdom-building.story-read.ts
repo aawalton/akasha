@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding = {
   type: "story-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building",
   title: "Demonic City Builder [LitRPG, City & Kingdom Building]",
-  world: "demonic-city-builder-litrpg-city-kingdom-building",
+  world: "world/demonic-city-builder-litrpg-city-kingdom-building",
   externalIdentity: [
     {
       source: "royal-road",
@@ -35,6 +35,6 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding = {
     "Supernatural",
     "Survival",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

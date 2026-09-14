@@ -5,7 +5,7 @@ export const awakenOnline = {
   type: "story-read",
   slug: "awaken-online",
   title: "Awaken Online",
-  world: "awaken-online",
+  world: "world/awaken-online",
   externalIdentity: [
     {
       source: "kindle",
@@ -16,5 +16,5 @@ export const awakenOnline = {
   rank: "A",
   following: true,
   tags: ["VRMMO"],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

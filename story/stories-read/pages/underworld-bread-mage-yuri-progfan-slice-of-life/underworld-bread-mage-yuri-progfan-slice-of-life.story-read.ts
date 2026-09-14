@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife = {
   type: "story-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life",
   title: "Underworld Bread Mage [Yuri, Progfan, Slice of Life]",
-  world: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  world: "world/underworld-bread-mage-yuri-progfan-slice-of-life",
   externalIdentity: [
     {
       source: "royal-road",
@@ -30,6 +30,6 @@ export const underworldBreadMageYuriProgfanSliceOfLife = {
     "Lesbian Romance",
     "Slice of Life",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

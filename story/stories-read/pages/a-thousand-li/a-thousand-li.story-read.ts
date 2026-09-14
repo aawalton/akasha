@@ -5,7 +5,7 @@ export const aThousandLi = {
   type: "story-read",
   slug: "a-thousand-li",
   title: "A Thousand Li",
-  world: "a-thousand-li",
+  world: "world/a-thousand-li",
   externalIdentity: [
     {
       source: "kindle",
@@ -15,5 +15,5 @@ export const aThousandLi = {
   ],
   rank: "B",
   tags: ["Cultivation"],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

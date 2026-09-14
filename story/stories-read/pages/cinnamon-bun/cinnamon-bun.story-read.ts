@@ -6,9 +6,9 @@ export const cinnamonBun = {
   slug: "cinnamon-bun",
   ownProgress: 746879,
   rank: "C",
-  unit: "words",
+  unit: "unit/words",
   title: "Cinnamon Bun",
-  world: "cinnamon-bun",
+  world: "world/cinnamon-bun",
   externalIdentity: [
     {
       source: "royal-road",

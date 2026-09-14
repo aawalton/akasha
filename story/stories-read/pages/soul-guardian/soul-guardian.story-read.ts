@@ -5,7 +5,7 @@ export const soulGuardian = {
   type: "story-read",
   slug: "soul-guardian",
   title: "Soul Guardian",
-  world: "soul-guardian",
+  world: "world/soul-guardian",
   externalIdentity: [
     {
       source: "kindle",
@@ -16,5 +16,5 @@ export const soulGuardian = {
   rank: "B",
   following: true,
   tags: ["Slice-Of-Life"],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

@@ -5,7 +5,7 @@ export const lightCleric = {
   type: "story-read",
   slug: "light-cleric",
   title: "Light Cleric",
-  world: "light-cleric",
+  world: "world/light-cleric",
   externalIdentity: [
     {
       source: "royal-road",
@@ -26,6 +26,6 @@ export const lightCleric = {
     "High Fantasy",
     "Magic",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

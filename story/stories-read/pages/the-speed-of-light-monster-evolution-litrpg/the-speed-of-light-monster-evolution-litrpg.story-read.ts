@@ -5,7 +5,7 @@ export const theSpeedOfLightMonsterEvolutionLitrpg = {
   type: "story-read",
   slug: "the-speed-of-light-monster-evolution-litrpg",
   title: "The Speed of Light",
-  world: "the-speed-of-light-monster-evolution-litrpg",
+  world: "world/the-speed-of-light-monster-evolution-litrpg",
   externalIdentity: [
     {
       source: "royal-road",
@@ -31,5 +31,5 @@ export const theSpeedOfLightMonsterEvolutionLitrpg = {
     "Magic",
     "Strong Lead",
   ],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

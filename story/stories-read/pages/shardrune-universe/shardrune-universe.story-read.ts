@@ -5,8 +5,8 @@ export const shardruneUniverse = {
   type: "story-read",
   slug: "shardrune-universe",
   title: "Shardrune Universe",
-  world: "shardrune-universe",
+  world: "world/shardrune-universe",
   rank: "B",
   following: true,
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

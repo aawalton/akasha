@@ -5,7 +5,7 @@ export const librarySystemResetOverdueBookFourStubbed = {
   type: "story-read",
   slug: "library-system-reset-overdue-book-four-stubbed",
   title: "Library System Reset",
-  world: "library-system-reset-overdue-book-four-stubbed",
+  world: "world/library-system-reset-overdue-book-four-stubbed",
   externalIdentity: [
     {
       source: "royal-road",
@@ -27,5 +27,5 @@ export const librarySystemResetOverdueBookFourStubbed = {
     "High Fantasy",
     "Magic",
   ],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

@@ -5,7 +5,7 @@ export const emieAscended = {
   type: "story-read",
   slug: "emie-ascended",
   title: "Emie Ascended",
-  world: "emie-ascended",
+  world: "world/emie-ascended",
   externalIdentity: [
     {
       source: "royal-road",
@@ -31,6 +31,6 @@ export const emieAscended = {
     "Magic",
     "Romance Subplot",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

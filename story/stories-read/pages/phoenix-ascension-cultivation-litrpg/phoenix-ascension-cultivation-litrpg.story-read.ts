@@ -5,9 +5,9 @@ export const phoenixAscensionCultivationLitrpg = {
   type: "story-read",
   slug: "phoenix-ascension-cultivation-litrpg",
   rank: "C",
-  unit: "words",
+  unit: "unit/words",
   title: "Phoenix Ascension",
-  world: "phoenix-ascension-cultivation-litrpg",
+  world: "world/phoenix-ascension-cultivation-litrpg",
   externalIdentity: [
     {
       source: "royal-road",

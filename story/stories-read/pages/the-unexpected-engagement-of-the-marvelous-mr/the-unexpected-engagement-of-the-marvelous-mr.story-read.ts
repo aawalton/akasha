@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr = {
   type: "story-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr",
   title: "The Unexpected Engagement of the Marvelous Mr. Penn",
-  world: "the-unexpected-engagement-of-the-marvelous-mr",
+  world: "world/the-unexpected-engagement-of-the-marvelous-mr",
   externalIdentity: [
     {
       source: "royal-road",
@@ -18,6 +18,6 @@ export const theUnexpectedEngagementOfTheMarvelousMr = {
   following: true,
   publicationStatus: "completed",
   externalTags: ["Adventure", "Historical", "Mystery", "Romance Subplot"],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

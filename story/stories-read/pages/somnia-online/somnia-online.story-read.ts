@@ -5,7 +5,7 @@ export const somniaOnline = {
   type: "story-read",
   slug: "somnia-online",
   title: "Somnia Online",
-  world: "somnia-online",
+  world: "world/somnia-online",
   externalIdentity: [
     {
       source: "kindle",
@@ -14,5 +14,5 @@ export const somniaOnline = {
     },
   ],
   tags: ["VRMMO"],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

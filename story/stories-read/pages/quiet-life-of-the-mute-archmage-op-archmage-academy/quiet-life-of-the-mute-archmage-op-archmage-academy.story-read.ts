@@ -5,9 +5,9 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy = {
   type: "story-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   author: "P_Magno",
-  unit: "words",
+  unit: "unit/words",
   title: "Quiet Life Of The Mute Archmage (OP Archmage/ Academy/ XianXia/ LITRPG/ Mute MC)",
-  world: "quiet-life-of-the-mute-archmage-op-archmage-academy",
+  world: "world/quiet-life-of-the-mute-archmage-op-archmage-academy",
   externalIdentity: [
     {
       source: "royal-road",

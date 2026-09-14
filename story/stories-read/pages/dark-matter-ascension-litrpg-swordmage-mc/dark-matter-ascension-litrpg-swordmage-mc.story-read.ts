@@ -5,7 +5,7 @@ export const darkMatterAscensionLitrpgSwordmageMc = {
   type: "story-read",
   slug: "dark-matter-ascension-litrpg-swordmage-mc",
   title: "Dark Matter Ascension",
-  world: "dark-matter-ascension-litrpg-swordmage-mc",
+  world: "world/dark-matter-ascension-litrpg-swordmage-mc",
   externalIdentity: [
     {
       source: "royal-road",
@@ -39,5 +39,5 @@ export const darkMatterAscensionLitrpgSwordmageMc = {
     "System Invasion",
   ],
   ownProgress: 83325,
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

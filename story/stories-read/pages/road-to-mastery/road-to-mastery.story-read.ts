@@ -5,7 +5,7 @@ export const roadToMastery = {
   type: "story-read",
   slug: "road-to-mastery",
   title: "Road to Mastery",
-  world: "road-to-mastery",
+  world: "world/road-to-mastery",
   externalIdentity: [
     {
       source: "kindle",
@@ -15,5 +15,5 @@ export const roadToMastery = {
   ],
   rank: "B",
   tags: ["System Apocalypse"],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

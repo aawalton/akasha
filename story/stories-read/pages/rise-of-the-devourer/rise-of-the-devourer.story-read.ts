@@ -5,7 +5,7 @@ export const riseOfTheDevourer = {
   type: "story-read",
   slug: "rise-of-the-devourer",
   title: "Rise of the Devourer",
-  world: "rise-of-the-devourer",
+  world: "world/rise-of-the-devourer",
   externalIdentity: [
     {
       source: "kindle",
@@ -14,5 +14,5 @@ export const riseOfTheDevourer = {
     },
   ],
   rank: "C",
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

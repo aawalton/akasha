@@ -5,7 +5,7 @@ export const hellDifficultyTutorial = {
   type: "story-read",
   slug: "hell-difficulty-tutorial",
   title: "Hell Difficulty Tutorial",
-  world: "hell-difficulty-tutorial",
+  world: "world/hell-difficulty-tutorial",
   externalIdentity: [
     {
       source: "royal-road",
@@ -30,5 +30,5 @@ export const hellDifficultyTutorial = {
     "Survival",
     "System Invasion",
   ],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

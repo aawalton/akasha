@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters = {
   type: "story-read",
   slug: "he-who-fights-with-monsters",
   title: "He Who Fights With Monsters",
-  world: "he-who-fights-with-monsters",
+  world: "world/he-who-fights-with-monsters",
   externalIdentity: [
     {
       source: "royal-road",
@@ -28,6 +28,6 @@ export const heWhoFightsWithMonsters = {
     "High Fantasy",
     "Magic",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

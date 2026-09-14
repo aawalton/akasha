@@ -5,7 +5,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg = {
   type: "story-read",
   slug: "crimson-eternal-an-immortal-death-mage-litrpg",
   title: "Crimson Eternal: An Immortal Death Mage LitRPG Apocalypse (Book 1 Stubbing in October)",
-  world: "crimson-eternal-an-immortal-death-mage-litrpg",
+  world: "world/crimson-eternal-an-immortal-death-mage-litrpg",
   externalIdentity: [
     {
       source: "royal-road",
@@ -32,6 +32,6 @@ export const crimsonEternalAnImmortalDeathMageLitrpg = {
     "Strong Lead",
     "System Invasion",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

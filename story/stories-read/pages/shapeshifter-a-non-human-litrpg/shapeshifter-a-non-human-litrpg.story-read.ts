@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg = {
   type: "story-read",
   slug: "shapeshifter-a-non-human-litrpg",
   title: "\\nFaceless Hunter",
-  world: "shapeshifter-a-non-human-litrpg",
+  world: "world/shapeshifter-a-non-human-litrpg",
   externalIdentity: [
     {
       source: "royal-road",
@@ -35,5 +35,5 @@ export const shapeshifterANonHumanLitrpg = {
     "Strong Lead",
     "Survival",
   ],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

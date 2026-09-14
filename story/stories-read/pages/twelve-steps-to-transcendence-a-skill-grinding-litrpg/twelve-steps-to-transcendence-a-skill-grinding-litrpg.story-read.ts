@@ -5,7 +5,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg = {
   type: "story-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   title: "12 Steps to Transcendence: A Skill-Grinding LitRPG",
-  world: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
+  world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   externalIdentity: [
     {
       source: "royal-road",
@@ -32,6 +32,6 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg = {
     "Slice of Life",
     "Survival",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

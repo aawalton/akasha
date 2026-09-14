@@ -5,7 +5,7 @@ export const squidGirlEvolutionMonsterGirlEvolutionLitrpg = {
   type: "story-read",
   slug: "squid-girl-evolution-monster-girl-evolution-litrpg",
   title: "Squid Girl Evolution",
-  world: "squid-girl-evolution-monster-girl-evolution-litrpg",
+  world: "world/squid-girl-evolution-monster-girl-evolution-litrpg",
   externalIdentity: [
     {
       source: "royal-road",
@@ -32,5 +32,5 @@ export const squidGirlEvolutionMonsterGirlEvolutionLitrpg = {
     "Slice of Life",
     "Strong Lead",
   ],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

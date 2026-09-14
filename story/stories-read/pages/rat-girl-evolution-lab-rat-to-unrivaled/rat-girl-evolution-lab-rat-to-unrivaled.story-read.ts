@@ -5,7 +5,7 @@ export const ratGirlEvolutionLabRatToUnrivaled = {
   type: "story-read",
   slug: "rat-girl-evolution-lab-rat-to-unrivaled",
   title: "Rat Girl Evolution",
-  world: "rat-girl-evolution-lab-rat-to-unrivaled",
+  world: "world/rat-girl-evolution-lab-rat-to-unrivaled",
   externalIdentity: [
     {
       source: "royal-road",
@@ -32,5 +32,5 @@ export const ratGirlEvolutionLabRatToUnrivaled = {
     "Secret Identity",
     "Technologically Engineered",
   ],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

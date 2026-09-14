@@ -5,7 +5,7 @@ export const thePrimalHunter = {
   type: "story-read",
   slug: "the-primal-hunter",
   title: "The Primal Hunter",
-  world: "the-primal-hunter",
+  world: "world/the-primal-hunter",
   externalIdentity: [
     {
       source: "royal-road",
@@ -33,6 +33,6 @@ export const thePrimalHunter = {
     "Strong Lead",
     "Supernatural",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

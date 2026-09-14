@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete = {
   type: "story-read",
   slug: "dungeon-of-knowledge-complete",
   title: "Dungeon of Knowledge [Complete]",
-  world: "dungeon-of-knowledge-complete",
+  world: "world/dungeon-of-knowledge-complete",
   externalIdentity: [
     {
       source: "royal-road",
@@ -32,6 +32,6 @@ export const dungeonOfKnowledgeComplete = {
     "Magic",
     "Non-Human Lead",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

@@ -5,7 +5,7 @@ export const guardianOfAsterFall = {
   type: "story-read",
   slug: "guardian-of-aster-fall",
   title: "Guardian of Aster Fall",
-  world: "guardian-of-aster-fall",
+  world: "world/guardian-of-aster-fall",
   externalIdentity: [
     {
       source: "kindle",
@@ -15,5 +15,5 @@ export const guardianOfAsterFall = {
   ],
   rank: "C",
   tags: ["Crafting", "Dungeon Delver"],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

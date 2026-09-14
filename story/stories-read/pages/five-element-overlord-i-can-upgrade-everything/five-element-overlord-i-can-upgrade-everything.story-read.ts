@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything = {
   type: "story-read",
   slug: "five-element-overlord-i-can-upgrade-everything",
   title: "Five Element Overlord: I Can Upgrade Everything!",
-  world: "five-element-overlord-i-can-upgrade-everything",
+  world: "world/five-element-overlord-i-can-upgrade-everything",
   externalIdentity: [
     {
       source: "royal-road",
@@ -32,6 +32,6 @@ export const fiveElementOverlordICanUpgradeEverything = {
     "Martial Arts",
     "Secret Identity",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

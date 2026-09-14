@@ -5,7 +5,7 @@ export const stonehavenLeague = {
   type: "story-read",
   slug: "stonehaven-league",
   title: "Stonehaven League",
-  world: "stonehaven-league",
+  world: "world/stonehaven-league",
   externalIdentity: [
     {
       source: "kindle",
@@ -15,5 +15,5 @@ export const stonehavenLeague = {
   ],
   following: true,
   tags: ["VRMMO"],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

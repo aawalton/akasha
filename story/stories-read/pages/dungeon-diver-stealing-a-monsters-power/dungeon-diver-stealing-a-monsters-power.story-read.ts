@@ -5,7 +5,7 @@ export const dungeonDiverStealingAMonstersPower = {
   type: "story-read",
   slug: "dungeon-diver-stealing-a-monsters-power",
   title: "Dungeon Diver: Stealing A Monster’s Power",
-  world: "dungeon-diver-stealing-a-monsters-power",
+  world: "world/dungeon-diver-stealing-a-monsters-power",
   externalIdentity: [
     {
       source: "royal-road",
@@ -34,6 +34,6 @@ export const dungeonDiverStealingAMonstersPower = {
     "Slice of Life",
     "Strong Lead",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

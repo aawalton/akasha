@@ -5,7 +5,7 @@ export const dragonHeart = {
   type: "story-read",
   slug: "dragon-heart",
   title: "Dragon Heart",
-  world: "dragon-heart",
+  world: "world/dragon-heart",
   externalIdentity: [
     {
       source: "kindle",
@@ -15,5 +15,5 @@ export const dragonHeart = {
   ],
   rank: "C",
   tags: ["Cultivation", "Dark"],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

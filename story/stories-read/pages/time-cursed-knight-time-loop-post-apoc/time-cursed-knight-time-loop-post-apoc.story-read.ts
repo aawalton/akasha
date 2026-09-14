@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc = {
   type: "story-read",
   slug: "time-cursed-knight-time-loop-post-apoc",
   title: "Time Cursed Knight [Time Loop • Post Apoc]",
-  world: "time-cursed-knight-time-loop-post-apoc",
+  world: "world/time-cursed-knight-time-loop-post-apoc",
   externalIdentity: [
     {
       source: "royal-road",
@@ -31,6 +31,6 @@ export const timeCursedKnightTimeLoopPostApoc = {
     "Magic",
     "Magitech",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

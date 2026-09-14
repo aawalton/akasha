@@ -6,7 +6,7 @@ export const sovereignSightProgressionFantasyCultivation = {
   slug: "sovereign-sight-progression-fantasy-cultivation",
   title:
     "Sovereign Sight [Progression Fantasy, Cultivation, Clever Strategist, High Perception MC]",
-  world: "sovereign-sight-progression-fantasy-cultivation",
+  world: "world/sovereign-sight-progression-fantasy-cultivation",
   externalIdentity: [
     {
       source: "royal-road",
@@ -26,6 +26,6 @@ export const sovereignSightProgressionFantasyCultivation = {
     "Adventure",
     "Fantasy",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

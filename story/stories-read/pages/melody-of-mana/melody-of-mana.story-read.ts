@@ -5,7 +5,7 @@ export const melodyOfMana = {
   type: "story-read",
   slug: "melody-of-mana",
   title: "Melody of Mana",
-  world: "melody-of-mana",
+  world: "world/melody-of-mana",
   externalIdentity: [
     {
       source: "royal-road",
@@ -25,6 +25,6 @@ export const melodyOfMana = {
     "Magic",
     "Reincarnation",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

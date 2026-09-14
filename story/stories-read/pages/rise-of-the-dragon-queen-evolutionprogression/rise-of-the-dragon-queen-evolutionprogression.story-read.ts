@@ -5,7 +5,7 @@ export const riseOfTheDragonQueenEvolutionprogression = {
   type: "story-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression",
   title: "Rise Of The Dragon Queen",
-  world: "rise-of-the-dragon-queen-evolutionprogression",
+  world: "world/rise-of-the-dragon-queen-evolutionprogression",
   externalIdentity: [
     {
       source: "royal-road",
@@ -29,5 +29,5 @@ export const riseOfTheDragonQueenEvolutionprogression = {
     "Slice of Life",
     "Strong Lead",
   ],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

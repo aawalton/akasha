@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed = {
   type: "story-read",
   slug: "the-calamitous-bob-stubbed",
   title: "The Calamitous Bob (stubbed)",
-  world: "the-calamitous-bob-stubbed",
+  world: "world/the-calamitous-bob-stubbed",
   externalIdentity: [
     {
       source: "royal-road",
@@ -26,6 +26,6 @@ export const theCalamitousBobStubbed = {
     "Fantasy",
     "Magic",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

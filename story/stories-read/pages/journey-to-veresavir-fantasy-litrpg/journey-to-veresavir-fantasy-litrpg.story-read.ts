@@ -5,7 +5,7 @@ export const journeyToVeresavirFantasyLitrpg = {
   type: "story-read",
   slug: "journey-to-veresavir-fantasy-litrpg",
   title: "Journey to Veresavir [Fantasy LitRPG]",
-  world: "journey-to-veresavir-fantasy-litrpg",
+  world: "world/journey-to-veresavir-fantasy-litrpg",
   externalIdentity: [
     {
       source: "royal-road",
@@ -25,6 +25,6 @@ export const journeyToVeresavirFantasyLitrpg = {
     "Fantasy",
     "Magic",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

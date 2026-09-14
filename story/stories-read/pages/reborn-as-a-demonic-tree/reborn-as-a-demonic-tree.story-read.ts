@@ -5,7 +5,7 @@ export const rebornAsADemonicTree = {
   type: "story-read",
   slug: "reborn-as-a-demonic-tree",
   title: "Reborn as a Demonic Tree",
-  world: "reborn-as-a-demonic-tree",
+  world: "world/reborn-as-a-demonic-tree",
   externalIdentity: [
     {
       source: "royal-road",
@@ -36,6 +36,6 @@ export const rebornAsADemonicTree = {
     "Strong Lead",
     "Villainous Lead",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

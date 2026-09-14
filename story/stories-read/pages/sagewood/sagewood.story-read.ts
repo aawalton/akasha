@@ -5,7 +5,7 @@ export const sagewood = {
   type: "story-read",
   slug: "sagewood",
   title: "Sagewood",
-  world: "sagewood",
+  world: "world/sagewood",
   externalIdentity: [
     {
       source: "kindle",
@@ -15,5 +15,5 @@ export const sagewood = {
   ],
   rank: "C",
   tags: ["Slice-Of-Life"],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

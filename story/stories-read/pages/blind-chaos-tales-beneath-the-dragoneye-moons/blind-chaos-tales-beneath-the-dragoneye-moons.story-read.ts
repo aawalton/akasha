@@ -5,9 +5,9 @@ export const blindChaosTalesBeneathTheDragoneyeMoons = {
   type: "story-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons",
   rank: "C",
-  unit: "words",
+  unit: "unit/words",
   title: "Blind Chaos",
-  world: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  world: "world/blind-chaos-tales-beneath-the-dragoneye-moons",
   externalIdentity: [
     {
       source: "royal-road",

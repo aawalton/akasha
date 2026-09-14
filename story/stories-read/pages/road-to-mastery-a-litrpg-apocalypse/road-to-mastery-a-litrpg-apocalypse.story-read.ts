@@ -5,7 +5,7 @@ export const roadToMasteryALitrpgApocalypse = {
   type: "story-read",
   slug: "road-to-mastery-a-litrpg-apocalypse",
   title: "Road to Mastery: A LitRPG Apocalypse",
-  world: "road-to-mastery-a-litrpg-apocalypse",
+  world: "world/road-to-mastery-a-litrpg-apocalypse",
   externalIdentity: [
     {
       source: "royal-road",
@@ -30,6 +30,6 @@ export const roadToMasteryALitrpgApocalypse = {
     "Mythos",
     "Supernatural",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

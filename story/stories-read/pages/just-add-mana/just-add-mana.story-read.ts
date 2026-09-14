@@ -5,7 +5,7 @@ export const justAddMana = {
   type: "story-read",
   slug: "just-add-mana",
   title: "Just Add Mana",
-  world: "just-add-mana",
+  world: "world/just-add-mana",
   externalIdentity: [
     {
       source: "royal-road",
@@ -33,6 +33,6 @@ export const justAddMana = {
     "Slice of Life",
     "Strong Lead",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

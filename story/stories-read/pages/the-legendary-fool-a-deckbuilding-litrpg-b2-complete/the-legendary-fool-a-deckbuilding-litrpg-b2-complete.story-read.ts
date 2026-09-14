@@ -5,7 +5,7 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete = {
   type: "story-read",
   slug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
   title: "The Legendary Fool",
-  world: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
+  world: "world/the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
   externalIdentity: [
     {
       source: "royal-road",
@@ -26,5 +26,5 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete = {
     "Fantasy",
     "Secret Identity",
   ],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

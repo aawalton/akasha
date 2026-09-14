@@ -5,7 +5,7 @@ export const riseOfTheLivingForge = {
   type: "story-read",
   slug: "rise-of-the-living-forge",
   title: "Rise of the Living Forge",
-  world: "rise-of-the-living-forge",
+  world: "world/rise-of-the-living-forge",
   externalIdentity: [
     {
       source: "royal-road",
@@ -31,6 +31,6 @@ export const riseOfTheLivingForge = {
     "Secret Identity",
     "Strong Lead",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

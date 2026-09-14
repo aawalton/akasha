@@ -6,9 +6,9 @@ export const thereIsNoEpicLootHereOnlyPuns = {
   slug: "there-is-no-epic-loot-here-only-puns",
   ownProgress: 718536,
   rank: "C",
-  unit: "words",
+  unit: "unit/words",
   title: "There is no Epic Loot here, Only Puns",
-  world: "there-is-no-epic-loot-here-only-puns",
+  world: "world/there-is-no-epic-loot-here-only-puns",
   externalIdentity: [
     {
       source: "royal-road",

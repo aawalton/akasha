@@ -5,7 +5,7 @@ export const theLegendOfRandidlyGhosthound = {
   type: "story-read",
   slug: "the-legend-of-randidly-ghosthound",
   title: "The Legend of Randidly Ghosthound",
-  world: "the-legend-of-randidly-ghosthound",
+  world: "world/the-legend-of-randidly-ghosthound",
   externalIdentity: [
     {
       source: "royal-road",
@@ -17,6 +17,6 @@ export const theLegendOfRandidlyGhosthound = {
   rank: "C",
   following: true,
   externalTags: ["LitRPG", "Action", "Fantasy"],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

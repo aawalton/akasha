@@ -5,7 +5,7 @@ export const cradle = {
   type: "story-read",
   slug: "cradle",
   title: "Cradle",
-  world: "cradle",
+  world: "world/cradle",
   externalIdentity: [
     {
       source: "kindle",
@@ -15,5 +15,5 @@ export const cradle = {
   ],
   rank: "A",
   tags: ["Cultivation", "System World"],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

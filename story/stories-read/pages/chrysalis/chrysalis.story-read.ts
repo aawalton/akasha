@@ -5,7 +5,7 @@ export const chrysalis = {
   type: "story-read",
   slug: "chrysalis",
   title: "Chrysalis",
-  world: "chrysalis",
+  world: "world/chrysalis",
   externalIdentity: [
     {
       source: "royal-road",
@@ -25,6 +25,6 @@ export const chrysalis = {
     "Fantasy",
     "Magic",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg = {
   type: "story-read",
   slug: "syl-a-slime-monster-evolution-litrpg",
   title: "Syl [A Slime Monster Evolution LitRPG]",
-  world: "syl-a-slime-monster-evolution-litrpg",
+  world: "world/syl-a-slime-monster-evolution-litrpg",
   externalIdentity: [
     {
       source: "royal-road",
@@ -31,6 +31,6 @@ export const sylASlimeMonsterEvolutionLitrpg = {
     "Secret Identity",
     "Strong Lead",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

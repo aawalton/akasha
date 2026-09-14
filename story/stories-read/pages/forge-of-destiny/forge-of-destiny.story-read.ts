@@ -5,7 +5,7 @@ export const forgeOfDestiny = {
   type: "story-read",
   slug: "forge-of-destiny",
   title: "Forge of Destiny",
-  world: "forge-of-destiny",
+  world: "world/forge-of-destiny",
   externalIdentity: [
     {
       source: "royal-road",
@@ -26,5 +26,5 @@ export const forgeOfDestiny = {
     "Martial Arts",
   ],
   ownProgress: 1264154,
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

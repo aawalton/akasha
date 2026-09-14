@@ -5,7 +5,7 @@ export const secondAgeOfRetha = {
   type: "story-read",
   slug: "second-age-of-retha",
   title: "Second Age of Retha",
-  world: "second-age-of-retha",
+  world: "world/second-age-of-retha",
   externalIdentity: [
     {
       source: "kindle",
@@ -14,5 +14,5 @@ export const secondAgeOfRetha = {
     },
   ],
   following: true,
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

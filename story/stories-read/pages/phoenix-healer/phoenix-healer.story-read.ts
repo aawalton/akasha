@@ -5,7 +5,7 @@ export const phoenixHealer = {
   type: "story-read",
   slug: "phoenix-healer",
   title: "Phoenix Healer",
-  world: "phoenix-healer",
+  world: "world/phoenix-healer",
   externalIdentity: [
     {
       source: "royal-road",
@@ -17,6 +17,6 @@ export const phoenixHealer = {
   following: true,
   publicationStatus: "hiatus",
   externalTags: ["LitRPG", "Female Lead", "Action", "Adventure", "Fantasy", "Magic"],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

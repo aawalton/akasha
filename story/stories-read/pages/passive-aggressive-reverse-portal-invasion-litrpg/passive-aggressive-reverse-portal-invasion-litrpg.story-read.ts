@@ -5,7 +5,7 @@ export const passiveAggressiveReversePortalInvasionLitrpg = {
   type: "story-read",
   slug: "passive-aggressive-reverse-portal-invasion-litrpg",
   title: "Passive Aggressive [Reverse portal invasion LitRPG with a broken build]",
-  world: "passive-aggressive-reverse-portal-invasion-litrpg",
+  world: "world/passive-aggressive-reverse-portal-invasion-litrpg",
   externalIdentity: [
     {
       source: "royal-road",
@@ -30,6 +30,6 @@ export const passiveAggressiveReversePortalInvasionLitrpg = {
     "Magic",
     "Survival",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

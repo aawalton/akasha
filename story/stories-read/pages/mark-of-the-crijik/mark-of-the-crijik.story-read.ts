@@ -5,7 +5,7 @@ export const markOfTheCrijik = {
   type: "story-read",
   slug: "mark-of-the-crijik",
   title: "Mark of the Crijik",
-  world: "mark-of-the-crijik",
+  world: "world/mark-of-the-crijik",
   externalIdentity: [
     {
       source: "royal-road",
@@ -27,6 +27,6 @@ export const markOfTheCrijik = {
     "Reincarnation",
     "School Life",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

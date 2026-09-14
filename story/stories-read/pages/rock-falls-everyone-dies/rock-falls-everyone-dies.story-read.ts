@@ -5,7 +5,7 @@ export const rockFallsEveryoneDies = {
   type: "story-read",
   slug: "rock-falls-everyone-dies",
   title: "Rock falls, everyone dies",
-  world: "rock-falls-everyone-dies",
+  world: "world/rock-falls-everyone-dies",
   externalIdentity: [
     {
       source: "royal-road",
@@ -30,6 +30,6 @@ export const rockFallsEveryoneDies = {
     "Strong Lead",
     "Villainous Lead",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

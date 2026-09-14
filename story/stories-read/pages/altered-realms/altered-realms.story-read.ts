@@ -5,7 +5,7 @@ export const alteredRealms = {
   type: "story-read",
   slug: "altered-realms",
   title: "Altered Realms",
-  world: "altered-realms",
+  world: "world/altered-realms",
   externalIdentity: [
     {
       source: "kindle",
@@ -15,5 +15,5 @@ export const alteredRealms = {
   ],
   rank: "D",
   tags: ["VRMMO"],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

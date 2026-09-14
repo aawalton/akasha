@@ -5,8 +5,8 @@ export const vuldranni = {
   type: "story-read",
   slug: "vuldranni",
   title: "Vuldranni",
-  world: "vuldranni",
+  world: "world/vuldranni",
   rank: "B",
   tags: ["Comedy"],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

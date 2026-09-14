@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod = {
   type: "story-read",
   slug: "labyrinth-of-the-mad-god",
   title: "Labyrinth of the Mad God",
-  world: "labyrinth-of-the-mad-god",
+  world: "world/labyrinth-of-the-mad-god",
   externalIdentity: [
     {
       source: "royal-road",
@@ -32,5 +32,5 @@ export const labyrinthOfTheMadGod = {
     "Supernatural",
   ],
   ownProgress: 103604,
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

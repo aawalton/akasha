@@ -5,7 +5,7 @@ export const alexaThymeFormerlyAlexithymia = {
   type: "story-read",
   slug: "alexa-thyme-formerly-alexithymia",
   title: "Alexa Thyme (Formerly ALEXiThymiA)",
-  world: "alexa-thyme-formerly-alexithymia",
+  world: "world/alexa-thyme-formerly-alexithymia",
   externalIdentity: [
     {
       source: "royal-road",
@@ -25,6 +25,6 @@ export const alexaThymeFormerlyAlexithymia = {
     "Attractive Lead",
     "Dungeon Crawler",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

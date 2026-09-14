@@ -5,9 +5,9 @@ export const catGirlEvolution = {
   type: "story-read",
   slug: "cat-girl-evolution",
   rank: "C",
-  unit: "words",
+  unit: "unit/words",
   title: "Cat Girl Evolution",
-  world: "cat-girl-evolution",
+  world: "world/cat-girl-evolution",
   externalIdentity: [
     {
       source: "royal-road",

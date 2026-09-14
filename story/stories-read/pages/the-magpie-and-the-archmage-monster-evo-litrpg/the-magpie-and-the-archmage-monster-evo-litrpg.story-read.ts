@@ -5,9 +5,9 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg = {
   type: "story-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg",
   rank: "C",
-  unit: "words",
+  unit: "unit/words",
   title: "The Magpie and The Archmage",
-  world: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   externalIdentity: [
     {
       source: "royal-road",

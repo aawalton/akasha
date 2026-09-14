@@ -5,7 +5,7 @@ export const alexaThyme = {
   type: "story-read",
   slug: "alexa-thyme",
   title: "Alexa Thyme",
-  world: "alexa-thyme",
+  world: "world/alexa-thyme",
   externalIdentity: [
     {
       source: "kindle",
@@ -16,5 +16,5 @@ export const alexaThyme = {
   rank: "B",
   following: true,
   tags: ["System World"],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

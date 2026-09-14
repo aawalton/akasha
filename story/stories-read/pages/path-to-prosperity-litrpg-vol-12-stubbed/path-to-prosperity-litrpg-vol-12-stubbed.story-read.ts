@@ -5,7 +5,7 @@ export const pathToProsperityLitrpgVol12Stubbed = {
   type: "story-read",
   slug: "path-to-prosperity-litrpg-vol-12-stubbed",
   title: "Path to Prosperity [LitRPG] (Vol 1,2 stubbed)",
-  world: "path-to-prosperity-litrpg-vol-12-stubbed",
+  world: "world/path-to-prosperity-litrpg-vol-12-stubbed",
   externalIdentity: [
     {
       source: "royal-road",
@@ -17,6 +17,6 @@ export const pathToProsperityLitrpgVol12Stubbed = {
   author: "HideousGrain",
   rank: "C",
   externalTags: ["LitRPG", "Male Lead", "Action", "Adventure", "Fantasy"],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

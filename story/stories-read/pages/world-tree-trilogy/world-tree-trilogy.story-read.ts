@@ -5,7 +5,7 @@ export const worldTreeTrilogy = {
   type: "story-read",
   slug: "world-tree-trilogy",
   title: "World-Tree Trilogy",
-  world: "world-tree-trilogy",
+  world: "world/world-tree-trilogy",
   externalIdentity: [
     {
       source: "kindle",
@@ -15,5 +15,5 @@ export const worldTreeTrilogy = {
   ],
   rank: "C",
   tags: ["VRMMO"],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

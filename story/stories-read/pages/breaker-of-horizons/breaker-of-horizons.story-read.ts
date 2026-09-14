@@ -5,7 +5,7 @@ export const breakerOfHorizons = {
   type: "story-read",
   slug: "breaker-of-horizons",
   title: "Breaker of Horizons",
-  world: "breaker-of-horizons",
+  world: "world/breaker-of-horizons",
   externalIdentity: [
     {
       source: "royal-road",
@@ -26,5 +26,5 @@ export const breakerOfHorizons = {
     "Magic",
     "School Life",
   ],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

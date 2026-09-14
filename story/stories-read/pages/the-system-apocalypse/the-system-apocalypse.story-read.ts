@@ -5,7 +5,7 @@ export const theSystemApocalypse = {
   type: "story-read",
   slug: "the-system-apocalypse",
   title: "The System Apocalypse",
-  world: "the-system-apocalypse",
+  world: "world/the-system-apocalypse",
   externalIdentity: [
     {
       source: "kindle",
@@ -15,5 +15,5 @@ export const theSystemApocalypse = {
   ],
   rank: "B",
   tags: ["System Apocalypse"],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

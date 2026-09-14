@@ -5,7 +5,7 @@ export const defianceOfTheFall = {
   type: "story-read",
   slug: "defiance-of-the-fall",
   title: "Defiance of the Fall",
-  world: "defiance-of-the-fall",
+  world: "world/defiance-of-the-fall",
   externalIdentity: [
     {
       source: "royal-road",
@@ -27,5 +27,5 @@ export const defianceOfTheFall = {
     "Strong Lead",
     "Supernatural",
   ],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

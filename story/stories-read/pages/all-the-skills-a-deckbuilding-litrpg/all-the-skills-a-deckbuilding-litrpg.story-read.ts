@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg = {
   type: "story-read",
   slug: "all-the-skills-a-deckbuilding-litrpg",
   title: "All The Skills - A Deckbuilding LitRPG",
-  world: "all-the-skills-a-deckbuilding-litrpg",
+  world: "world/all-the-skills-a-deckbuilding-litrpg",
   externalIdentity: [
     {
       source: "royal-road",
@@ -29,6 +29,6 @@ export const allTheSkillsADeckbuildingLitrpg = {
     "GameLit",
     "Magic",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

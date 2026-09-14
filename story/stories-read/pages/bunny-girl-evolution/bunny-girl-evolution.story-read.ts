@@ -5,7 +5,7 @@ export const bunnyGirlEvolution = {
   type: "story-read",
   slug: "bunny-girl-evolution",
   title: "Bunny Girl Evolution",
-  world: "bunny-girl-evolution",
+  world: "world/bunny-girl-evolution",
   externalIdentity: [
     {
       source: "royal-road",
@@ -40,6 +40,6 @@ export const bunnyGirlEvolution = {
     "Strong Lead",
     "Supernatural",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

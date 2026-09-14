@@ -5,7 +5,7 @@ export const disgardium = {
   type: "story-read",
   slug: "disgardium",
   title: "Disgardium",
-  world: "disgardium",
+  world: "world/disgardium",
   externalIdentity: [
     {
       source: "kindle",
@@ -15,5 +15,5 @@ export const disgardium = {
   ],
   rank: "B",
   tags: ["VRMMO"],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

@@ -5,9 +5,9 @@ export const systemGirlSystemMcWorldHoppingComedy = {
   type: "story-read",
   slug: "system-girl-system-mc-world-hopping-comedy",
   rank: "C",
-  unit: "words",
+  unit: "unit/words",
   title: "System Girl",
-  world: "system-girl-system-mc-world-hopping-comedy",
+  world: "world/system-girl-system-mc-world-hopping-comedy",
   externalIdentity: [
     {
       source: "royal-road",

@@ -5,7 +5,7 @@ export const endsOfMagic = {
   type: "story-read",
   slug: "ends-of-magic",
   title: "Ends of Magic",
-  world: "ends-of-magic",
+  world: "world/ends-of-magic",
   externalIdentity: [
     {
       source: "royal-road",
@@ -29,6 +29,6 @@ export const endsOfMagic = {
     "Magic",
     "Technologically Engineered",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

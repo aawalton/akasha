@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg = {
   type: "story-read",
   slug: "delver-dungeon-diving-and-magic-litrpg",
   title: "Delver [Dungeon Diving and Magic LitRPG]",
-  world: "delver-dungeon-diving-and-magic-litrpg",
+  world: "world/delver-dungeon-diving-and-magic-litrpg",
   externalIdentity: [
     {
       source: "royal-road",
@@ -29,6 +29,6 @@ export const delverDungeonDivingAndMagicLitrpg = {
     "Local Protagonist",
     "Mythos",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

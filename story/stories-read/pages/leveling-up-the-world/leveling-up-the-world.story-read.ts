@@ -5,7 +5,7 @@ export const levelingUpTheWorld = {
   type: "story-read",
   slug: "leveling-up-the-world",
   title: "Leveling up the World",
-  world: "leveling-up-the-world",
+  world: "world/leveling-up-the-world",
   externalIdentity: [
     {
       source: "royal-road",
@@ -16,6 +16,6 @@ export const levelingUpTheWorld = {
   author: "Lise Eclaire",
   rank: "C",
   externalTags: ["GameLit", "Portal Fantasy / Isekai", "Male Lead", "Action", "Adventure"],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

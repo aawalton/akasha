@@ -5,7 +5,7 @@ export const dungeonCrawlerCarl = {
   type: "story-read",
   slug: "dungeon-crawler-carl",
   title: "Dungeon Crawler Carl",
-  world: "dungeon-crawler-carl",
+  world: "world/dungeon-crawler-carl",
   externalIdentity: [
     {
       source: "kindle",
@@ -15,5 +15,5 @@ export const dungeonCrawlerCarl = {
   ],
   rank: "C",
   tags: ["System Apocalypse"],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

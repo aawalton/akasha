@@ -5,7 +5,7 @@ export const apocalypseHealerPathOfDeathProgressionLitrpgvolume = {
   type: "story-read",
   slug: "apocalypse-healer-path-of-death-progression-litrpgvolume",
   title: "Apocalypse Healer",
-  world: "apocalypse-healer-path-of-death-progression-litrpgvolume",
+  world: "world/apocalypse-healer-path-of-death-progression-litrpgvolume",
   externalIdentity: [
     {
       source: "royal-road",
@@ -17,5 +17,5 @@ export const apocalypseHealerPathOfDeathProgressionLitrpgvolume = {
   rank: "C",
   externalTags: ["LitRPG", "Action", "Adventure", "Fantasy", "Magic"],
   ownProgress: 32355,
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

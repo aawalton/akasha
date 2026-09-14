@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding = {
   type: "story-read",
   slug: "my-lord-please-a-character-driven-kingdom-building",
   title: "My Lord! Please! (A Character Driven Kingdom Building Novel)",
-  world: "my-lord-please-a-character-driven-kingdom-building",
+  world: "world/my-lord-please-a-character-driven-kingdom-building",
   externalIdentity: [
     {
       source: "royal-road",
@@ -29,6 +29,6 @@ export const myLordPleaseACharacterDrivenKingdomBuilding = {
     "Ruling Class",
     "Strategy",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

@@ -5,7 +5,7 @@ export const deathHealer = {
   type: "story-read",
   slug: "death-healer",
   title: "Death Healer",
-  world: "death-healer",
+  world: "world/death-healer",
   externalIdentity: [
     {
       source: "royal-road",
@@ -28,5 +28,5 @@ export const deathHealer = {
     "Magic",
   ],
   ownProgress: 151064,
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

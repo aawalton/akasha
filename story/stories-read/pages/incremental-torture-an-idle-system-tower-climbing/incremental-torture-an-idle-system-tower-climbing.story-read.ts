@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing = {
   type: "story-read",
   slug: "incremental-torture-an-idle-system-tower-climbing",
   title: "Incremental Torture",
-  world: "incremental-torture-an-idle-system-tower-climbing",
+  world: "world/incremental-torture-an-idle-system-tower-climbing",
   externalIdentity: [
     {
       source: "royal-road",
@@ -26,5 +26,5 @@ export const incrementalTortureAnIdleSystemTowerClimbing = {
     "High Fantasy",
   ],
   ownProgress: 136760,
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

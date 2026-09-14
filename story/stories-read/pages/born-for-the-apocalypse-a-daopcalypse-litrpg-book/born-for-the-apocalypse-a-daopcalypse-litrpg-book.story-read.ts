@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook = {
   type: "story-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   title: "Born for the Apocalypse",
-  world: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  world: "world/born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   externalIdentity: [
     {
       source: "royal-road",
@@ -29,5 +29,5 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook = {
     "Male Lead",
   ],
   ownProgress: 124025,
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

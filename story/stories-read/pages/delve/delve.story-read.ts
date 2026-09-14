@@ -5,9 +5,9 @@ export const delve = {
   type: "story-read",
   slug: "delve",
   rank: "C",
-  unit: "words",
+  unit: "unit/words",
   title: "Delve",
-  world: "delve",
+  world: "world/delve",
   externalIdentity: [
     {
       source: "royal-road",

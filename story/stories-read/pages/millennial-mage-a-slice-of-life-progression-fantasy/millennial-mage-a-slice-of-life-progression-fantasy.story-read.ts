@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy = {
   type: "story-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy",
   title: "Millennial Mage (A Slice of Life, Progression Fantasy)",
-  world: "millennial-mage-a-slice-of-life-progression-fantasy",
+  world: "world/millennial-mage-a-slice-of-life-progression-fantasy",
   externalIdentity: [
     {
       source: "royal-road",
@@ -29,6 +29,6 @@ export const millennialMageASliceOfLifeProgressionFantasy = {
     "Magic",
     "Supernatural",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

@@ -5,7 +5,7 @@ export const bewareOfChicken = {
   type: "story-read",
   slug: "beware-of-chicken",
   title: "Beware Of Chicken",
-  world: "beware-of-chicken",
+  world: "world/beware-of-chicken",
   externalIdentity: [
     {
       source: "royal-road",
@@ -27,6 +27,6 @@ export const bewareOfChicken = {
     "Reincarnation",
     "Romance Subplot",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

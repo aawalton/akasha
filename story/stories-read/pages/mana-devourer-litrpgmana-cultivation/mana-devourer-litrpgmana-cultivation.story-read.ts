@@ -5,7 +5,7 @@ export const manaDevourerLitrpgmanaCultivation = {
   type: "story-read",
   slug: "mana-devourer-litrpgmana-cultivation",
   title: "Mana Devourer",
-  world: "mana-devourer-litrpgmana-cultivation",
+  world: "world/mana-devourer-litrpgmana-cultivation",
   externalIdentity: [
     {
       source: "royal-road",
@@ -27,5 +27,5 @@ export const manaDevourerLitrpgmanaCultivation = {
     "Mythos",
   ],
   ownProgress: 180090,
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

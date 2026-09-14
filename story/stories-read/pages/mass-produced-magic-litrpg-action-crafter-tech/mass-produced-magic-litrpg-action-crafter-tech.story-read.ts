@@ -6,9 +6,9 @@ export const massProducedMagicLitrpgActionCrafterTech = {
   slug: "mass-produced-magic-litrpg-action-crafter-tech",
   ownProgress: 141498,
   rank: "C",
-  unit: "words",
+  unit: "unit/words",
   title: "Mass Produced Magic",
-  world: "mass-produced-magic-litrpg-action-crafter-tech",
+  world: "world/mass-produced-magic-litrpg-action-crafter-tech",
   externalIdentity: [
     {
       source: "royal-road",

@@ -5,7 +5,7 @@ export const theWhisperingCrystals = {
   type: "story-read",
   slug: "the-whispering-crystals",
   title: "The Whispering Crystals",
-  world: "the-whispering-crystals",
+  world: "world/the-whispering-crystals",
   externalIdentity: [
     {
       source: "kindle",
@@ -15,5 +15,5 @@ export const theWhisperingCrystals = {
   ],
   rank: "C",
   tags: ["System Apocalypse"],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

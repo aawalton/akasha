@@ -5,6 +5,6 @@ export const divineDungeonUniverse = {
   type: "story-read",
   slug: "divine-dungeon-universe",
   title: "Divine Dungeon Universe",
-  world: "divine-dungeon-universe",
-  unit: "words",
+  world: "world/divine-dungeon-universe",
+  unit: "unit/words",
 } as const satisfies StoryRead

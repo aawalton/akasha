@@ -5,7 +5,7 @@ export const ultimateLevel1LitrpgBook11Stubs310 = {
   type: "story-read",
   slug: "ultimate-level-1-litrpg-book-11-stubs-310",
   title: "Ultimate Level 1 LitRPG - Book 11 Stubs 3/10",
-  world: "ultimate-level-1-litrpg-book-11-stubs-310",
+  world: "world/ultimate-level-1-litrpg-book-11-stubs-310",
   externalIdentity: [
     {
       source: "royal-road",
@@ -29,6 +29,6 @@ export const ultimateLevel1LitrpgBook11Stubs310 = {
     "Fantasy",
     "Dungeon Crawler",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

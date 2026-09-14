@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow = {
   type: "story-read",
   slug: "sherly-the-most-virtuous-holy-cow",
   title: "Sherly",
-  world: "sherly-the-most-virtuous-holy-cow",
+  world: "world/sherly-the-most-virtuous-holy-cow",
   externalIdentity: [
     {
       source: "royal-road",
@@ -30,5 +30,5 @@ export const sherlyTheMostVirtuousHolyCow = {
     "Monster Evolution",
     "Mythos",
   ],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

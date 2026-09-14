@@ -5,7 +5,7 @@ export const viridianGateOnline = {
   type: "story-read",
   slug: "viridian-gate-online",
   title: "Viridian Gate Online",
-  world: "viridian-gate-online",
+  world: "world/viridian-gate-online",
   externalIdentity: [
     {
       source: "kindle",
@@ -15,5 +15,5 @@ export const viridianGateOnline = {
   ],
   rank: "B",
   tags: ["VRMMO"],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

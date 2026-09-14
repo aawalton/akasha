@@ -6,9 +6,9 @@ export const mythransMasterOfAllContinuedCompleted = {
   slug: "mythrans-master-of-all-continued-completed",
   ownProgress: 481048,
   rank: "D",
-  unit: "words",
+  unit: "unit/words",
   title: "Mythran's Master Of All",
-  world: "mythrans-master-of-all-continued-completed",
+  world: "world/mythrans-master-of-all-continued-completed",
   externalIdentity: [
     {
       source: "royal-road",

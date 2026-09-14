@@ -5,7 +5,7 @@ export const newGam3Plus = {
   type: "story-read",
   slug: "new-gam3-plus",
   title: "New Gam3 Plus",
-  world: "new-gam3-plus",
+  world: "world/new-gam3-plus",
   externalIdentity: [
     {
       source: "royal-road",
@@ -28,6 +28,6 @@ export const newGam3Plus = {
     "LitRPG",
     "Technologically Engineered",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

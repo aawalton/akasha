@@ -5,9 +5,9 @@ export const theRunesmith = {
   type: "story-read",
   slug: "the-runesmith",
   rank: "C",
-  unit: "words",
+  unit: "unit/words",
   title: "The Runesmith",
-  world: "the-runesmith",
+  world: "world/the-runesmith",
   externalIdentity: [
     {
       source: "royal-road",

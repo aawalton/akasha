@@ -5,7 +5,7 @@ export const dungeonDevotee = {
   type: "story-read",
   slug: "dungeon-devotee",
   title: "Dungeon Devotee",
-  world: "dungeon-devotee",
+  world: "world/dungeon-devotee",
   externalIdentity: [
     {
       source: "royal-road",
@@ -30,6 +30,6 @@ export const dungeonDevotee = {
     "High Fantasy",
     "Magic",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

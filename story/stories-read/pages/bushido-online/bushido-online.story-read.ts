@@ -5,7 +5,7 @@ export const bushidoOnline = {
   type: "story-read",
   slug: "bushido-online",
   title: "Bushido Online",
-  world: "bushido-online",
+  world: "world/bushido-online",
   externalIdentity: [
     {
       source: "kindle",
@@ -15,5 +15,5 @@ export const bushidoOnline = {
   ],
   rank: "C",
   tags: ["VRMMO"],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

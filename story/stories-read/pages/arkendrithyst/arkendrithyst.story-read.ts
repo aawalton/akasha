@@ -5,7 +5,7 @@ export const arkendrithyst = {
   type: "story-read",
   slug: "arkendrithyst",
   title: "Ar'Kendrithyst",
-  world: "arkendrithyst",
+  world: "world/arkendrithyst",
   externalIdentity: [
     {
       source: "royal-road",
@@ -25,6 +25,6 @@ export const arkendrithyst = {
     "High Fantasy",
     "Magic",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

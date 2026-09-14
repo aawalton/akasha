@@ -5,7 +5,7 @@ export const chaosSeeds = {
   type: "story-read",
   slug: "chaos-seeds",
   title: "Chaos Seeds",
-  world: "chaos-seeds",
+  world: "world/chaos-seeds",
   externalIdentity: [
     {
       source: "kindle",
@@ -15,5 +15,5 @@ export const chaosSeeds = {
   ],
   rank: "C",
   tags: ["Civilization Building", "Isekai"],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

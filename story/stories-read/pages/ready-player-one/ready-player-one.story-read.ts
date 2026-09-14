@@ -5,7 +5,7 @@ export const readyPlayerOne = {
   type: "story-read",
   slug: "ready-player-one",
   title: "Ready Player One",
-  world: "ready-player-one",
+  world: "world/ready-player-one",
   externalIdentity: [
     {
       source: "kindle",
@@ -15,5 +15,5 @@ export const readyPlayerOne = {
   ],
   rank: "C",
   tags: ["VRMMO"],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

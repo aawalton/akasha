@@ -5,7 +5,7 @@ export const salvos = {
   type: "story-read",
   slug: "salvos",
   title: "Salvos",
-  world: "salvos",
+  world: "world/salvos",
   externalIdentity: [
     {
       source: "royal-road",
@@ -28,5 +28,5 @@ export const salvos = {
     "High Fantasy",
     "Magic",
   ],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

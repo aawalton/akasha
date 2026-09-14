@@ -5,7 +5,7 @@ export const theNewWorld = {
   type: "story-read",
   slug: "the-new-world",
   title: "The New World",
-  world: "the-new-world",
+  world: "world/the-new-world",
   externalIdentity: [
     {
       source: "royal-road",
@@ -26,6 +26,6 @@ export const theNewWorld = {
     "Mystery",
     "Magic",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

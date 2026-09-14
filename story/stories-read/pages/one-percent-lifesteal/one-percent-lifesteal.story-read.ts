@@ -5,7 +5,7 @@ export const onePercentLifesteal = {
   type: "story-read",
   slug: "one-percent-lifesteal",
   title: "1% Lifesteal",
-  world: "one-percent-lifesteal",
+  world: "world/one-percent-lifesteal",
   externalIdentity: [
     {
       source: "kindle",
@@ -15,5 +15,5 @@ export const onePercentLifesteal = {
   ],
   rank: "C",
   tags: ["Dark"],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

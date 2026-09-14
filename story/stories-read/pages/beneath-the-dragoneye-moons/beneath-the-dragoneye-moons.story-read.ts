@@ -5,7 +5,7 @@ export const beneathTheDragoneyeMoons = {
   type: "story-read",
   slug: "beneath-the-dragoneye-moons",
   title: "Beneath the Dragoneye Moons",
-  world: "beneath-the-dragoneye-moons",
+  world: "world/beneath-the-dragoneye-moons",
   externalIdentity: [
     {
       source: "royal-road",
@@ -31,6 +31,6 @@ export const beneathTheDragoneyeMoons = {
     "Reincarnation",
     "Supernatural",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

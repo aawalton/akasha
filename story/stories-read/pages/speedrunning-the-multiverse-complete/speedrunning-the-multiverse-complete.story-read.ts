@@ -5,7 +5,7 @@ export const speedrunningTheMultiverseComplete = {
   type: "story-read",
   slug: "speedrunning-the-multiverse-complete",
   title: "Speedrunning the Multiverse [COMPLETE]",
-  world: "speedrunning-the-multiverse-complete",
+  world: "world/speedrunning-the-multiverse-complete",
   externalIdentity: [
     {
       source: "royal-road",
@@ -25,6 +25,6 @@ export const speedrunningTheMultiverseComplete = {
     "Fantasy",
     "Martial Arts",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

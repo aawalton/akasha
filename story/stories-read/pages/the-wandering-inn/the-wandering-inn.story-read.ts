@@ -5,7 +5,7 @@ export const theWanderingInn = {
   type: "story-read",
   slug: "the-wandering-inn",
   title: "The Wandering Inn",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   externalIdentity: [
     {
       source: "the-wandering-inn",
@@ -14,6 +14,6 @@ export const theWanderingInn = {
   ],
   rank: "S",
   tags: ["litrpg", "fantasy", "slice-of-life"],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

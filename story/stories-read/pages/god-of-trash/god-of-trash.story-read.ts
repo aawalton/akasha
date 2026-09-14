@@ -6,9 +6,9 @@ export const godOfTrash = {
   slug: "god-of-trash",
   ownProgress: 23215,
   rank: "C",
-  unit: "words",
+  unit: "unit/words",
   title: "God of Trash",
-  world: "god-of-trash",
+  world: "world/god-of-trash",
   externalIdentity: [
     {
       source: "royal-road",

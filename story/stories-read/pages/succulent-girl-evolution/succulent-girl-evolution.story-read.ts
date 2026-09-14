@@ -5,7 +5,7 @@ export const succulentGirlEvolution = {
   type: "story-read",
   slug: "succulent-girl-evolution",
   title: "Succulent Girl Evolution",
-  world: "succulent-girl-evolution",
+  world: "world/succulent-girl-evolution",
   externalIdentity: [
     {
       source: "royal-road",
@@ -24,5 +24,5 @@ export const succulentGirlEvolution = {
     "High Fantasy",
     "Magic",
   ],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead

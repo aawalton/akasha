@@ -5,7 +5,7 @@ export const metaworldHopecore = {
   type: "story-read",
   slug: "metaworld-hopecore",
   title: "Metaworld HopeCore",
-  world: "metaworld-hopecore",
+  world: "world/metaworld-hopecore",
   externalIdentity: [
     {
       source: "royal-road",
@@ -29,6 +29,6 @@ export const metaworldHopecore = {
     "Modern Knowledge",
     "Slice of Life",
   ],
-  unit: "words",
+  unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryRead

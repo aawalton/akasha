@@ -5,7 +5,7 @@ export const theGoodGuys = {
   type: "story-read",
   slug: "the-good-guys",
   title: "The Good Guys",
-  world: "the-good-guys",
+  world: "world/the-good-guys",
   externalIdentity: [
     {
       source: "kindle",
@@ -15,5 +15,5 @@ export const theGoodGuys = {
   ],
   rank: "B",
   tags: ["Comedy"],
-  unit: "words",
+  unit: "unit/words",
 } as const satisfies StoryRead
