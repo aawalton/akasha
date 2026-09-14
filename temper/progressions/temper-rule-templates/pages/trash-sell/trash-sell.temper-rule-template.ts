@@ -11,5 +11,5 @@ export const trashSell = {
   displayOrder: 36,
   action: "temper-item-action/sell",
   active: false,
-  goal: "sell",
+  goal: "temper-rule-goal/sell",
 } as const satisfies TemperRuleTemplate

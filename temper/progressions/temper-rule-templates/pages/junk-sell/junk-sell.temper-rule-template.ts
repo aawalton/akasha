@@ -11,5 +11,5 @@ export const junkSell = {
   displayOrder: 37,
   action: "temper-item-action/sell",
   active: false,
-  goal: "sell",
+  goal: "temper-rule-goal/sell",
 } as const satisfies TemperRuleTemplate

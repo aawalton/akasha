@@ -12,5 +12,5 @@ export const museumPiecesNothing = {
   displayOrder: 24,
   action: "temper-item-action/nothing",
   active: false,
-  goal: "task",
+  goal: "temper-rule-goal/task",
 } as const satisfies TemperRuleTemplate

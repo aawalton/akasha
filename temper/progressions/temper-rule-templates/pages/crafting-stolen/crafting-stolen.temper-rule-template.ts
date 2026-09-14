@@ -11,6 +11,6 @@ export const craftingStolen = {
   displayOrder: 28,
   action: "temper-item-action/fence-launder",
   active: false,
-  goal: "hoard",
+  goal: "temper-rule-goal/hoard",
   conditions: "jsonl",
 } as const satisfies TemperRuleTemplate

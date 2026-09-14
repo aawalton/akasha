@@ -12,6 +12,6 @@ export const equipmentDeconstruct = {
   displayOrder: 26,
   action: "temper-item-action/deconstruct",
   active: false,
-  goal: "hoard",
+  goal: "temper-rule-goal/hoard",
   conditions: "jsonl",
 } as const satisfies TemperRuleTemplate

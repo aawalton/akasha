@@ -12,6 +12,6 @@ export const treasuresEpicStolen = {
   displayOrder: 30,
   action: "temper-item-action/fence-launder",
   active: false,
-  goal: "hoard",
+  goal: "temper-rule-goal/hoard",
   conditions: "jsonl",
 } as const satisfies TemperRuleTemplate

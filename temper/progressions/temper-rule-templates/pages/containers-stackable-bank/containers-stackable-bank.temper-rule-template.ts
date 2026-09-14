@@ -12,6 +12,6 @@ export const containersStackableBank = {
   displayOrder: 2,
   action: "temper-item-action/move-to",
   active: false,
-  goal: "hoard",
+  goal: "temper-rule-goal/hoard",
   destination: "bank",
 } as const satisfies TemperRuleTemplate

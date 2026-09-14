@@ -12,7 +12,7 @@ export const goldStock = {
   displayOrder: 0,
   action: "temper-item-action/stock",
   active: false,
-  goal: "use",
+  goal: "temper-rule-goal/use",
   stockScope: "any-character",
   conditions: "jsonl",
 } as const satisfies TemperRuleTemplate

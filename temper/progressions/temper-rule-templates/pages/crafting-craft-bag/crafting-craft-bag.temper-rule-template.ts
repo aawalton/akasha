@@ -12,6 +12,6 @@ export const craftingCraftBag = {
   displayOrder: 29,
   action: "temper-item-action/move-to",
   active: false,
-  goal: "hoard",
+  goal: "temper-rule-goal/hoard",
   destination: "craft-bag",
 } as const satisfies TemperRuleTemplate

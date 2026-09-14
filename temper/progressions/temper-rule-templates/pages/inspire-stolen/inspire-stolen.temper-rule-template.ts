@@ -12,6 +12,6 @@ export const inspireStolen = {
   displayOrder: 16,
   action: "temper-item-action/fence-launder",
   active: false,
-  goal: "progress",
+  goal: "temper-rule-goal/progress",
   conditions: "jsonl",
 } as const satisfies TemperRuleTemplate

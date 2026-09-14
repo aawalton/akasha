@@ -12,7 +12,7 @@ export const soulGemsEmptyBank = {
   displayOrder: 23,
   action: "temper-item-action/move-to",
   active: false,
-  goal: "task",
+  goal: "temper-rule-goal/task",
   destination: "bank",
   conditions: "jsonl",
 } as const satisfies TemperRuleTemplate

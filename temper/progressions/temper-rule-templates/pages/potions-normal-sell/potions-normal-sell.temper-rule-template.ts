@@ -12,6 +12,6 @@ export const potionsNormalSell = {
   displayOrder: 42,
   action: "temper-item-action/sell",
   active: false,
-  goal: "sell",
+  goal: "temper-rule-goal/sell",
   conditions: "jsonl",
 } as const satisfies TemperRuleTemplate

@@ -12,6 +12,6 @@ export const masterWritsBank = {
   displayOrder: 20,
   action: "temper-item-action/move-to",
   active: false,
-  goal: "task",
+  goal: "temper-rule-goal/task",
   destination: "bank",
 } as const satisfies TemperRuleTemplate

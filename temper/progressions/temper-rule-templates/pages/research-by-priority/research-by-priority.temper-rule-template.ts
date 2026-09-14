@@ -12,7 +12,7 @@ export const researchByPriority = {
   displayOrder: 14,
   action: "temper-item-action/research",
   active: false,
-  goal: "unlock",
+  goal: "temper-rule-goal/unlock",
   destination: "character:by-priority",
   conditions: "jsonl",
 } as const satisfies TemperRuleTemplate

@@ -12,6 +12,6 @@ export const treasuresStolenFence = {
   displayOrder: 39,
   action: "temper-item-action/fence-sell",
   active: false,
-  goal: "sell",
+  goal: "temper-rule-goal/sell",
   conditions: "jsonl",
 } as const satisfies TemperRuleTemplate

@@ -12,6 +12,6 @@ export const unlockStolen = {
   displayOrder: 10,
   action: "temper-item-action/fence-launder",
   active: false,
-  goal: "unlock",
+  goal: "temper-rule-goal/unlock",
   conditions: "jsonl",
 } as const satisfies TemperRuleTemplate

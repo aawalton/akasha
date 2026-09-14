@@ -12,6 +12,6 @@ export const worthlessDestroy = {
   displayOrder: 47,
   action: "temper-item-action/destroy",
   active: false,
-  goal: "destroy",
+  goal: "temper-rule-goal/destroy",
   conditions: "jsonl",
 } as const satisfies TemperRuleTemplate

@@ -12,6 +12,6 @@ export const craftedNothing = {
   displayOrder: 6,
   action: "temper-item-action/nothing",
   active: false,
-  goal: "equip",
+  goal: "temper-rule-goal/equip",
   conditions: "jsonl",
 } as const satisfies TemperRuleTemplate

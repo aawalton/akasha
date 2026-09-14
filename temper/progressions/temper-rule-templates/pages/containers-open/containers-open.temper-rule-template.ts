@@ -12,6 +12,6 @@ export const containersOpen = {
   displayOrder: 3,
   action: "temper-item-action/open",
   active: false,
-  goal: "use",
+  goal: "temper-rule-goal/use",
   conditions: "jsonl",
 } as const satisfies TemperRuleTemplate

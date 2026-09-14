@@ -12,6 +12,6 @@ export const furnishingsHouseStorage = {
   displayOrder: 35,
   action: "temper-item-action/move-to",
   active: false,
-  goal: "hoard",
+  goal: "temper-rule-goal/hoard",
   destination: "furniture-vault",
 } as const satisfies TemperRuleTemplate

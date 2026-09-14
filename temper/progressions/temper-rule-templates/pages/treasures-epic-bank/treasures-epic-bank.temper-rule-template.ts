@@ -11,7 +11,7 @@ export const treasuresEpicBank = {
   displayOrder: 32,
   action: "temper-item-action/move-to",
   active: false,
-  goal: "hoard",
+  goal: "temper-rule-goal/hoard",
   destination: "bank",
   conditions: "jsonl",
 } as const satisfies TemperRuleTemplate

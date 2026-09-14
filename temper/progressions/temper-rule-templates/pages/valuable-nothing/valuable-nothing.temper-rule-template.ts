@@ -12,6 +12,6 @@ export const valuableNothing = {
   displayOrder: 12,
   action: "temper-item-action/nothing",
   active: false,
-  goal: "hoard",
+  goal: "temper-rule-goal/hoard",
   conditions: "jsonl",
 } as const satisfies TemperRuleTemplate

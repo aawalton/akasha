@@ -12,7 +12,7 @@ export const inspireCurrent = {
   displayOrder: 17,
   action: "temper-item-action/deconstruct",
   active: false,
-  goal: "progress",
+  goal: "temper-rule-goal/progress",
   destination: "character:by-priority",
   conditions: "jsonl",
 } as const satisfies TemperRuleTemplate
