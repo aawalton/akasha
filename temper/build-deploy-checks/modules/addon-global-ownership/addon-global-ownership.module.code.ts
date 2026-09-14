@@ -9,30 +9,6 @@ function parseAddonSource(path: string, source: string): ParsedAddonSource {
   return { path, sf: ts.createSourceFile(path, source, ts.ScriptTarget.Latest, true) }
 }
 
-export interface AddonOwnershipInput {
-  readonly addonName: string
-  readonly writtenGlobals: readonly string[]
-  readonly savedVariables: readonly string[]
-}
-
-export interface OwnershipViolation {
-  readonly message: string
-  readonly globalName: string
-  readonly addons: readonly string[]
-  readonly remedy: string
-}
-
-const OWNED_GLOBAL_REMEDY = [
-  "one port owns each global, so delete the write from every port but the owner.",
-  "A port that needs the owner's table READS it — `globalThis.<name>.member(…)` is fine and always was;",
-  "it is the re-assignment that hands the outcome to ESO's AddOns/ load order.",
-  "A port that needs a table of its own publishes it under a name of its own rather than the contended one.",
-  "Where the claim comes from `addon.json#savedVariables`, the non-owner renames its saved-variables table —",
-  "deleting the entry drops the player's stored data instead of moving it.",
-  "Before renaming anything, ask what already depends on the name:",
-  "akasha temper addon global-name-dependent --global <name>",
-].join(" ")
-
 const GLOBAL_TABLE_IDENTIFIERS: ReadonlySet<string> = new Set(["globalThis", "_G"])
 
 function unwrap(node: ts.Expression): ts.Expression {
@@ -116,35 +92,4 @@ function collectGlobalWritesFromSourceFile(sf: ts.SourceFile): readonly string[]
 
 export function collectGlobalWritesFromSource(source: string, filePath: string): readonly string[] {
   return collectGlobalWritesFromSourceFile(parseAddonSource(filePath, source).sf)
-}
-
-export function findOwnershipViolations(
-  inputs: readonly AddonOwnershipInput[]
-): readonly OwnershipViolation[] {
-  const claimants = new Map<string, Set<string>>()
-  const claim = (globalName: string, addon: string): undefined => {
-    const set = claimants.get(globalName) ?? new Set<string>()
-    set.add(addon)
-    claimants.set(globalName, set)
-  }
-
-  for (const input of inputs) {
-    for (const g of input.writtenGlobals) claim(g, input.addonName)
-    for (const g of input.savedVariables) claim(g, input.addonName)
-  }
-
-  const violations: OwnershipViolation[] = []
-  for (const [globalName, addonSet] of claimants) {
-    if (addonSet.size < 2) continue
-    const addons = [...addonSet].sort()
-    violations.push({
-      globalName,
-      addons,
-      message: `global \`${globalName}\` is claimed by ${addons.length} addons (${addons.join(", ")}) — exactly one port may own a global; load order decides which write wins at runtime`,
-      remedy: OWNED_GLOBAL_REMEDY,
-    })
-  }
-
-  violations.sort((a, b) => a.globalName.localeCompare(b.globalName))
-  return violations
 }

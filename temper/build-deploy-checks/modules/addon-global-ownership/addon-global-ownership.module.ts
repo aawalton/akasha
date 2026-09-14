@@ -4,24 +4,16 @@ export const addonGlobalOwnership = {
   id: "01a06351-9b09-79b9-9375-0365c78e88d8",
   type: "module",
   slug: "addon-global-ownership",
-  definition: "which port writes which Lua global, and where two ports claim one",
+  definition: "which Lua globals a port's source writes",
   code: "ts",
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "Exactly one port owns a global.",
+      statement: "Assigning to a global table is a write of that name.",
     },
     {
       invariantKind: "constraint",
-      statement: "Assigning to a global table claims the name.",
-    },
-    {
-      invariantKind: "constraint",
-      statement: "Reading a global table claims nothing.",
-    },
-    {
-      invariantKind: "constraint",
-      statement: "A saved-variables entry claims its name as a write does.",
+      statement: "Reading a global table is no write.",
     },
     {
       invariantKind: "constraint",
@@ -29,7 +21,7 @@ export const addonGlobalOwnership = {
     },
     {
       invariantKind: "departure",
-      statement: "A claim is read off the syntax rather than off a run.",
+      statement: "A write is read off the syntax rather than off a run.",
     },
   ],
 } as const satisfies Module
