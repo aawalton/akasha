@@ -59,8 +59,13 @@ export const subagent = {
       statement: "A subagent's page is there while the subagent runs.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "gap",
       statement: "A subagent's page goes when the subagent returns.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "A page waits on what its subagent left running rather than on that subagent returning.",
     },
     {
       invariantKind: "departure",
