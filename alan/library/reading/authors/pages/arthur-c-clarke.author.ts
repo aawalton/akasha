@@ -5,7 +5,7 @@ export const arthurCClarke = {
   type: "author",
   slug: "arthur-c-clarke",
   title: "Arthur C. Clarke",
-  partOfCollections: ["science-fiction-authors"],
+  partOfCollections: ["author-collection/science-fiction-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

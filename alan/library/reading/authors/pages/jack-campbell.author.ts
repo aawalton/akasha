@@ -5,7 +5,7 @@ export const jackCampbell = {
   type: "author",
   slug: "jack-campbell",
   title: "Jack Campbell",
-  partOfCollections: ["science-fiction-authors"],
+  partOfCollections: ["author-collection/science-fiction-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

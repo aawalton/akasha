@@ -5,7 +5,7 @@ export const arthurConanDoyle = {
   type: "author",
   slug: "arthur-conan-doyle",
   title: "Arthur Conan Doyle",
-  partOfCollections: ["mystery-and-detective"],
+  partOfCollections: ["author-collection/mystery-and-detective"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const georgeAlbertSmith = {
   type: "author",
   slug: "george-albert-smith",
   title: "George Albert Smith",
-  partOfCollections: ["prophets"],
+  partOfCollections: ["author-collection/prophets"],
   position: 8,
   ownLength: 0,
   ownProgress: 0,

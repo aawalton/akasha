@@ -5,7 +5,7 @@ export const lorenzoSnow = {
   type: "author",
   slug: "lorenzo-snow",
   title: "Lorenzo Snow",
-  partOfCollections: ["prophets"],
+  partOfCollections: ["author-collection/prophets"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

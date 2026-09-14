@@ -5,7 +5,7 @@ export const elizabethMoon = {
   type: "author",
   slug: "elizabeth-moon",
   title: "Elizabeth Moon",
-  partOfCollections: ["science-fiction-authors"],
+  partOfCollections: ["author-collection/science-fiction-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

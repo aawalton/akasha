@@ -5,7 +5,7 @@ export const josephSmith = {
   type: "author",
   slug: "joseph-smith",
   title: "Joseph Smith",
-  partOfCollections: ["prophets"],
+  partOfCollections: ["author-collection/prophets"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const heberJGrant = {
   type: "author",
   slug: "heber-j-grant",
   title: "Heber J. Grant",
-  partOfCollections: ["prophets"],
+  partOfCollections: ["author-collection/prophets"],
   position: 7,
   ownLength: 0,
   ownProgress: 0,

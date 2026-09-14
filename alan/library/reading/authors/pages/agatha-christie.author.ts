@@ -5,7 +5,7 @@ export const agathaChristie = {
   type: "author",
   slug: "agatha-christie",
   title: "Agatha Christie",
-  partOfCollections: ["mystery-and-detective"],
+  partOfCollections: ["author-collection/mystery-and-detective"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

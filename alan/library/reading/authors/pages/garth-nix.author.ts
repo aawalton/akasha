@@ -5,7 +5,7 @@ export const garthNix = {
   type: "author",
   slug: "garth-nix",
   title: "Garth Nix",
-  partOfCollections: ["fantasy-authors"],
+  partOfCollections: ["author-collection/fantasy-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

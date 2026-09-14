@@ -5,7 +5,7 @@ export const robertJordan = {
   type: "author",
   slug: "robert-jordan",
   title: "Robert Jordan",
-  partOfCollections: ["fantasy-authors"],
+  partOfCollections: ["author-collection/fantasy-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

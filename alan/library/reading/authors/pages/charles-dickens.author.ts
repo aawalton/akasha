@@ -5,7 +5,7 @@ export const charlesDickens = {
   type: "author",
   slug: "charles-dickens",
   title: "Charles Dickens",
-  partOfCollections: ["classics-authors"],
+  partOfCollections: ["author-collection/classics-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

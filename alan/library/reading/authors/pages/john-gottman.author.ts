@@ -5,7 +5,7 @@ export const johnGottman = {
   type: "author",
   slug: "john-gottman",
   title: "John Gottman",
-  partOfCollections: ["non-fiction-authors"],
+  partOfCollections: ["author-collection/non-fiction-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

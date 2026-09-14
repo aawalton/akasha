@@ -5,7 +5,7 @@ export const loisMcmasterBujold = {
   type: "author",
   slug: "lois-mcmaster-bujold",
   title: "Lois McMaster Bujold",
-  partOfCollections: ["science-fiction-authors"],
+  partOfCollections: ["author-collection/science-fiction-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

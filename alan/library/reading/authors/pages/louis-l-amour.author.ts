@@ -5,7 +5,7 @@ export const louisLAmour = {
   type: "author",
   slug: "louis-l-amour",
   title: "Louis L’Amour",
-  partOfCollections: ["westerns-authors"],
+  partOfCollections: ["author-collection/westerns-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

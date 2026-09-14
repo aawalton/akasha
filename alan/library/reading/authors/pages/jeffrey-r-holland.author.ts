@@ -5,7 +5,7 @@ export const jeffreyRHolland = {
   type: "author",
   slug: "jeffrey-r-holland",
   title: "Jeffrey R. Holland",
-  partOfCollections: ["apostles"],
+  partOfCollections: ["author-collection/apostles"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,
