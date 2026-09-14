@@ -120,7 +120,6 @@ export const alanWeb = {
     "module/read-aloud-marks",
     "module/read-aloud-persist",
     "module/read-completion",
-    "module/read-completion-diagnostics",
     "module/reader-narration-detail",
     "module/readout-guarding",
     "module/reveal-host",
