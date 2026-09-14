@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { runChange } from "akasha/changes/mechanical/file-content/rename/rename-property-signature/rename-property-signature.change-mechanical-file-content.code.ts"
-import { worldOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { worldOf } from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 
 const CODE = "akasha/one/held/held.module.code.ts"
 

@@ -4,12 +4,12 @@ import {
   runChange,
 } from "akasha/changes/agent/page-type/move-property-on-every-page/move-property-on-every-page.change-agent.code.ts"
 import { bodiesIn, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { worldOfType } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import { spelledAs } from "akasha/changes/modules/value-carrying/value-carrying.module.code.ts"
 import {
   listing,
   running,
 } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
+import { worldOfType } from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 
 const ONE_AT = "thrumming/chapters/pages/one.story-chapter-read.ts"

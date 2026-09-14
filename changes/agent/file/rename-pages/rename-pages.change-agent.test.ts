@@ -3,7 +3,7 @@ import { runChange } from "akasha/changes/agent/file/rename-pages/rename-pages.c
 import {
   type Carried,
   worldRecording,
-} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+} from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 
 const ONE = "akasha/one/held.module.ts"
 

@@ -4,8 +4,8 @@ import {
   NOTHING_OVER,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { bodyAnswered } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
+import { bodyAnswered } from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import {
   put,
   scratch,

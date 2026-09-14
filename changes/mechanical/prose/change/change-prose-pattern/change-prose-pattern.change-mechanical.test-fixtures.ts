@@ -3,7 +3,7 @@ import {
   type Reaching,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { filesOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { filesOf } from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import type { DepToken } from "akasha/domains/plain-language/modules/dependency-graph/dependency-graph.module.code.ts"
 import { makeSentence } from "akasha/domains/plain-language/modules/dependency-graph/dependency-graph.module.code.ts"
 import type { Parsing } from "akasha/domains/standard-agent-english/modules/prose-restating/prose-restating.module.code.ts"

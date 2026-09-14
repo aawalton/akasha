@@ -5,7 +5,6 @@ import {
   NOTHING_OVER,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { worldOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
   EVERY_KIND,
   foundIn,
@@ -14,6 +13,7 @@ import {
   pathsSearched,
   TYPED_KINDS,
 } from "akasha/changes/modules/tree-searching/tree-searching.module.code.ts"
+import { worldOf } from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import { indexNamed } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   put,

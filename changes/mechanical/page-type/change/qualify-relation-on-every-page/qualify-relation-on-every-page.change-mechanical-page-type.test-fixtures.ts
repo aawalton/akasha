@@ -6,7 +6,7 @@ import {
 import {
   filesOf,
   knownOf,
-} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+} from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import { isInPage } from "akasha/pages/address-kinds/in-page/in-page.page-address-kind.code.ts"
 import { isInPageProperty } from "akasha/pages/address-kinds/in-page-property/in-page-property.page-address-kind.code.ts"
 import type { Listed } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"

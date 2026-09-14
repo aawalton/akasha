@@ -43,19 +43,19 @@ import {
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import type { Carried as Declared } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 
-const MODULES = "node_modules"
+export const MODULES = "node_modules"
 
-const CONFIG = "biome.json"
+export const CONFIG = "biome.json"
 
-const CHANGE_IMPORTS = "change-mechanical-file-content/change-file-content"
+export const CHANGE_IMPORTS = "change-mechanical-file-content/change-file-content"
 
-const PROPERTY_AT = "akasha/types.file-property.ts"
+export const PROPERTY_AT = "akasha/types.file-property.ts"
 
 export const GENERATED_AT = "akasha/one.thing.types.ts"
 
 export const AUTHORED_AT = "akasha/two.thing.ts"
 
-const WAS = `import type { B } from "./b.text-property.ts"
+export const WAS = `import type { B } from "./b.text-property.ts"
 import type { Held } from "./m/held.text-property.ts"
 
 export type One = { b: B; held: Held }
@@ -79,25 +79,25 @@ import type { Held } from "./n/held.text-property.ts"
 export type One = { b: B; held: Held }
 `
 
-const FORMATS = JSON.stringify({
+export const FORMATS = JSON.stringify({
   formatter: { indentStyle: "space", indentWidth: 2, lineWidth: 100 },
   assist: { actions: { source: { organizeImports: "on" } } },
   javascript: { formatter: { quoteStyle: "double", semicolons: "asNeeded" } },
 })
 
-const TYPES_ID = "01a058c0-0000-7000-8000-000000000009"
+export const TYPES_ID = "01a058c0-0000-7000-8000-000000000009"
 
-const THING_ID = "01a058c0-0000-7000-8000-000000000002"
+export const THING_ID = "01a058c0-0000-7000-8000-000000000002"
 
-const ONE_ID = "01a058c0-0000-7000-8000-000000000005"
+export const ONE_ID = "01a058c0-0000-7000-8000-000000000005"
 
-const PAGE_TYPE_AT = "akasha/thing.page-type.ts"
+export const PAGE_TYPE_AT = "akasha/thing.page-type.ts"
 
-const PAGE_AT = "akasha/one.thing.ts"
+export const PAGE_AT = "akasha/one.thing.ts"
 
-const FILE_PROPERTY = "file-property"
+export const FILE_PROPERTY = "file-property"
 
-const PROPERTY_VALUE: Value = {
+export const PROPERTY_VALUE: Value = {
   id: TYPES_ID,
   pageTypeSlug: FILE_PROPERTY,
   slug: "types",
@@ -105,7 +105,7 @@ const PROPERTY_VALUE: Value = {
   generated: true,
 }
 
-function propertyFiled(root: string): undefined {
+export function propertyFiled(root: string): undefined {
   shapeAdded(root, FILE_PROPERTY, "types", [
     {
       pageTypeSlug: FILE_PROPERTY,
@@ -123,7 +123,7 @@ function propertyFiled(root: string): undefined {
   put(root, PROPERTY_AT, valueBody(PROPERTY_VALUE))
 }
 
-function rootThatFormats(): string {
+export function rootThatFormats(): string {
   const root = scratch.rootFor("change-shadow-generated-")
   symlinkSync(join(rootOf(import.meta.dir), MODULES), join(root, MODULES))
   writeFileSync(join(root, CONFIG), FORMATS)
@@ -135,7 +135,7 @@ function rootThatFormats(): string {
   return root
 }
 
-function repointingTo(path: string, now: string): Reaching {
+export function repointingTo(path: string, now: string): Reaching {
   return (_world, at) => {
     if (at === CHANGE_IMPORTS) {
       return Promise.resolve(stating([{ kind: "replace", path, contentFrom: WAS, contentTo: now }]))
@@ -144,7 +144,7 @@ function repointingTo(path: string, now: string): Reaching {
   }
 }
 
-async function reachingOver(path: string, now: string): Promise<Reached> {
+export async function reachingOver(path: string, now: string): Promise<Reached> {
   const held: Record<string, string> = { [path]: WAS }
   const ledger = ledgerAt(rootThatFormats(), (one) => held[one] ?? null, repointingTo(path, now))
   return await reach(ledger, CHANGE_IMPORTS as never, {})
@@ -162,12 +162,12 @@ export async function answeredOf(now: string, at: string): Promise<number> {
   return said.said.edits.length
 }
 
-type Adding = {
+export type Adding = {
   readonly at: string
   readonly body: string
 }
 
-const KNOWS_NOTHING: Shaped = {
+export const KNOWS_NOTHING: Shaped = {
   targetOf: () => null,
   admitting: () => [],
   mortal: () => false,
@@ -217,13 +217,13 @@ export function bodyAt(at: string, body: string): (path: string) => string | nul
   return (path) => (path === at ? body : null)
 }
 
-const NOWHERE = "/nowhere"
+export const NOWHERE = "/nowhere"
 
-const NO_SHAPES: ReadonlySet<string> = new Set()
+export const NO_SHAPES: ReadonlySet<string> = new Set()
 
-const UNDER = "/"
+export const UNDER = "/"
 
-function namedIn(held: Readonly<Record<string, string>>): (path: string) => boolean {
+export function namedIn(held: Readonly<Record<string, string>>): (path: string) => boolean {
   const made = new Set<string>()
   for (const path of Object.keys(held)) {
     made.add(path)
@@ -364,7 +364,7 @@ export function worldIn(root: string, address: string): World {
   return worldAt(root, textIn(root), running(address))
 }
 
-function taking(address: string): Reaching {
+export function taking(address: string): Reaching {
   return (_world, at, given) => {
     if (at === address) {
       const asked = given as { readonly at: string }
@@ -397,7 +397,7 @@ export const NESTING: Reaching = async (world, at, given) => {
   return (await reach(world, ADD_FILE as never, given)).said
 }
 
-function typedBody(keys: string): string {
+export function typedBody(keys: string): string {
   return `export const fresh = {\n  id: "held",\n${keys}  slug: "fresh",\n} as const\n`
 }
 

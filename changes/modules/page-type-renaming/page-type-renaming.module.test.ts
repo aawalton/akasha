@@ -6,7 +6,7 @@ import {
   typeMoved,
 } from "akasha/changes/modules/page-type-renaming/page-type-renaming.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { repoWorld } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { repoWorld } from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import {
   faultSaid,
   parsedAs,

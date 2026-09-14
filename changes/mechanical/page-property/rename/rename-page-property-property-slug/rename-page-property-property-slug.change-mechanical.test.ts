@@ -7,7 +7,7 @@ import {
   type Reaching,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { worldOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { worldOf } from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const WOLD_AT = "akasha/wold/wold.file-property.ts"

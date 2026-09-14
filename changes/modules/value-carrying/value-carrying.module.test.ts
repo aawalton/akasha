@@ -1,6 +1,5 @@
 import { expect, test } from "bun:test"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { worldOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
   askedIn,
   atMostIn,
@@ -10,6 +9,7 @@ import {
   spelledAs,
 } from "akasha/changes/modules/value-carrying/value-carrying.module.code.ts"
 import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
+import { worldOf } from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 
 const ONE_AT = "story/chapters-read/pages/one.story-chapter-read.ts"

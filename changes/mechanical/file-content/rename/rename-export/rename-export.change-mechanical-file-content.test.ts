@@ -3,7 +3,7 @@ import { renameExport } from "akasha/changes/mechanical/file-content/rename/rena
 import { pathsIn } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { bodiesIn } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { bodyAt } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { bodyAt } from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import { NOWHERE } from "akasha/code/reading/modules/code-typing/code-typing.module.test-fixtures.ts"
 import {
   bodyOf,

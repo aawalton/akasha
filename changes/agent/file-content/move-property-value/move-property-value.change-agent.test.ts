@@ -7,11 +7,11 @@ import {
   NOTHING_OVER,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
   bodyOf,
   worldFor,
-} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
-import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
+} from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const ADDRESS = "change-mechanical-file-content/move-property-value"

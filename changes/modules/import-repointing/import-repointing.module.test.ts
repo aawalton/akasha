@@ -30,7 +30,7 @@ import {
 import {
   bodyOf,
   worldOf,
-} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+} from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import {
   ARRIVES,
   CODE,

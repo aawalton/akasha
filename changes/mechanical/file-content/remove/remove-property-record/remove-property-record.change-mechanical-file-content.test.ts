@@ -7,7 +7,7 @@ import {
   bodyOf,
   refusalOf,
   worldOf,
-} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+} from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 
 const AT = "held/one.page-type.ts"
 

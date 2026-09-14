@@ -7,7 +7,7 @@ import {
   declaring,
   filesOf,
   worldKnowing,
-} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+} from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 
 const PAGE = "akasha/one/held.module.ts"

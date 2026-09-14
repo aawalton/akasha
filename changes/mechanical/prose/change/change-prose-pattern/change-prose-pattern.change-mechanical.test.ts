@@ -18,8 +18,8 @@ import {
 } from "akasha/changes/mechanical/prose/change/change-prose-pattern/change-prose-pattern.change-mechanical.test-fixtures.ts"
 import { pathsIn } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { bodyAnswered } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import { listing } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
+import { bodyAnswered } from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const ASKED = { spellings: SPELLINGS, patterns: PATTERNS }

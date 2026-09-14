@@ -3,7 +3,7 @@ import { runChange } from "akasha/changes/mechanical/file/move/move-file-page-ty
 import {
   type Carried,
   worldRecording,
-} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+} from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 
 const TYPE = "akasha/kept.page-type.ts"
 

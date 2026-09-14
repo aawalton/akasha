@@ -4,11 +4,11 @@ import {
   runChange,
 } from "akasha/changes/agent/page-type/change-calculation-held-type/change-calculation-held-type.change-agent.code.ts"
 import { ledgerAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { listing } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
   type Caught,
   catching,
-} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
-import { listing } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
+} from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 
 const RUNG = "change-mechanical-page-type/change-calculation-held-type"
 

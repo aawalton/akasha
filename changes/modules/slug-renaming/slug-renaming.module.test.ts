@@ -5,15 +5,15 @@ import {
   type World,
   worldAt,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import {
-  bodyAfter,
-  bodyAt,
-} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import { slugRenamed } from "akasha/changes/modules/slug-renaming/slug-renaming.module.code.ts"
 import {
   listing,
   running,
 } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
+import {
+  bodyAfter,
+  bodyAt,
+} from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import {
   aType,
   bodyOf,

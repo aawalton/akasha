@@ -7,11 +7,11 @@ import {
   NOTHING_OVER,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { listing } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
   type Caught,
   catching,
-} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
-import { listing } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
+} from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 
 const ASKED = "the world was asked"
 

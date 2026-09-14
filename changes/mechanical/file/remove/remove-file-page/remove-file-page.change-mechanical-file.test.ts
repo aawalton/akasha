@@ -19,8 +19,8 @@ import {
   worldAt,
   worldOver,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { bodyAfter } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
+import { bodyAfter } from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import {
   aProperty,
   aType,

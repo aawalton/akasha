@@ -5,7 +5,7 @@ import {
   movesOf,
   repointedOver,
 } from "akasha/changes/modules/file-carrying/file-carrying.module.code.ts"
-import { repoWorld } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { repoWorld } from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import {
   HELD_CODE,
   NAMER_CODE,

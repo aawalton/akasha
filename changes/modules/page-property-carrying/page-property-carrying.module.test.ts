@@ -7,7 +7,7 @@ import {
   withinOf,
 } from "akasha/changes/modules/page-property-carrying/page-property-carrying.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { worldOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { worldOf } from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const ONE_AT = "akasha/one/one.quoin.ts"

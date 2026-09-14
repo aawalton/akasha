@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { moveFiles } from "akasha/changes/mechanical/file/move/move-files/move-files.change-mechanical.code.ts"
-import { repoWorld } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { repoWorld } from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import {
   HELD_CODE,
   NAMER_CODE,

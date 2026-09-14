@@ -4,7 +4,7 @@ import {
   signatureRespelled,
 } from "akasha/changes/modules/property-signature-renaming/property-signature-renaming.module.code.ts"
 import { bodiesIn, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { worldOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { worldOf } from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import ts from "typescript"
 
 const TYPES_AT = "akasha/quoin/quoin.module.types.ts"

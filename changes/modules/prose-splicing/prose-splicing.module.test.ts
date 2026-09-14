@@ -4,7 +4,7 @@ import {
   bodyRestated,
   type Restating,
 } from "akasha/changes/modules/prose-splicing/prose-splicing.module.code.ts"
-import { bodyOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { bodyOf } from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 
 const AT = "akasha/widgets/one.widget.ts"
 

@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { runChange } from "akasha/changes/mechanical/file/remove/remove-file-page-type/remove-file-page-type.change-mechanical.code.ts"
-import { worldTaking } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { worldTaking } from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import {
   bodyOf,
   idOf,

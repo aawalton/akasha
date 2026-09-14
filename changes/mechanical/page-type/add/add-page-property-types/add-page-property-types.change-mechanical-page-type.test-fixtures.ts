@@ -3,7 +3,7 @@ import {
   type Reaching,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { filesOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { filesOf } from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 
 export const KIND = "boolean-property"
 

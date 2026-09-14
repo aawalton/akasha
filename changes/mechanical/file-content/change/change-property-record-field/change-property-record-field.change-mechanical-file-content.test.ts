@@ -4,7 +4,7 @@ import {
   type Named,
 } from "akasha/changes/mechanical/file-content/change/change-property-record-field/change-property-record-field.change-mechanical-file-content.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { bodyOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { bodyOf } from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 
 const AT = "akasha/held/kept.module.ts"
 

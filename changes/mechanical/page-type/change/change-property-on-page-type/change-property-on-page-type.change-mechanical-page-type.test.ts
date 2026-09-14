@@ -1,8 +1,8 @@
 import { expect, test } from "bun:test"
 import { changePropertyOnPageType } from "akasha/changes/mechanical/page-type/change/change-property-on-page-type/change-property-on-page-type.change-mechanical-page-type.code.ts"
 import { bodiesIn, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { worldOfType } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import { listing } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
+import { worldOfType } from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import type { Carried as Declared } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 

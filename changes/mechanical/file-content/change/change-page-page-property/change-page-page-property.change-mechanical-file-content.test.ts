@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { restated } from "akasha/changes/mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.code.ts"
 import { BODY } from "akasha/changes/mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.test-fixtures.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { bodyOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { bodyOf } from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 
 function ranOn(path: string, text: string, key: string, to: string): Answer {
   return restated(path, text, key, to)

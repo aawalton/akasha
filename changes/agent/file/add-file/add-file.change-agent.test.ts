@@ -4,7 +4,7 @@ import {
   NOTHING_OVER,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { running } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { running } from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 
 const AT = "akasha/one.held.ts"
 

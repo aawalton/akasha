@@ -10,7 +10,7 @@ import {
   type Written,
 } from "akasha/changes/modules/page-property-splicing/page-property-splicing.module.code.ts"
 import { bodiesIn } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { worldOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { worldOf } from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 
 const ONE_AT = "thrumming/moots/one.moot-call.ts"

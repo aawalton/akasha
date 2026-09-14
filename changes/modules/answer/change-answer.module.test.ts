@@ -10,7 +10,7 @@ import {
   splicing,
 } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { filesOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { filesOf } from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 
 const AT = "akasha/one/held.ts"
 
