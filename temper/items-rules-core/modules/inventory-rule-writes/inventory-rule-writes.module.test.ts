@@ -25,7 +25,7 @@ function heldOf(id: string, at: number, over: Partial<HeldRule["page"]> = {}): H
       accountPage: ACCOUNT,
       categoryId: "scripts",
       displayOrder: at,
-      action: "sell",
+      action: "temper-item-action/sell",
       active: true,
       updatedAt: AN_INSTANT,
       ...over,
