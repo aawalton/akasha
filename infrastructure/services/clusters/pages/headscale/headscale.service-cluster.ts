@@ -12,7 +12,7 @@ export const headscale = {
   image: "headscale/headscale:0.28.0",
   replicas: 1,
   containerPort: 8443,
-  manifest: "headscale",
+  manifest: "manifest/headscale",
   secrets: [
     "secret/headscale-secrets-noise-private-key",
     "secret/headscale-secrets-oidc-client-secret",

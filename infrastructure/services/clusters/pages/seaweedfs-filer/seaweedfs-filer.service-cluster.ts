@@ -11,5 +11,5 @@ export const seaweedfsFiler = {
   image: "chrislusf/seaweedfs:3.73",
   replicas: 1,
   containerPort: 8888,
-  manifest: "seaweedfs-filer",
+  manifest: "manifest/seaweedfs-filer",
 } as const satisfies ServiceCluster

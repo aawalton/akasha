@@ -11,5 +11,5 @@ export const temperWeb = {
   image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
   replicas: 1,
   containerPort: 3000,
-  manifest: "temper-web-manifests",
+  manifest: "manifest/temper-web-manifests",
 } as const satisfies ServiceCluster

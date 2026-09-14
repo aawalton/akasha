@@ -10,5 +10,5 @@ export const dcgmExporterDaemonset = {
   resourceName: "dcgm-exporter",
   image: "nvcr.io/nvidia/k8s/dcgm-exporter:3.3.8-3.6.0-ubuntu22.04",
   containerPort: 9400,
-  manifest: "dcgm-exporter-daemonset",
+  manifest: "manifest/dcgm-exporter-daemonset",
 } as const satisfies ServiceCluster
