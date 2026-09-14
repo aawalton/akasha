@@ -36,7 +36,6 @@ export const page = {
     "module/page-body",
     "module/page-carry",
     "module/page-computing",
-    "module/page-derive-shape",
     "module/page-entries",
     "module/page-entry-landing",
     "module/page-entry-queue",

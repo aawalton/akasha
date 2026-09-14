@@ -25,18 +25,6 @@ export const pageCarry = {
       statement: "A value that is absent is carried as nothing.",
     },
     {
-      invariantKind: "departure",
-      statement: "A value that is absent is carried as an empty list where a list is asked for.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Text carried into a list is trimmed.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Text that trims away lists as nothing.",
-    },
-    {
       invariantKind: "absence",
       statement: "Nothing here reads a file.",
     },
