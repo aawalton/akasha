@@ -124,7 +124,6 @@ export const components = {
     "module/synthetic-config",
     "module/text-property-badge",
     "module/timeline-picker",
-    "module/url-property-badge",
     "module/use-app-nav-items",
     "module/use-board-view-wiring",
     "module/use-calendar-view-wiring",

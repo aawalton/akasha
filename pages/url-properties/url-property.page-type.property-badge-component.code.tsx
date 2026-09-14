@@ -37,7 +37,7 @@ function CommitOnlyUrlBadge({
   )
 }
 
-export function UrlPropertyBadge({
+export function Drawing({
   property,
   value,
   context,
