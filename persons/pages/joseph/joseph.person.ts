@@ -5,6 +5,6 @@ export const joseph = {
   type: "person",
   slug: "joseph",
   definition: "Joseph Walton, Alan's middle child",
-  answeredBy: "claude",
+  answeredBy: "persona/claude",
   phone: "+18016363076",
 } as const satisfies Person

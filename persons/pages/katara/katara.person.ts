@@ -5,6 +5,6 @@ export const katara = {
   type: "person",
   slug: "katara",
   definition: "Katara Walton, Alan's youngest child",
-  answeredBy: "claude",
+  answeredBy: "persona/claude",
   phone: "+13854521484",
 } as const satisfies Person

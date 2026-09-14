@@ -82,7 +82,7 @@ export const alan = {
       ],
     },
   ],
-  answeredBy: "amy",
+  answeredBy: "persona/amy",
   phone: "+16085122510",
   email: "aawalton@gmail.com",
   supabaseAuthUserId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",

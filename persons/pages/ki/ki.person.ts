@@ -5,7 +5,7 @@ export const ki = {
   type: "person",
   slug: "ki",
   definition: "Ki Goff, Alan's sister-in-law",
-  answeredBy: "amy",
+  answeredBy: "persona/amy",
   phone: "+18015028196",
   supabaseAuthUserId: "395db962-77dd-4aa7-b1c2-6500025dc331",
   parts: [

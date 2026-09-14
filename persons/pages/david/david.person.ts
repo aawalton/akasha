@@ -5,7 +5,7 @@ export const david = {
   type: "person",
   slug: "david",
   definition: "David Eggertsen, Alan's friend since childhood",
-  answeredBy: "amy",
+  answeredBy: "persona/amy",
   phone: "+14355720344",
   email: "deggertsen@gmail.com",
 } as const satisfies Person
