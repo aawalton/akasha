@@ -30,7 +30,6 @@ export const pageType = {
     "file-property/types",
     "module/declared-properties",
     "module/page-type-descent",
-    "module/page-type-folder",
     "module/page-type-gathering",
     "module/type-generating",
     "module/type-turning",
