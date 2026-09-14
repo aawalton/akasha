@@ -7,7 +7,7 @@ export const initiative = {
   definition: "work that closes gaps between how a domain is and how it should be",
   pluralSlug: "initiatives",
   parts: [
-    "record-property/intents",
+    "record-property/intent-stack",
     "relation-property/initiative",
     "relation-property/initiative-parent",
     "relation-property/initiative-persona",
@@ -20,7 +20,7 @@ export const initiative = {
     { pageProperty: "relation-property/page-domain", required: true, many: false },
     { pageProperty: "relation-property/initiative-persona", required: true, many: false },
     { pageProperty: "relation-property/initiative-parent", required: false, many: false },
-    { pageProperty: "record-property/intents", required: false, many: true, maxCount: null },
+    { pageProperty: "record-property/intent-stack", required: false, many: true, maxCount: null },
     {
       pageProperty: "standard-agent-english-property/constraints",
       required: false,

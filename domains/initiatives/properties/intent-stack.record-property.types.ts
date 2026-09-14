@@ -2,7 +2,7 @@ import type { IntentStatement } from "akasha/domains/initiatives/properties/inte
 import type { WorkingMemory } from "akasha/domains/initiatives/properties/working-memory.text-property.types.ts"
 import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 
-export type Intents = List<{
+export type IntentStack = List<{
   statement: IntentStatement
   workingMemory?: WorkingMemory
 }>

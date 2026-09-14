@@ -1,9 +1,9 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 
-export const intents = {
+export const intentStack = {
   id: "01a058a3-b01f-7002-b869-8274ae8203a6",
   type: "record-property",
-  slug: "intents",
+  slug: "intent-stack",
   propertySlug: "intent-stack",
   definition: "what an initiative is to make so",
   properties: [
