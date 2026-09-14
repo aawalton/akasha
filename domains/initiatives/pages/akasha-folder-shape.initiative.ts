@@ -17,12 +17,6 @@ export const akashaFolderShape = {
       workingMemory:
         "Thirteen shapes; `the-workspace-root` went into `a-domain-with-its-parts`. Four shared judges carry twelve of them: `one-type-only` three, `property-pages` two, `one-page-only` the four `with-its-parts`, `book-sections` the two `sections`. Each caller hands in what differs, and every refusal reads as it did. The four `with-its-parts` are exclusive by page type since `04d6899` and `7519d65`. `pages-of-the-type-above` is the one judge still alone, and nothing else says what it says.\n",
     },
-
-    {
-      statement: "A check determines whether a folder should be a workspace package.",
-      workingMemory:
-        "One manifest is outside `node_modules`: the root, named `akasha`, unscoped, `exports` mapping `./*` to `./*`, so a reach spells `akasha/...`. `specifier-names-a-package` is held off no phase now, and refuses nothing it could: `refusalsOver` returns at `scopesOf(names).size === 0`, which an unscoped root name leaves empty, `decision.code.ts:88`. Eleven pages of a workspace-package kind state no manifest, so that type's definition holds for none. Nothing judges whether a folder is a package.\n",
-    },
   ],
   constraints: [
     "A page address is a structured value rather than a string.",
