@@ -15,7 +15,6 @@ import {
   spentOver,
   summaryIn,
   testsBesideOf,
-  testsUnder,
   verdictOf,
 } from "akasha/code/running/modules/code-tests/code-tests.module.code.ts"
 import {
@@ -48,31 +47,35 @@ function repo(files: Record<string, string>): string {
   return root
 }
 
-check("the test files under a path are counted, and other files are not", () => {
+function namedUnder(root: string, one: string): readonly string[] {
+  return groupedBy(root, [one]).flatMap((group) => group.named)
+}
+
+check("the test files under a path are found, and other files are not", () => {
   const root = repo({
     "one.test.ts": PASSES,
     "held.ts": "export const held = 1\n",
     "deep/two.test.ts": PASSES,
   })
-  expect(testsUnder(join(root, "akasha"))).toBe(2)
-  expect(testsUnder(join(root, "akasha/held.ts"))).toBe(0)
-  expect(testsUnder(join(root, "akasha/one.test.ts"))).toBe(1)
-  expect(testsUnder(join(root, "akasha/nowhere"))).toBe(0)
+  expect(namedUnder(root, "akasha")).toEqual(["akasha/deep/two.test.ts", "akasha/one.test.ts"])
+  expect(namedUnder(root, "akasha/held.ts")).toEqual([])
+  expect(namedUnder(root, "akasha/one.test.ts")).toEqual(["akasha/one.test.ts"])
+  expect(namedUnder(root, "akasha/nowhere")).toEqual([])
 })
 
-check("a test written with JSX is counted as readily as one written without", () => {
+check("a test written with JSX is found as readily as one written without", () => {
   const root = repo({ "one.test.tsx": PASSES, "deep/two.test.ts": PASSES })
-  expect(testsUnder(join(root, "akasha"))).toBe(2)
-  expect(testsUnder(join(root, "akasha/one.test.tsx"))).toBe(1)
+  expect(namedUnder(root, "akasha")).toEqual(["akasha/deep/two.test.ts", "akasha/one.test.tsx"])
+  expect(namedUnder(root, "akasha/one.test.tsx")).toEqual(["akasha/one.test.tsx"])
 })
 
-check("a test the installed modules folder or the git folder holds is not counted", () => {
+check("a test the installed modules folder or the git folder holds is not found", () => {
   const root = repo({
     "node_modules/one.test.ts": PASSES,
     ".git/two.test.ts": PASSES,
     "three.test.ts": PASSES,
   })
-  expect(testsUnder(join(root, "akasha"))).toBe(1)
+  expect(namedUnder(root, "akasha")).toEqual(["akasha/three.test.ts"])
 })
 
 check(

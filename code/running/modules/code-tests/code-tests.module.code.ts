@@ -136,10 +136,6 @@ function testsIn(absolute: string): readonly string[] {
   return held
 }
 
-export function testsUnder(absolute: string): number {
-  return testsIn(absolute).length
-}
-
 export function testsBesideOf(path: string): readonly string[] {
   if (testNamed(path)) return [path]
   const part = BESIDES.find((one) => path.endsWith(one))
