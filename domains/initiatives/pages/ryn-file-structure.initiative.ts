@@ -16,6 +16,9 @@ export const rynFileStructure = {
     {
       statement: "A folder's name is worked out from the page type of what that folder holds.",
     },
+    {
+      statement: "No slug is plural.",
+    },
   ],
   constraints: [
     "A page listing is reached at its page type's slug.",
