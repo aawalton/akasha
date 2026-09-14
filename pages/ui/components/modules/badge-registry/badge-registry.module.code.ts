@@ -4,8 +4,6 @@ import { AggregatePropertyBadge } from "akasha/pages/ui/components/modules/aggre
 
 import { FormulaPropertyBadge } from "akasha/pages/ui/components/modules/formula-property-badge/formula-property-badge.module.code.tsx"
 
-import { PathSelectPropertyBadge } from "akasha/pages/ui/components/modules/path-select-property-badge/path-select-property-badge.module.code.tsx"
-
 import type { PropertyBadgeProps } from "akasha/pages/ui/components/modules/property-badge/property-badge.module.code.tsx"
 
 import { RichDocumentPropertyBadge } from "akasha/pages/ui/components/modules/rich-document-property-badge/rich-document-property-badge.module.code.tsx"
@@ -17,8 +15,6 @@ import type { ComponentType } from "react"
 export const PROPERTY_BADGE_REGISTRY: Partial<
   Record<PropertyType, ComponentType<PropertyBadgeProps>>
 > = {
-  "path-select": PathSelectPropertyBadge,
-
   rollup: RollupPropertyBadge,
   aggregate: AggregatePropertyBadge,
   formula: FormulaPropertyBadge,

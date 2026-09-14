@@ -89,7 +89,6 @@ export const components = {
     "module/page-timeline-helpers",
     "module/page-title-properties",
     "module/pages-by-relation-content",
-    "module/path-select-property-badge",
     "module/position-fraction",
     "module/position-write-event",
     "module/progress-property-badge",
