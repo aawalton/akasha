@@ -1,9 +1,12 @@
 import { appendFileSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { forwardOf } from "akasha/alan/google/email/modules/forwarded-message/forwarded-message.module.code.ts"
+import { buildInboundMessage } from "akasha/alan/google/email/modules/gmail-inbound-adapter/gmail-inbound-adapter.module.code.ts"
 import type {
   Mailbox,
   Message,
 } from "akasha/alan/google/email/modules/gmail-mailbox/gmail-mailbox.module.code.ts"
+import { decide as decideChannel } from "akasha/alan/harness/email-inbound/modules/inbound-decision/inbound-decision.module.code.ts"
+import { channelsOf } from "akasha/alan/harness/email-inbound/modules/persona-channels/persona-channels.module.code.ts"
 import { decide } from "akasha/alan/harness/email-watch/modules/email-rule-deciding/email-rule-deciding.module.code.ts"
 import type { Rule } from "akasha/alan/harness/email-watch/modules/email-rule-reading/email-rule-reading.module.code.ts"
 import { rulesOf } from "akasha/alan/harness/email-watch/modules/email-rule-reading/email-rule-reading.module.code.ts"
@@ -16,6 +19,8 @@ const STATE_FILE = `${STATE_DIR}/state.json`
 const ACTION_LOG = `${STATE_DIR}/actions.jsonl`
 
 const UNSUBSCRIBE_URL = /<(https?:[^>]+)>/
+
+const AGENT_CHANNEL = "agent-channel"
 
 const CAPTURED_URL = z.tuple([z.string(), z.string().min(1)])
 
@@ -33,6 +38,7 @@ interface Claim {
   readonly why?: "agent" | "notify"
   readonly from?: string
   readonly subject?: string
+  readonly handle?: string
 }
 
 interface State {
@@ -50,6 +56,7 @@ const CLAIM_SHAPE = z.object({
   why: z.enum(["agent", "notify"]).optional(),
   from: z.string().optional(),
   subject: z.string().optional(),
+  handle: z.string().optional(),
 })
 
 const STATE_SHAPE = z.object({
@@ -106,6 +113,7 @@ export interface RunReport {
   readonly acted: number
   readonly waiting: number
   readonly unclaimed: number
+  readonly discarded: number
 }
 
 function spelt(rule: Rule): string {
@@ -123,6 +131,10 @@ function unsubscribedSaid(url: string): string {
 
 function archivedSaid(id: string): string {
   return `message ${id}, archived at Gmail and out of the inbox`
+}
+
+function channelSaid(id: string, message: Message, reason: string): string {
+  return `${id} → ${reason} | ${message.from} | ${message.subject.slice(0, 60)}`
 }
 
 async function carry(
@@ -187,6 +199,8 @@ export async function oneRun(
   done: string[] = []
 ): Promise<RunReport> {
   const rules = rulesOf(person, root)
+  const channels = channelsOf(root)
+  const selfAddress = (await box.profile()).emailAddress
   const state = readState()
   const claimed = new Set(state.claims.map((one) => one.messageId))
   const found = await population(box, state)
@@ -194,6 +208,7 @@ export async function oneRun(
   const claims: Claim[] = [...state.claims]
   let acted = 0
   let unclaimed = 0
+  let discarded = 0
   const now = Date.now()
 
   for (const claim of state.claims.filter((one) => one.actAt === undefined)) {
@@ -244,6 +259,35 @@ export async function oneRun(
     try {
       message = await box.message(id)
     } catch {
+      continue
+    }
+    const channelWay = decideChannel(buildInboundMessage(message, selfAddress, channels))
+    if (channelWay.action === "agent-handle") {
+      decisions.push(channelSaid(id, message, channelWay.reason))
+      if (!options.dryRun) {
+        claims.push({
+          messageId: id,
+          rule: AGENT_CHANNEL,
+          from: message.from,
+          subject: message.subject,
+          why: "agent",
+          handle: channelWay.agentHandle,
+        })
+        record({
+          message: id,
+          rule: AGENT_CHANNEL,
+          action: "claimed",
+          forKind: "agent",
+          handle: channelWay.agentHandle,
+        })
+      }
+      continue
+    }
+    if (channelWay.action === "discard") {
+      discarded += 1
+      decisions.push(channelSaid(id, message, channelWay.reason))
+      if (!options.dryRun)
+        record({ message: id, action: "discard-channel", reason: channelWay.reason })
       continue
     }
     const rule = decide(rules, message)
@@ -309,5 +353,12 @@ export async function oneRun(
 
   const waiting = claims.filter((one) => one.actAt === undefined)
   if (!options.dryRun) writeState({ historyId: found.historyId, claims })
-  return { examined: found.ids.length, decisions, acted, waiting: waiting.length, unclaimed }
+  return {
+    examined: found.ids.length,
+    decisions,
+    acted,
+    waiting: waiting.length,
+    unclaimed,
+    discarded,
+  }
 }

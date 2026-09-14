@@ -8,7 +8,7 @@ import {
 import type { RunReport } from "akasha/alan/harness/email-watch/modules/inbox-run/inbox-run.module.code.ts"
 
 function reportOf(over: Partial<RunReport> = {}): RunReport {
-  return { examined: 0, decisions: [], acted: 0, waiting: 0, unclaimed: 0, ...over }
+  return { examined: 0, decisions: [], acted: 0, waiting: 0, unclaimed: 0, discarded: 0, ...over }
 }
 
 test("naming no person reads Alan's inbox", () => {
@@ -38,9 +38,13 @@ test("a run says in its closing line whether it was a dry run", () => {
 })
 
 test("a tally counts every message the run divided up", () => {
-  const said = tallyOf(reportOf({ examined: 9, acted: 4, waiting: 2, unclaimed: 3 }), false)
+  const said = tallyOf(
+    reportOf({ examined: 9, acted: 4, waiting: 2, unclaimed: 3, discarded: 1 }),
+    false
+  )
   expect(said).toBe(
-    "pass: examined 9 message(s) — 4 acted on, 2 waiting on an agent, 3 that no rule claimed"
+    "pass: examined 9 message(s) — 4 acted on, 2 waiting on an agent, " +
+      "3 that no rule claimed, 1 discarded off a persona's channel"
   )
 })
 
@@ -49,12 +53,14 @@ test("every decision is said before the tally", () => {
   expect(said).toEqual([
     "  a → kept",
     "  b → binned",
-    "pass: examined 2 message(s) — 0 acted on, 0 waiting on an agent, 0 that no rule claimed",
+    "pass: examined 2 message(s) — 0 acted on, 0 waiting on an agent, " +
+      "0 that no rule claimed, 0 discarded off a persona's channel",
   ])
 })
 
 test("a run that examined nothing still says its tally", () => {
   expect(saidOf(reportOf(), true)).toEqual([
-    "dry-run: examined 0 message(s) — 0 acted on, 0 waiting on an agent, 0 that no rule claimed",
+    "dry-run: examined 0 message(s) — 0 acted on, 0 waiting on an agent, " +
+      "0 that no rule claimed, 0 discarded off a persona's channel",
   ])
 })

@@ -35,7 +35,7 @@ export const inboxWatching = {
     {
       invariantKind: "departure",
       statement:
-        "A pass that acted on nothing and found nothing waiting and nothing unclaimed says nothing.",
+        "A pass that acted on nothing and found nothing waiting or unclaimed or discarded says nothing.",
     },
     {
       invariantKind: "departure",

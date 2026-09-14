@@ -31,7 +31,8 @@ export function tallyOf(report: RunReport, dryRun: boolean): string {
   return (
     `${dryRun ? "dry-run" : "pass"}: examined ${String(report.examined)} message(s) — ` +
     `${String(report.acted)} acted on, ${String(report.waiting)} waiting on an agent, ` +
-    `${String(report.unclaimed)} that no rule claimed`
+    `${String(report.unclaimed)} that no rule claimed, ` +
+    `${String(report.discarded)} discarded off a persona's channel`
   )
 }
 

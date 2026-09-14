@@ -73,9 +73,10 @@ export async function runInboxWatching(): Promise<void> {
     const done: string[] = []
     try {
       const report = await oneRun(PERSON, ROOT, box, { dryRun: false }, done)
-      if (report.acted > 0 || report.waiting > 0 || report.unclaimed > 0)
+      if (report.acted > 0 || report.waiting > 0 || report.unclaimed > 0 || report.discarded > 0)
         log(
-          `${report.examined} examined, ${report.acted} acted on, ${report.waiting} waiting, ${report.unclaimed} unclaimed`
+          `${report.examined} examined, ${report.acted} acted on, ${report.waiting} waiting, ` +
+            `${report.unclaimed} unclaimed, ${report.discarded} discarded`
         )
       await announce()
     } catch (error) {
