@@ -144,9 +144,11 @@ test("a shell script the index lists but no page carries is left out once a shel
   expect(besideIn(held, shadowAt(root))).toEqual([MAIN_AT, FILED_AT])
 })
 
-test("the mirror falls back to every shell script the index lists where no shell property answers", () => {
+test("the mirror falls back to every shell script the tree holds where no shell property answers", () => {
   const root = rooted()
-  pathListed(root, PART_AT)
+  const at = join(root, PART_AT)
+  mkdirSync(dirname(at), { recursive: true })
+  writeFileSync(at, PART)
   const held = landing(root, { [MAIN_AT]: bytesOf(MAIN), "akasha/held.md": bytesOf("held") })
   expect(besideIn(held, shadowAt(root))).toEqual([MAIN_AT, PART_AT])
 })
