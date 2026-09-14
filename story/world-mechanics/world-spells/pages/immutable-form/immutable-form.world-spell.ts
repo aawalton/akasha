@@ -5,6 +5,6 @@ export const immutableForm = {
   type: "world-spell",
   slug: "immutable-form",
   title: "Immutable Form",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

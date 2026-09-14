@@ -5,6 +5,6 @@ export const manaBrick = {
   type: "world-spell",
   slug: "mana-brick",
   title: "Mana Brick",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

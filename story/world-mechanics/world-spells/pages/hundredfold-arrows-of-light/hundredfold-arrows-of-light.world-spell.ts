@@ -5,6 +5,6 @@ export const hundredfoldArrowsOfLight = {
   type: "world-spell",
   slug: "hundredfold-arrows-of-light",
   title: "Hundredfold Arrows of Light",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

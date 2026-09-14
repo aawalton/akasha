@@ -5,5 +5,5 @@ export const watertwisterOrb = {
   type: "world-spell",
   slug: "watertwister-orb",
   title: "Watertwister Orb",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSpell

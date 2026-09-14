@@ -5,6 +5,6 @@ export const hecrelunnSInfantileSwaddlingCloth = {
   type: "world-spell",
   slug: "hecrelunn-s-infantile-swaddling-cloth",
   title: "Hecrelunn’s Infantile Swaddling Cloth",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

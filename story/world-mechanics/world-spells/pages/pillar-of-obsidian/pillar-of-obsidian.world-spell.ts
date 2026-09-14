@@ -5,6 +5,6 @@ export const pillarOfObsidian = {
   type: "world-spell",
   slug: "pillar-of-obsidian",
   title: "Pillar of Obsidian",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

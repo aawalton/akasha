@@ -5,6 +5,6 @@ export const extendedSpellSpeed = {
   type: "world-spell",
   slug: "extended-spell-speed",
   title: "Extended Spell: Speed",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

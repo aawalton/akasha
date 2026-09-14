@@ -5,6 +5,6 @@ export const resonanceChitrxMetal = {
   type: "world-spell",
   slug: "resonance-chitrx-metal",
   title: "Resonance: Chitrx Metal",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

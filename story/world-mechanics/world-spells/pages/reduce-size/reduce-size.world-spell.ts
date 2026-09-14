@@ -5,6 +5,6 @@ export const reduceSize = {
   type: "world-spell",
   slug: "reduce-size",
   title: "Reduce Size",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,5 +5,5 @@ export const impactGuard = {
   type: "world-spell",
   slug: "impact-guard",
   title: "Impact Guard",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSpell

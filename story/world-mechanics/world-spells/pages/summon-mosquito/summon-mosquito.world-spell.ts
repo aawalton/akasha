@@ -5,5 +5,5 @@ export const summonMosquito = {
   type: "world-spell",
   slug: "summon-mosquito",
   title: "Summon Mosquito",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const fissure = {
   type: "world-spell",
   slug: "fissure",
   title: "Fissure",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

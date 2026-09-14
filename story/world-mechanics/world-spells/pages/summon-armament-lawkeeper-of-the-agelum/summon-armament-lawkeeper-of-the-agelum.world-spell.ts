@@ -5,6 +5,6 @@ export const summonArmamentLawkeeperOfTheAgelum = {
   type: "world-spell",
   slug: "summon-armament-lawkeeper-of-the-agelum",
   title: "Summon Armament: Lawkeeper of the Agelum",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const legionsOfRadianceTheSundrenchedOfCaonis = {
   type: "world-spell",
   slug: "legions-of-radiance-the-sundrenched-of-caonis",
   title: "Legions of Radiance, the Sundrenched of Caonis",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

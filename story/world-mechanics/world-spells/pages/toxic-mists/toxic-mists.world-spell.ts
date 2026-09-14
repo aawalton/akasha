@@ -5,6 +5,6 @@ export const toxicMists = {
   type: "world-spell",
   slug: "toxic-mists",
   title: "Toxic Mists",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

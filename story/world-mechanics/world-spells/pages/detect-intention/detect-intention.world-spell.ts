@@ -5,6 +5,6 @@ export const detectIntention = {
   type: "world-spell",
   slug: "detect-intention",
   title: "Detect Intention",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

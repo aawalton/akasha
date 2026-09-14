@@ -5,6 +5,6 @@ export const lawOfTheLucifenPunishArrows = {
   type: "world-spell",
   slug: "law-of-the-lucifen-punish-arrows",
   title: "Law of the Lucifen: Punish Arrows",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

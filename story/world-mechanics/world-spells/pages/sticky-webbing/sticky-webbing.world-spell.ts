@@ -5,6 +5,6 @@ export const stickyWebbing = {
   type: "world-spell",
   slug: "sticky-webbing",
   title: "Sticky Webbing",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

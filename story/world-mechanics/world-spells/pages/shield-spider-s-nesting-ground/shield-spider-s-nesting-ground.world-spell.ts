@@ -5,6 +5,6 @@ export const shieldSpiderSNestingGround = {
   type: "world-spell",
   slug: "shield-spider-s-nesting-ground",
   title: "Shield Spider’s Nesting Ground",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

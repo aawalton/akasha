@@ -5,6 +5,6 @@ export const enchantmentDeepFreeze = {
   type: "world-spell",
   slug: "enchantment-deep-freeze",
   title: "Enchantment: Deep Freeze",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

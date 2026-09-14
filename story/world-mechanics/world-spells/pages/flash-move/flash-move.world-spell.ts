@@ -5,6 +5,6 @@ export const flashMove = {
   type: "world-spell",
   slug: "flash-move",
   title: "Flash Move",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

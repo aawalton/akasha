@@ -5,6 +5,6 @@ export const enhancedSpellMageArmor = {
   type: "world-spell",
   slug: "enhanced-spell-mage-armor",
   title: "Enhanced Spell: Mage Armor",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

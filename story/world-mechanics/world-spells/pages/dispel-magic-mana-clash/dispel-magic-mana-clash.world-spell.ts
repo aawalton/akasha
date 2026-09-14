@@ -5,6 +5,6 @@ export const dispelMagicManaClash = {
   type: "world-spell",
   slug: "dispel-magic-mana-clash",
   title: "Dispel Magic: Mana Clash",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const lesserPolymorph = {
   type: "world-spell",
   slug: "lesser-polymorph",
   title: "Lesser Polymorph",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

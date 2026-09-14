@@ -5,6 +5,6 @@ export const repulsionWave = {
   type: "world-spell",
   slug: "repulsion-wave",
   title: "Repulsion Wave",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const volcanicRainOfTheAshGiant = {
   type: "world-spell",
   slug: "volcanic-rain-of-the-ash-giant",
   title: "Volcanic Rain of the Ash Giant",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

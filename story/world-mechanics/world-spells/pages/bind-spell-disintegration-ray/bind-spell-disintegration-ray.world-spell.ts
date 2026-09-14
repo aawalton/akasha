@@ -5,6 +5,6 @@ export const bindSpellDisintegrationRay = {
   type: "world-spell",
   slug: "bind-spell-disintegration-ray",
   title: "Bind Spell: Disintegration Ray",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

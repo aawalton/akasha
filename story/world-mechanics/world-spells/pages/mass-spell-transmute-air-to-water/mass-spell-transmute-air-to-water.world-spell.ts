@@ -5,6 +5,6 @@ export const massSpellTransmuteAirToWater = {
   type: "world-spell",
   slug: "mass-spell-transmute-air-to-water",
   title: "Mass Spell: Transmute Air to Water",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

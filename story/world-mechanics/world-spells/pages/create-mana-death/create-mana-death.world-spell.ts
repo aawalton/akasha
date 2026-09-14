@@ -5,6 +5,6 @@ export const createManaDeath = {
   type: "world-spell",
   slug: "create-mana-death",
   title: "Create Mana: Death",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

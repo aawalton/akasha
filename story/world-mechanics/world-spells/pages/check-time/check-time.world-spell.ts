@@ -5,6 +5,6 @@ export const checkTime = {
   type: "world-spell",
   slug: "check-time",
   title: "Check Time",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

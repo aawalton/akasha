@@ -5,6 +5,6 @@ export const iCallOpenTheManaforge = {
   type: "world-spell",
   slug: "i-call-open-the-manaforge",
   title: "I Call Open the Manaforge",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

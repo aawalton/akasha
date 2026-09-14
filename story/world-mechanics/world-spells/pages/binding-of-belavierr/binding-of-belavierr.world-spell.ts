@@ -5,6 +5,6 @@ export const bindingOfBelavierr = {
   type: "world-spell",
   slug: "binding-of-belavierr",
   title: "Binding of Belavierr",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const lightBeam = {
   type: "world-spell",
   slug: "light-beam",
   title: "Light Beam",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

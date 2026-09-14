@@ -5,6 +5,6 @@ export const seekerOrb = {
   type: "world-spell",
   slug: "seeker-orb",
   title: "Seeker Orb",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

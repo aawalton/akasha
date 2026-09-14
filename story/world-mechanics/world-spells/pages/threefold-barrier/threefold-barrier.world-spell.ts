@@ -5,6 +5,6 @@ export const threefoldBarrier = {
   type: "world-spell",
   slug: "threefold-barrier",
   title: "Threefold Barrier",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

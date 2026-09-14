@@ -5,6 +5,6 @@ export const auraTracers = {
   type: "world-spell",
   slug: "aura-tracers",
   title: "Aura Tracers",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

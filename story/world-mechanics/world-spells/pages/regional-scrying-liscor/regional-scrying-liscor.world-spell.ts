@@ -5,6 +5,6 @@ export const regionalScryingLiscor = {
   type: "world-spell",
   slug: "regional-scrying-liscor",
   title: "Regional Scrying: Liscor",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const battlemageSFocus = {
   type: "world-spell",
   slug: "battlemage-s-focus",
   title: "Battlemage’s Focus",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

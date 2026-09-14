@@ -5,5 +5,5 @@ export const barrierOfWinds = {
   type: "world-spell",
   slug: "barrier-of-winds",
   title: "Barrier of Winds",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSpell

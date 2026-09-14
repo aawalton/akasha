@@ -5,6 +5,6 @@ export const bubbleOfPurity = {
   type: "world-spell",
   slug: "bubble-of-purity",
   title: "Bubble of Purity",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

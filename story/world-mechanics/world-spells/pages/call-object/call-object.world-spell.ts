@@ -5,6 +5,6 @@ export const callObject = {
   type: "world-spell",
   slug: "call-object",
   title: "Call Object",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

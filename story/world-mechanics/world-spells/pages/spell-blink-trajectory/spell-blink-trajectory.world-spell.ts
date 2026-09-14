@@ -5,6 +5,6 @@ export const spellBlinkTrajectory = {
   type: "world-spell",
   slug: "spell-blink-trajectory",
   title: "Spell: Blink Trajectory",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

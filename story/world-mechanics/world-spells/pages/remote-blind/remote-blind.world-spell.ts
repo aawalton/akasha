@@ -5,6 +5,6 @@ export const remoteBlind = {
   type: "world-spell",
   slug: "remote-blind",
   title: "Remote Blind",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const suspendedMotion = {
   type: "world-spell",
   slug: "suspended-motion",
   title: "Suspended Motion",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const removeMinorStains = {
   type: "world-spell",
   slug: "remove-minor-stains",
   title: "Remove Minor Stains",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

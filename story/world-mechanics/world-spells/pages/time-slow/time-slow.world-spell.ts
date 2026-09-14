@@ -5,6 +5,6 @@ export const timeSlow = {
   type: "world-spell",
   slug: "time-slow",
   title: "Time Slow",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

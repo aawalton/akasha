@@ -5,6 +5,6 @@ export const thornspray = {
   type: "world-spell",
   slug: "thornspray",
   title: "Thornspray",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

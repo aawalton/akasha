@@ -5,6 +5,6 @@ export const arrowOfWinterGlaciusPillar = {
   type: "world-spell",
   slug: "arrow-of-winter-glacius-pillar",
   title: "Arrow of Winter: Glacius Pillar",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

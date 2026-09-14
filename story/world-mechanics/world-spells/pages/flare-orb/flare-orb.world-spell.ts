@@ -5,6 +5,6 @@ export const flareOrb = {
   type: "world-spell",
   slug: "flare-orb",
   title: "Flare Orb",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

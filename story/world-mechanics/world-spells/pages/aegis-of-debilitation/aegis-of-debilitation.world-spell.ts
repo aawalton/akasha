@@ -5,6 +5,6 @@ export const aegisOfDebilitation = {
   type: "world-spell",
   slug: "aegis-of-debilitation",
   title: "Aegis of Debilitation",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

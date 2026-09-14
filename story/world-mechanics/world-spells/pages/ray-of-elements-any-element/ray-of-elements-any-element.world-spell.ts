@@ -5,6 +5,6 @@ export const rayOfElementsAnyElement = {
   type: "world-spell",
   slug: "ray-of-elements-any-element",
   title: "Ray of Elements (Any Element)",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

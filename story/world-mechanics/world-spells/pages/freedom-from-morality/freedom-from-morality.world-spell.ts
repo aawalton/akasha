@@ -5,7 +5,7 @@ export const freedomFromMorality = {
   type: "world-spell",
   slug: "freedom-from-morality",
   title: "Freedom From Morality",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["Freedom from Morality"],
   references: "jsonl",
 } as const satisfies WorldSpell

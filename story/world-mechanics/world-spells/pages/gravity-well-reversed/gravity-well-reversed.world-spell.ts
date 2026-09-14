@@ -5,6 +5,6 @@ export const gravityWellReversed = {
   type: "world-spell",
   slug: "gravity-well-reversed",
   title: "Gravity Well: Reversed",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

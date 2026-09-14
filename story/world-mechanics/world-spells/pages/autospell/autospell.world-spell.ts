@@ -5,6 +5,6 @@ export const autospell = {
   type: "world-spell",
   slug: "autospell",
   title: "Autospell",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

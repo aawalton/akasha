@@ -5,6 +5,6 @@ export const icyShard = {
   type: "world-spell",
   slug: "icy-shard",
   title: "Icy Shard",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

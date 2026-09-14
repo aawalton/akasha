@@ -5,6 +5,6 @@ export const manaFamiliar = {
   type: "world-spell",
   slug: "mana-familiar",
   title: "Mana Familiar",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

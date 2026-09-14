@@ -5,6 +5,6 @@ export const tenfoldRefractionBarrier = {
   type: "world-spell",
   slug: "tenfold-refraction-barrier",
   title: "Tenfold Refraction Barrier",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const immaterialRoomOfForce = {
   type: "world-spell",
   slug: "immaterial-room-of-force",
   title: "Immaterial Room of Force",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const transmutationFlatMudscape = {
   type: "world-spell",
   slug: "transmutation-flat-mudscape",
   title: "Transmutation: Flat Mudscape",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

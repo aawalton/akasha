@@ -5,7 +5,7 @@ export const lightArrow = {
   type: "world-spell",
   slug: "light-arrow",
   title: "Light Arrow",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["light-arrows"],
   references: "jsonl",
 } as const satisfies WorldSpell

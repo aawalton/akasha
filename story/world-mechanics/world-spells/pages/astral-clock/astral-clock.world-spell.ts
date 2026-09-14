@@ -5,6 +5,6 @@ export const astralClock = {
   type: "world-spell",
   slug: "astral-clock",
   title: "Astral Clock",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

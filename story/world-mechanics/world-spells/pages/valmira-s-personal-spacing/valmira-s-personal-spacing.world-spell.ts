@@ -5,6 +5,6 @@ export const valmiraSPersonalSpacing = {
   type: "world-spell",
   slug: "valmira-s-personal-spacing",
   title: "Valmira’s Personal Spacing",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

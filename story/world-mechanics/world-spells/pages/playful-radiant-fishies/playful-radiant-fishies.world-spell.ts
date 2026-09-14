@@ -5,7 +5,7 @@ export const playfulRadiantFishies = {
   type: "world-spell",
   slug: "playful-radiant-fishies",
   title: "Playful Radiant Fishies",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["Playful Radiant…Fishies"],
   references: "jsonl",
 } as const satisfies WorldSpell

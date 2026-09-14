@@ -5,7 +5,7 @@ export const manaArrow = {
   type: "world-spell",
   slug: "mana-arrow",
   title: "Mana Arrow",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesToSlugs: ["mana-bullet"],
   references: "jsonl",
 } as const satisfies WorldSpell

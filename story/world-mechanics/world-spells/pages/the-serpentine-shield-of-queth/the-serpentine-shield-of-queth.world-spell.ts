@@ -5,6 +5,6 @@ export const theSerpentineShieldOfQueth = {
   type: "world-spell",
   slug: "the-serpentine-shield-of-queth",
   title: "The Serpentine Shield of Queth",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

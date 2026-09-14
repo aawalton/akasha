@@ -5,6 +5,6 @@ export const hexEater = {
   type: "world-spell",
   slug: "hex-eater",
   title: "Hex Eater",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

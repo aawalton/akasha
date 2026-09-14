@@ -5,6 +5,6 @@ export const pinpointSpellNeedleSPrecision = {
   type: "world-spell",
   slug: "pinpoint-spell-needle-s-precision",
   title: "Pinpoint Spell: Needle’s Precision",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

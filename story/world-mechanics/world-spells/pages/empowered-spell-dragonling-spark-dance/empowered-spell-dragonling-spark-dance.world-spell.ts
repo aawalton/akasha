@@ -5,6 +5,6 @@ export const empoweredSpellDragonlingSparkDance = {
   type: "world-spell",
   slug: "empowered-spell-dragonling-spark-dance",
   title: "Empowered Spell: Dragonling Spark Dance",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

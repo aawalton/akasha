@@ -5,6 +5,6 @@ export const memoryTranscription = {
   type: "world-spell",
   slug: "memory-transcription",
   title: "Memory Transcription",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

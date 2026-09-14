@@ -5,6 +5,6 @@ export const meteorStrike = {
   type: "world-spell",
   slug: "meteor-strike",
   title: "Meteor Strike",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

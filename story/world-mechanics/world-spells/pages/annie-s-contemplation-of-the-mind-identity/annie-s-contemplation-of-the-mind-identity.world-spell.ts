@@ -5,6 +5,6 @@ export const annieSContemplationOfTheMindIdentity = {
   type: "world-spell",
   slug: "annie-s-contemplation-of-the-mind-identity",
   title: "Annie’s Contemplation of the Mind: Identity",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

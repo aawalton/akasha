@@ -5,6 +5,6 @@ export const doubledEcho = {
   type: "world-spell",
   slug: "doubled-echo",
   title: "Doubled Echo",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

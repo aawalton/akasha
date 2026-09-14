@@ -5,6 +5,6 @@ export const noseOfTheDog = {
   type: "world-spell",
   slug: "nose-of-the-dog",
   title: "Nose of the Dog",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

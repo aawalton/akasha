@@ -5,6 +5,6 @@ export const scourgeColorEverpaleWhite = {
   type: "world-spell",
   slug: "scourge-color-everpale-white",
   title: "Scourge Color: Everpale White",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

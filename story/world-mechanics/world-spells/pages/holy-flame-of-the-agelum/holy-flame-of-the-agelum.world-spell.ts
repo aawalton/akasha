@@ -5,6 +5,6 @@ export const holyFlameOfTheAgelum = {
   type: "world-spell",
   slug: "holy-flame-of-the-agelum",
   title: "Holy Flame of the Agelum",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const displayMemoriesFactoid = {
   type: "world-spell",
   slug: "display-memories-factoid",
   title: "Display Memories: Factoid",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

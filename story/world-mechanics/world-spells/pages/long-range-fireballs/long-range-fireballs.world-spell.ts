@@ -5,6 +5,6 @@ export const longRangeFireballs = {
   type: "world-spell",
   slug: "long-range-fireballs",
   title: "Long Range Fireballs",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

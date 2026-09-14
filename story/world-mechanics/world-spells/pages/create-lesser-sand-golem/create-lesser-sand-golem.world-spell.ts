@@ -5,6 +5,6 @@ export const createLesserSandGolem = {
   type: "world-spell",
   slug: "create-lesser-sand-golem",
   title: "Create Lesser Sand Golem",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

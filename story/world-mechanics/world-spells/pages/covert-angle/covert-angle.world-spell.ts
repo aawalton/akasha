@@ -5,6 +5,6 @@ export const covertAngle = {
   type: "world-spell",
   slug: "covert-angle",
   title: "Covert Angle",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

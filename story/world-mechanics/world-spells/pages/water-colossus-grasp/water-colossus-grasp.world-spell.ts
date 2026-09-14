@@ -5,6 +5,6 @@ export const waterColossusGrasp = {
   type: "world-spell",
   slug: "water-colossus-grasp",
   title: "Water Colossus’ Grasp",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

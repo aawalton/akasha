@@ -5,6 +5,6 @@ export const valeterisaSAnalysisSpectrum = {
   type: "world-spell",
   slug: "valeterisa-s-analysis-spectrum",
   title: "Valeterisa’s Analysis Spectrum",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

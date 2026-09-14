@@ -5,6 +5,6 @@ export const greaterGeas = {
   type: "world-spell",
   slug: "greater-geas",
   title: "Greater Geas",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

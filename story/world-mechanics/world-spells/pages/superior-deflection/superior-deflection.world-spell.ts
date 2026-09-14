@@ -5,6 +5,6 @@ export const superiorDeflection = {
   type: "world-spell",
   slug: "superior-deflection",
   title: "Superior Deflection",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const thunderVolt = {
   type: "world-spell",
   slug: "thunder-volt",
   title: "Thunder Volt",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const scryingPaltFenrisol = {
   type: "world-spell",
   slug: "scrying-palt-fenrisol",
   title: "Scrying: Palt Fenrisol",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

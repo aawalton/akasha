@@ -5,5 +5,5 @@ export const tserreSPoliteInquiry = {
   type: "world-spell",
   slug: "tserre-s-polite-inquiry",
   title: "Tserre’s Polite Inquiry",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const razorwindDisc = {
   type: "world-spell",
   slug: "razorwind-disc",
   title: "Razorwind Disc",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

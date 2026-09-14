@@ -5,6 +5,6 @@ export const oedmanSOstentatiousGastronomicAnalysis = {
   type: "world-spell",
   slug: "oedman-s-ostentatious-gastronomic-analysis",
   title: "Oedman’s Ostentatious Gastronomic Analysis",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

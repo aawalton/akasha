@@ -5,6 +5,6 @@ export const boneCircleAnimateUndead = {
   type: "world-spell",
   slug: "bone-circle-animate-undead",
   title: "Bone Circle: Animate Undead",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

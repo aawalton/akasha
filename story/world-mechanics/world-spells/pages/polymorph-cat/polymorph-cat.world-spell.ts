@@ -5,6 +5,6 @@ export const polymorphCat = {
   type: "world-spell",
   slug: "polymorph-cat",
   title: "Polymorph: Cat",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

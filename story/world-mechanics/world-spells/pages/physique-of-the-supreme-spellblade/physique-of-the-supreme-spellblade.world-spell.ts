@@ -5,6 +5,6 @@ export const physiqueOfTheSupremeSpellblade = {
   type: "world-spell",
   slug: "physique-of-the-supreme-spellblade",
   title: "Physique of the Supreme Spellblade",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

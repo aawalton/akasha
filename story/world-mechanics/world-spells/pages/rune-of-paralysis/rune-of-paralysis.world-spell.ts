@@ -5,6 +5,6 @@ export const runeOfParalysis = {
   type: "world-spell",
   slug: "rune-of-paralysis",
   title: "Rune of Paralysis",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const magicImage = {
   type: "world-spell",
   slug: "magic-image",
   title: "Magic Image",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

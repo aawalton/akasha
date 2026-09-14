@@ -5,6 +5,6 @@ export const blightedBoltOfTheForsakenLands = {
   type: "world-spell",
   slug: "blighted-bolt-of-the-forsaken-lands",
   title: "Blighted Bolt of the Forsaken Lands",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

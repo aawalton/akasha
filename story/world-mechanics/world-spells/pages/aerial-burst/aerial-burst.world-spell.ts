@@ -5,6 +5,6 @@ export const aerialBurst = {
   type: "world-spell",
   slug: "aerial-burst",
   title: "Aerial Burst",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

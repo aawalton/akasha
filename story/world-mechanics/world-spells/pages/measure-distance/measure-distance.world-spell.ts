@@ -5,6 +5,6 @@ export const measureDistance = {
   type: "world-spell",
   slug: "measure-distance",
   title: "Measure Distance",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

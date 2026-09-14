@@ -5,6 +5,6 @@ export const spellWarp = {
   type: "world-spell",
   slug: "spell-warp",
   title: "Spell Warp",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

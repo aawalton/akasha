@@ -5,5 +5,5 @@ export const trueEarthquake = {
   type: "world-spell",
   slug: "true-earthquake",
   title: "True Earthquake",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSpell

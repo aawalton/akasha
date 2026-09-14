@@ -5,6 +5,6 @@ export const millionSigilMagicalArray = {
   type: "world-spell",
   slug: "million-sigil-magical-array",
   title: "Million Sigil Magical Array",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

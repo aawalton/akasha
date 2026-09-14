@@ -5,6 +5,6 @@ export const createGlassBottle = {
   type: "world-spell",
   slug: "create-glass-bottle",
   title: "Create Glass Bottle",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

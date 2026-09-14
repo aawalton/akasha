@@ -5,6 +5,6 @@ export const createObjectMugOfExplosions = {
   type: "world-spell",
   slug: "create-object-mug-of-explosions",
   title: "Create Object: Mug of Explosions",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

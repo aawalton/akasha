@@ -5,5 +5,5 @@ export const conjureWhiteoutBlizzard = {
   type: "world-spell",
   slug: "conjure-whiteout-blizzard",
   title: "Conjure Whiteout Blizzard",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSpell

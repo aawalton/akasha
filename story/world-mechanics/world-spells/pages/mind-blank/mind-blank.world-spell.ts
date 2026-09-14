@@ -5,6 +5,6 @@ export const mindBlank = {
   type: "world-spell",
   slug: "mind-blank",
   title: "Mind Blank",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

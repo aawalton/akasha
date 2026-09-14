@@ -5,6 +5,6 @@ export const graceOfGodResistHardships = {
   type: "world-spell",
   slug: "grace-of-god-resist-hardships",
   title: "Grace of God: Resist Hardships",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

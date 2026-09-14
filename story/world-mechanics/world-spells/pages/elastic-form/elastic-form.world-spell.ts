@@ -5,6 +5,6 @@ export const elasticForm = {
   type: "world-spell",
   slug: "elastic-form",
   title: "Elastic Form",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const fortifiedMaterialSteel = {
   type: "world-spell",
   slug: "fortified-material-steel",
   title: "Fortified Material: Steel",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

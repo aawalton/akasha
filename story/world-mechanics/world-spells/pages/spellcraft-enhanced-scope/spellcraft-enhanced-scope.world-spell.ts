@@ -5,6 +5,6 @@ export const spellcraftEnhancedScope = {
   type: "world-spell",
   slug: "spellcraft-enhanced-scope",
   title: "Spellcraft: Enhanced Scope",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

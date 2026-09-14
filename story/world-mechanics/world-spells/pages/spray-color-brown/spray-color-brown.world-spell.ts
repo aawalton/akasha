@@ -5,6 +5,6 @@ export const sprayColorBrown = {
   type: "world-spell",
   slug: "spray-color-brown",
   title: "Spray Color: Brown",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

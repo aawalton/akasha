@@ -5,5 +5,5 @@ export const natureSStride = {
   type: "world-spell",
   slug: "nature-s-stride",
   title: "Nature’s Stride",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSpell

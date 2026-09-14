@@ -5,6 +5,6 @@ export const spell15SecondMessage = {
   type: "world-spell",
   slug: "spell-15-second-message",
   title: "15 Second Message",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

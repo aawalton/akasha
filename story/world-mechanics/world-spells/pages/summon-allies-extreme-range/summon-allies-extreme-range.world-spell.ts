@@ -5,6 +5,6 @@ export const summonAlliesExtremeRange = {
   type: "world-spell",
   slug: "summon-allies-extreme-range",
   title: "Summon Allies: Extreme Range",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

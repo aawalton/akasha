@@ -5,6 +5,6 @@ export const astralBinding = {
   type: "world-spell",
   slug: "astral-binding",
   title: "Astral Binding",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

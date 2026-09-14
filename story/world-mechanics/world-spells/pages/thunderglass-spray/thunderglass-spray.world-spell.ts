@@ -5,6 +5,6 @@ export const thunderglassSpray = {
   type: "world-spell",
   slug: "thunderglass-spray",
   title: "Thunderglass Spray",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

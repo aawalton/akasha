@@ -5,6 +5,6 @@ export const invisibleFireball = {
   type: "world-spell",
   slug: "invisible-fireball",
   title: "Invisible Fireball",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

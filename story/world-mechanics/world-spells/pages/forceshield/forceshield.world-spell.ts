@@ -5,6 +5,6 @@ export const forceshield = {
   type: "world-spell",
   slug: "forceshield",
   title: "Forceshield",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

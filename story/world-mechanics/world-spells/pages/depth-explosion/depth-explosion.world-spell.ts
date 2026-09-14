@@ -5,6 +5,6 @@ export const depthExplosion = {
   type: "world-spell",
   slug: "depth-explosion",
   title: "Depth Explosion",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

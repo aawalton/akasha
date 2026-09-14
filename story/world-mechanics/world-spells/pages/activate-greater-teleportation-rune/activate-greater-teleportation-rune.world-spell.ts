@@ -5,6 +5,6 @@ export const activateGreaterTeleportationRune = {
   type: "world-spell",
   slug: "activate-greater-teleportation-rune",
   title: "Activate Greater Teleportation Rune",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

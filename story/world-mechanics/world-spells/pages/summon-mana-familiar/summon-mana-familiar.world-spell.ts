@@ -5,6 +5,6 @@ export const summonManaFamiliar = {
   type: "world-spell",
   slug: "summon-mana-familiar",
   title: "Summon Mana Familiar",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,5 +5,5 @@ export const jianShengXinHuoZhiRen = {
   type: "world-spell",
   slug: "jian-sheng-xin-huo-zhi-ren",
   title: "剑圣 – 心火之刃",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSpell

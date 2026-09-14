@@ -5,6 +5,6 @@ export const scribeText = {
   type: "world-spell",
   slug: "scribe-text",
   title: "Scribe Text",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

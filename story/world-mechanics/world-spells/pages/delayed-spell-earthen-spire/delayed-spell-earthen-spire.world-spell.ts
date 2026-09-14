@@ -5,6 +5,6 @@ export const delayedSpellEarthenSpire = {
   type: "world-spell",
   slug: "delayed-spell-earthen-spire",
   title: "Delayed Spell: Earthen Spire",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

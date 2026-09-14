@@ -5,6 +5,6 @@ export const localizedEarthquake = {
   type: "world-spell",
   slug: "localized-earthquake",
   title: "Localized Earthquake",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const lightBubble = {
   type: "world-spell",
   slug: "light-bubble",
   title: "Light Bubble",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

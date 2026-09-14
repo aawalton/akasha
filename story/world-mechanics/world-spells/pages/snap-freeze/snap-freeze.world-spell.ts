@@ -5,6 +5,6 @@ export const snapFreeze = {
   type: "world-spell",
   slug: "snap-freeze",
   title: "Snap Freeze",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

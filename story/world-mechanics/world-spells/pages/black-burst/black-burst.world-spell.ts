@@ -5,6 +5,6 @@ export const blackBurst = {
   type: "world-spell",
   slug: "black-burst",
   title: "Black Burst",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

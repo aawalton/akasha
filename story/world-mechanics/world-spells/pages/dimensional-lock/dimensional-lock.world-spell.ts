@@ -5,6 +5,6 @@ export const dimensionalLock = {
   type: "world-spell",
   slug: "dimensional-lock",
   title: "Dimensional Lock",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const lesserParalysisRay = {
   type: "world-spell",
   slug: "lesser-paralysis-ray",
   title: "Lesser Paralysis Ray",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

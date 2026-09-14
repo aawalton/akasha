@@ -5,6 +5,6 @@ export const dualCastGrandLightning = {
   type: "world-spell",
   slug: "dual-cast-grand-lightning",
   title: "Dual Cast: Grand Lightning",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

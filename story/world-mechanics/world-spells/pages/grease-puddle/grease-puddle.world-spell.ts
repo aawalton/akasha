@@ -5,5 +5,5 @@ export const greasePuddle = {
   type: "world-spell",
   slug: "grease-puddle",
   title: "Grease Puddle",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSpell

@@ -5,5 +5,5 @@ export const condenseWater = {
   type: "world-spell",
   slug: "condense-water",
   title: "Condense Water",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const fieldOfSuppression = {
   type: "world-spell",
   slug: "field-of-suppression",
   title: "Field of Suppression",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

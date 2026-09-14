@@ -5,6 +5,6 @@ export const anchorSpellSelf = {
   type: "world-spell",
   slug: "anchor-spell-self",
   title: "Anchor Spell: Self",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const containedRoom = {
   type: "world-spell",
   slug: "contained-room",
   title: "Contained Room",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

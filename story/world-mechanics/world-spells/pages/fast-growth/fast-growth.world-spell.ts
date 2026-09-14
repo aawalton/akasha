@@ -5,5 +5,5 @@ export const fastGrowth = {
   type: "world-spell",
   slug: "fast-growth",
   title: "Fast Growth",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSpell

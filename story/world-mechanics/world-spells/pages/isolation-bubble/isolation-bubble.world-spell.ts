@@ -5,6 +5,6 @@ export const isolationBubble = {
   type: "world-spell",
   slug: "isolation-bubble",
   title: "Isolation Bubble",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const boundCompression = {
   type: "world-spell",
   slug: "bound-compression",
   title: "Bound Compression",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

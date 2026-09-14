@@ -5,6 +5,6 @@ export const rapierBonecladEnchantment = {
   type: "world-spell",
   slug: "rapier-boneclad-enchantment",
   title: "Rapier: Boneclad Enchantment",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const grandLightningTidalWave = {
   type: "world-spell",
   slug: "grand-lightning-tidal-wave",
   title: "Grand Lightning Tidal Wave",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

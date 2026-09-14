@@ -5,5 +5,5 @@ export const orbOfAirRe = {
   type: "world-spell",
   slug: "orb-of-air-re",
   title: "Orb of Air Re",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSpell

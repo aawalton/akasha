@@ -5,5 +5,5 @@ export const summonFrostElemental = {
   type: "world-spell",
   slug: "summon-frost-elemental",
   title: "Summon Frost Elemental",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldSpell

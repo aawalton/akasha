@@ -5,6 +5,6 @@ export const empoweredDetectTruth = {
   type: "world-spell",
   slug: "empowered-detect-truth",
   title: "Empowered Detect Truth",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const commandAnimal = {
   type: "world-spell",
   slug: "command-animal",
   title: "Command Animal",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

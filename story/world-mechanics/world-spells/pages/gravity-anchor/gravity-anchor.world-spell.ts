@@ -5,6 +5,6 @@ export const gravityAnchor = {
   type: "world-spell",
   slug: "gravity-anchor",
   title: "Gravity Anchor",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

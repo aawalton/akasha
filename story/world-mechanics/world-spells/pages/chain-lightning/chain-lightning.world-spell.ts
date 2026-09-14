@@ -5,7 +5,7 @@ export const chainLightning = {
   type: "world-spell",
   slug: "chain-lightning",
   title: "Chain Lightning",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["Chain…Lightning"],
   references: "jsonl",
 } as const satisfies WorldSpell

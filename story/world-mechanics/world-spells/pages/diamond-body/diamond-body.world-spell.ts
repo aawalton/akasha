@@ -5,6 +5,6 @@ export const diamondBody = {
   type: "world-spell",
   slug: "diamond-body",
   title: "Diamond Body",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell
