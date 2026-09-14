@@ -23,7 +23,11 @@ export const pathNaming = {
     {
       invariantKind: "departure",
       statement:
-        "A body spelling the last part of a path that moves is answered as naming that path.",
+        "A body spelling the last part of a path that moves beside a separator names that path.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A body spelling that last part with no path separator beside it names no path.",
     },
     {
       invariantKind: "departure",

@@ -6,6 +6,8 @@ import {
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { uncommittedHeld } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
+const UNDER = "/"
+
 export type Reading = { readonly importers: readonly string[] } | { readonly unread: string }
 
 function importedBy(given: string | Answering, from: string): readonly string[] {
@@ -37,6 +39,13 @@ export function namesFor(moved: ReadonlyMap<string, string>): readonly string[] 
   return [...new Set([...moved.keys()].map((one) => basename(one)))]
 }
 
+function namesPath(text: string, name: string): boolean {
+  for (let at = text.indexOf(name); at >= 0; at = text.indexOf(name, at + 1)) {
+    if (text[at - 1] === UNDER || text[at + name.length] === UNDER) return true
+  }
+  return false
+}
+
 export function spellersIn(
   paths: readonly string[],
   textAt: (path: string) => string | null,
@@ -49,7 +58,7 @@ export function spellersIn(
     if (moved.has(path) || known.has(path) || uncommittedHeld(path)) continue
     const text = textAt(path)
     if (text === null) continue
-    if (names.some((name) => text.includes(name))) found.push(path)
+    if (names.some((name) => namesPath(text, name))) found.push(path)
   }
   return found
 }

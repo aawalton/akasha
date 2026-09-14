@@ -40,6 +40,11 @@ test("a path that moves is never answered as a body naming what moved", () => {
   expect(spellersIn([HELD, TRACKED], () => HELD, MOVING, new Set())).toEqual([TRACKED])
 })
 
+test("a body spelling that last part with no path separator beside it names no path", () => {
+  const prose = "the held.module.ts was named in a sentence"
+  expect(spellersIn([TRACKED], () => prose, MOVING, new Set())).toEqual([])
+})
+
 test("a body git does not keep is left out of the search, and a tracked one is not", () => {
   const withheld = "akasha/one/holder/holder.module.state.uncommitted.json"
   const said = spellersIn([TRACKED, withheld], () => HELD, MOVING, new Set())
