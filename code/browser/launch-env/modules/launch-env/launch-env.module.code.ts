@@ -10,8 +10,3 @@ export function buildBrowserLaunchEnv(base: EnvSource): Record<string, string> {
   }
   return out
 }
-
-export function buildBrowserLaunchEnvIArgs(base: EnvSource): readonly string[] {
-  const env = buildBrowserLaunchEnv(base)
-  return ["-i", ...Object.entries(env).map(([key, value]) => `${key}=${value}`)]
-}
