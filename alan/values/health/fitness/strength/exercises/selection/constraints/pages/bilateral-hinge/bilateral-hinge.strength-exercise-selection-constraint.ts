@@ -10,11 +10,11 @@ export const bilateralHinge = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Alan's low back rather than his hamstrings ends a hinge on both legs.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A hinge on one leg is left in.",
     },
   ],
