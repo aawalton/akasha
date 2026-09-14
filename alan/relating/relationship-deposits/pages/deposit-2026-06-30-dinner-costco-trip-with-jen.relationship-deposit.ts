@@ -6,7 +6,7 @@ export const deposit20260630DinnerCostcoTripWithJen = {
   slug: "deposit-2026-06-30-dinner-costco-trip-with-jen",
   title: "Deposit — 2026-06-30 — dinner + Costco trip with Jen",
   relationshipDepositDate: "2026-06-30",
-  relationshipDepositPersona: "ruby",
+  relationshipDepositPersona: "persona/ruby",
   relationshipDepositRelationship: "jennifer-walton",
   relationshipDepositSize: "medium",
   relationshipDepositValue: "love",

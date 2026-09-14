@@ -6,7 +6,7 @@ export const deposit20260630CartMilkGarbageBagsForJenAtCostco = {
   slug: "deposit-2026-06-30-cart-milk-garbage-bags-for-jen-at-costco",
   title: "Deposit — 2026-06-30 — cart, milk, garbage bags for Jen at Costco",
   relationshipDepositDate: "2026-06-30",
-  relationshipDepositPersona: "ruby",
+  relationshipDepositPersona: "persona/ruby",
   relationshipDepositRelationship: "jennifer-walton",
   relationshipDepositSize: "small",
   relationshipDepositValue: "love",
