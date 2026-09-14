@@ -15,8 +15,6 @@ import { dayValuesByDate } from "akasha/alan/track/daily/modules/day-reading/day
 import type { Query } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
 import { askingFor } from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
 
-export const SLEEP_HOURS_KEY = "sleep-hours"
-
 export interface Readout {
   readonly slug: string
   readonly label: string

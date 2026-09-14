@@ -171,10 +171,3 @@ export function chunkForContinuousRenderWithFlags(
   if (current.length > 0) chunks.push({ text: current, startsParagraph: true })
   return chunks.slice(0, MAX_SPEECH_SEGMENTS)
 }
-
-export function chunkForContinuousRender(
-  content: string,
-  opts?: { readonly maxChars?: number }
-): readonly string[] {
-  return chunkForContinuousRenderWithFlags(content, opts).map((chunk) => chunk.text)
-}
