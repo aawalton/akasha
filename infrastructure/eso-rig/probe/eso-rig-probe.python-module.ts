@@ -9,31 +9,31 @@ export const esoRigProbe = {
   bytecodeDirectory: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The virtual keyboard exists only while this module's process lives.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The X server starts after the event node appears.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Creating the device and injecting on the device are separate commands.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The event node is found by walking devtmpfs rather than by asking evdev.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A capture that is uniformly one color is a blank frame reporting success.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The frame comparison is a count of differing pixels rather than a boolean.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each subcommand prints one line of key and value pairs on standard output.",
     },
   ],
