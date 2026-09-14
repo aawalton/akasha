@@ -5,7 +5,7 @@ export const strangerThings = {
   type: "show",
   slug: "stranger-things",
   title: "Stranger Things",
-  partOfCollections: ["award-winning-shows"],
+  partOfCollections: ["show-collection/award-winning-shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

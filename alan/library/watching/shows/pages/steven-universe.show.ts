@@ -5,7 +5,7 @@ export const stevenUniverse = {
   type: "show",
   slug: "steven-universe",
   title: "Steven Universe",
-  partOfCollections: ["cultural-literacy"],
+  partOfCollections: ["show-collection/cultural-literacy"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

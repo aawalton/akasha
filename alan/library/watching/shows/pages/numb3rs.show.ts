@@ -5,7 +5,7 @@ export const numb3rs = {
   type: "show",
   slug: "numb3rs",
   title: "Numb3rs",
-  partOfCollections: ["crime-investigation-shows"],
+  partOfCollections: ["show-collection/crime-investigation-shows"],
   position: 11,
   ownLength: 0,
   ownProgress: 0,

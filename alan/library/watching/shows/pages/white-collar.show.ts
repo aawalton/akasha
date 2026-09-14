@@ -5,7 +5,10 @@ export const whiteCollar = {
   type: "show",
   slug: "white-collar",
   title: "White Collar",
-  partOfCollections: ["crime-investigation-shows", "watch-with-jen"],
+  partOfCollections: [
+    "show-collection/crime-investigation-shows",
+    "show-collection/watch-with-jen",
+  ],
   position: 7,
   ownLength: 0,
   ownProgress: 0,

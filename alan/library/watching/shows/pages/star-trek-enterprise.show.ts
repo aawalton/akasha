@@ -5,7 +5,7 @@ export const starTrekEnterprise = {
   type: "show",
   slug: "star-trek-enterprise",
   title: "Star Trek: Enterprise",
-  partOfCollections: ["star-trek-3"],
+  partOfCollections: ["fandom/star-trek-3"],
   position: 15,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const stargateUniverse = {
   type: "show",
   slug: "stargate-universe",
   title: "Stargate Universe",
-  partOfCollections: ["stargate-2"],
+  partOfCollections: ["fandom/stargate-2"],
   position: 4,
   ownLength: 0,
   ownProgress: 0,

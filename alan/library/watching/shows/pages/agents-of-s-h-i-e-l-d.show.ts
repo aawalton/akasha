@@ -5,7 +5,7 @@ export const agentsOfSHIELD = {
   type: "show",
   slug: "agents-of-s-h-i-e-l-d",
   title: "Agents of S.H.I.E.L.D.",
-  partOfCollections: ["marvel-television"],
+  partOfCollections: ["fandom/marvel-television"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

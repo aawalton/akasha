@@ -5,7 +5,7 @@ export const ncisSydney = {
   type: "show",
   slug: "ncis-sydney",
   title: "NCIS: Sydney",
-  partOfCollections: ["ncis-2"],
+  partOfCollections: ["show-collection/ncis-2"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

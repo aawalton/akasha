@@ -5,7 +5,7 @@ export const ncisOrigins = {
   type: "show",
   slug: "ncis-origins",
   title: "NCIS: Origins",
-  partOfCollections: ["ncis-2"],
+  partOfCollections: ["show-collection/ncis-2"],
   position: 6,
   ownLength: 0,
   ownProgress: 0,

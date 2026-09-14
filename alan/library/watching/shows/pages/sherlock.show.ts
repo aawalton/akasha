@@ -5,7 +5,7 @@ export const sherlock = {
   type: "show",
   slug: "sherlock",
   title: "Sherlock",
-  partOfCollections: ["crime-investigation-shows"],
+  partOfCollections: ["show-collection/crime-investigation-shows"],
   position: 8,
   ownLength: 0,
   ownProgress: 0,

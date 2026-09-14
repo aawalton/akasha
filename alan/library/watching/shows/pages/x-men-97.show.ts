@@ -5,7 +5,7 @@ export const xMen97 = {
   type: "show",
   slug: "x-men-97",
   title: "X-Men '97",
-  partOfCollections: ["marvel-cinematic-universe"],
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
   position: 49,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const stargateInfinity = {
   type: "show",
   slug: "stargate-infinity",
   title: "Stargate Infinity",
-  partOfCollections: ["stargate-2"],
+  partOfCollections: ["fandom/stargate-2"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const soloLeveling = {
   type: "show",
   slug: "solo-leveling",
   title: "Solo Leveling",
-  partOfCollections: ["anime-shows"],
+  partOfCollections: ["show-collection/anime-shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

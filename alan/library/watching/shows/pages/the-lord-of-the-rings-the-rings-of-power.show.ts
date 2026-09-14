@@ -5,7 +5,7 @@ export const theLordOfTheRingsTheRingsOfPower = {
   type: "show",
   slug: "the-lord-of-the-rings-the-rings-of-power",
   title: "The Lord of the Rings: The Rings of Power",
-  partOfCollections: ["the-lord-of-the-rings-shows"],
+  partOfCollections: ["show-collection/the-lord-of-the-rings-shows"],
   position: 7,
   ownLength: 0,
   ownProgress: 0,

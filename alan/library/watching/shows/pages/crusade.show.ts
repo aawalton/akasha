@@ -5,7 +5,7 @@ export const crusade = {
   type: "show",
   slug: "crusade",
   title: "Crusade",
-  partOfCollections: ["babylon-5-2"],
+  partOfCollections: ["fandom/babylon-5-2"],
   position: 7,
   ownLength: 0,
   ownProgress: 0,

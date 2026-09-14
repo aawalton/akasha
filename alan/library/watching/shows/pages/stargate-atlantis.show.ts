@@ -5,7 +5,7 @@ export const stargateAtlantis = {
   type: "show",
   slug: "stargate-atlantis",
   title: "Stargate Atlantis",
-  partOfCollections: ["stargate-2"],
+  partOfCollections: ["fandom/stargate-2"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

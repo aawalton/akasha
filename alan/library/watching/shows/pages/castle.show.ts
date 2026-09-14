@@ -5,7 +5,10 @@ export const castle = {
   type: "show",
   slug: "castle",
   title: "Castle",
-  partOfCollections: ["crime-investigation-shows", "watch-with-jen"],
+  partOfCollections: [
+    "show-collection/crime-investigation-shows",
+    "show-collection/watch-with-jen",
+  ],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

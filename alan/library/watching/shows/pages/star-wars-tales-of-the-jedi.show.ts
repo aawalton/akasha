@@ -5,7 +5,7 @@ export const starWarsTalesOfTheJedi = {
   type: "show",
   slug: "star-wars-tales-of-the-jedi",
   title: "Star Wars: Tales of the Jedi",
-  partOfCollections: ["star-wars-2"],
+  partOfCollections: ["fandom/star-wars-2"],
   position: 21,
   ownLength: 0,
   ownProgress: 0,

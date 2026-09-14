@@ -5,7 +5,7 @@ export const duneProphecy = {
   type: "show",
   slug: "dune-prophecy",
   title: "Dune: Prophecy",
-  partOfCollections: ["dune-2"],
+  partOfCollections: ["fandom/dune-2"],
   position: 6,
   ownLength: 0,
   ownProgress: 0,

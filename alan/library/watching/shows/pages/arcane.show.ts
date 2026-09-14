@@ -5,7 +5,7 @@ export const arcane = {
   type: "show",
   slug: "arcane",
   title: "Arcane",
-  partOfCollections: ["league-of-legends"],
+  partOfCollections: ["fandom/league-of-legends"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

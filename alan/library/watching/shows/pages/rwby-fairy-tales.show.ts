@@ -5,7 +5,7 @@ export const rwbyFairyTales = {
   type: "show",
   slug: "rwby-fairy-tales",
   title: "RWBY: Fairy Tales",
-  partOfCollections: ["rwby"],
+  partOfCollections: ["fandom/rwby"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

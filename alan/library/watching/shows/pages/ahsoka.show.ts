@@ -5,7 +5,7 @@ export const ahsoka = {
   type: "show",
   slug: "ahsoka",
   title: "Ahsoka",
-  partOfCollections: ["star-wars-2"],
+  partOfCollections: ["fandom/star-wars-2"],
   position: 22,
   ownLength: 0,
   ownProgress: 0,

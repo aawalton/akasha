@@ -5,7 +5,7 @@ export const gameOfThrones = {
   type: "show",
   slug: "game-of-thrones",
   title: "Game of Thrones",
-  partOfCollections: ["game-of-thrones-2"],
+  partOfCollections: ["fandom/game-of-thrones-2"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

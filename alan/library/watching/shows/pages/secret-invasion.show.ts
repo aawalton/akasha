@@ -5,7 +5,7 @@ export const secretInvasion = {
   type: "show",
   slug: "secret-invasion",
   title: "Secret Invasion",
-  partOfCollections: ["marvel-cinematic-universe"],
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
   position: 42,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const babylon5 = {
   type: "show",
   slug: "babylon-5",
   title: "Babylon 5",
-  partOfCollections: ["babylon-5-2"],
+  partOfCollections: ["fandom/babylon-5-2"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

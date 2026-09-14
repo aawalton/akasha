@@ -5,7 +5,7 @@ export const cloakAndDagger = {
   type: "show",
   slug: "cloak-and-dagger",
   title: "Cloak & Dagger",
-  partOfCollections: ["marvel-television"],
+  partOfCollections: ["fandom/marvel-television"],
   position: 11,
   ownLength: 0,
   ownProgress: 0,

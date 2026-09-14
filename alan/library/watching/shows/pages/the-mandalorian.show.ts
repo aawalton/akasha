@@ -5,7 +5,7 @@ export const theMandalorian = {
   type: "show",
   slug: "the-mandalorian",
   title: "The Mandalorian",
-  partOfCollections: ["star-wars-2"],
+  partOfCollections: ["fandom/star-wars-2"],
   position: 16,
   ownLength: 0,
   ownProgress: 0,

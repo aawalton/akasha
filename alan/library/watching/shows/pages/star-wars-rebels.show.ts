@@ -5,7 +5,7 @@ export const starWarsRebels = {
   type: "show",
   slug: "star-wars-rebels",
   title: "Star Wars Rebels",
-  partOfCollections: ["star-wars-2"],
+  partOfCollections: ["fandom/star-wars-2"],
   position: 9,
   ownLength: 0,
   ownProgress: 0,

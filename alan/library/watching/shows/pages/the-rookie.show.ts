@@ -5,7 +5,10 @@ export const theRookie = {
   type: "show",
   slug: "the-rookie",
   title: "The Rookie",
-  partOfCollections: ["crime-investigation-shows", "watch-with-jen"],
+  partOfCollections: [
+    "show-collection/crime-investigation-shows",
+    "show-collection/watch-with-jen",
+  ],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

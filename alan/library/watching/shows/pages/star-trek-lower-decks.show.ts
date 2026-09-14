@@ -5,7 +5,7 @@ export const starTrekLowerDecks = {
   type: "show",
   slug: "star-trek-lower-decks",
   title: "Star Trek: Lower Decks",
-  partOfCollections: ["star-trek-3"],
+  partOfCollections: ["fandom/star-trek-3"],
   position: 23,
   ownLength: 0,
   ownProgress: 0,

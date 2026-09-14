@@ -5,7 +5,7 @@ export const showClass = {
   type: "show",
   slug: "show-class",
   title: "Class",
-  partOfCollections: ["doctor-who"],
+  partOfCollections: ["fandom/doctor-who"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

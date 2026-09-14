@@ -5,7 +5,7 @@ export const scorpion = {
   type: "show",
   slug: "scorpion",
   title: "Scorpion",
-  partOfCollections: ["crime-investigation-shows"],
+  partOfCollections: ["show-collection/crime-investigation-shows"],
   position: 9,
   ownLength: 0,
   ownProgress: 0,

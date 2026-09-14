@@ -5,7 +5,7 @@ export const starWarsResistance = {
   type: "show",
   slug: "star-wars-resistance",
   title: "Star Wars Resistance",
-  partOfCollections: ["star-wars-2"],
+  partOfCollections: ["fandom/star-wars-2"],
   position: 14,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const rwby2 = {
   type: "show",
   slug: "rwby-2",
   title: "RWBY",
-  partOfCollections: ["rwby"],
+  partOfCollections: ["fandom/rwby"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

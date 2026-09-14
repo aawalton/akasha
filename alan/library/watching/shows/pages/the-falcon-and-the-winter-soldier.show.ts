@@ -5,7 +5,7 @@ export const theFalconAndTheWinterSoldier = {
   type: "show",
   slug: "the-falcon-and-the-winter-soldier",
   title: "The Falcon and the Winter Soldier",
-  partOfCollections: ["marvel-cinematic-universe"],
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
   position: 29,
   ownLength: 0,
   ownProgress: 0,

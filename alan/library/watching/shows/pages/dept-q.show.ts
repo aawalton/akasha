@@ -5,7 +5,7 @@ export const deptQ = {
   type: "show",
   slug: "dept-q",
   title: "Dept. Q",
-  partOfCollections: ["crime-investigation-shows"],
+  partOfCollections: ["show-collection/crime-investigation-shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

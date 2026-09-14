@@ -5,7 +5,7 @@ export const starTrekDiscovery = {
   type: "show",
   slug: "star-trek-discovery",
   title: "Star Trek: Discovery",
-  partOfCollections: ["star-trek-3"],
+  partOfCollections: ["fandom/star-trek-3"],
   position: 20,
   ownLength: 0,
   ownProgress: 0,

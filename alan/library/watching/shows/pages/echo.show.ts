@@ -5,7 +5,7 @@ export const echo = {
   type: "show",
   slug: "echo",
   title: "Echo",
-  partOfCollections: ["marvel-cinematic-universe"],
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
   position: 48,
   ownLength: 0,
   ownProgress: 0,

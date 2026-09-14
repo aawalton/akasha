@@ -5,7 +5,7 @@ export const studioC = {
   type: "show",
   slug: "studio-c",
   title: "Studio C",
-  partOfCollections: ["comedy-shows", "watch-with-lizzy"],
+  partOfCollections: ["show-collection/comedy-shows", "show-collection/watch-with-lizzy"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

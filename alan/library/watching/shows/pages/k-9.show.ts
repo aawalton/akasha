@@ -5,7 +5,7 @@ export const k9 = {
   type: "show",
   slug: "k-9",
   title: "K-9",
-  partOfCollections: ["doctor-who"],
+  partOfCollections: ["fandom/doctor-who"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

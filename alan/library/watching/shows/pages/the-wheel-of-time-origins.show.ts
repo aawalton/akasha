@@ -5,7 +5,7 @@ export const theWheelOfTimeOrigins = {
   type: "show",
   slug: "the-wheel-of-time-origins",
   title: "The Wheel of Time: Origins",
-  partOfCollections: ["the-wheel-of-time-2"],
+  partOfCollections: ["fandom/the-wheel-of-time-2"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

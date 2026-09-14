@@ -5,7 +5,7 @@ export const downtonAbbey = {
   type: "show",
   slug: "downton-abbey",
   title: "Downton Abbey",
-  partOfCollections: ["sitcoms"],
+  partOfCollections: ["show-collection/sitcoms"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

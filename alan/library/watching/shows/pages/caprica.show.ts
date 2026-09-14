@@ -5,7 +5,7 @@ export const caprica = {
   type: "show",
   slug: "caprica",
   title: "Caprica",
-  partOfCollections: ["battlestar-galactica"],
+  partOfCollections: ["fandom/battlestar-galactica"],
   position: 6,
   ownLength: 0,
   ownProgress: 0,

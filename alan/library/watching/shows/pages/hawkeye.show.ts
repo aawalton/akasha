@@ -5,7 +5,7 @@ export const hawkeye = {
   type: "show",
   slug: "hawkeye",
   title: "Hawkeye",
-  partOfCollections: ["marvel-cinematic-universe"],
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
   position: 32,
   ownLength: 0,
   ownProgress: 0,

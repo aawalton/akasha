@@ -5,7 +5,7 @@ export const andor = {
   type: "show",
   slug: "andor",
   title: "Andor",
-  partOfCollections: ["star-wars-2"],
+  partOfCollections: ["fandom/star-wars-2"],
   position: 20,
   ownLength: 0,
   ownProgress: 0,

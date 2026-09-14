@@ -5,7 +5,7 @@ export const ironheart = {
   type: "show",
   slug: "ironheart",
   title: "Ironheart",
-  partOfCollections: ["marvel-cinematic-universe"],
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
   position: 58,
   ownLength: 0,
   ownProgress: 0,

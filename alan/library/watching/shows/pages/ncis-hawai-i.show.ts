@@ -5,7 +5,7 @@ export const ncisHawaiI = {
   type: "show",
   slug: "ncis-hawai-i",
   title: "NCIS: Hawai'i",
-  partOfCollections: ["ncis-2"],
+  partOfCollections: ["show-collection/ncis-2"],
   position: 4,
   ownLength: 0,
   ownProgress: 0,

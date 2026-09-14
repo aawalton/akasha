@@ -5,7 +5,7 @@ export const manifest = {
   type: "show",
   slug: "manifest",
   title: "Manifest",
-  partOfCollections: ["watch-with-jen"],
+  partOfCollections: ["show-collection/watch-with-jen"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

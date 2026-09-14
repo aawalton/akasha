@@ -5,7 +5,7 @@ export const runaways = {
   type: "show",
   slug: "runaways",
   title: "Runaways",
-  partOfCollections: ["marvel-television"],
+  partOfCollections: ["fandom/marvel-television"],
   position: 10,
   ownLength: 0,
   ownProgress: 0,

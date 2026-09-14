@@ -5,7 +5,7 @@ export const ironFist = {
   type: "show",
   slug: "iron-fist",
   title: "Iron Fist",
-  partOfCollections: ["marvel-television"],
+  partOfCollections: ["fandom/marvel-television"],
   position: 6,
   ownLength: 0,
   ownProgress: 0,

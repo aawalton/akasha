@@ -5,7 +5,7 @@ export const theDefenders = {
   type: "show",
   slug: "the-defenders",
   title: "The Defenders",
-  partOfCollections: ["marvel-television"],
+  partOfCollections: ["fandom/marvel-television"],
   position: 7,
   ownLength: 0,
   ownProgress: 0,

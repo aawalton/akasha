@@ -5,7 +5,7 @@ export const starWarsTheBadBatch = {
   type: "show",
   slug: "star-wars-the-bad-batch",
   title: "Star Wars: The Bad Batch",
-  partOfCollections: ["star-wars-2"],
+  partOfCollections: ["fandom/star-wars-2"],
   position: 17,
   ownLength: 0,
   ownProgress: 0,

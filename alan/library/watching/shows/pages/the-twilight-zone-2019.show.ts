@@ -5,7 +5,7 @@ export const theTwilightZone2019 = {
   type: "show",
   slug: "the-twilight-zone-2019",
   title: "The Twilight Zone (2019)",
-  partOfCollections: ["the-twilight-zone"],
+  partOfCollections: ["show-collection/the-twilight-zone"],
   position: 2019,
   ownLength: 0,
   ownProgress: 0,

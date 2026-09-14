@@ -5,7 +5,7 @@ export const wednesday = {
   type: "show",
   slug: "wednesday",
   title: "Wednesday",
-  partOfCollections: ["award-winning-shows"],
+  partOfCollections: ["show-collection/award-winning-shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

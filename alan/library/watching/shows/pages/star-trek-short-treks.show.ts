@@ -5,7 +5,7 @@ export const starTrekShortTreks = {
   type: "show",
   slug: "star-trek-short-treks",
   title: "Star Trek: Short Treks",
-  partOfCollections: ["star-trek-3"],
+  partOfCollections: ["fandom/star-trek-3"],
   position: 21,
   ownLength: 0,
   ownProgress: 0,

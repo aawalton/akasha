@@ -5,7 +5,7 @@ export const starTrekTheAnimatedSeries = {
   type: "show",
   slug: "star-trek-the-animated-series",
   title: "Star Trek: The Animated Series",
-  partOfCollections: ["star-trek-3"],
+  partOfCollections: ["fandom/star-trek-3"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

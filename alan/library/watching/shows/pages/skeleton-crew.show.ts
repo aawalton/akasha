@@ -5,7 +5,7 @@ export const skeletonCrew = {
   type: "show",
   slug: "skeleton-crew",
   title: "Skeleton Crew",
-  partOfCollections: ["star-wars-2"],
+  partOfCollections: ["fandom/star-wars-2"],
   position: 24,
   ownLength: 0,
   ownProgress: 0,

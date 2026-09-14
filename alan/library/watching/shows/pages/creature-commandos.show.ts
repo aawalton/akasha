@@ -5,7 +5,7 @@ export const creatureCommandos = {
   type: "show",
   slug: "creature-commandos",
   title: "Creature Commandos",
-  partOfCollections: ["dc-universe"],
+  partOfCollections: ["fandom/dc-universe"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

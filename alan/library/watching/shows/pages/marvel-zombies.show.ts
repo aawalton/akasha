@@ -5,7 +5,7 @@ export const marvelZombies = {
   type: "show",
   slug: "marvel-zombies",
   title: "Marvel Zombies",
-  partOfCollections: ["marvel-cinematic-universe"],
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
   position: 59,
   ownLength: 0,
   ownProgress: 0,

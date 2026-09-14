@@ -5,7 +5,7 @@ export const starTrekTheNextGeneration = {
   type: "show",
   slug: "star-trek-the-next-generation",
   title: "Star Trek: The Next Generation",
-  partOfCollections: ["star-trek-3"],
+  partOfCollections: ["fandom/star-trek-3"],
   position: 7,
   ownLength: 0,
   ownProgress: 0,

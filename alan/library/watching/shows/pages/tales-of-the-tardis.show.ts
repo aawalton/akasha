@@ -5,7 +5,7 @@ export const talesOfTheTardis = {
   type: "show",
   slug: "tales-of-the-tardis",
   title: "Tales of the TARDIS",
-  partOfCollections: ["doctor-who"],
+  partOfCollections: ["fandom/doctor-who"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

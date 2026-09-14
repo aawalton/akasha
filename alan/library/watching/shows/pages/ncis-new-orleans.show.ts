@@ -5,7 +5,7 @@ export const ncisNewOrleans = {
   type: "show",
   slug: "ncis-new-orleans",
   title: "NCIS: New Orleans",
-  partOfCollections: ["ncis-2"],
+  partOfCollections: ["show-collection/ncis-2"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

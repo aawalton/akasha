@@ -5,7 +5,7 @@ export const torchwood = {
   type: "show",
   slug: "torchwood",
   title: "Torchwood",
-  partOfCollections: ["doctor-who"],
+  partOfCollections: ["fandom/doctor-who"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

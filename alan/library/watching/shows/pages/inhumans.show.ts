@@ -5,7 +5,7 @@ export const inhumans = {
   type: "show",
   slug: "inhumans",
   title: "Inhumans",
-  partOfCollections: ["marvel-television"],
+  partOfCollections: ["fandom/marvel-television"],
   position: 8,
   ownLength: 0,
   ownProgress: 0,

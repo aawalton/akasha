@@ -5,7 +5,7 @@ export const theDragonPrince = {
   type: "show",
   slug: "the-dragon-prince",
   title: "The Dragon Prince",
-  partOfCollections: ["family-friendly-shows"],
+  partOfCollections: ["show-collection/family-friendly-shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

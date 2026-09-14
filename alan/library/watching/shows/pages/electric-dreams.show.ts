@@ -5,7 +5,7 @@ export const electricDreams = {
   type: "show",
   slug: "electric-dreams",
   title: "Electric Dreams",
-  partOfCollections: ["speculative-antholoagies"],
+  partOfCollections: ["show-collection/speculative-antholoagies"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

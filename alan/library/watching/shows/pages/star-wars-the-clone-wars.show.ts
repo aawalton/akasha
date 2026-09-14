@@ -5,7 +5,7 @@ export const starWarsTheCloneWars = {
   type: "show",
   slug: "star-wars-the-clone-wars",
   title: "Star Wars: The Clone Wars",
-  partOfCollections: ["star-wars-2"],
+  partOfCollections: ["fandom/star-wars-2"],
   position: 8,
   ownLength: 0,
   ownProgress: 0,

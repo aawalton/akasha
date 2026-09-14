@@ -5,7 +5,7 @@ export const starTrekProdigy = {
   type: "show",
   slug: "star-trek-prodigy",
   title: "Star Trek: Prodigy",
-  partOfCollections: ["star-trek-3"],
+  partOfCollections: ["fandom/star-trek-3"],
   position: 24,
   ownLength: 0,
   ownProgress: 0,

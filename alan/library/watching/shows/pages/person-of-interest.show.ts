@@ -5,7 +5,7 @@ export const personOfInterest = {
   type: "show",
   slug: "person-of-interest",
   title: "Person of Interest",
-  partOfCollections: ["science-fiction-shows"],
+  partOfCollections: ["show-collection/science-fiction-shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

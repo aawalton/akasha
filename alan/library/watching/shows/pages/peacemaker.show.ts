@@ -5,7 +5,7 @@ export const peacemaker = {
   type: "show",
   slug: "peacemaker",
   title: "Peacemaker",
-  partOfCollections: ["dc-universe"],
+  partOfCollections: ["fandom/dc-universe"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

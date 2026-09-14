@@ -5,7 +5,7 @@ export const daredevil = {
   type: "show",
   slug: "daredevil",
   title: "Daredevil",
-  partOfCollections: ["marvel-television"],
+  partOfCollections: ["fandom/marvel-television"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

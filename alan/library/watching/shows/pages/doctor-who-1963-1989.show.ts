@@ -5,7 +5,7 @@ export const doctorWho19631989 = {
   type: "show",
   slug: "doctor-who-1963-1989",
   title: "Doctor Who (1963-1989)",
-  partOfCollections: ["doctor-who"],
+  partOfCollections: ["fandom/doctor-who"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

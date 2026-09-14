@@ -5,7 +5,7 @@ export const theAcolyte = {
   type: "show",
   slug: "the-acolyte",
   title: "The Acolyte",
-  partOfCollections: ["star-wars-2"],
+  partOfCollections: ["fandom/star-wars-2"],
   position: 23,
   ownLength: 0,
   ownProgress: 0,

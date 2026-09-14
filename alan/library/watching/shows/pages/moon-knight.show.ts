@@ -5,7 +5,7 @@ export const moonKnight = {
   type: "show",
   slug: "moon-knight",
   title: "Moon Knight",
-  partOfCollections: ["marvel-cinematic-universe"],
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
   position: 34,
   ownLength: 0,
   ownProgress: 0,

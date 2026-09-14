@@ -5,7 +5,7 @@ export const warehouse13 = {
   type: "show",
   slug: "warehouse-13",
   title: "Warehouse 13",
-  partOfCollections: ["speculative-antholoagies"],
+  partOfCollections: ["show-collection/speculative-antholoagies"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

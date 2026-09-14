@@ -5,7 +5,7 @@ export const returnToThePlanetOfTheApes = {
   type: "show",
   slug: "return-to-the-planet-of-the-apes",
   title: "Return to the Planet of the Apes",
-  partOfCollections: ["planet-of-the-apes-2"],
+  partOfCollections: ["fandom/planet-of-the-apes-2"],
   position: 7,
   ownLength: 0,
   ownProgress: 0,

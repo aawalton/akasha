@@ -5,7 +5,7 @@ export const agathaAllAlong = {
   type: "show",
   slug: "agatha-all-along",
   title: "Agatha All Along",
-  partOfCollections: ["marvel-cinematic-universe"],
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
   position: 51,
   ownLength: 0,
   ownProgress: 0,

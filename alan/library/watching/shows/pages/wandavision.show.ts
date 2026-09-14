@@ -5,7 +5,7 @@ export const wandavision = {
   type: "show",
   slug: "wandavision",
   title: "WandaVision",
-  partOfCollections: ["marvel-cinematic-universe"],
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
   position: 28,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const thePunisher = {
   type: "show",
   slug: "the-punisher",
   title: "The Punisher",
-  partOfCollections: ["marvel-television"],
+  partOfCollections: ["fandom/marvel-television"],
   position: 9,
   ownLength: 0,
   ownProgress: 0,

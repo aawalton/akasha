@@ -5,7 +5,7 @@ export const frierenBeyondJourneySEnd2 = {
   type: "show",
   slug: "frieren-beyond-journey-s-end-2",
   title: "Frieren: Beyond Journey's End",
-  partOfCollections: ["frieren-beyond-journey-s-end"],
+  partOfCollections: ["fandom/frieren-beyond-journey-s-end"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

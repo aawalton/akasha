@@ -5,7 +5,7 @@ export const theBigBangTheory = {
   type: "show",
   slug: "the-big-bang-theory",
   title: "The Big Bang Theory",
-  partOfCollections: ["sitcoms"],
+  partOfCollections: ["show-collection/sitcoms"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

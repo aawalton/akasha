@@ -5,7 +5,7 @@ export const helstrom = {
   type: "show",
   slug: "helstrom",
   title: "Helstrom",
-  partOfCollections: ["marvel-television"],
+  partOfCollections: ["fandom/marvel-television"],
   position: 12,
   ownLength: 0,
   ownProgress: 0,

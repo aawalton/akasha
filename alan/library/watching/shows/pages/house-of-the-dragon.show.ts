@@ -5,7 +5,7 @@ export const houseOfTheDragon = {
   type: "show",
   slug: "house-of-the-dragon",
   title: "House of the Dragon",
-  partOfCollections: ["game-of-thrones-2"],
+  partOfCollections: ["fandom/game-of-thrones-2"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const theTwilightZone2002 = {
   type: "show",
   slug: "the-twilight-zone-2002",
   title: "The Twilight Zone (2002)",
-  partOfCollections: ["the-twilight-zone"],
+  partOfCollections: ["show-collection/the-twilight-zone"],
   position: 2002,
   ownLength: 0,
   ownProgress: 0,

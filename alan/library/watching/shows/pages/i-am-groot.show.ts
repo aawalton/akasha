@@ -5,7 +5,7 @@ export const iAmGroot = {
   type: "show",
   slug: "i-am-groot",
   title: "I Am Groot",
-  partOfCollections: ["marvel-cinematic-universe"],
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
   position: 36,
   ownLength: 0,
   ownProgress: 0,

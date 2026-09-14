@@ -5,7 +5,7 @@ export const bluey = {
   type: "show",
   slug: "bluey",
   title: "Bluey",
-  partOfCollections: ["family-friendly-shows"],
+  partOfCollections: ["show-collection/family-friendly-shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

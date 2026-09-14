@@ -5,7 +5,7 @@ export const elementary = {
   type: "show",
   slug: "elementary",
   title: "Elementary",
-  partOfCollections: ["crime-investigation-shows"],
+  partOfCollections: ["show-collection/crime-investigation-shows"],
   position: 10,
   ownLength: 0,
   ownProgress: 0,

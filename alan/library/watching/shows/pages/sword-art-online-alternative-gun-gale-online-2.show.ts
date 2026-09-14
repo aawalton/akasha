@@ -5,7 +5,7 @@ export const swordArtOnlineAlternativeGunGaleOnline2 = {
   type: "show",
   slug: "sword-art-online-alternative-gun-gale-online-2",
   title: "Sword Art Online Alternative: Gun Gale Online",
-  partOfCollections: ["sword-art-online-shows"],
+  partOfCollections: ["show-collection/sword-art-online-shows"],
   position: 8,
   ownLength: 0,
   ownProgress: 0,

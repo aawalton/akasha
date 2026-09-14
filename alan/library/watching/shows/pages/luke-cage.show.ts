@@ -5,7 +5,7 @@ export const lukeCage = {
   type: "show",
   slug: "luke-cage",
   title: "Luke Cage",
-  partOfCollections: ["marvel-television"],
+  partOfCollections: ["fandom/marvel-television"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

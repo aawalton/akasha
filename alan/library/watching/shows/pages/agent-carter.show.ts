@@ -5,7 +5,7 @@ export const agentCarter = {
   type: "show",
   slug: "agent-carter",
   title: "Agent Carter",
-  partOfCollections: ["marvel-television"],
+  partOfCollections: ["fandom/marvel-television"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

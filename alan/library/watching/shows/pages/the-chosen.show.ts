@@ -5,7 +5,7 @@ export const theChosen = {
   type: "show",
   slug: "the-chosen",
   title: "The Chosen",
-  partOfCollections: ["award-winning-shows"],
+  partOfCollections: ["show-collection/award-winning-shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

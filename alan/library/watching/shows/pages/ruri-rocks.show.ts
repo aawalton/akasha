@@ -5,7 +5,7 @@ export const ruriRocks = {
   type: "show",
   slug: "ruri-rocks",
   title: "Ruri Rocks",
-  partOfCollections: ["watch-with-jen"],
+  partOfCollections: ["show-collection/watch-with-jen"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const theSarahJaneAdventures = {
   type: "show",
   slug: "the-sarah-jane-adventures",
   title: "The Sarah Jane Adventures",
-  partOfCollections: ["doctor-who"],
+  partOfCollections: ["fandom/doctor-who"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const jessicaJones = {
   type: "show",
   slug: "jessica-jones",
   title: "Jessica Jones",
-  partOfCollections: ["marvel-television"],
+  partOfCollections: ["fandom/marvel-television"],
   position: 4,
   ownLength: 0,
   ownProgress: 0,

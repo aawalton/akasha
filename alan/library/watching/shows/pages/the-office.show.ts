@@ -5,7 +5,7 @@ export const theOffice = {
   type: "show",
   slug: "the-office",
   title: "The Office",
-  partOfCollections: ["sitcoms"],
+  partOfCollections: ["show-collection/sitcoms"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,
