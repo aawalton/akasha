@@ -2,10 +2,12 @@ import { expect, test } from "bun:test"
 import {
   ALLOWED_CPU,
   cpuAllowedIn,
+  memoryAllowedIn,
   overIts,
   spentBetween,
   underIts,
 } from "akasha/commands/modules/change-ceiling/change-ceiling.module.code.ts"
+import { ownAt } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const HELD = { edits: [{ kind: "add", path: "a/b.ts", content: "" }], refused: null } as const
 
@@ -77,4 +79,62 @@ test("a change past its seconds runs to its end and then answers no edit", async
   expect(ran).toEqual(["ran"])
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toContain("`rename-page-type` ran to the end and spent")
+})
+
+const MEGABYTES = { slug: "rename-page-type", maxMemoryMb: 4096 }
+
+test("a change stating no megabytes is held to none", () => {
+  expect(memoryAllowedIn(null)).toBeNull()
+  expect(memoryAllowedIn({ slug: "rename-page-type" })).toBeNull()
+})
+
+test("a change stating megabytes that are no number above nothing is held to none", () => {
+  expect(memoryAllowedIn({ slug: "rename-page-type", maxMemoryMb: 0 })).toBeNull()
+})
+
+test("a change stating its own megabytes is held to those", () => {
+  expect(memoryAllowedIn(MEGABYTES)).toBe(4096)
+})
+
+test("a change stating megabytes runs held and is let out once that change is over", async () => {
+  const before = ownAt()
+  const seen: string[] = []
+
+  const answered = await underIts("rename-page-type", MEGABYTES, async () => {
+    seen.push(String(ownAt()))
+    return HELD
+  })
+
+  expect(answered).toEqual(HELD)
+  expect(seen).toHaveLength(1)
+  expect(seen[0]).not.toBe(String(before))
+  expect(ownAt()).toBe(before)
+})
+
+test("a change that raises is let out of the group that change was held in", async () => {
+  const before = ownAt()
+  const seen: string[] = []
+
+  const raised = underIts("rename-page-type", MEGABYTES, async () => {
+    seen.push(String(ownAt()))
+    throw new Error("the change raised")
+  })
+
+  await expect(raised).rejects.toThrow(/the change raised/)
+  expect(seen[0]).not.toBe(String(before))
+  expect(ownAt()).toBe(before)
+})
+
+test("a change stating no megabytes is let out by a letting go that does nothing", async () => {
+  const before = ownAt()
+  const seen: string[] = []
+
+  const answered = await underIts("rename-page-type", null, async () => {
+    seen.push(String(ownAt()))
+    return HELD
+  })
+
+  expect(answered).toEqual(HELD)
+  expect(seen[0]).toBe(String(before))
+  expect(ownAt()).toBe(before)
 })
