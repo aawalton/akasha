@@ -5,7 +5,7 @@ export const breakfast = {
   type: "recipe-collection",
   slug: "breakfast",
   title: "Breakfast",
-  partOfCollections: ["recipes"],
+  partOfCollections: ["recipe-collection/recipes"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,
