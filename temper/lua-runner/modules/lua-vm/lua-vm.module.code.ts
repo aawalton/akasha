@@ -35,23 +35,3 @@ export async function makeLuaVm(options: MakeLuaVmOptions = {}): Promise<LuaVm> 
     },
   }
 }
-
-export async function withLuaVm<T>(fn: (vm: LuaVm) => Promise<T>): Promise<T>
-export async function withLuaVm<T>(
-  opts: MakeLuaVmOptions,
-  fn: (vm: LuaVm) => Promise<T>
-): Promise<T>
-export async function withLuaVm<T>(
-  optsOrFn: MakeLuaVmOptions | ((vm: LuaVm) => Promise<T>),
-  maybeFn?: (vm: LuaVm) => Promise<T>
-): Promise<T> {
-  const opts: MakeLuaVmOptions = typeof optsOrFn === "function" ? {} : optsOrFn
-  const fn = typeof optsOrFn === "function" ? optsOrFn : maybeFn
-  if (fn === undefined) throw new Error("withLuaVm was handed no callback to run")
-  const vm = await makeLuaVm(opts)
-  try {
-    return await fn(vm)
-  } finally {
-    await vm.close()
-  }
-}

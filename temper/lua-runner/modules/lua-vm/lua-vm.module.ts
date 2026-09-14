@@ -24,9 +24,5 @@ export const luaVm = {
       statement:
         "Stubs that fail to load close the subprocess rather than leaving the subprocess half set up.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A VM handed to a callback is closed once that callback settles either way.",
-    },
   ],
 } as const satisfies Module
