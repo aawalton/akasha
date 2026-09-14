@@ -8,11 +8,11 @@ export const trackingCapture = {
   pluralSlug: "tracking-captures",
   extends: ["page-type/domain"],
   parts: [
-    "domain/tracking-capture-judgment",
-    "domain/tracking-capture-measurement",
-    "domain/tracking-capture-report",
-    "domain/tracking-capture-testimony",
-    "domain/tracking-capture-trace",
+    "tracking-capture/judgment",
+    "tracking-capture/measurement",
+    "tracking-capture/report",
+    "tracking-capture/testimony",
+    "tracking-capture/trace",
   ],
   invariants: [
     {
@@ -50,7 +50,7 @@ export const trackingCapture = {
       statement: "A weighing is a capture.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "Each capture is a page of this type.",
     },
     {
