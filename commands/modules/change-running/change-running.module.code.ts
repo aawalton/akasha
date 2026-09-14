@@ -59,6 +59,7 @@ import {
 } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import {
+  slugAt,
   textAt,
   type Value,
 } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
@@ -258,7 +259,7 @@ export function owingBy(value: Value | null): boolean {
 }
 
 function kindOf(world: World, value: Value | null): Value | null {
-  const slug = value === null ? null : textAt(value, CHANGE_KIND)
+  const slug = value === null ? null : slugAt(value, CHANGE_KIND)
   return slug === null ? null : world.index.pageAt(KIND_TYPE, slug)
 }
 

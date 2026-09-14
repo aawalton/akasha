@@ -175,6 +175,10 @@ export const changeRunning = {
     },
     {
       invariantKind: "departure",
+      statement: "A change reaches its kind whether or not it names that kind's page type.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A change page reaching nothing leaves the readers of every path owing the reading.",
     },
