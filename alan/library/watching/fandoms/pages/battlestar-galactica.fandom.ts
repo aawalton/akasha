@@ -9,6 +9,6 @@ export const battlestarGalactica = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unit: "words",
+  unit: "unit/words",
   status: "not-started",
 } as const satisfies Fandom

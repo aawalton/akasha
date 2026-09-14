@@ -9,7 +9,7 @@ export const theLordOfTheRings2 = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unit: "words",
+  unit: "unit/words",
   status: "paused",
   rank: "A",
 } as const satisfies Fandom

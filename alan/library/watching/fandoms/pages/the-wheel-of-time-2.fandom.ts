@@ -9,7 +9,7 @@ export const theWheelOfTime2 = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unit: "words",
+  unit: "unit/words",
   status: "not-started",
   rank: "B",
 } as const satisfies Fandom
