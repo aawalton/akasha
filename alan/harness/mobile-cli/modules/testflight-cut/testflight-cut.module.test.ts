@@ -4,7 +4,6 @@ import {
   cutRecordCall,
   fileFingerprint,
   macRanSaid,
-  stagedToMacSaid,
 } from "akasha/alan/harness/mobile-cli/modules/testflight-cut/testflight-cut.module.code.ts"
 
 const FP: CutFingerprint = {
@@ -95,10 +94,6 @@ describe("what a run names it had done", () => {
     const said = macRanSaid("mac", true)
     expect(said).toContain("nothing was sent to Apple")
     expect(said).not.toContain("may already be spent")
-  })
-
-  test("the staging says what it replaced, since rsync deletes what it does not carry", () => {
-    expect(stagedToMacSaid("mac", "www-staging")).toContain("replacing what was there")
   })
 })
 

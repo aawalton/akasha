@@ -41,10 +41,7 @@ import {
   type MobileApp,
   shellRepoRoot,
 } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
-import {
-  rsyncToHost,
-  runSshResult,
-} from "akasha/alan/harness/mobile-cli/modules/mobile-ssh/mobile-ssh.module.code.ts"
+import { runSshResult } from "akasha/alan/harness/mobile-cli/modules/mobile-ssh/mobile-ssh.module.code.ts"
 import { simRunSharedRepoPaths } from "akasha/alan/harness/mobile-cli/modules/sim-run-tree/sim-run-tree.module.code.ts"
 import { buildTestflightDeployScript } from "akasha/alan/harness/mobile-cli/modules/testflight-deploy-script/testflight-deploy-script.module.code.ts"
 import {
@@ -56,10 +53,6 @@ import {
   VISIBILITY_TIMEOUT_MS,
   visibilityFailureFor,
 } from "akasha/alan/harness/mobile-cli/modules/testflight-poll/testflight-poll.module.code.ts"
-import {
-  buildWwwAt,
-  type WwwBuildResult,
-} from "akasha/alan/harness/mobile-cli/modules/www-build/www-build.module.code.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 
 export type Say = (text: string) => void
@@ -73,10 +66,6 @@ const FILING_TRIES = 4
 const FILING_BACKOFF_MS = [2_000, 5_000, 15_000] as const
 
 type Recorder = (appSlug: string, fp: CutFingerprint, done: string[]) => Promise<void>
-
-export function stagedToMacSaid(host: string, stagingRel: string): string {
-  return `the www bundle was rsynced onto ${host} at ~/${stagingRel}, replacing what was there`
-}
 
 export function macRanSaid(host: string, noUpload: boolean): string {
   const did = noUpload
@@ -202,33 +191,6 @@ export async function runTestflightCut(
       noUpload ? ", no-upload" : ""
     }) via ${MACBOOK.user}@${MACBOOK.host}…\n`
   )
-
-  if (sync && app.wwwStageScript !== null) {
-    const stagingRel = app.macWwwStagingRel
-    if (stagingRel === null) {
-      throw new OperationalError(
-        `${app.slug} names a www stage script and no \`mac-www-staging-rel\`, so its page says nothing about where on the MacBook the build is staged`
-      )
-    }
-    say(`Building www on the workstation at ${mainSha.slice(0, 12)} (${ref})…\n`)
-    const wwwAt = Date.now()
-    let built: WwwBuildResult
-    try {
-      built = await buildWwwAt(done, { app, ref: mainSha })
-    } catch (err) {
-      throw new OperationalError(
-        `the workstation www build failed. It stopped before the MacBook, so no build number was spent there — but it had already written on this workstation, and what it wrote is named with this refusal (${
-          err instanceof Error ? err.message : String(err)
-        }). The stage script's own output is above — search the run for \`[stage-app]\` and read what follows it for the refusing gate and the modules it names.`
-      )
-    }
-    say(
-      `Staging www (main ${mainSha.slice(0, 12)}) → ${MACBOOK.user}@${MACBOOK.host}:~/${stagingRel}…\n`
-    )
-    await rsyncToHost(MACBOOK, built.wwwDir, stagingRel, { quiet: !watched })
-    done.push(stagedToMacSaid(MACBOOK.host, stagingRel))
-    say(`  www built and staged in ${elapsedSince(wwwAt)}\n`)
-  }
 
   const script = buildTestflightDeployScript({
     app,
