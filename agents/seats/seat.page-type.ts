@@ -338,7 +338,7 @@ export const seat = {
     },
     {
       invariantKind: "departure",
-      statement: "A domain beside the seat page type names everything done to a seat.",
+      statement: "The seat page type names everything done to a seat.",
     },
     {
       invariantKind: "departure",
