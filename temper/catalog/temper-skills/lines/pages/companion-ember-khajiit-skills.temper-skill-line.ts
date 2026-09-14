@@ -1,0 +1,13 @@
+import type { TemperSkillLine } from "akasha/temper/catalog/temper-skills/lines/temper-skill-line.page-type.types.ts"
+
+export const companionEmberKhajiitSkills = {
+  id: "019e61dc-f206-72f5-a358-0557f969f475",
+  type: "temper-skill-line",
+  slug: "companion-ember-khajiit-skills",
+  title: "Khajiit Skills",
+  key: "companion-ember-khajiit-skills",
+  displayOrder: 86,
+  esoSkillLineId: 199,
+  maxRank: 1,
+  subcategoryId: "companion",
+} as const satisfies TemperSkillLine
