@@ -1,8 +1,4 @@
 import { readFileSync } from "node:fs"
-import {
-  seatPathForName,
-  supervisorAlive,
-} from "akasha/agents/seats/page/modules/seat-reading/seat-reading.module.code.ts"
 import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
 import { statedIn } from "akasha/utils/process/modules/proc-reading/proc-reading.module.code.ts"
 
@@ -117,8 +113,4 @@ export function ancestorOfSelf(pid: number, how: Ancestry = ANCESTRY): boolean {
     cursor = how.parentOf(cursor)
   }
   return false
-}
-
-export function presenceOf(root: string, name: string): Presence {
-  return supervisorAlive(root, seatPathForName(name)) ? "present" : "absent"
 }
