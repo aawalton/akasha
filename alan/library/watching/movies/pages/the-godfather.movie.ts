@@ -5,7 +5,7 @@ export const theGodfather = {
   type: "movie",
   slug: "the-godfather",
   title: "The Godfather",
-  partOfCollections: ["the-godfather-2"],
+  partOfCollections: ["show-collection/the-godfather-2"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

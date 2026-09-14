@@ -5,7 +5,7 @@ export const captainAmericaTheFirstAvenger = {
   type: "movie",
   slug: "captain-america-the-first-avenger",
   title: "Captain America: The First Avenger",
-  partOfCollections: ["marvel-cinematic-universe"],
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

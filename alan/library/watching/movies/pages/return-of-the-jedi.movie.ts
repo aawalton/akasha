@@ -5,7 +5,7 @@ export const returnOfTheJedi = {
   type: "movie",
   slug: "return-of-the-jedi",
   title: "Return of the Jedi",
-  partOfCollections: ["star-wars-2"],
+  partOfCollections: ["fandom/star-wars-2"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

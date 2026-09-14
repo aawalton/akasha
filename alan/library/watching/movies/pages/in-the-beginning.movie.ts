@@ -5,7 +5,7 @@ export const inTheBeginning = {
   type: "movie",
   slug: "in-the-beginning",
   title: "In the Beginning",
-  partOfCollections: ["babylon-5-2"],
+  partOfCollections: ["fandom/babylon-5-2"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

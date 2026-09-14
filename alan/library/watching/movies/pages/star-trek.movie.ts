@@ -5,7 +5,7 @@ export const starTrek = {
   type: "movie",
   slug: "star-trek",
   title: "Star Trek",
-  partOfCollections: ["star-trek-3"],
+  partOfCollections: ["fandom/star-trek-3"],
   position: 17,
   ownLength: 0,
   ownProgress: 0,

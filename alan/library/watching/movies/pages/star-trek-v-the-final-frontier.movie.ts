@@ -5,7 +5,7 @@ export const starTrekVTheFinalFrontier = {
   type: "movie",
   slug: "star-trek-v-the-final-frontier",
   title: "Star Trek V: The Final Frontier",
-  partOfCollections: ["star-trek-3"],
+  partOfCollections: ["fandom/star-trek-3"],
   position: 8,
   ownLength: 0,
   ownProgress: 0,

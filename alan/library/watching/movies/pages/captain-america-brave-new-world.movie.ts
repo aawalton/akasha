@@ -5,7 +5,7 @@ export const captainAmericaBraveNewWorld = {
   type: "movie",
   slug: "captain-america-brave-new-world",
   title: "Captain America: Brave New World",
-  partOfCollections: ["marvel-cinematic-universe"],
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
   position: 54,
   ownLength: 0,
   ownProgress: 0,

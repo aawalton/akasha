@@ -5,7 +5,7 @@ export const captainMarvel = {
   type: "movie",
   slug: "captain-marvel",
   title: "Captain Marvel",
-  partOfCollections: ["marvel-cinematic-universe"],
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
   position: 21,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const wonderWoman1984 = {
   type: "movie",
   slug: "wonder-woman-1984",
   title: "Wonder Woman 1984",
-  partOfCollections: ["dc-extended-universe"],
+  partOfCollections: ["fandom/dc-extended-universe"],
   position: 9,
   ownLength: 0,
   ownProgress: 0,

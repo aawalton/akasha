@@ -5,7 +5,7 @@ export const theHobbitTheBattleOfTheFiveArmies = {
   type: "movie",
   slug: "the-hobbit-the-battle-of-the-five-armies",
   title: "The Hobbit: The Battle of the Five Armies",
-  partOfCollections: ["the-lord-of-the-rings-shows"],
+  partOfCollections: ["show-collection/the-lord-of-the-rings-shows"],
   position: 6,
   ownLength: 0,
   ownProgress: 0,

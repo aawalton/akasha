@@ -5,7 +5,7 @@ export const doctorStrange = {
   type: "movie",
   slug: "doctor-strange",
   title: "Doctor Strange",
-  partOfCollections: ["marvel-cinematic-universe"],
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
   position: 14,
   ownLength: 0,
   ownProgress: 0,

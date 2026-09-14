@@ -5,7 +5,7 @@ export const shazamFuryOfTheGods = {
   type: "movie",
   slug: "shazam-fury-of-the-gods",
   title: "Shazam! Fury of the Gods",
-  partOfCollections: ["dc-extended-universe"],
+  partOfCollections: ["fandom/dc-extended-universe"],
   position: 13,
   ownLength: 0,
   ownProgress: 0,

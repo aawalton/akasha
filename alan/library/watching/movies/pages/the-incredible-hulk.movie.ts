@@ -5,7 +5,7 @@ export const theIncredibleHulk = {
   type: "movie",
   slug: "the-incredible-hulk",
   title: "The Incredible Hulk",
-  partOfCollections: ["marvel-cinematic-universe"],
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

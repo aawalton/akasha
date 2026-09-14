@@ -5,7 +5,7 @@ export const starTrekGenerations = {
   type: "movie",
   slug: "star-trek-generations",
   title: "Star Trek: Generations",
-  partOfCollections: ["star-trek-3"],
+  partOfCollections: ["fandom/star-trek-3"],
   position: 11,
   ownLength: 0,
   ownProgress: 0,

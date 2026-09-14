@@ -5,7 +5,7 @@ export const starTrekIiTheWrathOfKhan = {
   type: "movie",
   slug: "star-trek-ii-the-wrath-of-khan",
   title: "Star Trek II: The Wrath of Khan",
-  partOfCollections: ["star-trek-3"],
+  partOfCollections: ["fandom/star-trek-3"],
   position: 4,
   ownLength: 0,
   ownProgress: 0,

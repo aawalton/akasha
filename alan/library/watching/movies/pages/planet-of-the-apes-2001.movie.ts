@@ -5,7 +5,7 @@ export const planetOfTheApes2001 = {
   type: "movie",
   slug: "planet-of-the-apes-2001",
   title: "Planet of the Apes (2001)",
-  partOfCollections: ["planet-of-the-apes-2"],
+  partOfCollections: ["fandom/planet-of-the-apes-2"],
   position: 8,
   ownLength: 0,
   ownProgress: 0,

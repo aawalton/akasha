@@ -5,7 +5,7 @@ export const birdsOfPrey = {
   type: "movie",
   slug: "birds-of-prey",
   title: "Birds of Prey",
-  partOfCollections: ["dc-extended-universe"],
+  partOfCollections: ["fandom/dc-extended-universe"],
   position: 8,
   ownLength: 0,
   ownProgress: 0,

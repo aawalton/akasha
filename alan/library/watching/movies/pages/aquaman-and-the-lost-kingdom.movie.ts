@@ -5,7 +5,7 @@ export const aquamanAndTheLostKingdom = {
   type: "movie",
   slug: "aquaman-and-the-lost-kingdom",
   title: "Aquaman and the Lost Kingdom",
-  partOfCollections: ["dc-extended-universe"],
+  partOfCollections: ["fandom/dc-extended-universe"],
   position: 16,
   ownLength: 0,
   ownProgress: 0,

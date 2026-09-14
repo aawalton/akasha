@@ -5,7 +5,7 @@ export const oppenheimer = {
   type: "movie",
   slug: "oppenheimer",
   title: "Oppenheimer",
-  partOfCollections: ["award-winning-movies"],
+  partOfCollections: ["show-collection/award-winning-movies"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

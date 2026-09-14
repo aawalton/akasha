@@ -5,7 +5,7 @@ export const revengeOfTheSith = {
   type: "movie",
   slug: "revenge-of-the-sith",
   title: "Revenge of the Sith",
-  partOfCollections: ["star-wars-2"],
+  partOfCollections: ["fandom/star-wars-2"],
   position: 7,
   ownLength: 0,
   ownProgress: 0,

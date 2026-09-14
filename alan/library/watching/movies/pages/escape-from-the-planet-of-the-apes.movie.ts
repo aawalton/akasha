@@ -5,7 +5,7 @@ export const escapeFromThePlanetOfTheApes = {
   type: "movie",
   slug: "escape-from-the-planet-of-the-apes",
   title: "Escape from the Planet of the Apes",
-  partOfCollections: ["planet-of-the-apes-2"],
+  partOfCollections: ["fandom/planet-of-the-apes-2"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

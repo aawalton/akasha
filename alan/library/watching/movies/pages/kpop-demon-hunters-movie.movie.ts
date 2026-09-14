@@ -5,7 +5,7 @@ export const kpopDemonHuntersMovie = {
   type: "movie",
   slug: "kpop-demon-hunters-movie",
   title: "KPop Demon Hunters Movie",
-  partOfCollections: ["kpop-demon-hunters"],
+  partOfCollections: ["fandom/kpop-demon-hunters"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

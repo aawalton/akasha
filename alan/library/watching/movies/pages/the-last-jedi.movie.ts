@@ -5,7 +5,7 @@ export const theLastJedi = {
   type: "movie",
   slug: "the-last-jedi",
   title: "The Last Jedi",
-  partOfCollections: ["star-wars-2"],
+  partOfCollections: ["fandom/star-wars-2"],
   position: 12,
   ownLength: 0,
   ownProgress: 0,

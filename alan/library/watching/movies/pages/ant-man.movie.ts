@@ -5,7 +5,7 @@ export const antMan = {
   type: "movie",
   slug: "ant-man",
   title: "Ant-Man",
-  partOfCollections: ["marvel-cinematic-universe"],
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
   position: 12,
   ownLength: 0,
   ownProgress: 0,

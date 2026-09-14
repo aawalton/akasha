@@ -5,7 +5,7 @@ export const fantasticBeastsTheSecretsOfDumbledore = {
   type: "movie",
   slug: "fantastic-beasts-the-secrets-of-dumbledore",
   title: "Fantastic Beasts: The Secrets of Dumbledore",
-  partOfCollections: ["fantastic-beasts-movie-series"],
+  partOfCollections: ["show-collection/fantastic-beasts-movie-series"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

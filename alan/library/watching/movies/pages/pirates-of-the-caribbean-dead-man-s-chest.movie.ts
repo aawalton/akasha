@@ -5,7 +5,7 @@ export const piratesOfTheCaribbeanDeadManSChest = {
   type: "movie",
   slug: "pirates-of-the-caribbean-dead-man-s-chest",
   title: "Pirates of the Caribbean: Dead Man's Chest",
-  partOfCollections: ["pirates-of-the-caribbean-2"],
+  partOfCollections: ["fandom/pirates-of-the-caribbean-2"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

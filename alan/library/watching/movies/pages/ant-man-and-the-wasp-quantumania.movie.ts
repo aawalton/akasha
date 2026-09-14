@@ -5,7 +5,7 @@ export const antManAndTheWaspQuantumania = {
   type: "movie",
   slug: "ant-man-and-the-wasp-quantumania",
   title: "Ant-Man and the Wasp: Quantumania",
-  partOfCollections: ["marvel-cinematic-universe"],
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
   position: 41,
   ownLength: 0,
   ownProgress: 0,

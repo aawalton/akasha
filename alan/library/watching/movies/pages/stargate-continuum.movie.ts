@@ -5,7 +5,7 @@ export const stargateContinuum = {
   type: "movie",
   slug: "stargate-continuum",
   title: "Stargate: Continuum",
-  partOfCollections: ["stargate-2"],
+  partOfCollections: ["fandom/stargate-2"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

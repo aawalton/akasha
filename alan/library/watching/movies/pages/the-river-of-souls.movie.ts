@@ -5,7 +5,7 @@ export const theRiverOfSouls = {
   type: "movie",
   slug: "the-river-of-souls",
   title: "The River of Souls",
-  partOfCollections: ["babylon-5-2"],
+  partOfCollections: ["fandom/babylon-5-2"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

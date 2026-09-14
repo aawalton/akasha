@@ -5,7 +5,7 @@ export const dungeonsAndDragonsHonorAmongThieves = {
   type: "movie",
   slug: "dungeons-and-dragons-honor-among-thieves",
   title: "Dungeons & Dragons: Honor Among Thieves",
-  partOfCollections: ["dungeons-and-dragons-shows"],
+  partOfCollections: ["show-collection/dungeons-and-dragons-shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

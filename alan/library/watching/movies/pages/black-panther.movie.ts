@@ -5,7 +5,7 @@ export const blackPanther = {
   type: "movie",
   slug: "black-panther",
   title: "Black Panther",
-  partOfCollections: ["marvel-cinematic-universe"],
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
   position: 18,
   ownLength: 0,
   ownProgress: 0,

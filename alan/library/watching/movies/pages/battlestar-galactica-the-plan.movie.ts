@@ -5,7 +5,7 @@ export const battlestarGalacticaThePlan = {
   type: "movie",
   slug: "battlestar-galactica-the-plan",
   title: "Battlestar Galactica: The Plan",
-  partOfCollections: ["battlestar-galactica"],
+  partOfCollections: ["fandom/battlestar-galactica"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

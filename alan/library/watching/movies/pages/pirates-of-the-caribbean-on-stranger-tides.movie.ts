@@ -5,7 +5,7 @@ export const piratesOfTheCaribbeanOnStrangerTides = {
   type: "movie",
   slug: "pirates-of-the-caribbean-on-stranger-tides",
   title: "Pirates of the Caribbean: On Stranger Tides",
-  partOfCollections: ["pirates-of-the-caribbean-2"],
+  partOfCollections: ["fandom/pirates-of-the-caribbean-2"],
   position: 4,
   ownLength: 0,
   ownProgress: 0,

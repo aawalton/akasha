@@ -5,7 +5,7 @@ export const thunderbolts = {
   type: "movie",
   slug: "thunderbolts",
   title: "Thunderbolts*",
-  partOfCollections: ["marvel-cinematic-universe"],
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
   position: 56,
   ownLength: 0,
   ownProgress: 0,

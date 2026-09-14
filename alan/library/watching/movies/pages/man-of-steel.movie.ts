@@ -5,7 +5,7 @@ export const manOfSteel = {
   type: "movie",
   slug: "man-of-steel",
   title: "Man of Steel",
-  partOfCollections: ["dc-extended-universe"],
+  partOfCollections: ["fandom/dc-extended-universe"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

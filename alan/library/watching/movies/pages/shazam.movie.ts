@@ -5,7 +5,7 @@ export const shazam = {
   type: "movie",
   slug: "shazam",
   title: "Shazam!",
-  partOfCollections: ["dc-extended-universe"],
+  partOfCollections: ["fandom/dc-extended-universe"],
   position: 7,
   ownLength: 0,
   ownProgress: 0,

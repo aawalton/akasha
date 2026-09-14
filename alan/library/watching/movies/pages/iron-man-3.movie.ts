@@ -5,7 +5,7 @@ export const ironMan3 = {
   type: "movie",
   slug: "iron-man-3",
   title: "Iron Man 3",
-  partOfCollections: ["marvel-cinematic-universe"],
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
   position: 7,
   ownLength: 0,
   ownProgress: 0,

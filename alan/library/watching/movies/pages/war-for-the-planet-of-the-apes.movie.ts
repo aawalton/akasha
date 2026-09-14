@@ -5,7 +5,7 @@ export const warForThePlanetOfTheApes = {
   type: "movie",
   slug: "war-for-the-planet-of-the-apes",
   title: "War for the Planet of the Apes",
-  partOfCollections: ["planet-of-the-apes-2"],
+  partOfCollections: ["fandom/planet-of-the-apes-2"],
   position: 11,
   ownLength: 0,
   ownProgress: 0,

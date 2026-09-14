@@ -5,7 +5,7 @@ export const harryPotterAndTheOrderOfThePhoenix = {
   type: "movie",
   slug: "harry-potter-and-the-order-of-the-phoenix",
   title: "Harry Potter and the Order of the Phoenix",
-  partOfCollections: ["harry-potter-movie-series"],
+  partOfCollections: ["show-collection/harry-potter-movie-series"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

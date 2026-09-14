@@ -5,7 +5,7 @@ export const soloAStarWarsStory = {
   type: "movie",
   slug: "solo-a-star-wars-story",
   title: "Solo: A Star Wars Story",
-  partOfCollections: ["star-wars-2"],
+  partOfCollections: ["fandom/star-wars-2"],
   position: 13,
   ownLength: 0,
   ownProgress: 0,

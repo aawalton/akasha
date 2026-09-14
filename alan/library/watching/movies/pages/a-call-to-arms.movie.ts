@@ -5,7 +5,7 @@ export const aCallToArms = {
   type: "movie",
   slug: "a-call-to-arms",
   title: "A Call to Arms",
-  partOfCollections: ["babylon-5-2"],
+  partOfCollections: ["fandom/babylon-5-2"],
   position: 6,
   ownLength: 0,
   ownProgress: 0,

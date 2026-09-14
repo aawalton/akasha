@@ -5,7 +5,7 @@ export const theHobbitAnUnexpectedJourney = {
   type: "movie",
   slug: "the-hobbit-an-unexpected-journey",
   title: "The Hobbit: An Unexpected Journey",
-  partOfCollections: ["the-lord-of-the-rings-shows"],
+  partOfCollections: ["show-collection/the-lord-of-the-rings-shows"],
   position: 4,
   ownLength: 0,
   ownProgress: 0,

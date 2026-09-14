@@ -5,7 +5,7 @@ export const spiderManHomecoming = {
   type: "movie",
   slug: "spider-man-homecoming",
   title: "Spider-Man: Homecoming",
-  partOfCollections: ["marvel-cinematic-universe"],
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
   position: 16,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const battlestarGalacticaRazor = {
   type: "movie",
   slug: "battlestar-galactica-razor",
   title: "Battlestar Galactica: Razor",
-  partOfCollections: ["battlestar-galactica"],
+  partOfCollections: ["fandom/battlestar-galactica"],
   position: 4,
   ownLength: 0,
   ownProgress: 0,

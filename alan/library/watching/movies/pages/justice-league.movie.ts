@@ -5,7 +5,7 @@ export const justiceLeague = {
   type: "movie",
   slug: "justice-league",
   title: "Justice League",
-  partOfCollections: ["dc-extended-universe"],
+  partOfCollections: ["fandom/dc-extended-universe"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const fantasticBeastsAndWhereToFindThem = {
   type: "movie",
   slug: "fantastic-beasts-and-where-to-find-them",
   title: "Fantastic Beasts and Where to Find Them",
-  partOfCollections: ["fantastic-beasts-movie-series"],
+  partOfCollections: ["show-collection/fantastic-beasts-movie-series"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

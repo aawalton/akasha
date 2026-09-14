@@ -5,7 +5,7 @@ export const battlestarGalacticaBloodAndChrome = {
   type: "movie",
   slug: "battlestar-galactica-blood-and-chrome",
   title: "Battlestar Galactica: Blood & Chrome",
-  partOfCollections: ["battlestar-galactica"],
+  partOfCollections: ["fandom/battlestar-galactica"],
   position: 7,
   ownLength: 0,
   ownProgress: 0,

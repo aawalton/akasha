@@ -5,7 +5,7 @@ export const swordArtOnlineTheMovieProgressiveAriaOfAStarlessNight2 = {
   type: "movie",
   slug: "sword-art-online-the-movie-progressive-aria-of-a-starless-night-2",
   title: "Sword Art Online the Movie -Progressive- Aria of a Starless Night",
-  partOfCollections: ["sword-art-online-shows"],
+  partOfCollections: ["show-collection/sword-art-online-shows"],
   position: 6,
   ownLength: 0,
   ownProgress: 0,

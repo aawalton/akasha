@@ -5,7 +5,7 @@ export const dawnOfThePlanetOfTheApes = {
   type: "movie",
   slug: "dawn-of-the-planet-of-the-apes",
   title: "Dawn of the Planet of the Apes",
-  partOfCollections: ["planet-of-the-apes-2"],
+  partOfCollections: ["fandom/planet-of-the-apes-2"],
   position: 10,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const babylon5TheGathering = {
   type: "movie",
   slug: "babylon-5-the-gathering",
   title: "Babylon 5: The Gathering",
-  partOfCollections: ["babylon-5-2"],
+  partOfCollections: ["fandom/babylon-5-2"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

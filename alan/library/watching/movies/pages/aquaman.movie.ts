@@ -5,7 +5,7 @@ export const aquaman = {
   type: "movie",
   slug: "aquaman",
   title: "Aquaman",
-  partOfCollections: ["dc-extended-universe"],
+  partOfCollections: ["fandom/dc-extended-universe"],
   position: 6,
   ownLength: 0,
   ownProgress: 0,

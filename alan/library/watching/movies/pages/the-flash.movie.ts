@@ -5,7 +5,7 @@ export const theFlash = {
   type: "movie",
   slug: "the-flash",
   title: "The Flash",
-  partOfCollections: ["dc-extended-universe"],
+  partOfCollections: ["fandom/dc-extended-universe"],
   position: 14,
   ownLength: 0,
   ownProgress: 0,

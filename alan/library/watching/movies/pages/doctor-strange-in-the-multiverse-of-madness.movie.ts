@@ -5,7 +5,7 @@ export const doctorStrangeInTheMultiverseOfMadness = {
   type: "movie",
   slug: "doctor-strange-in-the-multiverse-of-madness",
   title: "Doctor Strange in the Multiverse of Madness",
-  partOfCollections: ["marvel-cinematic-universe"],
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
   position: 33,
   ownLength: 0,
   ownProgress: 0,

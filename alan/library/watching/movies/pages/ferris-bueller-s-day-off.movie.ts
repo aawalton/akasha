@@ -5,7 +5,7 @@ export const ferrisBuellerSDayOff = {
   type: "movie",
   slug: "ferris-bueller-s-day-off",
   title: "Ferris Bueller's Day Off",
-  partOfCollections: ["cultural-literacy"],
+  partOfCollections: ["show-collection/cultural-literacy"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

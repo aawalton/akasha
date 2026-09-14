@@ -5,7 +5,7 @@ export const gameOfThronesConquestAndRebellionAnAnimatedHistoryOfTheSeve = {
   type: "movie",
   slug: "game-of-thrones-conquest-and-rebellion-an-animated-history-of-the-seve",
   title: "Game of Thrones Conquest & Rebellion: An Animated History of the Seven Kingdoms",
-  partOfCollections: ["game-of-thrones-2"],
+  partOfCollections: ["fandom/game-of-thrones-2"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

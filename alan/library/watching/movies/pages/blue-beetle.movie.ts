@@ -5,7 +5,7 @@ export const blueBeetle = {
   type: "movie",
   slug: "blue-beetle",
   title: "Blue Beetle",
-  partOfCollections: ["dc-extended-universe"],
+  partOfCollections: ["fandom/dc-extended-universe"],
   position: 15,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const attackOfTheClones = {
   type: "movie",
   slug: "attack-of-the-clones",
   title: "Attack of the Clones",
-  partOfCollections: ["star-wars-2"],
+  partOfCollections: ["fandom/star-wars-2"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

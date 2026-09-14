@@ -5,7 +5,7 @@ export const harryPotterAndTheGobletOfFire = {
   type: "movie",
   slug: "harry-potter-and-the-goblet-of-fire",
   title: "Harry Potter and the Goblet of Fire",
-  partOfCollections: ["harry-potter-movie-series"],
+  partOfCollections: ["show-collection/harry-potter-movie-series"],
   position: 4,
   ownLength: 0,
   ownProgress: 0,

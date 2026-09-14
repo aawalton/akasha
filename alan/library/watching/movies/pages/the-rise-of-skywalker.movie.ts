@@ -5,7 +5,7 @@ export const theRiseOfSkywalker = {
   type: "movie",
   slug: "the-rise-of-skywalker",
   title: "The Rise of Skywalker",
-  partOfCollections: ["star-wars-2"],
+  partOfCollections: ["fandom/star-wars-2"],
   position: 15,
   ownLength: 0,
   ownProgress: 0,

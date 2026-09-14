@@ -5,7 +5,7 @@ export const doctorWho1996 = {
   type: "movie",
   slug: "doctor-who-1996",
   title: "Doctor Who (1996)",
-  partOfCollections: ["doctor-who"],
+  partOfCollections: ["fandom/doctor-who"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

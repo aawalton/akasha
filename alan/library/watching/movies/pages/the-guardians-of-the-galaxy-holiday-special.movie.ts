@@ -5,7 +5,7 @@ export const theGuardiansOfTheGalaxyHolidaySpecial = {
   type: "movie",
   slug: "the-guardians-of-the-galaxy-holiday-special",
   title: "The Guardians of the Galaxy Holiday Special",
-  partOfCollections: ["marvel-cinematic-universe"],
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
   position: 40,
   ownLength: 0,
   ownProgress: 0,

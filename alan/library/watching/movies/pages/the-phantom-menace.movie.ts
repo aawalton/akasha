@@ -5,7 +5,7 @@ export const thePhantomMenace = {
   type: "movie",
   slug: "the-phantom-menace",
   title: "The Phantom Menace",
-  partOfCollections: ["star-wars-2"],
+  partOfCollections: ["fandom/star-wars-2"],
   position: 4,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const starTrekTheMotionPicture = {
   type: "movie",
   slug: "star-trek-the-motion-picture",
   title: "Star Trek: The Motion Picture",
-  partOfCollections: ["star-trek-3"],
+  partOfCollections: ["fandom/star-trek-3"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

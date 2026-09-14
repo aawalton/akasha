@@ -5,7 +5,7 @@ export const avengersAgeOfUltron = {
   type: "movie",
   slug: "avengers-age-of-ultron",
   title: "Avengers: Age of Ultron",
-  partOfCollections: ["marvel-cinematic-universe"],
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
   position: 11,
   ownLength: 0,
   ownProgress: 0,

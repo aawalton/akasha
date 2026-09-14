@@ -5,7 +5,7 @@ export const starTrekIiiTheSearchForSpock = {
   type: "movie",
   slug: "star-trek-iii-the-search-for-spock",
   title: "Star Trek III: The Search for Spock",
-  partOfCollections: ["star-trek-3"],
+  partOfCollections: ["fandom/star-trek-3"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const thirdspace = {
   type: "movie",
   slug: "thirdspace",
   title: "Thirdspace",
-  partOfCollections: ["babylon-5-2"],
+  partOfCollections: ["fandom/babylon-5-2"],
   position: 4,
   ownLength: 0,
   ownProgress: 0,

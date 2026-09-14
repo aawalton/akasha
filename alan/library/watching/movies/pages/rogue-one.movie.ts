@@ -5,7 +5,7 @@ export const rogueOne = {
   type: "movie",
   slug: "rogue-one",
   title: "Rogue One",
-  partOfCollections: ["star-wars-2"],
+  partOfCollections: ["fandom/star-wars-2"],
   position: 11,
   ownLength: 0,
   ownProgress: 0,

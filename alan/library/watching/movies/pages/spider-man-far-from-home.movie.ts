@@ -5,7 +5,7 @@ export const spiderManFarFromHome = {
   type: "movie",
   slug: "spider-man-far-from-home",
   title: "Spider-Man: Far From Home",
-  partOfCollections: ["marvel-cinematic-universe"],
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
   position: 23,
   ownLength: 0,
   ownProgress: 0,

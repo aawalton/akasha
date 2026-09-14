@@ -5,7 +5,7 @@ export const barbie = {
   type: "movie",
   slug: "barbie",
   title: "Barbie",
-  partOfCollections: ["award-winning-movies"],
+  partOfCollections: ["show-collection/award-winning-movies"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

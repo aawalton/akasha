@@ -5,7 +5,7 @@ export const superman = {
   type: "movie",
   slug: "superman",
   title: "Superman",
-  partOfCollections: ["dc-universe"],
+  partOfCollections: ["fandom/dc-universe"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

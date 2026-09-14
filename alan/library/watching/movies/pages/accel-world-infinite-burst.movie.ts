@@ -5,7 +5,7 @@ export const accelWorldInfiniteBurst = {
   type: "movie",
   slug: "accel-world-infinite-burst",
   title: "Accel World: Infinite Burst",
-  partOfCollections: ["accel-world"],
+  partOfCollections: ["fandom/accel-world"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

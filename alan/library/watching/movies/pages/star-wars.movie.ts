@@ -5,7 +5,7 @@ export const starWars = {
   type: "movie",
   slug: "star-wars",
   title: "Star Wars",
-  partOfCollections: ["star-wars-2"],
+  partOfCollections: ["fandom/star-wars-2"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

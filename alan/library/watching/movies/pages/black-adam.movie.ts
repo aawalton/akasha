@@ -5,7 +5,7 @@ export const blackAdam = {
   type: "movie",
   slug: "black-adam",
   title: "Black Adam",
-  partOfCollections: ["dc-extended-universe"],
+  partOfCollections: ["fandom/dc-extended-universe"],
   position: 12,
   ownLength: 0,
   ownProgress: 0,

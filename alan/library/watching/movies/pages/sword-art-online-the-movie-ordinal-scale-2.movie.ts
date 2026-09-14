@@ -5,7 +5,7 @@ export const swordArtOnlineTheMovieOrdinalScale2 = {
   type: "movie",
   slug: "sword-art-online-the-movie-ordinal-scale-2",
   title: "Sword Art Online: The Movie – Ordinal Scale",
-  partOfCollections: ["sword-art-online-shows"],
+  partOfCollections: ["show-collection/sword-art-online-shows"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

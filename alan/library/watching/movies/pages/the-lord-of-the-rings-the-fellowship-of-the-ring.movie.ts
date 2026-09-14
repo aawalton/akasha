@@ -5,7 +5,7 @@ export const theLordOfTheRingsTheFellowshipOfTheRing = {
   type: "movie",
   slug: "the-lord-of-the-rings-the-fellowship-of-the-ring",
   title: "The Lord of the Rings: The Fellowship of the Ring",
-  partOfCollections: ["the-lord-of-the-rings-shows"],
+  partOfCollections: ["show-collection/the-lord-of-the-rings-shows"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

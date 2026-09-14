@@ -5,7 +5,7 @@ export const theSuicideSquad = {
   type: "movie",
   slug: "the-suicide-squad",
   title: "The Suicide Squad",
-  partOfCollections: ["dc-extended-universe"],
+  partOfCollections: ["fandom/dc-extended-universe"],
   position: 10,
   ownLength: 0,
   ownProgress: 0,

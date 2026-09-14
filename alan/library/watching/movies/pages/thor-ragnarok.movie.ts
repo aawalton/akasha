@@ -5,7 +5,7 @@ export const thorRagnarok = {
   type: "movie",
   slug: "thor-ragnarok",
   title: "Thor: Ragnarok",
-  partOfCollections: ["marvel-cinematic-universe"],
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
   position: 17,
   ownLength: 0,
   ownProgress: 0,

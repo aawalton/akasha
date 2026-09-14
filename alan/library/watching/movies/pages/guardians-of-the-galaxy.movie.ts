@@ -5,7 +5,7 @@ export const guardiansOfTheGalaxy = {
   type: "movie",
   slug: "guardians-of-the-galaxy",
   title: "Guardians of the Galaxy",
-  partOfCollections: ["marvel-cinematic-universe"],
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
   position: 10,
   ownLength: 0,
   ownProgress: 0,

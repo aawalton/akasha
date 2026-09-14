@@ -5,7 +5,7 @@ export const dunePartOne = {
   type: "movie",
   slug: "dune-part-one",
   title: "Dune: Part One",
-  partOfCollections: ["dune-2"],
+  partOfCollections: ["fandom/dune-2"],
   position: 4,
   ownLength: 0,
   ownProgress: 0,

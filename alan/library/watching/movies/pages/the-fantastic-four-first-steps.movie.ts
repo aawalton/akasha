@@ -5,7 +5,7 @@ export const theFantasticFourFirstSteps = {
   type: "movie",
   slug: "the-fantastic-four-first-steps",
   title: "The Fantastic Four: First Steps",
-  partOfCollections: ["marvel-cinematic-universe"],
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
   position: 57,
   ownLength: 0,
   ownProgress: 0,
