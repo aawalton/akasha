@@ -7,9 +7,6 @@ export const image = {
   definition: "one picture the system has",
   pluralSlug: "images",
   extends: ["page-type/page"],
-  detailConfig: {
-    display: "default",
-  },
   invariants: [
     {
       invariantKind: "departure",

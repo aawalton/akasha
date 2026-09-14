@@ -8,7 +8,6 @@ export const persona = {
   pluralSlug: "personas",
   extends: ["page-type/domain"],
   detailConfig: {
-    display: "persona",
     frame: {
       autoScroll: {
         loadScroll: "end",

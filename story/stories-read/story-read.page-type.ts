@@ -9,7 +9,6 @@ export const storyRead = {
   extends: ["page-type/collection-external"],
   runsTabooCheck: false,
   detailConfig: {
-    display: "collection",
     header: {
       showCover: true,
       fields: [],

@@ -9,7 +9,6 @@ export const storyChapterRead = {
   extends: ["page-type/collection-external"],
   runsTabooCheck: false,
   detailConfig: {
-    display: "reader",
     frame: {
       edgeToEdge: true,
       focusMode: true,
