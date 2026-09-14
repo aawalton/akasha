@@ -14,7 +14,7 @@ export const cooldownSeconds = {
     },
     {
       invariantKind: "departure",
-      statement: "A service stating nothing here waits the minute every service waits by default.",
+      statement: "A service stating nothing here waits the hour every service waits by default.",
     },
     {
       invariantKind: "departure",

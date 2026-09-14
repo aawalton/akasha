@@ -1,4 +1,4 @@
-export const COOLDOWN_SECONDS = 60
+export const COOLDOWN_SECONDS = 3600
 
 export const REFUSAL_SECONDS = 600
 
