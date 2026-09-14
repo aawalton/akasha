@@ -5,7 +5,7 @@ export const shared = {
   type: "relationship-topic",
   slug: "shared",
   title: "Shared",
-  relationshipTopicParent: "interpersonal-pain-points",
+  relationshipTopicParent: "relationship-topic/interpersonal-pain-points",
   relationshipTopicSensitivity: "not-applicable",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

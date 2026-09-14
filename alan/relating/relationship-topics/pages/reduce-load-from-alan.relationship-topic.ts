@@ -5,7 +5,7 @@ export const reduceLoadFromAlan = {
   type: "relationship-topic",
   slug: "reduce-load-from-alan",
   title: "Reduce Load From Alan",
-  relationshipTopicParent: "reducing-jen-s-load-in-2026",
+  relationshipTopicParent: "relationship-topic/reducing-jen-s-load-in-2026",
   relationshipTopicSensitivity: "high",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

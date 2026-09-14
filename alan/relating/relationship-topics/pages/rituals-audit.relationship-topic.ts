@@ -5,7 +5,7 @@ export const ritualsAudit = {
   type: "relationship-topic",
   slug: "rituals-audit",
   title: "Rituals Audit",
-  relationshipTopicParent: "being-intentional",
+  relationshipTopicParent: "relationship-topic/being-intentional",
   relationshipTopicPeople: ["jenny"],
   relationshipTopicSensitivity: "medium",
   relationshipTopicStatus: "someday-maybe",

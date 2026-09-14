@@ -5,7 +5,7 @@ export const whitelistSpecificExpansions = {
   type: "relationship-topic",
   slug: "whitelist-specific-expansions",
   title: "Whitelist Specific Expansions",
-  relationshipTopicParent: "expectations-for-2026",
+  relationshipTopicParent: "relationship-topic/expectations-for-2026",
   relationshipTopicSensitivity: "high",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

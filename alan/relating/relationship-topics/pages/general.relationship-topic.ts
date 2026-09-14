@@ -5,7 +5,7 @@ export const general = {
   type: "relationship-topic",
   slug: "general",
   title: "General",
-  relationshipTopicParent: "parenting",
+  relationshipTopicParent: "relationship-topic/parenting",
   relationshipTopicPeople: ["jenny"],
   relationshipTopicSensitivity: "not-applicable",
   relationshipTopicStatus: "someday-maybe",

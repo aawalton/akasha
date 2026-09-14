@@ -5,7 +5,7 @@ export const interactionScriptCheatSheet = {
   type: "relationship-topic",
   slug: "interaction-script-cheat-sheet",
   title: "Interaction Script / Cheat Sheet",
-  relationshipTopicParent: "rules-of-engagement",
+  relationshipTopicParent: "relationship-topic/rules-of-engagement",
   relationshipTopicSensitivity: "medium",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

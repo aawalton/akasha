@@ -5,7 +5,7 @@ export const limitedExpansionForTheElderScrollsOnline = {
   type: "relationship-topic",
   slug: "limited-expansion-for-the-elder-scrolls-online",
   title: "Limited Expansion For The Elder Scrolls Online",
-  relationshipTopicParent: "whitelist-specific-expansions",
+  relationshipTopicParent: "relationship-topic/whitelist-specific-expansions",
   relationshipTopicSensitivity: "not-applicable",
   relationshipTopicStatus: "in-progress",
 } as const satisfies RelationshipTopic

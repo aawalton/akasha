@@ -5,7 +5,7 @@ export const safetyStocksAndFlows = {
   type: "relationship-topic",
   slug: "safety-stocks-and-flows",
   title: "Safety Stocks And Flows",
-  relationshipTopicParent: "alan-feeling-safe",
+  relationshipTopicParent: "relationship-topic/alan-feeling-safe",
   relationshipTopicSensitivity: "high",
   relationshipTopicStatus: "up-next",
 } as const satisfies RelationshipTopic

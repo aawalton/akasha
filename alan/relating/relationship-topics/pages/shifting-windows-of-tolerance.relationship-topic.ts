@@ -5,7 +5,7 @@ export const shiftingWindowsOfTolerance = {
   type: "relationship-topic",
   slug: "shifting-windows-of-tolerance",
   title: "Shifting Windows Of Tolerance",
-  relationshipTopicParent: "rules-of-engagement",
+  relationshipTopicParent: "relationship-topic/rules-of-engagement",
   relationshipTopicSensitivity: "medium",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

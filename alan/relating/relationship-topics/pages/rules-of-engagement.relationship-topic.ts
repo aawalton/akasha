@@ -5,7 +5,7 @@ export const rulesOfEngagement = {
   type: "relationship-topic",
   slug: "rules-of-engagement",
   title: "Rules Of Engagement",
-  relationshipTopicParent: "marriage-relationship",
+  relationshipTopicParent: "relationship-topic/marriage-relationship",
   relationshipTopicSensitivity: "high",
   relationshipTopicStatus: "up-next",
 } as const satisfies RelationshipTopic

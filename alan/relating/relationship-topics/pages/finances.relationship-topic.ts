@@ -5,7 +5,7 @@ export const finances = {
   type: "relationship-topic",
   slug: "finances",
   title: "Finances",
-  relationshipTopicParent: "coordinate-on-family-projects",
+  relationshipTopicParent: "relationship-topic/coordinate-on-family-projects",
   relationshipTopicSensitivity: "high",
   relationshipTopicStatus: "planned",
 } as const satisfies RelationshipTopic

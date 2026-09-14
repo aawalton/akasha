@@ -5,7 +5,7 @@ export const proposedRuleShouldWeNotHaveOrContinueConversationsWhenAlanSIsInYell
   type: "relationship-topic",
   slug: "proposed-rule-should-we-not-have-or-continue-conversations-when-alan-s-is-in-yellow",
   title: "Proposed Rule, Should We Not Have Or Continue Conversations When Alan's Is In Yellow",
-  relationshipTopicParent: "rules-of-engagement",
+  relationshipTopicParent: "relationship-topic/rules-of-engagement",
   relationshipTopicSensitivity: "high",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

@@ -5,7 +5,7 @@ export const beingIntentional = {
   type: "relationship-topic",
   slug: "being-intentional",
   title: "Being Intentional",
-  relationshipTopicParent: "marriage-relationship",
+  relationshipTopicParent: "relationship-topic/marriage-relationship",
   relationshipTopicSensitivity: "high",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

@@ -5,7 +5,7 @@ export const differences = {
   type: "relationship-topic",
   slug: "differences",
   title: "Differences",
-  relationshipTopicParent: "marriage-relationship",
+  relationshipTopicParent: "relationship-topic/marriage-relationship",
   relationshipTopicSensitivity: "medium",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

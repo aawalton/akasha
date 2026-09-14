@@ -5,7 +5,7 @@ export const narratives = {
   type: "relationship-topic",
   slug: "narratives",
   title: "Narratives",
-  relationshipTopicParent: "shared",
+  relationshipTopicParent: "relationship-topic/shared",
   relationshipTopicSensitivity: "not-applicable",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

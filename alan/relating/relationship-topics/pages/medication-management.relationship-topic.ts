@@ -5,7 +5,7 @@ export const medicationManagement = {
   type: "relationship-topic",
   slug: "medication-management",
   title: "Medication Management",
-  relationshipTopicParent: "coordinate-on-family-projects",
+  relationshipTopicParent: "relationship-topic/coordinate-on-family-projects",
   relationshipTopicSensitivity: "low",
   relationshipTopicStatus: "planned",
 } as const satisfies RelationshipTopic

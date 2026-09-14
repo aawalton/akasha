@@ -5,7 +5,7 @@ export const touch = {
   type: "relationship-topic",
   slug: "touch",
   title: "Touch",
-  relationshipTopicParent: "being-intentional",
+  relationshipTopicParent: "relationship-topic/being-intentional",
   relationshipTopicPeople: ["jenny"],
   relationshipTopicSensitivity: "high",
   relationshipTopicStatus: "someday-maybe",

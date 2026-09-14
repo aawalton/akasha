@@ -5,7 +5,7 @@ export const alan = {
   type: "relationship-topic",
   slug: "alan",
   title: "Alan",
-  relationshipTopicParent: "interpersonal-pain-points",
+  relationshipTopicParent: "relationship-topic/interpersonal-pain-points",
   relationshipTopicPeople: ["jenny"],
   relationshipTopicSensitivity: "not-applicable",
   relationshipTopicStatus: "someday-maybe",

@@ -5,7 +5,7 @@ export const mentalModels = {
   type: "relationship-topic",
   slug: "mental-models",
   title: "Mental Models",
-  relationshipTopicParent: "family-values-culture-and-vision",
+  relationshipTopicParent: "relationship-topic/family-values-culture-and-vision",
   relationshipTopicSensitivity: "high",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

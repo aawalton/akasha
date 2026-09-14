@@ -5,7 +5,7 @@ export const expectationsForNervousSystemRecovery = {
   type: "relationship-topic",
   slug: "expectations-for-nervous-system-recovery",
   title: "Expectations For Nervous System Recovery",
-  relationshipTopicParent: "expectations-for-2026",
+  relationshipTopicParent: "relationship-topic/expectations-for-2026",
   relationshipTopicSensitivity: "medium",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

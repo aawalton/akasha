@@ -5,7 +5,7 @@ export const gifts = {
   type: "relationship-topic",
   slug: "gifts",
   title: "Gifts",
-  relationshipTopicParent: "being-intentional",
+  relationshipTopicParent: "relationship-topic/being-intentional",
   relationshipTopicPeople: ["jenny"],
   relationshipTopicSensitivity: "high",
   relationshipTopicStatus: "someday-maybe",

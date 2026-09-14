@@ -5,7 +5,7 @@ export const narrativesAboutPastContribution = {
   type: "relationship-topic",
   slug: "narratives-about-past-contribution",
   title: "Narratives About Past Contribution",
-  relationshipTopicParent: "narratives",
+  relationshipTopicParent: "relationship-topic/narratives",
   relationshipTopicSensitivity: "critical",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

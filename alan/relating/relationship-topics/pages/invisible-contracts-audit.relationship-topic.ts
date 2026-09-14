@@ -5,7 +5,7 @@ export const invisibleContractsAudit = {
   type: "relationship-topic",
   slug: "invisible-contracts-audit",
   title: "Invisible Contracts Audit",
-  relationshipTopicParent: "being-intentional",
+  relationshipTopicParent: "relationship-topic/being-intentional",
   relationshipTopicPeople: ["jenny"],
   relationshipTopicSensitivity: "high",
   relationshipTopicStatus: "someday-maybe",

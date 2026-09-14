@@ -5,7 +5,7 @@ export const sex = {
   type: "relationship-topic",
   slug: "sex",
   title: "Sex",
-  relationshipTopicParent: "shared",
+  relationshipTopicParent: "relationship-topic/shared",
   relationshipTopicSensitivity: "critical",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

@@ -5,7 +5,7 @@ export const limitedExpansionForExternalRelationships = {
   type: "relationship-topic",
   slug: "limited-expansion-for-external-relationships",
   title: "Limited Expansion For External Relationships",
-  relationshipTopicParent: "whitelist-specific-expansions",
+  relationshipTopicParent: "relationship-topic/whitelist-specific-expansions",
   relationshipTopicSensitivity: "not-applicable",
   relationshipTopicStatus: "planned",
 } as const satisfies RelationshipTopic

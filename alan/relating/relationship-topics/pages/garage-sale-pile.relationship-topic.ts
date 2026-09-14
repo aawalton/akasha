@@ -5,7 +5,7 @@ export const garageSalePile = {
   type: "relationship-topic",
   slug: "garage-sale-pile",
   title: "Garage Sale Pile",
-  relationshipTopicParent: "long-term-vision-for-our-home",
+  relationshipTopicParent: "relationship-topic/long-term-vision-for-our-home",
   relationshipTopicSensitivity: "medium",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic
