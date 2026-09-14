@@ -6,7 +6,6 @@ import type {
 } from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
 import {
   type CadwellLevelCatalogEntry,
-  cadwellCompletedCount,
   cadwellCoordinates,
   cadwellCoordinatesUnder,
   cadwellTotalCount,
@@ -145,36 +144,6 @@ describe("cadwell coordinates", () => {
   })
 })
 
-describe("cadwellCompletedCount", () => {
-  test("counts a full almanac laid out exactly like the catalog", () => {
-    expect(cadwellCompletedCount(completionOf(buildCadwell(0)), null, LEVEL_CATALOG)).toBe(
-      TOTAL_COUNT
-    )
-  })
-
-  test("counts a full almanac whose levels are rotated, as another alliance reports them", () => {
-    for (let rotation = 1; rotation < LEVEL_CATALOG.length; rotation++) {
-      expect(cadwellCompletedCount(completionOf(buildCadwell(rotation)), null, LEVEL_CATALOG)).toBe(
-        TOTAL_COUNT
-      )
-    }
-  })
-
-  test("counts nothing when the character carries no almanac at all", () => {
-    expect(cadwellCompletedCount(completionOf(undefined), null, LEVEL_CATALOG)).toBe(0)
-    expect(cadwellCompletedCount(null, null, LEVEL_CATALOG)).toBe(0)
-  })
-
-  test("misses exactly the POI left undone, wherever the level sits", () => {
-    const undone = new Set([`${FIRST_STOP.zoneName} ${FIRST_STOP.poiName}`])
-    for (let rotation = 0; rotation < LEVEL_CATALOG.length; rotation++) {
-      expect(
-        cadwellCompletedCount(completionOf(buildCadwell(rotation, undone)), null, LEVEL_CATALOG)
-      ).toBe(TOTAL_COUNT - 1)
-    }
-  })
-})
-
 describe("isCadwellCoordinateComplete", () => {
   test("resolves a catalog coordinate against a rotated almanac by name", () => {
     const coordinate = cadwellCoordinatesUnder(
@@ -248,6 +217,5 @@ describe("isCadwellCoordinateComplete", () => {
 
     expect(isCadwellCoordinateComplete(completion, inAuridon)).toBe(true)
     expect(isCadwellCoordinateComplete(completion, inGrahtwood)).toBe(false)
-    expect(cadwellCompletedCount(completion, null, catalog)).toBe(1)
   })
 })

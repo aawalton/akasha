@@ -8,16 +8,8 @@ export const completionAccountCheckers = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
-      statement: "A checker here is built from a catalog handed in rather than a catalog imported.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The achievement catalog is held addon-side.",
-    },
-    {
-      invariantKind: "stopgap",
-      statement: "The registry names no account card.",
+      invariantKind: "absence",
+      statement: "The registry is empty and nothing here can fill it.",
     },
     {
       invariantKind: "gap",

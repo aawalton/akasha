@@ -99,18 +99,3 @@ export function isCadwellCoordinateComplete(
   if (!cadwell) return false
   return completedPoiNames(cadwell).has(poiKey(coordinate.zoneName, coordinate.poiName))
 }
-
-export function cadwellCompletedCount(
-  completion: CharacterCompletion | null | undefined,
-  itemPath: readonly (string | number)[] | null | undefined,
-  levelCatalog: readonly CadwellLevelCatalogEntry[]
-): number {
-  const cadwell = completion?.cadwell
-  if (!cadwell) return 0
-  const completed = completedPoiNames(cadwell)
-  let count = 0
-  for (const coordinate of cadwellCoordinatesUnder(itemPath, levelCatalog)) {
-    if (completed.has(poiKey(coordinate.zoneName, coordinate.poiName))) count++
-  }
-  return count
-}

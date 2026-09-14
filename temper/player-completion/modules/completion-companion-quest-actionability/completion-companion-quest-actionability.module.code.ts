@@ -55,25 +55,3 @@ export function pickFirstActionableCompanionQuest(
   }
   return undefined
 }
-
-export function isCompanionQuestPathComplete(
-  completedIds: ReadonlySet<number>,
-  rapportByDefId: Record<number, number>,
-  itemPath?: readonly (string | number)[] | null
-): boolean {
-  if (itemPath === undefined || itemPath === null || itemPath.length === 0) {
-    return pickFirstActionableCompanionQuest(completedIds, rapportByDefId) === undefined
-  }
-  const slug = String(itemPath[0])
-  const group = COMPANION_QUEST_DATA.find((g) => g.companionId === slug)
-  if (group === undefined) return false
-  if (itemPath.length === 1) {
-    return pickFirstActionableCompanionQuest(completedIds, rapportByDefId, slug) === undefined
-  }
-  const questId = Number(itemPath[1])
-  const quest = group.quests.find((q) => q.questId === questId)
-  if (quest === undefined) return false
-  const defId = getDefIdByCompanionId(group.companionId)
-  const currentLevel = defId !== undefined ? (rapportByDefId[defId] ?? 0) : 0
-  return !isCompanionQuestActionable(quest, completedIds, currentLevel)
-}

@@ -2,7 +2,6 @@ import { describe, expect, test } from "bun:test"
 import { COMPANION_QUEST_DATA } from "akasha/temper/player-completion/modules/companion-quest-data/companion-quest-data.module.code.ts"
 import {
   isCompanionQuestActionable,
-  isCompanionQuestPathComplete,
   pickFirstActionableCompanionQuest,
   sortedCompanionQuestGroups,
 } from "akasha/temper/player-completion/modules/completion-companion-quest-actionability/completion-companion-quest-actionability.module.code.ts"
@@ -112,78 +111,5 @@ describe("pickFirstActionableCompanionQuest", () => {
       pickFirstActionableCompanionQuest(new Set([6626]), { [DEFID_BASTIAN]: 1145 }, "bastian")
         ?.questId
     ).toBe(6662)
-  })
-})
-
-describe("isCompanionQuestPathComplete", () => {
-  describe("at the card level, where there is no path", () => {
-    test("it is incomplete while actionable quests remain", () => {
-      expect(isCompanionQuestPathComplete(new Set(), RAPPORT_ALL_MAX)).toBe(false)
-    })
-
-    test("it is complete once every quest is done", () => {
-      expect(isCompanionQuestPathComplete(new Set(ALL_QUEST_IDS), RAPPORT_ALL_MAX)).toBe(true)
-    })
-
-    test("it is complete when the starters are done and the rest are rapport-locked", () => {
-      expect(isCompanionQuestPathComplete(new Set(STARTER_QUEST_IDS), RAPPORT_ALL_LOCKED)).toBe(
-        true
-      )
-    })
-
-    test("an empty path and a null path are both read as no path", () => {
-      expect(isCompanionQuestPathComplete(new Set(ALL_QUEST_IDS), RAPPORT_ALL_MAX, [])).toBe(true)
-      expect(isCompanionQuestPathComplete(new Set(ALL_QUEST_IDS), RAPPORT_ALL_MAX, null)).toBe(true)
-    })
-  })
-
-  describe("at the companion level, where the path is one long", () => {
-    test("it is complete once that companion's quests are all done", () => {
-      expect(
-        isCompanionQuestPathComplete(new Set([6626, 6662, 6664]), RAPPORT_ALL_MAX, ["bastian"])
-      ).toBe(true)
-    })
-
-    test("it is incomplete while an actionable quest remains for that companion", () => {
-      expect(
-        isCompanionQuestPathComplete(new Set([6626]), { [DEFID_BASTIAN]: 1000 }, ["bastian"])
-      ).toBe(false)
-    })
-
-    test("it is complete when the remaining quests are rapport-locked", () => {
-      expect(
-        isCompanionQuestPathComplete(new Set([6626]), { [DEFID_BASTIAN]: 0 }, ["bastian"])
-      ).toBe(true)
-    })
-
-    test("it is incomplete for a companion slug nothing knows", () => {
-      expect(isCompanionQuestPathComplete(new Set(), RAPPORT_ALL_MAX, ["nobody"])).toBe(false)
-    })
-  })
-
-  describe("at the quest level, where the path is two long", () => {
-    test("a completed quest is complete", () => {
-      expect(
-        isCompanionQuestPathComplete(new Set([6626]), RAPPORT_ALL_MAX, ["bastian", 6626])
-      ).toBe(true)
-    })
-
-    test("an uncompleted but rapport-locked quest counts as complete", () => {
-      expect(
-        isCompanionQuestPathComplete(new Set([6626]), { [DEFID_BASTIAN]: 0 }, ["bastian", 6662])
-      ).toBe(true)
-    })
-
-    test("an uncompleted and unlocked quest is incomplete", () => {
-      expect(
-        isCompanionQuestPathComplete(new Set([6626]), { [DEFID_BASTIAN]: 1000 }, ["bastian", 6662])
-      ).toBe(false)
-    })
-
-    test("it is incomplete for a quest id nothing knows", () => {
-      expect(isCompanionQuestPathComplete(new Set(), RAPPORT_ALL_MAX, ["bastian", 999999])).toBe(
-        false
-      )
-    })
   })
 })
