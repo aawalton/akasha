@@ -1,16 +1,19 @@
 import { afterAll, expect, test } from "bun:test"
-import { writeFileSync } from "node:fs"
+import { existsSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
   auditOne,
   bodyFor,
   carriedOn,
   championOf,
+  childAt,
   commitOf,
+  judgedIn,
   keyFor,
   movedIn,
   type Over,
   roundOver,
+  spawning,
   telling,
   turnAt,
   turnedRed,
@@ -164,6 +167,32 @@ test("a round a request names checks for runs those checks alone", () => {
   expect(slugs(["typecheck"])).toEqual(["typecheck"])
   expect(slugs(["lint-clean", "new-check"])).toEqual(["lint-clean", "new-check"])
   expect(slugs(["nobody"])).toEqual([])
+})
+
+test("the file one check's audit runs from is asked of the index", () => {
+  expect(existsSync(childAt(process.cwd()))).toBe(true)
+})
+
+test("a verdict the child could not have written is read as no verdict", () => {
+  expect(judgedIn("not json at all")).toBeNull()
+  expect(judgedIn('{"path":"one.ts","reason":"no"}')).toBeNull()
+  expect(judgedIn('[{"path":"one.ts"}]')).toBeNull()
+  expect(judgedIn("[null]")).toBeNull()
+})
+
+test("a verdict the child wrote is read back whole", () => {
+  expect(judgedIn("[]")).toEqual([])
+  expect(judgedIn('[{"path":"one.ts","reason":"no","threw":true}]')).toEqual([
+    { path: "one.ts", reason: "no", threw: true },
+  ])
+})
+
+test("a check whose process could not be started could not run", async () => {
+  const root = scratch.rootFor("akasha-audit-apart-")
+  const found = await spawning(gathered("typecheck", root), NOTHING)
+  expect(found.length).toBe(1)
+  expect(found[0]?.threw).toBe(true)
+  expect(found[0]?.reason).toContain("typecheck")
 })
 
 test("a turn is a path of its own for each check", () => {

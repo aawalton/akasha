@@ -6,6 +6,7 @@ export const auditChild = {
   slug: "audit-child",
   definition: "one check's audit run in a process of its own, answered into a file it is handed",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
