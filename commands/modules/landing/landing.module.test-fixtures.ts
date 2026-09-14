@@ -1,5 +1,5 @@
 import { expect } from "bun:test"
-import { appendFileSync, existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { appendFileSync, cpSync, existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Judged, Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
@@ -42,8 +42,9 @@ export const scratch = scratchWorld()
 
 export const git = gitIn
 
-export function repoWith(named: Readonly<Record<string, string | Uint8Array>>): string {
-  const root = scratch.rootFor("akasha-landing-")
+const templates = new Map<string, string>()
+
+function seededAt(root: string, named: Readonly<Record<string, string | Uint8Array>>): string {
   git(root, ["init", "--quiet"])
   appendFileSync(join(root, ".git", "config"), "[user]\n\temail = held@nowhere\n\tname = Held\n")
   excludingIndex(root)
@@ -55,6 +56,21 @@ export function repoWith(named: Readonly<Record<string, string | Uint8Array>>): 
   git(root, ["add", "-A"])
   git(root, ["commit", "--quiet", "-m", "first"])
   keepBuilt(indexIn(root))
+  return root
+}
+
+function templateFor(named: Readonly<Record<string, string | Uint8Array>>): string {
+  const key = JSON.stringify(named)
+  const held = templates.get(key)
+  if (held !== undefined) return held
+  const at = seededAt(scratch.rootFor("akasha-landing-template-"), named)
+  templates.set(key, at)
+  return at
+}
+
+export function repoWith(named: Readonly<Record<string, string | Uint8Array>>): string {
+  const root = scratch.rootFor("akasha-landing-")
+  cpSync(templateFor(named), root, { recursive: true })
   return root
 }
 
@@ -167,7 +183,7 @@ async function carriedOnce(): Promise<string> {
 export async function carriedRepo(): Promise<string> {
   const from = await carriedOnce()
   const root = scratch.rootFor("akasha-landing-")
-  saying(["cp", "-a", `${from}/.`, root])
+  cpSync(from, root, { recursive: true })
   return root
 }
 
