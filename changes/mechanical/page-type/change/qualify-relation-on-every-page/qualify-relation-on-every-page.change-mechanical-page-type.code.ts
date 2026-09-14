@@ -13,11 +13,13 @@ import type { World } from "akasha/changes/modules/shadow/change-shadow.module.c
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import {
   eachTarget,
+  filedById,
   type Known,
   reaches,
   type Wanted,
 } from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
 import { addressIn, namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
+import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import ts from "typescript"
 
@@ -32,7 +34,12 @@ export type Asked = {
 export type Naming = {
   readonly wanted: Wanted
   readonly known: Known
-  readonly typeSlugById: (id: string) => string | null
+  readonly pageTypeOf: (id: string) => string | null
+}
+
+export function pageTypeIn(known: Known, id: string): string | null {
+  const one = filedById(known, id)
+  return one === null ? null : (partedIn(one.path)?.pageType ?? null)
 }
 
 export type Carried = {
@@ -60,13 +67,13 @@ export function namingFor(world: World, given: Asked): Naming | string {
   if (eachTarget(wanted).length === 0) {
     return `\`${given.key}\` on a \`${given.pageType}\` declares no page type to reach`
   }
-  return { wanted, known, typeSlugById: (id) => world.index.typeSlugById(id) }
+  return { wanted, known, pageTypeOf: (id) => pageTypeIn(known, id) }
 }
 
 export function qualifiedBy(naming: Naming, named: string): string | { readonly refused: string } {
   const reached = reaches(named, naming.wanted, naming.known)
   if ("refused" in reached) return reached
-  const pageTypeSlug = naming.typeSlugById(reached.id)
+  const pageTypeSlug = naming.pageTypeOf(reached.id)
   if (pageTypeSlug === null) return { refused: `\`${named}\` reaches a page of no page type` }
   return namedAs(pageTypeSlug, named, null)
 }

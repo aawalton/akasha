@@ -39,6 +39,10 @@ export const qualifyRelationOnEveryPage = {
     },
     {
       invariantKind: "departure",
+      statement: "The page type of the page reached is read off the name of that page's file.",
+    },
+    {
+      invariantKind: "departure",
       statement: "One page's property is answered by one edit over that property.",
     },
     {

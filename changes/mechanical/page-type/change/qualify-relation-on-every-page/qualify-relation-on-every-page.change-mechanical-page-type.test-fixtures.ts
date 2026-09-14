@@ -151,7 +151,6 @@ export function worldFor(
     propertiesIfNamed: () => carried,
     valuesByPath: () => values,
     knownIn: () => known,
-    typeSlugById: (id: string) => pages.find((each) => each.id === id)?.pageTypeSlug ?? null,
   } as never
   const ledger = ledgerAt(NOWHERE, filesOf(bodies), reaching)
   return Object.defineProperty(ledger, "index", { value: index })
