@@ -95,6 +95,9 @@ export type Changes = {
   "change-agent/nest-modules": Parameters<
     typeof import("akasha/changes/agent/folder/nest-modules/nest-modules.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/qualify-relation-on-every-page": Parameters<
+    typeof import("akasha/changes/agent/page-type/qualify-relation-on-every-page/qualify-relation-on-every-page.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/remove-every-page-of-a-type": Parameters<
     typeof import("akasha/changes/agent/page-type/remove-every-page-of-a-type/remove-every-page-of-a-type.change-agent.code.ts")["runChange"]
   >[1]
@@ -274,6 +277,9 @@ export type Changes = {
   >[1]
   "change-mechanical-page-type/move-property-on-every-page": Parameters<
     typeof import("akasha/changes/mechanical/page-type/move/move-property-on-every-page/move-property-on-every-page.change-mechanical-page-type.code.ts")["runChange"]
+  >[1]
+  "change-mechanical-page-type/qualify-relation-on-every-page": Parameters<
+    typeof import("akasha/changes/mechanical/page-type/change/qualify-relation-on-every-page/qualify-relation-on-every-page.change-mechanical-page-type.code.ts")["runChange"]
   >[1]
   "change-mechanical-page-type/remove-every-page-of-a-type": Parameters<
     typeof import("akasha/changes/mechanical/page-type/remove/remove-every-page-of-a-type/remove-every-page-of-a-type.change-mechanical-page-type.code.ts")["runChange"]

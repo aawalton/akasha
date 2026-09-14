@@ -95,6 +95,9 @@ export type Changes = {
   "change-agent/nest-modules": Parameters<
     typeof import("akasha/changes/agent/folder/nest-modules/nest-modules.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/qualify-relation-on-every-page": Parameters<
+    typeof import("akasha/changes/agent/page-type/qualify-relation-on-every-page/qualify-relation-on-every-page.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/remove-every-page-of-a-type": Parameters<
     typeof import("akasha/changes/agent/page-type/remove-every-page-of-a-type/remove-every-page-of-a-type.change-agent.code.ts")["runChange"]
   >[1]

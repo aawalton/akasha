@@ -4,10 +4,11 @@ export const changeMechanicalPageTypeChange = {
   id: "01a09c6e-7c73-7c16-9054-f8d3b748d48c",
   type: "domain",
   slug: "change-mechanical-page-type-change",
-  definition: "a mechanical change stating a page type's declaration of one property anew",
+  definition: "a mechanical change stating one property of a page type anew",
   parts: [
     "change-mechanical-page-type/change-calculation-held-type",
     "change-mechanical-page-type/change-property-on-page-type",
+    "change-mechanical-page-type/qualify-relation-on-every-page",
   ],
   invariants: [
     {
@@ -16,7 +17,7 @@ export const changeMechanicalPageTypeChange = {
     },
     {
       invariantKind: "departure",
-      statement: "A rung here states the declaration anew beside the pages under it.",
+      statement: "A rung here writes the declaration, the pages under it, or both.",
     },
   ],
 } as const satisfies Domain
