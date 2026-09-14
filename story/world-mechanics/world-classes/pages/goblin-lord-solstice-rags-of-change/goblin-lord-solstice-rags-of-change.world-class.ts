@@ -5,7 +5,7 @@ export const goblinLordSolsticeRagsOfChange = {
   type: "world-class",
   slug: "goblin-lord-solstice-rags-of-change",
   title: "Goblin Lord (Solstice) – “Rags of Change”",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesFromSlugs: ["great-chieftain"],
   references: "jsonl",
 } as const satisfies WorldClass

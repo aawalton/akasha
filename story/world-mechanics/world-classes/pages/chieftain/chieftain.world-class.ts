@@ -5,7 +5,7 @@ export const chieftain = {
   type: "world-class",
   slug: "chieftain",
   title: "Chieftain",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["chieftains"],
   evolvesFromSlugs: ["leader"],
   references: "jsonl",

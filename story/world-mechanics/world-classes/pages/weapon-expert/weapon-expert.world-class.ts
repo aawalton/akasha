@@ -5,7 +5,7 @@ export const weaponExpert = {
   type: "world-class",
   slug: "weapon-expert",
   title: "Weapon Expert",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["weapon-experts"],
   evolvesFromSlugs: ["warrior"],
   references: "jsonl",

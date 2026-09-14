@@ -5,6 +5,6 @@ export const speedPainter = {
   type: "world-class",
   slug: "speed-painter",
   title: "Speed Painter",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

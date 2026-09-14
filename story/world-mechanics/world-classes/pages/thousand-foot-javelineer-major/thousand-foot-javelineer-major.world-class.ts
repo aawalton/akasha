@@ -5,6 +5,6 @@ export const thousandFootJavelineerMajor = {
   type: "world-class",
   slug: "thousand-foot-javelineer-major",
   title: "Thousand-Foot Javelineer Major",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

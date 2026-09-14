@@ -5,7 +5,7 @@ export const innkeeperOfTheMagicalFrontier = {
   type: "world-class",
   slug: "innkeeper-of-the-magical-frontier",
   title: "Innkeeper of the Magical Frontier",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesFromSlugs: ["vice-innkeeper-of-spells"],
   references: "jsonl",
 } as const satisfies WorldClass

@@ -5,7 +5,7 @@ export const birdHunter = {
   type: "world-class",
   slug: "bird-hunter",
   title: "Bird Hunter",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesToSlugs: ["bow-warden-of-the-songbird"],
   references: "jsonl",
 } as const satisfies WorldClass

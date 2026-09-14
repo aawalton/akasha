@@ -5,7 +5,7 @@ export const queen = {
   type: "world-class",
   slug: "queen",
   title: "Queen",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["queens"],
   evolvesToSlugs: ["antinium-queen"],
   references: "jsonl",

@@ -5,5 +5,5 @@ export const minerOfTheMagicPickaxe = {
   type: "world-class",
   slug: "miner-of-the-magic-pickaxe",
   title: "Miner of the Magic Pickaxe",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldClass

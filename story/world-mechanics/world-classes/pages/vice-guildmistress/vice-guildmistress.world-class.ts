@@ -5,7 +5,7 @@ export const viceGuildmistress = {
   type: "world-class",
   slug: "vice-guildmistress",
   title: "Vice Guildmistress",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesFromSlugs: ["experienced-receptionist"],
   evolvesToSlugs: ["guildmistress-of-northern-blades"],
   references: "jsonl",

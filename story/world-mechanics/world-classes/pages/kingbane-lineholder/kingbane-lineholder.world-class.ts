@@ -5,7 +5,7 @@ export const kingbaneLineholder = {
   type: "world-class",
   slug: "kingbane-lineholder",
   title: "Kingbane Lineholder",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesFromSlugs: ["doorgnoll"],
   references: "jsonl",
 } as const satisfies WorldClass

@@ -5,6 +5,6 @@ export const javelineerMajor = {
   type: "world-class",
   slug: "javelineer-major",
   title: "Javelineer Major",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

@@ -5,6 +5,6 @@ export const prisonerOfTheMindsClassRemoved = {
   type: "world-class",
   slug: "prisoner-of-the-minds-class-removed",
   title: "Prisoner of the Minds class removed.",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

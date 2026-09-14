@@ -5,6 +5,6 @@ export const fleshchosenFormshaper = {
   type: "world-class",
   slug: "fleshchosen-formshaper",
   title: "Fleshchosen Formshaper",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

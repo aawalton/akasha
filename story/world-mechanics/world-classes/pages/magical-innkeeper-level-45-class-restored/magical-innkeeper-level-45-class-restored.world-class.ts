@@ -5,6 +5,6 @@ export const magicalInnkeeperLevel45ClassRestored = {
   type: "world-class",
   slug: "magical-innkeeper-level-45-class-restored",
   title: "Magical Innkeeper Level 45 – Class Restored.",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

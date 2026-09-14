@@ -5,6 +5,6 @@ export const rank2HorrorSealedSecret = {
   type: "world-class",
   slug: "rank-2-horror-sealed-secret",
   title: "Rank 2 Horror – Sealed Secret.",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

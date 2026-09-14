@@ -5,7 +5,7 @@ export const pitfallTrapmasterSaboteur = {
   type: "world-class",
   slug: "pitfall-trapmaster-saboteur",
   title: "Pitfall Trapmaster Saboteur",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesFromSlugs: ["trap-rogue"],
   references: "jsonl",
 } as const satisfies WorldClass

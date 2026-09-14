@@ -5,6 +5,6 @@ export const flowerOfIzrilLadyOfTheDragonSPromise = {
   type: "world-class",
   slug: "flower-of-izril-lady-of-the-dragon-s-promise",
   title: "Flower of Izril, Lady of the Dragon’s Promise",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

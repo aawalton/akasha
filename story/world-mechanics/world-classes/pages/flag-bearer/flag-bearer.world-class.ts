@@ -5,7 +5,7 @@ export const flagBearer = {
   type: "world-class",
   slug: "flag-bearer",
   title: "Flag Bearer",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["flag-bearers"],
   evolvesToSlugs: ["banner-leader"],
   references: "jsonl",

@@ -5,5 +5,5 @@ export const oldbloodFlamebreathWarrior = {
   type: "world-class",
   slug: "oldblood-flamebreath-warrior",
   title: "Oldblood Flamebreath Warrior",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldClass

@@ -5,6 +5,6 @@ export const classConsolidationFarmerFarmLady = {
   type: "world-class",
   slug: "class-consolidation-farmer-farm-lady",
   title: "Class Consolidation: Farmer → Farm Lady!",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

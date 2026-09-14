@@ -5,7 +5,7 @@ export const survivor = {
   type: "world-class",
   slug: "survivor",
   title: "Survivor",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["survivors"],
   evolvesToSlugs: ["underworld-survivor"],
   references: "jsonl",

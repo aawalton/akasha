@@ -5,7 +5,7 @@ export const blademasterThePathOfLegends = {
   type: "world-class",
   slug: "blademaster-the-path-of-legends",
   title: "Blademaster, the Path of Legends",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesFromSlugs: ["blademaster-of-the-crimson-field"],
   references: "jsonl",
 } as const satisfies WorldClass

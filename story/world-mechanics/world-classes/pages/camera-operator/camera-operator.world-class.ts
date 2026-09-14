@@ -5,6 +5,6 @@ export const cameraOperator = {
   type: "world-class",
   slug: "camera-operator",
   title: "Camera Operator",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

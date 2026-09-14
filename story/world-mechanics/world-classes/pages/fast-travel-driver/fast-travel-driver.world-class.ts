@@ -5,6 +5,6 @@ export const fastTravelDriver = {
   type: "world-class",
   slug: "fast-travel-driver",
   title: "Fast Travel Driver",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

@@ -5,6 +5,6 @@ export const sentryLeaders = {
   type: "world-class",
   slug: "sentry-leaders",
   title: "Sentry Leaders",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

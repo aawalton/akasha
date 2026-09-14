@@ -5,6 +5,6 @@ export const sailingAdmiral = {
   type: "world-class",
   slug: "sailing-admiral",
   title: "Sailing Admiral",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesToSlugs: ["intractable-admiral-of-sacrifice"],
 } as const satisfies WorldClass

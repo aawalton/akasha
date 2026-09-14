@@ -5,7 +5,7 @@ export const djinnSLegacySeeker = {
   type: "world-class",
   slug: "djinn-s-legacy-seeker",
   title: "Djinn’s Legacy Seeker",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesFromSlugs: ["seeker"],
   references: "jsonl",
 } as const satisfies WorldClass

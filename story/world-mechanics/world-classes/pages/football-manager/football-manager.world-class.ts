@@ -5,6 +5,6 @@ export const footballManager = {
   type: "world-class",
   slug: "football-manager",
   title: "Football Manager",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

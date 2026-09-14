@@ -5,7 +5,7 @@ export const witch = {
   type: "world-class",
   slug: "witch",
   title: "Witch",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["WITCH"],
   evolvesToSlugs: ["witch-of-second-chances"],
   references: "jsonl",

@@ -5,6 +5,6 @@ export const terrorOfTheInfantryVanguardCaptainOfSelphidkind = {
   type: "world-class",
   slug: "terror-of-the-infantry-vanguard-captain-of-selphidkind",
   title: "Terror of the Infantry, Vanguard-Captain of Selphidkind",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

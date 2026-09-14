@@ -5,6 +5,6 @@ export const masterworkSellswordOfCorruption = {
   type: "world-class",
   slug: "masterwork-sellsword-of-corruption",
   title: "Masterwork Sellsword of Corruption",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

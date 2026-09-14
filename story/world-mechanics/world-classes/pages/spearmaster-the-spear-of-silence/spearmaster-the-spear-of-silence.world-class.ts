@@ -5,7 +5,7 @@ export const spearmasterTheSpearOfSilence = {
   type: "world-class",
   slug: "spearmaster-the-spear-of-silence",
   title: "Spearmaster: The Spear of Silence",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesFromSlugs: ["spearmaster"],
   references: "jsonl",
 } as const satisfies WorldClass

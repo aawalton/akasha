@@ -5,6 +5,6 @@ export const formshapers = {
   type: "world-class",
   slug: "formshapers",
   title: "Formshapers",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

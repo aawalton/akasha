@@ -5,7 +5,7 @@ export const cursedPrincess = {
   type: "world-class",
   slug: "cursed-princess",
   title: "Cursed Princess",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesFromSlugs: ["deathtouch-princess"],
   evolvesToSlugs: ["curse-bearer-princess"],
   references: "jsonl",

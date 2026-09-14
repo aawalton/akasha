@@ -5,6 +5,6 @@ export const basicCartographer = {
   type: "world-class",
   slug: "basic-cartographer",
   title: "Basic Cartographer",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

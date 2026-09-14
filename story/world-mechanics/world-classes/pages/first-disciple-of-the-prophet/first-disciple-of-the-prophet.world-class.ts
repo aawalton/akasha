@@ -5,6 +5,6 @@ export const firstDiscipleOfTheProphet = {
   type: "world-class",
   slug: "first-disciple-of-the-prophet",
   title: "First Disciple of the Prophet",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesToSlugs: ["warrior-priestess-of-god-s-cloth"],
 } as const satisfies WorldClass

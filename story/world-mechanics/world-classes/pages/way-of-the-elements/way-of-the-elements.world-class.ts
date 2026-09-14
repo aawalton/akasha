@@ -5,6 +5,6 @@ export const wayOfTheElements = {
   type: "world-class",
   slug: "way-of-the-elements",
   title: "Way of the Elements",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

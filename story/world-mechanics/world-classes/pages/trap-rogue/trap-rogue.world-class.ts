@@ -5,6 +5,6 @@ export const trapRogue = {
   type: "world-class",
   slug: "trap-rogue",
   title: "Trap Rogue",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesToSlugs: ["pitfall-trapmaster-saboteur"],
 } as const satisfies WorldClass

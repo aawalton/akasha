@@ -5,6 +5,6 @@ export const conditionsMetGreenMageBloodearthMageClass = {
   type: "world-class",
   slug: "conditions-met-green-mage-bloodearth-mage-class",
   title: "Conditions Met: Green Mage → Bloodearth Mage Class.",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

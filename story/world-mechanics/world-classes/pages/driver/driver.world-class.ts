@@ -5,7 +5,7 @@ export const driver = {
   type: "world-class",
   slug: "driver",
   title: "Driver",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["drivers"],
   references: "jsonl",
 } as const satisfies WorldClass

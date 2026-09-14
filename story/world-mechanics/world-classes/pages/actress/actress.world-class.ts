@@ -5,7 +5,7 @@ export const actress = {
   type: "world-class",
   slug: "actress",
   title: "Actress",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesToSlugs: ["lead-actress"],
   references: "jsonl",
 } as const satisfies WorldClass

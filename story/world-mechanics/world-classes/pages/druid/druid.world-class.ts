@@ -5,7 +5,7 @@ export const druid = {
   type: "world-class",
   slug: "druid",
   title: "Druid",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["druids"],
   evolvesFromSlugs: ["mage"],
   evolvesToSlugs: ["druid-of-the-lucky-world-child-of-omens-ember-of-the-eternal-solstice"],

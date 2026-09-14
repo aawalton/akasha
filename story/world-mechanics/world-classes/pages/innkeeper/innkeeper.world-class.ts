@@ -5,7 +5,7 @@ export const innkeeper = {
   type: "world-class",
   slug: "innkeeper",
   title: "Innkeeper",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["INNKEEPER", "innkeeper", "innkeepers"],
   evolvesToSlugs: ["awesome-innkeeper", "magical-innkeeper"],
   references: "jsonl",

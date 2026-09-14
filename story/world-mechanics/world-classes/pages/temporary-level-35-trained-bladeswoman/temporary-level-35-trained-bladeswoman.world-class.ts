@@ -5,6 +5,6 @@ export const temporaryLevel35TrainedBladeswoman = {
   type: "world-class",
   slug: "temporary-level-35-trained-bladeswoman",
   title: "Temporary Level 35 Trained Bladeswoman!",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

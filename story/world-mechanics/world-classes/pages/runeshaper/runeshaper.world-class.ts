@@ -5,6 +5,6 @@ export const runeshaper = {
   type: "world-class",
   slug: "runeshaper",
   title: "Runeshaper",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

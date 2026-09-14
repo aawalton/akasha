@@ -5,5 +5,5 @@ export const chieftainOfTheGrandAlliance = {
   type: "world-class",
   slug: "chieftain-of-the-grand-alliance",
   title: "Chieftain of the Grand Alliance",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldClass

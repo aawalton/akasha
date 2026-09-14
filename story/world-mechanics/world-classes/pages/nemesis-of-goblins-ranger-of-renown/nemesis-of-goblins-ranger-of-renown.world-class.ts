@@ -5,6 +5,6 @@ export const nemesisOfGoblinsRangerOfRenown = {
   type: "world-class",
   slug: "nemesis-of-goblins-ranger-of-renown",
   title: "Nemesis of Goblins, Ranger of Renown",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

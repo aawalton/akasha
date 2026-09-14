@@ -5,5 +5,5 @@ export const courtesanOfTheReflectedFaAdes = {
   type: "world-class",
   slug: "courtesan-of-the-reflected-fa-ades",
   title: "Courtesan of the Reflected Façades",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldClass

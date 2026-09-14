@@ -5,5 +5,5 @@ export const lordOfThunderousHearts = {
   type: "world-class",
   slug: "lord-of-thunderous-hearts",
   title: "Lord of Thunderous Hearts",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldClass

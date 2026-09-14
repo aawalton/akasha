@@ -5,7 +5,7 @@ export const mirmilinEsHivuleSekururu = {
   type: "world-class",
   slug: "mirmilin-es-hivule-sekururu",
   title: "Mirmilin Es’hivule Sekururu",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesFromSlugs: ["shaman-of-the-old-ways"],
   references: "jsonl",
 } as const satisfies WorldClass

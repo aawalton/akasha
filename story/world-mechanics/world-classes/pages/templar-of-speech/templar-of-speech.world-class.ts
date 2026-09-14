@@ -5,6 +5,6 @@ export const templarOfSpeech = {
   type: "world-class",
   slug: "templar-of-speech",
   title: "Templar of Speech",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesToSlugs: ["templar-of-the-sky"],
 } as const satisfies WorldClass

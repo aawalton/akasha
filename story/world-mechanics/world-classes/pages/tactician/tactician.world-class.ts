@@ -5,7 +5,7 @@ export const tactician = {
   type: "world-class",
   slug: "tactician",
   title: "Tactician",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["tacticians"],
   evolvesToSlugs: ["strategist-of-sympathy"],
   references: "jsonl",

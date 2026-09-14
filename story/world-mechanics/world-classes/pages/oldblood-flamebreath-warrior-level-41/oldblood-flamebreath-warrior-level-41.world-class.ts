@@ -5,6 +5,6 @@ export const oldbloodFlamebreathWarriorLevel41 = {
   type: "world-class",
   slug: "oldblood-flamebreath-warrior-level-41",
   title: "Oldblood Flamebreath Warrior Level 41",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

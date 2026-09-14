@@ -5,6 +5,6 @@ export const patternlordOfGravenIcons = {
   type: "world-class",
   slug: "patternlord-of-graven-icons",
   title: "Patternlord of Graven Icons",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

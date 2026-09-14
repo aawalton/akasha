@@ -5,6 +5,6 @@ export const castaways = {
   type: "world-class",
   slug: "castaways",
   title: "Castaways",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

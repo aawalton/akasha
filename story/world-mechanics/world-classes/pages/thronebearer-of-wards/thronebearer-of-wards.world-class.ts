@@ -5,7 +5,7 @@ export const thronebearerOfWards = {
   type: "world-class",
   slug: "thronebearer-of-wards",
   title: "Thronebearer of Wards",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesToSlugs: ["thronebearer-of-the-6th-princess"],
   references: "jsonl",
 } as const satisfies WorldClass

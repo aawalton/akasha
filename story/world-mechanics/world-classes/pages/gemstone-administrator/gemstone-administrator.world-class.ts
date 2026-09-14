@@ -5,6 +5,6 @@ export const gemstoneAdministrator = {
   type: "world-class",
   slug: "gemstone-administrator",
   title: "Gemstone Administrator",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

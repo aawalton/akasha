@@ -5,6 +5,6 @@ export const stellarServer = {
   type: "world-class",
   slug: "stellar-server",
   title: "Stellar Server",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

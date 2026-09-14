@@ -5,6 +5,6 @@ export const goblinChieftain = {
   type: "world-class",
   slug: "goblin-chieftain",
   title: "Goblin Chieftain",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesToSlugs: ["chieftain-of-the-maw"],
 } as const satisfies WorldClass

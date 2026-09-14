@@ -5,6 +5,6 @@ export const sensorLookout = {
   type: "world-class",
   slug: "sensor-lookout",
   title: "Sensor Lookout",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

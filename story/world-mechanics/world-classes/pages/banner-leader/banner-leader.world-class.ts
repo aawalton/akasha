@@ -5,7 +5,7 @@ export const bannerLeader = {
   type: "world-class",
   slug: "banner-leader",
   title: "Banner Leader",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesFromSlugs: ["flag-bearer"],
   references: "jsonl",
 } as const satisfies WorldClass

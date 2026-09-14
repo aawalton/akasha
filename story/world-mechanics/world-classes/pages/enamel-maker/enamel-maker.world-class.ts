@@ -5,6 +5,6 @@ export const enamelMaker = {
   type: "world-class",
   slug: "enamel-maker",
   title: "Enamel Maker",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

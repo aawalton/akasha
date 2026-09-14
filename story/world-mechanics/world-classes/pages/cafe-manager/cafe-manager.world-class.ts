@@ -5,6 +5,6 @@ export const cafeManager = {
   type: "world-class",
   slug: "cafe-manager",
   title: "Cafe Manager",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

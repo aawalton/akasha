@@ -5,5 +5,5 @@ export const assertiveCouncilmember = {
   type: "world-class",
   slug: "assertive-councilmember",
   title: "Assertive Councilmember",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldClass

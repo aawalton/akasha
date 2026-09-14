@@ -5,6 +5,6 @@ export const illustrator = {
   type: "world-class",
   slug: "illustrator",
   title: "Illustrator",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

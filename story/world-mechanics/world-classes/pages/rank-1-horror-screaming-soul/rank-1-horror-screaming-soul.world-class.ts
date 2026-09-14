@@ -5,6 +5,6 @@ export const rank1HorrorScreamingSoul = {
   type: "world-class",
   slug: "rank-1-horror-screaming-soul",
   title: "Rank 1 Horror – Screaming Soul.",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

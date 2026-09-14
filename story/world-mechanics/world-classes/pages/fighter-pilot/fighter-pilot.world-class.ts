@@ -5,7 +5,7 @@ export const fighterPilot = {
   type: "world-class",
   slug: "fighter-pilot",
   title: "Fighter Pilot",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["FIGHTER PILOT"],
   evolvesToSlugs: ["wartouched-fighter-pilot"],
   references: "jsonl",

@@ -5,7 +5,7 @@ export const berserker = {
   type: "world-class",
   slug: "berserker",
   title: "Berserker",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["berserkers"],
   evolvesFromSlugs: ["warrior"],
   references: "jsonl",

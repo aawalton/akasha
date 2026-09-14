@@ -5,7 +5,7 @@ export const goth = {
   type: "world-class",
   slug: "goth",
   title: "Goth",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["goths"],
   evolvesToSlugs: ["midnight-goth"],
   references: "jsonl",

@@ -5,6 +5,6 @@ export const bugRemover = {
   type: "world-class",
   slug: "bug-remover",
   title: "Bug Remover",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

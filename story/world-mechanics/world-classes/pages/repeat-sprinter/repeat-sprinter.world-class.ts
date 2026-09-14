@@ -5,6 +5,6 @@ export const repeatSprinter = {
   type: "world-class",
   slug: "repeat-sprinter",
   title: "Repeat Sprinter",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

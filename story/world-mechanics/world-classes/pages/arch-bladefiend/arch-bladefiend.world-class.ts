@@ -5,6 +5,6 @@ export const archBladefiend = {
   type: "world-class",
   slug: "arch-bladefiend",
   title: "Arch Bladefiend",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

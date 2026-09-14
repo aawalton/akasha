@@ -5,6 +5,6 @@ export const doomguardGladiatorChampion = {
   type: "world-class",
   slug: "doomguard-gladiator-champion",
   title: "Doomguard Gladiator Champion",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

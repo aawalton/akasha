@@ -5,7 +5,7 @@ export const deathbaneNecromancer = {
   type: "world-class",
   slug: "deathbane-necromancer",
   title: "Deathbane Necromancer",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesFromSlugs: ["ossific-necromancer"],
   evolvesToSlugs: ["necromancer-of-reclaimed-grandeur"],
   references: "jsonl",

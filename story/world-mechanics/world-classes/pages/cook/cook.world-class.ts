@@ -5,7 +5,7 @@ export const cook = {
   type: "world-class",
   slug: "cook",
   title: "Cook",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["cooks"],
   evolvesToSlugs: ["forager-cook"],
   references: "jsonl",

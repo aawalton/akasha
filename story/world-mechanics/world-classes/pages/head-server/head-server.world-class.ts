@@ -5,6 +5,6 @@ export const headServer = {
   type: "world-class",
   slug: "head-server",
   title: "Head Server",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

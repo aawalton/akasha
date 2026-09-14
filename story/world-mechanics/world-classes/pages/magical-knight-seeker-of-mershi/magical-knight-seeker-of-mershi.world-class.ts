@@ -5,5 +5,5 @@ export const magicalKnightSeekerOfMershi = {
   type: "world-class",
   slug: "magical-knight-seeker-of-mershi",
   title: "Magical Knight-Seeker of Mershi",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
 } as const satisfies WorldClass

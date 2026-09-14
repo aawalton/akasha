@@ -5,6 +5,6 @@ export const timekeeperGeneral = {
   type: "world-class",
   slug: "timekeeper-general",
   title: "Timekeeper General",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

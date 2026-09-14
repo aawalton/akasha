@@ -5,7 +5,7 @@ export const kicker = {
   type: "world-class",
   slug: "kicker",
   title: "Kicker",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   aliases: ["kickers"],
   evolvesToSlugs: ["football-player"],
   references: "jsonl",

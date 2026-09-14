@@ -5,6 +5,6 @@ export const hedonisticWastrel = {
   type: "world-class",
   slug: "hedonistic-wastrel",
   title: "Hedonistic Wastrel",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesToSlugs: ["genius-of-sloth"],
 } as const satisfies WorldClass

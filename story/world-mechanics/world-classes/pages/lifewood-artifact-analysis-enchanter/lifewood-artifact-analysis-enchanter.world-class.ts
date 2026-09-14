@@ -5,6 +5,6 @@ export const lifewoodArtifactAnalysisEnchanter = {
   type: "world-class",
   slug: "lifewood-artifact-analysis-enchanter",
   title: "Lifewood Artifact Analysis Enchanter",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

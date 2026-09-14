@@ -5,7 +5,7 @@ export const famedCoach = {
   type: "world-class",
   slug: "famed-coach",
   title: "Famed Coach",
-  world: "the-wandering-inn",
+  world: "world/the-wandering-inn",
   evolvesFromSlugs: ["coach"],
   evolvesToSlugs: ["world-renowned-coach"],
   references: "jsonl",
