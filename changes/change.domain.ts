@@ -6,6 +6,22 @@ export const change = {
   slug: "change",
   definition: "how a change to the repository is worked out and reached by name",
   parts: ["page-type/change"],
+  invariants: [
+    {
+      invariantKind: "upkeep",
+      statement: "Every target type, subtype and mode that together make sense has a change.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Where the pages of a page type sit is no concern of that page type, so no change carries them.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "One root manifest is the only manifest, so no change adds a manifest or a way into one.",
+    },
+  ],
   directives: [
     {
       directiveKind: "rule",
