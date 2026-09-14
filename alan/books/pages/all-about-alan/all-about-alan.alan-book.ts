@@ -35,7 +35,7 @@ export const allAboutAlan = {
   ],
   directives: [
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Authorship",
       act: "Never write a claim about Alan he has not made.",
       warrant:
@@ -46,7 +46,7 @@ export const allAboutAlan = {
       ],
     },
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Voice",
       act: "Write every note in Alan's first person.",
       warrant:
