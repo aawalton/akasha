@@ -22,6 +22,11 @@ export const rynFileStructure = {
       statement: "No slug is plural.",
     },
     {
+      statement: "One rename carries every page whose folder name that rename breaks.",
+      workingMemory:
+        "Renaming `pages-core` was refused until its seven children renamed too: a child folder's name is its slug stripped of the parent's, and the strip stops working. Nothing states that a child's slug opens with its parent's, so the cascade falls out of the folder-naming rule alone and `rename-page` can derive it from which folders stop matching a shape. A list would be wrong: `day` has 256 prefixed children and rightly cascaded to none. Waits on one spelling of that rule, today written three times.",
+    },
+    {
       statement: "A domain wrapping one page and that page are one page.",
       workingMemory:
         "Eighteen slugs were held by both a domain page and a page type; all are landed or in flight. The same shape reaches pages that are no page type. Of 54 service-workstations, 14 already sit alone in their own folder under the a-service-workstation-with-its-parts shape, and 2 carry a wrapper domain: temper-watcher and pages-service, both in flight. Four more — git-transport, eso-rig, auth-proxy, postgres-annual-dump — wrap a service-cluster and wait on the registry intent below.\n",
