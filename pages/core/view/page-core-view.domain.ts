@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
-export const pagesCoreView = {
+export const pageCoreView = {
   id: "01a071cb-580b-710d-a9ae-c371fe8df6c3",
   type: "domain",
-  slug: "pages-core-view",
+  slug: "page-core-view",
   definition: "what a view makes of the rows handed to it",
   parts: [
     "module/apply-filters",

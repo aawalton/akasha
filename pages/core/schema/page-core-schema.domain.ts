@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
-export const pagesCoreSchema = {
+export const pageCoreSchema = {
   id: "01a071cb-3d85-7fcd-8315-90eca5831d35",
   type: "domain",
-  slug: "pages-core-schema",
+  slug: "page-core-schema",
   definition: "the shape a zod validator names a config value must have",
   parts: [
     "module/action-button-config",
