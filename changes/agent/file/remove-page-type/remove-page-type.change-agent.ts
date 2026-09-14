@@ -37,4 +37,5 @@ export const removePageType = {
     },
   ],
   changeKind: "change-checked",
+  maxCpuSeconds: 30,
 } as const satisfies ChangeAgent

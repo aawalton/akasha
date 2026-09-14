@@ -42,4 +42,5 @@ export const removeFile = {
     },
   ],
   changeKind: "change-checked",
+  maxCpuSeconds: 30,
 } as const satisfies ChangeAgent

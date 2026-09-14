@@ -77,4 +77,5 @@ export const movePages = {
     },
   ],
   changeKind: "change-checked",
+  maxCpuSeconds: 30,
 } as const satisfies ChangeAgent
