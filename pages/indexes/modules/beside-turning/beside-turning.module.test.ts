@@ -16,21 +16,26 @@ const aType = (slug: string, above: readonly string[], properties: readonly Held
 
 const BLAND = aType("bland", ["base"], [])
 
-const AT = "value/bland.jsonl"
+const TYPE_SLUGS = "identity/page-type/page-type/slug"
+
+const BLAND_SLUGS = "identity/page-type/bland/slug"
+
+const AT = `${BLAND_SLUGS}/one.jsonl`
 
 const PAGE = "one.bland.ts"
+
+const ID = "01a04bdd-0000-7000-8000-00000000000a"
 
 const BODY = `export const it = ${JSON.stringify({ pageTypeSlug: "bland", slug: "one" })} as const\n`
 
 const READING: Reading = {
   holds: (at) => at === "",
-  listing: (at) => (at === "value" ? [{ name: "bland.jsonl", directory: false }] : []),
-  lines: (at) => {
-    if (at === AT) {
-      return [JSON.stringify({ path: PAGE, value: { pageTypeSlug: "bland", slug: "one" } })]
-    }
+  listing: (at) => {
+    if (at === TYPE_SLUGS) return [{ name: "bland.jsonl", directory: false }]
+    if (at === BLAND_SLUGS) return [{ name: "one.jsonl", directory: false }]
     return []
   },
+  lines: (at) => (at === AT ? [JSON.stringify({ path: PAGE, id: ID })] : []),
   read: (at) => (at === PAGE ? BODY : null),
 }
 

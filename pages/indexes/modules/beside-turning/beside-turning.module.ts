@@ -10,7 +10,8 @@ export const besideTurning = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The pages of a turned page type are read off the index rather than off the disk.",
+      statement:
+        "The pages of a turned page type are the ones the index names, each read from its own body.",
     },
     {
       invariantKind: "absence",
