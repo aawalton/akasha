@@ -5,7 +5,7 @@ export const cultivatingLocalRelationships = {
   type: "book-section",
   slug: "cultivating-local-relationships",
   title: "Cultivating local B-tier relationships",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

@@ -5,7 +5,7 @@ export const bookChapter001Apology = {
   type: "book-section",
   slug: "book-chapter-001-apology",
   title: "Apology",
-  sectionOf: "plato-apology-crito",
+  sectionOf: "book/plato-apology-crito",
   status: "completed",
   ownLength: 11346,
   position: 1,

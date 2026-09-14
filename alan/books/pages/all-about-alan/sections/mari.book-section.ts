@@ -5,7 +5,7 @@ export const mari = {
   type: "book-section",
   slug: "mari",
   title: "Mari",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   description:
     "Mari — regulation companion, the embodied pole. Her soul: she personifies Alan's sexuality unashamed, and cuts through the body rather than a sentence — the opposite pole of Zadi.",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/personas"],

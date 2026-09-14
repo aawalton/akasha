@@ -5,7 +5,7 @@ export const bookChapter011TheConvergenceIsWhereTheOpportunityIs = {
   type: "book-section",
   slug: "book-chapter-011-the-convergence-is-where-the-opportunity-is",
   title: "The convergence is where the opportunity is",
-  sectionOf: "my-strategy",
+  sectionOf: "alan-book/my-strategy",
   position: 11,
   partOfCollections: ["my-strategy"],
   unit: "unit/words",

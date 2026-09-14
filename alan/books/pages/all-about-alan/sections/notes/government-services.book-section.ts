@@ -5,7 +5,7 @@ export const governmentServices = {
   type: "book-section",
   slug: "government-services",
   title: "Government services",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

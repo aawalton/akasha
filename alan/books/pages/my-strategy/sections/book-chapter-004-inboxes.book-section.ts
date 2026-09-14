@@ -5,7 +5,7 @@ export const bookChapter004Inboxes = {
   type: "book-section",
   slug: "book-chapter-004-inboxes",
   title: "My inboxes",
-  sectionOf: "my-strategy",
+  sectionOf: "alan-book/my-strategy",
   position: 4,
   partOfCollections: ["my-strategy"],
   unit: "unit/words",

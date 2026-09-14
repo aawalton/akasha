@@ -5,7 +5,7 @@ export const emotionalArchaeology = {
   type: "book-section",
   slug: "emotional-archaeology",
   title: "Emotional Archaeology",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

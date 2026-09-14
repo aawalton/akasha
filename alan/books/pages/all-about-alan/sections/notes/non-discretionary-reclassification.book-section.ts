@@ -5,7 +5,7 @@ export const nonDiscretionaryReclassification = {
   type: "book-section",
   slug: "non-discretionary-reclassification",
   title: "Non-discretionary reclassification",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   description:
     'Non-discretionary reclassification — the framing layer above the cost-vs-capacity calculation. Items mentally classified "must-do" never reach the math; reclassifying them is the first move.',
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],

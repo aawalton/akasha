@@ -5,7 +5,7 @@ export const triggerBasedMemory = {
   type: "book-section",
   slug: "trigger-based-memory",
   title: "Trigger-based memory",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   description:
     "Trigger-based memory — Alan's primary memory architecture. The same cue→concept retrieval mechanism runs across text memorization, talks, and the agent harness.",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],

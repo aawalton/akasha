@@ -5,7 +5,7 @@ export const creativityScars = {
   type: "book-section",
   slug: "creativity-scars",
   title: "Creativity scars",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

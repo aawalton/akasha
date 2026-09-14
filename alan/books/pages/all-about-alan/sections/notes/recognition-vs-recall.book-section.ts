@@ -5,7 +5,7 @@ export const recognitionVsRecall = {
   type: "book-section",
   slug: "recognition-vs-recall",
   title: "Recognition vs. Recall",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   description:
     "Recognition vs. recall — distinction that refines the aphantasia mechanism (recognition intact, recall broken).",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],

@@ -5,7 +5,7 @@ export const recoveryRates = {
   type: "book-section",
   slug: "recovery-rates",
   title: "Recovery rates",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   description:
     "Stress-capacity recovery rates — deep meditative breathing, rest, sleep, hot baths, the Nuropod.",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],

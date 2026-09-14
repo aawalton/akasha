@@ -5,7 +5,7 @@ export const bookChapter003Priorities = {
   type: "book-section",
   slug: "book-chapter-003-priorities",
   title: "The two orderings",
-  sectionOf: "my-strategy",
+  sectionOf: "alan-book/my-strategy",
   position: 3,
   partOfCollections: ["my-strategy"],
   unit: "unit/words",

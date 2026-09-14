@@ -5,7 +5,7 @@ export const emotionReasonDecoupling = {
   type: "book-section",
   slug: "emotion-reason-decoupling",
   title: "Emotion and reason are decoupled",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

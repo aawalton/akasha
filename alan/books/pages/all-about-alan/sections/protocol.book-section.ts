@@ -5,7 +5,7 @@ export const protocol = {
   type: "book-section",
   slug: "protocol",
   title: "Exp 4 — voice-reward DOSE test (long-message)",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/experiments/exp4-voice-reward-dose"],
   unit: "unit/words",
   chapterText: "md",

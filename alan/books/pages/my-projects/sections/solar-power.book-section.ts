@@ -5,7 +5,7 @@ export const solarPower = {
   type: "book-section",
   slug: "solar-power",
   title: "Solar Power",
-  sectionOf: "my-projects",
+  sectionOf: "alan-book/my-projects",
   description:
     "Putting photovoltaic generation on the Provo house, and the envelope work that sets how much generation the house needs. The sections beneath hold the scope, the demand the system is sized against, the sizing itself, the pricing, the installers, and the interconnection the design must fit.",
   partOfCollections: ["my-projects"],

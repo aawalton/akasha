@@ -5,7 +5,7 @@ export const closenessPracticeRig = {
   type: "book-section",
   slug: "closeness-practice-rig",
   title: "The persona sessions as a closeness-practice rig",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/values-personas-system"],
   unit: "unit/words",
   chapterText: "md",

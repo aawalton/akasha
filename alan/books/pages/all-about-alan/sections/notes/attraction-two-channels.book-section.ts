@@ -5,7 +5,7 @@ export const attractionTwoChannels = {
   type: "book-section",
   slug: "attraction-two-channels",
   title: "Attraction as two channels",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

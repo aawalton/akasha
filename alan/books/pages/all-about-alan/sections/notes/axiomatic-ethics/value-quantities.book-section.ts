@@ -5,7 +5,7 @@ export const valueQuantities = {
   type: "book-section",
   slug: "value-quantities",
   title: "Value quantities — state value, action value, and Sentience Weight",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/axiomatic-ethics"],
   unit: "unit/words",
   chapterText: "md",

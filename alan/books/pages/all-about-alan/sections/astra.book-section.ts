@@ -5,7 +5,7 @@ export const astra = {
   type: "book-section",
   slug: "astra",
   title: "Astra",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/personas"],
   unit: "unit/words",
   chapterText: "md",

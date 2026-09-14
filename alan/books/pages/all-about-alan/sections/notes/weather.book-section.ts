@@ -5,7 +5,7 @@ export const weather = {
   type: "book-section",
   slug: "weather",
   title: "Weather",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

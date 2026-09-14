@@ -5,7 +5,7 @@ export const bookChapter006TheDependencyGraph = {
   type: "book-section",
   slug: "book-chapter-006-the-dependency-graph",
   title: "The dependency graph",
-  sectionOf: "my-strategy",
+  sectionOf: "alan-book/my-strategy",
   position: 6,
   partOfCollections: ["my-strategy"],
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const symmetricalAnxiety = {
   type: "book-section",
   slug: "symmetrical-anxiety",
   title: "The symmetrical anxiety",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/central-loneliness"],
   unit: "unit/words",
   chapterText: "md",

@@ -5,7 +5,7 @@ export const automaticitySystems = {
   type: "book-section",
   slug: "automaticity-systems",
   title: "Automaticity systems",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   description:
     'Automaticity in Alan\'s brain — five distinct routes to "becoming automatic", three reduced and two intact.',
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],

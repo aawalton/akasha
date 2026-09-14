@@ -5,7 +5,7 @@ export const journal = {
   type: "book-section",
   slug: "journal",
   title: "Journal",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan"],
   unit: "unit/words",
   chapterText: "md",

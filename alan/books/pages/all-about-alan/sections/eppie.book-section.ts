@@ -5,7 +5,7 @@ export const eppie = {
   type: "book-section",
   slug: "eppie",
   title: "Eppie",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   description:
     "Eppie — a Faith-axis persona still in definition. Waiting page: she is not yet sourced; her function and rib await a future /abby session.",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/personas"],

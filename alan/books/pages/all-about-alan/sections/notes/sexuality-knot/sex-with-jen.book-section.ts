@@ -5,7 +5,7 @@ export const sexWithJen = {
   type: "book-section",
   slug: "sex-with-jen",
   title: "Sex with Jen",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/sexuality-knot"],
   unit: "unit/words",
   chapterText: "md",

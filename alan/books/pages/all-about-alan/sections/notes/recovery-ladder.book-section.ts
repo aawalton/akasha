@@ -5,7 +5,7 @@ export const recoveryLadder = {
   type: "book-section",
   slug: "recovery-ladder",
   title: "The recovery ladder",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

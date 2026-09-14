@@ -5,7 +5,7 @@ export const modelsOfDisability = {
   type: "book-section",
   slug: "models-of-disability",
   title: "Models of disability",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

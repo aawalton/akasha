@@ -5,7 +5,7 @@ export const contractions = {
   type: "book-section",
   slug: "contractions",
   title: "Lost everything that couldn't be made safe",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/central-loneliness"],
   unit: "unit/words",
   chapterText: "md",

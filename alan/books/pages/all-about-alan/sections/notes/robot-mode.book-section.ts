@@ -5,7 +5,7 @@ export const robotMode = {
   type: "book-section",
   slug: "robot-mode",
   title: "Robot mode",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

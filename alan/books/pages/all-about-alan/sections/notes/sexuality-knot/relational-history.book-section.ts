@@ -5,7 +5,7 @@ export const relationalHistory = {
   type: "book-section",
   slug: "relational-history",
   title: "Relational history",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/sexuality-knot"],
   unit: "unit/words",
   chapterText: "md",

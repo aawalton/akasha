@@ -5,7 +5,7 @@ export const recoveryEconomics = {
   type: "book-section",
   slug: "recovery-economics",
   title: "The economics of recovery",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

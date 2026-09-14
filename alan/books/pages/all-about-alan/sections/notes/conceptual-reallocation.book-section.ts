@@ -5,7 +5,7 @@ export const conceptualReallocation = {
   type: "book-section",
   slug: "conceptual-reallocation",
   title: "Conceptual reallocation (advantage)",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   description:
     "Conceptual reallocation — advantage of aphantasia where mental process is repurposed from sensory / emotional to conceptual.",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],

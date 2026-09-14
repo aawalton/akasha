@@ -5,7 +5,7 @@ export const awen = {
   type: "book-section",
   slug: "awen",
   title: "Awen",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/personas"],
   unit: "unit/words",
   chapterText: "md",

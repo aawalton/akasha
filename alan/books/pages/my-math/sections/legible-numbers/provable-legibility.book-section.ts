@@ -5,7 +5,7 @@ export const provableLegibility = {
   type: "book-section",
   slug: "provable-legibility",
   title: "Provable legibility",
-  sectionOf: "my-math",
+  sectionOf: "alan-book/my-math",
   partOfCollections: ["my-math", "book-section/my-math/legible-numbers"],
   unit: "unit/words",
   chapterText: "md",

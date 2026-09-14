@@ -5,7 +5,7 @@ export const arousalAndSafetyModel = {
   type: "book-section",
   slug: "arousal-and-safety-model",
   title: "Arousal and safety — the refined model",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/sexuality-knot"],
   unit: "unit/words",
   chapterText: "md",

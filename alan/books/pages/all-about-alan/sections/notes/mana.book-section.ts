@@ -5,7 +5,7 @@ export const mana = {
   type: "book-section",
   slug: "mana",
   title: "Mana",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   description:
     "Mana — executive function. Levels of neurotransmitters and energy resources in the brain. Currently at stoplight resolution; reads through wantingness magnitude.",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],

@@ -5,7 +5,7 @@ export const transportation = {
   type: "book-section",
   slug: "transportation",
   title: "Transportation",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

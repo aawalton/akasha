@@ -5,7 +5,7 @@ export const perfectKnowledge = {
   type: "book-section",
   slug: "perfect-knowledge",
   title: "Perfect knowledge — the two oracles, the tick, and scale-freedom",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/axiomatic-ethics"],
   unit: "unit/words",
   chapterText: "md",

@@ -5,7 +5,7 @@ export const mechanics = {
   type: "book-section",
   slug: "mechanics",
   title: "Compression epistemology — mechanics",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/compression-epistemology"],
   unit: "unit/words",
   chapterText: "md",

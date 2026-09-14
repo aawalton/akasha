@@ -5,7 +5,7 @@ export const higherSelfAccess = {
   type: "book-section",
   slug: "higher-self-access",
   title: "Higher-self access — every route is indirect",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

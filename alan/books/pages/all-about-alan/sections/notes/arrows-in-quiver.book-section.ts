@@ -5,7 +5,7 @@ export const arrowsInQuiver = {
   type: "book-section",
   slug: "arrows-in-quiver",
   title: "Arrows in quiver",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

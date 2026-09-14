@@ -5,7 +5,7 @@ export const tightClothing = {
   type: "book-section",
   slug: "tight-clothing",
   title: "Tight clothing",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

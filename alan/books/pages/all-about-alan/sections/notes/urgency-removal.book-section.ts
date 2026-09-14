@@ -5,7 +5,7 @@ export const urgencyRemoval = {
   type: "book-section",
   slug: "urgency-removal",
   title: "Urgency removal",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

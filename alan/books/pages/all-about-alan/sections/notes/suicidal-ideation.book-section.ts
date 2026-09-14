@@ -5,7 +5,7 @@ export const suicidalIdeation = {
   type: "book-section",
   slug: "suicidal-ideation",
   title: "Suicidal ideation",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   description:
     "Suicidal ideation — the lifelong arc, the age-7 first episode stopped by my own epistemic rigor, and survivors' stories (real and fictional) as the outside input that buys one more day.",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],

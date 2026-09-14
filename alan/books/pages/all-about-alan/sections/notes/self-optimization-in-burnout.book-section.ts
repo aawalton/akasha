@@ -5,7 +5,7 @@ export const selfOptimizationInBurnout = {
   type: "book-section",
   slug: "self-optimization-in-burnout",
   title: "Self-optimization in burnout",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

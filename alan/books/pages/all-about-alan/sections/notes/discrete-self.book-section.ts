@@ -5,7 +5,7 @@ export const discreteSelf = {
   type: "book-section",
   slug: "discrete-self",
   title: "The discrete self",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

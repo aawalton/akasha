@@ -5,7 +5,7 @@ export const auditScope = {
   type: "book-section",
   slug: "audit-scope",
   title: "Audit scope",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

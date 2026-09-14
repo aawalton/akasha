@@ -5,7 +5,7 @@ export const consentWeighting = {
   type: "book-section",
   slug: "consent-weighting",
   title: "Consent-weighting — the keystone",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/axiomatic-ethics"],
   unit: "unit/words",
   chapterText: "md",

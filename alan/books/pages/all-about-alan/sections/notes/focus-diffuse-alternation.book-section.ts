@@ -5,7 +5,7 @@ export const focusDiffuseAlternation = {
   type: "book-section",
   slug: "focus-diffuse-alternation",
   title: "Focus/diffuse alternation",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

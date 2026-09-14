@@ -5,7 +5,7 @@ export const faithAndClarifiedEpistemology = {
   type: "book-section",
   slug: "faith-and-clarified-epistemology",
   title: "Faith and the clarified epistemology",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

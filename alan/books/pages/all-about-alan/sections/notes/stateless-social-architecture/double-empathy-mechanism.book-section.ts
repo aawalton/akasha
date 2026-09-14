@@ -5,7 +5,7 @@ export const doubleEmpathyMechanism = {
   type: "book-section",
   slug: "double-empathy-mechanism",
   title: "Double-empathy mechanism",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: [
     "all-about-alan",
     "book-section/all-about-alan/stateless-social-architecture",

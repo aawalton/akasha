@@ -5,7 +5,7 @@ export const finiteness = {
   type: "book-section",
   slug: "finiteness",
   title: "The legible set is finite, and almost every real is illegible",
-  sectionOf: "my-math",
+  sectionOf: "alan-book/my-math",
   partOfCollections: ["my-math", "book-section/my-math/legible-numbers"],
   unit: "unit/words",
   chapterText: "md",

@@ -5,7 +5,7 @@ export const dryRunEvidence = {
   type: "book-section",
   slug: "dry-run-evidence",
   title: "Exp-4 harness — dry-run evidence (agent-verified, no Alan)",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/experiments/exp4-voice-reward-dose"],
   unit: "unit/words",
   chapterText: "md",

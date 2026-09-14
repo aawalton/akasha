@@ -5,7 +5,7 @@ export const wantingAsGapClosing = {
   type: "book-section",
   slug: "wanting-as-gap-closing",
   title: "Wanting as gap-closing",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

@@ -5,7 +5,7 @@ export const stimulationRegulation = {
   type: "book-section",
   slug: "stimulation-regulation",
   title: "Stimulation regulation",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

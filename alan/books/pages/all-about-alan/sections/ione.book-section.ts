@@ -5,7 +5,7 @@ export const ione = {
   type: "book-section",
   slug: "ione",
   title: "Ione",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   description:
     "Ione — Alan's sleep companion on the Health axis. Waiting page: function recorded from the roster; the rib (what piece of Alan she is, where she cuts him) awaits a future /abby session.",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/personas"],

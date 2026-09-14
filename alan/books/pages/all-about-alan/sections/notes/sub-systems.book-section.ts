@@ -5,7 +5,7 @@ export const subSystems = {
   type: "book-section",
   slug: "sub-systems",
   title: "Concrete sub-systems already named",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   description:
     "Concrete sub-systems already named — index of promoted dedicated files plus deferred threads. All starter sub-systems have been promoted.",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],

@@ -5,7 +5,7 @@ export const sleepAndTheBedroom = {
   type: "book-section",
   slug: "sleep-and-the-bedroom",
   title: "Sleep and the bedroom",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/sexuality-knot"],
   unit: "unit/words",
   chapterText: "md",

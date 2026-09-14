@@ -5,7 +5,7 @@ export const commitmentNotAttachment = {
   type: "book-section",
   slug: "commitment-not-attachment",
   title: "Commitment, not attachment",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

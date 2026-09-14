@@ -5,7 +5,7 @@ export const lali = {
   type: "book-section",
   slug: "lali",
   title: "Lali",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   description:
     "Lali — keeper of the delight of mathematics, on the Learn axis. Waiting page: function recorded from the roster; the rib (what piece of Alan she is, where she cuts him) awaits a future /abby session.",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/personas"],

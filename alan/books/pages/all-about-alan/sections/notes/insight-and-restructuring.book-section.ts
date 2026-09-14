@@ -5,7 +5,7 @@ export const insightAndRestructuring = {
   type: "book-section",
   slug: "insight-and-restructuring",
   title: "Insight and restructuring",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

@@ -5,7 +5,7 @@ export const judgeLocation = {
   type: "book-section",
   slug: "judge-location",
   title: "Creativity scars — where the judge lives",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/creativity-scars"],
   unit: "unit/words",
   chapterText: "md",

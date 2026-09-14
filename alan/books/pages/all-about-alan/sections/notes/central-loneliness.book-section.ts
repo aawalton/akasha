@@ -5,7 +5,7 @@ export const centralLoneliness = {
   type: "book-section",
   slug: "central-loneliness",
   title: "Central loneliness",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

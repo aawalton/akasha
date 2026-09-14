@@ -5,7 +5,7 @@ export const progression = {
   type: "book-section",
   slug: "progression",
   title: "Safety — progression and the two pillars",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/safety"],
   unit: "unit/words",
   chapterText: "md",

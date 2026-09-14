@@ -5,7 +5,7 @@ export const bookOfMormonEvidence = {
   type: "book-section",
   slug: "book-of-mormon-evidence",
   title: "Book of Mormon evidence",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

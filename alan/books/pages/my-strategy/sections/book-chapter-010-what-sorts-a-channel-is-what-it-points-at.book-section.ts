@@ -5,7 +5,7 @@ export const bookChapter010WhatSortsAChannelIsWhatItPointsAt = {
   type: "book-section",
   slug: "book-chapter-010-what-sorts-a-channel-is-what-it-points-at",
   title: "What sorts a channel is what it points at",
-  sectionOf: "my-strategy",
+  sectionOf: "alan-book/my-strategy",
   position: 10,
   partOfCollections: ["my-strategy"],
   unit: "unit/words",

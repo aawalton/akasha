@@ -5,7 +5,7 @@ export const noSelfDecoder = {
   type: "book-section",
   slug: "no-self-decoder",
   title: "No universe decodes itself",
-  sectionOf: "my-math",
+  sectionOf: "alan-book/my-math",
   partOfCollections: ["my-math", "book-section/my-math/legible-numbers"],
   unit: "unit/words",
   chapterText: "md",

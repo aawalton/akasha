@@ -5,7 +5,7 @@ export const scarRecoveryModel = {
   type: "book-section",
   slug: "scar-recovery-model",
   title: "The funded-passage recovery model",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

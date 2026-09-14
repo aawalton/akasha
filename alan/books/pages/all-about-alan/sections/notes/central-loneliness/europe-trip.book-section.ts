@@ -5,7 +5,7 @@ export const europeTrip = {
   type: "book-section",
   slug: "europe-trip",
   title: "The Europe trip",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/central-loneliness"],
   unit: "unit/words",
   chapterText: "md",

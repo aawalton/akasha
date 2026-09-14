@@ -5,7 +5,7 @@ export const emotionModel = {
   type: "book-section",
   slug: "emotion-model",
   title: "Emotion model — sensation + narrative",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

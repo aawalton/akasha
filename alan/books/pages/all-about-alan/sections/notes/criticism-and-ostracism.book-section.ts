@@ -5,7 +5,7 @@ export const criticismAndOstracism = {
   type: "book-section",
   slug: "criticism-and-ostracism",
   title: "Criticism and ostracism",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

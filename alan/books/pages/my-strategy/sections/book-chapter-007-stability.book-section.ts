@@ -5,7 +5,7 @@ export const bookChapter007Stability = {
   type: "book-section",
   slug: "book-chapter-007-stability",
   title: "Where stability comes from",
-  sectionOf: "my-strategy",
+  sectionOf: "alan-book/my-strategy",
   position: 7,
   partOfCollections: ["my-strategy"],
   unit: "unit/words",

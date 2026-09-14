@@ -5,7 +5,7 @@ export const journeyAsReward = {
   type: "book-section",
   slug: "journey-as-reward",
   title: "Journey as reward",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

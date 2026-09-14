@@ -5,7 +5,7 @@ export const whatCanBeSaid = {
   type: "book-section",
   slug: "what-can-be-said",
   title: "What can be said about an illegible number",
-  sectionOf: "my-math",
+  sectionOf: "alan-book/my-math",
   partOfCollections: ["my-math", "book-section/my-math/legible-numbers"],
   unit: "unit/words",
   chapterText: "md",

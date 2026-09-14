@@ -5,7 +5,7 @@ export const woundF = {
   type: "book-section",
   slug: "wound-f",
   title: "The wound-F — stress of connection as a standing cost",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/grading-scale"],
   unit: "unit/words",
   chapterText: "md",

@@ -5,7 +5,7 @@ export const bookChapter001TwoChannels = {
   type: "book-section",
   slug: "book-chapter-001-two-channels",
   title: "The two channels",
-  sectionOf: "my-strategy",
+  sectionOf: "alan-book/my-strategy",
   position: 1,
   partOfCollections: ["my-strategy"],
   unit: "unit/words",

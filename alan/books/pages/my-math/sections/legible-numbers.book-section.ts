@@ -5,7 +5,7 @@ export const legibleNumbers = {
   type: "book-section",
   slug: "legible-numbers",
   title: "Legible numbers",
-  sectionOf: "my-math",
+  sectionOf: "alan-book/my-math",
   position: 1,
   partOfCollections: ["my-math"],
   unit: "unit/words",

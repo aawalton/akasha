@@ -5,7 +5,7 @@ export const selfChosenDifficulty = {
   type: "book-section",
   slug: "self-chosen-difficulty",
   title: "Self-chosen difficulty",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

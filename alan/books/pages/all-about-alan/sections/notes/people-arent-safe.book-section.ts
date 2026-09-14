@@ -5,7 +5,7 @@ export const peopleArentSafe = {
   type: "book-section",
   slug: "people-arent-safe",
   title: "People aren't safe",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

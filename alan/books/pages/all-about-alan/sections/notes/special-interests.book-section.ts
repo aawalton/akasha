@@ -5,7 +5,7 @@ export const specialInterests = {
   type: "book-section",
   slug: "special-interests",
   title: "Special interests",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   description:
     'Special interests — sustained deep interests via "same context, novel content"; the autism × ADHD intersection.',
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],

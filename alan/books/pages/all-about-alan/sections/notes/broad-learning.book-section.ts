@@ -5,7 +5,7 @@ export const broadLearning = {
   type: "book-section",
   slug: "broad-learning",
   title: "Broad learning",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

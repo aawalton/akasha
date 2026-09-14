@@ -5,7 +5,7 @@ export const safeFoods = {
   type: "book-section",
   slug: "safe-foods",
   title: "Safe foods",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

@@ -5,7 +5,7 @@ export const safePerson = {
   type: "book-section",
   slug: "safe-person",
   title: "The safe person and the broken covenant",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/central-loneliness"],
   unit: "unit/words",
   chapterText: "md",

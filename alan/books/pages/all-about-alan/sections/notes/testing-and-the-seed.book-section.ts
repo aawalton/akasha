@@ -5,7 +5,7 @@ export const testingAndTheSeed = {
   type: "book-section",
   slug: "testing-and-the-seed",
   title: "Testing and the seed",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

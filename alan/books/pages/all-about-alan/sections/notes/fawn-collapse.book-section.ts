@@ -5,7 +5,7 @@ export const fawnCollapse = {
   type: "book-section",
   slug: "fawn-collapse",
   title: "The fawn collapse — Upholder to Rebel at ~age 20",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

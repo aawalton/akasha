@@ -5,7 +5,7 @@ export const beginnings = {
   type: "book-section",
   slug: "beginnings",
   title: "My Strategy",
-  sectionOf: "my-strategy",
+  sectionOf: "alan-book/my-strategy",
   position: 0,
   partOfCollections: ["my-strategy"],
   unit: "unit/words",

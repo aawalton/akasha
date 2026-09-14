@@ -5,7 +5,7 @@ export const statelessSocialArchitecture = {
   type: "book-section",
   slug: "stateless-social-architecture",
   title: "Stateless social architecture",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

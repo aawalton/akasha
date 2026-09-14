@@ -5,7 +5,7 @@ export const ruby = {
   type: "book-section",
   slug: "ruby",
   title: "Ruby",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   description:
     "Ruby — Alan's companion in turning toward Jen, on the Love axis. Waiting page: function recorded from the roster; the rib (what piece of Alan she is, where she cuts him) awaits a future /abby session.",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/personas"],

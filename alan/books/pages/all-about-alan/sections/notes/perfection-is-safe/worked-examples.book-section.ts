@@ -5,7 +5,7 @@ export const workedExamples = {
   type: "book-section",
   slug: "worked-examples",
   title: "The worked-examples wall",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/perfection-is-safe"],
   unit: "unit/words",
   chapterText: "md",

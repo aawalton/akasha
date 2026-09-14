@@ -5,7 +5,7 @@ export const churchAuthorityAndTheBigSmallLine = {
   type: "book-section",
   slug: "church-authority-and-the-big-small-line",
   title: "Church authority and the big/small line",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

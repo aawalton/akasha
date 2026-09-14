@@ -5,7 +5,7 @@ export const volatilityGovernor = {
   type: "book-section",
   slug: "volatility-governor",
   title: "Volatility governor",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

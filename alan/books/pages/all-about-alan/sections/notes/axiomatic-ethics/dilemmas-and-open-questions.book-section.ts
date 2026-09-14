@@ -5,7 +5,7 @@ export const dilemmasAndOpenQuestions = {
   type: "book-section",
   slug: "dilemmas-and-open-questions",
   title: "Dilemmas, settled dials, and open questions",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/axiomatic-ethics"],
   unit: "unit/words",
   chapterText: "md",

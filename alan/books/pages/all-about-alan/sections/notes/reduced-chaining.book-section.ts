@@ -5,7 +5,7 @@ export const reducedChaining = {
   type: "book-section",
   slug: "reduced-chaining",
   title: "Reduced chaining (disadvantage)",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   description:
     "Reduced chaining — disadvantage of aphantasia where only conceptual triggers fire, with no sensory or emotional ones.",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],

@@ -5,7 +5,7 @@ export const axiomaticEthics = {
   type: "book-section",
   slug: "axiomatic-ethics",
   title: "Axiomatic Ethics with Perfect Knowledge",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

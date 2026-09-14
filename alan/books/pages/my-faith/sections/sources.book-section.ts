@@ -5,7 +5,7 @@ export const sources = {
   type: "book-section",
   slug: "sources",
   title: "Sources",
-  sectionOf: "my-faith",
+  sectionOf: "alan-book/my-faith",
   partOfCollections: ["my-faith"],
   unit: "unit/words",
   chapterText: "md",

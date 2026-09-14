@@ -5,7 +5,7 @@ export const timePerception = {
   type: "book-section",
   slug: "time-perception",
   title: "Time perception",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   description:
     "Time perception — Alan's experience of time, mechanism hypotheses tracing it to aphantasia, and the lived consequence of felt agelessness.",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],

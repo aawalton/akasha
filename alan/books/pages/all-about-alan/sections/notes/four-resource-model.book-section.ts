@@ -5,7 +5,7 @@ export const fourResourceModel = {
   type: "book-section",
   slug: "four-resource-model",
   title: "Four-resource model",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   description:
     "Four-resource model — overview. Health (stress capacity), Mana (executive function), Stamina (physical energy), Safety (vagal tone). Each resource has its own doc; this file is the hub.",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],

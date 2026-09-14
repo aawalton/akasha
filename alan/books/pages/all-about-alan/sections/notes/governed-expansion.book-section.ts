@@ -5,7 +5,7 @@ export const governedExpansion = {
   type: "book-section",
   slug: "governed-expansion",
   title: "The Level-5 tell and governed expansion",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "unit/words",
   chapterText: "md",

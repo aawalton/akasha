@@ -5,7 +5,7 @@ export const bookChapter20260608ConnectionConversationWithJen = {
   type: "book-section",
   slug: "book-chapter-2026-06-08-connection-conversation-with-jen",
   title: "Connection conversation with Jen",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/journal"],
   unit: "unit/words",
   chapterText: "md",

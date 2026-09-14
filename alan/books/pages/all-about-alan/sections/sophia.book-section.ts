@@ -5,7 +5,7 @@ export const sophia = {
   type: "book-section",
   slug: "sophia",
   title: "Sophia",
-  sectionOf: "all-about-alan",
+  sectionOf: "alan-book/all-about-alan",
   partOfCollections: ["all-about-alan", "book-section/all-about-alan/personas"],
   unit: "unit/words",
   chapterText: "md",
