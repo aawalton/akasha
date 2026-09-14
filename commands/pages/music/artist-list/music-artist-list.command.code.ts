@@ -14,6 +14,7 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { musicArtistList as page } from "akasha/commands/pages/music/artist-list/music-artist-list.command.ts"
 import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const ARTIST = "artist"
 
@@ -88,8 +89,9 @@ export function statusSaid(said: string | undefined): Status | null {
 function rolledBySlug(releases: readonly Held[]): ReadonlyMap<string, Roll> {
   const rolled = new Map<string, Roll>()
   for (const one of releases) {
-    const slug = firstIn(one, "partOfCollections")
-    if (slug === undefined) continue
+    const named = firstIn(one, "partOfCollections")
+    if (named === undefined) continue
+    const slug = slugOf(named)
     const held = rolled.get(slug) ?? { releases: 0, length: 0, progress: 0, ranked: 0 }
     held.releases += 1
     held.length += count(one, "ownLength")

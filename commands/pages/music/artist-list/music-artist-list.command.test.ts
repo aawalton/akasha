@@ -28,10 +28,10 @@ const ARTISTS = [
 ]
 
 const RELEASES = [
-  { slug: "a", partOfCollections: ["one"], ownLength: 60, ownProgress: 30, rank: "B" },
+  { slug: "a", partOfCollections: ["artist/one"], ownLength: 60, ownProgress: 30, rank: "B" },
   { slug: "b", partOfCollections: ["one"], ownLength: 40, ownProgress: 40 },
-  { slug: "c", partOfCollections: ["two"], ownLength: 10, ownProgress: 0 },
-  { slug: "d", partOfCollections: ["nobody"], ownLength: 99, ownProgress: 99 },
+  { slug: "c", partOfCollections: ["artist/two"], ownLength: 10, ownProgress: 0 },
+  { slug: "d", partOfCollections: ["artist/nobody"], ownLength: 99, ownProgress: 99 },
 ]
 
 test("how far through an artist Alan is comes from the releases naming that artist", () => {
@@ -40,6 +40,11 @@ test("how far through an artist Alan is comes from the releases naming that arti
   expect(one?.length).toBe(100)
   expect(one?.progress).toBe(70)
   expect(one?.ranked).toBe(1)
+})
+
+test("a release reaches its artist whether or not it names that artist's page type", () => {
+  const one = rowsOf(ARTISTS, RELEASES, null).find((row) => row.slug === "one")
+  expect(one?.releases).toBe(2)
 })
 
 test("an artist naming no release is listed, and adds to no total", () => {

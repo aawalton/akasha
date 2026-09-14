@@ -20,6 +20,10 @@ export const musicArtistList = {
     },
     {
       invariantKind: "departure",
+      statement: "A release reaches its artist whether or not it names that artist's page type.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The totals are over the artists listed rather than over every artist.",
     },
     {
