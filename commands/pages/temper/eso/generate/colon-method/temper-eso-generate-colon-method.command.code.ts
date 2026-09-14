@@ -164,7 +164,7 @@ function staged(done: string[], taken: Taken, given: Given): Answer {
   report.push(
     `nothing has landed. ${String(put.changed.length)} file(s) differ from what is there; to land them, run: bash ${put.landAt}`,
     `nothing in the tree reads ${BINDING} today, so landing this sets up an authority with no consumer`,
-    `the temper-build-deploy-checks package manifest would want a \`./${STEM}\` entry pointing at the aggregate's code, and its workspace-package page would want every run's slug in its part slugs; nothing here writes either`
+    "the temper-build-deploy-checks domain page would want every run's slug in its part slugs; nothing here writes that list"
   )
 
   return told(report)

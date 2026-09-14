@@ -15,7 +15,7 @@ export const temperEsoGenerateBaseGameGlobal = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here writes the workspace-package page's part slugs.",
+      statement: "Nothing here writes the domain page's part slugs.",
     },
     {
       invariantKind: "departure",
@@ -67,7 +67,7 @@ export const temperEsoGenerateBaseGameGlobal = {
     },
     {
       invariantKind: "gap",
-      statement: "The run count and the workspace-package page's part slugs are written together.",
+      statement: "The run count and the domain page's part slugs are written together.",
     },
   ],
   name: "base-game-global",

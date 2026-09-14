@@ -186,7 +186,7 @@ function staged(done: string[], taken: Taken, given: Given): Answer {
     .map((one) => one.slug)
   if (arrived.length > 0 || put.goneRels.length > 0) {
     report.push(
-      "the run count changed, so the temper-build-deploy-checks workspace-package page's part slugs no longer match what is there; nothing here writes that list",
+      "the run count changed, so the temper-build-deploy-checks domain page's part slugs no longer match what is there; nothing here writes that list",
       ...arrived.map((slug) => `  add     module/${slug}`),
       ...put.goneRels.map((rel) => `  remove  ${rel}`)
     )
