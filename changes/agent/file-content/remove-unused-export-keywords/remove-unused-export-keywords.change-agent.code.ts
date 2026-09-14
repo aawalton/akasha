@@ -8,9 +8,9 @@ import type { Answer } from "akasha/changes/modules/answer/change-answer.module.
 import { droppableIn } from "akasha/changes/modules/export-keyword/export-keyword.module.code.ts"
 import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
+  groupsSparing,
   sparedIn,
   unreachedIn,
-  writingGroupsIn,
 } from "akasha/checks/code-checks/pages/no-unused-exports/no-unused-exports.code-check.decision.code.ts"
 import { typed } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 
@@ -23,7 +23,7 @@ const BUT = "but"
 function surplusIn(
   world: World,
   pageTypes: ReadonlySet<string>,
-  groups: ReadonlySet<string>,
+  groups: ReadonlyMap<string, string>,
   path: string
 ): readonly string[] {
   const text = world.textOf(path)
@@ -45,7 +45,7 @@ export async function removeUnusedExportKeywords(
   but: ReadonlySet<string> = new Set()
 ): Promise<Answer> {
   const pageTypes = world.index.pageTypesIn()
-  const groups = writingGroupsIn(world.index)
+  const groups = groupsSparing(world.index)
   const answers: Answer[] = []
   for (const path of [...world.index.everyPath()].sort()) {
     if (answers.length >= most) break

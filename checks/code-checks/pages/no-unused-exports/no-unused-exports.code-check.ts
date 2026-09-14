@@ -183,7 +183,13 @@ export const noUnusedExports = {
     },
     {
       invariantKind: "departure",
-      statement: "Which groups write a file is read from the index rather than listed here.",
+      statement:
+        "The `Drawing` a component group's code exports is reached by whatever draws that page.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Which groups write a file and which draw a page are read from the index rather than listed here.",
     },
     {
       invariantKind: "departure",

@@ -97,6 +97,12 @@ const CODE = "code"
 
 const WRITES = "bodyIn"
 
+const DRAWN = "component-property-group"
+
+const DRAWS = "Drawing"
+
+const SLUG = "slug"
+
 const ROOT_ROUTE = "root.tsx"
 
 const APP_LAYOUT = "_app-layout.tsx"
@@ -271,20 +277,33 @@ function reachedBeside(said: Parted): ReadonlySet<string> | null {
   return null
 }
 
-function groupCoded(said: Parted, groups: ReadonlySet<string>): boolean {
-  if (said.sections.length !== 2 || said.sections[1] !== CODE) return false
+function groupCoded(said: Parted, groups: ReadonlyMap<string, string>): string | null {
+  if (said.sections.length !== 2 || said.sections[1] !== CODE) return null
   const group = said.sections[0]
-  return group !== undefined && groups.has(group)
+  return group === undefined ? null : (groups.get(group) ?? null)
 }
 
-export function writingGroupsIn(index: Answering): ReadonlySet<string> {
-  return new Set(groupsIn(index).map((one) => one.slug))
+function drawnGroupsIn(index: Answering): readonly string[] {
+  const found: string[] = []
+  for (const listed of index.everyOfType(DRAWN)) {
+    const value = index.pageByPath(listed.path)
+    const slug = value === null ? null : textAt(value, SLUG)
+    if (slug !== null) found.push(slug)
+  }
+  return found
+}
+
+export function groupsSparing(index: Answering): ReadonlyMap<string, string> {
+  const found = new Map<string, string>()
+  for (const one of groupsIn(index)) found.set(one.slug, WRITES)
+  for (const slug of drawnGroupsIn(index)) found.set(slug, DRAWS)
+  return found
 }
 
 export function sparedIn(
   path: string,
   pageTypes: ReadonlySet<string>,
-  groups: ReadonlySet<string>,
+  groups: ReadonlyMap<string, string>,
   bodyOf: Bodied
 ): ReadonlySet<string> {
   const said = partedIn(path)
@@ -298,7 +317,8 @@ export function sparedIn(
   if (beside !== null) return beside
   const bySlug = BY_SLUG.get(said.slug)
   if (bySlug !== undefined) return bySlug
-  if (groupCoded(said, groups)) return new Set([WRITES])
+  const coded = groupCoded(said, groups)
+  if (coded !== null) return new Set([coded])
   return pageNamed(path, pageTypes) ? new Set([exportedAs(said.slug)]) : NOTHING
 }
 
@@ -378,7 +398,7 @@ function reasonsFor(
 
 export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
   const pageTypes = pageTypesFor(shadow)
-  const groups = writingGroupsIn(shadow.index)
+  const groups = groupsSparing(shadow.index)
   const judged: Judged[] = []
   for (const path of change.changed) {
     if (!typeScripted(path)) continue

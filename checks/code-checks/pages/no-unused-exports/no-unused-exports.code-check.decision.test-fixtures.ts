@@ -81,6 +81,10 @@ export const WRITING_AT = "akasha/held.shell-script.scripting.code.ts"
 
 export const WRITING_TEXT = 'export const bodyIn = (): string => ""\n\nexport const spare = 2\n'
 
+export const DRAWING_AT = "akasha/held.page-type.page-component.code.tsx"
+
+export const DRAWING_TEXT = "export const Drawing = (): number => 1\n\nexport const spare = 2\n"
+
 export const GENERATOR_AT = "akasha/held.page-type.type-generator.ts"
 
 export const GENERATOR_TEXT =
@@ -148,6 +152,12 @@ const WRITER_PAGE_AT = `akasha/${WRITER_SLUG}.${WRITER}.ts`
 
 const WRITES = "file-written-by"
 
+const DRAWING_GROUP = "component-property-group"
+
+const DRAWING_SLUG = "page-component"
+
+const DRAWING_PAGE_AT = `akasha/${DRAWING_SLUG}.${DRAWING_GROUP}.ts`
+
 const MINTED_FROM = "01a0927a-1000-7001-8000-0000000000"
 
 export const scratch = scratchWorld()
@@ -188,6 +198,14 @@ export function grouped(root: string): undefined {
     propertySlug: WRITER_SLUG,
   })
   edging(root, group, WRITES, writer, WRITER_PAGE_AT)
+}
+
+export function drawingGrouped(root: string): undefined {
+  const filing = pageFilingFrom(root, MINTED_FROM)
+  filing(DRAWING_GROUP, DRAWING_SLUG, DRAWING_PAGE_AT, {
+    pageTypeSlug: DRAWING_GROUP,
+    slug: DRAWING_SLUG,
+  })
 }
 
 export function importedAt(root: string, at: string, paths: readonly string[]): undefined {

@@ -13,6 +13,9 @@ import {
   CHECK_TEXT,
   COMMAND_AT,
   COMMAND_TEXT,
+  DRAWING_AT,
+  DRAWING_TEXT,
+  drawingGrouped,
   EVERY_TEXT,
   FIXTURES_AT,
   FIXTURES_CODE_AT,
@@ -307,6 +310,18 @@ test("the `bodyIn` a writing group's code exports is spared and another beside i
   grouped(root)
 
   const said = judging(landing(root, { [WRITING_AT]: bytesOf(WRITING_TEXT) })).map(
+    (one) => one.reason
+  )
+
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`spare`")
+})
+
+test("the `Drawing` a component group's code exports is spared and another beside it is judged", () => {
+  const root = rooted()
+  drawingGrouped(root)
+
+  const said = judging(landing(root, { [DRAWING_AT]: bytesOf(DRAWING_TEXT) })).map(
     (one) => one.reason
   )
 
