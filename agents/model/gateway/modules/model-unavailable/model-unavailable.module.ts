@@ -35,10 +35,6 @@ export const modelUnavailable = {
     },
     {
       invariantKind: "departure",
-      statement: "isModelUnavailable answers the matched flag classifyModelUnavailable returns.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A reason no account has marked decides mark-rebind.",
     },
     {

@@ -21,10 +21,6 @@ export function classifyModelUnavailable(
   }
 }
 
-export function isModelUnavailable(status: number, body: string): boolean {
-  return classifyModelUnavailable(status, body).matched
-}
-
 export type ModelUnavailableAction =
   | { action: "mark-rebind" }
   | { action: "global-unmark"; firstAccount: string }

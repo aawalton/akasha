@@ -2,7 +2,6 @@ import { expect, test } from "bun:test"
 import {
   classifyModelUnavailable,
   decideModelUnavailableAction,
-  isModelUnavailable,
   MODEL_UNAVAILABLE_STATUS,
   NOT_FOUND_ERROR_TYPE,
 } from "akasha/agents/model/gateway/modules/model-unavailable/model-unavailable.module.code.ts"
@@ -67,12 +66,6 @@ test("a match reading an envelope with no message carries not_found_error as the
   expect(NOT_FOUND_ERROR_TYPE).toBe("not_found_error")
 })
 
-test("isModelUnavailable answers the matched flag classifyModelUnavailable returns", () => {
-  expect(isModelUnavailable(404, MISSING_BODY)).toBe(true)
-  expect(isModelUnavailable(404, "{}")).toBe(false)
-  expect(isModelUnavailable(500, MISSING_BODY)).toBe(false)
-})
-
 test("a reason no account has marked decides mark-rebind", () => {
   const marks = new Map<string, string>()
   expect(decideModelUnavailableAction(marks, "model: gone", "acct-a")).toEqual({
@@ -115,7 +108,6 @@ test("nothing here writes to the map of marked reasons", () => {
 
 test("nothing here sees more of a response than the status and the body", () => {
   expect(classifyModelUnavailable.length).toBe(2)
-  expect(isModelUnavailable.length).toBe(2)
 })
 
 test("an envelope message that is an empty string becomes an empty reason", () => {
