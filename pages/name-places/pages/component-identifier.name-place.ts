@@ -8,11 +8,11 @@ export const componentIdentifier = {
   nameFormat: "name-format/upper-camel-case",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A component is written where a type would be read.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The file with a component is named in lower kebab like every other file.",
     },
   ],

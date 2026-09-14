@@ -8,7 +8,7 @@ export const functionIdentifier = {
   nameFormat: "name-format/lower-camel-case",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A function is named for its answer rather than for how the answer is worked out.",
     },
   ],

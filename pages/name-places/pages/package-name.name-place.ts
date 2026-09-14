@@ -8,19 +8,19 @@ export const packageName = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A package name with no scope is one slug.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A package name with a scope is that scope and a slug parted by a slash.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A scope opens with an at sign.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The at sign is the registry's mark rather than a part of either name.",
     },
   ],

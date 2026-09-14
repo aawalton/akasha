@@ -8,12 +8,12 @@ export const typeIdentifier = {
   nameFormat: "name-format/upper-camel-case",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A type is named for the thing the type has rather than for the file the type is in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A type and the value of the same name are parted by their case alone.",
     },
   ],

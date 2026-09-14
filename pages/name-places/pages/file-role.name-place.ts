@@ -8,12 +8,12 @@ export const fileRole = {
   nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A role is a file property the page's type declares rather than a word chosen at the file.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page's own file states no role.",
     },
   ],

@@ -8,15 +8,15 @@ export const folderName = {
   nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A folder with one page is named for that page's slug.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A folder with the property pages of a page is named `properties`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A folder with many pages of one type is named that type's plural.",
     },
   ],

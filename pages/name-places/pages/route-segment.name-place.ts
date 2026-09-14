@@ -8,15 +8,15 @@ export const routeSegment = {
   nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A segment is written as a slug is written.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A segment naming a file the route serves has that file's extension.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The part before the dot is the name.",
     },
   ],

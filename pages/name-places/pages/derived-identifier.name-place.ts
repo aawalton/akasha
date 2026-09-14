@@ -8,11 +8,11 @@ export const derivedIdentifier = {
   nameFormat: "name-format/lower-camel-case",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name inside a function belongs to one call rather than to the file.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A parameter the body does not read opens with an underscore.",
     },
   ],

@@ -8,20 +8,20 @@ export const propertyKey = {
   nameFormat: "name-format/lower-camel-case",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A key is read in code.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The property the key names is called by its slug.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Lowering each capital and setting a dash before that capital gives the slug back.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The key and the slug are one name in two formats rather than two spellings.",
     },
   ],

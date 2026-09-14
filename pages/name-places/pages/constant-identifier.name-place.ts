@@ -8,23 +8,23 @@ export const constantIdentifier = {
   nameFormat: "name-format/upper-snake-case",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Data is data whether the data is written out or built as the file loads.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A regular expression is data.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A set of fixed words is data.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A plain string is data.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A name bound to a function or to a thing the file acts on is not data wherever that name sits.",
     },

@@ -8,11 +8,11 @@ export const environmentVariable = {
   nameFormat: "name-format/upper-snake-case",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A value handed in from outside remains fixed for the whole of a run.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name akasha reads opens with the name of the system that set that name.",
     },
   ],

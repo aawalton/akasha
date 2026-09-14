@@ -8,11 +8,11 @@ export const routeParameter = {
   nameFormat: "name-format/lower-camel-case",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A parameter is read in code rather than written in a path.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A parameter is named for the value that parameter has rather than for how that value is written.",
     },
