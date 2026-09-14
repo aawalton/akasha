@@ -37,7 +37,12 @@ function treed(names: string): string {
   valueAlsoFiled(root, "held-addon", [
     {
       path: HELD_PAGE,
-      value: { id: HELD_ID, pageTypeSlug: "held-addon", addonName: names, esoAddon: "lib-late" },
+      value: {
+        id: HELD_ID,
+        pageTypeSlug: "held-addon",
+        addonName: names,
+        esoAddon: "eso-addon/lib-late",
+      },
     },
   ])
   writing(root, MANIFEST_AT, '{ "name": "LibLate" }')
