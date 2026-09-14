@@ -10,6 +10,6 @@ export const annualDigitalHealthCheck = {
   toDoPriority: "p3",
   toDoRecurrence: "FREQ=YEARLY;BYMONTH=11;BYMONTHDAY=1",
   toDoSortOrder: 54,
-  toDoValue: "health",
+  toDoValue: "value/health",
   whatItTakes: "txt",
 } as const satisfies ToDo

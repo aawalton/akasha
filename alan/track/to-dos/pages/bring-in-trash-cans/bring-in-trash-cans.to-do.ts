@@ -11,6 +11,6 @@ export const bringInTrashCans = {
   toDoPriority: "p3",
   toDoRecurrence: "FREQ=WEEKLY;BYDAY=TH",
   toDoSortOrder: 37,
-  toDoValue: "health",
+  toDoValue: "value/health",
   toDoLastCompletedAt: "2026-09-11T01:13:26.227Z",
 } as const satisfies ToDo
