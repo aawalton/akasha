@@ -1,8 +1,5 @@
 import { expect, test } from "bun:test"
-import {
-  FILE_TYPES,
-  isFileType,
-} from "akasha/temper/watcher/modules/watcher-file-type/watcher-file-type.module.code.ts"
+import { FILE_TYPES } from "akasha/temper/watcher/modules/watcher-file-type/watcher-file-type.module.code.ts"
 
 test("every kind the watcher knows is named", () => {
   expect([...FILE_TYPES]).toEqual([
@@ -22,14 +19,4 @@ test("no kind is named twice", () => {
 
 test("a kind is spelled in lower kebab case", () => {
   for (const kind of FILE_TYPES) expect(kind).toMatch(/^[a-z]+(-[a-z]+)*$/)
-})
-
-test("a kind the watcher knows is recognised", () => {
-  for (const kind of FILE_TYPES) expect(isFileType(kind)).toBe(true)
-})
-
-test("a kind the watcher does not know is refused", () => {
-  expect(isFileType("quests")).toBe(false)
-  expect(isFileType("Catalog")).toBe(false)
-  expect(isFileType("")).toBe(false)
 })

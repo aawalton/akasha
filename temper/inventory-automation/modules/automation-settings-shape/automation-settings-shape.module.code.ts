@@ -66,7 +66,3 @@ export const AutomationSettingsShape: z.ZodType<AutomationSettings> = z
     companions: z.record(z.string(), CompanionTogglesShape),
   })
   .passthrough()
-
-export function automationSettingsFrom(said: unknown): AutomationSettings {
-  return AutomationSettingsShape.parse(said)
-}

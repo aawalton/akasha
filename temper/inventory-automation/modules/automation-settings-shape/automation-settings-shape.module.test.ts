@@ -1,11 +1,8 @@
 import { expect, test } from "bun:test"
-import {
-  AutomationSettingsShape,
-  automationSettingsFrom,
-} from "akasha/temper/inventory-automation/modules/automation-settings-shape/automation-settings-shape.module.code.ts"
+import { AutomationSettingsShape } from "akasha/temper/inventory-automation/modules/automation-settings-shape/automation-settings-shape.module.code.ts"
 
 test("the emptiest settings there can be are read", () => {
-  expect(automationSettingsFrom({ characters: {}, companions: {} })).toEqual({
+  expect(AutomationSettingsShape.parse({ characters: {}, companions: {} })).toEqual({
     characters: {},
     companions: {},
   })
@@ -37,12 +34,12 @@ test("a key no toggle name holds comes through", () => {
 
 test("a toggle set for everyone is read under the global scope", () => {
   const said = { global: { characters: { food: true } }, characters: {}, companions: {} }
-  expect(automationSettingsFrom(said).global?.characters?.food).toBe(true)
+  expect(AutomationSettingsShape.parse(said).global?.characters?.food).toBe(true)
 })
 
 test("a companion carries the two toggles a companion has", () => {
   const said = { characters: {}, companions: { bastian: { equipment: true, skills: false } } }
-  expect(automationSettingsFrom(said).companions.bastian).toEqual({
+  expect(AutomationSettingsShape.parse(said).companions.bastian).toEqual({
     equipment: true,
     skills: false,
   })

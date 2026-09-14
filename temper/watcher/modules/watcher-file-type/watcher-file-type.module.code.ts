@@ -9,7 +9,3 @@ export const FILE_TYPES = [
 ] as const
 
 export type FileType = (typeof FILE_TYPES)[number]
-
-export function isFileType(value: string): value is FileType {
-  return (FILE_TYPES as readonly string[]).includes(value)
-}
