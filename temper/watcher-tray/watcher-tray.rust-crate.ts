@@ -26,24 +26,24 @@ export const watcherTray = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The binary Cargo builds is named `temper-watcher` rather than named for the crate.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The version the tray reports itself as is fixed when the tray is built.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The server the tray reaches is fixed when the tray is built.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A release build opens no console window.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every dependency is drawn from crates.io rather than from this repository.",
     },
   ],
