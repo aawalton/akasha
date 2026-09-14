@@ -6,7 +6,7 @@ import type {
 } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import type { PropertyValue } from "akasha/pages/core/property-types/modules/property-type-ops/property-type-ops.module.code.ts"
 import { RESERVED_PROPERTY_IDS } from "akasha/pages/ui/components/modules/card-property-columns/card-property-columns.module.code.ts"
-import { PropertyBadge } from "akasha/pages/ui/components/modules/property-badge/property-badge.module.code.tsx"
+import { PropertyRow } from "akasha/pages/ui/components/modules/property-row/property-row.module.code.tsx"
 import { useMemo } from "react"
 
 interface PageDetailPropertiesProps {
@@ -37,50 +37,23 @@ export function PageDetailProperties({
     ? (propertyId: string, value: PropertyValue) => onPropertyChange(propertyId, value)
     : undefined
 
-  const RenderBadge = (def: PropertyDefinition) => {
-    if (data === undefined) return null
-    const value = data[def.id] ?? null
-    return (
-      <PropertyBadge
-        key={def.id}
-        property={def}
-        value={value}
-        context="detail"
-        editable
-        pageData={data}
-        propertyDefinitions={definitions}
-        pageId={pageId}
-        pageTypeSlug={pageTypeSlug}
-        onPropertyChange={wrappedOnPropertyChange}
-        onPageNavigate={onPageNavigate}
-        onCreateOption={onCreateOption}
-      />
-    )
-  }
-
   return (
     <div className="@container flex flex-col gap-2">
       {data &&
         bodyDefs.map((def) => (
-          <div
+          <PropertyRow
             key={def.id}
-            className={
-              def.type === "multi-relation"
-                ? "flex items-start justify-between"
-                : "flex items-center justify-between"
-            }
-          >
-            <span className="min-w-28 shrink-0 text-secondary text-sm">{def.title}</span>
-            <div
-              className={
-                def.type === "multi-relation"
-                  ? "flex flex-col items-end gap-1"
-                  : "flex flex-wrap justify-end gap-1"
-              }
-            >
-              {RenderBadge(def)}
-            </div>
-          </div>
+            property={def}
+            value={data[def.id] ?? null}
+            editable
+            pageData={data}
+            propertyDefinitions={definitions}
+            pageId={pageId}
+            pageTypeSlug={pageTypeSlug}
+            onPropertyChange={wrappedOnPropertyChange}
+            onPageNavigate={onPageNavigate}
+            onCreateOption={onCreateOption}
+          />
         ))}
     </div>
   )

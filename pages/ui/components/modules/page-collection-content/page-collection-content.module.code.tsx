@@ -19,7 +19,7 @@ import { DegradingImage } from "akasha/pages/ui/components/modules/degrading-ima
 import { toPageDataJSON } from "akasha/pages/ui/components/modules/page-data-json/page-data-json.module.code.ts"
 import { PageDetailHeaderMenu } from "akasha/pages/ui/components/modules/page-detail-header-menu/page-detail-header-menu.module.code.tsx"
 import { PagesFilteredContent } from "akasha/pages/ui/components/modules/pages-by-relation-content/pages-by-relation-content.module.code.tsx"
-import { PropertyBadge } from "akasha/pages/ui/components/modules/property-badge/property-badge.module.code.tsx"
+import { PropertyRow } from "akasha/pages/ui/components/modules/property-row/property-row.module.code.tsx"
 import { PagesUILink } from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { useAllPages } from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { useResolvedDefinitions } from "akasha/pages/ui/supabase/modules/use-option-list-lookup/use-option-list-lookup.module.code.ts"
@@ -113,10 +113,7 @@ export function PageCollectionContent({
           {headerFields.length > 0 && (
             <div className="flex flex-col gap-2">
               {headerFields.map((def) => (
-                <div key={def.id} className="flex items-center justify-between gap-3">
-                  <span className="min-w-28 shrink-0 text-secondary text-sm">{def.title}</span>
-                  <PropertyBadge property={def} value={data[def.id] ?? null} context="detail" />
-                </div>
+                <PropertyRow key={def.id} property={def} value={data[def.id] ?? null} />
               ))}
             </div>
           )}

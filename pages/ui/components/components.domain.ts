@@ -91,6 +91,8 @@ export const components = {
     "module/progress-property-badge",
     "module/property-badge",
     "module/property-badge-drawings",
+    "module/property-row",
+    "module/property-row-drawings",
     "module/property-visibility-picker",
     "module/property-visibility-picker-helpers",
     "module/property-visibility-picker-rows",
