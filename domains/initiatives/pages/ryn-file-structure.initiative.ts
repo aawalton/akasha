@@ -13,9 +13,14 @@ export const rynFileStructure = {
     {
       statement: "A folder is named in the singular.",
     },
+    {
+      statement: "A folder's name is worked out from the page type of what that folder holds.",
+    },
   ],
   constraints: [
     "A page listing is reached at its page type's slug.",
     "A folder's name drops the prefix the folder above it already says.",
+    "A folder named `.server` keeps that name, because React Router reads that name and no other.",
+    "A folder a page above claims is named by that page, and a folder under a claimed folder is named by whatever writes it.",
   ],
 } as const satisfies Initiative
