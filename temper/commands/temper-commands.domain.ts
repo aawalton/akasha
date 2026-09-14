@@ -27,6 +27,7 @@ export const temperCommands = {
     "module/inventory-parity-trace",
     "module/inventory-plan-capabilities",
     "module/inventory-plan-inputs",
+    "module/inventory-resolved-verdict-reading",
     "module/inventory-rule-calling",
     "module/inventory-rule-flags",
     "module/inventory-rule-rows",
