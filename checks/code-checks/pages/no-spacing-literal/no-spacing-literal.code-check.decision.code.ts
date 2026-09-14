@@ -1,4 +1,3 @@
-import type { Text } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { heldPerShadow, type Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
@@ -124,10 +123,6 @@ export function found(passing: Passing, path: string, text: string): readonly st
   const granted = passing.granted.get(path)
   const kept = granted === undefined ? seen : seen.filter((one) => !granted.has(keyOf(one)))
   return kept.map(saidOf)
-}
-
-export function reasonsOver(passing: Passing): (given: Text) => readonly string[] {
-  return (given) => found(passing, given.path, given.text)
 }
 
 const passingFor = heldPerShadow(passingIn)

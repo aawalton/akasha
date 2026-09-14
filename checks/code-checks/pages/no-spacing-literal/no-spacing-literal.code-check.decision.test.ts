@@ -5,8 +5,6 @@ import {
   PASSING,
   passingAt,
   RING_AT,
-  ROOT,
-  reasonsIn,
   rooted,
   scratch,
   VIEW_AT,
@@ -19,7 +17,7 @@ function found(path: string, text: string): readonly string[] {
 }
 
 function held(text: string): readonly string[] {
-  return reasonsIn({ root: ROOT, path: HELD_AT, text })
+  return found(HELD_AT, text)
 }
 
 test("a gap taken from a step by name is let through", () => {
