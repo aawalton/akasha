@@ -1,5 +1,4 @@
 export const ADDON_NAME = "TemperDataMining"
-export const SAVED_VARIABLES_NAME = "TemperDataMining_SavedVariables"
 
 export const MAX_CONSECUTIVE_MISSES = 100000
 export const BATCH_SIZE = 100
