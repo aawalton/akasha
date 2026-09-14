@@ -1,5 +1,4 @@
 import { REPO_ROOT } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
-import { ownRepoRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { SCRATCH_AT } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 export type SelfHealInstallResult = { ok: true } | { ok: false; stderr: string }
@@ -25,17 +24,9 @@ const SINGLE_FLIGHT_FLOCK_SH = [
   'exec "$@"',
 ].join("\n")
 
-function verifyWorkspaceBinsAt(): string {
-  return `${ownRepoRoot()}/alan/harness/workspace-paths/workspace-bins-verifying/workspace-bins-verifying.module.code.ts`
-}
-
 const SINGLE_FLIGHT_INSTALL_SCRIPT = [
   'if [ -e "$1" ]; then exit 0; fi',
   "bun install --frozen-lockfile 1>&2 || exit 1",
-  'if ! bun "$2" 1>&2; then',
-  "  bun install --frozen-lockfile 1>&2 || exit 1",
-  '  bun "$2" 1>&2 || exit 1',
-  "fi",
   ': > "$1"',
 ].join("\n")
 
@@ -61,7 +52,6 @@ export const defaultRunInstall: SelfHealRunInstall = async (version) => {
       SINGLE_FLIGHT_INSTALL_SCRIPT,
       "bash",
       sentinelPath,
-      verifyWorkspaceBinsAt(),
     ],
     cwd: REPO_ROOT,
     stdout: "pipe",

@@ -29,14 +29,5 @@ export const supervisorSelfHealInstall = {
       invariantKind: "departure",
       statement: "An install already done for a version is not run a second time.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "A verify that fails is answered by installing once more before the verify is refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The verifier's place is worked out when an install runs rather than on loading.",
-    },
   ],
 } as const satisfies Module
