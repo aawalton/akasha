@@ -5,7 +5,7 @@ export const notice = {
   type: "page-type",
   slug: "notice",
   definition: "message text written ahead of time and asked for by name",
-  pluralSlug: "notices",
+
   extends: ["page-type/page"],
   parts: ["file-property/notice-text", "module/compose-notices", "text-property/notice-warrant"],
   properties: [

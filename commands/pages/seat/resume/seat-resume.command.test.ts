@@ -37,8 +37,13 @@ test("a resume reading a flag past a value it does not take is refused", async (
 })
 
 test("a resume reading --now past a value is taken rather than refused", async () => {
-  const said = await seatResume(["athena", "--start-mode", "headless", "--now"], given("/nowhere"))
+  const said = await seatResume(
+    ["athena", "--start-mode", "headless", "--now", "--notice", "no-such-notice"],
+    given("/nowhere")
+  )
+  expect(said.code).toBe(1)
   expect(said.refusals[0] ?? "").not.toContain("--now")
+  expect(said.refusals[0]).toContain("names no notice")
 })
 
 test("a resume saying both a prompt and a notice is refused", async () => {

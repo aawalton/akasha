@@ -4,7 +4,7 @@ import { join } from "node:path"
 import {
   notices,
   render,
-} from "akasha/agents/messaging/notices/modules/compose-notices/compose-notices.module.code.ts"
+} from "akasha/agents/messaging/notice/modules/compose-notices/compose-notices.module.code.ts"
 import { ROOT_NAMED } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 
