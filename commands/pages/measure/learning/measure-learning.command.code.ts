@@ -57,7 +57,7 @@ export function saidOf(parts: readonly Reading[], whole: Reading): readonly stri
     `${COVERAGE_HEAD.padStart(wideCoverage)}${gutter}` +
     `${TOPICS_HEAD.padStart(wideTopics)}${gutter}${NAME_HEAD}`
   return [
-    `Book of Everything — how deep it goes, of ${SCALE}`,
+    `Learn Everything — how deep it goes, of ${SCALE}`,
     "",
     heading,
     ...parts.map(rowOf),

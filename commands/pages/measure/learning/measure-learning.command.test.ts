@@ -31,7 +31,7 @@ const PARTS: readonly Reading[] = [
   { title: "Mind", coverage: 0.25, topics: 3 },
 ]
 
-const WHOLE: Reading = { title: "Book of Everything", coverage: 0.875, topics: 120 }
+const WHOLE: Reading = { title: "Learn Everything", coverage: 0.875, topics: 120 }
 
 test("the page declares one argument, the JSON flag, and this test carries its page", () => {
   expect(page.arguments.length).toBe(1)

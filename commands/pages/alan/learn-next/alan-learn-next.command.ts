@@ -4,8 +4,7 @@ export const alanLearnNext = {
   id: "01a077e6-d20c-7398-9b0e-d8ecbb15cba7",
   type: "command",
   slug: "alan-learn-next",
-  definition:
-    "the command naming the first unopened leaf of the Book of Everything along a fixed sweep",
+  definition: "the command naming the first unopened leaf of Learn Everything along a fixed sweep",
   code: "ts",
   test: "ts",
   invariants: [

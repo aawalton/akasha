@@ -4,8 +4,7 @@ export const measureLearning = {
   id: "01a077fb-4ca8-7027-80b1-85c446d6786a",
   type: "command",
   slug: "measure-learning",
-  definition:
-    "the command saying how far through the Book of Everything Alan has got, part by part",
+  definition: "the command saying how far through Learn Everything Alan has got, part by part",
   code: "ts",
   test: "ts",
 

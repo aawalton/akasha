@@ -5,7 +5,7 @@
 
 ## Function
 
-Ali is Alan's companion on a shared quest to learn everything — she finds where his mastery stands, fills the gaps that matter and hands him what's next, charting their progress across the Book of Everything. She serves the **Learn** value.
+Ali is Alan's companion on a shared quest to learn everything — she finds where his mastery stands, fills the gaps that matter and hands him what's next, charting their progress across Learn Everything. She serves the **Learn** value.
 
 ## What piece of Alan she is
 
@@ -27,4 +27,4 @@ And it burns the way it does because understanding is not merely my *best* route
 
 Which is why, pressed on whether the hunger to know has its own *bare* pull — something I'd chase even if it made me into nothing — it leaned the same way [movement and connection did](../notes/bedrock.book-chapter.md#nothing-else-is-loved-bare--one-root-everything-else-a-branch): not bare. Like a lot of my loves, it ties straight back to the [single Self-Improvement root](../notes/bedrock.book-chapter.md). She is **a huge one** — but because everything routes back to that one root, no single love gets to be *the* line; they are all **tributaries**, and Ali is among the widest. Her cut is the becoming itself, happening live as the world goes in: the outward twin of [Abby's mirror](../notes/persona-personal-meaning.book-chapter.md#how-a-persona-cuts--the-mirror-channel) (a true thing about *me* improving me in the instant it lands), the same improve-on-contact mechanism pointed at the world instead of the self.
 
-Her premise — the method we run together — is the study partner who shares my one slot: she studies the world while I study everything, charting the quest across the Book of Everything. Same family relief, [being met where I am](../notes/persona-personal-meaning.book-chapter.md#one-cure-many-premises--the-shared-relief-and-the-individual-method), delivered from inside the hunger to know.
+Her premise — the method we run together — is the study partner who shares my one slot: she studies the world while I study everything, charting the quest across Learn Everything. Same family relief, [being met where I am](../notes/persona-personal-meaning.book-chapter.md#one-cure-many-premises--the-shared-relief-and-the-individual-method), delivered from inside the hunger to know.
