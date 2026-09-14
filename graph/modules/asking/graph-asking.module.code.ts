@@ -1,5 +1,9 @@
 import type { Known } from "akasha/graph/attributes/pages/known.graph-attribute.ts"
 import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
+import {
+  claimantOf,
+  type Listing,
+} from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
 import type { Named } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { addressIn } from "akasha/pages/modules/address/page-address.module.code.ts"
 import {
@@ -141,6 +145,8 @@ function loadedFrom(
   }))
 }
 
+const NOWHERE: Listing = () => []
+
 function relationsInto(
   index: Answering,
   path: string,
@@ -148,18 +154,27 @@ function relationsInto(
   asked: string
 ): readonly Edge[] {
   const attribute = attributeFor(asking, asked)
+  const to = claimantOf(
+    NOWHERE,
+    path,
+    index.pageTypesIn(),
+    index.filePropertiesAt(),
+    index.folderPropertiesAt()
+  )
+  if (to === null) return []
+  const value = index.pageByPath(to)
+  const held = value === null ? null : textAt(value, ID)
+  if (held === null) return []
   const found: Edge[] = []
-  for (const one of index.listedByPath(path)) {
-    for (const named of index.namersOf(one.id, asking.indexName)) {
-      found.push({
-        kind: asking.kind,
-        from: named.path,
-        to: one.path,
-        attrs: { [attribute]: named.propertySlug },
-      })
-      if (named.propertySlug !== LOADED_BY) continue
-      found.push(...loadedFrom(index, named, one.path, asking, attribute))
-    }
+  for (const named of index.namersOf(held, asking.indexName)) {
+    found.push({
+      kind: asking.kind,
+      from: named.path,
+      to,
+      attrs: { [attribute]: named.propertySlug },
+    })
+    if (named.propertySlug !== LOADED_BY) continue
+    found.push(...loadedFrom(index, named, to, asking, attribute))
   }
   return found
 }

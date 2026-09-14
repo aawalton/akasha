@@ -96,6 +96,18 @@ export const LEAF_AT = `${HELD_RELATION}/page/id/${TARGET_ID}/${PART}/${SOURCE_I
 
 const TYPE_FILED_AT = `identity/page-type/${PAGE_TYPE}/slug/${HELD_TYPE}.jsonl`
 
+const PAGE = "page"
+
+const TARGET = "target"
+
+const PAGE_TYPE_ID = "01a04ff4-0000-7000-8000-000000000013"
+
+const PAGE_TYPE_AT = "akasha/held/page.page-type.ts"
+
+const PAGE_FILED_AT = `identity/page-type/${PAGE_TYPE}/slug/${PAGE}.jsonl`
+
+const MODULE_FILED_AT = `identity/page-type/${PAGE_TYPE}/slug/${MODULE}.jsonl`
+
 export const scratch = scratchWorld()
 
 function paged(root: string, at: string, held: Record<string, unknown>): undefined {
@@ -148,6 +160,19 @@ export function relationWorld(lines: number, pagesExist = true): string {
   const root = scratch.rootFor(PREFIX)
   edged(root, RELATION, { attributes: [`${GRAPH_ATTRIBUTE}/${PROPERTY}`] }, pagesExist)
   indexed(root, HELD_RELATION, pagesExist)
+  paged(root, PAGE_TYPE_AT, {
+    id: PAGE_TYPE_ID,
+    pageTypeSlug: PAGE_TYPE,
+    slug: PAGE,
+    definition: "a page type a test invented",
+  })
+  filed(root, PAGE_FILED_AT, { path: PAGE_TYPE_AT, id: PAGE_TYPE_ID })
+  paged(root, TARGET_AT, {
+    id: TARGET_ID,
+    pageTypeSlug: PAGE,
+    slug: TARGET,
+    definition: "a page a test invented",
+  })
   filed(root, `path/${TARGET_AT}.jsonl`, { path: TARGET_AT, id: TARGET_ID })
   filed(root, `path/${SIDECAR_AT}.jsonl`, { path: TARGET_AT, id: TARGET_ID })
   if (lines > 0) {
@@ -228,6 +253,7 @@ export function loaderWorld(names = true): string {
   })
   filed(root, `path/${TYPE_AT}.jsonl`, { path: TYPE_AT, id: TYPE_ID })
   filed(root, `identity/page/id/${TYPE_ID}.jsonl`, { path: TYPE_AT, id: TYPE_ID })
+  filed(root, TYPE_FILED_AT, { path: TYPE_AT, id: TYPE_ID })
   paged(root, LOADER_AT, {
     id: LOADER_ID,
     pageTypeSlug: MODULE,
@@ -236,6 +262,13 @@ export function loaderWorld(names = true): string {
     code: "ts",
   })
   filed(root, `path/${LOADER_AT}.jsonl`, { path: LOADER_AT, id: LOADER_ID })
+  paged(root, MODULE_TYPE_AT, {
+    id: MODULE_TYPE_ID,
+    pageTypeSlug: PAGE_TYPE,
+    slug: MODULE,
+    definition: "a page type a test invented",
+  })
+  filed(root, MODULE_FILED_AT, { path: MODULE_TYPE_AT, id: MODULE_TYPE_ID })
   paged(root, LOADED_AT, { id: LOADED_ID, pageTypeSlug: HELD_TYPE, slug: LOADED })
   filed(root, `path/${LOADED_AT}.jsonl`, { path: LOADED_AT, id: LOADED_ID })
   filed(root, `identity/page-type/${HELD_TYPE}/slug/${LOADED}.jsonl`, {

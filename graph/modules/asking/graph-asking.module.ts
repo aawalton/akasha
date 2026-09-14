@@ -44,5 +44,14 @@ export const graphAsking = {
       invariantKind: "absence",
       statement: "The repository with the pages is never named here.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The page a path belongs to is composed out of that path's own name.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "A path named by a page type rather than by a page is answered here with no edge at all.",
+    },
   ],
 } as const satisfies Module
