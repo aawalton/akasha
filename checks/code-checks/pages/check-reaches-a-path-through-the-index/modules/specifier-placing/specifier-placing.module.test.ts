@@ -43,6 +43,10 @@ test("a literal handed to `require.resolve` names a module", () => {
   expect(named(`require.resolve("${SPEC}")\n`)).toEqual([SPEC])
 })
 
+test("a literal handed to `require` itself names a module", () => {
+  expect(named(`require("${SPEC}")\n`)).toEqual([SPEC])
+})
+
 test("the first literal a test hands `mock.module` names a module", () => {
   expect(named(`mock.module("${SPEC}", () => ({ a: 1 }))\n`)).toEqual([SPEC])
 })
@@ -96,8 +100,12 @@ test("a name handed to a `resolve` on anything else carries no specifier", () =>
   expect(named(`const AT = "${SPEC}"\nother.resolve(AT)\n`)).toEqual([])
 })
 
-test("a require called rather than resolved names no module", () => {
-  expect(named(`${MADE}loadFrom("${SPEC}")\n`)).toEqual([])
+test("a literal handed to a name taken from `createRequire` names a module", () => {
+  expect(named(`${MADE}loadFrom("${SPEC}")\n`)).toEqual([SPEC])
+})
+
+test("a call on a name taken from nowhere names no module", () => {
+  expect(named(`other("${SPEC}")\n`)).toEqual([])
 })
 
 test("a function handing no parameter there is followed by nothing", () => {

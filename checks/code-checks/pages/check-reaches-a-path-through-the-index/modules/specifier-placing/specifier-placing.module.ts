@@ -18,7 +18,7 @@ export const specifierPlacing = {
     },
     {
       invariantKind: "departure",
-      statement: "A literal handed to `require.resolve` names a module.",
+      statement: "A literal handed to `require` or to `require.resolve` names a module.",
     },
     {
       invariantKind: "departure",
@@ -31,7 +31,7 @@ export const specifierPlacing = {
     {
       invariantKind: "departure",
       statement:
-        "A literal handed to `resolve` on a name taken from `createRequire` names a module.",
+        "A literal handed to a name taken from `createRequire`, or to `resolve` on it, names a module.",
     },
     {
       invariantKind: "departure",
@@ -54,10 +54,7 @@ export const specifierPlacing = {
       invariantKind: "absence",
       statement: "A `resolve` on anything else names no module.",
     },
-    {
-      invariantKind: "absence",
-      statement: "A require called rather than resolved names no module.",
-    },
+
     {
       invariantKind: "absence",
       statement: "A specifier built from anything but one plain literal is not seen.",

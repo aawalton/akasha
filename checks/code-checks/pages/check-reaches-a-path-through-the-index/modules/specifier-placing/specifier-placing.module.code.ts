@@ -50,11 +50,17 @@ function takingIn(node: ts.Node): Taking | null {
   return { named: node.name.text, places: placesOf(held) }
 }
 
-function resolvedBy(node: ts.Node, requiring: ReadonlySet<string>): ts.Expression | null {
-  if (!ts.isCallExpression(node) || !ts.isPropertyAccessExpression(node.expression)) return null
-  const reached = node.expression
-  if (reached.name.text !== RESOLVE || !ts.isIdentifier(reached.expression)) return null
-  const named = reached.expression.text
+function requiringIn(node: ts.Expression): string | null {
+  if (ts.isIdentifier(node)) return node.text
+  if (!ts.isPropertyAccessExpression(node)) return null
+  if (node.name.text !== RESOLVE || !ts.isIdentifier(node.expression)) return null
+  return node.expression.text
+}
+
+function requiredBy(node: ts.Node, requiring: ReadonlySet<string>): ts.Expression | null {
+  if (!ts.isCallExpression(node)) return null
+  const named = requiringIn(node.expression)
+  if (named === null) return null
   if (named !== REQUIRE && !requiring.has(named)) return null
   return node.arguments[0] ?? null
 }
@@ -70,7 +76,7 @@ function heldFrom(source: ts.SourceFile): ReadonlySet<ts.Node> {
   }
   const asking = (node: ts.Node, within: Taking | null): undefined => {
     const own = takingIn(node) ?? within
-    const arg = resolvedBy(node, requiring)
+    const arg = requiredBy(node, requiring)
     if (arg !== null) {
       const at = own === null || !ts.isIdentifier(arg) ? -1 : own.places.indexOf(arg.text)
       if (own === null || at < 0) taking(arg)
