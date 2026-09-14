@@ -84,8 +84,8 @@ test("only an access of the route kind is asked for", async () => {
   await routeTargetsFor("alan", recording.fetcher, noNap)
   expect(recording.sent().pageTypeSlug).toBe("person-access")
   expect(recording.sent().where).toEqual({
-    person: { is: "alan" },
-    accessKind: { is: "route" },
+    person: { is: "person/alan" },
+    accessKind: { is: "access-kind/route" },
   })
 })
 

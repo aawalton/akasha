@@ -22,6 +22,10 @@ export const routeAccess = {
     },
     {
       invariantKind: "departure",
+      statement: "An access is asked for by the addresses its person and its kind are named by.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An account read to no person reaches no route.",
     },
     {

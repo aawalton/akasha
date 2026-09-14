@@ -1,3 +1,4 @@
+import { namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
 import {
   askingFor,
   type Fetcher,
@@ -7,7 +8,11 @@ import { personSlugForAccount } from "akasha/persons/modules/enrolment/person-en
 
 const PERSON_ACCESS_PAGE_TYPE = "person-access"
 
-const ROUTE_ACCESS_KIND = "route"
+const PERSON_PAGE_TYPE = "person"
+
+const ACCESS_KIND_PAGE_TYPE = "access-kind"
+
+const ROUTE_ACCESS_KIND = namedAs(ACCESS_KIND_PAGE_TYPE, "route", null)
 
 const EVERY_TARGET = "all"
 
@@ -32,7 +37,10 @@ export async function routeTargetsFor(
   const asked = await askingFor(
     {
       pageTypeSlug: PERSON_ACCESS_PAGE_TYPE,
-      where: { person: { is: personSlug }, accessKind: { is: ROUTE_ACCESS_KIND } },
+      where: {
+        person: { is: namedAs(PERSON_PAGE_TYPE, personSlug, null) },
+        accessKind: { is: ROUTE_ACCESS_KIND },
+      },
       keys: ["target"],
     },
     fetcher,
