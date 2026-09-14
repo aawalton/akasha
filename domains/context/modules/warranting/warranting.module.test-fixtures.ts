@@ -1,4 +1,4 @@
-import { mkdirSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
   recordRead,
@@ -254,6 +254,9 @@ function pageListed(
     `export const ${exportedAs(slug)} = { id: "${id}", slug: "${slug}"${said} }\n`
   )
   filed(root, held, typeSlug, slug)
+  if (!existsSync(join(root, `akasha/${typeSlug}/${typeSlug}.page-type.ts`))) {
+    pageTypeListed(root, typeSlug, [])
+  }
   return held
 }
 
