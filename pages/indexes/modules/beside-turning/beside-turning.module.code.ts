@@ -1,5 +1,3 @@
-import type { FilePropertiesBy } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
-import type { SidecarsBy } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
 import {
   everyValue,
   namersOf,
@@ -29,39 +27,6 @@ import {
 } from "akasha/pages/types/modules/gathering/page-type-gathering.module.code.ts"
 
 const PAGE_TYPE = "page-type"
-
-export type Besides = {
-  readonly fileProperties: FilePropertiesBy
-  readonly sidecars: SidecarsBy
-}
-
-function shapeOf(given: Besides, slug: string): string {
-  const carried = given.fileProperties.get(slug) ?? new Map<string, string | null>()
-  const held = given.sidecars.get(slug)
-  const beside = [...(held?.besides ?? [])]
-    .filter(([key]) => carried.get(key) === null)
-    .map(([key, one]) => [key, one.held, one.uncommitted])
-  return JSON.stringify([
-    [...carried].sort(),
-    held?.secret === true,
-    held?.uncommitted === true,
-    beside.sort(),
-  ])
-}
-
-export function besidesTurned(was: Besides, now: Besides): ReadonlySet<string> {
-  const found = new Set<string>()
-  const slugs = new Set([
-    ...was.fileProperties.keys(),
-    ...now.fileProperties.keys(),
-    ...was.sidecars.keys(),
-    ...now.sidecars.keys(),
-  ])
-  for (const slug of slugs) {
-    if (shapeOf(was, slug) !== shapeOf(now, slug)) found.add(slug)
-  }
-  return found
-}
 
 export function pagesElsewhere(
   reading: Reading,
@@ -125,15 +90,6 @@ export function pagesOfTypes(
     }
   }
   return found
-}
-
-export function pagesTurned(
-  reading: Reading,
-  was: Besides,
-  now: Besides,
-  carried: ReadonlySet<string>
-): readonly Valued[] {
-  return pagesOfTypes(reading, besidesTurned(was, now), carried)
 }
 
 export function typesDeclaring(

@@ -10,20 +10,6 @@ export const besideTurning = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A page type is turned where the files that page type has beside its pages differ.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page type is turned where a page type that page type extends is turned.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A declaration gaining or losing a default turns the page type declaring that property.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The pages of a turned page type are read off the index rather than off the disk.",
     },
     {
