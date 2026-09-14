@@ -4,12 +4,9 @@ import {
   typed,
 } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
-import { bodiesIn } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
-
-export const ROOT = "/repo"
 
 export const AT = "akasha/held.ts"
 
@@ -18,8 +15,6 @@ const PAGE_AT = "akasha/one/held.module.ts"
 export const CODE_AT = "akasha/one/held.module.code.ts"
 
 export const SPELLING = 'const at = "/tmp/held"\n'
-
-export const given = bodiesIn(ROOT)
 
 export const scratch = scratchWorld()
 

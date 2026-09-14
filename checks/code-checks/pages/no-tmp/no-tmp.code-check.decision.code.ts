@@ -1,5 +1,4 @@
 import { dirname, join } from "node:path"
-import { overEachText } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import {
   lineOf,
   literalIn,
@@ -89,8 +88,6 @@ function reasonsFor(at: string, text: string): readonly string[] {
   ts.forEachChild(source, walk)
   return [...taken.said, ...said]
 }
-
-export const reasonsIn = overEachText(reasonsFor)
 
 export function allowedIn(path: string, shadow: Shadow): boolean {
   const said = partedIn(path)
