@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0127Chapter127EyeOfTheStorm 
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0127-chapter-127-eye-of-the-storm",
   title: "Chapter 127 – Eye of the Storm",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 127,
   ownLength: 2002,
   unit: "unit/words",

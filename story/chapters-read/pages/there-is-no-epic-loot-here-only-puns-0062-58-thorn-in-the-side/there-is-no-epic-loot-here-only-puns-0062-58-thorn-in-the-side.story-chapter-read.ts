@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns006258ThornInTheSide = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0062-58-thorn-in-the-side",
   title: "58: Thorn in The Side",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 62,
   ownLength: 3436,
   unit: "unit/words",

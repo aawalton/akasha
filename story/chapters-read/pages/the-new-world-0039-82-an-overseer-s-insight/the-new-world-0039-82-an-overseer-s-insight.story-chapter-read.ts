@@ -5,7 +5,7 @@ export const theNewWorld003982AnOverseerSInsight = {
   type: "story-chapter-read",
   slug: "the-new-world-0039-82-an-overseer-s-insight",
   title: "82 An Overseer's Insight",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 39,
   ownLength: 1176,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0134Chapter132OfEconomicCa
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0134-chapter-132-of-economic-catastrophes-and",
   title: "Chapter 132: Of Economic Catastrophes and Campfire Logistics",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 134,
   ownLength: 3387,
   unit: "unit/words",

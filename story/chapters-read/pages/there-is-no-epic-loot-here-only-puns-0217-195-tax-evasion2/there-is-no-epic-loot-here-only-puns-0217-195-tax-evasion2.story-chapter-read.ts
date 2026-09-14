@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0217195TaxEvasion2 = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0217-195-tax-evasion2",
   title: "195: Tax Evasion+2",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 217,
   ownLength: 2766,
   unit: "unit/words",

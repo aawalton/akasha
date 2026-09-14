@@ -5,7 +5,7 @@ export const theNewWorld0215256FeastingAndPlenty = {
   type: "story-chapter-read",
   slug: "the-new-world-0215-256-feasting-and-plenty",
   title: "256 Feasting and Plenty",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 215,
   ownLength: 2993,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0086Chapter86BodyReforging = {
   type: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0086-chapter-86-body-reforging",
   title: "Chapter 86: Body Reforging",
-  story: "time-cursed-knight-time-loop-post-apoc",
+  story: "story-read/time-cursed-knight-time-loop-post-apoc",
   position: 86,
   ownLength: 1710,
   unit: "unit/words",

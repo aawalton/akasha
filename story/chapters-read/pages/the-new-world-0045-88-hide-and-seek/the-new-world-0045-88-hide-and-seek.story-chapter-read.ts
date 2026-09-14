@@ -5,7 +5,7 @@ export const theNewWorld004588HideAndSeek = {
   type: "story-chapter-read",
   slug: "the-new-world-0045-88-hide-and-seek",
   title: "88 Hide and Seek",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 45,
   ownLength: 2810,
   unit: "unit/words",

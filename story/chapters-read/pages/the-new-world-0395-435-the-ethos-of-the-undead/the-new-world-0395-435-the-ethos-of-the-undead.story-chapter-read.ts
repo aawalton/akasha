@@ -5,7 +5,7 @@ export const theNewWorld0395435TheEthosOfTheUndead = {
   type: "story-chapter-read",
   slug: "the-new-world-0395-435-the-ethos-of-the-undead",
   title: "435 The Ethos of the Undead",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 395,
   ownLength: 7509,
   unit: "unit/words",

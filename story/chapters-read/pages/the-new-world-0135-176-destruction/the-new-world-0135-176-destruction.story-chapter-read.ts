@@ -5,7 +5,7 @@ export const theNewWorld0135176Destruction = {
   type: "story-chapter-read",
   slug: "the-new-world-0135-176-destruction",
   title: "176 Destruction",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 135,
   ownLength: 2133,
   unit: "unit/words",

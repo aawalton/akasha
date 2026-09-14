@@ -5,7 +5,7 @@ export const theNewWorld0420460ForgingPaths = {
   type: "story-chapter-read",
   slug: "the-new-world-0420-460-forging-paths",
   title: "460 Forging Paths",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 420,
   ownLength: 3468,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theNewWorld0376416AnEverchangingLife = {
   type: "story-chapter-read",
   slug: "the-new-world-0376-416-an-everchanging-life",
   title: "416 An Everchanging Life",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 376,
   ownLength: 4895,
   unit: "unit/words",

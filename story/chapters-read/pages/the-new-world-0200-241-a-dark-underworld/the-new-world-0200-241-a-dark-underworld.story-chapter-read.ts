@@ -5,7 +5,7 @@ export const theNewWorld0200241ADarkUnderworld = {
   type: "story-chapter-read",
   slug: "the-new-world-0200-241-a-dark-underworld",
   title: "241 A Dark Underworld",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 200,
   ownLength: 2061,
   unit: "unit/words",

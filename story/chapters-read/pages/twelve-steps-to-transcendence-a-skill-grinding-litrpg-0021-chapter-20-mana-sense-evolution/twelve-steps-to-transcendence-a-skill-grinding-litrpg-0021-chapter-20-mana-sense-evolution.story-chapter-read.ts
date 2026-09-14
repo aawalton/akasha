@@ -5,7 +5,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0021Chapter20ManaSens
   type: "story-chapter-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0021-chapter-20-mana-sense-evolution",
   title: "Chapter 20: [Mana Sense] Evolution",
-  story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
+  story: "story-read/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 21,
   ownLength: 2210,
   unit: "unit/words",

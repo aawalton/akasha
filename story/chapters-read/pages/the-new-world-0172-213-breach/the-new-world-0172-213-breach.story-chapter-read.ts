@@ -5,7 +5,7 @@ export const theNewWorld0172213Breach = {
   type: "story-chapter-read",
   slug: "the-new-world-0172-213-breach",
   title: "213 Breach",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 172,
   ownLength: 4810,
   unit: "unit/words",

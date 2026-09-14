@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0091Chapter90OfPotionsSmel
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0091-chapter-90-of-potions-smells-and-shadow",
   title: "Chapter 90: Of Potions, Smells, and Shadow Tricks",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 91,
   ownLength: 2111,
   unit: "unit/words",

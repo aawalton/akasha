@@ -5,7 +5,7 @@ export const theNewWorld002366TeachingTheMaster = {
   type: "story-chapter-read",
   slug: "the-new-world-0023-66-teaching-the-master",
   title: "66 Teaching the Master",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 23,
   ownLength: 3546,
   unit: "unit/words",

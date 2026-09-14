@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0150133IHaveAwokenAndIHaveChosenViolen
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0150-133-i-have-awoken-and-i-have-chosen-violence",
   title: "133: I have awoken and I have chosen violence",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 150,
   ownLength: 3766,
   unit: "unit/words",

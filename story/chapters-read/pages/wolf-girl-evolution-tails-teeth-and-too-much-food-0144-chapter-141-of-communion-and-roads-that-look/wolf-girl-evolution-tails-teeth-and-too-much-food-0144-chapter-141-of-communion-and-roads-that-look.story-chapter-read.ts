@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0144Chapter141OfCommunionA
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0144-chapter-141-of-communion-and-roads-that-look",
   title: "Chapter 141: Of Communion and Roads That Look Back",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 144,
   ownLength: 3092,
   unit: "unit/words",

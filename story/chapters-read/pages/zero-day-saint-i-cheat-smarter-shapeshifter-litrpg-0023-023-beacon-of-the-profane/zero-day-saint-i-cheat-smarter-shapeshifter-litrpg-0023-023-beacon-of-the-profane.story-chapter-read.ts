@@ -5,7 +5,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0023023BeaconOfTheProfan
   type: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0023-023-beacon-of-the-profane",
   title: "023 - Beacon of the Profane",
-  story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
+  story: "story-read/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 23,
   ownLength: 2624,
   unit: "unit/words",

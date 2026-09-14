@@ -5,7 +5,7 @@ export const theNewWorld005799WrathOfALich = {
   type: "story-chapter-read",
   slug: "the-new-world-0057-99-wrath-of-a-lich",
   title: "99 Wrath of a Lich",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 57,
   ownLength: 2909,
   unit: "unit/words",

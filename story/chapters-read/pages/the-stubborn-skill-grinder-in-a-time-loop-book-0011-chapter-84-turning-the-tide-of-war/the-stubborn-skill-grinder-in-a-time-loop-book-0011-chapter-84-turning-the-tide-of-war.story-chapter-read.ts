@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0011Chapter84TurningTheTideOf
   type: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0011-chapter-84-turning-the-tide-of-war",
   title: "Chapter 84 - Turning The Tide Of War",
-  story: "the-stubborn-skill-grinder-in-a-time-loop-book",
+  story: "story-read/the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 11,
   ownLength: 21634,
   unit: "unit/words",

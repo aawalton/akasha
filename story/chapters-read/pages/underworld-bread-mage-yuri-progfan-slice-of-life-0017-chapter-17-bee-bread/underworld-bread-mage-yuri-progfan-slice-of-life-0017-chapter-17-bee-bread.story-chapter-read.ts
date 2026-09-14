@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0017Chapter17BeeBread = {
   type: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0017-chapter-17-bee-bread",
   title: "Chapter 17: Bee Bread",
-  story: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  story: "story-read/underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 17,
   ownLength: 1446,
   unit: "unit/words",

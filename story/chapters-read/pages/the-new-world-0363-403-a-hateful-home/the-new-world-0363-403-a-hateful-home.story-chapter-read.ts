@@ -5,7 +5,7 @@ export const theNewWorld0363403AHatefulHome = {
   type: "story-chapter-read",
   slug: "the-new-world-0363-403-a-hateful-home",
   title: "403 A Hateful Home",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 363,
   ownLength: 3683,
   unit: "unit/words",

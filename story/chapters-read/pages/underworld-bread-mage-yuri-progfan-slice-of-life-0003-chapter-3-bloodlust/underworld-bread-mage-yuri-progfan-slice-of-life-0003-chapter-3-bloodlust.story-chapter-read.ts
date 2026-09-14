@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0003Chapter3Bloodlust = {
   type: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0003-chapter-3-bloodlust",
   title: "Chapter 3: Bloodlust",
-  story: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  story: "story-read/underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 3,
   ownLength: 2434,
   unit: "unit/words",

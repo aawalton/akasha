@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0089Chapter88LunasPerfectD
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0089-chapter-88-lunas-perfect-day",
   title: "Chapter 88: Luna’s Perfect Day!",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 89,
   ownLength: 1889,
   unit: "unit/words",

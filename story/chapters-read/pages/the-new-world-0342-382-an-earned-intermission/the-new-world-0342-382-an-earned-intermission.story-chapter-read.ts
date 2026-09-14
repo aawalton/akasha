@@ -5,7 +5,7 @@ export const theNewWorld0342382AnEarnedIntermission = {
   type: "story-chapter-read",
   slug: "the-new-world-0342-382-an-earned-intermission",
   title: "382 An Earned Intermission",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 342,
   ownLength: 5725,
   unit: "unit/words",

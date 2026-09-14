@@ -5,7 +5,7 @@ export const theNewWorld0107148ACalmKilling = {
   type: "story-chapter-read",
   slug: "the-new-world-0107-148-a-calm-killing",
   title: "148 A Calm Killing",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 107,
   ownLength: 4499,
   unit: "unit/words",

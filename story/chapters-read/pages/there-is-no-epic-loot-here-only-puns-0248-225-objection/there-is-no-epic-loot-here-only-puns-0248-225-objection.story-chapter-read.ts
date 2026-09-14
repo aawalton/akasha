@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0248225Objection = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0248-225-objection",
   title: "225: Objection",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 248,
   ownLength: 3870,
   unit: "unit/words",

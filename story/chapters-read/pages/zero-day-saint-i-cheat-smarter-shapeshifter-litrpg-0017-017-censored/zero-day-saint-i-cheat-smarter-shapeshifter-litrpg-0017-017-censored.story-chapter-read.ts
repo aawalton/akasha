@@ -5,7 +5,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0017017Censored = {
   type: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0017-017-censored",
   title: "017 - CENSORED",
-  story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
+  story: "story-read/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 17,
   ownLength: 2753,
   unit: "unit/words",

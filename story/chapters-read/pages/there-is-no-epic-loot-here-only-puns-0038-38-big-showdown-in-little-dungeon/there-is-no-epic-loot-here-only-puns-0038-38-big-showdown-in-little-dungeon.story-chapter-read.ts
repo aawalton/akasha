@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns003838BigShowdownInLittleDungeon = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0038-38-big-showdown-in-little-dungeon",
   title: "38: Big Showdown in little Dungeon",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 38,
   ownLength: 1772,
   unit: "unit/words",

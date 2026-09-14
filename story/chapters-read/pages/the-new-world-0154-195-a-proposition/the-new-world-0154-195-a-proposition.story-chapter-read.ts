@@ -5,7 +5,7 @@ export const theNewWorld0154195AProposition = {
   type: "story-chapter-read",
   slug: "the-new-world-0154-195-a-proposition",
   title: "195 A Proposition",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 154,
   ownLength: 3834,
   unit: "unit/words",

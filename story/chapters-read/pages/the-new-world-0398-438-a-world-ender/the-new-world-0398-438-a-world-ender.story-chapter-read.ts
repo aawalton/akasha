@@ -5,7 +5,7 @@ export const theNewWorld0398438AWorldEnder = {
   type: "story-chapter-read",
   slug: "the-new-world-0398-438-a-world-ender",
   title: "438 A World Ender",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 398,
   ownLength: 3608,
   unit: "unit/words",

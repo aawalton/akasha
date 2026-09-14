@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0199178StarsInYouEyes = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0199-178-stars-in-you-eyes",
   title: "178: Stars in You Eyes",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 199,
   ownLength: 2016,
   unit: "unit/words",

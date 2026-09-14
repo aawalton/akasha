@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0022Chapter22TakeToTheSky 
   type: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0022-chapter-22-take-to-the-sky",
   title: "Chapter 22: Take to the Sky",
-  story: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  story: "story-read/underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 22,
   ownLength: 1506,
   unit: "unit/words",

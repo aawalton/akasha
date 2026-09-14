@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0121Chapter120OfSettingOut
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0121-chapter-120-of-setting-out-and-skillful",
   title: "Chapter 120: Of Setting Out, and Skillful Sandwich Surprises",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 121,
   ownLength: 2430,
   unit: "unit/words",

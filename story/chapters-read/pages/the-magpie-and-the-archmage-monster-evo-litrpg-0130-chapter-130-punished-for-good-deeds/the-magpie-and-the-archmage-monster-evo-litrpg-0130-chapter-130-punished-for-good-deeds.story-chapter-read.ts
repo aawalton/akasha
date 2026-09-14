@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0130Chapter130PunishedForGoo
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0130-chapter-130-punished-for-good-deeds",
   title: "Chapter 130 – Punished for Good Deeds",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 130,
   ownLength: 2154,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0246223WeAreRats = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0246-223-we-are-rats",
   title: "223: We Are Rats",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 246,
   ownLength: 2663,
   unit: "unit/words",

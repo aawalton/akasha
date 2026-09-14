@@ -5,7 +5,7 @@ export const theNewWorld0166207HelpMeHelpYou = {
   type: "story-chapter-read",
   slug: "the-new-world-0166-207-help-me-help-you",
   title: "207 Help Me Help You",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 166,
   ownLength: 2825,
   unit: "unit/words",

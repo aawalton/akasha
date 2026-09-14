@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns001919DeoAndFriends = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0019-19-deo-and-friends",
   title: "19: DEO! and friends!",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 19,
   ownLength: 2818,
   unit: "unit/words",

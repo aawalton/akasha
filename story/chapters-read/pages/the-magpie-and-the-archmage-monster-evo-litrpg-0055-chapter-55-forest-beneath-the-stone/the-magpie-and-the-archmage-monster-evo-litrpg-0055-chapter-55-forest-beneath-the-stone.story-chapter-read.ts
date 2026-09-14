@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0055Chapter55ForestBeneathTh
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0055-chapter-55-forest-beneath-the-stone",
   title: "Chapter 55 – Forest Beneath the Stone",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 55,
   ownLength: 1941,
   unit: "unit/words",

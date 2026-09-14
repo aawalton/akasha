@@ -5,7 +5,7 @@ export const theNewWorld0315356AGoal = {
   type: "story-chapter-read",
   slug: "the-new-world-0315-356-a-goal",
   title: "356 A Goal",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 315,
   ownLength: 5099,
   unit: "unit/words",

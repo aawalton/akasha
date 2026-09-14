@@ -5,7 +5,7 @@ export const theNewWorld0411451AFrozenSea = {
   type: "story-chapter-read",
   slug: "the-new-world-0411-451-a-frozen-sea",
   title: "451 A Frozen Sea",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 411,
   ownLength: 3094,
   unit: "unit/words",

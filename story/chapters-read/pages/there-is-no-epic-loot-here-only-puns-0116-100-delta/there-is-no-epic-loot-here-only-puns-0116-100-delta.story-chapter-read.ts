@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0116100Delta = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0116-100-delta",
   title: "100: Delta",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 116,
   ownLength: 4866,
   unit: "unit/words",

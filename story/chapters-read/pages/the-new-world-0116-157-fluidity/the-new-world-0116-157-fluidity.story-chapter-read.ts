@@ -5,7 +5,7 @@ export const theNewWorld0116157Fluidity = {
   type: "story-chapter-read",
   slug: "the-new-world-0116-157-fluidity",
   title: "157 Fluidity",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 116,
   ownLength: 3392,
   unit: "unit/words",

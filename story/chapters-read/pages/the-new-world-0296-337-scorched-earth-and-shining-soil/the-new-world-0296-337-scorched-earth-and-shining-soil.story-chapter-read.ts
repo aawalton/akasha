@@ -5,7 +5,7 @@ export const theNewWorld0296337ScorchedEarthAndShiningSoil = {
   type: "story-chapter-read",
   slug: "the-new-world-0296-337-scorched-earth-and-shining-soil",
   title: "337 Scorched Earth and Shining Soil",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 296,
   ownLength: 3282,
   unit: "unit/words",

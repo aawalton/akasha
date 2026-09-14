@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0167Chapter167ItsMyLife = {
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0167-chapter-167-its-my-life",
   title: "Chapter 167 – It's My Life",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 167,
   ownLength: 2213,
   unit: "unit/words",

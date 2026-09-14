@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0058Maestro = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0058-maestro",
   title: "Maestro",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 58,
   ownLength: 51,
   unit: "unit/words",

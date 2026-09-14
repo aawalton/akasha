@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0131115VastlyGiantBridge = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0131-115-vastly-giant-bridge",
   title: "115: Vastly Giant Bridge",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 131,
   ownLength: 2212,
   unit: "unit/words",

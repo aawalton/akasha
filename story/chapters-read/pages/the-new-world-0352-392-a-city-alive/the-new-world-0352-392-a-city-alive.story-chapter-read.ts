@@ -5,7 +5,7 @@ export const theNewWorld0352392ACityAlive = {
   type: "story-chapter-read",
   slug: "the-new-world-0352-392-a-city-alive",
   title: "392  A City Alive",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 352,
   ownLength: 4057,
   unit: "unit/words",

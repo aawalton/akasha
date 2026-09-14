@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0130Chapter128OfMeatMounta
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0130-chapter-128-of-meat-mountains-and-recovery",
   title: "Chapter 128: Of Meat Mountains and Recovery Crimes",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 130,
   ownLength: 3189,
   unit: "unit/words",

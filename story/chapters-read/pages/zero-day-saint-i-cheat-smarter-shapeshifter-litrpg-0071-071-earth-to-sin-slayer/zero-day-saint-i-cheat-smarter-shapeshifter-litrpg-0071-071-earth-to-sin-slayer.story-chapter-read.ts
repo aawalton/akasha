@@ -5,7 +5,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0071071EarthToSinSlayer 
   type: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0071-071-earth-to-sin-slayer",
   title: "071 - Earth to Sin Slayer",
-  story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
+  story: "story-read/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 71,
   ownLength: 1914,
   unit: "unit/words",

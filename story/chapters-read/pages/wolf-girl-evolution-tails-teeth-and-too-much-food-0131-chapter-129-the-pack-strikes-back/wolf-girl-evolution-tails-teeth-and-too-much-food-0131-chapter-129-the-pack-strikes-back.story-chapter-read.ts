@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0131Chapter129ThePackStrik
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0131-chapter-129-the-pack-strikes-back",
   title: "Chapter 129: The Pack Strikes Back!",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 131,
   ownLength: 2560,
   unit: "unit/words",

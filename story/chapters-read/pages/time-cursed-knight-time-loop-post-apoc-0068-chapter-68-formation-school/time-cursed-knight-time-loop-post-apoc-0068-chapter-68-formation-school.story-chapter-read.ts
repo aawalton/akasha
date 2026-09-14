@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0068Chapter68FormationSchool = {
   type: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0068-chapter-68-formation-school",
   title: "Chapter 68: Formation School",
-  story: "time-cursed-knight-time-loop-post-apoc",
+  story: "story-read/time-cursed-knight-time-loop-post-apoc",
   position: 68,
   ownLength: 3676,
   unit: "unit/words",

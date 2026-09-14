@@ -5,7 +5,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0039039DoNotAttackTheHye
   type: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0039-039-do-not-attack-the-hyenas",
   title: "039 - Do Not Attack the Hyenas!",
-  story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
+  story: "story-read/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 39,
   ownLength: 2372,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theNewWorld0312353AHollowRoar = {
   type: "story-chapter-read",
   slug: "the-new-world-0312-353-a-hollow-roar",
   title: "353 A Hollow Roar",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 312,
   ownLength: 2678,
   unit: "unit/words",

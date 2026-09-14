@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns001616DuckForTraps = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0016-16-duck-for-traps",
   title: "16: Duck for Traps",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 16,
   ownLength: 1463,
   unit: "unit/words",

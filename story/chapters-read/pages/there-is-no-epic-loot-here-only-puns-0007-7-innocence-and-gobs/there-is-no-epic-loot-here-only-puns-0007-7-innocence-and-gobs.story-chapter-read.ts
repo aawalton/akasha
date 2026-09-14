@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns00077InnocenceAndGobs = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0007-7-innocence-and-gobs",
   title: "7: innocence and Gobs",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 7,
   ownLength: 2427,
   unit: "unit/words",

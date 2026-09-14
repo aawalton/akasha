@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0024Chapter23WhatTheManserva
   type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0024-chapter-23-what-the-manservant-overhears",
   title: "Chapter 23 - What the Manservant Overhears",
-  story: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 24,
   ownLength: 507,
   unit: "unit/words",

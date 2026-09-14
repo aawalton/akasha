@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0049Chapter49GemCrabs = {
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0049-chapter-49-gem-crabs",
   title: "Chapter 49 – Gem Crabs",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 49,
   ownLength: 1884,
   unit: "unit/words",

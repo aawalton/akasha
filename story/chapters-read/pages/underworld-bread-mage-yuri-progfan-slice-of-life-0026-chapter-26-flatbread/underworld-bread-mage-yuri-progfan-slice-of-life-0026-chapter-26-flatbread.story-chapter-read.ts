@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0026Chapter26Flatbread = {
   type: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0026-chapter-26-flatbread",
   title: "Chapter 26: Flatbread",
-  story: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  story: "story-read/underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 26,
   ownLength: 1869,
   unit: "unit/words",

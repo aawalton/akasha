@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0102Chapter101OfCampSafety
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0102-chapter-101-of-camp-safety-and-choices-many",
   title: "Chapter 101: Of Camp Safety and Choices Many",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 102,
   ownLength: 2206,
   unit: "unit/words",

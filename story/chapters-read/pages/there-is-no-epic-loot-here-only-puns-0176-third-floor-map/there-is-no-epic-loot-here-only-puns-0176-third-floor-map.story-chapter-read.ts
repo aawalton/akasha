@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0176ThirdFloorMap = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0176-third-floor-map",
   title: "Third floor map!",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 176,
   ownLength: 93,
   unit: "unit/words",

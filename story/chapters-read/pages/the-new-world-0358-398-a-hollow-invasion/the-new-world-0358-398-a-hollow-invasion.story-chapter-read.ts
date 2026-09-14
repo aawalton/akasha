@@ -5,7 +5,7 @@ export const theNewWorld0358398AHollowInvasion = {
   type: "story-chapter-read",
   slug: "the-new-world-0358-398-a-hollow-invasion",
   title: "398 A Hollow Invasion",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 358,
   ownLength: 4809,
   unit: "unit/words",

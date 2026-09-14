@@ -5,7 +5,7 @@ export const theNewWorld0204245TacticsEvolved = {
   type: "story-chapter-read",
   slug: "the-new-world-0204-245-tactics-evolved",
   title: "245 Tactics, Evolved",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 204,
   ownLength: 4155,
   unit: "unit/words",

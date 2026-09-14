@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns007567KeysAndDoors = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0075-67-keys-and-doors",
   title: "67: Keys and Doors",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 75,
   ownLength: 2963,
   unit: "unit/words",

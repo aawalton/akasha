@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns009885SilentKnight = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0098-85-silent-knight",
   title: "85: Silent Knight",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 98,
   ownLength: 4827,
   unit: "unit/words",

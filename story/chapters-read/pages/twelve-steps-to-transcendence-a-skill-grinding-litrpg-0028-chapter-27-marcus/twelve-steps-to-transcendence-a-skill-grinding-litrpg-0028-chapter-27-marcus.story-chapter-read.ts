@@ -5,7 +5,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0028Chapter27Marcus =
   type: "story-chapter-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0028-chapter-27-marcus",
   title: "Chapter 27: Marcus",
-  story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
+  story: "story-read/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 28,
   ownLength: 1943,
   unit: "unit/words",

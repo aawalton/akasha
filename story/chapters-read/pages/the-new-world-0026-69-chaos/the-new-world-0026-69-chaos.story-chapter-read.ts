@@ -5,7 +5,7 @@ export const theNewWorld002669Chaos = {
   type: "story-chapter-read",
   slug: "the-new-world-0026-69-chaos",
   title: "69 Chaos",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 26,
   ownLength: 3055,
   unit: "unit/words",

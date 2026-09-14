@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0102Chapter102TwoPillars = {
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0102-chapter-102-two-pillars",
   title: "Chapter 102 – Two Pillars",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 102,
   ownLength: 1989,
   unit: "unit/words",

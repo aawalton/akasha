@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0022Chapter22DraconoidVsBird
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0022-chapter-22-draconoid-vs-bird",
   title: "Chapter 22 – Draconoid vs Bird",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 22,
   ownLength: 2182,
   unit: "unit/words",

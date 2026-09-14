@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0079Chapter79NewEvolution = 
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0079-chapter-79-new-evolution",
   title: "Chapter 79 – New Evolution",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 79,
   ownLength: 1979,
   unit: "unit/words",

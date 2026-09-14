@@ -5,7 +5,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0036Chapter35Mana = {
   type: "story-chapter-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0036-chapter-35-mana",
   title: "Chapter 35: Mana",
-  story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
+  story: "story-read/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 36,
   ownLength: 1937,
   unit: "unit/words",

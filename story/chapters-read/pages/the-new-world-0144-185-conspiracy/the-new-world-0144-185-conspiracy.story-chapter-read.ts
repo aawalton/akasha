@@ -5,7 +5,7 @@ export const theNewWorld0144185Conspiracy = {
   type: "story-chapter-read",
   slug: "the-new-world-0144-185-conspiracy",
   title: "185 Conspiracy",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 144,
   ownLength: 2137,
   unit: "unit/words",

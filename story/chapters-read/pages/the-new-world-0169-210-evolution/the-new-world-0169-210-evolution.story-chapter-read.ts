@@ -5,7 +5,7 @@ export const theNewWorld0169210Evolution = {
   type: "story-chapter-read",
   slug: "the-new-world-0169-210-evolution",
   title: "210 Evolution",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 169,
   ownLength: 6058,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns003737TheNuanceOfDungeonBuilding = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0037-37-the-nuance-of-dungeon-building",
   title: "37: The Nuance of Dungeon Building",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 37,
   ownLength: 2554,
   unit: "unit/words",

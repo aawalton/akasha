@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0055Chapter55OfHolesHopesA
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0055-chapter-55-of-holes-hopes-and-half-ruins",
   title: "Chapter 55: Of Holes, Hopes, and Half-Ruins",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 55,
   ownLength: 1674,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theNewWorld0378418AChangedWorld = {
   type: "story-chapter-read",
   slug: "the-new-world-0378-418-a-changed-world",
   title: "418 A Changed World",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 378,
   ownLength: 3930,
   unit: "unit/words",

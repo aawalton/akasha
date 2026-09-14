@@ -5,7 +5,7 @@ export const theNewWorld003780WhatFollows = {
   type: "story-chapter-read",
   slug: "the-new-world-0037-80-what-follows",
   title: "80 What Follows",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 37,
   ownLength: 4482,
   unit: "unit/words",

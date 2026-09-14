@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0030Chapter30SweeterThanHo
   type: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0030-chapter-30-sweeter-than-honey",
   title: "Chapter 30: Sweeter Than Honey",
-  story: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  story: "story-read/underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 30,
   ownLength: 1430,
   unit: "unit/words",

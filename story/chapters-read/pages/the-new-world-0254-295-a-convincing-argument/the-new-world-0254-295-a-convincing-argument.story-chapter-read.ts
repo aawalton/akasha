@@ -5,7 +5,7 @@ export const theNewWorld0254295AConvincingArgument = {
   type: "story-chapter-read",
   slug: "the-new-world-0254-295-a-convincing-argument",
   title: "295 A Convincing Argument",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 254,
   ownLength: 6676,
   unit: "unit/words",

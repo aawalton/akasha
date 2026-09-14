@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0036Chapter35TheDancingGlass
   type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0036-chapter-35-the-dancing-glass",
   title: "Chapter 35 - The Dancing Glass",
-  story: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 36,
   ownLength: 2555,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theNewWorld0115156Eonoth = {
   type: "story-chapter-read",
   slug: "the-new-world-0115-156-eonoth",
   title: "156 Eonoth",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 115,
   ownLength: 3281,
   unit: "unit/words",

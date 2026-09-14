@@ -5,7 +5,7 @@ export const theNewWorld0241282BeastsOfBurden = {
   type: "story-chapter-read",
   slug: "the-new-world-0241-282-beasts-of-burden",
   title: "282 Beasts of Burden",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 241,
   ownLength: 5891,
   unit: "unit/words",

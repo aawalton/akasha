@@ -5,7 +5,7 @@ export const theNewWorld0384424AWarWaged = {
   type: "story-chapter-read",
   slug: "the-new-world-0384-424-a-war-waged",
   title: "424 A War Waged",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 384,
   ownLength: 5530,
   unit: "unit/words",

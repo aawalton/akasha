@@ -5,7 +5,7 @@ export const theNewWorld000851MonstersOfTheDeep = {
   type: "story-chapter-read",
   slug: "the-new-world-0008-51-monsters-of-the-deep",
   title: "51 Monsters of the Deep",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 8,
   ownLength: 3054,
   unit: "unit/words",

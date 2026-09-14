@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0128Chapter127OfReliefReco
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0128-chapter-127-of-relief-recovery-and-resting",
   title: "Chapter 127: Of Relief, Recovery, and Resting Reins",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 128,
   ownLength: 3560,
   unit: "unit/words",

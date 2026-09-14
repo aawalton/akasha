@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns010389SplitOpinionsOnBannedBooks = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0103-89-split-opinions-on-banned-books",
   title: "89: Split Opinions on Banned Books",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 103,
   ownLength: 4879,
   unit: "unit/words",

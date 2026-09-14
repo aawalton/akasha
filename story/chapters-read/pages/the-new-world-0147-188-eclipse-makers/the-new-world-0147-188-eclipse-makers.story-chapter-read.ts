@@ -5,7 +5,7 @@ export const theNewWorld0147188EclipseMakers = {
   type: "story-chapter-read",
   slug: "the-new-world-0147-188-eclipse-makers",
   title: "188 Eclipse Makers",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 147,
   ownLength: 2903,
   unit: "unit/words",

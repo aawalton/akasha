@@ -5,7 +5,7 @@ export const theNewWorld0164205Aftermath = {
   type: "story-chapter-read",
   slug: "the-new-world-0164-205-aftermath",
   title: "205 Aftermath",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 164,
   ownLength: 2821,
   unit: "unit/words",

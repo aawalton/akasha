@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0141Chapter141BrokenSeal = {
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0141-chapter-141-broken-seal",
   title: "Chapter 141 – Broken Seal",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 141,
   ownLength: 2248,
   unit: "unit/words",

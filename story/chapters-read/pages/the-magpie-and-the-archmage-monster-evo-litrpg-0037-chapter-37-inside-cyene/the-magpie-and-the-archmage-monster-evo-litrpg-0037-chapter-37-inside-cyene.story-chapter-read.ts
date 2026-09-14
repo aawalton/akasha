@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0037Chapter37InsideCyene = {
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0037-chapter-37-inside-cyene",
   title: "Chapter 37 – Inside Cyene",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 37,
   ownLength: 2114,
   unit: "unit/words",

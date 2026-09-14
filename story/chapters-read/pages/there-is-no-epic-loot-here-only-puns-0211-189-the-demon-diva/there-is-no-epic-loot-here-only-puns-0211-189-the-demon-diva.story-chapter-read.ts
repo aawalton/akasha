@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0211189TheDemonDiva = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0211-189-the-demon-diva",
   title: "189: The Demon Diva",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 211,
   ownLength: 3909,
   unit: "unit/words",

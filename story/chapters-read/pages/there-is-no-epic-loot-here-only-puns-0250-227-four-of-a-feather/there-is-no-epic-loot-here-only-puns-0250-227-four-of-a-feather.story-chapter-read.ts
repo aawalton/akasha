@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0250227FourOfAFeather = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0250-227-four-of-a-feather",
   title: "227: Four of a Feather",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 250,
   ownLength: 3438,
   unit: "unit/words",

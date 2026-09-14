@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0006Chapter5CousinEddie = {
   type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0006-chapter-5-cousin-eddie",
   title: "Chapter 5 - Cousin Eddie",
-  story: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 6,
   ownLength: 1765,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0019Chapter18TeaWithTheVasle
   type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0019-chapter-18-tea-with-the-vasleys",
   title: "Chapter 18 - Tea with the Vasleys",
-  story: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 19,
   ownLength: 1037,
   unit: "unit/words",

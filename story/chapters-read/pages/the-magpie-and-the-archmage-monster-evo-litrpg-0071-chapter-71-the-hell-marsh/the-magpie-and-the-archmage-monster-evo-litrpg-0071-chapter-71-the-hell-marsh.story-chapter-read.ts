@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0071Chapter71TheHellMarsh = 
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0071-chapter-71-the-hell-marsh",
   title: "Chapter 71 – The Hell Marsh",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 71,
   ownLength: 2072,
   unit: "unit/words",

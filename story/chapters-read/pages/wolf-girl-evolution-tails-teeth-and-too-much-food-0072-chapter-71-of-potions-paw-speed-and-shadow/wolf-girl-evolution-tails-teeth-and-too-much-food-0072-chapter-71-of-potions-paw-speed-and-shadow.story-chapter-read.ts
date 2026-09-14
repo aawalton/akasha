@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0072Chapter71OfPotionsPawS
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0072-chapter-71-of-potions-paw-speed-and-shadow",
   title: "Chapter 71: Of Potions, Paw-Speed, and Shadow Tactics",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 72,
   ownLength: 2058,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theNewWorld0219260ABloodyCompromise = {
   type: "story-chapter-read",
   slug: "the-new-world-0219-260-a-bloody-compromise",
   title: "260 A Bloody Compromise",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 219,
   ownLength: 2385,
   unit: "unit/words",

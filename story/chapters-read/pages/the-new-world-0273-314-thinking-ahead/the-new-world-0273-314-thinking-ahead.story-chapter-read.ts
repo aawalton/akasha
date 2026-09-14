@@ -5,7 +5,7 @@ export const theNewWorld0273314ThinkingAhead = {
   type: "story-chapter-read",
   slug: "the-new-world-0273-314-thinking-ahead",
   title: "314 Thinking Ahead",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 273,
   ownLength: 2680,
   unit: "unit/words",

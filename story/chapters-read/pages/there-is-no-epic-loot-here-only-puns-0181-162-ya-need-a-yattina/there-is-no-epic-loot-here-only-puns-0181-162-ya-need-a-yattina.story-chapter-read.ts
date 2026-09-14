@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0181162YaNeedAYattina = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0181-162-ya-need-a-yattina",
   title: "162: Ya need a Yattina",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 181,
   ownLength: 3961,
   unit: "unit/words",

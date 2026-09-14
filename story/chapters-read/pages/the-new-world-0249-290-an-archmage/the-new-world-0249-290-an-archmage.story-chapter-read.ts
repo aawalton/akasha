@@ -5,7 +5,7 @@ export const theNewWorld0249290AnArchmage = {
   type: "story-chapter-read",
   slug: "the-new-world-0249-290-an-archmage",
   title: "290 An Archmage",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 249,
   ownLength: 3114,
   unit: "unit/words",

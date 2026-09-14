@@ -5,7 +5,7 @@ export const theNewWorld0133174ComingTogether = {
   type: "story-chapter-read",
   slug: "the-new-world-0133-174-coming-together",
   title: "174 Coming Together",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 133,
   ownLength: 3587,
   unit: "unit/words",

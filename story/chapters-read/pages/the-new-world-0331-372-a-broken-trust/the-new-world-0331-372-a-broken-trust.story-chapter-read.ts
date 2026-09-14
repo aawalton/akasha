@@ -5,7 +5,7 @@ export const theNewWorld0331372ABrokenTrust = {
   type: "story-chapter-read",
   slug: "the-new-world-0331-372-a-broken-trust",
   title: "372 A Broken Trust",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 331,
   ownLength: 2216,
   unit: "unit/words",

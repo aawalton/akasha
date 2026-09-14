@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0029Chapter29CreamAndButte
   type: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0029-chapter-29-cream-and-butter",
   title: "Chapter 29: Cream and Butter",
-  story: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  story: "story-read/underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 29,
   ownLength: 1421,
   unit: "unit/words",

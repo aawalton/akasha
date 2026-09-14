@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0045Chapter45LootLicksAndT
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0045-chapter-45-loot-licks-and-the-lower-levels",
   title: "Chapter 45: Loot, Licks, and the Lower Levels",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 45,
   ownLength: 1320,
   unit: "unit/words",

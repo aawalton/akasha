@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0091Chapter91WhichOneBleeds 
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0091-chapter-91-which-one-bleeds",
   title: "Chapter 91 – Which One Bleeds?",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 91,
   ownLength: 1943,
   unit: "unit/words",

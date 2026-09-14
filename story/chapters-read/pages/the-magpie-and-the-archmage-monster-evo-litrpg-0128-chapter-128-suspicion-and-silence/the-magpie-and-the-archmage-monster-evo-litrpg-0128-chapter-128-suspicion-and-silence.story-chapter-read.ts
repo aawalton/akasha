@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0128Chapter128SuspicionAndSi
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0128-chapter-128-suspicion-and-silence",
   title: "Chapter 128 – Suspicion and Silence",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 128,
   ownLength: 2193,
   unit: "unit/words",

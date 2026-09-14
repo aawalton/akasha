@@ -5,7 +5,7 @@ export const theNewWorld004689AnUnexpectedTrap = {
   type: "story-chapter-read",
   slug: "the-new-world-0046-89-an-unexpected-trap",
   title: "89 An Unexpected Trap",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 46,
   ownLength: 3842,
   unit: "unit/words",

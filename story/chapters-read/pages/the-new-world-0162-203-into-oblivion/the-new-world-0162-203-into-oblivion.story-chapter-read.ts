@@ -5,7 +5,7 @@ export const theNewWorld0162203IntoOblivion = {
   type: "story-chapter-read",
   slug: "the-new-world-0162-203-into-oblivion",
   title: "203 Into Oblivion",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 162,
   ownLength: 4535,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theNewWorld0424464TheDepthOfAFringeWalker = {
   type: "story-chapter-read",
   slug: "the-new-world-0424-464-the-depth-of-a-fringe-walker",
   title: "464  The Depth of a Fringe Walker",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 424,
   ownLength: 7815,
   unit: "unit/words",

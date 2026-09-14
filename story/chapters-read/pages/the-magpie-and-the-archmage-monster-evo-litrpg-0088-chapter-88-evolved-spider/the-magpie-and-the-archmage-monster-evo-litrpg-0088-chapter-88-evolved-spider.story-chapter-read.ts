@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0088Chapter88EvolvedSpider =
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0088-chapter-88-evolved-spider",
   title: "Chapter 88 – Evolved Spider",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 88,
   ownLength: 2199,
   unit: "unit/words",

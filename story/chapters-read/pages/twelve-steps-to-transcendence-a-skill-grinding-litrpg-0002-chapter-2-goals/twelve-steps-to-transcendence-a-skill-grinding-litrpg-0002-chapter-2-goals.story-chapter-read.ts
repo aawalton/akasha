@@ -5,7 +5,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0002Chapter2Goals = {
   type: "story-chapter-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0002-chapter-2-goals",
   title: "Chapter 2: Goals",
-  story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
+  story: "story-read/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 2,
   ownLength: 2131,
   unit: "unit/words",

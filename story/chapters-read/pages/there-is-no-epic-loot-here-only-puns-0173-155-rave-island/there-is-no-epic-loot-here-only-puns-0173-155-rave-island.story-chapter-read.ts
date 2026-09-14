@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0173155RaveIsland = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0173-155-rave-island",
   title: "155: Rave Island",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 173,
   ownLength: 3542,
   unit: "unit/words",

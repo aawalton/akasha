@@ -5,7 +5,7 @@ export const theNewWorld0179220LayingOutOptions = {
   type: "story-chapter-read",
   slug: "the-new-world-0179-220-laying-out-options",
   title: "220 Laying Out Options",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 179,
   ownLength: 5120,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theNewWorld0203244ToTheForefront = {
   type: "story-chapter-read",
   slug: "the-new-world-0203-244-to-the-forefront",
   title: "244 To the Forefront",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 203,
   ownLength: 3361,
   unit: "unit/words",

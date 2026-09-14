@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0123Chapter122OfTrappedDan
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0123-chapter-122-of-trapped-dangers-and-buried",
   title: "Chapter 122: Of Trapped Dangers and Buried Threats",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 123,
   ownLength: 2667,
   unit: "unit/words",

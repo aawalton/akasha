@@ -5,7 +5,7 @@ export const theNewWorld0114155Hiding = {
   type: "story-chapter-read",
   slug: "the-new-world-0114-155-hiding",
   title: "155 Hiding",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 114,
   ownLength: 3783,
   unit: "unit/words",

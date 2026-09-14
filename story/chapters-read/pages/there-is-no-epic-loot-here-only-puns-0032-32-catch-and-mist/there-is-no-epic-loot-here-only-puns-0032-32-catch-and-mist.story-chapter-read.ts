@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns003232CatchAndMist = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0032-32-catch-and-mist",
   title: "32: Catch and Mist",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 32,
   ownLength: 3663,
   unit: "unit/words",

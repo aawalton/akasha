@@ -5,7 +5,7 @@ export const theNewWorld0058100AnUnstoppableForce = {
   type: "story-chapter-read",
   slug: "the-new-world-0058-100-an-unstoppable-force",
   title: "100 An Unstoppable Force",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 58,
   ownLength: 2122,
   unit: "unit/words",

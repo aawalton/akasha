@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0024Chapter24LittleHeroes = 
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0024-chapter-24-little-heroes",
   title: "Chapter 24 – Little Heroes",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 24,
   ownLength: 2150,
   unit: "unit/words",

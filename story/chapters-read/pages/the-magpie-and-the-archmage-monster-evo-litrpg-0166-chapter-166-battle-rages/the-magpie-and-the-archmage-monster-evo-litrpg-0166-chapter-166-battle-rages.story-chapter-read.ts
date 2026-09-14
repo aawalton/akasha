@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0166Chapter166BattleRages = 
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0166-chapter-166-battle-rages",
   title: "Chapter 166 – Battle Rages",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 166,
   ownLength: 1989,
   unit: "unit/words",

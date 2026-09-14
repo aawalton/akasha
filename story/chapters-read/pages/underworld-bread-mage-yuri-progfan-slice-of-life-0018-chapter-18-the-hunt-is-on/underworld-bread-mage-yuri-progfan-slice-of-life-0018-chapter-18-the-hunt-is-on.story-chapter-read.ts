@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0018Chapter18TheHuntIsOn =
   type: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0018-chapter-18-the-hunt-is-on",
   title: "Chapter 18: The Hunt is On",
-  story: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  story: "story-read/underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 18,
   ownLength: 1667,
   unit: "unit/words",

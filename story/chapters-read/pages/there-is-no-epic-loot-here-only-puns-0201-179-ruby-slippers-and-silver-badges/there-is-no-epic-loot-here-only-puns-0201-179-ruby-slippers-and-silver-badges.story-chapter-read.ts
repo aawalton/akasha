@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0201179RubySlippersAndSilverBadges = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0201-179-ruby-slippers-and-silver-badges",
   title: "179: Ruby Slippers and Silver Badges",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 201,
   ownLength: 3251,
   unit: "unit/words",

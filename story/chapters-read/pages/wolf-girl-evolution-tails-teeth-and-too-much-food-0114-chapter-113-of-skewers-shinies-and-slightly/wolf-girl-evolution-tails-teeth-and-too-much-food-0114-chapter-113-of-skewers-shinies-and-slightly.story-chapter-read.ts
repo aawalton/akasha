@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0114Chapter113OfSkewersShi
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0114-chapter-113-of-skewers-shinies-and-slightly",
   title: "Chapter 113: Of Skewers, Shinies, and Slightly Too Much Meat",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 114,
   ownLength: 2543,
   unit: "unit/words",

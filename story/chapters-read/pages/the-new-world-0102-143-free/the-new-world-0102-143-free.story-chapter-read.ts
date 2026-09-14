@@ -5,7 +5,7 @@ export const theNewWorld0102143Free = {
   type: "story-chapter-read",
   slug: "the-new-world-0102-143-free",
   title: "143 Free",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 102,
   ownLength: 4658,
   unit: "unit/words",

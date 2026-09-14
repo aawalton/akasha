@@ -5,7 +5,7 @@ export const theNewWorld001760BloodArts = {
   type: "story-chapter-read",
   slug: "the-new-world-0017-60-blood-arts",
   title: "60 Blood Arts",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 17,
   ownLength: 2372,
   unit: "unit/words",

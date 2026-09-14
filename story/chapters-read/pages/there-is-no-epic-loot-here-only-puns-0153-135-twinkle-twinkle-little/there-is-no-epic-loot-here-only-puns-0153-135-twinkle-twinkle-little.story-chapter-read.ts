@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0153135TwinkleTwinkleLittle = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0153-135-twinkle-twinkle-little",
   title: "135: Twinkle Twinkle Little...",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 153,
   ownLength: 3689,
   unit: "unit/words",

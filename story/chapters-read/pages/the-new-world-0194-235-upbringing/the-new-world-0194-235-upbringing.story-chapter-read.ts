@@ -5,7 +5,7 @@ export const theNewWorld0194235Upbringing = {
   type: "story-chapter-read",
   slug: "the-new-world-0194-235-upbringing",
   title: "235 Upbringing",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 194,
   ownLength: 5743,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0258235Primd = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0258-235-primd",
   title: "235: Prim'd",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 258,
   ownLength: 3086,
   unit: "unit/words",

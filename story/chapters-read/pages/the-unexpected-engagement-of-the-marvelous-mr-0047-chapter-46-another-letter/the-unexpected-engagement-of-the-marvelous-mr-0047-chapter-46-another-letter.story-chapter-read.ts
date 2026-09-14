@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0047Chapter46AnotherLetter =
   type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0047-chapter-46-another-letter",
   title: "Chapter 46 - Another Letter",
-  story: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 47,
   ownLength: 466,
   unit: "unit/words",

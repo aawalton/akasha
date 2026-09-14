@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0080Chapter79OfProperHuman
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0080-chapter-79-of-proper-humans-better-luna-and",
   title: "Chapter 79: Of Proper Humans, Better Luna, and Shaky Legs",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 80,
   ownLength: 2019,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0018Chapter17TheNewestWaiter
   type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0018-chapter-17-the-newest-waiter",
   title: "Chapter 17 - The Newest Waiter",
-  story: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 18,
   ownLength: 2604,
   unit: "unit/words",

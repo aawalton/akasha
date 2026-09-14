@@ -5,7 +5,7 @@ export const theNewWorld001356GuardiansOfYawm = {
   type: "story-chapter-read",
   slug: "the-new-world-0013-56-guardians-of-yawm",
   title: "56 Guardians of Yawm",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 13,
   ownLength: 3720,
   unit: "unit/words",

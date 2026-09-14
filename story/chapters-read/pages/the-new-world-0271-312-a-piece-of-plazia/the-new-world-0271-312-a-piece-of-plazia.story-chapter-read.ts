@@ -5,7 +5,7 @@ export const theNewWorld0271312APieceOfPlazia = {
   type: "story-chapter-read",
   slug: "the-new-world-0271-312-a-piece-of-plazia",
   title: "312 A Piece of Plazia",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 271,
   ownLength: 5946,
   unit: "unit/words",

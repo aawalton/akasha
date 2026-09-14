@@ -5,7 +5,7 @@ export const theNewWorld0207248AnImperialOverture = {
   type: "story-chapter-read",
   slug: "the-new-world-0207-248-an-imperial-overture",
   title: "248 An Imperial Overture",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 207,
   ownLength: 4495,
   unit: "unit/words",

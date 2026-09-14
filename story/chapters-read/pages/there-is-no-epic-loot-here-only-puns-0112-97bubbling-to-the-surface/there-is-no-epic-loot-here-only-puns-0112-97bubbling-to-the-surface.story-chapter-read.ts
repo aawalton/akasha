@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns011297bubblingToTheSurface = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0112-97bubbling-to-the-surface",
   title: "97:Bubbling to the Surface",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 112,
   ownLength: 3248,
   unit: "unit/words",

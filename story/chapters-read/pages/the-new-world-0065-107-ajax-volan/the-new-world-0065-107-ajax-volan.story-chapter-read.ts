@@ -5,7 +5,7 @@ export const theNewWorld0065107AjaxVolan = {
   type: "story-chapter-read",
   slug: "the-new-world-0065-107-ajax-volan",
   title: "107 Ajax Volan",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 65,
   ownLength: 4153,
   unit: "unit/words",

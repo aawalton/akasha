@@ -5,7 +5,7 @@ export const theNewWorld0234275Infinite = {
   type: "story-chapter-read",
   slug: "the-new-world-0234-275-infinite",
   title: "275 Infinite",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 234,
   ownLength: 10118,
   unit: "unit/words",

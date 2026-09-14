@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0057Chapter57OfMissingPack
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0057-chapter-57-of-missing-pack-and-forbidden",
   title: "Chapter 57: Of Missing Pack and Forbidden Snacks",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 57,
   ownLength: 1700,
   unit: "unit/words",

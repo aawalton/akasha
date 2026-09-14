@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns009684ForWhomTheDungeonTrolls = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0096-84-for-whom-the-dungeon-trolls",
   title: "84: For Whom the Dungeon Trolls",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 96,
   ownLength: 5050,
   unit: "unit/words",

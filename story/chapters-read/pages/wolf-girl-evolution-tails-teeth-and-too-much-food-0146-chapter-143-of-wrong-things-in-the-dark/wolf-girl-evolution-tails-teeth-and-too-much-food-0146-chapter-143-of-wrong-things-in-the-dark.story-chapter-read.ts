@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0146Chapter143OfWrongThing
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0146-chapter-143-of-wrong-things-in-the-dark",
   title: "Chapter 143: Of Wrong Things in the Dark",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 146,
   ownLength: 2395,
   unit: "unit/words",

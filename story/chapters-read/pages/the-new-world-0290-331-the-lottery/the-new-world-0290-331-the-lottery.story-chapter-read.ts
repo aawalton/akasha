@@ -5,7 +5,7 @@ export const theNewWorld0290331TheLottery = {
   type: "story-chapter-read",
   slug: "the-new-world-0290-331-the-lottery",
   title: "331 The Lottery",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 290,
   ownLength: 3327,
   unit: "unit/words",

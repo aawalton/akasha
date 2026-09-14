@@ -5,7 +5,7 @@ export const theNewWorld0375415ADarkFantasy = {
   type: "story-chapter-read",
   slug: "the-new-world-0375-415-a-dark-fantasy",
   title: "415 A Dark Fantasy",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 375,
   ownLength: 4954,
   unit: "unit/words",

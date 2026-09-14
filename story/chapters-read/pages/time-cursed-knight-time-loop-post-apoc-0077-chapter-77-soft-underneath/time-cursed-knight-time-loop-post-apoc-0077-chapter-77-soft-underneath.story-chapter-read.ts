@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0077Chapter77SoftUnderneath = {
   type: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0077-chapter-77-soft-underneath",
   title: "Chapter 77: Soft Underneath",
-  story: "time-cursed-knight-time-loop-post-apoc",
+  story: "story-read/time-cursed-knight-time-loop-post-apoc",
   position: 77,
   ownLength: 2432,
   unit: "unit/words",

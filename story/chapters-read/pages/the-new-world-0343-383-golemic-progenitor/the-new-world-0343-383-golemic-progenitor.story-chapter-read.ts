@@ -5,7 +5,7 @@ export const theNewWorld0343383GolemicProgenitor = {
   type: "story-chapter-read",
   slug: "the-new-world-0343-383-golemic-progenitor",
   title: "383 Golemic Progenitor",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 343,
   ownLength: 4566,
   unit: "unit/words",

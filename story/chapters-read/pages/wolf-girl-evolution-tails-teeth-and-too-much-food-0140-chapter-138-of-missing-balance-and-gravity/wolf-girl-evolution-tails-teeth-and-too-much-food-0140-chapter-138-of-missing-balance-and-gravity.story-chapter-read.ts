@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0140Chapter138OfMissingBal
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0140-chapter-138-of-missing-balance-and-gravity",
   title: "Chapter 138: Of Missing Balance and Gravity Suggestions",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 140,
   ownLength: 2658,
   unit: "unit/words",

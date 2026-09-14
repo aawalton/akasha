@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0043Chapter42TheFavor = {
   type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0043-chapter-42-the-favor",
   title: "Chapter 42 - The Favor",
-  story: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 43,
   ownLength: 3637,
   unit: "unit/words",

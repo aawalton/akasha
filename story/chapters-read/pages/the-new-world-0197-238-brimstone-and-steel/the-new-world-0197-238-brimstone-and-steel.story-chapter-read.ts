@@ -5,7 +5,7 @@ export const theNewWorld0197238BrimstoneAndSteel = {
   type: "story-chapter-read",
   slug: "the-new-world-0197-238-brimstone-and-steel",
   title: "238 Brimstone and Steel",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 197,
   ownLength: 2985,
   unit: "unit/words",

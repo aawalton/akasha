@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0011Chapter10TheAftermath = 
   type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0011-chapter-10-the-aftermath",
   title: "Chapter 10 - The Aftermath",
-  story: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 11,
   ownLength: 3143,
   unit: "unit/words",

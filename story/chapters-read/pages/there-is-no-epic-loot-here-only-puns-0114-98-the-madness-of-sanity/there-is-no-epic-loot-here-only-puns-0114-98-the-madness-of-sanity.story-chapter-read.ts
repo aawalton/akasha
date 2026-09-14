@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns011498TheMadnessOfSanity = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0114-98-the-madness-of-sanity",
   title: "98: The Madness of Sanity",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 114,
   ownLength: 3836,
   unit: "unit/words",

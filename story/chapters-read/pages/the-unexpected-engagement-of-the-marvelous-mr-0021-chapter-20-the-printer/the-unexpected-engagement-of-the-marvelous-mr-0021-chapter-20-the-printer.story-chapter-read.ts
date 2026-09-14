@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0021Chapter20ThePrinter = {
   type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0021-chapter-20-the-printer",
   title: "Chapter 20 - The Printer",
-  story: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 21,
   ownLength: 2180,
   unit: "unit/words",

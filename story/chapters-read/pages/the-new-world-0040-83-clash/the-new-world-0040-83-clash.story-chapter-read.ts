@@ -5,7 +5,7 @@ export const theNewWorld004083Clash = {
   type: "story-chapter-read",
   slug: "the-new-world-0040-83-clash",
   title: "83 Clash",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 40,
   ownLength: 1922,
   unit: "unit/words",

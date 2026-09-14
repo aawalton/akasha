@@ -5,7 +5,7 @@ export const theNewWorld0379419TheMadGods = {
   type: "story-chapter-read",
   slug: "the-new-world-0379-419-the-mad-gods",
   title: "419 The Mad Gods",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 379,
   ownLength: 4339,
   unit: "unit/words",

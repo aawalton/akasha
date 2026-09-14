@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0206184HellIsOtherPuns = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0206-184-hell-is-other-puns",
   title: "184: Hell is Other Puns",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 206,
   ownLength: 3969,
   unit: "unit/words",

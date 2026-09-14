@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0012Chapter85AMonthInStorven 
   type: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0012-chapter-85-a-month-in-storven",
   title: "Chapter 85 - A Month In Storven",
-  story: "the-stubborn-skill-grinder-in-a-time-loop-book",
+  story: "story-read/the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 12,
   ownLength: 21869,
   unit: "unit/words",

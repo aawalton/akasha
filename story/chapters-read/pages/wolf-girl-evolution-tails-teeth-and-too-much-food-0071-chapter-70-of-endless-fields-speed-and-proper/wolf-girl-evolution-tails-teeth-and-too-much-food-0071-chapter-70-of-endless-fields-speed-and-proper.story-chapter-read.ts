@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0071Chapter70OfEndlessFiel
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0071-chapter-70-of-endless-fields-speed-and-proper",
   title: "Chapter 70: Of Endless Fields, Speed, and Proper Packs",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 71,
   ownLength: 1509,
   unit: "unit/words",

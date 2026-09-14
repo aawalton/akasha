@@ -5,7 +5,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0001001ItWonTBeTheEndOfT
   type: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0001-001-it-won-t-be-the-end-of-the-world",
   title: "001 - It Won't Be The End of the World",
-  story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
+  story: "story-read/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 1,
   ownLength: 2072,
   unit: "unit/words",

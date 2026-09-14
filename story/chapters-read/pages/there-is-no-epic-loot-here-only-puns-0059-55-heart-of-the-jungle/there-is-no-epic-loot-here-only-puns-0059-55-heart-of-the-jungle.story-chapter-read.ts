@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns005955HeartOfTheJungle = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0059-55-heart-of-the-jungle",
   title: "55: Heart of the Jungle",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 59,
   ownLength: 3170,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theNewWorld0109150Giess = {
   type: "story-chapter-read",
   slug: "the-new-world-0109-150-giess",
   title: "150 Giess",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 109,
   ownLength: 3891,
   unit: "unit/words",

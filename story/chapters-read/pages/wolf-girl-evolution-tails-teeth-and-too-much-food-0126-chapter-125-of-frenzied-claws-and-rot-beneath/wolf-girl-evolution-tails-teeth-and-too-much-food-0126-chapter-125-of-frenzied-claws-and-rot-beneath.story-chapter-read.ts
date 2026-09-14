@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0126Chapter125OfFrenziedCl
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0126-chapter-125-of-frenzied-claws-and-rot-beneath",
   title: "Chapter 125: Of Frenzied Claws and Rot Beneath",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 126,
   ownLength: 3393,
   unit: "unit/words",

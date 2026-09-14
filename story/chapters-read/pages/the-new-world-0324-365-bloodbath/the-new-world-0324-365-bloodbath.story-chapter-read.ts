@@ -5,7 +5,7 @@ export const theNewWorld0324365Bloodbath = {
   type: "story-chapter-read",
   slug: "the-new-world-0324-365-bloodbath",
   title: "365 Bloodbath",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 324,
   ownLength: 4703,
   unit: "unit/words",

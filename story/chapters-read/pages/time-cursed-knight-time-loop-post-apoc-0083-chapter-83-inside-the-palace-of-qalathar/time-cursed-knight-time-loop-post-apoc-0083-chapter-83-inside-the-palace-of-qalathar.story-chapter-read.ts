@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0083Chapter83InsideThePalaceOfQalat
   type: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0083-chapter-83-inside-the-palace-of-qalathar",
   title: "Chapter 83: Inside the Palace of Qalathar",
-  story: "time-cursed-knight-time-loop-post-apoc",
+  story: "story-read/time-cursed-knight-time-loop-post-apoc",
   position: 83,
   ownLength: 2471,
   unit: "unit/words",

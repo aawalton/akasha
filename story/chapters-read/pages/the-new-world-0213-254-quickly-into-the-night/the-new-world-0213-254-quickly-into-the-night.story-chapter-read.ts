@@ -5,7 +5,7 @@ export const theNewWorld0213254QuicklyIntoTheNight = {
   type: "story-chapter-read",
   slug: "the-new-world-0213-254-quickly-into-the-night",
   title: "254 Quickly Into the Night",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 213,
   ownLength: 3778,
   unit: "unit/words",

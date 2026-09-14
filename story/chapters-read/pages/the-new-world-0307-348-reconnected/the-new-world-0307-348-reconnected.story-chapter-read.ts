@@ -5,7 +5,7 @@ export const theNewWorld0307348Reconnected = {
   type: "story-chapter-read",
   slug: "the-new-world-0307-348-reconnected",
   title: "348 Reconnected",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 307,
   ownLength: 4601,
   unit: "unit/words",

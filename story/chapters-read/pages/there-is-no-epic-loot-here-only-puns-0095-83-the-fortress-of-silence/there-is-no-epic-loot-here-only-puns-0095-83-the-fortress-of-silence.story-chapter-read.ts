@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns009583TheFortressOfSilence = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0095-83-the-fortress-of-silence",
   title: "83: The Fortress of Silence",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 95,
   ownLength: 3588,
   unit: "unit/words",

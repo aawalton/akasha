@@ -5,7 +5,7 @@ export const theNewWorld0327368LeviathanSPull = {
   type: "story-chapter-read",
   slug: "the-new-world-0327-368-leviathan-s-pull",
   title: "368 Leviathan's Pull",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 327,
   ownLength: 2405,
   unit: "unit/words",

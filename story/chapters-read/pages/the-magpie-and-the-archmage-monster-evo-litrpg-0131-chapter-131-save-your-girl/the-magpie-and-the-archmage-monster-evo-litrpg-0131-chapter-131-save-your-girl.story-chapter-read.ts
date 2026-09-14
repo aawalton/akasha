@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0131Chapter131SaveYourGirl =
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0131-chapter-131-save-your-girl",
   title: "Chapter 131 – Save Your Girl",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 131,
   ownLength: 2080,
   unit: "unit/words",

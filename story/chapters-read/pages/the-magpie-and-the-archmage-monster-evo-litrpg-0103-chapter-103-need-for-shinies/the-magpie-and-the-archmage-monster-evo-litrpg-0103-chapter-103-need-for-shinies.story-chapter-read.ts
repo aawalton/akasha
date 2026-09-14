@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0103Chapter103NeedForShinies
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0103-chapter-103-need-for-shinies",
   title: "Chapter 103 – Need For Shinies",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 103,
   ownLength: 2080,
   unit: "unit/words",

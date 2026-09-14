@@ -5,7 +5,7 @@ export const theNewWorld0403443FindingAPath = {
   type: "story-chapter-read",
   slug: "the-new-world-0403-443-finding-a-path",
   title: "443 Finding a Path",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 403,
   ownLength: 7697,
   unit: "unit/words",

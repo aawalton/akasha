@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0023Chapter22JonesComesWithA
   type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0023-chapter-22-jones-comes-with-a-message",
   title: "Chapter 22 - Jones Comes with a Message",
-  story: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 23,
   ownLength: 2442,
   unit: "unit/words",

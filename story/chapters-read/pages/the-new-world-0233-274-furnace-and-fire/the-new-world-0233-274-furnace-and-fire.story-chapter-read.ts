@@ -5,7 +5,7 @@ export const theNewWorld0233274FurnaceAndFire = {
   type: "story-chapter-read",
   slug: "the-new-world-0233-274-furnace-and-fire",
   title: "274 Furnace and Fire",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 233,
   ownLength: 10384,
   unit: "unit/words",

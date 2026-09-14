@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0015Chapter15Hexenzeit = {
   type: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0015-chapter-15-hexenzeit",
   title: "Chapter 15: Hexenzeit",
-  story: "time-cursed-knight-time-loop-post-apoc",
+  story: "story-read/time-cursed-knight-time-loop-post-apoc",
   position: 15,
   ownLength: 1637,
   unit: "unit/words",

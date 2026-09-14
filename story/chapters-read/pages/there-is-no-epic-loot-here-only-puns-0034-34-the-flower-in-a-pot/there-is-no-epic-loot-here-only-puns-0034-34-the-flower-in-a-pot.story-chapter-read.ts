@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns003434TheFlowerInAPot = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0034-34-the-flower-in-a-pot",
   title: "34: The Flower in a Pot",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 34,
   ownLength: 3046,
   unit: "unit/words",

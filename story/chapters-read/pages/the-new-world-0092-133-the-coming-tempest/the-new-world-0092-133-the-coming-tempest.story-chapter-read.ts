@@ -5,7 +5,7 @@ export const theNewWorld0092133TheComingTempest = {
   type: "story-chapter-read",
   slug: "the-new-world-0092-133-the-coming-tempest",
   title: "133 The Coming Tempest",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 92,
   ownLength: 1383,
   unit: "unit/words",

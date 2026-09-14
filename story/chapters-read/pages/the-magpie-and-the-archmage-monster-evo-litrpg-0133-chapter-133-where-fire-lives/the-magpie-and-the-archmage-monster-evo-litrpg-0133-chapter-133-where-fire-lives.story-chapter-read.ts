@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0133Chapter133WhereFireLives
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0133-chapter-133-where-fire-lives",
   title: "Chapter 133 – Where Fire Lives",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 133,
   ownLength: 1934,
   unit: "unit/words",

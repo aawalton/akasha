@@ -5,7 +5,7 @@ export const theNewWorld0316357Infiltration = {
   type: "story-chapter-read",
   slug: "the-new-world-0316-357-infiltration",
   title: "357 Infiltration",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 316,
   ownLength: 4128,
   unit: "unit/words",

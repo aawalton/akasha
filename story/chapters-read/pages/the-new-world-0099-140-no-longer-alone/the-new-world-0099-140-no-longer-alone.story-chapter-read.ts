@@ -5,7 +5,7 @@ export const theNewWorld0099140NoLongerAlone = {
   type: "story-chapter-read",
   slug: "the-new-world-0099-140-no-longer-alone",
   title: "140 No Longer Alone",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 99,
   ownLength: 1655,
   unit: "unit/words",

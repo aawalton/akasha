@@ -5,7 +5,7 @@ export const theNewWorld0284325LegaciesAndLineage = {
   type: "story-chapter-read",
   slug: "the-new-world-0284-325-legacies-and-lineage",
   title: "325 Legacies and Lineage",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 284,
   ownLength: 3737,
   unit: "unit/words",

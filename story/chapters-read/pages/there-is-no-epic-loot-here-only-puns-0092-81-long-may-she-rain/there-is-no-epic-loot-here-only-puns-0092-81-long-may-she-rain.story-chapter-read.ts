@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns009281LongMaySheRain = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0092-81-long-may-she-rain",
   title: "81: Long may she rain",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 92,
   ownLength: 3235,
   unit: "unit/words",

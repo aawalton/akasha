@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0035Chapter34HaleyAndFitzmon
   type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0035-chapter-34-haley-and-fitzmon",
   title: "Chapter 34 - Haley and Fitzmon",
-  story: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 35,
   ownLength: 3390,
   unit: "unit/words",

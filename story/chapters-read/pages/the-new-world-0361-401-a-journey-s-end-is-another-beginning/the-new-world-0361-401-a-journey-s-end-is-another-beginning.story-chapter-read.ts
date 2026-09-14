@@ -5,7 +5,7 @@ export const theNewWorld0361401AJourneySEndIsAnotherBeginning = {
   type: "story-chapter-read",
   slug: "the-new-world-0361-401-a-journey-s-end-is-another-beginning",
   title: "401 A Journey's End Is Another Beginning",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 361,
   ownLength: 4664,
   unit: "unit/words",

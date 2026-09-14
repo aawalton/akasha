@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0219197ASlipperySlope = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0219-197-a-slippery-slope",
   title: "197: A Slippery Slope",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 219,
   ownLength: 3270,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theNewWorld0243284AmassingMany = {
   type: "story-chapter-read",
   slug: "the-new-world-0243-284-amassing-many",
   title: "284 Amassing Many",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 243,
   ownLength: 5116,
   unit: "unit/words",

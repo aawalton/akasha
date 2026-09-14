@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0139Chapter139YouveGotToBeKi
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0139-chapter-139-youve-got-to-be-kidding-me",
   title: "Chapter 139 – You've Got to be Kidding Me",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 139,
   ownLength: 2021,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0028Chapter27WhyDidYouRefuse
   type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0028-chapter-27-why-did-you-refuse-them",
   title: "Chapter 27 - Why Did You Refuse Them",
-  story: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 28,
   ownLength: 3148,
   unit: "unit/words",

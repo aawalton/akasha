@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0039Chapter38RaphaelSStory =
   type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0039-chapter-38-raphael-s-story",
   title: "Chapter 38 - Raphael's Story",
-  story: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 39,
   ownLength: 2776,
   unit: "unit/words",

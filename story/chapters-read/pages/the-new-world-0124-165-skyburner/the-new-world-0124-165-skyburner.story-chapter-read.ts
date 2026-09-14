@@ -5,7 +5,7 @@ export const theNewWorld0124165Skyburner = {
   type: "story-chapter-read",
   slug: "the-new-world-0124-165-skyburner",
   title: "165 Skyburner",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 124,
   ownLength: 2715,
   unit: "unit/words",

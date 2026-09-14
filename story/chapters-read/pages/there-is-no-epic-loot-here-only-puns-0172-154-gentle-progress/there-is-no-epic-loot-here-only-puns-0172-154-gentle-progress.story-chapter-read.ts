@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0172154GentleProgress = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0172-154-gentle-progress",
   title: "154: Gentle Progress",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 172,
   ownLength: 3473,
   unit: "unit/words",

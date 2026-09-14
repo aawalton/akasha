@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0065Chapter65BlessedIncantat
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0065-chapter-65-blessed-incantation",
   title: "Chapter 65 – Blessed Incantation",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 65,
   ownLength: 2075,
   unit: "unit/words",

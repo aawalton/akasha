@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0096Chapter96TheElegyOfOurSociety =
   type: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0096-chapter-96-the-elegy-of-our-society",
   title: "Chapter 96: The Elegy of Our Society",
-  story: "time-cursed-knight-time-loop-post-apoc",
+  story: "story-read/time-cursed-knight-time-loop-post-apoc",
   position: 96,
   ownLength: 2420,
   unit: "unit/words",

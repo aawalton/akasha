@@ -5,7 +5,7 @@ export const theNewWorld000952TrueIntentions = {
   type: "story-chapter-read",
   slug: "the-new-world-0009-52-true-intentions",
   title: "52 True Intentions",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 9,
   ownLength: 4299,
   unit: "unit/words",

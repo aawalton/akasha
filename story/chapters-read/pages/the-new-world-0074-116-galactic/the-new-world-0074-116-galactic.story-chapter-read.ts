@@ -5,7 +5,7 @@ export const theNewWorld0074116Galactic = {
   type: "story-chapter-read",
   slug: "the-new-world-0074-116-galactic",
   title: "116 Galactic",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 74,
   ownLength: 2421,
   unit: "unit/words",

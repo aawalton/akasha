@@ -5,7 +5,7 @@ export const theNewWorld0335376AChatAfterTimeSEnd = {
   type: "story-chapter-read",
   slug: "the-new-world-0335-376-a-chat-after-time-s-end",
   title: "376 A Chat After Time's End",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 335,
   ownLength: 2321,
   unit: "unit/words",

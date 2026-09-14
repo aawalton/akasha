@@ -5,7 +5,7 @@ export const theNewWorld001558WhatYouBelieve = {
   type: "story-chapter-read",
   slug: "the-new-world-0015-58-what-you-believe",
   title: "58 What You Believe",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 15,
   ownLength: 3108,
   unit: "unit/words",

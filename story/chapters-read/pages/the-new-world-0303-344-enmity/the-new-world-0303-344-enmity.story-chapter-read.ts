@@ -5,7 +5,7 @@ export const theNewWorld0303344Enmity = {
   type: "story-chapter-read",
   slug: "the-new-world-0303-344-enmity",
   title: "344 Enmity",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 303,
   ownLength: 1225,
   unit: "unit/words",

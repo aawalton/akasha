@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0247224Viral = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0247-224-viral",
   title: "224: Viral",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 247,
   ownLength: 3345,
   unit: "unit/words",

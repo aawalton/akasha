@@ -5,7 +5,7 @@ export const theNewWorld0061103ToPlan = {
   type: "story-chapter-read",
   slug: "the-new-world-0061-103-to-plan",
   title: "103 To Plan",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 61,
   ownLength: 4994,
   unit: "unit/words",

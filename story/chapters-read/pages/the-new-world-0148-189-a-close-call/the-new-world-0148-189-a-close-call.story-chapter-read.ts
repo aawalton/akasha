@@ -5,7 +5,7 @@ export const theNewWorld0148189ACloseCall = {
   type: "story-chapter-read",
   slug: "the-new-world-0148-189-a-close-call",
   title: "189 A Close Call",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 148,
   ownLength: 3764,
   unit: "unit/words",

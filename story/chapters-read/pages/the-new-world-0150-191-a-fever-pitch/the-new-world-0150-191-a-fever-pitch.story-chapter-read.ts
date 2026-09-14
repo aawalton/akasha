@@ -5,7 +5,7 @@ export const theNewWorld0150191AFeverPitch = {
   type: "story-chapter-read",
   slug: "the-new-world-0150-191-a-fever-pitch",
   title: "191 A Fever Pitch",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 150,
   ownLength: 5257,
   unit: "unit/words",

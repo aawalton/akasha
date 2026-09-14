@@ -5,7 +5,7 @@ export const theNewWorld0084125Origin = {
   type: "story-chapter-read",
   slug: "the-new-world-0084-125-origin",
   title: "125 Origin",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 84,
   ownLength: 3350,
   unit: "unit/words",

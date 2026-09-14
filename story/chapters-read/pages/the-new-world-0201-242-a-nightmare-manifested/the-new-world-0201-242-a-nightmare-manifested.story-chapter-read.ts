@@ -5,7 +5,7 @@ export const theNewWorld0201242ANightmareManifested = {
   type: "story-chapter-read",
   slug: "the-new-world-0201-242-a-nightmare-manifested",
   title: "242 A Nightmare, Manifested",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 201,
   ownLength: 3294,
   unit: "unit/words",

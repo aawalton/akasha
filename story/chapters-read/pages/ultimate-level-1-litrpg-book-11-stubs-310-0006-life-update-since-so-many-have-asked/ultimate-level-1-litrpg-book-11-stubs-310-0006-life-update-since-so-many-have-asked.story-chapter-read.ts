@@ -5,7 +5,7 @@ export const ultimateLevel1LitrpgBook11Stubs3100006LifeUpdateSinceSoManyHaveAske
   type: "story-chapter-read",
   slug: "ultimate-level-1-litrpg-book-11-stubs-310-0006-life-update-since-so-many-have-asked",
   title: "Life update - Since so many have asked",
-  story: "ultimate-level-1-litrpg-book-11-stubs-310",
+  story: "story-read/ultimate-level-1-litrpg-book-11-stubs-310",
   position: 6,
   ownLength: 366,
   unit: "unit/words",

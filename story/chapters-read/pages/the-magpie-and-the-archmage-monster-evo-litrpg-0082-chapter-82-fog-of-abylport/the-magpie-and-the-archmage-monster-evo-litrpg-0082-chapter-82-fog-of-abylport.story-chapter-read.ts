@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0082Chapter82FogOfAbylport =
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0082-chapter-82-fog-of-abylport",
   title: "Chapter 82 – Fog of Abylport",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 82,
   ownLength: 2173,
   unit: "unit/words",

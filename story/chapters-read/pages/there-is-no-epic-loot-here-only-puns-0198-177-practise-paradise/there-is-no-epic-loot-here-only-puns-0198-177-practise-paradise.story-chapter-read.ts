@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0198177PractiseParadise = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0198-177-practise-paradise",
   title: "177: Practise Paradise",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 198,
   ownLength: 3523,
   unit: "unit/words",

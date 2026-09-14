@@ -5,7 +5,7 @@ export const theNewWorld0068110YawmOfFlesh = {
   type: "story-chapter-read",
   slug: "the-new-world-0068-110-yawm-of-flesh",
   title: "110 Yawm of Flesh",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 68,
   ownLength: 6648,
   unit: "unit/words",

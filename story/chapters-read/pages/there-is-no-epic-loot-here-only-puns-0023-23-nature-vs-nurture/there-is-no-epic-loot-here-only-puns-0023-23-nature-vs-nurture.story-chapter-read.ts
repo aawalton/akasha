@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns002323NatureVsNurture = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0023-23-nature-vs-nurture",
   title: "23: Nature vs Nurture",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 23,
   ownLength: 2053,
   unit: "unit/words",

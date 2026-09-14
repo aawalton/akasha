@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns006056BirdsMushroomsAndTaxes = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0060-56-birds-mushrooms-and-taxes",
   title: "56: Birds, Mushrooms, and Taxes",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 60,
   ownLength: 3634,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0213191KarpeDiem = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0213-191-karpe-diem",
   title: "191: Karpe Diem",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 213,
   ownLength: 3430,
   unit: "unit/words",

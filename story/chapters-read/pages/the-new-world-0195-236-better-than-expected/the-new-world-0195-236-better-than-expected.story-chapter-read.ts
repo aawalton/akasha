@@ -5,7 +5,7 @@ export const theNewWorld0195236BetterThanExpected = {
   type: "story-chapter-read",
   slug: "the-new-world-0195-236-better-than-expected",
   title: "236 Better Than Expected",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 195,
   ownLength: 6996,
   unit: "unit/words",

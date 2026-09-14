@@ -5,7 +5,7 @@ export const theNewWorld001659Creation = {
   type: "story-chapter-read",
   slug: "the-new-world-0016-59-creation",
   title: "59 Creation",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 16,
   ownLength: 4956,
   unit: "unit/words",

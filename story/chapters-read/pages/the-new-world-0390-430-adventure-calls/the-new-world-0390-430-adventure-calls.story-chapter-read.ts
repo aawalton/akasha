@@ -5,7 +5,7 @@ export const theNewWorld0390430AdventureCalls = {
   type: "story-chapter-read",
   slug: "the-new-world-0390-430-adventure-calls",
   title: "430 Adventure Calls",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 390,
   ownLength: 4461,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns007668WorldWideWeb = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0076-68-world-wide-web",
   title: "68: World Wide Web",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 76,
   ownLength: 3526,
   unit: "unit/words",

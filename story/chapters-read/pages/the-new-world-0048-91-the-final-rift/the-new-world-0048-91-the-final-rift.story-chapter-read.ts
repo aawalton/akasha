@@ -5,7 +5,7 @@ export const theNewWorld004891TheFinalRift = {
   type: "story-chapter-read",
   slug: "the-new-world-0048-91-the-final-rift",
   title: "91 The Final Rift",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 48,
   ownLength: 3437,
   unit: "unit/words",

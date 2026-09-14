@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0024Chapter24LoveIsAStrong
   type: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0024-chapter-24-love-is-a-strong-word",
   title: "Chapter 24: Love is a Strong Word",
-  story: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  story: "story-read/underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 24,
   ownLength: 1419,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theNewWorld0372412ReforgingAMind = {
   type: "story-chapter-read",
   slug: "the-new-world-0372-412-reforging-a-mind",
   title: "412 Reforging a Mind",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 372,
   ownLength: 5395,
   unit: "unit/words",

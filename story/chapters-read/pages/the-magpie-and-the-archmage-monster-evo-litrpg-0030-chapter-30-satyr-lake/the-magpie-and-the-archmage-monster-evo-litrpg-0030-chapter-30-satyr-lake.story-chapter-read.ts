@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0030Chapter30SatyrLake = {
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0030-chapter-30-satyr-lake",
   title: "Chapter 30 – Satyr Lake",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 30,
   ownLength: 1985,
   unit: "unit/words",

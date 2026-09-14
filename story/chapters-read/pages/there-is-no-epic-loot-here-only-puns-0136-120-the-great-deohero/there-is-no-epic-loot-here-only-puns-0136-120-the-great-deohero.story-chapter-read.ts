@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0136120TheGreatDeohero = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0136-120-the-great-deohero",
   title: "120: The great DEO...Hero?",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 136,
   ownLength: 4503,
   unit: "unit/words",

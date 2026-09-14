@@ -5,7 +5,7 @@ export const theNewWorld0230271CosmicDestruction = {
   type: "story-chapter-read",
   slug: "the-new-world-0230-271-cosmic-destruction",
   title: "271 Cosmic Destruction",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 230,
   ownLength: 7125,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theNewWorld0386426UnweavingAPuzzle = {
   type: "story-chapter-read",
   slug: "the-new-world-0386-426-unweaving-a-puzzle",
   title: "426 Unweaving a Puzzle",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 386,
   ownLength: 5212,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theNewWorld0210251GeneralUnderstanding = {
   type: "story-chapter-read",
   slug: "the-new-world-0210-251-general-understanding",
   title: "251 General Understanding",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 210,
   ownLength: 3763,
   unit: "unit/words",

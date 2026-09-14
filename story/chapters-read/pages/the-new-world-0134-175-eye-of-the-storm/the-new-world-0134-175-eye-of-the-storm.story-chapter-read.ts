@@ -5,7 +5,7 @@ export const theNewWorld0134175EyeOfTheStorm = {
   type: "story-chapter-read",
   slug: "the-new-world-0134-175-eye-of-the-storm",
   title: "175 Eye of The Storm",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 134,
   ownLength: 2378,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theNewWorld002164FinalCallToAction = {
   type: "story-chapter-read",
   slug: "the-new-world-0021-64-final-call-to-action",
   title: "64 Final Call to Action",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 21,
   ownLength: 3283,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns008776JungleFever = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0087-76-jungle-fever",
   title: "76: Jungle Fever",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 87,
   ownLength: 3618,
   unit: "unit/words",

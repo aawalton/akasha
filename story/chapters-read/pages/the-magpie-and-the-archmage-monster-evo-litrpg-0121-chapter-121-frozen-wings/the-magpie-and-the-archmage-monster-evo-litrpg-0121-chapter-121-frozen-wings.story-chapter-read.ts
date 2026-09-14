@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0121Chapter121FrozenWings = 
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0121-chapter-121-frozen-wings",
   title: "Chapter 121 – Frozen Wings",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 121,
   ownLength: 2096,
   unit: "unit/words",

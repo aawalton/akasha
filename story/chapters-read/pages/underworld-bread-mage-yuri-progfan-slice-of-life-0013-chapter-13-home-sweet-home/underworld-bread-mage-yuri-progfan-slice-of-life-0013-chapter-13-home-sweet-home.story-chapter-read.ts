@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0013Chapter13HomeSweetHome
   type: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0013-chapter-13-home-sweet-home",
   title: "Chapter 13: Home Sweet Home",
-  story: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  story: "story-read/underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 13,
   ownLength: 1388,
   unit: "unit/words",

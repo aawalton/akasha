@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns004242TheLittleThings = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0042-42-the-little-things",
   title: "42: The Little Things",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 42,
   ownLength: 3136,
   unit: "unit/words",

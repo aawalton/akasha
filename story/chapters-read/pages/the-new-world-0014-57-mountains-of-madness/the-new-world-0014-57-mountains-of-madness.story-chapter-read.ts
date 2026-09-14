@@ -5,7 +5,7 @@ export const theNewWorld001457MountainsOfMadness = {
   type: "story-chapter-read",
   slug: "the-new-world-0014-57-mountains-of-madness",
   title: "57 Mountains of Madness",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 14,
   ownLength: 5128,
   unit: "unit/words",

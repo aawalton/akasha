@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0008Chapter7WeShallSee = {
   type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0008-chapter-7-we-shall-see",
   title: "Chapter 7 - We Shall See",
-  story: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 8,
   ownLength: 1457,
   unit: "unit/words",

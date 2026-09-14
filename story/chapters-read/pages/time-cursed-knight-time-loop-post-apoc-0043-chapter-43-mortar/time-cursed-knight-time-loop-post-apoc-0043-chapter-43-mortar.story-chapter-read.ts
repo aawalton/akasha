@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0043Chapter43Mortar = {
   type: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0043-chapter-43-mortar",
   title: "Chapter 43: Mortar",
-  story: "time-cursed-knight-time-loop-post-apoc",
+  story: "story-read/time-cursed-knight-time-loop-post-apoc",
   position: 43,
   ownLength: 3314,
   unit: "unit/words",

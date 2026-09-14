@@ -5,7 +5,7 @@ export const theNewWorld0356396ToEmbraceTheEnd = {
   type: "story-chapter-read",
   slug: "the-new-world-0356-396-to-embrace-the-end",
   title: "396 To Embrace the End",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 356,
   ownLength: 4984,
   unit: "unit/words",

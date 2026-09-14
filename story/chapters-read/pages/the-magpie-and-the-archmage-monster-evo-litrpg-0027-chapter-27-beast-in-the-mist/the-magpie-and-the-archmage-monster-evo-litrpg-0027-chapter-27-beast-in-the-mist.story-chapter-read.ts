@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0027Chapter27BeastInTheMist 
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0027-chapter-27-beast-in-the-mist",
   title: "Chapter 27 – Beast in the Mist",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 27,
   ownLength: 2083,
   unit: "unit/words",

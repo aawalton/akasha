@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0075Chapter75FrozenBirds = {
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0075-chapter-75-frozen-birds",
   title: "Chapter 75 – Frozen Birds",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 75,
   ownLength: 2063,
   unit: "unit/words",

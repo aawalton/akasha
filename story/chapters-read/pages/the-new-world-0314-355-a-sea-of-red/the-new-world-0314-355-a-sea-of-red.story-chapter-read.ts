@@ -5,7 +5,7 @@ export const theNewWorld0314355ASeaOfRed = {
   type: "story-chapter-read",
   slug: "the-new-world-0314-355-a-sea-of-red",
   title: "355 A Sea of Red",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 314,
   ownLength: 2922,
   unit: "unit/words",

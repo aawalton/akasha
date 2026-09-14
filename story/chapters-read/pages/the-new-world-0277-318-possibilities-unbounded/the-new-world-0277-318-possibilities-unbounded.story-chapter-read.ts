@@ -5,7 +5,7 @@ export const theNewWorld0277318PossibilitiesUnbounded = {
   type: "story-chapter-read",
   slug: "the-new-world-0277-318-possibilities-unbounded",
   title: "318 Possibilities Unbounded",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 277,
   ownLength: 2319,
   unit: "unit/words",

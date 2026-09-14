@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0075Chapter74OfJerkyPromis
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0075-chapter-74-of-jerky-promises-and-sandwich",
   title: "Chapter 74: Of Jerky Promises and Sandwich Crimes",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 75,
   ownLength: 2311,
   unit: "unit/words",

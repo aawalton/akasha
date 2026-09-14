@@ -5,7 +5,7 @@ export const theNewWorld0366406ToWithholdHumanity = {
   type: "story-chapter-read",
   slug: "the-new-world-0366-406-to-withhold-humanity",
   title: "406 To Withhold Humanity",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 366,
   ownLength: 2816,
   unit: "unit/words",

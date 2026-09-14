@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0003Chapter3WarehouseMassacre
   type: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0003-chapter-3-warehouse-massacre",
   title: "Chapter 3 - Warehouse Massacre",
-  story: "the-stubborn-skill-grinder-in-a-time-loop-book",
+  story: "story-read/the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 3,
   ownLength: 5920,
   unit: "unit/words",

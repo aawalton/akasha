@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0216194ItsNotAllDoomAndGloom = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0216-194-its-not-all-doom-and-gloom",
   title: "194: It's not all Doom and Gloom",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 216,
   ownLength: 3251,
   unit: "unit/words",

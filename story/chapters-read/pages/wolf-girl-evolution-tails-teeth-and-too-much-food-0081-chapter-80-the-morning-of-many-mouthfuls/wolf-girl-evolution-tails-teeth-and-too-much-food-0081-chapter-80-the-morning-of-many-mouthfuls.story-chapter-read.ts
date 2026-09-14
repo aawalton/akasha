@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0081Chapter80TheMorningOfM
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0081-chapter-80-the-morning-of-many-mouthfuls",
   title: "Chapter 80: The Morning of Many Mouthfuls",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 81,
   ownLength: 2104,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0135Chapter133OfExtremelyI
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0135-chapter-133-of-extremely-irritating-trust",
   title: "Chapter 133: Of Extremely Irritating Trust",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 135,
   ownLength: 3275,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0020Chapter20GoodNightMyDe
   type: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0020-chapter-20-good-night-my-dear",
   title: "Chapter 20: Good Night, My Dear.",
-  story: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  story: "story-read/underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 20,
   ownLength: 1518,
   unit: "unit/words",

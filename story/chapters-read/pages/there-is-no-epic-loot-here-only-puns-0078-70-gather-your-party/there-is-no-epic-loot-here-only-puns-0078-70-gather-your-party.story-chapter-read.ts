@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns007870GatherYourParty = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0078-70-gather-your-party",
   title: "70: Gather your Party",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 78,
   ownLength: 3876,
   unit: "unit/words",

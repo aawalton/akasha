@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0125Chapter125TheMagpiesWarn
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0125-chapter-125-the-magpies-warning",
   title: "Chapter 125 – The Magpie's Warning",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 125,
   ownLength: 2251,
   unit: "unit/words",

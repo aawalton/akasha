@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0057Chapter57BeetleTrial = {
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0057-chapter-57-beetle-trial",
   title: "Chapter 57 – Beetle Trial",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 57,
   ownLength: 2044,
   unit: "unit/words",

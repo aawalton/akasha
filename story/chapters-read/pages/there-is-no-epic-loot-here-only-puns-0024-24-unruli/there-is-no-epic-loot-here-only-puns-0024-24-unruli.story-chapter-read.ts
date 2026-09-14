@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns002424Unruli = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0024-24-unruli",
   title: "24: Unruli",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 24,
   ownLength: 2267,
   unit: "unit/words",

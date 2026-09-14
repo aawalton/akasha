@@ -5,7 +5,7 @@ export const theNewWorld0300341AnIsolatingInvasion = {
   type: "story-chapter-read",
   slug: "the-new-world-0300-341-an-isolating-invasion",
   title: "341 An Isolating Invasion",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 300,
   ownLength: 4099,
   unit: "unit/words",

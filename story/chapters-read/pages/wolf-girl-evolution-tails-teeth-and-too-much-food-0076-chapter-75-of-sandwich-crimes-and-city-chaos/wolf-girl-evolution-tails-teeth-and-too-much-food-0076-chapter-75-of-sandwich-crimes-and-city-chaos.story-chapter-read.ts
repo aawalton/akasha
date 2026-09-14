@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0076Chapter75OfSandwichCri
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0076-chapter-75-of-sandwich-crimes-and-city-chaos",
   title: "Chapter 75: Of Sandwich Crimes and City Chaos",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 76,
   ownLength: 2215,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theNewWorld0071113Fundamentals = {
   type: "story-chapter-read",
   slug: "the-new-world-0071-113-fundamentals",
   title: "113 Fundamentals",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 71,
   ownLength: 2962,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0039Chapter39TheImperialChronicle =
   type: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0039-chapter-39-the-imperial-chronicle",
   title: "Chapter 39: The Imperial Chronicle",
-  story: "time-cursed-knight-time-loop-post-apoc",
+  story: "story-read/time-cursed-knight-time-loop-post-apoc",
   position: 39,
   ownLength: 2926,
   unit: "unit/words",

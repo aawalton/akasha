@@ -5,7 +5,7 @@ export const theNewWorld0218259ComingToTerms = {
   type: "story-chapter-read",
   slug: "the-new-world-0218-259-coming-to-terms",
   title: "259 Coming to Terms",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 218,
   ownLength: 6170,
   unit: "unit/words",

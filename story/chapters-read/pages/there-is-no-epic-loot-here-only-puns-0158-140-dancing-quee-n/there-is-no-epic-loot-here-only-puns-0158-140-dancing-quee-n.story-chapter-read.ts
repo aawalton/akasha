@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0158140DancingQueeN = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0158-140-dancing-quee-n",
   title: "140: Dancing Quee-n",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 158,
   ownLength: 3226,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0045Chapter45TheFallOfDamien
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0045-chapter-45-the-fall-of-damien-stolte",
   title: "Chapter 45 – The Fall of Damien Stolte",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 45,
   ownLength: 2093,
   unit: "unit/words",

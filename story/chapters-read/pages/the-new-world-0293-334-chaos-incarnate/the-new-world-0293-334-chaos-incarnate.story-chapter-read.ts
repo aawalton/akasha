@@ -5,7 +5,7 @@ export const theNewWorld0293334ChaosIncarnate = {
   type: "story-chapter-read",
   slug: "the-new-world-0293-334-chaos-incarnate",
   title: "334 Chaos Incarnate",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 293,
   ownLength: 3724,
   unit: "unit/words",

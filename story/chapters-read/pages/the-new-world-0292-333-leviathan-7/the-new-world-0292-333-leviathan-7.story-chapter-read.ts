@@ -5,7 +5,7 @@ export const theNewWorld0292333Leviathan7 = {
   type: "story-chapter-read",
   slug: "the-new-world-0292-333-leviathan-7",
   title: "333 Leviathan-7",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 292,
   ownLength: 3791,
   unit: "unit/words",

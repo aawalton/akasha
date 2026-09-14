@@ -5,7 +5,7 @@ export const theNewWorld0374414ToKnowDeath = {
   type: "story-chapter-read",
   slug: "the-new-world-0374-414-to-know-death",
   title: "414 To Know Death",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 374,
   ownLength: 5693,
   unit: "unit/words",

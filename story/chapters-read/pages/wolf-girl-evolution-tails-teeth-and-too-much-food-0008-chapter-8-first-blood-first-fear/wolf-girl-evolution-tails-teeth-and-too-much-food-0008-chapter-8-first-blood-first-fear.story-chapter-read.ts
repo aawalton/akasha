@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0008Chapter8FirstBloodFirs
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0008-chapter-8-first-blood-first-fear",
   title: "Chapter 8: First Blood, First Fear",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 8,
   ownLength: 1490,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theNewWorld0267308ANewDawn = {
   type: "story-chapter-read",
   slug: "the-new-world-0267-308-a-new-dawn",
   title: "308 A New Dawn",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 267,
   ownLength: 4218,
   unit: "unit/words",

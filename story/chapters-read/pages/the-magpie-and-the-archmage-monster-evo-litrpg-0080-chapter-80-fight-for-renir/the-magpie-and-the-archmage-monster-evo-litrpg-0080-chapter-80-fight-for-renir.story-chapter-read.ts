@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0080Chapter80FightForRenir =
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0080-chapter-80-fight-for-renir",
   title: "Chapter 80 – Fight for Renir",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 80,
   ownLength: 2105,
   unit: "unit/words",

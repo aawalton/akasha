@@ -5,7 +5,7 @@ export const theNewWorld003073WhatLiesBeyond = {
   type: "story-chapter-read",
   slug: "the-new-world-0030-73-what-lies-beyond",
   title: "73 What Lies Beyond",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 30,
   ownLength: 4979,
   unit: "unit/words",

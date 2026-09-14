@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0147Chapter147DesperateEscap
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0147-chapter-147-desperate-escape",
   title: "Chapter 147 – Desperate Escape",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 147,
   ownLength: 2112,
   unit: "unit/words",

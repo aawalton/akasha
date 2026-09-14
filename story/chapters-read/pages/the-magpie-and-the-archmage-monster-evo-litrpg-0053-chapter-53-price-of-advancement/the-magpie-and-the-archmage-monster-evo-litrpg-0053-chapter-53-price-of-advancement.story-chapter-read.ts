@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0053Chapter53PriceOfAdvancem
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0053-chapter-53-price-of-advancement",
   title: "Chapter 53 – Price of Advancement",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 53,
   ownLength: 1927,
   unit: "unit/words",

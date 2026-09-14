@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0132116Wyinning = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0132-116-wyinning",
   title: "116: Wyinning",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 132,
   ownLength: 2388,
   unit: "unit/words",

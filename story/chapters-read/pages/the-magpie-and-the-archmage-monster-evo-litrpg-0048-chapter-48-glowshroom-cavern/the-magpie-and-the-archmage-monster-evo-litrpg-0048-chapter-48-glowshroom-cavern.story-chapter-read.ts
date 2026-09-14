@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0048Chapter48GlowshroomCaver
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0048-chapter-48-glowshroom-cavern",
   title: "Chapter 48 – Glowshroom Cavern",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 48,
   ownLength: 2065,
   unit: "unit/words",

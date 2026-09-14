@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0035Chapter35Escape = {
   type: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0035-chapter-35-escape",
   title: "Chapter 35: Escape",
-  story: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  story: "story-read/underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 35,
   ownLength: 1411,
   unit: "unit/words",

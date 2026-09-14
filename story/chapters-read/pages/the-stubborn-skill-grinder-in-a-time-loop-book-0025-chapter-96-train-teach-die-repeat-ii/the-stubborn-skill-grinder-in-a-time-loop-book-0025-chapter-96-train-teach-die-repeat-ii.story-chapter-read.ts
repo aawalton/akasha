@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0025Chapter96TrainTeachDieRep
   type: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0025-chapter-96-train-teach-die-repeat-ii",
   title: "Chapter 96 - Train. Teach. Die. Repeat. II",
-  story: "the-stubborn-skill-grinder-in-a-time-loop-book",
+  story: "story-read/the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 25,
   ownLength: 15389,
   unit: "unit/words",

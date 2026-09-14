@@ -5,7 +5,7 @@ export const theNewWorld0394434ANewHome = {
   type: "story-chapter-read",
   slug: "the-new-world-0394-434-a-new-home",
   title: "434 A New Home",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 394,
   ownLength: 5685,
   unit: "unit/words",

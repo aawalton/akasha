@@ -5,7 +5,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0015Chapter14HowDoYou
   type: "story-chapter-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0015-chapter-14-how-do-you-kill-something",
   title: "Chapter 14: How Do You Kill Something That Won't Die?",
-  story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
+  story: "story-read/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 15,
   ownLength: 2230,
   unit: "unit/words",

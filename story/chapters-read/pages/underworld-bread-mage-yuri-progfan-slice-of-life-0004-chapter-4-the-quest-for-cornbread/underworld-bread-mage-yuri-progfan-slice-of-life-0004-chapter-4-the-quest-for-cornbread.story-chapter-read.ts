@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0004Chapter4TheQuestForCor
   type: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0004-chapter-4-the-quest-for-cornbread",
   title: "Chapter 4: The Quest for Cornbread",
-  story: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  story: "story-read/underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 4,
   ownLength: 2123,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0184165SpongeGuardian = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0184-165-sponge-guardian",
   title: "165: Sponge Guardian",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 184,
   ownLength: 3523,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theNewWorld0088129AChance = {
   type: "story-chapter-read",
   slug: "the-new-world-0088-129-a-chance",
   title: "129 A Chance",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 88,
   ownLength: 2264,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0009Chapter82PortBellgraveRev
   type: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0009-chapter-82-port-bellgrave-revisited-ii",
   title: "Chapter 82 - Port Bellgrave Revisited II",
-  story: "the-stubborn-skill-grinder-in-a-time-loop-book",
+  story: "story-read/the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 9,
   ownLength: 22816,
   unit: "unit/words",

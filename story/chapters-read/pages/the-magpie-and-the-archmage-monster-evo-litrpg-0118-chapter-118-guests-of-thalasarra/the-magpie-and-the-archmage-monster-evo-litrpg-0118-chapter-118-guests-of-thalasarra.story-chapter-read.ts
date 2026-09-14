@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0118Chapter118GuestsOfThalas
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0118-chapter-118-guests-of-thalasarra",
   title: "Chapter 118 – Guests of Thalasarra",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 118,
   ownLength: 2140,
   unit: "unit/words",

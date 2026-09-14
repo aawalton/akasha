@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0230207TeleGam = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0230-207-tele-gam",
   title: "207: Tele-Gam",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 230,
   ownLength: 2127,
   unit: "unit/words",

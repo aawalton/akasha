@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0214192SkyHighScuttleLow = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0214-192-sky-high-scuttle-low",
   title: "192: Sky high, Scuttle low",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 214,
   ownLength: 3328,
   unit: "unit/words",

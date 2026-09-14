@@ -5,7 +5,7 @@ export const theNewWorld0120161ANightToRemember = {
   type: "story-chapter-read",
   slug: "the-new-world-0120-161-a-night-to-remember",
   title: "161 A Night To Remember",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 120,
   ownLength: 3187,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theNewWorld0117158GettingThere = {
   type: "story-chapter-read",
   slug: "the-new-world-0117-158-getting-there",
   title: "158 Getting There",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 117,
   ownLength: 3178,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theNewWorld004487Escape = {
   type: "story-chapter-read",
   slug: "the-new-world-0044-87-escape",
   title: "87 Escape",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 44,
   ownLength: 2578,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0084InterludeSpoiledForChoice = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0084-interlude-spoiled-for-choice",
   title: "Interlude: Spoiled for Choice",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 84,
   ownLength: 5649,
   unit: "unit/words",

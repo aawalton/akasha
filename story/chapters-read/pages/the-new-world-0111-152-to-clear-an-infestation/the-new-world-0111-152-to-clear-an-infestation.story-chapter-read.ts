@@ -5,7 +5,7 @@ export const theNewWorld0111152ToClearAnInfestation = {
   type: "story-chapter-read",
   slug: "the-new-world-0111-152-to-clear-an-infestation",
   title: "152 To Clear an Infestation",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 111,
   ownLength: 2406,
   unit: "unit/words",

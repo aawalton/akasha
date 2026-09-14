@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0106Chapter106RainOfStone = 
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0106-chapter-106-rain-of-stone",
   title: "Chapter 106 – Rain of Stone",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 106,
   ownLength: 2066,
   unit: "unit/words",

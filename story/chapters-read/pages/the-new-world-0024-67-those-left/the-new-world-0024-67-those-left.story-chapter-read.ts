@@ -5,7 +5,7 @@ export const theNewWorld002467ThoseLeft = {
   type: "story-chapter-read",
   slug: "the-new-world-0024-67-those-left",
   title: "67 Those Left",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 24,
   ownLength: 4061,
   unit: "unit/words",

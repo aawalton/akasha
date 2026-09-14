@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0012Chapter11AVisitToTheGroo
   type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0012-chapter-11-a-visit-to-the-groom",
   title: "Chapter 11 - A Visit to the Groom",
-  story: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 12,
   ownLength: 2879,
   unit: "unit/words",

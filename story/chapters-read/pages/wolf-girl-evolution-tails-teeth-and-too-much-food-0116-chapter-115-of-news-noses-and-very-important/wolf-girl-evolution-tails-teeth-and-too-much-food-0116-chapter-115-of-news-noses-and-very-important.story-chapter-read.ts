@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0116Chapter115OfNewsNosesA
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0116-chapter-115-of-news-noses-and-very-important",
   title: "Chapter 115: Of News, Noses, and Very Important Pranks",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 116,
   ownLength: 2733,
   unit: "unit/words",

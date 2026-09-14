@@ -5,7 +5,7 @@ export const theNewWorld0402442AFracturedReality = {
   type: "story-chapter-read",
   slug: "the-new-world-0402-442-a-fractured-reality",
   title: "442  A Fractured Reality",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 402,
   ownLength: 4366,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0171153FeastForTheFallen = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0171-153-feast-for-the-fallen",
   title: "153: Feast for the Fallen",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 171,
   ownLength: 3324,
   unit: "unit/words",

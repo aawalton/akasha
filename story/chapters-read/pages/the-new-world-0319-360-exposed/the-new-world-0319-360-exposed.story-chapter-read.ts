@@ -5,7 +5,7 @@ export const theNewWorld0319360Exposed = {
   type: "story-chapter-read",
   slug: "the-new-world-0319-360-exposed",
   title: "360 Exposed",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 319,
   ownLength: 6841,
   unit: "unit/words",

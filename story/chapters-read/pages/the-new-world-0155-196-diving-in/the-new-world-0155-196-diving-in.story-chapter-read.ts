@@ -5,7 +5,7 @@ export const theNewWorld0155196DivingIn = {
   type: "story-chapter-read",
   slug: "the-new-world-0155-196-diving-in",
   title: "196 Diving In",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 155,
   ownLength: 3865,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0032Chapter32AfternoonNaps
   type: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0032-chapter-32-afternoon-naps",
   title: "Chapter 32: Afternoon Naps",
-  story: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  story: "story-read/underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 32,
   ownLength: 1428,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0084Chapter84ThePillarOfAzur
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0084-chapter-84-the-pillar-of-azure-helm",
   title: "Chapter 84 – The Pillar of Azure Helm",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 84,
   ownLength: 1971,
   unit: "unit/words",

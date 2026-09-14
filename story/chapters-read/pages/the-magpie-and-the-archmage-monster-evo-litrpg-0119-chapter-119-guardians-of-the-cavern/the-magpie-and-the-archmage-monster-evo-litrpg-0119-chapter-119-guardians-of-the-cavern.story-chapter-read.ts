@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0119Chapter119GuardiansOfThe
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0119-chapter-119-guardians-of-the-cavern",
   title: "Chapter 119 – Guardians of the Cavern",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 119,
   ownLength: 2045,
   unit: "unit/words",

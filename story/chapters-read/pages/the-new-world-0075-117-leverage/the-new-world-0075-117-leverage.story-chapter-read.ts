@@ -5,7 +5,7 @@ export const theNewWorld0075117Leverage = {
   type: "story-chapter-read",
   slug: "the-new-world-0075-117-leverage",
   title: "117 Leverage",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 75,
   ownLength: 2300,
   unit: "unit/words",

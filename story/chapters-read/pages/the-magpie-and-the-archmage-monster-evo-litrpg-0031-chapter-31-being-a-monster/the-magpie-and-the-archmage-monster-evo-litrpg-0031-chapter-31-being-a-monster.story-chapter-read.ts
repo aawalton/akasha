@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0031Chapter31BeingAMonster =
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0031-chapter-31-being-a-monster",
   title: "Chapter 31 – Being a Monster",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 31,
   ownLength: 2064,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0163145TheThingsThatBroughtUsHere = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0163-145-the-things-that-brought-us-here",
   title: "145: The Things that Brought us Here",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 163,
   ownLength: 3539,
   unit: "unit/words",

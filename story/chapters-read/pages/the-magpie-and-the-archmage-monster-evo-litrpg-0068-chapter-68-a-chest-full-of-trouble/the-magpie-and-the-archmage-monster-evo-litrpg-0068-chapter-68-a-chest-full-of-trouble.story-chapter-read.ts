@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0068Chapter68AChestFullOfTro
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0068-chapter-68-a-chest-full-of-trouble",
   title: "Chapter 68 – A Chest Full of Trouble",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 68,
   ownLength: 2261,
   unit: "unit/words",

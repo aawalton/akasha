@@ -5,7 +5,7 @@ export const theNewWorld0389429ExploringAChangedCity = {
   type: "story-chapter-read",
   slug: "the-new-world-0389-429-exploring-a-changed-city",
   title: "429 Exploring a Changed City",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 389,
   ownLength: 7248,
   unit: "unit/words",

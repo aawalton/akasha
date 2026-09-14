@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0024Chapter24Awake = {
   type: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0024-chapter-24-awake",
   title: "Chapter 24: Awake",
-  story: "time-cursed-knight-time-loop-post-apoc",
+  story: "story-read/time-cursed-knight-time-loop-post-apoc",
   position: 24,
   ownLength: 2194,
   unit: "unit/words",

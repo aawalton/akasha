@@ -5,7 +5,7 @@ export const theRunesmith0139Ch11312 = {
   type: "story-chapter-read",
   slug: "the-runesmith-0139-ch-11312",
   title: "Ch: 113.12",
-  story: "the-runesmith",
+  story: "story-read/the-runesmith",
   position: 139,
   ownLength: 2914,
   unit: "unit/words",

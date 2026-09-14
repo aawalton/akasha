@@ -5,7 +5,7 @@ export const theNewWorld0344384OfAlphaAndOmega = {
   type: "story-chapter-read",
   slug: "the-new-world-0344-384-of-alpha-and-omega",
   title: "384 Of Alpha and Omega",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 344,
   ownLength: 3834,
   unit: "unit/words",

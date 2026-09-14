@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0162144DramaticFlashbacksUnderTheMoon 
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0162-144-dramatic-flashbacks-under-the-moon",
   title: "144: Dramatic Flashbacks under the Moon",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 162,
   ownLength: 3542,
   unit: "unit/words",

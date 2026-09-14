@@ -5,7 +5,7 @@ export const theNewWorld0177218SomethingElseAltogether = {
   type: "story-chapter-read",
   slug: "the-new-world-0177-218-something-else-altogether",
   title: "218 Something Else Altogether",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 177,
   ownLength: 4876,
   unit: "unit/words",

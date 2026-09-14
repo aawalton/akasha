@@ -5,7 +5,7 @@ export const theNewWorld002770Order = {
   type: "story-chapter-read",
   slug: "the-new-world-0027-70-order",
   title: "70 Order",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 27,
   ownLength: 3821,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theSpeedOfLightMonsterEvolutionLitrpg0021Chapter21 = {
   type: "story-chapter-read",
   slug: "the-speed-of-light-monster-evolution-litrpg-0021-chapter-21",
   title: "Chapter 21",
-  story: "the-speed-of-light-monster-evolution-litrpg",
+  story: "story-read/the-speed-of-light-monster-evolution-litrpg",
   position: 21,
   ownLength: 2521,
   unit: "unit/words",

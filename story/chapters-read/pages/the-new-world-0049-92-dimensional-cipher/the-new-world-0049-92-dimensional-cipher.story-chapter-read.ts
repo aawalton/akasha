@@ -5,7 +5,7 @@ export const theNewWorld004992DimensionalCipher = {
   type: "story-chapter-read",
   slug: "the-new-world-0049-92-dimensional-cipher",
   title: "92 Dimensional Cipher",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 49,
   ownLength: 3620,
   unit: "unit/words",

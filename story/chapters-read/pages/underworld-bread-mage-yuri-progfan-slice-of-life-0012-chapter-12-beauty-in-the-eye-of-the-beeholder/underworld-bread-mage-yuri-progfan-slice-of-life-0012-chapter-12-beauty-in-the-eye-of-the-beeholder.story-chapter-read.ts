@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0012Chapter12BeautyInTheEy
   type: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0012-chapter-12-beauty-in-the-eye-of-the-beeholder",
   title: "Chapter 12: Beauty in the Eye of the Beeholder",
-  story: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  story: "story-read/underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 12,
   ownLength: 1870,
   unit: "unit/words",

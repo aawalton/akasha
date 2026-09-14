@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0056Chapter56PaladinWithoutA
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0056-chapter-56-paladin-without-a-party",
   title: "Chapter 56 – Paladin without a Party",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 56,
   ownLength: 2070,
   unit: "unit/words",

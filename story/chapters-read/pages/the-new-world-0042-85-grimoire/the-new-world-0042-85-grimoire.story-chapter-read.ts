@@ -5,7 +5,7 @@ export const theNewWorld004285Grimoire = {
   type: "story-chapter-read",
   slug: "the-new-world-0042-85-grimoire",
   title: "85 Grimoire",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 42,
   ownLength: 3440,
   unit: "unit/words",

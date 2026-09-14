@@ -5,7 +5,7 @@ export const theNewWorld0175216TheHeavensWeep = {
   type: "story-chapter-read",
   slug: "the-new-world-0175-216-the-heavens-weep",
   title: "216 The Heavens Weep",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 175,
   ownLength: 2254,
   unit: "unit/words",

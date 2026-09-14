@@ -5,7 +5,7 @@ export const theNewWorld0381421ADefier = {
   type: "story-chapter-read",
   slug: "the-new-world-0381-421-a-defier",
   title: "421 A Defier",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 381,
   ownLength: 6173,
   unit: "unit/words",

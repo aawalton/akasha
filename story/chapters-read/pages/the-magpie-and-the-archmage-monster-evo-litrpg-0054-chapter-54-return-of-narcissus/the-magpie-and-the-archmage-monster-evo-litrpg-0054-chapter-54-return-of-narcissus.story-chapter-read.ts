@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0054Chapter54ReturnOfNarciss
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0054-chapter-54-return-of-narcissus",
   title: "Chapter 54 – Return of Narcissus",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 54,
   ownLength: 2158,
   unit: "unit/words",

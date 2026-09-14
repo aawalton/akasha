@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0242219Pigheaded = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0242-219-pigheaded",
   title: "219: Pigheaded",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 242,
   ownLength: 3409,
   unit: "unit/words",

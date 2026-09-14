@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0192171MhairaWillFreeYa = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0192-171-mhaira-will-free-ya",
   title: "171: Mhaira will free ya",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 192,
   ownLength: 3570,
   unit: "unit/words",

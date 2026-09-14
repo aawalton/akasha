@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0195174GoneHome = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0195-174-gone-home",
   title: "174: Gone Home",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 195,
   ownLength: 4238,
   unit: "unit/words",

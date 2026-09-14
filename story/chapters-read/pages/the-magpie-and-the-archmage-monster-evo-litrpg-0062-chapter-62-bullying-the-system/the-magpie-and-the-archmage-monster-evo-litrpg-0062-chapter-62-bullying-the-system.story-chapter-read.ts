@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0062Chapter62BullyingTheSyst
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0062-chapter-62-bullying-the-system",
   title: "Chapter 62 – Bullying the System",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 62,
   ownLength: 2104,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0049Chapter49TheNightOfSou
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0049-chapter-49-the-night-of-soup-and-stipulations",
   title: "Chapter 49: The Night of Soup and Stipulations",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 49,
   ownLength: 1709,
   unit: "unit/words",

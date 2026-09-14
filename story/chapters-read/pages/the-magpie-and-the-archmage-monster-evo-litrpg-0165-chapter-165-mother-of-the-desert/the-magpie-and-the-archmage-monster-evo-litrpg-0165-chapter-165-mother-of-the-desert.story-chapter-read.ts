@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0165Chapter165MotherOfTheDes
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0165-chapter-165-mother-of-the-desert",
   title: "Chapter 165 – Mother of the Desert",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 165,
   ownLength: 2090,
   unit: "unit/words",

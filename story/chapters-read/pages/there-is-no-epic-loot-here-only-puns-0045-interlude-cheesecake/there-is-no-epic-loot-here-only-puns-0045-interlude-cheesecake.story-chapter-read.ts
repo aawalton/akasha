@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0045InterludeCheesecake = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0045-interlude-cheesecake",
   title: "Interlude: Cheesecake",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 45,
   ownLength: 1955,
   unit: "unit/words",

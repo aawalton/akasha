@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0032Chapter101SimilarButVeryD
   type: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0032-chapter-101-similar-but-very-different",
   title: "Chapter 101 - Similar But Very Different",
-  story: "the-stubborn-skill-grinder-in-a-time-loop-book",
+  story: "story-read/the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 32,
   ownLength: 13457,
   unit: "unit/words",

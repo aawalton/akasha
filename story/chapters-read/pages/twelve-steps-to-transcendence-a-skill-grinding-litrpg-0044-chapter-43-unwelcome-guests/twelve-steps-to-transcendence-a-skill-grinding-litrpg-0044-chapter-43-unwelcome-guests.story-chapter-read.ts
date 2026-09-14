@@ -5,7 +5,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0044Chapter43Unwelcom
   type: "story-chapter-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0044-chapter-43-unwelcome-guests",
   title: "Chapter 43: Unwelcome Guests",
-  story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
+  story: "story-read/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 44,
   ownLength: 1876,
   unit: "unit/words",

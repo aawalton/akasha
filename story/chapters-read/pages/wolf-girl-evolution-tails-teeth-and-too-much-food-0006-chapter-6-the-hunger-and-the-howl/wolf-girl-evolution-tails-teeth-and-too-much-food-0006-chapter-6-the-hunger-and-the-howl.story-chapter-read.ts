@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0006Chapter6TheHungerAndTh
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0006-chapter-6-the-hunger-and-the-howl",
   title: "Chapter 6: The Hunger and the Howl",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 6,
   ownLength: 1407,
   unit: "unit/words",

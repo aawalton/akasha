@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns001313HookLineSinker = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0013-13-hook-line-sinker",
   title: "13: Hook, Line, Sinker",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 13,
   ownLength: 2787,
   unit: "unit/words",

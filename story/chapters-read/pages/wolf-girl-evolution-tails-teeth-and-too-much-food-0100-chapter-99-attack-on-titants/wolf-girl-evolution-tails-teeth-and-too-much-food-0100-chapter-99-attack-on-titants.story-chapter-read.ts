@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0100Chapter99AttackOnTitan
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0100-chapter-99-attack-on-titants",
   title: "Chapter 99: Attack on TitAnts!",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 100,
   ownLength: 2245,
   unit: "unit/words",

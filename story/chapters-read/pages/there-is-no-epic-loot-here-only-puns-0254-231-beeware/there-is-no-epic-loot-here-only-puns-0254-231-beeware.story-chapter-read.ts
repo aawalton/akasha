@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0254231Beeware = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0254-231-beeware",
   title: "231: Beeware",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 254,
   ownLength: 3270,
   unit: "unit/words",

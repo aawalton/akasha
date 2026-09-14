@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0252229PreachingToTheChoir = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0252-229-preaching-to-the-choir",
   title: "229: Preaching to the Choir",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 252,
   ownLength: 3002,
   unit: "unit/words",

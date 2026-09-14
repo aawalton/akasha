@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0255232QueensAndGoddesses = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0255-232-queens-and-goddesses",
   title: "232: Queens and Goddesses",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 255,
   ownLength: 3277,
   unit: "unit/words",

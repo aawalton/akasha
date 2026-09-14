@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0157Chapter157BirdBehindBars
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0157-chapter-157-bird-behind-bars",
   title: "Chapter 157 – Bird Behind Bars",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 157,
   ownLength: 2212,
   unit: "unit/words",

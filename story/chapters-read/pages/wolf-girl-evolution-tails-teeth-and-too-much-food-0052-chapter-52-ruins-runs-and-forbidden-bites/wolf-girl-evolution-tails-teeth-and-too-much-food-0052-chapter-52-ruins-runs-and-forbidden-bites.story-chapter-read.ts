@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0052Chapter52RuinsRunsAndF
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0052-chapter-52-ruins-runs-and-forbidden-bites",
   title: "Chapter 52: Ruins, Runs, and Forbidden Bites",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 52,
   ownLength: 1603,
   unit: "unit/words",

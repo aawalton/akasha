@@ -5,7 +5,7 @@ export const theNewWorld0333374WhatIsToCome = {
   type: "story-chapter-read",
   slug: "the-new-world-0333-374-what-is-to-come",
   title: "374 What is to Come",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 333,
   ownLength: 4805,
   unit: "unit/words",

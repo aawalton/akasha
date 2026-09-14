@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0005Chapter5AwooOfAwakenin
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0005-chapter-5-awoo-of-awakening",
   title: "Chapter 5: Awoo of Awakening",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 5,
   ownLength: 1530,
   unit: "unit/words",

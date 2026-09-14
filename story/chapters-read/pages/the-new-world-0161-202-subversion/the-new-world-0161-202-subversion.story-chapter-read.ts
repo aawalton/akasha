@@ -5,7 +5,7 @@ export const theNewWorld0161202Subversion = {
   type: "story-chapter-read",
   slug: "the-new-world-0161-202-subversion",
   title: "202 Subversion",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 161,
   ownLength: 1581,
   unit: "unit/words",

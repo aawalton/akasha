@@ -5,7 +5,7 @@ export const theNewWorld0400440ToWieldAStar = {
   type: "story-chapter-read",
   slug: "the-new-world-0400-440-to-wield-a-star",
   title: "440 To Wield a Star",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 400,
   ownLength: 3995,
   unit: "unit/words",

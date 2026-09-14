@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0137Chapter137NewFormNewProb
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0137-chapter-137-new-form-new-problems",
   title: "Chapter 137 – New Form, New Problems",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 137,
   ownLength: 2191,
   unit: "unit/words",

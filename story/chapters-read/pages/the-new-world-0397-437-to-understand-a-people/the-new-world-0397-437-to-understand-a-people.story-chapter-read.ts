@@ -5,7 +5,7 @@ export const theNewWorld0397437ToUnderstandAPeople = {
   type: "story-chapter-read",
   slug: "the-new-world-0397-437-to-understand-a-people",
   title: "437 To Understand a People",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 397,
   ownLength: 4266,
   unit: "unit/words",

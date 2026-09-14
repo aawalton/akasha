@@ -5,7 +5,7 @@ export const theNewWorld0192233Elysium = {
   type: "story-chapter-read",
   slug: "the-new-world-0192-233-elysium",
   title: "233 Elysium",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 192,
   ownLength: 3503,
   unit: "unit/words",

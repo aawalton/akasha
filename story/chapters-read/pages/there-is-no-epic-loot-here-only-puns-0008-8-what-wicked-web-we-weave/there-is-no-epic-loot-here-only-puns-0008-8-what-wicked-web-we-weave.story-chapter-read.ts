@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns00088WhatWickedWebWeWeave = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0008-8-what-wicked-web-we-weave",
   title: "8: What Wicked Web We Weave",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 8,
   ownLength: 1582,
   unit: "unit/words",

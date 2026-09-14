@@ -5,7 +5,7 @@ export const theNewWorld0205246AReprieve = {
   type: "story-chapter-read",
   slug: "the-new-world-0205-246-a-reprieve",
   title: "246 A Reprieve",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 205,
   ownLength: 3647,
   unit: "unit/words",

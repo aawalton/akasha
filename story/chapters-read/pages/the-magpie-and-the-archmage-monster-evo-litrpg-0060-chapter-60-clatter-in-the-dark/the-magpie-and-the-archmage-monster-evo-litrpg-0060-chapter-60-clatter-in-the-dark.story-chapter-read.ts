@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0060Chapter60ClatterInTheDar
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0060-chapter-60-clatter-in-the-dark",
   title: "Chapter 60 – Clatter in the Dark",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 60,
   ownLength: 2007,
   unit: "unit/words",

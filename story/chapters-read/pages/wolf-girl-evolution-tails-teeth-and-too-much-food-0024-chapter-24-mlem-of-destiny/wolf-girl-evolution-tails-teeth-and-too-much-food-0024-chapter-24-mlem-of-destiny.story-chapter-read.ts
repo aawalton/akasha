@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0024Chapter24MlemOfDestiny
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0024-chapter-24-mlem-of-destiny",
   title: "Chapter 24: Mlem of Destiny",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 24,
   ownLength: 1482,
   unit: "unit/words",

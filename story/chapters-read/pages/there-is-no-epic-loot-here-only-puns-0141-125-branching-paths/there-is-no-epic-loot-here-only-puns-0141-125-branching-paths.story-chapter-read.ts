@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0141125BranchingPaths = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0141-125-branching-paths",
   title: "125: Branching Paths",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 141,
   ownLength: 3839,
   unit: "unit/words",

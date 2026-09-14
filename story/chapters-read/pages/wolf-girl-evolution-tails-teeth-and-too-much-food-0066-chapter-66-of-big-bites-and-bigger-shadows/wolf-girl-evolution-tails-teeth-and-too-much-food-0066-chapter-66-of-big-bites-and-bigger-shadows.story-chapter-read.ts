@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0066Chapter66OfBigBitesAnd
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0066-chapter-66-of-big-bites-and-bigger-shadows",
   title: "Chapter 66: Of Big Bites and Bigger Shadows",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 66,
   ownLength: 2360,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0010Chapter83ThreeMonthsAndTh
   type: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0010-chapter-83-three-months-and-the-dead-zone",
   title: "Chapter 83 - Three Months & The Dead Zone",
-  story: "the-stubborn-skill-grinder-in-a-time-loop-book",
+  story: "story-read/the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 10,
   ownLength: 22378,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theNewWorld0265306FittingRightIn = {
   type: "story-chapter-read",
   slug: "the-new-world-0265-306-fitting-right-in",
   title: "306 Fitting Right In",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 265,
   ownLength: 4538,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theNewWorld0083124Almost = {
   type: "story-chapter-read",
   slug: "the-new-world-0083-124-almost",
   title: "124 Almost",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 83,
   ownLength: 1674,
   unit: "unit/words",

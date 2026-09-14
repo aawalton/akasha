@@ -5,7 +5,7 @@ export const theNewWorld005194InTheFleshPart1 = {
   type: "story-chapter-read",
   slug: "the-new-world-0051-94-in-the-flesh-part-1",
   title: "94 In the Flesh(Part 1)",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 51,
   ownLength: 3659,
   unit: "unit/words",

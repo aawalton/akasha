@@ -5,7 +5,7 @@ export const ultimateLevel1LitrpgBook11Stubs3100004Chapter275 = {
   type: "story-chapter-read",
   slug: "ultimate-level-1-litrpg-book-11-stubs-310-0004-chapter-275",
   title: "Chapter 275",
-  story: "ultimate-level-1-litrpg-book-11-stubs-310",
+  story: "story-read/ultimate-level-1-litrpg-book-11-stubs-310",
   position: 4,
   ownLength: 2181,
   unit: "unit/words",

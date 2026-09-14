@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns002828GuiltyRoots = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0028-28-guilty-roots",
   title: "28: Guilty Roots",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 28,
   ownLength: 2079,
   unit: "unit/words",

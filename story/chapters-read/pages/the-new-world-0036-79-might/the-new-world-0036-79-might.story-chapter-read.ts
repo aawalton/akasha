@@ -5,7 +5,7 @@ export const theNewWorld003679Might = {
   type: "story-chapter-read",
   slug: "the-new-world-0036-79-might",
   title: "79 Might",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 36,
   ownLength: 3463,
   unit: "unit/words",

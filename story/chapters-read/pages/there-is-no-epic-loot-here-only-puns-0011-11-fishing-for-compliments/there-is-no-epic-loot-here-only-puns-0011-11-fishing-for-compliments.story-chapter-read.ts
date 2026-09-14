@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns001111FishingForCompliments = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0011-11-fishing-for-compliments",
   title: "11: Fishing for Compliments",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 11,
   ownLength: 3046,
   unit: "unit/words",

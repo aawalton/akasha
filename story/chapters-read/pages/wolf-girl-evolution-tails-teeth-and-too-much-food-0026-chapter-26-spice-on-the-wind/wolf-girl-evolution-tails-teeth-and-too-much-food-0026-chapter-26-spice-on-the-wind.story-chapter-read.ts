@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0026Chapter26SpiceOnTheWin
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0026-chapter-26-spice-on-the-wind",
   title: "Chapter 26: Spice on the Wind",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 26,
   ownLength: 1519,
   unit: "unit/words",

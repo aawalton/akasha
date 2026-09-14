@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0051Chapter51OfProperPupsA
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0051-chapter-51-of-proper-pups-and-metal-deer",
   title: "Chapter 51: Of Proper Pups and Metal-Deer Solid",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 51,
   ownLength: 1772,
   unit: "unit/words",

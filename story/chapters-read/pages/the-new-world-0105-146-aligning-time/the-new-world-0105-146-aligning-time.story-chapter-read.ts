@@ -5,7 +5,7 @@ export const theNewWorld0105146AligningTime = {
   type: "story-chapter-read",
   slug: "the-new-world-0105-146-aligning-time",
   title: "146 Aligning Time",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 105,
   ownLength: 3321,
   unit: "unit/words",

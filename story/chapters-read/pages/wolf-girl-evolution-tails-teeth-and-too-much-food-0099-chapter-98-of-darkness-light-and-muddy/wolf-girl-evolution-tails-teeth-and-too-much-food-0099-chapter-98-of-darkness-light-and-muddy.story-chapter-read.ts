@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0099Chapter98OfDarknessLig
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0099-chapter-98-of-darkness-light-and-muddy",
   title: "Chapter 98: Of Darkness, Light, and Muddy Battles",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 99,
   ownLength: 2418,
   unit: "unit/words",

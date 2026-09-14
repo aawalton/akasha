@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0004Chapter3LadySerrsComtess
   type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0004-chapter-3-lady-serrs-comtess",
   title: "Chapter 3 - Lady Serrs-Comtess",
-  story: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 4,
   ownLength: 2257,
   unit: "unit/words",

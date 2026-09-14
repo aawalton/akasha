@@ -5,7 +5,7 @@ export const theNewWorld0191232TheMindsOfMany = {
   type: "story-chapter-read",
   slug: "the-new-world-0191-232-the-minds-of-many",
   title: "232 The Minds of Many",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 191,
   ownLength: 2566,
   unit: "unit/words",

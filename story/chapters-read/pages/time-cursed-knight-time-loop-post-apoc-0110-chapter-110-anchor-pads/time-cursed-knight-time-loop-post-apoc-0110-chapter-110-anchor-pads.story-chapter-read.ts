@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0110Chapter110AnchorPads = {
   type: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0110-chapter-110-anchor-pads",
   title: "Chapter 110: Anchor Pads",
-  story: "time-cursed-knight-time-loop-post-apoc",
+  story: "story-read/time-cursed-knight-time-loop-post-apoc",
   position: 110,
   ownLength: 2461,
   unit: "unit/words",

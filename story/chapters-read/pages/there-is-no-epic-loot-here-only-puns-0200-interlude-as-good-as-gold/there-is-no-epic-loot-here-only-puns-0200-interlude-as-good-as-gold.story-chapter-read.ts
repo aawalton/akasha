@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0200InterludeAsGoodAsGold = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0200-interlude-as-good-as-gold",
   title: "Interlude: As Good As Gold",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 200,
   ownLength: 3620,
   unit: "unit/words",

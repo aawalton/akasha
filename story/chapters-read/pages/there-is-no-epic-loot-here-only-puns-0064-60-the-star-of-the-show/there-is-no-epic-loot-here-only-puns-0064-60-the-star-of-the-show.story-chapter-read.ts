@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns006460TheStarOfTheShow = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0064-60-the-star-of-the-show",
   title: "60: The Star of the Show",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 64,
   ownLength: 4216,
   unit: "unit/words",

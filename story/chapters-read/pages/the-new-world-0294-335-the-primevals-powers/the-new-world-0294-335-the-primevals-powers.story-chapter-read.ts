@@ -5,7 +5,7 @@ export const theNewWorld0294335ThePrimevalsPowers = {
   type: "story-chapter-read",
   slug: "the-new-world-0294-335-the-primevals-powers",
   title: "335 The Primevals' Powers",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 294,
   ownLength: 4221,
   unit: "unit/words",

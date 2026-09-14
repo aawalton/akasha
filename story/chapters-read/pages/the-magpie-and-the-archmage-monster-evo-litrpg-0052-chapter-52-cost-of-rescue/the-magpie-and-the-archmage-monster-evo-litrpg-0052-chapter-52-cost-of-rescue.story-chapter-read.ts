@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0052Chapter52CostOfRescue = 
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0052-chapter-52-cost-of-rescue",
   title: "Chapter 52 – Cost of Rescue",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 52,
   ownLength: 2219,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0012Chapter11WhenTheS
   type: "story-chapter-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0012-chapter-11-when-the-sky-burned",
   title: "Chapter 11: When The Sky Burned",
-  story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
+  story: "story-read/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 12,
   ownLength: 2246,
   unit: "unit/words",

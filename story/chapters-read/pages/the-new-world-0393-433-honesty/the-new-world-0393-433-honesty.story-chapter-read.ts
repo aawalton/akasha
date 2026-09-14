@@ -5,7 +5,7 @@ export const theNewWorld0393433Honesty = {
   type: "story-chapter-read",
   slug: "the-new-world-0393-433-honesty",
   title: "433 Honesty",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 393,
   ownLength: 3422,
   unit: "unit/words",

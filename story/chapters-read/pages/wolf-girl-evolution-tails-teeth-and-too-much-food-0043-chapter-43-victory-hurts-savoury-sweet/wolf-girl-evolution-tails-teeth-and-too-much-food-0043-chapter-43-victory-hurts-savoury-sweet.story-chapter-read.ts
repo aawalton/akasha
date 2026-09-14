@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0043Chapter43VictoryHurtsS
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0043-chapter-43-victory-hurts-savoury-sweet",
   title: "Chapter 43: Victory Hurts Savoury-Sweet",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 43,
   ownLength: 1388,
   unit: "unit/words",

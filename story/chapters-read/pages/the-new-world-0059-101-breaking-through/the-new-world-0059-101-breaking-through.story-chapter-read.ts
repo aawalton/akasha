@@ -5,7 +5,7 @@ export const theNewWorld0059101BreakingThrough = {
   type: "story-chapter-read",
   slug: "the-new-world-0059-101-breaking-through",
   title: "101 Breaking Through",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 59,
   ownLength: 3720,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theNewWorld0259300AltercationAndObliteration = {
   type: "story-chapter-read",
   slug: "the-new-world-0259-300-altercation-and-obliteration",
   title: "300 Altercation and Obliteration",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 259,
   ownLength: 5862,
   unit: "unit/words",

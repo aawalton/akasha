@@ -5,7 +5,7 @@ export const theNewWorld0216257Rhetoric = {
   type: "story-chapter-read",
   slug: "the-new-world-0216-257-rhetoric",
   title: "257 Rhetoric",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 216,
   ownLength: 3224,
   unit: "unit/words",

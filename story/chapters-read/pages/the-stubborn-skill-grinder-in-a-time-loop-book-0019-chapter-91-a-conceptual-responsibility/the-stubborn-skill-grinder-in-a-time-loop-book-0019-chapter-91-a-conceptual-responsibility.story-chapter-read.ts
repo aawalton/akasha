@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0019Chapter91AConceptualRespo
   type: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0019-chapter-91-a-conceptual-responsibility",
   title: "Chapter 91 - A Conceptual Responsibility",
-  story: "the-stubborn-skill-grinder-in-a-time-loop-book",
+  story: "story-read/the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 19,
   ownLength: 15675,
   unit: "unit/words",

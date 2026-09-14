@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0220198BookingIt = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0220-198-booking-it",
   title: "198: Booking it",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 220,
   ownLength: 3149,
   unit: "unit/words",

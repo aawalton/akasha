@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0041Chapter41TheOgreReturn
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0041-chapter-41-the-ogre-returns",
   title: "Chapter 41: The Ogre Returns",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 41,
   ownLength: 1486,
   unit: "unit/words",

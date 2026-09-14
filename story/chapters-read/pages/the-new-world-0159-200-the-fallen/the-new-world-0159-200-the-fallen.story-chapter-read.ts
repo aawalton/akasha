@@ -5,7 +5,7 @@ export const theNewWorld0159200TheFallen = {
   type: "story-chapter-read",
   slug: "the-new-world-0159-200-the-fallen",
   title: "200 The Fallen",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 159,
   ownLength: 4577,
   unit: "unit/words",

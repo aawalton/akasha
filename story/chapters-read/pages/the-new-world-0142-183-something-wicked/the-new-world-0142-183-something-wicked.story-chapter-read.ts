@@ -5,7 +5,7 @@ export const theNewWorld0142183SomethingWicked = {
   type: "story-chapter-read",
   slug: "the-new-world-0142-183-something-wicked",
   title: "183 Something Wicked",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 142,
   ownLength: 2114,
   unit: "unit/words",

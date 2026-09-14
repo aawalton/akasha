@@ -5,7 +5,7 @@ export const theNewWorld0252293TheSiegeOfSaphigia = {
   type: "story-chapter-read",
   slug: "the-new-world-0252-293-the-siege-of-saphigia",
   title: "293 The siege of Saphigia",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 252,
   ownLength: 5126,
   unit: "unit/words",

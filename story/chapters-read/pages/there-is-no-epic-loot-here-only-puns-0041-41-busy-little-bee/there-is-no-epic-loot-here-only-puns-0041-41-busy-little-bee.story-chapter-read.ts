@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns004141BusyLittleBee = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0041-41-busy-little-bee",
   title: "41:  Busy Little Bee",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 41,
   ownLength: 1988,
   unit: "unit/words",

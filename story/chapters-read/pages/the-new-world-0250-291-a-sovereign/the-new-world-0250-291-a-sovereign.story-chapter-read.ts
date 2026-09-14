@@ -5,7 +5,7 @@ export const theNewWorld0250291ASovereign = {
   type: "story-chapter-read",
   slug: "the-new-world-0250-291-a-sovereign",
   title: "291 A Sovereign",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 250,
   ownLength: 4185,
   unit: "unit/words",

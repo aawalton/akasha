@@ -5,7 +5,7 @@ export const theNewWorld0139180HeliosRulerOfWorlds = {
   type: "story-chapter-read",
   slug: "the-new-world-0139-180-helios-ruler-of-worlds",
   title: "180 Helios, Ruler of Worlds",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 139,
   ownLength: 4352,
   unit: "unit/words",

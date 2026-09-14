@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0004Chapter77TheVariousAttemp
   type: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0004-chapter-77-the-various-attempts-at-entry",
   title: "Chapter 77 - The Various Attempts At Entry",
-  story: "the-stubborn-skill-grinder-in-a-time-loop-book",
+  story: "story-read/the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 4,
   ownLength: 20583,
   unit: "unit/words",

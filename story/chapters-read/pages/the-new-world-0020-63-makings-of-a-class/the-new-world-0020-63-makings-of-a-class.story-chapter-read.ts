@@ -5,7 +5,7 @@ export const theNewWorld002063MakingsOfAClass = {
   type: "story-chapter-read",
   slug: "the-new-world-0020-63-makings-of-a-class",
   title: "63 Makings of a Class",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 20,
   ownLength: 4710,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theNewWorld000750PiecesOfThePuzzle = {
   type: "story-chapter-read",
   slug: "the-new-world-0007-50-pieces-of-the-puzzle",
   title: "50 Pieces of the Puzzle",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 7,
   ownLength: 3845,
   unit: "unit/words",

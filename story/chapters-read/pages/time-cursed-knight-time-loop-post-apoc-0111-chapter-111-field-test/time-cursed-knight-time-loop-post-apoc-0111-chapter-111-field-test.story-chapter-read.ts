@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0111Chapter111FieldTest = {
   type: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0111-chapter-111-field-test",
   title: "Chapter 111: Field Test",
-  story: "time-cursed-knight-time-loop-post-apoc",
+  story: "story-read/time-cursed-knight-time-loop-post-apoc",
   position: 111,
   ownLength: 2098,
   unit: "unit/words",

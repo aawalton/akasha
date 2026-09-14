@@ -5,7 +5,7 @@ export const theNewWorld0129170ANightmare = {
   type: "story-chapter-read",
   slug: "the-new-world-0129-170-a-nightmare",
   title: "170 A Nightmare",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 129,
   ownLength: 3177,
   unit: "unit/words",

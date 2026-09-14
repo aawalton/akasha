@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0133Chapter131FastAndFurri
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0133-chapter-131-fast-and-furrious",
   title: "Chapter 131: Fast and Furrious!",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 133,
   ownLength: 3151,
   unit: "unit/words",

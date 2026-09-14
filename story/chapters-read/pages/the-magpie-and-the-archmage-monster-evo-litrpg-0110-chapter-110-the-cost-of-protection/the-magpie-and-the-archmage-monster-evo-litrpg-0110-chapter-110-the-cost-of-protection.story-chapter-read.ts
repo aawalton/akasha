@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0110Chapter110TheCostOfProte
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0110-chapter-110-the-cost-of-protection",
   title: "Chapter 110 – The Cost of Protection",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 110,
   ownLength: 2090,
   unit: "unit/words",

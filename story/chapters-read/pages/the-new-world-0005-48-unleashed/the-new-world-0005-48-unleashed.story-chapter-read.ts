@@ -5,7 +5,7 @@ export const theNewWorld000548Unleashed = {
   type: "story-chapter-read",
   slug: "the-new-world-0005-48-unleashed",
   title: "48 Unleashed",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 5,
   ownLength: 4112,
   unit: "unit/words",

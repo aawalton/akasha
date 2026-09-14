@@ -5,7 +5,7 @@ export const ultimateLevel1LitrpgBook11Stubs3100002Book4Recap = {
   type: "story-chapter-read",
   slug: "ultimate-level-1-litrpg-book-11-stubs-310-0002-book-4-recap",
   title: "Book 4 Recap!",
-  story: "ultimate-level-1-litrpg-book-11-stubs-310",
+  story: "story-read/ultimate-level-1-litrpg-book-11-stubs-310",
   position: 2,
   ownLength: 1257,
   unit: "unit/words",

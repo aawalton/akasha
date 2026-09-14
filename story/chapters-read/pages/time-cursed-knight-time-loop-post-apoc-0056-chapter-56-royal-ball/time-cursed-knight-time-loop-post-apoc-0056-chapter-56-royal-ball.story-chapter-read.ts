@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0056Chapter56RoyalBall = {
   type: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0056-chapter-56-royal-ball",
   title: "Chapter 56: Royal Ball",
-  story: "time-cursed-knight-time-loop-post-apoc",
+  story: "story-read/time-cursed-knight-time-loop-post-apoc",
   position: 56,
   ownLength: 2905,
   unit: "unit/words",

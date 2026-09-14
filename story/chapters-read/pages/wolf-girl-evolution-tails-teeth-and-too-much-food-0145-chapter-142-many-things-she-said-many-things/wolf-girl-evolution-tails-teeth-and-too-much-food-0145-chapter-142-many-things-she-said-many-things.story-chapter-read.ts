@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0145Chapter142ManyThingsSh
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0145-chapter-142-many-things-she-said-many-things",
   title: "Chapter 142: Many-Things She Said, Many-Things to Bite",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 145,
   ownLength: 2726,
   unit: "unit/words",

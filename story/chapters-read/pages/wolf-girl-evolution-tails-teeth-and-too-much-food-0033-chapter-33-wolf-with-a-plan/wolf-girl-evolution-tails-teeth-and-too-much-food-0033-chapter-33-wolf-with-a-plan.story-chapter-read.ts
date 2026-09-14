@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0033Chapter33WolfWithAPlan
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0033-chapter-33-wolf-with-a-plan",
   title: "Chapter 33: Wolf With a Plan",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 33,
   ownLength: 1273,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0227204TheHeartOfAGiant = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0227-204-the-heart-of-a-giant",
   title: "204: The Heart of A Giant",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 227,
   ownLength: 3065,
   unit: "unit/words",

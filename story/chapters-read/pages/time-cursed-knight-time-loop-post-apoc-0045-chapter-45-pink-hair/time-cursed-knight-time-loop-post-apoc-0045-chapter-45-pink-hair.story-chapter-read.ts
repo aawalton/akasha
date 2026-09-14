@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0045Chapter45PinkHair = {
   type: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0045-chapter-45-pink-hair",
   title: "Chapter 45: Pink Hair",
-  story: "time-cursed-knight-time-loop-post-apoc",
+  story: "story-read/time-cursed-knight-time-loop-post-apoc",
   position: 45,
   ownLength: 3312,
   unit: "unit/words",

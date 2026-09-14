@@ -5,7 +5,7 @@ export const theNewWorld001154HowToEndALegend = {
   type: "story-chapter-read",
   slug: "the-new-world-0011-54-how-to-end-a-legend",
   title: "54 How to End a Legend",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 11,
   ownLength: 4215,
   unit: "unit/words",

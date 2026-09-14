@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns007164TheTreeOfWisdom = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0071-64-the-tree-of-wisdom",
   title: "64: The Tree of 'Wisdom'",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 71,
   ownLength: 4554,
   unit: "unit/words",

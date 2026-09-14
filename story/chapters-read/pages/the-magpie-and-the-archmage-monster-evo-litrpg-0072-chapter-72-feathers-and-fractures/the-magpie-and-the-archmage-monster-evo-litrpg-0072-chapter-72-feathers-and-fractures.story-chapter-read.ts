@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0072Chapter72FeathersAndFrac
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0072-chapter-72-feathers-and-fractures",
   title: "Chapter 72 – Feathers and Fractures",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 72,
   ownLength: 2084,
   unit: "unit/words",

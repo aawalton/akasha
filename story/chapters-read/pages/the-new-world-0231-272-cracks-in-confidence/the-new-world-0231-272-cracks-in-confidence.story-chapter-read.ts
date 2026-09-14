@@ -5,7 +5,7 @@ export const theNewWorld0231272CracksInConfidence = {
   type: "story-chapter-read",
   slug: "the-new-world-0231-272-cracks-in-confidence",
   title: "272 Cracks in Confidence",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 231,
   ownLength: 6262,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0029Chapter29DumDumDirecti
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0029-chapter-29-dum-dum-directions",
   title: "Chapter 29: Dum Dum Directions",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 29,
   ownLength: 1288,
   unit: "unit/words",

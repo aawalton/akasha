@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns008272InfernoAtTheGrove = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0082-72-inferno-at-the-grove",
   title: "72: Inferno at the Grove",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 82,
   ownLength: 5854,
   unit: "unit/words",

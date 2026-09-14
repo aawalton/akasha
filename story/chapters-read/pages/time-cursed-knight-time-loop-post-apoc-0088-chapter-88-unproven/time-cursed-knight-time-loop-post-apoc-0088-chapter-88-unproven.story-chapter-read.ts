@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0088Chapter88Unproven = {
   type: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0088-chapter-88-unproven",
   title: "Chapter 88: Unproven",
-  story: "time-cursed-knight-time-loop-post-apoc",
+  story: "story-read/time-cursed-knight-time-loop-post-apoc",
   position: 88,
   ownLength: 2707,
   unit: "unit/words",

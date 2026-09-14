@@ -5,7 +5,7 @@ export const theNewWorld0325366AMindOfMetal = {
   type: "story-chapter-read",
   slug: "the-new-world-0325-366-a-mind-of-metal",
   title: "366 A Mind of Metal",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 325,
   ownLength: 3554,
   unit: "unit/words",

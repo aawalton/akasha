@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0059Chapter59TermsAndConditi
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0059-chapter-59-terms-and-conditions",
   title: "Chapter 59 – Terms and Conditions",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 59,
   ownLength: 1990,
   unit: "unit/words",

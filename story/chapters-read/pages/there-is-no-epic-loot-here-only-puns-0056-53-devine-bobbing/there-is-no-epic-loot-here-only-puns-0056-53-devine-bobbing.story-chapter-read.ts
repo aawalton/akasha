@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns005653DevineBobbing = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0056-53-devine-bobbing",
   title: "53: Devine Bobbing",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 56,
   ownLength: 4189,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theNewWorld001861FinalFrontier = {
   type: "story-chapter-read",
   slug: "the-new-world-0018-61-final-frontier",
   title: "61 Final Frontier",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 18,
   ownLength: 5451,
   unit: "unit/words",

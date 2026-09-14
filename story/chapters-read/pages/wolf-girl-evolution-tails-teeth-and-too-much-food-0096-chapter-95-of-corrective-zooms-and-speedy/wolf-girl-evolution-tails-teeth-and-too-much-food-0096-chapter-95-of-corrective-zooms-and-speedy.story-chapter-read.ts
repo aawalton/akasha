@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0096Chapter95OfCorrectiveZ
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0096-chapter-95-of-corrective-zooms-and-speedy",
   title: "Chapter 95: Of Corrective Zooms and Speedy Luna Motivations",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 96,
   ownLength: 1943,
   unit: "unit/words",

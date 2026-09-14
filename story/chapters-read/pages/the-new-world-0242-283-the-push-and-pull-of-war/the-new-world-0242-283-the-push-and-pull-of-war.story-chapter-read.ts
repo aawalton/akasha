@@ -5,7 +5,7 @@ export const theNewWorld0242283ThePushAndPullOfWar = {
   type: "story-chapter-read",
   slug: "the-new-world-0242-283-the-push-and-pull-of-war",
   title: "283 The Push and Pull of War",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 242,
   ownLength: 6911,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0123Chapter123TheMostTerrify
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0123-chapter-123-the-most-terrifying-shiny",
   title: "Chapter 123 – The Most Terrifying Shiny",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 123,
   ownLength: 2337,
   unit: "unit/words",

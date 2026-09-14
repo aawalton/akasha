@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0065MapUpdates = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0065-map-updates",
   title: "Map updates.",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 65,
   ownLength: 75,
   unit: "unit/words",

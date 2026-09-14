@@ -5,7 +5,7 @@ export const theRunesmith0014GoodNewsEverybody = {
   type: "story-chapter-read",
   slug: "the-runesmith-0014-good-news-everybody",
   title: "Good News Everybody!",
-  story: "the-runesmith",
+  story: "story-read/the-runesmith",
   position: 14,
   ownLength: 456,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theNewWorld0367407OldTies = {
   type: "story-chapter-read",
   slug: "the-new-world-0367-407-old-ties",
   title: "407 Old Ties",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 367,
   ownLength: 2424,
   unit: "unit/words",

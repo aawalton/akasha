@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0159Chapter159ACrackInTheCag
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0159-chapter-159-a-crack-in-the-cage",
   title: "Chapter 159 – A Crack in the Cage",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 159,
   ownLength: 2154,
   unit: "unit/words",

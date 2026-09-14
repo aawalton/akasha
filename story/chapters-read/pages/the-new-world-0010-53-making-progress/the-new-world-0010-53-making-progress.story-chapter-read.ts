@@ -5,7 +5,7 @@ export const theNewWorld001053MakingProgress = {
   type: "story-chapter-read",
   slug: "the-new-world-0010-53-making-progress",
   title: "53 Making Progress",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 10,
   ownLength: 3957,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0031Chapter100TheDefenseOfAla
   type: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0031-chapter-100-the-defense-of-alastaia-part-iii",
   title: "Chapter 100 - The Defense of Alastaia - Part III",
-  story: "the-stubborn-skill-grinder-in-a-time-loop-book",
+  story: "story-read/the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 31,
   ownLength: 13185,
   unit: "unit/words",

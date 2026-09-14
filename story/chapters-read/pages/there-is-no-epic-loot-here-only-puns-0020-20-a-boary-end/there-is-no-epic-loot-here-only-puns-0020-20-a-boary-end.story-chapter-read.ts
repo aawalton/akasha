@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns002020ABoaryEnd = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0020-20-a-boary-end",
   title: "20: A Boary End",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 20,
   ownLength: 3745,
   unit: "unit/words",

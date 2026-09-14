@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0099Chapter99TheCorruptionCl
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0099-chapter-99-the-corruption-clinic",
   title: "Chapter 99 – The Corruption Clinic",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 99,
   ownLength: 2100,
   unit: "unit/words",

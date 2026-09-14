@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0183164FoodieBeGoodie = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0183-164-foodie-be-goodie",
   title: "164: Foodie Be Goodie",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 183,
   ownLength: 4358,
   unit: "unit/words",

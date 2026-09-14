@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0243220Convergence = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0243-220-convergence",
   title: "220: Convergence",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 243,
   ownLength: 4595,
   unit: "unit/words",

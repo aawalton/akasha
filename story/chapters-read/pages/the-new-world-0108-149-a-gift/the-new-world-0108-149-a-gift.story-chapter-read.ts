@@ -5,7 +5,7 @@ export const theNewWorld0108149AGift = {
   type: "story-chapter-read",
   slug: "the-new-world-0108-149-a-gift",
   title: "149 A Gift",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 108,
   ownLength: 2784,
   unit: "unit/words",

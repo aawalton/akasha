@@ -5,7 +5,7 @@ export const theNewWorld0081RpgAnalysisDaniel2 = {
   type: "story-chapter-read",
   slug: "the-new-world-0081-rpg-analysis-daniel-2",
   title: "RPG-Analysis: Daniel #2",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 81,
   ownLength: 1665,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theNewWorld0373413AParadigmShift = {
   type: "story-chapter-read",
   slug: "the-new-world-0373-413-a-paradigm-shift",
   title: "413 A Paradigm Shift",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 373,
   ownLength: 5127,
   unit: "unit/words",

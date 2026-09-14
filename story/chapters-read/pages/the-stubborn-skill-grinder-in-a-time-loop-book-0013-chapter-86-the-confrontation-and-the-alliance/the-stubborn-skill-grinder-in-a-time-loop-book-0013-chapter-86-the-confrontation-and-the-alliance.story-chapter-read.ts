@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0013Chapter86TheConfrontation
   type: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0013-chapter-86-the-confrontation-and-the-alliance",
   title: "Chapter 86 - The Confrontation & The Alliance",
-  story: "the-stubborn-skill-grinder-in-a-time-loop-book",
+  story: "story-read/the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 13,
   ownLength: 19402,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theNewWorld0281322WhatItSFor = {
   type: "story-chapter-read",
   slug: "the-new-world-0281-322-what-it-s-for",
   title: "322 What It's For",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 281,
   ownLength: 3333,
   unit: "unit/words",

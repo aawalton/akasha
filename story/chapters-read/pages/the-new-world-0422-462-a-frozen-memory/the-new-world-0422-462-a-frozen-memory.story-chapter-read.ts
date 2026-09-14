@@ -5,7 +5,7 @@ export const theNewWorld0422462AFrozenMemory = {
   type: "story-chapter-read",
   slug: "the-new-world-0422-462-a-frozen-memory",
   title: "462 A Frozen Memory",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 422,
   ownLength: 3426,
   unit: "unit/words",

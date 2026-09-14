@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0221199PerfectlyNormalThomasDarkblade 
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0221-199-perfectly-normal-thomas-darkblade",
   title: "199: Perfectly Normal Thomas Darkblade",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 221,
   ownLength: 2944,
   unit: "unit/words",

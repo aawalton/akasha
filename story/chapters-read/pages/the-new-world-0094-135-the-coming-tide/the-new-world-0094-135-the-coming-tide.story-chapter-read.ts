@@ -5,7 +5,7 @@ export const theNewWorld0094135TheComingTide = {
   type: "story-chapter-read",
   slug: "the-new-world-0094-135-the-coming-tide",
   title: "135 The Coming Tide",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 94,
   ownLength: 3413,
   unit: "unit/words",

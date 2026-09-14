@@ -5,7 +5,7 @@ export const theNewWorld0371411CaughtInACycle = {
   type: "story-chapter-read",
   slug: "the-new-world-0371-411-caught-in-a-cycle",
   title: "411 Caught In a Cycle",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 371,
   ownLength: 3265,
   unit: "unit/words",

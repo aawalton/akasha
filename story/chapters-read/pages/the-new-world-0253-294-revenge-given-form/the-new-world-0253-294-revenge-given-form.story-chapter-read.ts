@@ -5,7 +5,7 @@ export const theNewWorld0253294RevengeGivenForm = {
   type: "story-chapter-read",
   slug: "the-new-world-0253-294-revenge-given-form",
   title: "294 Revenge Given Form",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 253,
   ownLength: 4358,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const theNewWorld0340380AChangedAlbony = {
   type: "story-chapter-read",
   slug: "the-new-world-0340-380-a-changed-albony",
   title: "380 A Changed Albony",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 340,
   ownLength: 2036,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0093Chapter92TheBedbugsTha
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0093-chapter-92-the-bedbugs-that-woke-the",
   title: "Chapter 92: : The Bedbugs that Woke the Sleeping Wolf",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 93,
   ownLength: 2067,
   unit: "unit/words",

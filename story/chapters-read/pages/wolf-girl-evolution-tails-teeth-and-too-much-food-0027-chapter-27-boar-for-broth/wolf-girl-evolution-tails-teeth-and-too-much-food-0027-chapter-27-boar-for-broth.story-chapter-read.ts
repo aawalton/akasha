@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0027Chapter27BoarForBroth 
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0027-chapter-27-boar-for-broth",
   title: "Chapter 27: Boar for Broth",
-  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 27,
   ownLength: 1280,
   unit: "unit/words",

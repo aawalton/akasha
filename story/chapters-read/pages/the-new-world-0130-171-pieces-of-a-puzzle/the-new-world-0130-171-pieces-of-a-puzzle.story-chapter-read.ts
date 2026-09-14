@@ -5,7 +5,7 @@ export const theNewWorld0130171PiecesOfAPuzzle = {
   type: "story-chapter-read",
   slug: "the-new-world-0130-171-pieces-of-a-puzzle",
   title: "171 Pieces of a Puzzle",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 130,
   ownLength: 4120,
   unit: "unit/words",

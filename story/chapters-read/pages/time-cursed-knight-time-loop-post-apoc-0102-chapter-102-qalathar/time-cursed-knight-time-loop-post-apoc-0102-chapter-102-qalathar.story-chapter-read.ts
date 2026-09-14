@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0102Chapter102Qalathar = {
   type: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0102-chapter-102-qalathar",
   title: "Chapter 102: Qalathar",
-  story: "time-cursed-knight-time-loop-post-apoc",
+  story: "story-read/time-cursed-knight-time-loop-post-apoc",
   position: 102,
   ownLength: 2707,
   unit: "unit/words",

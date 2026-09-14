@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0154Chapter154CurrentOfPurif
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0154-chapter-154-current-of-purification",
   title: "Chapter 154 – Current of Purification",
-  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 154,
   ownLength: 1962,
   unit: "unit/words",

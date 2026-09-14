@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns00033MushroomFarming = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0003-3-mushroom-farming",
   title: "3: Mushroom Farming",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 3,
   ownLength: 1668,
   unit: "unit/words",

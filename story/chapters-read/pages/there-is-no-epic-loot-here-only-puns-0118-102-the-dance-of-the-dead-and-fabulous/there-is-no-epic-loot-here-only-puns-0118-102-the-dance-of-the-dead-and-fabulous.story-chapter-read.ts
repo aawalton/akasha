@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0118102TheDanceOfTheDeadAndFabulous = 
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0118-102-the-dance-of-the-dead-and-fabulous",
   title: "102: The Dance of the Dead and Fabulous",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 118,
   ownLength: 4807,
   unit: "unit/words",

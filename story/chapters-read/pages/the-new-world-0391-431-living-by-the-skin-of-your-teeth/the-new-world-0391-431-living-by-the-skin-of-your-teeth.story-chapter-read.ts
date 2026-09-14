@@ -5,7 +5,7 @@ export const theNewWorld0391431LivingByTheSkinOfYourTeeth = {
   type: "story-chapter-read",
   slug: "the-new-world-0391-431-living-by-the-skin-of-your-teeth",
   title: "431 Living by the Skin of Your Teeth",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 391,
   ownLength: 4480,
   unit: "unit/words",

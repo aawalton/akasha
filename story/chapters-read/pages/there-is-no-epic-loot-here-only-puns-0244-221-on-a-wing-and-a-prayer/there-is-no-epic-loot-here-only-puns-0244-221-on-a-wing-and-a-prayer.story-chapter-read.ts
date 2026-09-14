@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0244221OnAWingAndAPrayer = {
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0244-221-on-a-wing-and-a-prayer",
   title: "221: On a Wing and a Prayer",
-  story: "there-is-no-epic-loot-here-only-puns",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
   position: 244,
   ownLength: 2981,
   unit: "unit/words",

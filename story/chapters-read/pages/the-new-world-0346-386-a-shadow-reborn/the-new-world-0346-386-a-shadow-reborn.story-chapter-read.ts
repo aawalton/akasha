@@ -5,7 +5,7 @@ export const theNewWorld0346386AShadowReborn = {
   type: "story-chapter-read",
   slug: "the-new-world-0346-386-a-shadow-reborn",
   title: "386 A Shadow, Reborn",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 346,
   ownLength: 2973,
   unit: "unit/words",

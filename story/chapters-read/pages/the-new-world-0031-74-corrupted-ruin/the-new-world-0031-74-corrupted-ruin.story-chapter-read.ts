@@ -5,7 +5,7 @@ export const theNewWorld003174CorruptedRuin = {
   type: "story-chapter-read",
   slug: "the-new-world-0031-74-corrupted-ruin",
   title: "74 Corrupted Ruin",
-  story: "the-new-world",
+  story: "story-read/the-new-world",
   position: 31,
   ownLength: 4920,
   unit: "unit/words",
