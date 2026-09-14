@@ -32,6 +32,7 @@ export const agent = {
     "page-type/role",
     "page-type/subagent",
     "service-workstation/sweep-stray-processes",
+    "service-workstation/sweep-subagent-pages",
   ],
   invariants: [
     {

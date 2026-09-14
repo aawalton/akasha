@@ -231,8 +231,12 @@ export const subagent = {
       statement: "A stopped subagent a live process acts under keeps its page until that ends.",
     },
     {
-      invariantKind: "gap",
-      statement: "No service runs that sweep, so such a page waits on somebody running it.",
+      invariantKind: "departure",
+      statement: "A service runs that sweep on a timer, so such a page waits at most one tick.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stop censuses the page first, and takes it at once where it is already stale.",
     },
     {
       invariantKind: "departure",
