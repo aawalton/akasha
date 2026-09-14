@@ -1,8 +1,9 @@
-import type {
-  ViewConfig,
-  ViewDataJSON,
-  ViewLayout,
-  VisibilityChange,
+import {
+  type ViewConfig,
+  type ViewDataJSON,
+  type ViewLayout,
+  type VisibilityChange,
+  viewConfigToData,
 } from "akasha/pages/core/schema/modules/view-data/view-data.module.code.ts"
 import type { GalleryCardSize } from "akasha/pages/core/view/modules/gallery/gallery.module.code.ts"
 import { reorderVisibleProperties } from "akasha/pages/ui/components/modules/page-table-column-dnd-helpers/page-table-column-dnd-helpers.module.code.ts"
@@ -23,20 +24,7 @@ export function useViewConfigHandlers({
 }: UseViewConfigHandlersArgs) {
   const handleConfigChange = useCallback(
     (config: ViewConfig) => {
-      onUpdateView(viewId, {
-        pageTypeId: viewConfigPageTypeId,
-        filters: config.filters ? [...config.filters] : undefined,
-        sorts: config.sorts ? [...config.sorts] : undefined,
-        group_by: config.groupBy,
-        group_sorts: config.groupSorts ? [...config.groupSorts] : undefined,
-        group_granularity: config.groupGranularity,
-        calendar_date_by: config.calendarDateBy,
-        timeline_start_property: config.timelineStartProperty,
-        timeline_end_property: config.timelineEndProperty,
-        page_size: config.pageSize,
-        group_page_size: config.groupPageSize,
-        item_page_size: config.itemPageSize,
-      })
+      onUpdateView(viewId, { pageTypeId: viewConfigPageTypeId, ...viewConfigToData(config) })
     },
     [onUpdateView, viewId, viewConfigPageTypeId]
   )

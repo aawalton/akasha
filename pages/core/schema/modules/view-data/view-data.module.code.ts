@@ -272,22 +272,6 @@ export function parseViewDataJSON(input: unknown): ParseSuccess | ParseFailure {
   }
 }
 
-export function viewDataToConfig(data: ViewDataJSON): ViewConfig {
-  return {
-    sorts: data.sorts,
-    filters: data.filters,
-    groupBy: data.group_by,
-    groupSorts: data.group_sorts,
-    groupGranularity: data.group_granularity,
-    calendarDateBy: data.calendar_date_by,
-    timelineStartProperty: data.timeline_start_property,
-    timelineEndProperty: data.timeline_end_property,
-    pageSize: data.page_size,
-    groupPageSize: data.group_page_size,
-    itemPageSize: data.item_page_size,
-  }
-}
-
 export function viewConfigToData(config: ViewConfig): Partial<ViewDataJSON> {
   return {
     sorts: config.sorts ? [...config.sorts] : undefined,
