@@ -12,8 +12,6 @@ export type GlobalTable = Record<string, unknown>
 
 export type LuaArray = unknown[]
 
-export type OptionalNumber = number | undefined
-
 export type LdeValueArray = LdeValue[]
 
 export interface TestResult {
