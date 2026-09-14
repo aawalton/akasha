@@ -66,6 +66,10 @@ export const pageProperty = {
       invariantKind: "departure",
       statement: "The two answer to different reaches.",
     },
+    {
+      invariantKind: "absence",
+      statement: "No page property names the type a screen draws that property's value as.",
+    },
   ],
   typeGenerator: "ts",
   types: "ts",
