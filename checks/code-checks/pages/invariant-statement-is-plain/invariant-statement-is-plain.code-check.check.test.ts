@@ -1,45 +1,33 @@
 import { expect, test } from "bun:test"
-import {
-  reasonsIn,
-  reasonsShaped,
-} from "akasha/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.check.code.ts"
+import { invariantStatementIsPlain } from "akasha/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.check.code.ts"
 import { paged } from "akasha/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.decision.test-fixtures.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { arriving } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
-import { bodiesAt } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
-
-const ROOT = "/repo"
 
 const AT = "akasha/held.check.ts"
 
 const REPO_AT = rootOf(import.meta.dir)
 
-const judged = reasonsShaped(REPO_AT, shadowAt(REPO_AT).index)
+const SHADOW = shadowAt(REPO_AT)
 
-const given = bodiesAt(ROOT, AT)
+function judged(path: string, statement: string): Promise<readonly Judged[]> {
+  return invariantStatementIsPlain(arriving(REPO_AT, { [path]: paged(statement) }), SHADOW)
+}
 
-test("the body judged is the one the change carries", () => {
-  const body = paged("A page is named because the slug says so.")
-  expect(reasonsIn(given(body))).toHaveLength(1)
+test("the body judged is the one the change carries", async () => {
+  const said = await judged(AT, "A page is named because the slug says so.")
+  expect(said.map((one) => one.path)).toEqual([AT])
+  expect(said[0]?.reason).toContain("states why at `because`")
 })
 
 test("the shaped reading judges the body the change carries too", async () => {
-  const said = await judged(given(paged("It is read from the index.")))
+  const said = await judged(AT, "It is read from the index.")
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("`lone-pronoun`")
+  expect(said[0]?.reason).toContain("`lone-pronoun`")
 })
 
-test("a file that is not TypeScript is passed over", () => {
-  const held = {
-    root: ROOT,
-    path: "akasha/notes.md",
-    bytes: new TextEncoder().encode(paged("A page is named because it is.")),
-  }
-  expect(reasonsIn(held)).toEqual([])
-})
-
-test("a body that is not text refuses rather than being passed over", () => {
-  const held = { root: ROOT, path: "akasha/raw.ts", bytes: new Uint8Array([0xff, 0xfe, 0x00]) }
-  expect(() => reasonsIn(held)).toThrow("akasha/raw.ts")
-  expect(() => reasonsIn(held)).toThrow("not valid UTF-8")
+test("a file that is not TypeScript is passed over", async () => {
+  expect(await judged("akasha/notes.md", "A page is named because it is.")).toEqual([])
 })
