@@ -29,7 +29,7 @@ const SOURCE = "musicbrainz"
 
 const ARTIST = "artist"
 
-export function artistAddressOf(artistSlug: string): string {
+function artistAddressOf(artistSlug: string): string {
   return `${ARTIST}/${artistSlug}`
 }
 
