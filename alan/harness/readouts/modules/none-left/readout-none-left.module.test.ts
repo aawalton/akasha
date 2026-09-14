@@ -1,8 +1,6 @@
 import { expect, test } from "bun:test"
-import { answering } from "akasha/alan/harness/readouts/modules/answering/readout-answering.module.code.ts"
 import {
   noneLeftIn,
-  readNoneLeft,
   stated,
 } from "akasha/alan/harness/readouts/modules/none-left/readout-none-left.module.code.ts"
 
@@ -35,20 +33,4 @@ test("a page stating both halves carries both", () => {
     words: "All reviewed!",
     emoji: "🎉",
   })
-})
-
-test("the halves a readout page states are read off its row", async () => {
-  const rows = [{ slug: "a-readout", noneLeftWords: "All reviewed!", noneLeftEmoji: "🎉" }]
-  expect(await readNoneLeft("a-readout", answering({ rows }))).toEqual({
-    words: "All reviewed!",
-    emoji: "🎉",
-  })
-})
-
-test("a readout no page names carries neither half", async () => {
-  expect(await readNoneLeft("no-readout-is-named-this", answering({ rows: [] }))).toEqual({})
-})
-
-test("a store that answers nothing carries neither half", async () => {
-  expect(await readNoneLeft("a-readout", answering({ refused: "no" }))).toEqual({})
 })

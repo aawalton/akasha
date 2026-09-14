@@ -1,10 +1,3 @@
-import {
-  askingFor,
-  type Fetcher,
-} from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
-
-const READOUT = "readout"
-
 export type NoneLeft = {
   readonly words?: string
   readonly emoji?: string
@@ -23,16 +16,4 @@ export function noneLeftIn(values: Readonly<Record<string, unknown>>): NoneLeft 
     ...(words === undefined ? {} : { words }),
     ...(emoji === undefined ? {} : { emoji }),
   }
-}
-
-export async function readNoneLeft(readoutSlug: string, fetcher?: Fetcher): Promise<NoneLeft> {
-  const asked = await askingFor(
-    { pageTypeSlug: READOUT, where: { slug: { is: readoutSlug } } },
-    fetcher
-  )
-  if ("refused" in asked) return {}
-
-  const [row] = asked.rows
-  if (row === undefined) return {}
-  return noneLeftIn(row)
 }

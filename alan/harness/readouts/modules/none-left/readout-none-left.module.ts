@@ -21,14 +21,6 @@ export const readoutNoneLeft = {
       statement: "A half is carried with the spaces around the half trimmed off.",
     },
     {
-      invariantKind: "departure",
-      statement: "A readout no page names has neither half.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A store that answers nothing has neither half.",
-    },
-    {
       invariantKind: "absence",
       statement: "Nothing here decides when nothing is left.",
     },
