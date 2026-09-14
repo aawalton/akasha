@@ -4,7 +4,7 @@ export const aRepeatRunEndsTheSameWayWhetherTheChangeHadNothingLeftOrABatchWasRe
   id: "01a0961e-eeca-73e8-a979-d0db0198aa76",
   type: "finding",
   slug: "a-repeat-run-ends-the-same-way-whether-the-change-had-nothing-left-or-a-batch-was-refused",
-  domain: "domain/change",
+  domain: "page-type/change",
   claim:
     "A repeat run ends when a batch lands no commit, and a batch lands no commit both when the change has nothing left to act on and when a check refused that batch, so a run stopped part way through its work answers as a run that finished its work.",
   evidence:

@@ -4,7 +4,7 @@ export const aChangeToAGeneratorCannotLandBesideTheFileThatGeneratorWrites = {
   id: "01a08dfd-2a4d-798e-a026-98515dd78249",
   type: "finding",
   slug: "a-change-to-a-generator-cannot-land-beside-the-file-that-generator-writes",
-  domain: "domain/change",
+  domain: "page-type/change",
   claim:
     "A landing runs a page type's type generator off the checkout, so a change writing that generator's own code composes from the code as committed rather than from the code the change leaves. `generatingIn` in `pages/types/modules/type-generating/type-generating.module.code.ts` loads the generator with `createRequire` off `change.root`, and `turnsFor` reads the committed index, so the written type lands one commit behind its generator and a check proving the two match refuses the landing that would mend them. `group-writing` had the same shape and no longer has it. A second, narrower half is that `withheld` in `changes/modules/shadow/change-shadow.module.code.ts` holds back only a `replace` or an `append`, so an `add` onto a path a machine writes is kept and lands, and nothing says the machine will write over it.",
   evidence:

@@ -4,7 +4,7 @@ export const change = {
   id: "01a05df1-e261-76a1-ad1e-0db3d857450e",
   type: "page-type",
   slug: "change",
-  definition: "a mechanical change whose bodies are answered rather than written",
+  definition: "one change to the repository, reached by name",
   pluralSlug: "changes",
   extends: ["page-type/module"],
   parts: [
@@ -118,6 +118,33 @@ export const change = {
     {
       invariantKind: "departure",
       statement: "That subtype is judged before the change runs rather than inside the change.",
+    },
+    {
+      invariantKind: "upkeep",
+      statement: "Every target type, subtype and mode that together make sense has a change.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Where the pages of a page type sit is no concern of that page type, so no change carries them.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "One root manifest is the only manifest, so no change adds a manifest or a way into one.",
+    },
+  ],
+  directives: [
+    {
+      directiveKind: "rule",
+      name: "Correctness In The Writer",
+      act: "Build into a mechanical writer every truth a check would have caught.",
+      warrant:
+        "A mechanical change runs no check, so a wrong value it writes lands silently and stays.",
+      aids: [
+        "Reaching the change system is not being judged.",
+        "A check that exists refuses nothing a mechanical change writes.",
+      ],
     },
   ],
   types: "ts",

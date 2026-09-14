@@ -4,7 +4,7 @@ export const moveCodeExportCarriesTheImportsADeclarationNamesAndNotTheSiblingsIt
   id: "01a08cbf-bb93-7c32-b7ca-04142ca15a28",
   type: "finding",
   slug: "move-code-export-carries-the-imports-a-declaration-names-and-not-the-siblings-it-names",
-  domain: "domain/change",
+  domain: "page-type/change",
   claim:
     "`move-code-export` carries the imports a moved declaration names and says nothing about the declarations beside it in the body it left. A moved export reaching a sibling lands naming a symbol nothing declares, and the act reports the move as done. Separately, an export whose move would take a `type` member out of a mixed import is refused with `holds no such passage`, which names the source body rather than the import the act could not rewrite.",
   evidence:

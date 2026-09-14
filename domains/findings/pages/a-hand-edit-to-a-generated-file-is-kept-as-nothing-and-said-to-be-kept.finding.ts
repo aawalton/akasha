@@ -4,7 +4,7 @@ export const aHandEditToAGeneratedFileIsKeptAsNothingAndSaidToBeKept = {
   id: "01a08a3f-4c21-7b64-9f2e-6d3a5c81e7b0",
   type: "finding",
   slug: "a-hand-edit-to-a-generated-file-is-kept-as-nothing-and-said-to-be-kept",
-  domain: "domain/change",
+  domain: "page-type/change",
   claim:
     "A `change-file` naming a generated file keeps no edit and answers as though it kept one. The call exits nought, prints the line that says the edits are kept, and prints no path. `akasha change list` afterwards shows nothing for that path. Nothing tells the caller the edit was refused or why.",
   evidence:

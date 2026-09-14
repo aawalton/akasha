@@ -4,7 +4,7 @@ export const aRouteFileCannotBeWrittenUntilItsAppHasBeenBuiltOnce = {
   id: "01a06c31-1b01-7000-b602-000000000003",
   type: "finding",
   slug: "a-route-file-cannot-be-written-until-its-app-has-been-built-once",
-  domain: "domain/change",
+  domain: "page-type/change",
   claim:
     "A route file importing its generated types cannot be written at all until that app has been built in this checkout, because the guard reading its imports looks for typegen output that the commit does not carry. Three apps have never been built here, so every route file in them is unwritable.",
   evidence:

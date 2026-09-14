@@ -4,7 +4,7 @@ export const anApplyFoldingSeveralEditsOntoOnePageRefusedWhereEachEditLandedAlon
   id: "01a09153-23d4-7a60-9eb3-c2780ef509ef",
   type: "finding",
   slug: "an-apply-folding-several-edits-onto-one-page-refused-where-each-edit-landed-alone",
-  domain: "domain/change",
+  domain: "page-type/change",
   claim:
     "An apply folding several edits onto one page refused over a missing unique, and every one of those edits landed on its own.",
   evidence:

@@ -4,7 +4,7 @@ export const theActMovingARecordIntoPlaceIsBuiltAndReachedByNothing = {
   id: "01a09522-2f78-79d4-a9c9-1b03d84eab85",
   type: "finding",
   slug: "the-act-moving-a-record-into-place-is-built-and-reached-by-nothing",
-  domain: "domain/change",
+  domain: "page-type/change",
   claim:
     "`change-mechanical-file-content/move-property-value` carries one value to another place in a list, whether that value is text or a record, naming it by a field it states and naming where it goes by the value already holding that place. No change agent reaches it, so no agent can call it. An agent putting a record anywhere but last therefore takes every record below the place out and puts them all back, at one act each way.",
   evidence:

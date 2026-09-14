@@ -4,7 +4,7 @@ export const aRecordFieldHoldingABooleanIsRestatedByNoChange = {
   id: "01a08e5d-97cf-7095-b986-175cdb4dd75b",
   type: "finding",
   slug: "a-record-field-holding-a-boolean-is-restated-by-no-change",
-  domain: "domain/change",
+  domain: "page-type/change",
   claim:
     "`change-mechanical-file-content/change-property-record-field` reaches a field holding text and no other field, so a record field holding a boolean or a number is restated by no mechanical change. A page type's declaration list is records of exactly that shape: `required`, `many`, `secret` and `uncommitted` all hold booleans, and `maxCount` and `maxLength` hold numbers. Narrowing a declaration from optional to required is therefore done by `change-agent/change-file` over the whole line, which is an authored passage rather than a field named by key, and which a second agent's reformatting of that line breaks.",
   evidence:

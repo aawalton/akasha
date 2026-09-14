@@ -4,7 +4,7 @@ export const aFolderMoveRewritesATestFixtureLiteralThatNamesARealPath = {
   id: "01a092e1-8c1c-758d-a953-aa238b449db3",
   type: "finding",
   slug: "a-folder-move-rewrites-a-test-fixture-literal-that-names-a-real-path",
-  domain: "domain/change",
+  domain: "page-type/change",
   claim:
     "A mechanical folder move rewrites a test fixture's example literal wherever that literal names a real package or path, and leaves the invented literals beside it alone, so the test reads a rewritten example against an untouched one and fails.",
   evidence:

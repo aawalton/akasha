@@ -4,7 +4,7 @@ export const aHandedOverEditIsFoldedIntoTheNextApplyRatherThanWaitingToBeTaken =
   id: "01a08df1-4203-71ef-9f1f-9948e896c86c",
   type: "finding",
   slug: "a-handed-over-edit-is-folded-into-the-next-apply-rather-than-waiting-to-be-taken",
-  domain: "domain/change",
+  domain: "page-type/change",
   claim:
     "An edit a finished subagent hands over is folded into the next apply any agent under that seat makes, so a landing carries files nobody meant it to carry, under a message describing something else.",
   evidence:

@@ -4,7 +4,7 @@ export const aChangeRunsOnlyTheTestsBesideTheFilesItCarriesSoASharedFixtureGoesS
   id: "01a0963a-2ac2-7547-b518-2352c5be9c90",
   type: "finding",
   slug: "a-change-runs-only-the-tests-beside-the-files-it-carries-so-a-shared-fixture-goes-stale-unseen",
-  domain: "domain/change",
+  domain: "page-type/change",
   claim:
     "`akasha change apply` runs the tests beside the files a change carries, and no others. A test fixture is imported by tests outside its own folder, so a change that moves what a fixture writes lands green while every test importing that fixture goes red, and nothing says so. The deploy is the only backstop, because it judges every changed file between its last success and HEAD rather than the files one change carries. That makes the gap show up hours later, in someone else's run, over a range holding many agents' commits — so the agent who is there reasons from their own recent changes and names the wrong cause. The cost is not the red tests, which are quick to mend once seen. It is that the signal arrives detached from the change that caused it.",
   evidence:

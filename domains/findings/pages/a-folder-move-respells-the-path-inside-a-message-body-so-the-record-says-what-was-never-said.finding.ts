@@ -4,7 +4,7 @@ export const aFolderMoveRespellsThePathInsideAMessageBodySoTheRecordSaysWhatWasN
   id: "01a095e9-b047-7ef0-991d-4ac9167cd5a9",
   type: "finding",
   slug: "a-folder-move-respells-the-path-inside-a-message-body-so-the-record-says-what-was-never-said",
-  domain: "domain/change",
+  domain: "page-type/change",
   claim:
     "A folder move respells the path inside a message's body, so a record of what an audit said becomes a record of what the audit never said.",
   evidence:

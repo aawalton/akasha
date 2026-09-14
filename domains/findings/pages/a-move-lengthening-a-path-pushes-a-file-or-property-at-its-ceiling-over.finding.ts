@@ -4,7 +4,7 @@ export const aMoveLengtheningAPathPushesAFileOrPropertyAtItsCeilingOver = {
   id: "01a09825-4801-78a3-b76d-c06947c7c613",
   type: "finding",
   slug: "a-move-lengthening-a-path-pushes-a-file-or-property-at-its-ceiling-over",
-  domain: "domain/change",
+  domain: "page-type/change",
   claim:
     "A folder move respells every path naming what moved, in prose as well as in code, and a longer path lengthens the file and the property holding it. A file at its byte ceiling or a text property at its character ceiling is then pushed over by a change that moved none of that page's own folders. The refusal names a page the change never meant to touch, and nothing looks ahead for it, so the cost shows only once the whole batch is refused.",
   evidence:

@@ -8,7 +8,6 @@ export const akasha = {
   parts: [
     "domain/agent",
     "domain/alan",
-    "domain/change",
     "domain/check",
     "domain/code",
     "domain/design",
@@ -28,6 +27,7 @@ export const akasha = {
     "domain/type",
     "domain/utils",
     "domain/verdict",
+    "page-type/change",
     "page-type/command",
     "page-type/person",
     "workspace/akasha-workspace",

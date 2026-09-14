@@ -4,7 +4,7 @@ export const aMechanicalRenameSweptATrueSentenceOntoACommandThatLandsNothing = {
   id: "01a095f5-1011-7b5c-ba8d-763bbeb1ba29",
   type: "finding",
   slug: "a-mechanical-rename-swept-a-true-sentence-onto-a-command-that-lands-nothing",
-  domain: "domain/change",
+  domain: "page-type/change",
   claim:
     "A mechanical rename over refusal prose lands claims nothing judges. One sweep on 2026-09-08 repointed ten hook files from the pre-split `akasha change`, which landed and ran the checks, onto `akasha change draft`, which lands nothing and runs none. Seven passages were rewritten across five hooks; three were false at the keystroke rather than stale later, a sentence true of the command that landed reattached to the one that keeps edits. Each was then pinned by a test asserting the new wrong string by name, so the test preserved the fault and read as coverage for four days. Prose is the part of a refusal no check reaches: the typecheck and the linter see a string literal, and the test sees the string it was told to expect. Renaming a command inside prose rewrites claims about what that command does, and each has to be re-read against that command's own page. Build no gate: nobody can check prose for truth.",
   evidence:

@@ -4,7 +4,7 @@ export const aPageRemovalIsRefusedByTheFolderShapeCheckOverAFolderItEmpties = {
   id: "01a09cc3-9ef2-7266-b192-e4b542f312cc",
   type: "finding",
   slug: "a-page-removal-is-refused-by-the-folder-shape-check-over-a-folder-it-empties",
-  domain: "domain/change",
+  domain: "page-type/change",
   claim:
     "`remove-page` can be refused by `folder-matches-a-shape` over the very folder its own answer empties, saying that folder holds no page of its own. The same act had landed six page removals of the same shape that day. `remove-property-value` on the parent's `parts` beside a bare `remove-folder` landed what `remove-page` would not, so the work is reachable by another route and the refusal is in the reading of the folder rather than in the edits.",
   evidence:

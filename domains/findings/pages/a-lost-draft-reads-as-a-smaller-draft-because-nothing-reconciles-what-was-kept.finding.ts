@@ -4,7 +4,7 @@ export const aLostDraftReadsAsASmallerDraftBecauseNothingReconcilesWhatWasKept =
   id: "01a09b69-7611-7871-8ec4-a091c85474cb",
   type: "finding",
   slug: "a-lost-draft-reads-as-a-smaller-draft-because-nothing-reconciles-what-was-kept",
-  domain: "domain/change",
+  domain: "page-type/change",
   claim:
     "An edit drafted against an agent page that moves mid-session is written beside the page's old path and is then invisible: `akasha change list` answers a smaller number, exits nought and refuses nothing, so a lost edit reads exactly like having drafted fewer. Every call resolves the sidecar afresh through the index, and `keptEdits` remakes whatever folder that names, so a draft whose page moved a second earlier reads an empty prior fold and appends alone at the vacated path. Nothing compares what one call was told it kept against what the next call finds. The same silence covers the clear after a landing: `droppedFirst` returns without a word where the lines it goes to drop are not the lines it finds, so edits that did land stay listed. Three agents hit this on 2026-09-13. Three stranded sidecars sit at the vacated path, one row each, each written a second after its own page's move commit.",
   evidence:

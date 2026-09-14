@@ -4,7 +4,7 @@ export const nothingInAMoveExcludesAGeneratedBodyAndTheGuardThatRefusedOneIsGone
   id: "01a0961d-8bc0-7c9c-8033-970dd743b1e4",
   type: "finding",
   slug: "nothing-in-a-move-excludes-a-generated-body-and-the-guard-that-refused-one-is-gone",
-  domain: "domain/change",
+  domain: "page-type/change",
   claim:
     "Three facts about a move and a generated body, each checked on its own. `changeImports` carries no exclusion for a `.types.ts`. The guard `generated-file-not-written` was taken away on 2026-09-10, and the only page still naming it is a finding that describes it in the present tense. `move-folder` states as an invariant that a generated body importing what moved is written by the generator, and yet a drafted move repointed one itself. What repoints a generated body in a move is not settled, and the page a reader would go to for the answer names a guard that is no longer there.",
   evidence:

@@ -4,7 +4,7 @@ export const nothingRecordsWhatALandingWasComposedAgainst = {
   id: "01a0950d-13fb-73b1-9a9c-fb993346f20f",
   type: "finding",
   slug: "nothing-records-what-a-landing-was-composed-against",
-  domain: "domain/change",
+  domain: "page-type/change",
   claim:
     "The kept edits a landing folds are swept the moment that landing commits, and nothing keeps the agent, the paths, or the commit those rows were composed against, so a landing that silently reverted another can be worked out only by inference.",
   evidence:

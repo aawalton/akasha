@@ -4,7 +4,7 @@ export const theEngineRemovesAnEmptiedFolderAndRefusesTheAgentWhoAsksItTo = {
   id: "01a088a0-1c83-735f-9e38-b9a33b06a767",
   type: "finding",
   slug: "the-engine-removes-an-emptied-folder-and-refuses-the-agent-who-asks-it-to",
-  domain: "domain/change",
+  domain: "page-type/change",
   claim:
     "An apply removes a folder its own moves emptied, without being asked. An agent who drafts `remove-folder` on that folder in the same fold is refused, and the refusal reads as a conflict between two edits rather than as `you need not ask for this`. The whole fold is undone, so the moves are lost with the removal. Nothing states anywhere that the removal is automatic, so the reading an agent most easily takes from the refusal is that the two acts need a different ordering, and the repair it invites is to try that ordering rather than to drop the removal.",
   evidence:

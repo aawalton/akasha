@@ -4,7 +4,7 @@ export const aFolderMoveStopsTheServiceWhosePageSpellsTheMovedPath = {
   id: "01a08891-8127-7ec7-8493-3865b3f89f0e",
   type: "finding",
   slug: "a-folder-move-stops-the-service-whose-page-spells-the-moved-path",
-  domain: "domain/change",
+  domain: "page-type/change",
   claim:
     "A `workstation-service` page's `runs` value spells its module's path as data. `move-folder` repoints imports and leaves that value; the systemd unit is rendered from it and nothing a move does rewrites the unit. So a folder move lands green, and the service it names crash-loops from its next restart until someone reinstalls the unit by hand. Today `temper/temper-watcher` moving to `temper/watcher` stopped the temper watcher for fourteen minutes, and `service-system` moving to `services` the day before had already stopped `service-watching`, the service that tells a persona a service is broken, for twenty-five hours: the alarm for this fault is the first thing this fault silences. Six more service pages were stale the same way, three of them running old code held in memory and one restart from dying.",
   evidence:

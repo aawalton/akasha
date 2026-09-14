@@ -4,7 +4,7 @@ export const aFoldLeavesAPackageSpecifierSpelledAsDataAndNothingJudgesIt = {
   id: "01a08908-45b6-7950-95db-0daed0db41c3",
   type: "finding",
   slug: "a-fold-leaves-a-package-specifier-spelled-as-data-and-nothing-judges-it",
-  domain: "domain/change",
+  domain: "page-type/change",
   claim:
     "A fold rewrites the TypeScript specifiers naming the package it folds away, and leaves untouched every specifier spelled as data in a file the rewriter never parses. Nothing judges those. `d63348fafea` folded `testing-system` into the root, took `@akasha/testing-system` out of the dependency list of both web packages, and left both `bunfig.toml` preloads still naming it. A preload that does not resolve ends the run before any test file loads, so it reads as every test in the package failing rather than as a missing module at one call site. An unrelated landing in `temper/` being refused is what surfaced it. The same shape had already shipped four times over two earlier folds, in shell scripts reaching a module through `bun -e`.",
   evidence:

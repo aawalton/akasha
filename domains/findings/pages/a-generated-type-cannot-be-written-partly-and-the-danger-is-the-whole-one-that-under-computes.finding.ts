@@ -4,7 +4,7 @@ export const aGeneratedTypeCannotBeWrittenPartlyAndTheDangerIsTheWholeOneThatUnd
   id: "01a09669-46f6-7158-bf2f-868751228e96",
   type: "finding",
   slug: "a-generated-type-cannot-be-written-partly-and-the-danger-is-the-whole-one-that-under-computes",
-  domain: "domain/change",
+  domain: "page-type/change",
   claim:
     "A page type's type generator cannot write a partial file. `Generating` answers `readonly Adding[]`, every generator joins one whole string per file, none imports `node:fs`, a throw discards the whole array including entries already pushed, and the commit blob comes from the in-memory map, not the working tree. An atomic rename would protect nothing. The danger is the opposite shape: a file whole, valid and quietly short. It happened three times to one address map under the generator's predecessor, once losing every declaration and once staying short for 2,075 commits, two of the three under landings that ran no check. Today's generator does not reproduce it, because `change.after` falls back to the base commit. What remains is a shape, not a defect: each generator skips what it cannot resolve with a bare `continue` and no prose, and the typecheck that would name a lost declaration does not run on a `change-mechanical` or `change-none` landing, where the generator still writes.",
   evidence:

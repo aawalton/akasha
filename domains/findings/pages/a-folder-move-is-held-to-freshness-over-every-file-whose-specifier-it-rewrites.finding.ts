@@ -4,7 +4,7 @@ export const aFolderMoveIsHeldToFreshnessOverEveryFileWhoseSpecifierItRewrites =
   id: "01a08cc4-bff7-7cbb-845a-3bf9519bba32",
   type: "finding",
   slug: "a-folder-move-is-held-to-freshness-over-every-file-whose-specifier-it-rewrites",
-  domain: "domain/change",
+  domain: "page-type/change",
   claim:
     "A folder move rewrites the import specifier in every file reaching into that folder, so the bodies it reads are spread over the tree rather than gathered in the folder. Every one of those reads is held to freshness at the apply, and one landing by any other seat inside the window refuses the whole change. A wide move is therefore held back by how much of the tree it has read rather than by how long it takes, and it lands or is refused on whether another seat happened to touch one of those files in the minute the apply took.",
   evidence:

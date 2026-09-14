@@ -4,7 +4,7 @@ export const takingAFilePropertyValueOffAPageLeavesItsFileBehind = {
   id: "01a08775-2220-76c0-a026-1efb9b2e4895",
   type: "finding",
   slug: "taking-a-file-property-value-off-a-page-leaves-its-file-behind",
-  domain: "domain/change",
+  domain: "page-type/change",
   claim:
     "`remove-property-value` edits a page's body and nothing else. Where the property named is a file property, the file that value named is left in the folder, claimed by no page. Taking the `test` value off the media page module left `media-page.module.test.ts` beside the page, and a second landing with `remove-file` was needed to take it away. No check refused the first landing: `file-has-its-page` judges only what a change has, and the change had the page rather than the file left behind.",
   evidence:

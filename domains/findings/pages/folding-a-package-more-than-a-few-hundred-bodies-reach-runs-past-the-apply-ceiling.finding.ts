@@ -4,7 +4,7 @@ export const foldingAPackageMoreThanAFewHundredBodiesReachRunsPastTheApplyCeilin
   id: "01a088aa-70c3-7546-9642-ed970139de37",
   type: "finding",
   slug: "folding-a-package-more-than-a-few-hundred-bodies-reach-runs-past-the-apply-ceiling",
-  domain: "domain/change",
+  domain: "page-type/change",
   claim:
     "A package too many bodies reach cannot be folded into the root, because the one landing that respells every body runs past the ceiling `akasha change apply` allows.",
   evidence:

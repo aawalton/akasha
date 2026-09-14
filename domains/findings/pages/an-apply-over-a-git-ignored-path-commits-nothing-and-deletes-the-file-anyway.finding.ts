@@ -4,7 +4,7 @@ export const anApplyOverAGitIgnoredPathCommitsNothingAndDeletesTheFileAnyway = {
   id: "01a09cc4-3fcd-7d79-8603-a19fab22a021",
   type: "finding",
   slug: "an-apply-over-a-git-ignored-path-commits-nothing-and-deletes-the-file-anyway",
-  domain: "domain/change",
+  domain: "page-type/change",
   claim:
     "An apply whose every edit names a path git ignores makes no commit and takes the file off the disk all the same. The answer says nothing was committed, which reads as nothing having happened, and the repository's history records the write nowhere. An agent reading that answer, or anyone reading the log after, has no way to learn from either that a file went.",
   evidence:

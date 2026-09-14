@@ -4,7 +4,7 @@ export const aDraftClaimsNoTextSoAChangeOverManyFilesLandsOnlyByBeingFast = {
   id: "01a08cd0-659e-7a7e-a8ce-218b40e16d38",
   type: "finding",
   slug: "a-draft-claims-no-text-so-a-change-over-many-files-lands-only-by-being-fast",
-  domain: "domain/change",
+  domain: "page-type/change",
   claim:
     "A landing lock admits one apply at a time, so applies are ordered. Nothing reserves the bodies a draft read, so a draft is refused where any other landing touches one file the draft carries. The wider the change the likelier that is, and a mechanical repoint is the widest change there is: it rewrites the import line of every importer and lands whole or not at all. A repoint over 6854 module pages was refused five times in a row on that alone, each refusal arriving in seconds against a repository where a dozen seats land continuously. It landed on the sixth attempt, and only because a peer seat stopped ten of its own agents by hand. A change that cannot reserve its text can win only by being faster than the tree moves, which is luck rather than mechanism.",
   evidence:
