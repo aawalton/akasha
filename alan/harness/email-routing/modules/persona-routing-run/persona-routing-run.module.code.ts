@@ -39,7 +39,7 @@ export async function reconciledOver(
   return plan
 }
 
-export function reachingZone(token: string, zoneId: string): Reaching {
+function reachingZone(token: string, zoneId: string): Reaching {
   return {
     rules: () => rulesIn(token, zoneId),
     write: (rule) => writeRule(token, zoneId, rule),
