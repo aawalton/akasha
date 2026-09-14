@@ -141,7 +141,14 @@ function refusalsFor(every: readonly Found[]): readonly string[] {
   return said
 }
 
+const LINE_OPENED = "//"
+
+function couldOpenOne(text: string): boolean {
+  return text.includes(LINE_OPENED) || text.includes(OPENED)
+}
+
 export function found(path: string, text: string): readonly string[] {
+  if (!couldOpenOne(text)) return []
   if (styleNamed(path)) return refusalsFor(styleCommentsIn(text))
   return refusalsFor(commentsIn(path, text))
 }
