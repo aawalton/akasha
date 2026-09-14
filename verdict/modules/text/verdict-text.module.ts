@@ -4,21 +4,12 @@ export const verdictText = {
   id: "01a05c87-a162-7009-8991-e7d36b476492",
   type: "module",
   slug: "verdict-text",
-  definition: "a judgement written out for a person to read",
+  definition: "what a judgement covered, written out for a person to read",
   code: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A reach nothing declared reads as unmeasured.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A reach with nothing unexaminable reads as a bare count.",
-    },
-
-    {
-      invariantKind: "departure",
-      statement: "A judgement of a kind this build cannot read is written out as unreadable.",
+      statement: "A coverage with no denominator says the denominator was not computed.",
     },
   ],
 } as const satisfies Module
