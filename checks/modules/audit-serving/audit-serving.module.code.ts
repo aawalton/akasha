@@ -44,6 +44,7 @@ import { textOnDisk } from "akasha/utils/fs/modules/text-on-disk/text-on-disk.mo
 import { requireEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 import { endingOf, spawnedHere } from "akasha/utils/run/modules/running/running.module.code.ts"
+import { waitedForRoom } from "akasha/utils/system/modules/landing-admission/landing-admission.module.code.ts"
 import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
 
 const TURNS = ".local/state/workstation-services/audit-turns"
@@ -171,6 +172,11 @@ export const spawning: Running = async (one) => {
   }
 }
 
+export const gated: Running = async (one, change) => {
+  await waitedForRoom(AUDIT)
+  return await spawning(one, change)
+}
+
 export const sending: Sent = async (to, body) => {
   const wrote = await writeMessage({ to, from: FROM, warrant: "announce", body })
   return wrote.kind === "refused" ? wrote.detail : null
@@ -252,7 +258,7 @@ export function keyFor(given: Asking): string {
 }
 
 async function ranFor(given: Asking): Promise<Ran> {
-  const run = given.run ?? spawning
+  const run = given.run ?? gated
   const slug = given.check.slug
   const answered = async (): Promise<Verdict | null> => {
     const verdicts = verdictsRead(given.home)

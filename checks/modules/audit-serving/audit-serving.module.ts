@@ -240,5 +240,10 @@ export const auditServing = {
       invariantKind: "departure",
       statement: "A verdict that refused is carried forward as a verdict that refuses.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A check's audit waits for the memory a landing starts on before its process opens.",
+    },
   ],
 } as const satisfies Module
