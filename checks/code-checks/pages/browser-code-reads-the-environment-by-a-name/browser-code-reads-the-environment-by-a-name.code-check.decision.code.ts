@@ -273,8 +273,14 @@ function reasonsIn(
 }
 
 export function refusalsOver(paths: readonly string[], asking: Asking): readonly Judged[] {
-  const every = new Set(asking.everyPath())
-  const known = (at: string): boolean => every.has(at)
+  const there = new Map<string, boolean>()
+  const known = (at: string): boolean => {
+    const found = there.get(at)
+    if (found !== undefined) return found
+    const made = asking.textAt(at) !== null
+    there.set(at, made)
+    return made
+  }
   const held = new Map<string, boolean>()
   const reaches = (at: string): boolean => {
     const found = held.get(at)
