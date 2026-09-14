@@ -69,7 +69,6 @@ export const temperBuildDeployChecks = {
     "module/eso-base-game-string-ids-35",
     "module/eso-base-game-string-ids-36",
     "module/eso-base-game-string-ids-37",
-    "module/eso-clone-artifacts",
     "module/eso-doc-api-version",
     "module/eso-sandbox-globals",
     "module/eso-sandbox-manifest",
