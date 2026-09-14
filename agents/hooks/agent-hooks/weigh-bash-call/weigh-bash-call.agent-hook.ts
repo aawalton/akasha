@@ -50,10 +50,6 @@ export const weighBashCall = {
     },
     {
       invariantKind: "departure",
-      statement: "A file a line opens is filed in the path index before the shell reaches it.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The fill is judged by the whole line rather than by the line's opening.",
     },
     {

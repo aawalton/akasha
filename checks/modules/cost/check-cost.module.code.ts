@@ -2,7 +2,6 @@ import { Buffer } from "node:buffer"
 import { appendFileSync, existsSync, readdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { exclusively } from "akasha/files/modules/exclusive/exclusive.module.code.ts"
-import { partFiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import { ENTRY_CEILING } from "akasha/pages/modules/entry-ceiling/entry-ceiling.module.code.ts"
 import { uncommittedPartAt } from "akasha/pages/modules/file-parts/page-file-parts.module.code.ts"
 import { sizeOnDisk } from "akasha/utils/fs/modules/file-size/file-size.module.code.ts"
@@ -288,14 +287,12 @@ function partAt(page: string, under: string, part: number): string | null {
   return uncommittedPartAt(page, under, HELD, part)
 }
 
-export type Filling = { readonly at: string; readonly opened: boolean }
-
 export function fillingAt(
   root: string,
   page: string,
   adding: number,
   under: string = ENTRIES
-): Filling | null {
+): string | null {
   let part = FIRST_PART
   let found = partAt(page, under, part)
   if (found === null) return null
@@ -306,12 +303,8 @@ export function fillingAt(
     found = next
   }
   const size = sizeOnDisk(join(root, found))
-  if (size === 0) return { at: found, opened: true }
-  if (size + adding <= ENTRY_CEILING) {
-    return { at: found, opened: false }
-  }
-  const next = partAt(page, under, part + 1)
-  return next === null ? { at: found, opened: false } : { at: next, opened: true }
+  if (size === 0 || size + adding <= ENTRY_CEILING) return found
+  return partAt(page, under, part + 1) ?? found
 }
 
 export function costRecorded(
@@ -335,11 +328,10 @@ const NAMES_NO_PAGE = "names no page, so what a run cost is recorded nowhere"
 const TURN_MS = 5_000
 
 function appendedIn(root: string, page: string, line: string, under: string): string | null {
-  const filling = fillingAt(root, page, Buffer.byteLength(line, "utf8"), under)
-  if (filling === null) return null
-  appendFileSync(join(root, filling.at), line)
-  if (filling.opened) partFiled(root, page, filling.at)
-  return filling.at
+  const at = fillingAt(root, page, Buffer.byteLength(line, "utf8"), under)
+  if (at === null) return null
+  appendFileSync(join(root, at), line)
+  return at
 }
 
 export function recorded(root: string, page: string, line: string, under: string): string | null {

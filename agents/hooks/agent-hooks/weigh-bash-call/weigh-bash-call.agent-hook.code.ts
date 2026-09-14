@@ -13,7 +13,6 @@ import { seatPageAt } from "akasha/agents/modules/page-reading/agent-page-readin
 import { fillingAt } from "akasha/checks/modules/cost/check-cost.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { partFiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { pidAliveOrAssumeAlive } from "akasha/utils/process/modules/pid-signal/pid-signal.module.code.ts"
 
@@ -127,10 +126,9 @@ export function answerFor(payload: Record<string, unknown>, root: string): Answe
   const head = headFor(Bun.randomUUIDv7(), new Date().toISOString(), command)
   const filling = fillingAt(root, page, lineHolds(head))
   if (filling === null) return LET_THROUGH
-  if (filling.opened) partFiled(root, page, filling.at)
   return rewriting(event, {
     ...held,
-    [COMMAND]: wrappedFor(script, join(root, filling.at), head, command),
+    [COMMAND]: wrappedFor(script, join(root, filling), head, command),
   })
 }
 
