@@ -31,7 +31,6 @@ export const components = {
     "module/formula-property-badge",
     "module/gallery-options-picker",
     "module/group-by-picker",
-    "module/instant-property-badge",
     "module/json-property-badge",
     "module/local-position-port",
     "module/markdown-property-badge",

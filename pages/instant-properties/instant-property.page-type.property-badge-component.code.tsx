@@ -89,12 +89,7 @@ function InstantPopoverBadge({
   )
 }
 
-export function InstantPropertyBadge({
-  property,
-  value,
-  editable,
-  onPropertyChange,
-}: PropertyBadgeProps) {
+export function Drawing({ property, value, editable, onPropertyChange }: PropertyBadgeProps) {
   const accentVariant: BadgeVariant = property.accent ? "accent" : "elevation-muted"
   const variant = resolveBadgeVariant(property, value) ?? accentVariant
   const format = getInstantFormat(property)

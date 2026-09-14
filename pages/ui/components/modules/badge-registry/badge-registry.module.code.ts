@@ -3,7 +3,7 @@ import { ActionButtonPropertyBadge } from "akasha/pages/ui/components/modules/ac
 import { AggregatePropertyBadge } from "akasha/pages/ui/components/modules/aggregate-property-badge/aggregate-property-badge.module.code.tsx"
 
 import { FormulaPropertyBadge } from "akasha/pages/ui/components/modules/formula-property-badge/formula-property-badge.module.code.tsx"
-import { InstantPropertyBadge } from "akasha/pages/ui/components/modules/instant-property-badge/instant-property-badge.module.code.tsx"
+
 import { JsonPropertyBadge } from "akasha/pages/ui/components/modules/json-property-badge/json-property-badge.module.code.tsx"
 
 import { MarkdownPropertyBadge } from "akasha/pages/ui/components/modules/markdown-property-badge/markdown-property-badge.module.code.tsx"
@@ -31,7 +31,6 @@ export const PROPERTY_BADGE_REGISTRY: Partial<
   url: UrlPropertyBadge,
   json: JsonPropertyBadge,
 
-  instant: InstantPropertyBadge,
   select: SelectPropertyBadge,
   "multi-select": MultiSelectPropertyBadge,
   "path-select": PathSelectPropertyBadge,
