@@ -2,11 +2,7 @@ import { z } from "zod"
 
 const DOC_HEADER = /^h1\.\s+ESO UI Documentation for API Version\s+(\d+)\s*$/m
 
-const STAMP = /ESO-API-Version:\s*(\d+)/
-
 const PROVENANCE_PREFIX = "Generated from the ~/esoui clone by "
-
-const PROVENANCE = new RegExp(`${PROVENANCE_PREFIX}(.+?)\\s*$`, "m")
 
 const ApiVersion = z.coerce.number().int().positive()
 
@@ -47,15 +43,4 @@ export function esoCloneHeaderLines(
     `${PROVENANCE_PREFIX}${command}`,
     `ESO-API-Version: ${version}  (source freshness marker; verified by check-eso-declaration-fresh)`,
   ]
-}
-
-export function parseEsoCloneProvenance(fileText: string): string | null {
-  return firstCaptureOf(PROVENANCE, fileText)
-}
-
-export function parseStampedApiVersion(fileText: string): number | null {
-  const captured = firstCaptureOf(STAMP, fileText)
-  if (captured === null) return null
-  const parsed = ApiVersion.safeParse(captured)
-  return parsed.success ? parsed.data : null
 }

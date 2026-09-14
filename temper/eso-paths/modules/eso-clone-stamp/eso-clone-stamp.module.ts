@@ -26,10 +26,6 @@ export const esoCloneStamp = {
     },
     {
       invariantKind: "departure",
-      statement: "A file with no marker reads as unstamped rather than as stale.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Documentation with no header line is refused rather than stamped from.",
     },
   ],
