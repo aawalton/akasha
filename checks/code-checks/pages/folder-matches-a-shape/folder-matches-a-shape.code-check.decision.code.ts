@@ -34,12 +34,15 @@ import {
   heldNamed,
 } from "akasha/pages/indexes/modules/extension-carrying/extension-carrying.module.code.ts"
 import {
+  claimantOf,
   claimsOf,
   type IsThere,
+  type Listing,
   type SidecarsBy,
 } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
 import type { Carried } from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
 import type { Known } from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
+import { filesIn } from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
 import { slugIn } from "akasha/pages/modules/address/page-address.module.code.ts"
 import {
   type Held,
@@ -104,18 +107,25 @@ export function pageNameOf(path: string): string {
   return name.endsWith(TS_ENDING) ? name.slice(0, -TS_ENDING.length) : name
 }
 
-function claimedIn(held: Held, index: Answering, filing: ReadonlyMap<string, string>): Held {
+function claimedIn(
+  held: Held,
+  listing: Listing,
+  index: Answering,
+  filing: ReadonlyMap<string, string>,
+  pageTypes: ReadonlySet<string>
+): Held {
   if (held.kind !== "stray") return held
   const propertySlug = filing.get(basename(held.path))
   if (propertySlug === undefined) return held
-  const claiming = index.listedByPath(held.path)[0]
-  if (claiming === undefined) return held
+  const at = index.filePropertiesAt()
+  const claiming = claimantOf(listing, held.path, pageTypes, at, index.folderPropertiesAt())
+  if (claiming === null) return held
   return {
     path: held.path,
     kind: "property",
     slug: null,
     pageTypeSlug: null,
-    page: pageNameOf(claiming.path),
+    page: pageNameOf(claiming),
     propertySlug,
     part: held.part,
     uncommitted: false,
@@ -338,6 +348,7 @@ export function judgingOver(given: Reading): Judging {
   const stated = index.fileKeysAt()
   const fileProperties = new Set<string>(stated.keys())
   const filing = namesFiling(stated)
+  const listing: Listing = (folder) => filesIn(given.root, folder)
   let known: Known | null = null
   const admits = new Map<string, ReadonlySet<string>>()
   const extending = (pageTypeSlug: string, wanted: string): boolean => {
@@ -388,7 +399,7 @@ export function judgingOver(given: Reading): Judging {
       }
       const here = grouped.at(folder)
       const held = here.map((one) =>
-        claimedIn(heldIn(one, pageTypes, fileProperties), index, filing)
+        claimedIn(heldIn(one, pageTypes, fileProperties), listing, index, filing, pageTypes)
       )
       const described: Standing = {
         folder,
