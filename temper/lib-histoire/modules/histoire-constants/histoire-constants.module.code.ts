@@ -1,11 +1,5 @@
 export const LIB_IDENTIFIER = "LibHistoire"
 
-export const SV_SETTINGS = "LibHistoire_Settings"
-export const SV_GUILD_NAMES = "LibHistoire_GuildNames"
-export const SV_NAME_DICTIONARY = "LibHistoire_NameDictionary"
-export const SV_GUILD_HISTORY = "LibHistoire_GuildHistory"
-export const SV_GUILD_HISTORY_CACHE = "LibHistoire_GuildHistoryCache"
-
 export const CALLBACK = {
   INITIALIZED: "HistyIsReadyForAction",
   CATEGORY_DATA_UPDATED: "HistyHasUpdatedCategoryData",

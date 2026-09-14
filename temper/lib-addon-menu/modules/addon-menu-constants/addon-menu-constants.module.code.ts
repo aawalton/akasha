@@ -1,8 +1,6 @@
 export const MAJOR = "LibAddonMenu-2.0"
 export const MINOR = 43
 
-export const ADDON_NAME = "LibAddonMenu-2.0"
-
 export const MIN_HEIGHT = 26
 export const HALF_WIDTH_LINE_SPACING = 2
 
@@ -17,7 +15,6 @@ export const LAM_SAVED_VARS_KEY = "LAM"
 
 export const ADDON_DATA_TYPE = 1
 export const RESELECTING_DURING_REBUILD = true
-export const USER_REQUESTED_OPEN = true
 
 export const FAQ_ICON_MOUSE_OVER_ALPHA = 1
 export const FAQ_ICON_MOUSE_EXIT_ALPHA = 0.4
