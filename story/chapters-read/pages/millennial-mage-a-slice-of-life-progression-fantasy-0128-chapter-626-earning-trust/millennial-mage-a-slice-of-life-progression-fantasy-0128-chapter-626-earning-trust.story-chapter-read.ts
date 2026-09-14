@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0128Chapter626EarningTr
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0128-chapter-626-earning-trust",
   title: "Chapter: 626 - Earning Trust",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 128,
   ownLength: 2694,
   ownProgress: 2694,

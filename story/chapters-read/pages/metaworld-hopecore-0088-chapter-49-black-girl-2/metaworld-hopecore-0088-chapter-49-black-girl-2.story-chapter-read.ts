@@ -5,7 +5,7 @@ export const metaworldHopecore0088Chapter49BlackGirl2 = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0088-chapter-49-black-girl-2",
   title: "CHAPTER 49 - Black Girl (2) ",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 88,
   ownLength: 3142,
   unit: "unit/words",

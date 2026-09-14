@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0222Chapter713DoneDoneD
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0222-chapter-713-done-done-done",
   title: "Chapter: 713 - Done, Done, Done",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 222,
   ownLength: 3052,
   unit: "unit/words",

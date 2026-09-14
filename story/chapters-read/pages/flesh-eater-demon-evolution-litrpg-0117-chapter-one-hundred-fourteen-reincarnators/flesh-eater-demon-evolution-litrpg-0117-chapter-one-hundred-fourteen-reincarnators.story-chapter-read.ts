@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0117ChapterOneHundredFourteenReincarn
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0117-chapter-one-hundred-fourteen-reincarnators",
   title: "Chapter One Hundred Fourteen: Reincarnators",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 117,
   ownLength: 2276,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const metaworldHopecore0032Chapter17TheEntertainer = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0032-chapter-17-the-entertainer",
   title: "CHAPTER 17 - The Entertainer",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 32,
   ownLength: 3349,
   unit: "unit/words",

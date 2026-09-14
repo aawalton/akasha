@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0249Chapter259aTheCloset = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0249-chapter-259a-the-closet",
   title: "Chapter 259A - The Closet",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 249,
   ownLength: 2777,
   unit: "unit/words",

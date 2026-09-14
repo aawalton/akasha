@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0090Chapter106AGoodDiscovery =
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0090-chapter-106-a-good-discovery",
   title: "Chapter 106 - A Good Discovery",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 90,
   ownLength: 3142,
   unit: "unit/words",

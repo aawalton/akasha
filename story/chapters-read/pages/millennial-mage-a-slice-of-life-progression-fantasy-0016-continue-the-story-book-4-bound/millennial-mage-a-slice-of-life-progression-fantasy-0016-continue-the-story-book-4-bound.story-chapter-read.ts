@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0016ContinueTheStoryBoo
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0016-continue-the-story-book-4-bound",
   title: "Continue the Story [Book 4 - Bound]",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 16,
   ownLength: 145,
   ownProgress: 145,

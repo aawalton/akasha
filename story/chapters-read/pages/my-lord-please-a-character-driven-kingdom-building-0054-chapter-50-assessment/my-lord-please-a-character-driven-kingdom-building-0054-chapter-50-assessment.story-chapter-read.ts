@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0054Chapter50Assessment 
   type: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0054-chapter-50-assessment",
   title: "Chapter 50 Assessment",
-  story: "my-lord-please-a-character-driven-kingdom-building",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   position: 54,
   ownLength: 2090,
   unit: "unit/words",

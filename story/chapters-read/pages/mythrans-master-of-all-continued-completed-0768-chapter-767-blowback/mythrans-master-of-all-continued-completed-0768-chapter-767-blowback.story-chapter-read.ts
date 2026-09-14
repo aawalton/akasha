@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0768Chapter767Blowback = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0768-chapter-767-blowback",
   title: "Chapter 767 - Blowback?",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 768,
   ownLength: 2994,
   unit: "unit/words",

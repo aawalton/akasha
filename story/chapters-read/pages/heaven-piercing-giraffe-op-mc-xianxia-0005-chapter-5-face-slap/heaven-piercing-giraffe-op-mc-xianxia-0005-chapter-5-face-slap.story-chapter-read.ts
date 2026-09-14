@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia0005Chapter5FaceSlap = {
   type: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0005-chapter-5-face-slap",
   title: "Chapter 5: Face Slap",
-  story: "heaven-piercing-giraffe-op-mc-xianxia",
+  story: "story-read/heaven-piercing-giraffe-op-mc-xianxia",
   position: 5,
   ownLength: 2240,
   unit: "unit/words",

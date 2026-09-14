@@ -5,7 +5,7 @@ export const newGam3Plus0008FriendOrFoe = {
   type: "story-chapter-read",
   slug: "new-gam3-plus-0008-friend-or-foe",
   title: "Friend or Foe",
-  story: "new-gam3-plus",
+  story: "story-read/new-gam3-plus",
   position: 8,
   ownLength: 2478,
   unit: "unit/words",

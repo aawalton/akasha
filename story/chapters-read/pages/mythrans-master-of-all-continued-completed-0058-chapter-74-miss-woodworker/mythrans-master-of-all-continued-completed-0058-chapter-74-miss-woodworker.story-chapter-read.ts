@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0058Chapter74MissWoodworker = 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0058-chapter-74-miss-woodworker",
   title: "Chapter 74 - Miss Woodworker",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 58,
   ownLength: 4149,
   unit: "unit/words",

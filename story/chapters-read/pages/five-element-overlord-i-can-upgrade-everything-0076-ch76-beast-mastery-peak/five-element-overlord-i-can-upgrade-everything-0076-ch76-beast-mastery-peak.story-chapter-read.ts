@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0076Ch76BeastMasteryPeak = 
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0076-ch76-beast-mastery-peak",
   title: "Ch76 Beast Mastery Peak",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 76,
   ownLength: 1910,
   unit: "unit/words",

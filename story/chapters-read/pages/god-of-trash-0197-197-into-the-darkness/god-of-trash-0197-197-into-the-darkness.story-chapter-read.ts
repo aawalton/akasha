@@ -5,7 +5,7 @@ export const godOfTrash0197197IntoTheDarkness = {
   type: "story-chapter-read",
   slug: "god-of-trash-0197-197-into-the-darkness",
   title: "197. Into the Darkness",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 197,
   ownLength: 2090,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const godOfTrash0335335FierceMana = {
   type: "story-chapter-read",
   slug: "god-of-trash-0335-335-fierce-mana",
   title: "335. Fierce Mana",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 335,
   ownLength: 2097,
   unit: "unit/words",

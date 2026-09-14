@@ -5,7 +5,7 @@ export const godOfTrash0353353AFantasticIdea = {
   type: "story-chapter-read",
   slug: "god-of-trash-0353-353-a-fantastic-idea",
   title: "353. A Fantastic Idea",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 353,
   ownLength: 2125,
   unit: "unit/words",

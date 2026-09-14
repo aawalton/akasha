@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0739Chapter738SomeTastyFiller 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0739-chapter-738-some-tasty-filler",
   title: "Chapter 738 - Some Tasty Filler",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 739,
   ownLength: 2966,
   unit: "unit/words",

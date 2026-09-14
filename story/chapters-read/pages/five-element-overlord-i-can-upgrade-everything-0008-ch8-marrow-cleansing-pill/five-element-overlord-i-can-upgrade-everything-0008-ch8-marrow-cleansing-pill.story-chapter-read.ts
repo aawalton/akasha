@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0008Ch8MarrowCleansingPill 
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0008-ch8-marrow-cleansing-pill",
   title: "Ch8 Marrow Cleansing Pill",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 8,
   ownLength: 996,
   unit: "unit/words",

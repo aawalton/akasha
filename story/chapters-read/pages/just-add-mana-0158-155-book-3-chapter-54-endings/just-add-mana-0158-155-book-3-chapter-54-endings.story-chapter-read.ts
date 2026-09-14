@@ -5,7 +5,7 @@ export const justAddMana0158155Book3Chapter54Endings = {
   type: "story-chapter-read",
   slug: "just-add-mana-0158-155-book-3-chapter-54-endings",
   title: "155 — Book 3, Chapter 54 — Endings",
-  story: "just-add-mana",
+  story: "story-read/just-add-mana",
   position: 158,
   ownLength: 4149,
   unit: "unit/words",

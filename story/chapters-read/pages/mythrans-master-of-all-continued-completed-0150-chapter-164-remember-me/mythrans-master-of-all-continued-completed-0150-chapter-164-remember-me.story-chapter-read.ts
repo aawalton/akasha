@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0150Chapter164RememberMe = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0150-chapter-164-remember-me",
   title: "Chapter 164 - Remember Me?",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 150,
   ownLength: 4207,
   unit: "unit/words",

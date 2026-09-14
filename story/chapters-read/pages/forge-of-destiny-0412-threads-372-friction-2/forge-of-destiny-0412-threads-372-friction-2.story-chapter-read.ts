@@ -5,7 +5,7 @@ export const forgeOfDestiny0412Threads372Friction2 = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0412-threads-372-friction-2",
   title: "Threads 372-Friction 2",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 412,
   ownLength: 1711,
   unit: "unit/words",

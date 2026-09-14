@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0267Chapter276aPolicePlayExpli
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0267-chapter-276a-police-play-explicit",
   title: "Chapter 276A - Police Play (Explicit)",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 267,
   ownLength: 1944,
   unit: "unit/words",

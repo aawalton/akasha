@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0319Chapter327ToClintsRanch = 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0319-chapter-327-to-clints-ranch",
   title: "Chapter 327 - To Clint's Ranch",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 319,
   ownLength: 4074,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0074Chapter90TheFine = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0074-chapter-90-the-fine",
   title: "Chapter 90 - The Fine",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 74,
   ownLength: 3023,
   unit: "unit/words",

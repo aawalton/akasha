@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0453Chapter453MovingDayPartThr
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0453-chapter-453-moving-day-part-three",
   title: "Chapter 453 - Moving Day Part Three",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 453,
   ownLength: 3965,
   unit: "unit/words",

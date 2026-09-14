@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0204Chapter22DivergingPaths = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0204-chapter-22-diverging-paths",
   title: "Chapter 22: Diverging Paths",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 204,
   ownLength: 2461,
   unit: "unit/words",

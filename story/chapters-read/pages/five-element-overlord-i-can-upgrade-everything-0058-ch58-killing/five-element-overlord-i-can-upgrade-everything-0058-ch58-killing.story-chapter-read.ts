@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0058Ch58Killing = {
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0058-ch58-killing",
   title: "Ch58 Killing",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 58,
   ownLength: 1670,
   unit: "unit/words",

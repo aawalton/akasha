@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0075108IiBriefing = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0075-108-ii-briefing",
   title: "108 (II) Briefing",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 75,
   ownLength: 0,
   unit: "unit/words",

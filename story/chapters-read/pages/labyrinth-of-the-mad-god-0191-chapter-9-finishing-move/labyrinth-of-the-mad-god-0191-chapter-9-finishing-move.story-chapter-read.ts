@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0191Chapter9FinishingMove = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0191-chapter-9-finishing-move",
   title: "Chapter 9: Finishing Move",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 191,
   ownLength: 2228,
   unit: "unit/words",

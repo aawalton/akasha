@@ -5,7 +5,7 @@ export const godOfTrash007474BoilItDown = {
   type: "story-chapter-read",
   slug: "god-of-trash-0074-74-boil-it-down",
   title: "74. Boil it Down",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 74,
   ownLength: 3429,
   unit: "unit/words",

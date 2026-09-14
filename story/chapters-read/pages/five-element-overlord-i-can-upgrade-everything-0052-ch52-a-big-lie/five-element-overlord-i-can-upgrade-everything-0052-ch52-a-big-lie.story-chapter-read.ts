@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0052Ch52ABigLie = {
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0052-ch52-a-big-lie",
   title: "Ch52 A Big Lie",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 52,
   ownLength: 1576,
   unit: "unit/words",

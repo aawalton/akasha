@@ -5,7 +5,7 @@ export const metaworldHopecore0120Chapter72BleedingLove = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0120-chapter-72-bleeding-love",
   title: "CHAPTER 72  - Bleeding Love",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 120,
   ownLength: 4024,
   unit: "unit/words",

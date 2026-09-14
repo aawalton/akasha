@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0112Ch112PeachBlossomTalism
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0112-ch112-peach-blossom-talisman",
   title: "Ch112 Peach Blossom Talisman",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 112,
   ownLength: 1355,
   unit: "unit/words",

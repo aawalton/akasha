@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0752Chapter751TheDistractionOf
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0752-chapter-751-the-distraction-of-battle",
   title: "Chapter 751 - The Distraction Of Battle",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 752,
   ownLength: 3013,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const gamerGirlEvolution003535TheGraveDigger = {
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0035-35-the-grave-digger",
   title: "35 - The Grave Digger",
-  story: "gamer-girl-evolution",
+  story: "story-read/gamer-girl-evolution",
   position: 35,
   ownLength: 1610,
   ownProgress: 1610,

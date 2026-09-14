@@ -5,7 +5,7 @@ export const forgeOfDestiny0334Threads294Construction7 = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0334-threads-294-construction-7",
   title: "Threads 294 Construction 7",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 334,
   ownLength: 2022,
   unit: "unit/words",

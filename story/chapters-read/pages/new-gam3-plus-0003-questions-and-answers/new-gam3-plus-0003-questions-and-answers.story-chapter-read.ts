@@ -5,7 +5,7 @@ export const newGam3Plus0003QuestionsAndAnswers = {
   type: "story-chapter-read",
   slug: "new-gam3-plus-0003-questions-and-answers",
   title: "Questions and Answers",
-  story: "new-gam3-plus",
+  story: "story-read/new-gam3-plus",
   position: 3,
   ownLength: 2616,
   unit: "unit/words",

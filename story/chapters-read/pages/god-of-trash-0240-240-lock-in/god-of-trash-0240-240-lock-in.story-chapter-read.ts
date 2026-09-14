@@ -5,7 +5,7 @@ export const godOfTrash0240240LockIn = {
   type: "story-chapter-read",
   slug: "god-of-trash-0240-240-lock-in",
   title: "240. Lock In",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 240,
   ownLength: 2155,
   unit: "unit/words",

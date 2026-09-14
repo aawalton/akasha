@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0235Chapter725TheoriesA
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0235-chapter-725-theories-and-discoveries",
   title: "Chapter: 725 - Theories and Discoveries",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 235,
   ownLength: 2320,
   unit: "unit/words",

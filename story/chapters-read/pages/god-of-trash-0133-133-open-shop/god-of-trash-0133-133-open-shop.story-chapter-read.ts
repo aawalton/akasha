@@ -5,7 +5,7 @@ export const godOfTrash0133133OpenShop = {
   type: "story-chapter-read",
   slug: "god-of-trash-0133-133-open-shop",
   title: "133. Open Shop",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 133,
   ownLength: 2655,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0337Chapter56Dreadeater = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0337-chapter-56-dreadeater",
   title: "Chapter 56: Dreadeater",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 337,
   ownLength: 3224,
   unit: "unit/words",

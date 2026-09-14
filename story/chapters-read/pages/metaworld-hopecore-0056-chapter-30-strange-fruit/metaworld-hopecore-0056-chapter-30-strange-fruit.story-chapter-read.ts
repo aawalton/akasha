@@ -5,7 +5,7 @@ export const metaworldHopecore0056Chapter30StrangeFruit = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0056-chapter-30-strange-fruit",
   title: "Chapter 30 - Strange Fruit",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 56,
   ownLength: 3375,
   unit: "unit/words",

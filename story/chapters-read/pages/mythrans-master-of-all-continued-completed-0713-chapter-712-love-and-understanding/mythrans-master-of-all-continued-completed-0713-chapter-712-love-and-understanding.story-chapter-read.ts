@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0713Chapter712LoveAndUnderstan
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0713-chapter-712-love-and-understanding",
   title: "Chapter 712 - Love And Understanding",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 713,
   ownLength: 3026,
   unit: "unit/words",

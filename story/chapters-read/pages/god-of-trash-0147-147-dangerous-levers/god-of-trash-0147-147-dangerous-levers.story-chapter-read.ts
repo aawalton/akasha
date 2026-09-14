@@ -5,7 +5,7 @@ export const godOfTrash0147147DangerousLevers = {
   type: "story-chapter-read",
   slug: "god-of-trash-0147-147-dangerous-levers",
   title: "147. Dangerous Levers",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 147,
   ownLength: 1699,
   unit: "unit/words",

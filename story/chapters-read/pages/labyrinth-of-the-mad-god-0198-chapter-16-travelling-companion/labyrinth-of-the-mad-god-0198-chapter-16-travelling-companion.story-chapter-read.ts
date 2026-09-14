@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0198Chapter16TravellingCompanion = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0198-chapter-16-travelling-companion",
   title: "Chapter 16: Travelling Companion",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 198,
   ownLength: 1786,
   unit: "unit/words",

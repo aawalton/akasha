@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0722Chapter721InterviewMe = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0722-chapter-721-interview-me",
   title: "Chapter 721 - Interview Me",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 722,
   ownLength: 3122,
   unit: "unit/words",

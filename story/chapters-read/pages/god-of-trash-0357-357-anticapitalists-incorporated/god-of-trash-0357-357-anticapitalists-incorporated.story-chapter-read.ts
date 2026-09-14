@@ -5,7 +5,7 @@ export const godOfTrash0357357AnticapitalistsIncorporated = {
   type: "story-chapter-read",
   slug: "god-of-trash-0357-357-anticapitalists-incorporated",
   title: "357. Anticapitalists Incorporated",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 357,
   ownLength: 1989,
   unit: "unit/words",

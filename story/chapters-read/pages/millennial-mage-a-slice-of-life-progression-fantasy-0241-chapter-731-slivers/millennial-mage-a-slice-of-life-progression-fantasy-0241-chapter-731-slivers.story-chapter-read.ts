@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0241Chapter731Slivers =
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0241-chapter-731-slivers",
   title: "Chapter: 731 - Slivers",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 241,
   ownLength: 2821,
   unit: "unit/words",

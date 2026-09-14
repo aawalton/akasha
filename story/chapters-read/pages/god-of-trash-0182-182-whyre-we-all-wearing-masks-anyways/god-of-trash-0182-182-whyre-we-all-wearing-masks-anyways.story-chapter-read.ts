@@ -5,7 +5,7 @@ export const godOfTrash0182182WhyreWeAllWearingMasksAnyways = {
   type: "story-chapter-read",
   slug: "god-of-trash-0182-182-whyre-we-all-wearing-masks-anyways",
   title: "182. Why're We All Wearing Masks, Anyways?",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 182,
   ownLength: 2788,
   unit: "unit/words",

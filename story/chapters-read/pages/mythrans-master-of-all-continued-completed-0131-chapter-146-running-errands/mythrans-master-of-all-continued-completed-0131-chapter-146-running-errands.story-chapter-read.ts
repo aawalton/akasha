@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0131Chapter146RunningErrands =
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0131-chapter-146-running-errands",
   title: "Chapter 146 - Running Errands",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 131,
   ownLength: 9315,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0087Chapter48FlippingTheBoard = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0087-chapter-48-flipping-the-board",
   title: "Chapter 48: Flipping the Board",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 87,
   ownLength: 1442,
   unit: "unit/words",

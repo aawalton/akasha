@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0297Chapter306ASlightInterlude
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0297-chapter-306-a-slight-interlude",
   title: "Chapter 306 - A Slight Interlude",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 297,
   ownLength: 4027,
   unit: "unit/words",

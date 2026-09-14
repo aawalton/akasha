@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0570Chapter570LylythsLair = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0570-chapter-570-lylyths-lair",
   title: "Chapter 570 - Lylyth's Lair",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 570,
   ownLength: 3300,
   unit: "unit/words",

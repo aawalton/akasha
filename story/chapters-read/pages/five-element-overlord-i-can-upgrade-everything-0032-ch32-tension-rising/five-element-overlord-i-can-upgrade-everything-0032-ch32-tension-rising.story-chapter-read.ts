@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0032Ch32TensionRising = {
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0032-ch32-tension-rising",
   title: "Ch32 Tension Rising",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 32,
   ownLength: 834,
   unit: "unit/words",

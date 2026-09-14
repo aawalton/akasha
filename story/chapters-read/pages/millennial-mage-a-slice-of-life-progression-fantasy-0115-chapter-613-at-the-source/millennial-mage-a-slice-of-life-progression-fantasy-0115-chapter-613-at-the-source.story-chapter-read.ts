@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0115Chapter613AtTheSour
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0115-chapter-613-at-the-source",
   title: "Chapter: 613 - At the Source",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 115,
   ownLength: 3334,
   ownProgress: 3334,

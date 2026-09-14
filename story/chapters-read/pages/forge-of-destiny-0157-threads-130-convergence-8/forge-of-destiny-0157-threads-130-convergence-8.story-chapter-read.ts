@@ -5,7 +5,7 @@ export const forgeOfDestiny0157Threads130Convergence8 = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0157-threads-130-convergence-8",
   title: "Threads 130-Convergence 8",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 157,
   ownLength: 2750,
   unit: "unit/words",

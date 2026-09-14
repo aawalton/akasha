@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0222Chapter39MountainOfMuscle = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0222-chapter-39-mountain-of-muscle",
   title: "Chapter 39: Mountain of Muscle",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 222,
   ownLength: 2252,
   unit: "unit/words",

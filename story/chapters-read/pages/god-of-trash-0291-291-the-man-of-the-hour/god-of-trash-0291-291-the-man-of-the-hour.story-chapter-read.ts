@@ -5,7 +5,7 @@ export const godOfTrash0291291TheManOfTheHour = {
   type: "story-chapter-read",
   slug: "god-of-trash-0291-291-the-man-of-the-hour",
   title: "291. The Man of the Hour",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 291,
   ownLength: 2683,
   unit: "unit/words",

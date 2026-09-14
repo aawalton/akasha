@@ -5,7 +5,7 @@ export const hellHorizonHealer0020Chapter20RentIsDue = {
   type: "story-chapter-read",
   slug: "hell-horizon-healer-0020-chapter-20-rent-is-due",
   title: "Chapter 20 - Rent is Due",
-  story: "hell-horizon-healer",
+  story: "story-read/hell-horizon-healer",
   position: 20,
   ownLength: 1495,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0286Chapter295AHastyRetreat = 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0286-chapter-295-a-hasty-retreat",
   title: "Chapter 295 - A Hasty Retreat",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 286,
   ownLength: 4210,
   unit: "unit/words",

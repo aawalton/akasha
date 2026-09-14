@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0173Chapter185LordEric = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0173-chapter-185-lord-eric",
   title: "Chapter 185 - Lord Eric",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 173,
   ownLength: 4100,
   unit: "unit/words",

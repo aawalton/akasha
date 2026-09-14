@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0005Chapter21IntoTheFire = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0005-chapter-21-into-the-fire",
   title: "Chapter 21 - Into The Fire",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 5,
   ownLength: 3081,
   unit: "unit/words",

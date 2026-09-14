@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0249Chapter67SoilAndStone = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0249-chapter-67-soil-and-stone",
   title: "Chapter 67: Soil and Stone",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 249,
   ownLength: 2015,
   unit: "unit/words",

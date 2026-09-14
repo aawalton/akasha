@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0083Chapter583Sweet = {
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0083-chapter-583-sweet",
   title: "Chapter: 583 - Sweet",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 83,
   ownLength: 2910,
   ownProgress: 2910,

@@ -5,7 +5,7 @@ export const godOfTrash004848TwoRemain = {
   type: "story-chapter-read",
   slug: "god-of-trash-0048-48-two-remain",
   title: "48. Two Remain",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 48,
   ownLength: 3483,
   unit: "unit/words",

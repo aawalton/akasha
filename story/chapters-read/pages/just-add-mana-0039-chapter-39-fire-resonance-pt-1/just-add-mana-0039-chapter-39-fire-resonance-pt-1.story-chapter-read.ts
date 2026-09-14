@@ -5,7 +5,7 @@ export const justAddMana0039Chapter39FireResonancePt1 = {
   type: "story-chapter-read",
   slug: "just-add-mana-0039-chapter-39-fire-resonance-pt-1",
   title: "Chapter 39 — Fire Resonance, Pt 1",
-  story: "just-add-mana",
+  story: "story-read/just-add-mana",
   position: 39,
   ownLength: 3724,
   ownProgress: 3724,

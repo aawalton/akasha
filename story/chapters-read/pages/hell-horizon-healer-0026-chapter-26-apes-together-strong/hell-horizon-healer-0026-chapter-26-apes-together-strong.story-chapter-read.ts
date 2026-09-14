@@ -5,7 +5,7 @@ export const hellHorizonHealer0026Chapter26ApesTogetherStrong = {
   type: "story-chapter-read",
   slug: "hell-horizon-healer-0026-chapter-26-apes-together-strong",
   title: "Chapter 26 - Apes Together Strong",
-  story: "hell-horizon-healer",
+  story: "story-read/hell-horizon-healer",
   position: 26,
   ownLength: 1550,
   unit: "unit/words",

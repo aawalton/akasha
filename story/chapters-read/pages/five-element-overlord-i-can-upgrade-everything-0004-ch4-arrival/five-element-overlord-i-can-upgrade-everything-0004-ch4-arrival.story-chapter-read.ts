@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0004Ch4Arrival = {
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0004-ch4-arrival",
   title: "Ch4 Arrival",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 4,
   ownLength: 1210,
   unit: "unit/words",

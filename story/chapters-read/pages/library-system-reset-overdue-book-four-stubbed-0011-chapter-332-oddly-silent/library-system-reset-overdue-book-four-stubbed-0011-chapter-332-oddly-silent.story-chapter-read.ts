@@ -5,7 +5,7 @@ export const librarySystemResetOverdueBookFourStubbed0011Chapter332OddlySilent =
   type: "story-chapter-read",
   slug: "library-system-reset-overdue-book-four-stubbed-0011-chapter-332-oddly-silent",
   title: "Chapter 332: Oddly Silent",
-  story: "library-system-reset-overdue-book-four-stubbed",
+  story: "story-read/library-system-reset-overdue-book-four-stubbed",
   position: 11,
   ownLength: 2045,
   unit: "unit/words",

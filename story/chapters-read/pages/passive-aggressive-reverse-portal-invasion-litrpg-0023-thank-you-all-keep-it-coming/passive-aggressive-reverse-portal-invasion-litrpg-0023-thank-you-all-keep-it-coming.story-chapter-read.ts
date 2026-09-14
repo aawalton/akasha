@@ -5,7 +5,7 @@ export const passiveAggressiveReversePortalInvasionLitrpg0023ThankYouAllKeepItCo
   type: "story-chapter-read",
   slug: "passive-aggressive-reverse-portal-invasion-litrpg-0023-thank-you-all-keep-it-coming",
   title: "Thank you all - keep it coming!!!",
-  story: "passive-aggressive-reverse-portal-invasion-litrpg",
+  story: "story-read/passive-aggressive-reverse-portal-invasion-litrpg",
   position: 23,
   ownLength: 109,
   unit: "unit/words",

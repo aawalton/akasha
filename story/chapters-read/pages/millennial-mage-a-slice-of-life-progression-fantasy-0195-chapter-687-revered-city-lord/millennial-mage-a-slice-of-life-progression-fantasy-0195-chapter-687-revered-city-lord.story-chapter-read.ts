@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0195Chapter687ReveredCi
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0195-chapter-687-revered-city-lord",
   title: "Chapter: 687 - Revered City Lord",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 195,
   ownLength: 3046,
   ownProgress: 3046,

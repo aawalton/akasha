@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0012Chapter73Flow = {
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0012-chapter-73-flow",
   title: "Chapter: 73 - Flow",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 12,
   ownLength: 3845,
   ownProgress: 3845,

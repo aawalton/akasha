@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0219Chapter37ArmadaWurm = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0219-chapter-37-armada-wurm",
   title: "Chapter 37: Armada Wurm",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 219,
   ownLength: 1853,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0047ChapterFortySixDaysAtTheGarrison 
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0047-chapter-forty-six-days-at-the-garrison",
   title: "Chapter Forty-Six: Days at the Garrison",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 47,
   ownLength: 2876,
   unit: "unit/words",

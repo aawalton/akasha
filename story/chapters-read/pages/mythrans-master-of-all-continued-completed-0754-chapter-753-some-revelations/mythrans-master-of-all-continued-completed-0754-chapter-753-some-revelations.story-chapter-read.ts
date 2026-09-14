@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0754Chapter753SomeRevelations 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0754-chapter-753-some-revelations",
   title: "Chapter 753 - Some Revelations",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 754,
   ownLength: 3150,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0099Chapter115TheNextMorning =
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0099-chapter-115-the-next-morning",
   title: "Chapter 115 - The Next Morning",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 99,
   ownLength: 4798,
   unit: "unit/words",

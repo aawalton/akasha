@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0621Chapter621IssacsShop = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0621-chapter-621-issacs-shop",
   title: "Chapter 621 - Issac's Shop",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 621,
   ownLength: 2656,
   unit: "unit/words",

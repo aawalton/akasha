@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0158Chapter170aShowerSlightlyE
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0158-chapter-170a-shower-slightly-explicit",
   title: "Chapter 170A - Shower (Slightly Explicit)",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 158,
   ownLength: 1822,
   unit: "unit/words",

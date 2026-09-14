@@ -5,7 +5,7 @@ export const godOfTrash0308308BowelsOfTheOcean = {
   type: "story-chapter-read",
   slug: "god-of-trash-0308-308-bowels-of-the-ocean",
   title: "308. Bowels of the Ocean",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 308,
   ownLength: 1526,
   unit: "unit/words",

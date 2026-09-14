@@ -5,7 +5,7 @@ export const gamerGirlEvolution004444TrainWreck = {
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0044-44-train-wreck",
   title: "44 - Train Wreck?",
-  story: "gamer-girl-evolution",
+  story: "story-read/gamer-girl-evolution",
   position: 44,
   ownLength: 1906,
   ownProgress: 1906,

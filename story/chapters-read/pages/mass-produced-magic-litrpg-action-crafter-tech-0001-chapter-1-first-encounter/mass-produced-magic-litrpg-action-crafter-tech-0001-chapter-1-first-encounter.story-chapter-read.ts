@@ -5,7 +5,7 @@ export const massProducedMagicLitrpgActionCrafterTech0001Chapter1FirstEncounter 
   type: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0001-chapter-1-first-encounter",
   title: "Chapter 1 - First Encounter",
-  story: "mass-produced-magic-litrpg-action-crafter-tech",
+  story: "story-read/mass-produced-magic-litrpg-action-crafter-tech",
   position: 1,
   ownLength: 1237,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0386Chapter391DealWithIt = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0386-chapter-391-deal-with-it",
   title: "Chapter 391 - Deal With It",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 386,
   ownLength: 3380,
   unit: "unit/words",

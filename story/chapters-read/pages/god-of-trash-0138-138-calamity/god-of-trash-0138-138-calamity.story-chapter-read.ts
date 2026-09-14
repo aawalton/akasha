@@ -5,7 +5,7 @@ export const godOfTrash0138138Calamity = {
   type: "story-chapter-read",
   slug: "god-of-trash-0138-138-calamity",
   title: "138. Calamity",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 138,
   ownLength: 2075,
   unit: "unit/words",

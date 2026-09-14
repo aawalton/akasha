@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0071Chapter571AllottedH
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0071-chapter-571-allotted-hour",
   title: "Chapter: 571 - Allotted Hour",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 71,
   ownLength: 3336,
   ownProgress: 3336,

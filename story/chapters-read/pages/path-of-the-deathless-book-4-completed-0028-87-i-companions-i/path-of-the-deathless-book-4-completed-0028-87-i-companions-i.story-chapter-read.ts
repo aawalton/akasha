@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed002887ICompanionsI = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0028-87-i-companions-i",
   title: "87 (I) Companions [I] ",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 28,
   ownLength: 0,
   unit: "unit/words",

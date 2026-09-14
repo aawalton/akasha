@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0280Chapter289WaterPlay = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0280-chapter-289-water-play",
   title: "Chapter 289 - Water Play",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 280,
   ownLength: 5924,
   unit: "unit/words",

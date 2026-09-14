@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0031Ch31WangMing = {
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0031-ch31-wang-ming",
   title: "Ch31 Wang Ming",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 31,
   ownLength: 1355,
   unit: "unit/words",

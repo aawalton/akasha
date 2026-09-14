@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0083Chapter99HouseFaldihr = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0083-chapter-99-house-faldihr",
   title: "Chapter 99 - House Faldihr",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 83,
   ownLength: 3436,
   unit: "unit/words",

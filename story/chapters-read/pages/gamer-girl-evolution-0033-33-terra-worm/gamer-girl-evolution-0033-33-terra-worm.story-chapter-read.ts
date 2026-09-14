@@ -5,7 +5,7 @@ export const gamerGirlEvolution003333TerraWorm = {
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0033-33-terra-worm",
   title: "33 - Terra Worm",
-  story: "gamer-girl-evolution",
+  story: "story-read/gamer-girl-evolution",
   position: 33,
   ownLength: 1428,
   ownProgress: 1428,

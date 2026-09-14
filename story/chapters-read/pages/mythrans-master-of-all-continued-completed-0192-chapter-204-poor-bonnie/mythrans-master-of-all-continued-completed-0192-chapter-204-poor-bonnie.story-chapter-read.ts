@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0192Chapter204PoorBonnie = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0192-chapter-204-poor-bonnie",
   title: "Chapter 204 - Poor Bonnie",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 192,
   ownLength: 3700,
   unit: "unit/words",

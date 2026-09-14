@@ -5,7 +5,7 @@ export const justAddMana006868Book2Chapter16Apprenticeships = {
   type: "story-chapter-read",
   slug: "just-add-mana-0068-68-book-2-chapter-16-apprenticeships",
   title: "68 — Book 2, Chapter 16 — Apprenticeships",
-  story: "just-add-mana",
+  story: "story-read/just-add-mana",
   position: 68,
   ownLength: 3787,
   ownProgress: 3787,

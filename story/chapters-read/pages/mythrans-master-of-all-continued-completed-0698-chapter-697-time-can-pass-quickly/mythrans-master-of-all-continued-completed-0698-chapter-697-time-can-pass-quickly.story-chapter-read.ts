@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0698Chapter697TimeCanPassQuick
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0698-chapter-697-time-can-pass-quickly",
   title: "Chapter 697 - Time Can Pass Quickly",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 698,
   ownLength: 3158,
   unit: "unit/words",

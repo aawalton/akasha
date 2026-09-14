@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0437Chapter439WorthAKiss = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0437-chapter-439-worth-a-kiss",
   title: "Chapter 439 - Worth A Kiss",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 437,
   ownLength: 3129,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const metaworldHopecore0095Chapter54Liability = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0095-chapter-54-liability",
   title: "CHAPTER 54 - Liability",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 95,
   ownLength: 2930,
   unit: "unit/words",

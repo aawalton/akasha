@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0132Chapter91VerticalEscape = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0132-chapter-91-vertical-escape",
   title: "Chapter 91: Vertical Escape",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 132,
   ownLength: 1656,
   unit: "unit/words",

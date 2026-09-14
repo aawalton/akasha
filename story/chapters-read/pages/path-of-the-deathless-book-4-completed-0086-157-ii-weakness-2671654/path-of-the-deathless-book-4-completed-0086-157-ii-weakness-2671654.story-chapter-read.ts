@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0086157IiWeakness2671654 = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0086-157-ii-weakness-2671654",
   title: "157 (II) Weakness",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 86,
   ownLength: 3136,
   unit: "unit/words",

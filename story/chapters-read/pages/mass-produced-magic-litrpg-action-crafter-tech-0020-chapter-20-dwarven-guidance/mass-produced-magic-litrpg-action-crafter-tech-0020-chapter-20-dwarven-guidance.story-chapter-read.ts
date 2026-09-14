@@ -5,7 +5,7 @@ export const massProducedMagicLitrpgActionCrafterTech0020Chapter20DwarvenGuidanc
   type: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0020-chapter-20-dwarven-guidance",
   title: "Chapter 20 – Dwarven Guidance",
-  story: "mass-produced-magic-litrpg-action-crafter-tech",
+  story: "story-read/mass-produced-magic-litrpg-action-crafter-tech",
   position: 20,
   ownLength: 3816,
   unit: "unit/words",

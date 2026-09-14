@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0580Chapter580TheFinalEvent = 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0580-chapter-580-the-final-event",
   title: "Chapter 580 - The Final Event",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 580,
   ownLength: 3548,
   unit: "unit/words",

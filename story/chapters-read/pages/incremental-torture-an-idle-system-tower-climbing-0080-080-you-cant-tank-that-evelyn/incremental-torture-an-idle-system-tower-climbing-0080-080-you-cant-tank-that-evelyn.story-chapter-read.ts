@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0080080YouCantTankThatEv
   type: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0080-080-you-cant-tank-that-evelyn",
   title: "080: You Can't Tank That, Evelyn!",
-  story: "incremental-torture-an-idle-system-tower-climbing",
+  story: "story-read/incremental-torture-an-idle-system-tower-climbing",
   position: 80,
   ownLength: 1601,
   unit: "unit/words",

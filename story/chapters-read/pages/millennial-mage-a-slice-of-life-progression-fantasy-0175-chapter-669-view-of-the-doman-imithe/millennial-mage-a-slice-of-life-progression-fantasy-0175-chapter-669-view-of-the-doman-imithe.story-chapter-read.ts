@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0175Chapter669ViewOfThe
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0175-chapter-669-view-of-the-doman-imithe",
   title: "Chapter: 669 - View of the Doman-Imithe",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 175,
   ownLength: 2781,
   ownProgress: 2781,

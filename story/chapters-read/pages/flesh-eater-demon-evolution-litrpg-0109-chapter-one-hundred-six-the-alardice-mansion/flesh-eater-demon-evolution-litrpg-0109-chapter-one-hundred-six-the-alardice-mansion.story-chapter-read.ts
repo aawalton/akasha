@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0109ChapterOneHundredSixTheAlardiceMa
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0109-chapter-one-hundred-six-the-alardice-mansion",
   title: "Chapter One Hundred Six: The Alardice Mansion",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 109,
   ownLength: 2029,
   unit: "unit/words",

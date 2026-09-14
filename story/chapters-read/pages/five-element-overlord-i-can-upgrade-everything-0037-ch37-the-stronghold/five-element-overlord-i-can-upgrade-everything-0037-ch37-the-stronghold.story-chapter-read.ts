@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0037Ch37TheStronghold = {
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0037-ch37-the-stronghold",
   title: "Ch37 The Stronghold",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 37,
   ownLength: 2115,
   unit: "unit/words",

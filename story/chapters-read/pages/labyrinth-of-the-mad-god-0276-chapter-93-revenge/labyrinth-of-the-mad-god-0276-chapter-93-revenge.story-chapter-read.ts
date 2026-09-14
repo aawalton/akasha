@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0276Chapter93Revenge = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0276-chapter-93-revenge",
   title: "Chapter 93: Revenge",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 276,
   ownLength: 1854,
   unit: "unit/words",

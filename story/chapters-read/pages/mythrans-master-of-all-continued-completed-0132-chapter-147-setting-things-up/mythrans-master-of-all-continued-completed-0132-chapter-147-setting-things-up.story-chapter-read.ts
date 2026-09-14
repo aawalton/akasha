@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0132Chapter147SettingThingsUp 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0132-chapter-147-setting-things-up",
   title: "Chapter 147 - Setting Things Up",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 132,
   ownLength: 3801,
   unit: "unit/words",

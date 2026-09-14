@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0410Chapter413SpiritOfEarth = 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0410-chapter-413-spirit-of-earth",
   title: "Chapter 413 - Spirit Of Earth",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 410,
   ownLength: 3736,
   unit: "unit/words",

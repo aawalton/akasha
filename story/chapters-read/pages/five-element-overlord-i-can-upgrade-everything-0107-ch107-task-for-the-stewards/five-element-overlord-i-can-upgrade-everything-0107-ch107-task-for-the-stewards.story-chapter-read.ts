@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0107Ch107TaskForTheStewards
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0107-ch107-task-for-the-stewards",
   title: "Ch107 Task For The Stewards",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 107,
   ownLength: 2037,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0069ChapterSixtyEightReturnToTheManor
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0069-chapter-sixty-eight-return-to-the-manor",
   title: "Chapter Sixty-Eight: Return to the Manor",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 69,
   ownLength: 2635,
   unit: "unit/words",

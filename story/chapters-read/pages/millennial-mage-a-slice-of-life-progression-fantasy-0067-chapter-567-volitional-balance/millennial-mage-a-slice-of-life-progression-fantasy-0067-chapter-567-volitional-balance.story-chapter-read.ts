@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0067Chapter567Volitiona
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0067-chapter-567-volitional-balance",
   title: "Chapter: 567 - Volitional Balance",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 67,
   ownLength: 3084,
   ownProgress: 3084,

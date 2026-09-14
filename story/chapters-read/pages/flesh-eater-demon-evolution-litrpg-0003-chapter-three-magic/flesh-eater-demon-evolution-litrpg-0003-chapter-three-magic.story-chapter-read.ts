@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0003ChapterThreeMagic = {
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0003-chapter-three-magic",
   title: "Chapter Three: Magic",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 3,
   ownLength: 2848,
   unit: "unit/words",

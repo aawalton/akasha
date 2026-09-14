@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0140Chapter154HelloDoggie = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0140-chapter-154-hello-doggie",
   title: "Chapter 154 - Hello, Doggie!",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 140,
   ownLength: 4093,
   unit: "unit/words",

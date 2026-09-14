@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0190Chapter202NathaliaIsHerePa
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0190-chapter-202-nathalia-is-here-part-three",
   title: "Chapter 202 - Nathalia Is Here, Part Three",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 190,
   ownLength: 6022,
   unit: "unit/words",

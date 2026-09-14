@@ -5,7 +5,7 @@ export const forgeOfDestiny0207Theads176Emissary11 = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0207-theads-176-emissary-11",
   title: "Theads 176-Emissary 11",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 207,
   ownLength: 2909,
   unit: "unit/words",

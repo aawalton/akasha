@@ -5,7 +5,7 @@ export const gamerGirlEvolution002929TheAncientWaterway1 = {
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0029-29-the-ancient-waterway-1",
   title: "29 - The Ancient Waterway (1)",
-  story: "gamer-girl-evolution",
+  story: "story-read/gamer-girl-evolution",
   position: 29,
   ownLength: 1750,
   ownProgress: 1750,

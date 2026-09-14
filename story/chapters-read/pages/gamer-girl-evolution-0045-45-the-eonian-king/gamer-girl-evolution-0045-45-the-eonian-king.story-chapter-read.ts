@@ -5,7 +5,7 @@ export const gamerGirlEvolution004545TheEonianKing = {
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0045-45-the-eonian-king",
   title: "45 - The Eonian King",
-  story: "gamer-girl-evolution",
+  story: "story-read/gamer-girl-evolution",
   position: 45,
   ownLength: 1492,
   ownProgress: 1492,

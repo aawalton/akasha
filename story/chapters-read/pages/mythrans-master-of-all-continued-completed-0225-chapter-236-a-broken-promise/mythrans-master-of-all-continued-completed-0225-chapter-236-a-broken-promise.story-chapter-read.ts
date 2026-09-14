@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0225Chapter236ABrokenPromise =
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0225-chapter-236-a-broken-promise",
   title: "Chapter 236 - A Broken Promise",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 225,
   ownLength: 3397,
   unit: "unit/words",

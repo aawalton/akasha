@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0530Chapter530FixingTheWall = 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0530-chapter-530-fixing-the-wall",
   title: "Chapter 530 - Fixing The Wall",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 530,
   ownLength: 2360,
   unit: "unit/words",

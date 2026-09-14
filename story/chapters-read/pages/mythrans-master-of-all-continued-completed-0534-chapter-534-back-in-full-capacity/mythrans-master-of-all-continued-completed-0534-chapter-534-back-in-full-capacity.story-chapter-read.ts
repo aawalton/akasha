@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0534Chapter534BackInFullCapaci
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0534-chapter-534-back-in-full-capacity",
   title: "Chapter 534 - Back in Full Capacity",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 534,
   ownLength: 2845,
   unit: "unit/words",

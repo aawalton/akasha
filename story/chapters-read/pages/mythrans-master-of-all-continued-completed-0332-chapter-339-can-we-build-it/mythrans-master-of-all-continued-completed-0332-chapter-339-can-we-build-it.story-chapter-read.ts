@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0332Chapter339CanWeBuildIt = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0332-chapter-339-can-we-build-it",
   title: "Chapter 339 - Can We Build It?",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 332,
   ownLength: 4086,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0102Chapter600Socializa
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0102-chapter-600-socialization",
   title: "Chapter: 600 - Socialization",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 102,
   ownLength: 2828,
   ownProgress: 2828,

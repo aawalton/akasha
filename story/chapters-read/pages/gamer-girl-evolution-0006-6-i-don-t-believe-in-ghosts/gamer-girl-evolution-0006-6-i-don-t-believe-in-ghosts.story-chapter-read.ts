@@ -5,7 +5,7 @@ export const gamerGirlEvolution00066IDonTBelieveInGhosts = {
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0006-6-i-don-t-believe-in-ghosts",
   title: "6 – I Don’t Believe In Ghosts",
-  story: "gamer-girl-evolution",
+  story: "story-read/gamer-girl-evolution",
   position: 6,
   ownLength: 1519,
   ownProgress: 1519,

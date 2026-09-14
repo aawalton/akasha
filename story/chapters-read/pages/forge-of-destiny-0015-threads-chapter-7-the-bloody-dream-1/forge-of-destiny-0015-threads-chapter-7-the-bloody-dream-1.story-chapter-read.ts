@@ -5,7 +5,7 @@ export const forgeOfDestiny0015ThreadsChapter7TheBloodyDream1 = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0015-threads-chapter-7-the-bloody-dream-1",
   title: "Threads Chapter 7-The Bloody Dream 1",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 15,
   ownLength: 2298,
   unit: "unit/words",

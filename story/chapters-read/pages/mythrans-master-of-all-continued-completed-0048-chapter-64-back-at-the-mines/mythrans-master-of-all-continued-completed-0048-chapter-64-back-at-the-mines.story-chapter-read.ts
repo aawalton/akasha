@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0048Chapter64BackAtTheMines = 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0048-chapter-64-back-at-the-mines",
   title: "Chapter 64 - Back At The Mines",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 48,
   ownLength: 3961,
   unit: "unit/words",

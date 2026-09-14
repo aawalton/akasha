@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0701Chapter700ThatsGoodNews = 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0701-chapter-700-thats-good-news",
   title: "Chapter 700 - That's Good News",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 701,
   ownLength: 3991,
   unit: "unit/words",

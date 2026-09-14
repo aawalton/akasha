@@ -5,7 +5,7 @@ export const gamerGirlEvolution004747TheBerserkerClass = {
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0047-47-the-berserker-class",
   title: "47 - The Berserker Class",
-  story: "gamer-girl-evolution",
+  story: "story-read/gamer-girl-evolution",
   position: 47,
   ownLength: 1624,
   ownProgress: 1624,

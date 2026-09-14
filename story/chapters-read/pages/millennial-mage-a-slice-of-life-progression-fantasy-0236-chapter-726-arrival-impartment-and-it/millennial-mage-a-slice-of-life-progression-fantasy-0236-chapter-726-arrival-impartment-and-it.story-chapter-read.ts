@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0236Chapter726ArrivalIm
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0236-chapter-726-arrival-impartment-and-it",
   title: "Chapter: 726 - Arrival, Impartment, and It Begins",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 236,
   ownLength: 2785,
   unit: "unit/words",

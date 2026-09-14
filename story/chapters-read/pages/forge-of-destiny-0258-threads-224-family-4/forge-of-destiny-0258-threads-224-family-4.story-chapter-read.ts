@@ -5,7 +5,7 @@ export const forgeOfDestiny0258Threads224Family4 = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0258-threads-224-family-4",
   title: "Threads 224-Family 4",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 258,
   ownLength: 2021,
   unit: "unit/words",

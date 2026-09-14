@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0115ChapterOneHundredTwelveWaterAndFi
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0115-chapter-one-hundred-twelve-water-and-fire",
   title: "Chapter One Hundred Twelve: Water and Fire",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 115,
   ownLength: 2292,
   unit: "unit/words",

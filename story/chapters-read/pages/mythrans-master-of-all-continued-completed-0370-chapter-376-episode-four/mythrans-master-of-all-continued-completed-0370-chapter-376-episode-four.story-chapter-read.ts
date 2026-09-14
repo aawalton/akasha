@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0370Chapter376EpisodeFour = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0370-chapter-376-episode-four",
   title: "Chapter 376 - Episode Four",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 370,
   ownLength: 3207,
   unit: "unit/words",

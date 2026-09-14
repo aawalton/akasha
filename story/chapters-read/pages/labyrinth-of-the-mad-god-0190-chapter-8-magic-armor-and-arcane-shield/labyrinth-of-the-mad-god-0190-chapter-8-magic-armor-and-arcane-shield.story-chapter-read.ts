@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0190Chapter8MagicArmorAndArcaneShield = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0190-chapter-8-magic-armor-and-arcane-shield",
   title: "Chapter 8: Magic Armor and Arcane Shield",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 190,
   ownLength: 2683,
   unit: "unit/words",

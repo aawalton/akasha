@@ -5,7 +5,7 @@ export const godOfTrash0294294BreakOut = {
   type: "story-chapter-read",
   slug: "god-of-trash-0294-294-break-out",
   title: "294. Break Out",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 294,
   ownLength: 1865,
   unit: "unit/words",

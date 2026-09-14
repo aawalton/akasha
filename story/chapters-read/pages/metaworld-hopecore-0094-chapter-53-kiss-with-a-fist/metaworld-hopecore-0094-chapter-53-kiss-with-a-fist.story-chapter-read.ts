@@ -5,7 +5,7 @@ export const metaworldHopecore0094Chapter53KissWithAFist = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0094-chapter-53-kiss-with-a-fist",
   title: "CHAPTER 53  - Kiss With a Fist",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 94,
   ownLength: 3071,
   unit: "unit/words",

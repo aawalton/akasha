@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0078Chapter73Disparity =
   type: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0078-chapter-73-disparity",
   title: "Chapter 73 Disparity",
-  story: "my-lord-please-a-character-driven-kingdom-building",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   position: 78,
   ownLength: 1889,
   unit: "unit/words",

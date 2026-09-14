@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0146Chapter105VisionsFromTheVoidI = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0146-chapter-105-visions-from-the-void-i",
   title: "Chapter 105: Visions from the Void I",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 146,
   ownLength: 2228,
   unit: "unit/words",

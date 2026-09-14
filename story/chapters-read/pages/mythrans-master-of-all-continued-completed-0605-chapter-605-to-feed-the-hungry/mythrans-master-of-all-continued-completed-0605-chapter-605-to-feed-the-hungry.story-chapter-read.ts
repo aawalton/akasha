@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0605Chapter605ToFeedTheHungry 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0605-chapter-605-to-feed-the-hungry",
   title: "Chapter 605 - To Feed The Hungry",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 605,
   ownLength: 2763,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const godOfTrash0200200MyriadRealmsInTheDark = {
   type: "story-chapter-read",
   slug: "god-of-trash-0200-200-myriad-realms-in-the-dark",
   title: "200. Myriad Realms in the Dark",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 200,
   ownLength: 1396,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0122Chapter137CatFight = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0122-chapter-137-cat-fight",
   title: "Chapter 137 - Cat Fight!",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 122,
   ownLength: 7434,
   unit: "unit/words",

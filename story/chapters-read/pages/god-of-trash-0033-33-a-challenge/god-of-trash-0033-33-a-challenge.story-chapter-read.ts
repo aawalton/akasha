@@ -5,7 +5,7 @@ export const godOfTrash003333AChallenge = {
   type: "story-chapter-read",
   slug: "god-of-trash-0033-33-a-challenge",
   title: "33. A Challenge",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 33,
   ownLength: 2618,
   unit: "unit/words",

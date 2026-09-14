@@ -5,7 +5,7 @@ export const godOfTrash0320320TrainingPicksYou = {
   type: "story-chapter-read",
   slug: "god-of-trash-0320-320-training-picks-you",
   title: "320. Training Picks You",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 320,
   ownLength: 2032,
   unit: "unit/words",

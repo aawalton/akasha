@@ -5,7 +5,7 @@ export const metaworldHopecore0060Chapter32AHardDaySNight2 = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0060-chapter-32-a-hard-day-s-night-2",
   title: "Chapter 32 - A Hard Day’s Night (2) ",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 60,
   ownLength: 1875,
   unit: "unit/words",

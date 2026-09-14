@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0105Chapter65MirrorImage = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0105-chapter-65-mirror-image",
   title: "Chapter 65: Mirror Image",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 105,
   ownLength: 1429,
   unit: "unit/words",

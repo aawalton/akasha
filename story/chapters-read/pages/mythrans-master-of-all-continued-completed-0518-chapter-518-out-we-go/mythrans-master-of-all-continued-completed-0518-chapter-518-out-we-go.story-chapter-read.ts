@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0518Chapter518OutWeGo = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0518-chapter-518-out-we-go",
   title: "Chapter 518 - Out We Go",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 518,
   ownLength: 2370,
   unit: "unit/words",

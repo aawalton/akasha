@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0681Chapter680GoingForAStroll 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0681-chapter-680-going-for-a-stroll",
   title: "Chapter 680 - Going For A Stroll",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 681,
   ownLength: 3180,
   unit: "unit/words",

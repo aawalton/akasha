@@ -5,7 +5,7 @@ export const gamerGirlEvolution001010TurningPointOne = {
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0010-10-turning-point-one",
   title: "10 – Turning Point One",
-  story: "gamer-girl-evolution",
+  story: "story-read/gamer-girl-evolution",
   position: 10,
   ownLength: 2511,
   ownProgress: 2511,

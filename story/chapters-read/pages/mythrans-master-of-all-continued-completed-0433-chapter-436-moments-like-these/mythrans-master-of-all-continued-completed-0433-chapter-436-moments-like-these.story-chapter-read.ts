@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0433Chapter436MomentsLikeThese
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0433-chapter-436-moments-like-these",
   title: "Chapter 436 - Moments Like These",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 433,
   ownLength: 3379,
   unit: "unit/words",

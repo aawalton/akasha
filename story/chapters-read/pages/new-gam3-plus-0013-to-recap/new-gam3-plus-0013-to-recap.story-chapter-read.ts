@@ -5,7 +5,7 @@ export const newGam3Plus0013ToRecap = {
   type: "story-chapter-read",
   slug: "new-gam3-plus-0013-to-recap",
   title: "To Recap...",
-  story: "new-gam3-plus",
+  story: "story-read/new-gam3-plus",
   position: 13,
   ownLength: 4731,
   unit: "unit/words",

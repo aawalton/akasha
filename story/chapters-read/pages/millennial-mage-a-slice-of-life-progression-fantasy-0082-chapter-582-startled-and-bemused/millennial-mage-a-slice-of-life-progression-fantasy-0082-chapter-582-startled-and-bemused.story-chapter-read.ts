@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0082Chapter582StartledA
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0082-chapter-582-startled-and-bemused",
   title: "Chapter: 582 - Startled and Bemused",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 82,
   ownLength: 2889,
   ownProgress: 2889,

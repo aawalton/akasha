@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0730Chapter729PleasureInterlud
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0730-chapter-729-pleasure-interlude",
   title: "Chapter 729 - Pleasure Interlude",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 730,
   ownLength: 2841,
   unit: "unit/words",

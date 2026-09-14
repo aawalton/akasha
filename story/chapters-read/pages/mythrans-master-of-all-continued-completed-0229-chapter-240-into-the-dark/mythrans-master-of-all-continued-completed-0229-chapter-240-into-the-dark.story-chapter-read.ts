@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0229Chapter240IntoTheDark = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0229-chapter-240-into-the-dark",
   title: "Chapter 240 - Into The Dark",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 229,
   ownLength: 3704,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0033033DoubleEdgedSword 
   type: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0033-033-double-edged-sword",
   title: "033: Double Edged Sword",
-  story: "incremental-torture-an-idle-system-tower-climbing",
+  story: "story-read/incremental-torture-an-idle-system-tower-climbing",
   position: 33,
   ownLength: 2242,
   unit: "unit/words",

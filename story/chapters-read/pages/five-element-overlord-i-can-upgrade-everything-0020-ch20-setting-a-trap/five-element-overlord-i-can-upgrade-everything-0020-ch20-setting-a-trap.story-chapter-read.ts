@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0020Ch20SettingATrap = {
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0020-ch20-setting-a-trap",
   title: "Ch20 Setting a trap",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 20,
   ownLength: 1267,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0275Chapter92ForceRiposte = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0275-chapter-92-force-riposte",
   title: "Chapter 92: Force Riposte",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 275,
   ownLength: 1512,
   unit: "unit/words",

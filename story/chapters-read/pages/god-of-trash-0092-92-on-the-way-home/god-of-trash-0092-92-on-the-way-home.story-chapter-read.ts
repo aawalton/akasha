@@ -5,7 +5,7 @@ export const godOfTrash009292OnTheWayHome = {
   type: "story-chapter-read",
   slug: "god-of-trash-0092-92-on-the-way-home",
   title: "92. On The Way Home",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 92,
   ownLength: 2688,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0380Chapter386RoyalConsort = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0380-chapter-386-royal-consort",
   title: "Chapter 386 - Royal Consort",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 380,
   ownLength: 3973,
   unit: "unit/words",

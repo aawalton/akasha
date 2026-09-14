@@ -5,7 +5,7 @@ export const godOfTrash009393SmallChatsWithASmallCat = {
   type: "story-chapter-read",
   slug: "god-of-trash-0093-93-small-chats-with-a-small-cat",
   title: "93. Small Chats with a Small Cat",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 93,
   ownLength: 2688,
   unit: "unit/words",

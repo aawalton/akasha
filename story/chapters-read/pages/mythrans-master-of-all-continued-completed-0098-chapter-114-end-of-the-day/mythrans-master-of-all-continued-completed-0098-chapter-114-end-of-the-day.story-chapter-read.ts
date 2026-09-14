@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0098Chapter114EndOfTheDay = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0098-chapter-114-end-of-the-day",
   title: "Chapter 114 - End Of The Day",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 98,
   ownLength: 5155,
   unit: "unit/words",

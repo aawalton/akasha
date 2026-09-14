@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0059Ch59GreenRockLake = {
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0059-ch59-green-rock-lake",
   title: "Ch59 Green Rock Lake",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 59,
   ownLength: 2113,
   unit: "unit/words",

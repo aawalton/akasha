@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0603Chapter603MeetingWithThePr
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0603-chapter-603-meeting-with-the-princess",
   title: "Chapter 603 - Meeting With The Princess",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 603,
   ownLength: 2851,
   unit: "unit/words",

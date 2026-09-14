@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0553Chapter553FinishingLunch =
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0553-chapter-553-finishing-lunch",
   title: "Chapter 553 - Finishing Lunch",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 553,
   ownLength: 2547,
   unit: "unit/words",

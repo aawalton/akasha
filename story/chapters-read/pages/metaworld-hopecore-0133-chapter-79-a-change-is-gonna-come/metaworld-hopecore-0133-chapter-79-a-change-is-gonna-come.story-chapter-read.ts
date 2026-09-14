@@ -5,7 +5,7 @@ export const metaworldHopecore0133Chapter79AChangeIsGonnaCome = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0133-chapter-79-a-change-is-gonna-come",
   title: "CHAPTER 79 - A Change Is Gonna Come",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 133,
   ownLength: 3017,
   unit: "unit/words",

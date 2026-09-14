@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0639Chapter638DarkPlans = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0639-chapter-638-dark-plans",
   title: "Chapter 638 - Dark Plans",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 639,
   ownLength: 2642,
   unit: "unit/words",

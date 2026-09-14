@@ -5,7 +5,7 @@ export const godOfTrash0231231GoDirectlyToHell = {
   type: "story-chapter-read",
   slug: "god-of-trash-0231-231-go-directly-to-hell",
   title: "231. Go Directly to Hell",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 231,
   ownLength: 1979,
   unit: "unit/words",

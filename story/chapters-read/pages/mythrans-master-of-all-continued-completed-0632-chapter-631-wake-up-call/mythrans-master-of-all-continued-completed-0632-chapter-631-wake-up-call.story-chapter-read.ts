@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0632Chapter631WakeUpCall = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0632-chapter-631-wake-up-call",
   title: "Chapter 631 - Wake Up Call",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 632,
   ownLength: 2844,
   unit: "unit/words",

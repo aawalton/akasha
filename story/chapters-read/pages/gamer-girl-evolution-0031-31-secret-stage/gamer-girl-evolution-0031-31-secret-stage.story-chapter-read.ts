@@ -5,7 +5,7 @@ export const gamerGirlEvolution003131SecretStage = {
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0031-31-secret-stage",
   title: "31 - Secret Stage?",
-  story: "gamer-girl-evolution",
+  story: "story-read/gamer-girl-evolution",
   position: 31,
   ownLength: 1775,
   ownProgress: 1775,

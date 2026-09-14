@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0018127IInfusion2615897 = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0018-127-i-infusion-2615897",
   title: "127 (I) Infusion",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 18,
   ownLength: 2834,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0092Chapter108OrderingStuff = 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0092-chapter-108-ordering-stuff",
   title: "Chapter 108 - Ordering Stuff",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 92,
   ownLength: 6331,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0117Chapter132TheHole = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0117-chapter-132-the-hole",
   title: "Chapter 132 - The Hole",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 117,
   ownLength: 4480,
   unit: "unit/words",

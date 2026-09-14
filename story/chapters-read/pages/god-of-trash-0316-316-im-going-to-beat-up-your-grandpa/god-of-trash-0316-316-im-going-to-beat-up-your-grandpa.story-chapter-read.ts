@@ -5,7 +5,7 @@ export const godOfTrash0316316ImGoingToBeatUpYourGrandpa = {
   type: "story-chapter-read",
   slug: "god-of-trash-0316-316-im-going-to-beat-up-your-grandpa",
   title: "316. I'm Going to Beat Up Your Grandpa",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 316,
   ownLength: 1919,
   unit: "unit/words",

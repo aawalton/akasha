@@ -5,7 +5,7 @@ export const gamerGirlEvolution00011Celica = {
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0001-1-celica",
   title: "1 - Celica ",
-  story: "gamer-girl-evolution",
+  story: "story-read/gamer-girl-evolution",
   position: 1,
   ownLength: 1641,
   ownProgress: 1641,

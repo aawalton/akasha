@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0163Chapter657MotherDau
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0163-chapter-657-mother-daughter-tea",
   title: "Chapter: 657 - Mother-Daughter Tea",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 163,
   ownLength: 3004,
   ownProgress: 3004,

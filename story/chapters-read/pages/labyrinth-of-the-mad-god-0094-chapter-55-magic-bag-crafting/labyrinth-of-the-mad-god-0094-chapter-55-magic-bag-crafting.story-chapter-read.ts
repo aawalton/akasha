@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0094Chapter55MagicBagCrafting = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0094-chapter-55-magic-bag-crafting",
   title: "Chapter 55: Magic Bag Crafting",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 94,
   ownLength: 1372,
   unit: "unit/words",

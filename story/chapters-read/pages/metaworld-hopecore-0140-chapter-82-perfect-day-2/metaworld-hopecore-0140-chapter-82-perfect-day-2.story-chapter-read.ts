@@ -5,7 +5,7 @@ export const metaworldHopecore0140Chapter82PerfectDay2 = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0140-chapter-82-perfect-day-2",
   title: "CHAPTER 82 - Perfect Day (2) ",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 140,
   ownLength: 2101,
   unit: "unit/words",

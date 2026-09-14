@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0193Chapter205PoorRen = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0193-chapter-205-poor-ren",
   title: "Chapter 205 - Poor Ren",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 193,
   ownLength: 2708,
   unit: "unit/words",

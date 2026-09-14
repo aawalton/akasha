@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0759Chapter758SoThatHappened =
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0759-chapter-758-so-that-happened",
   title: "Chapter 758 - So That Happened",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 759,
   ownLength: 3255,
   unit: "unit/words",

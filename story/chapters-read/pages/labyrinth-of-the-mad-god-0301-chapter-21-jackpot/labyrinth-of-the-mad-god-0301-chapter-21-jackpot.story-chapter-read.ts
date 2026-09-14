@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0301Chapter21Jackpot = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0301-chapter-21-jackpot",
   title: "Chapter 21: Jackpot",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 301,
   ownLength: 2449,
   unit: "unit/words",

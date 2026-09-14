@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0051Chapter67AQuickEncounter =
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0051-chapter-67-a-quick-encounter",
   title: "Chapter 67 - A Quick Encounter",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 51,
   ownLength: 4564,
   unit: "unit/words",

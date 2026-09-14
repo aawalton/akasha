@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0094ChapterNinetyOneSerindell = {
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0094-chapter-ninety-one-serindell",
   title: "Chapter Ninety-One: Serindell",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 94,
   ownLength: 2932,
   unit: "unit/words",

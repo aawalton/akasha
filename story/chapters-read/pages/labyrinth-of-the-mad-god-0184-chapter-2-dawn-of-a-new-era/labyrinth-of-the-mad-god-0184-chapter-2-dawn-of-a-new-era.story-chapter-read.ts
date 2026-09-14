@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0184Chapter2DawnOfANewEra = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0184-chapter-2-dawn-of-a-new-era",
   title: "Chapter 2: Dawn of a New Era",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 184,
   ownLength: 2328,
   unit: "unit/words",

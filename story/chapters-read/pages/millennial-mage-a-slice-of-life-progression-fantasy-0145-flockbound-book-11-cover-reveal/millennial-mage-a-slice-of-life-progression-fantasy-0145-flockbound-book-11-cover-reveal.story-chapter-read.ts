@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0145FlockboundBook11Cov
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0145-flockbound-book-11-cover-reveal",
   title: "Flockbound - Book 11 Cover Reveal!",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 145,
   ownLength: 29,
   ownProgress: 29,

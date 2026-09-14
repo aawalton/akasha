@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0041041The16thFloor = {
   type: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0041-041-the-16th-floor",
   title: "041: The 16th Floor",
-  story: "incremental-torture-an-idle-system-tower-climbing",
+  story: "story-read/incremental-torture-an-idle-system-tower-climbing",
   position: 41,
   ownLength: 2224,
   unit: "unit/words",

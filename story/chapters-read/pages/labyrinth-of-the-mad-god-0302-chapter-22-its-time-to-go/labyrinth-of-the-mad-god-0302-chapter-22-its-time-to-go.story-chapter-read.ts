@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0302Chapter22ItsTimeToGo = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0302-chapter-22-its-time-to-go",
   title: "Chapter 22: It’s Time to Go",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 302,
   ownLength: 3032,
   unit: "unit/words",

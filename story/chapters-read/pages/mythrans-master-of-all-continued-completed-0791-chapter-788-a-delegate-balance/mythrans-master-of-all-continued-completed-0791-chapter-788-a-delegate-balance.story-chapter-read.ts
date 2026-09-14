@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0791Chapter788ADelegateBalance
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0791-chapter-788-a-delegate-balance",
   title: "Chapter 788 - A Delegate Balance",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 791,
   ownLength: 3657,
   unit: "unit/words",

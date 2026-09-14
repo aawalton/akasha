@@ -5,7 +5,7 @@ export const godOfTrash002525PotionsAndThePit = {
   type: "story-chapter-read",
   slug: "god-of-trash-0025-25-potions-and-the-pit",
   title: "25. Potions and the Pit",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 25,
   ownLength: 2573,
   unit: "unit/words",

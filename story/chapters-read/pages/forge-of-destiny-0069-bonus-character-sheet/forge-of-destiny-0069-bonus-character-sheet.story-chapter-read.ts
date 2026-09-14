@@ -5,7 +5,7 @@ export const forgeOfDestiny0069BonusCharacterSheet = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0069-bonus-character-sheet",
   title: "Bonus: Character Sheet",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 69,
   ownLength: 3754,
   unit: "unit/words",

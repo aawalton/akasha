@@ -5,7 +5,7 @@ export const hellHorizonHealer0015Chapter15Focus = {
   type: "story-chapter-read",
   slug: "hell-horizon-healer-0015-chapter-15-focus",
   title: "Chapter 15 - Focus",
-  story: "hell-horizon-healer",
+  story: "story-read/hell-horizon-healer",
   position: 15,
   ownLength: 1667,
   unit: "unit/words",

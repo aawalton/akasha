@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed005398IiHuntIii = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0053-98-ii-hunt-iii",
   title: "98 (II)  Hunt [III] ",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 53,
   ownLength: 0,
   unit: "unit/words",

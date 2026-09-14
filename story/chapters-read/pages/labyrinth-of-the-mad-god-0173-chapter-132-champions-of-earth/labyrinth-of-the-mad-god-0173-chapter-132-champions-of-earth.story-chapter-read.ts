@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0173Chapter132ChampionsOfEarth = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0173-chapter-132-champions-of-earth",
   title: "Chapter 132: Champions of Earth",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 173,
   ownLength: 3705,
   unit: "unit/words",

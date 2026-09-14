@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0537Chapter537HardTruths = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0537-chapter-537-hard-truths",
   title: "Chapter 537 - Hard Truths",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 537,
   ownLength: 3399,
   unit: "unit/words",

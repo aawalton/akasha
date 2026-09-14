@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0303Chapter312WaterIsRight = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0303-chapter-312-water-is-right",
   title: "Chapter 312 - Water is Right",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 303,
   ownLength: 3188,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const hellHorizonHealer0012Chapter12Tension = {
   type: "story-chapter-read",
   slug: "hell-horizon-healer-0012-chapter-12-tension",
   title: "Chapter 12 - Tension",
-  story: "hell-horizon-healer",
+  story: "story-read/hell-horizon-healer",
   position: 12,
   ownLength: 1602,
   unit: "unit/words",

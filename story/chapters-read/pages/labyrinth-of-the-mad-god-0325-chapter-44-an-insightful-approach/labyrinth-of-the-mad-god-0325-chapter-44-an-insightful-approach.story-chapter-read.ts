@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0325Chapter44AnInsightfulApproach = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0325-chapter-44-an-insightful-approach",
   title: "Chapter 44: An Insightful Approach",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 325,
   ownLength: 2139,
   unit: "unit/words",

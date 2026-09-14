@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0026BookThreeChapter1TheTrueTower = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0026-book-three-chapter-1-the-true-tower",
   title: "Book Three, Chapter 1: The True Tower",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 26,
   ownLength: 1606,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0517Chapter517AnEntourage = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0517-chapter-517-an-entourage",
   title: "Chapter 517 - An Entourage",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 517,
   ownLength: 2023,
   unit: "unit/words",

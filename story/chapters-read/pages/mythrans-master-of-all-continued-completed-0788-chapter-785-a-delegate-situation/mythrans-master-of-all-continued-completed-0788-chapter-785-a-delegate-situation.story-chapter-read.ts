@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0788Chapter785ADelegateSituati
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0788-chapter-785-a-delegate-situation",
   title: "Chapter 785 - A Delegate Situation",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 788,
   ownLength: 2942,
   unit: "unit/words",

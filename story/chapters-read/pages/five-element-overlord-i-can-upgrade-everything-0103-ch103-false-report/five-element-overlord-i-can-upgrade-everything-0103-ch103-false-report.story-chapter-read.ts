@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0103Ch103FalseReport = {
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0103-ch103-false-report",
   title: "Ch103 False Report",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 103,
   ownLength: 1552,
   unit: "unit/words",

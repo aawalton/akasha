@@ -5,7 +5,7 @@ export const godOfTrash0199199IGetWhyTheyDefeatedYou = {
   type: "story-chapter-read",
   slug: "god-of-trash-0199-199-i-get-why-they-defeated-you",
   title: "199. I Get Why They Defeated You",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 199,
   ownLength: 1826,
   unit: "unit/words",

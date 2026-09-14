@@ -5,7 +5,7 @@ export const metaworldHopecore0012Chapter7WorkinForALivin = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0012-chapter-7-workin-for-a-livin",
   title: "CHAPTER 7 - Workin’ for a Livin’",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 12,
   ownLength: 1785,
   unit: "unit/words",

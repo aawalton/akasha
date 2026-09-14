@@ -5,7 +5,7 @@ export const hellHorizonHealer0002Chapter2WellThisIsStrange = {
   type: "story-chapter-read",
   slug: "hell-horizon-healer-0002-chapter-2-well-this-is-strange",
   title: "Chapter 2 - Well, This Is Strange",
-  story: "hell-horizon-healer",
+  story: "story-read/hell-horizon-healer",
   position: 2,
   ownLength: 1574,
   unit: "unit/words",

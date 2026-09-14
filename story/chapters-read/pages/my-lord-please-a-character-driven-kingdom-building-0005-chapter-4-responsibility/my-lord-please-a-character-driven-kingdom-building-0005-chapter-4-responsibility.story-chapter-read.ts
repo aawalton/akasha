@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0005Chapter4Responsibili
   type: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0005-chapter-4-responsibility",
   title: "Chapter 4 Responsibility",
-  story: "my-lord-please-a-character-driven-kingdom-building",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   position: 5,
   ownLength: 2234,
   unit: "unit/words",

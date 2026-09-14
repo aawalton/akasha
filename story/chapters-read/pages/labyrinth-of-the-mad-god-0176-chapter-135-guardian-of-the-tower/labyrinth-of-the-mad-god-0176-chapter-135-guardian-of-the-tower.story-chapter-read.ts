@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0176Chapter135GuardianOfTheTower = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0176-chapter-135-guardian-of-the-tower",
   title: "Chapter 135: Guardian of the Tower",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 176,
   ownLength: 1734,
   unit: "unit/words",

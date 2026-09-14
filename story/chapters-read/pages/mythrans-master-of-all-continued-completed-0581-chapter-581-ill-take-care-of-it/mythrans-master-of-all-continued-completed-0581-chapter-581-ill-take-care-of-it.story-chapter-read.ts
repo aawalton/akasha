@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0581Chapter581IllTakeCareOfIt 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0581-chapter-581-ill-take-care-of-it",
   title: "Chapter 581 - I'll Take Care Of It",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 581,
   ownLength: 2857,
   unit: "unit/words",

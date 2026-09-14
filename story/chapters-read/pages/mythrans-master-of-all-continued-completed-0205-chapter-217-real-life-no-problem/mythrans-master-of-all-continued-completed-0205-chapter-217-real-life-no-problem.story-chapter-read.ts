@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0205Chapter217RealLifeNoProble
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0205-chapter-217-real-life-no-problem",
   title: "Chapter 217 - Real Life? No Problem",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 205,
   ownLength: 5119,
   unit: "unit/words",

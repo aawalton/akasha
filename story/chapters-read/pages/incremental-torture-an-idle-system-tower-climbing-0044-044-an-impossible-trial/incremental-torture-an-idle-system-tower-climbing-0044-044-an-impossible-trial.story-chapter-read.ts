@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0044044AnImpossibleTrial
   type: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0044-044-an-impossible-trial",
   title: "044: An Impossible Trial?",
-  story: "incremental-torture-an-idle-system-tower-climbing",
+  story: "story-read/incremental-torture-an-idle-system-tower-climbing",
   position: 44,
   ownLength: 2139,
   unit: "unit/words",

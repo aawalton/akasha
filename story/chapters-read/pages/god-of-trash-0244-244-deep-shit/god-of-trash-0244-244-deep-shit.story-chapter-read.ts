@@ -5,7 +5,7 @@ export const godOfTrash0244244DeepShit = {
   type: "story-chapter-read",
   slug: "god-of-trash-0244-244-deep-shit",
   title: "244. Deep Shit",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 244,
   ownLength: 1798,
   unit: "unit/words",

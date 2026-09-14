@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0402Chapter405InTheHospital = 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0402-chapter-405-in-the-hospital",
   title: "Chapter 405 - In The Hospital",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 402,
   ownLength: 2846,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0159Chapter118BadassBloodlineTrait = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0159-chapter-118-badass-bloodline-trait",
   title: "Chapter 118: Badass Bloodline Trait",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 159,
   ownLength: 1688,
   unit: "unit/words",

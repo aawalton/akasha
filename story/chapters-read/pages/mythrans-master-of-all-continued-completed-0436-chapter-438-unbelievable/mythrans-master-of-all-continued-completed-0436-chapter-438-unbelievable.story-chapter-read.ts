@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0436Chapter438Unbelievable = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0436-chapter-438-unbelievable",
   title: "Chapter 438 - Unbelievable",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 436,
   ownLength: 3277,
   unit: "unit/words",

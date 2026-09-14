@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0056Ch56OffToBattle = {
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0056-ch56-off-to-battle",
   title: "Ch56 Off to Battle",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 56,
   ownLength: 1934,
   unit: "unit/words",

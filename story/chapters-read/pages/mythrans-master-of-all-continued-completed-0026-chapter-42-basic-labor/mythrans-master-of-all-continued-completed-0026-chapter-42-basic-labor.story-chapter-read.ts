@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0026Chapter42BasicLabor = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0026-chapter-42-basic-labor",
   title: "Chapter 42 - Basic Labor",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 26,
   ownLength: 2480,
   unit: "unit/words",

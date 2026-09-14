@@ -5,7 +5,7 @@ export const forgeOfDestiny0547Book2RelaunchAnnouncement = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0547-book-2-relaunch-announcement",
   title: "Book 2 Relaunch announcement",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 547,
   ownLength: 139,
   unit: "unit/words",

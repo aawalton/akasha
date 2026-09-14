@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0110ChapterOneHundredSevenTheDinner =
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0110-chapter-one-hundred-seven-the-dinner",
   title: "Chapter One Hundred Seven: The Dinner",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 110,
   ownLength: 2203,
   unit: "unit/words",

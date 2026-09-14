@@ -5,7 +5,7 @@ export const godOfTrash0267267HeKnows = {
   type: "story-chapter-read",
   slug: "god-of-trash-0267-267-he-knows",
   title: "267. He Knows",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 267,
   ownLength: 2053,
   unit: "unit/words",

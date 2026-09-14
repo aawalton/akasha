@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0037Chapter10KellensLog = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0037-chapter-10-kellens-log",
   title: "Chapter 10: Kellen’s Log",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 37,
   ownLength: 1736,
   unit: "unit/words",

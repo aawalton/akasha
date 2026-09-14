@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0282Chapter2TraversingTheLabyrinth = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0282-chapter-2-traversing-the-labyrinth",
   title: "Chapter 2: Traversing the Labyrinth",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 282,
   ownLength: 2198,
   unit: "unit/words",

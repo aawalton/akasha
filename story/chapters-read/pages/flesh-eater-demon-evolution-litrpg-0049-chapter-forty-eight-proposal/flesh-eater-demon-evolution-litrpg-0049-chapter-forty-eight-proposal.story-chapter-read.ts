@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0049ChapterFortyEightProposal = {
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0049-chapter-forty-eight-proposal",
   title: "Chapter Forty-Eight: Proposal",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 49,
   ownLength: 3083,
   unit: "unit/words",

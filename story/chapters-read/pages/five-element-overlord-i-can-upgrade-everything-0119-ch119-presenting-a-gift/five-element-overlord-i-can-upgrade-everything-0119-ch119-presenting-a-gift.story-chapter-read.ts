@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0119Ch119PresentingAGift = 
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0119-ch119-presenting-a-gift",
   title: "Ch119 Presenting a Gift",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 119,
   ownLength: 3154,
   unit: "unit/words",

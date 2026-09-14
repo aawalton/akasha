@@ -5,7 +5,7 @@ export const godOfTrash004040DiggingThroughTheTrash = {
   type: "story-chapter-read",
   slug: "god-of-trash-0040-40-digging-through-the-trash",
   title: "40. Digging Through the Trash",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 40,
   ownLength: 2757,
   unit: "unit/words",

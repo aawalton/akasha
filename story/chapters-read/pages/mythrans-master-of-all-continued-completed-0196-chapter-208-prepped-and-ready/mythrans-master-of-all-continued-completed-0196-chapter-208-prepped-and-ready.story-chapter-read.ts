@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0196Chapter208PreppedAndReady 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0196-chapter-208-prepped-and-ready",
   title: "Chapter 208 - Prepped And Ready",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 196,
   ownLength: 3441,
   unit: "unit/words",

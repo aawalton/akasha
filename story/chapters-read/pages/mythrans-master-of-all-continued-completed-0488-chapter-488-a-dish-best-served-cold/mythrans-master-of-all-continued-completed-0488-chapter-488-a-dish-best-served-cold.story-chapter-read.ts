@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0488Chapter488ADishBestServedC
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0488-chapter-488-a-dish-best-served-cold",
   title: "Chapter 488 - A Dish Best Served Cold",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 488,
   ownLength: 4028,
   unit: "unit/words",

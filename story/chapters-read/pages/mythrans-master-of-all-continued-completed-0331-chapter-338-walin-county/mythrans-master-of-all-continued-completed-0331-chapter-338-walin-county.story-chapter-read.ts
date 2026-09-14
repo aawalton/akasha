@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0331Chapter338WalinCounty = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0331-chapter-338-walin-county",
   title: "Chapter 338 - Walin County",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 331,
   ownLength: 3760,
   unit: "unit/words",

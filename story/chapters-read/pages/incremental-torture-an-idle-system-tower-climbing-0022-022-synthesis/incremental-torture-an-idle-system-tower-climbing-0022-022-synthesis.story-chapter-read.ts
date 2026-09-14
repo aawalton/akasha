@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0022022Synthesis = {
   type: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0022-022-synthesis",
   title: "022: Synthesis",
-  story: "incremental-torture-an-idle-system-tower-climbing",
+  story: "story-read/incremental-torture-an-idle-system-tower-climbing",
   position: 22,
   ownLength: 2094,
   unit: "unit/words",

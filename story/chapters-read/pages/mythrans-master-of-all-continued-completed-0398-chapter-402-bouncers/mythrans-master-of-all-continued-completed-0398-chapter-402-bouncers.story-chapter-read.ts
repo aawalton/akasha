@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0398Chapter402Bouncers = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0398-chapter-402-bouncers",
   title: "Chapter 402 - Bouncers",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 398,
   ownLength: 3251,
   unit: "unit/words",

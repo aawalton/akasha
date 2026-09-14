@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0465Chapter465SpendingMyTimeWi
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0465-chapter-465-spending-my-time-wisely",
   title: "Chapter 465 - Spending My Time Wisely",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 465,
   ownLength: 3288,
   unit: "unit/words",

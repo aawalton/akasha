@@ -5,7 +5,7 @@ export const godOfTrash0232232IntoTheGreatFrozenNorth = {
   type: "story-chapter-read",
   slug: "god-of-trash-0232-232-into-the-great-frozen-north",
   title: "232. Into the Great Frozen North",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 232,
   ownLength: 1953,
   unit: "unit/words",

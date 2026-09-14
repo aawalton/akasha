@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0046Chapter547ASinglePl
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0046-chapter-547-a-single-pleading-glance",
   title: "Chapter: 547 - A Single Pleading Glance",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 46,
   ownLength: 3130,
   ownProgress: 3130,

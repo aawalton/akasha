@@ -5,7 +5,7 @@ export const godOfTrash001313GardeningForFunAndProfit = {
   type: "story-chapter-read",
   slug: "god-of-trash-0013-13-gardening-for-fun-and-profit",
   title: "13. Gardening for Fun and Profit",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 13,
   ownLength: 1560,
   unit: "unit/words",

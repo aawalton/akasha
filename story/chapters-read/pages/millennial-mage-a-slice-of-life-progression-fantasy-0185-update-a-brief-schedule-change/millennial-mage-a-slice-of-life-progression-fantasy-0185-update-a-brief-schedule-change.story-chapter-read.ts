@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0185UpdateABriefSchedul
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0185-update-a-brief-schedule-change",
   title: "<Update> A Brief Schedule Change",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 185,
   ownLength: 163,
   ownProgress: 163,

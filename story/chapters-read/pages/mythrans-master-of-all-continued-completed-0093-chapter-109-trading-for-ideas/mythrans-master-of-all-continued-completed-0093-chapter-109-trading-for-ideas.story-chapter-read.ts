@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0093Chapter109TradingForIdeas 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0093-chapter-109-trading-for-ideas",
   title: "Chapter 109 - Trading For Ideas",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 93,
   ownLength: 4821,
   unit: "unit/words",

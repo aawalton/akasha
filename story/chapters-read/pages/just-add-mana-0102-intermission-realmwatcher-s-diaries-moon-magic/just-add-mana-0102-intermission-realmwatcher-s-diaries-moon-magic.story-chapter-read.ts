@@ -5,7 +5,7 @@ export const justAddMana0102IntermissionRealmwatcherSDiariesMoonMagic = {
   type: "story-chapter-read",
   slug: "just-add-mana-0102-intermission-realmwatcher-s-diaries-moon-magic",
   title: "INTERMISSION:  Realmwatcher's Diaries — Moon Magic",
-  story: "just-add-mana",
+  story: "story-read/just-add-mana",
   position: 102,
   ownLength: 1153,
   ownProgress: 1153,

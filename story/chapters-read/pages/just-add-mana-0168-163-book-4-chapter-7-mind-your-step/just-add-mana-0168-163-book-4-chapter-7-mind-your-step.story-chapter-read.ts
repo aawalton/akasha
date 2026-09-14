@@ -5,7 +5,7 @@ export const justAddMana0168163Book4Chapter7MindYourStep = {
   type: "story-chapter-read",
   slug: "just-add-mana-0168-163-book-4-chapter-7-mind-your-step",
   title: "163 — Book 4, Chapter 7 — Mind Your Step",
-  story: "just-add-mana",
+  story: "story-read/just-add-mana",
   position: 168,
   ownLength: 3314,
   unit: "unit/words",

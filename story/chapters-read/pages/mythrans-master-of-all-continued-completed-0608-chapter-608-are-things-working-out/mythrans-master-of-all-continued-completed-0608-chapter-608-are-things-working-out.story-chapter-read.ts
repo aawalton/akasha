@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0608Chapter608AreThingsWorking
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0608-chapter-608-are-things-working-out",
   title: "Chapter 608 - Are Things Working Out?",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 608,
   ownLength: 2745,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0753Chapter752CustomsCheck = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0753-chapter-752-customs-check",
   title: "Chapter 752 - Customs Check",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 753,
   ownLength: 3606,
   unit: "unit/words",

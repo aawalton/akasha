@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0104ChapterOneHundredOneRecognition =
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0104-chapter-one-hundred-one-recognition",
   title: "Chapter One Hundred One: Recognition",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 104,
   ownLength: 2136,
   unit: "unit/words",

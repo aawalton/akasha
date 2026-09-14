@@ -5,7 +5,7 @@ export const godOfTrash0140140AnUnexpectedVisit = {
   type: "story-chapter-read",
   slug: "god-of-trash-0140-140-an-unexpected-visit",
   title: "140. An Unexpected Visit",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 140,
   ownLength: 2179,
   unit: "unit/words",

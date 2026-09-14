@@ -5,7 +5,7 @@ export const godOfTrash002929BookExchange = {
   type: "story-chapter-read",
   slug: "god-of-trash-0029-29-book-exchange",
   title: "29. Book Exchange",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 29,
   ownLength: 2206,
   unit: "unit/words",

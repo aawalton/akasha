@@ -5,7 +5,7 @@ export const godOfTrash0241241BeneathTheIce = {
   type: "story-chapter-read",
   slug: "god-of-trash-0241-241-beneath-the-ice",
   title: "241. Beneath the Ice",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 241,
   ownLength: 2221,
   unit: "unit/words",

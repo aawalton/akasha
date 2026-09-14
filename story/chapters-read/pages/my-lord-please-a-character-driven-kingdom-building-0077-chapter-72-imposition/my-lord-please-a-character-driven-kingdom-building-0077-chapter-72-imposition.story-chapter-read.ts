@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0077Chapter72Imposition 
   type: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0077-chapter-72-imposition",
   title: "Chapter 72 Imposition",
-  story: "my-lord-please-a-character-driven-kingdom-building",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   position: 77,
   ownLength: 1920,
   unit: "unit/words",

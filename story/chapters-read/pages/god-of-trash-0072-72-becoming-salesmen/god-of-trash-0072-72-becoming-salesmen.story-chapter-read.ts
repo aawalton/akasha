@@ -5,7 +5,7 @@ export const godOfTrash007272BecomingSalesmen = {
   type: "story-chapter-read",
   slug: "god-of-trash-0072-72-becoming-salesmen",
   title: "72. Becoming Salesmen",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 72,
   ownLength: 2822,
   unit: "unit/words",

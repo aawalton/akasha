@@ -5,7 +5,7 @@ export const metaworldHopecore0075Chapter41BothSidesNow = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0075-chapter-41-both-sides-now",
   title: "Chapter 41 - Both Sides Now ",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 75,
   ownLength: 2415,
   unit: "unit/words",

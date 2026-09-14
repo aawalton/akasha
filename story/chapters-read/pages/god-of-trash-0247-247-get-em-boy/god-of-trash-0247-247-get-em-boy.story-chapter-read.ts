@@ -5,7 +5,7 @@ export const godOfTrash0247247GetEmBoy = {
   type: "story-chapter-read",
   slug: "god-of-trash-0247-247-get-em-boy",
   title: "247. Get 'em, Boy",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 247,
   ownLength: 2017,
   unit: "unit/words",

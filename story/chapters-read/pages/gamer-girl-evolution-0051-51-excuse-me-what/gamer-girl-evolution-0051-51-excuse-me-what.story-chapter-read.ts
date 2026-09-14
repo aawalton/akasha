@@ -5,7 +5,7 @@ export const gamerGirlEvolution005151ExcuseMeWhat = {
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0051-51-excuse-me-what",
   title: "51 - Excuse me... what?",
-  story: "gamer-girl-evolution",
+  story: "story-read/gamer-girl-evolution",
   position: 51,
   ownLength: 1722,
   ownProgress: 1722,

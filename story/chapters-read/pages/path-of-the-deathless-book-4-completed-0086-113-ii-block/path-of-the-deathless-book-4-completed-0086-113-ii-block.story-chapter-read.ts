@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0086113IiBlock = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0086-113-ii-block",
   title: "113 (II) Block",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 86,
   ownLength: 0,
   unit: "unit/words",

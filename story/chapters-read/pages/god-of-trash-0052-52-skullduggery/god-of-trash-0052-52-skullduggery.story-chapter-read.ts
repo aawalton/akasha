@@ -5,7 +5,7 @@ export const godOfTrash005252Skullduggery = {
   type: "story-chapter-read",
   slug: "god-of-trash-0052-52-skullduggery",
   title: "52. Skullduggery",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 52,
   ownLength: 2879,
   unit: "unit/words",

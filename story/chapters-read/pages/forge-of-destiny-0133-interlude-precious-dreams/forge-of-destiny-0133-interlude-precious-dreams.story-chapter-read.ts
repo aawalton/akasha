@@ -5,7 +5,7 @@ export const forgeOfDestiny0133InterludePreciousDreams = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0133-interlude-precious-dreams",
   title: "Interlude: Precious Dreams",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 133,
   ownLength: 2716,
   unit: "unit/words",

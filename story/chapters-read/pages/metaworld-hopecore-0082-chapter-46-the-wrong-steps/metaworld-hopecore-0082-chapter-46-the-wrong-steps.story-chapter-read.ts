@@ -5,7 +5,7 @@ export const metaworldHopecore0082Chapter46TheWrongSteps = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0082-chapter-46-the-wrong-steps",
   title: "CHAPTER 46 - The Wrong Steps",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 82,
   ownLength: 4318,
   unit: "unit/words",

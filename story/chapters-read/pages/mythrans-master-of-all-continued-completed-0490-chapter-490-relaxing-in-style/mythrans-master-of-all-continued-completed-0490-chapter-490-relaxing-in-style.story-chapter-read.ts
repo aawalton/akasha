@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0490Chapter490RelaxingInStyle 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0490-chapter-490-relaxing-in-style",
   title: "Chapter 490 - Relaxing In Style",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 490,
   ownLength: 3421,
   unit: "unit/words",

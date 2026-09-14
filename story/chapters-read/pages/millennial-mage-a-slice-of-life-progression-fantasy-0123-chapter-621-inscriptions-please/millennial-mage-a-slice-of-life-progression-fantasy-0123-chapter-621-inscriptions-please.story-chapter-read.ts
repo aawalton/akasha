@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0123Chapter621Inscripti
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0123-chapter-621-inscriptions-please",
   title: "Chapter: 621 - Inscriptions Please?",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 123,
   ownLength: 3128,
   ownProgress: 3128,

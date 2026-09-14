@@ -5,7 +5,7 @@ export const metaworldHopecore0027Chapter14ThePretender2 = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0027-chapter-14-the-pretender-2",
   title: "Chapter 14 - The Pretender (2) ",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 27,
   ownLength: 2148,
   unit: "unit/words",

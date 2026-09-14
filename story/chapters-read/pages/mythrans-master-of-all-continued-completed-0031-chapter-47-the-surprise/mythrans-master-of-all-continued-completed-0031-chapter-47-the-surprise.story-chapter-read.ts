@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0031Chapter47TheSurprise = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0031-chapter-47-the-surprise",
   title: "Chapter 47 - The Surprise",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 31,
   ownLength: 2521,
   unit: "unit/words",

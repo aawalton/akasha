@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0034ChapterThirtyThreeClassUpgrade = 
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0034-chapter-thirty-three-class-upgrade",
   title: "Chapter Thirty-Three: Class Upgrade",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 34,
   ownLength: 2882,
   unit: "unit/words",

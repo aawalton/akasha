@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0323Chapter42DreadLightning = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0323-chapter-42-dread-lightning",
   title: "Chapter 42: Dread Lightning",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 323,
   ownLength: 1878,
   unit: "unit/words",

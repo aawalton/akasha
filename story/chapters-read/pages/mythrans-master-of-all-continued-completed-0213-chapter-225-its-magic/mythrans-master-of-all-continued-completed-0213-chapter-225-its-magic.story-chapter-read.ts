@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0213Chapter225ItsMagic = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0213-chapter-225-its-magic",
   title: "Chapter 225 - It's Magic",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 213,
   ownLength: 4581,
   unit: "unit/words",

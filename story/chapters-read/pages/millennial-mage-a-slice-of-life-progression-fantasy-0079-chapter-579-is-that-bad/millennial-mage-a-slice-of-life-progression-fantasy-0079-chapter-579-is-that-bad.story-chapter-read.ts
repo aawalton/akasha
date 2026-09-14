@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0079Chapter579IsThatBad
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0079-chapter-579-is-that-bad",
   title: "Chapter: 579 - Is That… Bad?",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 79,
   ownLength: 2704,
   ownProgress: 2704,

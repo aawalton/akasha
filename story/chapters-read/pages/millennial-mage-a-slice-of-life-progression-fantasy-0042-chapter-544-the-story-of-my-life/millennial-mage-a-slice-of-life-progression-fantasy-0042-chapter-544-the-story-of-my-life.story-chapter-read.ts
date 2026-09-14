@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0042Chapter544TheStoryO
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0042-chapter-544-the-story-of-my-life",
   title: "Chapter: 544 - The Story of My Life",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 42,
   ownLength: 3004,
   ownProgress: 3004,

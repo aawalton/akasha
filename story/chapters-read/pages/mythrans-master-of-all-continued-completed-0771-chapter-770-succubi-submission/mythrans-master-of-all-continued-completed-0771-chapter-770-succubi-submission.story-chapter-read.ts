@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0771Chapter770SuccubiSubmissio
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0771-chapter-770-succubi-submission",
   title: "Chapter 770 - Succubi Submission",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 771,
   ownLength: 3141,
   unit: "unit/words",

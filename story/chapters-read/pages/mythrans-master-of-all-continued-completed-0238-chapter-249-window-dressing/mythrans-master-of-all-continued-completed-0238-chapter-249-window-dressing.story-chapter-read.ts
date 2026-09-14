@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0238Chapter249WindowDressing =
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0238-chapter-249-window-dressing",
   title: "Chapter 249 - Window Dressing",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 238,
   ownLength: 3921,
   unit: "unit/words",

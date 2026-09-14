@@ -5,7 +5,7 @@ export const justAddMana0139136Book3Chapter35Reconstitution = {
   type: "story-chapter-read",
   slug: "just-add-mana-0139-136-book-3-chapter-35-reconstitution",
   title: "136 — Book 3, Chapter 35 — Reconstitution",
-  story: "just-add-mana",
+  story: "story-read/just-add-mana",
   position: 139,
   ownLength: 2965,
   unit: "unit/words",

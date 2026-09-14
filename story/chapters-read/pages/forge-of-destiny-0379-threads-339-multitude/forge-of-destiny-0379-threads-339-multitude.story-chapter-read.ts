@@ -5,7 +5,7 @@ export const forgeOfDestiny0379Threads339Multitude = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0379-threads-339-multitude",
   title: "Threads 339 Multitude",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 379,
   ownLength: 1844,
   unit: "unit/words",

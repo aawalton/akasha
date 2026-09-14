@@ -5,7 +5,7 @@ export const justAddMana0143140Book3Chapter39SymbolicWeather = {
   type: "story-chapter-read",
   slug: "just-add-mana-0143-140-book-3-chapter-39-symbolic-weather",
   title: "140 — Book 3, Chapter 39 —Symbolic Weather",
-  story: "just-add-mana",
+  story: "story-read/just-add-mana",
   position: 143,
   ownLength: 2618,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0075Ch75ChoosingAPeak = {
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0075-ch75-choosing-a-peak",
   title: "Ch75 Choosing A Peak",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 75,
   ownLength: 1843,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const metaworldHopecore0153Chapter89TheKidsAreAlright2 = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0153-chapter-89-the-kids-are-alright-2",
   title: "CHAPTER 89 — The Kids Are Alright (2)",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 153,
   ownLength: 2539,
   unit: "unit/words",

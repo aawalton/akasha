@@ -5,7 +5,7 @@ export const hellHorizonHealer0036Chapter36DangersOfMana = {
   type: "story-chapter-read",
   slug: "hell-horizon-healer-0036-chapter-36-dangers-of-mana",
   title: "Chapter 36 - Dangers of Mana",
-  story: "hell-horizon-healer",
+  story: "story-read/hell-horizon-healer",
   position: 36,
   ownLength: 1145,
   unit: "unit/words",

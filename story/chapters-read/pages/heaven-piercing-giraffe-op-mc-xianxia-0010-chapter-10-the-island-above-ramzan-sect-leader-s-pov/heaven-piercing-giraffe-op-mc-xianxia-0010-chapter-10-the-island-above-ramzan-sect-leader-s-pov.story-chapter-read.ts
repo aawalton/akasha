@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia0010Chapter10TheIslandAboveRamzanSe
   type: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0010-chapter-10-the-island-above-ramzan-sect-leader-s-pov",
   title: "Chapter 10: The Island Above (Ramzan Sect Leader's POV)",
-  story: "heaven-piercing-giraffe-op-mc-xianxia",
+  story: "story-read/heaven-piercing-giraffe-op-mc-xianxia",
   position: 10,
   ownLength: 1810,
   unit: "unit/words",

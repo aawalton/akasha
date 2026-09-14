@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0228Chapter719MagicEngi
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0228-chapter-719-magic-engine",
   title: "Chapter: 719 - Magic-Engine",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 228,
   ownLength: 2575,
   unit: "unit/words",

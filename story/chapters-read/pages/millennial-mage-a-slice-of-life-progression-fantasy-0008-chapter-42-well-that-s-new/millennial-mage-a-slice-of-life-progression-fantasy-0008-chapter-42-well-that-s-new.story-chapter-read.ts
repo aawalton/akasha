@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0008Chapter42WellThatSN
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0008-chapter-42-well-that-s-new",
   title: "Chapter: 42 - Well… That’s New",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 8,
   ownLength: 3616,
   ownProgress: 3616,

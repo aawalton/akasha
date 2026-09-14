@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0334Chapter341APromiseIsAPromi
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0334-chapter-341-a-promise-is-a-promise",
   title: "Chapter 341 - A Promise Is A Promise",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 334,
   ownLength: 3516,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0734Chapter733DuelDilemma = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0734-chapter-733-duel-dilemma",
   title: "Chapter 733 - Duel Dilemma",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 734,
   ownLength: 3160,
   unit: "unit/words",

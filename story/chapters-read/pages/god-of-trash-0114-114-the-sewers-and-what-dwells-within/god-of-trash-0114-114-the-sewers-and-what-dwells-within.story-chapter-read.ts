@@ -5,7 +5,7 @@ export const godOfTrash0114114TheSewersAndWhatDwellsWithin = {
   type: "story-chapter-read",
   slug: "god-of-trash-0114-114-the-sewers-and-what-dwells-within",
   title: "114. The Sewers and What Dwells Within",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 114,
   ownLength: 2583,
   unit: "unit/words",

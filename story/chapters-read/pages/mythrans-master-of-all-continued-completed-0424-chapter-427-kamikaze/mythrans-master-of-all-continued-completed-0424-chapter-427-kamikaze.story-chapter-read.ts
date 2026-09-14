@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0424Chapter427Kamikaze = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0424-chapter-427-kamikaze",
   title: "Chapter 427 - Kamikaze?",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 424,
   ownLength: 3228,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0426Chapter429Discovery = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0426-chapter-429-discovery",
   title: "Chapter 429 - Discovery",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 426,
   ownLength: 3261,
   unit: "unit/words",

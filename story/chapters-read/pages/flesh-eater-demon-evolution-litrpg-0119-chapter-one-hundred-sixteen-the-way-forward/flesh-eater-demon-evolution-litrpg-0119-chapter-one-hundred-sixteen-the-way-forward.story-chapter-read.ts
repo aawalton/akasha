@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0119ChapterOneHundredSixteenTheWayFor
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0119-chapter-one-hundred-sixteen-the-way-forward",
   title: "Chapter One Hundred Sixteen: The Way Forward",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 119,
   ownLength: 3006,
   unit: "unit/words",

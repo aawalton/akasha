@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0731Chapter730CuddleSecrets = 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0731-chapter-730-cuddle-secrets",
   title: "Chapter 730 - Cuddle Secrets",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 731,
   ownLength: 2923,
   unit: "unit/words",

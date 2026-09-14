@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed004695IChange = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0046-95-i-change",
   title: "95 (I) Change",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 46,
   ownLength: 0,
   unit: "unit/words",

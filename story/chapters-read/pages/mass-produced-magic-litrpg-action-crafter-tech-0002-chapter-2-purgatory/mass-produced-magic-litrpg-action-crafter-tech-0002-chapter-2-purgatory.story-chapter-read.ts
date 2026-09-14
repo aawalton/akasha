@@ -5,7 +5,7 @@ export const massProducedMagicLitrpgActionCrafterTech0002Chapter2Purgatory = {
   type: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0002-chapter-2-purgatory",
   title: "Chapter 2 – Purgatory",
-  story: "mass-produced-magic-litrpg-action-crafter-tech",
+  story: "story-read/mass-produced-magic-litrpg-action-crafter-tech",
   position: 2,
   ownLength: 2379,
   unit: "unit/words",

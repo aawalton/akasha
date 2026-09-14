@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0541Chapter541ABitTrippy = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0541-chapter-541-a-bit-trippy",
   title: "Chapter 541 - A Bit Trippy",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 541,
   ownLength: 2622,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0214Chapter706Assumptio
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0214-chapter-706-assumptions-tested",
   title: "Chapter: 706 - Assumptions, Tested",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 214,
   ownLength: 3345,
   unit: "unit/words",

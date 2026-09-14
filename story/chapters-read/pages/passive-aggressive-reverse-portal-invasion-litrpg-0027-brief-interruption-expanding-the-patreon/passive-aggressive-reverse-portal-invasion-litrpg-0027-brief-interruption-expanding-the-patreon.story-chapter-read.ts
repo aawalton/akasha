@@ -6,7 +6,7 @@ export const passiveAggressiveReversePortalInvasionLitrpg0027BriefInterruptionEx
     type: "story-chapter-read",
     slug: "passive-aggressive-reverse-portal-invasion-litrpg-0027-brief-interruption-expanding-the-patreon",
     title: "Brief interruption - 'expanding the Patreon'-update",
-    story: "passive-aggressive-reverse-portal-invasion-litrpg",
+    story: "story-read/passive-aggressive-reverse-portal-invasion-litrpg",
     position: 27,
     ownLength: 233,
     unit: "unit/words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0304Chapter313WhatsNext = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0304-chapter-313-whats-next",
   title: "Chapter 313 - What's Next?",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 304,
   ownLength: 3625,
   unit: "unit/words",

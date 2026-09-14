@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0590Chapter590FightBecauseYour
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0590-chapter-590-fight-because-youre-right",
   title: "Chapter 590 - Fight Because You're Right",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 590,
   ownLength: 2680,
   unit: "unit/words",

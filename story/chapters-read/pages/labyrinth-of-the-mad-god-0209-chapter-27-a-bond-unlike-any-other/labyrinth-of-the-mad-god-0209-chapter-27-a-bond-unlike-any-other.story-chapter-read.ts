@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0209Chapter27ABondUnlikeAnyOther = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0209-chapter-27-a-bond-unlike-any-other",
   title: "Chapter 27: A Bond Unlike Any Other",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 209,
   ownLength: 2057,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia0003Chapter3BrokenInADifferentWay =
   type: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0003-chapter-3-broken-in-a-different-way",
   title: "Chapter 3: Broken in a Different Way",
-  story: "heaven-piercing-giraffe-op-mc-xianxia",
+  story: "story-read/heaven-piercing-giraffe-op-mc-xianxia",
   position: 3,
   ownLength: 2622,
   unit: "unit/words",

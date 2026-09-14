@@ -5,7 +5,7 @@ export const gamerGirlEvolution0053TemporaryHiatus = {
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0053-temporary-hiatus",
   title: "Temporary Hiatus",
-  story: "gamer-girl-evolution",
+  story: "story-read/gamer-girl-evolution",
   position: 53,
   ownLength: 100,
   ownProgress: 100,

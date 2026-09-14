@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0089Chapter105WhatsEveryoneDoi
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0089-chapter-105-whats-everyone-doing",
   title: "Chapter 105 - What's Everyone Doing?",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 89,
   ownLength: 3137,
   unit: "unit/words",

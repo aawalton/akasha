@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0387Chapter392ARealDeal = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0387-chapter-392-a-real-deal",
   title: "Chapter 392 - A Real Deal",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 387,
   ownLength: 3247,
   unit: "unit/words",

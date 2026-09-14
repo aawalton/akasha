@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0268Chapter85GrimTidings = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0268-chapter-85-grim-tidings",
   title: "Chapter 85: Grim Tidings",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 268,
   ownLength: 1703,
   unit: "unit/words",

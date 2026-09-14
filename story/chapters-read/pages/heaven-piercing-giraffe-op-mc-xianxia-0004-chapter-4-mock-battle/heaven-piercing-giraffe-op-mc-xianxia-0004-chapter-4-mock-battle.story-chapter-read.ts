@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia0004Chapter4MockBattle = {
   type: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0004-chapter-4-mock-battle",
   title: "Chapter 4: Mock Battle",
-  story: "heaven-piercing-giraffe-op-mc-xianxia",
+  story: "story-read/heaven-piercing-giraffe-op-mc-xianxia",
   position: 4,
   ownLength: 1908,
   unit: "unit/words",

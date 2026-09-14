@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0428Chapter431HugsAreAlwaysWel
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0428-chapter-431-hugs-are-always-welcome",
   title: "Chapter 431 - Hugs Are Always Welcome",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 428,
   ownLength: 3213,
   unit: "unit/words",

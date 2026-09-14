@@ -5,7 +5,7 @@ export const godOfTrash0313313BraggingIsAskingTheUniverseToPunishYou = {
   type: "story-chapter-read",
   slug: "god-of-trash-0313-313-bragging-is-asking-the-universe-to-punish-you",
   title: "313. Bragging is Asking the Universe to Punish You",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 313,
   ownLength: 1977,
   unit: "unit/words",

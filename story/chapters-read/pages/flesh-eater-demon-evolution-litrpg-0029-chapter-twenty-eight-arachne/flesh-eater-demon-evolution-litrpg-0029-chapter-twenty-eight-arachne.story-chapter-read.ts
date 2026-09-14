@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0029ChapterTwentyEightArachne = {
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0029-chapter-twenty-eight-arachne",
   title: "Chapter Twenty-Eight: Arachne",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 29,
   ownLength: 3283,
   unit: "unit/words",

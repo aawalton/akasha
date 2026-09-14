@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0151Chapter647BackToHow
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0151-chapter-647-back-to-howlton",
   title: "Chapter: 647 - Back to Howlton",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 151,
   ownLength: 2936,
   ownProgress: 2936,

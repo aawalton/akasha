@@ -5,7 +5,7 @@ export const manaDevourerLitrpgmanaCultivation00077TomatoSoup = {
   type: "story-chapter-read",
   slug: "mana-devourer-litrpgmana-cultivation-0007-7-tomato-soup",
   title: "7. Tomato Soup",
-  story: "mana-devourer-litrpgmana-cultivation",
+  story: "story-read/mana-devourer-litrpgmana-cultivation",
   position: 7,
   ownLength: 2512,
   unit: "unit/words",

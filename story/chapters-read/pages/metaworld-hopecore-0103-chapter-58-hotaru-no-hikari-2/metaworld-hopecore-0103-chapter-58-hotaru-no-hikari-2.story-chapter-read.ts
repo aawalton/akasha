@@ -5,7 +5,7 @@ export const metaworldHopecore0103Chapter58HotaruNoHikari2 = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0103-chapter-58-hotaru-no-hikari-2",
   title: "CHAPTER 58 - Hotaru no Hikari (2) ",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 103,
   ownLength: 3277,
   unit: "unit/words",

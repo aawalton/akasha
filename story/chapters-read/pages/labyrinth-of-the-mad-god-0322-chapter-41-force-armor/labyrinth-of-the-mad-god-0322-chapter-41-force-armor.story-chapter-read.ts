@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0322Chapter41ForceArmor = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0322-chapter-41-force-armor",
   title: "Chapter 41: Force Armor",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 322,
   ownLength: 2007,
   unit: "unit/words",

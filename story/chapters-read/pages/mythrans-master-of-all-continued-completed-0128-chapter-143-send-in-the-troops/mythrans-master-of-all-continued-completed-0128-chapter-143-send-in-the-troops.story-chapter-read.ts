@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0128Chapter143SendInTheTroops 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0128-chapter-143-send-in-the-troops",
   title: "Chapter 143 - Send In The Troops",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 128,
   ownLength: 4091,
   unit: "unit/words",

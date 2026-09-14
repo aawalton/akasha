@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0364Chapter370aBathroomBreakEx
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0364-chapter-370a-bathroom-break-explicit-content",
   title: "Chapter 370A - Bathroom Break (Explicit Content)",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 364,
   ownLength: 6127,
   unit: "unit/words",

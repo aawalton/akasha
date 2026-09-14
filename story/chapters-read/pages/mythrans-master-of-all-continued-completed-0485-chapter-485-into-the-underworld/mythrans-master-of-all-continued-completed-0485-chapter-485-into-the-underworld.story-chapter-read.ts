@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0485Chapter485IntoTheUnderworl
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0485-chapter-485-into-the-underworld",
   title: "Chapter 485 - Into The Underworld",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 485,
   ownLength: 3825,
   unit: "unit/words",

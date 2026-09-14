@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0233Chapter244StellaSaysPlay =
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0233-chapter-244-stella-says-play",
   title: "Chapter 244 - Stella Says Play",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 233,
   ownLength: 3605,
   unit: "unit/words",

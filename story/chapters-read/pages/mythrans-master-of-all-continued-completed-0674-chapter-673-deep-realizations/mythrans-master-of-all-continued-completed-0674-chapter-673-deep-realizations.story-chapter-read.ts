@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0674Chapter673DeepRealizations
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0674-chapter-673-deep-realizations",
   title: "Chapter 673 - Deep Realizations",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 674,
   ownLength: 2962,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const forgeOfDestiny0174InterludeManagement = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0174-interlude-management",
   title: "Interlude: Management",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 174,
   ownLength: 1778,
   unit: "unit/words",

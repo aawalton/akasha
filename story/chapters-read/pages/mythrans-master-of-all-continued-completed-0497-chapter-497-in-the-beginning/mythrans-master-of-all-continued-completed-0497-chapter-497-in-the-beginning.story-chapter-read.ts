@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0497Chapter497InTheBeginning =
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0497-chapter-497-in-the-beginning",
   title: "Chapter 497 - In The Beginning",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 497,
   ownLength: 3751,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const justAddMana0001Chapter1ManaOverload = {
   type: "story-chapter-read",
   slug: "just-add-mana-0001-chapter-1-mana-overload",
   title: "Chapter 1 — Mana Overload",
-  story: "just-add-mana",
+  story: "story-read/just-add-mana",
   position: 1,
   ownLength: 4170,
   ownProgress: 4170,

@@ -5,7 +5,7 @@ export const justAddMana0180175Book4Chapter19DarkMagicPt2 = {
   type: "story-chapter-read",
   slug: "just-add-mana-0180-175-book-4-chapter-19-dark-magic-pt-2",
   title: "175 — Book 4, Chapter 19 — Dark Magic, Pt 2",
-  story: "just-add-mana",
+  story: "story-read/just-add-mana",
   position: 180,
   ownLength: 2863,
   unit: "unit/words",

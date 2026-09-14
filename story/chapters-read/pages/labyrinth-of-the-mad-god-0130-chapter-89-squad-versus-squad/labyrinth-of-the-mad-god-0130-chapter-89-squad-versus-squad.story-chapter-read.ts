@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0130Chapter89SquadVersusSquad = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0130-chapter-89-squad-versus-squad",
   title: "Chapter 89: Squad versus Squad",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 130,
   ownLength: 1789,
   unit: "unit/words",

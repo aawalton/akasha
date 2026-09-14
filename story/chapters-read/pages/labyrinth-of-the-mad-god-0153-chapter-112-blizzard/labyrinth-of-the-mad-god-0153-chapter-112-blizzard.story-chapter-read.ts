@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0153Chapter112Blizzard = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0153-chapter-112-blizzard",
   title: "Chapter 112: Blizzard",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 153,
   ownLength: 1894,
   unit: "unit/words",

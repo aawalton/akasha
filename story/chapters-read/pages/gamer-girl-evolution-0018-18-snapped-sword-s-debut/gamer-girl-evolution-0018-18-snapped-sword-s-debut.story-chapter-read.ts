@@ -5,7 +5,7 @@ export const gamerGirlEvolution001818SnappedSwordSDebut = {
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0018-18-snapped-sword-s-debut",
   title: "18 - Snapped Sword's Debut",
-  story: "gamer-girl-evolution",
+  story: "story-read/gamer-girl-evolution",
   position: 18,
   ownLength: 2408,
   ownProgress: 2408,

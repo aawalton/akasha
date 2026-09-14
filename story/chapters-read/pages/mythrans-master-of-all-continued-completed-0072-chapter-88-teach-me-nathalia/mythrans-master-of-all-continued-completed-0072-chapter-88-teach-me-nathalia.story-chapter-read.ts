@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0072Chapter88TeachMeNathalia =
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0072-chapter-88-teach-me-nathalia",
   title: "Chapter 88 - Teach Me, Nathalia",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 72,
   ownLength: 3893,
   unit: "unit/words",

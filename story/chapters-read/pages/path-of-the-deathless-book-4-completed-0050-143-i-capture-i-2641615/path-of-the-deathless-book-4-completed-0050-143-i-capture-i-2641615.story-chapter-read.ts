@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0050143ICaptureI2641615 = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0050-143-i-capture-i-2641615",
   title: "143 (I)  Capture [I]",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 50,
   ownLength: 2348,
   unit: "unit/words",

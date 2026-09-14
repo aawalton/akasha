@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0083Chapter45HailToTheQueen = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0083-chapter-45-hail-to-the-queen",
   title: "Chapter 45: Hail to the Queen",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 83,
   ownLength: 1841,
   unit: "unit/words",

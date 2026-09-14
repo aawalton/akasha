@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0526Chapter526UnderSiege = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0526-chapter-526-under-siege",
   title: "Chapter 526 - Under Siege!",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 526,
   ownLength: 3228,
   unit: "unit/words",

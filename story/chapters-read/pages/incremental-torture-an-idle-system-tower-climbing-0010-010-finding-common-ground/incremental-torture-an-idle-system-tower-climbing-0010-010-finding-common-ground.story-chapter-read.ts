@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0010010FindingCommonGrou
   type: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0010-010-finding-common-ground",
   title: "010: Finding Common Ground",
-  story: "incremental-torture-an-idle-system-tower-climbing",
+  story: "story-read/incremental-torture-an-idle-system-tower-climbing",
   position: 10,
   ownLength: 2087,
   unit: "unit/words",

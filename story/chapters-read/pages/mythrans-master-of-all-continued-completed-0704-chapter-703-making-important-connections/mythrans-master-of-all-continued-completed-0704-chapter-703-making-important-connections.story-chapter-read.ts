@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0704Chapter703MakingImportantC
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0704-chapter-703-making-important-connections",
   title: "Chapter 703 - Making Important Connections",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 704,
   ownLength: 3190,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0091Chapter107BackToHouseNeram
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0091-chapter-107-back-to-house-neram",
   title: "Chapter 107 - Back To House Neram",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 91,
   ownLength: 4994,
   unit: "unit/words",

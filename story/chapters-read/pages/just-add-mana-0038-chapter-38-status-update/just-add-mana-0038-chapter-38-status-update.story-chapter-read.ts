@@ -5,7 +5,7 @@ export const justAddMana0038Chapter38StatusUpdate = {
   type: "story-chapter-read",
   slug: "just-add-mana-0038-chapter-38-status-update",
   title: "Chapter 38 — Status Update",
-  story: "just-add-mana",
+  story: "story-read/just-add-mana",
   position: 38,
   ownLength: 3960,
   ownProgress: 3960,

@@ -5,7 +5,7 @@ export const godOfTrash0303303TheFinalBattle = {
   type: "story-chapter-read",
   slug: "god-of-trash-0303-303-the-final-battle",
   title: "303. The Final Battle",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 303,
   ownLength: 2281,
   unit: "unit/words",

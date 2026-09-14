@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0342Chapter349ASlightGrievance
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0342-chapter-349-a-slight-grievance",
   title: "Chapter 349 - A Slight Grievance",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 342,
   ownLength: 3769,
   unit: "unit/words",

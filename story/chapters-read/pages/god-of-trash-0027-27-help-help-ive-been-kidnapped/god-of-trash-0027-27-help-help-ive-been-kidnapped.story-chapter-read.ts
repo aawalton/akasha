@@ -5,7 +5,7 @@ export const godOfTrash002727HelpHelpIveBeenKidnapped = {
   type: "story-chapter-read",
   slug: "god-of-trash-0027-27-help-help-ive-been-kidnapped",
   title: "27. Help, Help, I've Been Kidnapped!",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 27,
   ownLength: 3047,
   unit: "unit/words",

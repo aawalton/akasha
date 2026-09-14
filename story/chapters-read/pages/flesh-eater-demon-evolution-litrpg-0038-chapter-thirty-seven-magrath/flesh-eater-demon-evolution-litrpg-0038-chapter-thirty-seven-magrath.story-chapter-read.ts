@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0038ChapterThirtySevenMagrath = {
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0038-chapter-thirty-seven-magrath",
   title: "Chapter Thirty-Seven: Magrath",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 38,
   ownLength: 3221,
   unit: "unit/words",

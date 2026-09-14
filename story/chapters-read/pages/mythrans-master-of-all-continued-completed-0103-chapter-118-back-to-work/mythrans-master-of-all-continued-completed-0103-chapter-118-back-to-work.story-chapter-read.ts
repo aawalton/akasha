@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0103Chapter118BackToWork = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0103-chapter-118-back-to-work",
   title: "Chapter 118 - Back To Work",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 103,
   ownLength: 4641,
   unit: "unit/words",

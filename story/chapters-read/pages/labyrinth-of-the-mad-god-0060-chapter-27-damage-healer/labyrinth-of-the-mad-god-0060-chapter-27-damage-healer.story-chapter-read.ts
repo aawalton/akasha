@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0060Chapter27DamageHealer = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0060-chapter-27-damage-healer",
   title: "Chapter 27: Damage Healer",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 60,
   ownLength: 1924,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const godOfTrash0264264TheDarkOfTheEarth = {
   type: "story-chapter-read",
   slug: "god-of-trash-0264-264-the-dark-of-the-earth",
   title: "264. The Dark of the Earth",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 264,
   ownLength: 1920,
   unit: "unit/words",

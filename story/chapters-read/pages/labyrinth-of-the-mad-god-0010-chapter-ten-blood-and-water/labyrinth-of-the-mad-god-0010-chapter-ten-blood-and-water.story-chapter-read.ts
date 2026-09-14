@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0010ChapterTenBloodAndWater = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0010-chapter-ten-blood-and-water",
   title: "Chapter Ten: Blood and Water",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 10,
   ownLength: 1545,
   unit: "unit/words",

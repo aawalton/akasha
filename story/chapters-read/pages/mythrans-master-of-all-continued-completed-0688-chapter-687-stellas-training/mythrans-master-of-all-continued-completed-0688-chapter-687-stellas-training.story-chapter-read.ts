@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0688Chapter687StellasTraining 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0688-chapter-687-stellas-training",
   title: "Chapter 687 - Stella's Training",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 688,
   ownLength: 3070,
   unit: "unit/words",

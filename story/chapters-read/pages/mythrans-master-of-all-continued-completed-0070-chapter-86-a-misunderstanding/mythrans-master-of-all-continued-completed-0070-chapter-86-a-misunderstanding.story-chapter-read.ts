@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0070Chapter86AMisunderstanding
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0070-chapter-86-a-misunderstanding",
   title: "Chapter 86 - A Misunderstanding",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 70,
   ownLength: 4147,
   unit: "unit/words",

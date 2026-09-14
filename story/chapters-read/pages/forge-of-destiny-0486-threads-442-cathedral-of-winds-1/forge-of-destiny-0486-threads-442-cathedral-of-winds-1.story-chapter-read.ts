@@ -5,7 +5,7 @@ export const forgeOfDestiny0486Threads442CathedralOfWinds1 = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0486-threads-442-cathedral-of-winds-1",
   title: "Threads 442-Cathedral of Winds 1",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 486,
   ownLength: 1802,
   unit: "unit/words",

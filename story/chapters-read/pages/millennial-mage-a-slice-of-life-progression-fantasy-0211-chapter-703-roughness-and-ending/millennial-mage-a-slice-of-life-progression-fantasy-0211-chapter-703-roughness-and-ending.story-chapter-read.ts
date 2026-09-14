@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0211Chapter703Roughness
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0211-chapter-703-roughness-and-ending",
   title: "Chapter: 703 - Roughness and Ending",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 211,
   ownLength: 2959,
   unit: "unit/words",

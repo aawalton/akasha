@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0446Chapter447ASolution = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0446-chapter-447-a-solution",
   title: "Chapter 447 - A Solution",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 446,
   ownLength: 3167,
   unit: "unit/words",

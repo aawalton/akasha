@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0086ChapterEightyFiveCursesAndSkills 
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0086-chapter-eighty-five-curses-and-skills",
   title: "Chapter Eighty-Five: Curses and Skills",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 86,
   ownLength: 2282,
   unit: "unit/words",

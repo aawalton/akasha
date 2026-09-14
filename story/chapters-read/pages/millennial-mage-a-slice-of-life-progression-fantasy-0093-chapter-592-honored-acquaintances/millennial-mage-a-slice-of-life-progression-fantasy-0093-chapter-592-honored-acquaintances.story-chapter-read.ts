@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0093Chapter592HonoredAc
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0093-chapter-592-honored-acquaintances",
   title: "Chapter: 592 - Honored Acquaintances",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 93,
   ownLength: 3061,
   ownProgress: 3061,

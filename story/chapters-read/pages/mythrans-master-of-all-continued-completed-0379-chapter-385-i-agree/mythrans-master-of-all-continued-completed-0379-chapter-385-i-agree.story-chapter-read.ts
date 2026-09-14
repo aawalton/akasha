@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0379Chapter385IAgree = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0379-chapter-385-i-agree",
   title: "Chapter 385 - I Agree",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 379,
   ownLength: 3810,
   unit: "unit/words",

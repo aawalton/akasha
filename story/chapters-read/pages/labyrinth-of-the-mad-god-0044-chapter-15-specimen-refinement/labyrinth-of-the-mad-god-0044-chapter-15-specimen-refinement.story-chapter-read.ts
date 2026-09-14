@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0044Chapter15SpecimenRefinement = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0044-chapter-15-specimen-refinement",
   title: "Chapter 15: Specimen Refinement",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 44,
   ownLength: 1776,
   unit: "unit/words",

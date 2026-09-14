@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0217Chapter708Recogniti
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0217-chapter-708-recognition-and-progress",
   title: "Chapter: 708 - Recognition and Progress",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 217,
   ownLength: 3195,
   unit: "unit/words",

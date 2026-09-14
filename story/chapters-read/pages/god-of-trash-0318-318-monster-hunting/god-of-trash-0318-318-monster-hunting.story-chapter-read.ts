@@ -5,7 +5,7 @@ export const godOfTrash0318318MonsterHunting = {
   type: "story-chapter-read",
   slug: "god-of-trash-0318-318-monster-hunting",
   title: "318. Monster Hunting",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 318,
   ownLength: 2442,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0381Chapter386aTheRoyalBedCham
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0381-chapter-386a-the-royal-bed-chamber",
   title: "Chapter 386A - The Royal Bed Chamber",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 381,
   ownLength: 2373,
   unit: "unit/words",

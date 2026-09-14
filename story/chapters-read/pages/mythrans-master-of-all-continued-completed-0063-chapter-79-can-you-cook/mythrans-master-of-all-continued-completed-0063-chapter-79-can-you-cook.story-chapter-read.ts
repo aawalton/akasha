@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0063Chapter79CanYouCook = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0063-chapter-79-can-you-cook",
   title: "Chapter 79 - Can You Cook?",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 63,
   ownLength: 4010,
   unit: "unit/words",

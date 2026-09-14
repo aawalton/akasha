@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0496Chapter496HoldYourHorses =
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0496-chapter-496-hold-your-horses",
   title: "Chapter 496 - Hold Your Horses",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 496,
   ownLength: 3326,
   unit: "unit/words",

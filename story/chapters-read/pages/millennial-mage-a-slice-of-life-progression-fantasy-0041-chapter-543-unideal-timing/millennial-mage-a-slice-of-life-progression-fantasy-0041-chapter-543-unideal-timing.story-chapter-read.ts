@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0041Chapter543UnidealTi
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0041-chapter-543-unideal-timing",
   title: "Chapter: 543 - Unideal Timing",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 41,
   ownLength: 3052,
   ownProgress: 3052,

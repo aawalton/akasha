@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0767Chapter766TravelTrouble = 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0767-chapter-766-travel-trouble",
   title: "Chapter 766 - Travel Trouble",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 767,
   ownLength: 2823,
   unit: "unit/words",

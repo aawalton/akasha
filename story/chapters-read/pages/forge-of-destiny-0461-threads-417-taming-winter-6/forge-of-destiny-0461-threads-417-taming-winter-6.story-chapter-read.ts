@@ -5,7 +5,7 @@ export const forgeOfDestiny0461Threads417TamingWinter6 = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0461-threads-417-taming-winter-6",
   title: "Threads 417-Taming Winter 6",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 461,
   ownLength: 1670,
   unit: "unit/words",

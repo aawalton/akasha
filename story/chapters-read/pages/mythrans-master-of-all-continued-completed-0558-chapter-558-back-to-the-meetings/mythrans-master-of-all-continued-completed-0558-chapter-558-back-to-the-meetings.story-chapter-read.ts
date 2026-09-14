@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0558Chapter558BackToTheMeeting
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0558-chapter-558-back-to-the-meetings",
   title: "Chapter 558 - Back To The Meetings",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 558,
   ownLength: 2718,
   unit: "unit/words",

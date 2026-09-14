@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0038Ch38AzureLightning = {
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0038-ch38-azure-lightning",
   title: "Ch38 Azure Lightning",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 38,
   ownLength: 1330,
   unit: "unit/words",

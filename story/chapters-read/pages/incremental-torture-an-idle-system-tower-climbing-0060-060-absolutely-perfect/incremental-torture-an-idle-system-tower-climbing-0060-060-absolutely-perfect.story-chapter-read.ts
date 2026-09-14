@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0060060AbsolutelyPerfect
   type: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0060-060-absolutely-perfect",
   title: "060: Absolutely Perfect",
-  story: "incremental-torture-an-idle-system-tower-climbing",
+  story: "story-read/incremental-torture-an-idle-system-tower-climbing",
   position: 60,
   ownLength: 2085,
   unit: "unit/words",

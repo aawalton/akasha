@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0670Chapter669GoingSeparateWay
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0670-chapter-669-going-separate-ways",
   title: "Chapter 669 - Going Separate Ways",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 670,
   ownLength: 3077,
   unit: "unit/words",

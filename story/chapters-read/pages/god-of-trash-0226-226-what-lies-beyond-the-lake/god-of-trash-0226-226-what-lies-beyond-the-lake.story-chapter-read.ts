@@ -5,7 +5,7 @@ export const godOfTrash0226226WhatLiesBeyondTheLake = {
   type: "story-chapter-read",
   slug: "god-of-trash-0226-226-what-lies-beyond-the-lake",
   title: "226. What Lies Beyond the Lake",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 226,
   ownLength: 2574,
   unit: "unit/words",

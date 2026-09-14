@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0119Chapter113Projection
   type: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0119-chapter-113-projections",
   title: "Chapter 113 Projections",
-  story: "my-lord-please-a-character-driven-kingdom-building",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   position: 119,
   ownLength: 1864,
   unit: "unit/words",

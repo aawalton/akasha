@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0353Chapter360MoreThanWords = 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0353-chapter-360-more-than-words",
   title: "Chapter 360 - More Than Words",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 353,
   ownLength: 3738,
   unit: "unit/words",

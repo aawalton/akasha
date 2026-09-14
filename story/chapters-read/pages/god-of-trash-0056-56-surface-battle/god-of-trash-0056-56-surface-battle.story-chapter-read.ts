@@ -5,7 +5,7 @@ export const godOfTrash005656SurfaceBattle = {
   type: "story-chapter-read",
   slug: "god-of-trash-0056-56-surface-battle",
   title: "56. Surface Battle",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 56,
   ownLength: 2299,
   unit: "unit/words",

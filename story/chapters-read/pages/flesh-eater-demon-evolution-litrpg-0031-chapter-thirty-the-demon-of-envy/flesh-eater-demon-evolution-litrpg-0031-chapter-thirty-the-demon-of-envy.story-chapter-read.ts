@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0031ChapterThirtyTheDemonOfEnvy = {
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0031-chapter-thirty-the-demon-of-envy",
   title: "Chapter Thirty: The Demon of Envy",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 31,
   ownLength: 2520,
   unit: "unit/words",

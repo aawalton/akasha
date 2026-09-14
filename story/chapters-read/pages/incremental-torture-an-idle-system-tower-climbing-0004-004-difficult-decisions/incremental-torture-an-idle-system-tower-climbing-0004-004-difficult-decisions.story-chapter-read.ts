@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0004004DifficultDecision
   type: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0004-004-difficult-decisions",
   title: "004: Difficult Decisions",
-  story: "incremental-torture-an-idle-system-tower-climbing",
+  story: "story-read/incremental-torture-an-idle-system-tower-climbing",
   position: 4,
   ownLength: 2076,
   unit: "unit/words",

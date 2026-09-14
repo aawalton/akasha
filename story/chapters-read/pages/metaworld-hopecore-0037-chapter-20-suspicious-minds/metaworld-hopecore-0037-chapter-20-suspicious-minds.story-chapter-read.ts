@@ -5,7 +5,7 @@ export const metaworldHopecore0037Chapter20SuspiciousMinds = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0037-chapter-20-suspicious-minds",
   title: "CHAPTER 20 - Suspicious Minds",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 37,
   ownLength: 3075,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const godOfTrash0146146Emergency = {
   type: "story-chapter-read",
   slug: "god-of-trash-0146-146-emergency",
   title: "146. Emergency",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 146,
   ownLength: 2307,
   unit: "unit/words",

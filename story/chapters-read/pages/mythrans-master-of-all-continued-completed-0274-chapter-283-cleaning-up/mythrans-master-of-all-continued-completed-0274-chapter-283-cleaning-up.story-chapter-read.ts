@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0274Chapter283CleaningUp = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0274-chapter-283-cleaning-up",
   title: "Chapter 283 - Cleaning Up",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 274,
   ownLength: 3475,
   unit: "unit/words",

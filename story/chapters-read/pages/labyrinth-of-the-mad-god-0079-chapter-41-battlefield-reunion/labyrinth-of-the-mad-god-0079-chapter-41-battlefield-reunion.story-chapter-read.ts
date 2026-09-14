@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0079Chapter41BattlefieldReunion = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0079-chapter-41-battlefield-reunion",
   title: "Chapter 41: Battlefield Reunion",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 79,
   ownLength: 1559,
   unit: "unit/words",

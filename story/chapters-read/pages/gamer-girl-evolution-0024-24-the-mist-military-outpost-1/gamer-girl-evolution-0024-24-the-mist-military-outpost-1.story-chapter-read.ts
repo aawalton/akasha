@@ -5,7 +5,7 @@ export const gamerGirlEvolution002424TheMistMilitaryOutpost1 = {
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0024-24-the-mist-military-outpost-1",
   title: "24 - The Mist Military Outpost (1)",
-  story: "gamer-girl-evolution",
+  story: "story-read/gamer-girl-evolution",
   position: 24,
   ownLength: 2128,
   ownProgress: 2128,

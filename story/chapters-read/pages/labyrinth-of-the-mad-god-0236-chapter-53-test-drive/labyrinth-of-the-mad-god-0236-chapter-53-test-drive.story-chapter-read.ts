@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0236Chapter53TestDrive = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0236-chapter-53-test-drive",
   title: "Chapter 53: Test Drive",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 236,
   ownLength: 2489,
   unit: "unit/words",

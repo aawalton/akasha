@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0216Chapter707Ties = {
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0216-chapter-707-ties",
   title: "Chapter: 707 - Ties",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 216,
   ownLength: 3250,
   unit: "unit/words",

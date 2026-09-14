@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0018018Ruthless = {
   type: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0018-018-ruthless",
   title: "018: Ruthless",
-  story: "incremental-torture-an-idle-system-tower-climbing",
+  story: "story-read/incremental-torture-an-idle-system-tower-climbing",
   position: 18,
   ownLength: 2372,
   unit: "unit/words",

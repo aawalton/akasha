@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0279Chapter288AcceptingGifts =
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0279-chapter-288-accepting-gifts",
   title: "Chapter 288 - Accepting Gifts",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 279,
   ownLength: 3797,
   unit: "unit/words",

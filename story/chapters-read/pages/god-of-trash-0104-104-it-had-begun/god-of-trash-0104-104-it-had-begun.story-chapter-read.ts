@@ -5,7 +5,7 @@ export const godOfTrash0104104ItHadBegun = {
   type: "story-chapter-read",
   slug: "god-of-trash-0104-104-it-had-begun",
   title: "104. It Had Begun",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 104,
   ownLength: 2575,
   unit: "unit/words",

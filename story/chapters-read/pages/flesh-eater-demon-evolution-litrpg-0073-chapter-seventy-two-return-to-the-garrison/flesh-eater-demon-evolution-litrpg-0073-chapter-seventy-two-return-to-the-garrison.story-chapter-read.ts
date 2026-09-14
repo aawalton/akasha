@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0073ChapterSeventyTwoReturnToTheGarri
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0073-chapter-seventy-two-return-to-the-garrison",
   title: "Chapter Seventy-Two: Return to the Garrison",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 73,
   ownLength: 2313,
   unit: "unit/words",

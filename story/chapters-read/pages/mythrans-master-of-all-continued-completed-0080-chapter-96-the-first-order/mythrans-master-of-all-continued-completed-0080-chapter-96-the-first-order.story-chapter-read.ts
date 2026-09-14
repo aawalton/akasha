@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0080Chapter96TheFirstOrder = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0080-chapter-96-the-first-order",
   title: "Chapter 96 - The First Order",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 80,
   ownLength: 4804,
   unit: "unit/words",

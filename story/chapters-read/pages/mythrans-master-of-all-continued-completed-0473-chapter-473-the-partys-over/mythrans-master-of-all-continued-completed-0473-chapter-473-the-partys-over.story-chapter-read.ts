@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0473Chapter473ThePartysOver = 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0473-chapter-473-the-partys-over",
   title: "Chapter 473 - The Party's Over",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 473,
   ownLength: 3810,
   unit: "unit/words",

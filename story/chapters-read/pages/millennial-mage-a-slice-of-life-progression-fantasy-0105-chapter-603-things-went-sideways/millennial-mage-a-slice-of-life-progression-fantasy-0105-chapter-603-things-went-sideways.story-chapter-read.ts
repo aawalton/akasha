@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0105Chapter603ThingsWen
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0105-chapter-603-things-went-sideways",
   title: "Chapter: 603 - Things Went Sideways",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 105,
   ownLength: 3053,
   ownProgress: 3053,

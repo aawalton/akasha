@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0085Chapter101ATasteOfStone = 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0085-chapter-101-a-taste-of-stone",
   title: "Chapter 101 - A Taste of Stone",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 85,
   ownLength: 3684,
   unit: "unit/words",

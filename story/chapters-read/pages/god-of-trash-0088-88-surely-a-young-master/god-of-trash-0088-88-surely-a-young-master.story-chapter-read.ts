@@ -5,7 +5,7 @@ export const godOfTrash008888SurelyAYoungMaster = {
   type: "story-chapter-read",
   slug: "god-of-trash-0088-88-surely-a-young-master",
   title: "88. Surely a Young Master",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 88,
   ownLength: 2118,
   unit: "unit/words",

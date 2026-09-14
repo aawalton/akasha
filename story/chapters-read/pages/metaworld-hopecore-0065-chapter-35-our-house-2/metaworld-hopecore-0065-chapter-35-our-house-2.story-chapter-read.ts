@@ -5,7 +5,7 @@ export const metaworldHopecore0065Chapter35OurHouse2 = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0065-chapter-35-our-house-2",
   title: "Chapter 35 — Our House (2) ",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 65,
   ownLength: 2276,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const godOfTrash0296296ProcrastinationDestination = {
   type: "story-chapter-read",
   slug: "god-of-trash-0296-296-procrastination-destination",
   title: "296. Procrastination Destination",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 296,
   ownLength: 1930,
   unit: "unit/words",

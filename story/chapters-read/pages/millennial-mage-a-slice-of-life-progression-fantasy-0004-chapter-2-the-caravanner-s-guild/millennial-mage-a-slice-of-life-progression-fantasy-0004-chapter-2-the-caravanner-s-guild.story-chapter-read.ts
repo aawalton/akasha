@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0004Chapter2TheCaravann
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0004-chapter-2-the-caravanner-s-guild",
   title: "Chapter: 2 - The Caravanner’s Guild",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 4,
   ownLength: 3774,
   ownProgress: 3774,

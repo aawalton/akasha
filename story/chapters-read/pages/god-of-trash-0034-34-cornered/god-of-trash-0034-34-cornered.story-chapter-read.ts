@@ -5,7 +5,7 @@ export const godOfTrash003434Cornered = {
   type: "story-chapter-read",
   slug: "god-of-trash-0034-34-cornered",
   title: "34. Cornered",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 34,
   ownLength: 2591,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const justAddMana0140137Book3Chapter36Reclamation = {
   type: "story-chapter-read",
   slug: "just-add-mana-0140-137-book-3-chapter-36-reclamation",
   title: "137 — Book 3, Chapter 36 — Reclamation",
-  story: "just-add-mana",
+  story: "story-read/just-add-mana",
   position: 140,
   ownLength: 3243,
   unit: "unit/words",

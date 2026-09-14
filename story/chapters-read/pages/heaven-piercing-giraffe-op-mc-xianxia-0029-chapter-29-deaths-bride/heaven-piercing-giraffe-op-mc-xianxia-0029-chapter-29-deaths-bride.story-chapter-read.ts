@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia0029Chapter29DeathsBride = {
   type: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0029-chapter-29-deaths-bride",
   title: "Chapter 29: Death's Bride",
-  story: "heaven-piercing-giraffe-op-mc-xianxia",
+  story: "story-read/heaven-piercing-giraffe-op-mc-xianxia",
   position: 29,
   ownLength: 1571,
   unit: "unit/words",

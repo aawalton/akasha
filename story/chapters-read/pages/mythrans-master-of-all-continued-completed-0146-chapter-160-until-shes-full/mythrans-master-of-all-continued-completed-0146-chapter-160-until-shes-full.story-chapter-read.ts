@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0146Chapter160UntilShesFull = 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0146-chapter-160-until-shes-full",
   title: "Chapter 160 - Until She's Full",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 146,
   ownLength: 3469,
   unit: "unit/words",

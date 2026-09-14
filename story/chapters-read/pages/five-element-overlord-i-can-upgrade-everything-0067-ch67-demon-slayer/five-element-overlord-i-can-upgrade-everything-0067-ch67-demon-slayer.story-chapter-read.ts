@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0067Ch67DemonSlayer = {
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0067-ch67-demon-slayer",
   title: "Ch67 Demon Slayer",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 67,
   ownLength: 1569,
   unit: "unit/words",

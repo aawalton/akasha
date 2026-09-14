@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0503Chapter503GetThePartyGoing
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0503-chapter-503-get-the-party-going",
   title: "Chapter 503 - Get The Party Going",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 503,
   ownLength: 3295,
   unit: "unit/words",

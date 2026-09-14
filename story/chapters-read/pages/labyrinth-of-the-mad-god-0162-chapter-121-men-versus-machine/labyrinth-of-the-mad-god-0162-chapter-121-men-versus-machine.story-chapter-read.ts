@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0162Chapter121MenVersusMachine = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0162-chapter-121-men-versus-machine",
   title: "Chapter 121: Men versus Machine",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 162,
   ownLength: 1636,
   unit: "unit/words",

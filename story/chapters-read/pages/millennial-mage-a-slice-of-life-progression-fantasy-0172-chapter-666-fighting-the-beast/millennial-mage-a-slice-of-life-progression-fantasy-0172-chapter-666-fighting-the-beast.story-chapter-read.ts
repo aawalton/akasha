@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0172Chapter666FightingT
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0172-chapter-666-fighting-the-beast",
   title: "Chapter: 666 - Fighting the Beast",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 172,
   ownLength: 3026,
   ownProgress: 3026,

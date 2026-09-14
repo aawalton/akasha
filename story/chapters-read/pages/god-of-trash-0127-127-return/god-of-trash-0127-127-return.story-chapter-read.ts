@@ -5,7 +5,7 @@ export const godOfTrash0127127Return = {
   type: "story-chapter-read",
   slug: "god-of-trash-0127-127-return",
   title: "127. Return",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 127,
   ownLength: 2076,
   unit: "unit/words",

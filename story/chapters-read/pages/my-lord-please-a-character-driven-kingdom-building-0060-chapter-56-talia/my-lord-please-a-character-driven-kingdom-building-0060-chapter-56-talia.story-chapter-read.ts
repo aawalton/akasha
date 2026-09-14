@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0060Chapter56Talia = {
   type: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0060-chapter-56-talia",
   title: "Chapter 56 Talia",
-  story: "my-lord-please-a-character-driven-kingdom-building",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   position: 60,
   ownLength: 2274,
   unit: "unit/words",

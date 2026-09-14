@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia0015Chapter15CorpseFilledRealityAka
   type: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0015-chapter-15-corpse-filled-reality-akasha-s-pov",
   title: "Chapter 15: Corpse Filled Reality (Akasha's POV)",
-  story: "heaven-piercing-giraffe-op-mc-xianxia",
+  story: "story-read/heaven-piercing-giraffe-op-mc-xianxia",
   position: 15,
   ownLength: 1782,
   unit: "unit/words",

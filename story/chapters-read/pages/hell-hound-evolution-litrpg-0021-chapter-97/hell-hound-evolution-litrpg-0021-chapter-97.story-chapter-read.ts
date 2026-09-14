@@ -5,7 +5,7 @@ export const hellHoundEvolutionLitrpg0021Chapter97 = {
   type: "story-chapter-read",
   slug: "hell-hound-evolution-litrpg-0021-chapter-97",
   title: "Chapter 97",
-  story: "hell-hound-evolution-litrpg",
+  story: "story-read/hell-hound-evolution-litrpg",
   position: 21,
   ownLength: 1615,
   unit: "unit/words",

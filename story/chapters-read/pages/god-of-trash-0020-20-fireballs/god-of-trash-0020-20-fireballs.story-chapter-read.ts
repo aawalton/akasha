@@ -5,7 +5,7 @@ export const godOfTrash002020Fireballs = {
   type: "story-chapter-read",
   slug: "god-of-trash-0020-20-fireballs",
   title: "20. Fireballs",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 20,
   ownLength: 3095,
   unit: "unit/words",

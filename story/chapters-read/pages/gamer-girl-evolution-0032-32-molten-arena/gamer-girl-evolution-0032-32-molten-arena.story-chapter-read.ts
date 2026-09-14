@@ -5,7 +5,7 @@ export const gamerGirlEvolution003232MoltenArena = {
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0032-32-molten-arena",
   title: "32 - Molten Arena",
-  story: "gamer-girl-evolution",
+  story: "story-read/gamer-girl-evolution",
   position: 32,
   ownLength: 1856,
   ownProgress: 1856,

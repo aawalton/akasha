@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0035ChapterThirtyFourThePaleRiver = {
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0035-chapter-thirty-four-the-pale-river",
   title: "Chapter Thirty-Four: The Pale River",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 35,
   ownLength: 3108,
   unit: "unit/words",

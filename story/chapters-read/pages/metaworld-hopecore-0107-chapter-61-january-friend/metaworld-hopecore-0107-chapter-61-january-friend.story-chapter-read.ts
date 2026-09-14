@@ -5,7 +5,7 @@ export const metaworldHopecore0107Chapter61JanuaryFriend = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0107-chapter-61-january-friend",
   title: "CHAPTER 61 - January Friend",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 107,
   ownLength: 3243,
   unit: "unit/words",

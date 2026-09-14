@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0123Ch123AcquiringProperty 
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0123-ch123-acquiring-property",
   title: "Ch123 Acquiring Property",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 123,
   ownLength: 1849,
   unit: "unit/words",

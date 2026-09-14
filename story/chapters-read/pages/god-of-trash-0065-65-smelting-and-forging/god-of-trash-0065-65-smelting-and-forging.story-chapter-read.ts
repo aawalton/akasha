@@ -5,7 +5,7 @@ export const godOfTrash006565SmeltingAndForging = {
   type: "story-chapter-read",
   slug: "god-of-trash-0065-65-smelting-and-forging",
   title: "65. Smelting and Forging",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 65,
   ownLength: 2215,
   unit: "unit/words",

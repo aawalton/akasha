@@ -5,7 +5,7 @@ export const metaworldHopecore0119Chapter71BigGirlsDonTCry = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0119-chapter-71-big-girls-don-t-cry",
   title: "CHAPTER 71 - Big Girls Don't Cry",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 119,
   ownLength: 3538,
   unit: "unit/words",

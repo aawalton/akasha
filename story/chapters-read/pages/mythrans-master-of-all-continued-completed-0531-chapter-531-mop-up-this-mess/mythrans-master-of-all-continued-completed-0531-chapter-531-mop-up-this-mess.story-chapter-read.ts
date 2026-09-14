@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0531Chapter531MopUpThisMess = 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0531-chapter-531-mop-up-this-mess",
   title: "Chapter 531 - Mop Up This Mess",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 531,
   ownLength: 2258,
   unit: "unit/words",

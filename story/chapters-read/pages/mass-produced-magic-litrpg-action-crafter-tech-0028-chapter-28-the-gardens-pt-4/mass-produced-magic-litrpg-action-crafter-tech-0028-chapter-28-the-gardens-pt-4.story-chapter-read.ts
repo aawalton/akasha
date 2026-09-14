@@ -5,7 +5,7 @@ export const massProducedMagicLitrpgActionCrafterTech0028Chapter28TheGardensPt4 
   type: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0028-chapter-28-the-gardens-pt-4",
   title: "Chapter 28 – The Gardens – Pt 4",
-  story: "mass-produced-magic-litrpg-action-crafter-tech",
+  story: "story-read/mass-produced-magic-litrpg-action-crafter-tech",
   position: 28,
   ownLength: 2397,
   unit: "unit/words",

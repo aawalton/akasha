@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0040Chapter542BuckledDo
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0040-chapter-542-buckled-down-for-the-long-haul",
   title: "Chapter: 542 - Buckled Down for the Long-Haul",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 40,
   ownLength: 3285,
   ownProgress: 3285,

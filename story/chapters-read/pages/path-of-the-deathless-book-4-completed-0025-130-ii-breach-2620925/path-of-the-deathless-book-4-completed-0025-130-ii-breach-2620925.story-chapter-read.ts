@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0025130IiBreach2620925 = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0025-130-ii-breach-2620925",
   title: "130 (II) Breach",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 25,
   ownLength: 3317,
   unit: "unit/words",

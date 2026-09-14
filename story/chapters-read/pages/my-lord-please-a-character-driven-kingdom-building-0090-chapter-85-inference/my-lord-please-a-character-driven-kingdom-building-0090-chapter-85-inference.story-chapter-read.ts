@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0090Chapter85Inference =
   type: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0090-chapter-85-inference",
   title: "Chapter 85 Inference",
-  story: "my-lord-please-a-character-driven-kingdom-building",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   position: 90,
   ownLength: 2216,
   unit: "unit/words",

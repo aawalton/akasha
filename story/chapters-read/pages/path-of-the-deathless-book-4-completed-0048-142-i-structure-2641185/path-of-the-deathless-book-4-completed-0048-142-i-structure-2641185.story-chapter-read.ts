@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0048142IStructure2641185 = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0048-142-i-structure-2641185",
   title: "142 (I)  Structure",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 48,
   ownLength: 3012,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0108Chapter103Perspectiv
   type: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0108-chapter-103-perspective",
   title: "Chapter 103 Perspective",
-  story: "my-lord-please-a-character-driven-kingdom-building",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   position: 108,
   ownLength: 1981,
   unit: "unit/words",

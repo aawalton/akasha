@@ -5,7 +5,7 @@ export const godOfTrash0207207BlackShip = {
   type: "story-chapter-read",
   slug: "god-of-trash-0207-207-black-ship",
   title: "207. Black Ship",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 207,
   ownLength: 2177,
   unit: "unit/words",

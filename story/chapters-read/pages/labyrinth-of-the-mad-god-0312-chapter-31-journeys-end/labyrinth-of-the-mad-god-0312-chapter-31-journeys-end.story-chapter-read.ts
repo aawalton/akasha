@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0312Chapter31JourneysEnd = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0312-chapter-31-journeys-end",
   title: "Chapter 31: Journey’s End",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 312,
   ownLength: 1466,
   unit: "unit/words",

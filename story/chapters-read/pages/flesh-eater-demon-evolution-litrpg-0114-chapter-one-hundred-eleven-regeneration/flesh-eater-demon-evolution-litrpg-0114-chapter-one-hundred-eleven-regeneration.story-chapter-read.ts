@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0114ChapterOneHundredElevenRegenerati
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0114-chapter-one-hundred-eleven-regeneration",
   title: "Chapter One Hundred Eleven: Regeneration",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 114,
   ownLength: 2402,
   unit: "unit/words",

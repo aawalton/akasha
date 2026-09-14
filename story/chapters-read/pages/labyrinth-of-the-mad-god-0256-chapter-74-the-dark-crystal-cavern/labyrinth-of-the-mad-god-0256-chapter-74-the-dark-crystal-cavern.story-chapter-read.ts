@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0256Chapter74TheDarkCrystalCavern = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0256-chapter-74-the-dark-crystal-cavern",
   title: "Chapter 74: The Dark Crystal Cavern",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 256,
   ownLength: 1661,
   unit: "unit/words",

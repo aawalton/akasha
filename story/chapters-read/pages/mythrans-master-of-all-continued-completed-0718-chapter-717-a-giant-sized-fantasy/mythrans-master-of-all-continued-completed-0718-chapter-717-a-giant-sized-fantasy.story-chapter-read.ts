@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0718Chapter717AGiantSizedFanta
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0718-chapter-717-a-giant-sized-fantasy",
   title: "Chapter 717 - A Giant-Sized Fantasy",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 718,
   ownLength: 3502,
   unit: "unit/words",

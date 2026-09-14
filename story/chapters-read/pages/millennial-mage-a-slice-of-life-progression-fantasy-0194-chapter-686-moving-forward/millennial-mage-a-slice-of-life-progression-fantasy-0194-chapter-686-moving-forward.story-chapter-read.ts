@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0194Chapter686MovingFor
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0194-chapter-686-moving-forward",
   title: "Chapter: 686 - Moving Forward",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 194,
   ownLength: 2549,
   ownProgress: 2549,

@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0072ChapterSeventyOneTheSecondCircle 
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0072-chapter-seventy-one-the-second-circle",
   title: "Chapter Seventy-One: The Second Circle",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 72,
   ownLength: 3101,
   unit: "unit/words",

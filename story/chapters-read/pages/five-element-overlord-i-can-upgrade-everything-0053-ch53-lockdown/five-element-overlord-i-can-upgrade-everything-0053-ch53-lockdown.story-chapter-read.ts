@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0053Ch53Lockdown = {
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0053-ch53-lockdown",
   title: "Ch53 Lockdown",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 53,
   ownLength: 1588,
   unit: "unit/words",

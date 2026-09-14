@@ -5,7 +5,7 @@ export const godOfTrash0172172WhoAreYou = {
   type: "story-chapter-read",
   slug: "god-of-trash-0172-172-who-are-you",
   title: "172. Who Are You?",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 172,
   ownLength: 2182,
   unit: "unit/words",

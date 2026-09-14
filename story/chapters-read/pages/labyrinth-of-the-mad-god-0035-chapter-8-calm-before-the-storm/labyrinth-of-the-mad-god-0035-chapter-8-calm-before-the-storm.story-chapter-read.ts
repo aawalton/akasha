@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0035Chapter8CalmBeforeTheStorm = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0035-chapter-8-calm-before-the-storm",
   title: "Chapter 8: Calm Before the Storm",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 35,
   ownLength: 1815,
   unit: "unit/words",

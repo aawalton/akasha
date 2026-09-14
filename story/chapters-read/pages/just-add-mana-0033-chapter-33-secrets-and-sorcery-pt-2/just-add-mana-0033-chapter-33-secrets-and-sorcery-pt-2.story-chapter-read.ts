@@ -5,7 +5,7 @@ export const justAddMana0033Chapter33SecretsAndSorceryPt2 = {
   type: "story-chapter-read",
   slug: "just-add-mana-0033-chapter-33-secrets-and-sorcery-pt-2",
   title: "Chapter 33 — Secrets and Sorcery, Pt 2",
-  story: "just-add-mana",
+  story: "story-read/just-add-mana",
   position: 33,
   ownLength: 4457,
   ownProgress: 4457,

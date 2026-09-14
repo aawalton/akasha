@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0416Chapter419RenSmash = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0416-chapter-419-ren-smash",
   title: "Chapter 419 - Ren Smash!",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 416,
   ownLength: 3927,
   unit: "unit/words",

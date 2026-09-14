@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0030Chapter46TheGift = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0030-chapter-46-the-gift",
   title: "Chapter 46 - The Gift",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 30,
   ownLength: 2821,
   unit: "unit/words",

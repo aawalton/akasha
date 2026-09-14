@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0266Chapter83Nightsong = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0266-chapter-83-nightsong",
   title: "Chapter 83: Nightsong",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 266,
   ownLength: 1754,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const godOfTrash0234234MeetingNewPeople = {
   type: "story-chapter-read",
   slug: "god-of-trash-0234-234-meeting-new-people",
   title: "234. Meeting New People",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 234,
   ownLength: 1918,
   unit: "unit/words",

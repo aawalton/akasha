@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0252Chapter262CraftingGalore =
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0252-chapter-262-crafting-galore",
   title: "Chapter 262 - Crafting Galore",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 252,
   ownLength: 4168,
   unit: "unit/words",

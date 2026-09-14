@@ -5,7 +5,7 @@ export const newGam3Plus0006TheHallwayPt1 = {
   type: "story-chapter-read",
   slug: "new-gam3-plus-0006-the-hallway-pt-1",
   title: "The Hallway, Pt. 1",
-  story: "new-gam3-plus",
+  story: "story-read/new-gam3-plus",
   position: 6,
   ownLength: 2421,
   unit: "unit/words",

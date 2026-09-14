@@ -5,7 +5,7 @@ export const metaworldHopecore0150Chapter88GoodRiddanceTimeOfYourLife = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0150-chapter-88-good-riddance-time-of-your-life",
   title: "CHAPTER 88 - Good Riddance (Time of Your Life) ",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 150,
   ownLength: 1929,
   unit: "unit/words",

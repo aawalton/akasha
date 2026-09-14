@@ -5,7 +5,7 @@ export const godOfTrash0193193WaitingForTheSignal = {
   type: "story-chapter-read",
   slug: "god-of-trash-0193-193-waiting-for-the-signal",
   title: "193. Waiting For The Signal",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 193,
   ownLength: 1467,
   unit: "unit/words",

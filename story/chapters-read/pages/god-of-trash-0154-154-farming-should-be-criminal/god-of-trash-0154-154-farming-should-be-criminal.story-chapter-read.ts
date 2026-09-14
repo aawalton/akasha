@@ -5,7 +5,7 @@ export const godOfTrash0154154FarmingShouldBeCriminal = {
   type: "story-chapter-read",
   slug: "god-of-trash-0154-154-farming-should-be-criminal",
   title: "154. Farming Should Be Criminal",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 154,
   ownLength: 2506,
   unit: "unit/words",

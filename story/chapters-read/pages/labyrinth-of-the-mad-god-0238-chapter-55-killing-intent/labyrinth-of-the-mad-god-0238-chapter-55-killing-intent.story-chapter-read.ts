@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0238Chapter55KillingIntent = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0238-chapter-55-killing-intent",
   title: "Chapter 55: Killing Intent",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 238,
   ownLength: 2028,
   unit: "unit/words",

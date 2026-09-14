@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0081Chapter43Shapeshifter = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0081-chapter-43-shapeshifter",
   title: "Chapter 43: Shapeshifter",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 81,
   ownLength: 1708,
   unit: "unit/words",

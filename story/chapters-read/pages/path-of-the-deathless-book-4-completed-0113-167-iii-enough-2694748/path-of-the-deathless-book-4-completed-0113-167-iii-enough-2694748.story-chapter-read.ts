@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0113167IiiEnough2694748 = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0113-167-iii-enough-2694748",
   title: "167 (III) Enough",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 113,
   ownLength: 2466,
   unit: "unit/words",

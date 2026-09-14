@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0737Chapter736MoreToDo = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0737-chapter-736-more-to-do",
   title: "Chapter 736 - More To Do",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 737,
   ownLength: 2837,
   unit: "unit/words",

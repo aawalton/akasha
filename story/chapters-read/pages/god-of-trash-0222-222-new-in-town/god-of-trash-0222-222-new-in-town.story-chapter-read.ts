@@ -5,7 +5,7 @@ export const godOfTrash0222222NewInTown = {
   type: "story-chapter-read",
   slug: "god-of-trash-0222-222-new-in-town",
   title: "222. New in Town",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 222,
   ownLength: 1996,
   unit: "unit/words",

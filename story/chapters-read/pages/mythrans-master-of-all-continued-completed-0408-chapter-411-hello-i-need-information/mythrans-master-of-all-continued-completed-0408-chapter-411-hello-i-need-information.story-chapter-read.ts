@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0408Chapter411HelloINeedInform
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0408-chapter-411-hello-i-need-information",
   title: "Chapter 411 - Hello? I Need Information",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 408,
   ownLength: 3402,
   unit: "unit/words",

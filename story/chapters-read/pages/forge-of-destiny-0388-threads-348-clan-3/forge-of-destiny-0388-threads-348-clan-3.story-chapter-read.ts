@@ -5,7 +5,7 @@ export const forgeOfDestiny0388Threads348Clan3 = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0388-threads-348-clan-3",
   title: "Threads 348-Clan 3",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 388,
   ownLength: 2603,
   unit: "unit/words",

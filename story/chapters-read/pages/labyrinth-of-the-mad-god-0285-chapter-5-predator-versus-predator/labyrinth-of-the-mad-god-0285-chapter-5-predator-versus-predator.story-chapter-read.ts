@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0285Chapter5PredatorVersusPredator = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0285-chapter-5-predator-versus-predator",
   title: "Chapter 5: Predator Versus Predator",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 285,
   ownLength: 2715,
   unit: "unit/words",

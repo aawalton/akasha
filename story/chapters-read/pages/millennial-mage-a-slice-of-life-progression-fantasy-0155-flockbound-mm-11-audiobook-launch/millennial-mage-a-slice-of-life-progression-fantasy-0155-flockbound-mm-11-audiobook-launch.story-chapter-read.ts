@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0155FlockboundMm11Audio
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0155-flockbound-mm-11-audiobook-launch",
   title: "Flockbound - MM 11 - Audiobook Launch",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 155,
   ownLength: 61,
   ownProgress: 61,

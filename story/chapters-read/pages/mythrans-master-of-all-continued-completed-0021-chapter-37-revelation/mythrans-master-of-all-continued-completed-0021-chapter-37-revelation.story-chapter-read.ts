@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0021Chapter37Revelation = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0021-chapter-37-revelation",
   title: "Chapter 37 - Revelation",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 21,
   ownLength: 2229,
   unit: "unit/words",

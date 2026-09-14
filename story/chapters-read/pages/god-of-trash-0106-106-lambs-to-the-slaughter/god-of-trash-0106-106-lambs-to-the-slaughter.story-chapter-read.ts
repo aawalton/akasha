@@ -5,7 +5,7 @@ export const godOfTrash0106106LambsToTheSlaughter = {
   type: "story-chapter-read",
   slug: "god-of-trash-0106-106-lambs-to-the-slaughter",
   title: "106. Lambs to the Slaughter",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 106,
   ownLength: 2107,
   unit: "unit/words",

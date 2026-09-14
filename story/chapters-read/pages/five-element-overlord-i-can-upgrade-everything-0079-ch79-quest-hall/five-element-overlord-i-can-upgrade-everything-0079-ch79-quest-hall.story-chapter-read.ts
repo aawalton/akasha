@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0079Ch79QuestHall = {
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0079-ch79-quest-hall",
   title: "Ch79 Quest Hall",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 79,
   ownLength: 1938,
   unit: "unit/words",

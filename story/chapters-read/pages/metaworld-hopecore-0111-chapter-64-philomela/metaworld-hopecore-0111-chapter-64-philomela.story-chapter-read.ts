@@ -5,7 +5,7 @@ export const metaworldHopecore0111Chapter64Philomela = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0111-chapter-64-philomela",
   title: "CHAPTER 64 - Philomela",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 111,
   ownLength: 4050,
   unit: "unit/words",

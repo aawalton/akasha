@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0505Chapter505DramaUnleashed =
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0505-chapter-505-drama-unleashed",
   title: "Chapter 505 - Drama Unleashed",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 505,
   ownLength: 3082,
   unit: "unit/words",

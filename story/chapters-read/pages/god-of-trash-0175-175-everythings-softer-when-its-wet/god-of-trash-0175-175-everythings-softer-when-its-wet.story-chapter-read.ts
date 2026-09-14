@@ -5,7 +5,7 @@ export const godOfTrash0175175EverythingsSofterWhenItsWet = {
   type: "story-chapter-read",
   slug: "god-of-trash-0175-175-everythings-softer-when-its-wet",
   title: "175. Everything's Softer When It's Wet",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 175,
   ownLength: 2435,
   unit: "unit/words",

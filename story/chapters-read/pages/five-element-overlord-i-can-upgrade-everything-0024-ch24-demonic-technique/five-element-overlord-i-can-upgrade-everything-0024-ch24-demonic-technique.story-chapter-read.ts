@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0024Ch24DemonicTechnique = 
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0024-ch24-demonic-technique",
   title: "Ch24 Demonic Technique",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 24,
   ownLength: 1374,
   unit: "unit/words",

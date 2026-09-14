@@ -5,7 +5,7 @@ export const godOfTrash004242FilesAndCats = {
   type: "story-chapter-read",
   slug: "god-of-trash-0042-42-files-and-cats",
   title: "42. Files and Cats",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 42,
   ownLength: 2454,
   unit: "unit/words",

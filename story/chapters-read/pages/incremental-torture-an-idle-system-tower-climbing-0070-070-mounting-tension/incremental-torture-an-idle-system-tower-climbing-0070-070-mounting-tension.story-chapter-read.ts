@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0070070MountingTension =
   type: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0070-070-mounting-tension",
   title: "070: Mounting Tension",
-  story: "incremental-torture-an-idle-system-tower-climbing",
+  story: "story-read/incremental-torture-an-idle-system-tower-climbing",
   position: 70,
   ownLength: 1992,
   unit: "unit/words",

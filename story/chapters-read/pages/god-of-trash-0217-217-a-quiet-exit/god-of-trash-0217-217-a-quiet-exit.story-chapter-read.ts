@@ -5,7 +5,7 @@ export const godOfTrash0217217AQuietExit = {
   type: "story-chapter-read",
   slug: "god-of-trash-0217-217-a-quiet-exit",
   title: "217. A Quiet Exit",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 217,
   ownLength: 1988,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0023InterludeCallan = {
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0023-interlude-callan",
   title: "Interlude: Callan",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 23,
   ownLength: 3803,
   unit: "unit/words",

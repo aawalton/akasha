@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0070Chapter65Underlayer 
   type: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0070-chapter-65-underlayer",
   title: "Chapter 65 Underlayer",
-  story: "my-lord-please-a-character-driven-kingdom-building",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   position: 70,
   ownLength: 1915,
   unit: "unit/words",

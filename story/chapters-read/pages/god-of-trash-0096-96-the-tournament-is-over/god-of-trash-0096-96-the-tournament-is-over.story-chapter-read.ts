@@ -5,7 +5,7 @@ export const godOfTrash009696TheTournamentIsOver = {
   type: "story-chapter-read",
   slug: "god-of-trash-0096-96-the-tournament-is-over",
   title: "96. The Tournament is Over",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 96,
   ownLength: 2240,
   unit: "unit/words",

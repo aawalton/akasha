@@ -5,7 +5,7 @@ export const metaworldHopecore0001PrologueIcarus = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0001-prologue-icarus",
   title: "PROLOGUE - Icarus",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 1,
   ownLength: 362,
   unit: "unit/words",

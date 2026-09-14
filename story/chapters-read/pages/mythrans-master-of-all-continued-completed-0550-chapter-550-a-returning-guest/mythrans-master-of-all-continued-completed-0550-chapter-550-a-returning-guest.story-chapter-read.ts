@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0550Chapter550AReturningGuest 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0550-chapter-550-a-returning-guest",
   title: "Chapter 550 - A Returning Guest",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 550,
   ownLength: 2680,
   unit: "unit/words",

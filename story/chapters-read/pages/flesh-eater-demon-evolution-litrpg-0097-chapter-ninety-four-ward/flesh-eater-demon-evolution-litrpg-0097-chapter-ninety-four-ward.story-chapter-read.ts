@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0097ChapterNinetyFourWard = {
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0097-chapter-ninety-four-ward",
   title: "Chapter Ninety-Four: Ward",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 97,
   ownLength: 3069,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const godOfTrash0159159Warpath = {
   type: "story-chapter-read",
   slug: "god-of-trash-0159-159-warpath",
   title: "159. Warpath",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 159,
   ownLength: 2658,
   unit: "unit/words",

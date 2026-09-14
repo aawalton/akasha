@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0096Chapter57FlameWroughtFinale = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0096-chapter-57-flame-wrought-finale",
   title: "Chapter 57: Flame-Wrought Finale",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 96,
   ownLength: 1939,
   unit: "unit/words",

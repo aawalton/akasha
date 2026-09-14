@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0765Chapter764TowerTraining = 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0765-chapter-764-tower-training",
   title: "Chapter 764 - Tower Training",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 765,
   ownLength: 3219,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0138Chapter152aBothExplicitCon
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0138-chapter-152a-both-explicit-content",
   title: "Chapter 152A - Both (Explicit Content)",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 138,
   ownLength: 2924,
   unit: "unit/words",

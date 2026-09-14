@@ -5,7 +5,7 @@ export const metaworldHopecore0003Chapter1SomeThingsBeginSomethingsEnd = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0003-chapter-1-some-things-begin-somethings-end",
   title: "Chapter 1 - Some Things Begin, Somethings End",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 3,
   ownLength: 3139,
   unit: "unit/words",

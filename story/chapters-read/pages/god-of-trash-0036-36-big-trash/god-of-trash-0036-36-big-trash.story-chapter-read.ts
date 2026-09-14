@@ -5,7 +5,7 @@ export const godOfTrash003636BigTrash = {
   type: "story-chapter-read",
   slug: "god-of-trash-0036-36-big-trash",
   title: "36. Big Trash",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 36,
   ownLength: 2797,
   unit: "unit/words",

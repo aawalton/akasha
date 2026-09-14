@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0439Chapter440aMerryGoRoundExp
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0439-chapter-440a-merry-go-round-explicit",
   title: "Chapter 440A - Merry-Go-Round - EXPLICIT",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 439,
   ownLength: 5245,
   unit: "unit/words",

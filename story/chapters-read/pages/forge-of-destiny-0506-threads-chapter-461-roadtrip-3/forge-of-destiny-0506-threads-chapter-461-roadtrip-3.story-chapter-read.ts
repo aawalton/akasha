@@ -5,7 +5,7 @@ export const forgeOfDestiny0506ThreadsChapter461Roadtrip3 = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0506-threads-chapter-461-roadtrip-3",
   title: "Threads chapter 461-Roadtrip 3",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 506,
   ownLength: 1851,
   unit: "unit/words",

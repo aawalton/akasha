@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0703Chapter702ItsBroken = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0703-chapter-702-its-broken",
   title: "Chapter 702 - It's Broken!",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 703,
   ownLength: 3433,
   unit: "unit/words",

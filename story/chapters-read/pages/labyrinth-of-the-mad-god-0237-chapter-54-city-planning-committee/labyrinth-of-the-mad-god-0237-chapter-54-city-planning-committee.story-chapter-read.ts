@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0237Chapter54CityPlanningCommittee = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0237-chapter-54-city-planning-committee",
   title: "Chapter 54: City-Planning Committee",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 237,
   ownLength: 2645,
   unit: "unit/words",

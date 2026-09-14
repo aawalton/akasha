@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0129Chapter144TheCouncil = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0129-chapter-144-the-council",
   title: "Chapter 144 - The Council",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 129,
   ownLength: 6399,
   unit: "unit/words",

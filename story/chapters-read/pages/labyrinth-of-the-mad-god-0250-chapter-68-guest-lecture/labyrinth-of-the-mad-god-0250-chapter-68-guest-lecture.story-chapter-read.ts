@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0250Chapter68GuestLecture = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0250-chapter-68-guest-lecture",
   title: "Chapter 68: Guest Lecture",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 250,
   ownLength: 1759,
   unit: "unit/words",

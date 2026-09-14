@@ -5,7 +5,7 @@ export const gamerGirlEvolution002828SnappedSwordVsTheRiftToad2 = {
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0028-28-snapped-sword-vs-the-rift-toad-2",
   title: "28 - Snapped Sword vs The Rift Toad (2) ",
-  story: "gamer-girl-evolution",
+  story: "story-read/gamer-girl-evolution",
   position: 28,
   ownLength: 1324,
   ownProgress: 1324,

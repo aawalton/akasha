@@ -5,7 +5,7 @@ export const forgeOfDestiny0077InterludeOuterSect = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0077-interlude-outer-sect",
   title: "Interlude: Outer Sect",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 77,
   ownLength: 1307,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0258Chapter268LastOfThePrizes 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0258-chapter-268-last-of-the-prizes",
   title: "Chapter 268 - Last Of The Prizes",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 258,
   ownLength: 3504,
   unit: "unit/words",

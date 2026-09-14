@@ -5,7 +5,7 @@ export const godOfTrash0260260ClearingTheMark = {
   type: "story-chapter-read",
   slug: "god-of-trash-0260-260-clearing-the-mark",
   title: "260. Clearing the Mark",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 260,
   ownLength: 1907,
   unit: "unit/words",

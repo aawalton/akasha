@@ -5,7 +5,7 @@ export const justAddMana0036Chapter36ImpromptuLecture = {
   type: "story-chapter-read",
   slug: "just-add-mana-0036-chapter-36-impromptu-lecture",
   title: "Chapter 36 — Impromptu Lecture",
-  story: "just-add-mana",
+  story: "story-read/just-add-mana",
   position: 36,
   ownLength: 4992,
   ownProgress: 4992,

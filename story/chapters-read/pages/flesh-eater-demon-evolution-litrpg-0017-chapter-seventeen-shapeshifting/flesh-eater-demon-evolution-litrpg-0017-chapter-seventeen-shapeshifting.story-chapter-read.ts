@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0017ChapterSeventeenShapeshifting = {
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0017-chapter-seventeen-shapeshifting",
   title: "Chapter Seventeen: Shapeshifting",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 17,
   ownLength: 3191,
   unit: "unit/words",

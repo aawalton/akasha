@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0243Chapter61WizardDuelIi = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0243-chapter-61-wizard-duel-ii",
   title: "Chapter 61: Wizard Duel II",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 243,
   ownLength: 1502,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0033Chapter31Commitment 
   type: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0033-chapter-31-commitment",
   title: "Chapter 31 Commitment",
-  story: "my-lord-please-a-character-driven-kingdom-building",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   position: 33,
   ownLength: 2422,
   unit: "unit/words",

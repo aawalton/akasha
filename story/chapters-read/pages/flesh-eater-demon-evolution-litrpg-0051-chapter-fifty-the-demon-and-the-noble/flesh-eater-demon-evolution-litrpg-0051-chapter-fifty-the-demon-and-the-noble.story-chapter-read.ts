@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0051ChapterFiftyTheDemonAndTheNoble =
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0051-chapter-fifty-the-demon-and-the-noble",
   title: "Chapter Fifty: The Demon and the Noble",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 51,
   ownLength: 2816,
   unit: "unit/words",

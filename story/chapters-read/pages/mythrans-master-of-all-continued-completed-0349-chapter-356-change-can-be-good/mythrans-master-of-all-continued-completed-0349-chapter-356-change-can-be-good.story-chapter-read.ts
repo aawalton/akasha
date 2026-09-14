@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0349Chapter356ChangeCanBeGood 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0349-chapter-356-change-can-be-good",
   title: "Chapter 356 - Change Can Be Good",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 349,
   ownLength: 3767,
   unit: "unit/words",

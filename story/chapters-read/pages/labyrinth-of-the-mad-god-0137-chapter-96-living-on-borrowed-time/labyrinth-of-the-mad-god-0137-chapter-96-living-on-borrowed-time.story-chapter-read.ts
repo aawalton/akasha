@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0137Chapter96LivingOnBorrowedTime = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0137-chapter-96-living-on-borrowed-time",
   title: "Chapter 96: Living on Borrowed Time",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 137,
   ownLength: 1773,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0627Chapter626PhaseTwoComplete
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0627-chapter-626-phase-two-complete",
   title: "Chapter 626 - Phase Two Complete",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 627,
   ownLength: 2752,
   unit: "unit/words",

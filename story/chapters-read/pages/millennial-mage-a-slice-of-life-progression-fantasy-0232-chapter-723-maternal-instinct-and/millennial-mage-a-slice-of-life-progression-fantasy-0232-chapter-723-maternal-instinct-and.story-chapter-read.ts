@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0232Chapter723MaternalI
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0232-chapter-723-maternal-instinct-and",
   title: "Chapter: 723 - Maternal Instinct and Refinement",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 232,
   ownLength: 3183,
   unit: "unit/words",

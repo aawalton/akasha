@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0133Ch133TakingCredit = {
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0133-ch133-taking-credit",
   title: "Ch133 Taking Credit",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 133,
   ownLength: 2983,
   unit: "unit/words",

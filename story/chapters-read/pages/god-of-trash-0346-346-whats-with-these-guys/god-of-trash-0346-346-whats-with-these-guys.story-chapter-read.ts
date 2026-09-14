@@ -5,7 +5,7 @@ export const godOfTrash0346346WhatsWithTheseGuys = {
   type: "story-chapter-read",
   slug: "god-of-trash-0346-346-whats-with-these-guys",
   title: "346. What's With These Guys?",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 346,
   ownLength: 2015,
   unit: "unit/words",

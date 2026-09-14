@@ -5,7 +5,7 @@ export const forgeOfDestiny0081Threads64Foreshock1 = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0081-threads-64-foreshock-1",
   title: "Threads 64-Foreshock 1",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 81,
   ownLength: 2887,
   unit: "unit/words",

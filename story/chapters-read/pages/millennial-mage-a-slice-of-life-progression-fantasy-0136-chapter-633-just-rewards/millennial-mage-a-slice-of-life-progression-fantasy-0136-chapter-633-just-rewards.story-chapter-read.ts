@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0136Chapter633JustRewar
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0136-chapter-633-just-rewards",
   title: "Chapter: 633 - Just Rewards",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 136,
   ownLength: 2659,
   ownProgress: 2659,

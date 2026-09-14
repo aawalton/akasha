@@ -5,7 +5,7 @@ export const forgeOfDestiny0051Chapter39ThreeMoons4 = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0051-chapter-39-three-moons-4",
   title: "Chapter 39-Three Moons 4",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 51,
   ownLength: 2622,
   unit: "unit/words",

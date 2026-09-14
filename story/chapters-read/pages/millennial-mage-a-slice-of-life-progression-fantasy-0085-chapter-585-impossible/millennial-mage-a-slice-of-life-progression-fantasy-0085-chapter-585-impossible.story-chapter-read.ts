@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0085Chapter585Impossibl
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0085-chapter-585-impossible",
   title: "Chapter: 585 - Impossible",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 85,
   ownLength: 2887,
   ownProgress: 2887,

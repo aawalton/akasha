@@ -5,7 +5,7 @@ export const godOfTrash002323StarIceSeed = {
   type: "story-chapter-read",
   slug: "god-of-trash-0023-23-star-ice-seed",
   title: "23. Star Ice Seed",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 23,
   ownLength: 3803,
   unit: "unit/words",

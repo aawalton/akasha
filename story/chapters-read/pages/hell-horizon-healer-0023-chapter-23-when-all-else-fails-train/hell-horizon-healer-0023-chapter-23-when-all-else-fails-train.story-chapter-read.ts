@@ -5,7 +5,7 @@ export const hellHorizonHealer0023Chapter23WhenAllElseFailsTrain = {
   type: "story-chapter-read",
   slug: "hell-horizon-healer-0023-chapter-23-when-all-else-fails-train",
   title: "Chapter 23 - When All Else Fails, Train",
-  story: "hell-horizon-healer",
+  story: "story-read/hell-horizon-healer",
   position: 23,
   ownLength: 1770,
   unit: "unit/words",

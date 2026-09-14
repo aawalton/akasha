@@ -5,7 +5,7 @@ export const justAddMana0159BookChapterFirstReincarnation = {
   type: "story-chapter-read",
   slug: "just-add-mana-0159-book-chapter-first-reincarnation",
   title: "??? — Book ?, Chapter ?? — First Reincarnation",
-  story: "just-add-mana",
+  story: "story-read/just-add-mana",
   position: 159,
   ownLength: 883,
   unit: "unit/words",

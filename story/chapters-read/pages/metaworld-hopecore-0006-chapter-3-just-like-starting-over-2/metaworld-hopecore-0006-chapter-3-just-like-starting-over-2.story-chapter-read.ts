@@ -5,7 +5,7 @@ export const metaworldHopecore0006Chapter3JustLikeStartingOver2 = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0006-chapter-3-just-like-starting-over-2",
   title: "Chapter 3 - (Just Like) Starting Over (2)",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 6,
   ownLength: 3582,
   unit: "unit/words",

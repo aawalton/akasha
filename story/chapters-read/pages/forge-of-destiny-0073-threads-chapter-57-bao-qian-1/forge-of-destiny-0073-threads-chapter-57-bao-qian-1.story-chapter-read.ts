@@ -5,7 +5,7 @@ export const forgeOfDestiny0073ThreadsChapter57BaoQian1 = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0073-threads-chapter-57-bao-qian-1",
   title: "Threads Chapter 57-Bao Qian 1",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 73,
   ownLength: 2238,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0117Chapter111Integratio
   type: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0117-chapter-111-integration",
   title: "Chapter 111 Integration",
-  story: "my-lord-please-a-character-driven-kingdom-building",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   position: 117,
   ownLength: 2131,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0121Chapter80ReadyToRoll = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0121-chapter-80-ready-to-roll",
   title: "Chapter 80: Ready to Roll",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 121,
   ownLength: 1723,
   unit: "unit/words",

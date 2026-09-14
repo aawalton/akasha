@@ -5,7 +5,7 @@ export const newGam3Plus0004KeepMovingForward = {
   type: "story-chapter-read",
   slug: "new-gam3-plus-0004-keep-moving-forward",
   title: "Keep Moving Forward",
-  story: "new-gam3-plus",
+  story: "story-read/new-gam3-plus",
   position: 4,
   ownLength: 2486,
   unit: "unit/words",

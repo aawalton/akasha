@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0127Chapter86StealthyApproach = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0127-chapter-86-stealthy-approach",
   title: "Chapter 86: Stealthy Approach",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 127,
   ownLength: 1763,
   unit: "unit/words",

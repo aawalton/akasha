@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0099Chapter597FoxKin = 
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0099-chapter-597-fox-kin",
   title: "Chapter: 597 - Fox-kin",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 99,
   ownLength: 3096,
   ownProgress: 3096,

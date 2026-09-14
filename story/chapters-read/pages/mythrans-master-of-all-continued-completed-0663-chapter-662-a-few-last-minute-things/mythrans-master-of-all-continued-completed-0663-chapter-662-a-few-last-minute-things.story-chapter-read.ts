@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0663Chapter662AFewLastMinuteTh
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0663-chapter-662-a-few-last-minute-things",
   title: "Chapter 662 - A Few Last Minute Things",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 663,
   ownLength: 3073,
   unit: "unit/words",

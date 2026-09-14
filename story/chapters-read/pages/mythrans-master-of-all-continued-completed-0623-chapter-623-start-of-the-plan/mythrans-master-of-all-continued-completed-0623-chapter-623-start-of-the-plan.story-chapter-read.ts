@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0623Chapter623StartOfThePlan =
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0623-chapter-623-start-of-the-plan",
   title: "Chapter 623 - Start Of The Plan",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 623,
   ownLength: 2861,
   unit: "unit/words",

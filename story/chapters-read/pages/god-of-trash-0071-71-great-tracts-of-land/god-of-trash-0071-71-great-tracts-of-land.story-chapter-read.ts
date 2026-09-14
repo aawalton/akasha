@@ -5,7 +5,7 @@ export const godOfTrash007171GreatTractsOfLand = {
   type: "story-chapter-read",
   slug: "god-of-trash-0071-71-great-tracts-of-land",
   title: "71. Great Tracts of Land",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 71,
   ownLength: 1938,
   unit: "unit/words",

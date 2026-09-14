@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0015015WelcomeToTheParty
   type: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0015-015-welcome-to-the-party",
   title: "015: Welcome to the Party",
-  story: "incremental-torture-an-idle-system-tower-climbing",
+  story: "story-read/incremental-torture-an-idle-system-tower-climbing",
   position: 15,
   ownLength: 2331,
   unit: "unit/words",

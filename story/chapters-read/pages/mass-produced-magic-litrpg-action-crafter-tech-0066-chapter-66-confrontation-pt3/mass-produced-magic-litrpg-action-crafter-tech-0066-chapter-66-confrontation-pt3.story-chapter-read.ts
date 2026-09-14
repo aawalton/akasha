@@ -5,7 +5,7 @@ export const massProducedMagicLitrpgActionCrafterTech0066Chapter66ConfrontationP
   type: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0066-chapter-66-confrontation-pt3",
   title: "Chapter 66 – Confrontation Pt3",
-  story: "mass-produced-magic-litrpg-action-crafter-tech",
+  story: "story-read/mass-produced-magic-litrpg-action-crafter-tech",
   position: 66,
   ownLength: 1433,
   unit: "unit/words",

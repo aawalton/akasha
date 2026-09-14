@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0682Chapter681LunchAndDessert 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0682-chapter-681-lunch-and-dessert",
   title: "Chapter 681 - Lunch And Dessert",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 682,
   ownLength: 3451,
   unit: "unit/words",

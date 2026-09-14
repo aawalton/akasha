@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0038038AliceSteelweaver 
   type: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0038-038-alice-steelweaver",
   title: "038: Alice Steelweaver",
-  story: "incremental-torture-an-idle-system-tower-climbing",
+  story: "story-read/incremental-torture-an-idle-system-tower-climbing",
   position: 38,
   ownLength: 2218,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const forgeOfDestiny0179ThreadsInterludeClockworkBlades = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0179-threads-interlude-clockwork-blades",
   title: "Threads Interlude Clockwork Blades",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 179,
   ownLength: 1484,
   unit: "unit/words",

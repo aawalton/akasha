@@ -5,7 +5,7 @@ export const godOfTrash0333333LookingInTheWrongDirection = {
   type: "story-chapter-read",
   slug: "god-of-trash-0333-333-looking-in-the-wrong-direction",
   title: "333. Looking in the Wrong Direction",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 333,
   ownLength: 1848,
   unit: "unit/words",

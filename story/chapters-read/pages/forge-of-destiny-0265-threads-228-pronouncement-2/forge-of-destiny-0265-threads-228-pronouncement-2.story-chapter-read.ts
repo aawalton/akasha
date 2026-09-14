@@ -5,7 +5,7 @@ export const forgeOfDestiny0265Threads228Pronouncement2 = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0265-threads-228-pronouncement-2",
   title: "Threads 228-Pronouncement 2",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 265,
   ownLength: 3028,
   unit: "unit/words",

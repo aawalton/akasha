@@ -5,7 +5,7 @@ export const metaworldHopecore0110Chapter63InThePines = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0110-chapter-63-in-the-pines",
   title: "CHAPTER 63 - In the Pines",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 110,
   ownLength: 3523,
   unit: "unit/words",

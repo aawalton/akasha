@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0014ChapterFourteenTheCrossroadsDemon
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0014-chapter-fourteen-the-crossroads-demon",
   title: "Chapter Fourteen: The Crossroads Demon",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 14,
   ownLength: 2867,
   unit: "unit/words",

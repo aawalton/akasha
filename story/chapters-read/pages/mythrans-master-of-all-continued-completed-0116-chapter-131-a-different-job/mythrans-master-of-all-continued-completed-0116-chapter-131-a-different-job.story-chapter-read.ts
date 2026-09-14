@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0116Chapter131ADifferentJob = 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0116-chapter-131-a-different-job",
   title: "Chapter 131 - A Different Job",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 116,
   ownLength: 4406,
   unit: "unit/words",

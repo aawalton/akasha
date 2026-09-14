@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0121Ch121PatriarchsArrive =
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0121-ch121-patriarchs-arrive",
   title: "Ch121 Patriarchs Arrive",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 121,
   ownLength: 2034,
   unit: "unit/words",

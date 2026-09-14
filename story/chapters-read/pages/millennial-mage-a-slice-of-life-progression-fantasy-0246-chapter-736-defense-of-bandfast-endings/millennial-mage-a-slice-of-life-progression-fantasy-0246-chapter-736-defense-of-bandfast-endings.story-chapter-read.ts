@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0246Chapter736DefenseOf
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0246-chapter-736-defense-of-bandfast-endings",
   title: "Chapter: 736 - Defense of Bandfast (Endings)",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 246,
   ownLength: 2998,
   unit: "unit/words",

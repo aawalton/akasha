@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0545Chapter545WhatWillYouChoos
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0545-chapter-545-what-will-you-choose",
   title: "Chapter 545 - What Will You Choose?",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 545,
   ownLength: 2538,
   unit: "unit/words",

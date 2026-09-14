@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0299Chapter19LookingAhead = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0299-chapter-19-looking-ahead",
   title: "Chapter 19: Looking Ahead",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 299,
   ownLength: 2276,
   unit: "unit/words",

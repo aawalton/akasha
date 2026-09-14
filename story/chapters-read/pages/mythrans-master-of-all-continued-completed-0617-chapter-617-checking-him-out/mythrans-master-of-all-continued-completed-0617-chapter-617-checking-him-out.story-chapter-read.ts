@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0617Chapter617CheckingHimOut =
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0617-chapter-617-checking-him-out",
   title: "Chapter 617 - Checking Him Out",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 617,
   ownLength: 2814,
   unit: "unit/words",

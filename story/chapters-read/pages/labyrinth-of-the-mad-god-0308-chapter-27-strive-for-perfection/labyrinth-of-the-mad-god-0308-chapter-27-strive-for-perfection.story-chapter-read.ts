@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0308Chapter27StriveForPerfection = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0308-chapter-27-strive-for-perfection",
   title: "Chapter 27: Strive for Perfection",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 308,
   ownLength: 1524,
   unit: "unit/words",

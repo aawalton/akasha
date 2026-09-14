@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0592Chapter592AsTheWaterChurns
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0592-chapter-592-as-the-water-churns",
   title: "Chapter 592 - As The Water Churns",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 592,
   ownLength: 2479,
   unit: "unit/words",

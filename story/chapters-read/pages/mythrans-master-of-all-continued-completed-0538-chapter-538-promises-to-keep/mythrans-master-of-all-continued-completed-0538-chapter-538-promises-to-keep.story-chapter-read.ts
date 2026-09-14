@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0538Chapter538PromisesToKeep =
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0538-chapter-538-promises-to-keep",
   title: "Chapter 538 - Promises To Keep",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 538,
   ownLength: 3438,
   unit: "unit/words",

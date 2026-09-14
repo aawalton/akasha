@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0711Chapter710MakingThingsRigh
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0711-chapter-710-making-things-right",
   title: "Chapter 710 - Making Things Right",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 711,
   ownLength: 2989,
   unit: "unit/words",

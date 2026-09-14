@@ -5,7 +5,7 @@ export const godOfTrash0110110NewHideout = {
   type: "story-chapter-read",
   slug: "god-of-trash-0110-110-new-hideout",
   title: "110. New Hideout",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 110,
   ownLength: 2272,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0017017OneWomanArmy = {
   type: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0017-017-one-woman-army",
   title: "017: One Woman Army",
-  story: "incremental-torture-an-idle-system-tower-climbing",
+  story: "story-read/incremental-torture-an-idle-system-tower-climbing",
   position: 17,
   ownLength: 2246,
   unit: "unit/words",

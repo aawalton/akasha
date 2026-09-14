@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0065Chapter61Transition 
   type: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0065-chapter-61-transition",
   title: "Chapter 61 Transition",
-  story: "my-lord-please-a-character-driven-kingdom-building",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   position: 65,
   ownLength: 2502,
   unit: "unit/words",

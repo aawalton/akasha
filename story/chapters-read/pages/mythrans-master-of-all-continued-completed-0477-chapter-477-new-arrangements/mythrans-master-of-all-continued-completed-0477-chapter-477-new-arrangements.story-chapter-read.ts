@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0477Chapter477NewArrangements 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0477-chapter-477-new-arrangements",
   title: "Chapter 477 - New Arrangements",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 477,
   ownLength: 3454,
   unit: "unit/words",

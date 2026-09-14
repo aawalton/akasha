@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0057Chapter25AnUnfortunateChangeOfScenery = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0057-chapter-25-an-unfortunate-change-of-scenery",
   title: "Chapter 25: An Unfortunate Change of Scenery",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 57,
   ownLength: 1604,
   unit: "unit/words",

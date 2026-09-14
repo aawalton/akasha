@@ -5,7 +5,7 @@ export const godOfTrash0292292LoveRivals = {
   type: "story-chapter-read",
   slug: "god-of-trash-0292-292-love-rivals",
   title: "292. Love Rivals",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 292,
   ownLength: 2086,
   unit: "unit/words",

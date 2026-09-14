@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0021ChapterTwentyOneChimera = {
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0021-chapter-twenty-one-chimera",
   title: "Chapter Twenty-One: Chimera",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 21,
   ownLength: 2899,
   unit: "unit/words",

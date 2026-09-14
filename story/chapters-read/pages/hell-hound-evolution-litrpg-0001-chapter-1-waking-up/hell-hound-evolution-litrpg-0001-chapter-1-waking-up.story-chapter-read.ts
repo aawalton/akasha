@@ -5,7 +5,7 @@ export const hellHoundEvolutionLitrpg0001Chapter1WakingUp = {
   type: "story-chapter-read",
   slug: "hell-hound-evolution-litrpg-0001-chapter-1-waking-up",
   title: "Chapter 1: Waking Up",
-  story: "hell-hound-evolution-litrpg",
+  story: "story-read/hell-hound-evolution-litrpg",
   position: 1,
   ownLength: 2160,
   unit: "unit/words",

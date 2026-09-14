@@ -5,7 +5,7 @@ export const godOfTrash002222LibraryCat = {
   type: "story-chapter-read",
   slug: "god-of-trash-0022-22-library-cat",
   title: "22. Library Cat",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 22,
   ownLength: 2828,
   unit: "unit/words",

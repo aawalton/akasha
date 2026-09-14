@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0081Chapter97TheCommanderKnows
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0081-chapter-97-the-commander-knows-all",
   title: "Chapter 97 - The Commander Knows All",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 81,
   ownLength: 3020,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0736Chapter735CodeDuello = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0736-chapter-735-code-duello",
   title: "Chapter 735 - Code Duello",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 736,
   ownLength: 3950,
   unit: "unit/words",

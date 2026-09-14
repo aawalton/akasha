@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0656Chapter655GhoulCity = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0656-chapter-655-ghoul-city",
   title: "Chapter 655 - Ghoul City",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 656,
   ownLength: 2681,
   unit: "unit/words",

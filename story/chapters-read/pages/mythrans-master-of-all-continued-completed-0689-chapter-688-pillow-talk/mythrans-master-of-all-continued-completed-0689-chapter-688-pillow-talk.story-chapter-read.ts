@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0689Chapter688PillowTalk = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0689-chapter-688-pillow-talk",
   title: "Chapter 688 - Pillow Talk",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 689,
   ownLength: 2833,
   unit: "unit/words",

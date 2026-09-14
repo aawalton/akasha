@@ -5,7 +5,7 @@ export const forgeOfDestiny0563ThreadsChapter514Homecoming2 = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0563-threads-chapter-514-homecoming-2",
   title: "Threads Chapter 514 Homecoming 2",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 563,
   ownLength: 2652,
   unit: "unit/words",

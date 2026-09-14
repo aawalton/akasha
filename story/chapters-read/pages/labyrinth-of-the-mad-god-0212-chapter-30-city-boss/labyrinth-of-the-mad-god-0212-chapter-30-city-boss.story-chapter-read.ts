@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0212Chapter30CityBoss = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0212-chapter-30-city-boss",
   title: "Chapter 30: City Boss",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 212,
   ownLength: 1720,
   unit: "unit/words",

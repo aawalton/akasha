@@ -5,7 +5,7 @@ export const forgeOfDestiny0249Threads215FriendAndFoe4 = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0249-threads-215-friend-and-foe-4",
   title: "Threads 215-Friend and Foe 4",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 249,
   ownLength: 1967,
   unit: "unit/words",

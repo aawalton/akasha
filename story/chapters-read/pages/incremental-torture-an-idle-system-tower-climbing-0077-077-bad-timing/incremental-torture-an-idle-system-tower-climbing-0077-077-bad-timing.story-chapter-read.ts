@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0077077BadTiming = {
   type: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0077-077-bad-timing",
   title: "077: Bad Timing",
-  story: "incremental-torture-an-idle-system-tower-climbing",
+  story: "story-read/incremental-torture-an-idle-system-tower-climbing",
   position: 77,
   ownLength: 1994,
   unit: "unit/words",

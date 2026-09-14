@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0240Chapter251PhysicalProblems
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0240-chapter-251-physical-problems",
   title: "Chapter 251 - Physical Problems",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 240,
   ownLength: 4850,
   unit: "unit/words",

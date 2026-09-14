@@ -5,7 +5,7 @@ export const justAddMana0107104Book3Chapter3CatchingUp = {
   type: "story-chapter-read",
   slug: "just-add-mana-0107-104-book-3-chapter-3-catching-up",
   title: "104 — Book 3, Chapter 3 — Catching Up",
-  story: "just-add-mana",
+  story: "story-read/just-add-mana",
   position: 107,
   ownLength: 3383,
   ownProgress: 2375,

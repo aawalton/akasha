@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0047047PlainsOfTorment =
   type: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0047-047-plains-of-torment",
   title: "047: Plains of Torment",
-  story: "incremental-torture-an-idle-system-tower-climbing",
+  story: "story-read/incremental-torture-an-idle-system-tower-climbing",
   position: 47,
   ownLength: 2158,
   unit: "unit/words",

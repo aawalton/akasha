@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0200Chapter18Voidbear = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0200-chapter-18-voidbear",
   title: "Chapter 18: Voidbear",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 200,
   ownLength: 3151,
   unit: "unit/words",

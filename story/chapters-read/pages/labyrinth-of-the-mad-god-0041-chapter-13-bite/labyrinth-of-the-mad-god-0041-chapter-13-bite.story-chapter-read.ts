@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0041Chapter13Bite = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0041-chapter-13-bite",
   title: "Chapter 13: Bite",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 41,
   ownLength: 1686,
   unit: "unit/words",

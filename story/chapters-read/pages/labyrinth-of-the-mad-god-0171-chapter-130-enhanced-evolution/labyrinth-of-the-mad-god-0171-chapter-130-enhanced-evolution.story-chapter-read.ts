@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0171Chapter130EnhancedEvolution = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0171-chapter-130-enhanced-evolution",
   title: "Chapter 130: Enhanced Evolution",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 171,
   ownLength: 2130,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0291Chapter300SayingGoodbye = 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0291-chapter-300-saying-goodbye",
   title: "Chapter 300 - Saying Goodbye",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 291,
   ownLength: 3023,
   unit: "unit/words",

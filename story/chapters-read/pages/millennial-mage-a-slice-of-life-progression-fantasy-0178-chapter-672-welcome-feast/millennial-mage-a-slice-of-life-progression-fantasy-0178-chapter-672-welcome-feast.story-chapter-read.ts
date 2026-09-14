@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0178Chapter672WelcomeFe
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0178-chapter-672-welcome-feast",
   title: "Chapter: 672 - Welcome Feast",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 178,
   ownLength: 2883,
   ownProgress: 2883,

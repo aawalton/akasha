@@ -5,7 +5,7 @@ export const godOfTrash0180180ThePivotalMoment = {
   type: "story-chapter-read",
   slug: "god-of-trash-0180-180-the-pivotal-moment",
   title: "180. The Pivotal Moment",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 180,
   ownLength: 1962,
   unit: "unit/words",

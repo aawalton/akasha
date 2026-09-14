@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0340Chapter59OneSidedBeatdown = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0340-chapter-59-one-sided-beatdown",
   title: "Chapter 59: One-Sided Beatdown",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 340,
   ownLength: 1978,
   unit: "unit/words",

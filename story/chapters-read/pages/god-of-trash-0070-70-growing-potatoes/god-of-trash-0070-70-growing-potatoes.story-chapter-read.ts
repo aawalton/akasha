@@ -5,7 +5,7 @@ export const godOfTrash007070GrowingPotatoes = {
   type: "story-chapter-read",
   slug: "god-of-trash-0070-70-growing-potatoes",
   title: "70. Growing Potatoes",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 70,
   ownLength: 2130,
   unit: "unit/words",

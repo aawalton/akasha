@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0076076AchievingYourDrea
   type: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0076-076-achieving-your-dreams-requires",
   title: "076: Achieving your Dreams Requires Dedication, and Love",
-  story: "incremental-torture-an-idle-system-tower-climbing",
+  story: "story-read/incremental-torture-an-idle-system-tower-climbing",
   position: 76,
   ownLength: 2006,
   unit: "unit/words",

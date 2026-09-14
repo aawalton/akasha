@@ -5,7 +5,7 @@ export const godOfTrash0310310TakeABreak = {
   type: "story-chapter-read",
   slug: "god-of-trash-0310-310-take-a-break",
   title: "310. Take a Break",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 310,
   ownLength: 1670,
   unit: "unit/words",

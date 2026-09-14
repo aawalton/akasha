@@ -5,7 +5,7 @@ export const justAddMana0117114Book3Chapter13LibraryWoesPt5 = {
   type: "story-chapter-read",
   slug: "just-add-mana-0117-114-book-3-chapter-13-library-woes-pt-5",
   title: "114 — Book 3, Chapter 13— Library Woes, Pt 5",
-  story: "just-add-mana",
+  story: "story-read/just-add-mana",
   position: 117,
   ownLength: 3051,
   unit: "unit/words",

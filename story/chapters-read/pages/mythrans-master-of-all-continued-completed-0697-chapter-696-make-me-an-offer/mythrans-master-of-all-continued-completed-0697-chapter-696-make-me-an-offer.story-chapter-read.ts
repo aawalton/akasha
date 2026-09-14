@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0697Chapter696MakeMeAnOffer = 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0697-chapter-696-make-me-an-offer",
   title: "Chapter 696 - Make Me An Offer",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 697,
   ownLength: 3554,
   unit: "unit/words",

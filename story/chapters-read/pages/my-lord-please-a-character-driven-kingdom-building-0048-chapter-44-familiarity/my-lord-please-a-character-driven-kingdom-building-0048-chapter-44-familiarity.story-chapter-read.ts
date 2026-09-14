@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0048Chapter44Familiarity
   type: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0048-chapter-44-familiarity",
   title: "Chapter 44 Familiarity",
-  story: "my-lord-please-a-character-driven-kingdom-building",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   position: 48,
   ownLength: 2343,
   unit: "unit/words",

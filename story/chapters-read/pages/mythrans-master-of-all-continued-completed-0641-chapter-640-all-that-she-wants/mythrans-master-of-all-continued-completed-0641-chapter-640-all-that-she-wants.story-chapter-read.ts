@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0641Chapter640AllThatSheWants 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0641-chapter-640-all-that-she-wants",
   title: "Chapter 640 - All That She Wants",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 641,
   ownLength: 2734,
   unit: "unit/words",

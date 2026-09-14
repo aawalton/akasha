@@ -5,7 +5,7 @@ export const metaworldHopecore0002Chapter0Forewords = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0002-chapter-0-forewords",
   title: "Chapter 0 - Forewords",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 2,
   ownLength: 661,
   unit: "unit/words",

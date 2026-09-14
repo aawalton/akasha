@@ -5,7 +5,7 @@ export const forgeOfDestiny0501Threads456Geomancy1 = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0501-threads-456-geomancy-1",
   title: "Threads 456-Geomancy 1",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 501,
   ownLength: 2484,
   unit: "unit/words",

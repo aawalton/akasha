@@ -5,7 +5,7 @@ export const gamerGirlEvolution00044JustASkillIssue = {
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0004-4-just-a-skill-issue",
   title: "4 – Just a Skill Issue",
-  story: "gamer-girl-evolution",
+  story: "story-read/gamer-girl-evolution",
   position: 4,
   ownLength: 1901,
   ownProgress: 1901,

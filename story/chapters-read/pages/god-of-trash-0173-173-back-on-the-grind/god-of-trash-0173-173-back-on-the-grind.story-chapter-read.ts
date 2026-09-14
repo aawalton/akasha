@@ -5,7 +5,7 @@ export const godOfTrash0173173BackOnTheGrind = {
   type: "story-chapter-read",
   slug: "god-of-trash-0173-173-back-on-the-grind",
   title: "173. Back on the Grind",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 173,
   ownLength: 2216,
   unit: "unit/words",

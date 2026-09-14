@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0059Chapter26BugBattle = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0059-chapter-26-bug-battle",
   title: "Chapter 26: Bug Battle",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 59,
   ownLength: 1585,
   unit: "unit/words",

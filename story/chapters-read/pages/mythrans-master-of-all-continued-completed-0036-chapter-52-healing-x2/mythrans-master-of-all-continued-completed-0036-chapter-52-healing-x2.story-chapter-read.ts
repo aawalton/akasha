@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0036Chapter52HealingX2 = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0036-chapter-52-healing-x2",
   title: "Chapter 52 - Healing x2",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 36,
   ownLength: 3059,
   unit: "unit/words",

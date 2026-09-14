@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0057Chapter557ADefensiv
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0057-chapter-557-a-defensive-response",
   title: "Chapter: 557 - A Defensive Response",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 57,
   ownLength: 3084,
   ownProgress: 3084,

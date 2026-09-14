@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0637Chapter636FireDancingAroun
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0637-chapter-636-fire-dancing-around-the-subject",
   title: "Chapter 636 - Fire Dancing Around The Subject",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 637,
   ownLength: 2624,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0593Chapter593ItGetsMurky = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0593-chapter-593-it-gets-murky",
   title: "Chapter 593 - It Gets Murky",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 593,
   ownLength: 2670,
   unit: "unit/words",

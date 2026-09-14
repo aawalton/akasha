@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0351Chapter358DontBugMe = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0351-chapter-358-dont-bug-me",
   title: "Chapter 358 - Don't Bug Me",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 351,
   ownLength: 3971,
   unit: "unit/words",

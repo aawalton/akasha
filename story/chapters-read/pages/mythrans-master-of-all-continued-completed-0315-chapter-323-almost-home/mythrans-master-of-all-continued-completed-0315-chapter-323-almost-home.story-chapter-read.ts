@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0315Chapter323AlmostHome = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0315-chapter-323-almost-home",
   title: "Chapter 323 - Almost Home",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 315,
   ownLength: 3818,
   unit: "unit/words",

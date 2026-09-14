@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0143Chapter157FireBad = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0143-chapter-157-fire-bad",
   title: "Chapter 157 - Fire Bad!",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 143,
   ownLength: 4257,
   unit: "unit/words",

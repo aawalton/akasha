@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0664Chapter663IntoTheArena = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0664-chapter-663-into-the-arena",
   title: "Chapter 663 - Into the Arena",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 664,
   ownLength: 3125,
   unit: "unit/words",

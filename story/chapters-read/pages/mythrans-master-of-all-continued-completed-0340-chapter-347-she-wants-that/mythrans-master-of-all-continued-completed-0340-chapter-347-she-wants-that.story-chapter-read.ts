@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0340Chapter347SheWantsThat = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0340-chapter-347-she-wants-that",
   title: "Chapter 347 - She Wants That",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 340,
   ownLength: 4118,
   unit: "unit/words",

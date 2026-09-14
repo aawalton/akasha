@@ -5,7 +5,7 @@ export const godOfTrash002424DeliveringTheFlower = {
   type: "story-chapter-read",
   slug: "god-of-trash-0024-24-delivering-the-flower",
   title: "24. Delivering the Flower",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 24,
   ownLength: 2562,
   unit: "unit/words",

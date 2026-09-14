@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0218Chapter709HoldsAndH
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0218-chapter-709-holds-and-hunts",
   title: "Chapter: 709 - Holds and Hunts",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 218,
   ownLength: 2768,
   unit: "unit/words",

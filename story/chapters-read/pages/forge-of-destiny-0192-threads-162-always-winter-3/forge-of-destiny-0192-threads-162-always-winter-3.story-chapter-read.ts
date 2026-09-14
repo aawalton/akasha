@@ -5,7 +5,7 @@ export const forgeOfDestiny0192Threads162AlwaysWinter3 = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0192-threads-162-always-winter-3",
   title: "Threads 162 Always Winter 3",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 192,
   ownLength: 1907,
   unit: "unit/words",

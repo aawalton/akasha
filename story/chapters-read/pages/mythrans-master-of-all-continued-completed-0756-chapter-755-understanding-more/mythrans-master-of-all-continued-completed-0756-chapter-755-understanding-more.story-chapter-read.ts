@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0756Chapter755UnderstandingMor
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0756-chapter-755-understanding-more",
   title: "Chapter 755 - Understanding More",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 756,
   ownLength: 3029,
   unit: "unit/words",

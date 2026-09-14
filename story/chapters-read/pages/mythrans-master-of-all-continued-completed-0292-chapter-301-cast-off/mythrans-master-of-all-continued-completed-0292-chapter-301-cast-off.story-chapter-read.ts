@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0292Chapter301CastOff = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0292-chapter-301-cast-off",
   title: "Chapter 301 - Cast Off",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 292,
   ownLength: 3355,
   unit: "unit/words",

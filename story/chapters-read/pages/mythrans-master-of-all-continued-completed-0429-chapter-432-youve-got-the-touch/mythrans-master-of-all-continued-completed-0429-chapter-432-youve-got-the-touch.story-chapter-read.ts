@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0429Chapter432YouveGotTheTouch
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0429-chapter-432-youve-got-the-touch",
   title: "Chapter 432 - You've Got The Touch",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 429,
   ownLength: 3909,
   unit: "unit/words",

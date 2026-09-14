@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0074ChapterSeventyThreeTheThirdCircle
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0074-chapter-seventy-three-the-third-circle",
   title: "Chapter Seventy-Three: The Third Circle",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 74,
   ownLength: 2460,
   unit: "unit/words",

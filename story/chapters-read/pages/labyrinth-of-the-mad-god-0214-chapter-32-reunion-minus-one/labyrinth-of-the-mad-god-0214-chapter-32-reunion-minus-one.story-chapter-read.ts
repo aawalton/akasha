@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0214Chapter32ReunionMinusOne = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0214-chapter-32-reunion-minus-one",
   title: "Chapter 32: Reunion Minus One",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 214,
   ownLength: 2132,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0067Chapter83ANewMount = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0067-chapter-83-a-new-mount",
   title: "Chapter 83 - A New Mount",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 67,
   ownLength: 5682,
   unit: "unit/words",

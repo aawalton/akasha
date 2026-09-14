@@ -5,7 +5,7 @@ export const gamerGirlEvolution001111TheOpportunityOfALifetime = {
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0011-11-the-opportunity-of-a-lifetime",
   title: "11 - The Opportunity of a Lifetime",
-  story: "gamer-girl-evolution",
+  story: "story-read/gamer-girl-evolution",
   position: 11,
   ownLength: 1789,
   ownProgress: 1789,

@@ -5,7 +5,7 @@ export const forgeOfDestiny0002Smelting2 = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0002-smelting-2",
   title: "Smelting 2",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 2,
   ownLength: 3483,
   unit: "unit/words",

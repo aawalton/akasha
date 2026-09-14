@@ -5,7 +5,7 @@ export const forgeOfDestiny0006BonusTheMinistryOfIntegrity = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0006-bonus-the-ministry-of-integrity",
   title: "Bonus: The Ministry of Integrity",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 6,
   ownLength: 1520,
   unit: "unit/words",

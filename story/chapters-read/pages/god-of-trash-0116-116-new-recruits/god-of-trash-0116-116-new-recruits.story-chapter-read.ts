@@ -5,7 +5,7 @@ export const godOfTrash0116116NewRecruits = {
   type: "story-chapter-read",
   slug: "god-of-trash-0116-116-new-recruits",
   title: "116. New Recruits",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 116,
   ownLength: 2111,
   unit: "unit/words",

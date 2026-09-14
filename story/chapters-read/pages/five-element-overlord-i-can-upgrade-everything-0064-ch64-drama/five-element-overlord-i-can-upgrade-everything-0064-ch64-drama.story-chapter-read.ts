@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0064Ch64Drama = {
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0064-ch64-drama",
   title: "Ch64 Drama",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 64,
   ownLength: 1281,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0112Chapter71DinnerSurprise = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0112-chapter-71-dinner-surprise",
   title: "Chapter 71: Dinner Surprise",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 112,
   ownLength: 2691,
   unit: "unit/words",

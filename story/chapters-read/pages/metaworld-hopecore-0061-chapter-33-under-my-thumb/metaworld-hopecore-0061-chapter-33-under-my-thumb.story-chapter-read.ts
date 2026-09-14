@@ -5,7 +5,7 @@ export const metaworldHopecore0061Chapter33UnderMyThumb = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0061-chapter-33-under-my-thumb",
   title: "Chapter 33 — Under My Thumb",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 61,
   ownLength: 2795,
   unit: "unit/words",

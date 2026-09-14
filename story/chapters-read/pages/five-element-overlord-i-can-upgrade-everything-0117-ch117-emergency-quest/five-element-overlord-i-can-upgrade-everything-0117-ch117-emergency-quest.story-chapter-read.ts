@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0117Ch117EmergencyQuest = {
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0117-ch117-emergency-quest",
   title: "Ch117 Emergency Quest",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 117,
   ownLength: 1978,
   unit: "unit/words",

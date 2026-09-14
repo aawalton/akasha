@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0111ChapterOneHundredEightAlliesAndFo
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0111-chapter-one-hundred-eight-allies-and-foes",
   title: "Chapter One Hundred Eight: Allies and Foes",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 111,
   ownLength: 2405,
   unit: "unit/words",

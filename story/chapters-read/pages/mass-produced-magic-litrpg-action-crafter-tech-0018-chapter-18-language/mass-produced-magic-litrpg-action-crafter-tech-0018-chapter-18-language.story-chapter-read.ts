@@ -5,7 +5,7 @@ export const massProducedMagicLitrpgActionCrafterTech0018Chapter18Language = {
   type: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0018-chapter-18-language",
   title: "Chapter 18 – Language",
-  story: "mass-produced-magic-litrpg-action-crafter-tech",
+  story: "story-read/mass-produced-magic-litrpg-action-crafter-tech",
   position: 18,
   ownLength: 2058,
   unit: "unit/words",

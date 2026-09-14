@@ -5,7 +5,7 @@ export const godOfTrash008484WeveGotToStopMeetingLikeThis = {
   type: "story-chapter-read",
   slug: "god-of-trash-0084-84-weve-got-to-stop-meeting-like-this",
   title: "84. We've Got to Stop Meeting Like This",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 84,
   ownLength: 2375,
   unit: "unit/words",

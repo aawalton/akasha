@@ -5,7 +5,7 @@ export const godOfTrash0295295NoPressure = {
   type: "story-chapter-read",
   slug: "god-of-trash-0295-295-no-pressure",
   title: "295. No Pressure",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 295,
   ownLength: 2352,
   unit: "unit/words",

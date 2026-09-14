@@ -5,7 +5,7 @@ export const metaworldHopecore0030Chapter16LeadBelly = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0030-chapter-16-lead-belly",
   title: "CHAPTER 16 - Lead Belly",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 30,
   ownLength: 2116,
   unit: "unit/words",

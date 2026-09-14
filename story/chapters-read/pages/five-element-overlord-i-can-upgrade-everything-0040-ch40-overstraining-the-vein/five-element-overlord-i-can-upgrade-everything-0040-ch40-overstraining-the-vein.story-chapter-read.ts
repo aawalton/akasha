@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0040Ch40OverstrainingTheVei
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0040-ch40-overstraining-the-vein",
   title: "Ch40 Overstraining the Vein",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 40,
   ownLength: 1318,
   unit: "unit/words",

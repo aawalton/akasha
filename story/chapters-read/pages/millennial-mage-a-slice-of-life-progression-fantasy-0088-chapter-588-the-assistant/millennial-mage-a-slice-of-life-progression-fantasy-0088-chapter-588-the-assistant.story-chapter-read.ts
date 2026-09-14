@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0088Chapter588TheAssist
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0088-chapter-588-the-assistant",
   title: "Chapter: 588 - The Assistant",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 88,
   ownLength: 2552,
   ownProgress: 2552,

@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0094Chapter593ClarityOf
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0094-chapter-593-clarity-of-thought",
   title: "Chapter: 593 - Clarity of Thought",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 94,
   ownLength: 3041,
   ownProgress: 3041,

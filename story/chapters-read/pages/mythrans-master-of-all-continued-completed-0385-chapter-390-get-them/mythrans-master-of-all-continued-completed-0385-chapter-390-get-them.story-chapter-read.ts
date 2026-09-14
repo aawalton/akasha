@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0385Chapter390GetThem = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0385-chapter-390-get-them",
   title: "Chapter 390 - Get Them!",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 385,
   ownLength: 3143,
   unit: "unit/words",

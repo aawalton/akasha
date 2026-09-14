@@ -5,7 +5,7 @@ export const justAddMana0161Book3Blooper = {
   type: "story-chapter-read",
   slug: "just-add-mana-0161-book-3-blooper",
   title: "Book 3 Blooper",
-  story: "just-add-mana",
+  story: "story-read/just-add-mana",
   position: 161,
   ownLength: 711,
   unit: "unit/words",

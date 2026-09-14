@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0466Chapter466NoOneTalksAboutF
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0466-chapter-466-no-one-talks-about-fight-club",
   title: "Chapter 466 - No One Talks About Fight Club",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 466,
   ownLength: 3195,
   unit: "unit/words",

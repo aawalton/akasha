@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia0009Chapter9ThePillarOfLight = {
   type: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0009-chapter-9-the-pillar-of-light",
   title: "Chapter 9: The Pillar of Light",
-  story: "heaven-piercing-giraffe-op-mc-xianxia",
+  story: "story-read/heaven-piercing-giraffe-op-mc-xianxia",
   position: 9,
   ownLength: 1717,
   unit: "unit/words",

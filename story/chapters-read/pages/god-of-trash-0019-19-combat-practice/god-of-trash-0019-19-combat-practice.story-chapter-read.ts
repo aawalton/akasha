@@ -5,7 +5,7 @@ export const godOfTrash001919CombatPractice = {
   type: "story-chapter-read",
   slug: "god-of-trash-0019-19-combat-practice",
   title: "19. Combat Practice",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 19,
   ownLength: 2456,
   unit: "unit/words",

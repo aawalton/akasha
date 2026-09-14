@@ -5,7 +5,7 @@ export const manaDevourerLitrpgmanaCultivation004242Lexi = {
   type: "story-chapter-read",
   slug: "mana-devourer-litrpgmana-cultivation-0042-42-lexi",
   title: "42. Lexi",
-  story: "mana-devourer-litrpgmana-cultivation",
+  story: "story-read/mana-devourer-litrpgmana-cultivation",
   position: 42,
   ownLength: 3671,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed000879IBattle = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0008-79-i-battle",
   title: "79 (I) Battle",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 8,
   ownLength: 0,
   unit: "unit/words",

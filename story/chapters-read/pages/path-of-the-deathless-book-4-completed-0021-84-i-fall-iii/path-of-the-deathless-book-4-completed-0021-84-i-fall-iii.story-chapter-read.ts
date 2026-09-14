@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed002184IFallIii = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0021-84-i-fall-iii",
   title: "84 (I) Fall [III] ",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 21,
   ownLength: 0,
   unit: "unit/words",

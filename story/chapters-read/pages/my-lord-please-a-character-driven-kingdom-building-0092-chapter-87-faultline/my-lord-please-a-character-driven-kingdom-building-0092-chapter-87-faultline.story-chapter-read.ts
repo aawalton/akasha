@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0092Chapter87Faultline =
   type: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0092-chapter-87-faultline",
   title: "Chapter 87 Faultline",
-  story: "my-lord-please-a-character-driven-kingdom-building",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   position: 92,
   ownLength: 2214,
   unit: "unit/words",

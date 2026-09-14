@@ -5,7 +5,7 @@ export const godOfTrash0225225BelieveItOrNot = {
   type: "story-chapter-read",
   slug: "god-of-trash-0225-225-believe-it-or-not",
   title: "225. Believe It or Not",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 225,
   ownLength: 1879,
   unit: "unit/words",

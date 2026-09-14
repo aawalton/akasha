@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0102Ch102UnorthodoxCure = {
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0102-ch102-unorthodox-cure",
   title: "Ch102 Unorthodox Cure",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 102,
   ownLength: 2108,
   unit: "unit/words",

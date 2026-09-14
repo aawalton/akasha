@@ -5,7 +5,7 @@ export const hellHorizonHealer0009Chapter9NowhereToRun = {
   type: "story-chapter-read",
   slug: "hell-horizon-healer-0009-chapter-9-nowhere-to-run",
   title: "Chapter 9 - Nowhere to Run",
-  story: "hell-horizon-healer",
+  story: "story-read/hell-horizon-healer",
   position: 9,
   ownLength: 1609,
   unit: "unit/words",

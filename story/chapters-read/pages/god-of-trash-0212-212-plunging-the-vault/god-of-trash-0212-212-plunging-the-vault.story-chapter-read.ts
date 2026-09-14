@@ -5,7 +5,7 @@ export const godOfTrash0212212PlungingTheVault = {
   type: "story-chapter-read",
   slug: "god-of-trash-0212-212-plunging-the-vault",
   title: "212. Plunging the Vault",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 212,
   ownLength: 2946,
   unit: "unit/words",

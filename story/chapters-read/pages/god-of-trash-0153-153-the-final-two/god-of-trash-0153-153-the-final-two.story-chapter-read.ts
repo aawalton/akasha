@@ -5,7 +5,7 @@ export const godOfTrash0153153TheFinalTwo = {
   type: "story-chapter-read",
   slug: "god-of-trash-0153-153-the-final-two",
   title: "153. The Final Two",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 153,
   ownLength: 1896,
   unit: "unit/words",

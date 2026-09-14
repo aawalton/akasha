@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0121Chapter619Dangers =
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0121-chapter-619-dangers",
   title: "Chapter: 619 - Dangers",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 121,
   ownLength: 2932,
   ownProgress: 2932,

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0228Chapter45GoingIn = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0228-chapter-45-going-in",
   title: "Chapter 45: Going In",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 228,
   ownLength: 2291,
   unit: "unit/words",

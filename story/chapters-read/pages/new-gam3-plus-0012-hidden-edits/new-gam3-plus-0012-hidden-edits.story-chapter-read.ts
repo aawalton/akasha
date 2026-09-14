@@ -5,7 +5,7 @@ export const newGam3Plus0012HiddenEdits = {
   type: "story-chapter-read",
   slug: "new-gam3-plus-0012-hidden-edits",
   title: "HIdden Edits",
-  story: "new-gam3-plus",
+  story: "story-read/new-gam3-plus",
   position: 12,
   ownLength: 2782,
   unit: "unit/words",

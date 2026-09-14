@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0306Chapter25TheSecondConduit = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0306-chapter-25-the-second-conduit",
   title: "Chapter 25: The Second Conduit",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 306,
   ownLength: 2301,
   unit: "unit/words",

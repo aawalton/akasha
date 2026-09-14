@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0030Ch30RedPineMarket = {
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0030-ch30-red-pine-market",
   title: "Ch30 Red Pine Market",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 30,
   ownLength: 2098,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0012Chapter28OpportunityKnocks
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0012-chapter-28-opportunity-knocks",
   title: "Chapter 28 - Opportunity Knocks",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 12,
   ownLength: 2623,
   unit: "unit/words",

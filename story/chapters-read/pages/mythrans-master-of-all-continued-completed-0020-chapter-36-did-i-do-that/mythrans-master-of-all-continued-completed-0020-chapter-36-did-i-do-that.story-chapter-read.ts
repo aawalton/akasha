@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0020Chapter36DidIDoThat = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0020-chapter-36-did-i-do-that",
   title: "Chapter 36 - Did I Do That?",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 20,
   ownLength: 3173,
   unit: "unit/words",

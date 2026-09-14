@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0225Chapter42BladeVersusWurm = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0225-chapter-42-blade-versus-wurm",
   title: "Chapter 42: Blade Versus Wurm",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 225,
   ownLength: 2545,
   unit: "unit/words",

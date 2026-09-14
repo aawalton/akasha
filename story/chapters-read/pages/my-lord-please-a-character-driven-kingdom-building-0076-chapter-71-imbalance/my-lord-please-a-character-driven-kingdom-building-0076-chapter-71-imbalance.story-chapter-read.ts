@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0076Chapter71Imbalance =
   type: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0076-chapter-71-imbalance",
   title: "Chapter 71 Imbalance",
-  story: "my-lord-please-a-character-driven-kingdom-building",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   position: 76,
   ownLength: 2239,
   unit: "unit/words",

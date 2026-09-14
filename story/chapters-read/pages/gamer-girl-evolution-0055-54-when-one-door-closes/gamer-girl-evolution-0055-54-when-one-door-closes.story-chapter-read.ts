@@ -5,7 +5,7 @@ export const gamerGirlEvolution005554WhenOneDoorCloses = {
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0055-54-when-one-door-closes",
   title: "54 - When One Door Closes...",
-  story: "gamer-girl-evolution",
+  story: "story-read/gamer-girl-evolution",
   position: 55,
   ownLength: 1584,
   unit: "unit/words",

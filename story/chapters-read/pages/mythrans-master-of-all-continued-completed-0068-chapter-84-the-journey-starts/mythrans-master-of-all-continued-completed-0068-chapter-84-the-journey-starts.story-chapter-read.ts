@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0068Chapter84TheJourneyStarts 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0068-chapter-84-the-journey-starts",
   title: "Chapter 84 - The Journey Starts",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 68,
   ownLength: 5027,
   unit: "unit/words",

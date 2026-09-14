@@ -5,7 +5,7 @@ export const metaworldHopecore0063Chapter34BridgeOverTroubledWater2 = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0063-chapter-34-bridge-over-troubled-water-2",
   title: "Chapter 34 - Bridge Over Troubled Water (2) ",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 63,
   ownLength: 2282,
   unit: "unit/words",

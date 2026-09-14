@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0167Chapter126OneLastSurprise = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0167-chapter-126-one-last-surprise",
   title: "Chapter 126: One Last Surprise",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 167,
   ownLength: 2647,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0002ChapterTwoWelcomeToTheSystem = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0002-chapter-two-welcome-to-the-system",
   title: "Chapter Two: Welcome to the System",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 2,
   ownLength: 1614,
   unit: "unit/words",

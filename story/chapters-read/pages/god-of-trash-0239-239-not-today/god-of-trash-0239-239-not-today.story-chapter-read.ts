@@ -5,7 +5,7 @@ export const godOfTrash0239239NotToday = {
   type: "story-chapter-read",
   slug: "god-of-trash-0239-239-not-today",
   title: "239. Not Today",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 239,
   ownLength: 2059,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0569Chapter569WantsAndNeeds = 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0569-chapter-569-wants-and-needs",
   title: "Chapter 569 - Wants And Needs",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 569,
   ownLength: 2530,
   unit: "unit/words",

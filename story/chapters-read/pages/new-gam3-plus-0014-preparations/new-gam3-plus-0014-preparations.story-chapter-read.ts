@@ -5,7 +5,7 @@ export const newGam3Plus0014Preparations = {
   type: "story-chapter-read",
   slug: "new-gam3-plus-0014-preparations",
   title: "Preparations",
-  story: "new-gam3-plus",
+  story: "story-read/new-gam3-plus",
   position: 14,
   ownLength: 2296,
   unit: "unit/words",

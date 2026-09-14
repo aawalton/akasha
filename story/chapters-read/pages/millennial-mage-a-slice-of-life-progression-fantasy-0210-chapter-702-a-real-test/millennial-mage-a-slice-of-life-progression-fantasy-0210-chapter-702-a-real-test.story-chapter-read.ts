@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0210Chapter702ARealTest
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0210-chapter-702-a-real-test",
   title: "Chapter: 702 - A Real Test",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 210,
   ownLength: 2769,
   unit: "unit/words",

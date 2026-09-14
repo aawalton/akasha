@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0207Chapter699AnchorsFo
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0207-chapter-699-anchors-for-opulence",
   title: "Chapter: 699 - Anchors for Opulence",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 207,
   ownLength: 2989,
   unit: "unit/words",

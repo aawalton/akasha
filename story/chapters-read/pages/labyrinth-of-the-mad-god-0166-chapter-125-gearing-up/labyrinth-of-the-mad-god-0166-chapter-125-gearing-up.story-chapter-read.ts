@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0166Chapter125GearingUp = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0166-chapter-125-gearing-up",
   title: "Chapter 125: Gearing Up",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 166,
   ownLength: 2316,
   unit: "unit/words",

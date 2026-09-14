@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0002Chapter18WhatHappened = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0002-chapter-18-what-happened",
   title: "Chapter 18 - What Happened?",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 2,
   ownLength: 2034,
   unit: "unit/words",

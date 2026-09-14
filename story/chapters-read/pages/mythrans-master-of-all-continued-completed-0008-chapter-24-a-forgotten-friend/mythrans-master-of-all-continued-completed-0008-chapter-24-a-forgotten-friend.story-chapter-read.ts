@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0008Chapter24AForgottenFriend 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0008-chapter-24-a-forgotten-friend",
   title: "Chapter 24 - A Forgotten Friend",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 8,
   ownLength: 3003,
   unit: "unit/words",

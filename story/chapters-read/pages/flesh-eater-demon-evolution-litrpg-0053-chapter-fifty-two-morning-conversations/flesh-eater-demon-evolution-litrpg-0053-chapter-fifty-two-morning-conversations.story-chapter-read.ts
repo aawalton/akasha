@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0053ChapterFiftyTwoMorningConversatio
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0053-chapter-fifty-two-morning-conversations",
   title: "Chapter Fifty-Two: Morning Conversations",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 53,
   ownLength: 2641,
   unit: "unit/words",

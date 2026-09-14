@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0098Chapter596InsightsG
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0098-chapter-596-insights-gained",
   title: "Chapter: 596 - Insights Gained",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 98,
   ownLength: 2631,
   ownProgress: 2631,

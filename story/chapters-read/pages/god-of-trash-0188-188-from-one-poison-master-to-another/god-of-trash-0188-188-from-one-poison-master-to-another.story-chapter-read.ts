@@ -5,7 +5,7 @@ export const godOfTrash0188188FromOnePoisonMasterToAnother = {
   type: "story-chapter-read",
   slug: "god-of-trash-0188-188-from-one-poison-master-to-another",
   title: "188. From One Poison Master to Another",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 188,
   ownLength: 2107,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0235Chapter52AdvancementInTheMagicalArts = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0235-chapter-52-advancement-in-the-magical-arts",
   title: "Chapter 52: Advancement in the Magical Arts",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 235,
   ownLength: 1887,
   unit: "unit/words",

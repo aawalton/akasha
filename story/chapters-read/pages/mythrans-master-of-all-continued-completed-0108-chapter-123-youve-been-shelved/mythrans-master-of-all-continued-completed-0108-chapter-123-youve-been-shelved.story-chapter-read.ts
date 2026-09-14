@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0108Chapter123YouveBeenShelved
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0108-chapter-123-youve-been-shelved",
   title: "Chapter 123 - You've Been Shelved",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 108,
   ownLength: 4959,
   unit: "unit/words",

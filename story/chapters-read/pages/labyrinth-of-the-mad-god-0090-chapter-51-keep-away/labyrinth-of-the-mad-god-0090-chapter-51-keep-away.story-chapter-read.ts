@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0090Chapter51KeepAway = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0090-chapter-51-keep-away",
   title: "Chapter 51: Keep Away",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 90,
   ownLength: 1527,
   unit: "unit/words",

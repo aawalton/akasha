@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0463Chapter463AllInADaysWork =
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0463-chapter-463-all-in-a-days-work",
   title: "Chapter 463 - All In A Day's Work",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 463,
   ownLength: 3247,
   unit: "unit/words",

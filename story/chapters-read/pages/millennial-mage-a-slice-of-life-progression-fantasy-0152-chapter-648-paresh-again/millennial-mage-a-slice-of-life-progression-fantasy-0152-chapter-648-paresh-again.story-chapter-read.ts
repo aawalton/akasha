@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0152Chapter648PareshAga
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0152-chapter-648-paresh-again",
   title: "Chapter: 648 - Paresh Again",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 152,
   ownLength: 3303,
   ownProgress: 3303,

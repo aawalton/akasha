@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0012Chapter11Alignment =
   type: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0012-chapter-11-alignment",
   title: "Chapter 11 Alignment",
-  story: "my-lord-please-a-character-driven-kingdom-building",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   position: 12,
   ownLength: 1977,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const massProducedMagicLitrpgActionCrafterTech0045Chapter45RebelCampPt2 =
   type: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0045-chapter-45-rebel-camp-pt-2",
   title: "Chapter 45 – Rebel Camp – Pt 2",
-  story: "mass-produced-magic-litrpg-action-crafter-tech",
+  story: "story-read/mass-produced-magic-litrpg-action-crafter-tech",
   position: 45,
   ownLength: 1996,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const hellHorizonHealer0013Chapter13Training = {
   type: "story-chapter-read",
   slug: "hell-horizon-healer-0013-chapter-13-training",
   title: "Chapter 13 - Training",
-  story: "hell-horizon-healer",
+  story: "story-read/hell-horizon-healer",
   position: 13,
   ownLength: 2121,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0050Ch50TheWorldOutside = {
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0050-ch50-the-world-outside",
   title: "Ch50 The World Outside",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 50,
   ownLength: 1170,
   unit: "unit/words",

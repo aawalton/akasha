@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0662Chapter661TrainingTheWorke
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0662-chapter-661-training-the-workers",
   title: "Chapter 661 - Training The Workers",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 662,
   ownLength: 2984,
   unit: "unit/words",

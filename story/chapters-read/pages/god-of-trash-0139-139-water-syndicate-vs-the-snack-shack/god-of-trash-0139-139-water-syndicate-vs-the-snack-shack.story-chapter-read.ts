@@ -5,7 +5,7 @@ export const godOfTrash0139139WaterSyndicateVsTheSnackShack = {
   type: "story-chapter-read",
   slug: "god-of-trash-0139-139-water-syndicate-vs-the-snack-shack",
   title: "139. Water Syndicate vs the Snack Shack",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 139,
   ownLength: 2332,
   unit: "unit/words",

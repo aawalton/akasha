@@ -5,7 +5,7 @@ export const massProducedMagicLitrpgActionCrafterTech0035Chapter35CityTensionsPt
   type: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0035-chapter-35-city-tensions-pt-2",
   title: "Chapter 35 – City Tensions – Pt 2",
-  story: "mass-produced-magic-litrpg-action-crafter-tech",
+  story: "story-read/mass-produced-magic-litrpg-action-crafter-tech",
   position: 35,
   ownLength: 1963,
   unit: "unit/words",

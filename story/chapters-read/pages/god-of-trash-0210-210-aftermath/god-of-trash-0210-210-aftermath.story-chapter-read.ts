@@ -5,7 +5,7 @@ export const godOfTrash0210210Aftermath = {
   type: "story-chapter-read",
   slug: "god-of-trash-0210-210-aftermath",
   title: "210. Aftermath",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 210,
   ownLength: 2009,
   unit: "unit/words",

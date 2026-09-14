@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0179Chapter138TheFateOfEarth = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0179-chapter-138-the-fate-of-earth",
   title: "Chapter 138: The Fate of Earth",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 179,
   ownLength: 2708,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0259Chapter77RapidGrowth = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0259-chapter-77-rapid-growth",
   title: "Chapter 77: Rapid Growth",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 259,
   ownLength: 2664,
   unit: "unit/words",

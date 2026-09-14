@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0052Chapter553TalkingAb
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0052-chapter-553-talking-about-solid-concepts",
   title: "Chapter: 553 - Talking about Solid Concepts",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 52,
   ownLength: 2876,
   ownProgress: 2876,

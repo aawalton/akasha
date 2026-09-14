@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0206Chapter218OhForLootsSake =
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0206-chapter-218-oh-for-loots-sake",
   title: "Chapter 218 - Oh, For Loot's Sake!",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 206,
   ownLength: 5968,
   unit: "unit/words",

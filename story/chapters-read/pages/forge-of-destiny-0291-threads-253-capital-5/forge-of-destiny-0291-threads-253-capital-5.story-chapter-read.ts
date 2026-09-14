@@ -5,7 +5,7 @@ export const forgeOfDestiny0291Threads253Capital5 = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0291-threads-253-capital-5",
   title: "Threads 253-Capital 5",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 291,
   ownLength: 2293,
   unit: "unit/words",

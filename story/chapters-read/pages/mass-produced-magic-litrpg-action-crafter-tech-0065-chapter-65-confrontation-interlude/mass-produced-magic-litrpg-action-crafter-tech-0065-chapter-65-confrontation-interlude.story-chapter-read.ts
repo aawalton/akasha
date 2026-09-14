@@ -5,7 +5,7 @@ export const massProducedMagicLitrpgActionCrafterTech0065Chapter65ConfrontationI
   type: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0065-chapter-65-confrontation-interlude",
   title: "Chapter 65 – Confrontation – Interlude",
-  story: "mass-produced-magic-litrpg-action-crafter-tech",
+  story: "story-read/mass-produced-magic-litrpg-action-crafter-tech",
   position: 65,
   ownLength: 1620,
   unit: "unit/words",

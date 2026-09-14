@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0007Chapter41ToTheEndin
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0007-chapter-41-to-the-ending-grove",
   title: "Chapter: 41 - To the Ending Grove",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 7,
   ownLength: 4192,
   ownProgress: 4192,

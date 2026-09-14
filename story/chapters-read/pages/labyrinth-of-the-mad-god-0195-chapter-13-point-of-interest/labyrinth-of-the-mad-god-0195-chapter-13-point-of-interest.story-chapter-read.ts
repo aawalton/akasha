@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0195Chapter13PointOfInterest = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0195-chapter-13-point-of-interest",
   title: "Chapter 13: Point of Interest",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 195,
   ownLength: 2014,
   unit: "unit/words",

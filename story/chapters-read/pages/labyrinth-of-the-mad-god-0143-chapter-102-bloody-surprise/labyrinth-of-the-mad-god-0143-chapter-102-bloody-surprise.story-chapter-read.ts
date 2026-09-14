@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0143Chapter102BloodySurprise = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0143-chapter-102-bloody-surprise",
   title: "Chapter 102: Bloody Surprise",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 143,
   ownLength: 1862,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0041ChapterFortyQualificationExam = {
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0041-chapter-forty-qualification-exam",
   title: "Chapter Forty: Qualification Exam",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 41,
   ownLength: 3395,
   unit: "unit/words",

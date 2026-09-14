@@ -5,7 +5,7 @@ export const metaworldHopecore0166Chapter96WayfaringStranger = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0166-chapter-96-wayfaring-stranger",
   title: "CHAPTER 96 - Wayfaring Stranger",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 166,
   ownLength: 3591,
   unit: "unit/words",

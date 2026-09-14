@@ -5,7 +5,7 @@ export const gamerGirlEvolution005756TheDoorWhichShouldNotHaveOpened = {
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0057-56-the-door-which-should-not-have-opened",
   title: "56 - The Door Which Should Not Have Opened ",
-  story: "gamer-girl-evolution",
+  story: "story-read/gamer-girl-evolution",
   position: 57,
   ownLength: 1879,
   unit: "unit/words",

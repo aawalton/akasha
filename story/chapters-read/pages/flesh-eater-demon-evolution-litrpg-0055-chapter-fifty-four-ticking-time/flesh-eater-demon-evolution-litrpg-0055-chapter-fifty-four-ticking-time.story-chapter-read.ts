@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0055ChapterFiftyFourTickingTime = {
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0055-chapter-fifty-four-ticking-time",
   title: "Chapter Fifty-Four: Ticking Time",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 55,
   ownLength: 2476,
   unit: "unit/words",

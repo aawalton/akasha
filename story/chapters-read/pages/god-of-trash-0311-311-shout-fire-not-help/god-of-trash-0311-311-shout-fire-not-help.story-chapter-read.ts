@@ -5,7 +5,7 @@ export const godOfTrash0311311ShoutFireNotHelp = {
   type: "story-chapter-read",
   slug: "god-of-trash-0311-311-shout-fire-not-help",
   title: "311. Shout Fire, not Help",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 311,
   ownLength: 2070,
   unit: "unit/words",

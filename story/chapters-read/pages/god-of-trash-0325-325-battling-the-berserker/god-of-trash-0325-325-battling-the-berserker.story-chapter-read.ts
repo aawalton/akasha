@@ -5,7 +5,7 @@ export const godOfTrash0325325BattlingTheBerserker = {
   type: "story-chapter-read",
   slug: "god-of-trash-0325-325-battling-the-berserker",
   title: "325. Battling the Berserker",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 325,
   ownLength: 1947,
   unit: "unit/words",

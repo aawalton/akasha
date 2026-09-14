@@ -5,7 +5,7 @@ export const justAddMana0101101Book2Chapter49TheGift = {
   type: "story-chapter-read",
   slug: "just-add-mana-0101-101-book-2-chapter-49-the-gift",
   title: "101 — Book 2, Chapter 49 — The Gift",
-  story: "just-add-mana",
+  story: "story-read/just-add-mana",
   position: 101,
   ownLength: 1910,
   ownProgress: 1910,

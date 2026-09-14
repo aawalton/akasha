@@ -5,7 +5,7 @@ export const godOfTrash006060FreshHotTrash = {
   type: "story-chapter-read",
   slug: "god-of-trash-0060-60-fresh-hot-trash",
   title: "60. Fresh Hot Trash",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 60,
   ownLength: 2647,
   unit: "unit/words",

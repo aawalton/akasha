@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0320Chapter328HangingOutWithTh
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0320-chapter-328-hanging-out-with-the-guys",
   title: "Chapter 328 - Hanging Out With The Guys",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 320,
   ownLength: 3743,
   unit: "unit/words",

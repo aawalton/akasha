@@ -5,7 +5,7 @@ export const justAddMana0031Chapter31Recovery = {
   type: "story-chapter-read",
   slug: "just-add-mana-0031-chapter-31-recovery",
   title: "Chapter 31 — Recovery",
-  story: "just-add-mana",
+  story: "story-read/just-add-mana",
   position: 31,
   ownLength: 3946,
   ownProgress: 3946,

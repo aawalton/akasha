@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0001ChapterOnePreludeToTheApocalypse = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0001-chapter-one-prelude-to-the-apocalypse",
   title: "Chapter One: Prelude to the Apocalypse",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 1,
   ownLength: 2056,
   unit: "unit/words",

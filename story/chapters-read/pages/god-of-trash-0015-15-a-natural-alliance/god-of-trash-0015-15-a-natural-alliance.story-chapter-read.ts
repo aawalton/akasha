@@ -5,7 +5,7 @@ export const godOfTrash001515ANaturalAlliance = {
   type: "story-chapter-read",
   slug: "god-of-trash-0015-15-a-natural-alliance",
   title: "15. A Natural Alliance",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 15,
   ownLength: 2760,
   unit: "unit/words",

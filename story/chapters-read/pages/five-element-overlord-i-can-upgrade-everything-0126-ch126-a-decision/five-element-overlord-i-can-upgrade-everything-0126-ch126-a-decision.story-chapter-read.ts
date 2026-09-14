@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0126Ch126ADecision = {
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0126-ch126-a-decision",
   title: "Ch126 A Decision",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 126,
   ownLength: 1656,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const forgeOfDestiny0233Threads201Festival2 = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0233-threads-201-festival-2",
   title: "Threads 201 Festival 2",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 233,
   ownLength: 1948,
   unit: "unit/words",

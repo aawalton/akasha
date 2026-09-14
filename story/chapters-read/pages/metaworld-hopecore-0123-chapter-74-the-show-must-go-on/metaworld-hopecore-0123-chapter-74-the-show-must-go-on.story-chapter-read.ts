@@ -5,7 +5,7 @@ export const metaworldHopecore0123Chapter74TheShowMustGoOn = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0123-chapter-74-the-show-must-go-on",
   title: "CHAPTER 74 - The Show Must Go On",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 123,
   ownLength: 2478,
   unit: "unit/words",

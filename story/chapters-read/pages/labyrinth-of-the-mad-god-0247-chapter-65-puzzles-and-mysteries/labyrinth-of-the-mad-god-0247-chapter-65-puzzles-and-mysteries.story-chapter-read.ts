@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0247Chapter65PuzzlesAndMysteries = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0247-chapter-65-puzzles-and-mysteries",
   title: "Chapter 65: Puzzles and Mysteries",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 247,
   ownLength: 2053,
   unit: "unit/words",

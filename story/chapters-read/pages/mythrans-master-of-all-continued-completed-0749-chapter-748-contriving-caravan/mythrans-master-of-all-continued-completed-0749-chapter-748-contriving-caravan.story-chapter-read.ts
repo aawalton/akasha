@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0749Chapter748ContrivingCarava
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0749-chapter-748-contriving-caravan",
   title: "Chapter 748 - Contriving Caravan",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 749,
   ownLength: 2861,
   unit: "unit/words",

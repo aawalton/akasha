@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0075Chapter91TheDate = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0075-chapter-91-the-date",
   title: "Chapter 91 - The Date",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 75,
   ownLength: 3305,
   unit: "unit/words",

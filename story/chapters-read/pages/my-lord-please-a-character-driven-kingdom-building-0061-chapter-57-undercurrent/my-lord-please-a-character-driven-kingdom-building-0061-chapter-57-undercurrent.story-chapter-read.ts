@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0061Chapter57Undercurren
   type: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0061-chapter-57-undercurrent",
   title: "Chapter 57 Undercurrent",
-  story: "my-lord-please-a-character-driven-kingdom-building",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   position: 61,
   ownLength: 2121,
   unit: "unit/words",

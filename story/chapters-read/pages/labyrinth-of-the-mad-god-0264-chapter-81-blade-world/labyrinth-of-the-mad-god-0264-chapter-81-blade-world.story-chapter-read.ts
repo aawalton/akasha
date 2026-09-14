@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0264Chapter81BladeWorld = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0264-chapter-81-blade-world",
   title: "Chapter 81: Blade World",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 264,
   ownLength: 2045,
   unit: "unit/words",

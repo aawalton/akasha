@@ -5,7 +5,7 @@ export const metaworldHopecore0135Chapter80TheHeartOfTheMatter = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0135-chapter-80-the-heart-of-the-matter",
   title: "CHAPTER 80 - The Heart of the Matter",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 135,
   ownLength: 2838,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const godOfTrash0136136NoCursesOnlyDealers = {
   type: "story-chapter-read",
   slug: "god-of-trash-0136-136-no-curses-only-dealers",
   title: "136. No Curses Only Dealers",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 136,
   ownLength: 2472,
   unit: "unit/words",

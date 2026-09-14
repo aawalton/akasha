@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0602Chapter602FatedMeeting = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0602-chapter-602-fated-meeting",
   title: "Chapter 602 - Fated Meeting",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 602,
   ownLength: 2887,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0063Chapter59Positioning
   type: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0063-chapter-59-positioning",
   title: "Chapter 59 Positioning",
-  story: "my-lord-please-a-character-driven-kingdom-building",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   position: 63,
   ownLength: 1980,
   unit: "unit/words",

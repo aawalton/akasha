@@ -5,7 +5,7 @@ export const gamerGirlEvolution004141HaveYouEverSeenAWeaponLikeThis = {
   type: "story-chapter-read",
   slug: "gamer-girl-evolution-0041-41-have-you-ever-seen-a-weapon-like-this",
   title: "41 - Have You Ever Seen A Weapon Like This?",
-  story: "gamer-girl-evolution",
+  story: "story-read/gamer-girl-evolution",
   position: 41,
   ownLength: 1663,
   ownProgress: 1663,

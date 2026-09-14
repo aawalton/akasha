@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0700Chapter699MorningMeetingsA
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0700-chapter-699-morning-meetings-and-meanings",
   title: "Chapter 699 - Morning Meetings And Meanings",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 700,
   ownLength: 3262,
   unit: "unit/words",

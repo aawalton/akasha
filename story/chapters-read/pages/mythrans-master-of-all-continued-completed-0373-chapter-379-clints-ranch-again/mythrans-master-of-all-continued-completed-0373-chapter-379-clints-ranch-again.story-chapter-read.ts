@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0373Chapter379ClintsRanchAgain
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0373-chapter-379-clints-ranch-again",
   title: "Chapter 379 - Clint's Ranch Again",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 373,
   ownLength: 3898,
   unit: "unit/words",

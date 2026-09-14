@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0022Chapter202Blood = {
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0022-chapter-202-blood",
   title: "Chapter: 202 - Blood",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 22,
   ownLength: 5954,
   ownProgress: 5954,

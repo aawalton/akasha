@@ -5,7 +5,7 @@ export const godOfTrash0143143TheCreativeApplicationOfForce = {
   type: "story-chapter-read",
   slug: "god-of-trash-0143-143-the-creative-application-of-force",
   title: "143. The Creative Application of Force",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 143,
   ownLength: 2394,
   unit: "unit/words",

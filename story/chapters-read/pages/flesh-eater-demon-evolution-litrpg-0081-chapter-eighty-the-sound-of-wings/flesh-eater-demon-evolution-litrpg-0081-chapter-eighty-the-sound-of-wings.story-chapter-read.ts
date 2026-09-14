@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0081ChapterEightyTheSoundOfWings = {
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0081-chapter-eighty-the-sound-of-wings",
   title: "Chapter Eighty: The Sound of Wings",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 81,
   ownLength: 2279,
   unit: "unit/words",

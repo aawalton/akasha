@@ -5,7 +5,7 @@ export const librarySystemResetOverdueBookFourStubbed0008Chapter265NonethelessSt
   type: "story-chapter-read",
   slug: "library-system-reset-overdue-book-four-stubbed-0008-chapter-265-nonetheless-start-book-5",
   title: "Chapter 265: Nonetheless [Start Book 5]",
-  story: "library-system-reset-overdue-book-four-stubbed",
+  story: "story-read/library-system-reset-overdue-book-four-stubbed",
   position: 8,
   ownLength: 2207,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0227Chapter718BeforeSev
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0227-chapter-718-before-seven-thrones",
   title: "Chapter: 718 - Before Seven Thrones",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 227,
   ownLength: 3113,
   unit: "unit/words",

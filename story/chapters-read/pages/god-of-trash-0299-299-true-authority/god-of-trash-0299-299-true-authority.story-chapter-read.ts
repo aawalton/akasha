@@ -5,7 +5,7 @@ export const godOfTrash0299299TrueAuthority = {
   type: "story-chapter-read",
   slug: "god-of-trash-0299-299-true-authority",
   title: "299. True Authority",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 299,
   ownLength: 2392,
   unit: "unit/words",

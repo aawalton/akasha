@@ -5,7 +5,7 @@ export const godOfTrash0119119BackToTheBeginning = {
   type: "story-chapter-read",
   slug: "god-of-trash-0119-119-back-to-the-beginning",
   title: "119. Back to the Beginning",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 119,
   ownLength: 1900,
   unit: "unit/words",

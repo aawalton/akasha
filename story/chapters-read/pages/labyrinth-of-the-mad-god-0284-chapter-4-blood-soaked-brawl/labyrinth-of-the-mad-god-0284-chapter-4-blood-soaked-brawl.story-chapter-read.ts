@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0284Chapter4BloodSoakedBrawl = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0284-chapter-4-blood-soaked-brawl",
   title: "Chapter 4: Blood-Soaked Brawl",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 284,
   ownLength: 2608,
   unit: "unit/words",

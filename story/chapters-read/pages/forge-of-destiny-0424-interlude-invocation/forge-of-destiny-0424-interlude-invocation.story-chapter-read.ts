@@ -5,7 +5,7 @@ export const forgeOfDestiny0424InterludeInvocation = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0424-interlude-invocation",
   title: "Interlude: Invocation",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 424,
   ownLength: 1665,
   unit: "unit/words",

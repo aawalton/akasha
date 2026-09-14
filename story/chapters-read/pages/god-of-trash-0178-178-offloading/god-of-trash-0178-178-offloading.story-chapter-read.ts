@@ -5,7 +5,7 @@ export const godOfTrash0178178Offloading = {
   type: "story-chapter-read",
   slug: "god-of-trash-0178-178-offloading",
   title: "178. Offloading",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 178,
   ownLength: 1941,
   unit: "unit/words",

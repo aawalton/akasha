@@ -5,7 +5,7 @@ export const godOfTrash0166166CampingAndGlamping = {
   type: "story-chapter-read",
   slug: "god-of-trash-0166-166-camping-and-glamping",
   title: "166. Camping and Glamping",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 166,
   ownLength: 2314,
   unit: "unit/words",

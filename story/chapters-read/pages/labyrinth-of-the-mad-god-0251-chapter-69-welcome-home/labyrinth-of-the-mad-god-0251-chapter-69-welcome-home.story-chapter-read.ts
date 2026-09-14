@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0251Chapter69WelcomeHome = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0251-chapter-69-welcome-home",
   title: "Chapter 69: Welcome Home",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 251,
   ownLength: 2867,
   unit: "unit/words",

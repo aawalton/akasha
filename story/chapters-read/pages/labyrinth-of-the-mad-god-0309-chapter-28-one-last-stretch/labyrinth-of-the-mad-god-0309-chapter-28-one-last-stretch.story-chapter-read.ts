@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0309Chapter28OneLastStretch = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0309-chapter-28-one-last-stretch",
   title: "Chapter 28: One Last Stretch",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 309,
   ownLength: 1836,
   unit: "unit/words",

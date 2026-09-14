@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0076Chapter92OhBabyExplicitCon
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0076-chapter-92-oh-baby-explicit-content",
   title: "Chapter 92 - Oh, Baby! (Explicit Content)",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 76,
   ownLength: 2170,
   unit: "unit/words",

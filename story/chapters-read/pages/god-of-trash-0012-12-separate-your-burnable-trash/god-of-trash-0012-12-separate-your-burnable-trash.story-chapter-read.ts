@@ -5,7 +5,7 @@ export const godOfTrash001212SeparateYourBurnableTrash = {
   type: "story-chapter-read",
   slug: "god-of-trash-0012-12-separate-your-burnable-trash",
   title: "12. Separate Your Burnable Trash",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 12,
   ownLength: 3224,
   unit: "unit/words",

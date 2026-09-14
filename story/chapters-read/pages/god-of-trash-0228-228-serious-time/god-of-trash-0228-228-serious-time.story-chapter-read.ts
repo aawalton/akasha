@@ -5,7 +5,7 @@ export const godOfTrash0228228SeriousTime = {
   type: "story-chapter-read",
   slug: "god-of-trash-0228-228-serious-time",
   title: "228. Serious Time",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 228,
   ownLength: 1956,
   unit: "unit/words",

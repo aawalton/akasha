@@ -5,7 +5,7 @@ export const hellHorizonHealer0014Chapter14ForThoseAwake = {
   type: "story-chapter-read",
   slug: "hell-horizon-healer-0014-chapter-14-for-those-awake",
   title: "Chapter 14 - For Those Awake",
-  story: "hell-horizon-healer",
+  story: "story-read/hell-horizon-healer",
   position: 14,
   ownLength: 1808,
   unit: "unit/words",

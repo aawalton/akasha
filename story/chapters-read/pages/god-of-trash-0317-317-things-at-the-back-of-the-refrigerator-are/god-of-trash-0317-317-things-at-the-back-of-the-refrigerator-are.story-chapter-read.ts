@@ -5,7 +5,7 @@ export const godOfTrash0317317ThingsAtTheBackOfTheRefrigeratorAre = {
   type: "story-chapter-read",
   slug: "god-of-trash-0317-317-things-at-the-back-of-the-refrigerator-are",
   title: "317. Things at the Back of the Refrigerator are Already Bad",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 317,
   ownLength: 2411,
   unit: "unit/words",

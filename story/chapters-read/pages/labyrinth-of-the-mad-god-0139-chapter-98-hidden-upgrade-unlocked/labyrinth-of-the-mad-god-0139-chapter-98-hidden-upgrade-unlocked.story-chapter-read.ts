@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0139Chapter98HiddenUpgradeUnlocked = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0139-chapter-98-hidden-upgrade-unlocked",
   title: "Chapter 98: Hidden Upgrade Unlocked",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 139,
   ownLength: 1777,
   unit: "unit/words",

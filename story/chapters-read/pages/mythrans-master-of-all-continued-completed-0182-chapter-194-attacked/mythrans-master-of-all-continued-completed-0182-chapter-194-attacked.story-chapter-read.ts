@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0182Chapter194Attacked = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0182-chapter-194-attacked",
   title: "Chapter 194 - Attacked",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 182,
   ownLength: 4209,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0011Chapter10Leverage = 
   type: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0011-chapter-10-leverage",
   title: "Chapter 10 Leverage",
-  story: "my-lord-please-a-character-driven-kingdom-building",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   position: 11,
   ownLength: 2388,
   unit: "unit/words",

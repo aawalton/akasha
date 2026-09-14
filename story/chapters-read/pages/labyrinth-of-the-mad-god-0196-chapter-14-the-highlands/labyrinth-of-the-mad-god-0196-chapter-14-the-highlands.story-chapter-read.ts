@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0196Chapter14TheHighlands = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0196-chapter-14-the-highlands",
   title: "Chapter 14: The Highlands",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 196,
   ownLength: 2083,
   unit: "unit/words",

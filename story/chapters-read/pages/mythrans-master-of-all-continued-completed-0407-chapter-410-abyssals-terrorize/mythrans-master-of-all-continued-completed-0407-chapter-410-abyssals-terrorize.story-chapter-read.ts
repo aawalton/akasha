@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0407Chapter410AbyssalsTerroriz
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0407-chapter-410-abyssals-terrorize",
   title: "Chapter 410 - Abyssals, Terrorize!",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 407,
   ownLength: 3329,
   unit: "unit/words",

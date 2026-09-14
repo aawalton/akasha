@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0668Chapter667HellHathNoFuryLi
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0668-chapter-667-hell-hath-no-fury-like-a-woman-scorned",
   title: "Chapter 667 - Hell Hath No Fury Like A Woman Scorned",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 668,
   ownLength: 3281,
   unit: "unit/words",

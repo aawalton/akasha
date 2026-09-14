@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0038Chapter36Abandoned =
   type: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0038-chapter-36-abandoned",
   title: "Chapter 36 Abandoned",
-  story: "my-lord-please-a-character-driven-kingdom-building",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   position: 38,
   ownLength: 2493,
   unit: "unit/words",

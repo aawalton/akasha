@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0776Chapter773AQuickMorning = 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0776-chapter-773-a-quick-morning",
   title: "Chapter 773 - A Quick Morning",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 776,
   ownLength: 3173,
   unit: "unit/words",

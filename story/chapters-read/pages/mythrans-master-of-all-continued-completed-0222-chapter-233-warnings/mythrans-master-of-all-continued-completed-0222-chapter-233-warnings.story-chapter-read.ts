@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0222Chapter233Warnings = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0222-chapter-233-warnings",
   title: "Chapter 233 - Warnings",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 222,
   ownLength: 3174,
   unit: "unit/words",

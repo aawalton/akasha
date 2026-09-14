@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0207Chapter25FreeFromGravitysEmbrace = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0207-chapter-25-free-from-gravitys-embrace",
   title: "Chapter 25: Free from Gravity’s Embrace",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 207,
   ownLength: 1774,
   unit: "unit/words",

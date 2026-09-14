@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0216Chapter34BattlefieldTour = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0216-chapter-34-battlefield-tour",
   title: "Chapter 34: Battlefield Tour",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 216,
   ownLength: 2463,
   unit: "unit/words",

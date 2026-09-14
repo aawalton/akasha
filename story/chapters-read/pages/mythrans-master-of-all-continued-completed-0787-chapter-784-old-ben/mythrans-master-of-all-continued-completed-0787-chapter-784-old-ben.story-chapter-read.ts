@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0787Chapter784OldBen = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0787-chapter-784-old-ben",
   title: "Chapter 784 - Old Ben",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 787,
   ownLength: 3682,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0187Chapter5ChangesWithoutAndWithin = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0187-chapter-5-changes-without-and-within",
   title: "Chapter 5: Changes Without and Within",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 187,
   ownLength: 2037,
   unit: "unit/words",

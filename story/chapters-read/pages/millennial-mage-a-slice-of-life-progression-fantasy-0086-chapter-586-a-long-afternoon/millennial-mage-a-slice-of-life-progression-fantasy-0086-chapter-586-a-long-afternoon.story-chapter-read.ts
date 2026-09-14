@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0086Chapter586ALongAfte
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0086-chapter-586-a-long-afternoon",
   title: "Chapter: 586 - A Long Afternoon",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 86,
   ownLength: 2881,
   ownProgress: 2881,

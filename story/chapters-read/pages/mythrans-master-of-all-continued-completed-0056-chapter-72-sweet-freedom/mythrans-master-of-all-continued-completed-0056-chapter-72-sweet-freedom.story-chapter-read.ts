@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0056Chapter72SweetFreedom = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0056-chapter-72-sweet-freedom",
   title: "Chapter 72 - Sweet Freedom",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 56,
   ownLength: 4707,
   unit: "unit/words",

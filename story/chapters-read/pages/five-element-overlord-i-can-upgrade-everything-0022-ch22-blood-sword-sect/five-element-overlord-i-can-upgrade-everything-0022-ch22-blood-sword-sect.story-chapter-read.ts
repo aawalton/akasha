@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0022Ch22BloodSwordSect = {
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0022-ch22-blood-sword-sect",
   title: "Ch22 Blood Sword Sect",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 22,
   ownLength: 1490,
   unit: "unit/words",

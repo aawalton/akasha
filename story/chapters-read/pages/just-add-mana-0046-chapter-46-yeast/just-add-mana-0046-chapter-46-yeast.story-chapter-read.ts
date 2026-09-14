@@ -5,7 +5,7 @@ export const justAddMana0046Chapter46Yeast = {
   type: "story-chapter-read",
   slug: "just-add-mana-0046-chapter-46-yeast",
   title: "Chapter 46 — Yeast",
-  story: "just-add-mana",
+  story: "story-read/just-add-mana",
   position: 46,
   ownLength: 3368,
   ownProgress: 3368,

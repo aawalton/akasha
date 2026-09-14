@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed004192IiRadiant = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0041-92-ii-radiant",
   title: "92 (II) Radiant",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 41,
   ownLength: 0,
   unit: "unit/words",

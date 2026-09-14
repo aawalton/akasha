@@ -5,7 +5,7 @@ export const manaDevourerLitrpgmanaCultivation002020BiddingWar = {
   type: "story-chapter-read",
   slug: "mana-devourer-litrpgmana-cultivation-0020-20-bidding-war",
   title: "20. Bidding War",
-  story: "mana-devourer-litrpgmana-cultivation",
+  story: "story-read/mana-devourer-litrpgmana-cultivation",
   position: 20,
   ownLength: 2603,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0107ChapterOneHundredFourSuspicion = 
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0107-chapter-one-hundred-four-suspicion",
   title: "Chapter One Hundred Four: Suspicion",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 107,
   ownLength: 2344,
   unit: "unit/words",

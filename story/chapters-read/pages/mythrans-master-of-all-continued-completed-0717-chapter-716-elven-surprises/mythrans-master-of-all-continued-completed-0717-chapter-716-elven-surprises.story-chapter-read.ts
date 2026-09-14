@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0717Chapter716ElvenSurprises =
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0717-chapter-716-elven-surprises",
   title: "Chapter 716 - Elven Surprises",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 717,
   ownLength: 3450,
   unit: "unit/words",

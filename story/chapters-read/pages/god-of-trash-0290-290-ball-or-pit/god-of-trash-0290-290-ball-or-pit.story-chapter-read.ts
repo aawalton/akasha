@@ -5,7 +5,7 @@ export const godOfTrash0290290BallOrPit = {
   type: "story-chapter-read",
   slug: "god-of-trash-0290-290-ball-or-pit",
   title: "290. Ball or Pit",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 290,
   ownLength: 2260,
   unit: "unit/words",

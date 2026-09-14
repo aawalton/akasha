@@ -5,7 +5,7 @@ export const forgeOfDestiny0534Threads489Ceremony3 = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0534-threads-489-ceremony-3",
   title: "Threads 489 Ceremony 3",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 534,
   ownLength: 2727,
   unit: "unit/words",

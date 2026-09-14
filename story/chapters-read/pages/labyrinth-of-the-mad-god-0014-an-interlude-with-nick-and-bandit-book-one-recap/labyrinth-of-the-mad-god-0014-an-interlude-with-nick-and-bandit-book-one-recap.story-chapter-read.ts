@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0014AnInterludeWithNickAndBanditBookOneRecap = 
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0014-an-interlude-with-nick-and-bandit-book-one-recap",
   title: "An Interlude with Nick and Bandit: Book One Recap",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 14,
   ownLength: 1436,
   unit: "unit/words",

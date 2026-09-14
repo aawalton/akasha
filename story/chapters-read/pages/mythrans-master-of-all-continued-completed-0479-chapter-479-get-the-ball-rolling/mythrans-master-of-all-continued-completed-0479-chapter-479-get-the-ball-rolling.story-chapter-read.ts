@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0479Chapter479GetTheBallRollin
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0479-chapter-479-get-the-ball-rolling",
   title: "Chapter 479 - Get The Ball Rolling",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 479,
   ownLength: 3116,
   unit: "unit/words",

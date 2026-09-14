@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0109Chapter69InfernalMachine = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0109-chapter-69-infernal-machine",
   title: "Chapter 69: Infernal Machine",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 109,
   ownLength: 1441,
   unit: "unit/words",

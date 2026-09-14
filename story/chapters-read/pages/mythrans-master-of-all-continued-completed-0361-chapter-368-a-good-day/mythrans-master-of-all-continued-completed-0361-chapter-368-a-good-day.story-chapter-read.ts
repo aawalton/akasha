@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0361Chapter368AGoodDay = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0361-chapter-368-a-good-day",
   title: "Chapter 368 - A Good Day",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 361,
   ownLength: 5162,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0073107IiOpen = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0073-107-ii-open",
   title: "107 (II) Open",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 73,
   ownLength: 0,
   unit: "unit/words",

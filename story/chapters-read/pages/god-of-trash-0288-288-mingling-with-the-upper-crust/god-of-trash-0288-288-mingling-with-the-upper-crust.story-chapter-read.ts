@@ -5,7 +5,7 @@ export const godOfTrash0288288MinglingWithTheUpperCrust = {
   type: "story-chapter-read",
   slug: "god-of-trash-0288-288-mingling-with-the-upper-crust",
   title: "288. Mingling With the Upper Crust",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 288,
   ownLength: 2282,
   unit: "unit/words",

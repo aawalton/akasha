@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0712Chapter711HotUnderTheColla
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0712-chapter-711-hot-under-the-collar",
   title: "Chapter 711 - Hot Under The Collar",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 712,
   ownLength: 2946,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0124Chapter118Catalyst =
   type: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0124-chapter-118-catalyst",
   title: "Chapter 118 Catalyst",
-  story: "my-lord-please-a-character-driven-kingdom-building",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   position: 124,
   ownLength: 1938,
   unit: "unit/words",

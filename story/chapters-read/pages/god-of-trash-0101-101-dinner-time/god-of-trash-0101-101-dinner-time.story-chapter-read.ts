@@ -5,7 +5,7 @@ export const godOfTrash0101101DinnerTime = {
   type: "story-chapter-read",
   slug: "god-of-trash-0101-101-dinner-time",
   title: "101. Dinner Time",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 101,
   ownLength: 3471,
   unit: "unit/words",

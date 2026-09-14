@@ -5,7 +5,7 @@ export const godOfTrash0278278MovingForward = {
   type: "story-chapter-read",
   slug: "god-of-trash-0278-278-moving-forward",
   title: "278. Moving Forward",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 278,
   ownLength: 2071,
   unit: "unit/words",

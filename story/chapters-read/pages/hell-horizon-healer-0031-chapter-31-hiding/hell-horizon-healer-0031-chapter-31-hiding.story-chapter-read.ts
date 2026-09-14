@@ -5,7 +5,7 @@ export const hellHorizonHealer0031Chapter31Hiding = {
   type: "story-chapter-read",
   slug: "hell-horizon-healer-0031-chapter-31-hiding",
   title: "Chapter 31 - Hiding",
-  story: "hell-horizon-healer",
+  story: "story-read/hell-horizon-healer",
   position: 31,
   ownLength: 1845,
   unit: "unit/words",

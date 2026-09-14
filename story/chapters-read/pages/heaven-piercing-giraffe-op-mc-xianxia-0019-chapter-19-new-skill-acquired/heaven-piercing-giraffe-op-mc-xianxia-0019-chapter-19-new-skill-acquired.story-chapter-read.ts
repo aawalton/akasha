@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia0019Chapter19NewSkillAcquired = {
   type: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0019-chapter-19-new-skill-acquired",
   title: "Chapter 19: New Skill Acquired",
-  story: "heaven-piercing-giraffe-op-mc-xianxia",
+  story: "story-read/heaven-piercing-giraffe-op-mc-xianxia",
   position: 19,
   ownLength: 2379,
   unit: "unit/words",

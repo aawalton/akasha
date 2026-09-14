@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0025Book3Chapter0BookTwoRecap = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0025-book-3-chapter-0-book-two-recap",
   title: "Book 3 Chapter 0: Book Two Recap",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 25,
   ownLength: 1462,
   unit: "unit/words",

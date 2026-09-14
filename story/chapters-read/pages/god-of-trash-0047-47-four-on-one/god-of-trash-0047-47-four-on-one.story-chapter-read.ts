@@ -5,7 +5,7 @@ export const godOfTrash004747FourOnOne = {
   type: "story-chapter-read",
   slug: "god-of-trash-0047-47-four-on-one",
   title: "47. Four on One",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 47,
   ownLength: 3632,
   unit: "unit/words",

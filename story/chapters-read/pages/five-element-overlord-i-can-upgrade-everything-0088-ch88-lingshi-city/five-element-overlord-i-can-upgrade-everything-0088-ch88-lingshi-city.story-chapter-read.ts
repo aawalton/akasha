@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0088Ch88LingshiCity = {
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0088-ch88-lingshi-city",
   title: "Ch88 Lingshi City",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 88,
   ownLength: 1584,
   unit: "unit/words",

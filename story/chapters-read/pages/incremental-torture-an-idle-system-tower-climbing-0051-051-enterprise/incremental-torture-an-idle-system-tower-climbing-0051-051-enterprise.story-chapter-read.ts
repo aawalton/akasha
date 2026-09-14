@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0051051Enterprise = {
   type: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0051-051-enterprise",
   title: "051: Enterprise",
-  story: "incremental-torture-an-idle-system-tower-climbing",
+  story: "story-read/incremental-torture-an-idle-system-tower-climbing",
   position: 51,
   ownLength: 2135,
   unit: "unit/words",

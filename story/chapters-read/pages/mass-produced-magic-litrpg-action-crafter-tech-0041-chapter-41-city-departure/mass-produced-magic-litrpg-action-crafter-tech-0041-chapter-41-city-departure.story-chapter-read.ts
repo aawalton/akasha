@@ -5,7 +5,7 @@ export const massProducedMagicLitrpgActionCrafterTech0041Chapter41CityDeparture 
   type: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0041-chapter-41-city-departure",
   title: "Chapter 41 – City Departure",
-  story: "mass-produced-magic-litrpg-action-crafter-tech",
+  story: "story-read/mass-produced-magic-litrpg-action-crafter-tech",
   position: 41,
   ownLength: 2002,
   unit: "unit/words",

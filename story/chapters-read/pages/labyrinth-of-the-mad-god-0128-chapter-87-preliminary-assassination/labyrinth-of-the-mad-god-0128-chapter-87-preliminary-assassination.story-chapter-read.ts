@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0128Chapter87PreliminaryAssassination = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0128-chapter-87-preliminary-assassination",
   title: "Chapter 87: Preliminary Assassination",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 128,
   ownLength: 1455,
   unit: "unit/words",

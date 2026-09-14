@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0343Chapter350FightOrFlight = 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0343-chapter-350-fight-or-flight",
   title: "Chapter 350 - Fight Or Flight",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 343,
   ownLength: 5247,
   unit: "unit/words",

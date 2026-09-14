@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0025ChapterTwentyFourTheLightningPass
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0025-chapter-twenty-four-the-lightning-pass",
   title: "Chapter Twenty-Four: The Lightning Pass",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 25,
   ownLength: 2576,
   unit: "unit/words",

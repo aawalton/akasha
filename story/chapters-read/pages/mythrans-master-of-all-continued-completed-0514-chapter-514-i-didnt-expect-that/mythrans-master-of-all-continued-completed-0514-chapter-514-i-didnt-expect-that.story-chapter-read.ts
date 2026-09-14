@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0514Chapter514IDidntExpectThat
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0514-chapter-514-i-didnt-expect-that",
   title: "Chapter 514 - I Didn't Expect That",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 514,
   ownLength: 3031,
   unit: "unit/words",

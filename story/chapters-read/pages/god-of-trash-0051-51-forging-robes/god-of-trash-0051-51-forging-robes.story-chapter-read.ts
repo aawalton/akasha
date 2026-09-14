@@ -5,7 +5,7 @@ export const godOfTrash005151ForgingRobes = {
   type: "story-chapter-read",
   slug: "god-of-trash-0051-51-forging-robes",
   title: "51. Forging Robes",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 51,
   ownLength: 2210,
   unit: "unit/words",

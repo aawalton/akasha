@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0138Chapter635PassInPea
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0138-chapter-635-pass-in-peace",
   title: "Chapter: 635 - Pass in Peace",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 138,
   ownLength: 3066,
   ownProgress: 3066,

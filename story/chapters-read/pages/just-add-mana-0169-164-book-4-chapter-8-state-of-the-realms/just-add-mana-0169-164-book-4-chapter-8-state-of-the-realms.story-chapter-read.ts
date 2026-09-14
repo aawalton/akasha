@@ -5,7 +5,7 @@ export const justAddMana0169164Book4Chapter8StateOfTheRealms = {
   type: "story-chapter-read",
   slug: "just-add-mana-0169-164-book-4-chapter-8-state-of-the-realms",
   title: "164 — Book 4, Chapter 8 — State of the Realms",
-  story: "just-add-mana",
+  story: "story-read/just-add-mana",
   position: 169,
   ownLength: 3292,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0564Chapter564EnhanceYourCalm 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0564-chapter-564-enhance-your-calm",
   title: "Chapter 564 - Enhance Your Calm",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 564,
   ownLength: 2747,
   unit: "unit/words",

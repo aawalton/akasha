@@ -5,7 +5,7 @@ export const metaworldHopecore0072Chapter39TheSoundOfSilence = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0072-chapter-39-the-sound-of-silence",
   title: "Chapter 39 - The Sound of Silence",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 72,
   ownLength: 2820,
   unit: "unit/words",

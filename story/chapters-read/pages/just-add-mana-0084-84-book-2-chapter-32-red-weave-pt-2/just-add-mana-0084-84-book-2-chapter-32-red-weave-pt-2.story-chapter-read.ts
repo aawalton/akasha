@@ -5,7 +5,7 @@ export const justAddMana008484Book2Chapter32RedWeavePt2 = {
   type: "story-chapter-read",
   slug: "just-add-mana-0084-84-book-2-chapter-32-red-weave-pt-2",
   title: "84 — Book 2, Chapter 32 — Red Weave, Pt 2",
-  story: "just-add-mana",
+  story: "story-read/just-add-mana",
   position: 84,
   ownLength: 3718,
   ownProgress: 3718,

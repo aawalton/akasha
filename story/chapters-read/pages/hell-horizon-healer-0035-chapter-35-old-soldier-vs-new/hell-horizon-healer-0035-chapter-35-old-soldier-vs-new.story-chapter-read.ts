@@ -5,7 +5,7 @@ export const hellHorizonHealer0035Chapter35OldSoldierVsNew = {
   type: "story-chapter-read",
   slug: "hell-horizon-healer-0035-chapter-35-old-soldier-vs-new",
   title: "Chapter 35 - Old Soldier Vs New",
-  story: "hell-horizon-healer",
+  story: "story-read/hell-horizon-healer",
   position: 35,
   ownLength: 1672,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0101ChapterNinetyEightGlowingWaters =
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0101-chapter-ninety-eight-glowing-waters",
   title: "Chapter Ninety-Eight: Glowing Waters",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 101,
   ownLength: 2394,
   unit: "unit/words",

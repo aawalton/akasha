@@ -5,7 +5,7 @@ export const metaworldHopecore0017Chapter9BackToSchool2 = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0017-chapter-9-back-to-school-2",
   title: "Chapter 9 - Back to School (2) ",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 17,
   ownLength: 2021,
   unit: "unit/words",

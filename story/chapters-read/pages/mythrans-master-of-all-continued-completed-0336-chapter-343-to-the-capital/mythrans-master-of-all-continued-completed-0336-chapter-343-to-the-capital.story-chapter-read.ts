@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0336Chapter343ToTheCapital = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0336-chapter-343-to-the-capital",
   title: "Chapter 343 - To The Capital",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 336,
   ownLength: 3632,
   unit: "unit/words",

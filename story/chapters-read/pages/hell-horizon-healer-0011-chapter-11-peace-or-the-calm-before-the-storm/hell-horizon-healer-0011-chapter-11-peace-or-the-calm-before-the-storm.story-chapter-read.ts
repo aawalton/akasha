@@ -5,7 +5,7 @@ export const hellHorizonHealer0011Chapter11PeaceOrTheCalmBeforeTheStorm = {
   type: "story-chapter-read",
   slug: "hell-horizon-healer-0011-chapter-11-peace-or-the-calm-before-the-storm",
   title: "Chapter 11 - Peace, or the Calm Before the Storm?",
-  story: "hell-horizon-healer",
+  story: "story-read/hell-horizon-healer",
   position: 11,
   ownLength: 1805,
   unit: "unit/words",

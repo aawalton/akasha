@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed001481IiCore = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0014-81-ii-core",
   title: "81 (II) Core",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 14,
   ownLength: 0,
   unit: "unit/words",

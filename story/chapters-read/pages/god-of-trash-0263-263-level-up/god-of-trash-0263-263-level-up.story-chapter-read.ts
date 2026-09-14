@@ -5,7 +5,7 @@ export const godOfTrash0263263LevelUp = {
   type: "story-chapter-read",
   slug: "god-of-trash-0263-263-level-up",
   title: "263. Level Up!",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 263,
   ownLength: 2046,
   unit: "unit/words",

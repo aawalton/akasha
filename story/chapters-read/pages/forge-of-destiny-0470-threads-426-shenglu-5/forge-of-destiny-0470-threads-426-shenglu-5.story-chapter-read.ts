@@ -5,7 +5,7 @@ export const forgeOfDestiny0470Threads426Shenglu5 = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0470-threads-426-shenglu-5",
   title: "Threads 426-Shenglu 5",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 470,
   ownLength: 2166,
   unit: "unit/words",

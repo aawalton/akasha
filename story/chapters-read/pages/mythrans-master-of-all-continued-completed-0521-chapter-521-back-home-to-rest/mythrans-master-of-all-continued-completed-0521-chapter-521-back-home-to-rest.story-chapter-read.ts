@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0521Chapter521BackHomeToRest =
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0521-chapter-521-back-home-to-rest",
   title: "Chapter 521 - Back Home To Rest",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 521,
   ownLength: 2565,
   unit: "unit/words",

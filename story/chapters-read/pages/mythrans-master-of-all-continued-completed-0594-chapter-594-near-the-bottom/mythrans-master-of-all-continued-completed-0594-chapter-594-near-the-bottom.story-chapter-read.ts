@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0594Chapter594NearTheBottom = 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0594-chapter-594-near-the-bottom",
   title: "Chapter 594 - Near The Bottom",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 594,
   ownLength: 2487,
   unit: "unit/words",

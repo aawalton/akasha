@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0300Chapter20SecretStash = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0300-chapter-20-secret-stash",
   title: "Chapter 20: Secret Stash",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 300,
   ownLength: 2337,
   unit: "unit/words",

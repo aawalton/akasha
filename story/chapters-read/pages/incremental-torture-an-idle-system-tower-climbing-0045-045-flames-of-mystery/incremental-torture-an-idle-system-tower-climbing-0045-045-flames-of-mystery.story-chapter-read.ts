@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0045045FlamesOfMystery =
   type: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0045-045-flames-of-mystery",
   title: "045: Flames of Mystery",
-  story: "incremental-torture-an-idle-system-tower-climbing",
+  story: "story-read/incremental-torture-an-idle-system-tower-climbing",
   position: 45,
   ownLength: 2175,
   unit: "unit/words",

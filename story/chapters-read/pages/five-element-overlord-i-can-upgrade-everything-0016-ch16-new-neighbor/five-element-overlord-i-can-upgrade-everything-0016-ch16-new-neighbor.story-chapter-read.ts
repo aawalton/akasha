@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0016Ch16NewNeighbor = {
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0016-ch16-new-neighbor",
   title: "Ch16 New Neighbor",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 16,
   ownLength: 1504,
   unit: "unit/words",

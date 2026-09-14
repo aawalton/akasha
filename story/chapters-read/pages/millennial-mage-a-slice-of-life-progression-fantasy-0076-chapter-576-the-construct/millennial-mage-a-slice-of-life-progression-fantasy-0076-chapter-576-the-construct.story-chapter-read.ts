@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0076Chapter576TheConstr
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0076-chapter-576-the-construct",
   title: "Chapter: 576 - The Construct",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 76,
   ownLength: 2959,
   ownProgress: 2959,

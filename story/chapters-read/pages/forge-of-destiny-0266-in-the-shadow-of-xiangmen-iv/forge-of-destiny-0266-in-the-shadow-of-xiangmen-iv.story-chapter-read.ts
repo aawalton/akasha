@@ -5,7 +5,7 @@ export const forgeOfDestiny0266InTheShadowOfXiangmenIv = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0266-in-the-shadow-of-xiangmen-iv",
   title: "In the Shadow of Xiangmen IV",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 266,
   ownLength: 841,
   unit: "unit/words",

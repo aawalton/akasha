@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0026Chapter24Recognition
   type: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0026-chapter-24-recognition",
   title: "Chapter 24 Recognition",
-  story: "my-lord-please-a-character-driven-kingdom-building",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   position: 26,
   ownLength: 2422,
   unit: "unit/words",

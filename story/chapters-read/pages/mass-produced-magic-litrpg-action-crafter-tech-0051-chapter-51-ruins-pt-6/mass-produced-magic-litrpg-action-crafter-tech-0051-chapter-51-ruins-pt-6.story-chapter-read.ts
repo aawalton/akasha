@@ -5,7 +5,7 @@ export const massProducedMagicLitrpgActionCrafterTech0051Chapter51RuinsPt6 = {
   type: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0051-chapter-51-ruins-pt-6",
   title: "Chapter 51 – Ruins – Pt 6",
-  story: "mass-produced-magic-litrpg-action-crafter-tech",
+  story: "story-read/mass-produced-magic-litrpg-action-crafter-tech",
   position: 51,
   ownLength: 2074,
   unit: "unit/words",

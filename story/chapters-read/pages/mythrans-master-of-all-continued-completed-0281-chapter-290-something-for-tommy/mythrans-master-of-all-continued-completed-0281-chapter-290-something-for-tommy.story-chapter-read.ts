@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0281Chapter290SomethingForTomm
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0281-chapter-290-something-for-tommy",
   title: "Chapter 290 - Something For Tommy",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 281,
   ownLength: 2953,
   unit: "unit/words",

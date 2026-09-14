@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0231Chapter242ShowOff = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0231-chapter-242-show-off",
   title: "Chapter 242 - Show-Off",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 231,
   ownLength: 3351,
   unit: "unit/words",

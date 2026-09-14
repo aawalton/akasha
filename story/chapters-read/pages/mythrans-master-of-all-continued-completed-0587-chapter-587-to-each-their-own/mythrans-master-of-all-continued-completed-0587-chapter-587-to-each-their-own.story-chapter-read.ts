@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0587Chapter587ToEachTheirOwn =
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0587-chapter-587-to-each-their-own",
   title: "Chapter 587 - To Each Their Own",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 587,
   ownLength: 2735,
   unit: "unit/words",

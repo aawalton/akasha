@@ -5,7 +5,7 @@ export const metaworldHopecore0085Chapter48YouAreMyLife = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0085-chapter-48-you-are-my-life",
   title: "CHAPTER 48 - You Are My Life",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 85,
   ownLength: 3747,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0017Chapter33ALoophole = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0017-chapter-33-a-loophole",
   title: "Chapter 33 - A Loophole?",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 17,
   ownLength: 2826,
   unit: "unit/words",

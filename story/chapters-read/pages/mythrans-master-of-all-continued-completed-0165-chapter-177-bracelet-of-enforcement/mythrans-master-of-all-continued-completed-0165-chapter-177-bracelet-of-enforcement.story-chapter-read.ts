@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0165Chapter177BraceletOfEnforc
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0165-chapter-177-bracelet-of-enforcement",
   title: "Chapter 177 - Bracelet Of Enforcement",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 165,
   ownLength: 3043,
   unit: "unit/words",

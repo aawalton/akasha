@@ -5,7 +5,7 @@ export const metaworldHopecore0160Chapter92EverybodysTalkin2 = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0160-chapter-92-everybodys-talkin-2",
   title: "CHAPTER 92 - Everybody's Talkin’ (2)",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 160,
   ownLength: 3183,
   unit: "unit/words",

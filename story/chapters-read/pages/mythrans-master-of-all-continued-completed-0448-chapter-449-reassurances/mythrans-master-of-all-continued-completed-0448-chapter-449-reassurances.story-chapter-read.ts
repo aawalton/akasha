@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0448Chapter449Reassurances = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0448-chapter-449-reassurances",
   title: "Chapter 449 - Reassurances",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 448,
   ownLength: 3229,
   unit: "unit/words",

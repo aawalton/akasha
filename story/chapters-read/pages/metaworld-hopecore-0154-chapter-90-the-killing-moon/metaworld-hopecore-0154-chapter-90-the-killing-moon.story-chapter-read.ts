@@ -5,7 +5,7 @@ export const metaworldHopecore0154Chapter90TheKillingMoon = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0154-chapter-90-the-killing-moon",
   title: " CHAPTER 90 — The Killing Moon",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 154,
   ownLength: 1657,
   unit: "unit/words",

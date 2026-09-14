@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0120ChapterOneHundredSeventeenSummoni
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0120-chapter-one-hundred-seventeen-summonings",
   title: "Chapter One Hundred Seventeen: Summonings",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 120,
   ownLength: 2600,
   unit: "unit/words",

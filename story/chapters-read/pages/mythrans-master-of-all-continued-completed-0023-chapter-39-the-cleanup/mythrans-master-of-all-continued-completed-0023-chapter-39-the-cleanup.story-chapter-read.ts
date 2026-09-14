@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0023Chapter39TheCleanup = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0023-chapter-39-the-cleanup",
   title: "Chapter 39 - The Cleanup",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 23,
   ownLength: 2448,
   unit: "unit/words",

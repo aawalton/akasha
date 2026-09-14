@@ -5,7 +5,7 @@ export const librarySystemResetOverdueBookFourStubbed0012Chapter393Drevicia = {
   type: "story-chapter-read",
   slug: "library-system-reset-overdue-book-four-stubbed-0012-chapter-393-drevicia",
   title: "Chapter 393: Drevicia",
-  story: "library-system-reset-overdue-book-four-stubbed",
+  story: "story-read/library-system-reset-overdue-book-four-stubbed",
   position: 12,
   ownLength: 2184,
   unit: "unit/words",

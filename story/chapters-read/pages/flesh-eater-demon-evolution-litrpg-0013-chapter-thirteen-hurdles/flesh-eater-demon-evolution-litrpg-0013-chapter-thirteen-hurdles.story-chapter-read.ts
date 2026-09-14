@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0013ChapterThirteenHurdles = {
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0013-chapter-thirteen-hurdles",
   title: "Chapter Thirteen: Hurdles",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 13,
   ownLength: 2826,
   unit: "unit/words",

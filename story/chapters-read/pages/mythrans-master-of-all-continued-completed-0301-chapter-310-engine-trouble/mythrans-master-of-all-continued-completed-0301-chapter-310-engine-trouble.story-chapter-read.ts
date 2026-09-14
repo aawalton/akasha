@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0301Chapter310EngineTrouble = 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0301-chapter-310-engine-trouble",
   title: "Chapter 310 - Engine Trouble",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 301,
   ownLength: 3749,
   unit: "unit/words",

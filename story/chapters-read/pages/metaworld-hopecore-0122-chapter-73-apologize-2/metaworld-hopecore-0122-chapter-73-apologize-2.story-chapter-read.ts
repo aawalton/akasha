@@ -5,7 +5,7 @@ export const metaworldHopecore0122Chapter73Apologize2 = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0122-chapter-73-apologize-2",
   title: "CHAPTER 73 - Apologize (2) ",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 122,
   ownLength: 2387,
   unit: "unit/words",

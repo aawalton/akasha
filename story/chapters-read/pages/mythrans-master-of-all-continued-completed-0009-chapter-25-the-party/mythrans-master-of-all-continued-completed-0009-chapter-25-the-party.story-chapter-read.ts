@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0009Chapter25TheParty = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0009-chapter-25-the-party",
   title: "Chapter 25 - The Party",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 9,
   ownLength: 3663,
   unit: "unit/words",

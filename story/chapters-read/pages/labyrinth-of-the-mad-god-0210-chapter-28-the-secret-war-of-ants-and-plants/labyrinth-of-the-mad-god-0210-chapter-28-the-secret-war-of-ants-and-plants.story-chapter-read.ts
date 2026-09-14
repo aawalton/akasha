@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0210Chapter28TheSecretWarOfAntsAndPlants = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0210-chapter-28-the-secret-war-of-ants-and-plants",
   title: "Chapter 28: The Secret War of Ants and Plants",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 210,
   ownLength: 1961,
   unit: "unit/words",

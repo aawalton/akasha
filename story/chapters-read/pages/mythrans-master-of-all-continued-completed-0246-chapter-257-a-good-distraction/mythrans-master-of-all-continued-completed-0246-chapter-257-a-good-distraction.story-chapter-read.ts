@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0246Chapter257AGoodDistraction
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0246-chapter-257-a-good-distraction",
   title: "Chapter 257 - A Good Distraction",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 246,
   ownLength: 3245,
   unit: "unit/words",

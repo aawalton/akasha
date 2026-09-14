@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0504Chapter504BackToThePool = 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0504-chapter-504-back-to-the-pool",
   title: "Chapter 504 - Back To The Pool",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 504,
   ownLength: 3480,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0129Chapter88NoMercy = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0129-chapter-88-no-mercy",
   title: "Chapter 88: No Mercy",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 129,
   ownLength: 1795,
   unit: "unit/words",

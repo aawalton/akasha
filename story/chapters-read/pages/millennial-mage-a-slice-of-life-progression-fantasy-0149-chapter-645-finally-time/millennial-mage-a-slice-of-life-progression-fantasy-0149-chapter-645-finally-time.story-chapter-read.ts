@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0149Chapter645FinallyTi
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0149-chapter-645-finally-time",
   title: "Chapter: 645 - Finally Time",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 149,
   ownLength: 2797,
   ownProgress: 2797,

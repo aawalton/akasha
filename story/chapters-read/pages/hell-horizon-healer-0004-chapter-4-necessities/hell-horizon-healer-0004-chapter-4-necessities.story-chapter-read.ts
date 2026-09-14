@@ -5,7 +5,7 @@ export const hellHorizonHealer0004Chapter4Necessities = {
   type: "story-chapter-read",
   slug: "hell-horizon-healer-0004-chapter-4-necessities",
   title: "Chapter 4 - Necessities",
-  story: "hell-horizon-healer",
+  story: "story-read/hell-horizon-healer",
   position: 4,
   ownLength: 1718,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0183Chapter195MakingPlans = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0183-chapter-195-making-plans",
   title: "Chapter 195 - Making Plans",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 183,
   ownLength: 4168,
   unit: "unit/words",

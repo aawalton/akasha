@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0045Ch45ReturnToTheMarket =
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0045-ch45-return-to-the-market",
   title: "Ch45 Return to the Market",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 45,
   ownLength: 1599,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const metaworldHopecore0070Chapter38CarryThatWeight = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0070-chapter-38-carry-that-weight",
   title: "Chapter 38 - Carry that Weight",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 70,
   ownLength: 2185,
   unit: "unit/words",

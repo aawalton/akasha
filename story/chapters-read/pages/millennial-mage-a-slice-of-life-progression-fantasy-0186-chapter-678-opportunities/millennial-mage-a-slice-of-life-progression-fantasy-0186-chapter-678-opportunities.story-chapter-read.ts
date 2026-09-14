@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0186Chapter678Opportuni
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0186-chapter-678-opportunities",
   title: "Chapter: 678 - Opportunities",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 186,
   ownLength: 3061,
   ownProgress: 3061,

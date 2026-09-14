@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0786Chapter783RabbitsRevealed 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0786-chapter-783-rabbits-revealed",
   title: "Chapter 783 - Rabbits Revealed",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 786,
   ownLength: 3187,
   unit: "unit/words",

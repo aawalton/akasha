@@ -5,7 +5,7 @@ export const metaworldHopecore0045Chapter24TheActor = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0045-chapter-24-the-actor",
   title: "CHAPTER 24 - The Actor",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 45,
   ownLength: 2266,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0068Chapter63Introductio
   type: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0068-chapter-63-introduction",
   title: "Chapter 63 Introduction",
-  story: "my-lord-please-a-character-driven-kingdom-building",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   position: 68,
   ownLength: 1897,
   unit: "unit/words",

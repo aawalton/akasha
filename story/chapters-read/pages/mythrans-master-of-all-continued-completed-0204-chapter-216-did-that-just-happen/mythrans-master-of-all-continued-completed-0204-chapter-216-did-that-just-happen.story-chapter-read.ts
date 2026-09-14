@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0204Chapter216DidThatJustHappe
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0204-chapter-216-did-that-just-happen",
   title: "Chapter 216 - Did That Just Happen?",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 204,
   ownLength: 3480,
   unit: "unit/words",

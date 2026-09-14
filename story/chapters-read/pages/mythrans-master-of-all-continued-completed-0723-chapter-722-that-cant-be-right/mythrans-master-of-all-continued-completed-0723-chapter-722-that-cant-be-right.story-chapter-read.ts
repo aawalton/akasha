@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0723Chapter722ThatCantBeRight 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0723-chapter-722-that-cant-be-right",
   title: "Chapter 722 - That Can't Be Right",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 723,
   ownLength: 3252,
   unit: "unit/words",

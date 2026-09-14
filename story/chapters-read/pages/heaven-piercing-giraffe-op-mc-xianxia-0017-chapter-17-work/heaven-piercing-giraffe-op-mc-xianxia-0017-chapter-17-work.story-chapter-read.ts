@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia0017Chapter17Work = {
   type: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0017-chapter-17-work",
   title: "Chapter 17: Work",
-  story: "heaven-piercing-giraffe-op-mc-xianxia",
+  story: "story-read/heaven-piercing-giraffe-op-mc-xianxia",
   position: 17,
   ownLength: 2044,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const godOfTrash009494Semifinals = {
   type: "story-chapter-read",
   slug: "god-of-trash-0094-94-semifinals",
   title: "94. Semifinals",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 94,
   ownLength: 3095,
   unit: "unit/words",

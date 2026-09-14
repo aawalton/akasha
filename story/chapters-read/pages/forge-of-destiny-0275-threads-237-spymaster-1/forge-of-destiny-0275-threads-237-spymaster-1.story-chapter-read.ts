@@ -5,7 +5,7 @@ export const forgeOfDestiny0275Threads237Spymaster1 = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0275-threads-237-spymaster-1",
   title: "Threads 237-Spymaster 1",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 275,
   ownLength: 1952,
   unit: "unit/words",

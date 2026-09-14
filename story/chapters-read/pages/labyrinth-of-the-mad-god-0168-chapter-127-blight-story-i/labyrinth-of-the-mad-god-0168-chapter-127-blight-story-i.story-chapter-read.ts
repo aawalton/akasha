@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0168Chapter127BlightStoryI = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0168-chapter-127-blight-story-i",
   title: "Chapter 127: Blight Story I",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 168,
   ownLength: 1745,
   unit: "unit/words",

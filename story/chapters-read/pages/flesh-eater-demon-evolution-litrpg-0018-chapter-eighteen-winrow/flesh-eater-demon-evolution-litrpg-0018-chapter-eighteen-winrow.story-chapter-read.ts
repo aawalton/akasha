@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0018ChapterEighteenWinrow = {
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0018-chapter-eighteen-winrow",
   title: "Chapter Eighteen: Winrow",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 18,
   ownLength: 3577,
   unit: "unit/words",

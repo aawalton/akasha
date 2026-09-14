@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0442Chapter443NotKidStuff = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0442-chapter-443-not-kid-stuff",
   title: "Chapter 443 - Not Kid Stuff",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 442,
   ownLength: 3400,
   unit: "unit/words",

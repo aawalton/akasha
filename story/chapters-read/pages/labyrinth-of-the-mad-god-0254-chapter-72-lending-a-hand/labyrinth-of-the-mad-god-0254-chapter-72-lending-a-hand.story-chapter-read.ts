@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0254Chapter72LendingAHand = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0254-chapter-72-lending-a-hand",
   title: "Chapter 72: Lending a Hand",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 254,
   ownLength: 1739,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const godOfTrash0152152ComeGetMe = {
   type: "story-chapter-read",
   slug: "god-of-trash-0152-152-come-get-me",
   title: "152. Come Get Me",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 152,
   ownLength: 2093,
   unit: "unit/words",

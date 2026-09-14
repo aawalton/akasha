@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0010Chapter26TheHospital = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0010-chapter-26-the-hospital",
   title: "Chapter 26 - The Hospital",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 10,
   ownLength: 2866,
   unit: "unit/words",

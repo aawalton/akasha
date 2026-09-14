@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0267Chapter84ShadyCave = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0267-chapter-84-shady-cave",
   title: "Chapter 84: Shady Cave",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 267,
   ownLength: 1603,
   unit: "unit/words",

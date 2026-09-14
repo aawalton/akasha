@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0014Chapter104ThatSeems
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0014-chapter-104-that-seems-bad",
   title: "Chapter: 104 - That Seems Bad",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 14,
   ownLength: 3891,
   ownProgress: 3891,

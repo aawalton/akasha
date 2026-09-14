@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0524Chapter524IntoTheBreach = 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0524-chapter-524-into-the-breach",
   title: "Chapter 524 - Into The Breach",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 524,
   ownLength: 2580,
   unit: "unit/words",

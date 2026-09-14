@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0245Chapter63BuddingIndustryAndFledglingCommerc
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0245-chapter-63-budding-industry-and-fledgling-commerce",
   title: "Chapter 63: Budding Industry and Fledgling Commerce",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 245,
   ownLength: 2097,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0094Chapter110GeneralInformati
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0094-chapter-110-general-information",
   title: "Chapter 110 - General Information",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 94,
   ownLength: 4961,
   unit: "unit/words",

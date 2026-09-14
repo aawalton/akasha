@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0014014FreshMeat = {
   type: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0014-014-fresh-meat",
   title: "014: Fresh Meat",
-  story: "incremental-torture-an-idle-system-tower-climbing",
+  story: "story-read/incremental-torture-an-idle-system-tower-climbing",
   position: 14,
   ownLength: 2059,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const godOfTrash0204204BoysWillBeBoys = {
   type: "story-chapter-read",
   slug: "god-of-trash-0204-204-boys-will-be-boys",
   title: "204. Boys Will Be Boys",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 204,
   ownLength: 1930,
   unit: "unit/words",

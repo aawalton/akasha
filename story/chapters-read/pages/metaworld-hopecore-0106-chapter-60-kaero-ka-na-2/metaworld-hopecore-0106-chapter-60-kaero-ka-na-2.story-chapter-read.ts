@@ -5,7 +5,7 @@ export const metaworldHopecore0106Chapter60KaeroKaNa2 = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0106-chapter-60-kaero-ka-na-2",
   title: "CHAPTER 60 - Kaerō ka na (2) ",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 106,
   ownLength: 3383,
   unit: "unit/words",

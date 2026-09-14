@@ -5,7 +5,7 @@ export const godOfTrash0142142GoingOnTheOffensive = {
   type: "story-chapter-read",
   slug: "god-of-trash-0142-142-going-on-the-offensive",
   title: "142. Going on the Offensive",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 142,
   ownLength: 2278,
   unit: "unit/words",

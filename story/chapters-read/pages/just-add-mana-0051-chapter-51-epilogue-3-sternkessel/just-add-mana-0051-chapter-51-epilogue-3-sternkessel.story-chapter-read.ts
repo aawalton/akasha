@@ -5,7 +5,7 @@ export const justAddMana0051Chapter51Epilogue3Sternkessel = {
   type: "story-chapter-read",
   slug: "just-add-mana-0051-chapter-51-epilogue-3-sternkessel",
   title: "Chapter 51 — Epilogue 3 — Sternkessel",
-  story: "just-add-mana",
+  story: "story-read/just-add-mana",
   position: 51,
   ownLength: 2543,
   ownProgress: 2543,

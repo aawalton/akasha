@@ -5,7 +5,7 @@ export const justAddMana009999Book2Chapter47AftermathPt4 = {
   type: "story-chapter-read",
   slug: "just-add-mana-0099-99-book-2-chapter-47-aftermath-pt-4",
   title: "99 — Book 2, Chapter 47 — Aftermath, Pt 4",
-  story: "just-add-mana",
+  story: "story-read/just-add-mana",
   position: 99,
   ownLength: 3161,
   ownProgress: 3161,

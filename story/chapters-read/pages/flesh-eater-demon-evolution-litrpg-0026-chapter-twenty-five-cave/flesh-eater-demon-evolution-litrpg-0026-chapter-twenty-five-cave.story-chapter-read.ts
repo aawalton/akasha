@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0026ChapterTwentyFiveCave = {
   type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0026-chapter-twenty-five-cave",
   title: "Chapter Twenty-Five: Cave",
-  story: "flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 26,
   ownLength: 2916,
   unit: "unit/words",

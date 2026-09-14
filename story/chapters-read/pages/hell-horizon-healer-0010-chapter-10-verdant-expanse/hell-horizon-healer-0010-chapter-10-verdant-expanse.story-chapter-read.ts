@@ -5,7 +5,7 @@ export const hellHorizonHealer0010Chapter10VerdantExpanse = {
   type: "story-chapter-read",
   slug: "hell-horizon-healer-0010-chapter-10-verdant-expanse",
   title: "Chapter 10 - Verdant Expanse",
-  story: "hell-horizon-healer",
+  story: "story-read/hell-horizon-healer",
   position: 10,
   ownLength: 1644,
   unit: "unit/words",

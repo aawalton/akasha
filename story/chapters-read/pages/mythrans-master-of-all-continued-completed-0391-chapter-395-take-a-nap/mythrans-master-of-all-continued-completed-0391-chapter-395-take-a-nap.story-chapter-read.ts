@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0391Chapter395TakeANap = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0391-chapter-395-take-a-nap",
   title: "Chapter 395 - Take A Nap",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 391,
   ownLength: 3373,
   unit: "unit/words",

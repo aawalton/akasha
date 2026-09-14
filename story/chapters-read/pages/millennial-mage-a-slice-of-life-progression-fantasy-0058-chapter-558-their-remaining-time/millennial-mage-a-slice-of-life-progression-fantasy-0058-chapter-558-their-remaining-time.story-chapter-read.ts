@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0058Chapter558TheirRema
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0058-chapter-558-their-remaining-time",
   title: "Chapter: 558 - Their Remaining Time",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 58,
   ownLength: 3010,
   ownProgress: 3010,

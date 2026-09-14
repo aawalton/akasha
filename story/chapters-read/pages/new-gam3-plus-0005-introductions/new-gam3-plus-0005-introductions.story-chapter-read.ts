@@ -5,7 +5,7 @@ export const newGam3Plus0005Introductions = {
   type: "story-chapter-read",
   slug: "new-gam3-plus-0005-introductions",
   title: "Introductions",
-  story: "new-gam3-plus",
+  story: "story-read/new-gam3-plus",
   position: 5,
   ownLength: 3378,
   unit: "unit/words",

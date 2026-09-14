@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0201Chapter693MoveAndCo
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0201-chapter-693-move-and-counter",
   title: "Chapter: 693 - Move and Counter",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 201,
   ownLength: 3048,
   ownProgress: 3048,

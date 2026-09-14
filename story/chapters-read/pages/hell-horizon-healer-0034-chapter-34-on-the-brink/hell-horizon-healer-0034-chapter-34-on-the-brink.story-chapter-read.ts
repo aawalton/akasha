@@ -5,7 +5,7 @@ export const hellHorizonHealer0034Chapter34OnTheBrink = {
   type: "story-chapter-read",
   slug: "hell-horizon-healer-0034-chapter-34-on-the-brink",
   title: "Chapter 34 - On The Brink",
-  story: "hell-horizon-healer",
+  story: "story-read/hell-horizon-healer",
   position: 34,
   ownLength: 1709,
   unit: "unit/words",

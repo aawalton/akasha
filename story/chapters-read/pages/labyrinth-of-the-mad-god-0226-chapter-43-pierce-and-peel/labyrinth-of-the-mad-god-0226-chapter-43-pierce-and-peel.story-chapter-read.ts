@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0226Chapter43PierceAndPeel = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0226-chapter-43-pierce-and-peel",
   title: "Chapter 43: Pierce and Peel",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 226,
   ownLength: 2012,
   unit: "unit/words",

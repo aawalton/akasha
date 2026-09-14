@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0582Chapter582Spawned = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0582-chapter-582-spawned",
   title: "Chapter 582 - Spawned!",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 582,
   ownLength: 2603,
   unit: "unit/words",

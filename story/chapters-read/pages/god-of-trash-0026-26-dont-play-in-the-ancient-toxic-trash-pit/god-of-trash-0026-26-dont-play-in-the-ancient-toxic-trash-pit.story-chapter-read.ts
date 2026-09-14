@@ -5,7 +5,7 @@ export const godOfTrash002626DontPlayInTheAncientToxicTrashPit = {
   type: "story-chapter-read",
   slug: "god-of-trash-0026-26-dont-play-in-the-ancient-toxic-trash-pit",
   title: "26. Don't Play in the Ancient Toxic Trash Pit",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 26,
   ownLength: 3815,
   unit: "unit/words",

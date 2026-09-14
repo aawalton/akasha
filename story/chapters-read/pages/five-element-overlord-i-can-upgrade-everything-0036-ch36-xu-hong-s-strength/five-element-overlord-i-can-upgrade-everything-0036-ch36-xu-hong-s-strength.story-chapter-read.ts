@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0036Ch36XuHongSStrength = {
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0036-ch36-xu-hong-s-strength",
   title: "Ch36 Xu Hong’s Strength",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 36,
   ownLength: 2056,
   unit: "unit/words",

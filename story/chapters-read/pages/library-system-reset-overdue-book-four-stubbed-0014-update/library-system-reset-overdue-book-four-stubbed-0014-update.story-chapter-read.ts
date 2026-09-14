@@ -5,7 +5,7 @@ export const librarySystemResetOverdueBookFourStubbed0014Update = {
   type: "story-chapter-read",
   slug: "library-system-reset-overdue-book-four-stubbed-0014-update",
   title: "Update",
-  story: "library-system-reset-overdue-book-four-stubbed",
+  story: "story-read/library-system-reset-overdue-book-four-stubbed",
   position: 14,
   ownLength: 196,
   unit: "unit/words",

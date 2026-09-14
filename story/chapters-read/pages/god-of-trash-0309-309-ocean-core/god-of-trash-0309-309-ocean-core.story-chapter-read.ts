@@ -5,7 +5,7 @@ export const godOfTrash0309309OceanCore = {
   type: "story-chapter-read",
   slug: "god-of-trash-0309-309-ocean-core",
   title: "309. Ocean Core",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 309,
   ownLength: 1969,
   unit: "unit/words",

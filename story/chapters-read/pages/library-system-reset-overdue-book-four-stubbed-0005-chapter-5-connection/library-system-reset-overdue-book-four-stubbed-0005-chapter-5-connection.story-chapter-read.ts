@@ -5,7 +5,7 @@ export const librarySystemResetOverdueBookFourStubbed0005Chapter5Connection = {
   type: "story-chapter-read",
   slug: "library-system-reset-overdue-book-four-stubbed-0005-chapter-5-connection",
   title: "Chapter 5: Connection",
-  story: "library-system-reset-overdue-book-four-stubbed",
+  story: "story-read/library-system-reset-overdue-book-four-stubbed",
   position: 5,
   ownLength: 2990,
   unit: "unit/words",

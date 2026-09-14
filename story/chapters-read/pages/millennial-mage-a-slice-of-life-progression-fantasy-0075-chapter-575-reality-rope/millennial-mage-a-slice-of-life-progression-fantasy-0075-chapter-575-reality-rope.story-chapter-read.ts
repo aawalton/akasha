@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0075Chapter575RealityRo
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0075-chapter-575-reality-rope",
   title: "Chapter: 575 - Reality Rope",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 75,
   ownLength: 3199,
   ownProgress: 3199,

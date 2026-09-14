@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0101Chapter599GredialEn
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0101-chapter-599-gredial-encounters",
   title: "Chapter: 599 - Gredial Encounters",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 101,
   ownLength: 2722,
   ownProgress: 2722,

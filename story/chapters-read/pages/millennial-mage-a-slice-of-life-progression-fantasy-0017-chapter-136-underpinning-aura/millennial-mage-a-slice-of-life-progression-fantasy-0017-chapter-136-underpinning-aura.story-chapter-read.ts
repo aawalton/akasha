@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0017Chapter136Underpinn
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0017-chapter-136-underpinning-aura",
   title: "Chapter: 136 - Underpinning Aura",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 17,
   ownLength: 2835,
   ownProgress: 2835,

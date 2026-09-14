@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0527Chapter527IsItOver = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0527-chapter-527-is-it-over",
   title: "Chapter 527 - Is It Over?",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 527,
   ownLength: 2600,
   unit: "unit/words",

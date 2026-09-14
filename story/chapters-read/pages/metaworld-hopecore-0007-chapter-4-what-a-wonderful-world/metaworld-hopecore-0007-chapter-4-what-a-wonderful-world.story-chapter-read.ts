@@ -5,7 +5,7 @@ export const metaworldHopecore0007Chapter4WhatAWonderfulWorld = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0007-chapter-4-what-a-wonderful-world",
   title: "CHAPTER 4 - What a Wonderful World",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 7,
   ownLength: 2725,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const metaworldHopecore0116Chapter68DressYouUp = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0116-chapter-68-dress-you-up",
   title: "CHAPTER 68 - Dress You Up",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 116,
   ownLength: 3734,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0156Chapter651GiftsAndR
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0156-chapter-651-gifts-and-reasons",
   title: "Chapter: 651 - Gifts and Reasons",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 156,
   ownLength: 2587,
   ownProgress: 2587,

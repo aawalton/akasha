@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0054Ch54MartialWarrior = {
   type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0054-ch54-martial-warrior",
   title: "Ch54 Martial Warrior",
-  story: "five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 54,
   ownLength: 1615,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0259Chapter269UnFreakingBeliev
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0259-chapter-269-un-freaking-believable",
   title: "Chapter 269 - Un-Freaking-Believable",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 259,
   ownLength: 3331,
   unit: "unit/words",

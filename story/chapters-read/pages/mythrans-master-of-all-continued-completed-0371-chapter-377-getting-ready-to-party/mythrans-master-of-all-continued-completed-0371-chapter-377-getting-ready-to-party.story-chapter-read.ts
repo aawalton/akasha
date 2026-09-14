@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0371Chapter377GettingReadyToPa
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0371-chapter-377-getting-ready-to-party",
   title: "Chapter 377 - Getting Ready To Party",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 371,
   ownLength: 3677,
   unit: "unit/words",

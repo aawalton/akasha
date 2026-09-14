@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0174Chapter133ItOnlyGetsHarderFromHere = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0174-chapter-133-it-only-gets-harder-from-here",
   title: "Chapter 133: It Only Gets Harder from Here",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 174,
   ownLength: 1809,
   unit: "unit/words",

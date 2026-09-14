@@ -5,7 +5,7 @@ export const manaDevourerLitrpgmanaCultivation001616DeathCart = {
   type: "story-chapter-read",
   slug: "mana-devourer-litrpgmana-cultivation-0016-16-death-cart",
   title: "16. Death Cart",
-  story: "mana-devourer-litrpgmana-cultivation",
+  story: "story-read/mana-devourer-litrpgmana-cultivation",
   position: 16,
   ownLength: 3528,
   unit: "unit/words",

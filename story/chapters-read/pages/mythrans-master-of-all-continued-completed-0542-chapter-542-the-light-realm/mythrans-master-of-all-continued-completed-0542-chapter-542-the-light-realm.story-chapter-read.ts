@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0542Chapter542TheLightRealm = 
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0542-chapter-542-the-light-realm",
   title: "Chapter 542 - The Light Realm",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 542,
   ownLength: 2760,
   unit: "unit/words",

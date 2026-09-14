@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0634Chapter633ComfyCouchTime =
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0634-chapter-633-comfy-couch-time",
   title: "Chapter 633 - Comfy Couch Time",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 634,
   ownLength: 2622,
   unit: "unit/words",

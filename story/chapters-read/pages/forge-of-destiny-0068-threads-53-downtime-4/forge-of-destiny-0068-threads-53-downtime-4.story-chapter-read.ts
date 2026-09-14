@@ -5,7 +5,7 @@ export const forgeOfDestiny0068Threads53Downtime4 = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0068-threads-53-downtime-4",
   title: "Threads 53-Downtime 4",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 68,
   ownLength: 1444,
   unit: "unit/words",

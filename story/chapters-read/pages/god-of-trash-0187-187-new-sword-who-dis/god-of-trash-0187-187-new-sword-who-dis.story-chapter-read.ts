@@ -5,7 +5,7 @@ export const godOfTrash0187187NewSwordWhoDis = {
   type: "story-chapter-read",
   slug: "god-of-trash-0187-187-new-sword-who-dis",
   title: "187. New Sword, Who Dis?",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 187,
   ownLength: 1928,
   unit: "unit/words",

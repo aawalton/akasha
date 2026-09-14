@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0328Chapter47AlphaStrike = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0328-chapter-47-alpha-strike",
   title: "Chapter 47: Alpha Strike",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 328,
   ownLength: 2091,
   unit: "unit/words",

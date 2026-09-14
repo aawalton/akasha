@@ -5,7 +5,7 @@ export const godOfTrash004444PolishATurd = {
   type: "story-chapter-read",
   slug: "god-of-trash-0044-44-polish-a-turd",
   title: "44. Polish a Turd",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 44,
   ownLength: 2435,
   unit: "unit/words",

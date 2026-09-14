@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0088Chapter83Divergence 
   type: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0088-chapter-83-divergence",
   title: "Chapter 83 Divergence",
-  story: "my-lord-please-a-character-driven-kingdom-building",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   position: 88,
   ownLength: 1983,
   unit: "unit/words",

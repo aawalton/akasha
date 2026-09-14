@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0105164IiDescendIii2689020 = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0105-164-ii-descend-iii-2689020",
   title: "164 (II) Descend [III]",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 105,
   ownLength: 2214,
   unit: "unit/words",

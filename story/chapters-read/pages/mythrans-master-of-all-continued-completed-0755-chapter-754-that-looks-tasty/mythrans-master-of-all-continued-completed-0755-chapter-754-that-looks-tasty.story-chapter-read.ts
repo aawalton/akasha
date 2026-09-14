@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0755Chapter754ThatLooksTasty =
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0755-chapter-754-that-looks-tasty",
   title: "Chapter 754 - That Looks Tasty",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 755,
   ownLength: 2900,
   unit: "unit/words",

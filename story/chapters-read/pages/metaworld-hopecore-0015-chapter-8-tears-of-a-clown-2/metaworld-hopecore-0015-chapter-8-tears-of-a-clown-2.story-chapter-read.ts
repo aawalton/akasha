@@ -5,7 +5,7 @@ export const metaworldHopecore0015Chapter8TearsOfAClown2 = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0015-chapter-8-tears-of-a-clown-2",
   title: "CHAPTER 8 - Tears of a Clown (2) ",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 15,
   ownLength: 2790,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0028Chapter44HardAtWork = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0028-chapter-44-hard-at-work",
   title: "Chapter 44 - Hard At Work",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 28,
   ownLength: 2602,
   unit: "unit/words",

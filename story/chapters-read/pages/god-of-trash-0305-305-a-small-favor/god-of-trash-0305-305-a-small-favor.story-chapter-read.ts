@@ -5,7 +5,7 @@ export const godOfTrash0305305ASmallFavor = {
   type: "story-chapter-read",
   slug: "god-of-trash-0305-305-a-small-favor",
   title: "305. A Small Favor",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 305,
   ownLength: 2676,
   unit: "unit/words",

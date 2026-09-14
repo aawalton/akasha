@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0043Chapter41Hunt = {
   type: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0043-chapter-41-hunt",
   title: "Chapter 41 Hunt",
-  story: "my-lord-please-a-character-driven-kingdom-building",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   position: 43,
   ownLength: 1970,
   unit: "unit/words",

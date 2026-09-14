@@ -5,7 +5,7 @@ export const metaworldHopecore0117Chapter69Smile = {
   type: "story-chapter-read",
   slug: "metaworld-hopecore-0117-chapter-69-smile",
   title: "CHAPTER 69 - Smile",
-  story: "metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   position: 117,
   ownLength: 3446,
   unit: "unit/words",

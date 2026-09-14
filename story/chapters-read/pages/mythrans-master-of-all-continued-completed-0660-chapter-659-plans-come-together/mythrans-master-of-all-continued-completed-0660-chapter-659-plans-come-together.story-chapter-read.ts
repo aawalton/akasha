@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0660Chapter659PlansComeTogethe
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0660-chapter-659-plans-come-together",
   title: "Chapter 659 - Plans Come Together",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 660,
   ownLength: 3199,
   unit: "unit/words",

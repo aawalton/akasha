@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0172Chapter131RareAtLast = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0172-chapter-131-rare-at-last",
   title: "Chapter 131: Rare at Last",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 172,
   ownLength: 2904,
   unit: "unit/words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0294Chapter14DiscerningEye = {
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0294-chapter-14-discerning-eye",
   title: "Chapter 14: Discerning Eye",
-  story: "labyrinth-of-the-mad-god",
+  story: "story-read/labyrinth-of-the-mad-god",
   position: 294,
   ownLength: 2858,
   unit: "unit/words",

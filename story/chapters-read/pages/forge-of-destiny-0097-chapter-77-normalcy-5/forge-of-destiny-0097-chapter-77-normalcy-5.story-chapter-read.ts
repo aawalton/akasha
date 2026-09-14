@@ -5,7 +5,7 @@ export const forgeOfDestiny0097Chapter77Normalcy5 = {
   type: "story-chapter-read",
   slug: "forge-of-destiny-0097-chapter-77-normalcy-5",
   title: "Chapter 77-Normalcy 5",
-  story: "forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 97,
   ownLength: 3069,
   unit: "unit/words",

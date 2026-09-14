@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0230Chapter721RaneAndTa
   type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0230-chapter-721-rane-and-tala",
   title: "Chapter: 721 - Rane and Tala",
-  story: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 230,
   ownLength: 2578,
   unit: "unit/words",

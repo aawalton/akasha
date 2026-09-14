@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0110125IiCommisIi = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0110-125-ii-commis-ii",
   title: "125 (II)  Commis [II] ",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 110,
   ownLength: 0,
   unit: "unit/words",

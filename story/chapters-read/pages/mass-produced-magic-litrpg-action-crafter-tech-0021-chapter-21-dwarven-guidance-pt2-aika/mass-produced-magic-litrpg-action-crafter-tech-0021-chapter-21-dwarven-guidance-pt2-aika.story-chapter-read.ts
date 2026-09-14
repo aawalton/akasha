@@ -5,7 +5,7 @@ export const massProducedMagicLitrpgActionCrafterTech0021Chapter21DwarvenGuidanc
   type: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0021-chapter-21-dwarven-guidance-pt2-aika",
   title: "Chapter 21 – Dwarven Guidance – Pt2 (Aika)",
-  story: "mass-produced-magic-litrpg-action-crafter-tech",
+  story: "story-read/mass-produced-magic-litrpg-action-crafter-tech",
   position: 21,
   ownLength: 2585,
   unit: "unit/words",

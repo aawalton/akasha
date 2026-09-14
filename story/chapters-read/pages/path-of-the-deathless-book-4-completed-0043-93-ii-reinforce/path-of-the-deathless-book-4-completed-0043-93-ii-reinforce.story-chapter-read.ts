@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed004393IiReinforce = {
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0043-93-ii-reinforce",
   title: "93 (II) Reinforce",
-  story: "path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 43,
   ownLength: 0,
   unit: "unit/words",

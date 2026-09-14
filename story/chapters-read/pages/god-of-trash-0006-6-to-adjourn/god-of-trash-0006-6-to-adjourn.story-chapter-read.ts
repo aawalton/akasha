@@ -5,7 +5,7 @@ export const godOfTrash00066ToAdjourn = {
   type: "story-chapter-read",
   slug: "god-of-trash-0006-6-to-adjourn",
   title: "6. To Adjourn",
-  story: "god-of-trash",
+  story: "story-read/god-of-trash",
   position: 6,
   ownLength: 4057,
   unit: "unit/words",

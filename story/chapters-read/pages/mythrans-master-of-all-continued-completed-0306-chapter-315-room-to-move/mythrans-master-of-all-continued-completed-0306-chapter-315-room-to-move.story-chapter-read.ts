@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0306Chapter315RoomToMove = {
   type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0306-chapter-315-room-to-move",
   title: "Chapter 315 - Room To Move",
-  story: "mythrans-master-of-all-continued-completed",
+  story: "story-read/mythrans-master-of-all-continued-completed",
   position: 306,
   ownLength: 3291,
   unit: "unit/words",
