@@ -1,21 +1,29 @@
 import {
   judgingBy,
+  type Kinds,
   kindsFor,
   namedAt,
 } from "akasha/checks/code-checks/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.code-check.decision.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { everyPath } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
+import { type Shadow, shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const ID = "id"
+
+function pagesOfKinds(shadow: Shadow, kinds: Kinds): readonly string[] {
+  const found = new Set<string>()
+  for (const slug of [...kinds.tree, ...kinds.modules]) {
+    for (const one of shadow.index.everyOfType(slug)) found.add(one.path)
+  }
+  return [...found].sort()
+}
 
 export function commandIsInTheRightFolder(root: string): readonly Judged[] {
   const shadow = shadowAt(root)
   const kinds = kindsFor(shadow)
   const judging = judgingBy(shadow, kinds)
   const said: Judged[] = []
-  for (const path of everyPath(root)) {
+  for (const path of pagesOfKinds(shadow, kinds)) {
     const one = namedAt(path, kinds)
     if (one === null) continue
     const value = shadow.pageOf(path)
