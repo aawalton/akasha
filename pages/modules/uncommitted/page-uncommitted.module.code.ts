@@ -183,7 +183,10 @@ function writtenAt(full: string, page: string, values: Value): string {
   return body
 }
 
+const settled = new Set<string>()
+
 function filedAlready(root: string, at: string): boolean {
+  if (settled.has(join(root, at))) return true
   return existsSync(join(indexIn(root), FILED_UNDER, `${at}${FILED_ENDING}`))
 }
 
@@ -211,9 +214,11 @@ function settledBeside(
 function besideFiled(root: string, at: string, after: string): undefined {
   if (filedAlready(root, at)) return
   settledBeside(root, at, null, after)
+  settled.add(join(root, at))
 }
 
 function besideUnfiled(root: string, at: string, before: string | null): undefined {
+  settled.delete(join(root, at))
   if (before === null) return
   settledBeside(root, at, before, null)
 }

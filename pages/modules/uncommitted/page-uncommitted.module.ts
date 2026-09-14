@@ -55,6 +55,15 @@ export const pageUncommitted = {
     },
     {
       invariantKind: "departure",
+      statement: "A file this process has already filed is filed no second time by this process.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "That holds though the path index never takes the entry, so one file costs one settle.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Taking away a file that was there unfiles it whatever the index already says.",
     },
     {
