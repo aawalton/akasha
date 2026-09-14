@@ -63,11 +63,6 @@ export const pathSelectConfigSchema = z.object({
   ...BADGE_ICON_FIELD,
 })
 
-export const dateConfigSchema = z.object({
-  relativeDisplay: z.boolean().optional(),
-  ...BADGE_ICON_FIELD,
-})
-
 const instantFormatEnum = z.enum([
   "relative",
   "absolute-date-time",
@@ -93,12 +88,6 @@ export const relationConfigSchema = z.object({
 export const multiRelationConfigSchema = z.object({
   targetPageTypeId: z.string().optional(),
   backRelationPropertyId: z.string().optional(),
-  ...BADGE_ICON_FIELD,
-})
-
-export const rollupConfigSchema = z.object({
-  relationPropertyId: z.string().optional(),
-  targetPropertyId: z.string().optional(),
   ...BADGE_ICON_FIELD,
 })
 
@@ -145,5 +134,3 @@ export const formulaConfigSchema = z.object({
   ...BADGE_VARIANT_FIELD,
   live: z.boolean().optional(),
 })
-
-export const baseConfigSchema = z.object({ ...BADGE_ICON_FIELD })
