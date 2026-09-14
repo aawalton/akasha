@@ -8,12 +8,6 @@ import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.c
 import { wholeValue } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 
-const AKASHA_PAGE = ".ts"
-
-export function isAkashaPage(relPath: string): boolean {
-  return relPath.endsWith(AKASHA_PAGE)
-}
-
 const SLUG = "slug"
 
 const PAGE_TYPE_SLUG = "page-type-slug"

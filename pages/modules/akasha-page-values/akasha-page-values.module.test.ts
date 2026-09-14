@@ -1,16 +1,10 @@
 import { describe, expect, test } from "bun:test"
 import {
-  isAkashaPage,
   kebabisedRow,
   valuesOfDeclared,
 } from "akasha/pages/modules/akasha-page-values/akasha-page-values.module.code.ts"
 
 describe("the values an akasha page declares", () => {
-  test("a `.ts` page is one and a `.md` page is not", () => {
-    expect(isAkashaPage("akasha/alan/x/day-2026-03-05.day.ts")).toBe(true)
-    expect(isAkashaPage("pages/daily-tracking/2026-03-05.daily-tracking.md")).toBe(false)
-  })
-
   test("camel keys become kebab and every value is carried as text", () => {
     const values = valuesOfDeclared("x/day-2026-03-05.day.ts", {
       healthPoints: 2.2166,
