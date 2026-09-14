@@ -4,24 +4,20 @@ export const smsAccess = {
   id: "01a05b73-2ec6-753d-93f8-fc22c4035cad",
   type: "domain",
   slug: "sms-access",
-  definition: "the pages an inbound SMS reads and writes",
-  parts: ["module/sms-allowlist", "module/sms-discard", "page-type/sms-discard"],
+  definition: "the page type a turned-away inbound SMS would be written under",
+  parts: ["page-type/sms-discard"],
   invariants: [
     {
       invariantKind: "absence",
-      statement: "Nothing here reaches the SMS carrier.",
+      statement: "No code sits here, so nothing here reads or writes a page.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing here reaches Supabase.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "Nothing here reaches a page.",
+      invariantKind: "departure",
+      statement: "The sms webhook route reads the relationship pages and messages a seat itself.",
     },
     {
       invariantKind: "gap",
-      statement: "The pages an inbound SMS reads and writes are pages akasha has.",
+      statement: "An SMS this system turns away lands as a page.",
     },
   ],
 } as const satisfies Domain
