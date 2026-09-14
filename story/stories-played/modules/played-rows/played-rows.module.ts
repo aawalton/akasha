@@ -32,5 +32,9 @@ export const playedRows = {
       invariantKind: "departure",
       statement: "A story no game names draws its prose and no panel beside it.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A story draws its own prose whether or not its game declares that panel.",
+    },
   ],
 } as const satisfies Module

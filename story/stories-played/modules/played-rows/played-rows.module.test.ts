@@ -119,6 +119,10 @@ describe("panelsDrawnHere", () => {
   test("draws prose alone for a story no game names", () => {
     expect(panelsDrawnHere(null)).toEqual({ chapterProse: {} })
   })
+
+  test("draws prose for a game that declares every panel but that one", () => {
+    expect(panelsDrawnHere({ beatLog: {} })).toEqual({ chapterProse: {}, beatLog: {} })
+  })
 })
 
 describe("playedEnvelope", () => {

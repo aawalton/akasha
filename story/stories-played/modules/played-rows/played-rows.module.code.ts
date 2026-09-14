@@ -116,7 +116,7 @@ export function playedChaptersOf(rows: readonly Page[]): readonly ClientStoryCha
 export function panelsDrawnHere(declared: GameDisplayModules | null): GameDisplayModules {
   if (declared === null) return PROSE_ALONE
   return {
-    ...(declared.chapterProse === undefined ? {} : { chapterProse: declared.chapterProse }),
+    chapterProse: declared.chapterProse ?? {},
     ...(declared.beatLog === undefined ? {} : { beatLog: declared.beatLog }),
     ...(declared.hud === undefined ? {} : { hud: declared.hud }),
     ...(declared.quests === undefined ? {} : { quests: declared.quests }),
