@@ -17,11 +17,6 @@ export const landingAdmission = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The turn is held thirty seconds, so the next landing reads what the last one took.",
-    },
-    {
-      invariantKind: "departure",
       statement: "What is available is what the kernel says, rather than what is unused.",
     },
     {
@@ -34,7 +29,8 @@ export const landingAdmission = {
     },
     {
       invariantKind: "departure",
-      statement: "A turn expires on its own, so a run that died holding one stops nothing.",
+      statement:
+        "A turn is held only while it is taken, so a run that died holding one stops nothing.",
     },
     {
       invariantKind: "departure",
@@ -43,6 +39,11 @@ export const landingAdmission = {
     {
       invariantKind: "absence",
       statement: "Nothing here counts what memory a landing is about to take.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "One landing is spaced from the next by what memory is free rather than by a wait.",
     },
   ],
 } as const satisfies Module
