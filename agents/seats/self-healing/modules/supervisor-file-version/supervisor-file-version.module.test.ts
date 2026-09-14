@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { supervisorRel } from "akasha/agents/seats/launching/modules/seat-entry-paths/seat-entry-paths.module.code.ts"
 import {
   CEILING_MS,
   DEBOUNCE_MS,
@@ -9,11 +10,17 @@ import {
   importGraph,
   landsAt,
   NOTHING_DELIVERED,
+  pollSupervisorFileVersion,
+  reachesNothing,
+  reachesNothingLine,
+  reachingFrom,
   repoRootOf,
   type VersionWatch,
   workspaceNaming,
 } from "akasha/agents/seats/self-healing/modules/supervisor-file-version/supervisor-file-version.module.code.ts"
+import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { textThere } from "akasha/utils/fs/modules/text-there/text-there.module.code.ts"
 
 const scratch = scratchWorld()
 
@@ -38,6 +45,18 @@ const NONE: ReadonlyMap<string, string> = new Map()
 function bodyAt(path: string): string | null {
   return TREE[path] ?? null
 }
+
+const ROOTED: Readonly<Record<string, string>> = {
+  "/r/entry.ts": 'import { a } from "akasha/one.ts"\nimport { b } from "akasha/two.ts"\n',
+  "/r/one.ts": "",
+  "/r/two.ts": "",
+}
+
+function rootedAt(path: string): string | null {
+  return ROOTED[path] ?? null
+}
+
+const REACHED_WHEN_MEASURED = 681
 
 test("the file set is walked from the entry's relative imports", () => {
   expect(importGraph("/a/entry.ts", bodyAt, NONE)).toEqual([
@@ -119,6 +138,63 @@ test("the one package is named by the exports the root manifest states", () => {
 test("a specifier the root package answers by a star lands under the root", () => {
   const naming: ReadonlyMap<string, string> = new Map([["akasha/*", "/r/*"]])
   expect(landsAt("/a/entry.ts", "akasha/deep/deep.ts", naming)).toBe("/r/deep/deep.ts")
+})
+
+test("the one wildcard the root names reaches the files the entry imports", () => {
+  const naming: ReadonlyMap<string, string> = new Map([["akasha/*", "/r/*"]])
+  const reaching = reachingFrom("/r/entry.ts", rootedAt, naming)
+  expect(reaching.reached).toEqual(["/r/entry.ts", "/r/one.ts", "/r/two.ts"])
+  expect(reaching.saidAtEntry).toBe(2)
+  expect(reaching.reachedFromEntry).toBe(2)
+  expect(reachesNothing(reaching)).toBe(false)
+})
+
+test("one wildcard landing where no file is leaves the entry alone, and that is noticed", () => {
+  const naming: ReadonlyMap<string, string> = new Map([["akasha/*", "/gone/*"]])
+  const reaching = reachingFrom("/r/entry.ts", rootedAt, naming)
+  expect(reaching.reached).toEqual(["/r/entry.ts"])
+  expect(reaching.saidAtEntry).toBe(2)
+  expect(reaching.reachedFromEntry).toBe(0)
+  expect(reachesNothing(reaching)).toBe(true)
+})
+
+test("a naming holding nothing leaves the entry alone, and that is noticed", () => {
+  const reaching = reachingFrom("/r/entry.ts", rootedAt, NONE)
+  expect(reaching.reached).toEqual(["/r/entry.ts"])
+  expect(reachesNothing(reaching)).toBe(true)
+})
+
+test("an entry naming no import at all is not taken for a resolution that failed", () => {
+  const reaching = reachingFrom("/r/one.ts", rootedAt, NONE)
+  expect(reaching.saidAtEntry).toBe(0)
+  expect(reachesNothing(reaching)).toBe(false)
+})
+
+test("the supervisor entry reaches its own tree, so nothing is noticed against it", () => {
+  const reaching = reachingFrom(join(akashaRoot(), supervisorRel()), textThere)
+  expect(reaching.reached.length).toBeGreaterThan(REACHED_WHEN_MEASURED / 2)
+  expect(reaching.saidAtEntry).toBeGreaterThan(0)
+  expect(reaching.reachedFromEntry).toBe(reaching.saidAtEntry)
+  expect(reachesNothing(reaching)).toBe(false)
+})
+
+test("an entry reaching none of its imports is said every poll", async () => {
+  const entry = join(scratch.rootFor("supervisor-file-version-"), "entry.ts")
+  writeFileSync(entry, 'import { gone } from "akasha/nowhere/nowhere.module.code.ts"\n')
+  const said: string[] = []
+  const delivered: string[] = []
+  const say = (spoken: string): undefined => {
+    said.push(spoken)
+  }
+  const deliver = (version: { liveVersion: string; deployedAt: number }): undefined => {
+    delivered.push(version.liveVersion)
+  }
+  await pollSupervisorFileVersion(entry, deliver, 0, say)
+  await pollSupervisorFileVersion(entry, deliver, DEBOUNCE_MS, say)
+  const line = reachesNothingLine(entry, reachingFrom(entry, textThere))
+  expect(delivered).toEqual([])
+  expect(said).toEqual([line, line])
+  expect(line).toContain(entry)
 })
 
 test("a file that cannot be read still changes the hash", async () => {

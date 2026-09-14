@@ -28,6 +28,15 @@ export const supervisorFileVersion = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "An entry reaching none of the files it imports is said every poll rather than passed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No version is hashed while the entry reaches none of the files it imports.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file that cannot be read is hashed as unreadable rather than skipped.",
     },
     {

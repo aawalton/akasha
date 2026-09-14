@@ -1,5 +1,6 @@
 import { dirname, join, normalize } from "node:path"
 import { AGENT_SETTINGS_PATH } from "akasha/agents/seats/supervisors/supervisor-child/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
+import { LOG } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   landingOf,
   type Naming,
@@ -74,14 +75,23 @@ export function landsAt(here: string, specifier: string, naming: Naming): string
   return named === null ? null : normalize(named)
 }
 
-export function importGraph(
+export type Reaching = {
+  readonly reached: readonly string[]
+  readonly saidAtEntry: number
+  readonly reachedFromEntry: number
+}
+
+export function reachingFrom(
   entry: string,
   read: (path: string) => string | null,
   naming: Naming = namingFrom(entry)
-): readonly string[] {
+): Reaching {
+  const from = normalize(entry)
   const seen = new Set<string>()
   const reached: string[] = []
-  const stack = [normalize(entry)]
+  const landedFromEntry = new Set<string>()
+  let saidAtEntry = 0
+  const stack = [from]
   while (stack.length > 0) {
     const here = stack.pop()
     if (here === undefined || seen.has(here)) continue
@@ -92,23 +102,44 @@ export function importGraph(
     for (const found of text.matchAll(SPECIFIER)) {
       const specifier = found[1]
       if (specifier === undefined) continue
+      if (here === from) saidAtEntry++
       const next = landsAt(here, specifier, naming)
-      if (next !== null) stack.push(next)
+      if (next === null) continue
+      if (here === from && next !== from) landedFromEntry.add(next)
+      stack.push(next)
     }
   }
-  return reached.sort()
+  const held = new Set(reached)
+  let reachedFromEntry = 0
+  for (const at of landedFromEntry) if (held.has(at)) reachedFromEntry++
+  return { reached: reached.sort(), saidAtEntry, reachedFromEntry }
+}
+
+export function importGraph(
+  entry: string,
+  read: (path: string) => string | null,
+  naming: Naming = namingFrom(entry)
+): readonly string[] {
+  return reachingFrom(entry, read, naming).reached
+}
+
+export function reachesNothing(reaching: Reaching): boolean {
+  return reaching.saidAtEntry > 0 && reaching.reachedFromEntry === 0
 }
 
 const SUPERVISOR_DATA_FILES: readonly string[] = [AGENT_SETTINGS_PATH]
 
-function supervisorFileSet(
-  entry: string,
-  read: (path: string) => string | null = textThere,
-  naming: Naming = namingFrom(entry)
-): readonly string[] {
-  const reached = importGraph(entry, read, naming)
-  if (reached.length === 0) return []
-  return [...reached, ...SUPERVISOR_DATA_FILES].sort()
+function supervisorFileSet(reaching: Reaching): readonly string[] {
+  return [...reaching.reached, ...SUPERVISOR_DATA_FILES].sort()
+}
+
+export function reachesNothingLine(entry: string, reaching: Reaching): string {
+  return (
+    `${LOG} supervisor-files: none of the imports ${entry} names reach a file ` +
+    `(0 of ${reaching.saidAtEntry}), so the version this supervisor watches is a hash of that ` +
+    "one file and no new version can ever be seen — this supervisor will not self-heal until " +
+    "its imports resolve again"
+  )
 }
 
 export async function hashFileSet(files: readonly string[]): Promise<string> {
@@ -170,13 +201,20 @@ let heldWatch: VersionWatch = NOTHING_DELIVERED
 export async function pollSupervisorFileVersion(
   entry: string,
   deliver: (version: { liveVersion: string; deployedAt: number }) => void | Promise<void>,
-  nowMs: number = Date.now()
+  nowMs: number = Date.now(),
+  say: (line: string) => undefined = (line: string): undefined => {
+    console.error(line)
+  }
 ): Promise<void> {
   if (entry === "") return
-  graph ??= supervisorFileSet(entry)
-  if (graph.length === 0) {
-    graph = null
-    return
+  if (graph === null) {
+    const reaching = reachingFrom(entry, textThere)
+    if (reaching.reached.length === 0) return
+    if (reachesNothing(reaching)) {
+      say(reachesNothingLine(entry, reaching))
+      return
+    }
+    graph = supervisorFileSet(reaching)
   }
   const seen = await hashFileSet(graph)
   const verdict = decideVersionDelivery(heldWatch, seen, nowMs)
