@@ -17,7 +17,6 @@ export const seatReviving = {
     "module/seat-resume-help",
     "module/seat-revive-io-verify-decide",
     "module/seat-revive-launch-decide",
-    "module/seat-revive-placement-decide",
     "module/seat-revive-verify-signal",
   ],
   invariants: [
@@ -47,6 +46,15 @@ export const seatReviving = {
       invariantKind: "gap",
       statement:
         "A seat found that way is revived rather than left with a pane held open and no process.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A revived seat comes back onto its live tmux session where one holds its name.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A revived seat with no such session comes back in the mode its row states, or headless.",
     },
   ],
 } as const satisfies Domain
