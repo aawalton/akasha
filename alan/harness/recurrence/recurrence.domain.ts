@@ -5,16 +5,13 @@ export const recurrence = {
   type: "domain",
   slug: "recurrence",
   definition: "when a repeating thing next falls due",
-  parts: ["module/labeling", "module/parsing", "module/recurrence-shape", "module/scheduling"],
+  parts: ["module/recurrence-shape", "module/scheduling"],
   invariants: [
     {
       invariantKind: "departure",
       statement: "A recurrence is stored as an rrule string and read back from the rrule string.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A rule that cannot be said back in English is refused rather than stored.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here reads a clock of its own.",

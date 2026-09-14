@@ -7,8 +7,6 @@ const NULLABLE_MATCH_SCHEMA = z.array(z.string()).min(2).nullable()
 export interface ParsedDate {
   date?: string
   time?: string
-  rrule?: string
-  rruleFromCompletion?: boolean
   startDate?: string
   matchedText: string
 }
@@ -289,21 +287,12 @@ function parseNextWeekday(input: string, refAnchor: Date): ParsedDate | null {
   return { date: formatAnchor(d), matchedText: input.trim() }
 }
 
-export function parseDateExpression(
-  input: string,
-  referenceDate?: Date,
-  parseRecurring?: (said: string) => ParsedDate | null
-): ParsedDate | null {
+export function parseDateExpression(input: string, referenceDate?: Date): ParsedDate | null {
   const trimmed = input.trim()
   if (trimmed === "") return null
 
   const refDate = referenceDate ?? new Date()
   const refAnchor = getEsoDayAnchor(refDate)
-
-  if (parseRecurring) {
-    const recurring = parseRecurring(trimmed)
-    if (recurring) return recurring
-  }
 
   const tod = parseTimeOfDay(trimmed)
   if (tod) {

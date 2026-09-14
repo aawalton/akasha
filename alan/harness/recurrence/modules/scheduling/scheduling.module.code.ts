@@ -50,16 +50,6 @@ function getNextCalendarOccurrence(rruleStr: string, dtstart: Date, floor: Date)
   return rule.after(after, true) ?? null
 }
 
-export function getOccurrenceAtOrAfter(rruleStr: string, from: string): string | null {
-  const stripped = rruleStr.startsWith("RRULE:") ? rruleStr.slice(6) : rruleStr
-  const fromEpoch = toEpoch(from, null)
-  const fromDate = new Date(fromEpoch)
-  const rule = RRule.fromString(`DTSTART:${formatRruleDate(fromDate)}\n${stripped}`)
-  const next = rule.after(fromDate, true) ?? null
-  if (next == null) return null
-  return utcDateString(next)
-}
-
 function formatRruleDate(d: Date): string {
   return `${d.getUTCFullYear()}${padTwo(d.getUTCMonth() + 1)}${padTwo(d.getUTCDate())}T${padTwo(d.getUTCHours())}${padTwo(d.getUTCMinutes())}${padTwo(d.getUTCSeconds())}Z`
 }
