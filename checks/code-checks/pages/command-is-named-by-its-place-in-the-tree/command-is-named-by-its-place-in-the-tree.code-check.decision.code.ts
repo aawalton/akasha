@@ -244,10 +244,6 @@ export function treeUnder(shadow: Shadow, kinds: Kinds): Tree {
 
 export type Files = (folder: string) => readonly string[]
 
-function filesCarriedIn(root: string): Files {
-  return (folder) => filesIn(root, folder)
-}
-
 export function filesLeftBy(change: Change): Files {
   const base = change.base ?? null
   return (folder) => {
@@ -274,11 +270,7 @@ function reachingOver(shadow: Shadow, files: Files): (folder: string) => readonl
   }
 }
 
-export function placingBy(
-  shadow: Shadow,
-  kinds: Kinds,
-  files: Files = filesCarriedIn(shadow.root)
-): Placing {
+export function placingBy(shadow: Shadow, kinds: Kinds, files: Files = shadow.listed): Placing {
   const reaching = reachingOver(shadow, files)
   return (path) =>
     placeReasonIn(path, {
@@ -287,11 +279,7 @@ export function placingBy(
     })
 }
 
-export function judgingBy(
-  shadow: Shadow,
-  kinds: Kinds,
-  files: Files = filesCarriedIn(shadow.root)
-): Judging {
+export function judgingBy(shadow: Shadow, kinds: Kinds, files: Files = shadow.listed): Judging {
   const known = shadow.index.knownIn()
   const placing = placingBy(shadow, kinds, files)
   return (id, path, named) => {
