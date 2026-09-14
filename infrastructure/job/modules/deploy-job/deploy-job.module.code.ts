@@ -24,9 +24,9 @@ const NAMESPACE = JOB_NAMESPACE
 
 const CLASS = "ci"
 
-export const JOB_SECRET = "workers-secrets"
+const JOB_SECRET = "workers-secrets"
 
-export const GIT_TOKEN = "GIT_ACCESS_TOKEN"
+const GIT_TOKEN = "GIT_ACCESS_TOKEN"
 
 const ORIGIN =
   `http://x-access-token:$${GIT_TOKEN}` +
