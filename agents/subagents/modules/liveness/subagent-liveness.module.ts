@@ -59,6 +59,10 @@ export const subagentLiveness = {
     },
     {
       invariantKind: "departure",
+      statement: "A result recorded below another subagent is read as one at the top is.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The id a subagent runs under is taken from the page where a caller names none.",
     },
     {

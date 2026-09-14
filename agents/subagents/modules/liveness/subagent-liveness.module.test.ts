@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { mkdtempSync, writeFileSync } from "node:fs"
+import { mkdirSync, mkdtempSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
   type Acting,
@@ -51,15 +51,24 @@ function resulting(own: string): unknown {
   }
 }
 
-function transcribing(records: readonly unknown[]): TranscriptAt {
-  const at = join(mkdtempSync(join(SCRATCH_AT, "subagent-liveness-")), "session.jsonl")
+function written(at: string, records: readonly unknown[]): undefined {
   writeFileSync(at, records.map((one) => `${JSON.stringify(one)}\n`).join(""))
+  return undefined
+}
+
+function transcribing(records: readonly unknown[], below: readonly unknown[] = []): TranscriptAt {
+  const at = join(mkdtempSync(join(SCRATCH_AT, "subagent-liveness-")), "session.jsonl")
+  written(at, records)
+  if (below.length > 0) {
+    const dir = join(at.replace(/\.jsonl$/, ""), "subagents")
+    mkdirSync(dir, { recursive: true })
+    written(join(dir, `agent-${ANOTHER}.jsonl`), below)
+  }
   return () => at
 }
 
 const REFUSING: Transcripts = {
-  forSeat: () => Promise.reject(new Error("EACCES: permission denied")),
-  endedForSeat: () => Promise.reject(new Error("EACCES: permission denied")),
+  readingForSeat: () => Promise.reject(new Error("EACCES: permission denied")),
 }
 
 test("a transcript recording a spawn and no result for it reads working", async () => {
@@ -72,6 +81,14 @@ test("a transcript recording a spawn and no result for it reads working", async 
 test("a transcript recording a result for it reads returned", async () => {
   const records = [...spawning(OWN), resulting(OWN)]
   const held = await readFor(ACTING, transcribing(records), createSubagentReader())
+
+  expect(held.liveness).toBe("returned")
+  expect(held.why).toContain("records the result it returned")
+})
+
+test("a result recorded below another subagent is read as one at the top is", async () => {
+  const at = transcribing(spawning(ANOTHER), [...spawning(OWN), resulting(OWN)])
+  const held = await readFor(ACTING, at, createSubagentReader())
 
   expect(held.liveness).toBe("returned")
   expect(held.why).toContain("records the result it returned")

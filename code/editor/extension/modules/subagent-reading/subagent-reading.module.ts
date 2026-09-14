@@ -59,6 +59,19 @@ export const subagentReading = {
     },
     {
       invariantKind: "departure",
+      statement: "A reading of a seat answers what runs under it and what has finished under it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A reading gathers what finished from every transcript that reading descends into.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent a running subagent finished is therefore answered as finished.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Both answers come from one fold of the seat's transcript.",
     },
     {

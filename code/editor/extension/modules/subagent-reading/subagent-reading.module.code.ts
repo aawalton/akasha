@@ -38,8 +38,14 @@ interface Cursor {
   state: SubagentState
 }
 
+export interface SubagentReading {
+  readonly running: readonly SubagentNode[]
+  readonly ended: readonly string[]
+}
+
 export interface SubagentReader {
   readonly forSeat: (agentId: string, transcriptPath: string) => Promise<readonly SubagentNode[]>
+  readonly readingForSeat: (agentId: string, transcriptPath: string) => Promise<SubagentReading>
   readonly endedForSeat: (agentId: string, transcriptPath: string) => Promise<readonly string[]>
   readonly dropUntouched: () => Promise<undefined>
 }
@@ -102,7 +108,8 @@ export function createSubagentReader(): SubagentReader {
     running: readonly RunningSubagent[],
     subagentsDir: string,
     depth: number,
-    entered: ReadonlySet<string>
+    entered: ReadonlySet<string>,
+    ended: Set<string>
   ): Promise<readonly SubagentNode[]> => {
     const nodes: SubagentNode[] = []
     for (const subagent of running) {
@@ -114,11 +121,13 @@ export function createSubagentReader(): SubagentReader {
       ) {
         const childPath = path.join(subagentsDir, `agent-${subagent.agentId}.jsonl`)
         const state = await advance(childPath, childPath)
+        for (const one of endedSubagents(state)) ended.add(one)
         children = await descend(
           runningSubagents(state),
           subagentsDir,
           depth + 1,
-          new Set(entered).add(subagent.agentId)
+          new Set(entered).add(subagent.agentId),
+          ended
         )
       }
       nodes.push({
@@ -152,12 +161,18 @@ export function createSubagentReader(): SubagentReader {
     return undefined
   }
 
+  const readingOf = async (agentId: string, transcriptPath: string): Promise<SubagentReading> => {
+    const state = await advance(agentId, transcriptPath)
+    const subagentsDir = path.join(transcriptPath.replace(/\.jsonl$/, ""), "subagents")
+    const ended = new Set(endedSubagents(state))
+    const running = await descend(runningSubagents(state), subagentsDir, 1, new Set(), ended)
+    return { running, ended: [...ended].sort() }
+  }
+
   return {
-    forSeat: async (agentId: string, transcriptPath: string) => {
-      const state = await advance(agentId, transcriptPath)
-      const subagentsDir = path.join(transcriptPath.replace(/\.jsonl$/, ""), "subagents")
-      return descend(runningSubagents(state), subagentsDir, 1, new Set())
-    },
+    forSeat: async (agentId: string, transcriptPath: string) =>
+      (await readingOf(agentId, transcriptPath)).running,
+    readingForSeat: readingOf,
     endedForSeat: async (agentId: string, transcriptPath: string) =>
       endedSubagents(await advance(agentId, transcriptPath)),
     dropUntouched: async () => {

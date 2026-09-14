@@ -3,6 +3,7 @@ import { transcriptOf } from "akasha/agents/seats/session/modules/seat-transcrip
 import {
   createSubagentReader,
   type SubagentNode,
+  type SubagentReading,
 } from "akasha/code/editor/extension/modules/subagent-reading/subagent-reading.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import { textAt } from "akasha/utils/narrow/modules/text-at/text-at.module.code.ts"
@@ -49,8 +50,7 @@ function actingAs(root: string, page: string): Acting | null {
 }
 
 export type Transcripts = {
-  readonly forSeat: (seatId: string, at: string) => Promise<readonly SubagentNode[]>
-  readonly endedForSeat: (seatId: string, at: string) => Promise<readonly string[]>
+  readonly readingForSeat: (seatId: string, at: string) => Promise<SubagentReading>
 }
 
 export type TranscriptAt = (seatId: string) => string | null
@@ -65,10 +65,9 @@ export async function readFor(
   try {
     const named = at(acting.seatId)
     if (named === null || named === "") return { liveness: "unread", why: NO_TRANSCRIPT }
-    const running = await reading.forSeat(acting.seatId, named)
-    if (namedAmong(running, acting.own)) return { liveness: "working", why: RUNS }
-    const ended = await reading.endedForSeat(acting.seatId, named)
-    if (ended.includes(acting.own)) return { liveness: "returned", why: HAS_RETURNED }
+    const read = await reading.readingForSeat(acting.seatId, named)
+    if (namedAmong(read.running, acting.own)) return { liveness: "working", why: RUNS }
+    if (read.ended.includes(acting.own)) return { liveness: "returned", why: HAS_RETURNED }
     return { liveness: "unread", why: NAMED_NOWHERE }
   } catch (thrown) {
     return { liveness: "unread", why: thrownAs(thrown) }
