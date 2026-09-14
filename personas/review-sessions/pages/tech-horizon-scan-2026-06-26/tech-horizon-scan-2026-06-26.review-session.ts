@@ -5,7 +5,7 @@ export const techHorizonScan20260626 = {
   type: "review-session",
   slug: "tech-horizon-scan-2026-06-26",
   title: "Tech horizon-scan — 2026-06-26",
-  persona: "nimue",
+  persona: "persona/nimue",
   date: "2026-06-26",
   icon: "file-text",
   notes: "txt",

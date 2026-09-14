@@ -5,7 +5,7 @@ export const medicineRounds20260626 = {
   type: "review-session",
   slug: "medicine-rounds-2026-06-26",
   title: "Medicine rounds — 2026-06-26",
-  persona: "elaine",
+  persona: "persona/elaine",
   date: "2026-06-26",
   icon: "file-text",
   notes: "txt",
