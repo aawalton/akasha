@@ -4,7 +4,8 @@ export const treeSearching = {
   id: "01a0a06a-7815-7496-bab7-bcf7151d8cce",
   type: "module",
   slug: "tree-searching",
-  definition: "the paths a search of the tree names, with the answer a change carries laid over",
+  definition:
+    "the paths a search or a listing of the tree names, with the answer a change carries laid over",
   code: "ts",
   test: "ts",
   invariants: [
@@ -69,6 +70,23 @@ export const treeSearching = {
     {
       invariantKind: "departure",
       statement: "A call asking after no spelling searches nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A listing names every path the tree holds rather than the paths a spelling is in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A listing runs the same program under the same rules a search runs under.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every file kind is listed, and a caller wanting one kind reads it off the path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A listing is answered in path order.",
     },
     {
       invariantKind: "absence",

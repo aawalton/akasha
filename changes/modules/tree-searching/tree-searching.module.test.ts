@@ -9,6 +9,7 @@ import { worldOf } from "akasha/changes/modules/shadow/change-shadow.module.test
 import {
   EVERY_KIND,
   foundIn,
+  pathsListed,
   pathsNaming,
   pathsSearched,
   TYPED_KINDS,
@@ -188,4 +189,48 @@ test("a search naming paths is answered with those paths though that search ende
 test("a call asking after no spelling searches nothing", () => {
   expect(pathsNaming(worldOf({ [CODE_AT]: CODE_BODY }), [], TYPED_KINDS)).toEqual([])
   expect(pathsSearched(NOWHERE, [], TYPED_KINDS)).toEqual([])
+})
+
+test("a listing names every path the tree holds rather than the paths one spelling is in", () => {
+  const world = worldSpelling({ [CODE_AT]: CODE_BODY }, NOTHING_OVER, {
+    [CODE_AT]: CODE_BODY,
+    [PROSE_AT]: PROSE_BODY,
+    [OTHER_AT]: OTHER_BODY,
+  })
+
+  expect(pathsListed(world.root)).toEqual([CODE_AT, PROSE_AT, OTHER_AT])
+})
+
+test("a listing leaves out the git folder, the packages folder and the index folder", () => {
+  const world = worldSpelling({ [CODE_AT]: CODE_BODY }, NOTHING_OVER, {
+    ".git/held-one.held-kind.code.ts": CODE_BODY,
+    [`${indexNamed()}/held-one.held-kind.code.ts`]: CODE_BODY,
+    "node_modules/held/held-one.held-kind.code.ts": CODE_BODY,
+    [CODE_AT]: CODE_BODY,
+  })
+
+  expect(pathsListed(world.root)).toEqual([CODE_AT])
+})
+
+test("a listing leaves out a file the repository ignores and keeps a body no commit holds", () => {
+  const world = worldSpelling({ [CODE_AT]: CODE_BODY }, NOTHING_OVER, {
+    [CODE_AT]: CODE_BODY,
+    [IGNORED_AT]: CODE_BODY,
+    [PENDING_AT]: CODE_BODY,
+    [GITIGNORE_AT]: IGNORING,
+    [GIT_AT]: KEPT,
+  })
+
+  expect(pathsListed(world.root)).toEqual([GITIGNORE_AT, CODE_AT, PENDING_AT])
+})
+
+test("a listing names a file no commit holds that the repository does not ignore", () => {
+  const world = worldSpelling({ [CODE_AT]: CODE_BODY }, NOTHING_OVER, {
+    [CODE_AT]: CODE_BODY,
+    [OTHER_AT]: OTHER_BODY,
+    [GITIGNORE_AT]: IGNORING,
+    [GIT_AT]: KEPT,
+  })
+
+  expect(pathsListed(world.root)).toEqual([GITIGNORE_AT, CODE_AT, OTHER_AT])
 })

@@ -20,15 +20,17 @@ const UNIGNORED = "--no-ignore"
 
 const PENDING = ".uncommitted."
 
+const TAKEN: readonly string[] = ["--null", "--no-config", "--hidden"]
+
 const SEARCHED: readonly string[] = [
   "--files-with-matches",
-  "--null",
-  "--no-config",
-  "--hidden",
+  ...TAKEN,
   "--fixed-strings",
   "--file",
   "-",
 ]
+
+const LISTED: readonly string[] = ["--files", ...TAKEN]
 
 const APART: readonly string[] = [".git", "node_modules", indexNamed()]
 
@@ -51,16 +53,23 @@ export function foundIn(out: string, code: number, err: string, root: string): r
   return found.map((one) => relative(root, one))
 }
 
-function ranOver(
+function ranWith(
   root: string,
-  asked: readonly string[],
+  taking: readonly string[],
   kinds: readonly string[],
-  said: readonly string[]
+  fed: Uint8Array | null
 ): readonly string[] {
-  const done = ran([rgPath, ...SEARCHED, ...said, ...globsFor(kinds), root], {
-    stdin: BYTES.encode(`${asked.join(LINED)}${LINED}`),
-  })
+  const asked = fed === null ? {} : { stdin: fed }
+  const done = ran([rgPath, ...taking, ...globsFor(kinds), root], asked)
   return foundIn(done.out, done.code, done.err, root)
+}
+
+function bothWays(run: (said: readonly string[]) => readonly string[]): readonly string[] {
+  const found = new Set(run([]))
+  for (const path of run([UNIGNORED])) {
+    if (path.includes(PENDING)) found.add(path)
+  }
+  return [...found]
 }
 
 export function pathsSearched(
@@ -69,11 +78,12 @@ export function pathsSearched(
   kinds: readonly string[]
 ): readonly string[] {
   if (asked.length === 0) return []
-  const found = new Set(ranOver(root, asked, kinds, []))
-  for (const path of ranOver(root, asked, kinds, [UNIGNORED])) {
-    if (path.includes(PENDING)) found.add(path)
-  }
-  return [...found]
+  const fed = BYTES.encode(`${asked.join(LINED)}${LINED}`)
+  return bothWays((said) => ranWith(root, [...SEARCHED, ...said], kinds, fed))
+}
+
+export function pathsListed(root: string): readonly string[] {
+  return bothWays((said) => ranWith(root, [...LISTED, ...said], EVERY_KIND, null)).toSorted()
 }
 
 function overlaid(over: Answer, found: readonly string[]): readonly string[] {
