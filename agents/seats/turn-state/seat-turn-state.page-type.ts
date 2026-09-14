@@ -5,7 +5,6 @@ export const seatTurnState = {
   type: "page-type",
   slug: "seat-turn-state",
   definition: "what a seat is doing about its turn, and the color that is drawn in",
-  pluralSlug: "seat-turn-states",
   extends: ["page-type/domain"],
   parts: [
     "relation-property/turn-state-color",
