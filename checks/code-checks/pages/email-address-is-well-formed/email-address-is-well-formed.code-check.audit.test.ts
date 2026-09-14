@@ -9,6 +9,7 @@ import {
   put,
   typed,
 } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+import { valueAlsoFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
@@ -27,6 +28,7 @@ afterAll(scratch.sweep)
 function rooted(): string {
   const root = scratch.rootFor("akasha-address-audit-")
   founded(root)
+  typed(root, "page-type", "page")
   typed(root, "domain", "page")
   typed(root, "page-property", "domain")
   typed(root, ADDRESS, "page-property")
@@ -35,9 +37,8 @@ function rooted(): string {
   return root
 }
 
-function bodyFor(slug: string, stated: Record<string, unknown>): string {
-  const held = { id: ONE, pageTypeSlug: HELD, slug, ...stated }
-  return `export const one = ${JSON.stringify(held)}\n`
+function heldFor(slug: string, stated: Record<string, unknown>): Record<string, unknown> {
+  return { id: ONE, pageTypeSlug: HELD, slug, ...stated }
 }
 
 function holding(
@@ -47,9 +48,12 @@ function holding(
   filed = true
 ): string {
   const at = pathFor(HELD, slug)
+  const value = heldFor(slug, stated)
   filing(root, HELD, slug, ONE)
-  put(root, at, bytesOf(bodyFor(slug, stated)))
-  if (filed) claiming(root, at, at, ONE)
+  put(root, at, bytesOf(`export const one = ${JSON.stringify(value)}\n`))
+  if (!filed) return at
+  claiming(root, at, at, ONE)
+  valueAlsoFiled(root, HELD, [{ path: at, value }])
   return at
 }
 
