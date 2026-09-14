@@ -13,7 +13,7 @@ import { MultiRelationPropertyBadge } from "akasha/pages/ui/components/modules/m
 import { MultiSelectPropertyBadge } from "akasha/pages/ui/components/modules/multi-select-property-badge/multi-select-property-badge.module.code.tsx"
 
 import { PathSelectPropertyBadge } from "akasha/pages/ui/components/modules/path-select-property-badge/path-select-property-badge.module.code.tsx"
-import { ProgressPropertyBadge } from "akasha/pages/ui/components/modules/progress-property-badge/progress-property-badge.module.code.tsx"
+
 import type { PropertyBadgeProps } from "akasha/pages/ui/components/modules/property-badge/property-badge.module.code.tsx"
 import { RelationPropertyBadge } from "akasha/pages/ui/components/modules/relation-property-badge/relation-property-badge.module.code.tsx"
 import { RichDocumentPropertyBadge } from "akasha/pages/ui/components/modules/rich-document-property-badge/rich-document-property-badge.module.code.tsx"
@@ -45,7 +45,7 @@ export const PROPERTY_BADGE_REGISTRY: Partial<
   aggregate: AggregatePropertyBadge,
   formula: FormulaPropertyBadge,
   rrule: RrulePropertyBadge,
-  progress: ProgressPropertyBadge,
+
   "rich-document": RichDocumentPropertyBadge,
   "action-button": ActionButtonPropertyBadge,
 }

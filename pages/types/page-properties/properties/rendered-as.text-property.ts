@@ -17,19 +17,6 @@ export const renderedAs = {
       invariantKind: "departure",
       statement: "A name here is a type a screen already draws.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "An entry shape drawn as progress counts from the fields ending in current and total.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An entry shape drawn as progress labels each line by that line's one text field.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An entry shape drawn as progress orders its lines by display-order.",
-    },
   ],
   types: "ts",
 } as const satisfies TextProperty
