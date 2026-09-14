@@ -11,6 +11,6 @@ export const codePaths = {
     "module/folder-spelling",
     "module/module-directory",
     "module/path-runs",
-    "module/script-paths",
+    "test-fixture/script-paths",
   ],
 } as const satisfies Domain

@@ -1,8 +1,8 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { TestFixture } from "akasha/testing-system/test-fixtures/test-fixture.page-type.types.ts"
 
 export const scriptPaths = {
   id: "01a08ee1-df5c-739b-aaae-9c94d47a27ee",
-  type: "module",
+  type: "test-fixture",
   slug: "script-paths",
   definition: "the paths a composed script names under the checkout root",
   code: "ts",
@@ -50,4 +50,4 @@ export const scriptPaths = {
       statement: "Whether a name reaches a file that is there is not judged here.",
     },
   ],
-} as const satisfies Module
+} as const satisfies TestFixture
