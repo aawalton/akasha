@@ -16,7 +16,7 @@ export const astraIndexCleanup = {
     {
       statement: "Alan holds the listing index's structure correct.",
       workingMemory:
-        "The path-reaching check and that check's audit are the last readers of `everyPath`. `claimingIn` is out of the index's code, and the rule index no longer reads the listing. Git does not hold this index, so what is left is the `everyPath` member, the `listedOf` writing in indexing and settling, the page, and twenty-six fixtures filing pages into it. `shadow.listed` cannot pin to `change.base`, which keeps `folder-grouping` reaching the checkout; `git ls-tree` answers a pinned tree in 0.17s.\n",
+        "`3e6c66a73a2` swapped `listedByPath` for `claimantOf` in `file-has-its-page`, so that check asks whether a name spells a page type rather than whether a page claims the path, and it has been red since. The listing is the only answer to which paths the pages claim, so removing it waits on what restoring the check costs. Twenty-three commits took the listing out of the test worlds; the four helpers in `index-reading.module.test-fixtures.ts` remain, and `path.jsonl` holds 127,359 paths.\n",
     },
     {
       statement: "A file property declares one extension.",
