@@ -80,5 +80,26 @@ export const workloadApplying = {
       statement:
         "The manifests are emitted from the tree pinned at the commit and written to the checkout.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A deploy places every secret its manifests demand before the workload is applied.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A demand no secret page answers is reported rather than refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A secret is read from the checkout rather than from the pinned tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refused placing is answered as the cluster's fault with the report so far.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A dry run places no secret.",
+    },
   ],
 } as const satisfies Module
