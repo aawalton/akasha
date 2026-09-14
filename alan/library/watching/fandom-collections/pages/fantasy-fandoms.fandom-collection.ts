@@ -9,6 +9,6 @@ export const fantasyFandoms = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unit: "words",
+  unit: "unit/words",
   status: "not-applicable",
 } as const satisfies FandomCollection
