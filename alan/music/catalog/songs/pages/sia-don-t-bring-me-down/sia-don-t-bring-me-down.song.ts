@@ -5,7 +5,7 @@ export const siaDonTBringMeDown = {
   type: "song",
   slug: "sia-don-t-bring-me-down",
   title: "Don’t Bring Me Down",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

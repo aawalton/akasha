@@ -5,7 +5,7 @@ export const taylorSwiftSadBeautifulTragic = {
   type: "song",
   slug: "taylor-swift-sad-beautiful-tragic",
   title: "Sad Beautiful Tragic",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

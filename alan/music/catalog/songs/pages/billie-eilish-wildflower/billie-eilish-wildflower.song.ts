@@ -5,7 +5,7 @@ export const billieEilishWildflower = {
   type: "song",
   slug: "billie-eilish-wildflower",
   title: "WILDFLOWER",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

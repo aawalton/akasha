@@ -5,7 +5,7 @@ export const taylorSwiftStyle = {
   type: "song",
   slug: "taylor-swift-style",
   title: "Style",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

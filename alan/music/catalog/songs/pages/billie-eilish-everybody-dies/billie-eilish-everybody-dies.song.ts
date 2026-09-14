@@ -5,7 +5,7 @@ export const billieEilishEverybodyDies = {
   type: "song",
   slug: "billie-eilish-everybody-dies",
   title: "Everybody Dies",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

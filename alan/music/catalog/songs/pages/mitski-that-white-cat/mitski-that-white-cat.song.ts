@@ -5,7 +5,7 @@ export const mitskiThatWhiteCat = {
   type: "song",
   slug: "mitski-that-white-cat",
   title: "That White Cat",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

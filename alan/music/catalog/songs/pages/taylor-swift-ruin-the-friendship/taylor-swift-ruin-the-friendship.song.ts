@@ -5,7 +5,7 @@ export const taylorSwiftRuinTheFriendship = {
   type: "song",
   slug: "taylor-swift-ruin-the-friendship",
   title: "Ruin the Friendship",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

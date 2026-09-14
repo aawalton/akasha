@@ -5,7 +5,7 @@ export const taylorSwiftNewYearSDay = {
   type: "song",
   slug: "taylor-swift-new-year-s-day",
   title: "New Year’s Day",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

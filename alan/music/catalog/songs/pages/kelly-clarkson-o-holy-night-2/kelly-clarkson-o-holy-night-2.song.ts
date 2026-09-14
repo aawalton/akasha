@@ -5,7 +5,7 @@ export const kellyClarksonOHolyNight2 = {
   type: "song",
   slug: "kelly-clarkson-o-holy-night-2",
   title: "O Holy Night",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

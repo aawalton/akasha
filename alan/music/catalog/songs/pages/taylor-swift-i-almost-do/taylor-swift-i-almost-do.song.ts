@@ -5,7 +5,7 @@ export const taylorSwiftIAlmostDo = {
   type: "song",
   slug: "taylor-swift-i-almost-do",
   title: "I Almost Do",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

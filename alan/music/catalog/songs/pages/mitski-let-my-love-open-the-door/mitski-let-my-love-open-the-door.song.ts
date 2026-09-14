@@ -5,7 +5,7 @@ export const mitskiLetMyLoveOpenTheDoor = {
   type: "song",
   slug: "mitski-let-my-love-open-the-door",
   title: "Let My Love Open the Door",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

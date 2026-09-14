@@ -5,7 +5,7 @@ export const mitskiDeadWomen = {
   type: "song",
   slug: "mitski-dead-women",
   title: "Dead Women",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

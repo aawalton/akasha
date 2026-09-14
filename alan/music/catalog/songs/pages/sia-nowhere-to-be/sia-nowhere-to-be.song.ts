@@ -5,7 +5,7 @@ export const siaNowhereToBe = {
   type: "song",
   slug: "sia-nowhere-to-be",
   title: "Nowhere to Be",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

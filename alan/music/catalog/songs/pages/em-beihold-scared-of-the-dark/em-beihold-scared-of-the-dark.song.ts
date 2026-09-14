@@ -5,7 +5,7 @@ export const emBeiholdScaredOfTheDark = {
   type: "song",
   slug: "em-beihold-scared-of-the-dark",
   title: "Scared of the Dark",
-  artist: "em-beihold",
+  artist: "artist/em-beihold",
   externalIdentity: [
     {
       source: "musicbrainz",

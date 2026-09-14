@@ -5,7 +5,7 @@ export const mitskiWashingMachineHeart = {
   type: "song",
   slug: "mitski-washing-machine-heart",
   title: "Washing Machine Heart",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const billieEilishVideoGames = {
   type: "song",
   slug: "billie-eilish-video-games",
   title: "Video Games",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

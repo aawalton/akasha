@@ -5,7 +5,7 @@ export const kellyClarksonTopOfTheWorld = {
   type: "song",
   slug: "kelly-clarkson-top-of-the-world",
   title: "Top of the World",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

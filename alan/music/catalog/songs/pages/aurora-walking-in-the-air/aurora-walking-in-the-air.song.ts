@@ -5,7 +5,7 @@ export const auroraWalkingInTheAir = {
   type: "song",
   slug: "aurora-walking-in-the-air",
   title: "Walking in the Air",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

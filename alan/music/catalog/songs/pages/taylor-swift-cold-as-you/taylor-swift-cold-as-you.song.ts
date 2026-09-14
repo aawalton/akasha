@@ -5,7 +5,7 @@ export const taylorSwiftColdAsYou = {
   type: "song",
   slug: "taylor-swift-cold-as-you",
   title: "Cold as You",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

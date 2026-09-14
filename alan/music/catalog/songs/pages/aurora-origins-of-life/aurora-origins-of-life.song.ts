@@ -5,7 +5,7 @@ export const auroraOriginsOfLife = {
   type: "song",
   slug: "aurora-origins-of-life",
   title: "Origins of Life",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

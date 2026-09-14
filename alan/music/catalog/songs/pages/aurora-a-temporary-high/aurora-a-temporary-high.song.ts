@@ -5,7 +5,7 @@ export const auroraATemporaryHigh = {
   type: "song",
   slug: "aurora-a-temporary-high",
   title: "A Temporary High",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

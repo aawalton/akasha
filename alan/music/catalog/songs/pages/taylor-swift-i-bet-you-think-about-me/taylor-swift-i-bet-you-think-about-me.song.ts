@@ -5,7 +5,7 @@ export const taylorSwiftIBetYouThinkAboutMe = {
   type: "song",
   slug: "taylor-swift-i-bet-you-think-about-me",
   title: "I Bet You Think About Me",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

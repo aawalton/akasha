@@ -5,7 +5,7 @@ export const arianaGrandeTattooedHeart = {
   type: "song",
   slug: "ariana-grande-tattooed-heart",
   title: "Tattooed Heart",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

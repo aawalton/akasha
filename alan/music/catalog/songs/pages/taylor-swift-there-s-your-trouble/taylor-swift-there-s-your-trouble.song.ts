@@ -5,7 +5,7 @@ export const taylorSwiftThereSYourTrouble = {
   type: "song",
   slug: "taylor-swift-there-s-your-trouble",
   title: "There’s Your Trouble",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

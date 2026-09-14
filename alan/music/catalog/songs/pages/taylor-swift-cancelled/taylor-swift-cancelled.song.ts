@@ -5,7 +5,7 @@ export const taylorSwiftCancelled = {
   type: "song",
   slug: "taylor-swift-cancelled",
   title: "CANCELLED!",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftTimeless = {
   type: "song",
   slug: "taylor-swift-timeless",
   title: "Timeless",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

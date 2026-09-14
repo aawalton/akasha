@@ -5,7 +5,7 @@ export const emBeiholdUnicorn = {
   type: "song",
   slug: "em-beihold-unicorn",
   title: "Unicorn",
-  artist: "em-beihold",
+  artist: "artist/em-beihold",
   externalIdentity: [
     {
       source: "musicbrainz",

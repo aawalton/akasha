@@ -5,7 +5,7 @@ export const zaraLarssonIfIWasYourGirl = {
   type: "song",
   slug: "zara-larsson-if-i-was-your-girl",
   title: "If I Was Your Girl",
-  artist: "zara-larsson",
+  artist: "artist/zara-larsson",
   externalIdentity: [
     {
       source: "musicbrainz",

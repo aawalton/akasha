@@ -5,7 +5,7 @@ export const kellyClarksonInTheBasement = {
   type: "song",
   slug: "kelly-clarkson-in-the-basement",
   title: "In the Basement",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

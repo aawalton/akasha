@@ -5,7 +5,7 @@ export const zaraLarssonWithEveryHeartbeat = {
   type: "song",
   slug: "zara-larsson-with-every-heartbeat",
   title: "With Every Heartbeat",
-  artist: "zara-larsson",
+  artist: "artist/zara-larsson",
   externalIdentity: [
     {
       source: "musicbrainz",

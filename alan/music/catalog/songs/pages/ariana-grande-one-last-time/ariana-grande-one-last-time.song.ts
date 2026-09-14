@@ -5,7 +5,7 @@ export const arianaGrandeOneLastTime = {
   type: "song",
   slug: "ariana-grande-one-last-time",
   title: "One Last Time",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

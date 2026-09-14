@@ -5,7 +5,7 @@ export const arianaGrandeFaith = {
   type: "song",
   slug: "ariana-grande-faith",
   title: "Faith",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftAPlaceInThisWorld = {
   type: "song",
   slug: "taylor-swift-a-place-in-this-world",
   title: "A Place in This World",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

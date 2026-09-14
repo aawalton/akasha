@@ -5,7 +5,7 @@ export const arianaGrandeSantaTellMeNaughtyVersion = {
   type: "song",
   slug: "ariana-grande-santa-tell-me-naughty-version",
   title: "Santa Tell Me (naughty version)",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

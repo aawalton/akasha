@@ -5,7 +5,7 @@ export const mitskiOnceMoreToSeeYou = {
   type: "song",
   slug: "mitski-once-more-to-see-you",
   title: "Once More to See You",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

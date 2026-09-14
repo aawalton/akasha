@@ -5,7 +5,7 @@ export const arianaGrandeWeCanTBeFriendsWaitForYourLove = {
   type: "song",
   slug: "ariana-grande-we-can-t-be-friends-wait-for-your-love",
   title: "we can’t be friends (wait for your love)",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

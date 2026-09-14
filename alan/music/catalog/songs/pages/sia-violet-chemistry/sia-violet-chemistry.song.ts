@@ -5,7 +5,7 @@ export const siaVioletChemistry = {
   type: "song",
   slug: "sia-violet-chemistry",
   title: "Violet Chemistry",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

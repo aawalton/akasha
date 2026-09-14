@@ -5,7 +5,7 @@ export const imagineDragonsDancingInTheDark = {
   type: "song",
   slug: "imagine-dragons-dancing-in-the-dark",
   title: "Dancing in the Dark",
-  artist: "imagine-dragons",
+  artist: "artist/imagine-dragons",
   externalIdentity: [
     {
       source: "musicbrainz",

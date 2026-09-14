@@ -5,7 +5,7 @@ export const lilithMaxAmIFree = {
   type: "song",
   slug: "lilith-max-am-i-free",
   title: "Am I Free",
-  artist: "lilith-max",
+  artist: "artist/lilith-max",
   externalIdentity: [
     {
       source: "musicbrainz",

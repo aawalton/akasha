@@ -5,7 +5,7 @@ export const lilithMaxBirdsOfAFeather = {
   type: "song",
   slug: "lilith-max-birds-of-a-feather",
   title: "Birds of a Feather",
-  artist: "lilith-max",
+  artist: "artist/lilith-max",
   externalIdentity: [
     {
       source: "musicbrainz",

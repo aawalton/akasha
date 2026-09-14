@@ -5,7 +5,7 @@ export const siaWhereIBelong = {
   type: "song",
   slug: "sia-where-i-belong",
   title: "Where I Belong",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

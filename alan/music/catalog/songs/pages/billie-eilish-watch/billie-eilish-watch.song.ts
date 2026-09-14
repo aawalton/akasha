@@ -5,7 +5,7 @@ export const billieEilishWatch = {
   type: "song",
   slug: "billie-eilish-watch",
   title: "watch",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

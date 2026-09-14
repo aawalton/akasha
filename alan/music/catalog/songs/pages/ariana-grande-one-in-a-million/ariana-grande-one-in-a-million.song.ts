@@ -5,7 +5,7 @@ export const arianaGrandeOneInAMillion = {
   type: "song",
   slug: "ariana-grande-one-in-a-million",
   title: "One in a Million",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

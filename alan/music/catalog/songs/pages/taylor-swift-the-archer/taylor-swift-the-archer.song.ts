@@ -5,7 +5,7 @@ export const taylorSwiftTheArcher = {
   type: "song",
   slug: "taylor-swift-the-archer",
   title: "The Archer",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

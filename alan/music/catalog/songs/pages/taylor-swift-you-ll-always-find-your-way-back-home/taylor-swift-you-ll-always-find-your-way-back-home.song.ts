@@ -5,7 +5,7 @@ export const taylorSwiftYouLlAlwaysFindYourWayBackHome = {
   type: "song",
   slug: "taylor-swift-you-ll-always-find-your-way-back-home",
   title: "You’ll Always Find Your Way Back Home",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

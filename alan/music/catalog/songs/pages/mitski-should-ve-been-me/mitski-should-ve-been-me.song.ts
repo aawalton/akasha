@@ -5,7 +5,7 @@ export const mitskiShouldVeBeenMe = {
   type: "song",
   slug: "mitski-should-ve-been-me",
   title: "Should’ve Been Me",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

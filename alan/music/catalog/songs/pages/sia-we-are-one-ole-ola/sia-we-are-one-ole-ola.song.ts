@@ -5,7 +5,7 @@ export const siaWeAreOneOleOla = {
   type: "song",
   slug: "sia-we-are-one-ole-ola",
   title: "We Are One (Ole Ola)",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

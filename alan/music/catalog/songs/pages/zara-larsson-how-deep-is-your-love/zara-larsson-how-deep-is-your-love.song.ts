@@ -5,7 +5,7 @@ export const zaraLarssonHowDeepIsYourLove = {
   type: "song",
   slug: "zara-larsson-how-deep-is-your-love",
   title: "How Deep Is Your Love",
-  artist: "zara-larsson",
+  artist: "artist/zara-larsson",
   externalIdentity: [
     {
       source: "musicbrainz",

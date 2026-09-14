@@ -5,7 +5,7 @@ export const mitskiLastWordsOfAShootingStar = {
   type: "song",
   slug: "mitski-last-words-of-a-shooting-star",
   title: "Last Words of a Shooting Star",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

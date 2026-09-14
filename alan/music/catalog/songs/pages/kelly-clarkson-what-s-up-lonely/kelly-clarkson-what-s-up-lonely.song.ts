@@ -5,7 +5,7 @@ export const kellyClarksonWhatSUpLonely = {
   type: "song",
   slug: "kelly-clarkson-what-s-up-lonely",
   title: "What’s Up Lonely",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

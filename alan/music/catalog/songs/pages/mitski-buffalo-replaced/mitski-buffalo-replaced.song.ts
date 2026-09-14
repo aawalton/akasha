@@ -5,7 +5,7 @@ export const mitskiBuffaloReplaced = {
   type: "song",
   slug: "mitski-buffalo-replaced",
   title: "Buffalo Replaced",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

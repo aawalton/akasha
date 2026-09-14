@@ -5,7 +5,7 @@ export const kellyClarksonFakePlasticTrees = {
   type: "song",
   slug: "kelly-clarkson-fake-plastic-trees",
   title: "Fake Plastic Trees",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

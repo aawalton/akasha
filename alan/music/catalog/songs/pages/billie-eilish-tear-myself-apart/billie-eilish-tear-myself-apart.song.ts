@@ -5,7 +5,7 @@ export const billieEilishTearMyselfApart = {
   type: "song",
   slug: "billie-eilish-tear-myself-apart",
   title: "Tear Myself Apart",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

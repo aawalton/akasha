@@ -5,7 +5,7 @@ export const taylorSwiftFortnight = {
   type: "song",
   slug: "taylor-swift-fortnight",
   title: "Fortnight",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

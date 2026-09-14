@@ -5,7 +5,7 @@ export const jessicaBaioSaveALittleLove = {
   type: "song",
   slug: "jessica-baio-save-a-little-love",
   title: "Save a Little Love",
-  artist: "jessica-baio",
+  artist: "artist/jessica-baio",
   externalIdentity: [
     {
       source: "musicbrainz",

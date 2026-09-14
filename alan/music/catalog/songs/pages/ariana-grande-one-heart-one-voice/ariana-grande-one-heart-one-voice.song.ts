@@ -5,7 +5,7 @@ export const arianaGrandeOneHeartOneVoice = {
   type: "song",
   slug: "ariana-grande-one-heart-one-voice",
   title: "One Heart, One Voice",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

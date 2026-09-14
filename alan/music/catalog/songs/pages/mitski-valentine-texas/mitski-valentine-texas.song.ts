@@ -5,7 +5,7 @@ export const mitskiValentineTexas = {
   type: "song",
   slug: "mitski-valentine-texas",
   title: "Valentine, Texas",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftLuckyYou = {
   type: "song",
   slug: "taylor-swift-lucky-you",
   title: "Lucky You",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const billieEilishChihiro = {
   type: "song",
   slug: "billie-eilish-chihiro",
   title: "CHIHIRO",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

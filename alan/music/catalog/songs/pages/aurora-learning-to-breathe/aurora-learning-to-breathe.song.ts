@@ -5,7 +5,7 @@ export const auroraLearningToBreathe = {
   type: "song",
   slug: "aurora-learning-to-breathe",
   title: "Learning to Breathe",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

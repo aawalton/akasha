@@ -5,7 +5,7 @@ export const billieEilishHalleySComet = {
   type: "song",
   slug: "billie-eilish-halley-s-comet",
   title: "Halley’s Comet",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

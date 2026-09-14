@@ -5,7 +5,7 @@ export const imagineDragonsHeartUponMySleeve = {
   type: "song",
   slug: "imagine-dragons-heart-upon-my-sleeve",
   title: "Heart Upon My Sleeve",
-  artist: "imagine-dragons",
+  artist: "artist/imagine-dragons",
   externalIdentity: [
     {
       source: "musicbrainz",

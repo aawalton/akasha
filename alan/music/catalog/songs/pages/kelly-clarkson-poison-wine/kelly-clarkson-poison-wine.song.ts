@@ -5,7 +5,7 @@ export const kellyClarksonPoisonWine = {
   type: "song",
   slug: "kelly-clarkson-poison-wine",
   title: "Poison & Wine",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

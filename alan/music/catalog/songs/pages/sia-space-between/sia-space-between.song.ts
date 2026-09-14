@@ -5,7 +5,7 @@ export const siaSpaceBetween = {
   type: "song",
   slug: "sia-space-between",
   title: "Space Between",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

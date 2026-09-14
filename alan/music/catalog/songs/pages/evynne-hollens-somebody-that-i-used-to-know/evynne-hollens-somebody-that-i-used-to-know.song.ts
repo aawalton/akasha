@@ -5,7 +5,7 @@ export const evynneHollensSomebodyThatIUsedToKnow = {
   type: "song",
   slug: "evynne-hollens-somebody-that-i-used-to-know",
   title: "Somebody That I Used to Know",
-  artist: "evynne-hollens",
+  artist: "artist/evynne-hollens",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftTellMeWhy = {
   type: "song",
   slug: "taylor-swift-tell-me-why",
   title: "Tell Me Why",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

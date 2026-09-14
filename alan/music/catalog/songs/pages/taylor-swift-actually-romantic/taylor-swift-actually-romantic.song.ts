@@ -5,7 +5,7 @@ export const taylorSwiftActuallyRomantic = {
   type: "song",
   slug: "taylor-swift-actually-romantic",
   title: "Actually Romantic",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

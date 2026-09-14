@@ -5,7 +5,7 @@ export const taylorSwiftWildestDreams = {
   type: "song",
   slug: "taylor-swift-wildest-dreams",
   title: "Wildest Dreams",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

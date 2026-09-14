@@ -5,7 +5,7 @@ export const taylorSwiftNoBodyNoCrime = {
   type: "song",
   slug: "taylor-swift-no-body-no-crime",
   title: "no body, no crime",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const billieEilishSixFeetUnder = {
   type: "song",
   slug: "billie-eilish-six-feet-under",
   title: "Six Feet Under",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

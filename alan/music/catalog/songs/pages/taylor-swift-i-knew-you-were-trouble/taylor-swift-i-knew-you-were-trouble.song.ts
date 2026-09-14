@@ -5,7 +5,7 @@ export const taylorSwiftIKnewYouWereTrouble = {
   type: "song",
   slug: "taylor-swift-i-knew-you-were-trouble",
   title: "I Knew You Were Trouble.",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const emBeiholdEggInTheBackseat = {
   type: "song",
   slug: "em-beihold-egg-in-the-backseat",
   title: "Egg in the Backseat",
-  artist: "em-beihold",
+  artist: "artist/em-beihold",
   externalIdentity: [
     {
       source: "musicbrainz",

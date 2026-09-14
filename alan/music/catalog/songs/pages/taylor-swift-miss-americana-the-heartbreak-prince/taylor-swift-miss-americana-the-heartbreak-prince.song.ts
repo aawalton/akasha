@@ -5,7 +5,7 @@ export const taylorSwiftMissAmericanaTheHeartbreakPrince = {
   type: "song",
   slug: "taylor-swift-miss-americana-the-heartbreak-prince",
   title: "Miss Americana & the Heartbreak Prince",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftTheLuckyOne = {
   type: "song",
   slug: "taylor-swift-the-lucky-one",
   title: "The Lucky One",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

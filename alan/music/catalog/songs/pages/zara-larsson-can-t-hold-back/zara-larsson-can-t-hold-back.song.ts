@@ -5,7 +5,7 @@ export const zaraLarssonCanTHoldBack = {
   type: "song",
   slug: "zara-larsson-can-t-hold-back",
   title: "Can’t Hold Back",
-  artist: "zara-larsson",
+  artist: "artist/zara-larsson",
   externalIdentity: [
     {
       source: "musicbrainz",

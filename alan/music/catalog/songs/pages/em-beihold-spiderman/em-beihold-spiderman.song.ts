@@ -5,7 +5,7 @@ export const emBeiholdSpiderman = {
   type: "song",
   slug: "em-beihold-spiderman",
   title: "Spiderman",
-  artist: "em-beihold",
+  artist: "artist/em-beihold",
   externalIdentity: [
     {
       source: "musicbrainz",

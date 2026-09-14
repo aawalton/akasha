@@ -5,7 +5,7 @@ export const imagineDragonsYoungDumbBroke = {
   type: "song",
   slug: "imagine-dragons-young-dumb-broke",
   title: "Young, Dumb & Broke",
-  artist: "imagine-dragons",
+  artist: "artist/imagine-dragons",
   externalIdentity: [
     {
       source: "musicbrainz",

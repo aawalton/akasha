@@ -5,7 +5,7 @@ export const kellyClarksonUnderTheMistletoe = {
   type: "song",
   slug: "kelly-clarkson-under-the-mistletoe",
   title: "Under the Mistletoe",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

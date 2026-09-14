@@ -5,7 +5,7 @@ export const auroraTheSeed = {
   type: "song",
   slug: "aurora-the-seed",
   title: "The Seed",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

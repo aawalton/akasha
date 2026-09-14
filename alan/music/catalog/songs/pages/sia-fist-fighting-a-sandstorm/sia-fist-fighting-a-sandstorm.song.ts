@@ -5,7 +5,7 @@ export const siaFistFightingASandstorm = {
   type: "song",
   slug: "sia-fist-fighting-a-sandstorm",
   title: "Fist Fighting a Sandstorm",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

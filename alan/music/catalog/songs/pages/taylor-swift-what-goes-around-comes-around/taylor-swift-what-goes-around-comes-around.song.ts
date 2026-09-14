@@ -5,7 +5,7 @@ export const taylorSwiftWhatGoesAroundComesAround = {
   type: "song",
   slug: "taylor-swift-what-goes-around-comes-around",
   title: "What Goes Around... ...Comes Around",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftIHeart = {
   type: "song",
   slug: "taylor-swift-i-heart",
   title: "I Heart ?",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

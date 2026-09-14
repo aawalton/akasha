@@ -5,7 +5,7 @@ export const mitskiBugLikeAnAngel = {
   type: "song",
   slug: "mitski-bug-like-an-angel",
   title: "Bug Like an Angel",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

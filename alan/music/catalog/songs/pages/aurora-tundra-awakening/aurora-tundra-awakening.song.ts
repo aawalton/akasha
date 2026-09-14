@@ -5,7 +5,7 @@ export const auroraTundraAwakening = {
   type: "song",
   slug: "aurora-tundra-awakening",
   title: "Tundra Awakening",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

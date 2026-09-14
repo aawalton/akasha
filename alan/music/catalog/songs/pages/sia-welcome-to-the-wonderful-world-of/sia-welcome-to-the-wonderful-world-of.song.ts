@@ -5,7 +5,7 @@ export const siaWelcomeToTheWonderfulWorldOf = {
   type: "song",
   slug: "sia-welcome-to-the-wonderful-world-of",
   title: "Welcome to the Wonderful World Of",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

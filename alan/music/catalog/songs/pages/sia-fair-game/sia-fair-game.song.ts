@@ -5,7 +5,7 @@ export const siaFairGame = {
   type: "song",
   slug: "sia-fair-game",
   title: "Fair Game",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

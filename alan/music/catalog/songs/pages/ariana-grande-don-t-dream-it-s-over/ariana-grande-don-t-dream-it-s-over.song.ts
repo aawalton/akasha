@@ -5,7 +5,7 @@ export const arianaGrandeDonTDreamItSOver = {
   type: "song",
   slug: "ariana-grande-don-t-dream-it-s-over",
   title: "Don’t Dream It’s Over",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

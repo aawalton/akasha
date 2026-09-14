@@ -5,7 +5,7 @@ export const taylorSwiftDearJohn = {
   type: "song",
   slug: "taylor-swift-dear-john",
   title: "Dear John",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

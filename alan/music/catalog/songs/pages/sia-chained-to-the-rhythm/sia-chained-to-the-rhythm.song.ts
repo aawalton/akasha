@@ -5,7 +5,7 @@ export const siaChainedToTheRhythm = {
   type: "song",
   slug: "sia-chained-to-the-rhythm",
   title: "Chained to the Rhythm",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

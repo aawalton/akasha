@@ -5,7 +5,7 @@ export const taylorSwiftIThinkHeKnows = {
   type: "song",
   slug: "taylor-swift-i-think-he-knows",
   title: "I Think He Knows",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

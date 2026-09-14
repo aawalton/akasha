@@ -5,7 +5,7 @@ export const kellyClarksonCanIHaveAKiss = {
   type: "song",
   slug: "kelly-clarkson-can-i-have-a-kiss",
   title: "Can I Have a Kiss",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

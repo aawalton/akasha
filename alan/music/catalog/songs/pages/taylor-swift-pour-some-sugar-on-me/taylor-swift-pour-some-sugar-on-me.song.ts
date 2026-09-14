@@ -5,7 +5,7 @@ export const taylorSwiftPourSomeSugarOnMe = {
   type: "song",
   slug: "taylor-swift-pour-some-sugar-on-me",
   title: "Pour Some Sugar on Me",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

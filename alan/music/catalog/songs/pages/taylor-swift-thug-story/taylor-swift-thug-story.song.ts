@@ -5,7 +5,7 @@ export const taylorSwiftThugStory = {
   type: "song",
   slug: "taylor-swift-thug-story",
   title: "Thug Story",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

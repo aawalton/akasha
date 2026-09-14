@@ -5,7 +5,7 @@ export const taylorSwiftChampagneProblems = {
   type: "song",
   slug: "taylor-swift-champagne-problems",
   title: "champagne problems",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

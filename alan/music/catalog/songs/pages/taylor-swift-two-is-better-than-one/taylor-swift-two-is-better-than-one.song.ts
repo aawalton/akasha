@@ -5,7 +5,7 @@ export const taylorSwiftTwoIsBetterThanOne = {
   type: "song",
   slug: "taylor-swift-two-is-better-than-one",
   title: "Two Is Better Than One",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

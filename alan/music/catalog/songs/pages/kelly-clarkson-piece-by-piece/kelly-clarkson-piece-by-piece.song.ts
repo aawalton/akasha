@@ -5,7 +5,7 @@ export const kellyClarksonPieceByPiece = {
   type: "song",
   slug: "kelly-clarkson-piece-by-piece",
   title: "Piece by Piece",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const auroraWavelengths = {
   type: "song",
   slug: "aurora-wavelengths",
   title: "WAVELENGTHS",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

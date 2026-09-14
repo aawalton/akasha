@@ -5,7 +5,7 @@ export const aurora3MilesHigh = {
   type: "song",
   slug: "aurora-3-miles-high",
   title: "3 Miles High",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

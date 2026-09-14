@@ -5,7 +5,7 @@ export const billieEilishLastNightOnEarth = {
   type: "song",
   slug: "billie-eilish-last-night-on-earth",
   title: "Last Night on Earth",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

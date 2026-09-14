@@ -5,7 +5,7 @@ export const jessicaBaioMetaphor = {
   type: "song",
   slug: "jessica-baio-metaphor",
   title: "metaphor",
-  artist: "jessica-baio",
+  artist: "artist/jessica-baio",
   externalIdentity: [
     {
       source: "musicbrainz",

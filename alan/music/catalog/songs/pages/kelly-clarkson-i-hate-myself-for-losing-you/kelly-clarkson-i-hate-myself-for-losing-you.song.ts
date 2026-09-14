@@ -5,7 +5,7 @@ export const kellyClarksonIHateMyselfForLosingYou = {
   type: "song",
   slug: "kelly-clarkson-i-hate-myself-for-losing-you",
   title: "I Hate Myself for Losing You",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

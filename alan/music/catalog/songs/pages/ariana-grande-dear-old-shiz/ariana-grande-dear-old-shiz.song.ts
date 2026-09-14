@@ -5,7 +5,7 @@ export const arianaGrandeDearOldShiz = {
   type: "song",
   slug: "ariana-grande-dear-old-shiz",
   title: "Dear Old Shiz",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

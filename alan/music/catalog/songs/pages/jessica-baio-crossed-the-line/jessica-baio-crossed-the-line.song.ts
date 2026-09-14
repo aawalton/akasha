@@ -5,7 +5,7 @@ export const jessicaBaioCrossedTheLine = {
   type: "song",
   slug: "jessica-baio-crossed-the-line",
   title: "crossed the line",
-  artist: "jessica-baio",
+  artist: "artist/jessica-baio",
   externalIdentity: [
     {
       source: "musicbrainz",

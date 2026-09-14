@@ -5,7 +5,7 @@ export const taylorSwiftTheBlackDog = {
   type: "song",
   slug: "taylor-swift-the-black-dog",
   title: "The Black Dog",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

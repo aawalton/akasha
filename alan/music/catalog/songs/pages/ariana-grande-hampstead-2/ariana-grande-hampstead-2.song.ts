@@ -5,7 +5,7 @@ export const arianaGrandeHampstead2 = {
   type: "song",
   slug: "ariana-grande-hampstead-2",
   title: "Hampstead",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

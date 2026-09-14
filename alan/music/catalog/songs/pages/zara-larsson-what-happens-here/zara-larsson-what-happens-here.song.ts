@@ -5,7 +5,7 @@ export const zaraLarssonWhatHappensHere = {
   type: "song",
   slug: "zara-larsson-what-happens-here",
   title: "What Happens Here",
-  artist: "zara-larsson",
+  artist: "artist/zara-larsson",
   externalIdentity: [
     {
       source: "musicbrainz",

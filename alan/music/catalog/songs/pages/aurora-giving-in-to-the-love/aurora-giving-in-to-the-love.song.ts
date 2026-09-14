@@ -5,7 +5,7 @@ export const auroraGivingInToTheLove = {
   type: "song",
   slug: "aurora-giving-in-to-the-love",
   title: "Giving In to the Love",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const mitskiStrawberryBlond = {
   type: "song",
   slug: "mitski-strawberry-blond",
   title: "Strawberry Blond",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

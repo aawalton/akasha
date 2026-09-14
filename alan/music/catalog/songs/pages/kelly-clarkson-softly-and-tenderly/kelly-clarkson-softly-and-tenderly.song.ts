@@ -5,7 +5,7 @@ export const kellyClarksonSoftlyAndTenderly = {
   type: "song",
   slug: "kelly-clarkson-softly-and-tenderly",
   title: "Softly and Tenderly",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

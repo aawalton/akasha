@@ -5,7 +5,7 @@ export const siaBlindedByLove = {
   type: "song",
   slug: "sia-blinded-by-love",
   title: "Blinded by Love",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

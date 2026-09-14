@@ -5,7 +5,7 @@ export const taylorSwiftTheJokerAndTheQueen = {
   type: "song",
   slug: "taylor-swift-the-joker-and-the-queen",
   title: "The Joker and the Queen",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

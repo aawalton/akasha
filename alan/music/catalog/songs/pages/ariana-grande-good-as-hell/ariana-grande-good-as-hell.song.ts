@@ -5,7 +5,7 @@ export const arianaGrandeGoodAsHell = {
   type: "song",
   slug: "ariana-grande-good-as-hell",
   title: "Good as Hell",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

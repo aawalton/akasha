@@ -5,7 +5,7 @@ export const billieEilishCallMeBack = {
   type: "song",
   slug: "billie-eilish-call-me-back",
   title: "Call Me Back",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

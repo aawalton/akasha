@@ -5,7 +5,7 @@ export const taylorSwiftSilentNight = {
   type: "song",
   slug: "taylor-swift-silent-night",
   title: "Silent Night",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

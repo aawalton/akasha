@@ -5,7 +5,7 @@ export const taylorSwiftThatSWhen = {
   type: "song",
   slug: "taylor-swift-that-s-when",
   title: "That’s When",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

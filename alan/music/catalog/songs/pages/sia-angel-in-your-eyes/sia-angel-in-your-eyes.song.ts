@@ -5,7 +5,7 @@ export const siaAngelInYourEyes = {
   type: "song",
   slug: "sia-angel-in-your-eyes",
   title: "Angel in Your Eyes",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

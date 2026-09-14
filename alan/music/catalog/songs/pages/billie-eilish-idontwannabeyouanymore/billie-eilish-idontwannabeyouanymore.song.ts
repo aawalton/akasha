@@ -5,7 +5,7 @@ export const billieEilishIdontwannabeyouanymore = {
   type: "song",
   slug: "billie-eilish-idontwannabeyouanymore",
   title: "idontwannabeyouanymore",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const jessicaBaioFerrari = {
   type: "song",
   slug: "jessica-baio-ferrari",
   title: "ferrari",
-  artist: "jessica-baio",
+  artist: "artist/jessica-baio",
   externalIdentity: [
     {
       source: "musicbrainz",

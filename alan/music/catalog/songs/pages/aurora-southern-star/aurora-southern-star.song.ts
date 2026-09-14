@@ -5,7 +5,7 @@ export const auroraSouthernStar = {
   type: "song",
   slug: "aurora-southern-star",
   title: "Southern Star",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

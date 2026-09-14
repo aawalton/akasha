@@ -5,7 +5,7 @@ export const taylorSwiftHysteria = {
   type: "song",
   slug: "taylor-swift-hysteria",
   title: "Hysteria",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

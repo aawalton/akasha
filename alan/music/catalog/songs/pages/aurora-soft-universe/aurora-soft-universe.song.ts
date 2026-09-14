@@ -5,7 +5,7 @@ export const auroraSoftUniverse = {
   type: "song",
   slug: "aurora-soft-universe",
   title: "Soft Universe",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

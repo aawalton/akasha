@@ -5,7 +5,7 @@ export const kellyClarksonFavoriteKindOfHigh = {
   type: "song",
   slug: "kelly-clarkson-favorite-kind-of-high",
   title: "favorite kind of high",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

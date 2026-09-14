@@ -5,7 +5,7 @@ export const arianaGrandeShutUp = {
   type: "song",
   slug: "ariana-grande-shut-up",
   title: "shut up",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

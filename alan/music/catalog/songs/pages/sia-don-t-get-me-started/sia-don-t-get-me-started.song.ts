@@ -5,7 +5,7 @@ export const siaDonTGetMeStarted = {
   type: "song",
   slug: "sia-don-t-get-me-started",
   title: "Don’t Get Me Started",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftWhoSAfraidOfLittleOldMe = {
   type: "song",
   slug: "taylor-swift-who-s-afraid-of-little-old-me",
   title: "Who’s Afraid of Little Old Me?",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

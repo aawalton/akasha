@@ -5,7 +5,7 @@ export const jessicaBaioBettingOnUs = {
   type: "song",
   slug: "jessica-baio-betting-on-us",
   title: "betting on us",
-  artist: "jessica-baio",
+  artist: "artist/jessica-baio",
   externalIdentity: [
     {
       source: "musicbrainz",

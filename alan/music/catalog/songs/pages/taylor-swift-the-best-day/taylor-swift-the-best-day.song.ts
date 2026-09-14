@@ -5,7 +5,7 @@ export const taylorSwiftTheBestDay = {
   type: "song",
   slug: "taylor-swift-the-best-day",
   title: "The Best Day",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

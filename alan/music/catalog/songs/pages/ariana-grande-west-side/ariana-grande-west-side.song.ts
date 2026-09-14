@@ -5,7 +5,7 @@ export const arianaGrandeWestSide = {
   type: "song",
   slug: "ariana-grande-west-side",
   title: "west side",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

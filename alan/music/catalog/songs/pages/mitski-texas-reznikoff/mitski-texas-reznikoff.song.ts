@@ -5,7 +5,7 @@ export const mitskiTexasReznikoff = {
   type: "song",
   slug: "mitski-texas-reznikoff",
   title: "Texas Reznikoff",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

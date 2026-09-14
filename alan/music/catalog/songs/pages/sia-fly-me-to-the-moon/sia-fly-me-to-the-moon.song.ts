@@ -5,7 +5,7 @@ export const siaFlyMeToTheMoon = {
   type: "song",
   slug: "sia-fly-me-to-the-moon",
   title: "Fly Me to the Moon",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const jessicaBaioAtLeast = {
   type: "song",
   slug: "jessica-baio-at-least",
   title: "at least",
-  artist: "jessica-baio",
+  artist: "artist/jessica-baio",
   externalIdentity: [
     {
       source: "musicbrainz",

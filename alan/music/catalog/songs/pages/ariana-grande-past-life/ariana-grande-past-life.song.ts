@@ -5,7 +5,7 @@ export const arianaGrandePastLife = {
   type: "song",
   slug: "ariana-grande-past-life",
   title: "past life",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

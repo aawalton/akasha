@@ -5,7 +5,7 @@ export const taylorSwiftTheLastGreatAmericanDynasty = {
   type: "song",
   slug: "taylor-swift-the-last-great-american-dynasty",
   title: "the last great american dynasty",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

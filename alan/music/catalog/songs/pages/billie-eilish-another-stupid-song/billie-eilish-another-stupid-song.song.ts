@@ -5,7 +5,7 @@ export const billieEilishAnotherStupidSong = {
   type: "song",
   slug: "billie-eilish-another-stupid-song",
   title: "another stupid song",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

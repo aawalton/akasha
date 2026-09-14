@@ -5,7 +5,7 @@ export const siaAngelByTheWings = {
   type: "song",
   slug: "sia-angel-by-the-wings",
   title: "Angel by the Wings",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

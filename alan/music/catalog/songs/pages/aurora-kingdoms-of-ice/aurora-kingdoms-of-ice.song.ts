@@ -5,7 +5,7 @@ export const auroraKingdomsOfIce = {
   type: "song",
   slug: "aurora-kingdoms-of-ice",
   title: "Kingdoms of Ice",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

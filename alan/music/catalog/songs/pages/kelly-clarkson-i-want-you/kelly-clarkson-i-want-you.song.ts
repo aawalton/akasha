@@ -5,7 +5,7 @@ export const kellyClarksonIWantYou = {
   type: "song",
   slug: "kelly-clarkson-i-want-you",
   title: "I Want You",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

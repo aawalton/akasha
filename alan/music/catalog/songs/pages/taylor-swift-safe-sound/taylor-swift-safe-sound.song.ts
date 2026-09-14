@@ -5,7 +5,7 @@ export const taylorSwiftSafeSound = {
   type: "song",
   slug: "taylor-swift-safe-sound",
   title: "Safe & Sound",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const emBeiholdNumbLittleBugPianoVersion = {
   type: "song",
   slug: "em-beihold-numb-little-bug-piano-version",
   title: "Numb Little Bug (Piano Version)",
-  artist: "em-beihold",
+  artist: "artist/em-beihold",
   externalIdentity: [
     {
       source: "musicbrainz",

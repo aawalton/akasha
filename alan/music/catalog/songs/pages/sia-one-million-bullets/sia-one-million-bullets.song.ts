@@ -5,7 +5,7 @@ export const siaOneMillionBullets = {
   type: "song",
   slug: "sia-one-million-bullets",
   title: "One Million Bullets",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

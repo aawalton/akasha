@@ -5,7 +5,7 @@ export const arianaGrandeOneShortDay = {
   type: "song",
   slug: "ariana-grande-one-short-day",
   title: "One Short Day",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

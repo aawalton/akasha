@@ -5,7 +5,7 @@ export const arianaGrandeNobody = {
   type: "song",
   slug: "ariana-grande-nobody",
   title: "Nobody",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

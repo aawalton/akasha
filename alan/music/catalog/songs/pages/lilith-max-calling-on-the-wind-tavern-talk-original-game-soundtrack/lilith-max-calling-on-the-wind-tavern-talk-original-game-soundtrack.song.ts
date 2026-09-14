@@ -5,7 +5,7 @@ export const lilithMaxCallingOnTheWindTavernTalkOriginalGameSoundtrack = {
   type: "song",
   slug: "lilith-max-calling-on-the-wind-tavern-talk-original-game-soundtrack",
   title: "Calling on the Wind (Tavern Talk Original Game Soundtrack)",
-  artist: "lilith-max",
+  artist: "artist/lilith-max",
   externalIdentity: [
     {
       source: "musicbrainz",

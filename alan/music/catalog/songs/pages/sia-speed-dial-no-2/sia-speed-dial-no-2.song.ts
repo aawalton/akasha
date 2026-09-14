@@ -5,7 +5,7 @@ export const siaSpeedDialNo2 = {
   type: "song",
   slug: "sia-speed-dial-no-2",
   title: "Speed Dial No 2",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

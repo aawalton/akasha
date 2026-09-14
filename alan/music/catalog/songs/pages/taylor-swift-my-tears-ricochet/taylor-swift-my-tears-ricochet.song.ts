@@ -5,7 +5,7 @@ export const taylorSwiftMyTearsRicochet = {
   type: "song",
   slug: "taylor-swift-my-tears-ricochet",
   title: "my tears ricochet",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

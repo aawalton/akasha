@@ -5,7 +5,7 @@ export const jessicaBaioIDonTEvenThinkAboutYou = {
   type: "song",
   slug: "jessica-baio-i-don-t-even-think-about-you",
   title: "I Don't Even Think About You",
-  artist: "jessica-baio",
+  artist: "artist/jessica-baio",
   externalIdentity: [
     {
       source: "musicbrainz",

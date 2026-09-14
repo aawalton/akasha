@@ -5,7 +5,7 @@ export const taylorSwiftAntiHero = {
   type: "song",
   slug: "taylor-swift-anti-hero",
   title: "Anti‐Hero",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

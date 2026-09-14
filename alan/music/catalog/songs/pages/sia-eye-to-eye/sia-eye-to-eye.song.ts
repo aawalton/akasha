@@ -5,7 +5,7 @@ export const siaEyeToEye = {
   type: "song",
   slug: "sia-eye-to-eye",
   title: "Eye to Eye",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const siaCandyCaneLane = {
   type: "song",
   slug: "sia-candy-cane-lane",
   title: "Candy Cane Lane",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftImgonnagetyouback = {
   type: "song",
   slug: "taylor-swift-imgonnagetyouback",
   title: "imgonnagetyouback",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

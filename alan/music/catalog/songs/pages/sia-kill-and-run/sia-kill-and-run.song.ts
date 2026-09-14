@@ -5,7 +5,7 @@ export const siaKillAndRun = {
   type: "song",
   slug: "sia-kill-and-run",
   title: "Kill and Run",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

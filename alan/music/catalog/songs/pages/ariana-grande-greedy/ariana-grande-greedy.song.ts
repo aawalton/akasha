@@ -5,7 +5,7 @@ export const arianaGrandeGreedy = {
   type: "song",
   slug: "ariana-grande-greedy",
   title: "Greedy",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

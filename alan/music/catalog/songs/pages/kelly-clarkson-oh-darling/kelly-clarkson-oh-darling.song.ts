@@ -5,7 +5,7 @@ export const kellyClarksonOhDarling = {
   type: "song",
   slug: "kelly-clarkson-oh-darling",
   title: "Oh! Darling",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

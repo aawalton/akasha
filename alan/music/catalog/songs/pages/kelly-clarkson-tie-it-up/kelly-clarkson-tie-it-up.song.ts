@@ -5,7 +5,7 @@ export const kellyClarksonTieItUp = {
   type: "song",
   slug: "kelly-clarkson-tie-it-up",
   title: "Tie It Up",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const zaraLarssonLookWhatYouVeDone = {
   type: "song",
   slug: "zara-larsson-look-what-you-ve-done",
   title: "Look What You’ve Done",
-  artist: "zara-larsson",
+  artist: "artist/zara-larsson",
   externalIdentity: [
     {
       source: "musicbrainz",

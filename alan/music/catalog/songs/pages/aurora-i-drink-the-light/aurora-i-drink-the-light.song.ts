@@ -5,7 +5,7 @@ export const auroraIDrinkTheLight = {
   type: "song",
   slug: "aurora-i-drink-the-light",
   title: "I DRINK THE LIGHT",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

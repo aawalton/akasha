@@ -5,7 +5,7 @@ export const arianaGrandeTwilightZone = {
   type: "song",
   slug: "ariana-grande-twilight-zone",
   title: "twilight zone",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

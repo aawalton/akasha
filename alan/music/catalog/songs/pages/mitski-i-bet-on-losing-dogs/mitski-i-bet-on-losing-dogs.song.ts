@@ -5,7 +5,7 @@ export const mitskiIBetOnLosingDogs = {
   type: "song",
   slug: "mitski-i-bet-on-losing-dogs",
   title: "I Bet on Losing Dogs",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const arianaGrandeTrueStory = {
   type: "song",
   slug: "ariana-grande-true-story",
   title: "true story",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

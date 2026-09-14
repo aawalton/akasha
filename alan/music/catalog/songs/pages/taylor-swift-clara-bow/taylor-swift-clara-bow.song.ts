@@ -5,7 +5,7 @@ export const taylorSwiftClaraBow = {
   type: "song",
   slug: "taylor-swift-clara-bow",
   title: "Clara Bow",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

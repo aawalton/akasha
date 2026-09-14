@@ -5,7 +5,7 @@ export const taylorSwiftMyBoyOnlyBreaksHisFavoriteToys = {
   type: "song",
   slug: "taylor-swift-my-boy-only-breaks-his-favorite-toys",
   title: "My Boy Only Breaks His Favorite Toys",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

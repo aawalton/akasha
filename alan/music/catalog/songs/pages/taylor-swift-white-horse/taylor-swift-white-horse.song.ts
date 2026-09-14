@@ -5,7 +5,7 @@ export const taylorSwiftWhiteHorse = {
   type: "song",
   slug: "taylor-swift-white-horse",
   title: "White Horse",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const zaraLarssonOneMississippi = {
   type: "song",
   slug: "zara-larsson-one-mississippi",
   title: "One Mississippi",
-  artist: "zara-larsson",
+  artist: "artist/zara-larsson",
   externalIdentity: [
     {
       source: "musicbrainz",

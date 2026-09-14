@@ -5,7 +5,7 @@ export const lilithMaxStillWithMe = {
   type: "song",
   slug: "lilith-max-still-with-me",
   title: "Still with Me",
-  artist: "lilith-max",
+  artist: "artist/lilith-max",
   externalIdentity: [
     {
       source: "musicbrainz",

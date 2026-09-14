@@ -5,7 +5,7 @@ export const siaThePageantOfTheBizarre = {
   type: "song",
   slug: "sia-the-pageant-of-the-bizarre",
   title: "The Pageant of the Bizarre",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

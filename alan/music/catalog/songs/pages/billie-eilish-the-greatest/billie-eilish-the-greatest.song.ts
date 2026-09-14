@@ -5,7 +5,7 @@ export const billieEilishTheGreatest = {
   type: "song",
   slug: "billie-eilish-the-greatest",
   title: "THE GREATEST",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

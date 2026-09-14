@@ -5,7 +5,7 @@ export const mitskiClassOf2013 = {
   type: "song",
   slug: "mitski-class-of-2013",
   title: "Class of 2013",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

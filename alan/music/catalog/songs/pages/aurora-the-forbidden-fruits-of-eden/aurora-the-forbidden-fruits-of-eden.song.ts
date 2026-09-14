@@ -5,7 +5,7 @@ export const auroraTheForbiddenFruitsOfEden = {
   type: "song",
   slug: "aurora-the-forbidden-fruits-of-eden",
   title: "The Forbidden Fruits of Eden",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

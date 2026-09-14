@@ -5,7 +5,7 @@ export const siaUnderneathTheMistletoe = {
   type: "song",
   slug: "sia-underneath-the-mistletoe",
   title: "Underneath the Mistletoe",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

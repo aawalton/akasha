@@ -5,7 +5,7 @@ export const kellyClarksonWinterDreamsBrandonSSong = {
   type: "song",
   slug: "kelly-clarkson-winter-dreams-brandon-s-song",
   title: "Winter Dreams (Brandon's Song)",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

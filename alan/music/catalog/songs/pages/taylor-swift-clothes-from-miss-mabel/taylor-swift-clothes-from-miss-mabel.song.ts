@@ -5,7 +5,7 @@ export const taylorSwiftClothesFromMissMabel = {
   type: "song",
   slug: "taylor-swift-clothes-from-miss-mabel",
   title: "Clothes From Miss Mabel",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

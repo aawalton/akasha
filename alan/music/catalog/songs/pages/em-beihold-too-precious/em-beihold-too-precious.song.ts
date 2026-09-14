@@ -5,7 +5,7 @@ export const emBeiholdTooPrecious = {
   type: "song",
   slug: "em-beihold-too-precious",
   title: "Too Precious",
-  artist: "em-beihold",
+  artist: "artist/em-beihold",
   externalIdentity: [
     {
       source: "musicbrainz",

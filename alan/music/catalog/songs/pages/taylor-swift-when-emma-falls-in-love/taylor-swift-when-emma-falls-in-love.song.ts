@@ -5,7 +5,7 @@ export const taylorSwiftWhenEmmaFallsInLove = {
   type: "song",
   slug: "taylor-swift-when-emma-falls-in-love",
   title: "When Emma Falls in Love",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

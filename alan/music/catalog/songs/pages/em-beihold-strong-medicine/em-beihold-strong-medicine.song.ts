@@ -5,7 +5,7 @@ export const emBeiholdStrongMedicine = {
   type: "song",
   slug: "em-beihold-strong-medicine",
   title: "Strong Medicine",
-  artist: "em-beihold",
+  artist: "artist/em-beihold",
   externalIdentity: [
     {
       source: "musicbrainz",

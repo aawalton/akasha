@@ -5,7 +5,7 @@ export const jessicaBaioPermanent = {
   type: "song",
   slug: "jessica-baio-permanent",
   title: "permanent",
-  artist: "jessica-baio",
+  artist: "artist/jessica-baio",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const imagineDragonsBulletInAGun = {
   type: "song",
   slug: "imagine-dragons-bullet-in-a-gun",
   title: "Bullet in a Gun",
-  artist: "imagine-dragons",
+  artist: "artist/imagine-dragons",
   externalIdentity: [
     {
       source: "musicbrainz",

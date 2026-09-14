@@ -5,7 +5,7 @@ export const taylorSwiftDaylight = {
   type: "song",
   slug: "taylor-swift-daylight",
   title: "Daylight",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

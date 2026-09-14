@@ -5,7 +5,7 @@ export const arianaGrandeMamaIMABigGirlNow = {
   type: "song",
   slug: "ariana-grande-mama-i-m-a-big-girl-now",
   title: "Mama, I’m a Big Girl Now",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

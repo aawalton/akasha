@@ -5,7 +5,7 @@ export const kellyClarksonCreep = {
   type: "song",
   slug: "kelly-clarkson-creep",
   title: "Creep",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const auroraTheUniverseSentMe = {
   type: "song",
   slug: "aurora-the-universe-sent-me",
   title: "The Universe Sent Me",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftLavenderHaze = {
   type: "song",
   slug: "taylor-swift-lavender-haze",
   title: "Lavender Haze",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

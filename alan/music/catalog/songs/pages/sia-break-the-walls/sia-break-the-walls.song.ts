@@ -5,7 +5,7 @@ export const siaBreakTheWalls = {
   type: "song",
   slug: "sia-break-the-walls",
   title: "Break the Walls",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

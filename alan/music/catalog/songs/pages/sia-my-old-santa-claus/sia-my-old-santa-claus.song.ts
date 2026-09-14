@@ -5,7 +5,7 @@ export const siaMyOldSantaClaus = {
   type: "song",
   slug: "sia-my-old-santa-claus",
   title: "My Old Santa Claus",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

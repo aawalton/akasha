@@ -5,7 +5,7 @@ export const siaBigGirlLittleGirl = {
   type: "song",
   slug: "sia-big-girl-little-girl",
   title: "Big Girl Little Girl",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

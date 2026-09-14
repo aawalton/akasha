@@ -5,7 +5,7 @@ export const arianaGrandeBestMistake = {
   type: "song",
   slug: "ariana-grande-best-mistake",
   title: "Best Mistake",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const auroraSideBySide = {
   type: "song",
   slug: "aurora-side-by-side",
   title: "SIDE BY SIDE",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

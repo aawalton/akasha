@@ -5,7 +5,7 @@ export const mitskiALovingFeeling = {
   type: "song",
   slug: "mitski-a-loving-feeling",
   title: "A Loving Feeling",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

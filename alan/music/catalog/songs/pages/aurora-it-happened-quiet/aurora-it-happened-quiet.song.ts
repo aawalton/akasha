@@ -5,7 +5,7 @@ export const auroraItHappenedQuiet = {
   type: "song",
   slug: "aurora-it-happened-quiet",
   title: "It Happened Quiet",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

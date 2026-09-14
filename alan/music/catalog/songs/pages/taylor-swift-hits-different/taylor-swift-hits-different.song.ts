@@ -5,7 +5,7 @@ export const taylorSwiftHitsDifferent = {
   type: "song",
   slug: "taylor-swift-hits-different",
   title: "Hits Different",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

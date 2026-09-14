@@ -5,7 +5,7 @@ export const zaraLarssonEuroSummer = {
   type: "song",
   slug: "zara-larsson-euro-summer",
   title: "Euro Summer",
-  artist: "zara-larsson",
+  artist: "artist/zara-larsson",
   externalIdentity: [
     {
       source: "musicbrainz",

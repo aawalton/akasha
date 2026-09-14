@@ -5,7 +5,7 @@ export const taylorSwiftBestDaysOfYourLife = {
   type: "song",
   slug: "taylor-swift-best-days-of-your-life",
   title: "Best Days of Your Life",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

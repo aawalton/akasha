@@ -5,7 +5,7 @@ export const siaFloatingThroughSpace = {
   type: "song",
   slug: "sia-floating-through-space",
   title: "Floating Through Space",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

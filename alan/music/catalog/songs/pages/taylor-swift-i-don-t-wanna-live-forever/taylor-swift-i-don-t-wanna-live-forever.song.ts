@@ -5,7 +5,7 @@ export const taylorSwiftIDonTWannaLiveForever = {
   type: "song",
   slug: "taylor-swift-i-don-t-wanna-live-forever",
   title: "I Don’t Wanna Live Forever",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

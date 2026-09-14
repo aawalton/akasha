@@ -5,7 +5,7 @@ export const taylorSwiftTheGreatWar = {
   type: "song",
   slug: "taylor-swift-the-great-war",
   title: "The Great War",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

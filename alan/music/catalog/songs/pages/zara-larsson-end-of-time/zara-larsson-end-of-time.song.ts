@@ -5,7 +5,7 @@ export const zaraLarssonEndOfTime = {
   type: "song",
   slug: "zara-larsson-end-of-time",
   title: "End of Time",
-  artist: "zara-larsson",
+  artist: "artist/zara-larsson",
   externalIdentity: [
     {
       source: "musicbrainz",

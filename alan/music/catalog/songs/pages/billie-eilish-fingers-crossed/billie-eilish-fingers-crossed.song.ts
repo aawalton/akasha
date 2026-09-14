@@ -5,7 +5,7 @@ export const billieEilishFingersCrossed = {
   type: "song",
   slug: "billie-eilish-fingers-crossed",
   title: "Fingers Crossed",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

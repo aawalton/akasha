@@ -5,7 +5,7 @@ export const zaraLarssonStickWithYou = {
   type: "song",
   slug: "zara-larsson-stick-with-you",
   title: "Stick With You",
-  artist: "zara-larsson",
+  artist: "artist/zara-larsson",
   externalIdentity: [
     {
       source: "musicbrainz",

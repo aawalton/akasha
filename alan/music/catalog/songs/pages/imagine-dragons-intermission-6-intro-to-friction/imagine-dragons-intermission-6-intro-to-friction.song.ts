@@ -5,7 +5,7 @@ export const imagineDragonsIntermission6IntroToFriction = {
   type: "song",
   slug: "imagine-dragons-intermission-6-intro-to-friction",
   title: "Intermission #6: Intro to Friction",
-  artist: "imagine-dragons",
+  artist: "artist/imagine-dragons",
   externalIdentity: [
     {
       source: "musicbrainz",

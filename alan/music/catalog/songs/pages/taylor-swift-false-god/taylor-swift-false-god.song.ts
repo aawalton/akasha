@@ -5,7 +5,7 @@ export const taylorSwiftFalseGod = {
   type: "song",
   slug: "taylor-swift-false-god",
   title: "False God",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

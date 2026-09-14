@@ -5,7 +5,7 @@ export const kellyClarksonDanceWithMe = {
   type: "song",
   slug: "kelly-clarkson-dance-with-me",
   title: "Dance With Me",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const siaUntitled = {
   type: "song",
   slug: "sia-untitled",
   title: "不要不要的",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

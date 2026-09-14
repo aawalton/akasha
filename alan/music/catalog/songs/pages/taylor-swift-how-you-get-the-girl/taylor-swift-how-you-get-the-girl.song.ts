@@ -5,7 +5,7 @@ export const taylorSwiftHowYouGetTheGirl = {
   type: "song",
   slug: "taylor-swift-how-you-get-the-girl",
   title: "How You Get the Girl",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

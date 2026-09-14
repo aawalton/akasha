@@ -5,7 +5,7 @@ export const emBeiholdLottery = {
   type: "song",
   slug: "em-beihold-lottery",
   title: "Lottery",
-  artist: "em-beihold",
+  artist: "artist/em-beihold",
   externalIdentity: [
     {
       source: "musicbrainz",

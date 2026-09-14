@@ -5,7 +5,7 @@ export const mitskiSusieSaveYourLove = {
   type: "song",
   slug: "mitski-susie-save-your-love",
   title: "Susie Save Your Love",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const siaLovedMeBackToLife = {
   type: "song",
   slug: "sia-loved-me-back-to-life",
   title: "Loved Me Back to Life",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

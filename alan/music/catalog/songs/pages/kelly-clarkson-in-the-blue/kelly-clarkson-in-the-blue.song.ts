@@ -5,7 +5,7 @@ export const kellyClarksonInTheBlue = {
   type: "song",
   slug: "kelly-clarkson-in-the-blue",
   title: "In the Blue",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

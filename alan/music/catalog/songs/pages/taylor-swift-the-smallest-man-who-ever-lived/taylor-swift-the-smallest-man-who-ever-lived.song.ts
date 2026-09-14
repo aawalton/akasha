@@ -5,7 +5,7 @@ export const taylorSwiftTheSmallestManWhoEverLived = {
   type: "song",
   slug: "taylor-swift-the-smallest-man-who-ever-lived",
   title: "The Smallest Man Who Ever Lived",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

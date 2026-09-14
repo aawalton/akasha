@@ -5,7 +5,7 @@ export const auroraSomeTypeOfSkin = {
   type: "song",
   slug: "aurora-some-type-of-skin",
   title: "Some Type of Skin",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

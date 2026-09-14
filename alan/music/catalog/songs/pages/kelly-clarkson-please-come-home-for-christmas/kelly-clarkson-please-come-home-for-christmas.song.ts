@@ -5,7 +5,7 @@ export const kellyClarksonPleaseComeHomeForChristmas = {
   type: "song",
   slug: "kelly-clarkson-please-come-home-for-christmas",
   title: "Please Come Home for Christmas",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

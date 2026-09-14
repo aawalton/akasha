@@ -5,7 +5,7 @@ export const arianaGrandeDefyingGravity = {
   type: "song",
   slug: "ariana-grande-defying-gravity",
   title: "Defying Gravity",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

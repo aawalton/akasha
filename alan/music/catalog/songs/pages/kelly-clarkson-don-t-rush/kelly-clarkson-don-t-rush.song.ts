@@ -5,7 +5,7 @@ export const kellyClarksonDonTRush = {
   type: "song",
   slug: "kelly-clarkson-don-t-rush",
   title: "Don't Rush",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

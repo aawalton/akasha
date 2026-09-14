@@ -5,7 +5,7 @@ export const arianaGrandeEPiuTiPensoFromOnceUponATimeInAmerica = {
   type: "song",
   slug: "ariana-grande-e-piu-ti-penso-from-once-upon-a-time-in-america",
   title: "E più ti penso (From “Once Upon a Time in America”)",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

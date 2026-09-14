@@ -5,7 +5,7 @@ export const siaEyeOfTheNeedle = {
   type: "song",
   slug: "sia-eye-of-the-needle",
   title: "Eye of the Needle",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const arianaGrandeLastChristmas = {
   type: "song",
   slug: "ariana-grande-last-christmas",
   title: "Last Christmas",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const siaSchneemann = {
   type: "song",
   slug: "sia-schneemann",
   title: "Schneemann",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

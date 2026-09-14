@@ -5,7 +5,7 @@ export const taylorSwiftOneWayTicketBecauseICan = {
   type: "song",
   slug: "taylor-swift-one-way-ticket-because-i-can",
   title: "One Way Ticket (Because I Can)",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const imagineDragonsBornToBeYours = {
   type: "song",
   slug: "imagine-dragons-born-to-be-yours",
   title: "Born to Be Yours",
-  artist: "imagine-dragons",
+  artist: "artist/imagine-dragons",
   externalIdentity: [
     {
       source: "musicbrainz",

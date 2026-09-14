@@ -5,7 +5,7 @@ export const taylorSwiftWeAreNeverEverGettingBackTogether = {
   type: "song",
   slug: "taylor-swift-we-are-never-ever-getting-back-together",
   title: "We Are Never Ever Getting Back Together",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

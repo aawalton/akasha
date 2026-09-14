@@ -5,7 +5,7 @@ export const mitskiAHorseNamedColdAir = {
   type: "song",
   slug: "mitski-a-horse-named-cold-air",
   title: "A Horse Named Cold Air",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

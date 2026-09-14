@@ -5,7 +5,7 @@ export const siaHealingIsDifficult = {
   type: "song",
   slug: "sia-healing-is-difficult",
   title: "Healing Is Difficult",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

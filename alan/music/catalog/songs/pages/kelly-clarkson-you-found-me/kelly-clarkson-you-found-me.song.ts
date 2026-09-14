@@ -5,7 +5,7 @@ export const kellyClarksonYouFoundMe = {
   type: "song",
   slug: "kelly-clarkson-you-found-me",
   title: "You Found Me",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

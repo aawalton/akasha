@@ -5,7 +5,7 @@ export const taylorSwiftPaperRings = {
   type: "song",
   slug: "taylor-swift-paper-rings",
   title: "Paper Rings",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const zaraLarssonStillInMyBlood = {
   type: "song",
   slug: "zara-larsson-still-in-my-blood",
   title: "Still in My Blood",
-  artist: "zara-larsson",
+  artist: "artist/zara-larsson",
   externalIdentity: [
     {
       source: "musicbrainz",

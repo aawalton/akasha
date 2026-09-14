@@ -5,7 +5,7 @@ export const mitskiBecauseDreamingCostsMoneyMyDear = {
   type: "song",
   slug: "mitski-because-dreaming-costs-money-my-dear",
   title: "Because Dreaming Costs Money, My Dear",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

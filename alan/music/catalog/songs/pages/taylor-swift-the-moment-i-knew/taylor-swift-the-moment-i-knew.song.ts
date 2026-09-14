@@ -5,7 +5,7 @@ export const taylorSwiftTheMomentIKnew = {
   type: "song",
   slug: "taylor-swift-the-moment-i-knew",
   title: "The Moment I Knew",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const auroraAppleTree = {
   type: "song",
   slug: "aurora-apple-tree",
   title: "Apple Tree",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

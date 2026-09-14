@@ -5,7 +5,7 @@ export const billieEilishNobodyLikeU = {
   type: "song",
   slug: "billie-eilish-nobody-like-u",
   title: "Nobody Like U",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const jessicaBaioEveryVersion = {
   type: "song",
   slug: "jessica-baio-every-version",
   title: "every version",
-  artist: "jessica-baio",
+  artist: "artist/jessica-baio",
   externalIdentity: [
     {
       source: "musicbrainz",

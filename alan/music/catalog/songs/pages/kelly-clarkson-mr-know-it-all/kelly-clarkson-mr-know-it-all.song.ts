@@ -5,7 +5,7 @@ export const kellyClarksonMrKnowItAll = {
   type: "song",
   slug: "kelly-clarkson-mr-know-it-all",
   title: "Mr. Know It All",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

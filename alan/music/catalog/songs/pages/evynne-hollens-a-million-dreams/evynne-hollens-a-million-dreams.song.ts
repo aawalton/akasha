@@ -5,7 +5,7 @@ export const evynneHollensAMillionDreams = {
   type: "song",
   slug: "evynne-hollens-a-million-dreams",
   title: "A Million Dreams",
-  artist: "evynne-hollens",
+  artist: "artist/evynne-hollens",
   externalIdentity: [
     {
       source: "musicbrainz",

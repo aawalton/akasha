@@ -5,7 +5,7 @@ export const imagineDragonsWalkingTheWire = {
   type: "song",
   slug: "imagine-dragons-walking-the-wire",
   title: "Walking the Wire",
-  artist: "imagine-dragons",
+  artist: "artist/imagine-dragons",
   externalIdentity: [
     {
       source: "musicbrainz",

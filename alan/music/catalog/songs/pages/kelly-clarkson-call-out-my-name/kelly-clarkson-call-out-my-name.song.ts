@@ -5,7 +5,7 @@ export const kellyClarksonCallOutMyName = {
   type: "song",
   slug: "kelly-clarkson-call-out-my-name",
   title: "Call Out My Name",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

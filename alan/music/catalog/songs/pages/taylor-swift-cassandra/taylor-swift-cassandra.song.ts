@@ -5,7 +5,7 @@ export const taylorSwiftCassandra = {
   type: "song",
   slug: "taylor-swift-cassandra",
   title: "Cassandra",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftMessageInABottle = {
   type: "song",
   slug: "taylor-swift-message-in-a-bottle",
   title: "Message in a Bottle",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const kellyClarksonMine = {
   type: "song",
   slug: "kelly-clarkson-mine",
   title: "mine",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

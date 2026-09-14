@@ -5,7 +5,7 @@ export const zaraLarssonTheHealing = {
   type: "song",
   slug: "zara-larsson-the-healing",
   title: "The Healing",
-  artist: "zara-larsson",
+  artist: "artist/zara-larsson",
   externalIdentity: [
     {
       source: "musicbrainz",

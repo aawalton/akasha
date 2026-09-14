@@ -5,7 +5,7 @@ export const taylorSwiftAllTooWellJakeSVersion = {
   type: "song",
   slug: "taylor-swift-all-too-well-jake-s-version",
   title: "All Too Well (Jake’s version)",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

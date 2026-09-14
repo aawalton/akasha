@@ -5,7 +5,7 @@ export const auroraNodKrai = {
   type: "song",
   slug: "aurora-nod-krai",
   title: "挪德卡莱 Nod‐Krai",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

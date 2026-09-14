@@ -5,7 +5,7 @@ export const siaImmortalQueen = {
   type: "song",
   slug: "sia-immortal-queen",
   title: "Immortal Queen",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

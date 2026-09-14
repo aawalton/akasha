@@ -5,7 +5,7 @@ export const kellyClarksonHaveYourselfAMerryLittleChristmas = {
   type: "song",
   slug: "kelly-clarkson-have-yourself-a-merry-little-christmas",
   title: "Have Yourself a Merry Little Christmas",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

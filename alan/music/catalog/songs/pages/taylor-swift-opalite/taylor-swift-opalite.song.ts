@@ -5,7 +5,7 @@ export const taylorSwiftOpalite = {
   type: "song",
   slug: "taylor-swift-opalite",
   title: "Opalite",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

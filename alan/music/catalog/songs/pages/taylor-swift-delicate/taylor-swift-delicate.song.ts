@@ -5,7 +5,7 @@ export const taylorSwiftDelicate = {
   type: "song",
   slug: "taylor-swift-delicate",
   title: "Delicate",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

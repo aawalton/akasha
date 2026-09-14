@@ -5,7 +5,7 @@ export const taylorSwiftTaylorForPresident = {
   type: "song",
   slug: "taylor-swift-taylor-for-president",
   title: "Taylor For President",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

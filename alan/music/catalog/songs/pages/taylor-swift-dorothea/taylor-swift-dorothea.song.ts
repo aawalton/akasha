@@ -5,7 +5,7 @@ export const taylorSwiftDorothea = {
   type: "song",
   slug: "taylor-swift-dorothea",
   title: "dorothea",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

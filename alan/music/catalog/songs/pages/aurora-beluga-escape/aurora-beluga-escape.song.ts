@@ -5,7 +5,7 @@ export const auroraBelugaEscape = {
   type: "song",
   slug: "aurora-beluga-escape",
   title: "Beluga Escape",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

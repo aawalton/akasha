@@ -5,7 +5,7 @@ export const auroraIWentTooFar = {
   type: "song",
   slug: "aurora-i-went-too-far",
   title: "I Went Too Far",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

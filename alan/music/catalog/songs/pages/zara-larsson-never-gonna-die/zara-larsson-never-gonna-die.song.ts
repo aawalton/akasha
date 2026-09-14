@@ -5,7 +5,7 @@ export const zaraLarssonNeverGonnaDie = {
   type: "song",
   slug: "zara-larsson-never-gonna-die",
   title: "Never Gonna Die",
-  artist: "zara-larsson",
+  artist: "artist/zara-larsson",
   externalIdentity: [
     {
       source: "musicbrainz",

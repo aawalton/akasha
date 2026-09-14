@@ -5,7 +5,7 @@ export const taylorSwiftBeinWithMyBaby = {
   type: "song",
   slug: "taylor-swift-bein-with-my-baby",
   title: "Bein’ With My Baby",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

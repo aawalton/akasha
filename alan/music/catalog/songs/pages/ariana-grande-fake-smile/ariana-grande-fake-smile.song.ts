@@ -5,7 +5,7 @@ export const arianaGrandeFakeSmile = {
   type: "song",
   slug: "ariana-grande-fake-smile",
   title: "fake smile",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

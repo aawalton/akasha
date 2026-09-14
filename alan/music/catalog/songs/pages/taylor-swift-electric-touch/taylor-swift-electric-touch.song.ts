@@ -5,7 +5,7 @@ export const taylorSwiftElectricTouch = {
   type: "song",
   slug: "taylor-swift-electric-touch",
   title: "Electric Touch",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

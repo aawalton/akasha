@@ -5,7 +5,7 @@ export const kellyClarksonAllIWantForChristmasIsYou = {
   type: "song",
   slug: "kelly-clarkson-all-i-want-for-christmas-is-you",
   title: "All I Want for Christmas Is You",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

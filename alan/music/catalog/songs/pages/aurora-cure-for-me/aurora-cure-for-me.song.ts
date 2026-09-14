@@ -5,7 +5,7 @@ export const auroraCureForMe = {
   type: "song",
   slug: "aurora-cure-for-me",
   title: "Cure for Me",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

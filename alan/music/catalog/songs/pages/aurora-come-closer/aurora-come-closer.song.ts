@@ -5,7 +5,7 @@ export const auroraComeCloser = {
   type: "song",
   slug: "aurora-come-closer",
   title: "COME CLOSER",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

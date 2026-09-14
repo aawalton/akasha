@@ -5,7 +5,7 @@ export const billieEilishUKnowWhatSUp = {
   type: "song",
   slug: "billie-eilish-u-know-what-s-up",
   title: "U Know What’s Up",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

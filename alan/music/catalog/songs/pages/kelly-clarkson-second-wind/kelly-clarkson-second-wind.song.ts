@@ -5,7 +5,7 @@ export const kellyClarksonSecondWind = {
   type: "song",
   slug: "kelly-clarkson-second-wind",
   title: "Second Wind",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const evynneHollensGodOnlyKnows = {
   type: "song",
   slug: "evynne-hollens-god-only-knows",
   title: "God Only Knows",
-  artist: "evynne-hollens",
+  artist: "artist/evynne-hollens",
   externalIdentity: [
     {
       source: "musicbrainz",

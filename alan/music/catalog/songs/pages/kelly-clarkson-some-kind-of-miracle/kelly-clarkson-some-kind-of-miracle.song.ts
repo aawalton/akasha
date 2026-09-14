@@ -5,7 +5,7 @@ export const kellyClarksonSomeKindOfMiracle = {
   type: "song",
   slug: "kelly-clarkson-some-kind-of-miracle",
   title: "Some Kind of Miracle",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const arianaGrandeHoneymoonAvenue = {
   type: "song",
   slug: "ariana-grande-honeymoon-avenue",
   title: "Honeymoon Avenue",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

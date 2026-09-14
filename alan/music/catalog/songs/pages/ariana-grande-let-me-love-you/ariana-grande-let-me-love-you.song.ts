@@ -5,7 +5,7 @@ export const arianaGrandeLetMeLoveYou = {
   type: "song",
   slug: "ariana-grande-let-me-love-you",
   title: "Let Me Love You",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

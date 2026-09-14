@@ -5,7 +5,7 @@ export const taylorSwiftLongLive = {
   type: "song",
   slug: "taylor-swift-long-live",
   title: "Long Live",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

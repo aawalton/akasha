@@ -5,7 +5,7 @@ export const siaAllTheDjSLoveYouInNewYork = {
   type: "song",
   slug: "sia-all-the-dj-s-love-you-in-new-york",
   title: "All the DJ’s Love You In New York",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const kellyClarksonQueenOfTheNight = {
   type: "song",
   slug: "kelly-clarkson-queen-of-the-night",
   title: "Queen of the Night",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

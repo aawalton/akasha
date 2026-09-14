@@ -5,7 +5,7 @@ export const arianaGrandeWinterThings = {
   type: "song",
   slug: "ariana-grande-winter-things",
   title: "Winter Things",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

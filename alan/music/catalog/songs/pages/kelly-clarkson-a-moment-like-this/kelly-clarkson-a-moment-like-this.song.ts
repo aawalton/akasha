@@ -5,7 +5,7 @@ export const kellyClarksonAMomentLikeThis = {
   type: "song",
   slug: "kelly-clarkson-a-moment-like-this",
   title: "A Moment Like This",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

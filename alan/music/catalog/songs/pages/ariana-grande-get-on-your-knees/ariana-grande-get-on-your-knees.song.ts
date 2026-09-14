@@ -5,7 +5,7 @@ export const arianaGrandeGetOnYourKnees = {
   type: "song",
   slug: "ariana-grande-get-on-your-knees",
   title: "Get on Your Knees",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

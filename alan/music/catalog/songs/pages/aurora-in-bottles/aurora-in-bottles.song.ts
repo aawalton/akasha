@@ -5,7 +5,7 @@ export const auroraInBottles = {
   type: "song",
   slug: "aurora-in-bottles",
   title: "In Bottles",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

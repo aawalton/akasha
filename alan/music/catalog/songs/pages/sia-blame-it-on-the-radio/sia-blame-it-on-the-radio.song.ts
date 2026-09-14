@@ -5,7 +5,7 @@ export const siaBlameItOnTheRadio = {
   type: "song",
   slug: "sia-blame-it-on-the-radio",
   title: "Blame It on the Radio",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

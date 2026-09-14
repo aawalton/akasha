@@ -5,7 +5,7 @@ export const siaLetYourTearsFall = {
   type: "song",
   slug: "sia-let-your-tears-fall",
   title: "Let Your Tears Fall",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const kellyClarksonWrappedInRed = {
   type: "song",
   slug: "kelly-clarkson-wrapped-in-red",
   title: "Wrapped in Red",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

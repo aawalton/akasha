@@ -5,7 +5,7 @@ export const kellyClarksonBlueChristmas = {
   type: "song",
   slug: "kelly-clarkson-blue-christmas",
   title: "Blue Christmas",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

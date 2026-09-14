@@ -5,7 +5,7 @@ export const arianaGrandeGetHappyHappyDaysAreHereAgain = {
   type: "song",
   slug: "ariana-grande-get-happy-happy-days-are-here-again",
   title: "Get Happy / Happy Days Are Here Again",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

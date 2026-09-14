@@ -5,7 +5,7 @@ export const siaRadioactive = {
   type: "song",
   slug: "sia-radioactive",
   title: "Radioactive",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

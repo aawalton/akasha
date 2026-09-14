@@ -5,7 +5,7 @@ export const kellyClarksonCatchMyBreath = {
   type: "song",
   slug: "kelly-clarkson-catch-my-breath",
   title: "Catch My Breath",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

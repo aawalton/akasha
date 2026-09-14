@@ -5,7 +5,7 @@ export const mitskiDrunkWalkHome = {
   type: "song",
   slug: "mitski-drunk-walk-home",
   title: "Drunk Walk Home",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

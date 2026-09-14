@@ -5,7 +5,7 @@ export const taylorSwiftButDaddyILoveHim = {
   type: "song",
   slug: "taylor-swift-but-daddy-i-love-him",
   title: "But Daddy I Love Him",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

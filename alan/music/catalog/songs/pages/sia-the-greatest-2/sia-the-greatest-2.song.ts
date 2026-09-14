@@ -5,7 +5,7 @@ export const siaTheGreatest2 = {
   type: "song",
   slug: "sia-the-greatest-2",
   title: "The Greatest",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

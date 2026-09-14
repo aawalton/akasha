@@ -5,7 +5,7 @@ export const taylorSwiftWhenLoveAndHateCollide = {
   type: "song",
   slug: "taylor-swift-when-love-and-hate-collide",
   title: "When Love and Hate Collide",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

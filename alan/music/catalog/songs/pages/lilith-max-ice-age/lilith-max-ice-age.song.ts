@@ -5,7 +5,7 @@ export const lilithMaxIceAge = {
   type: "song",
   slug: "lilith-max-ice-age",
   title: "Ice Age",
-  artist: "lilith-max",
+  artist: "artist/lilith-max",
   externalIdentity: [
     {
       source: "musicbrainz",

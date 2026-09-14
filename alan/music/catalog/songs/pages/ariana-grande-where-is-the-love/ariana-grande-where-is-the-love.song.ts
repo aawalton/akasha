@@ -5,7 +5,7 @@ export const arianaGrandeWhereIsTheLove = {
   type: "song",
   slug: "ariana-grande-where-is-the-love",
   title: "Where Is the Love?",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

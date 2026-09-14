@@ -5,7 +5,7 @@ export const taylorSwiftRiptide = {
   type: "song",
   slug: "taylor-swift-riptide",
   title: "Riptide",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

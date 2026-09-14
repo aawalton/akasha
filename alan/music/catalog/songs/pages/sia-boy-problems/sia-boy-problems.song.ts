@@ -5,7 +5,7 @@ export const siaBoyProblems = {
   type: "song",
   slug: "sia-boy-problems",
   title: "Boy Problems",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

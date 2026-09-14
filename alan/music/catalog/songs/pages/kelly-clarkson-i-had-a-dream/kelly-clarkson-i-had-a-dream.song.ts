@@ -5,7 +5,7 @@ export const kellyClarksonIHadADream = {
   type: "song",
   slug: "kelly-clarkson-i-had-a-dream",
   title: "I Had a Dream",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

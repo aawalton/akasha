@@ -5,7 +5,7 @@ export const imagineDragonsDonTForgetMe = {
   type: "song",
   slug: "imagine-dragons-don-t-forget-me",
   title: "Don’t Forget Me",
-  artist: "imagine-dragons",
+  artist: "artist/imagine-dragons",
   externalIdentity: [
     {
       source: "musicbrainz",

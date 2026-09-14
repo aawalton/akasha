@@ -5,7 +5,7 @@ export const arianaGrandeSometimes = {
   type: "song",
   slug: "ariana-grande-sometimes",
   title: "Sometimes",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

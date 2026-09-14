@@ -5,7 +5,7 @@ export const arianaGrande3435 = {
   type: "song",
   slug: "ariana-grande-34-35",
   title: "34+35",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

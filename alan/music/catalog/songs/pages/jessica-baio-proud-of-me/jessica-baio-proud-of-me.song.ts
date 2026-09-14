@@ -5,7 +5,7 @@ export const jessicaBaioProudOfMe = {
   type: "song",
   slug: "jessica-baio-proud-of-me",
   title: "proud of me",
-  artist: "jessica-baio",
+  artist: "artist/jessica-baio",
   externalIdentity: [
     {
       source: "musicbrainz",

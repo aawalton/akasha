@@ -5,7 +5,7 @@ export const kellyClarksonAllIEverWanted = {
   type: "song",
   slug: "kelly-clarkson-all-i-ever-wanted",
   title: "All I Ever Wanted",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

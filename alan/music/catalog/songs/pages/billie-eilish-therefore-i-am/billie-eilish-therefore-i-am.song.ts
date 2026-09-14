@@ -5,7 +5,7 @@ export const billieEilishThereforeIAm = {
   type: "song",
   slug: "billie-eilish-therefore-i-am",
   title: "Therefore I Am",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

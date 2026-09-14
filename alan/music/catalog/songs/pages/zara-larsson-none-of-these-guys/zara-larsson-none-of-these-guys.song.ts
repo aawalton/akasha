@@ -5,7 +5,7 @@ export const zaraLarssonNoneOfTheseGuys = {
   type: "song",
   slug: "zara-larsson-none-of-these-guys",
   title: "None of These Guys",
-  artist: "zara-larsson",
+  artist: "artist/zara-larsson",
   externalIdentity: [
     {
       source: "musicbrainz",

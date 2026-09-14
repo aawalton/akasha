@@ -5,7 +5,7 @@ export const arianaGrandeLoveMeHarder = {
   type: "song",
   slug: "ariana-grande-love-me-harder",
   title: "Love Me Harder",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

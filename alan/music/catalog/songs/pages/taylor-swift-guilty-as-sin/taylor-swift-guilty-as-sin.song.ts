@@ -5,7 +5,7 @@ export const taylorSwiftGuiltyAsSin = {
   type: "song",
   slug: "taylor-swift-guilty-as-sin",
   title: "Guilty as Sin?",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

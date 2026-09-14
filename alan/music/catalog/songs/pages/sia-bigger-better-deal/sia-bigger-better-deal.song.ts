@@ -5,7 +5,7 @@ export const siaBiggerBetterDeal = {
   type: "song",
   slug: "sia-bigger-better-deal",
   title: "Bigger Better Deal",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

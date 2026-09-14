@@ -5,7 +5,7 @@ export const arianaGrandeIDonTCare = {
   type: "song",
   slug: "ariana-grande-i-don-t-care",
   title: "I Don't Care",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

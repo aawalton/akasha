@@ -5,7 +5,7 @@ export const mitskiWorkingForTheKnife = {
   type: "song",
   slug: "mitski-working-for-the-knife",
   title: "Working for the Knife",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

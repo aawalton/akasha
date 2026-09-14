@@ -5,7 +5,7 @@ export const arianaGrandeIDonTDoDrugs = {
   type: "song",
   slug: "ariana-grande-i-don-t-do-drugs",
   title: "I Don’t Do Drugs",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

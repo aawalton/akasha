@@ -5,7 +5,7 @@ export const evynneHollensRunningOutOfTime = {
   type: "song",
   slug: "evynne-hollens-running-out-of-time",
   title: "Running Out of Time",
-  artist: "evynne-hollens",
+  artist: "artist/evynne-hollens",
   externalIdentity: [
     {
       source: "musicbrainz",

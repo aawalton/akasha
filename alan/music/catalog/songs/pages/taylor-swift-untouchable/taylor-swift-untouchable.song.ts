@@ -5,7 +5,7 @@ export const taylorSwiftUntouchable = {
   type: "song",
   slug: "taylor-swift-untouchable",
   title: "Untouchable",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

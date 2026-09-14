@@ -5,7 +5,7 @@ export const siaStraightForTheKnife = {
   type: "song",
   slug: "sia-straight-for-the-knife",
   title: "Straight for the Knife",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

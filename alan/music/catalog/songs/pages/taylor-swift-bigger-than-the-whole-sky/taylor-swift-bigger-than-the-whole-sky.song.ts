@@ -5,7 +5,7 @@ export const taylorSwiftBiggerThanTheWholeSky = {
   type: "song",
   slug: "taylor-swift-bigger-than-the-whole-sky",
   title: "Bigger Than the Whole Sky",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

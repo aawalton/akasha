@@ -5,7 +5,7 @@ export const billieEilishLoVasAOlvidar = {
   type: "song",
   slug: "billie-eilish-lo-vas-a-olvidar",
   title: "Lo vas a olvidar",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

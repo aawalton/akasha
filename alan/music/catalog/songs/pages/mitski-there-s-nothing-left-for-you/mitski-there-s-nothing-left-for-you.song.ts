@@ -5,7 +5,7 @@ export const mitskiThereSNothingLeftForYou = {
   type: "song",
   slug: "mitski-there-s-nothing-left-for-you",
   title: "There’s Nothing Left for You",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftYouReLosingMe = {
   type: "song",
   slug: "taylor-swift-you-re-losing-me",
   title: "You’re Losing Me",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

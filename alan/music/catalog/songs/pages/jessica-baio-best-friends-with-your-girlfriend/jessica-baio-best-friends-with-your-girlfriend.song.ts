@@ -5,7 +5,7 @@ export const jessicaBaioBestFriendsWithYourGirlfriend = {
   type: "song",
   slug: "jessica-baio-best-friends-with-your-girlfriend",
   title: "best friends with your girlfriend",
-  artist: "jessica-baio",
+  artist: "artist/jessica-baio",
   externalIdentity: [
     {
       source: "musicbrainz",

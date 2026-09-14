@@ -5,7 +5,7 @@ export const arianaGrandeDoYouLoveMe = {
   type: "song",
   slug: "ariana-grande-do-you-love-me",
   title: "Do You Love Me",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

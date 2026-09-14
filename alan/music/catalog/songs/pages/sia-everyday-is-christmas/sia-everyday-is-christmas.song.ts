@@ -5,7 +5,7 @@ export const siaEverydayIsChristmas = {
   type: "song",
   slug: "sia-everyday-is-christmas",
   title: "Everyday Is Christmas",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

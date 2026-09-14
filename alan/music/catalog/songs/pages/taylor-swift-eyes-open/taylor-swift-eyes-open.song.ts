@@ -5,7 +5,7 @@ export const taylorSwiftEyesOpen = {
   type: "song",
   slug: "taylor-swift-eyes-open",
   title: "Eyes Open",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftDejaVu = {
   type: "song",
   slug: "taylor-swift-deja-vu",
   title: "deja vu",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

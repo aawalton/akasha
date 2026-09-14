@@ -5,7 +5,7 @@ export const mitskiFirstLoveLateSpring = {
   type: "song",
   slug: "mitski-first-love-late-spring",
   title: "First Love / Late Spring",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

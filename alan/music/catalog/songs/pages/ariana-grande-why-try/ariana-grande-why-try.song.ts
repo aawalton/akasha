@@ -5,7 +5,7 @@ export const arianaGrandeWhyTry = {
   type: "song",
   slug: "ariana-grande-why-try",
   title: "Why Try",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

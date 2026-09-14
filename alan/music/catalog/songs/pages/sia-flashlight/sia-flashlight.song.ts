@@ -5,7 +5,7 @@ export const siaFlashlight = {
   type: "song",
   slug: "sia-flashlight",
   title: "Flashlight",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

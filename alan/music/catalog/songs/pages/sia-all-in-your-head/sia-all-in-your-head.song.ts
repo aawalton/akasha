@@ -5,7 +5,7 @@ export const siaAllInYourHead = {
   type: "song",
   slug: "sia-all-in-your-head",
   title: "All in Your Head",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

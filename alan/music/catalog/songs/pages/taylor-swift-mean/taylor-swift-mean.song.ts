@@ -5,7 +5,7 @@ export const taylorSwiftMean = {
   type: "song",
   slug: "taylor-swift-mean",
   title: "Mean",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

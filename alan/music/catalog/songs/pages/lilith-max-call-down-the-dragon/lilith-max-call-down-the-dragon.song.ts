@@ -5,7 +5,7 @@ export const lilithMaxCallDownTheDragon = {
   type: "song",
   slug: "lilith-max-call-down-the-dragon",
   title: "Call Down the Dragon",
-  artist: "lilith-max",
+  artist: "artist/lilith-max",
   externalIdentity: [
     {
       source: "musicbrainz",

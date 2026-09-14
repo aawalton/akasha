@@ -5,7 +5,7 @@ export const siaSoberAndUnkissed = {
   type: "song",
   slug: "sia-sober-and-unkissed",
   title: "Sober and Unkissed",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

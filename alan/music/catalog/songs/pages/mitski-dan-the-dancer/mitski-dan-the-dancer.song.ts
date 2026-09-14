@@ -5,7 +5,7 @@ export const mitskiDanTheDancer = {
   type: "song",
   slug: "mitski-dan-the-dancer",
   title: "Dan the Dancer",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

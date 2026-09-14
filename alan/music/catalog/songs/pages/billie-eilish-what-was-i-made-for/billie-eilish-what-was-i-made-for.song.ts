@@ -5,7 +5,7 @@ export const billieEilishWhatWasIMadeFor = {
   type: "song",
   slug: "billie-eilish-what-was-i-made-for",
   title: "What Was I Made For?",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const auroraADangerousThing = {
   type: "song",
   slug: "aurora-a-dangerous-thing",
   title: "A Dangerous Thing",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

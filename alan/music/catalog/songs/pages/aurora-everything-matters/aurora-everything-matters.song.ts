@@ -5,7 +5,7 @@ export const auroraEverythingMatters = {
   type: "song",
   slug: "aurora-everything-matters",
   title: "Everything Matters",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

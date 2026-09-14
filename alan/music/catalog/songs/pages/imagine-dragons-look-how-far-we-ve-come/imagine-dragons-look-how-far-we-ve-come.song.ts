@@ -5,7 +5,7 @@ export const imagineDragonsLookHowFarWeVeCome = {
   type: "song",
   slug: "imagine-dragons-look-how-far-we-ve-come",
   title: "Look How Far We’ve Come",
-  artist: "imagine-dragons",
+  artist: "artist/imagine-dragons",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const kellyClarksonGrownUpChristmasList = {
   type: "song",
   slug: "kelly-clarkson-grown-up-christmas-list",
   title: "Grown Up Christmas List",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

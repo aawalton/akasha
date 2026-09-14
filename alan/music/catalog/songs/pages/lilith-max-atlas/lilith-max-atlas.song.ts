@@ -5,7 +5,7 @@ export const lilithMaxAtlas = {
   type: "song",
   slug: "lilith-max-atlas",
   title: "Atlas",
-  artist: "lilith-max",
+  artist: "artist/lilith-max",
   externalIdentity: [
     {
       source: "musicbrainz",

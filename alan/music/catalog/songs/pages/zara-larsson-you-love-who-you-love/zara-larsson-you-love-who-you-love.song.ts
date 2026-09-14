@@ -5,7 +5,7 @@ export const zaraLarssonYouLoveWhoYouLove = {
   type: "song",
   slug: "zara-larsson-you-love-who-you-love",
   title: "You Love Who You Love",
-  artist: "zara-larsson",
+  artist: "artist/zara-larsson",
   externalIdentity: [
     {
       source: "musicbrainz",

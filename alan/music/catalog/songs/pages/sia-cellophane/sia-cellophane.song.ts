@@ -5,7 +5,7 @@ export const siaCellophane = {
   type: "song",
   slug: "sia-cellophane",
   title: "Cellophane",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

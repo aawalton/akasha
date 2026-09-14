@@ -5,7 +5,7 @@ export const taylorSwiftICanSeeYou = {
   type: "song",
   slug: "taylor-swift-i-can-see-you",
   title: "I Can See You",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

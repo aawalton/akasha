@@ -5,7 +5,7 @@ export const taylorSwiftYouAllOverMe = {
   type: "song",
   slug: "taylor-swift-you-all-over-me",
   title: "You All Over Me",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

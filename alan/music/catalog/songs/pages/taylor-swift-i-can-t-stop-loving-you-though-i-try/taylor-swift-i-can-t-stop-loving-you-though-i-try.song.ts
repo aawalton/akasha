@@ -5,7 +5,7 @@ export const taylorSwiftICanTStopLovingYouThoughITry = {
   type: "song",
   slug: "taylor-swift-i-can-t-stop-loving-you-though-i-try",
   title: "I Can’t Stop Loving You (Though I Try)",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

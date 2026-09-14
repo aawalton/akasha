@@ -5,7 +5,7 @@ export const mitskiMeAndMyHusband = {
   type: "song",
   slug: "mitski-me-and-my-husband",
   title: "Me and My Husband",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

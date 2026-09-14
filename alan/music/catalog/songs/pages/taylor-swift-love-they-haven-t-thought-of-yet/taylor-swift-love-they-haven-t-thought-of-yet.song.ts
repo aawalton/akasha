@@ -5,7 +5,7 @@ export const taylorSwiftLoveTheyHavenTThoughtOfYet = {
   type: "song",
   slug: "taylor-swift-love-they-haven-t-thought-of-yet",
   title: "Love They Haven't Thought Of Yet",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

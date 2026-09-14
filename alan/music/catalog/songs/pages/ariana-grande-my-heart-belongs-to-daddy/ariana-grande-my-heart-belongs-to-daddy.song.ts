@@ -5,7 +5,7 @@ export const arianaGrandeMyHeartBelongsToDaddy = {
   type: "song",
   slug: "ariana-grande-my-heart-belongs-to-daddy",
   title: "My Heart Belongs to Daddy",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

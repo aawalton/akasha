@@ -5,7 +5,7 @@ export const taylorSwiftClosure = {
   type: "song",
   slug: "taylor-swift-closure",
   title: "closure",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

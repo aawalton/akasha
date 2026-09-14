@@ -5,7 +5,7 @@ export const arianaGrandePeteDavidson = {
   type: "song",
   slug: "ariana-grande-pete-davidson",
   title: "pete davidson",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

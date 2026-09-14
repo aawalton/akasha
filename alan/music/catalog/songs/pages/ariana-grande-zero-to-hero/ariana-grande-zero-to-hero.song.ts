@@ -5,7 +5,7 @@ export const arianaGrandeZeroToHero = {
   type: "song",
   slug: "ariana-grande-zero-to-hero",
   title: "Zero to Hero",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const kellyClarksonFoolishGames = {
   type: "song",
   slug: "kelly-clarkson-foolish-games",
   title: "Foolish Games",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

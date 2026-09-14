@@ -5,7 +5,7 @@ export const kellyClarksonPeopleLikeUs = {
   type: "song",
   slug: "kelly-clarkson-people-like-us",
   title: "People Like Us",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

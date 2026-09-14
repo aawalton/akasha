@@ -5,7 +5,7 @@ export const billieEilishLostCause = {
   type: "song",
   slug: "billie-eilish-lost-cause",
   title: "Lost Cause",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

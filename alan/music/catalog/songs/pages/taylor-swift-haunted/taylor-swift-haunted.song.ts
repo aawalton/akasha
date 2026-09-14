@@ -5,7 +5,7 @@ export const taylorSwiftHaunted = {
   type: "song",
   slug: "taylor-swift-haunted",
   title: "Haunted",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

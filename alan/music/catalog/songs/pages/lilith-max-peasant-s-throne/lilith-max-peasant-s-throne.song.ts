@@ -5,7 +5,7 @@ export const lilithMaxPeasantSThrone = {
   type: "song",
   slug: "lilith-max-peasant-s-throne",
   title: "Peasant's Throne",
-  artist: "lilith-max",
+  artist: "artist/lilith-max",
   externalIdentity: [
     {
       source: "musicbrainz",

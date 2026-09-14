@@ -5,7 +5,7 @@ export const siaNeverGiveUp = {
   type: "song",
   slug: "sia-never-give-up",
   title: "Never Give Up",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

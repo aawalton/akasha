@@ -5,7 +5,7 @@ export const taylorSwiftSoItGoes = {
   type: "song",
   slug: "taylor-swift-so-it-goes",
   title: "So It Goes…",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

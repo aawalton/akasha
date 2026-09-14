@@ -5,7 +5,7 @@ export const siaTheGirlYouLostToCocaine = {
   type: "song",
   slug: "sia-the-girl-you-lost-to-cocaine",
   title: "The Girl You Lost to Cocaine",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

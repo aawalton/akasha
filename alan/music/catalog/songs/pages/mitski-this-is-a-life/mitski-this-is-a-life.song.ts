@@ -5,7 +5,7 @@ export const mitskiThisIsALife = {
   type: "song",
   slug: "mitski-this-is-a-life",
   title: "This Is a Life",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

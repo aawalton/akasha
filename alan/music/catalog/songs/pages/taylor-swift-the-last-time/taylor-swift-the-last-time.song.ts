@@ -5,7 +5,7 @@ export const taylorSwiftTheLastTime = {
   type: "song",
   slug: "taylor-swift-the-last-time",
   title: "The Last Time",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftReadyForIt = {
   type: "song",
   slug: "taylor-swift-ready-for-it",
   title: "…Ready for It?",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

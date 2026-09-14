@@ -5,7 +5,7 @@ export const arianaGrandeMonopoly = {
   type: "song",
   slug: "ariana-grande-monopoly",
   title: "Monopoly",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

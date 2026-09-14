@@ -5,7 +5,7 @@ export const taylorSwiftEpiphany = {
   type: "song",
   slug: "taylor-swift-epiphany",
   title: "epiphany",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

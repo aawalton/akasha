@@ -5,7 +5,7 @@ export const kellyClarksonNeverAgain = {
   type: "song",
   slug: "kelly-clarkson-never-again",
   title: "Never Again",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftDownBad = {
   type: "song",
   slug: "taylor-swift-down-bad",
   title: "Down Bad",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

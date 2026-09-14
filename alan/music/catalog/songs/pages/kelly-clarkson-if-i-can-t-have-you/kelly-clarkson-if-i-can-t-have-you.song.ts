@@ -5,7 +5,7 @@ export const kellyClarksonIfICanTHaveYou = {
   type: "song",
   slug: "kelly-clarkson-if-i-can-t-have-you",
   title: "If I Can't Have You",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

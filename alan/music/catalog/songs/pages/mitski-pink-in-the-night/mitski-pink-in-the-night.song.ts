@@ -5,7 +5,7 @@ export const mitskiPinkInTheNight = {
   type: "song",
   slug: "mitski-pink-in-the-night",
   title: "Pink in the Night",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

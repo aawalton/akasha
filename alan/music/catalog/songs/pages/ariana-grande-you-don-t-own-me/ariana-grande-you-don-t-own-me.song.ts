@@ -5,7 +5,7 @@ export const arianaGrandeYouDonTOwnMe = {
   type: "song",
   slug: "ariana-grande-you-don-t-own-me",
   title: "You Don’t Own Me",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

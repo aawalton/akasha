@@ -5,7 +5,7 @@ export const imagineDragonsIDonTKnowWhy = {
   type: "song",
   slug: "imagine-dragons-i-don-t-know-why",
   title: "I Don’t Know Why",
-  artist: "imagine-dragons",
+  artist: "artist/imagine-dragons",
   externalIdentity: [
     {
       source: "musicbrainz",

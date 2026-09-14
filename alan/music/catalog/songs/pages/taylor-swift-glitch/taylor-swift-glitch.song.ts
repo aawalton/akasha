@@ -5,7 +5,7 @@ export const taylorSwiftGlitch = {
   type: "song",
   slug: "taylor-swift-glitch",
   title: "Glitch",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

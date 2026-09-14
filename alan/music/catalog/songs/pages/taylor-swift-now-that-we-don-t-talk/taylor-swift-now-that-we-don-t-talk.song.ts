@@ -5,7 +5,7 @@ export const taylorSwiftNowThatWeDonTTalk = {
   type: "song",
   slug: "taylor-swift-now-that-we-don-t-talk",
   title: "Now That We Don’t Talk",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const auroraInfectionsOfADifferentKind = {
   type: "song",
   slug: "aurora-infections-of-a-different-kind",
   title: "Infections of a Different Kind",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const siaMoreThanYouAskedFor = {
   type: "song",
   slug: "sia-more-than-you-asked-for",
   title: "More Than You Asked For",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

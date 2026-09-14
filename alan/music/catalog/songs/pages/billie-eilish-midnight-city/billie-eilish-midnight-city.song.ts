@@ -5,7 +5,7 @@ export const billieEilishMidnightCity = {
   type: "song",
   slug: "billie-eilish-midnight-city",
   title: "Midnight City",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

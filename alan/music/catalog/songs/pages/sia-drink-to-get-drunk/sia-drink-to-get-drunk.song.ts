@@ -5,7 +5,7 @@ export const siaDrinkToGetDrunk = {
   type: "song",
   slug: "sia-drink-to-get-drunk",
   title: "Drink to Get Drunk",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

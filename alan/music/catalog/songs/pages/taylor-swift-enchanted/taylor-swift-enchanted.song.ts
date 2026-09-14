@@ -5,7 +5,7 @@ export const taylorSwiftEnchanted = {
   type: "song",
   slug: "taylor-swift-enchanted",
   title: "Enchanted",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const siaCryingInTheClub = {
   type: "song",
   slug: "sia-crying-in-the-club",
   title: "Crying in the Club",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

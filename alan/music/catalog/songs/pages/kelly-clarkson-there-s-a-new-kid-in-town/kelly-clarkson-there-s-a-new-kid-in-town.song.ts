@@ -5,7 +5,7 @@ export const kellyClarksonThereSANewKidInTown = {
   type: "song",
   slug: "kelly-clarkson-there-s-a-new-kid-in-town",
   title: "There's a New Kid in Town",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

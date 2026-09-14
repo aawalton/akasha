@@ -5,7 +5,7 @@ export const emBeiholdNumbLittleBug = {
   type: "song",
   slug: "em-beihold-numb-little-bug",
   title: "Numb Little Bug",
-  artist: "em-beihold",
+  artist: "artist/em-beihold",
   externalIdentity: [
     {
       source: "musicbrainz",

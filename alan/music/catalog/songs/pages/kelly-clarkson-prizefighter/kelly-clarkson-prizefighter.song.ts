@@ -5,7 +5,7 @@ export const kellyClarksonPrizefighter = {
   type: "song",
   slug: "kelly-clarkson-prizefighter",
   title: "PrizeFighter",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

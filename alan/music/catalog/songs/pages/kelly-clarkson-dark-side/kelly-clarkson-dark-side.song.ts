@@ -5,7 +5,7 @@ export const kellyClarksonDarkSide = {
   type: "song",
   slug: "kelly-clarkson-dark-side",
   title: "Dark Side",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

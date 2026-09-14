@@ -5,7 +5,7 @@ export const kellyClarksonJustMissedTheTrain = {
   type: "song",
   slug: "kelly-clarkson-just-missed-the-train",
   title: "Just Missed the Train",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

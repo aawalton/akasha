@@ -5,7 +5,7 @@ export const taylorSwiftShouldVeSaidNo = {
   type: "song",
   slug: "taylor-swift-should-ve-said-no",
   title: "Should’ve Said No",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftNothingNew = {
   type: "song",
   slug: "taylor-swift-nothing-new",
   title: "Nothing New",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

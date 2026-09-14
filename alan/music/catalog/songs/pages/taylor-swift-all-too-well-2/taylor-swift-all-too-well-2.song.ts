@@ -5,7 +5,7 @@ export const taylorSwiftAllTooWell2 = {
   type: "song",
   slug: "taylor-swift-all-too-well-2",
   title: "All Too Well",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

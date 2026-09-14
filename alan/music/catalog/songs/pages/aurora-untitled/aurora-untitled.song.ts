@@ -5,7 +5,7 @@ export const auroraUntitled = {
   type: "song",
   slug: "aurora-untitled",
   title: "イントゥ・ジ・アンノウン〜心のままに",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

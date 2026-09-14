@@ -5,7 +5,7 @@ export const kellyClarksonIrvineChivas = {
   type: "song",
   slug: "kelly-clarkson-irvine-chivas",
   title: "Irvine / Chivas",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

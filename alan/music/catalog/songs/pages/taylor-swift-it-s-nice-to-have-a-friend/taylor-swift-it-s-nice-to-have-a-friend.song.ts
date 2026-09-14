@@ -5,7 +5,7 @@ export const taylorSwiftItSNiceToHaveAFriend = {
   type: "song",
   slug: "taylor-swift-it-s-nice-to-have-a-friend",
   title: "It’s Nice to Have a Friend",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

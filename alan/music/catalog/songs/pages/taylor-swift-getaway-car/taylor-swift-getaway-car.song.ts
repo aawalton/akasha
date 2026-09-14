@@ -5,7 +5,7 @@ export const taylorSwiftGetawayCar = {
   type: "song",
   slug: "taylor-swift-getaway-car",
   title: "Getaway Car",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

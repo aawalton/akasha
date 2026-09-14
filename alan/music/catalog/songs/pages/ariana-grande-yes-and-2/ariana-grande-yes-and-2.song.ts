@@ -5,7 +5,7 @@ export const arianaGrandeYesAnd2 = {
   type: "song",
   slug: "ariana-grande-yes-and-2",
   title: "yes, and?",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

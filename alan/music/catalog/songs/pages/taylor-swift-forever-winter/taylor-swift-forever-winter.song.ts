@@ -5,7 +5,7 @@ export const taylorSwiftForeverWinter = {
   type: "song",
   slug: "taylor-swift-forever-winter",
   title: "Forever Winter",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

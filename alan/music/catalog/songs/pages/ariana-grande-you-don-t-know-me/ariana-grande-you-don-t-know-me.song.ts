@@ -5,7 +5,7 @@ export const arianaGrandeYouDonTKnowMe = {
   type: "song",
   slug: "ariana-grande-you-don-t-know-me",
   title: "You Don't Know Me",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

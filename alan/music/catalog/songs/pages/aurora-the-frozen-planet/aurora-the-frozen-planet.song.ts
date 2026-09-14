@@ -5,7 +5,7 @@ export const auroraTheFrozenPlanet = {
   type: "song",
   slug: "aurora-the-frozen-planet",
   title: "The Frozen Planet",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

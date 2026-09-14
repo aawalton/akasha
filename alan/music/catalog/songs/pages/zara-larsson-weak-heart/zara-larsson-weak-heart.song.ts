@@ -5,7 +5,7 @@ export const zaraLarssonWeakHeart = {
   type: "song",
   slug: "zara-larsson-weak-heart",
   title: "Weak Heart",
-  artist: "zara-larsson",
+  artist: "artist/zara-larsson",
   externalIdentity: [
     {
       source: "musicbrainz",

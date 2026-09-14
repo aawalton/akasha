@@ -5,7 +5,7 @@ export const taylorSwiftMeBritney = {
   type: "song",
   slug: "taylor-swift-me-britney",
   title: "Me & Britney",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

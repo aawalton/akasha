@@ -5,7 +5,7 @@ export const zaraLarssonAinTMyFault = {
   type: "song",
   slug: "zara-larsson-ain-t-my-fault",
   title: "Ain’t My Fault",
-  artist: "zara-larsson",
+  artist: "artist/zara-larsson",
   externalIdentity: [
     {
       source: "musicbrainz",

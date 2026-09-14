@@ -5,7 +5,7 @@ export const kellyClarksonHeartbeatSong = {
   type: "song",
   slug: "kelly-clarkson-heartbeat-song",
   title: "Heartbeat Song",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

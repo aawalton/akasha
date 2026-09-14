@@ -5,7 +5,7 @@ export const taylorSwiftStateOfGrace = {
   type: "song",
   slug: "taylor-swift-state-of-grace",
   title: "State of Grace",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

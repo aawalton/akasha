@@ -5,7 +5,7 @@ export const taylorSwiftIKnowPlaces = {
   type: "song",
   slug: "taylor-swift-i-know-places",
   title: "I Know Places",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

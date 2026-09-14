@@ -5,7 +5,7 @@ export const arianaGrandeWhatDoYouMean = {
   type: "song",
   slug: "ariana-grande-what-do-you-mean",
   title: "What Do You Mean?",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

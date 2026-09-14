@@ -5,7 +5,7 @@ export const taylorSwiftSparksFly = {
   type: "song",
   slug: "taylor-swift-sparks-fly",
   title: "Sparks Fly",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

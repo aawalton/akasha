@@ -5,7 +5,7 @@ export const taylorSwiftEndGame = {
   type: "song",
   slug: "taylor-swift-end-game",
   title: "End Game",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

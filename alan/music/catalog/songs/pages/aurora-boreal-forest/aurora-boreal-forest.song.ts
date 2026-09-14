@@ -5,7 +5,7 @@ export const auroraBorealForest = {
   type: "song",
   slug: "aurora-boreal-forest",
   title: "Boreal Forest",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const siaTakeItToHeart = {
   type: "song",
   slug: "sia-take-it-to-heart",
   title: "Take It to Heart",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

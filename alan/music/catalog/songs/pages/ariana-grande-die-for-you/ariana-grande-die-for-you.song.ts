@@ -5,7 +5,7 @@ export const arianaGrandeDieForYou = {
   type: "song",
   slug: "ariana-grande-die-for-you",
   title: "Die for You",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

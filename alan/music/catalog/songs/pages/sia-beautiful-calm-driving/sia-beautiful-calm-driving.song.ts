@@ -5,7 +5,7 @@ export const siaBeautifulCalmDriving = {
   type: "song",
   slug: "sia-beautiful-calm-driving",
   title: "Beautiful Calm Driving",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

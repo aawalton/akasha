@@ -5,7 +5,7 @@ export const arianaGrandeHeatstroke = {
   type: "song",
   slug: "ariana-grande-heatstroke",
   title: "Heatstroke",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

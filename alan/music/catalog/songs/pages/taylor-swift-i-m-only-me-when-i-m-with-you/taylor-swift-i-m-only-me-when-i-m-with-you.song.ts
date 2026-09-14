@@ -5,7 +5,7 @@ export const taylorSwiftIMOnlyMeWhenIMWithYou = {
   type: "song",
   slug: "taylor-swift-i-m-only-me-when-i-m-with-you",
   title: "I’m Only Me When I’m With You",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

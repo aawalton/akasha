@@ -5,7 +5,7 @@ export const taylorSwiftTisTheDamnSeason = {
   type: "song",
   slug: "taylor-swift-tis-the-damn-season",
   title: "‘tis the damn season",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

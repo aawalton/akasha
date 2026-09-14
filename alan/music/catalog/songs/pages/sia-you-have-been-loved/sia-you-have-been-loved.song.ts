@@ -5,7 +5,7 @@ export const siaYouHaveBeenLoved = {
   type: "song",
   slug: "sia-you-have-been-loved",
   title: "You Have Been Loved",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

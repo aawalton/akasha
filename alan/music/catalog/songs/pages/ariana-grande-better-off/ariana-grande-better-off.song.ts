@@ -5,7 +5,7 @@ export const arianaGrandeBetterOff = {
   type: "song",
   slug: "ariana-grande-better-off",
   title: "better off",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

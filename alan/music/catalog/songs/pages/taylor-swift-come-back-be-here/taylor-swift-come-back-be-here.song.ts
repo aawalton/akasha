@@ -5,7 +5,7 @@ export const taylorSwiftComeBackBeHere = {
   type: "song",
   slug: "taylor-swift-come-back-be-here",
   title: "Come Back… Be Here",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

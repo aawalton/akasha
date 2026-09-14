@@ -5,7 +5,7 @@ export const taylorSwiftHopelesslyDevotedToYou = {
   type: "song",
   slug: "taylor-swift-hopelessly-devoted-to-you",
   title: "Hopelessly Devoted to You",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

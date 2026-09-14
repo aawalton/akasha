@@ -5,7 +5,7 @@ export const jessicaBaioTrustIssues = {
   type: "song",
   slug: "jessica-baio-trust-issues",
   title: "trust issues",
-  artist: "jessica-baio",
+  artist: "artist/jessica-baio",
   externalIdentity: [
     {
       source: "musicbrainz",

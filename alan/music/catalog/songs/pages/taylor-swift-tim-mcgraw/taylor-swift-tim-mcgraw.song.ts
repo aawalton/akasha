@@ -5,7 +5,7 @@ export const taylorSwiftTimMcgraw = {
   type: "song",
   slug: "taylor-swift-tim-mcgraw",
   title: "Tim McGraw",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

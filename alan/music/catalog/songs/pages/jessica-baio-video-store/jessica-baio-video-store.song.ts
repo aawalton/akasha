@@ -5,7 +5,7 @@ export const jessicaBaioVideoStore = {
   type: "song",
   slug: "jessica-baio-video-store",
   title: "video store",
-  artist: "jessica-baio",
+  artist: "artist/jessica-baio",
   externalIdentity: [
     {
       source: "musicbrainz",

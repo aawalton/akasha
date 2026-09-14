@@ -5,7 +5,7 @@ export const siaBurnThePages = {
   type: "song",
   slug: "sia-burn-the-pages",
   title: "Burn the Pages",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

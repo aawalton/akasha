@@ -5,7 +5,7 @@ export const auroraFrozenPeaks = {
   type: "song",
   slug: "aurora-frozen-peaks",
   title: "Frozen Peaks",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

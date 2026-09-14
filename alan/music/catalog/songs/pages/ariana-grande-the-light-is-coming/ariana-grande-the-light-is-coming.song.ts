@@ -5,7 +5,7 @@ export const arianaGrandeTheLightIsComing = {
   type: "song",
   slug: "ariana-grande-the-light-is-coming",
   title: "the light is coming",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

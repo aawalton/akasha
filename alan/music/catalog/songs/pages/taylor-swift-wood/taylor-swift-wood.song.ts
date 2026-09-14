@@ -5,7 +5,7 @@ export const taylorSwiftWood = {
   type: "song",
   slug: "taylor-swift-wood",
   title: "Wood",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

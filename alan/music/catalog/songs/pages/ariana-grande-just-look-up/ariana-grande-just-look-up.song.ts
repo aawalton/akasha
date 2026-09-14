@@ -5,7 +5,7 @@ export const arianaGrandeJustLookUp = {
   type: "song",
   slug: "ariana-grande-just-look-up",
   title: "Just Look Up",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

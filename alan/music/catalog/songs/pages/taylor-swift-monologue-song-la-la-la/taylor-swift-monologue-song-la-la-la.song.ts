@@ -5,7 +5,7 @@ export const taylorSwiftMonologueSongLaLaLa = {
   type: "song",
   slug: "taylor-swift-monologue-song-la-la-la",
   title: "Monologue Song (La La La)",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

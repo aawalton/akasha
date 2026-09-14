@@ -5,7 +5,7 @@ export const auroraUnderTheWater = {
   type: "song",
   slug: "aurora-under-the-water",
   title: "Under the Water",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

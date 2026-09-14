@@ -5,7 +5,7 @@ export const zaraLarssonMemoryLane = {
   type: "song",
   slug: "zara-larsson-memory-lane",
   title: "Memory Lane",
-  artist: "zara-larsson",
+  artist: "artist/zara-larsson",
   externalIdentity: [
     {
       source: "musicbrainz",

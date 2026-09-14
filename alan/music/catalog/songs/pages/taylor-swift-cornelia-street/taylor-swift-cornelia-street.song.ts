@@ -5,7 +5,7 @@ export const taylorSwiftCorneliaStreet = {
   type: "song",
   slug: "taylor-swift-cornelia-street",
   title: "Cornelia Street",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const siaBoundToYou = {
   type: "song",
   slug: "sia-bound-to-you",
   title: "Bound to You",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

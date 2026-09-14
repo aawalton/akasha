@@ -5,7 +5,7 @@ export const billieEilishWinner = {
   type: "song",
   slug: "billie-eilish-winner",
   title: "Winner",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

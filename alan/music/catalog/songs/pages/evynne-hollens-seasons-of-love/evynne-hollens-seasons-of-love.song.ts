@@ -5,7 +5,7 @@ export const evynneHollensSeasonsOfLove = {
   type: "song",
   slug: "evynne-hollens-seasons-of-love",
   title: "Seasons of Love",
-  artist: "evynne-hollens",
+  artist: "artist/evynne-hollens",
   externalIdentity: [
     {
       source: "musicbrainz",

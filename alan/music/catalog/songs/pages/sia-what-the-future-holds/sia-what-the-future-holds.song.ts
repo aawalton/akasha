@@ -5,7 +5,7 @@ export const siaWhatTheFutureHolds = {
   type: "song",
   slug: "sia-what-the-future-holds",
   title: "What the Future Holds",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

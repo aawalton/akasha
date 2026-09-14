@@ -5,7 +5,7 @@ export const taylorSwiftHotNCold = {
   type: "song",
   slug: "taylor-swift-hot-n-cold",
   title: "Hot n Cold",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

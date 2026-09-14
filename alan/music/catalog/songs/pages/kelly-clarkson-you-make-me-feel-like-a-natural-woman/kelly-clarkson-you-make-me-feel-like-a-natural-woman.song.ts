@@ -5,7 +5,7 @@ export const kellyClarksonYouMakeMeFeelLikeANaturalWoman = {
   type: "song",
   slug: "kelly-clarkson-you-make-me-feel-like-a-natural-woman",
   title: "(You Make Me Feel Like) A Natural Woman",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

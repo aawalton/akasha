@@ -5,7 +5,7 @@ export const arianaGrandeGotHerOwn = {
   type: "song",
   slug: "ariana-grande-got-her-own",
   title: "Got Her Own",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

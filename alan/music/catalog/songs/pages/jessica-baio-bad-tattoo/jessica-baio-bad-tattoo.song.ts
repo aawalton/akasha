@@ -5,7 +5,7 @@ export const jessicaBaioBadTattoo = {
   type: "song",
   slug: "jessica-baio-bad-tattoo",
   title: "bad tattoo",
-  artist: "jessica-baio",
+  artist: "artist/jessica-baio",
   externalIdentity: [
     {
       source: "musicbrainz",

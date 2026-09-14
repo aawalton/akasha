@@ -5,7 +5,7 @@ export const arianaGrandeSympathyIsAKnife = {
   type: "song",
   slug: "ariana-grande-sympathy-is-a-knife",
   title: "Sympathy is a knife",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

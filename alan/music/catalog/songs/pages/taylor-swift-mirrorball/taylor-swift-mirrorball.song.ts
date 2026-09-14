@@ -5,7 +5,7 @@ export const taylorSwiftMirrorball = {
   type: "song",
   slug: "taylor-swift-mirrorball",
   title: "mirrorball",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

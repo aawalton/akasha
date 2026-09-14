@@ -5,7 +5,7 @@ export const taylorSwiftKingOfMyHeart = {
   type: "song",
   slug: "taylor-swift-king-of-my-heart",
   title: "King of My Heart",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

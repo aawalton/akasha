@@ -5,7 +5,7 @@ export const taylorSwiftMazelTov = {
   type: "song",
   slug: "taylor-swift-mazel-tov",
   title: "Mazel Tov",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

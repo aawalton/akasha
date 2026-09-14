@@ -5,7 +5,7 @@ export const taylorSwiftICanFixHimNoReallyICan = {
   type: "song",
   slug: "taylor-swift-i-can-fix-him-no-really-i-can",
   title: "I Can Fix Him (No Really I Can)",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

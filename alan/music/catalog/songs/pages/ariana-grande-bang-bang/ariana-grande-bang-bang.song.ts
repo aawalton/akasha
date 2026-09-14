@@ -5,7 +5,7 @@ export const arianaGrandeBangBang = {
   type: "song",
   slug: "ariana-grande-bang-bang",
   title: "Bang Bang",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

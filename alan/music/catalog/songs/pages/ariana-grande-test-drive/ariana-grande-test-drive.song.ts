@@ -5,7 +5,7 @@ export const arianaGrandeTestDrive = {
   type: "song",
   slug: "ariana-grande-test-drive",
   title: "test drive",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

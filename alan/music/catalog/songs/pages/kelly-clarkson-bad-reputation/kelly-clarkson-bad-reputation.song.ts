@@ -5,7 +5,7 @@ export const kellyClarksonBadReputation = {
   type: "song",
   slug: "kelly-clarkson-bad-reputation",
   title: "Bad Reputation",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

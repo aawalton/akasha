@@ -5,7 +5,7 @@ export const siaAudio = {
   type: "song",
   slug: "sia-audio",
   title: "Audio",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

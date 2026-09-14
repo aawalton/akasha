@@ -5,7 +5,7 @@ export const kellyClarksonOComeOComeEmmanuel = {
   type: "song",
   slug: "kelly-clarkson-o-come-o-come-emmanuel",
   title: "O Come, O Come, Emmanuel",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

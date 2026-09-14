@@ -5,7 +5,7 @@ export const billieEilishIDidnTChangeMyNumber = {
   type: "song",
   slug: "billie-eilish-i-didn-t-change-my-number",
   title: "I Didn’t Change My Number",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

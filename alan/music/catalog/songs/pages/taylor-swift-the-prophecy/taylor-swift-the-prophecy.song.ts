@@ -5,7 +5,7 @@ export const taylorSwiftTheProphecy = {
   type: "song",
   slug: "taylor-swift-the-prophecy",
   title: "The Prophecy",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

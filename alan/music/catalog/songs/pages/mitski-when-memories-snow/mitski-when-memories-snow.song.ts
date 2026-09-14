@@ -5,7 +5,7 @@ export const mitskiWhenMemoriesSnow = {
   type: "song",
   slug: "mitski-when-memories-snow",
   title: "When Memories Snow",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

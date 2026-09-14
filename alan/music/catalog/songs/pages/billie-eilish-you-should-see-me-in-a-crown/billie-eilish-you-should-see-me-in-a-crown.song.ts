@@ -5,7 +5,7 @@ export const billieEilishYouShouldSeeMeInACrown = {
   type: "song",
   slug: "billie-eilish-you-should-see-me-in-a-crown",
   title: "you should see me in a crown",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const imagineDragonsChaChingTillWeGrowOlder = {
   type: "song",
   slug: "imagine-dragons-cha-ching-till-we-grow-older",
   title: "Cha‐Ching (Till We Grow Older)",
-  artist: "imagine-dragons",
+  artist: "artist/imagine-dragons",
   externalIdentity: [
     {
       source: "musicbrainz",

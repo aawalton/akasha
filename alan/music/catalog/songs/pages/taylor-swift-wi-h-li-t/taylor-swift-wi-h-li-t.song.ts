@@ -5,7 +5,7 @@ export const taylorSwiftWiHLiT = {
   type: "song",
   slug: "taylor-swift-wi-h-li-t",
   title: "Wi$h Li$t",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

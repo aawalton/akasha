@@ -5,7 +5,7 @@ export const taylorSwiftIAmEveryShellWashedUponTheShore = {
   type: "song",
   slug: "taylor-swift-i-am-every-shell-washed-upon-the-shore",
   title: "I Am Every Shell Washed Upon the Shore",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

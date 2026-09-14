@@ -5,7 +5,7 @@ export const arianaGrandeBeMyBaby = {
   type: "song",
   slug: "ariana-grande-be-my-baby",
   title: "Be My Baby",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

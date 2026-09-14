@@ -5,7 +5,7 @@ export const mitskiThatSOurLamp = {
   type: "song",
   slug: "mitski-that-s-our-lamp",
   title: "That’s Our Lamp",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

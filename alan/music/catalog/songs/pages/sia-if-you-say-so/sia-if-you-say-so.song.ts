@@ -5,7 +5,7 @@ export const siaIfYouSaySo = {
   type: "song",
   slug: "sia-if-you-say-so",
   title: "If You Say So",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const siaMakingTheMostOfTheNight = {
   type: "song",
   slug: "sia-making-the-most-of-the-night",
   title: "Making the Most of the Night",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

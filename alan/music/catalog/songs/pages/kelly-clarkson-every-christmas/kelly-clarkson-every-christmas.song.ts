@@ -5,7 +5,7 @@ export const kellyClarksonEveryChristmas = {
   type: "song",
   slug: "kelly-clarkson-every-christmas",
   title: "Every Christmas",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

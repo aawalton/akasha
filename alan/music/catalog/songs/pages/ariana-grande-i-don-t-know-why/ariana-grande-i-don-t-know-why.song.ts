@@ -5,7 +5,7 @@ export const arianaGrandeIDonTKnowWhy = {
   type: "song",
   slug: "ariana-grande-i-don-t-know-why",
   title: "I Don’t Know Why",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

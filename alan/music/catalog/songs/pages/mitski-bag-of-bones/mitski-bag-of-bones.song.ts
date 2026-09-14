@@ -5,7 +5,7 @@ export const mitskiBagOfBones = {
   type: "song",
   slug: "mitski-bag-of-bones",
   title: "Bag of Bones",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

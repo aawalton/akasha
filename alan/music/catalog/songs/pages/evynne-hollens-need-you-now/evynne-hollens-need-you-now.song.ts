@@ -5,7 +5,7 @@ export const evynneHollensNeedYouNow = {
   type: "song",
   slug: "evynne-hollens-need-you-now",
   title: "Need You Now",
-  artist: "evynne-hollens",
+  artist: "artist/evynne-hollens",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftMarjorie = {
   type: "song",
   slug: "taylor-swift-marjorie",
   title: "marjorie",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

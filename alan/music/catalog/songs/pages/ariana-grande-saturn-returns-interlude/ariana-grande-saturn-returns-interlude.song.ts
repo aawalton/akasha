@@ -5,7 +5,7 @@ export const arianaGrandeSaturnReturnsInterlude = {
   type: "song",
   slug: "ariana-grande-saturn-returns-interlude",
   title: "Saturn Returns Interlude",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const billieEilishTheDiner = {
   type: "song",
   slug: "billie-eilish-the-diner",
   title: "THE DINER",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const kellyClarksonDonTLetMeStopYou = {
   type: "song",
   slug: "kelly-clarkson-don-t-let-me-stop-you",
   title: "Don't Let Me Stop You",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const siaWaitingToDie = {
   type: "song",
   slug: "sia-waiting-to-die",
   title: "Waiting to Die",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

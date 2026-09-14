@@ -5,7 +5,7 @@ export const taylorSwiftAfterglow = {
   type: "song",
   slug: "taylor-swift-afterglow",
   title: "Afterglow",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

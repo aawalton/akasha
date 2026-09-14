@@ -5,7 +5,7 @@ export const kellyClarksonLoveMeLikeAMan = {
   type: "song",
   slug: "kelly-clarkson-love-me-like-a-man",
   title: "Love Me Like a Man",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

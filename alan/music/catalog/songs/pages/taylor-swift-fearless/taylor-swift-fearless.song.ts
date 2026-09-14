@@ -5,7 +5,7 @@ export const taylorSwiftFearless = {
   type: "song",
   slug: "taylor-swift-fearless",
   title: "Fearless",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

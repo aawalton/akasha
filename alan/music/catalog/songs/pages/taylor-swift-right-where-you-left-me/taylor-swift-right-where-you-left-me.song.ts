@@ -5,7 +5,7 @@ export const taylorSwiftRightWhereYouLeftMe = {
   type: "song",
   slug: "taylor-swift-right-where-you-left-me",
   title: "right where you left me",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

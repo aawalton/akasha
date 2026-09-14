@@ -5,7 +5,7 @@ export const siaTheCoDependent = {
   type: "song",
   slug: "sia-the-co-dependent",
   title: "The Co-Dependent",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

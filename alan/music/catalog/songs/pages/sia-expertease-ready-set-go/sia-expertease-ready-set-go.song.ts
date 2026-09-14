@@ -5,7 +5,7 @@ export const siaExperteaseReadySetGo = {
   type: "song",
   slug: "sia-expertease-ready-set-go",
   title: "Expertease (Ready Set Go)",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

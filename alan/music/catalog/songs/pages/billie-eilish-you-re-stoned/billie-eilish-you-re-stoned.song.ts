@@ -5,7 +5,7 @@ export const billieEilishYouReStoned = {
   type: "song",
   slug: "billie-eilish-you-re-stoned",
   title: "you’re stoned",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

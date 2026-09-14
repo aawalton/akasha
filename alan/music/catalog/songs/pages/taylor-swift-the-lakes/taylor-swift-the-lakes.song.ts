@@ -5,7 +5,7 @@ export const taylorSwiftTheLakes = {
   type: "song",
   slug: "taylor-swift-the-lakes",
   title: "the lakes",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

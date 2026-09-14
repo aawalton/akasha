@@ -5,7 +5,7 @@ export const evynneHollensAThousandYears = {
   type: "song",
   slug: "evynne-hollens-a-thousand-years",
   title: "A Thousand Years",
-  artist: "evynne-hollens",
+  artist: "artist/evynne-hollens",
   externalIdentity: [
     {
       source: "musicbrainz",

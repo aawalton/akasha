@@ -5,7 +5,7 @@ export const mitskiCharonSObol = {
   type: "song",
   slug: "mitski-charon-s-obol",
   title: "Charon’s Obol",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

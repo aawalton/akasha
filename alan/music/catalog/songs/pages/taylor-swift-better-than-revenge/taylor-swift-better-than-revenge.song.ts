@@ -5,7 +5,7 @@ export const taylorSwiftBetterThanRevenge = {
   type: "song",
   slug: "taylor-swift-better-than-revenge",
   title: "Better Than Revenge",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

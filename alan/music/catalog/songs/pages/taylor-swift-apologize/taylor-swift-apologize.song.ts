@@ -5,7 +5,7 @@ export const taylorSwiftApologize = {
   type: "song",
   slug: "taylor-swift-apologize",
   title: "Apologize",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

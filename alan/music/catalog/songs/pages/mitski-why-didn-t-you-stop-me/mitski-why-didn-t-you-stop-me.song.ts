@@ -5,7 +5,7 @@ export const mitskiWhyDidnTYouStopMe = {
   type: "song",
   slug: "mitski-why-didn-t-you-stop-me",
   title: "Why Didn’t You Stop Me?",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

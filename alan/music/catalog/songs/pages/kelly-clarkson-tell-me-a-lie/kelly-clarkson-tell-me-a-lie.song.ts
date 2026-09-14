@@ -5,7 +5,7 @@ export const kellyClarksonTellMeALie = {
   type: "song",
   slug: "kelly-clarkson-tell-me-a-lie",
   title: "Tell Me a Lie",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

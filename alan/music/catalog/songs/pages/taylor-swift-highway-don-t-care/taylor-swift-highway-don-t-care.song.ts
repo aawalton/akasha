@@ -5,7 +5,7 @@ export const taylorSwiftHighwayDonTCare = {
   type: "song",
   slug: "taylor-swift-highway-don-t-care",
   title: "Highway Don’t Care",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

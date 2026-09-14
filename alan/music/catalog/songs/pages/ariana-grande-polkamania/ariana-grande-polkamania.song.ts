@@ -5,7 +5,7 @@ export const arianaGrandePolkamania = {
   type: "song",
   slug: "ariana-grande-polkamania",
   title: "Polkamania!",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const auroraEveOfDestruction = {
   type: "song",
   slug: "aurora-eve-of-destruction",
   title: "Eve of Destruction",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

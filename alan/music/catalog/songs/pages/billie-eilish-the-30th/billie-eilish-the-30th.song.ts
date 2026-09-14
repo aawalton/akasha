@@ -5,7 +5,7 @@ export const billieEilishThe30th = {
   type: "song",
   slug: "billie-eilish-the-30th",
   title: "The 30th",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftActingLikeABoy = {
   type: "song",
   slug: "taylor-swift-acting-like-a-boy",
   title: "Acting Like a Boy",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

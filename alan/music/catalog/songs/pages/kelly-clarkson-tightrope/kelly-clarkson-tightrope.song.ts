@@ -5,7 +5,7 @@ export const kellyClarksonTightrope = {
   type: "song",
   slug: "kelly-clarkson-tightrope",
   title: "Tightrope",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

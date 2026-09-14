@@ -5,7 +5,7 @@ export const siaRewrite = {
   type: "song",
   slug: "sia-rewrite",
   title: "Rewrite",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

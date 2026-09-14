@@ -5,7 +5,7 @@ export const siaClapYourHands = {
   type: "song",
   slug: "sia-clap-your-hands",
   title: "Clap Your Hands",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

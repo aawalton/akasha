@@ -5,7 +5,7 @@ export const zaraLarssonMoreThanThisWas = {
   type: "song",
   slug: "zara-larsson-more-than-this-was",
   title: "More Than This Was",
-  artist: "zara-larsson",
+  artist: "artist/zara-larsson",
   externalIdentity: [
     {
       source: "musicbrainz",

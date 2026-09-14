@@ -5,7 +5,7 @@ export const jessicaBaioNaturally = {
   type: "song",
   slug: "jessica-baio-naturally",
   title: "naturally",
-  artist: "jessica-baio",
+  artist: "artist/jessica-baio",
   externalIdentity: [
     {
       source: "musicbrainz",

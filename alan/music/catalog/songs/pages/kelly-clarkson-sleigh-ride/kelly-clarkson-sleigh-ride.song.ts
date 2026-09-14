@@ -5,7 +5,7 @@ export const kellyClarksonSleighRide = {
   type: "song",
   slug: "kelly-clarkson-sleigh-ride",
   title: "Sleigh Ride",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

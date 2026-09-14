@@ -5,7 +5,7 @@ export const taylorSwiftSayDonTGo = {
   type: "song",
   slug: "taylor-swift-say-don-t-go",
   title: "Say Don’t Go",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const arianaGrandeThankUNext = {
   type: "song",
   slug: "ariana-grande-thank-u-next",
   title: "thank u, next",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const billieEilishBirdsOfAFeather = {
   type: "song",
   slug: "billie-eilish-birds-of-a-feather",
   title: "BIRDS OF A FEATHER",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

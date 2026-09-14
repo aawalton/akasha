@@ -5,7 +5,7 @@ export const taylorSwiftTheManuscript = {
   type: "song",
   slug: "taylor-swift-the-manuscript",
   title: "The Manuscript",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

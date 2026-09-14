@@ -5,7 +5,7 @@ export const arianaGrandeHowItSDone = {
   type: "song",
   slug: "ariana-grande-how-it-s-done",
   title: "How It’s Done",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

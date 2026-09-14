@@ -5,7 +5,7 @@ export const zaraLarssonTheAmbition = {
   type: "song",
   slug: "zara-larsson-the-ambition",
   title: "The Ambition",
-  artist: "zara-larsson",
+  artist: "artist/zara-larsson",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const jessicaBaioUnoptimistic = {
   type: "song",
   slug: "jessica-baio-unoptimistic",
   title: "unoptimistic",
-  artist: "jessica-baio",
+  artist: "artist/jessica-baio",
   externalIdentity: [
     {
       source: "musicbrainz",

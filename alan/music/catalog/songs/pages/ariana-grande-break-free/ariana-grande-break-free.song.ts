@@ -5,7 +5,7 @@ export const arianaGrandeBreakFree = {
   type: "song",
   slug: "ariana-grande-break-free",
   title: "Break Free",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

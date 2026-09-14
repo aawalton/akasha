@@ -5,7 +5,7 @@ export const taylorSwiftFoolishOne = {
   type: "song",
   slug: "taylor-swift-foolish-one",
   title: "Foolish One",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

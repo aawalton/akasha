@@ -5,7 +5,7 @@ export const lilithMaxMaidenSNight = {
   type: "song",
   slug: "lilith-max-maiden-s-night",
   title: "Maiden's Night",
-  artist: "lilith-max",
+  artist: "artist/lilith-max",
   externalIdentity: [
     {
       source: "musicbrainz",

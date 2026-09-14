@@ -5,7 +5,7 @@ export const taylorSwiftPrettyWords = {
   type: "song",
   slug: "taylor-swift-pretty-words",
   title: "Pretty Words",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

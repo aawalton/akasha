@@ -5,7 +5,7 @@ export const taylorSwiftSmokeyBlackNights = {
   type: "song",
   slug: "taylor-swift-smokey-black-nights",
   title: "Smokey Black Nights",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

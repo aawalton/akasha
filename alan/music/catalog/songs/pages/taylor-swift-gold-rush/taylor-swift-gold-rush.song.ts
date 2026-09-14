@@ -5,7 +5,7 @@ export const taylorSwiftGoldRush = {
   type: "song",
   slug: "taylor-swift-gold-rush",
   title: "gold rush",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

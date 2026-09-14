@@ -5,7 +5,7 @@ export const kellyClarksonYouThoughtWrong = {
   type: "song",
   slug: "kelly-clarkson-you-thought-wrong",
   title: "You Thought Wrong",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const mitskiYourBestAmericanGirl = {
   type: "song",
   slug: "mitski-your-best-american-girl",
   title: "Your Best American Girl",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

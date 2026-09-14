@@ -5,7 +5,7 @@ export const taylorSwiftSpeakNow = {
   type: "song",
   slug: "taylor-swift-speak-now",
   title: "Speak Now",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

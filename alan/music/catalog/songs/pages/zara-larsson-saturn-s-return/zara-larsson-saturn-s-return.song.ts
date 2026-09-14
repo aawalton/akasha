@@ -5,7 +5,7 @@ export const zaraLarssonSaturnSReturn = {
   type: "song",
   slug: "zara-larsson-saturn-s-return",
   title: "Saturn’s Return",
-  artist: "zara-larsson",
+  artist: "artist/zara-larsson",
   externalIdentity: [
     {
       source: "musicbrainz",

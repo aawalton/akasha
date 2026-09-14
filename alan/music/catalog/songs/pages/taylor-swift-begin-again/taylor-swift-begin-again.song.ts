@@ -5,7 +5,7 @@ export const taylorSwiftBeginAgain = {
   type: "song",
   slug: "taylor-swift-begin-again",
   title: "Begin Again",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

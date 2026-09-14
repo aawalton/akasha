@@ -5,7 +5,7 @@ export const taylorSwiftSoonYouLlGetBetter = {
   type: "song",
   slug: "taylor-swift-soon-you-ll-get-better",
   title: "Soon You’ll Get Better",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const arianaGrandeCadillacSong = {
   type: "song",
   slug: "ariana-grande-cadillac-song",
   title: "Cadillac Song",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

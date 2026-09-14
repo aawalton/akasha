@@ -5,7 +5,7 @@ export const taylorSwiftRonan = {
   type: "song",
   slug: "taylor-swift-ronan",
   title: "Ronan",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

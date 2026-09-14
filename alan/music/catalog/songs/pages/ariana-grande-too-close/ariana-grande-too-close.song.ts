@@ -5,7 +5,7 @@ export const arianaGrandeTooClose = {
   type: "song",
   slug: "ariana-grande-too-close",
   title: "Too Close",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

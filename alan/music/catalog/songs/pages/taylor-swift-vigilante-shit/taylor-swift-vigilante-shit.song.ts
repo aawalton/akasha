@@ -5,7 +5,7 @@ export const taylorSwiftVigilanteShit = {
   type: "song",
   slug: "taylor-swift-vigilante-shit",
   title: "Vigilante Shit",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const arianaGrandeLoveLanguage = {
   type: "song",
   slug: "ariana-grande-love-language",
   title: "Love Language",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftBothOfUs = {
   type: "song",
   slug: "taylor-swift-both-of-us",
   title: "Both of Us",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

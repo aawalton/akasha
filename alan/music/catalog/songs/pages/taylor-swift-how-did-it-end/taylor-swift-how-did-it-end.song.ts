@@ -5,7 +5,7 @@ export const taylorSwiftHowDidItEnd = {
   type: "song",
   slug: "taylor-swift-how-did-it-end",
   title: "How Did It End?",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

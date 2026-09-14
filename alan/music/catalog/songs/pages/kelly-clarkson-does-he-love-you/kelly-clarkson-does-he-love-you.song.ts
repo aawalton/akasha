@@ -5,7 +5,7 @@ export const kellyClarksonDoesHeLoveYou = {
   type: "song",
   slug: "kelly-clarkson-does-he-love-you",
   title: "Does He Love You",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const billieEilishWhenThePartySOver = {
   type: "song",
   slug: "billie-eilish-when-the-party-s-over",
   title: "when the party’s over",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

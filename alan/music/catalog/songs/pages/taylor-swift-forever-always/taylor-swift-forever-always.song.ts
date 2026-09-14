@@ -5,7 +5,7 @@ export const taylorSwiftForeverAlways = {
   type: "song",
   slug: "taylor-swift-forever-always",
   title: "Forever & Always",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

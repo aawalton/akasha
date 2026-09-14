@@ -5,7 +5,7 @@ export const siaDiamondsRemix = {
   type: "song",
   slug: "sia-diamonds-remix",
   title: "Diamonds (remix)",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

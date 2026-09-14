@@ -5,7 +5,7 @@ export const kellyClarksonWideOpenSpaces = {
   type: "song",
   slug: "kelly-clarkson-wide-open-spaces",
   title: "Wide Open Spaces",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

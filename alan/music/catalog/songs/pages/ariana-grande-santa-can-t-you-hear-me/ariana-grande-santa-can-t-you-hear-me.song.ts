@@ -5,7 +5,7 @@ export const arianaGrandeSantaCanTYouHearMe = {
   type: "song",
   slug: "ariana-grande-santa-can-t-you-hear-me",
   title: "Santa, Can’t You Hear Me",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

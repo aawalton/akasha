@@ -5,7 +5,7 @@ export const siaRockAndBalloon = {
   type: "song",
   slug: "sia-rock-and-balloon",
   title: "Rock and Balloon",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

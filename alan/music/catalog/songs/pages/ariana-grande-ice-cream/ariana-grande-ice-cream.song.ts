@@ -5,7 +5,7 @@ export const arianaGrandeIceCream = {
   type: "song",
   slug: "ariana-grande-ice-cream",
   title: "Ice Cream",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

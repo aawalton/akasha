@@ -5,7 +5,7 @@ export const taylorSwiftDancingWithOurHandsTied = {
   type: "song",
   slug: "taylor-swift-dancing-with-our-hands-tied",
   title: "Dancing With Our Hands Tied",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

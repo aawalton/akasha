@@ -5,7 +5,7 @@ export const arianaGrandeSnowInCalifornia = {
   type: "song",
   slug: "ariana-grande-snow-in-california",
   title: "Snow in California",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

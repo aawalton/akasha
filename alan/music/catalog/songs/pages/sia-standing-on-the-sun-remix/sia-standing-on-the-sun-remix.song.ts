@@ -5,7 +5,7 @@ export const siaStandingOnTheSunRemix = {
   type: "song",
   slug: "sia-standing-on-the-sun-remix",
   title: "Standing on the Sun Remix",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftThisIsMeTrying = {
   type: "song",
   slug: "taylor-swift-this-is-me-trying",
   title: "this is me trying",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

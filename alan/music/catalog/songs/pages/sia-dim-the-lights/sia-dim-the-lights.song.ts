@@ -5,7 +5,7 @@ export const siaDimTheLights = {
   type: "song",
   slug: "sia-dim-the-lights",
   title: "Dim the Lights",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const kellyClarksonSecondHandHeart = {
   type: "song",
   slug: "kelly-clarkson-second-hand-heart",
   title: "Second Hand Heart",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

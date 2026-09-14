@@ -5,7 +5,7 @@ export const siaDelMar = {
   type: "song",
   slug: "sia-del-mar",
   title: "Del mar",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

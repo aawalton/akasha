@@ -5,7 +5,7 @@ export const billieEilishExFiles = {
   type: "song",
   slug: "billie-eilish-ex-files",
   title: "ex files",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const siaSantaSComingForUs = {
   type: "song",
   slug: "sia-santa-s-coming-for-us",
   title: "Santa’s Coming for Us",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

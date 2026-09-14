@@ -5,7 +5,7 @@ export const kellyClarksonIDareYou = {
   type: "song",
   slug: "kelly-clarkson-i-dare-you",
   title: "I Dare You",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftBabyDonTYouBreakMyHeartSlow = {
   type: "song",
   slug: "taylor-swift-baby-don-t-you-break-my-heart-slow",
   title: "Baby, Don’t You Break My Heart Slow",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

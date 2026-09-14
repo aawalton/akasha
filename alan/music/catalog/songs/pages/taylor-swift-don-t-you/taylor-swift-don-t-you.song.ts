@@ -5,7 +5,7 @@ export const taylorSwiftDonTYou = {
   type: "song",
   slug: "taylor-swift-don-t-you",
   title: "Don’t You",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftDonTBlameMe = {
   type: "song",
   slug: "taylor-swift-don-t-blame-me",
   title: "Don’t Blame Me",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

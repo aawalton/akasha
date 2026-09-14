@@ -5,7 +5,7 @@ export const lilithMaxBearsWolves = {
   type: "song",
   slug: "lilith-max-bears-wolves",
   title: "Bears & Wolves",
-  artist: "lilith-max",
+  artist: "artist/lilith-max",
   externalIdentity: [
     {
       source: "musicbrainz",

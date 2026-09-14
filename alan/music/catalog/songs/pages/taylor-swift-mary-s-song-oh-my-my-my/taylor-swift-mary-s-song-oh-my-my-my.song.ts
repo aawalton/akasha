@@ -5,7 +5,7 @@ export const taylorSwiftMarySSongOhMyMyMy = {
   type: "song",
   slug: "taylor-swift-mary-s-song-oh-my-my-my",
   title: "Mary’s Song (Oh My My My)",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

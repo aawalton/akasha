@@ -5,7 +5,7 @@ export const lilithMaxDoYouBelieve = {
   type: "song",
   slug: "lilith-max-do-you-believe",
   title: "Do You Believe",
-  artist: "lilith-max",
+  artist: "artist/lilith-max",
   externalIdentity: [
     {
       source: "musicbrainz",

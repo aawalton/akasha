@@ -5,7 +5,7 @@ export const siaIfICanTHaveYou = {
   type: "song",
   slug: "sia-if-i-can-t-have-you",
   title: "If I Can’t Have You",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

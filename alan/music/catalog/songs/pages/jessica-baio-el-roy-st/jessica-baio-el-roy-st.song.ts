@@ -5,7 +5,7 @@ export const jessicaBaioElRoySt = {
   type: "song",
   slug: "jessica-baio-el-roy-st",
   title: "el roy st.",
-  artist: "jessica-baio",
+  artist: "artist/jessica-baio",
   externalIdentity: [
     {
       source: "musicbrainz",

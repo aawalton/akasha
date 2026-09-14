@@ -5,7 +5,7 @@ export const billieEilishOxytocin = {
   type: "song",
   slug: "billie-eilish-oxytocin",
   title: "Oxytocin",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

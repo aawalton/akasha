@@ -5,7 +5,7 @@ export const billieEilishListenBeforeIGo = {
   type: "song",
   slug: "billie-eilish-listen-before-i-go",
   title: "listen before i go",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

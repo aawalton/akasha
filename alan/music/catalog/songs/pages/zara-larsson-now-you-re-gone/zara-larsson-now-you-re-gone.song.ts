@@ -5,7 +5,7 @@ export const zaraLarssonNowYouReGone = {
   type: "song",
   slug: "zara-larsson-now-you-re-gone",
   title: "Now You’re Gone",
-  artist: "zara-larsson",
+  artist: "artist/zara-larsson",
   externalIdentity: [
     {
       source: "musicbrainz",

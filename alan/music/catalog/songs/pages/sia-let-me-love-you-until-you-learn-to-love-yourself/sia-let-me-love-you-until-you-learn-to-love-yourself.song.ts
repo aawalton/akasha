@@ -5,7 +5,7 @@ export const siaLetMeLoveYouUntilYouLearnToLoveYourself = {
   type: "song",
   slug: "sia-let-me-love-you-until-you-learn-to-love-yourself",
   title: "Let Me Love You (Until You Learn to Love Yourself)",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

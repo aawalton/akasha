@@ -5,7 +5,7 @@ export const kellyClarksonChristmasIsnTCanceledJustYou = {
   type: "song",
   slug: "kelly-clarkson-christmas-isn-t-canceled-just-you",
   title: "Christmas Isn’t Canceled (Just You)",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

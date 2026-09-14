@@ -5,7 +5,7 @@ export const siaIMNotImportantToYou = {
   type: "song",
   slug: "sia-i-m-not-important-to-you",
   title: "I’m Not Important to You",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

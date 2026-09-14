@@ -5,7 +5,7 @@ export const kellyClarksonSinceUBeenGone = {
   type: "song",
   slug: "kelly-clarkson-since-u-been-gone",
   title: "Since U Been Gone",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftInvisibleString = {
   type: "song",
   slug: "taylor-swift-invisible-string",
   title: "invisible string",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

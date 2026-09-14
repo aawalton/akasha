@@ -5,7 +5,7 @@ export const arianaGrandeRaindropsAnAngelCried = {
   type: "song",
   slug: "ariana-grande-raindrops-an-angel-cried",
   title: "raindrops (an angel cried)",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

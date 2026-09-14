@@ -5,7 +5,7 @@ export const taylorSwiftTheLifeOfAShowgirl = {
   type: "song",
   slug: "taylor-swift-the-life-of-a-showgirl",
   title: "The Life of a Showgirl",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

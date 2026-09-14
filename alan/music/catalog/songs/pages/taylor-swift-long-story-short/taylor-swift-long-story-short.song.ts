@@ -5,7 +5,7 @@ export const taylorSwiftLongStoryShort = {
   type: "song",
   slug: "taylor-swift-long-story-short",
   title: "long story short",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

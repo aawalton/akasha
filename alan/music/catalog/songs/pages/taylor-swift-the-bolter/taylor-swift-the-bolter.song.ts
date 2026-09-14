@@ -5,7 +5,7 @@ export const taylorSwiftTheBolter = {
   type: "song",
   slug: "taylor-swift-the-bolter",
   title: "The Bolter",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

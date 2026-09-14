@@ -5,7 +5,7 @@ export const siaILoveItTrialsRemix = {
   type: "song",
   slug: "sia-i-love-it-trials-remix",
   title: "I Love It (Trials remix)",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

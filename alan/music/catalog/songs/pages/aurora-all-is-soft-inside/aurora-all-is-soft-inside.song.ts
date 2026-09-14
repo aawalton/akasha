@@ -5,7 +5,7 @@ export const auroraAllIsSoftInside = {
   type: "song",
   slug: "aurora-all-is-soft-inside",
   title: "All Is Soft Inside",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

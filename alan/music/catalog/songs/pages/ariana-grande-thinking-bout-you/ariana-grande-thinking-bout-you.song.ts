@@ -5,7 +5,7 @@ export const arianaGrandeThinkingBoutYou = {
   type: "song",
   slug: "ariana-grande-thinking-bout-you",
   title: "Thinking Bout You",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

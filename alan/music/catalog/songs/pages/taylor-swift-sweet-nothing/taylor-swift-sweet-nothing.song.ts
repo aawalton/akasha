@@ -5,7 +5,7 @@ export const taylorSwiftSweetNothing = {
   type: "song",
   slug: "taylor-swift-sweet-nothing",
   title: "Sweet Nothing",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

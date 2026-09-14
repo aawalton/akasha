@@ -5,7 +5,7 @@ export const auroraAcrossTheUniverse = {
   type: "song",
   slug: "aurora-across-the-universe",
   title: "Across the Universe",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

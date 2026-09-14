@@ -5,7 +5,7 @@ export const zaraLarssonCarryYouHome = {
   type: "song",
   slug: "zara-larsson-carry-you-home",
   title: "Carry You Home",
-  artist: "zara-larsson",
+  artist: "artist/zara-larsson",
   externalIdentity: [
     {
       source: "musicbrainz",

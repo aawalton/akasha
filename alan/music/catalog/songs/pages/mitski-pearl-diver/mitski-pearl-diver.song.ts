@@ -5,7 +5,7 @@ export const mitskiPearlDiver = {
   type: "song",
   slug: "mitski-pearl-diver",
   title: "Pearl Diver",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

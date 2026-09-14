@@ -5,7 +5,7 @@ export const taylorSwiftAmericanBoy = {
   type: "song",
   slug: "taylor-swift-american-boy",
   title: "American Boy",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

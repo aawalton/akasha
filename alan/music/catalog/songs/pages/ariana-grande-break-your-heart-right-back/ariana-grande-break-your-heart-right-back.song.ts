@@ -5,7 +5,7 @@ export const arianaGrandeBreakYourHeartRightBack = {
   type: "song",
   slug: "ariana-grande-break-your-heart-right-back",
   title: "Break Your Heart Right Back",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

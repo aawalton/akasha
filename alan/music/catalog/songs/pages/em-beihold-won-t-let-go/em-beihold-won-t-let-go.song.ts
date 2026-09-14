@@ -5,7 +5,7 @@ export const emBeiholdWonTLetGo = {
   type: "song",
   slug: "em-beihold-won-t-let-go",
   title: "Won’t Let Go",
-  artist: "em-beihold",
+  artist: "artist/em-beihold",
   externalIdentity: [
     {
       source: "musicbrainz",

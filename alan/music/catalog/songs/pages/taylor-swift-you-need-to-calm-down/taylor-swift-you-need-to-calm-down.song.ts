@@ -5,7 +5,7 @@ export const taylorSwiftYouNeedToCalmDown = {
   type: "song",
   slug: "taylor-swift-you-need-to-calm-down",
   title: "You Need to Calm Down",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

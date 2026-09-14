@@ -5,7 +5,7 @@ export const taylorSwiftIfThisWasAMovie = {
   type: "song",
   slug: "taylor-swift-if-this-was-a-movie",
   title: "If This Was a Movie",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

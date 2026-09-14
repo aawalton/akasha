@@ -5,7 +5,7 @@ export const evynneHollensGrownUpChristmasList = {
   type: "song",
   slug: "evynne-hollens-grown-up-christmas-list",
   title: "Grown‐Up Christmas List",
-  artist: "evynne-hollens",
+  artist: "artist/evynne-hollens",
   externalIdentity: [
     {
       source: "musicbrainz",

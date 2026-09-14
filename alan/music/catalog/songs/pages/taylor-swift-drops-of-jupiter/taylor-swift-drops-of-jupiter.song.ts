@@ -5,7 +5,7 @@ export const taylorSwiftDropsOfJupiter = {
   type: "song",
   slug: "taylor-swift-drops-of-jupiter",
   title: "Drops of Jupiter",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const billieEilishNda = {
   type: "song",
   slug: "billie-eilish-nda",
   title: "NDA",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

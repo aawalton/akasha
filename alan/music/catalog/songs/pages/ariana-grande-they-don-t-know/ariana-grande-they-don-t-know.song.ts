@@ -5,7 +5,7 @@ export const arianaGrandeTheyDonTKnow = {
   type: "song",
   slug: "ariana-grande-they-don-t-know",
   title: "They Don’t Know",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

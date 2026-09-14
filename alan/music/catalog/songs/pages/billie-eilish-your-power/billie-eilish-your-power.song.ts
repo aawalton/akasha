@@ -5,7 +5,7 @@ export const billieEilishYourPower = {
   type: "song",
   slug: "billie-eilish-your-power",
   title: "Your Power",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

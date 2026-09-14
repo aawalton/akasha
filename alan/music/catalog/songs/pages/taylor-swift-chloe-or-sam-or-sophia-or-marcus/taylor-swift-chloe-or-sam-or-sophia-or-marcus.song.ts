@@ -5,7 +5,7 @@ export const taylorSwiftChloeOrSamOrSophiaOrMarcus = {
   type: "song",
   slug: "taylor-swift-chloe-or-sam-or-sophia-or-marcus",
   title: "Chloe or Sam or Sophia or Marcus",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

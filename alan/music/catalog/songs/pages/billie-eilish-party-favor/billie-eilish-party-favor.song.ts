@@ -5,7 +5,7 @@ export const billieEilishPartyFavor = {
   type: "song",
   slug: "billie-eilish-party-favor",
   title: "party favor",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

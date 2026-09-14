@@ -5,7 +5,7 @@ export const siaNeverGonnaLeaveMe = {
   type: "song",
   slug: "sia-never-gonna-leave-me",
   title: "Never Gonna Leave Me",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

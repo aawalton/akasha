@@ -5,7 +5,7 @@ export const taylorSwiftHoax = {
   type: "song",
   slug: "taylor-swift-hoax",
   title: "hoax",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

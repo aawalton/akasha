@@ -5,7 +5,7 @@ export const taylorSwiftIWishYouWould = {
   type: "song",
   slug: "taylor-swift-i-wish-you-would",
   title: "I Wish You Would",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

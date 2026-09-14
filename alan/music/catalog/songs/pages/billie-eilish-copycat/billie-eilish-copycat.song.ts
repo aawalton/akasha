@@ -5,7 +5,7 @@ export const billieEilishCopycat = {
   type: "song",
   slug: "billie-eilish-copycat",
   title: "COPYCAT",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

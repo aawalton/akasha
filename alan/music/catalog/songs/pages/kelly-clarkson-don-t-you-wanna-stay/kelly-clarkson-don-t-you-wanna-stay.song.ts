@@ -5,7 +5,7 @@ export const kellyClarksonDonTYouWannaStay = {
   type: "song",
   slug: "kelly-clarkson-don-t-you-wanna-stay",
   title: "Don’t You Wanna Stay",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

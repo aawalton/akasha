@@ -5,7 +5,7 @@ export const imagineDragonsIntermission5DrumSolo = {
   type: "song",
   slug: "imagine-dragons-intermission-5-drum-solo",
   title: "Intermission #5: Drum Solo",
-  artist: "imagine-dragons",
+  artist: "artist/imagine-dragons",
   externalIdentity: [
     {
       source: "musicbrainz",

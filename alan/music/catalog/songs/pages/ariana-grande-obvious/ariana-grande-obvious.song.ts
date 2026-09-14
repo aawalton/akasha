@@ -5,7 +5,7 @@ export const arianaGrandeObvious = {
   type: "song",
   slug: "ariana-grande-obvious",
   title: "obvious",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

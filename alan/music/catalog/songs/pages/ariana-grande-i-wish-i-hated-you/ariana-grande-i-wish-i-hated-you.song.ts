@@ -5,7 +5,7 @@ export const arianaGrandeIWishIHatedYou = {
   type: "song",
   slug: "ariana-grande-i-wish-i-hated-you",
   title: "i wish i hated you",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

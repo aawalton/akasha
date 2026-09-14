@@ -5,7 +5,7 @@ export const jessicaBaioWhatAreYouAfraidOf = {
   type: "song",
   slug: "jessica-baio-what-are-you-afraid-of",
   title: "what are you afraid of?",
-  artist: "jessica-baio",
+  artist: "artist/jessica-baio",
   externalIdentity: [
     {
       source: "musicbrainz",

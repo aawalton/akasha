@@ -5,7 +5,7 @@ export const arianaGrandePov = {
   type: "song",
   slug: "ariana-grande-pov",
   title: "pov",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

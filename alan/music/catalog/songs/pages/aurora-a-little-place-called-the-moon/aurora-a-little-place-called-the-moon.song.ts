@@ -5,7 +5,7 @@ export const auroraALittlePlaceCalledTheMoon = {
   type: "song",
   slug: "aurora-a-little-place-called-the-moon",
   title: "A Little Place Called the Moon",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

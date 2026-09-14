@@ -5,7 +5,7 @@ export const kellyClarksonAllIAskOfYou = {
   type: "song",
   slug: "kelly-clarkson-all-i-ask-of-you",
   title: "All I Ask of You",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

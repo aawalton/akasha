@@ -5,7 +5,7 @@ export const taylorSwiftHeySoulSister = {
   type: "song",
   slug: "taylor-swift-hey-soul-sister",
   title: "Hey, Soul Sister",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

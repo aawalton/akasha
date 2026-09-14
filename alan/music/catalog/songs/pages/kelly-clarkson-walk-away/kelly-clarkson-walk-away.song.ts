@@ -5,7 +5,7 @@ export const kellyClarksonWalkAway = {
   type: "song",
   slug: "kelly-clarkson-walk-away",
   title: "Walk Away",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

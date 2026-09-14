@@ -5,7 +5,7 @@ export const arianaGrandeIntro2 = {
   type: "song",
   slug: "ariana-grande-intro-2",
   title: "Intro",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const arianaGrandeTearinUpMyHeart = {
   type: "song",
   slug: "ariana-grande-tearin-up-my-heart",
   title: "Tearin’ Up My Heart",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

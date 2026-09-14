@@ -5,7 +5,7 @@ export const taylorSwiftOutOfTheWoods = {
   type: "song",
   slug: "taylor-swift-out-of-the-woods",
   title: "Out of the Woods",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

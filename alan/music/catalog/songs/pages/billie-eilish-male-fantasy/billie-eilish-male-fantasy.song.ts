@@ -5,7 +5,7 @@ export const billieEilishMaleFantasy = {
   type: "song",
   slug: "billie-eilish-male-fantasy",
   title: "Male Fantasy",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

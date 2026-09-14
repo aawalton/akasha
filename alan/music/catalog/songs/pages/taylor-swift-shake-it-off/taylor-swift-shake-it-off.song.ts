@@ -5,7 +5,7 @@ export const taylorSwiftShakeItOff = {
   type: "song",
   slug: "taylor-swift-shake-it-off",
   title: "Shake It Off",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

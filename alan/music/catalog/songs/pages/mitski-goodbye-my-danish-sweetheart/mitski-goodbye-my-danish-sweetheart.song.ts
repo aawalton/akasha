@@ -5,7 +5,7 @@ export const mitskiGoodbyeMyDanishSweetheart = {
   type: "song",
   slug: "mitski-goodbye-my-danish-sweetheart",
   title: "Goodbye, My Danish Sweetheart",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

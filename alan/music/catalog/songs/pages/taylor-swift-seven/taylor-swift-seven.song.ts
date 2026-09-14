@@ -5,7 +5,7 @@ export const taylorSwiftSeven = {
   type: "song",
   slug: "taylor-swift-seven",
   title: "seven",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

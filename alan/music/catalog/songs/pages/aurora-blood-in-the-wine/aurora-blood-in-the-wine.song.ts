@@ -5,7 +5,7 @@ export const auroraBloodInTheWine = {
   type: "song",
   slug: "aurora-blood-in-the-wine",
   title: "Blood in the Wine",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const jessicaBaioHeLovesMeHeLovesMeNot = {
   type: "song",
   slug: "jessica-baio-he-loves-me-he-loves-me-not",
   title: "he loves me, he loves me not",
-  artist: "jessica-baio",
+  artist: "artist/jessica-baio",
   externalIdentity: [
     {
       source: "musicbrainz",

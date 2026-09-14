@@ -5,7 +5,7 @@ export const taylorSwiftMastermind = {
   type: "song",
   slug: "taylor-swift-mastermind",
   title: "Mastermind",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

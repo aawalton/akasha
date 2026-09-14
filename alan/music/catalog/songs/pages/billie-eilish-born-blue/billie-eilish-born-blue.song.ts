@@ -5,7 +5,7 @@ export const billieEilishBornBlue = {
   type: "song",
   slug: "billie-eilish-born-blue",
   title: "BORN BLUE",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

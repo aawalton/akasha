@@ -5,7 +5,7 @@ export const auroraASoulWithNoKing = {
   type: "song",
   slug: "aurora-a-soul-with-no-king",
   title: "A Soul With No King",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftTheVeryFirstNight = {
   type: "song",
   slug: "taylor-swift-the-very-first-night",
   title: "The Very First Night",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

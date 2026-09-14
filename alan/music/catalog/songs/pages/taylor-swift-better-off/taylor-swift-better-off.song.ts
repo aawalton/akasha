@@ -5,7 +5,7 @@ export const taylorSwiftBetterOff = {
   type: "song",
   slug: "taylor-swift-better-off",
   title: "Better Off",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

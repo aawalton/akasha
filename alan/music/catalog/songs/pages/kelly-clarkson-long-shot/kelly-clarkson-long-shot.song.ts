@@ -5,7 +5,7 @@ export const kellyClarksonLongShot = {
   type: "song",
   slug: "kelly-clarkson-long-shot",
   title: "Long Shot",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

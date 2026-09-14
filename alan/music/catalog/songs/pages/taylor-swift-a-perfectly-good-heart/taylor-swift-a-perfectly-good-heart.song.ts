@@ -5,7 +5,7 @@ export const taylorSwiftAPerfectlyGoodHeart = {
   type: "song",
   slug: "taylor-swift-a-perfectly-good-heart",
   title: "A Perfectly Good Heart",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const mitskiTwoSlowDancers = {
   type: "song",
   slug: "mitski-two-slow-dancers",
   title: "Two Slow Dancers",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

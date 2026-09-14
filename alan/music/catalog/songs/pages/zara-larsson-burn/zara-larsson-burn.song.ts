@@ -5,7 +5,7 @@ export const zaraLarssonBurn = {
   type: "song",
   slug: "zara-larsson-burn",
   title: "Burn",
-  artist: "zara-larsson",
+  artist: "artist/zara-larsson",
   externalIdentity: [
     {
       source: "musicbrainz",

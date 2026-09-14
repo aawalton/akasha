@@ -5,7 +5,7 @@ export const taylorSwiftDriveForDaddyGene = {
   type: "song",
   slug: "taylor-swift-drive-for-daddy-gene",
   title: "Drive (For Daddy Gene)",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

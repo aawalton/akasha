@@ -5,7 +5,7 @@ export const auroraAtacamaWinds = {
   type: "song",
   slug: "aurora-atacama-winds",
   title: "Atacama Winds",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

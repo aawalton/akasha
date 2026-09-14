@@ -5,7 +5,7 @@ export const lilithMaxChampagneCigarettes = {
   type: "song",
   slug: "lilith-max-champagne-cigarettes",
   title: "Champagne & Cigarettes",
-  artist: "lilith-max",
+  artist: "artist/lilith-max",
   externalIdentity: [
     {
       source: "musicbrainz",

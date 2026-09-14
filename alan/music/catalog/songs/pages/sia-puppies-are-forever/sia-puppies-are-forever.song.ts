@@ -5,7 +5,7 @@ export const siaPuppiesAreForever = {
   type: "song",
   slug: "sia-puppies-are-forever",
   title: "Puppies Are Forever",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

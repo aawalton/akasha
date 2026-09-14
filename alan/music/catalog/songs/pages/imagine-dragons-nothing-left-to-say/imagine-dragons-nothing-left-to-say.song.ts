@@ -5,7 +5,7 @@ export const imagineDragonsNothingLeftToSay = {
   type: "song",
   slug: "imagine-dragons-nothing-left-to-say",
   title: "Nothing Left to Say",
-  artist: "imagine-dragons",
+  artist: "artist/imagine-dragons",
   externalIdentity: [
     {
       source: "musicbrainz",

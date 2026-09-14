@@ -5,7 +5,7 @@ export const taylorSwiftBlankSpace = {
   type: "song",
   slug: "taylor-swift-blank-space",
   title: "Blank Space",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

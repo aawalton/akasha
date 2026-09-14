@@ -5,7 +5,7 @@ export const taylorSwiftNewRomantics = {
   type: "song",
   slug: "taylor-swift-new-romantics",
   title: "New Romantics",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

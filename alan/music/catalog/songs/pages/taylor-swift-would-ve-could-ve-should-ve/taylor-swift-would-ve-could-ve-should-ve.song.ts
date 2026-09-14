@@ -5,7 +5,7 @@ export const taylorSwiftWouldVeCouldVeShouldVe = {
   type: "song",
   slug: "taylor-swift-would-ve-could-ve-should-ve",
   title: "Would’ve, Could’ve, Should’ve",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

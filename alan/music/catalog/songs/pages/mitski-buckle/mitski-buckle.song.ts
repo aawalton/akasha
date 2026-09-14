@@ -5,7 +5,7 @@ export const mitskiBuckle = {
   type: "song",
   slug: "mitski-buckle",
   title: "Buckle",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

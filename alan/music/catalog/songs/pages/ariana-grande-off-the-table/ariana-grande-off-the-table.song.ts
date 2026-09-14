@@ -5,7 +5,7 @@ export const arianaGrandeOffTheTable = {
   type: "song",
   slug: "ariana-grande-off-the-table",
   title: "off the table",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

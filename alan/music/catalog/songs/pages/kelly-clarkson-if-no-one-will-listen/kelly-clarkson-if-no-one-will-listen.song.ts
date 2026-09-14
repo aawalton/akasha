@@ -5,7 +5,7 @@ export const kellyClarksonIfNoOneWillListen = {
   type: "song",
   slug: "kelly-clarkson-if-no-one-will-listen",
   title: "If No One Will Listen",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

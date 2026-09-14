@@ -5,7 +5,7 @@ export const taylorSwiftSuburbanLegends = {
   type: "song",
   slug: "taylor-swift-suburban-legends",
   title: "Suburban Legends",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

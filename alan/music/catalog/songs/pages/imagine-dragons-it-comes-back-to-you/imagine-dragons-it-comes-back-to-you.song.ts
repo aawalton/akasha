@@ -5,7 +5,7 @@ export const imagineDragonsItComesBackToYou = {
   type: "song",
   slug: "imagine-dragons-it-comes-back-to-you",
   title: "It Comes Back to You",
-  artist: "imagine-dragons",
+  artist: "artist/imagine-dragons",
   externalIdentity: [
     {
       source: "musicbrainz",

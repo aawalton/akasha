@@ -5,7 +5,7 @@ export const arianaGrandeWorstBehavior = {
   type: "song",
   slug: "ariana-grande-worst-behavior",
   title: "worst behavior",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

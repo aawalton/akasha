@@ -5,7 +5,7 @@ export const auroraScarsOfTheEarth = {
   type: "song",
   slug: "aurora-scars-of-the-earth",
   title: "Scars of the Earth",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

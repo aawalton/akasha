@@ -5,7 +5,7 @@ export const jessicaBaioGladYouReSettling = {
   type: "song",
   slug: "jessica-baio-glad-you-re-settling",
   title: "glad you’re settling",
-  artist: "jessica-baio",
+  artist: "artist/jessica-baio",
   externalIdentity: [
     {
       source: "musicbrainz",

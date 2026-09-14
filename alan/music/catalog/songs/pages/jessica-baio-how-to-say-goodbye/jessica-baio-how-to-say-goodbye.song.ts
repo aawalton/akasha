@@ -5,7 +5,7 @@ export const jessicaBaioHowToSayGoodbye = {
   type: "song",
   slug: "jessica-baio-how-to-say-goodbye",
   title: "How To Say Goodbye",
-  artist: "jessica-baio",
+  artist: "artist/jessica-baio",
   externalIdentity: [
     {
       source: "musicbrainz",

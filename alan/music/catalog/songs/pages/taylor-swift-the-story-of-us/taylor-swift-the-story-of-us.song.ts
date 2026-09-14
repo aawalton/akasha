@@ -5,7 +5,7 @@ export const taylorSwiftTheStoryOfUs = {
   type: "song",
   slug: "taylor-swift-the-story-of-us",
   title: "The Story of Us",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

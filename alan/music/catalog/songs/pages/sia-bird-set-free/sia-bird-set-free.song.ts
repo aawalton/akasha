@@ -5,7 +5,7 @@ export const siaBirdSetFree = {
   type: "song",
   slug: "sia-bird-set-free",
   title: "Bird Set Free",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

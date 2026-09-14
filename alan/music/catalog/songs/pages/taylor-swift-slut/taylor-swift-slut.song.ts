@@ -5,7 +5,7 @@ export const taylorSwiftSlut = {
   type: "song",
   slug: "taylor-swift-slut",
   title: "“Slut!”",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

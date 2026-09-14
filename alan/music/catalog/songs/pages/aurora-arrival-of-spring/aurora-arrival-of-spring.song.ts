@@ -5,7 +5,7 @@ export const auroraArrivalOfSpring = {
   type: "song",
   slug: "aurora-arrival-of-spring",
   title: "Arrival of Spring",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

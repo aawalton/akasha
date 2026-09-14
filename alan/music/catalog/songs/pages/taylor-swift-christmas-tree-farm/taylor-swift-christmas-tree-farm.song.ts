@@ -5,7 +5,7 @@ export const taylorSwiftChristmasTreeFarm = {
   type: "song",
   slug: "taylor-swift-christmas-tree-farm",
   title: "Christmas Tree Farm",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

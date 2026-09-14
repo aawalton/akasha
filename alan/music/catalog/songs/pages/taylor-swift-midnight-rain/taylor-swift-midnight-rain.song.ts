@@ -5,7 +5,7 @@ export const taylorSwiftMidnightRain = {
   type: "song",
   slug: "taylor-swift-midnight-rain",
   title: "Midnight Rain",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

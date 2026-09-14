@@ -5,7 +5,7 @@ export const zaraLarssonLoveMeLand = {
   type: "song",
   slug: "zara-larsson-love-me-land",
   title: "Love Me Land",
-  artist: "zara-larsson",
+  artist: "artist/zara-larsson",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const arianaGrandeGhostin = {
   type: "song",
   slug: "ariana-grande-ghostin",
   title: "ghostin",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

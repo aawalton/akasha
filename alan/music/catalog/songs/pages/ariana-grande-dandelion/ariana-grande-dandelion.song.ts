@@ -5,7 +5,7 @@ export const arianaGrandeDandelion = {
   type: "song",
   slug: "ariana-grande-dandelion",
   title: "dandelion",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

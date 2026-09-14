@@ -5,7 +5,7 @@ export const arianaGrandeTheBoyIsMineRemix = {
   type: "song",
   slug: "ariana-grande-the-boy-is-mine-remix",
   title: "the boy is mine (remix)",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

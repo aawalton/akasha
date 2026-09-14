@@ -5,7 +5,7 @@ export const taylorSwiftTheAlchemy = {
   type: "song",
   slug: "taylor-swift-the-alchemy",
   title: "The Alchemy",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

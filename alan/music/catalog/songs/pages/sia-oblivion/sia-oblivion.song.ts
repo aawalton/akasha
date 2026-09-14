@@ -5,7 +5,7 @@ export const siaOblivion = {
   type: "song",
   slug: "sia-oblivion",
   title: "Oblivion",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const auroraHalfTheWorldAway = {
   type: "song",
   slug: "aurora-half-the-world-away",
   title: "Half the World Away",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

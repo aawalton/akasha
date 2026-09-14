@@ -5,7 +5,7 @@ export const imagineDragonsRealLife = {
   type: "song",
   slug: "imagine-dragons-real-life",
   title: "Real Life",
-  artist: "imagine-dragons",
+  artist: "artist/imagine-dragons",
   externalIdentity: [
     {
       source: "musicbrainz",

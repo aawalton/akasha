@@ -5,7 +5,7 @@ export const kellyClarksonJingleBellRock = {
   type: "song",
   slug: "kelly-clarkson-jingle-bell-rock",
   title: "Jingle Bell Rock",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

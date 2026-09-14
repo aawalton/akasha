@@ -5,7 +5,7 @@ export const lilithMaxBornToDie = {
   type: "song",
   slug: "lilith-max-born-to-die",
   title: "Born to Die",
-  artist: "lilith-max",
+  artist: "artist/lilith-max",
   externalIdentity: [
     {
       source: "musicbrainz",

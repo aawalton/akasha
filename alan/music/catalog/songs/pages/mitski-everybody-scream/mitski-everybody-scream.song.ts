@@ -5,7 +5,7 @@ export const mitskiEverybodyScream = {
   type: "song",
   slug: "mitski-everybody-scream",
   title: "Everybody Scream",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

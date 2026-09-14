@@ -5,7 +5,7 @@ export const arianaGrandeSantaTellMe = {
   type: "song",
   slug: "ariana-grande-santa-tell-me",
   title: "Santa Tell Me",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

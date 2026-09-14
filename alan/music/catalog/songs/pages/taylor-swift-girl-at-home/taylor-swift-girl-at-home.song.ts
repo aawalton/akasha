@@ -5,7 +5,7 @@ export const taylorSwiftGirlAtHome = {
   type: "song",
   slug: "taylor-swift-girl-at-home",
   title: "Girl at Home",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const arianaGrandeGiveItUp = {
   type: "song",
   slug: "ariana-grande-give-it-up",
   title: "Give It Up",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

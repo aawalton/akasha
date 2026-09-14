@@ -5,7 +5,7 @@ export const taylorSwiftTheWayILovedYou = {
   type: "song",
   slug: "taylor-swift-the-way-i-loved-you",
   title: "The Way I Loved You",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

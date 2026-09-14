@@ -5,7 +5,7 @@ export const siaJesusWept = {
   type: "song",
   slug: "sia-jesus-wept",
   title: "Jesus Wept",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

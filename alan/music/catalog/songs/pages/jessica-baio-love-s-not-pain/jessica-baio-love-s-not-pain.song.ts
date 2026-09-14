@@ -5,7 +5,7 @@ export const jessicaBaioLoveSNotPain = {
   type: "song",
   slug: "jessica-baio-love-s-not-pain",
   title: "love's not pain",
-  artist: "jessica-baio",
+  artist: "artist/jessica-baio",
   externalIdentity: [
     {
       source: "musicbrainz",

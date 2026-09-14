@@ -5,7 +5,7 @@ export const arianaGrandeNoTearsLeftToCry = {
   type: "song",
   slug: "ariana-grande-no-tears-left-to-cry",
   title: "no tears left to cry",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

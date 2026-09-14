@@ -5,7 +5,7 @@ export const arianaGrandeJustLikeMagic = {
   type: "song",
   slug: "ariana-grande-just-like-magic",
   title: "just like magic",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

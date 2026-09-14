@@ -5,7 +5,7 @@ export const mitskiILlChangeForYou = {
   type: "song",
   slug: "mitski-i-ll-change-for-you",
   title: "I’ll Change for You",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftILookInPeopleSWindows = {
   type: "song",
   slug: "taylor-swift-i-look-in-people-s-windows",
   title: "I Look in People’s Windows",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const zaraLarssonSheSNotMePt2 = {
   type: "song",
   slug: "zara-larsson-she-s-not-me-pt-2",
   title: "She's Not Me, Pt. 2",
-  artist: "zara-larsson",
+  artist: "artist/zara-larsson",
   externalIdentity: [
     {
       source: "musicbrainz",

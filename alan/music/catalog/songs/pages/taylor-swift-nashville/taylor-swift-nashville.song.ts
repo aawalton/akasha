@@ -5,7 +5,7 @@ export const taylorSwiftNashville = {
   type: "song",
   slug: "taylor-swift-nashville",
   title: "Nashville",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

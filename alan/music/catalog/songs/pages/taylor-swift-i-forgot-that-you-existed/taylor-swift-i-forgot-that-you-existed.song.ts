@@ -5,7 +5,7 @@ export const taylorSwiftIForgotThatYouExisted = {
   type: "song",
   slug: "taylor-swift-i-forgot-that-you-existed",
   title: "I Forgot That You Existed",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const billieEilishGuess = {
   type: "song",
   slug: "billie-eilish-guess",
   title: "Guess",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

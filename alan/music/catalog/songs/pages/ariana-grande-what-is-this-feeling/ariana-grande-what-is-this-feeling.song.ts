@@ -5,7 +5,7 @@ export const arianaGrandeWhatIsThisFeeling = {
   type: "song",
   slug: "ariana-grande-what-is-this-feeling",
   title: "What Is This Feeling?",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

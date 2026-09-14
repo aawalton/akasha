@@ -5,7 +5,7 @@ export const billieEilish8 = {
   type: "song",
   slug: "billie-eilish-8",
   title: "8",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

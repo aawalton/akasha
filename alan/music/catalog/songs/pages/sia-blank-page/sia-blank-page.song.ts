@@ -5,7 +5,7 @@ export const siaBlankPage = {
   type: "song",
   slug: "sia-blank-page",
   title: "Blank Page",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

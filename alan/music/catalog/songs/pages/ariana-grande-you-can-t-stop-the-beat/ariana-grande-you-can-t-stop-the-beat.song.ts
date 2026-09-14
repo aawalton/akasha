@@ -5,7 +5,7 @@ export const arianaGrandeYouCanTStopTheBeat = {
   type: "song",
   slug: "ariana-grande-you-can-t-stop-the-beat",
   title: "You Can’t Stop the Beat",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftFatherFigure = {
   type: "song",
   slug: "taylor-swift-father-figure",
   title: "Father Figure",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

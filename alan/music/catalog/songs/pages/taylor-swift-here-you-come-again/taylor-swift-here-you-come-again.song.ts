@@ -5,7 +5,7 @@ export const taylorSwiftHereYouComeAgain = {
   type: "song",
   slug: "taylor-swift-here-you-come-again",
   title: "Here You Come Again",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

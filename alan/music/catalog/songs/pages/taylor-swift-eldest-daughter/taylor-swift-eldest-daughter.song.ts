@@ -5,7 +5,7 @@ export const taylorSwiftEldestDaughter = {
   type: "song",
   slug: "taylor-swift-eldest-daughter",
   title: "Eldest Daughter",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

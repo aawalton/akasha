@@ -5,7 +5,7 @@ export const kellyClarksonReadyForLove = {
   type: "song",
   slug: "kelly-clarkson-ready-for-love",
   title: "Ready for Love",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

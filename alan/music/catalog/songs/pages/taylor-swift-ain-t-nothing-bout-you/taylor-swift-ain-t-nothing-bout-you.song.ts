@@ -5,7 +5,7 @@ export const taylorSwiftAinTNothingBoutYou = {
   type: "song",
   slug: "taylor-swift-ain-t-nothing-bout-you",
   title: "Ain’t Nothing ’bout You",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

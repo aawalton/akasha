@@ -5,7 +5,7 @@ export const siaTheBully = {
   type: "song",
   slug: "sia-the-bully",
   title: "The Bully",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

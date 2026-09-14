@@ -5,7 +5,7 @@ export const siaYouReNeverFullyDressedWithoutASmile = {
   type: "song",
   slug: "sia-you-re-never-fully-dressed-without-a-smile",
   title: "You’re Never Fully Dressed Without a Smile",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

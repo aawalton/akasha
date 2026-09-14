@@ -5,7 +5,7 @@ export const taylorSwiftAllNightDiner = {
   type: "song",
   slug: "taylor-swift-all-night-diner",
   title: "All Night Diner",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

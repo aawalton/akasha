@@ -5,7 +5,7 @@ export const taylorSwiftThisIsWhatYouCameFor = {
   type: "song",
   slug: "taylor-swift-this-is-what-you-came-for",
   title: "This Is What You Came For",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

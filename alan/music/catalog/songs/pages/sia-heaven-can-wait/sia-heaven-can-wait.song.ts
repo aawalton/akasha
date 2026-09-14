@@ -5,7 +5,7 @@ export const siaHeavenCanWait = {
   type: "song",
   slug: "sia-heaven-can-wait",
   title: "Heaven Can Wait",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

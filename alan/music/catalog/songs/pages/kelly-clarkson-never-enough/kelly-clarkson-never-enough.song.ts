@@ -5,7 +5,7 @@ export const kellyClarksonNeverEnough = {
   type: "song",
   slug: "kelly-clarkson-never-enough",
   title: "Never Enough",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

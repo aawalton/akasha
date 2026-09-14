@@ -5,7 +5,7 @@ export const siaIForgiveYou = {
   type: "song",
   slug: "sia-i-forgive-you",
   title: "I Forgive You",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

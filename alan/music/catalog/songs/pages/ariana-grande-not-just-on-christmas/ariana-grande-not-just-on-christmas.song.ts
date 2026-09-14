@@ -5,7 +5,7 @@ export const arianaGrandeNotJustOnChristmas = {
   type: "song",
   slug: "ariana-grande-not-just-on-christmas",
   title: "Not Just on Christmas",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

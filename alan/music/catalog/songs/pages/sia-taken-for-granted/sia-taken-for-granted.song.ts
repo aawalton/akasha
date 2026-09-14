@@ -5,7 +5,7 @@ export const siaTakenForGranted = {
   type: "song",
   slug: "sia-taken-for-granted",
   title: "Taken for Granted",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

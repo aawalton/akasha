@@ -5,7 +5,7 @@ export const auroraLittleBoyInTheGrass = {
   type: "song",
   slug: "aurora-little-boy-in-the-grass",
   title: "Little Boy in the Grass",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

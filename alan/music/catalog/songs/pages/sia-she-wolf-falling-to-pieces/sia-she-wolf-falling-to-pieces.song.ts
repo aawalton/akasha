@@ -5,7 +5,7 @@ export const siaSheWolfFallingToPieces = {
   type: "song",
   slug: "sia-she-wolf-falling-to-pieces",
   title: "She Wolf (Falling to Pieces)",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

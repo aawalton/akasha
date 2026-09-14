@@ -5,7 +5,7 @@ export const arianaGrandeSafetyNet = {
   type: "song",
   slug: "ariana-grande-safety-net",
   title: "safety net",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

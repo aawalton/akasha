@@ -5,7 +5,7 @@ export const siaSweatAndTears = {
   type: "song",
   slug: "sia-sweat-and-tears",
   title: "Sweat and Tears",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

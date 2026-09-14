@@ -5,7 +5,7 @@ export const arianaGrandeALittleMoreHomework = {
   type: "song",
   slug: "ariana-grande-a-little-more-homework",
   title: "A Little More Homework",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

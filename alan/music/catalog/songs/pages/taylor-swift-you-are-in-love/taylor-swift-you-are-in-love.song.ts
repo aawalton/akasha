@@ -5,7 +5,7 @@ export const taylorSwiftYouAreInLove = {
   type: "song",
   slug: "taylor-swift-you-are-in-love",
   title: "You Are in Love",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

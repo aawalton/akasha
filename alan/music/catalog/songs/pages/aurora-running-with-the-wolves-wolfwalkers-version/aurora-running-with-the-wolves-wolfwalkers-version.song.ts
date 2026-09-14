@@ -5,7 +5,7 @@ export const auroraRunningWithTheWolvesWolfwalkersVersion = {
   type: "song",
   slug: "aurora-running-with-the-wolves-wolfwalkers-version",
   title: "Running with the Wolves (WolfWalkers Version)",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

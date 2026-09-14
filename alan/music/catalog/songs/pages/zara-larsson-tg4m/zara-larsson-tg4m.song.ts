@@ -5,7 +5,7 @@ export const zaraLarssonTg4m = {
   type: "song",
   slug: "zara-larsson-tg4m",
   title: "TG4M",
-  artist: "zara-larsson",
+  artist: "artist/zara-larsson",
   externalIdentity: [
     {
       source: "musicbrainz",

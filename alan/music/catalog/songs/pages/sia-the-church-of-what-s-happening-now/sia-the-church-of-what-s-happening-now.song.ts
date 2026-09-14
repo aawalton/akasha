@@ -5,7 +5,7 @@ export const siaTheChurchOfWhatSHappeningNow = {
   type: "song",
   slug: "sia-the-church-of-what-s-happening-now",
   title: "The Church of What’s Happening Now",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

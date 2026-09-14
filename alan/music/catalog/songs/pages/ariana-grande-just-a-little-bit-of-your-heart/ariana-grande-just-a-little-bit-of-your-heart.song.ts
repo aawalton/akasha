@@ -5,7 +5,7 @@ export const arianaGrandeJustALittleBitOfYourHeart = {
   type: "song",
   slug: "ariana-grande-just-a-little-bit-of-your-heart",
   title: "Just a Little Bit of Your Heart",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

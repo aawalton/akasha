@@ -5,7 +5,7 @@ export const taylorSwiftDramaQueen = {
   type: "song",
   slug: "taylor-swift-drama-queen",
   title: "Drama Queen",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

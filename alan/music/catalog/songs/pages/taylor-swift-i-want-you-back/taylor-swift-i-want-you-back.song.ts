@@ -5,7 +5,7 @@ export const taylorSwiftIWantYouBack = {
   type: "song",
   slug: "taylor-swift-i-want-you-back",
   title: "I Want You Back",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

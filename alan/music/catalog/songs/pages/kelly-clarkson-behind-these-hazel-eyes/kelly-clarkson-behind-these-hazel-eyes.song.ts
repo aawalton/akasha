@@ -5,7 +5,7 @@ export const kellyClarksonBehindTheseHazelEyes = {
   type: "song",
   slug: "kelly-clarkson-behind-these-hazel-eyes",
   title: "Behind These Hazel Eyes",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

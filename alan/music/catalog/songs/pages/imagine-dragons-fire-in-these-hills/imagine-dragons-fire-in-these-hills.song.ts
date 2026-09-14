@@ -5,7 +5,7 @@ export const imagineDragonsFireInTheseHills = {
   type: "song",
   slug: "imagine-dragons-fire-in-these-hills",
   title: "Fire in These Hills",
-  artist: "imagine-dragons",
+  artist: "artist/imagine-dragons",
   externalIdentity: [
     {
       source: "musicbrainz",

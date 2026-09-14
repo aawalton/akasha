@@ -5,7 +5,7 @@ export const billieEilishWishYouWereGay = {
   type: "song",
   slug: "billie-eilish-wish-you-were-gay",
   title: "wish you were gay",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

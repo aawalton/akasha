@@ -5,7 +5,7 @@ export const billieEilishGettingOlder = {
   type: "song",
   slug: "billie-eilish-getting-older",
   title: "Getting Older",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

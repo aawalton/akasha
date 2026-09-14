@@ -5,7 +5,7 @@ export const taylorSwiftHighInfidelity = {
   type: "song",
   slug: "taylor-swift-high-infidelity",
   title: "High Infidelity",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

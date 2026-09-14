@@ -5,7 +5,7 @@ export const billieEilishLAmourDeMaVie = {
   type: "song",
   slug: "billie-eilish-l-amour-de-ma-vie",
   title: "L’AMOUR DE MA VIE",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

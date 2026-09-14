@@ -5,7 +5,7 @@ export const arianaGrandeOhSanta = {
   type: "song",
   slug: "ariana-grande-oh-santa",
   title: "Oh Santa!",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

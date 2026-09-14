@@ -5,7 +5,7 @@ export const kellyClarksonChristmasComeEarly = {
   type: "song",
   slug: "kelly-clarkson-christmas-come-early",
   title: "Christmas Come Early",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

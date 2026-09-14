@@ -5,7 +5,7 @@ export const taylorSwiftRenegade = {
   type: "song",
   slug: "taylor-swift-renegade",
   title: "Renegade",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

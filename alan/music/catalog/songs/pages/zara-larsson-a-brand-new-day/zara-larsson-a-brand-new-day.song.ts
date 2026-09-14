@@ -5,7 +5,7 @@ export const zaraLarssonABrandNewDay = {
   type: "song",
   slug: "zara-larsson-a-brand-new-day",
   title: "A Brand New Day",
-  artist: "zara-larsson",
+  artist: "artist/zara-larsson",
   externalIdentity: [
     {
       source: "musicbrainz",

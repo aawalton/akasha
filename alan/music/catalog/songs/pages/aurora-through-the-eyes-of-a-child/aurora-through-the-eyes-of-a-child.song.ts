@@ -5,7 +5,7 @@ export const auroraThroughTheEyesOfAChild = {
   type: "song",
   slug: "aurora-through-the-eyes-of-a-child",
   title: "Through the Eyes of a Child",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

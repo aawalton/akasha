@@ -5,7 +5,7 @@ export const zaraLarssonNeverForgetYou = {
   type: "song",
   slug: "zara-larsson-never-forget-you",
   title: "Never Forget You",
-  artist: "zara-larsson",
+  artist: "artist/zara-larsson",
   externalIdentity: [
     {
       source: "musicbrainz",

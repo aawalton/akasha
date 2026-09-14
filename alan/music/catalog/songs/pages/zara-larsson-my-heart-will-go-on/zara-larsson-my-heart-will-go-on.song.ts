@@ -5,7 +5,7 @@ export const zaraLarssonMyHeartWillGoOn = {
   type: "song",
   slug: "zara-larsson-my-heart-will-go-on",
   title: "My Heart Will Go On",
-  artist: "zara-larsson",
+  artist: "artist/zara-larsson",
   externalIdentity: [
     {
       source: "musicbrainz",

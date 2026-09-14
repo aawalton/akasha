@@ -5,7 +5,7 @@ export const arianaGrandeMyFavoritePart = {
   type: "song",
   slug: "ariana-grande-my-favorite-part",
   title: "My Favorite Part",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

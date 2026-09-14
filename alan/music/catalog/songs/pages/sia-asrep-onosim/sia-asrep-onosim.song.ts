@@ -5,7 +5,7 @@ export const siaAsrepOnosim = {
   type: "song",
   slug: "sia-asrep-onosim",
   title: "Asrep onosim",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

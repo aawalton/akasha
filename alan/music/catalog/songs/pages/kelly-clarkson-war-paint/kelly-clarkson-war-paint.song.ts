@@ -5,7 +5,7 @@ export const kellyClarksonWarPaint = {
   type: "song",
   slug: "kelly-clarkson-war-paint",
   title: "War Paint",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

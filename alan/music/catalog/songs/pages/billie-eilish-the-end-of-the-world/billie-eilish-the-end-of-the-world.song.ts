@@ -5,7 +5,7 @@ export const billieEilishTheEndOfTheWorld = {
   type: "song",
   slug: "billie-eilish-the-end-of-the-world",
   title: "The End of the World",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

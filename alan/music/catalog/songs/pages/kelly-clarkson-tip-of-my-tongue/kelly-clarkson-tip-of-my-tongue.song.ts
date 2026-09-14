@@ -5,7 +5,7 @@ export const kellyClarksonTipOfMyTongue = {
   type: "song",
   slug: "kelly-clarkson-tip-of-my-tongue",
   title: "Tip of My Tongue",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

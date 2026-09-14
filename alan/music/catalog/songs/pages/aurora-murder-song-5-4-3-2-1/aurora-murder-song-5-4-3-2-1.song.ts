@@ -5,7 +5,7 @@ export const auroraMurderSong54321 = {
   type: "song",
   slug: "aurora-murder-song-5-4-3-2-1",
   title: "Murder Song (5, 4, 3, 2, 1)",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const arianaGrandeIntroEndOfTheWorld = {
   type: "song",
   slug: "ariana-grande-intro-end-of-the-world",
   title: "intro (end of the world)",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

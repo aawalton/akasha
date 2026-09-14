@@ -5,7 +5,7 @@ export const arianaGrandeIMNotThatGirl = {
   type: "song",
   slug: "ariana-grande-i-m-not-that-girl",
   title: "I'm Not That Girl",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

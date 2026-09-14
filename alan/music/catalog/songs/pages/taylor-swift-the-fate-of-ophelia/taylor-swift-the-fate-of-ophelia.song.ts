@@ -5,7 +5,7 @@ export const taylorSwiftTheFateOfOphelia = {
   type: "song",
   slug: "taylor-swift-the-fate-of-ophelia",
   title: "The Fate of Ophelia",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

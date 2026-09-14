@@ -5,7 +5,7 @@ export const arianaGrandeHowILookOnYou = {
   type: "song",
   slug: "ariana-grande-how-i-look-on-you",
   title: "How I Look on You",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

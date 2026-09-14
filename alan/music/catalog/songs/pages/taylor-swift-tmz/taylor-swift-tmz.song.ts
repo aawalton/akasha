@@ -5,7 +5,7 @@ export const taylorSwiftTmz = {
   type: "song",
   slug: "taylor-swift-tmz",
   title: "TMZ",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

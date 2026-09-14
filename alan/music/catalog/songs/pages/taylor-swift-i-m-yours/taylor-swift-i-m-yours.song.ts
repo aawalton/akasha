@@ -5,7 +5,7 @@ export const taylorSwiftIMYours = {
   type: "song",
   slug: "taylor-swift-i-m-yours",
   title: "I’m Yours",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

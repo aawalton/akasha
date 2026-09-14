@@ -5,7 +5,7 @@ export const auroraDanceOnTheMoon = {
   type: "song",
   slug: "aurora-dance-on-the-moon",
   title: "Dance on the Moon",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

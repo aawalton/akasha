@@ -5,7 +5,7 @@ export const taylorSwiftBigStar = {
   type: "song",
   slug: "taylor-swift-big-star",
   title: "Big Star",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

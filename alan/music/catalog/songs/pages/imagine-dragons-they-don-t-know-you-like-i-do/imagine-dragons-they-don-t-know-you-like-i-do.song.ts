@@ -5,7 +5,7 @@ export const imagineDragonsTheyDonTKnowYouLikeIDo = {
   type: "song",
   slug: "imagine-dragons-they-don-t-know-you-like-i-do",
   title: "They Don’t Know You Like I Do",
-  artist: "imagine-dragons",
+  artist: "artist/imagine-dragons",
   externalIdentity: [
     {
       source: "musicbrainz",

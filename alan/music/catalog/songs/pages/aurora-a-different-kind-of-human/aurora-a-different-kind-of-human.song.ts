@@ -5,7 +5,7 @@ export const auroraADifferentKindOfHuman = {
   type: "song",
   slug: "aurora-a-different-kind-of-human",
   title: "A Different Kind of Human",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

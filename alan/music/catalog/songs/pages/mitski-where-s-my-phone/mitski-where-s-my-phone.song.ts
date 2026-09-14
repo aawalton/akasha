@@ -5,7 +5,7 @@ export const mitskiWhereSMyPhone = {
   type: "song",
   slug: "mitski-where-s-my-phone",
   title: "Where’s My Phone?",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

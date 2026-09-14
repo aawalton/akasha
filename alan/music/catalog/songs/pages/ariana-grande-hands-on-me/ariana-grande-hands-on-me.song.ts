@@ -5,7 +5,7 @@ export const arianaGrandeHandsOnMe = {
   type: "song",
   slug: "ariana-grande-hands-on-me",
   title: "Hands on Me",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

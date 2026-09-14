@@ -5,7 +5,7 @@ export const jessicaBaioOverAgain = {
   type: "song",
   slug: "jessica-baio-over-again",
   title: "over again",
-  artist: "jessica-baio",
+  artist: "artist/jessica-baio",
   externalIdentity: [
     {
       source: "musicbrainz",

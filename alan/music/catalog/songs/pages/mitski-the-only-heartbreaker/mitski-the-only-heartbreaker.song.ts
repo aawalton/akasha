@@ -5,7 +5,7 @@ export const mitskiTheOnlyHeartbreaker = {
   type: "song",
   slug: "mitski-the-only-heartbreaker",
   title: "The Only Heartbreaker",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

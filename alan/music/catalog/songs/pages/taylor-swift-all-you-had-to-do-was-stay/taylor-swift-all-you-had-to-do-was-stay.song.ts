@@ -5,7 +5,7 @@ export const taylorSwiftAllYouHadToDoWasStay = {
   type: "song",
   slug: "taylor-swift-all-you-had-to-do-was-stay",
   title: "All You Had to Do Was Stay",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const arianaGrandeRainOnMe = {
   type: "song",
   slug: "ariana-grande-rain-on-me",
   title: "Rain on Me",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

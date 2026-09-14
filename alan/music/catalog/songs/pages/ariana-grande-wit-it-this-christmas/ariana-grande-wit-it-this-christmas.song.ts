@@ -5,7 +5,7 @@ export const arianaGrandeWitItThisChristmas = {
   type: "song",
   slug: "ariana-grande-wit-it-this-christmas",
   title: "Wit It This Christmas",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

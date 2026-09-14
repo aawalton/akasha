@@ -5,7 +5,7 @@ export const auroraShowdownAtTheShore = {
   type: "song",
   slug: "aurora-showdown-at-the-shore",
   title: "Showdown at the Shore",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

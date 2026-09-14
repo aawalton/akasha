@@ -5,7 +5,7 @@ export const kellyClarksonBlueBayou = {
   type: "song",
   slug: "kelly-clarkson-blue-bayou",
   title: "Blue Bayou",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

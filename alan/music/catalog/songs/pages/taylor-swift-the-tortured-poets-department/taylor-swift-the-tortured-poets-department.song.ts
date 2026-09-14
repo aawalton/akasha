@@ -5,7 +5,7 @@ export const taylorSwiftTheTorturedPoetsDepartment = {
   type: "song",
   slug: "taylor-swift-the-tortured-poets-department",
   title: "The Tortured Poets Department",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

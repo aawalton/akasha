@@ -5,7 +5,7 @@ export const mitskiLetSGetMarried = {
   type: "song",
   slug: "mitski-let-s-get-married",
   title: "Let’s Get Married",
-  artist: "mitski",
+  artist: "artist/mitski",
   externalIdentity: [
     {
       source: "musicbrainz",

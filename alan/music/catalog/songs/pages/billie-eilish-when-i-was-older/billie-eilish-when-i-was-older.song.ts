@@ -5,7 +5,7 @@ export const billieEilishWhenIWasOlder = {
   type: "song",
   slug: "billie-eilish-when-i-was-older",
   title: "WHEN I WAS OLDER",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

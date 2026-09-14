@@ -5,7 +5,7 @@ export const arianaGrandeBloodline = {
   type: "song",
   slug: "ariana-grande-bloodline",
   title: "bloodline",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

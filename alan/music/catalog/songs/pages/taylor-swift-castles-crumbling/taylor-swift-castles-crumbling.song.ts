@@ -5,7 +5,7 @@ export const taylorSwiftCastlesCrumbling = {
   type: "song",
   slug: "taylor-swift-castles-crumbling",
   title: "Castles Crumbling",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

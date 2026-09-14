@@ -5,7 +5,7 @@ export const kellyClarksonTheTroubleWithLoveIs = {
   type: "song",
   slug: "kelly-clarkson-the-trouble-with-love-is",
   title: "The Trouble With Love Is",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

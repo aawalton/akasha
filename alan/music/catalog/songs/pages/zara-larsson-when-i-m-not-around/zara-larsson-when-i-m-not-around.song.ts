@@ -5,7 +5,7 @@ export const zaraLarssonWhenIMNotAround = {
   type: "song",
   slug: "zara-larsson-when-i-m-not-around",
   title: "When I’m Not Around",
-  artist: "zara-larsson",
+  artist: "artist/zara-larsson",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -5,7 +5,7 @@ export const siaDevilInMe = {
   type: "song",
   slug: "sia-devil-in-me",
   title: "Devil in Me",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

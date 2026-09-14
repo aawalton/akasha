@@ -5,7 +5,7 @@ export const taylorSwiftChristmasMustBeSomethingMore = {
   type: "song",
   slug: "taylor-swift-christmas-must-be-something-more",
   title: "Christmas Must Be Something More",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

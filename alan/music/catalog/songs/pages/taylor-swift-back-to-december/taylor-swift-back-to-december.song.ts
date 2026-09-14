@@ -5,7 +5,7 @@ export const taylorSwiftBackToDecember = {
   type: "song",
   slug: "taylor-swift-back-to-december",
   title: "Back to December",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

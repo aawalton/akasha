@@ -5,7 +5,7 @@ export const taylorSwiftSoHighSchool = {
   type: "song",
   slug: "taylor-swift-so-high-school",
   title: "So High School",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

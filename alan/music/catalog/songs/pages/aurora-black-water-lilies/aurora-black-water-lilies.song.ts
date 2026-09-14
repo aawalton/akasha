@@ -5,7 +5,7 @@ export const auroraBlackWaterLilies = {
   type: "song",
   slug: "aurora-black-water-lilies",
   title: "Black Water Lilies",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

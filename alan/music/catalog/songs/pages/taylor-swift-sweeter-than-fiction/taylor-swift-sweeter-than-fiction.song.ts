@@ -5,7 +5,7 @@ export const taylorSwiftSweeterThanFiction = {
   type: "song",
   slug: "taylor-swift-sweeter-than-fiction",
   title: "Sweeter Than Fiction",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

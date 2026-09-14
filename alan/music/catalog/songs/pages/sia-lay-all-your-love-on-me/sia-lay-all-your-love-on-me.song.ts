@@ -5,7 +5,7 @@ export const siaLayAllYourLoveOnMe = {
   type: "song",
   slug: "sia-lay-all-your-love-on-me",
   title: "Lay All Your Love on Me",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

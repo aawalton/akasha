@@ -5,7 +5,7 @@ export const siaDeathByChocolate = {
   type: "song",
   slug: "sia-death-by-chocolate",
   title: "Death by Chocolate",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

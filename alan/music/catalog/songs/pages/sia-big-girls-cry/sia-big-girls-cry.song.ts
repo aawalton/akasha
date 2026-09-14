@@ -5,7 +5,7 @@ export const siaBigGirlsCry = {
   type: "song",
   slug: "sia-big-girls-cry",
   title: "Big Girls Cry",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

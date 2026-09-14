@@ -5,7 +5,7 @@ export const arianaGrandeIntoYou = {
   type: "song",
   slug: "ariana-grande-into-you",
   title: "Into You",
-  artist: "ariana-grande",
+  artist: "artist/ariana-grande",
   externalIdentity: [
     {
       source: "musicbrainz",

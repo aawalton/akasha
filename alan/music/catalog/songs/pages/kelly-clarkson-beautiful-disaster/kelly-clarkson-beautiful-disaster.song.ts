@@ -5,7 +5,7 @@ export const kellyClarksonBeautifulDisaster = {
   type: "song",
   slug: "kelly-clarkson-beautiful-disaster",
   title: "Beautiful Disaster",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

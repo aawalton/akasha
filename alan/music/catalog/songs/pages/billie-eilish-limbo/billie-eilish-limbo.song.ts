@@ -5,7 +5,7 @@ export const billieEilishLimbo = {
   type: "song",
   slug: "billie-eilish-limbo",
   title: "Limbo",
-  artist: "billie-eilish",
+  artist: "artist/billie-eilish",
   externalIdentity: [
     {
       source: "musicbrainz",

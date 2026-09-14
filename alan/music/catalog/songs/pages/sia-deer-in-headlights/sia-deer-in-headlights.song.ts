@@ -5,7 +5,7 @@ export const siaDeerInHeadlights = {
   type: "song",
   slug: "sia-deer-in-headlights",
   title: "Deer in Headlights",
-  artist: "sia",
+  artist: "artist/sia",
   externalIdentity: [
     {
       source: "musicbrainz",

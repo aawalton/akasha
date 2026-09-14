@@ -5,7 +5,7 @@ export const kellyClarksonDonTWasteYourTime = {
   type: "song",
   slug: "kelly-clarkson-don-t-waste-your-time",
   title: "Don't Waste Your Time",
-  artist: "kelly-clarkson",
+  artist: "artist/kelly-clarkson",
   externalIdentity: [
     {
       source: "musicbrainz",

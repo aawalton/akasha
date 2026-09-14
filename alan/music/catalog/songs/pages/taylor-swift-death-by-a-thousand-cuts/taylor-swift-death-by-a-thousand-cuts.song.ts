@@ -5,7 +5,7 @@ export const taylorSwiftDeathByAThousandCuts = {
   type: "song",
   slug: "taylor-swift-death-by-a-thousand-cuts",
   title: "Death by a Thousand Cuts",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",

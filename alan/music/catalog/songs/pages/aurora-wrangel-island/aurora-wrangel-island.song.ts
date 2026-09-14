@@ -5,7 +5,7 @@ export const auroraWrangelIsland = {
   type: "song",
   slug: "aurora-wrangel-island",
   title: "Wrangel Island",
-  artist: "aurora",
+  artist: "artist/aurora",
   externalIdentity: [
     {
       source: "musicbrainz",

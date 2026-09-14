@@ -5,7 +5,7 @@ export const taylorSwiftBeautifulEyes = {
   type: "song",
   slug: "taylor-swift-beautiful-eyes",
   title: "Beautiful Eyes",
-  artist: "taylor-swift",
+  artist: "artist/taylor-swift",
   externalIdentity: [
     {
       source: "musicbrainz",
