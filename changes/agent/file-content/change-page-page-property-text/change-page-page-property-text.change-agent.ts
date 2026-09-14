@@ -49,7 +49,7 @@ export const changePagePagePropertyText = {
       statement: "Nothing here works out a body of its own.",
     },
   ],
-  changeKind: "change-restated",
+  changeKind: "change-kind/change-restated",
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
 } as const satisfies ChangeAgent

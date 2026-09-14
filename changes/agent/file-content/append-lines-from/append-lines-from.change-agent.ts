@@ -36,7 +36,7 @@ export const appendLinesFrom = {
       statement: "This change goes once the entries it carries have landed.",
     },
   ],
-  changeKind: "change-authored",
+  changeKind: "change-kind/change-authored",
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
 } as const satisfies ChangeAgent

@@ -41,7 +41,7 @@ export const removeFile = {
       statement: "No file beside the path is taken away here.",
     },
   ],
-  changeKind: "change-checked",
+  changeKind: "change-kind/change-checked",
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
 } as const satisfies ChangeAgent

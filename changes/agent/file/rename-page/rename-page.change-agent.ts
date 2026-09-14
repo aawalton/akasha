@@ -36,7 +36,7 @@ export const renamePage = {
       statement: "Nothing here works out a body of its own.",
     },
   ],
-  changeKind: "change-checked",
+  changeKind: "change-kind/change-checked",
   maxCpuSeconds: 30,
   maxMemoryMb: 3072,
 } as const satisfies ChangeAgent

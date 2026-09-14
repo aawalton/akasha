@@ -69,7 +69,7 @@ export const nestModules = {
       statement: "Nothing here reads a page's own body.",
     },
   ],
-  changeKind: "change-checked",
+  changeKind: "change-kind/change-checked",
   maxCpuSeconds: 30,
   maxMemoryMb: 3072,
 } as const satisfies ChangeAgent

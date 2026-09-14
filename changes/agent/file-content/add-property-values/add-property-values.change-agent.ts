@@ -114,7 +114,7 @@ export const addPropertyValues = {
         "A refusal over a slug the page's type declares a key for names the key to write instead.",
     },
   ],
-  changeKind: "change-checked",
+  changeKind: "change-kind/change-checked",
   maxCpuSeconds: 30,
   maxMemoryMb: 3072,
 } as const satisfies ChangeAgent

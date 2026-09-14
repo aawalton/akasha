@@ -10,7 +10,7 @@ export const removeUnusedExportKeywords = {
   definition: "the `export` dropped from every value only the file declaring it names",
   code: "ts",
   test: "ts",
-  changeKind: "change-checked",
+  changeKind: "change-kind/change-checked",
   maxCpuSeconds: 30,
   maxMemoryMb: 3072,
   invariants: [

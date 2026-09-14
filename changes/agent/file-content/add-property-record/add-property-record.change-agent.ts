@@ -45,7 +45,7 @@ export const addPropertyRecord = {
       statement: "`after` is left out where the pages of this page's type write the key nowhere.",
     },
   ],
-  changeKind: "change-authored",
+  changeKind: "change-kind/change-authored",
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
 } as const satisfies ChangeAgent

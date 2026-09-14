@@ -68,7 +68,7 @@ export const sortPropertyValuesOnEveryPage = {
       statement: "A key holding no list is passed over rather than refused.",
     },
   ],
-  changeKind: "change-checked",
+  changeKind: "change-kind/change-checked",
   maxCpuSeconds: 120,
   maxMemoryMb: 3072,
 } as const satisfies ChangeAgent

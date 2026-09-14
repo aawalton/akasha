@@ -56,7 +56,7 @@ export const addPagePropertyTypes = {
       statement: "Nothing here reads the index.",
     },
   ],
-  changeKind: "change-checked",
+  changeKind: "change-kind/change-checked",
   maxCpuSeconds: 120,
   maxMemoryMb: 3072,
 } as const satisfies ChangeAgent

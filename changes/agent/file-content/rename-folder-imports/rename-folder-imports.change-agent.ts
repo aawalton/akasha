@@ -61,7 +61,7 @@ export const renameFolderImports = {
       statement: "No manifest is read here.",
     },
   ],
-  changeKind: "change-checked",
+  changeKind: "change-kind/change-checked",
   maxCpuSeconds: 30,
   maxMemoryMb: 3072,
 } as const satisfies ChangeAgent

@@ -41,7 +41,7 @@ export const removePage = {
       statement: "A page property is handed to the partial change taking a page property away.",
     },
   ],
-  changeKind: "change-checked",
+  changeKind: "change-kind/change-checked",
   maxCpuSeconds: 30,
   maxMemoryMb: 3072,
 } as const satisfies ChangeAgent

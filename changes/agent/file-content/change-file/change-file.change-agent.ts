@@ -70,7 +70,7 @@ export const changeFile = {
         "A passage another kind of act drafted is not found, and that draft is dropped and made again.",
     },
   ],
-  changeKind: "change-authored",
+  changeKind: "change-kind/change-authored",
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
 } as const satisfies ChangeAgent

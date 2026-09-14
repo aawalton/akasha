@@ -36,7 +36,7 @@ export const addBinaryFile = {
       statement: "This change works no body out, so this change reaches no mechanical change.",
     },
   ],
-  changeKind: "change-checked",
+  changeKind: "change-kind/change-checked",
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
 } as const satisfies ChangeAgent

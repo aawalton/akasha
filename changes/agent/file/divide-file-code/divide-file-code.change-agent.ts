@@ -28,7 +28,7 @@ export const divideFileCode = {
       statement: "Nothing here works out a body of its own.",
     },
   ],
-  changeKind: "change-checked",
+  changeKind: "change-kind/change-checked",
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
 } as const satisfies ChangeAgent

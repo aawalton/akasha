@@ -44,7 +44,7 @@ export const addFile = {
       statement: "A later act in the same change names a page this change wrote.",
     },
   ],
-  changeKind: "change-authored",
+  changeKind: "change-kind/change-authored",
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
 } as const satisfies ChangeAgent

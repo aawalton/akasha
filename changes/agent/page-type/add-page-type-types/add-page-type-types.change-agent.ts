@@ -40,7 +40,7 @@ export const addPageTypeTypes = {
       statement: "No change but that one rung is reached.",
     },
   ],
-  changeKind: "change-checked",
+  changeKind: "change-kind/change-checked",
   maxCpuSeconds: 120,
   maxMemoryMb: 3072,
 } as const satisfies ChangeAgent

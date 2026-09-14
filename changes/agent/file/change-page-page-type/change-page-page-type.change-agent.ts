@@ -40,7 +40,7 @@ export const changePagePageType = {
       statement: "Nothing here names a guard, the change reached naming the guards.",
     },
   ],
-  changeKind: "change-checked",
+  changeKind: "change-kind/change-checked",
   maxCpuSeconds: 30,
   maxMemoryMb: 3072,
 } as const satisfies ChangeAgent

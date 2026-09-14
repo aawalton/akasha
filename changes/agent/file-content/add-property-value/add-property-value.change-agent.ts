@@ -79,7 +79,7 @@ export const addPropertyValue = {
       statement: "`after` is left out where the pages of this page's type write the key nowhere.",
     },
   ],
-  changeKind: "change-checked",
+  changeKind: "change-kind/change-checked",
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
 } as const satisfies ChangeAgent

@@ -46,7 +46,7 @@ export const changePagePageProperty = {
         "The refusal for many values names the changes putting a value in and taking a value out.",
     },
   ],
-  changeKind: "change-checked",
+  changeKind: "change-kind/change-checked",
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
 } as const satisfies ChangeAgent

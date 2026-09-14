@@ -32,7 +32,7 @@ export const appendLines = {
       statement: "Nothing here reads the body the path holds.",
     },
   ],
-  changeKind: "change-authored",
+  changeKind: "change-kind/change-authored",
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
 } as const satisfies ChangeAgent
