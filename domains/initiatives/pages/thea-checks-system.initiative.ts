@@ -15,13 +15,13 @@ export const theaChecksSystem = {
     {
       statement: "No module exports a value nothing names.",
       workingMemory:
-        "549 refusals: 293 a value nothing names, 245 only a test names, 11 only its own file names. temper 94, alan 88, story 87, pages 55, agents 41, infrastructure 33, checks 30, personas 29, domains 27, code 20, commands 17. story's sit in engine, tower and ui, which Alan keeps; the story-played page type carries a page-component group whose `Drawing` mounts the awen panels.",
+        "527 refusals: 271 a value nothing names, 226 only a test names, 30 only its own file names. 437 sit in modules that are reached, so narrowing those takes no feature away. 68 files are dead whole, and those are where a feature can leave. temper 90, alan 89, story 87, pages 61, agents 41.",
     },
 
     {
       statement: "No arm of the codebase is built and reached by nothing.",
       workingMemory:
-        "Cut: geoapify geocoding and routing, the page-write delivery route, the jenny and ki sms dispatch, the air quality reading, the daily points rollups, the file-backed page writing, the litrpg story selection, `ReadoutRing`, `installSimShell`, `cardioReading`. Wired instead: inbound email routing, nine spotify transport commands, `placeSecrets` into the deploy, and chess play and puzzle import. Alan keeps the story arm.",
+        "The pages-service migration left nine tombstones, each a body of one throw under a type promising a value. Alan repairs the idle gacha game behind them, and removes the rest: page-by-relation listing, the offline reading writes, the sms allowlist. Also gone: the domain and role message address, the persona points sources, the recurrence parser, the rules-engine partition prover. Wired: the completion category tree and the overall score.",
     },
     {
       statement: "Every uncommitted body beside a page exports the name that page's writer makes.",
