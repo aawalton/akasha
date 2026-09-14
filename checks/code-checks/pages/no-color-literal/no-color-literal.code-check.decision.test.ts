@@ -4,16 +4,14 @@ import {
   judgedAt as judging,
 } from "akasha/checks/code-checks/pages/no-color-literal/no-color-literal.code-check.decision.code.ts"
 import {
+  CODED_AT,
   COLOR_AT,
-  coded,
-  dressed,
+  DRESSED_AT,
   GRANTED_AT,
   HOME,
   PALETTE_AT,
   PASSING,
   passingAt,
-  ROOT,
-  reasonsIn,
   rooted,
   scratch,
 } from "akasha/checks/code-checks/pages/no-color-literal/no-color-literal.code-check.decision.test-fixtures.ts"
@@ -24,16 +22,24 @@ function found(path: string, text: string): readonly string[] {
   return finding(PASSING, path, text)
 }
 
+function coded(text: string): readonly string[] {
+  return found(CODED_AT, text)
+}
+
+function dressed(text: string): readonly string[] {
+  return found(DRESSED_AT, text)
+}
+
 function judgedAt(path: string): boolean {
   return judging(PASSING, path)
 }
 
 test("a stylesheet reaching a token by name is let through", () => {
-  expect(reasonsIn(dressed(".held {\n  color: var(--yellow);\n}\n"))).toEqual([])
+  expect(dressed(".held {\n  color: var(--yellow);\n}\n")).toEqual([])
 })
 
 test("a stylesheet writing a color out is refused, and names the line", () => {
-  const said = reasonsIn(dressed(".held {\n  color: #b87b11;\n}\n"))
+  const said = dressed(".held {\n  color: #b87b11;\n}\n")
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("line 2")
   expect(said[0]).toContain("#b87b11")
@@ -42,47 +48,45 @@ test("a stylesheet writing a color out is refused, and names the line", () => {
 test("a color worked out from a token by relative color syntax is let through", () => {
   const body =
     "::selection {\n  background-color: oklch(from var(--color-accent) l c h / 0.15);\n}\n"
-  expect(reasonsIn(dressed(body))).toEqual([])
+  expect(dressed(body)).toEqual([])
 })
 
 test("an achromatic color at an alpha is a shadow rather than a shade of the palette", () => {
-  expect(reasonsIn(dressed(".held {\n  box-shadow: 0 1px 3px rgb(0 0 0 / 40%);\n}\n"))).toEqual([])
+  expect(dressed(".held {\n  box-shadow: 0 1px 3px rgb(0 0 0 / 40%);\n}\n")).toEqual([])
 })
 
 test("an achromatic color among the other words of one value is let through", () => {
-  expect(reasonsIn(dressed(".held {\n  border: 1px solid #3a3a3a;\n}\n"))).toEqual([])
+  expect(dressed(".held {\n  border: 1px solid #3a3a3a;\n}\n")).toEqual([])
 })
 
 test("an achromatic color alone in one value is refused", () => {
-  expect(reasonsIn(dressed(".held {\n  color: #888888;\n}\n"))).toHaveLength(1)
+  expect(dressed(".held {\n  color: #888888;\n}\n")).toHaveLength(1)
 })
 
 test("a string that is one color on its own is refused", () => {
-  const said = reasonsIn(coded('export const ACCENT = "oklch(0.63 0.13 73)"\n'))
+  const said = coded('export const ACCENT = "oklch(0.63 0.13 73)"\n')
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("line 1")
 })
 
 test("a string naming a custom property is let through", () => {
-  expect(reasonsIn(coded('export const ACCENT = "var(--yellow)"\n'))).toEqual([])
+  expect(coded('export const ACCENT = "var(--yellow)"\n')).toEqual([])
 })
 
 test("a color a color-bearing key carries is refused", () => {
-  const said = reasonsIn(coded('const HELD = { borderTop: "1px solid #a51c32" }\n'))
+  const said = coded('const HELD = { borderTop: "1px solid #a51c32" }\n')
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("#a51c32")
 })
 
 test("a color inside a utility class's bracketed value is refused", () => {
-  const said = reasonsIn(coded('export const HELD = "rounded text-[#2c5a9d] p-2"\n'))
+  const said = coded('export const HELD = "rounded text-[#2c5a9d] p-2"\n')
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("#2c5a9d")
 })
 
 test("an address holding a hash and digits is no color", () => {
-  expect(reasonsIn(coded('export const AT = "180 S Main St #100, Bountiful, UT 84010"\n'))).toEqual(
-    []
-  )
+  expect(coded('export const AT = "180 S Main St #100, Bountiful, UT 84010"\n')).toEqual([])
 })
 
 test("a value Alan granted a file is let through in that file alone", () => {
@@ -111,18 +115,9 @@ test("the check's own home is judged by nothing, so the grants it states are no 
   expect(judgedAt(`${HOME}no-color-literal.code-check.decision.code.ts`)).toBe(false)
 })
 
-test("a body that is neither code nor a stylesheet is passed over", () => {
-  const held = {
-    root: ROOT,
-    path: "alan/web/notes.md",
-    bytes: new TextEncoder().encode('color: "#b87b11"\n'),
-  }
-  expect(reasonsIn(held)).toEqual([])
-})
-
 test("every color a body writes out is reported, one reason each", () => {
   const body = ".one {\n  color: #b87b11;\n}\n.two {\n  color: #a51c32;\n}\n"
-  expect(reasonsIn(dressed(body))).toHaveLength(2)
+  expect(dressed(body)).toHaveLength(2)
 })
 
 test("the palette's home, the check's own home and each grant are read from the index", () => {

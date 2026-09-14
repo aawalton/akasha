@@ -1,7 +1,5 @@
 import { dirname } from "node:path"
 import {
-  type Body,
-  overEachBody,
   PAGES,
   styleNamed,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
@@ -422,10 +420,6 @@ export function found(passing: Passing, path: string, text: string): readonly st
   const kept =
     granted === undefined ? seen : seen.filter((one) => !granted.has(normalized(one.value)))
   return kept.map(saidOf)
-}
-
-export function reasonsOver(passing: Passing): (given: Body) => readonly string[] {
-  return overEachBody((path, text) => found(passing, path, text))
 }
 
 const passingFor = heldPerShadow(passingIn)
