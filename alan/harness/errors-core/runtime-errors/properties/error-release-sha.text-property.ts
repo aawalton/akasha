@@ -10,11 +10,11 @@ export const errorReleaseSha = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A build the reporting client could not name is left out.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The build named is the build the first report had.",
     },
   ],

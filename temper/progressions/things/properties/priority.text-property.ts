@@ -9,8 +9,11 @@ export const priority = {
   maxLength: 4,
   nameFormat: "name-format/lower-kebab-case",
   invariants: [
-    { invariantKind: "departure", statement: "A priority is written `p` before its number." },
-    { invariantKind: "departure", statement: "A lower number is wanted sooner." },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A priority is written `p` before its number.",
+    },
+    { invariantKind: "invariant-kind/departure", statement: "A lower number is wanted sooner." },
   ],
   types: "ts",
 } as const satisfies TextProperty

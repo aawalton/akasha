@@ -10,15 +10,15 @@ export const toDoSlug = {
   nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "This property is a relation to a to-do.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A round outlives its to-do.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A round may name a to-do that is gone.",
     },
   ],

@@ -8,6 +8,8 @@ export const guildName = {
   definition: "the guild whose store an item went through",
   maxLength: 200,
   nameFormat: null,
-  invariants: [{ invariantKind: "gap", statement: "This property is a relation to a guild." }],
+  invariants: [
+    { invariantKind: "invariant-kind/gap", statement: "This property is a relation to a guild." },
+  ],
   types: "ts",
 } as const satisfies TextProperty

@@ -10,7 +10,7 @@ export const iconSlot = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A star after a colon covers every weight of that piece.",
     },
   ],

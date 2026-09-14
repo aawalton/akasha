@@ -10,7 +10,7 @@ export const nativeShellRepoPath = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A path carrying no colon names the code repository.",
     },
   ],

@@ -10,11 +10,11 @@ export const personAuthorityTarget = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A target of `all` is every area there is.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A target closing with `-*` is every area whose slug opens with the text before the `-*`.",
     },

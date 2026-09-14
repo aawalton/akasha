@@ -10,11 +10,11 @@ export const runs = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The command line names a program on the host and the words handed to it.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No file of this repository is named here.",
     },
   ],

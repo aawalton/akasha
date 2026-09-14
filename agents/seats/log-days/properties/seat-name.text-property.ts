@@ -10,15 +10,15 @@ export const seatName = {
   nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This property is text rather than a relation to a seat.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A day of lines outlives the seat the day names.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name here may be a name no seat has now.",
     },
   ],

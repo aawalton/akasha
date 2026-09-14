@@ -10,15 +10,15 @@ export const startMode = {
   nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "The modes a seat can start in are no pages.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "This property is a relation to a start mode.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement:
         "An agent states the mode the agent works in rather than how the agent was started.",
     },

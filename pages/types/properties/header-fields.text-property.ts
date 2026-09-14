@@ -10,7 +10,7 @@ export const headerFields = {
   nameFormat: "name-format/lower-camel-case",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A header naming keys states those keys in the order those keys stand in.",
     },
   ],

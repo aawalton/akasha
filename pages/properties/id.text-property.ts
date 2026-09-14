@@ -12,7 +12,7 @@ export const id = {
   generator: "generator-kind/uuid-v7",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page being created states no id of its own.",
     },
   ],

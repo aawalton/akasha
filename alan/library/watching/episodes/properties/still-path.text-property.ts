@@ -10,7 +10,7 @@ export const stillPath = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A still is a frame from the episode rather than artwork drawn for that episode.",
     },
   ],

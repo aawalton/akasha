@@ -10,11 +10,11 @@ export const mechanicSlug = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "No mechanic has a page of its own.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "This property is a relation to a mechanic.",
     },
   ],

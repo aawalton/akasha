@@ -10,11 +10,11 @@ export const errorKind = {
   nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The kinds a report may have are named by the report shape.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "The kinds are restated nowhere here.",
     },
   ],

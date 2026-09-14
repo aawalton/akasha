@@ -10,11 +10,11 @@ export const genres = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A genre is the provider's classing rather than the person's tag.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A genre is written as the provider writes that genre.",
     },
   ],

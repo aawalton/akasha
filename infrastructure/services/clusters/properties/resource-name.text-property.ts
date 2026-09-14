@@ -10,7 +10,7 @@ export const resourceName = {
   nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The resource name is the name the cluster is asked for rather than the page's own slug.",
     },

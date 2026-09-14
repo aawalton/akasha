@@ -10,11 +10,11 @@ export const luaExport = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A name here is chosen outside akasha.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The name is stated rather than worked out from the page's slug.",
     },
   ],

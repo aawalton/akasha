@@ -10,16 +10,16 @@ export const earnedColorSlug = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An earned color is a color a rung has.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A scale states a single earned color whatever readouts are read against that scale.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The color a scale names is a page rather than a name held as text.",
     },
   ],

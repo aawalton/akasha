@@ -10,11 +10,11 @@ export const serviceClusterSchedule = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The times are written as the five cron fields.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A workload the cluster starts by hand carries no schedule.",
     },
   ],

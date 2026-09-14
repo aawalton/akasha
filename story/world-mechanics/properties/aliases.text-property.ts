@@ -10,7 +10,7 @@ export const aliases = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An alias is written as the text writes the alias rather than as a slug is written.",
     },

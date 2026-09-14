@@ -10,11 +10,11 @@ export const messageFrom = {
   nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A sender is a seat or a persona or a service that has no seat.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "This property is a relation to the sender of the message.",
     },
   ],

@@ -10,11 +10,11 @@ export const errorUrl = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A url is the url the reporting client was reading.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A url could have a token a query string has.",
     },
   ],

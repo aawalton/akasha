@@ -10,7 +10,7 @@ export const seatConditionsModel = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A subagent naming no model of its own answers on this model too.",
     },
   ],

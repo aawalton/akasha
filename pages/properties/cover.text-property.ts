@@ -10,7 +10,7 @@ export const cover = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement:
         "This property has the route a picture is fetched by rather than the picture itself.",
     },

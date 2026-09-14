@@ -10,19 +10,19 @@ export const charEligibility = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A leg stating nothing here sends to every character the leg reaches.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A leg's test of a character is no test an item condition makes.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "The test is written here as text whatever shape the test has.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A character test is a field of its own as an item test is.",
     },
   ],

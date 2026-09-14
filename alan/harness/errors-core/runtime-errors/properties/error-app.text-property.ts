@@ -10,11 +10,11 @@ export const errorApp = {
   nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The apps that may report are named by the report shape.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One app opens every slug an error of that app is filed under.",
     },
   ],

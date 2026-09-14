@@ -10,7 +10,7 @@ export const appliesWhen = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A direction reaches no transaction outside the shape that direction applies to.",
     },
   ],

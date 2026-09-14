@@ -10,12 +10,12 @@ export const anchorReference = {
   nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A reference is the chapter's start or the scene before or an absolute date or a named event.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reference to a named event has that event's slug after `named-event:`.",
     },
   ],

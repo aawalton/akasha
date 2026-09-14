@@ -10,7 +10,7 @@ export const meals = {
   nameFormat: "name-format/lower-uuid",
   invariants: [
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "This property is a relation to a meal.",
     },
   ],

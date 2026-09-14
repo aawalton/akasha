@@ -9,8 +9,11 @@ export const validSlots = {
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   invariants: [
-    { invariantKind: "gap", statement: "This property is a relation to a slot." },
-    { invariantKind: "departure", statement: "One list has every slot a kind fits." },
+    { invariantKind: "invariant-kind/gap", statement: "This property is a relation to a slot." },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "One list has every slot a kind fits.",
+    },
   ],
   types: "ts",
 } as const satisfies TextProperty

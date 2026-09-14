@@ -11,7 +11,7 @@ export const slug = {
   unique: "unique-kind/page-type",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A slug that cannot become a page's export name is no slug.",
     },
   ],

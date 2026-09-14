@@ -10,11 +10,11 @@ export const topicSettled = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This property has the text that stands rather than the text still open.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A blank line divides one paragraph from the next.",
     },
   ],

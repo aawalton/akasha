@@ -10,7 +10,7 @@ export const casePage = {
   nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name whose page is renamed or deleted stays as the case was written.",
     },
   ],

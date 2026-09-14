@@ -10,15 +10,15 @@ export const emailRuleCodeDelay = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A delay is a count of minutes or hours.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A delay is written as digits and then `m` or `h`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule stating no delay acts as soon as the mail is read.",
     },
   ],

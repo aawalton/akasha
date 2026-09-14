@@ -10,7 +10,7 @@ export const anchorClaimedBy = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An anchor the story itself tells names nobody here.",
     },
   ],

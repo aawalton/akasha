@@ -10,19 +10,19 @@ export const pageBodyReaders = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A module declares a reader here rather than a reader's caller holding a list.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name declared here is an export of the module declaring it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A module saying nothing here declares no reader of page bodies.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reader is what a module declares rather than what a body is seen to do.",
     },
   ],

@@ -10,11 +10,11 @@ export const rotatedSessionUuid = {
   nameFormat: "name-format/lower-uuid",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This property sits between a clear and the binding that takes this property.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This property goes once taken.",
     },
   ],

@@ -10,11 +10,11 @@ export const recordBrief = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A brief is written outside the text the brief summarises.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A brief says the substance of a record rather than repeating the record's text.",
     },
   ],

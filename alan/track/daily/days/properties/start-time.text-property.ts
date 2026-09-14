@@ -10,7 +10,7 @@ export const startTime = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "This property is an instant rather than text.",
     },
   ],

@@ -10,7 +10,7 @@ export const reminderText = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The words are sent as written rather than filled in as the reminder sends.",
     },
   ],

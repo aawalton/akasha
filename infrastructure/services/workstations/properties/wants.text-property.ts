@@ -10,7 +10,7 @@ export const wants = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The unit named failing to start leaves this service starting all the same.",
     },
   ],

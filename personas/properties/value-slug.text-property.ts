@@ -10,11 +10,11 @@ export const valueSlug = {
   nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "The six values a persona represents are not pages.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "This property is a relation to a value.",
     },
   ],

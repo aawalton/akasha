@@ -10,11 +10,11 @@ export const workdir = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The folder is named from the folder the service is provisioned into.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A service running in that folder itself states a single dot.",
     },
   ],

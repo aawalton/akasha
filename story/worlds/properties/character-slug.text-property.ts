@@ -10,11 +10,11 @@ export const characterSlug = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "No character has a page of its own.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "This property is a relation to a character.",
     },
   ],

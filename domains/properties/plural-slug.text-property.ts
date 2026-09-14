@@ -10,11 +10,11 @@ export const pluralSlug = {
   nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A plural is stated rather than worked out.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A folder with a page that states a plural slug takes its name from that plural slug.",
     },

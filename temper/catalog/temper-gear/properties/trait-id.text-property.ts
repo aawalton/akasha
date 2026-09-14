@@ -8,6 +8,8 @@ export const traitId = {
   definition: "the trait a number the game has answers to",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [{ invariantKind: "gap", statement: "This property is a relation to a trait." }],
+  invariants: [
+    { invariantKind: "invariant-kind/gap", statement: "This property is a relation to a trait." },
+  ],
   types: "ts",
 } as const satisfies TextProperty

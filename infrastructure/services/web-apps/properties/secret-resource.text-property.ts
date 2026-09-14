@@ -10,17 +10,17 @@ export const secretResource = {
   nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The resource is named on the page rather than written into the code reaching for its values.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A web app's secret values are the values the secret pages place in this resource.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Two web apps may name one resource.",
     },
   ],

@@ -10,11 +10,11 @@ export const image = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The image is named as the cluster's own registry hands the image out.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A workload running more than one container states the image of the container the workload is for.",
     },

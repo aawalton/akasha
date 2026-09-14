@@ -10,7 +10,7 @@ export const writtenBy = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The command is spelled as a reader would say the command on a command line.",
     },
   ],

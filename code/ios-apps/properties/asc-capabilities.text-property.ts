@@ -10,15 +10,15 @@ export const ascCapabilities = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A capability is spelled as App Store Connect spells that capability.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A capability newly enabled remakes every App Store profile for that identifier.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A widget's own identifier is given no capability here.",
     },
   ],

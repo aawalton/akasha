@@ -8,6 +8,11 @@ export const companionId = {
   definition: "the companion a page is about",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [{ invariantKind: "gap", statement: "This property is a relation to  a companion." }],
+  invariants: [
+    {
+      invariantKind: "invariant-kind/gap",
+      statement: "This property is a relation to  a companion.",
+    },
+  ],
   types: "ts",
 } as const satisfies TextProperty

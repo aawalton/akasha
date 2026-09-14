@@ -11,7 +11,7 @@ export const targetName = {
   unique: "unique-kind/page-type",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The name a program is built under is the name the built bundle is named for.",
     },
   ],

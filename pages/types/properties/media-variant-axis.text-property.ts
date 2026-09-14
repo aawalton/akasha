@@ -10,7 +10,7 @@ export const mediaVariantAxis = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page type naming no axis has one rendition of each page.",
     },
   ],

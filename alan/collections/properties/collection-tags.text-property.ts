@@ -10,7 +10,7 @@ export const collectionTags = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A tag is the person's own rather than the provider's.",
     },
   ],

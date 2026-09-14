@@ -10,12 +10,12 @@ export const deviceSecretDeviceId = {
   nameFormat: "name-format/upper-uuid",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An iOS device states this value as the identifier that device has for its vendor.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A device uninstalling the app states a new device id.",
     },
   ],

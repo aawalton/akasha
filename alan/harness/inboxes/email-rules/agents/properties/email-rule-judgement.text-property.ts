@@ -10,11 +10,11 @@ export const emailRuleJudgement = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A judgement opens with the act.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The words after the act are why that act is worth an agent.",
     },
   ],

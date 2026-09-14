@@ -10,11 +10,11 @@ export const accountDisplayName = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A display name has the last four digits the bank shows.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Two accounts share a display name where the bank reopened an account under a new id.",
     },

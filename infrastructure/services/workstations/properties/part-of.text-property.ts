@@ -10,7 +10,7 @@ export const partOf = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A unit stops when the unit named here stops.",
     },
   ],

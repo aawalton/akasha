@@ -10,15 +10,15 @@ export const transactionNote = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A note is written only where Monarch reports the note empty at that moment.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Monarch keeps no earlier version.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A note replaced and a note nobody wrote read the same.",
     },
   ],

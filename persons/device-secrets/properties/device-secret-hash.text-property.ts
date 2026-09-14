@@ -11,7 +11,7 @@ export const deviceSecretHash = {
   unique: "unique-kind/page-type",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here is reversible to the secret the hash was taken over.",
     },
   ],

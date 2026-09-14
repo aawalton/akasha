@@ -10,7 +10,7 @@ export const folderName = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This folder name is the whole name rather than a stem.",
     },
   ],

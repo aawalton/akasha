@@ -10,11 +10,11 @@ export const luaFeature = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page stating no feature takes the feature its Lua export names.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A page states a feature where the export name that page would take is another page's.",
     },

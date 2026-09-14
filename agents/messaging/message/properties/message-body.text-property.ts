@@ -10,11 +10,11 @@ export const messageBody = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The words reach the recipient marked as data rather than as instruction.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The words are sent as written rather than filled in as the message sends.",
     },
   ],

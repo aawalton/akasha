@@ -10,7 +10,7 @@ export const claudeCodeSessionUuid = {
   nameFormat: "name-format/lower-uuid",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The session the seat answered in before is not kept.",
     },
   ],

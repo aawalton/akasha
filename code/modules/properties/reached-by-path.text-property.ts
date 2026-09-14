@@ -10,19 +10,19 @@ export const reachedByPath = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A module names here what reaches it by path, rather than a check keeping a list.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name declared here is an export of the module declaring it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A module saying nothing here is reached by nothing but imports.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reach is what a module declares rather than what a walk of the tree turns up.",
     },
   ],

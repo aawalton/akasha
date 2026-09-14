@@ -9,8 +9,14 @@ export const alchemyEffects = {
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   invariants: [
-    { invariantKind: "gap", statement: "This property is a relation to a poison effect." },
-    { invariantKind: "departure", statement: "One list has every effect a reagent carries." },
+    {
+      invariantKind: "invariant-kind/gap",
+      statement: "This property is a relation to a poison effect.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "One list has every effect a reagent carries.",
+    },
   ],
   types: "ts",
 } as const satisfies TextProperty

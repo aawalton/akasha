@@ -10,11 +10,11 @@ export const recordBookSlug = {
   nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "The books named here are not pages yet.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "This property is a relation to a book.",
     },
   ],

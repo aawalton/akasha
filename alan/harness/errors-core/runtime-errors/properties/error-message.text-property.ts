@@ -10,15 +10,15 @@ export const errorMessage = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A message is kept as the reporting client sent the message.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A message could have whatever a person typed.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Nothing here takes a secret out of a message before the message is committed.",
     },
   ],

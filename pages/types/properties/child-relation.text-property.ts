@@ -10,7 +10,7 @@ export const childRelation = {
   nameFormat: "name-format/lower-camel-case",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A key named here that the gathered page type does not have gathers nothing.",
     },
   ],

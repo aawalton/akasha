@@ -10,11 +10,11 @@ export const buildCorrelationId = {
   nameFormat: "name-format/lower-uuid",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A build the client never named has no correlation id.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "This property is the id the client sent rather than the id the build is reached by.",
     },

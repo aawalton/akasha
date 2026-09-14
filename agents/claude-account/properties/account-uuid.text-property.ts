@@ -11,11 +11,11 @@ export const accountUuid = {
   unique: "unique-kind/page-type",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The account uuid is answered by the upstream probe rather than chosen here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An account whose uuid changes is another account under the same slug.",
     },
   ],

@@ -10,11 +10,11 @@ export const refusalText = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A hole is marked in braces and filled as the words are printed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A hole named in the text and handed no value refuses the printing.",
     },
   ],

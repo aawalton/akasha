@@ -10,11 +10,11 @@ export const spaSourcePath = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This path is read against the repository root rather than the app's package.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An app whose site sits beside its page states no path here.",
     },
   ],

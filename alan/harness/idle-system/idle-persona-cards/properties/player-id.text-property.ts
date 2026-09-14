@@ -10,11 +10,11 @@ export const playerId = {
   nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "Two of the three players named here are pages and the third is not.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "This property is a relation to a player.",
     },
   ],

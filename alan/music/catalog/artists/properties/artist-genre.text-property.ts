@@ -10,7 +10,7 @@ export const artistGenre = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A genre is the provider's rather than Alan's.",
     },
   ],

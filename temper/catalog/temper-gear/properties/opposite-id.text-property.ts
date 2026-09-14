@@ -9,7 +9,10 @@ export const oppositeId = {
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   invariants: [
-    { invariantKind: "gap", statement: "This property is a relation to a poison effect." },
+    {
+      invariantKind: "invariant-kind/gap",
+      statement: "This property is a relation to a poison effect.",
+    },
   ],
   types: "ts",
 } as const satisfies TextProperty

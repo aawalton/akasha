@@ -10,15 +10,15 @@ export const alertDomain = {
   nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An area is named here as text rather than reached as a page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An area named here is not always a page in akasha yet.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An alert naming a person is owed to that person rather than to an area.",
     },
   ],

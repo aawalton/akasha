@@ -10,7 +10,7 @@ export const deviceSecretUserId = {
   nameFormat: "name-format/lower-uuid",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This user id is the account a person states rather than that person's slug.",
     },
   ],

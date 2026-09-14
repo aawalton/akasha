@@ -8,6 +8,11 @@ export const accountPage = {
   definition: "the account a page belongs to",
   maxLength: 36,
   nameFormat: "name-format/lower-uuid",
-  invariants: [{ invariantKind: "gap", statement: "This property is a relation to  an account." }],
+  invariants: [
+    {
+      invariantKind: "invariant-kind/gap",
+      statement: "This property is a relation to  an account.",
+    },
+  ],
   types: "ts",
 } as const satisfies TextProperty

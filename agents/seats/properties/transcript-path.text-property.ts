@@ -10,7 +10,7 @@ export const transcriptPath = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A transcript sits on the machine its seat sits on.",
     },
   ],

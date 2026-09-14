@@ -9,7 +9,10 @@ export const subcategoryId = {
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   invariants: [
-    { invariantKind: "gap", statement: "This property is a relation to  a subcategory." },
+    {
+      invariantKind: "invariant-kind/gap",
+      statement: "This property is a relation to  a subcategory.",
+    },
   ],
   types: "ts",
 } as const satisfies TextProperty

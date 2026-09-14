@@ -10,11 +10,11 @@ export const hostnames = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name here is reached from outside the cluster.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A web app states every name reaching the workload the web app runs as.",
     },
   ],

@@ -10,7 +10,7 @@ export const rruleRule = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A recurrence is written as an RFC 5545 RRULE without its `RRULE:` opener.",
     },
   ],

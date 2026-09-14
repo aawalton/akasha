@@ -10,11 +10,11 @@ export const titleKey = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A title key is a track name and then `|` and then an artist name.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A title key has only lowercase letters and digits either side of `|`.",
     },
   ],

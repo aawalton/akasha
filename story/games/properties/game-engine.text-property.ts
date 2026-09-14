@@ -10,7 +10,7 @@ export const gameEngine = {
   nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The engine a game names settles how that game's page draws.",
     },
   ],

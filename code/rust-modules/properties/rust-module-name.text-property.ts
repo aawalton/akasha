@@ -10,23 +10,23 @@ export const rustModuleName = {
   nameFormat: "name-format/lower-snake-case",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A `mod` line names a module by its module name rather than by its slug.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seam copies the page's Rust file to the module name.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A module name is unique within its crate alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A slug is unique across the whole of akasha.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The module a crate's run begins in is named `main`.",
     },
   ],

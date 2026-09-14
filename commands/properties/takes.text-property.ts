@@ -10,7 +10,7 @@ export const takes = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The takes text sits on one line beside the said text.",
     },
   ],

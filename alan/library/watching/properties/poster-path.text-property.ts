@@ -10,7 +10,7 @@ export const posterPath = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A path is read against the provider's image host rather than against akasha.",
     },
   ],

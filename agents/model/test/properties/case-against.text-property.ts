@@ -10,7 +10,7 @@ export const caseAgainst = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A case judging its text against the page the case names states nothing here.",
     },
   ],

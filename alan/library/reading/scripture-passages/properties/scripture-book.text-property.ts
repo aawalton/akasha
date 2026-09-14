@@ -10,7 +10,7 @@ export const scriptureBook = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A book is written as the book is printed rather than as a slug is written.",
     },
   ],

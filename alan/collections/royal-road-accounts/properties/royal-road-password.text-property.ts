@@ -10,7 +10,7 @@ export const royalRoadPassword = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The password is in the page's sops file rather than in the page.",
     },
   ],

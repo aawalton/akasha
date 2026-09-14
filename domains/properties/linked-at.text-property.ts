@@ -10,15 +10,15 @@ export const linkedAt = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The folder a link reaches is the folder holding the page stating this.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A path opening with a tilde is read under the home of whoever places the link.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page states where its folder is reached rather than a script holding a table.",
     },
   ],

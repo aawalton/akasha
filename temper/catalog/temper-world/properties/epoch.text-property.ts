@@ -10,7 +10,7 @@ export const epoch = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "This property is a day rather than text.",
     },
   ],

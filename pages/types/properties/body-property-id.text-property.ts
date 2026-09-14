@@ -10,7 +10,7 @@ export const bodyPropertyId = {
   nameFormat: "name-format/lower-camel-case",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A key named here that the page type has no property for reads nothing.",
     },
   ],

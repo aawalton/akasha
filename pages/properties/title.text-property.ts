@@ -10,7 +10,7 @@ export const title = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A title is written as the name is written rather than as a slug is written.",
     },
   ],

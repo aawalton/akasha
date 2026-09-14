@@ -10,7 +10,7 @@ export const mediaSourcePropertyId = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A key named here that the page type has no property for renders nothing.",
     },
   ],

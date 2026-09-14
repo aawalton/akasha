@@ -10,12 +10,12 @@ export const subscriptionDisabledReason = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An account stating a subscription disabled reason is passed over by every pass that renews a token.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The account is usable again once this reason is taken away.",
     },
   ],

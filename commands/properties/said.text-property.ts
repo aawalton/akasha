@@ -10,11 +10,11 @@ export const said = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The text here is typed as that text is.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A value a flag has is named in angle brackets after the flag.",
     },
   ],

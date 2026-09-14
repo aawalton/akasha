@@ -10,7 +10,7 @@ export const matchValues = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A value is written in the words the vocabulary has rather than in a title.",
     },
   ],

@@ -10,7 +10,7 @@ export const conditionValue = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "A number or a list is written here as text whatever kind the test wants.",
     },
   ],

@@ -10,7 +10,7 @@ export const rescuedRefreshToken = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The rescued refresh token is the token the sops file did not take.",
     },
   ],

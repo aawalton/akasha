@@ -10,11 +10,11 @@ export const tiCleanBlockedReason = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An addon naming a reason here is blocked rather than backlog.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reason names the call sites the addon cannot convert.",
     },
   ],

@@ -10,7 +10,7 @@ export const spotifyTrackId = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A Spotify track id is 22 characters of letters and digits.",
     },
   ],

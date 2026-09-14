@@ -10,15 +10,15 @@ export const marketingVersion = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A version is up to three numbers parted by dots.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A version is unchanged by an upload.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A build gives an app the version its page states.",
     },
   ],

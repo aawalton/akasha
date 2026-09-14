@@ -10,7 +10,7 @@ export const imdbId = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An IMDb id sits beside the id of the provider the page was read from.",
     },
   ],

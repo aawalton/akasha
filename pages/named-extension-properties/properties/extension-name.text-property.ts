@@ -10,7 +10,7 @@ export const extensionName = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This extension is the name after the last dot rather than the dot with it.",
     },
   ],

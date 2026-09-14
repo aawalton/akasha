@@ -8,6 +8,11 @@ export const effectiveCharacter = {
   definition: "the character a rotating task falls to for its current turn",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [{ invariantKind: "gap", statement: "This property is a relation to a character." }],
+  invariants: [
+    {
+      invariantKind: "invariant-kind/gap",
+      statement: "This property is a relation to a character.",
+    },
+  ],
   types: "ts",
 } as const satisfies TextProperty

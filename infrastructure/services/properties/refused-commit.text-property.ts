@@ -10,19 +10,19 @@ export const refusedCommit = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The commit is the whole hash git resolved rather than the name a call gave.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A deploy that finished leaves the commit as that commit was.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A dry run leaves the commit as that commit was.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The commit is kept uncommitted, so no deploy's closure reaches it.",
     },
   ],

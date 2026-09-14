@@ -10,11 +10,11 @@ export const keptBy = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A record a command writes names the command.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A record naming no keeper of its own names no keeper here.",
     },
   ],

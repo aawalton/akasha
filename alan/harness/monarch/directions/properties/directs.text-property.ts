@@ -10,11 +10,11 @@ export const directs = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A direction says the things to weigh.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A direction never says the decision to make.",
     },
   ],

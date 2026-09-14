@@ -10,7 +10,7 @@ export const secretValue = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The value is read from the sops file rather than from the page's own file.",
     },
   ],

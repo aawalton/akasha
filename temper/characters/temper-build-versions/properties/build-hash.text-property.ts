@@ -9,8 +9,14 @@ export const buildHash = {
   maxLength: 4000,
   nameFormat: null,
   invariants: [
-    { invariantKind: "departure", statement: "Two versions arranged alike have one hash." },
-    { invariantKind: "constraint", statement: "A hash runs longer than a name is allowed to run." },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Two versions arranged alike have one hash.",
+    },
+    {
+      invariantKind: "invariant-kind/constraint",
+      statement: "A hash runs longer than a name is allowed to run.",
+    },
   ],
   types: "ts",
 } as const satisfies TextProperty

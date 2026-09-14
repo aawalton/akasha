@@ -10,11 +10,11 @@ export const reminderSchedule = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Systemd reads a schedule rather than a parser of our own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A schedule naming one absolute time does not repeat.",
     },
   ],

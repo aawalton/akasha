@@ -10,11 +10,11 @@ export const wireKey = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every readout states a wire key of its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "No readout falls back to its slug on the wire.",
     },
   ],

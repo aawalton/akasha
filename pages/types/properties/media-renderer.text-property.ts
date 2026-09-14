@@ -10,7 +10,7 @@ export const mediaRenderer = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A renderer is named here and reached by the code that knows the name.",
     },
   ],

@@ -10,7 +10,7 @@ export const lengthPropertyId = {
   nameFormat: "name-format/lower-camel-case",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page whose length is not known is never recorded as read at its end.",
     },
   ],

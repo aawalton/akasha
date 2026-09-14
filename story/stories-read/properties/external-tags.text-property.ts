@@ -10,11 +10,11 @@ export const externalTags = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A tag here is the source's own rather than the person's.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A tag is written as the source writes the tag rather than as a slug is written.",
     },
   ],

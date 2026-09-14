@@ -10,15 +10,15 @@ export const placeholder = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The word is written without the angle brackets it is shown in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name of more than one part is hyphenated rather than spaced.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An argument carrying no value names no word here.",
     },
   ],

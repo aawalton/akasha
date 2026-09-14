@@ -10,7 +10,7 @@ export const subscriptionType = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The subscription type is answered by the upstream probe rather than chosen here.",
     },
   ],

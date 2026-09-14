@@ -10,11 +10,11 @@ export const judgement = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A judgement opens with the act.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A judgement then says why that act is worth an agent.",
     },
   ],

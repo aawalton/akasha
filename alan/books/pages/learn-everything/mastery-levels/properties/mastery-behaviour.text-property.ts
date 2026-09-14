@@ -10,7 +10,7 @@ export const masteryBehaviour = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One rung is told from the rungs beside that rung by this text alone.",
     },
   ],

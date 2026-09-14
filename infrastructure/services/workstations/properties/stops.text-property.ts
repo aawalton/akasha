@@ -10,7 +10,7 @@ export const stops = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The commands run in the order the commands are written in.",
     },
   ],

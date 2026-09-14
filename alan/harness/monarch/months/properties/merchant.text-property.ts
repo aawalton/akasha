@@ -10,11 +10,11 @@ export const merchant = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A merchant is Monarch's title for the row rather than the bank's own words.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "How the money moved is a merchant where the row's words name no vendor.",
     },
   ],

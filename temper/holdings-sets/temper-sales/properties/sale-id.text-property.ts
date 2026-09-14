@@ -9,7 +9,10 @@ export const saleId = {
   maxLength: 200,
   nameFormat: null,
   invariants: [
-    { invariantKind: "departure", statement: "A sale carrying no sale id is not kept." },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A sale carrying no sale id is not kept.",
+    },
   ],
   types: "ts",
 } as const satisfies TextProperty

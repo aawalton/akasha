@@ -10,7 +10,7 @@ export const tagColour = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A colour is six hex digits behind a hash.",
     },
   ],

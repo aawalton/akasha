@@ -10,11 +10,11 @@ export const openQuestion = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An ask is written as a question rather than as a note naming a gap.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An ask has no paragraph break.",
     },
   ],

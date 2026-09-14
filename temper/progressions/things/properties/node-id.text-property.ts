@@ -9,7 +9,10 @@ export const nodeId = {
   maxLength: 100,
   nameFormat: null,
   invariants: [
-    { invariantKind: "gap", statement: "This property is a relation to a node of the same tree." },
+    {
+      invariantKind: "invariant-kind/gap",
+      statement: "This property is a relation to a node of the same tree.",
+    },
   ],
   types: "ts",
 } as const satisfies TextProperty

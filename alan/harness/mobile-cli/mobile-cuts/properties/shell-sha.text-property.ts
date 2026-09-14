@@ -10,7 +10,7 @@ export const shellSha = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A cut built from no separate shell leaves this property off rather than repeating its main sha.",
     },

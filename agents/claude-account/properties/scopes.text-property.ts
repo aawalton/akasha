@@ -10,11 +10,11 @@ export const scopes = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A scope is written as the grant spells the scope.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The scopes sit in the order the grant returned.",
     },
   ],

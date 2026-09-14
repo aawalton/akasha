@@ -10,7 +10,7 @@ export const resourceKey = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The key is spelled as the resource spells that key rather than as a slug is spelled.",
     },

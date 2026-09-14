@@ -10,11 +10,11 @@ export const narrowValues = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A blank character of a value is weighed like every other character.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "A value is written as text whatever kind the key the value narrows has.",
     },
   ],

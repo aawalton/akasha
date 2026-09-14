@@ -10,7 +10,7 @@ export const completionItemPath = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A path is read in the order the page states each step.",
     },
   ],

@@ -10,11 +10,11 @@ export const version = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A version reads as a number and is written as text.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Writing a version as a number would flatten `1.0` to `1`.",
     },
   ],

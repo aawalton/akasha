@@ -10,7 +10,7 @@ export const focusScripts = {
   nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "This property is a relation to a focus script.",
     },
   ],

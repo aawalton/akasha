@@ -10,24 +10,24 @@ export const pattern = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A pattern is matched without regard to case.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A pattern is matched against the added text as well as against a copy split at its camelCase seams.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A pattern therefore needs no case of its own to reach inside a camelCase name.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A pattern narrows only to leave out the senses the term never means.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A pattern that does not compile is no pattern.",
     },
   ],

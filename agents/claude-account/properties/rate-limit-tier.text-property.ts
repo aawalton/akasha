@@ -10,11 +10,11 @@ export const rateLimitTier = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The rate limit tier is answered by the upstream probe rather than chosen here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A tier is written as Anthropic spells that tier.",
     },
   ],

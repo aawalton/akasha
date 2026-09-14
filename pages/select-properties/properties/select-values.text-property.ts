@@ -10,11 +10,11 @@ export const selectValues = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The values are page data rather than TypeScript alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The order the values are written in is the order the values are offered in.",
     },
   ],

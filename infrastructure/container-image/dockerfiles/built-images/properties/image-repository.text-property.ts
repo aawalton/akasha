@@ -10,11 +10,11 @@ export const imageRepository = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The path carries no tag, because the tag is the hash of the build inputs.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An image nothing pushes states no repository.",
     },
   ],

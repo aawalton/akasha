@@ -10,7 +10,7 @@ export const errorUserAgent = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A report raised by a server names the server rather than a browser.",
     },
   ],

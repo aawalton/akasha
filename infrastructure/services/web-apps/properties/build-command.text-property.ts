@@ -10,11 +10,11 @@ export const buildCommand = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The command is run in the folder the source directory names.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The command is stated on the page rather than written into the code that runs the command.",
     },

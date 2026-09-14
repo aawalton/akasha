@@ -10,7 +10,7 @@ export const playKey = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A play key is a Spotify track id and then `@` and then when the play finished.",
     },
   ],

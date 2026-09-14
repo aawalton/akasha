@@ -10,7 +10,7 @@ export const proxyVersion = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A build is named by the digest of the source the build was built from.",
     },
   ],

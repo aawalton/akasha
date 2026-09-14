@@ -9,8 +9,14 @@ export const dropSources = {
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   invariants: [
-    { invariantKind: "gap", statement: "This property is a relation to a scribing source." },
-    { invariantKind: "departure", statement: "One list has every errand a style drops from." },
+    {
+      invariantKind: "invariant-kind/gap",
+      statement: "This property is a relation to a scribing source.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "One list has every errand a style drops from.",
+    },
   ],
   types: "ts",
 } as const satisfies TextProperty

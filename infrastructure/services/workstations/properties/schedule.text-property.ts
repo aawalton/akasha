@@ -10,7 +10,7 @@ export const schedule = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A service stating a schedule is started by a timer rather than kept running.",
     },
   ],

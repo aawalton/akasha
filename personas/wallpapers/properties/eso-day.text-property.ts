@@ -10,11 +10,11 @@ export const esoDay = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An ESO day runs from six in the morning to six the next morning.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "This property is a day rather than text.",
     },
   ],

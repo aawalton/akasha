@@ -10,7 +10,7 @@ export const rescuedAccessToken = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The rescued access token is the token the sops file did not take.",
     },
   ],

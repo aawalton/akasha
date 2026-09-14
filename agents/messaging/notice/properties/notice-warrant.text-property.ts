@@ -10,12 +10,12 @@ export const noticeWarrant = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A notice states which seat that notice goes to rather than leaving that to its sender.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The cost of editing a notice's words sits on the notice.",
     },
   ],

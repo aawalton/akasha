@@ -10,7 +10,7 @@ export const lastMessagedAt = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "No name format exists for an instant.",
     },
   ],

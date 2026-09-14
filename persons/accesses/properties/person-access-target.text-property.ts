@@ -10,7 +10,7 @@ export const personAccessTarget = {
   nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A target of `all` is every target of that kind and is the only pattern an access takes.",
     },

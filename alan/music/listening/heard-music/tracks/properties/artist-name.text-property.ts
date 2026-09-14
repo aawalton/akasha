@@ -10,7 +10,7 @@ export const artistName = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An artist name is the first artist Spotify names for a track.",
     },
   ],

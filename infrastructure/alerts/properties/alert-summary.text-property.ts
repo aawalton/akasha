@@ -10,15 +10,15 @@ export const alertSummary = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A summary has the labels of the rule raising the alert.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A summary is written in a template.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An unraised alert reads as a template left unfilled.",
     },
   ],

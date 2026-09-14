@@ -9,9 +9,9 @@ export const build = {
   maxLength: 100,
   nameFormat: null,
   invariants: [
-    { invariantKind: "gap", statement: "This property is a relation to a build." },
+    { invariantKind: "invariant-kind/gap", statement: "This property is a relation to a build." },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A character build and a companion build are named here alike.",
     },
   ],

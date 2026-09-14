@@ -9,7 +9,10 @@ export const parent = {
   maxLength: 200,
   nameFormat: "name-format/lower-kebab-case",
   invariants: [
-    { invariantKind: "gap", statement: "This property is a relation to  the page above." },
+    {
+      invariantKind: "invariant-kind/gap",
+      statement: "This property is a relation to  the page above.",
+    },
   ],
   types: "ts",
 } as const satisfies TextProperty

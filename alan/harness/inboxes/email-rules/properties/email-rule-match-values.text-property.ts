@@ -10,7 +10,7 @@ export const emailRuleMatchValues = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A value is written as the mail has that value rather than as a title.",
     },
   ],

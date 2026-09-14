@@ -10,19 +10,19 @@ export const errorFingerprint = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A fingerprint is taken over an error's normalized stack and message and app.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Two reports hashing alike are one error.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A fingerprint is written as lower hexadecimal.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A fingerprint is never a page's whole slug.",
     },
   ],

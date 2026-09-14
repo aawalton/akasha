@@ -10,15 +10,15 @@ export const agentId = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An agent id reaches the page whose readings are that agent's.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A subagent's agent id joins its seat's id to the id the subagent runs under.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Two hyphens part the seat's id from the id the subagent runs under.",
     },
   ],

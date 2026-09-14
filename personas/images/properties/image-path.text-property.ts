@@ -10,11 +10,11 @@ export const imagePath = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A path already absolute is read as that path is rather than against a root.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A path is written as the file is named rather than as a slug is written.",
     },
   ],

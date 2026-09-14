@@ -10,7 +10,7 @@ export const buildInputTreeHash = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A cut with no hash predates the basis cuts are judged by and reads as owed.",
     },
   ],

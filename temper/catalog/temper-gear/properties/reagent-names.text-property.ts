@@ -9,8 +9,11 @@ export const reagentNames = {
   maxLength: 100,
   nameFormat: null,
   invariants: [
-    { invariantKind: "gap", statement: "This property is a relation to a reagent." },
-    { invariantKind: "departure", statement: "One list holds every reagent one recipe takes." },
+    { invariantKind: "invariant-kind/gap", statement: "This property is a relation to a reagent." },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "One list holds every reagent one recipe takes.",
+    },
   ],
   types: "ts",
 } as const satisfies TextProperty

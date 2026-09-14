@@ -10,7 +10,7 @@ export const visibleProperties = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A property is named by the key its declaration states.",
     },
   ],

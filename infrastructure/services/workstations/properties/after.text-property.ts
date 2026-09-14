@@ -10,7 +10,7 @@ export const after = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A unit named here orders the start without being required to be there.",
     },
   ],

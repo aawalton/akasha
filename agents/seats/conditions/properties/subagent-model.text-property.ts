@@ -10,7 +10,7 @@ export const subagentModel = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A subagent whose kind names no model answers on the model named here.",
     },
   ],

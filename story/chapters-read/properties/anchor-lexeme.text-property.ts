@@ -10,7 +10,7 @@ export const anchorLexeme = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A lexeme is the chapter's own words rather than a reading of those words.",
     },
   ],

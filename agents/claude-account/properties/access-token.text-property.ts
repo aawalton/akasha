@@ -10,7 +10,7 @@ export const accessToken = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The access token sits in the page's sops file rather than in the page.",
     },
   ],

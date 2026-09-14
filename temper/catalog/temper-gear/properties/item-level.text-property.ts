@@ -10,7 +10,7 @@ export const itemLevel = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A level reading Scaled follows the character with the item.",
     },
   ],

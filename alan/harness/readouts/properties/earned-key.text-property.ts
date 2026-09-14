@@ -10,11 +10,11 @@ export const earnedKey = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A readout stating no earned key never earns a color.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The fact the key names is true or false rather than a number.",
     },
   ],

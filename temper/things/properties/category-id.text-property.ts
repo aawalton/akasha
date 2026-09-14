@@ -8,6 +8,11 @@ export const categoryId = {
   definition: "the group a thing is filed under",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [{ invariantKind: "gap", statement: "This property is a relation to  a category." }],
+  invariants: [
+    {
+      invariantKind: "invariant-kind/gap",
+      statement: "This property is a relation to  a category.",
+    },
+  ],
   types: "ts",
 } as const satisfies TextProperty

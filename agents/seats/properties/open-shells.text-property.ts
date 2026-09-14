@@ -10,11 +10,11 @@ export const openShells = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A background command is named by the task the transcript gives that command.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A command is listed until the notification naming that command is read.",
     },
   ],

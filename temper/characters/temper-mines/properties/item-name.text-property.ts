@@ -10,11 +10,11 @@ export const itemName = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name is the text one sweep read where a title is the item's name now.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name and a title part where a sweep read the item before the item was renamed.",
     },
   ],

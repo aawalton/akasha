@@ -10,7 +10,7 @@ export const gmailMessageId = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The id is spelled as Gmail spells that id rather than as a slug is spelled.",
     },
   ],

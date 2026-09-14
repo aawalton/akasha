@@ -10,7 +10,7 @@ export const deviceTokenToken = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Apple writes a token in upper hexadecimal and the token is kept as given.",
     },
   ],

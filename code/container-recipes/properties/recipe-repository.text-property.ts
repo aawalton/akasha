@@ -10,11 +10,11 @@ export const recipeRepository = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "The name carries no registry host.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "The name carries no tag.",
     },
   ],

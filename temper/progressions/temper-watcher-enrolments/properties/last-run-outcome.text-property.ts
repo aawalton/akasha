@@ -10,7 +10,7 @@ export const lastRunOutcome = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A report is held as JSON text rather than as the fields a report carries.",
     },
   ],

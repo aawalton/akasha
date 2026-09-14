@@ -10,7 +10,7 @@ export const resourceKind = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The kind named here has a pod template.",
     },
   ],

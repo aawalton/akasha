@@ -11,11 +11,11 @@ export const indexName = {
   unique: "unique-kind/page-type",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "No two indexes share a name.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The name is the folder the answers stand in.",
     },
   ],

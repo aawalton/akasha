@@ -8,6 +8,8 @@ export const setClassId = {
   definition: "the class a set is only offered to",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
-  invariants: [{ invariantKind: "gap", statement: "This property is a relation to a class." }],
+  invariants: [
+    { invariantKind: "invariant-kind/gap", statement: "This property is a relation to a class." },
+  ],
   types: "ts",
 } as const satisfies TextProperty

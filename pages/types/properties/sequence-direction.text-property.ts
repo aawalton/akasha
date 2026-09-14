@@ -10,11 +10,11 @@ export const sequenceDirection = {
   nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page type naming no direction has its run sorted upward.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "The two directions a run can take do not stand as pages.",
     },
   ],

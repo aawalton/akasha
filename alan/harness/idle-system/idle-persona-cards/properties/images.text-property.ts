@@ -10,7 +10,7 @@ export const images = {
   nameFormat: "name-format/lower-uuid",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The picture a card is shown by is drawn from these pictures.",
     },
   ],

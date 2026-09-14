@@ -10,11 +10,11 @@ export const evolvesToSlugs = {
   nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "This property is a relation to a mechanic of the same page type.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An evolution names a mechanic of the kind the mechanic evolving is.",
     },
   ],

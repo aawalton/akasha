@@ -10,11 +10,11 @@ export const addonName = {
   nameFormat: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The name is spelled as the addon's own manifest spells it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The addon roster answers with this name for the addon.",
     },
   ],

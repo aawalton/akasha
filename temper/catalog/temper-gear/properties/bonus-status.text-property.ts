@@ -10,7 +10,7 @@ export const bonusStatus = {
   nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A bonus marked unsupported moves no metric temper counts.",
     },
   ],
