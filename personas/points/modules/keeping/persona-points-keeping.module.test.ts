@@ -6,7 +6,6 @@ import {
   keepPointsToday,
   pointsBeforeTodayKept,
   pointsIn,
-  pointsTodayKept,
   pointsTotalKept,
 } from "akasha/personas/points/modules/keeping/persona-points-keeping.module.code.ts"
 
@@ -37,14 +36,6 @@ test("a count short of a hundred earns the fraction it reaches", () => {
 test("a persona carrying nothing reads back as unread rather than as a zero", () => {
   over((root) => {
     expect(pointsTotalKept(root, PROBE)).toBeNull()
-    return undefined
-  })
-})
-
-test("today's points read back the way they were kept", () => {
-  over((root) => {
-    keepPointsToday(root, PROBE, 2.5)
-    expect(pointsTodayKept(root, PROBE)).toBe(2.5)
     return undefined
   })
 })
@@ -80,7 +71,6 @@ test("both halves kept at once total together", () => {
   over((root) => {
     keepPoints(root, PROBE, 7, 1.5)
     expect(pointsBeforeTodayKept(root, PROBE)).toBe(7)
-    expect(pointsTodayKept(root, PROBE)).toBe(1.5)
     expect(pointsTotalKept(root, PROBE)).toBe(8.5)
     return undefined
   })

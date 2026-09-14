@@ -28,10 +28,6 @@ export function pointsBeforeTodayKept(root: string, persona: Paged): number | nu
   return numberKept(root, persona, POINTS_BEFORE_TODAY)
 }
 
-export function pointsTodayKept(root: string, persona: Paged): number | null {
-  return numberKept(root, persona, POINTS_TODAY)
-}
-
 export function pointsTotalKept(root: string, persona: Paged): number | null {
   return numberKept(root, persona, POINTS_TOTAL)
 }
