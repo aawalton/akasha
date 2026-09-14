@@ -17,20 +17,6 @@ export function setInheritedClaude(claude: SupervisorHandoff["claude"]): undefin
   _inheritedClaude = claude
 }
 
-export const activeLifecycles = new Set<Promise<void>>()
-
-export function trackLifecycle<T>(p: Promise<T>): Promise<T> {
-  const settled: Promise<void> = p.then(
-    () => undefined,
-    () => undefined
-  )
-  activeLifecycles.add(settled)
-  void settled.finally(() => {
-    activeLifecycles.delete(settled)
-  })
-  return p
-}
-
 let _shuttingDown = false
 
 export function isShuttingDown(): boolean {

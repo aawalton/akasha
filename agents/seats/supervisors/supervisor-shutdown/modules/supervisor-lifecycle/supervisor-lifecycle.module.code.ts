@@ -8,7 +8,6 @@ import {
 import type { ChildExitRuleSource } from "akasha/agents/seats/supervisors/supervisor-child/modules/exit-rule/supervisor-child-exit-rule.module.code.ts"
 import { LOG } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
-  activeLifecycles,
   getObservedChildExit,
   isShuttingDown,
   processes,
@@ -48,7 +47,6 @@ export function armForceExitTimer(signal: string): () => void {
   const forceTimer = setTimeout(() => {
     recordShutdownEvent("force-exit", {
       signal,
-      activeLifecycles: activeLifecycles.size,
       processes: processes.size,
       pendingReExec: isPendingReExec(),
     })
@@ -82,7 +80,6 @@ export async function shutdown(signal: string, childExitRule: ChildExitRuleSourc
   const disarmForceExit = armForceExitTimer(signal)
   recordShutdownEvent("entry", {
     signal,
-    activeLifecycles: activeLifecycles.size,
     processes: processes.size,
     pendingReExec: isPendingReExec(),
   })
@@ -128,26 +125,6 @@ export async function shutdown(signal: string, childExitRule: ChildExitRuleSourc
     }
   } else {
     recordShutdownEvent("seat-page-remove-skip-reexec")
-  }
-
-  if (activeLifecycles.size > 0) {
-    recordShutdownEvent("drain-start", { count: activeLifecycles.size })
-    let timeoutHandle: ReturnType<typeof setTimeout> | undefined
-    let timedOut = true
-    const timeout = new Promise<void>((resolve) => {
-      timeoutHandle = setTimeout(resolve, 30_000)
-    })
-    const drained = Promise.allSettled([...activeLifecycles]).then(() => {
-      timedOut = false
-    })
-    await Promise.race([drained, timeout])
-    if (timeoutHandle) clearTimeout(timeoutHandle)
-    recordShutdownEvent("drain-end", {
-      remaining: activeLifecycles.size,
-      timedOut,
-    })
-  } else {
-    recordShutdownEvent("drain-skip-empty")
   }
 
   if (isPendingReExec()) {
