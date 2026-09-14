@@ -46,6 +46,7 @@ export const components = {
     "module/page-calendar-dnd-helpers",
     "module/page-card",
     "module/page-card-cover",
+    "module/page-card-drawings",
     "module/page-card-grid",
     "module/page-card-notes",
     "module/page-card-properties",

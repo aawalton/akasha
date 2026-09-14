@@ -1,36 +1,28 @@
 "use client"
 
-import { PANEL_CARD_WIDTH_CLASSES } from "akasha/design/interfaces/layout/modules/panel-card-data/panel-card-data.module.code.ts"
-import { IconPicker } from "akasha/design/interfaces/patterns/modules/icon-picker/icon-picker.module.code.tsx"
-import { Icon } from "akasha/design/interfaces/patterns/modules/lucide-icon/lucide-icon.module.code.tsx"
-import {
-  Card,
-  CardContent,
-  CardHeader,
-  CardTitle,
-} from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
-import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
-import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import type { IconName } from "akasha/pages/core/generated/modules/icon-search-index/icon-search-index.module.code.ts"
 import type {
   PageDataJSON,
   PropertyDefinition,
 } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import type { CompletionShape } from "akasha/pages/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
-import { readsAsDone } from "akasha/pages/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
-import { expandDateMentions } from "akasha/pages/core/view/modules/expand-date-mentions/expand-date-mentions.module.code.ts"
+import {
+  type PageTypeForInheritance,
+  pageTypeChain,
+} from "akasha/pages/core/schema/modules/page-type-inheritance/page-type-inheritance.module.code.ts"
 import type { GalleryCardSize } from "akasha/pages/core/view/modules/gallery/gallery.module.code.ts"
-import { PageActionsMenu } from "akasha/pages/ui/components/modules/page-actions-menu/page-actions-menu.module.code.tsx"
-import { PageCardCover } from "akasha/pages/ui/components/modules/page-card-cover/page-card-cover.module.code.tsx"
-import { PageCardProperties } from "akasha/pages/ui/components/modules/page-card-properties/page-card-properties.module.code.tsx"
-import { useOverflowFade } from "akasha/pages/ui/components/modules/use-overflow-fade/use-overflow-fade.module.code.ts"
-import { PagesUILink } from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
-import { CheckCircle2, Circle } from "lucide-react"
+import {
+  drawingAlong,
+  PAGE_CARD_DRAWINGS,
+} from "akasha/pages/ui/components/modules/page-card-drawings/page-card-drawings.module.code.ts"
+import { PAGE_TYPE_SLUG } from "akasha/pages/ui/components/modules/page-detail-content-helpers/page-detail-content-helpers.module.code.ts"
+import { useAllPages } from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
 import type * as React from "react"
-import { type ReactNode, useMemo } from "react"
+import type { ComponentType, ReactNode } from "react"
 
-interface PageCardProps extends Omit<React.ComponentProps<"div">, "title" | "id"> {
+const FALLS_BACK_TO = "page"
+
+export interface PageCardProps extends Omit<React.ComponentProps<"div">, "title" | "id"> {
   id: string
   definitions?: readonly PropertyDefinition[]
   data?: PageDataJSON
@@ -58,158 +50,14 @@ interface PageCardProps extends Omit<React.ComponentProps<"div">, "title" | "id"
   notesSlot?: ReactNode
 }
 
-export function PageCard({
-  id,
-  definitions,
-  data,
-  pageTypeSlug,
-  visiblePropertyIds,
-  alwaysShowPropertyIds,
-  onIconChange,
-  defaultIconName,
-  onPropertyChange,
-  onCreateOption,
-  onPageNavigate,
-  onRelationNavigate,
-  pageHref,
-  relationHref,
-  onCardNavigate,
-  completion,
-  onComplete,
-  href,
-  onDelete,
-  onToggleFavorite,
-  coverSize,
-  coverUrl,
-  coverMaskGlyph,
-  onCoverClick,
-  notesSlot,
-  className,
-  ...props
-}: PageCardProps) {
-  const surface = useSurface()
-  const isWide = coverSize != null || notesSlot != null
-  const resolvedTitle = data?.title != null ? String(data.title) : "Untitled"
-  const displayTitle = expandDateMentions(resolvedTitle)
-  const ownIconName = data?.icon != null ? String(data.icon) : null
-  const displayIconName = ownIconName ?? defaultIconName ?? null
-
-  const isCompleted = useMemo(
-    () => (completion == null || data == null ? false : readsAsDone(completion, data)),
-    [completion, data]
-  )
-  const showCompletionToggle = Boolean(onComplete) && completion != null
-  const isFavorite = data?.favoritedAt != null
-
-  const titleLinkFade = useOverflowFade<HTMLSpanElement>(displayTitle)
-  const staticTitleFade = useOverflowFade<HTMLSpanElement>(displayTitle)
-
-  return (
-    <Card
-      id={id}
-      data-page-id={id}
-      className={cn(isWide ? "w-full gap-3" : PANEL_CARD_WIDTH_CLASSES, className)}
-      {...props}
-    >
-      {}
-      <CardHeader className={cn("items-start", isWide && "-mx-3 -mt-3")}>
-        <div className="flex min-w-0 flex-1 flex-col gap-2">
-          <div className="flex items-center gap-3">
-            {showCompletionToggle && (
-              <button
-                type="button"
-                aria-label={isCompleted ? "Uncomplete" : "Complete"}
-                className="shrink-0 cursor-pointer text-tertiary transition-colors hover:text-primary"
-                onClick={(e) => {
-                  e.stopPropagation()
-                  e.preventDefault()
-                  e.nativeEvent.stopImmediatePropagation()
-                  onComplete?.(isCompleted ? null : Date.now())
-                }}
-              >
-                {isCompleted ? (
-                  <CheckCircle2 className="size-4.5 text-success" />
-                ) : (
-                  <Circle className="size-4.5" />
-                )}
-              </button>
-            )}
-            <CardTitle
-              className={cn(
-                "min-w-0 flex-1 flex-nowrap overflow-hidden font-medium text-md",
-                isCompleted && showCompletionToggle && "line-through opacity-60"
-              )}
-            >
-              {!showCompletionToggle &&
-                (onIconChange ? (
-                  <IconPicker value={displayIconName} onChange={onIconChange} />
-                ) : (
-                  displayIconName != null && (
-                    <Icon name={displayIconName} className="size-5 shrink-0" />
-                  )
-                ))}
-              {href != null ? (
-                <span
-                  ref={titleLinkFade.ref}
-                  className="min-w-0 flex-1 overflow-hidden whitespace-nowrap"
-                  style={titleLinkFade.style}
-                >
-                  <PagesUILink href={href} onClick={(e) => e.stopPropagation()}>
-                    {displayTitle}
-                  </PagesUILink>
-                </span>
-              ) : (
-                <span
-                  ref={staticTitleFade.ref}
-                  className="min-w-0 flex-1 overflow-hidden whitespace-nowrap"
-                  style={staticTitleFade.style}
-                >
-                  {displayTitle}
-                </span>
-              )}
-            </CardTitle>
-            <PageActionsMenu
-              href={href}
-              isFavorite={isFavorite}
-              onToggleFavorite={
-                onToggleFavorite != null
-                  ? () => onToggleFavorite(isFavorite ? null : Date.now())
-                  : undefined
-              }
-              onDelete={onDelete}
-            />
-          </div>
-        </div>
-      </CardHeader>
-      {}
-      {coverSize != null && (
-        <PageCardCover
-          coverUrl={coverUrl}
-          maskGlyph={coverMaskGlyph}
-          iconName={displayIconName}
-          placeholderSurfaceClass={surfaceClass(surface + 1)}
-          onCoverClick={onCoverClick}
-        />
-      )}
-      {}
-      {notesSlot != null && notesSlot}
-      {}
-      <CardContent className={cn("flex flex-1 flex-col space-y-4", isWide && "-mx-3 -mb-3")}>
-        <PageCardProperties
-          definitions={definitions}
-          data={data}
-          pageId={id}
-          pageTypeSlug={pageTypeSlug}
-          visiblePropertyIds={visiblePropertyIds}
-          alwaysShowPropertyIds={alwaysShowPropertyIds}
-          onPropertyChange={onPropertyChange}
-          onPageNavigate={onPageNavigate}
-          onRelationNavigate={onRelationNavigate}
-          pageHref={pageHref}
-          relationHref={relationHref}
-          onCardNavigate={onCardNavigate ? () => onCardNavigate(id) : undefined}
-        />
-      </CardContent>
-    </Card>
-  )
+export function PageCard(props: PageCardProps) {
+  const { pages: pageTypes } = useAllPages({ pageTypeSlug: PAGE_TYPE_SLUG })
+  const known: ReadonlyArray<PageTypeForInheritance> = pageTypes
+  const slug = props.pageTypeSlug
+  const drawn =
+    slug === undefined || slug === "" ? undefined : drawingAlong(pageTypeChain(known, slug))
+  const Component: ComponentType<PageCardProps> | undefined =
+    drawn ?? PAGE_CARD_DRAWINGS.get(FALLS_BACK_TO)
+  if (Component === undefined) return null
+  return <Component {...props} />
 }
