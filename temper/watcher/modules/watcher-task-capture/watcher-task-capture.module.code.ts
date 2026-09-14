@@ -65,7 +65,3 @@ export function readTaskCompletions(content: string): TaskCompletionsRead {
 
   return { entries, heldBack, completed, progressed }
 }
-
-export function parseTaskCompletions(content: string): readonly ParsedTaskCompletion[] {
-  return readTaskCompletions(content).entries
-}

@@ -36,10 +36,8 @@ import {
   taskOf,
   UNKNOWN_ID,
 } from "akasha/temper/watcher/modules/watcher-import-tasks/watcher-import-tasks.module.test-fixtures.ts"
-import {
-  namesWholeTask,
-  parseTaskCompletions,
-} from "akasha/temper/watcher/modules/watcher-task-capture/watcher-task-capture.module.code.ts"
+import { namesWholeTask } from "akasha/temper/watcher/modules/watcher-task-capture/watcher-task-capture.module.code.ts"
+import { parseTaskCompletions } from "akasha/temper/watcher/modules/watcher-task-capture/watcher-task-capture.module.test-fixtures.ts"
 
 test("a saved-variables file reads back one entry for each numeric completion", () => {
   expect(

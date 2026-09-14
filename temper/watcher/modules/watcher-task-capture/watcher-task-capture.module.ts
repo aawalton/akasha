@@ -6,6 +6,7 @@ export const watcherTaskCapture = {
   slug: "watcher-task-capture",
   definition: "the task capture read into whole-task completions and per-character marks",
   code: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
