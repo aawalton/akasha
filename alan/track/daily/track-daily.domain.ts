@@ -21,7 +21,6 @@ export const trackDaily = {
     "module/day-stretches",
     "module/nutrition-grams",
     "module/nutrition-points",
-    "module/task-completions",
     "module/topic-words",
     "module/track-pages",
     "module/track-resolve",
