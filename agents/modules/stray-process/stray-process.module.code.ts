@@ -11,7 +11,7 @@ import {
   type Liveness,
   type Read,
   readFor,
-} from "akasha/agents/subagents/modules/liveness/subagent-liveness.module.code.ts"
+} from "akasha/agents/subagent/modules/liveness/subagent-liveness.module.code.ts"
 
 export type Stray = {
   readonly pid: number

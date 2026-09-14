@@ -9,8 +9,8 @@ import {
   LEFT_BY,
   seatEditsAt,
   seatRefusalsAt,
-} from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
-import { subagentStopped } from "akasha/agents/subagents/properties/subagent-stopped.boolean-property.ts"
+} from "akasha/agents/subagent/modules/recovering/subagent-recovering.module.code.ts"
+import { subagentStopped } from "akasha/agents/subagent/properties/subagent-stopped.boolean-property.ts"
 import {
   EXIT,
   OperationalError,

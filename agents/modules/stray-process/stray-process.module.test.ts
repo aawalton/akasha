@@ -9,7 +9,7 @@ import {
   type SeatPaging,
   strayAmong,
 } from "akasha/agents/modules/stray-process/stray-process.module.code.ts"
-import type { Liveness } from "akasha/agents/subagents/modules/liveness/subagent-liveness.module.code.ts"
+import type { Liveness } from "akasha/agents/subagent/modules/liveness/subagent-liveness.module.code.ts"
 
 const SEAT = "01a09581-cb35-7000-b00f-7156d6b3ce13"
 

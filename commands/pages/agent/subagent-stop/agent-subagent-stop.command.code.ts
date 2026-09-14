@@ -8,13 +8,13 @@ import {
   pagesIn,
   STALE,
   seenIn,
-} from "akasha/agents/subagents/modules/census/subagent-census.module.code.ts"
-import { pathIn } from "akasha/agents/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
+} from "akasha/agents/subagent/modules/census/subagent-census.module.code.ts"
+import { pathIn } from "akasha/agents/subagent/modules/page-naming/subagent-page-naming.module.code.ts"
 import {
   stoppedBeside,
   took,
-} from "akasha/agents/subagents/modules/presence/subagent-presence.module.code.ts"
-import { subagentStopped } from "akasha/agents/subagents/properties/subagent-stopped.boolean-property.ts"
+} from "akasha/agents/subagent/modules/presence/subagent-presence.module.code.ts"
+import { subagentStopped } from "akasha/agents/subagent/properties/subagent-stopped.boolean-property.ts"
 import {
   type Landing,
   runMechanicalChange,

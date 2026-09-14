@@ -7,7 +7,7 @@ import {
   supervisorEntryArgv,
   underScope,
 } from "akasha/agents/seats/launching/seat-launching.module.code.ts"
-import { removeSubagentPagesOf } from "akasha/agents/subagents/modules/page/subagent-page.module.code.ts"
+import { removeSubagentPagesOf } from "akasha/agents/subagent/modules/page/subagent-page.module.code.ts"
 import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 
 const TMUX_CALL_CEILING_MS = 10_000

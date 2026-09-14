@@ -10,7 +10,7 @@ import {
   movedOnto,
   namedAt,
   saidOf,
-} from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
+} from "akasha/agents/subagent/modules/recovering/subagent-recovering.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   landedMechanically,

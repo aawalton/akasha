@@ -4,7 +4,7 @@ import {
   CARRIED_AT,
   LEFT_BY,
   seatEditsAt,
-} from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
+} from "akasha/agents/subagent/modules/recovering/subagent-recovering.module.code.ts"
 import { type BodyOf, expanded } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { FileChange, Held } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {

@@ -8,7 +8,7 @@ import {
   puttingUp,
   seatNamedIn,
   takingDown,
-} from "akasha/agents/subagents/modules/presence/subagent-presence.module.code.ts"
+} from "akasha/agents/subagent/modules/presence/subagent-presence.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 
 const HOOK = "state-subagent"

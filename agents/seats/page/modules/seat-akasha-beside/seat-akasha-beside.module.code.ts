@@ -1,7 +1,7 @@
 import { statSync } from "node:fs"
 import { basename, join } from "node:path"
 import { parseSeatProcKey } from "akasha/agents/seats/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
-import { seatAbove } from "akasha/agents/subagents/modules/naming/subagent-naming.module.code.ts"
+import { seatAbove } from "akasha/agents/subagent/modules/naming/subagent-naming.module.code.ts"
 import {
   everyOfType,
   listedAt,

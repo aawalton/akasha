@@ -4,11 +4,11 @@ import { seatRecord } from "akasha/agents/seats/fleet/modules/seat-facts/seat-fa
 import { killSeatSession } from "akasha/agents/seats/launching/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts"
 import { removeSeatPage } from "akasha/agents/seats/page/modules/writing/seat-page-writing.module.code.ts"
 import { decideKillTarget } from "akasha/agents/seats/stopping/modules/kill-target-plan/kill-target-plan.module.code.ts"
-import { decideSubagentGuard } from "akasha/agents/subagents/modules/guard/subagent-guard.module.code.ts"
+import { decideSubagentGuard } from "akasha/agents/subagent/modules/guard/subagent-guard.module.code.ts"
 import {
   removeSubagentPagesOf,
   standingSubagentsOf,
-} from "akasha/agents/subagents/modules/page/subagent-page.module.code.ts"
+} from "akasha/agents/subagent/modules/page/subagent-page.module.code.ts"
 import { inputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import { ending } from "akasha/utils/process/modules/process-ending/process-ending.module.code.ts"

@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { seatEditsAt } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
+import { seatEditsAt } from "akasha/agents/subagent/modules/recovering/subagent-recovering.module.code.ts"
 import { OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { baseOf as headOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { piping } from "akasha/commands/modules/piping/piping.module.test-fixtures.ts"

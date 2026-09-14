@@ -10,7 +10,7 @@ import {
   SUBAGENT_MARK,
   sameBody,
 } from "akasha/agents/modules/read-record/read-record.module.code.ts"
-import { slugOf } from "akasha/agents/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
+import { slugOf } from "akasha/agents/subagent/modules/page-naming/subagent-page-naming.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   againOf,

@@ -15,26 +15,26 @@ import {
   type SubagentPage,
   seenIn,
   staleAmong,
-} from "akasha/agents/subagents/modules/census/subagent-census.module.code.ts"
+} from "akasha/agents/subagent/modules/census/subagent-census.module.code.ts"
 import {
   clientStartedAt,
   outlivedAmong,
   subagentsDirOf,
-} from "akasha/agents/subagents/modules/outliving/subagent-outliving.module.code.ts"
+} from "akasha/agents/subagent/modules/outliving/subagent-outliving.module.code.ts"
 import {
   pagelessAmong,
   pagelessSaid,
-} from "akasha/agents/subagents/modules/pageless/subagent-pageless.module.code.ts"
+} from "akasha/agents/subagent/modules/pageless/subagent-pageless.module.code.ts"
 import {
   leftWhereItIs,
   seatPageIn,
   stoppedBeside,
-} from "akasha/agents/subagents/modules/presence/subagent-presence.module.code.ts"
+} from "akasha/agents/subagent/modules/presence/subagent-presence.module.code.ts"
 import {
   droppedFor,
   movedOnto,
   saidOf,
-} from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
+} from "akasha/agents/subagent/modules/recovering/subagent-recovering.module.code.ts"
 import type {
   Asking,
   Landing,

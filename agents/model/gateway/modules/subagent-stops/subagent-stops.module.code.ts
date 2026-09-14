@@ -4,8 +4,8 @@ import { SUBAGENT_MARK } from "akasha/agents/modules/read-record/read-record.mod
 import {
   seatNamedIn,
   takingDown,
-} from "akasha/agents/subagents/modules/presence/subagent-presence.module.code.ts"
-import { subagentStopped } from "akasha/agents/subagents/properties/subagent-stopped.boolean-property.ts"
+} from "akasha/agents/subagent/modules/presence/subagent-presence.module.code.ts"
+import { subagentStopped } from "akasha/agents/subagent/properties/subagent-stopped.boolean-property.ts"
 import {
   dirsOf,
   type Following,

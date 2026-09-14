@@ -19,7 +19,7 @@ import {
   CARRIED_AT,
   LEFT_BY,
   seatEditsAt,
-} from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
+} from "akasha/agents/subagent/modules/recovering/subagent-recovering.module.code.ts"
 import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {

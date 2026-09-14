@@ -1,7 +1,7 @@
 import {
   type Definition,
   everyKind,
-} from "akasha/agents/subagents/modules/compose-subagents/compose-subagents.module.code.ts"
+} from "akasha/agents/subagent/modules/compose-subagents/compose-subagents.module.code.ts"
 import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 const LOG = "[spawn-agents]"

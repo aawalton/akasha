@@ -4,7 +4,7 @@ import { dirname, join } from "node:path"
 import {
   movedOnto,
   seatEditsAt,
-} from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
+} from "akasha/agents/subagent/modules/recovering/subagent-recovering.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   appendEdits,

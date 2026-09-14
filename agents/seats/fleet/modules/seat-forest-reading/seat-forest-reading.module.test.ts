@@ -37,7 +37,7 @@ const BOREA: ForestRow = {
 const SUBAGENT: SubagentPage = {
   seat: "astra",
   own: "0123456789abcdef0",
-  at: "akasha/agents/subagents/pages/astra--0123456789abcdef0.subagent.ts",
+  at: "akasha/agents/subagent/pages/astra--0123456789abcdef0.subagent.ts",
   dispatchedAs: "general-purpose",
 }
 

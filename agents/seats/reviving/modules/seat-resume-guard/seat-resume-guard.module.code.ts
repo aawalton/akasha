@@ -1,6 +1,6 @@
 import { seatRecord } from "akasha/agents/seats/fleet/modules/seat-facts/seat-facts.module.code.ts"
-import { decideSubagentGuard } from "akasha/agents/subagents/modules/guard/subagent-guard.module.code.ts"
-import { standingSubagentsOf } from "akasha/agents/subagents/modules/page/subagent-page.module.code.ts"
+import { decideSubagentGuard } from "akasha/agents/subagent/modules/guard/subagent-guard.module.code.ts"
+import { standingSubagentsOf } from "akasha/agents/subagent/modules/page/subagent-page.module.code.ts"
 import { inputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 
 export function holdsLive(agentId: string): boolean {
