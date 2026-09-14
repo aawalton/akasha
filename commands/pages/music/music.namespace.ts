@@ -7,6 +7,7 @@ export const music = {
   definition: "the music playing now and what Alan says about it",
   parts: [
     "command/music-artist-list",
+    "command/music-back",
     "command/music-capture",
     "command/music-import-artist",
     "command/music-listening",
