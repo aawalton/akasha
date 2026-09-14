@@ -16,6 +16,8 @@ import {
   type TierColor,
   tierAt,
 } from "akasha/alan/harness/readouts/modules/tier/readout-tier.module.code.ts"
+import { namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
+import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { askingFor } from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
 
 const READOUT = "readout"
@@ -59,6 +61,11 @@ export function inPlaceOrder(rows: readonly Values[]): readonly Values[] {
   return [...rows].sort((one, two) => (statedAt(one.place) ?? 0) - (statedAt(two.place) ?? 0))
 }
 
+function scaleSlugIn(row: Values): string | undefined {
+  const held = stated(row.scale)
+  return held === undefined ? undefined : slugOf(held)
+}
+
 function wireKeyed(wireKeyName: string, wireKey: string): Pick<Stoplight, "habit"> {
   return { [wireKeyName]: wireKey }
 }
@@ -93,7 +100,7 @@ export function stoplightWith(
 ): Stoplight | null {
   const slug = stated(row.slug)
   const label = stated(row.label)
-  const scaleSlug = stated(row.scale)
+  const scaleSlug = scaleSlugIn(row)
   if (slug === undefined || label === undefined || scaleSlug === undefined) return null
 
   const wireKey = stated(row.wireKey)
@@ -129,7 +136,7 @@ export async function stoplightOf(
   wireKeyName: string = HABIT,
   readingHeld: ReadingHeld = relayedReading
 ): Promise<Stoplight | null> {
-  const scaleSlug = stated(row.scale)
+  const scaleSlug = scaleSlugIn(row)
   if (scaleSlug === undefined) return null
   const reading = readingHeld(row)
   const rungs = reading.held === "fresh" ? await rungsOf(scaleSlug) : []
@@ -157,7 +164,7 @@ export async function stoplightsInGroup(
 ): Promise<readonly Stoplight[]> {
   const asked = await askingFor({
     pageTypeSlug: READOUT,
-    where: { groups: { has: groupSlug } },
+    where: { groups: { has: namedAs(READOUT_GROUP, groupSlug, null) } },
   })
   if ("refused" in asked) return []
 

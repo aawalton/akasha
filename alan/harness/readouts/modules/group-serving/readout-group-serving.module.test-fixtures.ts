@@ -9,8 +9,8 @@ import { relayedFor } from "akasha/alan/harness/readouts/modules/relay/readout-r
 import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import {
+  slugsIn,
   textIn,
-  textsAt,
 } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 
@@ -22,23 +22,27 @@ export const OTHER = "another-readout-named-only-in-this-test"
 
 const SCALE = "a-scale-named-only-in-this-test"
 
+const SCALE_AT = `readout-scale/${SCALE}`
+
+const GROUP_AT = `readout-group/${GROUP}`
+
 export const READOUT_ROW = {
   slug: READOUT,
   label: "Safety",
   unit: "levels",
   place: 1,
-  scale: SCALE,
+  scale: SCALE_AT,
   wireKey: "safety",
-  groups: [GROUP],
+  groups: [GROUP_AT],
 }
 
 export const OTHER_ROW = {
   slug: OTHER,
   label: "Surplus",
   place: 2,
-  scale: SCALE,
+  scale: SCALE_AT,
   wireKey: "surplus",
-  groups: [GROUP],
+  groups: [GROUP_AT],
 }
 
 export const SCALE_ROW = { slug: SCALE, redAt: 1, yellowAt: 2, greenAt: 3, blueAt: 4 }
@@ -219,7 +223,7 @@ export function readoutsNaming(group: string): readonly string[] {
   for (const value of shadowAt(akashaRoot()).index.valuesByPath(READOUT_TYPE).values()) {
     const slug = textIn(value, SLUG)
     if (slug === null) continue
-    if (textsAt(value, GROUPS)?.includes(group) === true) named.push(slug)
+    if (slugsIn(value[GROUPS]).includes(group)) named.push(slug)
   }
   return named.sort()
 }
