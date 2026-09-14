@@ -16,7 +16,7 @@ export const astraIndexCleanup = {
     {
       statement: "Alan holds the listing index's structure correct.",
       workingMemory:
-        "Live readers of `everyPath` are the path-reaching check and its audit, `everyFileOf` for the manifest check, `import-repointing`, and `ruleShort`. `everyFileIn` is dead. The check conflates two populations: a vocabulary of real paths, which wants every file, and the page set, which the index answers from its own pages. The index goes last, once `claimingIn` and `pathsIn` move out of its code into `path-claiming`, where the question they answer belongs.\n",
+        "The only readers of `everyPath` left outside its own definition are the path-reaching check and that check's audit. `everyFileIn` and `everyFileOf` are deleted, `import-repointing` asks the world whether a path names something, and the manifest check lists a package's files through the overlay. That check conflates a vocabulary of real paths, which wants every file, with the page set, which the index answers from its own pages. `claimingIn` leaves the index's code last.\n",
     },
     {
       statement: "A file property declares one extension.",
