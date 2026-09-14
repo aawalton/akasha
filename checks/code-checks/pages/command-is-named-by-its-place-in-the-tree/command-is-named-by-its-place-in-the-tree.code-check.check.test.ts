@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { commandIsInTheRightFolder } from "akasha/checks/code-checks/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.code-check.check.code.ts"
+import { commandIsNamedByItsPlaceInTheTree } from "akasha/checks/code-checks/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.code-check.check.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import {
   claiming,
@@ -53,7 +53,7 @@ function namespaceBody(): Uint8Array {
 }
 
 function judged(change: Change): readonly Judged[] {
-  return commandIsInTheRightFolder(change, shadowed(change))
+  return commandIsNamedByItsPlaceInTheTree(change, shadowed(change))
 }
 
 test("a namespace naming a command leaves that command judged, though it did not change", () => {

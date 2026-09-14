@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { commandIsInTheRightFolder } from "akasha/checks/code-checks/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.code-check.audit.code.ts"
+import { commandIsNamedByItsPlaceInTheTree } from "akasha/checks/code-checks/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.code-check.audit.code.ts"
 import {
   claiming,
   declaring,
@@ -47,12 +47,12 @@ function rooted(at: string): string {
 }
 
 test("an audit refuses a command sitting beside the namespace naming it", () => {
-  const said = commandIsInTheRightFolder(rooted(BESIDE))
+  const said = commandIsNamedByItsPlaceInTheTree(rooted(BESIDE))
 
   expect(said.map((one) => one.path)).toEqual([BESIDE])
   expect(said[0]?.reason).toContain("commands/pages/warbling/humming")
 })
 
 test("an audit lets a command in a folder directly inside its namespace through", () => {
-  expect(commandIsInTheRightFolder(rooted(UNDER))).toEqual([])
+  expect(commandIsNamedByItsPlaceInTheTree(rooted(UNDER))).toEqual([])
 })

@@ -18,7 +18,7 @@ function pagesOfKinds(shadow: Shadow, kinds: Kinds): readonly string[] {
   return [...found].sort()
 }
 
-export function commandIsInTheRightFolder(root: string): readonly Judged[] {
+export function commandIsNamedByItsPlaceInTheTree(root: string): readonly Judged[] {
   const shadow = shadowAt(root)
   const kinds = kindsFor(shadow)
   const judging = judgingBy(shadow, kinds)

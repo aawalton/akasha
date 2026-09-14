@@ -96,4 +96,4 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   return said
 }
 
-export const commandIsInTheRightFolder = input(OURS, refusalsIn)
+export const commandIsNamedByItsPlaceInTheTree = input(OURS, refusalsIn)
