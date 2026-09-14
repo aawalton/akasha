@@ -46,5 +46,14 @@ export const deployCommitRecording = {
       statement:
         "A deploy that refused keeps that one moment under both the ending's key and the refusal's.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The commit is kept by a write handed to the pages rather than by writing the tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write the pages refuse is what went wrong.",
+    },
   ],
 } as const satisfies Module

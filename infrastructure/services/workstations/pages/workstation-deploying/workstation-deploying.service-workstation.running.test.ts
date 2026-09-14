@@ -35,15 +35,15 @@ test("the run is the only way into this file, so the service has one entry", () 
   expect(Object.keys(running)).toEqual(["runService"])
 })
 
-test("a run turns one tick over the workstation kind rather than any other", () => {
+test("a run turns one tick over the workstation kind rather than any other", async () => {
   TICKED.length = 0
   answer = { said: ["put `service-workstation` up"], wrong: [] }
-  running.runService()
+  await running.runService()
   expect(TICKED).toEqual(["service-workstation"])
 })
 
-test("a tick that went wrong is thrown, so a failed run is a failed unit", () => {
+test("a tick that went wrong is thrown, so a failed run is a failed unit", async () => {
   TICKED.length = 0
   answer = { said: [], wrong: ["which deploys are running was not answered"] }
-  expect(() => running.runService()).toThrow("was not answered")
+  await expect(running.runService()).rejects.toThrow("was not answered")
 })

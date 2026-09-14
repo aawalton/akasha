@@ -71,6 +71,7 @@ import {
 } from "akasha/infrastructure/services/clusters/modules/workload-applying/workload-applying.module.code.ts"
 import { putUpEvery } from "akasha/infrastructure/services/workstations/modules/service-putting-up/service-putting-up.module.code.ts"
 import { provingFor } from "akasha/infrastructure/services/workstations/modules/service-running/service-running.module.code.ts"
+import type { Fetcher } from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
 import { waitedForRoom } from "akasha/utils/system/modules/landing-admission/landing-admission.module.code.ts"
 
 const PUT_UP = "deploy"
@@ -193,7 +194,8 @@ export async function deploy(
   argv: readonly string[],
   given: Given,
   putting: PuttingUp = putUp,
-  waiting: Waiting = waitedForRoom
+  waiting: Waiting = waitedForRoom,
+  recording?: Fetcher
 ): Promise<Answer> {
   const taken = takenFor(argv, given.calledAs, page, TAKES)
   if ("refused" in taken) return refusedBy(taken.refused, INPUT)
@@ -217,7 +219,7 @@ export async function deploy(
   if (read.kind === IOS_APP && wanted.simulator) return await installedOnSimulator(slug, given)
   await waiting(PUT_UP)
   const alone = await heldWhile(given.root, slug, () =>
-    deployHeld(read, slug, wanted, given, putting)
+    deployHeld(read, slug, wanted, given, putting, recording)
   )
   return "refused" in alone ? refused(alone.refused, OPERATIONAL) : alone.value
 }
@@ -227,7 +229,8 @@ async function deployHeld(
   slug: string,
   wanted: Wanted,
   given: Given,
-  putting: PuttingUp
+  putting: PuttingUp,
+  recording?: Fetcher
 ): Promise<Answer> {
   const commit = commitAt(given.root, wanted.ref)
   if (commit === null) return refused(saidOfNoCommit(wanted.ref ?? AT_HEAD), INPUT)
@@ -246,15 +249,15 @@ async function deployHeld(
       ? [saidOfUnproven(unproven)]
       : await judgedOnDeploy(given.root, slug, was, commit, built, proving)
   const dry = wanted.dryRun
-  const noting = () =>
+  const noting = async (): Promise<readonly string[]> =>
     dry
       ? []
       : [
-          ...recordedRefusal(given.root, slug, read.pagePath, commit),
-          ...recordedEnding(given.root, slug, read.pagePath, true),
+          ...(await recordedRefusal(given.root, slug, read.pagePath, commit, recording)),
+          ...(await recordedEnding(given.root, slug, read.pagePath, true, new Date(), recording)),
         ]
   if (unjudged.length > 0) {
-    return answeredWith([`commit\t${commit}`], [...unjudged, ...noting()], DATA)
+    return answeredWith([`commit\t${commit}`], [...unjudged, ...(await noting())], DATA)
   }
   const before = opening()
   const up: string[] = []
@@ -265,19 +268,23 @@ async function deployHeld(
     if (!dry) costRecorded(given.root, read.pagePath, before, PUT_UP, slug, 0, 1)
     const why = [whyOf(thrown), stoppedPartWay(up)]
     const said = [`commit\t${commit}`, ...up.map((one) => `up\t${one}`)]
-    return answeredWith(said, [...why, ...noting()], OPERATIONAL)
+    return answeredWith(said, [...why, ...(await noting())], OPERATIONAL)
   }
   if (!dry) {
     costRecorded(given.root, read.pagePath, before, PUT_UP, slug, 0, answer.refusals.length)
   }
   const lines = [`commit\t${commit}`, ...answer.report]
   if (answer.code !== OK || answer.refusals.length > 0) {
-    return answeredWith(lines, [...answer.refusals, ...partWay(up), ...noting()], answer.code)
+    return answeredWith(
+      lines,
+      [...answer.refusals, ...partWay(up), ...(await noting())],
+      answer.code
+    )
   }
   if (dry) return answeredWith(lines, answer.refusals, answer.code)
   const wrong = [
-    ...recordedCommit(given.root, slug, read.pagePath, commit),
-    ...recordedEnding(given.root, slug, read.pagePath),
+    ...(await recordedCommit(given.root, slug, read.pagePath, commit, recording)),
+    ...(await recordedEnding(given.root, slug, read.pagePath, false, new Date(), recording)),
   ]
   if (wrong.length > 0) return answeredWith(lines, wrong, OPERATIONAL)
   return told([...lines, `recorded\t${slug}\t${commit}`])

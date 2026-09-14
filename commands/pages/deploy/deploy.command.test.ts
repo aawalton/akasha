@@ -17,11 +17,13 @@ import {
 } from "akasha/commands/pages/deploy/deploy.command.code.ts"
 import { committed, given } from "akasha/commands/pages/deploy/deploy.command.test-fixtures.ts"
 import { commitAt } from "akasha/commands/pages/deploy/modules/commit-naming/deploy-commit-naming.module.code.ts"
-import { recordedCommit } from "akasha/commands/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
+import { DEPLOYED_COMMIT } from "akasha/commands/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
 import {
   seededWorld,
   WEB_APPS_AT,
 } from "akasha/infrastructure/services/clusters/modules/web-app-reading/web-app-reading.module.test-fixtures.ts"
+import { mergeUncommitted } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
+import type { Fetcher } from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
 
 const WORLD = seededWorld()
 
@@ -33,14 +35,18 @@ const HERE = given(committed(WORLD.root))
 
 const NO_WAIT: Waiting = async () => await Promise.resolve(undefined)
 
+const KEPT: Fetcher = () =>
+  Promise.resolve(new Response(JSON.stringify({ commit: null, wrote: [], took: [] })))
+
 const deploy = async (...said: Parameters<typeof deploying>) =>
-  await deploying(said[0], said[1], said[2], NO_WAIT)
+  await deploying(said[0], said[1], said[2], NO_WAIT, KEPT)
 
 function pastTheChecks(): { readonly root: string; readonly commit: string } {
   const world = seededWorld()
   const root = committed(world.root)
   const commit = commitAt(root, null) as string
-  recordedCommit(root, "one-web", `${WEB_APPS_AT}/one-web.web-app.ts`, commit)
+  const at = `${WEB_APPS_AT}/one-web.web-app.ts`
+  mergeUncommitted(root, at, { [DEPLOYED_COMMIT]: commit })
   return { root, commit }
 }
 

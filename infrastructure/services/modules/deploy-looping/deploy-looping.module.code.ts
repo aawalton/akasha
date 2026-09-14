@@ -112,17 +112,17 @@ export function scopeLoaded(probe: Running, slug: string): boolean {
   return done.out.split("\n").some((one) => one.trim() === LOADED)
 }
 
-export function endingKept(
+export async function endingKept(
   root: string,
   kind: Kind,
   slug: string,
   commit: string
-): readonly string[] {
+): Promise<readonly string[]> {
   const subject = subjectsOf(root, kind).find((one) => one.slug === slug)
   if (subject === undefined) return []
   return [
-    ...recordedRefusal(root, slug, subject.pagePath, commit),
-    ...recordedEnding(root, slug, subject.pagePath, true),
+    ...(await recordedRefusal(root, slug, subject.pagePath, commit)),
+    ...(await recordedEnding(root, slug, subject.pagePath, true)),
   ]
 }
 
@@ -157,13 +157,13 @@ export function chosenPastLoaded(
   return { chosen: null, said }
 }
 
-export function ticked(
+export async function ticked(
   root: string,
   kind: Kind,
   now: number = Date.now(),
   run: Running = systemdRun,
   probe: Running = systemctl
-): Ticked {
+): Promise<Ticked> {
   const tree = treeIn(root, WORKSTATION_SERVICE)
   if (tree === null) {
     return {
@@ -185,7 +185,7 @@ export function ticked(
     return { said: [...past.said, saidOfRefusedTree(past.chosen.slug, started.out)], wrong: [] }
   }
   if (started.code !== 0) {
-    const kept = endingKept(root, kind, past.chosen.slug, commit)
+    const kept = await endingKept(root, kind, past.chosen.slug, commit)
     return {
       said: past.said,
       wrong: [`\`${past.chosen.slug}\` was not put up — ${started.out}`, ...kept],
@@ -212,18 +212,18 @@ export function saidOfNoKind(word: string | undefined): string {
   return `a loop is run for one kind, and \`${word ?? ""}\` is no kind a deploy puts up — the kinds are ${EVERY_KIND.join(", ")}`
 }
 
-export function runDeployLooping(word: string | undefined): number {
+export async function runDeployLooping(word: string | undefined): Promise<number> {
   const kind = kindIn(word)
   if (kind === null) {
     process.stderr.write(`${saidOfNoKind(word)}\n`)
     return 1
   }
-  const done = ticked(checkoutAt(), kind)
+  const done = await ticked(checkoutAt(), kind)
   for (const one of done.said) process.stdout.write(`${one}\n`)
   for (const one of done.wrong) process.stderr.write(`${one}\n`)
   return done.wrong.length === 0 ? 0 : 1
 }
 
 if (import.meta.main) {
-  process.exit(runDeployLooping(process.argv[2]))
+  process.exit(await runDeployLooping(process.argv[2]))
 }

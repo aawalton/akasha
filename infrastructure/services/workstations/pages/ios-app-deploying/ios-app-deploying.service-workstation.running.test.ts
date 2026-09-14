@@ -35,15 +35,15 @@ test("the run is the only way into this file, so the service has one entry", () 
   expect(Object.keys(running)).toEqual(["runService"])
 })
 
-test("a run turns one tick over the ios app kind rather than any other", () => {
+test("a run turns one tick over the ios app kind rather than any other", async () => {
   TICKED.length = 0
   answer = { said: ["put `atlas` up"], wrong: [] }
-  running.runService()
+  await running.runService()
   expect(TICKED).toEqual(["ios-app"])
 })
 
-test("a tick that went wrong is thrown, so a failed run is a failed unit", () => {
+test("a tick that went wrong is thrown, so a failed run is a failed unit", async () => {
   TICKED.length = 0
   answer = { said: [], wrong: ["the tree would not move"] }
-  expect(() => running.runService()).toThrow("would not move")
+  await expect(running.runService()).rejects.toThrow("would not move")
 })
