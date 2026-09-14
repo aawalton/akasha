@@ -128,11 +128,3 @@ export const RulebookSchema = z
     progression: ProgressionSchema.optional(),
   })
   .strict()
-export type Rulebook = z.infer<typeof RulebookSchema>
-
-export function parseRulebookMechanics(gameRulebook: unknown): Rulebook | null {
-  if (typeof gameRulebook !== "object" || gameRulebook === null) return null
-  const mechanics = Reflect.get(gameRulebook, "mechanics")
-  if (mechanics === undefined) return null
-  return RulebookSchema.parse(mechanics)
-}

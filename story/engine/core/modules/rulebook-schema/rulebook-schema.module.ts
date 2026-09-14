@@ -6,10 +6,4 @@ export const rulebookSchema = {
   slug: "rulebook-schema",
   definition: "a game's mechanics, from its attributes through its dice to how a strike resolves",
   code: "ts",
-  invariants: [
-    {
-      invariantKind: "departure",
-      statement: "A rulebook is read out of the mechanics key of a game's declaration.",
-    },
-  ],
 } as const satisfies Module
