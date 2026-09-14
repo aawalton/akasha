@@ -17,7 +17,7 @@ export const useAppNavItems = {
     },
     {
       invariantKind: "departure",
-      statement: "A nav item names its parent by slug.",
+      statement: "A nav item names its parent by page address.",
     },
     {
       invariantKind: "departure",

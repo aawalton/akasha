@@ -72,7 +72,8 @@ export function useNavMutations(appSlug: string) {
 
   const setNavParent = useCallback(
     async (pageId: string, parentId: string | null): Promise<void> => {
-      const navParent = await navSlugOfId(parentId)
+      const parentSlug = await navSlugOfId(parentId)
+      const navParent = parentSlug === null ? null : namedAs(NAV_SLUG, parentSlug, null)
       await runPatch({
         pageTypeSlug: NAV_SLUG,
         where: [{ key: "id", eq: pageId }],

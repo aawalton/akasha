@@ -6,6 +6,7 @@ import { Icon } from "akasha/design/interfaces/patterns/modules/lucide-icon/luci
 import { triggerSafeNode } from "akasha/design/interfaces/primitives/modules/trigger-safe-node/trigger-safe-node.module.code.ts"
 import type { PageWhere } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 import { expandDateMentions } from "akasha/pages/core/view/modules/expand-date-mentions/expand-date-mentions.module.code.ts"
+import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { NavCountBadge } from "akasha/pages/ui/components/modules/nav-count-badge/nav-count-badge.module.code.tsx"
 import { parseShowCountBadge } from "akasha/pages/ui/components/modules/nav-count-badge-decider/nav-count-badge-decider.module.code.ts"
 import { NavItemActions } from "akasha/pages/ui/components/modules/nav-item-actions/nav-item-actions.module.code.tsx"
@@ -166,7 +167,7 @@ export function useAppNavItems({
         return optimisticParents.get(page.id) ?? null
       }
       const raw = page.navParent
-      return typeof raw === "string" ? (idBySlug.get(raw) ?? null) : null
+      return typeof raw === "string" ? (idBySlug.get(slugOf(raw)) ?? null) : null
     }
 
     const pageIdSet = new Set(sorted.map((p) => p.id))
