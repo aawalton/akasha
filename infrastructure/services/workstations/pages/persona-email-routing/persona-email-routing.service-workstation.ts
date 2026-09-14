@@ -1,0 +1,43 @@
+import type { ServiceWorkstation } from "akasha/infrastructure/services/workstations/service-workstation.page-type.types.ts"
+
+export const personaEmailRouting = {
+  id: "01a0a147-4f53-7e7e-8fb1-00a3014534b0",
+  type: "service-workstation",
+  slug: "persona-email-routing",
+  definition: "the service routing a persona's address once her page declares one",
+  enabled: false,
+  needsSecrets: true,
+  systemd: {
+    schedule: "*-*-* 05:20:00",
+    jitterSeconds: 600,
+    catchUp: true,
+    startTimeoutSeconds: 600,
+  },
+  invariants: [
+    {
+      invariantKind: "gap",
+      statement: "Declaring an address on a persona page is all anyone does to route it.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No rule is taken away or turned off by this service.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run here writes, because a dry run nobody reads routes nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run whose token is refused fails the unit rather than passing quietly.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run over a zone already in step writes nothing, so a daily run costs one read.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement:
+        "The service is not enabled until a run by hand has shown the token may write rules.",
+    },
+  ],
+} as const satisfies ServiceWorkstation

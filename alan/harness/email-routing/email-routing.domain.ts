@@ -5,7 +5,12 @@ export const emailRouting = {
   type: "domain",
   slug: "email-routing",
   definition: "the rules a mail provider carries for the addresses personas are written to",
-  parts: ["module/email-rule-planning", "module/email-zone-reaching", "module/persona-routing-run"],
+  parts: [
+    "module/email-rule-planning",
+    "module/email-zone-reaching",
+    "module/persona-routing-run",
+    "service-workstation/persona-email-routing",
+  ],
   invariants: [
     {
       invariantKind: "absence",
