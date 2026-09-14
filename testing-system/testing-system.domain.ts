@@ -16,7 +16,6 @@ export const testingSystem = {
     "module/putting",
 
     "module/waiting",
-    "module/walking",
     "page-type/test-fixture",
   ],
   invariants: [

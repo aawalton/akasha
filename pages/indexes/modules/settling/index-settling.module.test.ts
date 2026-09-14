@@ -30,7 +30,7 @@ import {
   textIn,
 } from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import { valueIn } from "akasha/pages/modules/value/page-value.module.code.ts"
-import { everyFileUnder } from "akasha/testing-system/modules/walking/walking.module.code.ts"
+import { everyFileUnder } from "akasha/testing-system/test-fixtures/walking/walking.test-fixture.code.ts"
 
 afterAll(scratch.sweep, 5000)
 

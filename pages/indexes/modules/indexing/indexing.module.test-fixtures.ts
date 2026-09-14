@@ -33,7 +33,7 @@ import {
 } from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import { id as idPage } from "akasha/pages/properties/id.text-property.ts"
-import { everyFileUnder } from "akasha/testing-system/modules/walking/walking.module.code.ts"
+import { everyFileUnder } from "akasha/testing-system/test-fixtures/walking/walking.test-fixture.code.ts"
 
 export const A = idOf("a")
 export const B = idOf("b")

@@ -23,9 +23,9 @@ import {
 import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
 import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
-import { everyFileUnder } from "akasha/testing-system/modules/walking/walking.module.code.ts"
 import { declaringUnder } from "akasha/testing-system/test-fixtures/declaring/declaring.test-fixture.code.ts"
 import { admitting } from "akasha/testing-system/test-fixtures/minting/minting.test-fixture.code.ts"
+import { everyFileUnder } from "akasha/testing-system/test-fixtures/walking/walking.test-fixture.code.ts"
 
 const ENDING = ".jsonl"
 
