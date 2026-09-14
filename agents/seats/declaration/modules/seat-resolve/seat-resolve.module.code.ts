@@ -61,7 +61,7 @@ export function personaIsDefault(root: string, persona: string): boolean {
   return defaultFor("persona", root) === persona
 }
 
-export function resolveSlot(
+function resolveSlot(
   slot: Exclude<Declaration, "role">,
   slug: string,
   root: string,

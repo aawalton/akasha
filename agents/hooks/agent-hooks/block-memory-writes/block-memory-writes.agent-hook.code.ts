@@ -23,7 +23,7 @@ const ON_DISK = "/var/tmp"
 
 const REDIRECTED = "a redirect"
 
-export function memoryHeldIn(mounts: string): readonly string[] {
+function memoryHeldIn(mounts: string): readonly string[] {
   const found: string[] = []
   for (const line of mounts.split("\n")) {
     const said = line.split(" ")
@@ -43,7 +43,7 @@ function mountsNow(): readonly string[] {
   }
 }
 
-export function refusing(how: string, shown: string, mount: string): string {
+function refusing(how: string, shown: string, mount: string): string {
   const said =
     how === REDIRECTED
       ? `${HOOK_NAME}: a redirect lands on \`${shown}\``
@@ -64,7 +64,7 @@ function givesBack(landing: Landing): boolean {
   return GIVES_BACK.has(landing.how)
 }
 
-export function refusalFor(command: string, from: string, held: readonly string[]): string | null {
+function refusalFor(command: string, from: string, held: readonly string[]): string | null {
   for (const landing of landingsIn(command)) {
     if (givesBack(landing)) continue
     const at = settled(resolve(from, landing.at))
@@ -97,7 +97,7 @@ async function main(): Promise<number> {
   return REFUSED
 }
 
-export async function ran(): Promise<number> {
+async function ran(): Promise<number> {
   return await main()
 }
 
