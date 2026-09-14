@@ -39,6 +39,10 @@ test("an import type names a module by the literal in its type argument", () => 
   expect(named(`type A = import("${SPEC}").A\n`)).toEqual([SPEC])
 })
 
+test("a name handed to `import()` carries a specifier", () => {
+  expect(named(`const AT = "${SPEC}"\nconst a = await import(AT)\n`)).toEqual([SPEC])
+})
+
 test("a literal handed to `require.resolve` names a module", () => {
   expect(named(`require.resolve("${SPEC}")\n`)).toEqual([SPEC])
 })

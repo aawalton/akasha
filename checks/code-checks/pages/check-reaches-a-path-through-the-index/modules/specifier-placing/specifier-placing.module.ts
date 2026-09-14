@@ -18,6 +18,11 @@ export const specifierPlacing = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A name handed to `import()` carries a specifier, as one handed to a require does.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A literal handed to `require` or to `require.resolve` names a module.",
     },
     {

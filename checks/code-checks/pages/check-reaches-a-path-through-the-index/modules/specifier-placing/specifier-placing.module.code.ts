@@ -59,6 +59,7 @@ function requiringIn(node: ts.Expression): string | null {
 
 function requiredBy(node: ts.Node, requiring: ReadonlySet<string>): ts.Expression | null {
   if (!ts.isCallExpression(node)) return null
+  if (node.expression.kind === ts.SyntaxKind.ImportKeyword) return node.arguments[0] ?? null
   const named = requiringIn(node.expression)
   if (named === null) return null
   if (named !== REQUIRE && !requiring.has(named)) return null
