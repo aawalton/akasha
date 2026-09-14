@@ -9,6 +9,6 @@ export const ncis2 = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
 } as const satisfies ShowCollection

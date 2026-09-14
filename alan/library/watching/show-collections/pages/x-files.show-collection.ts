@@ -9,7 +9,7 @@ export const xFiles = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "C",
   tags: ["Speculative Anthology", "Crime Investigation"],

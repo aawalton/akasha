@@ -8,6 +8,6 @@ export const shows = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-applicable",
 } as const satisfies ShowCollection
