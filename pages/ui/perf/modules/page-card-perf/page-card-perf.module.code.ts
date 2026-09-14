@@ -128,15 +128,6 @@ export function startInteraction(args: {
   return token
 }
 
-export function bindMutationId(token: InteractionToken, mutationId: string): undefined {
-  const entry = entriesById.get(token.interactionId)
-  if (entry === undefined) {
-    return undefined
-  }
-  entry.mutationId = mutationId
-  return undefined
-}
-
 export function recordVisibleUpdate(token: InteractionToken): undefined {
   const entry = entriesById.get(token.interactionId)
   if (entry === undefined) {
@@ -165,20 +156,6 @@ export function recordRoundTripSettled(token: InteractionToken): undefined {
   entry.roundTripMs = stageMs(token)
   markAndMeasureStage(token.interactionId, "round-trip")
   return undefined
-}
-
-export function findTokenByMutationId(mutationId: string): InteractionToken | null {
-  for (const id of INSERTION_ORDER) {
-    const entry = entriesById.get(id)
-    if (entry !== undefined && entry.mutationId === mutationId) {
-      return {
-        interactionId: entry.interactionId,
-        startTimeStamp: entry.startTimeStamp,
-        startNow: entry.startNow,
-      }
-    }
-  }
-  return null
 }
 
 function snapshotEntries(): ReadonlyArray<PageCardPerfEntry> {
