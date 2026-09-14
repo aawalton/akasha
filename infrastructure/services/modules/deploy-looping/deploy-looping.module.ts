@@ -139,5 +139,14 @@ export const deployLooping = {
       statement:
         "That bound is an hour, which is long enough that only a deploy that is hung meets it.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A loop's own unit is given longer to start than the hour that bounds its deploy's scope.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The unit's bound catches only a loop hung outside that scope.",
+    },
   ],
 } as const satisfies Module
