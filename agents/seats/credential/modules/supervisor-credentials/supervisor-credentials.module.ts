@@ -17,6 +17,11 @@ export const supervisorCredentials = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "An account whose file shows a re-auth is terminal no longer and is pulled for again.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A pull that faults is said and the tick ends rather than the timer dying.",
     },
   ],

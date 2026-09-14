@@ -9,6 +9,7 @@ import {
   markedOn,
 } from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 import {
+  clearAccountTerminal,
   isAccountTerminal,
   markAccountTerminal,
 } from "akasha/agents/seats/credential/modules/account-terminal/account-terminal.module.code.ts"
@@ -102,6 +103,7 @@ export async function buildCredentialSubsystem(args: {
     logPrefix: LOG,
     shouldSkip: (a) => isAccountTerminal(a),
     onReauthDetected: (a) => {
+      clearAccountTerminal(a)
       reportOAuthRecovered(a, "credential file re-auth detected", LOG)
     },
     onPushResult: (result) => {
