@@ -186,6 +186,16 @@ export const pageType = {
       invariantKind: "absence",
       statement: "No registry keyed by a page type's slug picks how a page of that type is drawn.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page type stating no component of a kind takes the component the page type it extends states.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A screen finds a page type's component by walking the types that page type extends.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType
