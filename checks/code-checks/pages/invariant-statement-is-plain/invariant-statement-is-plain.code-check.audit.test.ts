@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { invariantStatementIsPlain } from "akasha/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.audit.code.ts"
 import { paged } from "akasha/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.decision.test-fixtures.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
-import { noPathsFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { nothingFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
@@ -16,7 +16,7 @@ afterAll(scratch.sweep)
 
 function treed(path: string): string {
   const root = scratch.rootFor("akasha-plain-audit-")
-  noPathsFiled(root)
+  nothingFiled(root)
   writing(root, path, paged("A page is named because the slug says so."))
   git(root, ["init", "--quiet"])
   git(root, ["add", "-A"])
