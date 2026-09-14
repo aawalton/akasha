@@ -9,7 +9,7 @@ export const laVacaSteakhouse = {
   position: 0,
   ownLength: 22500,
   ownProgress: 22500,
-  unit: "words",
+  unit: "unit/words",
   status: "not-started",
   rank: "A",
 } as const satisfies Restaurant
