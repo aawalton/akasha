@@ -11,4 +11,5 @@ export const vera = {
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",
+  claudeCodeSessionUuid: "e9dfba11-06ca-48e2-a963-a7a8482a97ce",
 } as const satisfies Seat
