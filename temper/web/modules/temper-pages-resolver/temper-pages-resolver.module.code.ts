@@ -1,7 +1,5 @@
 "use client"
 
-import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
-import { parsePageTypeData } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import { useAllPages } from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
 import type { PageWithProperties } from "akasha/pages/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import { useMemo } from "react"
@@ -56,17 +54,4 @@ export function useTemperPagesResolver(): TemperPagesResolverData {
     task.isLoading
 
   return { pages, pageTypes: pageTypes.pages, isLoading }
-}
-
-export function useTemperPropertyDef(
-  pageTypeSlug: string,
-  propertyId: string
-): PropertyDefinition | null {
-  const { pages: pageTypes } = useAllPages({ pageTypeSlug: PAGE_TYPE_SLUG })
-  return useMemo(() => {
-    const pageType = pageTypes.find((pt) => pt.properties.slug === pageTypeSlug)
-    if (!pageType) return null
-    const { propertyDefinitions } = parsePageTypeData(pageType.properties)
-    return propertyDefinitions.find((d) => d.id === propertyId) ?? null
-  }, [pageTypes, pageTypeSlug, propertyId])
 }
