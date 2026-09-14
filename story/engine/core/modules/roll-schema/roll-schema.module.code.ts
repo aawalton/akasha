@@ -59,17 +59,3 @@ export const RollRecordSchema = z
 export type RollRecord = z.infer<typeof RollRecordSchema>
 
 export type RollRecordHashable = Omit<RollRecord, "hash" | "kind">
-
-const ResolutionMechanismSchema = z
-  .object({
-    verb: z.string(),
-    defaultDice: z.string().optional(),
-    convention: z.string().optional(),
-  })
-  .strict()
-export type ResolutionMechanism = z.infer<typeof ResolutionMechanismSchema>
-
-export function parseResolutionMechanism(value: unknown): ResolutionMechanism | null {
-  if (typeof value !== "object" || value === null) return null
-  return ResolutionMechanismSchema.parse(value)
-}
