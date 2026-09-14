@@ -6,7 +6,6 @@ import type {
   RunningAsync,
 } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { typeScripted } from "akasha/code/bodies/modules/file-kind/file-kind.module.code.ts"
-import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
 import { ENTRY_PROPERTY } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import { underIndex } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
@@ -330,16 +329,6 @@ export async function overEveryTextAsync(
     for (const reason of await judge(path, text)) said.push({ path, reason })
   }
   return said
-}
-
-const EVERY_PATH = new WeakMap<Answering, readonly string[]>()
-
-export function everyFileOf(index: Answering): readonly string[] {
-  const found = EVERY_PATH.get(index)
-  if (found !== undefined) return found
-  const made = sortedOnce(index.everyPath())
-  EVERY_PATH.set(index, made)
-  return made
 }
 
 const VENDORED = "node_modules"
