@@ -2,19 +2,8 @@ import { InputError } from "akasha/alan/harness/errors-core/modules/exit-code/ex
 import { requireMatchPositional } from "akasha/utils/narrow/modules/require-match-positional/require-match-positional.module.code.ts"
 import { z } from "zod"
 
-const UCI_MOVE = /^[a-h][1-8][a-h][1-8][qrbn]?$/
 const PERFT_LINE = /^([a-h][1-8][a-h][1-8][qrbn]?): \d+$/
 const PERFT_CAPTURE_SCHEMA = z.tuple([z.string()])
-
-export function parseUciMove(raw: string): string {
-  const move = raw.trim().toLowerCase()
-  if (!UCI_MOVE.test(move)) {
-    throw new InputError(
-      `invalid move "${raw}": expected UCI long algebraic (e.g. e2e4, e7e8q), got something else`
-    )
-  }
-  return move
-}
 
 export function parseFen(raw: string): string {
   const fen = raw.trim()
