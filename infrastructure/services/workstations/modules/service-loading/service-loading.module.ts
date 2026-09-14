@@ -22,11 +22,15 @@ export const serviceLoading = {
     },
     {
       invariantKind: "departure",
-      statement: "Which services the loader runs is named here rather than on a service's page.",
+      statement: "The loader runs every workstation service but those named here as staying back.",
     },
     {
-      invariantKind: "gap",
-      statement: "The loader runs every workstation service.",
+      invariantKind: "departure",
+      statement: "Which services stay back is named here rather than on a service's page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A service that puts a kind up runs out of the tree that kind's deploy pinned.",
     },
     {
       invariantKind: "departure",

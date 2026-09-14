@@ -92,12 +92,12 @@ test("a command line the loader composes names no pinned tree", () => {
   expect(loaderRun("held-service")).not.toContain(".git/trees")
 })
 
-test("which services the loader runs is named here", () => {
+test("a service named nowhere here is run by the loader", () => {
   expect(loadedHere("sweep-log-days")).toBe(true)
-  expect(loadedHere("held-service")).toBe(false)
+  expect(loadedHere("held-service")).toBe(true)
 })
 
-test("a service that mends a broken pages service is not run by the loader", () => {
+test("a service that mends a broken pages service or puts a kind up stays back", () => {
   for (const one of [
     "pages-service",
     "workstation-deploying",
