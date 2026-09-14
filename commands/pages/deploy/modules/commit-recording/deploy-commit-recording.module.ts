@@ -55,5 +55,21 @@ export const deployCommitRecording = {
       invariantKind: "departure",
       statement: "A write the pages refuse is what went wrong.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The commit is read back by asking the pages for the page's values.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The page asked for is named by the page type and slug its path spells.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A moment a deploy kept is read back the way the commit is.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reads a file in the checkout.",
+    },
   ],
 } as const satisfies Module
