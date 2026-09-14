@@ -30,4 +30,5 @@ export const divideFileCode = {
   ],
   changeKind: "change-checked",
   maxCpuSeconds: 30,
+  maxMemoryMb: 1024,
 } as const satisfies ChangeAgent
