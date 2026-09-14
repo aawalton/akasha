@@ -2,7 +2,7 @@ import type { Known } from "akasha/graph/attributes/pages/known.graph-attribute.
 import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
 import {
   claimantOf,
-  type Listing,
+  type Paging,
 } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
 import type { Named } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { addressIn } from "akasha/pages/modules/address/page-address.module.code.ts"
@@ -145,7 +145,7 @@ function loadedFrom(
   }))
 }
 
-const NOWHERE: Listing = () => []
+const NOWHERE: Paging = () => null
 
 function relationsInto(
   index: Answering,

@@ -123,7 +123,7 @@ const NAMED: Readonly<Record<string, string>> = {
     id: "01a07c60-0004-7000-8000-000000000002",
     pageTypeSlug: "page-type",
     slug: "kept",
-    extendsSlug: ["page-type/domain"],
+    extends: ["page-type/domain"],
     properties: [{ pagePropertySlug: "file-property/manifest", required: false, many: false }],
   }),
   [NAMED_PAGE]: pageOf({

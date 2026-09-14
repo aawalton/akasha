@@ -196,7 +196,7 @@ export const pathClaiming = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller judging an answer hands in the folder as that answer leaves it.",
+      statement: "A caller judging an answer hands in the pages as that answer leaves them.",
     },
     {
       invariantKind: "departure",

@@ -344,23 +344,53 @@ function typesNaming(fileProperties: FilePropertiesBy, folders: FoldersBy): Type
   return made
 }
 
-export type Listing = (folder: string) => readonly string[]
+const HERE = "."
 
-function pagedOfTypeIn(
-  listing: Listing,
-  folder: string,
-  types: ReadonlySet<string>
-): string | null {
-  for (const one of listing(folder)) {
-    const said = partedIn(one)
-    if (said === null || said.sections.length > 0 || said.held !== HELD) continue
-    if (types.has(said.pageType)) return one
+export type OfType = (pageTypeSlug: string) => readonly { readonly path: string }[]
+
+export type Paging = (folder: string, types: ReadonlySet<string>) => string | null
+
+const PAGING = new WeakMap<OfType, Map<string, ReadonlyMap<string, string>>>()
+
+export function folderOf(path: string): string {
+  const at = dirname(path)
+  return at === HERE ? "" : at
+}
+
+function foldersOf(ofType: OfType, pageTypeSlug: string): ReadonlyMap<string, string> {
+  let beneath = PAGING.get(ofType)
+  if (beneath === undefined) {
+    beneath = new Map<string, ReadonlyMap<string, string>>()
+    PAGING.set(ofType, beneath)
   }
-  return null
+  const done = beneath.get(pageTypeSlug)
+  if (done !== undefined) return done
+  const made = new Map<string, string>()
+  beneath.set(pageTypeSlug, made)
+  for (const one of ofType(pageTypeSlug)) {
+    const said = partedIn(one.path)
+    if (said === null || said.sections.length > 0 || said.held !== HELD) continue
+    if (said.pageType !== pageTypeSlug) continue
+    const folder = folderOf(one.path)
+    const held = made.get(folder)
+    if (held === undefined || one.path < held) made.set(folder, one.path)
+  }
+  return made
+}
+
+export function pagingOf(ofType: OfType): Paging {
+  return (folder, types) => {
+    let found: string | null = null
+    for (const pageTypeSlug of types) {
+      const at = foldersOf(ofType, pageTypeSlug).get(folder)
+      if (at !== undefined && (found === null || at < found)) found = at
+    }
+    return found
+  }
 }
 
 export function claimantOf(
-  listing: Listing,
+  paging: Paging,
   path: string,
   pageTypes: ReadonlySet<string>,
   fileProperties: FilePropertiesBy,
@@ -371,18 +401,16 @@ export function claimantOf(
     return join(dirname(path), `${pageOf(said)}${TS}`)
   }
   const naming = typesNaming(fileProperties, folders)
-  let folder = dirname(path)
-  if (folder === ".") folder = ""
+  let folder = folderOf(path)
   for (;;) {
     const named = folder === "" ? path : path.slice(folder.length + 1)
     const types = naming(named)
     if (types.size > 0) {
-      const found = pagedOfTypeIn(listing, folder, types)
+      const found = paging(folder, types)
       if (found !== null) return found
     }
     if (folder === "") return null
-    const up = dirname(folder)
-    folder = up === "." ? "" : up
+    folder = folderOf(folder)
   }
 }
 

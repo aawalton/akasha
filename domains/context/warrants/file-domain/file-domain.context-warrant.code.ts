@@ -9,15 +9,15 @@ import {
 } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import {
   claimantOf,
-  type Listing,
+  pagingOf,
 } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
 import {
+  everyOfType,
   idsNaming,
   listedById,
   readingIn,
   valueByPath,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { filesIn } from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
 import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 export const WHOLE =
@@ -29,9 +29,8 @@ const ID = "id"
 
 export function fileDomain(root: string, path: string): readonly Warrant[] {
   const reading = readingIn(root)
-  const listing: Listing = (folder) => filesIn(root, folder)
   const claimant = claimantOf(
-    listing,
+    pagingOf((slug) => everyOfType(reading, slug)),
     path,
     pageTypesIn(reading),
     filePropertiesAt(reading),

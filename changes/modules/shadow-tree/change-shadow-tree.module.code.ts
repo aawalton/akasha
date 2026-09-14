@@ -8,7 +8,9 @@ import { ignoredUnder, trackedUnder } from "akasha/git/modules/pathspec/git-path
 import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
 import {
   claimantOf,
-  type Listing,
+  folderOf,
+  type Paging,
+  pagingOf,
 } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
 import {
   filesIn,
@@ -16,7 +18,10 @@ import {
   walkedUnder,
 } from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
 import { VENDOR_ROOT } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { uncommittedHeld } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import {
+  partedIn,
+  uncommittedHeld,
+} from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
 const OUTSIDE = ".."
 
@@ -24,36 +29,33 @@ const UNDER = "/"
 
 const HERE = "."
 
-function folderOf(path: string): string {
-  const at = dirname(path)
-  return at === HERE ? "" : at
-}
+const HELD = "ts"
 
-function listingOver(root: string, laid: ReadonlyMap<string, boolean>): Listing {
-  const written = new Map<string, string[]>()
+function pagedOver(laid: ReadonlyMap<string, boolean>): ReadonlyMap<string, readonly string[]> {
+  const found = new Map<string, string[]>()
   for (const [path, there] of laid) {
     if (!there) continue
-    const at = folderOf(path)
-    const found = written.get(at)
-    if (found === undefined) written.set(at, [path])
-    else found.push(path)
+    const said = partedIn(path)
+    if (said === null || said.sections.length > 0 || said.held !== HELD) continue
+    const held = found.get(said.pageType)
+    if (held === undefined) found.set(said.pageType, [path])
+    else held.push(path)
   }
-  const read = new Map<string, readonly string[]>()
-  return (folder) => {
-    const done = read.get(folder)
-    if (done !== undefined) return done
-    const found = new Set(filesIn(root, folder).filter((one) => laid.get(one) !== false))
-    for (const one of written.get(folder) ?? []) found.add(one)
-    const made = [...found].sort()
-    read.set(folder, made)
-    return made
-  }
+  return found
+}
+
+function pagingIn(index: Answering, laid: ReadonlyMap<string, boolean>): Paging {
+  const put = pagedOver(laid)
+  return pagingOf((pageTypeSlug) => [
+    ...index.everyOfType(pageTypeSlug).filter((one) => laid.get(one.path) !== false),
+    ...(put.get(pageTypeSlug) ?? []).map((path) => ({ path })),
+  ])
 }
 
 type Claiming = (path: string) => boolean
 
-function claimingIn(root: string, index: Answering, laid: ReadonlyMap<string, boolean>): Claiming {
-  const listing = listingOver(root, laid)
+function claimingIn(index: Answering, laid: ReadonlyMap<string, boolean>): Claiming {
+  const paging = pagingIn(index, laid)
   const pageTypes = index.pageTypesIn()
   const fileProperties = index.filePropertiesAt()
   const folders = index.folderPropertiesAt()
@@ -61,7 +63,7 @@ function claimingIn(root: string, index: Answering, laid: ReadonlyMap<string, bo
   return (path) => {
     const done = asked.get(path)
     if (done !== undefined) return done
-    const said = claimantOf(listing, path, pageTypes, fileProperties, folders) !== null
+    const said = claimantOf(paging, path, pageTypes, fileProperties, folders) !== null
     asked.set(path, said)
     return said
   }
@@ -83,7 +85,7 @@ export function treeUnder(
   index: Answering,
   over: Answer
 ): readonly string[] {
-  const claimed = claimingIn(root, index, laidOver(over.edits))
+  const claimed = claimingIn(index, laidOver(over.edits))
   const had = filesThere(root, folder, (path) => !claimed(relative(root, path)))
   return underOver(had, over, folder)
 }
@@ -95,7 +97,7 @@ export function treeUnentered(
   over: Answer
 ): readonly string[] {
   const laid = laidOver(over.edits)
-  const claimed = claimingIn(root, index, laid)
+  const claimed = claimingIn(index, laid)
   const holds = (one: string): boolean => underOver(filesThere(root, one), over, one).length > 0
   const found = new Set<string>()
   const entered = new Set<string>([folder])

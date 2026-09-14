@@ -17,7 +17,7 @@ import { textIn } from "akasha/code/bodies/modules/body-text/body-text.module.co
 import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
 import {
   claimantOf,
-  type Listing,
+  pagingOf,
 } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
 import {
   type Facing,
@@ -48,13 +48,13 @@ const JUDGED = new WeakMap<Shadow, (path: string) => boolean>()
 function judgedFor(shadow: Shadow): (path: string) => boolean {
   const found = JUDGED.get(shadow)
   if (found !== undefined) return found
-  const listing: Listing = (folder) => shadow.listed(folder)
+  const paging = pagingOf(shadow.index.everyOfType)
   const types = shadow.index.pageTypesIn()
   const fileProperties = shadow.index.filePropertiesAt()
   const folders = shadow.index.folderPropertiesAt()
   const made = judgingOver({
     types,
-    listed: (path) => claimantOf(listing, path, types, fileProperties, folders) !== null,
+    listed: (path) => claimantOf(paging, path, types, fileProperties, folders) !== null,
     generated: (path) => generatedIn(facingFor(shadow), path),
     toolResolvesPaths: (path) => toolResolvesPathsIn(facingFor(shadow), path),
   })
