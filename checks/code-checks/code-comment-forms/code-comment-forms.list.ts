@@ -34,7 +34,7 @@ export const codeCommentForms = {
   ],
   directives: [
     {
-      directiveKind: "rule",
+      directiveKind: "directive-kind/rule",
       name: "Form Approval",
       act: "Show Alan each code comment form you would add, and take his ruling before adding the next.",
       warrant:
