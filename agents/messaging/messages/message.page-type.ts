@@ -55,7 +55,7 @@ export const message = {
     },
     {
       invariantKind: "departure",
-      statement: "A message starts the seat that message reaches.",
+      statement: "A message revives the seat that message reaches rather than starting a seat.",
     },
     {
       invariantKind: "departure",
