@@ -51,6 +51,14 @@ export const seatStopping = {
     },
     {
       invariantKind: "departure",
+      statement: "The messages waiting for a seat go with that seat, since nobody is left to read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A message is taken before the seat is signalled, as a subagent's page is.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A stop the landing refused leaves the seat naming the process it named before.",
     },
     {

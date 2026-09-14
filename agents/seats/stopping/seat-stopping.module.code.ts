@@ -1,5 +1,6 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
+import { messagesTo } from "akasha/agents/messaging/modules/message-file/message-file.module.code.ts"
 import { dropReadings } from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import {
   seatPathForName,
@@ -164,6 +165,29 @@ export async function took(
   return gone
 }
 
+export async function tookMessages(
+  given: Given,
+  name: string,
+  done: string[] = [],
+  landing: Landing = landedMechanically
+): Promise<number> {
+  const waiting = messagesTo(name).map((one) => one.relPath)
+  if (waiting.length === 0) return 0
+  const gone = await took(
+    given,
+    waiting,
+    `${name} is stopped, so the messages waiting there go with it`,
+    done,
+    landing
+  )
+  done.push(
+    gone
+      ? `took ${String(waiting.length)} message(s) nobody is left to read`
+      : `left ${String(waiting.length)} message(s) nobody is left to read`
+  )
+  return waiting.length
+}
+
 export function moving(given: Given, page: string, working: readonly Working[]): readonly string[] {
   if (!existsSync(join(given.root, page))) return []
   const said: string[] = []
@@ -244,6 +268,8 @@ export async function stopping(
     const many = String(working.length)
     done.push(swept ? `took ${many} subagent page(s)` : `left ${many} subagent page(s)`)
   }
+
+  await tookMessages(given, name, done)
 
   const target = killTarget({ procPids: pids, seatName: name, selfPid: process.pid })
   if (target.kind === "signal") {
