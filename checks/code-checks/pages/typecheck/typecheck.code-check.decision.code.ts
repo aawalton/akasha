@@ -282,8 +282,9 @@ async function foundIn(given: Change, shadow: Shadow): Promise<readonly Found[]>
   const claimed = claimedIn(change, shadow.index)
   const roots = reached.filter((one) => !claimed(one))
   const root = resolve(change.root)
-  const every = [...new Set([...shadow.index.everyPath(), ...change.changed])]
-  const placed = placingOver(every, (one) => textOf(change.after(one)))
+  const beside = shadow.index.manifestsBeside(shadow.index.fileKeysAt())
+  const manifests = [...new Set([...beside, ...change.changed])]
+  const placed = placingOver(manifests, (one) => textOf(change.after(one)))
   const declared = declaringIn(change, shadow.index).filter((one) => !claimed(one))
   const named = [...new Set([...roots, ...declared])]
   const asked = roots.length === 0 && orphaned.length > 0 ? named : roots
