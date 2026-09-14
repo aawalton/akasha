@@ -11,25 +11,25 @@ export const changeMechanical = {
   readersOweReading: false,
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A mechanical change is not shown to Alan line by line.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A mechanical change is not authored prose.",
     },
 
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A fault a mechanical change lands is a fault in the program that composed the change.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A fault the audit finds is repaired rather than undone.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A fault a mechanical change lands is found by the audit.",
     },
   ],

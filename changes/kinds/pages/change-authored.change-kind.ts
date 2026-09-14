@@ -11,7 +11,7 @@ export const changeAuthored = {
   readersOweReading: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An authored change is refused until its required reading is read.",
     },
   ],

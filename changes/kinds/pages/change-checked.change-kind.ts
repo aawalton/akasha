@@ -11,24 +11,24 @@ export const changeChecked = {
   readersOweReading: false,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A checked change is composed by a program rather than by an agent.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "No reading is owed for a change no agent composed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A fault a checked change lands is a fault in the program that composed the change.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A check refusing a checked change refuses the whole act.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A program whose change the checks refuse is mended rather than exempted.",
     },
   ],
