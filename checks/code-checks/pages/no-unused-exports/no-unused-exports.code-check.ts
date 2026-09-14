@@ -200,6 +200,10 @@ export const noUnusedExports = {
         "The `statesLanded` the state-writing module exports is reached by the editor's landing.",
     },
     {
+      invariantKind: "departure",
+      statement: "The content hash an addon bundle is tagged with is read out of its own body.",
+    },
+    {
       invariantKind: "gap",
       statement: "A module states for itself which of its values a runner reaches by path.",
     },

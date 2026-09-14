@@ -120,10 +120,15 @@ const TUNNEL_ROUTES = "tunnel-routes.ts"
 
 const TUNNELED: ReadonlySet<string> = new Set(["routes"])
 
+const BUNDLE_IMAGE = "addon-bundle-image.ts"
+
+const STAMPED: ReadonlySet<string> = new Set(["ADDON_BUNDLE_CONTENT_HASH"])
+
 const BY_FILE: ReadonlyMap<string, ReadonlySet<string>> = new Map([
   [ROOT_ROUTE, ROUTED],
   [APP_LAYOUT, ROUTED],
   [TUNNEL_ROUTES, TUNNELED],
+  [BUNDLE_IMAGE, STAMPED],
 ])
 
 const BY_SLUG: ReadonlyMap<string, ReadonlySet<string>> = new Map([
