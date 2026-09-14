@@ -3,7 +3,6 @@ import { dirname, join } from "node:path"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import { indexIdentity } from "akasha/pages/indexes/identity/index-identity.index.ts"
 import { indexImport } from "akasha/pages/indexes/import/index-import.index.ts"
-import { indexListing } from "akasha/pages/indexes/listing/index-listing.index.ts"
 import type { Entry } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import {
   idFiled,
@@ -169,23 +168,6 @@ export function idFiledIn(root: string, id: string): boolean {
   return identityListed(root, PAGE, NO_SCOPE, ID, id)
 }
 
-function listingAdded(root: string, path: string): undefined {
-  appendFileSync(making(root, `${join(indexListing.name, AT_PATH)}${ENDING}`), `${path}\n`)
-}
-
-export function pathListed(root: string, path: string): undefined {
-  listingAdded(root, path)
-}
-
-export function listedIn(reading: Reading, path: string): boolean {
-  return reading.lines(`${join(indexListing.name, AT_PATH)}${ENDING}`).includes(path)
-}
-
-export function listingFiled(root: string, paths: readonly string[]): undefined {
-  const at = making(root, `${join(indexListing.name, AT_PATH)}${ENDING}`)
-  writeFileSync(at, paths.map((one) => `${one}\n`).join(""))
-}
-
 const KINDED = new Map<string, Set<string>>()
 
 export function typeListed(root: string, slug: string, path?: string): string {
@@ -273,10 +255,6 @@ export function nothingFiled(root: string): undefined {
 
 export function noneOfTypeFiled(root: string, pageTypeSlug: string): undefined {
   foldering(root, join(indexIdentity.name, PAGE_TYPE, pageTypeSlug, SLUG))
-}
-
-export function noPathsFiled(root: string): undefined {
-  foldering(root, indexListing.name)
 }
 
 export function noImportersFiled(root: string): undefined {
