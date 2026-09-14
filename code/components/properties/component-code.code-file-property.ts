@@ -9,7 +9,7 @@ export const componentCode = {
   extensions: ["tsx"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This code is written in TSX.",
     },
   ],

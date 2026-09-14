@@ -11,24 +11,24 @@ export const test = {
   maxMemoryMb: 512,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A test proving code written in TSX is written in TSX too.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This ceiling throttles a test file rather than refusing that file.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A test file held under the memory it needs pays the reclaim as its own processor time.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This ceiling is above what a test file loading a parser needs to load it.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Nothing refuses a test file for the memory that file peaks at.",
     },
   ],

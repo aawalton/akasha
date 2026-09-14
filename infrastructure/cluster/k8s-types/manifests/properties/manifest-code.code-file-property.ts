@@ -9,15 +9,15 @@ export const manifestCode = {
   extensions: ["ts"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Manifest code is written in TypeScript.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A path this code spells is a path inside a container.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This code builds resources rather than applying those resources.",
     },
   ],

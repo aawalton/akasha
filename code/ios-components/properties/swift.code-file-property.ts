@@ -9,7 +9,7 @@ export const swift = {
   extensions: ["swift"],
   invariants: [
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A check judges the Swift a landing carries.",
     },
   ],

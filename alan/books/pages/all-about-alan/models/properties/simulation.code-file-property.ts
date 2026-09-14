@@ -9,7 +9,7 @@ export const simulation = {
   extensions: ["py"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A simulation prints its numbers rather than writing the numbers anywhere.",
     },
   ],

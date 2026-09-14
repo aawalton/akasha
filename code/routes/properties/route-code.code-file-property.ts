@@ -9,11 +9,11 @@ export const routeCode = {
   extensions: ["ts", "tsx"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A route drawing something for a browser is written in TSX.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A route answering with data alone is written in TypeScript.",
     },
   ],

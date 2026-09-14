@@ -9,15 +9,15 @@ export const code = {
   extensions: ["ts", "tsx"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Code is written in TypeScript.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Code drawing something for a browser is written in TSX.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "TSX is TypeScript the parser admits JSX into.",
     },
   ],

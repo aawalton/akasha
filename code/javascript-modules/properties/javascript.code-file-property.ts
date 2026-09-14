@@ -9,7 +9,7 @@ export const javascript = {
   extensions: ["mjs"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "JavaScript a runtime loads as a module has the `mjs` extension.",
     },
   ],

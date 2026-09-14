@@ -10,7 +10,7 @@ export const rootRoute = {
   fileName: "root.tsx",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Whether the root route shows a stack is read from `import.meta.env`, not from `process.env`.",
     },

@@ -10,11 +10,11 @@ export const appLayout = {
   fileName: "_app-layout.tsx",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This route is reached by the route table rather than by a url.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A router app serving a signed-out reader alone states no app layout.",
     },
   ],
