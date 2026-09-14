@@ -1,9 +1,0 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
-
-export const calendarTimePropertyBadge = {
-  id: "01a0620f-82c5-7003-9fac-5be89a6872a8",
-  type: "module",
-  slug: "calendar-time-property-badge",
-  definition: "The badge for a calendar time property.",
-  code: "tsx",
-} as const satisfies Module

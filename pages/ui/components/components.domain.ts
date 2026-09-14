@@ -16,7 +16,6 @@ export const components = {
     "module/bare-listing-card",
     "module/base-conditions",
     "module/build-server-grouped-sections",
-    "module/calendar-time-property-badge",
     "module/card-property-columns",
     "module/chrome-toggle-decider",
     "module/computed-property-badge",

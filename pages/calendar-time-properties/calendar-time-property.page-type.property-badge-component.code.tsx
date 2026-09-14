@@ -15,7 +15,7 @@ function asTimeString(value: PropertyValue): string | null {
   return value
 }
 
-export function CalendarTimePropertyBadge({
+export function Drawing({
   property,
   value,
   context,
