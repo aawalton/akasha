@@ -5,5 +5,10 @@ export const supervisorTooling = {
   type: "domain",
   slug: "supervisor-tooling",
   definition: "the tool servers an agent in a seat is launched with",
-  parts: ["module/mcp-disable-reconcile", "module/mcp-registry", "module/supervisor-mcp"],
+  parts: [
+    "module/browser-reaping",
+    "module/mcp-disable-reconcile",
+    "module/mcp-registry",
+    "module/supervisor-mcp",
+  ],
 } as const satisfies Domain
