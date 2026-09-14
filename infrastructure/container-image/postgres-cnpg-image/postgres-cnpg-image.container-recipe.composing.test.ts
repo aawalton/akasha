@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { dirname } from "node:path"
-import { committedRecipe } from "akasha/infrastructure/container-image/modules/recipe-proving/recipe-proving.module.code.ts"
 import { bodyIn } from "akasha/infrastructure/container-image/postgres-cnpg-image/postgres-cnpg-image.container-recipe.composing.code.ts"
+import { committedRecipe } from "akasha/infrastructure/container-image/test-fixtures/recipe-proving/recipe-proving.test-fixture.code.ts"
 
 const HERE = dirname(import.meta.path)
 

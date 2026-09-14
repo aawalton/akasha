@@ -3,7 +3,7 @@ import { dirname } from "node:path"
 import {
   committedRecipe,
   copiedFrom,
-} from "akasha/infrastructure/container-image/modules/recipe-proving/recipe-proving.module.code.ts"
+} from "akasha/infrastructure/container-image/test-fixtures/recipe-proving/recipe-proving.test-fixture.code.ts"
 import { bodyIn } from "akasha/infrastructure/inference/generations/zimage/image/zimage-image.container-recipe.composing.code.ts"
 
 const HERE = dirname(import.meta.path)
