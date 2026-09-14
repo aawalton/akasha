@@ -18,11 +18,37 @@ export const recordSweeping = {
     },
     {
       invariantKind: "departure",
-      statement: "The streams are what the index answers rather than a folder listed.",
+      statement: "The page types swept are the ones declaring a property that states a window.",
     },
     {
       invariantKind: "departure",
-      statement: "The page a file belongs to is composed out of that file's own name.",
+      statement: "A page type declares such a property through what that page type extends too.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A property a file property group carries is swept under the group's slug and then its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Which pages a page type has is what the index answers rather than a folder listed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record file's path is composed out of its page's path and its section.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stream is there where the file that path names is there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stream whose first part is gone is found by the part beside it.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reads the path of every file the repository holds.",
     },
     {
       invariantKind: "departure",
@@ -67,11 +93,6 @@ export const recordSweeping = {
     {
       invariantKind: "departure",
       statement: "A stream whose turn does not come is left as that stream is and counted.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A file's section is the whole name between its page's stem and the ending rather than one slug.",
     },
   ],
 } as const satisfies Module

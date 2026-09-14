@@ -1,31 +1,40 @@
 import { Buffer } from "node:buffer"
 import { existsSync, readFileSync, rmSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { join } from "node:path"
 import { exclusively } from "akasha/files/modules/exclusive/exclusive.module.code.ts"
 import {
-  everyPath,
+  everyOfType,
   readingIn,
   valuesOfType,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+import { addressIn } from "akasha/pages/modules/address/page-address.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { ENTRY_CEILING } from "akasha/pages/modules/entry-ceiling/entry-ceiling.module.code.ts"
-import { pageOf, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { uncommittedPartsOf } from "akasha/pages/modules/file-parts/page-file-parts.module.code.ts"
+import { FIRST_PART } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import {
+  uncommittedPartAt,
+  uncommittedPartsOf,
+} from "akasha/pages/modules/file-parts/page-file-parts.module.code.ts"
 import {
   numberAt,
+  recordsIn,
   textAt,
+  textsAt,
+  type Value,
 } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const FILE_PROPERTY = "file-property"
 
-const HELD = "jsonl"
+const FILE_PROPERTY_GROUP = "file-property-group"
 
-const TS = ".ts"
+const PAGE_TYPE = "page-type"
+
+const HELD = "jsonl"
 
 const ENDING = ".uncommitted.jsonl"
 
@@ -33,11 +42,19 @@ const KEPT_FOR = "keptForHours"
 
 const PROPERTY_SLUG = "propertySlug"
 
+const PAGE_PROPERTY = "pageProperty"
+
+const PROPERTIES = "properties"
+
+const EXTENDS = "extends"
+
+const SLUG = "slug"
+
 const HOUR_MS = 3_600_000
 
 const TURN_MS = 5_000
 
-const NUMBERED = /^part\d+$/
+const PARTS_PROBED = 2
 
 export function windowsIn(given: string | Reading): ReadonlyMap<string, number> {
   const found = new Map<string, number>()
@@ -50,22 +67,112 @@ export function windowsIn(given: string | Reading): ReadonlyMap<string, number> 
   return found
 }
 
-export function propertyOf(path: string, windows: ReadonlyMap<string, number>): string | null {
-  if (!path.endsWith(ENDING)) return null
-  const stem = path.slice(0, -ENDING.length)
-  const sections = stem.slice(stem.lastIndexOf("/") + 1).split(".")
-  const last = sections[sections.length - 1] ?? ""
-  const said = NUMBERED.test(last) ? (sections[sections.length - 2] ?? "") : last
-  return windows.has(said) ? said : null
+type Declared = {
+  readonly pageTypeSlug: string
+  readonly slug: string
 }
 
-export function sectionOf(page: string, path: string): string | null {
-  const stem = page.slice(0, page.lastIndexOf("."))
-  if (!path.startsWith(`${stem}.`) || !path.endsWith(ENDING)) return null
-  const said = path.slice(stem.length + 1, -ENDING.length)
-  const sections = said.split(".")
-  const last = sections[sections.length - 1] ?? ""
-  return NUMBERED.test(last) ? sections.slice(0, -1).join(".") : said
+function typesIn(given: string | Reading): ReadonlyMap<string, Value> {
+  const found = new Map<string, Value>()
+  for (const one of valuesOfType(given, PAGE_TYPE)) {
+    const slug = textAt(one.value, SLUG)
+    if (slug !== null) found.set(slug, one.value)
+  }
+  return found
+}
+
+function extendedBy(
+  types: ReadonlyMap<string, Value>,
+  slug: string,
+  seen: Set<string> = new Set()
+): readonly string[] {
+  const value = types.get(slug)
+  if (seen.has(slug) || value === undefined) return []
+  seen.add(slug)
+  const found = [slug]
+  for (const named of textsAt(value, EXTENDS) ?? []) {
+    const address = addressIn(named)
+    if (address.kind !== "id") found.push(...extendedBy(types, address.slug, seen))
+  }
+  return found
+}
+
+function declaredBy(types: ReadonlyMap<string, Value>, slug: string): readonly Declared[] {
+  const found: Declared[] = []
+  for (const one of extendedBy(types, slug)) {
+    for (const held of recordsIn(types.get(one)?.[PROPERTIES])) {
+      const named = textAt(held, PAGE_PROPERTY)
+      if (named === null) continue
+      const address = addressIn(named)
+      if (address.kind !== "qualified") continue
+      found.push({ pageTypeSlug: address.pageTypeSlug, slug: address.slug })
+    }
+  }
+  return found
+}
+
+function groupsIn(types: ReadonlyMap<string, Value>): ReadonlySet<string> {
+  const found = new Set<string>()
+  for (const slug of types.keys()) {
+    if (slug === FILE_PROPERTY_GROUP) continue
+    if (extendedBy(types, slug).includes(FILE_PROPERTY_GROUP)) found.add(slug)
+  }
+  return found
+}
+
+type Deriving = {
+  readonly types: ReadonlyMap<string, Value>
+  readonly windows: ReadonlyMap<string, number>
+  readonly groups: ReadonlySet<string>
+  readonly members: Map<string, ReadonlyMap<string, number>>
+}
+
+function memberedIn(deriving: Deriving, slug: string): ReadonlyMap<string, number> {
+  const held = deriving.members.get(slug)
+  if (held !== undefined) return held
+  const found = new Map<string, number>()
+  for (const one of declaredBy(deriving.types, slug)) {
+    if (one.pageTypeSlug !== FILE_PROPERTY) continue
+    const hours = deriving.windows.get(one.slug)
+    if (hours !== undefined) found.set(one.slug, hours)
+  }
+  deriving.members.set(slug, found)
+  return found
+}
+
+function sectionedBy(deriving: Deriving, slug: string): ReadonlyMap<string, number> {
+  const found = new Map<string, number>()
+  for (const one of declaredBy(deriving.types, slug)) {
+    if (one.pageTypeSlug === FILE_PROPERTY) {
+      const hours = deriving.windows.get(one.slug)
+      if (hours !== undefined) found.set(one.slug, hours)
+      continue
+    }
+    if (!deriving.groups.has(one.pageTypeSlug)) continue
+    for (const [member, hours] of memberedIn(deriving, one.pageTypeSlug)) {
+      found.set(`${one.slug}.${member}`, hours)
+    }
+  }
+  return found
+}
+
+export function sectionsOfType(
+  given: string | Reading
+): ReadonlyMap<string, ReadonlyMap<string, number>> {
+  const reading = readingIn(given)
+  const types = typesIn(reading)
+  const deriving: Deriving = {
+    types,
+    windows: windowsIn(reading),
+    groups: groupsIn(types),
+    members: new Map(),
+  }
+  const found = new Map<string, ReadonlyMap<string, number>>()
+  for (const slug of types.keys()) {
+    const sections = sectionedBy(deriving, slug)
+    if (sections.size > 0) found.set(slug, sections)
+  }
+  return found
 }
 
 export type Stream = {
@@ -74,24 +181,38 @@ export type Stream = {
   readonly hours: number
 }
 
-export function streamsIn(given: string | Reading): readonly Stream[] {
-  const reading = readingIn(given)
-  const windows = windowsIn(reading)
-  const found = new Map<string, Stream>()
-  for (const path of everyPath(reading)) {
-    const propertySlug = propertyOf(path, windows)
-    if (propertySlug === null) continue
-    const hours = windows.get(propertySlug)
-    if (hours === undefined) continue
-    const said = partedIn(path)
-    if (said === null) continue
-    const page = join(dirname(path), `${pageOf(said)}${TS}`)
-    const section = sectionOf(page, path)
-    if (section === null) continue
-    const key = `${page}\t${section}`
-    if (!found.has(key)) found.set(key, { page, section, hours })
+export function streamThere(
+  page: string,
+  section: string,
+  existing: (at: string) => boolean
+): boolean {
+  for (let part = FIRST_PART; part < FIRST_PART + PARTS_PROBED; part += 1) {
+    const at = uncommittedPartAt(page, section, HELD, part)
+    if (at !== null && existing(at)) return true
   }
-  return [...found.values()]
+  return false
+}
+
+export function streamsIn(
+  given: string | Reading,
+  existing: (at: string) => boolean
+): readonly Stream[] {
+  const reading = readingIn(given)
+  const found: Stream[] = []
+  for (const [pageTypeSlug, sections] of sectionsOfType(reading)) {
+    for (const one of everyOfType(reading, pageTypeSlug)) {
+      for (const [section, hours] of sections) {
+        if (streamThere(one.path, section, existing)) {
+          found.push({ page: one.path, section, hours })
+        }
+      }
+    }
+  }
+  return found
+}
+
+function existingIn(root: string): (at: string) => boolean {
+  return (at) => existsSync(join(root, at))
 }
 
 export type Kept = {
@@ -135,7 +256,7 @@ export function packed(kept: string, ceiling: number): readonly string[] {
 }
 
 export function sweptStream(root: string, one: Stream, nowMs: number): number {
-  const existing = (at: string): boolean => existsSync(join(root, at))
+  const existing = existingIn(root)
   const parts = uncommittedPartsOf(one.page, one.section, HELD, existing)
   const first = parts[0]
   if (first === undefined || !existing(first)) return 0
@@ -174,7 +295,7 @@ export function sweptStream(root: string, one: Stream, nowMs: number): number {
 
 export function sweepRecords(argv: readonly string[]): number {
   const root = rootFor(resolveRoots(), AKASHA)
-  const streams = streamsIn(root)
+  const streams = streamsIn(root, existingIn(root))
   if (!argv.includes("--remove")) {
     for (const one of streams) {
       process.stdout.write(`${one.page}\t${one.section}\t${String(one.hours)}h\n`)

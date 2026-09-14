@@ -1,36 +1,150 @@
 import { expect, test } from "bun:test"
+import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import {
   keptFrom,
   packed,
-  propertyOf,
-  sectionOf,
+  sectionsOfType,
+  streamsIn,
+  streamThere,
 } from "akasha/pages/modules/record-sweeping/record-sweeping.module.code.ts"
 
-const CHECK = "checks/code-checks/pages/one/one.code-check.ts"
+type Held = Record<string, unknown>
 
-const HOOK = "agents/hooks/agent-hooks/one/one.agent-hook.ts"
+type Page = {
+  readonly name: string
+  readonly path: string
+}
 
-const WINDOWS: ReadonlyMap<string, number> = new Map([
-  ["entries", 24],
-  ["logs", 24],
+const HOURS = 24
+
+const VALUES = "value"
+
+const IDENTITY = "identity"
+
+const HOOK = "a/one.hook.ts"
+
+const CHECK = "b/two.check.ts"
+
+const GROUP = "c/audit.held-group.ts"
+
+const aType = (slug: string, above: readonly string[], properties: readonly Held[]): Held => ({
+  slug,
+  extends: above,
+  properties,
+})
+
+const aProperty = (slug: string, hours: number | null): Held =>
+  hours === null ? { slug, propertySlug: slug } : { slug, propertySlug: slug, keptForHours: hours }
+
+const TYPES: readonly Held[] = [
+  aType(
+    "page",
+    [],
+    [{ pageProperty: "file-property/entries" }, { pageProperty: "file-property/lines" }]
+  ),
+  aType("page-property", ["page-type/page"], []),
+  aType("file-property-group", ["page-type/page-property"], []),
+  aType("held-group", ["page-type/file-property-group"], [{ pageProperty: "file-property/logs" }]),
+  aType("hook", ["page-type/page"], []),
+  aType("check", ["page-type/page"], [{ pageProperty: "held-group/audit" }]),
+]
+
+const PROPERTIES: readonly Held[] = [
+  aProperty("entries", HOURS),
+  aProperty("logs", HOURS),
+  aProperty("lines", null),
+]
+
+const PAGES: ReadonlyMap<string, readonly Page[]> = new Map([
+  ["hook", [{ name: "one", path: HOOK }]],
+  ["check", [{ name: "two", path: CHECK }]],
+  ["held-group", [{ name: "audit", path: GROUP }]],
 ])
+
+function slugFolder(pageTypeSlug: string): string {
+  return `${IDENTITY}/page-type/${pageTypeSlug}/slug`
+}
+
+function linesOf(values: readonly Held[]): readonly string[] {
+  return values.map((one) => JSON.stringify({ path: `${String(one["slug"])}.page.ts`, value: one }))
+}
+
+const READING: Reading = {
+  holds: (at) => at === "",
+  listing: (at) => {
+    for (const [pageTypeSlug, pages] of PAGES) {
+      if (at !== slugFolder(pageTypeSlug)) continue
+      return pages.map((one) => ({ name: `${one.name}.jsonl`, directory: false }))
+    }
+    return []
+  },
+  lines: (at) => {
+    if (at === `${VALUES}/page-type.jsonl`) return linesOf(TYPES)
+    if (at === `${VALUES}/file-property.jsonl`) return linesOf(PROPERTIES)
+    for (const [pageTypeSlug, pages] of PAGES) {
+      for (const one of pages) {
+        if (at !== `${slugFolder(pageTypeSlug)}/${one.name}.jsonl`) continue
+        return [JSON.stringify({ path: one.path, id: one.name })]
+      }
+    }
+    return []
+  },
+  read: () => null,
+}
+
+const THERE: ReadonlySet<string> = new Set([
+  "a/one.hook.entries.uncommitted.jsonl",
+  "a/one.hook.lines.uncommitted.jsonl",
+  "b/two.check.audit.logs.part2.uncommitted.jsonl",
+])
+
+const existing = (at: string): boolean => THERE.has(at)
 
 function rowAt(at: string): string {
   return JSON.stringify({ runId: "one", ranAt: at })
 }
 
-test("a file held under a property stating a window is answered that property", () => {
-  expect(propertyOf("a/b.agent-hook.entries.uncommitted.jsonl", WINDOWS)).toBe("entries")
-  expect(propertyOf("a/b.code-check.check.logs.uncommitted.jsonl", WINDOWS)).toBe("logs")
+test("a page type is answered the windowed property it declares, through what it extends", () => {
+  expect([...(sectionsOfType(READING).get("hook") ?? [])]).toEqual([["entries", HOURS]])
 })
 
-test("a numbered part is answered the property that part carries", () => {
-  expect(propertyOf("a/b.agent-hook.entries.part7.uncommitted.jsonl", WINDOWS)).toBe("entries")
+test("a property stating no window is no section, so a file under it is swept by nothing", () => {
+  expect(sectionsOfType(READING).get("hook")?.has("lines")).toBe(false)
+  expect(streamsIn(READING, existing).map((one) => one.section)).not.toContain("lines")
 })
 
-test("a file held under a property stating no window is answered nothing", () => {
-  expect(propertyOf("a/b.seat-log-day.lines.uncommitted.jsonl", WINDOWS)).toBeNull()
-  expect(propertyOf("a/b.agent-hook.ts", WINDOWS)).toBeNull()
+test("a property reached through a file property group is a section under the group's slug", () => {
+  expect([...(sectionsOfType(READING).get("check") ?? [])].sort()).toEqual([
+    ["audit.entries", HOURS],
+    ["audit.logs", HOURS],
+    ["entries", HOURS],
+  ])
+})
+
+test("a page whose type states a window and whose file is there is one stream", () => {
+  expect(streamsIn(READING, existing)).toContainEqual({
+    page: HOOK,
+    section: "entries",
+    hours: HOURS,
+  })
+})
+
+test("a stream whose first part has been rolled away is found by the part beside it", () => {
+  expect(streamThere(CHECK, "audit.logs", existing)).toBe(true)
+  expect(streamsIn(READING, existing)).toContainEqual({
+    page: CHECK,
+    section: "audit.logs",
+    hours: HOURS,
+  })
+})
+
+test("a page with no file beside it under a windowed property is no stream", () => {
+  expect(streamThere(GROUP, "logs", existing)).toBe(false)
+  expect(streamsIn(READING, existing).map((one) => one.page)).not.toContain(GROUP)
+})
+
+test("the streams are what the pages derive rather than every file a listing names", () => {
+  expect(streamsIn(READING, existing).length).toBe(2)
 })
 
 test("a line that ran before the cutoff is dropped and one that ran after is kept", () => {
@@ -64,21 +178,4 @@ test("lines past the ceiling pack into a part of their own", () => {
 
 test("lines within the ceiling pack into one part", () => {
   expect(packed("aaaa\nbbbb\n", 10)).toEqual(["aaaa\nbbbb\n"])
-})
-
-test("a file sectioned under a group is answered that whole section", () => {
-  const at = "checks/code-checks/pages/one/one.code-check.check.logs.uncommitted.jsonl"
-  const audit = "checks/code-checks/pages/one/one.code-check.audit.logs.uncommitted.jsonl"
-  expect(sectionOf(CHECK, at)).toBe("check.logs")
-  expect(sectionOf(CHECK, audit)).toBe("audit.logs")
-})
-
-test("a numbered part is answered the section without its number", () => {
-  const at = "agents/hooks/agent-hooks/one/one.agent-hook.entries.part7.uncommitted.jsonl"
-  expect(sectionOf(HOOK, at)).toBe("entries")
-})
-
-test("a file that is beside no such page is answered nothing", () => {
-  const at = "agents/hooks/agent-hooks/two/two.agent-hook.entries.uncommitted.jsonl"
-  expect(sectionOf(HOOK, at)).toBeNull()
 })
