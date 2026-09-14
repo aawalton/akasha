@@ -45,6 +45,10 @@ export const builtImage = {
       invariantKind: "departure",
       statement: "An image adding nothing states no extensions.",
     },
+    {
+      invariantKind: "departure",
+      statement: "An image naming no package installer is built with apk.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType

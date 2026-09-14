@@ -1,10 +1,16 @@
 import { asBoolean } from "akasha/utils/narrow/modules/as-boolean/as-boolean.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import { isObjectRecord } from "akasha/utils/narrow/modules/is-object-record/is-object-record.module.code.ts"
 import { parseNumber } from "akasha/utils/narrow/modules/parse-number/parse-number.module.code.ts"
 import { stringIn } from "akasha/utils/narrow/modules/string-in/string-in.module.code.ts"
 
 const SERVICE_TYPES = ["nextjs", "bun-service", "tool-image"] as const
 export type ServiceType = (typeof SERVICE_TYPES)[number]
+
+const PACKAGE_INSTALLERS = ["apk", "apt"] as const
+export type PackageInstaller = (typeof PACKAGE_INSTALLERS)[number]
+
+const DEFAULT_INSTALLER: PackageInstaller = "apk"
 
 export interface ServiceConfig {
   type: ServiceType
@@ -34,6 +40,7 @@ export interface DockerfileExtensions {
   no_standalone_copy?: boolean
   no_default_build_args?: boolean
   system_packages?: readonly string[]
+  package_installer?: PackageInstaller
   single_stage?: boolean
   extra_run_commands?: readonly string[]
   expose_port?: number
@@ -73,6 +80,30 @@ function asExternalDonorsOrUndefined(
   })
 }
 
+function asPackageInstallerOrUndefined(value: unknown): PackageInstaller | undefined {
+  if (value === undefined) return undefined
+  const found = PACKAGE_INSTALLERS.find((one) => one === value)
+  if (found === undefined) {
+    throw new Error(`package_installer is one of ${PACKAGE_INSTALLERS.join(", ")}`)
+  }
+  return found
+}
+
+export function systemPackagesLine(ext: DockerfileExtensions): string | null {
+  const packages = ext.system_packages
+  if (packages === undefined || packages.length === 0) return null
+  const named = packages.join(" ")
+  const installer = ext.package_installer ?? DEFAULT_INSTALLER
+  switch (installer) {
+    case "apk":
+      return `RUN apk add --no-cache ${named}`
+    case "apt":
+      return `RUN apt-get update && apt-get install -y --no-install-recommends ${named} && rm -rf /var/lib/apt/lists/*`
+    default:
+      return assertNever(installer)
+  }
+}
+
 export function parseDockerfileExtensions(value: unknown): DockerfileExtensions {
   if (!isObjectRecord(value)) return {}
   return {
@@ -96,6 +127,7 @@ export function parseDockerfileExtensions(value: unknown): DockerfileExtensions 
     no_standalone_copy: asBoolean(value.no_standalone_copy),
     no_default_build_args: asBoolean(value.no_default_build_args),
     system_packages: asStringArrayOrUndefined(value.system_packages),
+    package_installer: asPackageInstallerOrUndefined(value.package_installer),
     single_stage: asBoolean(value.single_stage),
     extra_run_commands: asStringArrayOrUndefined(value.extra_run_commands),
     expose_port: parseNumber(value.expose_port),
