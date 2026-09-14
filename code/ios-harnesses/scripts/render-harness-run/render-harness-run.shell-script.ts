@@ -9,11 +9,11 @@ export const renderHarnessRun = {
   sourced: false,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A workstation that is not a mac hands the run to a workstation that is a mac.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The mac leg compiles the Swift sent to the mac leg rather than reading akasha.",
     },
   ],

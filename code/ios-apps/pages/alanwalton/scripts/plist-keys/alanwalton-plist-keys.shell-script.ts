@@ -9,21 +9,21 @@ export const alanwaltonPlistKeys = {
   sourced: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The plist has the health update usage key though nothing here writes health data.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Apple validates an upload against the HealthKit entitlement rather than the calls made.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An upload missing that key is refused with error 90683.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Deleting the key to narrow the request burns a release rather than tightening a release.",
     },

@@ -9,38 +9,38 @@ export const alanwaltonHealthIntentAnchoredDrain = {
   sourced: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The empty-page branch of the drain leaves the anchor where the anchor was.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An anchor advanced over an empty page puts every sample behind that anchor out of reach for good.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A failed upload leaves the anchor where the anchor was.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every sample in a batch the server refused is fetched again by the next run.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The seed window bounds a read only where there is no anchor to bound that read.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A date window beside an anchor drops the samples a run after a long outage would recover.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A metric that sent nothing routes into the backstop before the run reports on that metric.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Nothing new to send is never reported on the anchored read's word alone.",
     },
   ],

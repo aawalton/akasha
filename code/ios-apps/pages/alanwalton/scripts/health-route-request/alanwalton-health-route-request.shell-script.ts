@@ -9,23 +9,23 @@ export const alanwaltonHealthRouteRequest = {
   sourced: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A report reaches home from a run holding no credential.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reported user id that is nothing is written as null rather than left out.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A report the route could not take is kept and sent again by the next run.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A report sent late carries the instant the run made that report.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only an answer in the two hundreds counts as a report arriving.",
     },
   ],

@@ -10,28 +10,28 @@ export const alanwaltonHealthAnchoredRead = {
   sourced: true,
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "HealthKit hides read authorization.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An app cannot infer that a read was declined.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "A refused read comes back empty with a valid anchor and no error as a quiet read does.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A read that errored hands back the error that ended it.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "HealthKit's store is shut while the phone is locked.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A shut store and a refused read are told apart by the error code alone.",
     },
   ],

@@ -9,15 +9,15 @@ export const writeCapacitorConfig = {
   sourced: false,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The config is written at the root of the tree the shell sits in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An app's web directory and native sources are named from that root.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The plugins an app takes are the ones its page names rather than the root's whole list.",
     },

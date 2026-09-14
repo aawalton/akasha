@@ -9,7 +9,7 @@ export const alanwaltonHealthSamplesDrain = {
   sourced: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The part closing the intent's braces is sourced before any part written beside it.",
     },

@@ -9,12 +9,12 @@ export const repoRoots = {
   sourced: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The checkout is found by walking up from this script to the folder holding akasha's own page.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No count of folders is written between this script and that root.",
     },
   ],

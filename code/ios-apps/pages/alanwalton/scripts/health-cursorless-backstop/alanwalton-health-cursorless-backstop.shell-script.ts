@@ -9,20 +9,20 @@ export const alanwaltonHealthCursorlessBackstop = {
   sourced: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The backstop is a second reading.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The backstop reads with no cursor and persists nothing at all.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A second anchored read would inherit the very fault the backstop exists to catch.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Two readings part a quiet window from a read the app is not allowed to make.",
     },
   ],

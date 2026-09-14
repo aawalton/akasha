@@ -9,20 +9,20 @@ export const alanwaltonHealthIntentDeclaration = {
   sourced: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A build raising the state generation drops every anchor the device already has.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Repairing the drain without dropping the cursor ships a build that streams nothing.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing on the phone decides the bounds of a day.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every window over these samples is a query the server runs against stored rows.",
     },
   ],
