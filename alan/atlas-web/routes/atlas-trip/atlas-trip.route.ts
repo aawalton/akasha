@@ -4,7 +4,7 @@ export const atlasTrip = {
   id: "01a0883e-5a1e-7450-ac91-ba1c3f52e21b",
   type: "route",
   slug: "atlas-trip",
-  definition: "one location collection, named and said to carry stops nothing reaches",
+  definition: "one location collection and the locations naming it, listed as that trip's stops",
   code: "tsx",
   urlPath: "trip/:tripParam",
   invariants: [
@@ -13,12 +13,24 @@ export const atlasTrip = {
       statement: "A collection stating no title is titled Trip.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing reaches the locations that name a collection, so no stop is drawn.",
+      invariantKind: "departure",
+      statement: "A trip's stops are the locations whose collection is this collection's slug.",
     },
     {
       invariantKind: "departure",
-      statement: "The page says the stops went unasked rather than showing a map with none.",
+      statement: "A stop is drawn in scheduled order, and an unscheduled stop is drawn first.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "At most a thousand stops are drawn, and the page says so where more match.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A collection nothing names says so rather than drawing an empty list.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No map is drawn here, and the map route draws every location instead.",
     },
   ],
 } as const satisfies Route
