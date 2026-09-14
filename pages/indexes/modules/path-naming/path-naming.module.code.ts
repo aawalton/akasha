@@ -33,13 +33,17 @@ export function importingOf(
   return { importers: [...found].sort() }
 }
 
+export function namesFor(moved: ReadonlyMap<string, string>): readonly string[] {
+  return [...new Set([...moved.keys()].map((one) => basename(one)))]
+}
+
 export function spellersIn(
   paths: readonly string[],
   textAt: (path: string) => string | null,
   moved: ReadonlyMap<string, string>,
   known: ReadonlySet<string>
 ): readonly string[] {
-  const names = [...new Set([...moved.keys()].map((one) => basename(one)))]
+  const names = namesFor(moved)
   const found: string[] = []
   for (const path of paths) {
     if (moved.has(path) || known.has(path) || uncommittedHeld(path)) continue

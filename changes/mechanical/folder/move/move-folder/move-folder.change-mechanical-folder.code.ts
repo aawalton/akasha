@@ -11,8 +11,15 @@ import type {
 import { repointed } from "akasha/changes/modules/import-repointing/import-repointing.module.code.ts"
 import { renameManifestWays } from "akasha/changes/modules/manifest-ways/manifest-ways.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import {
+  EVERY_KIND,
+  pathsNaming,
+} from "akasha/changes/modules/tree-searching/tree-searching.module.code.ts"
 import { reachesIn } from "akasha/code/workspaces/modules/package-manifest/package-manifest.module.code.ts"
-import { spellersIn } from "akasha/pages/indexes/modules/path-naming/path-naming.module.code.ts"
+import {
+  namesFor,
+  spellersIn,
+} from "akasha/pages/indexes/modules/path-naming/path-naming.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
 
 const OUTSIDE = ".."
@@ -54,6 +61,21 @@ function searchable(world: World): (path: string) => string | null {
       return null
     }
   }
+}
+
+function namingFolder(
+  world: World,
+  folder: ReadonlyMap<string, string>,
+  known: ReadonlySet<string>
+): readonly string[] | string {
+  let found: readonly string[]
+  try {
+    found = pathsNaming(world, namesFor(folder), EVERY_KIND)
+  } catch (cause) {
+    const held = cause instanceof Error ? cause.message : String(cause)
+    return `${held}, so no folder was carried`
+  }
+  return spellersIn(found, searchable(world), folder, known)
 }
 
 type Text = (path: string) => string | null
@@ -121,7 +143,9 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   }
   const folder = new Map([[given.from, given.to]])
   const known = new Set(moved.keys())
-  for (const path of spellersIn(world.index.everyPath(), searchable(world), folder, known)) {
+  const spellers = namingFolder(world, folder, known)
+  if (typeof spellers === "string") return refusing(spellers)
+  for (const path of spellers) {
     const answer = repointed(world, { was: path, now: path, carried })
     if (answer.refused !== null) return answer
     edits.push(...answer.edits)

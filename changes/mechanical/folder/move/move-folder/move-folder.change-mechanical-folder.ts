@@ -68,6 +68,14 @@ export const moveFolder = {
     },
     {
       invariantKind: "departure",
+      statement: "The bodies read are the ones a search of the tree names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tree that could not be searched refuses rather than carrying nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body that would not read names no folder here.",
     },
     {

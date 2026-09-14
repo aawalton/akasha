@@ -261,3 +261,27 @@ test("every file under the folder is answered for without reaching a rung", asyn
   expect(said.refused).toBeNull()
   expect(reached).toEqual([])
 })
+
+const OUTER_PAGE = "akasha/five/outer.module.ts"
+
+const NAMES_FOUR = 'import { gamma } from "../four/deep/gamma.module.code.ts"\n'
+
+const NOWHERE = "/nowhere"
+
+test("the bodies read are the ones a search of the tree names", async () => {
+  const root = indexedRepo(HELD)
+  const read = textIn(root)
+  const world = worldOn(root, (path) => (path === OUTER_PAGE ? NAMES_FOUR : read(path)))
+  const said = await runChange(world, { from: FROM, to: INTO })
+
+  expect(said.refused).toBeNull()
+  expect(pathsIn(said)).not.toContain(OUTER_PAGE)
+})
+
+test("a tree that could not be searched refuses rather than carrying nothing", async () => {
+  const world = worldIn(indexedRepo(HELD))
+  const said = await runChange({ ...world, root: NOWHERE }, { from: FROM, to: INTO })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toContain("could not be searched")
+})
