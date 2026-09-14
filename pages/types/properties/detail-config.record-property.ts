@@ -7,7 +7,6 @@ export const detailConfig = {
   propertySlug: "detail-config",
   definition: "how one page of a page type is laid out where that page is read on its own",
   properties: [
-    { pageProperty: "text-property/detail-display", required: false, many: false },
     { pageProperty: "record-property/detail-frame", required: false, many: false },
     { pageProperty: "text-property/body-property-id", required: false, many: false },
     { pageProperty: "boolean-property/full-bleed", required: false, many: false },

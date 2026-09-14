@@ -14,24 +14,15 @@ export const alanWebPageDetail = {
     },
     {
       invariantKind: "departure",
-      statement: "An idle game has a drawing of its own.",
+      statement: "Every other page is drawn by the component its page type names.",
     },
     {
       invariantKind: "departure",
-      statement: "A chess game has a drawing of its own.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A chess review has a drawing of its own.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Asking for properties draws the properties rather than the game.",
+      statement: "Asking for properties draws the properties rather than that component.",
     },
     {
       invariantKind: "departure",
       statement: "A change to the speed or the variant asked for does not load the page again.",
     },
   ],
-  test: "tsx",
 } as const satisfies Route

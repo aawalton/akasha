@@ -9,7 +9,6 @@ import {
 import { resolveReaderNeighbors } from "akasha/alan/web/modules/alan-reader-neighbors/alan-reader-neighbors.module.code.ts"
 import { resolveMediaVariants } from "akasha/alan/web/modules/media-variants/media-variants.module.code.ts"
 import { resolveNextUnreadHref } from "akasha/alan/web/modules/next-unread/next-unread.module.code.ts"
-import { selectPageDisplayKind } from "akasha/alan/web/modules/page-display-kind/page-display-kind.module.code.ts"
 import {
   getPage,
   getPageByIdSuffix,
@@ -19,7 +18,6 @@ import {
 import { getDescendantPageTypeSlugs } from "akasha/pages/access/modules/page-type/page-type.module.code.ts"
 import {
   getMediaConfig,
-  getPropertyDefinitions,
   getSequenceConfig,
 } from "akasha/pages/access/modules/page-type-config/page-type-config.module.code.ts"
 import type { ReaderNeighborLink } from "akasha/pages/ui/components/modules/reader-chrome/reader-chrome.module.code.tsx"
@@ -34,14 +32,6 @@ import { data, type LoaderFunctionArgs } from "react-router"
 import { z } from "zod"
 
 const NAV_SLUG = "nav"
-const GAME_KEYS = ["externalId", "gameEngine"] as const
-
-async function gameKeysDeclaredBy(pageTypeSlug: ReturnType<typeof toPageTypeSlug>) {
-  const definitions = await getPropertyDefinitions({ pageTypeSlug })
-  const declared = new Set(definitions.map((one) => one.key))
-  return GAME_KEYS.filter((key) => declared.has(key))
-}
-const chessGamePgnSchema = z.string().catch("")
 const audioSentenceMarksSchema = z.array(sentenceMarkSchema)
 const READING_STORY_SLUG = "reading-story"
 
@@ -83,7 +73,7 @@ export async function loader({ params, request }: LoaderFunctionArgs) {
     pageTypeSlug: brandedSlug,
     idSuffix: parsed.idSuffix,
     slug: parsed.slug ?? undefined,
-    select: ["id", "title", ...(await gameKeysDeclaredBy(brandedSlug))],
+    select: ["id", "title"],
   })
 
   let resolvedSlug = pageTypeSlug
@@ -108,64 +98,6 @@ export async function loader({ params, request }: LoaderFunctionArgs) {
 
   if (id == null) {
     throw new Response("Not Found", { status: 404 })
-  }
-
-  const gameEngine = exact != null && typeof exact.gameEngine === "string" ? exact.gameEngine : null
-  const externalId = exact != null && typeof exact.externalId === "string" ? exact.externalId : null
-  const displayKind = selectPageDisplayKind({
-    configDisplay: undefined,
-    gameEngine,
-    externalId,
-  })
-
-  if (displayKind === "idle") {
-    return data(
-      {
-        kind: "idle" as const,
-        pageTypeSlug: resolvedSlug,
-        id,
-        faviconIdSuffix: null,
-        title,
-        frame: null,
-      },
-      { headers }
-    )
-  }
-  if (displayKind === "chess") {
-    return data(
-      {
-        kind: "chess-game" as const,
-        pageTypeSlug: resolvedSlug,
-        id,
-        initialFen: null,
-        initialPgn: null,
-        faviconIdSuffix: null,
-        title,
-      },
-      { headers }
-    )
-  }
-
-  if (displayKind === "chess-review") {
-    const chessRow = (
-      await getPages({
-        pageTypeSlug: resolvedSlug,
-        where: [{ key: "id", eq: id }],
-        limit: 1,
-      })
-    ).rows[0]
-    const pgn = chessGamePgnSchema.parse(chessRow?.pgn ?? "")
-    return data(
-      {
-        kind: "chess-review" as const,
-        pageTypeSlug: resolvedSlug,
-        id,
-        pgn,
-        faviconIdSuffix: null,
-        title,
-      },
-      { headers }
-    )
   }
 
   let audioVariants: readonly MediaVariant[] | null = null

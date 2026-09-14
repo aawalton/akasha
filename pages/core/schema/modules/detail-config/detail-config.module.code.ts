@@ -1,7 +1,5 @@
 import * as z from "zod"
 
-const displayKindSchema = z.string().regex(/^[a-z][a-z0-9-]*$/)
-
 const frameConfigSchema = z.object({
   edgeToEdge: z.boolean().optional(),
   focusMode: z.boolean().optional(),
@@ -23,7 +21,6 @@ const childCollectionSchema = z.object({
 })
 
 const detailConfigSchema = z.object({
-  display: displayKindSchema.optional(),
   frame: frameConfigSchema.optional(),
   bodyPropertyId: z.string().optional(),
   fullBleed: z.boolean().optional(),
@@ -45,8 +42,4 @@ export function parseDetailConfig(value: unknown): DetailConfig | undefined {
   if (value == null) return undefined
   const parsed = detailConfigSchema.safeParse(value)
   return parsed.success ? parsed.data : undefined
-}
-
-export function resolveDisplayKind(config: DetailConfig | undefined): string | undefined {
-  return config?.display
 }

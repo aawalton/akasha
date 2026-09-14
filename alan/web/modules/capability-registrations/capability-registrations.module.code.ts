@@ -1,4 +1,3 @@
-import "akasha/alan/web/modules/display-registrations/display-registrations.module.code.ts"
 import "akasha/alan/web/modules/idle-cover-click/idle-cover-click.module.code.ts"
 import "akasha/alan/web/modules/idle-train-verb/idle-train-verb.module.code.ts"
 import "akasha/alan/web/modules/idle-train10-verb/idle-train10-verb.module.code.ts"

@@ -1,16 +1,13 @@
 import { loader as pageDetailLoader } from "akasha/alan/web/.server/page-detail-loading/page-detail-loading.module.code.ts"
-import { OfflineDownloadButton } from "akasha/alan/web/modules/offline-download-button/offline-download-button.module.code.tsx"
+import { audioActionsFor } from "akasha/alan/web/modules/audio-download-offer/audio-download-offer.module.code.tsx"
 import { PageDetailErrorBoundary } from "akasha/alan/web/modules/page-detail-error-boundary/page-detail-error-boundary.module.code.tsx"
 import { ReaderNarrationDetail } from "akasha/alan/web/modules/reader-narration-detail/reader-narration-detail.module.code.tsx"
-import { PageDetailContent } from "akasha/pages/ui/components/modules/page-detail-content/page-detail-content.module.code.tsx"
 import { ViewPageContent } from "akasha/pages/ui/components/modules/view-page-content/view-page-content.module.code.tsx"
-import { ViewPageFrame } from "akasha/pages/ui/components/modules/view-page-frame/view-page-frame.module.code.tsx"
 import {
   DISPLAY_PARAM,
   parseDisplayMode,
 } from "akasha/pages/url/modules/page-display-mode/page-display-mode.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
-import { lazy, type ReactElement, Suspense } from "react"
 import {
   type MetaDescriptor,
   type ShouldRevalidateFunctionArgs,
@@ -18,10 +15,6 @@ import {
 } from "react-router"
 
 type PageDetailLoaderData = Awaited<ReturnType<typeof pageDetailLoader>>["data"]
-
-const IdleGame = lazy(() => import("akasha/alan/web/modules/idle-game/idle-game.module.code.tsx"))
-
-const ChessBoard = lazy(() => import("akasha/alan/chess/modules/board/chess-board.module.code.tsx"))
 
 function buildPageDetailMeta(
   loaderData: { title: string | null; faviconIdSuffix: string | null } | undefined
@@ -78,26 +71,6 @@ export function shouldRevalidate(args: ShouldRevalidateFunctionArgs): boolean {
 export const loader = pageDetailLoader
 export const ErrorBoundary = PageDetailErrorBoundary
 
-export function audioActionsFor(page: {
-  id: string
-  audioVariants?: readonly { id: string; label: string }[] | null
-  chapterTitle: string | null
-  chapterNumber: number | null
-  storyTitle: string | null
-}): ReactElement | undefined {
-  const variants = page.audioVariants ?? []
-  if (variants.length === 0) return undefined
-  return (
-    <OfflineDownloadButton
-      pageId={page.id}
-      chapterTitle={page.chapterTitle ?? ""}
-      chapterNumber={page.chapterNumber}
-      storyTitle={page.storyTitle}
-      variants={variants}
-    />
-  )
-}
-
 export default function PageDetailRoute({ loaderData }: { loaderData: PageDetailLoaderData }) {
   const [searchParams] = useSearchParams()
   const displayMode = parseDisplayMode(searchParams.get(DISPLAY_PARAM))
@@ -106,50 +79,10 @@ export default function PageDetailRoute({ loaderData }: { loaderData: PageDetail
     return <ViewPageContent navItemIdParam={loaderData.pageHrefParam} />
   }
 
-  if (
-    displayMode === "properties" &&
-    (loaderData.kind === "idle" ||
-      loaderData.kind === "chess-game" ||
-      loaderData.kind === "chess-review")
-  ) {
-    return (
-      <PageDetailContent
-        pageTypeSlug={toPageTypeSlug(loaderData.pageTypeSlug)}
-        id={loaderData.id}
-      />
-    )
-  }
-  if (loaderData.kind === "idle") {
-    return (
-      <Suspense fallback={null}>
-        <IdleGame title={loaderData.title} frameConfig={loaderData.frame} />
-      </Suspense>
-    )
-  }
-  if (loaderData.kind === "chess-game") {
-    return (
-      <ViewPageFrame>
-        <Suspense fallback={null}>
-          <ChessBoard
-            initialFen={loaderData.initialFen ?? undefined}
-            initialPgn={loaderData.initialPgn ?? undefined}
-          />
-        </Suspense>
-      </ViewPageFrame>
-    )
-  }
-  if (loaderData.kind === "chess-review") {
-    return (
-      <ViewPageFrame>
-        <Suspense fallback={null}>
-          <ChessBoard initialPgn={loaderData.pgn} />
-        </Suspense>
-      </ViewPageFrame>
-    )
-  }
   const brandedSlug = toPageTypeSlug(loaderData.pageTypeSlug)
   return (
     <ReaderNarrationDetail
+      drawnPlainly={displayMode === "properties"}
       pageTypeSlug={brandedSlug}
       id={loaderData.id}
       title={loaderData.title ?? ""}
