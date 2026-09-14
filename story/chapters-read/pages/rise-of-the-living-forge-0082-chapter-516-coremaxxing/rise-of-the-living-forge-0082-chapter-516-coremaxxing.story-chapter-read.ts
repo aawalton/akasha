@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0082Chapter516Coremaxxing = {
   story: "story-read/rise-of-the-living-forge",
   position: 82,
   ownLength: 1621,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

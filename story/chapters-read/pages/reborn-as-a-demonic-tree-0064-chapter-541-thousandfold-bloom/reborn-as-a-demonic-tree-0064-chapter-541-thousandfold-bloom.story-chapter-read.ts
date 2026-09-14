@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0064Chapter541ThousandfoldBloom = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 64,
   ownLength: 2227,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

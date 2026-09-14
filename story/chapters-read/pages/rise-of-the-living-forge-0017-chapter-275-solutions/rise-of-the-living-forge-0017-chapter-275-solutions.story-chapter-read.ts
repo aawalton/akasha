@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0017Chapter275Solutions = {
   story: "story-read/rise-of-the-living-forge",
   position: 17,
   ownLength: 1753,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

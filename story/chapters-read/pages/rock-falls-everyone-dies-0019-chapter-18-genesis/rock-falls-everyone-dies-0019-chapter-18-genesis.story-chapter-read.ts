@@ -8,7 +8,7 @@ export const rockFallsEveryoneDies0019Chapter18Genesis = {
   story: "rock-falls-everyone-dies",
   position: 19,
   ownLength: 2083,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0152Chapter152PhoenixBloodline = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 152,
   ownLength: 2425,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0022Chapter18AshrockColossus = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 22,
   ownLength: 2098,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

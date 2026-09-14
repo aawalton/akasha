@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0073Chapter550MoneyProblems = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 73,
   ownLength: 3150,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

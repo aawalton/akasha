@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0579ChapterSixtyOneLightsCameraBullshi
   story: "stray-cat-strut-stubbing-never-lol",
   position: 579,
   ownLength: 1523,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

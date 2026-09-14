@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0102Chapter632Tonight = {
   story: "story-read/rise-of-the-living-forge",
   position: 102,
   ownLength: 2751,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

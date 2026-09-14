@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0130Chapter130BlacksoilTuneller = 
   story: "phoenix-ascension-cultivation-litrpg",
   position: 130,
   ownLength: 2971,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

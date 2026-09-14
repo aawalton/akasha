@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0568ChapterFiftyOneAdamantiumToenails 
   story: "stray-cat-strut-stubbing-never-lol",
   position: 568,
   ownLength: 1470,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

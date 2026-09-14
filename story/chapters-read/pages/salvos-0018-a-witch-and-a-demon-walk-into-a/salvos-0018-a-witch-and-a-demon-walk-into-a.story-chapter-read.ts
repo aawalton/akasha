@@ -8,7 +8,7 @@ export const salvos0018AWitchAndADemonWalkIntoA = {
   story: "story-read/salvos",
   position: 18,
   ownLength: 242,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

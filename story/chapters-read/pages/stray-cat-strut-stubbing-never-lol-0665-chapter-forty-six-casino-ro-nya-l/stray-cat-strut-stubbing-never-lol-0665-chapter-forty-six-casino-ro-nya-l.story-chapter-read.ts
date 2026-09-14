@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0665ChapterFortySixCasinoRoNyaL = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 665,
   ownLength: 1453,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

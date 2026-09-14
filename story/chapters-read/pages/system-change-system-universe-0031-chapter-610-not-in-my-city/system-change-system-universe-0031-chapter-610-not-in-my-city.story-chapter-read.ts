@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0031Chapter610NotInMyCity = {
   story: "system-change-system-universe",
   position: 31,
   ownLength: 2258,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

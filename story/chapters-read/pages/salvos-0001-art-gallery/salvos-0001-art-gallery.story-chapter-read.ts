@@ -8,7 +8,7 @@ export const salvos0001ArtGallery = {
   story: "story-read/salvos",
   position: 1,
   ownLength: 285,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

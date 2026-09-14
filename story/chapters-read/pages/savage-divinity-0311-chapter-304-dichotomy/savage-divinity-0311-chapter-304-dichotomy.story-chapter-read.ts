@@ -8,7 +8,7 @@ export const savageDivinity0311Chapter304Dichotomy = {
   story: "savage-divinity",
   position: 311,
   ownLength: 3106,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

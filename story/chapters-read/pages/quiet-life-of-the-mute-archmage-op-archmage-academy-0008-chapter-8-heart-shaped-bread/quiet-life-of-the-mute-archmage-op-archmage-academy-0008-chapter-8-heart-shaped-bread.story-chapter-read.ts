@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0008Chapter8HeartShapedB
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 8,
   ownLength: 2244,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

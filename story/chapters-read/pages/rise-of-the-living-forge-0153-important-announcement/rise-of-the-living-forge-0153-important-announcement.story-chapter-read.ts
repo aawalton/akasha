@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0153ImportantAnnouncement = {
   story: "story-read/rise-of-the-living-forge",
   position: 153,
   ownLength: 327,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

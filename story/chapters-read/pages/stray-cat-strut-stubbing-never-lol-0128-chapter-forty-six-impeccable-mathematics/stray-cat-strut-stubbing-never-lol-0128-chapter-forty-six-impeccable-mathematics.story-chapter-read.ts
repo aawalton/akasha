@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0128ChapterFortySixImpeccableMathemati
   story: "stray-cat-strut-stubbing-never-lol",
   position: 128,
   ownLength: 1543,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const salvos00241682NobodyEndOfV3 = {
   story: "story-read/salvos",
   position: 24,
   ownLength: 2003,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

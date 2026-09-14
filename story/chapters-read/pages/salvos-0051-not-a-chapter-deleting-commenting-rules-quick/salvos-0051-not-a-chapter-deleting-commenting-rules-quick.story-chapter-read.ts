@@ -8,7 +8,7 @@ export const salvos0051NotAChapterDeletingCommentingRulesQuick = {
   story: "story-read/salvos",
   position: 51,
   ownLength: 110,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

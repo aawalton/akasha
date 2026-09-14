@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0155Chapter587AndMajorAnnouncement = {
   story: "story-read/rise-of-the-living-forge",
   position: 155,
   ownLength: 1708,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

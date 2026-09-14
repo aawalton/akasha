@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0505390TheBrokenButUnbreakableIi358
   story: "path-of-the-deathless-book-4-completed",
   position: 505,
   ownLength: 5418,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0036Chapter35CrunchTimeInTheLab
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 36,
   ownLength: 1993,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

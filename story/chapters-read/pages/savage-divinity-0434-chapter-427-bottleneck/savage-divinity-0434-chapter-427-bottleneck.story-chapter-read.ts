@@ -8,7 +8,7 @@ export const savageDivinity0434Chapter427Bottleneck = {
   story: "savage-divinity",
   position: 434,
   ownLength: 3475,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

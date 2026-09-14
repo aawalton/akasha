@@ -8,7 +8,7 @@ export const rockFallsEveryoneDies0009Chapter85OkMaybeSomethingDidActuallyHappen
   story: "rock-falls-everyone-dies",
   position: 9,
   ownLength: 1397,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

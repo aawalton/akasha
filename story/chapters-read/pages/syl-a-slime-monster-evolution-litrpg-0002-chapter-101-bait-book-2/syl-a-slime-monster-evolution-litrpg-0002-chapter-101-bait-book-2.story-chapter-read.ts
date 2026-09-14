@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0002Chapter101BaitBook2 = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 2,
   ownLength: 2006,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

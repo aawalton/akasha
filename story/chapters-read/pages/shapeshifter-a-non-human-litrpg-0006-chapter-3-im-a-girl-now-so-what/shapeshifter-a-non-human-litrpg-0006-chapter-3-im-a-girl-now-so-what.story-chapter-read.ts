@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0006Chapter3ImAGirlNowSoWhat = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 6,
   ownLength: 1951,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

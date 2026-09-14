@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0129Chapter129Ginseng = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 129,
   ownLength: 2354,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

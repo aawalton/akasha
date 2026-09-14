@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0524406TheStormThatDreamedI = {
   story: "path-of-the-deathless-book-4-completed",
   position: 524,
   ownLength: 5154,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

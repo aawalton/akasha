@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0445ChapterFortyCreativeKleptomania = 
   story: "stray-cat-strut-stubbing-never-lol",
   position: 445,
   ownLength: 1468,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

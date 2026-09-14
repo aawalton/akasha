@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0482ChapterSixtyTwoMiniatureWargaming 
   story: "stray-cat-strut-stubbing-never-lol",
   position: 482,
   ownLength: 1511,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

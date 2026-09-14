@@ -6,7 +6,7 @@ export const pathOfTheDeathlessBook4Completed0472Book4IsOut = {
   slug: "path-of-the-deathless-book-4-completed-0472-book-4-is-out",
   position: 472,
   publishedAt: "2026-09-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

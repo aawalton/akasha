@@ -8,7 +8,7 @@ export const salvos0082525RuinsAnnouncement = {
   story: "story-read/salvos",
   position: 82,
   ownLength: 2021,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0068Chapter67TheSeaSpiderChroni
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 68,
   ownLength: 2399,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

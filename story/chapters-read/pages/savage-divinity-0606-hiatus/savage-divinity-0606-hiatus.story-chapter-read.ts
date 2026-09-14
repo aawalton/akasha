@@ -8,7 +8,7 @@ export const savageDivinity0606Hiatus = {
   story: "savage-divinity",
   position: 606,
   ownLength: 220,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

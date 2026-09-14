@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0053Chapter486Reunion = {
   story: "story-read/rise-of-the-living-forge",
   position: 53,
   ownLength: 1514,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

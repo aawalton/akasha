@@ -8,7 +8,7 @@ export const salvos0083526NetherworldDungeon = {
   story: "story-read/salvos",
   position: 83,
   ownLength: 1660,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

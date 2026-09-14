@@ -8,7 +8,7 @@ export const speedrunningTheMultiverseComplete0044288TheChimera = {
   story: "speedrunning-the-multiverse-complete",
   position: 44,
   ownLength: 1552,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const salvos0122716Betrayal = {
   story: "story-read/salvos",
   position: 122,
   ownLength: 1780,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

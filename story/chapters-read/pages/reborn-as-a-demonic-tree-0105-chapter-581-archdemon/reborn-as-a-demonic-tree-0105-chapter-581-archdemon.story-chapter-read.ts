@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0105Chapter581Archdemon = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 105,
   ownLength: 2758,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

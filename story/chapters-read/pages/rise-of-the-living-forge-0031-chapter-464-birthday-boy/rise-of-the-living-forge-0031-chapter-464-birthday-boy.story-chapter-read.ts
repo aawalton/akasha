@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0031Chapter464BirthdayBoy = {
   story: "story-read/rise-of-the-living-forge",
   position: 31,
   ownLength: 2702,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const rockFallsEveryoneDies0016Chapter15DoomsdayMeteor = {
   story: "rock-falls-everyone-dies",
   position: 16,
   ownLength: 1566,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

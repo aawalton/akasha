@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0019Chapter17MissionSucc
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 19,
   ownLength: 2080,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

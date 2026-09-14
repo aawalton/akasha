@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0071Chapter71SlayingTheBear = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 71,
   ownLength: 2420,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

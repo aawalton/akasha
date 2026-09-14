@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0191Chapter622Blake = {
   story: "story-read/rise-of-the-living-forge",
   position: 191,
   ownLength: 2077,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

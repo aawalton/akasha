@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0384ScsFanfictionContestWinnerAboveThe
   story: "stray-cat-strut-stubbing-never-lol",
   position: 384,
   ownLength: 5496,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

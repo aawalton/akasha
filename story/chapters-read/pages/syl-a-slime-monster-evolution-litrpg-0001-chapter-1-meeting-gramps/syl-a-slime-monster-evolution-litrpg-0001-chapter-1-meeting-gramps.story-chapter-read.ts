@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0001Chapter1MeetingGramps = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 1,
   ownLength: 1487,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0049Chapter4822ndTimeSTheCharm = {
   story: "story-read/rise-of-the-living-forge",
   position: 49,
   ownLength: 1597,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

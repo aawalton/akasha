@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0068Chapter501And502TheCrimsonNightAndImportant
   story: "story-read/rise-of-the-living-forge",
   position: 68,
   ownLength: 3954,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0042Chapter122RemnantsOfABygoneAge = {
   story: "the-calamitous-bob-stubbed",
   position: 42,
   ownLength: 6877,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

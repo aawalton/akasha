@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0182Chapter614Snakes = {
   story: "story-read/rise-of-the-living-forge",
   position: 182,
   ownLength: 1849,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

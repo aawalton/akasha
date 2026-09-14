@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0508ChapterTenRainbowsOfDeath = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 508,
   ownLength: 1487,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

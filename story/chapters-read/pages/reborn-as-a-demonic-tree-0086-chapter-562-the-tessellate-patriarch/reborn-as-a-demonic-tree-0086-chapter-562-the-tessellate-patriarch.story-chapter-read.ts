@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0086Chapter562TheTessellatePatriarch = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 86,
   ownLength: 2723,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

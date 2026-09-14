@@ -8,7 +8,7 @@ export const salvos0133726ImprovedWorld = {
   story: "story-read/salvos",
   position: 133,
   ownLength: 1531,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

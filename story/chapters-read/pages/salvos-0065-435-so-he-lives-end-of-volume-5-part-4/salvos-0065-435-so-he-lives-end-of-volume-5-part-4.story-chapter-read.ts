@@ -8,7 +8,7 @@ export const salvos0065435SoHeLivesEndOfVolume5Part4 = {
   story: "story-read/salvos",
   position: 65,
   ownLength: 1797,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

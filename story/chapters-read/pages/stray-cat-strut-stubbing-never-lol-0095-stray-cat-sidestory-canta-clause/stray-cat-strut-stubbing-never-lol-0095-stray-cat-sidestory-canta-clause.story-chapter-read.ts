@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0095StrayCatSidestoryCantaClause = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 95,
   ownLength: 1431,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

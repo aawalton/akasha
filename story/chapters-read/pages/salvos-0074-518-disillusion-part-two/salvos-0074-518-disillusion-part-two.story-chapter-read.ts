@@ -8,7 +8,7 @@ export const salvos0074518DisillusionPartTwo = {
   story: "story-read/salvos",
   position: 74,
   ownLength: 2624,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

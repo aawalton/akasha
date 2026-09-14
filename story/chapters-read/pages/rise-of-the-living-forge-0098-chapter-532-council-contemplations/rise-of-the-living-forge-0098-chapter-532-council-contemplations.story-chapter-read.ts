@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0098Chapter532CouncilContemplations = {
   story: "story-read/rise-of-the-living-forge",
   position: 98,
   ownLength: 1618,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0656ChapterThirtySevenTheRolodexGambit
   story: "stray-cat-strut-stubbing-never-lol",
   position: 656,
   ownLength: 1494,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

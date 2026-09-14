@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0444337TheBoilingToad3282610 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 444,
   ownLength: 5663,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

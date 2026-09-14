@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0052Chapter630FirstKill = {
   story: "system-change-system-universe",
   position: 52,
   ownLength: 2089,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

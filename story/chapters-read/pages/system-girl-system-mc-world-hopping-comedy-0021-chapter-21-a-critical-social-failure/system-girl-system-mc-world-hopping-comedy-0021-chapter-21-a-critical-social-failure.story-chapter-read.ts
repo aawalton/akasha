@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0021Chapter21ACriticalSocialFai
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 21,
   ownLength: 2205,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

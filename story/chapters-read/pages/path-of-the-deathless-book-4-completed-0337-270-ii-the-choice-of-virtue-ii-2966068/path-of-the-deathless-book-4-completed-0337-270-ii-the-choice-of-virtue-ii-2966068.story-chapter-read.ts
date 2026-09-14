@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0337270IiTheChoiceOfVirtueIi2966068
   story: "path-of-the-deathless-book-4-completed",
   position: 337,
   ownLength: 2370,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

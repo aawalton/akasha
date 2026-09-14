@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0548ChapterThirtySevenHonestSamuraiRev
   story: "stray-cat-strut-stubbing-never-lol",
   position: 548,
   ownLength: 1492,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

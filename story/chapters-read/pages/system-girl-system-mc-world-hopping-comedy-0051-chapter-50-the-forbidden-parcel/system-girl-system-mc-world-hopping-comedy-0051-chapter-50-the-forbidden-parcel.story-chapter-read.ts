@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0051Chapter50TheForbiddenParcel
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 51,
   ownLength: 2477,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

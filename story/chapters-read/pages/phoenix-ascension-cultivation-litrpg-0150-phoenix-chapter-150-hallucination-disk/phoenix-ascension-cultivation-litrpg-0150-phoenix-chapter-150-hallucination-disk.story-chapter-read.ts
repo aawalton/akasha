@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0150PhoenixChapter150Hallucination
   story: "phoenix-ascension-cultivation-litrpg",
   position: 150,
   ownLength: 2141,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

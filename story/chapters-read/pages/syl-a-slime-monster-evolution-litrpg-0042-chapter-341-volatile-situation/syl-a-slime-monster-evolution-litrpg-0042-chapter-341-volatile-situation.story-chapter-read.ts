@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0042Chapter341VolatileSituation = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 42,
   ownLength: 2186,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

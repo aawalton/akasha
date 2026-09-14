@@ -8,7 +8,7 @@ export const salvos0123717Insanity = {
   story: "story-read/salvos",
   position: 123,
   ownLength: 1457,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

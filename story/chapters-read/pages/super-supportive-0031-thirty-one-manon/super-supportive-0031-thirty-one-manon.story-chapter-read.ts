@@ -8,7 +8,7 @@ export const superSupportive0031ThirtyOneManon = {
   story: "super-supportive",
   position: 31,
   ownLength: 4135,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

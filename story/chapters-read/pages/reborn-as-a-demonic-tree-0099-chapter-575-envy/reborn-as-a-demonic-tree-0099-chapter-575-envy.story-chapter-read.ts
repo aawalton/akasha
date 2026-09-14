@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0099Chapter575Envy = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 99,
   ownLength: 2627,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

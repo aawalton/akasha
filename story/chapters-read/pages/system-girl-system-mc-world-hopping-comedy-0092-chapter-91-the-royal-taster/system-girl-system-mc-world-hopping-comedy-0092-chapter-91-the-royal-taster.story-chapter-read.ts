@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0092Chapter91TheRoyalTaster = {
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 92,
   ownLength: 2514,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -6,7 +6,7 @@ export const phoenixAscensionCultivationLitrpg0174Chapter174Eaten = {
   slug: "phoenix-ascension-cultivation-litrpg-0174-chapter-174-eaten",
   position: 174,
   publishedAt: "2026-09-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

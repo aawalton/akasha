@@ -8,7 +8,7 @@ export const superSupportive0077SeventySixTheRescueGame = {
   story: "super-supportive",
   position: 77,
   ownLength: 7091,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

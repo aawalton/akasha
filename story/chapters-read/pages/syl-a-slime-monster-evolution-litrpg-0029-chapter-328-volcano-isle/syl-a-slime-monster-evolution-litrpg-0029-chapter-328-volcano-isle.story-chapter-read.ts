@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0029Chapter328VolcanoIsle = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 29,
   ownLength: 2154,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

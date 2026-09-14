@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0293AiPocryphaTwoAiWrittenChapterSegme
   story: "stray-cat-strut-stubbing-never-lol",
   position: 293,
   ownLength: 1500,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const savageDivinity0373HateToDoThisToYouAllButItMustBeDone = {
   story: "savage-divinity",
   position: 373,
   ownLength: 172,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

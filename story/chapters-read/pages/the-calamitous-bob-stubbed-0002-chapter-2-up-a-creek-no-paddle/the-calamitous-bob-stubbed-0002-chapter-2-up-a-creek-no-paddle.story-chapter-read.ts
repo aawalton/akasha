@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0002Chapter2UpACreekNoPaddle = {
   story: "the-calamitous-bob-stubbed",
   position: 2,
   ownLength: 4958,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

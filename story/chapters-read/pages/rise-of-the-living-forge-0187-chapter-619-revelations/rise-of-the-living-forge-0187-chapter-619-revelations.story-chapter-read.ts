@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0187Chapter619Revelations = {
   story: "story-read/rise-of-the-living-forge",
   position: 187,
   ownLength: 1747,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

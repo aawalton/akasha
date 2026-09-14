@@ -8,7 +8,7 @@ export const superSupportive0255TwoHundredFiftyThreeTwoKindsOfBeauty = {
   story: "super-supportive",
   position: 255,
   ownLength: 4155,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

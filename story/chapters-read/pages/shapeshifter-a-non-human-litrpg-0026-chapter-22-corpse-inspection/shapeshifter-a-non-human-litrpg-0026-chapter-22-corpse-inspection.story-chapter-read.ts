@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0026Chapter22CorpseInspection = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 26,
   ownLength: 1710,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const salvos0132725GrandSkillPoints = {
   story: "story-read/salvos",
   position: 132,
   ownLength: 1504,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

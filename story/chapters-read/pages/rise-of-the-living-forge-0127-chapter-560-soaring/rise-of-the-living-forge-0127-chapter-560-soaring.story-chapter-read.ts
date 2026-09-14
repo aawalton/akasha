@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0127Chapter560Soaring = {
   story: "story-read/rise-of-the-living-forge",
   position: 127,
   ownLength: 1864,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0193Chapter624Motivational = {
   story: "story-read/rise-of-the-living-forge",
   position: 193,
   ownLength: 1775,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

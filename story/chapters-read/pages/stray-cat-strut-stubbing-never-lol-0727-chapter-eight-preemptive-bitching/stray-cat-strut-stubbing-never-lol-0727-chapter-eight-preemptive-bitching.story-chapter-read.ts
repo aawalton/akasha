@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0727ChapterEightPreemptiveBitching = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 727,
   ownLength: 1487,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const savageDivinity0472Chapter464Turnabout = {
   story: "savage-divinity",
   position: 472,
   ownLength: 3800,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

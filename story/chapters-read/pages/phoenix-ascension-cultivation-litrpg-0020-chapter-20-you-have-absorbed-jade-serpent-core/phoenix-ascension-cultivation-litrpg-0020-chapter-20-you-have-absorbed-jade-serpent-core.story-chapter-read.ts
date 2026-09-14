@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0020Chapter20YouHaveAbsorbedJadeSe
   story: "phoenix-ascension-cultivation-litrpg",
   position: 20,
   ownLength: 3403,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

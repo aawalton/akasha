@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0136Chapter569StreetSweeper = {
   story: "story-read/rise-of-the-living-forge",
   position: 136,
   ownLength: 1618,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

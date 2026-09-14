@@ -6,7 +6,7 @@ export const rebornAsADemonicTree0091Chapter616SunGod = {
   slug: "reborn-as-a-demonic-tree-0091-chapter-616-sun-god",
   position: 91,
   publishedAt: "2026-09-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

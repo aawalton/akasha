@@ -8,7 +8,7 @@ export const salvos0054NewFicAnnouncementTheraNotAChapter = {
   story: "story-read/salvos",
   position: 54,
   ownLength: 3175,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

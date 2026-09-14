@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0054Chapter134TheCracks = {
   story: "the-calamitous-bob-stubbed",
   position: 54,
   ownLength: 4948,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

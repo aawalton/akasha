@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0047Chapter480CountingWithMen = {
   story: "story-read/rise-of-the-living-forge",
   position: 47,
   ownLength: 1632,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

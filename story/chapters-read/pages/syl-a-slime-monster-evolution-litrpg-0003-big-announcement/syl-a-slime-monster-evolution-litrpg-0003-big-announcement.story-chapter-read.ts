@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0003BigAnnouncement = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 3,
   ownLength: 500,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

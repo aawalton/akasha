@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0172Chapter604Scrap = {
   story: "story-read/rise-of-the-living-forge",
   position: 172,
   ownLength: 1834,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

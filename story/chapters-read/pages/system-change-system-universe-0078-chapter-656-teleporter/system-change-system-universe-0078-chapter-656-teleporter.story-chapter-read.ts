@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0078Chapter656Teleporter = {
   story: "system-change-system-universe",
   position: 78,
   ownLength: 2054,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

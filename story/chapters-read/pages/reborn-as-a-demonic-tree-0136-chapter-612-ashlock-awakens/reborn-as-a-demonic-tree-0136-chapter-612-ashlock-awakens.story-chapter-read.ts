@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0136Chapter612AshlockAwakens = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 136,
   ownLength: 3014,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

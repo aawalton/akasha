@@ -8,7 +8,7 @@ export const rockFallsEveryoneDies0008Chapter8LiterallyNothingHappensFor500Years
   story: "rock-falls-everyone-dies",
   position: 8,
   ownLength: 67,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

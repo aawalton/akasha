@@ -8,7 +8,7 @@ export const sherlyTheMostVirtuousHolyCow0028Chapter28CowVersusShervisvile = {
   story: "sherly-the-most-virtuous-holy-cow",
   position: 28,
   ownLength: 2007,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

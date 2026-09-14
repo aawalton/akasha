@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0033Chapter33CopperDemonSkinnyDemo
   story: "phoenix-ascension-cultivation-litrpg",
   position: 33,
   ownLength: 2145,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

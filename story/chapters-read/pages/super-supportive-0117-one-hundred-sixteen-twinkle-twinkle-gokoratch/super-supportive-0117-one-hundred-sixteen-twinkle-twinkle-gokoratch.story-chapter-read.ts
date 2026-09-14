@@ -8,7 +8,7 @@ export const superSupportive0117OneHundredSixteenTwinkleTwinkleGokoratch = {
   story: "super-supportive",
   position: 117,
   ownLength: 4827,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

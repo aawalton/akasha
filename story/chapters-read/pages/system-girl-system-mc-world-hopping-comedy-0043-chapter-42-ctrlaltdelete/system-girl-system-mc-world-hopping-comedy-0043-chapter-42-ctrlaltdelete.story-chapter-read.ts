@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0043Chapter42Ctrlaltdelete = {
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 43,
   ownLength: 1719,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const salvos0078521UniqueStartOfVolume6Part1book10 = {
   story: "story-read/salvos",
   position: 78,
   ownLength: 1622,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

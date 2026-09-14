@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0102Chapter101TheTickingClock =
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 102,
   ownLength: 2293,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

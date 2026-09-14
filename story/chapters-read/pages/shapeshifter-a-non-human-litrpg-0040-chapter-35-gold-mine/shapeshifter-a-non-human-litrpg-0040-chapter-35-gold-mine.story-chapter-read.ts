@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0040Chapter35GoldMine = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 40,
   ownLength: 1909,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

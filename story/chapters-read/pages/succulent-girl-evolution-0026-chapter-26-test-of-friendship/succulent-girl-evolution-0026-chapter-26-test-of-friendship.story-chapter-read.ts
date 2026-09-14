@@ -8,7 +8,7 @@ export const succulentGirlEvolution0026Chapter26TestOfFriendship = {
   story: "succulent-girl-evolution",
   position: 26,
   ownLength: 2182,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

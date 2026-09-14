@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0538ChapterThirtyTwoThisOneTimeInBible
   story: "stray-cat-strut-stubbing-never-lol",
   position: 538,
   ownLength: 1463,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

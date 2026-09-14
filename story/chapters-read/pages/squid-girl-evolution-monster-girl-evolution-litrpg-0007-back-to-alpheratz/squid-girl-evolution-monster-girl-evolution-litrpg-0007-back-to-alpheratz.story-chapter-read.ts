@@ -8,7 +8,7 @@ export const squidGirlEvolutionMonsterGirlEvolutionLitrpg0007BackToAlpheratz = {
   story: "squid-girl-evolution-monster-girl-evolution-litrpg",
   position: 7,
   ownLength: 1724,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

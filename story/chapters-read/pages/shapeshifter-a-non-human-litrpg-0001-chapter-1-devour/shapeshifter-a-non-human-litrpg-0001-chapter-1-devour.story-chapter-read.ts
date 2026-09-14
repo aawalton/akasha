@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0001Chapter1Devour = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 1,
   ownLength: 2571,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

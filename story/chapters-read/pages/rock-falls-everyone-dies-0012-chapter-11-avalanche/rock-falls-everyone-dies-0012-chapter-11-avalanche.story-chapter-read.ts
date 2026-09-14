@@ -8,7 +8,7 @@ export const rockFallsEveryoneDies0012Chapter11Avalanche = {
   story: "rock-falls-everyone-dies",
   position: 12,
   ownLength: 2236,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

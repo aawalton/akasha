@@ -8,7 +8,7 @@ export const salvos0092AfterOverTwoYearsTheSalvosWebcomicIs = {
   story: "story-read/salvos",
   position: 92,
   ownLength: 1,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

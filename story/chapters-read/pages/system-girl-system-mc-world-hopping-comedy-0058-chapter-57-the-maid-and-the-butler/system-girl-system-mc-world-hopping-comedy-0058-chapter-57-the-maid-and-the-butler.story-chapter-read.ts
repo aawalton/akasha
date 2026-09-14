@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0058Chapter57TheMaidAndTheButle
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 58,
   ownLength: 3408,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

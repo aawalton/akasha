@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0509ChapterElevenATeachableMoment = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 509,
   ownLength: 1449,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

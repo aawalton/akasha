@@ -8,7 +8,7 @@ export const superSupportive0034ThirtyFourFishing = {
   story: "super-supportive",
   position: 34,
   ownLength: 4296,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

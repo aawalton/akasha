@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0035Chapter35IWillNeverGiveUp = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 35,
   ownLength: 2200,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

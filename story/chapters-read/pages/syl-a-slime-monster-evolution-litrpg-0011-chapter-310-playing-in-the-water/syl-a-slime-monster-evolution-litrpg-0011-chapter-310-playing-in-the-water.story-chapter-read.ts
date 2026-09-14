@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0011Chapter310PlayingInTheWater = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 11,
   ownLength: 2284,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

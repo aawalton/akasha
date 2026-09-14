@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0020Chapter278LookWhatIVeGot = {
   story: "story-read/rise-of-the-living-forge",
   position: 20,
   ownLength: 3158,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0045Chapter478Mouth = {
   story: "story-read/rise-of-the-living-forge",
   position: 45,
   ownLength: 2236,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

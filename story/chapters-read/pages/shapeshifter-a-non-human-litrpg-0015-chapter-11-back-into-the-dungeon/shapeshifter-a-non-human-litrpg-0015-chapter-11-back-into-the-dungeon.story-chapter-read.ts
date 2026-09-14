@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0015Chapter11BackIntoTheDungeon = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 15,
   ownLength: 1997,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

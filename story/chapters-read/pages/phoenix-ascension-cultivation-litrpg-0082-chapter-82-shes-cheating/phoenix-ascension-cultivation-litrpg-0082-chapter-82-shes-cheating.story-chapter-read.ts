@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0082Chapter82ShesCheating = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 82,
   ownLength: 2506,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0069Chapter68TheMythOfTheMichel
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 69,
   ownLength: 2228,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

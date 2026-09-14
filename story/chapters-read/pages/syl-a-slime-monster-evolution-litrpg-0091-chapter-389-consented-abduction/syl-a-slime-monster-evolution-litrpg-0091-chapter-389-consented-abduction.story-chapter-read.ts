@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0091Chapter389ConsentedAbduction = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 91,
   ownLength: 2216,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

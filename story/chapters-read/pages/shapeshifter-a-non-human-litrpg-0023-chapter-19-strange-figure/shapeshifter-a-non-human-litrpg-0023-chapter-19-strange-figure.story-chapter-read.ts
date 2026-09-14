@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0023Chapter19StrangeFigure = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 23,
   ownLength: 1950,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

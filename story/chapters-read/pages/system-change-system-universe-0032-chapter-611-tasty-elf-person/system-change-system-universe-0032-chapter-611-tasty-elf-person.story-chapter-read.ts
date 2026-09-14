@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0032Chapter611TastyElfPerson = {
   story: "system-change-system-universe",
   position: 32,
   ownLength: 2240,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

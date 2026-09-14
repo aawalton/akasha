@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0572ChapterFiftyFourBurnedscarredbutch
   story: "stray-cat-strut-stubbing-never-lol",
   position: 572,
   ownLength: 1542,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

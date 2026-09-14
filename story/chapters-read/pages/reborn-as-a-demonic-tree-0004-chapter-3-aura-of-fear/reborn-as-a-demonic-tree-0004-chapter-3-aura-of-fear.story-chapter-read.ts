@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0004Chapter3AuraOfFear = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 4,
   ownLength: 1502,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

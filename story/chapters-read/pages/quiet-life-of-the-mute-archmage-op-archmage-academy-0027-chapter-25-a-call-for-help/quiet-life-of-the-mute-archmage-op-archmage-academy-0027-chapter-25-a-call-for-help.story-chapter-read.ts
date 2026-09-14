@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0027Chapter25ACallForHel
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 27,
   ownLength: 2732,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

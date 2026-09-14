@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0161Chapter161AnotherDuel = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 161,
   ownLength: 2048,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

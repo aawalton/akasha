@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0085Chapter519AReminder = {
   story: "story-read/rise-of-the-living-forge",
   position: 85,
   ownLength: 1506,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

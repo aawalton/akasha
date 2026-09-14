@@ -8,7 +8,7 @@ export const salvos0076520RevelationEndOfVolume5Part5 = {
   story: "story-read/salvos",
   position: 76,
   ownLength: 667,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

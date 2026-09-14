@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0048Chapter481ThereWasOne = {
   story: "story-read/rise-of-the-living-forge",
   position: 48,
   ownLength: 2075,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

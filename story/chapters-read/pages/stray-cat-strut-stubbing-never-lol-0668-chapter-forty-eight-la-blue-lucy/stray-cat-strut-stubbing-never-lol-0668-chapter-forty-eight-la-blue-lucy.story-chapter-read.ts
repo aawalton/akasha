@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0668ChapterFortyEightLaBlueLucy = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 668,
   ownLength: 1490,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

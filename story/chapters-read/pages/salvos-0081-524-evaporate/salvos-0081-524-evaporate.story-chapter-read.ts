@@ -8,7 +8,7 @@ export const salvos0081524Evaporate = {
   story: "story-read/salvos",
   position: 81,
   ownLength: 2578,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

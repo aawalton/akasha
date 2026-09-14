@@ -8,7 +8,7 @@ export const salvos0131724NotALotOfOptionsStartOfBook14 = {
   story: "story-read/salvos",
   position: 131,
   ownLength: 1600,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

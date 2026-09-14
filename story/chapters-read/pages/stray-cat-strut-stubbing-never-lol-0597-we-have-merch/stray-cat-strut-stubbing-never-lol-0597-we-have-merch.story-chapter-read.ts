@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0597WeHaveMerch = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 597,
   ownLength: 213,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

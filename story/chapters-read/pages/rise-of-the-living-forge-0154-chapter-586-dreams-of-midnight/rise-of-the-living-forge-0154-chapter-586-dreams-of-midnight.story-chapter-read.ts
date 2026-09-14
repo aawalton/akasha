@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0154Chapter586DreamsOfMidnight = {
   story: "story-read/rise-of-the-living-forge",
   position: 154,
   ownLength: 2010,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

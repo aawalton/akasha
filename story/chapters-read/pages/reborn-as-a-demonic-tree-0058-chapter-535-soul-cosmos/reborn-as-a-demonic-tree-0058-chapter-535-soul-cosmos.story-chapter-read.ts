@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0058Chapter535SoulCosmos = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 58,
   ownLength: 3030,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

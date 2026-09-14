@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0084Chapter662Hawthorne = {
   story: "system-change-system-universe",
   position: 84,
   ownLength: 2032,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0182ChapterFifteenTheCulturesBeneath =
   story: "stray-cat-strut-stubbing-never-lol",
   position: 182,
   ownLength: 1369,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

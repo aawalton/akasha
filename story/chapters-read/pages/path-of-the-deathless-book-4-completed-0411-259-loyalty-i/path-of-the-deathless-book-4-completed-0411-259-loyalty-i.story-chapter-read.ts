@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0411259LoyaltyI = {
   story: "path-of-the-deathless-book-4-completed",
   position: 411,
   ownLength: 0,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

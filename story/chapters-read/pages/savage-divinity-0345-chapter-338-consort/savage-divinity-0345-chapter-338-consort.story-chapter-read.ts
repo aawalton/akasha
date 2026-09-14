@@ -8,7 +8,7 @@ export const savageDivinity0345Chapter338Consort = {
   story: "savage-divinity",
   position: 345,
   ownLength: 3558,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

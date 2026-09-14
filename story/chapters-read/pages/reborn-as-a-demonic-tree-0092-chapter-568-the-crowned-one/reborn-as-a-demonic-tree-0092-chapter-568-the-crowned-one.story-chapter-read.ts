@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0092Chapter568TheCrownedOne = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 92,
   ownLength: 2230,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

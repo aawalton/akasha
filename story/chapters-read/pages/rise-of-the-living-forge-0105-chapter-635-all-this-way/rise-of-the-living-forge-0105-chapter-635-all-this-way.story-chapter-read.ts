@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0105Chapter635AllThisWay = {
   story: "story-read/rise-of-the-living-forge",
   position: 105,
   ownLength: 1680,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

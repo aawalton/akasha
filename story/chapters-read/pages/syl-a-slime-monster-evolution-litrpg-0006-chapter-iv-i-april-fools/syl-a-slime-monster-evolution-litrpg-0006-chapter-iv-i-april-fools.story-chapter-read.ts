@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0006ChapterIvIAprilFools = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 6,
   ownLength: 8114,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

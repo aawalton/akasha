@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0018Chapter254EtherealRootsStartOfBook4 = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 18,
   ownLength: 2804,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

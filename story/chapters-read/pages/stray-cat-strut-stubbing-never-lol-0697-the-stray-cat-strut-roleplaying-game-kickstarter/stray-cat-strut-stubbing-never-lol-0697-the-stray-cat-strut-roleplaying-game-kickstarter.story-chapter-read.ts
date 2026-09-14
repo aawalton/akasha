@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0697TheStrayCatStrutRoleplayingGameKic
   story: "stray-cat-strut-stubbing-never-lol",
   position: 697,
   ownLength: 185,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

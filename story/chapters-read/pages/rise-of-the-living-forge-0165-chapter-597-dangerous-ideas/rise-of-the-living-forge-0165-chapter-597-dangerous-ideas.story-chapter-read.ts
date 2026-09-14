@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0165Chapter597DangerousIdeas = {
   story: "story-read/rise-of-the-living-forge",
   position: 165,
   ownLength: 1749,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

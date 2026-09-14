@@ -7,7 +7,7 @@ export const riseOfTheLivingForge0114Chapter644TheFinalStrike = {
   story: "story-read/rise-of-the-living-forge",
   position: 114,
   publishedAt: "2026-09-03",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

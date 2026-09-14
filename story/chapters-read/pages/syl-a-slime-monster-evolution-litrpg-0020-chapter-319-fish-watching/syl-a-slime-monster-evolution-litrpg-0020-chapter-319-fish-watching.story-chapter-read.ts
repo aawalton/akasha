@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0020Chapter319FishWatching = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 20,
   ownLength: 2286,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

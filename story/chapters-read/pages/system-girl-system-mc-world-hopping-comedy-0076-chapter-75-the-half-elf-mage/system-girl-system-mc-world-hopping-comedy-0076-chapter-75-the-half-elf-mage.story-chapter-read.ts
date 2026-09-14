@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0076Chapter75TheHalfElfMage = {
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 76,
   ownLength: 2030,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

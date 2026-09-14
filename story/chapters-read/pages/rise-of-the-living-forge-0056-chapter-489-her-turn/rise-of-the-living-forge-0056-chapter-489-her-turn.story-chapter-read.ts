@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0056Chapter489HerTurn = {
   story: "story-read/rise-of-the-living-forge",
   position: 56,
   ownLength: 1669,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

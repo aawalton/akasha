@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0092Chapter526SuspiciousStatue = {
   story: "story-read/rise-of-the-living-forge",
   position: 92,
   ownLength: 2165,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

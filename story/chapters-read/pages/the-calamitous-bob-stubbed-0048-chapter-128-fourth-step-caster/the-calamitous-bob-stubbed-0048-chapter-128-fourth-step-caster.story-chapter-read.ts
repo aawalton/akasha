@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0048Chapter128FourthStepCaster = {
   story: "the-calamitous-bob-stubbed",
   position: 48,
   ownLength: 6137,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

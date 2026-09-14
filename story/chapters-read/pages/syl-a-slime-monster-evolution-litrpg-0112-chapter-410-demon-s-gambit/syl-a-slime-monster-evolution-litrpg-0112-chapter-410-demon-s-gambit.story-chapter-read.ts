@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0112Chapter410DemonSGambit = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 112,
   ownLength: 2670,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

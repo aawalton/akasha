@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0112Chapter642Reaching = {
   story: "story-read/rise-of-the-living-forge",
   position: 112,
   ownLength: 1868,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

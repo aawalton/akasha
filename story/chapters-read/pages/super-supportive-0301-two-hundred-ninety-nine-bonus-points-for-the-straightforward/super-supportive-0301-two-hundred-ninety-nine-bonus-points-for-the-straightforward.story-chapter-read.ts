@@ -8,7 +8,7 @@ export const superSupportive0301TwoHundredNinetyNineBonusPointsForTheStraightfor
   story: "super-supportive",
   position: 301,
   ownLength: 4367,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

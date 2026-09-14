@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0067Chapter366SplittingAndSharing = 
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 67,
   ownLength: 2560,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

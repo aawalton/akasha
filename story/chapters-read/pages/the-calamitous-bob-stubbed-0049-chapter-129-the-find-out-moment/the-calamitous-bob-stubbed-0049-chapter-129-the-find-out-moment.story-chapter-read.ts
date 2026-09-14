@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0049Chapter129TheFindOutMoment = {
   story: "the-calamitous-bob-stubbed",
   position: 49,
   ownLength: 4349,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0563445TheBattleAfterTheBattle = {
   story: "path-of-the-deathless-book-4-completed",
   position: 563,
   ownLength: 5153,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

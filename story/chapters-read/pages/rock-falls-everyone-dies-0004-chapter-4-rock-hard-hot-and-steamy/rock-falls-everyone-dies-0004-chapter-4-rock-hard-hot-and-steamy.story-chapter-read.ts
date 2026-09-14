@@ -8,7 +8,7 @@ export const rockFallsEveryoneDies0004Chapter4RockHardHotAndSteamy = {
   story: "rock-falls-everyone-dies",
   position: 4,
   ownLength: 1819,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

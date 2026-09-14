@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0092Chapter670TanyaTheNotSoEvil = {
   story: "system-change-system-universe",
   position: 92,
   ownLength: 2066,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

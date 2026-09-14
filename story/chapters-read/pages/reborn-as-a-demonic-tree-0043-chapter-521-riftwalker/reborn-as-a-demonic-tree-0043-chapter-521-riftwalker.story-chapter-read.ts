@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0043Chapter521Riftwalker = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 43,
   ownLength: 2580,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

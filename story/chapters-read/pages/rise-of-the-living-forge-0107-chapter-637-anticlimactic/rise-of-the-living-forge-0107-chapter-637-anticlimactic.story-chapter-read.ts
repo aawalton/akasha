@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0107Chapter637Anticlimactic = {
   story: "story-read/rise-of-the-living-forge",
   position: 107,
   ownLength: 2177,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

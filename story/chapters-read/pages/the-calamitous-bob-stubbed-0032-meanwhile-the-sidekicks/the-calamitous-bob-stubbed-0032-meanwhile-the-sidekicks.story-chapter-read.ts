@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0032MeanwhileTheSidekicks = {
   story: "the-calamitous-bob-stubbed",
   position: 32,
   ownLength: 1087,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

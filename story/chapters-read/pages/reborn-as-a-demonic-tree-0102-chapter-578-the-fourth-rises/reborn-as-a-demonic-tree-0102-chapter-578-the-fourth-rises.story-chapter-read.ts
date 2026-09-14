@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0102Chapter578TheFourthRises = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 102,
   ownLength: 3156,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

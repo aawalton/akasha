@@ -8,7 +8,7 @@ export const salvos0094563FreshmanStartOfBook11 = {
   story: "story-read/salvos",
   position: 94,
   ownLength: 1629,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

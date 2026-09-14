@@ -6,7 +6,7 @@ export const systemGirlSystemMcWorldHoppingComedy0104Chapter103AMoonlitPlateForT
   slug: "system-girl-system-mc-world-hopping-comedy-0104-chapter-103-a-moonlit-plate-for-the-beast",
   position: 104,
   publishedAt: "2026-09-12",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const salvos0063SalvosBook8IsNowAvailableOnTheAmazonStore = {
   story: "story-read/salvos",
   position: 63,
   ownLength: 212,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0059Chapter492Dash = {
   story: "story-read/rise-of-the-living-forge",
   position: 59,
   ownLength: 1539,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

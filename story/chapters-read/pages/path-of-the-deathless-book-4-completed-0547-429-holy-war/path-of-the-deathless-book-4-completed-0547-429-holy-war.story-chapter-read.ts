@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0547429HolyWar = {
   story: "path-of-the-deathless-book-4-completed",
   position: 547,
   ownLength: 5940,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

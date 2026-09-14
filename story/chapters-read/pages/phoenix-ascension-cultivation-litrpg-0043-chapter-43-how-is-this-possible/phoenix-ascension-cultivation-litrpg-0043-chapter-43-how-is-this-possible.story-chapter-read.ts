@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0043Chapter43HowIsThisPossible = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 43,
   ownLength: 1913,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

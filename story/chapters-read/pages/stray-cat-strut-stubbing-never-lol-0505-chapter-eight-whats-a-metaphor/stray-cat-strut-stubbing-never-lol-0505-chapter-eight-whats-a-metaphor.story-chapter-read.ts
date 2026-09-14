@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0505ChapterEightWhatsAMetaphor = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 505,
   ownLength: 1445,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

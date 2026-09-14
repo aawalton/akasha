@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0009Chapter90Spiders = {
   story: "the-calamitous-bob-stubbed",
   position: 9,
   ownLength: 4290,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

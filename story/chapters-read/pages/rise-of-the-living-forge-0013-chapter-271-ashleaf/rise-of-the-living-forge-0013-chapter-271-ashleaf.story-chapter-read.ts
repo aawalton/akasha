@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0013Chapter271Ashleaf = {
   story: "story-read/rise-of-the-living-forge",
   position: 13,
   ownLength: 2116,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

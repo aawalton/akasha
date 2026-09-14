@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0022Chapter103AcademyApprovedBattleMagic = {
   story: "the-calamitous-bob-stubbed",
   position: 22,
   ownLength: 5947,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

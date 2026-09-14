@@ -8,7 +8,7 @@ export const squidGirlEvolutionMonsterGirlEvolutionLitrpg0006Streambomb = {
   story: "squid-girl-evolution-monster-girl-evolution-litrpg",
   position: 6,
   ownLength: 3146,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

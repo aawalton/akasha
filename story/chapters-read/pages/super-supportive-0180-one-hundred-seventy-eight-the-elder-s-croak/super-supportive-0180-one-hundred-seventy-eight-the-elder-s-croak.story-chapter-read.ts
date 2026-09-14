@@ -8,7 +8,7 @@ export const superSupportive0180OneHundredSeventyEightTheElderSCroak = {
   story: "super-supportive",
   position: 180,
   ownLength: 5293,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

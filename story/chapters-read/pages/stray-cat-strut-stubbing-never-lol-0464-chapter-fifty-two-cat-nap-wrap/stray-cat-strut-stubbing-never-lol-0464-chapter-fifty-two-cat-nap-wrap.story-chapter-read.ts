@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0464ChapterFiftyTwoCatNapWrap = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 464,
   ownLength: 1436,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

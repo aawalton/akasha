@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0079ChapterATaleOfNiceTailsFeaturingACertain
   story: "the-calamitous-bob-stubbed",
   position: 79,
   ownLength: 8723,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0018Chapter99TheTasteOfFreedom = {
   story: "the-calamitous-bob-stubbed",
   position: 18,
   ownLength: 5568,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

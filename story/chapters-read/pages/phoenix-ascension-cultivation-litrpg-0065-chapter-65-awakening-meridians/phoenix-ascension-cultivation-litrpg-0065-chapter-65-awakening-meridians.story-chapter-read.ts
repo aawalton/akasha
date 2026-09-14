@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0065Chapter65AwakeningMeridians = 
   story: "phoenix-ascension-cultivation-litrpg",
   position: 65,
   ownLength: 2249,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

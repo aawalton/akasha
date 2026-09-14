@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0067Chapter645IsItLuck = {
   story: "system-change-system-universe",
   position: 67,
   ownLength: 2942,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

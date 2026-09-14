@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0120Chapter418CleanSpend = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 120,
   ownLength: 2878,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

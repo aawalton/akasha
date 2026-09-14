@@ -6,7 +6,7 @@ export const superSupportive0308ThreeHundredSixJumpAboard = {
   slug: "super-supportive-0308-three-hundred-six-jump-aboard",
   position: 308,
   publishedAt: "2026-09-12",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

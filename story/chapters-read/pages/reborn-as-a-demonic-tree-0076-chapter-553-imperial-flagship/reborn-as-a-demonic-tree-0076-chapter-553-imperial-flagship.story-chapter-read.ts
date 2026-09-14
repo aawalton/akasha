@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0076Chapter553ImperialFlagship = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 76,
   ownLength: 2599,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

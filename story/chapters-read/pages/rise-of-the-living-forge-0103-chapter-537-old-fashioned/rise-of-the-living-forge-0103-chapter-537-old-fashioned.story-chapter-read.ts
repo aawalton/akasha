@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0103Chapter537OldFashioned = {
   story: "story-read/rise-of-the-living-forge",
   position: 103,
   ownLength: 2160,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

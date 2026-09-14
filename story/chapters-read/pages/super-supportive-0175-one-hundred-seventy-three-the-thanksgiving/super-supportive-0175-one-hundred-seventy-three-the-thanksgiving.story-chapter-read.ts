@@ -8,7 +8,7 @@ export const superSupportive0175OneHundredSeventyThreeTheThanksgiving = {
   story: "super-supportive",
   position: 175,
   ownLength: 5297,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

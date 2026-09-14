@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0152Chapter585QuestionsForASmith = {
   story: "story-read/rise-of-the-living-forge",
   position: 152,
   ownLength: 2009,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

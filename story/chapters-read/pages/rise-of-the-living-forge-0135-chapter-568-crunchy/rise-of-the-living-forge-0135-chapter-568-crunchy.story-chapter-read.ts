@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0135Chapter568Crunchy = {
   story: "story-read/rise-of-the-living-forge",
   position: 135,
   ownLength: 1834,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

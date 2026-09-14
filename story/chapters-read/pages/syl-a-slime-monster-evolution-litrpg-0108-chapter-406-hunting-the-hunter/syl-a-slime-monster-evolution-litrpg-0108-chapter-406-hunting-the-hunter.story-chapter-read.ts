@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0108Chapter406HuntingTheHunter = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 108,
   ownLength: 2466,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

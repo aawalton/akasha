@@ -8,7 +8,7 @@ export const superSupportive0253TwoHundredFiftyOneTheSecondBlossom = {
   story: "super-supportive",
   position: 253,
   ownLength: 4196,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

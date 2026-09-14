@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0015Chapter14OneStepAtAT
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 15,
   ownLength: 1860,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

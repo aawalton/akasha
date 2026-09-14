@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0443336TheRipple3278390 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 443,
   ownLength: 5537,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0058Chapter491Sunset = {
   story: "story-read/rise-of-the-living-forge",
   position: 58,
   ownLength: 1604,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const superSupportive0122OneHundredTwentyOneAvalanche = {
   story: "super-supportive",
   position: 122,
   ownLength: 8154,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

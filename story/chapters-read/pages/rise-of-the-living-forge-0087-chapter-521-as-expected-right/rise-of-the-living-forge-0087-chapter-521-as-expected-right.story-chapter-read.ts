@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0087Chapter521AsExpectedRight = {
   story: "story-read/rise-of-the-living-forge",
   position: 87,
   ownLength: 1848,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

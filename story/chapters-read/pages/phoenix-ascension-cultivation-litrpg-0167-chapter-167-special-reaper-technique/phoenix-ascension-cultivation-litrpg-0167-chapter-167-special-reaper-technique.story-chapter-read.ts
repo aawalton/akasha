@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0167Chapter167SpecialReaperTechniq
   story: "phoenix-ascension-cultivation-litrpg",
   position: 167,
   ownLength: 2179,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

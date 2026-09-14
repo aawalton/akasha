@@ -8,7 +8,7 @@ export const superSupportive0082EightyOneOCruzamento = {
   story: "super-supportive",
   position: 82,
   ownLength: 2310,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

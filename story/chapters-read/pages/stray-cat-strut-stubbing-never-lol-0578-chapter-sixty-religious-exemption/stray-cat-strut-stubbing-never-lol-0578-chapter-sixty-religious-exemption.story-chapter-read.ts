@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0578ChapterSixtyReligiousExemption = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 578,
   ownLength: 1509,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

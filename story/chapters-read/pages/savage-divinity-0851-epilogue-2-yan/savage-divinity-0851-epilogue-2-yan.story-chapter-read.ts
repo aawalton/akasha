@@ -8,7 +8,7 @@ export const savageDivinity0851Epilogue2Yan = {
   story: "savage-divinity",
   position: 851,
   ownLength: 7254,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

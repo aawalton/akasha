@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0483368FriendAndFoe3466717 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 483,
   ownLength: 5473,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

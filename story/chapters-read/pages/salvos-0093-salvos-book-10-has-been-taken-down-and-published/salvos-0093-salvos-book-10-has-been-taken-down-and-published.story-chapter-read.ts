@@ -8,7 +8,7 @@ export const salvos0093SalvosBook10HasBeenTakenDownAndPublished = {
   story: "story-read/salvos",
   position: 93,
   ownLength: 147,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

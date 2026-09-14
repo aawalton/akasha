@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0100Chapter99TheCostOfGrainAndM
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 100,
   ownLength: 1947,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

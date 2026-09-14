@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0050Chapter483TheLineButNotThatOneAndGeneralNot
   story: "story-read/rise-of-the-living-forge",
   position: 50,
   ownLength: 1783,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

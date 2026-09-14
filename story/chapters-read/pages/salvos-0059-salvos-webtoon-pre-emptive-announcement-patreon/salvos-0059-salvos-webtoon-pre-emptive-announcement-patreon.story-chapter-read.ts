@@ -8,7 +8,7 @@ export const salvos0059SalvosWebtoonPreEmptiveAnnouncementPatreon = {
   story: "story-read/salvos",
   position: 59,
   ownLength: 1076,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

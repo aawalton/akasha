@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0004Chapter4Tiers = {
   story: "story-read/rise-of-the-living-forge",
   position: 4,
   ownLength: 2267,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

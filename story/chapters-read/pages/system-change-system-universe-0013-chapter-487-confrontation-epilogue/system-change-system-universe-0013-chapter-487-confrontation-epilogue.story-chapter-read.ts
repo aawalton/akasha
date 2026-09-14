@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0013Chapter487ConfrontationEpilogue = {
   story: "system-change-system-universe",
   position: 13,
   ownLength: 4209,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

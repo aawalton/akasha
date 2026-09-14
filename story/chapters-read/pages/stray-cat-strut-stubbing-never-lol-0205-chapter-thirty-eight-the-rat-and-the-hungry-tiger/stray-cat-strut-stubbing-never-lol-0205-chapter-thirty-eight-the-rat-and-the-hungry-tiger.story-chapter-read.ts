@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0205ChapterThirtyEightTheRatAndTheHung
   story: "stray-cat-strut-stubbing-never-lol",
   position: 205,
   ownLength: 1427,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

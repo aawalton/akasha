@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0028Chapter24AbyssalRift = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 28,
   ownLength: 1720,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

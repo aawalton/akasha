@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0103Chapter633OneLastTime = {
   story: "story-read/rise-of-the-living-forge",
   position: 103,
   ownLength: 1685,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

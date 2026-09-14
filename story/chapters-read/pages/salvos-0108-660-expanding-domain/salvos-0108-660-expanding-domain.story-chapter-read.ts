@@ -8,7 +8,7 @@ export const salvos0108660ExpandingDomain = {
   story: "story-read/salvos",
   position: 108,
   ownLength: 1570,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

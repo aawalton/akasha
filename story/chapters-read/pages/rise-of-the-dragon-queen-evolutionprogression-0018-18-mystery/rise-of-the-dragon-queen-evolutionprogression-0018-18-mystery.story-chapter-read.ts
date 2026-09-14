@@ -8,7 +8,7 @@ export const riseOfTheDragonQueenEvolutionprogression001818Mystery = {
   story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 18,
   ownLength: 1949,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0056Chapter56HeadingIntoTheVillage
   story: "phoenix-ascension-cultivation-litrpg",
   position: 56,
   ownLength: 3819,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

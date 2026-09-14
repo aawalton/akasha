@@ -8,7 +8,7 @@ export const speedrunningTheMultiverseComplete0043287TheGoddessOfLightXiv = {
   story: "speedrunning-the-multiverse-complete",
   position: 43,
   ownLength: 2010,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

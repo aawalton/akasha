@@ -8,7 +8,7 @@ export const superSupportive0247TwoHundredFortyFiveBrosABromeliadAndAPackOrHerdO
   story: "super-supportive",
   position: 247,
   ownLength: 2294,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

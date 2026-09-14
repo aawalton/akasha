@@ -8,7 +8,7 @@ export const superSupportive0108OneHundredSevenOppositeStone = {
   story: "super-supportive",
   position: 108,
   ownLength: 5231,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

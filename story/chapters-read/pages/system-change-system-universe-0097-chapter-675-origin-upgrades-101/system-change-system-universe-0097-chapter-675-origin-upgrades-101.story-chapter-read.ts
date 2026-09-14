@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0097Chapter675OriginUpgrades101 = {
   story: "system-change-system-universe",
   position: 97,
   ownLength: 2111,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

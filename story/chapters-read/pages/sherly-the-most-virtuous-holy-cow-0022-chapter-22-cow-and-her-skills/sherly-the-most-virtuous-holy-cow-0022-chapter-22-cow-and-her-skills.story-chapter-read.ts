@@ -8,7 +8,7 @@ export const sherlyTheMostVirtuousHolyCow0022Chapter22CowAndHerSkills = {
   story: "sherly-the-most-virtuous-holy-cow",
   position: 22,
   ownLength: 1748,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0021Chapter21Splurging = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 21,
   ownLength: 2455,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

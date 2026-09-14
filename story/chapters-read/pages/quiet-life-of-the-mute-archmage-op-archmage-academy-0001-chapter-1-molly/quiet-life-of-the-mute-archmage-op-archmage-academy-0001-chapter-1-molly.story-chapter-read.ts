@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0001Chapter1Molly = {
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 1,
   ownLength: 3398,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

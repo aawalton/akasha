@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0023Chapter21BreadBaking
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 23,
   ownLength: 3268,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

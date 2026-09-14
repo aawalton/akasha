@@ -8,7 +8,7 @@ export const rockFallsEveryoneDies0006Chapter6OneStoneBreaksBone = {
   story: "rock-falls-everyone-dies",
   position: 6,
   ownLength: 2037,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

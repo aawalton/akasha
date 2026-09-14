@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0021Chapter19AWalkToTheB
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 21,
   ownLength: 1707,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

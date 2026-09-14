@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0073Chapter73TheLittleEmperorIsInT
   story: "phoenix-ascension-cultivation-litrpg",
   position: 73,
   ownLength: 2214,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

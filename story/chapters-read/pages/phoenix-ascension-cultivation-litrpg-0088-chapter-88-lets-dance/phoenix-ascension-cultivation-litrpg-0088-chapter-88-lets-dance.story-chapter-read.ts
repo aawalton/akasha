@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0088Chapter88LetsDance = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 88,
   ownLength: 2089,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

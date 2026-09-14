@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0031Chapter112TheGirlWithTheDragon = {
   story: "the-calamitous-bob-stubbed",
   position: 31,
   ownLength: 4904,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const superSupportive0032ThirtyTwoChaining = {
   story: "super-supportive",
   position: 32,
   ownLength: 4034,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

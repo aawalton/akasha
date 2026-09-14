@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0113Chapter589FleetCommander = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 113,
   ownLength: 2369,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

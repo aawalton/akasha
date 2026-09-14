@@ -6,7 +6,7 @@ export const pathOfTheDeathlessBook4Completed0473456EnemyUnknown = {
   slug: "path-of-the-deathless-book-4-completed-0473-456-enemy-unknown",
   position: 473,
   publishedAt: "2026-09-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

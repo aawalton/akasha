@@ -8,7 +8,7 @@ export const superSupportive0115OneHundredFourteenTheChainerCoda = {
   story: "super-supportive",
   position: 115,
   ownLength: 20746,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

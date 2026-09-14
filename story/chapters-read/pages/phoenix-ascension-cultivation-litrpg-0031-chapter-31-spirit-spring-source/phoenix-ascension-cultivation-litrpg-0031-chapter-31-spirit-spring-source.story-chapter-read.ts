@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0031Chapter31SpiritSpringSource = 
   story: "phoenix-ascension-cultivation-litrpg",
   position: 31,
   ownLength: 2565,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

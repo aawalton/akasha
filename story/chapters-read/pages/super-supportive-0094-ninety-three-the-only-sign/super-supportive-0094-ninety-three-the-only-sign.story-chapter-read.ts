@@ -8,7 +8,7 @@ export const superSupportive0094NinetyThreeTheOnlySign = {
   story: "super-supportive",
   position: 94,
   ownLength: 5237,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const superSupportive0178OneHundredSeventySixClassNotes = {
   story: "super-supportive",
   position: 178,
   ownLength: 5010,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

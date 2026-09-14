@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0171Chapter603NotQuiteImpossible = {
   story: "story-read/rise-of-the-living-forge",
   position: 171,
   ownLength: 1735,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

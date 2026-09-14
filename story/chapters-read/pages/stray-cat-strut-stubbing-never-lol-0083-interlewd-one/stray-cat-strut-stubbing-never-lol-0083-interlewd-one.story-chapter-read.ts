@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0083InterlewdOne = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 83,
   ownLength: 1115,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

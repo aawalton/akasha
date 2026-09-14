@@ -8,7 +8,7 @@ export const salvos0116668MysticalAssassinEndOfBook12 = {
   story: "story-read/salvos",
   position: 116,
   ownLength: 1324,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

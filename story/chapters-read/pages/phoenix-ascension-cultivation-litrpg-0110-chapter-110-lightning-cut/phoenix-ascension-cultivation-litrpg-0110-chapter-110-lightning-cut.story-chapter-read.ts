@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0110Chapter110LightningCut = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 110,
   ownLength: 2363,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const succulentGirlEvolution0022Chapter22CharacterGrowthAtTheWrongTime = 
   story: "succulent-girl-evolution",
   position: 22,
   ownLength: 2398,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

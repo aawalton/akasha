@@ -8,7 +8,7 @@ export const squidGirlEvolutionMonsterGirlEvolutionLitrpg0008Fleshmob = {
   story: "squid-girl-evolution-monster-girl-evolution-litrpg",
   position: 8,
   ownLength: 3187,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

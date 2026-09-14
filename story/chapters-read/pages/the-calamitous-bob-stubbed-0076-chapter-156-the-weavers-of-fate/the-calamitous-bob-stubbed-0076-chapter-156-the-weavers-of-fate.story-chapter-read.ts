@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0076Chapter156TheWeaversOfFate = {
   story: "the-calamitous-bob-stubbed",
   position: 76,
   ownLength: 7063,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

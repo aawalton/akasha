@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0582InterludeStayAtHomePrManagergf = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 582,
   ownLength: 1448,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

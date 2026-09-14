@@ -8,7 +8,7 @@ export const rockFallsEveryoneDies0011Chapter10AQuarryToSettle = {
   story: "rock-falls-everyone-dies",
   position: 11,
   ownLength: 2368,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

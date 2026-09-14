@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0055Chapter633FavoritePastime = {
   story: "system-change-system-universe",
   position: 55,
   ownLength: 2148,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

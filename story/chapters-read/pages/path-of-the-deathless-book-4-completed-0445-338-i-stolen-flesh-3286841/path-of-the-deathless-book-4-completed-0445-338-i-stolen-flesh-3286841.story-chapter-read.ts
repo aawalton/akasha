@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0445338IStolenFlesh3286841 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 445,
   ownLength: 2899,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

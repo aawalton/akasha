@@ -8,7 +8,7 @@ export const salvos0111663TheFallOfTheFairiesPartTwo = {
   story: "story-read/salvos",
   position: 111,
   ownLength: 1770,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

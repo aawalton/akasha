@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0025Chapter25MenDieForTreasureBird
   story: "phoenix-ascension-cultivation-litrpg",
   position: 25,
   ownLength: 2323,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

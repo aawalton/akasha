@@ -9,7 +9,7 @@ export const salvos0058SalvosBook7IsNowAvailableOnAmazonAlso = {
   story: "story-read/salvos",
   position: 58,
   ownLength: 111,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

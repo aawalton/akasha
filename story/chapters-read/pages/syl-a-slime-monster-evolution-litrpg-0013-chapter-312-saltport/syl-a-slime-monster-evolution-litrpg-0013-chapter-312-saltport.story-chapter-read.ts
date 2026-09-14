@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0013Chapter312Saltport = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 13,
   ownLength: 2479,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

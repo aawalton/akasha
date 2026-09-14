@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0359ChapterFortyThreeAndIHaveKilledIt 
   story: "stray-cat-strut-stubbing-never-lol",
   position: 359,
   ownLength: 1460,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

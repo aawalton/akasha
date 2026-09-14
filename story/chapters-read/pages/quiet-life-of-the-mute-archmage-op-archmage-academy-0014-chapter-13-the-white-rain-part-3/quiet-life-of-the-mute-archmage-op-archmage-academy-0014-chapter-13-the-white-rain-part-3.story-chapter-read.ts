@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0014Chapter13TheWhiteRai
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 14,
   ownLength: 2960,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

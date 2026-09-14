@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0542424KingdomOfTheAllSeeingIi = {
   story: "path-of-the-deathless-book-4-completed",
   position: 542,
   ownLength: 5372,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

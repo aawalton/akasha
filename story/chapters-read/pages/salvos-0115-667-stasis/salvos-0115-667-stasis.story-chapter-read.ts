@@ -8,7 +8,7 @@ export const salvos0115667Stasis = {
   story: "story-read/salvos",
   position: 115,
   ownLength: 2046,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

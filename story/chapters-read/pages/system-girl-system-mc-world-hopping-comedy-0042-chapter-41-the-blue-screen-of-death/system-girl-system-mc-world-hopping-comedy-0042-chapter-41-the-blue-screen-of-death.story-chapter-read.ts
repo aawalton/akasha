@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0042Chapter41TheBlueScreenOfDea
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 42,
   ownLength: 1819,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0098Chapter97TheWalledGarden = 
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 98,
   ownLength: 2076,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

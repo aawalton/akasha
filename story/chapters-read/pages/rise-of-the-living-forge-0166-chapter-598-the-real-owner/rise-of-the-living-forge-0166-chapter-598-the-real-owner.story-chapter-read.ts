@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0166Chapter598TheRealOwner = {
   story: "story-read/rise-of-the-living-forge",
   position: 166,
   ownLength: 1717,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

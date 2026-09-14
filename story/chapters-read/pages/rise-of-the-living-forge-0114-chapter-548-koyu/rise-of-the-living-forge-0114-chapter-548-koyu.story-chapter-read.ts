@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0114Chapter548Koyu = {
   story: "story-read/rise-of-the-living-forge",
   position: 114,
   ownLength: 1862,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

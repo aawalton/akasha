@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0039Chapter618TestingConnectionsAndGather
   story: "system-change-system-universe",
   position: 39,
   ownLength: 2339,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

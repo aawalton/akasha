@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0024Chapter22TheReturnOf
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 24,
   ownLength: 3819,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

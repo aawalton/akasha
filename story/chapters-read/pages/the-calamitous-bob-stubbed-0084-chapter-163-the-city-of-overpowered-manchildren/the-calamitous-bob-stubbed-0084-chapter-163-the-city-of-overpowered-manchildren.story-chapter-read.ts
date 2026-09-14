@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0084Chapter163TheCityOfOverpoweredManchildre
   story: "the-calamitous-bob-stubbed",
   position: 84,
   ownLength: 5037,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

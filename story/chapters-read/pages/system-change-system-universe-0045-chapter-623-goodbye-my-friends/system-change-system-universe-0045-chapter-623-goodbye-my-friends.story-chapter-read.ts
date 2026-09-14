@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0045Chapter623GoodbyeMyFriends = {
   story: "system-change-system-universe",
   position: 45,
   ownLength: 3268,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

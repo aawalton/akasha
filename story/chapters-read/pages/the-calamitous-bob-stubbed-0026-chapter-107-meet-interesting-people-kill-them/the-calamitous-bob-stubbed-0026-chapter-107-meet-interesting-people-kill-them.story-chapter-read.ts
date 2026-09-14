@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0026Chapter107MeetInterestingPeopleKillThem 
   story: "the-calamitous-bob-stubbed",
   position: 26,
   ownLength: 6293,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

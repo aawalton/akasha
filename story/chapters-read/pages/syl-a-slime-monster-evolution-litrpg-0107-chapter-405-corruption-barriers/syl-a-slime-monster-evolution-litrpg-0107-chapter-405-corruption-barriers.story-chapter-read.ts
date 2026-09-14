@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0107Chapter405CorruptionBarriers = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 107,
   ownLength: 2690,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

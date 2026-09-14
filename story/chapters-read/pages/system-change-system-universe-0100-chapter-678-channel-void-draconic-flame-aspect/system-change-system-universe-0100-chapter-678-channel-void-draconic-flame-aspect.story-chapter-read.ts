@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0100Chapter678ChannelVoidDraconicFlameAsp
   story: "system-change-system-universe",
   position: 100,
   ownLength: 2330,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

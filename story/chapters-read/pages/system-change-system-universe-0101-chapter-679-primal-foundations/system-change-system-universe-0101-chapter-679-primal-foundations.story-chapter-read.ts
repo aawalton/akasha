@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0101Chapter679PrimalFoundations = {
   story: "system-change-system-universe",
   position: 101,
   ownLength: 2162,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0112Chapter112TheBoarStalksTheCica
   story: "phoenix-ascension-cultivation-litrpg",
   position: 112,
   ownLength: 1595,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

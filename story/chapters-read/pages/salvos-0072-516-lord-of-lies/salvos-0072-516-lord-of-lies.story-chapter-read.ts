@@ -8,7 +8,7 @@ export const salvos0072516LordOfLies = {
   story: "story-read/salvos",
   position: 72,
   ownLength: 4730,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

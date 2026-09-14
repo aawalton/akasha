@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0017Chapter17BecauseYourRaceIsAJad
   story: "phoenix-ascension-cultivation-litrpg",
   position: 17,
   ownLength: 2219,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

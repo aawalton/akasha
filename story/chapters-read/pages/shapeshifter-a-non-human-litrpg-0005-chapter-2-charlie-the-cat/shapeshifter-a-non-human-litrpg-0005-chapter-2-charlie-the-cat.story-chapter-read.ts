@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0005Chapter2CharlieTheCat = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 5,
   ownLength: 2041,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

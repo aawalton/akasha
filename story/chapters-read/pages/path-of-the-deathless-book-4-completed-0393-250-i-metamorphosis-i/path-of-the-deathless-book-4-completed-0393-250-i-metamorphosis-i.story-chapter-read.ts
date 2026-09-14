@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0393250IMetamorphosisI = {
   story: "path-of-the-deathless-book-4-completed",
   position: 393,
   ownLength: 0,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -6,7 +6,7 @@ export const sylASlimeMonsterEvolutionLitrpg0054Chapter426BreakingTheLoop = {
   slug: "syl-a-slime-monster-evolution-litrpg-0054-chapter-426-breaking-the-loop",
   position: 54,
   publishedAt: "2026-09-11",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

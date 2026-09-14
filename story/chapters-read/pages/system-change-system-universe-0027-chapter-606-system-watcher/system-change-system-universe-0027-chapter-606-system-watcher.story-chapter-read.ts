@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0027Chapter606SystemWatcher = {
   story: "system-change-system-universe",
   position: 27,
   ownLength: 2139,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

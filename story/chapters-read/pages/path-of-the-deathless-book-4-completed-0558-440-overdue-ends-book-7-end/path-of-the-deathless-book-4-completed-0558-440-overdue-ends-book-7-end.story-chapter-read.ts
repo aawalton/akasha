@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0558440OverdueEndsBook7End = {
   story: "path-of-the-deathless-book-4-completed",
   position: 558,
   ownLength: 7058,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

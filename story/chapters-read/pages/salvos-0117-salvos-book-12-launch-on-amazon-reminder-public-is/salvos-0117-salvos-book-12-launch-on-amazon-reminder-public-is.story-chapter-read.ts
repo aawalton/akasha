@@ -8,7 +8,7 @@ export const salvos0117SalvosBook12LaunchOnAmazonReminderPublicIs = {
   story: "story-read/salvos",
   position: 117,
   ownLength: 156,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0385ChapterSixtyFiveTRexVsGiantMechaCa
   story: "stray-cat-strut-stubbing-never-lol",
   position: 385,
   ownLength: 1473,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

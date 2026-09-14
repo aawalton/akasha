@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0124Chapter600SoulSpace = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 124,
   ownLength: 3281,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

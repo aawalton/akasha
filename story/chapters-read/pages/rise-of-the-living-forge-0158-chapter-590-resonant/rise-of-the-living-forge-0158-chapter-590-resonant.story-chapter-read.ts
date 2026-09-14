@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0158Chapter590Resonant = {
   story: "story-read/rise-of-the-living-forge",
   position: 158,
   ownLength: 1657,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

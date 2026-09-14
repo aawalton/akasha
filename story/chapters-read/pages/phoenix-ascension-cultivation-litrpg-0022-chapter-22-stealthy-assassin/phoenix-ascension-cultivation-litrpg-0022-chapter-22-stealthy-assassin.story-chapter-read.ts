@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0022Chapter22StealthyAssassin = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 22,
   ownLength: 2484,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const superSupportive0155OneHundredFiftyFourAssembly = {
   story: "super-supportive",
   position: 155,
   ownLength: 6074,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

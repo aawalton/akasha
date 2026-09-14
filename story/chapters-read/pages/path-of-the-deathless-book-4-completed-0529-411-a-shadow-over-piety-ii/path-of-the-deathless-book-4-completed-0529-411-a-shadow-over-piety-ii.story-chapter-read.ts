@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0529411AShadowOverPietyIi = {
   story: "path-of-the-deathless-book-4-completed",
   position: 529,
   ownLength: 5026,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

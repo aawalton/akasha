@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0017Chapter13ThornfinLurker = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 17,
   ownLength: 2094,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

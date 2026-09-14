@@ -8,7 +8,7 @@ export const superSupportive0101OneHundredGymClassIi = {
   story: "super-supportive",
   position: 101,
   ownLength: 6516,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

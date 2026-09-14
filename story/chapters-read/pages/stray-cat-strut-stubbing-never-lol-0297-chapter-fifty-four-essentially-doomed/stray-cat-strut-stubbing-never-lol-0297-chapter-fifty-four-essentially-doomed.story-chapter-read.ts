@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0297ChapterFiftyFourEssentiallyDoomed 
   story: "stray-cat-strut-stubbing-never-lol",
   position: 297,
   ownLength: 1632,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

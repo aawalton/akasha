@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0122Chapter598TroublesOfThePatriarch = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 122,
   ownLength: 2805,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

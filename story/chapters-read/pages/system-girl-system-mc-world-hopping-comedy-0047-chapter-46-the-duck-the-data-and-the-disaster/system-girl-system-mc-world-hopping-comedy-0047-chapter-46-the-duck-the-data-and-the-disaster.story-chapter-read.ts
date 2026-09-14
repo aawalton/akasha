@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0047Chapter46TheDuckTheDataAndT
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 47,
   ownLength: 3651,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

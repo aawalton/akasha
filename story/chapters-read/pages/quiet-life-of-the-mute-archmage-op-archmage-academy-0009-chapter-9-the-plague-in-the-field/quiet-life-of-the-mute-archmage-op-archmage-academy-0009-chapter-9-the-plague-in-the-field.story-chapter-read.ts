@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0009Chapter9ThePlagueInT
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 9,
   ownLength: 3001,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

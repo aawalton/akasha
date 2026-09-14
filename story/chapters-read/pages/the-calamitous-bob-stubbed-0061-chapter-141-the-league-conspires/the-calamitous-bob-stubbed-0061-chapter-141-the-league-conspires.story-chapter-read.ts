@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0061Chapter141TheLeagueConspires = {
   story: "the-calamitous-bob-stubbed",
   position: 61,
   ownLength: 5455,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

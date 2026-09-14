@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0009Chapter308SpiderScience = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 9,
   ownLength: 2220,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

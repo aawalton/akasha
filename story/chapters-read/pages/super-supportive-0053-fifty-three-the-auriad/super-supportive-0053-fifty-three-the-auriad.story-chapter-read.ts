@@ -8,7 +8,7 @@ export const superSupportive0053FiftyThreeTheAuriad = {
   story: "super-supportive",
   position: 53,
   ownLength: 2792,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

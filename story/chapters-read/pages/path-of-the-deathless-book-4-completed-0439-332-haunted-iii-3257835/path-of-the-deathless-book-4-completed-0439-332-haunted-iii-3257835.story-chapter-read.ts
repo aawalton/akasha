@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0439332HauntedIii3257835 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 439,
   ownLength: 5424,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

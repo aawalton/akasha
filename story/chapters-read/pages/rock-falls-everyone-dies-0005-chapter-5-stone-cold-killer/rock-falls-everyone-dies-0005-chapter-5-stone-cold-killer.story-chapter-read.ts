@@ -8,7 +8,7 @@ export const rockFallsEveryoneDies0005Chapter5StoneColdKiller = {
   story: "rock-falls-everyone-dies",
   position: 5,
   ownLength: 1320,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const salvos0050NotAChapterSomeIntrospectionAfterAYearOf = {
   story: "story-read/salvos",
   position: 50,
   ownLength: 1357,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

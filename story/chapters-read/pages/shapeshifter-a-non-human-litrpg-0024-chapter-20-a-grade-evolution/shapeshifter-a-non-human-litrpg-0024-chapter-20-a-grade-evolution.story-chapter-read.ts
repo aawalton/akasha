@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0024Chapter20AGradeEvolution = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 24,
   ownLength: 1535,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -7,7 +7,7 @@ export const shapeshifterANonHumanLitrpg0044Chapter39StatDifference = {
   story: "story-read/shapeshifter-a-non-human-litrpg",
   position: 44,
   publishedAt: "2026-09-08",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

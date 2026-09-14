@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0086Chapter520Creative = {
   story: "story-read/rise-of-the-living-forge",
   position: 86,
   ownLength: 1676,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

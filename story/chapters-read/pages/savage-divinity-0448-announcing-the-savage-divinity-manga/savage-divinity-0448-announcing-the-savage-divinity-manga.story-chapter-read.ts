@@ -8,7 +8,7 @@ export const savageDivinity0448AnnouncingTheSavageDivinityManga = {
   story: "savage-divinity",
   position: 448,
   ownLength: 213,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

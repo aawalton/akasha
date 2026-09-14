@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0389298ITheSkySwallowingCarpI307583
   story: "path-of-the-deathless-book-4-completed",
   position: 389,
   ownLength: 4967,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

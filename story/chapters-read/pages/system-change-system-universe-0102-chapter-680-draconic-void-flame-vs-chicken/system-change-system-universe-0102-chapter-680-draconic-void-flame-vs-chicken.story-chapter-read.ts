@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0102Chapter680DraconicVoidFlameVsChicken 
   story: "system-change-system-universe",
   position: 102,
   ownLength: 2039,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

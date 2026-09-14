@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0162Chapter594NewWeapons = {
   story: "story-read/rise-of-the-living-forge",
   position: 162,
   ownLength: 2334,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

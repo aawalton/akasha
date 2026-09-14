@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0041Chapter36Level100 = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 41,
   ownLength: 2155,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

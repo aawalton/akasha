@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0019Announcement = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 19,
   ownLength: 565,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

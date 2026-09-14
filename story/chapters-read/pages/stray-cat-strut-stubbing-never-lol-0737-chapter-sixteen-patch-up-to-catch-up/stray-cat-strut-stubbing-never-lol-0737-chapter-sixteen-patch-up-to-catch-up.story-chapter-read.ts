@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0737ChapterSixteenPatchUpToCatchUp = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 737,
   ownLength: 1669,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

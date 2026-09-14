@@ -8,7 +8,7 @@ export const salvos0070NewFicAnnouncementAmeliaTheLevelZeroHero = {
   story: "story-read/salvos",
   position: 70,
   ownLength: 240,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

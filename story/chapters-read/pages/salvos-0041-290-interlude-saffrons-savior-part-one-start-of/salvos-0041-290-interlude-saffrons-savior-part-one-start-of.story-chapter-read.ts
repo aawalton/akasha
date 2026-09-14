@@ -8,7 +8,7 @@ export const salvos0041290InterludeSaffronsSaviorPartOneStartOf = {
   story: "story-read/salvos",
   position: 41,
   ownLength: 2311,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

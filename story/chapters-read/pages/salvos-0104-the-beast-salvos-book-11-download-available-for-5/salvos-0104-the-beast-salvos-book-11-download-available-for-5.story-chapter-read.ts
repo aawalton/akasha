@@ -8,7 +8,7 @@ export const salvos0104TheBeastSalvosBook11DownloadAvailableFor5 = {
   story: "story-read/salvos",
   position: 104,
   ownLength: 88,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

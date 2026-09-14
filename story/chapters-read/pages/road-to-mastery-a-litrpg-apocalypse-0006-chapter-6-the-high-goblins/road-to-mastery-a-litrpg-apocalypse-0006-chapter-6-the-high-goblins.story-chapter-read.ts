@@ -8,7 +8,7 @@ export const roadToMasteryALitrpgApocalypse0006Chapter6TheHighGoblins = {
   story: "road-to-mastery-a-litrpg-apocalypse",
   position: 6,
   ownLength: 2119,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0019Chapter19Killing = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 19,
   ownLength: 1882,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

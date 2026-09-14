@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0025Chapter23Patience = 
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 25,
   ownLength: 3511,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

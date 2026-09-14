@@ -6,7 +6,7 @@ export const pathOfTheDeathlessBook4Completed0470354Animal = {
   slug: "path-of-the-deathless-book-4-completed-0470-354-animal",
   position: 470,
   publishedAt: "2026-09-09",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

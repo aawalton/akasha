@@ -8,7 +8,7 @@ export const superSupportive0121OneHundredTwentyPartyAnimals = {
   story: "super-supportive",
   position: 121,
   ownLength: 2,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

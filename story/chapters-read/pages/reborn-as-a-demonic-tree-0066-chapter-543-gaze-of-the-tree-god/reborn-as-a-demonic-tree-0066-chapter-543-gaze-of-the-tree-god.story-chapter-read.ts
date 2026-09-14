@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0066Chapter543GazeOfTheTreeGod = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 66,
   ownLength: 3260,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

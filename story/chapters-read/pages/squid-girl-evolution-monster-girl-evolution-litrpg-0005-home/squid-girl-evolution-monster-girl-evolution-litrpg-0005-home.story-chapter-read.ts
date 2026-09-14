@@ -8,7 +8,7 @@ export const squidGirlEvolutionMonsterGirlEvolutionLitrpg0005Home = {
   story: "squid-girl-evolution-monster-girl-evolution-litrpg",
   position: 5,
   ownLength: 1573,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

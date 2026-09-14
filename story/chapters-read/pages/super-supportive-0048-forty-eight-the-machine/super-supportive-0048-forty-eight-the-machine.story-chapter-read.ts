@@ -8,7 +8,7 @@ export const superSupportive0048FortyEightTheMachine = {
   story: "super-supportive",
   position: 48,
   ownLength: 3191,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

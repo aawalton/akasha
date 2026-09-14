@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0002Chapter2Mother = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 2,
   ownLength: 2508,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

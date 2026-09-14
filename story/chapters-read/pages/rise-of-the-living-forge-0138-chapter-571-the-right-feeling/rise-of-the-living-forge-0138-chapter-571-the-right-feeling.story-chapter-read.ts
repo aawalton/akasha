@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0138Chapter571TheRightFeeling = {
   story: "story-read/rise-of-the-living-forge",
   position: 138,
   ownLength: 2218,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

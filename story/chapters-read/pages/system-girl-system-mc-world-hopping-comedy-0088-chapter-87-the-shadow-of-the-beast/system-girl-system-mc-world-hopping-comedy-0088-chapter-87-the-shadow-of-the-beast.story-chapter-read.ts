@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0088Chapter87TheShadowOfTheBeas
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 88,
   ownLength: 2230,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

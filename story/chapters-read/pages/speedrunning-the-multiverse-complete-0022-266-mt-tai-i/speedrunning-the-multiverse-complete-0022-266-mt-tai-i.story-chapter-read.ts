@@ -8,7 +8,7 @@ export const speedrunningTheMultiverseComplete0022266MtTaiI = {
   story: "speedrunning-the-multiverse-complete",
   position: 22,
   ownLength: 1878,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

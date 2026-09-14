@@ -8,7 +8,7 @@ export const superSupportive0241TwoHundredThirtyNineHereToThereEpilogue = {
   story: "super-supportive",
   position: 241,
   ownLength: 2824,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

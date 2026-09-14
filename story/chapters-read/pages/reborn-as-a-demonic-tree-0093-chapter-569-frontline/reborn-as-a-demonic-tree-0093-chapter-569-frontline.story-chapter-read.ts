@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0093Chapter569Frontline = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 93,
   ownLength: 2120,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

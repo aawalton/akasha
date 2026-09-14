@@ -9,7 +9,7 @@ export const salvos0130Gifting25FreePatronsSubsSalvosComicUpdate = {
   story: "story-read/salvos",
   position: 130,
   ownLength: 179,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

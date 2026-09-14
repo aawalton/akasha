@@ -8,7 +8,7 @@ export const salvos0017105Heathens = {
   story: "story-read/salvos",
   position: 17,
   ownLength: 2174,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const rockFallsEveryoneDies0002Chapter2GatheringMoss = {
   story: "rock-falls-everyone-dies",
   position: 2,
   ownLength: 1570,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

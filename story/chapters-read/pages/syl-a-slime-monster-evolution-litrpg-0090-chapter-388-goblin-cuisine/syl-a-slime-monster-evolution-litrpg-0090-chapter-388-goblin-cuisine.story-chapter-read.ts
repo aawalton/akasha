@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0090Chapter388GoblinCuisine = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 90,
   ownLength: 2409,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

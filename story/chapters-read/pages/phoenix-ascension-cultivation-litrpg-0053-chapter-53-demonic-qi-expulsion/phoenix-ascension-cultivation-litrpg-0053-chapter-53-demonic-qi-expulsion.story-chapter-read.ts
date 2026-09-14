@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0053Chapter53DemonicQiExpulsion = 
   story: "phoenix-ascension-cultivation-litrpg",
   position: 53,
   ownLength: 2452,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

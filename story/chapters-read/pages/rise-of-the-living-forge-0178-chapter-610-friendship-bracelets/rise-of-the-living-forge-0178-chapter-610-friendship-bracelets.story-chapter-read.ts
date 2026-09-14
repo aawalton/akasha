@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0178Chapter610FriendshipBracelets = {
   story: "story-read/rise-of-the-living-forge",
   position: 178,
   ownLength: 1522,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

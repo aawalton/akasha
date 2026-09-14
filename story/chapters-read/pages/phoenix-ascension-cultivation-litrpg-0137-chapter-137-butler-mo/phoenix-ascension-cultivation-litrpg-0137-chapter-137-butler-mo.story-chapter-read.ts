@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0137Chapter137ButlerMo = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 137,
   ownLength: 2277,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

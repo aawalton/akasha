@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0616ChapterThreeElectivesInFutureTribu
   story: "stray-cat-strut-stubbing-never-lol",
   position: 616,
   ownLength: 1478,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

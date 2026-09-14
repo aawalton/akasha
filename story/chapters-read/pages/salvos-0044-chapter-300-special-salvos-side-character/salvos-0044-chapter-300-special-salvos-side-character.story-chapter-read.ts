@@ -8,7 +8,7 @@ export const salvos0044Chapter300SpecialSalvosSideCharacter = {
   story: "story-read/salvos",
   position: 44,
   ownLength: 68,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

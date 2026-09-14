@@ -7,7 +7,7 @@ export const phoenixAscensionCultivationLitrpg0173Chapter173AngrySnek = {
   story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 173,
   publishedAt: "2026-09-07",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

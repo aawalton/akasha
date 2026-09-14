@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0057Chapter137RememberMe = {
   story: "the-calamitous-bob-stubbed",
   position: 57,
   ownLength: 6474,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

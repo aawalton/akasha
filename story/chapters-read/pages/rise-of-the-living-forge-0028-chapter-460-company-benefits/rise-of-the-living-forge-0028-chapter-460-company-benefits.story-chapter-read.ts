@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0028Chapter460CompanyBenefits = {
   story: "story-read/rise-of-the-living-forge",
   position: 28,
   ownLength: 2011,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

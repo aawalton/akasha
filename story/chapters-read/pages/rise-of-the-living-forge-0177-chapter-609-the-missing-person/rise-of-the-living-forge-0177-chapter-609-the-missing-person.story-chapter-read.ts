@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0177Chapter609TheMissingPerson = {
   story: "story-read/rise-of-the-living-forge",
   position: 177,
   ownLength: 1717,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

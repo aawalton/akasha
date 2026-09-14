@@ -8,7 +8,7 @@ export const superSupportive0085EightyFourTheFrenchSauce = {
   story: "super-supportive",
   position: 85,
   ownLength: 5782,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0013Chapter9FuturePlans = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 13,
   ownLength: 1901,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

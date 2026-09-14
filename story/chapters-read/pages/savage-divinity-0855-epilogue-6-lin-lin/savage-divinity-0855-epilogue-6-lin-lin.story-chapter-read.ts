@@ -8,7 +8,7 @@ export const savageDivinity0855Epilogue6LinLin = {
   story: "savage-divinity",
   position: 855,
   ownLength: 7129,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

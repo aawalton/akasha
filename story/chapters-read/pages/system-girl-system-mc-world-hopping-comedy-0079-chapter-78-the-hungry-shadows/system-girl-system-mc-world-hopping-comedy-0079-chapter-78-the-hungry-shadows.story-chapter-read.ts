@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0079Chapter78TheHungryShadows =
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 79,
   ownLength: 2695,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

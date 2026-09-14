@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0092Chapter92Assassins = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 92,
   ownLength: 2637,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

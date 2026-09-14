@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0001Chapter1SoulSlapped = {
   story: "the-calamitous-bob-stubbed",
   position: 1,
   ownLength: 1834,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

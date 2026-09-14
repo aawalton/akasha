@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0016Chapter12CanopyStalker = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 16,
   ownLength: 1785,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

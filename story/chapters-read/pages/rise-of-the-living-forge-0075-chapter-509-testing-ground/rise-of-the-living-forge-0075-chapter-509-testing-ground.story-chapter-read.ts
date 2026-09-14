@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0075Chapter509TestingGround = {
   story: "story-read/rise-of-the-living-forge",
   position: 75,
   ownLength: 1762,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

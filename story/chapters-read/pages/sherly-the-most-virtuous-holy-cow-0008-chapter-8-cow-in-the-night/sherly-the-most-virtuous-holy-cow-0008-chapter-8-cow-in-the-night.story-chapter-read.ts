@@ -8,7 +8,7 @@ export const sherlyTheMostVirtuousHolyCow0008Chapter8CowInTheNight = {
   story: "sherly-the-most-virtuous-holy-cow",
   position: 8,
   ownLength: 1930,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

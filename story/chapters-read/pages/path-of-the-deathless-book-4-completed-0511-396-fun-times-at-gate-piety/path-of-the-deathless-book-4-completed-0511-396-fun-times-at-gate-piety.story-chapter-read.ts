@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0511396FunTimesAtGatePiety = {
   story: "path-of-the-deathless-book-4-completed",
   position: 511,
   ownLength: 6525,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const sherlyTheMostVirtuousHolyCow0034Chapter34CowByTheBladesOfGrass = {
   story: "sherly-the-most-virtuous-holy-cow",
   position: 34,
   ownLength: 1841,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

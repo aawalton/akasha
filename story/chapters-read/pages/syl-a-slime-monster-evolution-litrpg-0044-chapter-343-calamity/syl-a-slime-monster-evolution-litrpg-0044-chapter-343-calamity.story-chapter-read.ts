@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0044Chapter343Calamity = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 44,
   ownLength: 2271,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

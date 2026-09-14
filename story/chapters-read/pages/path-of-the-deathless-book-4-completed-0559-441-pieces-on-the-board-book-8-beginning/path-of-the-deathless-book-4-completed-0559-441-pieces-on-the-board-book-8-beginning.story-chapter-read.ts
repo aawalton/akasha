@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0559441PiecesOnTheBoardBook8Beginni
   story: "path-of-the-deathless-book-4-completed",
   position: 559,
   ownLength: 6973,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

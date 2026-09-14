@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0073Chapter507Roadblock = {
   story: "story-read/rise-of-the-living-forge",
   position: 73,
   ownLength: 1552,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

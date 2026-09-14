@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0060Chapter638PerksOfBattleInstinct = {
   story: "system-change-system-universe",
   position: 60,
   ownLength: 2096,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

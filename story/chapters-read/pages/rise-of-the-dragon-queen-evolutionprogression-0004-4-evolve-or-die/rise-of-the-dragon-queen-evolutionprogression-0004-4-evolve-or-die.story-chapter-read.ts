@@ -8,7 +8,7 @@ export const riseOfTheDragonQueenEvolutionprogression00044EvolveOrDie = {
   story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 4,
   ownLength: 1990,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

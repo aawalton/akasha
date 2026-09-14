@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0009Chapter9TheUpgradePath = {
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 9,
   ownLength: 1811,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

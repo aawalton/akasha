@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0008Chapter8EatingAndGrowing = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 8,
   ownLength: 1720,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

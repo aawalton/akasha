@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0005AnnouncementNewStoryAndBookNews 
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 5,
   ownLength: 543,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0001Chapter1TheCostOfPeace = {
   story: "story-read/rise-of-the-living-forge",
   position: 1,
   ownLength: 3591,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

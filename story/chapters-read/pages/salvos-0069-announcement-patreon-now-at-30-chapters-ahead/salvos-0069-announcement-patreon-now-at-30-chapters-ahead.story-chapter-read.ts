@@ -8,7 +8,7 @@ export const salvos0069AnnouncementPatreonNowAt30ChaptersAhead = {
   story: "story-read/salvos",
   position: 69,
   ownLength: 186,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

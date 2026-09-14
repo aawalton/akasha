@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0490375HospitalityIii3502669 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 490,
   ownLength: 5308,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

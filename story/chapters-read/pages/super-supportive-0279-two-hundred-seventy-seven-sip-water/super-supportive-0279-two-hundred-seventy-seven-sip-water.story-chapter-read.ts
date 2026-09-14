@@ -8,7 +8,7 @@ export const superSupportive0279TwoHundredSeventySevenSipWater = {
   story: "super-supportive",
   position: 279,
   ownLength: 3802,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

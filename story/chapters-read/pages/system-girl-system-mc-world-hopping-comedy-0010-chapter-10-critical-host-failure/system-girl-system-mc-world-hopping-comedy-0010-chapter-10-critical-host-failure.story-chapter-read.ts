@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0010Chapter10CriticalHostFailur
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 10,
   ownLength: 1376,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

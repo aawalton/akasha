@@ -8,7 +8,7 @@ export const superSupportive0139OneHundredThirtyEightWavesIv = {
   story: "super-supportive",
   position: 139,
   ownLength: 3973,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

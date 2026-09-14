@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0560442WarEconomyI = {
   story: "path-of-the-deathless-book-4-completed",
   position: 560,
   ownLength: 5573,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

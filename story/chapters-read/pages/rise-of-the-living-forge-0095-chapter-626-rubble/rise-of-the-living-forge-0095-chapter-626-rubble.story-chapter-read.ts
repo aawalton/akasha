@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0095Chapter626Rubble = {
   story: "story-read/rise-of-the-living-forge",
   position: 95,
   ownLength: 1868,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const salvos0134UpdateOnPostingSalvosIsOutInBookstores = {
   story: "story-read/salvos",
   position: 134,
   ownLength: 204,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

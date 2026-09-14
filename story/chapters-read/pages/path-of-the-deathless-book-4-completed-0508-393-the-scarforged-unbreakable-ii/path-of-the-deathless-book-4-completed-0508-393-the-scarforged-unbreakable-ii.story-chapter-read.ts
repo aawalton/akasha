@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0508393TheScarforgedUnbreakableIi =
   story: "path-of-the-deathless-book-4-completed",
   position: 508,
   ownLength: 5483,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

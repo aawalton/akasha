@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0025Chapter604MarrickSDilemma = {
   story: "system-change-system-universe",
   position: 25,
   ownLength: 2099,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

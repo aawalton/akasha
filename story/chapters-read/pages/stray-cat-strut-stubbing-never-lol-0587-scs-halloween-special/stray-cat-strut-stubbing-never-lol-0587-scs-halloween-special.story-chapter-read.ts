@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0587ScsHalloweenSpecial = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 587,
   ownLength: 1476,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

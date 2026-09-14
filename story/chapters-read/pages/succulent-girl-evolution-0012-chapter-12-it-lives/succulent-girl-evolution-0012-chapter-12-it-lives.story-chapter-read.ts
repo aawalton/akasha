@@ -8,7 +8,7 @@ export const succulentGirlEvolution0012Chapter12ItLives = {
   story: "succulent-girl-evolution",
   position: 12,
   ownLength: 2110,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0533415Machinations = {
   story: "path-of-the-deathless-book-4-completed",
   position: 533,
   ownLength: 5299,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

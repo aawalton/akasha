@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0013Chapter94GreenEdge = {
   story: "the-calamitous-bob-stubbed",
   position: 13,
   ownLength: 6322,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

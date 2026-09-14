@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0076Chapter510MakingMonsters = {
   story: "story-read/rise-of-the-living-forge",
   position: 76,
   ownLength: 2078,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

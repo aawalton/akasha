@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0028StellaArtShapeshifter = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 28,
   ownLength: 468,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

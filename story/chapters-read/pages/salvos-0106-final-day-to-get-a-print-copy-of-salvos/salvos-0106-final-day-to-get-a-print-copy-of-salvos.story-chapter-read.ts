@@ -8,7 +8,7 @@ export const salvos0106FinalDayToGetAPrintCopyOfSalvos = {
   story: "story-read/salvos",
   position: 106,
   ownLength: 93,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const superSupportive0185OneHundredEightyThreeTheWeight = {
   story: "super-supportive",
   position: 185,
   ownLength: 3845,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

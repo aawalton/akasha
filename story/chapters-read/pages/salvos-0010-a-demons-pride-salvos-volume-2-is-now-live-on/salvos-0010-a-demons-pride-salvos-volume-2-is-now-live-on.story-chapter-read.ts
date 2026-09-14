@@ -8,7 +8,7 @@ export const salvos0010ADemonsPrideSalvosVolume2IsNowLiveOn = {
   story: "story-read/salvos",
   position: 10,
   ownLength: 153,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

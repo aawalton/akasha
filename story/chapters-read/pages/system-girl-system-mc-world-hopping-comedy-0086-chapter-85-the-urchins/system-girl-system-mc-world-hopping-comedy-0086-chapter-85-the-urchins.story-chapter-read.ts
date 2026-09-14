@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0086Chapter85TheUrchins = {
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 86,
   ownLength: 2625,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

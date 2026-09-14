@@ -8,7 +8,7 @@ export const superSupportive0054FiftyFourFarther = {
   story: "super-supportive",
   position: 54,
   ownLength: 4158,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

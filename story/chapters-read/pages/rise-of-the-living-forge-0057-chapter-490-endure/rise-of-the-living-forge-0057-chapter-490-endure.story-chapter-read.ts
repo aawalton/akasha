@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0057Chapter490Endure = {
   story: "story-read/rise-of-the-living-forge",
   position: 57,
   ownLength: 1649,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

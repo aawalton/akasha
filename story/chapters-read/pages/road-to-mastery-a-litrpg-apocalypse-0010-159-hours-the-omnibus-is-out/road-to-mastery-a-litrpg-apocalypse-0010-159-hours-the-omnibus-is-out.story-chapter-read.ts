@@ -8,7 +8,7 @@ export const roadToMasteryALitrpgApocalypse0010159HoursTheOmnibusIsOut = {
   story: "road-to-mastery-a-litrpg-apocalypse",
   position: 10,
   ownLength: 64,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0076Chapter374CuttingFolds = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 76,
   ownLength: 2178,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

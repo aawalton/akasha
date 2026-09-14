@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0184Chapter616ProbablyFine = {
   story: "story-read/rise-of-the-living-forge",
   position: 184,
   ownLength: 1737,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

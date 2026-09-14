@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0617ChapterFourRevolutionaryGirlLucy =
   story: "stray-cat-strut-stubbing-never-lol",
   position: 617,
   ownLength: 1547,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

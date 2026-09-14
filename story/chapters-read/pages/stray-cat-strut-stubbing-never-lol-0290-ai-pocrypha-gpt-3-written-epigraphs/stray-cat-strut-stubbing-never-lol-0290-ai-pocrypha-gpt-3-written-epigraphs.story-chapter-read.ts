@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0290AiPocryphaGpt3WrittenEpigraphs = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 290,
   ownLength: 1308,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

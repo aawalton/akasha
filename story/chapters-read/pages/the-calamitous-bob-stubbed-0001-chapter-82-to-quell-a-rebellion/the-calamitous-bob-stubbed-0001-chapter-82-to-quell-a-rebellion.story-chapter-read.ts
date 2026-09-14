@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0001Chapter82ToQuellARebellion = {
   story: "the-calamitous-bob-stubbed",
   position: 1,
   ownLength: 5610,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

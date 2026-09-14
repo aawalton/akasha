@@ -8,7 +8,7 @@ export const salvos0105Book11IsNowUpOnAmazonKuKickstarterEnding = {
   story: "story-read/salvos",
   position: 105,
   ownLength: 158,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

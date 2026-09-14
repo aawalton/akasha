@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0030Chapter26ReturnOfGhostwire = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 30,
   ownLength: 1825,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

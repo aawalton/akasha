@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0051Chapter51Quests = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 51,
   ownLength: 3745,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

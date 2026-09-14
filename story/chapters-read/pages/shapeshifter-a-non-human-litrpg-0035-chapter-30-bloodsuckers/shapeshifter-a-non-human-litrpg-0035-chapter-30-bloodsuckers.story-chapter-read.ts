@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0035Chapter30Bloodsuckers = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 35,
   ownLength: 2008,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

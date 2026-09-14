@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0149Chapter582ABody = {
   story: "story-read/rise-of-the-living-forge",
   position: 149,
   ownLength: 1632,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

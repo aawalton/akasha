@@ -8,7 +8,7 @@ export const salvos0028172CosmicCompression = {
   story: "story-read/salvos",
   position: 28,
   ownLength: 2467,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

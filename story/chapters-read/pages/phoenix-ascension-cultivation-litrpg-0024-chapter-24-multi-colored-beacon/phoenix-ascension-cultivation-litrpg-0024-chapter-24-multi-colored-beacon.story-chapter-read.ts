@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0024Chapter24MultiColoredBeacon = 
   story: "phoenix-ascension-cultivation-litrpg",
   position: 24,
   ownLength: 4251,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

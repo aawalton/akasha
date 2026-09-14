@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0486ChapterSixtyFiveYourAverageRolepla
   story: "stray-cat-strut-stubbing-never-lol",
   position: 486,
   ownLength: 1469,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

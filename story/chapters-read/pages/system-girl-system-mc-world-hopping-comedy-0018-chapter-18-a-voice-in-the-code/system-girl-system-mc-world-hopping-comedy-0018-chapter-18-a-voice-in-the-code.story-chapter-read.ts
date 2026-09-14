@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0018Chapter18AVoiceInTheCode = 
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 18,
   ownLength: 2567,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

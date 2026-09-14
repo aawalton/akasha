@@ -8,7 +8,7 @@ export const riseOfTheDragonQueenEvolutionprogression001515HealersBargain = {
   story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 15,
   ownLength: 1853,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

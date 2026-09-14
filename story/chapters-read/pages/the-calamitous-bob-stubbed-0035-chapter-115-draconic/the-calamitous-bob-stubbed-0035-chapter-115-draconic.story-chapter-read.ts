@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0035Chapter115Draconic = {
   story: "the-calamitous-bob-stubbed",
   position: 35,
   ownLength: 6059,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0710ChapterEightyTwoTalkingFashionObli
   story: "stray-cat-strut-stubbing-never-lol",
   position: 710,
   ownLength: 1482,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

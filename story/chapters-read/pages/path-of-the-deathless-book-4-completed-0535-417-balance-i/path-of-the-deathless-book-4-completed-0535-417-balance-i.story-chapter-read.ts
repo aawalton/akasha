@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0535417BalanceI = {
   story: "path-of-the-deathless-book-4-completed",
   position: 535,
   ownLength: 7967,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

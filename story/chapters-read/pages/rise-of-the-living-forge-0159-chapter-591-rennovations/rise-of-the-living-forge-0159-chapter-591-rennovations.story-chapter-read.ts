@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0159Chapter591Rennovations = {
   story: "story-read/rise-of-the-living-forge",
   position: 159,
   ownLength: 1669,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

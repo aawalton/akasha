@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0014Chapter272TheRot = {
   story: "story-read/rise-of-the-living-forge",
   position: 14,
   ownLength: 2048,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

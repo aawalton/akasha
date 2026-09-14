@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0564446Cuckoo = {
   story: "path-of-the-deathless-book-4-completed",
   position: 564,
   ownLength: 4829,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

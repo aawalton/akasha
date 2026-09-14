@@ -8,7 +8,7 @@ export const salvos0061SalvosVolume2Part1sGermanEditionIsNow = {
   story: "story-read/salvos",
   position: 61,
   ownLength: 160,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

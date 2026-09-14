@@ -8,7 +8,7 @@ export const savageDivinity0751ImminentBreakStartingNow = {
   story: "savage-divinity",
   position: 751,
   ownLength: 350,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

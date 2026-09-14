@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0094Chapter528Oops = {
   story: "story-read/rise-of-the-living-forge",
   position: 94,
   ownLength: 1586,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

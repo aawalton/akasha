@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0005Chapter5SigsugMarket
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 5,
   ownLength: 2271,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

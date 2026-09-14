@@ -8,7 +8,7 @@ export const savageDivinity0225Chapter223 = {
   story: "savage-divinity",
   position: 225,
   ownLength: 3726,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-06-27",
   externalIdentity: [
     {

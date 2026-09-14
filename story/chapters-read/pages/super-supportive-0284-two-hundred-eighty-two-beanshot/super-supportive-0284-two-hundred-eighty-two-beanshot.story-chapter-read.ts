@@ -8,7 +8,7 @@ export const superSupportive0284TwoHundredEightyTwoBeanshot = {
   story: "super-supportive",
   position: 284,
   ownLength: 4587,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

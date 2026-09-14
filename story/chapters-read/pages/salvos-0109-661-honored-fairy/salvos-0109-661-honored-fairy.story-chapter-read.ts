@@ -8,7 +8,7 @@ export const salvos0109661HonoredFairy = {
   story: "story-read/salvos",
   position: 109,
   ownLength: 2644,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

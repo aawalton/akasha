@@ -8,7 +8,7 @@ export const squidGirlEvolutionMonsterGirlEvolutionLitrpg0009CampAtTheBailey = {
   story: "squid-girl-evolution-monster-girl-evolution-litrpg",
   position: 9,
   ownLength: 1492,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

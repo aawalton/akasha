@@ -8,7 +8,7 @@ export const savageDivinity0646Chapter637Volume35Surrender = {
   story: "savage-divinity",
   position: 646,
   ownLength: 8198,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

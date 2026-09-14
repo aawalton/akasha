@@ -8,7 +8,7 @@ export const ratGirlEvolutionLabRatToUnrivaled00077FueledByFlame = {
   story: "rat-girl-evolution-lab-rat-to-unrivaled",
   position: 7,
   ownLength: 2288,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

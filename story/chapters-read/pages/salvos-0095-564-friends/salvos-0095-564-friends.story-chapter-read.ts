@@ -8,7 +8,7 @@ export const salvos0095564Friends = {
   story: "story-read/salvos",
   position: 95,
   ownLength: 1833,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

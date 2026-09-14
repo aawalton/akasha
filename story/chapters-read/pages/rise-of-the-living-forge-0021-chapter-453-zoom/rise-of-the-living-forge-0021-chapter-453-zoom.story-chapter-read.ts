@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0021Chapter453Zoom = {
   story: "story-read/rise-of-the-living-forge",
   position: 21,
   ownLength: 1801,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

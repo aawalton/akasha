@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0004Book2Chapter1OutsideTheWorldDungeon 
   story: "shapeshifter-a-non-human-litrpg",
   position: 4,
   ownLength: 2085,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

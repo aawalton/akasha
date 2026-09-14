@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0169Chapter601Dread = {
   story: "story-read/rise-of-the-living-forge",
   position: 169,
   ownLength: 2075,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

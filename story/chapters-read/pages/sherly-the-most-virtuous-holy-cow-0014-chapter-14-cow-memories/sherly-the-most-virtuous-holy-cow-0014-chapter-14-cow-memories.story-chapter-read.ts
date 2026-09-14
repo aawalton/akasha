@@ -8,7 +8,7 @@ export const sherlyTheMostVirtuousHolyCow0014Chapter14CowMemories = {
   story: "sherly-the-most-virtuous-holy-cow",
   position: 14,
   ownLength: 2273,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

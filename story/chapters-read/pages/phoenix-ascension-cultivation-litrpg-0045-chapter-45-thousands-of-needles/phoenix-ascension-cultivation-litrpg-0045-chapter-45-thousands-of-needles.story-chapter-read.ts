@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0045Chapter45ThousandsOfNeedles = 
   story: "phoenix-ascension-cultivation-litrpg",
   position: 45,
   ownLength: 2726,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

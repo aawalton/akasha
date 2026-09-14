@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0591ChapterSeventyIJustWantTheSkyOnFir
   story: "stray-cat-strut-stubbing-never-lol",
   position: 591,
   ownLength: 1508,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

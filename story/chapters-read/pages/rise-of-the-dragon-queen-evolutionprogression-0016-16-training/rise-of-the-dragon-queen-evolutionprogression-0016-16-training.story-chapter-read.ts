@@ -8,7 +8,7 @@ export const riseOfTheDragonQueenEvolutionprogression001616Training = {
   story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 16,
   ownLength: 2164,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

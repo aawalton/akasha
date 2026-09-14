@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0292ChapterFiftyEmoscythe = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 292,
   ownLength: 1524,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

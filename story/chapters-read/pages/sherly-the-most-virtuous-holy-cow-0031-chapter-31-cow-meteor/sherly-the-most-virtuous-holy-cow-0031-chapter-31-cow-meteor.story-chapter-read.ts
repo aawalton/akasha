@@ -8,7 +8,7 @@ export const sherlyTheMostVirtuousHolyCow0031Chapter31CowMeteor = {
   story: "sherly-the-most-virtuous-holy-cow",
   position: 31,
   ownLength: 1879,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

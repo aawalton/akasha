@@ -8,7 +8,7 @@ export const rockFallsEveryoneDies0003Chapter3GettingStonedWithGoblins = {
   story: "rock-falls-everyone-dies",
   position: 3,
   ownLength: 1762,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

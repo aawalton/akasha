@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0012Chapter12Decommissioning = 
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 12,
   ownLength: 1766,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

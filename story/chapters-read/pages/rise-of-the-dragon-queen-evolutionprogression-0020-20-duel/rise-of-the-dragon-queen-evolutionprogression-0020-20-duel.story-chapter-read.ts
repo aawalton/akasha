@@ -8,7 +8,7 @@ export const riseOfTheDragonQueenEvolutionprogression002020Duel = {
   story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 20,
   ownLength: 1990,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

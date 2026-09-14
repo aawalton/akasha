@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0027Chapter459PrecautionaryMeasures = {
   story: "story-read/rise-of-the-living-forge",
   position: 27,
   ownLength: 2044,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

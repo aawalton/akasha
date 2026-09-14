@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0154StrayBunArtContest = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 154,
   ownLength: 153,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

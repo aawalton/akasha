@@ -8,7 +8,7 @@ export const superSupportive0057FiftySevenAScaleTips = {
   story: "super-supportive",
   position: 57,
   ownLength: 3776,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

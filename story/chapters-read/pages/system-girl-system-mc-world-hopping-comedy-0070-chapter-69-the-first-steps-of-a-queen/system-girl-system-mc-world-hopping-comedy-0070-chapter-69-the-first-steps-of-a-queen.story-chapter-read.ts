@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0070Chapter69TheFirstStepsOfAQu
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 70,
   ownLength: 2654,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

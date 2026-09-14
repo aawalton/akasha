@@ -8,7 +8,7 @@ export const salvos0077EndOfVolume5PopularityPoll = {
   story: "story-read/salvos",
   position: 77,
   ownLength: 110,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

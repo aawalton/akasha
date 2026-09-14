@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0470SideStoryPollTwo = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 470,
   ownLength: 282,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

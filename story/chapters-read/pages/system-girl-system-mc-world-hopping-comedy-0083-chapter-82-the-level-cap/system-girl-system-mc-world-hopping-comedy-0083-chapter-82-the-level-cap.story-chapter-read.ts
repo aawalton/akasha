@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0083Chapter82TheLevelCap = {
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 83,
   ownLength: 2559,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

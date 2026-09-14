@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol073115000Followers = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 731,
   ownLength: 118,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

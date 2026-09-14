@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0171Chapter171TowardTheFourCornerS
   story: "phoenix-ascension-cultivation-litrpg",
   position: 171,
   ownLength: 2374,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

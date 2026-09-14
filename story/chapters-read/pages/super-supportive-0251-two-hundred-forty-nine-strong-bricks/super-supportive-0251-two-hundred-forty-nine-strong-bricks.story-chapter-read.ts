@@ -8,7 +8,7 @@ export const superSupportive0251TwoHundredFortyNineStrongBricks = {
   story: "super-supportive",
   position: 251,
   ownLength: 4301,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

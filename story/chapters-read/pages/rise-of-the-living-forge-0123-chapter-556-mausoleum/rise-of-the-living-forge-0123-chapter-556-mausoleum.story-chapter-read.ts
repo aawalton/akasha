@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0123Chapter556Mausoleum = {
   story: "story-read/rise-of-the-living-forge",
   position: 123,
   ownLength: 1962,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

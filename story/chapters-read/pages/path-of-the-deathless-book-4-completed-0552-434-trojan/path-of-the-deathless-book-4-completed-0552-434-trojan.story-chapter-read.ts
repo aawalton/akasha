@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0552434Trojan = {
   story: "path-of-the-deathless-book-4-completed",
   position: 552,
   ownLength: 5182,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

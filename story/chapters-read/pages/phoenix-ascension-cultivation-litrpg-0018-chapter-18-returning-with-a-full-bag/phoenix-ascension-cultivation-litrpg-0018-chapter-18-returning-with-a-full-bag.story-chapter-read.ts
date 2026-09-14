@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0018Chapter18ReturningWithAFullBag
   story: "phoenix-ascension-cultivation-litrpg",
   position: 18,
   ownLength: 2564,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

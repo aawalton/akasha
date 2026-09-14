@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0427322HeroOfAThousandFates3207913 
   story: "path-of-the-deathless-book-4-completed",
   position: 427,
   ownLength: 5144,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

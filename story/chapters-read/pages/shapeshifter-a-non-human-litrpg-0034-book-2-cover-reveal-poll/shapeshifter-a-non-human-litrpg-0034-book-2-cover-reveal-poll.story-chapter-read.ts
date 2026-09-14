@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0034Book2CoverRevealPoll = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 34,
   ownLength: 1449,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

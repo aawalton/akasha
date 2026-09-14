@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0030Chapter111BasicMagicForDummies = {
   story: "the-calamitous-bob-stubbed",
   position: 30,
   ownLength: 4704,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

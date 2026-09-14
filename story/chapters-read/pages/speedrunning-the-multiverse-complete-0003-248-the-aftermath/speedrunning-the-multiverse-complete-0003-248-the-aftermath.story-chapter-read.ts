@@ -8,7 +8,7 @@ export const speedrunningTheMultiverseComplete0003248TheAftermath = {
   story: "speedrunning-the-multiverse-complete",
   position: 3,
   ownLength: 1817,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

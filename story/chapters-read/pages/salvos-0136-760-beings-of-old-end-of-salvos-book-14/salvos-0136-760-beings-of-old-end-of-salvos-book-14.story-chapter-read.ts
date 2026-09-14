@@ -8,7 +8,7 @@ export const salvos0136760BeingsOfOldEndOfSalvosBook14 = {
   story: "story-read/salvos",
   position: 136,
   ownLength: 1154,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

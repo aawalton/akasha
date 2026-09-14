@@ -7,7 +7,7 @@ export const superSupportive0307ThreeHundredFiveAnEagerArmAndAngryNoodles = {
   story: "story-read/super-supportive",
   position: 307,
   publishedAt: "2026-09-04",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

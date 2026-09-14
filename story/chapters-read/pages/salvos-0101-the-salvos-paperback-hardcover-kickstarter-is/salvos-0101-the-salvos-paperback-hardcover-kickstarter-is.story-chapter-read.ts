@@ -9,7 +9,7 @@ export const salvos0101TheSalvosPaperbackHardcoverKickstarterIs = {
   story: "story-read/salvos",
   position: 101,
   ownLength: 221,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0009Chapter8GrandElderSDeclaration = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 9,
   ownLength: 1610,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

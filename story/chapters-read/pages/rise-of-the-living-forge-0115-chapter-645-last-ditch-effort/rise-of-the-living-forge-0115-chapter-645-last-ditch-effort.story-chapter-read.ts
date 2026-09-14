@@ -7,7 +7,7 @@ export const riseOfTheLivingForge0115Chapter645LastDitchEffort = {
   story: "story-read/rise-of-the-living-forge",
   position: 115,
   publishedAt: "2026-09-07",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

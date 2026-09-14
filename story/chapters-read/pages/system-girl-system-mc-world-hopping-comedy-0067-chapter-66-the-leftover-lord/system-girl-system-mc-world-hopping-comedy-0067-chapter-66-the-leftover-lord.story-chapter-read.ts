@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0067Chapter66TheLeftoverLord = 
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 67,
   ownLength: 2290,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

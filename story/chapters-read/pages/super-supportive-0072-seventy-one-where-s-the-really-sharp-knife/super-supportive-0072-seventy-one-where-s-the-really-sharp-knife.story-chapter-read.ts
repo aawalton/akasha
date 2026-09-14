@@ -8,7 +8,7 @@ export const superSupportive0072SeventyOneWhereSTheReallySharpKnife = {
   story: "super-supportive",
   position: 72,
   ownLength: 4444,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

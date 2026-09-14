@@ -8,7 +8,7 @@ export const savageDivinity0257Chapter250Kinship = {
   story: "savage-divinity",
   position: 257,
   ownLength: 3703,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-09-22",
   externalIdentity: [
     {

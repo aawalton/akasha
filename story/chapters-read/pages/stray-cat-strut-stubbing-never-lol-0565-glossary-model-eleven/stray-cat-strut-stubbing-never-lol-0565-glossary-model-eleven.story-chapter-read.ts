@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0565GlossaryModelEleven = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 565,
   ownLength: 955,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0434MagicalGirlMercenaryForHireChapter
   story: "stray-cat-strut-stubbing-never-lol",
   position: 434,
   ownLength: 1454,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0010Chapter484EchoingWillow = {
   story: "system-change-system-universe",
   position: 10,
   ownLength: 1993,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0526ChapterTwentyThreeDrMyalisMedicine
   story: "stray-cat-strut-stubbing-never-lol",
   position: 526,
   ownLength: 1499,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

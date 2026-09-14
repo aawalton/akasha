@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0052Chapter351Sylbera = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 52,
   ownLength: 2114,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

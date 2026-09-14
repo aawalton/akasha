@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0003ChapterOnePopUp = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 3,
   ownLength: 2761,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

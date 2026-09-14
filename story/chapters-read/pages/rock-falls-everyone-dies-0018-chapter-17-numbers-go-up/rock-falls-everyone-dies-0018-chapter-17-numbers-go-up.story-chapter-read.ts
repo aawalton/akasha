@@ -8,7 +8,7 @@ export const rockFallsEveryoneDies0018Chapter17NumbersGoUp = {
   story: "rock-falls-everyone-dies",
   position: 18,
   ownLength: 829,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

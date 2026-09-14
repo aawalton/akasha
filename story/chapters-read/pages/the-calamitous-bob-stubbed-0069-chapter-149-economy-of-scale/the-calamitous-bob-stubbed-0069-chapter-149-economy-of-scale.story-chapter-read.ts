@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0069Chapter149EconomyOfScale = {
   story: "the-calamitous-bob-stubbed",
   position: 69,
   ownLength: 6254,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

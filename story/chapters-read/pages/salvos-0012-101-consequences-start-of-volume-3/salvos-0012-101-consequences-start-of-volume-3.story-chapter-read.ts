@@ -8,7 +8,7 @@ export const salvos0012101ConsequencesStartOfVolume3 = {
   story: "story-read/salvos",
   position: 12,
   ownLength: 2966,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0103Chapter579LightLaw = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 103,
   ownLength: 2442,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

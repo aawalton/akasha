@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0093Chapter671Rook = {
   story: "system-change-system-universe",
   position: 93,
   ownLength: 2106,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

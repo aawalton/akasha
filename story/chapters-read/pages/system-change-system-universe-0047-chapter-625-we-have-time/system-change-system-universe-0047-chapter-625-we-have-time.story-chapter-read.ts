@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0047Chapter625WeHaveTime = {
   story: "system-change-system-universe",
   position: 47,
   ownLength: 2103,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

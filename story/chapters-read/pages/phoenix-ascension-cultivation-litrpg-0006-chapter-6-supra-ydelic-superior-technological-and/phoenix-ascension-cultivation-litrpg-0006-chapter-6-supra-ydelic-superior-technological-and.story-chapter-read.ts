@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0006Chapter6SupraYdelicSuperiorTec
   story: "phoenix-ascension-cultivation-litrpg",
   position: 6,
   ownLength: 2702,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

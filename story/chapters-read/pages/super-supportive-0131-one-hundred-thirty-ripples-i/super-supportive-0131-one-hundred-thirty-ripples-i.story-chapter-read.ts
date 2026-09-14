@@ -8,7 +8,7 @@ export const superSupportive0131OneHundredThirtyRipplesI = {
   story: "super-supportive",
   position: 131,
   ownLength: 5418,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

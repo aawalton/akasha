@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0045Chapter44TheBirthOfASystem 
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 45,
   ownLength: 1776,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

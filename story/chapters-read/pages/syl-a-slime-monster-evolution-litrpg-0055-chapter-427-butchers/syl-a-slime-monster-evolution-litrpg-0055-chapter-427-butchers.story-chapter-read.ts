@@ -6,7 +6,7 @@ export const sylASlimeMonsterEvolutionLitrpg0055Chapter427Butchers = {
   slug: "syl-a-slime-monster-evolution-litrpg-0055-chapter-427-butchers",
   position: 55,
   publishedAt: "2026-09-14",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

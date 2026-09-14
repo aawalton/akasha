@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0192Chapter623NoChoices = {
   story: "story-read/rise-of-the-living-forge",
   position: 192,
   ownLength: 1919,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

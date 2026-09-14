@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0095Chapter94TheCapitalistCrusa
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 95,
   ownLength: 1990,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

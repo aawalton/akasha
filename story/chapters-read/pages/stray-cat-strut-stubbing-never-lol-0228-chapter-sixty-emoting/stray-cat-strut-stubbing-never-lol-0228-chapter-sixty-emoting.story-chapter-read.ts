@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0228ChapterSixtyEmoting = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 228,
   ownLength: 1483,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

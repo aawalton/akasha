@@ -8,7 +8,7 @@ export const salvos0014103Compromising = {
   story: "story-read/salvos",
   position: 14,
   ownLength: 2240,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

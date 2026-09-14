@@ -8,7 +8,7 @@ export const salvos0036247Accretion = {
   story: "story-read/salvos",
   position: 36,
   ownLength: 1992,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

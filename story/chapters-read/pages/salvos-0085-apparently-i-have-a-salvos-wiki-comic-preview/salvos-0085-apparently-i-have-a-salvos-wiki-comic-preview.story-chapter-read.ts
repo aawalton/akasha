@@ -8,7 +8,7 @@ export const salvos0085ApparentlyIHaveASalvosWikiComicPreview = {
   story: "story-read/salvos",
   position: 85,
   ownLength: 43,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

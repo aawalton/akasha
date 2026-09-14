@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0168Chapter168AGiantFuckassLightni
   story: "phoenix-ascension-cultivation-litrpg",
   position: 168,
   ownLength: 2513,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

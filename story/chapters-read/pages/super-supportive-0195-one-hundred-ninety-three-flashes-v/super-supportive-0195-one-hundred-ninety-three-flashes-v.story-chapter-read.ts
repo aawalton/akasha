@@ -8,7 +8,7 @@ export const superSupportive0195OneHundredNinetyThreeFlashesV = {
   story: "super-supportive",
   position: 195,
   ownLength: 5093,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

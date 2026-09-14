@@ -8,7 +8,7 @@ export const salvos000740SurvivorEndOfVolume1 = {
   story: "story-read/salvos",
   position: 7,
   ownLength: 1877,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

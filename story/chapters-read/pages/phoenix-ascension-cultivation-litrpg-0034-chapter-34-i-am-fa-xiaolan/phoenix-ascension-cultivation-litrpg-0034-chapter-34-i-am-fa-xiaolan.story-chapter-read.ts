@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0034Chapter34IAmFaXiaolan = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 34,
   ownLength: 3104,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

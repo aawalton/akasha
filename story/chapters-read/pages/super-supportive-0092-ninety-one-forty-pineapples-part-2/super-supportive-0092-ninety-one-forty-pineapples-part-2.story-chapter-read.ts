@@ -8,7 +8,7 @@ export const superSupportive0092NinetyOneFortyPineapplesPart2 = {
   story: "super-supportive",
   position: 92,
   ownLength: 13019,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

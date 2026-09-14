@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0074Chapter74AGlint = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 74,
   ownLength: 2770,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

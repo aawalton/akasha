@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0553435Alliances = {
   story: "path-of-the-deathless-book-4-completed",
   position: 553,
   ownLength: 5040,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

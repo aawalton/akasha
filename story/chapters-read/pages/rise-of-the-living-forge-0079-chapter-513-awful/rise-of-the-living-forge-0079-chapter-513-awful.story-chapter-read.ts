@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0079Chapter513Awful = {
   story: "story-read/rise-of-the-living-forge",
   position: 79,
   ownLength: 1615,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

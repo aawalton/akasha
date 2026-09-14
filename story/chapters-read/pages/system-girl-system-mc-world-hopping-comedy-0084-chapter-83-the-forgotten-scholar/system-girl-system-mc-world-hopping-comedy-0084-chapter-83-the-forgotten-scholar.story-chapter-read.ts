@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0084Chapter83TheForgottenSchola
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 84,
   ownLength: 2093,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

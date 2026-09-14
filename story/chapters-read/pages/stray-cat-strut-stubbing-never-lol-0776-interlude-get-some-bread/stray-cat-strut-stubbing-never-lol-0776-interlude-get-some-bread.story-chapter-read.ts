@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0776InterludeGetSomeBread = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 776,
   ownLength: 1406,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

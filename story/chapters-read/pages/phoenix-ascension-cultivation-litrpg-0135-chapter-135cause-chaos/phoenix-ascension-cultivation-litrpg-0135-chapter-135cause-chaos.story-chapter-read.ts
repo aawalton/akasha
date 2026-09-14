@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0135Chapter135causeChaos = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 135,
   ownLength: 2435,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

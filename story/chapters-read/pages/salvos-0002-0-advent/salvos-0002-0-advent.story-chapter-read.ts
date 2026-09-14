@@ -8,7 +8,7 @@ export const salvos00020Advent = {
   story: "story-read/salvos",
   position: 2,
   ownLength: 585,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

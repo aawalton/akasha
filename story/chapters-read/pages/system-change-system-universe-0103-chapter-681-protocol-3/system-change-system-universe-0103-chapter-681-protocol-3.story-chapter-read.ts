@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0103Chapter681Protocol3 = {
   story: "system-change-system-universe",
   position: 103,
   ownLength: 2094,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

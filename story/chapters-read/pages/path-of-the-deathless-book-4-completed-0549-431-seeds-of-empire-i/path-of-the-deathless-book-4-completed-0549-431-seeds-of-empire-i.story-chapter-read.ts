@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0549431SeedsOfEmpireI = {
   story: "path-of-the-deathless-book-4-completed",
   position: 549,
   ownLength: 4924,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

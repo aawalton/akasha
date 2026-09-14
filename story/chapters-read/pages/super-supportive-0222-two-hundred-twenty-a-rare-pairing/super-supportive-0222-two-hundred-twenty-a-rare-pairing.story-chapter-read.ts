@@ -8,7 +8,7 @@ export const superSupportive0222TwoHundredTwentyARarePairing = {
   story: "super-supportive",
   position: 222,
   ownLength: 3831,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

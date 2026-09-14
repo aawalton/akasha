@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0157Chapter589TheMeshAndTheArmory = {
   story: "story-read/rise-of-the-living-forge",
   position: 157,
   ownLength: 2315,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

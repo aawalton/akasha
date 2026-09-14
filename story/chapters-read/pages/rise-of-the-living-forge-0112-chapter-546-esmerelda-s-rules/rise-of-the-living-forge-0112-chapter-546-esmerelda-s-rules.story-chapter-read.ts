@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0112Chapter546EsmereldaSRules = {
   story: "story-read/rise-of-the-living-forge",
   position: 112,
   ownLength: 1652,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0010Chapter6GuildRegistration = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 10,
   ownLength: 2006,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

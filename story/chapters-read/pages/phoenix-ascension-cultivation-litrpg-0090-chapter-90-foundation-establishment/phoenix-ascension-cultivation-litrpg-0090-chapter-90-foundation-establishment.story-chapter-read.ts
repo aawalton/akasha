@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0090Chapter90FoundationEstablishme
   story: "phoenix-ascension-cultivation-litrpg",
   position: 90,
   ownLength: 2670,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0111Chapter641Failiure = {
   story: "story-read/rise-of-the-living-forge",
   position: 111,
   ownLength: 2423,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

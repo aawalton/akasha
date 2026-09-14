@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0023Chapter322Magmatic = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 23,
   ownLength: 2120,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

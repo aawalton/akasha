@@ -8,7 +8,7 @@ export const superSupportive0126OneHundredTwentyFiveItSPepperFlavored = {
   story: "super-supportive",
   position: 126,
   ownLength: 9551,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

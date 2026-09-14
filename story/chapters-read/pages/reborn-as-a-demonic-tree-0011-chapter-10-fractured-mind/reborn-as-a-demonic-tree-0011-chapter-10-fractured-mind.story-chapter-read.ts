@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0011Chapter10FracturedMind = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 11,
   ownLength: 1797,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

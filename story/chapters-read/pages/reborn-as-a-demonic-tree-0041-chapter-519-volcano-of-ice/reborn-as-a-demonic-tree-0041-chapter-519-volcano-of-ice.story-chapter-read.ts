@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0041Chapter519VolcanoOfIce = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 41,
   ownLength: 3320,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

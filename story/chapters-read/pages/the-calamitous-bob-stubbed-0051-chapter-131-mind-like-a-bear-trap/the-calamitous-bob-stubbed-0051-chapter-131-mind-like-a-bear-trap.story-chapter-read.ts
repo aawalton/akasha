@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0051Chapter131MindLikeABearTrap = {
   story: "the-calamitous-bob-stubbed",
   position: 51,
   ownLength: 5754,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

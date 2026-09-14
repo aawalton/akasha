@@ -8,7 +8,7 @@ export const superSupportive0112OneHundredElevenTheChainerIii = {
   story: "super-supportive",
   position: 112,
   ownLength: 8891,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

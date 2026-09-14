@@ -8,7 +8,7 @@ export const superSupportive0303ThreeHundredOneCupsBowlsAndUnknownWizards = {
   story: "super-supportive",
   position: 303,
   ownLength: 3143,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

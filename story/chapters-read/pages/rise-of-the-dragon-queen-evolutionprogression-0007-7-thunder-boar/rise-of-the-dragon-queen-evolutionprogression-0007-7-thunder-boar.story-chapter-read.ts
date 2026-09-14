@@ -8,7 +8,7 @@ export const riseOfTheDragonQueenEvolutionprogression00077ThunderBoar = {
   story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 7,
   ownLength: 2597,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

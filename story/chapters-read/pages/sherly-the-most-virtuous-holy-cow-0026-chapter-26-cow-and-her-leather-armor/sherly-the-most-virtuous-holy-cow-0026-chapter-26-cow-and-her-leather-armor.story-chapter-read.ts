@@ -8,7 +8,7 @@ export const sherlyTheMostVirtuousHolyCow0026Chapter26CowAndHerLeatherArmor = {
   story: "sherly-the-most-virtuous-holy-cow",
   position: 26,
   ownLength: 2060,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0141ChapterFiftyEightGimmick = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 141,
   ownLength: 1507,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

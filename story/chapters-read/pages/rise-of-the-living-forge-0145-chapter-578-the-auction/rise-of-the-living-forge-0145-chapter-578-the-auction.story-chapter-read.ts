@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0145Chapter578TheAuction = {
   story: "story-read/rise-of-the-living-forge",
   position: 145,
   ownLength: 1819,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0155Chapter155Thief = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 155,
   ownLength: 2318,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

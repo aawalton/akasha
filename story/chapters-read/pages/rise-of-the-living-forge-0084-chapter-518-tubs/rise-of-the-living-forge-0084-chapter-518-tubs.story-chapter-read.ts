@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0084Chapter518Tubs = {
   story: "story-read/rise-of-the-living-forge",
   position: 84,
   ownLength: 2025,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

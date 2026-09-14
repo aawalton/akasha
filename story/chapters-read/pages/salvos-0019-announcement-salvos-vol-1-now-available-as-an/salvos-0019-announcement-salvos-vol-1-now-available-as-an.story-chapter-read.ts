@@ -8,7 +8,7 @@ export const salvos0019AnnouncementSalvosVol1NowAvailableAsAn = {
   story: "story-read/salvos",
   position: 19,
   ownLength: 153,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

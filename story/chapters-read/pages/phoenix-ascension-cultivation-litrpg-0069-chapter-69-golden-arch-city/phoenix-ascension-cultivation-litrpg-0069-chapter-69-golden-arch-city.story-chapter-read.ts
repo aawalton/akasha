@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0069Chapter69GoldenArchCity = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 69,
   ownLength: 2533,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

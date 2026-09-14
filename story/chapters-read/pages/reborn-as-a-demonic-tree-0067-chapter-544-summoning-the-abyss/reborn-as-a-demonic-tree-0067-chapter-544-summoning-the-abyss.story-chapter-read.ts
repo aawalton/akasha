@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0067Chapter544SummoningTheAbyss = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 67,
   ownLength: 2557,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0101Chapter535JustBetter = {
   story: "story-read/rise-of-the-living-forge",
   position: 101,
   ownLength: 1602,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

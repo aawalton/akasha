@@ -8,7 +8,7 @@ export const superSupportive0043FortyThreeTheGrass = {
   story: "super-supportive",
   position: 43,
   ownLength: 5467,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

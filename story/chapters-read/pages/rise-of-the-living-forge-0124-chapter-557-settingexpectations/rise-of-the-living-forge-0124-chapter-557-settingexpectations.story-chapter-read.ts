@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0124Chapter557Settingexpectations = {
   story: "story-read/rise-of-the-living-forge",
   position: 124,
   ownLength: 1743,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const riseOfTheDragonQueenEvolutionprogression001313ExtraSpecialIngredien
   story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 13,
   ownLength: 1849,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

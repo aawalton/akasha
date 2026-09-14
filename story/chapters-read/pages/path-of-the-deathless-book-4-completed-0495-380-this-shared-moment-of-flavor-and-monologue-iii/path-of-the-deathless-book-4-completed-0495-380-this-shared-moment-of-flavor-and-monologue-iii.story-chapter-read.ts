@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0495380ThisSharedMomentOfFlavorAndM
   story: "path-of-the-deathless-book-4-completed",
   position: 495,
   ownLength: 4672,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

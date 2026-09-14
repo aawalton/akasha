@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0036Chapter31Obliteration = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 36,
   ownLength: 1417,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

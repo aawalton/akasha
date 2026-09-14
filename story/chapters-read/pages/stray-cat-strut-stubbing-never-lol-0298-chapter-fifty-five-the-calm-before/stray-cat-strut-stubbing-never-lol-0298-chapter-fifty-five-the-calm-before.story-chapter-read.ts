@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0298ChapterFiftyFiveTheCalmBefore = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 298,
   ownLength: 1534,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

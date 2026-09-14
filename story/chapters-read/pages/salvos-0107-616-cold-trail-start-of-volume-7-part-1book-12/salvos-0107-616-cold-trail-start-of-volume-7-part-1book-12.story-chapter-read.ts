@@ -8,7 +8,7 @@ export const salvos0107616ColdTrailStartOfVolume7Part1book12 = {
   story: "story-read/salvos",
   position: 107,
   ownLength: 1609,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

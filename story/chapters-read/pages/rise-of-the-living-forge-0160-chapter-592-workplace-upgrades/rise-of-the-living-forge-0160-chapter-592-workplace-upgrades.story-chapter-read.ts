@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0160Chapter592WorkplaceUpgrades = {
   story: "story-read/rise-of-the-living-forge",
   position: 160,
   ownLength: 1914,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0026Chapter325NextAssignment = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 26,
   ownLength: 2030,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

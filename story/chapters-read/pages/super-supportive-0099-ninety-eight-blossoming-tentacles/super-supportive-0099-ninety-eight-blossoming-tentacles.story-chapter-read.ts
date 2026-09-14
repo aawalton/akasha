@@ -8,7 +8,7 @@ export const superSupportive0099NinetyEightBlossomingTentacles = {
   story: "super-supportive",
   position: 99,
   ownLength: 5989,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

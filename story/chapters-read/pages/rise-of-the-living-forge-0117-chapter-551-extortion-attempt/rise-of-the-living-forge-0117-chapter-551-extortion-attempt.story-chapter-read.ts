@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0117Chapter551ExtortionAttempt = {
   story: "story-read/rise-of-the-living-forge",
   position: 117,
   ownLength: 1562,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

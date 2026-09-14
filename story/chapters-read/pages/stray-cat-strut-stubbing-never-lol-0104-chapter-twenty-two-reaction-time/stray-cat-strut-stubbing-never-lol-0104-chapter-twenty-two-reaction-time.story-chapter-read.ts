@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0104ChapterTwentyTwoReactionTime = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 104,
   ownLength: 1450,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

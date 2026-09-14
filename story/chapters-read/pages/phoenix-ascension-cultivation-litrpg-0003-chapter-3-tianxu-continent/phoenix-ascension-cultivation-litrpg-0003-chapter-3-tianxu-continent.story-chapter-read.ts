@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0003Chapter3TianxuContinent = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 3,
   ownLength: 3015,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

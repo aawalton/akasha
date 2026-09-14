@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0147Chapter580NoKilling = {
   story: "story-read/rise-of-the-living-forge",
   position: 147,
   ownLength: 2106,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

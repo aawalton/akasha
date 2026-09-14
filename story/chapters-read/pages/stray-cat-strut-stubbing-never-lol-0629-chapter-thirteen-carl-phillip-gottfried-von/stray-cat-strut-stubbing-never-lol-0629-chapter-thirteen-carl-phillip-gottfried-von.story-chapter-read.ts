@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0629ChapterThirteenCarlPhillipGottfrie
   story: "stray-cat-strut-stubbing-never-lol",
   position: 629,
   ownLength: 1502,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

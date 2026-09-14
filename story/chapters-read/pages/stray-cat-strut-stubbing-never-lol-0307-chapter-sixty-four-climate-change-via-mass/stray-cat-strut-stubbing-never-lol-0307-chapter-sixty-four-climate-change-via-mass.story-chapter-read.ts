@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0307ChapterSixtyFourClimateChangeViaMa
   story: "stray-cat-strut-stubbing-never-lol",
   position: 307,
   ownLength: 1532,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

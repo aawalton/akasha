@@ -8,7 +8,7 @@ export const speedrunningTheMultiverseComplete0059NewStoryAnnouncement = {
   story: "speedrunning-the-multiverse-complete",
   position: 59,
   ownLength: 224,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

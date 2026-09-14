@@ -8,7 +8,7 @@ export const salvos0121672PrisonOfIsolation = {
   story: "story-read/salvos",
   position: 121,
   ownLength: 1594,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

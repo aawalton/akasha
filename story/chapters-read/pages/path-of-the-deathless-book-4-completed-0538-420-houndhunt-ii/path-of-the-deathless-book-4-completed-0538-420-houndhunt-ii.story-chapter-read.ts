@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0538420HoundhuntIi = {
   story: "path-of-the-deathless-book-4-completed",
   position: 538,
   ownLength: 5891,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

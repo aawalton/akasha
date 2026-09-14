@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0025Chapter24AHostileTakeover =
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 25,
   ownLength: 2348,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

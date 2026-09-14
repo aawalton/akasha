@@ -8,7 +8,7 @@ export const superSupportive0071SeventyRareCompany = {
   story: "super-supportive",
   position: 71,
   ownLength: 3493,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const superSupportive0173OneHundredSeventyOneEventPlanningIsnTHard = {
   story: "super-supportive",
   position: 173,
   ownLength: 6434,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

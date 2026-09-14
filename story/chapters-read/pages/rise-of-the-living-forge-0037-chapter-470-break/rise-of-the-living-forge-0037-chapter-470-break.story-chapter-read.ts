@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0037Chapter470Break = {
   story: "story-read/rise-of-the-living-forge",
   position: 37,
   ownLength: 2604,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

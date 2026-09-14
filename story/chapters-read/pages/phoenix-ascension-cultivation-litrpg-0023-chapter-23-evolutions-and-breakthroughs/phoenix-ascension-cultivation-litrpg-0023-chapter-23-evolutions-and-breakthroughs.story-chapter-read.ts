@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0023Chapter23EvolutionsAndBreakthr
   story: "phoenix-ascension-cultivation-litrpg",
   position: 23,
   ownLength: 3218,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

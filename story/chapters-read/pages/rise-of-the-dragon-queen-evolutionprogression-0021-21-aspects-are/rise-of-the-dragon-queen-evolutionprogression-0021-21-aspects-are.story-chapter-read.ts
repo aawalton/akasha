@@ -8,7 +8,7 @@ export const riseOfTheDragonQueenEvolutionprogression002121AspectsAre = {
   story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 21,
   ownLength: 1997,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -9,7 +9,7 @@ export const strayCatStrutStubbingNeverLol0647ChapterThirtyIsItReallyPossibleFor
   story: "stray-cat-strut-stubbing-never-lol",
   position: 647,
   ownLength: 1538,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

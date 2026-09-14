@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0029Chapter29TinyBloodLord = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 29,
   ownLength: 2137,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

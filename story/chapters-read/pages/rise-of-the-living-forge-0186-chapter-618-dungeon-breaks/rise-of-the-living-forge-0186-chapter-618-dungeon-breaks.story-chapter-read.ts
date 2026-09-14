@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0186Chapter618DungeonBreaks = {
   story: "story-read/rise-of-the-living-forge",
   position: 186,
   ownLength: 2010,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

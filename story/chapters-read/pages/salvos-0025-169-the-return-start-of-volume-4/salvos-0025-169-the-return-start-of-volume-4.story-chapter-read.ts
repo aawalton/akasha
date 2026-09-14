@@ -8,7 +8,7 @@ export const salvos0025169TheReturnStartOfVolume4 = {
   story: "story-read/salvos",
   position: 25,
   ownLength: 2108,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

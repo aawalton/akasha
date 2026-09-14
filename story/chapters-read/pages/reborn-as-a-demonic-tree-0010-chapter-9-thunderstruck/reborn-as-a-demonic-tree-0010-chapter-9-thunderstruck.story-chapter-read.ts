@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0010Chapter9Thunderstruck = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 10,
   ownLength: 1739,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

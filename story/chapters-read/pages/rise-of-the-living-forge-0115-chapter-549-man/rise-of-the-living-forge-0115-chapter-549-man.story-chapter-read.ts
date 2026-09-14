@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0115Chapter549Man = {
   story: "story-read/rise-of-the-living-forge",
   position: 115,
   ownLength: 1936,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

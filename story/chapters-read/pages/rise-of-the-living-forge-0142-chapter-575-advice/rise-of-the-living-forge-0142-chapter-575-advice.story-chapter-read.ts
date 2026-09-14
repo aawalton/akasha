@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0142Chapter575Advice = {
   story: "story-read/rise-of-the-living-forge",
   position: 142,
   ownLength: 1814,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

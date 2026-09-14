@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0008Chapter5GuildAssociationsHeadquarter
   story: "shapeshifter-a-non-human-litrpg",
   position: 8,
   ownLength: 1510,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

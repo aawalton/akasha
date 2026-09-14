@@ -8,7 +8,7 @@ export const superSupportive0186OneHundredEightyFourTheInwardPath = {
   story: "super-supportive",
   position: 186,
   ownLength: 4362,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

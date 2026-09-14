@@ -8,7 +8,7 @@ export const savageDivinity0237SideStory05 = {
   story: "savage-divinity",
   position: 237,
   ownLength: 1197,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-07-24",
   externalIdentity: [
     {

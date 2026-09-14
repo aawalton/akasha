@@ -8,7 +8,7 @@ export const sovereignSightProgressionFantasyCultivation0046Chapter046 = {
   story: "sovereign-sight-progression-fantasy-cultivation",
   position: 46,
   ownLength: 2730,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

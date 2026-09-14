@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0018Chapter16AForeignGue
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 18,
   ownLength: 2015,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

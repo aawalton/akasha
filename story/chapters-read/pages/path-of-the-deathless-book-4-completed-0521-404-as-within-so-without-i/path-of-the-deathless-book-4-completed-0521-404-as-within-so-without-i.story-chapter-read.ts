@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0521404AsWithinSoWithoutI = {
   story: "path-of-the-deathless-book-4-completed",
   position: 521,
   ownLength: 10248,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

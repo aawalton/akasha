@@ -8,7 +8,7 @@ export const superSupportive0289TwoHundredEightySevenItSAllHeroesOrAliens = {
   story: "super-supportive",
   position: 289,
   ownLength: 4356,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0008Chapter8TheUnscheduledDebri
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 8,
   ownLength: 1723,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

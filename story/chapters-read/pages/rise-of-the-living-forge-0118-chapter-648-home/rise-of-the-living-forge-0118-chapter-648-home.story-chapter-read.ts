@@ -6,7 +6,7 @@ export const riseOfTheLivingForge0118Chapter648Home = {
   slug: "rise-of-the-living-forge-0118-chapter-648-home",
   position: 118,
   publishedAt: "2026-09-10",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const superSupportive0018EighteenInterludeRabbit = {
   story: "super-supportive",
   position: 18,
   ownLength: 1638,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

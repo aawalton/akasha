@@ -8,7 +8,7 @@ export const savageDivinity0853Epilogue4Mila = {
   story: "savage-divinity",
   position: 853,
   ownLength: 7377,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

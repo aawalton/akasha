@@ -6,7 +6,7 @@ export const phoenixAscensionCultivationLitrpg0175Chapter175MyKill = {
   slug: "phoenix-ascension-cultivation-litrpg-0175-chapter-175-my-kill",
   position: 175,
   publishedAt: "2026-09-13",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

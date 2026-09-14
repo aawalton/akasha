@@ -8,7 +8,7 @@ export const roadToMasteryALitrpgApocalypse0004Chapter4BigAggressivePrisonMates 
   story: "road-to-mastery-a-litrpg-apocalypse",
   position: 4,
   ownLength: 1931,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -6,7 +6,7 @@ export const phoenixAscensionCultivationLitrpg0176Chapter176NewFlame = {
   slug: "phoenix-ascension-cultivation-litrpg-0176-chapter-176-new-flame",
   position: 176,
   publishedAt: "2026-09-14",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

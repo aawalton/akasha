@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0134Chapter567WrongFight = {
   story: "story-read/rise-of-the-living-forge",
   position: 134,
   ownLength: 1817,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

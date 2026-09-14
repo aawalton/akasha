@@ -8,7 +8,7 @@ export const salvos0029173Remembrance = {
   story: "story-read/salvos",
   position: 29,
   ownLength: 2100,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

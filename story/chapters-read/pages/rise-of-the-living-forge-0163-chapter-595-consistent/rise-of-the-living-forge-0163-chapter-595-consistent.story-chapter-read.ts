@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0163Chapter595Consistent = {
   story: "story-read/rise-of-the-living-forge",
   position: 163,
   ownLength: 2202,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

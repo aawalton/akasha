@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0063Chapter496ThatSTheQualityBackGuarantee = {
   story: "story-read/rise-of-the-living-forge",
   position: 63,
   ownLength: 2062,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

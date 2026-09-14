@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0544426Elevation = {
   story: "path-of-the-deathless-book-4-completed",
   position: 544,
   ownLength: 5605,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

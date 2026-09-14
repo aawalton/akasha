@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0005SystemChangeSystemUniverseBook1Announ
   story: "system-change-system-universe",
   position: 5,
   ownLength: 475,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

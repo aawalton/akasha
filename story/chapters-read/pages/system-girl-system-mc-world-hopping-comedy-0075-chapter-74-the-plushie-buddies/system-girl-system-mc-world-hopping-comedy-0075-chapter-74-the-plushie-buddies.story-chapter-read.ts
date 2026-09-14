@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0075Chapter74ThePlushieBuddies 
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 75,
   ownLength: 2174,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

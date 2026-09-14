@@ -8,7 +8,7 @@ export const pathToProsperityLitrpgVol12Stubbed0001B1Chapter1WorstMorningEver = 
   story: "path-to-prosperity-litrpg-vol-12-stubbed",
   position: 1,
   ownLength: 762,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

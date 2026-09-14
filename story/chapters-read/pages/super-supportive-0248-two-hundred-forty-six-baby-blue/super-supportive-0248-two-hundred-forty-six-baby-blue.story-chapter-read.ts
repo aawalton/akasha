@@ -8,7 +8,7 @@ export const superSupportive0248TwoHundredFortySixBabyBlue = {
   story: "super-supportive",
   position: 248,
   ownLength: 3414,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

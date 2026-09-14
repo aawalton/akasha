@@ -8,7 +8,7 @@ export const superSupportive0020TwentyAnOrdinaryMailbox = {
   story: "super-supportive",
   position: 20,
   ownLength: 1520,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

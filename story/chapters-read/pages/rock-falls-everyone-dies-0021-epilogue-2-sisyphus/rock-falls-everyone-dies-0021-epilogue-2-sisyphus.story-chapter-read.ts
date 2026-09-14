@@ -8,7 +8,7 @@ export const rockFallsEveryoneDies0021Epilogue2Sisyphus = {
   story: "rock-falls-everyone-dies",
   position: 21,
   ownLength: 1488,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

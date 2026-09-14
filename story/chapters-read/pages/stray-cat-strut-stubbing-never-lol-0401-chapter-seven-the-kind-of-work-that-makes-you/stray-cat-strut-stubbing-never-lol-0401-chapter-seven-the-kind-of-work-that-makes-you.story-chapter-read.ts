@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0401ChapterSevenTheKindOfWorkThatMakes
   story: "stray-cat-strut-stubbing-never-lol",
   position: 401,
   ownLength: 1466,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

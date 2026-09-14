@@ -8,7 +8,7 @@ export const succulentGirlEvolution0035Chapter35NewParty = {
   story: "succulent-girl-evolution",
   position: 35,
   ownLength: 1993,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

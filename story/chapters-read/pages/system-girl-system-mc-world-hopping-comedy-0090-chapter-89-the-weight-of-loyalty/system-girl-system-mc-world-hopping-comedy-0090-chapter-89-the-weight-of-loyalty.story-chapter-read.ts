@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0090Chapter89TheWeightOfLoyalty
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 90,
   ownLength: 2029,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

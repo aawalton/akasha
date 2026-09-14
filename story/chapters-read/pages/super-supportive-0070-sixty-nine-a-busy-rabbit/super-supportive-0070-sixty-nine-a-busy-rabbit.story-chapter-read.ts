@@ -8,7 +8,7 @@ export const superSupportive0070SixtyNineABusyRabbit = {
   story: "super-supportive",
   position: 70,
   ownLength: 7961,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

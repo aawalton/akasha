@@ -8,7 +8,7 @@ export const succulentGirlEvolution0015Chapter15Leech = {
   story: "succulent-girl-evolution",
   position: 15,
   ownLength: 1884,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

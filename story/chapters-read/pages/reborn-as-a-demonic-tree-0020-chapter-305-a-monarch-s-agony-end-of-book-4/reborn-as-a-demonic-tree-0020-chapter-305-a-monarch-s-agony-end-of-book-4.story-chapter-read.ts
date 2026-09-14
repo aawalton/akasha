@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0020Chapter305AMonarchSAgonyEndOfBook4 = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 20,
   ownLength: 3241,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

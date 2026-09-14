@@ -8,7 +8,7 @@ export const rockFallsEveryoneDies0010Chapter9CoreStrength = {
   story: "rock-falls-everyone-dies",
   position: 10,
   ownLength: 1909,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

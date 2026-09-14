@@ -8,7 +8,7 @@ export const salvos0067436FamilyTripStartOfVolume5Part5 = {
   story: "story-read/salvos",
   position: 67,
   ownLength: 2441,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

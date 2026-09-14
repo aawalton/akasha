@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0017ThankYou = {
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 17,
   ownLength: 571,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

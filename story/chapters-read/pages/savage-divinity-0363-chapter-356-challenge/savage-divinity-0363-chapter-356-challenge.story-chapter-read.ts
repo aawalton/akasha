@@ -8,7 +8,7 @@ export const savageDivinity0363Chapter356Challenge = {
   story: "savage-divinity",
   position: 363,
   ownLength: 3375,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

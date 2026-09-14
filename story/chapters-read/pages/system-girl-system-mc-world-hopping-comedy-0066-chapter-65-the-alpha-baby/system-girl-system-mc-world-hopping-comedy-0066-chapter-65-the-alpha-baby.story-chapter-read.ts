@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0066Chapter65TheAlphaBaby = {
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 66,
   ownLength: 2319,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

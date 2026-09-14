@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0021Chapter320Patrolling = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 21,
   ownLength: 2257,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

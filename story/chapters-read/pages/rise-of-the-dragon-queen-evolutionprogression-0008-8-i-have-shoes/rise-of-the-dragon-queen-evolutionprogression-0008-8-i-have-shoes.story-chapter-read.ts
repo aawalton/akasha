@@ -8,7 +8,7 @@ export const riseOfTheDragonQueenEvolutionprogression00088IHaveShoes = {
   story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 8,
   ownLength: 2318,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

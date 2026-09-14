@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0518402IiTheEnemyOfMyEnemyIsButTheD
   story: "path-of-the-deathless-book-4-completed",
   position: 518,
   ownLength: 4480,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0547ChapterThirtySixDiggyDiggyHole = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 547,
   ownLength: 1486,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

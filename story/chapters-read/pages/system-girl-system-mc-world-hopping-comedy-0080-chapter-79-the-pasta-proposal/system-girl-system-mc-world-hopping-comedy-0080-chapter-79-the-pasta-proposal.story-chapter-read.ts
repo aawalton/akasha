@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0080Chapter79ThePastaProposal =
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 80,
   ownLength: 2629,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

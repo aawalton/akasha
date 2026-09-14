@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0079ChapterSeventySevenAnticlimax = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 79,
   ownLength: 1942,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

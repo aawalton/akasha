@@ -8,7 +8,7 @@ export const superSupportive0030ThirtyMoonThegundPt2 = {
   story: "super-supportive",
   position: 30,
   ownLength: 4111,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

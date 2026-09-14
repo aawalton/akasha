@@ -8,7 +8,7 @@ export const superSupportive0017SeventeenBoePartTwo = {
   story: "super-supportive",
   position: 17,
   ownLength: 5029,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

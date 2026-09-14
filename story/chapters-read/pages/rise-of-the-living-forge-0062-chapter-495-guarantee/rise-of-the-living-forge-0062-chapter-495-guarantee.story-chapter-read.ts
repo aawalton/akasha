@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0062Chapter495Guarantee = {
   story: "story-read/rise-of-the-living-forge",
   position: 62,
   ownLength: 1766,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

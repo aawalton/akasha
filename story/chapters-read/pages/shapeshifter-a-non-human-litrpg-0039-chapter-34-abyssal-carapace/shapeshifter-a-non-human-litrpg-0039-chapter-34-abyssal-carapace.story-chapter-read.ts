@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0039Chapter34AbyssalCarapace = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 39,
   ownLength: 2150,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

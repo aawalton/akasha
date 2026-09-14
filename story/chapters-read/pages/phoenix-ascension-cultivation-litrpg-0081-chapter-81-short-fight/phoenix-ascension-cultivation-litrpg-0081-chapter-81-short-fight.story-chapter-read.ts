@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0081Chapter81ShortFight = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 81,
   ownLength: 2086,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

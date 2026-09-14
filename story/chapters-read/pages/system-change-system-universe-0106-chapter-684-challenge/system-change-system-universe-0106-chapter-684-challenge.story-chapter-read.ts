@@ -6,7 +6,7 @@ export const systemChangeSystemUniverse0106Chapter684Challenge = {
   slug: "system-change-system-universe-0106-chapter-684-challenge",
   position: 106,
   publishedAt: "2026-09-10",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

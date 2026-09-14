@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0006Chapter265Specifics = {
   story: "story-read/rise-of-the-living-forge",
   position: 6,
   ownLength: 1822,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0020Chapter20TheUnwinnableEscor
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 20,
   ownLength: 2251,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

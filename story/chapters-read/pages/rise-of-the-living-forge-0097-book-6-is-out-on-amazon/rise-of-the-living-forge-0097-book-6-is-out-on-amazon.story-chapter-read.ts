@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0097Book6IsOutOnAmazon = {
   story: "story-read/rise-of-the-living-forge",
   position: 97,
   ownLength: 96,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

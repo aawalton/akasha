@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0020Chapter600PostInvasion = {
   story: "system-change-system-universe",
   position: 20,
   ownLength: 2079,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

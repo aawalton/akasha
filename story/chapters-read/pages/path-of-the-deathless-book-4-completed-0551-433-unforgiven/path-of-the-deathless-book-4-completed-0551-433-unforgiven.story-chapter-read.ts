@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0551433Unforgiven = {
   story: "path-of-the-deathless-book-4-completed",
   position: 551,
   ownLength: 5349,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

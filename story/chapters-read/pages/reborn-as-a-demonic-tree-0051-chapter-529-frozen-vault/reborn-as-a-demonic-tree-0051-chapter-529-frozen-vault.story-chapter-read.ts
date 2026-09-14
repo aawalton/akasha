@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0051Chapter529FrozenVault = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 51,
   ownLength: 2673,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

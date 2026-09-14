@@ -8,7 +8,7 @@ export const superSupportive0102OneHundredOneAnesidoraTime0715Pm = {
   story: "super-supportive",
   position: 102,
   ownLength: 5289,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

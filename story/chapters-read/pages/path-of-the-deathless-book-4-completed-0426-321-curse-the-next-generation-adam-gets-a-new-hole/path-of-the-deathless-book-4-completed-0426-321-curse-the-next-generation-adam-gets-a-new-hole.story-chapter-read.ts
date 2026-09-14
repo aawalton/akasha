@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0426321CurseTheNextGenerationAdamGe
   story: "path-of-the-deathless-book-4-completed",
   position: 426,
   ownLength: 6283,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const superSupportive0242TwoHundredFortyHoppingI = {
   story: "super-supportive",
   position: 242,
   ownLength: 4458,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

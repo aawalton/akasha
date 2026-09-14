@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0131Chapter564TemptingOffers = {
   story: "story-read/rise-of-the-living-forge",
   position: 131,
   ownLength: 2016,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

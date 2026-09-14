@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0093Chapter391Delaying = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 93,
   ownLength: 2340,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0158Chapter158GreedySword = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 158,
   ownLength: 3666,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0089Chapter523Eager = {
   story: "story-read/rise-of-the-living-forge",
   position: 89,
   ownLength: 1767,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

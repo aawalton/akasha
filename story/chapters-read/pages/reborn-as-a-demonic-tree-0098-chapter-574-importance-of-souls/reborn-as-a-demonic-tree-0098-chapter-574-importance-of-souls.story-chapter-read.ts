@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0098Chapter574ImportanceOfSouls = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 98,
   ownLength: 2629,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

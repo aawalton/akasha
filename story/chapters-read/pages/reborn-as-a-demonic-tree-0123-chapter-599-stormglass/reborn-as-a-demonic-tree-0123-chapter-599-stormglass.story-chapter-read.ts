@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0123Chapter599Stormglass = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 123,
   ownLength: 2365,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

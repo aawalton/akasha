@@ -8,7 +8,7 @@ export const sherlyTheMostVirtuousHolyCow0001Chapter1CowOnTheRun = {
   story: "sherly-the-most-virtuous-holy-cow",
   position: 1,
   ownLength: 2545,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

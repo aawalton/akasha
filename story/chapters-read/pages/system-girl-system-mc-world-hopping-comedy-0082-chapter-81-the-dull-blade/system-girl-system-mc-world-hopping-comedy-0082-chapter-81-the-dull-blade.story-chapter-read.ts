@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0082Chapter81TheDullBlade = {
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 82,
   ownLength: 2278,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

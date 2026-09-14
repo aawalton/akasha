@@ -8,7 +8,7 @@ export const superSupportive0014FourteenClassTraderPartOne = {
   story: "super-supportive",
   position: 14,
   ownLength: 2532,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

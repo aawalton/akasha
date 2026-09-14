@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0049Chapter49BeastCore = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 49,
   ownLength: 2526,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0027Chapter26AConferenceCallFro
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 27,
   ownLength: 2037,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

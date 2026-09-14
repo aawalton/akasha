@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0012Chapter486WorldBoss = {
   story: "system-change-system-universe",
   position: 12,
   ownLength: 2114,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

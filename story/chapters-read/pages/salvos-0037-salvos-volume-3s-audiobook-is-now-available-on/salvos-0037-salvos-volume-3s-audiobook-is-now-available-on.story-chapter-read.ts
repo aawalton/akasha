@@ -8,7 +8,7 @@ export const salvos0037SalvosVolume3sAudiobookIsNowAvailableOn = {
   story: "story-read/salvos",
   position: 37,
   ownLength: 85,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

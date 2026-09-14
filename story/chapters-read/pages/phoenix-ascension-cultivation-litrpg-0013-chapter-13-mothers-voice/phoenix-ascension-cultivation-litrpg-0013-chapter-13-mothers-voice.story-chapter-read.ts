@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0013Chapter13MothersVoice = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 13,
   ownLength: 2653,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

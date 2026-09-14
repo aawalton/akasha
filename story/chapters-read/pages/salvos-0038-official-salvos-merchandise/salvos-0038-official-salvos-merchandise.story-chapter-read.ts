@@ -8,7 +8,7 @@ export const salvos0038OfficialSalvosMerchandise = {
   story: "story-read/salvos",
   position: 38,
   ownLength: 216,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

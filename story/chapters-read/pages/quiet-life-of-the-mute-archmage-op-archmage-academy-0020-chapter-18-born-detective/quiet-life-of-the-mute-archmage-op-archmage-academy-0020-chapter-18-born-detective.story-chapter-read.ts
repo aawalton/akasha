@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0020Chapter18BornDetecti
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 20,
   ownLength: 2092,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

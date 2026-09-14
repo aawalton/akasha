@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0083Chapter517TheGuardian = {
   story: "story-read/rise-of-the-living-forge",
   position: 83,
   ownLength: 2075,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

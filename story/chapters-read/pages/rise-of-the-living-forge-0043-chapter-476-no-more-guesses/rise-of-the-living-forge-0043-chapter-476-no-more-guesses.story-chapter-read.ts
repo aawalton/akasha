@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0043Chapter476NoMoreGuesses = {
   story: "story-read/rise-of-the-living-forge",
   position: 43,
   ownLength: 1864,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

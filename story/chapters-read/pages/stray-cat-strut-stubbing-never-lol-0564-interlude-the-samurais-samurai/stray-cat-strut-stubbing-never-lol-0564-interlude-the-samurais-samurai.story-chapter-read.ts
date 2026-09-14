@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0564InterludeTheSamuraisSamurai = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 564,
   ownLength: 1347,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

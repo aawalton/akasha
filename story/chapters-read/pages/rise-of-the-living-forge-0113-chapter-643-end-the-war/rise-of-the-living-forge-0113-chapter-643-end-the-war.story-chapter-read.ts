@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0113Chapter643EndTheWar = {
   story: "story-read/rise-of-the-living-forge",
   position: 113,
   ownLength: 2027,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0065Chapter64TheSpiceEmpire = {
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 65,
   ownLength: 1917,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

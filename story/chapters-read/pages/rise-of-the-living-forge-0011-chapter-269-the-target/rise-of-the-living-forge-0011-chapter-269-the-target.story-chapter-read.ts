@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0011Chapter269TheTarget = {
   story: "story-read/rise-of-the-living-forge",
   position: 11,
   ownLength: 1718,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

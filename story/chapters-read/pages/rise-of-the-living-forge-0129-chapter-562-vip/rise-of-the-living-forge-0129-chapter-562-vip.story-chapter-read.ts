@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0129Chapter562Vip = {
   story: "story-read/rise-of-the-living-forge",
   position: 129,
   ownLength: 1671,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

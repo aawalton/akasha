@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0185Chapter617HarshRealities = {
   story: "story-read/rise-of-the-living-forge",
   position: 185,
   ownLength: 1933,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

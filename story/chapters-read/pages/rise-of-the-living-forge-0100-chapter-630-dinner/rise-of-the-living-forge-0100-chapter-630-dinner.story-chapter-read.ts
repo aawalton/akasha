@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0100Chapter630Dinner = {
   story: "story-read/rise-of-the-living-forge",
   position: 100,
   ownLength: 1686,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

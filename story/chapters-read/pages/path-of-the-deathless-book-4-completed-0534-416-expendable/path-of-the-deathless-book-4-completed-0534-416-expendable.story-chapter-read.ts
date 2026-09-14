@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0534416Expendable = {
   story: "path-of-the-deathless-book-4-completed",
   position: 534,
   ownLength: 6517,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

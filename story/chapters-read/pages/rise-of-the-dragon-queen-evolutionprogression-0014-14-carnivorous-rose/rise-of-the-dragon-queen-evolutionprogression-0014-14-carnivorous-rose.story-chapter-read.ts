@@ -8,7 +8,7 @@ export const riseOfTheDragonQueenEvolutionprogression001414CarnivorousRose = {
   story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 14,
   ownLength: 1996,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

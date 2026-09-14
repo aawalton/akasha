@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0040ChapterThirtyEightFleshMelter = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 40,
   ownLength: 1048,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

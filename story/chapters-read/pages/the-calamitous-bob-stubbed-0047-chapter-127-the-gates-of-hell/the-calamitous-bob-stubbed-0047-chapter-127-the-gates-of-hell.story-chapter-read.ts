@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0047Chapter127TheGatesOfHell = {
   story: "the-calamitous-bob-stubbed",
   position: 47,
   ownLength: 5030,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const salvos0048346WillysWillStartOfVolume5Part3 = {
   story: "story-read/salvos",
   position: 48,
   ownLength: 2168,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

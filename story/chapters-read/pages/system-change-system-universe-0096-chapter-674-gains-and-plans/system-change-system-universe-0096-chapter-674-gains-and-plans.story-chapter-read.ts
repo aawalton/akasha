@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0096Chapter674GainsAndPlans = {
   story: "system-change-system-universe",
   position: 96,
   ownLength: 2175,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

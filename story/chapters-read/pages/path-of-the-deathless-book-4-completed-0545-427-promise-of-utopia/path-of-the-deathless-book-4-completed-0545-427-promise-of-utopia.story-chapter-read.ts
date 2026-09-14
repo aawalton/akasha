@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0545427PromiseOfUtopia = {
   story: "path-of-the-deathless-book-4-completed",
   position: 545,
   ownLength: 4650,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0074Chapter154TheParameseAllianceIsInShamble
   story: "the-calamitous-bob-stubbed",
   position: 74,
   ownLength: 5777,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0596ChapterSeventyFiveTheWorthOfAHuman
   story: "stray-cat-strut-stubbing-never-lol",
   position: 596,
   ownLength: 1582,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

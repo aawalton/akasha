@@ -8,7 +8,7 @@ export const speedrunningTheMultiverseComplete0014259TheGodhunterXi = {
   story: "speedrunning-the-multiverse-complete",
   position: 14,
   ownLength: 1993,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

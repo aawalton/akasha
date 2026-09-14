@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0350277IUnseenUnheardUnknownIi29886
   story: "path-of-the-deathless-book-4-completed",
   position: 350,
   ownLength: 3451,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

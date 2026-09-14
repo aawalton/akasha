@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0006SystemUniverseBook2TorithIsFinallyOut
   story: "system-change-system-universe",
   position: 6,
   ownLength: 453,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

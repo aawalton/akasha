@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0038Chapter33LivingInTheShadows = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 38,
   ownLength: 1965,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const superSupportive0090EightyNineHeroTypes = {
   story: "super-supportive",
   position: 90,
   ownLength: 5086,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const succulentGirlEvolution0027Chapter27FriendshipMeansConsideration = {
   story: "succulent-girl-evolution",
   position: 27,
   ownLength: 1852,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

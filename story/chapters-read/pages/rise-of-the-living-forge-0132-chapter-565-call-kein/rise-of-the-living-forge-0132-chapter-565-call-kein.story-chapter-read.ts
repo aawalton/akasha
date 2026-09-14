@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0132Chapter565CallKein = {
   story: "story-read/rise-of-the-living-forge",
   position: 132,
   ownLength: 1613,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

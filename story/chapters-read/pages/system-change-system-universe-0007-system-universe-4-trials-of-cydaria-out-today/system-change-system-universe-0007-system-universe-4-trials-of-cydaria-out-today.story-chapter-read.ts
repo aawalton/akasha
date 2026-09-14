@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0007SystemUniverse4TrialsOfCydariaOutToda
   story: "system-change-system-universe",
   position: 7,
   ownLength: 515,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

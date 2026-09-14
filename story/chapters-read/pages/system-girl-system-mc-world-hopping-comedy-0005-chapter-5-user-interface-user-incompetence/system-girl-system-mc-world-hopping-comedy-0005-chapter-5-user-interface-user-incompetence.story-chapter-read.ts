@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0005Chapter5UserInterfaceUserIn
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 5,
   ownLength: 1793,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0014Chapter14ThePupAndTheTemp =
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 14,
   ownLength: 1409,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

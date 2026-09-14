@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0011Chapter11FortuneFavorsTheBold 
   story: "phoenix-ascension-cultivation-litrpg",
   position: 11,
   ownLength: 2438,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

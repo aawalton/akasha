@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0056Chapter136BloodOnTheSand = {
   story: "the-calamitous-bob-stubbed",
   position: 56,
   ownLength: 7170,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0064Chapter144BankingWithBobTheLeagueSteals 
   story: "the-calamitous-bob-stubbed",
   position: 64,
   ownLength: 4517,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

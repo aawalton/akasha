@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0177ChapterTenTensions = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 177,
   ownLength: 1599,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

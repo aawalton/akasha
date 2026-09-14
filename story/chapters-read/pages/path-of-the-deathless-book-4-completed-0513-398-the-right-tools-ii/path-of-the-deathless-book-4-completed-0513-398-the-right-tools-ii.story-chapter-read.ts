@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0513398TheRightToolsIi = {
   story: "path-of-the-deathless-book-4-completed",
   position: 513,
   ownLength: 4749,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0019Chapter15AcidSlimes = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 19,
   ownLength: 1971,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

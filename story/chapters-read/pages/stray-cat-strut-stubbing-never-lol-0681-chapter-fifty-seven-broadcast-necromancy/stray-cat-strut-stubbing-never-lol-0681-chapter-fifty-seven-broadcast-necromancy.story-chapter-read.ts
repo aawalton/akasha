@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0681ChapterFiftySevenBroadcastNecroman
   story: "stray-cat-strut-stubbing-never-lol",
   position: 681,
   ownLength: 1459,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -6,7 +6,7 @@ export const pathOfTheDeathlessBook4Completed0474457PlayersBeyondTheBoard = {
   slug: "path-of-the-deathless-book-4-completed-0474-457-players-beyond-the-board",
   position: 474,
   publishedAt: "2026-09-12",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

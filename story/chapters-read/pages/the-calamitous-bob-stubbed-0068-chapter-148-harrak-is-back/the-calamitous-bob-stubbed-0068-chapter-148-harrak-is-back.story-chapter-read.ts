@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0068Chapter148HarrakIsBack = {
   story: "the-calamitous-bob-stubbed",
   position: 68,
   ownLength: 7144,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

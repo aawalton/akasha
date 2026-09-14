@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0455345HarbingerI3330270 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 455,
   ownLength: 5021,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

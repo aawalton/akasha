@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0023Chapter23ThePreFlightCheckl
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 23,
   ownLength: 2324,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

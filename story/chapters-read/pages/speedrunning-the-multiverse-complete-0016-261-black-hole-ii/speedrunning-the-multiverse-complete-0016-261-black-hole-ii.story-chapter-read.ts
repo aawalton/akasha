@@ -8,7 +8,7 @@ export const speedrunningTheMultiverseComplete0016261BlackHoleIi = {
   story: "speedrunning-the-multiverse-complete",
   position: 16,
   ownLength: 1978,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

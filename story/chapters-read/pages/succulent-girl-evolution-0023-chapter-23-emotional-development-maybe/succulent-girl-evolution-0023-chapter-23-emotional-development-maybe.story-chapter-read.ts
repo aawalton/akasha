@@ -8,7 +8,7 @@ export const succulentGirlEvolution0023Chapter23EmotionalDevelopmentMaybe = {
   story: "succulent-girl-evolution",
   position: 23,
   ownLength: 2033,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

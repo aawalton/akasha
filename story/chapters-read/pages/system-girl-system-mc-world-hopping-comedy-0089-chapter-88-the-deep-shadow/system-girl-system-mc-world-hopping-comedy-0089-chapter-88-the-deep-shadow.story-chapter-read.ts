@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0089Chapter88TheDeepShadow = {
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 89,
   ownLength: 2250,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

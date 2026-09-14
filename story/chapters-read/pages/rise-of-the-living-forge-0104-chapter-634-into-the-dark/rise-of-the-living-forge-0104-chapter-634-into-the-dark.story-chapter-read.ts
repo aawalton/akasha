@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0104Chapter634IntoTheDark = {
   story: "story-read/rise-of-the-living-forge",
   position: 104,
   ownLength: 2016,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

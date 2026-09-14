@@ -8,7 +8,7 @@ export const superSupportive0107OneHundredSixLedger = {
   story: "super-supportive",
   position: 107,
   ownLength: 6721,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

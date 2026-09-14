@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0155ChapterSeventyOneChlorineTrifluori
   story: "stray-cat-strut-stubbing-never-lol",
   position: 155,
   ownLength: 1409,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

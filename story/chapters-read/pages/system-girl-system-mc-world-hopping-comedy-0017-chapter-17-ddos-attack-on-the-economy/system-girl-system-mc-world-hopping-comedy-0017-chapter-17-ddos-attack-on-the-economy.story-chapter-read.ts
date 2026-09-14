@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0017Chapter17DdosAttackOnTheEco
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 17,
   ownLength: 2171,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

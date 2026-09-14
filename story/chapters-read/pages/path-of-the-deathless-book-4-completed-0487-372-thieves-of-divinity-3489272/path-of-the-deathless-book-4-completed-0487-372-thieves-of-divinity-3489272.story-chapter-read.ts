@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0487372ThievesOfDivinity3489272 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 487,
   ownLength: 3830,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

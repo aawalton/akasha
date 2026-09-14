@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0071Chapter70TheEmpireAndTheFir
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 71,
   ownLength: 2245,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

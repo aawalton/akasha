@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0486371ACoalitionAgainstTheEndIii34
   story: "path-of-the-deathless-book-4-completed",
   position: 486,
   ownLength: 5010,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

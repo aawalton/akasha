@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0180Chapter612Miscalculation = {
   story: "story-read/rise-of-the-living-forge",
   position: 180,
   ownLength: 1519,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

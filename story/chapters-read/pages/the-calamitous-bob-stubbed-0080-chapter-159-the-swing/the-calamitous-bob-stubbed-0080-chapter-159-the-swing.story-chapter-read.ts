@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0080Chapter159TheSwing = {
   story: "the-calamitous-bob-stubbed",
   position: 80,
   ownLength: 4664,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

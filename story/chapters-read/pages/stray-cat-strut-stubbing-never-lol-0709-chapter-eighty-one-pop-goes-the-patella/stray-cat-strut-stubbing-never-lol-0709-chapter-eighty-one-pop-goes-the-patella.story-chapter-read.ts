@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0709ChapterEightyOnePopGoesThePatella 
   story: "stray-cat-strut-stubbing-never-lol",
   position: 709,
   ownLength: 1564,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

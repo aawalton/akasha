@@ -8,7 +8,7 @@ export const succulentGirlEvolution0004Chapter4BabysFirstBooboo = {
   story: "succulent-girl-evolution",
   position: 4,
   ownLength: 2295,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

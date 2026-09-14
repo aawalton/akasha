@@ -8,7 +8,7 @@ export const salvos0040289DespairPartThreeEndOfVolume5Part1 = {
   story: "story-read/salvos",
   position: 40,
   ownLength: 3094,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

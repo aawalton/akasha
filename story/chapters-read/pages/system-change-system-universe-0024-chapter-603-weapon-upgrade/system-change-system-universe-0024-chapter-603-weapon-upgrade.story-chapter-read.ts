@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0024Chapter603WeaponUpgrade = {
   story: "system-change-system-universe",
   position: 24,
   ownLength: 2104,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

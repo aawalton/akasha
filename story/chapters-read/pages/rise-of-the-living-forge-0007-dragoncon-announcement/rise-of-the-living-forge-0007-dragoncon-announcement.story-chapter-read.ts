@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0007DragonconAnnouncement = {
   story: "story-read/rise-of-the-living-forge",
   position: 7,
   ownLength: 214,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

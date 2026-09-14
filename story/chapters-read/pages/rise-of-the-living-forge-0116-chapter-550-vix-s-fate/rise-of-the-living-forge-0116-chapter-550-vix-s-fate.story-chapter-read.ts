@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0116Chapter550VixSFate = {
   story: "story-read/rise-of-the-living-forge",
   position: 116,
   ownLength: 1918,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

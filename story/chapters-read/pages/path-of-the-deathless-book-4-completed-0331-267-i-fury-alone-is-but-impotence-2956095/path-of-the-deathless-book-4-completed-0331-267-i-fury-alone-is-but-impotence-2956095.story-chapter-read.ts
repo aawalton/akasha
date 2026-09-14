@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0331267IFuryAloneIsButImpotence2956
   story: "path-of-the-deathless-book-4-completed",
   position: 331,
   ownLength: 3589,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

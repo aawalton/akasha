@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0446ChapterFortyOneRecreationalUrbanWa
   story: "stray-cat-strut-stubbing-never-lol",
   position: 446,
   ownLength: 1468,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

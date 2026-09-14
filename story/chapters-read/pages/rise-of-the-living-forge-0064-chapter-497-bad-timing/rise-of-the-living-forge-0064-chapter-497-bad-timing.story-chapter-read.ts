@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0064Chapter497BadTiming = {
   story: "story-read/rise-of-the-living-forge",
   position: 64,
   ownLength: 1603,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

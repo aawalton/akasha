@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0704ChapterSeventySixMaximumClonage = 
   story: "stray-cat-strut-stubbing-never-lol",
   position: 704,
   ownLength: 1481,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

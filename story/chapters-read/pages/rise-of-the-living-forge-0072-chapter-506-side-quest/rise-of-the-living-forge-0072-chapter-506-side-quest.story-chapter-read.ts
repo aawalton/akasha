@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0072Chapter506SideQuest = {
   story: "story-read/rise-of-the-living-forge",
   position: 72,
   ownLength: 1968,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

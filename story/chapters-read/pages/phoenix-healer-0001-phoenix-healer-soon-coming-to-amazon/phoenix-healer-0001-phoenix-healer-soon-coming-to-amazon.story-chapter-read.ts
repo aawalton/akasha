@@ -8,7 +8,7 @@ export const phoenixHealer0001PhoenixHealerSoonComingToAmazon = {
   story: "phoenix-healer",
   position: 1,
   ownLength: 148,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

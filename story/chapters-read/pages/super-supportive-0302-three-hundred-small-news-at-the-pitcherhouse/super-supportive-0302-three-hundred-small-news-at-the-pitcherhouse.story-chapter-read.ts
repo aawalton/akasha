@@ -8,7 +8,7 @@ export const superSupportive0302ThreeHundredSmallNewsAtThePitcherhouse = {
   story: "super-supportive",
   position: 302,
   ownLength: 4649,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const superSupportive0023TwentyThreeFuneral = {
   story: "super-supportive",
   position: 23,
   ownLength: 5020,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

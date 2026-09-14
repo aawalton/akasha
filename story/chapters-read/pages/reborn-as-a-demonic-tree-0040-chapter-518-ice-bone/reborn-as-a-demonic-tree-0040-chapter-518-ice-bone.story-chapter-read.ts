@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0040Chapter518IceBone = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 40,
   ownLength: 2956,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

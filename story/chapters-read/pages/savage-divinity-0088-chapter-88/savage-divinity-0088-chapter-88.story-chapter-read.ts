@@ -8,7 +8,7 @@ export const savageDivinity0088Chapter88 = {
   story: "savage-divinity",
   position: 88,
   ownLength: 3781,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

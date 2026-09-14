@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0062Chapter62RefiningPillsV = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 62,
   ownLength: 2527,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

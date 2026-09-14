@@ -8,7 +8,7 @@ export const riseOfTheDragonQueenEvolutionprogression00066SoaringThroughTheSkies
   story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 6,
   ownLength: 2358,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0066Chapter66AlreadyAtTheFirstLaye
   story: "phoenix-ascension-cultivation-litrpg",
   position: 66,
   ownLength: 2209,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0059ChapterFiftySevenCollateralDamage 
   story: "stray-cat-strut-stubbing-never-lol",
   position: 59,
   ownLength: 1488,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

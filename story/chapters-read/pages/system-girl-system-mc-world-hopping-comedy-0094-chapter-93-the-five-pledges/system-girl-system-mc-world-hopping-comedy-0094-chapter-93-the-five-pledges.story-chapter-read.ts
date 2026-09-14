@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0094Chapter93TheFivePledges = {
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 94,
   ownLength: 1966,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

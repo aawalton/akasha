@@ -8,7 +8,7 @@ export const rockFallsEveryoneDies0015Chapter14HeavyMetalVsRock = {
   story: "rock-falls-everyone-dies",
   position: 15,
   ownLength: 2114,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

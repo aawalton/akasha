@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0002Chapter2IntoTheVoid = {
   story: "system-change-system-universe",
   position: 2,
   ownLength: 2121,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

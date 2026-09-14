@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0173Chapter605Common = {
   story: "story-read/rise-of-the-living-forge",
   position: 173,
   ownLength: 1729,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

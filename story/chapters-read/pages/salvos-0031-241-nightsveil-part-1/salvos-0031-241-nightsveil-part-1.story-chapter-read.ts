@@ -8,7 +8,7 @@ export const salvos0031241NightsveilPart1 = {
   story: "story-read/salvos",
   position: 31,
   ownLength: 2240,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

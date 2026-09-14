@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0048Chapter48NemesisSystem = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 48,
   ownLength: 1982,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

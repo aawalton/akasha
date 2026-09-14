@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0059Chapter637Ascender = {
   story: "system-change-system-universe",
   position: 59,
   ownLength: 2141,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

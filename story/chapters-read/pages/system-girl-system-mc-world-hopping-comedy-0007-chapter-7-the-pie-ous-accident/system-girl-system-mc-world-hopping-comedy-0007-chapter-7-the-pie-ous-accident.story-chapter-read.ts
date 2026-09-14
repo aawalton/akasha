@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0007Chapter7ThePieOusAccident =
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 7,
   ownLength: 1584,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

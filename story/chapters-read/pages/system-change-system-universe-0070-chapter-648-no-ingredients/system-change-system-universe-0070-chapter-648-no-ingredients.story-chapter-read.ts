@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0070Chapter648NoIngredients = {
   story: "system-change-system-universe",
   position: 70,
   ownLength: 2063,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

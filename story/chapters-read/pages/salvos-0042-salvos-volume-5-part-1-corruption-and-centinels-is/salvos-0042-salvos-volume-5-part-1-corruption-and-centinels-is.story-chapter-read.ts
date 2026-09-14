@@ -8,7 +8,7 @@ export const salvos0042SalvosVolume5Part1CorruptionAndCentinelsIs = {
   story: "story-read/salvos",
   position: 42,
   ownLength: 115,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

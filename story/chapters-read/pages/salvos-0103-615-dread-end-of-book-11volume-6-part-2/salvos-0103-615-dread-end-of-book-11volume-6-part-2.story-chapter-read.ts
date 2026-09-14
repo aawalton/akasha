@@ -8,7 +8,7 @@ export const salvos0103615DreadEndOfBook11volume6Part2 = {
   story: "story-read/salvos",
   position: 103,
   ownLength: 1380,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

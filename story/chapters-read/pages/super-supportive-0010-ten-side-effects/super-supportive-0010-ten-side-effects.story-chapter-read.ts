@@ -8,7 +8,7 @@ export const superSupportive0010TenSideEffects = {
   story: "super-supportive",
   position: 10,
   ownLength: 2669,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

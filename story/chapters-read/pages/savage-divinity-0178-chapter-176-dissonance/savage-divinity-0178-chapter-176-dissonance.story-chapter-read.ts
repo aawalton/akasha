@@ -8,7 +8,7 @@ export const savageDivinity0178Chapter176Dissonance = {
   story: "savage-divinity",
   position: 178,
   ownLength: 2937,
-  unit: "words",
+  unit: "unit/words",
   publishedAt: "2017-02-22",
   externalIdentity: [
     {

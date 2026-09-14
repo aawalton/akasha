@@ -8,7 +8,7 @@ export const salvos0125719TheArchangelPartTwo = {
   story: "story-read/salvos",
   position: 125,
   ownLength: 1423,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

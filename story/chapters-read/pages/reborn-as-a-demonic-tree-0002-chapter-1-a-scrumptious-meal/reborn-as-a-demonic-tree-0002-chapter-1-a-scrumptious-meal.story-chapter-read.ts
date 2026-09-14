@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0002Chapter1AScrumptiousMeal = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 2,
   ownLength: 1955,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

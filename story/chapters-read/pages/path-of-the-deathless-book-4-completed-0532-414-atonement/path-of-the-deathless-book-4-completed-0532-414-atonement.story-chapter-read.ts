@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0532414Atonement = {
   story: "path-of-the-deathless-book-4-completed",
   position: 532,
   ownLength: 5518,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

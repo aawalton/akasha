@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0527409TheOneWhoDecidesIi = {
   story: "path-of-the-deathless-book-4-completed",
   position: 527,
   ownLength: 5204,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

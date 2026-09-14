@@ -8,7 +8,7 @@ export const salvos0060Chapter400SpecialSideCharacterPopularityPoll = {
   story: "story-read/salvos",
   position: 60,
   ownLength: 103,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

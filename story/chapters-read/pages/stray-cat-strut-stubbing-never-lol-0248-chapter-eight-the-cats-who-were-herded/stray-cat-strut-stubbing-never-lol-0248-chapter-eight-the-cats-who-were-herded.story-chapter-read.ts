@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0248ChapterEightTheCatsWhoWereHerded =
   story: "stray-cat-strut-stubbing-never-lol",
   position: 248,
   ownLength: 1483,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

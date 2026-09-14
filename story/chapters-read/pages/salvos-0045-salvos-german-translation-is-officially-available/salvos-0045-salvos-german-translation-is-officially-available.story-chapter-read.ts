@@ -8,7 +8,7 @@ export const salvos0045SalvosGermanTranslationIsOfficiallyAvailable = {
   story: "story-read/salvos",
   position: 45,
   ownLength: 97,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

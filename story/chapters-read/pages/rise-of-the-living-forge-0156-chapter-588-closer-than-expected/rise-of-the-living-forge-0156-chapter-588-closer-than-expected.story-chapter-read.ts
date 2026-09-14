@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0156Chapter588CloserThanExpected = {
   story: "story-read/rise-of-the-living-forge",
   position: 156,
   ownLength: 1778,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

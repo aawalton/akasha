@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0041Chapter474ScarredHand = {
   story: "story-read/rise-of-the-living-forge",
   position: 41,
   ownLength: 2181,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

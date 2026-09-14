@@ -8,7 +8,7 @@ export const salvos0016104FancyDisguise = {
   story: "story-read/salvos",
   position: 16,
   ownLength: 3728,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

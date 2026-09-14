@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0020Chapter16TruePower = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 20,
   ownLength: 1672,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

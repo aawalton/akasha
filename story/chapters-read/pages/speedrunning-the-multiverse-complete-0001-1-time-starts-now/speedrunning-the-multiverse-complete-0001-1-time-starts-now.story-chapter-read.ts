@@ -8,7 +8,7 @@ export const speedrunningTheMultiverseComplete00011TimeStartsNow = {
   story: "speedrunning-the-multiverse-complete",
   position: 1,
   ownLength: 2759,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

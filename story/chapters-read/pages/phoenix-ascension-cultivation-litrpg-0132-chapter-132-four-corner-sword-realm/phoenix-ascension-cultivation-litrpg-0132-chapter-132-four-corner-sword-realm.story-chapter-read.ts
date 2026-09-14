@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0132Chapter132FourCornerSwordRealm
   story: "phoenix-ascension-cultivation-litrpg",
   position: 132,
   ownLength: 1827,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

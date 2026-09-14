@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0106Chapter636Hero = {
   story: "story-read/rise-of-the-living-forge",
   position: 106,
   ownLength: 1951,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

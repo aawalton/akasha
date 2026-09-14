@@ -8,7 +8,7 @@ export const salvos000841DanielsDilemmaStartOfVolume2 = {
   story: "story-read/salvos",
   position: 8,
   ownLength: 1828,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

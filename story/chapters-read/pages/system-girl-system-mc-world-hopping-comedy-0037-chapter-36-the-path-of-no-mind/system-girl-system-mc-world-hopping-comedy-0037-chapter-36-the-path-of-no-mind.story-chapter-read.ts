@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0037Chapter36ThePathOfNoMind = 
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 37,
   ownLength: 1825,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const superSupportive0109OneHundredEightCanoe = {
   story: "super-supportive",
   position: 109,
   ownLength: 3654,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

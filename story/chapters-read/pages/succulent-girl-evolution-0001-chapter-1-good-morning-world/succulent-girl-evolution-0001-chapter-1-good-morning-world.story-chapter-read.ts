@@ -8,7 +8,7 @@ export const succulentGirlEvolution0001Chapter1GoodMorningWorld = {
   story: "succulent-girl-evolution",
   position: 1,
   ownLength: 2077,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

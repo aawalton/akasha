@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0762ChapterThirtyNineTheDifferenceBetw
   story: "stray-cat-strut-stubbing-never-lol",
   position: 762,
   ownLength: 1540,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

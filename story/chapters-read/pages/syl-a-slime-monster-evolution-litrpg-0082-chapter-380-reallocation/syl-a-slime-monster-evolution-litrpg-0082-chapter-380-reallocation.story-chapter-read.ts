@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0082Chapter380Reallocation = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 82,
   ownLength: 2172,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

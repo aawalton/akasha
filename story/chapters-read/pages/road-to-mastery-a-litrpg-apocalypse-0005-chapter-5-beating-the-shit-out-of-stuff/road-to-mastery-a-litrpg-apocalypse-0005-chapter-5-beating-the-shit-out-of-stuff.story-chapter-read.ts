@@ -8,7 +8,7 @@ export const roadToMasteryALitrpgApocalypse0005Chapter5BeatingTheShitOutOfStuff 
   story: "road-to-mastery-a-litrpg-apocalypse",
   position: 5,
   ownLength: 2018,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

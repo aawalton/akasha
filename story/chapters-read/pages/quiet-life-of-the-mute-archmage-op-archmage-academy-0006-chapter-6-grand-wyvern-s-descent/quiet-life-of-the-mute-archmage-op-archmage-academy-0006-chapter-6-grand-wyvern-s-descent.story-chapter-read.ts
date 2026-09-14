@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0006Chapter6GrandWyvernS
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 6,
   ownLength: 1781,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

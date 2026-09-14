@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0032Chapter28BountyHunting = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 32,
   ownLength: 1937,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

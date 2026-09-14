@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0046Chapter46UndergoingRebirth = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 46,
   ownLength: 2789,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

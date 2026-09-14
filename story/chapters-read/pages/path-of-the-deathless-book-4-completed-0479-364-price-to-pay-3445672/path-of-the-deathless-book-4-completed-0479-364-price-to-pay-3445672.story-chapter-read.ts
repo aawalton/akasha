@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0479364PriceToPay3445672 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 479,
   ownLength: 4588,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

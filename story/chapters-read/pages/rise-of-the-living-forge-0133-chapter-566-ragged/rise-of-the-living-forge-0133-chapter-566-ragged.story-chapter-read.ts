@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0133Chapter566Ragged = {
   story: "story-read/rise-of-the-living-forge",
   position: 133,
   ownLength: 2048,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

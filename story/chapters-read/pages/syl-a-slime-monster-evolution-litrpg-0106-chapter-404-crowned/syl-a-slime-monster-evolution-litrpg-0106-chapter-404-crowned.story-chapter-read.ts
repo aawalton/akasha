@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0106Chapter404Crowned = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 106,
   ownLength: 2232,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

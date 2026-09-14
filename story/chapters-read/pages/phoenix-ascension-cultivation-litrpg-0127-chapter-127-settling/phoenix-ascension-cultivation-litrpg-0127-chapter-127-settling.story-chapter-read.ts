@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0127Chapter127Settling = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 127,
   ownLength: 2486,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

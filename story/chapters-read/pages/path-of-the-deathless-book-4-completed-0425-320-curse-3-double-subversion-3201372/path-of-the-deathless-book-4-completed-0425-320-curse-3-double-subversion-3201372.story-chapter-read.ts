@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0425320Curse3DoubleSubversion320137
   story: "path-of-the-deathless-book-4-completed",
   position: 425,
   ownLength: 4912,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

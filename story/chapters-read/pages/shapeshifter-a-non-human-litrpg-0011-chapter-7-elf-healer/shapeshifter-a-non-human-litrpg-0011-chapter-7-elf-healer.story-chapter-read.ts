@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0011Chapter7ElfHealer = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 11,
   ownLength: 2267,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

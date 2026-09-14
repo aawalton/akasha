@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0043Chapter38Dreamscape = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 43,
   ownLength: 1964,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

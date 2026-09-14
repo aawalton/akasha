@@ -8,7 +8,7 @@ export const superSupportive0026TwentySixFirstAssignment = {
   story: "super-supportive",
   position: 26,
   ownLength: 9675,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const salvos0011100ContractEndOfVolume2 = {
   story: "story-read/salvos",
   position: 11,
   ownLength: 3627,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

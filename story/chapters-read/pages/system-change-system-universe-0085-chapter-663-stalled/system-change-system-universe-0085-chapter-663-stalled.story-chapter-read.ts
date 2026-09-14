@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0085Chapter663Stalled = {
   story: "system-change-system-universe",
   position: 85,
   ownLength: 2040,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

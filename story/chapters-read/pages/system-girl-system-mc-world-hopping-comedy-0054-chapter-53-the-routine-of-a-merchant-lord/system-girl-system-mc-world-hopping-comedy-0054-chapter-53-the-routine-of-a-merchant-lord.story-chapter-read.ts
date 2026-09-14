@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0054Chapter53TheRoutineOfAMerch
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 54,
   ownLength: 2296,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

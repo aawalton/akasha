@@ -8,7 +8,7 @@ export const salvos0135759EmbracingDeathPartSeven = {
   story: "story-read/salvos",
   position: 135,
   ownLength: 1701,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0164PhoenixChapter164ElderSu = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 164,
   ownLength: 2999,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

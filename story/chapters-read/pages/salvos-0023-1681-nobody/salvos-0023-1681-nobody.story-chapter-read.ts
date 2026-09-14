@@ -8,7 +8,7 @@ export const salvos00231681Nobody = {
   story: "story-read/salvos",
   position: 23,
   ownLength: 2158,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

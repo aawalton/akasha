@@ -8,7 +8,7 @@ export const riseOfTheDragonQueenEvolutionprogression001010TheWisp = {
   story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 10,
   ownLength: 1861,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

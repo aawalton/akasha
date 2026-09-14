@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0108Chapter584ADesperatePlan = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 108,
   ownLength: 2654,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0700ChapterSeventyThreeIHaveBeenArtifi
   story: "stray-cat-strut-stubbing-never-lol",
   position: 700,
   ownLength: 1530,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

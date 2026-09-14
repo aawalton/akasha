@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0005Chapter4KnowledgeIsPower = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 5,
   ownLength: 2032,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

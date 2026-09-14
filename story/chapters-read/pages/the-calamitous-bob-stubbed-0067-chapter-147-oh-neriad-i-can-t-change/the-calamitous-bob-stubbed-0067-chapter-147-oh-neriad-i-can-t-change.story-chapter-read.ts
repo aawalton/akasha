@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0067Chapter147OhNeriadICanTChange = {
   story: "the-calamitous-bob-stubbed",
   position: 67,
   ownLength: 7749,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

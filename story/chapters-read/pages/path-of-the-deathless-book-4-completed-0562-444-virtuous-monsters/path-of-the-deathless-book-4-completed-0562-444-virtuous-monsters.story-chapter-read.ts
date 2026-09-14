@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0562444VirtuousMonsters = {
   story: "path-of-the-deathless-book-4-completed",
   position: 562,
   ownLength: 7066,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

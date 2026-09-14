@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0101Chapter577DarkGodsAdvancement = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 101,
   ownLength: 2745,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0344ChapterTwentyNineWeaponizedCringe 
   story: "stray-cat-strut-stubbing-never-lol",
   position: 344,
   ownLength: 1431,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

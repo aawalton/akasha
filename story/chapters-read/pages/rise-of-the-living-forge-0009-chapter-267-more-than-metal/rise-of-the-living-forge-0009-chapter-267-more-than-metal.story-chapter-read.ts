@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0009Chapter267MoreThanMetal = {
   story: "story-read/rise-of-the-living-forge",
   position: 9,
   ownLength: 1876,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0086Chapter384TheArtOfBruteForce = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 86,
   ownLength: 2522,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

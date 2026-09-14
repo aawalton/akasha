@@ -8,7 +8,7 @@ export const riseOfTheDragonQueenEvolutionprogression00055TheFamiliarHorn = {
   story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 5,
   ownLength: 2096,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

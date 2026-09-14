@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0012Chapter12RunAwayRunAway = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 12,
   ownLength: 2610,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

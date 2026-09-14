@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0054Chapter54DivineLightningConstr
   story: "phoenix-ascension-cultivation-litrpg",
   position: 54,
   ownLength: 2443,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

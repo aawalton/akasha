@@ -6,7 +6,7 @@ export const rebornAsADemonicTree0139Chapter615TheFirstMythicalSkill = {
   slug: "reborn-as-a-demonic-tree-0139-chapter-615-the-first-mythical-skill",
   position: 139,
   publishedAt: "2026-09-09",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

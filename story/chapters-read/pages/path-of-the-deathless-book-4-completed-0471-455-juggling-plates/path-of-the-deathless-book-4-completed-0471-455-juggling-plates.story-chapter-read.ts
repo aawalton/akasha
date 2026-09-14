@@ -6,7 +6,7 @@ export const pathOfTheDeathlessBook4Completed0471455JugglingPlates = {
   slug: "path-of-the-deathless-book-4-completed-0471-455-juggling-plates",
   position: 471,
   publishedAt: "2026-09-10",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

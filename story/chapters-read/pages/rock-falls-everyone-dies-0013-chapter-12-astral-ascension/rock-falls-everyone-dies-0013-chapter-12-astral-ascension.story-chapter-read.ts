@@ -8,7 +8,7 @@ export const rockFallsEveryoneDies0013Chapter12AstralAscension = {
   story: "rock-falls-everyone-dies",
   position: 13,
   ownLength: 1626,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

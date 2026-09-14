@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0019Chapter318ADifferentPerspective 
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 19,
   ownLength: 2324,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

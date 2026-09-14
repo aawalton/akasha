@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0015Chapter273TheCoin = {
   story: "story-read/rise-of-the-living-forge",
   position: 15,
   ownLength: 1745,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

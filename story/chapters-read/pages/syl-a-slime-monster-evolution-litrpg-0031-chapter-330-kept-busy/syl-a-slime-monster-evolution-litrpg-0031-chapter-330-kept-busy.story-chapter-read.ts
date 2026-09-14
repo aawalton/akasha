@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0031Chapter330KeptBusy = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 31,
   ownLength: 2184,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0060Chapter59ThePuppiesOfDoom =
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 60,
   ownLength: 2224,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

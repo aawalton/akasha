@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0012Chapter311TeachingASpiderToSwim 
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 12,
   ownLength: 2210,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

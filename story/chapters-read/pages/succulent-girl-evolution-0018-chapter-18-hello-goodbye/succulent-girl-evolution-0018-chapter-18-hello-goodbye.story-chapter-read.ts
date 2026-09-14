@@ -8,7 +8,7 @@ export const succulentGirlEvolution0018Chapter18HelloGoodbye = {
   story: "succulent-girl-evolution",
   position: 18,
   ownLength: 2085,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

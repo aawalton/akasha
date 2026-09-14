@@ -8,7 +8,7 @@ export const superSupportive0025TwentyFiveWardrobe = {
   story: "super-supportive",
   position: 25,
   ownLength: 4262,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

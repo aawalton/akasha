@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0120Book5IsOutOnAmazon = {
   story: "story-read/rise-of-the-living-forge",
   position: 120,
   ownLength: 93,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0432ChapterThirtyFourSomethingsDirtyDo
   story: "stray-cat-strut-stubbing-never-lol",
   position: 432,
   ownLength: 1527,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

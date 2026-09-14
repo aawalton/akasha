@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0166StrayCatStrutVolumeThreeAYoungLady
   story: "stray-cat-strut-stubbing-never-lol",
   position: 166,
   ownLength: 91,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

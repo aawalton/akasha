@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0189Chapter620War = {
   story: "story-read/rise-of-the-living-forge",
   position: 189,
   ownLength: 2016,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

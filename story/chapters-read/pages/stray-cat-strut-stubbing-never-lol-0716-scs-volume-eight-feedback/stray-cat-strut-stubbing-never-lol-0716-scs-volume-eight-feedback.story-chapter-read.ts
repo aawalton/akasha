@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0716ScsVolumeEightFeedback = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 716,
   ownLength: 135,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

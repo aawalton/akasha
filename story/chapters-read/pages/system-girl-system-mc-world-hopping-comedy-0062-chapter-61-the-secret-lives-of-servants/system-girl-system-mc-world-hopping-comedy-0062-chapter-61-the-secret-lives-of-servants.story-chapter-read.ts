@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0062Chapter61TheSecretLivesOfSe
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 62,
   ownLength: 2644,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

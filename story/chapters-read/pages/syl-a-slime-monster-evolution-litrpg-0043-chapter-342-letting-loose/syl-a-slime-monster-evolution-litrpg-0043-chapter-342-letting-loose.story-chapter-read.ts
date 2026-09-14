@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0043Chapter342LettingLoose = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 43,
   ownLength: 2309,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

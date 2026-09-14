@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0014Chapter95TheFateOfEnoria = {
   story: "the-calamitous-bob-stubbed",
   position: 14,
   ownLength: 6770,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

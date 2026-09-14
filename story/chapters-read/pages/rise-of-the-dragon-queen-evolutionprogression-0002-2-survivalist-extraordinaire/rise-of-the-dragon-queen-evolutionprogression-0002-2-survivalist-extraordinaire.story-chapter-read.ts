@@ -8,7 +8,7 @@ export const riseOfTheDragonQueenEvolutionprogression00022SurvivalistExtraordina
   story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 2,
   ownLength: 3306,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

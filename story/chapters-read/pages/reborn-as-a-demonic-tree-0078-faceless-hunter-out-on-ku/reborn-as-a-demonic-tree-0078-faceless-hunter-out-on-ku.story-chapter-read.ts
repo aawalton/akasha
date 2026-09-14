@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0078FacelessHunterOutOnKu = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 78,
   ownLength: 214,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

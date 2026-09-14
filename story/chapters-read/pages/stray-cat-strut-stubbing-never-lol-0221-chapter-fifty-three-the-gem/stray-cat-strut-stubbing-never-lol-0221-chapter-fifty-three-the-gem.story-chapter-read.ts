@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0221ChapterFiftyThreeTheGem = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 221,
   ownLength: 1547,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0041Chapter121TheLocalTalents = {
   story: "the-calamitous-bob-stubbed",
   position: 41,
   ownLength: 5786,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

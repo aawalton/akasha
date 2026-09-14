@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0059Chapter58TheUnmasking = {
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 59,
   ownLength: 2566,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

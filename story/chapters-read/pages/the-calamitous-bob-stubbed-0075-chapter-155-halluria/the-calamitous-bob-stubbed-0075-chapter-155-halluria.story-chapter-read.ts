@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0075Chapter155Halluria = {
   story: "the-calamitous-bob-stubbed",
   position: 75,
   ownLength: 6038,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

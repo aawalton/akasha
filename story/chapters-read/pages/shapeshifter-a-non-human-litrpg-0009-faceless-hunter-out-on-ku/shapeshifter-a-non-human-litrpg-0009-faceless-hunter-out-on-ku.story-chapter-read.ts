@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0009FacelessHunterOutOnKu = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 9,
   ownLength: 214,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

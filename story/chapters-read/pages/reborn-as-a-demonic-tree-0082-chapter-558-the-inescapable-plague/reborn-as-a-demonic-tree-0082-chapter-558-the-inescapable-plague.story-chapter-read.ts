@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0082Chapter558TheInescapablePlague = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 82,
   ownLength: 2248,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

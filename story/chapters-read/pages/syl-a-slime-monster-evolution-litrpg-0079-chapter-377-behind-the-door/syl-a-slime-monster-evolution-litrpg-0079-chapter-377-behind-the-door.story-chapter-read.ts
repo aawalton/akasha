@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0079Chapter377BehindTheDoor = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 79,
   ownLength: 2348,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0078Chapter77TheRootOfTheMatter
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 78,
   ownLength: 2759,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

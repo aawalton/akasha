@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0133Chapter133BladeOfTheElements =
   story: "phoenix-ascension-cultivation-litrpg",
   position: 133,
   ownLength: 3279,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

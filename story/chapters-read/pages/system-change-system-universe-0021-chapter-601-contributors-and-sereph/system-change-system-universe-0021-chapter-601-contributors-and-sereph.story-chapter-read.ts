@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0021Chapter601ContributorsAndSereph = {
   story: "system-change-system-universe",
   position: 21,
   ownLength: 2008,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

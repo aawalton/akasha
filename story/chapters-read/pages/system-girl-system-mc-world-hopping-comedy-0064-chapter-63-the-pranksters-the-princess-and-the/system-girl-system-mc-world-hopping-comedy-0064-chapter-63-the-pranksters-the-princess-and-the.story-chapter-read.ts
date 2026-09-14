@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0064Chapter63ThePrankstersThePr
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 64,
   ownLength: 2255,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

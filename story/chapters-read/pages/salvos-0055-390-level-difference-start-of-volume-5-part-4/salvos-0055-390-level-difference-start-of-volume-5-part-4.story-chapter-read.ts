@@ -8,7 +8,7 @@ export const salvos0055390LevelDifferenceStartOfVolume5Part4 = {
   story: "story-read/salvos",
   position: 55,
   ownLength: 2039,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0087Chapter87Recipe = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 87,
   ownLength: 1976,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

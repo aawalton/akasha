@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0077Chapter77AuctionOff = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 77,
   ownLength: 2533,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

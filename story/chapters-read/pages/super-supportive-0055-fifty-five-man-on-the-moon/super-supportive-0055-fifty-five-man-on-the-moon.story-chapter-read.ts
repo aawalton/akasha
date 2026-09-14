@@ -8,7 +8,7 @@ export const superSupportive0055FiftyFiveManOnTheMoon = {
   story: "super-supportive",
   position: 55,
   ownLength: 3508,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

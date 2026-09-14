@@ -8,7 +8,7 @@ export const salvos0056391ASneakAmbush = {
   story: "story-read/salvos",
   position: 56,
   ownLength: 2722,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

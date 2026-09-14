@@ -8,7 +8,7 @@ export const superSupportive0176OneHundredSeventyFourBigTippers = {
   story: "super-supportive",
   position: 176,
   ownLength: 4546,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

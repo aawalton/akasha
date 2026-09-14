@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0041Chapter40TheRitual = {
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 41,
   ownLength: 1896,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

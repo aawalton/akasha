@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0071Chapter151SovereignMeeting = {
   story: "the-calamitous-bob-stubbed",
   position: 71,
   ownLength: 6547,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

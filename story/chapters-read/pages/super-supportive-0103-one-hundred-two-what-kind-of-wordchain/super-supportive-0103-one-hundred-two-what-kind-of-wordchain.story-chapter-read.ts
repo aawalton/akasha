@@ -8,7 +8,7 @@ export const superSupportive0103OneHundredTwoWhatKindOfWordchain = {
   story: "super-supportive",
   position: 103,
   ownLength: 4833,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

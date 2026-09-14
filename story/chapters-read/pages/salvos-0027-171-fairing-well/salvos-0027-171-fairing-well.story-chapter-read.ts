@@ -8,7 +8,7 @@ export const salvos0027171FairingWell = {
   story: "story-read/salvos",
   position: 27,
   ownLength: 2143,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

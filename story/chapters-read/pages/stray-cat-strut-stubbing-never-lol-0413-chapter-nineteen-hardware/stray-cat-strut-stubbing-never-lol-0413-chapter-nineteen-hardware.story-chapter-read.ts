@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0413ChapterNineteenHardware = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 413,
   ownLength: 1522,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

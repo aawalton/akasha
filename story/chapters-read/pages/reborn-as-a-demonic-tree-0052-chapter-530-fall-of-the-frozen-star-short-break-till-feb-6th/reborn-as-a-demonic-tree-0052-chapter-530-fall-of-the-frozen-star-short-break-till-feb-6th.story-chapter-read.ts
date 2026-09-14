@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0052Chapter530FallOfTheFrozenStarShortBreakTill
   story: "story-read/reborn-as-a-demonic-tree",
   position: 52,
   ownLength: 2880,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

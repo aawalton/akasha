@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0559StrayCatStrutMusicKillAndBuyKuroP 
   story: "stray-cat-strut-stubbing-never-lol",
   position: 559,
   ownLength: 52,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

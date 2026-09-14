@@ -8,7 +8,7 @@ export const salvos0080523NeverChanging = {
   story: "story-read/salvos",
   position: 80,
   ownLength: 2050,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

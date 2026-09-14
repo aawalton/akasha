@@ -8,7 +8,7 @@ export const superSupportive0059RitualOfReturn = {
   story: "super-supportive",
   position: 59,
   ownLength: 120,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

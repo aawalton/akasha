@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0044Chapter44GoldenCoreFlameDragon
   story: "phoenix-ascension-cultivation-litrpg",
   position: 44,
   ownLength: 1733,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

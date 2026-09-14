@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0038Chapter617BraxtonJace = {
   story: "system-change-system-universe",
   position: 38,
   ownLength: 2598,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

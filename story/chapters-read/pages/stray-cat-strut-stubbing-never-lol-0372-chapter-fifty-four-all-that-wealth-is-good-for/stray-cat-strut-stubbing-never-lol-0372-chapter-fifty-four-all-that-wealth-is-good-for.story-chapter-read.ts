@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0372ChapterFiftyFourAllThatWealthIsGoo
   story: "stray-cat-strut-stubbing-never-lol",
   position: 372,
   ownLength: 1475,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0026Chapter25TheArenaOfTheTitan
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 26,
   ownLength: 2478,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

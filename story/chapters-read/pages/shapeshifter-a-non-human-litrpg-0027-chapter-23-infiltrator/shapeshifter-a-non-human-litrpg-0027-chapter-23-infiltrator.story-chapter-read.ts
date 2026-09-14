@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0027Chapter23Infiltrator = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 27,
   ownLength: 1370,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

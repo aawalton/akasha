@@ -6,7 +6,7 @@ export const sylASlimeMonsterEvolutionLitrpg0127Chapter425Resurgence = {
   slug: "syl-a-slime-monster-evolution-litrpg-0127-chapter-425-resurgence",
   position: 127,
   publishedAt: "2026-09-09",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

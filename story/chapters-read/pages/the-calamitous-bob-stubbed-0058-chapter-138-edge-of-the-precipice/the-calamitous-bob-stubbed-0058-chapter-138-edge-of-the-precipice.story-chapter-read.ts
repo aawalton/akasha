@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0058Chapter138EdgeOfThePrecipice = {
   story: "the-calamitous-bob-stubbed",
   position: 58,
   ownLength: 6247,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

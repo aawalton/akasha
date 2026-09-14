@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0061Chapter360MaxEffort = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 61,
   ownLength: 2116,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

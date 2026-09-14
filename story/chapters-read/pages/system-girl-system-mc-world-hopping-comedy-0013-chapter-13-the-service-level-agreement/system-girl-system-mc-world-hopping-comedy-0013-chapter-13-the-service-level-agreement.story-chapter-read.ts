@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0013Chapter13TheServiceLevelAgr
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 13,
   ownLength: 1510,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

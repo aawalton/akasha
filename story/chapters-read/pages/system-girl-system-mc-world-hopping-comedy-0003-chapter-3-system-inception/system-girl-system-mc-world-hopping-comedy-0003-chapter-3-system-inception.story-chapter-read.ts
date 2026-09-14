@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0003Chapter3SystemInception = {
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 3,
   ownLength: 1501,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

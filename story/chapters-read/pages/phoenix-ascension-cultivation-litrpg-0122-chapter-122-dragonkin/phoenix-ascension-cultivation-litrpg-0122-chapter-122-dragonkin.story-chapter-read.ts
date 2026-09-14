@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0122Chapter122Dragonkin = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 122,
   ownLength: 2017,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0408ChapterFourteenMayoralImage = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 408,
   ownLength: 1940,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

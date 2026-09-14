@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0053Chapter52TheMerchantOfFlavo
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 53,
   ownLength: 3062,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

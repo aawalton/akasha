@@ -8,7 +8,7 @@ export const salvos0119670DangersAroundMavosAcademy = {
   story: "story-read/salvos",
   position: 119,
   ownLength: 2076,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

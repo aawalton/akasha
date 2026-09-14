@@ -8,7 +8,7 @@ export const squidGirlEvolutionMonsterGirlEvolutionLitrpg0004BestFootForward = {
   story: "squid-girl-evolution-monster-girl-evolution-litrpg",
   position: 4,
   ownLength: 1455,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

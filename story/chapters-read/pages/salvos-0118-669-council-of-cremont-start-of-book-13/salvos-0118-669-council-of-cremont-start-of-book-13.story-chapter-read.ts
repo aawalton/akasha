@@ -8,7 +8,7 @@ export const salvos0118669CouncilOfCremontStartOfBook13 = {
   story: "story-read/salvos",
   position: 118,
   ownLength: 2192,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

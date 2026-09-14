@@ -8,7 +8,7 @@ export const superSupportive0008EightTigerShorts = {
   story: "super-supportive",
   position: 8,
   ownLength: 1847,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

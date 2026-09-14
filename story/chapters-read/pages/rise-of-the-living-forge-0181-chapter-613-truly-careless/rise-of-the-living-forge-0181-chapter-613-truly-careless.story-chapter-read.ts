@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0181Chapter613TrulyCareless = {
   story: "story-read/rise-of-the-living-forge",
   position: 181,
   ownLength: 2100,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

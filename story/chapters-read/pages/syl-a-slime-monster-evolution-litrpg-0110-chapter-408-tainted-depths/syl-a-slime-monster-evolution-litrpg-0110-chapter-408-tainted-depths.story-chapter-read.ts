@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0110Chapter408TaintedDepths = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 110,
   ownLength: 2335,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const pathToProsperityLitrpgVol12Stubbed0006B3Prologue = {
   story: "path-to-prosperity-litrpg-vol-12-stubbed",
   position: 6,
   ownLength: 379,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

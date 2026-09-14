@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0190Chapter621OneProblem = {
   story: "story-read/rise-of-the-living-forge",
   position: 190,
   ownLength: 1902,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

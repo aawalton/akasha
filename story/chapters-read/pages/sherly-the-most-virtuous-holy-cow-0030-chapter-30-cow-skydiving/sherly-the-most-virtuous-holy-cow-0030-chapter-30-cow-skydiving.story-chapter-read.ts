@@ -8,7 +8,7 @@ export const sherlyTheMostVirtuousHolyCow0030Chapter30CowSkydiving = {
   story: "sherly-the-most-virtuous-holy-cow",
   position: 30,
   ownLength: 2050,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

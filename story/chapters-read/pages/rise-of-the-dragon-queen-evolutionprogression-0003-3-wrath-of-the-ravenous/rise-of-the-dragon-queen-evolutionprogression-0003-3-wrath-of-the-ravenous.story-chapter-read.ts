@@ -8,7 +8,7 @@ export const riseOfTheDragonQueenEvolutionprogression00033WrathOfTheRavenous = {
   story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 3,
   ownLength: 2507,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

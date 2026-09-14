@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0100Chapter576StellaSTrueStrength = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 100,
   ownLength: 2712,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

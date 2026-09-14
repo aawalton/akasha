@@ -8,7 +8,7 @@ export const superSupportive0162OneHundredSixtyShinyWaterBugs = {
   story: "super-supportive",
   position: 162,
   ownLength: 6253,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

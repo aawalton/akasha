@@ -7,7 +7,7 @@ export const pathOfTheDeathlessBook4Completed0469453Kayfabe = {
   story: "story-read/path-of-the-deathless-book-4-completed",
   position: 469,
   publishedAt: "2026-09-08",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

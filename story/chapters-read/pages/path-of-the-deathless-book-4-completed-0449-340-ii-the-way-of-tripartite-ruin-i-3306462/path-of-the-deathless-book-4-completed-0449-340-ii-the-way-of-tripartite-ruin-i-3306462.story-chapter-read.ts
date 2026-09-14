@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0449340IiTheWayOfTripartiteRuinI330
   story: "path-of-the-deathless-book-4-completed",
   position: 449,
   ownLength: 3010,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

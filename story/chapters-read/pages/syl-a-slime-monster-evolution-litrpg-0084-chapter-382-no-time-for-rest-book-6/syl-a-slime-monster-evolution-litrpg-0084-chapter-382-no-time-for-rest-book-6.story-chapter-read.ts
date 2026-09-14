@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0084Chapter382NoTimeForRestBook6 = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 84,
   ownLength: 3026,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

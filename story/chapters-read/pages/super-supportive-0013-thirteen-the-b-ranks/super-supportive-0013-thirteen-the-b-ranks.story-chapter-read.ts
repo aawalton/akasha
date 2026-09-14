@@ -8,7 +8,7 @@ export const superSupportive0013ThirteenTheBRanks = {
   story: "super-supportive",
   position: 13,
   ownLength: 3490,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

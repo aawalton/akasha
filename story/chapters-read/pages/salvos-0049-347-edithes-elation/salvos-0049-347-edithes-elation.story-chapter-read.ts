@@ -8,7 +8,7 @@ export const salvos0049347EdithesElation = {
   story: "story-read/salvos",
   position: 49,
   ownLength: 2755,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

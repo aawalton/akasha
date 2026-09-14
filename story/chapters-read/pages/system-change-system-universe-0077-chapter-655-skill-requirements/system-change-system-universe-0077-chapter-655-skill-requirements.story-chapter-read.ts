@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0077Chapter655SkillRequirements = {
   story: "system-change-system-universe",
   position: 77,
   ownLength: 2114,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

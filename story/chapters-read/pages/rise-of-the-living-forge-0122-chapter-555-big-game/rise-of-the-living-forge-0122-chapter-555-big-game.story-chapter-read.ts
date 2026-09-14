@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0122Chapter555BigGame = {
   story: "story-read/rise-of-the-living-forge",
   position: 122,
   ownLength: 1677,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

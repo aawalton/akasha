@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0047Chapter525Thanatos = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 47,
   ownLength: 3207,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

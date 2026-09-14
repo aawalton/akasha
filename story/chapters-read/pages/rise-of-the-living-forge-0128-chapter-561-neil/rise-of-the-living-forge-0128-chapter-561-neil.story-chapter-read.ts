@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0128Chapter561Neil = {
   story: "story-read/rise-of-the-living-forge",
   position: 128,
   ownLength: 1576,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

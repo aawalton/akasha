@@ -8,7 +8,7 @@ export const succulentGirlEvolution0007Chapter7Cuddles = {
   story: "succulent-girl-evolution",
   position: 7,
   ownLength: 2042,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

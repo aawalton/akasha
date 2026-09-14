@@ -8,7 +8,7 @@ export const superSupportive0296TwoHundredNinetyFourWhenWishingWasHavingV = {
   story: "super-supportive",
   position: 296,
   ownLength: 6112,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0087Chapter385Bullying = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 87,
   ownLength: 2540,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

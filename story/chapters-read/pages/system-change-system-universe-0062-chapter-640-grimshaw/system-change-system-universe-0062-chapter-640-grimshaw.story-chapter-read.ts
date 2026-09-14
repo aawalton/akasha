@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0062Chapter640Grimshaw = {
   story: "system-change-system-universe",
   position: 62,
   ownLength: 2316,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0041Chapter340DeepWaters = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 41,
   ownLength: 2017,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

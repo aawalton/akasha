@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0054Chapter632IWouldnTDare = {
   story: "system-change-system-universe",
   position: 54,
   ownLength: 2217,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

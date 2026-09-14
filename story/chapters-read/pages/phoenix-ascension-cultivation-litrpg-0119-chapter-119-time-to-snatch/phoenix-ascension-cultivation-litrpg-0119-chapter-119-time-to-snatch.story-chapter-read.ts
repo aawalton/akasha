@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0119Chapter119TimeToSnatch = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 119,
   ownLength: 1712,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

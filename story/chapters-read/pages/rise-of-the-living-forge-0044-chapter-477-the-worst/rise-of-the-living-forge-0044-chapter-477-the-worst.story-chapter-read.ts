@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0044Chapter477TheWorst = {
   story: "story-read/rise-of-the-living-forge",
   position: 44,
   ownLength: 1930,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

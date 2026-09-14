@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0043Chapter123ThePitOfHatred = {
   story: "the-calamitous-bob-stubbed",
   position: 43,
   ownLength: 6114,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

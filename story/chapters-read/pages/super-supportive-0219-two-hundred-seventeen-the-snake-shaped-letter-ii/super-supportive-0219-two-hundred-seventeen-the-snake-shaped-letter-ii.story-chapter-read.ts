@@ -8,7 +8,7 @@ export const superSupportive0219TwoHundredSeventeenTheSnakeShapedLetterIi = {
   story: "super-supportive",
   position: 219,
   ownLength: 3466,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

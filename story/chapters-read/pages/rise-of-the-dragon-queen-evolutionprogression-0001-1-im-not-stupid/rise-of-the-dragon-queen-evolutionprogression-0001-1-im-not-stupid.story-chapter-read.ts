@@ -8,7 +8,7 @@ export const riseOfTheDragonQueenEvolutionprogression00011ImNotStupid = {
   story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 1,
   ownLength: 2169,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

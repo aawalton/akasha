@@ -8,7 +8,7 @@ export const salvos0046344ChampionPartFour = {
   story: "story-read/salvos",
   position: 46,
   ownLength: 2950,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

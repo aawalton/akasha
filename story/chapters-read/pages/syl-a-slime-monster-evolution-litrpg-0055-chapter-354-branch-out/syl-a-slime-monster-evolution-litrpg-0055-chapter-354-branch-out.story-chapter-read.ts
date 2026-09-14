@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0055Chapter354BranchOut = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 55,
   ownLength: 2257,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

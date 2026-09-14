@@ -8,7 +8,7 @@ export const roadToMasteryALitrpgApocalypse0009TheWebcomicIsOut = {
   story: "road-to-mastery-a-litrpg-apocalypse",
   position: 9,
   ownLength: 157,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

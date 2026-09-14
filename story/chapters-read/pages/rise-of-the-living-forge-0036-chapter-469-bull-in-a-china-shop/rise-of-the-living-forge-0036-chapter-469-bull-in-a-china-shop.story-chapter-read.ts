@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0036Chapter469BullInAChinaShop = {
   story: "story-read/rise-of-the-living-forge",
   position: 36,
   ownLength: 1834,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

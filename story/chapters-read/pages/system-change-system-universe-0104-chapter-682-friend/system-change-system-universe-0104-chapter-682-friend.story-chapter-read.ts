@@ -7,7 +7,7 @@ export const systemChangeSystemUniverse0104Chapter682Friend = {
   story: "story-read/system-change-system-universe",
   position: 104,
   publishedAt: "2026-09-03",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

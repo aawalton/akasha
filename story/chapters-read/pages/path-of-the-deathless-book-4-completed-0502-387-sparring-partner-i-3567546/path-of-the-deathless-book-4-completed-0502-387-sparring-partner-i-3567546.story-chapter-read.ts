@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0502387SparringPartnerI3567546 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 502,
   ownLength: 5535,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

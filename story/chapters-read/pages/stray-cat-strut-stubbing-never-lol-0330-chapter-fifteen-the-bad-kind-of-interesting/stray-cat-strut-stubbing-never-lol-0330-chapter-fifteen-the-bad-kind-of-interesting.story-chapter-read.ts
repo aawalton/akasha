@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0330ChapterFifteenTheBadKindOfInterest
   story: "stray-cat-strut-stubbing-never-lol",
   position: 330,
   ownLength: 1486,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const sherlyTheMostVirtuousHolyCow0004Chapter4CowOnFire = {
   story: "sherly-the-most-virtuous-holy-cow",
   position: 4,
   ownLength: 2059,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

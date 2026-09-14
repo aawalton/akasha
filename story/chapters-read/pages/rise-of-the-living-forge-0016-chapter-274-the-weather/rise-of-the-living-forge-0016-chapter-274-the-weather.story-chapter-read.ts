@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0016Chapter274TheWeather = {
   story: "story-read/rise-of-the-living-forge",
   position: 16,
   ownLength: 2180,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

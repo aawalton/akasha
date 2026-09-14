@@ -6,7 +6,7 @@ export const shapeshifterANonHumanLitrpg0045Chapter40GatheringIntel = {
   slug: "shapeshifter-a-non-human-litrpg-0045-chapter-40-gathering-intel",
   position: 45,
   publishedAt: "2026-09-10",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0077Chapter76TheBattlemage = {
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 77,
   ownLength: 2223,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

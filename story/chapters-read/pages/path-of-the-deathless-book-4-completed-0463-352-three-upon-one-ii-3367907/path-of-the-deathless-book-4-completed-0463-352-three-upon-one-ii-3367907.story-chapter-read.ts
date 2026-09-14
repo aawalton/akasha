@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0463352ThreeUponOneIi3367907 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 463,
   ownLength: 4867,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

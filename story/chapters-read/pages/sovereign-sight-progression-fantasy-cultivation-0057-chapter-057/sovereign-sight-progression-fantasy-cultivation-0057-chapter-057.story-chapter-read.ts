@@ -6,7 +6,7 @@ export const sovereignSightProgressionFantasyCultivation0057Chapter057 = {
   slug: "sovereign-sight-progression-fantasy-cultivation-0057-chapter-057",
   position: 57,
   publishedAt: "2026-09-14",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

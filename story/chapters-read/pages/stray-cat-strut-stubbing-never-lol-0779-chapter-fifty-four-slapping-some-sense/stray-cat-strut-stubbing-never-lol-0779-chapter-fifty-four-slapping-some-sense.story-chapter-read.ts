@@ -6,7 +6,7 @@ export const strayCatStrutStubbingNeverLol0779ChapterFiftyFourSlappingSomeSense 
   slug: "stray-cat-strut-stubbing-never-lol-0779-chapter-fifty-four-slapping-some-sense",
   position: 779,
   publishedAt: "2026-09-09",
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

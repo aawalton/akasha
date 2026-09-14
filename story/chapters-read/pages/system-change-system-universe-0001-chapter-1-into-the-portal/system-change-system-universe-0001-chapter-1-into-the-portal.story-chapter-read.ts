@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0001Chapter1IntoThePortal = {
   story: "system-change-system-universe",
   position: 1,
   ownLength: 1911,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const superSupportive0009NineGorgon = {
   story: "super-supportive",
   position: 9,
   ownLength: 3129,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

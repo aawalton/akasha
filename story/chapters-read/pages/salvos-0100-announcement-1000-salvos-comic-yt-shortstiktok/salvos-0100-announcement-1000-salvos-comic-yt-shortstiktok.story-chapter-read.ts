@@ -8,7 +8,7 @@ export const salvos0100Announcement1000SalvosComicYtShortstiktok = {
   story: "story-read/salvos",
   position: 100,
   ownLength: 50,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

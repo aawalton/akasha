@@ -8,7 +8,7 @@ export const salvos0068437FairAndSquare = {
   story: "story-read/salvos",
   position: 68,
   ownLength: 1463,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

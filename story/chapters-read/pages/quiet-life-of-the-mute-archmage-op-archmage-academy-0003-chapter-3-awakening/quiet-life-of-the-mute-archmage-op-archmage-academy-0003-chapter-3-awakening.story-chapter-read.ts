@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0003Chapter3Awakening = 
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 3,
   ownLength: 2161,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

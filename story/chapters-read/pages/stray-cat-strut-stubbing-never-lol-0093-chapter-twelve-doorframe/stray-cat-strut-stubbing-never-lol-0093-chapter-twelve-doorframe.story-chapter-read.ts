@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0093ChapterTwelveDoorframe = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 93,
   ownLength: 1438,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

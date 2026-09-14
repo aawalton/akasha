@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0564357IGlimpse = {
   story: "path-of-the-deathless-book-4-completed",
   position: 564,
   ownLength: 0,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

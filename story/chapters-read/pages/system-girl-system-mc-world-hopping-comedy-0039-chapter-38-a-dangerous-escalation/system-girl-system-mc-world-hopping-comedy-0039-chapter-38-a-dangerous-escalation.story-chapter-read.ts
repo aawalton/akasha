@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0039Chapter38ADangerousEscalati
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 39,
   ownLength: 2568,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0054Chapter353MagicalSpeedrun = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 54,
   ownLength: 2110,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

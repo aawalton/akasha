@@ -8,7 +8,7 @@ export const savageDivinity0563Chapter556Compromise = {
   story: "savage-divinity",
   position: 563,
   ownLength: 5448,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

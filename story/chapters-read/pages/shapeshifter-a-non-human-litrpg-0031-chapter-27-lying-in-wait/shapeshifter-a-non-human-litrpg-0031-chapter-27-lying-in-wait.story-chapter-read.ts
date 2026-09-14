@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0031Chapter27LyingInWait = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 31,
   ownLength: 1780,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

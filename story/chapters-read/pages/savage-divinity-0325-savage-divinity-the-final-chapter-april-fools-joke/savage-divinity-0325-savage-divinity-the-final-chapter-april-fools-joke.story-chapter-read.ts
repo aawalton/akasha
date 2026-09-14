@@ -8,7 +8,7 @@ export const savageDivinity0325SavageDivinityTheFinalChapterAprilFoolsJoke = {
   story: "savage-divinity",
   position: 325,
   ownLength: 2357,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

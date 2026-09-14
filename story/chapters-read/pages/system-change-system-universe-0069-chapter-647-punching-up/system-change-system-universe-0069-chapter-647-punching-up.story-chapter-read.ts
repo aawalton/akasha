@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0069Chapter647PunchingUp = {
   story: "system-change-system-universe",
   position: 69,
   ownLength: 2161,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

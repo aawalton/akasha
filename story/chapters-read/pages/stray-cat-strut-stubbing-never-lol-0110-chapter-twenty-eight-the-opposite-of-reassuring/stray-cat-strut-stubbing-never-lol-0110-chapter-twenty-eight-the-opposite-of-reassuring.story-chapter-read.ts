@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0110ChapterTwentyEightTheOppositeOfRea
   story: "stray-cat-strut-stubbing-never-lol",
   position: 110,
   ownLength: 1424,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

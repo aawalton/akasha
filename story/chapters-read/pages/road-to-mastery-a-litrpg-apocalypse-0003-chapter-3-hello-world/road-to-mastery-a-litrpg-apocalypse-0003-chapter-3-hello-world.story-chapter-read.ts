@@ -8,7 +8,7 @@ export const roadToMasteryALitrpgApocalypse0003Chapter3HelloWorld = {
   story: "road-to-mastery-a-litrpg-apocalypse",
   position: 3,
   ownLength: 2414,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

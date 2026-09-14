@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0083Chapter162RoaringHarrak = {
   story: "the-calamitous-bob-stubbed",
   position: 83,
   ownLength: 5149,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

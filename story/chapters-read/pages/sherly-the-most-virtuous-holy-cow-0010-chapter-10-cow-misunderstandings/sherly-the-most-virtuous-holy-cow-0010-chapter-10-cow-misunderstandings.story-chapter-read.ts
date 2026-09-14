@@ -8,7 +8,7 @@ export const sherlyTheMostVirtuousHolyCow0010Chapter10CowMisunderstandings = {
   story: "sherly-the-most-virtuous-holy-cow",
   position: 10,
   ownLength: 2079,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

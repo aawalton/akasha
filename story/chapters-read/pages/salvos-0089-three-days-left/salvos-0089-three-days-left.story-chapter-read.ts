@@ -8,7 +8,7 @@ export const salvos0089ThreeDaysLeft = {
   story: "story-read/salvos",
   position: 89,
   ownLength: 21,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

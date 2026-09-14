@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0017Chapter98TheHollowMountain = {
   story: "the-calamitous-bob-stubbed",
   position: 17,
   ownLength: 5771,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

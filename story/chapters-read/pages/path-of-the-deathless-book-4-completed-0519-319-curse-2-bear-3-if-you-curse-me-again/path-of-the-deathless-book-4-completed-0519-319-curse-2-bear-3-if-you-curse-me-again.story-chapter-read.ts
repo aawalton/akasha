@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0519319Curse2Bear3IfYouCurseMeAgain
   story: "path-of-the-deathless-book-4-completed",
   position: 519,
   ownLength: 0,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

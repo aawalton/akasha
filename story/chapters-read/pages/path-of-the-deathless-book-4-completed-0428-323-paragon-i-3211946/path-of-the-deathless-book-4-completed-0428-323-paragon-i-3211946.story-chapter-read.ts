@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0428323ParagonI3211946 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 428,
   ownLength: 5441,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

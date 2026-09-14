@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0042Book8AudioIsOut = {
   story: "system-change-system-universe",
   position: 42,
   ownLength: 120,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

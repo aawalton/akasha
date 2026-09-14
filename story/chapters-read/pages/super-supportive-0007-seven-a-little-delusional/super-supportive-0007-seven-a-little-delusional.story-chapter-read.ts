@@ -8,7 +8,7 @@ export const superSupportive0007SevenALittleDelusional = {
   story: "super-supportive",
   position: 7,
   ownLength: 2984,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

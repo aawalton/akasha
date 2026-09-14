@@ -8,7 +8,7 @@ export const riseOfTheDragonQueenEvolutionprogression001919Blackmail = {
   story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 19,
   ownLength: 2242,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

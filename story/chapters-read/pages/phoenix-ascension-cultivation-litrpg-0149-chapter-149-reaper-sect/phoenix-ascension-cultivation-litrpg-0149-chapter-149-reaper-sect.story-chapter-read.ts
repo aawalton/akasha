@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0149Chapter149ReaperSect = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 149,
   ownLength: 2973,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

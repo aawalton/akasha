@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0160Chapter160MountainsBowBeforeTh
   story: "phoenix-ascension-cultivation-litrpg",
   position: 160,
   ownLength: 2228,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

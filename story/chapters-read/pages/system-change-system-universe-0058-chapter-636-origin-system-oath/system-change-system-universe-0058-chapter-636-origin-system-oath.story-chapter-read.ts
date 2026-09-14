@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0058Chapter636OriginSystemOath = {
   story: "system-change-system-universe",
   position: 58,
   ownLength: 2122,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

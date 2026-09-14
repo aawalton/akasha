@@ -8,7 +8,7 @@ export const superSupportive0240TwoHundredThirtyEightHereToThereXviii = {
   story: "super-supportive",
   position: 240,
   ownLength: 4503,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

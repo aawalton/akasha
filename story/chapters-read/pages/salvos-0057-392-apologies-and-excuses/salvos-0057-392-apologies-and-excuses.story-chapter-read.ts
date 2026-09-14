@@ -8,7 +8,7 @@ export const salvos0057392ApologiesAndExcuses = {
   story: "story-read/salvos",
   position: 57,
   ownLength: 2685,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

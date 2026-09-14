@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0169Chapter169YoNaIsNotHappy = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 169,
   ownLength: 1930,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

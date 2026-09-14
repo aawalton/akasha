@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0060Chapter140InterviewWithADeadGod = {
   story: "the-calamitous-bob-stubbed",
   position: 60,
   ownLength: 5610,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const salvos0009SideStory1SurvivalOfTheFittest = {
   story: "story-read/salvos",
   position: 9,
   ownLength: 3470,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

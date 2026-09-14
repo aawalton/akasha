@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0109Chapter543TheDemonQueen = {
   story: "story-read/rise-of-the-living-forge",
   position: 109,
   ownLength: 1667,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

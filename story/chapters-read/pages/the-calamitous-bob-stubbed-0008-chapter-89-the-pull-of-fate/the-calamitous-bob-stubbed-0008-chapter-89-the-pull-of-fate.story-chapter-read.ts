@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0008Chapter89ThePullOfFate = {
   story: "the-calamitous-bob-stubbed",
   position: 8,
   ownLength: 4304,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

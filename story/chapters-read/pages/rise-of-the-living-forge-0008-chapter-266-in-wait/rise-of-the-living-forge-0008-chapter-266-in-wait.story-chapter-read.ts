@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0008Chapter266InWait = {
   story: "story-read/rise-of-the-living-forge",
   position: 8,
   ownLength: 2068,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0061Chapter60TheGoldenCoin = {
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 61,
   ownLength: 3063,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

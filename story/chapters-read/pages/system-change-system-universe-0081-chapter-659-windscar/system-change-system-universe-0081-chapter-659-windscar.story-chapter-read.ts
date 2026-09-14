@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0081Chapter659Windscar = {
   story: "system-change-system-universe",
   position: 81,
   ownLength: 2168,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

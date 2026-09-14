@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0542ChapterThirtyFiveTheCatTheRaccoonA
   story: "stray-cat-strut-stubbing-never-lol",
   position: 542,
   ownLength: 1402,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0677ChapterFiftyFourTheFlamesThatBurnW
   story: "stray-cat-strut-stubbing-never-lol",
   position: 677,
   ownLength: 1506,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

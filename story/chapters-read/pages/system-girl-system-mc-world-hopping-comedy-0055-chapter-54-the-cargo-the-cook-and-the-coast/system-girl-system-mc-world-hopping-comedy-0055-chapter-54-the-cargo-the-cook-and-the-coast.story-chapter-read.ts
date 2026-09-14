@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0055Chapter54TheCargoTheCookAnd
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 55,
   ownLength: 2819,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

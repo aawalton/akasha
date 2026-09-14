@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0110Chapter586TheEmptyThrone = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 110,
   ownLength: 2518,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0065Chapter145TheLeagueEngagesInCasualTerror
   story: "the-calamitous-bob-stubbed",
   position: 65,
   ownLength: 6039,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

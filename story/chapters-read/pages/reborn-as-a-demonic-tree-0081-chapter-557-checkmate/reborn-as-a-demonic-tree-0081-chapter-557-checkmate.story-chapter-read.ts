@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0081Chapter557Checkmate = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 81,
   ownLength: 2469,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

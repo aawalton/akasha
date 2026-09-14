@@ -8,7 +8,7 @@ export const superSupportive0012TwelveOneOClockOnAThursday = {
   story: "super-supportive",
   position: 12,
   ownLength: 2225,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

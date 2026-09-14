@@ -8,7 +8,7 @@ export const roadToMasteryALitrpgApocalypse0002Chapter2JackVsGoblin = {
   story: "road-to-mastery-a-litrpg-apocalypse",
   position: 2,
   ownLength: 2433,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

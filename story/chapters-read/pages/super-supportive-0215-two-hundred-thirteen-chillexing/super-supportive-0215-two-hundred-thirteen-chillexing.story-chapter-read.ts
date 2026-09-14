@@ -8,7 +8,7 @@ export const superSupportive0215TwoHundredThirteenChillexing = {
   story: "super-supportive",
   position: 215,
   ownLength: 3825,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0107Chapter583Duty = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 107,
   ownLength: 2612,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

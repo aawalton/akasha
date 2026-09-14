@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0031Chapter29TheManicMag
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 31,
   ownLength: 2538,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

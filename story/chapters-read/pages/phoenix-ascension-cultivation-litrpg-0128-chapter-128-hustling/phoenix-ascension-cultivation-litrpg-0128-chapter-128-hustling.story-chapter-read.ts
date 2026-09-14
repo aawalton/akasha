@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0128Chapter128Hustling = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 128,
   ownLength: 2104,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

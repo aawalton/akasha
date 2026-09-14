@@ -8,7 +8,7 @@ export const superSupportive0041FortyOneChaos = {
   story: "super-supportive",
   position: 41,
   ownLength: 3536,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

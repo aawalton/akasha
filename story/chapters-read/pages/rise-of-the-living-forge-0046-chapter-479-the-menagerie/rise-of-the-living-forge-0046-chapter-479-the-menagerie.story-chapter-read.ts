@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0046Chapter479TheMenagerie = {
   story: "story-read/rise-of-the-living-forge",
   position: 46,
   ownLength: 1958,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

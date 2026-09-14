@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0543InterludeACrackshotsCrackShot = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 543,
   ownLength: 1354,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

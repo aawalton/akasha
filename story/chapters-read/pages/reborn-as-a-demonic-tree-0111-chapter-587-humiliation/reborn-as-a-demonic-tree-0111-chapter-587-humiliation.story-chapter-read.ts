@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0111Chapter587Humiliation = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 111,
   ownLength: 2513,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

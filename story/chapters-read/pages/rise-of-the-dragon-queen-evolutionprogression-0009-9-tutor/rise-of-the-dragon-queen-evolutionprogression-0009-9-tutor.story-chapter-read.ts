@@ -8,7 +8,7 @@ export const riseOfTheDragonQueenEvolutionprogression00099Tutor = {
   story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 9,
   ownLength: 2726,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

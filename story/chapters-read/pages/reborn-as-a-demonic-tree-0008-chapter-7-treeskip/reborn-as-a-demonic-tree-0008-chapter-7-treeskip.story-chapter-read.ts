@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0008Chapter7Treeskip = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 8,
   ownLength: 2123,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0037Chapter336VolcanoRumble = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 37,
   ownLength: 2113,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

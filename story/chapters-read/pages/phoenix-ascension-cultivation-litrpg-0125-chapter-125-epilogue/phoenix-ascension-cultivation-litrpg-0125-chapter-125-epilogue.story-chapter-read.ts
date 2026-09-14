@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0125Chapter125Epilogue = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 125,
   ownLength: 1739,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

@@ -8,7 +8,7 @@ export const superSupportive0169OneHundredSixtySevenNotion = {
   story: "super-supportive",
   position: 169,
   ownLength: 5633,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

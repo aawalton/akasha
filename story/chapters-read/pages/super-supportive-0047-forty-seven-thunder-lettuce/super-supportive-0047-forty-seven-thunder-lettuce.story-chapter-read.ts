@@ -8,7 +8,7 @@ export const superSupportive0047FortySevenThunderLettuce = {
   story: "super-supportive",
   position: 47,
   ownLength: 2866,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

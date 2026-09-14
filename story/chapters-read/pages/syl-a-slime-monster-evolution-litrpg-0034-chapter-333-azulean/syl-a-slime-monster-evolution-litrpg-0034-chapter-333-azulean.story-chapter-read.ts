@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0034Chapter333Azulean = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 34,
   ownLength: 2225,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

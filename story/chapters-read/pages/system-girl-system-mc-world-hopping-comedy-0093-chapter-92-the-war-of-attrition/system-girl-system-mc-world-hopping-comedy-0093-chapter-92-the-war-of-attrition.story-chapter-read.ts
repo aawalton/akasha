@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0093Chapter92TheWarOfAttrition 
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 93,
   ownLength: 2075,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",

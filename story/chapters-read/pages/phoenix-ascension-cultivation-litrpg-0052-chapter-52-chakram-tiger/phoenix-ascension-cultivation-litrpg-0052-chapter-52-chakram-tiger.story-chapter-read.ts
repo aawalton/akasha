@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0052Chapter52ChakramTiger = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 52,
   ownLength: 2198,
-  unit: "words",
+  unit: "unit/words",
   externalIdentity: [
     {
       source: "royal-road",
