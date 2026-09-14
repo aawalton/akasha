@@ -17,6 +17,7 @@ export const readoutGroup = {
     "readout-group/surplus",
     "readout-group/upkeep",
     "readout-group/values",
+    "readout-group/workstation",
     "select-property/sort-order",
   ],
   extends: ["page-type/domain"],
