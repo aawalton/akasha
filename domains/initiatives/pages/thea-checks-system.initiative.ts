@@ -15,13 +15,13 @@ export const theaChecksSystem = {
     {
       statement: "No module exports a value nothing names.",
       workingMemory:
-        "159 refusals at 7d5fa818545. pages 33, alan 33, agents 23, infrastructure 14, story 12, personas 11, temper 7, checks 7, domains 6, commands 5, and the code tree clear. Most sit in modules that are reached, so narrowing those takes no feature away; a file dead whole is where a feature leaves. Another seat's work under pages/indexes raised that tree while every other tree fell.",
+        "123 refusals at 343d997bd9a. alan 31, pages 26, agents 16, story 12, infrastructure 8, temper 7, personas 7, commands 4, checks 4, utils 3, testing-system 3, domains 1, changes 1, and the code tree clear. Most sit in modules that are reached, so narrowing those takes no feature away; a file dead whole is where a feature leaves. Another seat's work under pages/indexes raised that tree while every other tree fell.",
     },
 
     {
       statement: "No arm of the codebase is built and reached by nothing.",
       workingMemory:
-        "Alan is taking these one at a time and has cut the story engine's mechanics half, the persona image craft, the reading recommender, the k8s manifest scanner, the iOS web-bundle staging and the ESO declaration freshness check. About thirty are left. Three are loose wires rather than dead code: nothing writes the rotated session three readers read, nothing decides whether a seat may be stopped alone, and the resume notice that degrades is the unwired one while the wired copy throws.",
+        "Alan is taking these one at a time and has cut the story engine's mechanics half and tally reader, the persona image craft, the reading recommender, the k8s manifest scanner, the iOS web-bundle staging, the ESO freshness check, the parse doubter, the signed-out notice, the monarch seat and the seat background-task reader. About twenty are left. Three are loose wires: nothing writes the rotated session, nothing decides whether a seat may stop alone, and the degrading resume notice is unwired.",
     },
     {
       statement: "Every uncommitted body beside a page exports the name that page's writer makes.",
