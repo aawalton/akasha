@@ -16,7 +16,7 @@ export const astraIndexCleanup = {
     {
       statement: "Alan holds the listing index's structure correct.",
       workingMemory:
-        "The only readers of `everyPath` left outside its own definition are the path-reaching check and that check's audit. `everyFileIn` and `everyFileOf` are deleted, `import-repointing` asks the world whether a path names something, and the manifest check lists a package's files through the overlay. That check conflates a vocabulary of real paths, which wants every file, with the page set, which the index answers from its own pages. `claimingIn` leaves the index's code last.\n",
+        "The path-reaching check and that check's audit are the last readers of `everyPath`. `claimingIn` is out of the index's code, and the rule index no longer reads the listing. Git does not hold this index, so what is left is the `everyPath` member, the `listedOf` writing in indexing and settling, the page, and twenty-six fixtures filing pages into it. `shadow.listed` cannot pin to `change.base`, which keeps `folder-grouping` reaching the checkout; `git ls-tree` answers a pinned tree in 0.17s.\n",
     },
     {
       statement: "A file property declares one extension.",
