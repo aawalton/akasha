@@ -15,6 +15,10 @@ import {
   type Measured,
   PLACES,
 } from "akasha/commands/pages/measure/modules/tabling/measure-tabling.module.code.ts"
+import {
+  slugOf,
+  slugsIn,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { asking } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
 
 const READOUT = "readout"
@@ -47,10 +51,10 @@ function drawnIn(root: string): readonly Drawn[] {
   if ("refused" in asked) throw new Error(asked.refused)
   for (const row of asked.rows) {
     const one = row as Readonly<Record<string, unknown>>
-    const groups = one["groups"]
-    if (!Array.isArray(groups) || !groups.includes(GROUP)) continue
-    const attributeSlug = String(one["attribute"] ?? "")
-    if (attributeSlug === "") continue
+    if (!slugsIn(one["groups"]).includes(GROUP)) continue
+    const named = String(one["attribute"] ?? "")
+    if (named === "") continue
+    const attributeSlug = slugOf(named)
     const label = String(one["label"] ?? one["slug"] ?? "")
     const place = typeof one["place"] === "number" ? one["place"] : 0
     found.push({ label, place, attributeSlug })
