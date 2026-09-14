@@ -16,7 +16,7 @@ export const astraIndexCleanup = {
     {
       statement: "Alan holds the listing index's structure correct.",
       workingMemory:
-        "`3e6c66a73a2` swapped `listedByPath` for `claimantOf` in `file-has-its-page`, so that check asks whether a name spells a page type rather than whether a page claims the path, and it has been red since. The listing is the only answer to which paths the pages claim, so removing it waits on what restoring the check costs. Twenty-three commits took the listing out of the test worlds; the four helpers in `index-reading.module.test-fixtures.ts` remain, and `path.jsonl` holds 127,359 paths.\n",
+        "Nothing reads the index, and the `listedOf` writing in indexing and settling is out. `file-has-its-page` went whole in `b06bbb6502a` rather than be left half-answering; Alan holds what that check did, for later. It needed which paths a page's properties name, cheap to compose for the files one landing carries and a whole page-body parse over the tree. What is left is the four helpers in `index-reading.module.test-fixtures.ts`, the index's own three files, and the `index/index-listing` part.\n",
     },
     {
       statement: "A file property declares one extension.",
