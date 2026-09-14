@@ -52,6 +52,7 @@ export const codeCheck = {
     "code-check/no-import-cycle",
     "code-check/no-index-path-spelled",
     "code-check/no-method-signature",
+    "code-check/no-page-address-spelled",
     "code-check/no-raw-nul-bytes",
     "code-check/no-re-export",
     "code-check/no-refused-syntax",
