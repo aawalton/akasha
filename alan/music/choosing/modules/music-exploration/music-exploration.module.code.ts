@@ -4,6 +4,7 @@ import {
   isLiked,
   ratingRung,
 } from "akasha/alan/music/choosing/modules/rating-ladder/rating-ladder.module.code.ts"
+import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 export type CatalogArtist = Pick<Artist, "slug" | "title" | "genre" | "rank">
 
@@ -47,9 +48,13 @@ function isRecordedOriginal(song: CatalogSong): boolean {
   return song.songType === "original" && song.performed
 }
 
+function artistSlugOf(song: CatalogSong): string {
+  return slugOf(song.artist)
+}
+
 export function selectNextSong(catalog: Catalog, artistSlug: string): CatalogSong | null {
   const recorded = catalog.songs
-    .filter((song) => song.artist === artistSlug && isRecordedOriginal(song))
+    .filter((song) => artistSlugOf(song) === artistSlug && isRecordedOriginal(song))
     .sort(byTitleThenSlug)
   const graded = new Set<string>()
   const offered = new Map<string, CatalogSong>()
@@ -70,8 +75,8 @@ export function selectNextSong(catalog: Catalog, artistSlug: string): CatalogSon
 function songsByArtist(catalog: Catalog): Map<string, CatalogSong[]> {
   const byArtist = new Map<string, CatalogSong[]>()
   for (const song of catalog.songs) {
-    const held = byArtist.get(song.artist)
-    if (held === undefined) byArtist.set(song.artist, [song])
+    const held = byArtist.get(artistSlugOf(song))
+    if (held === undefined) byArtist.set(artistSlugOf(song), [song])
     else held.push(song)
   }
   return byArtist
