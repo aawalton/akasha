@@ -4,7 +4,6 @@ import {
   bytesOfHex,
   hexOf,
   sha1Bytes,
-  sha1HexOfText,
 } from "akasha/pages/identity/modules/sha1-digest/sha1-digest.module.code.ts"
 
 const AT_NAMESPACE = "6ba7b8129dad11d180b400c04fd430c8"
@@ -30,6 +29,10 @@ const TEXTS: readonly string[] = [
   "alan:pages/journal/2026-08-31.md",
 ]
 
+function hexOfText(text: string): string {
+  return hexOf(sha1Bytes(new TextEncoder().encode(text)))
+}
+
 function nodeHexOf(text: string): string {
   return createHash("sha1").update(text, "utf8").digest("hex")
 }
@@ -40,16 +43,16 @@ test("a digest is twenty bytes", () => {
 })
 
 test("the published vectors come out as published", () => {
-  expect(sha1HexOfText("")).toBe("da39a3ee5e6b4b0d3255bfef95601890afd80709")
-  expect(sha1HexOfText("abc")).toBe("a9993e364706816aba3e25717850c26c9cd0d89d")
-  expect(sha1HexOfText("abcdbcdecdefdefgefghfghighijhijkijkljklmklmnlmnomnopnopq")).toBe(
+  expect(hexOfText("")).toBe("da39a3ee5e6b4b0d3255bfef95601890afd80709")
+  expect(hexOfText("abc")).toBe("a9993e364706816aba3e25717850c26c9cd0d89d")
+  expect(hexOfText("abcdbcdecdefdefgefghfghighijhijkijkljklmklmnlmnomnopnopq")).toBe(
     "84983e441c3bd26ebaae4aa1f95129e5e54670f1"
   )
 })
 
 test("every text agrees with node:crypto, the empty and the multi-byte among them", () => {
   for (const text of TEXTS) {
-    expect(sha1HexOfText(text)).toBe(nodeHexOf(text))
+    expect(hexOfText(text)).toBe(nodeHexOf(text))
   }
 })
 

@@ -18,10 +18,6 @@ export const sha1Digest = {
       statement: "A digest is answered rather than promised.",
     },
     {
-      invariantKind: "departure",
-      statement: "Text becomes bytes as UTF-8.",
-    },
-    {
       invariantKind: "absence",
       statement: "Nothing here reaches a crypto library the platform has.",
     },

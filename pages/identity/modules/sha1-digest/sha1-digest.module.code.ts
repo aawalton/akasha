@@ -94,7 +94,3 @@ export function bytesOfHex(said: string): Uint8Array {
   }
   return bytes
 }
-
-export function sha1HexOfText(text: string): string {
-  return hexOf(sha1Bytes(new TextEncoder().encode(text)))
-}
