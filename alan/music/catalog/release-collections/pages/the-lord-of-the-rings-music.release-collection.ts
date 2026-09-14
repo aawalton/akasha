@@ -9,7 +9,7 @@ export const theLordOfTheRingsMusic = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   rank: "B",
 } as const satisfies ReleaseCollection
