@@ -68,6 +68,10 @@ export const subagentReading = {
     },
     {
       invariantKind: "departure",
+      statement: "An id any fold reads as running is dropped from what the folds read as finished.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A reading of a seat answers what runs under it and what has finished under it.",
     },
     {

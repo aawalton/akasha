@@ -183,6 +183,10 @@ export function createSubagentReader(): SubagentReader {
     subagentsDir: string
   ): Promise<readonly string[]> => {
     const ended = new Set(endedSubagents(state))
+    const alive = new Set<string>()
+    for (const one of runningSubagents(state)) {
+      if (one.agentId !== null) alive.add(one.agentId)
+    }
     let names: readonly string[]
     try {
       names = await readdir(subagentsDir)
@@ -192,8 +196,13 @@ export function createSubagentReader(): SubagentReader {
     for (const name of names) {
       if (!namesASubagentFold(name)) continue
       const childPath = path.join(subagentsDir, name)
-      for (const one of endedSubagents(await advance(childPath, childPath))) ended.add(one)
+      const held = await advance(childPath, childPath)
+      for (const one of endedSubagents(held)) ended.add(one)
+      for (const one of runningSubagents(held)) {
+        if (one.agentId !== null) alive.add(one.agentId)
+      }
     }
+    for (const one of alive) ended.delete(one)
     return [...ended].sort()
   }
 
