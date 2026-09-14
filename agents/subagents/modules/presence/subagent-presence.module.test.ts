@@ -7,7 +7,7 @@ import {
   landingAgain,
   worthAnotherTry,
 } from "akasha/agents/subagents/modules/landing-again/subagent-landing-again.module.code.ts"
-import { livenessOf } from "akasha/agents/subagents/modules/liveness/subagent-liveness.module.code.ts"
+import { readOf } from "akasha/agents/subagents/modules/liveness/subagent-liveness.module.code.ts"
 import {
   agentIdOf,
   pathOf,
@@ -257,7 +257,7 @@ test("a stop the run began after leaves the page where it is", async () => {
 test("a seat stating no transcript leaves the page where it is and says which step did", async () => {
   await underSeat(async (root) => {
     const at = await pageWritten(root)
-    expect(await livenessOf(root, at)).toBe("unread")
+    expect((await readOf(root, at)).liveness).toBe("unread")
     const why = whyIn(await took(root, "akasha", OWN, [], LANDS))
     expect(why).toContain(at)
     expect(why).toContain("states no transcript")

@@ -86,7 +86,3 @@ export async function readOf(root: string, page: string, own?: string): Promise<
     return { liveness: "unread", why: thrownAs(thrown) }
   }
 }
-
-export async function livenessOf(root: string, page: string, own?: string): Promise<Liveness> {
-  return (await readOf(root, page, own)).liveness
-}
