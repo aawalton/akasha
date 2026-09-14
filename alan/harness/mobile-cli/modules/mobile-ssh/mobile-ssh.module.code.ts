@@ -145,7 +145,6 @@ export function runSshResult(
 }
 
 export interface RsyncOptions {
-  readonly excludes?: readonly string[]
   readonly quiet?: boolean
 }
 
@@ -171,28 +170,6 @@ function rsyncRun(
       reject(new OperationalError(`rsync exited ${code} (host: ${target.user}@${target.host})`))
     })
   })
-}
-
-export function rsyncToHost(
-  target: SshTarget,
-  localDir: string,
-  remoteDir: string,
-  options: RsyncOptions = {}
-): Promise<void> {
-  const excludeArgs = (options.excludes ?? []).flatMap((pattern) => ["--exclude", pattern])
-  return rsyncRun(
-    target,
-    [
-      "-az",
-      "--delete",
-      ...excludeArgs,
-      "-e",
-      rsyncSshTransport(expandTilde(target.keyPath)),
-      `${localDir}/`,
-      `${target.user}@${target.host}:${remoteDir}/`,
-    ],
-    options.quiet
-  )
 }
 
 export function rsyncFilesToHost(

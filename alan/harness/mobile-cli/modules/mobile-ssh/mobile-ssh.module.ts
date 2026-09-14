@@ -42,7 +42,7 @@ export const mobileSsh = {
     },
     {
       invariantKind: "departure",
-      statement: "A directory reaches the host whole and a named file reaches the host alone.",
+      statement: "A named file reaches the host alone.",
     },
     {
       invariantKind: "departure",
