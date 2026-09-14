@@ -6,7 +6,7 @@ export const amyHarnessImprovements = {
   slug: "amy-harness-improvements",
   domain: "domain/alan-harness",
   persona: "persona/amy",
-  intentStack: [],
+  intentStack: [{ statement: "Alan sees every agent's color in the code editor extension." }],
 
   constraints: [
     "This initiative stays when its last intent goes, rather than dying as a finished initiative does.",
