@@ -1,6 +1,5 @@
 import {
-  bodyOf,
-  overEachFile,
+  overEveryIn,
   textIn,
   textNamed,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
@@ -95,8 +94,5 @@ export function reasonsIn(
 
 export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
   const every = everyShapeIn(change, shadow)
-  return overEachFile(change, (given) => {
-    if (!textNamed(given.path)) return []
-    return reasonsIn(given.path, bodyOf(given), every)
-  })
+  return overEveryIn(change, textNamed, (path, text) => reasonsIn(path, text, every))
 }
