@@ -6,7 +6,7 @@ export const at202608231312451 = {
   slug: "at-2026-08-23-13-12-45-1",
   title: "2026-08-23T13:12:45.000Z chunk 1",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  inventory: "at-2026-08-23-13-12-45",
+  inventory: "temper-inventory-snapshot/at-2026-08-23-13-12-45",
   chunkIndex: 1,
   byteCount: 900001,
 } as const satisfies TemperInventoryChunk
