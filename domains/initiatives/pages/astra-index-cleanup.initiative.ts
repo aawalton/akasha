@@ -16,7 +16,7 @@ export const astraIndexCleanup = {
     {
       statement: "Alan holds the listing index's structure correct.",
       workingMemory:
-        "The path index is gone, and this index took over composing the paths a page claims. It answers which files the pages claim as one file of plain lines, read by `everyPath`. Whether it earns its place against a tree read is the open question.\n",
+        "`everyPath` has thirty-three callers and none needs every path. Eight want `package.json`, which `manifestsBeside` answers. Four want the pages of a type, which `everyOfType` answers. Ten read every `.ts` for a spelling. Two want folders, two ask membership. Three are left, two of them the check that polices index use. The file is 15 MB, gitignored, machine-local, and holds about two hundred dead `.uncommitted.` entries.\n",
     },
     { statement: "Alan holds the import index's structure correct." },
     { statement: "Alan holds the rule index's structure correct." },
