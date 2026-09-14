@@ -1,7 +1,8 @@
 import { relative } from "node:path"
 import { rgPath } from "@vscode/ripgrep"
-import { pathsIn } from "akasha/changes/modules/answer/change-answer.module.code.ts"
-import { pathsThere, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { leftAt } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { indexNamed } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
@@ -15,11 +16,14 @@ const FOUND_NOTHING = 1
 
 const GLOBBED = "--glob"
 
+const UNIGNORED = "--no-ignore"
+
+const PENDING = ".uncommitted."
+
 const SEARCHED: readonly string[] = [
   "--files-with-matches",
   "--null",
   "--no-config",
-  "--no-ignore",
   "--hidden",
   "--fixed-strings",
   "--file",
@@ -47,16 +51,43 @@ export function foundIn(out: string, code: number, err: string, root: string): r
   return found.map((one) => relative(root, one))
 }
 
+function ranOver(
+  root: string,
+  asked: readonly string[],
+  kinds: readonly string[],
+  said: readonly string[]
+): readonly string[] {
+  const done = ran([rgPath, ...SEARCHED, ...said, ...globsFor(kinds), root], {
+    stdin: BYTES.encode(`${asked.join(LINED)}${LINED}`),
+  })
+  return foundIn(done.out, done.code, done.err, root)
+}
+
 export function pathsSearched(
   root: string,
   asked: readonly string[],
   kinds: readonly string[]
 ): readonly string[] {
   if (asked.length === 0) return []
-  const done = ran([rgPath, ...SEARCHED, ...globsFor(kinds), root], {
-    stdin: BYTES.encode(`${asked.join(LINED)}${LINED}`),
-  })
-  return foundIn(done.out, done.code, done.err, root)
+  const found = new Set(ranOver(root, asked, kinds, []))
+  for (const path of ranOver(root, asked, kinds, [UNIGNORED])) {
+    if (path.includes(PENDING)) found.add(path)
+  }
+  return [...found]
+}
+
+function overlaid(over: Answer, found: readonly string[]): readonly string[] {
+  const held = new Set(found)
+  for (const one of over.edits) {
+    if (one.kind === "move") {
+      held.delete(one.pathFrom)
+      held.add(one.pathTo)
+      continue
+    }
+    if (one.kind === "remove") held.delete(one.path)
+    else held.add(leftAt(one))
+  }
+  return [...held].sort()
 }
 
 export function pathsNaming(
@@ -65,13 +96,5 @@ export function pathsNaming(
   kinds: readonly string[]
 ): readonly string[] {
   if (asked.length === 0) return []
-  const held = new Set(pathsThere(world))
-  const found = new Set<string>()
-  for (const path of pathsSearched(world.root, asked, kinds)) {
-    if (held.has(path)) found.add(path)
-  }
-  for (const path of pathsIn(world.over)) {
-    if (held.has(path)) found.add(path)
-  }
-  return [...found].sort()
+  return overlaid(world.over, pathsSearched(world.root, asked, kinds))
 }

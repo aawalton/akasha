@@ -4,7 +4,7 @@ export const treeSearching = {
   id: "01a0a06a-7815-7496-bab7-bcf7151d8cce",
   type: "module",
   slug: "tree-searching",
-  definition: "the paths a search of the tree names, and which of those a world carries",
+  definition: "the paths a search of the tree names, with the answer a change carries laid over",
   code: "ts",
   test: "ts",
   invariants: [
@@ -35,11 +35,27 @@ export const treeSearching = {
     },
     {
       invariantKind: "departure",
-      statement: "The paths answered are the paths the world holds.",
+      statement: "A file the repository ignores is left unsearched.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body no commit holds yet is searched though the repository ignores it.",
     },
     {
       invariantKind: "departure",
       statement: "A path the answer so far writes is answered beside the paths the search names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the answer so far writes is answered though no body sits on disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the answer so far takes away is left out though the search names it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the answer so far moves is answered at the path moved to.",
     },
     {
       invariantKind: "departure",
@@ -53,6 +69,10 @@ export const treeSearching = {
     {
       invariantKind: "departure",
       statement: "A call asking after no spelling searches nothing.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No index is read to say which paths are there.",
     },
     {
       invariantKind: "absence",

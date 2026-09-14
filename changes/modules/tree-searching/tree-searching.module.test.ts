@@ -39,6 +39,18 @@ const OTHER_BODY = `const HELD = "${OTHER_SPELLING}"\n`
 
 const WROTE_AT = "akasha/held/three/held-three.held-kind.code.ts"
 
+const PENDING_AT = "akasha/held/pending/held-pending.held-kind.seat.uncommitted.ts"
+
+const IGNORED_AT = "built/held-built.held-kind.code.ts"
+
+const GITIGNORE_AT = ".gitignore"
+
+const IGNORING = "built/\n*.uncommitted.*\n"
+
+const GIT_AT = ".git/kept"
+
+const KEPT = "held\n"
+
 const ENDED = "\0"
 
 const NOWHERE = "/nowhere"
@@ -102,13 +114,26 @@ test("a caller handing a root rather than a world is answered every path the sea
   expect(pathsSearched(world.root, [SPELLING], TYPED_KINDS).toSorted()).toEqual([CODE_AT, OTHER_AT])
 })
 
-test("the paths answered are the paths the world holds", () => {
+test("a file the repository ignores is left unsearched", () => {
   const world = worldSpelling({ [CODE_AT]: CODE_BODY }, NOTHING_OVER, {
     [CODE_AT]: CODE_BODY,
-    [OTHER_AT]: CODE_BODY,
+    [IGNORED_AT]: CODE_BODY,
+    [GITIGNORE_AT]: IGNORING,
+    [GIT_AT]: KEPT,
   })
 
-  expect(pathsNaming(world, [SPELLING], TYPED_KINDS)).toEqual([CODE_AT])
+  expect(pathsNaming(world, [SPELLING], EVERY_KIND)).toEqual([CODE_AT])
+})
+
+test("a body no commit holds yet is searched though the repository ignores it", () => {
+  const world = worldSpelling({ [CODE_AT]: CODE_BODY }, NOTHING_OVER, {
+    [CODE_AT]: CODE_BODY,
+    [PENDING_AT]: CODE_BODY,
+    [GITIGNORE_AT]: IGNORING,
+    [GIT_AT]: KEPT,
+  })
+
+  expect(pathsNaming(world, [SPELLING], EVERY_KIND)).toEqual([CODE_AT, PENDING_AT])
 })
 
 test("a path the answer so far writes is answered beside the paths the search names", () => {
@@ -117,6 +142,33 @@ test("a path the answer so far writes is answered beside the paths the search na
     refused: null,
   }
   const world = worldSpelling({ [WROTE_AT]: CODE_BODY }, over, { [WROTE_AT]: OTHER_BODY })
+
+  expect(pathsNaming(world, [SPELLING], TYPED_KINDS)).toEqual([WROTE_AT])
+})
+
+test("a path the answer so far writes is answered though no body sits on disk", () => {
+  const over: Answer = {
+    edits: [{ kind: "add", path: WROTE_AT, content: CODE_BODY }],
+    refused: null,
+  }
+  const world = worldSpelling({ [CODE_AT]: CODE_BODY }, over)
+
+  expect(pathsNaming(world, [SPELLING], TYPED_KINDS)).toEqual([CODE_AT, WROTE_AT])
+})
+
+test("a path the answer so far takes away is left out though the search names it", () => {
+  const over: Answer = { edits: [{ kind: "remove", path: OTHER_AT }], refused: null }
+  const world = worldSpelling({ [CODE_AT]: CODE_BODY, [OTHER_AT]: CODE_BODY }, over)
+
+  expect(pathsNaming(world, [SPELLING], TYPED_KINDS)).toEqual([CODE_AT])
+})
+
+test("a path the answer so far moves is answered at the path moved to", () => {
+  const over: Answer = {
+    edits: [{ kind: "move", pathFrom: CODE_AT, pathTo: WROTE_AT }],
+    refused: null,
+  }
+  const world = worldSpelling({ [CODE_AT]: CODE_BODY }, over)
 
   expect(pathsNaming(world, [SPELLING], TYPED_KINDS)).toEqual([WROTE_AT])
 })
