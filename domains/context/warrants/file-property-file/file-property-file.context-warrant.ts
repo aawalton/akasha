@@ -12,11 +12,11 @@ export const filePropertyFile = {
   transitive: false,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page property's file warrants its page and its property's type.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A property's file warrants its page whatever the file has.",
     },
   ],

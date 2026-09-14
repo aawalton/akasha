@@ -12,15 +12,15 @@ export const fileDomain = {
   transitive: false,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A file warrants the page that names the file among its parts.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The page a file belongs to is composed out of that file's own name.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One reading of the index answers every question a run of this warrant asks.",
     },
   ],

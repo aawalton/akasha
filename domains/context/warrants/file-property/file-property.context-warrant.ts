@@ -13,15 +13,15 @@ export const fileProperty = {
   transitive: false,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page warrants the page property type of every property the page states.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page warrants nothing for a property the page does not state.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement:
         "`Never Depend On Everything` refuses this warrant a loader edge, which would reach every page.",
     },

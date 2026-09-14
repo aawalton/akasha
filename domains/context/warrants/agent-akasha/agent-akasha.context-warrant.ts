@@ -12,15 +12,15 @@ export const agentAkasha = {
   transitive: false,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An agent warrants the akasha domain.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only an agent warrants the akasha domain.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An akasha domain whose page cannot be found is no warrant.",
     },
   ],
