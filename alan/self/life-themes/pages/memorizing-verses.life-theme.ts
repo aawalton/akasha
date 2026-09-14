@@ -6,5 +6,5 @@ export const memorizingVerses = {
   slug: "memorizing-verses",
   title: "Memorizing Verses",
   lifeThemeStatus: "up-next",
-  lifeThemeValue: "faith",
+  lifeThemeValue: "value/faith",
 } as const satisfies LifeTheme

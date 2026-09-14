@@ -7,5 +7,5 @@ export const iAmAWholeFoodPlantBasedEater = {
   title: "I am a Whole Food Plant Based Eater",
   startDate: "2026-01-01",
   lifeThemeStatus: "in-progress",
-  lifeThemeValue: "health",
+  lifeThemeValue: "value/health",
 } as const satisfies LifeTheme

@@ -7,5 +7,5 @@ export const theWanderingInnWiki = {
   title: "The Wandering Inn Wiki",
   startDate: "2026-02-20",
   lifeThemeStatus: "up-next",
-  lifeThemeValue: "fun",
+  lifeThemeValue: "value/fun",
 } as const satisfies LifeTheme

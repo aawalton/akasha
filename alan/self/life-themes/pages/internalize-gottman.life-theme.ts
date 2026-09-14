@@ -7,5 +7,5 @@ export const internalizeGottman = {
   title: "Internalize Gottman",
   startDate: "2025-10-01",
   lifeThemeStatus: "in-progress",
-  lifeThemeValue: "love",
+  lifeThemeValue: "value/love",
 } as const satisfies LifeTheme

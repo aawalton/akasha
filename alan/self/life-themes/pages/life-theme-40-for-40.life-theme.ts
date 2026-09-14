@@ -7,5 +7,5 @@ export const lifeTheme40For40 = {
   title: "40 for 40",
   startDate: "2026-02-12",
   lifeThemeStatus: "current-focus",
-  lifeThemeValue: "love",
+  lifeThemeValue: "value/love",
 } as const satisfies LifeTheme

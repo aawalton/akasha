@@ -7,5 +7,5 @@ export const meAsABrand = {
   title: "Me as a Brand",
   startDate: "2026-01-01",
   lifeThemeStatus: "current-focus",
-  lifeThemeValue: "wealth",
+  lifeThemeValue: "value/wealth",
 } as const satisfies LifeTheme

@@ -8,5 +8,5 @@ export const contributionSystem = {
   lifeThemeParent: "me-as-a-brand",
   startDate: "2026-02-12",
   lifeThemeStatus: "up-next",
-  lifeThemeValue: "wealth",
+  lifeThemeValue: "value/wealth",
 } as const satisfies LifeTheme

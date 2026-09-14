@@ -6,5 +6,5 @@ export const readTheAnnalsOfAmerica = {
   slug: "read-the-annals-of-america",
   title: "Read The Annals of America",
   lifeThemeStatus: "up-next",
-  lifeThemeValue: "learn",
+  lifeThemeValue: "value/learn",
 } as const satisfies LifeTheme

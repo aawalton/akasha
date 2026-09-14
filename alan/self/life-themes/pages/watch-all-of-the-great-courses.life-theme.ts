@@ -7,5 +7,5 @@ export const watchAllOfTheGreatCourses = {
   title: "Watch All of The Great Courses",
   startDate: "2020-01-01",
   lifeThemeStatus: "in-progress",
-  lifeThemeValue: "learn",
+  lifeThemeValue: "value/learn",
 } as const satisfies LifeTheme
