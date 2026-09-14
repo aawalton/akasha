@@ -4,7 +4,7 @@ export const addTypeMember = {
   id: "01a081dc-0cef-7d5a-9c4e-daf2ba343c98",
   type: "change-mechanical-file-content",
   slug: "add-type-member",
-  changeMode: "change-mode-add",
+  changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-code",
   definition: "one member put into an exported object type",

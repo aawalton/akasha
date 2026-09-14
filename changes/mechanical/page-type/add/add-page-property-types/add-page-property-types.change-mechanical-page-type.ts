@@ -4,7 +4,7 @@ export const addPagePropertyTypes = {
   id: "01a09c87-755c-70d2-9391-9da2c49bcb2b",
   type: "change-mechanical-page-type",
   slug: "add-page-property-types",
-  changeMode: "change-mode-add",
+  changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page",
   definition: "every page property of one page type turned over to the code writing its type",

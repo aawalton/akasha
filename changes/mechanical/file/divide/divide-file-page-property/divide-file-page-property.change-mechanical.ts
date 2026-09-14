@@ -4,7 +4,7 @@ export const divideFilePageProperty = {
   id: "01a08df0-6686-74e8-9c80-9ef236f19844",
   type: "change-mechanical",
   slug: "divide-file-page-property",
-  changeMode: "change-mode-divide",
+  changeMode: "change-mode/change-mode-divide",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file-page",
   definition: "one page property's rows laid out again across as many files as the ceiling takes",

@@ -4,7 +4,7 @@ export const addIfNotPresentFile = {
   id: "01a08188-1037-7ddd-b5cb-c727ac6ef590",
   type: "change-mechanical-file",
   slug: "add-if-not-present-file",
-  changeMode: "change-mode-add-if-not-present",
+  changeMode: "change-mode/change-mode-add-if-not-present",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file",
   definition: "one body written at one path that does not have that body already",

@@ -4,7 +4,7 @@ export const changePagePageProperty = {
   id: "01a07716-76a6-7428-9e18-f3fc32d18085",
   type: "change-mechanical-file-content",
   slug: "change-page-page-property",
-  changeMode: "change-mode-change",
+  changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
   definition: "one key of a page's exported object stated anew",

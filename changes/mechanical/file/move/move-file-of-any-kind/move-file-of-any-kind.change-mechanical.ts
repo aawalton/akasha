@@ -4,7 +4,7 @@ export const moveFileOfAnyKind = {
   id: "01a0820e-a259-7563-85dc-3e3730e22c06",
   type: "change-mechanical",
   slug: "move-file-of-any-kind",
-  changeMode: "change-mode-move",
+  changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file",
   definition: "one file moved to another path, through the change moving that kind of path",

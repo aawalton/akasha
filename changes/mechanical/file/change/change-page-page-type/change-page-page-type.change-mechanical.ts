@@ -4,7 +4,7 @@ export const changePagePageType = {
   id: "01a09ca3-94da-7d4d-9aea-0e05b2ce3f33",
   type: "change-mechanical",
   slug: "change-page-page-type",
-  changeMode: "change-mode-change",
+  changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file-page",
   definition: "one page stated as another page type, in the data and in every file name",

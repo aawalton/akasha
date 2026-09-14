@@ -4,7 +4,7 @@ export const removeFilePageProperty = {
   id: "01a08226-93fb-7f34-b432-0c2c3a73fdea",
   type: "change-mechanical",
   slug: "remove-file-page-property",
-  changeMode: "change-mode-remove",
+  changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file-page-property",
   definition: "one page property taken away with every file that property keeps beside it",

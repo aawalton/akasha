@@ -4,7 +4,7 @@ export const qualifyRelationOnEveryPage = {
   id: "01a0a06b-4165-7143-9eb8-553a0c1114ec",
   type: "change-mechanical-page-type",
   slug: "qualify-relation-on-every-page",
-  changeMode: "change-mode-change",
+  changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page-property",
   definition:

@@ -4,7 +4,7 @@ export const sortPropertyValuesOnEveryPage = {
   id: "01a095ce-4e42-7067-8c69-add95e48ed0b",
   type: "change-mechanical-page-type",
   slug: "sort-property-values-on-every-page",
-  changeMode: "change-mode-move",
+  changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page-property",
   definition:

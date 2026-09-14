@@ -4,7 +4,7 @@ export const moveFileCode = {
   id: "01a07718-c9b6-7bb2-9eb2-27a44ed4fe7d",
   type: "change-mechanical",
   slug: "move-file-code",
-  changeMode: "change-mode-move",
+  changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file-code",
   definition: "one code file moved to another path, with every body importing it repointed",

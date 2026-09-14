@@ -4,7 +4,7 @@ export const appendLines = {
   id: "01a08c36-f87f-791e-99a3-e195153103fb",
   type: "change-mechanical-file-content",
   slug: "append-lines",
-  changeMode: "change-mode-append",
+  changeMode: "change-mode/change-mode-append",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content",
   definition: "content put at the end of what one path holds, with nothing else judged",

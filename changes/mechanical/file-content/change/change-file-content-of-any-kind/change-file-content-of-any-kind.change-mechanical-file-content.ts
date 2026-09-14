@@ -4,7 +4,7 @@ export const changeFileContentOfAnyKind = {
   id: "01a0826c-1190-79a9-aa7d-6eaf11dec403",
   type: "change-mechanical-file-content",
   slug: "change-file-content-of-any-kind",
-  changeMode: "change-mode-change",
+  changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content",
   definition: "one passage of one body replaced, through the change working that kind of body",

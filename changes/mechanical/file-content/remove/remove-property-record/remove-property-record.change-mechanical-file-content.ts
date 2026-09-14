@@ -4,7 +4,7 @@ export const removePropertyRecord = {
   id: "01a081ee-32aa-7960-8703-4e32e6a02a7e",
   type: "change-mechanical-file-content",
   slug: "remove-property-record",
-  changeMode: "change-mode-remove",
+  changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
   definition: "one record taken out of one page property in a page's body",

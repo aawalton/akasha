@@ -4,7 +4,7 @@ export const moveFiles = {
   id: "01a09230-ff9c-7e79-9c45-3d0b77f13b11",
   type: "change-mechanical",
   slug: "move-files",
-  changeMode: "change-mode-move",
+  changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file",
   definition: "many files moved at once, with every body naming one of them repointed",

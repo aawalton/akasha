@@ -4,7 +4,7 @@ export const renameFilePageProperty = {
   id: "01a08249-eea4-7473-8095-9de50cef8477",
   type: "change-mechanical",
   slug: "rename-file-page-property",
-  changeMode: "change-mode-rename",
+  changeMode: "change-mode/change-mode-rename",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file-page-property",
   definition: "one page property renamed and carried to where its slug says",

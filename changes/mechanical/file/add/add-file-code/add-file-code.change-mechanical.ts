@@ -4,7 +4,7 @@ export const addFileCode = {
   id: "01a07969-9123-7320-b8c9-3afd2dae9bfa",
   type: "change-mechanical",
   slug: "add-file-code",
-  changeMode: "change-mode-add",
+  changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file-code",
   definition: "one code body written at one path, with the imports that body names judged",

@@ -4,7 +4,7 @@ export const removeFileCode = {
   id: "01a07987-afc1-73bf-8a8e-9ba1cc6c5248",
   type: "change-mechanical",
   slug: "remove-file-code",
-  changeMode: "change-mode-remove",
+  changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file-code",
   definition: "one code file taken away, with the imports naming that file judged",

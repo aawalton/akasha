@@ -4,7 +4,7 @@ export const removeFilePage = {
   id: "01a079a5-8d4a-70e6-a33b-73d49d514b05",
   type: "change-mechanical-file",
   slug: "remove-file-page",
-  changeMode: "change-mode-remove",
+  changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file-page",
   definition: "one page taken away with every file that page keeps beside the page",

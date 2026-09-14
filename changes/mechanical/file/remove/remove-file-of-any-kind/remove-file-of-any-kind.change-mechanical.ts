@@ -4,7 +4,7 @@ export const removeFileOfAnyKind = {
   id: "01a08221-da77-7ee4-a3c3-f3e1be5655e3",
   type: "change-mechanical",
   slug: "remove-file-of-any-kind",
-  changeMode: "change-mode-remove",
+  changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file",
   definition: "one file taken away, through the change taking that kind of path away",

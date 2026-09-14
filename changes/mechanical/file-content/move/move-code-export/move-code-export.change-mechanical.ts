@@ -4,7 +4,7 @@ export const moveCodeExport = {
   id: "01a08799-4f75-7fb6-bcf9-3392494a57da",
   type: "change-mechanical",
   slug: "move-code-export",
-  changeMode: "change-mode-move",
+  changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-code",
   definition: "one export moved from one code body to another, with every importer repointed",

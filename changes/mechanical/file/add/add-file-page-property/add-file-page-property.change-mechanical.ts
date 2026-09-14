@@ -4,7 +4,7 @@ export const addFilePageProperty = {
   id: "01a07984-2e7e-7ced-801b-160efbf7e220",
   type: "change-mechanical",
   slug: "add-file-page-property",
-  changeMode: "change-mode-add",
+  changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file-page-property",
   definition: "one page property written at one path, with the keys that property carries judged",

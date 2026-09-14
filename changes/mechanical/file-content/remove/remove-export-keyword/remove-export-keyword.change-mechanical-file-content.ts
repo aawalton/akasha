@@ -4,7 +4,7 @@ export const removeExportKeyword = {
   id: "01a095d4-453f-7914-9ca6-98aa8d8c4097",
   type: "change-mechanical-file-content",
   slug: "remove-export-keyword",
-  changeMode: "change-mode-remove",
+  changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-code",
   definition: "the change dropping the `export` from named values one code file declares",

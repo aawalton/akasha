@@ -4,7 +4,7 @@ export const changeDomainParent = {
   id: "01a08244-bf2d-7a34-9f71-759e3754a1ed",
   type: "change-mechanical-file-content",
   slug: "change-domain-parent",
-  changeMode: "change-mode-change",
+  changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
   definition: "one page made a part of another page rather than of the page naming it now",

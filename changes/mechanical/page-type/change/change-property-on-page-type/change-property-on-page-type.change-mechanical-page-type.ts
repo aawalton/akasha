@@ -4,7 +4,7 @@ export const changePropertyOnPageType = {
   id: "01a09c73-7ce8-7ac1-b2ad-4b7ef6580484",
   type: "change-mechanical-page-type",
   slug: "change-property-on-page-type",
-  changeMode: "change-mode-change",
+  changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page-property",
   definition:

@@ -4,7 +4,7 @@ export const divideFileCode = {
   id: "01a09c43-477b-70bb-8ac6-1c63e5ab3632",
   type: "change-mechanical",
   slug: "divide-file-code",
-  changeMode: "change-mode-divide",
+  changeMode: "change-mode/change-mode-divide",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file-code",
   definition: "one code body divided in two, the exports named landing in a file made for them",

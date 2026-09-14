@@ -4,7 +4,7 @@ export const renameEntryKey = {
   id: "01a08763-9f88-79a2-8f08-e50cbca9c517",
   type: "change-mechanical-file-content",
   slug: "rename-entry-key",
-  changeMode: "change-mode-rename",
+  changeMode: "change-mode/change-mode-rename",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-entry-key",
   definition: "one key of every entry beside a page spelled anew, keeping its place and its value",

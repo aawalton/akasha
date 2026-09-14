@@ -4,7 +4,7 @@ export const addPageProperty = {
   id: "01a08174-b09a-7bbd-acf1-6892ecfb3575",
   type: "change-mechanical-file-content",
   slug: "add-page-property",
-  changeMode: "change-mode-add",
+  changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
   definition: "one key put into a page's body under one value rather than under a list",

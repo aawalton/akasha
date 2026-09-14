@@ -4,7 +4,7 @@ export const copyPropertyOnEveryPage = {
   id: "01a09c70-3bc6-7f5a-9686-fdaee766d54a",
   type: "change-mechanical-page-type",
   slug: "copy-property-on-every-page",
-  changeMode: "change-mode-add-if-not-present",
+  changeMode: "change-mode/change-mode-add-if-not-present",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page-property",
   definition:
