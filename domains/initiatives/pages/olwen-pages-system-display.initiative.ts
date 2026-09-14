@@ -21,7 +21,6 @@ export const olwenPagesSystemDisplay = {
       statement:
         "A page type stating no component of a kind takes the component the page type it extends states.",
     },
-    { statement: "No registry keyed by a rendered type picks the component drawing a badge." },
     { statement: "No page type states a display for a screen to resolve to a component." },
     { statement: "A page type states the component drawing a page of that page type as a chip." },
     { statement: "A page type states the component drawing a page of that page type as a row." },

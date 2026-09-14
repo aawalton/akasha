@@ -70,6 +70,10 @@ export const pageProperty = {
       invariantKind: "absence",
       statement: "No page property names the type a screen draws that property's value as.",
     },
+    {
+      invariantKind: "absence",
+      statement: "No registry keyed by a rendered type picks a property's badge.",
+    },
   ],
   typeGenerator: "ts",
   types: "ts",
