@@ -4,7 +4,7 @@ export const alanDomainAll = {
   id: "01a05433-f105-7c63-bad6-628d7a20081b",
   type: "person-authority",
   slug: "alan-domain-all",
-  person: "alan",
+  person: "person/alan",
   authorityKind: "domain",
   target: "all",
 } as const satisfies PersonAuthority

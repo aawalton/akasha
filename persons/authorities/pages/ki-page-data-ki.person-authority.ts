@@ -4,7 +4,7 @@ export const kiPageDataKi = {
   id: "01a05433-f108-759f-9f3e-02d7fefd2a74",
   type: "person-authority",
   slug: "ki-page-data-ki",
-  person: "ki",
+  person: "person/ki",
   authorityKind: "page-data",
   target: "ki-*",
 } as const satisfies PersonAuthority
