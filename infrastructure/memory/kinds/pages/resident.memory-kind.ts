@@ -7,19 +7,19 @@ export const resident = {
   definition: "memory a process holds in RAM at the moment it is read",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Two processes sharing a page are each resident in the whole page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Adding the resident memory of two processes counts a page they share twice.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Memory a process has swapped out is resident nowhere.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "What one process is holding is asked in resident memory.",
     },
   ],

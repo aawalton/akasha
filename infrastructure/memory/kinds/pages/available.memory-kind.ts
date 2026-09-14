@@ -7,19 +7,19 @@ export const available = {
   definition: "memory a program could take without anything being swapped",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Memory that is free is a part of memory that is available.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Cached memory the kernel would give up counts as available.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A host with little free memory and much available has nothing wrong with it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Whether a host can admit more work is asked in available memory.",
     },
   ],

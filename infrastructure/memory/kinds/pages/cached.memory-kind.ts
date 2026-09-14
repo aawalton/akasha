@@ -7,19 +7,19 @@ export const cached = {
   definition: "memory holding what was read from disk, kept until something else wants it",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Cached memory reads as used and is given up on demand.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Cached memory is given up rather than swapped when a program asks.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A host whose memory reads as nearly all used is often nearly all cache.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Memory a process holds is never given up this way.",
     },
   ],

@@ -7,19 +7,19 @@ export const virtual = {
   definition: "memory a process has asked for rather than memory that process holds",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Memory a process asked for and never reached costs that process no RAM.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A process's virtual memory bounds nothing about what that process holds.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A runtime reserving its whole heap at once is virtual until reached.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The address space limit an rlimit states is read in virtual memory.",
     },
   ],
