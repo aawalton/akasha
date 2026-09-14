@@ -18,41 +18,41 @@ export const learnEverything = {
   unit: "unit/words",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The outline is the whole of knowledge.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The files on disk are how far into the outline Ali has got.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A node's mastery level is judged by hand.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A node with children is scored at a rung of its own just as a node without children is.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A node's coverage is worked out from the children beneath the node.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A topic names the topic above rather than sitting in that topic's folder.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "How far Alan has mastered each part of the map is kept with the part.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A topic's mastery level is written to that topic's page and never told to Alan in any form.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The answers Alan got right and the answers Alan got wrong are told to Alan.",
     },
   ],

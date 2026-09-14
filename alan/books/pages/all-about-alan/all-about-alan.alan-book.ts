@@ -17,19 +17,19 @@ export const allAboutAlan = {
   unit: "unit/words",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The notes are part of Alan rather than a description of Alan.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "The notes have no queue of subjects to work through.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A loose end is a finding.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A change here lands without Alan's review.",
     },
   ],
