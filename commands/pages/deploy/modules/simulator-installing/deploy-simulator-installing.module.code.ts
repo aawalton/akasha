@@ -26,8 +26,6 @@ const DEFAULT_HOST = "macbook"
 
 const RUN_ROOT = ".akasha-ios-build"
 
-const SPA_SOURCE = "NATIVE_SHELL_SPA_SOURCE_DIR"
-
 const EXCLUDES = ["node_modules", "ios", "www", "build", ".DS_Store"]
 
 const MAC_PATH = 'export PATH="/opt/homebrew/opt/node@22/bin:/opt/homebrew/bin:$PATH"'
@@ -155,20 +153,6 @@ export function installedFrom(
     `building ${plan.appSlug} on ${host} from ${plan.deliverPaths.length} directories` +
       ` and ${plan.deliverFiles.length} files of the pages every build compiles`,
   ]
-  if (plan.staging !== null) {
-    const from = join(root, plan.staging.sourcePath)
-    const staged = run(["bash", join(root, plan.staging.scriptPath)], { [SPA_SOURCE]: from })
-    report.push(staged.out.trimEnd())
-    if (staged.code !== 0) {
-      return answeredWith(
-        report,
-        [`the site ${plan.appSlug} serves was not staged from ${from}`],
-        OPERATIONAL
-      )
-    }
-    done.push(`the site ${plan.appSlug} serves, staged from ${from}`)
-    report.push(`staged the site ${plan.appSlug} serves from ${from}`)
-  }
   const short = delivered(root, plan, host, run, done)
   if (short.length > 0) return answeredWith(report, short, OPERATIONAL)
   const stamp = stampOf(root, plan, run)

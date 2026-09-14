@@ -18,10 +18,6 @@ export const deploySimulatorInstalling = {
     },
     {
       invariantKind: "departure",
-      statement: "An app's site is staged here before the tree reaches the mac.",
-    },
-    {
-      invariantKind: "departure",
       statement: "No app's web directory is delivered, since the mac builds that directory.",
     },
     {

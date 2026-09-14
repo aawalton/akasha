@@ -1,5 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import { join } from "node:path"
 import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import type { Plan } from "akasha/code/ios-apps/modules/app-building/app-building.module.code.ts"
 import {
@@ -53,17 +52,11 @@ const PLAN: Plan = {
   buildScriptPath: "akasha/quiet/build.sh",
   syncScriptPath: "akasha/quiet/sync.sh",
   dependencies: {},
-  staging: { scriptPath: "akasha/quiet/stage.sh", sourcePath: "akasha/quiet/site" },
+  staging: null,
   deliverPaths: ["akasha/quiet"],
   deliverFiles: [],
   exports: [],
 }
-
-function stagedFrom(at: string): string {
-  return `the site quiet serves, staged from ${join(at, "akasha/quiet/site")}`
-}
-
-const STAGED = stagedFrom(ROOT)
 
 const TREE = "akasha/quiet under .akasha-ios-build on macbook"
 
@@ -83,10 +76,6 @@ const working: Running = () => ({ out: "", code: 0 })
 const stamped: Running = (command) => {
   if (command.includes("rev-parse")) return { out: "c0ffee\n", code: 0 }
   return { out: "", code: 0 }
-}
-
-function staging(held: readonly string[]): readonly string[] {
-  return held.filter((one) => one.includes("staged the site"))
 }
 
 function holdingBuildScript(): string {
@@ -113,17 +102,16 @@ test("an app naming no build script refuses before reaching a machine", async ()
 test("each thing this writes is named as soon as that thing reaches a machine", () => {
   const done: string[] = []
 
-  expect(() => installedFrom(ROOT, PLAN, HOST, running(3), done)).toThrow()
-  expect(done).toEqual([STAGED, TREE])
+  expect(() => installedFrom(ROOT, PLAN, HOST, running(2), done)).toThrow()
+  expect(done).toEqual([TREE])
 })
 
 test("a run that threw part way names in its refusal each thing it had written", async () => {
-  const held = await installedBy(ROOT, PLAN, HOST, running(3))
+  const held = await installedBy(ROOT, PLAN, HOST, running(2))
 
   expect(held.code).toBe(OPERATIONAL)
-  expect(held.report).toEqual([STAGED, TREE])
+  expect(held.report).toEqual([TREE])
   const last = held.refusals[held.refusals.length - 1] as string
-  expect(last).toContain(STAGED)
   expect(last).toContain(TREE)
 })
 
@@ -139,7 +127,6 @@ test("a commit that could not be read is refused with the tree already on the ma
 
   expect(held.code).toBe(OPERATIONAL)
   const last = held.refusals[held.refusals.length - 1] as string
-  expect(last).toContain(STAGED)
   expect(last).toContain(TREE)
 })
 
@@ -151,16 +138,6 @@ test("a build reporting no sentinel is refused with the script and the tree name
   expect(held.code).toBe(OPERATIONAL)
   expect(held.refusals[0]).toContain("BUILD_SIM_OK")
   const last = held.refusals[held.refusals.length - 1] as string
-  expect(last).toContain(stagedFrom(at))
   expect(last).toContain(TREE)
   expect(last).toContain(SCRIPT)
-})
-
-test("what the report already says is not said a second time by naming it", async () => {
-  const at = holdingBuildScript()
-
-  const held = await installedBy(at, PLAN, HOST, stamped)
-
-  expect(staging(held.report)).toHaveLength(1)
-  expect(held.report.filter((one) => one === stagedFrom(at))).toEqual([])
 })
