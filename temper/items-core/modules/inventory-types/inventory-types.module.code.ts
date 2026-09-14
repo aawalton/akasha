@@ -108,7 +108,7 @@ export interface InventoryCurrencies {
   account?: CurrencyBalances
 }
 
-export type PriceSource = "ttc" | "none"
+export type PriceSource = "ttc" | "ttc-no-table" | "none"
 
 export interface InventoryDatabase {
   locations: Record<string, InventoryLocationData>

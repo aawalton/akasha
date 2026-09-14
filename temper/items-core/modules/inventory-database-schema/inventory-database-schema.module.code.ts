@@ -103,7 +103,7 @@ const inventoryDatabaseSchema = z
         displayName: z.string(),
         worldName: z.string(),
         lastFullScan: z.number(),
-        priceSource: z.enum(["ttc", "none"]).optional(),
+        priceSource: z.enum(["ttc", "ttc-no-table", "none"]).optional(),
       })
       .strict(),
     currencies: inventoryCurrenciesSchema.optional(),

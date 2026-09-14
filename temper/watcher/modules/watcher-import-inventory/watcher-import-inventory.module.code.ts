@@ -126,7 +126,7 @@ export function scanLines(
     `Scan timestamp: ${capturedAt}`,
     `Estimated scanned value: ${asRoundedGold(totalValue)} gold (all locations)`,
   ]
-  if (priceSource === "none") lines.push(NO_MARKET_PRICE)
+  if (priceSource === "none" || priceSource === "ttc-no-table") lines.push(NO_MARKET_PRICE)
   lines.push("", `Sharded inventory into ${chunkCount} chunk(s).`, "", NO_CURRENCY_PRICING)
   return lines
 }

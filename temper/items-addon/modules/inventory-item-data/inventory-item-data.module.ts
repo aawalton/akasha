@@ -10,6 +10,18 @@ export const inventoryItemData = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "The price source says whether Tamriel Trade Centre holds a price table.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A source answering with no price table is told apart from no price source.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The table itself is read rather than the sentence the addon renders about it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A slot records whether the game holds the item junk now.",
     },
     {

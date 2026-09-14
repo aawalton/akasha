@@ -4,7 +4,9 @@ import type { ItemData } from "akasha/temper/items-addon/modules/inventory-saved
 import { isTemperLocked } from "akasha/temper/items-addon/modules/inventory-temper-lock-store/inventory-temper-lock-store.module.code.ts"
 import type { PriceSource } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 export function resolvePriceSource(): PriceSource {
-  return TamrielTradeCentrePrice === undefined ? "none" : "ttc"
+  const priceApi = TamrielTradeCentrePrice
+  if (priceApi === undefined) return "none"
+  return priceApi.PriceTable === undefined ? "ttc-no-table" : "ttc"
 }
 
 export function lookupTtcPricing(

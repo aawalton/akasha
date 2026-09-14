@@ -10,8 +10,14 @@ interface TtcPriceInfo {
   SaleAmountCount?: number
 }
 
+interface TtcPriceTable {
+  Data?: object
+  TimeStamp?: number
+}
+
 interface TamrielTradeCentrePriceApi {
   GetPriceInfo: (itemLink: string) => TtcPriceInfo | undefined
+  PriceTable?: TtcPriceTable
 }
 
 declare const TamrielTradeCentrePrice: TamrielTradeCentrePriceApi | undefined

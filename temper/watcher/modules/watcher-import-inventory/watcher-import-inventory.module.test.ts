@@ -109,6 +109,12 @@ test("the opening report drops the warning where the scan carries market prices"
   expect(scanLines(counts, CAPTURED_AT, TOTAL_VALUE, "ttc", 1).join("\n")).toBe(legacy)
 })
 
+test("a scan whose source answered with no price table carries the warning", () => {
+  const said = scanLines(COUNTS, CAPTURED_AT, TOTAL_VALUE, "ttc-no-table", 2).join("\n")
+  expect(said).toContain(NO_MARKET_PRICE)
+  expect(said).toBe(scanLines(COUNTS, CAPTURED_AT, TOTAL_VALUE, "none", 2).join("\n"))
+})
+
 test("the summary matches what the legacy import wrote where guild banks were set aside", () => {
   const legacy = [
     "\n=== Summary ===",
