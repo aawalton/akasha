@@ -22,7 +22,15 @@ export const subagentLiveness = {
     },
     {
       invariantKind: "departure",
-      statement: "A transcript read naming the subagent nowhere reads as returned.",
+      statement: "A transcript recording a result for the subagent reads as returned.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A transcript read naming the subagent nowhere reads as unread.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A subagent a transcript names nowhere may be working rather than returned.",
     },
     {
       invariantKind: "departure",

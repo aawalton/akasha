@@ -41,11 +41,12 @@ export const agent = {
     {
       invariantKind: "departure",
       statement:
-        "A subagent has departed once its page has gone and its transcript stops naming it as running.",
+        "A subagent has departed once its seat's transcript records the result it returned.",
     },
     {
       invariantKind: "departure",
-      statement: "Nothing a subagent left behind is taken away while that subagent has a page.",
+      statement:
+        "Nothing a subagent left behind is taken away on a transcript that names it nowhere.",
     },
     {
       invariantKind: "departure",

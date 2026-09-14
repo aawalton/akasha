@@ -1,20 +1,14 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { SUBAGENT_MARK } from "akasha/agents/modules/read-record/read-record.module.code.ts"
-import {
-  everyOfType,
-  valuesOfType,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { everyOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { ownRepoRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { pagesAtFor } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
 
 const SEAT = "seat"
 
 const SUBAGENT = "subagent"
-
-const AGENT_ID = "agentId"
 
 const SUFFIX = ".subagent.ts"
 
@@ -37,14 +31,6 @@ export function pathOf(slug: string): string {
 export function pathIn(root: string, slug: string): string {
   const flat = `${subagentsAt()}/${slug}${SUFFIX}`
   return existsSync(join(root, flat)) ? flat : pathOf(slug)
-}
-
-export function subagentPathForAgent(root: string, agentId: string): string | null {
-  if (agentId === "") return null
-  for (const one of valuesOfType(root, SUBAGENT)) {
-    if (textAt(one.value, AGENT_ID) === agentId) return one.path
-  }
-  return null
 }
 
 export function seatNamesIn(root: string): readonly string[] {

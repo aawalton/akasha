@@ -101,19 +101,22 @@ export const sweepStrayProcesses = {
         "An acting agent whose seat no page carries has departed, so its processes are ended.",
     },
     {
-      invariantKind: "constraint",
-      statement:
-        "Each signal alone has been wrong, so a subagent is ended only where both say it has gone.",
+      invariantKind: "departure",
+      statement: "A stray is ended whether or not a page still carries its subagent.",
     },
     {
       invariantKind: "constraint",
       statement:
-        "A page has been seen outliving its subagent, and a transcript naming a working one nowhere.",
+        "A subagent's page waits on what that subagent left running rather than on its return.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "constraint",
+      statement: "A page therefore goes only once there is nothing left for a tick to end.",
+    },
+    {
+      invariantKind: "constraint",
       statement:
-        "A stray whose subagent's page outlives it runs on, and nothing ends it until its seat goes.",
+        "A transcript naming a subagent nowhere leaves it unread, so a silence ends nothing.",
     },
   ],
 } as const satisfies ServiceWorkstation

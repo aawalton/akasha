@@ -1,15 +1,103 @@
 import { expect, test } from "bun:test"
+import { mkdtempSync, writeFileSync } from "node:fs"
+import { join } from "node:path"
 import {
+  type Acting,
   livenessOf,
   namedAmong,
+  readFor,
   readOf,
+  type TranscriptAt,
+  type Transcripts,
 } from "akasha/agents/subagents/modules/liveness/subagent-liveness.module.code.ts"
+import { createSubagentReader } from "akasha/code/editor/extension/modules/subagent-reading/subagent-reading.module.code.ts"
 
 const OWN = "a38f63805f9b94edf"
 
 const ANOTHER = "01a05844-6e60-7000-b54c-4b14559df70c"
 
 const NOWHERE = "agents/subagents/pages/nowhere/nowhere.subagent.ts"
+
+const SEAT = "01a09581-cb35-7000-b00f-7156d6b3ce13"
+
+const TOOL = "toolu_0168n5DKr1aTfvBasn2f5c6B"
+
+const ACTING: Acting = { seatId: SEAT, own: OWN }
+
+const SCRATCH_AT = "/var/tmp"
+
+function spawning(own: string): readonly unknown[] {
+  return [
+    {
+      type: "assistant",
+      message: {
+        content: [{ type: "tool_use", id: TOOL, name: "Agent", input: { description: "a task" } }],
+      },
+    },
+    {
+      type: "user",
+      message: { content: [{ type: "tool_result", tool_use_id: TOOL }] },
+      toolUseResult: { isAsync: true, status: "async_launched", agentId: own },
+    },
+  ]
+}
+
+function resulting(own: string): unknown {
+  return {
+    type: "user",
+    content:
+      `<task-notification>\n<task-id>${own}</task-id>\n<tool-use-id>${TOOL}</tool-use-id>\n` +
+      "<status>completed</status>\n</task-notification>",
+  }
+}
+
+function transcribing(records: readonly unknown[]): TranscriptAt {
+  const at = join(mkdtempSync(join(SCRATCH_AT, "subagent-liveness-")), "session.jsonl")
+  writeFileSync(at, records.map((one) => `${JSON.stringify(one)}\n`).join(""))
+  return () => at
+}
+
+const REFUSING: Transcripts = {
+  forSeat: () => Promise.reject(new Error("EACCES: permission denied")),
+  endedForSeat: () => Promise.reject(new Error("EACCES: permission denied")),
+}
+
+test("a transcript recording a spawn and no result for it reads working", async () => {
+  const held = await readFor(ACTING, transcribing(spawning(OWN)), createSubagentReader())
+
+  expect(held.liveness).toBe("working")
+  expect(held.why).toContain("names it as running")
+})
+
+test("a transcript recording a result for it reads returned", async () => {
+  const records = [...spawning(OWN), resulting(OWN)]
+  const held = await readFor(ACTING, transcribing(records), createSubagentReader())
+
+  expect(held.liveness).toBe("returned")
+  expect(held.why).toContain("records the result it returned")
+})
+
+test("a transcript naming the subagent nowhere reads unread", async () => {
+  const records = [...spawning(ANOTHER), resulting(ANOTHER)]
+  const held = await readFor(ACTING, transcribing(records), createSubagentReader())
+
+  expect(held.liveness).toBe("unread")
+  expect(held.why).toContain("names it nowhere")
+})
+
+test("a transcript that could not be read reads unread", async () => {
+  const held = await readFor(ACTING, () => "/var/tmp/subagent-liveness-refused.jsonl", REFUSING)
+
+  expect(held.liveness).toBe("unread")
+  expect(held.why).toContain("EACCES")
+})
+
+test("a seat stating no transcript reads as unread", async () => {
+  const held = await readFor(ACTING, () => null, REFUSING)
+
+  expect(held.liveness).toBe("unread")
+  expect(held.why).toContain("states no transcript")
+})
 
 test("a subagent the transcript names below another is named as one at the top is", () => {
   const deep = { key: "c", label: "c", agentId: OWN, children: [] }

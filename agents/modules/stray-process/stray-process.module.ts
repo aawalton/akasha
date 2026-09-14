@@ -10,8 +10,7 @@ export const strayProcess = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A process is a stray where no page carries its subagent and the transcript says returned.",
+      statement: "A process is a stray where the transcript records its subagent returned.",
     },
     {
       invariantKind: "departure",
@@ -19,19 +18,7 @@ export const strayProcess = {
     },
     {
       invariantKind: "departure",
-      statement: "A subagent one signal calls returned and another calls present is left alone.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A process whose subagent a page still carries is no stray.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Whether the seat has a page is read before the transcript is.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Whether the subagent has a page is read before the transcript is.",
     },
     {
       invariantKind: "departure",
@@ -94,13 +81,12 @@ export const strayProcess = {
     },
     {
       invariantKind: "constraint",
-      statement:
-        "A subagent's page may outlive its subagent, so a page still there cannot say on its own.",
+      statement: "A subagent's page goes only once what that subagent left running has stopped.",
     },
     {
       invariantKind: "constraint",
       statement:
-        "A transcript may name nowhere a subagent that is working, so the transcript cannot say alone.",
+        "A page that outlives its subagent that way says nothing, so no page is read here.",
     },
   ],
 } as const satisfies Module

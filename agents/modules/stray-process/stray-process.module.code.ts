@@ -4,10 +4,7 @@ import {
   ACTING_NAMED,
   SUBAGENT_MARK,
 } from "akasha/agents/modules/read-record/read-record.module.code.ts"
-import {
-  akashaRoot,
-  akashaSeatPathForAgent,
-} from "akasha/agents/seats/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import { akashaSeatPathForAgent } from "akasha/agents/seats/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import {
   type Acting,
   actingIn,
@@ -15,7 +12,6 @@ import {
   type Read,
   readFor,
 } from "akasha/agents/subagents/modules/liveness/subagent-liveness.module.code.ts"
-import { subagentPathForAgent } from "akasha/agents/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
 
 export type Stray = {
   readonly pid: number
@@ -33,8 +29,6 @@ export type Answer = Liveness | "gone"
 export type Asking = (actingAgentId: string) => Promise<Answer>
 
 export type SeatPaging = (seatId: string) => string | null
-
-export type SubagentPaging = (actingAgentId: string) => string | null
 
 export type ReadingFor = (acting: Acting) => Promise<Read>
 
@@ -105,22 +99,15 @@ function pagedBy(asking: () => string | null): Paged {
   }
 }
 
-const OWN_PAGING: SubagentPaging = (actingAgentId) =>
-  subagentPathForAgent(akashaRoot(), actingAgentId)
-
 export async function answerAsked(
   actingAgentId: string,
   paging: SeatPaging = akashaSeatPathForAgent,
-  ownPaging: SubagentPaging = OWN_PAGING,
   reading: ReadingFor = readFor
 ): Promise<Answer> {
   const acting = actingIn(actingAgentId)
   if (acting === null) return "unread"
   const seat = pagedBy(() => paging(acting.seatId))
   if (seat !== "there") return seat
-  const own = pagedBy(() => ownPaging(actingAgentId))
-  if (own === "unread") return "unread"
-  if (own === "there") return "working"
   return (await reading(acting)).liveness
 }
 

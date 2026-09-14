@@ -64,18 +64,7 @@ export const subagentPageNaming = {
       invariantKind: "departure",
       statement: "The pages under a seat are asked of the index rather than listed off a folder.",
     },
-    {
-      invariantKind: "departure",
-      statement: "The page a subagent has is found by the agent id that page states.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That agent id is asked of the index rather than read off the page's own body.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An index that would not answer raises rather than saying no page is there.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A page is under the longest seat name the index files that its slug opens with.",

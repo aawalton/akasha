@@ -21,7 +21,9 @@ const NO_TRANSCRIPT = "the seat states no transcript, so nothing said whether it
 
 const RUNS = "the transcript names it as running"
 
-const HAS_RETURNED = "the transcript was read and names it nowhere"
+const HAS_RETURNED = "the transcript records the result it returned"
+
+const NAMED_NOWHERE = "the transcript was read and names it nowhere, so it records no return"
 
 function thrownAs(thrown: unknown): string {
   const said = thrown instanceof Error ? thrown.message : String(thrown)
@@ -46,14 +48,28 @@ function actingAs(root: string, page: string): Acting | null {
   return agentId === null ? null : actingIn(agentId)
 }
 
-export async function readFor(acting: Acting): Promise<Read> {
+export type Transcripts = {
+  readonly forSeat: (seatId: string, at: string) => Promise<readonly SubagentNode[]>
+  readonly endedForSeat: (seatId: string, at: string) => Promise<readonly string[]>
+}
+
+export type TranscriptAt = (seatId: string) => string | null
+
+const TRANSCRIPT_AT: TranscriptAt = (seatId) => transcriptOf(seatId)?.value ?? null
+
+export async function readFor(
+  acting: Acting,
+  at: TranscriptAt = TRANSCRIPT_AT,
+  reading: Transcripts = createSubagentReader()
+): Promise<Read> {
   try {
-    const named = transcriptOf(acting.seatId)?.value
-    if (named === undefined || named === "") return { liveness: "unread", why: NO_TRANSCRIPT }
-    const running = await createSubagentReader().forSeat(acting.seatId, named)
-    return namedAmong(running, acting.own)
-      ? { liveness: "working", why: RUNS }
-      : { liveness: "returned", why: HAS_RETURNED }
+    const named = at(acting.seatId)
+    if (named === null || named === "") return { liveness: "unread", why: NO_TRANSCRIPT }
+    const running = await reading.forSeat(acting.seatId, named)
+    if (namedAmong(running, acting.own)) return { liveness: "working", why: RUNS }
+    const ended = await reading.endedForSeat(acting.seatId, named)
+    if (ended.includes(acting.own)) return { liveness: "returned", why: HAS_RETURNED }
+    return { liveness: "unread", why: NAMED_NOWHERE }
   } catch (thrown) {
     return { liveness: "unread", why: thrownAs(thrown) }
   }
