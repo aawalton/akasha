@@ -7,7 +7,7 @@ export const temperLibCharacterKnowledge = {
   definition: "what every character on every account knows how to make",
 
   addonManifest: "json",
-  bundleEntry: "knowledge-main",
+  bundleEntry: "module/knowledge-main",
   parts: [
     "module/knowledge-base-data",
     "module/knowledge-base-data-motifs",

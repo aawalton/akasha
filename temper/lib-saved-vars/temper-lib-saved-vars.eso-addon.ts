@@ -7,7 +7,7 @@ export const temperLibSavedVars = {
   definition: "one addon's settings kept per character, per account or per server",
 
   addonManifest: "json",
-  bundleEntry: "saved-vars-main",
+  bundleEntry: "module/saved-vars-main",
   parts: [
     "module/saved-vars-casts",
     "module/saved-vars-constants",

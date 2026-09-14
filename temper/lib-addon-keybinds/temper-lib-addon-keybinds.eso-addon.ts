@@ -7,7 +7,7 @@ export const temperLibAddonKeybinds = {
   definition: "the split of the game's keybindings menu into standard keybinds and addon keybinds",
 
   addonManifest: "json",
-  bundleEntry: "addon-keybinds-entry",
+  bundleEntry: "module/addon-keybinds-entry",
   parts: [
     "module/addon-keybinds-bootstrap",
     "module/addon-keybinds-casts",

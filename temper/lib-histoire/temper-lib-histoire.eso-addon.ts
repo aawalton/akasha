@@ -9,7 +9,7 @@ export const temperLibHistoire = {
   addonManifest: "json",
   addonImageFolder: true,
   addonDdsFile: true,
-  bundleEntry: "histoire-main",
+  bundleEntry: "module/histoire-main",
   parts: [
     "eso-interface/histoire-guild-history-cache-controls",
     "module/histoire-adapter",

@@ -7,7 +7,7 @@ export const temperLibZone = {
   definition: "every zone and subzone the game holds, named in each language",
 
   addonManifest: "json",
-  bundleEntry: "zone-main",
+  bundleEntry: "module/zone-main",
   parts: [
     "module/zone-autocompletion",
     "module/zone-casts",

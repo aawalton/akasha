@@ -7,7 +7,7 @@ export const temperLibNotification = {
   definition: "the rows an addon adds to the game's notifications panel",
 
   addonManifest: "json",
-  bundleEntry: "notification-entry",
+  bundleEntry: "module/notification-entry",
   parts: [
     "module/notification-casts",
     "module/notification-entry",

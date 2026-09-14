@@ -7,7 +7,7 @@ export const temperLibCustomMenu = {
   definition: "an addon library adding sub-menus, dividers and headers to the game's context menus",
 
   addonManifest: "json",
-  bundleEntry: "custom-menu-main",
+  bundleEntry: "module/custom-menu-main",
   parts: [
     "module/custom-menu-casts",
     "module/custom-menu-constants",

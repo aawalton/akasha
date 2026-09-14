@@ -8,7 +8,7 @@ export const temperLibShifterBox = {
 
   addonManifest: "json",
   addonBinFolder: true,
-  bundleEntry: "shifter-main",
+  bundleEntry: "module/shifter-main",
   parts: [
     "eso-interface/shifter-box-template",
     "module/shifter-box-class",

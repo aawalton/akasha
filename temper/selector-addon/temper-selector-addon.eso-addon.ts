@@ -8,7 +8,7 @@ export const temperSelectorAddon = {
 
   addonManifest: "json",
   bindings: "xml",
-  bundleEntry: "selector-entry",
+  bundleEntry: "module/selector-entry",
   parts: [
     "module/selector-addon-manager",
     "module/selector-constants",

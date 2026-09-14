@@ -7,7 +7,7 @@ export const temperErrorsAddon = {
   definition: "the add-on that records every Lua error the game raises into saved variables",
 
   addonManifest: "json",
-  bundleEntry: "errors-addon-entry",
+  bundleEntry: "module/errors-addon-entry",
   parts: [
     "module/errors-addon-build-ids",
     "module/errors-addon-entry",

@@ -7,7 +7,7 @@ export const temperLibChatMessage = {
   definition: "an addon library printing tagged chat messages and restoring chat across sessions",
 
   addonManifest: "json",
-  bundleEntry: "chat-message-main",
+  bundleEntry: "module/chat-message-main",
   parts: [
     "module/chat-history",
     "module/chat-links",

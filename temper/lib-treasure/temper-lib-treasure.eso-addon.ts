@@ -7,7 +7,7 @@ export const temperLibTreasure = {
   definition: "where every treasure map, survey report and clue is buried",
 
   addonManifest: "json",
-  bundleEntry: "treasure-main",
+  bundleEntry: "module/treasure-main",
   parts: [
     "module/treasure-api",
     "module/treasure-book-ids",

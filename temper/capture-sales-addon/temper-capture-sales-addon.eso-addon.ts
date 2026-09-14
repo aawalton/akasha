@@ -7,7 +7,7 @@ export const temperCaptureSalesAddon = {
   definition: "the add-on capturing the player's own guild store sales for a host to read",
 
   addonManifest: "json",
-  bundleEntry: "sales-addon-entry",
+  bundleEntry: "module/sales-addon-entry",
   parts: ["module/sales-addon-entry", "module/sales-addon-name", "module/sales-capture"],
   invariants: [
     {

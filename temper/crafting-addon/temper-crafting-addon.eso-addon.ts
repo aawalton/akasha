@@ -10,7 +10,7 @@ export const temperCraftingAddon = {
   addonArtFolder: true,
   addonDdsFolder: true,
   bindings: "xml",
-  bundleEntry: "crafting-entry",
+  bundleEntry: "module/crafting-entry",
   parts: [
     "eso-interface/craft-store-blueprint-layout",
     "eso-interface/craft-store-cook-layout",

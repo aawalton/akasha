@@ -7,7 +7,7 @@ export const temperLibAsync = {
   definition: "a shared scheduler running other addons' work a slice at a time across frames",
 
   addonManifest: "json",
-  bundleEntry: "async-main",
+  bundleEntry: "module/async-main",
   parts: [
     "module/async-api",
     "module/async-casts",

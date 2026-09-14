@@ -8,7 +8,7 @@ export const temperHudAddon = {
     "the add-on holding the status bar and the slash command every Temper add-on adds a subcommand to",
 
   addonManifest: "json",
-  bundleEntry: "hud-addon-entry",
+  bundleEntry: "module/hud-addon-entry",
   parts: [
     "module/hud-addon-bar",
     "module/hud-addon-builtins",

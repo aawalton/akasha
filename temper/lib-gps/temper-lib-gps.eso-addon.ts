@@ -7,7 +7,7 @@ export const temperLibGps = {
   definition: "one map's coordinates carried onto Tamriel's and onto the world's",
 
   addonManifest: "json",
-  bundleEntry: "gps-main",
+  bundleEntry: "module/gps-main",
   parts: [
     "module/gps-api",
     "module/gps-casts",

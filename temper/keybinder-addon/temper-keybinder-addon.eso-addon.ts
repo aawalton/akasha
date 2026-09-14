@@ -8,7 +8,7 @@ export const temperKeybinderAddon = {
 
   addonManifest: "json",
   bindings: "xml",
-  bundleEntry: "keybinder-entry",
+  bundleEntry: "module/keybinder-entry",
   parts: [
     "module/keybinder-binding-fns",
     "module/keybinder-binding-utils",

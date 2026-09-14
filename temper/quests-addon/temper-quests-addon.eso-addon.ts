@@ -7,7 +7,7 @@ export const temperQuestsAddon = {
   definition: "the addon answering a quest giver's dialogue in the player's place",
 
   addonManifest: "json",
-  bundleEntry: "quests-entry",
+  bundleEntry: "module/quests-entry",
   parts: [
     "module/quests-auto-quest",
     "module/quests-chatter-name-tables",

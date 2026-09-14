@@ -7,7 +7,7 @@ export const temperLibSlashCommander = {
   definition: "a slash command another addon registers, and the chat completion offering it",
 
   addonManifest: "json",
-  bundleEntry: "slash-commander-entry",
+  bundleEntry: "module/slash-commander-entry",
   parts: [
     "module/slash-command",
     "module/slash-commander-casts",

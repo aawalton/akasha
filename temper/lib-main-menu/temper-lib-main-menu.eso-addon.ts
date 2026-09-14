@@ -7,7 +7,7 @@ export const temperLibMainMenu = {
   definition: "a shared library adding entries to the game's main menu bar",
 
   addonManifest: "json",
-  bundleEntry: "main-menu-entry",
+  bundleEntry: "module/main-menu-entry",
   parts: [
     "module/main-menu-casts",
     "module/main-menu-entry",

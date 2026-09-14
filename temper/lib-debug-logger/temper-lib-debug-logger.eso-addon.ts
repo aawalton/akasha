@@ -7,7 +7,7 @@ export const temperLibDebugLogger = {
   definition: "the in-game log every other addon writes to and the errors the client raises",
 
   addonManifest: "json",
-  bundleEntry: "debug-logger-main",
+  bundleEntry: "module/debug-logger-main",
   parts: [
     "module/debug-logger-api",
     "module/debug-logger-callbacks",

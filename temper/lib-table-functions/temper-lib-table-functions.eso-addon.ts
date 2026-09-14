@@ -7,7 +7,7 @@ export const temperLibTableFunctions = {
   definition: "the table helpers every Temper addon in the game shares",
 
   addonManifest: "json",
-  bundleEntry: "table-functions-entry",
+  bundleEntry: "module/table-functions-entry",
   parts: [
     "module/table-function-casts",
     "module/table-function-types",

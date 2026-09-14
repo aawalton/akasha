@@ -7,7 +7,7 @@ export const temperLibPrice = {
   definition: "what an item is worth, gathered from every trading add-on the player has",
 
   addonManifest: "json",
-  bundleEntry: "price-main",
+  bundleEntry: "module/price-main",
   parts: [
     "module/price-api",
     "module/price-cache",
