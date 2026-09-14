@@ -20,6 +20,7 @@ export const index = {
     "module/file-appending",
     "module/generated-properties",
     "module/index-answering",
+    "module/index-building",
     "module/index-carrying",
     "module/index-entries",
     "module/index-filing",
