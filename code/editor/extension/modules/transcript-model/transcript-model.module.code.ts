@@ -293,11 +293,3 @@ export function foldEntryLine(fold: EntryFold, line: string, journal?: FoldJourn
   }
   return undefined
 }
-
-export function buildEntries(text: string): readonly Entry[] {
-  const fold = emptyEntryFold()
-  for (const line of text.split("\n")) {
-    foldEntryLine(fold, line)
-  }
-  return fold.entries
-}
