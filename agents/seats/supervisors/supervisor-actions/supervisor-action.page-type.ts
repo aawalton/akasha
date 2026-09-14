@@ -7,6 +7,13 @@ export const supervisorAction = {
   definition: "one thing a supervisor can be asked to do",
   pluralSlug: "supervisor-actions",
   parts: [
+    "module/seat-action",
+    "module/seat-control",
+    "module/supervisor-agent-action",
+    "module/supervisor-agent-action-arm",
+    "module/supervisor-agent-action-clear",
+    "module/supervisor-agent-action-types",
+    "module/supervisor-poll-agent-action",
     "supervisor-action/restart",
     "supervisor-action/restart-now",
     "supervisor-action/swap-proxy",

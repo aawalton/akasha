@@ -7,7 +7,6 @@ export const seatSupervisors = {
   definition: "the supervisor keeping an agent alive in its seat",
   parts: [
     "domain/supervisor-account",
-    "domain/supervisor-action",
     "domain/supervisor-boot",
     "domain/supervisor-child",
     "domain/supervisor-deciding",
@@ -22,6 +21,7 @@ export const seatSupervisors = {
     "domain/supervisor-shutdown",
     "domain/supervisor-ticking",
     "domain/supervisor-tooling",
+    "page-type/supervisor-action",
   ],
   invariants: [
     {
