@@ -6,8 +6,6 @@ export const temperCharacterSkills = {
   slug: "temper-character-skills",
   definition: "the skills an Elder Scrolls Online character learns, slots and scribes",
   parts: [
-    "module/character-skill-activation-types",
-    "module/character-skill-activations",
     "module/character-skill-template",
     "module/character-skills",
     "module/character-skills-00",
