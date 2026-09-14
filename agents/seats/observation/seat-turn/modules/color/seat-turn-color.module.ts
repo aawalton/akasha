@@ -16,5 +16,9 @@ export const seatTurnColor = {
       invariantKind: "absence",
       statement: "No table turns a turn state's name into the name of that state's page.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The color reads back as the slug alone, whatever page type names it.",
+    },
   ],
 } as const satisfies Module

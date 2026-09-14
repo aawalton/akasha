@@ -2,6 +2,7 @@ import type { SeatTurnState } from "akasha/agents/seats/observation/seat-turn/mo
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { akashaValuesAt } from "akasha/pages/modules/akasha-page-values/akasha-page-values.module.code.ts"
 import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const PAGE_TYPE = "seat-turn-state"
 
@@ -22,7 +23,7 @@ function colorStatedOn(akasha: string, state: SeatTurnState): string | null {
   }
   if (values === null) return null
   const color = values[COLOR_KEY]
-  return typeof color === "string" && color !== "" ? color : null
+  return typeof color === "string" && color !== "" ? slugOf(color) : null
 }
 
 export function colorOfState(state: SeatTurnState, akasha?: string): string | null {
