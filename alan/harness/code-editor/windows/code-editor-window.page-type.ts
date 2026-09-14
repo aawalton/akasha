@@ -16,10 +16,16 @@ export const codeEditorWindow = {
     },
   ],
   types: "ts",
-  parts: ["instant-property/observed-at"],
+  parts: ["instant-property/observed-at", "text-property/window-features"],
   properties: [
     {
       pageProperty: "instant-property/observed-at",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+    {
+      pageProperty: "text-property/window-features",
       required: false,
       many: false,
       uncommitted: true,
