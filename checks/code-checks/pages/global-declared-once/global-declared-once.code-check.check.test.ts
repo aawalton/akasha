@@ -17,7 +17,6 @@ import {
 } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import {
   pageFiled,
-  pathListed,
   relationFiled,
   shapeAdded,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
@@ -64,10 +63,7 @@ const DECLARER_ID = "01a06110-0000-7000-8000-00000000e005"
 const SHARED_PAGE_ID = "01a06110-0000-7000-8000-00000000e006"
 
 function staging(shared: string, held: string): string {
-  const root = staged({ [SHARED_AT]: shared, [MODULE_AT]: held })
-  pathListed(root, SHARED_AT)
-  pathListed(root, MODULE_AT)
-  return root
+  return staged({ [SHARED_AT]: shared, [MODULE_AT]: held })
 }
 
 function ambient(root: string): undefined {
@@ -94,9 +90,6 @@ function ambient(root: string): undefined {
 
 function naming(shared: string, held: string): string {
   const root = staged({ [SHARED_AT]: shared, [MODULE_AT]: held, [APART_AT]: APART })
-  pathListed(root, SHARED_AT)
-  pathListed(root, MODULE_AT)
-  pathListed(root, APART_AT)
   ambient(root)
   return root
 }
