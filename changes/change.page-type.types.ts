@@ -1,5 +1,6 @@
 import type { ChangeKind } from "akasha/changes/properties/change-kind.relation-property.types.ts"
 import type { ChangeMaxCpuSeconds } from "akasha/changes/properties/change-max-cpu-seconds.number-property.types.ts"
+import type { ChangeMaxMemoryMb } from "akasha/changes/properties/change-max-memory-mb.number-property.types.ts"
 import type { ChangeMode } from "akasha/changes/properties/change-mode.relation-property.types.ts"
 import type { ChangeTargetSubtype } from "akasha/changes/properties/change-target-subtype.relation-property.types.ts"
 import type { ChangeTargetType } from "akasha/changes/properties/change-target-type.relation-property.types.ts"
@@ -13,6 +14,7 @@ export type Change = Module & {
   takesAtMost?: TakesAtMost
   changeMode: ChangeMode
   maxCpuSeconds?: ChangeMaxCpuSeconds
+  maxMemoryMb?: ChangeMaxMemoryMb
   changeTargetType: ChangeTargetType
   changeTargetSubtype: ChangeTargetSubtype
 }
