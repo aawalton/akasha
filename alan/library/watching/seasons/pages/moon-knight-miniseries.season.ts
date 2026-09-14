@@ -9,7 +9,7 @@ export const moonKnightMiniseries = {
   position: 1,
   ownLength: 301.8,
   ownProgress: 301.8,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-03-30",
   externalIdentity: [

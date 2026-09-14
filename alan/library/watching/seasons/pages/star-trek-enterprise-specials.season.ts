@@ -9,7 +9,7 @@ export const starTrekEnterpriseSpecials = {
   position: 0,
   ownLength: 1132.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2013-03-27",
   externalIdentity: [

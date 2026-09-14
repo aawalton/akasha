@@ -9,7 +9,7 @@ export const houseOfTheDragonSeason2 = {
   position: 2,
   ownLength: 516,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-06-17",
   externalIdentity: [

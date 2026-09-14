@@ -9,7 +9,7 @@ export const peacemakerSeason1 = {
   position: 1,
   ownLength: 576,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2003-10-06",
   externalIdentity: [

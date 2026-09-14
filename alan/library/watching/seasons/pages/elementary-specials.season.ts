@@ -9,7 +9,7 @@ export const elementarySpecials = {
   position: 0,
   ownLength: 214.8,
   ownProgress: 214.8,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2015-09-14",
   externalIdentity: [

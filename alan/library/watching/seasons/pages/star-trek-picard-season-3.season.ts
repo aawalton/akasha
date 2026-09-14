@@ -9,7 +9,7 @@ export const starTrekPicardSeason3 = {
   position: 3,
   ownLength: 537,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2023-02-16",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const campaign3BellsHells = {
   position: 3,
   ownLength: 30499.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2021-10-22",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const ironheartMiniseries = {
   position: 1,
   ownLength: 304.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2025-06-25",
   externalIdentity: [

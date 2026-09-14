@@ -9,7 +9,7 @@ export const starTrekDeepSpaceNineSpecials = {
   position: 0,
   ownLength: 757.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2003-02-25",
   externalIdentity: [

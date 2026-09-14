@@ -9,7 +9,7 @@ export const secretInvasionMiniseries = {
   position: 1,
   ownLength: 262.2,
   ownProgress: 262.2,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-06-21",
   externalIdentity: [

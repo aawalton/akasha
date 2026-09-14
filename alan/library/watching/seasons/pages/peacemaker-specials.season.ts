@@ -9,7 +9,7 @@ export const peacemakerSpecials = {
   position: 0,
   ownLength: 55.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2022-11-23",
   externalIdentity: [

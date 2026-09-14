@@ -9,7 +9,7 @@ export const frankHerbertSChildrenOfDuneSpecials = {
   position: 0,
   ownLength: 22.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2003-03-19",
   externalIdentity: [

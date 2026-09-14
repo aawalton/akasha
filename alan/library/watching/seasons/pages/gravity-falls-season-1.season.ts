@@ -9,7 +9,7 @@ export const gravityFallsSeason1 = {
   position: 1,
   ownLength: 471,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2012-06-16",
   externalIdentity: [

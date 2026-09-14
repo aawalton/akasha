@@ -9,7 +9,7 @@ export const theSarahJaneAdventuresSeason3 = {
   position: 3,
   ownLength: 360,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2009-10-15",
   externalIdentity: [

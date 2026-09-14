@@ -9,7 +9,7 @@ export const miceAndMurder = {
   position: 9,
   ownLength: 1251,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2021-04-07",
   externalIdentity: [

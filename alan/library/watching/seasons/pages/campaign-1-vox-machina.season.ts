@@ -9,7 +9,7 @@ export const campaign1VoxMachina = {
   position: 1,
   ownLength: 27067.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2015-03-13",
   externalIdentity: [

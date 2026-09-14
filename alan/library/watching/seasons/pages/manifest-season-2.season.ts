@@ -9,7 +9,7 @@ export const manifestSeason2 = {
   position: 2,
   ownLength: 557,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2020-01-06",
   externalIdentity: [

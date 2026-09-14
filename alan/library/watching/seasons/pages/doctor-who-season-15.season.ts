@@ -9,7 +9,7 @@ export const doctorWhoSeason15 = {
   position: 15,
   ownLength: 649.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1977-09-03",
   externalIdentity: [

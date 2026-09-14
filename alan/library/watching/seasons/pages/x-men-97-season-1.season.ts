@@ -9,7 +9,7 @@ export const xMen97Season1 = {
   position: 1,
   ownLength: 343.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-03-20",
   externalIdentity: [

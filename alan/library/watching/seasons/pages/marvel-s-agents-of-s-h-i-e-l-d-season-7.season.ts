@@ -9,7 +9,7 @@ export const marvelSAgentsOfSHIELDSeason7 = {
   position: 7,
   ownLength: 573,
   ownProgress: 573,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2020-05-28",
   externalIdentity: [

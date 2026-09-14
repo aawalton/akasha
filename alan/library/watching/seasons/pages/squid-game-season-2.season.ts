@@ -9,7 +9,7 @@ export const squidGameSeason2 = {
   position: 2,
   ownLength: 433.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-12-26",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const marvelSRunawaysSeason2 = {
   position: 2,
   ownLength: 627,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2018-12-21",
   externalIdentity: [

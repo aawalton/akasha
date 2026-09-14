@@ -9,7 +9,7 @@ export const starWarsTheCloneWarsSeason4 = {
   position: 4,
   ownLength: 486,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2011-09-16",
   externalIdentity: [

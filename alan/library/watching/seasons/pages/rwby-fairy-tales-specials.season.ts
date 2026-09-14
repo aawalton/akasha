@@ -9,7 +9,7 @@ export const rwbyFairyTalesSpecials = {
   position: 0,
   ownLength: 1,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2021-10-10",
   externalIdentity: [

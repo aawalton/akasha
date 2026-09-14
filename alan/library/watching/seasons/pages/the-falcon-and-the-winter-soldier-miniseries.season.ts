@@ -9,7 +9,7 @@ export const theFalconAndTheWinterSoldierMiniseries = {
   position: 1,
   ownLength: 330,
   ownProgress: 330,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-03-19",
   externalIdentity: [

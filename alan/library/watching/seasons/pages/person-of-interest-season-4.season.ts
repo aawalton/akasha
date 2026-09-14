@@ -9,7 +9,7 @@ export const personOfInterestSeason4 = {
   position: 4,
   ownLength: 967,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2014-09-24",
   externalIdentity: [

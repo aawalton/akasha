@@ -9,7 +9,7 @@ export const book6Stars = {
   position: 6,
   ownLength: 253.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-07-26",
   externalIdentity: [

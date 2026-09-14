@@ -9,7 +9,7 @@ export const gravityFallsSpecials = {
   position: 0,
   ownLength: 1533,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2013-10-15",
   externalIdentity: [

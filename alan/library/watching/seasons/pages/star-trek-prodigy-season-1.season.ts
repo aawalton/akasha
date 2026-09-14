@@ -9,7 +9,7 @@ export const starTrekProdigySeason1 = {
   position: 1,
   ownLength: 475.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2021-10-28",
   externalIdentity: [

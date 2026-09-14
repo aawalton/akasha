@@ -9,7 +9,7 @@ export const ncisHawaiISeason1 = {
   position: 1,
   ownLength: 928.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2021-09-21",
   externalIdentity: [

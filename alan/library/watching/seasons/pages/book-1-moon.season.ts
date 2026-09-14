@@ -9,7 +9,7 @@ export const book1Moon = {
   position: 1,
   ownLength: 235.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2018-09-14",
   externalIdentity: [

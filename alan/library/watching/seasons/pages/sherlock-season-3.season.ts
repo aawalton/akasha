@@ -9,7 +9,7 @@ export const sherlockSeason3 = {
   position: 3,
   ownLength: 264,
   ownProgress: 264,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-01-01",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const neverStopBlowingUp = {
   position: 22,
   ownLength: 1096.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-06-26",
   externalIdentity: [

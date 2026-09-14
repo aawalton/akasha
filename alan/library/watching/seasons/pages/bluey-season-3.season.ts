@@ -9,7 +9,7 @@ export const blueySeason3 = {
   position: 3,
   ownLength: 346.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2021-09-04",
   externalIdentity: [

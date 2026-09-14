@@ -9,7 +9,7 @@ export const starTrekShortTreksSeason2 = {
   position: 2,
   ownLength: 61.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2019-10-05",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const marvelSJessicaJonesSeason1 = {
   position: 1,
   ownLength: 691.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2015-11-20",
   externalIdentity: [

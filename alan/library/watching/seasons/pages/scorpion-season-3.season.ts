@@ -9,7 +9,7 @@ export const scorpionSeason3 = {
   position: 3,
   ownLength: 1444.8,
   ownProgress: 1444.8,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-10-04",
   externalIdentity: [

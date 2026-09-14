@@ -9,7 +9,7 @@ export const starTrekLowerDecksSpecials = {
   position: 0,
   ownLength: 403.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2020-07-23",
   externalIdentity: [

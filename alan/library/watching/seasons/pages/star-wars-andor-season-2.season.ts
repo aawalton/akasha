@@ -9,7 +9,7 @@ export const starWarsAndorSeason2 = {
   position: 2,
   ownLength: 630,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2025-04-23",
   externalIdentity: [

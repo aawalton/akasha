@@ -9,7 +9,7 @@ export const marvelSThePunisherSeason1 = {
   position: 1,
   ownLength: 699,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2017-11-17",
   externalIdentity: [

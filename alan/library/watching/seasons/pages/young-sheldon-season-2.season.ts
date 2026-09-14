@@ -9,7 +9,7 @@ export const youngSheldonSeason2 = {
   position: 2,
   ownLength: 429,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2018-09-25",
   externalIdentity: [

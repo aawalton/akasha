@@ -9,7 +9,7 @@ export const bookThreeChange = {
   position: 3,
   ownLength: 298.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2014-06-28",
   externalIdentity: [

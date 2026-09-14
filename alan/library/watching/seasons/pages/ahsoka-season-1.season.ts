@@ -9,7 +9,7 @@ export const ahsokaSeason1 = {
   position: 1,
   ownLength: 375,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2023-08-23",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const ncisLosAngelesSeason14 = {
   position: 14,
   ownLength: 903,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2022-10-10",
   externalIdentity: [

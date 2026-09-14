@@ -9,7 +9,7 @@ export const warehouse13Season3 = {
   position: 3,
   ownLength: 560,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2011-07-12",
   externalIdentity: [

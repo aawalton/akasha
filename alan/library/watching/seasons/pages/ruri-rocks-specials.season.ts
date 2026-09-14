@@ -9,7 +9,7 @@ export const ruriRocksSpecials = {
   position: 0,
   ownLength: 36,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2025-07-10",
   externalIdentity: [

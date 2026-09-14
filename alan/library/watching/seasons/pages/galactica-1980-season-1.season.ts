@@ -9,7 +9,7 @@ export const galactica1980Season1 = {
   position: 1,
   ownLength: 490.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1980-01-28",
   externalIdentity: [

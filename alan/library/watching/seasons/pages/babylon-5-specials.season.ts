@@ -9,7 +9,7 @@ export const babylon5Specials = {
   position: 0,
   ownLength: 2929,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "1993-02-23",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const daredevilBornAgainSeason1 = {
   position: 1,
   ownLength: 454.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2025-03-05",
   externalIdentity: [

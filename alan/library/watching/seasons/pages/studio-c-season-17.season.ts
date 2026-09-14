@@ -9,7 +9,7 @@ export const studioCSeason17 = {
   position: 17,
   ownLength: 184.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2023-10-16",
   externalIdentity: [

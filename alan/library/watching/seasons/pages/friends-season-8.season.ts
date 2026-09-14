@@ -9,7 +9,7 @@ export const friendsSeason8 = {
   position: 8,
   ownLength: 526.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2001-09-28",
   externalIdentity: [

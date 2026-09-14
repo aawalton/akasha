@@ -9,7 +9,7 @@ export const theAcolyteSeason1 = {
   position: 1,
   ownLength: 328.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-06-05",
   externalIdentity: [

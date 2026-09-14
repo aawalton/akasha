@@ -9,7 +9,7 @@ export const starTrekEnterpriseSeason3 = {
   position: 3,
   ownLength: 1032,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2003-09-11",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const theRookieSeason3 = {
   position: 3,
   ownLength: 601.8,
   ownProgress: 601.8,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-01-04",
   externalIdentity: [

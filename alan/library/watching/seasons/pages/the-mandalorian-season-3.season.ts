@@ -9,7 +9,7 @@ export const theMandalorianSeason3 = {
   position: 3,
   ownLength: 349.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2023-03-01",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const k9Specials = {
   position: 0,
   ownLength: 4.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2009-07-23",
   externalIdentity: [

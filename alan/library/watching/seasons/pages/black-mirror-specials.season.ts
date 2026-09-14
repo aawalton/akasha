@@ -9,7 +9,7 @@ export const blackMirrorSpecials = {
   position: 0,
   ownLength: 73.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2014-12-16",
   externalIdentity: [

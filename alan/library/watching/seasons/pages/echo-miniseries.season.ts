@@ -9,7 +9,7 @@ export const echoMiniseries = {
   position: 1,
   ownLength: 213,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-01-10",
   externalIdentity: [

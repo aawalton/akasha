@@ -9,7 +9,7 @@ export const starWarsResistanceSpecials = {
   position: 0,
   ownLength: 16.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2018-12-11",
   externalIdentity: [

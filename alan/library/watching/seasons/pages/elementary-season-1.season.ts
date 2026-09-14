@@ -9,7 +9,7 @@ export const elementarySeason1 = {
   position: 1,
   ownLength: 1035,
   ownProgress: 1035,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2012-09-28",
   externalIdentity: [

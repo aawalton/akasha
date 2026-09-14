@@ -9,7 +9,7 @@ export const marvelSDaredevilSeason3 = {
   position: 3,
   ownLength: 676.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2018-10-19",
   externalIdentity: [

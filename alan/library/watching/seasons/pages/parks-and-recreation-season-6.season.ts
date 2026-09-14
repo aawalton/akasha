@@ -9,7 +9,7 @@ export const parksAndRecreationSeason6 = {
   position: 6,
   ownLength: 484.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2013-09-27",
   externalIdentity: [

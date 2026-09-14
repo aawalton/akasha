@@ -9,7 +9,7 @@ export const ncisNewOrleansSeason4 = {
   position: 4,
   ownLength: 1080,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2017-09-27",
   externalIdentity: [

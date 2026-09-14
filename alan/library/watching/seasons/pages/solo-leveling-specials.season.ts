@@ -9,7 +9,7 @@ export const soloLevelingSpecials = {
   position: 0,
   ownLength: 24,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2024-02-24",
   externalIdentity: [

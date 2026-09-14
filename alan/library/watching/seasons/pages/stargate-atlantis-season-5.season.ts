@@ -9,7 +9,7 @@ export const stargateAtlantisSeason5 = {
   position: 5,
   ownLength: 877.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2008-07-11",
   externalIdentity: [

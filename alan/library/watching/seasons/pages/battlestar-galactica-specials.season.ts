@@ -9,7 +9,7 @@ export const battlestarGalacticaSpecials = {
   position: 0,
   ownLength: 289.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2003-11-26",
   externalIdentity: [

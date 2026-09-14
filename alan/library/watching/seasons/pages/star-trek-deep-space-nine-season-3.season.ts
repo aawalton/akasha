@@ -9,7 +9,7 @@ export const starTrekDeepSpaceNineSeason3 = {
   position: 3,
   ownLength: 1170,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1994-09-26",
   externalIdentity: [

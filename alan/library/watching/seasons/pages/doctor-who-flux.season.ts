@@ -9,7 +9,7 @@ export const doctorWhoFlux = {
   position: 13,
   ownLength: 658,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2021-10-31",
   externalIdentity: [

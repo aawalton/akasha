@@ -9,7 +9,7 @@ export const severanceSeason1 = {
   position: 1,
   ownLength: 430.2,
   ownProgress: 430.2,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2022-02-18",

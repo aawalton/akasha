@@ -9,7 +9,7 @@ export const stargateSg1Specials = {
   position: 0,
   ownLength: 451.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2004-07-06",
   externalIdentity: [

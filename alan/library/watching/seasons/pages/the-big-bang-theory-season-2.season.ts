@@ -9,7 +9,7 @@ export const theBigBangTheorySeason2 = {
   position: 2,
   ownLength: 478.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2008-09-23",
   externalIdentity: [

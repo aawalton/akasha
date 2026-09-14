@@ -9,7 +9,7 @@ export const marvelSAgentCarterSeason2 = {
   position: 2,
   ownLength: 433.8,
   ownProgress: 433.8,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-01-20",
   externalIdentity: [

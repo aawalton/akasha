@@ -9,7 +9,7 @@ export const hawkeyeMiniseries = {
   position: 1,
   ownLength: 297,
   ownProgress: 297,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-11-24",
   externalIdentity: [

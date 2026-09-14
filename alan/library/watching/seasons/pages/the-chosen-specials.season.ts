@@ -9,7 +9,7 @@ export const theChosenSpecials = {
   position: 0,
   ownLength: 1515,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2017-12-02",
   externalIdentity: [

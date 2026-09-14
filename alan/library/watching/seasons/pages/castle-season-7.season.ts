@@ -9,7 +9,7 @@ export const castleSeason7 = {
   position: 7,
   ownLength: 1006.8,
   ownProgress: 1006.8,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-09-30",
   externalIdentity: [

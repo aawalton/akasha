@@ -9,7 +9,7 @@ export const starTrekVoyagerSeason5 = {
   position: 5,
   ownLength: 1237.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1998-10-15",
   externalIdentity: [

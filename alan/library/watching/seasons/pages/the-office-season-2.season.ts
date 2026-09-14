@@ -9,7 +9,7 @@ export const theOfficeSeason2 = {
   position: 2,
   ownLength: 472.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2005-09-20",
   externalIdentity: [

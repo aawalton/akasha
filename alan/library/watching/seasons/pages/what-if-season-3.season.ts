@@ -9,7 +9,7 @@ export const whatIfSeason3 = {
   position: 52,
   ownLength: 253.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-12-22",
   externalIdentity: [

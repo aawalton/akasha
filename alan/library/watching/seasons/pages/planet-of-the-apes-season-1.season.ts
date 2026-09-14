@@ -9,7 +9,7 @@ export const planetOfTheApesSeason1 = {
   position: 1,
   ownLength: 840,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1974-09-14",
   externalIdentity: [

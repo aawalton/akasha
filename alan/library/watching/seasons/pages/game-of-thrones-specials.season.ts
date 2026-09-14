@@ -9,7 +9,7 @@ export const gameOfThronesSpecials = {
   position: 0,
   ownLength: 3768,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2010-12-06",
   externalIdentity: [

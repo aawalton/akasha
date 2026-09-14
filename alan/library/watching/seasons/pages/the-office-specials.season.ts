@@ -9,7 +9,7 @@ export const theOfficeSpecials = {
   position: 0,
   ownLength: 2514,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2005-01-01",
   externalIdentity: [

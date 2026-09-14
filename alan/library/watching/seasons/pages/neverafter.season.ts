@@ -9,7 +9,7 @@ export const neverafter = {
   position: 16,
   ownLength: 2554.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2022-12-01",
   externalIdentity: [

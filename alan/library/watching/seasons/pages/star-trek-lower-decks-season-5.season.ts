@@ -9,7 +9,7 @@ export const starTrekLowerDecksSeason5 = {
   position: 5,
   ownLength: 271.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-10-24",
   externalIdentity: [

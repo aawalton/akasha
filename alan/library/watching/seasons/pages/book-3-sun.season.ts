@@ -9,7 +9,7 @@ export const book3Sun = {
   position: 3,
   ownLength: 249,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2019-11-22",
   externalIdentity: [

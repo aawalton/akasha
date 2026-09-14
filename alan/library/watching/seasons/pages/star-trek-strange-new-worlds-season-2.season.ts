@@ -9,7 +9,7 @@ export const starTrekStrangeNewWorldsSeason2 = {
   position: 2,
   ownLength: 562.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2023-06-15",
   externalIdentity: [

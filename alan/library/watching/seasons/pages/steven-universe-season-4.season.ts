@@ -9,7 +9,7 @@ export const stevenUniverseSeason4 = {
   position: 4,
   ownLength: 298.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2016-08-11",
   externalIdentity: [

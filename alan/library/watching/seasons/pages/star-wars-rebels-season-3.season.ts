@@ -9,7 +9,7 @@ export const starWarsRebelsSeason3 = {
   position: 3,
   ownLength: 523.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2016-09-25",
   externalIdentity: [

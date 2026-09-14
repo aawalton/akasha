@@ -9,7 +9,7 @@ export const coffinRun = {
   position: 14,
   ownLength: 618,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2022-06-08",
   externalIdentity: [

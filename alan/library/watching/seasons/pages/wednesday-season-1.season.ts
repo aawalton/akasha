@@ -9,7 +9,7 @@ export const wednesdaySeason1 = {
   position: 1,
   ownLength: 412.8,
   ownProgress: 412.8,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-11-23",
   externalIdentity: [

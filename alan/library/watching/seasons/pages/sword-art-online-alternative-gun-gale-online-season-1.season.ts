@@ -9,7 +9,7 @@ export const swordArtOnlineAlternativeGunGaleOnlineSeason1 = {
   position: 1,
   ownLength: 288,
   ownProgress: 288,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2018-04-07",
   externalIdentity: [

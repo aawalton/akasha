@@ -9,7 +9,7 @@ export const blueySpecials = {
   position: 0,
   ownLength: 214.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2019-12-13",
   externalIdentity: [

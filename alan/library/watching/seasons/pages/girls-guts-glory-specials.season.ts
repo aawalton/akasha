@@ -9,7 +9,7 @@ export const girlsGutsGlorySpecials = {
   position: 0,
   ownLength: 84,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2017-06-05",
   externalIdentity: [

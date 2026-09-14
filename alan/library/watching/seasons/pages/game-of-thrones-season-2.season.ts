@@ -9,7 +9,7 @@ export const gameOfThronesSeason2 = {
   position: 2,
   ownLength: 549,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2012-04-02",
   externalIdentity: [

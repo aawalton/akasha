@@ -9,7 +9,7 @@ export const starWarsTheBadBatchSeason1 = {
   position: 1,
   ownLength: 511.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2021-05-04",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const torchwoodSeason2 = {
   position: 2,
   ownLength: 645,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2008-01-16",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const battlestarGalacticaMiniseries = {
   position: 1,
   ownLength: 184.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2003-12-08",
   externalIdentity: [

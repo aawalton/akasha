@@ -9,7 +9,7 @@ export const criticalRoleSpecials = {
   position: 0,
   ownLength: 24866.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2014-09-16",
   externalIdentity: [

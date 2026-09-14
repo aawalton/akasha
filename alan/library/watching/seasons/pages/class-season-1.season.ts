@@ -9,7 +9,7 @@ export const classSeason1 = {
   position: 1,
   ownLength: 363,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2016-10-22",
   externalIdentity: [

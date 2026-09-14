@@ -9,7 +9,7 @@ export const ncisSydneySeason2 = {
   position: 2,
   ownLength: 426,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2025-02-07",
   externalIdentity: [

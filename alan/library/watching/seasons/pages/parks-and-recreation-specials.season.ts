@@ -9,7 +9,7 @@ export const parksAndRecreationSpecials = {
   position: 0,
   ownLength: 114,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2011-11-05",
   externalIdentity: [

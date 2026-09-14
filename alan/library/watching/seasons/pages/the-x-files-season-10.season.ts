@@ -9,7 +9,7 @@ export const theXFilesSeason10 = {
   position: 10,
   ownLength: 264,
   ownProgress: 264,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "in-progress",
   publishedAt: "2016-01-25",
   externalIdentity: [

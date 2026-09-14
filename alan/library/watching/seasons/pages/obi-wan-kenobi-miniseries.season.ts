@@ -9,7 +9,7 @@ export const obiWanKenobiMiniseries = {
   position: 1,
   ownLength: 280.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2022-05-26",
   externalIdentity: [

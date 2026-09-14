@@ -9,7 +9,7 @@ export const strangerThings4 = {
   position: 4,
   ownLength: 778.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2022-05-27",
   externalIdentity: [

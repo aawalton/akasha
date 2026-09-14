@@ -9,7 +9,7 @@ export const eyesOfWakandaMiniseries = {
   position: 1,
   ownLength: 124.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2025-08-01",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const talesOfTheTardisSeason1 = {
   position: 1,
   ownLength: 673.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2023-11-01",
   externalIdentity: [

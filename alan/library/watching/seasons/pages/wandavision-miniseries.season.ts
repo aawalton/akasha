@@ -9,7 +9,7 @@ export const wandavisionMiniseries = {
   position: 1,
   ownLength: 363,
   ownProgress: 363,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2021-01-15",
   externalIdentity: [

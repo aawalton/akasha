@@ -9,7 +9,7 @@ export const blackMirrorSeason6 = {
   position: 6,
   ownLength: 310.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2023-06-15",
   externalIdentity: [

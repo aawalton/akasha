@@ -9,7 +9,7 @@ export const girlsGutsGlorySeason3 = {
   position: 3,
   ownLength: 462,
   ownProgress: 462,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-10-01",
   externalIdentity: [

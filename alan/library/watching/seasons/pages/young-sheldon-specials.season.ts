@@ -9,7 +9,7 @@ export const youngSheldonSpecials = {
   position: 0,
   ownLength: 75,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2017-05-29",
   externalIdentity: [

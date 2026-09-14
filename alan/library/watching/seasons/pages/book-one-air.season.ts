@@ -9,7 +9,7 @@ export const bookOneAir = {
   position: 1,
   ownLength: 276,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2012-04-15",
   externalIdentity: [

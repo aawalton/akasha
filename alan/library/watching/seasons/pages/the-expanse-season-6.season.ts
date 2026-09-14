@@ -9,7 +9,7 @@ export const theExpanseSeason6 = {
   position: 6,
   ownLength: 291,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2021-12-10",
   externalIdentity: [

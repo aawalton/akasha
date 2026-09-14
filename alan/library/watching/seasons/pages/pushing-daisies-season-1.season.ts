@@ -9,7 +9,7 @@ export const pushingDaisiesSeason1 = {
   position: 1,
   ownLength: 376.2,
   ownProgress: 376.2,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2007-10-04",
   externalIdentity: [

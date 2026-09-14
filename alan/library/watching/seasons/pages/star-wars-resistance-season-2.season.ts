@@ -9,7 +9,7 @@ export const starWarsResistanceSeason2 = {
   position: 2,
   ownLength: 483,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2019-10-07",
   externalIdentity: [

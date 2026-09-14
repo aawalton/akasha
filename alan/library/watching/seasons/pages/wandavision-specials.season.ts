@@ -9,7 +9,7 @@ export const wandavisionSpecials = {
   position: 0,
   ownLength: 10.2,
   ownProgress: 10.2,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2023-11-28",
   externalIdentity: [

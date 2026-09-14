@@ -9,7 +9,7 @@ export const frierenBeyondJourneySEndSeason2 = {
   position: 2,
   ownLength: 25,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2026-01-16",
   externalIdentity: [

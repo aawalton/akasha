@@ -9,7 +9,7 @@ export const stargateOriginsSeason1 = {
   position: 1,
   ownLength: 177,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2018-02-14",
   externalIdentity: [

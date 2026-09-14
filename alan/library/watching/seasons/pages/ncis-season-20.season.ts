@@ -9,7 +9,7 @@ export const ncisSeason20 = {
   position: 20,
   ownLength: 961.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2022-09-20",
   externalIdentity: [

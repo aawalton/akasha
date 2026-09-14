@@ -9,7 +9,7 @@ export const bookOneWater = {
   position: 1,
   ownLength: 487.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2005-02-21",
   externalIdentity: [

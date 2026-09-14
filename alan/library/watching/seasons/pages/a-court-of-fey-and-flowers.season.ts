@@ -9,7 +9,7 @@ export const aCourtOfFeyAndFlowers = {
   position: 15,
   ownLength: 1225.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2022-08-03",
   externalIdentity: [

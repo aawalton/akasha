@@ -9,7 +9,7 @@ export const numb3rsSeason1 = {
   position: 1,
   ownLength: 541.8,
   ownProgress: 541.8,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2005-01-24",
   externalIdentity: [

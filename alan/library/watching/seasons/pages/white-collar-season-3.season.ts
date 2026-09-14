@@ -9,7 +9,7 @@ export const whiteCollarSeason3 = {
   position: 3,
   ownLength: 697.2,
   ownProgress: 697.2,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2011-06-08",
   externalIdentity: [

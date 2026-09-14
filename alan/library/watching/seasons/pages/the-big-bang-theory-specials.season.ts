@@ -9,7 +9,7 @@ export const theBigBangTheorySpecials = {
   position: 0,
   ownLength: 66,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2012-04-06",
   externalIdentity: [

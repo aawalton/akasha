@@ -9,7 +9,7 @@ export const book4Earth = {
   position: 4,
   ownLength: 253.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2022-11-03",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const starTrekDiscoverySeason2 = {
   position: 2,
   ownLength: 714,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2019-01-17",
   externalIdentity: [

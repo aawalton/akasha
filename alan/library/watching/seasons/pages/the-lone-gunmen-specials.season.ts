@@ -9,7 +9,7 @@ export const theLoneGunmenSpecials = {
   position: 0,
   ownLength: 90,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2002-04-22",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const ncisLosAngelesSpecials = {
   position: 0,
   ownLength: 43.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2023-05-22",
   externalIdentity: [

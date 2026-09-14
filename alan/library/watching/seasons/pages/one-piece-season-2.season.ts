@@ -9,7 +9,7 @@ export const onePieceSeason2 = {
   position: 2,
   ownLength: 388.2,
   ownProgress: 291.15,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "paused",
   rank: "B",
   publishedAt: "2001-03-21",

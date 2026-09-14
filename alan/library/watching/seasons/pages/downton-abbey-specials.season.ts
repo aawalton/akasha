@@ -9,7 +9,7 @@ export const downtonAbbeySpecials = {
   position: 0,
   ownLength: 838.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2011-12-21",
   externalIdentity: [

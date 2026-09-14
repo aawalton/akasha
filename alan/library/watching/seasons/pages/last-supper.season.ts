@@ -9,7 +9,7 @@ export const lastSupper = {
   position: 5,
   ownLength: 463.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2025-06-15",
   externalIdentity: [

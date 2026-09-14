@@ -9,7 +9,7 @@ export const theLordOfTheRingsTheRingsOfPowerSpecials = {
   position: 0,
   ownLength: 310.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2022-09-03",
   externalIdentity: [

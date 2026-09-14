@@ -9,7 +9,7 @@ export const doctorWhoSeason9 = {
   position: 9,
   ownLength: 576,
   ownProgress: 576,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2015-09-19",
   externalIdentity: [

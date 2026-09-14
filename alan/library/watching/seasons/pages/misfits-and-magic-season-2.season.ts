@@ -9,7 +9,7 @@ export const misfitsAndMagicSeason2 = {
   position: 23,
   ownLength: 1405.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-09-25",
   externalIdentity: [

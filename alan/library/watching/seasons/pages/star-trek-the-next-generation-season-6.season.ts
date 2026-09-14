@@ -9,7 +9,7 @@ export const starTrekTheNextGenerationSeason6 = {
   position: 6,
   ownLength: 1179,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1992-09-22",
   externalIdentity: [

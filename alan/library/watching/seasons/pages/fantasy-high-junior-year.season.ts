@@ -9,7 +9,7 @@ export const fantasyHighJuniorYear = {
   position: 21,
   ownLength: 2676,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2024-01-11",
   externalIdentity: [

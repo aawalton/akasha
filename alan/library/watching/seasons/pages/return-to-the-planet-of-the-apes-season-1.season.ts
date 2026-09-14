@@ -9,7 +9,7 @@ export const returnToThePlanetOfTheApesSeason1 = {
   position: 1,
   ownLength: 390,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1975-09-06",
   externalIdentity: [

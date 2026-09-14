@@ -9,7 +9,7 @@ export const starWarsAndorSpecials = {
   position: 0,
   ownLength: 250.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2024-05-01",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const marvelSTheDefendersMiniseries = {
   position: 1,
   ownLength: 394.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2017-08-18",
   externalIdentity: [

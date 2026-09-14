@@ -9,7 +9,7 @@ export const iAmGrootSeason1 = {
   position: 1,
   ownLength: 28.2,
   ownProgress: 28.2,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-08-10",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const theExpanseSpecials = {
   position: 0,
   ownLength: 2368.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2015-12-15",
   externalIdentity: [

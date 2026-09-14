@@ -9,7 +9,7 @@ export const starWarsTheCloneWarsSpecials = {
   position: 0,
   ownLength: 1227,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2008-09-04",
   externalIdentity: [

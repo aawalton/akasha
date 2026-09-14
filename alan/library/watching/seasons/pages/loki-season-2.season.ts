@@ -9,7 +9,7 @@ export const lokiSeason2 = {
   position: 44,
   ownLength: 313.2,
   ownProgress: 313.2,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-10-06",
   externalIdentity: [

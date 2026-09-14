@@ -9,7 +9,7 @@ export const avatarTheLastAirbenderSpecials = {
   position: 0,
   ownLength: 430.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2002-04-30",
   externalIdentity: [

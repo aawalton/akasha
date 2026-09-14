@@ -9,7 +9,7 @@ export const escapeFromTheBloodkeep = {
   position: 2,
   ownLength: 853.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2019-04-30",
   externalIdentity: [

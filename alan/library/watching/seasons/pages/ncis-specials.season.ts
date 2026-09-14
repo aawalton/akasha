@@ -9,7 +9,7 @@ export const ncisSpecials = {
   position: 0,
   ownLength: 765,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "archived",
   publishedAt: "2007-04-10",
   externalIdentity: [

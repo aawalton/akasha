@@ -9,7 +9,7 @@ export const strangerThingsSeason1 = {
   position: 1,
   ownLength: 397.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2016-07-15",
   externalIdentity: [

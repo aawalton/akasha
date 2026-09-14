@@ -9,7 +9,7 @@ export const theWheelOfTimeSeason3 = {
   position: 3,
   ownLength: 534,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2025-03-13",
   externalIdentity: [

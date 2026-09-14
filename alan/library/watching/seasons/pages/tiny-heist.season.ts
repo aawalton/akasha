@@ -9,7 +9,7 @@ export const tinyHeist = {
   position: 4,
   ownLength: 750,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2020-01-10",
   externalIdentity: [

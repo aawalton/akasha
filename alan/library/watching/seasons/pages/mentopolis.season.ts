@@ -9,7 +9,7 @@ export const mentopolis = {
   position: 19,
   ownLength: 751.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2023-08-09",
   externalIdentity: [

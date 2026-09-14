@@ -9,7 +9,7 @@ export const campaign4 = {
   position: 4,
   ownLength: 960,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2025-10-03",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const marvelSIronFistSeason1 = {
   position: 1,
   ownLength: 726,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2017-03-17",
   externalIdentity: [

@@ -9,7 +9,7 @@ export const babylon5NoSurrenderNoRetreat = {
   position: 4,
   ownLength: 990,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "1996-11-05",
   externalIdentity: [

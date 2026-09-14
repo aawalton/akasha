@@ -9,7 +9,7 @@ export const campaign2TheMightyNein = {
   position: 2,
   ownLength: 33973.8,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2018-01-12",
   externalIdentity: [

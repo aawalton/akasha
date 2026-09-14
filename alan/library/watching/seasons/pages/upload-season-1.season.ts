@@ -9,7 +9,7 @@ export const uploadSeason1 = {
   position: 1,
   ownLength: 310.2,
   ownProgress: 0,
-  unit: "minutes",
+  unit: "unit/minutes",
   status: "not-started",
   publishedAt: "2020-05-01",
   externalIdentity: [
