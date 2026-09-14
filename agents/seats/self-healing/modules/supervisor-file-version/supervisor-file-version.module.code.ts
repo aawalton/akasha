@@ -115,14 +115,6 @@ export function reachingFrom(
   return { reached: reached.sort(), saidAtEntry, reachedFromEntry }
 }
 
-export function importGraph(
-  entry: string,
-  read: (path: string) => string | null,
-  naming: Naming = namingFrom(entry)
-): readonly string[] {
-  return reachingFrom(entry, read, naming).reached
-}
-
 export function reachesNothing(reaching: Reaching): boolean {
   return reaching.saidAtEntry > 0 && reaching.reachedFromEntry === 0
 }

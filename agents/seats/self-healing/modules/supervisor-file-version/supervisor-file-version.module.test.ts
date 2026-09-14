@@ -7,7 +7,6 @@ import {
   DEBOUNCE_MS,
   decideVersionDelivery,
   hashFileSet,
-  importGraph,
   landsAt,
   NOTHING_DELIVERED,
   pollSupervisorFileVersion,
@@ -59,7 +58,7 @@ function rootedAt(path: string): string | null {
 const REACHED_WHEN_MEASURED = 681
 
 test("the file set is walked from the entry's relative imports", () => {
-  expect(importGraph("/a/entry.ts", bodyAt, NONE)).toEqual([
+  expect(reachingFrom("/a/entry.ts", bodyAt, NONE).reached).toEqual([
     "/a/entry.ts",
     "/a/one.ts",
     "/b/two.ts",
@@ -68,7 +67,7 @@ test("the file set is walked from the entry's relative imports", () => {
 
 test("a specifier naming a package is walked to where the naming lands it", () => {
   expect(landsAt("/a/entry.ts", "@akasha/pkg/deep", NAMING)).toBe("/pkg/deep/deep.ts")
-  expect(importGraph("/a/entry.ts", bodyAt, NAMING)).toEqual([
+  expect(reachingFrom("/a/entry.ts", bodyAt, NAMING).reached).toEqual([
     "/a/entry.ts",
     "/a/one.ts",
     "/b/two.ts",
@@ -80,12 +79,12 @@ test("a specifier naming a package is walked to where the naming lands it", () =
 test("a specifier the naming does not hold is passed over rather than thrown on", () => {
   expect(landsAt("/b/two.ts", "@akasha/elsewhere", NAMING)).toBeNull()
   expect(landsAt("/b/two.ts", "node:fs", NAMING)).toBeNull()
-  expect(importGraph("/b/two.ts", bodyAt, NAMING)).toEqual(["/b/two.ts"])
+  expect(reachingFrom("/b/two.ts", bodyAt, NAMING).reached).toEqual(["/b/two.ts"])
 })
 
 test("a cycle through a package edge is walked once rather than forever", () => {
   const seen: string[] = []
-  importGraph(
+  reachingFrom(
     "/a/entry.ts",
     (path) => {
       seen.push(path)
@@ -98,12 +97,13 @@ test("a cycle through a package edge is walked once rather than forever", () => 
 
 test("a file that cannot be read is left out of the set", () => {
   expect(
-    importGraph("/a/entry.ts", (path) => (path === "/a/one.ts" ? null : bodyAt(path)), NONE)
+    reachingFrom("/a/entry.ts", (path) => (path === "/a/one.ts" ? null : bodyAt(path)), NONE)
+      .reached
   ).toEqual(["/a/entry.ts", "/b/two.ts"])
 })
 
 test("an entry that cannot be read reaches nothing", () => {
-  expect(importGraph("/gone.ts", () => null, NONE)).toEqual([])
+  expect(reachingFrom("/gone.ts", () => null, NONE).reached).toEqual([])
 })
 
 test("the root is the nearest folder above the entry whose manifest names workspaces", () => {
