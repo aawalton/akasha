@@ -39,36 +39,41 @@ function valuesAt(root: string, commit: string, path: string): Record<string, un
 interface Wrote {
   readonly commit: string
   readonly atMs: number
+  readonly gone: boolean
 }
 
-function newestPerPath(root: string): ReadonlyMap<string, Wrote> {
+const MARKED_OFF = "\t"
+
+const TAKEN_AWAY = "D"
+
+function newestPerPath(root: string): readonly (readonly [string, Wrote])[] {
   const log = gitAt(root, [
     "log",
-    "--diff-filter=AM",
     "--format=%H %ct",
-    "--name-only",
+    "--name-status",
+    "--no-renames",
     "--",
     ...foldersOf(root),
   ])
   const found = new Map<string, Wrote>()
-  if (log === null) return found
-  let wrote: Wrote = { commit: "", atMs: 0 }
+  if (log === null) return []
+  let at = { commit: "", atMs: 0 }
   for (const line of log.split("\n")) {
     const said = line.trim()
     if (said === "") continue
-    const split = said.indexOf(" ")
-    if (split > 0) {
+    const marked = said.indexOf(MARKED_OFF)
+    if (marked < 0) {
+      const split = said.indexOf(" ")
+      if (split <= 0) continue
       const seconds = Number.parseInt(said.slice(split + 1), 10)
-      wrote = {
-        commit: said.slice(0, split),
-        atMs: Number.isFinite(seconds) ? seconds * 1000 : 0,
-      }
+      at = { commit: said.slice(0, split), atMs: Number.isFinite(seconds) ? seconds * 1000 : 0 }
       continue
     }
-    if (!said.endsWith(SUFFIX)) continue
-    if (!found.has(said)) found.set(said, wrote)
+    const path = said.slice(marked + 1)
+    if (!path.endsWith(SUFFIX) || found.has(path)) continue
+    found.set(path, { ...at, gone: said.startsWith(TAKEN_AWAY) })
   }
-  return found
+  return [...found].sort((one, two) => two[1].atMs - one[1].atMs)
 }
 
 const heldPerRoot = new Map<string, ReadonlyMap<string, SeatInHistory>>()
@@ -76,6 +81,7 @@ const heldPerRoot = new Map<string, ReadonlyMap<string, SeatInHistory>>()
 function walkForSeats(root: string): ReadonlyMap<string, SeatInHistory> {
   const byId = new Map<string, SeatInHistory>()
   for (const [path, wrote] of newestPerPath(root)) {
+    if (wrote.gone) continue
     const values = valuesAt(root, wrote.commit, path)
     if (values === null) continue
     const id = values[ID]
@@ -110,8 +116,10 @@ export function akashaSeatInHistory(agentId: string, root: string): SeatInHistor
 export function akashaSeatNamedInHistory(seatName: string, root: string): SeatInHistory | null {
   if (seatName === "") return null
   const wanted = `/${seatName}${SUFFIX}`
+  let newest: SeatInHistory | null = null
   for (const held of seatsInHistory(root).values()) {
-    if (held.path.endsWith(wanted)) return held
+    if (!held.path.endsWith(wanted)) continue
+    if (newest === null || held.atMs > newest.atMs) newest = held
   }
-  return null
+  return newest
 }

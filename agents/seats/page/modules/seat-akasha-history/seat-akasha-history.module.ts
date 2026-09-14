@@ -6,14 +6,11 @@ export const seatAkashaHistory = {
   slug: "seat-akasha-history",
   definition: "what a seat last said, read back out of git after its page in akasha is gone",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement: "A seat is read from the newest commit that wrote its page.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A commit that removed a seat page is left out.",
     },
     {
       invariantKind: "departure",
@@ -49,6 +46,15 @@ export const seatAkashaHistory = {
       invariantKind: "departure",
       statement:
         "A seat is named in history by the file its page is rather than by that file's folder.",
+    },
+    { invariantKind: "departure", statement: "A seat page taken away holds nothing in history." },
+    {
+      invariantKind: "departure",
+      statement: "A seat page moved is taken away at the path it left.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Where more than one path could answer a seat's name, the newest path answers.",
     },
   ],
 } as const satisfies Module
