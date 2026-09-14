@@ -10,7 +10,7 @@ export const erin = {
   portrait: "md",
   appearance: "md",
   championedDomain: "domain/chess",
-  role: "coach",
+  role: "role/coach",
   valueSlug: "learn",
   origin: "origin-kind/canon",
   email: "erin@alanwalton.com",

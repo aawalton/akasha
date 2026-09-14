@@ -11,7 +11,7 @@ export const lali = {
   portrait: "md",
   appearance: "md",
   championedDomain: "mathematics",
-  role: "coach",
+  role: "role/coach",
   valueSlug: "learn",
   origin: "origin-kind/invented",
   email: "lali@alanwalton.com",

@@ -10,7 +10,7 @@ export const zeli = {
   portrait: "md",
   appearance: "md",
   championedDomain: "visual-arts",
-  role: "companion",
+  role: "role/companion",
   valueSlug: "fun",
   origin: "origin-kind/canon",
   email: "zeli@alanwalton.com",

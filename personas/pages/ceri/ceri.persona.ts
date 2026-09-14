@@ -11,7 +11,7 @@ export const ceri = {
   portrait: "md",
   appearance: "md",
   championedDomain: "anime",
-  role: "companion",
+  role: "role/companion",
   valueSlug: "fun",
   origin: "origin-kind/welsh",
   email: "ceri@alanwalton.com",

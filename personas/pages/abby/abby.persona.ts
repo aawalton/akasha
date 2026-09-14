@@ -10,7 +10,7 @@ export const abby = {
   portrait: "md",
   appearance: "md",
   championedDomain: "all-about-alan",
-  role: "interviewer",
+  role: "role/interviewer",
   valueSlug: "faith",
   origin: "origin-kind/human",
   email: "abby@alanwalton.com",

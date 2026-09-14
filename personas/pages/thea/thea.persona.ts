@@ -10,7 +10,7 @@ export const thea = {
   portrait: "md",
   appearance: "md",
   championedDomain: "domain/check",
-  role: "definer",
+  role: "role/definer",
   valueSlug: "wealth",
   origin: "origin-kind/greek",
   email: "thea@alanwalton.com",

@@ -10,7 +10,7 @@ export const aine = {
   portrait: "md",
   appearance: "md",
   championedDomain: "finding",
-  role: "definer",
+  role: "role/definer",
   valueSlug: "wealth",
   origin: "origin-kind/celtic",
   email: "aine@alanwalton.com",

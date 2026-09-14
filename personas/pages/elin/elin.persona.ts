@@ -11,7 +11,7 @@ export const elin = {
   portrait: "md",
   appearance: "md",
   championedDomain: "page-type/collection",
-  role: "definer",
+  role: "role/definer",
   valueSlug: "fun",
   origin: "origin-kind/welsh",
   email: "elin@alanwalton.com",

@@ -11,7 +11,7 @@ export const zadi = {
   portrait: "md",
   appearance: "md",
   championedDomain: "literature",
-  role: "companion",
+  role: "role/companion",
   valueSlug: "learn",
   origin: "origin-kind/human",
   email: "zadi@alanwalton.com",

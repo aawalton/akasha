@@ -11,7 +11,7 @@ export const aura = {
   portrait: "md",
   appearance: "md",
   championedDomain: "design-games",
-  role: "definer",
+  role: "role/definer",
   valueSlug: "fun",
   origin: "origin-kind/greek",
   email: "aura@alanwalton.com",

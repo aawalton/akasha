@@ -10,7 +10,7 @@ export const ali = {
   portrait: "md",
   appearance: "md",
   championedDomain: "alan-book/learn-everything",
-  role: "interviewer",
+  role: "role/interviewer",
   valueSlug: "learn",
   origin: "origin-kind/canon",
   email: "ali@alanwalton.com",

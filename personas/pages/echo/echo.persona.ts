@@ -10,7 +10,7 @@ export const echo = {
   portrait: "md",
   appearance: "md",
   championedDomain: "narrative-production",
-  role: "definer",
+  role: "role/definer",
   valueSlug: "fun",
   origin: "origin-kind/greek",
   email: "echo@alanwalton.com",

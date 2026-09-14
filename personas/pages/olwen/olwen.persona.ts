@@ -11,7 +11,7 @@ export const olwen = {
   portrait: "md",
   appearance: "md",
   championedDomain: "domain/design-interfaces-system",
-  role: "definer",
+  role: "role/definer",
   valueSlug: "wealth",
   origin: "origin-kind/welsh",
   email: "olwen@alanwalton.com",
