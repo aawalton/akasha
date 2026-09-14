@@ -32,13 +32,13 @@ import {
   idFile,
   importFile,
   linesIn,
+  listedAt,
   NAMES_C_BY_ID,
   NAMES_C_BY_SLUG,
   NOTE,
   namingAType,
   noteShaped,
   pathBlocked,
-  pathFile,
   pathsFiledIn,
   renamed,
   retyped,
@@ -76,8 +76,8 @@ test("a written page is answered by its id, by its page type and slug, and by it
 
   expect(said(idFile(root, A))).toEqual(found)
   expect(said(slugFile(root, "domain", "a"))).toEqual(found)
-  expect(said(pathFile(root, "a.domain.ts"))).toEqual(found)
-  expect(existsSync(pathFile(root, "a.domain.code.ts"))).toBe(false)
+  expect(listedAt(root, "a.domain.ts")).toBe(true)
+  expect(listedAt(root, "a.domain.code.ts")).toBe(false)
 })
 
 test("a renamed slug withdraws its old entry and leaves the id entry untouched", () => {
@@ -106,24 +106,23 @@ test("a property held in a file is answered by the page stating it", () => {
   const { tree, root } = grounded()
   const value = { id: A, pageTypeSlug: "module", slug: "a", code: "ts", test: "ts" }
   settled(root, tree, "deep/a.module.ts", value, null)
-  const found = { path: "deep/a.module.ts", id: A }
 
-  expect(said(pathFile(root, "deep/a.module.ts"))).toEqual(found)
-  expect(said(pathFile(root, "deep/a.module.code.ts"))).toEqual(found)
-  expect(said(pathFile(root, "deep/a.module.test.ts"))).toEqual(found)
+  expect(listedAt(root, "deep/a.module.ts")).toBe(true)
+  expect(listedAt(root, "deep/a.module.code.ts")).toBe(true)
+  expect(listedAt(root, "deep/a.module.test.ts")).toBe(true)
 })
 
 test("a page whose code is taken away loses that path and keeps the rest", () => {
   const { tree, root } = grounded()
   const was = { id: A, pageTypeSlug: "module", slug: "a", code: "ts", test: "ts" }
   settled(root, tree, "a.module.ts", was, null)
-  expect(existsSync(pathFile(root, "a.module.code.ts"))).toBe(true)
+  expect(listedAt(root, "a.module.code.ts")).toBe(true)
 
   settled(root, tree, "a.module.ts", { id: A, pageTypeSlug: "module", slug: "a", test: "ts" }, was)
 
-  expect(existsSync(pathFile(root, "a.module.code.ts"))).toBe(false)
-  expect(existsSync(pathFile(root, "a.module.test.ts"))).toBe(true)
-  expect(existsSync(pathFile(root, "a.module.ts"))).toBe(true)
+  expect(listedAt(root, "a.module.code.ts")).toBe(false)
+  expect(listedAt(root, "a.module.test.ts")).toBe(true)
+  expect(listedAt(root, "a.module.ts")).toBe(true)
 })
 
 test("a removed page takes away the path of its own file and of every file it held", () => {
@@ -132,9 +131,8 @@ test("a removed page takes away the path of its own file and of every file it he
   const at = settled(root, tree, "deep/a.module.ts", value, null)
   tookAway(root, tree, at, bodyOf(value))
 
-  expect(existsSync(pathFile(root, "deep/a.module.ts"))).toBe(false)
-  expect(existsSync(pathFile(root, "deep/a.module.code.ts"))).toBe(false)
-  expect(existsSync(join(root, "path", "deep"))).toBe(false)
+  expect(listedAt(root, "deep/a.module.ts")).toBe(false)
+  expect(listedAt(root, "deep/a.module.code.ts")).toBe(false)
 })
 
 test("two pages carrying one value leave two lines in one file", () => {
@@ -205,11 +203,11 @@ test("a retargeted value withdraws the edge it left", () => {
 
 test("a page type that gains a file property files that file beside every page already of it", () => {
   const { tree, root } = blandWith(BLAND)
-  expect(existsSync(pathFile(root, "one.bland.code.ts"))).toBe(false)
+  expect(listedAt(root, "one.bland.code.ts")).toBe(false)
 
   settled(root, tree, ...BLAND_CODE, BLAND[1])
 
-  expect(said(pathFile(root, "one.bland.code.ts"))).toEqual({ path: "one.bland.ts", id: A })
+  expect(listedAt(root, "one.bland.code.ts")).toBe(true)
 })
 
 test("renaming a page and the page naming it by slug leaves no line for where it was", () => {
@@ -272,7 +270,7 @@ test("a bare value narrowing to more than one page is refused rather than resolv
 test("a refresh from the pages agrees with the index a write left but for the reader", () => {
   const { landed, rebuilt } = worldsApart()
   expect(existsSync(importFile(landed, "deep/a.module.ts"))).toBe(true)
-  expect(existsSync(pathFile(landed, "deep/a.module.code.ts"))).toBe(true)
+  expect(listedAt(landed, "deep/a.module.code.ts")).toBe(true)
   expect(butTheStamp(everyFileUnder(rebuilt))).toEqual(butTheStamp(everyFileUnder(landed)))
 })
 
@@ -301,13 +299,13 @@ test("a world carrying a page and declaring no property at all is refused", () =
 
 test("a refresh that threw names the stages it finished and the file it had in hand", () => {
   const { tree, root } = aWorldWithOnePage()
-  pathBlocked(root, "a.domain.ts")
+  pathBlocked(root)
   const done: string[] = []
 
   expect(() => refreshedFrom(tree, root, tree, true, done)).toThrow()
 
   expect(done[0] ?? "").toMatch(/^identity — \d+ files? written$/)
-  expect(done[done.length - 1] ?? "").toMatch(/^path — \d+ files? written, `\S+` in hand$/)
+  expect(done[done.length - 1] ?? "").toMatch(/^listing — \d+ files? written, `\S+` in hand$/)
 })
 
 test("a refresh passes over a file gone before its body is read", () => {

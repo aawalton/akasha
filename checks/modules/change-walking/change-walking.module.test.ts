@@ -26,7 +26,6 @@ import {
   CODE_AT,
   counting,
   GONE_AT,
-  HELD_ID,
   KEPT_AT,
   MODULE,
   mixedWorld,
@@ -46,7 +45,7 @@ import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.mo
 import {
   indexTakenFrom,
   listingFiled,
-  pathFiled,
+  pathListed,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
@@ -255,7 +254,7 @@ test("a walk takes a page and the files its own properties imply", () => {
 
 test("a walk takes the paths the index files, and works none of them out from a property name", () => {
   const root = worldOf([PAGE_AT, CODE_AT])
-  pathFiled(root, NOTE_AT, [{ path: PAGE_AT, id: HELD_ID }])
+  pathListed(root, NOTE_AT)
   expect(everyFileIn(readingIn(root))).toContain(NOTE_AT)
 })
 
@@ -298,7 +297,7 @@ test("a walk over everything leaves out an installed dependency, whatever its na
 
 test("a walk over everything reads no index, so a path the tree does not hold is left out", () => {
   const root = treeWorld()
-  pathFiled(root, GONE_AT, [{ path: PAGE_AT, id: HELD_ID }])
+  pathListed(root, GONE_AT)
   expect(everyFileIn(readingIn(root))).toContain(GONE_AT)
   expect(everythingIn(root).changed).not.toContain(GONE_AT)
 })

@@ -3,7 +3,7 @@ import { join } from "node:path"
 import { typed } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import { identityIn } from "akasha/pages/indexes/identity/index-identity.index.code.ts"
 import { importIn } from "akasha/pages/indexes/import/index-import.index.code.ts"
-import { listedOf } from "akasha/pages/indexes/listing/index-listing.index.code.ts"
+import { claimingIn, listedOf } from "akasha/pages/indexes/listing/index-listing.index.code.ts"
 import {
   fileKeysIn,
   filePropertiesIn,
@@ -42,7 +42,6 @@ import {
   pagesUnder,
   walkedUnder,
 } from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
-import { claimingIn } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import { relationIn } from "akasha/pages/indexes/relation/index-relation.index.code.ts"
 import { readAt, readerIn, ruleIn } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import {
@@ -135,7 +134,6 @@ export function refreshedFrom(
     folderPropertiesIn(values)
   )
   const paths = held.flatMap((one) => claim(one.value, one.path, false))
-  drift.push(reconcile(paths, root, put, done))
   const listed = listedOf(paths)
   drift.push(reconcile(listed, root, put, done))
   const valued = held.flatMap((one) => valueIn(one.value, one.path, repo))
@@ -170,7 +168,6 @@ export function refreshedFrom(
   drift.push(reconcile(ruled, root, put, done))
   const every = [
     ...identity,
-    ...paths,
     ...listed,
     ...valued,
     ...shaped,
@@ -185,7 +182,7 @@ export function refreshedFrom(
     pages: held.length,
     entries:
       identity.length +
-      paths.length +
+      listed.length +
       relation.length +
       imported.length +
       ruled.length +

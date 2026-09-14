@@ -11,7 +11,7 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
-import { pathFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { pathListed } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
@@ -123,7 +123,7 @@ function staged(root: string, slug: string, kind: string, target: string, tail: 
   const value = { id, type: kind, slug, changeTargetType: `target-kind/${target}`, code: TS }
   listedFiled(root, kind, slug, [{ path, id }])
   idFiled(root, id, [{ path, id }])
-  pathFiled(root, path, [{ path, id }])
+  pathListed(root, path)
   valueAlsoFiled(root, kind, [{ path, value }])
 }
 

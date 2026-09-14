@@ -32,7 +32,7 @@ import {
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { shadowed } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import type { Shaped } from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
-import { pathFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { pathListed } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { type Shadow, shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
@@ -381,11 +381,11 @@ test("a relation property the change introduces is judged rather than passed ove
 
 const D_CODE = "akasha/t/d.domain.code.ts"
 
-test("a file the index files against a page is no page taken away, and nothing it names is judged", () => {
+test("a file a page claims is no page taken away, and nothing it names is judged", () => {
   const root = rooted()
   naming(root, D_ID, "domain-slug", A_ID, A)
   filing(root, A, A_ID, "note", "a")
-  pathFiled(root, D_CODE, [{ path: D, id: D_ID }])
+  pathListed(root, D_CODE)
   const bodies = { ...note(', domainSlug: "domain/d"'), [D_CODE]: null }
   const change = over(root, [D_CODE], bodies)
   expect(namersOf(change, shadowed(change))).toEqual([])

@@ -25,11 +25,9 @@ import {
   landing,
   proposing,
 } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
-import { pathFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { pathListed } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
-
-const HELD_ID = "01a05991-d998-7000-b3f5-2a1c0d7e4b91"
 
 const AWAY = "/held"
 
@@ -131,7 +129,7 @@ test("a change taking a fault away is not refused, though the fault is still on 
 
 test("the mirror names every shell script the index files as well as the ones carried", () => {
   const root = rooted()
-  pathFiled(root, PART_AT, [{ path: PART_AT, id: HELD_ID }])
+  pathListed(root, PART_AT)
   const held = landing(root, { [MAIN_AT]: bytesOf(MAIN), "akasha/held.md": bytesOf("held") })
   expect(besideIn(held, shadowAt(root))).toEqual([MAIN_AT, PART_AT])
 })
@@ -145,7 +143,7 @@ test("a sourced script the change does not carry is there for the linter to foll
     const full = join(root, one.at)
     mkdirSync(dirname(full), { recursive: true })
     writeFileSync(full, one.body)
-    pathFiled(root, one.at, [{ path: one.at, id: HELD_ID }])
+    pathListed(root, one.at)
   }
   expect(refusalsOver(change(root, [MAIN_AT]), shadowAt(root))).toEqual([])
 })
@@ -155,7 +153,7 @@ test("a sourced script the index does not file is a refusal rather than a clean 
   const at = join(root, MAIN_AT)
   mkdirSync(dirname(at), { recursive: true })
   writeFileSync(at, MAIN)
-  pathFiled(root, MAIN_AT, [{ path: MAIN_AT, id: HELD_ID }])
+  pathListed(root, MAIN_AT)
   const said = refusalsOver(change(root, [MAIN_AT]), shadowAt(root))
   expect(said.length).toBe(1)
   expect(said[0]?.reason).toContain("SC1091")

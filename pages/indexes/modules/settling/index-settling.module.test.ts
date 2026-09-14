@@ -7,7 +7,7 @@ import {
   refreshedFrom,
 } from "akasha/pages/indexes/modules/indexing/indexing.module.code.ts"
 import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { pagesFilingPath } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { listedIn } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import {
   filingOf,
   settlingOver,
@@ -20,7 +20,6 @@ import {
   bodyOf,
   butTheStamp,
   HELD_CODE,
-  HELD_PAGE,
   IDENTIFIERS,
   idOf,
   indexedRepo,
@@ -223,8 +222,8 @@ test("a change adding a file beside a page it leaves alone files that file under
   const textOf = textIn(root)
   const reading = readingIn(root)
 
-  expect(pagesFilingPath(reading, HELD_CODE)).toEqual([HELD_PAGE])
-  expect(pagesFilingPath(reading, BESIDE_AT)).toEqual([])
+  expect(listedIn(reading, HELD_CODE)).toBe(true)
+  expect(listedIn(reading, BESIDE_AT)).toBe(false)
 
   const settled = settlingOver(
     reading,
@@ -237,7 +236,7 @@ test("a change adding a file beside a page it leaves alone files that file under
     textOf
   )
 
-  expect(pagesFilingPath(settled.reading, BESIDE_AT)).toEqual([HELD_PAGE])
+  expect(listedIn(settled.reading, BESIDE_AT)).toBe(true)
 })
 
 const MODULE_AT = "akasha/module.page-type.ts"
@@ -262,7 +261,7 @@ test("a file the page's type declares beside every such page is filed under that
   const textOf = textIn(root)
   const reading = readingIn(root)
 
-  expect(pagesFilingPath(reading, HELD_TEST)).toEqual([])
+  expect(listedIn(reading, HELD_TEST)).toBe(false)
 
   const settled = settlingOver(
     reading,
@@ -275,7 +274,7 @@ test("a file the page's type declares beside every such page is filed under that
     textOf
   )
 
-  expect(pagesFilingPath(settled.reading, HELD_TEST)).toEqual([HELD_PAGE])
+  expect(listedIn(settled.reading, HELD_TEST)).toBe(true)
 })
 
 test("a refresh agrees with the index a page taken from under a name left", () => {

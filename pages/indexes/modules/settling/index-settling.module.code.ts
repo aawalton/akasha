@@ -1,6 +1,6 @@
 import { identityIn } from "akasha/pages/indexes/identity/index-identity.index.code.ts"
 import { importIn } from "akasha/pages/indexes/import/index-import.index.code.ts"
-import { listedOf } from "akasha/pages/indexes/listing/index-listing.index.code.ts"
+import { claimingIn, listedOf } from "akasha/pages/indexes/listing/index-listing.index.code.ts"
 import {
   idsUnnamed,
   pagesBeside,
@@ -44,7 +44,6 @@ import {
   overlaidOn,
   readingNone,
 } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
-import { claimingIn } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import {
   NOTHING_FILED,
   relationIn,
@@ -297,10 +296,9 @@ export function settlingOver(
     ...held.flatMap((one) => (one.now === null ? [] : claim(one.now, one.path, false))),
     ...alongside.flatMap((one) => claim(one.value, one.path, false)),
   ]
-  const paths = filingOf(wasPaths, nowPaths)
   const listing = filingOf(listedOf(wasPaths), listedOf(nowPaths))
 
-  const stepped = overlaidOn(reading, [...imported, ...identity, ...paths, ...valued, ...shaping])
+  const stepped = overlaidOn(reading, [...imported, ...identity, ...valued, ...shaping])
   const wasBody: Body = (at) => {
     const one = carried.get(under(repo, at))
     return one === undefined ? bodyAt(at) : one.before
@@ -363,7 +361,6 @@ export function settlingOver(
     ...imported,
     ...ruled,
     ...identity,
-    ...paths,
     ...relation,
     ...valued,
     ...shaping,

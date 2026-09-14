@@ -10,7 +10,6 @@ export const index = {
     "index/index-identity",
     "index/index-import",
     "index/index-listing",
-    "index/index-path",
     "index/index-relation",
     "index/index-rule",
     "index/index-shapes",

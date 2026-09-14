@@ -20,7 +20,6 @@ import {
   indexIn,
   overlaidOn,
 } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
-import { indexPath } from "akasha/pages/indexes/path/index-path.index.ts"
 import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
 import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
@@ -174,26 +173,12 @@ function listingAdded(root: string, path: string): undefined {
   appendFileSync(making(root, `${join(indexListing.name, AT_PATH)}${ENDING}`), `${path}\n`)
 }
 
-export function pathFiled(root: string, path: string, lines: readonly unknown[]): undefined {
-  filing(root, join(indexPath.name, path), lines)
+export function pathListed(root: string, path: string): undefined {
   listingAdded(root, path)
 }
 
-function pathSaid(line: string): unknown {
-  try {
-    return (JSON.parse(line) as { path?: unknown }).path
-  } catch {
-    return undefined
-  }
-}
-
-export function pagesFilingPath(reading: Reading, path: string): readonly string[] {
-  const found: string[] = []
-  for (const line of reading.lines(`${join(indexPath.name, path)}${ENDING}`)) {
-    const said = pathSaid(line)
-    if (typeof said === "string") found.push(said)
-  }
-  return found
+export function listedIn(reading: Reading, path: string): boolean {
+  return reading.lines(`${join(indexListing.name, AT_PATH)}${ENDING}`).includes(path)
 }
 
 export function listingFiled(root: string, paths: readonly string[]): undefined {
@@ -291,7 +276,7 @@ export function noneOfTypeFiled(root: string, pageTypeSlug: string): undefined {
 }
 
 export function noPathsFiled(root: string): undefined {
-  foldering(root, indexPath.name)
+  foldering(root, indexListing.name)
 }
 
 export function noImportersFiled(root: string): undefined {

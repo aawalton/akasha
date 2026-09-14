@@ -17,7 +17,7 @@ import {
 } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import {
   pageFiled,
-  pathFiled,
+  pathListed,
   relationFiled,
   shapeAdded,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
@@ -30,10 +30,6 @@ const HERE = "akasha/"
 const SHARED_AT = "akasha/shared.type-declaration.d.ts"
 
 const MODULE_AT = "akasha/one.module.code.ts"
-
-const SHARED_ID = "01a06110-0000-7000-8000-00000000e001"
-
-const MODULE_ID = "01a06110-0000-7000-8000-00000000e002"
 
 const HOLDS_VALUE = "declare const HELD: number\n"
 
@@ -63,12 +59,10 @@ const DECLARER_ID = "01a06110-0000-7000-8000-00000000e005"
 
 const SHARED_PAGE_ID = "01a06110-0000-7000-8000-00000000e006"
 
-const APART_ID = "01a06110-0000-7000-8000-00000000e007"
-
 function staging(shared: string, held: string): string {
   const root = staged({ [SHARED_AT]: shared, [MODULE_AT]: held })
-  pathFiled(root, SHARED_AT, [{ path: SHARED_AT, id: SHARED_ID }])
-  pathFiled(root, MODULE_AT, [{ path: MODULE_AT, id: MODULE_ID }])
+  pathListed(root, SHARED_AT)
+  pathListed(root, MODULE_AT)
   return root
 }
 
@@ -96,9 +90,9 @@ function ambient(root: string): undefined {
 
 function naming(shared: string, held: string): string {
   const root = staged({ [SHARED_AT]: shared, [MODULE_AT]: held, [APART_AT]: APART })
-  pathFiled(root, SHARED_AT, [{ path: SHARED_AT, id: SHARED_ID }])
-  pathFiled(root, MODULE_AT, [{ path: MODULE_AT, id: MODULE_ID }])
-  pathFiled(root, APART_AT, [{ path: APART_AT, id: APART_ID }])
+  pathListed(root, SHARED_AT)
+  pathListed(root, MODULE_AT)
+  pathListed(root, APART_AT)
   ambient(root)
   return root
 }

@@ -11,7 +11,7 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
-import { pathFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { pathListed } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { shadowFor } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
@@ -68,15 +68,15 @@ export function rooted(body: string, prefix: string = "akasha-name-format-shape-
   const matching = [{ path: MATCHING_PAGE, id: MATCHING_ID }]
   idFiled(root, MATCHING_ID, matching)
   listedFiled(root, "module", "name-matching", matching)
-  pathFiled(root, MATCHING_PAGE, matching)
+  pathListed(root, MATCHING_PAGE)
   const held = [{ path: PAGE_AT, id: ID }]
   idFiled(root, ID, held)
   listedFiled(root, "name-format", SLUG, held)
   valueAlsoFiled(root, "name-format", [
     { path: PAGE_AT, value: { id: ID, pageTypeSlug: "name-format", slug: SLUG } },
   ])
-  pathFiled(root, PAGE_AT, held)
-  pathFiled(root, AT, held)
+  pathListed(root, PAGE_AT)
+  pathListed(root, AT)
   return root
 }
 

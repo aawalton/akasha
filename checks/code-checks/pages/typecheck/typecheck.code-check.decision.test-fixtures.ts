@@ -15,7 +15,7 @@ import {
 } from "akasha/checks/modules/staging/check-staging.module.code.ts"
 import { valueAlsoFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import {
-  pathFiled,
+  pathListed,
   relationFiled,
   shapeAdded,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
@@ -233,31 +233,27 @@ export function declaring(): string {
   })
   named(root, HELD_TYPE_AT, PAGE_TYPE, HELD_TYPE, TYPE_ID)
   named(root, HELD_LOADER_AT, MODULE, HELD_LOADER, LOADER_ID)
-  pathFiled(root, LOADED_AT, [{ path: LOADED_AT, id: LOADED_ID }])
+  pathListed(root, LOADED_AT)
   return root
 }
 
 export const DECLARED_AT = "akasha/eso-held.type-declaration.d.ts"
 
-const DECLARED_ID = "01a04f2b-3d24-70b3-8c3e-3076a9299149"
-
 export function declared(files: Readonly<Record<string, string>>): string {
   const root = staged({ [DECLARED_AT]: "declare const HELD_ONE: number\n", ...files })
-  pathFiled(root, DECLARED_AT, [{ path: DECLARED_AT, id: DECLARED_ID }])
+  pathListed(root, DECLARED_AT)
   return root
 }
 
 export const RELYING_AT = "akasha/eso-relies.type-declaration.d.ts"
-
-const RELYING_ID = "01a04f2b-3d24-70b3-8c3e-3076a929914a"
 
 export function relying(): string {
   const root = staged({
     [DECLARED_AT]: "declare const HELD_ONE: number\n",
     [RELYING_AT]: "declare const HELD_TWO: typeof HELD_ONE\n",
   })
-  pathFiled(root, DECLARED_AT, [{ path: DECLARED_AT, id: DECLARED_ID }])
-  pathFiled(root, RELYING_AT, [{ path: RELYING_AT, id: RELYING_ID }])
+  pathListed(root, DECLARED_AT)
+  pathListed(root, RELYING_AT)
   return root
 }
 

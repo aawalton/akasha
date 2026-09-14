@@ -19,16 +19,53 @@ export const indexListing = {
     },
     {
       invariantKind: "departure",
-      statement: "A path is filed here where the path index files that path.",
+      statement: "Which paths a page claims is worked out here for whatever files them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page is filed here only when the page has an id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page is filed here only when the page has a slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page is filed here only when the page has a page type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page's sops file is filed here only where that file is there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page's sops file is filed here only where the page's type declares a secret.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The paths filed here are read off what the path index files rather than worked out again.",
+        "A page's uncommitted file is filed here only where the page's type declares an uncommitted value.",
     },
     {
       invariantKind: "departure",
-      statement: "Which files are there is one file read rather than a walk of the path tree.",
+      statement: "A page's uncommitted file is filed here only where that file is there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Whether a numbered file is there is read from the change laid over the disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file filed here for a page that does not state it is filed only where it is there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder a page holds is filed here under its own path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which files are there is one file read rather than a tree listed.",
     },
     {
       invariantKind: "absence",
@@ -36,7 +73,7 @@ export const indexListing = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here depends on why the path index files a path.",
+      statement: "Which page a path belongs to is read off that path's own name rather than filed.",
     },
   ],
 } as const satisfies Index

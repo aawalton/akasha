@@ -1,6 +1,7 @@
-import { mkdirSync, readFileSync, rmSync, symlinkSync } from "node:fs"
+import { existsSync, mkdirSync, readFileSync, rmSync, symlinkSync } from "node:fs"
 import { join } from "node:path"
 import { typed as typedCode } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
+import { LISTED_AT } from "akasha/pages/indexes/listing/index-listing.index.code.ts"
 import {
   type Indexing,
   indexingAt,
@@ -110,7 +111,10 @@ export const idFile = (root: string, id: string): string =>
 export const slugFile = (root: string, type: string, slug: string): string =>
   join(root, `identity/page-type/${type}/slug/${slug}.jsonl`)
 
-export const pathFile = (root: string, path: string): string => join(root, `path/${path}.jsonl`)
+export const listedAt = (root: string, path: string): boolean => {
+  const at = join(root, LISTED_AT)
+  return existsSync(at) && linesIn(at).includes(path)
+}
 
 export const edgeFile = (root: string, target: string, property: string, source: string): string =>
   join(root, `relation/page/id/${target}/${property}/${source}.jsonl`)
@@ -237,14 +241,14 @@ export const NAMES_C_BY_SLUG: Held = {
 
 export const NAMES_C_BY_ID: Held = { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: [C] }
 
-export function pathBlocked(root: string, at: string): undefined {
-  const blocked = pathFile(root, at)
+export function pathBlocked(root: string): undefined {
+  const blocked = join(root, LISTED_AT)
   rmSync(root, { recursive: true, force: true })
   mkdirSync(join(blocked, "inside"), { recursive: true })
 }
 
-function blockedInPlace(root: string, at: string): undefined {
-  const blocked = pathFile(root, at)
+function blockedInPlace(root: string): undefined {
+  const blocked = join(root, LISTED_AT)
   rmSync(blocked, { force: true })
   mkdirSync(join(blocked, "inside"), { recursive: true })
 }
@@ -257,7 +261,7 @@ export function aRefreshedWorld(): Pair {
 
 export function aRefreshBlocked(): Pair {
   const held = aRefreshedWorld()
-  blockedInPlace(held.root, "a.domain.ts")
+  blockedInPlace(held.root)
   return held
 }
 

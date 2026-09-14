@@ -8,7 +8,7 @@ import {
   valueAlsoFiled,
 } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import {
-  pathFiled,
+  pathListed,
   relationFiled,
   shapeAdded,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
@@ -140,7 +140,7 @@ export function carrying(
 }
 
 export function claiming(root: string, path: string, page: string, id: string): undefined {
-  pathFiled(root, path, [{ path: page, id }])
+  pathListed(root, path)
   const said = partedIn(page)
   if (said === null || existsSync(join(root, page))) return
   mkdirSync(join(root, dirname(page)), { recursive: true })

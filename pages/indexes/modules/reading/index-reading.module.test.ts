@@ -22,7 +22,6 @@ import {
   importFiled,
   listingFiled,
   nothingFiled,
-  pathFiled,
   scopedFiled,
   shapeAdded,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
@@ -175,7 +174,6 @@ test("every reader is refused where the index stands nowhere, whatever it was as
 
 test("every reader is refused where a refresh left the index part way through", () => {
   const root = rootAt()
-  pathFiled(root, "akasha/a.module.ts", [{ path: "akasha/a.module.ts", id: A }])
   idFiled(root, A, [{ path: "akasha/a.module.ts", id: A }])
   dropBuilt(indexIn(root))
 

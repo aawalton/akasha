@@ -67,7 +67,7 @@ export const checkScratch = {
     },
     {
       invariantKind: "departure",
-      statement: "A path filed for a page has that page's body written as well as the entry.",
+      statement: "A path listed for a page has that page's body written as well as the listing.",
     },
     {
       invariantKind: "departure",

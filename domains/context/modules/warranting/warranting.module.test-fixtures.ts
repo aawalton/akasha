@@ -13,7 +13,7 @@ import {
   valueAlsoFiled,
 } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import {
-  pathFiled,
+  pathListed,
   relationFiled,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
@@ -233,7 +233,7 @@ export function declaring(said: readonly Declared[]): readonly Record<string, un
 }
 
 function filed(root: string, held: Listed, typeSlug: string, slug: string): undefined {
-  pathFiled(root, held.path, [held])
+  pathListed(root, held.path)
   idFiled(root, held.id, [held])
   listedFiled(root, typeSlug, slug, [held])
 }

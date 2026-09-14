@@ -30,7 +30,7 @@ import {
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   importFiled,
-  pathFiled,
+  pathListed,
   readingLaidOver,
   relationFiled,
   shapeAdded,
@@ -121,8 +121,8 @@ function seeded(): string {
   ])
   idFiled(root, HELD_ID, [{ path: HELD_AT, id: HELD_ID }])
   idFiled(root, TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
-  pathFiled(root, HELD_AT, [{ path: HELD_AT, id: HELD_ID }])
-  pathFiled(root, TYPE_AT, [{ path: TYPE_AT, id: TYPE_ID }])
+  pathListed(root, HELD_AT)
+  pathListed(root, TYPE_AT)
   shapeAdded(root, "text-property", SLUG, [SCHEMA])
   relationFiled(root, TYPE_ID, "extends-slug", HELD_ID, [{ path: HELD_AT, id: HELD_ID }])
   relationFiled(root, SLUG_ID, DECLARES, TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
@@ -185,7 +185,6 @@ test("a question is answered from the reading bound rather than from the index a
   const root = seeded()
   const laid = readingLaidOver(root, {
     "identity/page-type/module/slug/laid.jsonl": [{ path: LAID_AT, id: LAID_ID }],
-    "path/akasha/laid/laid.module.ts.jsonl": [{ path: LAID_AT, id: LAID_ID }],
     "listing/path.jsonl": [LAID_AT],
   })
   const index = answeringOver(laid, pageOf)

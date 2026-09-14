@@ -5,7 +5,7 @@ import {
 } from "akasha/checks/code-checks/pages/client-reaches-pages-through-its-hooks/client-reaches-pages-through-its-hooks.code-check.check.code.ts"
 import { change, scratch, staged } from "akasha/checks/modules/staging/check-staging.module.code.ts"
 import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
-import { pathFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { pathListed } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
@@ -41,7 +41,7 @@ function rooted(): string {
   })
   listedFiled(root, PACKAGE, "pages-access", [{ path: ACCESS_AT, id: ID }])
   listedFiled(root, PACKAGE, "pages-ui", [{ path: HOOKS_AT, id: ID }])
-  pathFiled(root, PANEL_AT, [{ path: PANEL_AT, id: ID }])
+  pathListed(root, PANEL_AT)
   return root
 }
 

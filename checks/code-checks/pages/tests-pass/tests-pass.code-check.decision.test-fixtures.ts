@@ -4,7 +4,7 @@ import type { Ran, Spent } from "akasha/code/running/modules/code-tests/code-tes
 import { RUNNING } from "akasha/code/running/modules/code-tests/code-tests.module.code.ts"
 import {
   noPathsFiled,
-  pathFiled,
+  pathListed,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
@@ -29,8 +29,6 @@ export const CODE_AT = "akasha/one.module.code.ts"
 
 export const TEST_AT = "akasha/one.module.test.ts"
 
-const HELD_ID = "01a05fd0-1c4a-7000-8f3b-6a1d4e2c9b70"
-
 export const scratch = scratchWorld()
 
 export function repo(files: Record<string, string>): string {
@@ -40,7 +38,7 @@ export function repo(files: Record<string, string>): string {
     const at = join(root, name)
     mkdirSync(dirname(at), { recursive: true })
     writeFileSync(at, body)
-    pathFiled(root, name, [{ path: name, id: HELD_ID }])
+    pathListed(root, name)
   }
   return root
 }
