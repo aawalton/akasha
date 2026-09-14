@@ -136,18 +136,6 @@ export async function openSession(): Promise<Page | null> {
   return rows[0] ?? null
 }
 
-export function sessionsBefore(beforeInstant: Date, limit: number): Promise<readonly Page[]> {
-  return sessionRows(
-    askSessions({
-      where: { "start-time": { before: beforeInstant.toISOString() } },
-      "sort-by": "start-time",
-      descending: true,
-      limit,
-    }),
-    "finding the prior closed session"
-  )
-}
-
 export function sessionsOfDay(dailyId: string, keys?: readonly string[]): Promise<readonly Page[]> {
   return sessionRows(
     askSessions({
@@ -157,27 +145,6 @@ export function sessionsOfDay(dailyId: string, keys?: readonly string[]): Promis
       ...(keys === undefined ? {} : { keys }),
     }),
     "listing the sessions of a day"
-  )
-}
-
-export function sessionsInSpan(
-  fromInstant: Date,
-  beforeInstant: Date,
-  keys?: readonly string[]
-): Promise<readonly Page[]> {
-  return sessionRows(
-    askSessions({
-      where: {
-        "start-time": {
-          "at-or-after": fromInstant.toISOString(),
-          before: beforeInstant.toISOString(),
-        },
-      },
-      "sort-by": "start-time",
-      limit: MAX_DAY_SESSIONS,
-      ...(keys === undefined ? {} : { keys }),
-    }),
-    "reading the sessions of a span"
   )
 }
 
