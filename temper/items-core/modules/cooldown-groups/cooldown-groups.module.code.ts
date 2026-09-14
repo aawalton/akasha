@@ -83,10 +83,6 @@ export function findCooldownGroup(item: CooldownItemInput): CooldownGroup | unde
   return undefined
 }
 
-export function isRftwContainer(item: CooldownItemInput): boolean {
-  return matchesCooldownGroup(item, RFTW_GROUP)
-}
-
 export function isDlcDailyContainerByName(item: CooldownItemInput): boolean {
   const name = item.itemName
   if (name === "") return false

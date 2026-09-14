@@ -12,19 +12,6 @@ import type {
 import type { ItemAction } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type { CharacterId } from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
 
-export function toAffectedItem(
-  ci: ClassifiedInventoryItem,
-  alreadyAtDestination: boolean
-): AffectedItem {
-  return {
-    item: ci.item,
-    locationKey: ci.locationKey,
-    locationDisplayName: ci.locationDisplayName,
-    bagId: ci.bagId,
-    alreadyAtDestination,
-  }
-}
-
 export function buildAffectedItem(
   ci: ClassifiedInventoryItem,
   alreadyAtDestination: boolean,

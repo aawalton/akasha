@@ -11,10 +11,10 @@ import type { ClassifiedInventoryItem } from "akasha/temper/items-rules-core/mod
 import { makeItem } from "akasha/temper/items-rules-core/modules/inventory-rule-test-utils/inventory-rule-test-utils.module.code.ts"
 import type { CategoryRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {
+  buildAffectedItem,
   getExcludeLocation,
   isAlreadyAtDestination,
   isContainerBlockedByAction,
-  toAffectedItem,
 } from "akasha/temper/items-rules-matcher/modules/inventory-rule-matcher-exclude/inventory-rule-matcher-exclude.module.code.ts"
 
 type Overrides = Partial<Omit<ClassifiedInventoryItem, "item">> & {
@@ -154,13 +154,13 @@ describe("An affected item carries the item, where it lies, and whether it is th
       bagId: 2,
     })
 
-    expect(toAffectedItem(held, true)).toEqual({
+    expect(buildAffectedItem(held, true)).toEqual({
       item: held.item,
       locationKey: "Bank",
       locationDisplayName: "Bank",
       bagId: 2,
       alreadyAtDestination: true,
     })
-    expect(toAffectedItem(held, false).alreadyAtDestination).toBe(false)
+    expect(buildAffectedItem(held, false).alreadyAtDestination).toBe(false)
   })
 })
