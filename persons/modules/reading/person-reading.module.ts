@@ -29,6 +29,10 @@ export const personReading = {
     },
     {
       invariantKind: "departure",
+      statement: "The persona answering for a person reads back as her slug alone.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A person required by slug where none answers is an error.",
     },
   ],

@@ -5,6 +5,7 @@ import {
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import {
+  slugAt,
   textAt,
   type Value,
 } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
@@ -49,7 +50,7 @@ function personFrom(root: string, listed: Listed): Person {
     slug,
     path: listed.path,
     definition: textAt(value, "definition"),
-    answeredBy: textAt(value, "answeredBy"),
+    answeredBy: slugAt(value, "answeredBy"),
     phone: textAt(value, "phone"),
     email: textAt(value, "email"),
     supabaseAuthUserId: textAt(value, "supabaseAuthUserId"),
