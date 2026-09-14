@@ -12,6 +12,8 @@ import {
   type Rung,
 } from "akasha/alan/harness/surplus/modules/fall-tier/surplus-fall-tier.module.code.ts"
 import { dayValuesByDate } from "akasha/alan/track/daily/modules/day-reading/day-reading.module.code.ts"
+import { namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
+import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import type { Query } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
 import { askingFor } from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
 
@@ -24,6 +26,8 @@ export interface Readout {
 const READOUT_PAGE_TYPE_SLUG = "readout"
 
 const READOUT_SCALE_PAGE_TYPE_SLUG = "readout-scale"
+
+const READOUT_GROUP_PAGE_TYPE_SLUG = "readout-group"
 
 type Values = Readonly<Record<string, unknown>>
 
@@ -73,7 +77,7 @@ export async function resolveOneReadout(groupSlug: string): Promise<Readout> {
   const rows = await rowsOf(
     {
       pageTypeSlug: READOUT_PAGE_TYPE_SLUG,
-      where: { groups: { has: groupSlug } },
+      where: { groups: { has: namedAs(READOUT_GROUP_PAGE_TYPE_SLUG, groupSlug, null) } },
     },
     `resolveOneReadout: the readouts of the group \`${groupSlug}\` went unread, so what is being watched is unknown`
   )
@@ -86,7 +90,8 @@ export async function resolveOneReadout(groupSlug: string): Promise<Readout> {
   }
   const slug = stated(row.slug)
   const label = stated(row.label)
-  const scaleSlug = stated(row.scale)
+  const named = stated(row.scale)
+  const scaleSlug = named === undefined ? undefined : slugOf(named)
   if (slug === undefined || label === undefined || scaleSlug === undefined) {
     throw new Error(
       `resolveOneReadout: the one readout of the group \`${groupSlug}\` states no slug, no label or no scale, and a fall names the readout it fell on and the rung it reached`
