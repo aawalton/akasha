@@ -13,7 +13,6 @@ export const messaging = {
     "module/message-file-watch",
     "module/message-naming",
     "module/message-page-address",
-    "module/message-reach-write",
     "module/message-to",
     "module/message-to-start",
     "module/messages-agent-id",
