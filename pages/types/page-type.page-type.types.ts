@@ -1,5 +1,4 @@
 import type { Domain } from "akasha/domains/domain.page-type.types.ts"
-import type { PluralSlug } from "akasha/domains/properties/plural-slug.text-property.types.ts"
 import type { AllowsTmpPaths } from "akasha/pages/types/properties/allows-tmp-paths.boolean-property.types.ts"
 import type { DetailConfig } from "akasha/pages/types/properties/detail-config.record-property.types.ts"
 import type { ExtendsType } from "akasha/pages/types/properties/extends-type.relation-property.types.ts"
@@ -24,7 +23,6 @@ export type PageType = Domain & {
   extends: ExtendsType
   properties?: Properties
   mortal?: Mortal
-  pluralSlug: PluralSlug
   loadedBy?: LoadedBy
   detailConfig?: DetailConfig
   mediaConfig?: MediaConfig

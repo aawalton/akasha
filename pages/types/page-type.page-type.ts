@@ -80,7 +80,6 @@ export const pageType = {
     },
     { pageProperty: "one-of-property/properties", required: false, many: true, maxCount: null },
     { pageProperty: "boolean-property/mortal", required: false, many: false },
-    { pageProperty: "text-property/plural-slug", required: true, many: false },
     { pageProperty: "relation-property/loaded-by", required: false, many: false },
     { pageProperty: "record-property/detail-config", required: false, many: false },
     { pageProperty: "record-property/media-config", required: false, many: false },
