@@ -5,7 +5,7 @@ export const dateNightFreePlay = {
   type: "game",
   slug: "date-night-free-play",
   title: "Date Night — Free Play",
-  unit: "words",
+  unit: "unit/words",
   externalId: "playtest-date-night-9",
   gameEngine: "awen",
   coordinatorAgent: "awen-gm--playtest-date-night-9",

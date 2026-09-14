@@ -5,7 +5,7 @@ export const theVioletHour = {
   type: "game",
   slug: "the-violet-hour",
   title: "The Violet Hour",
-  unit: "words",
+  unit: "unit/words",
   externalId: "the-violet-hour",
   gameEngine: "awen",
   coordinatorAgent: "awen-gm--the-violet-hour",

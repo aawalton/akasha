@@ -5,7 +5,7 @@ export const theTower = {
   type: "game",
   slug: "the-tower",
   title: "The Tower",
-  unit: "words",
+  unit: "unit/words",
   externalId: "the-tower",
   gameEngine: "awen",
   coordinatorAgent: "awen-gm--the-tower",

@@ -5,7 +5,7 @@ export const dragonsAndDungeons = {
   type: "game",
   slug: "dragons-and-dungeons",
   title: "Dragons & Dungeons",
-  unit: "words",
+  unit: "unit/words",
   externalId: "dragons-and-dungeons",
   gameEngine: "awen",
   coordinatorAgent: "awen-gm--dragons-and-dungeons",
