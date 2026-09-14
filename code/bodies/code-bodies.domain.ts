@@ -10,7 +10,6 @@ export const codeBodies = {
     "module/body-text",
     "module/carried-file",
     "module/file-kind",
-    "module/file-kind-bytes",
     "module/utf8-body",
   ],
 } as const satisfies Domain
