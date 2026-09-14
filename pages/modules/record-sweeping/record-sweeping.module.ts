@@ -76,7 +76,8 @@ export const recordSweeping = {
     },
     {
       invariantKind: "departure",
-      statement: "A writer opens the first part again, so taking it away stops no recording.",
+      statement:
+        "A writer appends to the highest part there is, and makes the first part again where none is.",
     },
     {
       invariantKind: "departure",
@@ -84,7 +85,13 @@ export const recordSweeping = {
     },
     {
       invariantKind: "departure",
-      statement: "A stream whose parts cannot all be read is left as that stream is.",
+      statement:
+        "A stream is left as that stream is where a part of it is absent or will not read.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "A stream whose first part alone is gone is swept by nothing while its writer still appends.",
     },
     {
       invariantKind: "departure",
