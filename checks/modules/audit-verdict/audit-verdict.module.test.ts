@@ -5,6 +5,7 @@ import {
   atOrAfter,
   cleanAt,
   cleanly,
+  measured,
   verdictIn,
   verdictKept,
   verdictsAt,
@@ -63,6 +64,12 @@ test("a verdict is clean where the check ran and refused nothing", () => {
   expect(cleanly(CLEAN)).toBe(true)
   expect(cleanly({ ...CLEAN, refusals: ["one refused"] })).toBe(false)
   expect(cleanly({ ...CLEAN, unrun: true })).toBe(false)
+})
+
+test("a verdict is measured where the check ran, whatever that check refused", () => {
+  expect(measured(CLEAN)).toBe(true)
+  expect(measured({ ...CLEAN, refusals: ["one refused"] })).toBe(true)
+  expect(measured({ ...CLEAN, unrun: true })).toBe(false)
 })
 
 test("keeping a verdict leaves the verdicts beside it as they were", () => {

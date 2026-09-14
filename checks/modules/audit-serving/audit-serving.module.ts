@@ -94,6 +94,18 @@ export const auditServing = {
     },
     {
       invariantKind: "departure",
+      statement: "A check that could not run is told as unmeasured rather than as refusing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check that both refused and could not run reads as unmeasured.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The round's exit line counts what refused apart from what nothing measured.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "The persona championing checks is told of a check that turned from clean to refusing.",
     },
@@ -127,7 +139,7 @@ export const auditServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A message names the file holding what each check refused, whole.",
+      statement: "A message names the file holding what each check answered, whole.",
     },
     {
       invariantKind: "departure",

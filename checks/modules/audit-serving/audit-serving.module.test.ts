@@ -219,6 +219,21 @@ test("what the one told reads names every check that turned and what each refuse
   expect(said).toContain("one.ts — no")
   expect(said).toContain("abc")
   expect(said).toContain("/h/.local/state/workstation-services/audit-verdicts.json")
+  expect(said).toContain("1 check newly refusing.")
+})
+
+test("a check nothing measured is told and counted apart from one that refused", () => {
+  const killed = { ...CLEAN, refusals: ["two.ts — died on SIGKILL apart"], unrun: true }
+  const two = { check: "no-re-export", verdict: killed, ran: true }
+  const one = { check: "typecheck", verdict: { ...CLEAN, refusals: ["one.ts — no"] }, ran: true }
+  const said = bodyFor([one, two], "abc", "/h")
+  expect(said).toContain("found 1 check newly refusing and 1 check nothing measured.")
+  expect(said).toContain("`typecheck` refused 1 time:")
+  expect(said).toContain("`no-re-export` went unmeasured:")
+  expect(said).toContain("died on SIGKILL apart")
+  const alone = bodyFor([two], "abc", "/h")
+  expect(alone).toContain("the audit at abc found 1 check nothing measured.")
+  expect(alone).not.toContain("refus")
 })
 
 test("a refusal too long for a message is shortened to say how much of it went", () => {

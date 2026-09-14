@@ -8,6 +8,7 @@ import {
 import {
   cleanAt,
   cleanly,
+  measured,
   type Verdict,
   verdictKept,
   verdictsAt,
@@ -88,6 +89,14 @@ const STDERR_CEILING = 800
 const UNANSWERED = "wrote no verdict where one was asked for"
 
 const UNREAD = "wrote a verdict no runner could read"
+
+const UNMEASURED = "went unmeasured"
+
+const REFUSING = "newly refusing"
+
+const NOTHING_MEASURED = "nothing measured"
+
+const WHOLE = "holds what each of them answered, whole."
 
 const underway = new Map<string, Promise<Ran>>()
 
@@ -307,15 +316,33 @@ export function turnedRed(before: Verdict | undefined, after: Verdict): boolean 
   return before === undefined || cleanly(before)
 }
 
-export function bodyFor(red: readonly Ran[], commit: string, home: string): string {
-  const said = red.flatMap((one) => [
-    `\`${one.check}\` refused ${counted(one.verdict.refusals.length, "time")}:`,
-    ...one.verdict.refusals.slice(0, SHOWN).map((two) => `  ${reasonSaid(two, REASON_CEILING)}`),
-  ])
+function headFor(commit: string, refused: number, unmeasured: number): string {
+  const found = `the audit at ${commit} found`
+  if (unmeasured === 0) return `${found} ${counted(refused, "check")} ${REFUSING}.`
+  if (refused === 0) return `${found} ${counted(unmeasured, "check")} ${NOTHING_MEASURED}.`
+  return (
+    `${found} ${counted(refused, "check")} ${REFUSING} and ` +
+    `${counted(unmeasured, "check")} ${NOTHING_MEASURED}.`
+  )
+}
+
+function saidOf(one: Ran): readonly string[] {
+  const head = measured(one.verdict)
+    ? `\`${one.check}\` refused ${counted(one.verdict.refusals.length, "time")}:`
+    : `\`${one.check}\` ${UNMEASURED}:`
   return [
-    `the audit at ${commit} found ${counted(red.length, "check")} newly refusing.`,
-    ...heldTo(said, BODY_CEILING),
-    `${verdictsAt(home)} holds what each of them refuses, whole.`,
+    head,
+    ...one.verdict.refusals.slice(0, SHOWN).map((two) => `  ${reasonSaid(two, REASON_CEILING)}`),
+  ]
+}
+
+export function bodyFor(red: readonly Ran[], commit: string, home: string): string {
+  const refused = red.filter((one) => measured(one.verdict))
+  const unmeasured = red.filter((one) => !measured(one.verdict))
+  return [
+    headFor(commit, refused.length, unmeasured.length),
+    ...heldTo([...refused, ...unmeasured].flatMap(saidOf), BODY_CEILING),
+    `${verdictsAt(home)} ${WHOLE}`,
   ].join("\n")
 }
 
@@ -367,8 +394,11 @@ export async function serving(given: Serving): Promise<Told> {
 
 export async function runAuditServing(): Promise<void> {
   const told = await serving({ root: checkoutAt(), home: requireEnv("HOME") })
-  const red = told.ran.filter((one) => !cleanly(one.verdict)).length
-  process.stdout.write(`${SAID} ${counted(told.ran.length, "audit")}, ${red} refusing\n`)
+  const red = told.ran.filter((one) => measured(one.verdict) && !cleanly(one.verdict)).length
+  const nothing = told.ran.filter((one) => !measured(one.verdict)).length
+  process.stdout.write(
+    `${SAID} ${counted(told.ran.length, "audit")}, ${red} refusing, ${nothing} unmeasured\n`
+  )
   for (const one of told.refused) process.stderr.write(`${SAID} ${one}\n`)
 }
 

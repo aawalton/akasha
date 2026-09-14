@@ -60,8 +60,12 @@ export function verdictKept(verdicts: Verdicts, check: string, verdict: Verdict)
   return { ...verdicts, [check]: verdict }
 }
 
+export function measured(verdict: Verdict): boolean {
+  return !verdict.unrun
+}
+
 export function cleanly(verdict: Verdict): boolean {
-  return !verdict.unrun && verdict.refusals.length === 0
+  return measured(verdict) && verdict.refusals.length === 0
 }
 
 export async function atOrAfter(root: string, asked: string, ran: string): Promise<boolean> {

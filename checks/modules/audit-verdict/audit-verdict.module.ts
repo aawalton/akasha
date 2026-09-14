@@ -26,6 +26,10 @@ export const auditVerdict = {
     },
     {
       invariantKind: "departure",
+      statement: "A verdict is measured where the check ran, whatever that check refused.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A verdict is clean where the check ran and refused nothing.",
     },
     {

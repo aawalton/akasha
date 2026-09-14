@@ -123,6 +123,14 @@ export const check = {
       statement: "A check no change ran is unmeasured rather than sound.",
     },
     {
+      invariantKind: "departure",
+      statement: "A check a process could not finish is unmeasured rather than refusing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An unmeasured check is counted and told apart from a check that refused.",
+    },
+    {
       invariantKind: "absence",
       statement:
         "No check judges the imports a repository outside akasha takes from inside akasha.",
