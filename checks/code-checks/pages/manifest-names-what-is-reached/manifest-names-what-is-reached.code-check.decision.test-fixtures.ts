@@ -13,7 +13,6 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
-import { listingFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
@@ -74,7 +73,6 @@ export function rooted(prefix: string = "akasha-reached-"): string {
   valueAlsoFiled(root, WORKSPACE, [
     { path: PAGE_AT, value: { id: ID, pageTypeSlug: WORKSPACE, slug: "one-system" } },
   ])
-  listingFiled(root, [PAGE_AT, MANIFEST_AT, AT])
   return root
 }
 
