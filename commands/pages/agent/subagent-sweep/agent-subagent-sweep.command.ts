@@ -42,7 +42,15 @@ export const agentSubagentSweep = {
     },
     {
       invariantKind: "departure",
-      statement: "A page is stale where its seat's transcript saw it start and return.",
+      statement: "A page is stale where the transcript that dispatched it saw it start and return.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent one subagent dispatched is seen that way as a seat's own is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A fold is read for that though whatever it folds has itself returned.",
     },
     {
       invariantKind: "departure",

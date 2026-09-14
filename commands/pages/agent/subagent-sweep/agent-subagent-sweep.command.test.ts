@@ -252,7 +252,7 @@ test("a transcript naming a page's own id as ended reads that page stale", async
   expect(bare).toContain("0 working, 0 stale, 1 undetermined")
   const said = await reported(root, base, ALIVE, saying([], [OWN]))
   expect(said).toContain("1 subagent page(s): 0 working, 1 stale, 0 undetermined")
-  expect(said).toContain("started and returned")
+  expect(said).toContain("records the result it returned")
   world.sweep()
 })
 
