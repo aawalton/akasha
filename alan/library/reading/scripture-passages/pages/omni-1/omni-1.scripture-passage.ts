@@ -9,7 +9,7 @@ export const omni1 = {
   translation: "book-of-mormon",
   position: 64,
   passageText: "txt",
-  unit: "words",
+  unit: "unit/words",
   status: "not-started",
   externalId: "omni1",
 } as const satisfies ScripturePassage

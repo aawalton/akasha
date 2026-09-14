@@ -9,7 +9,7 @@ export const amos8 = {
   position: 8,
   ownLength: 0,
   ownProgress: 0,
-  unit: "words",
+  unit: "unit/words",
   status: "not-started",
   externalId: "amos8",
 } as const satisfies ScripturePassage

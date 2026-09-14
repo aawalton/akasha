@@ -8,6 +8,6 @@ export const officialDeclaration1 = {
   book: "Official Declaration",
   position: 1,
   ownLength: 0,
-  unit: "words",
+  unit: "unit/words",
   externalId: "officialdeclaration1",
 } as const satisfies ScripturePassage
