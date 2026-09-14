@@ -14,10 +14,7 @@ import {
   fileDomain,
   WHOLE,
 } from "akasha/domains/context/warrants/file-domain/file-domain.context-warrant.code.ts"
-import {
-  idTakenFrom,
-  pathListed,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { idTakenFrom } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
@@ -30,7 +27,6 @@ const AGENT = "01a04f58-a7ee-7000-94ad-769aa16fc838"
 function beside(root: string, one: Listed, ending: string): string {
   const at = `${one.path.slice(0, -".ts".length)}.${ending}.ts`
   writing(root, at, "body\n")
-  pathListed(root, at)
   return at
 }
 
