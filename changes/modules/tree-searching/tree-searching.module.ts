@@ -4,7 +4,7 @@ export const treeSearching = {
   id: "01a0a06a-7815-7496-bab7-bcf7151d8cce",
   type: "module",
   slug: "tree-searching",
-  definition: "the paths a search of the tree names, held to the ones the world carries",
+  definition: "the paths a search of the tree names, and which of those a world carries",
   code: "ts",
   test: "ts",
   invariants: [
@@ -27,6 +27,11 @@ export const treeSearching = {
     {
       invariantKind: "departure",
       statement: "A path the search names is answered against the root that search was handed.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A caller handing a root rather than a world is answered every path the search names.",
     },
     {
       invariantKind: "departure",

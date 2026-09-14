@@ -47,11 +47,12 @@ export function foundIn(out: string, code: number, err: string, root: string): r
   return found.map((one) => relative(root, one))
 }
 
-function searchedIn(
+export function pathsSearched(
   root: string,
   asked: readonly string[],
   kinds: readonly string[]
 ): readonly string[] {
+  if (asked.length === 0) return []
   const done = ran([rgPath, ...SEARCHED, ...globsFor(kinds), root], {
     stdin: BYTES.encode(`${asked.join(LINED)}${LINED}`),
   })
@@ -66,7 +67,7 @@ export function pathsNaming(
   if (asked.length === 0) return []
   const held = new Set(pathsThere(world))
   const found = new Set<string>()
-  for (const path of searchedIn(world.root, asked, kinds)) {
+  for (const path of pathsSearched(world.root, asked, kinds)) {
     if (held.has(path)) found.add(path)
   }
   for (const path of pathsIn(world.over)) {

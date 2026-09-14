@@ -10,6 +10,7 @@ import {
   EVERY_KIND,
   foundIn,
   pathsNaming,
+  pathsSearched,
   TYPED_KINDS,
 } from "akasha/changes/modules/tree-searching/tree-searching.module.code.ts"
 import { indexNamed } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
@@ -92,6 +93,15 @@ test("a path the search names is answered against the root that search was hande
   expect(pathsNaming(world, [SPELLING], TYPED_KINDS)).toEqual([CODE_AT])
 })
 
+test("a caller handing a root rather than a world is answered every path the search names", () => {
+  const world = worldSpelling({ [CODE_AT]: CODE_BODY }, NOTHING_OVER, {
+    [CODE_AT]: CODE_BODY,
+    [OTHER_AT]: CODE_BODY,
+  })
+
+  expect(pathsSearched(world.root, [SPELLING], TYPED_KINDS).toSorted()).toEqual([CODE_AT, OTHER_AT])
+})
+
 test("the paths answered are the paths the world holds", () => {
   const world = worldSpelling({ [CODE_AT]: CODE_BODY }, NOTHING_OVER, {
     [CODE_AT]: CODE_BODY,
@@ -125,4 +135,5 @@ test("a search naming paths is answered with those paths though that search ende
 
 test("a call asking after no spelling searches nothing", () => {
   expect(pathsNaming(worldOf({ [CODE_AT]: CODE_BODY }), [], TYPED_KINDS)).toEqual([])
+  expect(pathsSearched(NOWHERE, [], TYPED_KINDS)).toEqual([])
 })

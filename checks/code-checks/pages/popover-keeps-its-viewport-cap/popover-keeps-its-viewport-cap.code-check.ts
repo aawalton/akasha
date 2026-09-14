@@ -56,7 +56,11 @@ export const popoverKeepsItsViewportCap = {
     {
       invariantKind: "departure",
       statement:
-        "The tags judged are read from every file the index names as the change leaves that file.",
+        "The tags judged are read from the files a search of the tree names and the change's own files.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each of those files is read as the change leaves that file.",
     },
     {
       invariantKind: "departure",

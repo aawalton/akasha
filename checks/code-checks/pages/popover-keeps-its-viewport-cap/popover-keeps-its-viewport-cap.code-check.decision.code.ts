@@ -1,6 +1,6 @@
+import { pathsSearched } from "akasha/changes/modules/tree-searching/tree-searching.module.code.ts"
 import {
   bodyOf,
-  everyFileOf,
   overEachFile,
   textIn,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
@@ -11,6 +11,8 @@ import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import ts from "typescript"
 
 const TSX_ENDING = ".tsx"
+
+const TSX_KINDS: readonly string[] = [`*${TSX_ENDING}`]
 
 const CAP_MARK = "-content-available-width"
 
@@ -96,10 +98,17 @@ export function tagsIn(sources: Iterable<Source>): ReadonlyMap<string, string> {
   return tags
 }
 
-function tagsOver(change: Change, shadow: Shadow): ReadonlyMap<string, string> {
+function markedIn(change: Change): readonly string[] {
+  const found = new Set(pathsSearched(change.root, [CAP_MARK], TSX_KINDS))
+  for (const path of change.changed) {
+    if (tsxNamed(path)) found.add(path)
+  }
+  return [...found].sort()
+}
+
+function tagsOver(change: Change): ReadonlyMap<string, string> {
   const sources: Source[] = []
-  for (const path of everyFileOf(shadow.index)) {
-    if (!tsxNamed(path)) continue
+  for (const path of markedIn(change)) {
     const text = textIn(change, path)
     if (text === null || !text.includes(CAP_MARK)) continue
     sources.push({ path, text })
@@ -118,7 +127,7 @@ const TAGS = new WeakMap<Shadow, ReadonlyMap<string, string>>()
 function tagsFor(change: Change, shadow: Shadow): ReadonlyMap<string, string> {
   const held = TAGS.get(shadow)
   if (held !== undefined) return held
-  const made = tagsOver(change, shadow)
+  const made = tagsOver(change)
   TAGS.set(shadow, made)
   return made
 }
