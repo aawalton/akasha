@@ -4,15 +4,8 @@ export const workspacePaths = {
   id: "01a05c48-deeb-700a-a48e-da9f2becaa1d",
   type: "domain",
   slug: "workspace-paths",
-  definition:
-    "which folders of a repository the package manager installs, read off the root manifest",
-  parts: [
-    "module/stale-folders",
-    "module/tsconfig-references",
-    "module/workspace-bins",
-    "module/workspace-bins-verifying",
-    "module/workspace-dirs",
-  ],
+  definition: "which folders of a repository no file accounts for",
+  parts: ["module/stale-folders"],
   invariants: [
     {
       invariantKind: "departure",
