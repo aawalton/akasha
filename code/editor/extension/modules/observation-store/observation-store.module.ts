@@ -7,7 +7,6 @@ export const observationStore = {
   definition:
     "each feature's last observation held for one window, and the settled write that lands it",
   code: "ts",
-  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
