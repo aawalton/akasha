@@ -31,5 +31,27 @@ export const cluster = {
       statement:
         "A module more than one service reaches sits under the domain with those services.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A workload names the class of node the workload runs on.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "A workload reaches a node by the needs that workload states rather than by a class node carries.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The machines people use day to day run Linux and are nodes in the cluster.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "The work a person did on a cluster machine under Windows is work that person can still do.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Work stops on a machine the moment a person starts using that machine.",
+    },
   ],
 } as const satisfies Domain
