@@ -69,7 +69,7 @@ export type PageTypeReading = {
 
 export type PagesDeps = {
   readonly readUser: ReadUser
-  readonly ask: (pageTypeSlug: string) => Promise<Asked>
+  readonly ask: (pageTypeSlug: string, limit: number) => Promise<Asked>
   readonly readPageType: (pageTypeSlug: string) => Promise<PageTypeReading | null>
   readonly definitionsFor: (pageTypeSlug: string) => Promise<readonly PropertyDefinition[]>
 }
@@ -77,7 +77,7 @@ export type PagesDeps = {
 export function pagesDeps(readUser: ReadUser): PagesDeps {
   return {
     readUser,
-    ask: (pageTypeSlug) => askingFor({ pageTypeSlug }),
+    ask: (pageTypeSlug, limit) => askingFor({ pageTypeSlug, limit }),
     readPageType: async (pageTypeSlug) => {
       const pageType = await getPageTypeBySlug(pageTypeSlug)
       if (pageType === null) return null
@@ -135,7 +135,7 @@ export async function answerPages(
     return Response.json({ error: SIGNED_IN_ONLY }, { status: 401, headers })
   }
 
-  const asked = await deps.ask(pageTypeSlug)
+  const asked = await deps.ask(pageTypeSlug, LISTING_CEILING)
   if ("refused" in asked) {
     return Response.json({ error: UNREAD_PAGES, unread: [asked.refused] }, { status: 503, headers })
   }
@@ -157,7 +157,7 @@ export async function answerPages(
     )
   }
 
-  const held = asked.rows.length
+  const held = asked.n
   const built = buildRawPageRows({
     rows: valuedRows(asked.rows.slice(0, LISTING_CEILING)),
     definitions: reading.definitions,

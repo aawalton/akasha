@@ -30,6 +30,15 @@ function depsReading(readPageType: PagesDeps["readPageType"]): PagesDeps {
   }
 }
 
+function depsAsking(ask: PagesDeps["ask"]): PagesDeps {
+  return {
+    readUser: async () => ({ user: { id: "one" }, headers: new Headers() }),
+    ask,
+    readPageType: async () => ({ pageTypeId: "one", definitions: [] }),
+    definitionsFor: async () => [],
+  }
+}
+
 function rowFor(slug: string | null): Parameters<typeof withDefinitions>[0][number] {
   return {
     id: slug ?? "none",
@@ -113,6 +122,29 @@ test("a page type that reads is answered with its rows", async () => {
     depsReading(async () => reading)
   )
   expect(answered.status).toBe(200)
+})
+
+test("a listing asks the pages for no more rows than the listing carries", async () => {
+  const under: number[] = []
+  const deps = depsAsking(async (_pageTypeSlug, limit) => {
+    under.push(limit)
+    return { rows: [], n: 0 }
+  })
+  await answerPages(new Request(AT), "readout", deps)
+  expect(under).toEqual([5_000])
+})
+
+test("how many pages are filed is the count the pages answer with", async () => {
+  const deps = depsAsking(async () => ({ rows: [{ id: "one" }], n: 70_359 }))
+  const answered = await answerPages(new Request(AT), "readout", deps)
+  const said = (await answered.json()) as {
+    held: number
+    cut: boolean
+    rows: readonly unknown[]
+  }
+  expect(said.held).toBe(70_359)
+  expect(said.rows.length).toBe(1)
+  expect(said.cut).toBe(true)
 })
 
 test("a roster that reads is answered as one entry for each page type", async () => {

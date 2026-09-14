@@ -15,11 +15,15 @@ export const answer = {
     {
       invariantKind: "departure",
       statement:
-        "How many pages a page type has is counted off the rows the answer has rather than asked for.",
+        "How many pages a page type has is the count the pages answer with rather than the rows carried.",
     },
     {
       invariantKind: "departure",
       statement: "A listing has five thousand rows at the most.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That ceiling is stated in the question rather than trimmed off the answer.",
     },
     {
       invariantKind: "departure",
