@@ -4,7 +4,7 @@ export const message86f844183472 = {
   id: "01a0a11b-c5a9-7000-aec7-86f844183472",
   type: "message",
   slug: "message-86f844183472",
-  to: "ryn",
+  to: "seat/ryn",
   from: "supervisor",
   warrant: "announce",
   body: "▶️ Your previous turn ended at a Claude usage limit that has since cleared. Resume the work you were doing, continuing from exactly where the limit interrupted it.\n",
