@@ -1,12 +1,9 @@
 {
   "base_image": "oven/bun:1.3.14",
   "package_installer": "apt",
-  "external_donors": [
-    { "name": "donor", "image": "bitnami/kubectl@sha256:6e2cdb22d6ab7264ea198c717f555e30536b54029d26c8781b9f25f78951b564" }
-  ],
   "system_packages": ["jq", "gettext-base", "bash", "curl", "git", "coreutils", "ca-certificates"],
   "extra_run_commands": [
-    "COPY --from=donor /opt/bitnami/kubectl/bin/kubectl /usr/local/bin/kubectl",
+    "RUN curl -fsSL -o /usr/local/bin/kubectl https://dl.k8s.io/release/v1.33.1/bin/linux/amd64/kubectl && chmod +x /usr/local/bin/kubectl",
     "RUN curl -fsSL -o /usr/local/bin/sops https://github.com/getsops/sops/releases/download/v3.9.4/sops-v3.9.4.linux.amd64 && chmod +x /usr/local/bin/sops",
     "RUN curl -fsSL -o /tmp/buildkit.tar.gz https://github.com/moby/buildkit/releases/download/v0.28.0/buildkit-v0.28.0.linux-amd64.tar.gz && tar xzf /tmp/buildkit.tar.gz -C /usr/local/bin --strip-components=1 bin/buildctl && rm /tmp/buildkit.tar.gz"
   ],
