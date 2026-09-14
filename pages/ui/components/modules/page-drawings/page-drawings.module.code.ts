@@ -13,7 +13,7 @@ const FOUND = import.meta.glob<Drawn>("../../../../../**/*.page-component.code.t
   eager: true,
 })
 
-export const PAGE_DRAWINGS: ReadonlyMap<string, ComponentType<PageDrawingProps>> = drawingsIn(
+const PAGE_DRAWINGS: ReadonlyMap<string, ComponentType<PageDrawingProps>> = drawingsIn(
   FOUND,
   ENDING
 )

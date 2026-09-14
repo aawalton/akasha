@@ -16,7 +16,7 @@ function isPathSegment(value: unknown): value is PathSegment {
   return typeof value === "string" || typeof value === "number"
 }
 
-export function getValueArray(value: PropertyValue): readonly PathSegment[] {
+function getValueArray(value: PropertyValue): readonly PathSegment[] {
   if (!Array.isArray(value)) return []
   return value.filter(isPathSegment)
 }

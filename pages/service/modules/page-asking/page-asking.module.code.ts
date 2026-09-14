@@ -142,7 +142,7 @@ export function titledAs(propertySlug: string): string {
     .join(" ")
 }
 
-export function drawnFor(root: string, named: Named, pageTypeSlug: string): readonly string[] {
+function drawnFor(root: string, named: Named, pageTypeSlug: string): readonly string[] {
   const found: string[] = []
   const seen = new Set<string>()
   const waiting: string[] = [pageTypeSlug]
@@ -158,7 +158,7 @@ export function drawnFor(root: string, named: Named, pageTypeSlug: string): read
   return found
 }
 
-export function memberTypesIn(page: Value | undefined): readonly string[] {
+function memberTypesIn(page: Value | undefined): readonly string[] {
   if (page === undefined) return []
   const held = page[MEMBERS]
   if (!Array.isArray(held)) return []

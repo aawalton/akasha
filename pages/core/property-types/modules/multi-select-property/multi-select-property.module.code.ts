@@ -13,7 +13,7 @@ import {
 import { parseConfig } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import { multiSelectConfigSchema } from "akasha/pages/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
 
-export function getOptions(definition: PropertyDefinition): readonly OptionLike[] {
+function getOptions(definition: PropertyDefinition): readonly OptionLike[] {
   return parseConfig(multiSelectConfigSchema, definition.config, { options: [] }).options
 }
 

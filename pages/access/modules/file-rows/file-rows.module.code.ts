@@ -25,7 +25,7 @@ const LIFTED_COLUMN = {
 
 type LiftedKey = keyof typeof LIFTED_COLUMN
 
-export const SETTLED_BY_ROW: ReadonlySet<string> = new Set([
+const SETTLED_BY_ROW: ReadonlySet<string> = new Set([
   "userId",
   "pageTypeId",
   "type",

@@ -4,7 +4,7 @@ const HOLE = /\{([a-z0-9-]+)\}/g
 
 export type HeldAt = (key: string) => string | null
 
-export function holesIn(rule: string): readonly string[] {
+function holesIn(rule: string): readonly string[] {
   const found: string[] = []
   for (const [, key] of rule.matchAll(HOLE)) {
     if (key !== undefined) found.push(key)
