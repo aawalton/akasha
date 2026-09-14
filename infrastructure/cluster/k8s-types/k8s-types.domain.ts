@@ -10,7 +10,6 @@ export const k8sTypes = {
     "module/config-checksum",
     "module/hostnames",
     "module/hostnames-ci-enrollment",
-    "module/k8s-manifest-walker",
     "module/k8s-namespace",
     "module/k8s-secret-env",
     "module/k8s-web-service",
