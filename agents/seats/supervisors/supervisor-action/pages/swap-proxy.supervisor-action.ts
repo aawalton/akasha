@@ -7,7 +7,7 @@ export const swapProxy = {
   definition: "a seat's proxy replaced with one built from current code",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This action leaves the agent running.",
     },
   ],

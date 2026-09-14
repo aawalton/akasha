@@ -7,7 +7,7 @@ export const restart = {
   definition: "a seat's agent started again in the same session between turns",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This action waits for the end of the agent's turn.",
     },
   ],

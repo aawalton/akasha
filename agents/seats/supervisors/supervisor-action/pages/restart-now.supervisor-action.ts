@@ -8,7 +8,7 @@ export const restartNow = {
     "a seat's agent started again in the same session without waiting for the turn to end",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This action interrupts the agent's turn.",
     },
   ],
