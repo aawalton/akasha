@@ -46,14 +46,6 @@ export const mobileSsh = {
     },
     {
       invariantKind: "departure",
-      statement: "Named files reach the host under the paths those files have below the root.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "A delivery of named files deletes nothing already on the host.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A spawn that fails with ENOENT is reported as the tool being off PATH.",
     },
   ],

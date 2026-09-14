@@ -144,56 +144,6 @@ export function runSshResult(
   return deliverAndRun(target, script, options)
 }
 
-export interface RsyncOptions {
-  readonly quiet?: boolean
-}
-
-function rsyncRun(
-  target: SshTarget,
-  args: readonly string[],
-  quiet: boolean | undefined
-): Promise<void> {
-  return new Promise<void>((resolve, reject) => {
-    const child = spawn("rsync", [...args], { stdio: stdioFor(quiet) })
-    child.on("error", (err: Error & { code?: string }) => {
-      if (err.code === "ENOENT") {
-        reject(new OperationalError("rsync not found on PATH"))
-        return
-      }
-      reject(new OperationalError(`rsync spawn failed: ${err.message}`))
-    })
-    child.on("close", (code) => {
-      if (code === 0) {
-        resolve()
-        return
-      }
-      reject(new OperationalError(`rsync exited ${code} (host: ${target.user}@${target.host})`))
-    })
-  })
-}
-
-export function rsyncFilesToHost(
-  target: SshTarget,
-  localRoot: string,
-  paths: readonly string[],
-  remoteDir: string,
-  options: RsyncOptions = {}
-): Promise<void> {
-  if (paths.length === 0) return Promise.resolve()
-  return rsyncRun(
-    target,
-    [
-      "-az",
-      "--relative",
-      "-e",
-      rsyncSshTransport(expandTilde(target.keyPath)),
-      ...paths.map((rel) => `${localRoot}/./${rel}`),
-      `${target.user}@${target.host}:${remoteDir}/`,
-    ],
-    options.quiet
-  )
-}
-
 export async function runSshCapture(
   target: SshTarget,
   script: string,
