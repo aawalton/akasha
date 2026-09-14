@@ -14,6 +14,7 @@ export const storyPlayed = {
     "module/played-channel",
     "module/played-panels",
     "module/played-rows",
+    "module/played-shell",
     "module/prose-beside",
     "relation-property/world",
   ],
