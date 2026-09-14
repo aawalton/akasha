@@ -12,6 +12,7 @@ import {
 } from "akasha/infrastructure/cluster/k8s-types/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
 import { ci } from "akasha/infrastructure/container-image/dockerfiles/built-images/ci/ci.built-image.ts"
 import { refFor } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
+import { deployAccount } from "akasha/infrastructure/job/deploy-account/deploy-account.manifest.ts"
 import { dispatcherIn } from "akasha/infrastructure/machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.scripting.code.ts"
 import { fileOf } from "akasha/pages/indexes/modules/property-file/property-file.module.code.ts"
 import { valuedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
@@ -93,6 +94,7 @@ export function jobFor(
         spec: {
           nodeSelector: workloadClassMemberSelector(CLASS),
           restartPolicy: "Never",
+          serviceAccountName: deployAccount.slug,
           securityContext: { seccompProfile: { type: UNCONFINED } },
           volumes: [
             { name: WORK, emptyDir: {} },
