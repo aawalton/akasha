@@ -23,6 +23,7 @@ export const codeEditorWindow = {
   parts: [
     "instant-property/observed-at",
     "module/window-page-sweeping",
+    "service-workstation/sweep-window-pages",
     "text-property/window-features",
   ],
   properties: [
