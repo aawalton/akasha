@@ -28,33 +28,3 @@ export function messageLabel(msg: ImessageMessage, name: NameFor): string {
 export function singleLine(text: string): string {
   return text.replaceAll("\t", " ").replaceAll(/\s*\n\s*/g, " ⏎ ")
 }
-
-export function emitMessages(
-  messages: readonly ImessageMessage[],
-  name: NameFor,
-  json: boolean
-): undefined {
-  const oldestFirst = [...messages].reverse()
-  if (json) {
-    const records = oldestFirst.map((m) => ({
-      rowid: m.rowid,
-      guid: m.guid,
-      date: formatLocalMinute(m.unixSeconds),
-      unixSeconds: m.unixSeconds,
-      isFromMe: m.isFromMe,
-      handleId: m.handleId,
-      contact: m.handleId === null ? null : name(m.handleId),
-      chatIdentifier: m.chatIdentifier,
-      chatDisplayName: m.chatDisplayName,
-      text: m.text,
-    }))
-    process.stdout.write(`${JSON.stringify(records)}\n`)
-    return
-  }
-  for (const m of oldestFirst) {
-    const arrow = m.isFromMe ? "→" : "←"
-    process.stdout.write(
-      `${formatLocalMinute(m.unixSeconds)}\t${arrow}\t${messageLabel(m, name)}\t${singleLine(m.text)}\n`
-    )
-  }
-}

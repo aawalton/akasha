@@ -4,15 +4,11 @@ export const messageLines = {
   id: "01a0657e-795c-7000-8a91-fdebae0f4233",
   type: "module",
   slug: "message-lines",
-  definition: "a run of iMessage rows written out as tab-parted lines or as one JSON array",
+  definition: "the pieces one iMessage row is written out from: its moment, its sender, its body",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
   invariants: [
-    {
-      invariantKind: "departure",
-      statement: "Rows arrive newest first and are written oldest first.",
-    },
     {
       invariantKind: "departure",
       statement: "A handle no contact names is written as the handle itself.",
