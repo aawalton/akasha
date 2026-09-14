@@ -18,11 +18,11 @@ export const statusBarTheme = {
     },
     {
       invariantKind: "departure",
-      statement: "The session usage and the weekly usage take different colors.",
+      statement: "A separator takes a color apart from every figure color.",
     },
     {
       invariantKind: "departure",
-      statement: "A separator takes a color apart from every figure color.",
+      statement: "The neutral every figure takes is lighter than the separator's grey.",
     },
     {
       invariantKind: "departure",
@@ -38,7 +38,11 @@ export const statusBarTheme = {
     },
     {
       invariantKind: "departure",
-      statement: "The processor and the memory figures take one and the same neutral.",
+      statement: "Every figure on the status bar takes one and the same neutral.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That neutral is the design's second text color rather than its brightest.",
     },
     {
       invariantKind: "departure",
