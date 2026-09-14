@@ -35,14 +35,20 @@ test("a service stating no schedule is simple, wanted by the default target, and
   expect(text).toContain("Type=simple")
   expect(text).toContain("Restart=always")
   expect(text).toContain("WantedBy=default.target")
-  expect(text).toContain("SuccessExitStatus=143 79\n")
+  expect(text).toContain("SuccessExitStatus=143 79 SIGTERM\n")
   expect(text).toContain("RestartForceExitStatus=79\n")
 })
 
 test("a scheduled service recycles on nothing at all", () => {
   const text = serviceUnitText(pageOf({ systemd: { schedule: "hourly" } }))
-  expect(text).not.toContain("SuccessExitStatus")
   expect(text).not.toContain("RestartForceExitStatus")
+})
+
+test("a unit ending on the signal that asks it to stop is a clean stop rather than a failure", () => {
+  expect(serviceUnitText(pageOf({}))).toContain("SuccessExitStatus=143 79 SIGTERM\n")
+  expect(serviceUnitText(pageOf({ systemd: { schedule: "hourly" } }))).toContain(
+    "SuccessExitStatus=143 79 SIGTERM\n"
+  )
 })
 
 test("a service is put in the slice ranking below the apps Alan is using", () => {
@@ -181,7 +187,7 @@ test("an exit code a service states joins the term and the moved code rather tha
   const text = serviceUnitText(
     pageOf({ systemd: { successExitStatus: 75, restartForceExitStatus: 75 } })
   )
-  expect(text).toContain("SuccessExitStatus=143 79 75\n")
+  expect(text).toContain("SuccessExitStatus=143 79 75 SIGTERM\n")
   expect(text).toContain("RestartForceExitStatus=79 75\n")
 })
 
@@ -192,7 +198,7 @@ test("a service stating one exit twice is written that exit once", () => {
       systemd: { successExitStatus: 79, restartForceExitStatus: 79 },
     })
   )
-  expect(text).toContain("SuccessExitStatus=143 79\n")
+  expect(text).toContain("SuccessExitStatus=143 79 SIGTERM\n")
   expect(text).toContain("RestartForceExitStatus=79\n")
 })
 

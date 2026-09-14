@@ -7,6 +7,7 @@ const CHECKOUT = "%h/repos/akasha"
 export const PAGES_UNIT = "pages-service.service"
 const SLICE = "background.slice"
 const SIGTERM_EXIT = 143
+const TOLD_TO_STOP = "SIGTERM"
 const DEFAULT_RESTART = "always"
 const DEFAULT_TARGET = "default.target"
 const TIMER_TARGET = "timers.target"
@@ -88,16 +89,20 @@ function orderingLines(given: Service): readonly string[] {
   return lines
 }
 
-function joined(codes: readonly number[]): string {
+function joined(codes: readonly (number | string)[]): string {
   return [...new Set(codes)].join(" ")
 }
 
-function exitLines(given: Service): readonly string[] {
+function successLine(given: Service): string {
+  const stated = given.service.systemd?.successExitStatus
+  const stops = stated === undefined ? [] : [stated]
+  return `SuccessExitStatus=${joined([SIGTERM_EXIT, RESTART_EXIT, ...stops, TOLD_TO_STOP])}`
+}
+
+function restartLines(given: Service): readonly string[] {
   const stated = given.service.systemd
-  const stops = stated?.successExitStatus === undefined ? [] : [stated.successExitStatus]
   const forces = stated?.restartForceExitStatus === undefined ? [] : [stated.restartForceExitStatus]
-  const lines = [`SuccessExitStatus=${joined([SIGTERM_EXIT, RESTART_EXIT, ...stops])}`]
-  lines.push(`RestartForceExitStatus=${joined([RESTART_EXIT, ...forces])}`)
+  const lines = [`RestartForceExitStatus=${joined([RESTART_EXIT, ...forces])}`]
   if (given.service.needsSecrets === true) {
     lines.push(`RestartPreventExitStatus=${NO_SECRETS}`)
   }
@@ -126,12 +131,14 @@ export function serviceUnitText(given: Service): string {
     lines.push(`TimeoutStartSec=${stated.startTimeoutSeconds}`)
   }
 
+  lines.push(successLine(given))
+
   if (!scheduled) {
     lines.push(`Restart=${stated?.restart ?? DEFAULT_RESTART}`)
     if (stated?.restartDelaySeconds !== undefined) {
       lines.push(`RestartSec=${stated.restartDelaySeconds}`)
     }
-    lines.push(...exitLines(given))
+    lines.push(...restartLines(given))
     lines.push("", "[Install]", `WantedBy=${stated?.wantedBy ?? DEFAULT_TARGET}`)
   }
 

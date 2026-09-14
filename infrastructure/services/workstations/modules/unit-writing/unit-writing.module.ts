@@ -92,6 +92,15 @@ export const unitWriting = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A unit ending on the signal that asks it to stop is a clean stop rather than a failure.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A scheduled service names that clean stop as a service stating no schedule does.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An exit code a service states joins that exit rather than replacing it.",
     },
     {
