@@ -9,7 +9,7 @@ export const savedVarsMigration = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A migration runs only for the addon the migration names.",
+      statement: "A migration names the one addon that migration runs for.",
     },
     {
       invariantKind: "departure",
@@ -33,8 +33,12 @@ export const savedVarsMigration = {
     },
 
     {
-      invariantKind: "departure",
-      statement: "An outcome that changed nothing is reported to nobody.",
+      invariantKind: "absence",
+      statement: "Nothing here runs a whole list of migrations.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here says what a migration did.",
     },
   ],
 } as const satisfies Module

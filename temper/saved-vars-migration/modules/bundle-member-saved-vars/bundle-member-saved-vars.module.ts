@@ -32,5 +32,9 @@ export const bundleMemberSavedVars = {
       invariantKind: "absence",
       statement: "Nothing here removes the member's globals from the bundle file.",
     },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here says what a migration did.",
+    },
   ],
 } as const satisfies Module

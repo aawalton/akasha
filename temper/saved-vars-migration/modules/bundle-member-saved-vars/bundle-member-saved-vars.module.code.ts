@@ -110,13 +110,3 @@ export function readDeclaredSavedVars(sourceDir: string): readonly string[] {
   const raw: unknown = JSON.parse(readFileSync(path, "utf-8"))
   return DeclaredSavedVars.parse(raw).savedVariables ?? []
 }
-
-export function logBundleMemberMigration(outcome: BundleMemberMigrationOutcome): undefined {
-  if (outcome.kind === "migrated") {
-    const aside = outcome.backedUp ? "; prior file copied aside" : ""
-    console.log(
-      `Migrated saved variables out of the bundle into ${outcome.member}.lua (${String(outcome.globals.length)} global(s), ${String(outcome.bytesWritten)} bytes${aside})`
-    )
-  }
-  return undefined
-}
