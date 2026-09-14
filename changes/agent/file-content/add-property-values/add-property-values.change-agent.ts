@@ -115,4 +115,5 @@ export const addPropertyValues = {
     },
   ],
   changeKind: "change-checked",
+  maxCpuSeconds: 30,
 } as const satisfies ChangeAgent

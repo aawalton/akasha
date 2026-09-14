@@ -33,4 +33,5 @@ export const appendLines = {
     },
   ],
   changeKind: "change-authored",
+  maxCpuSeconds: 30,
 } as const satisfies ChangeAgent

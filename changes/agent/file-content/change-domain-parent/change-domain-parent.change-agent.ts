@@ -25,4 +25,5 @@ export const changeDomainParent = {
     },
   ],
   changeKind: "change-checked",
+  maxCpuSeconds: 30,
 } as const satisfies ChangeAgent
