@@ -3,7 +3,7 @@ import type { Judged } from "akasha/checks/modules/judging/judging.module.code.t
 import {
   bodiesOver,
   change as staged,
-} from "akasha/checks/modules/staging/check-staging.module.code.ts"
+} from "akasha/checks/test-fixtures/staging/check-staging.test-fixture.code.ts"
 import { nothingFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"

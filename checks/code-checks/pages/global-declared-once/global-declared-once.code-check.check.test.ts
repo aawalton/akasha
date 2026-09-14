@@ -9,8 +9,12 @@ import {
   reasoned,
 } from "akasha/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.decision.test-fixtures.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { change, scratch, staged } from "akasha/checks/modules/staging/check-staging.module.code.ts"
 import { shadowed } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+import {
+  change,
+  scratch,
+  staged,
+} from "akasha/checks/test-fixtures/staging/check-staging.test-fixture.code.ts"
 import {
   listedFiled,
   valueAlsoFiled,

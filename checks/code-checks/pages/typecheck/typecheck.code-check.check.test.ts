@@ -10,7 +10,10 @@ import {
   TWO_BREAKS,
   vanishing,
 } from "akasha/checks/code-checks/pages/typecheck/typecheck.code-check.decision.test-fixtures.ts"
-import { change, scratch } from "akasha/checks/modules/staging/check-staging.module.code.ts"
+import {
+  change,
+  scratch,
+} from "akasha/checks/test-fixtures/staging/check-staging.test-fixture.code.ts"
 import { shadowAsked } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)

@@ -11,7 +11,7 @@ import {
   APP_PLAIN,
   appRooted,
 } from "akasha/checks/modules/router-app-code/router-app-code.module.test-fixtures.ts"
-import { scratch } from "akasha/checks/modules/staging/check-staging.module.code.ts"
+import { scratch } from "akasha/checks/test-fixtures/staging/check-staging.test-fixture.code.ts"
 import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)

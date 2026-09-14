@@ -18,8 +18,6 @@ export const check = {
     "module/change-walking",
     "module/check-cost",
     "module/check-measuring",
-
-    "module/check-staging",
     "module/checking",
     "module/judging",
     "module/model-running",
@@ -33,6 +31,7 @@ export const check = {
     "page-type/refusal",
     "service-workstation/audit-running",
     "test-fixture/check-scratch",
+    "test-fixture/check-staging",
   ],
   invariants: [
     {

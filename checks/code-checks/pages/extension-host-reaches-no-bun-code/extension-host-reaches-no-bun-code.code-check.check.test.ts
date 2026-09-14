@@ -8,7 +8,7 @@ import {
   scratch,
   withManifest,
 } from "akasha/checks/code-checks/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.code-check.decision.test-fixtures.ts"
-import { bodiesOver } from "akasha/checks/modules/staging/check-staging.module.code.ts"
+import { bodiesOver } from "akasha/checks/test-fixtures/staging/check-staging.test-fixture.code.ts"
 import { shadowAsked } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)

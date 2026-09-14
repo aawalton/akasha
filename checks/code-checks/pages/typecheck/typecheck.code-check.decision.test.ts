@@ -58,7 +58,10 @@ import {
   WITHOUT,
   WRONG,
 } from "akasha/checks/code-checks/pages/typecheck/typecheck.code-check.decision.test-fixtures.ts"
-import { change, scratch } from "akasha/checks/modules/staging/check-staging.module.code.ts"
+import {
+  change,
+  scratch,
+} from "akasha/checks/test-fixtures/staging/check-staging.test-fixture.code.ts"
 import { NOWHERE } from "akasha/code/reading/modules/code-typing/code-typing.module.test-fixtures.ts"
 import { shadowAsked, shadowFor } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 

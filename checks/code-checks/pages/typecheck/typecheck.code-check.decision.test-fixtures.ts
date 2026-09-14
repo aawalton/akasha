@@ -12,7 +12,7 @@ import {
   change,
   named,
   staged,
-} from "akasha/checks/modules/staging/check-staging.module.code.ts"
+} from "akasha/checks/test-fixtures/staging/check-staging.test-fixture.code.ts"
 import { valueAlsoFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import {
   relationFiled,

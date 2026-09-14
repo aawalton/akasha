@@ -1,8 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
 import { checkReachesAPathThroughTheIndex } from "akasha/checks/code-checks/pages/check-reaches-a-path-through-the-index/check-reaches-a-path-through-the-index.code-check.check.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { change, scratch, staged } from "akasha/checks/modules/staging/check-staging.module.code.ts"
 import { shadowed } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+import {
+  change,
+  scratch,
+  staged,
+} from "akasha/checks/test-fixtures/staging/check-staging.test-fixture.code.ts"
 import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 
 afterAll(scratch.sweep)

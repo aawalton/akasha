@@ -2,8 +2,11 @@ import { afterAll, expect, test } from "bun:test"
 import { rmSync } from "node:fs"
 import { join } from "node:path"
 import { checkReachesAPathThroughTheIndex } from "akasha/checks/code-checks/pages/check-reaches-a-path-through-the-index/check-reaches-a-path-through-the-index.code-check.audit.code.ts"
-import { scratch, staged } from "akasha/checks/modules/staging/check-staging.module.code.ts"
 import { tracked } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+import {
+  scratch,
+  staged,
+} from "akasha/checks/test-fixtures/staging/check-staging.test-fixture.code.ts"
 import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
