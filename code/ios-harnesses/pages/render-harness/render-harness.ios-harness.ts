@@ -8,11 +8,11 @@ export const renderHarness = {
   main: "swift",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Which components the harness compiles is read from the app the harness is given.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An app naming no components draws nothing.",
     },
   ],
