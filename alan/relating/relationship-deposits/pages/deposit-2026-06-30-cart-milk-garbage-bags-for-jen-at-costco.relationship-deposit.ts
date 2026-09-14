@@ -7,7 +7,7 @@ export const deposit20260630CartMilkGarbageBagsForJenAtCostco = {
   title: "Deposit — 2026-06-30 — cart, milk, garbage bags for Jen at Costco",
   relationshipDepositDate: "2026-06-30",
   relationshipDepositPersona: "persona/ruby",
-  relationshipDepositRelationship: "jennifer-walton",
+  relationshipDepositRelationship: "relationship/jennifer-walton",
   relationshipDepositSize: "small",
   relationshipDepositValue: "love",
 } as const satisfies RelationshipDeposit

@@ -7,7 +7,7 @@ export const deposit20260629LookedAtDeckCarpetOptionsWithJen = {
   title: "Deposit — 2026-06-29 — looked at deck carpet options with Jen",
   relationshipDepositDate: "2026-06-29",
   relationshipDepositPersona: "persona/ruby",
-  relationshipDepositRelationship: "jennifer-walton",
+  relationshipDepositRelationship: "relationship/jennifer-walton",
   relationshipDepositSize: "small",
   relationshipDepositValue: "love",
 } as const satisfies RelationshipDeposit
