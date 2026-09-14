@@ -65,7 +65,6 @@ export const designInterfacesPrimitives = {
     "module/use-debounced-callback",
     "module/use-debounced-value",
     "module/use-keyboard-registry",
-    "module/use-mobile",
     "module/use-number-draft",
     "module/use-single-flight",
   ],
